@@ -10,3 +10,4 @@ updated: 2026-05-04
 - [Psychological First Aid: Supporting People Affected by Disaster in Australia](../sources/fxa303-week09-psychological-first-aid-supporting-people-affected-by.md)
 - [The Afloat Project](../sources/fxa303-week09-the-afloat-project.md)
 - [Afloat: Children and Families Community Resilience Art Project](../sources/fxa303-week09-web-article-creative-2023.md)
+- [Refugee Youth and Migration: Using Arts-Informed Research to Understand Changes in Their Roles and Responsibilities](../sources/fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to.md)

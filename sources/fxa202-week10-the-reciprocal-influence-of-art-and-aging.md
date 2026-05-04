@@ -11,7 +11,7 @@ tags: ["art-therapy", "aging-processes", "creativity-in-adults", "social-partici
 key_concepts: ["continuity-and-adaptation-theory", "gerotranscendence", "creative-expansion-with-age"]
 methods: ["case-study"]
 slug: fxa202-week10-the-reciprocal-influence-of-art-and-aging
-related: []
+related: ["social-participation"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -44,4 +44,4 @@ This chapter explores the creative potential of older adults, particularly focus
 
 ## See Also
 
-*(none yet)*
+- [social-participation](../topics/social-participation.md)

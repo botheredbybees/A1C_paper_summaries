@@ -11,7 +11,7 @@ tags: ["eating-disorders", "arts-therapy", "scoping-review", "mental-health-inte
 key_concepts: ["eating disorders", "arts therapies", "therapeutic outcomes"]
 methods: ["scoping review"]
 slug: fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the
-related: []
+related: ["arts-therapy", "eating-disorders", "mental-health-interventions", "scoping-review"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -42,4 +42,7 @@ This document presents a scoping review protocol to explore the role of arts the
 
 ## See Also
 
-*(none yet)*
+- [arts-therapy](../topics/arts-therapy.md)
+- [eating-disorders](../topics/eating-disorders.md)
+- [mental-health-interventions](../topics/mental-health-interventions.md)
+- [scoping-review](../topics/scoping-review.md)

@@ -11,7 +11,7 @@ tags: ["eating-disorders", "art-therapy", "museum-interventions", "fxa301"]
 key_concepts: ["body-image-concerns", "self-expression", "patient-satisfaction"]
 methods: ["case-study"]
 slug: fxa301-week10-an-adjunctive-museum-based-art-therapy-experience-in-the
-related: []
+related: ["eating-disorders"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -41,4 +41,4 @@ This study examines the feasibility and short-term impact of a museum-based art 
 
 ## See Also
 
-*(none yet)*
+- [eating-disorders](../topics/eating-disorders.md)

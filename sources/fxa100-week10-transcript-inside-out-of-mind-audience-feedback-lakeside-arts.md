@@ -11,7 +11,7 @@ tags: ["dementia-care", "audience-feedback", "performance-arts", "fxa100"]
 key_concepts: ["sensitivity in care", "life-story-work"]
 methods: []
 slug: fxa100-week10-transcript-inside-out-of-mind-audience-feedback-lakeside-arts
-related: []
+related: ["dementia-care", "performance-arts"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -40,4 +40,5 @@ The transcript captures audience reactions to a performance called 'Inside Out o
 
 ## See Also
 
-*(none yet)*
+- [dementia-care](../topics/dementia-care.md)
+- [performance-arts](../topics/performance-arts.md)

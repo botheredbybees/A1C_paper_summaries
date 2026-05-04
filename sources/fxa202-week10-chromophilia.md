@@ -11,7 +11,7 @@ tags: ["color-emotion-connection", "daily-life-experience", "poetic-health-benef
 key_concepts: ["color symbolism", "emotional states", "therapeutic value of color"]
 methods: ["poetry"]
 slug: fxa202-week10-chromophilia
-related: []
+related: ["emotional-wellbeing"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -44,4 +44,4 @@ Mel Henderson's poem 'Chromophilia' explores the interplay between colors and hu
 
 ## See Also
 
-*(none yet)*
+- [emotional-wellbeing](../topics/emotional-wellbeing.md)

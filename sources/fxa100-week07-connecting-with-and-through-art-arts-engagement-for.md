@@ -11,7 +11,7 @@ tags: ["arts-engagement", "dementia-care", "social-isolation", "community-wellbe
 key_concepts: ["arts engagement programs", "sense of connection", "in-the-moment pleasure"]
 methods: ["case study"]
 slug: fxa100-week07-connecting-with-and-through-art-arts-engagement-for
-related: ["arts-engagement", "community-wellbeing", "dementia-care"]
+related: ["arts-engagement", "community-wellbeing", "dementia-care", "social-isolation"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -47,3 +47,4 @@ This document discusses a research project titled 'Connecting with and through a
 - [arts-engagement](../topics/arts-engagement.md)
 - [community-wellbeing](../topics/community-wellbeing.md)
 - [dementia-care](../topics/dementia-care.md)
+- [social-isolation](../topics/social-isolation.md)

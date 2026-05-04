@@ -11,7 +11,7 @@ tags: ["photo-essay", "health-communication", "image-storytelling", "fxa202"]
 key_concepts: ["linear-storytelling", "non-linear-storytelling"]
 methods: []
 slug: fxa202-week10-fxa202-week-10-web-lecture
-related: []
+related: ["health-communication", "photo-essay"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -40,4 +40,5 @@ This document is a web lecture for the course 'FXA202 The Photo Essay: Storytell
 
 ## See Also
 
-*(none yet)*
+- [health-communication](../topics/health-communication.md)
+- [photo-essay](../topics/photo-essay.md)

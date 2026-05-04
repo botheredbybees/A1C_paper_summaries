@@ -18,3 +18,4 @@ updated: 2026-05-04
 - [Arts in Adolescence](../sources/fxa303-week03-arts-in-adolescence.md)
 - [Emotional expression through puppetry](../sources/fxa303-week06-emotional-expression-through-puppetry.md)
 - [The Role of Puppetry in Mental Health Promotion: A Scoping Review of Its Efficacy and Applications](../sources/fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping.md)
+- [Arts and Refugees: Multidisciplinary Perspectives (Vol. 2)](../sources/fxa303-week10-arts-and-refugees-multidisciplinary-perspectives-vol-2.md)

@@ -11,7 +11,7 @@ tags: ["public-health", "wave-theory", "modernity-challenges", "fxa301"]
 key_concepts: ["obesity epidemic", "health inequality"]
 methods: []
 slug: fxa301-oxford-textbook-of-creative-arts-ch18-chapter-3-(2)
-related: []
+related: ["public-health"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -40,4 +40,4 @@ The chapter discusses the evolution of public health waves in response to societ
 
 ## See Also
 
-*(none yet)*
+- [public-health](../topics/public-health.md)

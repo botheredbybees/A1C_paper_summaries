@@ -11,7 +11,7 @@ tags: ["eating-disorders", "arts-therapy", "mental-health-interventions", "fxa30
 key_concepts: ["eating disorders", "arts-based therapies", "empirical evidence"]
 methods: ["survey"]
 slug: fxa301-week10-arts-based-therapies-in-the-treatment-of-eating-disorders
-related: []
+related: ["arts-therapy", "eating-disorders", "mental-health-interventions"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -41,4 +41,6 @@ The article explores the incorporation of arts-based therapies, such as music th
 
 ## See Also
 
-*(none yet)*
+- [arts-therapy](../topics/arts-therapy.md)
+- [eating-disorders](../topics/eating-disorders.md)
+- [mental-health-interventions](../topics/mental-health-interventions.md)

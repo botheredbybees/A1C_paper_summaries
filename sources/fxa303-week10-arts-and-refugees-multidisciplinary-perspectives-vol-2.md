@@ -11,7 +11,7 @@ tags: ["arts-refugees", "social-participation", "cultural-integration", "gender-
 key_concepts: ["refugee integration", "multidisciplinary perspectives", "alternative aesthetic norms"]
 methods: ["case study"]
 slug: fxa303-week10-arts-and-refugees-multidisciplinary-perspectives-vol-2
-related: []
+related: ["cultural-integration", "social-participation", "therapeutic-arts"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -43,4 +43,6 @@ The article explores the role of arts in the lives and integration processes of 
 
 ## See Also
 
-*(none yet)*
+- [cultural-integration](../topics/cultural-integration.md)
+- [social-participation](../topics/social-participation.md)
+- [therapeutic-arts](../topics/therapeutic-arts.md)

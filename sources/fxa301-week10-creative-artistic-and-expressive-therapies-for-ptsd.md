@@ -11,7 +11,7 @@ tags: ["ptsd-treatment", "expressive-writing", "creative-therapies", "emotional-
 key_concepts: ["expressive writing", "creative therapies", "PTSD treatment"]
 methods: ["case study"]
 slug: fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd
-related: []
+related: ["creative-therapies", "emotional-regulation", "expressive-writing", "ptsd-treatment"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -42,4 +42,7 @@ Joshua Smyth's paper discusses various creative and expressive therapies that ca
 
 ## See Also
 
-*(none yet)*
+- [creative-therapies](../topics/creative-therapies.md)
+- [emotional-regulation](../topics/emotional-regulation.md)
+- [expressive-writing](../topics/expressive-writing.md)
+- [ptsd-treatment](../topics/ptsd-treatment.md)

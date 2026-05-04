@@ -11,7 +11,7 @@ tags: ["dementia-support", "memory-stimulation", "social-interaction", "fxa100"]
 key_concepts: ["meaningful conversations", "everyday objects"]
 methods: ["case study"]
 slug: fxa100-week07-iremember-loan-resource-flyer
-related: ["memory-stimulation", "social-interaction"]
+related: ["dementia-support", "memory-stimulation", "social-interaction"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,5 +40,6 @@ The document describes the 'iRemember' project, a free loan resource developed b
 
 ## See Also
 
+- [dementia-support](../topics/dementia-support.md)
 - [memory-stimulation](../topics/memory-stimulation.md)
 - [social-interaction](../topics/social-interaction.md)

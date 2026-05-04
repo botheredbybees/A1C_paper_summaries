@@ -11,7 +11,7 @@ tags: ["video-transcript", "youtube-downloads", "manual-retrieval", "fxa303"]
 key_concepts: ["automatic-download-failure", "transcription-unavailability"]
 methods: []
 slug: fxa303-week10-transcript-duration-9-54-url-only
-related: []
+related: ["video-transcript"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -40,4 +40,4 @@ The automatic download of the transcript for YouTube video with ID PTIRqKK9hyc f
 
 ## See Also
 
-*(none yet)*
+- [video-transcript](../topics/video-transcript.md)

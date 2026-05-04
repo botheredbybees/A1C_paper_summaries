@@ -11,7 +11,7 @@ tags: ["arts-education", "emotional-wellbeing", "social-inclusion", "youth-devel
 key_concepts: ["arts therapies", "Labyrinth Project", "self-expression"]
 methods: ["case study"]
 slug: fxa303-week10-arts-education-and-society-the-role-of-the-arts-in
-related: []
+related: ["arts-education", "emotional-wellbeing", "social-inclusion", "youth-development"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -42,4 +42,7 @@ Vassiliki Karkou and Judy Glasman's article discusses the role of arts in educat
 
 ## See Also
 
-*(none yet)*
+- [arts-education](../topics/arts-education.md)
+- [emotional-wellbeing](../topics/emotional-wellbeing.md)
+- [social-inclusion](../topics/social-inclusion.md)
+- [youth-development](../topics/youth-development.md)

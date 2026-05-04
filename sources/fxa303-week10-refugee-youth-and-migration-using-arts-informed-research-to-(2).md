@@ -11,7 +11,7 @@ tags: ["refugee-youth", "migration-experience", "arts-informed-research", "role-
 key_concepts: ["roles and responsibilities", "arts-informed research", "vulnerable populations"]
 methods: ["focus group discussions", "drawing activities"]
 slug: fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to-(2)
-related: []
+related: ["arts-informed-research", "refugee-youth"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -43,4 +43,5 @@ The article explores the changes in roles and responsibilities of refugee youth 
 
 ## See Also
 
-*(none yet)*
+- [arts-informed-research](../topics/arts-informed-research.md)
+- [refugee-youth](../topics/refugee-youth.md)

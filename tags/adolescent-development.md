@@ -18,3 +18,4 @@ updated: 2026-05-04
 - [Music Listening Motivation Is Associated With Global Happiness in Canadian Late Adolescents](../sources/fxa303-week03-music-listening-motivation-is-associated-with-global.md)
 - [The role of music in adolescent development: much more than the same old song](../sources/fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than.md)
 - [Week 3 Overview - FXA303 Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental.md)
+- [Evaluation of a school-based creative arts therapy programme for adolescents from refugee backgrounds](../sources/fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy.md)

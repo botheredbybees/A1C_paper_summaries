@@ -11,7 +11,7 @@ tags: ["creative-arts-therapy", "ptsd-treatment", "systematic-review", "fxa301"]
 key_concepts: ["creative arts therapies", "posttraumatic stress disorder (PTSD)"]
 methods: ["systematic review"]
 slug: fxa301-week10-a-systematic-review-of-the-efficacy-of-creative-arts
-related: []
+related: ["creative-arts-therapy", "ptsd-treatment", "systematic-review"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -40,4 +40,6 @@ This systematic review evaluates the efficacy of creative arts therapies, includ
 
 ## See Also
 
-*(none yet)*
+- [creative-arts-therapy](../topics/creative-arts-therapy.md)
+- [ptsd-treatment](../topics/ptsd-treatment.md)
+- [systematic-review](../topics/systematic-review.md)

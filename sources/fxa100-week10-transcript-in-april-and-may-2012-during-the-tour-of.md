@@ -11,7 +11,7 @@ tags: ["dementia-care", "sundowner-performance", "community-forums", "fxa100"]
 key_concepts: ["Sundown Syndrome", "support-systems"]
 methods: []
 slug: fxa100-week10-transcript-in-april-and-may-2012-during-the-tour-of
-related: []
+related: ["dementia-care"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -40,4 +40,4 @@ The transcript covers two forums held during the Sundowner tour in April and May
 
 ## See Also
 
-*(none yet)*
+- [dementia-care](../topics/dementia-care.md)

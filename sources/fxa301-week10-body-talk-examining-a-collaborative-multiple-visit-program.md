@@ -11,7 +11,7 @@ tags: ["eating-disorders", "art-therapy", "museum-programming", "body-image", "m
 key_concepts: ["eating disorders", "art therapy", "positive body image", "collaborative program"]
 methods: ["case study"]
 slug: fxa301-week10-body-talk-examining-a-collaborative-multiple-visit-program
-related: []
+related: ["eating-disorders", "mental-health-intervention", "museum-programming"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -45,4 +45,6 @@ The article 'Body Talk: Examining a Collaborative Multiple-Visit Program for Vis
 
 ## See Also
 
-*(none yet)*
+- [eating-disorders](../topics/eating-disorders.md)
+- [mental-health-intervention](../topics/mental-health-intervention.md)
+- [museum-programming](../topics/museum-programming.md)

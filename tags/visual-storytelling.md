@@ -24,3 +24,4 @@ updated: 2026-05-04
 - [Week 8 Web Lecture: Editing Your Images](../sources/fxa202-week08-week-8-web-lecture-editing-your-images.md)
 - [The Largs Pier: A Visual Story of Grief and Healing](../sources/fxa202-week09-the-largs-pier-a-visual-story-of-grief-and-healing.md)
 - [Week 9 Lecture: Editing and Selection for Photo Essays](../sources/fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2).md)
+- [My daddy and me: Navigating the Japanese gardens at the Royal Tasmania Botanical Gardens](../sources/fxa202-week10-my-daddy-and-me-navigating-the-japanese-gardens-at-the.md)

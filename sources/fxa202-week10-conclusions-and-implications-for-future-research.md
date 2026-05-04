@@ -11,7 +11,7 @@ tags: ["arts-health", "well-being-research", "policy-impact", "social-transforma
 key_concepts: ["health-and-well-being-benefits", "theoretical-frameworks", "boundary-work"]
 methods: ["critical-perspective"]
 slug: fxa202-week10-conclusions-and-implications-for-future-research
-related: []
+related: ["arts-health", "well-being-research"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -43,4 +43,5 @@ This chapter concludes that arts-based approaches can contribute to the transfor
 
 ## See Also
 
-*(none yet)*
+- [arts-health](../topics/arts-health.md)
+- [well-being-research](../topics/well-being-research.md)

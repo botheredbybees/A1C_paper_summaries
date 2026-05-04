@@ -11,7 +11,7 @@ tags: ["type-1-diabetes", "family-caregiving", "patient-narrative", "chronic-dis
 key_concepts: ["type 1 diabetes", "emotional resilience", "spiritual support"]
 methods: ["case study"]
 slug: fxa202-week10-type1-diabetes-story-a-familys-journey
-related: []
+related: ["chronic-disease-management"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -43,4 +43,4 @@ The document recounts a personal narrative of living with type 1 diabetes throug
 
 ## See Also
 
-*(none yet)*
+- [chronic-disease-management](../topics/chronic-disease-management.md)

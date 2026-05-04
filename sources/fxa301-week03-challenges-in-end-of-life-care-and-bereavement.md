@@ -11,7 +11,7 @@ tags: ["end-of-life-care", "bereavement-support", "palliative-care-access", "cre
 key_concepts: ["personalized care", "integrated care model", "creative arts therapy", "advance care planning"]
 methods: ["case study"]
 slug: fxa301-week03-challenges-in-end-of-life-care-and-bereavement
-related: ["creative-health-interventions"]
+related: ["creative-health-interventions", "end-of-life-care", "health-disparities"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,3 +46,5 @@ The document highlights significant challenges within end-of-life care, emphasiz
 ## See Also
 
 - [creative-health-interventions](../topics/creative-health-interventions.md)
+- [end-of-life-care](../topics/end-of-life-care.md)
+- [health-disparities](../topics/health-disparities.md)

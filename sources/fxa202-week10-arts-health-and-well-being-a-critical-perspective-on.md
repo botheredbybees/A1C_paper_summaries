@@ -11,7 +11,7 @@ tags: ["arts-and-health", "well-being-research", "critical-perspective", "fxa202
 key_concepts: ["intersection-of-arts-and-health", "social-political-factors-in-artistic-production"]
 methods: ["critical-analysis"]
 slug: fxa202-week10-arts-health-and-well-being-a-critical-perspective-on
-related: []
+related: ["arts-and-health", "well-being-research"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -44,4 +44,5 @@ The book’s two main premises are outlined: first, the influence of political g
 
 ## See Also
 
-*(none yet)*
+- [arts-and-health](../topics/arts-and-health.md)
+- [well-being-research](../topics/well-being-research.md)

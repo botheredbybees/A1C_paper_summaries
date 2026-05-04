@@ -11,7 +11,7 @@ tags: ["person-centred-care", "dementia-support", "vips-framework", "fxa100"]
 key_concepts: ["values-based-practice", "individualization-in-dementia-care", "social-environmental-factors"]
 methods: ["framework-development"]
 slug: fxa100-week10-person-centred-dementia-care
-related: []
+related: ["dementia-support", "person-centred-care"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -41,4 +41,5 @@ The document discusses the VIPS Framework, a tool designed to improve person-cen
 
 ## See Also
 
-*(none yet)*
+- [dementia-support](../topics/dementia-support.md)
+- [person-centred-care](../topics/person-centred-care.md)

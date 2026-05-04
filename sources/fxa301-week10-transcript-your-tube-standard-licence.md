@@ -11,7 +11,7 @@ tags: ["homelessness", "music-therapy", "television-series", "fxa301"]
 key_concepts: ["community-building", "personal-transformation"]
 methods: []
 slug: fxa301-week10-transcript-your-tube-standard-licence
-related: []
+related: ["homelessness", "music-therapy"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -40,4 +40,5 @@ This transcript details the story and impact of the choir of hard knocks (CHoH),
 
 ## See Also
 
-*(none yet)*
+- [homelessness](../topics/homelessness.md)
+- [music-therapy](../topics/music-therapy.md)

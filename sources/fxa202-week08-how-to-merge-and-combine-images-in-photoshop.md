@@ -11,7 +11,7 @@ tags: ["image-editing", "photoshop-tutorial", "composite-photography", "digital-
 key_concepts: ["layer-masking", "selection-tools"]
 methods: ["tutorial"]
 slug: fxa202-week08-how-to-merge-and-combine-images-in-photoshop
-related: ["image-editing"]
+related: ["digital-manipulation", "image-editing"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,4 +42,5 @@ The ability to merge and combine images in Photoshop is a valuable skill for pho
 
 ## See Also
 
+- [digital-manipulation](../topics/digital-manipulation.md)
 - [image-editing](../topics/image-editing.md)

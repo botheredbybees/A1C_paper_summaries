@@ -24,3 +24,4 @@ updated: 2026-05-04
 - [Testing the Implementation of the Veder Contact Method: A Theatre-Based Communication Method in Dementia Care](../sources/fxa100-week09-testing-the-implementation-of-the-veder-contact-method-a.md)
 - [The experience of dementia](../sources/fxa100-week09-the-experience-of-dementia.md)
 - [The Fundamentals of Person-Centered Care for Individuals With Dementia](../sources/fxa100-week09-the-fundamentals-of-person-centered-care-for-individuals.md)
+- [Transforming Dementia Care Through Theatre](../sources/fxa100-week10-transforming-dementia-care-through-theatre.md)

@@ -11,7 +11,7 @@ tags: ["mental-health-research", "participatory-arts-methods", "visual-ethnograp
 key_concepts: ["photovoice", "collage-making", "subjective-realities"]
 methods: ["secondary-data-analysis"]
 slug: fxa301-week10-the-contribution-of-the-visual-in-qualitative-participatory
-related: []
+related: ["mental-health-research"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -41,4 +41,4 @@ Maria Fjellfeldt's study aims to advance understanding of the visual element in 
 
 ## See Also
 
-*(none yet)*
+- [mental-health-research](../topics/mental-health-research.md)

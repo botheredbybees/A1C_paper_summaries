@@ -98,3 +98,4 @@ updated: 2026-05-04
 - [Music Therapy for Children With Autistic Spectrum Disorder and/or Other Neurodevelopmental Disorders: A Systematic Review](../sources/fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder.md)
 - [Music Therapy Sessions: Non-Verbal Communication](../sources/fxa303-week04-transcript-duration-34-19.md)
 - [Week 4 Activities - Neurodiversity, arts and play](../sources/fxa303-week04-week-4-activities-neurodiversity-arts-and-play.md)
+- [Exploring the Use of Hip Hop-Based Music Therapy to Address Trauma in Asylum Seeker and Unaccompanied Minor Migrant Youth](../sources/fxa303-week10-web-article-gulbay-2021.md)

@@ -11,7 +11,7 @@ tags: ["dementia-care", "theater-project", "healthcare-assistants", "fxa100"]
 key_concepts: ["awareness-raising", "field-research", "educational-tool"]
 methods: []
 slug: fxa100-week10-transcript-this-trailer-gives-an-overview-of-the-play-and
-related: []
+related: ["dementia-care", "healthcare-assistants"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -41,4 +41,5 @@ The transcript is an overview of a theater project aimed at raising awareness ab
 
 ## See Also
 
-*(none yet)*
+- [dementia-care](../topics/dementia-care.md)
+- [healthcare-assistants](../topics/healthcare-assistants.md)

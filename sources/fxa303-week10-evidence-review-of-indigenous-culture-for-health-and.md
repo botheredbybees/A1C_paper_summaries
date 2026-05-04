@@ -11,7 +11,7 @@ tags: ["indigenous-health", "cultural-wellbeing", "evidence-review", "aboriginal
 key_concepts: ["cultural-engagement", "health-outcomes", "self-determination", "mixed-methods-research"]
 methods: ["systematic review"]
 slug: fxa303-week10-evidence-review-of-indigenous-culture-for-health-and
-related: []
+related: ["aboriginal-people", "indigenous-health", "torres-strait-islander"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -44,4 +44,6 @@ This review article synthesizes evidence on the relationship between Indigenous 
 
 ## See Also
 
-*(none yet)*
+- [aboriginal-people](../topics/aboriginal-people.md)
+- [indigenous-health](../topics/indigenous-health.md)
+- [torres-strait-islander](../topics/torres-strait-islander.md)

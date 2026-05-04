@@ -11,7 +11,7 @@ tags: ["migration-studies", "arts-and-culture", "transdisciplinary-research", "i
 key_concepts: ["multidisciplinary collaboration", "rehumanization of migrants", "broadened cultural definitions"]
 methods: ["literature review"]
 slug: fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)
-related: []
+related: ["arts-and-culture", "international-migration", "migration-studies", "transdisciplinary-research"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -43,4 +43,7 @@ This article explores the significance of studying the interconnections between 
 
 ## See Also
 
-*(none yet)*
+- [arts-and-culture](../topics/arts-and-culture.md)
+- [international-migration](../topics/international-migration.md)
+- [migration-studies](../topics/migration-studies.md)
+- [transdisciplinary-research](../topics/transdisciplinary-research.md)

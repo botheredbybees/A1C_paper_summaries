@@ -11,7 +11,7 @@ tags: ["music-therapy", "mental-health", "creative-collage", "fxa301"]
 key_concepts: ["arts therapy", "eating disorders", "PTSD"]
 methods: []
 slug: fxa301-week10-lesson-fxa301-week10-page-4-week-3-activities
-related: []
+related: ["mental-health", "music-therapy"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -41,4 +41,5 @@ Week 10 of the FXA301 Arts in the Community course includes a focus on music the
 
 ## See Also
 
-*(none yet)*
+- [mental-health](../topics/mental-health.md)
+- [music-therapy](../topics/music-therapy.md)

@@ -11,7 +11,7 @@ tags: ["mental-health-discourse", "recovery-language", "stigma-reduction", "trau
 key_concepts: ["language-choice", "recovery-promotion", "stigma-prevention"]
 methods: ["guide"]
 slug: fxa303-week09-recovery-oriented-language-guide
-related: ["stigma-reduction", "trauma-informed-care"]
+related: ["stigma-reduction", "strengths-based-approach", "trauma-informed-care"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,4 +44,5 @@ The Recovery Oriented Language Guide, published by the Mental Health Coordinatin
 ## See Also
 
 - [stigma-reduction](../topics/stigma-reduction.md)
+- [strengths-based-approach](../topics/strengths-based-approach.md)
 - [trauma-informed-care](../topics/trauma-informed-care.md)

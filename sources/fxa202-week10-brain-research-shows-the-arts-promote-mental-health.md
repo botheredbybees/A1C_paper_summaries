@@ -11,7 +11,7 @@ tags: ["arts-and-mental-health", "neuroesthetics-research", "cognitive-developme
 key_concepts: ["neuroesthetics", "mindfulness-practices", "stress-reduction"]
 methods: ["brain-research"]
 slug: fxa202-week10-brain-research-shows-the-arts-promote-mental-health
-related: []
+related: ["cognitive-development"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -41,4 +41,4 @@ This article discusses the positive impact of engaging in arts activities on men
 
 ## See Also
 
-*(none yet)*
+- [cognitive-development](../topics/cognitive-development.md)

@@ -11,7 +11,7 @@ tags: ["dementia-prevalence", "aboriginal-health", "urban-vs-regional", "fxa100"
 key_concepts: ["prevalence of dementia", "Alzheimer's disease", "mixed dementia"]
 methods: ["cross-sectional survey"]
 slug: fxa100-week07-prevalence-of-dementia-in-urban-and-regional-aboriginal
-related: ["dementia-prevalence"]
+related: ["aboriginal-health", "dementia-prevalence"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,4 +41,5 @@ This study investigates the prevalence of dementia among urban and regional Abor
 
 ## See Also
 
+- [aboriginal-health](../topics/aboriginal-health.md)
 - [dementia-prevalence](../topics/dementia-prevalence.md)

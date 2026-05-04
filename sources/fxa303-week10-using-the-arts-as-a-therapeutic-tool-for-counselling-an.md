@@ -11,7 +11,7 @@ tags: ["indigenous-health", "cultural-therapies", "aboriginal-arts", "holistic-w
 key_concepts: ["cultural-sensitivity", "holistic-healing", "traditional-practices"]
 methods: ["case-study"]
 slug: fxa303-week10-using-the-arts-as-a-therapeutic-tool-for-counselling-an
-related: []
+related: ["indigenous-health"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -47,4 +47,4 @@ The central argument posits that by integrating Indigenous cultural understandin
 
 ## See Also
 
-*(none yet)*
+- [indigenous-health](../topics/indigenous-health.md)

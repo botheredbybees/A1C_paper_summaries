@@ -17,6 +17,7 @@ updated: 2026-05-04
 - [5 Benefits of Journaling for Mental Health](../sources/fxa202-week09-5-benefits-of-journaling-for-mental-health.md)
 - [My Photo Essay: Storytelling Through Art and Mental Health](../sources/fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health.md)
 - [Noticing: A Photo Essay](../sources/fxa202-week09-noticing-a-photo-essay.md)
+- [Exploring Colour Theory Through a Personal Photo Essay](../sources/fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay.md)
 - [Mental Health and Wellbeing across the Life Course - Extract](../sources/fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract.md)
 - [Art as Therapy](../sources/fxa301-week05-art-as-therapy.md)
 - [A systematic review of mental health and wellbeing outcomes of group singing for adults with a mental health condition](../sources/fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes.md)
@@ -33,3 +34,5 @@ updated: 2026-05-04
 - [Beyond the Fence: Constructed and Found Spaces for Children's Outdoor Play in Natural and Human-Induced Disaster Contexts](../sources/fxa303-week09-beyond-the-fence-constructed-and-found-spaces-for-childrens.md)
 - [National Taskforce for Creative Recovery Recommendations](../sources/fxa303-week09-national-taskforce-for-creative-recovery-recommendations.md)
 - [The Effectiveness of Art Therapy in the Treatment of Traumatized Adults: A Systematic Review on Art Therapy and Trauma](../sources/fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of.md)
+- ['Healing through culture': Aboriginal Young People\u2019s Experiences of Social and Emotional Wellbeing Impacts of Cultural Strengthening Programs](../sources/fxa303-week10-healing-through-culture-aboriginal-young-peoples.md)
+- [Importance of Cultural Context in Designing Arts Programs for Mental Health](../sources/fxa303-week10-importance-of-cultural-context-in-designing-arts-programs.md)

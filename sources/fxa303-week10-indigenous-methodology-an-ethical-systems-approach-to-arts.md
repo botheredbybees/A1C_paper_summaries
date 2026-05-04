@@ -11,7 +11,7 @@ tags: ["indigenous-methodology", "arts-based-therapy", "native-communities", "fx
 key_concepts: ["cultural-resilience", "decolonization", "traditional-knowledge"]
 methods: ["ethics-in-research"]
 slug: fxa303-week10-indigenous-methodology-an-ethical-systems-approach-to-arts
-related: []
+related: ["arts-based-therapy"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -41,4 +41,4 @@ Michelle Napoli's article discusses the importance of Indigenous methodology in 
 
 ## See Also
 
-*(none yet)*
+- [arts-based-therapy](../topics/arts-based-therapy.md)

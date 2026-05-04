@@ -11,7 +11,7 @@ tags: ["refugee-youth", "mental-health-intervention", "creative-arts-therapy", "
 key_concepts: ["behavioral-difficulties", "emotional-symptoms", "cognitive-development"]
 methods: ["controlled-trial"]
 slug: fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy
-related: []
+related: ["adolescent-development", "creative-arts-therapy", "mental-health-intervention", "refugee-youth", "school-based-programming"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -43,4 +43,8 @@ This study evaluates the effectiveness of a school-based creative arts therapy p
 
 ## See Also
 
-*(none yet)*
+- [adolescent-development](../topics/adolescent-development.md)
+- [creative-arts-therapy](../topics/creative-arts-therapy.md)
+- [mental-health-intervention](../topics/mental-health-intervention.md)
+- [refugee-youth](../topics/refugee-youth.md)
+- [school-based-programming](../topics/school-based-programming.md)

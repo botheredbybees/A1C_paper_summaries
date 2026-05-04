@@ -11,7 +11,7 @@ tags: ["indigenous-arts", "mental-wellbeing", "colonial-trauma", "cultural-recov
 key_concepts: ["The Dreaming", "co-design", "historical trauma"]
 methods: []
 slug: fxa303-week10-lesson-fxa303-week10-page-2-indigenous-arts-and-mental
-related: []
+related: ["indigenous-arts", "mental-wellbeing"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -42,4 +42,5 @@ The lesson discusses the role of creative arts in enhancing mental wellbeing amo
 
 ## See Also
 
-*(none yet)*
+- [indigenous-arts](../topics/indigenous-arts.md)
+- [mental-wellbeing](../topics/mental-wellbeing.md)

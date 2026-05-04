@@ -29,6 +29,8 @@ appearances:
     week: "09"
   - unit: FXA202
     week: "10"
+  - unit: FXA202
+    week: "10"
 tags: ["photo-essay", "visual-storytelling", "journalism", "fxa202"]
 key_concepts: ["visual storytelling", "narrative expansion through images"]
 methods: []

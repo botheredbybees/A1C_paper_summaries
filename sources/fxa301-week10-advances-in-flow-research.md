@@ -11,7 +11,7 @@ tags: ["flow-experience", "engagement-psychology", "cultural-studies", "fxa301"]
 key_concepts: ["flow", "Mihaly Csikszentmihalyi", "empirical-research"]
 methods: ["systematic review"]
 slug: fxa301-week10-advances-in-flow-research
-related: []
+related: ["cultural-studies", "flow-experience"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -41,4 +41,5 @@ The book 'Advances in Flow Research' edited by Corinna Peifer and Stefan Engeser
 
 ## See Also
 
-*(none yet)*
+- [cultural-studies](../topics/cultural-studies.md)
+- [flow-experience](../topics/flow-experience.md)

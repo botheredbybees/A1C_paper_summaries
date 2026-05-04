@@ -11,7 +11,7 @@ tags: ["arts-health", "well-being-research", "creative-therapies", "fxa202"]
 key_concepts: ["community-cohesion", "cultural-engagement", "mental-health-recovery"]
 methods: ["systematic-review"]
 slug: fxa202-week10-research-and-evidence-in-arts-health-and-well-being
-related: []
+related: ["arts-health", "creative-therapies", "well-being-research"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -41,4 +41,6 @@ This chapter offers an overview of the expanding research on arts, health, and w
 
 ## See Also
 
-*(none yet)*
+- [arts-health](../topics/arts-health.md)
+- [creative-therapies](../topics/creative-therapies.md)
+- [well-being-research](../topics/well-being-research.md)

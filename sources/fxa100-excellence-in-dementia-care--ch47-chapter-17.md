@@ -11,7 +11,7 @@ tags: ["dementia-care", "embodied-selfhood", "person-centred-care", "fxa100"]
 key_concepts: ["embodied selfhood", "social conventions"]
 methods: []
 slug: fxa100-excellence-in-dementia-care--ch47-chapter-17
-related: ["dementia-care", "embodied-selfhood"]
+related: ["dementia-care", "embodied-selfhood", "person-centred-care"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,3 +42,4 @@ This chapter discusses the concept of embodied selfhood as it relates to person-
 
 - [dementia-care](../topics/dementia-care.md)
 - [embodied-selfhood](../topics/embodied-selfhood.md)
+- [person-centred-care](../topics/person-centred-care.md)

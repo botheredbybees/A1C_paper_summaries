@@ -11,7 +11,7 @@ tags: ["mental-health-recovery", "creative-therapies", "flow-experience", "arts-
 key_concepts: ["flow", "creative arts therapy", "art workshops", "non-therapeutic approach"]
 methods: ["case studies"]
 slug: fxa301-week10-fxa301-week-10-lecture
-related: []
+related: ["arts-on-prescription", "creative-therapies", "flow-experience", "mental-health-recovery", "ptsd-treatment"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -44,4 +44,8 @@ The lecture discusses the concept of 'flow' as developed by Mihaly Csikszentmiha
 
 ## See Also
 
-*(none yet)*
+- [arts-on-prescription](../topics/arts-on-prescription.md)
+- [creative-therapies](../topics/creative-therapies.md)
+- [flow-experience](../topics/flow-experience.md)
+- [mental-health-recovery](../topics/mental-health-recovery.md)
+- [ptsd-treatment](../topics/ptsd-treatment.md)

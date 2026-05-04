@@ -36,3 +36,6 @@ updated: 2026-05-04
 - [FXA303 Creative Arts, Play and Mental Wellbeing - Week 9 Overview](../sources/fxa303-week09-lesson-fxa303-week09-page-1-overview.md)
 - [Trauma-Informed Design for Creative Arts and Play Projects](../sources/fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design.md)
 - [Creative Arts, Play and Mental Wellbeing: Case Studies on Trauma Recovery](../sources/fxa303-week09-lesson-fxa303-week09-page-3-case-studies.md)
+- [Week 10 Overview: Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week10-lesson-fxa303-week10-page-1-overview.md)
+- [Indigenous Arts and Mental Wellbeing](../sources/fxa303-week10-lesson-fxa303-week10-page-2-indigenous-arts-and-mental.md)
+- [Publications - Indigenous Mental Health and Suicide Prevention Clearinghouse](../sources/fxa303-week10-web-article-russ-smith-2023.md)

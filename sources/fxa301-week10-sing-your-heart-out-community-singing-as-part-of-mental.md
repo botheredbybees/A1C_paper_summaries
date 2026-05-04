@@ -11,7 +11,7 @@ tags: ["community-singing", "mental-health-recovery", "wellbeing-initiatives", "
 key_concepts: ["mental health recovery", "group singing therapy", "inclusive social environment"]
 methods: ["case study"]
 slug: fxa301-week10-sing-your-heart-out-community-singing-as-part-of-mental
-related: []
+related: ["community-singing", "mental-health-recovery", "social-support", "wellbeing-initiatives"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -43,4 +43,7 @@ This paper evaluates a community singing initiative called 'Sing Your Heart Out'
 
 ## See Also
 
-*(none yet)*
+- [community-singing](../topics/community-singing.md)
+- [mental-health-recovery](../topics/mental-health-recovery.md)
+- [social-support](../topics/social-support.md)
+- [wellbeing-initiatives](../topics/wellbeing-initiatives.md)

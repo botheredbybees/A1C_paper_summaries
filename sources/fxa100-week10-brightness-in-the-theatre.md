@@ -11,7 +11,7 @@ tags: ["theatre-in-education", "dementia-care-experiences", "emotional-resonance
 key_concepts: ["life-with-dementia", "aesthetic-experience", "identification-with-characters", "dignity-enhancement"]
 methods: ["focus-group-discussion", "theme-performances"]
 slug: fxa100-week10-brightness-in-the-theatre
-related: []
+related: ["dementia-care-experiences", "theatre-in-education"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -45,4 +45,5 @@ This study explores the use of theatrical performances to communicate life with 
 
 ## See Also
 
-*(none yet)*
+- [dementia-care-experiences](../topics/dementia-care-experiences.md)
+- [theatre-in-education](../topics/theatre-in-education.md)

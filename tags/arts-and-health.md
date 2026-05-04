@@ -10,6 +10,7 @@ updated: 2026-05-04
 - [An introduction to research](../sources/fxa100-week04-an-introduction-to-research.md)
 - [Creative and credible evaluation for arts, health and well-being: opportunities and challenges of co-production](../sources/fxa100-week04-creative-and-credible-evaluation-for-arts-health-and-well.md)
 - [Planning Your Photo Essay: Arts and Health Themes](../sources/fxa202-week01-lesson-fxa202-week01-chapter-4-inspiration.md)
+- [Arts, Health and Well-Being: A Critical Perspective on Research, Policy and Practice - Introduction](../sources/fxa202-week10-arts-health-and-well-being-a-critical-perspective-on.md)
 - [Developing Partnerships and Briefs in Arts and Health Projects](../sources/fxa301-arts-in-health-ch43-1-collaborative-design.md)
 - [Collection of Academic Works in Ethnomusicology and Applied Anthropology](../sources/fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2).md)
 - [The Arts and Healing: The Power of an Idea](../sources/fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2.md)

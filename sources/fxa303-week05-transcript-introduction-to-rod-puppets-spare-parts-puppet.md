@@ -11,7 +11,7 @@ tags: ["puppet-theatre", "rod-puppets", "performance-arts", "fxa303"]
 key_concepts: ["rod puppetry", "theatrical performances"]
 methods: []
 slug: fxa303-week05-transcript-introduction-to-rod-puppets-spare-parts-puppet
-related: ["puppet-theatre"]
+related: ["performance-arts", "puppet-theatre"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,4 +40,5 @@ The video provides an introduction to the use and creation of rod puppets, a typ
 
 ## See Also
 
+- [performance-arts](../topics/performance-arts.md)
 - [puppet-theatre](../topics/puppet-theatre.md)

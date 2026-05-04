@@ -11,7 +11,7 @@ tags: ["memory-loss", "family-bonding", "lyric-expressions", "fxa100"]
 key_concepts: ["Memory Loss", "Emotional Connection"]
 methods: []
 slug: fxa100-week10-transcript-youtube-vwkammz898duration
-related: []
+related: ["memory-loss"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -40,4 +40,4 @@ The transcript features dialogue about a grandmother named Gwen who struggles wi
 
 ## See Also
 
-*(none yet)*
+- [memory-loss](../topics/memory-loss.md)

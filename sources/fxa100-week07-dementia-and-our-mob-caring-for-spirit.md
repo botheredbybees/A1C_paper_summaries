@@ -11,7 +11,7 @@ tags: ["indigenous-health", "dementia-care", "cultural-context", "spiritual-well
 key_concepts: ["socio-cultural context", "holistic care approach", "spiritual health"]
 methods: ["case study"]
 slug: fxa100-week07-dementia-and-our-mob-caring-for-spirit
-related: ["dementia-care", "indigenous-health", "spiritual-wellbeing"]
+related: ["cultural-context", "dementia-care", "indigenous-health", "spiritual-wellbeing"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,6 +46,7 @@ The document underscores the importance of understanding dementia within the uni
 
 ## See Also
 
+- [cultural-context](../topics/cultural-context.md)
 - [dementia-care](../topics/dementia-care.md)
 - [indigenous-health](../topics/indigenous-health.md)
 - [spiritual-wellbeing](../topics/spiritual-wellbeing.md)

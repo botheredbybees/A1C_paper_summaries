@@ -11,7 +11,7 @@ tags: ["dementia-discourse", "person-centered-care", "health-communication", "fx
 key_concepts: ["illness-metaphors", "palliative-care", "human-frailty"]
 methods: ["editorial"]
 slug: fxa100-week04-dementia-discourse-a-rethink-(2)
-related: ["dementia-discourse", "person-centered-care"]
+related: ["dementia-discourse", "health-communication", "person-centered-care"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,4 +42,5 @@ In this editorial, Fran McInerney discusses the discourse surrounding dementia a
 ## See Also
 
 - [dementia-discourse](../topics/dementia-discourse.md)
+- [health-communication](../topics/health-communication.md)
 - [person-centered-care](../topics/person-centered-care.md)

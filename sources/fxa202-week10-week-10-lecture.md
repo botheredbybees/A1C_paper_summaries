@@ -11,7 +11,7 @@ tags: ["education-online", "student-engagement", "lecture-content", "fxa202"]
 key_concepts: ["discussion-board-activity", "study-week-resources"]
 methods: []
 slug: fxa202-week10-week-10-lecture
-related: []
+related: ["student-engagement"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -40,4 +40,4 @@ This week's lecture concludes the content for The Photo Essay course and introdu
 
 ## See Also
 
-*(none yet)*
+- [student-engagement](../topics/student-engagement.md)

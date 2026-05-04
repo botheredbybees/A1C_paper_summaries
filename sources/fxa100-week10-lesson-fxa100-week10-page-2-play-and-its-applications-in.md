@@ -11,7 +11,7 @@ tags: ["dementia-care", "elderclowns", "participatory-arts", "fxa100"]
 key_concepts: ["playful engagement", "theater in health care"]
 methods: []
 slug: fxa100-week10-lesson-fxa100-week10-page-2-play-and-its-applications-in
-related: []
+related: ["dementia-care", "participatory-arts"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -40,4 +40,5 @@ The Playful Engagement Program was a collaborative project between Wesley Missio
 
 ## See Also
 
-*(none yet)*
+- [dementia-care](../topics/dementia-care.md)
+- [participatory-arts](../topics/participatory-arts.md)

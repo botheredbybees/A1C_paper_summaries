@@ -11,7 +11,7 @@ tags: ["social-determinants-health", "equity-in-healthcare", "public-policy", "f
 key_concepts: ["social gradient", "proportionate universalism", "life course approach"]
 methods: []
 slug: fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions
-related: []
+related: ["public-policy"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -41,4 +41,4 @@ This chapter discusses the social determinants influencing health outcomes acros
 
 ## See Also
 
-*(none yet)*
+- [public-policy](../topics/public-policy.md)

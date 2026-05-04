@@ -11,7 +11,7 @@ tags: ["personal-experience", "parent-child-bond", "visual-storytelling", "fxa20
 key_concepts: ["sensory-experience", "creative-arts-documentation"]
 methods: ["photo-essay"]
 slug: fxa202-week10-my-daddy-and-me-navigating-the-japanese-gardens-at-the
-related: []
+related: ["visual-storytelling"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -40,4 +40,4 @@ Melanie Hall's photo essay 'My daddy and me' captures a series of intimate momen
 
 ## See Also
 
-*(none yet)*
+- [visual-storytelling](../topics/visual-storytelling.md)

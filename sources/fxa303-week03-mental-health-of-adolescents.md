@@ -13,7 +13,7 @@ tags: ["adolescent-mental-health", "global-disease-burden", "suicide-prevention"
 key_concepts: ["depression", "anxiety", "identity-exploration", "protective-environments", "intervention-strategies"]
 methods: ["fact-sheet"]
 slug: fxa303-week03-mental-health-of-adolescents
-related: ["public-health-initiatives", "risk-factors"]
+related: ["public-health-initiatives", "risk-factors", "suicide-prevention"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -50,3 +50,4 @@ The World Health Organization's fact sheet on adolescent mental health highlight
 
 - [public-health-initiatives](../topics/public-health-initiatives.md)
 - [risk-factors](../topics/risk-factors.md)
+- [suicide-prevention](../topics/suicide-prevention.md)

@@ -11,3 +11,4 @@ updated: 2026-05-04
 - [Evidence Requirements for the Development of the National Australian Arts and Health Framework](../sources/fxa301-week03-evidence-requirements-for-the-development-of-the-national.md)
 - [Activities for Week 3 - FXA301 Arts in the Community](../sources/fxa301-week03-lesson-fxa301-week03-page-4-week-3-activities.md)
 - [Creative Health Review: How Policy Can Embrace Creative Health](../sources/fxa301-week03-web-article-national-2024.md)
+- [Reclaiming Indigenous Health in the US: Moving beyond the Social Determinants of Health](../sources/fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the.md)

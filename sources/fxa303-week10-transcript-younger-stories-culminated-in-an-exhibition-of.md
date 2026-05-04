@@ -11,7 +11,7 @@ tags: ["multicultural-art-project", "refugee-experience", "community-engagement"
 key_concepts: ["trauma-informed care", "cultural-inclusivity"]
 methods: []
 slug: fxa303-week10-transcript-younger-stories-culminated-in-an-exhibition-of
-related: []
+related: ["refugee-experience"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -40,4 +40,4 @@ The transcript discusses the 'Younger Stories' multicultural arts project culmin
 
 ## See Also
 
-*(none yet)*
+- [refugee-experience](../topics/refugee-experience.md)

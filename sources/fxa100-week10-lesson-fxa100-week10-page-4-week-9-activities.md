@@ -11,7 +11,7 @@ tags: ["dementia-care", "arts-in-healthcare", "theater-drama", "fxa100"]
 key_concepts: ["person-centered care", "playful engagement"]
 methods: []
 slug: fxa100-week10-lesson-fxa100-week10-page-4-week-9-activities
-related: []
+related: ["arts-in-healthcare", "dementia-care"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -40,4 +40,5 @@ This week's module for FXA100 The Arts and Dementia Care includes a discussion o
 
 ## See Also
 
-*(none yet)*
+- [arts-in-healthcare](../topics/arts-in-healthcare.md)
+- [dementia-care](../topics/dementia-care.md)

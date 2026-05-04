@@ -11,7 +11,7 @@ tags: ["arts-informed-research", "refugee-experience", "youth-studies", "migrati
 key_concepts: ["role-change", "responsibility-shift", "tacit-knowledge", "symbolic-expression", "marginalized-communities"]
 methods: ["arts-informed-research", "focus-group-discussions"]
 slug: fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to
-related: []
+related: ["arts-informed-research", "community-resilience", "cultural-expression", "refugee-experience"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -47,4 +47,7 @@ This article explores the use of arts-informed research methods to understand ch
 
 ## See Also
 
-*(none yet)*
+- [arts-informed-research](../topics/arts-informed-research.md)
+- [community-resilience](../topics/community-resilience.md)
+- [cultural-expression](../topics/cultural-expression.md)
+- [refugee-experience](../topics/refugee-experience.md)

@@ -11,7 +11,7 @@ tags: ["dementia-care", "healthcare-assistants", "person-centered-care", "theatr
 key_concepts: ["tacit knowledge", "person-centered care"]
 methods: ["workshop", "play"]
 slug: fxa100-week10-transforming-dementia-care-through-theatre
-related: []
+related: ["dementia-care", "healthcare-assistants", "person-centered-care", "theatre-in-education"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -43,4 +43,7 @@ The article discusses a groundbreaking initiative to use theatre as a medium for
 
 ## See Also
 
-*(none yet)*
+- [dementia-care](../topics/dementia-care.md)
+- [healthcare-assistants](../topics/healthcare-assistants.md)
+- [person-centered-care](../topics/person-centered-care.md)
+- [theatre-in-education](../topics/theatre-in-education.md)

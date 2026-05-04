@@ -13,7 +13,7 @@ tags: ["creative-expression", "immigrant-children", "refugee-support", "puppetry
 key_concepts: ["sense-of-agency", "emotional-well-being", "coping-mechanisms"]
 methods: ["case-study"]
 slug: fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the
-related: ["creative-expression", "mental-health-promotion", "puppetry-intervention"]
+related: ["creative-expression", "mental-health-promotion", "puppetry-intervention", "refugee-support", "school-based-programming"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -49,3 +49,5 @@ This article explores the use of puppetry in a school-based creative expression 
 - [creative-expression](../topics/creative-expression.md)
 - [mental-health-promotion](../topics/mental-health-promotion.md)
 - [puppetry-intervention](../topics/puppetry-intervention.md)
+- [refugee-support](../topics/refugee-support.md)
+- [school-based-programming](../topics/school-based-programming.md)

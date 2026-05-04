@@ -7,4 +7,6 @@ updated: 2026-05-04
 ## Online Learning
 
 - [FXA100 The Arts and Dementia Care Introduction](../sources/fxa100-week01-lesson-fxa100-week01-page-3-week-1-activities.md)
+- [Enhancing Student Engagement in Online Learning Environments](../sources/fxa100-week10-web-article-brooker-2013.md)
 - [Week 5 Introduction - FXA202 The Photo Essay: Storytelling with image and text](../sources/fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling.md)
+- [2022 Week 10 Lecture Transcript](../sources/fxa202-week10-2022-week-10-lecture-transcript.md)

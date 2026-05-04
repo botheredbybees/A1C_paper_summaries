@@ -11,7 +11,7 @@ tags: ["aged-care", "arts-based-research", "photovoice-methods", "documentary-ph
 key_concepts: ["hermeneutic-phenomenology", "creative-arts-interventions", "lived-experiences-of-aging"]
 methods: ["qualitative-analysis", "case-study"]
 slug: fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary
-related: []
+related: ["aged-care", "arts-based-research", "documentary-photography", "photovoice-methods", "poetry-in-research"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -44,4 +44,8 @@ This chapter details a unique arts-based research methodology that combines phot
 
 ## See Also
 
-*(none yet)*
+- [aged-care](../topics/aged-care.md)
+- [arts-based-research](../topics/arts-based-research.md)
+- [documentary-photography](../topics/documentary-photography.md)
+- [photovoice-methods](../topics/photovoice-methods.md)
+- [poetry-in-research](../topics/poetry-in-research.md)

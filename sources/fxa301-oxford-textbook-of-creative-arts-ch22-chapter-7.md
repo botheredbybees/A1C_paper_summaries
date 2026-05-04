@@ -14,7 +14,7 @@ tags: ["community-cultural-development", "public-health-interventions", "arts-ba
 key_concepts: ["Community Cultural Development (CCD)", "Social Inclusion"]
 methods: []
 slug: fxa301-oxford-textbook-of-creative-arts-ch22-chapter-7
-related: ["community-cultural-development", "public-health-interventions"]
+related: ["arts-based-therapy", "community-cultural-development", "public-health-interventions"]
 created: 2026-05-03
 updated: 2026-05-04
 ---
@@ -43,5 +43,6 @@ This chapter explores the concept of community cultural development (CCD) as a f
 
 ## See Also
 
+- [arts-based-therapy](../topics/arts-based-therapy.md)
 - [community-cultural-development](../topics/community-cultural-development.md)
 - [public-health-interventions](../topics/public-health-interventions.md)

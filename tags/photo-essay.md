@@ -16,3 +16,5 @@ updated: 2026-05-04
 - [Week 8 Web Lecture: Editing Your Images](../sources/fxa202-week08-week-8-web-lecture-editing-your-images.md)
 - [FXA202 Week 9 Web Lecture: The Photo Essay - Storytelling with Image and Text](../sources/fxa202-week09-fxa202-week-9-web-lecture-the-photo-essay-storytelling-with.md)
 - [Reflection on Creating a Photo Essay About Breast Cancer Diagnosis](../sources/fxa202-week09-reflection-on-creating-a-photo-essay-about-breast-cancer.md)
+- [Exploring Colour Theory Through a Personal Photo Essay](../sources/fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay.md)
+- [FXA202 Week 10 Web Lecture](../sources/fxa202-week10-fxa202-week-10-web-lecture.md)

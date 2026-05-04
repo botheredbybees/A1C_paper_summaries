@@ -11,7 +11,7 @@ tags: ["art-therapy", "elderhood-health", "wellbeing-through-art", "fxa202"]
 key_concepts: ["person-centered approach", "embodied therapy"]
 methods: ["case study"]
 slug: fxa202-week10-identity-connection-and-motivation
-related: []
+related: ["wellbeing-through-art"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -40,4 +40,4 @@ The chapter explores the role of art therapy in enhancing the quality of life fo
 
 ## See Also
 
-*(none yet)*
+- [wellbeing-through-art](../topics/wellbeing-through-art.md)

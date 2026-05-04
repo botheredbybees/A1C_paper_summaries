@@ -11,7 +11,7 @@ tags: ["migration-studies", "arts-and-culture", "transdisciplinary-research", "i
 key_concepts: ["multidisciplinary approaches", "visual studies", "participatory arts-based research"]
 methods: ["systematic review"]
 slug: fxa303-week10-researching-arts-culture-migration-and-change-a-multi
-related: ["arts-and-culture"]
+related: ["arts-and-culture", "international-migration", "migration-studies", "transdisciplinary-research"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,3 +44,6 @@ The article explores the significance of researching the connections between mig
 ## See Also
 
 - [arts-and-culture](../topics/arts-and-culture.md)
+- [international-migration](../topics/international-migration.md)
+- [migration-studies](../topics/migration-studies.md)
+- [transdisciplinary-research](../topics/transdisciplinary-research.md)

@@ -11,7 +11,7 @@ tags: ["immigrant-youth", "refugee-experience", "community-arts-practice", "ment
 key_concepts: ["resilience", "hope", "adlerian-theory"]
 methods: ["case-study"]
 slug: fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth
-related: []
+related: ["mental-well-being", "refugee-experience"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -42,4 +42,5 @@ The article examines the use of community-based arts practice to foster resilien
 
 ## See Also
 
-*(none yet)*
+- [mental-well-being](../topics/mental-well-being.md)
+- [refugee-experience](../topics/refugee-experience.md)

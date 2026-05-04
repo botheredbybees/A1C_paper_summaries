@@ -11,7 +11,7 @@ tags: ["arts-and-disability", "aboriginal-people", "accessibility-studies", "fxa
 key_concepts: ["underrepresentation-of-artists-with-disabilities", "recreational-participation-in-the-arts", "negative-attitudes-and-barriers"]
 methods: ["case-study"]
 slug: fxa301-week09-research-overview-arts-and-disability-in-australia
-related: ["arts-and-disability"]
+related: ["aboriginal-people", "arts-and-disability"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,4 +41,5 @@ This document, titled 'Research Overview: Arts and Disability in Australia,' pro
 
 ## See Also
 
+- [aboriginal-people](../topics/aboriginal-people.md)
 - [arts-and-disability](../topics/arts-and-disability.md)

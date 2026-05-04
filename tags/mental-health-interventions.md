@@ -27,3 +27,4 @@ updated: 2026-05-04
 - [Therapeutic Puppetry and Wellbeing](../sources/fxa303-week06-therapeutic-puppetry-and-wellbeing.md)
 - [Therapeutic Clowning](../sources/fxa303-week08-therapeutic-clowning.md)
 - [Therapeutic clowns in pediatrics: a systematic review and meta-analysis of randomized controlled trials](../sources/fxa303-week08-therapeutic-clowns-in-pediatrics-a-systematic-review-and.md)
+- [Indigenous and Traditional Visual Artistic Practices: Implications for Art Therapy Clinical Practice and Research](../sources/fxa303-week10-indigenous-and-traditional-visual-artistic-practices.md)

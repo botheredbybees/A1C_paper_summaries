@@ -17,6 +17,7 @@ updated: 2026-05-04
 - [Ethnomusicology and Applied Arts: A Guide to Community Engagement](../sources/fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts-(2).md)
 - [Step 2: Choose a Goal in Arts for Social Change](../sources/fxa301-make-arts-for-a-better-life-ch09-5-choose-a-goal-needs-may-be-linked-within-communities.md)
 - [Case study: engaging older people in creative thinking\u2014the Active Energy project](../sources/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30.md)
+- [Case Study: Engaging Older People in Creative Thinking - The Active Energy Project](../sources/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-(2).md)
 - [Active Energy Project and Its Impact on Elderly Wellbeing](../sources/fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2).md)
 - [Arts for EveryBody: The One Nation/One Project Impact Report](../sources/fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report.md)
 - [Developing a national arts and health policy framework](../sources/fxa301-week03-developing-a-national-arts-and-health-policy-framework.md)
@@ -42,8 +43,8 @@ updated: 2026-05-04
 - [Pub Choir Coronavirus Inspired Couch Event Draws 1000 Singers](../sources/fxa301-week06-transcript-these-videos-were-mixed-into-a-music-clip.md)
 - [Week 6 Activities - FXA301 Arts in the Community](../sources/fxa301-week06-week-6-activities-fxa301-arts-in-the-community.md)
 - [Welcome to Week 6 - FXA301 Arts in the Community](../sources/fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community.md)
-- [Theatre of Wandering: Rehearsal and Devising Notes [Part 1](../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1.md)]
-- [Theatre of Wandering: Rehearsal and devising notes [Part 2](../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2.md)]
+- [Theatre of Wandering: Rehearsal and Devising Notes [Part 1]](../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1.md)
+- [Theatre of Wandering: Rehearsal and devising notes [Part 2]](../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2.md)
 - [Participant Stories from Arts Gymnasium at Belgrade Theatre Coventry](../sources/fxa301-week08-transcript-arts-gymnasium-at-belgrade-theatre-coventry.md)
 - [Applied Theater: Storytelling Beyond Traditional Stages](../sources/fxa301-week08-transcript-youtube-channel-school-of-education-and.md)
 - [The Impact of Literature on Personal Development](../sources/fxa301-week08-transcript-youtube-i1dnrn0cj20.md)
@@ -59,4 +60,7 @@ updated: 2026-05-04
 - [Capertee Valley Hydrology Project \u2014 KSCA](../sources/fxa303-week09-capertee-valley-hydrology-project-ksca.md)
 - [FXA303 Week 9: Design and Applications of Creative Arts Projects for Mental Wellbeing](../sources/fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts.md)
 - [National Taskforce for Creative Recovery Recommendations](../sources/fxa303-week09-national-taskforce-for-creative-recovery-recommendations.md)
+- [Importance of Cultural Context in Designing Arts Programs for Mental Health](../sources/fxa303-week10-importance-of-cultural-context-in-designing-arts-programs.md)
+- [The Good Life for Children: Do We Really Care about the Trends?](../sources/fxa303-week10-the-good-life-for-children-do-we-really-care-about-the.md)
+- ['Younger Stories' Multicultural Arts Project Exhibition](../sources/fxa303-week10-transcript-younger-stories-culminated-in-an-exhibition-of.md)
 - [Supporting youth mental health with arts-based strategies: a global perspective](../sources/fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a.md)

@@ -11,7 +11,7 @@ tags: ["arts-in-health", "dementia-care", "hospital-activities", "fxa100"]
 key_concepts: ["verbal-and-non-verbal-communication", "playful-interaction"]
 methods: []
 slug: fxa100-week10-transcript-the-elderflowers-arts-in-health-program-uses
-related: []
+related: ["arts-in-health", "dementia-care"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -40,4 +40,5 @@ The transcript captures a session of the Elderflowers arts-in-health program run
 
 ## See Also
 
-*(none yet)*
+- [arts-in-health](../topics/arts-in-health.md)
+- [dementia-care](../topics/dementia-care.md)

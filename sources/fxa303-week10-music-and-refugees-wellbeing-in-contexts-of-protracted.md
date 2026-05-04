@@ -11,7 +11,7 @@ tags: ["music-and-wellbeing", "refugee-studies", "protracted-displacement", "yaz
 key_concepts: ["emotional-expression", "self-identity", "sense-of-agency", "social-relations"]
 methods: ["case-study"]
 slug: fxa303-week10-music-and-refugees-wellbeing-in-contexts-of-protracted
-related: []
+related: ["health-promotion"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -45,4 +45,4 @@ This study examines the relationship between music practice and the wellbeing of
 
 ## See Also
 
-*(none yet)*
+- [health-promotion](../topics/health-promotion.md)

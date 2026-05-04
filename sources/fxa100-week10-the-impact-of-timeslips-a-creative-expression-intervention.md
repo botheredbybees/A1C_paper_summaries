@@ -11,7 +11,7 @@ tags: ["dementia-care", "creative-expression", "quality-of-life", "nursing-home-
 key_concepts: ["TimeSlips intervention program", "resident engagement", "staff attitudes"]
 methods: ["observational study", "group storytelling"]
 slug: fxa100-week10-the-impact-of-timeslips-a-creative-expression-intervention
-related: []
+related: ["creative-expression", "dementia-care", "quality-of-life"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -43,4 +43,6 @@ This study evaluates the impact of TimeSlips, a group storytelling program desig
 
 ## See Also
 
-*(none yet)*
+- [creative-expression](../topics/creative-expression.md)
+- [dementia-care](../topics/dementia-care.md)
+- [quality-of-life](../topics/quality-of-life.md)

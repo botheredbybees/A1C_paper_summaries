@@ -11,7 +11,7 @@ tags: ["photographic-essay", "wabi-sabi", "creative-interventions", "therapeutic
 key_concepts: ["wabi-sabi", "natural-light-photography", "health-humanities", "phototherapy"]
 methods: ["reflective-practice"]
 slug: fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay
-related: []
+related: ["creative-interventions", "therapeutic-art"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -44,4 +44,5 @@ In her reflective essay, Anna Mackintosh discusses the creation of a photographi
 
 ## See Also
 
-*(none yet)*
+- [creative-interventions](../topics/creative-interventions.md)
+- [therapeutic-art](../topics/therapeutic-art.md)

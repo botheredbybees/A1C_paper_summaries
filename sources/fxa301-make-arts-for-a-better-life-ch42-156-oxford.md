@@ -11,7 +11,7 @@ tags: ["ethnomusicology", "cultural-studies", "community-development", "fxa301"]
 key_concepts: ["performance studies", "sustainability in music cultures", "arts-based community development"]
 methods: ["ethnography", "participant observation", "collaborative research"]
 slug: fxa301-make-arts-for-a-better-life-ch42-156-oxford
-related: ["community-development", "ethnomusicology"]
+related: ["community-development", "cultural-studies", "ethnomusicology"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,4 +44,5 @@ This chapter includes a collection of scholarly references and citations relevan
 ## See Also
 
 - [community-development](../topics/community-development.md)
+- [cultural-studies](../topics/cultural-studies.md)
 - [ethnomusicology](../topics/ethnomusicology.md)

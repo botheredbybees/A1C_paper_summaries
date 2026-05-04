@@ -10,6 +10,7 @@ updated: 2026-05-04
 - [What is Drama Therapy?](../sources/fxa100-week09-web-article-north-2021.md)
 - [Can Photography Help Depression?](../sources/fxa202-week03-can-photography-help-depression.md)
 - [Noticing: A Photo Essay](../sources/fxa202-week09-noticing-a-photo-essay.md)
+- [Research and Evidence in Arts, Health and Well-Being](../sources/fxa202-week10-research-and-evidence-in-arts-health-and-well-being.md)
 - [Welcome to Week 3 - FXA301 Arts in the Community](../sources/fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community.md)
 - [Creative, Artistic, and Expressive Therapies for PTSD](../sources/fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd.md)
 - [FXA301 Week 10 Lecture](../sources/fxa301-week10-fxa301-week-10-lecture.md)

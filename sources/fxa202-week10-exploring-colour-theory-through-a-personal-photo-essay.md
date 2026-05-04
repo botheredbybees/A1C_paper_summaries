@@ -11,7 +11,7 @@ tags: ["colour-theory", "mental-health", "emotional-wellbeing", "personal-storyt
 key_concepts: ["color theory", "psychodynamic nature of color", "therapeutic potential of creative storytelling"]
 methods: ["case study"]
 slug: fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay
-related: []
+related: ["emotional-wellbeing", "mental-health", "personal-storytelling", "photo-essay"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -43,4 +43,7 @@ Melanie Henderson's photo essay explores the theme of color theory within the co
 
 ## See Also
 
-*(none yet)*
+- [emotional-wellbeing](../topics/emotional-wellbeing.md)
+- [mental-health](../topics/mental-health.md)
+- [personal-storytelling](../topics/personal-storytelling.md)
+- [photo-essay](../topics/photo-essay.md)

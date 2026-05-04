@@ -11,7 +11,7 @@ tags: ["dementia-care", "person-centered-approaches", "theatre-in-education", "f
 key_concepts: ["personhood-undermining", "malignant-social-psychology", "veder-contact-method"]
 methods: []
 slug: fxa100-week09-lesson-fxa100-week09-page-3-theatre-play-and-dementia
-related: ["dementia-care"]
+related: ["dementia-care", "theatre-in-education"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,3 +42,4 @@ This lesson explores the application of theatre and play in dementia care throug
 ## See Also
 
 - [dementia-care](../topics/dementia-care.md)
+- [theatre-in-education](../topics/theatre-in-education.md)

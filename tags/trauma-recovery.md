@@ -8,6 +8,7 @@ updated: 2026-05-04
 
 - [Donna: A Photo Essay](../sources/fxa202-week06-donna-a-photo-essay.md)
 - [Healing Through Art and Music](../sources/fxa202-week09-healing-through-art-and-music.md)
+- [Reimagining Trauma Through Therapeutic Self Portraiture](../sources/fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture.md)
 - [Projects Using Music for Social, Health and Economic Issues](../sources/fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music.md)
 - [Creative Arts, Mental Health and Trauma](../sources/fxa301-week10-lesson-fxa301-week10-page-1.md)
 - [Social Action in Art Therapy with Veterans](../sources/fxa301-week10-social-action-in-art-therapy-with-veterans.md)

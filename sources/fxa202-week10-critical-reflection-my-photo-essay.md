@@ -11,7 +11,7 @@ tags: ["postnatal-depression", "creative-therapy", "photo-journalism", "mental-h
 key_concepts: ["postnatal depression", "therapeutic benefits of photography", "mindfulness and coping mechanisms"]
 methods: ["critical reflection"]
 slug: fxa202-week10-critical-reflection-my-photo-essay
-related: []
+related: ["creative-therapy", "mental-health-recovery", "mindfulness-practice", "photo-journalism"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -43,4 +43,7 @@ This critical reflection by Melanie Hall explores the creation and therapeutic b
 
 ## See Also
 
-*(none yet)*
+- [creative-therapy](../topics/creative-therapy.md)
+- [mental-health-recovery](../topics/mental-health-recovery.md)
+- [mindfulness-practice](../topics/mindfulness-practice.md)
+- [photo-journalism](../topics/photo-journalism.md)

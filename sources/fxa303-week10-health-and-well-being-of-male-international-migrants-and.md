@@ -11,7 +11,7 @@ tags: ["international-migration", "health-disparities", "bangladesh-study", "mal
 key_concepts: ["self-rated-health", "migration-conditions", "depressive-symptoms", "overweight-obesity-risk", "hypertension-prevalence"]
 methods: ["cross-sectional-study", "follow-up-analysis"]
 slug: fxa303-week10-health-and-well-being-of-male-international-migrants-and
-related: []
+related: ["health-disparities", "international-migration"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -47,4 +47,5 @@ This research article examines the health and well-being of male international m
 
 ## See Also
 
-*(none yet)*
+- [health-disparities](../topics/health-disparities.md)
+- [international-migration](../topics/international-migration.md)

@@ -11,7 +11,7 @@ tags: ["aged-care", "creative-arts-research", "photovoice-methods", "documentary
 key_concepts: ["photovoice", "aging-experiences", "emotive-research"]
 methods: ["case-study", "photovoice"]
 slug: fxa202-week10-creative-arts-based-research-in-aged-care-photovoice
-related: []
+related: ["aged-care", "documentary-photography", "photovoice-methods", "poetry-in-research"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -44,4 +44,7 @@ In the preface of 'Creative Arts-Based Research in Aged Care: Photovoice, Photog
 
 ## See Also
 
-*(none yet)*
+- [aged-care](../topics/aged-care.md)
+- [documentary-photography](../topics/documentary-photography.md)
+- [photovoice-methods](../topics/photovoice-methods.md)
+- [poetry-in-research](../topics/poetry-in-research.md)

@@ -11,7 +11,7 @@ tags: ["creative-arts-therapy", "trauma-healing", "neuroscience-of-therapy", "co
 key_concepts: ["perceptual-biases-in-trauma", "neural-rehabilitation-through-therapeutic-intervention", "emotional-expression-and-body-movement"]
 methods: ["qualitative-analysis"]
 slug: fxa301-week10-using-creative-arts-in-trauma-therapy-the-neuroscience-of
-related: []
+related: ["cognitive-behavioral-therapy", "creative-arts-therapy"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -42,4 +42,5 @@ This article examines the role of creative arts therapies in trauma treatment, e
 
 ## See Also
 
-*(none yet)*
+- [cognitive-behavioral-therapy](../topics/cognitive-behavioral-therapy.md)
+- [creative-arts-therapy](../topics/creative-arts-therapy.md)

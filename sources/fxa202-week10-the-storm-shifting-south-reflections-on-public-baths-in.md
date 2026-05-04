@@ -11,7 +11,7 @@ tags: ["public-baths", "winter-experience", "global-pandemic", "therapeutic-envi
 key_concepts: ["mental-health", "natural-elements", "historical-architecture", "personal-memory"]
 methods: ["poetry"]
 slug: fxa202-week10-the-storm-shifting-south-reflections-on-public-baths-in
-related: []
+related: ["therapeutic-environments"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -45,4 +45,4 @@ The text is a reflective poem about visiting public baths during winter amidst a
 
 ## See Also
 
-*(none yet)*
+- [therapeutic-environments](../topics/therapeutic-environments.md)

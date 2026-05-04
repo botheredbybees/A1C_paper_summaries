@@ -11,7 +11,7 @@ tags: ["personal-storytelling", "memoir-writing", "creative-writing", "self-expr
 key_concepts: ["sensory writing", "story structure", "healing power of self-expression"]
 methods: ["online course"]
 slug: fxa202-week09-personal-storytelling-and-memoir-writing
-related: ["creative-writing", "self-expression"]
+related: ["creative-writing", "personal-storytelling", "self-expression"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,4 +45,5 @@ The Personal Storytelling and Memoir Writing course offered by the Writers' Cent
 ## See Also
 
 - [creative-writing](../topics/creative-writing.md)
+- [personal-storytelling](../topics/personal-storytelling.md)
 - [self-expression](../topics/self-expression.md)

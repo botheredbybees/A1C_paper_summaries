@@ -11,7 +11,7 @@ tags: ["theatre-in-dementia-care", "sundowning-symptoms", "awareness-raising-thr
 key_concepts: ["Sundowner (play)", "lived-experience-narratives", "raising-awareness-of-dementia"]
 methods: []
 slug: fxa100-week10-lesson-fxa100-week10-page-3-kage-physical-theatre
-related: []
+related: ["dementia-care-experiences"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -43,4 +43,4 @@ KAGE Physical Theatre Company's production 'Sundowner' explores the impact of de
 
 ## See Also
 
-*(none yet)*
+- [dementia-care-experiences](../topics/dementia-care-experiences.md)

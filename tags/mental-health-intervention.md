@@ -12,3 +12,5 @@ updated: 2026-05-04
 - [Social Action in Art Therapy with Veterans](../sources/fxa301-week10-social-action-in-art-therapy-with-veterans.md)
 - [An Overview of Play Therapy](../sources/fxa303-week01-an-overview-of-play-therapy.md)
 - [Psychological First Aid: Supporting People Affected by Disaster in Australia](../sources/fxa303-week09-psychological-first-aid-supporting-people-affected-by.md)
+- [Evaluation of a school-based creative arts therapy programme for adolescents from refugee backgrounds](../sources/fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy.md)
+- [Transcript: Connecting Aboriginal Culture, Identity, and Well-being](../sources/fxa303-week10-transcript-duration-2-36.md)

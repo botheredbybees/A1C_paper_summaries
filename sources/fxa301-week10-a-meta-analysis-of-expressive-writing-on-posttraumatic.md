@@ -11,7 +11,7 @@ tags: ["expressive-writing", "posttraumatic-stress-disorder", "quality-of-life",
 key_concepts: ["expressive writing", "posttraumatic growth", "quality of life"]
 methods: ["meta-analysis"]
 slug: fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic
-related: []
+related: ["expressive-writing", "meta-analysis", "quality-of-life"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -43,4 +43,6 @@ This meta-analysis evaluates the efficacy of expressive writing in promoting pos
 
 ## See Also
 
-*(none yet)*
+- [expressive-writing](../topics/expressive-writing.md)
+- [meta-analysis](../topics/meta-analysis.md)
+- [quality-of-life](../topics/quality-of-life.md)

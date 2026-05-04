@@ -20,3 +20,4 @@ updated: 2026-05-04
 - [The Handbook of Phototherapy and Therapeutic Photography](../sources/fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography.md)
 - [Week 8 Lecture Notes: Editing Your Images](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images.md)
 - [Week 8 Lecture Notes: Editing Your Images](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images-(2).md)
+- [Reimagining Trauma Through Therapeutic Self Portraiture](../sources/fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture.md)

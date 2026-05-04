@@ -18,3 +18,4 @@ updated: 2026-05-04
 - [Week 1 Activities: FXA301 Arts in the Community](../sources/fxa301-week01-lesson-fxa301-week01-week-1-page-3-activities.md)
 - [Engaging with Visual Arts: Week 5 Introduction](../sources/fxa301-week05-engaging-with-visual-arts-week-5-introduction.md)
 - [Case Studies of Community Projects](../sources/fxa301-week06-lesson-fxa301-week06-page-2.md)
+- [\u201cYesterday I Couldn\u2019t See. Tomorrow\u2019s Sun Shines Now\u201d: Sharing Migrant Stories Through Creative Arts to Foster Community Connections and Wellbeing](../sources/fxa303-week10-yesterday-i-couldnt-see-tomorrows-sun-shines-now-sharing.md)

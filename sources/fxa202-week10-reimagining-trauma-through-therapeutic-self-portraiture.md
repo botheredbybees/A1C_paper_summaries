@@ -11,7 +11,7 @@ tags: ["therapeutic-photography", "trauma-recovery", "mythology-in-art", "digita
 key_concepts: ["Jungian archetypes", "therapeutic photography practices", "color psychology"]
 methods: ["reflective analysis"]
 slug: fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture
-related: []
+related: ["digital-manipulation", "emotional-healing", "therapeutic-photography", "trauma-recovery"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -48,4 +48,7 @@ By engaging mythological figures and digital manipulation techniques, Miller dem
 
 ## See Also
 
-*(none yet)*
+- [digital-manipulation](../topics/digital-manipulation.md)
+- [emotional-healing](../topics/emotional-healing.md)
+- [therapeutic-photography](../topics/therapeutic-photography.md)
+- [trauma-recovery](../topics/trauma-recovery.md)

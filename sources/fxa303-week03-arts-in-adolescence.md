@@ -13,7 +13,7 @@ tags: ["arts-education", "adolescent-development", "mental-health-interventions"
 key_concepts: ["Arts on Prescription", "identity formation", "emotional resilience", "cognitive benefits", "socio-emotional skills"]
 methods: ["survey research", "qualitative analysis"]
 slug: fxa303-week03-arts-in-adolescence
-related: ["adolescent-development", "mental-health-interventions", "therapeutic-arts"]
+related: ["adolescent-development", "arts-education", "mental-health-interventions", "therapeutic-arts"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -50,5 +50,6 @@ The document 'Arts in Adolescence' highlights the significance of arts engagemen
 ## See Also
 
 - [adolescent-development](../topics/adolescent-development.md)
+- [arts-education](../topics/arts-education.md)
 - [mental-health-interventions](../topics/mental-health-interventions.md)
 - [therapeutic-arts](../topics/therapeutic-arts.md)

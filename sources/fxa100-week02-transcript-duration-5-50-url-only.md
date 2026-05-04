@@ -11,7 +11,7 @@ tags: ["video-transcript", "youtube-issues", "automatic-downloads", "fxa100"]
 key_concepts: []
 methods: []
 slug: fxa100-week02-transcript-duration-5-50-url-only
-related: []
+related: ["video-transcript"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -39,4 +39,4 @@ The transcript could not be automatically downloaded due to the absence of capti
 
 ## See Also
 
-*(none yet)*
+- [video-transcript](../topics/video-transcript.md)

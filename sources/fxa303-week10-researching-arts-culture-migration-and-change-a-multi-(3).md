@@ -11,7 +11,7 @@ tags: ["migration-studies", "arts-and-culture", "interdisciplinary-research", "c
 key_concepts: ["international-migration-studies", "multi-disciplinary-approach"]
 methods: ["systematic-review"]
 slug: fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)
-related: []
+related: ["arts-and-culture", "interdisciplinary-research", "migration-studies"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -41,4 +41,6 @@ Marco Martiniello's paper addresses the importance of researching the connection
 
 ## See Also
 
-*(none yet)*
+- [arts-and-culture](../topics/arts-and-culture.md)
+- [interdisciplinary-research](../topics/interdisciplinary-research.md)
+- [migration-studies](../topics/migration-studies.md)

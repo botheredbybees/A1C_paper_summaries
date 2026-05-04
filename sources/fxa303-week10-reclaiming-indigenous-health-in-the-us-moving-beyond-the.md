@@ -11,7 +11,7 @@ tags: ["indigenous-health", "social-determinants-of-health", "health-policy", "i
 key_concepts: ["social determinants of health (SDH)", "Indigenous epistemologies", "community sovereignty"]
 methods: ["conceptual framework development"]
 slug: fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the
-related: []
+related: ["health-policy", "indigenous-health", "public-health", "social-determinants-of-health"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -43,4 +43,7 @@ This paper examines the limitations of applying the World Health Organization’
 
 ## See Also
 
-*(none yet)*
+- [health-policy](../topics/health-policy.md)
+- [indigenous-health](../topics/indigenous-health.md)
+- [public-health](../topics/public-health.md)
+- [social-determinants-of-health](../topics/social-determinants-of-health.md)

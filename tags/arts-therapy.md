@@ -16,3 +16,4 @@ updated: 2026-05-04
 - [Arts Therapies Interventions and Their Outcomes in the Treatment of Eating Disorders: Scoping Review Protocol](../sources/fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the.md)
 - [Week 3 Activities](../sources/fxa303-week02-lesson-fxa303-week02-topic-20-20activities-202-copy.md)
 - [Arts Therapies and the Mental Health of Children and Young People](../sources/fxa303-week06-arts-therapies-and-the-mental-health-of-children-and-young.md)
+- [Importance of Cultural Context in Designing Arts Programs for Mental Health](../sources/fxa303-week10-importance-of-cultural-context-in-designing-arts-programs.md)

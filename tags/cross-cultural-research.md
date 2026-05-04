@@ -8,3 +8,4 @@ updated: 2026-05-04
 
 - [Reminiscence bump invariance with respect to genre, age, and country](../sources/fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and.md)
 - [Development of a Novel Benchmark Method to Identify and Characterize Best Practices in Home Care Across Six European Countries](../sources/fxa100-week08-development-of-a-novel-benchmark-method-to-identify-and.md)
+- [Indigenous and Traditional Visual Artistic Practices: Implications for Art Therapy Clinical Practice and Research](../sources/fxa303-week10-indigenous-and-traditional-visual-artistic-practices.md)

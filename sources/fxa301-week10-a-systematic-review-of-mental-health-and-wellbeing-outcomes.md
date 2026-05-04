@@ -11,7 +11,7 @@ tags: ["mental-health", "group-singing", "wellbeing-outcomes", "systematic-revie
 key_concepts: ["anxiety-reduction", "depression-treatment", "social-support"]
 methods: ["systematic review"]
 slug: fxa301-week10-a-systematic-review-of-mental-health-and-wellbeing-outcomes
-related: []
+related: ["group-singing", "mental-health", "systematic-review", "wellbeing-outcomes"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -42,4 +42,7 @@ The paper presents a systematic review of the literature on group singing as an 
 
 ## See Also
 
-*(none yet)*
+- [group-singing](../topics/group-singing.md)
+- [mental-health](../topics/mental-health.md)
+- [systematic-review](../topics/systematic-review.md)
+- [wellbeing-outcomes](../topics/wellbeing-outcomes.md)

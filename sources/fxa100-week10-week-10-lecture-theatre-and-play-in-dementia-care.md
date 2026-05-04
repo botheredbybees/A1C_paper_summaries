@@ -11,7 +11,7 @@ tags: ["dementia-care", "elder-clowns", "theatrical-interventions", "playful-eng
 key_concepts: ["Playful Engagement Project", "Sundowner Theatre Production", "Timeslips Program", "Alzheimer's Poetry Project"]
 methods: ["case study"]
 slug: fxa100-week10-week-10-lecture-theatre-and-play-in-dementia-care
-related: []
+related: ["arts-in-healthcare", "dementia-care", "non-verbal-communication", "playful-engagement"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -49,4 +49,7 @@ Additionally, the lecture touches upon other arts programs like Timeslips and Al
 
 ## See Also
 
-*(none yet)*
+- [arts-in-healthcare](../topics/arts-in-healthcare.md)
+- [dementia-care](../topics/dementia-care.md)
+- [non-verbal-communication](../topics/non-verbal-communication.md)
+- [playful-engagement](../topics/playful-engagement.md)

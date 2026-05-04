@@ -11,7 +11,7 @@ tags: ["dementia-care", "sundown-syndrome", "neuropsychiatric-symptoms", "aging-
 key_concepts: ["circadian-rhythmicity", "suprachiasmatic-nucleus-degeneration", "melatonin-production"]
 methods: ["systematic-review"]
 slug: fxa100-week10-sundown-syndrome-in-persons-with-dementia-an-update
-related: []
+related: ["dementia-care"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -43,4 +43,4 @@ Sundown syndrome, a common clinical phenomenon among demented individuals, invol
 
 ## See Also
 
-*(none yet)*
+- [dementia-care](../topics/dementia-care.md)

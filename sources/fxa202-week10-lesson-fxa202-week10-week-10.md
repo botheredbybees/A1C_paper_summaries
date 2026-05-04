@@ -11,7 +11,7 @@ tags: ["legal-systems", "critical-reflection", "academic-writing", "fxa202"]
 key_concepts: ["critical reflection models", "photo essay", "academic skills workshop"]
 methods: []
 slug: fxa202-week10-lesson-fxa202-week10-week-10
-related: []
+related: ["academic-writing", "critical-reflection", "legal-systems"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -41,4 +41,6 @@ The lesson introduces students to the content and activities of Week 10 in the L
 
 ## See Also
 
-*(none yet)*
+- [academic-writing](../topics/academic-writing.md)
+- [critical-reflection](../topics/critical-reflection.md)
+- [legal-systems](../topics/legal-systems.md)

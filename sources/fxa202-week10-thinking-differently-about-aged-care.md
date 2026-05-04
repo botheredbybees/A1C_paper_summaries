@@ -11,7 +11,7 @@ tags: ["aged-care", "creative-research-methods", "resident-experience", "staff-s
 key_concepts: ["photovoice", "documentary-photography", "biophilic-design", "community-engagement"]
 methods: ["case-study"]
 slug: fxa202-week10-thinking-differently-about-aged-care
-related: []
+related: ["aged-care", "end-of-life-care"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -48,4 +48,5 @@ Overall, Miller's work is a call for innovative approaches that prioritize the h
 
 ## See Also
 
-*(none yet)*
+- [aged-care](../topics/aged-care.md)
+- [end-of-life-care](../topics/end-of-life-care.md)

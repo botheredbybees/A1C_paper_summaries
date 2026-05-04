@@ -11,7 +11,7 @@ tags: ["dementia-care", "theatre-therapy", "playful-engagement", "fxa100"]
 key_concepts: ["person-centered care", "roger caillois's four forms of play"]
 methods: []
 slug: fxa100-week10-lesson-fxa100-week10-page-1-welcome-to-week-9
-related: []
+related: ["dementia-care", "playful-engagement"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -40,4 +40,5 @@ This week's lesson explores the benefits of theatrical and playful engagement in
 
 ## See Also
 
-*(none yet)*
+- [dementia-care](../topics/dementia-care.md)
+- [playful-engagement](../topics/playful-engagement.md)

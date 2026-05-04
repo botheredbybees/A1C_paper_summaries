@@ -11,7 +11,7 @@ tags: ["autism-spectrum-disorder", "art-interventions", "occupational-therapy", 
 key_concepts: ["creative arts interventions", "Occupational Therapy Practice Framework", "performance skills and social interaction"]
 methods: ["scoping review"]
 slug: fxa303-week04-art-interventions-for-children-with-autism-spectrum
-related: ["autism-spectrum-disorder"]
+related: ["autism-spectrum-disorder", "scoping-review"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,3 +43,4 @@ This scoping review evaluates the efficacy of creative arts interventions for ch
 ## See Also
 
 - [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)
+- [scoping-review](../topics/scoping-review.md)

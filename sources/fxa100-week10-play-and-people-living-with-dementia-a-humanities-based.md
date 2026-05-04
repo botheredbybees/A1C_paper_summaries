@@ -11,7 +11,7 @@ tags: ["dementia-care", "play-theory", "humanities-research", "arts-intervention
 key_concepts: ["homo ludens", "TimeSlips program", "Alzheimer's Poetry Project"]
 methods: ["case study"]
 slug: fxa100-week10-play-and-people-living-with-dementia-a-humanities-based
-related: []
+related: ["arts-interventions", "dementia-care", "play-theory"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -43,4 +43,6 @@ This paper explores the concept of 'play' in dementia care through a humanities-
 
 ## See Also
 
-*(none yet)*
+- [arts-interventions](../topics/arts-interventions.md)
+- [dementia-care](../topics/dementia-care.md)
+- [play-theory](../topics/play-theory.md)

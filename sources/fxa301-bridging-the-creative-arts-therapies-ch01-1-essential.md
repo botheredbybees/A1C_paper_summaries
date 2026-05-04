@@ -14,7 +14,7 @@ tags: ["neuroaesthetics", "therapeutic-environments", "interdisciplinary-collabo
 key_concepts: ["neuroaesthetic principles", "sensory experiences"]
 methods: []
 slug: fxa301-bridging-the-creative-arts-therapies-ch01-1-essential
-related: ["interdisciplinary-collaboration", "neuroaesthetics"]
+related: ["interdisciplinary-collaboration", "neuroaesthetics", "therapeutic-environments"]
 created: 2026-05-03
 updated: 2026-05-04
 ---
@@ -45,3 +45,4 @@ The chapter discusses how aesthetic spaces can promote health and well-being by 
 
 - [interdisciplinary-collaboration](../topics/interdisciplinary-collaboration.md)
 - [neuroaesthetics](../topics/neuroaesthetics.md)
+- [therapeutic-environments](../topics/therapeutic-environments.md)

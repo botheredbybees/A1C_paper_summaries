@@ -14,7 +14,7 @@ tags: ["therapeutic-photography", "photo-elicitation-methods", "mental-health-re
 key_concepts: ["power-dynamics-in-interviews", "visual-pedagogy", "emancipatory-research"]
 methods: []
 slug: fxa202-therapeutic-photography-ch04-2-reflexive-photography
-related: ["therapeutic-photography"]
+related: ["mental-health-research", "therapeutic-photography"]
 created: 2026-05-03
 updated: 2026-05-04
 ---
@@ -44,4 +44,5 @@ The content explores various photographic techniques in therapeutic contexts suc
 
 ## See Also
 
+- [mental-health-research](../topics/mental-health-research.md)
 - [therapeutic-photography](../topics/therapeutic-photography.md)

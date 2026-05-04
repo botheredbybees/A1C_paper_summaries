@@ -11,7 +11,7 @@ tags: ["mental-health", "wellbeing-research", "community-singing", "therapeutic-
 key_concepts: ["group singing", "mental distress reduction", "wellbeing improvement"]
 methods: ["quasi-experimental study", "questionnaire assessment"]
 slug: fxa301-week06-further-evidence-that-singing-fosters-mental-health-and
-related: ["mental-health", "music-therapy", "therapeutic-benefits", "wellbeing-research"]
+related: ["community-singing", "mental-health", "music-therapy", "therapeutic-benefits", "wellbeing-research"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,6 +44,7 @@ This paper investigates the impact of group singing on mental health and wellbei
 
 ## See Also
 
+- [community-singing](../topics/community-singing.md)
 - [mental-health](../topics/mental-health.md)
 - [music-therapy](../topics/music-therapy.md)
 - [therapeutic-benefits](../topics/therapeutic-benefits.md)

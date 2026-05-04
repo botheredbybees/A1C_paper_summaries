@@ -11,7 +11,7 @@ tags: ["drama", "dementia-awareness", "holistic-representation", "family-care", 
 key_concepts: ["change-in-person", "resilience-and-humor", "multidisciplinary-collaboration"]
 methods: []
 slug: fxa100-week10-transcript-helen-morse-also-brought-her-personal-experience
-related: []
+related: ["dementia-awareness"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -42,4 +42,4 @@ The transcript details Helen Morse's personal and professional journey involving
 
 ## See Also
 
-*(none yet)*
+- [dementia-awareness](../topics/dementia-awareness.md)

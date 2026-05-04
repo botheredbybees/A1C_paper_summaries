@@ -13,7 +13,7 @@ tags: ["neurological-conditions", "art-therapy", "music-therapy", "health-interv
 key_concepts: ["sensory-processing-recovery", "cognitive-recovery-post-stroke", "social-responsiveness-in-autism"]
 methods: []
 slug: fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the
-related: []
+related: ["health-interventions", "music-therapy"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -44,4 +44,5 @@ This chapter explores the role of arts in therapeutic interventions for neurolog
 
 ## See Also
 
-*(none yet)*
+- [health-interventions](../topics/health-interventions.md)
+- [music-therapy](../topics/music-therapy.md)

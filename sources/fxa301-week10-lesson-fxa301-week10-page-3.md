@@ -11,7 +11,7 @@ tags: ["eating-disorders", "art-therapy", "ptsd-treatment", "creative-therapies"
 key_concepts: ["Symbolic language in therapy", "Group therapy benefits", "Creative arts as resilience-building tools"]
 methods: []
 slug: fxa301-week10-lesson-fxa301-week10-page-3
-related: []
+related: ["creative-therapies", "eating-disorders", "ptsd-treatment"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -42,4 +42,6 @@ This lesson explores the use of creative arts therapies in treating eating disor
 
 ## See Also
 
-*(none yet)*
+- [creative-therapies](../topics/creative-therapies.md)
+- [eating-disorders](../topics/eating-disorders.md)
+- [ptsd-treatment](../topics/ptsd-treatment.md)
