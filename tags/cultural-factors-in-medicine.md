@@ -1,0 +1,9 @@
+---
+type: tag
+tag: cultural-factors-in-medicine
+updated: 2026-05-04
+---
+
+## Cultural Factors In Medicine
+
+- [[../sources/fxa100-week07-dementia-in-our-mob-and-around-the-world|Dementia in Our Mob and around the World]]

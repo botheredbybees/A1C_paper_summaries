@@ -1,0 +1,9 @@
+---
+type: tag
+tag: neurodevelopmental-research
+updated: 2026-05-04
+---
+
+## Neurodevelopmental Research
+
+- [[../sources/fxa303-week04-evidence-against-the-normalization-prediction-of-the-early|Evidence against the \u201cnormalization\u201d prediction of the early brain overgrowth hypothesis of autism]]

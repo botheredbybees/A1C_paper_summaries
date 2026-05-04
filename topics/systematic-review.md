@@ -1,0 +1,60 @@
+---
+type: topic
+domain: "intervention"
+title: "Systematic Reviews of Arts-Based Interventions"
+confidence: high
+tags: ["systematic-review"]
+sources:
+  - fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a
+  - fxa100-week09-dance-movement-therapy-for-dementia
+  - fxa100-week09-key-components-of-person-centered-care-for-people-with
+  - fxa100-week09-key-intervention-categories-to-provide-person-centered
+  - fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older
+  - fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention
+  - fxa301-week06-promoting-wellbeing-and-health-through-active-participation
+  - fxa301-week06-therapeutic-dancing-for-parkinsons-disease
+  - fxa301-week06-week-6-activities-fxa301-arts-in-the-community
+  - fxa301-week08-school-based-drama-interventions-in-health-promotion-for
+  - fxa303-week03-creative-arts-interventions-for-stress-management-and
+  - fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and
+  - fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism
+  - fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism
+  - fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder
+  - fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic
+  - fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of
+updated: 2026-05-04
+---
+
+## Systematic Reviews of Arts-Based Interventions
+
+The systematic reviews examined here cover a range of arts-based interventions across different populations and health conditions. Dance movement therapy emerged as an intervention beneficial for dementia, Alzheimer's disease, Parkinson’s disease, fall risk reduction in older adults, and mental well-being among various demographics. The reviews also emphasized the effectiveness of creative arts therapies such as music and dramatherapy for children with autism spectrum disorder (ASD), using both randomized controlled trials (RCTs) and observational studies to validate their efficacy. Additionally, these interventions were found to positively impact physical health markers like balance improvement and fall prevention in older adults while simultaneously enhancing psychological well-being through stress management and social interaction. Person-centered care components, including tailored social contact and cognitive training, further amplified the benefits of such therapies by ensuring individualized support.
+
+## Key Findings
+
+- Dance movement therapy is efficacious for dementia patients and for fall prevention in older adults.
+- Music and dramatherapy have positive impacts on children with ASD, particularly concerning social reactions and symptom severity.
+- Person-centered care components enhance the efficacy of arts-based interventions by personalizing support.
+
+## Open Questions
+
+- What are the long-term effects of dance movement therapy for patients with chronic conditions such as Parkinson's disease or dementia?
+
+## Sources
+
+- [[../sources/fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a]]
+- [[../sources/fxa100-week09-dance-movement-therapy-for-dementia]]
+- [[../sources/fxa100-week09-key-components-of-person-centered-care-for-people-with]]
+- [[../sources/fxa100-week09-key-intervention-categories-to-provide-person-centered]]
+- [[../sources/fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older]]
+- [[../sources/fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention]]
+- [[../sources/fxa301-week06-promoting-wellbeing-and-health-through-active-participation]]
+- [[../sources/fxa301-week06-therapeutic-dancing-for-parkinsons-disease]]
+- [[../sources/fxa301-week06-week-6-activities-fxa301-arts-in-the-community]]
+- [[../sources/fxa301-week08-school-based-drama-interventions-in-health-promotion-for]]
+- [[../sources/fxa303-week03-creative-arts-interventions-for-stress-management-and]]
+- [[../sources/fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and]]
+- [[../sources/fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism]]
+- [[../sources/fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism]]
+- [[../sources/fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder]]
+- [[../sources/fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic]]
+- [[../sources/fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of]]

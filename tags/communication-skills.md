@@ -1,0 +1,11 @@
+---
+type: tag
+tag: communication-skills
+updated: 2026-05-04
+---
+
+## Communication Skills
+
+- [[../sources/fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to|Painting for a Purpose: A Visual Arts Program as a Method to Promote Engagement, Communication, Cognition, and Quality of Life for Individuals With Dementia]]
+- [[../sources/fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life|The impact of a visual arts program on quality of life, communication, and well-being of people living with dementia: a mixed-methods longitudinal investigation]]
+- [[../sources/fxa202-week03-what-is-therapeutic-photography|What is Therapeutic Photography?]]

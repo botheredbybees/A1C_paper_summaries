@@ -1,0 +1,9 @@
+---
+type: tag
+tag: neurobiology-of-art
+updated: 2026-05-04
+---
+
+## Neurobiology Of Art
+
+- [[../sources/fxa301-week02-how-do-we-respond-to-creative-art|How do we respond to Creative Art?]]

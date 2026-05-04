@@ -1,0 +1,9 @@
+---
+type: tag
+tag: elder-caring
+updated: 2026-05-04
+---
+
+## Elder Caring
+
+- [[../sources/fxa100-week07-dementia-and-our-mob-caring-for-spirit|Dementia and Our Mob: Caring for Spirit]]

@@ -1,0 +1,9 @@
+---
+type: tag
+tag: university-course
+updated: 2026-05-04
+---
+
+## University Course
+
+- [[../sources/fxa100-week01-lesson-fxa100-week01-page-3-week-1-activities|FXA100 The Arts and Dementia Care Introduction]]

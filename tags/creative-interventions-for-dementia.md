@@ -1,0 +1,9 @@
+---
+type: tag
+tag: creative-interventions-for-dementia
+updated: 2026-05-04
+---
+
+## Creative Interventions For Dementia
+
+- [[../sources/fxa100-week04-lecture-notes-for-fxa100-the-arts-and-dementia-care|Lecture Notes for FXA100 - The Arts and Dementia Care]]

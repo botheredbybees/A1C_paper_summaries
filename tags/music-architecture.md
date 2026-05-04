@@ -1,0 +1,9 @@
+---
+type: tag
+tag: music-architecture
+updated: 2026-05-04
+---
+
+## Music Architecture
+
+- [[../sources/fxa301-week02-personality-correlates-of-aesthetic-preferences-for-art|Personality Correlates of Aesthetic Preferences for Art, Architecture, and Music]]

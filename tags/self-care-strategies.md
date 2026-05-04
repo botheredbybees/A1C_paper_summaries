@@ -1,0 +1,10 @@
+---
+type: tag
+tag: self-care-strategies
+updated: 2026-05-04
+---
+
+## Self Care Strategies
+
+- [[../sources/fxa100-creativity-and-communication-ch13-23-making-space-for-your-own-creativity-making-space-for|Making Space for Your Own Creativity]]
+- [[../sources/fxa303-week05-puppets-and-self-care-for-task-2|Puppets and Self-Care for Task 2]]

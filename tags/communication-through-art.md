@@ -1,0 +1,9 @@
+---
+type: tag
+tag: communication-through-art
+updated: 2026-05-04
+---
+
+## Communication Through Art
+
+- [[../sources/fxa100-week08-lesson-fxa100-week07-page-2-communication-and-creativity|Communication through Visual Arts]]

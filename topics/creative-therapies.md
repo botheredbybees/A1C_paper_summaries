@@ -1,0 +1,38 @@
+---
+type: topic
+domain: "intervention"
+title: "Creative Therapies"
+confidence: high
+tags: ["creative-therapies"]
+sources:
+  - fxa100-week08-why-the-arts
+  - fxa100-week09-web-article-north-2021
+  - fxa202-week03-can-photography-help-depression
+  - fxa202-week09-noticing-a-photo-essay
+  - fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community
+  - fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods
+updated: 2026-05-04
+---
+
+## Creative Therapies
+
+Creative therapies encompass various interventions that use the arts to enhance psychological well-being and address specific mental health issues. Sources highlight the therapeutic benefits of creative expression across different modalities, including drama therapy, photography, and storytelling through puppet shows. These methods often facilitate self-expression and emotional processing, aiding in trauma recovery and behavioral problem resolution among diverse populations such as children with behavioral difficulties and individuals with dementia or depression. Despite varied approaches, common themes include sensory engagement, embodied practice, and role-playing, all of which contribute to therapeutic outcomes by providing alternative means for communication and introspection.
+
+## Key Findings
+
+- Creative therapies facilitate self-expression and emotional processing in diverse populations.
+- Sensory engagement and embodied practices are integral components across various creative therapy modalities.
+- Photography can serve as a powerful tool for trauma processing and enhancing well-being.
+
+## Open Questions
+
+- What are the long-term outcomes of sustained creative therapy interventions?
+
+## Sources
+
+- [[../sources/fxa100-week08-why-the-arts]]
+- [[../sources/fxa100-week09-web-article-north-2021]]
+- [[../sources/fxa202-week03-can-photography-help-depression]]
+- [[../sources/fxa202-week09-noticing-a-photo-essay]]
+- [[../sources/fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community]]
+- [[../sources/fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods]]

@@ -1,0 +1,9 @@
+---
+type: tag
+tag: pivotal-response-treatment
+updated: 2026-05-04
+---
+
+## Pivotal Response Treatment
+
+- [[../sources/fxa303-week04-transcript-duration-5-04|Transcript: Yale Medicine Child Study Center Autism Treatment]]

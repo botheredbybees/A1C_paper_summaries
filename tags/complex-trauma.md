@@ -1,0 +1,9 @@
+---
+type: tag
+tag: complex-trauma
+updated: 2026-05-04
+---
+
+## Complex Trauma
+
+- [[../sources/fxa303-week09-treating-the-trauma-survivor-an-essential-guide-to-trauma|Treating the Trauma Survivor: An Essential Guide to Trauma-Informed Care]]

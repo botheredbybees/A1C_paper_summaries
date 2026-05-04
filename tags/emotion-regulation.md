@@ -1,0 +1,11 @@
+---
+type: tag
+tag: emotion-regulation
+updated: 2026-05-04
+---
+
+## Emotion Regulation
+
+- [[../sources/fxa303-week04-brief-report-emotion-regulation-in-autism-is-improved-in-a|Brief Report: Emotion Regulation in Autism Is Improved in a Single-N Pilot Intervention Study Combining Child-Centered Play Therapy and Rhythmic Relating]]
+- [[../sources/fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves|Child-Centred Play Therapy and Rhythmic Relating improves emotion regulation in autism: A single-N pilot intervention study]]
+- [[../sources/fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)|Child-Centred Play Therapy and Rhythmic Relating improves emotion regulation in autism]]

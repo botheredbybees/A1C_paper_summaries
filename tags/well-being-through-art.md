@@ -1,0 +1,10 @@
+---
+type: tag
+tag: well-being-through-art
+updated: 2026-05-04
+---
+
+## Well Being Through Art
+
+- [[../sources/fxa100-week04-what-is-singing-for-the-brain|What is Singing for the Brain?]]
+- [[../sources/fxa100-week08-why-the-arts|Why the Arts?]]

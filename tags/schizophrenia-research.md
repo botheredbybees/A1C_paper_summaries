@@ -1,0 +1,9 @@
+---
+type: tag
+tag: schizophrenia-research
+updated: 2026-05-04
+---
+
+## Schizophrenia Research
+
+- [[../sources/fxa303-week06-creative-puppet-therapy-reduces-hallucinations-in-patients|Creative Puppet Therapy Reduces Hallucinations in Patients Diagnosed with Schizophrenia: Preliminary Findings]]

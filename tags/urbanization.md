@@ -1,0 +1,9 @@
+---
+type: tag
+tag: urbanization
+updated: 2026-05-04
+---
+
+## Urbanization
+
+- [[../sources/fxa301-make-arts-for-a-better-life-ch22-2-choose-a-master-of-the-genre|Cultural Preservation and Community Arts]]

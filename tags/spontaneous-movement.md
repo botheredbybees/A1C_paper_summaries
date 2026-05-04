@@ -1,0 +1,9 @@
+---
+type: tag
+tag: spontaneous-movement
+updated: 2026-05-04
+---
+
+## Spontaneous Movement
+
+- [[../sources/fxa100-creativity-and-communication-ch06-5-moving-in-the-moment-dance-john-killick-in-the-previous|Moving in the Moment]]

@@ -1,0 +1,48 @@
+---
+type: source
+source_type: paper
+title: "Parkinson's Disease Motor Symptom Progression Slowed with Multisensory Dance Learning over 3-Years: A Preliminary Longitudinal Investigation"
+apa7: "Bearss, K. A., & DeSouza, J. F. X. (2021). Parkinson\u2019s disease motor symptom progression slowed with multisensory dance learning over 3-years: A preliminary longitudinal investigation. Brain Sciences, 11(7), 895. https://doi.org/10.3390/brainsci11070895"
+doi: https://doi.org/10.3390/brainsci11070895
+appearances:
+  - unit: FXA301
+    week: "06"
+tags: ["parkinsons-disease", "motor-symptoms", "dance-therapy", "longitudinal-study", "multisensory-learning", "fxa301"]
+key_concepts: ["Parkinson's disease", "MDS-UPDRS", "multisensory dance learning"]
+methods: ["longitudinal investigation"]
+slug: fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with
+related: ["dance-therapy", "longitudinal-study", "parkinsons-disease"]
+created: 2026-05-03
+updated: 2026-05-03
+---
+
+_All claims sourced from ../raw/pdf/fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with.md_
+
+## Parkinson's Disease Motor Symptom Progression Slowed with Multisensory Dance Learning over 3-Years: A Preliminary Longitudinal Investigation
+
+This study investigates the impact of multisensory dance learning on motor and non-motor symptoms in Parkinson's disease (PD) over a three-year period. Participants with PD who attended weekly dance classes showed no decline in motor function, as measured by the Movement Disorder Society Unified Parkinson’s Disease Rating Scale (MDS-UPDRS), while those not participating in the classes demonstrated expected motor impairment. The study highlights that regular participation in dance can slow both motor and non-motor symptom progression in PD patients, contributing to better quality of life and functionality. This longitudinal research extends previous short-term studies by demonstrating sustained benefits over a longer period and larger sample size.
+
+## Key Concepts
+
+- [[../topics/Parkinson's disease]]
+- [[../topics/MDS-UPDRS]]
+- [[../topics/multisensory dance learning]]
+
+## Tags
+
+- [[../tags/parkinsons-disease]]
+- [[../tags/motor-symptoms]]
+- [[../tags/dance-therapy]]
+- [[../tags/longitudinal-study]]
+- [[../tags/multisensory-learning]]
+- [[../tags/fxa301]]
+
+## Methods
+
+- [[longitudinal investigation]]
+
+## See Also
+
+- [[../topics/dance-therapy]]
+- [[../topics/longitudinal-study]]
+- [[../topics/parkinsons-disease]]

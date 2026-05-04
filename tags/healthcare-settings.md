@@ -1,0 +1,10 @@
+---
+type: tag
+tag: healthcare-settings
+updated: 2026-05-04
+---
+
+## Healthcare Settings
+
+- [[../sources/fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-(2)|Heritage in Health: A Guide to Using Museum Collections in Hospitals and Other Healthcare Settings]]
+- [[../sources/fxa303-week08-therapeutic-clowning|Therapeutic Clowning]]

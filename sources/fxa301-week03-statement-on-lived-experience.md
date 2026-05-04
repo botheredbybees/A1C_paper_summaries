@@ -1,0 +1,48 @@
+---
+type: source
+source_type: paper
+title: "Statement on Lived Experience"
+apa7: "Statement on Lived Experience. (n.d.). Retrieved from [URL or file location]"
+doi: null
+appearances:
+  - unit: FXA301
+    week: "03"
+tags: ["lived-experience", "creative-health", "mental-health-services", "community-engagement", "policy-making", "fxa301"]
+key_concepts: ["authentic voice", "partnerships", "service design"]
+methods: ["statement"]
+slug: fxa301-week03-statement-on-lived-experience
+related: ["creative-health", "lived-experience", "mental-health-services"]
+created: 2026-05-03
+updated: 2026-05-03
+---
+
+_All claims sourced from ../raw/pdf/fxa301-week03-statement-on-lived-experience.md_
+
+## Statement on Lived Experience
+
+The document emphasizes the importance of incorporating lived experience in creative health initiatives to ensure effective and sustainable service delivery. It highlights that the authentic voice of individuals who have experienced mental health, social care, end-of-life care, and education challenges can offer unique insights into the value and potential solutions of creative health approaches. The statement calls for the full embedding of lived experience expertise across all aspects of creative health development, including policy-making, research, service design, and delivery. It stresses the need to establish partnerships across various sectors such as health, local government, schools, voluntary, community, and social enterprise (VCSE), and creative and cultural providers, ensuring that lived experiences are given equal weight and power in these collaborations. The document concludes with recommendations for the Government to be guided by lived experience expertise when developing a cross-departmental Creative Health Strategy.
+
+## Key Concepts
+
+- [[../topics/authentic voice]]
+- [[../topics/partnerships]]
+- [[../topics/service design]]
+
+## Tags
+
+- [[../tags/lived-experience]]
+- [[../tags/creative-health]]
+- [[../tags/mental-health-services]]
+- [[../tags/community-engagement]]
+- [[../tags/policy-making]]
+- [[../tags/fxa301]]
+
+## Methods
+
+- [[statement]]
+
+## See Also
+
+- [[../topics/creative-health]]
+- [[../topics/lived-experience]]
+- [[../topics/mental-health-services]]

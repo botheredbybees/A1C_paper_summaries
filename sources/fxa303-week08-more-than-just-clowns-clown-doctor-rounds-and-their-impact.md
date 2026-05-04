@@ -1,0 +1,49 @@
+---
+type: source
+source_type: paper
+title: "More than just clowns \u2013 Clown Doctor rounds and their impact for children, families and staff"
+apa7: "Ford, K., Courtney-Pratt, H., Tesch, L., & Johnson, C. (2014). More than just clowns \u2013 Clown doctor rounds and their impact for children, families and staff. *Journal of Child Health Care*, 18(3), 286\u2013296. https://doi.org/10.1177/1367493513490447"
+doi: https://doi.org/10.1177/1367493513490447
+appearances:
+  - unit: FXA303
+    week: "08"
+tags: ["clown-doctors", "pediatric-care", "therapeutic-benefits", "qualitative-research", "fxa303"]
+key_concepts: ["reducing-anxiety", "enhancing-communication", "sense-of-control"]
+methods: ["observations", "interviews"]
+slug: fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact
+related: ["clown-doctors", "pediatric-care", "qualitative-research", "therapeutic-benefits"]
+created: 2026-05-03
+updated: 2026-05-03
+---
+
+_All claims sourced from ../raw/pdf/fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact.md_
+
+## More than just clowns – Clown Doctor rounds and their impact for children, families and staff
+
+The study explores the impact of clown doctor activities in a pediatric setting and their influence on children, families, healthcare professionals, and the clown doctors themselves. It uses qualitative methods including observations and interviews to provide detailed insights into the multifaceted role of clown doctors beyond mere entertainment. Key themes identified include the immediate interaction ('the encounter') and its long-term impact ('beyond the encounter'). The research highlights that clown doctor interventions not only bring joy but also facilitate therapeutic benefits, such as reducing anxiety for both children and parents, enhancing communication between healthcare providers and patients, and promoting a sense of control among hospitalized children. This work underscores the complex nature of clown doctors' role in pediatric care and emphasizes their potential to contribute significantly to the well-being of sick children.
+
+## Key Concepts
+
+- [[../topics/reducing-anxiety]]
+- [[../topics/enhancing-communication]]
+- [[../topics/sense-of-control]]
+
+## Tags
+
+- [[../tags/clown-doctors]]
+- [[../tags/pediatric-care]]
+- [[../tags/therapeutic-benefits]]
+- [[../tags/qualitative-research]]
+- [[../tags/fxa303]]
+
+## Methods
+
+- [[observations]]
+- [[interviews]]
+
+## See Also
+
+- [[../topics/clown-doctors]]
+- [[../topics/pediatric-care]]
+- [[../topics/qualitative-research]]
+- [[../topics/therapeutic-benefits]]

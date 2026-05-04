@@ -1,0 +1,9 @@
+---
+type: tag
+tag: everyday-life
+updated: 2026-05-04
+---
+
+## Everyday Life
+
+- [[../sources/fxa202-week09-noticing-a-photo-essay|Noticing: A Photo Essay]]

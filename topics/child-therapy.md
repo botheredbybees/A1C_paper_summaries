@@ -1,0 +1,36 @@
+---
+type: topic
+domain: "intervention"
+title: "Child-Centered Play Therapy for Autism"
+confidence: high
+tags: ["child-therapy"]
+sources:
+  - fxa303-week04-brief-report-emotion-regulation-in-autism-is-improved-in-a
+  - fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves
+  - fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)
+  - fxa303-week04-intensive-child-centered-play-therapy-for-children-on-the
+  - fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children
+updated: 2026-05-04
+---
+
+## Child-Centered Play Therapy for Autism
+
+The synthesis of the provided sources highlights Child-Centered Play Therapy (CCPT) as an effective intervention for children on the autism spectrum, particularly in improving emotion regulation. Sources consistently emphasize CCPT's efficacy when combined with Rhythmic Relating and suggest its adaptability to various gender-based considerations. The Emotional Regulation Checklist (ERC), mentioned in some studies, serves as a valuable tool for evaluating progress in emotional regulation skills. While individual studies demonstrate positive outcomes in single-case designs, there is an identified need for larger-scale research to establish CCPT's broader applicability and generalizability.
+
+## Key Findings
+
+- Child-Centered Play Therapy (CCPT) combined with Rhythmic Relating significantly improves emotion regulation in children with autism.
+- The Emotional Regulation Checklist (ERC) is a useful tool for assessing emotional regulation skills in children undergoing CCPT.
+- Gender-based considerations are relevant and should be addressed in the implementation of CCPT.
+
+## Open Questions
+
+- What are the generalizability implications of single-case designs used to evaluate the efficacy of CCPT?
+
+## Sources
+
+- [[../sources/fxa303-week04-brief-report-emotion-regulation-in-autism-is-improved-in-a]]
+- [[../sources/fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves]]
+- [[../sources/fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)]]
+- [[../sources/fxa303-week04-intensive-child-centered-play-therapy-for-children-on-the]]
+- [[../sources/fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children]]

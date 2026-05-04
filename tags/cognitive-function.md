@@ -1,0 +1,12 @@
+---
+type: tag
+tag: cognitive-function
+updated: 2026-05-04
+---
+
+## Cognitive Function
+
+- [[../sources/fxa100-week01-relating-physical-activity-to-cognitive-function-brain|Relating Physical Activity to Cognitive Function, Brain Morphology, and AD-related Blood Biomarkers: Preliminary Findings from the IGNITE study]]
+- [[../sources/fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care|Week 3 Activities - FXA100 The Arts and Dementia Care]]
+- [[../sources/fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees|Music Therapy comforts, soothes those with varying degrees of dementia]]
+- [[../sources/fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to|Painting for a Purpose: A Visual Arts Program as a Method to Promote Engagement, Communication, Cognition, and Quality of Life for Individuals With Dementia]]

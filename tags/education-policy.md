@@ -1,0 +1,9 @@
+---
+type: tag
+tag: education-policy
+updated: 2026-05-04
+---
+
+## Education Policy
+
+- [[../sources/fxa303-week02-scientific-thinking-in-young-children-theoretical-advances|Scientific Thinking in Young Children: Theoretical Advances, Empirical Research, and Policy Implications]]

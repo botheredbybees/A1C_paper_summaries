@@ -1,0 +1,50 @@
+---
+type: source
+source_type: paper
+title: "Youth Orchestra Participation and Perceived Benefit: A Pilot Study of the Tasmanian Youth Orchestra"
+apa7: "Baker, W. J., Forbes, A.-M., & Earle, J. (2018). Youth orchestra participation and perceived benefit: A pilot study of the Tasmanian youth orchestra. Australian Journal of Music Education, 53(1), pp. australian society for music education incorporated."
+doi: null
+appearances:
+  - unit: FXA303
+    week: "03"
+tags: ["youth-development", "music-education", "wellbeing-studies", "resilience-building", "community-engagement", "fxa303"]
+key_concepts: ["growth mindset", "resilient behaviors", "musical skill development", "social skills"]
+methods: ["survey", "thematic analysis"]
+slug: fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot
+related: ["music-education", "resilience-building", "youth-development"]
+created: 2026-05-03
+updated: 2026-05-03
+---
+
+_All claims sourced from ../raw/pdf/fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot.md_
+
+## Youth Orchestra Participation and Perceived Benefit: A Pilot Study of the Tasmanian Youth Orchestra
+
+This paper presents findings from a pilot study examining the benefits of participating in the Tasmanian Youth Orchestra (TYO). The research team conducted a survey and used thematic analysis to identify four main areas of benefit: an embodied and emotional experience, development of musical skills, fostering friendships, and non-musical skill development such as personal organization and social skills. Participants also demonstrated growth mindset thinking and resilient behaviors. The study contributes to the understanding of how youth orchestras can positively impact young people's well-being and resilience.
+
+## Key Concepts
+
+- [[../topics/growth mindset]]
+- [[../topics/resilient behaviors]]
+- [[../topics/musical skill development]]
+- [[../topics/social skills]]
+
+## Tags
+
+- [[../tags/youth-development]]
+- [[../tags/music-education]]
+- [[../tags/wellbeing-studies]]
+- [[../tags/resilience-building]]
+- [[../tags/community-engagement]]
+- [[../tags/fxa303]]
+
+## Methods
+
+- [[survey]]
+- [[thematic analysis]]
+
+## See Also
+
+- [[../topics/music-education]]
+- [[../topics/resilience-building]]
+- [[../topics/youth-development]]

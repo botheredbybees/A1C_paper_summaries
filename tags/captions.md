@@ -1,0 +1,9 @@
+---
+type: tag
+tag: captions
+updated: 2026-05-04
+---
+
+## Captions
+
+- [[../sources/fxa202-week02-lesson-fxa202-week02-creative-writing|FXA202 The Photo Essay: Storytelling with Image and Text]]

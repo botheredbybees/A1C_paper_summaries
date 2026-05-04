@@ -1,0 +1,30 @@
+---
+type: topic
+domain: "intervention"
+title: "Online Learning in Arts and Dementia Care"
+confidence: medium
+tags: ["online-learning"]
+sources:
+  - fxa100-week01-lesson-fxa100-week01-page-3-week-1-activities
+  - fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling
+updated: 2026-05-04
+---
+
+## Online Learning in Arts and Dementia Care
+
+The sources explore the use of online learning as an intervention to enhance engagement and storytelling among individuals with dementia. Source 1 highlights the role of music therapy within online forums for cognitive stimulation, emphasizing the importance of user interaction through threaded discussions. In contrast, Source 2 delves into visual narrative techniques used in photo essays as a form of creative expression and memory recall. Both sources underscore the therapeutic value of engaging activities facilitated through digital platforms but diverge on the specific modalities employed: music-based interventions versus visual storytelling.
+
+## Key Findings
+
+- Online learning platforms provide new avenues for dementia care, fostering engagement and cognitive activity.
+- Music therapy serves as an effective method to stimulate memory and social interaction in online settings.
+- Visual narratives through photo essays offer alternative means of expression and memory recall.
+
+## Open Questions
+
+- How do different types of interventions (e.g., music vs. visual) impact the efficacy of online learning for dementia care?
+
+## Sources
+
+- [[../sources/fxa100-week01-lesson-fxa100-week01-page-3-week-1-activities]]
+- [[../sources/fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling]]

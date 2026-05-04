@@ -1,0 +1,9 @@
+---
+type: tag
+tag: patient-anxiety
+updated: 2026-05-04
+---
+
+## Patient Anxiety
+
+- [[../sources/fxa303-week08-therapeutic-clowning-in-paediatric-practice|Therapeutic clowning in paediatric practice]]

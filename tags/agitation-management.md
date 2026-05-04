@@ -1,0 +1,9 @@
+---
+type: tag
+tag: agitation-management
+updated: 2026-05-04
+---
+
+## Agitation Management
+
+- [[../sources/fxa100-week04-the-effect-of-music-therapy-compared-with-general|The effect of music therapy compared with general recreational activities in reducing agitation in people with dementia: a randomised controlled trial]]

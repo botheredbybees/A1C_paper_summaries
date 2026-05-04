@@ -1,0 +1,9 @@
+---
+type: tag
+tag: economic-analysis
+updated: 2026-05-04
+---
+
+## Economic Analysis
+
+- [[../sources/fxa100-week03-alzheimers-disease-music-engagement-quality-of-life|Alzheimer\u2019s Disease & Music Engagement: Quality of Life Economic Impact Analysis]]

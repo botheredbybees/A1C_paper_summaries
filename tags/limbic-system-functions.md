@@ -1,0 +1,9 @@
+---
+type: tag
+tag: limbic-system-functions
+updated: 2026-05-04
+---
+
+## Limbic System Functions
+
+- [[../sources/fxa303-week03-neuroanatomy-limbic-system|Neuroanatomy, Limbic System]]

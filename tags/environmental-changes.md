@@ -1,0 +1,9 @@
+---
+type: tag
+tag: environmental-changes
+updated: 2026-05-04
+---
+
+## Environmental Changes
+
+- [[../sources/fxa301-week01-web-article-greeno-2021|Tasmanian Aboriginal Shell Necklaces: A Significant Cultural Practice]]

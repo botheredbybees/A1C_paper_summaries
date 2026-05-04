@@ -1,0 +1,11 @@
+---
+type: tag
+tag: child-centered-play-therapy
+updated: 2026-05-04
+---
+
+## Child Centered Play Therapy
+
+- [[../sources/fxa303-week04-child-centered-play-therapy-as-an-intervention-for-children|Child-Centered Play Therapy as an Intervention for Children With Autism: A Literature Review]]
+- [[../sources/fxa303-week04-impact-of-child-centered-play-therapy-intervention-on|Impact of child-centered play therapy intervention on children with autism reflected by brain EEG activity: A randomized controlled trial]]
+- [[../sources/fxa303-week09-exploring-child-centered-play-therapy-and-trauma-a|Exploring Child-Centered Play Therapy and Trauma: A Systematic Review of Literature]]

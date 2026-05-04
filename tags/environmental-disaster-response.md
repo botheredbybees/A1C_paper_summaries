@@ -1,0 +1,9 @@
+---
+type: tag
+tag: environmental-disaster-response
+updated: 2026-05-04
+---
+
+## Environmental Disaster Response
+
+- [[../sources/fxa303-week09-the-afloat-project|The Afloat Project]]

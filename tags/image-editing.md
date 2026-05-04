@@ -1,0 +1,13 @@
+---
+type: tag
+tag: image-editing
+updated: 2026-05-04
+---
+
+## Image Editing
+
+- [[../sources/fxa202-week08-how-to-merge-and-combine-images-in-photoshop|How to Merge and Combine Images in Photoshop]]
+- [[../sources/fxa202-week08-lesson-fxa202-week08-page-4|LAW122 Legal Systems Week 8 Activities]]
+- [[../sources/fxa202-week08-lesson-fxa202-week08-week-8|LAW122 Legal Systems - Week 8: Editing and Selecting Images]]
+- [[../sources/fxa202-week08-making-basic-adjustments-tutorial-at-gcflearnfree|Making Basic Adjustments Tutorial at GCFLearnFree]]
+- [[../sources/fxa202-week08-week-8-web-lecture-editing-your-images|Week 8 Web Lecture: Editing Your Images]]

@@ -1,0 +1,9 @@
+---
+type: tag
+tag: mobile-phone-cameras
+updated: 2026-05-04
+---
+
+## Mobile Phone Cameras
+
+- [[../sources/fxa202-week02-week-2-making-pictures|Week 2 \u2013 Making Pictures]]

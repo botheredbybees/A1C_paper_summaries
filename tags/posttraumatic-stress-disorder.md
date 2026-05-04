@@ -1,0 +1,9 @@
+---
+type: tag
+tag: posttraumatic-stress-disorder
+updated: 2026-05-04
+---
+
+## Posttraumatic Stress Disorder
+
+- [[../sources/fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic|A Meta-Analysis of Expressive Writing on Posttraumatic Stress, Posttraumatic Growth, and Quality of Life]]

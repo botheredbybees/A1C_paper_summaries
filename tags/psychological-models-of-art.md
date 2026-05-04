@@ -1,0 +1,9 @@
+---
+type: tag
+tag: psychological-models-of-art
+updated: 2026-05-04
+---
+
+## Psychological Models Of Art
+
+- [[../sources/fxa301-week02-visualizing-the-impact-of-art-an-update-and-comparison-of|Visualizing the Impact of Art: An Update and Comparison of Current Psychological Models of Art Experience]]

@@ -1,0 +1,9 @@
+---
+type: tag
+tag: musical-rhythm
+updated: 2026-05-04
+---
+
+## Musical Rhythm
+
+- [[../sources/fxa100-week03-experimental-evidence-for-synchronization-to-a-musical-beat|Experimental Evidence for Synchronization to a Musical Beat in a Nonhuman Animal]]
