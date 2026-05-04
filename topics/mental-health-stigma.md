@@ -25,5 +25,5 @@ Sources explore the transformative impact of integrating arts into healthcare an
 
 ## Sources
 
-- [[../sources/fxa301-week03-four-big-ways-to-improve-health-through-the-arts]]
-- [[../sources/fxa301-week03-the-role-of-the-arts-in-healthcare-transforming-lives]]
+- [fxa301-week03-four-big-ways-to-improve-health-through-the-arts](../sources/fxa301-week03-four-big-ways-to-improve-health-through-the-arts.md)
+- [fxa301-week03-the-role-of-the-arts-in-healthcare-transforming-lives](../sources/fxa301-week03-the-role-of-the-arts-in-healthcare-transforming-lives.md)

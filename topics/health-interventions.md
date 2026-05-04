@@ -28,7 +28,7 @@ The provided sources collectively explore various health interventions focusing 
 
 ## Sources
 
-- [[../sources/fxa100-week04-a-step-by-step-approach-to-the-research-process]]
-- [[../sources/fxa100-week04-an-introduction-to-research]]
-- [[../sources/fxa301-week05-the-health-and-well-being-potential-of-museums-and-art]]
-- [[../sources/fxa303-week03-adolescent-health]]
+- [fxa100-week04-a-step-by-step-approach-to-the-research-process](../sources/fxa100-week04-a-step-by-step-approach-to-the-research-process.md)
+- [fxa100-week04-an-introduction-to-research](../sources/fxa100-week04-an-introduction-to-research.md)
+- [fxa301-week05-the-health-and-well-being-potential-of-museums-and-art](../sources/fxa301-week05-the-health-and-well-being-potential-of-museums-and-art.md)
+- [fxa303-week03-adolescent-health](../sources/fxa303-week03-adolescent-health.md)

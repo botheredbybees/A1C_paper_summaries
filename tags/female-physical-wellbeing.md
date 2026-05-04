@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Female Physical Wellbeing
 
-- [[../sources/fxa301-week06-dance-4-your-life-exploring-the-health-and-well-being|dance 4 your life: exploring the health and well-being implications of a contemporary dance intervention for female adolescents]]
+- [dance 4 your life: exploring the health and well-being implications of a contemporary dance intervention for female adolescents](../sources/fxa301-week06-dance-4-your-life-exploring-the-health-and-well-being.md)

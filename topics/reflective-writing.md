@@ -26,5 +26,5 @@ Reflective writing is a method used in various contexts to promote self-reflecti
 
 ## Sources
 
-- [[../sources/fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays]]
-- [[../sources/fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2)]]
+- [fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays](../sources/fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays.md)
+- [fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2)](../sources/fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2).md)

@@ -24,25 +24,25 @@ Simone Dalton's critical reflection on her 'Finding Joy' photo essay project exa
 
 ## Key Concepts
 
-- [[../topics/resilience]]
-- [[../topics/social prescribing]]
-- [[../topics/visual storytelling]]
+- [resilience](../topics/resilience.md)
+- [social prescribing](../topics/social prescribing.md)
+- [visual storytelling](../topics/visual storytelling.md)
 
 ## Tags
 
-- [[../tags/photo-essay]]
-- [[../tags/pandemic-resilience]]
-- [[../tags/social-prescribing]]
-- [[../tags/mindful-photography]]
-- [[../tags/lived-experience]]
-- [[../tags/fxa202]]
+- [photo-essay](../tags/photo-essay.md)
+- [pandemic-resilience](../tags/pandemic-resilience.md)
+- [social-prescribing](../tags/social-prescribing.md)
+- [mindful-photography](../tags/mindful-photography.md)
+- [lived-experience](../tags/lived-experience.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[online survey]]
+- [online survey](online survey.md)
 
 ## See Also
 
-- [[../topics/lived-experience]]
-- [[../topics/photo-essay]]
-- [[../topics/social-prescribing]]
+- [lived-experience](../topics/lived-experience.md)
+- [photo-essay](../topics/photo-essay.md)
+- [social-prescribing](../topics/social-prescribing.md)

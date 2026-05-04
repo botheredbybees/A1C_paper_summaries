@@ -29,8 +29,8 @@ Public health interventions employing arts and cultural engagement aim to improv
 
 ## Sources
 
-- [[../sources/fxa100-week04-arts-in-health-designing-and-researching-interventions]]
-- [[../sources/fxa301-oxford-textbook-of-creative-arts-ch22-chapter-7]]
-- [[../sources/fxa301-week03-four-big-ways-to-improve-health-through-the-arts]]
-- [[../sources/fxa301-week05-museums-as-spaces-for-wellbeing-a-second-report-from-the]]
-- [[../sources/fxa303-week03-the-impact-of-arts-on-prescription-on-individual-health-and]]
+- [fxa100-week04-arts-in-health-designing-and-researching-interventions](../sources/fxa100-week04-arts-in-health-designing-and-researching-interventions.md)
+- [fxa301-oxford-textbook-of-creative-arts-ch22-chapter-7](../sources/fxa301-oxford-textbook-of-creative-arts-ch22-chapter-7.md)
+- [fxa301-week03-four-big-ways-to-improve-health-through-the-arts](../sources/fxa301-week03-four-big-ways-to-improve-health-through-the-arts.md)
+- [fxa301-week05-museums-as-spaces-for-wellbeing-a-second-report-from-the](../sources/fxa301-week05-museums-as-spaces-for-wellbeing-a-second-report-from-the.md)
+- [fxa303-week03-the-impact-of-arts-on-prescription-on-individual-health-and](../sources/fxa303-week03-the-impact-of-arts-on-prescription-on-individual-health-and.md)

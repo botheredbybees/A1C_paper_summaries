@@ -24,21 +24,21 @@ The study evaluated the impact of personalized music interventions using iPods o
 
 ## Key Concepts
 
-- [[../topics/caregiver-distress-scale]]
-- [[../topics/personalized-music-interventions]]
-- [[../topics/quality-of-life-improvement]]
+- [caregiver-distress-scale](../topics/caregiver-distress-scale.md)
+- [personalized-music-interventions](../topics/personalized-music-interventions.md)
+- [quality-of-life-improvement](../topics/quality-of-life-improvement.md)
 
 ## Tags
 
-- [[../tags/personalized-music]]
-- [[../tags/dementia-caregiver-support]]
-- [[../tags/ipod-intervention]]
-- [[../tags/fxa100]]
+- [personalized-music](../tags/personalized-music.md)
+- [dementia-caregiver-support](../tags/dementia-caregiver-support.md)
+- [ipod-intervention](../tags/ipod-intervention.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/personalized-music]]
+- [personalized-music](../topics/personalized-music.md)

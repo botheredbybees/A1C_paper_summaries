@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Human Anatomy
 
-- [[../sources/fxa100-week02-transcript-how-the-ear-and-hearing-works-from-med-el-view|How the Ear and Hearing Works]]
+- [How the Ear and Hearing Works](../sources/fxa100-week02-transcript-how-the-ear-and-hearing-works-from-med-el-view.md)

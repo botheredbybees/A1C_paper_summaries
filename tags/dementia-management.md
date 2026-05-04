@@ -6,5 +6,5 @@ updated: 2026-05-04
 
 ## Dementia Management
 
-- [[../sources/fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers|Music Activates Regions of the Brain Spared by Alzheimer\u2019s Disease]]
-- [[../sources/fxa100-week09-the-fundamentals-of-person-centered-care-for-individuals|The Fundamentals of Person-Centered Care for Individuals With Dementia]]
+- [Music Activates Regions of the Brain Spared by Alzheimer\u2019s Disease](../sources/fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers.md)
+- [The Fundamentals of Person-Centered Care for Individuals With Dementia](../sources/fxa100-week09-the-fundamentals-of-person-centered-care-for-individuals.md)

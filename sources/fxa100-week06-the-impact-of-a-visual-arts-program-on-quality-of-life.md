@@ -24,28 +24,28 @@ This study evaluates the impact of a visual arts program on quality of life, com
 
 ## Key Concepts
 
-- [[../topics/quality of life]]
-- [[../topics/communication skills]]
-- [[../topics/well-being]]
+- [quality of life](../topics/quality of life.md)
+- [communication skills](../topics/communication skills.md)
+- [well-being](../topics/well-being.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/visual-arts-program]]
-- [[../tags/quality-of-life]]
-- [[../tags/communication-skills]]
-- [[../tags/well-being-enhancement]]
-- [[../tags/longitudinal-study]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [visual-arts-program](../tags/visual-arts-program.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [communication-skills](../tags/communication-skills.md)
+- [well-being-enhancement](../tags/well-being-enhancement.md)
+- [longitudinal-study](../tags/longitudinal-study.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[mixed-methods longitudinal investigation]]
+- [mixed-methods longitudinal investigation](mixed-methods longitudinal investigation.md)
 
 ## See Also
 
-- [[../topics/communication-skills]]
-- [[../topics/dementia-care]]
-- [[../topics/longitudinal-study]]
-- [[../topics/quality-of-life]]
-- [[../topics/well-being-enhancement]]
+- [communication-skills](../topics/communication-skills.md)
+- [dementia-care](../topics/dementia-care.md)
+- [longitudinal-study](../topics/longitudinal-study.md)
+- [quality-of-life](../topics/quality-of-life.md)
+- [well-being-enhancement](../topics/well-being-enhancement.md)

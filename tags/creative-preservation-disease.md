@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Creative Preservation Disease
 
-- [[../sources/fxa100-week06-preserved-drawing-in-a-sculptor-with-dementia|Preserved Drawing in a Sculptor with Dementia]]
+- [Preserved Drawing in a Sculptor with Dementia](../sources/fxa100-week06-preserved-drawing-in-a-sculptor-with-dementia.md)

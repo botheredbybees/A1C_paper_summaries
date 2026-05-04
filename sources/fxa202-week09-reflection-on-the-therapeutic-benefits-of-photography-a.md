@@ -24,27 +24,27 @@ Louise Raftery reflects on her experience using photography as a means to promot
 
 ## Key Concepts
 
-- [[../topics/therapeutic photography]]
-- [[../topics/mindfulness practice]]
-- [[../topics/grief processing]]
+- [therapeutic photography](../topics/therapeutic photography.md)
+- [mindfulness practice](../topics/mindfulness practice.md)
+- [grief processing](../topics/grief processing.md)
 
 ## Tags
 
-- [[../tags/therapeutic-benefits]]
-- [[../tags/photography-therapy]]
-- [[../tags/mindfulness-practice]]
-- [[../tags/emotional-healing]]
-- [[../tags/self-reflection]]
-- [[../tags/fxa202]]
+- [therapeutic-benefits](../tags/therapeutic-benefits.md)
+- [photography-therapy](../tags/photography-therapy.md)
+- [mindfulness-practice](../tags/mindfulness-practice.md)
+- [emotional-healing](../tags/emotional-healing.md)
+- [self-reflection](../tags/self-reflection.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[personal photo essay]]
+- [personal photo essay](personal photo essay.md)
 
 ## See Also
 
-- [[../topics/emotional-healing]]
-- [[../topics/mindfulness-practice]]
-- [[../topics/photography-therapy]]
-- [[../topics/self-reflection]]
-- [[../topics/therapeutic-benefits]]
+- [emotional-healing](../topics/emotional-healing.md)
+- [mindfulness-practice](../topics/mindfulness-practice.md)
+- [photography-therapy](../topics/photography-therapy.md)
+- [self-reflection](../topics/self-reflection.md)
+- [therapeutic-benefits](../topics/therapeutic-benefits.md)

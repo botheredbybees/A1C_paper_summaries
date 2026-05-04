@@ -28,23 +28,23 @@ Key readings such as Renwick & Woolhouse (2023) are suggested for further explor
 
 ## Key Concepts
 
-- [[../topics/auditory-memory-encoding]]
-- [[../topics/neural-predictive-functions]]
-- [[../topics/reminiscence-bump]]
+- [auditory-memory-encoding](../topics/auditory-memory-encoding.md)
+- [neural-predictive-functions](../topics/neural-predictive-functions.md)
+- [reminiscence-bump](../topics/reminiscence-bump.md)
 
 ## Tags
 
-- [[../tags/music-neuroscience]]
-- [[../tags/brain-function]]
-- [[../tags/auditory-processing]]
-- [[../tags/rehabilitation-music]]
-- [[../tags/memory-auditory]]
-- [[../tags/fxa100]]
+- [music-neuroscience](../tags/music-neuroscience.md)
+- [brain-function](../tags/brain-function.md)
+- [auditory-processing](../tags/auditory-processing.md)
+- [rehabilitation-music](../tags/rehabilitation-music.md)
+- [memory-auditory](../tags/memory-auditory.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/brain-function]]
+- [brain-function](../topics/brain-function.md)

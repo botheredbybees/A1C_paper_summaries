@@ -24,16 +24,16 @@ The text outlines the distinctions between evaluation, research, and audits in h
 
 ## Key Concepts
 
-- [[../topics/evaluation vs research]]
-- [[../topics/complex interventions]]
-- [[../topics/randomized controlled trials (RCTs)]]
+- [evaluation vs research](../topics/evaluation vs research.md)
+- [complex interventions](../topics/complex interventions.md)
+- [randomized controlled trials (RCTs)](../topics/randomized controlled trials (RCTs).md)
 
 ## Tags
 
-- [[../tags/healthcare evaluation]]
-- [[../tags/research methods]]
-- [[../tags/audits]]
-- [[../tags/fxa301]]
+- [healthcare evaluation](../tags/healthcare evaluation.md)
+- [research methods](../tags/research methods.md)
+- [audits](../tags/audits.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ The text outlines the distinctions between evaluation, research, and audits in h
 
 ## See Also
 
-- [[../topics/healthcare-evaluation]]
-- [[../topics/research-methods]]
+- [healthcare-evaluation](../topics/healthcare-evaluation.md)
+- [research-methods](../topics/research-methods.md)

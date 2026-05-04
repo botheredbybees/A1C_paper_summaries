@@ -30,25 +30,25 @@ The text further elaborates on initiatives such as collaborations with Noora Hea
 
 ## Key Concepts
 
-- [[../topics/comprehensive-sexuality-education]]
-- [[../topics/life-skills-development]]
-- [[../topics/equitable-healthcare-services]]
+- [comprehensive-sexuality-education](../topics/comprehensive-sexuality-education.md)
+- [life-skills-development](../topics/life-skills-development.md)
+- [equitable-healthcare-services](../topics/equitable-healthcare-services.md)
 
 ## Tags
 
-- [[../tags/adolescent-health]]
-- [[../tags/physical-development]]
-- [[../tags/cognitive-growth]]
-- [[../tags/psychosocial-issues]]
-- [[../tags/health-interventions]]
-- [[../tags/fxa303]]
+- [adolescent-health](../tags/adolescent-health.md)
+- [physical-development](../tags/physical-development.md)
+- [cognitive-growth](../tags/cognitive-growth.md)
+- [psychosocial-issues](../tags/psychosocial-issues.md)
+- [health-interventions](../tags/health-interventions.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/adolescent-health]]
-- [[../topics/cognitive-growth]]
-- [[../topics/health-interventions]]
+- [adolescent-health](../topics/adolescent-health.md)
+- [cognitive-growth](../topics/cognitive-growth.md)
+- [health-interventions](../topics/health-interventions.md)

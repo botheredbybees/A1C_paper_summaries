@@ -6,6 +6,6 @@ updated: 2026-05-04
 
 ## Healthcare Interventions
 
-- [[../sources/fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision-(2)|Evaluation and Research in Healthcare]]
-- [[../sources/fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a|Heritage, health and well-being: assessing the impact of a heritage focused intervention on health and well-being]]
-- [[../sources/fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing|Case Studies of Music and Dance for Health and Wellbeing]]
+- [Evaluation and Research in Healthcare](../sources/fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision-(2).md)
+- [Heritage, health and well-being: assessing the impact of a heritage focused intervention on health and well-being](../sources/fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a.md)
+- [Case Studies of Music and Dance for Health and Wellbeing](../sources/fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing.md)

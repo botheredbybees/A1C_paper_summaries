@@ -24,22 +24,22 @@ This week's lecture in the Photo Essay course focuses on visual storytelling, a 
 
 ## Key Concepts
 
-- [[../topics/effective-visual-storytelling]]
-- [[../topics/stream-of-consciousness]]
+- [effective-visual-storytelling](../topics/effective-visual-storytelling.md)
+- [stream-of-consciousness](../topics/stream-of-consciousness.md)
 
 ## Tags
 
-- [[../tags/visual-storytelling]]
-- [[../tags/narrative-tense]]
-- [[../tags/caption-writing]]
-- [[../tags/fxa202]]
+- [visual-storytelling](../tags/visual-storytelling.md)
+- [narrative-tense](../tags/narrative-tense.md)
+- [caption-writing](../tags/caption-writing.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/caption-writing]]
-- [[../topics/narrative-tense]]
-- [[../topics/visual-storytelling]]
+- [caption-writing](../topics/caption-writing.md)
+- [narrative-tense](../topics/narrative-tense.md)
+- [visual-storytelling](../topics/visual-storytelling.md)

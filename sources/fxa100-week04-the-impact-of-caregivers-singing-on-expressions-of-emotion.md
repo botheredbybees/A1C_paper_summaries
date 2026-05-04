@@ -24,26 +24,26 @@ This study examines the impact of music therapeutic caregiving (MTC), specifical
 
 ## Key Concepts
 
-- [[../topics/music therapeutic caregiving (MTC)]]
-- [[../topics/expressions of resistance]]
-- [[../topics/positive emotions]]
+- [music therapeutic caregiving (MTC)](../topics/music therapeutic caregiving (MTC).md)
+- [expressions of resistance](../topics/expressions of resistance.md)
+- [positive emotions](../topics/positive emotions.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/music-therapy]]
-- [[../tags/quality-of-life]]
-- [[../tags/caregiver-intervention]]
-- [[../tags/morning-routines]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [music-therapy](../tags/music-therapy.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [caregiver-intervention](../tags/caregiver-intervention.md)
+- [morning-routines](../tags/morning-routines.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[video observation]]
-- [[intervention study]]
+- [video observation](video observation.md)
+- [intervention study](intervention study.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/music-therapy]]
-- [[../topics/quality-of-life]]
+- [dementia-care](../topics/dementia-care.md)
+- [music-therapy](../topics/music-therapy.md)
+- [quality-of-life](../topics/quality-of-life.md)

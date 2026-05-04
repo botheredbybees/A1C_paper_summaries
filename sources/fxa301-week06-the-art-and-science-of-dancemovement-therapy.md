@@ -24,24 +24,24 @@ The second edition of 'The Art and Science of Dance/Movement Therapy' provides a
 
 ## Key Concepts
 
-- [[dance/movement therapy]]
-- [[../topics/therapeutic use of movement]]
-- [[../topics/psychological intervention]]
+- [movement therapy](dance/movement therapy.md)
+- [therapeutic use of movement](../topics/therapeutic use of movement.md)
+- [psychological intervention](../topics/psychological intervention.md)
 
 ## Tags
 
-- [[../tags/dance-therapy]]
-- [[../tags/movement-therapy]]
-- [[../tags/creative-arts-therapy]]
-- [[../tags/palliative-care]]
-- [[../tags/fxa301]]
+- [dance-therapy](../tags/dance-therapy.md)
+- [movement-therapy](../tags/movement-therapy.md)
+- [creative-arts-therapy](../tags/creative-arts-therapy.md)
+- [palliative-care](../tags/palliative-care.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/creative-arts-therapy]]
-- [[../topics/dance-therapy]]
-- [[../topics/palliative-care]]
+- [creative-arts-therapy](../topics/creative-arts-therapy.md)
+- [dance-therapy](../topics/dance-therapy.md)
+- [palliative-care](../topics/palliative-care.md)

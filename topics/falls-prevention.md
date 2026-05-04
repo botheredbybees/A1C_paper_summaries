@@ -26,5 +26,5 @@ Both sources underscore the potential of dance-based interventions to prevent fa
 
 ## Sources
 
-- [[../sources/fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention]]
-- [[../sources/fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster]]
+- [fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention](../sources/fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention.md)
+- [fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster](../sources/fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster.md)

@@ -26,29 +26,29 @@ McCurry’s advice concludes with the reminder that while composition rules are 
 
 ## Key Concepts
 
-- [[../topics/rule-of-thirds]]
-- [[../topics/leading-lines]]
-- [[../topics/figure-to-ground]]
-- [[../topics/pattern-repetition]]
-- [[../topics/symmetry-in-art]]
+- [rule-of-thirds](../topics/rule-of-thirds.md)
+- [leading-lines](../topics/leading-lines.md)
+- [figure-to-ground](../topics/figure-to-ground.md)
+- [pattern-repetition](../topics/pattern-repetition.md)
+- [symmetry-in-art](../topics/symmetry-in-art.md)
 
 ## Tags
 
-- [[../tags/photo-composition]]
-- [[../tags/steve-mccurry]]
-- [[../tags/photography-tips]]
-- [[../tags/visual-communication]]
-- [[../tags/creative-expression]]
-- [[../tags/composition-rules]]
-- [[../tags/fxa202]]
+- [photo-composition](../tags/photo-composition.md)
+- [steve-mccurry](../tags/steve-mccurry.md)
+- [photography-tips](../tags/photography-tips.md)
+- [visual-communication](../tags/visual-communication.md)
+- [creative-expression](../tags/creative-expression.md)
+- [composition-rules](../tags/composition-rules.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/composition-rules]]
-- [[../topics/creative-expression]]
-- [[../topics/photography-tips]]
-- [[../topics/visual-communication]]
+- [composition-rules](../topics/composition-rules.md)
+- [creative-expression](../topics/creative-expression.md)
+- [photography-tips](../topics/photography-tips.md)
+- [visual-communication](../topics/visual-communication.md)

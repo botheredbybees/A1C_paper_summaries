@@ -24,22 +24,22 @@ The article explores how attachment to country, spirituality, music, and arts co
 
 ## Key Concepts
 
-- [[../topics/social-emotional-wellbeing]]
-- [[../topics/attachment-to-country]]
-- [[../topics/music-as-a-catalyst-for-change]]
+- [social-emotional-wellbeing](../topics/social-emotional-wellbeing.md)
+- [attachment-to-country](../topics/attachment-to-country.md)
+- [music-as-a-catalyst-for-change](../topics/music-as-a-catalyst-for-change.md)
 
 ## Tags
 
-- [[../tags/indigenous-wellbeing]]
-- [[../tags/cultural-identity]]
-- [[../tags/mental-health-promotion]]
-- [[../tags/aboriginal-australia]]
-- [[../tags/spirituality-and-healing]]
-- [[../tags/fxa303]]
+- [indigenous-wellbeing](../tags/indigenous-wellbeing.md)
+- [cultural-identity](../tags/cultural-identity.md)
+- [mental-health-promotion](../tags/mental-health-promotion.md)
+- [aboriginal-australia](../tags/aboriginal-australia.md)
+- [spirituality-and-healing](../tags/spirituality-and-healing.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- **case-study**
 
 ## See Also
 

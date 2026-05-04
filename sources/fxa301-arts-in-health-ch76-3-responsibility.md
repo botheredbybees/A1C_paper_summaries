@@ -24,16 +24,16 @@ This chapter discusses the professional responsibilities of researchers towards 
 
 ## Key Concepts
 
-- [[../topics/conflict-of-interest]]
-- [[../topics/participant-benefits]]
-- [[../topics/ethical-research-questions]]
+- [conflict-of-interest](../topics/conflict-of-interest.md)
+- [participant-benefits](../topics/participant-benefits.md)
+- [ethical-research-questions](../topics/ethical-research-questions.md)
 
 ## Tags
 
-- [[../tags/ethics]]
-- [[../tags/research-methods]]
-- [[../tags/professional-responsibilities]]
-- [[../tags/fxa301]]
+- [ethics](../tags/ethics.md)
+- [research-methods](../tags/research-methods.md)
+- [professional-responsibilities](../tags/professional-responsibilities.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,6 +41,6 @@ This chapter discusses the professional responsibilities of researchers towards 
 
 ## See Also
 
-- [[../topics/ethics]]
-- [[../topics/professional-responsibilities]]
-- [[../topics/research-methods]]
+- [ethics](../topics/ethics.md)
+- [professional-responsibilities](../topics/professional-responsibilities.md)
+- [research-methods](../topics/research-methods.md)

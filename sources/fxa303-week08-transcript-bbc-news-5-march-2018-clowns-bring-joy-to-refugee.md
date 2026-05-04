@@ -24,15 +24,15 @@ This transcript from a BBC News video on March 5, 2018, features Hannah and Rich
 
 ## Key Concepts
 
-- [[../topics/childhood-trauma]]
-- [[../topics/laughter-as-healing]]
+- [childhood-trauma](../topics/childhood-trauma.md)
+- [laughter-as-healing](../topics/laughter-as-healing.md)
 
 ## Tags
 
-- [[../tags/refugee-crisis]]
-- [[../tags/clowning-therapy]]
-- [[../tags/humanitarian-efforts]]
-- [[../tags/fxa303]]
+- [refugee-crisis](../tags/refugee-crisis.md)
+- [clowning-therapy](../tags/clowning-therapy.md)
+- [humanitarian-efforts](../tags/humanitarian-efforts.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

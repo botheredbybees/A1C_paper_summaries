@@ -24,21 +24,21 @@ This study investigates the emotional reactions to music experienced by individu
 
 ## Key Concepts
 
-- [[../topics/emotional-reactions]]
-- [[../topics/listener-characteristics]]
-- [[../topics/contextual-elements]]
+- [emotional-reactions](../topics/emotional-reactions.md)
+- [listener-characteristics](../topics/listener-characteristics.md)
+- [contextual-elements](../topics/contextual-elements.md)
 
 ## Tags
 
-- [[../tags/emotional-reactions-to-music]]
-- [[../tags/experience-sampling-method]]
-- [[../tags/music-psychology]]
-- [[../tags/fxa301]]
+- [emotional-reactions-to-music](../tags/emotional-reactions-to-music.md)
+- [experience-sampling-method](../tags/experience-sampling-method.md)
+- [music-psychology](../tags/music-psychology.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[experience-sampling]]
+- [experience-sampling](experience-sampling.md)
 
 ## See Also
 
-- [[../topics/music-psychology]]
+- [music-psychology](../topics/music-psychology.md)

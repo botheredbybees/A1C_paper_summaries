@@ -24,26 +24,26 @@ The document is a transcript discussing the 'Singing for Better Breathing' proje
 
 ## Key Concepts
 
-- [[../topics/chronic obstructive pulmonary disease (COPD)]]
-- [[../topics/quality of life improvement]]
-- [[../topics/social engagement]]
+- [chronic obstructive pulmonary disease (COPD)](../topics/chronic obstructive pulmonary disease (COPD).md)
+- [quality of life improvement](../topics/quality of life improvement.md)
+- [social engagement](../topics/social engagement.md)
 
 ## Tags
 
-- [[../tags/copd-management]]
-- [[../tags/breathing-exercises]]
-- [[../tags/community-health-intervention]]
-- [[../tags/patient-support-groups]]
-- [[../tags/chronic-disease-care]]
-- [[../tags/music-therapy]]
-- [[../tags/fxa100]]
+- [copd-management](../tags/copd-management.md)
+- [breathing-exercises](../tags/breathing-exercises.md)
+- [community-health-intervention](../tags/community-health-intervention.md)
+- [patient-support-groups](../tags/patient-support-groups.md)
+- [chronic-disease-care](../tags/chronic-disease-care.md)
+- [music-therapy](../tags/music-therapy.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[qualitative study]]
+- [qualitative study](qualitative study.md)
 
 ## See Also
 
-- [[../topics/breathing-exercises]]
-- [[../topics/copd-management]]
-- [[../topics/music-therapy]]
+- [breathing-exercises](../topics/breathing-exercises.md)
+- [copd-management](../topics/copd-management.md)
+- [music-therapy](../topics/music-therapy.md)

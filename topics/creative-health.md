@@ -31,10 +31,10 @@ The concept of creative health is emerging as a transformative approach to healt
 
 ## Sources
 
-- [[../sources/fxa301-week03-creative-health-review-report]]
-- [[../sources/fxa301-week03-executive-summary-creative-health-review]]
-- [[../sources/fxa301-week03-health-inequalities-and-the-role-of-creative-health]]
-- [[../sources/fxa301-week03-implementing-creative-health]]
-- [[../sources/fxa301-week03-introduction-to-creative-health-extract]]
-- [[../sources/fxa301-week03-statement-on-lived-experience]]
-- [[../sources/fxa301-week03-web-article-national-2024]]
+- [fxa301-week03-creative-health-review-report](../sources/fxa301-week03-creative-health-review-report.md)
+- [fxa301-week03-executive-summary-creative-health-review](../sources/fxa301-week03-executive-summary-creative-health-review.md)
+- [fxa301-week03-health-inequalities-and-the-role-of-creative-health](../sources/fxa301-week03-health-inequalities-and-the-role-of-creative-health.md)
+- [fxa301-week03-implementing-creative-health](../sources/fxa301-week03-implementing-creative-health.md)
+- [fxa301-week03-introduction-to-creative-health-extract](../sources/fxa301-week03-introduction-to-creative-health-extract.md)
+- [fxa301-week03-statement-on-lived-experience](../sources/fxa301-week03-statement-on-lived-experience.md)
+- [fxa301-week03-web-article-national-2024](../sources/fxa301-week03-web-article-national-2024.md)

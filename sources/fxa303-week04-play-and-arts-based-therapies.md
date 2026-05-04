@@ -24,25 +24,25 @@ The document discusses the effectiveness of play therapy and arts-based therapie
 
 ## Key Concepts
 
-- [[../topics/child-centered-play-therapy]]
-- [[../topics/pivotal-response-therapy]]
-- [[../topics/expressive-skills]]
-- [[../topics/emotional-regulation]]
+- [child-centered-play-therapy](../topics/child-centered-play-therapy.md)
+- [pivotal-response-therapy](../topics/pivotal-response-therapy.md)
+- [expressive-skills](../topics/expressive-skills.md)
+- [emotional-regulation](../topics/emotional-regulation.md)
 
 ## Tags
 
-- [[../tags/play-therapy]]
-- [[../tags/arts-based-therapies]]
-- [[../tags/neurodiversity]]
-- [[../tags/autism-spectrum-disorder]]
-- [[../tags/fxa303]]
+- [play-therapy](../tags/play-therapy.md)
+- [arts-based-therapies](../tags/arts-based-therapies.md)
+- [neurodiversity](../tags/neurodiversity.md)
+- [autism-spectrum-disorder](../tags/autism-spectrum-disorder.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/autism-spectrum-disorder]]
-- [[../topics/neurodiversity]]
-- [[../topics/play-therapy]]
+- [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)
+- [neurodiversity](../topics/neurodiversity.md)
+- [play-therapy](../topics/play-therapy.md)

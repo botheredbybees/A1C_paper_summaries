@@ -28,25 +28,25 @@ The broader context of using music and dance for therapeutic purposes is further
 
 ## Key Concepts
 
-- [[../topics/active-participation]]
-- [[../topics/health-and-wellbeing]]
-- [[../topics/equity-in-research]]
+- [active-participation](../topics/active-participation.md)
+- [health-and-wellbeing](../topics/health-and-wellbeing.md)
+- [equity-in-research](../topics/equity-in-research.md)
 
 ## Tags
 
-- [[../tags/music-health]]
-- [[../tags/dance-wellbeing]]
-- [[../tags/therapeutic-arts]]
-- [[../tags/systematic-review]]
-- [[../tags/community-engagement]]
-- [[../tags/fxa301]]
+- [music-health](../tags/music-health.md)
+- [dance-wellbeing](../tags/dance-wellbeing.md)
+- [therapeutic-arts](../tags/therapeutic-arts.md)
+- [systematic-review](../tags/systematic-review.md)
+- [community-engagement](../tags/community-engagement.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/music-health]]
-- [[../topics/systematic-review]]
-- [[../topics/therapeutic-arts]]
+- [music-health](../topics/music-health.md)
+- [systematic-review](../topics/systematic-review.md)
+- [therapeutic-arts](../topics/therapeutic-arts.md)

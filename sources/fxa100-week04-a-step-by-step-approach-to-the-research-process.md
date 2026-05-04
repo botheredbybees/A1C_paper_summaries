@@ -24,25 +24,25 @@ This chapter outlines a systematic approach to conducting research in arts and h
 
 ## Key Concepts
 
-- [[../topics/scientific-rigor-in-creativity]]
-- [[../topics/stakeholder-engagement]]
-- [[../topics/four-stage-framework]]
+- [scientific-rigor-in-creativity](../topics/scientific-rigor-in-creativity.md)
+- [stakeholder-engagement](../topics/stakeholder-engagement.md)
+- [four-stage-framework](../topics/four-stage-framework.md)
 
 ## Tags
 
-- [[../tags/arts-and-health]]
-- [[../tags/research-methodology]]
-- [[../tags/creative-research]]
-- [[../tags/health-interventions]]
-- [[../tags/fxa100]]
+- [arts-and-health](../tags/arts-and-health.md)
+- [research-methodology](../tags/research-methodology.md)
+- [creative-research](../tags/creative-research.md)
+- [health-interventions](../tags/health-interventions.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[systematic-review]]
-- [[mixed-methods]]
+- [systematic-review](systematic-review.md)
+- [mixed-methods](mixed-methods.md)
 
 ## See Also
 
-- [[../topics/arts-and-health]]
-- [[../topics/creative-research]]
-- [[../topics/health-interventions]]
+- [arts-and-health](../topics/arts-and-health.md)
+- [creative-research](../topics/creative-research.md)
+- [health-interventions](../topics/health-interventions.md)

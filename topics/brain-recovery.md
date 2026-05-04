@@ -25,5 +25,5 @@ The therapeutic potential of music is a recurring theme in both sources. Daniel 
 
 ## Sources
 
-- [[../sources/fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there]]
-- [[../sources/fxa100-week02-transcript-duration-631]]
+- [fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there](../sources/fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there.md)
+- [fxa100-week02-transcript-duration-631](../sources/fxa100-week02-transcript-duration-631.md)

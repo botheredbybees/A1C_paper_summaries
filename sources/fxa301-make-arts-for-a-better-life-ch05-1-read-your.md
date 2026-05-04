@@ -24,16 +24,16 @@ This chapter outlines principles for ethnographic fieldwork including initial jo
 
 ## Key Concepts
 
-- [[../topics/verbatim principle]]
-- [[../topics/concrete principle]]
-- [[../topics/cultural themes]]
+- [verbatim principle](../topics/verbatim principle.md)
+- [concrete principle](../topics/concrete principle.md)
+- [cultural themes](../topics/cultural themes.md)
 
 ## Tags
 
-- [[../tags/ethnography]]
-- [[../tags/fieldwork-methods]]
-- [[../tags/audio-video-recording]]
-- [[../tags/fxa301]]
+- [ethnography](../tags/ethnography.md)
+- [fieldwork-methods](../tags/fieldwork-methods.md)
+- [audio-video-recording](../tags/audio-video-recording.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,4 +41,4 @@ This chapter outlines principles for ethnographic fieldwork including initial jo
 
 ## See Also
 
-- [[../topics/fieldwork-methods]]
+- [fieldwork-methods](../topics/fieldwork-methods.md)

@@ -24,16 +24,16 @@ This transcript from a video produced by the American Dance Therapy Association 
 
 ## Key Concepts
 
-- [[../topics/integration-of-personality]]
-- [[../topics/violence-prevention-through-movement]]
-- [[../topics/empathy-building]]
+- [integration-of-personality](../topics/integration-of-personality.md)
+- [violence-prevention-through-movement](../topics/violence-prevention-through-movement.md)
+- [empathy-building](../topics/empathy-building.md)
 
 ## Tags
 
-- [[../tags/dance-therapy]]
-- [[../tags/psychological-treatment]]
-- [[../tags/movement-interventions]]
-- [[../tags/fxa100]]
+- [dance-therapy](../tags/dance-therapy.md)
+- [psychological-treatment](../tags/psychological-treatment.md)
+- [movement-interventions](../tags/movement-interventions.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -41,4 +41,4 @@ This transcript from a video produced by the American Dance Therapy Association 
 
 ## See Also
 
-- [[../topics/dance-therapy]]
+- [dance-therapy](../topics/dance-therapy.md)

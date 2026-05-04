@@ -24,28 +24,28 @@ This systematic review and meta-analysis aimed to evaluate the efficacy of music
 
 ## Key Concepts
 
-- [[../topics/social-reactions]]
-- [[../topics/randomized-controlled-trials]]
-- [[../topics/symptom-severity]]
+- [social-reactions](../topics/social-reactions.md)
+- [randomized-controlled-trials](../topics/randomized-controlled-trials.md)
+- [symptom-severity](../topics/symptom-severity.md)
 
 ## Tags
 
-- [[../tags/autism-spectrum-disorder]]
-- [[../tags/music-therapy]]
-- [[../tags/systematic-review]]
-- [[../tags/meta-analysis]]
-- [[../tags/child-development]]
-- [[../tags/fxa303]]
+- [autism-spectrum-disorder](../tags/autism-spectrum-disorder.md)
+- [music-therapy](../tags/music-therapy.md)
+- [systematic-review](../tags/systematic-review.md)
+- [meta-analysis](../tags/meta-analysis.md)
+- [child-development](../tags/child-development.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic-review]]
-- [[meta-analysis]]
+- [systematic-review](systematic-review.md)
+- [meta-analysis](meta-analysis.md)
 
 ## See Also
 
-- [[../topics/autism-spectrum-disorder]]
-- [[../topics/child-development]]
-- [[../topics/meta-analysis]]
-- [[../topics/music-therapy]]
-- [[../topics/systematic-review]]
+- [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)
+- [child-development](../topics/child-development.md)
+- [meta-analysis](../topics/meta-analysis.md)
+- [music-therapy](../topics/music-therapy.md)
+- [systematic-review](../topics/systematic-review.md)

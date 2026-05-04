@@ -24,17 +24,17 @@ The transcript discusses dementia as a group of symptoms caused by various brain
 
 ## Key Concepts
 
-- [[../topics/dementia]]
-- [[../topics/Alzheimer's disease]]
+- [dementia](../topics/dementia.md)
+- [Alzheimer's disease](../topics/Alzheimer's disease.md)
 
 ## Tags
 
-- [[../tags/dementia]]
-- [[../tags/alzheimer-s-disease]]
-- [[../tags/brain-diseases]]
-- [[../tags/progressive-conditions]]
-- [[../tags/neurology]]
-- [[../tags/fxa100]]
+- [dementia](../tags/dementia.md)
+- [alzheimer-s-disease](../tags/alzheimer-s-disease.md)
+- [brain-diseases](../tags/brain-diseases.md)
+- [progressive-conditions](../tags/progressive-conditions.md)
+- [neurology](../tags/neurology.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -42,6 +42,6 @@ The transcript discusses dementia as a group of symptoms caused by various brain
 
 ## See Also
 
-- [[../topics/alzheimer-s-disease]]
-- [[../topics/dementia]]
-- [[../topics/neurology]]
+- [alzheimer-s-disease](../topics/alzheimer-s-disease.md)
+- [dementia](../topics/dementia.md)
+- [neurology](../topics/neurology.md)

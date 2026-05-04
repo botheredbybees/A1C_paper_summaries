@@ -27,6 +27,6 @@ The sources collectively highlight the potential of music therapy as a therapeut
 
 ## Sources
 
-- [[../sources/fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining]]
-- [[../sources/fxa100-week02-music-and-the-damaged-brain]]
-- [[../sources/fxa100-week02-neuroplastic-effects-in-patients-with-traumatic-brain]]
+- [fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining](../sources/fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining.md)
+- [fxa100-week02-music-and-the-damaged-brain](../sources/fxa100-week02-music-and-the-damaged-brain.md)
+- [fxa100-week02-neuroplastic-effects-in-patients-with-traumatic-brain](../sources/fxa100-week02-neuroplastic-effects-in-patients-with-traumatic-brain.md)

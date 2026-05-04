@@ -24,22 +24,22 @@ The article explores the use of relational clowning as a method to engage indivi
 
 ## Key Concepts
 
-- [[../topics/relational clowning]]
-- [[../topics/playful engagement]]
-- [[../topics/cognitive impairments]]
+- [relational clowning](../topics/relational clowning.md)
+- [playful engagement](../topics/playful engagement.md)
+- [cognitive impairments](../topics/cognitive impairments.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/creative-interventions]]
-- [[../tags/relational-clowning]]
-- [[../tags/quality-of-life]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [creative-interventions](../tags/creative-interventions.md)
+- [relational-clowning](../tags/relational-clowning.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[pilot study]]
-- [[qualitative research]]
+- [pilot study](pilot study.md)
+- [qualitative research](qualitative research.md)
 
 ## See Also
 

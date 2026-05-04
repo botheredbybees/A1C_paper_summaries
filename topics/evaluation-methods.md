@@ -25,5 +25,5 @@ Both sources discuss the role of evaluation in enhancing creative and educationa
 
 ## Sources
 
-- [[../sources/fxa100-creativity-and-communication-ch12-22-measuring-success-evaluation-is-an-ongoing-process-that]]
-- [[../sources/fxa301-make-arts-for-a-better-life-ch38-1-look-together-at-the-local-school-curriculum]]
+- [fxa100-creativity-and-communication-ch12-22-measuring-success-evaluation-is-an-ongoing-process-that](../sources/fxa100-creativity-and-communication-ch12-22-measuring-success-evaluation-is-an-ongoing-process-that.md)
+- [fxa301-make-arts-for-a-better-life-ch38-1-look-together-at-the-local-school-curriculum](../sources/fxa301-make-arts-for-a-better-life-ch38-1-look-together-at-the-local-school-curriculum.md)

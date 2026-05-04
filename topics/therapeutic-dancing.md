@@ -26,5 +26,5 @@ The integration of therapeutic dancing as a treatment modality for Parkinson's D
 
 ## Sources
 
-- [[../sources/fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons]]
-- [[../sources/fxa301-week06-therapeutic-dancing-for-parkinsons-disease]]
+- [fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons](../sources/fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons.md)
+- [fxa301-week06-therapeutic-dancing-for-parkinsons-disease](../sources/fxa301-week06-therapeutic-dancing-for-parkinsons-disease.md)

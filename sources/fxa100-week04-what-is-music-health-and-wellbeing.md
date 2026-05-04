@@ -24,24 +24,24 @@ The chapter 'What is Music, Health, and Wellbeing?' by Raymond MacDonald, Gunter
 
 ## Key Concepts
 
-- [[../topics/therapeutic-potential-of-music]]
-- [[../topics/emotional-engagement]]
-- [[../topics/neurological-effects-of-music]]
+- [therapeutic-potential-of-music](../topics/therapeutic-potential-of-music.md)
+- [emotional-engagement](../topics/emotional-engagement.md)
+- [neurological-effects-of-music](../topics/neurological-effects-of-music.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/wellbeing-research]]
-- [[../tags/health-psychology]]
-- [[../tags/interdisciplinary-studies]]
-- [[../tags/fxa100]]
+- [music-therapy](../tags/music-therapy.md)
+- [wellbeing-research](../tags/wellbeing-research.md)
+- [health-psychology](../tags/health-psychology.md)
+- [interdisciplinary-studies](../tags/interdisciplinary-studies.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/health-psychology]]
-- [[../topics/music-therapy]]
-- [[../topics/wellbeing-research]]
+- [health-psychology](../topics/health-psychology.md)
+- [music-therapy](../topics/music-therapy.md)
+- [wellbeing-research](../topics/wellbeing-research.md)

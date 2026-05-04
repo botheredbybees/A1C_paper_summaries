@@ -38,17 +38,17 @@ Therapeutic photography is a practice involving the use of photographs to enhanc
 
 ## Sources
 
-- [[../sources/fxa202-therapeutic-photography-ch01-chapter-10]]
-- [[../sources/fxa202-therapeutic-photography-ch02-chapter-11]]
-- [[../sources/fxa202-therapeutic-photography-ch04-2-reflexive-photography]]
-- [[../sources/fxa202-therapeutic-photography-ch05-1-photographs-are-used-to-record-inventories-such-as-objects]]
-- [[../sources/fxa202-week03-lesson-fxa202-week03-week-3]]
-- [[../sources/fxa202-week03-therapeutic-photography]]
-- [[../sources/fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay]]
-- [[../sources/fxa202-week03-week-three-lecture-transcript-photography-and-health]]
-- [[../sources/fxa202-week03-what-is-therapeutic-photography]]
-- [[../sources/fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family]]
-- [[../sources/fxa202-week06-critical-reflection-on-visual-storytelling-through]]
-- [[../sources/fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography]]
-- [[../sources/fxa202-week08-week-8-lecture-notes-editing-your-images]]
-- [[../sources/fxa202-week08-week-8-lecture-notes-editing-your-images-(2)]]
+- [fxa202-therapeutic-photography-ch01-chapter-10](../sources/fxa202-therapeutic-photography-ch01-chapter-10.md)
+- [fxa202-therapeutic-photography-ch02-chapter-11](../sources/fxa202-therapeutic-photography-ch02-chapter-11.md)
+- [fxa202-therapeutic-photography-ch04-2-reflexive-photography](../sources/fxa202-therapeutic-photography-ch04-2-reflexive-photography.md)
+- [fxa202-therapeutic-photography-ch05-1-photographs-are-used-to-record-inventories-such-as-objects](../sources/fxa202-therapeutic-photography-ch05-1-photographs-are-used-to-record-inventories-such-as-objects.md)
+- [fxa202-week03-lesson-fxa202-week03-week-3](../sources/fxa202-week03-lesson-fxa202-week03-week-3.md)
+- [fxa202-week03-therapeutic-photography](../sources/fxa202-week03-therapeutic-photography.md)
+- [fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay](../sources/fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay.md)
+- [fxa202-week03-week-three-lecture-transcript-photography-and-health](../sources/fxa202-week03-week-three-lecture-transcript-photography-and-health.md)
+- [fxa202-week03-what-is-therapeutic-photography](../sources/fxa202-week03-what-is-therapeutic-photography.md)
+- [fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family](../sources/fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family.md)
+- [fxa202-week06-critical-reflection-on-visual-storytelling-through](../sources/fxa202-week06-critical-reflection-on-visual-storytelling-through.md)
+- [fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography](../sources/fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography.md)
+- [fxa202-week08-week-8-lecture-notes-editing-your-images](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images.md)
+- [fxa202-week08-week-8-lecture-notes-editing-your-images-(2)](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images-(2).md)

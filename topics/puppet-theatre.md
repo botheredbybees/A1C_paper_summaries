@@ -27,6 +27,6 @@ Puppet theatre is an engaging and interactive intervention that can serve multip
 
 ## Sources
 
-- [[../sources/fxa303-week05-transcript-introduction-to-rod-puppets-spare-parts-puppet]]
-- [[../sources/fxa303-week06-lesson-fxa303-week06-page-1-overview]]
-- [[../sources/fxa303-week06-miss-lilys-fabulous-feather-boa]]
+- [fxa303-week05-transcript-introduction-to-rod-puppets-spare-parts-puppet](../sources/fxa303-week05-transcript-introduction-to-rod-puppets-spare-parts-puppet.md)
+- [fxa303-week06-lesson-fxa303-week06-page-1-overview](../sources/fxa303-week06-lesson-fxa303-week06-page-1-overview.md)
+- [fxa303-week06-miss-lilys-fabulous-feather-boa](../sources/fxa303-week06-miss-lilys-fabulous-feather-boa.md)

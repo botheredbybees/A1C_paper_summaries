@@ -26,5 +26,5 @@ The role of food in shaping family dynamics and individual identity is explored 
 
 ## Sources
 
-- [[../sources/fxa202-week06-apples-never-fall]]
-- [[../sources/fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family]]
+- [fxa202-week06-apples-never-fall](../sources/fxa202-week06-apples-never-fall.md)
+- [fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family](../sources/fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family.md)

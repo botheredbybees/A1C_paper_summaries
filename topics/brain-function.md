@@ -27,6 +27,6 @@ The sources collectively emphasize the profound impact of music on various aspec
 
 ## Sources
 
-- [[../sources/fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there]]
-- [[../sources/fxa100-week02-hearing-and-music]]
-- [[../sources/fxa100-week02-introduction-to-week-2-music-and-the-brain]]
+- [fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there](../sources/fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there.md)
+- [fxa100-week02-hearing-and-music](../sources/fxa100-week02-hearing-and-music.md)
+- [fxa100-week02-introduction-to-week-2-music-and-the-brain](../sources/fxa100-week02-introduction-to-week-2-music-and-the-brain.md)

@@ -27,15 +27,15 @@ This transcript details a documentary called 'I Remember Better When I Paint,' w
 
 ## Key Concepts
 
-- [[../topics/artistic-expression]]
-- [[../topics/cognitive-rehabilitation]]
+- [artistic-expression](../topics/artistic-expression.md)
+- [cognitive-rehabilitation](../topics/cognitive-rehabilitation.md)
 
 ## Tags
 
-- [[../tags/alzheimer-disease]]
-- [[../tags/creative-arts-therapy]]
-- [[../tags/dementia-care]]
-- [[../tags/fxa100]]
+- [alzheimer-disease](../tags/alzheimer-disease.md)
+- [creative-arts-therapy](../tags/creative-arts-therapy.md)
+- [dementia-care](../tags/dementia-care.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -43,6 +43,6 @@ This transcript details a documentary called 'I Remember Better When I Paint,' w
 
 ## See Also
 
-- [[../topics/alzheimer-disease]]
-- [[../topics/creative-arts-therapy]]
-- [[../topics/dementia-care]]
+- [alzheimer-disease](../topics/alzheimer-disease.md)
+- [creative-arts-therapy](../topics/creative-arts-therapy.md)
+- [dementia-care](../topics/dementia-care.md)

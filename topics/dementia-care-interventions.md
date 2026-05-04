@@ -25,5 +25,5 @@ The integration of music therapy across dementia care interventions highlights i
 
 ## Sources
 
-- [[../sources/fxa100-week02-lesson-fxa100-week02-page-4-week-2-activities]]
-- [[../sources/fxa100-week04-lesson-fxa100-week04-page-4-singing-and-participation1]]
+- [fxa100-week02-lesson-fxa100-week02-page-4-week-2-activities](../sources/fxa100-week02-lesson-fxa100-week02-page-4-week-2-activities.md)
+- [fxa100-week04-lesson-fxa100-week04-page-4-singing-and-participation1](../sources/fxa100-week04-lesson-fxa100-week04-page-4-singing-and-participation1.md)

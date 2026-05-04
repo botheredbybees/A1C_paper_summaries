@@ -24,26 +24,26 @@ This article presents a systematic review of the play therapy literature to eval
 
 ## Key Concepts
 
-- [[../topics/Child-Centered Play Therapy (CCPT)]]
-- [[../topics/Autism Spectrum Disorder (ASD)]]
+- [Child-Centered Play Therapy (CCPT)](../topics/Child-Centered Play Therapy (CCPT).md)
+- [Autism Spectrum Disorder (ASD)](../topics/Autism Spectrum Disorder (ASD).md)
 
 ## Tags
 
-- [[../tags/child-centered-play-therapy]]
-- [[../tags/autism-spectrum-disorder]]
-- [[../tags/literature-review]]
-- [[../tags/play-intervention]]
-- [[../tags/social-behavior-improvement]]
-- [[../tags/therapeutic-relationship]]
-- [[../tags/fxa303]]
+- [child-centered-play-therapy](../tags/child-centered-play-therapy.md)
+- [autism-spectrum-disorder](../tags/autism-spectrum-disorder.md)
+- [literature-review](../tags/literature-review.md)
+- [play-intervention](../tags/play-intervention.md)
+- [social-behavior-improvement](../tags/social-behavior-improvement.md)
+- [therapeutic-relationship](../tags/therapeutic-relationship.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/autism-spectrum-disorder]]
-- [[../topics/child-centered-play-therapy]]
-- [[../topics/literature-review]]
-- [[../topics/therapeutic-relationship]]
+- [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)
+- [child-centered-play-therapy](../topics/child-centered-play-therapy.md)
+- [literature-review](../topics/literature-review.md)
+- [therapeutic-relationship](../topics/therapeutic-relationship.md)

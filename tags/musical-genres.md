@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Musical Genres
 
-- [[../sources/fxa301-week02-emotions-evoked-by-the-sound-of-music-characterization|Emotions Evoked by the Sound of Music: Characterization, Classification, and Measurement]]
+- [Emotions Evoked by the Sound of Music: Characterization, Classification, and Measurement](../sources/fxa301-week02-emotions-evoked-by-the-sound-of-music-characterization.md)

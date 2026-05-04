@@ -35,14 +35,14 @@ The therapeutic arts encompass a range of creative practices that promote well-b
 
 ## Sources
 
-- [[../sources/fxa100-week06-art-creativity]]
-- [[../sources/fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of]]
-- [[../sources/fxa100-week09-week-9-lecture-dramatherapy-dance-therapy-and-applied]]
-- [[../sources/fxa301-week03-developing-a-national-arts-and-health-policy-framework]]
-- [[../sources/fxa301-week06-week-6-activities-fxa301-arts-in-the-community]]
-- [[../sources/fxa301-week08-transcript-the-video-below-relates-the-experiences-of]]
-- [[../sources/fxa301-week08-week-8-lecture-applying-theatre-and-literature-for-health]]
-- [[../sources/fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple]]
-- [[../sources/fxa303-week03-arts-in-adolescence]]
-- [[../sources/fxa303-week06-emotional-expression-through-puppetry]]
-- [[../sources/fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping]]
+- [fxa100-week06-art-creativity](../sources/fxa100-week06-art-creativity.md)
+- [fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of](../sources/fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of.md)
+- [fxa100-week09-week-9-lecture-dramatherapy-dance-therapy-and-applied](../sources/fxa100-week09-week-9-lecture-dramatherapy-dance-therapy-and-applied.md)
+- [fxa301-week03-developing-a-national-arts-and-health-policy-framework](../sources/fxa301-week03-developing-a-national-arts-and-health-policy-framework.md)
+- [fxa301-week06-week-6-activities-fxa301-arts-in-the-community](../sources/fxa301-week06-week-6-activities-fxa301-arts-in-the-community.md)
+- [fxa301-week08-transcript-the-video-below-relates-the-experiences-of](../sources/fxa301-week08-transcript-the-video-below-relates-the-experiences-of.md)
+- [fxa301-week08-week-8-lecture-applying-theatre-and-literature-for-health](../sources/fxa301-week08-week-8-lecture-applying-theatre-and-literature-for-health.md)
+- [fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple](../sources/fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple.md)
+- [fxa303-week03-arts-in-adolescence](../sources/fxa303-week03-arts-in-adolescence.md)
+- [fxa303-week06-emotional-expression-through-puppetry](../sources/fxa303-week06-emotional-expression-through-puppetry.md)
+- [fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping](../sources/fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping.md)

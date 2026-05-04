@@ -24,24 +24,24 @@ This paper explores the essential components necessary for an effective visual a
 
 ## Key Concepts
 
-- [[../topics/effective-intervention-elements]]
-- [[../topics/participant-choice]]
-- [[../topics/skilled-facilitation]]
+- [effective-intervention-elements](../topics/effective-intervention-elements.md)
+- [participant-choice](../topics/participant-choice.md)
+- [skilled-facilitation](../topics/skilled-facilitation.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/visual-art-therapy]]
-- [[../tags/qualitative-research]]
-- [[../tags/group-interventions]]
-- [[../tags/facilitator-role]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [visual-art-therapy](../tags/visual-art-therapy.md)
+- [qualitative-research](../tags/qualitative-research.md)
+- [group-interventions](../tags/group-interventions.md)
+- [facilitator-role](../tags/facilitator-role.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[qualitative-exploration]]
+- [qualitative-exploration](qualitative-exploration.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/qualitative-research]]
+- [dementia-care](../topics/dementia-care.md)
+- [qualitative-research](../topics/qualitative-research.md)

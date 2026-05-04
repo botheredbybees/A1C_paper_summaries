@@ -31,10 +31,10 @@ The integration of visual arts and cultural interventions within museum settings
 
 ## Sources
 
-- [[../sources/fxa301-week05-case-studies-of-visual-arts-with-and-for-communities]]
-- [[../sources/fxa301-week05-happy-museum-project-principles]]
-- [[../sources/fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing]]
-- [[../sources/fxa301-week05-museums-and-health-emerging-spatial-practices]]
-- [[../sources/fxa301-week05-museums-for-health-and-wellbeing]]
-- [[../sources/fxa301-week05-the-beaney-health-and-wellbeing-toolkit]]
-- [[../sources/fxa301-week09-week-9-lecture-dr-brendan-lamb]]
+- [fxa301-week05-case-studies-of-visual-arts-with-and-for-communities](../sources/fxa301-week05-case-studies-of-visual-arts-with-and-for-communities.md)
+- [fxa301-week05-happy-museum-project-principles](../sources/fxa301-week05-happy-museum-project-principles.md)
+- [fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing](../sources/fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing.md)
+- [fxa301-week05-museums-and-health-emerging-spatial-practices](../sources/fxa301-week05-museums-and-health-emerging-spatial-practices.md)
+- [fxa301-week05-museums-for-health-and-wellbeing](../sources/fxa301-week05-museums-for-health-and-wellbeing.md)
+- [fxa301-week05-the-beaney-health-and-wellbeing-toolkit](../sources/fxa301-week05-the-beaney-health-and-wellbeing-toolkit.md)
+- [fxa301-week09-week-9-lecture-dr-brendan-lamb](../sources/fxa301-week09-week-9-lecture-dr-brendan-lamb.md)

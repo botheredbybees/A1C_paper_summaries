@@ -24,22 +24,22 @@ In this editorial, Fran McInerney discusses the discourse surrounding dementia a
 
 ## Key Concepts
 
-- [[../topics/illness-metaphors]]
-- [[../topics/palliative-care]]
-- [[../topics/human-frailty]]
+- [illness-metaphors](../topics/illness-metaphors.md)
+- [palliative-care](../topics/palliative-care.md)
+- [human-frailty](../topics/human-frailty.md)
 
 ## Tags
 
-- [[../tags/dementia-discourse]]
-- [[../tags/person-centered-care]]
-- [[../tags/health-communication]]
-- [[../tags/fxa100]]
+- [dementia-discourse](../tags/dementia-discourse.md)
+- [person-centered-care](../tags/person-centered-care.md)
+- [health-communication](../tags/health-communication.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[editorial]]
+- [editorial](editorial.md)
 
 ## See Also
 
-- [[../topics/dementia-discourse]]
-- [[../topics/person-centered-care]]
+- [dementia-discourse](../topics/dementia-discourse.md)
+- [person-centered-care](../topics/person-centered-care.md)

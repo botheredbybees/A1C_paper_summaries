@@ -26,5 +26,5 @@ The exploration of aesthetic preferences in art appreciation highlights the intr
 
 ## Sources
 
-- [[../sources/fxa301-week02-can-science-account-for-taste-psychological-insights-into]]
-- [[../sources/fxa301-week02-personality-correlates-of-aesthetic-preferences-for-art]]
+- [fxa301-week02-can-science-account-for-taste-psychological-insights-into](../sources/fxa301-week02-can-science-account-for-taste-psychological-insights-into.md)
+- [fxa301-week02-personality-correlates-of-aesthetic-preferences-for-art](../sources/fxa301-week02-personality-correlates-of-aesthetic-preferences-for-art.md)

@@ -26,5 +26,5 @@ Both sources highlight the multifaceted nature of dementia risk factors in Austr
 
 ## Sources
 
-- [[../sources/fxa100-week01-dementia-in-australia]]
-- [[../sources/fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy]]
+- [fxa100-week01-dementia-in-australia](../sources/fxa100-week01-dementia-in-australia.md)
+- [fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy](../sources/fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy.md)

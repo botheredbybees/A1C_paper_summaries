@@ -24,30 +24,30 @@ This document provides an overview for Week 4 of the FXA303 Creative Arts, Play 
 
 ## Key Concepts
 
-- [[../topics/neurodiversity]]
-- [[../topics/social-model-of-disability]]
-- [[../topics/creative-arts-intervention]]
-- [[../topics/emotional-regulation]]
+- [neurodiversity](../topics/neurodiversity.md)
+- [social-model-of-disability](../topics/social-model-of-disability.md)
+- [creative-arts-intervention](../topics/creative-arts-intervention.md)
+- [emotional-regulation](../topics/emotional-regulation.md)
 
 ## Tags
 
-- [[../tags/neurodiversity]]
-- [[../tags/mental-wellbeing]]
-- [[../tags/creative-arts]]
-- [[../tags/inclusive-education]]
-- [[../tags/play-based-learning]]
-- [[../tags/social-model-disability]]
-- [[../tags/fxa303]]
+- [neurodiversity](../tags/neurodiversity.md)
+- [mental-wellbeing](../tags/mental-wellbeing.md)
+- [creative-arts](../tags/creative-arts.md)
+- [inclusive-education](../tags/inclusive-education.md)
+- [play-based-learning](../tags/play-based-learning.md)
+- [social-model-disability](../tags/social-model-disability.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[course-overview]]
+- [course-overview](course-overview.md)
 
 ## See Also
 
-- [[../topics/creative-arts]]
-- [[../topics/inclusive-education]]
-- [[../topics/mental-wellbeing]]
-- [[../topics/neurodiversity]]
-- [[../topics/play-based-learning]]
-- [[../topics/social-model-disability]]
+- [creative-arts](../topics/creative-arts.md)
+- [inclusive-education](../topics/inclusive-education.md)
+- [mental-wellbeing](../topics/mental-wellbeing.md)
+- [neurodiversity](../topics/neurodiversity.md)
+- [play-based-learning](../topics/play-based-learning.md)
+- [social-model-disability](../topics/social-model-disability.md)

@@ -24,24 +24,24 @@ The article 'Photography as Self-Therapy: An Introduction for Beginners' by Elly
 
 ## Key Concepts
 
-- [[../topics/PhotoTherapy]]
-- [[../topics/Photo-Art-Therapy]]
-- [[../topics/emotional-expression]]
+- [PhotoTherapy](../topics/PhotoTherapy.md)
+- [Photo-Art-Therapy](../topics/Photo-Art-Therapy.md)
+- [emotional-expression](../topics/emotional-expression.md)
 
 ## Tags
 
-- [[../tags/self-therapy]]
-- [[../tags/photography-in-psychology]]
-- [[../tags/expressive-therapies]]
-- [[../tags/mental-health-interventions]]
-- [[../tags/creative-expression]]
-- [[../tags/fxa202]]
+- [self-therapy](../tags/self-therapy.md)
+- [photography-in-psychology](../tags/photography-in-psychology.md)
+- [expressive-therapies](../tags/expressive-therapies.md)
+- [mental-health-interventions](../tags/mental-health-interventions.md)
+- [creative-expression](../tags/creative-expression.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/creative-expression]]
-- [[../topics/mental-health-interventions]]
+- [creative-expression](../topics/creative-expression.md)
+- [mental-health-interventions](../topics/mental-health-interventions.md)

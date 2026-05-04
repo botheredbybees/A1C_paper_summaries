@@ -24,26 +24,26 @@ This paper describes an innovative community singing initiative in East Kent, UK
 
 ## Key Concepts
 
-- [[../topics/mental health outcomes]]
-- [[../topics/choral singing therapy]]
-- [[../topics/community network support]]
+- [mental health outcomes](../topics/mental health outcomes.md)
+- [choral singing therapy](../topics/choral singing therapy.md)
+- [community network support](../topics/community network support.md)
 
 ## Tags
 
-- [[../tags/mental-health]]
-- [[../tags/wellbeing]]
-- [[../tags/singing-groups]]
-- [[../tags/community-initiatives]]
-- [[../tags/recovery-support]]
-- [[../tags/social-inclusion]]
-- [[../tags/fxa301]]
+- [mental-health](../tags/mental-health.md)
+- [wellbeing](../tags/wellbeing.md)
+- [singing-groups](../tags/singing-groups.md)
+- [community-initiatives](../tags/community-initiatives.md)
+- [recovery-support](../tags/recovery-support.md)
+- [social-inclusion](../tags/social-inclusion.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/mental-health]]
-- [[../topics/social-inclusion]]
-- [[../topics/wellbeing]]
+- [mental-health](../topics/mental-health.md)
+- [social-inclusion](../topics/social-inclusion.md)
+- [wellbeing](../topics/wellbeing.md)

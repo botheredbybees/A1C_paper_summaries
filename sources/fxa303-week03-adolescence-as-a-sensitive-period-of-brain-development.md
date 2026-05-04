@@ -24,24 +24,24 @@ This article explores the hypothesis that adolescence may represent a sensitive 
 
 ## Key Concepts
 
-- [[../topics/neuroplasticity]]
-- [[../topics/sensitive period hypothesis]]
+- [neuroplasticity](../topics/neuroplasticity.md)
+- [sensitive period hypothesis](../topics/sensitive period hypothesis.md)
 
 ## Tags
 
-- [[../tags/brain-development]]
-- [[../tags/adolescent-neuroscience]]
-- [[../tags/sensitive-period-hypothesis]]
-- [[../tags/neural-plasticity]]
-- [[../tags/mental-wellbeing]]
-- [[../tags/fxa303]]
+- [brain-development](../tags/brain-development.md)
+- [adolescent-neuroscience](../tags/adolescent-neuroscience.md)
+- [sensitive-period-hypothesis](../tags/sensitive-period-hypothesis.md)
+- [neural-plasticity](../tags/neural-plasticity.md)
+- [mental-wellbeing](../tags/mental-wellbeing.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/adolescent-neuroscience]]
-- [[../topics/brain-development]]
-- [[../topics/mental-wellbeing]]
+- [adolescent-neuroscience](../topics/adolescent-neuroscience.md)
+- [brain-development](../topics/brain-development.md)
+- [mental-wellbeing](../topics/mental-wellbeing.md)

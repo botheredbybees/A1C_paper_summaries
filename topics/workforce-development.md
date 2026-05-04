@@ -26,5 +26,5 @@ The topic of workforce development in healthcare emphasizes the importance of de
 
 ## Sources
 
-- [[../sources/fxa301-week03-advancing-practice-in-arts-in-health-artist-workforce]]
-- [[../sources/fxa303-week09-the-trauma-informed-care-and-practice-organisational]]
+- [fxa301-week03-advancing-practice-in-arts-in-health-artist-workforce](../sources/fxa301-week03-advancing-practice-in-arts-in-health-artist-workforce.md)
+- [fxa303-week09-the-trauma-informed-care-and-practice-organisational](../sources/fxa303-week09-the-trauma-informed-care-and-practice-organisational.md)

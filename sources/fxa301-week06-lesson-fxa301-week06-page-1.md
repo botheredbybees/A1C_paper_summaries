@@ -24,15 +24,15 @@ The lesson discusses the multifaceted roles of music and dance in community sett
 
 ## Key Concepts
 
-- [[../topics/Quadrivium]]
-- [[../topics/Trance-Inducing Rituals]]
+- [Quadrivium](../topics/Quadrivium.md)
+- [Trance-Inducing Rituals](../topics/Trance-Inducing Rituals.md)
 
 ## Tags
 
-- [[../tags/music-and-dance]]
-- [[../tags/community-wellbeing]]
-- [[../tags/historical-perspective]]
-- [[../tags/fxa301]]
+- [music-and-dance](../tags/music-and-dance.md)
+- [community-wellbeing](../tags/community-wellbeing.md)
+- [historical-perspective](../tags/historical-perspective.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -40,6 +40,6 @@ The lesson discusses the multifaceted roles of music and dance in community sett
 
 ## See Also
 
-- [[../topics/community-wellbeing]]
-- [[../topics/historical-perspective]]
-- [[../topics/music-and-dance]]
+- [community-wellbeing](../topics/community-wellbeing.md)
+- [historical-perspective](../topics/historical-perspective.md)
+- [music-and-dance](../topics/music-and-dance.md)

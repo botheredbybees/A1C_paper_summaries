@@ -24,27 +24,27 @@ This week's introduction in the Arts and Dementia Care course focuses on the the
 
 ## Key Concepts
 
-- [[../topics/Music & Memory Project]]
-- [[../topics/rhythmic entrainment]]
-- [[../topics/cognitive stimulation]]
+- [Music & Memory Project](../topics/Music & Memory Project.md)
+- [rhythmic entrainment](../topics/rhythmic entrainment.md)
+- [cognitive stimulation](../topics/cognitive stimulation.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/music-therapy]]
-- [[../tags/cognitive-stimulation]]
-- [[../tags/emotional-wellbeing]]
-- [[../tags/quality-of-life]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [music-therapy](../tags/music-therapy.md)
+- [cognitive-stimulation](../tags/cognitive-stimulation.md)
+- [emotional-wellbeing](../tags/emotional-wellbeing.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/cognitive-stimulation]]
-- [[../topics/dementia-care]]
-- [[../topics/emotional-wellbeing]]
-- [[../topics/music-therapy]]
-- [[../topics/quality-of-life]]
+- [cognitive-stimulation](../topics/cognitive-stimulation.md)
+- [dementia-care](../topics/dementia-care.md)
+- [emotional-wellbeing](../topics/emotional-wellbeing.md)
+- [music-therapy](../topics/music-therapy.md)
+- [quality-of-life](../topics/quality-of-life.md)

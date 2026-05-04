@@ -24,30 +24,30 @@ This study investigates the temporal dynamics of functional brain connectivity i
 
 ## Key Concepts
 
-- [[../topics/functional brain connectivity]]
-- [[../topics/temporal synchrony]]
-- [[../topics/cognitive processing speed]]
-- [[../topics/neural network dynamics]]
-- [[../topics/autism symptom severity]]
+- [functional brain connectivity](../topics/functional brain connectivity.md)
+- [temporal synchrony](../topics/temporal synchrony.md)
+- [cognitive processing speed](../topics/cognitive processing speed.md)
+- [neural network dynamics](../topics/neural network dynamics.md)
+- [autism symptom severity](../topics/autism symptom severity.md)
 
 ## Tags
 
-- [[../tags/autism-spectrum-disorders]]
-- [[../tags/brain-connectivity]]
-- [[../tags/f-mri]]
-- [[../tags/temporal-dynamics]]
-- [[../tags/neural-networks]]
-- [[../tags/symptom-severity]]
-- [[../tags/fxa303]]
+- [autism-spectrum-disorders](../tags/autism-spectrum-disorders.md)
+- [brain-connectivity](../tags/brain-connectivity.md)
+- [f-mri](../tags/f-mri.md)
+- [temporal-dynamics](../tags/temporal-dynamics.md)
+- [neural-networks](../tags/neural-networks.md)
+- [symptom-severity](../tags/symptom-severity.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[multiband multiecho fMRI]]
-- [[replication sample analysis]]
+- [multiband multiecho fMRI](multiband multiecho fMRI.md)
+- [replication sample analysis](replication sample analysis.md)
 
 ## See Also
 
-- [[../topics/autism-spectrum-disorders]]
-- [[../topics/brain-connectivity]]
-- [[../topics/neural-networks]]
-- [[../topics/temporal-dynamics]]
+- [autism-spectrum-disorders](../topics/autism-spectrum-disorders.md)
+- [brain-connectivity](../topics/brain-connectivity.md)
+- [neural-networks](../topics/neural-networks.md)
+- [temporal-dynamics](../topics/temporal-dynamics.md)

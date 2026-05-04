@@ -24,22 +24,22 @@ This dissertation explores the impact of extracurricular activities on academic 
 
 ## Key Concepts
 
-- [[../topics/PARCC test scores]]
-- [[../topics/demographic disparities]]
-- [[../topics/free and reduced lunch eligibility]]
+- [PARCC test scores](../topics/PARCC test scores.md)
+- [demographic disparities](../topics/demographic disparities.md)
+- [free and reduced lunch eligibility](../topics/free and reduced lunch eligibility.md)
 
 ## Tags
 
-- [[../tags/extracurricular-activities]]
-- [[../tags/academic-outcomes]]
-- [[../tags/school-district-study]]
-- [[../tags/middle-school-research]]
-- [[../tags/parcc-test-scores]]
-- [[../tags/fxa301]]
+- [extracurricular-activities](../tags/extracurricular-activities.md)
+- [academic-outcomes](../tags/academic-outcomes.md)
+- [school-district-study](../tags/school-district-study.md)
+- [middle-school-research](../tags/middle-school-research.md)
+- [parcc-test-scores](../tags/parcc-test-scores.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[correlational study]]
+- [correlational study](correlational study.md)
 
 ## See Also
 

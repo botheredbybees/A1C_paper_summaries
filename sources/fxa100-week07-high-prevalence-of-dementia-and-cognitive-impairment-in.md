@@ -24,24 +24,24 @@ This study investigates the prevalence of dementia and cognitive impairment not 
 
 ## Key Concepts
 
-- [[../topics/dementia]]
-- [[../topics/cognitive-impairment]]
-- [[../topics/health-disparities]]
+- [dementia](../topics/dementia.md)
+- [cognitive-impairment](../topics/cognitive-impairment.md)
+- [health-disparities](../topics/health-disparities.md)
 
 ## Tags
 
-- [[../tags/indigenous-health]]
-- [[../tags/cognitive-decline]]
-- [[../tags/dementia-prevalence]]
-- [[../tags/kimberley-region]]
-- [[../tags/fxa100]]
+- [indigenous-health](../tags/indigenous-health.md)
+- [cognitive-decline](../tags/cognitive-decline.md)
+- [dementia-prevalence](../tags/dementia-prevalence.md)
+- [kimberley-region](../tags/kimberley-region.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[cross-sectional study]]
+- [cross-sectional study](cross-sectional study.md)
 
 ## See Also
 
-- [[../topics/cognitive-decline]]
-- [[../topics/dementia-prevalence]]
-- [[../topics/indigenous-health]]
+- [cognitive-decline](../topics/cognitive-decline.md)
+- [dementia-prevalence](../topics/dementia-prevalence.md)
+- [indigenous-health](../topics/indigenous-health.md)

@@ -24,15 +24,15 @@ This week's lecture concludes the content for The Photo Essay course and introdu
 
 ## Key Concepts
 
-- [[../topics/discussion-board-activity]]
-- [[../topics/study-week-resources]]
+- [discussion-board-activity](../topics/discussion-board-activity.md)
+- [study-week-resources](../topics/study-week-resources.md)
 
 ## Tags
 
-- [[../tags/education-online]]
-- [[../tags/student-engagement]]
-- [[../tags/lecture-content]]
-- [[../tags/fxa202]]
+- [education-online](../tags/education-online.md)
+- [student-engagement](../tags/student-engagement.md)
+- [lecture-content](../tags/lecture-content.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

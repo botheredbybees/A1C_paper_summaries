@@ -24,16 +24,16 @@ This chapter discusses the evaluation process for arts-based projects involving 
 
 ## Key Concepts
 
-- [[../topics/person-centered care]]
-- [[../topics/creative expression]]
-- [[../topics/flexible evaluation criteria]]
+- [person-centered care](../topics/person-centered care.md)
+- [creative expression](../topics/creative expression.md)
+- [flexible evaluation criteria](../topics/flexible evaluation criteria.md)
 
 ## Tags
 
-- [[../tags/dementia]]
-- [[../tags/arts-based intervention]]
-- [[../tags/evaluation-methods]]
-- [[../tags/fxa100]]
+- [dementia](../tags/dementia.md)
+- [arts-based intervention](../tags/arts-based intervention.md)
+- [evaluation-methods](../tags/evaluation-methods.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ This chapter discusses the evaluation process for arts-based projects involving 
 
 ## See Also
 
-- [[../topics/dementia]]
-- [[../topics/evaluation-methods]]
+- [dementia](../topics/dementia.md)
+- [evaluation-methods](../topics/evaluation-methods.md)

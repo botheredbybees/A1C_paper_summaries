@@ -26,5 +26,5 @@ The synthesis of the provided sources highlights diverse behavioral outcomes fro
 
 ## Sources
 
-- [[../sources/fxa303-week04-impact-of-child-centered-play-therapy-intervention-on]]
-- [[../sources/fxa303-week08-exploring-the-usefulness-of-medical-clowns-in-elevating]]
+- [fxa303-week04-impact-of-child-centered-play-therapy-intervention-on](../sources/fxa303-week04-impact-of-child-centered-play-therapy-intervention-on.md)
+- [fxa303-week08-exploring-the-usefulness-of-medical-clowns-in-elevating](../sources/fxa303-week08-exploring-the-usefulness-of-medical-clowns-in-elevating.md)

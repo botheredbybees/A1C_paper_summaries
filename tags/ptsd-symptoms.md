@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Ptsd Symptoms
 
-- [[../sources/fxa303-week01-trauma-aps|Trauma - APS]]
+- [Trauma - APS](../sources/fxa303-week01-trauma-aps.md)

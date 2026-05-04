@@ -24,24 +24,24 @@ This paper examines the intersection of public space, art, and community memory 
 
 ## Key Concepts
 
-- [[../topics/collective-memory]]
-- [[../topics/community-engagement]]
-- [[../topics/re-enchantment]]
+- [collective-memory](../topics/collective-memory.md)
+- [community-engagement](../topics/community-engagement.md)
+- [re-enchantment](../topics/re-enchantment.md)
 
 ## Tags
 
-- [[../tags/public-art]]
-- [[../tags/community-memory]]
-- [[../tags/cultural-heritage]]
-- [[../tags/urban-citizenship]]
-- [[../tags/temporary-murals]]
-- [[../tags/fxa301]]
+- [public-art](../tags/public-art.md)
+- [community-memory](../tags/community-memory.md)
+- [cultural-heritage](../tags/cultural-heritage.md)
+- [urban-citizenship](../tags/urban-citizenship.md)
+- [temporary-murals](../tags/temporary-murals.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/cultural-heritage]]
-- [[../topics/public-art]]
+- [cultural-heritage](../topics/cultural-heritage.md)
+- [public-art](../topics/public-art.md)

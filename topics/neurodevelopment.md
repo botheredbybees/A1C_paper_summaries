@@ -25,5 +25,5 @@ The neurodevelopmental differences discussed in both sources underscore the comp
 
 ## Sources
 
-- [[../sources/fxa303-week04-age-related-differences-in-white-matter-diffusion-measures]]
-- [[../sources/fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms]]
+- [fxa303-week04-age-related-differences-in-white-matter-diffusion-measures](../sources/fxa303-week04-age-related-differences-in-white-matter-diffusion-measures.md)
+- [fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms](../sources/fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms.md)

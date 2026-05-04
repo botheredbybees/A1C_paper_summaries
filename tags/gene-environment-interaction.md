@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Gene Environment Interaction
 
-- [[../sources/fxa303-week03-chapter-11-human-development-how-and-why-we-change|Chapter 11 Human development: how and why we change]]
+- [Chapter 11 Human development: how and why we change](../sources/fxa303-week03-chapter-11-human-development-how-and-why-we-change.md)

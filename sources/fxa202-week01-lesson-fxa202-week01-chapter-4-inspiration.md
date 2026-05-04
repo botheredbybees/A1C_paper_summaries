@@ -24,15 +24,15 @@ This lesson focuses on the theme of 'Arts and Health' for creating a photo essay
 
 ## Key Concepts
 
-- [[../topics/Arts and Health theme]]
-- [[../topics/Critical Reflection in Photo Essays]]
+- [Arts and Health theme](../topics/Arts and Health theme.md)
+- [Critical Reflection in Photo Essays](../topics/Critical Reflection in Photo Essays.md)
 
 ## Tags
 
-- [[../tags/arts-and-health]]
-- [[../tags/photo-essay-planning]]
-- [[../tags/storytelling-through-images]]
-- [[../tags/fxa202]]
+- [arts-and-health](../tags/arts-and-health.md)
+- [photo-essay-planning](../tags/photo-essay-planning.md)
+- [storytelling-through-images](../tags/storytelling-through-images.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ This lesson focuses on the theme of 'Arts and Health' for creating a photo essay
 
 ## See Also
 
-- [[../topics/arts-and-health]]
+- [arts-and-health](../topics/arts-and-health.md)

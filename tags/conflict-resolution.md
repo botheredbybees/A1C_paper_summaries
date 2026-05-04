@@ -6,5 +6,5 @@ updated: 2026-05-04
 
 ## Conflict Resolution
 
-- [[../sources/fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts|The Make Arts for a Better Life Process]]
-- [[../sources/fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts-(2)|Make Arts for a Better Life: A Community-Based Approach]]
+- [The Make Arts for a Better Life Process](../sources/fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts.md)
+- [Make Arts for a Better Life: A Community-Based Approach](../sources/fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts-(2).md)

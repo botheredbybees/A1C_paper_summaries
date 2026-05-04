@@ -28,7 +28,7 @@ The integration of social support interventions across diverse healthcare contex
 
 ## Sources
 
-- [[../sources/fxa100-week07-house-of-memories-national-museums-liverpool]]
-- [[../sources/fxa301-week09-stroke-choirs-stroke-recovery-association-nsw]]
-- [[../sources/fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope]]
-- [[../sources/fxa303-week09-childrens-play-environment-after-a-disaster-the-great-east]]
+- [fxa100-week07-house-of-memories-national-museums-liverpool](../sources/fxa100-week07-house-of-memories-national-museums-liverpool.md)
+- [fxa301-week09-stroke-choirs-stroke-recovery-association-nsw](../sources/fxa301-week09-stroke-choirs-stroke-recovery-association-nsw.md)
+- [fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope](../sources/fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope.md)
+- [fxa303-week09-childrens-play-environment-after-a-disaster-the-great-east](../sources/fxa303-week09-childrens-play-environment-after-a-disaster-the-great-east.md)

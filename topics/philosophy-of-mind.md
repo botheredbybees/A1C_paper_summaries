@@ -27,6 +27,6 @@ The exploration of the philosophy of mind within the context of dementia care hi
 
 ## Sources
 
-- [[../sources/fxa100-how-we-thnk-about-dementia-ch06-chapter-3]]
-- [[../sources/fxa100-how-we-thnk-about-dementia-ch12-chapter-4]]
-- [[../sources/fxa100-how-we-thnk-about-dementia-ch13-chapter-13]]
+- [fxa100-how-we-thnk-about-dementia-ch06-chapter-3](../sources/fxa100-how-we-thnk-about-dementia-ch06-chapter-3.md)
+- [fxa100-how-we-thnk-about-dementia-ch12-chapter-4](../sources/fxa100-how-we-thnk-about-dementia-ch12-chapter-4.md)
+- [fxa100-how-we-thnk-about-dementia-ch13-chapter-13](../sources/fxa100-how-we-thnk-about-dementia-ch13-chapter-13.md)

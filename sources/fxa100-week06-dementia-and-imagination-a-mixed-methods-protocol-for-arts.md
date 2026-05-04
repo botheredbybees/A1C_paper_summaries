@@ -24,29 +24,29 @@ The article 'Dementia and Imagination' is a mixed-methods study protocol designe
 
 ## Key Concepts
 
-- [[../topics/visual-art-activities]]
-- [[../topics/quality-of-life-improvement]]
-- [[../topics/social-and-community-benefits]]
+- [visual-art-activities](../topics/visual-art-activities.md)
+- [quality-of-life-improvement](../topics/quality-of-life-improvement.md)
+- [social-and-community-benefits](../topics/social-and-community-benefits.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/arts-interventions]]
-- [[../tags/quality-of-life]]
-- [[../tags/mixed-methods-research]]
-- [[../tags/economic-evaluation]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [arts-interventions](../tags/arts-interventions.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [mixed-methods-research](../tags/mixed-methods-research.md)
+- [economic-evaluation](../tags/economic-evaluation.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[mixed-methods-study]]
-- [[qualitative-analysis]]
-- [[quantitative-data-collection]]
+- [mixed-methods-study](mixed-methods-study.md)
+- [qualitative-analysis](qualitative-analysis.md)
+- [quantitative-data-collection](quantitative-data-collection.md)
 
 ## See Also
 
-- [[../topics/arts-interventions]]
-- [[../topics/dementia-care]]
-- [[../topics/economic-evaluation]]
-- [[../topics/mixed-methods-research]]
-- [[../topics/quality-of-life]]
+- [arts-interventions](../topics/arts-interventions.md)
+- [dementia-care](../topics/dementia-care.md)
+- [economic-evaluation](../topics/economic-evaluation.md)
+- [mixed-methods-research](../topics/mixed-methods-research.md)
+- [quality-of-life](../topics/quality-of-life.md)

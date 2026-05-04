@@ -24,23 +24,23 @@ This study explores the impact of frontotemporal dementia (FTD) on an accomplish
 
 ## Key Concepts
 
-- [[../topics/frontotemporal dementia]]
-- [[../topics/visual creativity]]
-- [[../topics/cognitive constraints]]
+- [frontotemporal dementia](../topics/frontotemporal dementia.md)
+- [visual creativity](../topics/visual creativity.md)
+- [cognitive constraints](../topics/cognitive constraints.md)
 
 ## Tags
 
-- [[../tags/frontotemporal-dementia]]
-- [[../tags/neuroaesthetics]]
-- [[../tags/cognitive-decline-creativity]]
-- [[../tags/fxa100]]
+- [frontotemporal-dementia](../tags/frontotemporal-dementia.md)
+- [neuroaesthetics](../tags/neuroaesthetics.md)
+- [cognitive-decline-creativity](../tags/cognitive-decline-creativity.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/cognitive-decline-creativity]]
-- [[../topics/frontotemporal-dementia]]
-- [[../topics/neuroaesthetics]]
+- [cognitive-decline-creativity](../topics/cognitive-decline-creativity.md)
+- [frontotemporal-dementia](../topics/frontotemporal-dementia.md)
+- [neuroaesthetics](../topics/neuroaesthetics.md)

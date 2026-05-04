@@ -26,19 +26,19 @@ This chapter examines the role of creative arts in nursing and midwifery educati
 
 ## Key Concepts
 
-- [[../topics/compassion in practice]]
-- [[../topics/non-normative ethics and values]]
-- [[../topics/creative curriculum]]
+- [compassion in practice](../topics/compassion in practice.md)
+- [non-normative ethics and values](../topics/non-normative ethics and values.md)
+- [creative curriculum](../topics/creative curriculum.md)
 
 ## Tags
 
-- [[../tags/creative arts]]
-- [[../tags/health education]]
-- [[../tags/nursing practice]]
-- [[../tags/midwifery education]]
-- [[../tags/complex intervention]]
-- [[../tags/collaborative learning]]
-- [[../tags/fxa301]]
+- [creative arts](../tags/creative arts.md)
+- [health education](../tags/health education.md)
+- [nursing practice](../tags/nursing practice.md)
+- [midwifery education](../tags/midwifery education.md)
+- [complex intervention](../tags/complex intervention.md)
+- [collaborative learning](../tags/collaborative learning.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

@@ -26,26 +26,26 @@ This article explores the use of puppetry in a school-based creative expression 
 
 ## Key Concepts
 
-- [[../topics/sense-of-agency]]
-- [[../topics/emotional-well-being]]
-- [[../topics/coping-mechanisms]]
+- [sense-of-agency](../topics/sense-of-agency.md)
+- [emotional-well-being](../topics/emotional-well-being.md)
+- [coping-mechanisms](../topics/coping-mechanisms.md)
 
 ## Tags
 
-- [[../tags/creative-expression]]
-- [[../tags/immigrant-children]]
-- [[../tags/refugee-support]]
-- [[../tags/puppetry-intervention]]
-- [[../tags/mental-health-promotion]]
-- [[../tags/school-based-programming]]
-- [[../tags/fxa303]]
+- [creative-expression](../tags/creative-expression.md)
+- [immigrant-children](../tags/immigrant-children.md)
+- [refugee-support](../tags/refugee-support.md)
+- [puppetry-intervention](../tags/puppetry-intervention.md)
+- [mental-health-promotion](../tags/mental-health-promotion.md)
+- [school-based-programming](../tags/school-based-programming.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/creative-expression]]
-- [[../topics/mental-health-promotion]]
-- [[../topics/puppetry-intervention]]
+- [creative-expression](../topics/creative-expression.md)
+- [mental-health-promotion](../topics/mental-health-promotion.md)
+- [puppetry-intervention](../topics/puppetry-intervention.md)

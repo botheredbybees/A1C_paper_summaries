@@ -24,25 +24,25 @@ The document 'Images as Writing Prompts' emphasizes the role of visual imagery i
 
 ## Key Concepts
 
-- [[../topics/creativity stimulation]]
-- [[../topics/memory association]]
-- [[../topics/storytelling enhancement]]
+- [creativity stimulation](../topics/creativity stimulation.md)
+- [memory association](../topics/memory association.md)
+- [storytelling enhancement](../topics/storytelling enhancement.md)
 
 ## Tags
 
-- [[../tags/writing-prompts]]
-- [[../tags/visual-imagery]]
-- [[../tags/creative-writing]]
-- [[../tags/narrative-development]]
-- [[../tags/personal-memories]]
-- [[../tags/educational-strategy]]
-- [[../tags/fxa202]]
+- [writing-prompts](../tags/writing-prompts.md)
+- [visual-imagery](../tags/visual-imagery.md)
+- [creative-writing](../tags/creative-writing.md)
+- [narrative-development](../tags/narrative-development.md)
+- [personal-memories](../tags/personal-memories.md)
+- [educational-strategy](../tags/educational-strategy.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case study]]
-- [[experiential learning]]
+- [case study](case study.md)
+- [experiential learning](experiential learning.md)
 
 ## See Also
 
-- [[../topics/creative-writing]]
+- [creative-writing](../topics/creative-writing.md)

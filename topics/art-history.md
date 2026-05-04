@@ -25,5 +25,5 @@ The study of how the brain processes art reveals significant insights into cogni
 
 ## Sources
 
-- [[../sources/fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what]]
-- [[../sources/fxa100-week06-web-article-tucker-2012]]
+- [fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what](../sources/fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what.md)
+- [fxa100-week06-web-article-tucker-2012](../sources/fxa100-week06-web-article-tucker-2012.md)

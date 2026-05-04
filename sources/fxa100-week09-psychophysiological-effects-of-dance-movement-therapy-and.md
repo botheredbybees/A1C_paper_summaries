@@ -24,27 +24,27 @@ This study examines the psychophysiological impacts of dance movement therapy (D
 
 ## Key Concepts
 
-- [[../topics/dance movement therapy]]
-- [[../topics/physical exercise]]
-- [[../topics/mild dementia]]
+- [dance movement therapy](../topics/dance movement therapy.md)
+- [physical exercise](../topics/physical exercise.md)
+- [mild dementia](../topics/mild dementia.md)
 
 ## Tags
 
-- [[../tags/dementia-treatment]]
-- [[../tags/dance-therapy]]
-- [[../tags/psychophysiology]]
-- [[../tags/aging-research]]
-- [[../tags/mental-health]]
-- [[../tags/fxa100]]
+- [dementia-treatment](../tags/dementia-treatment.md)
+- [dance-therapy](../tags/dance-therapy.md)
+- [psychophysiology](../tags/psychophysiology.md)
+- [aging-research](../tags/aging-research.md)
+- [mental-health](../tags/mental-health.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[randomized controlled trial]]
+- [randomized controlled trial](randomized controlled trial.md)
 
 ## See Also
 
-- [[../topics/aging-research]]
-- [[../topics/dance-therapy]]
-- [[../topics/dementia-treatment]]
-- [[../topics/mental-health]]
-- [[../topics/psychophysiology]]
+- [aging-research](../topics/aging-research.md)
+- [dance-therapy](../topics/dance-therapy.md)
+- [dementia-treatment](../topics/dementia-treatment.md)
+- [mental-health](../topics/mental-health.md)
+- [psychophysiology](../topics/psychophysiology.md)

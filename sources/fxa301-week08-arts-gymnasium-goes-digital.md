@@ -24,20 +24,20 @@ In response to the COVID-19 pandemic and subsequent lockdowns, the Arts Gymnasiu
 
 ## Key Concepts
 
-- [[../topics/technological-barriers]]
-- [[../topics/occupational-therapy-intervention]]
+- [technological-barriers](../topics/technological-barriers.md)
+- [occupational-therapy-intervention](../topics/occupational-therapy-intervention.md)
 
 ## Tags
 
-- [[../tags/digital-transformation]]
-- [[../tags/aging-technology-adoption]]
-- [[../tags/creative-expression]]
-- [[../tags/fxa301]]
+- [digital-transformation](../tags/digital-transformation.md)
+- [aging-technology-adoption](../tags/aging-technology-adoption.md)
+- [creative-expression](../tags/creative-expression.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/creative-expression]]
+- [creative-expression](../topics/creative-expression.md)

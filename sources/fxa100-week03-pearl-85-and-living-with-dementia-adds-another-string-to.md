@@ -24,25 +24,25 @@ The article highlights the story of Pearl Durrant, an 85-year-old care home resi
 
 ## Key Concepts
 
-- [[../topics/dementia]]
-- [[../topics/creative-outlets]]
-- [[../topics/social-engagement]]
+- [dementia](../topics/dementia.md)
+- [creative-outlets](../topics/creative-outlets.md)
+- [social-engagement](../topics/social-engagement.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/music-therapy]]
-- [[../tags/community-integration]]
-- [[../tags/quality-of-life]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [music-therapy](../tags/music-therapy.md)
+- [community-integration](../tags/community-integration.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/community-integration]]
-- [[../topics/dementia-care]]
-- [[../topics/music-therapy]]
-- [[../topics/quality-of-life]]
+- [community-integration](../topics/community-integration.md)
+- [dementia-care](../topics/dementia-care.md)
+- [music-therapy](../topics/music-therapy.md)
+- [quality-of-life](../topics/quality-of-life.md)

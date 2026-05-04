@@ -6,5 +6,5 @@ updated: 2026-05-04
 
 ## Stress Reduction
 
-- [[../sources/fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults|Clowning in Health Care Settings: The Point of View of Adults]]
-- [[../sources/fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine|The Laughter Prescription: A Tool for Lifestyle Medicine]]
+- [Clowning in Health Care Settings: The Point of View of Adults](../sources/fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults.md)
+- [The Laughter Prescription: A Tool for Lifestyle Medicine](../sources/fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine.md)

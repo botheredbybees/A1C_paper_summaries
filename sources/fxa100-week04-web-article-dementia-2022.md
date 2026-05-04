@@ -24,16 +24,16 @@ The article discusses the challenges and support available for individuals in a 
 
 ## Key Concepts
 
-- [[../topics/caring role]]
-- [[../topics/self-care]]
-- [[../topics/support services]]
+- [caring role](../topics/caring role.md)
+- [self-care](../topics/self-care.md)
+- [support services](../topics/support services.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/carer-support]]
-- [[../tags/self-care-for-carers]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [carer-support](../tags/carer-support.md)
+- [self-care-for-carers](../tags/self-care-for-carers.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -41,4 +41,4 @@ The article discusses the challenges and support available for individuals in a 
 
 ## See Also
 
-- [[../topics/dementia-care]]
+- [dementia-care](../topics/dementia-care.md)

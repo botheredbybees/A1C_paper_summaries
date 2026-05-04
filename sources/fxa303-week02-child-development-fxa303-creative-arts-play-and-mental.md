@@ -26,25 +26,25 @@ The text also delves into the neural architecture of the brain, detailing how sp
 
 ## Key Concepts
 
-- [[../topics/critical-period-theory]]
-- [[../topics/neural-architecture]]
-- [[../topics/theories-of-child-development]]
+- [critical-period-theory](../topics/critical-period-theory.md)
+- [neural-architecture](../topics/neural-architecture.md)
+- [theories-of-child-development](../topics/theories-of-child-development.md)
 
 ## Tags
 
-- [[../tags/child-development]]
-- [[../tags/neuroplasticity]]
-- [[../tags/early-years-intervention]]
-- [[../tags/brain-architecture]]
-- [[../tags/cognitive-stimulation]]
-- [[../tags/fxa303]]
+- [child-development](../tags/child-development.md)
+- [neuroplasticity](../tags/neuroplasticity.md)
+- [early-years-intervention](../tags/early-years-intervention.md)
+- [brain-architecture](../tags/brain-architecture.md)
+- [cognitive-stimulation](../tags/cognitive-stimulation.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[literature-review]]
+- [literature-review](literature-review.md)
 
 ## See Also
 
-- [[../topics/child-development]]
-- [[../topics/cognitive-stimulation]]
-- [[../topics/neuroplasticity]]
+- [child-development](../topics/child-development.md)
+- [cognitive-stimulation](../topics/cognitive-stimulation.md)
+- [neuroplasticity](../topics/neuroplasticity.md)

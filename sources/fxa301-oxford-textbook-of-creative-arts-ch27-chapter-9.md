@@ -27,16 +27,16 @@ This chapter explores the physiological mechanisms that could mediate the health
 
 ## Key Concepts
 
-- [[../topics/emotional competence]]
-- [[../topics/amygdala function]]
-- [[../topics/mirror neurons]]
+- [emotional competence](../topics/emotional competence.md)
+- [amygdala function](../topics/amygdala function.md)
+- [mirror neurons](../topics/mirror neurons.md)
 
 ## Tags
 
-- [[../tags/psychophysiology]]
-- [[../tags/emotional-development]]
-- [[../tags/neurobiological-background]]
-- [[../tags/fxa301]]
+- [psychophysiology](../tags/psychophysiology.md)
+- [emotional-development](../tags/emotional-development.md)
+- [neurobiological-background](../tags/neurobiological-background.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -44,4 +44,4 @@ This chapter explores the physiological mechanisms that could mediate the health
 
 ## See Also
 
-- [[../topics/psychophysiology]]
+- [psychophysiology](../topics/psychophysiology.md)

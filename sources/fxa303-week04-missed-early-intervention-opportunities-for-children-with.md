@@ -24,26 +24,26 @@ This study investigates the factors associated with early intervention (EI) part
 
 ## Key Concepts
 
-- [[../topics/early intervention services]]
-- [[../topics/individuals with disabilities education act part c]]
-- [[../topics/timely diagnosis and treatment]]
+- [early intervention services](../topics/early intervention services.md)
+- [individuals with disabilities education act part c](../topics/individuals with disabilities education act part c.md)
+- [timely diagnosis and treatment](../topics/timely diagnosis and treatment.md)
 
 ## Tags
 
-- [[../tags/early-intervention]]
-- [[../tags/autism-spectrum-disorder]]
-- [[../tags/child-development]]
-- [[../tags/socioeconomic-status]]
-- [[../tags/public-policy]]
-- [[../tags/fxa303]]
+- [early-intervention](../tags/early-intervention.md)
+- [autism-spectrum-disorder](../tags/autism-spectrum-disorder.md)
+- [child-development](../tags/child-development.md)
+- [socioeconomic-status](../tags/socioeconomic-status.md)
+- [public-policy](../tags/public-policy.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[survey analysis]]
+- [survey analysis](survey analysis.md)
 
 ## See Also
 
-- [[../topics/autism-spectrum-disorder]]
-- [[../topics/child-development]]
-- [[../topics/early-intervention]]
-- [[../topics/public-policy]]
+- [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)
+- [child-development](../topics/child-development.md)
+- [early-intervention](../topics/early-intervention.md)
+- [public-policy](../topics/public-policy.md)

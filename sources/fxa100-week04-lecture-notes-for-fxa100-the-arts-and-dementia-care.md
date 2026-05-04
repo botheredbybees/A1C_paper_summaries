@@ -24,21 +24,21 @@ The lecture notes cover the introduction to the unit FXA100 - The Arts and Demen
 
 ## Key Concepts
 
-- [[../topics/evidence-based-practice]]
-- [[../topics/arts-based-therapy]]
+- [evidence-based-practice](../topics/evidence-based-practice.md)
+- [arts-based-therapy](../topics/arts-based-therapy.md)
 
 ## Tags
 
-- [[../tags/arts-in-dementia-care]]
-- [[../tags/creative-interventions-for-dementia]]
-- [[../tags/dementia-types]]
-- [[../tags/fxa100]]
+- [arts-in-dementia-care](../tags/arts-in-dementia-care.md)
+- [creative-interventions-for-dementia](../tags/creative-interventions-for-dementia.md)
+- [dementia-types](../tags/dementia-types.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/arts-in-dementia-care]]
-- [[../topics/dementia-types]]
+- [arts-in-dementia-care](../topics/arts-in-dementia-care.md)
+- [dementia-types](../topics/dementia-types.md)

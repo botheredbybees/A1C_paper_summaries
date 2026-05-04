@@ -24,19 +24,19 @@ Stream of consciousness is a literary technique that captures the natural flow o
 
 ## Key Concepts
 
-- [[../topics/stream of consciousness]]
-- [[../topics/Modernist literature]]
-- [[../topics/associative thinking]]
+- [stream of consciousness](../topics/stream of consciousness.md)
+- [Modernist literature](../topics/Modernist literature.md)
+- [associative thinking](../topics/associative thinking.md)
 
 ## Tags
 
-- [[../tags/stream-of-consciousness]]
-- [[../tags/modernist-literature]]
-- [[../tags/literary-techniques]]
-- [[../tags/creative-writing]]
-- [[../tags/psychological-narrative]]
-- [[../tags/internal-dialogue]]
-- [[../tags/fxa202]]
+- [stream-of-consciousness](../tags/stream-of-consciousness.md)
+- [modernist-literature](../tags/modernist-literature.md)
+- [literary-techniques](../tags/literary-techniques.md)
+- [creative-writing](../tags/creative-writing.md)
+- [psychological-narrative](../tags/psychological-narrative.md)
+- [internal-dialogue](../tags/internal-dialogue.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
@@ -44,5 +44,5 @@ Stream of consciousness is a literary technique that captures the natural flow o
 
 ## See Also
 
-- [[../topics/creative-writing]]
-- [[../topics/stream-of-consciousness]]
+- [creative-writing](../topics/creative-writing.md)
+- [stream-of-consciousness](../topics/stream-of-consciousness.md)

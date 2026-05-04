@@ -24,26 +24,26 @@ Week 9 of FXA303, a course on Creative Arts, Play, and Mental Wellbeing, introdu
 
 ## Key Concepts
 
-- [[../topics/trauma-processing]]
-- [[../topics/cultural-sensitivity]]
-- [[../topics/flexible-interventions]]
+- [trauma-processing](../topics/trauma-processing.md)
+- [cultural-sensitivity](../topics/cultural-sensitivity.md)
+- [flexible-interventions](../topics/flexible-interventions.md)
 
 ## Tags
 
-- [[../tags/mental-wellbeing]]
-- [[../tags/creative-arts]]
-- [[../tags/trauma-informed-practice]]
-- [[../tags/community-engagement]]
-- [[../tags/resilience-building]]
-- [[../tags/fxa303]]
+- [mental-wellbeing](../tags/mental-wellbeing.md)
+- [creative-arts](../tags/creative-arts.md)
+- [trauma-informed-practice](../tags/trauma-informed-practice.md)
+- [community-engagement](../tags/community-engagement.md)
+- [resilience-building](../tags/resilience-building.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/creative-arts]]
-- [[../topics/mental-wellbeing]]
-- [[../topics/resilience-building]]
-- [[../topics/trauma-informed-practice]]
+- [creative-arts](../topics/creative-arts.md)
+- [mental-wellbeing](../topics/mental-wellbeing.md)
+- [resilience-building](../topics/resilience-building.md)
+- [trauma-informed-practice](../topics/trauma-informed-practice.md)

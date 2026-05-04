@@ -24,23 +24,23 @@ The study explores the wellbeing and social benefits of choir singing for indivi
 
 ## Key Concepts
 
-- [[../topics/emotional-regulation]]
-- [[../topics/spiritual-experience]]
-- [[../topics/group-identity]]
-- [[../topics/self-perception]]
+- [emotional-regulation](../topics/emotional-regulation.md)
+- [spiritual-experience](../topics/spiritual-experience.md)
+- [group-identity](../topics/group-identity.md)
+- [self-perception](../topics/self-perception.md)
 
 ## Tags
 
-- [[../tags/mental-health-benefits]]
-- [[../tags/social-connectivity]]
-- [[../tags/choir-singing]]
-- [[../tags/disadvantaged-populations]]
-- [[../tags/resilience-building]]
-- [[../tags/fxa301]]
+- [mental-health-benefits](../tags/mental-health-benefits.md)
+- [social-connectivity](../tags/social-connectivity.md)
+- [choir-singing](../tags/choir-singing.md)
+- [disadvantaged-populations](../tags/disadvantaged-populations.md)
+- [resilience-building](../tags/resilience-building.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[interpretative-phenomenological-analysis]]
+- [interpretative-phenomenological-analysis](interpretative-phenomenological-analysis.md)
 
 ## See Also
 

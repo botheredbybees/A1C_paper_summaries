@@ -31,10 +31,10 @@ The synthesis of the provided sources highlights self-reflection through various
 
 ## Sources
 
-- [[../sources/fxa100-week08-week-8-lecture-art-therapy-in-dementia-care]]
-- [[../sources/fxa202-week06-critical-reflection-on-visual-storytelling-through]]
-- [[../sources/fxa202-week06-winding-paths]]
-- [[../sources/fxa202-week09-healing-through-art-and-music]]
-- [[../sources/fxa202-week09-journaling-books-review]]
-- [[../sources/fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a]]
-- [[../sources/fxa303-week06-therapeutic-puppetry-and-wellbeing]]
+- [fxa100-week08-week-8-lecture-art-therapy-in-dementia-care](../sources/fxa100-week08-week-8-lecture-art-therapy-in-dementia-care.md)
+- [fxa202-week06-critical-reflection-on-visual-storytelling-through](../sources/fxa202-week06-critical-reflection-on-visual-storytelling-through.md)
+- [fxa202-week06-winding-paths](../sources/fxa202-week06-winding-paths.md)
+- [fxa202-week09-healing-through-art-and-music](../sources/fxa202-week09-healing-through-art-and-music.md)
+- [fxa202-week09-journaling-books-review](../sources/fxa202-week09-journaling-books-review.md)
+- [fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a](../sources/fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a.md)
+- [fxa303-week06-therapeutic-puppetry-and-wellbeing](../sources/fxa303-week06-therapeutic-puppetry-and-wellbeing.md)

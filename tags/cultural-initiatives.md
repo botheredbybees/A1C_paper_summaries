@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Cultural Initiatives
 
-- [[../sources/fxa301-week05-submission-to-the-nsw-health-and-wellbeing-strategy|Submission to the NSW Health and Wellbeing Strategy]]
+- [Submission to the NSW Health and Wellbeing Strategy](../sources/fxa301-week05-submission-to-the-nsw-health-and-wellbeing-strategy.md)

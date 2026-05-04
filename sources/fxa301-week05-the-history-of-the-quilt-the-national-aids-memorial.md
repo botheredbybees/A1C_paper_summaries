@@ -24,20 +24,20 @@ This document outlines the history and significance of the AIDS Memorial Quilt, 
 
 ## Key Concepts
 
-- [[../topics/AIDS Memorial Quilt]]
-- [[HIV/AIDS awareness]]
+- [AIDS Memorial Quilt](../topics/AIDS Memorial Quilt.md)
+- [AIDS awareness](HIV/AIDS awareness.md)
 
 ## Tags
 
-- [[../tags/aids-memorial]]
-- [[../tags/history-activism]]
-- [[../tags/public-art]]
-- [[../tags/fxa301]]
+- [aids-memorial](../tags/aids-memorial.md)
+- [history-activism](../tags/history-activism.md)
+- [public-art](../tags/public-art.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[historical study]]
+- [historical study](historical study.md)
 
 ## See Also
 
-- [[../topics/public-art]]
+- [public-art](../topics/public-art.md)

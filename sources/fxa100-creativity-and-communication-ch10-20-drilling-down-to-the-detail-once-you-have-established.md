@@ -24,15 +24,15 @@ This chapter delves into the practical aspects of conducting creative arts sessi
 
 ## Key Concepts
 
-- [[../topics/self-expression]]
-- [[../topics/person-centered care]]
+- [self-expression](../topics/self-expression.md)
+- [person-centered care](../topics/person-centered care.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/creative-therapy]]
-- [[../tags/individual-vs-group-sessions]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [creative-therapy](../tags/creative-therapy.md)
+- [individual-vs-group-sessions](../tags/individual-vs-group-sessions.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -40,5 +40,5 @@ This chapter delves into the practical aspects of conducting creative arts sessi
 
 ## See Also
 
-- [[../topics/creative-therapy]]
-- [[../topics/dementia-care]]
+- [creative-therapy](../topics/creative-therapy.md)
+- [dementia-care](../topics/dementia-care.md)

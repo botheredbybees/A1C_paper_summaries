@@ -24,27 +24,27 @@ James Renwick and Matthew H. Woolhouse report a cross-cultural study investigati
 
 ## Key Concepts
 
-- [[../topics/musical reminiscence bump]]
-- [[../topics/emotional memory]]
-- [[../topics/cultural ubiquity]]
+- [musical reminiscence bump](../topics/musical reminiscence bump.md)
+- [emotional memory](../topics/emotional memory.md)
+- [cultural ubiquity](../topics/cultural ubiquity.md)
 
 ## Tags
 
-- [[../tags/musical-memory]]
-- [[../tags/reminiscence-bump]]
-- [[../tags/cross-cultural-research]]
-- [[../tags/music-psychology]]
-- [[../tags/emotional-memory]]
-- [[../tags/fxa100]]
+- [musical-memory](../tags/musical-memory.md)
+- [reminiscence-bump](../tags/reminiscence-bump.md)
+- [cross-cultural-research](../tags/cross-cultural-research.md)
+- [music-psychology](../tags/music-psychology.md)
+- [emotional-memory](../tags/emotional-memory.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[cross-cultural study]]
+- [cross-cultural study](cross-cultural study.md)
 
 ## See Also
 
-- [[../topics/cross-cultural-research]]
-- [[../topics/emotional-memory]]
-- [[../topics/music-psychology]]
-- [[../topics/musical-memory]]
-- [[../topics/reminiscence-bump]]
+- [cross-cultural-research](../topics/cross-cultural-research.md)
+- [emotional-memory](../topics/emotional-memory.md)
+- [music-psychology](../topics/music-psychology.md)
+- [musical-memory](../topics/musical-memory.md)
+- [reminiscence-bump](../topics/reminiscence-bump.md)

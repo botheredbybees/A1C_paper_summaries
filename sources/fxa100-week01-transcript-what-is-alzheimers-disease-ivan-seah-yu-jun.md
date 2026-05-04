@@ -24,15 +24,15 @@ This transcript provides an overview of Alzheimer's disease as described by Dr. 
 
 ## Key Concepts
 
-- [[../topics/beta-amyloid plaques]]
-- [[../topics/tau protein neurofibrillary tangles]]
+- [beta-amyloid plaques](../topics/beta-amyloid plaques.md)
+- [tau protein neurofibrillary tangles](../topics/tau protein neurofibrillary tangles.md)
 
 ## Tags
 
-- [[../tags/alzheimer's-disease]]
-- [[../tags/brain-neurology]]
-- [[../tags/medical-research]]
-- [[../tags/fxa100]]
+- [alzheimer's-disease](../tags/alzheimer's-disease.md)
+- [brain-neurology](../tags/brain-neurology.md)
+- [medical-research](../tags/medical-research.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ This transcript provides an overview of Alzheimer's disease as described by Dr. 
 
 ## See Also
 
-- [[../topics/alzheimers-disease]]
+- [alzheimers-disease](../topics/alzheimers-disease.md)

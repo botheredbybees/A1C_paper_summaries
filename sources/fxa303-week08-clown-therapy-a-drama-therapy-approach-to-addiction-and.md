@@ -24,24 +24,24 @@ This paper discusses a drama therapy approach to addiction using clown therapy, 
 
 ## Key Concepts
 
-- [[../topics/transcendent-function]]
-- [[../topics/paradox-reconciliation]]
-- [[../topics/archetypal-persona]]
+- [transcendent-function](../topics/transcendent-function.md)
+- [paradox-reconciliation](../topics/paradox-reconciliation.md)
+- [archetypal-persona](../topics/archetypal-persona.md)
 
 ## Tags
 
-- [[../tags/clown-therapy]]
-- [[../tags/drama-therapy]]
-- [[../tags/addiction-treatment]]
-- [[../tags/jungian-psychology]]
-- [[../tags/transitional-spaces]]
-- [[../tags/fxa303]]
+- [clown-therapy](../tags/clown-therapy.md)
+- [drama-therapy](../tags/drama-therapy.md)
+- [addiction-treatment](../tags/addiction-treatment.md)
+- [jungian-psychology](../tags/jungian-psychology.md)
+- [transitional-spaces](../tags/transitional-spaces.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/clown-therapy]]
-- [[../topics/drama-therapy]]
+- [clown-therapy](../topics/clown-therapy.md)
+- [drama-therapy](../topics/drama-therapy.md)

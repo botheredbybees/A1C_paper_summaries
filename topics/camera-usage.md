@@ -26,5 +26,5 @@ The sources emphasize the importance of understanding and utilizing different as
 
 ## Sources
 
-- [[../sources/fxa202-week02-getting-to-know-your-camera]]
-- [[../sources/fxa202-week02-week-2-making-pictures]]
+- [fxa202-week02-getting-to-know-your-camera](../sources/fxa202-week02-getting-to-know-your-camera.md)
+- [fxa202-week02-week-2-making-pictures](../sources/fxa202-week02-week-2-making-pictures.md)

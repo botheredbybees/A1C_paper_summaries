@@ -24,27 +24,27 @@ The National Taskforce for Creative Recovery, comprising leaders from disaster m
 
 ## Key Concepts
 
-- [[../topics/creative practices in disaster management]]
-- [[../topics/resilience building]]
-- [[../topics/inclusive community engagement]]
-- [[../topics/trauma processing through arts]]
+- [creative practices in disaster management](../topics/creative practices in disaster management.md)
+- [resilience building](../topics/resilience building.md)
+- [inclusive community engagement](../topics/inclusive community engagement.md)
+- [trauma processing through arts](../topics/trauma processing through arts.md)
 
 ## Tags
 
-- [[../tags/disaster-management]]
-- [[../tags/creative-recovery]]
-- [[../tags/community-engagement]]
-- [[../tags/mental-health]]
-- [[../tags/first-peoples-culture]]
-- [[../tags/arts-based-interventions]]
-- [[../tags/fxa303]]
+- [disaster-management](../tags/disaster-management.md)
+- [creative-recovery](../tags/creative-recovery.md)
+- [community-engagement](../tags/community-engagement.md)
+- [mental-health](../tags/mental-health.md)
+- [first-peoples-culture](../tags/first-peoples-culture.md)
+- [arts-based-interventions](../tags/arts-based-interventions.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[policy recommendation]]
+- [policy recommendation](policy recommendation.md)
 
 ## See Also
 
-- [[../topics/creative-recovery]]
-- [[../topics/disaster-management]]
-- [[../topics/mental-health]]
+- [creative-recovery](../topics/creative-recovery.md)
+- [disaster-management](../topics/disaster-management.md)
+- [mental-health](../topics/mental-health.md)

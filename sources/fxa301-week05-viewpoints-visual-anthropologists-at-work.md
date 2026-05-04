@@ -24,22 +24,22 @@ The review discusses the book 'Viewpoints: Visual Anthropologists at Work' edite
 
 ## Key Concepts
 
-- [[../topics/visual-ethnography]]
-- [[../topics/methodological-diversity]]
-- [[../topics/theoretical-applications]]
+- [visual-ethnography](../topics/visual-ethnography.md)
+- [methodological-diversity](../topics/methodological-diversity.md)
+- [theoretical-applications](../topics/theoretical-applications.md)
 
 ## Tags
 
-- [[../tags/visual-anthropology]]
-- [[../tags/ethnography-films]]
-- [[../tags/photography-methods]]
-- [[../tags/dance-studies]]
-- [[../tags/primate-research]]
-- [[../tags/fxa301]]
+- [visual-anthropology](../tags/visual-anthropology.md)
+- [ethnography-films](../tags/ethnography-films.md)
+- [photography-methods](../tags/photography-methods.md)
+- [dance-studies](../tags/dance-studies.md)
+- [primate-research](../tags/primate-research.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[book-review]]
+- [book-review](book-review.md)
 
 ## See Also
 

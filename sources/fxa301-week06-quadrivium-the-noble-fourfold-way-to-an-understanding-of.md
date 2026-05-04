@@ -24,21 +24,21 @@ Peter Lynch's article in The Irish Times discusses the historical and philosophi
 
 ## Key Concepts
 
-- [[../topics/arithmetic]]
-- [[../topics/geometry]]
-- [[../topics/music-and-astronomy]]
+- [arithmetic](../topics/arithmetic.md)
+- [geometry](../topics/geometry.md)
+- [music-and-astronomy](../topics/music-and-astronomy.md)
 
 ## Tags
 
-- [[../tags/ancient-education]]
-- [[../tags/platonic-theory]]
-- [[../tags/quadrivium]]
-- [[../tags/fxa301]]
+- [ancient-education](../tags/ancient-education.md)
+- [platonic-theory](../tags/platonic-theory.md)
+- [quadrivium](../tags/quadrivium.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[historical-analysis]]
+- [historical-analysis](historical-analysis.md)
 
 ## See Also
 
-- [[../topics/quadrivium]]
+- [quadrivium](../topics/quadrivium.md)

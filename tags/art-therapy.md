@@ -6,48 +6,48 @@ updated: 2026-05-04
 
 ## Art Therapy
 
-- [[../sources/fxa100-week04-making-art-with-communities-a-work-guide|Making Art With Communities: A Work Guide]]
-- [[../sources/fxa100-week06-art-training-in-dementia-a-randomized-controlled-trial|Art Training in Dementia: A Randomized Controlled Trial]]
-- [[../sources/fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual|How Art Changes Your Brain: Differential Effects of Visual Art Production and Cognitive Art Evaluation on Functional Brain Connectivity]]
-- [[../sources/fxa100-week06-how-creating-sculpture-benefits-people-with-dementia|How creating sculpture benefits people with dementia]]
-- [[../sources/fxa100-week06-lesson-fxa100-week06-page-1-welcome-to-week-6|Week 6 Introduction: The Visual Arts and Dementia Care]]
-- [[../sources/fxa100-week06-lesson-fxa100-week06-page-3-the-arts-and-art-therapy|The Arts and Dementia Care]]
-- [[../sources/fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities|Week 6 Activities - FXA100 The Arts and Dementia Care]]
-- [[../sources/fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to|Painting for a Purpose: A Visual Arts Program as a Method to Promote Engagement, Communication, Cognition, and Quality of Life for Individuals With Dementia]]
-- [[../sources/fxa100-week06-transcript-art-therapy-has-many-faces|Art Therapy Has Many Faces]]
-- [[../sources/fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care|Welcome to Week 6 - FXA100 The Arts and Dementia Care]]
-- [[../sources/fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia|An Art Gallery Access Programme for people with dementia: \u2018You do it for the moment\u2019]]
-- [[../sources/fxa100-week07-artful-art-and-dementia-toolkit|Artful: Art and Dementia Toolkit]]
-- [[../sources/fxa100-week07-fxa100-week-7-lecture|FXA100 Week 7 Lecture]]
-- [[../sources/fxa100-week07-lesson-fxa100-week07-inside-and-outside-the-galleries|Other Programs Inside and Outside of Galleries]]
-- [[../sources/fxa100-week07-lesson-fxa100-week07-page-4-activities|Activities for Week 7]]
-- [[../sources/fxa100-week07-nurturing-the-heart-creativity-art-therapy-and-dementia|Nurturing the Heart: Creativity, Art Therapy and Dementia]]
-- [[../sources/fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people|The MoMA Alzheimer\u2019s Project: Making Art Accessible to People with Dementia]]
-- [[../sources/fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery|Viewing and making art together: a multi-session art-gallery-based intervention for people with dementia and their carers]]
-- [[../sources/fxa100-week08-art-and-alzheimer-type-dementia-a-longitudinal-study|Art and Alzheimer-Type Dementia: A Longitudinal Study]]
-- [[../sources/fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia|Nurturing the Heart: Creativity, Art Therapy and Dementia]]
-- [[../sources/fxa100-week08-transcript-youtube-l3cci-2kwkk|Art Therapy for Alzheimer's Patients: The Memories in the Making Program]]
-- [[../sources/fxa100-week08-web-article-huebner-2012|I Remember Better When I Paint - Film Clips]]
-- [[../sources/fxa100-week08-week-8-lecture-art-therapy-in-dementia-care|Week 8 Lecture: Art Therapy in Dementia Care]]
-- [[../sources/fxa202-week06-donna-a-photo-essay|Donna: A Photo Essay]]
-- [[../sources/fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health|My Photo Essay: Storytelling Through Art and Mental Health]]
-- [[../sources/fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the|Arts in Health: Designing and researching interventions - Neurology]]
-- [[../sources/fxa301-week05-art-as-therapy|Art as Therapy]]
-- [[../sources/fxa301-week05-art-making-and-illness-two-case-studies|Art-making and Illness - Two Case Studies]]
-- [[../sources/fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our|How a dragon sculpture fueled hope and community for our patients]]
-- [[../sources/fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at|The Colour Treatment: A Convergence of Art and Medicine at the Red Cross Russell Lea Nerve Home]]
-- [[../sources/fxa301-week05-week-5-activities-fxa301-arts-in-the-community|Week 5 Activities - FXA301 Arts in the Community]]
-- [[../sources/fxa301-week08-the-connection-between-art-healing-and-public-health-a|The Connection Between Art, Healing, and Public Health: A Review of Current Literature]]
-- [[../sources/fxa301-week10-an-adjunctive-museum-based-art-therapy-experience-in-the|An adjunctive, museum-based art therapy experience in the treatment of women with severe eating disorders]]
-- [[../sources/fxa301-week10-body-talk-examining-a-collaborative-multiple-visit-program|Body Talk: Examining a Collaborative Multiple-Visit Program for Visitors with Eating Disorders]]
-- [[../sources/fxa301-week10-eating-disorders-and-art-therapy|Eating Disorders and Art Therapy]]
-- [[../sources/fxa301-week10-lesson-fxa301-week10-page-2|Case Studies of Therapeutic Creative Arts for Mental Health]]
-- [[../sources/fxa301-week10-lesson-fxa301-week10-page-3|Case Studies of Therapeutic Creative Arts for Eating Disorders and Trauma]]
-- [[../sources/fxa301-week10-social-action-in-art-therapy-with-veterans|Social Action in Art Therapy with Veterans]]
-- [[../sources/fxa303-art-therapy-in-response-to-natural-disasters-ch06-1-i-envisioned-an-opportunity-to-assert-lasalle|Ethical Considerations and Collaborative Practices in International Art Therapy for Disaster Recovery]]
-- [[../sources/fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for|Evaluation of 'Images of Self,' an Art Therapy Program for Children Diagnosed with Autism Spectrum Disorders (ASD)]]
-- [[../sources/fxa303-week04-exploring-change-in-childrens-and-art-therapists-behavior|Exploring Change in Children\u2019s and Art Therapists\u2019 Behavior during \u2018Images of Self\u2019, an Art Therapy Program for Children Diagnosed with Autism Spectrum Disorders: A Repeated Case Study Design]]
-- [[../sources/fxa303-week04-transcript-duration-3-03|Art Therapy for Children with Autism Spectrum Disorders]]
-- [[../sources/fxa303-week06-art-therapy-with-puppet-making-to-promote-emotional-empathy|Art Therapy With Puppet Making to Promote Emotional Empathy for an Adolescent With Autism]]
-- [[../sources/fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of|The Effectiveness of Art Therapy in the Treatment of Traumatized Adults: A Systematic Review on Art Therapy and Trauma]]
-- [[../sources/fxa303-week09-working-with-trauma-expanding-examining-and-evidencing-the|Working with trauma: expanding, examining, and evidencing the value of art therapy]]
+- [Making Art With Communities: A Work Guide](../sources/fxa100-week04-making-art-with-communities-a-work-guide.md)
+- [Art Training in Dementia: A Randomized Controlled Trial](../sources/fxa100-week06-art-training-in-dementia-a-randomized-controlled-trial.md)
+- [How Art Changes Your Brain: Differential Effects of Visual Art Production and Cognitive Art Evaluation on Functional Brain Connectivity](../sources/fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual.md)
+- [How creating sculpture benefits people with dementia](../sources/fxa100-week06-how-creating-sculpture-benefits-people-with-dementia.md)
+- [Week 6 Introduction: The Visual Arts and Dementia Care](../sources/fxa100-week06-lesson-fxa100-week06-page-1-welcome-to-week-6.md)
+- [The Arts and Dementia Care](../sources/fxa100-week06-lesson-fxa100-week06-page-3-the-arts-and-art-therapy.md)
+- [Week 6 Activities - FXA100 The Arts and Dementia Care](../sources/fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities.md)
+- [Painting for a Purpose: A Visual Arts Program as a Method to Promote Engagement, Communication, Cognition, and Quality of Life for Individuals With Dementia](../sources/fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to.md)
+- [Art Therapy Has Many Faces](../sources/fxa100-week06-transcript-art-therapy-has-many-faces.md)
+- [Welcome to Week 6 - FXA100 The Arts and Dementia Care](../sources/fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care.md)
+- [An Art Gallery Access Programme for people with dementia: \u2018You do it for the moment\u2019](../sources/fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia.md)
+- [Artful: Art and Dementia Toolkit](../sources/fxa100-week07-artful-art-and-dementia-toolkit.md)
+- [FXA100 Week 7 Lecture](../sources/fxa100-week07-fxa100-week-7-lecture.md)
+- [Other Programs Inside and Outside of Galleries](../sources/fxa100-week07-lesson-fxa100-week07-inside-and-outside-the-galleries.md)
+- [Activities for Week 7](../sources/fxa100-week07-lesson-fxa100-week07-page-4-activities.md)
+- [Nurturing the Heart: Creativity, Art Therapy and Dementia](../sources/fxa100-week07-nurturing-the-heart-creativity-art-therapy-and-dementia.md)
+- [The MoMA Alzheimer\u2019s Project: Making Art Accessible to People with Dementia](../sources/fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people.md)
+- [Viewing and making art together: a multi-session art-gallery-based intervention for people with dementia and their carers](../sources/fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery.md)
+- [Art and Alzheimer-Type Dementia: A Longitudinal Study](../sources/fxa100-week08-art-and-alzheimer-type-dementia-a-longitudinal-study.md)
+- [Nurturing the Heart: Creativity, Art Therapy and Dementia](../sources/fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia.md)
+- [Art Therapy for Alzheimer's Patients: The Memories in the Making Program](../sources/fxa100-week08-transcript-youtube-l3cci-2kwkk.md)
+- [I Remember Better When I Paint - Film Clips](../sources/fxa100-week08-web-article-huebner-2012.md)
+- [Week 8 Lecture: Art Therapy in Dementia Care](../sources/fxa100-week08-week-8-lecture-art-therapy-in-dementia-care.md)
+- [Donna: A Photo Essay](../sources/fxa202-week06-donna-a-photo-essay.md)
+- [My Photo Essay: Storytelling Through Art and Mental Health](../sources/fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health.md)
+- [Arts in Health: Designing and researching interventions - Neurology](../sources/fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the.md)
+- [Art as Therapy](../sources/fxa301-week05-art-as-therapy.md)
+- [Art-making and Illness - Two Case Studies](../sources/fxa301-week05-art-making-and-illness-two-case-studies.md)
+- [How a dragon sculpture fueled hope and community for our patients](../sources/fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our.md)
+- [The Colour Treatment: A Convergence of Art and Medicine at the Red Cross Russell Lea Nerve Home](../sources/fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at.md)
+- [Week 5 Activities - FXA301 Arts in the Community](../sources/fxa301-week05-week-5-activities-fxa301-arts-in-the-community.md)
+- [The Connection Between Art, Healing, and Public Health: A Review of Current Literature](../sources/fxa301-week08-the-connection-between-art-healing-and-public-health-a.md)
+- [An adjunctive, museum-based art therapy experience in the treatment of women with severe eating disorders](../sources/fxa301-week10-an-adjunctive-museum-based-art-therapy-experience-in-the.md)
+- [Body Talk: Examining a Collaborative Multiple-Visit Program for Visitors with Eating Disorders](../sources/fxa301-week10-body-talk-examining-a-collaborative-multiple-visit-program.md)
+- [Eating Disorders and Art Therapy](../sources/fxa301-week10-eating-disorders-and-art-therapy.md)
+- [Case Studies of Therapeutic Creative Arts for Mental Health](../sources/fxa301-week10-lesson-fxa301-week10-page-2.md)
+- [Case Studies of Therapeutic Creative Arts for Eating Disorders and Trauma](../sources/fxa301-week10-lesson-fxa301-week10-page-3.md)
+- [Social Action in Art Therapy with Veterans](../sources/fxa301-week10-social-action-in-art-therapy-with-veterans.md)
+- [Ethical Considerations and Collaborative Practices in International Art Therapy for Disaster Recovery](../sources/fxa303-art-therapy-in-response-to-natural-disasters-ch06-1-i-envisioned-an-opportunity-to-assert-lasalle.md)
+- [Evaluation of 'Images of Self,' an Art Therapy Program for Children Diagnosed with Autism Spectrum Disorders (ASD)](../sources/fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for.md)
+- [Exploring Change in Children\u2019s and Art Therapists\u2019 Behavior during \u2018Images of Self\u2019, an Art Therapy Program for Children Diagnosed with Autism Spectrum Disorders: A Repeated Case Study Design](../sources/fxa303-week04-exploring-change-in-childrens-and-art-therapists-behavior.md)
+- [Art Therapy for Children with Autism Spectrum Disorders](../sources/fxa303-week04-transcript-duration-3-03.md)
+- [Art Therapy With Puppet Making to Promote Emotional Empathy for an Adolescent With Autism](../sources/fxa303-week06-art-therapy-with-puppet-making-to-promote-emotional-empathy.md)
+- [The Effectiveness of Art Therapy in the Treatment of Traumatized Adults: A Systematic Review on Art Therapy and Trauma](../sources/fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of.md)
+- [Working with trauma: expanding, examining, and evidencing the value of art therapy](../sources/fxa303-week09-working-with-trauma-expanding-examining-and-evidencing-the.md)

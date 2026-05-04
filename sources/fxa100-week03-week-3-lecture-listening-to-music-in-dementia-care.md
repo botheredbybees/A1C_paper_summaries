@@ -24,26 +24,26 @@ The lecture focuses on the therapeutic effects and cognitive benefits of listeni
 
 ## Key Concepts
 
-- [[../topics/Music and Memory program]]
-- [[../topics/rhythmic entrainment]]
-- [[../topics/dopamine release]]
+- [Music and Memory program](../topics/Music and Memory program.md)
+- [rhythmic entrainment](../topics/rhythmic entrainment.md)
+- [dopamine release](../topics/dopamine release.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/dementia-care]]
-- [[../tags/neural-pathways]]
-- [[../tags/cognitive-engagement]]
-- [[../tags/personalized-playlists]]
-- [[../tags/fxa100]]
+- [music-therapy](../tags/music-therapy.md)
+- [dementia-care](../tags/dementia-care.md)
+- [neural-pathways](../tags/neural-pathways.md)
+- [cognitive-engagement](../tags/cognitive-engagement.md)
+- [personalized-playlists](../tags/personalized-playlists.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/cognitive-engagement]]
-- [[../topics/dementia-care]]
-- [[../topics/music-therapy]]
-- [[../topics/neural-pathways]]
+- [cognitive-engagement](../topics/cognitive-engagement.md)
+- [dementia-care](../topics/dementia-care.md)
+- [music-therapy](../topics/music-therapy.md)
+- [neural-pathways](../topics/neural-pathways.md)

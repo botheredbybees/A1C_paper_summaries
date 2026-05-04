@@ -24,21 +24,21 @@ This article examines the role of creative arts therapies in trauma treatment, e
 
 ## Key Concepts
 
-- [[../topics/perceptual-biases-in-trauma]]
-- [[../topics/neural-rehabilitation-through-therapeutic-intervention]]
-- [[../topics/emotional-expression-and-body-movement]]
+- [perceptual-biases-in-trauma](../topics/perceptual-biases-in-trauma.md)
+- [neural-rehabilitation-through-therapeutic-intervention](../topics/neural-rehabilitation-through-therapeutic-intervention.md)
+- [emotional-expression-and-body-movement](../topics/emotional-expression-and-body-movement.md)
 
 ## Tags
 
-- [[../tags/creative-arts-therapy]]
-- [[../tags/trauma-healing]]
-- [[../tags/neuroscience-of-therapy]]
-- [[../tags/cognitive-behavioral-therapy]]
-- [[../tags/fxa301]]
+- [creative-arts-therapy](../tags/creative-arts-therapy.md)
+- [trauma-healing](../tags/trauma-healing.md)
+- [neuroscience-of-therapy](../tags/neuroscience-of-therapy.md)
+- [cognitive-behavioral-therapy](../tags/cognitive-behavioral-therapy.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[qualitative-analysis]]
+- [qualitative-analysis](qualitative-analysis.md)
 
 ## See Also
 

@@ -26,24 +26,24 @@ Andrea Markovits discusses the use of puppet therapy as a method to address trau
 
 ## Key Concepts
 
-- [[../topics/puppet therapy]]
-- [[../topics/radical listening]]
-- [[../topics/intergenerational dialogue]]
+- [puppet therapy](../topics/puppet therapy.md)
+- [radical listening](../topics/radical listening.md)
+- [intergenerational dialogue](../topics/intergenerational dialogue.md)
 
 ## Tags
 
-- [[../tags/puppet-therapy]]
-- [[../tags/trauma-treatment]]
-- [[../tags/collective-memory]]
-- [[../tags/cultural-healing]]
-- [[../tags/chile-dictatorship]]
-- [[../tags/fxa303]]
+- [puppet-therapy](../tags/puppet-therapy.md)
+- [trauma-treatment](../tags/trauma-treatment.md)
+- [collective-memory](../tags/collective-memory.md)
+- [cultural-healing](../tags/cultural-healing.md)
+- [chile-dictatorship](../tags/chile-dictatorship.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/puppet-therapy]]
-- [[../topics/trauma-treatment]]
+- [puppet-therapy](../topics/puppet-therapy.md)
+- [trauma-treatment](../topics/trauma-treatment.md)

@@ -24,25 +24,25 @@ Kontos et al. (2016) conducted a pilot study to assess the effects of elder-clow
 
 ## Key Concepts
 
-- [[../topics/Behavioral and Psychological Symptoms of Dementia (BPSD)]]
-- [[../topics/Neuropsychiatric Inventory-Nursing Home version (NPI-NH)]]
+- [Behavioral and Psychological Symptoms of Dementia (BPSD)](../topics/Behavioral and Psychological Symptoms of Dementia (BPSD).md)
+- [Neuropsychiatric Inventory-Nursing Home version (NPI-NH)](../topics/Neuropsychiatric Inventory-Nursing Home version (NPI-NH).md)
 
 ## Tags
 
-- [[../tags/elder-clowning]]
-- [[../tags/dementia-care]]
-- [[../tags/nursing-homes]]
-- [[../tags/behavioral-symptoms]]
-- [[../tags/non-pharmacological-intervention]]
-- [[../tags/fxa303]]
+- [elder-clowning](../tags/elder-clowning.md)
+- [dementia-care](../tags/dementia-care.md)
+- [nursing-homes](../tags/nursing-homes.md)
+- [behavioral-symptoms](../tags/behavioral-symptoms.md)
+- [non-pharmacological-intervention](../tags/non-pharmacological-intervention.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[pilot study]]
+- [pilot study](pilot study.md)
 
 ## See Also
 
-- [[../topics/behavioral-symptoms]]
-- [[../topics/dementia-care]]
-- [[../topics/non-pharmacological-intervention]]
-- [[../topics/nursing-homes]]
+- [behavioral-symptoms](../topics/behavioral-symptoms.md)
+- [dementia-care](../topics/dementia-care.md)
+- [non-pharmacological-intervention](../topics/non-pharmacological-intervention.md)
+- [nursing-homes](../topics/nursing-homes.md)

@@ -26,5 +26,5 @@ The concept of inclusive theatre emerges as a transformative intervention that p
 
 ## Sources
 
-- [[../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2]]
-- [[../sources/fxa301-week09-the-importance-of-disability-led-theatre]]
+- [fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2](../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2.md)
+- [fxa301-week09-the-importance-of-disability-led-theatre](../sources/fxa301-week09-the-importance-of-disability-led-theatre.md)

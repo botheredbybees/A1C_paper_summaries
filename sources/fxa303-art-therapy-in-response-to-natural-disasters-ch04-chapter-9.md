@@ -24,15 +24,15 @@ The chapter discusses the SPARK curriculum and program aimed at fostering resili
 
 ## Key Concepts
 
-- [[../topics/PR-6 model of resilience]]
-- [[../topics/arts-based healing approach]]
+- [PR-6 model of resilience](../topics/PR-6 model of resilience.md)
+- [arts-based healing approach](../topics/arts-based healing approach.md)
 
 ## Tags
 
-- [[../tags/resilience-building]]
-- [[../tags/art-therapy-for-youth]]
-- [[../tags/disaster-recovery]]
-- [[../tags/fxa303]]
+- [resilience-building](../tags/resilience-building.md)
+- [art-therapy-for-youth](../tags/art-therapy-for-youth.md)
+- [disaster-recovery](../tags/disaster-recovery.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
@@ -40,5 +40,5 @@ The chapter discusses the SPARK curriculum and program aimed at fostering resili
 
 ## See Also
 
-- [[../topics/disaster-recovery]]
-- [[../topics/resilience-building]]
+- [disaster-recovery](../topics/disaster-recovery.md)
+- [resilience-building](../topics/resilience-building.md)

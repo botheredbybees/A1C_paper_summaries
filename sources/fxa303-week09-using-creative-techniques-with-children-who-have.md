@@ -24,27 +24,27 @@ This article explores the use of creative techniques in counseling children who 
 
 ## Key Concepts
 
-- [[../topics/trauma-exposure]]
-- [[../topics/abstract-thinking-skills]]
-- [[../topics/expressive-therapy]]
-- [[../topics/emotional-healing]]
+- [trauma-exposure](../topics/trauma-exposure.md)
+- [abstract-thinking-skills](../topics/abstract-thinking-skills.md)
+- [expressive-therapy](../topics/expressive-therapy.md)
+- [emotional-healing](../topics/emotional-healing.md)
 
 ## Tags
 
-- [[../tags/creative-techniques]]
-- [[../tags/child-trauma]]
-- [[../tags/therapeutic-interventions]]
-- [[../tags/developmental-psychology]]
-- [[../tags/counseling-methods]]
-- [[../tags/fxa303]]
+- [creative-techniques](../tags/creative-techniques.md)
+- [child-trauma](../tags/child-trauma.md)
+- [therapeutic-interventions](../tags/therapeutic-interventions.md)
+- [developmental-psychology](../tags/developmental-psychology.md)
+- [counseling-methods](../tags/counseling-methods.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- **case-study**
 
 ## See Also
 
-- [[../topics/child-trauma]]
-- [[../topics/creative-techniques]]
-- [[../topics/developmental-psychology]]
-- [[../topics/therapeutic-interventions]]
+- [child-trauma](../topics/child-trauma.md)
+- [creative-techniques](../topics/creative-techniques.md)
+- [developmental-psychology](../topics/developmental-psychology.md)
+- [therapeutic-interventions](../topics/therapeutic-interventions.md)

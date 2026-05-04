@@ -24,25 +24,25 @@ This article explores the significant role of music in adolescent development, e
 
 ## Key Concepts
 
-- [[../topics/developmental-psychology]]
-- [[../topics/cross-disciplinary-research]]
+- [developmental-psychology](../topics/developmental-psychology.md)
+- [cross-disciplinary-research](../topics/cross-disciplinary-research.md)
 
 ## Tags
 
-- [[../tags/adolescent-development]]
-- [[../tags/music-influence]]
-- [[../tags/psychosocial-growth]]
-- [[../tags/identity-formation]]
-- [[../tags/emotional-outlet]]
-- [[../tags/social-interaction]]
-- [[../tags/fxa303]]
+- [adolescent-development](../tags/adolescent-development.md)
+- [music-influence](../tags/music-influence.md)
+- [psychosocial-growth](../tags/psychosocial-growth.md)
+- [identity-formation](../tags/identity-formation.md)
+- [emotional-outlet](../tags/emotional-outlet.md)
+- [social-interaction](../tags/social-interaction.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[empirical-research]]
+- [empirical-research](empirical-research.md)
 
 ## See Also
 
-- [[../topics/adolescent-development]]
-- [[../topics/identity-formation]]
-- [[../topics/social-interaction]]
+- [adolescent-development](../topics/adolescent-development.md)
+- [identity-formation](../topics/identity-formation.md)
+- [social-interaction](../topics/social-interaction.md)

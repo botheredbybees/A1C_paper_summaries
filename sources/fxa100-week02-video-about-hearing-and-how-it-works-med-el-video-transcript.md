@@ -24,16 +24,16 @@ The video transcript discusses the process of sound detection and interpretation
 
 ## Key Concepts
 
-- [[../topics/cochlea]]
-- [[../topics/hair-cells]]
-- [[../topics/auditory-nerve]]
+- [cochlea](../topics/cochlea.md)
+- [hair-cells](../topics/hair-cells.md)
+- [auditory-nerve](../topics/auditory-nerve.md)
 
 ## Tags
 
-- [[../tags/hearing-process]]
-- [[../tags/ear-anatomy]]
-- [[../tags/sound-perception]]
-- [[../tags/fxa100]]
+- [hearing-process](../tags/hearing-process.md)
+- [ear-anatomy](../tags/ear-anatomy.md)
+- [sound-perception](../tags/sound-perception.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -41,4 +41,4 @@ The video transcript discusses the process of sound detection and interpretation
 
 ## See Also
 
-- [[../topics/hearing-process]]
+- [hearing-process](../topics/hearing-process.md)

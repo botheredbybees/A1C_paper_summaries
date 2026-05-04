@@ -27,6 +27,6 @@ The provided sources collectively highlight the multifaceted nature of community
 
 ## Sources
 
-- [[../sources/fxa301-week01-lesson-fxa301-week01-page-2-hm]]
-- [[../sources/fxa301-week01-lesson-fxa301-week01-page-4-week-3-activities]]
-- [[../sources/fxa301-week01-lesson-fxa301-week01-week-1-page-3-activities]]
+- [fxa301-week01-lesson-fxa301-week01-page-2-hm](../sources/fxa301-week01-lesson-fxa301-week01-page-2-hm.md)
+- [fxa301-week01-lesson-fxa301-week01-page-4-week-3-activities](../sources/fxa301-week01-lesson-fxa301-week01-page-4-week-3-activities.md)
+- [fxa301-week01-lesson-fxa301-week01-week-1-page-3-activities](../sources/fxa301-week01-lesson-fxa301-week01-week-1-page-3-activities.md)

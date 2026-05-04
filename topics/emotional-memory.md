@@ -25,5 +25,5 @@ The concept of emotional memory as it pertains to music is central across both s
 
 ## Sources
 
-- [[../sources/fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and]]
-- [[../sources/fxa100-week03-listening-and-dementia-care]]
+- [fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and](../sources/fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and.md)
+- [fxa100-week03-listening-and-dementia-care](../sources/fxa100-week03-listening-and-dementia-care.md)

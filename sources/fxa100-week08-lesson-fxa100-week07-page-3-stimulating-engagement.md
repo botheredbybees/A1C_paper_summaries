@@ -24,15 +24,15 @@ This lesson explores how visual arts projects can enhance the quality of life fo
 
 ## Key Concepts
 
-- [[../topics/cognitive-stimulation]]
-- [[../topics/art-therapies-in-dementia-care]]
+- [cognitive-stimulation](../topics/cognitive-stimulation.md)
+- [art-therapies-in-dementia-care](../topics/art-therapies-in-dementia-care.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/visual-arts-therapy]]
-- [[../tags/community-engagement]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [visual-arts-therapy](../tags/visual-arts-therapy.md)
+- [community-engagement](../tags/community-engagement.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -40,5 +40,5 @@ This lesson explores how visual arts projects can enhance the quality of life fo
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/visual-arts-therapy]]
+- [dementia-care](../topics/dementia-care.md)
+- [visual-arts-therapy](../topics/visual-arts-therapy.md)

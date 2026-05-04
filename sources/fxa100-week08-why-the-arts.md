@@ -24,27 +24,27 @@ The text explores the concept of creativity in the context of dementia care, arg
 
 ## Key Concepts
 
-- [[../topics/creativity in dementia]]
-- [[../topics/self-expression through arts]]
-- [[../topics/enhancing well-being]]
+- [creativity in dementia](../topics/creativity in dementia.md)
+- [self-expression through arts](../topics/self-expression through arts.md)
+- [enhancing well-being](../topics/enhancing well-being.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/creative-therapies]]
-- [[../tags/self-expression]]
-- [[../tags/well-being-through-art]]
-- [[../tags/identity-recovery]]
-- [[../tags/neurodegenerative-health]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [creative-therapies](../tags/creative-therapies.md)
+- [self-expression](../tags/self-expression.md)
+- [well-being-through-art](../tags/well-being-through-art.md)
+- [identity-recovery](../tags/identity-recovery.md)
+- [neurodegenerative-health](../tags/neurodegenerative-health.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[practical guide]]
+- [practical guide](practical guide.md)
 
 ## See Also
 
-- [[../topics/creative-therapies]]
-- [[../topics/dementia-care]]
-- [[../topics/self-expression]]
-- [[../topics/well-being-through-art]]
+- [creative-therapies](../topics/creative-therapies.md)
+- [dementia-care](../topics/dementia-care.md)
+- [self-expression](../topics/self-expression.md)
+- [well-being-through-art](../topics/well-being-through-art.md)

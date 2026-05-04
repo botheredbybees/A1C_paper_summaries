@@ -24,23 +24,23 @@ The lecture discusses the concept of 'flow' as developed by Mihaly Csikszentmiha
 
 ## Key Concepts
 
-- [[../topics/flow]]
-- [[../topics/creative arts therapy]]
-- [[../topics/art workshops]]
-- [[../topics/non-therapeutic approach]]
+- [flow](../topics/flow.md)
+- [creative arts therapy](../topics/creative arts therapy.md)
+- [art workshops](../topics/art workshops.md)
+- [non-therapeutic approach](../topics/non-therapeutic approach.md)
 
 ## Tags
 
-- [[../tags/mental-health-recovery]]
-- [[../tags/creative-therapies]]
-- [[../tags/flow-experience]]
-- [[../tags/arts-on-prescription]]
-- [[../tags/ptsd-treatment]]
-- [[../tags/fxa301]]
+- [mental-health-recovery](../tags/mental-health-recovery.md)
+- [creative-therapies](../tags/creative-therapies.md)
+- [flow-experience](../tags/flow-experience.md)
+- [arts-on-prescription](../tags/arts-on-prescription.md)
+- [ptsd-treatment](../tags/ptsd-treatment.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case studies]]
+- [case studies](case studies.md)
 
 ## See Also
 

@@ -24,21 +24,21 @@ This paper by Freedberg and Gallese explores the role of embodied simulation in 
 
 ## Key Concepts
 
-- [[../topics/embodied-simulation]]
-- [[../topics/mirror-neurons]]
-- [[../topics/universal-embodied-mechanisms]]
+- [embodied-simulation](../topics/embodied-simulation.md)
+- [mirror-neurons](../topics/mirror-neurons.md)
+- [universal-embodied-mechanisms](../topics/universal-embodied-mechanisms.md)
 
 ## Tags
 
-- [[../tags/aesthetic-experience]]
-- [[../tags/empathy-in-art]]
-- [[../tags/motion-emotion]]
-- [[../tags/fxa100]]
+- [aesthetic-experience](../tags/aesthetic-experience.md)
+- [empathy-in-art](../tags/empathy-in-art.md)
+- [motion-emotion](../tags/motion-emotion.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/aesthetic-experience]]
+- [aesthetic-experience](../topics/aesthetic-experience.md)

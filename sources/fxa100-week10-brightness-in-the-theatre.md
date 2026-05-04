@@ -24,24 +24,24 @@ This study explores the use of theatrical performances to communicate life with 
 
 ## Key Concepts
 
-- [[../topics/life-with-dementia]]
-- [[../topics/aesthetic-experience]]
-- [[../topics/identification-with-characters]]
-- [[../topics/dignity-enhancement]]
+- [life-with-dementia](../topics/life-with-dementia.md)
+- [aesthetic-experience](../topics/aesthetic-experience.md)
+- [identification-with-characters](../topics/identification-with-characters.md)
+- [dignity-enhancement](../topics/dignity-enhancement.md)
 
 ## Tags
 
-- [[../tags/theatre-in-education]]
-- [[../tags/dementia-care-experiences]]
-- [[../tags/emotional-resonance-in-theatre]]
-- [[../tags/literary-therapy-for-dementia]]
-- [[../tags/community-building-through-performance]]
-- [[../tags/fxa100]]
+- [theatre-in-education](../tags/theatre-in-education.md)
+- [dementia-care-experiences](../tags/dementia-care-experiences.md)
+- [emotional-resonance-in-theatre](../tags/emotional-resonance-in-theatre.md)
+- [literary-therapy-for-dementia](../tags/literary-therapy-for-dementia.md)
+- [community-building-through-performance](../tags/community-building-through-performance.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[focus-group-discussion]]
-- [[theme-performances]]
+- [focus-group-discussion](focus-group-discussion.md)
+- [theme-performances](theme-performances.md)
 
 ## See Also
 

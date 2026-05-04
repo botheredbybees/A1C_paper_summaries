@@ -24,25 +24,25 @@ This study evaluates the impact of Arts on Prescription (AoP) interventions as p
 
 ## Key Concepts
 
-- [[../topics/Arts on Prescription (AoP)]]
-- [[../topics/social prescribing]]
-- [[../topics/mental well-being]]
+- [Arts on Prescription (AoP)](../topics/Arts on Prescription (AoP).md)
+- [social prescribing](../topics/social prescribing.md)
+- [mental well-being](../topics/mental well-being.md)
 
 ## Tags
 
-- [[../tags/arts-on-prescription]]
-- [[../tags/social-prescribing]]
-- [[../tags/mental-health-interventions]]
-- [[../tags/anxiety-treatment]]
-- [[../tags/depression-management]]
-- [[../tags/fxa303]]
+- [arts-on-prescription](../tags/arts-on-prescription.md)
+- [social-prescribing](../tags/social-prescribing.md)
+- [mental-health-interventions](../tags/mental-health-interventions.md)
+- [anxiety-treatment](../tags/anxiety-treatment.md)
+- [depression-management](../tags/depression-management.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[observational longitudinal study]]
+- [observational longitudinal study](observational longitudinal study.md)
 
 ## See Also
 
-- [[../topics/arts-on-prescription]]
-- [[../topics/mental-health-interventions]]
-- [[../topics/social-prescribing]]
+- [arts-on-prescription](../topics/arts-on-prescription.md)
+- [mental-health-interventions](../topics/mental-health-interventions.md)
+- [social-prescribing](../topics/social-prescribing.md)

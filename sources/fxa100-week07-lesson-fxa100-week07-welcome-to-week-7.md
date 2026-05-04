@@ -24,15 +24,15 @@ In Week 7 of the FXA100 course on 'The Arts and Dementia Care,' students explore
 
 ## Key Concepts
 
-- [[../topics/ARTZ (Artists for Alzheimer's)]]
-- [[../topics/reminiscence therapy]]
+- [ARTZ (Artists for Alzheimer's)](../topics/ARTZ (Artists for Alzheimer's).md)
+- [reminiscence therapy](../topics/reminiscence therapy.md)
 
 ## Tags
 
-- [[../tags/arts-and-dementia-care]]
-- [[../tags/gallery-museum-outreach]]
-- [[../tags/dementia-carer-support]]
-- [[../tags/fxa100]]
+- [arts-and-dementia-care](../tags/arts-and-dementia-care.md)
+- [gallery-museum-outreach](../tags/gallery-museum-outreach.md)
+- [dementia-carer-support](../tags/dementia-carer-support.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ In Week 7 of the FXA100 course on 'The Arts and Dementia Care,' students explore
 
 ## See Also
 
-- [[../topics/arts-and-dementia-care]]
+- [arts-and-dementia-care](../topics/arts-and-dementia-care.md)

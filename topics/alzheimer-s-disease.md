@@ -28,7 +28,7 @@ The integration of art therapy into the care regimen for individuals with Alzhei
 
 ## Sources
 
-- [[../sources/fxa100-week01-transcript-alzheimers-society]]
-- [[../sources/fxa100-week06-some-workmen-can-blame-their-tools-artistic-change-in-an]]
-- [[../sources/fxa100-week08-transcript-youtube-l3cci-2kwkk]]
-- [[../sources/fxa100-week08-web-article-huebner-2012]]
+- [fxa100-week01-transcript-alzheimers-society](../sources/fxa100-week01-transcript-alzheimers-society.md)
+- [fxa100-week06-some-workmen-can-blame-their-tools-artistic-change-in-an](../sources/fxa100-week06-some-workmen-can-blame-their-tools-artistic-change-in-an.md)
+- [fxa100-week08-transcript-youtube-l3cci-2kwkk](../sources/fxa100-week08-transcript-youtube-l3cci-2kwkk.md)
+- [fxa100-week08-web-article-huebner-2012](../sources/fxa100-week08-web-article-huebner-2012.md)

@@ -38,13 +38,13 @@ However, despite compelling evidence of morphological changes induced by musical
 
 ## Sources
 
-- [[../sources/fxa100-week02-are-the-brains-of-musicians-physically-different]]
-- [[../sources/fxa100-week04-music-as-therapy-and-health-promotion]]
-- [[../sources/fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the]]
-- [[../sources/fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians]]
-- [[../sources/fxa303-week02-infancy-and-the-early-years]]
-- [[../sources/fxa303-week03-hormones-and-the-adolescent-brain]]
-- [[../sources/fxa303-week03-rebuilding-the-brain-with-psychotherapy]]
-- [[../sources/fxa303-week03-the-teen-brain]]
-- [[../sources/fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental]]
-- [[../sources/fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism]]
+- [fxa100-week02-are-the-brains-of-musicians-physically-different](../sources/fxa100-week02-are-the-brains-of-musicians-physically-different.md)
+- [fxa100-week04-music-as-therapy-and-health-promotion](../sources/fxa100-week04-music-as-therapy-and-health-promotion.md)
+- [fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the](../sources/fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the.md)
+- [fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians](../sources/fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians.md)
+- [fxa303-week02-infancy-and-the-early-years](../sources/fxa303-week02-infancy-and-the-early-years.md)
+- [fxa303-week03-hormones-and-the-adolescent-brain](../sources/fxa303-week03-hormones-and-the-adolescent-brain.md)
+- [fxa303-week03-rebuilding-the-brain-with-psychotherapy](../sources/fxa303-week03-rebuilding-the-brain-with-psychotherapy.md)
+- [fxa303-week03-the-teen-brain](../sources/fxa303-week03-the-teen-brain.md)
+- [fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental](../sources/fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental.md)
+- [fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism](../sources/fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism.md)

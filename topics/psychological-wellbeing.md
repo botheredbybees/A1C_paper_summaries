@@ -26,5 +26,5 @@ This synthesis explores various interventions aimed at enhancing psychological w
 
 ## Sources
 
-- [[../sources/fxa301-week06-a-study-of-the-experience-of-working-adults-on-regular]]
-- [[../sources/fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine]]
+- [fxa301-week06-a-study-of-the-experience-of-working-adults-on-regular](../sources/fxa301-week06-a-study-of-the-experience-of-working-adults-on-regular.md)
+- [fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine](../sources/fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine.md)

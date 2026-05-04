@@ -24,16 +24,16 @@ This week's lesson focuses on the impact of theatre and literature projects on c
 
 ## Key Concepts
 
-- [[../topics/mental-flexibility]]
-- [[../topics/cognitive-reserve]]
-- [[../topics/emotional-intelligence]]
+- [mental-flexibility](../topics/mental-flexibility.md)
+- [cognitive-reserve](../topics/cognitive-reserve.md)
+- [emotional-intelligence](../topics/emotional-intelligence.md)
 
 ## Tags
 
-- [[../tags/applied-theatre]]
-- [[../tags/creative-writing-workshop]]
-- [[../tags/literature-therapy]]
-- [[../tags/fxa301]]
+- [applied-theatre](../tags/applied-theatre.md)
+- [creative-writing-workshop](../tags/creative-writing-workshop.md)
+- [literature-therapy](../tags/literature-therapy.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,4 +41,4 @@ This week's lesson focuses on the impact of theatre and literature projects on c
 
 ## See Also
 
-- [[../topics/applied-theatre]]
+- [applied-theatre](../topics/applied-theatre.md)

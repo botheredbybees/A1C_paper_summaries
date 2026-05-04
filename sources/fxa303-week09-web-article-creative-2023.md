@@ -24,15 +24,15 @@ The Afloat project was initiated in response to the flood that affected Greater 
 
 ## Key Concepts
 
-- [[../topics/Community Resilience]]
-- [[../topics/Creative Recovery]]
+- [Community Resilience](../topics/Community Resilience.md)
+- [Creative Recovery](../topics/Creative Recovery.md)
 
 ## Tags
 
-- [[../tags/creative-recovery]]
-- [[../tags/community-resilience]]
-- [[../tags/flood-recovery]]
-- [[../tags/fxa303]]
+- [creative-recovery](../tags/creative-recovery.md)
+- [community-resilience](../tags/community-resilience.md)
+- [flood-recovery](../tags/flood-recovery.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
@@ -40,6 +40,6 @@ The Afloat project was initiated in response to the flood that affected Greater 
 
 ## See Also
 
-- [[../topics/community-resilience]]
-- [[../topics/creative-recovery]]
-- [[../topics/flood-recovery]]
+- [community-resilience](../topics/community-resilience.md)
+- [creative-recovery](../topics/creative-recovery.md)
+- [flood-recovery](../topics/flood-recovery.md)

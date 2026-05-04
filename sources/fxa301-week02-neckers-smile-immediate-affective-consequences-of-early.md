@@ -24,24 +24,24 @@ The study investigates the relationship between perceptual processes and affecti
 
 ## Key Concepts
 
-- [[../topics/early-perceptual-processes]]
-- [[../topics/affect-as-component-of-perception]]
-- [[../topics/gestalt-theory]]
+- [early-perceptual-processes](../topics/early-perceptual-processes.md)
+- [affect-as-component-of-perception](../topics/affect-as-component-of-perception.md)
+- [gestalt-theory](../topics/gestalt-theory.md)
 
 ## Tags
 
-- [[../tags/perceptual-processes]]
-- [[../tags/affective-reactions]]
-- [[../tags/visual-processing]]
-- [[../tags/gestalt-completion]]
-- [[../tags/emotional-integration]]
-- [[../tags/fxa301]]
+- [perceptual-processes](../tags/perceptual-processes.md)
+- [affective-reactions](../tags/affective-reactions.md)
+- [visual-processing](../tags/visual-processing.md)
+- [gestalt-completion](../tags/gestalt-completion.md)
+- [emotional-integration](../tags/emotional-integration.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[experiment]]
-- [[verbal-preference-ratings]]
-- [[facial-emg]]
+- [experiment](experiment.md)
+- [verbal-preference-ratings](verbal-preference-ratings.md)
+- [facial-emg](facial-emg.md)
 
 ## See Also
 

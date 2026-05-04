@@ -24,26 +24,26 @@ This report summarizes key learnings from a caucus held prior to the Healing, Br
 
 ## Key Concepts
 
-- [[../topics/interconnectedness-of-art-and-healing]]
-- [[../topics/institutional-silos-removal]]
-- [[../topics/artist-engagement-in-public-health]]
+- [interconnectedness-of-art-and-healing](../topics/interconnectedness-of-art-and-healing.md)
+- [institutional-silos-removal](../topics/institutional-silos-removal.md)
+- [artist-engagement-in-public-health](../topics/artist-engagement-in-public-health.md)
 
 ## Tags
 
-- [[../tags/arts-and-health]]
-- [[../tags/wellbeing-promotion]]
-- [[../tags/community-integration]]
-- [[../tags/policy-innovation]]
-- [[../tags/public-health-initiatives]]
-- [[../tags/fxa301]]
+- [arts-and-health](../tags/arts-and-health.md)
+- [wellbeing-promotion](../tags/wellbeing-promotion.md)
+- [community-integration](../tags/community-integration.md)
+- [policy-innovation](../tags/policy-innovation.md)
+- [public-health-initiatives](../tags/public-health-initiatives.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[caucus-analysis]]
+- [caucus-analysis](caucus-analysis.md)
 
 ## See Also
 
-- [[../topics/arts-and-health]]
-- [[../topics/community-integration]]
-- [[../topics/public-health-initiatives]]
-- [[../topics/wellbeing-promotion]]
+- [arts-and-health](../topics/arts-and-health.md)
+- [community-integration](../topics/community-integration.md)
+- [public-health-initiatives](../topics/public-health-initiatives.md)
+- [wellbeing-promotion](../topics/wellbeing-promotion.md)

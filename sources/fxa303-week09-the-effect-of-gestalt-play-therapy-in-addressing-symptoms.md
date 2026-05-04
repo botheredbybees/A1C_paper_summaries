@@ -28,27 +28,27 @@ After undergoing Gestalt play therapy, there was a statistically significant imp
 
 ## Key Concepts
 
-- [[../topics/Gestalt play therapy]]
-- [[../topics/trauma-related symptoms]]
-- [[../topics/self-regulation]]
+- [Gestalt play therapy](../topics/Gestalt play therapy.md)
+- [trauma-related symptoms](../topics/trauma-related symptoms.md)
+- [self-regulation](../topics/self-regulation.md)
 
 ## Tags
 
-- [[../tags/child-psychology]]
-- [[../tags/trauma-intervention]]
-- [[../tags/play-therapy]]
-- [[../tags/neurodevelopment]]
-- [[../tags/fxa303]]
+- [child-psychology](../tags/child-psychology.md)
+- [trauma-intervention](../tags/trauma-intervention.md)
+- [play-therapy](../tags/play-therapy.md)
+- [neurodevelopment](../tags/neurodevelopment.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[mixed-methods]]
-- [[single-system design]]
-- [[phenomenological design]]
+- [mixed-methods](mixed-methods.md)
+- [single-system design](single-system design.md)
+- [phenomenological design](phenomenological design.md)
 
 ## See Also
 
-- [[../topics/child-psychology]]
-- [[../topics/neurodevelopment]]
-- [[../topics/play-therapy]]
-- [[../topics/trauma-intervention]]
+- [child-psychology](../topics/child-psychology.md)
+- [neurodevelopment](../topics/neurodevelopment.md)
+- [play-therapy](../topics/play-therapy.md)
+- [trauma-intervention](../topics/trauma-intervention.md)

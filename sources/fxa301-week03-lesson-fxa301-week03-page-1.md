@@ -24,15 +24,15 @@ This week's lesson explores how engagement with creative arts can contribute to 
 
 ## Key Concepts
 
-- [[../topics/creative-therapies]]
-- [[../topics/health-policy-frameworks]]
+- [creative-therapies](../topics/creative-therapies.md)
+- [health-policy-frameworks](../topics/health-policy-frameworks.md)
 
 ## Tags
 
-- [[../tags/arts-in-health]]
-- [[../tags/wellbeing-through-art]]
-- [[../tags/aging-populations]]
-- [[../tags/fxa301]]
+- [arts-in-health](../tags/arts-in-health.md)
+- [wellbeing-through-art](../tags/wellbeing-through-art.md)
+- [aging-populations](../tags/aging-populations.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -40,6 +40,6 @@ This week's lesson explores how engagement with creative arts can contribute to 
 
 ## See Also
 
-- [[../topics/aging-populations]]
-- [[../topics/arts-in-health]]
-- [[../topics/wellbeing-through-art]]
+- [aging-populations](../topics/aging-populations.md)
+- [arts-in-health](../topics/arts-in-health.md)
+- [wellbeing-through-art](../topics/wellbeing-through-art.md)

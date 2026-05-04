@@ -28,23 +28,23 @@ The document also emphasizes the benefits of creative activities such as music, 
 
 ## Key Concepts
 
-- [[../topics/mental health disorders]]
-- [[../topics/creative activities]]
-- [[../topics/universal access to arts]]
+- [mental health disorders](../topics/mental health disorders.md)
+- [creative activities](../topics/creative activities.md)
+- [universal access to arts](../topics/universal access to arts.md)
 
 ## Tags
 
-- [[../tags/mental-health-education]]
-- [[../tags/creativity-in-schools]]
-- [[../tags/wellbeing-through-art]]
-- [[../tags/early-intervention-strategies]]
-- [[../tags/arts-education-reduction]]
-- [[../tags/fxa301]]
+- [mental-health-education](../tags/mental-health-education.md)
+- [creativity-in-schools](../tags/creativity-in-schools.md)
+- [wellbeing-through-art](../tags/wellbeing-through-art.md)
+- [early-intervention-strategies](../tags/early-intervention-strategies.md)
+- [arts-education-reduction](../tags/arts-education-reduction.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[roundtable discussion]]
+- [roundtable discussion](roundtable discussion.md)
 
 ## See Also
 
-- [[../topics/wellbeing-through-art]]
+- [wellbeing-through-art](../topics/wellbeing-through-art.md)

@@ -24,15 +24,15 @@ This chapter emphasizes the importance of personal creativity for individuals wo
 
 ## Key Concepts
 
-- [[../topics/emotional processing]]
-- [[../topics/empowerment through creativity]]
+- [emotional processing](../topics/emotional processing.md)
+- [empowerment through creativity](../topics/empowerment through creativity.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/creative-expression]]
-- [[../tags/self-care-strategies]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [creative-expression](../tags/creative-expression.md)
+- [self-care-strategies](../tags/self-care-strategies.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -40,6 +40,6 @@ This chapter emphasizes the importance of personal creativity for individuals wo
 
 ## See Also
 
-- [[../topics/creative-expression]]
-- [[../topics/dementia-care]]
-- [[../topics/self-care-strategies]]
+- [creative-expression](../topics/creative-expression.md)
+- [dementia-care](../topics/dementia-care.md)
+- [self-care-strategies](../topics/self-care-strategies.md)

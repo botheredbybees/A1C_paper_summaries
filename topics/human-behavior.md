@@ -26,5 +26,5 @@ Music's influence on human behavior is profound and multifaceted. Source 1 highl
 
 ## Sources
 
-- [[../sources/fxa100-week03-the-power-of-music]]
-- [[../sources/fxa100-week04-the-evolution-of-human-artistic-creativity]]
+- [fxa100-week03-the-power-of-music](../sources/fxa100-week03-the-power-of-music.md)
+- [fxa100-week04-the-evolution-of-human-artistic-creativity](../sources/fxa100-week04-the-evolution-of-human-artistic-creativity.md)

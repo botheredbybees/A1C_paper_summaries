@@ -24,24 +24,24 @@ The study assesses the implementation of the Veder Contact Method (VCM), a perso
 
 ## Key Concepts
 
-- [[../topics/Veder Contact Method]]
-- [[../topics/successful implementation factors]]
+- [Veder Contact Method](../topics/Veder Contact Method.md)
+- [successful implementation factors](../topics/successful implementation factors.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/person-centered-care]]
-- [[../tags/theater-therapy]]
-- [[../tags/communication-methods]]
-- [[../tags/quality-of-life]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [person-centered-care](../tags/person-centered-care.md)
+- [theater-therapy](../tags/theater-therapy.md)
+- [communication-methods](../tags/communication-methods.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[quasi-experimental study]]
+- [quasi-experimental study](quasi-experimental study.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/person-centered-care]]
-- [[../topics/quality-of-life]]
+- [dementia-care](../topics/dementia-care.md)
+- [person-centered-care](../topics/person-centered-care.md)
+- [quality-of-life](../topics/quality-of-life.md)

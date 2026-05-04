@@ -28,25 +28,25 @@ Additionally, it addresses how different types of dementia impact artistic abili
 
 ## Key Concepts
 
-- [[../topics/guided-initiation]]
-- [[../topics/internal-dialogue]]
-- [[../topics/outward-communication]]
-- [[../topics/executive-function-impairment]]
+- [guided-initiation](../topics/guided-initiation.md)
+- [internal-dialogue](../topics/internal-dialogue.md)
+- [outward-communication](../topics/outward-communication.md)
+- [executive-function-impairment](../topics/executive-function-impairment.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/art-therapy]]
-- [[../tags/cognitive-barriers]]
-- [[../tags/self-reflection]]
-- [[../tags/cross-cultural]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [art-therapy](../tags/art-therapy.md)
+- [cognitive-barriers](../tags/cognitive-barriers.md)
+- [self-reflection](../tags/self-reflection.md)
+- [cross-cultural](../tags/cross-cultural.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[lecture]]
+- [lecture](lecture.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/self-reflection]]
+- [dementia-care](../topics/dementia-care.md)
+- [self-reflection](../topics/self-reflection.md)

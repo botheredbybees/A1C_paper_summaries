@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Attention Deficit Hyperactivity Disorder
 
-- [[../sources/fxa303-week04-neurodiversity-and-the-autism-spectrum|Neurodiversity and the Autism Spectrum]]
+- [Neurodiversity and the Autism Spectrum](../sources/fxa303-week04-neurodiversity-and-the-autism-spectrum.md)

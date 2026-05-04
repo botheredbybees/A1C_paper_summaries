@@ -26,5 +26,5 @@ The sources highlight the therapeutic potential of engaging with arts for brain 
 
 ## Sources
 
-- [[../sources/fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees]]
-- [[../sources/fxa100-week06-transcript-art-gives-same-level-of-pleasure-as-being-in-love]]
+- [fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees](../sources/fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees.md)
+- [fxa100-week06-transcript-art-gives-same-level-of-pleasure-as-being-in-love](../sources/fxa100-week06-transcript-art-gives-same-level-of-pleasure-as-being-in-love.md)

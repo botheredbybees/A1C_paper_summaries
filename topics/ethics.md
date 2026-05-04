@@ -25,5 +25,5 @@ The examination of ethics within healthcare and research reveals a complex inter
 
 ## Sources
 
-- [[../sources/fxa100-how-we-thnk-about-dementia-ch08-chapter-4]]
-- [[../sources/fxa301-arts-in-health-ch76-3-responsibility]]
+- [fxa100-how-we-thnk-about-dementia-ch08-chapter-4](../sources/fxa100-how-we-thnk-about-dementia-ch08-chapter-4.md)
+- [fxa301-arts-in-health-ch76-3-responsibility](../sources/fxa301-arts-in-health-ch76-3-responsibility.md)

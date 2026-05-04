@@ -24,20 +24,20 @@ The document 'Making Art with Communities: A Work Guide' is an extensive resourc
 
 ## Key Concepts
 
-- [[../topics/collaborative-art-projects]]
-- [[../topics/ethical-considerations-in-art]]
+- [collaborative-art-projects](../topics/collaborative-art-projects.md)
+- [ethical-considerations-in-art](../topics/ethical-considerations-in-art.md)
 
 ## Tags
 
-- [[../tags/community-engagement]]
-- [[../tags/cultural-sensitivity]]
-- [[../tags/art-therapy]]
-- [[../tags/fxa100]]
+- [community-engagement](../tags/community-engagement.md)
+- [cultural-sensitivity](../tags/cultural-sensitivity.md)
+- [art-therapy](../tags/art-therapy.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/cultural-sensitivity]]
+- [cultural-sensitivity](../topics/cultural-sensitivity.md)

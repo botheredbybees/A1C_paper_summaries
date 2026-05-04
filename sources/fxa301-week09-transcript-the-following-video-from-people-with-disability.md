@@ -24,15 +24,15 @@ The video presents an introduction to the Social Model of Disability, emphasizin
 
 ## Key Concepts
 
-- [[../topics/Social Model of Disability]]
-- [[../topics/Medical Model of Disability]]
+- [Social Model of Disability](../topics/Social Model of Disability.md)
+- [Medical Model of Disability](../topics/Medical Model of Disability.md)
 
 ## Tags
 
-- [[../tags/social-model-of-disability]]
-- [[../tags/medical-model-of-disability]]
-- [[../tags/attitudinal-shifts]]
-- [[../tags/fxa301]]
+- [social-model-of-disability](../tags/social-model-of-disability.md)
+- [medical-model-of-disability](../tags/medical-model-of-disability.md)
+- [attitudinal-shifts](../tags/attitudinal-shifts.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ The video presents an introduction to the Social Model of Disability, emphasizin
 
 ## See Also
 
-- [[../topics/social-model-of-disability]]
+- [social-model-of-disability](../topics/social-model-of-disability.md)

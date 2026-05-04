@@ -30,25 +30,25 @@ The chapter discusses the first four stages of designing and delivering arts in 
 
 ## Key Concepts
 
-- [[../topics/PESTLE analysis]]
-- [[../topics/quality improvement measures]]
-- [[../topics/patient-centered care]]
+- [PESTLE analysis](../topics/PESTLE analysis.md)
+- [quality improvement measures](../topics/quality improvement measures.md)
+- [patient-centered care](../topics/patient-centered care.md)
 
 ## Tags
 
-- [[../tags/arts-in-health]]
-- [[../tags/intervention-design]]
-- [[../tags/healthcare-improvement]]
-- [[../tags/business-models]]
-- [[../tags/stakeholder-engagement]]
-- [[../tags/fxa100]]
+- [arts-in-health](../tags/arts-in-health.md)
+- [intervention-design](../tags/intervention-design.md)
+- [healthcare-improvement](../tags/healthcare-improvement.md)
+- [business-models](../tags/business-models.md)
+- [stakeholder-engagement](../tags/stakeholder-engagement.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/arts-in-health]]
-- [[../topics/healthcare-improvement]]
-- [[../topics/intervention-design]]
+- [arts-in-health](../topics/arts-in-health.md)
+- [healthcare-improvement](../topics/healthcare-improvement.md)
+- [intervention-design](../topics/intervention-design.md)

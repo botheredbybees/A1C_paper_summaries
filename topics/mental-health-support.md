@@ -32,11 +32,11 @@ The integration of various forms of artistic and creative practices as intervent
 
 ## Sources
 
-- [[../sources/fxa202-week06-reflection-on-the-therapeutic-and-artistic-process-of]]
-- [[../sources/fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2)]]
-- [[../sources/fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing]]
-- [[../sources/fxa301-week08-transcript-youtube-i1dnrn0cj20]]
-- [[../sources/fxa303-week03-social-prescribing-roundtable-november-2019-report]]
-- [[../sources/fxa303-week04-play-interventions-for-neurodivergent-children-and]]
-- [[../sources/fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand]]
-- [[../sources/fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon]]
+- [fxa202-week06-reflection-on-the-therapeutic-and-artistic-process-of](../sources/fxa202-week06-reflection-on-the-therapeutic-and-artistic-process-of.md)
+- [fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2)](../sources/fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2).md)
+- [fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing](../sources/fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing.md)
+- [fxa301-week08-transcript-youtube-i1dnrn0cj20](../sources/fxa301-week08-transcript-youtube-i1dnrn0cj20.md)
+- [fxa303-week03-social-prescribing-roundtable-november-2019-report](../sources/fxa303-week03-social-prescribing-roundtable-november-2019-report.md)
+- [fxa303-week04-play-interventions-for-neurodivergent-children-and](../sources/fxa303-week04-play-interventions-for-neurodivergent-children-and.md)
+- [fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand](../sources/fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand.md)
+- [fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon](../sources/fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon.md)

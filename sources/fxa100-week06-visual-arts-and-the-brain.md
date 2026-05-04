@@ -28,26 +28,26 @@ The document also discusses embodied cognition in art appreciation, where mirror
 
 ## Key Concepts
 
-- [[../topics/neuroaesthetics]]
-- [[../topics/functional-magnetic-resonance-imaging-fmri]]
-- [[../topics/mirror-neurons]]
-- [[../topics/empathy-in-art-appreciation]]
+- [neuroaesthetics](../topics/neuroaesthetics.md)
+- [functional-magnetic-resonance-imaging-fmri](../topics/functional-magnetic-resonance-imaging-fmri.md)
+- [mirror-neurons](../topics/mirror-neurons.md)
+- [empathy-in-art-appreciation](../topics/empathy-in-art-appreciation.md)
 
 ## Tags
 
-- [[../tags/neuroaesthetics]]
-- [[../tags/brain-arts-interaction]]
-- [[../tags/dopamine-release]]
-- [[../tags/embodied-cognition]]
-- [[../tags/public-health-through-art]]
-- [[../tags/fxa100]]
+- [neuroaesthetics](../tags/neuroaesthetics.md)
+- [brain-arts-interaction](../tags/brain-arts-interaction.md)
+- [dopamine-release](../tags/dopamine-release.md)
+- [embodied-cognition](../tags/embodied-cognition.md)
+- [public-health-through-art](../tags/public-health-through-art.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
-- [[fMRI]]
+- [case-study](case-study.md)
+- [fMRI](fMRI.md)
 
 ## See Also
 
-- [[../topics/embodied-cognition]]
-- [[../topics/neuroaesthetics]]
+- [embodied-cognition](../topics/embodied-cognition.md)
+- [neuroaesthetics](../topics/neuroaesthetics.md)

@@ -24,26 +24,26 @@ The document focuses on the critical period of early childhood development, emph
 
 ## Key Concepts
 
-- [[../topics/tummy-time]]
-- [[../topics/foundational-learning-abilities]]
-- [[../topics/safe-and-stimulating-environments]]
+- [tummy-time](../topics/tummy-time.md)
+- [foundational-learning-abilities](../topics/foundational-learning-abilities.md)
+- [safe-and-stimulating-environments](../topics/safe-and-stimulating-environments.md)
 
 ## Tags
 
-- [[../tags/early-childhood-development]]
-- [[../tags/brain-plasticity]]
-- [[../tags/play-therapy]]
-- [[../tags/neurodevelopmental-milestones]]
-- [[../tags/cognitive-growth]]
-- [[../tags/fxa303]]
+- [early-childhood-development](../tags/early-childhood-development.md)
+- [brain-plasticity](../tags/brain-plasticity.md)
+- [play-therapy](../tags/play-therapy.md)
+- [neurodevelopmental-milestones](../tags/neurodevelopmental-milestones.md)
+- [cognitive-growth](../tags/cognitive-growth.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/brain-plasticity]]
-- [[../topics/cognitive-growth]]
-- [[../topics/early-childhood-development]]
-- [[../topics/play-therapy]]
+- [brain-plasticity](../topics/brain-plasticity.md)
+- [cognitive-growth](../topics/cognitive-growth.md)
+- [early-childhood-development](../topics/early-childhood-development.md)
+- [play-therapy](../topics/play-therapy.md)

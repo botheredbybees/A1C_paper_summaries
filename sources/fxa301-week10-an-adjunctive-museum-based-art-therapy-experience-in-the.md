@@ -24,20 +24,20 @@ This study examines the feasibility and short-term impact of a museum-based art 
 
 ## Key Concepts
 
-- [[../topics/body-image-concerns]]
-- [[../topics/self-expression]]
-- [[../topics/patient-satisfaction]]
+- [body-image-concerns](../topics/body-image-concerns.md)
+- [self-expression](../topics/self-expression.md)
+- [patient-satisfaction](../topics/patient-satisfaction.md)
 
 ## Tags
 
-- [[../tags/eating-disorders]]
-- [[../tags/art-therapy]]
-- [[../tags/museum-interventions]]
-- [[../tags/fxa301]]
+- [eating-disorders](../tags/eating-disorders.md)
+- [art-therapy](../tags/art-therapy.md)
+- [museum-interventions](../tags/museum-interventions.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 

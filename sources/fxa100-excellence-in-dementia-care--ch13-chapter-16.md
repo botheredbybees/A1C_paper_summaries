@@ -24,15 +24,15 @@ This chapter discusses the complex interplay between behavior and unmet needs in
 
 ## Key Concepts
 
-- [[../topics/Maslow's hierarchy of needs]]
-- [[../topics/Kitwood’s person-centered care model]]
+- [Maslow's hierarchy of needs](../topics/Maslow's hierarchy of needs.md)
+- [Kitwood’s person-centered care model](../topics/Kitwood’s person-centered care model.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/unmet-needs]]
-- [[../tags/psychosocial-approach]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [unmet-needs](../tags/unmet-needs.md)
+- [psychosocial-approach](../tags/psychosocial-approach.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ This chapter discusses the complex interplay between behavior and unmet needs in
 
 ## See Also
 
-- [[../topics/dementia-care]]
+- [dementia-care](../topics/dementia-care.md)

@@ -27,6 +27,6 @@ The investigation of how music influences emotion is a complex field that integr
 
 ## Sources
 
-- [[../sources/fxa301-week02-measuring-music-induced-emotion-a-comparison-of-emotion]]
-- [[../sources/fxa301-week02-relationships-between-musical-structure-and]]
-- [[../sources/fxa301-week02-the-time-course-of-emotional-responses-to-music]]
+- [fxa301-week02-measuring-music-induced-emotion-a-comparison-of-emotion](../sources/fxa301-week02-measuring-music-induced-emotion-a-comparison-of-emotion.md)
+- [fxa301-week02-relationships-between-musical-structure-and](../sources/fxa301-week02-relationships-between-musical-structure-and.md)
+- [fxa301-week02-the-time-course-of-emotional-responses-to-music](../sources/fxa301-week02-the-time-course-of-emotional-responses-to-music.md)

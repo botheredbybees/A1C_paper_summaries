@@ -24,21 +24,21 @@ This study explores the nature of strong experiences of music listening among un
 
 ## Key Concepts
 
-- [[../topics/pleasure]]
-- [[../topics/engagement]]
-- [[../topics/meaning]]
+- [pleasure](../topics/pleasure.md)
+- [engagement](../topics/engagement.md)
+- [meaning](../topics/meaning.md)
 
 ## Tags
 
-- [[../tags/music-experiences]]
-- [[../tags/university-students]]
-- [[../tags/positive-psychology]]
-- [[../tags/fxa301]]
+- [music-experiences](../tags/music-experiences.md)
+- [university-students](../tags/university-students.md)
+- [positive-psychology](../tags/positive-psychology.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[thematic-analysis]]
+- [thematic-analysis](thematic-analysis.md)
 
 ## See Also
 
-- [[../topics/positive-psychology]]
+- [positive-psychology](../topics/positive-psychology.md)

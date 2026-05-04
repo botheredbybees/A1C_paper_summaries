@@ -24,23 +24,23 @@ This video transcript explores how Dr. Oliver Sacks, a renowned neurologist and 
 
 ## Key Concepts
 
-- [[../topics/amygdala-activation]]
-- [[../topics/musical-preference-detection]]
-- [[../topics/cognitive-auditory-processing]]
+- [amygdala-activation](../topics/amygdala-activation.md)
+- [musical-preference-detection](../topics/musical-preference-detection.md)
+- [cognitive-auditory-processing](../topics/cognitive-auditory-processing.md)
 
 ## Tags
 
-- [[../tags/neuroscience-of-music]]
-- [[../tags/brain-function-analysis]]
-- [[../tags/emotional-cognition]]
-- [[../tags/fxa100]]
+- [neuroscience-of-music](../tags/neuroscience-of-music.md)
+- [brain-function-analysis](../tags/brain-function-analysis.md)
+- [emotional-cognition](../tags/emotional-cognition.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[functional-brain-scan]]
-- [[emotional-rating-device]]
+- [functional-brain-scan](functional-brain-scan.md)
+- [emotional-rating-device](emotional-rating-device.md)
 
 ## See Also
 
-- [[../topics/emotional-cognition]]
-- [[../topics/neuroscience-of-music]]
+- [emotional-cognition](../topics/emotional-cognition.md)
+- [neuroscience-of-music](../topics/neuroscience-of-music.md)

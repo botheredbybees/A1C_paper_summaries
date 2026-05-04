@@ -26,5 +26,5 @@ The use of puppetry in therapeutic contexts emerges as a versatile intervention 
 
 ## Sources
 
-- [[../sources/fxa303-week05-week-5-overview-fxa303-creative-arts-play-and-mental]]
-- [[../sources/fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the]]
+- [fxa303-week05-week-5-overview-fxa303-creative-arts-play-and-mental](../sources/fxa303-week05-week-5-overview-fxa303-creative-arts-play-and-mental.md)
+- [fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the](../sources/fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the.md)

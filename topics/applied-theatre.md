@@ -31,10 +31,10 @@ Applied theatre emerges as an intervention that leverages the transformative pow
 
 ## Sources
 
-- [[../sources/fxa100-week09-applied-theatre-problems-and-possibilities]]
-- [[../sources/fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags]]
-- [[../sources/fxa100-week09-lesson-fxa100-week09-page-2-dance-therapy-drama-therapy]]
-- [[../sources/fxa100-week09-transcript-applied-theatre-tdfs-theatre-dictionary-defining]]
-- [[../sources/fxa301-week08-lesson-fxa301-week07-page-1]]
-- [[../sources/fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare]]
-- [[../sources/fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental]]
+- [fxa100-week09-applied-theatre-problems-and-possibilities](../sources/fxa100-week09-applied-theatre-problems-and-possibilities.md)
+- [fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags](../sources/fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags.md)
+- [fxa100-week09-lesson-fxa100-week09-page-2-dance-therapy-drama-therapy](../sources/fxa100-week09-lesson-fxa100-week09-page-2-dance-therapy-drama-therapy.md)
+- [fxa100-week09-transcript-applied-theatre-tdfs-theatre-dictionary-defining](../sources/fxa100-week09-transcript-applied-theatre-tdfs-theatre-dictionary-defining.md)
+- [fxa301-week08-lesson-fxa301-week07-page-1](../sources/fxa301-week08-lesson-fxa301-week07-page-1.md)
+- [fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare](../sources/fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare.md)
+- [fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental](../sources/fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental.md)

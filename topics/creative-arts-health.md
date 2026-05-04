@@ -27,6 +27,6 @@ The integration of creative arts into health interventions presents a multifacet
 
 ## Sources
 
-- [[../sources/fxa100-week03-association-of-music-interventions-with-health-related]]
-- [[../sources/fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas]]
-- [[../sources/fxa301-week08-wisdom-poetry-trialogue]]
+- [fxa100-week03-association-of-music-interventions-with-health-related](../sources/fxa100-week03-association-of-music-interventions-with-health-related.md)
+- [fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas](../sources/fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas.md)
+- [fxa301-week08-wisdom-poetry-trialogue](../sources/fxa301-week08-wisdom-poetry-trialogue.md)

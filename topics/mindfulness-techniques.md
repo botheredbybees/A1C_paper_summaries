@@ -26,5 +26,5 @@ The sources provided explore the application of digital photography as a tool fo
 
 ## Sources
 
-- [[../sources/fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using]]
-- [[../sources/fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay]]
+- [fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using](../sources/fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using.md)
+- [fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay](../sources/fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay.md)

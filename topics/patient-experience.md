@@ -27,6 +27,6 @@ The exploration of various healthcare interventions aimed at enhancing the quali
 
 ## Sources
 
-- [[../sources/fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and]]
-- [[../sources/fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults]]
-- [[../sources/fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent]]
+- [fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and](../sources/fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and.md)
+- [fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults](../sources/fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults.md)
+- [fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent](../sources/fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent.md)

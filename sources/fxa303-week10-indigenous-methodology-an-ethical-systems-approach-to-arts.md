@@ -24,20 +24,20 @@ Michelle Napoli's article discusses the importance of Indigenous methodology in 
 
 ## Key Concepts
 
-- [[../topics/cultural-resilience]]
-- [[../topics/decolonization]]
-- [[../topics/traditional-knowledge]]
+- [cultural-resilience](../topics/cultural-resilience.md)
+- [decolonization](../topics/decolonization.md)
+- [traditional-knowledge](../topics/traditional-knowledge.md)
 
 ## Tags
 
-- [[../tags/indigenous-methodology]]
-- [[../tags/arts-based-therapy]]
-- [[../tags/native-communities]]
-- [[../tags/fxa303]]
+- [indigenous-methodology](../tags/indigenous-methodology.md)
+- [arts-based-therapy](../tags/arts-based-therapy.md)
+- [native-communities](../tags/native-communities.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[ethics-in-research]]
+- **ethics-in-research**
 
 ## See Also
 

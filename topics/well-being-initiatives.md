@@ -26,5 +26,5 @@ The synthesis of sources indicates that arts and cultural initiatives such as he
 
 ## Sources
 
-- [[../sources/fxa301-week03-arts-health-and-well-being-in-america]]
-- [[../sources/fxa301-week05-the-health-and-well-being-potential-of-museums-and-art]]
+- [fxa301-week03-arts-health-and-well-being-in-america](../sources/fxa301-week03-arts-health-and-well-being-in-america.md)
+- [fxa301-week05-the-health-and-well-being-potential-of-museums-and-art](../sources/fxa301-week05-the-health-and-well-being-potential-of-museums-and-art.md)

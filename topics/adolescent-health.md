@@ -27,6 +27,6 @@ This synthesis focuses on the diverse health considerations of adolescent popula
 
 ## Sources
 
-- [[../sources/fxa301-week06-dance-4-your-life-exploring-the-health-and-well-being]]
-- [[../sources/fxa303-week03-adolescent-and-young-adult-health]]
-- [[../sources/fxa303-week03-adolescent-health]]
+- [fxa301-week06-dance-4-your-life-exploring-the-health-and-well-being](../sources/fxa301-week06-dance-4-your-life-exploring-the-health-and-well-being.md)
+- [fxa303-week03-adolescent-and-young-adult-health](../sources/fxa303-week03-adolescent-and-young-adult-health.md)
+- [fxa303-week03-adolescent-health](../sources/fxa303-week03-adolescent-health.md)

@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Facilitator Role
 
-- [[../sources/fxa100-week08-what-are-the-required-elements-needed-to-create-an|What are the Required Elements Needed to Create an Effective Visual Art Intervention for People with Dementia? A Qualitative Exploration]]
+- [What are the Required Elements Needed to Create an Effective Visual Art Intervention for People with Dementia? A Qualitative Exploration](../sources/fxa100-week08-what-are-the-required-elements-needed-to-create-an.md)

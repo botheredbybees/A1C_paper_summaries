@@ -24,27 +24,27 @@ Week 5 of the course focuses on visual storytelling, emphasizing how images can 
 
 ## Key Concepts
 
-- [[../topics/visual narrative]]
-- [[../topics/implied narrative]]
-- [[../topics/visual metaphor]]
+- [visual narrative](../topics/visual narrative.md)
+- [implied narrative](../topics/implied narrative.md)
+- [visual metaphor](../topics/visual metaphor.md)
 
 ## Tags
 
-- [[../tags/visual-storytelling]]
-- [[../tags/image-narrative]]
-- [[../tags/photo-essay]]
-- [[../tags/metaphor-in-art]]
-- [[../tags/caption-writing]]
-- [[../tags/online-learning]]
-- [[../tags/fxa202]]
+- [visual-storytelling](../tags/visual-storytelling.md)
+- [image-narrative](../tags/image-narrative.md)
+- [photo-essay](../tags/photo-essay.md)
+- [metaphor-in-art](../tags/metaphor-in-art.md)
+- [caption-writing](../tags/caption-writing.md)
+- [online-learning](../tags/online-learning.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/caption-writing]]
-- [[../topics/online-learning]]
-- [[../topics/photo-essay]]
-- [[../topics/visual-storytelling]]
+- [caption-writing](../topics/caption-writing.md)
+- [online-learning](../topics/online-learning.md)
+- [photo-essay](../topics/photo-essay.md)
+- [visual-storytelling](../topics/visual-storytelling.md)

@@ -24,15 +24,15 @@ This chapter discusses how technology can serve as a catalyst for creativity amo
 
 ## Key Concepts
 
-- [[../topics/technological facilitation of creativity]]
-- [[../topics/ethical considerations in digital sharing]]
+- [technological facilitation of creativity](../topics/technological facilitation of creativity.md)
+- [ethical considerations in digital sharing](../topics/ethical considerations in digital sharing.md)
 
 ## Tags
 
-- [[../tags/technology-assisted therapy]]
-- [[../tags/dementia care]]
-- [[../tags/creative expression]]
-- [[../tags/fxa100]]
+- [technology-assisted therapy](../tags/technology-assisted therapy.md)
+- [dementia care](../tags/dementia care.md)
+- [creative expression](../tags/creative expression.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ This chapter discusses how technology can serve as a catalyst for creativity amo
 
 ## See Also
 
-- [[../topics/dementia-care]]
+- [dementia-care](../topics/dementia-care.md)

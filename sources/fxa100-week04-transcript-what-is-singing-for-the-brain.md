@@ -24,15 +24,15 @@ The transcript describes 'Singing for the Brain,' a singing group designed to en
 
 ## Key Concepts
 
-- [[../topics/emotional-support]]
-- [[../topics/group-bonding]]
+- [emotional-support](../topics/emotional-support.md)
+- [group-bonding](../topics/group-bonding.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/social-bonding]]
-- [[../tags/music-therapy]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [social-bonding](../tags/social-bonding.md)
+- [music-therapy](../tags/music-therapy.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -40,6 +40,6 @@ The transcript describes 'Singing for the Brain,' a singing group designed to en
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/music-therapy]]
-- [[../topics/social-bonding]]
+- [dementia-care](../topics/dementia-care.md)
+- [music-therapy](../topics/music-therapy.md)
+- [social-bonding](../topics/social-bonding.md)

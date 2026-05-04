@@ -24,22 +24,22 @@ This paper explores the concept of 'play' in dementia care through a humanities-
 
 ## Key Concepts
 
-- [[../topics/homo ludens]]
-- [[../topics/TimeSlips program]]
-- [[../topics/Alzheimer's Poetry Project]]
+- [homo ludens](../topics/homo ludens.md)
+- [TimeSlips program](../topics/TimeSlips program.md)
+- [Alzheimer's Poetry Project](../topics/Alzheimer's Poetry Project.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/play-theory]]
-- [[../tags/humanities-research]]
-- [[../tags/arts-interventions]]
-- [[../tags/lived-experiences]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [play-theory](../tags/play-theory.md)
+- [humanities-research](../tags/humanities-research.md)
+- [arts-interventions](../tags/arts-interventions.md)
+- [lived-experiences](../tags/lived-experiences.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 

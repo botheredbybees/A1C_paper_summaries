@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Lockdown Experiences
 
-- [[../sources/fxa202-week06-winding-paths|Winding paths]]
+- [Winding paths](../sources/fxa202-week06-winding-paths.md)

@@ -24,23 +24,23 @@ This study explores the experiences of working adults participating in regular c
 
 ## Key Concepts
 
-- [[../topics/self-improvement]]
-- [[../topics/sense-of-community]]
-- [[../topics/positive-self-identity]]
-- [[../topics/healing-and-happiness]]
+- [self-improvement](../topics/self-improvement.md)
+- [sense-of-community](../topics/sense-of-community.md)
+- [positive-self-identity](../topics/positive-self-identity.md)
+- [healing-and-happiness](../topics/healing-and-happiness.md)
 
 ## Tags
 
-- [[../tags/working-adults]]
-- [[../tags/choral-activities]]
-- [[../tags/focus-groups]]
-- [[../tags/psychological-wellbeing]]
-- [[../tags/fxa301]]
+- [working-adults](../tags/working-adults.md)
+- [choral-activities](../tags/choral-activities.md)
+- [focus-groups](../tags/focus-groups.md)
+- [psychological-wellbeing](../tags/psychological-wellbeing.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[focus-group-interviews]]
+- [focus-group-interviews](focus-group-interviews.md)
 
 ## See Also
 
-- [[../topics/psychological-wellbeing]]
+- [psychological-wellbeing](../topics/psychological-wellbeing.md)

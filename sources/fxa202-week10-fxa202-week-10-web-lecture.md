@@ -24,15 +24,15 @@ This document is a web lecture for the course 'FXA202 The Photo Essay: Storytell
 
 ## Key Concepts
 
-- [[../topics/linear-storytelling]]
-- [[../topics/non-linear-storytelling]]
+- [linear-storytelling](../topics/linear-storytelling.md)
+- [non-linear-storytelling](../topics/non-linear-storytelling.md)
 
 ## Tags
 
-- [[../tags/photo-essay]]
-- [[../tags/health-communication]]
-- [[../tags/image-storytelling]]
-- [[../tags/fxa202]]
+- [photo-essay](../tags/photo-essay.md)
+- [health-communication](../tags/health-communication.md)
+- [image-storytelling](../tags/image-storytelling.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

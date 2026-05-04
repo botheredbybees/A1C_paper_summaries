@@ -24,15 +24,15 @@ The content discusses the use of music therapy as a therapeutic intervention for
 
 ## Key Concepts
 
-- [[../topics/music-evoked-emotion-response-theory]]
-- [[../topics/cognitive-stimulation-through-music]]
+- [music-evoked-emotion-response-theory](../topics/music-evoked-emotion-response-theory.md)
+- [cognitive-stimulation-through-music](../topics/cognitive-stimulation-through-music.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/dementia-care]]
-- [[../tags/quality-of-life]]
-- [[../tags/fxa100]]
+- [music-therapy](../tags/music-therapy.md)
+- [dementia-care](../tags/dementia-care.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -40,6 +40,6 @@ The content discusses the use of music therapy as a therapeutic intervention for
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/music-therapy]]
-- [[../topics/quality-of-life]]
+- [dementia-care](../topics/dementia-care.md)
+- [music-therapy](../topics/music-therapy.md)
+- [quality-of-life](../topics/quality-of-life.md)

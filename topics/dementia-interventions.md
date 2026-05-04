@@ -27,6 +27,6 @@ The provided sources emphasize the importance of non-pharmacological and person-
 
 ## Sources
 
-- [[../sources/fxa100-week07-im-still-here-a-breakthrough-approach-to-understanding]]
-- [[../sources/fxa100-week09-key-components-of-person-centered-care-for-people-with]]
-- [[../sources/fxa100-week09-key-intervention-categories-to-provide-person-centered]]
+- [fxa100-week07-im-still-here-a-breakthrough-approach-to-understanding](../sources/fxa100-week07-im-still-here-a-breakthrough-approach-to-understanding.md)
+- [fxa100-week09-key-components-of-person-centered-care-for-people-with](../sources/fxa100-week09-key-components-of-person-centered-care-for-people-with.md)
+- [fxa100-week09-key-intervention-categories-to-provide-person-centered](../sources/fxa100-week09-key-intervention-categories-to-provide-person-centered.md)

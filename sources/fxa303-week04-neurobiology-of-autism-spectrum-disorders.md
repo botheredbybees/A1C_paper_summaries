@@ -24,24 +24,24 @@ This book, edited by Abdeslem El Idrissi and Dan McCloskey, delves into the comp
 
 ## Key Concepts
 
-- [[../topics/mitochondrial-dysfunction]]
-- [[../topics/lipid-related-pathophysiology]]
-- [[../topics/dysfunctional-circuit-mechanisms]]
+- [mitochondrial-dysfunction](../topics/mitochondrial-dysfunction.md)
+- [lipid-related-pathophysiology](../topics/lipid-related-pathophysiology.md)
+- [dysfunctional-circuit-mechanisms](../topics/dysfunctional-circuit-mechanisms.md)
 
 ## Tags
 
-- [[../tags/neurodevelopmental-disorders]]
-- [[../tags/genetics-and-neurobiology]]
-- [[../tags/sensory-processing]]
-- [[../tags/environmental-factors]]
-- [[../tags/autism-research]]
-- [[../tags/fxa303]]
+- [neurodevelopmental-disorders](../tags/neurodevelopmental-disorders.md)
+- [genetics-and-neurobiology](../tags/genetics-and-neurobiology.md)
+- [sensory-processing](../tags/sensory-processing.md)
+- [environmental-factors](../tags/environmental-factors.md)
+- [autism-research](../tags/autism-research.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/autism-research]]
-- [[../topics/neurodevelopmental-disorders]]
+- [autism-research](../topics/autism-research.md)
+- [neurodevelopmental-disorders](../topics/neurodevelopmental-disorders.md)

@@ -24,26 +24,26 @@ This article explores the use of arts-informed research methods to understand ch
 
 ## Key Concepts
 
-- [[../topics/role-change]]
-- [[../topics/responsibility-shift]]
-- [[../topics/tacit-knowledge]]
-- [[../topics/symbolic-expression]]
-- [[../topics/marginalized-communities]]
+- [role-change](../topics/role-change.md)
+- [responsibility-shift](../topics/responsibility-shift.md)
+- [tacit-knowledge](../topics/tacit-knowledge.md)
+- [symbolic-expression](../topics/symbolic-expression.md)
+- [marginalized-communities](../topics/marginalized-communities.md)
 
 ## Tags
 
-- [[../tags/arts-informed-research]]
-- [[../tags/refugee-experience]]
-- [[../tags/youth-studies]]
-- [[../tags/migration-effects]]
-- [[../tags/cultural-expression]]
-- [[../tags/community-resilience]]
-- [[../tags/fxa303]]
+- [arts-informed-research](../tags/arts-informed-research.md)
+- [refugee-experience](../tags/refugee-experience.md)
+- [youth-studies](../tags/youth-studies.md)
+- [migration-effects](../tags/migration-effects.md)
+- [cultural-expression](../tags/cultural-expression.md)
+- [community-resilience](../tags/community-resilience.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[arts-informed-research]]
-- [[focus-group-discussions]]
+- **arts-informed-research**
+- **focus-group-discussions**
 
 ## See Also
 

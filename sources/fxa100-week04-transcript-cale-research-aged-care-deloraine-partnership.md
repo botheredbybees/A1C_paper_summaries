@@ -24,17 +24,17 @@ This transcript captures the discussion of a research project aimed at improving
 
 ## Key Concepts
 
-- [[../topics/engagement with the arts]]
-- [[../topics/quality of life improvement]]
+- [engagement with the arts](../topics/engagement with the arts.md)
+- [quality of life improvement](../topics/quality of life improvement.md)
 
 ## Tags
 
-- [[../tags/aged-care]]
-- [[../tags/music-therapy]]
-- [[../tags/research-partnership]]
-- [[../tags/respiratory-function]]
-- [[../tags/well-being]]
-- [[../tags/fxa100]]
+- [aged-care](../tags/aged-care.md)
+- [music-therapy](../tags/music-therapy.md)
+- [research-partnership](../tags/research-partnership.md)
+- [respiratory-function](../tags/respiratory-function.md)
+- [well-being](../tags/well-being.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -42,6 +42,6 @@ This transcript captures the discussion of a research project aimed at improving
 
 ## See Also
 
-- [[../topics/aged-care]]
-- [[../topics/music-therapy]]
-- [[../topics/well-being]]
+- [aged-care](../topics/aged-care.md)
+- [music-therapy](../topics/music-therapy.md)
+- [well-being](../topics/well-being.md)

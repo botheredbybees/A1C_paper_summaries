@@ -24,17 +24,17 @@ This document provides an introductory guide to using the photo editing applicat
 
 ## Key Concepts
 
-- [[../topics/photo editing application]]
-- [[../topics/ease of use and powerful features]]
+- [photo editing application](../topics/photo editing application.md)
+- [ease of use and powerful features](../topics/ease of use and powerful features.md)
 
 ## Tags
 
-- [[../tags/photo-editing]]
-- [[../tags/mobile-apps]]
-- [[../tags/snapseed-guide]]
-- [[../tags/photography-tips]]
-- [[../tags/digital-photography]]
-- [[../tags/fxa202]]
+- [photo-editing](../tags/photo-editing.md)
+- [mobile-apps](../tags/mobile-apps.md)
+- [snapseed-guide](../tags/snapseed-guide.md)
+- [photography-tips](../tags/photography-tips.md)
+- [digital-photography](../tags/digital-photography.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
@@ -42,6 +42,6 @@ This document provides an introductory guide to using the photo editing applicat
 
 ## See Also
 
-- [[../topics/digital-photography]]
-- [[../topics/photo-editing]]
-- [[../topics/photography-tips]]
+- [digital-photography](../topics/digital-photography.md)
+- [photo-editing](../topics/photo-editing.md)
+- [photography-tips](../topics/photography-tips.md)

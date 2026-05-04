@@ -24,24 +24,24 @@ The 'Handbook of Autism and Pervasive Developmental Disorder' is an edited volum
 
 ## Key Concepts
 
-- [[../topics/autism-spectrum-disorder]]
-- [[../topics/psychopathologies-in-asd]]
-- [[../topics/ethical-considerations-in-clinical-practice]]
+- [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)
+- [psychopathologies-in-asd](../topics/psychopathologies-in-asd.md)
+- [ethical-considerations-in-clinical-practice](../topics/ethical-considerations-in-clinical-practice.md)
 
 ## Tags
 
-- [[../tags/autism-assessment]]
-- [[../tags/pervasive-developmental-disorders]]
-- [[../tags/evidence-based-practices]]
-- [[../tags/clinical-diagnosis]]
-- [[../tags/educational-interventions]]
-- [[../tags/fxa303]]
+- [autism-assessment](../tags/autism-assessment.md)
+- [pervasive-developmental-disorders](../tags/pervasive-developmental-disorders.md)
+- [evidence-based-practices](../tags/evidence-based-practices.md)
+- [clinical-diagnosis](../tags/clinical-diagnosis.md)
+- [educational-interventions](../tags/educational-interventions.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic-review]]
-- [[case-study]]
+- [systematic-review](systematic-review.md)
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/evidence-based-practices]]
+- [evidence-based-practices](../topics/evidence-based-practices.md)

@@ -25,5 +25,5 @@ Jesse Silverberg's research on mosh pits provides a unique lens into collective 
 
 ## Sources
 
-- [[../sources/fxa100-week02-moshing-with-physics-jesse-silverberg-tedxyale-video]]
-- [[../sources/fxa100-week02-transcript-moshing-with-physics-jesse-silverberg-tedxyale]]
+- [fxa100-week02-moshing-with-physics-jesse-silverberg-tedxyale-video](../sources/fxa100-week02-moshing-with-physics-jesse-silverberg-tedxyale-video.md)
+- [fxa100-week02-transcript-moshing-with-physics-jesse-silverberg-tedxyale](../sources/fxa100-week02-transcript-moshing-with-physics-jesse-silverberg-tedxyale.md)

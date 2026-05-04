@@ -28,24 +28,24 @@ The video transcript discusses the phenomenon of brain synchronization among mus
 
 ## Key Concepts
 
-- [[../topics/neurosynchronicity]]
-- [[../topics/communal-brain-function]]
-- [[../topics/therapeutic-implications-for-cognitive-disorders]]
+- [neurosynchronicity](../topics/neurosynchronicity.md)
+- [communal-brain-function](../topics/communal-brain-function.md)
+- [therapeutic-implications-for-cognitive-disorders](../topics/therapeutic-implications-for-cognitive-disorders.md)
 
 ## Tags
 
-- [[../tags/brain-synchronization]]
-- [[../tags/musicians-networking]]
-- [[../tags/neurological-research]]
-- [[../tags/music-therapy]]
-- [[../tags/cognitive-disorders]]
-- [[../tags/fxa100]]
+- [brain-synchronization](../tags/brain-synchronization.md)
+- [musicians-networking](../tags/musicians-networking.md)
+- [neurological-research](../tags/neurological-research.md)
+- [music-therapy](../tags/music-therapy.md)
+- [cognitive-disorders](../tags/cognitive-disorders.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/cognitive-disorders]]
-- [[../topics/music-therapy]]
+- [cognitive-disorders](../topics/cognitive-disorders.md)
+- [music-therapy](../topics/music-therapy.md)

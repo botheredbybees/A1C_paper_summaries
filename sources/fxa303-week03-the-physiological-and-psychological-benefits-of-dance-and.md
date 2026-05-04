@@ -24,22 +24,22 @@ This systematic review examines the physiological and psychological benefits of 
 
 ## Key Concepts
 
-- [[../topics/physiological-benefits]]
-- [[../topics/psychological-benefits]]
-- [[../topics/alternative-therapy]]
+- [physiological-benefits](../topics/physiological-benefits.md)
+- [psychological-benefits](../topics/psychological-benefits.md)
+- [alternative-therapy](../topics/alternative-therapy.md)
 
 ## Tags
 
-- [[../tags/dance-benefits]]
-- [[../tags/youth-health]]
-- [[../tags/systematic-review]]
-- [[../tags/fxa303]]
+- [dance-benefits](../tags/dance-benefits.md)
+- [youth-health](../tags/youth-health.md)
+- [systematic-review](../tags/systematic-review.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/systematic-review]]
-- [[../topics/youth-health]]
+- [systematic-review](../topics/systematic-review.md)
+- [youth-health](../topics/youth-health.md)

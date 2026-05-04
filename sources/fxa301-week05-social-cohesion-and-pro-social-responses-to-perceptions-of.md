@@ -24,23 +24,23 @@ The report examines community perceptions of crime in Victoria, Australia, focus
 
 ## Key Concepts
 
-- [[../topics/social_cohesion]]
-- [[../topics/perceived_risk_of_crime]]
-- [[../topics/victimization_consequences]]
+- [social_cohesion](../topics/social_cohesion.md)
+- [perceived_risk_of_crime](../topics/perceived_risk_of_crime.md)
+- [victimization_consequences](../topics/victimization_consequences.md)
 
 ## Tags
 
-- [[../tags/social-cohesion]]
-- [[../tags/community-safety]]
-- [[../tags/crime-perceptions]]
-- [[../tags/pro-social-behaviors]]
-- [[../tags/demographic-impact]]
-- [[../tags/fxa301]]
+- [social-cohesion](../tags/social-cohesion.md)
+- [community-safety](../tags/community-safety.md)
+- [crime-perceptions](../tags/crime-perceptions.md)
+- [pro-social-behaviors](../tags/pro-social-behaviors.md)
+- [demographic-impact](../tags/demographic-impact.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[quantitative_survey]]
+- [quantitative_survey](quantitative_survey.md)
 
 ## See Also
 
-- [[../topics/social-cohesion]]
+- [social-cohesion](../topics/social-cohesion.md)

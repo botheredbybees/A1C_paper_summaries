@@ -28,7 +28,7 @@ The integration of creative practices such as art therapy and journaling into me
 
 ## Sources
 
-- [[../sources/fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia]]
-- [[../sources/fxa202-week09-journaling-books-review]]
-- [[../sources/fxa301-week03-arts-public-health-and-the-national-arts-and-health]]
-- [[../sources/fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the]]
+- [fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia](../sources/fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia.md)
+- [fxa202-week09-journaling-books-review](../sources/fxa202-week09-journaling-books-review.md)
+- [fxa301-week03-arts-public-health-and-the-national-arts-and-health](../sources/fxa301-week03-arts-public-health-and-the-national-arts-and-health.md)
+- [fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the](../sources/fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the.md)

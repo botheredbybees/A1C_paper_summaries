@@ -24,22 +24,22 @@ Lisa Hathaway's photo essay 'WHERE IN THE WORLD' captures the impact of the COVI
 
 ## Key Concepts
 
-- [[../topics/COVID-19 pandemic]]
-- [[../topics/sustainability of tourism industry]]
-- [[../topics/natural environment preservation]]
+- [COVID-19 pandemic](../topics/COVID-19 pandemic.md)
+- [sustainability of tourism industry](../topics/sustainability of tourism industry.md)
+- [natural environment preservation](../topics/natural environment preservation.md)
 
 ## Tags
 
-- [[../tags/coronavirus-lockdown]]
-- [[../tags/global-tourism-impact]]
-- [[../tags/wildlife-conservation]]
-- [[../tags/environmental-change]]
-- [[../tags/economic-repercussions]]
-- [[../tags/fxa202]]
+- [coronavirus-lockdown](../tags/coronavirus-lockdown.md)
+- [global-tourism-impact](../tags/global-tourism-impact.md)
+- [wildlife-conservation](../tags/wildlife-conservation.md)
+- [environmental-change](../tags/environmental-change.md)
+- [economic-repercussions](../tags/economic-repercussions.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[photo essay]]
+- [photo essay](photo essay.md)
 
 ## See Also
 

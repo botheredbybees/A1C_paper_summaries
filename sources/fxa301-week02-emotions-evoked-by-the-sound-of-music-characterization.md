@@ -24,19 +24,19 @@ The article explores the emotional responses elicited by music, aiming to charac
 
 ## Key Concepts
 
-- [[../topics/emotional-responses-to-music]]
-- [[../topics/geneva-emotional-music-scale]]
+- [emotional-responses-to-music](../topics/emotional-responses-to-music.md)
+- [geneva-emotional-music-scale](../topics/geneva-emotional-music-scale.md)
 
 ## Tags
 
-- [[../tags/music-emotions]]
-- [[../tags/emotion-classification]]
-- [[../tags/musical-genres]]
-- [[../tags/fxa301]]
+- [music-emotions](../tags/music-emotions.md)
+- [emotion-classification](../tags/emotion-classification.md)
+- [musical-genres](../tags/musical-genres.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[factor-analysis]]
+- [factor-analysis](factor-analysis.md)
 
 ## See Also
 

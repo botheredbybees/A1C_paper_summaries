@@ -27,6 +27,6 @@ The integration of health interventions aimed at elderly adults highlights both 
 
 ## Sources
 
-- [[../sources/fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia]]
-- [[../sources/fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35]]
-- [[../sources/fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older]]
+- [fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia](../sources/fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia.md)
+- [fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35](../sources/fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35.md)
+- [fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older](../sources/fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older.md)

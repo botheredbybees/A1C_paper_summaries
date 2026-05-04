@@ -32,11 +32,11 @@ The provided sources outline a course on the legal systems that emphasizes visua
 
 ## Sources
 
-- [[../sources/fxa202-week01-lesson-fxa202-week01-page-4]]
-- [[../sources/fxa202-week02-lesson-fxa202-week02-page-4]]
-- [[../sources/fxa202-week02-lesson-fxa202-week02-week-2]]
-- [[../sources/fxa202-week06-lesson-fxa202-week06-page-4]]
-- [[../sources/fxa202-week08-lesson-fxa202-week08-page-4]]
-- [[../sources/fxa202-week08-lesson-fxa202-week08-week-8]]
-- [[../sources/fxa202-week09-lesson-fxa202-week09-page-4]]
-- [[../sources/fxa202-week09-lesson-fxa202-week09-week-9]]
+- [fxa202-week01-lesson-fxa202-week01-page-4](../sources/fxa202-week01-lesson-fxa202-week01-page-4.md)
+- [fxa202-week02-lesson-fxa202-week02-page-4](../sources/fxa202-week02-lesson-fxa202-week02-page-4.md)
+- [fxa202-week02-lesson-fxa202-week02-week-2](../sources/fxa202-week02-lesson-fxa202-week02-week-2.md)
+- [fxa202-week06-lesson-fxa202-week06-page-4](../sources/fxa202-week06-lesson-fxa202-week06-page-4.md)
+- [fxa202-week08-lesson-fxa202-week08-page-4](../sources/fxa202-week08-lesson-fxa202-week08-page-4.md)
+- [fxa202-week08-lesson-fxa202-week08-week-8](../sources/fxa202-week08-lesson-fxa202-week08-week-8.md)
+- [fxa202-week09-lesson-fxa202-week09-page-4](../sources/fxa202-week09-lesson-fxa202-week09-page-4.md)
+- [fxa202-week09-lesson-fxa202-week09-week-9](../sources/fxa202-week09-lesson-fxa202-week09-week-9.md)

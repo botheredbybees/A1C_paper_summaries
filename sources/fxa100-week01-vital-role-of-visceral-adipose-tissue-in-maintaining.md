@@ -24,23 +24,23 @@ The article 'Vital Role of Visceral Adipose Tissue in Maintaining Cognitive Func
 
 ## Key Concepts
 
-- [[../topics/BDNF regulation]]
-- [[../topics/chemokine ligand CX3CL1]]
+- [BDNF regulation](../topics/BDNF regulation.md)
+- [chemokine ligand CX3CL1](../topics/chemokine ligand CX3CL1.md)
 
 ## Tags
 
-- [[../tags/cognitive-functions]]
-- [[../tags/visceral-adipose-tissue]]
-- [[../tags/brain-health]]
-- [[../tags/aging-and-obesity]]
-- [[../tags/neurotrophic-factors]]
-- [[../tags/fxa100]]
+- [cognitive-functions](../tags/cognitive-functions.md)
+- [visceral-adipose-tissue](../tags/visceral-adipose-tissue.md)
+- [brain-health](../tags/brain-health.md)
+- [aging-and-obesity](../tags/aging-and-obesity.md)
+- [neurotrophic-factors](../tags/neurotrophic-factors.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/brain-health]]
-- [[../topics/cognitive-functions]]
+- [brain-health](../topics/brain-health.md)
+- [cognitive-functions](../topics/cognitive-functions.md)

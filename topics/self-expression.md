@@ -32,11 +32,11 @@ The sources collectively emphasize the therapeutic potential of self-expression 
 
 ## Sources
 
-- [[../sources/fxa100-week02-transcript-duration-949]]
-- [[../sources/fxa100-week04-transcript-music-therapy-with-dementia-canadian-music]]
-- [[../sources/fxa100-week06-transcript-art-therapy-has-many-faces]]
-- [[../sources/fxa100-week08-transcript-youtube-cilh21tfqem]]
-- [[../sources/fxa100-week08-transcript-youtube-l3cci-2kwkk]]
-- [[../sources/fxa100-week08-why-the-arts]]
-- [[../sources/fxa202-week09-personal-storytelling-and-memoir-writing]]
-- [[../sources/fxa303-week06-art-therapy-with-puppet-making-to-promote-emotional-empathy]]
+- [fxa100-week02-transcript-duration-949](../sources/fxa100-week02-transcript-duration-949.md)
+- [fxa100-week04-transcript-music-therapy-with-dementia-canadian-music](../sources/fxa100-week04-transcript-music-therapy-with-dementia-canadian-music.md)
+- [fxa100-week06-transcript-art-therapy-has-many-faces](../sources/fxa100-week06-transcript-art-therapy-has-many-faces.md)
+- [fxa100-week08-transcript-youtube-cilh21tfqem](../sources/fxa100-week08-transcript-youtube-cilh21tfqem.md)
+- [fxa100-week08-transcript-youtube-l3cci-2kwkk](../sources/fxa100-week08-transcript-youtube-l3cci-2kwkk.md)
+- [fxa100-week08-why-the-arts](../sources/fxa100-week08-why-the-arts.md)
+- [fxa202-week09-personal-storytelling-and-memoir-writing](../sources/fxa202-week09-personal-storytelling-and-memoir-writing.md)
+- [fxa303-week06-art-therapy-with-puppet-making-to-promote-emotional-empathy](../sources/fxa303-week06-art-therapy-with-puppet-making-to-promote-emotional-empathy.md)

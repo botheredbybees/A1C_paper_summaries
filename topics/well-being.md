@@ -31,10 +31,10 @@ The integration of creative arts as an intervention to improve well-being is a r
 
 ## Sources
 
-- [[../sources/fxa100-week04-transcript-cale-research-aged-care-deloraine-partnership]]
-- [[../sources/fxa301-make-arts-for-a-better-life-ch17-1-for-further-study-on-communication-channels]]
-- [[../sources/fxa301-week03-implementing-creative-health]]
-- [[../sources/fxa301-week03-music-listening-for-supporting-adolescents-sense-of-agency]]
-- [[../sources/fxa301-week05-happy-museum-learning-evaluation-report]]
-- [[../sources/fxa301-week08-the-cultural-value-of-older-peoples-experiences-of-theater]]
-- [[../sources/fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the]]
+- [fxa100-week04-transcript-cale-research-aged-care-deloraine-partnership](../sources/fxa100-week04-transcript-cale-research-aged-care-deloraine-partnership.md)
+- [fxa301-make-arts-for-a-better-life-ch17-1-for-further-study-on-communication-channels](../sources/fxa301-make-arts-for-a-better-life-ch17-1-for-further-study-on-communication-channels.md)
+- [fxa301-week03-implementing-creative-health](../sources/fxa301-week03-implementing-creative-health.md)
+- [fxa301-week03-music-listening-for-supporting-adolescents-sense-of-agency](../sources/fxa301-week03-music-listening-for-supporting-adolescents-sense-of-agency.md)
+- [fxa301-week05-happy-museum-learning-evaluation-report](../sources/fxa301-week05-happy-museum-learning-evaluation-report.md)
+- [fxa301-week08-the-cultural-value-of-older-peoples-experiences-of-theater](../sources/fxa301-week08-the-cultural-value-of-older-peoples-experiences-of-theater.md)
+- [fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the](../sources/fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the.md)

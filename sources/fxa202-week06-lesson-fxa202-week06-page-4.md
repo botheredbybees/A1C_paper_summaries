@@ -24,17 +24,17 @@ The LAW122 Legal Systems course week five activities focus on enhancing caption 
 
 ## Key Concepts
 
-- [[../topics/free-writing]]
-- [[../topics/creative-storytelling]]
-- [[../topics/image-as-prompt]]
+- [free-writing](../topics/free-writing.md)
+- [creative-storytelling](../topics/creative-storytelling.md)
+- [image-as-prompt](../topics/image-as-prompt.md)
 
 ## Tags
 
-- [[../tags/legal-systems]]
-- [[../tags/caption-writing]]
-- [[../tags/narrative-techniques]]
-- [[../tags/photo-essay]]
-- [[../tags/fxa202]]
+- [legal-systems](../tags/legal-systems.md)
+- [caption-writing](../tags/caption-writing.md)
+- [narrative-techniques](../tags/narrative-techniques.md)
+- [photo-essay](../tags/photo-essay.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
@@ -42,6 +42,6 @@ The LAW122 Legal Systems course week five activities focus on enhancing caption 
 
 ## See Also
 
-- [[../topics/caption-writing]]
-- [[../topics/legal-systems]]
-- [[../topics/photo-essay]]
+- [caption-writing](../topics/caption-writing.md)
+- [legal-systems](../topics/legal-systems.md)
+- [photo-essay](../topics/photo-essay.md)

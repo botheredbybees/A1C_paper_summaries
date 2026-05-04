@@ -28,23 +28,23 @@ One example provided is the Massachusetts Cultural Council's CultureRx program, 
 
 ## Key Concepts
 
-- [[../topics/artistic-engagement]]
-- [[../topics/cross-sector-strategies]]
+- [artistic-engagement](../topics/artistic-engagement.md)
+- [cross-sector-strategies](../topics/cross-sector-strategies.md)
 
 ## Tags
 
-- [[../tags/arts-health]]
-- [[../tags/community-wellbeing]]
-- [[../tags/cross-sector-collaboration]]
-- [[../tags/public-health-initiatives]]
-- [[../tags/fxa301]]
+- [arts-health](../tags/arts-health.md)
+- [community-wellbeing](../tags/community-wellbeing.md)
+- [cross-sector-collaboration](../tags/cross-sector-collaboration.md)
+- [public-health-initiatives](../tags/public-health-initiatives.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/arts-health]]
-- [[../topics/community-wellbeing]]
-- [[../topics/public-health-initiatives]]
+- [arts-health](../topics/arts-health.md)
+- [community-wellbeing](../topics/community-wellbeing.md)
+- [public-health-initiatives](../topics/public-health-initiatives.md)

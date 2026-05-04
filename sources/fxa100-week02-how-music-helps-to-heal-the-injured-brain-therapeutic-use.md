@@ -24,23 +24,23 @@ This article discusses how the role of music in therapy has evolved significantl
 
 ## Key Concepts
 
-- [[../topics/neural-plasticity]]
-- [[../topics/rhythmic-auditory-stimulation]]
-- [[../topics/executive-functioning-improvement]]
+- [neural-plasticity](../topics/neural-plasticity.md)
+- [rhythmic-auditory-stimulation](../topics/rhythmic-auditory-stimulation.md)
+- [executive-functioning-improvement](../topics/executive-functioning-improvement.md)
 
 ## Tags
 
-- [[../tags/neuroplasticity-research]]
-- [[../tags/music-therapy-applications]]
-- [[../tags/brain-injury-rehabilitation]]
-- [[../tags/cognitive-neuroscience]]
-- [[../tags/fxa100]]
+- [neuroplasticity-research](../tags/neuroplasticity-research.md)
+- [music-therapy-applications](../tags/music-therapy-applications.md)
+- [brain-injury-rehabilitation](../tags/brain-injury-rehabilitation.md)
+- [cognitive-neuroscience](../tags/cognitive-neuroscience.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[clinical-trials]]
-- [[systematic-review]]
+- [clinical-trials](clinical-trials.md)
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/cognitive-neuroscience]]
+- [cognitive-neuroscience](../topics/cognitive-neuroscience.md)

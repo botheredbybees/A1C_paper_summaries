@@ -24,20 +24,20 @@ The study evaluates the impact of a creative arts psychotherapy program on traum
 
 ## Key Concepts
 
-- [[../topics/posttraumatic-growth]]
-- [[../topics/behavioral-problems]]
-- [[../topics/therapeutic-efficacy]]
+- [posttraumatic-growth](../topics/posttraumatic-growth.md)
+- [behavioral-problems](../topics/behavioral-problems.md)
+- [therapeutic-efficacy](../topics/therapeutic-efficacy.md)
 
 ## Tags
 
-- [[../tags/creative-arts-psychotherapy]]
-- [[../tags/child-trauma-intervention]]
-- [[../tags/posttraumatic-stress-symptoms]]
-- [[../tags/fxa301]]
+- [creative-arts-psychotherapy](../tags/creative-arts-psychotherapy.md)
+- [child-trauma-intervention](../tags/child-trauma-intervention.md)
+- [posttraumatic-stress-symptoms](../tags/posttraumatic-stress-symptoms.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[non-randomized-controlled-trial]]
+- [non-randomized-controlled-trial](non-randomized-controlled-trial.md)
 
 ## See Also
 

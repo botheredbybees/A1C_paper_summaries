@@ -26,5 +26,5 @@ The exploration of memory loss interventions highlights a dual approach involvin
 
 ## Sources
 
-- [[../sources/fxa100-week01-what-is-alzheimers-disease-video-transcript]]
-- [[../sources/fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video]]
+- [fxa100-week01-what-is-alzheimers-disease-video-transcript](../sources/fxa100-week01-what-is-alzheimers-disease-video-transcript.md)
+- [fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video](../sources/fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video.md)

@@ -24,15 +24,15 @@ This lesson in LAW122 focuses on enhancing photo essays through image editing. I
 
 ## Key Concepts
 
-- [[../topics/therapeutic photography]]
-- [[../topics/biophilia hypothesis]]
+- [therapeutic photography](../topics/therapeutic photography.md)
+- [biophilia hypothesis](../topics/biophilia hypothesis.md)
 
 ## Tags
 
-- [[../tags/legal-systems]]
-- [[../tags/image-editing]]
-- [[../tags/photo-essay]]
-- [[../tags/fxa202]]
+- [legal-systems](../tags/legal-systems.md)
+- [image-editing](../tags/image-editing.md)
+- [photo-essay](../tags/photo-essay.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
@@ -40,6 +40,6 @@ This lesson in LAW122 focuses on enhancing photo essays through image editing. I
 
 ## See Also
 
-- [[../topics/image-editing]]
-- [[../topics/legal-systems]]
-- [[../topics/photo-essay]]
+- [image-editing](../topics/image-editing.md)
+- [legal-systems](../topics/legal-systems.md)
+- [photo-essay](../topics/photo-essay.md)

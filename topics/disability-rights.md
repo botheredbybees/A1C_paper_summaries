@@ -26,5 +26,5 @@ The documents explore the intersection between disability rights theory and prac
 
 ## Sources
 
-- [[../sources/fxa301-week09-lesson-fxa301-week09-page-2]]
-- [[../sources/fxa303-week04-exploring-the-critiques-of-the-social-model-of-disability]]
+- [fxa301-week09-lesson-fxa301-week09-page-2](../sources/fxa301-week09-lesson-fxa301-week09-page-2.md)
+- [fxa303-week04-exploring-the-critiques-of-the-social-model-of-disability](../sources/fxa303-week04-exploring-the-critiques-of-the-social-model-of-disability.md)

@@ -24,20 +24,20 @@ This study investigates the effectiveness of online therapeutic clowning as a re
 
 ## Key Concepts
 
-- [[../topics/clown-play]]
-- [[../topics/virtual-healthcare]]
+- [clown-play](../topics/clown-play.md)
+- [virtual-healthcare](../topics/virtual-healthcare.md)
 
 ## Tags
 
-- [[../tags/therapeutic-clowning]]
-- [[../tags/online-therapy]]
-- [[../tags/patient-wellness]]
-- [[../tags/fxa303]]
+- [therapeutic-clowning](../tags/therapeutic-clowning.md)
+- [online-therapy](../tags/online-therapy.md)
+- [patient-wellness](../tags/patient-wellness.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/therapeutic-clowning]]
+- [therapeutic-clowning](../topics/therapeutic-clowning.md)

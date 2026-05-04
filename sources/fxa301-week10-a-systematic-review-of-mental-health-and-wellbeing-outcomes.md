@@ -24,21 +24,21 @@ The paper presents a systematic review of the literature on group singing as an 
 
 ## Key Concepts
 
-- [[../topics/anxiety-reduction]]
-- [[../topics/depression-treatment]]
-- [[../topics/social-support]]
+- [anxiety-reduction](../topics/anxiety-reduction.md)
+- [depression-treatment](../topics/depression-treatment.md)
+- [social-support](../topics/social-support.md)
 
 ## Tags
 
-- [[../tags/mental-health]]
-- [[../tags/group-singing]]
-- [[../tags/wellbeing-outcomes]]
-- [[../tags/systematic-review]]
-- [[../tags/fxa301]]
+- [mental-health](../tags/mental-health.md)
+- [group-singing](../tags/group-singing.md)
+- [wellbeing-outcomes](../tags/wellbeing-outcomes.md)
+- [systematic-review](../tags/systematic-review.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 

@@ -26,5 +26,5 @@ The exploration of identity through both art therapy and Erikson's psychosocial 
 
 ## Sources
 
-- [[../sources/fxa100-week06-transcript-art-therapy-has-many-faces]]
-- [[../sources/fxa303-week02-the-psychosocial-development-theory-of-erik-erikson]]
+- [fxa100-week06-transcript-art-therapy-has-many-faces](../sources/fxa100-week06-transcript-art-therapy-has-many-faces.md)
+- [fxa303-week02-the-psychosocial-development-theory-of-erik-erikson](../sources/fxa303-week02-the-psychosocial-development-theory-of-erik-erikson.md)

@@ -24,25 +24,25 @@ Hilary Davies, an autistic music therapist and researcher, explores the concept 
 
 ## Key Concepts
 
-- [[../topics/neurodiversity-theory]]
-- [[../topics/power-dynamics-in-therapy]]
-- [[../topics/stimming-as-cultural-practice]]
+- [neurodiversity-theory](../topics/neurodiversity-theory.md)
+- [power-dynamics-in-therapy](../topics/power-dynamics-in-therapy.md)
+- [stimming-as-cultural-practice](../topics/stimming-as-cultural-practice.md)
 
 ## Tags
 
-- [[../tags/neurodiversity]]
-- [[../tags/music-therapy]]
-- [[../tags/autism-research]]
-- [[../tags/social-justice]]
-- [[../tags/insider-perspective]]
-- [[../tags/fxa303]]
+- [neurodiversity](../tags/neurodiversity.md)
+- [music-therapy](../tags/music-therapy.md)
+- [autism-research](../tags/autism-research.md)
+- [social-justice](../tags/social-justice.md)
+- [insider-perspective](../tags/insider-perspective.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[qualitative-study]]
+- [qualitative-study](qualitative-study.md)
 
 ## See Also
 
-- [[../topics/autism-research]]
-- [[../topics/music-therapy]]
-- [[../topics/neurodiversity]]
+- [autism-research](../topics/autism-research.md)
+- [music-therapy](../topics/music-therapy.md)
+- [neurodiversity](../topics/neurodiversity.md)

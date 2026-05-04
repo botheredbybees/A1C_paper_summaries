@@ -24,20 +24,20 @@ Marco Martiniello's paper addresses the importance of researching the connection
 
 ## Key Concepts
 
-- [[../topics/international-migration-studies]]
-- [[../topics/multi-disciplinary-approach]]
+- [international-migration-studies](../topics/international-migration-studies.md)
+- [multi-disciplinary-approach](../topics/multi-disciplinary-approach.md)
 
 ## Tags
 
-- [[../tags/migration-studies]]
-- [[../tags/arts-and-culture]]
-- [[../tags/interdisciplinary-research]]
-- [[../tags/cultural-production]]
-- [[../tags/fxa303]]
+- [migration-studies](../tags/migration-studies.md)
+- [arts-and-culture](../tags/arts-and-culture.md)
+- [interdisciplinary-research](../tags/interdisciplinary-research.md)
+- [cultural-production](../tags/cultural-production.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic-review]]
+- **systematic-review**
 
 ## See Also
 

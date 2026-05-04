@@ -24,26 +24,26 @@ The document 'When Words Fade, the Canvas Speaks: Revelations from the Science o
 
 ## Key Concepts
 
-- [[../topics/distributed neural networks]]
-- [[../topics/transmodal creativity]]
-- [[../topics/reward system activation]]
+- [distributed neural networks](../topics/distributed neural networks.md)
+- [transmodal creativity](../topics/transmodal creativity.md)
+- [reward system activation](../topics/reward system activation.md)
 
 ## Tags
 
-- [[../tags/dementia-communication]]
-- [[../tags/neuroaesthetics]]
-- [[../tags/creative-expression]]
-- [[../tags/brain-plasticity]]
-- [[../tags/transmodal-creativity]]
-- [[../tags/visual-art]]
-- [[../tags/fxa100]]
+- [dementia-communication](../tags/dementia-communication.md)
+- [neuroaesthetics](../tags/neuroaesthetics.md)
+- [creative-expression](../tags/creative-expression.md)
+- [brain-plasticity](../tags/brain-plasticity.md)
+- [transmodal-creativity](../tags/transmodal-creativity.md)
+- [visual-art](../tags/visual-art.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/brain-plasticity]]
-- [[../topics/creative-expression]]
-- [[../topics/neuroaesthetics]]
+- [brain-plasticity](../topics/brain-plasticity.md)
+- [creative-expression](../topics/creative-expression.md)
+- [neuroaesthetics](../topics/neuroaesthetics.md)

@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Camera Angles
 
-- [[../sources/fxa202-week02-photography-tips-point-of-view-composition|Photography tips: Point of View Composition]]
+- [Photography tips: Point of View Composition](../sources/fxa202-week02-photography-tips-point-of-view-composition.md)

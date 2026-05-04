@@ -28,7 +28,7 @@ The provided sources collectively explore various aspects of dementia and its fo
 
 ## Sources
 
-- [[../sources/fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms]]
-- [[../sources/fxa100-week01-living-with-dementia-12-what-is-vascular-dementia]]
-- [[../sources/fxa100-week01-transcript-the-science-of-lewy-body-dementia]]
-- [[../sources/fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care]]
+- [fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms](../sources/fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms.md)
+- [fxa100-week01-living-with-dementia-12-what-is-vascular-dementia](../sources/fxa100-week01-living-with-dementia-12-what-is-vascular-dementia.md)
+- [fxa100-week01-transcript-the-science-of-lewy-body-dementia](../sources/fxa100-week01-transcript-the-science-of-lewy-body-dementia.md)
+- [fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care](../sources/fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care.md)

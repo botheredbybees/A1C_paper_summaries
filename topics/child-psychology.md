@@ -37,16 +37,16 @@ Puppet-assisted play therapy emerges as a versatile intervention in child psycho
 
 ## Sources
 
-- [[../sources/fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the]]
-- [[../sources/fxa303-puppet-play-therapy-ch08-6-posture-keep-your-arm-holding-the-puppet-at-a-right-angle]]
-- [[../sources/fxa303-week01-play-therapy-considerations-and-applications-for-the]]
-- [[../sources/fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism]]
-- [[../sources/fxa303-week04-transcript-duration-3-03]]
-- [[../sources/fxa303-week04-transcript-duration-5-04]]
-- [[../sources/fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy]]
-- [[../sources/fxa303-week05-week-5-overview-fxa303-creative-arts-play-and-mental]]
-- [[../sources/fxa303-week06-mr-fox-is-sad]]
-- [[../sources/fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice]]
-- [[../sources/fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for]]
-- [[../sources/fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand]]
-- [[../sources/fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms]]
+- [fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the](../sources/fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the.md)
+- [fxa303-puppet-play-therapy-ch08-6-posture-keep-your-arm-holding-the-puppet-at-a-right-angle](../sources/fxa303-puppet-play-therapy-ch08-6-posture-keep-your-arm-holding-the-puppet-at-a-right-angle.md)
+- [fxa303-week01-play-therapy-considerations-and-applications-for-the](../sources/fxa303-week01-play-therapy-considerations-and-applications-for-the.md)
+- [fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism](../sources/fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism.md)
+- [fxa303-week04-transcript-duration-3-03](../sources/fxa303-week04-transcript-duration-3-03.md)
+- [fxa303-week04-transcript-duration-5-04](../sources/fxa303-week04-transcript-duration-5-04.md)
+- [fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy](../sources/fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy.md)
+- [fxa303-week05-week-5-overview-fxa303-creative-arts-play-and-mental](../sources/fxa303-week05-week-5-overview-fxa303-creative-arts-play-and-mental.md)
+- [fxa303-week06-mr-fox-is-sad](../sources/fxa303-week06-mr-fox-is-sad.md)
+- [fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice](../sources/fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice.md)
+- [fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for](../sources/fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for.md)
+- [fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand](../sources/fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand.md)
+- [fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms](../sources/fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms.md)

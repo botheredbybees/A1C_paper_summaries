@@ -27,6 +27,6 @@ The topic of early childhood development encompasses critical interventions and 
 
 ## Sources
 
-- [[../sources/fxa303-week02-infancy-and-the-early-years]]
-- [[../sources/fxa303-week02-lesson-fxa303-week02-topic-activities-2]]
-- [[../sources/fxa303-week02-scientific-thinking-in-young-children-theoretical-advances]]
+- [fxa303-week02-infancy-and-the-early-years](../sources/fxa303-week02-infancy-and-the-early-years.md)
+- [fxa303-week02-lesson-fxa303-week02-topic-activities-2](../sources/fxa303-week02-lesson-fxa303-week02-topic-activities-2.md)
+- [fxa303-week02-scientific-thinking-in-young-children-theoretical-advances](../sources/fxa303-week02-scientific-thinking-in-young-children-theoretical-advances.md)

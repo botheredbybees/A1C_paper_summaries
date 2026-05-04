@@ -24,23 +24,23 @@ The document discusses the Arts On Prescription project and its collaboration wi
 
 ## Key Concepts
 
-- [[../topics/Arts On Prescription]]
-- [[../topics/Lockdown History Project]]
+- [Arts On Prescription](../topics/Arts On Prescription.md)
+- [Lockdown History Project](../topics/Lockdown History Project.md)
 
 ## Tags
 
-- [[../tags/arts-on-prescription]]
-- [[../tags/covid-19-pandemic]]
-- [[../tags/community-engagement]]
-- [[../tags/creative-expression]]
-- [[../tags/lockdown-history]]
-- [[../tags/fxa303]]
+- [arts-on-prescription](../tags/arts-on-prescription.md)
+- [covid-19-pandemic](../tags/covid-19-pandemic.md)
+- [community-engagement](../tags/community-engagement.md)
+- [creative-expression](../tags/creative-expression.md)
+- [lockdown-history](../tags/lockdown-history.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/arts-on-prescription]]
-- [[../topics/creative-expression]]
+- [arts-on-prescription](../topics/arts-on-prescription.md)
+- [creative-expression](../topics/creative-expression.md)

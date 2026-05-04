@@ -24,28 +24,28 @@ Del Loewenthal's comprehensive book, 'The Handbook of Phototherapy and Therapeut
 
 ## Key Concepts
 
-- [[../topics/phototherapy]]
-- [[../topics/therapeutic photography]]
-- [[../topics/ethics in therapy]]
-- [[../topics/research methodologies]]
-- [[../topics/visual communication]]
+- [phototherapy](../topics/phototherapy.md)
+- [therapeutic photography](../topics/therapeutic photography.md)
+- [ethics in therapy](../topics/ethics in therapy.md)
+- [research methodologies](../topics/research methodologies.md)
+- [visual communication](../topics/visual communication.md)
 
 ## Tags
 
-- [[../tags/phototherapy-methods]]
-- [[../tags/therapeutic-photography]]
-- [[../tags/visual-communication]]
-- [[../tags/psychotherapy-integration]]
-- [[../tags/client-wellbeing]]
-- [[../tags/ethical-considerations]]
-- [[../tags/fxa202]]
+- [phototherapy-methods](../tags/phototherapy-methods.md)
+- [therapeutic-photography](../tags/therapeutic-photography.md)
+- [visual-communication](../tags/visual-communication.md)
+- [psychotherapy-integration](../tags/psychotherapy-integration.md)
+- [client-wellbeing](../tags/client-wellbeing.md)
+- [ethical-considerations](../tags/ethical-considerations.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/ethical-considerations]]
-- [[../topics/therapeutic-photography]]
-- [[../topics/visual-communication]]
+- [ethical-considerations](../topics/ethical-considerations.md)
+- [therapeutic-photography](../topics/therapeutic-photography.md)
+- [visual-communication](../topics/visual-communication.md)

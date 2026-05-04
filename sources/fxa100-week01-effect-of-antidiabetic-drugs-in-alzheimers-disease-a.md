@@ -24,26 +24,26 @@ This review evaluates the impact of antidiabetic drugs on Alzheimer’s disease 
 
 ## Key Concepts
 
-- [[../topics/tau-pathology]]
-- [[../topics/neuronal-health]]
-- [[../topics/oxidative-stress]]
-- [[../topics/insulin-signaling-disruption]]
+- [tau-pathology](../topics/tau-pathology.md)
+- [neuronal-health](../topics/neuronal-health.md)
+- [oxidative-stress](../topics/oxidative-stress.md)
+- [insulin-signaling-disruption](../topics/insulin-signaling-disruption.md)
 
 ## Tags
 
-- [[../tags/alzheimers-disease]]
-- [[../tags/antidiabetic-drugs]]
-- [[../tags/brain-insulin-signaling]]
-- [[../tags/cognitive-decline]]
-- [[../tags/systematic-review]]
-- [[../tags/fxa100]]
+- [alzheimers-disease](../tags/alzheimers-disease.md)
+- [antidiabetic-drugs](../tags/antidiabetic-drugs.md)
+- [brain-insulin-signaling](../tags/brain-insulin-signaling.md)
+- [cognitive-decline](../tags/cognitive-decline.md)
+- [systematic-review](../tags/systematic-review.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/alzheimers-disease]]
-- [[../topics/cognitive-decline]]
-- [[../topics/systematic-review]]
+- [alzheimers-disease](../topics/alzheimers-disease.md)
+- [cognitive-decline](../topics/cognitive-decline.md)
+- [systematic-review](../topics/systematic-review.md)

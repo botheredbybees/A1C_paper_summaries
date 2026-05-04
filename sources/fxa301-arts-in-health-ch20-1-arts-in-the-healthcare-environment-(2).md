@@ -24,16 +24,16 @@ This chapter explores the categorization of arts in health activities and their 
 
 ## Key Concepts
 
-- [[../topics/Arts in health model]]
-- [[../topics/Historical development of arts interventions]]
-- [[../topics/Tailored therapeutic environments]]
+- [Arts in health model](../topics/Arts in health model.md)
+- [Historical development of arts interventions](../topics/Historical development of arts interventions.md)
+- [Tailored therapeutic environments](../topics/Tailored therapeutic environments.md)
 
 ## Tags
 
-- [[../tags/arts-in-health]]
-- [[../tags/healthcare-environment]]
-- [[../tags/participatory-arts]]
-- [[../tags/fxa301]]
+- [arts-in-health](../tags/arts-in-health.md)
+- [healthcare-environment](../tags/healthcare-environment.md)
+- [participatory-arts](../tags/participatory-arts.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,6 +41,6 @@ This chapter explores the categorization of arts in health activities and their 
 
 ## See Also
 
-- [[../topics/arts-in-health]]
-- [[../topics/healthcare-environment]]
-- [[../topics/participatory-arts]]
+- [arts-in-health](../topics/arts-in-health.md)
+- [healthcare-environment](../topics/healthcare-environment.md)
+- [participatory-arts](../topics/participatory-arts.md)

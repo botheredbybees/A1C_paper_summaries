@@ -30,9 +30,9 @@ The integration of creative interventions in dementia care is highlighted across
 
 ## Sources
 
-- [[../sources/fxa100-excellence-in-dementia-care--ch01-chapter-10]]
-- [[../sources/fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care]]
-- [[../sources/fxa100-week04-mindsong-transcript]]
-- [[../sources/fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing]]
-- [[../sources/fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract]]
-- [[../sources/fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice]]
+- [fxa100-excellence-in-dementia-care--ch01-chapter-10](../sources/fxa100-excellence-in-dementia-care--ch01-chapter-10.md)
+- [fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care](../sources/fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care.md)
+- [fxa100-week04-mindsong-transcript](../sources/fxa100-week04-mindsong-transcript.md)
+- [fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing](../sources/fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing.md)
+- [fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract](../sources/fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract.md)
+- [fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice](../sources/fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice.md)

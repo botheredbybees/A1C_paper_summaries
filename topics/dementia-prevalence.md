@@ -29,8 +29,8 @@ The sources collectively underscore the significant global challenge posed by de
 
 ## Sources
 
-- [[../sources/fxa100-excellence-in-dementia-care--ch24-chapter-1]]
-- [[../sources/fxa100-week01-dementia-in-australia]]
-- [[../sources/fxa100-week07-dementia-in-our-mob-and-around-the-world]]
-- [[../sources/fxa100-week07-high-prevalence-of-dementia-and-cognitive-impairment-in]]
-- [[../sources/fxa100-week07-prevalence-of-dementia-in-urban-and-regional-aboriginal]]
+- [fxa100-excellence-in-dementia-care--ch24-chapter-1](../sources/fxa100-excellence-in-dementia-care--ch24-chapter-1.md)
+- [fxa100-week01-dementia-in-australia](../sources/fxa100-week01-dementia-in-australia.md)
+- [fxa100-week07-dementia-in-our-mob-and-around-the-world](../sources/fxa100-week07-dementia-in-our-mob-and-around-the-world.md)
+- [fxa100-week07-high-prevalence-of-dementia-and-cognitive-impairment-in](../sources/fxa100-week07-high-prevalence-of-dementia-and-cognitive-impairment-in.md)
+- [fxa100-week07-prevalence-of-dementia-in-urban-and-regional-aboriginal](../sources/fxa100-week07-prevalence-of-dementia-in-urban-and-regional-aboriginal.md)

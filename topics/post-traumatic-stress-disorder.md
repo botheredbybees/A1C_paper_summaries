@@ -26,5 +26,5 @@ The current treatments for Post-Traumatic Stress Disorder (PTSD) emphasize cogni
 
 ## Sources
 
-- [[../sources/fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and]]
-- [[../sources/fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2)]]
+- [fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and](../sources/fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and.md)
+- [fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2)](../sources/fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2).md)

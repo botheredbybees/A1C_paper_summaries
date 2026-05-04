@@ -24,23 +24,23 @@ The article explores the significance of researching the connections between mig
 
 ## Key Concepts
 
-- [[../topics/multidisciplinary approaches]]
-- [[../topics/visual studies]]
-- [[../topics/participatory arts-based research]]
+- [multidisciplinary approaches](../topics/multidisciplinary approaches.md)
+- [visual studies](../topics/visual studies.md)
+- [participatory arts-based research](../topics/participatory arts-based research.md)
 
 ## Tags
 
-- [[../tags/migration-studies]]
-- [[../tags/arts-and-culture]]
-- [[../tags/transdisciplinary-research]]
-- [[../tags/international-migration]]
-- [[../tags/social-sciences]]
-- [[../tags/fxa303]]
+- [migration-studies](../tags/migration-studies.md)
+- [arts-and-culture](../tags/arts-and-culture.md)
+- [transdisciplinary-research](../tags/transdisciplinary-research.md)
+- [international-migration](../tags/international-migration.md)
+- [social-sciences](../tags/social-sciences.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic review]]
+- **systematic review**
 
 ## See Also
 
-- [[../topics/arts-and-culture]]
+- [arts-and-culture](../topics/arts-and-culture.md)

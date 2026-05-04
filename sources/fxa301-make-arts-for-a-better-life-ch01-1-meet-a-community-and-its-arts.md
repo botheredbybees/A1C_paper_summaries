@@ -24,16 +24,16 @@ This chapter discusses the importance of ethnomusicologists in enhancing communi
 
 ## Key Concepts
 
-- [[../topics/relationship-building]]
-- [[../topics/ethical engagement]]
-- [[../topics/arts-for-social-benefit]]
+- [relationship-building](../topics/relationship-building.md)
+- [ethical engagement](../topics/ethical engagement.md)
+- [arts-for-social-benefit](../topics/arts-for-social-benefit.md)
 
 ## Tags
 
-- [[../tags/ethnomusicology]]
-- [[../tags/community-engagement]]
-- [[../tags/applied-research]]
-- [[../tags/fxa301]]
+- [ethnomusicology](../tags/ethnomusicology.md)
+- [community-engagement](../tags/community-engagement.md)
+- [applied-research](../tags/applied-research.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,4 +41,4 @@ This chapter discusses the importance of ethnomusicologists in enhancing communi
 
 ## See Also
 
-- [[../topics/ethnomusicology]]
+- [ethnomusicology](../topics/ethnomusicology.md)

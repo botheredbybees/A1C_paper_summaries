@@ -26,5 +26,5 @@ The exploration of creative therapies such as photography and play offers unique
 
 ## Sources
 
-- [[../sources/fxa202-week03-can-photography-help-depression]]
-- [[../sources/fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children]]
+- [fxa202-week03-can-photography-help-depression](../sources/fxa202-week03-can-photography-help-depression.md)
+- [fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children](../sources/fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children.md)

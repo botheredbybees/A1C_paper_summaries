@@ -26,5 +26,5 @@ The integration of arts into health and wellbeing strategies is explored in both
 
 ## Sources
 
-- [[../sources/fxa301-week03-how-do-we-realize-the-potential-of-the-arts-to-support]]
-- [[../sources/fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using]]
+- [fxa301-week03-how-do-we-realize-the-potential-of-the-arts-to-support](../sources/fxa301-week03-how-do-we-realize-the-potential-of-the-arts-to-support.md)
+- [fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using](../sources/fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using.md)

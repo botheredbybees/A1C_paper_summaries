@@ -28,21 +28,21 @@ Environmental factors also play a crucial role, increasing risks for unintention
 
 ## Key Concepts
 
-- [[../topics/mental-health-disorders]]
-- [[../topics/communicable-diseases]]
-- [[../topics/environmental-factors]]
+- [mental-health-disorders](../topics/mental-health-disorders.md)
+- [communicable-diseases](../topics/communicable-diseases.md)
+- [environmental-factors](../topics/environmental-factors.md)
 
 ## Tags
 
-- [[../tags/adolescent-health]]
-- [[../tags/young-adults]]
-- [[../tags/global-health-disparities]]
-- [[../tags/fxa303]]
+- [adolescent-health](../tags/adolescent-health.md)
+- [young-adults](../tags/young-adults.md)
+- [global-health-disparities](../tags/global-health-disparities.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/adolescent-health]]
+- [adolescent-health](../topics/adolescent-health.md)

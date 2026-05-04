@@ -25,5 +25,5 @@ The integration of music and dance in community settings serves as a potent inte
 
 ## Sources
 
-- [[../sources/fxa301-week06-lesson-fxa301-week06-page-1]]
-- [[../sources/fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community]]
+- [fxa301-week06-lesson-fxa301-week06-page-1](../sources/fxa301-week06-lesson-fxa301-week06-page-1.md)
+- [fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community](../sources/fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community.md)

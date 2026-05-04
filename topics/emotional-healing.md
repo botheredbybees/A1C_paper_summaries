@@ -28,7 +28,7 @@ The integration of therapeutic modalities such as expressive writing, art therap
 
 ## Sources
 
-- [[../sources/fxa202-week09-expressive-writing-therapy-exercises-examples]]
-- [[../sources/fxa202-week09-healing-through-art-and-music]]
-- [[../sources/fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a]]
-- [[../sources/fxa303-week01-trauma-aps]]
+- [fxa202-week09-expressive-writing-therapy-exercises-examples](../sources/fxa202-week09-expressive-writing-therapy-exercises-examples.md)
+- [fxa202-week09-healing-through-art-and-music](../sources/fxa202-week09-healing-through-art-and-music.md)
+- [fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a](../sources/fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a.md)
+- [fxa303-week01-trauma-aps](../sources/fxa303-week01-trauma-aps.md)

@@ -32,23 +32,23 @@ Overall, the document underscores how creative arts and play offer substantial b
 
 ## Key Concepts
 
-- [[../topics/Erikson's stages of psychosocial development]]
-- [[../topics/Piaget's theory of cognitive development]]
-- [[../topics/Vygotsky's social constructivism]]
+- [Erikson's stages of psychosocial development](../topics/Erikson's stages of psychosocial development.md)
+- [Piaget's theory of cognitive development](../topics/Piaget's theory of cognitive development.md)
+- [Vygotsky's social constructivism](../topics/Vygotsky's social constructivism.md)
 
 ## Tags
 
-- [[../tags/child-development-theories]]
-- [[../tags/play-therory]]
-- [[../tags/creative-arts-interventions]]
-- [[../tags/brain-neuroplasticity]]
-- [[../tags/emotional-regulation-strategies]]
-- [[../tags/fxa303]]
+- [child-development-theories](../tags/child-development-theories.md)
+- [play-therory](../tags/play-therory.md)
+- [creative-arts-interventions](../tags/creative-arts-interventions.md)
+- [brain-neuroplasticity](../tags/brain-neuroplasticity.md)
+- [emotional-regulation-strategies](../tags/emotional-regulation-strategies.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[literature-review]]
+- [literature-review](literature-review.md)
 
 ## See Also
 
-- [[../topics/creative-arts-interventions]]
+- [creative-arts-interventions](../topics/creative-arts-interventions.md)

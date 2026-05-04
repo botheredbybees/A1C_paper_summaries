@@ -27,6 +27,6 @@ The concept of storytelling is explored across various domains in the provided s
 
 ## Sources
 
-- [[../sources/fxa202-week09-lesson-fxa202-week09-page-4]]
-- [[../sources/fxa301-week08-transcript-youtube-channel-school-of-education-and]]
-- [[../sources/fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods]]
+- [fxa202-week09-lesson-fxa202-week09-page-4](../sources/fxa202-week09-lesson-fxa202-week09-page-4.md)
+- [fxa301-week08-transcript-youtube-channel-school-of-education-and](../sources/fxa301-week08-transcript-youtube-channel-school-of-education-and.md)
+- [fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods](../sources/fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods.md)

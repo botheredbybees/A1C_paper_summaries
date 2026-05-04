@@ -24,20 +24,20 @@ This paper presents the protocol for a scoping review aimed at exploring arts th
 
 ## Key Concepts
 
-- [[../topics/art-therapy]]
-- [[../topics/eating-disorders]]
-- [[../topics/therapeutic-outcomes]]
+- [art-therapy](../topics/art-therapy.md)
+- [eating-disorders](../topics/eating-disorders.md)
+- [therapeutic-outcomes](../topics/therapeutic-outcomes.md)
 
 ## Tags
 
-- [[../tags/arts-therapy-interventions]]
-- [[../tags/eating-disorders-treatment]]
-- [[../tags/scoping-review]]
-- [[../tags/fxa301]]
+- [arts-therapy-interventions](../tags/arts-therapy-interventions.md)
+- [eating-disorders-treatment](../tags/eating-disorders-treatment.md)
+- [scoping-review](../tags/scoping-review.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[scoping-review]]
+- [scoping-review](scoping-review.md)
 
 ## See Also
 

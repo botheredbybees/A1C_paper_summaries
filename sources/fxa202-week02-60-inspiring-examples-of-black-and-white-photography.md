@@ -24,15 +24,15 @@ The document '60 Inspiring Examples of Black and White Photography' by Steph Nel
 
 ## Key Concepts
 
-- [[../topics/contrast-enhancement]]
-- [[../topics/texture-emphasis]]
+- [contrast-enhancement](../topics/contrast-enhancement.md)
+- [texture-emphasis](../topics/texture-emphasis.md)
 
 ## Tags
 
-- [[../tags/black-and-white-photography]]
-- [[../tags/visual-storytelling]]
-- [[../tags/light-shadow-use]]
-- [[../tags/fxa202]]
+- [black-and-white-photography](../tags/black-and-white-photography.md)
+- [visual-storytelling](../tags/visual-storytelling.md)
+- [light-shadow-use](../tags/light-shadow-use.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ The document '60 Inspiring Examples of Black and White Photography' by Steph Nel
 
 ## See Also
 
-- [[../topics/visual-storytelling]]
+- [visual-storytelling](../topics/visual-storytelling.md)

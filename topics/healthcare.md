@@ -26,5 +26,5 @@ The integration of arts into healthcare interventions demonstrates a multi-facet
 
 ## Sources
 
-- [[../sources/fxa301-arts-in-health-ch44-1-the-artist-(2)]]
-- [[../sources/fxa303-week08-transcript-15-may-2012]]
+- [fxa301-arts-in-health-ch44-1-the-artist-(2)](../sources/fxa301-arts-in-health-ch44-1-the-artist-(2).md)
+- [fxa303-week08-transcript-15-may-2012](../sources/fxa303-week08-transcript-15-may-2012.md)

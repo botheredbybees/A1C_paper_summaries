@@ -24,16 +24,16 @@ The document provides guidelines for maintaining a journal in the context of cre
 
 ## Key Concepts
 
-- [[../topics/journaling]]
-- [[../topics/critical-thinking]]
-- [[../topics/divergent-thinking]]
+- [journaling](../topics/journaling.md)
+- [critical-thinking](../topics/critical-thinking.md)
+- [divergent-thinking](../topics/divergent-thinking.md)
 
 ## Tags
 
-- [[../tags/creative-arts]]
-- [[../tags/professional-development]]
-- [[../tags/visual-research]]
-- [[../tags/fxa202]]
+- [creative-arts](../tags/creative-arts.md)
+- [professional-development](../tags/professional-development.md)
+- [visual-research](../tags/visual-research.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ The document provides guidelines for maintaining a journal in the context of cre
 
 ## See Also
 
-- [[../topics/creative-arts]]
-- [[../topics/professional-development]]
+- [creative-arts](../topics/creative-arts.md)
+- [professional-development](../topics/professional-development.md)

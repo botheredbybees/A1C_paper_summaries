@@ -6,95 +6,95 @@ updated: 2026-05-04
 
 ## Music Therapy
 
-- [[../sources/fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care|Activities for Week 2 - FXA100 The Arts and Dementia Care]]
-- [[../sources/fxa100-week02-are-the-brains-of-musicians-physically-different|Are the Brains of Musicians Physically Different?]]
-- [[../sources/fxa100-week02-brain-networking-among-musicians|Brain Networking among Musicians]]
-- [[../sources/fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there|Daniel Levitin Explores Music as Medicine in \u201cI Heard There Was a Secret Chord\u201d \u2013 Video transcript]]
-- [[../sources/fxa100-week02-music-and-the-damaged-brain|Music and the Damaged Brain]]
-- [[../sources/fxa100-week02-neuroplastic-effects-in-patients-with-traumatic-brain|Neuroplastic Effects in Patients With Traumatic Brain Injury After Music-Supported Therapy]]
-- [[../sources/fxa100-week02-playing-a-musical-instrument-as-a-protective-factor-against|Playing a Musical Instrument as a Protective Factor against Dementia and Cognitive Impairment: A Population-Based Twin Study]]
-- [[../sources/fxa100-week02-the-power-of-music|The power of music]]
-- [[../sources/fxa100-week02-web-article-thaut-2010|How Music Helps to Heal the Injured Brain]]
-- [[../sources/fxa100-week03-alzheimers-disease-music-engagement-quality-of-life|Alzheimer\u2019s Disease & Music Engagement: Quality of Life Economic Impact Analysis]]
-- [[../sources/fxa100-week03-an-individualized-music-based-intervention-for-acute|An Individualized Music-Based Intervention for Acute Neuropsychiatric Symptoms in Hospitalized Older Adults With Cognitive Impairment: A Prospective, Controlled, Nonrandomized Trial]]
-- [[../sources/fxa100-week03-evaluation-of-the-music-and-memory-program-among-nursing|Evaluation of the Music and Memory Program among Nursing Home Residents with Dementia]]
-- [[../sources/fxa100-week03-final-report-wisconsin-music-memory-program-student|Final Report: Wisconsin Music & Memory Program \u2013 Student Volunteer Program]]
-- [[../sources/fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind|How music opens the doors of memory and the mind]]
-- [[../sources/fxa100-week03-implementation-survey-results-phase-iii-music-memory-program|Implementation Survey Results - Phase III Music & Memory Program]]
-- [[../sources/fxa100-week03-implementation-survey-results-wisconsin-music-memory-program|Implementation Survey Results - Wisconsin Music & Memory Program]]
-- [[../sources/fxa100-week03-introduction-to-week-3-listening-to-music|Introduction to Week 3: Listening to Music]]
-- [[../sources/fxa100-week03-lesson-fxa100-week03-page-1-welcome-to-week-3|Listening to Music - Week 3 Introduction]]
-- [[../sources/fxa100-week03-lesson-fxa100-week03-page-2-listening-and-dementia-care|Listening-based Interventions in Dementia Care]]
-- [[../sources/fxa100-week03-lesson-fxa100-week03-page-4-week-3-activities1|FXA100 The Arts and Dementia Care - Week 3 Activities]]
-- [[../sources/fxa100-week03-listening-and-dementia-care|Listening and Dementia Care]]
-- [[../sources/fxa100-week03-music-therapy-for-depression-it-seems-to-work-but-how|Music therapy for depression: it seems to work, but how?]]
-- [[../sources/fxa100-week03-music-therapy-increases-social-and-emotional-well-being-in|Music Therapy Increases Social and Emotional Well-Being in Persons With Dementia: A Randomized Clinical Crossover Trial Comparing Singing to Verbal Discussion]]
-- [[../sources/fxa100-week03-pearl-85-and-living-with-dementia-adds-another-string-to|Pearl, 85 and Living with Dementia, Adds Another String to Her Bow]]
-- [[../sources/fxa100-week03-personalized-music-for-persons-with-dementia-and-their-life|Personalized Music for Persons with Dementia and Their Life Quality: Report on a Pilot Study of In-Home Use]]
-- [[../sources/fxa100-week03-telling-me-not-to-worry-hyperscanning-and-neural-dynamics|\u201cTelling me not to worry\u2026\u201d Hyperscanning and Neural Dynamics of Emotion Processing During Guided Imagery and Music]]
-- [[../sources/fxa100-week03-the-power-of-music|The Power of Music]]
-- [[../sources/fxa100-week03-the-power-of-music-and-dementia|The Power of Music and Dementia]]
-- [[../sources/fxa100-week03-transcript-interview-with-alexa-transcript|Music Therapy for Dementia Care]]
-- [[../sources/fxa100-week03-transcript-music-memory-the-ipod-project|Music & Memory: The iPod Project]]
-- [[../sources/fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care|Week 3 Activities - FXA100 The Arts and Dementia Care]]
-- [[../sources/fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care|Week 3 Lecture: Listening to Music in Dementia Care]]
-- [[../sources/fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care|Welcome to Week 3 - FXA100 The Arts and Dementia Care]]
-- [[../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for|Embedding Music and Music Therapy in Care Pathways for People with Dementia in the 21st Century\u2014a Position Paper]]
-- [[../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-(2)|Embedding Music and Music Therapy in Care Pathways for People with Dementia in the 21st Century]]
-- [[../sources/fxa100-week04-intergenerational-choir-transcript|Intergenerational Choir Transcript]]
-- [[../sources/fxa100-week04-lesson-fxa100-week04-page-1-welcome-to-week-4|FXA100 The Arts and Dementia Care - Week 4: Participation and Singing]]
-- [[../sources/fxa100-week04-lesson-fxa100-week04-page-2-music-therapy-benefits|Music Therapy Benefits for Dementia Care]]
-- [[../sources/fxa100-week04-lesson-fxa100-week04-page-3-singing|Singing and the Brain in Dementia Care]]
-- [[../sources/fxa100-week04-mindsong-transcript|Mindsong \u2013 transcript]]
-- [[../sources/fxa100-week04-music-as-therapy-and-health-promotion|Music as Therapy and Health Promotion]]
-- [[../sources/fxa100-week04-music-therapy-and-dementia-video-transcript|Music Therapy and Dementia video - transcript]]
-- [[../sources/fxa100-week04-music-therapy-and-music-assisted-caregiving-for-dementia|Music Therapy and Music-Assisted Caregiving for Dementia Patients]]
-- [[../sources/fxa100-week04-music-therapy-benefits-fxa100-the-arts-and-dementia-care|Music Therapy Benefits - FXA100 The Arts and Dementia Care]]
-- [[../sources/fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees|Music Therapy comforts, soothes those with varying degrees of dementia]]
-- [[../sources/fxa100-week04-music-therapy-disability-evidence-summary-2024|Music Therapy Disability Evidence Summary 2024]]
-- [[../sources/fxa100-week04-music-therapy-flyer|Music Therapy Flyer]]
-- [[../sources/fxa100-week04-music-therapy-promotes-mental-health-in-schools|Music Therapy Promotes Mental Health in Schools]]
-- [[../sources/fxa100-week04-research-in-aged-care-deloraine-partnership-transcript|Research In Aged Care Deloraine partnership - transcript]]
-- [[../sources/fxa100-week04-singing-and-participation|Singing and Participation]]
-- [[../sources/fxa100-week04-singing-and-the-brain|Singing and the Brain]]
-- [[../sources/fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients|Singing boosts brain activity in Alzheimer\u2019s patients, scientists say]]
-- [[../sources/fxa100-week04-singing-for-better-breathing-transcript|Singing for Better Breathing - Transcript]]
-- [[../sources/fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the|'Singing for the Brain': A Qualitative Study Exploring the Health and Well-being Benefits of Singing for People with Dementia and Their Carers]]
-- [[../sources/fxa100-week04-the-day-the-music-died|The Day the Music Died]]
-- [[../sources/fxa100-week04-the-effect-of-music-therapy-compared-with-general|The effect of music therapy compared with general recreational activities in reducing agitation in people with dementia: a randomised controlled trial]]
-- [[../sources/fxa100-week04-the-effect-of-singing-on-alert-responses-in-persons-with|The Effect of Singing on Alert Responses in Persons with Late Stage Dementia]]
-- [[../sources/fxa100-week04-the-impact-of-caregivers-singing-on-expressions-of-emotion|The impact of caregivers' singing on expressions of emotion and resistance during morning care situations in persons with dementia]]
-- [[../sources/fxa100-week04-the-ripple-effect-towards-researching-improvisational-music|The \u2018ripple effect\u2019: Towards researching improvisational music therapy in dementia care homes]]
-- [[../sources/fxa100-week04-the-role-function-and-identity-of-music-therapists-in-the|The role, function and identity of music therapists in the 21st century]]
-- [[../sources/fxa100-week04-the-singers-breath-implications-for-treatment-of-persons|The Singer's Breath: Implications for Treatment of Persons with Emphysema]]
-- [[../sources/fxa100-week04-transcript-cale-research-aged-care-deloraine-partnership|CALE Research Aged Care Deloraine Partnership - University of Tasmania]]
-- [[../sources/fxa100-week04-transcript-mind-song-music-for-dementia|Mind Song Music for Dementia]]
-- [[../sources/fxa100-week04-transcript-music-therapy-and-people-with-advanced-dementia|Music Therapy and People with Advanced Dementia]]
-- [[../sources/fxa100-week04-transcript-music-therapy-comforts-soothes-those-with-varying|Music Therapy for Individuals with Dementia]]
-- [[../sources/fxa100-week04-transcript-music-therapy-with-dementia-canadian-music|Transcript: Music Therapy with Dementia]]
-- [[../sources/fxa100-week04-transcript-what-is-singing-for-the-brain|Transcript: What is Singing for the Brain?]]
-- [[../sources/fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care|Welcome to Week 4 - FXA100 The Arts and Dementia Care]]
-- [[../sources/fxa100-week04-what-is-music-health-and-wellbeing|What is Music, Health, and Wellbeing?]]
-- [[../sources/fxa100-week06-test-paper-title|Test Paper Title]]
-- [[../sources/fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the|Arts in Health: Designing and researching interventions - Neurology]]
-- [[../sources/fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music|Projects Using Music for Social, Health and Economic Issues]]
-- [[../sources/fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26|The value of music for public health]]
-- [[../sources/fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and|Bringing Music to Life: a Study of Music Therapy and Palliative Care Experiences in a Cancer Hospital]]
-- [[../sources/fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing|Case Studies of Music and Dance for Health and Wellbeing]]
-- [[../sources/fxa301-week06-engaging-with-music-and-dance|Engaging with Music and Dance]]
-- [[../sources/fxa301-week06-further-evidence-that-singing-fosters-mental-health-and|Further evidence that singing fosters mental health and wellbeing: the West Kent and Medway project]]
-- [[../sources/fxa301-week06-music-and-medicine|Music and Medicine]]
-- [[../sources/fxa301-week06-song-of-life-sol-study-protocol-a-multicenter-randomized|\"Song of Life (SOL)\" study protocol: a multicenter, randomized trial on the emotional, spiritual, and psychobiological effects of music therapy in palliative care]]
-- [[../sources/fxa301-week06-the-dance-of-wellbeing-defining-the-musical-therapeutic|The Dance of Wellbeing: Defining the Musical Therapeutic Effect]]
-- [[../sources/fxa301-week09-stroke-choirs-stroke-recovery-association-nsw|Stroke Choirs | Stroke Recovery Association NSW]]
-- [[../sources/fxa301-week10-lesson-fxa301-week10-page-4-week-3-activities|Activities for Week 10: FXA301 Arts in the Community]]
-- [[../sources/fxa301-week10-transcript-your-tube-standard-licence|Your Tube Standard Licence - Choir of Hard Knocks]]
-- [[../sources/fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam|Music and Mental Health Practice]]
-- [[../sources/fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on|'Autism is a way of being': An \u2018insider perspective\u2019 on neurodiversity, music therapy and social justice]]
-- [[../sources/fxa303-week04-community-services-the-music-therapy-center-of-california|Community Services \u2013 The Music Therapy Center of California]]
-- [[../sources/fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism|Effectiveness of music therapy for children with autism spectrum disorder: meta-analysis and potential biological mechanisms]]
-- [[../sources/fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism|Effectiveness of music therapy in children with autism spectrum disorder: A systematic review and meta-analysis]]
-- [[../sources/fxa303-week04-lesson-fxa303-week04-week-4-activities|FXA303 Creative Arts, Play and Mental Wellbeing - Week 4 Activities]]
-- [[../sources/fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder|Music Therapy for Children With Autistic Spectrum Disorder and/or Other Neurodevelopmental Disorders: A Systematic Review]]
-- [[../sources/fxa303-week04-transcript-duration-34-19|Music Therapy Sessions: Non-Verbal Communication]]
-- [[../sources/fxa303-week04-week-4-activities-neurodiversity-arts-and-play|Week 4 Activities - Neurodiversity, arts and play]]
+- [Activities for Week 2 - FXA100 The Arts and Dementia Care](../sources/fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care.md)
+- [Are the Brains of Musicians Physically Different?](../sources/fxa100-week02-are-the-brains-of-musicians-physically-different.md)
+- [Brain Networking among Musicians](../sources/fxa100-week02-brain-networking-among-musicians.md)
+- [Daniel Levitin Explores Music as Medicine in \u201cI Heard There Was a Secret Chord\u201d \u2013 Video transcript](../sources/fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there.md)
+- [Music and the Damaged Brain](../sources/fxa100-week02-music-and-the-damaged-brain.md)
+- [Neuroplastic Effects in Patients With Traumatic Brain Injury After Music-Supported Therapy](../sources/fxa100-week02-neuroplastic-effects-in-patients-with-traumatic-brain.md)
+- [Playing a Musical Instrument as a Protective Factor against Dementia and Cognitive Impairment: A Population-Based Twin Study](../sources/fxa100-week02-playing-a-musical-instrument-as-a-protective-factor-against.md)
+- [The power of music](../sources/fxa100-week02-the-power-of-music.md)
+- [How Music Helps to Heal the Injured Brain](../sources/fxa100-week02-web-article-thaut-2010.md)
+- [Alzheimer\u2019s Disease & Music Engagement: Quality of Life Economic Impact Analysis](../sources/fxa100-week03-alzheimers-disease-music-engagement-quality-of-life.md)
+- [An Individualized Music-Based Intervention for Acute Neuropsychiatric Symptoms in Hospitalized Older Adults With Cognitive Impairment: A Prospective, Controlled, Nonrandomized Trial](../sources/fxa100-week03-an-individualized-music-based-intervention-for-acute.md)
+- [Evaluation of the Music and Memory Program among Nursing Home Residents with Dementia](../sources/fxa100-week03-evaluation-of-the-music-and-memory-program-among-nursing.md)
+- [Final Report: Wisconsin Music & Memory Program \u2013 Student Volunteer Program](../sources/fxa100-week03-final-report-wisconsin-music-memory-program-student.md)
+- [How music opens the doors of memory and the mind](../sources/fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind.md)
+- [Implementation Survey Results - Phase III Music & Memory Program](../sources/fxa100-week03-implementation-survey-results-phase-iii-music-memory-program.md)
+- [Implementation Survey Results - Wisconsin Music & Memory Program](../sources/fxa100-week03-implementation-survey-results-wisconsin-music-memory-program.md)
+- [Introduction to Week 3: Listening to Music](../sources/fxa100-week03-introduction-to-week-3-listening-to-music.md)
+- [Listening to Music - Week 3 Introduction](../sources/fxa100-week03-lesson-fxa100-week03-page-1-welcome-to-week-3.md)
+- [Listening-based Interventions in Dementia Care](../sources/fxa100-week03-lesson-fxa100-week03-page-2-listening-and-dementia-care.md)
+- [FXA100 The Arts and Dementia Care - Week 3 Activities](../sources/fxa100-week03-lesson-fxa100-week03-page-4-week-3-activities1.md)
+- [Listening and Dementia Care](../sources/fxa100-week03-listening-and-dementia-care.md)
+- [Music therapy for depression: it seems to work, but how?](../sources/fxa100-week03-music-therapy-for-depression-it-seems-to-work-but-how.md)
+- [Music Therapy Increases Social and Emotional Well-Being in Persons With Dementia: A Randomized Clinical Crossover Trial Comparing Singing to Verbal Discussion](../sources/fxa100-week03-music-therapy-increases-social-and-emotional-well-being-in.md)
+- [Pearl, 85 and Living with Dementia, Adds Another String to Her Bow](../sources/fxa100-week03-pearl-85-and-living-with-dementia-adds-another-string-to.md)
+- [Personalized Music for Persons with Dementia and Their Life Quality: Report on a Pilot Study of In-Home Use](../sources/fxa100-week03-personalized-music-for-persons-with-dementia-and-their-life.md)
+- [\u201cTelling me not to worry\u2026\u201d Hyperscanning and Neural Dynamics of Emotion Processing During Guided Imagery and Music](../sources/fxa100-week03-telling-me-not-to-worry-hyperscanning-and-neural-dynamics.md)
+- [The Power of Music](../sources/fxa100-week03-the-power-of-music.md)
+- [The Power of Music and Dementia](../sources/fxa100-week03-the-power-of-music-and-dementia.md)
+- [Music Therapy for Dementia Care](../sources/fxa100-week03-transcript-interview-with-alexa-transcript.md)
+- [Music & Memory: The iPod Project](../sources/fxa100-week03-transcript-music-memory-the-ipod-project.md)
+- [Week 3 Activities - FXA100 The Arts and Dementia Care](../sources/fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care.md)
+- [Week 3 Lecture: Listening to Music in Dementia Care](../sources/fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care.md)
+- [Welcome to Week 3 - FXA100 The Arts and Dementia Care](../sources/fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care.md)
+- [Embedding Music and Music Therapy in Care Pathways for People with Dementia in the 21st Century\u2014a Position Paper](../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for.md)
+- [Embedding Music and Music Therapy in Care Pathways for People with Dementia in the 21st Century](../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-(2).md)
+- [Intergenerational Choir Transcript](../sources/fxa100-week04-intergenerational-choir-transcript.md)
+- [FXA100 The Arts and Dementia Care - Week 4: Participation and Singing](../sources/fxa100-week04-lesson-fxa100-week04-page-1-welcome-to-week-4.md)
+- [Music Therapy Benefits for Dementia Care](../sources/fxa100-week04-lesson-fxa100-week04-page-2-music-therapy-benefits.md)
+- [Singing and the Brain in Dementia Care](../sources/fxa100-week04-lesson-fxa100-week04-page-3-singing.md)
+- [Mindsong \u2013 transcript](../sources/fxa100-week04-mindsong-transcript.md)
+- [Music as Therapy and Health Promotion](../sources/fxa100-week04-music-as-therapy-and-health-promotion.md)
+- [Music Therapy and Dementia video - transcript](../sources/fxa100-week04-music-therapy-and-dementia-video-transcript.md)
+- [Music Therapy and Music-Assisted Caregiving for Dementia Patients](../sources/fxa100-week04-music-therapy-and-music-assisted-caregiving-for-dementia.md)
+- [Music Therapy Benefits - FXA100 The Arts and Dementia Care](../sources/fxa100-week04-music-therapy-benefits-fxa100-the-arts-and-dementia-care.md)
+- [Music Therapy comforts, soothes those with varying degrees of dementia](../sources/fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees.md)
+- [Music Therapy Disability Evidence Summary 2024](../sources/fxa100-week04-music-therapy-disability-evidence-summary-2024.md)
+- [Music Therapy Flyer](../sources/fxa100-week04-music-therapy-flyer.md)
+- [Music Therapy Promotes Mental Health in Schools](../sources/fxa100-week04-music-therapy-promotes-mental-health-in-schools.md)
+- [Research In Aged Care Deloraine partnership - transcript](../sources/fxa100-week04-research-in-aged-care-deloraine-partnership-transcript.md)
+- [Singing and Participation](../sources/fxa100-week04-singing-and-participation.md)
+- [Singing and the Brain](../sources/fxa100-week04-singing-and-the-brain.md)
+- [Singing boosts brain activity in Alzheimer\u2019s patients, scientists say](../sources/fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients.md)
+- [Singing for Better Breathing - Transcript](../sources/fxa100-week04-singing-for-better-breathing-transcript.md)
+- ['Singing for the Brain': A Qualitative Study Exploring the Health and Well-being Benefits of Singing for People with Dementia and Their Carers](../sources/fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the.md)
+- [The Day the Music Died](../sources/fxa100-week04-the-day-the-music-died.md)
+- [The effect of music therapy compared with general recreational activities in reducing agitation in people with dementia: a randomised controlled trial](../sources/fxa100-week04-the-effect-of-music-therapy-compared-with-general.md)
+- [The Effect of Singing on Alert Responses in Persons with Late Stage Dementia](../sources/fxa100-week04-the-effect-of-singing-on-alert-responses-in-persons-with.md)
+- [The impact of caregivers' singing on expressions of emotion and resistance during morning care situations in persons with dementia](../sources/fxa100-week04-the-impact-of-caregivers-singing-on-expressions-of-emotion.md)
+- [The \u2018ripple effect\u2019: Towards researching improvisational music therapy in dementia care homes](../sources/fxa100-week04-the-ripple-effect-towards-researching-improvisational-music.md)
+- [The role, function and identity of music therapists in the 21st century](../sources/fxa100-week04-the-role-function-and-identity-of-music-therapists-in-the.md)
+- [The Singer's Breath: Implications for Treatment of Persons with Emphysema](../sources/fxa100-week04-the-singers-breath-implications-for-treatment-of-persons.md)
+- [CALE Research Aged Care Deloraine Partnership - University of Tasmania](../sources/fxa100-week04-transcript-cale-research-aged-care-deloraine-partnership.md)
+- [Mind Song Music for Dementia](../sources/fxa100-week04-transcript-mind-song-music-for-dementia.md)
+- [Music Therapy and People with Advanced Dementia](../sources/fxa100-week04-transcript-music-therapy-and-people-with-advanced-dementia.md)
+- [Music Therapy for Individuals with Dementia](../sources/fxa100-week04-transcript-music-therapy-comforts-soothes-those-with-varying.md)
+- [Transcript: Music Therapy with Dementia](../sources/fxa100-week04-transcript-music-therapy-with-dementia-canadian-music.md)
+- [Transcript: What is Singing for the Brain?](../sources/fxa100-week04-transcript-what-is-singing-for-the-brain.md)
+- [Welcome to Week 4 - FXA100 The Arts and Dementia Care](../sources/fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care.md)
+- [What is Music, Health, and Wellbeing?](../sources/fxa100-week04-what-is-music-health-and-wellbeing.md)
+- [Test Paper Title](../sources/fxa100-week06-test-paper-title.md)
+- [Arts in Health: Designing and researching interventions - Neurology](../sources/fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the.md)
+- [Projects Using Music for Social, Health and Economic Issues](../sources/fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music.md)
+- [The value of music for public health](../sources/fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26.md)
+- [Bringing Music to Life: a Study of Music Therapy and Palliative Care Experiences in a Cancer Hospital](../sources/fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and.md)
+- [Case Studies of Music and Dance for Health and Wellbeing](../sources/fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing.md)
+- [Engaging with Music and Dance](../sources/fxa301-week06-engaging-with-music-and-dance.md)
+- [Further evidence that singing fosters mental health and wellbeing: the West Kent and Medway project](../sources/fxa301-week06-further-evidence-that-singing-fosters-mental-health-and.md)
+- [Music and Medicine](../sources/fxa301-week06-music-and-medicine.md)
+- [\"Song of Life (SOL)\" study protocol: a multicenter, randomized trial on the emotional, spiritual, and psychobiological effects of music therapy in palliative care](../sources/fxa301-week06-song-of-life-sol-study-protocol-a-multicenter-randomized.md)
+- [The Dance of Wellbeing: Defining the Musical Therapeutic Effect](../sources/fxa301-week06-the-dance-of-wellbeing-defining-the-musical-therapeutic.md)
+- [Stroke Choirs | Stroke Recovery Association NSW](../sources/fxa301-week09-stroke-choirs-stroke-recovery-association-nsw.md)
+- [Activities for Week 10: FXA301 Arts in the Community](../sources/fxa301-week10-lesson-fxa301-week10-page-4-week-3-activities.md)
+- [Your Tube Standard Licence - Choir of Hard Knocks](../sources/fxa301-week10-transcript-your-tube-standard-licence.md)
+- [Music and Mental Health Practice](../sources/fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam.md)
+- ['Autism is a way of being': An \u2018insider perspective\u2019 on neurodiversity, music therapy and social justice](../sources/fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on.md)
+- [Community Services \u2013 The Music Therapy Center of California](../sources/fxa303-week04-community-services-the-music-therapy-center-of-california.md)
+- [Effectiveness of music therapy for children with autism spectrum disorder: meta-analysis and potential biological mechanisms](../sources/fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism.md)
+- [Effectiveness of music therapy in children with autism spectrum disorder: A systematic review and meta-analysis](../sources/fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism.md)
+- [FXA303 Creative Arts, Play and Mental Wellbeing - Week 4 Activities](../sources/fxa303-week04-lesson-fxa303-week04-week-4-activities.md)
+- [Music Therapy for Children With Autistic Spectrum Disorder and/or Other Neurodevelopmental Disorders: A Systematic Review](../sources/fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder.md)
+- [Music Therapy Sessions: Non-Verbal Communication](../sources/fxa303-week04-transcript-duration-34-19.md)
+- [Week 4 Activities - Neurodiversity, arts and play](../sources/fxa303-week04-week-4-activities-neurodiversity-arts-and-play.md)

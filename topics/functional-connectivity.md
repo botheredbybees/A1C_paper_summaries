@@ -26,5 +26,5 @@ The investigation of functional connectivity in neurodevelopment spans from infa
 
 ## Sources
 
-- [[../sources/fxa303-week02-functional-connectivity-in-the-first-year-of-life-in]]
-- [[../sources/fxa303-week03-the-early-adolescent-brain-on-music-analysis-of-functional]]
+- [fxa303-week02-functional-connectivity-in-the-first-year-of-life-in](../sources/fxa303-week02-functional-connectivity-in-the-first-year-of-life-in.md)
+- [fxa303-week03-the-early-adolescent-brain-on-music-analysis-of-functional](../sources/fxa303-week03-the-early-adolescent-brain-on-music-analysis-of-functional.md)

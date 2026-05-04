@@ -24,25 +24,25 @@ Oliver Sacks explores the profound impact of music on human beings, questioning 
 
 ## Key Concepts
 
-- [[../topics/therapeutic-benefits-of-music]]
-- [[../topics/emotional-evocation-by-music]]
-- [[../topics/neural-correlates-of-musical-experience]]
+- [therapeutic-benefits-of-music](../topics/therapeutic-benefits-of-music.md)
+- [emotional-evocation-by-music](../topics/emotional-evocation-by-music.md)
+- [neural-correlates-of-musical-experience](../topics/neural-correlates-of-musical-experience.md)
 
 ## Tags
 
-- [[../tags/neurology]]
-- [[../tags/music-therapy]]
-- [[../tags/emotional-cognition]]
-- [[../tags/cultural-psychology]]
-- [[../tags/motor-neurons]]
-- [[../tags/fxa100]]
+- [neurology](../tags/neurology.md)
+- [music-therapy](../tags/music-therapy.md)
+- [emotional-cognition](../tags/emotional-cognition.md)
+- [cultural-psychology](../tags/cultural-psychology.md)
+- [motor-neurons](../tags/motor-neurons.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/emotional-cognition]]
-- [[../topics/music-therapy]]
-- [[../topics/neurology]]
+- [emotional-cognition](../topics/emotional-cognition.md)
+- [music-therapy](../topics/music-therapy.md)
+- [neurology](../topics/neurology.md)

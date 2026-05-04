@@ -26,5 +26,5 @@ Sources highlight the potential of creative arts therapy as an intervention acro
 
 ## Sources
 
-- [[../sources/fxa301-week03-challenges-in-end-of-life-care-and-bereavement]]
-- [[../sources/fxa301-week03-creative-health-and-care-experienced-children-and-young]]
+- [fxa301-week03-challenges-in-end-of-life-care-and-bereavement](../sources/fxa301-week03-challenges-in-end-of-life-care-and-bereavement.md)
+- [fxa301-week03-creative-health-and-care-experienced-children-and-young](../sources/fxa301-week03-creative-health-and-care-experienced-children-and-young.md)

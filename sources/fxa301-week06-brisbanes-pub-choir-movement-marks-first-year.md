@@ -24,20 +24,20 @@ The article discusses the success of Pub Choir, a community-based singing initia
 
 ## Key Concepts
 
-- [[../topics/sense-of-belonging]]
-- [[../topics/community-building]]
+- [sense-of-belonging](../topics/sense-of-belonging.md)
+- [community-building](../topics/community-building.md)
 
 ## Tags
 
-- [[../tags/community-engagement]]
-- [[../tags/music-culture]]
-- [[../tags/inclusive-activities]]
-- [[../tags/fxa301]]
+- [community-engagement](../tags/community-engagement.md)
+- [music-culture](../tags/music-culture.md)
+- [inclusive-activities](../tags/inclusive-activities.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/music-culture]]
+- [music-culture](../topics/music-culture.md)

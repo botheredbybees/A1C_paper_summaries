@@ -27,6 +27,6 @@ The integration of ethics within research frameworks is a critical element acros
 
 ## Sources
 
-- [[../sources/fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production]]
-- [[../sources/fxa301-arts-in-health-ch76-3-responsibility-(2)]]
-- [[../sources/fxa301-oxford-textbook-of-creative-arts-ch02-chapter-11-(2)]]
+- [fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production](../sources/fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production.md)
+- [fxa301-arts-in-health-ch76-3-responsibility-(2)](../sources/fxa301-arts-in-health-ch76-3-responsibility-(2).md)
+- [fxa301-oxford-textbook-of-creative-arts-ch02-chapter-11-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch02-chapter-11-(2).md)

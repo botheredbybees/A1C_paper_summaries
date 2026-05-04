@@ -24,25 +24,25 @@ The Laurie M. Tisch Illumination Fund's 'Arts in Health Initiative' Progress Rep
 
 ## Key Concepts
 
-- [[../topics/arts integration]]
-- [[../topics/mental health outcomes]]
-- [[../topics/social cohesion]]
+- [arts integration](../topics/arts integration.md)
+- [mental health outcomes](../topics/mental health outcomes.md)
+- [social cohesion](../topics/social cohesion.md)
 
 ## Tags
 
-- [[../tags/arts-in-health]]
-- [[../tags/mental-health-stigma]]
-- [[../tags/community-wellbeing]]
-- [[../tags/ageing-care]]
-- [[../tags/philanthropy]]
-- [[../tags/fxa301]]
+- [arts-in-health](../tags/arts-in-health.md)
+- [mental-health-stigma](../tags/mental-health-stigma.md)
+- [community-wellbeing](../tags/community-wellbeing.md)
+- [ageing-care](../tags/ageing-care.md)
+- [philanthropy](../tags/philanthropy.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[progress report]]
+- [progress report](progress report.md)
 
 ## See Also
 
-- [[../topics/arts-in-health]]
-- [[../topics/community-wellbeing]]
-- [[../topics/mental-health-stigma]]
+- [arts-in-health](../topics/arts-in-health.md)
+- [community-wellbeing](../topics/community-wellbeing.md)
+- [mental-health-stigma](../topics/mental-health-stigma.md)

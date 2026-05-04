@@ -24,26 +24,26 @@ This systematic review and meta-analysis evaluates the effectiveness of clown th
 
 ## Key Concepts
 
-- [[../topics/clown therapy]]
-- [[../topics/procedural pain]]
-- [[../topics/anxiety reduction]]
+- [clown therapy](../topics/clown therapy.md)
+- [procedural pain](../topics/procedural pain.md)
+- [anxiety reduction](../topics/anxiety reduction.md)
 
 ## Tags
 
-- [[../tags/clown-therapy]]
-- [[../tags/procedural-pain-management]]
-- [[../tags/pediatric-care]]
-- [[../tags/non-pharmacological-interventions]]
-- [[../tags/systematic-review]]
-- [[../tags/fxa303]]
+- [clown-therapy](../tags/clown-therapy.md)
+- [procedural-pain-management](../tags/procedural-pain-management.md)
+- [pediatric-care](../tags/pediatric-care.md)
+- [non-pharmacological-interventions](../tags/non-pharmacological-interventions.md)
+- [systematic-review](../tags/systematic-review.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic review]]
-- [[meta-analysis]]
+- [systematic review](systematic review.md)
+- [meta-analysis](meta-analysis.md)
 
 ## See Also
 
-- [[../topics/clown-therapy]]
-- [[../topics/pediatric-care]]
-- [[../topics/systematic-review]]
+- [clown-therapy](../topics/clown-therapy.md)
+- [pediatric-care](../topics/pediatric-care.md)
+- [systematic-review](../topics/systematic-review.md)

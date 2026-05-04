@@ -26,5 +26,5 @@ The integration of puppetry into healthcare settings through applied theatre ser
 
 ## Sources
 
-- [[../sources/fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare]]
-- [[../sources/fxa303-week05-lesson-fxa303-week05-page-4-week-5-activities]]
+- [fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare](../sources/fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare.md)
+- [fxa303-week05-lesson-fxa303-week05-page-4-week-5-activities](../sources/fxa303-week05-lesson-fxa303-week05-page-4-week-5-activities.md)

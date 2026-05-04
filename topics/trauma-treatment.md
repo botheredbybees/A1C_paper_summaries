@@ -28,7 +28,7 @@ Expressive arts therapy encompasses a variety of approaches for treating trauma,
 
 ## Sources
 
-- [[../sources/fxa303-trauma-and-expressive-arts-ch04-1-slowly-exhale-through-your-mouth]]
-- [[../sources/fxa303-week06-puppet-theatre-a-way-to-tell-what-cannot-be-told-and-to]]
-- [[../sources/fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of]]
-- [[../sources/fxa303-week09-working-with-trauma-expanding-examining-and-evidencing-the]]
+- [fxa303-trauma-and-expressive-arts-ch04-1-slowly-exhale-through-your-mouth](../sources/fxa303-trauma-and-expressive-arts-ch04-1-slowly-exhale-through-your-mouth.md)
+- [fxa303-week06-puppet-theatre-a-way-to-tell-what-cannot-be-told-and-to](../sources/fxa303-week06-puppet-theatre-a-way-to-tell-what-cannot-be-told-and-to.md)
+- [fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of](../sources/fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of.md)
+- [fxa303-week09-working-with-trauma-expanding-examining-and-evidencing-the](../sources/fxa303-week09-working-with-trauma-expanding-examining-and-evidencing-the.md)

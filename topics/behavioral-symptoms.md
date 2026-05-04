@@ -27,5 +27,5 @@ Both sources explore non-pharmacological interventions for managing behavioral s
 
 ## Sources
 
-- [[../sources/fxa100-week09-dance-movement-therapy-for-dementia]]
-- [[../sources/fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a]]
+- [fxa100-week09-dance-movement-therapy-for-dementia](../sources/fxa100-week09-dance-movement-therapy-for-dementia.md)
+- [fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a](../sources/fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a.md)

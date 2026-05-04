@@ -26,5 +26,5 @@ The synthesis of the two sources highlights the diverse applications and theoret
 
 ## Sources
 
-- [[../sources/fxa303-week04-arts-therapies-research-and-practice-with-persons-on-the]]
-- [[../sources/fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies]]
+- [fxa303-week04-arts-therapies-research-and-practice-with-persons-on-the](../sources/fxa303-week04-arts-therapies-research-and-practice-with-persons-on-the.md)
+- [fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies](../sources/fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies.md)

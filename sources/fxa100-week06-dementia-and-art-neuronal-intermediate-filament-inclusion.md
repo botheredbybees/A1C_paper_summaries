@@ -24,21 +24,21 @@ This paper presents a case of neuronal intermediate filament inclusion disease (
 
 ## Key Concepts
 
-- [[../topics/neuronal-intermediate-filament-inclusion-disease]]
-- [[../topics/frontotemporal-dementia]]
-- [[../topics/creative-processes]]
+- [neuronal-intermediate-filament-inclusion-disease](../topics/neuronal-intermediate-filament-inclusion-disease.md)
+- [frontotemporal-dementia](../topics/frontotemporal-dementia.md)
+- [creative-processes](../topics/creative-processes.md)
 
 ## Tags
 
-- [[../tags/neurological-disease]]
-- [[../tags/dementia-research]]
-- [[../tags/artistic-creativity]]
-- [[../tags/fxa100]]
+- [neurological-disease](../tags/neurological-disease.md)
+- [dementia-research](../tags/dementia-research.md)
+- [artistic-creativity](../tags/artistic-creativity.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/dementia-research]]
+- [dementia-research](../topics/dementia-research.md)

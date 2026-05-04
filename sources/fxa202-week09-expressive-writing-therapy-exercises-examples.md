@@ -24,26 +24,26 @@ The article explores the benefits and practical applications of expressive writi
 
 ## Key Concepts
 
-- [[../topics/expressive writing therapy]]
-- [[../topics/physical health outcomes]]
-- [[../topics/traumatic events]]
+- [expressive writing therapy](../topics/expressive writing therapy.md)
+- [physical health outcomes](../topics/physical health outcomes.md)
+- [traumatic events](../topics/traumatic events.md)
 
 ## Tags
 
-- [[../tags/expressive-writing-therapy]]
-- [[../tags/mental-health-interventions]]
-- [[../tags/emotional-healing]]
-- [[../tags/self-reflection-exercises]]
-- [[../tags/therapeutic-benefits]]
-- [[../tags/fxa202]]
+- [expressive-writing-therapy](../tags/expressive-writing-therapy.md)
+- [mental-health-interventions](../tags/mental-health-interventions.md)
+- [emotional-healing](../tags/emotional-healing.md)
+- [self-reflection-exercises](../tags/self-reflection-exercises.md)
+- [therapeutic-benefits](../tags/therapeutic-benefits.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/emotional-healing]]
-- [[../topics/expressive-writing-therapy]]
-- [[../topics/mental-health-interventions]]
-- [[../topics/therapeutic-benefits]]
+- [emotional-healing](../topics/emotional-healing.md)
+- [expressive-writing-therapy](../topics/expressive-writing-therapy.md)
+- [mental-health-interventions](../topics/mental-health-interventions.md)
+- [therapeutic-benefits](../topics/therapeutic-benefits.md)

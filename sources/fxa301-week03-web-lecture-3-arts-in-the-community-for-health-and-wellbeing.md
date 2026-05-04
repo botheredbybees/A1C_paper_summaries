@@ -24,23 +24,23 @@ This web lecture by Dr Brendan Lamb examines the multifaceted role of arts in en
 
 ## Key Concepts
 
-- [[../topics/arts-engagement]]
-- [[../topics/cognitive-skills-improvement]]
-- [[../topics/mental-health-benefits]]
+- [arts-engagement](../topics/arts-engagement.md)
+- [cognitive-skills-improvement](../topics/cognitive-skills-improvement.md)
+- [mental-health-benefits](../topics/mental-health-benefits.md)
 
 ## Tags
 
-- [[../tags/arts-health]]
-- [[../tags/community-wellbeing]]
-- [[../tags/public-policy]]
-- [[../tags/fxa301]]
+- [arts-health](../tags/arts-health.md)
+- [community-wellbeing](../tags/community-wellbeing.md)
+- [public-policy](../tags/public-policy.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[literature-review]]
+- [literature-review](literature-review.md)
 
 ## See Also
 
-- [[../topics/arts-health]]
-- [[../topics/community-wellbeing]]
-- [[../topics/public-policy]]
+- [arts-health](../topics/arts-health.md)
+- [community-wellbeing](../topics/community-wellbeing.md)
+- [public-policy](../topics/public-policy.md)

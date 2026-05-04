@@ -24,15 +24,15 @@ This article explores strategies for improving student engagement in online lear
 
 ## Key Concepts
 
-- [[../topics/motivation theories]]
-- [[../topics/social presence theory]]
+- [motivation theories](../topics/motivation theories.md)
+- [social presence theory](../topics/social presence theory.md)
 
 ## Tags
 
-- [[../tags/online-learning]]
-- [[../tags/student-engagement]]
-- [[../tags/distance-education]]
-- [[../tags/fxa100]]
+- [online-learning](../tags/online-learning.md)
+- [student-engagement](../tags/student-engagement.md)
+- [distance-education](../tags/distance-education.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

@@ -33,12 +33,12 @@ The concept of neurodiversity emerges as a pivotal theory in redefining the unde
 
 ## Sources
 
-- [[../sources/fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on]]
-- [[../sources/fxa303-week04-fxa303-week-4-introduction]]
-- [[../sources/fxa303-week04-lesson-fxa303-week04-page-3-arts-and-play]]
-- [[../sources/fxa303-week04-lesson-fxa303-week04-week-4-activities]]
-- [[../sources/fxa303-week04-neurodiversity-and-the-autism-spectrum]]
-- [[../sources/fxa303-week04-play-and-arts-based-therapies]]
-- [[../sources/fxa303-week04-the-concept-of-neurodiversity-is-dividing-the-autism]]
-- [[../sources/fxa303-week04-unraveling-neurodiversity-insights-from-neuroscientic]]
-- [[../sources/fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental]]
+- [fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on](../sources/fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on.md)
+- [fxa303-week04-fxa303-week-4-introduction](../sources/fxa303-week04-fxa303-week-4-introduction.md)
+- [fxa303-week04-lesson-fxa303-week04-page-3-arts-and-play](../sources/fxa303-week04-lesson-fxa303-week04-page-3-arts-and-play.md)
+- [fxa303-week04-lesson-fxa303-week04-week-4-activities](../sources/fxa303-week04-lesson-fxa303-week04-week-4-activities.md)
+- [fxa303-week04-neurodiversity-and-the-autism-spectrum](../sources/fxa303-week04-neurodiversity-and-the-autism-spectrum.md)
+- [fxa303-week04-play-and-arts-based-therapies](../sources/fxa303-week04-play-and-arts-based-therapies.md)
+- [fxa303-week04-the-concept-of-neurodiversity-is-dividing-the-autism](../sources/fxa303-week04-the-concept-of-neurodiversity-is-dividing-the-autism.md)
+- [fxa303-week04-unraveling-neurodiversity-insights-from-neuroscientic](../sources/fxa303-week04-unraveling-neurodiversity-insights-from-neuroscientic.md)
+- [fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental](../sources/fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental.md)

@@ -24,22 +24,22 @@ Sundown syndrome, a common clinical phenomenon among demented individuals, invol
 
 ## Key Concepts
 
-- [[../topics/circadian-rhythmicity]]
-- [[../topics/suprachiasmatic-nucleus-degeneration]]
-- [[../topics/melatonin-production]]
+- [circadian-rhythmicity](../topics/circadian-rhythmicity.md)
+- [suprachiasmatic-nucleus-degeneration](../topics/suprachiasmatic-nucleus-degeneration.md)
+- [melatonin-production](../topics/melatonin-production.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/sundown-syndrome]]
-- [[../tags/neuropsychiatric-symptoms]]
-- [[../tags/aging-neuroscience]]
-- [[../tags/geriatric-psychiatry]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [sundown-syndrome](../tags/sundown-syndrome.md)
+- [neuropsychiatric-symptoms](../tags/neuropsychiatric-symptoms.md)
+- [aging-neuroscience](../tags/aging-neuroscience.md)
+- [geriatric-psychiatry](../tags/geriatric-psychiatry.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 

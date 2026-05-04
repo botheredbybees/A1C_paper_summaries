@@ -26,5 +26,5 @@ The concept of creative recovery emphasizes the role of arts and cultural activi
 
 ## Sources
 
-- [[../sources/fxa303-week09-national-taskforce-for-creative-recovery-recommendations]]
-- [[../sources/fxa303-week09-web-article-creative-2023]]
+- [fxa303-week09-national-taskforce-for-creative-recovery-recommendations](../sources/fxa303-week09-national-taskforce-for-creative-recovery-recommendations.md)
+- [fxa303-week09-web-article-creative-2023](../sources/fxa303-week09-web-article-creative-2023.md)

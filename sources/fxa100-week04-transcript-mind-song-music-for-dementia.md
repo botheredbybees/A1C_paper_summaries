@@ -24,17 +24,17 @@ This transcript features interviews with professionals involved in the Mind Song
 
 ## Key Concepts
 
-- [[../topics/creative-expression]]
-- [[../topics/music-as-communication]]
-- [[../topics/therapeutic-benefits-of-music]]
+- [creative-expression](../topics/creative-expression.md)
+- [music-as-communication](../topics/music-as-communication.md)
+- [therapeutic-benefits-of-music](../topics/therapeutic-benefits-of-music.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/music-therapy]]
-- [[../tags/dance-movement-psychotherapy]]
-- [[../tags/elderly-wellness]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [music-therapy](../tags/music-therapy.md)
+- [dance-movement-psychotherapy](../tags/dance-movement-psychotherapy.md)
+- [elderly-wellness](../tags/elderly-wellness.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -42,6 +42,6 @@ This transcript features interviews with professionals involved in the Mind Song
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/elderly-wellness]]
-- [[../topics/music-therapy]]
+- [dementia-care](../topics/dementia-care.md)
+- [elderly-wellness](../topics/elderly-wellness.md)
+- [music-therapy](../topics/music-therapy.md)

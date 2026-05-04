@@ -25,5 +25,5 @@ The integration of play-based interventions in mental health treatment showcases
 
 ## Sources
 
-- [[../sources/fxa303-week04-play-based-interventions-for-mental-health-a-systematic]]
-- [[../sources/fxa303-week09-lesson-fxa303-week09-page-3-case-studies]]
+- [fxa303-week04-play-based-interventions-for-mental-health-a-systematic](../sources/fxa303-week04-play-based-interventions-for-mental-health-a-systematic.md)
+- [fxa303-week09-lesson-fxa303-week09-page-3-case-studies](../sources/fxa303-week09-lesson-fxa303-week09-page-3-case-studies.md)

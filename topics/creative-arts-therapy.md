@@ -27,6 +27,6 @@ Creative arts therapy encompasses various modalities such as puppet play, dance/
 
 ## Sources
 
-- [[../sources/fxa100-week08-transcript-hayes-j-2011-the-creative-arts-in-dementia-care]]
-- [[../sources/fxa301-week06-the-art-and-science-of-dancemovement-therapy]]
-- [[../sources/fxa303-week06-puppet-play-therapy-a-practical-guidebook]]
+- [fxa100-week08-transcript-hayes-j-2011-the-creative-arts-in-dementia-care](../sources/fxa100-week08-transcript-hayes-j-2011-the-creative-arts-in-dementia-care.md)
+- [fxa301-week06-the-art-and-science-of-dancemovement-therapy](../sources/fxa301-week06-the-art-and-science-of-dancemovement-therapy.md)
+- [fxa303-week06-puppet-play-therapy-a-practical-guidebook](../sources/fxa303-week06-puppet-play-therapy-a-practical-guidebook.md)

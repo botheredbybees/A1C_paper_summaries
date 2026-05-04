@@ -26,5 +26,5 @@ The integration of mindfulness practices with the act of photography reveals a u
 
 ## Sources
 
-- [[../sources/fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography]]
-- [[../sources/fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a]]
+- [fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography](../sources/fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography.md)
+- [fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a](../sources/fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a.md)

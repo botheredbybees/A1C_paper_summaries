@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Intellectual Stimulation
 
-- [[../sources/fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia|An Art Gallery Access Programme for people with dementia: \u2018You do it for the moment\u2019]]
+- [An Art Gallery Access Programme for people with dementia: \u2018You do it for the moment\u2019](../sources/fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia.md)

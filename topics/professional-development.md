@@ -25,5 +25,5 @@ The integration of professional development within the framework of music therap
 
 ## Sources
 
-- [[../sources/fxa100-week02-history-of-music-therapy]]
-- [[../sources/fxa202-week08-journal-and-visual-research-guidelines]]
+- [fxa100-week02-history-of-music-therapy](../sources/fxa100-week02-history-of-music-therapy.md)
+- [fxa202-week08-journal-and-visual-research-guidelines](../sources/fxa202-week08-journal-and-visual-research-guidelines.md)

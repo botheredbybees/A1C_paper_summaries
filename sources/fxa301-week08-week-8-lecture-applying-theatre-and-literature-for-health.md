@@ -28,24 +28,24 @@ The lecture concludes with a brainstorming session for devising an eight-week co
 
 ## Key Concepts
 
-- [[../topics/shared-reading-groups]]
-- [[../topics/drama-workshops]]
-- [[../topics/creative-writing-for-wellbeing]]
+- [shared-reading-groups](../topics/shared-reading-groups.md)
+- [drama-workshops](../topics/drama-workshops.md)
+- [creative-writing-for-wellbeing](../topics/creative-writing-for-wellbeing.md)
 
 ## Tags
 
-- [[../tags/therapeutic-arts]]
-- [[../tags/community-health]]
-- [[../tags/literature-and-wellbeing]]
-- [[../tags/theatre-for-health]]
-- [[../tags/fxa301]]
+- [therapeutic-arts](../tags/therapeutic-arts.md)
+- [community-health](../tags/community-health.md)
+- [literature-and-wellbeing](../tags/literature-and-wellbeing.md)
+- [theatre-for-health](../tags/theatre-for-health.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-study]]
-- [[brainstorming-session]]
+- [case-study](case-study.md)
+- [brainstorming-session](brainstorming-session.md)
 
 ## See Also
 
-- [[../topics/community-health]]
-- [[../topics/therapeutic-arts]]
+- [community-health](../topics/community-health.md)
+- [therapeutic-arts](../topics/therapeutic-arts.md)

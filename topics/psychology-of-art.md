@@ -26,5 +26,5 @@ The psychology of art integrates concepts from neuroscience and psychological th
 
 ## Sources
 
-- [[../sources/fxa301-week02-lecture-on-perception-of-the-arts]]
-- [[../sources/fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and]]
+- [fxa301-week02-lecture-on-perception-of-the-arts](../sources/fxa301-week02-lecture-on-perception-of-the-arts.md)
+- [fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and](../sources/fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and.md)

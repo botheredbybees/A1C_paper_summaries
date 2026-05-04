@@ -24,27 +24,27 @@ The webpage 'Art & Creativity' on the UCSF Memory and Aging Center website discu
 
 ## Key Concepts
 
-- [[../topics/creativity]]
-- [[../topics/brain-health]]
-- [[../topics/therapeutic-benefits]]
+- [creativity](../topics/creativity.md)
+- [brain-health](../topics/brain-health.md)
+- [therapeutic-benefits](../topics/therapeutic-benefits.md)
 
 ## Tags
 
-- [[../tags/creative-expression]]
-- [[../tags/neurological-health]]
-- [[../tags/dementia-care]]
-- [[../tags/therapeutic-arts]]
-- [[../tags/cognitive-engagement]]
-- [[../tags/patient-profiles]]
-- [[../tags/fxa100]]
+- [creative-expression](../tags/creative-expression.md)
+- [neurological-health](../tags/neurological-health.md)
+- [dementia-care](../tags/dementia-care.md)
+- [therapeutic-arts](../tags/therapeutic-arts.md)
+- [cognitive-engagement](../tags/cognitive-engagement.md)
+- [patient-profiles](../tags/patient-profiles.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/cognitive-engagement]]
-- [[../topics/creative-expression]]
-- [[../topics/dementia-care]]
-- [[../topics/therapeutic-arts]]
+- [cognitive-engagement](../topics/cognitive-engagement.md)
+- [creative-expression](../topics/creative-expression.md)
+- [dementia-care](../topics/dementia-care.md)
+- [therapeutic-arts](../topics/therapeutic-arts.md)

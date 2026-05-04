@@ -24,27 +24,27 @@ This study explores the impact of medical clowns on the playfulness of children 
 
 ## Key Concepts
 
-- [[../topics/playfulness]]
-- [[../topics/therapeutic-intervention]]
-- [[../topics/clown-therapy]]
+- [playfulness](../topics/playfulness.md)
+- [therapeutic-intervention](../topics/therapeutic-intervention.md)
+- [clown-therapy](../topics/clown-therapy.md)
 
 ## Tags
 
-- [[../tags/therapeutic-clowning]]
-- [[../tags/intellectual-disabilities]]
-- [[../tags/child-development]]
-- [[../tags/social-skills]]
-- [[../tags/emotional-wellbeing]]
-- [[../tags/fxa303]]
+- [therapeutic-clowning](../tags/therapeutic-clowning.md)
+- [intellectual-disabilities](../tags/intellectual-disabilities.md)
+- [child-development](../tags/child-development.md)
+- [social-skills](../tags/social-skills.md)
+- [emotional-wellbeing](../tags/emotional-wellbeing.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[longitudinal-study]]
-- [[case-control]]
+- [longitudinal-study](longitudinal-study.md)
+- [case-control](case-control.md)
 
 ## See Also
 
-- [[../topics/child-development]]
-- [[../topics/emotional-wellbeing]]
-- [[../topics/social-skills]]
-- [[../topics/therapeutic-clowning]]
+- [child-development](../topics/child-development.md)
+- [emotional-wellbeing](../topics/emotional-wellbeing.md)
+- [social-skills](../topics/social-skills.md)
+- [therapeutic-clowning](../topics/therapeutic-clowning.md)

@@ -27,6 +27,6 @@ The sources collectively explore the developmental role of play and creative art
 
 ## Sources
 
-- [[../sources/fxa303-week02-developmental-role-of-creative-arts-and-play]]
-- [[../sources/fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview]]
-- [[../sources/fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental]]
+- [fxa303-week02-developmental-role-of-creative-arts-and-play](../sources/fxa303-week02-developmental-role-of-creative-arts-and-play.md)
+- [fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview](../sources/fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview.md)
+- [fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental](../sources/fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental.md)

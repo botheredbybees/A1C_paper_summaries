@@ -24,20 +24,20 @@ The article explores the incorporation of arts-based therapies, such as music th
 
 ## Key Concepts
 
-- [[../topics/eating disorders]]
-- [[../topics/arts-based therapies]]
-- [[../topics/empirical evidence]]
+- [eating disorders](../topics/eating disorders.md)
+- [arts-based therapies](../topics/arts-based therapies.md)
+- [empirical evidence](../topics/empirical evidence.md)
 
 ## Tags
 
-- [[../tags/eating-disorders]]
-- [[../tags/arts-therapy]]
-- [[../tags/mental-health-interventions]]
-- [[../tags/fxa301]]
+- [eating-disorders](../tags/eating-disorders.md)
+- [arts-therapy](../tags/arts-therapy.md)
+- [mental-health-interventions](../tags/mental-health-interventions.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[survey]]
+- [survey](survey.md)
 
 ## See Also
 

@@ -24,17 +24,17 @@ The transcript captures a project titled 'We Are All Born Creative' led by Linda
 
 ## Key Concepts
 
-- [[../topics/Resilience in Children]]
-- [[../topics/Creative Expression as Therapy]]
+- [Resilience in Children](../topics/Resilience in Children.md)
+- [Creative Expression as Therapy](../topics/Creative Expression as Therapy.md)
 
 ## Tags
 
-- [[../tags/child-development]]
-- [[../tags/creative-expression]]
-- [[../tags/resilience-building]]
-- [[../tags/community-arts-project]]
-- [[../tags/educational-workshops]]
-- [[../tags/fxa303]]
+- [child-development](../tags/child-development.md)
+- [creative-expression](../tags/creative-expression.md)
+- [resilience-building](../tags/resilience-building.md)
+- [community-arts-project](../tags/community-arts-project.md)
+- [educational-workshops](../tags/educational-workshops.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
@@ -42,6 +42,6 @@ The transcript captures a project titled 'We Are All Born Creative' led by Linda
 
 ## See Also
 
-- [[../topics/child-development]]
-- [[../topics/creative-expression]]
-- [[../topics/resilience-building]]
+- [child-development](../topics/child-development.md)
+- [creative-expression](../topics/creative-expression.md)
+- [resilience-building](../topics/resilience-building.md)

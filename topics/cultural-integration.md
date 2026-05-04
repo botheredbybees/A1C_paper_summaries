@@ -26,5 +26,5 @@ The integration of cultural elements into musical production is explored through
 
 ## Sources
 
-- [[../sources/fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration]]
-- [[../sources/fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration-(2)]]
+- [fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration](../sources/fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration.md)
+- [fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration-(2)](../sources/fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration-(2).md)

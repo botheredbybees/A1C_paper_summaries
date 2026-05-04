@@ -24,19 +24,19 @@ This chapter discusses the importance of research protocols in academic and arti
 
 ## Key Concepts
 
-- [[../topics/rationale]]
-- [[../topics/feasibility]]
+- [rationale](../topics/rationale.md)
+- [feasibility](../topics/feasibility.md)
 
 ## Tags
 
-- [[../tags/research-protocol]]
-- [[../tags/academic-writing]]
-- [[../tags/arts-based-research]]
-- [[../tags/fxa100]]
+- [research-protocol](../tags/research-protocol.md)
+- [academic-writing](../tags/academic-writing.md)
+- [arts-based-research](../tags/arts-based-research.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 

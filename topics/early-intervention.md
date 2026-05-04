@@ -27,6 +27,6 @@ The sources collectively emphasize the critical importance of timely and effecti
 
 ## Sources
 
-- [[../sources/fxa303-week02-fxa303-week-2-child-development-and-creative-arts]]
-- [[../sources/fxa303-week04-missed-early-intervention-opportunities-for-children-with]]
-- [[../sources/fxa303-week04-neurodiversity-and-the-autism-spectrum]]
+- [fxa303-week02-fxa303-week-2-child-development-and-creative-arts](../sources/fxa303-week02-fxa303-week-2-child-development-and-creative-arts.md)
+- [fxa303-week04-missed-early-intervention-opportunities-for-children-with](../sources/fxa303-week04-missed-early-intervention-opportunities-for-children-with.md)
+- [fxa303-week04-neurodiversity-and-the-autism-spectrum](../sources/fxa303-week04-neurodiversity-and-the-autism-spectrum.md)

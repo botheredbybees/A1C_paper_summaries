@@ -28,7 +28,7 @@ The integration of findings from these sources highlights the complexity and var
 
 ## Sources
 
-- [[../sources/fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers]]
-- [[../sources/fxa303-week02-fxa303-week-2-child-development-and-creative-arts]]
-- [[../sources/fxa303-week03-limbic-systems-for-emotion-and-for-memory-but-no-single]]
-- [[../sources/fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between]]
+- [fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers](../sources/fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers.md)
+- [fxa303-week02-fxa303-week-2-child-development-and-creative-arts](../sources/fxa303-week02-fxa303-week-2-child-development-and-creative-arts.md)
+- [fxa303-week03-limbic-systems-for-emotion-and-for-memory-but-no-single](../sources/fxa303-week03-limbic-systems-for-emotion-and-for-memory-but-no-single.md)
+- [fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between](../sources/fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between.md)

@@ -24,16 +24,16 @@ Chapter 11 of 'Psychology: From Inquiry to Understanding,' edited by Pat Dudgeon
 
 ## Key Concepts
 
-- [[../topics/cognitive-development-theory]]
-- [[../topics/epigenetics]]
-- [[../topics/social-moral-development]]
+- [cognitive-development-theory](../topics/cognitive-development-theory.md)
+- [epigenetics](../topics/epigenetics.md)
+- [social-moral-development](../topics/social-moral-development.md)
 
 ## Tags
 
-- [[../tags/human-development]]
-- [[../tags/nature-nurture]]
-- [[../tags/gene-environment-interaction]]
-- [[../tags/fxa303]]
+- [human-development](../tags/human-development.md)
+- [nature-nurture](../tags/nature-nurture.md)
+- [gene-environment-interaction](../tags/gene-environment-interaction.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ Chapter 11 of 'Psychology: From Inquiry to Understanding,' edited by Pat Dudgeon
 
 ## See Also
 
-- [[../topics/human-development]]
-- [[../topics/nature-nurture]]
+- [human-development](../topics/human-development.md)
+- [nature-nurture](../topics/nature-nurture.md)

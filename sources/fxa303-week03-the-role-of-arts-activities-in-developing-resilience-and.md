@@ -28,25 +28,25 @@ The findings indicate that arts-based interventions can offer cost-effective met
 
 ## Key Concepts
 
-- [[../topics/resilience]]
-- [[../topics/self-efficacy]]
-- [[../topics/mental wellbeing]]
+- [resilience](../topics/resilience.md)
+- [self-efficacy](../topics/self-efficacy.md)
+- [mental wellbeing](../topics/mental wellbeing.md)
 
 ## Tags
 
-- [[../tags/arts-activities]]
-- [[../tags/mental-wellbeing]]
-- [[../tags/resilience-development]]
-- [[../tags/youth-health]]
-- [[../tags/community-interventions]]
-- [[../tags/fxa303]]
+- [arts-activities](../tags/arts-activities.md)
+- [mental-wellbeing](../tags/mental-wellbeing.md)
+- [resilience-development](../tags/resilience-development.md)
+- [youth-health](../tags/youth-health.md)
+- [community-interventions](../tags/community-interventions.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[rapid review]]
+- [rapid review](rapid review.md)
 
 ## See Also
 
-- [[../topics/community-interventions]]
-- [[../topics/mental-wellbeing]]
-- [[../topics/youth-health]]
+- [community-interventions](../topics/community-interventions.md)
+- [mental-wellbeing](../topics/mental-wellbeing.md)
+- [youth-health](../topics/youth-health.md)

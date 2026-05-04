@@ -24,27 +24,27 @@ This document introduces the fourth week of FXA100 The Arts and Dementia Care, f
 
 ## Key Concepts
 
-- [[../topics/musical-interventions]]
-- [[../topics/emotional-activation]]
-- [[../topics/speech-recovery]]
-- [[../topics/professional-registration]]
+- [musical-interventions](../topics/musical-interventions.md)
+- [emotional-activation](../topics/emotional-activation.md)
+- [speech-recovery](../topics/speech-recovery.md)
+- [professional-registration](../topics/professional-registration.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/music-therapy]]
-- [[../tags/participatory-music]]
-- [[../tags/quality-of-life]]
-- [[../tags/caregiver-wellbeing]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [music-therapy](../tags/music-therapy.md)
+- [participatory-music](../tags/participatory-music.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [caregiver-wellbeing](../tags/caregiver-wellbeing.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/music-therapy]]
-- [[../topics/participatory-music]]
-- [[../topics/quality-of-life]]
+- [dementia-care](../topics/dementia-care.md)
+- [music-therapy](../topics/music-therapy.md)
+- [participatory-music](../topics/participatory-music.md)
+- [quality-of-life](../topics/quality-of-life.md)

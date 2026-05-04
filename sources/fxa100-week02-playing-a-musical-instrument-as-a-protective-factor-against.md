@@ -24,25 +24,25 @@ This research article explores the potential protective effect of playing a musi
 
 ## Key Concepts
 
-- [[../topics/protective factors against dementia]]
-- [[../topics/playing a musical instrument]]
-- [[../topics/discordant twin pairs]]
+- [protective factors against dementia](../topics/protective factors against dementia.md)
+- [playing a musical instrument](../topics/playing a musical instrument.md)
+- [discordant twin pairs](../topics/discordant twin pairs.md)
 
 ## Tags
 
-- [[../tags/dementia-prevention]]
-- [[../tags/cognitive-health]]
-- [[../tags/lifestyle-factors]]
-- [[../tags/twin-research]]
-- [[../tags/music-therapy]]
-- [[../tags/neuroprotection]]
-- [[../tags/fxa100]]
+- [dementia-prevention](../tags/dementia-prevention.md)
+- [cognitive-health](../tags/cognitive-health.md)
+- [lifestyle-factors](../tags/lifestyle-factors.md)
+- [twin-research](../tags/twin-research.md)
+- [music-therapy](../tags/music-therapy.md)
+- [neuroprotection](../tags/neuroprotection.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[population-based twin study]]
+- [population-based twin study](population-based twin study.md)
 
 ## See Also
 
-- [[../topics/cognitive-health]]
-- [[../topics/music-therapy]]
+- [cognitive-health](../topics/cognitive-health.md)
+- [music-therapy](../topics/music-therapy.md)

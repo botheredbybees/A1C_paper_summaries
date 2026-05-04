@@ -24,23 +24,23 @@ This study investigates the impact of visual art production and cognitive evalua
 
 ## Key Concepts
 
-- [[../topics/default-mode-network]]
-- [[../topics/functional-brain-connectivity]]
-- [[../topics/resilience-to-stress]]
+- [default-mode-network](../topics/default-mode-network.md)
+- [functional-brain-connectivity](../topics/functional-brain-connectivity.md)
+- [resilience-to-stress](../topics/resilience-to-stress.md)
 
 ## Tags
 
-- [[../tags/brain-connectivity]]
-- [[../tags/art-therapy]]
-- [[../tags/f-mri-study]]
-- [[../tags/fxa100]]
+- [brain-connectivity](../tags/brain-connectivity.md)
+- [art-therapy](../tags/art-therapy.md)
+- [f-mri-study](../tags/f-mri-study.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[fMRI]]
-- [[systematic-intervention]]
+- [fMRI](fMRI.md)
+- [systematic-intervention](systematic-intervention.md)
 
 ## See Also
 
-- [[../topics/brain-connectivity]]
-- [[../topics/f-mri-study]]
+- [brain-connectivity](../topics/brain-connectivity.md)
+- [f-mri-study](../topics/f-mri-study.md)

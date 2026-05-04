@@ -26,5 +26,5 @@ The Active Energy project focuses on integrating renewable energy practices with
 
 ## Sources
 
-- [[../sources/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30]]
-- [[../sources/fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2)]]
+- [fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30](../sources/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30.md)
+- [fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2).md)

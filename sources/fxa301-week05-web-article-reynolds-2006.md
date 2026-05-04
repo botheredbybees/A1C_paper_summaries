@@ -24,18 +24,18 @@ This qualitative research investigates the role of art-making as a leisure activ
 
 ## Key Concepts
 
-- [[../topics/Art Therapy]]
-- [[../topics/Identity Maintenance]]
-- [[../topics/Chronic Illness Coping]]
+- [Art Therapy](../topics/Art Therapy.md)
+- [Identity Maintenance](../topics/Identity Maintenance.md)
+- [Chronic Illness Coping](../topics/Chronic Illness Coping.md)
 
 ## Tags
 
-- [[../tags/art therapy]]
-- [[../tags/identity maintenance]]
-- [[../tags/chronic illness]]
-- [[../tags/case studies]]
-- [[../tags/cancer]]
-- [[../tags/fxa301]]
+- [art therapy](../tags/art therapy.md)
+- [identity maintenance](../tags/identity maintenance.md)
+- [chronic illness](../tags/chronic illness.md)
+- [case studies](../tags/case studies.md)
+- [cancer](../tags/cancer.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

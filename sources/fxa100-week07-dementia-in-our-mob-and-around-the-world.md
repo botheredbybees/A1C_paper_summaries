@@ -30,25 +30,25 @@ Comparative studies across different Indigenous populations worldwide indicate v
 
 ## Key Concepts
 
-- [[../topics/late-onset alzheimer’s disease]]
-- [[../topics/prevalence disparities]]
-- [[../topics/cultural care practices]]
+- [late-onset alzheimer’s disease](../topics/late-onset alzheimer’s disease.md)
+- [prevalence disparities](../topics/prevalence disparities.md)
+- [cultural care practices](../topics/cultural care practices.md)
 
 ## Tags
 
-- [[../tags/indigenous-health]]
-- [[../tags/dementia-prevalence]]
-- [[../tags/cultural-factors-in-medicine]]
-- [[../tags/aboriginal-populations]]
-- [[../tags/alzheimers-disease]]
-- [[../tags/fxa100]]
+- [indigenous-health](../tags/indigenous-health.md)
+- [dementia-prevalence](../tags/dementia-prevalence.md)
+- [cultural-factors-in-medicine](../tags/cultural-factors-in-medicine.md)
+- [aboriginal-populations](../tags/aboriginal-populations.md)
+- [alzheimers-disease](../tags/alzheimers-disease.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/alzheimers-disease]]
-- [[../topics/dementia-prevalence]]
-- [[../topics/indigenous-health]]
+- [alzheimers-disease](../topics/alzheimers-disease.md)
+- [dementia-prevalence](../topics/dementia-prevalence.md)
+- [indigenous-health](../topics/indigenous-health.md)

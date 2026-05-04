@@ -24,24 +24,24 @@ The article 'Art as Therapy' by James Haywood Rolling Jr., in the role of Editor
 
 ## Key Concepts
 
-- [[../topics/therapeutic functions of art]]
-- [[../topics/emotional healing through creativity]]
-- [[../topics/collaborative teaching approaches]]
+- [therapeutic functions of art](../topics/therapeutic functions of art.md)
+- [emotional healing through creativity](../topics/emotional healing through creativity.md)
+- [collaborative teaching approaches](../topics/collaborative teaching approaches.md)
 
 ## Tags
 
-- [[../tags/art-therapy]]
-- [[../tags/creative-expression]]
-- [[../tags/educational-practices]]
-- [[../tags/mental-health]]
-- [[../tags/student-wellbeing]]
-- [[../tags/fxa301]]
+- [art-therapy](../tags/art-therapy.md)
+- [creative-expression](../tags/creative-expression.md)
+- [educational-practices](../tags/educational-practices.md)
+- [mental-health](../tags/mental-health.md)
+- [student-wellbeing](../tags/student-wellbeing.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/creative-expression]]
-- [[../topics/mental-health]]
+- [creative-expression](../topics/creative-expression.md)
+- [mental-health](../topics/mental-health.md)

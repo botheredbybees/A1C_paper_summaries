@@ -26,5 +26,5 @@ Sources discuss the use of music as an intervention to activate brain regions af
 
 ## Sources
 
-- [[../sources/fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers]]
-- [[../sources/fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35]]
+- [fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers](../sources/fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers.md)
+- [fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35](../sources/fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35.md)

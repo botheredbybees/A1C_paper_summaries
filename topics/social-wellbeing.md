@@ -28,7 +28,7 @@ The integration of arts-based interventions such as singing, dancing, and ballet
 
 ## Sources
 
-- [[../sources/fxa100-week04-singing-and-participation]]
-- [[../sources/fxa301-week06-engaging-with-music-and-dance]]
-- [[../sources/fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project]]
-- [[../sources/fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community]]
+- [fxa100-week04-singing-and-participation](../sources/fxa100-week04-singing-and-participation.md)
+- [fxa301-week06-engaging-with-music-and-dance](../sources/fxa301-week06-engaging-with-music-and-dance.md)
+- [fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project](../sources/fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project.md)
+- [fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community](../sources/fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community.md)

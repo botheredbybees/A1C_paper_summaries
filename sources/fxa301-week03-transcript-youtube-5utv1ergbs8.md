@@ -24,15 +24,15 @@ The transcript describes a study led by Joseph Duzak, a neuroscientist at York U
 
 ## Key Concepts
 
-- [[../topics/cognitive-behavioral-intervention]]
-- [[../topics/neural-plasticity]]
+- [cognitive-behavioral-intervention](../topics/cognitive-behavioral-intervention.md)
+- [neural-plasticity](../topics/neural-plasticity.md)
 
 ## Tags
 
-- [[../tags/parkinsons-disease]]
-- [[../tags/neuroscience-research]]
-- [[../tags/dance-therapy]]
-- [[../tags/fxa301]]
+- [parkinsons-disease](../tags/parkinsons-disease.md)
+- [neuroscience-research](../tags/neuroscience-research.md)
+- [dance-therapy](../tags/dance-therapy.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -40,6 +40,6 @@ The transcript describes a study led by Joseph Duzak, a neuroscientist at York U
 
 ## See Also
 
-- [[../topics/dance-therapy]]
-- [[../topics/neuroscience-research]]
-- [[../topics/parkinsons-disease]]
+- [dance-therapy](../topics/dance-therapy.md)
+- [neuroscience-research](../topics/neuroscience-research.md)
+- [parkinsons-disease](../topics/parkinsons-disease.md)

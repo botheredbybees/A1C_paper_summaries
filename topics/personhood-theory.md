@@ -33,6 +33,6 @@ Overall, these sources collectively underscore the importance of viewing persons
 
 ## Sources
 
-- [[../sources/fxa100-excellence-in-dementia-care--ch23-2-there-is-no-doubt-that-one-of-the-major-changes-we-see-in]]
-- [[../sources/fxa100-how-we-thnk-about-dementia-ch08-chapter-4]]
-- [[../sources/fxa100-how-we-thnk-about-dementia-ch12-chapter-4]]
+- [fxa100-excellence-in-dementia-care--ch23-2-there-is-no-doubt-that-one-of-the-major-changes-we-see-in](../sources/fxa100-excellence-in-dementia-care--ch23-2-there-is-no-doubt-that-one-of-the-major-changes-we-see-in.md)
+- [fxa100-how-we-thnk-about-dementia-ch08-chapter-4](../sources/fxa100-how-we-thnk-about-dementia-ch08-chapter-4.md)
+- [fxa100-how-we-thnk-about-dementia-ch12-chapter-4](../sources/fxa100-how-we-thnk-about-dementia-ch12-chapter-4.md)

@@ -24,28 +24,28 @@ This pilot study explores the impact of a creative art program on self-esteem, h
 
 ## Key Concepts
 
-- [[../topics/self-esteem]]
-- [[../topics/hope]]
-- [[../topics/perceived social support]]
-- [[../topics/self-efficacy]]
+- [self-esteem](../topics/self-esteem.md)
+- [hope](../topics/hope.md)
+- [perceived social support](../topics/perceived social support.md)
+- [self-efficacy](../topics/self-efficacy.md)
 
 ## Tags
 
-- [[../tags/creative-arts]]
-- [[../tags/multiple-sclerosis]]
-- [[../tags/psychosocial-measures]]
-- [[../tags/self-efficacy]]
-- [[../tags/hope]]
-- [[../tags/social-support]]
-- [[../tags/fxa301]]
+- [creative-arts](../tags/creative-arts.md)
+- [multiple-sclerosis](../tags/multiple-sclerosis.md)
+- [psychosocial-measures](../tags/psychosocial-measures.md)
+- [self-efficacy](../tags/self-efficacy.md)
+- [hope](../tags/hope.md)
+- [social-support](../tags/social-support.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[pilot study]]
-- [[one-group pretest/posttest design]]
+- [pilot study](pilot study.md)
+- [posttest design](one-group pretest/posttest design.md)
 
 ## See Also
 
-- [[../topics/creative-arts]]
-- [[../topics/multiple-sclerosis]]
-- [[../topics/social-support]]
+- [creative-arts](../topics/creative-arts.md)
+- [multiple-sclerosis](../topics/multiple-sclerosis.md)
+- [social-support](../topics/social-support.md)

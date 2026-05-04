@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Aged Care Outreach
 
-- [[../sources/fxa100-week07-aged-care-outreach|Aged care outreach]]
+- [Aged care outreach](../sources/fxa100-week07-aged-care-outreach.md)

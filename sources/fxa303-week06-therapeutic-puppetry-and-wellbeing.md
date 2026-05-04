@@ -26,26 +26,26 @@ Therapeutic Puppetry and Wellbeing explores how puppets can be used as tools for
 
 ## Key Concepts
 
-- [[../topics/puppets as diagnostic tools]]
-- [[../topics/non-verbal expression]]
-- [[../topics/psychological catharsis]]
+- [puppets as diagnostic tools](../topics/puppets as diagnostic tools.md)
+- [non-verbal expression](../topics/non-verbal expression.md)
+- [psychological catharsis](../topics/psychological catharsis.md)
 
 ## Tags
 
-- [[../tags/therapeutic-puppetry]]
-- [[../tags/mental-health-interventions]]
-- [[../tags/clinical-therapy]]
-- [[../tags/emotional-expression]]
-- [[../tags/self-reflection]]
-- [[../tags/fxa303]]
+- [therapeutic-puppetry](../tags/therapeutic-puppetry.md)
+- [mental-health-interventions](../tags/mental-health-interventions.md)
+- [clinical-therapy](../tags/clinical-therapy.md)
+- [emotional-expression](../tags/emotional-expression.md)
+- [self-reflection](../tags/self-reflection.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/emotional-expression]]
-- [[../topics/mental-health-interventions]]
-- [[../topics/self-reflection]]
-- [[../topics/therapeutic-puppetry]]
+- [emotional-expression](../topics/emotional-expression.md)
+- [mental-health-interventions](../topics/mental-health-interventions.md)
+- [self-reflection](../topics/self-reflection.md)
+- [therapeutic-puppetry](../topics/therapeutic-puppetry.md)

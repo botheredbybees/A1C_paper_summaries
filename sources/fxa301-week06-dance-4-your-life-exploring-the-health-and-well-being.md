@@ -24,22 +24,22 @@ This study evaluated the physiological and psychological impact of contemporary 
 
 ## Key Concepts
 
-- [[../topics/aerobic-capacity]]
-- [[../topics/self-esteem]]
-- [[../topics/upper-body-strength]]
+- [aerobic-capacity](../topics/aerobic-capacity.md)
+- [self-esteem](../topics/self-esteem.md)
+- [upper-body-strength](../topics/upper-body-strength.md)
 
 ## Tags
 
-- [[../tags/dance-intervention]]
-- [[../tags/adolescent-health]]
-- [[../tags/female-physical-wellbeing]]
-- [[../tags/fxa301]]
+- [dance-intervention](../tags/dance-intervention.md)
+- [adolescent-health](../tags/adolescent-health.md)
+- [female-physical-wellbeing](../tags/female-physical-wellbeing.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[pre-post assessment]]
+- [pre-post assessment](pre-post assessment.md)
 
 ## See Also
 
-- [[../topics/adolescent-health]]
-- [[../topics/dance-intervention]]
+- [adolescent-health](../topics/adolescent-health.md)
+- [dance-intervention](../topics/dance-intervention.md)

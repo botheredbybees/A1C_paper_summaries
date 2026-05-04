@@ -24,16 +24,16 @@ Week 3 of the course includes a reading activity featuring an ABC Radio National
 
 ## Key Concepts
 
-- [[../topics/mental-wellbeing]]
-- [[../topics/creative-aging]]
-- [[../topics/arts-engagement]]
+- [mental-wellbeing](../topics/mental-wellbeing.md)
+- [creative-aging](../topics/creative-aging.md)
+- [arts-engagement](../topics/arts-engagement.md)
 
 ## Tags
 
-- [[../tags/arts-in-community]]
-- [[../tags/wellbeing-through-art]]
-- [[../tags/health-policy]]
-- [[../tags/fxa301]]
+- [arts-in-community](../tags/arts-in-community.md)
+- [wellbeing-through-art](../tags/wellbeing-through-art.md)
+- [health-policy](../tags/health-policy.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,6 +41,6 @@ Week 3 of the course includes a reading activity featuring an ABC Radio National
 
 ## See Also
 
-- [[../topics/arts-in-community]]
-- [[../topics/health-policy]]
-- [[../topics/wellbeing-through-art]]
+- [arts-in-community](../topics/arts-in-community.md)
+- [health-policy](../topics/health-policy.md)
+- [wellbeing-through-art](../topics/wellbeing-through-art.md)

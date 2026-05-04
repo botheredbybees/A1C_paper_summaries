@@ -28,7 +28,7 @@ The sources collectively explore the personal reflection process through various
 
 ## Sources
 
-- [[../sources/fxa100-week02-lesson-fxa100-week02-page-4-week-2-activities]]
-- [[../sources/fxa202-week06-reflection-on-the-therapeutic-and-artistic-process-of]]
-- [[../sources/fxa202-week09-reflection-on-creating-a-photo-essay-about-breast-cancer]]
-- [[../sources/fxa202-week09-reflections-on-grieving-at-a-seaside-pier]]
+- [fxa100-week02-lesson-fxa100-week02-page-4-week-2-activities](../sources/fxa100-week02-lesson-fxa100-week02-page-4-week-2-activities.md)
+- [fxa202-week06-reflection-on-the-therapeutic-and-artistic-process-of](../sources/fxa202-week06-reflection-on-the-therapeutic-and-artistic-process-of.md)
+- [fxa202-week09-reflection-on-creating-a-photo-essay-about-breast-cancer](../sources/fxa202-week09-reflection-on-creating-a-photo-essay-about-breast-cancer.md)
+- [fxa202-week09-reflections-on-grieving-at-a-seaside-pier](../sources/fxa202-week09-reflections-on-grieving-at-a-seaside-pier.md)

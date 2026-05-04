@@ -24,24 +24,24 @@ This document provides an overview of Week 6 in the FXA303 Creative Arts, Play a
 
 ## Key Concepts
 
-- [[../topics/indirect-expression]]
-- [[../topics/therapeutic-use-of-puppets]]
+- [indirect-expression](../topics/indirect-expression.md)
+- [therapeutic-use-of-puppets](../topics/therapeutic-use-of-puppets.md)
 
 ## Tags
 
-- [[../tags/creative-arts]]
-- [[../tags/play-therapy]]
-- [[../tags/mental-wellbeing]]
-- [[../tags/puppetry]]
-- [[../tags/fxa303]]
+- [creative-arts](../tags/creative-arts.md)
+- [play-therapy](../tags/play-therapy.md)
+- [mental-wellbeing](../tags/mental-wellbeing.md)
+- [puppetry](../tags/puppetry.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/creative-arts]]
-- [[../topics/mental-wellbeing]]
-- [[../topics/play-therapy]]
-- [[../topics/puppetry]]
+- [creative-arts](../topics/creative-arts.md)
+- [mental-wellbeing](../topics/mental-wellbeing.md)
+- [play-therapy](../topics/play-therapy.md)
+- [puppetry](../topics/puppetry.md)

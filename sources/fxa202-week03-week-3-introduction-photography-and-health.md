@@ -24,22 +24,22 @@ The Week 3 lecture of the course 'FXA202 The Photo Essay: Storytelling with Imag
 
 ## Key Concepts
 
-- [[../topics/therapeutic-photography]]
-- [[../topics/nomophobia]]
-- [[../topics/mindfulness]]
+- [therapeutic-photography](../topics/therapeutic-photography.md)
+- [nomophobia](../topics/nomophobia.md)
+- [mindfulness](../topics/mindfulness.md)
 
 ## Tags
 
-- [[../tags/photography-therapy]]
-- [[../tags/social-media-health]]
-- [[../tags/mental-wellbeing]]
-- [[../tags/fxa202]]
+- [photography-therapy](../tags/photography-therapy.md)
+- [social-media-health](../tags/social-media-health.md)
+- [mental-wellbeing](../tags/mental-wellbeing.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[lecture]]
+- [lecture](lecture.md)
 
 ## See Also
 
-- [[../topics/mental-wellbeing]]
-- [[../topics/photography-therapy]]
+- [mental-wellbeing](../topics/mental-wellbeing.md)
+- [photography-therapy](../topics/photography-therapy.md)

@@ -24,23 +24,23 @@ The Australian Music Therapy Association's Disability Evidence Summary 2024 prov
 
 ## Key Concepts
 
-- [[../topics/music therapy techniques]]
-- [[../topics/registered music therapists]]
-- [[../topics/community participation]]
+- [music therapy techniques](../topics/music therapy techniques.md)
+- [registered music therapists](../topics/registered music therapists.md)
+- [community participation](../topics/community participation.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/disability-support]]
-- [[../tags/therapeutic-outcomes]]
-- [[../tags/evidence-based-practice]]
-- [[../tags/fxa100]]
+- [music-therapy](../tags/music-therapy.md)
+- [disability-support](../tags/disability-support.md)
+- [therapeutic-outcomes](../tags/therapeutic-outcomes.md)
+- [evidence-based-practice](../tags/evidence-based-practice.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/evidence-based-practice]]
-- [[../topics/music-therapy]]
+- [evidence-based-practice](../topics/evidence-based-practice.md)
+- [music-therapy](../topics/music-therapy.md)

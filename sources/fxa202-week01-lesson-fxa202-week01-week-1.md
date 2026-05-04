@@ -24,15 +24,15 @@ This is the introduction to the LAW122 unit on visual storytelling through photo
 
 ## Key Concepts
 
-- [[../topics/photo essay format]]
-- [[../topics/interaction between words and images]]
+- [photo essay format](../topics/photo essay format.md)
+- [interaction between words and images](../topics/interaction between words and images.md)
 
 ## Tags
 
-- [[../tags/visual storytelling]]
-- [[../tags/photography basics]]
-- [[../tags/discussion boards]]
-- [[../tags/fxa202]]
+- [visual storytelling](../tags/visual storytelling.md)
+- [photography basics](../tags/photography basics.md)
+- [discussion boards](../tags/discussion boards.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ This is the introduction to the LAW122 unit on visual storytelling through photo
 
 ## See Also
 
-- [[../topics/visual-storytelling]]
+- [visual-storytelling](../topics/visual-storytelling.md)

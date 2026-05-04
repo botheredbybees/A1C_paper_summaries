@@ -24,16 +24,16 @@ This YouTube video transcript discusses the profound impact literature has had o
 
 ## Key Concepts
 
-- [[../topics/shared-reading-groups]]
-- [[../topics/emotional-recovery-through-literature]]
-- [[../topics/social-connectivity]]
+- [shared-reading-groups](../topics/shared-reading-groups.md)
+- [emotional-recovery-through-literature](../topics/emotional-recovery-through-literature.md)
+- [social-connectivity](../topics/social-connectivity.md)
 
 ## Tags
 
-- [[../tags/literature-impact]]
-- [[../tags/mental-health-support]]
-- [[../tags/community-engagement]]
-- [[../tags/fxa301]]
+- [literature-impact](../tags/literature-impact.md)
+- [mental-health-support](../tags/mental-health-support.md)
+- [community-engagement](../tags/community-engagement.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,4 +41,4 @@ This YouTube video transcript discusses the profound impact literature has had o
 
 ## See Also
 
-- [[../topics/mental-health-support]]
+- [mental-health-support](../topics/mental-health-support.md)

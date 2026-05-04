@@ -24,16 +24,16 @@ This week's lesson explores community-based visual arts projects that aim to fos
 
 ## Key Concepts
 
-- [[../topics/color-therapy]]
-- [[../topics/artistic-genius]]
-- [[../topics/wellbeing-improvement]]
+- [color-therapy](../topics/color-therapy.md)
+- [artistic-genius](../topics/artistic-genius.md)
+- [wellbeing-improvement](../topics/wellbeing-improvement.md)
 
 ## Tags
 
-- [[../tags/visual-arts]]
-- [[../tags/community-engagement]]
-- [[../tags/therapeutic-art]]
-- [[../tags/fxa301]]
+- [visual-arts](../tags/visual-arts.md)
+- [community-engagement](../tags/community-engagement.md)
+- [therapeutic-art](../tags/therapeutic-art.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ This week's lesson explores community-based visual arts projects that aim to fos
 
 ## See Also
 
-- [[../topics/therapeutic-art]]
-- [[../topics/visual-arts]]
+- [therapeutic-art](../topics/therapeutic-art.md)
+- [visual-arts](../topics/visual-arts.md)

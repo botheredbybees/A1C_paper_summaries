@@ -24,15 +24,15 @@ In his TEDx talk at West Chester, John Gerdy discusses the value of investing in
 
 ## Key Concepts
 
-- [[../topics/creativity]]
-- [[../topics/public-health-benefits-of-art]]
+- [creativity](../topics/creativity.md)
+- [public-health-benefits-of-art](../topics/public-health-benefits-of-art.md)
 
 ## Tags
 
-- [[../tags/arts-investment]]
-- [[../tags/community-development]]
-- [[../tags/economic-benefits]]
-- [[../tags/fxa301]]
+- [arts-investment](../tags/arts-investment.md)
+- [community-development](../tags/community-development.md)
+- [economic-benefits](../tags/economic-benefits.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ In his TEDx talk at West Chester, John Gerdy discusses the value of investing in
 
 ## See Also
 
-- [[../topics/community-development]]
+- [community-development](../topics/community-development.md)

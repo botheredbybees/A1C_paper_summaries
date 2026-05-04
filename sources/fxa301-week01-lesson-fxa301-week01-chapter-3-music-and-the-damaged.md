@@ -24,16 +24,16 @@ The content for this week includes weekly lectures on Tuesday from 4:15pm to 5:1
 
 ## Key Concepts
 
-- [[../topics/aesthetic emotions]]
-- [[../topics/brain-perception-processing]]
-- [[../topics/vitality-related-emotions]]
+- [aesthetic emotions](../topics/aesthetic emotions.md)
+- [brain-perception-processing](../topics/brain-perception-processing.md)
+- [vitality-related-emotions](../topics/vitality-related-emotions.md)
 
 ## Tags
 
-- [[../tags/arts-in-community]]
-- [[../tags/emotional-experience]]
-- [[../tags/perception-and-brain]]
-- [[../tags/fxa301]]
+- [arts-in-community](../tags/arts-in-community.md)
+- [emotional-experience](../tags/emotional-experience.md)
+- [perception-and-brain](../tags/perception-and-brain.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ The content for this week includes weekly lectures on Tuesday from 4:15pm to 5:1
 
 ## See Also
 
-- [[../topics/arts-in-community]]
-- [[../topics/emotional-experience]]
+- [arts-in-community](../topics/arts-in-community.md)
+- [emotional-experience](../topics/emotional-experience.md)

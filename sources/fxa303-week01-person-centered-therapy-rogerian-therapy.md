@@ -28,23 +28,23 @@ Despite these criticisms, person-centered therapy is widely used across various 
 
 ## Key Concepts
 
-- [[../topics/empathy]]
-- [[../topics/unconditional-positive-regard]]
-- [[../topics/self-actualization]]
+- [empathy](../topics/empathy.md)
+- [unconditional-positive-regard](../topics/unconditional-positive-regard.md)
+- [self-actualization](../topics/self-actualization.md)
 
 ## Tags
 
-- [[../tags/person-centered-therapy]]
-- [[../tags/rogerian-therapy]]
-- [[../tags/client-autonomy]]
-- [[../tags/therapeutic-relationship]]
-- [[../tags/psychological-growth]]
-- [[../tags/fxa303]]
+- [person-centered-therapy](../tags/person-centered-therapy.md)
+- [rogerian-therapy](../tags/rogerian-therapy.md)
+- [client-autonomy](../tags/client-autonomy.md)
+- [therapeutic-relationship](../tags/therapeutic-relationship.md)
+- [psychological-growth](../tags/psychological-growth.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/therapeutic-relationship]]
+- [therapeutic-relationship](../topics/therapeutic-relationship.md)

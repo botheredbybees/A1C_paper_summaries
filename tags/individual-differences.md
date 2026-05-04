@@ -6,5 +6,5 @@ updated: 2026-05-04
 
 ## Individual Differences
 
-- [[../sources/fxa301-week02-aesthetic-judgments-of-novel-graphic-patterns-analyses-of|Aesthetic Judgments of Novel Graphic Patterns: Analyses of Individual Judgments]]
-- [[../sources/fxa301-week02-emotions-during-live-music-performance-links-with|Emotions During Live Music Performance: Links With Individual Differences in Empathy, Visual Imagery, and Mood]]
+- [Aesthetic Judgments of Novel Graphic Patterns: Analyses of Individual Judgments](../sources/fxa301-week02-aesthetic-judgments-of-novel-graphic-patterns-analyses-of.md)
+- [Emotions During Live Music Performance: Links With Individual Differences in Empathy, Visual Imagery, and Mood](../sources/fxa301-week02-emotions-during-live-music-performance-links-with.md)

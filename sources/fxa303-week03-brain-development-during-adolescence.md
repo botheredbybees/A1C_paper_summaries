@@ -24,24 +24,24 @@ This review article discusses the neuroscientific insights into brain developmen
 
 ## Key Concepts
 
-- [[../topics/executive-function]]
-- [[../topics/reward-processing]]
-- [[../topics/cognitive-emotional-maturation]]
+- [executive-function](../topics/executive-function.md)
+- [reward-processing](../topics/reward-processing.md)
+- [cognitive-emotional-maturation](../topics/cognitive-emotional-maturation.md)
 
 ## Tags
 
-- [[../tags/brain-development]]
-- [[../tags/adolescence]]
-- [[../tags/neuroscience-insights]]
-- [[../tags/gray-matter-density]]
-- [[../tags/white-matter-volume]]
-- [[../tags/fxa303]]
+- [brain-development](../tags/brain-development.md)
+- [adolescence](../tags/adolescence.md)
+- [neuroscience-insights](../tags/neuroscience-insights.md)
+- [gray-matter-density](../tags/gray-matter-density.md)
+- [white-matter-volume](../tags/white-matter-volume.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/adolescence]]
-- [[../topics/brain-development]]
+- [adolescence](../topics/adolescence.md)
+- [brain-development](../topics/brain-development.md)

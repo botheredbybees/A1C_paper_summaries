@@ -24,23 +24,23 @@ The 'Afloat' project, initiated by the City of Hobart following the destructive 
 
 ## Key Concepts
 
-- [[../topics/creative recovery]]
-- [[../topics/pedagogies of visual literacy]]
-- [[../topics/community well-being]]
+- [creative recovery](../topics/creative recovery.md)
+- [pedagogies of visual literacy](../topics/pedagogies of visual literacy.md)
+- [community well-being](../topics/community well-being.md)
 
 ## Tags
 
-- [[../tags/community-resilience]]
-- [[../tags/creative-arts-recovery]]
-- [[../tags/environmental-disaster-response]]
-- [[../tags/child-psychosocial-support]]
-- [[../tags/urban-planning]]
-- [[../tags/fxa303]]
+- [community-resilience](../tags/community-resilience.md)
+- [creative-arts-recovery](../tags/creative-arts-recovery.md)
+- [environmental-disaster-response](../tags/environmental-disaster-response.md)
+- [child-psychosocial-support](../tags/child-psychosocial-support.md)
+- [urban-planning](../tags/urban-planning.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/community-resilience]]
+- [community-resilience](../topics/community-resilience.md)

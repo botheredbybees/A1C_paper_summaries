@@ -26,25 +26,25 @@ The study investigates the effectiveness of puppet shows and storytelling on beh
 
 ## Key Concepts
 
-- [[../topics/behavioral problems]]
-- [[../topics/quasi-experimental design]]
-- [[../topics/therapeutic value]]
+- [behavioral problems](../topics/behavioral problems.md)
+- [quasi-experimental design](../topics/quasi-experimental design.md)
+- [therapeutic value](../topics/therapeutic value.md)
 
 ## Tags
 
-- [[../tags/behavioral-problems]]
-- [[../tags/creative-therapies]]
-- [[../tags/early-childhood-intervention]]
-- [[../tags/puppet-shows]]
-- [[../tags/storytelling]]
-- [[../tags/fxa303]]
+- [behavioral-problems](../tags/behavioral-problems.md)
+- [creative-therapies](../tags/creative-therapies.md)
+- [early-childhood-intervention](../tags/early-childhood-intervention.md)
+- [puppet-shows](../tags/puppet-shows.md)
+- [storytelling](../tags/storytelling.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[quasi-experimental study]]
-- [[pretest-posttest]]
+- [quasi-experimental study](quasi-experimental study.md)
+- [pretest-posttest](pretest-posttest.md)
 
 ## See Also
 
-- [[../topics/creative-therapies]]
-- [[../topics/storytelling]]
+- [creative-therapies](../topics/creative-therapies.md)
+- [storytelling](../topics/storytelling.md)

@@ -26,5 +26,5 @@ This literature review synthesizes findings from interventions aimed at supporti
 
 ## Sources
 
-- [[../sources/fxa303-week04-child-centered-play-therapy-as-an-intervention-for-children]]
-- [[../sources/fxa303-week05-puppet-as-a-pedagogical-tool-a-literature-review]]
+- [fxa303-week04-child-centered-play-therapy-as-an-intervention-for-children](../sources/fxa303-week04-child-centered-play-therapy-as-an-intervention-for-children.md)
+- [fxa303-week05-puppet-as-a-pedagogical-tool-a-literature-review](../sources/fxa303-week05-puppet-as-a-pedagogical-tool-a-literature-review.md)

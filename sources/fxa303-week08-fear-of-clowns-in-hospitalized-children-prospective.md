@@ -24,25 +24,25 @@ This study investigates the prevalence and characteristics of fear of clowns (co
 
 ## Key Concepts
 
-- [[../topics/fear of clowns]]
-- [[../topics/psychological well-being]]
-- [[../topics/medical clown intervention]]
+- [fear of clowns](../topics/fear of clowns.md)
+- [psychological well-being](../topics/psychological well-being.md)
+- [medical clown intervention](../topics/medical clown intervention.md)
 
 ## Tags
 
-- [[../tags/hospitalized-children]]
-- [[../tags/coulrophobia]]
-- [[../tags/medical-clowns]]
-- [[../tags/pediatric-psychology]]
-- [[../tags/anxiety-reactions]]
-- [[../tags/fxa303]]
+- [hospitalized-children](../tags/hospitalized-children.md)
+- [coulrophobia](../tags/coulrophobia.md)
+- [medical-clowns](../tags/medical-clowns.md)
+- [pediatric-psychology](../tags/pediatric-psychology.md)
+- [anxiety-reactions](../tags/anxiety-reactions.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[prospective study]]
+- [prospective study](prospective study.md)
 
 ## See Also
 
-- [[../topics/coulrophobia]]
-- [[../topics/medical-clowns]]
-- [[../topics/pediatric-psychology]]
+- [coulrophobia](../topics/coulrophobia.md)
+- [medical-clowns](../topics/medical-clowns.md)
+- [pediatric-psychology](../topics/pediatric-psychology.md)

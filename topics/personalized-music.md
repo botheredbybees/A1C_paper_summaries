@@ -28,7 +28,7 @@ The evaluation of personalized music interventions among individuals with dement
 
 ## Sources
 
-- [[../sources/fxa100-week03-evaluation-of-the-music-and-memory-program-among-nursing]]
-- [[../sources/fxa100-week03-listening-and-dementia-care]]
-- [[../sources/fxa100-week03-music-and-memories-ipod-eau-claire-community-project-results]]
-- [[../sources/fxa100-week03-personalized-music-for-persons-with-dementia-and-their-life]]
+- [fxa100-week03-evaluation-of-the-music-and-memory-program-among-nursing](../sources/fxa100-week03-evaluation-of-the-music-and-memory-program-among-nursing.md)
+- [fxa100-week03-listening-and-dementia-care](../sources/fxa100-week03-listening-and-dementia-care.md)
+- [fxa100-week03-music-and-memories-ipod-eau-claire-community-project-results](../sources/fxa100-week03-music-and-memories-ipod-eau-claire-community-project-results.md)
+- [fxa100-week03-personalized-music-for-persons-with-dementia-and-their-life](../sources/fxa100-week03-personalized-music-for-persons-with-dementia-and-their-life.md)

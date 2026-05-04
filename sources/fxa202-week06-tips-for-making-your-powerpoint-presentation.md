@@ -24,15 +24,15 @@ This document provides practical tips for creating a PowerPoint presentation. It
 
 ## Key Concepts
 
-- [[../topics/slide-layouts]]
-- [[../topics/image-insertion]]
+- [slide-layouts](../topics/slide-layouts.md)
+- [image-insertion](../topics/image-insertion.md)
 
 ## Tags
 
-- [[../tags/presentation-skills]]
-- [[../tags/powerpoint-usage]]
-- [[../tags/visual-presentation]]
-- [[../tags/fxa202]]
+- [presentation-skills](../tags/presentation-skills.md)
+- [powerpoint-usage](../tags/powerpoint-usage.md)
+- [visual-presentation](../tags/visual-presentation.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

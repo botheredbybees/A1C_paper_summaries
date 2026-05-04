@@ -24,25 +24,25 @@ The document provides an overview of the services offered by The Music Therapy C
 
 ## Key Concepts
 
-- [[../topics/music therapy]]
-- [[../topics/neurologic music therapy]]
-- [[../topics/social interaction]]
+- [music therapy](../topics/music therapy.md)
+- [neurologic music therapy](../topics/neurologic music therapy.md)
+- [social interaction](../topics/social interaction.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/community-services]]
-- [[../tags/neurological-rehabilitation]]
-- [[../tags/pediatric-care]]
-- [[../tags/mental-wellbeing]]
-- [[../tags/fxa303]]
+- [music-therapy](../tags/music-therapy.md)
+- [community-services](../tags/community-services.md)
+- [neurological-rehabilitation](../tags/neurological-rehabilitation.md)
+- [pediatric-care](../tags/pediatric-care.md)
+- [mental-wellbeing](../tags/mental-wellbeing.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/mental-wellbeing]]
-- [[../topics/music-therapy]]
-- [[../topics/pediatric-care]]
+- [mental-wellbeing](../topics/mental-wellbeing.md)
+- [music-therapy](../topics/music-therapy.md)
+- [pediatric-care](../topics/pediatric-care.md)

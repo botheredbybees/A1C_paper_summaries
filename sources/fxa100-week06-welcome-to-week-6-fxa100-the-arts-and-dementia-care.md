@@ -24,26 +24,26 @@ Dr Brendan Lamb introduces Week 6 of the FXA100 The Arts and Dementia Care cours
 
 ## Key Concepts
 
-- [[../topics/Art Therapy]]
-- [[../topics/Embodied Cognition]]
-- [[../topics/Dementia Care Settings]]
+- [Art Therapy](../topics/Art Therapy.md)
+- [Embodied Cognition](../topics/Embodied Cognition.md)
+- [Dementia Care Settings](../topics/Dementia Care Settings.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/visual-arts]]
-- [[../tags/art-therapy]]
-- [[../tags/cognitive-neuroscience]]
-- [[../tags/quality-of-life]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [visual-arts](../tags/visual-arts.md)
+- [art-therapy](../tags/art-therapy.md)
+- [cognitive-neuroscience](../tags/cognitive-neuroscience.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/cognitive-neuroscience]]
-- [[../topics/dementia-care]]
-- [[../topics/quality-of-life]]
-- [[../topics/visual-arts]]
+- [cognitive-neuroscience](../topics/cognitive-neuroscience.md)
+- [dementia-care](../topics/dementia-care.md)
+- [quality-of-life](../topics/quality-of-life.md)
+- [visual-arts](../topics/visual-arts.md)

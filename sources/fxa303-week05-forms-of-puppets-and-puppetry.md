@@ -30,20 +30,20 @@ The text also covers European puppet traditions influenced by Greek and Roman pr
 
 ## Key Concepts
 
-- [[../topics/mammoth-ivory-puppets]]
-- [[../topics/bunraku-theatre]]
+- [mammoth-ivory-puppets](../topics/mammoth-ivory-puppets.md)
+- [bunraku-theatre](../topics/bunraku-theatre.md)
 
 ## Tags
 
-- [[../tags/puppetry-history]]
-- [[../tags/cultural-significance]]
-- [[../tags/ancient-civilizations]]
-- [[../tags/fxa303]]
+- [puppetry-history](../tags/puppetry-history.md)
+- [cultural-significance](../tags/cultural-significance.md)
+- [ancient-civilizations](../tags/ancient-civilizations.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[historical-analysis]]
+- [historical-analysis](historical-analysis.md)
 
 ## See Also
 
-- [[../topics/cultural-significance]]
+- [cultural-significance](../topics/cultural-significance.md)

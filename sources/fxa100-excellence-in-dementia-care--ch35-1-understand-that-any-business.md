@@ -24,16 +24,16 @@ This chapter discusses the development and implementation of dementia-friendly c
 
 ## Key Concepts
 
-- [[../topics/community-involvement]]
-- [[../topics/inclusive-environments]]
-- [[../topics/legal-obligations]]
+- [community-involvement](../topics/community-involvement.md)
+- [inclusive-environments](../topics/inclusive-environments.md)
+- [legal-obligations](../topics/legal-obligations.md)
 
 ## Tags
 
-- [[../tags/dementia-friendly-communities]]
-- [[../tags/cost-savings]]
-- [[../tags/awareness-raising-initiatives]]
-- [[../tags/fxa100]]
+- [dementia-friendly-communities](../tags/dementia-friendly-communities.md)
+- [cost-savings](../tags/cost-savings.md)
+- [awareness-raising-initiatives](../tags/awareness-raising-initiatives.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -41,4 +41,4 @@ This chapter discusses the development and implementation of dementia-friendly c
 
 ## See Also
 
-- [[../topics/dementia-friendly-communities]]
+- [dementia-friendly-communities](../topics/dementia-friendly-communities.md)

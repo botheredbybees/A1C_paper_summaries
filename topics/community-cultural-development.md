@@ -26,5 +26,5 @@ Community Cultural Development (CCD) is a practice that seeks to enhance communi
 
 ## Sources
 
-- [[../sources/fxa301-oxford-textbook-of-creative-arts-ch22-chapter-7]]
-- [[../sources/fxa301-oxford-textbook-of-creative-arts-ch23-1-a-research-project-that-examined-how-participation-can-be]]
+- [fxa301-oxford-textbook-of-creative-arts-ch22-chapter-7](../sources/fxa301-oxford-textbook-of-creative-arts-ch22-chapter-7.md)
+- [fxa301-oxford-textbook-of-creative-arts-ch23-1-a-research-project-that-examined-how-participation-can-be](../sources/fxa301-oxford-textbook-of-creative-arts-ch23-1-a-research-project-that-examined-how-participation-can-be.md)

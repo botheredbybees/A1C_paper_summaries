@@ -28,21 +28,21 @@ The report also covers awareness about dementia among Australians, revealing a g
 
 ## Key Concepts
 
-- [[../topics/modifiable-risk-factors]]
-- [[../topics/national-action-plan]]
+- [modifiable-risk-factors](../topics/modifiable-risk-factors.md)
+- [national-action-plan](../topics/national-action-plan.md)
 
 ## Tags
 
-- [[../tags/dementia-prevalence]]
-- [[../tags/risk-factors]]
-- [[../tags/public-awareness]]
-- [[../tags/fxa100]]
+- [dementia-prevalence](../tags/dementia-prevalence.md)
+- [risk-factors](../tags/risk-factors.md)
+- [public-awareness](../tags/public-awareness.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[report-analysis]]
+- [report-analysis](report-analysis.md)
 
 ## See Also
 
-- [[../topics/dementia-prevalence]]
-- [[../topics/risk-factors]]
+- [dementia-prevalence](../topics/dementia-prevalence.md)
+- [risk-factors](../topics/risk-factors.md)

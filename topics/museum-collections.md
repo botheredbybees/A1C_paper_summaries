@@ -26,5 +26,5 @@ The integration of museum collections into healthcare settings has emerged as an
 
 ## Sources
 
-- [[../sources/fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-(2)]]
-- [[../sources/fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a]]
+- [fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-(2)](../sources/fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-(2).md)
+- [fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a](../sources/fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a.md)

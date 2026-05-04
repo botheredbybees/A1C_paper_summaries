@@ -24,28 +24,28 @@ Jane Crosswell's essay 'Apples Never Fall' explores the therapeutic value of foo
 
 ## Key Concepts
 
-- [[../topics/personal-identity]]
-- [[../topics/cognitive-development]]
-- [[../topics/emotional-health]]
-- [[../topics/memory-preservation]]
-- [[../topics/arts-in-healthcare]]
+- [personal-identity](../topics/personal-identity.md)
+- [cognitive-development](../topics/cognitive-development.md)
+- [emotional-health](../topics/emotional-health.md)
+- [memory-preservation](../topics/memory-preservation.md)
+- [arts-in-healthcare](../topics/arts-in-healthcare.md)
 
 ## Tags
 
-- [[../tags/therapeutic-photography]]
-- [[../tags/family-wellbeing]]
-- [[../tags/food-memories]]
-- [[../tags/dementia-care]]
-- [[../tags/reminiscence-therapy]]
-- [[../tags/fxa202]]
+- [therapeutic-photography](../tags/therapeutic-photography.md)
+- [family-wellbeing](../tags/family-wellbeing.md)
+- [food-memories](../tags/food-memories.md)
+- [dementia-care](../tags/dementia-care.md)
+- [reminiscence-therapy](../tags/reminiscence-therapy.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[therapeutic-photography]]
+- [therapeutic-photography](therapeutic-photography.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/food-memories]]
-- [[../topics/reminiscence-therapy]]
-- [[../topics/therapeutic-photography]]
+- [dementia-care](../topics/dementia-care.md)
+- [food-memories](../topics/food-memories.md)
+- [reminiscence-therapy](../topics/reminiscence-therapy.md)
+- [therapeutic-photography](../topics/therapeutic-photography.md)

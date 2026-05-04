@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Medication Effects
 
-- [[../sources/fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia|First Hospitalised Falls Among People Living With Dementia: Risk Factors and Outcomes]]
+- [First Hospitalised Falls Among People Living With Dementia: Risk Factors and Outcomes](../sources/fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia.md)

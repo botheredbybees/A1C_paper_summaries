@@ -24,20 +24,20 @@ The history of music therapy traces back to ancient philosophers like Aristotle 
 
 ## Key Concepts
 
-- [[../topics/therapeutic-potential-of-music]]
-- [[../topics/institutionalization-of-profession]]
+- [therapeutic-potential-of-music](../topics/therapeutic-potential-of-music.md)
+- [institutionalization-of-profession](../topics/institutionalization-of-profession.md)
 
 ## Tags
 
-- [[../tags/music-therapy-history]]
-- [[../tags/professional-development]]
-- [[../tags/historical-evolution]]
-- [[../tags/fxa100]]
+- [music-therapy-history](../tags/music-therapy-history.md)
+- [professional-development](../tags/professional-development.md)
+- [historical-evolution](../tags/historical-evolution.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[historical-review]]
+- [historical-review](historical-review.md)
 
 ## See Also
 
-- [[../topics/professional-development]]
+- [professional-development](../topics/professional-development.md)

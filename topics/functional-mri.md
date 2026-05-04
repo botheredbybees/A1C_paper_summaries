@@ -26,5 +26,5 @@ The use of functional magnetic resonance imaging (fMRI) has become pivotal in st
 
 ## Sources
 
-- [[../sources/fxa100-week02-neuroplastic-effects-in-patients-with-traumatic-brain]]
-- [[../sources/fxa303-week04-characteristics-of-brains-in-autism-spectrum-disorder]]
+- [fxa100-week02-neuroplastic-effects-in-patients-with-traumatic-brain](../sources/fxa100-week02-neuroplastic-effects-in-patients-with-traumatic-brain.md)
+- [fxa303-week04-characteristics-of-brains-in-autism-spectrum-disorder](../sources/fxa303-week04-characteristics-of-brains-in-autism-spectrum-disorder.md)

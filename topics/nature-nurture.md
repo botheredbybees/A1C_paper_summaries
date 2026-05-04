@@ -26,5 +26,5 @@ The interplay between genetic inheritance (nature) and environmental influences 
 
 ## Sources
 
-- [[../sources/fxa303-week03-chapter-11-human-development-how-and-why-we-change]]
-- [[../sources/fxa303-week03-developmental-psychology-from-infancy-to-adulthood]]
+- [fxa303-week03-chapter-11-human-development-how-and-why-we-change](../sources/fxa303-week03-chapter-11-human-development-how-and-why-we-change.md)
+- [fxa303-week03-developmental-psychology-from-infancy-to-adulthood](../sources/fxa303-week03-developmental-psychology-from-infancy-to-adulthood.md)

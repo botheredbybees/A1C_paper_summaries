@@ -24,25 +24,25 @@ The document 'Creating Our Future' is a comprehensive report published by the Au
 
 ## Key Concepts
 
-- [[../topics/community-engagement]]
-- [[../topics/educational-outcomes]]
-- [[../topics/digital-arts]]
+- [community-engagement](../topics/community-engagement.md)
+- [educational-outcomes](../topics/educational-outcomes.md)
+- [digital-arts](../topics/digital-arts.md)
 
 ## Tags
 
-- [[../tags/arts-participation]]
-- [[../tags/cultural-diversity]]
-- [[../tags/social-cohesion]]
-- [[../tags/economic-growth]]
-- [[../tags/first-nations-arts]]
-- [[../tags/fxa301]]
+- [arts-participation](../tags/arts-participation.md)
+- [cultural-diversity](../tags/cultural-diversity.md)
+- [social-cohesion](../tags/social-cohesion.md)
+- [economic-growth](../tags/economic-growth.md)
+- [first-nations-arts](../tags/first-nations-arts.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[survey]]
+- [survey](survey.md)
 
 ## See Also
 
-- [[../topics/arts-participation]]
-- [[../topics/cultural-diversity]]
-- [[../topics/social-cohesion]]
+- [arts-participation](../topics/arts-participation.md)
+- [cultural-diversity](../topics/cultural-diversity.md)
+- [social-cohesion](../topics/social-cohesion.md)

@@ -26,17 +26,17 @@ This chapter explores the role of arts in therapeutic interventions for neurolog
 
 ## Key Concepts
 
-- [[../topics/sensory-processing-recovery]]
-- [[../topics/cognitive-recovery-post-stroke]]
-- [[../topics/social-responsiveness-in-autism]]
+- [sensory-processing-recovery](../topics/sensory-processing-recovery.md)
+- [cognitive-recovery-post-stroke](../topics/cognitive-recovery-post-stroke.md)
+- [social-responsiveness-in-autism](../topics/social-responsiveness-in-autism.md)
 
 ## Tags
 
-- [[../tags/neurological-conditions]]
-- [[../tags/art-therapy]]
-- [[../tags/music-therapy]]
-- [[../tags/health-interventions]]
-- [[../tags/fxa301]]
+- [neurological-conditions](../tags/neurological-conditions.md)
+- [art-therapy](../tags/art-therapy.md)
+- [music-therapy](../tags/music-therapy.md)
+- [health-interventions](../tags/health-interventions.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

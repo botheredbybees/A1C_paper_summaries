@@ -24,16 +24,16 @@ The Australia Council report 'Creating Pathways: Insights on Support for Artists
 
 ## Key Concepts
 
-- [[../topics/accessibility]]
-- [[../topics/representation]]
-- [[../topics/diversity in arts]]
+- [accessibility](../topics/accessibility.md)
+- [representation](../topics/representation.md)
+- [diversity in arts](../topics/diversity in arts.md)
 
 ## Tags
 
-- [[../tags/arts-and-disability]]
-- [[../tags/inclusion-in-arts]]
-- [[../tags/cultural-diversity]]
-- [[../tags/fxa301]]
+- [arts-and-disability](../tags/arts-and-disability.md)
+- [inclusion-in-arts](../tags/inclusion-in-arts.md)
+- [cultural-diversity](../tags/cultural-diversity.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ The Australia Council report 'Creating Pathways: Insights on Support for Artists
 
 ## See Also
 
-- [[../topics/arts-and-disability]]
-- [[../topics/cultural-diversity]]
+- [arts-and-disability](../topics/arts-and-disability.md)
+- [cultural-diversity](../topics/cultural-diversity.md)

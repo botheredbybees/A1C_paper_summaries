@@ -33,12 +33,12 @@ The sources collectively highlight the significant role of social interactions a
 
 ## Sources
 
-- [[../sources/fxa100-creativity-and-communication-ch07-7-making-it-all-up-improvisation-and-other-dramas-john]]
-- [[../sources/fxa100-week04-the-perceived-benefits-of-singing-findings-from-preliminary]]
-- [[../sources/fxa100-week07-aged-care-outreach]]
-- [[../sources/fxa100-week07-iremember-loan-resource-flyer]]
-- [[../sources/fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum]]
-- [[../sources/fxa301-week08-the-cultural-value-of-older-peoples-experiences-of-theater]]
-- [[../sources/fxa303-play-for-health-across-the-lifespan-ch06-chapter-7]]
-- [[../sources/fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than]]
-- [[../sources/fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an]]
+- [fxa100-creativity-and-communication-ch07-7-making-it-all-up-improvisation-and-other-dramas-john](../sources/fxa100-creativity-and-communication-ch07-7-making-it-all-up-improvisation-and-other-dramas-john.md)
+- [fxa100-week04-the-perceived-benefits-of-singing-findings-from-preliminary](../sources/fxa100-week04-the-perceived-benefits-of-singing-findings-from-preliminary.md)
+- [fxa100-week07-aged-care-outreach](../sources/fxa100-week07-aged-care-outreach.md)
+- [fxa100-week07-iremember-loan-resource-flyer](../sources/fxa100-week07-iremember-loan-resource-flyer.md)
+- [fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum](../sources/fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum.md)
+- [fxa301-week08-the-cultural-value-of-older-peoples-experiences-of-theater](../sources/fxa301-week08-the-cultural-value-of-older-peoples-experiences-of-theater.md)
+- [fxa303-play-for-health-across-the-lifespan-ch06-chapter-7](../sources/fxa303-play-for-health-across-the-lifespan-ch06-chapter-7.md)
+- [fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than](../sources/fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than.md)
+- [fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an](../sources/fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an.md)

@@ -24,19 +24,19 @@ The document 'Heritage in Health' is a comprehensive guide aimed at museum profe
 
 ## Key Concepts
 
-- [[../topics/evidence-based-practice]]
-- [[../topics/collaborative-care-models]]
+- [evidence-based-practice](../topics/evidence-based-practice.md)
+- [collaborative-care-models](../topics/collaborative-care-models.md)
 
 ## Tags
 
-- [[../tags/museum-collections-in-healthcare]]
-- [[../tags/patient-wellbeing-through-art]]
-- [[../tags/therapeutic-arts-programmes]]
-- [[../tags/fxa100]]
+- [museum-collections-in-healthcare](../tags/museum-collections-in-healthcare.md)
+- [patient-wellbeing-through-art](../tags/patient-wellbeing-through-art.md)
+- [therapeutic-arts-programmes](../tags/therapeutic-arts-programmes.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 

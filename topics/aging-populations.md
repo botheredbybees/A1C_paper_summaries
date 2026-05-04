@@ -25,5 +25,5 @@ The integration of creative arts into community settings emerges as a potent int
 
 ## Sources
 
-- [[../sources/fxa301-week03-lesson-fxa301-week03-page-1]]
-- [[../sources/fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community]]
+- [fxa301-week03-lesson-fxa301-week03-page-1](../sources/fxa301-week03-lesson-fxa301-week03-page-1.md)
+- [fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community](../sources/fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community.md)

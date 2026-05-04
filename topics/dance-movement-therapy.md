@@ -25,5 +25,5 @@ Dance-movement therapy (DMT) emerges as an effective intervention across diverse
 
 ## Sources
 
-- [[../sources/fxa100-week09-dance-movement-therapy-for-dementia]]
-- [[../sources/fxa100-week09-transcript-youtube-lq0ko6-w4uc]]
+- [fxa100-week09-dance-movement-therapy-for-dementia](../sources/fxa100-week09-dance-movement-therapy-for-dementia.md)
+- [fxa100-week09-transcript-youtube-lq0ko6-w4uc](../sources/fxa100-week09-transcript-youtube-lq0ko6-w4uc.md)

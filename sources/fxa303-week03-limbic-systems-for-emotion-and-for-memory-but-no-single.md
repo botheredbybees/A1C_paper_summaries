@@ -24,22 +24,22 @@ Edmund T. Rolls challenges the traditional concept of a single limbic system in 
 
 ## Key Concepts
 
-- [[../topics/orbitofrontal-cortex]]
-- [[../topics/hippocampus]]
+- [orbitofrontal-cortex](../topics/orbitofrontal-cortex.md)
+- [hippocampus](../topics/hippocampus.md)
 
 ## Tags
 
-- [[../tags/brain-structure]]
-- [[../tags/neural-networks]]
-- [[../tags/emotion-memory]]
-- [[../tags/limbic-system]]
-- [[../tags/fxa303]]
+- [brain-structure](../tags/brain-structure.md)
+- [neural-networks](../tags/neural-networks.md)
+- [emotion-memory](../tags/emotion-memory.md)
+- [limbic-system](../tags/limbic-system.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[review]]
+- [review](review.md)
 
 ## See Also
 
-- [[../topics/brain-structure]]
-- [[../topics/neural-networks]]
+- [brain-structure](../topics/brain-structure.md)
+- [neural-networks](../topics/neural-networks.md)

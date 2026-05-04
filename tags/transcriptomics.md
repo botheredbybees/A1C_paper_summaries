@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Transcriptomics
 
-- [[../sources/fxa303-week04-broad-transcriptomic-dysregulation-occurs-across-the|Broad transcriptomic dysregulation occurs across the cerebral cortex in ASD]]
+- [Broad transcriptomic dysregulation occurs across the cerebral cortex in ASD](../sources/fxa303-week04-broad-transcriptomic-dysregulation-occurs-across-the.md)

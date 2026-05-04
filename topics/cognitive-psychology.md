@@ -26,5 +26,5 @@ The synthesis of the cognitive psychology theories from both sources reveals a n
 
 ## Sources
 
-- [[../sources/fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and]]
-- [[../sources/fxa303-week02-lesson-fxa303-week02-introduction-copy]]
+- [fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and](../sources/fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and.md)
+- [fxa303-week02-lesson-fxa303-week02-introduction-copy](../sources/fxa303-week02-lesson-fxa303-week02-introduction-copy.md)

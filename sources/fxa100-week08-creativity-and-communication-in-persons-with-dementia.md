@@ -24,25 +24,25 @@ The text discusses the practicalities of implementing creative activities for in
 
 ## Key Concepts
 
-- [[../topics/facilitated creativity]]
-- [[../topics/non-verbal communication]]
-- [[../topics/positive participation]]
-- [[../topics/cultural perceptions of dementia]]
+- [facilitated creativity](../topics/facilitated creativity.md)
+- [non-verbal communication](../topics/non-verbal communication.md)
+- [positive participation](../topics/positive participation.md)
+- [cultural perceptions of dementia](../topics/cultural perceptions of dementia.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/creative-therapy]]
-- [[../tags/patient-engagement]]
-- [[../tags/communication-barriers]]
-- [[../tags/art-in-dementia]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [creative-therapy](../tags/creative-therapy.md)
+- [patient-engagement](../tags/patient-engagement.md)
+- [communication-barriers](../tags/communication-barriers.md)
+- [art-in-dementia](../tags/art-in-dementia.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[practical guide]]
+- [practical guide](practical guide.md)
 
 ## See Also
 
-- [[../topics/creative-therapy]]
-- [[../topics/dementia-care]]
+- [creative-therapy](../topics/creative-therapy.md)
+- [dementia-care](../topics/dementia-care.md)

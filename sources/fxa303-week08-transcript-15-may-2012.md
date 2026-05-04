@@ -24,15 +24,15 @@ The transcript documents a speech by Dr. Patch Adams on his journey from suicida
 
 ## Key Concepts
 
-- [[../topics/free healthcare]]
-- [[../topics/medical clowning]]
+- [free healthcare](../topics/free healthcare.md)
+- [medical clowning](../topics/medical clowning.md)
 
 ## Tags
 
-- [[../tags/healthcare]]
-- [[../tags/peace activism]]
-- [[../tags/community care]]
-- [[../tags/fxa303]]
+- [healthcare](../tags/healthcare.md)
+- [peace activism](../tags/peace activism.md)
+- [community care](../tags/community care.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ The transcript documents a speech by Dr. Patch Adams on his journey from suicida
 
 ## See Also
 
-- [[../topics/healthcare]]
+- [healthcare](../topics/healthcare.md)

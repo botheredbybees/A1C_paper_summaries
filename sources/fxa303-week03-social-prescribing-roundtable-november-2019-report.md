@@ -30,25 +30,25 @@ This initiative is particularly relevant to creative arts and mental wellbeing a
 
 ## Key Concepts
 
-- [[../topics/social prescribing]]
-- [[../topics/socioeconomic factors]]
-- [[../topics/integrated care]]
+- [social prescribing](../topics/social prescribing.md)
+- [socioeconomic factors](../topics/socioeconomic factors.md)
+- [integrated care](../topics/integrated care.md)
 
 ## Tags
 
-- [[../tags/social-prescribing]]
-- [[../tags/primary-care-integration]]
-- [[../tags/health-wellness]]
-- [[../tags/non-clinical-services]]
-- [[../tags/mental-health-support]]
-- [[../tags/community-engagement]]
-- [[../tags/fxa303]]
+- [social-prescribing](../tags/social-prescribing.md)
+- [primary-care-integration](../tags/primary-care-integration.md)
+- [health-wellness](../tags/health-wellness.md)
+- [non-clinical-services](../tags/non-clinical-services.md)
+- [mental-health-support](../tags/mental-health-support.md)
+- [community-engagement](../tags/community-engagement.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[roundtable discussion]]
+- [roundtable discussion](roundtable discussion.md)
 
 ## See Also
 
-- [[../topics/mental-health-support]]
-- [[../topics/social-prescribing]]
+- [mental-health-support](../topics/mental-health-support.md)
+- [social-prescribing](../topics/social-prescribing.md)

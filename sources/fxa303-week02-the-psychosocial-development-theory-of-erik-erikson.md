@@ -24,23 +24,23 @@ This article provides a comprehensive review of Erik Erikson's psychosocial deve
 
 ## Key Concepts
 
-- [[../topics/erikson-psychosocial-stages]]
-- [[../topics/identity-formation]]
-- [[../topics/social-interaction]]
+- [erikson-psychosocial-stages](../topics/erikson-psychosocial-stages.md)
+- [identity-formation](../topics/identity-formation.md)
+- [social-interaction](../topics/social-interaction.md)
 
 ## Tags
 
-- [[../tags/human-development]]
-- [[../tags/psychosocial-theory]]
-- [[../tags/identity-crisis]]
-- [[../tags/childhood-education]]
-- [[../tags/fxa303]]
+- [human-development](../tags/human-development.md)
+- [psychosocial-theory](../tags/psychosocial-theory.md)
+- [identity-crisis](../tags/identity-crisis.md)
+- [childhood-education](../tags/childhood-education.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[critical-overview]]
+- [critical-overview](critical-overview.md)
 
 ## See Also
 
-- [[../topics/human-development]]
-- [[../topics/identity-crisis]]
+- [human-development](../topics/human-development.md)
+- [identity-crisis](../topics/identity-crisis.md)

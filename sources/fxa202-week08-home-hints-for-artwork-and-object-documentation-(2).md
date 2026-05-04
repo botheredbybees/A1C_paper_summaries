@@ -24,22 +24,22 @@ The document provides guidance on how to effectively photograph artworks and obj
 
 ## Key Concepts
 
-- [[../topics/DSLR camera settings]]
-- [[../topics/lighting techniques]]
-- [[../topics/safety considerations]]
+- [DSLR camera settings](../topics/DSLR camera settings.md)
+- [lighting techniques](../topics/lighting techniques.md)
+- [safety considerations](../topics/safety considerations.md)
 
 ## Tags
 
-- [[../tags/artwork-documentation]]
-- [[../tags/photography-tips]]
-- [[../tags/home-studio-setup]]
-- [[../tags/fxa202]]
+- [artwork-documentation](../tags/artwork-documentation.md)
+- [photography-tips](../tags/photography-tips.md)
+- [home-studio-setup](../tags/home-studio-setup.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[tutorial guide]]
+- [tutorial guide](tutorial guide.md)
 
 ## See Also
 
-- [[../topics/artwork-documentation]]
-- [[../topics/photography-tips]]
+- [artwork-documentation](../topics/artwork-documentation.md)
+- [photography-tips](../topics/photography-tips.md)

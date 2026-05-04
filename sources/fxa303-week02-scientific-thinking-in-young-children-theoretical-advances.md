@@ -24,25 +24,25 @@ Alison Gopnik's paper discusses recent theoretical and empirical advances in und
 
 ## Key Concepts
 
-- [[../topics/probabilistic-models]]
-- [[../topics/bayesian-inference]]
-- [[../topics/causal-reasoning]]
-- [[../topics/preschool-cognition]]
+- [probabilistic-models](../topics/probabilistic-models.md)
+- [bayesian-inference](../topics/bayesian-inference.md)
+- [causal-reasoning](../topics/causal-reasoning.md)
+- [preschool-cognition](../topics/preschool-cognition.md)
 
 ## Tags
 
-- [[../tags/early-childhood-development]]
-- [[../tags/scientific-thinking-children]]
-- [[../tags/cognitive-neuroscience]]
-- [[../tags/education-policy]]
-- [[../tags/fxa303]]
+- [early-childhood-development](../tags/early-childhood-development.md)
+- [scientific-thinking-children](../tags/scientific-thinking-children.md)
+- [cognitive-neuroscience](../tags/cognitive-neuroscience.md)
+- [education-policy](../tags/education-policy.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[empirical-research]]
-- [[theoretical-advance]]
+- [empirical-research](empirical-research.md)
+- [theoretical-advance](theoretical-advance.md)
 
 ## See Also
 
-- [[../topics/cognitive-neuroscience]]
-- [[../topics/early-childhood-development]]
+- [cognitive-neuroscience](../topics/cognitive-neuroscience.md)
+- [early-childhood-development](../topics/early-childhood-development.md)

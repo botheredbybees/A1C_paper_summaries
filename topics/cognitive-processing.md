@@ -26,5 +26,5 @@ The sources discussed highlight the role of cognitive processing therapy in enha
 
 ## Sources
 
-- [[../sources/fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes]]
-- [[../sources/fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care]]
+- [fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes](../sources/fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes.md)
+- [fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care](../sources/fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care.md)

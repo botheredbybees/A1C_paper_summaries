@@ -26,27 +26,27 @@ The World Health Organization's fact sheet on adolescent mental health highlight
 
 ## Key Concepts
 
-- [[../topics/depression]]
-- [[../topics/anxiety]]
-- [[../topics/identity-exploration]]
-- [[../topics/protective-environments]]
-- [[../topics/intervention-strategies]]
+- [depression](../topics/depression.md)
+- [anxiety](../topics/anxiety.md)
+- [identity-exploration](../topics/identity-exploration.md)
+- [protective-environments](../topics/protective-environments.md)
+- [intervention-strategies](../topics/intervention-strategies.md)
 
 ## Tags
 
-- [[../tags/adolescent-mental-health]]
-- [[../tags/global-disease-burden]]
-- [[../tags/suicide-prevention]]
-- [[../tags/behavioral-disorders]]
-- [[../tags/public-health-initiatives]]
-- [[../tags/risk-factors]]
-- [[../tags/fxa303]]
+- [adolescent-mental-health](../tags/adolescent-mental-health.md)
+- [global-disease-burden](../tags/global-disease-burden.md)
+- [suicide-prevention](../tags/suicide-prevention.md)
+- [behavioral-disorders](../tags/behavioral-disorders.md)
+- [public-health-initiatives](../tags/public-health-initiatives.md)
+- [risk-factors](../tags/risk-factors.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[fact-sheet]]
+- [fact-sheet](fact-sheet.md)
 
 ## See Also
 
-- [[../topics/public-health-initiatives]]
-- [[../topics/risk-factors]]
+- [public-health-initiatives](../topics/public-health-initiatives.md)
+- [risk-factors](../topics/risk-factors.md)

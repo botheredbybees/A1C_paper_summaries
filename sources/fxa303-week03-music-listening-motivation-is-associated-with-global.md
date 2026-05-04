@@ -24,20 +24,20 @@ This study explores the relationship between self-determined motivation for list
 
 ## Key Concepts
 
-- [[../topics/self-determined-motivation]]
-- [[../topics/subjective-well-being]]
+- [self-determined-motivation](../topics/self-determined-motivation.md)
+- [subjective-well-being](../topics/subjective-well-being.md)
 
 ## Tags
 
-- [[../tags/music-listening-motivation]]
-- [[../tags/global-happiness]]
-- [[../tags/adolescent-development]]
-- [[../tags/fxa303]]
+- [music-listening-motivation](../tags/music-listening-motivation.md)
+- [global-happiness](../tags/global-happiness.md)
+- [adolescent-development](../tags/adolescent-development.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[structural-equation-modeling]]
+- [structural-equation-modeling](structural-equation-modeling.md)
 
 ## See Also
 
-- [[../topics/adolescent-development]]
+- [adolescent-development](../topics/adolescent-development.md)

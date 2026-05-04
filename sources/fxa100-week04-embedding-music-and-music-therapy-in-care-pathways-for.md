@@ -24,29 +24,29 @@ This paper discusses the role of music therapy in dementia care from clinical, e
 
 ## Key Concepts
 
-- [[../topics/music therapy]]
-- [[../topics/dementia care pathways]]
-- [[../topics/agitation reduction]]
-- [[../topics/relationship improvement]]
-- [[../topics/Homeside trial]]
+- [music therapy](../topics/music therapy.md)
+- [dementia care pathways](../topics/dementia care pathways.md)
+- [agitation reduction](../topics/agitation reduction.md)
+- [relationship improvement](../topics/relationship improvement.md)
+- [Homeside trial](../topics/Homeside trial.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/music-therapy]]
-- [[../tags/patient-outcomes]]
-- [[../tags/quality-of-life]]
-- [[../tags/care-pathways]]
-- [[../tags/intervention-studies]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [music-therapy](../tags/music-therapy.md)
+- [patient-outcomes](../tags/patient-outcomes.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [care-pathways](../tags/care-pathways.md)
+- [intervention-studies](../tags/intervention-studies.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[position paper]]
+- [position paper](position paper.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/music-therapy]]
-- [[../topics/patient-outcomes]]
-- [[../topics/quality-of-life]]
+- [dementia-care](../topics/dementia-care.md)
+- [music-therapy](../topics/music-therapy.md)
+- [patient-outcomes](../topics/patient-outcomes.md)
+- [quality-of-life](../topics/quality-of-life.md)

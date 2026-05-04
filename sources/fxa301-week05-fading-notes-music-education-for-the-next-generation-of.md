@@ -24,23 +24,23 @@ The document 'Fading Notes' investigates the provision of music education within
 
 ## Key Concepts
 
-- [[../topics/music education provision]]
-- [[../topics/initial teacher education]]
-- [[../topics/professional development needs]]
+- [music education provision](../topics/music education provision.md)
+- [initial teacher education](../topics/initial teacher education.md)
+- [professional development needs](../topics/professional development needs.md)
 
 ## Tags
 
-- [[../tags/music-education]]
-- [[../tags/teacher-preparation]]
-- [[../tags/primary-schools]]
-- [[../tags/australian-education]]
-- [[../tags/pedagogical-reform]]
-- [[../tags/fxa301]]
+- [music-education](../tags/music-education.md)
+- [teacher-preparation](../tags/teacher-preparation.md)
+- [primary-schools](../tags/primary-schools.md)
+- [australian-education](../tags/australian-education.md)
+- [pedagogical-reform](../tags/pedagogical-reform.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[commissioned report]]
+- [commissioned report](commissioned report.md)
 
 ## See Also
 
-- [[../topics/music-education]]
+- [music-education](../topics/music-education.md)

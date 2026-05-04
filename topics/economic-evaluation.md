@@ -26,5 +26,5 @@ The economic evaluation of arts and creativity interventions highlights their po
 
 ## Sources
 
-- [[../sources/fxa100-week04-arts-and-creativity-interventions-for-improving-health-and]]
-- [[../sources/fxa100-week06-dementia-and-imagination-a-mixed-methods-protocol-for-arts]]
+- [fxa100-week04-arts-and-creativity-interventions-for-improving-health-and](../sources/fxa100-week04-arts-and-creativity-interventions-for-improving-health-and.md)
+- [fxa100-week06-dementia-and-imagination-a-mixed-methods-protocol-for-arts](../sources/fxa100-week06-dementia-and-imagination-a-mixed-methods-protocol-for-arts.md)

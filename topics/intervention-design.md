@@ -27,6 +27,6 @@ The synthesis of the provided sources highlights a comprehensive approach to int
 
 ## Sources
 
-- [[../sources/fxa100-week04-conceptualizing-and-planning-interventions]]
-- [[../sources/fxa100-week04-implementing-and-evaluating-interventions]]
-- [[../sources/fxa301-arts-in-health-ch29-4-invite-open-responses]]
+- [fxa100-week04-conceptualizing-and-planning-interventions](../sources/fxa100-week04-conceptualizing-and-planning-interventions.md)
+- [fxa100-week04-implementing-and-evaluating-interventions](../sources/fxa100-week04-implementing-and-evaluating-interventions.md)
+- [fxa301-arts-in-health-ch29-4-invite-open-responses](../sources/fxa301-arts-in-health-ch29-4-invite-open-responses.md)

@@ -26,5 +26,5 @@ The impact of social media use on adolescent mental health has been examined thr
 
 ## Sources
 
-- [[../sources/fxa202-week03-week-three-lecture-transcript-photography-and-health]]
-- [[../sources/fxa303-week03-media-use-and-brain-development-during-adolescence]]
+- [fxa202-week03-week-three-lecture-transcript-photography-and-health](../sources/fxa202-week03-week-three-lecture-transcript-photography-and-health.md)
+- [fxa303-week03-media-use-and-brain-development-during-adolescence](../sources/fxa303-week03-media-use-and-brain-development-during-adolescence.md)

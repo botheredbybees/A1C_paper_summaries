@@ -37,8 +37,8 @@ Lastly, Source 5 provides foundational knowledge about AD mechanisms, including 
 
 ## Sources
 
-- [[../sources/fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a]]
-- [[../sources/fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy]]
-- [[../sources/fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical]]
-- [[../sources/fxa100-week01-unveiling-the-therapeutic-potential-of-natural-products-in]]
-- [[../sources/fxa100-week01-what-is-alzheimers-disease-video-transcript]]
+- [fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a](../sources/fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a.md)
+- [fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy](../sources/fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy.md)
+- [fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical](../sources/fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical.md)
+- [fxa100-week01-unveiling-the-therapeutic-potential-of-natural-products-in](../sources/fxa100-week01-unveiling-the-therapeutic-potential-of-natural-products-in.md)
+- [fxa100-week01-what-is-alzheimers-disease-video-transcript](../sources/fxa100-week01-what-is-alzheimers-disease-video-transcript.md)

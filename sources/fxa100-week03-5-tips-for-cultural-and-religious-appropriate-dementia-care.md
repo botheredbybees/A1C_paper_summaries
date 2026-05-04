@@ -30,24 +30,24 @@ Lastly, it emphasizes the importance of organizational efforts in recording and 
 
 ## Key Concepts
 
-- [[../topics/socioeconomic-barriers]]
-- [[../topics/cultural-norms]]
-- [[../topics/confidentiality-in-care]]
+- [socioeconomic-barriers](../topics/socioeconomic-barriers.md)
+- [cultural-norms](../topics/cultural-norms.md)
+- [confidentiality-in-care](../topics/confidentiality-in-care.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/cultural-sensitivity]]
-- [[../tags/religious-considerations]]
-- [[../tags/elderly-support]]
-- [[../tags/ethnic-minorities]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [cultural-sensitivity](../tags/cultural-sensitivity.md)
+- [religious-considerations](../tags/religious-considerations.md)
+- [elderly-support](../tags/elderly-support.md)
+- [ethnic-minorities](../tags/ethnic-minorities.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/cultural-sensitivity]]
-- [[../topics/dementia-care]]
+- [cultural-sensitivity](../topics/cultural-sensitivity.md)
+- [dementia-care](../topics/dementia-care.md)

@@ -24,26 +24,26 @@ The document 'Aged care outreach' by Museums Victoria provides a detailed overvi
 
 ## Key Concepts
 
-- [[../topics/reminiscence therapy]]
-- [[../topics/cognitive stimulation]]
-- [[../topics/social interaction]]
-- [[../topics/quality of life]]
+- [reminiscence therapy](../topics/reminiscence therapy.md)
+- [cognitive stimulation](../topics/cognitive stimulation.md)
+- [social interaction](../topics/social interaction.md)
+- [quality of life](../topics/quality of life.md)
 
 ## Tags
 
-- [[../tags/aged-care-outreach]]
-- [[../tags/reminiscing-kits]]
-- [[../tags/cognitive-stimulation]]
-- [[../tags/social-interaction]]
-- [[../tags/elderly-engagement]]
-- [[../tags/fxa100]]
+- [aged-care-outreach](../tags/aged-care-outreach.md)
+- [reminiscing-kits](../tags/reminiscing-kits.md)
+- [cognitive-stimulation](../tags/cognitive-stimulation.md)
+- [social-interaction](../tags/social-interaction.md)
+- [elderly-engagement](../tags/elderly-engagement.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/cognitive-stimulation]]
-- [[../topics/elderly-engagement]]
-- [[../topics/social-interaction]]
+- [cognitive-stimulation](../topics/cognitive-stimulation.md)
+- [elderly-engagement](../topics/elderly-engagement.md)
+- [social-interaction](../topics/social-interaction.md)

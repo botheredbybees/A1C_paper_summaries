@@ -24,25 +24,25 @@ This systematic review and meta-analysis examines the impact of rhythmic auditor
 
 ## Key Concepts
 
-- [[../topics/rhythmic auditory cueing (RAC)]]
-- [[../topics/β oscillations]]
-- [[../topics/motor imagery]]
+- [rhythmic auditory cueing (RAC)](../topics/rhythmic auditory cueing (RAC).md)
+- [β oscillations](../topics/β oscillations.md)
+- [motor imagery](../topics/motor imagery.md)
 
 ## Tags
 
-- [[../tags/parkinsons-disease]]
-- [[../tags/rhythmic-auditory-cueing]]
-- [[../tags/gait-performance]]
-- [[../tags/rehabilitation-therapy]]
-- [[../tags/motor-control]]
-- [[../tags/fxa301]]
+- [parkinsons-disease](../tags/parkinsons-disease.md)
+- [rhythmic-auditory-cueing](../tags/rhythmic-auditory-cueing.md)
+- [gait-performance](../tags/gait-performance.md)
+- [rehabilitation-therapy](../tags/rehabilitation-therapy.md)
+- [motor-control](../tags/motor-control.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[systematic review]]
-- [[meta-analysis]]
+- [systematic review](systematic review.md)
+- [meta-analysis](meta-analysis.md)
 
 ## See Also
 
-- [[../topics/motor-control]]
-- [[../topics/parkinsons-disease]]
+- [motor-control](../topics/motor-control.md)
+- [parkinsons-disease](../topics/parkinsons-disease.md)

@@ -26,5 +26,5 @@ This synthesis integrates findings from two aging-related research studies. The 
 
 ## Sources
 
-- [[../sources/fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy]]
-- [[../sources/fxa100-week01-relating-physical-activity-to-cognitive-function-brain]]
+- [fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy](../sources/fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy.md)
+- [fxa100-week01-relating-physical-activity-to-cognitive-function-brain](../sources/fxa100-week01-relating-physical-activity-to-cognitive-function-brain.md)

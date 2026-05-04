@@ -32,11 +32,11 @@ The integration of various creative writing techniques such as using images as p
 
 ## Sources
 
-- [[../sources/fxa202-week05-images-as-writing-prompts]]
-- [[../sources/fxa202-week05-stream-of-consciousness]]
-- [[../sources/fxa202-week05-week-5-introduction-to-storytelling]]
-- [[../sources/fxa202-week09-personal-storytelling-and-memoir-writing]]
-- [[../sources/fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental]]
-- [[../sources/fxa301-week08-health-related-effects-of-creative-and-expressive-writing]]
-- [[../sources/fxa301-week08-transcript-the-video-below-relates-the-experiences-of]]
-- [[../sources/fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the]]
+- [fxa202-week05-images-as-writing-prompts](../sources/fxa202-week05-images-as-writing-prompts.md)
+- [fxa202-week05-stream-of-consciousness](../sources/fxa202-week05-stream-of-consciousness.md)
+- [fxa202-week05-week-5-introduction-to-storytelling](../sources/fxa202-week05-week-5-introduction-to-storytelling.md)
+- [fxa202-week09-personal-storytelling-and-memoir-writing](../sources/fxa202-week09-personal-storytelling-and-memoir-writing.md)
+- [fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental](../sources/fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental.md)
+- [fxa301-week08-health-related-effects-of-creative-and-expressive-writing](../sources/fxa301-week08-health-related-effects-of-creative-and-expressive-writing.md)
+- [fxa301-week08-transcript-the-video-below-relates-the-experiences-of](../sources/fxa301-week08-transcript-the-video-below-relates-the-experiences-of.md)
+- [fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the](../sources/fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the.md)

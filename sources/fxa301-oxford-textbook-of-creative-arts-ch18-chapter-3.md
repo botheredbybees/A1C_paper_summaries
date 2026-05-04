@@ -24,15 +24,15 @@ This chapter explores the evolution of public health waves in the UK since the I
 
 ## Key Concepts
 
-- [[../topics/public health waves]]
-- [[../topics/emergent societal problems]]
+- [public health waves](../topics/public health waves.md)
+- [emergent societal problems](../topics/emergent societal problems.md)
 
 ## Tags
 
-- [[../tags/public health]]
-- [[../tags/art-and-health]]
-- [[../tags/social-welfare]]
-- [[../tags/fxa301]]
+- [public health](../tags/public health.md)
+- [art-and-health](../tags/art-and-health.md)
+- [social-welfare](../tags/social-welfare.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

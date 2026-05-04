@@ -30,16 +30,16 @@ This framework aids in refining pitches and ensuring that both reporters and edi
 
 ## Key Concepts
 
-- [[../topics/story-concept-research]]
-- [[../topics/digital-storytelling-opportunities]]
-- [[../topics/audience-engagement]]
+- [story-concept-research](../topics/story-concept-research.md)
+- [digital-storytelling-opportunities](../topics/digital-storytelling-opportunities.md)
+- [audience-engagement](../topics/audience-engagement.md)
 
 ## Tags
 
-- [[../tags/journalism-practices]]
-- [[../tags/story-pitching-strategies]]
-- [[../tags/editor-reporter-communication]]
-- [[../tags/fxa202]]
+- [journalism-practices](../tags/journalism-practices.md)
+- [story-pitching-strategies](../tags/story-pitching-strategies.md)
+- [editor-reporter-communication](../tags/editor-reporter-communication.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

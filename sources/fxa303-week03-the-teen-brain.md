@@ -26,25 +26,25 @@ This article explores the paradoxical nature of adolescent brain development, hi
 
 ## Key Concepts
 
-- [[../topics/neural-connections]]
-- [[../topics/impulsivity]]
-- [[../topics/substance-use-vulnerability]]
-- [[../topics/gender-differences-in-development]]
+- [neural-connections](../topics/neural-connections.md)
+- [impulsivity](../topics/impulsivity.md)
+- [substance-use-vulnerability](../topics/substance-use-vulnerability.md)
+- [gender-differences-in-development](../topics/gender-differences-in-development.md)
 
 ## Tags
 
-- [[../tags/teen-brain-development]]
-- [[../tags/adolescent-psychology]]
-- [[../tags/cognitive-neuroscience]]
-- [[../tags/substance-use-effects]]
-- [[../tags/brain-plasticity]]
-- [[../tags/fxa303]]
+- [teen-brain-development](../tags/teen-brain-development.md)
+- [adolescent-psychology](../tags/adolescent-psychology.md)
+- [cognitive-neuroscience](../tags/cognitive-neuroscience.md)
+- [substance-use-effects](../tags/substance-use-effects.md)
+- [brain-plasticity](../tags/brain-plasticity.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/brain-plasticity]]
-- [[../topics/cognitive-neuroscience]]
+- [brain-plasticity](../topics/brain-plasticity.md)
+- [cognitive-neuroscience](../topics/cognitive-neuroscience.md)

@@ -28,21 +28,21 @@ Moreover, the text reflects on cherished traditions such as Christmas visits to 
 
 ## Key Concepts
 
-- [[../topics/intergenerational-transmission]]
-- [[../topics/cultural-historiography]]
-- [[../topics/resilience-and-love]]
+- [intergenerational-transmission](../topics/intergenerational-transmission.md)
+- [cultural-historiography](../topics/cultural-historiography.md)
+- [resilience-and-love](../topics/resilience-and-love.md)
 
 ## Tags
 
-- [[../tags/culinary-heritage]]
-- [[../tags/family-traditions]]
-- [[../tags/food-memories]]
-- [[../tags/fxa202]]
+- [culinary-heritage](../tags/culinary-heritage.md)
+- [family-traditions](../tags/family-traditions.md)
+- [food-memories](../tags/food-memories.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[personal-narrative]]
+- [personal-narrative](personal-narrative.md)
 
 ## See Also
 
-- [[../topics/food-memories]]
+- [food-memories](../topics/food-memories.md)

@@ -32,11 +32,11 @@ The sources collectively highlight the importance of qualitative research method
 
 ## Sources
 
-- [[../sources/fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the]]
-- [[../sources/fxa100-week08-what-are-the-required-elements-needed-to-create-an]]
-- [[../sources/fxa301-week01-lesson-fxa301-week01-page-1-hm]]
-- [[../sources/fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and]]
-- [[../sources/fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental]]
-- [[../sources/fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using]]
-- [[../sources/fxa303-week01-teachers-perspectives-on-providing-support-to-children]]
-- [[../sources/fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact]]
+- [fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the](../sources/fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the.md)
+- [fxa100-week08-what-are-the-required-elements-needed-to-create-an](../sources/fxa100-week08-what-are-the-required-elements-needed-to-create-an.md)
+- [fxa301-week01-lesson-fxa301-week01-page-1-hm](../sources/fxa301-week01-lesson-fxa301-week01-page-1-hm.md)
+- [fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and](../sources/fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and.md)
+- [fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental](../sources/fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental.md)
+- [fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using](../sources/fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using.md)
+- [fxa303-week01-teachers-perspectives-on-providing-support-to-children](../sources/fxa303-week01-teachers-perspectives-on-providing-support-to-children.md)
+- [fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact](../sources/fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact.md)

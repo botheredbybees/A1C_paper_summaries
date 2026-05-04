@@ -24,17 +24,17 @@ This lesson explores various programs designed to engage individuals with dement
 
 ## Key Concepts
 
-- [[../topics/dementia engagement programs]]
-- [[../topics/photographic images in therapy]]
-- [[../topics/indigenous dementia care]]
+- [dementia engagement programs](../topics/dementia engagement programs.md)
+- [photographic images in therapy](../topics/photographic images in therapy.md)
+- [indigenous dementia care](../topics/indigenous dementia care.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/art-therapy]]
-- [[../tags/museum-programs]]
-- [[../tags/outdoor-art]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [art-therapy](../tags/art-therapy.md)
+- [museum-programs](../tags/museum-programs.md)
+- [outdoor-art](../tags/outdoor-art.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -42,4 +42,4 @@ This lesson explores various programs designed to engage individuals with dement
 
 ## See Also
 
-- [[../topics/dementia-care]]
+- [dementia-care](../topics/dementia-care.md)

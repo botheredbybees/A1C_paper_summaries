@@ -24,17 +24,17 @@ This lesson focuses on the role of creative arts in trauma recovery following na
 
 ## Key Concepts
 
-- [[../topics/trauma-informed design]]
-- [[../topics/PTSD]]
-- [[../topics/long-term health impacts of disasters]]
+- [trauma-informed design](../topics/trauma-informed design.md)
+- [PTSD](../topics/PTSD.md)
+- [long-term health impacts of disasters](../topics/long-term health impacts of disasters.md)
 
 ## Tags
 
-- [[../tags/creative-arts]]
-- [[../tags/mental-wellbeing]]
-- [[../tags/trauma-recovery]]
-- [[../tags/disaster-management]]
-- [[../tags/fxa303]]
+- [creative-arts](../tags/creative-arts.md)
+- [mental-wellbeing](../tags/mental-wellbeing.md)
+- [trauma-recovery](../tags/trauma-recovery.md)
+- [disaster-management](../tags/disaster-management.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
@@ -42,7 +42,7 @@ This lesson focuses on the role of creative arts in trauma recovery following na
 
 ## See Also
 
-- [[../topics/creative-arts]]
-- [[../topics/disaster-management]]
-- [[../topics/mental-wellbeing]]
-- [[../topics/trauma-recovery]]
+- [creative-arts](../topics/creative-arts.md)
+- [disaster-management](../topics/disaster-management.md)
+- [mental-wellbeing](../topics/mental-wellbeing.md)
+- [trauma-recovery](../topics/trauma-recovery.md)

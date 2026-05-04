@@ -26,5 +26,5 @@ The provided sources highlight different pedagogic interventions in early childh
 
 ## Sources
 
-- [[../sources/fxa303-week02-in-rememberance-of-david-whitebread-a-tribute-to-david]]
-- [[../sources/fxa303-week05-puppet-as-a-pedagogical-tool-a-literature-review]]
+- [fxa303-week02-in-rememberance-of-david-whitebread-a-tribute-to-david](../sources/fxa303-week02-in-rememberance-of-david-whitebread-a-tribute-to-david.md)
+- [fxa303-week05-puppet-as-a-pedagogical-tool-a-literature-review](../sources/fxa303-week05-puppet-as-a-pedagogical-tool-a-literature-review.md)

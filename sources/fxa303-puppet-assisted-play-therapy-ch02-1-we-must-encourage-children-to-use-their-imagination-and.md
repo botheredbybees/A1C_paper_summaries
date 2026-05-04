@@ -24,16 +24,16 @@ This chapter discusses the use of puppetry in enhancing creativity and conflict 
 
 ## Key Concepts
 
-- [[Torrance Test of Creative Thinking]]
-- [[strengths perspective]]
-- [[mindfulness in play therapy]]
+- [Torrance Test of Creative Thinking](Torrance Test of Creative Thinking.md)
+- [strengths perspective](strengths perspective.md)
+- [mindfulness in play therapy](mindfulness in play therapy.md)
 
 ## Tags
 
-- [[creative thinking]]
-- [[puppetry-therapy]]
-- [[cognitive-behavioral-therapy]]
-- [[fxa303]]
+- [creative thinking](creative thinking.md)
+- [puppetry-therapy](puppetry-therapy.md)
+- [cognitive-behavioral-therapy](cognitive-behavioral-therapy.md)
+- [fxa303](fxa303.md)
 
 ## Methods
 

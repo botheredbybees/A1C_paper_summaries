@@ -24,25 +24,25 @@ This systematic review by Sheppard and Broughton explores the relationship betwe
 
 ## Key Concepts
 
-- [[../topics/physical-wellbeing]]
-- [[../topics/mental-wellbeing]]
-- [[../topics/cultural-wellbeing]]
-- [[../topics/social-determinants-of-health]]
+- [physical-wellbeing](../topics/physical-wellbeing.md)
+- [mental-wellbeing](../topics/mental-wellbeing.md)
+- [cultural-wellbeing](../topics/cultural-wellbeing.md)
+- [social-determinants-of-health](../topics/social-determinants-of-health.md)
 
 ## Tags
 
-- [[../tags/wellbeing-and-health]]
-- [[../tags/music-participation]]
-- [[../tags/dance-therapy]]
-- [[../tags/systematic-review]]
-- [[../tags/socio-determinants-of-health]]
-- [[../tags/fxa301]]
+- [wellbeing-and-health](../tags/wellbeing-and-health.md)
+- [music-participation](../tags/music-participation.md)
+- [dance-therapy](../tags/dance-therapy.md)
+- [systematic-review](../tags/systematic-review.md)
+- [socio-determinants-of-health](../tags/socio-determinants-of-health.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/dance-therapy]]
-- [[../topics/systematic-review]]
+- [dance-therapy](../topics/dance-therapy.md)
+- [systematic-review](../topics/systematic-review.md)

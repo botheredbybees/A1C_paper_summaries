@@ -26,16 +26,16 @@ The document is structured with a mix of instructions, command-line examples, an
 
 ## Key Concepts
 
-- [[../topics/git]]
-- [[../topics/programming-languages]]
-- [[../topics/configuration-management]]
+- [git](../topics/git.md)
+- [programming-languages](../topics/programming-languages.md)
+- [configuration-management](../topics/configuration-management.md)
 
 ## Tags
 
-- [[../tags/software-development]]
-- [[../tags/version-control]]
-- [[../tags/it-operations]]
-- [[../tags/fxa301]]
+- [software-development](../tags/software-development.md)
+- [version-control](../tags/version-control.md)
+- [it-operations](../tags/it-operations.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

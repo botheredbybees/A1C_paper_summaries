@@ -26,5 +26,5 @@ The concept of embodied cognition highlights the interplay between bodily experi
 
 ## Sources
 
-- [[../sources/fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what]]
-- [[../sources/fxa100-week06-visual-arts-and-the-brain]]
+- [fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what](../sources/fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what.md)
+- [fxa100-week06-visual-arts-and-the-brain](../sources/fxa100-week06-visual-arts-and-the-brain.md)

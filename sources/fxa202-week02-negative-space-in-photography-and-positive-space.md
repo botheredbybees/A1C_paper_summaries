@@ -24,28 +24,28 @@ The document discusses the concept of negative and positive spaces in photograph
 
 ## Key Concepts
 
-- [[../topics/negative space]]
-- [[../topics/positive space]]
-- [[../topics/visual hierarchy]]
-- [[../topics/minimalism in photography]]
+- [negative space](../topics/negative space.md)
+- [positive space](../topics/positive space.md)
+- [visual hierarchy](../topics/visual hierarchy.md)
+- [minimalism in photography](../topics/minimalism in photography.md)
 
 ## Tags
 
-- [[../tags/negative-space]]
-- [[../tags/positive-space]]
-- [[../tags/photography-techniques]]
-- [[../tags/visual-storytelling]]
-- [[../tags/minimalist-design]]
-- [[../tags/image-composition]]
-- [[../tags/fxa202]]
+- [negative-space](../tags/negative-space.md)
+- [positive-space](../tags/positive-space.md)
+- [photography-techniques](../tags/photography-techniques.md)
+- [visual-storytelling](../tags/visual-storytelling.md)
+- [minimalist-design](../tags/minimalist-design.md)
+- [image-composition](../tags/image-composition.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/image-composition]]
-- [[../topics/negative-space]]
-- [[../topics/photography-techniques]]
-- [[../topics/visual-storytelling]]
+- [image-composition](../topics/image-composition.md)
+- [negative-space](../topics/negative-space.md)
+- [photography-techniques](../topics/photography-techniques.md)
+- [visual-storytelling](../topics/visual-storytelling.md)

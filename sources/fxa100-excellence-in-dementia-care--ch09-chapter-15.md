@@ -24,16 +24,16 @@ The chapter discusses cognitive training and rehabilitation methods for individu
 
 ## Key Concepts
 
-- [[../topics/cognitive rehabilitation]]
-- [[../topics/external memory aids]]
-- [[../topics/internal strategies]]
+- [cognitive rehabilitation](../topics/cognitive rehabilitation.md)
+- [external memory aids](../topics/external memory aids.md)
+- [internal strategies](../topics/internal strategies.md)
 
 ## Tags
 
-- [[../tags/cognitive-stimulation]]
-- [[../tags/dementia-care]]
-- [[../tags/rehabilitation-strategies]]
-- [[../tags/fxa100]]
+- [cognitive-stimulation](../tags/cognitive-stimulation.md)
+- [dementia-care](../tags/dementia-care.md)
+- [rehabilitation-strategies](../tags/rehabilitation-strategies.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ The chapter discusses cognitive training and rehabilitation methods for individu
 
 ## See Also
 
-- [[../topics/cognitive-stimulation]]
-- [[../topics/dementia-care]]
+- [cognitive-stimulation](../topics/cognitive-stimulation.md)
+- [dementia-care](../topics/dementia-care.md)

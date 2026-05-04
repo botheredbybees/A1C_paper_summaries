@@ -32,7 +32,7 @@ Throughout these sources, there is a consistent emphasis on designing interventi
 
 ## Sources
 
-- [[../sources/fxa301-week09-lesson-fxa301-week09-page-1]]
-- [[../sources/fxa301-week09-lesson-fxa301-week09-page-2]]
-- [[../sources/fxa301-week09-lesson-fxa301-week09-page-3]]
-- [[../sources/fxa301-week09-week-9-lecture-dr-brendan-lamb]]
+- [fxa301-week09-lesson-fxa301-week09-page-1](../sources/fxa301-week09-lesson-fxa301-week09-page-1.md)
+- [fxa301-week09-lesson-fxa301-week09-page-2](../sources/fxa301-week09-lesson-fxa301-week09-page-2.md)
+- [fxa301-week09-lesson-fxa301-week09-page-3](../sources/fxa301-week09-lesson-fxa301-week09-page-3.md)
+- [fxa301-week09-week-9-lecture-dr-brendan-lamb](../sources/fxa301-week09-week-9-lecture-dr-brendan-lamb.md)

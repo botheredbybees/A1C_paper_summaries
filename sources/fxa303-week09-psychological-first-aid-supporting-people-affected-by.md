@@ -24,25 +24,25 @@ The document 'Psychological First Aid: Supporting People Affected by Disaster in
 
 ## Key Concepts
 
-- [[../topics/psychological first aid]]
-- [[../topics/timely psychosocial support]]
-- [[../topics/emotional and physical reactions to disaster]]
+- [psychological first aid](../topics/psychological first aid.md)
+- [timely psychosocial support](../topics/timely psychosocial support.md)
+- [emotional and physical reactions to disaster](../topics/emotional and physical reactions to disaster.md)
 
 ## Tags
 
-- [[../tags/disaster-response]]
-- [[../tags/psychological-support]]
-- [[../tags/emergency-management]]
-- [[../tags/mental-health-intervention]]
-- [[../tags/community-resilience]]
-- [[../tags/fxa303]]
+- [disaster-response](../tags/disaster-response.md)
+- [psychological-support](../tags/psychological-support.md)
+- [emergency-management](../tags/emergency-management.md)
+- [mental-health-intervention](../tags/mental-health-intervention.md)
+- [community-resilience](../tags/community-resilience.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[guideline development]]
+- [guideline development](guideline development.md)
 
 ## See Also
 
-- [[../topics/community-resilience]]
-- [[../topics/disaster-response]]
-- [[../topics/mental-health-intervention]]
+- [community-resilience](../topics/community-resilience.md)
+- [disaster-response](../topics/disaster-response.md)
+- [mental-health-intervention](../topics/mental-health-intervention.md)

@@ -24,16 +24,16 @@ Chapter 10 presents a case study of a therapeutic photography program conducted 
 
 ## Key Concepts
 
-- [[../topics/identity formation]]
-- [[../topics/family systems theory]]
-- [[../topics/obsessive-compulsive disorder (OCD)]]
+- [identity formation](../topics/identity formation.md)
+- [family systems theory](../topics/family systems theory.md)
+- [obsessive-compulsive disorder (OCD)](../topics/obsessive-compulsive disorder (OCD).md)
 
 ## Tags
 
-- [[../tags/therapeutic-photography]]
-- [[../tags/autism-spectrum-disorder]]
-- [[../tags/case-study]]
-- [[../tags/fxa202]]
+- [therapeutic-photography](../tags/therapeutic-photography.md)
+- [autism-spectrum-disorder](../tags/autism-spectrum-disorder.md)
+- [case-study](../tags/case-study.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ Chapter 10 presents a case study of a therapeutic photography program conducted 
 
 ## See Also
 
-- [[../topics/autism-spectrum-disorder]]
-- [[../topics/therapeutic-photography]]
+- [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)
+- [therapeutic-photography](../topics/therapeutic-photography.md)

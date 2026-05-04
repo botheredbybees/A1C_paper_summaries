@@ -24,25 +24,25 @@ This systematic review evaluates the mental health and wellbeing benefits of gro
 
 ## Key Concepts
 
-- [[../topics/mental health outcomes]]
-- [[../topics/community choir singing]]
+- [mental health outcomes](../topics/mental health outcomes.md)
+- [community choir singing](../topics/community choir singing.md)
 
 ## Tags
 
-- [[../tags/mental-health]]
-- [[../tags/group-singing]]
-- [[../tags/wellbeing-outcomes]]
-- [[../tags/therapeutic-benefits]]
-- [[../tags/clinical-populations]]
-- [[../tags/fxa301]]
+- [mental-health](../tags/mental-health.md)
+- [group-singing](../tags/group-singing.md)
+- [wellbeing-outcomes](../tags/wellbeing-outcomes.md)
+- [therapeutic-benefits](../tags/therapeutic-benefits.md)
+- [clinical-populations](../tags/clinical-populations.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/group-singing]]
-- [[../topics/mental-health]]
-- [[../topics/therapeutic-benefits]]
-- [[../topics/wellbeing-outcomes]]
+- [group-singing](../topics/group-singing.md)
+- [mental-health](../topics/mental-health.md)
+- [therapeutic-benefits](../topics/therapeutic-benefits.md)
+- [wellbeing-outcomes](../topics/wellbeing-outcomes.md)

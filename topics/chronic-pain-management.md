@@ -26,5 +26,5 @@ The integration of creative therapies as an intervention for chronic pain manage
 
 ## Sources
 
-- [[../sources/fxa202-week09-healing-through-art-and-music]]
-- [[../sources/fxa301-week08-lesson-fxa301-week07-page-3-hm]]
+- [fxa202-week09-healing-through-art-and-music](../sources/fxa202-week09-healing-through-art-and-music.md)
+- [fxa301-week08-lesson-fxa301-week07-page-3-hm](../sources/fxa301-week08-lesson-fxa301-week07-page-3-hm.md)

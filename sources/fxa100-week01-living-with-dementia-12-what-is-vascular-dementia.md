@@ -24,18 +24,18 @@ This video transcript discusses vascular cognitive impairment and its progressio
 
 ## Key Concepts
 
-- [[../topics/vascular cognitive impairment]]
-- [[../topics/small vessel disease]]
-- [[../topics/mixed dementia]]
+- [vascular cognitive impairment](../topics/vascular cognitive impairment.md)
+- [small vessel disease](../topics/small vessel disease.md)
+- [mixed dementia](../topics/mixed dementia.md)
 
 ## Tags
 
-- [[../tags/vascular-dementia]]
-- [[../tags/cognitive-impairment]]
-- [[../tags/brain-health]]
-- [[../tags/neurology]]
-- [[../tags/stroke-effects]]
-- [[../tags/fxa100]]
+- [vascular-dementia](../tags/vascular-dementia.md)
+- [cognitive-impairment](../tags/cognitive-impairment.md)
+- [brain-health](../tags/brain-health.md)
+- [neurology](../tags/neurology.md)
+- [stroke-effects](../tags/stroke-effects.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -43,6 +43,6 @@ This video transcript discusses vascular cognitive impairment and its progressio
 
 ## See Also
 
-- [[../topics/brain-health]]
-- [[../topics/cognitive-impairment]]
-- [[../topics/neurology]]
+- [brain-health](../topics/brain-health.md)
+- [cognitive-impairment](../topics/cognitive-impairment.md)
+- [neurology](../topics/neurology.md)

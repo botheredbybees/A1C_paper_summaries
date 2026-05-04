@@ -24,16 +24,16 @@ The ARTZ Museum Program focuses on offering specialized visits to museums design
 
 ## Key Concepts
 
-- [[../topics/cognitive-stimulation]]
-- [[../topics/emotional-wellbeing]]
-- [[../topics/social-engagement]]
+- [cognitive-stimulation](../topics/cognitive-stimulation.md)
+- [emotional-wellbeing](../topics/emotional-wellbeing.md)
+- [social-engagement](../topics/social-engagement.md)
 
 ## Tags
 
-- [[../tags/alzheimer's-disease]]
-- [[../tags/museum-education]]
-- [[../tags/caregiver-support]]
-- [[../tags/fxa100]]
+- [alzheimer's-disease](../tags/alzheimer's-disease.md)
+- [museum-education](../tags/museum-education.md)
+- [caregiver-support](../tags/caregiver-support.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -41,6 +41,6 @@ The ARTZ Museum Program focuses on offering specialized visits to museums design
 
 ## See Also
 
-- [[../topics/alzheimers-disease]]
-- [[../topics/caregiver-support]]
-- [[../topics/museum-education]]
+- [alzheimers-disease](../topics/alzheimers-disease.md)
+- [caregiver-support](../topics/caregiver-support.md)
+- [museum-education](../topics/museum-education.md)

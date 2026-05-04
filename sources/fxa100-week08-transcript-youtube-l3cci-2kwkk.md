@@ -24,17 +24,17 @@ The transcript discusses Sully Jenny's pioneering work on using art therapy to c
 
 ## Key Concepts
 
-- [[../topics/memories in the making program]]
-- [[../topics/non-verbal communication]]
-- [[../topics/creative expression]]
+- [memories in the making program](../topics/memories in the making program.md)
+- [non-verbal communication](../topics/non-verbal communication.md)
+- [creative expression](../topics/creative expression.md)
 
 ## Tags
 
-- [[../tags/alzheimer-s-disease]]
-- [[../tags/art-therapy]]
-- [[../tags/self-expression]]
-- [[../tags/memory-loss]]
-- [[../tags/fxa100]]
+- [alzheimer-s-disease](../tags/alzheimer-s-disease.md)
+- [art-therapy](../tags/art-therapy.md)
+- [self-expression](../tags/self-expression.md)
+- [memory-loss](../tags/memory-loss.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -42,6 +42,6 @@ The transcript discusses Sully Jenny's pioneering work on using art therapy to c
 
 ## See Also
 
-- [[../topics/alzheimer-s-disease]]
-- [[../topics/memory-loss]]
-- [[../topics/self-expression]]
+- [alzheimer-s-disease](../topics/alzheimer-s-disease.md)
+- [memory-loss](../topics/memory-loss.md)
+- [self-expression](../topics/self-expression.md)

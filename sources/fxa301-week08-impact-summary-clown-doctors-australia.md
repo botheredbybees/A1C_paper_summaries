@@ -30,25 +30,25 @@ The organization's commitment to evidence-based practices is reinforced by publi
 
 ## Key Concepts
 
-- [[../topics/Social Impact Measurement (SIM) Framework]]
-- [[../topics/Social Return on Investment (SROI)]]
-- [[../topics/Quality of Care]]
+- [Social Impact Measurement (SIM) Framework](../topics/Social Impact Measurement (SIM) Framework.md)
+- [Social Return on Investment (SROI)](../topics/Social Return on Investment (SROI).md)
+- [Quality of Care](../topics/Quality of Care.md)
 
 ## Tags
 
-- [[../tags/clown-doctors]]
-- [[../tags/laughter-care]]
-- [[../tags/healthcare-improvement]]
-- [[../tags/social-impact-assessment]]
-- [[../tags/well-being-in-healthcare]]
-- [[../tags/fxa301]]
+- [clown-doctors](../tags/clown-doctors.md)
+- [laughter-care](../tags/laughter-care.md)
+- [healthcare-improvement](../tags/healthcare-improvement.md)
+- [social-impact-assessment](../tags/social-impact-assessment.md)
+- [well-being-in-healthcare](../tags/well-being-in-healthcare.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/clown-doctors]]
-- [[../topics/healthcare-improvement]]
-- [[../topics/laughter-care]]
+- [clown-doctors](../topics/clown-doctors.md)
+- [healthcare-improvement](../topics/healthcare-improvement.md)
+- [laughter-care](../topics/laughter-care.md)

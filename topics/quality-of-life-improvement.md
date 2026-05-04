@@ -26,5 +26,5 @@ The integration of music-based interventions such as the Wisconsin Music & Memor
 
 ## Sources
 
-- [[../sources/fxa100-week03-implementation-survey-results-wisconsin-music-memory-program]]
-- [[../sources/fxa100-week03-music-memory-the-ipod-project-video-transcript]]
+- [fxa100-week03-implementation-survey-results-wisconsin-music-memory-program](../sources/fxa100-week03-implementation-survey-results-wisconsin-music-memory-program.md)
+- [fxa100-week03-music-memory-the-ipod-project-video-transcript](../sources/fxa100-week03-music-memory-the-ipod-project-video-transcript.md)

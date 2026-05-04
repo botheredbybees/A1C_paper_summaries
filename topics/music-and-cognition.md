@@ -26,5 +26,5 @@ The integration of music and cognition reveals a multifaceted interaction betwee
 
 ## Sources
 
-- [[../sources/fxa100-week02-introduction-to-week-2-music-and-the-brain]]
-- [[../sources/fxa100-week02-the-benefits-of-music-instruction-on-processing-speed]]
+- [fxa100-week02-introduction-to-week-2-music-and-the-brain](../sources/fxa100-week02-introduction-to-week-2-music-and-the-brain.md)
+- [fxa100-week02-the-benefits-of-music-instruction-on-processing-speed](../sources/fxa100-week02-the-benefits-of-music-instruction-on-processing-speed.md)

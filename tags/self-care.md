@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Self Care
 
-- [[../sources/fxa202-week03-lesson-fxa202-week03-page-2|How Can Photography Help Wellbeing?]]
+- [How Can Photography Help Wellbeing?](../sources/fxa202-week03-lesson-fxa202-week03-page-2.md)

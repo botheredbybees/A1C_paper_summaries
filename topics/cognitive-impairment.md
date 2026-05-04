@@ -25,5 +25,5 @@ The sources provide insights into different aspects of cognitive impairment, par
 
 ## Sources
 
-- [[../sources/fxa100-week01-living-with-dementia-12-what-is-vascular-dementia]]
-- [[../sources/fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers]]
+- [fxa100-week01-living-with-dementia-12-what-is-vascular-dementia](../sources/fxa100-week01-living-with-dementia-12-what-is-vascular-dementia.md)
+- [fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers](../sources/fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers.md)

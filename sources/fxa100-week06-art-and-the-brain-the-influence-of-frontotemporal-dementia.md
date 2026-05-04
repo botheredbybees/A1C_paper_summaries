@@ -24,21 +24,21 @@ This article explores the case of an accomplished artist who developed frontotem
 
 ## Key Concepts
 
-- [[../topics/preservation-of-creativity-in-dementia]]
-- [[../topics/artistic-expression-as-cognition]]
+- [preservation-of-creativity-in-dementia](../topics/preservation-of-creativity-in-dementia.md)
+- [artistic-expression-as-cognition](../topics/artistic-expression-as-cognition.md)
 
 ## Tags
 
-- [[../tags/neurodegeneration-and-art]]
-- [[../tags/cognitive-decline]]
-- [[../tags/frontotemporal-dementia]]
-- [[../tags/fxa100]]
+- [neurodegeneration-and-art](../tags/neurodegeneration-and-art.md)
+- [cognitive-decline](../tags/cognitive-decline.md)
+- [frontotemporal-dementia](../tags/frontotemporal-dementia.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/cognitive-decline]]
-- [[../topics/frontotemporal-dementia]]
+- [cognitive-decline](../topics/cognitive-decline.md)
+- [frontotemporal-dementia](../topics/frontotemporal-dementia.md)

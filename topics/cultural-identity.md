@@ -25,5 +25,5 @@ The sources highlight two distinct but interrelated interventions that support c
 
 ## Sources
 
-- [[../sources/fxa100-week09-in-my-fathers-words-review-sophisticated-dementia-drama]]
-- [[../sources/fxa301-week05-how-murals-helped-turn-a-declining-community-around]]
+- [fxa100-week09-in-my-fathers-words-review-sophisticated-dementia-drama](../sources/fxa100-week09-in-my-fathers-words-review-sophisticated-dementia-drama.md)
+- [fxa301-week05-how-murals-helped-turn-a-declining-community-around](../sources/fxa301-week05-how-murals-helped-turn-a-declining-community-around.md)

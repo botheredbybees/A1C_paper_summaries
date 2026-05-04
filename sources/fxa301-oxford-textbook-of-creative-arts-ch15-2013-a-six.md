@@ -24,16 +24,16 @@ The Active Energy project is described as a collaborative initiative between art
 
 ## Key Concepts
 
-- [[../topics/quality-of-life-model]]
-- [[../topics/community-value-of-experience]]
-- [[../topics/creative-arts-wellbeing]]
+- [quality-of-life-model](../topics/quality-of-life-model.md)
+- [community-value-of-experience](../topics/community-value-of-experience.md)
+- [creative-arts-wellbeing](../topics/creative-arts-wellbeing.md)
 
 ## Tags
 
-- [[../tags/active-energy-project]]
-- [[../tags/aging-community-engagement]]
-- [[../tags/participatory-art-methods]]
-- [[../tags/fxa301]]
+- [active-energy-project](../tags/active-energy-project.md)
+- [aging-community-engagement](../tags/aging-community-engagement.md)
+- [participatory-art-methods](../tags/participatory-art-methods.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

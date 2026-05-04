@@ -24,22 +24,22 @@ This study investigates the impact of music therapy on depression in a nursing h
 
 ## Key Concepts
 
-- [[../topics/music therapy]]
-- [[../topics/Montgomery Aasberg Depression Rating Scale (MADRS)]]
+- [music therapy](../topics/music therapy.md)
+- [Montgomery Aasberg Depression Rating Scale (MADRS)](../topics/Montgomery Aasberg Depression Rating Scale (MADRS).md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/depression-treatment]]
-- [[../tags/elderly-care]]
-- [[../tags/fxa100]]
+- [music-therapy](../tags/music-therapy.md)
+- [depression-treatment](../tags/depression-treatment.md)
+- [elderly-care](../tags/elderly-care.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[pilot study]]
+- [pilot study](pilot study.md)
 
 ## See Also
 
-- [[../topics/depression-treatment]]
-- [[../topics/elderly-care]]
-- [[../topics/music-therapy]]
+- [depression-treatment](../topics/depression-treatment.md)
+- [elderly-care](../topics/elderly-care.md)
+- [music-therapy](../topics/music-therapy.md)

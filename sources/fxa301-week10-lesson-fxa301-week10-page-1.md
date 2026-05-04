@@ -24,19 +24,19 @@ This week's lesson in FXA301 Arts in the Community explores the therapeutic use 
 
 ## Key Concepts
 
-- [[../topics/therapeutic use of creative arts]]
-- [[../topics/neurochemical release]]
-- [[../topics/Csikszentmihalyi's flow theory]]
+- [therapeutic use of creative arts](../topics/therapeutic use of creative arts.md)
+- [neurochemical release](../topics/neurochemical release.md)
+- [Csikszentmihalyi's flow theory](../topics/Csikszentmihalyi's flow theory.md)
 
 ## Tags
 
-- [[../tags/mental-health]]
-- [[../tags/creative-arts]]
-- [[../tags/therapy]]
-- [[../tags/trauma-recovery]]
-- [[../tags/flow-state]]
-- [[../tags/well-being]]
-- [[../tags/fxa301]]
+- [mental-health](../tags/mental-health.md)
+- [creative-arts](../tags/creative-arts.md)
+- [therapy](../tags/therapy.md)
+- [trauma-recovery](../tags/trauma-recovery.md)
+- [flow-state](../tags/flow-state.md)
+- [well-being](../tags/well-being.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

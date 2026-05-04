@@ -27,6 +27,6 @@ The exploration of brain structure reveals a complex network where various regio
 
 ## Sources
 
-- [[../sources/fxa301-week02-the-brain-and-how-we-perceive-information]]
-- [[../sources/fxa303-week03-limbic-systems-for-emotion-and-for-memory-but-no-single]]
-- [[../sources/fxa303-week03-neuroanatomy-limbic-system]]
+- [fxa301-week02-the-brain-and-how-we-perceive-information](../sources/fxa301-week02-the-brain-and-how-we-perceive-information.md)
+- [fxa303-week03-limbic-systems-for-emotion-and-for-memory-but-no-single](../sources/fxa303-week03-limbic-systems-for-emotion-and-for-memory-but-no-single.md)
+- [fxa303-week03-neuroanatomy-limbic-system](../sources/fxa303-week03-neuroanatomy-limbic-system.md)

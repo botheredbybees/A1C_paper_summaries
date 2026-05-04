@@ -24,21 +24,21 @@ The 'Evaluating Community Arts & Community Well-Being' guide by Clare Keating pr
 
 ## Key Concepts
 
-- [[../topics/social-outcomes]]
-- [[../topics/funding-justification]]
-- [[../topics/continuous-improvement]]
+- [social-outcomes](../topics/social-outcomes.md)
+- [funding-justification](../topics/funding-justification.md)
+- [continuous-improvement](../topics/continuous-improvement.md)
 
 ## Tags
 
-- [[../tags/community-arts]]
-- [[../tags/well-being-assessment]]
-- [[../tags/evaluation-guide]]
-- [[../tags/fxa100]]
+- [community-arts](../tags/community-arts.md)
+- [well-being-assessment](../tags/well-being-assessment.md)
+- [evaluation-guide](../tags/evaluation-guide.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/community-arts]]
+- [community-arts](../topics/community-arts.md)

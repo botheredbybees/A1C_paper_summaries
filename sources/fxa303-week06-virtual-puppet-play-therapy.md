@@ -24,24 +24,24 @@ Karen Fried's chapter on Virtual Puppet Play Therapy explores the adaptation of 
 
 ## Key Concepts
 
-- [[../topics/symbolic-projection]]
-- [[../topics/therapeutic-assessment]]
-- [[../topics/interactive-online-platforms]]
+- [symbolic-projection](../topics/symbolic-projection.md)
+- [therapeutic-assessment](../topics/therapeutic-assessment.md)
+- [interactive-online-platforms](../topics/interactive-online-platforms.md)
 
 ## Tags
 
-- [[../tags/virtual-therapy]]
-- [[../tags/play-therapy]]
-- [[../tags/puppet-play]]
-- [[../tags/online-counseling]]
-- [[../tags/emotional-expression]]
-- [[../tags/fxa303]]
+- [virtual-therapy](../tags/virtual-therapy.md)
+- [play-therapy](../tags/play-therapy.md)
+- [puppet-play](../tags/puppet-play.md)
+- [online-counseling](../tags/online-counseling.md)
+- [emotional-expression](../tags/emotional-expression.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/emotional-expression]]
-- [[../topics/play-therapy]]
+- [emotional-expression](../topics/emotional-expression.md)
+- [play-therapy](../topics/play-therapy.md)

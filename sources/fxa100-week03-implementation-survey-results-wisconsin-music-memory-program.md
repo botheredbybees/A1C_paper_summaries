@@ -28,25 +28,25 @@ The results underscore the relevance of music therapy as a non-pharmacological i
 
 ## Key Concepts
 
-- [[../topics/Music & Memory Program]]
-- [[../topics/resident well-being]]
-- [[../topics/personalized music therapy]]
+- [Music & Memory Program](../topics/Music & Memory Program.md)
+- [resident well-being](../topics/resident well-being.md)
+- [personalized music therapy](../topics/personalized music therapy.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/dementia-care]]
-- [[../tags/non-pharmacological-intervention]]
-- [[../tags/quality-of-life-improvement]]
-- [[../tags/fxa100]]
+- [music-therapy](../tags/music-therapy.md)
+- [dementia-care](../tags/dementia-care.md)
+- [non-pharmacological-intervention](../tags/non-pharmacological-intervention.md)
+- [quality-of-life-improvement](../tags/quality-of-life-improvement.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[implementation survey]]
+- [implementation survey](implementation survey.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/music-therapy]]
-- [[../topics/non-pharmacological-intervention]]
-- [[../topics/quality-of-life-improvement]]
+- [dementia-care](../topics/dementia-care.md)
+- [music-therapy](../topics/music-therapy.md)
+- [non-pharmacological-intervention](../topics/non-pharmacological-intervention.md)
+- [quality-of-life-improvement](../topics/quality-of-life-improvement.md)

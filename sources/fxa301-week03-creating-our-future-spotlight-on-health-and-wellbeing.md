@@ -24,24 +24,24 @@ The document 'Creating Our Future: Spotlight on Health and Wellbeing' highlights
 
 ## Key Concepts
 
-- [[../topics/healthcare sectors integration]]
-- [[../topics/financial returns on arts investment]]
+- [healthcare sectors integration](../topics/healthcare sectors integration.md)
+- [financial returns on arts investment](../topics/financial returns on arts investment.md)
 
 ## Tags
 
-- [[../tags/arts-and-health]]
-- [[../tags/creative-interventions]]
-- [[../tags/wellbeing-enhancement]]
-- [[../tags/mental-health-support]]
-- [[../tags/fxa301]]
+- [arts-and-health](../tags/arts-and-health.md)
+- [creative-interventions](../tags/creative-interventions.md)
+- [wellbeing-enhancement](../tags/wellbeing-enhancement.md)
+- [mental-health-support](../tags/mental-health-support.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/arts-and-health]]
-- [[../topics/creative-interventions]]
-- [[../topics/mental-health-support]]
-- [[../topics/wellbeing-enhancement]]
+- [arts-and-health](../topics/arts-and-health.md)
+- [creative-interventions](../topics/creative-interventions.md)
+- [mental-health-support](../topics/mental-health-support.md)
+- [wellbeing-enhancement](../topics/wellbeing-enhancement.md)

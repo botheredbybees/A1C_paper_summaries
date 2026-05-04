@@ -24,22 +24,22 @@ This paper examines the limitations of applying the World Health Organization’
 
 ## Key Concepts
 
-- [[../topics/social determinants of health (SDH)]]
-- [[../topics/Indigenous epistemologies]]
-- [[../topics/community sovereignty]]
+- [social determinants of health (SDH)](../topics/social determinants of health (SDH).md)
+- [Indigenous epistemologies](../topics/Indigenous epistemologies.md)
+- [community sovereignty](../topics/community sovereignty.md)
 
 ## Tags
 
-- [[../tags/indigenous-health]]
-- [[../tags/social-determinants-of-health]]
-- [[../tags/health-policy]]
-- [[../tags/indigenizing-research]]
-- [[../tags/public-health]]
-- [[../tags/fxa303]]
+- [indigenous-health](../tags/indigenous-health.md)
+- [social-determinants-of-health](../tags/social-determinants-of-health.md)
+- [health-policy](../tags/health-policy.md)
+- [indigenizing-research](../tags/indigenizing-research.md)
+- [public-health](../tags/public-health.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[conceptual framework development]]
+- **conceptual framework development**
 
 ## See Also
 

@@ -26,5 +26,5 @@ The adolescent period is marked by significant brain changes that influence cogn
 
 ## Sources
 
-- [[../sources/fxa303-week02-lesson-fxa303-week02-introduction-copy]]
-- [[../sources/fxa303-week03-adolescent-development]]
+- [fxa303-week02-lesson-fxa303-week02-introduction-copy](../sources/fxa303-week02-lesson-fxa303-week02-introduction-copy.md)
+- [fxa303-week03-adolescent-development](../sources/fxa303-week03-adolescent-development.md)

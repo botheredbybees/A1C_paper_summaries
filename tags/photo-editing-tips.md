@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Photo Editing Tips
 
-- [[../sources/fxa202-week08-how-to-merge-and-combine-images-in-photoshop-(2)|How to Merge and Combine Images in Photoshop]]
+- [How to Merge and Combine Images in Photoshop](../sources/fxa202-week08-how-to-merge-and-combine-images-in-photoshop-(2).md)

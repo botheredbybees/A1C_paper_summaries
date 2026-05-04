@@ -26,5 +26,5 @@ The synthesis of self-care practices across the two sources highlights diverse a
 
 ## Sources
 
-- [[../sources/fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using]]
-- [[../sources/fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare]]
+- [fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using](../sources/fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using.md)
+- [fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare](../sources/fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare.md)

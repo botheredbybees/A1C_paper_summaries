@@ -28,7 +28,7 @@ The integration of arts into healthcare settings emerges as a multifaceted inter
 
 ## Sources
 
-- [[../sources/fxa100-week04-mindsong-transcript]]
-- [[../sources/fxa301-arts-in-health-ch04-48-haldane-d]]
-- [[../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment]]
-- [[../sources/fxa301-week03-implementing-creative-health]]
+- [fxa100-week04-mindsong-transcript](../sources/fxa100-week04-mindsong-transcript.md)
+- [fxa301-arts-in-health-ch04-48-haldane-d](../sources/fxa301-arts-in-health-ch04-48-haldane-d.md)
+- [fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment.md)
+- [fxa301-week03-implementing-creative-health](../sources/fxa301-week03-implementing-creative-health.md)

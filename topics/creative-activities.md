@@ -27,6 +27,6 @@ The integration of creative activities in dementia care emphasizes their potenti
 
 ## Sources
 
-- [[../sources/fxa100-creativity-and-communication-ch09-19-starting-out-in-any-creative-endeavour-of-this-nature]]
-- [[../sources/fxa100-week08-creativity-and-communication-in-persons-with-dementia-a]]
-- [[../sources/fxa100-week08-the-use-of-creative-activities-in-dementia-in-residential]]
+- [fxa100-creativity-and-communication-ch09-19-starting-out-in-any-creative-endeavour-of-this-nature](../sources/fxa100-creativity-and-communication-ch09-19-starting-out-in-any-creative-endeavour-of-this-nature.md)
+- [fxa100-week08-creativity-and-communication-in-persons-with-dementia-a](../sources/fxa100-week08-creativity-and-communication-in-persons-with-dementia-a.md)
+- [fxa100-week08-the-use-of-creative-activities-in-dementia-in-residential](../sources/fxa100-week08-the-use-of-creative-activities-in-dementia-in-residential.md)

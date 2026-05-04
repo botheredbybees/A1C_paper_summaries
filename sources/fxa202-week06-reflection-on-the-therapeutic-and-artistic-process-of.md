@@ -24,25 +24,25 @@ The reflection discusses the therapeutic and artistic process of creating a phot
 
 ## Key Concepts
 
-- [[../topics/psychological-distress]]
-- [[../topics/in-vitro-fertilization]]
-- [[../topics/mindful-photography]]
+- [psychological-distress](../topics/psychological-distress.md)
+- [in-vitro-fertilization](../topics/in-vitro-fertilization.md)
+- [mindful-photography](../topics/mindful-photography.md)
 
 ## Tags
 
-- [[../tags/ivf-experience]]
-- [[../tags/photo-essay-art]]
-- [[../tags/mental-health-support]]
-- [[../tags/personal-reflection]]
-- [[../tags/creative-expression]]
-- [[../tags/fxa202]]
+- [ivf-experience](../tags/ivf-experience.md)
+- [photo-essay-art](../tags/photo-essay-art.md)
+- [mental-health-support](../tags/mental-health-support.md)
+- [personal-reflection](../tags/personal-reflection.md)
+- [creative-expression](../tags/creative-expression.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/creative-expression]]
-- [[../topics/mental-health-support]]
-- [[../topics/personal-reflection]]
+- [creative-expression](../topics/creative-expression.md)
+- [mental-health-support](../topics/mental-health-support.md)
+- [personal-reflection](../topics/personal-reflection.md)

@@ -28,24 +28,24 @@ Additionally, the lecture touches upon other arts programs like Timeslips and Al
 
 ## Key Concepts
 
-- [[../topics/Playful Engagement Project]]
-- [[../topics/Sundowner Theatre Production]]
-- [[../topics/Timeslips Program]]
-- [[../topics/Alzheimer's Poetry Project]]
+- [Playful Engagement Project](../topics/Playful Engagement Project.md)
+- [Sundowner Theatre Production](../topics/Sundowner Theatre Production.md)
+- [Timeslips Program](../topics/Timeslips Program.md)
+- [Alzheimer's Poetry Project](../topics/Alzheimer's Poetry Project.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/elder-clowns]]
-- [[../tags/theatrical-interventions]]
-- [[../tags/playful-engagement]]
-- [[../tags/non-verbal-communication]]
-- [[../tags/arts-in-healthcare]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [elder-clowns](../tags/elder-clowns.md)
+- [theatrical-interventions](../tags/theatrical-interventions.md)
+- [playful-engagement](../tags/playful-engagement.md)
+- [non-verbal-communication](../tags/non-verbal-communication.md)
+- [arts-in-healthcare](../tags/arts-in-healthcare.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 

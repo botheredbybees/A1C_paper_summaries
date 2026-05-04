@@ -26,5 +26,5 @@ World War I witnessed the emergence of shell shock as a significant psychologica
 
 ## Sources
 
-- [[../sources/fxa301-week05-shell-shock-trauma-and-the-first-world-war-the-making-of-a]]
-- [[../sources/fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at]]
+- [fxa301-week05-shell-shock-trauma-and-the-first-world-war-the-making-of-a](../sources/fxa301-week05-shell-shock-trauma-and-the-first-world-war-the-making-of-a.md)
+- [fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at](../sources/fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at.md)

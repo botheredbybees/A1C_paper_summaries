@@ -28,25 +28,25 @@ Treatment options for trauma include trauma-focused therapies like Cognitive Beh
 
 ## Key Concepts
 
-- [[../topics/post-traumatic-stress-disorder]]
-- [[../topics/cognitive-behavioral-therapy]]
-- [[../topics/eye-movement-desensitization-reprocessing]]
+- [post-traumatic-stress-disorder](../topics/post-traumatic-stress-disorder.md)
+- [cognitive-behavioral-therapy](../topics/cognitive-behavioral-therapy.md)
+- [eye-movement-desensitization-reprocessing](../topics/eye-movement-desensitization-reprocessing.md)
 
 ## Tags
 
-- [[../tags/trauma-recovery]]
-- [[../tags/ptsd-symptoms]]
-- [[../tags/mental-health-treatment]]
-- [[../tags/cognitive-behavioral-therapy]]
-- [[../tags/emotional-healing]]
-- [[../tags/fxa303]]
+- [trauma-recovery](../tags/trauma-recovery.md)
+- [ptsd-symptoms](../tags/ptsd-symptoms.md)
+- [mental-health-treatment](../tags/mental-health-treatment.md)
+- [cognitive-behavioral-therapy](../tags/cognitive-behavioral-therapy.md)
+- [emotional-healing](../tags/emotional-healing.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[literature-review]]
+- [literature-review](literature-review.md)
 
 ## See Also
 
-- [[../topics/cognitive-behavioral-therapy]]
-- [[../topics/emotional-healing]]
-- [[../topics/trauma-recovery]]
+- [cognitive-behavioral-therapy](../topics/cognitive-behavioral-therapy.md)
+- [emotional-healing](../topics/emotional-healing.md)
+- [trauma-recovery](../topics/trauma-recovery.md)

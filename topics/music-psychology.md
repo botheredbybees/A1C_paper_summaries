@@ -26,5 +26,5 @@ The literature highlights the profound impact of music on human emotion across v
 
 ## Sources
 
-- [[../sources/fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and]]
-- [[../sources/fxa301-week02-an-experience-sampling-study-of-emotional-reactions-to]]
+- [fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and](../sources/fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and.md)
+- [fxa301-week02-an-experience-sampling-study-of-emotional-reactions-to](../sources/fxa301-week02-an-experience-sampling-study-of-emotional-reactions-to.md)

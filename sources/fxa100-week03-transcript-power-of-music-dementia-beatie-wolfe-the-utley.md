@@ -24,15 +24,15 @@ This transcript features a musical performance by Beatie Wolfe in collaboration 
 
 ## Key Concepts
 
-- [[../topics/dementia-care]]
-- [[../topics/supportive-relationships]]
+- [dementia-care](../topics/dementia-care.md)
+- [supportive-relationships](../topics/supportive-relationships.md)
 
 ## Tags
 
-- [[../tags/music-and-dementia]]
-- [[../tags/emotional-support]]
-- [[../tags/ageing-with-resilience]]
-- [[../tags/fxa100]]
+- [music-and-dementia](../tags/music-and-dementia.md)
+- [emotional-support](../tags/emotional-support.md)
+- [ageing-with-resilience](../tags/ageing-with-resilience.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -40,5 +40,5 @@ This transcript features a musical performance by Beatie Wolfe in collaboration 
 
 ## See Also
 
-- [[../topics/emotional-support]]
-- [[../topics/music-and-dementia]]
+- [emotional-support](../topics/emotional-support.md)
+- [music-and-dementia](../topics/music-and-dementia.md)

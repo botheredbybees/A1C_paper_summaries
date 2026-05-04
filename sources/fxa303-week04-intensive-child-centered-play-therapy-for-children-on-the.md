@@ -24,24 +24,24 @@ This study explores the effectiveness of intensive child-centered play therapy (
 
 ## Key Concepts
 
-- [[../topics/intensive-child-centered-play-therapy]]
-- [[../topics/autism-spectrum-disorder]]
-- [[../topics/behavioral-interventions]]
+- [intensive-child-centered-play-therapy](../topics/intensive-child-centered-play-therapy.md)
+- [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)
+- [behavioral-interventions](../topics/behavioral-interventions.md)
 
 ## Tags
 
-- [[../tags/autism-spectrum-disorder]]
-- [[../tags/child-therapy]]
-- [[../tags/play-therapy]]
-- [[../tags/intervention-study]]
-- [[../tags/fxa303]]
+- [autism-spectrum-disorder](../tags/autism-spectrum-disorder.md)
+- [child-therapy](../tags/child-therapy.md)
+- [play-therapy](../tags/play-therapy.md)
+- [intervention-study](../tags/intervention-study.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[randomized-controlled-trial]]
+- [randomized-controlled-trial](randomized-controlled-trial.md)
 
 ## See Also
 
-- [[../topics/autism-spectrum-disorder]]
-- [[../topics/child-therapy]]
-- [[../topics/play-therapy]]
+- [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)
+- [child-therapy](../topics/child-therapy.md)
+- [play-therapy](../topics/play-therapy.md)

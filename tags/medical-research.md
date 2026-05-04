@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Medical Research
 
-- [[../sources/fxa100-week01-transcript-what-is-alzheimers-disease-ivan-seah-yu-jun|What Is Alzheimer's Disease]]
+- [What Is Alzheimer's Disease](../sources/fxa100-week01-transcript-what-is-alzheimers-disease-ivan-seah-yu-jun.md)

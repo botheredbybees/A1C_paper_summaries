@@ -24,15 +24,15 @@ This lesson on photo editing emphasizes the importance of basic adjustments to e
 
 ## Key Concepts
 
-- [[../topics/horizon straightening]]
-- [[../topics/black-and-white conversion]]
+- [horizon straightening](../topics/horizon straightening.md)
+- [black-and-white conversion](../topics/black-and-white conversion.md)
 
 ## Tags
 
-- [[../tags/photo-editing]]
-- [[../tags/photography-techniques]]
-- [[../tags/image-enhancement]]
-- [[../tags/fxa202]]
+- [photo-editing](../tags/photo-editing.md)
+- [photography-techniques](../tags/photography-techniques.md)
+- [image-enhancement](../tags/image-enhancement.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
@@ -40,5 +40,5 @@ This lesson on photo editing emphasizes the importance of basic adjustments to e
 
 ## See Also
 
-- [[../topics/photo-editing]]
-- [[../topics/photography-techniques]]
+- [photo-editing](../topics/photo-editing.md)
+- [photography-techniques](../topics/photography-techniques.md)

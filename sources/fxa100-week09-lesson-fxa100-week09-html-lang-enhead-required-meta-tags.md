@@ -24,19 +24,19 @@ In this module of FXA100 The Arts and Dementia Care, students explore dramathera
 
 ## Key Concepts
 
-- [[../topics/Theatre of the Oppressed techniques]]
-- [[../topics/Veder method]]
-- [[../topics/person-centred care guidelines]]
+- [Theatre of the Oppressed techniques](../topics/Theatre of the Oppressed techniques.md)
+- [Veder method](../topics/Veder method.md)
+- [person-centred care guidelines](../topics/person-centred care guidelines.md)
 
 ## Tags
 
-- [[../tags/dramatherapy]]
-- [[../tags/dance-therapy]]
-- [[../tags/applied-theatre]]
-- [[../tags/dementia-care]]
-- [[../tags/theatre-of-the-oppressed]]
-- [[../tags/veder-method]]
-- [[../tags/fxa100]]
+- [dramatherapy](../tags/dramatherapy.md)
+- [dance-therapy](../tags/dance-therapy.md)
+- [applied-theatre](../tags/applied-theatre.md)
+- [dementia-care](../tags/dementia-care.md)
+- [theatre-of-the-oppressed](../tags/theatre-of-the-oppressed.md)
+- [veder-method](../tags/veder-method.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -44,8 +44,8 @@ In this module of FXA100 The Arts and Dementia Care, students explore dramathera
 
 ## See Also
 
-- [[../topics/applied-theatre]]
-- [[../topics/dance-therapy]]
-- [[../topics/dementia-care]]
-- [[../topics/dramatherapy]]
-- [[../topics/theatre-of-the-oppressed]]
+- [applied-theatre](../topics/applied-theatre.md)
+- [dance-therapy](../topics/dance-therapy.md)
+- [dementia-care](../topics/dementia-care.md)
+- [dramatherapy](../topics/dramatherapy.md)
+- [theatre-of-the-oppressed](../topics/theatre-of-the-oppressed.md)

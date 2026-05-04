@@ -24,23 +24,23 @@ The 2024 Youth Survey Report by Mission Australia highlights the evolving challe
 
 ## Key Concepts
 
-- [[../topics/cost-of-living]]
-- [[../topics/mental-health]]
-- [[../topics/climate-change-concerns]]
-- [[../topics/discrimination-experience]]
+- [cost-of-living](../topics/cost-of-living.md)
+- [mental-health](../topics/mental-health.md)
+- [climate-change-concerns](../topics/climate-change-concerns.md)
+- [discrimination-experience](../topics/discrimination-experience.md)
 
 ## Tags
 
-- [[../tags/youth-well-being]]
-- [[../tags/mental-health-stress]]
-- [[../tags/economic-challenges]]
-- [[../tags/climate-change-views]]
-- [[../tags/discrimination-violence]]
-- [[../tags/fxa303]]
+- [youth-well-being](../tags/youth-well-being.md)
+- [mental-health-stress](../tags/mental-health-stress.md)
+- [economic-challenges](../tags/economic-challenges.md)
+- [climate-change-views](../tags/climate-change-views.md)
+- [discrimination-violence](../tags/discrimination-violence.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[survey-research]]
+- [survey-research](survey-research.md)
 
 ## See Also
 

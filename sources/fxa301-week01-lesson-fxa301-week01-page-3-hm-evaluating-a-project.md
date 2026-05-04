@@ -24,16 +24,16 @@ This lesson discusses the evaluation of community creative arts projects aimed a
 
 ## Key Concepts
 
-- [[../topics/evaluation-frameworks]]
-- [[../topics/validated-surveys]]
-- [[../topics/creative-methodologies]]
+- [evaluation-frameworks](../topics/evaluation-frameworks.md)
+- [validated-surveys](../topics/validated-surveys.md)
+- [creative-methodologies](../topics/creative-methodologies.md)
 
 ## Tags
 
-- [[../tags/arts-and-health]]
-- [[../tags/project-evaluation]]
-- [[../tags/wellbeing-outcomes]]
-- [[../tags/fxa301]]
+- [arts-and-health](../tags/arts-and-health.md)
+- [project-evaluation](../tags/project-evaluation.md)
+- [wellbeing-outcomes](../tags/wellbeing-outcomes.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ This lesson discusses the evaluation of community creative arts projects aimed a
 
 ## See Also
 
-- [[../topics/arts-and-health]]
-- [[../topics/wellbeing-outcomes]]
+- [arts-and-health](../topics/arts-and-health.md)
+- [wellbeing-outcomes](../topics/wellbeing-outcomes.md)

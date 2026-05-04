@@ -24,27 +24,27 @@ This symposium addresses the growing interest in utilizing arts programs to enha
 
 ## Key Concepts
 
-- [[../topics/visual arts interventions]]
-- [[../topics/quality of life]]
-- [[../topics/participatory methods]]
+- [visual arts interventions](../topics/visual arts interventions.md)
+- [quality of life](../topics/quality of life.md)
+- [participatory methods](../topics/participatory methods.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/arts-therapy]]
-- [[../tags/quality-of-life]]
-- [[../tags/community-engagement]]
-- [[../tags/interdisciplinary-research]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [arts-therapy](../tags/arts-therapy.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [community-engagement](../tags/community-engagement.md)
+- [interdisciplinary-research](../tags/interdisciplinary-research.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[longitudinal study]]
-- [[mixed-method]]
+- [longitudinal study](longitudinal study.md)
+- [mixed-method](mixed-method.md)
 
 ## See Also
 
-- [[../topics/arts-therapy]]
-- [[../topics/dementia-care]]
-- [[../topics/interdisciplinary-research]]
-- [[../topics/quality-of-life]]
+- [arts-therapy](../topics/arts-therapy.md)
+- [dementia-care](../topics/dementia-care.md)
+- [interdisciplinary-research](../topics/interdisciplinary-research.md)
+- [quality-of-life](../topics/quality-of-life.md)

@@ -26,5 +26,5 @@ The integration of arts-and-culture-based interventions in supporting youth ment
 
 ## Sources
 
-- [[../sources/fxa303-week03-supporting-youth-mental-health-with-arts-based-strategies-a]]
-- [[../sources/fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a]]
+- [fxa303-week03-supporting-youth-mental-health-with-arts-based-strategies-a](../sources/fxa303-week03-supporting-youth-mental-health-with-arts-based-strategies-a.md)
+- [fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a](../sources/fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a.md)

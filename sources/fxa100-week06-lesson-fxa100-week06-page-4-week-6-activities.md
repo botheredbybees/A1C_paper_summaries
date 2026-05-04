@@ -24,18 +24,18 @@ The lesson for Week 6 of FXA100 The Arts and Dementia Care focuses on the impact
 
 ## Key Concepts
 
-- [[../topics/preserved creativity]]
-- [[../topics/frontotemporal dementia]]
-- [[../topics/visual arts as therapy]]
+- [preserved creativity](../topics/preserved creativity.md)
+- [frontotemporal dementia](../topics/frontotemporal dementia.md)
+- [visual arts as therapy](../topics/visual arts as therapy.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/art-therapy]]
-- [[../tags/cognitive-neuroscience]]
-- [[../tags/case-study-analysis]]
-- [[../tags/neurodegenerative-diseases]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [art-therapy](../tags/art-therapy.md)
+- [cognitive-neuroscience](../tags/cognitive-neuroscience.md)
+- [case-study-analysis](../tags/case-study-analysis.md)
+- [neurodegenerative-diseases](../tags/neurodegenerative-diseases.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -43,6 +43,6 @@ The lesson for Week 6 of FXA100 The Arts and Dementia Care focuses on the impact
 
 ## See Also
 
-- [[../topics/cognitive-neuroscience]]
-- [[../topics/dementia-care]]
-- [[../topics/neurodegenerative-diseases]]
+- [cognitive-neuroscience](../topics/cognitive-neuroscience.md)
+- [dementia-care](../topics/dementia-care.md)
+- [neurodegenerative-diseases](../topics/neurodegenerative-diseases.md)

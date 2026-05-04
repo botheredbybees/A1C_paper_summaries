@@ -24,16 +24,16 @@ This chapter discusses the global prevalence and projections of dementia, emphas
 
 ## Key Concepts
 
-- [[../topics/Alzheimer's disease]]
-- [[../topics/vascular dementia]]
-- [[../topics/risk factors]]
+- [Alzheimer's disease](../topics/Alzheimer's disease.md)
+- [vascular dementia](../topics/vascular dementia.md)
+- [risk factors](../topics/risk factors.md)
 
 ## Tags
 
-- [[../tags/dementia-prevalence]]
-- [[../tags/population-ageing]]
-- [[../tags/public-health]]
-- [[../tags/fxa100]]
+- [dementia-prevalence](../tags/dementia-prevalence.md)
+- [population-ageing](../tags/population-ageing.md)
+- [public-health](../tags/public-health.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ This chapter discusses the global prevalence and projections of dementia, emphas
 
 ## See Also
 
-- [[../topics/dementia-prevalence]]
-- [[../topics/public-health]]
+- [dementia-prevalence](../topics/dementia-prevalence.md)
+- [public-health](../topics/public-health.md)

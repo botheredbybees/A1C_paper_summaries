@@ -24,22 +24,22 @@ The document 'That's the Way to Do It! A History of Punch & Judy' provides an ex
 
 ## Key Concepts
 
-- [[../topics/subversive-nature-of-punch]]
-- [[../topics/evolution-of-costume-design]]
-- [[../topics/integration-in-social-commentary]]
+- [subversive-nature-of-punch](../topics/subversive-nature-of-punch.md)
+- [evolution-of-costume-design](../topics/evolution-of-costume-design.md)
+- [integration-in-social-commentary](../topics/integration-in-social-commentary.md)
 
 ## Tags
 
-- [[../tags/punch-and-judy-history]]
-- [[../tags/british-entertainment]]
-- [[../tags/traditional-puppet-shows]]
-- [[../tags/cultural-evolution]]
-- [[../tags/folklore-studies]]
-- [[../tags/fxa303]]
+- [punch-and-judy-history](../tags/punch-and-judy-history.md)
+- [british-entertainment](../tags/british-entertainment.md)
+- [traditional-puppet-shows](../tags/traditional-puppet-shows.md)
+- [cultural-evolution](../tags/cultural-evolution.md)
+- [folklore-studies](../tags/folklore-studies.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[historical-overview]]
+- [historical-overview](historical-overview.md)
 
 ## See Also
 

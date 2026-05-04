@@ -24,19 +24,19 @@ This research article explores the transformation of personal music preferences 
 
 ## Key Concepts
 
-- [[../topics/musical-genre-shifts]]
-- [[../topics/social-status-attainment]]
+- [musical-genre-shifts](../topics/musical-genre-shifts.md)
+- [social-status-attainment](../topics/social-status-attainment.md)
 
 ## Tags
 
-- [[../tags/music-preferences]]
-- [[../tags/life-stages]]
-- [[../tags/identity-markers]]
-- [[../tags/fxa100]]
+- [music-preferences](../tags/music-preferences.md)
+- [life-stages](../tags/life-stages.md)
+- [identity-markers](../tags/identity-markers.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[longitudinal-study]]
+- [longitudinal-study](longitudinal-study.md)
 
 ## See Also
 

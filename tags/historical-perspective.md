@@ -6,5 +6,5 @@ updated: 2026-05-04
 
 ## Historical Perspective
 
-- [[../sources/fxa301-week06-lesson-fxa301-week06-page-1|Engaging with Music and Dance in Community Settings]]
-- [[../sources/fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community|Welcome to Week 6 - FXA301 Arts in the Community]]
+- [Engaging with Music and Dance in Community Settings](../sources/fxa301-week06-lesson-fxa301-week06-page-1.md)
+- [Welcome to Week 6 - FXA301 Arts in the Community](../sources/fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community.md)

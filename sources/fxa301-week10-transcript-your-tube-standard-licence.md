@@ -24,15 +24,15 @@ This transcript details the story and impact of the choir of hard knocks (CHoH),
 
 ## Key Concepts
 
-- [[../topics/community-building]]
-- [[../topics/personal-transformation]]
+- [community-building](../topics/community-building.md)
+- [personal-transformation](../topics/personal-transformation.md)
 
 ## Tags
 
-- [[../tags/homelessness]]
-- [[../tags/music-therapy]]
-- [[../tags/television-series]]
-- [[../tags/fxa301]]
+- [homelessness](../tags/homelessness.md)
+- [music-therapy](../tags/music-therapy.md)
+- [television-series](../tags/television-series.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

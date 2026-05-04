@@ -24,24 +24,24 @@ The document discusses the role of creative health initiatives in improving ment
 
 ## Key Concepts
 
-- [[../topics/trauma-informed-care]]
-- [[../topics/creative-therapy-outcomes]]
-- [[../topics/social-care-pathways]]
+- [trauma-informed-care](../topics/trauma-informed-care.md)
+- [creative-therapy-outcomes](../topics/creative-therapy-outcomes.md)
+- [social-care-pathways](../topics/social-care-pathways.md)
 
 ## Tags
 
-- [[../tags/creative-health-interventions]]
-- [[../tags/social-care-system]]
-- [[../tags/mental-wellbeing]]
-- [[../tags/self-expression-support]]
-- [[../tags/community-fostering]]
-- [[../tags/fxa301]]
+- [creative-health-interventions](../tags/creative-health-interventions.md)
+- [social-care-system](../tags/social-care-system.md)
+- [mental-wellbeing](../tags/mental-wellbeing.md)
+- [self-expression-support](../tags/self-expression-support.md)
+- [community-fostering](../tags/community-fostering.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/creative-health-interventions]]
-- [[../topics/mental-wellbeing]]
+- [creative-health-interventions](../topics/creative-health-interventions.md)
+- [mental-wellbeing](../topics/mental-wellbeing.md)

@@ -24,24 +24,24 @@ This qualitative study explores elementary school teachers' perspectives on supp
 
 ## Key Concepts
 
-- [[../topics/trauma-informed care]]
-- [[../topics/professional development needs]]
+- [trauma-informed care](../topics/trauma-informed care.md)
+- [professional development needs](../topics/professional development needs.md)
 
 ## Tags
 
-- [[../tags/teacher-support]]
-- [[../tags/child-trauma]]
-- [[../tags/qualitative-research]]
-- [[../tags/educational-psychology]]
-- [[../tags/fxa303]]
+- [teacher-support](../tags/teacher-support.md)
+- [child-trauma](../tags/child-trauma.md)
+- [qualitative-research](../tags/qualitative-research.md)
+- [educational-psychology](../tags/educational-psychology.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[qualitative study]]
-- [[semistructured interviews]]
+- [qualitative study](qualitative study.md)
+- [semistructured interviews](semistructured interviews.md)
 
 ## See Also
 
-- [[../topics/child-trauma]]
-- [[../topics/educational-psychology]]
-- [[../topics/qualitative-research]]
+- [child-trauma](../topics/child-trauma.md)
+- [educational-psychology](../topics/educational-psychology.md)
+- [qualitative-research](../topics/qualitative-research.md)

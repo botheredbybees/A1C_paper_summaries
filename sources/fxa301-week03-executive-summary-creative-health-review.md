@@ -24,25 +24,25 @@ The document emphasizes the fundamental role of creativity in health and wellbei
 
 ## Key Concepts
 
-- [[../topics/creativity as determinant of health]]
-- [[../topics/integrated care systems]]
-- [[../topics/arts in healthcare initiatives]]
+- [creativity as determinant of health](../topics/creativity as determinant of health.md)
+- [integrated care systems](../topics/integrated care systems.md)
+- [arts in healthcare initiatives](../topics/arts in healthcare initiatives.md)
 
 ## Tags
 
-- [[../tags/creative-health]]
-- [[../tags/wellbeing]]
-- [[../tags/chronic-disease-management]]
-- [[../tags/community-engagement]]
-- [[../tags/public-policy]]
-- [[../tags/fxa301]]
+- [creative-health](../tags/creative-health.md)
+- [wellbeing](../tags/wellbeing.md)
+- [chronic-disease-management](../tags/chronic-disease-management.md)
+- [community-engagement](../tags/community-engagement.md)
+- [public-policy](../tags/public-policy.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/creative-health]]
-- [[../topics/public-policy]]
-- [[../topics/wellbeing]]
+- [creative-health](../topics/creative-health.md)
+- [public-policy](../topics/public-policy.md)
+- [wellbeing](../topics/wellbeing.md)

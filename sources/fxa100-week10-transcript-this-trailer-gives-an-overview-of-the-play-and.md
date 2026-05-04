@@ -24,16 +24,16 @@ The transcript is an overview of a theater project aimed at raising awareness ab
 
 ## Key Concepts
 
-- [[../topics/awareness-raising]]
-- [[../topics/field-research]]
-- [[../topics/educational-tool]]
+- [awareness-raising](../topics/awareness-raising.md)
+- [field-research](../topics/field-research.md)
+- [educational-tool](../topics/educational-tool.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/theater-project]]
-- [[../tags/healthcare-assistants]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [theater-project](../tags/theater-project.md)
+- [healthcare-assistants](../tags/healthcare-assistants.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

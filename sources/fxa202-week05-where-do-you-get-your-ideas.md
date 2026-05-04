@@ -24,21 +24,21 @@ In his essay 'Where do you get your ideas?', Neil Gaiman explores the common que
 
 ## Key Concepts
 
-- [[../topics/daydreaming]]
-- [[../topics/hypothetical-scenarios]]
-- [[../topics/creative-curiosity]]
+- [daydreaming](../topics/daydreaming.md)
+- [hypothetical-scenarios](../topics/hypothetical-scenarios.md)
+- [creative-curiosity](../topics/creative-curiosity.md)
 
 ## Tags
 
-- [[../tags/creative-process]]
-- [[../tags/writing-inspiration]]
-- [[../tags/storytelling-techniques]]
-- [[../tags/fxa202]]
+- [creative-process](../tags/creative-process.md)
+- [writing-inspiration](../tags/writing-inspiration.md)
+- [storytelling-techniques](../tags/storytelling-techniques.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[essay]]
+- [essay](essay.md)
 
 ## See Also
 
-- [[../topics/storytelling-techniques]]
+- [storytelling-techniques](../topics/storytelling-techniques.md)

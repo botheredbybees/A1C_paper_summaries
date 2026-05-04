@@ -24,25 +24,25 @@ This article discusses the growing global crisis of youth mental health, emphasi
 
 ## Key Concepts
 
-- [[../topics/arts-based-strategies]]
-- [[../topics/local-cultural-practices]]
-- [[../topics/core-outcome-measures]]
+- [arts-based-strategies](../topics/arts-based-strategies.md)
+- [local-cultural-practices](../topics/local-cultural-practices.md)
+- [core-outcome-measures](../topics/core-outcome-measures.md)
 
 ## Tags
 
-- [[../tags/youth-mental-health]]
-- [[../tags/arts-interventions]]
-- [[../tags/global-health]]
-- [[../tags/cultural-practices]]
-- [[../tags/community-engagement]]
-- [[../tags/fxa303]]
+- [youth-mental-health](../tags/youth-mental-health.md)
+- [arts-interventions](../tags/arts-interventions.md)
+- [global-health](../tags/global-health.md)
+- [cultural-practices](../tags/cultural-practices.md)
+- [community-engagement](../tags/community-engagement.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic-review]]
+- **systematic-review**
 
 ## See Also
 
-- [[../topics/arts-interventions]]
-- [[../topics/cultural-practices]]
-- [[../topics/youth-mental-health]]
+- [arts-interventions](../topics/arts-interventions.md)
+- [cultural-practices](../topics/cultural-practices.md)
+- [youth-mental-health](../topics/youth-mental-health.md)

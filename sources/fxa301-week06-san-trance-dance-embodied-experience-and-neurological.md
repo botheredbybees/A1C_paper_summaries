@@ -24,20 +24,20 @@ This article explores the San trance dance, a ritual among the Ju/'Hoansi people
 
 ## Key Concepts
 
-- [[../topics/sympathetic-nervous-system-activation]]
-- [[../topics/self-other-distinction-disruption]]
+- [sympathetic-nervous-system-activation](../topics/sympathetic-nervous-system-activation.md)
+- [self-other-distinction-disruption](../topics/self-other-distinction-disruption.md)
 
 ## Tags
 
-- [[../tags/neurology-and-religion]]
-- [[../tags/shamanic-practices]]
-- [[../tags/ethnographic-research]]
-- [[../tags/fxa301]]
+- [neurology-and-religion](../tags/neurology-and-religion.md)
+- [shamanic-practices](../tags/shamanic-practices.md)
+- [ethnographic-research](../tags/ethnographic-research.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[ethnographic-research]]
+- [ethnographic-research](ethnographic-research.md)
 
 ## See Also
 
-- [[../topics/ethnographic-research]]
+- [ethnographic-research](../topics/ethnographic-research.md)

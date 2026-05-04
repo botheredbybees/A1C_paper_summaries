@@ -24,19 +24,19 @@ This systematic review evaluates the efficacy of creative arts therapies, includ
 
 ## Key Concepts
 
-- [[../topics/creative arts therapies]]
-- [[../topics/posttraumatic stress disorder (PTSD)]]
+- [creative arts therapies](../topics/creative arts therapies.md)
+- [posttraumatic stress disorder (PTSD)](../topics/posttraumatic stress disorder (PTSD).md)
 
 ## Tags
 
-- [[../tags/creative-arts-therapy]]
-- [[../tags/ptsd-treatment]]
-- [[../tags/systematic-review]]
-- [[../tags/fxa301]]
+- [creative-arts-therapy](../tags/creative-arts-therapy.md)
+- [ptsd-treatment](../tags/ptsd-treatment.md)
+- [systematic-review](../tags/systematic-review.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 

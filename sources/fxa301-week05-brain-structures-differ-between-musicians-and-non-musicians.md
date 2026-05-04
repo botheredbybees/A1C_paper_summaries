@@ -24,24 +24,24 @@ The study by Gaser and Schlaug investigates structural differences in the brains
 
 ## Key Concepts
 
-- [[../topics/gray-matter-volume]]
-- [[../topics/neural-plasticity]]
-- [[../topics/skill-acquisition]]
+- [gray-matter-volume](../topics/gray-matter-volume.md)
+- [neural-plasticity](../topics/neural-plasticity.md)
+- [skill-acquisition](../topics/skill-acquisition.md)
 
 ## Tags
 
-- [[../tags/brain-plasticity]]
-- [[../tags/musical-training]]
-- [[../tags/neural-adaptations]]
-- [[../tags/voxel-based-morphometry]]
-- [[../tags/structural-neuroimaging]]
-- [[../tags/motor-skills]]
-- [[../tags/fxa301]]
+- [brain-plasticity](../tags/brain-plasticity.md)
+- [musical-training](../tags/musical-training.md)
+- [neural-adaptations](../tags/neural-adaptations.md)
+- [voxel-based-morphometry](../tags/voxel-based-morphometry.md)
+- [structural-neuroimaging](../tags/structural-neuroimaging.md)
+- [motor-skills](../tags/motor-skills.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[voxel-based-morphometry]]
+- [voxel-based-morphometry](voxel-based-morphometry.md)
 
 ## See Also
 
-- [[../topics/brain-plasticity]]
+- [brain-plasticity](../topics/brain-plasticity.md)

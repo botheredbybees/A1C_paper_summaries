@@ -24,17 +24,17 @@ This chapter discusses visual literacy and communication skills within communiti
 
 ## Key Concepts
 
-- [[../topics/visual literacy]]
-- [[../topics/symbolic systems]]
-- [[../topics/community arts profile]]
+- [visual literacy](../topics/visual literacy.md)
+- [symbolic systems](../topics/symbolic systems.md)
+- [community arts profile](../topics/community arts profile.md)
 
 ## Tags
 
-- [[../tags/visual-literacy]]
-- [[../tags/critical-analysis]]
-- [[../tags/cultural-perspective]]
-- [[../tags/artistic-communication]]
-- [[../tags/fxa301]]
+- [visual-literacy](../tags/visual-literacy.md)
+- [critical-analysis](../tags/critical-analysis.md)
+- [cultural-perspective](../tags/cultural-perspective.md)
+- [artistic-communication](../tags/artistic-communication.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -42,4 +42,4 @@ This chapter discusses visual literacy and communication skills within communiti
 
 ## See Also
 
-- [[../topics/visual-literacy]]
+- [visual-literacy](../topics/visual-literacy.md)

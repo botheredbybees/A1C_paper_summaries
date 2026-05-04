@@ -24,25 +24,25 @@ This document provides workshop notes on Augusto Boal’s Theatre of the Oppress
 
 ## Key Concepts
 
-- [[../topics/Theatre of the Oppressed]]
-- [[../topics/Forum Theatre]]
-- [[../topics/Spect-actor]]
-- [[../topics/Empowerment through Theatre]]
+- [Theatre of the Oppressed](../topics/Theatre of the Oppressed.md)
+- [Forum Theatre](../topics/Forum Theatre.md)
+- [Spect-actor](../topics/Spect-actor.md)
+- [Empowerment through Theatre](../topics/Empowerment through Theatre.md)
 
 ## Tags
 
-- [[../tags/theatre-of-the-oppressed]]
-- [[../tags/forum-theatre]]
-- [[../tags/social-change-through-art]]
-- [[../tags/interactive-drama]]
-- [[../tags/critical-thinking-in-education]]
-- [[../tags/fxa100]]
+- [theatre-of-the-oppressed](../tags/theatre-of-the-oppressed.md)
+- [forum-theatre](../tags/forum-theatre.md)
+- [social-change-through-art](../tags/social-change-through-art.md)
+- [interactive-drama](../tags/interactive-drama.md)
+- [critical-thinking-in-education](../tags/critical-thinking-in-education.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[workshop notes]]
+- [workshop notes](workshop notes.md)
 
 ## See Also
 
-- [[../topics/social-change-through-art]]
-- [[../topics/theatre-of-the-oppressed]]
+- [social-change-through-art](../topics/social-change-through-art.md)
+- [theatre-of-the-oppressed](../topics/theatre-of-the-oppressed.md)

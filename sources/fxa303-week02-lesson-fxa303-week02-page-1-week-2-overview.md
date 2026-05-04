@@ -24,18 +24,18 @@ The lesson discusses the importance of creative play and the arts for children's
 
 ## Key Concepts
 
-- [[../topics/self-regulation]]
-- [[../topics/brain-development]]
-- [[../topics/sensory-experiences]]
+- [self-regulation](../topics/self-regulation.md)
+- [brain-development](../topics/brain-development.md)
+- [sensory-experiences](../topics/sensory-experiences.md)
 
 ## Tags
 
-- [[../tags/creative-arts]]
-- [[../tags/child-development]]
-- [[../tags/self-regulation]]
-- [[../tags/play-theory]]
-- [[../tags/emotional-wellbeing]]
-- [[../tags/fxa303]]
+- [creative-arts](../tags/creative-arts.md)
+- [child-development](../tags/child-development.md)
+- [self-regulation](../tags/self-regulation.md)
+- [play-theory](../tags/play-theory.md)
+- [emotional-wellbeing](../tags/emotional-wellbeing.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
@@ -43,8 +43,8 @@ The lesson discusses the importance of creative play and the arts for children's
 
 ## See Also
 
-- [[../topics/child-development]]
-- [[../topics/creative-arts]]
-- [[../topics/emotional-wellbeing]]
-- [[../topics/play-theory]]
-- [[../topics/self-regulation]]
+- [child-development](../topics/child-development.md)
+- [creative-arts](../topics/creative-arts.md)
+- [emotional-wellbeing](../topics/emotional-wellbeing.md)
+- [play-theory](../topics/play-theory.md)
+- [self-regulation](../topics/self-regulation.md)

@@ -24,26 +24,26 @@ The lecture notes for the first week of FXA100: The Arts and Dementia Care provi
 
 ## Key Concepts
 
-- [[../topics/creative-therapies]]
-- [[../topics/quality-of-life-improvement]]
-- [[../topics/critical-evaluation-methods]]
+- [creative-therapies](../topics/creative-therapies.md)
+- [quality-of-life-improvement](../topics/quality-of-life-improvement.md)
+- [critical-evaluation-methods](../topics/critical-evaluation-methods.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/arts-interventions]]
-- [[../tags/cognitive-processing]]
-- [[../tags/mental-health-wellbeing]]
-- [[../tags/education-research]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [arts-interventions](../tags/arts-interventions.md)
+- [cognitive-processing](../tags/cognitive-processing.md)
+- [mental-health-wellbeing](../tags/mental-health-wellbeing.md)
+- [education-research](../tags/education-research.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[lecture-notes]]
-- [[course-overview]]
+- [lecture-notes](lecture-notes.md)
+- [course-overview](course-overview.md)
 
 ## See Also
 
-- [[../topics/arts-interventions]]
-- [[../topics/cognitive-processing]]
-- [[../topics/dementia-care]]
+- [arts-interventions](../topics/arts-interventions.md)
+- [cognitive-processing](../topics/cognitive-processing.md)
+- [dementia-care](../topics/dementia-care.md)

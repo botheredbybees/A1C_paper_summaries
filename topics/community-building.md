@@ -26,5 +26,5 @@ The integration of creative practices such as music and art into community setti
 
 ## Sources
 
-- [[../sources/fxa100-week04-the-ripple-effect-towards-researching-improvisational-music]]
-- [[../sources/fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our]]
+- [fxa100-week04-the-ripple-effect-towards-researching-improvisational-music](../sources/fxa100-week04-the-ripple-effect-towards-researching-improvisational-music.md)
+- [fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our](../sources/fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our.md)

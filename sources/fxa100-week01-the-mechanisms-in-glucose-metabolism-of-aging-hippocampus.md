@@ -24,20 +24,20 @@ This review article investigates the mechanisms of glucose metabolism in the agi
 
 ## Key Concepts
 
-- [[../topics/N-glycosylation pathways]]
-- [[../topics/glucose transport]]
+- [N-glycosylation pathways](../topics/N-glycosylation pathways.md)
+- [glucose transport](../topics/glucose transport.md)
 
 ## Tags
 
-- [[../tags/aging-brain]]
-- [[../tags/glucose-metabolism]]
-- [[../tags/neurodegeneration]]
-- [[../tags/hippocampus-function]]
-- [[../tags/fxa100]]
+- [aging-brain](../tags/aging-brain.md)
+- [glucose-metabolism](../tags/glucose-metabolism.md)
+- [neurodegeneration](../tags/neurodegeneration.md)
+- [hippocampus-function](../tags/hippocampus-function.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[review article]]
+- [review article](review article.md)
 
 ## See Also
 

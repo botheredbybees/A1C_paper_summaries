@@ -24,25 +24,25 @@ This video transcript explores the popular notion that people are either left-br
 
 ## Key Concepts
 
-- [[../topics/left-brain right-brain dominance myth]]
-- [[../topics/functional magnetic resonance imaging (fMRI)]]
-- [[../topics/Roger Sperry's split-brain research]]
+- [left-brain right-brain dominance myth](../topics/left-brain right-brain dominance myth.md)
+- [functional magnetic resonance imaging (fMRI)](../topics/functional magnetic resonance imaging (fMRI).md)
+- [Roger Sperry's split-brain research](../topics/Roger Sperry's split-brain research.md)
 
 ## Tags
 
-- [[../tags/neuroscience]]
-- [[../tags/cognitive-abilities]]
-- [[../tags/brain-function]]
-- [[../tags/hemispheric-dominance]]
-- [[../tags/myths-in-science]]
-- [[../tags/fxa100]]
+- [neuroscience](../tags/neuroscience.md)
+- [cognitive-abilities](../tags/cognitive-abilities.md)
+- [brain-function](../tags/brain-function.md)
+- [hemispheric-dominance](../tags/hemispheric-dominance.md)
+- [myths-in-science](../tags/myths-in-science.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/brain-function]]
-- [[../topics/cognitive-abilities]]
-- [[../topics/neuroscience]]
+- [brain-function](../topics/brain-function.md)
+- [cognitive-abilities](../topics/cognitive-abilities.md)
+- [neuroscience](../topics/neuroscience.md)

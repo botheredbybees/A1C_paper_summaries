@@ -24,16 +24,16 @@ The article 'Depth of Field: The Essential Guide' by Bruce Wunderlich provides a
 
 ## Key Concepts
 
-- [[../topics/aperture-settings]]
-- [[../topics/focal-length]]
-- [[../topics/shallow-depth-of-field]]
+- [aperture-settings](../topics/aperture-settings.md)
+- [focal-length](../topics/focal-length.md)
+- [shallow-depth-of-field](../topics/shallow-depth-of-field.md)
 
 ## Tags
 
-- [[../tags/depth-of-field]]
-- [[../tags/photography-techniques]]
-- [[../tags/image-clarity]]
-- [[../tags/fxa202]]
+- [depth-of-field](../tags/depth-of-field.md)
+- [photography-techniques](../tags/photography-techniques.md)
+- [image-clarity](../tags/image-clarity.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ The article 'Depth of Field: The Essential Guide' by Bruce Wunderlich provides a
 
 ## See Also
 
-- [[../topics/depth-of-field]]
-- [[../topics/photography-techniques]]
+- [depth-of-field](../topics/depth-of-field.md)
+- [photography-techniques](../topics/photography-techniques.md)

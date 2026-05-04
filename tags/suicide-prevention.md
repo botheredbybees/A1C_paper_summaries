@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Suicide Prevention
 
-- [[../sources/fxa303-week03-mental-health-of-adolescents|Mental Health of Adolescents]]
+- [Mental Health of Adolescents](../sources/fxa303-week03-mental-health-of-adolescents.md)

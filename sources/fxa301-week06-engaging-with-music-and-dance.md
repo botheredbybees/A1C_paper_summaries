@@ -28,25 +28,25 @@ This lecture underscores the broader impact of music and dance on health and soc
 
 ## Key Concepts
 
-- [[../topics/El Sistema]]
-- [[../topics/resilience-building]]
-- [[../topics/cognitive-function-improvement]]
+- [El Sistema](../topics/El Sistema.md)
+- [resilience-building](../topics/resilience-building.md)
+- [cognitive-function-improvement](../topics/cognitive-function-improvement.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/dance-for-health]]
-- [[../tags/community-engagement]]
-- [[../tags/social-wellbeing]]
-- [[../tags/elder-care]]
-- [[../tags/fxa301]]
+- [music-therapy](../tags/music-therapy.md)
+- [dance-for-health](../tags/dance-for-health.md)
+- [community-engagement](../tags/community-engagement.md)
+- [social-wellbeing](../tags/social-wellbeing.md)
+- [elder-care](../tags/elder-care.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/elder-care]]
-- [[../topics/music-therapy]]
-- [[../topics/social-wellbeing]]
+- [elder-care](../topics/elder-care.md)
+- [music-therapy](../topics/music-therapy.md)
+- [social-wellbeing](../topics/social-wellbeing.md)

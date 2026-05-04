@@ -24,23 +24,23 @@ The study evaluates the implementation of the Veder Method, a new communication 
 
 ## Key Concepts
 
-- [[../topics/veder-method]]
-- [[../topics/interaction-improvement]]
-- [[../topics/implementation-factors]]
+- [veder-method](../topics/veder-method.md)
+- [interaction-improvement](../topics/interaction-improvement.md)
+- [implementation-factors](../topics/implementation-factors.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/person-centered-care]]
-- [[../tags/nursing-home-interventions]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [person-centered-care](../tags/person-centered-care.md)
+- [nursing-home-interventions](../tags/nursing-home-interventions.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[process-evaluation-study]]
+- [process-evaluation-study](process-evaluation-study.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/nursing-home-interventions]]
-- [[../topics/person-centered-care]]
+- [dementia-care](../topics/dementia-care.md)
+- [nursing-home-interventions](../topics/nursing-home-interventions.md)
+- [person-centered-care](../topics/person-centered-care.md)

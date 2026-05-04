@@ -24,21 +24,21 @@ The article explores the relationship between Alzheimer's disease and artistic a
 
 ## Key Concepts
 
-- [[../topics/Alzheimer's disease]]
-- [[../topics/visuospatial skills]]
-- [[../topics/cognitive decline]]
+- [Alzheimer's disease](../topics/Alzheimer's disease.md)
+- [visuospatial skills](../topics/visuospatial skills.md)
+- [cognitive decline](../topics/cognitive decline.md)
 
 ## Tags
 
-- [[../tags/alzheimer-s-disease]]
-- [[../tags/artistic-ability]]
-- [[../tags/neurological-cognitive-functions]]
-- [[../tags/fxa100]]
+- [alzheimer-s-disease](../tags/alzheimer-s-disease.md)
+- [artistic-ability](../tags/artistic-ability.md)
+- [neurological-cognitive-functions](../tags/neurological-cognitive-functions.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/alzheimer-s-disease]]
+- [alzheimer-s-disease](../topics/alzheimer-s-disease.md)

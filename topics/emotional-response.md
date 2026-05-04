@@ -25,5 +25,5 @@ The emotional response to music is explored across two sources, each highlightin
 
 ## Sources
 
-- [[../sources/fxa100-week03-introduction-to-week-3-listening-to-music]]
-- [[../sources/fxa301-week02-lecture-on-perception-of-the-arts]]
+- [fxa100-week03-introduction-to-week-3-listening-to-music](../sources/fxa100-week03-introduction-to-week-3-listening-to-music.md)
+- [fxa301-week02-lecture-on-perception-of-the-arts](../sources/fxa301-week02-lecture-on-perception-of-the-arts.md)

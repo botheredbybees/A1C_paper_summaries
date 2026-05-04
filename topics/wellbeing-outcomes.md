@@ -26,5 +26,5 @@ The evaluation of creative arts projects and the examination of well-being outco
 
 ## Sources
 
-- [[../sources/fxa301-week01-lesson-fxa301-week01-page-3-hm-evaluating-a-project]]
-- [[../sources/fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes]]
+- [fxa301-week01-lesson-fxa301-week01-page-3-hm-evaluating-a-project](../sources/fxa301-week01-lesson-fxa301-week01-page-3-hm-evaluating-a-project.md)
+- [fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes](../sources/fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes.md)

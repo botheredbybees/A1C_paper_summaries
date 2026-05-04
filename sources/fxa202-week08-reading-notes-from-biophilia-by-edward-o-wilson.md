@@ -24,24 +24,24 @@ This chapter contains reading notes from Edward O. Wilson's book 'Biophilia,' wh
 
 ## Key Concepts
 
-- [[../topics/biophilia]]
-- [[../topics/biodiversity]]
-- [[../topics/genome-evolution]]
-- [[../topics/ecological-systems]]
+- [biophilia](../topics/biophilia.md)
+- [biodiversity](../topics/biodiversity.md)
+- [genome-evolution](../topics/genome-evolution.md)
+- [ecological-systems](../topics/ecological-systems.md)
 
 ## Tags
 
-- [[../tags/biophilia]]
-- [[../tags/human-nature-connection]]
-- [[../tags/biodiversity-conservation]]
-- [[../tags/ecosystem-interactions]]
-- [[../tags/evolutionary-biology]]
-- [[../tags/scientific-discourse]]
-- [[../tags/fxa202]]
+- [biophilia](../tags/biophilia.md)
+- [human-nature-connection](../tags/human-nature-connection.md)
+- [biodiversity-conservation](../tags/biodiversity-conservation.md)
+- [ecosystem-interactions](../tags/ecosystem-interactions.md)
+- [evolutionary-biology](../tags/evolutionary-biology.md)
+- [scientific-discourse](../tags/scientific-discourse.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[literature-review]]
+- [literature-review](literature-review.md)
 
 ## See Also
 

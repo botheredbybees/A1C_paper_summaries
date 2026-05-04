@@ -26,5 +26,5 @@ The provided sources focus on the implementation of trauma-informed care within 
 
 ## Sources
 
-- [[../sources/fxa303-week09-the-trauma-informed-care-and-practice-organisational]]
-- [[../sources/fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit]]
+- [fxa303-week09-the-trauma-informed-care-and-practice-organisational](../sources/fxa303-week09-the-trauma-informed-care-and-practice-organisational.md)
+- [fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit](../sources/fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit.md)

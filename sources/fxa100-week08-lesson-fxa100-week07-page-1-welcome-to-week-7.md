@@ -24,16 +24,16 @@ This week's dementia care module explores the use of visual arts as a therapeuti
 
 ## Key Concepts
 
-- [[../topics/cognitive stimulation]]
-- [[../topics/emotional expression]]
-- [[../topics/non-verbal communication]]
+- [cognitive stimulation](../topics/cognitive stimulation.md)
+- [emotional expression](../topics/emotional expression.md)
+- [non-verbal communication](../topics/non-verbal communication.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/visual-arts-intervention]]
-- [[../tags/personhood-reinforcement]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [visual-arts-intervention](../tags/visual-arts-intervention.md)
+- [personhood-reinforcement](../tags/personhood-reinforcement.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ This week's dementia care module explores the use of visual arts as a therapeuti
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/visual-arts-intervention]]
+- [dementia-care](../topics/dementia-care.md)
+- [visual-arts-intervention](../topics/visual-arts-intervention.md)

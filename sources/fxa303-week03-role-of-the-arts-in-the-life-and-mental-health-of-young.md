@@ -24,23 +24,23 @@ This study investigates the role of artistic engagement in mental health and lif
 
 ## Key Concepts
 
-- [[../topics/artistic engagement]]
-- [[../topics/mental health outcomes]]
-- [[../topics/supportive community environments]]
+- [artistic engagement](../topics/artistic engagement.md)
+- [mental health outcomes](../topics/mental health outcomes.md)
+- [supportive community environments](../topics/supportive community environments.md)
 
 ## Tags
 
-- [[../tags/arts-in-mental-health]]
-- [[../tags/qualitative-study-colombia]]
-- [[../tags/youth-art-engagement]]
-- [[../tags/community-support-networks]]
-- [[../tags/adolescent-well-being]]
-- [[../tags/fxa303]]
+- [arts-in-mental-health](../tags/arts-in-mental-health.md)
+- [qualitative-study-colombia](../tags/qualitative-study-colombia.md)
+- [youth-art-engagement](../tags/youth-art-engagement.md)
+- [community-support-networks](../tags/community-support-networks.md)
+- [adolescent-well-being](../tags/adolescent-well-being.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[qualitative study]]
-- [[interviews]]
+- [qualitative study](qualitative study.md)
+- [interviews](interviews.md)
 
 ## See Also
 

@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Dementia Support
 
-- [[../sources/fxa100-week07-iremember-loan-resource-flyer|iRemember Loan Resource Flyer]]
+- [iRemember Loan Resource Flyer](../sources/fxa100-week07-iremember-loan-resource-flyer.md)

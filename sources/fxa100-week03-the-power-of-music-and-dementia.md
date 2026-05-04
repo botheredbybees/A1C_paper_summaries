@@ -26,23 +26,23 @@ The document highlights the significant impact of music on individuals with deme
 
 ## Key Concepts
 
-- [[../topics/musical-memory]]
-- [[../topics/therapeutic-engagement]]
-- [[../topics/quality-of-life-improvement]]
+- [musical-memory](../topics/musical-memory.md)
+- [therapeutic-engagement](../topics/therapeutic-engagement.md)
+- [quality-of-life-improvement](../topics/quality-of-life-improvement.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/dementia-care]]
-- [[../tags/memory-loss-interventions]]
-- [[../tags/personhood-maintenance]]
-- [[../tags/fxa100]]
+- [music-therapy](../tags/music-therapy.md)
+- [dementia-care](../tags/dementia-care.md)
+- [memory-loss-interventions](../tags/memory-loss-interventions.md)
+- [personhood-maintenance](../tags/personhood-maintenance.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/music-therapy]]
+- [dementia-care](../topics/dementia-care.md)
+- [music-therapy](../topics/music-therapy.md)

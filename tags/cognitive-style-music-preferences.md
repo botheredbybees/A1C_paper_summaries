@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Cognitive Style Music Preferences
 
-- [[../sources/fxa100-week03-musical-preferences-may-reflect-cognitive-style|Musical Preferences May Reflect Cognitive Style]]
+- [Musical Preferences May Reflect Cognitive Style](../sources/fxa100-week03-musical-preferences-may-reflect-cognitive-style.md)

@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Young Children
 
-- [[../sources/fxa303-week04-community-perspectives-on-the-appropriateness-and|Community perspectives on the appropriateness and importance of support goals for young autistic children]]
+- [Community perspectives on the appropriateness and importance of support goals for young autistic children](../sources/fxa303-week04-community-perspectives-on-the-appropriateness-and.md)

@@ -24,22 +24,22 @@ This review examines the cultural determinants of health for Aboriginal and Torr
 
 ## Key Concepts
 
-- [[../topics/family/community connections]]
-- [[../topics/self-determination]]
-- [[../topics/connection to culture]]
+- [community connections](../topics/family/community connections.md)
+- [self-determination](../topics/self-determination.md)
+- [connection to culture](../topics/connection to culture.md)
 
 ## Tags
 
-- [[../tags/aboriginal-health]]
-- [[../tags/torres-strait-islander]]
-- [[../tags/cultural-determinants-of-health]]
-- [[../tags/strengths-based-approach]]
-- [[../tags/indigenous-wellbeing]]
-- [[../tags/fxa303]]
+- [aboriginal-health](../tags/aboriginal-health.md)
+- [torres-strait-islander](../tags/torres-strait-islander.md)
+- [cultural-determinants-of-health](../tags/cultural-determinants-of-health.md)
+- [strengths-based-approach](../tags/strengths-based-approach.md)
+- [indigenous-wellbeing](../tags/indigenous-wellbeing.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[narrative overview of reviews]]
+- **narrative overview of reviews**
 
 ## See Also
 

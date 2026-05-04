@@ -24,21 +24,21 @@ This study evaluates different models for measuring emotions induced by music, c
 
 ## Key Concepts
 
-- [[../topics/Geneva Emotional Music Scale (GEMS)]]
-- [[../topics/discrete emotion model]]
-- [[../topics/dimensional emotion model]]
+- [Geneva Emotional Music Scale (GEMS)](../topics/Geneva Emotional Music Scale (GEMS).md)
+- [discrete emotion model](../topics/discrete emotion model.md)
+- [dimensional emotion model](../topics/dimensional emotion model.md)
 
 ## Tags
 
-- [[../tags/music-emotion]]
-- [[../tags/emotion-models]]
-- [[../tags/personality-influence]]
-- [[../tags/fxa301]]
+- [music-emotion](../tags/music-emotion.md)
+- [emotion-models](../tags/emotion-models.md)
+- [personality-influence](../tags/personality-influence.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/music-emotion]]
+- [music-emotion](../topics/music-emotion.md)

@@ -24,16 +24,16 @@ This chapter discusses memory loss from clinical and philosophical perspectives,
 
 ## Key Concepts
 
-- [[../topics/causal accounts]]
-- [[../topics/constitutive accounts]]
-- [[../topics/externality of mind]]
+- [causal accounts](../topics/causal accounts.md)
+- [constitutive accounts](../topics/constitutive accounts.md)
+- [externality of mind](../topics/externality of mind.md)
 
 ## Tags
 
-- [[../tags/memory-loss]]
-- [[../tags/philosophy-of-mind]]
-- [[../tags/clinical-psychology]]
-- [[../tags/fxa100]]
+- [memory-loss](../tags/memory-loss.md)
+- [philosophy-of-mind](../tags/philosophy-of-mind.md)
+- [clinical-psychology](../tags/clinical-psychology.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ This chapter discusses memory loss from clinical and philosophical perspectives,
 
 ## See Also
 
-- [[../topics/memory-loss]]
-- [[../topics/philosophy-of-mind]]
+- [memory-loss](../topics/memory-loss.md)
+- [philosophy-of-mind](../topics/philosophy-of-mind.md)

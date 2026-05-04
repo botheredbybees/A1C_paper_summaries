@@ -25,5 +25,5 @@ The examination of emotional reactions to music reveals a complex interplay betw
 
 ## Sources
 
-- [[../sources/fxa301-week02-experimental-evidence-of-the-roles-of-music-choice-social]]
-- [[../sources/fxa301-week08-lesson-fxa301-week07-page-4-week-3-activities]]
+- [fxa301-week02-experimental-evidence-of-the-roles-of-music-choice-social](../sources/fxa301-week02-experimental-evidence-of-the-roles-of-music-choice-social.md)
+- [fxa301-week08-lesson-fxa301-week07-page-4-week-3-activities](../sources/fxa301-week08-lesson-fxa301-week07-page-4-week-3-activities.md)

@@ -24,21 +24,21 @@ This document provides guidance on photographing artworks and objects at home wi
 
 ## Key Concepts
 
-- [[../topics/consistent-light-sources]]
-- [[../topics/safe-handling-practices]]
+- [consistent-light-sources](../topics/consistent-light-sources.md)
+- [safe-handling-practices](../topics/safe-handling-practices.md)
 
 ## Tags
 
-- [[../tags/artwork-documentation]]
-- [[../tags/home-photography]]
-- [[../tags/lighting-techniques]]
-- [[../tags/fxa202]]
+- [artwork-documentation](../tags/artwork-documentation.md)
+- [home-photography](../tags/home-photography.md)
+- [lighting-techniques](../tags/lighting-techniques.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[guidance-document]]
+- [guidance-document](guidance-document.md)
 
 ## See Also
 
-- [[../topics/artwork-documentation]]
-- [[../topics/lighting-techniques]]
+- [artwork-documentation](../topics/artwork-documentation.md)
+- [lighting-techniques](../topics/lighting-techniques.md)

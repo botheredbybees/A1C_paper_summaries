@@ -24,17 +24,17 @@ This transcript describes a gait training session for a patient with Parkinson's
 
 ## Key Concepts
 
-- [[../topics/Parkinson's disease]]
-- [[../topics/Gait training]]
-- [[../topics/Music therapy]]
+- [Parkinson's disease](../topics/Parkinson's disease.md)
+- [Gait training](../topics/Gait training.md)
+- [Music therapy](../topics/Music therapy.md)
 
 ## Tags
 
-- [[../tags/parkinsons-disease]]
-- [[../tags/physical-therapy]]
-- [[../tags/music-in-rehabilitation]]
-- [[../tags/gait-training]]
-- [[../tags/fxa301]]
+- [parkinsons-disease](../tags/parkinsons-disease.md)
+- [physical-therapy](../tags/physical-therapy.md)
+- [music-in-rehabilitation](../tags/music-in-rehabilitation.md)
+- [gait-training](../tags/gait-training.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -42,5 +42,5 @@ This transcript describes a gait training session for a patient with Parkinson's
 
 ## See Also
 
-- [[../topics/parkinsons-disease]]
-- [[../topics/physical-therapy]]
+- [parkinsons-disease](../topics/parkinsons-disease.md)
+- [physical-therapy](../topics/physical-therapy.md)

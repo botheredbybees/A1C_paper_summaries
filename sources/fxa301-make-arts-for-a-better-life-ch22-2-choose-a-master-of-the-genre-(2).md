@@ -24,15 +24,15 @@ This chapter details the steps for promoting local culture through publications 
 
 ## Key Concepts
 
-- [[../topics/Cultural Identity]]
-- [[../topics/Community Arts Promotion]]
+- [Cultural Identity](../topics/Cultural Identity.md)
+- [Community Arts Promotion](../topics/Community Arts Promotion.md)
 
 ## Tags
 
-- [[../tags/community-arts]]
-- [[../tags/cultural-preservation]]
-- [[../tags/youth-engagement]]
-- [[../tags/fxa301]]
+- [community-arts](../tags/community-arts.md)
+- [cultural-preservation](../tags/cultural-preservation.md)
+- [youth-engagement](../tags/youth-engagement.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -40,5 +40,5 @@ This chapter details the steps for promoting local culture through publications 
 
 ## See Also
 
-- [[../topics/community-arts]]
-- [[../topics/cultural-preservation]]
+- [community-arts](../topics/community-arts.md)
+- [cultural-preservation](../topics/cultural-preservation.md)

@@ -24,21 +24,21 @@ The study explores how mood influences emotional responses to music, specificall
 
 ## Key Concepts
 
-- [[../topics/mood-congruent emotional responding]]
-- [[../topics/aesthetic appreciation]]
-- [[../topics/sadness detection in music]]
+- [mood-congruent emotional responding](../topics/mood-congruent emotional responding.md)
+- [aesthetic appreciation](../topics/aesthetic appreciation.md)
+- [sadness detection in music](../topics/sadness detection in music.md)
 
 ## Tags
 
-- [[../tags/mood-congruence-music]]
-- [[../tags/emotional-responses]]
-- [[../tags/musical-preference]]
-- [[../tags/fxa301]]
+- [mood-congruence-music](../tags/mood-congruence-music.md)
+- [emotional-responses](../tags/emotional-responses.md)
+- [musical-preference](../tags/musical-preference.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[experiment]]
+- [experiment](experiment.md)
 
 ## See Also
 
-- [[../topics/emotional-responses]]
+- [emotional-responses](../topics/emotional-responses.md)

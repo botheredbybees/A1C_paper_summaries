@@ -24,25 +24,25 @@ This scoping review examines the efficacy and applications of puppetry-based int
 
 ## Key Concepts
 
-- [[../topics/emotional regulation]]
-- [[../topics/anxiety management]]
-- [[../topics/social interaction]]
+- [emotional regulation](../topics/emotional regulation.md)
+- [anxiety management](../topics/anxiety management.md)
+- [social interaction](../topics/social interaction.md)
 
 ## Tags
 
-- [[../tags/mental-health-promotion]]
-- [[../tags/puppetry-interventions]]
-- [[../tags/therapeutic-arts]]
-- [[../tags/emotional-regulation]]
-- [[../tags/pediatric-populations]]
-- [[../tags/fxa303]]
+- [mental-health-promotion](../tags/mental-health-promotion.md)
+- [puppetry-interventions](../tags/puppetry-interventions.md)
+- [therapeutic-arts](../tags/therapeutic-arts.md)
+- [emotional-regulation](../tags/emotional-regulation.md)
+- [pediatric-populations](../tags/pediatric-populations.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[scoping review]]
+- [scoping review](scoping review.md)
 
 ## See Also
 
-- [[../topics/emotional-regulation]]
-- [[../topics/mental-health-promotion]]
-- [[../topics/therapeutic-arts]]
+- [emotional-regulation](../topics/emotional-regulation.md)
+- [mental-health-promotion](../topics/mental-health-promotion.md)
+- [therapeutic-arts](../topics/therapeutic-arts.md)

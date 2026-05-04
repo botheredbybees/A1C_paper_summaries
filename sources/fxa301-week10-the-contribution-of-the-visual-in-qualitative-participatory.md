@@ -24,20 +24,20 @@ Maria Fjellfeldt's study aims to advance understanding of the visual element in 
 
 ## Key Concepts
 
-- [[../topics/photovoice]]
-- [[../topics/collage-making]]
-- [[../topics/subjective-realities]]
+- [photovoice](../topics/photovoice.md)
+- [collage-making](../topics/collage-making.md)
+- [subjective-realities](../topics/subjective-realities.md)
 
 ## Tags
 
-- [[../tags/mental-health-research]]
-- [[../tags/participatory-arts-methods]]
-- [[../tags/visual-ethnography]]
-- [[../tags/fxa301]]
+- [mental-health-research](../tags/mental-health-research.md)
+- [participatory-arts-methods](../tags/participatory-arts-methods.md)
+- [visual-ethnography](../tags/visual-ethnography.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[secondary-data-analysis]]
+- [secondary-data-analysis](secondary-data-analysis.md)
 
 ## See Also
 

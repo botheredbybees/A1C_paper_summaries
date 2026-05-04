@@ -27,16 +27,16 @@ This chapter from 'Make Arts for a Better Life: A Guide for Working with Communi
 
 ## Key Concepts
 
-- [[../topics/sustainability]]
-- [[../topics/health and well-being]]
-- [[../topics/human rights]]
+- [sustainability](../topics/sustainability.md)
+- [health and well-being](../topics/health and well-being.md)
+- [human rights](../topics/human rights.md)
 
 ## Tags
 
-- [[../tags/community development]]
-- [[../tags/arts education]]
-- [[../tags/ethnomusicology]]
-- [[../tags/fxa301]]
+- [community development](../tags/community development.md)
+- [arts education](../tags/arts education.md)
+- [ethnomusicology](../tags/ethnomusicology.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -44,4 +44,4 @@ This chapter from 'Make Arts for a Better Life: A Guide for Working with Communi
 
 ## See Also
 
-- [[../topics/ethnomusicology]]
+- [ethnomusicology](../topics/ethnomusicology.md)

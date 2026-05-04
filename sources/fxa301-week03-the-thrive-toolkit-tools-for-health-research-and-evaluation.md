@@ -24,23 +24,23 @@ The THRivE Toolkit (Tools for Health Research and Evaluation in Arts and Heritag
 
 ## Key Concepts
 
-- [[../topics/mental-health-assessment]]
-- [[../topics/quality-of-life-measurement]]
+- [mental-health-assessment](../topics/mental-health-assessment.md)
+- [quality-of-life-measurement](../topics/quality-of-life-measurement.md)
 
 ## Tags
 
-- [[../tags/health-outcomes]]
-- [[../tags/arts-interventions]]
-- [[../tags/public-health-initiatives]]
-- [[../tags/research-evaluation]]
-- [[../tags/fxa301]]
+- [health-outcomes](../tags/health-outcomes.md)
+- [arts-interventions](../tags/arts-interventions.md)
+- [public-health-initiatives](../tags/public-health-initiatives.md)
+- [research-evaluation](../tags/research-evaluation.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/arts-interventions]]
-- [[../topics/health-outcomes]]
-- [[../topics/public-health-initiatives]]
+- [arts-interventions](../topics/arts-interventions.md)
+- [health-outcomes](../topics/health-outcomes.md)
+- [public-health-initiatives](../topics/public-health-initiatives.md)

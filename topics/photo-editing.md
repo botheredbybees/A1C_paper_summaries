@@ -25,5 +25,5 @@ Photo editing applications like Snapseed offer users a blend of ease and power f
 
 ## Sources
 
-- [[../sources/fxa202-week02-a-beginners-guide-to-photo-editing-with-snapseed]]
-- [[../sources/fxa202-week08-lesson-fxa202-week08-page-3]]
+- [fxa202-week02-a-beginners-guide-to-photo-editing-with-snapseed](../sources/fxa202-week02-a-beginners-guide-to-photo-editing-with-snapseed.md)
+- [fxa202-week08-lesson-fxa202-week08-page-3](../sources/fxa202-week08-lesson-fxa202-week08-page-3.md)

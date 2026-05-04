@@ -24,15 +24,15 @@ The video provides an introduction to the use and creation of rod puppets, a typ
 
 ## Key Concepts
 
-- [[../topics/rod puppetry]]
-- [[../topics/theatrical performances]]
+- [rod puppetry](../topics/rod puppetry.md)
+- [theatrical performances](../topics/theatrical performances.md)
 
 ## Tags
 
-- [[../tags/puppet-theatre]]
-- [[../tags/rod-puppets]]
-- [[../tags/performance-arts]]
-- [[../tags/fxa303]]
+- [puppet-theatre](../tags/puppet-theatre.md)
+- [rod-puppets](../tags/rod-puppets.md)
+- [performance-arts](../tags/performance-arts.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ The video provides an introduction to the use and creation of rod puppets, a typ
 
 ## See Also
 
-- [[../topics/puppet-theatre]]
+- [puppet-theatre](../topics/puppet-theatre.md)

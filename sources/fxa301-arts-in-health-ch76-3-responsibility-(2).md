@@ -24,15 +24,15 @@ This chapter discusses the responsibilities of professionals towards participant
 
 ## Key Concepts
 
-- [[../topics/general responsibility]]
-- [[../topics/conflicts of interest]]
+- [general responsibility](../topics/general responsibility.md)
+- [conflicts of interest](../topics/conflicts of interest.md)
 
 ## Tags
 
-- [[../tags/professional-responsibilities]]
-- [[../tags/ethics-in-research]]
-- [[../tags/conflict-of-interest]]
-- [[../tags/fxa301]]
+- [professional-responsibilities](../tags/professional-responsibilities.md)
+- [ethics-in-research](../tags/ethics-in-research.md)
+- [conflict-of-interest](../tags/conflict-of-interest.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -40,5 +40,5 @@ This chapter discusses the responsibilities of professionals towards participant
 
 ## See Also
 
-- [[../topics/ethics-in-research]]
-- [[../topics/professional-responsibilities]]
+- [ethics-in-research](../topics/ethics-in-research.md)
+- [professional-responsibilities](../topics/professional-responsibilities.md)

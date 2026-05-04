@@ -24,23 +24,23 @@ The study explores the relationship between stress, optimism, and music training
 
 ## Key Concepts
 
-- [[../topics/emotional-regulation]]
-- [[../topics/cognitive-stimulation]]
-- [[../topics/music-training]]
+- [emotional-regulation](../topics/emotional-regulation.md)
+- [cognitive-stimulation](../topics/cognitive-stimulation.md)
+- [music-training](../topics/music-training.md)
 
 ## Tags
 
-- [[../tags/stress-management]]
-- [[../tags/music-psychology]]
-- [[../tags/optimism-effects]]
-- [[../tags/fxa301]]
+- [stress-management](../tags/stress-management.md)
+- [music-psychology](../tags/music-psychology.md)
+- [optimism-effects](../tags/optimism-effects.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[survey]]
-- [[correlational]]
+- [survey](survey.md)
+- [correlational](correlational.md)
 
 ## See Also
 
-- [[../topics/music-psychology]]
-- [[../topics/stress-management]]
+- [music-psychology](../topics/music-psychology.md)
+- [stress-management](../topics/stress-management.md)

@@ -26,5 +26,5 @@ The examination of individual differences reveals the diverse ways people percei
 
 ## Sources
 
-- [[../sources/fxa301-week02-aesthetic-judgments-of-novel-graphic-patterns-analyses-of]]
-- [[../sources/fxa301-week02-emotions-during-live-music-performance-links-with]]
+- [fxa301-week02-aesthetic-judgments-of-novel-graphic-patterns-analyses-of](../sources/fxa301-week02-aesthetic-judgments-of-novel-graphic-patterns-analyses-of.md)
+- [fxa301-week02-emotions-during-live-music-performance-links-with](../sources/fxa301-week02-emotions-during-live-music-performance-links-with.md)

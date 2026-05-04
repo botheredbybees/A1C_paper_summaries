@@ -24,24 +24,24 @@ The paper 'Developing a national arts and health policy framework' by Deborah Mi
 
 ## Key Concepts
 
-- [[../topics/evidence-based-practices]]
-- [[../topics/stakeholder-involvement]]
-- [[../topics/national-policy-framework]]
+- [evidence-based-practices](../topics/evidence-based-practices.md)
+- [stakeholder-involvement](../topics/stakeholder-involvement.md)
+- [national-policy-framework](../topics/national-policy-framework.md)
 
 ## Tags
 
-- [[../tags/arts-and-health]]
-- [[../tags/public-policy-development]]
-- [[../tags/therapeutic-arts]]
-- [[../tags/healthcare-reform]]
-- [[../tags/community-engagement]]
-- [[../tags/fxa301]]
+- [arts-and-health](../tags/arts-and-health.md)
+- [public-policy-development](../tags/public-policy-development.md)
+- [therapeutic-arts](../tags/therapeutic-arts.md)
+- [healthcare-reform](../tags/healthcare-reform.md)
+- [community-engagement](../tags/community-engagement.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/arts-and-health]]
-- [[../topics/therapeutic-arts]]
+- [arts-and-health](../topics/arts-and-health.md)
+- [therapeutic-arts](../topics/therapeutic-arts.md)

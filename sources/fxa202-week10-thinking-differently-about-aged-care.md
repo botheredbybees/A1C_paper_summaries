@@ -28,23 +28,23 @@ Overall, Miller's work is a call for innovative approaches that prioritize the h
 
 ## Key Concepts
 
-- [[../topics/photovoice]]
-- [[../topics/documentary-photography]]
-- [[../topics/biophilic-design]]
-- [[../topics/community-engagement]]
+- [photovoice](../topics/photovoice.md)
+- [documentary-photography](../topics/documentary-photography.md)
+- [biophilic-design](../topics/biophilic-design.md)
+- [community-engagement](../topics/community-engagement.md)
 
 ## Tags
 
-- [[../tags/aged-care]]
-- [[../tags/creative-research-methods]]
-- [[../tags/resident-experience]]
-- [[../tags/staff-support]]
-- [[../tags/end-of-life-care]]
-- [[../tags/fxa202]]
+- [aged-care](../tags/aged-care.md)
+- [creative-research-methods](../tags/creative-research-methods.md)
+- [resident-experience](../tags/resident-experience.md)
+- [staff-support](../tags/staff-support.md)
+- [end-of-life-care](../tags/end-of-life-care.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 

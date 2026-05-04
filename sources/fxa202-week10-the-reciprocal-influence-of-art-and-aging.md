@@ -24,23 +24,23 @@ This chapter explores the creative potential of older adults, particularly focus
 
 ## Key Concepts
 
-- [[../topics/continuity-and-adaptation-theory]]
-- [[../topics/gerotranscendence]]
-- [[../topics/creative-expansion-with-age]]
+- [continuity-and-adaptation-theory](../topics/continuity-and-adaptation-theory.md)
+- [gerotranscendence](../topics/gerotranscendence.md)
+- [creative-expansion-with-age](../topics/creative-expansion-with-age.md)
 
 ## Tags
 
-- [[../tags/art-therapy]]
-- [[../tags/aging-processes]]
-- [[../tags/creativity-in-adults]]
-- [[../tags/social-participation]]
-- [[../tags/adaptation-strategies]]
-- [[../tags/elderhood-wellbeing]]
-- [[../tags/fxa202]]
+- [art-therapy](../tags/art-therapy.md)
+- [aging-processes](../tags/aging-processes.md)
+- [creativity-in-adults](../tags/creativity-in-adults.md)
+- [social-participation](../tags/social-participation.md)
+- [adaptation-strategies](../tags/adaptation-strategies.md)
+- [elderhood-wellbeing](../tags/elderhood-wellbeing.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 

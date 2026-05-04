@@ -30,30 +30,30 @@ This information is highly relevant to creative arts and health disciplines, hig
 
 ## Key Concepts
 
-- [[../topics/beta-amyloid plaques]]
-- [[../topics/tau proteins]]
-- [[../topics/acetylcholine inhibitors]]
-- [[../topics/immune response training vaccines]]
+- [beta-amyloid plaques](../topics/beta-amyloid plaques.md)
+- [tau proteins](../topics/tau proteins.md)
+- [acetylcholine inhibitors](../topics/acetylcholine inhibitors.md)
+- [immune response training vaccines](../topics/immune response training vaccines.md)
 
 ## Tags
 
-- [[../tags/alzheimer-disease]]
-- [[../tags/neurodegenerative-disorders]]
-- [[../tags/brain-anatomy]]
-- [[../tags/memory-loss]]
-- [[../tags/cognitive-decline]]
-- [[../tags/health-care]]
-- [[../tags/fxa100]]
+- [alzheimer-disease](../tags/alzheimer-disease.md)
+- [neurodegenerative-disorders](../tags/neurodegenerative-disorders.md)
+- [brain-anatomy](../tags/brain-anatomy.md)
+- [memory-loss](../tags/memory-loss.md)
+- [cognitive-decline](../tags/cognitive-decline.md)
+- [health-care](../tags/health-care.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/alzheimer-disease]]
-- [[../topics/brain-anatomy]]
-- [[../topics/cognitive-decline]]
-- [[../topics/health-care]]
-- [[../topics/memory-loss]]
-- [[../topics/neurodegenerative-disorders]]
+- [alzheimer-disease](../topics/alzheimer-disease.md)
+- [brain-anatomy](../topics/brain-anatomy.md)
+- [cognitive-decline](../topics/cognitive-decline.md)
+- [health-care](../topics/health-care.md)
+- [memory-loss](../topics/memory-loss.md)
+- [neurodegenerative-disorders](../topics/neurodegenerative-disorders.md)

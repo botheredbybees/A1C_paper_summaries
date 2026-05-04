@@ -24,27 +24,27 @@ This study explores how therapeutic clowns, often referred to as elder-clowns in
 
 ## Key Concepts
 
-- [[../topics/creative engagement]]
-- [[../topics/cultural relevance]]
-- [[../topics/emotional support]]
+- [creative engagement](../topics/creative engagement.md)
+- [cultural relevance](../topics/cultural relevance.md)
+- [emotional support](../topics/emotional support.md)
 
 ## Tags
 
-- [[../tags/therapeutic-clowns]]
-- [[../tags/elder-care]]
-- [[../tags/nursing-homes]]
-- [[../tags/quality-of-life]]
-- [[../tags/emotional-support]]
-- [[../tags/fxa303]]
+- [therapeutic-clowns](../tags/therapeutic-clowns.md)
+- [elder-care](../tags/elder-care.md)
+- [nursing-homes](../tags/nursing-homes.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [emotional-support](../tags/emotional-support.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[qualitative interviews]]
+- [qualitative interviews](qualitative interviews.md)
 
 ## See Also
 
-- [[../topics/elder-care]]
-- [[../topics/emotional-support]]
-- [[../topics/nursing-homes]]
-- [[../topics/quality-of-life]]
-- [[../topics/therapeutic-clowns]]
+- [elder-care](../topics/elder-care.md)
+- [emotional-support](../topics/emotional-support.md)
+- [nursing-homes](../topics/nursing-homes.md)
+- [quality-of-life](../topics/quality-of-life.md)
+- [therapeutic-clowns](../topics/therapeutic-clowns.md)

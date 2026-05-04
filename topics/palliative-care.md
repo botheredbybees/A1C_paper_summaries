@@ -27,6 +27,6 @@ The integration of music therapy into palliative care settings aims to enhance t
 
 ## Sources
 
-- [[../sources/fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and]]
-- [[../sources/fxa301-week06-song-of-life-sol-study-protocol-a-multicenter-randomized]]
-- [[../sources/fxa301-week06-the-art-and-science-of-dancemovement-therapy]]
+- [fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and](../sources/fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and.md)
+- [fxa301-week06-song-of-life-sol-study-protocol-a-multicenter-randomized](../sources/fxa301-week06-song-of-life-sol-study-protocol-a-multicenter-randomized.md)
+- [fxa301-week06-the-art-and-science-of-dancemovement-therapy](../sources/fxa301-week06-the-art-and-science-of-dancemovement-therapy.md)

@@ -24,15 +24,15 @@ This transcript captures a session with the Humour Foundation where Betty and Ar
 
 ## Key Concepts
 
-- [[../topics/positive-emotions]]
-- [[../topics/intergenerational-interaction]]
+- [positive-emotions](../topics/positive-emotions.md)
+- [intergenerational-interaction](../topics/intergenerational-interaction.md)
 
 ## Tags
 
-- [[../tags/humor-foundation]]
-- [[../tags/laughter-care]]
-- [[../tags/elderly-wellness]]
-- [[../tags/fxa303]]
+- [humor-foundation](../tags/humor-foundation.md)
+- [laughter-care](../tags/laughter-care.md)
+- [elderly-wellness](../tags/elderly-wellness.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
@@ -40,5 +40,5 @@ This transcript captures a session with the Humour Foundation where Betty and Ar
 
 ## See Also
 
-- [[../topics/elderly-wellness]]
-- [[../topics/laughter-care]]
+- [elderly-wellness](../topics/elderly-wellness.md)
+- [laughter-care](../topics/laughter-care.md)

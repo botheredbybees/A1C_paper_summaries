@@ -24,26 +24,26 @@ This article explores the role and implications of play therapy in children with
 
 ## Key Concepts
 
-- [[../topics/adaptive behavior]]
-- [[../topics/sensory integration therapy]]
-- [[../topics/expressive communication]]
+- [adaptive behavior](../topics/adaptive behavior.md)
+- [sensory integration therapy](../topics/sensory integration therapy.md)
+- [expressive communication](../topics/expressive communication.md)
 
 ## Tags
 
-- [[../tags/autism-treatment]]
-- [[../tags/play-therapy]]
-- [[../tags/child-development]]
-- [[../tags/social-interaction-skills]]
-- [[../tags/therapeutic-interventions]]
-- [[../tags/fxa303]]
+- [autism-treatment](../tags/autism-treatment.md)
+- [play-therapy](../tags/play-therapy.md)
+- [child-development](../tags/child-development.md)
+- [social-interaction-skills](../tags/social-interaction-skills.md)
+- [therapeutic-interventions](../tags/therapeutic-interventions.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/autism-treatment]]
-- [[../topics/child-development]]
-- [[../topics/play-therapy]]
-- [[../topics/therapeutic-interventions]]
+- [autism-treatment](../topics/autism-treatment.md)
+- [child-development](../topics/child-development.md)
+- [play-therapy](../topics/play-therapy.md)
+- [therapeutic-interventions](../topics/therapeutic-interventions.md)

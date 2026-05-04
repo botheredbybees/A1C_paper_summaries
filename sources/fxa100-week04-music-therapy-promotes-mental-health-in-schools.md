@@ -24,24 +24,24 @@ This fact sheet discusses the role of music therapy as an evidence-based allied 
 
 ## Key Concepts
 
-- [[../topics/music therapy]]
-- [[../topics/mental health intervention]]
-- [[../topics/recovery orientation]]
+- [music therapy](../topics/music therapy.md)
+- [mental health intervention](../topics/mental health intervention.md)
+- [recovery orientation](../topics/recovery orientation.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/mental-health-intervention]]
-- [[../tags/school-counseling]]
-- [[../tags/recovery-oriented-care]]
-- [[../tags/emotional-literacy]]
-- [[../tags/fxa100]]
+- [music-therapy](../tags/music-therapy.md)
+- [mental-health-intervention](../tags/mental-health-intervention.md)
+- [school-counseling](../tags/school-counseling.md)
+- [recovery-oriented-care](../tags/recovery-oriented-care.md)
+- [emotional-literacy](../tags/emotional-literacy.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[fact sheet]]
+- [fact sheet](fact sheet.md)
 
 ## See Also
 
-- [[../topics/mental-health-intervention]]
-- [[../topics/music-therapy]]
+- [mental-health-intervention](../topics/mental-health-intervention.md)
+- [music-therapy](../topics/music-therapy.md)

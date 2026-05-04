@@ -24,15 +24,15 @@ This chapter explores the dynamics of caregiving for individuals with dementia, 
 
 ## Key Concepts
 
-- [[../topics/early-diagnosis-of-dementia]]
-- [[../topics/young-onset-dementia-challenges]]
+- [early-diagnosis-of-dementia](../topics/early-diagnosis-of-dementia.md)
+- [young-onset-dementia-challenges](../topics/young-onset-dementia-challenges.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/family-carers]]
-- [[../tags/reciprocity-in-care]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [family-carers](../tags/family-carers.md)
+- [reciprocity-in-care](../tags/reciprocity-in-care.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ This chapter explores the dynamics of caregiving for individuals with dementia, 
 
 ## See Also
 
-- [[../topics/dementia-care]]
+- [dementia-care](../topics/dementia-care.md)

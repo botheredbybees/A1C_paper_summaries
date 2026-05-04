@@ -31,6 +31,6 @@ Source 3 shifts focus to post-capture adjustments including cropping, resizing, 
 
 ## Sources
 
-- [[../sources/fxa202-week02-getting-to-know-your-camera]]
-- [[../sources/fxa202-week02-lesson-fxa202-week02-week-2]]
-- [[../sources/fxa202-week08-making-basic-adjustments-tutorial-at-gcflearnfree]]
+- [fxa202-week02-getting-to-know-your-camera](../sources/fxa202-week02-getting-to-know-your-camera.md)
+- [fxa202-week02-lesson-fxa202-week02-week-2](../sources/fxa202-week02-lesson-fxa202-week02-week-2.md)
+- [fxa202-week08-making-basic-adjustments-tutorial-at-gcflearnfree](../sources/fxa202-week08-making-basic-adjustments-tutorial-at-gcflearnfree.md)

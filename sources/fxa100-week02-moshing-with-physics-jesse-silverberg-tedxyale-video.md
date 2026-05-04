@@ -24,22 +24,22 @@ In this video transcript of 'Moshing with Physics' by Jesse Silverberg at TEDxYa
 
 ## Key Concepts
 
-- [[../topics/newtons-second-law]]
-- [[../topics/computational-simulation]]
-- [[../topics/chaotic-systems]]
+- [newtons-second-law](../topics/newtons-second-law.md)
+- [computational-simulation](../topics/computational-simulation.md)
+- [chaotic-systems](../topics/chaotic-systems.md)
 
 ## Tags
 
-- [[../tags/physics-of-crowds]]
-- [[../tags/mosh-pit-dynamics]]
-- [[../tags/collective-behavior]]
-- [[../tags/fxa100]]
+- [physics-of-crowds](../tags/physics-of-crowds.md)
+- [mosh-pit-dynamics](../tags/mosh-pit-dynamics.md)
+- [collective-behavior](../tags/collective-behavior.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[computational-modeling]]
-- [[video-analysis]]
+- [computational-modeling](computational-modeling.md)
+- [video-analysis](video-analysis.md)
 
 ## See Also
 
-- [[../topics/collective-behavior]]
+- [collective-behavior](../topics/collective-behavior.md)

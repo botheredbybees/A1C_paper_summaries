@@ -24,25 +24,25 @@ This study explores the emotional impact of poetry on human physiology and neura
 
 ## Key Concepts
 
-- [[../topics/nucleus-accumbens]]
-- [[../topics/peak-emotion-experience]]
-- [[../topics/aesthetic-pleasure]]
+- [nucleus-accumbens](../topics/nucleus-accumbens.md)
+- [peak-emotion-experience](../topics/peak-emotion-experience.md)
+- [aesthetic-pleasure](../topics/aesthetic-pleasure.md)
 
 ## Tags
 
-- [[../tags/neural-circuitry]]
-- [[../tags/psychophysiology]]
-- [[../tags/poetry-aesthetics]]
-- [[../tags/emotional-reaction]]
-- [[../tags/music-comparison]]
-- [[../tags/fxa301]]
+- [neural-circuitry](../tags/neural-circuitry.md)
+- [psychophysiology](../tags/psychophysiology.md)
+- [poetry-aesthetics](../tags/poetry-aesthetics.md)
+- [emotional-reaction](../tags/emotional-reaction.md)
+- [music-comparison](../tags/music-comparison.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[neuroimaging]]
-- [[psychophysiological-measures]]
+- [neuroimaging](neuroimaging.md)
+- [psychophysiological-measures](psychophysiological-measures.md)
 
 ## See Also
 
-- [[../topics/emotional-reaction]]
-- [[../topics/psychophysiology]]
+- [emotional-reaction](../topics/emotional-reaction.md)
+- [psychophysiology](../topics/psychophysiology.md)

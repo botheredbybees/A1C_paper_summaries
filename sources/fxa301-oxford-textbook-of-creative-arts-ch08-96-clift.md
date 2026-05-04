@@ -27,15 +27,15 @@ This chapter explores the physiological responses to music and sound stimuli, em
 
 ## Key Concepts
 
-- [[../topics/immune system changes]]
-- [[../topics/emotional foundations of music]]
+- [immune system changes](../topics/immune system changes.md)
+- [emotional foundations of music](../topics/emotional foundations of music.md)
 
 ## Tags
 
-- [[../tags/music-psychology]]
-- [[../tags/physiological-responses]]
-- [[../tags/health-wellbeing]]
-- [[../tags/fxa301]]
+- [music-psychology](../tags/music-psychology.md)
+- [physiological-responses](../tags/physiological-responses.md)
+- [health-wellbeing](../tags/health-wellbeing.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -43,6 +43,6 @@ This chapter explores the physiological responses to music and sound stimuli, em
 
 ## See Also
 
-- [[../topics/health-wellbeing]]
-- [[../topics/music-psychology]]
-- [[../topics/physiological-responses]]
+- [health-wellbeing](../topics/health-wellbeing.md)
+- [music-psychology](../topics/music-psychology.md)
+- [physiological-responses](../topics/physiological-responses.md)

@@ -28,7 +28,7 @@ The provided sources collectively explore the unique challenges faced by Indigen
 
 ## Sources
 
-- [[../sources/fxa100-week07-dementia-and-our-mob-caring-for-spirit]]
-- [[../sources/fxa100-week07-dementia-in-our-mob-and-around-the-world]]
-- [[../sources/fxa100-week07-high-prevalence-of-dementia-and-cognitive-impairment-in]]
-- [[../sources/fxa301-week03-national-arts-and-health-framework]]
+- [fxa100-week07-dementia-and-our-mob-caring-for-spirit](../sources/fxa100-week07-dementia-and-our-mob-caring-for-spirit.md)
+- [fxa100-week07-dementia-in-our-mob-and-around-the-world](../sources/fxa100-week07-dementia-in-our-mob-and-around-the-world.md)
+- [fxa100-week07-high-prevalence-of-dementia-and-cognitive-impairment-in](../sources/fxa100-week07-high-prevalence-of-dementia-and-cognitive-impairment-in.md)
+- [fxa301-week03-national-arts-and-health-framework](../sources/fxa301-week03-national-arts-and-health-framework.md)

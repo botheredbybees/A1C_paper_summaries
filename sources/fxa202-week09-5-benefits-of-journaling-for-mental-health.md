@@ -24,27 +24,27 @@ The article '5 Benefits of Journaling for Mental Health' by Jeremy Sutton, Ph.D.
 
 ## Key Concepts
 
-- [[../topics/emotional processing]]
-- [[../topics/mindfulness]]
-- [[../topics/gratitude journaling]]
-- [[../topics/expressive writing]]
+- [emotional processing](../topics/emotional processing.md)
+- [mindfulness](../topics/mindfulness.md)
+- [gratitude journaling](../topics/gratitude journaling.md)
+- [expressive writing](../topics/expressive writing.md)
 
 ## Tags
 
-- [[../tags/mental-health]]
-- [[../tags/journaling-benefits]]
-- [[../tags/emotional-wellbeing]]
-- [[../tags/cognitive-processing]]
-- [[../tags/stress-management]]
-- [[../tags/fxa202]]
+- [mental-health](../tags/mental-health.md)
+- [journaling-benefits](../tags/journaling-benefits.md)
+- [emotional-wellbeing](../tags/emotional-wellbeing.md)
+- [cognitive-processing](../tags/cognitive-processing.md)
+- [stress-management](../tags/stress-management.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/cognitive-processing]]
-- [[../topics/emotional-wellbeing]]
-- [[../topics/mental-health]]
-- [[../topics/stress-management]]
+- [cognitive-processing](../topics/cognitive-processing.md)
+- [emotional-wellbeing](../topics/emotional-wellbeing.md)
+- [mental-health](../topics/mental-health.md)
+- [stress-management](../topics/stress-management.md)

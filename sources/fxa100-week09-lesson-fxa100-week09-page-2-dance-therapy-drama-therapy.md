@@ -24,18 +24,18 @@ The lesson covers the therapeutic uses of dramatherapy, dance therapy, and appli
 
 ## Key Concepts
 
-- [[../topics/psychotherapy practice]]
-- [[../topics/therapeutic relationship]]
-- [[../topics/nonverbal communication]]
+- [psychotherapy practice](../topics/psychotherapy practice.md)
+- [therapeutic relationship](../topics/therapeutic relationship.md)
+- [nonverbal communication](../topics/nonverbal communication.md)
 
 ## Tags
 
-- [[../tags/dramatherapy]]
-- [[../tags/dance-therapy]]
-- [[../tags/applied-theatre]]
-- [[../tags/psychological-therapy]]
-- [[../tags/cultural-life]]
-- [[../tags/fxa100]]
+- [dramatherapy](../tags/dramatherapy.md)
+- [dance-therapy](../tags/dance-therapy.md)
+- [applied-theatre](../tags/applied-theatre.md)
+- [psychological-therapy](../tags/psychological-therapy.md)
+- [cultural-life](../tags/cultural-life.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -43,6 +43,6 @@ The lesson covers the therapeutic uses of dramatherapy, dance therapy, and appli
 
 ## See Also
 
-- [[../topics/applied-theatre]]
-- [[../topics/dance-therapy]]
-- [[../topics/dramatherapy]]
+- [applied-theatre](../topics/applied-theatre.md)
+- [dance-therapy](../topics/dance-therapy.md)
+- [dramatherapy](../topics/dramatherapy.md)

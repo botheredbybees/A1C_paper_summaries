@@ -28,7 +28,7 @@ The study of art appreciation involves understanding both neurological and psych
 
 ## Sources
 
-- [[../sources/fxa100-week06-transcript-art-gives-same-level-of-pleasure-as-being-in-love]]
-- [[../sources/fxa301-week02-can-science-account-for-taste-psychological-insights-into]]
-- [[../sources/fxa301-week02-personality-correlates-of-aesthetic-preferences-for-art]]
-- [[../sources/fxa301-week02-the-role-of-similarity-sound-and-awareness-in-the]]
+- [fxa100-week06-transcript-art-gives-same-level-of-pleasure-as-being-in-love](../sources/fxa100-week06-transcript-art-gives-same-level-of-pleasure-as-being-in-love.md)
+- [fxa301-week02-can-science-account-for-taste-psychological-insights-into](../sources/fxa301-week02-can-science-account-for-taste-psychological-insights-into.md)
+- [fxa301-week02-personality-correlates-of-aesthetic-preferences-for-art](../sources/fxa301-week02-personality-correlates-of-aesthetic-preferences-for-art.md)
+- [fxa301-week02-the-role-of-similarity-sound-and-awareness-in-the](../sources/fxa301-week02-the-role-of-similarity-sound-and-awareness-in-the.md)

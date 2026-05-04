@@ -27,6 +27,6 @@ Creative therapy is an innovative approach to enhancing self-expression and comm
 
 ## Sources
 
-- [[../sources/fxa100-creativity-and-communication-ch10-20-drilling-down-to-the-detail-once-you-have-established]]
-- [[../sources/fxa100-week08-creativity-and-communication-in-persons-with-dementia]]
-- [[../sources/fxa303-week06-creative-puppet-therapy-reduces-hallucinations-in-patients]]
+- [fxa100-creativity-and-communication-ch10-20-drilling-down-to-the-detail-once-you-have-established](../sources/fxa100-creativity-and-communication-ch10-20-drilling-down-to-the-detail-once-you-have-established.md)
+- [fxa100-week08-creativity-and-communication-in-persons-with-dementia](../sources/fxa100-week08-creativity-and-communication-in-persons-with-dementia.md)
+- [fxa303-week06-creative-puppet-therapy-reduces-hallucinations-in-patients](../sources/fxa303-week06-creative-puppet-therapy-reduces-hallucinations-in-patients.md)

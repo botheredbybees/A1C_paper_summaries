@@ -24,20 +24,20 @@ Recent research indicates a correlation between an individual's cognitive style 
 
 ## Key Concepts
 
-- [[../topics/cognitive-style]]
-- [[../topics/empathizer-systemizer-theory]]
-- [[../topics/musical-preference-patterns]]
+- [cognitive-style](../topics/cognitive-style.md)
+- [empathizer-systemizer-theory](../topics/empathizer-systemizer-theory.md)
+- [musical-preference-patterns](../topics/musical-preference-patterns.md)
 
 ## Tags
 
-- [[../tags/cognitive-style-music-preferences]]
-- [[../tags/empathy-systemizing-spectrum]]
-- [[../tags/gender-differences-autism]]
-- [[../tags/fxa100]]
+- [cognitive-style-music-preferences](../tags/cognitive-style-music-preferences.md)
+- [empathy-systemizing-spectrum](../tags/empathy-systemizing-spectrum.md)
+- [gender-differences-autism](../tags/gender-differences-autism.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[correlational-study]]
+- [correlational-study](correlational-study.md)
 
 ## See Also
 

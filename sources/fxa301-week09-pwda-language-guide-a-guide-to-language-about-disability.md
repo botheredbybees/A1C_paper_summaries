@@ -26,16 +26,16 @@ The document also addresses the importance of the social model of disability ove
 
 ## Key Concepts
 
-- [[../topics/person-first-language]]
-- [[../topics/identity-first-language]]
-- [[../topics/ableist-language]]
+- [person-first-language](../topics/person-first-language.md)
+- [identity-first-language](../topics/identity-first-language.md)
+- [ableist-language](../topics/ableist-language.md)
 
 ## Tags
 
-- [[../tags/disability-advocacy]]
-- [[../tags/language-use-in-media]]
-- [[../tags/social-model-of-disability]]
-- [[../tags/fxa301]]
+- [disability-advocacy](../tags/disability-advocacy.md)
+- [language-use-in-media](../tags/language-use-in-media.md)
+- [social-model-of-disability](../tags/social-model-of-disability.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -43,4 +43,4 @@ The document also addresses the importance of the social model of disability ove
 
 ## See Also
 
-- [[../topics/social-model-of-disability]]
+- [social-model-of-disability](../topics/social-model-of-disability.md)

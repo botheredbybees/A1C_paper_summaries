@@ -24,25 +24,25 @@ This article critically examines the social model of disability, a theoretical f
 
 ## Key Concepts
 
-- [[../topics/social model of disability]]
-- [[../topics/Hannah Arendt's notion of power]]
-- [[../topics/transformative potential]]
+- [social model of disability](../topics/social model of disability.md)
+- [Hannah Arendt's notion of power](../topics/Hannah Arendt's notion of power.md)
+- [transformative potential](../topics/transformative potential.md)
 
 ## Tags
 
-- [[../tags/social-model-disability]]
-- [[../tags/disability-rights]]
-- [[../tags/critical-theory]]
-- [[../tags/power-politics]]
-- [[../tags/arendts-philosophy]]
-- [[../tags/pluralism]]
-- [[../tags/fxa303]]
+- [social-model-disability](../tags/social-model-disability.md)
+- [disability-rights](../tags/disability-rights.md)
+- [critical-theory](../tags/critical-theory.md)
+- [power-politics](../tags/power-politics.md)
+- [arendts-philosophy](../tags/arendts-philosophy.md)
+- [pluralism](../tags/pluralism.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[literature review]]
+- [literature review](literature review.md)
 
 ## See Also
 
-- [[../topics/disability-rights]]
-- [[../topics/social-model-disability]]
+- [disability-rights](../topics/disability-rights.md)
+- [social-model-disability](../topics/social-model-disability.md)

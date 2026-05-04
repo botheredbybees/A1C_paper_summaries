@@ -30,5 +30,5 @@ Together, these studies underscore the multifaceted nature of interventions aime
 
 ## Sources
 
-- [[../sources/fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical]]
-- [[../sources/fxa100-week02-playing-a-musical-instrument-as-a-protective-factor-against]]
+- [fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical](../sources/fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical.md)
+- [fxa100-week02-playing-a-musical-instrument-as-a-protective-factor-against](../sources/fxa100-week02-playing-a-musical-instrument-as-a-protective-factor-against.md)

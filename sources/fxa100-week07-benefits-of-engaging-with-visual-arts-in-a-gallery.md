@@ -24,22 +24,22 @@ Shan Crosbie's essay explores the significance of engaging with visual arts in g
 
 ## Key Concepts
 
-- [[../topics/social-isolation]]
-- [[../topics/intellectual-stimulation]]
-- [[../topics/emotional-wellbeing]]
+- [social-isolation](../topics/social-isolation.md)
+- [intellectual-stimulation](../topics/intellectual-stimulation.md)
+- [emotional-wellbeing](../topics/emotional-wellbeing.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/visual-arts-interventions]]
-- [[../tags/gallery-programming]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [visual-arts-interventions](../tags/visual-arts-interventions.md)
+- [gallery-programming](../tags/gallery-programming.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/visual-arts-interventions]]
+- [dementia-care](../topics/dementia-care.md)
+- [visual-arts-interventions](../topics/visual-arts-interventions.md)

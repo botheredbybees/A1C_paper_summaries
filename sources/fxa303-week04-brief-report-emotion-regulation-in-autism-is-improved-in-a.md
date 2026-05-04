@@ -24,27 +24,27 @@ This study evaluates the therapeutic potential of combining Child-Centered Play 
 
 ## Key Concepts
 
-- [[../topics/Child-Centered Play Therapy (CCPT)]]
-- [[../topics/Rhythmic Relating]]
-- [[../topics/Emotion Regulation]]
-- [[../topics/Gender-Based Considerations]]
+- [Child-Centered Play Therapy (CCPT)](../topics/Child-Centered Play Therapy (CCPT).md)
+- [Rhythmic Relating](../topics/Rhythmic Relating.md)
+- [Emotion Regulation](../topics/Emotion Regulation.md)
+- [Gender-Based Considerations](../topics/Gender-Based Considerations.md)
 
 ## Tags
 
-- [[../tags/autism-spectrum-disorder]]
-- [[../tags/emotion-regulation]]
-- [[../tags/child-therapy]]
-- [[../tags/play-therapy]]
-- [[../tags/rhythmic-relating]]
-- [[../tags/fxa303]]
+- [autism-spectrum-disorder](../tags/autism-spectrum-disorder.md)
+- [emotion-regulation](../tags/emotion-regulation.md)
+- [child-therapy](../tags/child-therapy.md)
+- [play-therapy](../tags/play-therapy.md)
+- [rhythmic-relating](../tags/rhythmic-relating.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[single-n pilot intervention study]]
+- [single-n pilot intervention study](single-n pilot intervention study.md)
 
 ## See Also
 
-- [[../topics/autism-spectrum-disorder]]
-- [[../topics/child-therapy]]
-- [[../topics/emotion-regulation]]
-- [[../topics/play-therapy]]
+- [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)
+- [child-therapy](../topics/child-therapy.md)
+- [emotion-regulation](../topics/emotion-regulation.md)
+- [play-therapy](../topics/play-therapy.md)

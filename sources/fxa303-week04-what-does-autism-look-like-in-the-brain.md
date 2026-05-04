@@ -28,23 +28,23 @@ The study highlights a new perspective into understanding the neurological basis
 
 ## Key Concepts
 
-- [[../topics/fMRI]]
-- [[../topics/synchronized-brain-activity]]
-- [[../topics/social-dysfunction]]
+- [fMRI](../topics/fMRI.md)
+- [synchronized-brain-activity](../topics/synchronized-brain-activity.md)
+- [social-dysfunction](../topics/social-dysfunction.md)
 
 ## Tags
 
-- [[../tags/autism-spectrum-disorder]]
-- [[../tags/brain-connectivity]]
-- [[../tags/neural-mechanisms]]
-- [[../tags/fxa303]]
+- [autism-spectrum-disorder](../tags/autism-spectrum-disorder.md)
+- [brain-connectivity](../tags/brain-connectivity.md)
+- [neural-mechanisms](../tags/neural-mechanisms.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[functional-magnetic-resonance-imaging]]
-- [[systematic-review]]
+- [functional-magnetic-resonance-imaging](functional-magnetic-resonance-imaging.md)
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/autism-spectrum-disorder]]
-- [[../topics/brain-connectivity]]
+- [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)
+- [brain-connectivity](../topics/brain-connectivity.md)

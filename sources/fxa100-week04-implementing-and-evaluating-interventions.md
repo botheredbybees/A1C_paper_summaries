@@ -24,22 +24,22 @@ This chapter outlines the process of designing and evaluating arts in health int
 
 ## Key Concepts
 
-- [[../topics/pilot-project]]
-- [[../topics/iterative-refinement]]
-- [[../topics/formative-evaluation]]
+- [pilot-project](../topics/pilot-project.md)
+- [iterative-refinement](../topics/iterative-refinement.md)
+- [formative-evaluation](../topics/formative-evaluation.md)
 
 ## Tags
 
-- [[../tags/arts-in-health]]
-- [[../tags/intervention-design]]
-- [[../tags/healthcare-integration]]
-- [[../tags/fxa100]]
+- [arts-in-health](../tags/arts-in-health.md)
+- [intervention-design](../tags/intervention-design.md)
+- [healthcare-integration](../tags/healthcare-integration.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/arts-in-health]]
-- [[../topics/intervention-design]]
+- [arts-in-health](../topics/arts-in-health.md)
+- [intervention-design](../topics/intervention-design.md)

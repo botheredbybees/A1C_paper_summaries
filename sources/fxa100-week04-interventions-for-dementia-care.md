@@ -24,23 +24,23 @@ This document outlines various pharmacological and non-pharmacological intervent
 
 ## Key Concepts
 
-- [[../topics/acetylcholinesterase-inhibitors]]
-- [[../topics/cognitive-stimulation-therapy]]
-- [[../topics/reminiscence-therapy]]
+- [acetylcholinesterase-inhibitors](../topics/acetylcholinesterase-inhibitors.md)
+- [cognitive-stimulation-therapy](../topics/cognitive-stimulation-therapy.md)
+- [reminiscence-therapy](../topics/reminiscence-therapy.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/pharmacological-interventions]]
-- [[../tags/non-pharmacological-therapy]]
-- [[../tags/cognitive-stimulation]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [pharmacological-interventions](../tags/pharmacological-interventions.md)
+- [non-pharmacological-therapy](../tags/non-pharmacological-therapy.md)
+- [cognitive-stimulation](../tags/cognitive-stimulation.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/cognitive-stimulation]]
-- [[../topics/dementia-care]]
+- [cognitive-stimulation](../topics/cognitive-stimulation.md)
+- [dementia-care](../topics/dementia-care.md)

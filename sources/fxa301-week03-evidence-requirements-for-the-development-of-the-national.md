@@ -24,26 +24,26 @@ The article by Helen Zigmond discusses the process of developing evidence to sup
 
 ## Key Concepts
 
-- [[../topics/National Arts and Health Framework]]
-- [[../topics/policy development]]
-- [[../topics/sector engagement]]
+- [National Arts and Health Framework](../topics/National Arts and Health Framework.md)
+- [policy development](../topics/policy development.md)
+- [sector engagement](../topics/sector engagement.md)
 
 ## Tags
 
-- [[../tags/arts-and-health]]
-- [[../tags/health-policy]]
-- [[../tags/evidence-based-practice]]
-- [[../tags/national-frameworks]]
-- [[../tags/community-wellbeing]]
-- [[../tags/fxa301]]
+- [arts-and-health](../tags/arts-and-health.md)
+- [health-policy](../tags/health-policy.md)
+- [evidence-based-practice](../tags/evidence-based-practice.md)
+- [national-frameworks](../tags/national-frameworks.md)
+- [community-wellbeing](../tags/community-wellbeing.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/arts-and-health]]
-- [[../topics/community-wellbeing]]
-- [[../topics/evidence-based-practice]]
-- [[../topics/health-policy]]
+- [arts-and-health](../topics/arts-and-health.md)
+- [community-wellbeing](../topics/community-wellbeing.md)
+- [evidence-based-practice](../topics/evidence-based-practice.md)
+- [health-policy](../topics/health-policy.md)

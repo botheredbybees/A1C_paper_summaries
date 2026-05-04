@@ -24,26 +24,26 @@ This document outlines activities for week six of FXA303, focusing on the use of
 
 ## Key Concepts
 
-- [[../topics/externalization of emotions]]
-- [[../topics/symbolic representation]]
-- [[../topics/emotional regulation]]
+- [externalization of emotions](../topics/externalization of emotions.md)
+- [symbolic representation](../topics/symbolic representation.md)
+- [emotional regulation](../topics/emotional regulation.md)
 
 ## Tags
 
-- [[../tags/creative-arts]]
-- [[../tags/mental-wellbeing]]
-- [[../tags/puppet-play-therapy]]
-- [[../tags/therapeutic-contexts]]
-- [[../tags/emotional-regulation]]
-- [[../tags/fxa303]]
+- [creative-arts](../tags/creative-arts.md)
+- [mental-wellbeing](../tags/mental-wellbeing.md)
+- [puppet-play-therapy](../tags/puppet-play-therapy.md)
+- [therapeutic-contexts](../tags/therapeutic-contexts.md)
+- [emotional-regulation](../tags/emotional-regulation.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/creative-arts]]
-- [[../topics/emotional-regulation]]
-- [[../topics/mental-wellbeing]]
-- [[../topics/puppet-play-therapy]]
+- [creative-arts](../topics/creative-arts.md)
+- [emotional-regulation](../topics/emotional-regulation.md)
+- [mental-wellbeing](../topics/mental-wellbeing.md)
+- [puppet-play-therapy](../topics/puppet-play-therapy.md)

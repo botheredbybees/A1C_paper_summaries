@@ -27,16 +27,16 @@ This chapter explores the use of arts in enhancing wellness, access to healthcar
 
 ## Key Concepts
 
-- [[../topics/social-engagement]]
-- [[../topics/cultural-asset-index]]
-- [[../topics/creative-storytelling]]
+- [social-engagement](../topics/social-engagement.md)
+- [cultural-asset-index](../topics/cultural-asset-index.md)
+- [creative-storytelling](../topics/creative-storytelling.md)
 
 ## Tags
 
-- [[../tags/arts-for-health]]
-- [[../tags/community-wellness]]
-- [[../tags/health-literacy]]
-- [[../tags/fxa301]]
+- [arts-for-health](../tags/arts-for-health.md)
+- [community-wellness](../tags/community-wellness.md)
+- [health-literacy](../tags/health-literacy.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

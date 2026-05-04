@@ -24,25 +24,25 @@ The document highlights significant challenges within end-of-life care, emphasiz
 
 ## Key Concepts
 
-- [[../topics/personalized care]]
-- [[../topics/integrated care model]]
-- [[../topics/creative arts therapy]]
-- [[../topics/advance care planning]]
+- [personalized care](../topics/personalized care.md)
+- [integrated care model](../topics/integrated care model.md)
+- [creative arts therapy](../topics/creative arts therapy.md)
+- [advance care planning](../topics/advance care planning.md)
 
 ## Tags
 
-- [[../tags/end-of-life-care]]
-- [[../tags/bereavement-support]]
-- [[../tags/palliative-care-access]]
-- [[../tags/creative-health-interventions]]
-- [[../tags/advance-care-planning]]
-- [[../tags/health-disparities]]
-- [[../tags/fxa301]]
+- [end-of-life-care](../tags/end-of-life-care.md)
+- [bereavement-support](../tags/bereavement-support.md)
+- [palliative-care-access](../tags/palliative-care-access.md)
+- [creative-health-interventions](../tags/creative-health-interventions.md)
+- [advance-care-planning](../tags/advance-care-planning.md)
+- [health-disparities](../tags/health-disparities.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/creative-health-interventions]]
+- [creative-health-interventions](../topics/creative-health-interventions.md)

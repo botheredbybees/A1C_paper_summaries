@@ -24,16 +24,16 @@ In this week of FXA303 Creative Arts, the focus shifts to Module 2 with an empha
 
 ## Key Concepts
 
-- [[../topics/puppetry]]
-- [[../topics/clowning]]
-- [[../topics/vicarious trauma]]
+- [puppetry](../topics/puppetry.md)
+- [clowning](../topics/clowning.md)
+- [vicarious trauma](../topics/vicarious trauma.md)
 
 ## Tags
 
-- [[../tags/creative-arts]]
-- [[../tags/mental-wellbeing]]
-- [[../tags/playfulness]]
-- [[../tags/fxa303]]
+- [creative-arts](../tags/creative-arts.md)
+- [mental-wellbeing](../tags/mental-wellbeing.md)
+- [playfulness](../tags/playfulness.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ In this week of FXA303 Creative Arts, the focus shifts to Module 2 with an empha
 
 ## See Also
 
-- [[../topics/creative-arts]]
-- [[../topics/mental-wellbeing]]
+- [creative-arts](../topics/creative-arts.md)
+- [mental-wellbeing](../topics/mental-wellbeing.md)

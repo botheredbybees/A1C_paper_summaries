@@ -24,16 +24,16 @@ Tom Kitwood’s chapter on the experience of dementia addresses how people with 
 
 ## Key Concepts
 
-- [[../topics/subjective-experiences]]
-- [[../topics/personhood-theory]]
-- [[../topics/intersubjectivity]]
+- [subjective-experiences](../topics/subjective-experiences.md)
+- [personhood-theory](../topics/personhood-theory.md)
+- [intersubjectivity](../topics/intersubjectivity.md)
 
 ## Tags
 
-- [[../tags/person-centered-care]]
-- [[../tags/intersubjectivity-in-dementia]]
-- [[../tags/cognitive-impairment-experience]]
-- [[../tags/fxa100]]
+- [person-centered-care](../tags/person-centered-care.md)
+- [intersubjectivity-in-dementia](../tags/intersubjectivity-in-dementia.md)
+- [cognitive-impairment-experience](../tags/cognitive-impairment-experience.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -41,4 +41,4 @@ Tom Kitwood’s chapter on the experience of dementia addresses how people with 
 
 ## See Also
 
-- [[../topics/person-centered-care]]
+- [person-centered-care](../topics/person-centered-care.md)

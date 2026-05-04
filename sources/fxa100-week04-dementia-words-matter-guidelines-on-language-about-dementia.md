@@ -24,21 +24,21 @@ The document 'Dementia Words Matter' provides guidelines for journalists, organi
 
 ## Key Concepts
 
-- [[../topics/person-first language]]
-- [[../topics/language impact on perception]]
+- [person-first language](../topics/person-first language.md)
+- [language impact on perception](../topics/language impact on perception.md)
 
 ## Tags
 
-- [[../tags/dementia-language]]
-- [[../tags/communication-guidelines]]
-- [[../tags/inclusive-terminology]]
-- [[../tags/fxa100]]
+- [dementia-language](../tags/dementia-language.md)
+- [communication-guidelines](../tags/communication-guidelines.md)
+- [inclusive-terminology](../tags/inclusive-terminology.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[guideline development]]
+- [guideline development](guideline development.md)
 
 ## See Also
 
-- [[../topics/dementia-language]]
-- [[../topics/inclusive-terminology]]
+- [dementia-language](../topics/dementia-language.md)
+- [inclusive-terminology](../topics/inclusive-terminology.md)

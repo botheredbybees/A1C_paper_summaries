@@ -24,23 +24,23 @@ This study presents the findings from a clinical and research program called the
 
 ## Key Concepts
 
-- [[../topics/modifiable-risk-factors]]
-- [[../topics/montreal-cognitive-assessment]]
-- [[../topics/personalized-risk-profiling]]
+- [modifiable-risk-factors](../topics/modifiable-risk-factors.md)
+- [montreal-cognitive-assessment](../topics/montreal-cognitive-assessment.md)
+- [personalized-risk-profiling](../topics/personalized-risk-profiling.md)
 
 ## Tags
 
-- [[../tags/alzheimer-risk-factors]]
-- [[../tags/brain-health-promotion]]
-- [[../tags/personalized-medicine]]
-- [[../tags/memory-assessment]]
-- [[../tags/elderly-care]]
-- [[../tags/fxa100]]
+- [alzheimer-risk-factors](../tags/alzheimer-risk-factors.md)
+- [brain-health-promotion](../tags/brain-health-promotion.md)
+- [personalized-medicine](../tags/personalized-medicine.md)
+- [memory-assessment](../tags/memory-assessment.md)
+- [elderly-care](../tags/elderly-care.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-series]]
+- [case-series](case-series.md)
 
 ## See Also
 
-- [[../topics/elderly-care]]
+- [elderly-care](../topics/elderly-care.md)

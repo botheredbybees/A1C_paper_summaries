@@ -28,22 +28,22 @@ The review highlights the importance of incorporating recreational dance program
 
 ## Key Concepts
 
-- [[../topics/cardiovascular-fitness]]
-- [[../topics/bone-health]]
-- [[../topics/body-image]]
-- [[../topics/anxiety-reduction]]
+- [cardiovascular-fitness](../topics/cardiovascular-fitness.md)
+- [bone-health](../topics/bone-health.md)
+- [body-image](../topics/body-image.md)
+- [anxiety-reduction](../topics/anxiety-reduction.md)
 
 ## Tags
 
-- [[../tags/recreational-dance]]
-- [[../tags/child-health]]
-- [[../tags/well-being-interventions]]
-- [[../tags/systematic-reviews]]
-- [[../tags/fxa301]]
+- [recreational-dance](../tags/recreational-dance.md)
+- [child-health](../tags/child-health.md)
+- [well-being-interventions](../tags/well-being-interventions.md)
+- [systematic-reviews](../tags/systematic-reviews.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 

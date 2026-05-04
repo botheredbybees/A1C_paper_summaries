@@ -27,6 +27,6 @@ The topic of cognitive development integrates several influential theoretical pe
 
 ## Sources
 
-- [[../sources/fxa303-week02-developmental-role-of-creative-arts-and-play]]
-- [[../sources/fxa303-week02-theories-of-development-in-dialog-with-jean-piaget]]
-- [[../sources/fxa303-week03-developmental-psychology-from-infancy-to-adulthood]]
+- [fxa303-week02-developmental-role-of-creative-arts-and-play](../sources/fxa303-week02-developmental-role-of-creative-arts-and-play.md)
+- [fxa303-week02-theories-of-development-in-dialog-with-jean-piaget](../sources/fxa303-week02-theories-of-development-in-dialog-with-jean-piaget.md)
+- [fxa303-week03-developmental-psychology-from-infancy-to-adulthood](../sources/fxa303-week03-developmental-psychology-from-infancy-to-adulthood.md)

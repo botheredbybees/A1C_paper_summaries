@@ -25,5 +25,5 @@ The synthesis of the provided sources highlights the multifaceted approach requi
 
 ## Sources
 
-- [[../sources/fxa303-week01-teachers-perspectives-on-providing-support-to-children]]
-- [[../sources/fxa303-week09-using-creative-techniques-with-children-who-have]]
+- [fxa303-week01-teachers-perspectives-on-providing-support-to-children](../sources/fxa303-week01-teachers-perspectives-on-providing-support-to-children.md)
+- [fxa303-week09-using-creative-techniques-with-children-who-have](../sources/fxa303-week09-using-creative-techniques-with-children-who-have.md)

@@ -24,24 +24,24 @@ Jessica Grimmer reviews the book 'Playing for Their Lives: The Global El Sistema
 
 ## Key Concepts
 
-- [[../topics/El Sistema movement]]
-- [[../topics/social inclusion]]
-- [[../topics/cooperative learning]]
+- [El Sistema movement](../topics/El Sistema movement.md)
+- [social inclusion](../topics/social inclusion.md)
+- [cooperative learning](../topics/cooperative learning.md)
 
 ## Tags
 
-- [[../tags/music-education]]
-- [[../tags/social-change]]
-- [[../tags/community-development]]
-- [[../tags/youth-programming]]
-- [[../tags/latin-america]]
-- [[../tags/fxa301]]
+- [music-education](../tags/music-education.md)
+- [social-change](../tags/social-change.md)
+- [community-development](../tags/community-development.md)
+- [youth-programming](../tags/youth-programming.md)
+- [latin-america](../tags/latin-america.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[book review]]
+- [book review](book review.md)
 
 ## See Also
 
-- [[../topics/community-development]]
-- [[../topics/music-education]]
+- [community-development](../topics/community-development.md)
+- [music-education](../topics/music-education.md)

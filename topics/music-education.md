@@ -38,17 +38,17 @@ The provided sources highlight the multifaceted benefits of music education in f
 
 ## Sources
 
-- [[../sources/fxa100-week04-engaging-in-community-music-an-introduction]]
-- [[../sources/fxa301-week05-an-education-in-music-makes-you-a-better-employee-are]]
-- [[../sources/fxa301-week05-fading-notes-music-education-for-the-next-generation-of]]
-- [[../sources/fxa301-week05-week-5-activities-fxa301-arts-in-the-community]]
-- [[../sources/fxa301-week06-case-studies-of-community-projects-big-noise-sistema]]
-- [[../sources/fxa301-week06-evaluation-of-big-noise-douglas]]
-- [[../sources/fxa301-week06-lesson-fxa301-week06-page-2]]
-- [[../sources/fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation]]
-- [[../sources/fxa301-week06-playing-for-their-lives-the-global-el-sistema-movement-for]]
-- [[../sources/fxa301-week06-recontextualizing-music-for-social-change]]
-- [[../sources/fxa301-week06-transcript-el-sistema-trailer-for-film-2008-url-only]]
-- [[../sources/fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain]]
-- [[../sources/fxa303-week03-music-instruction-can-make-for-a-smarter-teen]]
-- [[../sources/fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot]]
+- [fxa100-week04-engaging-in-community-music-an-introduction](../sources/fxa100-week04-engaging-in-community-music-an-introduction.md)
+- [fxa301-week05-an-education-in-music-makes-you-a-better-employee-are](../sources/fxa301-week05-an-education-in-music-makes-you-a-better-employee-are.md)
+- [fxa301-week05-fading-notes-music-education-for-the-next-generation-of](../sources/fxa301-week05-fading-notes-music-education-for-the-next-generation-of.md)
+- [fxa301-week05-week-5-activities-fxa301-arts-in-the-community](../sources/fxa301-week05-week-5-activities-fxa301-arts-in-the-community.md)
+- [fxa301-week06-case-studies-of-community-projects-big-noise-sistema](../sources/fxa301-week06-case-studies-of-community-projects-big-noise-sistema.md)
+- [fxa301-week06-evaluation-of-big-noise-douglas](../sources/fxa301-week06-evaluation-of-big-noise-douglas.md)
+- [fxa301-week06-lesson-fxa301-week06-page-2](../sources/fxa301-week06-lesson-fxa301-week06-page-2.md)
+- [fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation](../sources/fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation.md)
+- [fxa301-week06-playing-for-their-lives-the-global-el-sistema-movement-for](../sources/fxa301-week06-playing-for-their-lives-the-global-el-sistema-movement-for.md)
+- [fxa301-week06-recontextualizing-music-for-social-change](../sources/fxa301-week06-recontextualizing-music-for-social-change.md)
+- [fxa301-week06-transcript-el-sistema-trailer-for-film-2008-url-only](../sources/fxa301-week06-transcript-el-sistema-trailer-for-film-2008-url-only.md)
+- [fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain](../sources/fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain.md)
+- [fxa303-week03-music-instruction-can-make-for-a-smarter-teen](../sources/fxa303-week03-music-instruction-can-make-for-a-smarter-teen.md)
+- [fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot](../sources/fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot.md)

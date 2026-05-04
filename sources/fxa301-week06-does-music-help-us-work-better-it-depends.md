@@ -24,19 +24,19 @@ The debate over whether listening to music enhances productivity at work has a l
 
 ## Key Concepts
 
-- [[../topics/Mozart effect]]
-- [[../topics/state-of-arousal theory]]
+- [Mozart effect](../topics/Mozart effect.md)
+- [state-of-arousal theory](../topics/state-of-arousal theory.md)
 
 ## Tags
 
-- [[../tags/music-and-productivity]]
-- [[../tags/workplace-mood]]
-- [[../tags/cognitive-performance]]
-- [[../tags/fxa301]]
+- [music-and-productivity](../tags/music-and-productivity.md)
+- [workplace-mood](../tags/workplace-mood.md)
+- [cognitive-performance](../tags/cognitive-performance.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 

@@ -24,15 +24,15 @@ In this TEDx San Diego presentation from 2015, John Iversen discusses the impact
 
 ## Key Concepts
 
-- [[../topics/rhythmic-training]]
-- [[../topics/brain-growth-charts]]
+- [rhythmic-training](../topics/rhythmic-training.md)
+- [brain-growth-charts](../topics/brain-growth-charts.md)
 
 ## Tags
 
-- [[../tags/brain-development]]
-- [[../tags/music-education]]
-- [[../tags/cognitive-neuroscience]]
-- [[../tags/fxa303]]
+- [brain-development](../tags/brain-development.md)
+- [music-education](../tags/music-education.md)
+- [cognitive-neuroscience](../tags/cognitive-neuroscience.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
@@ -40,6 +40,6 @@ In this TEDx San Diego presentation from 2015, John Iversen discusses the impact
 
 ## See Also
 
-- [[../topics/brain-development]]
-- [[../topics/cognitive-neuroscience]]
-- [[../topics/music-education]]
+- [brain-development](../topics/brain-development.md)
+- [cognitive-neuroscience](../topics/cognitive-neuroscience.md)
+- [music-education](../topics/music-education.md)

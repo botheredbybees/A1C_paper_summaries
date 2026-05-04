@@ -24,18 +24,18 @@ The lesson focuses on the effective use of color in photography to convey mood a
 
 ## Key Concepts
 
-- [[../topics/hue]]
-- [[../topics/saturation]]
-- [[../topics/brightness]]
-- [[../topics/complementary colors]]
-- [[../topics/analogous color schemes]]
+- [hue](../topics/hue.md)
+- [saturation](../topics/saturation.md)
+- [brightness](../topics/brightness.md)
+- [complementary colors](../topics/complementary colors.md)
+- [analogous color schemes](../topics/analogous color schemes.md)
 
 ## Tags
 
-- [[../tags/photography]]
-- [[../tags/color-theory]]
-- [[../tags/composition]]
-- [[../tags/fxa202]]
+- [photography](../tags/photography.md)
+- [color-theory](../tags/color-theory.md)
+- [composition](../tags/composition.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
@@ -43,6 +43,6 @@ The lesson focuses on the effective use of color in photography to convey mood a
 
 ## See Also
 
-- [[../topics/color-theory]]
-- [[../topics/composition]]
-- [[../topics/photography]]
+- [color-theory](../topics/color-theory.md)
+- [composition](../topics/composition.md)
+- [photography](../topics/photography.md)

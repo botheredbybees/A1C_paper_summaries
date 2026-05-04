@@ -24,27 +24,27 @@ This study examines the efficacy of music therapy (MT) as an intervention for ch
 
 ## Key Concepts
 
-- [[../topics/music therapy]]
-- [[../topics/autism spectrum disorder]]
-- [[../topics/biological mechanisms]]
-- [[../topics/neural connectivity]]
+- [music therapy](../topics/music therapy.md)
+- [autism spectrum disorder](../topics/autism spectrum disorder.md)
+- [biological mechanisms](../topics/biological mechanisms.md)
+- [neural connectivity](../topics/neural connectivity.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/autism-spectrum-disorder]]
-- [[../tags/meta-analysis]]
-- [[../tags/neural-connectivity]]
-- [[../tags/brain-plasticity]]
-- [[../tags/fxa303]]
+- [music-therapy](../tags/music-therapy.md)
+- [autism-spectrum-disorder](../tags/autism-spectrum-disorder.md)
+- [meta-analysis](../tags/meta-analysis.md)
+- [neural-connectivity](../tags/neural-connectivity.md)
+- [brain-plasticity](../tags/brain-plasticity.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[meta-analysis]]
+- [meta-analysis](meta-analysis.md)
 
 ## See Also
 
-- [[../topics/autism-spectrum-disorder]]
-- [[../topics/brain-plasticity]]
-- [[../topics/meta-analysis]]
-- [[../topics/music-therapy]]
+- [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)
+- [brain-plasticity](../topics/brain-plasticity.md)
+- [meta-analysis](../topics/meta-analysis.md)
+- [music-therapy](../topics/music-therapy.md)

@@ -24,26 +24,26 @@ This chapter from 'Excellence in Dementia Care' explores the importance of incor
 
 ## Key Concepts
 
-- [[../topics/person-centered care]]
-- [[../topics/reminiscence therapy]]
-- [[../topics/Kitwood's equation]]
+- [person-centered care](../topics/person-centered care.md)
+- [reminiscence therapy](../topics/reminiscence therapy.md)
+- [Kitwood's equation](../topics/Kitwood's equation.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/person-centered-care]]
-- [[../tags/life-history]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [person-centered-care](../tags/person-centered-care.md)
+- [life-history](../tags/life-history.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[reminiscence therapy]]
-- [[life-story creation]]
-- [[oral history recording]]
-- [[life review]]
+- [reminiscence therapy](reminiscence therapy.md)
+- [life-story creation](life-story creation.md)
+- [oral history recording](oral history recording.md)
+- [life review](life review.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/life-history]]
-- [[../topics/person-centered-care]]
+- [dementia-care](../topics/dementia-care.md)
+- [life-history](../topics/life-history.md)
+- [person-centered-care](../topics/person-centered-care.md)

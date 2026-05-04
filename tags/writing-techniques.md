@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Writing Techniques
 
-- [[../sources/fxa202-week09-journaling-books-review|Journaling Books Review]]
+- [Journaling Books Review](../sources/fxa202-week09-journaling-books-review.md)

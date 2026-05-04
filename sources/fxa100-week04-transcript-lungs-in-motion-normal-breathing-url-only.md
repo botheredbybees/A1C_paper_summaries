@@ -24,15 +24,15 @@ This brief YouTube video titled 'Lungs in Motion - Normal Breathing' does not co
 
 ## Key Concepts
 
-- [[../topics/normal breathing]]
-- [[../topics/pulmonary ventilation]]
+- [normal breathing](../topics/normal breathing.md)
+- [pulmonary ventilation](../topics/pulmonary ventilation.md)
 
 ## Tags
 
-- [[../tags/respiratory-system]]
-- [[../tags/breathing-mechanics]]
-- [[../tags/lung-function]]
-- [[../tags/fxa100]]
+- [respiratory-system](../tags/respiratory-system.md)
+- [breathing-mechanics](../tags/breathing-mechanics.md)
+- [lung-function](../tags/lung-function.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

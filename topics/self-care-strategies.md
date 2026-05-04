@@ -25,5 +25,5 @@ The sources explore different self-care strategies that individuals can adopt to
 
 ## Sources
 
-- [[../sources/fxa100-creativity-and-communication-ch13-23-making-space-for-your-own-creativity-making-space-for]]
-- [[../sources/fxa303-week05-puppets-and-self-care-for-task-2]]
+- [fxa100-creativity-and-communication-ch13-23-making-space-for-your-own-creativity-making-space-for](../sources/fxa100-creativity-and-communication-ch13-23-making-space-for-your-own-creativity-making-space-for.md)
+- [fxa303-week05-puppets-and-self-care-for-task-2](../sources/fxa303-week05-puppets-and-self-care-for-task-2.md)

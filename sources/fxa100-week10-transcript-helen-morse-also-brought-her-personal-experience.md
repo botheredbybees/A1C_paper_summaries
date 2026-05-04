@@ -24,17 +24,17 @@ The transcript details Helen Morse's personal and professional journey involving
 
 ## Key Concepts
 
-- [[../topics/change-in-person]]
-- [[../topics/resilience-and-humor]]
-- [[../topics/multidisciplinary-collaboration]]
+- [change-in-person](../topics/change-in-person.md)
+- [resilience-and-humor](../topics/resilience-and-humor.md)
+- [multidisciplinary-collaboration](../topics/multidisciplinary-collaboration.md)
 
 ## Tags
 
-- [[../tags/drama]]
-- [[../tags/dementia-awareness]]
-- [[../tags/holistic-representation]]
-- [[../tags/family-care]]
-- [[../tags/fxa100]]
+- [drama](../tags/drama.md)
+- [dementia-awareness](../tags/dementia-awareness.md)
+- [holistic-representation](../tags/holistic-representation.md)
+- [family-care](../tags/family-care.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

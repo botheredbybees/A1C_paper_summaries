@@ -24,20 +24,20 @@ The chapter explores the potential of emerging technologies to transform aged ca
 
 ## Key Concepts
 
-- [[../topics/artificial-intelligence]]
-- [[../topics/quality-of-life]]
-- [[../topics/privacy-autonomy]]
+- [artificial-intelligence](../topics/artificial-intelligence.md)
+- [quality-of-life](../topics/quality-of-life.md)
+- [privacy-autonomy](../topics/privacy-autonomy.md)
 
 ## Tags
 
-- [[../tags/aged-care-technology]]
-- [[../tags/smart-homes]]
-- [[../tags/ethical-concerns]]
-- [[../tags/fxa202]]
+- [aged-care-technology](../tags/aged-care-technology.md)
+- [smart-homes](../tags/smart-homes.md)
+- [ethical-concerns](../tags/ethical-concerns.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 

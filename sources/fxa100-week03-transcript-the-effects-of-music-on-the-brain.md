@@ -24,15 +24,15 @@ Oliver Sacks, a neurologist and writer, explores how the brain reacts to music t
 
 ## Key Concepts
 
-- [[../topics/amygdala]]
-- [[../topics/musical-preference]]
+- [amygdala](../topics/amygdala.md)
+- [musical-preference](../topics/musical-preference.md)
 
 ## Tags
 
-- [[../tags/brain-function]]
-- [[../tags/neurology]]
-- [[../tags/music-psychology]]
-- [[../tags/fxa100]]
+- [brain-function](../tags/brain-function.md)
+- [neurology](../tags/neurology.md)
+- [music-psychology](../tags/music-psychology.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -40,6 +40,6 @@ Oliver Sacks, a neurologist and writer, explores how the brain reacts to music t
 
 ## See Also
 
-- [[../topics/brain-function]]
-- [[../topics/music-psychology]]
-- [[../topics/neurology]]
+- [brain-function](../topics/brain-function.md)
+- [music-psychology](../topics/music-psychology.md)
+- [neurology](../topics/neurology.md)

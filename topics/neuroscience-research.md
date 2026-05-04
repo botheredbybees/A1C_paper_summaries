@@ -27,6 +27,6 @@ The integration of music and movement interventions into neuroscience research r
 
 ## Sources
 
-- [[../sources/fxa100-week02-are-the-brains-of-musicians-physically-different]]
-- [[../sources/fxa100-week04-music-as-therapy-and-health-promotion]]
-- [[../sources/fxa301-week03-transcript-youtube-5utv1ergbs8]]
+- [fxa100-week02-are-the-brains-of-musicians-physically-different](../sources/fxa100-week02-are-the-brains-of-musicians-physically-different.md)
+- [fxa100-week04-music-as-therapy-and-health-promotion](../sources/fxa100-week04-music-as-therapy-and-health-promotion.md)
+- [fxa301-week03-transcript-youtube-5utv1ergbs8](../sources/fxa301-week03-transcript-youtube-5utv1ergbs8.md)

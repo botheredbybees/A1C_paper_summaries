@@ -25,5 +25,5 @@ Both sources emphasize the importance of writing as an intervention for emotiona
 
 ## Sources
 
-- [[../sources/fxa202-week09-guide-to-journaling]]
-- [[../sources/fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the]]
+- [fxa202-week09-guide-to-journaling](../sources/fxa202-week09-guide-to-journaling.md)
+- [fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the](../sources/fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the.md)

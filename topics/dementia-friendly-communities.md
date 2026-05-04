@@ -26,5 +26,5 @@ The concept of dementia-friendly communities emphasizes the creation of environm
 
 ## Sources
 
-- [[../sources/fxa100-excellence-in-dementia-care--ch33-1-place-covers-the-person]]
-- [[../sources/fxa100-excellence-in-dementia-care--ch35-1-understand-that-any-business]]
+- [fxa100-excellence-in-dementia-care--ch33-1-place-covers-the-person](../sources/fxa100-excellence-in-dementia-care--ch33-1-place-covers-the-person.md)
+- [fxa100-excellence-in-dementia-care--ch35-1-understand-that-any-business](../sources/fxa100-excellence-in-dementia-care--ch35-1-understand-that-any-business.md)

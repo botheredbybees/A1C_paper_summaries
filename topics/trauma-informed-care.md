@@ -28,7 +28,7 @@ The concept of Trauma-Informed Care (TIC) is a significant intervention aimed at
 
 ## Sources
 
-- [[../sources/fxa303-week09-recovery-oriented-language-guide]]
-- [[../sources/fxa303-week09-the-trauma-informed-care-and-practice-organisational]]
-- [[../sources/fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit]]
-- [[../sources/fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies]]
+- [fxa303-week09-recovery-oriented-language-guide](../sources/fxa303-week09-recovery-oriented-language-guide.md)
+- [fxa303-week09-the-trauma-informed-care-and-practice-organisational](../sources/fxa303-week09-the-trauma-informed-care-and-practice-organisational.md)
+- [fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit](../sources/fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit.md)
+- [fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies](../sources/fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies.md)

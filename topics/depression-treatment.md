@@ -26,6 +26,6 @@ The synthesis integrates findings from three sources focusing on the use of arti
 
 ## Sources
 
-- [[../sources/fxa100-week03-music-therapy-for-depression-it-seems-to-work-but-how]]
-- [[../sources/fxa100-week04-the-day-the-music-died]]
-- [[../sources/fxa202-week03-can-photography-help-depression]]
+- [fxa100-week03-music-therapy-for-depression-it-seems-to-work-but-how](../sources/fxa100-week03-music-therapy-for-depression-it-seems-to-work-but-how.md)
+- [fxa100-week04-the-day-the-music-died](../sources/fxa100-week04-the-day-the-music-died.md)
+- [fxa202-week03-can-photography-help-depression](../sources/fxa202-week03-can-photography-help-depression.md)

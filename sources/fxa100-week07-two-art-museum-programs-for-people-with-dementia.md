@@ -24,22 +24,22 @@ The article discusses two pioneering art museum programs designed for individual
 
 ## Key Concepts
 
-- [[../topics/self-expression]]
-- [[../topics/intellectual-engagement]]
-- [[../topics/quality-of-life]]
+- [self-expression](../topics/self-expression.md)
+- [intellectual-engagement](../topics/intellectual-engagement.md)
+- [quality-of-life](../topics/quality-of-life.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/art-museum-programs]]
-- [[../tags/social-engagement]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [art-museum-programs](../tags/art-museum-programs.md)
+- [social-engagement](../tags/social-engagement.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/social-engagement]]
+- [dementia-care](../topics/dementia-care.md)
+- [social-engagement](../topics/social-engagement.md)

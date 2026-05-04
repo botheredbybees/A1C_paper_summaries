@@ -34,13 +34,13 @@ The synthesis of the provided sources highlights various interventions aimed at 
 
 ## Sources
 
-- [[../sources/fxa100-week04-engaging-in-community-music-an-introduction]]
-- [[../sources/fxa100-week04-guidelines-for-arts-and-mental-health-projects]]
-- [[../sources/fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the]]
-- [[../sources/fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales]]
-- [[../sources/fxa100-week07-arts-engagement-for-people-with-dementia-independent]]
-- [[../sources/fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery]]
-- [[../sources/fxa100-week08-unlocking-the-door-to-being-there-the-contribution-of]]
-- [[../sources/fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2]]
-- [[../sources/fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings]]
-- [[../sources/fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions]]
+- [fxa100-week04-engaging-in-community-music-an-introduction](../sources/fxa100-week04-engaging-in-community-music-an-introduction.md)
+- [fxa100-week04-guidelines-for-arts-and-mental-health-projects](../sources/fxa100-week04-guidelines-for-arts-and-mental-health-projects.md)
+- [fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the](../sources/fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the.md)
+- [fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales](../sources/fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales.md)
+- [fxa100-week07-arts-engagement-for-people-with-dementia-independent](../sources/fxa100-week07-arts-engagement-for-people-with-dementia-independent.md)
+- [fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery](../sources/fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery.md)
+- [fxa100-week08-unlocking-the-door-to-being-there-the-contribution-of](../sources/fxa100-week08-unlocking-the-door-to-being-there-the-contribution-of.md)
+- [fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2](../sources/fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2.md)
+- [fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings](../sources/fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings.md)
+- [fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions](../sources/fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions.md)

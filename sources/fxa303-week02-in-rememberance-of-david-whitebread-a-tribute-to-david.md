@@ -24,24 +24,24 @@ This article is a tribute to David Whitebread, an esteemed researcher and educat
 
 ## Key Concepts
 
-- [[../topics/self-regulation]]
-- [[../topics/play-based-learning]]
+- [self-regulation](../topics/self-regulation.md)
+- [play-based-learning](../topics/play-based-learning.md)
 
 ## Tags
 
-- [[../tags/child-development]]
-- [[../tags/educational-research]]
-- [[../tags/play-therapy]]
-- [[../tags/early-childhood-education]]
-- [[../tags/pedagogy]]
-- [[../tags/fxa303]]
+- [child-development](../tags/child-development.md)
+- [educational-research](../tags/educational-research.md)
+- [play-therapy](../tags/play-therapy.md)
+- [early-childhood-education](../tags/early-childhood-education.md)
+- [pedagogy](../tags/pedagogy.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/child-development]]
-- [[../topics/early-childhood-education]]
-- [[../topics/play-therapy]]
+- [child-development](../topics/child-development.md)
+- [early-childhood-education](../topics/early-childhood-education.md)
+- [play-therapy](../topics/play-therapy.md)

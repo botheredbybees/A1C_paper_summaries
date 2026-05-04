@@ -26,5 +26,5 @@ The integration of music in health interventions highlights its therapeutic pote
 
 ## Sources
 
-- [[../sources/fxa100-week04-what-is-music-health-and-wellbeing]]
-- [[../sources/fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental]]
+- [fxa100-week04-what-is-music-health-and-wellbeing](../sources/fxa100-week04-what-is-music-health-and-wellbeing.md)
+- [fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental](../sources/fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental.md)

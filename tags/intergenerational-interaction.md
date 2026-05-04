@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Intergenerational Interaction
 
-- [[../sources/fxa100-week04-intergenerational-choir-transcript|Intergenerational Choir Transcript]]
+- [Intergenerational Choir Transcript](../sources/fxa100-week04-intergenerational-choir-transcript.md)

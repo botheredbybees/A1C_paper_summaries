@@ -27,6 +27,6 @@ The sources highlight various storytelling techniques that utilize different for
 
 ## Sources
 
-- [[../sources/fxa202-week05-week-5-introduction-to-storytelling]]
-- [[../sources/fxa202-week05-where-do-you-get-your-ideas]]
-- [[../sources/fxa202-week09-fxa202-week-9-web-lecture-the-photo-essay-storytelling-with]]
+- [fxa202-week05-week-5-introduction-to-storytelling](../sources/fxa202-week05-week-5-introduction-to-storytelling.md)
+- [fxa202-week05-where-do-you-get-your-ideas](../sources/fxa202-week05-where-do-you-get-your-ideas.md)
+- [fxa202-week09-fxa202-week-9-web-lecture-the-photo-essay-storytelling-with](../sources/fxa202-week09-fxa202-week-9-web-lecture-the-photo-essay-storytelling-with.md)

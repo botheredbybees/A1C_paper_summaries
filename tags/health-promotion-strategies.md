@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Health Promotion Strategies
 
-- [[../sources/fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6|The means to flourish: arts in community health and education]]
+- [The means to flourish: arts in community health and education](../sources/fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6.md)

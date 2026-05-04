@@ -28,29 +28,29 @@ Additionally, the study emphasizes the shift in policy towards social prescribin
 
 ## Key Concepts
 
-- [[../topics/mental wellbeing]]
-- [[../topics/resilience]]
-- [[../topics/structured group arts activities]]
+- [mental wellbeing](../topics/mental wellbeing.md)
+- [resilience](../topics/resilience.md)
+- [structured group arts activities](../topics/structured group arts activities.md)
 
 ## Tags
 
-- [[../tags/arts-therapy]]
-- [[../tags/mental-wellbeing]]
-- [[../tags/resilience-building]]
-- [[../tags/youth-development]]
-- [[../tags/community-interventions]]
-- [[../tags/social-prescribing]]
-- [[../tags/fxa301]]
+- [arts-therapy](../tags/arts-therapy.md)
+- [mental-wellbeing](../tags/mental-wellbeing.md)
+- [resilience-building](../tags/resilience-building.md)
+- [youth-development](../tags/youth-development.md)
+- [community-interventions](../tags/community-interventions.md)
+- [social-prescribing](../tags/social-prescribing.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[rapid review]]
+- [rapid review](rapid review.md)
 
 ## See Also
 
-- [[../topics/arts-therapy]]
-- [[../topics/community-interventions]]
-- [[../topics/mental-wellbeing]]
-- [[../topics/resilience-building]]
-- [[../topics/social-prescribing]]
-- [[../topics/youth-development]]
+- [arts-therapy](../topics/arts-therapy.md)
+- [community-interventions](../topics/community-interventions.md)
+- [mental-wellbeing](../topics/mental-wellbeing.md)
+- [resilience-building](../topics/resilience-building.md)
+- [social-prescribing](../topics/social-prescribing.md)
+- [youth-development](../topics/youth-development.md)

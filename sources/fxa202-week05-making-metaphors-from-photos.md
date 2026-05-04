@@ -28,22 +28,22 @@ In his later work, Lyons focuses on urban wall writings and posters, which he in
 
 ## Key Concepts
 
-- [[../topics/diptychs]]
-- [[../topics/contextual-symbolism]]
-- [[../topics/narrative-through-images]]
+- [diptychs](../topics/diptychs.md)
+- [contextual-symbolism](../topics/contextual-symbolism.md)
+- [narrative-through-images](../topics/narrative-through-images.md)
 
 ## Tags
 
-- [[../tags/visual-communication]]
-- [[../tags/metaphorical-imaging]]
-- [[../tags/photographic-studies]]
-- [[../tags/educational-methods]]
-- [[../tags/fxa202]]
+- [visual-communication](../tags/visual-communication.md)
+- [metaphorical-imaging](../tags/metaphorical-imaging.md)
+- [photographic-studies](../tags/photographic-studies.md)
+- [educational-methods](../tags/educational-methods.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/visual-communication]]
+- [visual-communication](../topics/visual-communication.md)

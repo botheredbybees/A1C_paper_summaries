@@ -26,5 +26,5 @@ The integration of artistic and scientific methodologies in the study of human c
 
 ## Sources
 
-- [[../sources/fxa100-how-we-thnk-about-dementia-ch13-chapter-13]]
-- [[../sources/fxa301-week05-transcript-aprof-anne-marie-forbes-interview-with-dr]]
+- [fxa100-how-we-thnk-about-dementia-ch13-chapter-13](../sources/fxa100-how-we-thnk-about-dementia-ch13-chapter-13.md)
+- [fxa301-week05-transcript-aprof-anne-marie-forbes-interview-with-dr](../sources/fxa301-week05-transcript-aprof-anne-marie-forbes-interview-with-dr.md)

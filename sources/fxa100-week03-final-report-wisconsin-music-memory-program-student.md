@@ -24,24 +24,24 @@ The document presents a final report on the 'Wisconsin Music & Memory Program â€
 
 ## Key Concepts
 
-- [[../topics/personalized-music-therapy]]
-- [[../topics/dementia-awareness]]
-- [[../topics/intergenerational-programming]]
+- [personalized-music-therapy](../topics/personalized-music-therapy.md)
+- [dementia-awareness](../topics/dementia-awareness.md)
+- [intergenerational-programming](../topics/intergenerational-programming.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/dementia-care]]
-- [[../tags/student-volunteers]]
-- [[../tags/nursing-homes]]
-- [[../tags/fxa100]]
+- [music-therapy](../tags/music-therapy.md)
+- [dementia-care](../tags/dementia-care.md)
+- [student-volunteers](../tags/student-volunteers.md)
+- [nursing-homes](../tags/nursing-homes.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[program-evaluation]]
+- [program-evaluation](program-evaluation.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/music-therapy]]
-- [[../topics/nursing-homes]]
+- [dementia-care](../topics/dementia-care.md)
+- [music-therapy](../topics/music-therapy.md)
+- [nursing-homes](../topics/nursing-homes.md)

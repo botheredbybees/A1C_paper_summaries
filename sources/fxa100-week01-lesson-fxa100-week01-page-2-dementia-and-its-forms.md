@@ -24,17 +24,17 @@ This lesson introduces students to the concept of dementia, its symptoms, progre
 
 ## Key Concepts
 
-- [[../topics/Alzheimer's disease]]
-- [[../topics/vascular dementia]]
-- [[../topics/Lewy body dementia]]
-- [[../topics/frontotemporal dementia]]
+- [Alzheimer's disease](../topics/Alzheimer's disease.md)
+- [vascular dementia](../topics/vascular dementia.md)
+- [Lewy body dementia](../topics/Lewy body dementia.md)
+- [frontotemporal dementia](../topics/frontotemporal dementia.md)
 
 ## Tags
 
-- [[../tags/dementia]]
-- [[../tags/neurodegenerative-diseases]]
-- [[../tags/cognitive-disorders]]
-- [[../tags/fxa100]]
+- [dementia](../tags/dementia.md)
+- [neurodegenerative-diseases](../tags/neurodegenerative-diseases.md)
+- [cognitive-disorders](../tags/cognitive-disorders.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -42,6 +42,6 @@ This lesson introduces students to the concept of dementia, its symptoms, progre
 
 ## See Also
 
-- [[../topics/cognitive-disorders]]
-- [[../topics/dementia]]
-- [[../topics/neurodegenerative-diseases]]
+- [cognitive-disorders](../topics/cognitive-disorders.md)
+- [dementia](../topics/dementia.md)
+- [neurodegenerative-diseases](../topics/neurodegenerative-diseases.md)

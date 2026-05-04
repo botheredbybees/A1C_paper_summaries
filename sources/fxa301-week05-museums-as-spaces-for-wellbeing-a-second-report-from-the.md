@@ -24,25 +24,25 @@ The report 'Museums as Spaces for Wellbeing' by Desmarais et al. (2018) explores
 
 ## Key Concepts
 
-- [[../topics/co-creation methods]]
-- [[../topics/holistic healthcare approaches]]
-- [[../topics/green wellbeing initiatives]]
+- [co-creation methods](../topics/co-creation methods.md)
+- [holistic healthcare approaches](../topics/holistic healthcare approaches.md)
+- [green wellbeing initiatives](../topics/green wellbeing initiatives.md)
 
 ## Tags
 
-- [[../tags/museum-education]]
-- [[../tags/public-health-interventions]]
-- [[../tags/community-wellbeing]]
-- [[../tags/healthcare-collaboration]]
-- [[../tags/wellness-initiatives]]
-- [[../tags/fxa301]]
+- [museum-education](../tags/museum-education.md)
+- [public-health-interventions](../tags/public-health-interventions.md)
+- [community-wellbeing](../tags/community-wellbeing.md)
+- [healthcare-collaboration](../tags/healthcare-collaboration.md)
+- [wellness-initiatives](../tags/wellness-initiatives.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/community-wellbeing]]
-- [[../topics/museum-education]]
-- [[../topics/public-health-interventions]]
+- [community-wellbeing](../topics/community-wellbeing.md)
+- [museum-education](../topics/museum-education.md)
+- [public-health-interventions](../topics/public-health-interventions.md)

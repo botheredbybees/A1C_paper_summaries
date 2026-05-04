@@ -28,26 +28,26 @@ The report underscores the importance of adopting music engagement programs as a
 
 ## Key Concepts
 
-- [[../topics/activities-of-daily-living]]
-- [[../topics/monetization-pathways]]
-- [[../topics/economic-benefits]]
+- [activities-of-daily-living](../topics/activities-of-daily-living.md)
+- [monetization-pathways](../topics/monetization-pathways.md)
+- [economic-benefits](../topics/economic-benefits.md)
 
 ## Tags
 
-- [[../tags/alzheimers-disease]]
-- [[../tags/music-therapy]]
-- [[../tags/economic-analysis]]
-- [[../tags/caregiver-support]]
-- [[../tags/quality-of-life]]
-- [[../tags/fxa100]]
+- [alzheimers-disease](../tags/alzheimers-disease.md)
+- [music-therapy](../tags/music-therapy.md)
+- [economic-analysis](../tags/economic-analysis.md)
+- [caregiver-support](../tags/caregiver-support.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/alzheimers-disease]]
-- [[../topics/caregiver-support]]
-- [[../topics/music-therapy]]
-- [[../topics/quality-of-life]]
+- [alzheimers-disease](../topics/alzheimers-disease.md)
+- [caregiver-support](../topics/caregiver-support.md)
+- [music-therapy](../topics/music-therapy.md)
+- [quality-of-life](../topics/quality-of-life.md)

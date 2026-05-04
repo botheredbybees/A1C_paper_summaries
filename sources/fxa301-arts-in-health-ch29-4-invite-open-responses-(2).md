@@ -24,15 +24,15 @@ This chapter outlines strategies for conducting research related to arts in heal
 
 ## Key Concepts
 
-- [[../topics/descriptive-statistics]]
-- [[../topics/thematic-analysis]]
+- [descriptive-statistics](../topics/descriptive-statistics.md)
+- [thematic-analysis](../topics/thematic-analysis.md)
 
 ## Tags
 
-- [[../tags/arts-in-health]]
-- [[../tags/healthcare-research-methods]]
-- [[../tags/problem-tree-analysis]]
-- [[../tags/fxa301]]
+- [arts-in-health](../tags/arts-in-health.md)
+- [healthcare-research-methods](../tags/healthcare-research-methods.md)
+- [problem-tree-analysis](../tags/problem-tree-analysis.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ This chapter outlines strategies for conducting research related to arts in heal
 
 ## See Also
 
-- [[../topics/arts-in-health]]
+- [arts-in-health](../topics/arts-in-health.md)

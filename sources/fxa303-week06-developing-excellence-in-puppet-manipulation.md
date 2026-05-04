@@ -24,25 +24,25 @@ The document 'Developing Excellence in Puppet Manipulation' by Steve Axtell, pub
 
 ## Key Concepts
 
-- [[../topics/eye-contact]]
-- [[../topics/head-movements]]
-- [[../topics/mouth-synchronization]]
-- [[../topics/body-language]]
-- [[../topics/emotional-expression]]
+- [eye-contact](../topics/eye-contact.md)
+- [head-movements](../topics/head-movements.md)
+- [mouth-synchronization](../topics/mouth-synchronization.md)
+- [body-language](../topics/body-language.md)
+- [emotional-expression](../topics/emotional-expression.md)
 
 ## Tags
 
-- [[../tags/puppet-manipulation]]
-- [[../tags/performance-skills]]
-- [[../tags/non-verbal-communication]]
-- [[../tags/theater-techniques]]
-- [[../tags/training-materials]]
-- [[../tags/fxa303]]
+- [puppet-manipulation](../tags/puppet-manipulation.md)
+- [performance-skills](../tags/performance-skills.md)
+- [non-verbal-communication](../tags/non-verbal-communication.md)
+- [theater-techniques](../tags/theater-techniques.md)
+- [training-materials](../tags/training-materials.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[practice-exercises]]
+- [practice-exercises](practice-exercises.md)
 
 ## See Also
 
-- [[../topics/non-verbal-communication]]
+- [non-verbal-communication](../topics/non-verbal-communication.md)

@@ -30,9 +30,9 @@ Ethnomusicology encompasses a broad spectrum of research and practice methodolog
 
 ## Sources
 
-- [[../sources/fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts]]
-- [[../sources/fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts-(2)]]
-- [[../sources/fxa301-make-arts-for-a-better-life-ch05-1-read-your-(2)]]
-- [[../sources/fxa301-make-arts-for-a-better-life-ch06-1-see-also-closing]]
-- [[../sources/fxa301-make-arts-for-a-better-life-ch42-156-oxford]]
-- [[../sources/fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2)]]
+- [fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts](../sources/fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts.md)
+- [fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts-(2)](../sources/fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts-(2).md)
+- [fxa301-make-arts-for-a-better-life-ch05-1-read-your-(2)](../sources/fxa301-make-arts-for-a-better-life-ch05-1-read-your-(2).md)
+- [fxa301-make-arts-for-a-better-life-ch06-1-see-also-closing](../sources/fxa301-make-arts-for-a-better-life-ch06-1-see-also-closing.md)
+- [fxa301-make-arts-for-a-better-life-ch42-156-oxford](../sources/fxa301-make-arts-for-a-better-life-ch42-156-oxford.md)
+- [fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2)](../sources/fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2).md)

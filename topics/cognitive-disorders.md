@@ -26,5 +26,5 @@ The exploration of cognitive disorders involves understanding various forms such
 
 ## Sources
 
-- [[../sources/fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms]]
-- [[../sources/fxa100-week02-brain-networking-among-musicians]]
+- [fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms](../sources/fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms.md)
+- [fxa100-week02-brain-networking-among-musicians](../sources/fxa100-week02-brain-networking-among-musicians.md)

@@ -24,26 +24,26 @@ The book 'Engaging in Community Music: An Introduction' by Lee Higgins and Lee W
 
 ## Key Concepts
 
-- [[../topics/life-long-learning]]
-- [[../topics/empathy-building]]
-- [[../topics/social-wellbeing]]
+- [life-long-learning](../topics/life-long-learning.md)
+- [empathy-building](../topics/empathy-building.md)
+- [social-wellbeing](../topics/social-wellbeing.md)
 
 ## Tags
 
-- [[../tags/community-music]]
-- [[../tags/social-inclusion]]
-- [[../tags/music-education]]
-- [[../tags/wellbeing-through-music]]
-- [[../tags/intercultural-music]]
-- [[../tags/fxa100]]
+- [community-music](../tags/community-music.md)
+- [social-inclusion](../tags/social-inclusion.md)
+- [music-education](../tags/music-education.md)
+- [wellbeing-through-music](../tags/wellbeing-through-music.md)
+- [intercultural-music](../tags/intercultural-music.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
-- [[interviews]]
+- [case-study](case-study.md)
+- [interviews](interviews.md)
 
 ## See Also
 
-- [[../topics/community-music]]
-- [[../topics/music-education]]
-- [[../topics/social-inclusion]]
+- [community-music](../topics/community-music.md)
+- [music-education](../topics/music-education.md)
+- [social-inclusion](../topics/social-inclusion.md)

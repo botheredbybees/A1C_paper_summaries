@@ -26,5 +26,5 @@ The integration of museum settings and programs for individuals with dementia hi
 
 ## Sources
 
-- [[../sources/fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum]]
-- [[../sources/fxa100-week07-turning-back-the-hands-of-time-autobiographical-memories-in]]
+- [fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum](../sources/fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum.md)
+- [fxa100-week07-turning-back-the-hands-of-time-autobiographical-memories-in](../sources/fxa100-week07-turning-back-the-hands-of-time-autobiographical-memories-in.md)

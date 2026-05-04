@@ -28,5 +28,5 @@ In contrast, Source 2 focuses on the psychological benefits derived from using p
 
 ## Sources
 
-- [[../sources/fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care]]
-- [[../sources/fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy]]
+- [fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care](../sources/fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care.md)
+- [fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy](../sources/fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy.md)

@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Child Adolescent Psychology
 
-- [[../sources/fxa303-week09-effectiveness-of-creative-arts-based-interventions-for|Effectiveness of Creative Arts-Based Interventions for Treating Children and Adolescents Exposed to Traumatic Events: A Systematic Review of the Quantitative Evidence and Meta-Analysis]]
+- [Effectiveness of Creative Arts-Based Interventions for Treating Children and Adolescents Exposed to Traumatic Events: A Systematic Review of the Quantitative Evidence and Meta-Analysis](../sources/fxa303-week09-effectiveness-of-creative-arts-based-interventions-for.md)

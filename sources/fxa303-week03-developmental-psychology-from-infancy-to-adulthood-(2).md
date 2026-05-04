@@ -24,20 +24,20 @@ This document is the front matter of 'Developmental Psychology: From Infancy to 
 
 ## Key Concepts
 
-- [[../topics/Freud's psychoanalytic theory]]
-- [[../topics/Piaget's cognitive theory]]
-- [[../topics/Bronfenbrenner’s ecological theory]]
+- [Freud's psychoanalytic theory](../topics/Freud's psychoanalytic theory.md)
+- [Piaget's cognitive theory](../topics/Piaget's cognitive theory.md)
+- [Bronfenbrenner’s ecological theory](../topics/Bronfenbrenner’s ecological theory.md)
 
 ## Tags
 
-- [[../tags/infancy-development]]
-- [[../tags/adulthood-psychology]]
-- [[../tags/cognitive-theories]]
-- [[../tags/fxa303]]
+- [infancy-development](../tags/infancy-development.md)
+- [adulthood-psychology](../tags/adulthood-psychology.md)
+- [cognitive-theories](../tags/cognitive-theories.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 

@@ -24,21 +24,21 @@ The article 'Accessing the Inaccessible: Redefining Play as a Spectrum' by Jenni
 
 ## Key Concepts
 
-- [[../topics/spectrum-of-play]]
-- [[../topics/free-guided-play-duality]]
+- [spectrum-of-play](../topics/spectrum-of-play.md)
+- [free-guided-play-duality](../topics/free-guided-play-duality.md)
 
 ## Tags
 
-- [[../tags/play-spectrum]]
-- [[../tags/educational-psychology]]
-- [[../tags/child-development]]
-- [[../tags/fxa303]]
+- [play-spectrum](../tags/play-spectrum.md)
+- [educational-psychology](../tags/educational-psychology.md)
+- [child-development](../tags/child-development.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[conceptual-framework]]
+- [conceptual-framework](conceptual-framework.md)
 
 ## See Also
 
-- [[../topics/child-development]]
-- [[../topics/educational-psychology]]
+- [child-development](../topics/child-development.md)
+- [educational-psychology](../topics/educational-psychology.md)

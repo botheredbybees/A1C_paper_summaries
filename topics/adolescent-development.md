@@ -36,15 +36,15 @@ The integration of arts in adolescent development showcases a multifaceted appro
 
 ## Sources
 
-- [[../sources/fxa100-week04-intergenerational-choir-transcript]]
-- [[../sources/fxa301-week03-music-listening-for-supporting-adolescents-sense-of-agency]]
-- [[../sources/fxa301-week08-school-based-drama-interventions-in-health-promotion-for]]
-- [[../sources/fxa303-week02-lesson-fxa303-week02-introduction-copy]]
-- [[../sources/fxa303-week03-adolescent-development]]
-- [[../sources/fxa303-week03-adolescent-neurodevelopment]]
-- [[../sources/fxa303-week03-arts-in-adolescence]]
-- [[../sources/fxa303-week03-fxa303-week-3-introduction]]
-- [[../sources/fxa303-week03-hormones-and-the-adolescent-brain]]
-- [[../sources/fxa303-week03-music-listening-motivation-is-associated-with-global]]
-- [[../sources/fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than]]
-- [[../sources/fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental]]
+- [fxa100-week04-intergenerational-choir-transcript](../sources/fxa100-week04-intergenerational-choir-transcript.md)
+- [fxa301-week03-music-listening-for-supporting-adolescents-sense-of-agency](../sources/fxa301-week03-music-listening-for-supporting-adolescents-sense-of-agency.md)
+- [fxa301-week08-school-based-drama-interventions-in-health-promotion-for](../sources/fxa301-week08-school-based-drama-interventions-in-health-promotion-for.md)
+- [fxa303-week02-lesson-fxa303-week02-introduction-copy](../sources/fxa303-week02-lesson-fxa303-week02-introduction-copy.md)
+- [fxa303-week03-adolescent-development](../sources/fxa303-week03-adolescent-development.md)
+- [fxa303-week03-adolescent-neurodevelopment](../sources/fxa303-week03-adolescent-neurodevelopment.md)
+- [fxa303-week03-arts-in-adolescence](../sources/fxa303-week03-arts-in-adolescence.md)
+- [fxa303-week03-fxa303-week-3-introduction](../sources/fxa303-week03-fxa303-week-3-introduction.md)
+- [fxa303-week03-hormones-and-the-adolescent-brain](../sources/fxa303-week03-hormones-and-the-adolescent-brain.md)
+- [fxa303-week03-music-listening-motivation-is-associated-with-global](../sources/fxa303-week03-music-listening-motivation-is-associated-with-global.md)
+- [fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than](../sources/fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than.md)
+- [fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental](../sources/fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental.md)

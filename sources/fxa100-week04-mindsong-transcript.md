@@ -28,27 +28,27 @@ The relevance to creative arts and health lies in demonstrating how therapeutic 
 
 ## Key Concepts
 
-- [[../topics/music therapy]]
-- [[../topics/emotional re-engagement]]
-- [[../topics/therapeutic interventions]]
+- [music therapy](../topics/music therapy.md)
+- [emotional re-engagement](../topics/emotional re-engagement.md)
+- [therapeutic interventions](../topics/therapeutic interventions.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/music-therapy]]
-- [[../tags/arts-in-healthcare]]
-- [[../tags/quality-of-life]]
-- [[../tags/creative-interventions]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [music-therapy](../tags/music-therapy.md)
+- [arts-in-healthcare](../tags/arts-in-healthcare.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [creative-interventions](../tags/creative-interventions.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/arts-in-healthcare]]
-- [[../topics/creative-interventions]]
-- [[../topics/dementia-care]]
-- [[../topics/music-therapy]]
-- [[../topics/quality-of-life]]
+- [arts-in-healthcare](../topics/arts-in-healthcare.md)
+- [creative-interventions](../topics/creative-interventions.md)
+- [dementia-care](../topics/dementia-care.md)
+- [music-therapy](../topics/music-therapy.md)
+- [quality-of-life](../topics/quality-of-life.md)

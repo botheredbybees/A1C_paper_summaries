@@ -24,21 +24,21 @@ This document, titled 'Research Overview: Arts and Disability in Australia,' pro
 
 ## Key Concepts
 
-- [[../topics/underrepresentation-of-artists-with-disabilities]]
-- [[../topics/recreational-participation-in-the-arts]]
-- [[../topics/negative-attitudes-and-barriers]]
+- [underrepresentation-of-artists-with-disabilities](../topics/underrepresentation-of-artists-with-disabilities.md)
+- [recreational-participation-in-the-arts](../topics/recreational-participation-in-the-arts.md)
+- [negative-attitudes-and-barriers](../topics/negative-attitudes-and-barriers.md)
 
 ## Tags
 
-- [[../tags/arts-and-disability]]
-- [[../tags/aboriginal-people]]
-- [[../tags/accessibility-studies]]
-- [[../tags/fxa301]]
+- [arts-and-disability](../tags/arts-and-disability.md)
+- [aboriginal-people](../tags/aboriginal-people.md)
+- [accessibility-studies](../tags/accessibility-studies.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/arts-and-disability]]
+- [arts-and-disability](../topics/arts-and-disability.md)

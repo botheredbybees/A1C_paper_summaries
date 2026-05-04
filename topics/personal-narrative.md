@@ -28,7 +28,7 @@ The synthesis of the provided sources highlights a thematic convergence on the u
 
 ## Sources
 
-- [[../sources/fxa202-week09-healing-through-art-and-music]]
-- [[../sources/fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health]]
-- [[../sources/fxa202-week09-the-largs-pier-a-visual-story-of-grief-and-healing]]
-- [[../sources/fxa202-week09-you-are-the-best-dancer]]
+- [fxa202-week09-healing-through-art-and-music](../sources/fxa202-week09-healing-through-art-and-music.md)
+- [fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health](../sources/fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health.md)
+- [fxa202-week09-the-largs-pier-a-visual-story-of-grief-and-healing](../sources/fxa202-week09-the-largs-pier-a-visual-story-of-grief-and-healing.md)
+- [fxa202-week09-you-are-the-best-dancer](../sources/fxa202-week09-you-are-the-best-dancer.md)

@@ -24,20 +24,20 @@ The document is a collection of activity sheets developed by Arts on Prescriptio
 
 ## Key Concepts
 
-- [[../topics/historical-record]]
-- [[../topics/mental-wellbeing]]
+- [historical-record](../topics/historical-record.md)
+- [mental-wellbeing](../topics/mental-wellbeing.md)
 
 ## Tags
 
-- [[../tags/creative-arts]]
-- [[../tags/community-engagement]]
-- [[../tags/lockdown-experience]]
-- [[../tags/fxa303]]
+- [creative-arts](../tags/creative-arts.md)
+- [community-engagement](../tags/community-engagement.md)
+- [lockdown-experience](../tags/lockdown-experience.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[activity-sheet]]
+- [activity-sheet](activity-sheet.md)
 
 ## See Also
 
-- [[../topics/creative-arts]]
+- [creative-arts](../topics/creative-arts.md)

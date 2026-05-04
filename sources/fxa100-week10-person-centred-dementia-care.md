@@ -24,20 +24,20 @@ The document discusses the VIPS Framework, a tool designed to improve person-cen
 
 ## Key Concepts
 
-- [[../topics/values-based-practice]]
-- [[../topics/individualization-in-dementia-care]]
-- [[../topics/social-environmental-factors]]
+- [values-based-practice](../topics/values-based-practice.md)
+- [individualization-in-dementia-care](../topics/individualization-in-dementia-care.md)
+- [social-environmental-factors](../topics/social-environmental-factors.md)
 
 ## Tags
 
-- [[../tags/person-centred-care]]
-- [[../tags/dementia-support]]
-- [[../tags/vips-framework]]
-- [[../tags/fxa100]]
+- [person-centred-care](../tags/person-centred-care.md)
+- [dementia-support](../tags/dementia-support.md)
+- [vips-framework](../tags/vips-framework.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[framework-development]]
+- [framework-development](framework-development.md)
 
 ## See Also
 

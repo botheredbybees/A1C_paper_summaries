@@ -28,24 +28,24 @@ Furthermore, the article explores mechanisms behind the effectiveness of arts-ba
 
 ## Key Concepts
 
-- [[../topics/mental health disorders in youth]]
-- [[../topics/arts-and-culture-based interventions]]
-- [[../topics/elevating youth voice]]
+- [mental health disorders in youth](../topics/mental health disorders in youth.md)
+- [arts-and-culture-based interventions](../topics/arts-and-culture-based interventions.md)
+- [elevating youth voice](../topics/elevating youth voice.md)
 
 ## Tags
 
-- [[../tags/youth-mental-health]]
-- [[../tags/arts-based-strategies]]
-- [[../tags/global-health-initiatives]]
-- [[../tags/cultural-practices]]
-- [[../tags/community-engagement]]
-- [[../tags/fxa303]]
+- [youth-mental-health](../tags/youth-mental-health.md)
+- [arts-based-strategies](../tags/arts-based-strategies.md)
+- [global-health-initiatives](../tags/global-health-initiatives.md)
+- [cultural-practices](../tags/cultural-practices.md)
+- [community-engagement](../tags/community-engagement.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/cultural-practices]]
-- [[../topics/youth-mental-health]]
+- [cultural-practices](../topics/cultural-practices.md)
+- [youth-mental-health](../topics/youth-mental-health.md)

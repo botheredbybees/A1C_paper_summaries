@@ -24,15 +24,15 @@ The chapter discusses the distinctions between evaluation and research within he
 
 ## Key Concepts
 
-- [[../topics/randomized controlled trials (RCT)]]
-- [[../topics/complex interventions]]
+- [randomized controlled trials (RCT)](../topics/randomized controlled trials (RCT).md)
+- [complex interventions](../topics/complex interventions.md)
 
 ## Tags
 
-- [[../tags/evaluation]]
-- [[../tags/research-methods]]
-- [[../tags/healthcare-interventions]]
-- [[../tags/fxa301]]
+- [evaluation](../tags/evaluation.md)
+- [research-methods](../tags/research-methods.md)
+- [healthcare-interventions](../tags/healthcare-interventions.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -40,5 +40,5 @@ The chapter discusses the distinctions between evaluation and research within he
 
 ## See Also
 
-- [[../topics/healthcare-interventions]]
-- [[../topics/research-methods]]
+- [healthcare-interventions](../topics/healthcare-interventions.md)
+- [research-methods](../topics/research-methods.md)

@@ -24,20 +24,20 @@ This week’s lecture explores the concept of a photo essay as a powerful form o
 
 ## Key Concepts
 
-- [[../topics/visual storytelling]]
-- [[../topics/photo essays]]
-- [[../topics/narrative depth]]
-- [[../topics/historical roots of photo journalism]]
+- [visual storytelling](../topics/visual storytelling.md)
+- [photo essays](../topics/photo essays.md)
+- [narrative depth](../topics/narrative depth.md)
+- [historical roots of photo journalism](../topics/historical roots of photo journalism.md)
 
 ## Tags
 
-- [[../tags/visual-storytelling]]
-- [[../tags/photo-essays]]
-- [[../tags/digital-age-media]]
-- [[../tags/emotional-responses]]
-- [[../tags/historical-context]]
-- [[../tags/investigative-journalism]]
-- [[../tags/fxa202]]
+- [visual-storytelling](../tags/visual-storytelling.md)
+- [photo-essays](../tags/photo-essays.md)
+- [digital-age-media](../tags/digital-age-media.md)
+- [emotional-responses](../tags/emotional-responses.md)
+- [historical-context](../tags/historical-context.md)
+- [investigative-journalism](../tags/investigative-journalism.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
@@ -45,6 +45,6 @@ This week’s lecture explores the concept of a photo essay as a powerful form o
 
 ## See Also
 
-- [[../topics/emotional-responses]]
-- [[../topics/photo-essays]]
-- [[../topics/visual-storytelling]]
+- [emotional-responses](../topics/emotional-responses.md)
+- [photo-essays](../topics/photo-essays.md)
+- [visual-storytelling](../topics/visual-storytelling.md)

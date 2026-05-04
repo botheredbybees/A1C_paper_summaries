@@ -24,19 +24,19 @@ The research article explores the relationship between cognitive styles, specifi
 
 ## Key Concepts
 
-- [[../topics/empathizing]]
-- [[../topics/systemizing]]
+- [empathizing](../topics/empathizing.md)
+- [systemizing](../topics/systemizing.md)
 
 ## Tags
 
-- [[../tags/cognitive-styles]]
-- [[../tags/musical-preferences]]
-- [[../tags/empathizing-systemizing-theory]]
-- [[../tags/fxa100]]
+- [cognitive-styles](../tags/cognitive-styles.md)
+- [musical-preferences](../tags/musical-preferences.md)
+- [empathizing-systemizing-theory](../tags/empathizing-systemizing-theory.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[correlational study]]
+- [correlational study](correlational study.md)
 
 ## See Also
 

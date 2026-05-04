@@ -26,5 +26,5 @@ The synthesis integrates the use of technology and music in reminiscence therapy
 
 ## Sources
 
-- [[../sources/fxa100-creativity-and-communication-ch02-15-putting-the-it-into-creativity-exploring-the-creative]]
-- [[../sources/fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care]]
+- [fxa100-creativity-and-communication-ch02-15-putting-the-it-into-creativity-exploring-the-creative](../sources/fxa100-creativity-and-communication-ch02-15-putting-the-it-into-creativity-exploring-the-creative.md)
+- [fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care](../sources/fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care.md)

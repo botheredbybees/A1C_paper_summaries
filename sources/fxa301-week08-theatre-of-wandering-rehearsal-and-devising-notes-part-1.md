@@ -28,24 +28,24 @@ The document highlights the importance of involving underrepresented voices in a
 
 ## Key Concepts
 
-- [[../topics/care-participation]]
-- [[../topics/collaborative-performance]]
-- [[../topics/underrepresented-voices]]
+- [care-participation](../topics/care-participation.md)
+- [collaborative-performance](../topics/collaborative-performance.md)
+- [underrepresented-voices](../topics/underrepresented-voices.md)
 
 ## Tags
 
-- [[../tags/community-engagement]]
-- [[../tags/dementia-care]]
-- [[../tags/street-performance]]
-- [[../tags/creative-collaboration]]
-- [[../tags/arts-in-health]]
-- [[../tags/fxa301]]
+- [community-engagement](../tags/community-engagement.md)
+- [dementia-care](../tags/dementia-care.md)
+- [street-performance](../tags/street-performance.md)
+- [creative-collaboration](../tags/creative-collaboration.md)
+- [arts-in-health](../tags/arts-in-health.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/arts-in-health]]
-- [[../topics/dementia-care]]
+- [arts-in-health](../topics/arts-in-health.md)
+- [dementia-care](../topics/dementia-care.md)

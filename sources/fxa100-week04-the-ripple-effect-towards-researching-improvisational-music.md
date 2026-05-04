@@ -24,27 +24,27 @@ This article explores the role of improvisational music therapy in dementia care
 
 ## Key Concepts
 
-- [[../topics/ripple effect]]
-- [[../topics/mutual flourishing]]
-- [[../topics/shared participation]]
+- [ripple effect](../topics/ripple effect.md)
+- [mutual flourishing](../topics/mutual flourishing.md)
+- [shared participation](../topics/shared participation.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/dementia-care]]
-- [[../tags/wellbeing-research]]
-- [[../tags/community-building]]
-- [[../tags/therapeutic-interventions]]
-- [[../tags/fxa100]]
+- [music-therapy](../tags/music-therapy.md)
+- [dementia-care](../tags/dementia-care.md)
+- [wellbeing-research](../tags/wellbeing-research.md)
+- [community-building](../tags/community-building.md)
+- [therapeutic-interventions](../tags/therapeutic-interventions.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/community-building]]
-- [[../topics/dementia-care]]
-- [[../topics/music-therapy]]
-- [[../topics/therapeutic-interventions]]
-- [[../topics/wellbeing-research]]
+- [community-building](../topics/community-building.md)
+- [dementia-care](../topics/dementia-care.md)
+- [music-therapy](../topics/music-therapy.md)
+- [therapeutic-interventions](../topics/therapeutic-interventions.md)
+- [wellbeing-research](../topics/wellbeing-research.md)

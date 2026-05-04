@@ -35,14 +35,14 @@ The integration of music therapy across various neurological conditions undersco
 
 ## Sources
 
-- [[../sources/fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care]]
-- [[../sources/fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there]]
-- [[../sources/fxa100-week02-music-and-the-damaged-brain]]
-- [[../sources/fxa100-week02-neuroplastic-effects-in-patients-with-traumatic-brain]]
-- [[../sources/fxa100-week02-playing-a-musical-instrument-as-a-protective-factor-against]]
-- [[../sources/fxa100-week02-the-power-of-music]]
-- [[../sources/fxa100-week03-evaluation-of-the-music-and-memory-program-among-nursing]]
-- [[../sources/fxa100-week03-implementation-survey-results-phase-iii-music-memory-program]]
-- [[../sources/fxa100-week03-implementation-survey-results-wisconsin-music-memory-program]]
-- [[../sources/fxa100-week03-introduction-to-week-3-listening-to-music]]
-- [[../sources/fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care]]
+- [fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care](../sources/fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care.md)
+- [fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there](../sources/fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there.md)
+- [fxa100-week02-music-and-the-damaged-brain](../sources/fxa100-week02-music-and-the-damaged-brain.md)
+- [fxa100-week02-neuroplastic-effects-in-patients-with-traumatic-brain](../sources/fxa100-week02-neuroplastic-effects-in-patients-with-traumatic-brain.md)
+- [fxa100-week02-playing-a-musical-instrument-as-a-protective-factor-against](../sources/fxa100-week02-playing-a-musical-instrument-as-a-protective-factor-against.md)
+- [fxa100-week02-the-power-of-music](../sources/fxa100-week02-the-power-of-music.md)
+- [fxa100-week03-evaluation-of-the-music-and-memory-program-among-nursing](../sources/fxa100-week03-evaluation-of-the-music-and-memory-program-among-nursing.md)
+- [fxa100-week03-implementation-survey-results-phase-iii-music-memory-program](../sources/fxa100-week03-implementation-survey-results-phase-iii-music-memory-program.md)
+- [fxa100-week03-implementation-survey-results-wisconsin-music-memory-program](../sources/fxa100-week03-implementation-survey-results-wisconsin-music-memory-program.md)
+- [fxa100-week03-introduction-to-week-3-listening-to-music](../sources/fxa100-week03-introduction-to-week-3-listening-to-music.md)
+- [fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care](../sources/fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care.md)

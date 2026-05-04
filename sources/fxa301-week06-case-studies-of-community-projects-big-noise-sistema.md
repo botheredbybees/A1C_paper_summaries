@@ -24,25 +24,25 @@ This document discusses the 'Big Noise' programme under Sistema Scotland, a soci
 
 ## Key Concepts
 
-- [[../topics/Sistema Scotland]]
-- [[../topics/Big Noise programme]]
-- [[../topics/educational performance]]
-- [[../topics/health and wellbeing]]
+- [Sistema Scotland](../topics/Sistema Scotland.md)
+- [Big Noise programme](../topics/Big Noise programme.md)
+- [educational performance](../topics/educational performance.md)
+- [health and wellbeing](../topics/health and wellbeing.md)
 
 ## Tags
 
-- [[../tags/music-education]]
-- [[../tags/community-development]]
-- [[../tags/socioeconomic-factors]]
-- [[../tags/youth-programs]]
-- [[../tags/social-impact]]
-- [[../tags/fxa301]]
+- [music-education](../tags/music-education.md)
+- [community-development](../tags/community-development.md)
+- [socioeconomic-factors](../tags/socioeconomic-factors.md)
+- [youth-programs](../tags/youth-programs.md)
+- [social-impact](../tags/social-impact.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/community-development]]
-- [[../topics/music-education]]
+- [community-development](../topics/community-development.md)
+- [music-education](../topics/music-education.md)

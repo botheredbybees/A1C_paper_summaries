@@ -24,20 +24,20 @@ The article explores the perspectives of autistic adults, parents, and professio
 
 ## Key Concepts
 
-- [[../topics/support-goals]]
-- [[../topics/disability-models]]
-- [[../topics/quality-of-life]]
+- [support-goals](../topics/support-goals.md)
+- [disability-models](../topics/disability-models.md)
+- [quality-of-life](../topics/quality-of-life.md)
 
 ## Tags
 
-- [[../tags/autism-support]]
-- [[../tags/young-children]]
-- [[../tags/community-perspective]]
-- [[../tags/fxa303]]
+- [autism-support](../tags/autism-support.md)
+- [young-children](../tags/young-children.md)
+- [community-perspective](../tags/community-perspective.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[qualitative-study]]
+- [qualitative-study](qualitative-study.md)
 
 ## See Also
 

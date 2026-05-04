@@ -24,27 +24,27 @@ This document provides an overview of Week 3 in the FXA303 Creative Arts, Play a
 
 ## Key Concepts
 
-- [[../topics/ongoing-brain-development]]
-- [[../topics/environmental-influences-on-mental-health]]
-- [[../topics/cognitive-functions-through-expression]]
-- [[../topics/decision-making-capacities-during-adolescence]]
+- [ongoing-brain-development](../topics/ongoing-brain-development.md)
+- [environmental-influences-on-mental-health](../topics/environmental-influences-on-mental-health.md)
+- [cognitive-functions-through-expression](../topics/cognitive-functions-through-expression.md)
+- [decision-making-capacities-during-adolescence](../topics/decision-making-capacities-during-adolescence.md)
 
 ## Tags
 
-- [[../tags/mental-wellbeing]]
-- [[../tags/adolescent-development]]
-- [[../tags/creative-arts-intervention]]
-- [[../tags/neuroscience-of-art]]
-- [[../tags/brain-plasticity]]
-- [[../tags/risk-prevention]]
-- [[../tags/fxa303]]
+- [mental-wellbeing](../tags/mental-wellbeing.md)
+- [adolescent-development](../tags/adolescent-development.md)
+- [creative-arts-intervention](../tags/creative-arts-intervention.md)
+- [neuroscience-of-art](../tags/neuroscience-of-art.md)
+- [brain-plasticity](../tags/brain-plasticity.md)
+- [risk-prevention](../tags/risk-prevention.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/adolescent-development]]
-- [[../topics/brain-plasticity]]
-- [[../topics/mental-wellbeing]]
+- [adolescent-development](../topics/adolescent-development.md)
+- [brain-plasticity](../topics/brain-plasticity.md)
+- [mental-wellbeing](../topics/mental-wellbeing.md)

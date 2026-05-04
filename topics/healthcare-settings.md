@@ -26,5 +26,5 @@ The integration of non-traditional interventions such as museum collections and 
 
 ## Sources
 
-- [[../sources/fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-(2)]]
-- [[../sources/fxa303-week08-therapeutic-clowning]]
+- [fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-(2)](../sources/fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-(2).md)
+- [fxa303-week08-therapeutic-clowning](../sources/fxa303-week08-therapeutic-clowning.md)

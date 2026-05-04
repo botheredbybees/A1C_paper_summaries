@@ -25,5 +25,5 @@ Clown therapy emerges as an innovative intervention with broad applications acro
 
 ## Sources
 
-- [[../sources/fxa303-week08-clown-therapy-a-drama-therapy-approach-to-addiction-and]]
-- [[../sources/fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic]]
+- [fxa303-week08-clown-therapy-a-drama-therapy-approach-to-addiction-and](../sources/fxa303-week08-clown-therapy-a-drama-therapy-approach-to-addiction-and.md)
+- [fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic](../sources/fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic.md)

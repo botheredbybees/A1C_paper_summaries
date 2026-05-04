@@ -27,6 +27,6 @@ The Music and Memory (M&M) program stands out as a non-pharmacological intervent
 
 ## Sources
 
-- [[../sources/fxa100-week03-evaluation-of-the-music-and-memory-program-among-nursing]]
-- [[../sources/fxa100-week03-implementation-survey-results-wisconsin-music-memory-program]]
-- [[../sources/fxa100-week03-introduction-to-week-3-listening-to-music]]
+- [fxa100-week03-evaluation-of-the-music-and-memory-program-among-nursing](../sources/fxa100-week03-evaluation-of-the-music-and-memory-program-among-nursing.md)
+- [fxa100-week03-implementation-survey-results-wisconsin-music-memory-program](../sources/fxa100-week03-implementation-survey-results-wisconsin-music-memory-program.md)
+- [fxa100-week03-introduction-to-week-3-listening-to-music](../sources/fxa100-week03-introduction-to-week-3-listening-to-music.md)

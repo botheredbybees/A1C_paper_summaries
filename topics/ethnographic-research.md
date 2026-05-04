@@ -27,6 +27,6 @@ The sources coalesce around the core concept of ethnography as a means to explor
 
 ## Sources
 
-- [[../sources/fxa301-make-arts-for-a-better-life-ch11-4-you-and-the-community-have-stepped-through]]
-- [[../sources/fxa301-week06-san-trance-dance-embodied-experience-and-neurological]]
-- [[../sources/fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an]]
+- [fxa301-make-arts-for-a-better-life-ch11-4-you-and-the-community-have-stepped-through](../sources/fxa301-make-arts-for-a-better-life-ch11-4-you-and-the-community-have-stepped-through.md)
+- [fxa301-week06-san-trance-dance-embodied-experience-and-neurological](../sources/fxa301-week06-san-trance-dance-embodied-experience-and-neurological.md)
+- [fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an](../sources/fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an.md)

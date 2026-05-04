@@ -27,6 +27,6 @@ The synthesis of photography techniques highlights the importance of both techni
 
 ## Sources
 
-- [[../sources/fxa202-week02-depth-of-field-the-essential-guide-tips]]
-- [[../sources/fxa202-week02-negative-space-in-photography-and-positive-space]]
-- [[../sources/fxa202-week02-taking-out-of-focus-pictures]]
+- [fxa202-week02-depth-of-field-the-essential-guide-tips](../sources/fxa202-week02-depth-of-field-the-essential-guide-tips.md)
+- [fxa202-week02-negative-space-in-photography-and-positive-space](../sources/fxa202-week02-negative-space-in-photography-and-positive-space.md)
+- [fxa202-week02-taking-out-of-focus-pictures](../sources/fxa202-week02-taking-out-of-focus-pictures.md)

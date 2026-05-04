@@ -24,16 +24,16 @@ This course introduction for FXA100 focuses on engaging students in the arts-bas
 
 ## Key Concepts
 
-- [[../topics/engagement in online discussions]]
-- [[../topics/music therapy]]
+- [engagement in online discussions](../topics/engagement in online discussions.md)
+- [music therapy](../topics/music therapy.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/arts-therapy]]
-- [[../tags/online-learning]]
-- [[../tags/university-course]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [arts-therapy](../tags/arts-therapy.md)
+- [online-learning](../tags/online-learning.md)
+- [university-course](../tags/university-course.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -41,6 +41,6 @@ This course introduction for FXA100 focuses on engaging students in the arts-bas
 
 ## See Also
 
-- [[../topics/arts-therapy]]
-- [[../topics/dementia-care]]
-- [[../topics/online-learning]]
+- [arts-therapy](../topics/arts-therapy.md)
+- [dementia-care](../topics/dementia-care.md)
+- [online-learning](../topics/online-learning.md)

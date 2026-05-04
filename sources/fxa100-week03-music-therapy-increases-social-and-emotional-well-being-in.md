@@ -24,25 +24,25 @@ This study investigates the impact of a singing-based music therapy intervention
 
 ## Key Concepts
 
-- [[../topics/randomized-clinical-trial]]
-- [[../topics/singing-intervention]]
-- [[../topics/verbal-discussion]]
-- [[../topics/patient-characteristics]]
+- [randomized-clinical-trial](../topics/randomized-clinical-trial.md)
+- [singing-intervention](../topics/singing-intervention.md)
+- [verbal-discussion](../topics/verbal-discussion.md)
+- [patient-characteristics](../topics/patient-characteristics.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/dementia-care]]
-- [[../tags/emotional-well-being]]
-- [[../tags/social-engagement]]
-- [[../tags/fxa100]]
+- [music-therapy](../tags/music-therapy.md)
+- [dementia-care](../tags/dementia-care.md)
+- [emotional-well-being](../tags/emotional-well-being.md)
+- [social-engagement](../tags/social-engagement.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[randomized clinical crossover trial]]
+- [randomized clinical crossover trial](randomized clinical crossover trial.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/music-therapy]]
-- [[../topics/social-engagement]]
+- [dementia-care](../topics/dementia-care.md)
+- [music-therapy](../topics/music-therapy.md)
+- [social-engagement](../topics/social-engagement.md)

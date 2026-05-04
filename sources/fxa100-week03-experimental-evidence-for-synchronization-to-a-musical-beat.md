@@ -24,21 +24,21 @@ This study presents experimental evidence for synchronization to a musical beat 
 
 ## Key Concepts
 
-- [[../topics/rhythmic-movement]]
-- [[../topics/vocal-learning]]
-- [[../topics/beat-synchronization]]
+- [rhythmic-movement](../topics/rhythmic-movement.md)
+- [vocal-learning](../topics/vocal-learning.md)
+- [beat-synchronization](../topics/beat-synchronization.md)
 
 ## Tags
 
-- [[../tags/animal-behavior]]
-- [[../tags/musical-rhythm]]
-- [[../tags/neuroscience]]
-- [[../tags/fxa100]]
+- [animal-behavior](../tags/animal-behavior.md)
+- [musical-rhythm](../tags/musical-rhythm.md)
+- [neuroscience](../tags/neuroscience.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[experimental-study]]
+- [experimental-study](experimental-study.md)
 
 ## See Also
 
-- [[../topics/neuroscience]]
+- [neuroscience](../topics/neuroscience.md)

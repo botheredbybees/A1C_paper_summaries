@@ -27,6 +27,6 @@ The provided sources highlight two distinct but complementary approaches to impr
 
 ## Sources
 
-- [[../sources/fxa100-week03-final-report-wisconsin-music-memory-program-student]]
-- [[../sources/fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a]]
-- [[../sources/fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns]]
+- [fxa100-week03-final-report-wisconsin-music-memory-program-student](../sources/fxa100-week03-final-report-wisconsin-music-memory-program-student.md)
+- [fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a](../sources/fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a.md)
+- [fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns](../sources/fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns.md)

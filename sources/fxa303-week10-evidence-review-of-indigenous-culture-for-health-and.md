@@ -24,23 +24,23 @@ This review article synthesizes evidence on the relationship between Indigenous 
 
 ## Key Concepts
 
-- [[../topics/cultural-engagement]]
-- [[../topics/health-outcomes]]
-- [[../topics/self-determination]]
-- [[../topics/mixed-methods-research]]
+- [cultural-engagement](../topics/cultural-engagement.md)
+- [health-outcomes](../topics/health-outcomes.md)
+- [self-determination](../topics/self-determination.md)
+- [mixed-methods-research](../topics/mixed-methods-research.md)
 
 ## Tags
 
-- [[../tags/indigenous-health]]
-- [[../tags/cultural-wellbeing]]
-- [[../tags/evidence-review]]
-- [[../tags/aboriginal-people]]
-- [[../tags/torres-strait-islander]]
-- [[../tags/fxa303]]
+- [indigenous-health](../tags/indigenous-health.md)
+- [cultural-wellbeing](../tags/cultural-wellbeing.md)
+- [evidence-review](../tags/evidence-review.md)
+- [aboriginal-people](../tags/aboriginal-people.md)
+- [torres-strait-islander](../tags/torres-strait-islander.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic review]]
+- **systematic review**
 
 ## See Also
 

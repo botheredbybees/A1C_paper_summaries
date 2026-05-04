@@ -24,20 +24,20 @@ This clinical report documents the case of Mary Hecht, a renowned sculptor diagn
 
 ## Key Concepts
 
-- [[../topics/vascular-dementia]]
-- [[../topics/preserved-artistic-ability]]
-- [[../topics/distinct-neural-pathways]]
+- [vascular-dementia](../topics/vascular-dementia.md)
+- [preserved-artistic-ability](../topics/preserved-artistic-ability.md)
+- [distinct-neural-pathways](../topics/distinct-neural-pathways.md)
 
 ## Tags
 
-- [[../tags/dementia-cognitive-abilities]]
-- [[../tags/neural-networks-artistic-expression]]
-- [[../tags/creative-preservation-disease]]
-- [[../tags/fxa100]]
+- [dementia-cognitive-abilities](../tags/dementia-cognitive-abilities.md)
+- [neural-networks-artistic-expression](../tags/neural-networks-artistic-expression.md)
+- [creative-preservation-disease](../tags/creative-preservation-disease.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 

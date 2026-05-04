@@ -24,26 +24,26 @@ The document discusses research on brain imaging and neuro-modulation in relatio
 
 ## Key Concepts
 
-- [[../topics/dopaminergic-systems]]
-- [[../topics/pedunculopontine-tegmental-nucleus]]
-- [[../topics/tyrosine-hydroxylase-positive-cells]]
+- [dopaminergic-systems](../topics/dopaminergic-systems.md)
+- [pedunculopontine-tegmental-nucleus](../topics/pedunculopontine-tegmental-nucleus.md)
+- [tyrosine-hydroxylase-positive-cells](../topics/tyrosine-hydroxylase-positive-cells.md)
 
 ## Tags
 
-- [[../tags/brain-imaging]]
-- [[../tags/neuro-modulation]]
-- [[../tags/dopamine-neurons]]
-- [[../tags/motor-control]]
-- [[../tags/reward-processing]]
-- [[../tags/fxa100]]
+- [brain-imaging](../tags/brain-imaging.md)
+- [neuro-modulation](../tags/neuro-modulation.md)
+- [dopamine-neurons](../tags/dopamine-neurons.md)
+- [motor-control](../tags/motor-control.md)
+- [reward-processing](../tags/reward-processing.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[brain-imaging]]
-- [[neurochemical-analysis]]
+- [brain-imaging](brain-imaging.md)
+- [neurochemical-analysis](neurochemical-analysis.md)
 
 ## See Also
 
-- [[../topics/brain-imaging]]
-- [[../topics/motor-control]]
-- [[../topics/reward-processing]]
+- [brain-imaging](../topics/brain-imaging.md)
+- [motor-control](../topics/motor-control.md)
+- [reward-processing](../topics/reward-processing.md)

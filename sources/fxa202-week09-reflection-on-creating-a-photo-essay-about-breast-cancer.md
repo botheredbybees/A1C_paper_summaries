@@ -24,25 +24,25 @@ Tanya Hughes reflects on her experience of completing a photo essay titled 'You 
 
 ## Key Concepts
 
-- [[../topics/confessional-writing]]
-- [[../topics/camera-manipulation]]
-- [[../topics/emotional-expression]]
+- [confessional-writing](../topics/confessional-writing.md)
+- [camera-manipulation](../topics/camera-manipulation.md)
+- [emotional-expression](../topics/emotional-expression.md)
 
 ## Tags
 
-- [[../tags/breast-cancer-experience]]
-- [[../tags/photo-essay]]
-- [[../tags/personal-reflection]]
-- [[../tags/emotional-confrontation]]
-- [[../tags/cancer-treatment]]
-- [[../tags/fxa202]]
+- [breast-cancer-experience](../tags/breast-cancer-experience.md)
+- [photo-essay](../tags/photo-essay.md)
+- [personal-reflection](../tags/personal-reflection.md)
+- [emotional-confrontation](../tags/emotional-confrontation.md)
+- [cancer-treatment](../tags/cancer-treatment.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/cancer-treatment]]
-- [[../topics/personal-reflection]]
-- [[../topics/photo-essay]]
+- [cancer-treatment](../topics/cancer-treatment.md)
+- [personal-reflection](../topics/personal-reflection.md)
+- [photo-essay](../topics/photo-essay.md)

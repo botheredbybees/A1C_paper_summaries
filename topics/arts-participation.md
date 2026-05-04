@@ -26,5 +26,5 @@ The examination of arts participation reveals a multifaceted understanding acros
 
 ## Sources
 
-- [[../sources/fxa301-week01-lesson-fxa301-week01-page-3-arts-participation]]
-- [[../sources/fxa301-week03-creating-our-future-results-of-the-national-arts]]
+- [fxa301-week01-lesson-fxa301-week01-page-3-arts-participation](../sources/fxa301-week01-lesson-fxa301-week01-page-3-arts-participation.md)
+- [fxa301-week03-creating-our-future-results-of-the-national-arts](../sources/fxa301-week03-creating-our-future-results-of-the-national-arts.md)

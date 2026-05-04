@@ -30,5 +30,5 @@ Both sources highlight the importance of understanding neural mechanisms underly
 
 ## Sources
 
-- [[../sources/fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro]]
-- [[../sources/fxa301-week06-effect-of-rhythmic-auditory-cueing-on-parkinsonian-gait-a]]
+- [fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro](../sources/fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro.md)
+- [fxa301-week06-effect-of-rhythmic-auditory-cueing-on-parkinsonian-gait-a](../sources/fxa301-week06-effect-of-rhythmic-auditory-cueing-on-parkinsonian-gait-a.md)

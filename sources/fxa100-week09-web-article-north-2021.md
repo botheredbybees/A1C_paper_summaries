@@ -24,16 +24,16 @@ This webpage provides an overview of drama therapy, explaining it as the intenti
 
 ## Key Concepts
 
-- [[../topics/embodied practice]]
-- [[../topics/role-playing]]
-- [[../topics/storytelling]]
+- [embodied practice](../topics/embodied practice.md)
+- [role-playing](../topics/role-playing.md)
+- [storytelling](../topics/storytelling.md)
 
 ## Tags
 
-- [[../tags/drama-therapy]]
-- [[../tags/mental-health-practice]]
-- [[../tags/creative-therapies]]
-- [[../tags/fxa100]]
+- [drama-therapy](../tags/drama-therapy.md)
+- [mental-health-practice](../tags/mental-health-practice.md)
+- [creative-therapies](../tags/creative-therapies.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -41,6 +41,6 @@ This webpage provides an overview of drama therapy, explaining it as the intenti
 
 ## See Also
 
-- [[../topics/creative-therapies]]
-- [[../topics/drama-therapy]]
-- [[../topics/mental-health-practice]]
+- [creative-therapies](../topics/creative-therapies.md)
+- [drama-therapy](../topics/drama-therapy.md)
+- [mental-health-practice](../topics/mental-health-practice.md)

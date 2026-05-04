@@ -26,5 +26,5 @@ The integration of museum programs designed specifically for individuals with de
 
 ## Sources
 
-- [[../sources/fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum]]
-- [[../sources/fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people]]
+- [fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum](../sources/fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum.md)
+- [fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people](../sources/fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people.md)

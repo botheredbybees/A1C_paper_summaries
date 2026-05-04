@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Affective Memory
 
-- [[../sources/fxa301-week02-music-evoked-nostalgia-affect-memory-and-personality|Music-Evoked Nostalgia: Affect, Memory, and Personality]]
+- [Music-Evoked Nostalgia: Affect, Memory, and Personality](../sources/fxa301-week02-music-evoked-nostalgia-affect-memory-and-personality.md)

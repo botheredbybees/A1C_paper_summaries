@@ -29,8 +29,8 @@ The provided sources collectively explore the role of creative therapies like ar
 
 ## Sources
 
-- [[../sources/fxa100-week06-transcript-art-therapy-has-many-faces]]
-- [[../sources/fxa202-week09-reflection-on-creating-a-photo-essay-about-breast-cancer]]
-- [[../sources/fxa301-week05-art-making-and-illness-two-case-studies]]
-- [[../sources/fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our]]
-- [[../sources/fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and]]
+- [fxa100-week06-transcript-art-therapy-has-many-faces](../sources/fxa100-week06-transcript-art-therapy-has-many-faces.md)
+- [fxa202-week09-reflection-on-creating-a-photo-essay-about-breast-cancer](../sources/fxa202-week09-reflection-on-creating-a-photo-essay-about-breast-cancer.md)
+- [fxa301-week05-art-making-and-illness-two-case-studies](../sources/fxa301-week05-art-making-and-illness-two-case-studies.md)
+- [fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our](../sources/fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our.md)
+- [fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and](../sources/fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and.md)

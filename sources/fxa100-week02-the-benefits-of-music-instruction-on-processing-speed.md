@@ -24,21 +24,21 @@ This study investigates the effects of active versus passive music instruction o
 
 ## Key Concepts
 
-- [[../topics/cognitive-control]]
-- [[../topics/processing-speed]]
-- [[../topics/verbal-fluency]]
+- [cognitive-control](../topics/cognitive-control.md)
+- [processing-speed](../topics/processing-speed.md)
+- [verbal-fluency](../topics/verbal-fluency.md)
 
 ## Tags
 
-- [[../tags/music-and-cognition]]
-- [[../tags/aging-and-memory]]
-- [[../tags/executive-function-in-elderly]]
-- [[../tags/fxa100]]
+- [music-and-cognition](../tags/music-and-cognition.md)
+- [aging-and-memory](../tags/aging-and-memory.md)
+- [executive-function-in-elderly](../tags/executive-function-in-elderly.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[randomized-controlled-trial]]
-- [[cognitive-assessments]]
+- [randomized-controlled-trial](randomized-controlled-trial.md)
+- [cognitive-assessments](cognitive-assessments.md)
 
 ## See Also
 

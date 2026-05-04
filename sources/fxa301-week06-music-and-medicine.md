@@ -24,23 +24,23 @@ This book, 'Music and Medicine,' edited by Gunter Kreutz and Günther Bernatzky,
 
 ## Key Concepts
 
-- [[../topics/gene-environment-interactions]]
-- [[../topics/cognitive-activation]]
-- [[../topics/emotional-engagement]]
+- [gene-environment-interactions](../topics/gene-environment-interactions.md)
+- [cognitive-activation](../topics/cognitive-activation.md)
+- [emotional-engagement](../topics/emotional-engagement.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/neuroscience-of-music]]
-- [[../tags/health-wellbeing]]
-- [[../tags/fxa301]]
+- [music-therapy](../tags/music-therapy.md)
+- [neuroscience-of-music](../tags/neuroscience-of-music.md)
+- [health-wellbeing](../tags/health-wellbeing.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/health-wellbeing]]
-- [[../topics/music-therapy]]
-- [[../topics/neuroscience-of-music]]
+- [health-wellbeing](../topics/health-wellbeing.md)
+- [music-therapy](../topics/music-therapy.md)
+- [neuroscience-of-music](../topics/neuroscience-of-music.md)

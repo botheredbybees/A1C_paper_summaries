@@ -25,5 +25,5 @@ The concept of self-regulation is central to understanding how individuals manag
 
 ## Sources
 
-- [[../sources/fxa303-week02-a-new-context-affording-for-regulation-the-case-of-musical]]
-- [[../sources/fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview]]
+- [fxa303-week02-a-new-context-affording-for-regulation-the-case-of-musical](../sources/fxa303-week02-a-new-context-affording-for-regulation-the-case-of-musical.md)
+- [fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview](../sources/fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview.md)

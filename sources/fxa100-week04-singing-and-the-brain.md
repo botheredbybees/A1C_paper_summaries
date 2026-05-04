@@ -24,27 +24,27 @@ The document discusses various benefits of singing for individuals with dementia
 
 ## Key Concepts
 
-- [[../topics/life-quality-improvement]]
-- [[../topics/brain-stimulation-through-singing]]
-- [[../topics/respiratory-health-benefits]]
+- [life-quality-improvement](../topics/life-quality-improvement.md)
+- [brain-stimulation-through-singing](../topics/brain-stimulation-through-singing.md)
+- [respiratory-health-benefits](../topics/respiratory-health-benefits.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/music-therapy]]
-- [[../tags/neuroplasticity]]
-- [[../tags/quality-of-life]]
-- [[../tags/cultural-inclusivity]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [music-therapy](../tags/music-therapy.md)
+- [neuroplasticity](../tags/neuroplasticity.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [cultural-inclusivity](../tags/cultural-inclusivity.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
-- [[qualitative-research]]
+- [case-study](case-study.md)
+- [qualitative-research](qualitative-research.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/music-therapy]]
-- [[../topics/neuroplasticity]]
-- [[../topics/quality-of-life]]
+- [dementia-care](../topics/dementia-care.md)
+- [music-therapy](../topics/music-therapy.md)
+- [neuroplasticity](../topics/neuroplasticity.md)
+- [quality-of-life](../topics/quality-of-life.md)

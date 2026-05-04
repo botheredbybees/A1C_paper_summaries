@@ -24,15 +24,15 @@ The transcript details the NSW Health's initiative to run a choir for individual
 
 ## Key Concepts
 
-- [[../topics/social-isolation-risk]]
-- [[../topics/communication-accessibility-through-singing]]
+- [social-isolation-risk](../topics/social-isolation-risk.md)
+- [communication-accessibility-through-singing](../topics/communication-accessibility-through-singing.md)
 
 ## Tags
 
-- [[../tags/aphasia-treatment]]
-- [[../tags/neurological-impairment-management]]
-- [[../tags/speech-pathology-practice]]
-- [[../tags/fxa301]]
+- [aphasia-treatment](../tags/aphasia-treatment.md)
+- [neurological-impairment-management](../tags/neurological-impairment-management.md)
+- [speech-pathology-practice](../tags/speech-pathology-practice.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

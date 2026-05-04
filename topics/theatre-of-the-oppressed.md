@@ -27,6 +27,6 @@ Augusto Boal's Theatre of the Oppressed is a transformative intervention that in
 
 ## Sources
 
-- [[../sources/fxa100-week09-augusto-boals-forum-theatre-for-teachers]]
-- [[../sources/fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags]]
-- [[../sources/fxa100-week09-transcript-augusto-boal-1931-2009-was-a-brazilian-theatre]]
+- [fxa100-week09-augusto-boals-forum-theatre-for-teachers](../sources/fxa100-week09-augusto-boals-forum-theatre-for-teachers.md)
+- [fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags](../sources/fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags.md)
+- [fxa100-week09-transcript-augusto-boal-1931-2009-was-a-brazilian-theatre](../sources/fxa100-week09-transcript-augusto-boal-1931-2009-was-a-brazilian-theatre.md)

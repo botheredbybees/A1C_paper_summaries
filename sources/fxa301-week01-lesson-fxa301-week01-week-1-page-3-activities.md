@@ -24,16 +24,16 @@ The course content for Week 1 of FXA301 'Arts in the Community' introduces stude
 
 ## Key Concepts
 
-- [[../topics/discussions]]
-- [[../topics/social-engagement]]
-- [[../topics/value-of-art]]
+- [discussions](../topics/discussions.md)
+- [social-engagement](../topics/social-engagement.md)
+- [value-of-art](../topics/value-of-art.md)
 
 ## Tags
 
-- [[../tags/community-arts]]
-- [[../tags/discussion-forum]]
-- [[../tags/national-survey]]
-- [[../tags/fxa301]]
+- [community-arts](../tags/community-arts.md)
+- [discussion-forum](../tags/discussion-forum.md)
+- [national-survey](../tags/national-survey.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,4 +41,4 @@ The course content for Week 1 of FXA301 'Arts in the Community' introduces stude
 
 ## See Also
 
-- [[../topics/community-arts]]
+- [community-arts](../topics/community-arts.md)

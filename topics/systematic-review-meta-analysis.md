@@ -27,6 +27,6 @@ Three systematic reviews and meta-analyses highlight the effectiveness of creati
 
 ## Sources
 
-- [[../sources/fxa100-week03-association-of-music-interventions-with-health-related]]
-- [[../sources/fxa303-week04-play-based-interventions-for-mental-health-a-systematic]]
-- [[../sources/fxa303-week09-effectiveness-of-creative-arts-based-interventions-for]]
+- [fxa100-week03-association-of-music-interventions-with-health-related](../sources/fxa100-week03-association-of-music-interventions-with-health-related.md)
+- [fxa303-week04-play-based-interventions-for-mental-health-a-systematic](../sources/fxa303-week04-play-based-interventions-for-mental-health-a-systematic.md)
+- [fxa303-week09-effectiveness-of-creative-arts-based-interventions-for](../sources/fxa303-week09-effectiveness-of-creative-arts-based-interventions-for.md)

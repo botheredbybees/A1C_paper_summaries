@@ -28,25 +28,25 @@ The study identifies several moderators of these relationships, including demogr
 
 ## Key Concepts
 
-- [[../topics/hippocampal-subfield-volumes]]
-- [[../topics/neurofilament-light-chain-levels]]
+- [hippocampal-subfield-volumes](../topics/hippocampal-subfield-volumes.md)
+- [neurofilament-light-chain-levels](../topics/neurofilament-light-chain-levels.md)
 
 ## Tags
 
-- [[../tags/physical-activity]]
-- [[../tags/cognitive-function]]
-- [[../tags/brain-morphology]]
-- [[../tags/alzheimer-disease-biomarkers]]
-- [[../tags/cardiorespiratory-fitness]]
-- [[../tags/exercise-intervention]]
-- [[../tags/fxa100]]
+- [physical-activity](../tags/physical-activity.md)
+- [cognitive-function](../tags/cognitive-function.md)
+- [brain-morphology](../tags/brain-morphology.md)
+- [alzheimer-disease-biomarkers](../tags/alzheimer-disease-biomarkers.md)
+- [cardiorespiratory-fitness](../tags/cardiorespiratory-fitness.md)
+- [exercise-intervention](../tags/exercise-intervention.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[RCT]]
-- [[cross-sectional-analysis]]
+- [RCT](RCT.md)
+- [cross-sectional-analysis](cross-sectional-analysis.md)
 
 ## See Also
 
-- [[../topics/cognitive-function]]
-- [[../topics/physical-activity]]
+- [cognitive-function](../topics/cognitive-function.md)
+- [physical-activity](../topics/physical-activity.md)

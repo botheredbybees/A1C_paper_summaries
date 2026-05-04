@@ -24,16 +24,16 @@ This lesson covers various parts of the brain including the cerebrum, cerebellum
 
 ## Key Concepts
 
-- [[../topics/limbic system]]
-- [[../topics/hippocampus]]
-- [[../topics/amygdala]]
+- [limbic system](../topics/limbic system.md)
+- [hippocampus](../topics/hippocampus.md)
+- [amygdala](../topics/amygdala.md)
 
 ## Tags
 
-- [[../tags/brain-anatomy]]
-- [[../tags/neuroscience-basics]]
-- [[../tags/cognitive-functions]]
-- [[../tags/fxa301]]
+- [brain-anatomy](../tags/brain-anatomy.md)
+- [neuroscience-basics](../tags/neuroscience-basics.md)
+- [cognitive-functions](../tags/cognitive-functions.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ This lesson covers various parts of the brain including the cerebrum, cerebellum
 
 ## See Also
 
-- [[../topics/brain-anatomy]]
-- [[../topics/cognitive-functions]]
+- [brain-anatomy](../topics/brain-anatomy.md)
+- [cognitive-functions](../topics/cognitive-functions.md)

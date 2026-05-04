@@ -30,21 +30,21 @@ Key lessons from the report emphasize the importance of moving beyond GDP-centri
 
 ## Key Concepts
 
-- [[../topics/life-expectancy]]
-- [[../topics/self-reported-wellbeing]]
-- [[../topics/carbon-footprint]]
+- [life-expectancy](../topics/life-expectancy.md)
+- [self-reported-wellbeing](../topics/self-reported-wellbeing.md)
+- [carbon-footprint](../topics/carbon-footprint.md)
 
 ## Tags
 
-- [[../tags/sustainable-wellbeing]]
-- [[../tags/environmental-impact]]
-- [[../tags/quality-of-life]]
-- [[../tags/fxa301]]
+- [sustainable-wellbeing](../tags/sustainable-wellbeing.md)
+- [environmental-impact](../tags/environmental-impact.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[report]]
+- [report](report.md)
 
 ## See Also
 
-- [[../topics/quality-of-life]]
+- [quality-of-life](../topics/quality-of-life.md)

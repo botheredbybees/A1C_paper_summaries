@@ -24,25 +24,25 @@ This volume presents cutting-edge research and practical applications of Creativ
 
 ## Key Concepts
 
-- [[../topics/expressive arts therapy]]
-- [[../topics/empathy mirroring]]
-- [[../topics/tele-dance movement psychotherapy]]
+- [expressive arts therapy](../topics/expressive arts therapy.md)
+- [empathy mirroring](../topics/empathy mirroring.md)
+- [tele-dance movement psychotherapy](../topics/tele-dance movement psychotherapy.md)
 
 ## Tags
 
-- [[../tags/autism-spectrum]]
-- [[../tags/creative-arts-therapies]]
-- [[../tags/mental-wellbeing]]
-- [[../tags/digital-interventions]]
-- [[../tags/social-connections]]
-- [[../tags/fxa303]]
+- [autism-spectrum](../tags/autism-spectrum.md)
+- [creative-arts-therapies](../tags/creative-arts-therapies.md)
+- [mental-wellbeing](../tags/mental-wellbeing.md)
+- [digital-interventions](../tags/digital-interventions.md)
+- [social-connections](../tags/social-connections.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/creative-arts-therapies]]
-- [[../topics/mental-wellbeing]]
-- [[../topics/social-connections]]
+- [creative-arts-therapies](../topics/creative-arts-therapies.md)
+- [mental-wellbeing](../topics/mental-wellbeing.md)
+- [social-connections](../topics/social-connections.md)

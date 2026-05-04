@@ -24,21 +24,21 @@ The article 'Play Therapy: Considerations and Applications for the Practitioner'
 
 ## Key Concepts
 
-- [[../topics/symbolic-play]]
-- [[../topics/piaget-cognitive-stages]]
-- [[../topics/axline-play-therapy]]
+- [symbolic-play](../topics/symbolic-play.md)
+- [piaget-cognitive-stages](../topics/piaget-cognitive-stages.md)
+- [axline-play-therapy](../topics/axline-play-therapy.md)
 
 ## Tags
 
-- [[../tags/child-psychology]]
-- [[../tags/therapeutic-techniques]]
-- [[../tags/developmental-theory]]
-- [[../tags/fxa303]]
+- [child-psychology](../tags/child-psychology.md)
+- [therapeutic-techniques](../tags/therapeutic-techniques.md)
+- [developmental-theory](../tags/developmental-theory.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[literature-review]]
+- [literature-review](literature-review.md)
 
 ## See Also
 
-- [[../topics/child-psychology]]
+- [child-psychology](../topics/child-psychology.md)

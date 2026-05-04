@@ -24,16 +24,16 @@ This chapter discusses the significance of physical environmental design in enha
 
 ## Key Concepts
 
-- [[../topics/individual competence and environmental press model]]
-- [[../topics/model of place]]
-- [[../topics/progressively lowered threshold model]]
+- [individual competence and environmental press model](../topics/individual competence and environmental press model.md)
+- [model of place](../topics/model of place.md)
+- [progressively lowered threshold model](../topics/progressively lowered threshold model.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/environmental-design]]
-- [[../tags/quality-of-life]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [environmental-design](../tags/environmental-design.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -41,6 +41,6 @@ This chapter discusses the significance of physical environmental design in enha
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/environmental-design]]
-- [[../topics/quality-of-life]]
+- [dementia-care](../topics/dementia-care.md)
+- [environmental-design](../topics/environmental-design.md)
+- [quality-of-life](../topics/quality-of-life.md)

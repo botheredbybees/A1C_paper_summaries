@@ -24,23 +24,23 @@ The study presents a systematic review of person-centered care (PCC) interventio
 
 ## Key Concepts
 
-- [[../topics/person-centered-care]]
-- [[../topics/social-contact]]
-- [[../topics/cognitive-training]]
+- [person-centered-care](../topics/person-centered-care.md)
+- [social-contact](../topics/social-contact.md)
+- [cognitive-training](../topics/cognitive-training.md)
 
 ## Tags
 
-- [[../tags/person-centered-care]]
-- [[../tags/dementia-interventions]]
-- [[../tags/systematic-review]]
-- [[../tags/fxa100]]
+- [person-centered-care](../tags/person-centered-care.md)
+- [dementia-interventions](../tags/dementia-interventions.md)
+- [systematic-review](../tags/systematic-review.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/dementia-interventions]]
-- [[../topics/person-centered-care]]
-- [[../topics/systematic-review]]
+- [dementia-interventions](../topics/dementia-interventions.md)
+- [person-centered-care](../topics/person-centered-care.md)
+- [systematic-review](../topics/systematic-review.md)

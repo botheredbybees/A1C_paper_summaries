@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Event Organization
 
-- [[../sources/fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration-(2)|Musical Production Roles, Cultural Integration, and Event Organization]]
+- [Musical Production Roles, Cultural Integration, and Event Organization](../sources/fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration-(2).md)

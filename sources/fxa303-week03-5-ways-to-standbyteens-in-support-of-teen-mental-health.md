@@ -24,18 +24,18 @@ This webpage discusses the importance of supportive parenting and community enga
 
 ## Key Concepts
 
-- [[../topics/balanced parenting]]
-- [[../topics/emotional resilience]]
-- [[../topics/stress management techniques]]
+- [balanced parenting](../topics/balanced parenting.md)
+- [emotional resilience](../topics/emotional resilience.md)
+- [stress management techniques](../topics/stress management techniques.md)
 
 ## Tags
 
-- [[../tags/teen-mental-health]]
-- [[../tags/parenting-strategies]]
-- [[../tags/adolescent-emotional-development]]
-- [[../tags/resilience-building]]
-- [[../tags/community-support]]
-- [[../tags/fxa303]]
+- [teen-mental-health](../tags/teen-mental-health.md)
+- [parenting-strategies](../tags/parenting-strategies.md)
+- [adolescent-emotional-development](../tags/adolescent-emotional-development.md)
+- [resilience-building](../tags/resilience-building.md)
+- [community-support](../tags/community-support.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
@@ -43,5 +43,5 @@ This webpage discusses the importance of supportive parenting and community enga
 
 ## See Also
 
-- [[../topics/community-support]]
-- [[../topics/resilience-building]]
+- [community-support](../topics/community-support.md)
+- [resilience-building](../topics/resilience-building.md)

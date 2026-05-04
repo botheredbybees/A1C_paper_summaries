@@ -6,5 +6,5 @@ updated: 2026-05-04
 
 ## Nursing Home Interventions
 
-- [[../sources/fxa100-week09-implementing-living-room-theatre-activities-for-people-with|Implementing living room theatre activities for people with dementia on nursing home wards: a process evaluation study]]
-- [[../sources/fxa100-week09-implementing-living-room-theatre-activities-for-people-with-(2)|Implementing Living Room Theatre Activities for People with Dementia on Nursing Home Wards]]
+- [Implementing living room theatre activities for people with dementia on nursing home wards: a process evaluation study](../sources/fxa100-week09-implementing-living-room-theatre-activities-for-people-with.md)
+- [Implementing Living Room Theatre Activities for People with Dementia on Nursing Home Wards](../sources/fxa100-week09-implementing-living-room-theatre-activities-for-people-with-(2).md)

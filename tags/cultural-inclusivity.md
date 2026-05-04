@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Cultural Inclusivity
 
-- [[../sources/fxa100-week04-singing-and-the-brain|Singing and the Brain]]
+- [Singing and the Brain](../sources/fxa100-week04-singing-and-the-brain.md)

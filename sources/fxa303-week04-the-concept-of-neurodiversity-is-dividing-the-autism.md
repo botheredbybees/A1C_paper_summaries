@@ -30,25 +30,25 @@ Baron-Cohen suggests that these viewpoints are not necessarily mutually exclusiv
 
 ## Key Concepts
 
-- [[../topics/neurodiversity]]
-- [[../topics/pathologization]]
-- [[../topics/heterogeneity-of-autism]]
+- [neurodiversity](../topics/neurodiversity.md)
+- [pathologization](../topics/pathologization.md)
+- [heterogeneity-of-autism](../topics/heterogeneity-of-autism.md)
 
 ## Tags
 
-- [[../tags/neurodiversity]]
-- [[../tags/autism-community]]
-- [[../tags/psychological-theories]]
-- [[../tags/human-variation]]
-- [[../tags/inclusive-environment]]
-- [[../tags/medical-interventions]]
-- [[../tags/fxa303]]
+- [neurodiversity](../tags/neurodiversity.md)
+- [autism-community](../tags/autism-community.md)
+- [psychological-theories](../tags/psychological-theories.md)
+- [human-variation](../tags/human-variation.md)
+- [inclusive-environment](../tags/inclusive-environment.md)
+- [medical-interventions](../tags/medical-interventions.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[conceptual-analysis]]
+- [conceptual-analysis](conceptual-analysis.md)
 
 ## See Also
 
-- [[../topics/neurodiversity]]
-- [[../topics/psychological-theories]]
+- [neurodiversity](../topics/neurodiversity.md)
+- [psychological-theories](../topics/psychological-theories.md)

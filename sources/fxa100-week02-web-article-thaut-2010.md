@@ -24,15 +24,15 @@ This article explores how music can aid in the recovery of individuals with brai
 
 ## Key Concepts
 
-- [[../topics/neural plasticity]]
-- [[../topics/therapeutic intervention]]
+- [neural plasticity](../topics/neural plasticity.md)
+- [therapeutic intervention](../topics/therapeutic intervention.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/brain-injury-recovery]]
-- [[../tags/neuroplasticity]]
-- [[../tags/fxa100]]
+- [music-therapy](../tags/music-therapy.md)
+- [brain-injury-recovery](../tags/brain-injury-recovery.md)
+- [neuroplasticity](../tags/neuroplasticity.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -40,5 +40,5 @@ This article explores how music can aid in the recovery of individuals with brai
 
 ## See Also
 
-- [[../topics/music-therapy]]
-- [[../topics/neuroplasticity]]
+- [music-therapy](../topics/music-therapy.md)
+- [neuroplasticity](../topics/neuroplasticity.md)

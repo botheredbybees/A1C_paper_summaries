@@ -26,5 +26,5 @@ The exploration of cultural heritage through art and community engagement highli
 
 ## Sources
 
-- [[../sources/fxa301-week05-cork-as-canvas-exploring-intersections-of-citizenship-and]]
-- [[../sources/fxa301-week05-the-health-and-well-being-potential-of-museums-and-art]]
+- [fxa301-week05-cork-as-canvas-exploring-intersections-of-citizenship-and](../sources/fxa301-week05-cork-as-canvas-exploring-intersections-of-citizenship-and.md)
+- [fxa301-week05-the-health-and-well-being-potential-of-museums-and-art](../sources/fxa301-week05-the-health-and-well-being-potential-of-museums-and-art.md)

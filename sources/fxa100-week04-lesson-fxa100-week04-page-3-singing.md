@@ -24,16 +24,16 @@ This course material discusses the benefits of singing for individuals with deme
 
 ## Key Concepts
 
-- [[../topics/neurological benefits of singing]]
-- [[../topics/respiratory health improvement through singing]]
-- [[../topics/therapeutic interventions in dementia care]]
+- [neurological benefits of singing](../topics/neurological benefits of singing.md)
+- [respiratory health improvement through singing](../topics/respiratory health improvement through singing.md)
+- [therapeutic interventions in dementia care](../topics/therapeutic interventions in dementia care.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/music-therapy]]
-- [[../tags/singing-benefits]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [music-therapy](../tags/music-therapy.md)
+- [singing-benefits](../tags/singing-benefits.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ This course material discusses the benefits of singing for individuals with deme
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/music-therapy]]
+- [dementia-care](../topics/dementia-care.md)
+- [music-therapy](../topics/music-therapy.md)

@@ -24,22 +24,22 @@ The document outlines activities for Week 5 of the photo essay course at UTAS, e
 
 ## Key Concepts
 
-- [[../topics/image-based storytelling]]
-- [[../topics/free-writing exercises]]
+- [image-based storytelling](../topics/image-based storytelling.md)
+- [free-writing exercises](../topics/free-writing exercises.md)
 
 ## Tags
 
-- [[../tags/storytelling-techniques]]
-- [[../tags/caption-writing]]
-- [[../tags/creative-writing]]
-- [[../tags/fxa202]]
+- [storytelling-techniques](../tags/storytelling-techniques.md)
+- [caption-writing](../tags/caption-writing.md)
+- [creative-writing](../tags/creative-writing.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/caption-writing]]
-- [[../topics/creative-writing]]
-- [[../topics/storytelling-techniques]]
+- [caption-writing](../topics/caption-writing.md)
+- [creative-writing](../topics/creative-writing.md)
+- [storytelling-techniques](../topics/storytelling-techniques.md)

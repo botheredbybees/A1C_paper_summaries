@@ -24,22 +24,22 @@ This article discusses the significance and impact of disability-led theatre in 
 
 ## Key Concepts
 
-- [[../topics/inclusion]]
-- [[../topics/societal-understanding]]
-- [[../topics/confidence-building]]
+- [inclusion](../topics/inclusion.md)
+- [societal-understanding](../topics/societal-understanding.md)
+- [confidence-building](../topics/confidence-building.md)
 
 ## Tags
 
-- [[../tags/disability-arts]]
-- [[../tags/inclusive-theatre]]
-- [[../tags/dementia-friendly-performances]]
-- [[../tags/community-engagement]]
-- [[../tags/fxa301]]
+- [disability-arts](../tags/disability-arts.md)
+- [inclusive-theatre](../tags/inclusive-theatre.md)
+- [dementia-friendly-performances](../tags/dementia-friendly-performances.md)
+- [community-engagement](../tags/community-engagement.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/inclusive-theatre]]
+- [inclusive-theatre](../topics/inclusive-theatre.md)

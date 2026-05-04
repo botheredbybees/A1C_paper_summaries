@@ -24,26 +24,26 @@ This study investigates the impact of social dancing on fall rates among older a
 
 ## Key Concepts
 
-- [[../topics/cluster-randomized-controlled-trial]]
-- [[../topics/fall-prevention-strategies]]
-- [[../topics/balance-improvement]]
+- [cluster-randomized-controlled-trial](../topics/cluster-randomized-controlled-trial.md)
+- [fall-prevention-strategies](../topics/fall-prevention-strategies.md)
+- [balance-improvement](../topics/balance-improvement.md)
 
 ## Tags
 
-- [[../tags/falls-prevention]]
-- [[../tags/social-dancing]]
-- [[../tags/aging-research]]
-- [[../tags/physical-activity]]
-- [[../tags/public-health]]
-- [[../tags/fxa301]]
+- [falls-prevention](../tags/falls-prevention.md)
+- [social-dancing](../tags/social-dancing.md)
+- [aging-research](../tags/aging-research.md)
+- [physical-activity](../tags/physical-activity.md)
+- [public-health](../tags/public-health.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[RCT]]
+- [RCT](RCT.md)
 
 ## See Also
 
-- [[../topics/aging-research]]
-- [[../topics/falls-prevention]]
-- [[../topics/physical-activity]]
-- [[../topics/public-health]]
+- [aging-research](../topics/aging-research.md)
+- [falls-prevention](../topics/falls-prevention.md)
+- [physical-activity](../topics/physical-activity.md)
+- [public-health](../topics/public-health.md)

@@ -24,17 +24,17 @@ This transcript documents the impact of the iPod Project at Cobble Hill Alzheime
 
 ## Key Concepts
 
-- [[../topics/personalized music therapy]]
-- [[../topics/memory recall]]
-- [[../topics/emotional engagement]]
+- [personalized music therapy](../topics/personalized music therapy.md)
+- [memory recall](../topics/memory recall.md)
+- [emotional engagement](../topics/emotional engagement.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/dementia-care]]
-- [[../tags/person-centered-care]]
-- [[../tags/quality-of-life]]
-- [[../tags/fxa100]]
+- [music-therapy](../tags/music-therapy.md)
+- [dementia-care](../tags/dementia-care.md)
+- [person-centered-care](../tags/person-centered-care.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -42,7 +42,7 @@ This transcript documents the impact of the iPod Project at Cobble Hill Alzheime
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/music-therapy]]
-- [[../topics/person-centered-care]]
-- [[../topics/quality-of-life]]
+- [dementia-care](../topics/dementia-care.md)
+- [music-therapy](../topics/music-therapy.md)
+- [person-centered-care](../topics/person-centered-care.md)
+- [quality-of-life](../topics/quality-of-life.md)

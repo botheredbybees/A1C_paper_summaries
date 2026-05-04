@@ -33,12 +33,12 @@ The integration of emotional expression through various therapeutic intervention
 
 ## Sources
 
-- [[../sources/fxa100-how-we-thnk-about-dementia-ch15-chapter-9]]
-- [[../sources/fxa100-week04-singing-and-participation]]
-- [[../sources/fxa301-week02-current-emotion-research-in-music-psychology]]
-- [[../sources/fxa303-week06-emotional-expression-through-puppetry]]
-- [[../sources/fxa303-week06-mr-fox-is-sad]]
-- [[../sources/fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice]]
-- [[../sources/fxa303-week06-the-wonder-continues-captivating-and-engaging-adults]]
-- [[../sources/fxa303-week06-therapeutic-puppetry-and-wellbeing]]
-- [[../sources/fxa303-week06-virtual-puppet-play-therapy]]
+- [fxa100-how-we-thnk-about-dementia-ch15-chapter-9](../sources/fxa100-how-we-thnk-about-dementia-ch15-chapter-9.md)
+- [fxa100-week04-singing-and-participation](../sources/fxa100-week04-singing-and-participation.md)
+- [fxa301-week02-current-emotion-research-in-music-psychology](../sources/fxa301-week02-current-emotion-research-in-music-psychology.md)
+- [fxa303-week06-emotional-expression-through-puppetry](../sources/fxa303-week06-emotional-expression-through-puppetry.md)
+- [fxa303-week06-mr-fox-is-sad](../sources/fxa303-week06-mr-fox-is-sad.md)
+- [fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice](../sources/fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice.md)
+- [fxa303-week06-the-wonder-continues-captivating-and-engaging-adults](../sources/fxa303-week06-the-wonder-continues-captivating-and-engaging-adults.md)
+- [fxa303-week06-therapeutic-puppetry-and-wellbeing](../sources/fxa303-week06-therapeutic-puppetry-and-wellbeing.md)
+- [fxa303-week06-virtual-puppet-play-therapy](../sources/fxa303-week06-virtual-puppet-play-therapy.md)

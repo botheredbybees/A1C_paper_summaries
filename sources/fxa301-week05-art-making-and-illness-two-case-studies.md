@@ -26,24 +26,24 @@ This document presents two case studies examining the impact of art-making on in
 
 ## Key Concepts
 
-- [[../topics/self-identity]]
-- [[../topics/community-building]]
-- [[../topics/creative-expression]]
+- [self-identity](../topics/self-identity.md)
+- [community-building](../topics/community-building.md)
+- [creative-expression](../topics/creative-expression.md)
 
 ## Tags
 
-- [[../tags/art-therapy]]
-- [[../tags/cancer-treatment]]
-- [[../tags/case-study-research]]
-- [[../tags/emotional-wellbeing]]
-- [[../tags/patient-support]]
-- [[../tags/fxa301]]
+- [art-therapy](../tags/art-therapy.md)
+- [cancer-treatment](../tags/cancer-treatment.md)
+- [case-study-research](../tags/case-study-research.md)
+- [emotional-wellbeing](../tags/emotional-wellbeing.md)
+- [patient-support](../tags/patient-support.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/cancer-treatment]]
-- [[../topics/emotional-wellbeing]]
+- [cancer-treatment](../topics/cancer-treatment.md)
+- [emotional-wellbeing](../topics/emotional-wellbeing.md)

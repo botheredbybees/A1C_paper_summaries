@@ -24,15 +24,15 @@ This lesson explores the therapeutic value of music for dementia care through ca
 
 ## Key Concepts
 
-- [[../topics/musical-memory-theory]]
-- [[../topics/mesolimbic-pathway]]
+- [musical-memory-theory](../topics/musical-memory-theory.md)
+- [mesolimbic-pathway](../topics/mesolimbic-pathway.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/music-therapy]]
-- [[../tags/memory-retrieval]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [music-therapy](../tags/music-therapy.md)
+- [memory-retrieval](../tags/memory-retrieval.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -40,6 +40,6 @@ This lesson explores the therapeutic value of music for dementia care through ca
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/memory-retrieval]]
-- [[../topics/music-therapy]]
+- [dementia-care](../topics/dementia-care.md)
+- [memory-retrieval](../topics/memory-retrieval.md)
+- [music-therapy](../topics/music-therapy.md)

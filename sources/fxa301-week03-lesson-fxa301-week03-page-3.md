@@ -24,15 +24,15 @@ The lesson explores the public health perspective on creative arts and their rec
 
 ## Key Concepts
 
-- [[../topics/social-prescribing]]
-- [[../topics/national-arts-and-health-framework]]
+- [social-prescribing](../topics/social-prescribing.md)
+- [national-arts-and-health-framework](../topics/national-arts-and-health-framework.md)
 
 ## Tags
 
-- [[../tags/public-health]]
-- [[../tags/government-policy]]
-- [[../tags/creative-arts]]
-- [[../tags/fxa301]]
+- [public-health](../tags/public-health.md)
+- [government-policy](../tags/government-policy.md)
+- [creative-arts](../tags/creative-arts.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -40,5 +40,5 @@ The lesson explores the public health perspective on creative arts and their rec
 
 ## See Also
 
-- [[../topics/creative-arts]]
-- [[../topics/public-health]]
+- [creative-arts](../topics/creative-arts.md)
+- [public-health](../topics/public-health.md)

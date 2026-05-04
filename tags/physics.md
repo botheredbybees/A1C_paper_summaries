@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Physics
 
-- [[../sources/fxa100-week02-transcript-moshing-with-physics-jesse-silverberg-tedxyale|Moshing with Physics]]
+- [Moshing with Physics](../sources/fxa100-week02-transcript-moshing-with-physics-jesse-silverberg-tedxyale.md)

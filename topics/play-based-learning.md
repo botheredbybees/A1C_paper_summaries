@@ -26,5 +26,5 @@ Play-based learning is a pedagogical approach that integrates play into educatio
 
 ## Sources
 
-- [[../sources/fxa303-week02-fxa303-week-2-child-development-and-creative-arts]]
-- [[../sources/fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental]]
+- [fxa303-week02-fxa303-week-2-child-development-and-creative-arts](../sources/fxa303-week02-fxa303-week-2-child-development-and-creative-arts.md)
+- [fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental](../sources/fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental.md)

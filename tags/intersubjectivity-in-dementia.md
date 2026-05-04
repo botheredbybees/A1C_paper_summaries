@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Intersubjectivity In Dementia
 
-- [[../sources/fxa100-week09-the-experience-of-dementia|The experience of dementia]]
+- [The experience of dementia](../sources/fxa100-week09-the-experience-of-dementia.md)

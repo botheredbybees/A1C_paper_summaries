@@ -24,25 +24,25 @@ The study explores the role of group singing in facilitating social cohesion amo
 
 ## Key Concepts
 
-- [[../topics/social-cohesion]]
-- [[../topics/positive-affect]]
-- [[../topics/endorphin-release]]
+- [social-cohesion](../topics/social-cohesion.md)
+- [positive-affect](../topics/positive-affect.md)
+- [endorphin-release](../topics/endorphin-release.md)
 
 ## Tags
 
-- [[../tags/social-bonding]]
-- [[../tags/group-dynamics]]
-- [[../tags/singing-therapy]]
-- [[../tags/emotional-synchrony]]
-- [[../tags/endurance-research]]
-- [[../tags/fxa301]]
+- [social-bonding](../tags/social-bonding.md)
+- [group-dynamics](../tags/group-dynamics.md)
+- [singing-therapy](../tags/singing-therapy.md)
+- [emotional-synchrony](../tags/emotional-synchrony.md)
+- [endurance-research](../tags/endurance-research.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[longitudinal-study]]
-- [[qualitative-analysis]]
+- [longitudinal-study](longitudinal-study.md)
+- [qualitative-analysis](qualitative-analysis.md)
 
 ## See Also
 
-- [[../topics/singing-therapy]]
-- [[../topics/social-bonding]]
+- [singing-therapy](../topics/singing-therapy.md)
+- [social-bonding](../topics/social-bonding.md)

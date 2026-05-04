@@ -24,17 +24,17 @@ This transcript captures a dialogue between several teenagers discussing their s
 
 ## Key Concepts
 
-- [[../topics/promises of marriage]]
-- [[../topics/virginity]]
-- [[../topics/sexual health education]]
+- [promises of marriage](../topics/promises of marriage.md)
+- [virginity](../topics/virginity.md)
+- [sexual health education](../topics/sexual health education.md)
 
 ## Tags
 
-- [[../tags/teenage-relationships]]
-- [[../tags/peer-pressure]]
-- [[../tags/sexuality]]
-- [[../tags/parties]]
-- [[../tags/fxa301]]
+- [teenage-relationships](../tags/teenage-relationships.md)
+- [peer-pressure](../tags/peer-pressure.md)
+- [sexuality](../tags/sexuality.md)
+- [parties](../tags/parties.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

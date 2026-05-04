@@ -24,28 +24,28 @@ This study aimed to determine the effects of a hand puppet-based therapeutic pla
 
 ## Key Concepts
 
-- [[../topics/hand puppet-based therapeutic play]]
-- [[../topics/preschool children]]
-- [[../topics/blood collection procedure]]
-- [[../topics/fear and pain reduction]]
+- [hand puppet-based therapeutic play](../topics/hand puppet-based therapeutic play.md)
+- [preschool children](../topics/preschool children.md)
+- [blood collection procedure](../topics/blood collection procedure.md)
+- [fear and pain reduction](../topics/fear and pain reduction.md)
 
 ## Tags
 
-- [[../tags/child-psychology]]
-- [[../tags/therapeutic-interventions]]
-- [[../tags/health-care]]
-- [[../tags/puppet-therapy]]
-- [[../tags/pain-management]]
-- [[../tags/pediatric-nursing]]
-- [[../tags/fxa303]]
+- [child-psychology](../tags/child-psychology.md)
+- [therapeutic-interventions](../tags/therapeutic-interventions.md)
+- [health-care](../tags/health-care.md)
+- [puppet-therapy](../tags/puppet-therapy.md)
+- [pain-management](../tags/pain-management.md)
+- [pediatric-nursing](../tags/pediatric-nursing.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[randomized controlled trial]]
+- [randomized controlled trial](randomized controlled trial.md)
 
 ## See Also
 
-- [[../topics/child-psychology]]
-- [[../topics/health-care]]
-- [[../topics/puppet-therapy]]
-- [[../topics/therapeutic-interventions]]
+- [child-psychology](../topics/child-psychology.md)
+- [health-care](../topics/health-care.md)
+- [puppet-therapy](../topics/puppet-therapy.md)
+- [therapeutic-interventions](../topics/therapeutic-interventions.md)

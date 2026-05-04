@@ -28,24 +28,24 @@ Overall, the document highlights the multifaceted role of arts in healthcare set
 
 ## Key Concepts
 
-- [[../topics/therapeutic-benefits]]
-- [[../topics/rhythmic-auditory-stimulation]]
+- [therapeutic-benefits](../topics/therapeutic-benefits.md)
+- [rhythmic-auditory-stimulation](../topics/rhythmic-auditory-stimulation.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/dance-therapy]]
-- [[../tags/healthcare-interventions]]
-- [[../tags/wellbeing-enhancement]]
-- [[../tags/fxa301]]
+- [music-therapy](../tags/music-therapy.md)
+- [dance-therapy](../tags/dance-therapy.md)
+- [healthcare-interventions](../tags/healthcare-interventions.md)
+- [wellbeing-enhancement](../tags/wellbeing-enhancement.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/dance-therapy]]
-- [[../topics/healthcare-interventions]]
-- [[../topics/music-therapy]]
-- [[../topics/wellbeing-enhancement]]
+- [dance-therapy](../topics/dance-therapy.md)
+- [healthcare-interventions](../topics/healthcare-interventions.md)
+- [music-therapy](../topics/music-therapy.md)
+- [wellbeing-enhancement](../topics/wellbeing-enhancement.md)

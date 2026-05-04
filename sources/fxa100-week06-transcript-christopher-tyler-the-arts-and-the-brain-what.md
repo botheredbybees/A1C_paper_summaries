@@ -24,16 +24,16 @@ This transcript captures a discussion on the intersection between neuroscience, 
 
 ## Key Concepts
 
-- [[../topics/mirror neurons]]
-- [[../topics/empathetic understanding]]
-- [[../topics/neural activity]]
+- [mirror neurons](../topics/mirror neurons.md)
+- [empathetic understanding](../topics/empathetic understanding.md)
+- [neural activity](../topics/neural activity.md)
 
 ## Tags
 
-- [[../tags/neuroscience]]
-- [[../tags/art-history]]
-- [[../tags/embodied-cognition]]
-- [[../tags/fxa100]]
+- [neuroscience](../tags/neuroscience.md)
+- [art-history](../tags/art-history.md)
+- [embodied-cognition](../tags/embodied-cognition.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -41,6 +41,6 @@ This transcript captures a discussion on the intersection between neuroscience, 
 
 ## See Also
 
-- [[../topics/art-history]]
-- [[../topics/embodied-cognition]]
-- [[../topics/neuroscience]]
+- [art-history](../topics/art-history.md)
+- [embodied-cognition](../topics/embodied-cognition.md)
+- [neuroscience](../topics/neuroscience.md)

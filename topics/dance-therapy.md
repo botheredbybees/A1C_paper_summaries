@@ -38,13 +38,13 @@ While the therapeutic benefits of dance therapy are widely recognized, its integ
 
 ## Sources
 
-- [[../sources/fxa100-creativity-and-communication-ch06-5-moving-in-the-moment-dance-john-killick-in-the-previous]]
-- [[../sources/fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags]]
-- [[../sources/fxa100-week09-lesson-fxa100-week09-page-2-dance-therapy-drama-therapy]]
-- [[../sources/fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and]]
-- [[../sources/fxa100-week09-transcript-this-video-clip-from-the-american-dance-therapy]]
-- [[../sources/fxa301-week03-transcript-youtube-5utv1ergbs8]]
-- [[../sources/fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing]]
-- [[../sources/fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with]]
-- [[../sources/fxa301-week06-promoting-wellbeing-and-health-through-active-participation]]
-- [[../sources/fxa301-week06-the-art-and-science-of-dancemovement-therapy]]
+- [fxa100-creativity-and-communication-ch06-5-moving-in-the-moment-dance-john-killick-in-the-previous](../sources/fxa100-creativity-and-communication-ch06-5-moving-in-the-moment-dance-john-killick-in-the-previous.md)
+- [fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags](../sources/fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags.md)
+- [fxa100-week09-lesson-fxa100-week09-page-2-dance-therapy-drama-therapy](../sources/fxa100-week09-lesson-fxa100-week09-page-2-dance-therapy-drama-therapy.md)
+- [fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and](../sources/fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and.md)
+- [fxa100-week09-transcript-this-video-clip-from-the-american-dance-therapy](../sources/fxa100-week09-transcript-this-video-clip-from-the-american-dance-therapy.md)
+- [fxa301-week03-transcript-youtube-5utv1ergbs8](../sources/fxa301-week03-transcript-youtube-5utv1ergbs8.md)
+- [fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing](../sources/fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing.md)
+- [fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with](../sources/fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with.md)
+- [fxa301-week06-promoting-wellbeing-and-health-through-active-participation](../sources/fxa301-week06-promoting-wellbeing-and-health-through-active-participation.md)
+- [fxa301-week06-the-art-and-science-of-dancemovement-therapy](../sources/fxa301-week06-the-art-and-science-of-dancemovement-therapy.md)

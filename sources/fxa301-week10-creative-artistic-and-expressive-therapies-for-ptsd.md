@@ -24,21 +24,21 @@ Joshua Smyth's paper discusses various creative and expressive therapies that ca
 
 ## Key Concepts
 
-- [[../topics/expressive writing]]
-- [[../topics/creative therapies]]
-- [[../topics/PTSD treatment]]
+- [expressive writing](../topics/expressive writing.md)
+- [creative therapies](../topics/creative therapies.md)
+- [PTSD treatment](../topics/PTSD treatment.md)
 
 ## Tags
 
-- [[../tags/ptsd-treatment]]
-- [[../tags/expressive-writing]]
-- [[../tags/creative-therapies]]
-- [[../tags/emotional-regulation]]
-- [[../tags/fxa301]]
+- [ptsd-treatment](../tags/ptsd-treatment.md)
+- [expressive-writing](../tags/expressive-writing.md)
+- [creative-therapies](../tags/creative-therapies.md)
+- [emotional-regulation](../tags/emotional-regulation.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 

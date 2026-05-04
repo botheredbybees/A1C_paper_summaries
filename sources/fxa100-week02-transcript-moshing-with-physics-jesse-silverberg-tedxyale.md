@@ -24,15 +24,15 @@ In this TEDxYale lecture, Jesse Silverberg discusses the physics of mosh pits in
 
 ## Key Concepts
 
-- [[../topics/emergent phenomena]]
-- [[../topics/statistical mechanics]]
+- [emergent phenomena](../topics/emergent phenomena.md)
+- [statistical mechanics](../topics/statistical mechanics.md)
 
 ## Tags
 
-- [[../tags/physics]]
-- [[../tags/music-culture]]
-- [[../tags/collective-behavior]]
-- [[../tags/fxa100]]
+- [physics](../tags/physics.md)
+- [music-culture](../tags/music-culture.md)
+- [collective-behavior](../tags/collective-behavior.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -40,5 +40,5 @@ In this TEDxYale lecture, Jesse Silverberg discusses the physics of mosh pits in
 
 ## See Also
 
-- [[../topics/collective-behavior]]
-- [[../topics/music-culture]]
+- [collective-behavior](../topics/collective-behavior.md)
+- [music-culture](../topics/music-culture.md)

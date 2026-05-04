@@ -24,24 +24,24 @@ This study examines the relationship between music practice and the wellbeing of
 
 ## Key Concepts
 
-- [[../topics/emotional-expression]]
-- [[../topics/self-identity]]
-- [[../topics/sense-of-agency]]
-- [[../topics/social-relations]]
+- [emotional-expression](../topics/emotional-expression.md)
+- [self-identity](../topics/self-identity.md)
+- [sense-of-agency](../topics/sense-of-agency.md)
+- [social-relations](../topics/social-relations.md)
 
 ## Tags
 
-- [[../tags/music-and-wellbeing]]
-- [[../tags/refugee-studies]]
-- [[../tags/protracted-displacement]]
-- [[../tags/yazidi-refugees]]
-- [[../tags/health-promotion]]
-- [[../tags/community-action]]
-- [[../tags/fxa303]]
+- [music-and-wellbeing](../tags/music-and-wellbeing.md)
+- [refugee-studies](../tags/refugee-studies.md)
+- [protracted-displacement](../tags/protracted-displacement.md)
+- [yazidi-refugees](../tags/yazidi-refugees.md)
+- [health-promotion](../tags/health-promotion.md)
+- [community-action](../tags/community-action.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- **case-study**
 
 ## See Also
 

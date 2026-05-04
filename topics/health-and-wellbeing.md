@@ -26,5 +26,5 @@ The integration of creative arts into community practices as a means to enhance 
 
 ## Sources
 
-- [[../sources/fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts-(2)]]
-- [[../sources/fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1]]
+- [fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts-(2)](../sources/fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts-(2).md)
+- [fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1](../sources/fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1.md)

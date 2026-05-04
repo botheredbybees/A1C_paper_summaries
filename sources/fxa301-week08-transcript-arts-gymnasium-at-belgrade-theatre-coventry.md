@@ -24,15 +24,15 @@ This transcript features personal stories shared by participants of the Arts Gym
 
 ## Key Concepts
 
-- [[../topics/self-confidence]]
-- [[../topics/sense-of-belonging]]
+- [self-confidence](../topics/self-confidence.md)
+- [sense-of-belonging](../topics/sense-of-belonging.md)
 
 ## Tags
 
-- [[../tags/arts-and-culture]]
-- [[../tags/community-engagement]]
-- [[../tags/wellness]]
-- [[../tags/fxa301]]
+- [arts-and-culture](../tags/arts-and-culture.md)
+- [community-engagement](../tags/community-engagement.md)
+- [wellness](../tags/wellness.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ This transcript features personal stories shared by participants of the Arts Gym
 
 ## See Also
 
-- [[../topics/arts-and-culture]]
+- [arts-and-culture](../topics/arts-and-culture.md)

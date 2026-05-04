@@ -24,16 +24,16 @@ This chapter discusses the ethical considerations in data analysis and dissemina
 
 ## Key Concepts
 
-- [[../topics/anonymity preservation]]
-- [[../topics/Vancouver Protocol]]
-- [[../topics/transparency in reporting]]
+- [anonymity preservation](../topics/anonymity preservation.md)
+- [Vancouver Protocol](../topics/Vancouver Protocol.md)
+- [transparency in reporting](../topics/transparency in reporting.md)
 
 ## Tags
 
-- [[../tags/data-analysis]]
-- [[../tags/research-ethics]]
-- [[../tags/dissemination]]
-- [[../tags/fxa301]]
+- [data-analysis](../tags/data-analysis.md)
+- [research-ethics](../tags/research-ethics.md)
+- [dissemination](../tags/dissemination.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,6 +41,6 @@ This chapter discusses the ethical considerations in data analysis and dissemina
 
 ## See Also
 
-- [[../topics/data-analysis]]
-- [[../topics/dissemination]]
-- [[../topics/research-ethics]]
+- [data-analysis](../topics/data-analysis.md)
+- [dissemination](../topics/dissemination.md)
+- [research-ethics](../topics/research-ethics.md)

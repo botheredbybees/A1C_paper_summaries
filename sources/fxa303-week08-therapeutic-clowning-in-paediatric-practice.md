@@ -24,24 +24,24 @@ This paper explores the use of therapeutic clowning in pediatric care, examining
 
 ## Key Concepts
 
-- [[../topics/distraction-therapy]]
-- [[../topics/anesthesia-induction]]
-- [[../topics/parental-anxiety-reduction]]
+- [distraction-therapy](../topics/distraction-therapy.md)
+- [anesthesia-induction](../topics/anesthesia-induction.md)
+- [parental-anxiety-reduction](../topics/parental-anxiety-reduction.md)
 
 ## Tags
 
-- [[../tags/therapeutic-clowning]]
-- [[../tags/pediatric-care]]
-- [[../tags/patient-anxiety]]
-- [[../tags/medical-procedures]]
-- [[../tags/fxa303]]
+- [therapeutic-clowning](../tags/therapeutic-clowning.md)
+- [pediatric-care](../tags/pediatric-care.md)
+- [patient-anxiety](../tags/patient-anxiety.md)
+- [medical-procedures](../tags/medical-procedures.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/medical-procedures]]
-- [[../topics/pediatric-care]]
-- [[../topics/therapeutic-clowning]]
+- [medical-procedures](../topics/medical-procedures.md)
+- [pediatric-care](../topics/pediatric-care.md)
+- [therapeutic-clowning](../topics/therapeutic-clowning.md)

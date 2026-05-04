@@ -24,25 +24,25 @@ This study investigates the relationship between artificial intelligence (AI) to
 
 ## Key Concepts
 
-- [[../topics/cognitive offloading]]
-- [[../topics/critical thinking skills]]
-- [[../topics/educational attainment impact]]
+- [cognitive offloading](../topics/cognitive offloading.md)
+- [critical thinking skills](../topics/critical thinking skills.md)
+- [educational attainment impact](../topics/educational attainment impact.md)
 
 ## Tags
 
-- [[../tags/artificial-intelligence]]
-- [[../tags/cognitive-offloading]]
-- [[../tags/critical-thinking]]
-- [[../tags/mixed-methods-research]]
-- [[../tags/technology-dependency]]
-- [[../tags/fxa100]]
+- [artificial-intelligence](../tags/artificial-intelligence.md)
+- [cognitive-offloading](../tags/cognitive-offloading.md)
+- [critical-thinking](../tags/critical-thinking.md)
+- [mixed-methods-research](../tags/mixed-methods-research.md)
+- [technology-dependency](../tags/technology-dependency.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[surveys]]
-- [[in-depth interviews]]
+- [surveys](surveys.md)
+- [in-depth interviews](in-depth interviews.md)
 
 ## See Also
 
-- [[../topics/cognitive-offloading]]
-- [[../topics/mixed-methods-research]]
+- [cognitive-offloading](../topics/cognitive-offloading.md)
+- [mixed-methods-research](../topics/mixed-methods-research.md)

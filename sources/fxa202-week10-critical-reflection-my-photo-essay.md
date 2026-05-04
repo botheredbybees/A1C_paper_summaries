@@ -24,22 +24,22 @@ This critical reflection by Melanie Hall explores the creation and therapeutic b
 
 ## Key Concepts
 
-- [[../topics/postnatal depression]]
-- [[../topics/therapeutic benefits of photography]]
-- [[../topics/mindfulness and coping mechanisms]]
+- [postnatal depression](../topics/postnatal depression.md)
+- [therapeutic benefits of photography](../topics/therapeutic benefits of photography.md)
+- [mindfulness and coping mechanisms](../topics/mindfulness and coping mechanisms.md)
 
 ## Tags
 
-- [[../tags/postnatal-depression]]
-- [[../tags/creative-therapy]]
-- [[../tags/photo-journalism]]
-- [[../tags/mental-health-recovery]]
-- [[../tags/mindfulness-practice]]
-- [[../tags/fxa202]]
+- [postnatal-depression](../tags/postnatal-depression.md)
+- [creative-therapy](../tags/creative-therapy.md)
+- [photo-journalism](../tags/photo-journalism.md)
+- [mental-health-recovery](../tags/mental-health-recovery.md)
+- [mindfulness-practice](../tags/mindfulness-practice.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[critical reflection]]
+- [critical reflection](critical reflection.md)
 
 ## See Also
 

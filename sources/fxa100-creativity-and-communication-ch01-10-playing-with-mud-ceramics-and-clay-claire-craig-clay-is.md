@@ -24,17 +24,17 @@ This chapter explores the use of ceramics and clay as therapeutic materials for 
 
 ## Key Concepts
 
-- [[../topics/tactile-experience]]
-- [[../topics/creative-outlet-for-emotions]]
-- [[../topics/personal-expression-through-crafting]]
+- [tactile-experience](../topics/tactile-experience.md)
+- [creative-outlet-for-emotions](../topics/creative-outlet-for-emotions.md)
+- [personal-expression-through-crafting](../topics/personal-expression-through-crafting.md)
 
 ## Tags
 
-- [[../tags/dementia-therapy]]
-- [[../tags/clay-art]]
-- [[../tags/therapeutic-materials]]
-- [[../tags/self-expression-through-art]]
-- [[../tags/fxa100]]
+- [dementia-therapy](../tags/dementia-therapy.md)
+- [clay-art](../tags/clay-art.md)
+- [therapeutic-materials](../tags/therapeutic-materials.md)
+- [self-expression-through-art](../tags/self-expression-through-art.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -42,4 +42,4 @@ This chapter explores the use of ceramics and clay as therapeutic materials for 
 
 ## See Also
 
-- [[../topics/dementia-therapy]]
+- [dementia-therapy](../topics/dementia-therapy.md)

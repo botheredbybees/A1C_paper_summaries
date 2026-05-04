@@ -24,27 +24,27 @@ This systematic review evaluates the efficacy of different dance genres as a the
 
 ## Key Concepts
 
-- [[../topics/mobility-improvement]]
-- [[../topics/freezing-of-gait]]
-- [[../topics/external-cues]]
+- [mobility-improvement](../topics/mobility-improvement.md)
+- [freezing-of-gait](../topics/freezing-of-gait.md)
+- [external-cues](../topics/external-cues.md)
 
 ## Tags
 
-- [[../tags/parkinsons-disease]]
-- [[../tags/therapeutic-dancing]]
-- [[../tags/quality-of-life]]
-- [[../tags/systematic-review]]
-- [[../tags/physical-therapy]]
-- [[../tags/fxa301]]
+- [parkinsons-disease](../tags/parkinsons-disease.md)
+- [therapeutic-dancing](../tags/therapeutic-dancing.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [systematic-review](../tags/systematic-review.md)
+- [physical-therapy](../tags/physical-therapy.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/parkinsons-disease]]
-- [[../topics/physical-therapy]]
-- [[../topics/quality-of-life]]
-- [[../topics/systematic-review]]
-- [[../topics/therapeutic-dancing]]
+- [parkinsons-disease](../topics/parkinsons-disease.md)
+- [physical-therapy](../topics/physical-therapy.md)
+- [quality-of-life](../topics/quality-of-life.md)
+- [systematic-review](../topics/systematic-review.md)
+- [therapeutic-dancing](../topics/therapeutic-dancing.md)

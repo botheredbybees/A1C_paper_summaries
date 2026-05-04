@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Audio Video Recording
 
-- [[../sources/fxa301-make-arts-for-a-better-life-ch05-1-read-your|The Principles and Practices of Ethnographic Fieldwork]]
+- [The Principles and Practices of Ethnographic Fieldwork](../sources/fxa301-make-arts-for-a-better-life-ch05-1-read-your.md)

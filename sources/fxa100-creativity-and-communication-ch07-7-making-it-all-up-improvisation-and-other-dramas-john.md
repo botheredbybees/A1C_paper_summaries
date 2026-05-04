@@ -24,15 +24,15 @@ This chapter discusses the benefits of improvisational drama for individuals wit
 
 ## Key Concepts
 
-- [[../topics/spontaneity in dementia care]]
-- [[../topics/humor therapy]]
+- [spontaneity in dementia care](../topics/spontaneity in dementia care.md)
+- [humor therapy](../topics/humor therapy.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/improvisation-theater]]
-- [[../tags/social-interaction]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [improvisation-theater](../tags/improvisation-theater.md)
+- [social-interaction](../tags/social-interaction.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -40,5 +40,5 @@ This chapter discusses the benefits of improvisational drama for individuals wit
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/social-interaction]]
+- [dementia-care](../topics/dementia-care.md)
+- [social-interaction](../topics/social-interaction.md)

@@ -24,16 +24,16 @@ This chapter discusses the influence of cultural activities on health and longev
 
 ## Key Concepts
 
-- [[../topics/art-intervention]]
-- [[../topics/cognitive-development]]
-- [[../topics/public-health]]
+- [art-intervention](../topics/art-intervention.md)
+- [cognitive-development](../topics/cognitive-development.md)
+- [public-health](../topics/public-health.md)
 
 ## Tags
 
-- [[../tags/cultural-activities]]
-- [[../tags/health-outcomes]]
-- [[../tags/survival-rate]]
-- [[../tags/fxa301]]
+- [cultural-activities](../tags/cultural-activities.md)
+- [health-outcomes](../tags/health-outcomes.md)
+- [survival-rate](../tags/survival-rate.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ This chapter discusses the influence of cultural activities on health and longev
 
 ## See Also
 
-- [[../topics/cultural-activities]]
-- [[../topics/health-outcomes]]
+- [cultural-activities](../topics/cultural-activities.md)
+- [health-outcomes](../topics/health-outcomes.md)

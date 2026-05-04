@@ -30,9 +30,9 @@ The provided sources collectively explore the rich narrative potential of visual
 
 ## Sources
 
-- [[../sources/fxa202-week01-lesson-fxa202-week01-chapter-3-what-is-a-photo-essay]]
-- [[../sources/fxa202-week01-week-1-lecture-transcript]]
-- [[../sources/fxa202-week02-60-inspiring-examples-of-black-and-white-photography]]
-- [[../sources/fxa202-week02-negative-space-in-photography-and-positive-space]]
-- [[../sources/fxa202-week02-photography-tips-point-of-view-composition]]
-- [[../sources/fxa202-week02-street-photography-composition-lesson-12-color-theory]]
+- [fxa202-week01-lesson-fxa202-week01-chapter-3-what-is-a-photo-essay](../sources/fxa202-week01-lesson-fxa202-week01-chapter-3-what-is-a-photo-essay.md)
+- [fxa202-week01-week-1-lecture-transcript](../sources/fxa202-week01-week-1-lecture-transcript.md)
+- [fxa202-week02-60-inspiring-examples-of-black-and-white-photography](../sources/fxa202-week02-60-inspiring-examples-of-black-and-white-photography.md)
+- [fxa202-week02-negative-space-in-photography-and-positive-space](../sources/fxa202-week02-negative-space-in-photography-and-positive-space.md)
+- [fxa202-week02-photography-tips-point-of-view-composition](../sources/fxa202-week02-photography-tips-point-of-view-composition.md)
+- [fxa202-week02-street-photography-composition-lesson-12-color-theory](../sources/fxa202-week02-street-photography-composition-lesson-12-color-theory.md)

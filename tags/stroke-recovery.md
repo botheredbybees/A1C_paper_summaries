@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Stroke Recovery
 
-- [[../sources/fxa301-week09-stroke-choirs-stroke-recovery-association-nsw|Stroke Choirs | Stroke Recovery Association NSW]]
+- [Stroke Choirs | Stroke Recovery Association NSW](../sources/fxa301-week09-stroke-choirs-stroke-recovery-association-nsw.md)

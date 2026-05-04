@@ -24,16 +24,16 @@ This lesson discusses the concept of Inclusive Arts, which focuses on creative a
 
 ## Key Concepts
 
-- [[../topics/Inclusive Arts]]
-- [[../topics/Social Model of Disability]]
+- [Inclusive Arts](../topics/Inclusive Arts.md)
+- [Social Model of Disability](../topics/Social Model of Disability.md)
 
 ## Tags
 
-- [[../tags/inclusive-arts]]
-- [[../tags/disability-rights]]
-- [[../tags/social-model-disability]]
-- [[../tags/creative-expression]]
-- [[../tags/fxa301]]
+- [inclusive-arts](../tags/inclusive-arts.md)
+- [disability-rights](../tags/disability-rights.md)
+- [social-model-disability](../tags/social-model-disability.md)
+- [creative-expression](../tags/creative-expression.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,7 +41,7 @@ This lesson discusses the concept of Inclusive Arts, which focuses on creative a
 
 ## See Also
 
-- [[../topics/creative-expression]]
-- [[../topics/disability-rights]]
-- [[../topics/inclusive-arts]]
-- [[../topics/social-model-disability]]
+- [creative-expression](../topics/creative-expression.md)
+- [disability-rights](../topics/disability-rights.md)
+- [inclusive-arts](../topics/inclusive-arts.md)
+- [social-model-disability](../topics/social-model-disability.md)

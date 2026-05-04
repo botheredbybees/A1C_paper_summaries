@@ -24,22 +24,22 @@ Tanya Hughes’s personal narrative, 'You Are the Best Dancer,' recounts her jou
 
 ## Key Concepts
 
-- [[../topics/resilience]]
-- [[../topics/sense-of-self]]
+- [resilience](../topics/resilience.md)
+- [sense-of-self](../topics/sense-of-self.md)
 
 ## Tags
 
-- [[../tags/personal-narrative]]
-- [[../tags/breast-cancer-survivorship]]
-- [[../tags/identity-reconstruction]]
-- [[../tags/creative-expression-therapy]]
-- [[../tags/cancer-support-networks]]
-- [[../tags/fxa202]]
+- [personal-narrative](../tags/personal-narrative.md)
+- [breast-cancer-survivorship](../tags/breast-cancer-survivorship.md)
+- [identity-reconstruction](../tags/identity-reconstruction.md)
+- [creative-expression-therapy](../tags/creative-expression-therapy.md)
+- [cancer-support-networks](../tags/cancer-support-networks.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[personal-narrative]]
+- [personal-narrative](personal-narrative.md)
 
 ## See Also
 
-- [[../topics/personal-narrative]]
+- [personal-narrative](../topics/personal-narrative.md)

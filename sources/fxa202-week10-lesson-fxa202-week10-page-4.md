@@ -24,15 +24,15 @@ This LAW122 legal systems course module provides guidance on completing a photo 
 
 ## Key Concepts
 
-- [[../topics/dispassionate-engagement]]
-- [[../topics/storytelling-through-images]]
+- [dispassionate-engagement](../topics/dispassionate-engagement.md)
+- [storytelling-through-images](../topics/storytelling-through-images.md)
 
 ## Tags
 
-- [[../tags/legal-systems]]
-- [[../tags/photo-essay-guidelines]]
-- [[../tags/creative-expression]]
-- [[../tags/fxa202]]
+- [legal-systems](../tags/legal-systems.md)
+- [photo-essay-guidelines](../tags/photo-essay-guidelines.md)
+- [creative-expression](../tags/creative-expression.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

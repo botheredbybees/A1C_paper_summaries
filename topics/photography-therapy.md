@@ -31,6 +31,6 @@ A personal photo essay project exemplifies the practical application of these th
 
 ## Sources
 
-- [[../sources/fxa202-week03-week-3-introduction-photography-and-health]]
-- [[../sources/fxa202-week08-week-8-lecture-notes-editing-your-images-(3)]]
-- [[../sources/fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a]]
+- [fxa202-week03-week-3-introduction-photography-and-health](../sources/fxa202-week03-week-3-introduction-photography-and-health.md)
+- [fxa202-week08-week-8-lecture-notes-editing-your-images-(3)](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images-(3).md)
+- [fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a](../sources/fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a.md)

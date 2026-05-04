@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Social Psychology Of Dementia
 
-- [[../sources/fxa100-week09-how-personhood-is-undermined|How Personhood is Undermined]]
+- [How Personhood is Undermined](../sources/fxa100-week09-how-personhood-is-undermined.md)

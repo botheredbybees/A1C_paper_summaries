@@ -24,15 +24,15 @@ This chapter explores the relevance of Merleau-Ponty's philosophy to understandi
 
 ## Key Concepts
 
-- [[../topics/body-subject]]
-- [[../topics/phenomenal-experience]]
+- [body-subject](../topics/body-subject.md)
+- [phenomenal-experience](../topics/phenomenal-experience.md)
 
 ## Tags
 
-- [[../tags/philosophical-perspective]]
-- [[../tags/dementia-care]]
-- [[../tags/body-mind-connection]]
-- [[../tags/fxa100]]
+- [philosophical-perspective](../tags/philosophical-perspective.md)
+- [dementia-care](../tags/dementia-care.md)
+- [body-mind-connection](../tags/body-mind-connection.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ This chapter explores the relevance of Merleau-Ponty's philosophy to understandi
 
 ## See Also
 
-- [[../topics/dementia-care]]
+- [dementia-care](../topics/dementia-care.md)

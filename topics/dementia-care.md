@@ -38,17 +38,17 @@ The integration of creative arts and technology in dementia care reveals diverse
 
 ## Sources
 
-- [[../sources/fxa100-creativity-and-communication-ch01-10-playing-with-mud-ceramics-and-clay-claire-craig-clay-is]]
-- [[../sources/fxa100-creativity-and-communication-ch02-15-putting-the-it-into-creativity-exploring-the-creative]]
-- [[../sources/fxa100-creativity-and-communication-ch06-5-moving-in-the-moment-dance-john-killick-in-the-previous]]
-- [[../sources/fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care]]
-- [[../sources/fxa100-week01-lesson-fxa100-week01-page-3-week-1-activities]]
-- [[../sources/fxa100-week01-national-dementia-action-plan-indicators-dashboard]]
-- [[../sources/fxa100-week02-fxa100-week-2-lecture-music-and-the-brain]]
-- [[../sources/fxa100-week02-introduction-to-week-2-music-and-the-brain]]
-- [[../sources/fxa100-week03-5-tips-for-cultural-and-religious-appropriate-dementia-care]]
-- [[../sources/fxa100-week03-evaluation-of-the-music-and-memory-program-among-nursing]]
-- [[../sources/fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind]]
-- [[../sources/fxa100-week03-implementation-survey-results-wisconsin-music-memory-program]]
-- [[../sources/fxa100-week03-introduction-to-week-3-listening-to-music]]
-- [[../sources/fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care]]
+- [fxa100-creativity-and-communication-ch01-10-playing-with-mud-ceramics-and-clay-claire-craig-clay-is](../sources/fxa100-creativity-and-communication-ch01-10-playing-with-mud-ceramics-and-clay-claire-craig-clay-is.md)
+- [fxa100-creativity-and-communication-ch02-15-putting-the-it-into-creativity-exploring-the-creative](../sources/fxa100-creativity-and-communication-ch02-15-putting-the-it-into-creativity-exploring-the-creative.md)
+- [fxa100-creativity-and-communication-ch06-5-moving-in-the-moment-dance-john-killick-in-the-previous](../sources/fxa100-creativity-and-communication-ch06-5-moving-in-the-moment-dance-john-killick-in-the-previous.md)
+- [fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care](../sources/fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care.md)
+- [fxa100-week01-lesson-fxa100-week01-page-3-week-1-activities](../sources/fxa100-week01-lesson-fxa100-week01-page-3-week-1-activities.md)
+- [fxa100-week01-national-dementia-action-plan-indicators-dashboard](../sources/fxa100-week01-national-dementia-action-plan-indicators-dashboard.md)
+- [fxa100-week02-fxa100-week-2-lecture-music-and-the-brain](../sources/fxa100-week02-fxa100-week-2-lecture-music-and-the-brain.md)
+- [fxa100-week02-introduction-to-week-2-music-and-the-brain](../sources/fxa100-week02-introduction-to-week-2-music-and-the-brain.md)
+- [fxa100-week03-5-tips-for-cultural-and-religious-appropriate-dementia-care](../sources/fxa100-week03-5-tips-for-cultural-and-religious-appropriate-dementia-care.md)
+- [fxa100-week03-evaluation-of-the-music-and-memory-program-among-nursing](../sources/fxa100-week03-evaluation-of-the-music-and-memory-program-among-nursing.md)
+- [fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind](../sources/fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind.md)
+- [fxa100-week03-implementation-survey-results-wisconsin-music-memory-program](../sources/fxa100-week03-implementation-survey-results-wisconsin-music-memory-program.md)
+- [fxa100-week03-introduction-to-week-3-listening-to-music](../sources/fxa100-week03-introduction-to-week-3-listening-to-music.md)
+- [fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care](../sources/fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care.md)

@@ -24,25 +24,25 @@ The paper presents a systematic review of the literature on school-based drama i
 
 ## Key Concepts
 
-- [[../topics/educational-drama]]
-- [[../topics/self-reflection-theory]]
-- [[../topics/interactive-learning]]
+- [educational-drama](../topics/educational-drama.md)
+- [self-reflection-theory](../topics/self-reflection-theory.md)
+- [interactive-learning](../topics/interactive-learning.md)
 
 ## Tags
 
-- [[../tags/health-education]]
-- [[../tags/drama-interventions]]
-- [[../tags/school-health-promotion]]
-- [[../tags/children-wellbeing]]
-- [[../tags/adolescent-development]]
-- [[../tags/systematic-review]]
-- [[../tags/fxa301]]
+- [health-education](../tags/health-education.md)
+- [drama-interventions](../tags/drama-interventions.md)
+- [school-health-promotion](../tags/school-health-promotion.md)
+- [children-wellbeing](../tags/children-wellbeing.md)
+- [adolescent-development](../tags/adolescent-development.md)
+- [systematic-review](../tags/systematic-review.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/adolescent-development]]
-- [[../topics/systematic-review]]
+- [adolescent-development](../topics/adolescent-development.md)
+- [systematic-review](../topics/systematic-review.md)

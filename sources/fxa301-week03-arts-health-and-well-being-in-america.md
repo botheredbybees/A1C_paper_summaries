@@ -24,23 +24,23 @@ The white paper 'Arts, Health, and Well-Being in America,' commissioned by the N
 
 ## Key Concepts
 
-- [[../topics/healthcare-enrichment-through-arts]]
-- [[../topics/community-well-being-via-artistic-interventions]]
+- [healthcare-enrichment-through-arts](../topics/healthcare-enrichment-through-arts.md)
+- [community-well-being-via-artistic-interventions](../topics/community-well-being-via-artistic-interventions.md)
 
 ## Tags
 
-- [[../tags/arts-in-health]]
-- [[../tags/well-being-initiatives]]
-- [[../tags/public-health-strategies]]
-- [[../tags/creative-experiences]]
-- [[../tags/fxa301]]
+- [arts-in-health](../tags/arts-in-health.md)
+- [well-being-initiatives](../tags/well-being-initiatives.md)
+- [public-health-strategies](../tags/public-health-strategies.md)
+- [creative-experiences](../tags/creative-experiences.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/arts-in-health]]
-- [[../topics/public-health-strategies]]
-- [[../topics/well-being-initiatives]]
+- [arts-in-health](../topics/arts-in-health.md)
+- [public-health-strategies](../topics/public-health-strategies.md)
+- [well-being-initiatives](../topics/well-being-initiatives.md)

@@ -28,7 +28,7 @@ The integration of arts-based practices and psychosocial support in community re
 
 ## Sources
 
-- [[../sources/fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon]]
-- [[../sources/fxa303-week09-psychological-first-aid-supporting-people-affected-by]]
-- [[../sources/fxa303-week09-the-afloat-project]]
-- [[../sources/fxa303-week09-web-article-creative-2023]]
+- [fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon](../sources/fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon.md)
+- [fxa303-week09-psychological-first-aid-supporting-people-affected-by](../sources/fxa303-week09-psychological-first-aid-supporting-people-affected-by.md)
+- [fxa303-week09-the-afloat-project](../sources/fxa303-week09-the-afloat-project.md)
+- [fxa303-week09-web-article-creative-2023](../sources/fxa303-week09-web-article-creative-2023.md)

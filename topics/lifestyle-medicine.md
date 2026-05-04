@@ -25,5 +25,5 @@ Both sources explore the use of laughter as a tool within lifestyle medicine, fo
 
 ## Sources
 
-- [[../sources/fxa301-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine]]
-- [[../sources/fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine]]
+- [fxa301-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine](../sources/fxa301-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine.md)
+- [fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine](../sources/fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine.md)

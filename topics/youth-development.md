@@ -30,9 +30,9 @@ The integration of arts activities into youth development programs is shown to h
 
 ## Sources
 
-- [[../sources/fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and]]
-- [[../sources/fxa301-week06-lesson-fxa301-week06-page-2]]
-- [[../sources/fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation]]
-- [[../sources/fxa301-week06-statistical-analysis-of-educational-outcomes-among-big]]
-- [[../sources/fxa303-week03-the-impact-of-art-education-on-human-capital-an-empirical]]
-- [[../sources/fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot]]
+- [fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and](../sources/fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and.md)
+- [fxa301-week06-lesson-fxa301-week06-page-2](../sources/fxa301-week06-lesson-fxa301-week06-page-2.md)
+- [fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation](../sources/fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation.md)
+- [fxa301-week06-statistical-analysis-of-educational-outcomes-among-big](../sources/fxa301-week06-statistical-analysis-of-educational-outcomes-among-big.md)
+- [fxa303-week03-the-impact-of-art-education-on-human-capital-an-empirical](../sources/fxa303-week03-the-impact-of-art-education-on-human-capital-an-empirical.md)
+- [fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot](../sources/fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot.md)

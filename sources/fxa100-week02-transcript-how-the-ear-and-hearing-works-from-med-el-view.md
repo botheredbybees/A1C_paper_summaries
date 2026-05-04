@@ -24,16 +24,16 @@ This transcript explains how sound is perceived by the human ear. It describes t
 
 ## Key Concepts
 
-- [[../topics/cochlea]]
-- [[../topics/hair-cells]]
-- [[../topics/mechanical-to-electrical-conversion]]
+- [cochlea](../topics/cochlea.md)
+- [hair-cells](../topics/hair-cells.md)
+- [mechanical-to-electrical-conversion](../topics/mechanical-to-electrical-conversion.md)
 
 ## Tags
 
-- [[../tags/human-anatomy]]
-- [[../tags/hearing-process]]
-- [[../tags/ear-structure]]
-- [[../tags/fxa100]]
+- [human-anatomy](../tags/human-anatomy.md)
+- [hearing-process](../tags/hearing-process.md)
+- [ear-structure](../tags/ear-structure.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -41,4 +41,4 @@ This transcript explains how sound is perceived by the human ear. It describes t
 
 ## See Also
 
-- [[../topics/hearing-process]]
+- [hearing-process](../topics/hearing-process.md)

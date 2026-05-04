@@ -24,15 +24,15 @@ The transcript captures a session of the Elderflowers arts-in-health program run
 
 ## Key Concepts
 
-- [[../topics/verbal-and-non-verbal-communication]]
-- [[../topics/playful-interaction]]
+- [verbal-and-non-verbal-communication](../topics/verbal-and-non-verbal-communication.md)
+- [playful-interaction](../topics/playful-interaction.md)
 
 ## Tags
 
-- [[../tags/arts-in-health]]
-- [[../tags/dementia-care]]
-- [[../tags/hospital-activities]]
-- [[../tags/fxa100]]
+- [arts-in-health](../tags/arts-in-health.md)
+- [dementia-care](../tags/dementia-care.md)
+- [hospital-activities](../tags/hospital-activities.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

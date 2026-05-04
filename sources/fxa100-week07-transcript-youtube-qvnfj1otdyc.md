@@ -24,15 +24,15 @@ A transcript of a photography session involving Mary Stringer in Sydney, where s
 
 ## Key Concepts
 
-- [[../topics/lighting techniques]]
-- [[../topics/academic achievement]]
+- [lighting techniques](../topics/lighting techniques.md)
+- [academic achievement](../topics/academic achievement.md)
 
 ## Tags
 
-- [[../tags/photography]]
-- [[../tags/arts-and-crafts]]
-- [[../tags/memory-loss]]
-- [[../tags/fxa100]]
+- [photography](../tags/photography.md)
+- [arts-and-crafts](../tags/arts-and-crafts.md)
+- [memory-loss](../tags/memory-loss.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -40,6 +40,6 @@ A transcript of a photography session involving Mary Stringer in Sydney, where s
 
 ## See Also
 
-- [[../topics/arts-and-crafts]]
-- [[../topics/memory-loss]]
-- [[../topics/photography]]
+- [arts-and-crafts](../topics/arts-and-crafts.md)
+- [memory-loss](../topics/memory-loss.md)
+- [photography](../topics/photography.md)

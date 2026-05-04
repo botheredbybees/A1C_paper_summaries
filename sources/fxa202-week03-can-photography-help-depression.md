@@ -24,30 +24,30 @@ The article 'Can Photography Help Depression?' explores the potential benefits o
 
 ## Key Concepts
 
-- [[../topics/therapeutic benefits of photography]]
-- [[../topics/emotional expression through art]]
-- [[../topics/trauma processing]]
-- [[../topics/self-reflection and introspection]]
+- [therapeutic benefits of photography](../topics/therapeutic benefits of photography.md)
+- [emotional expression through art](../topics/emotional expression through art.md)
+- [trauma processing](../topics/trauma processing.md)
+- [self-reflection and introspection](../topics/self-reflection and introspection.md)
 
 ## Tags
 
-- [[../tags/mental-health-interventions]]
-- [[../tags/creative-therapies]]
-- [[../tags/depression-treatment]]
-- [[../tags/art-and-healing]]
-- [[../tags/photography-as-therapy]]
-- [[../tags/wellbeing-through-art]]
-- [[../tags/fxa202]]
+- [mental-health-interventions](../tags/mental-health-interventions.md)
+- [creative-therapies](../tags/creative-therapies.md)
+- [depression-treatment](../tags/depression-treatment.md)
+- [art-and-healing](../tags/art-and-healing.md)
+- [photography-as-therapy](../tags/photography-as-therapy.md)
+- [wellbeing-through-art](../tags/wellbeing-through-art.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[interview study]]
-- [[case study]]
+- [interview study](interview study.md)
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/creative-therapies]]
-- [[../topics/depression-treatment]]
-- [[../topics/mental-health-interventions]]
-- [[../topics/photography-as-therapy]]
-- [[../topics/wellbeing-through-art]]
+- [creative-therapies](../topics/creative-therapies.md)
+- [depression-treatment](../topics/depression-treatment.md)
+- [mental-health-interventions](../topics/mental-health-interventions.md)
+- [photography-as-therapy](../topics/photography-as-therapy.md)
+- [wellbeing-through-art](../topics/wellbeing-through-art.md)

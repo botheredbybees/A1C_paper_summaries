@@ -26,5 +26,5 @@ The use of fMRI in studying the artistic brain reveals distinct patterns of acti
 
 ## Sources
 
-- [[../sources/fxa100-week06-brain-activities-in-a-skilled-versus-a-novice-artist-an]]
-- [[../sources/fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual]]
+- [fxa100-week06-brain-activities-in-a-skilled-versus-a-novice-artist-an](../sources/fxa100-week06-brain-activities-in-a-skilled-versus-a-novice-artist-an.md)
+- [fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual](../sources/fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual.md)

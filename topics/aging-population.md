@@ -26,5 +26,5 @@ This synthesis explores the efficacy and economic impact of arts and creativity 
 
 ## Sources
 
-- [[../sources/fxa100-week04-arts-and-creativity-interventions-for-improving-health-and]]
-- [[../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2)]]
+- [fxa100-week04-arts-and-creativity-interventions-for-improving-health-and](../sources/fxa100-week04-arts-and-creativity-interventions-for-improving-health-and.md)
+- [fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2)](../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2).md)

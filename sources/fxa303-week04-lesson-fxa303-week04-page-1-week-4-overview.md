@@ -24,16 +24,16 @@ This week's module concludes the foundational learning on brain and social devel
 
 ## Key Concepts
 
-- [[../topics/neurodiversity]]
-- [[../topics/social-model-of-disability]]
-- [[../topics/autism]]
+- [neurodiversity](../topics/neurodiversity.md)
+- [social-model-of-disability](../topics/social-model-of-disability.md)
+- [autism](../topics/autism.md)
 
 ## Tags
 
-- [[../tags/creative-arts]]
-- [[../tags/play-and-wellbeing]]
-- [[../tags/neurodevelopmental-disorders]]
-- [[../tags/fxa303]]
+- [creative-arts](../tags/creative-arts.md)
+- [play-and-wellbeing](../tags/play-and-wellbeing.md)
+- [neurodevelopmental-disorders](../tags/neurodevelopmental-disorders.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
@@ -41,6 +41,6 @@ This week's module concludes the foundational learning on brain and social devel
 
 ## See Also
 
-- [[../topics/creative-arts]]
-- [[../topics/neurodevelopmental-disorders]]
-- [[../topics/play-and-wellbeing]]
+- [creative-arts](../topics/creative-arts.md)
+- [neurodevelopmental-disorders](../topics/neurodevelopmental-disorders.md)
+- [play-and-wellbeing](../topics/play-and-wellbeing.md)

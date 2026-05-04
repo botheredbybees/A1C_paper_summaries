@@ -24,27 +24,27 @@ The article explores the use of puppets in play therapy as a tool for emotional 
 
 ## Key Concepts
 
-- [[../topics/projection-in-therapy]]
-- [[../topics/cultural-sensitivity]]
-- [[../topics/emotional-dysregulation]]
-- [[../topics/hidden-puppet-technique]]
+- [projection-in-therapy](../topics/projection-in-therapy.md)
+- [cultural-sensitivity](../topics/cultural-sensitivity.md)
+- [emotional-dysregulation](../topics/emotional-dysregulation.md)
+- [hidden-puppet-technique](../topics/hidden-puppet-technique.md)
 
 ## Tags
 
-- [[../tags/puppet-play-therapy]]
-- [[../tags/emotional-expression]]
-- [[../tags/child-psychology]]
-- [[../tags/therapeutic-engagement]]
-- [[../tags/symbolic-interaction]]
-- [[../tags/fxa303]]
+- [puppet-play-therapy](../tags/puppet-play-therapy.md)
+- [emotional-expression](../tags/emotional-expression.md)
+- [child-psychology](../tags/child-psychology.md)
+- [therapeutic-engagement](../tags/therapeutic-engagement.md)
+- [symbolic-interaction](../tags/symbolic-interaction.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
-- [[puppet-play]]
+- [case-study](case-study.md)
+- [puppet-play](puppet-play.md)
 
 ## See Also
 
-- [[../topics/child-psychology]]
-- [[../topics/emotional-expression]]
-- [[../topics/puppet-play-therapy]]
+- [child-psychology](../topics/child-psychology.md)
+- [emotional-expression](../topics/emotional-expression.md)
+- [puppet-play-therapy](../topics/puppet-play-therapy.md)

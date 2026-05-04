@@ -26,22 +26,22 @@ The document explores the positive impact of arts engagement on health and wellb
 
 ## Key Concepts
 
-- [[../topics/mental health outcomes]]
-- [[../topics/long-term benefits]]
-- [[../topics/genetic expression]]
+- [mental health outcomes](../topics/mental health outcomes.md)
+- [long-term benefits](../topics/long-term benefits.md)
+- [genetic expression](../topics/genetic expression.md)
 
 ## Tags
 
-- [[../tags/arts-health]]
-- [[../tags/wellbeing-research]]
-- [[../tags/cultural-interventions]]
-- [[../tags/fxa301]]
+- [arts-health](../tags/arts-health.md)
+- [wellbeing-research](../tags/wellbeing-research.md)
+- [cultural-interventions](../tags/cultural-interventions.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/arts-health]]
-- [[../topics/wellbeing-research]]
+- [arts-health](../topics/arts-health.md)
+- [wellbeing-research](../topics/wellbeing-research.md)

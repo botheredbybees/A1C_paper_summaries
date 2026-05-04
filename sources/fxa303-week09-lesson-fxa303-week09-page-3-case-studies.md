@@ -24,20 +24,20 @@ This lesson focuses on the role of creative arts and play in aiding mental wellb
 
 ## Key Concepts
 
-- [[../topics/Trauma-Informed Design]]
-- [[../topics/Creative Play]]
-- [[../topics/Storytelling for Healing]]
-- [[../topics/Adventure Playgrounds]]
+- [Trauma-Informed Design](../topics/Trauma-Informed Design.md)
+- [Creative Play](../topics/Creative Play.md)
+- [Storytelling for Healing](../topics/Storytelling for Healing.md)
+- [Adventure Playgrounds](../topics/Adventure Playgrounds.md)
 
 ## Tags
 
-- [[../tags/creative-arts]]
-- [[../tags/mental-wellbeing]]
-- [[../tags/trauma-recovery]]
-- [[../tags/play-based-interventions]]
-- [[../tags/disaster-response]]
-- [[../tags/community-healing]]
-- [[../tags/fxa303]]
+- [creative-arts](../tags/creative-arts.md)
+- [mental-wellbeing](../tags/mental-wellbeing.md)
+- [trauma-recovery](../tags/trauma-recovery.md)
+- [play-based-interventions](../tags/play-based-interventions.md)
+- [disaster-response](../tags/disaster-response.md)
+- [community-healing](../tags/community-healing.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
@@ -45,8 +45,8 @@ This lesson focuses on the role of creative arts and play in aiding mental wellb
 
 ## See Also
 
-- [[../topics/creative-arts]]
-- [[../topics/disaster-response]]
-- [[../topics/mental-wellbeing]]
-- [[../topics/play-based-interventions]]
-- [[../topics/trauma-recovery]]
+- [creative-arts](../topics/creative-arts.md)
+- [disaster-response](../topics/disaster-response.md)
+- [mental-wellbeing](../topics/mental-wellbeing.md)
+- [play-based-interventions](../topics/play-based-interventions.md)
+- [trauma-recovery](../topics/trauma-recovery.md)

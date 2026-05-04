@@ -24,15 +24,15 @@ This entry indicates an issue encountered while attempting to automatically down
 
 ## Key Concepts
 
-- [[../topics/automatic-transcription-failure]]
-- [[../topics/caption-unavailability]]
+- [automatic-transcription-failure](../topics/automatic-transcription-failure.md)
+- [caption-unavailability](../topics/caption-unavailability.md)
 
 ## Tags
 
-- [[../tags/transcript-issue]]
-- [[../tags/youtube-video]]
-- [[../tags/caption-file]]
-- [[../tags/fxa303]]
+- [transcript-issue](../tags/transcript-issue.md)
+- [youtube-video](../tags/youtube-video.md)
+- [caption-file](../tags/caption-file.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ This entry indicates an issue encountered while attempting to automatically down
 
 ## See Also
 
-- [[../topics/youtube-video]]
+- [youtube-video](../topics/youtube-video.md)

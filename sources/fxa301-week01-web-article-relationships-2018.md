@@ -24,15 +24,15 @@ This report, published by Relationships Australia National in 2018, examines the
 
 ## Key Concepts
 
-- [[../topics/prevalence of loneliness]]
-- [[../topics/impact of social isolation]]
+- [prevalence of loneliness](../topics/prevalence of loneliness.md)
+- [impact of social isolation](../topics/impact of social isolation.md)
 
 ## Tags
 
-- [[../tags/loneliness]]
-- [[../tags/australian-society]]
-- [[../tags/social-health]]
-- [[../tags/fxa301]]
+- [loneliness](../tags/loneliness.md)
+- [australian-society](../tags/australian-society.md)
+- [social-health](../tags/social-health.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

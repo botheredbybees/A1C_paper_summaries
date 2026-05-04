@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Wellness Strategies
 
-- [[../sources/fxa202-week06-rediscovering-joy-during-lockdown|Rediscovering Joy During Lockdown]]
+- [Rediscovering Joy During Lockdown](../sources/fxa202-week06-rediscovering-joy-during-lockdown.md)

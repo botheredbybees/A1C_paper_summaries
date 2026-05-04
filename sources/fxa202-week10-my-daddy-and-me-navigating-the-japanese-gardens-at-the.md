@@ -24,19 +24,19 @@ Melanie Hall's photo essay 'My daddy and me' captures a series of intimate momen
 
 ## Key Concepts
 
-- [[../topics/sensory-experience]]
-- [[../topics/creative-arts-documentation]]
+- [sensory-experience](../topics/sensory-experience.md)
+- [creative-arts-documentation](../topics/creative-arts-documentation.md)
 
 ## Tags
 
-- [[../tags/personal-experience]]
-- [[../tags/parent-child-bond]]
-- [[../tags/visual-storytelling]]
-- [[../tags/fxa202]]
+- [personal-experience](../tags/personal-experience.md)
+- [parent-child-bond](../tags/parent-child-bond.md)
+- [visual-storytelling](../tags/visual-storytelling.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[photo-essay]]
+- [photo-essay](photo-essay.md)
 
 ## See Also
 

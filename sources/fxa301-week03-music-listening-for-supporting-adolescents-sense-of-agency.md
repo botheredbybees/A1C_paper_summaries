@@ -24,25 +24,25 @@ This study investigates the impact of music listening on adolescents' sense of a
 
 ## Key Concepts
 
-- [[../topics/sense of agency]]
-- [[../topics/self-efficacy]]
-- [[../topics/emotional states]]
+- [sense of agency](../topics/sense of agency.md)
+- [self-efficacy](../topics/self-efficacy.md)
+- [emotional states](../topics/emotional states.md)
 
 ## Tags
 
-- [[../tags/music-listening]]
-- [[../tags/adolescent-development]]
-- [[../tags/sense-of-agency]]
-- [[../tags/daily-life-experiences]]
-- [[../tags/well-being]]
-- [[../tags/fxa301]]
+- [music-listening](../tags/music-listening.md)
+- [adolescent-development](../tags/adolescent-development.md)
+- [sense-of-agency](../tags/sense-of-agency.md)
+- [daily-life-experiences](../tags/daily-life-experiences.md)
+- [well-being](../tags/well-being.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[mobile app data collection]]
-- [[qualitative analysis]]
+- [mobile app data collection](mobile app data collection.md)
+- [qualitative analysis](qualitative analysis.md)
 
 ## See Also
 
-- [[../topics/adolescent-development]]
-- [[../topics/well-being]]
+- [adolescent-development](../topics/adolescent-development.md)
+- [well-being](../topics/well-being.md)

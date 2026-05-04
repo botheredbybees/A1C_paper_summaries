@@ -24,28 +24,28 @@ The document discusses the pervasive issue of health inequalities, emphasizing t
 
 ## Key Concepts
 
-- [[../topics/social determinants of health]]
-- [[../topics/creative health interventions]]
-- [[../topics/equitable access to resources]]
-- [[../topics/holistic approach]]
+- [social determinants of health](../topics/social determinants of health.md)
+- [creative health interventions](../topics/creative health interventions.md)
+- [equitable access to resources](../topics/equitable access to resources.md)
+- [holistic approach](../topics/holistic approach.md)
 
 ## Tags
 
-- [[../tags/health-inequalities]]
-- [[../tags/creative-health]]
-- [[../tags/social-determinants-of-health]]
-- [[../tags/community-engagement]]
-- [[../tags/policy-initiatives]]
-- [[../tags/cultural-access]]
-- [[../tags/fxa301]]
+- [health-inequalities](../tags/health-inequalities.md)
+- [creative-health](../tags/creative-health.md)
+- [social-determinants-of-health](../tags/social-determinants-of-health.md)
+- [community-engagement](../tags/community-engagement.md)
+- [policy-initiatives](../tags/policy-initiatives.md)
+- [cultural-access](../tags/cultural-access.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case study]]
-- [[systematic review]]
+- [case study](case study.md)
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/creative-health]]
-- [[../topics/health-inequalities]]
-- [[../topics/social-determinants-of-health]]
+- [creative-health](../topics/creative-health.md)
+- [health-inequalities](../topics/health-inequalities.md)
+- [social-determinants-of-health](../topics/social-determinants-of-health.md)

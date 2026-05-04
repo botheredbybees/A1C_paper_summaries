@@ -25,5 +25,5 @@ The concept of cultural preservation is explored through various methods aimed a
 
 ## Sources
 
-- [[../sources/fxa301-make-arts-for-a-better-life-ch22-2-choose-a-master-of-the-genre]]
-- [[../sources/fxa301-make-arts-for-a-better-life-ch22-2-choose-a-master-of-the-genre-(2)]]
+- [fxa301-make-arts-for-a-better-life-ch22-2-choose-a-master-of-the-genre](../sources/fxa301-make-arts-for-a-better-life-ch22-2-choose-a-master-of-the-genre.md)
+- [fxa301-make-arts-for-a-better-life-ch22-2-choose-a-master-of-the-genre-(2)](../sources/fxa301-make-arts-for-a-better-life-ch22-2-choose-a-master-of-the-genre-(2).md)

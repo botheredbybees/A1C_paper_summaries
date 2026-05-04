@@ -27,6 +27,6 @@ The analysis of YouTube video transcripts presents a methodological focus on the
 
 ## Sources
 
-- [[../sources/fxa301-week05-transcript-duration-8-16-url-only]]
-- [[../sources/fxa301-week08-transcript-youtube-vyjzrflr50e-url-only]]
-- [[../sources/fxa303-week05-transcript-duration-9-39-url-only]]
+- [fxa301-week05-transcript-duration-8-16-url-only](../sources/fxa301-week05-transcript-duration-8-16-url-only.md)
+- [fxa301-week08-transcript-youtube-vyjzrflr50e-url-only](../sources/fxa301-week08-transcript-youtube-vyjzrflr50e-url-only.md)
+- [fxa303-week05-transcript-duration-9-39-url-only](../sources/fxa303-week05-transcript-duration-9-39-url-only.md)

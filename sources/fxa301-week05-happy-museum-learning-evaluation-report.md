@@ -24,26 +24,26 @@ The Happy Museum Learning Evaluation Report, published in September 2014, detail
 
 ## Key Concepts
 
-- [[../topics/cultural sustainability]]
-- [[../topics/wellbeing initiatives]]
-- [[../topics/institutional transformation]]
+- [cultural sustainability](../topics/cultural sustainability.md)
+- [wellbeing initiatives](../topics/wellbeing initiatives.md)
+- [institutional transformation](../topics/institutional transformation.md)
 
 ## Tags
 
-- [[../tags/museum-education]]
-- [[../tags/sustainability]]
-- [[../tags/well-being]]
-- [[../tags/community-engagement]]
-- [[../tags/environmental-awareness]]
-- [[../tags/fxa301]]
+- [museum-education](../tags/museum-education.md)
+- [sustainability](../tags/sustainability.md)
+- [well-being](../tags/well-being.md)
+- [community-engagement](../tags/community-engagement.md)
+- [environmental-awareness](../tags/environmental-awareness.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[evaluation report]]
+- [evaluation report](evaluation report.md)
 
 ## See Also
 
-- [[../topics/environmental-awareness]]
-- [[../topics/museum-education]]
-- [[../topics/sustainability]]
-- [[../topics/well-being]]
+- [environmental-awareness](../topics/environmental-awareness.md)
+- [museum-education](../topics/museum-education.md)
+- [sustainability](../topics/sustainability.md)
+- [well-being](../topics/well-being.md)

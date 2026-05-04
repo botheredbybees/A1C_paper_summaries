@@ -26,27 +26,27 @@ The preservation of musical abilities in individuals with dementia offers a wind
 
 ## Key Concepts
 
-- [[../topics/musical cognition]]
-- [[../topics/semantic dementia]]
-- [[../topics/cognitive rehabilitation]]
+- [musical cognition](../topics/musical cognition.md)
+- [semantic dementia](../topics/semantic dementia.md)
+- [cognitive rehabilitation](../topics/cognitive rehabilitation.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/music-therapy]]
-- [[../tags/neuroscience-of-music]]
-- [[../tags/brain-function]]
-- [[../tags/therapeutic-benefits]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [music-therapy](../tags/music-therapy.md)
+- [neuroscience-of-music](../tags/neuroscience-of-music.md)
+- [brain-function](../tags/brain-function.md)
+- [therapeutic-benefits](../tags/therapeutic-benefits.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/brain-function]]
-- [[../topics/dementia-care]]
-- [[../topics/music-therapy]]
-- [[../topics/neuroscience-of-music]]
-- [[../topics/therapeutic-benefits]]
+- [brain-function](../topics/brain-function.md)
+- [dementia-care](../topics/dementia-care.md)
+- [music-therapy](../topics/music-therapy.md)
+- [neuroscience-of-music](../topics/neuroscience-of-music.md)
+- [therapeutic-benefits](../topics/therapeutic-benefits.md)

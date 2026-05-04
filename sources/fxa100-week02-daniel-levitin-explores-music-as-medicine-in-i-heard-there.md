@@ -24,25 +24,25 @@ In the video transcript of an interview on AM Northwest, neuroscientist and auth
 
 ## Key Concepts
 
-- [[../topics/therapeutic-potential-of-music]]
-- [[../topics/cognitive-reserve-theory]]
-- [[../topics/natural-opioid-release]]
+- [therapeutic-potential-of-music](../topics/therapeutic-potential-of-music.md)
+- [cognitive-reserve-theory](../topics/cognitive-reserve-theory.md)
+- [natural-opioid-release](../topics/natural-opioid-release.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/neuroscience-of-music]]
-- [[../tags/brain-recovery]]
-- [[../tags/alzheimers-treatment]]
-- [[../tags/ptsd-intervention]]
-- [[../tags/fxa100]]
+- [music-therapy](../tags/music-therapy.md)
+- [neuroscience-of-music](../tags/neuroscience-of-music.md)
+- [brain-recovery](../tags/brain-recovery.md)
+- [alzheimers-treatment](../tags/alzheimers-treatment.md)
+- [ptsd-intervention](../tags/ptsd-intervention.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/brain-recovery]]
-- [[../topics/music-therapy]]
-- [[../topics/neuroscience-of-music]]
+- [brain-recovery](../topics/brain-recovery.md)
+- [music-therapy](../topics/music-therapy.md)
+- [neuroscience-of-music](../topics/neuroscience-of-music.md)

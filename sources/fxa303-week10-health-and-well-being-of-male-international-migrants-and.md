@@ -24,26 +24,26 @@ This research article examines the health and well-being of male international m
 
 ## Key Concepts
 
-- [[../topics/self-rated-health]]
-- [[../topics/migration-conditions]]
-- [[../topics/depressive-symptoms]]
-- [[../topics/overweight-obesity-risk]]
-- [[../topics/hypertension-prevalence]]
+- [self-rated-health](../topics/self-rated-health.md)
+- [migration-conditions](../topics/migration-conditions.md)
+- [depressive-symptoms](../topics/depressive-symptoms.md)
+- [overweight-obesity-risk](../topics/overweight-obesity-risk.md)
+- [hypertension-prevalence](../topics/hypertension-prevalence.md)
 
 ## Tags
 
-- [[../tags/international-migration]]
-- [[../tags/health-disparities]]
-- [[../tags/bangladesh-study]]
-- [[../tags/male-well-being]]
-- [[../tags/cross-sectional-research]]
-- [[../tags/longitudinal-analysis]]
-- [[../tags/fxa303]]
+- [international-migration](../tags/international-migration.md)
+- [health-disparities](../tags/health-disparities.md)
+- [bangladesh-study](../tags/bangladesh-study.md)
+- [male-well-being](../tags/male-well-being.md)
+- [cross-sectional-research](../tags/cross-sectional-research.md)
+- [longitudinal-analysis](../tags/longitudinal-analysis.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[cross-sectional-study]]
-- [[follow-up-analysis]]
+- **cross-sectional-study**
+- **follow-up-analysis**
 
 ## See Also
 

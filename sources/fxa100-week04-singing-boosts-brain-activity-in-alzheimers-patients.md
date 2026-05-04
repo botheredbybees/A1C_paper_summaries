@@ -24,29 +24,29 @@ A study conducted in a care home found that singing in group music sessions sign
 
 ## Key Concepts
 
-- [[../topics/group music therapy]]
-- [[../topics/cognitive decline reversal]]
-- [[../topics/life satisfaction enhancement]]
+- [group music therapy](../topics/group music therapy.md)
+- [cognitive decline reversal](../topics/cognitive decline reversal.md)
+- [life satisfaction enhancement](../topics/life satisfaction enhancement.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/music-therapy]]
-- [[../tags/cognitive-enhancement]]
-- [[../tags/neuroplasticity-in-dementia]]
-- [[../tags/quality-of-life-improvement]]
-- [[../tags/alzheimers-research]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [music-therapy](../tags/music-therapy.md)
+- [cognitive-enhancement](../tags/cognitive-enhancement.md)
+- [neuroplasticity-in-dementia](../tags/neuroplasticity-in-dementia.md)
+- [quality-of-life-improvement](../tags/quality-of-life-improvement.md)
+- [alzheimers-research](../tags/alzheimers-research.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[observational study]]
-- [[randomized group comparison]]
+- [observational study](observational study.md)
+- [randomized group comparison](randomized group comparison.md)
 
 ## See Also
 
-- [[../topics/alzheimers-research]]
-- [[../topics/cognitive-enhancement]]
-- [[../topics/dementia-care]]
-- [[../topics/music-therapy]]
-- [[../topics/quality-of-life-improvement]]
+- [alzheimers-research](../topics/alzheimers-research.md)
+- [cognitive-enhancement](../topics/cognitive-enhancement.md)
+- [dementia-care](../topics/dementia-care.md)
+- [music-therapy](../topics/music-therapy.md)
+- [quality-of-life-improvement](../topics/quality-of-life-improvement.md)

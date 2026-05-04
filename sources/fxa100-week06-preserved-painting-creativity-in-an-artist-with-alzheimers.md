@@ -24,27 +24,27 @@ This article explores the preserved painting creativity of a talented artist dia
 
 ## Key Concepts
 
-- [[../topics/preserved creativity]]
-- [[../topics/dissociation between cognition and art]]
-- [[../topics/neural pathways]]
+- [preserved creativity](../topics/preserved creativity.md)
+- [dissociation between cognition and art](../topics/dissociation between cognition and art.md)
+- [neural pathways](../topics/neural pathways.md)
 
 ## Tags
 
-- [[../tags/alzheimers-disease]]
-- [[../tags/neuroaesthetics]]
-- [[../tags/cognitive-impairment]]
-- [[../tags/brain-imaging]]
-- [[../tags/artistic-expression]]
-- [[../tags/fxa100]]
+- [alzheimers-disease](../tags/alzheimers-disease.md)
+- [neuroaesthetics](../tags/neuroaesthetics.md)
+- [cognitive-impairment](../tags/cognitive-impairment.md)
+- [brain-imaging](../tags/brain-imaging.md)
+- [artistic-expression](../tags/artistic-expression.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
-- [[neuroimaging]]
+- [case study](case study.md)
+- [neuroimaging](neuroimaging.md)
 
 ## See Also
 
-- [[../topics/alzheimers-disease]]
-- [[../topics/brain-imaging]]
-- [[../topics/cognitive-impairment]]
-- [[../topics/neuroaesthetics]]
+- [alzheimers-disease](../topics/alzheimers-disease.md)
+- [brain-imaging](../topics/brain-imaging.md)
+- [cognitive-impairment](../topics/cognitive-impairment.md)
+- [neuroaesthetics](../topics/neuroaesthetics.md)

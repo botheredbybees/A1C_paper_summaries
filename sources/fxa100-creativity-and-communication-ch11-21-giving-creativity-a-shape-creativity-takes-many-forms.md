@@ -24,16 +24,16 @@ This chapter explores the nature of creative sessions for individuals with demen
 
 ## Key Concepts
 
-- [[../topics/creative engagement]]
-- [[../topics/personalized care approaches]]
-- [[../topics/non-verbal communication]]
+- [creative engagement](../topics/creative engagement.md)
+- [personalized care approaches](../topics/personalized care approaches.md)
+- [non-verbal communication](../topics/non-verbal communication.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/creativity-in-dementia]]
-- [[../tags/person-centered-care]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [creativity-in-dementia](../tags/creativity-in-dementia.md)
+- [person-centered-care](../tags/person-centered-care.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ This chapter explores the nature of creative sessions for individuals with demen
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/person-centered-care]]
+- [dementia-care](../topics/dementia-care.md)
+- [person-centered-care](../topics/person-centered-care.md)

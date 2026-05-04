@@ -24,16 +24,16 @@ This chapter explores the existence of a model for categorizing arts in health a
 
 ## Key Concepts
 
-- [[../topics/bespoke projects]]
-- [[../topics/holistic healthcare environment]]
+- [bespoke projects](../topics/bespoke projects.md)
+- [holistic healthcare environment](../topics/holistic healthcare environment.md)
 
 ## Tags
 
-- [[../tags/arts-in-healthcare]]
-- [[../tags/participatory-arts-programmes]]
-- [[../tags/healthcare-environment]]
-- [[../tags/dementia-care]]
-- [[../tags/fxa301]]
+- [arts-in-healthcare](../tags/arts-in-healthcare.md)
+- [participatory-arts-programmes](../tags/participatory-arts-programmes.md)
+- [healthcare-environment](../tags/healthcare-environment.md)
+- [dementia-care](../tags/dementia-care.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,6 +41,6 @@ This chapter explores the existence of a model for categorizing arts in health a
 
 ## See Also
 
-- [[../topics/arts-in-healthcare]]
-- [[../topics/dementia-care]]
-- [[../topics/healthcare-environment]]
+- [arts-in-healthcare](../topics/arts-in-healthcare.md)
+- [dementia-care](../topics/dementia-care.md)
+- [healthcare-environment](../topics/healthcare-environment.md)

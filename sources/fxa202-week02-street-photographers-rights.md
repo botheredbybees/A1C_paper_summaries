@@ -24,20 +24,20 @@ The document 'Street Photographer’s Rights' provides guidance on legal conside
 
 ## Key Concepts
 
-- [[../topics/privacy-laws]]
-- [[../topics/commercial-use]]
+- [privacy-laws](../topics/privacy-laws.md)
+- [commercial-use](../topics/commercial-use.md)
 
 ## Tags
 
-- [[../tags/public-space-photography]]
-- [[../tags/legal-rights]]
-- [[../tags/street-photography]]
-- [[../tags/fxa202]]
+- [public-space-photography](../tags/public-space-photography.md)
+- [legal-rights](../tags/legal-rights.md)
+- [street-photography](../tags/street-photography.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[guidance-document]]
+- [guidance-document](guidance-document.md)
 
 ## See Also
 
-- [[../topics/street-photography]]
+- [street-photography](../topics/street-photography.md)

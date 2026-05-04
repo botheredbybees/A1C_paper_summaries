@@ -24,28 +24,28 @@ The report evaluates the impact of the Music and Memory (M&M) program on nursing
 
 ## Key Concepts
 
-- [[../topics/Music and Memory Program]]
-- [[../topics/behavioral problems]]
-- [[../topics/non-pharmacological intervention]]
+- [Music and Memory Program](../topics/Music and Memory Program.md)
+- [behavioral problems](../topics/behavioral problems.md)
+- [non-pharmacological intervention](../topics/non-pharmacological intervention.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/music-therapy]]
-- [[../tags/quality-of-life]]
-- [[../tags/nursing-home]]
-- [[../tags/personalized-music]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [music-therapy](../tags/music-therapy.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [nursing-home](../tags/nursing-home.md)
+- [personalized-music](../tags/personalized-music.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[crossover study]]
-- [[survey]]
-- [[Minimum Data Set analysis]]
+- [crossover study](crossover study.md)
+- [survey](survey.md)
+- [Minimum Data Set analysis](Minimum Data Set analysis.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/music-therapy]]
-- [[../topics/personalized-music]]
-- [[../topics/quality-of-life]]
+- [dementia-care](../topics/dementia-care.md)
+- [music-therapy](../topics/music-therapy.md)
+- [personalized-music](../topics/personalized-music.md)
+- [quality-of-life](../topics/quality-of-life.md)

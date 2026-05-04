@@ -24,20 +24,20 @@ The article examines the series 'Psychiatry in the Old Testament' and discusses 
 
 ## Key Concepts
 
-- [[../topics/cultural-context-in-psychiatry]]
-- [[../topics/spiritual-experiences-as-symptoms]]
-- [[../topics/theological-significance-of-scripture]]
+- [cultural-context-in-psychiatry](../topics/cultural-context-in-psychiatry.md)
+- [spiritual-experiences-as-symptoms](../topics/spiritual-experiences-as-symptoms.md)
+- [theological-significance-of-scripture](../topics/theological-significance-of-scripture.md)
 
 ## Tags
 
-- [[../tags/psychiatry-and-religion]]
-- [[../tags/sacred-text-analysis]]
-- [[../tags/mental-health-theology]]
-- [[../tags/fxa100]]
+- [psychiatry-and-religion](../tags/psychiatry-and-religion.md)
+- [sacred-text-analysis](../tags/sacred-text-analysis.md)
+- [mental-health-theology](../tags/mental-health-theology.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[literature-review]]
+- [literature-review](literature-review.md)
 
 ## See Also
 

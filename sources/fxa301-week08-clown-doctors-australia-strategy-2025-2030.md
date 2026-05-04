@@ -24,18 +24,18 @@ The document outlines the strategic plan and new branding of Clown Doctors Austr
 
 ## Key Concepts
 
-- [[../topics/theory-of-change]]
-- [[../topics/clown-doctors-program]]
-- [[../topics/laughter-care-framework]]
+- [theory-of-change](../topics/theory-of-change.md)
+- [clown-doctors-program](../topics/clown-doctors-program.md)
+- [laughter-care-framework](../topics/laughter-care-framework.md)
 
 ## Tags
 
-- [[../tags/well-being-through-humor]]
-- [[../tags/healthcare-clowning-strategy]]
-- [[../tags/patient-care-experience]]
-- [[../tags/organizational-change-management]]
-- [[../tags/non-profit-strategy]]
-- [[../tags/fxa301]]
+- [well-being-through-humor](../tags/well-being-through-humor.md)
+- [healthcare-clowning-strategy](../tags/healthcare-clowning-strategy.md)
+- [patient-care-experience](../tags/patient-care-experience.md)
+- [organizational-change-management](../tags/organizational-change-management.md)
+- [non-profit-strategy](../tags/non-profit-strategy.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

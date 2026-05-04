@@ -24,25 +24,25 @@ The study by Jacobsen-Höfel and Höfel explores aesthetic judgments made on nov
 
 ## Key Concepts
 
-- [[../topics/symmetry]]
-- [[../topics/complexity]]
-- [[../topics/personal-definition-of-beauty]]
+- [symmetry](../topics/symmetry.md)
+- [complexity](../topics/complexity.md)
+- [personal-definition-of-beauty](../topics/personal-definition-of-beauty.md)
 
 ## Tags
 
-- [[../tags/aesthetic-judgments]]
-- [[../tags/graphic-patterns]]
-- [[../tags/individual-differences]]
-- [[../tags/empirical-aesthetics]]
-- [[../tags/beauty-perception]]
-- [[../tags/fxa301]]
+- [aesthetic-judgments](../tags/aesthetic-judgments.md)
+- [graphic-patterns](../tags/graphic-patterns.md)
+- [individual-differences](../tags/individual-differences.md)
+- [empirical-aesthetics](../tags/empirical-aesthetics.md)
+- [beauty-perception](../tags/beauty-perception.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[nomothetic-analysis]]
-- [[idiographic-analysis]]
+- [nomothetic-analysis](nomothetic-analysis.md)
+- [idiographic-analysis](idiographic-analysis.md)
 
 ## See Also
 
-- [[../topics/empirical-aesthetics]]
-- [[../topics/individual-differences]]
+- [empirical-aesthetics](../topics/empirical-aesthetics.md)
+- [individual-differences](../topics/individual-differences.md)

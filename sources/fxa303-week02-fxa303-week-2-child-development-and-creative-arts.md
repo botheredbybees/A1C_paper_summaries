@@ -24,27 +24,27 @@ This document introduces foundational concepts in child development from neurosc
 
 ## Key Concepts
 
-- [[../topics/critical-period-theory]]
-- [[../topics/longitudinal-studies]]
-- [[../topics/brain-imaging]]
+- [critical-period-theory](../topics/critical-period-theory.md)
+- [longitudinal-studies](../topics/longitudinal-studies.md)
+- [brain-imaging](../topics/brain-imaging.md)
 
 ## Tags
 
-- [[../tags/child-development]]
-- [[../tags/neural-networks]]
-- [[../tags/early-intervention]]
-- [[../tags/creative-arts]]
-- [[../tags/play-based-learning]]
-- [[../tags/fxa303]]
+- [child-development](../tags/child-development.md)
+- [neural-networks](../tags/neural-networks.md)
+- [early-intervention](../tags/early-intervention.md)
+- [creative-arts](../tags/creative-arts.md)
+- [play-based-learning](../tags/play-based-learning.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[longitudinal study]]
+- [longitudinal study](longitudinal study.md)
 
 ## See Also
 
-- [[../topics/child-development]]
-- [[../topics/creative-arts]]
-- [[../topics/early-intervention]]
-- [[../topics/neural-networks]]
-- [[../topics/play-based-learning]]
+- [child-development](../topics/child-development.md)
+- [creative-arts](../topics/creative-arts.md)
+- [early-intervention](../topics/early-intervention.md)
+- [neural-networks](../topics/neural-networks.md)
+- [play-based-learning](../topics/play-based-learning.md)

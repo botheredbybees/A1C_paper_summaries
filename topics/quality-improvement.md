@@ -30,5 +30,5 @@ While both interventions aim to improve quality of life and care outcomes, they 
 
 ## Sources
 
-- [[../sources/fxa100-week03-implementation-survey-results-phase-iii-music-memory-program]]
-- [[../sources/fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit]]
+- [fxa100-week03-implementation-survey-results-phase-iii-music-memory-program](../sources/fxa100-week03-implementation-survey-results-phase-iii-music-memory-program.md)
+- [fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit](../sources/fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit.md)

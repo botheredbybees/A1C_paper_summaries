@@ -24,18 +24,18 @@ Dr. Annalise Rees discusses her arts project involving a two-month voyage to the
 
 ## Key Concepts
 
-- [[../topics/expanded field of drawing]]
-- [[../topics/site-responsive art]]
-- [[../topics/interdisciplinary research]]
+- [expanded field of drawing](../topics/expanded field of drawing.md)
+- [site-responsive art](../topics/site-responsive art.md)
+- [interdisciplinary research](../topics/interdisciplinary research.md)
 
 ## Tags
 
-- [[../tags/art-science collaboration]]
-- [[../tags/field-research]]
-- [[../tags/antarctica]]
-- [[../tags/marine-studies]]
-- [[../tags/community-engagement]]
-- [[../tags/fxa301]]
+- [art-science collaboration](../tags/art-science collaboration.md)
+- [field-research](../tags/field-research.md)
+- [antarctica](../tags/antarctica.md)
+- [marine-studies](../tags/marine-studies.md)
+- [community-engagement](../tags/community-engagement.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -43,4 +43,4 @@ Dr. Annalise Rees discusses her arts project involving a two-month voyage to the
 
 ## See Also
 
-- [[../topics/art-science-collaboration]]
+- [art-science-collaboration](../topics/art-science-collaboration.md)

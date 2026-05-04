@@ -24,23 +24,23 @@ This chapter discusses the impact of music and cultural activities on health and
 
 ## Key Concepts
 
-- [[../topics/salivary cortisol levels]]
-- [[../topics/cultural activities at work]]
-- [[../topics/fine arts for elderly people]]
+- [salivary cortisol levels](../topics/salivary cortisol levels.md)
+- [cultural activities at work](../topics/cultural activities at work.md)
+- [fine arts for elderly people](../topics/fine arts for elderly people.md)
 
 ## Tags
 
-- [[../tags/music-intervention]]
-- [[../tags/workplace-culture]]
-- [[../tags/elderly-health]]
-- [[../tags/fxa301]]
+- [music-intervention](../tags/music-intervention.md)
+- [workplace-culture](../tags/workplace-culture.md)
+- [elderly-health](../tags/elderly-health.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[observational epidemiological studies]]
-- [[randomized controlled trials]]
+- [observational epidemiological studies](observational epidemiological studies.md)
+- [randomized controlled trials](randomized controlled trials.md)
 
 ## See Also
 
-- [[../topics/elderly-health]]
-- [[../topics/music-intervention]]
+- [elderly-health](../topics/elderly-health.md)
+- [music-intervention](../topics/music-intervention.md)

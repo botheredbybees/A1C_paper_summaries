@@ -24,16 +24,16 @@ This chapter discusses the importance of broadening the scope of research into a
 
 ## Key Concepts
 
-- [[../topics/longevity]]
-- [[../topics/quality of life]]
-- [[../topics/ethical judgement]]
+- [longevity](../topics/longevity.md)
+- [quality of life](../topics/quality of life.md)
+- [ethical judgement](../topics/ethical judgement.md)
 
 ## Tags
 
-- [[../tags/ageing research]]
-- [[../tags/dementia studies]]
-- [[../tags/research paradigms]]
-- [[../tags/fxa100]]
+- [ageing research](../tags/ageing research.md)
+- [dementia studies](../tags/dementia studies.md)
+- [research paradigms](../tags/research paradigms.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

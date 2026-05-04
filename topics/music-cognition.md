@@ -27,6 +27,6 @@ The exploration of music cognition through various sources reveals the intricate
 
 ## Sources
 
-- [[../sources/fxa100-week02-hearing-and-music]]
-- [[../sources/fxa100-week03-experimental-evidence-for-synchronization-to-a-musical-beat]]
-- [[../sources/fxa100-week03-the-effects-of-music-on-the-brain-video-transcript]]
+- [fxa100-week02-hearing-and-music](../sources/fxa100-week02-hearing-and-music.md)
+- [fxa100-week03-experimental-evidence-for-synchronization-to-a-musical-beat](../sources/fxa100-week03-experimental-evidence-for-synchronization-to-a-musical-beat.md)
+- [fxa100-week03-the-effects-of-music-on-the-brain-video-transcript](../sources/fxa100-week03-the-effects-of-music-on-the-brain-video-transcript.md)

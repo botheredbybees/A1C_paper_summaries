@@ -25,5 +25,5 @@ The lectures on components of visual storytelling emphasize the importance of na
 
 ## Sources
 
-- [[../sources/fxa202-week06-week-six-lecture-components-of-visual-storytelling]]
-- [[../sources/fxa202-week06-week-six-lecture-components-of-visual-storytelling-(2)]]
+- [fxa202-week06-week-six-lecture-components-of-visual-storytelling](../sources/fxa202-week06-week-six-lecture-components-of-visual-storytelling.md)
+- [fxa202-week06-week-six-lecture-components-of-visual-storytelling-(2)](../sources/fxa202-week06-week-six-lecture-components-of-visual-storytelling-(2).md)

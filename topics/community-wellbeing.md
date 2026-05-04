@@ -35,14 +35,14 @@ The synthesis of the sources highlights a broad range of arts-based intervention
 
 ## Sources
 
-- [[../sources/fxa100-week04-guidelines-for-arts-and-mental-health-projects]]
-- [[../sources/fxa100-week07-connecting-with-and-through-art-arts-engagement-for]]
-- [[../sources/fxa301-week03-cross-sector-strategies-for-health-and-community-well-being]]
-- [[../sources/fxa301-week03-evidence-requirements-for-the-development-of-the-national]]
-- [[../sources/fxa301-week03-introduction-to-creative-health-extract]]
-- [[../sources/fxa301-week03-the-role-of-the-arts-in-healthcare-transforming-lives]]
-- [[../sources/fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing]]
-- [[../sources/fxa301-week03-week-3-introduction-arts-in-the-community-for-health-and]]
-- [[../sources/fxa301-week05-museums-as-spaces-for-wellbeing-a-second-report-from-the]]
-- [[../sources/fxa301-week06-lesson-fxa301-week06-page-1]]
-- [[../sources/fxa301-week08-transcript-the-video-below-relates-the-experiences-of]]
+- [fxa100-week04-guidelines-for-arts-and-mental-health-projects](../sources/fxa100-week04-guidelines-for-arts-and-mental-health-projects.md)
+- [fxa100-week07-connecting-with-and-through-art-arts-engagement-for](../sources/fxa100-week07-connecting-with-and-through-art-arts-engagement-for.md)
+- [fxa301-week03-cross-sector-strategies-for-health-and-community-well-being](../sources/fxa301-week03-cross-sector-strategies-for-health-and-community-well-being.md)
+- [fxa301-week03-evidence-requirements-for-the-development-of-the-national](../sources/fxa301-week03-evidence-requirements-for-the-development-of-the-national.md)
+- [fxa301-week03-introduction-to-creative-health-extract](../sources/fxa301-week03-introduction-to-creative-health-extract.md)
+- [fxa301-week03-the-role-of-the-arts-in-healthcare-transforming-lives](../sources/fxa301-week03-the-role-of-the-arts-in-healthcare-transforming-lives.md)
+- [fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing](../sources/fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing.md)
+- [fxa301-week03-week-3-introduction-arts-in-the-community-for-health-and](../sources/fxa301-week03-week-3-introduction-arts-in-the-community-for-health-and.md)
+- [fxa301-week05-museums-as-spaces-for-wellbeing-a-second-report-from-the](../sources/fxa301-week05-museums-as-spaces-for-wellbeing-a-second-report-from-the.md)
+- [fxa301-week06-lesson-fxa301-week06-page-1](../sources/fxa301-week06-lesson-fxa301-week06-page-1.md)
+- [fxa301-week08-transcript-the-video-below-relates-the-experiences-of](../sources/fxa301-week08-transcript-the-video-below-relates-the-experiences-of.md)

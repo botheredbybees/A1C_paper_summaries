@@ -26,5 +26,5 @@ The integration of arts within healthcare and community environments reflects a 
 
 ## Sources
 
-- [[../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2)]]
-- [[../sources/fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6]]
+- [fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2)](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2).md)
+- [fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6](../sources/fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6.md)

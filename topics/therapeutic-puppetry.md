@@ -26,5 +26,5 @@ Therapeutic puppetry emerges as a versatile and engaging intervention for enhanc
 
 ## Sources
 
-- [[../sources/fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children]]
-- [[../sources/fxa303-week06-therapeutic-puppetry-and-wellbeing]]
+- [fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children](../sources/fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children.md)
+- [fxa303-week06-therapeutic-puppetry-and-wellbeing](../sources/fxa303-week06-therapeutic-puppetry-and-wellbeing.md)

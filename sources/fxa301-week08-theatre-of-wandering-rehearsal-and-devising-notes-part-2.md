@@ -24,22 +24,22 @@ This article by David Slater, an associate of Entelechy Arts, details the collab
 
 ## Key Concepts
 
-- [[../topics/co-production]]
-- [[../topics/community-involvement]]
-- [[../topics/societal-attitudes-towards-care]]
+- [co-production](../topics/co-production.md)
+- [community-involvement](../topics/community-involvement.md)
+- [societal-attitudes-towards-care](../topics/societal-attitudes-towards-care.md)
 
 ## Tags
 
-- [[../tags/community-engagement]]
-- [[../tags/inclusive-theatre]]
-- [[../tags/dementia-care]]
-- [[../tags/fxa301]]
+- [community-engagement](../tags/community-engagement.md)
+- [inclusive-theatre](../tags/inclusive-theatre.md)
+- [dementia-care](../tags/dementia-care.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/inclusive-theatre]]
+- [dementia-care](../topics/dementia-care.md)
+- [inclusive-theatre](../topics/inclusive-theatre.md)

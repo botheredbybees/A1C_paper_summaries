@@ -24,25 +24,25 @@ The document explores the concept of joy during a time when many are feeling the
 
 ## Key Concepts
 
-- [[../topics/therapeutic-benefits-of-nature]]
-- [[../topics/psychological-resilience]]
-- [[../topics/creative-hobbies-for-wellbeing]]
+- [therapeutic-benefits-of-nature](../topics/therapeutic-benefits-of-nature.md)
+- [psychological-resilience](../topics/psychological-resilience.md)
+- [creative-hobbies-for-wellbeing](../topics/creative-hobbies-for-wellbeing.md)
 
 ## Tags
 
-- [[../tags/mental-health]]
-- [[../tags/wellness-strategies]]
-- [[../tags/creative-expression]]
-- [[../tags/isolation-effects]]
-- [[../tags/personal-resilience]]
-- [[../tags/fxa202]]
+- [mental-health](../tags/mental-health.md)
+- [wellness-strategies](../tags/wellness-strategies.md)
+- [creative-expression](../tags/creative-expression.md)
+- [isolation-effects](../tags/isolation-effects.md)
+- [personal-resilience](../tags/personal-resilience.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/creative-expression]]
-- [[../topics/mental-health]]
-- [[../topics/personal-resilience]]
+- [creative-expression](../topics/creative-expression.md)
+- [mental-health](../topics/mental-health.md)
+- [personal-resilience](../topics/personal-resilience.md)

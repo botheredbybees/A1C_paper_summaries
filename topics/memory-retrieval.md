@@ -26,5 +26,5 @@ The topic of memory retrieval within dementia care highlights the potential of m
 
 ## Sources
 
-- [[../sources/fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care]]
-- [[../sources/fxa100-week03-lesson-fxa100-week03-page-2-listening-and-dementia-care]]
+- [fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care](../sources/fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care.md)
+- [fxa100-week03-lesson-fxa100-week03-page-2-listening-and-dementia-care](../sources/fxa100-week03-lesson-fxa100-week03-page-2-listening-and-dementia-care.md)

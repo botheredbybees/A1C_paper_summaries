@@ -29,8 +29,8 @@ The documents collectively address the improvement of health policies regarding 
 
 ## Sources
 
-- [[../sources/fxa100-week01-national-dementia-data-improvement-plan-20232034]]
-- [[../sources/fxa100-week08-development-of-a-novel-benchmark-method-to-identify-and]]
-- [[../sources/fxa301-week03-evidence-requirements-for-the-development-of-the-national]]
-- [[../sources/fxa301-week03-lesson-fxa301-week03-page-4-week-3-activities]]
-- [[../sources/fxa301-week03-web-article-national-2024]]
+- [fxa100-week01-national-dementia-data-improvement-plan-20232034](../sources/fxa100-week01-national-dementia-data-improvement-plan-20232034.md)
+- [fxa100-week08-development-of-a-novel-benchmark-method-to-identify-and](../sources/fxa100-week08-development-of-a-novel-benchmark-method-to-identify-and.md)
+- [fxa301-week03-evidence-requirements-for-the-development-of-the-national](../sources/fxa301-week03-evidence-requirements-for-the-development-of-the-national.md)
+- [fxa301-week03-lesson-fxa301-week03-page-4-week-3-activities](../sources/fxa301-week03-lesson-fxa301-week03-page-4-week-3-activities.md)
+- [fxa301-week03-web-article-national-2024](../sources/fxa301-week03-web-article-national-2024.md)

@@ -26,5 +26,5 @@ The integration of lived experience and trauma-informed practice in mental healt
 
 ## Sources
 
-- [[../sources/fxa301-week03-statement-on-lived-experience]]
-- [[../sources/fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit]]
+- [fxa301-week03-statement-on-lived-experience](../sources/fxa301-week03-statement-on-lived-experience.md)
+- [fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit](../sources/fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit.md)

@@ -27,6 +27,6 @@ The documents collectively emphasize the profound therapeutic potential of music
 
 ## Sources
 
-- [[../sources/fxa100-week02-music-and-the-damaged-brain]]
-- [[../sources/fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind]]
-- [[../sources/fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video]]
+- [fxa100-week02-music-and-the-damaged-brain](../sources/fxa100-week02-music-and-the-damaged-brain.md)
+- [fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind](../sources/fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind.md)
+- [fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video](../sources/fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video.md)

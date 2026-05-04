@@ -6,57 +6,57 @@ updated: 2026-05-04
 
 ## Community Engagement
 
-- [[../sources/fxa100-excellence-in-dementia-care--ch33-1-place-covers-the-person|Guidance for Building Dementia-Friendly Communities]]
-- [[../sources/fxa100-week04-making-art-with-communities-a-work-guide|Making Art With Communities: A Work Guide]]
-- [[../sources/fxa100-week04-week-4-activities-fxa100-the-arts-and-dementia-care|Week 4 Activities - FXA100 The Arts and Dementia Care]]
-- [[../sources/fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of|Is a Visual Arts Programme Beneficial for the Quality of Life of People Living with Dementia?]]
-- [[../sources/fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of|Arts in Dementia Care: This is not the end... if it's the end of this chapter]]
-- [[../sources/fxa100-week08-lesson-fxa100-week07-page-3-stimulating-engagement|Stimulating Engagement Through Participation in Visual Arts Projects]]
-- [[../sources/fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using|The daily digital practice as a form of self-care: Using photography for everyday well-being]]
-- [[../sources/fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts|Meeting Community Needs Through Ethnomusicology]]
-- [[../sources/fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts-(2)|Ethnomusicology and Applied Arts: A Guide to Community Engagement]]
-- [[../sources/fxa301-make-arts-for-a-better-life-ch09-5-choose-a-goal-needs-may-be-linked-within-communities|Step 2: Choose a Goal in Arts for Social Change]]
-- [[../sources/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30|Case study: engaging older people in creative thinking\u2014the Active Energy project]]
-- [[../sources/fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2)|Active Energy Project and Its Impact on Elderly Wellbeing]]
-- [[../sources/fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report|Arts for EveryBody: The One Nation/One Project Impact Report]]
-- [[../sources/fxa301-week03-developing-a-national-arts-and-health-policy-framework|Developing a national arts and health policy framework]]
-- [[../sources/fxa301-week03-executive-summary-creative-health-review|Executive Summary: Creative Health Review]]
-- [[../sources/fxa301-week03-four-big-ways-to-improve-health-through-the-arts|Four Big Ways to Improve Health through the Arts]]
-- [[../sources/fxa301-week03-health-inequalities-and-the-role-of-creative-health|Health Inequalities and the Role of Creative Health]]
-- [[../sources/fxa301-week03-national-arts-and-health-framework|National Arts and Health Framework]]
-- [[../sources/fxa301-week03-statement-on-lived-experience|Statement on Lived Experience]]
-- [[../sources/fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community|Welcome to Week 3 - FXA301 Arts in the Community]]
-- [[../sources/fxa301-week05-case-studies-of-visual-arts-with-and-for-communities|Case Studies of Visual Arts with, and for Communities]]
-- [[../sources/fxa301-week05-happy-museum-learning-evaluation-report|Happy Museum Learning Evaluation Report]]
-- [[../sources/fxa301-week05-happy-museum-project-principles|Happy Museum Project Principles]]
-- [[../sources/fxa301-week05-how-murals-helped-turn-a-declining-community-around|How Murals Helped Turn a Declining Community Around]]
-- [[../sources/fxa301-week05-lesson-fxa301-week05-page-1|Engaging with Visual Arts: Community-Based Projects]]
-- [[../sources/fxa301-week05-lesson-fxa301-week05-page-2-hm-take-2-with-newer-content|Case Study: The Paper Apothecary and Community Engagement Through Art]]
-- [[../sources/fxa301-week05-lesson-fxa301-week05-page-4-week-3-activities|FXA301 Arts in the Community - Week 5 Activities]]
-- [[../sources/fxa301-week05-naidoc-week-aboriginal-mural-brings-community-together-in|NAIDOC Week: Aboriginal mural brings community together in Shortland]]
-- [[../sources/fxa301-week05-transcript-aprof-anne-marie-forbes-interview-with-dr|Interview with Dr Annalise Rees about her Arts Project in Antarctica]]
-- [[../sources/fxa301-week06-brisbanes-pub-choir-movement-marks-first-year|Brisbane\u2019s Pub Choir movement marks first year]]
-- [[../sources/fxa301-week06-engaging-with-music-and-dance|Engaging with Music and Dance]]
-- [[../sources/fxa301-week06-evaluation-of-big-noise-douglas|Evaluation of Big Noise Douglas]]
-- [[../sources/fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation|People change lives: Consolidating five years of evaluation learning from Sistema Scotland\u2019s Big Noise centres in Stirling, Glasgow and Aberdeen]]
-- [[../sources/fxa301-week06-transcript-these-videos-were-mixed-into-a-music-clip|Pub Choir Coronavirus Inspired Couch Event Draws 1000 Singers]]
-- [[../sources/fxa301-week06-week-6-activities-fxa301-arts-in-the-community|Week 6 Activities - FXA301 Arts in the Community]]
-- [[../sources/fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community|Welcome to Week 6 - FXA301 Arts in the Community]]
-- [[../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1|Theatre of Wandering: Rehearsal and Devising Notes [Part 1]]]
-- [[../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2|Theatre of Wandering: Rehearsal and devising notes [Part 2]]]
-- [[../sources/fxa301-week08-transcript-arts-gymnasium-at-belgrade-theatre-coventry|Participant Stories from Arts Gymnasium at Belgrade Theatre Coventry]]
-- [[../sources/fxa301-week08-transcript-youtube-channel-school-of-education-and|Applied Theater: Storytelling Beyond Traditional Stages]]
-- [[../sources/fxa301-week08-transcript-youtube-i1dnrn0cj20|The Impact of Literature on Personal Development]]
-- [[../sources/fxa301-week09-lesson-fxa301-week09-page-1|Designing Inclusive Projects for Health and Wellbeing Outcomes]]
-- [[../sources/fxa301-week09-the-importance-of-disability-led-theatre|The Importance of Disability Led Theatre]]
-- [[../sources/fxa303-week03-arts-in-adolescence|Arts in Adolescence]]
-- [[../sources/fxa303-week03-arts-on-prescription-meets-sir-quentin-blake|Arts On Prescription Meets Sir Quentin Blake]]
-- [[../sources/fxa303-week03-centre-stage-20-a-report-on-youth-theatre-in-ireland|Centre Stage +20: A Report on Youth Theatre in Ireland]]
-- [[../sources/fxa303-week03-lockdown-history-project-activity-sheets|Lockdown History Project Activity Sheets]]
-- [[../sources/fxa303-week03-social-prescribing-roundtable-november-2019-report|Social Prescribing Roundtable, November 2019: Report]]
-- [[../sources/fxa303-week03-supporting-youth-mental-health-with-arts-based-strategies-a|Supporting youth mental health with arts-based strategies: a global perspective]]
-- [[../sources/fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot|Youth Orchestra Participation and Perceived Benefit: A Pilot Study of the Tasmanian Youth Orchestra]]
-- [[../sources/fxa303-week09-capertee-valley-hydrology-project-ksca|Capertee Valley Hydrology Project \u2014 KSCA]]
-- [[../sources/fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts|FXA303 Week 9: Design and Applications of Creative Arts Projects for Mental Wellbeing]]
-- [[../sources/fxa303-week09-national-taskforce-for-creative-recovery-recommendations|National Taskforce for Creative Recovery Recommendations]]
-- [[../sources/fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a|Supporting youth mental health with arts-based strategies: a global perspective]]
+- [Guidance for Building Dementia-Friendly Communities](../sources/fxa100-excellence-in-dementia-care--ch33-1-place-covers-the-person.md)
+- [Making Art With Communities: A Work Guide](../sources/fxa100-week04-making-art-with-communities-a-work-guide.md)
+- [Week 4 Activities - FXA100 The Arts and Dementia Care](../sources/fxa100-week04-week-4-activities-fxa100-the-arts-and-dementia-care.md)
+- [Is a Visual Arts Programme Beneficial for the Quality of Life of People Living with Dementia?](../sources/fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of.md)
+- [Arts in Dementia Care: This is not the end... if it's the end of this chapter](../sources/fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of.md)
+- [Stimulating Engagement Through Participation in Visual Arts Projects](../sources/fxa100-week08-lesson-fxa100-week07-page-3-stimulating-engagement.md)
+- [The daily digital practice as a form of self-care: Using photography for everyday well-being](../sources/fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using.md)
+- [Meeting Community Needs Through Ethnomusicology](../sources/fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts.md)
+- [Ethnomusicology and Applied Arts: A Guide to Community Engagement](../sources/fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts-(2).md)
+- [Step 2: Choose a Goal in Arts for Social Change](../sources/fxa301-make-arts-for-a-better-life-ch09-5-choose-a-goal-needs-may-be-linked-within-communities.md)
+- [Case study: engaging older people in creative thinking\u2014the Active Energy project](../sources/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30.md)
+- [Active Energy Project and Its Impact on Elderly Wellbeing](../sources/fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2).md)
+- [Arts for EveryBody: The One Nation/One Project Impact Report](../sources/fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report.md)
+- [Developing a national arts and health policy framework](../sources/fxa301-week03-developing-a-national-arts-and-health-policy-framework.md)
+- [Executive Summary: Creative Health Review](../sources/fxa301-week03-executive-summary-creative-health-review.md)
+- [Four Big Ways to Improve Health through the Arts](../sources/fxa301-week03-four-big-ways-to-improve-health-through-the-arts.md)
+- [Health Inequalities and the Role of Creative Health](../sources/fxa301-week03-health-inequalities-and-the-role-of-creative-health.md)
+- [National Arts and Health Framework](../sources/fxa301-week03-national-arts-and-health-framework.md)
+- [Statement on Lived Experience](../sources/fxa301-week03-statement-on-lived-experience.md)
+- [Welcome to Week 3 - FXA301 Arts in the Community](../sources/fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community.md)
+- [Case Studies of Visual Arts with, and for Communities](../sources/fxa301-week05-case-studies-of-visual-arts-with-and-for-communities.md)
+- [Happy Museum Learning Evaluation Report](../sources/fxa301-week05-happy-museum-learning-evaluation-report.md)
+- [Happy Museum Project Principles](../sources/fxa301-week05-happy-museum-project-principles.md)
+- [How Murals Helped Turn a Declining Community Around](../sources/fxa301-week05-how-murals-helped-turn-a-declining-community-around.md)
+- [Engaging with Visual Arts: Community-Based Projects](../sources/fxa301-week05-lesson-fxa301-week05-page-1.md)
+- [Case Study: The Paper Apothecary and Community Engagement Through Art](../sources/fxa301-week05-lesson-fxa301-week05-page-2-hm-take-2-with-newer-content.md)
+- [FXA301 Arts in the Community - Week 5 Activities](../sources/fxa301-week05-lesson-fxa301-week05-page-4-week-3-activities.md)
+- [NAIDOC Week: Aboriginal mural brings community together in Shortland](../sources/fxa301-week05-naidoc-week-aboriginal-mural-brings-community-together-in.md)
+- [Interview with Dr Annalise Rees about her Arts Project in Antarctica](../sources/fxa301-week05-transcript-aprof-anne-marie-forbes-interview-with-dr.md)
+- [Brisbane\u2019s Pub Choir movement marks first year](../sources/fxa301-week06-brisbanes-pub-choir-movement-marks-first-year.md)
+- [Engaging with Music and Dance](../sources/fxa301-week06-engaging-with-music-and-dance.md)
+- [Evaluation of Big Noise Douglas](../sources/fxa301-week06-evaluation-of-big-noise-douglas.md)
+- [People change lives: Consolidating five years of evaluation learning from Sistema Scotland\u2019s Big Noise centres in Stirling, Glasgow and Aberdeen](../sources/fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation.md)
+- [Pub Choir Coronavirus Inspired Couch Event Draws 1000 Singers](../sources/fxa301-week06-transcript-these-videos-were-mixed-into-a-music-clip.md)
+- [Week 6 Activities - FXA301 Arts in the Community](../sources/fxa301-week06-week-6-activities-fxa301-arts-in-the-community.md)
+- [Welcome to Week 6 - FXA301 Arts in the Community](../sources/fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community.md)
+- [Theatre of Wandering: Rehearsal and Devising Notes [Part 1](../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1.md)]
+- [Theatre of Wandering: Rehearsal and devising notes [Part 2](../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2.md)]
+- [Participant Stories from Arts Gymnasium at Belgrade Theatre Coventry](../sources/fxa301-week08-transcript-arts-gymnasium-at-belgrade-theatre-coventry.md)
+- [Applied Theater: Storytelling Beyond Traditional Stages](../sources/fxa301-week08-transcript-youtube-channel-school-of-education-and.md)
+- [The Impact of Literature on Personal Development](../sources/fxa301-week08-transcript-youtube-i1dnrn0cj20.md)
+- [Designing Inclusive Projects for Health and Wellbeing Outcomes](../sources/fxa301-week09-lesson-fxa301-week09-page-1.md)
+- [The Importance of Disability Led Theatre](../sources/fxa301-week09-the-importance-of-disability-led-theatre.md)
+- [Arts in Adolescence](../sources/fxa303-week03-arts-in-adolescence.md)
+- [Arts On Prescription Meets Sir Quentin Blake](../sources/fxa303-week03-arts-on-prescription-meets-sir-quentin-blake.md)
+- [Centre Stage +20: A Report on Youth Theatre in Ireland](../sources/fxa303-week03-centre-stage-20-a-report-on-youth-theatre-in-ireland.md)
+- [Lockdown History Project Activity Sheets](../sources/fxa303-week03-lockdown-history-project-activity-sheets.md)
+- [Social Prescribing Roundtable, November 2019: Report](../sources/fxa303-week03-social-prescribing-roundtable-november-2019-report.md)
+- [Supporting youth mental health with arts-based strategies: a global perspective](../sources/fxa303-week03-supporting-youth-mental-health-with-arts-based-strategies-a.md)
+- [Youth Orchestra Participation and Perceived Benefit: A Pilot Study of the Tasmanian Youth Orchestra](../sources/fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot.md)
+- [Capertee Valley Hydrology Project \u2014 KSCA](../sources/fxa303-week09-capertee-valley-hydrology-project-ksca.md)
+- [FXA303 Week 9: Design and Applications of Creative Arts Projects for Mental Wellbeing](../sources/fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts.md)
+- [National Taskforce for Creative Recovery Recommendations](../sources/fxa303-week09-national-taskforce-for-creative-recovery-recommendations.md)
+- [Supporting youth mental health with arts-based strategies: a global perspective](../sources/fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a.md)

@@ -24,23 +24,23 @@ This article discusses the transferable skills developed through music education
 
 ## Key Concepts
 
-- [[../topics/transferable skills]]
-- [[../topics/musical training impact]]
+- [transferable skills](../topics/transferable skills.md)
+- [musical training impact](../topics/musical training impact.md)
 
 ## Tags
 
-- [[../tags/music-education]]
-- [[../tags/workplace-skills]]
-- [[../tags/survey-research]]
-- [[../tags/recruitment-strategies]]
-- [[../tags/soft-skills-development]]
-- [[../tags/fxa301]]
+- [music-education](../tags/music-education.md)
+- [workplace-skills](../tags/workplace-skills.md)
+- [survey-research](../tags/survey-research.md)
+- [recruitment-strategies](../tags/recruitment-strategies.md)
+- [soft-skills-development](../tags/soft-skills-development.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[nationwide survey]]
+- [nationwide survey](nationwide survey.md)
 
 ## See Also
 
-- [[../topics/music-education]]
-- [[../topics/survey-research]]
+- [music-education](../topics/music-education.md)
+- [survey-research](../topics/survey-research.md)

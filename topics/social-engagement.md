@@ -26,5 +26,5 @@ This synthesis explores social engagement interventions tailored for individuals
 
 ## Sources
 
-- [[../sources/fxa100-week03-music-therapy-increases-social-and-emotional-well-being-in]]
-- [[../sources/fxa100-week07-two-art-museum-programs-for-people-with-dementia]]
+- [fxa100-week03-music-therapy-increases-social-and-emotional-well-being-in](../sources/fxa100-week03-music-therapy-increases-social-and-emotional-well-being-in.md)
+- [fxa100-week07-two-art-museum-programs-for-people-with-dementia](../sources/fxa100-week07-two-art-museum-programs-for-people-with-dementia.md)

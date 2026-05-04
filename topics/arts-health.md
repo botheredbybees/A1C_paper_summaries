@@ -28,7 +28,7 @@ The integration of the arts into health interventions has garnered significant a
 
 ## Sources
 
-- [[../sources/fxa301-week03-arts-and-health-evaluation-toolkit-a-how-to-guide-to]]
-- [[../sources/fxa301-week03-arts-health-and-wellbeing-evidence-and-implications]]
-- [[../sources/fxa301-week03-cross-sector-strategies-for-health-and-community-well-being]]
-- [[../sources/fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing]]
+- [fxa301-week03-arts-and-health-evaluation-toolkit-a-how-to-guide-to](../sources/fxa301-week03-arts-and-health-evaluation-toolkit-a-how-to-guide-to.md)
+- [fxa301-week03-arts-health-and-wellbeing-evidence-and-implications](../sources/fxa301-week03-arts-health-and-wellbeing-evidence-and-implications.md)
+- [fxa301-week03-cross-sector-strategies-for-health-and-community-well-being](../sources/fxa301-week03-cross-sector-strategies-for-health-and-community-well-being.md)
+- [fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing](../sources/fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing.md)

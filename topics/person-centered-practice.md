@@ -26,5 +26,5 @@ The concept of person-centered care emerges as a pivotal intervention in the man
 
 ## Sources
 
-- [[../sources/fxa100-excellence-in-dementia-care--ch11-chapter-17]]
-- [[../sources/fxa100-excellence-in-dementia-care--ch12-chapter-14]]
+- [fxa100-excellence-in-dementia-care--ch11-chapter-17](../sources/fxa100-excellence-in-dementia-care--ch11-chapter-17.md)
+- [fxa100-excellence-in-dementia-care--ch12-chapter-14](../sources/fxa100-excellence-in-dementia-care--ch12-chapter-14.md)

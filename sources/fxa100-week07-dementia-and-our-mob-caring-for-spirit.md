@@ -26,26 +26,26 @@ The document underscores the importance of understanding dementia within the uni
 
 ## Key Concepts
 
-- [[../topics/socio-cultural context]]
-- [[../topics/holistic care approach]]
-- [[../topics/spiritual health]]
+- [socio-cultural context](../topics/socio-cultural context.md)
+- [holistic care approach](../topics/holistic care approach.md)
+- [spiritual health](../topics/spiritual health.md)
 
 ## Tags
 
-- [[../tags/indigenous-health]]
-- [[../tags/dementia-care]]
-- [[../tags/cultural-context]]
-- [[../tags/spiritual-wellbeing]]
-- [[../tags/elder-caring]]
-- [[../tags/aboriginal-issues]]
-- [[../tags/fxa100]]
+- [indigenous-health](../tags/indigenous-health.md)
+- [dementia-care](../tags/dementia-care.md)
+- [cultural-context](../tags/cultural-context.md)
+- [spiritual-wellbeing](../tags/spiritual-wellbeing.md)
+- [elder-caring](../tags/elder-caring.md)
+- [aboriginal-issues](../tags/aboriginal-issues.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/indigenous-health]]
-- [[../topics/spiritual-wellbeing]]
+- [dementia-care](../topics/dementia-care.md)
+- [indigenous-health](../topics/indigenous-health.md)
+- [spiritual-wellbeing](../topics/spiritual-wellbeing.md)

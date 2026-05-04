@@ -27,6 +27,6 @@ The integration of arts into health practices is a multifaceted intervention tha
 
 ## Sources
 
-- [[../sources/fxa202-week01-lesson-fxa202-week01-chapter-4-inspiration]]
-- [[../sources/fxa301-week01-lesson-fxa301-week01-page-1-hm]]
-- [[../sources/fxa301-week01-lesson-fxa301-week01-page-3-hm-evaluating-a-project]]
+- [fxa202-week01-lesson-fxa202-week01-chapter-4-inspiration](../sources/fxa202-week01-lesson-fxa202-week01-chapter-4-inspiration.md)
+- [fxa301-week01-lesson-fxa301-week01-page-1-hm](../sources/fxa301-week01-lesson-fxa301-week01-page-1-hm.md)
+- [fxa301-week01-lesson-fxa301-week01-page-3-hm-evaluating-a-project](../sources/fxa301-week01-lesson-fxa301-week01-page-3-hm-evaluating-a-project.md)

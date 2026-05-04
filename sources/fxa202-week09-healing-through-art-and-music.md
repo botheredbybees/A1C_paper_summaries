@@ -24,31 +24,31 @@ Cassandra Yates reflects on her journey through chronic pain and emotional numbn
 
 ## Key Concepts
 
-- [[../topics/chronic pain]]
-- [[../topics/art therapy]]
-- [[../topics/music therapy]]
-- [[../topics/emotional healing]]
-- [[../topics/survival mode]]
+- [chronic pain](../topics/chronic pain.md)
+- [art therapy](../topics/art therapy.md)
+- [music therapy](../topics/music therapy.md)
+- [emotional healing](../topics/emotional healing.md)
+- [survival mode](../topics/survival mode.md)
 
 ## Tags
 
-- [[../tags/personal-narrative]]
-- [[../tags/chronic-pain-management]]
-- [[../tags/emotional-healing]]
-- [[../tags/creative-expression]]
-- [[../tags/self-reflection]]
-- [[../tags/trauma-recovery]]
-- [[../tags/fxa202]]
+- [personal-narrative](../tags/personal-narrative.md)
+- [chronic-pain-management](../tags/chronic-pain-management.md)
+- [emotional-healing](../tags/emotional-healing.md)
+- [creative-expression](../tags/creative-expression.md)
+- [self-reflection](../tags/self-reflection.md)
+- [trauma-recovery](../tags/trauma-recovery.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[personal narrative]]
+- [personal narrative](personal narrative.md)
 
 ## See Also
 
-- [[../topics/chronic-pain-management]]
-- [[../topics/creative-expression]]
-- [[../topics/emotional-healing]]
-- [[../topics/personal-narrative]]
-- [[../topics/self-reflection]]
-- [[../topics/trauma-recovery]]
+- [chronic-pain-management](../topics/chronic-pain-management.md)
+- [creative-expression](../topics/creative-expression.md)
+- [emotional-healing](../topics/emotional-healing.md)
+- [personal-narrative](../topics/personal-narrative.md)
+- [self-reflection](../topics/self-reflection.md)
+- [trauma-recovery](../topics/trauma-recovery.md)

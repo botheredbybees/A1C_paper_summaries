@@ -24,16 +24,16 @@ This lesson explores the critical period of child development from the last trim
 
 ## Key Concepts
 
-- [[../topics/neuroplasticity]]
-- [[../topics/critical-period-hypothesis]]
-- [[../topics/scaffolding]]
+- [neuroplasticity](../topics/neuroplasticity.md)
+- [critical-period-hypothesis](../topics/critical-period-hypothesis.md)
+- [scaffolding](../topics/scaffolding.md)
 
 ## Tags
 
-- [[../tags/child-development]]
-- [[../tags/neuroscience]]
-- [[../tags/education-theories]]
-- [[../tags/fxa303]]
+- [child-development](../tags/child-development.md)
+- [neuroscience](../tags/neuroscience.md)
+- [education-theories](../tags/education-theories.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ This lesson explores the critical period of child development from the last trim
 
 ## See Also
 
-- [[../topics/child-development]]
-- [[../topics/neuroscience]]
+- [child-development](../topics/child-development.md)
+- [neuroscience](../topics/neuroscience.md)

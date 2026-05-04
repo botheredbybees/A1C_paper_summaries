@@ -24,23 +24,23 @@ The document is a poignant narrative by Alison Higgins reflecting on the emotion
 
 ## Key Concepts
 
-- [[../topics/emotional-journey]]
-- [[../topics/ocean-as-a-symbol-of-grief]]
-- [[../topics/strength-and-self-discovery-in-loss]]
+- [emotional-journey](../topics/emotional-journey.md)
+- [ocean-as-a-symbol-of-grief](../topics/ocean-as-a-symbol-of-grief.md)
+- [strength-and-self-discovery-in-loss](../topics/strength-and-self-discovery-in-loss.md)
 
 ## Tags
 
-- [[../tags/personal-reflection]]
-- [[../tags/grief-coping-mechanisms]]
-- [[../tags/natural-therapies]]
-- [[../tags/mourning-process]]
-- [[../tags/memorial-sites]]
-- [[../tags/fxa202]]
+- [personal-reflection](../tags/personal-reflection.md)
+- [grief-coping-mechanisms](../tags/grief-coping-mechanisms.md)
+- [natural-therapies](../tags/natural-therapies.md)
+- [mourning-process](../tags/mourning-process.md)
+- [memorial-sites](../tags/memorial-sites.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[personal-narrative]]
+- [personal-narrative](personal-narrative.md)
 
 ## See Also
 
-- [[../topics/personal-reflection]]
+- [personal-reflection](../topics/personal-reflection.md)

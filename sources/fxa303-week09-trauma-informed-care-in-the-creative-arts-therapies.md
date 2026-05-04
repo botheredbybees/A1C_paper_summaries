@@ -24,25 +24,25 @@ This editorial discusses the importance of trauma-informed care in creative arts
 
 ## Key Concepts
 
-- [[../topics/trauma-informed care]]
-- [[../topics/sensory-based interventions]]
-- [[../topics/developmental trauma disorder]]
+- [trauma-informed care](../topics/trauma-informed care.md)
+- [sensory-based interventions](../topics/sensory-based interventions.md)
+- [developmental trauma disorder](../topics/developmental trauma disorder.md)
 
 ## Tags
 
-- [[../tags/trauma-informed-care]]
-- [[../tags/creative-arts-therapies]]
-- [[../tags/childhood-trauma]]
-- [[../tags/neurobiological-effects]]
-- [[../tags/developmental-psychology]]
-- [[../tags/fxa303]]
+- [trauma-informed-care](../tags/trauma-informed-care.md)
+- [creative-arts-therapies](../tags/creative-arts-therapies.md)
+- [childhood-trauma](../tags/childhood-trauma.md)
+- [neurobiological-effects](../tags/neurobiological-effects.md)
+- [developmental-psychology](../tags/developmental-psychology.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[editorial]]
+- **editorial**
 
 ## See Also
 
-- [[../topics/creative-arts-therapies]]
-- [[../topics/developmental-psychology]]
-- [[../topics/trauma-informed-care]]
+- [creative-arts-therapies](../topics/creative-arts-therapies.md)
+- [developmental-psychology](../topics/developmental-psychology.md)
+- [trauma-informed-care](../topics/trauma-informed-care.md)

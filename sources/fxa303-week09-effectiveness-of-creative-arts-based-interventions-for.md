@@ -24,27 +24,27 @@ This article presents a systematic review and meta-analysis to evaluate the effe
 
 ## Key Concepts
 
-- [[../topics/post-traumatic-stress-disorder]]
-- [[../topics/negative-mood]]
-- [[../topics/externalizing-problems]]
-- [[../topics/anxiety-levels]]
+- [post-traumatic-stress-disorder](../topics/post-traumatic-stress-disorder.md)
+- [negative-mood](../topics/negative-mood.md)
+- [externalizing-problems](../topics/externalizing-problems.md)
+- [anxiety-levels](../topics/anxiety-levels.md)
 
 ## Tags
 
-- [[../tags/creative-arts-interventions]]
-- [[../tags/trauma-exposure]]
-- [[../tags/child-adolescent-psychology]]
-- [[../tags/systematic-review-meta-analysis]]
-- [[../tags/mental-health-outcomes]]
-- [[../tags/fxa303]]
+- [creative-arts-interventions](../tags/creative-arts-interventions.md)
+- [trauma-exposure](../tags/trauma-exposure.md)
+- [child-adolescent-psychology](../tags/child-adolescent-psychology.md)
+- [systematic-review-meta-analysis](../tags/systematic-review-meta-analysis.md)
+- [mental-health-outcomes](../tags/mental-health-outcomes.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic-review]]
-- [[meta-analysis]]
+- [systematic-review](systematic-review.md)
+- [meta-analysis](meta-analysis.md)
 
 ## See Also
 
-- [[../topics/creative-arts-interventions]]
-- [[../topics/mental-health-outcomes]]
-- [[../topics/systematic-review-meta-analysis]]
+- [creative-arts-interventions](../topics/creative-arts-interventions.md)
+- [mental-health-outcomes](../topics/mental-health-outcomes.md)
+- [systematic-review-meta-analysis](../topics/systematic-review-meta-analysis.md)

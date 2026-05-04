@@ -24,24 +24,24 @@ The text 'Educating Students with Autism Spectrum Disorders' edited by Dianne Za
 
 ## Key Concepts
 
-- [[../topics/research-driven-interventions]]
-- [[../topics/educational-approaches-for-autism]]
-- [[../topics/identification-and-diagnosis-of-autism]]
+- [research-driven-interventions](../topics/research-driven-interventions.md)
+- [educational-approaches-for-autism](../topics/educational-approaches-for-autism.md)
+- [identification-and-diagnosis-of-autism](../topics/identification-and-diagnosis-of-autism.md)
 
 ## Tags
 
-- [[../tags/autism-education]]
-- [[../tags/inclusive-classrooms]]
-- [[../tags/special-needs-teaching]]
-- [[../tags/evidence-based-practices]]
-- [[../tags/interdisciplinary-collaboration]]
-- [[../tags/fxa303]]
+- [autism-education](../tags/autism-education.md)
+- [inclusive-classrooms](../tags/inclusive-classrooms.md)
+- [special-needs-teaching](../tags/special-needs-teaching.md)
+- [evidence-based-practices](../tags/evidence-based-practices.md)
+- [interdisciplinary-collaboration](../tags/interdisciplinary-collaboration.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/evidence-based-practices]]
-- [[../topics/interdisciplinary-collaboration]]
+- [evidence-based-practices](../topics/evidence-based-practices.md)
+- [interdisciplinary-collaboration](../topics/interdisciplinary-collaboration.md)

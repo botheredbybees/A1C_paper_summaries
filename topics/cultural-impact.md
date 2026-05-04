@@ -26,5 +26,5 @@ The synthesis integrates findings from the National Arts Participation Survey an
 
 ## Sources
 
-- [[../sources/fxa301-week01-web-article-australia-2023]]
-- [[../sources/fxa301-week02-current-emotion-research-in-music-psychology]]
+- [fxa301-week01-web-article-australia-2023](../sources/fxa301-week01-web-article-australia-2023.md)
+- [fxa301-week02-current-emotion-research-in-music-psychology](../sources/fxa301-week02-current-emotion-research-in-music-psychology.md)

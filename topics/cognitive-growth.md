@@ -26,5 +26,5 @@ The concept of cognitive growth is explored across different developmental stage
 
 ## Sources
 
-- [[../sources/fxa303-week02-infancy-and-the-early-years]]
-- [[../sources/fxa303-week03-adolescent-health]]
+- [fxa303-week02-infancy-and-the-early-years](../sources/fxa303-week02-infancy-and-the-early-years.md)
+- [fxa303-week03-adolescent-health](../sources/fxa303-week03-adolescent-health.md)

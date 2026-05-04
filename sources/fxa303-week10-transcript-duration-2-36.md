@@ -24,16 +24,16 @@ The transcript discusses a youth program aimed at Aboriginal individuals aged th
 
 ## Key Concepts
 
-- [[../topics/cultural-identity]]
-- [[../topics/community-support-networks]]
-- [[../topics/drug-prevention]]
+- [cultural-identity](../topics/cultural-identity.md)
+- [community-support-networks](../topics/community-support-networks.md)
+- [drug-prevention](../topics/drug-prevention.md)
 
 ## Tags
 
-- [[../tags/aboriginal-culture]]
-- [[../tags/mental-health-intervention]]
-- [[../tags/youth-support-program]]
-- [[../tags/fxa303]]
+- [aboriginal-culture](../tags/aboriginal-culture.md)
+- [mental-health-intervention](../tags/mental-health-intervention.md)
+- [youth-support-program](../tags/youth-support-program.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

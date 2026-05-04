@@ -25,5 +25,5 @@ The investigation into cross-cultural research highlights the universality of ce
 
 ## Sources
 
-- [[../sources/fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and]]
-- [[../sources/fxa100-week08-development-of-a-novel-benchmark-method-to-identify-and]]
+- [fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and](../sources/fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and.md)
+- [fxa100-week08-development-of-a-novel-benchmark-method-to-identify-and](../sources/fxa100-week08-development-of-a-novel-benchmark-method-to-identify-and.md)

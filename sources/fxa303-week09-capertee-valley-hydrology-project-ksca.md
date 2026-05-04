@@ -24,24 +24,24 @@ The Capertee Valley Hydrology Project, initiated by Kandos School of Cultural Ad
 
 ## Key Concepts
 
-- [[../topics/landscape-rehydration]]
-- [[../topics/catchment-restoration]]
-- [[../topics/community-participation]]
-- [[../topics/sustainable-land-use]]
+- [landscape-rehydration](../topics/landscape-rehydration.md)
+- [catchment-restoration](../topics/catchment-restoration.md)
+- [community-participation](../topics/community-participation.md)
+- [sustainable-land-use](../topics/sustainable-land-use.md)
 
 ## Tags
 
-- [[../tags/environmental-restoration]]
-- [[../tags/hydrological-balance]]
-- [[../tags/ecological-health]]
-- [[../tags/community-engagement]]
-- [[../tags/land-management-practices]]
-- [[../tags/natural-regeneration]]
-- [[../tags/fxa303]]
+- [environmental-restoration](../tags/environmental-restoration.md)
+- [hydrological-balance](../tags/hydrological-balance.md)
+- [ecological-health](../tags/ecological-health.md)
+- [community-engagement](../tags/community-engagement.md)
+- [land-management-practices](../tags/land-management-practices.md)
+- [natural-regeneration](../tags/natural-regeneration.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 

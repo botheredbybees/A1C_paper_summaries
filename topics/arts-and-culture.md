@@ -27,6 +27,6 @@ The value of arts is explored through cultural and public perspectives in Austra
 
 ## Sources
 
-- [[../sources/fxa301-week01-web-article-australia-2022]]
-- [[../sources/fxa301-week08-transcript-arts-gymnasium-at-belgrade-theatre-coventry]]
-- [[../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi]]
+- [fxa301-week01-web-article-australia-2022](../sources/fxa301-week01-web-article-australia-2022.md)
+- [fxa301-week08-transcript-arts-gymnasium-at-belgrade-theatre-coventry](../sources/fxa301-week08-transcript-arts-gymnasium-at-belgrade-theatre-coventry.md)
+- [fxa303-week10-researching-arts-culture-migration-and-change-a-multi](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi.md)

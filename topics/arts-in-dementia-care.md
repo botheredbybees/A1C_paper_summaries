@@ -26,5 +26,5 @@ The integration of arts-based therapies in dementia care has been advocated as a
 
 ## Sources
 
-- [[../sources/fxa100-week04-lecture-notes-for-fxa100-the-arts-and-dementia-care]]
-- [[../sources/fxa100-week04-week-4-activities-fxa100-the-arts-and-dementia-care]]
+- [fxa100-week04-lecture-notes-for-fxa100-the-arts-and-dementia-care](../sources/fxa100-week04-lecture-notes-for-fxa100-the-arts-and-dementia-care.md)
+- [fxa100-week04-week-4-activities-fxa100-the-arts-and-dementia-care](../sources/fxa100-week04-week-4-activities-fxa100-the-arts-and-dementia-care.md)

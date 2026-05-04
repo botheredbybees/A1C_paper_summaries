@@ -29,8 +29,8 @@ The topic explores the impact of physical activity on cognitive health among old
 
 ## Sources
 
-- [[../sources/fxa100-week01-relating-physical-activity-to-cognitive-function-brain]]
-- [[../sources/fxa301-week03-arts-public-health-and-the-national-arts-and-health]]
-- [[../sources/fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older]]
-- [[../sources/fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster]]
-- [[../sources/fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project]]
+- [fxa100-week01-relating-physical-activity-to-cognitive-function-brain](../sources/fxa100-week01-relating-physical-activity-to-cognitive-function-brain.md)
+- [fxa301-week03-arts-public-health-and-the-national-arts-and-health](../sources/fxa301-week03-arts-public-health-and-the-national-arts-and-health.md)
+- [fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older](../sources/fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older.md)
+- [fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster](../sources/fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster.md)
+- [fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project](../sources/fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project.md)

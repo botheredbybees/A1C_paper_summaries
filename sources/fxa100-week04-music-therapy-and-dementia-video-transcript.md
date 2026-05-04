@@ -24,27 +24,27 @@ This document provides a transcript of a music therapy session in a residential 
 
 ## Key Concepts
 
-- [[../topics/music therapy]]
-- [[../topics/dementia care]]
-- [[../topics/self-expression]]
-- [[../topics/memory evocation]]
+- [music therapy](../topics/music therapy.md)
+- [dementia care](../topics/dementia care.md)
+- [self-expression](../topics/self-expression.md)
+- [memory evocation](../topics/memory evocation.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/dementia-care]]
-- [[../tags/residential-nursing-homes]]
-- [[../tags/self-expression-through-music]]
-- [[../tags/emotional-wellbeing]]
-- [[../tags/personal-memory]]
-- [[../tags/fxa100]]
+- [music-therapy](../tags/music-therapy.md)
+- [dementia-care](../tags/dementia-care.md)
+- [residential-nursing-homes](../tags/residential-nursing-homes.md)
+- [self-expression-through-music](../tags/self-expression-through-music.md)
+- [emotional-wellbeing](../tags/emotional-wellbeing.md)
+- [personal-memory](../tags/personal-memory.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/emotional-wellbeing]]
-- [[../topics/music-therapy]]
+- [dementia-care](../topics/dementia-care.md)
+- [emotional-wellbeing](../topics/emotional-wellbeing.md)
+- [music-therapy](../topics/music-therapy.md)

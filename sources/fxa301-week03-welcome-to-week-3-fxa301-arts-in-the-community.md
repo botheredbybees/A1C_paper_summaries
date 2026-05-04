@@ -28,28 +28,28 @@ The introduction concludes with a preview for the next part of the lesson, which
 
 ## Key Concepts
 
-- [[../topics/creative arts engagement]]
-- [[../topics/Arts on Prescription]]
-- [[../topics/demographic changes]]
-- [[../topics/health outcomes]]
+- [creative arts engagement](../topics/creative arts engagement.md)
+- [Arts on Prescription](../topics/Arts on Prescription.md)
+- [demographic changes](../topics/demographic changes.md)
+- [health outcomes](../topics/health outcomes.md)
 
 ## Tags
 
-- [[../tags/arts-in-health]]
-- [[../tags/aging-populations]]
-- [[../tags/community-engagement]]
-- [[../tags/health-wellbeing]]
-- [[../tags/creative-therapies]]
-- [[../tags/policy-frameworks]]
-- [[../tags/fxa301]]
+- [arts-in-health](../tags/arts-in-health.md)
+- [aging-populations](../tags/aging-populations.md)
+- [community-engagement](../tags/community-engagement.md)
+- [health-wellbeing](../tags/health-wellbeing.md)
+- [creative-therapies](../tags/creative-therapies.md)
+- [policy-frameworks](../tags/policy-frameworks.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[literature review]]
+- [literature review](literature review.md)
 
 ## See Also
 
-- [[../topics/aging-populations]]
-- [[../topics/arts-in-health]]
-- [[../topics/creative-therapies]]
-- [[../topics/health-wellbeing]]
+- [aging-populations](../topics/aging-populations.md)
+- [arts-in-health](../topics/arts-in-health.md)
+- [creative-therapies](../topics/creative-therapies.md)
+- [health-wellbeing](../topics/health-wellbeing.md)

@@ -24,21 +24,21 @@ The document 'Recontextualizing Music For Social Change' by Mario Vázquez Moril
 
 ## Key Concepts
 
-- [[../topics/multidisciplinary-performances]]
-- [[../topics/ritualistic-significance-of-music]]
+- [multidisciplinary-performances](../topics/multidisciplinary-performances.md)
+- [ritualistic-significance-of-music](../topics/ritualistic-significance-of-music.md)
 
 ## Tags
 
-- [[../tags/music-education]]
-- [[../tags/social-change-through-art]]
-- [[../tags/gender-studies-in-music]]
-- [[../tags/fxa301]]
+- [music-education](../tags/music-education.md)
+- [social-change-through-art](../tags/social-change-through-art.md)
+- [gender-studies-in-music](../tags/gender-studies-in-music.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/music-education]]
-- [[../topics/social-change-through-art]]
+- [music-education](../topics/music-education.md)
+- [social-change-through-art](../topics/social-change-through-art.md)

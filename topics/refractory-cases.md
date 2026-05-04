@@ -26,5 +26,5 @@ The study of refractory cases in post-traumatic stress disorder (PTSD) reveals a
 
 ## Sources
 
-- [[../sources/fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and]]
-- [[../sources/fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2)]]
+- [fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and](../sources/fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and.md)
+- [fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2)](../sources/fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2).md)

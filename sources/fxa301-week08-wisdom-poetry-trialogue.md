@@ -24,23 +24,23 @@ The article 'Wisdom poetry trialogue' explores the concept of wisdom poetry thro
 
 ## Key Concepts
 
-- [[../topics/cultural-wisdom]]
-- [[../topics/poetic-healing]]
-- [[../topics/transcendental-universality]]
+- [cultural-wisdom](../topics/cultural-wisdom.md)
+- [poetic-healing](../topics/poetic-healing.md)
+- [transcendental-universality](../topics/transcendental-universality.md)
 
 ## Tags
 
-- [[../tags/cross-cultural-dialogue]]
-- [[../tags/wisdom-poetry]]
-- [[../tags/universal-truths]]
-- [[../tags/healing-through-art]]
-- [[../tags/creative-arts-health]]
-- [[../tags/fxa301]]
+- [cross-cultural-dialogue](../tags/cross-cultural-dialogue.md)
+- [wisdom-poetry](../tags/wisdom-poetry.md)
+- [universal-truths](../tags/universal-truths.md)
+- [healing-through-art](../tags/healing-through-art.md)
+- [creative-arts-health](../tags/creative-arts-health.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[qualitative-analysis]]
+- [qualitative-analysis](qualitative-analysis.md)
 
 ## See Also
 
-- [[../topics/creative-arts-health]]
+- [creative-arts-health](../topics/creative-arts-health.md)

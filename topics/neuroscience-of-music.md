@@ -27,6 +27,6 @@ The integration of findings from three sources highlights the profound impact mu
 
 ## Sources
 
-- [[../sources/fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there]]
-- [[../sources/fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind]]
-- [[../sources/fxa100-week03-the-effects-of-music-on-the-brain-video-transcript]]
+- [fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there](../sources/fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there.md)
+- [fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind](../sources/fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind.md)
+- [fxa100-week03-the-effects-of-music-on-the-brain-video-transcript](../sources/fxa100-week03-the-effects-of-music-on-the-brain-video-transcript.md)

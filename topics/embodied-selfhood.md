@@ -26,5 +26,5 @@ The concept of 'embodied selfhood' emerges as a pivotal theoretical framework wi
 
 ## Sources
 
-- [[../sources/fxa100-excellence-in-dementia-care--ch47-chapter-17]]
-- [[../sources/fxa100-excellence-in-dementia-care--ch57-chapter-17]]
+- [fxa100-excellence-in-dementia-care--ch47-chapter-17](../sources/fxa100-excellence-in-dementia-care--ch47-chapter-17.md)
+- [fxa100-excellence-in-dementia-care--ch57-chapter-17](../sources/fxa100-excellence-in-dementia-care--ch57-chapter-17.md)

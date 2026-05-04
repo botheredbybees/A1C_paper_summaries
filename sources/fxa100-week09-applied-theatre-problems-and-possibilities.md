@@ -30,24 +30,24 @@ The relevance to creative arts and health is evident, as Ackroyd's work undersco
 
 ## Key Concepts
 
-- [[../topics/transformative-power-of-theatre]]
-- [[../topics/continuum-of-applied-theatre]]
+- [transformative-power-of-theatre](../topics/transformative-power-of-theatre.md)
+- [continuum-of-applied-theatre](../topics/continuum-of-applied-theatre.md)
 
 ## Tags
 
-- [[../tags/applied-theatre]]
-- [[../tags/theatrical-therapy]]
-- [[../tags/social-change-through-art]]
-- [[../tags/community-development]]
-- [[../tags/fxa100]]
+- [applied-theatre](../tags/applied-theatre.md)
+- [theatrical-therapy](../tags/theatrical-therapy.md)
+- [social-change-through-art](../tags/social-change-through-art.md)
+- [community-development](../tags/community-development.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[literature-review]]
+- [literature-review](literature-review.md)
 
 ## See Also
 
-- [[../topics/applied-theatre]]
-- [[../topics/community-development]]
-- [[../topics/social-change-through-art]]
-- [[../topics/theatrical-therapy]]
+- [applied-theatre](../topics/applied-theatre.md)
+- [community-development](../topics/community-development.md)
+- [social-change-through-art](../topics/social-change-through-art.md)
+- [theatrical-therapy](../topics/theatrical-therapy.md)

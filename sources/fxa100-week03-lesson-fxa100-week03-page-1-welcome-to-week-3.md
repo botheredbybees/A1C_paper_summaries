@@ -24,17 +24,17 @@ In this week's module of Listening to Music, Dr Brendan Lamb explores the impact
 
 ## Key Concepts
 
-- [[../topics/entwinement-of-music-emotion-memory]]
-- [[../topics/rhythmic-entrainment]]
-- [[../topics/musical-preferences]]
+- [entwinement-of-music-emotion-memory](../topics/entwinement-of-music-emotion-memory.md)
+- [rhythmic-entrainment](../topics/rhythmic-entrainment.md)
+- [musical-preferences](../topics/musical-preferences.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/music-therapy]]
-- [[../tags/cognitive-stimulation]]
-- [[../tags/emotional-wellbeing]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [music-therapy](../tags/music-therapy.md)
+- [cognitive-stimulation](../tags/cognitive-stimulation.md)
+- [emotional-wellbeing](../tags/emotional-wellbeing.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -42,7 +42,7 @@ In this week's module of Listening to Music, Dr Brendan Lamb explores the impact
 
 ## See Also
 
-- [[../topics/cognitive-stimulation]]
-- [[../topics/dementia-care]]
-- [[../topics/emotional-wellbeing]]
-- [[../topics/music-therapy]]
+- [cognitive-stimulation](../topics/cognitive-stimulation.md)
+- [dementia-care](../topics/dementia-care.md)
+- [emotional-wellbeing](../topics/emotional-wellbeing.md)
+- [music-therapy](../topics/music-therapy.md)

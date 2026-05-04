@@ -28,19 +28,19 @@ The book’s two main premises are outlined: first, the influence of political g
 
 ## Key Concepts
 
-- [[../topics/intersection-of-arts-and-health]]
-- [[../topics/social-political-factors-in-artistic-production]]
+- [intersection-of-arts-and-health](../topics/intersection-of-arts-and-health.md)
+- [social-political-factors-in-artistic-production](../topics/social-political-factors-in-artistic-production.md)
 
 ## Tags
 
-- [[../tags/arts-and-health]]
-- [[../tags/well-being-research]]
-- [[../tags/critical-perspective]]
-- [[../tags/fxa202]]
+- [arts-and-health](../tags/arts-and-health.md)
+- [well-being-research](../tags/well-being-research.md)
+- [critical-perspective](../tags/critical-perspective.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[critical-analysis]]
+- [critical-analysis](critical-analysis.md)
 
 ## See Also
 

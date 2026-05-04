@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Mri Technique
 
-- [[../sources/fxa100-week04-transcript-new-super-fast-mri-technique-singing-if-i-only|New Super-Fast MRI Technique: Singing 'If I Only Had A Brain']]
+- [New Super-Fast MRI Technique: Singing 'If I Only Had A Brain'](../sources/fxa100-week04-transcript-new-super-fast-mri-technique-singing-if-i-only.md)

@@ -26,5 +26,5 @@ The concept of personal resilience emerges from two distinct yet complementary p
 
 ## Sources
 
-- [[../sources/fxa202-week06-rediscovering-joy-during-lockdown]]
-- [[../sources/fxa202-week06-remembrance]]
+- [fxa202-week06-rediscovering-joy-during-lockdown](../sources/fxa202-week06-rediscovering-joy-during-lockdown.md)
+- [fxa202-week06-remembrance](../sources/fxa202-week06-remembrance.md)

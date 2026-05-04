@@ -26,5 +26,5 @@ The synthesis of the provided sources highlights singing as a valuable intervent
 
 ## Sources
 
-- [[../sources/fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the]]
-- [[../sources/fxa301-week03-creative-health-review-report]]
+- [fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the](../sources/fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the.md)
+- [fxa301-week03-creative-health-review-report](../sources/fxa301-week03-creative-health-review-report.md)

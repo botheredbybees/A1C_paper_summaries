@@ -28,7 +28,7 @@ The integration of creative arts and play-based interventions has shown promisin
 
 ## Sources
 
-- [[../sources/fxa100-week04-arts-in-health-designing-and-researching-interventions]]
-- [[../sources/fxa303-week04-play-based-interventions-for-mental-health-a-systematic]]
-- [[../sources/fxa303-week09-effectiveness-of-creative-arts-based-interventions-for]]
-- [[../sources/fxa303-week09-exploring-child-centered-play-therapy-and-trauma-a]]
+- [fxa100-week04-arts-in-health-designing-and-researching-interventions](../sources/fxa100-week04-arts-in-health-designing-and-researching-interventions.md)
+- [fxa303-week04-play-based-interventions-for-mental-health-a-systematic](../sources/fxa303-week04-play-based-interventions-for-mental-health-a-systematic.md)
+- [fxa303-week09-effectiveness-of-creative-arts-based-interventions-for](../sources/fxa303-week09-effectiveness-of-creative-arts-based-interventions-for.md)
+- [fxa303-week09-exploring-child-centered-play-therapy-and-trauma-a](../sources/fxa303-week09-exploring-child-centered-play-therapy-and-trauma-a.md)

@@ -24,23 +24,23 @@ The article explores the use of puppets as a therapeutic tool within narrative t
 
 ## Key Concepts
 
-- [[../topics/narrative therapy]]
-- [[../topics/problem externalization]]
-- [[../topics/objectification techniques]]
+- [narrative therapy](../topics/narrative therapy.md)
+- [problem externalization](../topics/problem externalization.md)
+- [objectification techniques](../topics/objectification techniques.md)
 
 ## Tags
 
-- [[../tags/narrative-therapy]]
-- [[../tags/externalization-strategies]]
-- [[../tags/therapeutic-tools-for-children]]
-- [[../tags/puppet-therapy]]
-- [[../tags/fxa303]]
+- [narrative-therapy](../tags/narrative-therapy.md)
+- [externalization-strategies](../tags/externalization-strategies.md)
+- [therapeutic-tools-for-children](../tags/therapeutic-tools-for-children.md)
+- [puppet-therapy](../tags/puppet-therapy.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/narrative-therapy]]
-- [[../topics/puppet-therapy]]
+- [narrative-therapy](../topics/narrative-therapy.md)
+- [puppet-therapy](../topics/puppet-therapy.md)

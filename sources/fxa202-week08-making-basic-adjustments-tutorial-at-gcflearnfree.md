@@ -24,25 +24,25 @@ The document provides a comprehensive tutorial on making basic image editing adj
 
 ## Key Concepts
 
-- [[../topics/cropping]]
-- [[../topics/resizing]]
-- [[../topics/rotating]]
-- [[../topics/aspect-ratio-maintenance]]
+- [cropping](../topics/cropping.md)
+- [resizing](../topics/resizing.md)
+- [rotating](../topics/rotating.md)
+- [aspect-ratio-maintenance](../topics/aspect-ratio-maintenance.md)
 
 ## Tags
 
-- [[../tags/image-editing]]
-- [[../tags/tutorial-guide]]
-- [[../tags/web-based-tools]]
-- [[../tags/photography-basics]]
-- [[../tags/design-principles]]
-- [[../tags/fxa202]]
+- [image-editing](../tags/image-editing.md)
+- [tutorial-guide](../tags/tutorial-guide.md)
+- [web-based-tools](../tags/web-based-tools.md)
+- [photography-basics](../tags/photography-basics.md)
+- [design-principles](../tags/design-principles.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[instructional-tutorial]]
+- [instructional-tutorial](instructional-tutorial.md)
 
 ## See Also
 
-- [[../topics/image-editing]]
-- [[../topics/photography-basics]]
+- [image-editing](../topics/image-editing.md)
+- [photography-basics](../topics/photography-basics.md)

@@ -30,26 +30,26 @@ The document provides an overview of the FXA100 course, which focuses on practic
 
 ## Key Concepts
 
-- [[../topics/arts-based interventions]]
-- [[../topics/dementia care]]
-- [[../topics/mental well-being]]
+- [arts-based interventions](../topics/arts-based interventions.md)
+- [dementia care](../topics/dementia care.md)
+- [mental well-being](../topics/mental well-being.md)
 
 ## Tags
 
-- [[../tags/arts-and-dementia]]
-- [[../tags/creative-interventions]]
-- [[../tags/well-being-enhancement]]
-- [[../tags/cognitive-processing]]
-- [[../tags/dementia-types]]
-- [[../tags/fxa100]]
+- [arts-and-dementia](../tags/arts-and-dementia.md)
+- [creative-interventions](../tags/creative-interventions.md)
+- [well-being-enhancement](../tags/well-being-enhancement.md)
+- [cognitive-processing](../tags/cognitive-processing.md)
+- [dementia-types](../tags/dementia-types.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[lecture]]
+- [lecture](lecture.md)
 
 ## See Also
 
-- [[../topics/cognitive-processing]]
-- [[../topics/creative-interventions]]
-- [[../topics/dementia-types]]
-- [[../topics/well-being-enhancement]]
+- [cognitive-processing](../topics/cognitive-processing.md)
+- [creative-interventions](../topics/creative-interventions.md)
+- [dementia-types](../topics/dementia-types.md)
+- [well-being-enhancement](../topics/well-being-enhancement.md)

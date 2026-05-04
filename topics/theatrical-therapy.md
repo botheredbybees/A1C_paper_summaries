@@ -26,5 +26,5 @@ Theatrical therapy emerges as a versatile intervention with applications ranging
 
 ## Sources
 
-- [[../sources/fxa100-week09-applied-theatre-problems-and-possibilities]]
-- [[../sources/fxa100-week09-implementing-living-room-theatre-activities-for-people-with]]
+- [fxa100-week09-applied-theatre-problems-and-possibilities](../sources/fxa100-week09-applied-theatre-problems-and-possibilities.md)
+- [fxa100-week09-implementing-living-room-theatre-activities-for-people-with](../sources/fxa100-week09-implementing-living-room-theatre-activities-for-people-with.md)

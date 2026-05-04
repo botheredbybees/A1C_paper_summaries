@@ -24,27 +24,27 @@ This document introduces Week 3 of a course on arts and dementia care, focusing 
 
 ## Key Concepts
 
-- [[../topics/Music and Memory project]]
-- [[../topics/Power of Music and Dementia Study]]
-- [[../topics/rhythmic entrainment]]
+- [Music and Memory project](../topics/Music and Memory project.md)
+- [Power of Music and Dementia Study](../topics/Power of Music and Dementia Study.md)
+- [rhythmic entrainment](../topics/rhythmic entrainment.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/dementia-care]]
-- [[../tags/quality-of-life]]
-- [[../tags/aural-memory]]
-- [[../tags/emotional-response]]
-- [[../tags/fxa100]]
+- [music-therapy](../tags/music-therapy.md)
+- [dementia-care](../tags/dementia-care.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [aural-memory](../tags/aural-memory.md)
+- [emotional-response](../tags/emotional-response.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
-- [[systematic review]]
+- [case study](case study.md)
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/emotional-response]]
-- [[../topics/music-therapy]]
-- [[../topics/quality-of-life]]
+- [dementia-care](../topics/dementia-care.md)
+- [emotional-response](../topics/emotional-response.md)
+- [music-therapy](../topics/music-therapy.md)
+- [quality-of-life](../topics/quality-of-life.md)

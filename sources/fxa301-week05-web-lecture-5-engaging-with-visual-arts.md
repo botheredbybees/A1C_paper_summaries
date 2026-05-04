@@ -24,21 +24,21 @@ This web lecture focuses on engaging with visual arts through case studies and t
 
 ## Key Concepts
 
-- [[../topics/happiness-prescriptions]]
-- [[../topics/cultural-understanding]]
-- [[../topics/memorial-quilt-initiative]]
+- [happiness-prescriptions](../topics/happiness-prescriptions.md)
+- [cultural-understanding](../topics/cultural-understanding.md)
+- [memorial-quilt-initiative](../topics/memorial-quilt-initiative.md)
 
 ## Tags
 
-- [[../tags/visual-arts-engagement]]
-- [[../tags/community-art-projects]]
-- [[../tags/wellbeing-through-art]]
-- [[../tags/fxa301]]
+- [visual-arts-engagement](../tags/visual-arts-engagement.md)
+- [community-art-projects](../tags/community-art-projects.md)
+- [wellbeing-through-art](../tags/wellbeing-through-art.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/wellbeing-through-art]]
+- [wellbeing-through-art](../topics/wellbeing-through-art.md)

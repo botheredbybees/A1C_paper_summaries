@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Psychological Narrative
 
-- [[../sources/fxa202-week05-stream-of-consciousness|Stream of Consciousness]]
+- [Stream of Consciousness](../sources/fxa202-week05-stream-of-consciousness.md)

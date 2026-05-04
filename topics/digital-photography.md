@@ -27,6 +27,6 @@ The synthesis of digital photography techniques reveals a comprehensive approach
 
 ## Sources
 
-- [[../sources/fxa202-week02-a-beginners-guide-to-photo-editing-with-snapseed]]
-- [[../sources/fxa202-week02-aperture-and-shutter-priority-modes]]
-- [[../sources/fxa202-week02-welcome-to-week-2-using-your-camera]]
+- [fxa202-week02-a-beginners-guide-to-photo-editing-with-snapseed](../sources/fxa202-week02-a-beginners-guide-to-photo-editing-with-snapseed.md)
+- [fxa202-week02-aperture-and-shutter-priority-modes](../sources/fxa202-week02-aperture-and-shutter-priority-modes.md)
+- [fxa202-week02-welcome-to-week-2-using-your-camera](../sources/fxa202-week02-welcome-to-week-2-using-your-camera.md)

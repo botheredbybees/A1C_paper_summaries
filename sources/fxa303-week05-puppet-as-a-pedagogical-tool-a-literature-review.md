@@ -24,25 +24,25 @@ The article presents a literature review of the use of puppets as pedagogical to
 
 ## Key Concepts
 
-- [[../topics/communication-generation]]
-- [[../topics/positive-classroom-climate]]
-- [[../topics/cooperative-learning]]
-- [[../topics/attitude-change]]
+- [communication-generation](../topics/communication-generation.md)
+- [positive-classroom-climate](../topics/positive-classroom-climate.md)
+- [cooperative-learning](../topics/cooperative-learning.md)
+- [attitude-change](../topics/attitude-change.md)
 
 ## Tags
 
-- [[../tags/pedagogical-tools]]
-- [[../tags/literature-review]]
-- [[../tags/early-childhood-education]]
-- [[../tags/classroom-climate]]
-- [[../tags/creativity-in-education]]
-- [[../tags/fxa303]]
+- [pedagogical-tools](../tags/pedagogical-tools.md)
+- [literature-review](../tags/literature-review.md)
+- [early-childhood-education](../tags/early-childhood-education.md)
+- [classroom-climate](../tags/classroom-climate.md)
+- [creativity-in-education](../tags/creativity-in-education.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/early-childhood-education]]
-- [[../topics/literature-review]]
+- [early-childhood-education](../topics/early-childhood-education.md)
+- [literature-review](../topics/literature-review.md)

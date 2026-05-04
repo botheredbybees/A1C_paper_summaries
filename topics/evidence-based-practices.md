@@ -26,5 +26,5 @@ The synthesis integrates themes across two sources that focus on evidence-based 
 
 ## Sources
 
-- [[../sources/fxa303-week04-educating-students-with-autism-spectrum-disorders]]
-- [[../sources/fxa303-week04-handbook-of-autism-and-pervasive-developmental-disorder]]
+- [fxa303-week04-educating-students-with-autism-spectrum-disorders](../sources/fxa303-week04-educating-students-with-autism-spectrum-disorders.md)
+- [fxa303-week04-handbook-of-autism-and-pervasive-developmental-disorder](../sources/fxa303-week04-handbook-of-autism-and-pervasive-developmental-disorder.md)

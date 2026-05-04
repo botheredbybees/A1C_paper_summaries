@@ -24,22 +24,22 @@ The document provides a comprehensive overview of both pharmacological and non-p
 
 ## Key Concepts
 
-- [[../topics/pharmacological-interventions]]
-- [[../topics/non-pharmacological-interventions]]
-- [[../topics/cognitive-stimulation-therapy]]
+- [pharmacological-interventions](../topics/pharmacological-interventions.md)
+- [non-pharmacological-interventions](../topics/non-pharmacological-interventions.md)
+- [cognitive-stimulation-therapy](../topics/cognitive-stimulation-therapy.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/intervention-strategies]]
-- [[../tags/quality-of-life]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [intervention-strategies](../tags/intervention-strategies.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/quality-of-life]]
+- [dementia-care](../topics/dementia-care.md)
+- [quality-of-life](../topics/quality-of-life.md)

@@ -24,16 +24,16 @@ The content describes a music clip released on March 23, 2020, featuring videos 
 
 ## Key Concepts
 
-- [[../topics/social-distancing]]
-- [[../topics/community-support]]
-- [[../topics/virtual-gathering]]
+- [social-distancing](../topics/social-distancing.md)
+- [community-support](../topics/community-support.md)
+- [virtual-gathering](../topics/virtual-gathering.md)
 
 ## Tags
 
-- [[../tags/coronavirus]]
-- [[../tags/community-engagement]]
-- [[../tags/virtual-choir]]
-- [[../tags/fxa301]]
+- [coronavirus](../tags/coronavirus.md)
+- [community-engagement](../tags/community-engagement.md)
+- [virtual-choir](../tags/virtual-choir.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

@@ -24,27 +24,27 @@ The transcript highlights the therapeutic effects of music on individuals suffer
 
 ## Key Concepts
 
-- [[../topics/music therapy]]
-- [[../topics/neurological activation]]
-- [[../topics/communication impairment]]
-- [[../topics/rehabilitative intervention]]
+- [music therapy](../topics/music therapy.md)
+- [neurological activation](../topics/neurological activation.md)
+- [communication impairment](../topics/communication impairment.md)
+- [rehabilitative intervention](../topics/rehabilitative intervention.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/dementia-care]]
-- [[../tags/brain-stimulation]]
-- [[../tags/patient-rehabilitation]]
-- [[../tags/cognitive-function]]
-- [[../tags/fxa100]]
+- [music-therapy](../tags/music-therapy.md)
+- [dementia-care](../tags/dementia-care.md)
+- [brain-stimulation](../tags/brain-stimulation.md)
+- [patient-rehabilitation](../tags/patient-rehabilitation.md)
+- [cognitive-function](../tags/cognitive-function.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/brain-stimulation]]
-- [[../topics/cognitive-function]]
-- [[../topics/dementia-care]]
-- [[../topics/music-therapy]]
+- [brain-stimulation](../topics/brain-stimulation.md)
+- [cognitive-function](../topics/cognitive-function.md)
+- [dementia-care](../topics/dementia-care.md)
+- [music-therapy](../topics/music-therapy.md)

@@ -28,20 +28,20 @@ Serotonin, another neurotransmitter linked to happiness and well-being, is less 
 
 ## Key Concepts
 
-- [[../topics/mirror neurons]]
-- [[../topics/dopamine pathways]]
-- [[../topics/serotonin regulation]]
+- [mirror neurons](../topics/mirror neurons.md)
+- [dopamine pathways](../topics/dopamine pathways.md)
+- [serotonin regulation](../topics/serotonin regulation.md)
 
 ## Tags
 
-- [[../tags/neurobiology-of-art]]
-- [[../tags/mirror-neurons-in-arts]]
-- [[../tags/dopamine-and-motivation]]
-- [[../tags/fxa301]]
+- [neurobiology-of-art](../tags/neurobiology-of-art.md)
+- [mirror-neurons-in-arts](../tags/mirror-neurons-in-arts.md)
+- [dopamine-and-motivation](../tags/dopamine-and-motivation.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 

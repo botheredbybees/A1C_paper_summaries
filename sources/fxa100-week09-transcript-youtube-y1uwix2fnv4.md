@@ -24,16 +24,16 @@ In this interview, Sally Bailey, a professor in the theater department and direc
 
 ## Key Concepts
 
-- [[../topics/storytelling]]
-- [[../topics/facilitation]]
-- [[../topics/expressive arts therapy]]
+- [storytelling](../topics/storytelling.md)
+- [facilitation](../topics/facilitation.md)
+- [expressive arts therapy](../topics/expressive arts therapy.md)
 
 ## Tags
 
-- [[../tags/drama therapy]]
-- [[../tags/creativity in aging]]
-- [[../tags/improvisation]]
-- [[../tags/fxa100]]
+- [drama therapy](../tags/drama therapy.md)
+- [creativity in aging](../tags/creativity in aging.md)
+- [improvisation](../tags/improvisation.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

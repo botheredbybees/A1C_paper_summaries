@@ -24,25 +24,25 @@ The study explores the impact of museum settings on autobiographical memory retr
 
 ## Key Concepts
 
-- [[../topics/autobiographical memories]]
-- [[../topics/contextual cues]]
-- [[../topics/episodic detail retrieval]]
+- [autobiographical memories](../topics/autobiographical memories.md)
+- [contextual cues](../topics/contextual cues.md)
+- [episodic detail retrieval](../topics/episodic detail retrieval.md)
 
 ## Tags
 
-- [[../tags/dementia-research]]
-- [[../tags/memory-therapy]]
-- [[../tags/museum-context]]
-- [[../tags/cognitive-stimulation]]
-- [[../tags/autobiographical-memory]]
-- [[../tags/fxa100]]
+- [dementia-research](../tags/dementia-research.md)
+- [memory-therapy](../tags/memory-therapy.md)
+- [museum-context](../tags/museum-context.md)
+- [cognitive-stimulation](../tags/cognitive-stimulation.md)
+- [autobiographical-memory](../tags/autobiographical-memory.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/cognitive-stimulation]]
-- [[../topics/dementia-research]]
-- [[../topics/memory-therapy]]
+- [cognitive-stimulation](../topics/cognitive-stimulation.md)
+- [dementia-research](../topics/dementia-research.md)
+- [memory-therapy](../topics/memory-therapy.md)

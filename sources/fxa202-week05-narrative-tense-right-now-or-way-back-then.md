@@ -24,20 +24,20 @@ This article by Bill Hill discusses the choice of narrative tense in storytellin
 
 ## Key Concepts
 
-- [[../topics/past-tense]]
-- [[../topics/present-tense]]
+- [past-tense](../topics/past-tense.md)
+- [present-tense](../topics/present-tense.md)
 
 ## Tags
 
-- [[../tags/narrative-tense]]
-- [[../tags/literary-fiction]]
-- [[../tags/reader-engagement]]
-- [[../tags/fxa202]]
+- [narrative-tense](../tags/narrative-tense.md)
+- [literary-fiction](../tags/literary-fiction.md)
+- [reader-engagement](../tags/reader-engagement.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/narrative-tense]]
+- [narrative-tense](../topics/narrative-tense.md)

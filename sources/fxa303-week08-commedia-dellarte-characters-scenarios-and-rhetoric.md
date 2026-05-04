@@ -24,22 +24,22 @@ The article discusses the enduring influence of Commedia dell'Arte, a form of th
 
 ## Key Concepts
 
-- [[../topics/improvisational-theatre]]
-- [[../topics/literary-context]]
-- [[../topics/historical-performance]]
+- [improvisational-theatre](../topics/improvisational-theatre.md)
+- [literary-context](../topics/literary-context.md)
+- [historical-performance](../topics/historical-performance.md)
 
 ## Tags
 
-- [[../tags/commedia-dellarte]]
-- [[../tags/theatre-history]]
-- [[../tags/performance-studies]]
-- [[../tags/literary-influence]]
-- [[../tags/rhetoric]]
-- [[../tags/fxa303]]
+- [commedia-dellarte](../tags/commedia-dellarte.md)
+- [theatre-history](../tags/theatre-history.md)
+- [performance-studies](../tags/performance-studies.md)
+- [literary-influence](../tags/literary-influence.md)
+- [rhetoric](../tags/rhetoric.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[literature-review]]
+- [literature-review](literature-review.md)
 
 ## See Also
 

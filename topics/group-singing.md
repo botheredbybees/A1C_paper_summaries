@@ -26,5 +26,5 @@ Group singing emerges as a multifaceted intervention with potential benefits acr
 
 ## Sources
 
-- [[../sources/fxa100-week04-singing-and-participation]]
-- [[../sources/fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes]]
+- [fxa100-week04-singing-and-participation](../sources/fxa100-week04-singing-and-participation.md)
+- [fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes](../sources/fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes.md)

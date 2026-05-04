@@ -24,16 +24,16 @@ This chapter explores the interplay between visual literacy and cultural context
 
 ## Key Concepts
 
-- [[../topics/Visual Literacy]]
-- [[../topics/Community Symbolic Systems]]
-- [[../topics/Cultural Perspective]]
+- [Visual Literacy](../topics/Visual Literacy.md)
+- [Community Symbolic Systems](../topics/Community Symbolic Systems.md)
+- [Cultural Perspective](../topics/Cultural Perspective.md)
 
 ## Tags
 
-- [[../tags/visual-literacy]]
-- [[../tags/cultural-analysis]]
-- [[../tags/community-arts]]
-- [[../tags/fxa301]]
+- [visual-literacy](../tags/visual-literacy.md)
+- [cultural-analysis](../tags/cultural-analysis.md)
+- [community-arts](../tags/community-arts.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ This chapter explores the interplay between visual literacy and cultural context
 
 ## See Also
 
-- [[../topics/community-arts]]
-- [[../topics/visual-literacy]]
+- [community-arts](../topics/community-arts.md)
+- [visual-literacy](../topics/visual-literacy.md)

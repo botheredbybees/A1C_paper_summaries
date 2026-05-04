@@ -31,10 +31,10 @@ The provided sources collectively explore the role of arts activities and creati
 
 ## Sources
 
-- [[../sources/fxa100-week06-the-role-of-the-visual-arts-in-the-resilience-of-people]]
-- [[../sources/fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and]]
-- [[../sources/fxa303-art-therapy-in-response-to-natural-disasters-ch04-chapter-9]]
-- [[../sources/fxa303-week03-5-ways-to-standbyteens-in-support-of-teen-mental-health]]
-- [[../sources/fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot]]
-- [[../sources/fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts]]
-- [[../sources/fxa303-week09-transcript-arts-mid-north-coast-we-are-all-born-creative]]
+- [fxa100-week06-the-role-of-the-visual-arts-in-the-resilience-of-people](../sources/fxa100-week06-the-role-of-the-visual-arts-in-the-resilience-of-people.md)
+- [fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and](../sources/fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and.md)
+- [fxa303-art-therapy-in-response-to-natural-disasters-ch04-chapter-9](../sources/fxa303-art-therapy-in-response-to-natural-disasters-ch04-chapter-9.md)
+- [fxa303-week03-5-ways-to-standbyteens-in-support-of-teen-mental-health](../sources/fxa303-week03-5-ways-to-standbyteens-in-support-of-teen-mental-health.md)
+- [fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot](../sources/fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot.md)
+- [fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts](../sources/fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts.md)
+- [fxa303-week09-transcript-arts-mid-north-coast-we-are-all-born-creative](../sources/fxa303-week09-transcript-arts-mid-north-coast-we-are-all-born-creative.md)

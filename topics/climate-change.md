@@ -26,5 +26,5 @@ The Mission Australia Youth Survey Information and the Youth Survey Report 2025 
 
 ## Sources
 
-- [[../sources/fxa303-week03-mission-australia-youth-survey-information]]
-- [[../sources/fxa303-week03-youth-survey-report-2025]]
+- [fxa303-week03-mission-australia-youth-survey-information](../sources/fxa303-week03-mission-australia-youth-survey-information.md)
+- [fxa303-week03-youth-survey-report-2025](../sources/fxa303-week03-youth-survey-report-2025.md)

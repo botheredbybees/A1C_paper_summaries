@@ -24,25 +24,25 @@ This study explores the efficacy of puppet play therapy (PPT) compared to tell-s
 
 ## Key Concepts
 
-- [[../topics/puppet-play-therapy]]
-- [[../topics/tell-show-do]]
-- [[../topics/venham-anxiety-rating-scale]]
+- [puppet-play-therapy](../topics/puppet-play-therapy.md)
+- [tell-show-do](../topics/tell-show-do.md)
+- [venham-anxiety-rating-scale](../topics/venham-anxiety-rating-scale.md)
 
 ## Tags
 
-- [[../tags/emergency-dental-care]]
-- [[../tags/pediatric-psychology]]
-- [[../tags/play-therapy]]
-- [[../tags/behavior-guidance]]
-- [[../tags/anxiety-reduction]]
-- [[../tags/fxa303]]
+- [emergency-dental-care](../tags/emergency-dental-care.md)
+- [pediatric-psychology](../tags/pediatric-psychology.md)
+- [play-therapy](../tags/play-therapy.md)
+- [behavior-guidance](../tags/behavior-guidance.md)
+- [anxiety-reduction](../tags/anxiety-reduction.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[randomized-clinical-trial]]
+- [randomized-clinical-trial](randomized-clinical-trial.md)
 
 ## See Also
 
-- [[../topics/anxiety-reduction]]
-- [[../topics/pediatric-psychology]]
-- [[../topics/play-therapy]]
+- [anxiety-reduction](../topics/anxiety-reduction.md)
+- [pediatric-psychology](../topics/pediatric-psychology.md)
+- [play-therapy](../topics/play-therapy.md)

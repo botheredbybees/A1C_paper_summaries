@@ -24,24 +24,24 @@ New research by Nina Kraus and colleagues at Northwestern University shows that 
 
 ## Key Concepts
 
-- [[../topics/auditory neural function]]
-- [[../topics/phonological awareness]]
-- [[../topics/brain plasticity]]
+- [auditory neural function](../topics/auditory neural function.md)
+- [phonological awareness](../topics/phonological awareness.md)
+- [brain plasticity](../topics/brain plasticity.md)
 
 ## Tags
 
-- [[../tags/music-education]]
-- [[../tags/adolescent-brain-development]]
-- [[../tags/cognitive-skills]]
-- [[../tags/phonological-awareness]]
-- [[../tags/neural-function]]
-- [[../tags/fxa303]]
+- [music-education](../tags/music-education.md)
+- [adolescent-brain-development](../tags/adolescent-brain-development.md)
+- [cognitive-skills](../tags/cognitive-skills.md)
+- [phonological-awareness](../tags/phonological-awareness.md)
+- [neural-function](../tags/neural-function.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[longitudinal study]]
+- [longitudinal study](longitudinal study.md)
 
 ## See Also
 
-- [[../topics/adolescent-brain-development]]
-- [[../topics/music-education]]
+- [adolescent-brain-development](../topics/adolescent-brain-development.md)
+- [music-education](../topics/music-education.md)

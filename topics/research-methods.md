@@ -27,6 +27,6 @@ The sources collectively emphasize the importance of various research methodolog
 
 ## Sources
 
-- [[../sources/fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision]]
-- [[../sources/fxa301-arts-in-health-ch67-chapter-6]]
-- [[../sources/fxa301-arts-in-health-ch67-chapter-6-(2)]]
+- [fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision](../sources/fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision.md)
+- [fxa301-arts-in-health-ch67-chapter-6](../sources/fxa301-arts-in-health-ch67-chapter-6.md)
+- [fxa301-arts-in-health-ch67-chapter-6-(2)](../sources/fxa301-arts-in-health-ch67-chapter-6-(2).md)

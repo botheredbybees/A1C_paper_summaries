@@ -27,6 +27,6 @@ The sources emphasize the therapeutic benefits of breathing exercises for variou
 
 ## Sources
 
-- [[../sources/fxa100-week04-singing-for-better-breathing-transcript]]
-- [[../sources/fxa100-week04-the-singers-breath-implications-for-treatment-of-persons]]
-- [[../sources/fxa303-trauma-and-expressive-arts-ch04-1-slowly-exhale-through-your-mouth]]
+- [fxa100-week04-singing-for-better-breathing-transcript](../sources/fxa100-week04-singing-for-better-breathing-transcript.md)
+- [fxa100-week04-the-singers-breath-implications-for-treatment-of-persons](../sources/fxa100-week04-the-singers-breath-implications-for-treatment-of-persons.md)
+- [fxa303-trauma-and-expressive-arts-ch04-1-slowly-exhale-through-your-mouth](../sources/fxa303-trauma-and-expressive-arts-ch04-1-slowly-exhale-through-your-mouth.md)

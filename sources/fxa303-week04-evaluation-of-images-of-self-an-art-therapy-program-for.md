@@ -24,27 +24,27 @@ This study evaluates 'Images of Self,' an art therapy program designed for child
 
 ## Key Concepts
 
-- [[../topics/sense-of-self]]
-- [[../topics/emotion-regulation]]
-- [[../topics/flexibility-in-behavior]]
-- [[../topics/social-skills]]
+- [sense-of-self](../topics/sense-of-self.md)
+- [emotion-regulation](../topics/emotion-regulation.md)
+- [flexibility-in-behavior](../topics/flexibility-in-behavior.md)
+- [social-skills](../topics/social-skills.md)
 
 ## Tags
 
-- [[../tags/autism-spectrum-disorders]]
-- [[../tags/art-therapy]]
-- [[../tags/child-development]]
-- [[../tags/behavioral-intervention]]
-- [[../tags/self-concept]]
-- [[../tags/fxa303]]
+- [autism-spectrum-disorders](../tags/autism-spectrum-disorders.md)
+- [art-therapy](../tags/art-therapy.md)
+- [child-development](../tags/child-development.md)
+- [behavioral-intervention](../tags/behavioral-intervention.md)
+- [self-concept](../tags/self-concept.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[mixed-methods-design]]
-- [[single-case-studies]]
+- [mixed-methods-design](mixed-methods-design.md)
+- [single-case-studies](single-case-studies.md)
 
 ## See Also
 
-- [[../topics/autism-spectrum-disorders]]
-- [[../topics/child-development]]
-- [[../topics/self-concept]]
+- [autism-spectrum-disorders](../topics/autism-spectrum-disorders.md)
+- [child-development](../topics/child-development.md)
+- [self-concept](../topics/self-concept.md)

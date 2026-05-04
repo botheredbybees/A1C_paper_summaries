@@ -24,27 +24,27 @@ This week's overview for the Creative Arts, Play and Mental Wellbeing module shi
 
 ## Key Concepts
 
-- [[../topics/creativity-in-therapy]]
-- [[../topics/vicarious-trauma-management]]
-- [[../topics/emotional-development-through-play]]
+- [creativity-in-therapy](../topics/creativity-in-therapy.md)
+- [vicarious-trauma-management](../topics/vicarious-trauma-management.md)
+- [emotional-development-through-play](../topics/emotional-development-through-play.md)
 
 ## Tags
 
-- [[../tags/mental-wellbeing]]
-- [[../tags/creative-arts]]
-- [[../tags/playful-learning]]
-- [[../tags/puppetry-intervention]]
-- [[../tags/child-psychology]]
-- [[../tags/expressive-capabilities]]
-- [[../tags/fxa303]]
+- [mental-wellbeing](../tags/mental-wellbeing.md)
+- [creative-arts](../tags/creative-arts.md)
+- [playful-learning](../tags/playful-learning.md)
+- [puppetry-intervention](../tags/puppetry-intervention.md)
+- [child-psychology](../tags/child-psychology.md)
+- [expressive-capabilities](../tags/expressive-capabilities.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/child-psychology]]
-- [[../topics/creative-arts]]
-- [[../topics/mental-wellbeing]]
-- [[../topics/puppetry-intervention]]
+- [child-psychology](../topics/child-psychology.md)
+- [creative-arts](../topics/creative-arts.md)
+- [mental-wellbeing](../topics/mental-wellbeing.md)
+- [puppetry-intervention](../topics/puppetry-intervention.md)

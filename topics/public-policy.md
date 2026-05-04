@@ -30,9 +30,9 @@ The integration of creative arts into public health policy is emerging as a sign
 
 ## Sources
 
-- [[../sources/fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2]]
-- [[../sources/fxa301-week03-creative-health-review-report]]
-- [[../sources/fxa301-week03-executive-summary-creative-health-review]]
-- [[../sources/fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract]]
-- [[../sources/fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing]]
-- [[../sources/fxa303-week04-missed-early-intervention-opportunities-for-children-with]]
+- [fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2](../sources/fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2.md)
+- [fxa301-week03-creative-health-review-report](../sources/fxa301-week03-creative-health-review-report.md)
+- [fxa301-week03-executive-summary-creative-health-review](../sources/fxa301-week03-executive-summary-creative-health-review.md)
+- [fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract](../sources/fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract.md)
+- [fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing](../sources/fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing.md)
+- [fxa303-week04-missed-early-intervention-opportunities-for-children-with](../sources/fxa303-week04-missed-early-intervention-opportunities-for-children-with.md)

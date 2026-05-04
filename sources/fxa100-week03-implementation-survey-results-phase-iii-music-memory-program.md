@@ -24,25 +24,25 @@ The document presents the implementation survey results for Phase III of the Wis
 
 ## Key Concepts
 
-- [[../topics/Music & Memory Program]]
-- [[../topics/residents' quality of life]]
+- [Music & Memory Program](../topics/Music & Memory Program.md)
+- [residents' quality of life](../topics/residents' quality of life.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/program-evaluation]]
-- [[../tags/long-term-care]]
-- [[../tags/health-outcomes]]
-- [[../tags/quality-improvement]]
-- [[../tags/fxa100]]
+- [music-therapy](../tags/music-therapy.md)
+- [program-evaluation](../tags/program-evaluation.md)
+- [long-term-care](../tags/long-term-care.md)
+- [health-outcomes](../tags/health-outcomes.md)
+- [quality-improvement](../tags/quality-improvement.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[survey]]
+- [survey](survey.md)
 
 ## See Also
 
-- [[../topics/health-outcomes]]
-- [[../topics/long-term-care]]
-- [[../topics/music-therapy]]
-- [[../topics/quality-improvement]]
+- [health-outcomes](../topics/health-outcomes.md)
+- [long-term-care](../topics/long-term-care.md)
+- [music-therapy](../topics/music-therapy.md)
+- [quality-improvement](../topics/quality-improvement.md)

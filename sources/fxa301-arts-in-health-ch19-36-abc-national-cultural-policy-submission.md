@@ -27,17 +27,17 @@ The chapter explores the concept of 'arts in health', a field that lacks a stand
 
 ## Key Concepts
 
-- [[../topics/Arts in Health Diamond]]
-- [[../topics/continua model]]
-- [[../topics/Venn diagram approach]]
+- [Arts in Health Diamond](../topics/Arts in Health Diamond.md)
+- [continua model](../topics/continua model.md)
+- [Venn diagram approach](../topics/Venn diagram approach.md)
 
 ## Tags
 
-- [[../tags/arts-in-health]]
-- [[../tags/medical-humanities]]
-- [[../tags/psychotherapy]]
-- [[../tags/healthcare-environment]]
-- [[../tags/fxa301]]
+- [arts-in-health](../tags/arts-in-health.md)
+- [medical-humanities](../tags/medical-humanities.md)
+- [psychotherapy](../tags/psychotherapy.md)
+- [healthcare-environment](../tags/healthcare-environment.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -45,5 +45,5 @@ The chapter explores the concept of 'arts in health', a field that lacks a stand
 
 ## See Also
 
-- [[../topics/arts-in-health]]
-- [[../topics/healthcare-environment]]
+- [arts-in-health](../topics/arts-in-health.md)
+- [healthcare-environment](../topics/healthcare-environment.md)

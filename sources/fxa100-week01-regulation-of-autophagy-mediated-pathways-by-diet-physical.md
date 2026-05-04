@@ -24,26 +24,26 @@ This review article discusses the regulation of autophagy-mediated pathways in A
 
 ## Key Concepts
 
-- [[../topics/autophagy-mediated pathways]]
-- [[../topics/protein aggregation]]
-- [[../topics/non-pharmacological strategies]]
-- [[../topics/brain-specific autophagy markers]]
+- [autophagy-mediated pathways](../topics/autophagy-mediated pathways.md)
+- [protein aggregation](../topics/protein aggregation.md)
+- [non-pharmacological strategies](../topics/non-pharmacological strategies.md)
+- [brain-specific autophagy markers](../topics/brain-specific autophagy markers.md)
 
 ## Tags
 
-- [[../tags/alzheimers-disease]]
-- [[../tags/autophagy-regulation]]
-- [[../tags/lifestyle-interventions]]
-- [[../tags/neurodegeneration-prevention]]
-- [[../tags/dietary-strategies]]
-- [[../tags/cognitive-health]]
-- [[../tags/fxa100]]
+- [alzheimers-disease](../tags/alzheimers-disease.md)
+- [autophagy-regulation](../tags/autophagy-regulation.md)
+- [lifestyle-interventions](../tags/lifestyle-interventions.md)
+- [neurodegeneration-prevention](../tags/neurodegeneration-prevention.md)
+- [dietary-strategies](../tags/dietary-strategies.md)
+- [cognitive-health](../tags/cognitive-health.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/alzheimers-disease]]
-- [[../topics/cognitive-health]]
+- [alzheimers-disease](../topics/alzheimers-disease.md)
+- [cognitive-health](../topics/cognitive-health.md)

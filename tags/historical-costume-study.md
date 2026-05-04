@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Historical Costume Study
 
-- [[../sources/fxa303-week08-web-article-screti-2018|'A Motley to the View': The Clothing of Court Fools in Tudor England]]
+- ['A Motley to the View': The Clothing of Court Fools in Tudor England](../sources/fxa303-week08-web-article-screti-2018.md)

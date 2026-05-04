@@ -28,7 +28,7 @@ The concept of inclusive education emphasizes the importance of accommodating di
 
 ## Sources
 
-- [[../sources/fxa100-week07-for-visitors-with-dementia]]
-- [[../sources/fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions]]
-- [[../sources/fxa303-week04-week-4-activities-neurodiversity-arts-and-play]]
-- [[../sources/fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental]]
+- [fxa100-week07-for-visitors-with-dementia](../sources/fxa100-week07-for-visitors-with-dementia.md)
+- [fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions](../sources/fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions.md)
+- [fxa303-week04-week-4-activities-neurodiversity-arts-and-play](../sources/fxa303-week04-week-4-activities-neurodiversity-arts-and-play.md)
+- [fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental](../sources/fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental.md)

@@ -24,24 +24,24 @@ The article discusses the evaluation of 'Sensory Palaces', a project by Historic
 
 ## Key Concepts
 
-- [[../topics/relational-perspectives]]
-- [[../topics/sensory-stimulation]]
-- [[../topics/well-being]]
+- [relational-perspectives](../topics/relational-perspectives.md)
+- [sensory-stimulation](../topics/sensory-stimulation.md)
+- [well-being](../topics/well-being.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/heritage-engagement]]
-- [[../tags/creative-facilitation]]
-- [[../tags/multisensory-experience]]
-- [[../tags/social-inclusion]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [heritage-engagement](../tags/heritage-engagement.md)
+- [creative-facilitation](../tags/creative-facilitation.md)
+- [multisensory-experience](../tags/multisensory-experience.md)
+- [social-inclusion](../tags/social-inclusion.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/social-inclusion]]
+- [dementia-care](../topics/dementia-care.md)
+- [social-inclusion](../topics/social-inclusion.md)

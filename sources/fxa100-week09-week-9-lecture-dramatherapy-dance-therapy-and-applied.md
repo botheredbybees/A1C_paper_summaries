@@ -24,23 +24,23 @@ This week's lecture in the course 'The Arts and Dementia Care' covers various th
 
 ## Key Concepts
 
-- [[../topics/person-centered-care]]
-- [[../topics/cognitive-function-improvement]]
-- [[../topics/emotional-expression-through-drama]]
+- [person-centered-care](../topics/person-centered-care.md)
+- [cognitive-function-improvement](../topics/cognitive-function-improvement.md)
+- [emotional-expression-through-drama](../topics/emotional-expression-through-drama.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/therapeutic-arts]]
-- [[../tags/mental-health-interventions]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [therapeutic-arts](../tags/therapeutic-arts.md)
+- [mental-health-interventions](../tags/mental-health-interventions.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/mental-health-interventions]]
-- [[../topics/therapeutic-arts]]
+- [dementia-care](../topics/dementia-care.md)
+- [mental-health-interventions](../topics/mental-health-interventions.md)
+- [therapeutic-arts](../topics/therapeutic-arts.md)

@@ -24,24 +24,24 @@ The 2025 Youth Survey report by Mission Australia highlights the challenges and 
 
 ## Key Concepts
 
-- [[../topics/cost of living]]
-- [[../topics/mental health issues]]
-- [[../topics/school-related stress]]
+- [cost of living](../topics/cost of living.md)
+- [mental health issues](../topics/mental health issues.md)
+- [school-related stress](../topics/school-related stress.md)
 
 ## Tags
 
-- [[../tags/youth-issues]]
-- [[../tags/mental-health]]
-- [[../tags/climate-change]]
-- [[../tags/housing-crisis]]
-- [[../tags/cost-of-living]]
-- [[../tags/fxa303]]
+- [youth-issues](../tags/youth-issues.md)
+- [mental-health](../tags/mental-health.md)
+- [climate-change](../tags/climate-change.md)
+- [housing-crisis](../tags/housing-crisis.md)
+- [cost-of-living](../tags/cost-of-living.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[survey]]
+- [survey](survey.md)
 
 ## See Also
 
-- [[../topics/climate-change]]
-- [[../topics/mental-health]]
+- [climate-change](../topics/climate-change.md)
+- [mental-health](../topics/mental-health.md)

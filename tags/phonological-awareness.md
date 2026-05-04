@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Phonological Awareness
 
-- [[../sources/fxa303-week03-music-instruction-can-make-for-a-smarter-teen|Music Instruction Can Make for a Smarter Teen]]
+- [Music Instruction Can Make for a Smarter Teen](../sources/fxa303-week03-music-instruction-can-make-for-a-smarter-teen.md)

@@ -24,19 +24,19 @@ This article by Darren Rowse from Digital Photography School explores the concep
 
 ## Key Concepts
 
-- [[../topics/aperture-priority-mode]]
-- [[../topics/shutter-priority-mode]]
-- [[../topics/depth-of-field]]
-- [[../topics/motion-blur]]
+- [aperture-priority-mode](../topics/aperture-priority-mode.md)
+- [shutter-priority-mode](../topics/shutter-priority-mode.md)
+- [depth-of-field](../topics/depth-of-field.md)
+- [motion-blur](../topics/motion-blur.md)
 
 ## Tags
 
-- [[../tags/digital-photography]]
-- [[../tags/camera-settings]]
-- [[../tags/depth-of-field]]
-- [[../tags/motion-blur]]
-- [[../tags/shutter-speed]]
-- [[../tags/fxa202]]
+- [digital-photography](../tags/digital-photography.md)
+- [camera-settings](../tags/camera-settings.md)
+- [depth-of-field](../tags/depth-of-field.md)
+- [motion-blur](../tags/motion-blur.md)
+- [shutter-speed](../tags/shutter-speed.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
@@ -44,5 +44,5 @@ This article by Darren Rowse from Digital Photography School explores the concep
 
 ## See Also
 
-- [[../topics/depth-of-field]]
-- [[../topics/digital-photography]]
+- [depth-of-field](../topics/depth-of-field.md)
+- [digital-photography](../topics/digital-photography.md)

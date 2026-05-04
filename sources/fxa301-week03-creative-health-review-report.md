@@ -30,26 +30,26 @@ Overall, the report underscores the necessity for policymakers to consider creat
 
 ## Key Concepts
 
-- [[../topics/holistic-improvements]]
-- [[../topics/preventive-healthcare-approaches]]
-- [[../topics/policy-recommendations]]
+- [holistic-improvements](../topics/holistic-improvements.md)
+- [preventive-healthcare-approaches](../topics/preventive-healthcare-approaches.md)
+- [policy-recommendations](../topics/policy-recommendations.md)
 
 ## Tags
 
-- [[../tags/creative-health]]
-- [[../tags/public-policy]]
-- [[../tags/wellbeing-interventions]]
-- [[../tags/health-outcomes]]
-- [[../tags/social-determinants]]
-- [[../tags/fxa301]]
+- [creative-health](../tags/creative-health.md)
+- [public-policy](../tags/public-policy.md)
+- [wellbeing-interventions](../tags/wellbeing-interventions.md)
+- [health-outcomes](../tags/health-outcomes.md)
+- [social-determinants](../tags/social-determinants.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/creative-health]]
-- [[../topics/health-outcomes]]
-- [[../topics/public-policy]]
-- [[../topics/wellbeing-interventions]]
+- [creative-health](../topics/creative-health.md)
+- [health-outcomes](../topics/health-outcomes.md)
+- [public-policy](../topics/public-policy.md)
+- [wellbeing-interventions](../topics/wellbeing-interventions.md)

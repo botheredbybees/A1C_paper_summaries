@@ -24,15 +24,15 @@ The transcript discusses the concept of applied theater as a storytelling proces
 
 ## Key Concepts
 
-- [[../topics/human-identity-through-storytelling]]
-- [[../topics/dementia-care-interventions]]
+- [human-identity-through-storytelling](../topics/human-identity-through-storytelling.md)
+- [dementia-care-interventions](../topics/dementia-care-interventions.md)
 
 ## Tags
 
-- [[../tags/applied-theater]]
-- [[../tags/community-engagement]]
-- [[../tags/storytelling]]
-- [[../tags/fxa301]]
+- [applied-theater](../tags/applied-theater.md)
+- [community-engagement](../tags/community-engagement.md)
+- [storytelling](../tags/storytelling.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ The transcript discusses the concept of applied theater as a storytelling proces
 
 ## See Also
 
-- [[../topics/storytelling]]
+- [storytelling](../topics/storytelling.md)

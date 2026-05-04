@@ -24,28 +24,28 @@ This document provides an overview of the human brain's structure and functions,
 
 ## Key Concepts
 
-- [[../topics/executive-functions]]
-- [[../topics/limbic-system]]
-- [[../topics/sensory-processing]]
-- [[../topics/memory-formations]]
-- [[../topics/artistic-perception]]
+- [executive-functions](../topics/executive-functions.md)
+- [limbic-system](../topics/limbic-system.md)
+- [sensory-processing](../topics/sensory-processing.md)
+- [memory-formations](../topics/memory-formations.md)
+- [artistic-perception](../topics/artistic-perception.md)
 
 ## Tags
 
-- [[../tags/brain-structure]]
-- [[../tags/cognitive-functions]]
-- [[../tags/neuroanatomy]]
-- [[../tags/perception-processing]]
-- [[../tags/emotional-regulation]]
-- [[../tags/memory-systems]]
-- [[../tags/fxa301]]
+- [brain-structure](../tags/brain-structure.md)
+- [cognitive-functions](../tags/cognitive-functions.md)
+- [neuroanatomy](../tags/neuroanatomy.md)
+- [perception-processing](../tags/perception-processing.md)
+- [emotional-regulation](../tags/emotional-regulation.md)
+- [memory-systems](../tags/memory-systems.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[overview]]
+- [overview](overview.md)
 
 ## See Also
 
-- [[../topics/brain-structure]]
-- [[../topics/cognitive-functions]]
-- [[../topics/emotional-regulation]]
+- [brain-structure](../topics/brain-structure.md)
+- [cognitive-functions](../topics/cognitive-functions.md)
+- [emotional-regulation](../topics/emotional-regulation.md)

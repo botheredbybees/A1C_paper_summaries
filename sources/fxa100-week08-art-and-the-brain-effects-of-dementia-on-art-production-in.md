@@ -24,20 +24,20 @@ The article explores the impact of various types of dementia on art production i
 
 ## Key Concepts
 
-- [[../topics/artistic-expression-changes]]
-- [[../topics/localization-of-brain-functions]]
-- [[../topics/therapeutic-interventions-neurological-disorders]]
+- [artistic-expression-changes](../topics/artistic-expression-changes.md)
+- [localization-of-brain-functions](../topics/localization-of-brain-functions.md)
+- [therapeutic-interventions-neurological-disorders](../topics/therapeutic-interventions-neurological-disorders.md)
 
 ## Tags
 
-- [[../tags/dementia-and-art]]
-- [[../tags/neurology-in-art-therapy]]
-- [[../tags/brain-damage-effects]]
-- [[../tags/fxa100]]
+- [dementia-and-art](../tags/dementia-and-art.md)
+- [neurology-in-art-therapy](../tags/neurology-in-art-therapy.md)
+- [brain-damage-effects](../tags/brain-damage-effects.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 

@@ -31,10 +31,10 @@ The sources collectively highlight the multifaceted role of creative arts and th
 
 ## Sources
 
-- [[../sources/fxa202-week06-donna-a-photo-essay]]
-- [[../sources/fxa202-week09-healing-through-art-and-music]]
-- [[../sources/fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music]]
-- [[../sources/fxa303-week01-trauma-aps]]
-- [[../sources/fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon]]
-- [[../sources/fxa303-week09-lesson-fxa303-week09-page-1-overview]]
-- [[../sources/fxa303-week09-lesson-fxa303-week09-page-3-case-studies]]
+- [fxa202-week06-donna-a-photo-essay](../sources/fxa202-week06-donna-a-photo-essay.md)
+- [fxa202-week09-healing-through-art-and-music](../sources/fxa202-week09-healing-through-art-and-music.md)
+- [fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music](../sources/fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music.md)
+- [fxa303-week01-trauma-aps](../sources/fxa303-week01-trauma-aps.md)
+- [fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon](../sources/fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon.md)
+- [fxa303-week09-lesson-fxa303-week09-page-1-overview](../sources/fxa303-week09-lesson-fxa303-week09-page-1-overview.md)
+- [fxa303-week09-lesson-fxa303-week09-page-3-case-studies](../sources/fxa303-week09-lesson-fxa303-week09-page-3-case-studies.md)

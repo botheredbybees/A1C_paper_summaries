@@ -26,5 +26,5 @@ The synthesis of sources on flood recovery interventions highlights the importan
 
 ## Sources
 
-- [[../sources/fxa303-week09-the-afloat-project-(2)]]
-- [[../sources/fxa303-week09-web-article-creative-2023]]
+- [fxa303-week09-the-afloat-project-(2)](../sources/fxa303-week09-the-afloat-project-(2).md)
+- [fxa303-week09-web-article-creative-2023](../sources/fxa303-week09-web-article-creative-2023.md)

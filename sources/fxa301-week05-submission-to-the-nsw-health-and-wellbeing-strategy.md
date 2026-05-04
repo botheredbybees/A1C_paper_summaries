@@ -24,22 +24,22 @@ This submission by Museums & Galleries of NSW (M&G NSW) advocates for the inclus
 
 ## Key Concepts
 
-- [[../topics/anxiety-reduction]]
-- [[../topics/social-connectedness]]
-- [[../topics/policy-advocacy]]
+- [anxiety-reduction](../topics/anxiety-reduction.md)
+- [social-connectedness](../topics/social-connectedness.md)
+- [policy-advocacy](../topics/policy-advocacy.md)
 
 ## Tags
 
-- [[../tags/arts-and-health]]
-- [[../tags/cultural-initiatives]]
-- [[../tags/mental-wellbeing]]
-- [[../tags/fxa301]]
+- [arts-and-health](../tags/arts-and-health.md)
+- [cultural-initiatives](../tags/cultural-initiatives.md)
+- [mental-wellbeing](../tags/mental-wellbeing.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/arts-and-health]]
-- [[../topics/mental-wellbeing]]
+- [arts-and-health](../topics/arts-and-health.md)
+- [mental-wellbeing](../topics/mental-wellbeing.md)

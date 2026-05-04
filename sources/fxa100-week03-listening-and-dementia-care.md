@@ -30,27 +30,27 @@ Overall, these interventions underscore the significant role music plays in deme
 
 ## Key Concepts
 
-- [[../topics/music-based-interventions]]
-- [[../topics/dopamine-release]]
-- [[../topics/musical-memories]]
+- [music-based-interventions](../topics/music-based-interventions.md)
+- [dopamine-release](../topics/dopamine-release.md)
+- [musical-memories](../topics/musical-memories.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/dementia-care]]
-- [[../tags/neural-pathways]]
-- [[../tags/personalized-music]]
-- [[../tags/emotional-memory]]
-- [[../tags/fxa100]]
+- [music-therapy](../tags/music-therapy.md)
+- [dementia-care](../tags/dementia-care.md)
+- [neural-pathways](../tags/neural-pathways.md)
+- [personalized-music](../tags/personalized-music.md)
+- [emotional-memory](../tags/emotional-memory.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/emotional-memory]]
-- [[../topics/music-therapy]]
-- [[../topics/neural-pathways]]
-- [[../topics/personalized-music]]
+- [dementia-care](../topics/dementia-care.md)
+- [emotional-memory](../topics/emotional-memory.md)
+- [music-therapy](../topics/music-therapy.md)
+- [neural-pathways](../topics/neural-pathways.md)
+- [personalized-music](../topics/personalized-music.md)

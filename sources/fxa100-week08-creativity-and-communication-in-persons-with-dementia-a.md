@@ -24,25 +24,25 @@ The document discusses a practical guide for integrating creative media into dem
 
 ## Key Concepts
 
-- [[../topics/life-story-work]]
-- [[../topics/sensory-based-writing]]
-- [[../topics/object-based-reminiscence]]
+- [life-story-work](../topics/life-story-work.md)
+- [sensory-based-writing](../topics/sensory-based-writing.md)
+- [object-based-reminiscence](../topics/object-based-reminiscence.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/creative-activities]]
-- [[../tags/reminiscence-therapy]]
-- [[../tags/quality-of-life]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [creative-activities](../tags/creative-activities.md)
+- [reminiscence-therapy](../tags/reminiscence-therapy.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/creative-activities]]
-- [[../topics/dementia-care]]
-- [[../topics/quality-of-life]]
-- [[../topics/reminiscence-therapy]]
+- [creative-activities](../topics/creative-activities.md)
+- [dementia-care](../topics/dementia-care.md)
+- [quality-of-life](../topics/quality-of-life.md)
+- [reminiscence-therapy](../topics/reminiscence-therapy.md)

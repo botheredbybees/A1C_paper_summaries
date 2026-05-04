@@ -28,23 +28,23 @@ The text underscores the necessity for caregivers to develop deeper interpersona
 
 ## Key Concepts
 
-- [[../topics/person-centered-care]]
-- [[../topics/sustained-interaction]]
-- [[../topics/transformative-approach]]
+- [person-centered-care](../topics/person-centered-care.md)
+- [sustained-interaction](../topics/sustained-interaction.md)
+- [transformative-approach](../topics/transformative-approach.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/personhood-dignity]]
-- [[../tags/positive-person-work]]
-- [[../tags/caregiver-interactions]]
-- [[../tags/holistic-understanding]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [personhood-dignity](../tags/personhood-dignity.md)
+- [positive-person-work](../tags/positive-person-work.md)
+- [caregiver-interactions](../tags/caregiver-interactions.md)
+- [holistic-understanding](../tags/holistic-understanding.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[theoretical-framework]]
+- [theoretical-framework](theoretical-framework.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
+- [dementia-care](../topics/dementia-care.md)

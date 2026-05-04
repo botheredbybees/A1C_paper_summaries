@@ -26,5 +26,5 @@ The study of brain imaging techniques encompasses both basic and clinical neuros
 
 ## Sources
 
-- [[../sources/fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro]]
-- [[../sources/fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers]]
+- [fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro](../sources/fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro.md)
+- [fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers](../sources/fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers.md)

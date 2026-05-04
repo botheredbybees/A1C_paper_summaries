@@ -24,22 +24,22 @@ Puppet Play Therapy: A Practical Guidebook is a comprehensive resource written b
 
 ## Key Concepts
 
-- [[../topics/child-centered-therapy]]
-- [[../topics/solution-focused-brief-therapy]]
-- [[../topics/berkeley-puppet-interview]]
+- [child-centered-therapy](../topics/child-centered-therapy.md)
+- [solution-focused-brief-therapy](../topics/solution-focused-brief-therapy.md)
+- [berkeley-puppet-interview](../topics/berkeley-puppet-interview.md)
 
 ## Tags
 
-- [[../tags/puppet-therapy]]
-- [[../tags/creative-arts-therapy]]
-- [[../tags/play-based-intervention]]
-- [[../tags/fxa303]]
+- [puppet-therapy](../tags/puppet-therapy.md)
+- [creative-arts-therapy](../tags/creative-arts-therapy.md)
+- [play-based-intervention](../tags/play-based-intervention.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[practical-guidebook]]
+- [practical-guidebook](practical-guidebook.md)
 
 ## See Also
 
-- [[../topics/creative-arts-therapy]]
-- [[../topics/puppet-therapy]]
+- [creative-arts-therapy](../topics/creative-arts-therapy.md)
+- [puppet-therapy](../topics/puppet-therapy.md)

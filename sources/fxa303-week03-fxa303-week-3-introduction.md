@@ -24,28 +24,28 @@ The document provides an introduction to the third week of FXA303 Creative Arts,
 
 ## Key Concepts
 
-- [[../topics/neuroscience]]
-- [[../topics/developmental-psychology]]
-- [[../topics/brain-changes]]
-- [[../topics/social-networks]]
+- [neuroscience](../topics/neuroscience.md)
+- [developmental-psychology](../topics/developmental-psychology.md)
+- [brain-changes](../topics/brain-changes.md)
+- [social-networks](../topics/social-networks.md)
 
 ## Tags
 
-- [[../tags/adolescent-development]]
-- [[../tags/neural-pathways]]
-- [[../tags/mental-wellbeing]]
-- [[../tags/creative-arts]]
-- [[../tags/cognitive-processing]]
-- [[../tags/fxa303]]
+- [adolescent-development](../tags/adolescent-development.md)
+- [neural-pathways](../tags/neural-pathways.md)
+- [mental-wellbeing](../tags/mental-wellbeing.md)
+- [creative-arts](../tags/creative-arts.md)
+- [cognitive-processing](../tags/cognitive-processing.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/adolescent-development]]
-- [[../topics/cognitive-processing]]
-- [[../topics/creative-arts]]
-- [[../topics/mental-wellbeing]]
-- [[../topics/neural-pathways]]
+- [adolescent-development](../topics/adolescent-development.md)
+- [cognitive-processing](../topics/cognitive-processing.md)
+- [creative-arts](../topics/creative-arts.md)
+- [mental-wellbeing](../topics/mental-wellbeing.md)
+- [neural-pathways](../topics/neural-pathways.md)

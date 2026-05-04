@@ -24,28 +24,28 @@ Emma Barratt's critical reflection explores the process of creating a photo essa
 
 ## Key Concepts
 
-- [[../topics/non-linear storytelling]]
-- [[../topics/compositional elements]]
-- [[../topics/emotional depth]]
+- [non-linear storytelling](../topics/non-linear storytelling.md)
+- [compositional elements](../topics/compositional elements.md)
+- [emotional depth](../topics/emotional depth.md)
 
 ## Tags
 
-- [[../tags/visual-storytelling]]
-- [[../tags/therapeutic-photography]]
-- [[../tags/creative-expression]]
-- [[../tags/health-experiences]]
-- [[../tags/self-reflection]]
-- [[../tags/mindfulness]]
-- [[../tags/fxa202]]
+- [visual-storytelling](../tags/visual-storytelling.md)
+- [therapeutic-photography](../tags/therapeutic-photography.md)
+- [creative-expression](../tags/creative-expression.md)
+- [health-experiences](../tags/health-experiences.md)
+- [self-reflection](../tags/self-reflection.md)
+- [mindfulness](../tags/mindfulness.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[critical reflection]]
+- [critical reflection](critical reflection.md)
 
 ## See Also
 
-- [[../topics/creative-expression]]
-- [[../topics/mindfulness]]
-- [[../topics/self-reflection]]
-- [[../topics/therapeutic-photography]]
-- [[../topics/visual-storytelling]]
+- [creative-expression](../topics/creative-expression.md)
+- [mindfulness](../topics/mindfulness.md)
+- [self-reflection](../topics/self-reflection.md)
+- [therapeutic-photography](../topics/therapeutic-photography.md)
+- [visual-storytelling](../topics/visual-storytelling.md)

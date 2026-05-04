@@ -24,18 +24,18 @@ This document is a compendium of scholarly references and citations related to t
 
 ## Key Concepts
 
-- [[../topics/ethnomusicology practices]]
-- [[../topics/sustainable music cultures]]
-- [[../topics/creative traditions]]
+- [ethnomusicology practices](../topics/ethnomusicology practices.md)
+- [sustainable music cultures](../topics/sustainable music cultures.md)
+- [creative traditions](../topics/creative traditions.md)
 
 ## Tags
 
-- [[../tags/ethnomusicology]]
-- [[../tags/applied-ethnography]]
-- [[../tags/sustainability]]
-- [[../tags/cultural-conservation]]
-- [[../tags/arts-and-health]]
-- [[../tags/fxa301]]
+- [ethnomusicology](../tags/ethnomusicology.md)
+- [applied-ethnography](../tags/applied-ethnography.md)
+- [sustainability](../tags/sustainability.md)
+- [cultural-conservation](../tags/cultural-conservation.md)
+- [arts-and-health](../tags/arts-and-health.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -43,6 +43,6 @@ This document is a compendium of scholarly references and citations related to t
 
 ## See Also
 
-- [[../topics/arts-and-health]]
-- [[../topics/ethnomusicology]]
-- [[../topics/sustainability]]
+- [arts-and-health](../topics/arts-and-health.md)
+- [ethnomusicology](../topics/ethnomusicology.md)
+- [sustainability](../topics/sustainability.md)

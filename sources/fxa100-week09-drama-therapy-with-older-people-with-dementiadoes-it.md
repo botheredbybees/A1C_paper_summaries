@@ -24,26 +24,26 @@ This study evaluates the impact of drama therapy on the quality of life (QoL) of
 
 ## Key Concepts
 
-- [[../topics/quality of life (QoL)]]
-- [[../topics/self-awareness]]
-- [[../topics/mixed-method approach]]
+- [quality of life (QoL)](../topics/quality of life (QoL).md)
+- [self-awareness](../topics/self-awareness.md)
+- [mixed-method approach](../topics/mixed-method approach.md)
 
 ## Tags
 
-- [[../tags/drama-therapy]]
-- [[../tags/elderly-care]]
-- [[../tags/quality-of-life]]
-- [[../tags/dementia-treatment]]
-- [[../tags/fxa100]]
+- [drama-therapy](../tags/drama-therapy.md)
+- [elderly-care](../tags/elderly-care.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [dementia-treatment](../tags/dementia-treatment.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
-- [[qualitative analysis]]
+- [case study](case study.md)
+- [qualitative analysis](qualitative analysis.md)
 
 ## See Also
 
-- [[../topics/dementia-treatment]]
-- [[../topics/drama-therapy]]
-- [[../topics/elderly-care]]
-- [[../topics/quality-of-life]]
+- [dementia-treatment](../topics/dementia-treatment.md)
+- [drama-therapy](../topics/drama-therapy.md)
+- [elderly-care](../topics/elderly-care.md)
+- [quality-of-life](../topics/quality-of-life.md)

@@ -24,27 +24,27 @@ The study conducted at the University of Utah Health explores how music can acti
 
 ## Key Concepts
 
-- [[../topics/salience network]]
-- [[../topics/functional MRI]]
-- [[../topics/personalized music intervention]]
+- [salience network](../topics/salience network.md)
+- [functional MRI](../topics/functional MRI.md)
+- [personalized music intervention](../topics/personalized music intervention.md)
 
 ## Tags
 
-- [[../tags/alzheimers-disease]]
-- [[../tags/brain-activation]]
-- [[../tags/music-intervention]]
-- [[../tags/neural-networks]]
-- [[../tags/personalized-treatment]]
-- [[../tags/dementia-management]]
-- [[../tags/fxa100]]
+- [alzheimers-disease](../tags/alzheimers-disease.md)
+- [brain-activation](../tags/brain-activation.md)
+- [music-intervention](../tags/music-intervention.md)
+- [neural-networks](../tags/neural-networks.md)
+- [personalized-treatment](../tags/personalized-treatment.md)
+- [dementia-management](../tags/dementia-management.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[functional MRI]]
+- [functional MRI](functional MRI.md)
 
 ## See Also
 
-- [[../topics/alzheimers-disease]]
-- [[../topics/dementia-management]]
-- [[../topics/music-intervention]]
-- [[../topics/neural-networks]]
+- [alzheimers-disease](../topics/alzheimers-disease.md)
+- [dementia-management](../topics/dementia-management.md)
+- [music-intervention](../topics/music-intervention.md)
+- [neural-networks](../topics/neural-networks.md)

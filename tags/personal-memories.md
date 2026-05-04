@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Personal Memories
 
-- [[../sources/fxa202-week05-images-as-writing-prompts|Images as writing prompts]]
+- [Images as writing prompts](../sources/fxa202-week05-images-as-writing-prompts.md)

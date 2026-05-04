@@ -27,6 +27,6 @@ The integration of community art programs reveals a significant emphasis on comm
 
 ## Sources
 
-- [[../sources/fxa100-week07-milpara-art-mob-2012-transcript]]
-- [[../sources/fxa100-week08-web-article-gross-2016]]
-- [[../sources/fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts]]
+- [fxa100-week07-milpara-art-mob-2012-transcript](../sources/fxa100-week07-milpara-art-mob-2012-transcript.md)
+- [fxa100-week08-web-article-gross-2016](../sources/fxa100-week08-web-article-gross-2016.md)
+- [fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts](../sources/fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts.md)

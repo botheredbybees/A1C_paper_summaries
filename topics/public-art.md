@@ -29,8 +29,8 @@ The integration of public art into community spaces emerges as a multifaceted in
 
 ## Sources
 
-- [[../sources/fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6]]
-- [[../sources/fxa301-week05-cork-as-canvas-exploring-intersections-of-citizenship-and]]
-- [[../sources/fxa301-week05-how-murals-helped-turn-a-declining-community-around]]
-- [[../sources/fxa301-week05-lesson-fxa301-week05-page-2-hm-take-2-with-newer-content]]
-- [[../sources/fxa301-week05-the-history-of-the-quilt-the-national-aids-memorial]]
+- [fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6](../sources/fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6.md)
+- [fxa301-week05-cork-as-canvas-exploring-intersections-of-citizenship-and](../sources/fxa301-week05-cork-as-canvas-exploring-intersections-of-citizenship-and.md)
+- [fxa301-week05-how-murals-helped-turn-a-declining-community-around](../sources/fxa301-week05-how-murals-helped-turn-a-declining-community-around.md)
+- [fxa301-week05-lesson-fxa301-week05-page-2-hm-take-2-with-newer-content](../sources/fxa301-week05-lesson-fxa301-week05-page-2-hm-take-2-with-newer-content.md)
+- [fxa301-week05-the-history-of-the-quilt-the-national-aids-memorial](../sources/fxa301-week05-the-history-of-the-quilt-the-national-aids-memorial.md)

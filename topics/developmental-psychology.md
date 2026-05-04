@@ -27,6 +27,6 @@ The integration of developmental psychology with therapeutic practices highlight
 
 ## Sources
 
-- [[../sources/fxa303-week04-developmental-psychology-from-infancy-to-adulthood-chapter]]
-- [[../sources/fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies]]
-- [[../sources/fxa303-week09-using-creative-techniques-with-children-who-have]]
+- [fxa303-week04-developmental-psychology-from-infancy-to-adulthood-chapter](../sources/fxa303-week04-developmental-psychology-from-infancy-to-adulthood-chapter.md)
+- [fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies](../sources/fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies.md)
+- [fxa303-week09-using-creative-techniques-with-children-who-have](../sources/fxa303-week09-using-creative-techniques-with-children-who-have.md)

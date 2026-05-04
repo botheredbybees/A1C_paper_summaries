@@ -24,25 +24,25 @@ The document presents a transcript of an interview and discussion surrounding 'S
 
 ## Key Concepts
 
-- [[../topics/communal singing]]
-- [[../topics/emotional release through music]]
-- [[../topics/sense of belonging]]
+- [communal singing](../topics/communal singing.md)
+- [emotional release through music](../topics/emotional release through music.md)
+- [sense of belonging](../topics/sense of belonging.md)
 
 ## Tags
 
-- [[../tags/singing-for-brain]]
-- [[../tags/dementia-care]]
-- [[../tags/social-connection]]
-- [[../tags/well-being-through-art]]
-- [[../tags/therapeutic-benefits]]
-- [[../tags/fxa100]]
+- [singing-for-brain](../tags/singing-for-brain.md)
+- [dementia-care](../tags/dementia-care.md)
+- [social-connection](../tags/social-connection.md)
+- [well-being-through-art](../tags/well-being-through-art.md)
+- [therapeutic-benefits](../tags/therapeutic-benefits.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/therapeutic-benefits]]
-- [[../topics/well-being-through-art]]
+- [dementia-care](../topics/dementia-care.md)
+- [therapeutic-benefits](../topics/therapeutic-benefits.md)
+- [well-being-through-art](../topics/well-being-through-art.md)

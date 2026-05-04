@@ -26,5 +26,5 @@ The analysis of brain anatomy in neurodegenerative diseases reveals two prominen
 
 ## Sources
 
-- [[../sources/fxa100-week01-the-science-of-lewy-body-dementia-video-transcript]]
-- [[../sources/fxa100-week01-what-is-alzheimers-disease-video-transcript]]
+- [fxa100-week01-the-science-of-lewy-body-dementia-video-transcript](../sources/fxa100-week01-the-science-of-lewy-body-dementia-video-transcript.md)
+- [fxa100-week01-what-is-alzheimers-disease-video-transcript](../sources/fxa100-week01-what-is-alzheimers-disease-video-transcript.md)

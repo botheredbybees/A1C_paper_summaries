@@ -24,20 +24,20 @@ This article discusses the positive impact of engaging in arts activities on men
 
 ## Key Concepts
 
-- [[../topics/neuroesthetics]]
-- [[../topics/mindfulness-practices]]
-- [[../topics/stress-reduction]]
+- [neuroesthetics](../topics/neuroesthetics.md)
+- [mindfulness-practices](../topics/mindfulness-practices.md)
+- [stress-reduction](../topics/stress-reduction.md)
 
 ## Tags
 
-- [[../tags/arts-and-mental-health]]
-- [[../tags/neuroesthetics-research]]
-- [[../tags/cognitive-development]]
-- [[../tags/fxa202]]
+- [arts-and-mental-health](../tags/arts-and-mental-health.md)
+- [neuroesthetics-research](../tags/neuroesthetics-research.md)
+- [cognitive-development](../tags/cognitive-development.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[brain-research]]
+- [brain-research](brain-research.md)
 
 ## See Also
 

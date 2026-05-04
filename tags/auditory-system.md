@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Auditory System
 
-- [[../sources/fxa100-week02-hearing-and-music|Hearing and Music]]
+- [Hearing and Music](../sources/fxa100-week02-hearing-and-music.md)

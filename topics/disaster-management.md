@@ -26,5 +26,5 @@ The integration of creative arts into disaster management interventions emerges 
 
 ## Sources
 
-- [[../sources/fxa303-week09-lesson-fxa303-week09-page-1-overview]]
-- [[../sources/fxa303-week09-national-taskforce-for-creative-recovery-recommendations]]
+- [fxa303-week09-lesson-fxa303-week09-page-1-overview](../sources/fxa303-week09-lesson-fxa303-week09-page-1-overview.md)
+- [fxa303-week09-national-taskforce-for-creative-recovery-recommendations](../sources/fxa303-week09-national-taskforce-for-creative-recovery-recommendations.md)

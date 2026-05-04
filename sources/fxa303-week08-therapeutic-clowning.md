@@ -24,27 +24,27 @@ This document discusses the history and contemporary application of therapeutic 
 
 ## Key Concepts
 
-- [[../topics/clown-doctor-sessions]]
-- [[../topics/reduced-fear-and-anxiety]]
-- [[../topics/communication-improvement]]
+- [clown-doctor-sessions](../topics/clown-doctor-sessions.md)
+- [reduced-fear-and-anxiety](../topics/reduced-fear-and-anxiety.md)
+- [communication-improvement](../topics/communication-improvement.md)
 
 ## Tags
 
-- [[../tags/therapeutic-clowning]]
-- [[../tags/healthcare-settings]]
-- [[../tags/childhood-anxiety]]
-- [[../tags/mental-health-interventions]]
-- [[../tags/dementia-care]]
-- [[../tags/fxa303]]
+- [therapeutic-clowning](../tags/therapeutic-clowning.md)
+- [healthcare-settings](../tags/healthcare-settings.md)
+- [childhood-anxiety](../tags/childhood-anxiety.md)
+- [mental-health-interventions](../tags/mental-health-interventions.md)
+- [dementia-care](../tags/dementia-care.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
-- [[systematic-review]]
+- [case-study](case-study.md)
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/healthcare-settings]]
-- [[../topics/mental-health-interventions]]
-- [[../topics/therapeutic-clowning]]
+- [dementia-care](../topics/dementia-care.md)
+- [healthcare-settings](../topics/healthcare-settings.md)
+- [mental-health-interventions](../topics/mental-health-interventions.md)
+- [therapeutic-clowning](../topics/therapeutic-clowning.md)

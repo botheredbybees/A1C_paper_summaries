@@ -24,15 +24,15 @@ This chapter discusses the importance of process evaluations in healthcare resea
 
 ## Key Concepts
 
-- [[../topics/ethnographic process evaluations]]
-- [[../topics/outcome assessment]]
+- [ethnographic process evaluations](../topics/ethnographic process evaluations.md)
+- [outcome assessment](../topics/outcome assessment.md)
 
 ## Tags
 
-- [[../tags/healthcare research]]
-- [[../tags/process evaluation]]
-- [[../tags/research methods]]
-- [[../tags/fxa301]]
+- [healthcare research](../tags/healthcare research.md)
+- [process evaluation](../tags/process evaluation.md)
+- [research methods](../tags/research methods.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ This chapter discusses the importance of process evaluations in healthcare resea
 
 ## See Also
 
-- [[../topics/research-methods]]
+- [research-methods](../topics/research-methods.md)

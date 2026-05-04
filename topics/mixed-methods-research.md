@@ -26,5 +26,5 @@ The integration of qualitative and quantitative research methodologies in mixed-
 
 ## Sources
 
-- [[../sources/fxa100-week01-ai-tools-in-society-impacts-on-cognitive-offloading-and-the]]
-- [[../sources/fxa100-week06-dementia-and-imagination-a-mixed-methods-protocol-for-arts]]
+- [fxa100-week01-ai-tools-in-society-impacts-on-cognitive-offloading-and-the](../sources/fxa100-week01-ai-tools-in-society-impacts-on-cognitive-offloading-and-the.md)
+- [fxa100-week06-dementia-and-imagination-a-mixed-methods-protocol-for-arts](../sources/fxa100-week06-dementia-and-imagination-a-mixed-methods-protocol-for-arts.md)

@@ -27,16 +27,16 @@ This chapter from the book 'Make Arts for a Better Life: A Guide for Working wit
 
 ## Key Concepts
 
-- [[../topics/identity and sustainability]]
-- [[../topics/health and well-being]]
-- [[../topics/human rights]]
+- [identity and sustainability](../topics/identity and sustainability.md)
+- [health and well-being](../topics/health and well-being.md)
+- [human rights](../topics/human rights.md)
 
 ## Tags
 
-- [[../tags/community arts]]
-- [[../tags/creative interventions]]
-- [[../tags/well-being]]
-- [[../tags/fxa301]]
+- [community arts](../tags/community arts.md)
+- [creative interventions](../tags/creative interventions.md)
+- [well-being](../tags/well-being.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -44,4 +44,4 @@ This chapter from the book 'Make Arts for a Better Life: A Guide for Working wit
 
 ## See Also
 
-- [[../topics/well-being]]
+- [well-being](../topics/well-being.md)

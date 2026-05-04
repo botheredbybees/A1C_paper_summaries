@@ -26,5 +26,5 @@ The cognitive functions of the human brain are intricately linked to various bio
 
 ## Sources
 
-- [[../sources/fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining]]
-- [[../sources/fxa301-week01-lesson-fxa301-week01-page-2]]
+- [fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining](../sources/fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining.md)
+- [fxa301-week01-lesson-fxa301-week01-page-2](../sources/fxa301-week01-lesson-fxa301-week01-page-2.md)

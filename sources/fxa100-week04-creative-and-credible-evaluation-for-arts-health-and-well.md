@@ -24,25 +24,25 @@ This article discusses the findings of a UK knowledge exchange project that aime
 
 ## Key Concepts
 
-- [[../topics/co-production]]
-- [[../topics/stakeholder-engagement]]
-- [[../topics/evaluation-practices]]
+- [co-production](../topics/co-production.md)
+- [stakeholder-engagement](../topics/stakeholder-engagement.md)
+- [evaluation-practices](../topics/evaluation-practices.md)
 
 ## Tags
 
-- [[../tags/arts-and-health]]
-- [[../tags/co-production-methods]]
-- [[../tags/evaluation-frameworks]]
-- [[../tags/health-care-policies]]
-- [[../tags/fxa100]]
+- [arts-and-health](../tags/arts-and-health.md)
+- [co-production-methods](../tags/co-production-methods.md)
+- [evaluation-frameworks](../tags/evaluation-frameworks.md)
+- [health-care-policies](../tags/health-care-policies.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[mixed-methods]]
-- [[surveys]]
-- [[interviews]]
-- [[focus-groups]]
+- [mixed-methods](mixed-methods.md)
+- [surveys](surveys.md)
+- [interviews](interviews.md)
+- [focus-groups](focus-groups.md)
 
 ## See Also
 
-- [[../topics/arts-and-health]]
+- [arts-and-health](../topics/arts-and-health.md)

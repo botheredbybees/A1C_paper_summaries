@@ -24,26 +24,26 @@ This article explores the relationship between regulation and musical play, prop
 
 ## Key Concepts
 
-- [[../topics/regulatory-behaviors]]
-- [[../topics/cognitive-monitoring]]
-- [[../topics/emotionally-motivational-monitoring]]
-- [[../topics/socially-shared-regulation]]
+- [regulatory-behaviors](../topics/regulatory-behaviors.md)
+- [cognitive-monitoring](../topics/cognitive-monitoring.md)
+- [emotionally-motivational-monitoring](../topics/emotionally-motivational-monitoring.md)
+- [socially-shared-regulation](../topics/socially-shared-regulation.md)
 
 ## Tags
 
-- [[../tags/musical-play]]
-- [[../tags/child-development]]
-- [[../tags/self-regulation]]
-- [[../tags/social-sharing-of-regulation]]
-- [[../tags/educational-psychology]]
-- [[../tags/fxa303]]
+- [musical-play](../tags/musical-play.md)
+- [child-development](../tags/child-development.md)
+- [self-regulation](../tags/self-regulation.md)
+- [social-sharing-of-regulation](../tags/social-sharing-of-regulation.md)
+- [educational-psychology](../tags/educational-psychology.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[observational-study]]
+- [observational-study](observational-study.md)
 
 ## See Also
 
-- [[../topics/child-development]]
-- [[../topics/educational-psychology]]
-- [[../topics/self-regulation]]
+- [child-development](../topics/child-development.md)
+- [educational-psychology](../topics/educational-psychology.md)
+- [self-regulation](../topics/self-regulation.md)

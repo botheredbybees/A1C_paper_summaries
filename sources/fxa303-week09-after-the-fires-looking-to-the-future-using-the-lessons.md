@@ -24,24 +24,24 @@ The editorial 'After the fires: looking to the future using the lessons from the
 
 ## Key Concepts
 
-- [[../topics/general-practitioner-role]]
-- [[../topics/post-traumatic-stress-disorder]]
-- [[../topics/disaster-response-strategy]]
+- [general-practitioner-role](../topics/general-practitioner-role.md)
+- [post-traumatic-stress-disorder](../topics/post-traumatic-stress-disorder.md)
+- [disaster-response-strategy](../topics/disaster-response-strategy.md)
 
 ## Tags
 
-- [[../tags/mental-health-disasters]]
-- [[../tags/post-traumatic-stress-disorder]]
-- [[../tags/primary-care-intervention]]
-- [[../tags/bushfire-impact]]
-- [[../tags/public-health-policy]]
-- [[../tags/fxa303]]
+- [mental-health-disasters](../tags/mental-health-disasters.md)
+- [post-traumatic-stress-disorder](../tags/post-traumatic-stress-disorder.md)
+- [primary-care-intervention](../tags/primary-care-intervention.md)
+- [bushfire-impact](../tags/bushfire-impact.md)
+- [public-health-policy](../tags/public-health-policy.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[editorial-commentary]]
+- [editorial-commentary](editorial-commentary.md)
 
 ## See Also
 
-- [[../topics/post-traumatic-stress-disorder]]
-- [[../topics/public-health-policy]]
+- [post-traumatic-stress-disorder](../topics/post-traumatic-stress-disorder.md)
+- [public-health-policy](../topics/public-health-policy.md)

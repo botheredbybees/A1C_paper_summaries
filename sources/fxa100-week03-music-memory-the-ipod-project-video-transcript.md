@@ -24,22 +24,22 @@ The document discusses the 'iPod Project' and its impact on individuals with Alz
 
 ## Key Concepts
 
-- [[../topics/personalized music therapy]]
-- [[../topics/quality of life improvement for dementia patients]]
+- [personalized music therapy](../topics/personalized music therapy.md)
+- [quality of life improvement for dementia patients](../topics/quality of life improvement for dementia patients.md)
 
 ## Tags
 
-- [[../tags/personalized-music-playlists]]
-- [[../tags/alzheimers-dementia-care]]
-- [[../tags/emotional-therapy]]
-- [[../tags/quality-of-life-improvement]]
-- [[../tags/nursing-home-innovation]]
-- [[../tags/fxa100]]
+- [personalized-music-playlists](../tags/personalized-music-playlists.md)
+- [alzheimers-dementia-care](../tags/alzheimers-dementia-care.md)
+- [emotional-therapy](../tags/emotional-therapy.md)
+- [quality-of-life-improvement](../tags/quality-of-life-improvement.md)
+- [nursing-home-innovation](../tags/nursing-home-innovation.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/quality-of-life-improvement]]
+- [quality-of-life-improvement](../topics/quality-of-life-improvement.md)

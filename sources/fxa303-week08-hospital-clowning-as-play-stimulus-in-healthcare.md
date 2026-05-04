@@ -24,25 +24,25 @@ This article explores the role of hospital clowning in enhancing the well-being 
 
 ## Key Concepts
 
-- [[../topics/play-as-fundamental-right]]
-- [[../topics/interactive-play-humor]]
-- [[../topics/emotional-expression-promotion]]
-- [[../topics/resilience-building]]
+- [play-as-fundamental-right](../topics/play-as-fundamental-right.md)
+- [interactive-play-humor](../topics/interactive-play-humor.md)
+- [emotional-expression-promotion](../topics/emotional-expression-promotion.md)
+- [resilience-building](../topics/resilience-building.md)
 
 ## Tags
 
-- [[../tags/hospital-clowning]]
-- [[../tags/child-well-being]]
-- [[../tags/play-stimulation]]
-- [[../tags/healthcare-intervention]]
-- [[../tags/clowndoctors]]
-- [[../tags/chronic-illness]]
-- [[../tags/fxa303]]
+- [hospital-clowning](../tags/hospital-clowning.md)
+- [child-well-being](../tags/child-well-being.md)
+- [play-stimulation](../tags/play-stimulation.md)
+- [healthcare-intervention](../tags/healthcare-intervention.md)
+- [clowndoctors](../tags/clowndoctors.md)
+- [chronic-illness](../tags/chronic-illness.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/hospital-clowning]]
+- [hospital-clowning](../topics/hospital-clowning.md)

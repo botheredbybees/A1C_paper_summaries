@@ -26,5 +26,5 @@ The literature review and empirical study explore the utility of interactive pup
 
 ## Sources
 
-- [[../sources/fxa303-week06-a-review-of-the-literature-the-use-of-interactive-puppet]]
-- [[../sources/fxa303-week06-puppets-in-an-acute-paediatric-unit-nurses-experiences]]
+- [fxa303-week06-a-review-of-the-literature-the-use-of-interactive-puppet](../sources/fxa303-week06-a-review-of-the-literature-the-use-of-interactive-puppet.md)
+- [fxa303-week06-puppets-in-an-acute-paediatric-unit-nurses-experiences](../sources/fxa303-week06-puppets-in-an-acute-paediatric-unit-nurses-experiences.md)

@@ -24,21 +24,21 @@ This week's introduction to FXA301 course focuses on the intersection of arts, h
 
 ## Key Concepts
 
-- [[../topics/health-and-wellbeing]]
-- [[../topics/policies-on-arts]]
+- [health-and-wellbeing](../topics/health-and-wellbeing.md)
+- [policies-on-arts](../topics/policies-on-arts.md)
 
 ## Tags
 
-- [[../tags/arts-and-health]]
-- [[../tags/community-wellbeing]]
-- [[../tags/policy-analysis]]
-- [[../tags/fxa301]]
+- [arts-and-health](../tags/arts-and-health.md)
+- [community-wellbeing](../tags/community-wellbeing.md)
+- [policy-analysis](../tags/policy-analysis.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/arts-and-health]]
-- [[../topics/community-wellbeing]]
+- [arts-and-health](../topics/arts-and-health.md)
+- [community-wellbeing](../topics/community-wellbeing.md)

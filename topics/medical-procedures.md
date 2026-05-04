@@ -26,5 +26,5 @@ Sources highlight hospital clowning as an intervention to reduce pediatric anxie
 
 ## Sources
 
-- [[../sources/fxa303-week08-effectiveness-of-hospital-clowning-on-pediatric-anxiety-and]]
-- [[../sources/fxa303-week08-therapeutic-clowning-in-paediatric-practice]]
+- [fxa303-week08-effectiveness-of-hospital-clowning-on-pediatric-anxiety-and](../sources/fxa303-week08-effectiveness-of-hospital-clowning-on-pediatric-anxiety-and.md)
+- [fxa303-week08-therapeutic-clowning-in-paediatric-practice](../sources/fxa303-week08-therapeutic-clowning-in-paediatric-practice.md)

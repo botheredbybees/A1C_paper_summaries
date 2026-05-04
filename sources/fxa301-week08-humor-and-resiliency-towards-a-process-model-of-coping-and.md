@@ -26,27 +26,27 @@ The article contrasts traditional psychological approaches focusing on negative 
 
 ## Key Concepts
 
-- [[../topics/resiliency]]
-- [[../topics/character strengths]]
-- [[../topics/positive psychology]]
-- [[../topics/emotion regulation]]
+- [resiliency](../topics/resiliency.md)
+- [character strengths](../topics/character strengths.md)
+- [positive psychology](../topics/positive psychology.md)
+- [emotion regulation](../topics/emotion regulation.md)
 
 ## Tags
 
-- [[../tags/humor-in-coping]]
-- [[../tags/resilience-theory]]
-- [[../tags/stress-management]]
-- [[../tags/positive-psychology]]
-- [[../tags/cognitive-reappraisal]]
-- [[../tags/emotional-regulation]]
-- [[../tags/fxa301]]
+- [humor-in-coping](../tags/humor-in-coping.md)
+- [resilience-theory](../tags/resilience-theory.md)
+- [stress-management](../tags/stress-management.md)
+- [positive-psychology](../tags/positive-psychology.md)
+- [cognitive-reappraisal](../tags/cognitive-reappraisal.md)
+- [emotional-regulation](../tags/emotional-regulation.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[review]]
+- [review](review.md)
 
 ## See Also
 
-- [[../topics/emotional-regulation]]
-- [[../topics/positive-psychology]]
-- [[../topics/stress-management]]
+- [emotional-regulation](../topics/emotional-regulation.md)
+- [positive-psychology](../topics/positive-psychology.md)
+- [stress-management](../topics/stress-management.md)

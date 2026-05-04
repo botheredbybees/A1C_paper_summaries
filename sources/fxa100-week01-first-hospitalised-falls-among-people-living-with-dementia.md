@@ -30,25 +30,25 @@ These findings are crucial for developing tailored prevention strategies and int
 
 ## Key Concepts
 
-- [[../topics/polypharmacy]]
-- [[../topics/balance-issues]]
-- [[../topics/nervous-system-drugs]]
+- [polypharmacy](../topics/polypharmacy.md)
+- [balance-issues](../topics/balance-issues.md)
+- [nervous-system-drugs](../topics/nervous-system-drugs.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/hospital-falls-risk]]
-- [[../tags/patient-outcomes]]
-- [[../tags/medication-effects]]
-- [[../tags/elderly-health]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [hospital-falls-risk](../tags/hospital-falls-risk.md)
+- [patient-outcomes](../tags/patient-outcomes.md)
+- [medication-effects](../tags/medication-effects.md)
+- [elderly-health](../tags/elderly-health.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[retrospective cohort study]]
+- [retrospective cohort study](retrospective cohort study.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/elderly-health]]
-- [[../topics/patient-outcomes]]
+- [dementia-care](../topics/dementia-care.md)
+- [elderly-health](../topics/elderly-health.md)
+- [patient-outcomes](../topics/patient-outcomes.md)

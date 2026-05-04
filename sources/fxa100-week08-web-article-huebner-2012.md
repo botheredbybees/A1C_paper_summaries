@@ -24,16 +24,16 @@ The content is a collection of film clips from the documentary titled 'I Remembe
 
 ## Key Concepts
 
-- [[../topics/Alzheimer's disease]]
-- [[../topics/Art therapy]]
+- [Alzheimer's disease](../topics/Alzheimer's disease.md)
+- [Art therapy](../topics/Art therapy.md)
 
 ## Tags
 
-- [[../tags/alzheimer-s-disease]]
-- [[../tags/art-therapy]]
-- [[../tags/cognitive-health]]
-- [[../tags/memory-function]]
-- [[../tags/fxa100]]
+- [alzheimer-s-disease](../tags/alzheimer-s-disease.md)
+- [art-therapy](../tags/art-therapy.md)
+- [cognitive-health](../tags/cognitive-health.md)
+- [memory-function](../tags/memory-function.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -41,6 +41,6 @@ The content is a collection of film clips from the documentary titled 'I Remembe
 
 ## See Also
 
-- [[../topics/alzheimer-s-disease]]
-- [[../topics/cognitive-health]]
-- [[../topics/memory-function]]
+- [alzheimer-s-disease](../topics/alzheimer-s-disease.md)
+- [cognitive-health](../topics/cognitive-health.md)
+- [memory-function](../topics/memory-function.md)

@@ -24,21 +24,21 @@ This article reviews the neurobiological impact of psychological trauma, focusin
 
 ## Key Concepts
 
-- [[../topics/hypothalamic-pituitary-adrenal-axis]]
-- [[../topics/neurotransmitter-pathways]]
-- [[../topics/genetic-factors-in-ptsd]]
+- [hypothalamic-pituitary-adrenal-axis](../topics/hypothalamic-pituitary-adrenal-axis.md)
+- [neurotransmitter-pathways](../topics/neurotransmitter-pathways.md)
+- [genetic-factors-in-ptsd](../topics/genetic-factors-in-ptsd.md)
 
 ## Tags
 
-- [[../tags/post-traumatic-stress-disorder]]
-- [[../tags/neurobiology-of-ptsd]]
-- [[../tags/psychological-trauma-effects]]
-- [[../tags/fxa303]]
+- [post-traumatic-stress-disorder](../tags/post-traumatic-stress-disorder.md)
+- [neurobiology-of-ptsd](../tags/neurobiology-of-ptsd.md)
+- [psychological-trauma-effects](../tags/psychological-trauma-effects.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/post-traumatic-stress-disorder]]
+- [post-traumatic-stress-disorder](../topics/post-traumatic-stress-disorder.md)

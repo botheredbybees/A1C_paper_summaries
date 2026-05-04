@@ -26,5 +26,5 @@ The concept of cognitive offloading has emerged as a significant area of study i
 
 ## Sources
 
-- [[../sources/fxa100-week01-ai-tools-in-society-impacts-on-cognitive-offloading-and-the]]
-- [[../sources/fxa202-week03-what-smartphone-photography-is-doing-to-our-memories]]
+- [fxa100-week01-ai-tools-in-society-impacts-on-cognitive-offloading-and-the](../sources/fxa100-week01-ai-tools-in-society-impacts-on-cognitive-offloading-and-the.md)
+- [fxa202-week03-what-smartphone-photography-is-doing-to-our-memories](../sources/fxa202-week03-what-smartphone-photography-is-doing-to-our-memories.md)

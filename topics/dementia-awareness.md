@@ -27,6 +27,6 @@ The sources highlight the importance of language and communication in fostering 
 
 ## Sources
 
-- [[../sources/fxa100-week04-a-guide-to-dementia-friendly-language]]
-- [[../sources/fxa100-week04-how-to-talk-about-dementia]]
-- [[../sources/fxa100-week06-transcript-affinity-interactive-light-sculpture-for-dementia]]
+- [fxa100-week04-a-guide-to-dementia-friendly-language](../sources/fxa100-week04-a-guide-to-dementia-friendly-language.md)
+- [fxa100-week04-how-to-talk-about-dementia](../sources/fxa100-week04-how-to-talk-about-dementia.md)
+- [fxa100-week06-transcript-affinity-interactive-light-sculpture-for-dementia](../sources/fxa100-week06-transcript-affinity-interactive-light-sculpture-for-dementia.md)

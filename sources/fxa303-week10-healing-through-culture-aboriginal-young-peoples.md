@@ -24,23 +24,23 @@ The study by Black, Frederico, and Bamblett explores the social and emotional we
 
 ## Key Concepts
 
-- [[../topics/social and emotional wellbeing (SEWB)]]
-- [[../topics/resilience building]]
-- [[../topics/help-seeking behaviors]]
+- [social and emotional wellbeing (SEWB)](../topics/social and emotional wellbeing (SEWB).md)
+- [resilience building](../topics/resilience building.md)
+- [help-seeking behaviors](../topics/help-seeking behaviors.md)
 
 ## Tags
 
-- [[../tags/aboriginal-young-people]]
-- [[../tags/cultural-strengthening-programs]]
-- [[../tags/social-emotional-wellbeing]]
-- [[../tags/intergenerational-trauma]]
-- [[../tags/out-of-home-care]]
-- [[../tags/mental-health]]
-- [[../tags/fxa303]]
+- [aboriginal-young-people](../tags/aboriginal-young-people.md)
+- [cultural-strengthening-programs](../tags/cultural-strengthening-programs.md)
+- [social-emotional-wellbeing](../tags/social-emotional-wellbeing.md)
+- [intergenerational-trauma](../tags/intergenerational-trauma.md)
+- [out-of-home-care](../tags/out-of-home-care.md)
+- [mental-health](../tags/mental-health.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[qualitative study]]
+- **qualitative study**
 
 ## See Also
 

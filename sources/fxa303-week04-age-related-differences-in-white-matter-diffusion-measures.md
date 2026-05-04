@@ -24,25 +24,25 @@ This study examines age-related differences in white matter diffusion measures a
 
 ## Key Concepts
 
-- [[../topics/white matter diffusion measures]]
-- [[../topics/fractional anisotropy (FA)]]
-- [[../topics/radial diffusivity (RD)]]
+- [white matter diffusion measures](../topics/white matter diffusion measures.md)
+- [fractional anisotropy (FA)](../topics/fractional anisotropy (FA).md)
+- [radial diffusivity (RD)](../topics/radial diffusivity (RD).md)
 
 ## Tags
 
-- [[../tags/autism-spectrum-condition]]
-- [[../tags/white-matter-diffusion]]
-- [[../tags/aging-effects]]
-- [[../tags/neurodevelopment]]
-- [[../tags/brain-connectivity]]
-- [[../tags/fxa303]]
+- [autism-spectrum-condition](../tags/autism-spectrum-condition.md)
+- [white-matter-diffusion](../tags/white-matter-diffusion.md)
+- [aging-effects](../tags/aging-effects.md)
+- [neurodevelopment](../tags/neurodevelopment.md)
+- [brain-connectivity](../tags/brain-connectivity.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[tract-based spatial statistics (TBSS)]]
-- [[case-control study]]
+- [tract-based spatial statistics (TBSS)](tract-based spatial statistics (TBSS).md)
+- [case-control study](case-control study.md)
 
 ## See Also
 
-- [[../topics/brain-connectivity]]
-- [[../topics/neurodevelopment]]
+- [brain-connectivity](../topics/brain-connectivity.md)
+- [neurodevelopment](../topics/neurodevelopment.md)

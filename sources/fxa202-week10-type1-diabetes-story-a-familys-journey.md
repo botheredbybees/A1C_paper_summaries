@@ -24,22 +24,22 @@ The document recounts a personal narrative of living with type 1 diabetes throug
 
 ## Key Concepts
 
-- [[../topics/type 1 diabetes]]
-- [[../topics/emotional resilience]]
-- [[../topics/spiritual support]]
+- [type 1 diabetes](../topics/type 1 diabetes.md)
+- [emotional resilience](../topics/emotional resilience.md)
+- [spiritual support](../topics/spiritual support.md)
 
 ## Tags
 
-- [[../tags/type-1-diabetes]]
-- [[../tags/family-caregiving]]
-- [[../tags/patient-narrative]]
-- [[../tags/chronic-disease-management]]
-- [[../tags/resilience-and-coping]]
-- [[../tags/fxa202]]
+- [type-1-diabetes](../tags/type-1-diabetes.md)
+- [family-caregiving](../tags/family-caregiving.md)
+- [patient-narrative](../tags/patient-narrative.md)
+- [chronic-disease-management](../tags/chronic-disease-management.md)
+- [resilience-and-coping](../tags/resilience-and-coping.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 

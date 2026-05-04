@@ -24,25 +24,25 @@ The book 'Arts Therapies and the Mental Health of Children and Young People' pre
 
 ## Key Concepts
 
-- [[../topics/expressive arts therapy]]
-- [[../topics/therapeutic applications]]
-- [[../topics/resilience-building]]
+- [expressive arts therapy](../topics/expressive arts therapy.md)
+- [therapeutic applications](../topics/therapeutic applications.md)
+- [resilience-building](../topics/resilience-building.md)
 
 ## Tags
 
-- [[../tags/arts-therapy]]
-- [[../tags/mental-health-youth]]
-- [[../tags/expressive-art]]
-- [[../tags/therapeutic-intervention]]
-- [[../tags/child-development]]
-- [[../tags/fxa303]]
+- [arts-therapy](../tags/arts-therapy.md)
+- [mental-health-youth](../tags/mental-health-youth.md)
+- [expressive-art](../tags/expressive-art.md)
+- [therapeutic-intervention](../tags/therapeutic-intervention.md)
+- [child-development](../tags/child-development.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/arts-therapy]]
-- [[../topics/child-development]]
-- [[../topics/therapeutic-intervention]]
+- [arts-therapy](../topics/arts-therapy.md)
+- [child-development](../topics/child-development.md)
+- [therapeutic-intervention](../topics/therapeutic-intervention.md)

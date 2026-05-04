@@ -26,23 +26,23 @@ This document provides an overview of various types of puppets including glove, 
 
 ## Key Concepts
 
-- [[../topics/therapeutic-puppets]]
-- [[../topics/shadow-theatre]]
-- [[../topics/marionette-performance]]
+- [therapeutic-puppets](../topics/therapeutic-puppets.md)
+- [shadow-theatre](../topics/shadow-theatre.md)
+- [marionette-performance](../topics/marionette-performance.md)
 
 ## Tags
 
-- [[../tags/puppet-therapy]]
-- [[../tags/cultural-storytelling]]
-- [[../tags/self-care-strategies]]
-- [[../tags/fxa303]]
+- [puppet-therapy](../tags/puppet-therapy.md)
+- [cultural-storytelling](../tags/cultural-storytelling.md)
+- [self-care-strategies](../tags/self-care-strategies.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/cultural-storytelling]]
-- [[../topics/puppet-therapy]]
-- [[../topics/self-care-strategies]]
+- [cultural-storytelling](../topics/cultural-storytelling.md)
+- [puppet-therapy](../topics/puppet-therapy.md)
+- [self-care-strategies](../topics/self-care-strategies.md)

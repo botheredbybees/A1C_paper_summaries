@@ -24,25 +24,25 @@ This document outlines the activities and readings for Week 5 of the FXA303 Crea
 
 ## Key Concepts
 
-- [[../topics/emotional-skills]]
-- [[../topics/cross-disciplinary-framework]]
+- [emotional-skills](../topics/emotional-skills.md)
+- [cross-disciplinary-framework](../topics/cross-disciplinary-framework.md)
 
 ## Tags
 
-- [[../tags/creative-arts]]
-- [[../tags/mental-wellbeing]]
-- [[../tags/applied-theatre]]
-- [[../tags/puppetry]]
-- [[../tags/healthcare-contexts]]
-- [[../tags/fxa303]]
+- [creative-arts](../tags/creative-arts.md)
+- [mental-wellbeing](../tags/mental-wellbeing.md)
+- [applied-theatre](../tags/applied-theatre.md)
+- [puppetry](../tags/puppetry.md)
+- [healthcare-contexts](../tags/healthcare-contexts.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/applied-theatre]]
-- [[../topics/creative-arts]]
-- [[../topics/mental-wellbeing]]
-- [[../topics/puppetry]]
+- [applied-theatre](../topics/applied-theatre.md)
+- [creative-arts](../topics/creative-arts.md)
+- [mental-wellbeing](../topics/mental-wellbeing.md)
+- [puppetry](../topics/puppetry.md)

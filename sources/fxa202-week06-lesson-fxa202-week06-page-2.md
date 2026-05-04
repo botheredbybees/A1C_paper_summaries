@@ -24,15 +24,15 @@ This lesson focuses on the concept of visual storytelling through photography. I
 
 ## Key Concepts
 
-- [[../topics/implied narrative]]
-- [[../topics/visual metaphor]]
+- [implied narrative](../topics/implied narrative.md)
+- [visual metaphor](../topics/visual metaphor.md)
 
 ## Tags
 
-- [[../tags/visual storytelling]]
-- [[../tags/photography]]
-- [[../tags/storytelling techniques]]
-- [[../tags/fxa202]]
+- [visual storytelling](../tags/visual storytelling.md)
+- [photography](../tags/photography.md)
+- [storytelling techniques](../tags/storytelling techniques.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
@@ -40,5 +40,5 @@ This lesson focuses on the concept of visual storytelling through photography. I
 
 ## See Also
 
-- [[../topics/photography]]
-- [[../topics/visual-storytelling]]
+- [photography](../topics/photography.md)
+- [visual-storytelling](../topics/visual-storytelling.md)

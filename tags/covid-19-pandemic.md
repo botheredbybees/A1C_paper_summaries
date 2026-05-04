@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Covid 19 Pandemic
 
-- [[../sources/fxa303-week03-arts-on-prescription-meets-sir-quentin-blake|Arts On Prescription Meets Sir Quentin Blake]]
+- [Arts On Prescription Meets Sir Quentin Blake](../sources/fxa303-week03-arts-on-prescription-meets-sir-quentin-blake.md)

@@ -24,21 +24,21 @@ This article from Digital Photography School, authored by Anabel DFlux, discusse
 
 ## Key Concepts
 
-- [[../topics/layer-blending]]
-- [[../topics/masking-and-brushes]]
+- [layer-blending](../topics/layer-blending.md)
+- [masking-and-brushes](../topics/masking-and-brushes.md)
 
 ## Tags
 
-- [[../tags/image-composition]]
-- [[../tags/photo-editing-tips]]
-- [[../tags/photography-techniques]]
-- [[../tags/fxa202]]
+- [image-composition](../tags/image-composition.md)
+- [photo-editing-tips](../tags/photo-editing-tips.md)
+- [photography-techniques](../tags/photography-techniques.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[tutorial]]
+- [tutorial](tutorial.md)
 
 ## See Also
 
-- [[../topics/image-composition]]
-- [[../topics/photography-techniques]]
+- [image-composition](../topics/image-composition.md)
+- [photography-techniques](../topics/photography-techniques.md)

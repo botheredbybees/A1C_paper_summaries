@@ -24,16 +24,16 @@ This lesson explores the application of theatre and play in dementia care throug
 
 ## Key Concepts
 
-- [[../topics/personhood-undermining]]
-- [[../topics/malignant-social-psychology]]
-- [[../topics/veder-contact-method]]
+- [personhood-undermining](../topics/personhood-undermining.md)
+- [malignant-social-psychology](../topics/malignant-social-psychology.md)
+- [veder-contact-method](../topics/veder-contact-method.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/person-centered-approaches]]
-- [[../tags/theatre-in-education]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [person-centered-approaches](../tags/person-centered-approaches.md)
+- [theatre-in-education](../tags/theatre-in-education.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -41,4 +41,4 @@ This lesson explores the application of theatre and play in dementia care throug
 
 ## See Also
 
-- [[../topics/dementia-care]]
+- [dementia-care](../topics/dementia-care.md)

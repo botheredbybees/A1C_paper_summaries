@@ -26,5 +26,5 @@ The integration of photographic practices into therapeutic settings highlights t
 
 ## Sources
 
-- [[../sources/fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay]]
-- [[../sources/fxa202-week03-can-photography-help-depression]]
+- [fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay](../sources/fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay.md)
+- [fxa202-week03-can-photography-help-depression](../sources/fxa202-week03-can-photography-help-depression.md)

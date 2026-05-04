@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Arts Based Research
 
-- [[../sources/fxa100-week04-writing-a-research-protocol|Writing a Research Protocol]]
+- [Writing a Research Protocol](../sources/fxa100-week04-writing-a-research-protocol.md)

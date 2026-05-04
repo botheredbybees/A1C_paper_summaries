@@ -24,24 +24,24 @@ This systematic review evaluates the effectiveness of music therapy for children
 
 ## Key Concepts
 
-- [[../topics/educational-music-therapy]]
-- [[../topics/improvisational-music-therapy]]
+- [educational-music-therapy](../topics/educational-music-therapy.md)
+- [improvisational-music-therapy](../topics/improvisational-music-therapy.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/autism-spectrum-disorder]]
-- [[../tags/neurodevelopmental-disorders]]
-- [[../tags/systematic-review]]
-- [[../tags/fxa303]]
+- [music-therapy](../tags/music-therapy.md)
+- [autism-spectrum-disorder](../tags/autism-spectrum-disorder.md)
+- [neurodevelopmental-disorders](../tags/neurodevelopmental-disorders.md)
+- [systematic-review](../tags/systematic-review.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/autism-spectrum-disorder]]
-- [[../topics/music-therapy]]
-- [[../topics/neurodevelopmental-disorders]]
-- [[../topics/systematic-review]]
+- [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)
+- [music-therapy](../topics/music-therapy.md)
+- [neurodevelopmental-disorders](../topics/neurodevelopmental-disorders.md)
+- [systematic-review](../topics/systematic-review.md)

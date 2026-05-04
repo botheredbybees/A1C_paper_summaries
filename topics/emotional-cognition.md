@@ -26,5 +26,5 @@ Music has been extensively studied for its profound impact on emotional cognitio
 
 ## Sources
 
-- [[../sources/fxa100-week02-the-power-of-music]]
-- [[../sources/fxa100-week03-the-effects-of-music-on-the-brain-video-transcript]]
+- [fxa100-week02-the-power-of-music](../sources/fxa100-week02-the-power-of-music.md)
+- [fxa100-week03-the-effects-of-music-on-the-brain-video-transcript](../sources/fxa100-week03-the-effects-of-music-on-the-brain-video-transcript.md)

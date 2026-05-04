@@ -26,5 +26,5 @@ The integration of compositional techniques with effective use of color in photo
 
 ## Sources
 
-- [[../sources/fxa202-week02-lesson-fxa202-week02-page-2]]
-- [[../sources/fxa202-week02-lesson-fxa202-week02-page-3]]
+- [fxa202-week02-lesson-fxa202-week02-page-2](../sources/fxa202-week02-lesson-fxa202-week02-page-2.md)
+- [fxa202-week02-lesson-fxa202-week02-page-3](../sources/fxa202-week02-lesson-fxa202-week02-page-3.md)

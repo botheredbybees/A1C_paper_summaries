@@ -24,19 +24,19 @@ This lesson focuses on improving the visual impact of photographs through effect
 
 ## Key Concepts
 
-- [[../topics/rule of thirds]]
-- [[../topics/leading lines]]
-- [[../topics/symmetry]]
-- [[../topics/negative space]]
+- [rule of thirds](../topics/rule of thirds.md)
+- [leading lines](../topics/leading lines.md)
+- [symmetry](../topics/symmetry.md)
+- [negative space](../topics/negative space.md)
 
 ## Tags
 
-- [[../tags/composition]]
-- [[../tags/design]]
-- [[../tags/photography]]
-- [[../tags/rules-of-thumb]]
-- [[../tags/creative-techniques]]
-- [[../tags/fxa202]]
+- [composition](../tags/composition.md)
+- [design](../tags/design.md)
+- [photography](../tags/photography.md)
+- [rules-of-thumb](../tags/rules-of-thumb.md)
+- [creative-techniques](../tags/creative-techniques.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
@@ -44,6 +44,6 @@ This lesson focuses on improving the visual impact of photographs through effect
 
 ## See Also
 
-- [[../topics/composition]]
-- [[../topics/creative-techniques]]
-- [[../topics/photography]]
+- [composition](../topics/composition.md)
+- [creative-techniques](../topics/creative-techniques.md)
+- [photography](../topics/photography.md)

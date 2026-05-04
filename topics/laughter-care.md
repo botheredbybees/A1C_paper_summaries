@@ -25,5 +25,5 @@ The synthesis of the two sources highlights laughter therapy as an intervention 
 
 ## Sources
 
-- [[../sources/fxa301-week08-impact-summary-clown-doctors-australia]]
-- [[../sources/fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january]]
+- [fxa301-week08-impact-summary-clown-doctors-australia](../sources/fxa301-week08-impact-summary-clown-doctors-australia.md)
+- [fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january](../sources/fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january.md)

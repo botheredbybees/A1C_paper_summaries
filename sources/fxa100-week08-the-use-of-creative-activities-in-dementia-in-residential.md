@@ -24,26 +24,26 @@ This research examines the role and impact of creative activities for individual
 
 ## Key Concepts
 
-- [[../topics/Behavioural and Psychological Symptoms of Dementia (BPSD)]]
-- [[../topics/self-expression]]
-- [[../topics/cognitive-engagement]]
+- [Behavioural and Psychological Symptoms of Dementia (BPSD)](../topics/Behavioural and Psychological Symptoms of Dementia (BPSD).md)
+- [self-expression](../topics/self-expression.md)
+- [cognitive-engagement](../topics/cognitive-engagement.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/aged-care-facilities]]
-- [[../tags/creative-activities]]
-- [[../tags/quality-of-life]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [aged-care-facilities](../tags/aged-care-facilities.md)
+- [creative-activities](../tags/creative-activities.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[cross-sectional descriptive study]]
-- [[online survey]]
-- [[qualitative interviews]]
+- [cross-sectional descriptive study](cross-sectional descriptive study.md)
+- [online survey](online survey.md)
+- [qualitative interviews](qualitative interviews.md)
 
 ## See Also
 
-- [[../topics/creative-activities]]
-- [[../topics/dementia-care]]
-- [[../topics/quality-of-life]]
+- [creative-activities](../topics/creative-activities.md)
+- [dementia-care](../topics/dementia-care.md)
+- [quality-of-life](../topics/quality-of-life.md)

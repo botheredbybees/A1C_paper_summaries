@@ -28,26 +28,26 @@ The report highlights the importance of professional choir directors for success
 
 ## Key Concepts
 
-- [[../topics/work engagement]]
-- [[../topics/stress reduction]]
-- [[../topics/resilience]]
-- [[../topics/absenteeism]]
+- [work engagement](../topics/work engagement.md)
+- [stress reduction](../topics/stress reduction.md)
+- [resilience](../topics/resilience.md)
+- [absenteeism](../topics/absenteeism.md)
 
 ## Tags
 
-- [[../tags/workplace-well-being]]
-- [[../tags/choir-benefits]]
-- [[../tags/mental-health]]
-- [[../tags/social-connectedness]]
-- [[../tags/hse-staff]]
-- [[../tags/fxa301]]
+- [workplace-well-being](../tags/workplace-well-being.md)
+- [choir-benefits](../tags/choir-benefits.md)
+- [mental-health](../tags/mental-health.md)
+- [social-connectedness](../tags/social-connectedness.md)
+- [hse-staff](../tags/hse-staff.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[quantitative study]]
-- [[qualitative study]]
+- [quantitative study](quantitative study.md)
+- [qualitative study](qualitative study.md)
 
 ## See Also
 
-- [[../topics/choir-benefits]]
-- [[../topics/mental-health]]
+- [choir-benefits](../topics/choir-benefits.md)
+- [mental-health](../topics/mental-health.md)

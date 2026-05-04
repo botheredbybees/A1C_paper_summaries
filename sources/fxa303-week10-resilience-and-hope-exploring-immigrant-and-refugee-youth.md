@@ -24,21 +24,21 @@ The article examines the use of community-based arts practice to foster resilien
 
 ## Key Concepts
 
-- [[../topics/resilience]]
-- [[../topics/hope]]
-- [[../topics/adlerian-theory]]
+- [resilience](../topics/resilience.md)
+- [hope](../topics/hope.md)
+- [adlerian-theory](../topics/adlerian-theory.md)
 
 ## Tags
 
-- [[../tags/immigrant-youth]]
-- [[../tags/refugee-experience]]
-- [[../tags/community-arts-practice]]
-- [[../tags/mental-well-being]]
-- [[../tags/fxa303]]
+- [immigrant-youth](../tags/immigrant-youth.md)
+- [refugee-experience](../tags/refugee-experience.md)
+- [community-arts-practice](../tags/community-arts-practice.md)
+- [mental-well-being](../tags/mental-well-being.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- **case-study**
 
 ## See Also
 

@@ -24,21 +24,21 @@ The article discusses the physiological and psychological benefits of laughter, 
 
 ## Key Concepts
 
-- [[../topics/spontaneous-laughter]]
-- [[../topics/simulated-laughter]]
-- [[../topics/motion-creates-emotion-theory]]
+- [spontaneous-laughter](../topics/spontaneous-laughter.md)
+- [simulated-laughter](../topics/simulated-laughter.md)
+- [motion-creates-emotion-theory](../topics/motion-creates-emotion-theory.md)
 
 ## Tags
 
-- [[../tags/laughter-health-benefits]]
-- [[../tags/lifestyle-medicine]]
-- [[../tags/humor-therapy]]
-- [[../tags/fxa301]]
+- [laughter-health-benefits](../tags/laughter-health-benefits.md)
+- [lifestyle-medicine](../tags/lifestyle-medicine.md)
+- [humor-therapy](../tags/humor-therapy.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[literature-review]]
+- [literature-review](literature-review.md)
 
 ## See Also
 
-- [[../topics/lifestyle-medicine]]
+- [lifestyle-medicine](../topics/lifestyle-medicine.md)

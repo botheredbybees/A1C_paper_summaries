@@ -26,5 +26,5 @@ The integration of arts-based interventions in dementia care programs, specifica
 
 ## Sources
 
-- [[../sources/fxa100-week07-lesson-fxa100-week07-page-2-artz-artists-for-alzheimer-s]]
-- [[../sources/fxa100-week07-lesson-fxa100-week07-welcome-to-week-7]]
+- [fxa100-week07-lesson-fxa100-week07-page-2-artz-artists-for-alzheimer-s](../sources/fxa100-week07-lesson-fxa100-week07-page-2-artz-artists-for-alzheimer-s.md)
+- [fxa100-week07-lesson-fxa100-week07-welcome-to-week-7](../sources/fxa100-week07-lesson-fxa100-week07-welcome-to-week-7.md)

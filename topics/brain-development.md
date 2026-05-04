@@ -33,12 +33,12 @@ The provided sources delve into the multifaceted process of brain development ac
 
 ## Sources
 
-- [[../sources/fxa303-week01-can-traumatic-stress-alter-the-brain-understanding-the]]
-- [[../sources/fxa303-week02-free-play-and-childrens-mental-health]]
-- [[../sources/fxa303-week02-imaging-structural-and-functional-brain-development-in]]
-- [[../sources/fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain]]
-- [[../sources/fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental]]
-- [[../sources/fxa303-week03-adolescence-as-a-sensitive-period-of-brain-development]]
-- [[../sources/fxa303-week03-brain-development-during-adolescence]]
-- [[../sources/fxa303-week03-media-use-and-brain-development-during-adolescence]]
-- [[../sources/fxa303-week04-characteristics-of-brains-in-autism-spectrum-disorder]]
+- [fxa303-week01-can-traumatic-stress-alter-the-brain-understanding-the](../sources/fxa303-week01-can-traumatic-stress-alter-the-brain-understanding-the.md)
+- [fxa303-week02-free-play-and-childrens-mental-health](../sources/fxa303-week02-free-play-and-childrens-mental-health.md)
+- [fxa303-week02-imaging-structural-and-functional-brain-development-in](../sources/fxa303-week02-imaging-structural-and-functional-brain-development-in.md)
+- [fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain](../sources/fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain.md)
+- [fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental](../sources/fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental.md)
+- [fxa303-week03-adolescence-as-a-sensitive-period-of-brain-development](../sources/fxa303-week03-adolescence-as-a-sensitive-period-of-brain-development.md)
+- [fxa303-week03-brain-development-during-adolescence](../sources/fxa303-week03-brain-development-during-adolescence.md)
+- [fxa303-week03-media-use-and-brain-development-during-adolescence](../sources/fxa303-week03-media-use-and-brain-development-during-adolescence.md)
+- [fxa303-week04-characteristics-of-brains-in-autism-spectrum-disorder](../sources/fxa303-week04-characteristics-of-brains-in-autism-spectrum-disorder.md)

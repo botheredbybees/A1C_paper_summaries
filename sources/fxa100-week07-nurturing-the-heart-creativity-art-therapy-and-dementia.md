@@ -24,23 +24,23 @@ This monograph by Patricia Baines explores the importance of creativity in impro
 
 ## Key Concepts
 
-- [[../topics/creative-expression]]
-- [[../topics/emotional-release]]
-- [[../topics/cognitive-stimulation]]
+- [creative-expression](../topics/creative-expression.md)
+- [emotional-release](../topics/emotional-release.md)
+- [cognitive-stimulation](../topics/cognitive-stimulation.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/art-therapy]]
-- [[../tags/creativity-promotion]]
-- [[../tags/quality-of-life]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [art-therapy](../tags/art-therapy.md)
+- [creativity-promotion](../tags/creativity-promotion.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[empirical-research]]
+- [empirical-research](empirical-research.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/quality-of-life]]
+- [dementia-care](../topics/dementia-care.md)
+- [quality-of-life](../topics/quality-of-life.md)

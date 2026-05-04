@@ -24,27 +24,27 @@ This paper investigates the impact of group singing on mental health and wellbei
 
 ## Key Concepts
 
-- [[../topics/group singing]]
-- [[../topics/mental distress reduction]]
-- [[../topics/wellbeing improvement]]
+- [group singing](../topics/group singing.md)
+- [mental distress reduction](../topics/mental distress reduction.md)
+- [wellbeing improvement](../topics/wellbeing improvement.md)
 
 ## Tags
 
-- [[../tags/mental-health]]
-- [[../tags/wellbeing-research]]
-- [[../tags/community-singing]]
-- [[../tags/therapeutic-benefits]]
-- [[../tags/music-therapy]]
-- [[../tags/fxa301]]
+- [mental-health](../tags/mental-health.md)
+- [wellbeing-research](../tags/wellbeing-research.md)
+- [community-singing](../tags/community-singing.md)
+- [therapeutic-benefits](../tags/therapeutic-benefits.md)
+- [music-therapy](../tags/music-therapy.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[quasi-experimental study]]
-- [[questionnaire assessment]]
+- [quasi-experimental study](quasi-experimental study.md)
+- [questionnaire assessment](questionnaire assessment.md)
 
 ## See Also
 
-- [[../topics/mental-health]]
-- [[../topics/music-therapy]]
-- [[../topics/therapeutic-benefits]]
-- [[../topics/wellbeing-research]]
+- [mental-health](../topics/mental-health.md)
+- [music-therapy](../topics/music-therapy.md)
+- [therapeutic-benefits](../topics/therapeutic-benefits.md)
+- [wellbeing-research](../topics/wellbeing-research.md)

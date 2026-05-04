@@ -28,28 +28,28 @@ The document discusses how photography encourages physical activity by motivatin
 
 ## Key Concepts
 
-- [[../topics/mindfulness]]
-- [[../topics/photo therapy]]
-- [[../topics/well-being]]
-- [[../topics/mental health]]
+- [mindfulness](../topics/mindfulness.md)
+- [photo therapy](../topics/photo therapy.md)
+- [well-being](../topics/well-being.md)
+- [mental health](../topics/mental health.md)
 
 ## Tags
 
-- [[../tags/photography-wellbeing]]
-- [[../tags/mindfulness-techniques]]
-- [[../tags/social-interaction-online]]
-- [[../tags/therapeutic-photography]]
-- [[../tags/environmental-awareness]]
-- [[../tags/creative-expression]]
-- [[../tags/fxa202]]
+- [photography-wellbeing](../tags/photography-wellbeing.md)
+- [mindfulness-techniques](../tags/mindfulness-techniques.md)
+- [social-interaction-online](../tags/social-interaction-online.md)
+- [therapeutic-photography](../tags/therapeutic-photography.md)
+- [environmental-awareness](../tags/environmental-awareness.md)
+- [creative-expression](../tags/creative-expression.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/creative-expression]]
-- [[../topics/environmental-awareness]]
-- [[../topics/mindfulness-techniques]]
-- [[../topics/therapeutic-photography]]
+- [creative-expression](../topics/creative-expression.md)
+- [environmental-awareness](../topics/environmental-awareness.md)
+- [mindfulness-techniques](../topics/mindfulness-techniques.md)
+- [therapeutic-photography](../topics/therapeutic-photography.md)

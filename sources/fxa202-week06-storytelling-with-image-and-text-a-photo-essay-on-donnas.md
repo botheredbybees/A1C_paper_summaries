@@ -30,22 +30,22 @@ Pothof's flexible approach allowed for creative problem-solving when initial con
 
 ## Key Concepts
 
-- [[../topics/artistic-expression]]
-- [[../topics/narrative-photography]]
-- [[../topics/coping-mechanisms]]
+- [artistic-expression](../topics/artistic-expression.md)
+- [narrative-photography](../topics/narrative-photography.md)
+- [coping-mechanisms](../topics/coping-mechanisms.md)
 
 ## Tags
 
-- [[../tags/therapeutic-benefits]]
-- [[../tags/neurodivergent-artists]]
-- [[../tags/creative-arts-health]]
-- [[../tags/fxa202]]
+- [therapeutic-benefits](../tags/therapeutic-benefits.md)
+- [neurodivergent-artists](../tags/neurodivergent-artists.md)
+- [creative-arts-health](../tags/creative-arts-health.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[photo-essay]]
+- [photo-essay](photo-essay.md)
 
 ## See Also
 
-- [[../topics/creative-arts-health]]
-- [[../topics/therapeutic-benefits]]
+- [creative-arts-health](../topics/creative-arts-health.md)
+- [therapeutic-benefits](../topics/therapeutic-benefits.md)

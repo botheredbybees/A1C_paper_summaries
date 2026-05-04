@@ -24,17 +24,17 @@ The article by Anthony Epes titled 'Super Simple Introduction to Manual Mode and
 
 ## Key Concepts
 
-- [[../topics/The Exposure Triangle]]
-- [[../topics/Creative Decisions in Photography]]
+- [The Exposure Triangle](../topics/The Exposure Triangle.md)
+- [Creative Decisions in Photography](../topics/Creative Decisions in Photography.md)
 
 ## Tags
 
-- [[../tags/photography-tips]]
-- [[../tags/manual-mode-photography]]
-- [[../tags/exposure-triangle]]
-- [[../tags/creative-photography]]
-- [[../tags/lighting-techniques]]
-- [[../tags/fxa202]]
+- [photography-tips](../tags/photography-tips.md)
+- [manual-mode-photography](../tags/manual-mode-photography.md)
+- [exposure-triangle](../tags/exposure-triangle.md)
+- [creative-photography](../tags/creative-photography.md)
+- [lighting-techniques](../tags/lighting-techniques.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
@@ -42,5 +42,5 @@ The article by Anthony Epes titled 'Super Simple Introduction to Manual Mode and
 
 ## See Also
 
-- [[../topics/lighting-techniques]]
-- [[../topics/photography-tips]]
+- [lighting-techniques](../topics/lighting-techniques.md)
+- [photography-tips](../topics/photography-tips.md)

@@ -24,15 +24,15 @@ This lesson explores the role of museums in building community engagement and en
 
 ## Key Concepts
 
-- [[../topics/Happy Museum Project]]
-- [[../topics/social capital]]
+- [Happy Museum Project](../topics/Happy Museum Project.md)
+- [social capital](../topics/social capital.md)
 
 ## Tags
 
-- [[../tags/museum-studies]]
-- [[../tags/community-engagement]]
-- [[../tags/public-art]]
-- [[../tags/fxa301]]
+- [museum-studies](../tags/museum-studies.md)
+- [community-engagement](../tags/community-engagement.md)
+- [public-art](../tags/public-art.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ This lesson explores the role of museums in building community engagement and en
 
 ## See Also
 
-- [[../topics/public-art]]
+- [public-art](../topics/public-art.md)

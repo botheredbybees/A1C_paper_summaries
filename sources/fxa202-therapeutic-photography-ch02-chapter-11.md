@@ -24,16 +24,16 @@ Chapter 11 of 'Therapeutic Photography: Enhancing Self-Esteem, Self-Efficacy and
 
 ## Key Concepts
 
-- [[../topics/creative-expression]]
-- [[../topics/emotional-healing]]
-- [[../topics/community-building]]
+- [creative-expression](../topics/creative-expression.md)
+- [emotional-healing](../topics/emotional-healing.md)
+- [community-building](../topics/community-building.md)
 
 ## Tags
 
-- [[../tags/therapeutic-photography]]
-- [[../tags/self-portraits]]
-- [[../tags/breast-cancer-support]]
-- [[../tags/fxa202]]
+- [therapeutic-photography](../tags/therapeutic-photography.md)
+- [self-portraits](../tags/self-portraits.md)
+- [breast-cancer-support](../tags/breast-cancer-support.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
@@ -41,4 +41,4 @@ Chapter 11 of 'Therapeutic Photography: Enhancing Self-Esteem, Self-Efficacy and
 
 ## See Also
 
-- [[../topics/therapeutic-photography]]
+- [therapeutic-photography](../topics/therapeutic-photography.md)

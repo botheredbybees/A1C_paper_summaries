@@ -24,26 +24,26 @@ This lecture explores how the arts evoke emotional and physical responses by eng
 
 ## Key Concepts
 
-- [[../topics/mirror-neurons]]
-- [[../topics/limbic-system]]
-- [[../topics/neurotransmitters]]
+- [mirror-neurons](../topics/mirror-neurons.md)
+- [limbic-system](../topics/limbic-system.md)
+- [neurotransmitters](../topics/neurotransmitters.md)
 
 ## Tags
 
-- [[../tags/neuroaesthetics]]
-- [[../tags/brain-function]]
-- [[../tags/emotional-response]]
-- [[../tags/art-perception]]
-- [[../tags/psychology-of-art]]
-- [[../tags/fxa301]]
+- [neuroaesthetics](../tags/neuroaesthetics.md)
+- [brain-function](../tags/brain-function.md)
+- [emotional-response](../tags/emotional-response.md)
+- [art-perception](../tags/art-perception.md)
+- [psychology-of-art](../tags/psychology-of-art.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/brain-function]]
-- [[../topics/emotional-response]]
-- [[../topics/neuroaesthetics]]
-- [[../topics/psychology-of-art]]
+- [brain-function](../topics/brain-function.md)
+- [emotional-response](../topics/emotional-response.md)
+- [neuroaesthetics](../topics/neuroaesthetics.md)
+- [psychology-of-art](../topics/psychology-of-art.md)

@@ -24,26 +24,26 @@ This study evaluates the implementation of a new communication method, the 'Vede
 
 ## Key Concepts
 
-- [[../topics/Veder Method]]
-- [[../topics/person-centered care]]
-- [[../topics/executive support]]
+- [Veder Method](../topics/Veder Method.md)
+- [person-centered care](../topics/person-centered care.md)
+- [executive support](../topics/executive support.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/person-centered-care]]
-- [[../tags/theatrical-therapy]]
-- [[../tags/nursing-home-interventions]]
-- [[../tags/process-evaluation]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [person-centered-care](../tags/person-centered-care.md)
+- [theatrical-therapy](../tags/theatrical-therapy.md)
+- [nursing-home-interventions](../tags/nursing-home-interventions.md)
+- [process-evaluation](../tags/process-evaluation.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[process evaluation]]
+- [process evaluation](process evaluation.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/nursing-home-interventions]]
-- [[../topics/person-centered-care]]
-- [[../topics/theatrical-therapy]]
+- [dementia-care](../topics/dementia-care.md)
+- [nursing-home-interventions](../topics/nursing-home-interventions.md)
+- [person-centered-care](../topics/person-centered-care.md)
+- [theatrical-therapy](../topics/theatrical-therapy.md)

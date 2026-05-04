@@ -24,23 +24,23 @@ The study investigates the role of visual arts enrichment activities in fosterin
 
 ## Key Concepts
 
-- [[../topics/ecopsychosocial-theory]]
-- [[../topics/creative-expression]]
-- [[../topics/successful-aging]]
+- [ecopsychosocial-theory](../topics/ecopsychosocial-theory.md)
+- [creative-expression](../topics/creative-expression.md)
+- [successful-aging](../topics/successful-aging.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/visual-arts-intervention]]
-- [[../tags/resilience-building]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [visual-arts-intervention](../tags/visual-arts-intervention.md)
+- [resilience-building](../tags/resilience-building.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[qualitative-study]]
+- [qualitative-study](qualitative-study.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/resilience-building]]
-- [[../topics/visual-arts-intervention]]
+- [dementia-care](../topics/dementia-care.md)
+- [resilience-building](../topics/resilience-building.md)
+- [visual-arts-intervention](../topics/visual-arts-intervention.md)

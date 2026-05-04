@@ -24,17 +24,17 @@ This week's LAW122 lesson focuses on developing visual storytelling skills throu
 
 ## Key Concepts
 
-- [[../topics/character]]
-- [[../topics/place]]
-- [[../topics/detail]]
-- [[../topics/linear-narrative]]
+- [character](../topics/character.md)
+- [place](../topics/place.md)
+- [detail](../topics/detail.md)
+- [linear-narrative](../topics/linear-narrative.md)
 
 ## Tags
 
-- [[../tags/visual-storytelling]]
-- [[../tags/collage-making]]
-- [[../tags/narrative-voice]]
-- [[../tags/fxa202]]
+- [visual-storytelling](../tags/visual-storytelling.md)
+- [collage-making](../tags/collage-making.md)
+- [narrative-voice](../tags/narrative-voice.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
@@ -42,4 +42,4 @@ This week's LAW122 lesson focuses on developing visual storytelling skills throu
 
 ## See Also
 
-- [[../topics/visual-storytelling]]
+- [visual-storytelling](../topics/visual-storytelling.md)

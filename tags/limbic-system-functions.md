@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Limbic System Functions
 
-- [[../sources/fxa303-week03-neuroanatomy-limbic-system|Neuroanatomy, Limbic System]]
+- [Neuroanatomy, Limbic System](../sources/fxa303-week03-neuroanatomy-limbic-system.md)

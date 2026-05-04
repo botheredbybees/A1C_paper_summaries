@@ -24,22 +24,22 @@ This article explores the cognitive and emotional dimensions underlying aestheti
 
 ## Key Concepts
 
-- [[../topics/aesthetic-experience]]
-- [[../topics/verbal-association]]
-- [[../topics/musical-beauty]]
+- [aesthetic-experience](../topics/aesthetic-experience.md)
+- [verbal-association](../topics/verbal-association.md)
+- [musical-beauty](../topics/musical-beauty.md)
 
 ## Tags
 
-- [[../tags/aesthetic-responses]]
-- [[../tags/music-psychology]]
-- [[../tags/questionnaire-study]]
-- [[../tags/cognitive-emotion]]
-- [[../tags/fxa301]]
+- [aesthetic-responses](../tags/aesthetic-responses.md)
+- [music-psychology](../tags/music-psychology.md)
+- [questionnaire-study](../tags/questionnaire-study.md)
+- [cognitive-emotion](../tags/cognitive-emotion.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[questionnaire]]
+- [questionnaire](questionnaire.md)
 
 ## See Also
 
-- [[../topics/music-psychology]]
+- [music-psychology](../topics/music-psychology.md)

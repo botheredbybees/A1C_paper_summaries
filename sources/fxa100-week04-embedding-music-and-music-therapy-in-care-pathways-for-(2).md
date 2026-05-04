@@ -24,26 +24,26 @@ This position paper discusses the role of music therapy in managing dementia, fo
 
 ## Key Concepts
 
-- [[../topics/music therapy]]
-- [[../topics/improvisation]]
-- [[../topics/Homeside trial]]
+- [music therapy](../topics/music therapy.md)
+- [improvisation](../topics/improvisation.md)
+- [Homeside trial](../topics/Homeside trial.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/music-therapy]]
-- [[../tags/quality-of-life]]
-- [[../tags/personalized-intervention]]
-- [[../tags/caregiver-support]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [music-therapy](../tags/music-therapy.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [personalized-intervention](../tags/personalized-intervention.md)
+- [caregiver-support](../tags/caregiver-support.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[position paper]]
+- [position paper](position paper.md)
 
 ## See Also
 
-- [[../topics/caregiver-support]]
-- [[../topics/dementia-care]]
-- [[../topics/music-therapy]]
-- [[../topics/quality-of-life]]
+- [caregiver-support](../topics/caregiver-support.md)
+- [dementia-care](../topics/dementia-care.md)
+- [music-therapy](../topics/music-therapy.md)
+- [quality-of-life](../topics/quality-of-life.md)

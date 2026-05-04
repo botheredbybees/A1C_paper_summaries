@@ -24,28 +24,28 @@ The Week 9 lecture of FXA301 focuses on inclusive arts and their role in health 
 
 ## Key Concepts
 
-- [[../topics/inclusive arts]]
-- [[../topics/social model of disability]]
-- [[../topics/therapeutic focus]]
+- [inclusive arts](../topics/inclusive arts.md)
+- [social model of disability](../topics/social model of disability.md)
+- [therapeutic focus](../topics/therapeutic focus.md)
 
 ## Tags
 
-- [[../tags/inclusive-arts]]
-- [[../tags/health-outcomes]]
-- [[../tags/disability-studies]]
-- [[../tags/creative-expression]]
-- [[../tags/wellbeing-initiatives]]
-- [[../tags/social-model-of-disability]]
-- [[../tags/fxa301]]
+- [inclusive-arts](../tags/inclusive-arts.md)
+- [health-outcomes](../tags/health-outcomes.md)
+- [disability-studies](../tags/disability-studies.md)
+- [creative-expression](../tags/creative-expression.md)
+- [wellbeing-initiatives](../tags/wellbeing-initiatives.md)
+- [social-model-of-disability](../tags/social-model-of-disability.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/creative-expression]]
-- [[../topics/health-outcomes]]
-- [[../topics/inclusive-arts]]
-- [[../topics/social-model-of-disability]]
-- [[../topics/wellbeing-initiatives]]
+- [creative-expression](../topics/creative-expression.md)
+- [health-outcomes](../topics/health-outcomes.md)
+- [inclusive-arts](../topics/inclusive-arts.md)
+- [social-model-of-disability](../topics/social-model-of-disability.md)
+- [wellbeing-initiatives](../topics/wellbeing-initiatives.md)

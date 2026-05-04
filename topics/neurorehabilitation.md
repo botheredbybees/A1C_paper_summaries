@@ -26,5 +26,5 @@ The integration of dance and music into neurorehabilitation interventions highli
 
 ## Sources
 
-- [[../sources/fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait]]
-- [[../sources/fxa301-week09-stroke-choirs-stroke-recovery-association-nsw]]
+- [fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait](../sources/fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait.md)
+- [fxa301-week09-stroke-choirs-stroke-recovery-association-nsw](../sources/fxa301-week09-stroke-choirs-stroke-recovery-association-nsw.md)

@@ -25,5 +25,5 @@ The synthesis examines two non-pharmacological interventions aimed at enhancing 
 
 ## Sources
 
-- [[../sources/fxa100-week03-implementation-survey-results-wisconsin-music-memory-program]]
-- [[../sources/fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a]]
+- [fxa100-week03-implementation-survey-results-wisconsin-music-memory-program](../sources/fxa100-week03-implementation-survey-results-wisconsin-music-memory-program.md)
+- [fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a](../sources/fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a.md)

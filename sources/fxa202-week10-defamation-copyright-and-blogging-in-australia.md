@@ -24,22 +24,22 @@ The document discusses legal issues faced by Australian food bloggers, specifica
 
 ## Key Concepts
 
-- [[../topics/fair dealing exceptions]]
-- [[../topics/legal protection for recipes]]
-- [[../topics/attribution rights]]
+- [fair dealing exceptions](../topics/fair dealing exceptions.md)
+- [legal protection for recipes](../topics/legal protection for recipes.md)
+- [attribution rights](../topics/attribution rights.md)
 
 ## Tags
 
-- [[../tags/defamation]]
-- [[../tags/copyright-law]]
-- [[../tags/food-blogging]]
-- [[../tags/intellectual-property]]
-- [[../tags/moral-rights]]
-- [[../tags/fxa202]]
+- [defamation](../tags/defamation.md)
+- [copyright-law](../tags/copyright-law.md)
+- [food-blogging](../tags/food-blogging.md)
+- [intellectual-property](../tags/intellectual-property.md)
+- [moral-rights](../tags/moral-rights.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 

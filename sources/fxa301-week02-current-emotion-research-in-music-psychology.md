@@ -24,25 +24,25 @@ This article reviews recent research in music psychology focusing on the connect
 
 ## Key Concepts
 
-- [[../topics/emotional-expressiveness]]
-- [[../topics/affective-responses]]
-- [[../topics/culturally-specific-musical-expectations]]
+- [emotional-expressiveness](../topics/emotional-expressiveness.md)
+- [affective-responses](../topics/affective-responses.md)
+- [culturally-specific-musical-expectations](../topics/culturally-specific-musical-expectations.md)
 
 ## Tags
 
-- [[../tags/music-psychology]]
-- [[../tags/emotional-expression]]
-- [[../tags/cultural-impact]]
-- [[../tags/universal-acoustic-cues]]
-- [[../tags/musical-development]]
-- [[../tags/fxa301]]
+- [music-psychology](../tags/music-psychology.md)
+- [emotional-expression](../tags/emotional-expression.md)
+- [cultural-impact](../tags/cultural-impact.md)
+- [universal-acoustic-cues](../tags/universal-acoustic-cues.md)
+- [musical-development](../tags/musical-development.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/cultural-impact]]
-- [[../topics/emotional-expression]]
-- [[../topics/music-psychology]]
+- [cultural-impact](../topics/cultural-impact.md)
+- [emotional-expression](../topics/emotional-expression.md)
+- [music-psychology](../topics/music-psychology.md)

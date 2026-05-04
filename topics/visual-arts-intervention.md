@@ -29,8 +29,8 @@ The integration of visual arts into dementia care presents a promising non-pharm
 
 ## Sources
 
-- [[../sources/fxa100-week06-the-role-of-the-visual-arts-in-the-resilience-of-people]]
-- [[../sources/fxa100-week07-lesson-fxa100-week07-page-4-activities]]
-- [[../sources/fxa100-week08-lesson-fxa100-week07-page-1-welcome-to-week-7]]
-- [[../sources/fxa100-week08-lesson-fxa100-week07-page-2-communication-and-creativity]]
-- [[../sources/fxa100-week08-research-informed-approaches-to-visual-arts-programmes]]
+- [fxa100-week06-the-role-of-the-visual-arts-in-the-resilience-of-people](../sources/fxa100-week06-the-role-of-the-visual-arts-in-the-resilience-of-people.md)
+- [fxa100-week07-lesson-fxa100-week07-page-4-activities](../sources/fxa100-week07-lesson-fxa100-week07-page-4-activities.md)
+- [fxa100-week08-lesson-fxa100-week07-page-1-welcome-to-week-7](../sources/fxa100-week08-lesson-fxa100-week07-page-1-welcome-to-week-7.md)
+- [fxa100-week08-lesson-fxa100-week07-page-2-communication-and-creativity](../sources/fxa100-week08-lesson-fxa100-week07-page-2-communication-and-creativity.md)
+- [fxa100-week08-research-informed-approaches-to-visual-arts-programmes](../sources/fxa100-week08-research-informed-approaches-to-visual-arts-programmes.md)

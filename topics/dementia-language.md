@@ -25,5 +25,5 @@ The use of appropriate and respectful language when discussing or caring for ind
 
 ## Sources
 
-- [[../sources/fxa100-week04-dementia-language-guidelines]]
-- [[../sources/fxa100-week04-dementia-words-matter-guidelines-on-language-about-dementia]]
+- [fxa100-week04-dementia-language-guidelines](../sources/fxa100-week04-dementia-language-guidelines.md)
+- [fxa100-week04-dementia-words-matter-guidelines-on-language-about-dementia](../sources/fxa100-week04-dementia-words-matter-guidelines-on-language-about-dementia.md)

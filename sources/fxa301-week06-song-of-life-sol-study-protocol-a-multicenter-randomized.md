@@ -24,28 +24,28 @@ The 'Song of Life' (SOL) study protocol details a randomized controlled trial as
 
 ## Key Concepts
 
-- [[../topics/emotional-support]]
-- [[../topics/spiritual-integration]]
-- [[../topics/psychological-quality-of-life]]
+- [emotional-support](../topics/emotional-support.md)
+- [spiritual-integration](../topics/spiritual-integration.md)
+- [psychological-quality-of-life](../topics/psychological-quality-of-life.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/palliative-care]]
-- [[../tags/quality-of-life]]
-- [[../tags/randomized-trial]]
-- [[../tags/spiritual-wellbeing]]
-- [[../tags/psychobiological-effects]]
-- [[../tags/fxa301]]
+- [music-therapy](../tags/music-therapy.md)
+- [palliative-care](../tags/palliative-care.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [randomized-trial](../tags/randomized-trial.md)
+- [spiritual-wellbeing](../tags/spiritual-wellbeing.md)
+- [psychobiological-effects](../tags/psychobiological-effects.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[randomized-controlled-trial]]
-- [[qualitative-analysis]]
+- [randomized-controlled-trial](randomized-controlled-trial.md)
+- [qualitative-analysis](qualitative-analysis.md)
 
 ## See Also
 
-- [[../topics/music-therapy]]
-- [[../topics/palliative-care]]
-- [[../topics/quality-of-life]]
-- [[../topics/spiritual-wellbeing]]
+- [music-therapy](../topics/music-therapy.md)
+- [palliative-care](../topics/palliative-care.md)
+- [quality-of-life](../topics/quality-of-life.md)
+- [spiritual-wellbeing](../topics/spiritual-wellbeing.md)

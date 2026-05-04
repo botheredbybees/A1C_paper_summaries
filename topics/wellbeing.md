@@ -25,5 +25,5 @@ Creative arts interventions have been studied for their impact on various aspect
 
 ## Sources
 
-- [[../sources/fxa100-week03-association-of-music-interventions-with-health-related]]
-- [[../sources/fxa301-week01-lesson-fxa301-week01-troubleshooting1]]
+- [fxa100-week03-association-of-music-interventions-with-health-related](../sources/fxa100-week03-association-of-music-interventions-with-health-related.md)
+- [fxa301-week01-lesson-fxa301-week01-troubleshooting1](../sources/fxa301-week01-lesson-fxa301-week01-troubleshooting1.md)

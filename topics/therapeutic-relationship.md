@@ -25,5 +25,5 @@ The therapeutic relationship is a cornerstone of effective therapy, emphasizing 
 
 ## Sources
 
-- [[../sources/fxa303-week01-person-centered-therapy-rogerian-therapy]]
-- [[../sources/fxa303-week04-child-centered-play-therapy-as-an-intervention-for-children]]
+- [fxa303-week01-person-centered-therapy-rogerian-therapy](../sources/fxa303-week01-person-centered-therapy-rogerian-therapy.md)
+- [fxa303-week04-child-centered-play-therapy-as-an-intervention-for-children](../sources/fxa303-week04-child-centered-play-therapy-as-an-intervention-for-children.md)

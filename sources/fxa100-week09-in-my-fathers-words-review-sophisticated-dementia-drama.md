@@ -24,16 +24,16 @@ Mark Fisher reviews 'In My Father's Words,' a play produced by Dundee Rep during
 
 ## Key Concepts
 
-- [[../topics/dementia]]
-- [[../topics/intergenerational-relationships]]
-- [[../topics/language-culture]]
+- [dementia](../topics/dementia.md)
+- [intergenerational-relationships](../topics/intergenerational-relationships.md)
+- [language-culture](../topics/language-culture.md)
 
 ## Tags
 
-- [[../tags/drama-review]]
-- [[../tags/elder-care]]
-- [[../tags/cultural-identity]]
-- [[../tags/fxa100]]
+- [drama-review](../tags/drama-review.md)
+- [elder-care](../tags/elder-care.md)
+- [cultural-identity](../tags/cultural-identity.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ Mark Fisher reviews 'In My Father's Words,' a play produced by Dundee Rep during
 
 ## See Also
 
-- [[../topics/cultural-identity]]
-- [[../topics/elder-care]]
+- [cultural-identity](../topics/cultural-identity.md)
+- [elder-care](../topics/elder-care.md)

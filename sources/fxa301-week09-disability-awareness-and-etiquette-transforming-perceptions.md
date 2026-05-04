@@ -28,25 +28,25 @@ Clark emphasizes that overcoming negative stereotypes not only benefits those di
 
 ## Key Concepts
 
-- [[../topics/disabilities]]
-- [[../topics/stereotypes]]
-- [[../topics/social-barriers]]
+- [disabilities](../topics/disabilities.md)
+- [stereotypes](../topics/stereotypes.md)
+- [social-barriers](../topics/social-barriers.md)
 
 ## Tags
 
-- [[../tags/disability-awareness]]
-- [[../tags/societal-perception]]
-- [[../tags/inclusive-education]]
-- [[../tags/experiential-learning]]
-- [[../tags/social-inclusion]]
-- [[../tags/fxa301]]
+- [disability-awareness](../tags/disability-awareness.md)
+- [societal-perception](../tags/societal-perception.md)
+- [inclusive-education](../tags/inclusive-education.md)
+- [experiential-learning](../tags/experiential-learning.md)
+- [social-inclusion](../tags/social-inclusion.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[experiential-exercises]]
+- [experiential-exercises](experiential-exercises.md)
 
 ## See Also
 
-- [[../topics/disability-awareness]]
-- [[../topics/inclusive-education]]
-- [[../topics/social-inclusion]]
+- [disability-awareness](../topics/disability-awareness.md)
+- [inclusive-education](../topics/inclusive-education.md)
+- [social-inclusion](../topics/social-inclusion.md)

@@ -26,5 +26,5 @@ The sources explore the use of online learning as an intervention to enhance eng
 
 ## Sources
 
-- [[../sources/fxa100-week01-lesson-fxa100-week01-page-3-week-1-activities]]
-- [[../sources/fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling]]
+- [fxa100-week01-lesson-fxa100-week01-page-3-week-1-activities](../sources/fxa100-week01-lesson-fxa100-week01-page-3-week-1-activities.md)
+- [fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling](../sources/fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling.md)

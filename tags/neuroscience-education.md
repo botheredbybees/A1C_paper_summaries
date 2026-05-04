@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Neuroscience Education
 
-- [[../sources/fxa303-week02-lesson-fxa303-week02-introduction-copy|Adolescent Development and Brain Changes]]
+- [Adolescent Development and Brain Changes](../sources/fxa303-week02-lesson-fxa303-week02-introduction-copy.md)

@@ -24,21 +24,21 @@ The document 'How to Talk About Dementia' by Dementia Australia provides guideli
 
 ## Key Concepts
 
-- [[../topics/respectful-language]]
-- [[../topics/empowerment-through-terminology]]
+- [respectful-language](../topics/respectful-language.md)
+- [empowerment-through-terminology](../topics/empowerment-through-terminology.md)
 
 ## Tags
 
-- [[../tags/dementia-awareness]]
-- [[../tags/person-centered-care]]
-- [[../tags/language-use-in-healthcare]]
-- [[../tags/fxa100]]
+- [dementia-awareness](../tags/dementia-awareness.md)
+- [person-centered-care](../tags/person-centered-care.md)
+- [language-use-in-healthcare](../tags/language-use-in-healthcare.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[guideline-development]]
+- [guideline-development](guideline-development.md)
 
 ## See Also
 
-- [[../topics/dementia-awareness]]
-- [[../topics/person-centered-care]]
+- [dementia-awareness](../topics/dementia-awareness.md)
+- [person-centered-care](../topics/person-centered-care.md)

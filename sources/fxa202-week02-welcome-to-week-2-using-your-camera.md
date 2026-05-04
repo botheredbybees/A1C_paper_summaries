@@ -28,21 +28,21 @@ The course also highlights the importance of engaging with peers through discuss
 
 ## Key Concepts
 
-- [[../topics/color-theory]]
-- [[../topics/composition-techniques]]
+- [color-theory](../topics/color-theory.md)
+- [composition-techniques](../topics/composition-techniques.md)
 
 ## Tags
 
-- [[../tags/digital-photography]]
-- [[../tags/camera-skills]]
-- [[../tags/photo-essay]]
-- [[../tags/fxa202]]
+- [digital-photography](../tags/digital-photography.md)
+- [camera-skills](../tags/camera-skills.md)
+- [photo-essay](../tags/photo-essay.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[course-guide]]
+- [course-guide](course-guide.md)
 
 ## See Also
 
-- [[../topics/digital-photography]]
-- [[../topics/photo-essay]]
+- [digital-photography](../topics/digital-photography.md)
+- [photo-essay](../topics/photo-essay.md)

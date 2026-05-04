@@ -26,5 +26,5 @@ The perception of music is a complex interplay of biological and cognitive facto
 
 ## Sources
 
-- [[../sources/fxa100-week02-hearing-and-music]]
-- [[../sources/fxa301-week02-are-we-experienced-listeners-a-review-of-the-musical]]
+- [fxa100-week02-hearing-and-music](../sources/fxa100-week02-hearing-and-music.md)
+- [fxa301-week02-are-we-experienced-listeners-a-review-of-the-musical](../sources/fxa301-week02-are-we-experienced-listeners-a-review-of-the-musical.md)

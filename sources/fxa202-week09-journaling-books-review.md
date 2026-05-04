@@ -24,24 +24,24 @@ The document is a blog post reviewing various books on journaling and their util
 
 ## Key Concepts
 
-- [[../topics/reflective-journaling]]
-- [[../topics/emotional-introspection]]
+- [reflective-journaling](../topics/reflective-journaling.md)
+- [emotional-introspection](../topics/emotional-introspection.md)
 
 ## Tags
 
-- [[../tags/journaling-books]]
-- [[../tags/personal-development]]
-- [[../tags/mental-well-being]]
-- [[../tags/writing-techniques]]
-- [[../tags/self-reflection]]
-- [[../tags/fxa202]]
+- [journaling-books](../tags/journaling-books.md)
+- [personal-development](../tags/personal-development.md)
+- [mental-well-being](../tags/mental-well-being.md)
+- [writing-techniques](../tags/writing-techniques.md)
+- [self-reflection](../tags/self-reflection.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[book-review]]
+- [book-review](book-review.md)
 
 ## See Also
 
-- [[../topics/mental-well-being]]
-- [[../topics/personal-development]]
-- [[../topics/self-reflection]]
+- [mental-well-being](../topics/mental-well-being.md)
+- [personal-development](../topics/personal-development.md)
+- [self-reflection](../topics/self-reflection.md)

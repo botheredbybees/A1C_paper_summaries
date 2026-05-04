@@ -24,21 +24,21 @@ This study explores the relationship between musical structure and psychophysiol
 
 ## Key Concepts
 
-- [[../topics/harmonic-complexity]]
-- [[../topics/rhythmic-articulation]]
-- [[../topics/physiological-responses]]
+- [harmonic-complexity](../topics/harmonic-complexity.md)
+- [rhythmic-articulation](../topics/rhythmic-articulation.md)
+- [physiological-responses](../topics/physiological-responses.md)
 
 ## Tags
 
-- [[../tags/music-emotion]]
-- [[../tags/psychophysiology-measures]]
-- [[../tags/musical-structure]]
-- [[../tags/fxa301]]
+- [music-emotion](../tags/music-emotion.md)
+- [psychophysiology-measures](../tags/psychophysiology-measures.md)
+- [musical-structure](../tags/musical-structure.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[correlational-study]]
+- [correlational-study](correlational-study.md)
 
 ## See Also
 
-- [[../topics/music-emotion]]
+- [music-emotion](../topics/music-emotion.md)

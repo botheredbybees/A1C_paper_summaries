@@ -27,6 +27,6 @@ The integration of psychophysiology with creative arts reveals significant impac
 
 ## Sources
 
-- [[../sources/fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and]]
-- [[../sources/fxa301-oxford-textbook-of-creative-arts-ch27-chapter-9]]
-- [[../sources/fxa301-week08-the-emotional-power-of-poetry-neural-circuitry]]
+- [fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and](../sources/fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and.md)
+- [fxa301-oxford-textbook-of-creative-arts-ch27-chapter-9](../sources/fxa301-oxford-textbook-of-creative-arts-ch27-chapter-9.md)
+- [fxa301-week08-the-emotional-power-of-poetry-neural-circuitry](../sources/fxa301-week08-the-emotional-power-of-poetry-neural-circuitry.md)

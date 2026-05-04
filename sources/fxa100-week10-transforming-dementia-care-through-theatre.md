@@ -24,22 +24,22 @@ The article discusses a groundbreaking initiative to use theatre as a medium for
 
 ## Key Concepts
 
-- [[../topics/tacit knowledge]]
-- [[../topics/person-centered care]]
+- [tacit knowledge](../topics/tacit knowledge.md)
+- [person-centered care](../topics/person-centered care.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/healthcare-assistants]]
-- [[../tags/person-centered-care]]
-- [[../tags/theatre-in-education]]
-- [[../tags/empathy-building]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [healthcare-assistants](../tags/healthcare-assistants.md)
+- [person-centered-care](../tags/person-centered-care.md)
+- [theatre-in-education](../tags/theatre-in-education.md)
+- [empathy-building](../tags/empathy-building.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[workshop]]
-- [[play]]
+- [workshop](workshop.md)
+- [play](play.md)
 
 ## See Also
 

@@ -24,21 +24,21 @@ This study investigates the prevalence of dementia among urban and regional Abor
 
 ## Key Concepts
 
-- [[../topics/prevalence of dementia]]
-- [[../topics/Alzheimer's disease]]
-- [[../topics/mixed dementia]]
+- [prevalence of dementia](../topics/prevalence of dementia.md)
+- [Alzheimer's disease](../topics/Alzheimer's disease.md)
+- [mixed dementia](../topics/mixed dementia.md)
 
 ## Tags
 
-- [[../tags/dementia-prevalence]]
-- [[../tags/aboriginal-health]]
-- [[../tags/urban-vs-regional]]
-- [[../tags/fxa100]]
+- [dementia-prevalence](../tags/dementia-prevalence.md)
+- [aboriginal-health](../tags/aboriginal-health.md)
+- [urban-vs-regional](../tags/urban-vs-regional.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[cross-sectional survey]]
+- [cross-sectional survey](cross-sectional survey.md)
 
 ## See Also
 
-- [[../topics/dementia-prevalence]]
+- [dementia-prevalence](../topics/dementia-prevalence.md)

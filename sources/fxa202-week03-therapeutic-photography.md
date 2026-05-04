@@ -24,22 +24,22 @@ This chapter explores the application of therapeutic photography in addressing p
 
 ## Key Concepts
 
-- [[../topics/therapeutic photography]]
-- [[../topics/case study analysis]]
-- [[../topics/emotional resolution]]
+- [therapeutic photography](../topics/therapeutic photography.md)
+- [case study analysis](../topics/case study analysis.md)
+- [emotional resolution](../topics/emotional resolution.md)
 
 ## Tags
 
-- [[../tags/therapeutic-photography]]
-- [[../tags/self-help-strategies]]
-- [[../tags/emotional-coping]]
-- [[../tags/fxa202]]
+- [therapeutic-photography](../tags/therapeutic-photography.md)
+- [self-help-strategies](../tags/self-help-strategies.md)
+- [emotional-coping](../tags/emotional-coping.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/emotional-coping]]
-- [[../topics/therapeutic-photography]]
+- [emotional-coping](../topics/emotional-coping.md)
+- [therapeutic-photography](../topics/therapeutic-photography.md)

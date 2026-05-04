@@ -24,21 +24,21 @@ The Clown Doctors Australia Social Impact Report for the year ending 30 June 202
 
 ## Key Concepts
 
-- [[../topics/emotional-safety]]
-- [[../topics/quality-of-care]]
-- [[../topics/patient-receptivity-to-treatment]]
+- [emotional-safety](../topics/emotional-safety.md)
+- [quality-of-care](../topics/quality-of-care.md)
+- [patient-receptivity-to-treatment](../topics/patient-receptivity-to-treatment.md)
 
 ## Tags
 
-- [[../tags/social-impact-measurement]]
-- [[../tags/clown-doctors-australia]]
-- [[../tags/healthcare-improvement]]
-- [[../tags/fxa301]]
+- [social-impact-measurement](../tags/social-impact-measurement.md)
+- [clown-doctors-australia](../tags/clown-doctors-australia.md)
+- [healthcare-improvement](../tags/healthcare-improvement.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/healthcare-improvement]]
+- [healthcare-improvement](../topics/healthcare-improvement.md)

@@ -24,16 +24,16 @@ The document 'Person-centred Language Guidelines' by the Alzheimer Society outli
 
 ## Key Concepts
 
-- [[../topics/personhood]]
-- [[../topics/stigma-reduction]]
-- [[../topics/inclusive-language]]
+- [personhood](../topics/personhood.md)
+- [stigma-reduction](../topics/stigma-reduction.md)
+- [inclusive-language](../topics/inclusive-language.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/person-centered-approach]]
-- [[../tags/language-guidelines]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [person-centered-approach](../tags/person-centered-approach.md)
+- [language-guidelines](../tags/language-guidelines.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ The document 'Person-centred Language Guidelines' by the Alzheimer Society outli
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/person-centered-approach]]
+- [dementia-care](../topics/dementia-care.md)
+- [person-centered-approach](../topics/person-centered-approach.md)

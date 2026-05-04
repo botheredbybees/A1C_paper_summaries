@@ -26,5 +26,5 @@ The lecture notes from FXA100 course provide an overview of various types of dem
 
 ## Sources
 
-- [[../sources/fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes]]
-- [[../sources/fxa100-week01-transcript-dementia-australia]]
+- [fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes](../sources/fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes.md)
+- [fxa100-week01-transcript-dementia-australia](../sources/fxa100-week01-transcript-dementia-australia.md)

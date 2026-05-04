@@ -28,22 +28,22 @@ The central argument posits that by integrating Indigenous cultural understandin
 
 ## Key Concepts
 
-- [[../topics/cultural-sensitivity]]
-- [[../topics/holistic-healing]]
-- [[../topics/traditional-practices]]
+- [cultural-sensitivity](../topics/cultural-sensitivity.md)
+- [holistic-healing](../topics/holistic-healing.md)
+- [traditional-practices](../topics/traditional-practices.md)
 
 ## Tags
 
-- [[../tags/indigenous-health]]
-- [[../tags/cultural-therapies]]
-- [[../tags/aboriginal-arts]]
-- [[../tags/holistic-wellness]]
-- [[../tags/cross-cultural-counseling]]
-- [[../tags/fxa303]]
+- [indigenous-health](../tags/indigenous-health.md)
+- [cultural-therapies](../tags/cultural-therapies.md)
+- [aboriginal-arts](../tags/aboriginal-arts.md)
+- [holistic-wellness](../tags/holistic-wellness.md)
+- [cross-cultural-counseling](../tags/cross-cultural-counseling.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- **case-study**
 
 ## See Also
 

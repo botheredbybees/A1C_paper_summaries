@@ -24,26 +24,26 @@ This study, a network meta-analysis of randomized trials examining the effective
 
 ## Key Concepts
 
-- [[../topics/hospital clowning]]
-- [[../topics/pediatric anxiety]]
-- [[../topics/pain management]]
+- [hospital clowning](../topics/hospital clowning.md)
+- [pediatric anxiety](../topics/pediatric anxiety.md)
+- [pain management](../topics/pain management.md)
 
 ## Tags
 
-- [[../tags/hospital-clowning]]
-- [[../tags/pediatric-care]]
-- [[../tags/anxiety-management]]
-- [[../tags/pain-reduction]]
-- [[../tags/network-meta-analysis]]
-- [[../tags/medical-procedures]]
-- [[../tags/fxa303]]
+- [hospital-clowning](../tags/hospital-clowning.md)
+- [pediatric-care](../tags/pediatric-care.md)
+- [anxiety-management](../tags/anxiety-management.md)
+- [pain-reduction](../tags/pain-reduction.md)
+- [network-meta-analysis](../tags/network-meta-analysis.md)
+- [medical-procedures](../tags/medical-procedures.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[network meta-analysis]]
+- [network meta-analysis](network meta-analysis.md)
 
 ## See Also
 
-- [[../topics/hospital-clowning]]
-- [[../topics/medical-procedures]]
-- [[../topics/pediatric-care]]
+- [hospital-clowning](../topics/hospital-clowning.md)
+- [medical-procedures](../topics/medical-procedures.md)
+- [pediatric-care](../topics/pediatric-care.md)

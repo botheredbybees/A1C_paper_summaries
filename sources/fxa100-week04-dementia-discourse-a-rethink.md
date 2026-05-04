@@ -24,21 +24,21 @@ Fran McInerney's editorial discusses the language used to describe dementia and 
 
 ## Key Concepts
 
-- [[../topics/dignity]]
-- [[../topics/stigma-reduction]]
+- [dignity](../topics/dignity.md)
+- [stigma-reduction](../topics/stigma-reduction.md)
 
 ## Tags
 
-- [[../tags/dementia-discourse]]
-- [[../tags/person-centered-care]]
-- [[../tags/terminology-change]]
-- [[../tags/fxa100]]
+- [dementia-discourse](../tags/dementia-discourse.md)
+- [person-centered-care](../tags/person-centered-care.md)
+- [terminology-change](../tags/terminology-change.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[editorial]]
+- [editorial](editorial.md)
 
 ## See Also
 
-- [[../topics/dementia-discourse]]
-- [[../topics/person-centered-care]]
+- [dementia-discourse](../topics/dementia-discourse.md)
+- [person-centered-care](../topics/person-centered-care.md)

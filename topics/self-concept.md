@@ -26,5 +26,5 @@ The exploration of self-concept through therapeutic interventions reveals a conv
 
 ## Sources
 
-- [[../sources/fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental]]
-- [[../sources/fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for]]
+- [fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental](../sources/fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental.md)
+- [fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for](../sources/fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for.md)

@@ -26,5 +26,5 @@ The concept of depth of field (DoF) in photography is a critical aspect that inf
 
 ## Sources
 
-- [[../sources/fxa202-week02-aperture-and-shutter-priority-modes]]
-- [[../sources/fxa202-week02-depth-of-field-the-essential-guide-tips]]
+- [fxa202-week02-aperture-and-shutter-priority-modes](../sources/fxa202-week02-aperture-and-shutter-priority-modes.md)
+- [fxa202-week02-depth-of-field-the-essential-guide-tips](../sources/fxa202-week02-depth-of-field-the-essential-guide-tips.md)

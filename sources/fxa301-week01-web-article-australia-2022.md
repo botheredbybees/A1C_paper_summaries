@@ -24,16 +24,16 @@ This report, commissioned by the Australia Council and Manatū Taonga Ministry f
 
 ## Key Concepts
 
-- [[../topics/cultural-and-public-value]]
-- [[../topics/thematic-analysis]]
-- [[../topics/indigenous-perspectives-on-arts]]
+- [cultural-and-public-value](../topics/cultural-and-public-value.md)
+- [thematic-analysis](../topics/thematic-analysis.md)
+- [indigenous-perspectives-on-arts](../topics/indigenous-perspectives-on-arts.md)
 
 ## Tags
 
-- [[../tags/arts-and-culture]]
-- [[../tags/public-value-of-arts]]
-- [[../tags/wellbeing-through-art]]
-- [[../tags/fxa301]]
+- [arts-and-culture](../tags/arts-and-culture.md)
+- [public-value-of-arts](../tags/public-value-of-arts.md)
+- [wellbeing-through-art](../tags/wellbeing-through-art.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ This report, commissioned by the Australia Council and Manatū Taonga Ministry f
 
 ## See Also
 
-- [[../topics/arts-and-culture]]
-- [[../topics/wellbeing-through-art]]
+- [arts-and-culture](../topics/arts-and-culture.md)
+- [wellbeing-through-art](../topics/wellbeing-through-art.md)

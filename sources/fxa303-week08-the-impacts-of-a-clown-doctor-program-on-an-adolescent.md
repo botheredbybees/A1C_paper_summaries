@@ -24,27 +24,27 @@ This study investigates the impact of a clown doctor program on adolescent psych
 
 ## Key Concepts
 
-- [[../topics/fun levels]]
-- [[../topics/positive mood]]
-- [[../topics/ward atmosphere]]
-- [[../topics/patient engagement]]
-- [[../topics/humor-based interventions]]
+- [fun levels](../topics/fun levels.md)
+- [positive mood](../topics/positive mood.md)
+- [ward atmosphere](../topics/ward atmosphere.md)
+- [patient engagement](../topics/patient engagement.md)
+- [humor-based interventions](../topics/humor-based interventions.md)
 
 ## Tags
 
-- [[../tags/mental-health-care]]
-- [[../tags/adolescent-psychiatry]]
-- [[../tags/humor-interventions]]
-- [[../tags/clown-doctors]]
-- [[../tags/patient-experience]]
-- [[../tags/fxa303]]
+- [mental-health-care](../tags/mental-health-care.md)
+- [adolescent-psychiatry](../tags/adolescent-psychiatry.md)
+- [humor-interventions](../tags/humor-interventions.md)
+- [clown-doctors](../tags/clown-doctors.md)
+- [patient-experience](../tags/patient-experience.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[mixed methods investigation]]
-- [[custom surveys]]
+- [mixed methods investigation](mixed methods investigation.md)
+- [custom surveys](custom surveys.md)
 
 ## See Also
 
-- [[../topics/clown-doctors]]
-- [[../topics/patient-experience]]
+- [clown-doctors](../topics/clown-doctors.md)
+- [patient-experience](../topics/patient-experience.md)

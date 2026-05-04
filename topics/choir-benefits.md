@@ -26,5 +26,5 @@ The integration of findings from various sources highlights the broad benefits o
 
 ## Sources
 
-- [[../sources/fxa301-week06-sing-while-you-work-the-well-being-benefits-of-workplace]]
-- [[../sources/fxa301-week09-stroke-choirs-stroke-recovery-association-nsw]]
+- [fxa301-week06-sing-while-you-work-the-well-being-benefits-of-workplace](../sources/fxa301-week06-sing-while-you-work-the-well-being-benefits-of-workplace.md)
+- [fxa301-week09-stroke-choirs-stroke-recovery-association-nsw](../sources/fxa301-week09-stroke-choirs-stroke-recovery-association-nsw.md)

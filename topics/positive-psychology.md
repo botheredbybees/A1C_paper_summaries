@@ -26,5 +26,5 @@ Positive psychology focuses on fostering resilience and well-being through the d
 
 ## Sources
 
-- [[../sources/fxa301-week02-university-students-strong-experiences-of-music-pleasure]]
-- [[../sources/fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and]]
+- [fxa301-week02-university-students-strong-experiences-of-music-pleasure](../sources/fxa301-week02-university-students-strong-experiences-of-music-pleasure.md)
+- [fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and](../sources/fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and.md)

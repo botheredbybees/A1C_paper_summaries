@@ -28,24 +28,24 @@ The authors propose that integrating arts into medical education could help stud
 
 ## Key Concepts
 
-- [[../topics/dopaminergic medications]]
-- [[../topics/therapeutic benefits of art]]
-- [[../topics/personalized care]]
+- [dopaminergic medications](../topics/dopaminergic medications.md)
+- [therapeutic benefits of art](../topics/therapeutic benefits of art.md)
+- [personalized care](../topics/personalized care.md)
 
 ## Tags
 
-- [[../tags/medicine-and-art]]
-- [[../tags/dopamine-therapy]]
-- [[../tags/creative-expression]]
-- [[../tags/patient-care]]
-- [[../tags/medical-education]]
-- [[../tags/fxa301]]
+- [medicine-and-art](../tags/medicine-and-art.md)
+- [dopamine-therapy](../tags/dopamine-therapy.md)
+- [creative-expression](../tags/creative-expression.md)
+- [patient-care](../tags/patient-care.md)
+- [medical-education](../tags/medical-education.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[literature review]]
+- [literature review](literature review.md)
 
 ## See Also
 
-- [[../topics/creative-expression]]
-- [[../topics/patient-care]]
+- [creative-expression](../topics/creative-expression.md)
+- [patient-care](../topics/patient-care.md)

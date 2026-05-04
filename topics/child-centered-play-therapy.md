@@ -27,6 +27,6 @@ Child-Centered Play Therapy (CCPT) is recognized as a significant intervention f
 
 ## Sources
 
-- [[../sources/fxa303-week04-child-centered-play-therapy-as-an-intervention-for-children]]
-- [[../sources/fxa303-week04-impact-of-child-centered-play-therapy-intervention-on]]
-- [[../sources/fxa303-week09-exploring-child-centered-play-therapy-and-trauma-a]]
+- [fxa303-week04-child-centered-play-therapy-as-an-intervention-for-children](../sources/fxa303-week04-child-centered-play-therapy-as-an-intervention-for-children.md)
+- [fxa303-week04-impact-of-child-centered-play-therapy-intervention-on](../sources/fxa303-week04-impact-of-child-centered-play-therapy-intervention-on.md)
+- [fxa303-week09-exploring-child-centered-play-therapy-and-trauma-a](../sources/fxa303-week09-exploring-child-centered-play-therapy-and-trauma-a.md)

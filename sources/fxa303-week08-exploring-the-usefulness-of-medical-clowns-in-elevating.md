@@ -24,24 +24,24 @@ This research article investigates the effectiveness of medical clowns in enhanc
 
 ## Key Concepts
 
-- [[../topics/satisfaction]]
-- [[../topics/aggressive-tendencies]]
-- [[../topics/therapeutic-benefits]]
+- [satisfaction](../topics/satisfaction.md)
+- [aggressive-tendencies](../topics/aggressive-tendencies.md)
+- [therapeutic-benefits](../topics/therapeutic-benefits.md)
 
 ## Tags
 
-- [[../tags/medical-clowns]]
-- [[../tags/hospital-environment]]
-- [[../tags/patient-satisfaction]]
-- [[../tags/behavioral-outcomes]]
-- [[../tags/fxa303]]
+- [medical-clowns](../tags/medical-clowns.md)
+- [hospital-environment](../tags/hospital-environment.md)
+- [patient-satisfaction](../tags/patient-satisfaction.md)
+- [behavioral-outcomes](../tags/behavioral-outcomes.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
-- [[observational-research]]
+- [case-study](case-study.md)
+- [observational-research](observational-research.md)
 
 ## See Also
 
-- [[../topics/behavioral-outcomes]]
-- [[../topics/medical-clowns]]
+- [behavioral-outcomes](../topics/behavioral-outcomes.md)
+- [medical-clowns](../topics/medical-clowns.md)

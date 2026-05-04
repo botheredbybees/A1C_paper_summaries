@@ -27,6 +27,6 @@ The provided sources explore various interventions aimed at improving patient ou
 
 ## Sources
 
-- [[../sources/fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia]]
-- [[../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for]]
-- [[../sources/fxa100-week04-music-therapy-and-music-assisted-caregiving-for-dementia]]
+- [fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia](../sources/fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia.md)
+- [fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for](../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for.md)
+- [fxa100-week04-music-therapy-and-music-assisted-caregiving-for-dementia](../sources/fxa100-week04-music-therapy-and-music-assisted-caregiving-for-dementia.md)

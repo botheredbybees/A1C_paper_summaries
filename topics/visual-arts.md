@@ -26,6 +26,6 @@ The integration of visual arts into dementia care settings has emerged as a mult
 
 ## Sources
 
-- [[../sources/fxa100-week06-lesson-fxa100-week06-page-1-welcome-to-week-6]]
-- [[../sources/fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care]]
-- [[../sources/fxa301-week05-lesson-fxa301-week05-page-1]]
+- [fxa100-week06-lesson-fxa100-week06-page-1-welcome-to-week-6](../sources/fxa100-week06-lesson-fxa100-week06-page-1-welcome-to-week-6.md)
+- [fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care](../sources/fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care.md)
+- [fxa301-week05-lesson-fxa301-week05-page-1](../sources/fxa301-week05-lesson-fxa301-week05-page-1.md)

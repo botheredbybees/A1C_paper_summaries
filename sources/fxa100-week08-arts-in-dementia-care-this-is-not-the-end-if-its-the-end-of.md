@@ -28,29 +28,29 @@ The author provides examples of effective arts programs like 'Memories in the Ma
 
 ## Key Concepts
 
-- [[../topics/non-verbal communication]]
-- [[../topics/art therapy models]]
-- [[../topics/self-expression in dementia]]
+- [non-verbal communication](../topics/non-verbal communication.md)
+- [art therapy models](../topics/art therapy models.md)
+- [self-expression in dementia](../topics/self-expression in dementia.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/creative-expression]]
-- [[../tags/quality-of-life]]
-- [[../tags/therapeutic-arts]]
-- [[../tags/cognitive-decline]]
-- [[../tags/community-engagement]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [creative-expression](../tags/creative-expression.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [therapeutic-arts](../tags/therapeutic-arts.md)
+- [cognitive-decline](../tags/cognitive-decline.md)
+- [community-engagement](../tags/community-engagement.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
-- [[literature review]]
+- [case study](case study.md)
+- [literature review](literature review.md)
 
 ## See Also
 
-- [[../topics/cognitive-decline]]
-- [[../topics/creative-expression]]
-- [[../topics/dementia-care]]
-- [[../topics/quality-of-life]]
-- [[../topics/therapeutic-arts]]
+- [cognitive-decline](../topics/cognitive-decline.md)
+- [creative-expression](../topics/creative-expression.md)
+- [dementia-care](../topics/dementia-care.md)
+- [quality-of-life](../topics/quality-of-life.md)
+- [therapeutic-arts](../topics/therapeutic-arts.md)

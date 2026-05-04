@@ -24,27 +24,27 @@ Chapter 12 of 'Music as Therapy and Health Promotion' explores the integration o
 
 ## Key Concepts
 
-- [[../topics/neuroimaging]]
-- [[../topics/cortical-engagement]]
-- [[../topics/motor-synchronization]]
+- [neuroimaging](../topics/neuroimaging.md)
+- [cortical-engagement](../topics/cortical-engagement.md)
+- [motor-synchronization](../topics/motor-synchronization.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/health-wellbeing]]
-- [[../tags/neuroscience-research]]
-- [[../tags/brain-plasticity]]
-- [[../tags/therapeutic-interventions]]
-- [[../tags/fxa100]]
+- [music-therapy](../tags/music-therapy.md)
+- [health-wellbeing](../tags/health-wellbeing.md)
+- [neuroscience-research](../tags/neuroscience-research.md)
+- [brain-plasticity](../tags/brain-plasticity.md)
+- [therapeutic-interventions](../tags/therapeutic-interventions.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/brain-plasticity]]
-- [[../topics/health-wellbeing]]
-- [[../topics/music-therapy]]
-- [[../topics/neuroscience-research]]
-- [[../topics/therapeutic-interventions]]
+- [brain-plasticity](../topics/brain-plasticity.md)
+- [health-wellbeing](../topics/health-wellbeing.md)
+- [music-therapy](../topics/music-therapy.md)
+- [neuroscience-research](../topics/neuroscience-research.md)
+- [therapeutic-interventions](../topics/therapeutic-interventions.md)

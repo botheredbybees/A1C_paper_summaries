@@ -29,7 +29,7 @@ The synthesis focuses on elderly care interventions including personalized risk 
 
 ## Sources
 
-- [[../sources/fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy]]
-- [[../sources/fxa100-week04-research-in-aged-care-deloraine-partnership-transcript]]
-- [[../sources/fxa100-week04-the-day-the-music-died]]
-- [[../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it]]
+- [fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy](../sources/fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy.md)
+- [fxa100-week04-research-in-aged-care-deloraine-partnership-transcript](../sources/fxa100-week04-research-in-aged-care-deloraine-partnership-transcript.md)
+- [fxa100-week04-the-day-the-music-died](../sources/fxa100-week04-the-day-the-music-died.md)
+- [fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it](../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it.md)

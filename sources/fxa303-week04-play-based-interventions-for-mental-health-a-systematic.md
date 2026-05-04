@@ -24,27 +24,27 @@ This systematic review and meta-analysis assesses the impact of play-based inter
 
 ## Key Concepts
 
-- [[../topics/play-based interventions]]
-- [[../topics/PRISMA guidelines]]
-- [[../topics/mental health outcomes]]
+- [play-based interventions](../topics/play-based interventions.md)
+- [PRISMA guidelines](../topics/PRISMA guidelines.md)
+- [mental health outcomes](../topics/mental health outcomes.md)
 
 ## Tags
 
-- [[../tags/play-based-interventions]]
-- [[../tags/mental-health-outcomes]]
-- [[../tags/autism-spectrum-disorder]]
-- [[../tags/developmental-language-disorder]]
-- [[../tags/systematic-review-meta-analysis]]
-- [[../tags/fxa303]]
+- [play-based-interventions](../tags/play-based-interventions.md)
+- [mental-health-outcomes](../tags/mental-health-outcomes.md)
+- [autism-spectrum-disorder](../tags/autism-spectrum-disorder.md)
+- [developmental-language-disorder](../tags/developmental-language-disorder.md)
+- [systematic-review-meta-analysis](../tags/systematic-review-meta-analysis.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic review]]
-- [[meta-analysis]]
+- [systematic review](systematic review.md)
+- [meta-analysis](meta-analysis.md)
 
 ## See Also
 
-- [[../topics/autism-spectrum-disorder]]
-- [[../topics/mental-health-outcomes]]
-- [[../topics/play-based-interventions]]
-- [[../topics/systematic-review-meta-analysis]]
+- [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)
+- [mental-health-outcomes](../topics/mental-health-outcomes.md)
+- [play-based-interventions](../topics/play-based-interventions.md)
+- [systematic-review-meta-analysis](../topics/systematic-review-meta-analysis.md)

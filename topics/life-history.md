@@ -26,5 +26,5 @@ The integration of life histories in dementia care underscores a person-centered
 
 ## Sources
 
-- [[../sources/fxa100-excellence-in-dementia-care--ch10-chapter-15]]
-- [[../sources/fxa100-excellence-in-dementia-care--ch11-chapter-17]]
+- [fxa100-excellence-in-dementia-care--ch10-chapter-15](../sources/fxa100-excellence-in-dementia-care--ch10-chapter-15.md)
+- [fxa100-excellence-in-dementia-care--ch11-chapter-17](../sources/fxa100-excellence-in-dementia-care--ch11-chapter-17.md)

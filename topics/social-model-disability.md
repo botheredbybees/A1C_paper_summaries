@@ -28,7 +28,7 @@ The social model of disability is a conceptual framework that contrasts sharply 
 
 ## Sources
 
-- [[../sources/fxa301-week09-lesson-fxa301-week09-page-2]]
-- [[../sources/fxa303-week04-exploring-the-critiques-of-the-social-model-of-disability]]
-- [[../sources/fxa303-week04-unconscious-bias-and-the-medical-model-how-the-social-model]]
-- [[../sources/fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental]]
+- [fxa301-week09-lesson-fxa301-week09-page-2](../sources/fxa301-week09-lesson-fxa301-week09-page-2.md)
+- [fxa303-week04-exploring-the-critiques-of-the-social-model-of-disability](../sources/fxa303-week04-exploring-the-critiques-of-the-social-model-of-disability.md)
+- [fxa303-week04-unconscious-bias-and-the-medical-model-how-the-social-model](../sources/fxa303-week04-unconscious-bias-and-the-medical-model-how-the-social-model.md)
+- [fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental](../sources/fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental.md)

@@ -24,16 +24,16 @@ This academic chapter discusses the roles of participants in musical production 
 
 ## Key Concepts
 
-- [[../topics/participant-roles-in-music]]
-- [[../topics/timbre-manipulation]]
-- [[../topics/genre-defined-roles]]
+- [participant-roles-in-music](../topics/participant-roles-in-music.md)
+- [timbre-manipulation](../topics/timbre-manipulation.md)
+- [genre-defined-roles](../topics/genre-defined-roles.md)
 
 ## Tags
 
-- [[../tags/musical-production]]
-- [[../tags/cultural-integration]]
-- [[../tags/event-organization]]
-- [[../tags/fxa301]]
+- [musical-production](../tags/musical-production.md)
+- [cultural-integration](../tags/cultural-integration.md)
+- [event-organization](../tags/event-organization.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ This academic chapter discusses the roles of participants in musical production 
 
 ## See Also
 
-- [[../topics/cultural-integration]]
-- [[../topics/musical-production]]
+- [cultural-integration](../topics/cultural-integration.md)
+- [musical-production](../topics/musical-production.md)

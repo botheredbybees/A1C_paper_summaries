@@ -26,5 +26,5 @@ Both sources highlight singing as an intervention for individuals with Chronic O
 
 ## Sources
 
-- [[../sources/fxa100-week04-singing-for-better-breathing-transcript]]
-- [[../sources/fxa100-week04-transcript-singing-for-better-breathing]]
+- [fxa100-week04-singing-for-better-breathing-transcript](../sources/fxa100-week04-singing-for-better-breathing-transcript.md)
+- [fxa100-week04-transcript-singing-for-better-breathing](../sources/fxa100-week04-transcript-singing-for-better-breathing.md)

@@ -27,6 +27,6 @@ The integration of trauma-informed practices across various therapeutic and comm
 
 ## Sources
 
-- [[../sources/fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts]]
-- [[../sources/fxa303-week09-lesson-fxa303-week09-activities]]
-- [[../sources/fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design]]
+- [fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts](../sources/fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts.md)
+- [fxa303-week09-lesson-fxa303-week09-activities](../sources/fxa303-week09-lesson-fxa303-week09-activities.md)
+- [fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design](../sources/fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design.md)

@@ -24,18 +24,18 @@ This transcript from Two-Minute Neuroscience introduces the concept of the brain
 
 ## Key Concepts
 
-- [[../topics/mesolimbic dopamine pathway]]
-- [[../topics/ventral tegmental area (VTA)]]
-- [[../topics/nucleus accumbens]]
+- [mesolimbic dopamine pathway](../topics/mesolimbic dopamine pathway.md)
+- [ventral tegmental area (VTA)](../topics/ventral tegmental area (VTA).md)
+- [nucleus accumbens](../topics/nucleus accumbens.md)
 
 ## Tags
 
-- [[../tags/neuroscience]]
-- [[../tags/reward-system]]
-- [[../tags/dopamine-pathways]]
-- [[../tags/brain-stem]]
-- [[../tags/nucleus-accumbens]]
-- [[../tags/fxa301]]
+- [neuroscience](../tags/neuroscience.md)
+- [reward-system](../tags/reward-system.md)
+- [dopamine-pathways](../tags/dopamine-pathways.md)
+- [brain-stem](../tags/brain-stem.md)
+- [nucleus-accumbens](../tags/nucleus-accumbens.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -43,4 +43,4 @@ This transcript from Two-Minute Neuroscience introduces the concept of the brain
 
 ## See Also
 
-- [[../topics/neuroscience]]
+- [neuroscience](../topics/neuroscience.md)

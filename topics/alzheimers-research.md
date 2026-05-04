@@ -26,5 +26,5 @@ Research indicates that creative therapies such as music and art can significant
 
 ## Sources
 
-- [[../sources/fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients]]
-- [[../sources/fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people]]
+- [fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients](../sources/fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients.md)
+- [fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people](../sources/fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people.md)

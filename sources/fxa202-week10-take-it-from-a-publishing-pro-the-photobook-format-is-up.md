@@ -24,15 +24,15 @@ Lesley Martin, publisher of Aperture's book program and The PhotoBook Review, di
 
 ## Key Concepts
 
-- [[../topics/self-publishing-practices]]
-- [[../topics/contemporary-photography]]
+- [self-publishing-practices](../topics/self-publishing-practices.md)
+- [contemporary-photography](../topics/contemporary-photography.md)
 
 ## Tags
 
-- [[../tags/photobook-format]]
-- [[../tags/publishing-industry]]
-- [[../tags/cultural-trends]]
-- [[../tags/fxa202]]
+- [photobook-format](../tags/photobook-format.md)
+- [publishing-industry](../tags/publishing-industry.md)
+- [cultural-trends](../tags/cultural-trends.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

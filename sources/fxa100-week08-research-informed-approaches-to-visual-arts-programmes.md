@@ -24,23 +24,23 @@ The 'Research-Informed Approaches to Visual Arts Programmes' handbook by the Dem
 
 ## Key Concepts
 
-- [[../topics/dementia-friendly-communities]]
-- [[../topics/multi-sensory-stimulation]]
-- [[../topics/personal-resilience]]
+- [dementia-friendly-communities](../topics/dementia-friendly-communities.md)
+- [multi-sensory-stimulation](../topics/multi-sensory-stimulation.md)
+- [personal-resilience](../topics/personal-resilience.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/visual-arts-intervention]]
-- [[../tags/wellbeing-enhancement]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [visual-arts-intervention](../tags/visual-arts-intervention.md)
+- [wellbeing-enhancement](../tags/wellbeing-enhancement.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/visual-arts-intervention]]
-- [[../topics/wellbeing-enhancement]]
+- [dementia-care](../topics/dementia-care.md)
+- [visual-arts-intervention](../topics/visual-arts-intervention.md)
+- [wellbeing-enhancement](../topics/wellbeing-enhancement.md)

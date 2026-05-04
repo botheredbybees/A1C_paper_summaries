@@ -24,22 +24,22 @@ This pilot study explores the feasibility and preliminary effects of a ballet-ba
 
 ## Key Concepts
 
-- [[../topics/relapsing–remitting multiple sclerosis (RRMS)]]
-- [[../topics/ballet-based group dance intervention]]
+- [relapsing–remitting multiple sclerosis (RRMS)](../topics/relapsing–remitting multiple sclerosis (RRMS).md)
+- [ballet-based group dance intervention](../topics/ballet-based group dance intervention.md)
 
 ## Tags
 
-- [[../tags/multiple-sclerosis-research]]
-- [[../tags/dance-therapy-intervention]]
-- [[../tags/pilot-study-methods]]
-- [[../tags/physical-function-improvement]]
-- [[../tags/cognitive-enhancement]]
-- [[../tags/fxa301]]
+- [multiple-sclerosis-research](../tags/multiple-sclerosis-research.md)
+- [dance-therapy-intervention](../tags/dance-therapy-intervention.md)
+- [pilot-study-methods](../tags/pilot-study-methods.md)
+- [physical-function-improvement](../tags/physical-function-improvement.md)
+- [cognitive-enhancement](../tags/cognitive-enhancement.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[pilot study]]
+- [pilot study](pilot study.md)
 
 ## See Also
 
-- [[../topics/cognitive-enhancement]]
+- [cognitive-enhancement](../topics/cognitive-enhancement.md)

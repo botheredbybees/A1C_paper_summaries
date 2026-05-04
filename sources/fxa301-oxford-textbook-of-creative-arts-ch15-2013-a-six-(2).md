@@ -24,17 +24,17 @@ The chapter discusses the Active Energy project, an initiative aimed at enhancin
 
 ## Key Concepts
 
-- [[../topics/quality-of-life]]
-- [[../topics/participatory-art]]
-- [[../topics/community-value]]
+- [quality-of-life](../topics/quality-of-life.md)
+- [participatory-art](../topics/participatory-art.md)
+- [community-value](../topics/community-value.md)
 
 ## Tags
 
-- [[../tags/creative-arts]]
-- [[../tags/elderly-wellbeing]]
-- [[../tags/community-engagement]]
-- [[../tags/renewable-energy]]
-- [[../tags/fxa301]]
+- [creative-arts](../tags/creative-arts.md)
+- [elderly-wellbeing](../tags/elderly-wellbeing.md)
+- [community-engagement](../tags/community-engagement.md)
+- [renewable-energy](../tags/renewable-energy.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -42,6 +42,6 @@ The chapter discusses the Active Energy project, an initiative aimed at enhancin
 
 ## See Also
 
-- [[../topics/creative-arts]]
-- [[../topics/elderly-wellbeing]]
-- [[../topics/renewable-energy]]
+- [creative-arts](../topics/creative-arts.md)
+- [elderly-wellbeing](../topics/elderly-wellbeing.md)
+- [renewable-energy](../topics/renewable-energy.md)

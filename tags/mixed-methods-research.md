@@ -6,5 +6,5 @@ updated: 2026-05-04
 
 ## Mixed Methods Research
 
-- [[../sources/fxa100-week01-ai-tools-in-society-impacts-on-cognitive-offloading-and-the|AI Tools in Society: Impacts on Cognitive Offloading and the Future of Critical Thinking]]
-- [[../sources/fxa100-week06-dementia-and-imagination-a-mixed-methods-protocol-for-arts|Dementia and Imagination: a mixed-methods protocol for arts and science research]]
+- [AI Tools in Society: Impacts on Cognitive Offloading and the Future of Critical Thinking](../sources/fxa100-week01-ai-tools-in-society-impacts-on-cognitive-offloading-and-the.md)
+- [Dementia and Imagination: a mixed-methods protocol for arts and science research](../sources/fxa100-week06-dementia-and-imagination-a-mixed-methods-protocol-for-arts.md)

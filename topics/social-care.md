@@ -26,5 +26,5 @@ The concept of creative health emerges as a significant intervention within soci
 
 ## Sources
 
-- [[../sources/fxa301-week03-implementing-creative-health]]
-- [[../sources/fxa301-week03-web-article-national-2024]]
+- [fxa301-week03-implementing-creative-health](../sources/fxa301-week03-implementing-creative-health.md)
+- [fxa301-week03-web-article-national-2024](../sources/fxa301-week03-web-article-national-2024.md)

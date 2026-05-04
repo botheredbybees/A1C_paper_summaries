@@ -24,23 +24,23 @@ The book 'Singing and Wellbeing: Ancient Wisdom, Modern Proof' by Kay Norton exp
 
 ## Key Concepts
 
-- [[../topics/neuroplasticity]]
-- [[../topics/interdisciplinary-research]]
-- [[../topics/cultural-significance]]
+- [neuroplasticity](../topics/neuroplasticity.md)
+- [interdisciplinary-research](../topics/interdisciplinary-research.md)
+- [cultural-significance](../topics/cultural-significance.md)
 
 ## Tags
 
-- [[../tags/singing-wellbeing]]
-- [[../tags/vocal-therapy]]
-- [[../tags/brain-function]]
-- [[../tags/community-bonding]]
-- [[../tags/therapeutic-potential]]
-- [[../tags/fxa301]]
+- [singing-wellbeing](../tags/singing-wellbeing.md)
+- [vocal-therapy](../tags/vocal-therapy.md)
+- [brain-function](../tags/brain-function.md)
+- [community-bonding](../tags/community-bonding.md)
+- [therapeutic-potential](../tags/therapeutic-potential.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/brain-function]]
+- [brain-function](../topics/brain-function.md)

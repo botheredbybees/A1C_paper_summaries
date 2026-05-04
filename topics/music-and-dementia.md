@@ -27,6 +27,6 @@ The integration of music therapy within dementia care has been shown to yield si
 
 ## Sources
 
-- [[../sources/fxa100-week02-lesson-fxa100-week02-page-1-welcome-to-week2]]
-- [[../sources/fxa100-week03-transcript-power-of-music-dementia-beatie-wolfe-the-utley]]
-- [[../sources/fxa100-week09-people-with-dementia-as-spect-actors-in-a-musical-theatre]]
+- [fxa100-week02-lesson-fxa100-week02-page-1-welcome-to-week2](../sources/fxa100-week02-lesson-fxa100-week02-page-1-welcome-to-week2.md)
+- [fxa100-week03-transcript-power-of-music-dementia-beatie-wolfe-the-utley](../sources/fxa100-week03-transcript-power-of-music-dementia-beatie-wolfe-the-utley.md)
+- [fxa100-week09-people-with-dementia-as-spect-actors-in-a-musical-theatre](../sources/fxa100-week09-people-with-dementia-as-spect-actors-in-a-musical-theatre.md)

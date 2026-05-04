@@ -26,5 +26,5 @@ The utilization of humor and laughter as interventions for stress reduction is e
 
 ## Sources
 
-- [[../sources/fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults]]
-- [[../sources/fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine]]
+- [fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults](../sources/fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults.md)
+- [fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine](../sources/fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine.md)

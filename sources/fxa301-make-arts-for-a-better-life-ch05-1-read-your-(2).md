@@ -26,24 +26,24 @@ The text also delves into the history and practical aspects of audio-visual reco
 
 ## Key Concepts
 
-- [[../topics/verbatim principle]]
-- [[../topics/concrete principle]]
-- [[../topics/cultural themes identification]]
+- [verbatim principle](../topics/verbatim principle.md)
+- [concrete principle](../topics/concrete principle.md)
+- [cultural themes identification](../topics/cultural themes identification.md)
 
 ## Tags
 
-- [[../tags/ethnomusicology]]
-- [[../tags/fieldwork-methods]]
-- [[../tags/documentary-ethics]]
-- [[../tags/fxa301]]
+- [ethnomusicology](../tags/ethnomusicology.md)
+- [fieldwork-methods](../tags/fieldwork-methods.md)
+- [documentary-ethics](../tags/documentary-ethics.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[audio recording]]
-- [[videorecording]]
-- [[fieldnote analysis]]
+- [audio recording](audio recording.md)
+- [videorecording](videorecording.md)
+- [fieldnote analysis](fieldnote analysis.md)
 
 ## See Also
 
-- [[../topics/ethnomusicology]]
-- [[../topics/fieldwork-methods]]
+- [ethnomusicology](../topics/ethnomusicology.md)
+- [fieldwork-methods](../topics/fieldwork-methods.md)

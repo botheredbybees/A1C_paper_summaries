@@ -28,7 +28,7 @@ The provided sources explore various frameworks and strategies within the realm 
 
 ## Sources
 
-- [[../sources/fxa100-week01-national-dementia-action-plan-indicators-dashboard]]
-- [[../sources/fxa301-week03-arts-public-health-and-the-national-arts-and-health]]
-- [[../sources/fxa301-week03-national-arts-and-health-framework]]
-- [[../sources/fxa303-week09-after-the-fires-looking-to-the-future-using-the-lessons]]
+- [fxa100-week01-national-dementia-action-plan-indicators-dashboard](../sources/fxa100-week01-national-dementia-action-plan-indicators-dashboard.md)
+- [fxa301-week03-arts-public-health-and-the-national-arts-and-health](../sources/fxa301-week03-arts-public-health-and-the-national-arts-and-health.md)
+- [fxa301-week03-national-arts-and-health-framework](../sources/fxa301-week03-national-arts-and-health-framework.md)
+- [fxa303-week09-after-the-fires-looking-to-the-future-using-the-lessons](../sources/fxa303-week09-after-the-fires-looking-to-the-future-using-the-lessons.md)

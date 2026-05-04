@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Clowndoctors
 
-- [[../sources/fxa303-week08-hospital-clowning-as-play-stimulus-in-healthcare|Hospital Clowning as Play Stimulus in Healthcare]]
+- [Hospital Clowning as Play Stimulus in Healthcare](../sources/fxa303-week08-hospital-clowning-as-play-stimulus-in-healthcare.md)

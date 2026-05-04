@@ -24,15 +24,15 @@ Week 9 of the FXA301 Arts in the Community course includes activities focused on
 
 ## Key Concepts
 
-- [[../topics/social-model-of-disability]]
-- [[../topics/creative-arts-benefits-for-disabilities]]
+- [social-model-of-disability](../topics/social-model-of-disability.md)
+- [creative-arts-benefits-for-disabilities](../topics/creative-arts-benefits-for-disabilities.md)
 
 ## Tags
 
-- [[../tags/arts-in-community]]
-- [[../tags/disability-awareness]]
-- [[../tags/inclusive-practice]]
-- [[../tags/fxa301]]
+- [arts-in-community](../tags/arts-in-community.md)
+- [disability-awareness](../tags/disability-awareness.md)
+- [inclusive-practice](../tags/inclusive-practice.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -40,5 +40,5 @@ Week 9 of the FXA301 Arts in the Community course includes activities focused on
 
 ## See Also
 
-- [[../topics/arts-in-community]]
-- [[../topics/disability-awareness]]
+- [arts-in-community](../topics/arts-in-community.md)
+- [disability-awareness](../topics/disability-awareness.md)

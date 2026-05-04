@@ -32,25 +32,25 @@ In summary, TICPOT offers practical guidance for mental health organizations see
 
 ## Key Concepts
 
-- [[../topics/trauma-informed-principles]]
-- [[../topics/sustainable-culture]]
-- [[../topics/quality-improvement-plan]]
+- [trauma-informed-principles](../topics/trauma-informed-principles.md)
+- [sustainable-culture](../topics/sustainable-culture.md)
+- [quality-improvement-plan](../topics/quality-improvement-plan.md)
 
 ## Tags
 
-- [[../tags/trauma-informed-care]]
-- [[../tags/organizational-change]]
-- [[../tags/mental-health-practices]]
-- [[../tags/implementation-strategies]]
-- [[../tags/workforce-development]]
-- [[../tags/fxa303]]
+- [trauma-informed-care](../tags/trauma-informed-care.md)
+- [organizational-change](../tags/organizational-change.md)
+- [mental-health-practices](../tags/mental-health-practices.md)
+- [implementation-strategies](../tags/implementation-strategies.md)
+- [workforce-development](../tags/workforce-development.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[toolkit-guidance]]
+- [toolkit-guidance](toolkit-guidance.md)
 
 ## See Also
 
-- [[../topics/organizational-change]]
-- [[../topics/trauma-informed-care]]
-- [[../topics/workforce-development]]
+- [organizational-change](../topics/organizational-change.md)
+- [trauma-informed-care](../topics/trauma-informed-care.md)
+- [workforce-development](../topics/workforce-development.md)

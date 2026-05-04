@@ -26,26 +26,26 @@ The document 'Nurturing the Heart: Creativity, Art Therapy and Dementia' by Patr
 
 ## Key Concepts
 
-- [[../topics/creativity]]
-- [[../topics/art therapy]]
-- [[../topics/quality of life]]
+- [creativity](../topics/creativity.md)
+- [art therapy](../topics/art therapy.md)
+- [quality of life](../topics/quality of life.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/art-therapy]]
-- [[../tags/creative-expression]]
-- [[../tags/mental-well-being]]
-- [[../tags/cognitive-enhancement]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [art-therapy](../tags/art-therapy.md)
+- [creative-expression](../tags/creative-expression.md)
+- [mental-well-being](../tags/mental-well-being.md)
+- [cognitive-enhancement](../tags/cognitive-enhancement.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/cognitive-enhancement]]
-- [[../topics/creative-expression]]
-- [[../topics/dementia-care]]
-- [[../topics/mental-well-being]]
+- [cognitive-enhancement](../topics/cognitive-enhancement.md)
+- [creative-expression](../topics/creative-expression.md)
+- [dementia-care](../topics/dementia-care.md)
+- [mental-well-being](../topics/mental-well-being.md)

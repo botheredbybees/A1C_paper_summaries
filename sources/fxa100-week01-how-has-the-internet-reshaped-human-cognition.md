@@ -24,21 +24,21 @@ The article by Loh and Kanai explores how the advent of the Internet has profoun
 
 ## Key Concepts
 
-- [[../topics/sustained-attention-decline]]
-- [[../topics/multitasking-increases]]
-- [[../topics/brain-structural-modifications]]
+- [sustained-attention-decline](../topics/sustained-attention-decline.md)
+- [multitasking-increases](../topics/multitasking-increases.md)
+- [brain-structural-modifications](../topics/brain-structural-modifications.md)
 
 ## Tags
 
-- [[../tags/digital-native-cognition]]
-- [[../tags/internet-impact-on-brain]]
-- [[../tags/cognitive-behavior-shifts]]
-- [[../tags/fxa100]]
+- [digital-native-cognition](../tags/digital-native-cognition.md)
+- [internet-impact-on-brain](../tags/internet-impact-on-brain.md)
+- [cognitive-behavior-shifts](../tags/cognitive-behavior-shifts.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[neuroimaging-studies]]
-- [[cross-generational-comparison]]
+- [neuroimaging-studies](neuroimaging-studies.md)
+- [cross-generational-comparison](cross-generational-comparison.md)
 
 ## See Also
 

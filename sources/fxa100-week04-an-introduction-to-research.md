@@ -24,23 +24,23 @@ This chapter explores the role of research in arts and health interventions, que
 
 ## Key Concepts
 
-- [[../topics/rigorous-scientific-investigation]]
-- [[../topics/mechanisms-of-impact]]
-- [[../topics/evaluation-versus-research]]
+- [rigorous-scientific-investigation](../topics/rigorous-scientific-investigation.md)
+- [mechanisms-of-impact](../topics/mechanisms-of-impact.md)
+- [evaluation-versus-research](../topics/evaluation-versus-research.md)
 
 ## Tags
 
-- [[../tags/arts-and-health]]
-- [[../tags/research-methods]]
-- [[../tags/health-interventions]]
-- [[../tags/fxa100]]
+- [arts-and-health](../tags/arts-and-health.md)
+- [research-methods](../tags/research-methods.md)
+- [health-interventions](../tags/health-interventions.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/arts-and-health]]
-- [[../topics/health-interventions]]
-- [[../topics/research-methods]]
+- [arts-and-health](../topics/arts-and-health.md)
+- [health-interventions](../topics/health-interventions.md)
+- [research-methods](../topics/research-methods.md)

@@ -28,26 +28,26 @@ The document argues that creative health must be available to everyone without r
 
 ## Key Concepts
 
-- [[../topics/creative health]]
-- [[../topics/holistic view of health]]
-- [[../topics/equitable access to healthcare]]
+- [creative health](../topics/creative health.md)
+- [holistic view of health](../topics/holistic view of health.md)
+- [equitable access to healthcare](../topics/equitable access to healthcare.md)
 
 ## Tags
 
-- [[../tags/creative-health]]
-- [[../tags/wellbeing-through-art]]
-- [[../tags/social-determinants-of-health]]
-- [[../tags/health-equality]]
-- [[../tags/community-wellbeing]]
-- [[../tags/fxa301]]
+- [creative-health](../tags/creative-health.md)
+- [wellbeing-through-art](../tags/wellbeing-through-art.md)
+- [social-determinants-of-health](../tags/social-determinants-of-health.md)
+- [health-equality](../tags/health-equality.md)
+- [community-wellbeing](../tags/community-wellbeing.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/community-wellbeing]]
-- [[../topics/creative-health]]
-- [[../topics/social-determinants-of-health]]
-- [[../topics/wellbeing-through-art]]
+- [community-wellbeing](../topics/community-wellbeing.md)
+- [creative-health](../topics/creative-health.md)
+- [social-determinants-of-health](../topics/social-determinants-of-health.md)
+- [wellbeing-through-art](../topics/wellbeing-through-art.md)

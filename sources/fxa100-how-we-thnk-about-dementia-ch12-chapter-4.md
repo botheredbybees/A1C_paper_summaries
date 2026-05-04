@@ -24,19 +24,19 @@ The chapter explores philosophical perspectives on dementia, emphasizing theorie
 
 ## Key Concepts
 
-- [[../topics/embodied selfhood]]
-- [[../topics/bodily autonomy]]
-- [[../topics/tacit knowledge]]
-- [[../topics/sedimentation of habits]]
+- [embodied selfhood](../topics/embodied selfhood.md)
+- [bodily autonomy](../topics/bodily autonomy.md)
+- [tacit knowledge](../topics/tacit knowledge.md)
+- [sedimentation of habits](../topics/sedimentation of habits.md)
 
 ## Tags
 
-- [[../tags/philosophy-of-mind]]
-- [[../tags/dementia-care]]
-- [[../tags/personhood-theory]]
-- [[../tags/tacit-knowledge]]
-- [[../tags/sedimentation]]
-- [[../tags/fxa100]]
+- [philosophy-of-mind](../tags/philosophy-of-mind.md)
+- [dementia-care](../tags/dementia-care.md)
+- [personhood-theory](../tags/personhood-theory.md)
+- [tacit-knowledge](../tags/tacit-knowledge.md)
+- [sedimentation](../tags/sedimentation.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -44,6 +44,6 @@ The chapter explores philosophical perspectives on dementia, emphasizing theorie
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/personhood-theory]]
-- [[../topics/philosophy-of-mind]]
+- [dementia-care](../topics/dementia-care.md)
+- [personhood-theory](../topics/personhood-theory.md)
+- [philosophy-of-mind](../topics/philosophy-of-mind.md)

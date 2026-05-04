@@ -26,5 +26,5 @@ The synthesis of the provided sources underscores how cultural programs and inte
 
 ## Sources
 
-- [[../sources/fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report]]
-- [[../sources/fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing]]
+- [fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report](../sources/fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report.md)
+- [fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing](../sources/fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing.md)

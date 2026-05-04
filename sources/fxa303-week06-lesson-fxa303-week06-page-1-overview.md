@@ -24,16 +24,16 @@ This week's lesson in FXA303 focuses on the use of puppets for enhancing mental 
 
 ## Key Concepts
 
-- [[../topics/coping strategies]]
-- [[../topics/therapeutic contexts]]
-- [[../topics/sustainable puppet making]]
+- [coping strategies](../topics/coping strategies.md)
+- [therapeutic contexts](../topics/therapeutic contexts.md)
+- [sustainable puppet making](../topics/sustainable puppet making.md)
 
 ## Tags
 
-- [[../tags/creative-arts]]
-- [[../tags/mental-wellbeing]]
-- [[../tags/puppet-theatre]]
-- [[../tags/fxa303]]
+- [creative-arts](../tags/creative-arts.md)
+- [mental-wellbeing](../tags/mental-wellbeing.md)
+- [puppet-theatre](../tags/puppet-theatre.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
@@ -41,6 +41,6 @@ This week's lesson in FXA303 focuses on the use of puppets for enhancing mental 
 
 ## See Also
 
-- [[../topics/creative-arts]]
-- [[../topics/mental-wellbeing]]
-- [[../topics/puppet-theatre]]
+- [creative-arts](../topics/creative-arts.md)
+- [mental-wellbeing](../topics/mental-wellbeing.md)
+- [puppet-theatre](../topics/puppet-theatre.md)

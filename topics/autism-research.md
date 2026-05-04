@@ -26,5 +26,5 @@ The exploration of autism spectrum disorders (ASD) reveals a complex interplay b
 
 ## Sources
 
-- [[../sources/fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on]]
-- [[../sources/fxa303-week04-neurobiology-of-autism-spectrum-disorders]]
+- [fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on](../sources/fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on.md)
+- [fxa303-week04-neurobiology-of-autism-spectrum-disorders](../sources/fxa303-week04-neurobiology-of-autism-spectrum-disorders.md)

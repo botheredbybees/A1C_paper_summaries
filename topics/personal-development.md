@@ -26,5 +26,5 @@ The integration of reflective journaling and expressive writing reveals a consis
 
 ## Sources
 
-- [[../sources/fxa202-week09-journaling-books-review]]
-- [[../sources/fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental]]
+- [fxa202-week09-journaling-books-review](../sources/fxa202-week09-journaling-books-review.md)
+- [fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental](../sources/fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental.md)

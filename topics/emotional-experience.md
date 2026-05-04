@@ -26,5 +26,5 @@ The concept of emotional experience through music is a multifaceted phenomenon t
 
 ## Sources
 
-- [[../sources/fxa301-week01-lesson-fxa301-week01-chapter-3-music-and-the-damaged]]
-- [[../sources/fxa301-week02-empathy-manipulation-impacts-music-induced-emotions-a]]
+- [fxa301-week01-lesson-fxa301-week01-chapter-3-music-and-the-damaged](../sources/fxa301-week01-lesson-fxa301-week01-chapter-3-music-and-the-damaged.md)
+- [fxa301-week02-empathy-manipulation-impacts-music-induced-emotions-a](../sources/fxa301-week02-empathy-manipulation-impacts-music-induced-emotions-a.md)

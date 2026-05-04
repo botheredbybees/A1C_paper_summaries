@@ -26,5 +26,5 @@ The exploration of cultural storytelling through puppetry reveals a multifaceted
 
 ## Sources
 
-- [[../sources/fxa303-week05-fxa303-week-5-welcome]]
-- [[../sources/fxa303-week05-puppets-and-self-care-for-task-2]]
+- [fxa303-week05-fxa303-week-5-welcome](../sources/fxa303-week05-fxa303-week-5-welcome.md)
+- [fxa303-week05-puppets-and-self-care-for-task-2](../sources/fxa303-week05-puppets-and-self-care-for-task-2.md)

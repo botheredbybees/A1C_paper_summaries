@@ -27,6 +27,6 @@ The integration of various healthcare improvement strategies reveals a convergin
 
 ## Sources
 
-- [[../sources/fxa100-week04-conceptualizing-and-planning-interventions]]
-- [[../sources/fxa301-week08-impact-summary-clown-doctors-australia]]
-- [[../sources/fxa301-week08-social-impact-report-year-to-30-june-2025]]
+- [fxa100-week04-conceptualizing-and-planning-interventions](../sources/fxa100-week04-conceptualizing-and-planning-interventions.md)
+- [fxa301-week08-impact-summary-clown-doctors-australia](../sources/fxa301-week08-impact-summary-clown-doctors-australia.md)
+- [fxa301-week08-social-impact-report-year-to-30-june-2025](../sources/fxa301-week08-social-impact-report-year-to-30-june-2025.md)

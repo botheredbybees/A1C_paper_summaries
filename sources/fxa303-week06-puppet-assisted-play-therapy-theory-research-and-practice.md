@@ -25,26 +25,26 @@ Cheryl Hulburd's book 'Puppet-Assisted Play Therapy' offers an innovative approa
 
 ## Key Concepts
 
-- [[../topics/theoretical-underpinnings-of-play-therapy]]
-- [[../topics/therapeutic-engagement-through-puppets]]
+- [theoretical-underpinnings-of-play-therapy](../topics/theoretical-underpinnings-of-play-therapy.md)
+- [therapeutic-engagement-through-puppets](../topics/therapeutic-engagement-through-puppets.md)
 
 ## Tags
 
-- [[../tags/puppet-therapy]]
-- [[../tags/child-psychology]]
-- [[../tags/play-therapy]]
-- [[../tags/emotional-expression]]
-- [[../tags/creative-interventions]]
-- [[../tags/fxa303]]
+- [puppet-therapy](../tags/puppet-therapy.md)
+- [child-psychology](../tags/child-psychology.md)
+- [play-therapy](../tags/play-therapy.md)
+- [emotional-expression](../tags/emotional-expression.md)
+- [creative-interventions](../tags/creative-interventions.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-studies]]
+- [case-studies](case-studies.md)
 
 ## See Also
 
-- [[../topics/child-psychology]]
-- [[../topics/creative-interventions]]
-- [[../topics/emotional-expression]]
-- [[../topics/play-therapy]]
-- [[../topics/puppet-therapy]]
+- [child-psychology](../topics/child-psychology.md)
+- [creative-interventions](../topics/creative-interventions.md)
+- [emotional-expression](../topics/emotional-expression.md)
+- [play-therapy](../topics/play-therapy.md)
+- [puppet-therapy](../topics/puppet-therapy.md)

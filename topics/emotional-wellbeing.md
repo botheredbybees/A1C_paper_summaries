@@ -37,16 +37,16 @@ The integration of music therapy in enhancing emotional wellbeing is a recurring
 
 ## Sources
 
-- [[../sources/fxa100-week03-lesson-fxa100-week03-page-1-welcome-to-week-3]]
-- [[../sources/fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care]]
-- [[../sources/fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care]]
-- [[../sources/fxa100-week04-music-therapy-and-dementia-video-transcript]]
-- [[../sources/fxa202-week06-winding-paths-a-photo-essay-on-emotional-health-during]]
-- [[../sources/fxa202-week09-5-benefits-of-journaling-for-mental-health]]
-- [[../sources/fxa202-week09-noticing-a-photo-essay]]
-- [[../sources/fxa301-week05-art-making-and-illness-two-case-studies]]
-- [[../sources/fxa301-week06-the-dance-of-wellbeing-defining-the-musical-therapeutic]]
-- [[../sources/fxa303-week02-developmental-role-of-creative-arts-and-play]]
-- [[../sources/fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview]]
-- [[../sources/fxa303-week08-physiological-and-emotional-responses-of-disabled-children]]
-- [[../sources/fxa303-week08-the-effect-of-medicaltherapeutic-clowns-on-the-playfulness]]
+- [fxa100-week03-lesson-fxa100-week03-page-1-welcome-to-week-3](../sources/fxa100-week03-lesson-fxa100-week03-page-1-welcome-to-week-3.md)
+- [fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care](../sources/fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care.md)
+- [fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care](../sources/fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care.md)
+- [fxa100-week04-music-therapy-and-dementia-video-transcript](../sources/fxa100-week04-music-therapy-and-dementia-video-transcript.md)
+- [fxa202-week06-winding-paths-a-photo-essay-on-emotional-health-during](../sources/fxa202-week06-winding-paths-a-photo-essay-on-emotional-health-during.md)
+- [fxa202-week09-5-benefits-of-journaling-for-mental-health](../sources/fxa202-week09-5-benefits-of-journaling-for-mental-health.md)
+- [fxa202-week09-noticing-a-photo-essay](../sources/fxa202-week09-noticing-a-photo-essay.md)
+- [fxa301-week05-art-making-and-illness-two-case-studies](../sources/fxa301-week05-art-making-and-illness-two-case-studies.md)
+- [fxa301-week06-the-dance-of-wellbeing-defining-the-musical-therapeutic](../sources/fxa301-week06-the-dance-of-wellbeing-defining-the-musical-therapeutic.md)
+- [fxa303-week02-developmental-role-of-creative-arts-and-play](../sources/fxa303-week02-developmental-role-of-creative-arts-and-play.md)
+- [fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview](../sources/fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview.md)
+- [fxa303-week08-physiological-and-emotional-responses-of-disabled-children](../sources/fxa303-week08-physiological-and-emotional-responses-of-disabled-children.md)
+- [fxa303-week08-the-effect-of-medicaltherapeutic-clowns-on-the-playfulness](../sources/fxa303-week08-the-effect-of-medicaltherapeutic-clowns-on-the-playfulness.md)

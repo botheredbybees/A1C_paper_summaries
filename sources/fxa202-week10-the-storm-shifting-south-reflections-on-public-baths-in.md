@@ -24,24 +24,24 @@ The text is a reflective poem about visiting public baths during winter amidst a
 
 ## Key Concepts
 
-- [[../topics/mental-health]]
-- [[../topics/natural-elements]]
-- [[../topics/historical-architecture]]
-- [[../topics/personal-memory]]
+- [mental-health](../topics/mental-health.md)
+- [natural-elements](../topics/natural-elements.md)
+- [historical-architecture](../topics/historical-architecture.md)
+- [personal-memory](../topics/personal-memory.md)
 
 ## Tags
 
-- [[../tags/public-baths]]
-- [[../tags/winter-experience]]
-- [[../tags/global-pandemic]]
-- [[../tags/therapeutic-environments]]
-- [[../tags/poetic-reflection]]
-- [[../tags/sensory-landscape]]
-- [[../tags/fxa202]]
+- [public-baths](../tags/public-baths.md)
+- [winter-experience](../tags/winter-experience.md)
+- [global-pandemic](../tags/global-pandemic.md)
+- [therapeutic-environments](../tags/therapeutic-environments.md)
+- [poetic-reflection](../tags/poetic-reflection.md)
+- [sensory-landscape](../tags/sensory-landscape.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[poetry]]
+- [poetry](poetry.md)
 
 ## See Also
 

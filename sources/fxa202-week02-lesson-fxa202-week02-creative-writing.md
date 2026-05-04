@@ -28,16 +28,16 @@ This lesson on photo essays explains the role of captions in enhancing visual st
 
 ## Key Concepts
 
-- [[../topics/five-ws]]
-- [[../topics/active-voice]]
-- [[../topics/creative-captions]]
+- [five-ws](../topics/five-ws.md)
+- [active-voice](../topics/active-voice.md)
+- [creative-captions](../topics/creative-captions.md)
 
 ## Tags
 
-- [[../tags/photo-essays]]
-- [[../tags/captions]]
-- [[../tags/storytelling-with-images]]
-- [[../tags/fxa202]]
+- [photo-essays](../tags/photo-essays.md)
+- [captions](../tags/captions.md)
+- [storytelling-with-images](../tags/storytelling-with-images.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
@@ -45,4 +45,4 @@ This lesson on photo essays explains the role of captions in enhancing visual st
 
 ## See Also
 
-- [[../topics/photo-essays]]
+- [photo-essays](../topics/photo-essays.md)

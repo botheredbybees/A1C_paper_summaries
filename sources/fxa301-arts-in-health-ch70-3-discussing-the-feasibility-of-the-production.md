@@ -24,16 +24,16 @@ This academic chapter discusses the importance and structure of research protoco
 
 ## Key Concepts
 
-- [[../topics/rationale]]
-- [[../topics/feasibility]]
-- [[../topics/ethics-committee]]
+- [rationale](../topics/rationale.md)
+- [feasibility](../topics/feasibility.md)
+- [ethics-committee](../topics/ethics-committee.md)
 
 ## Tags
 
-- [[../tags/research-protocols]]
-- [[../tags/scientific-methods]]
-- [[../tags/ethics-in-research]]
-- [[../tags/fxa301]]
+- [research-protocols](../tags/research-protocols.md)
+- [scientific-methods](../tags/scientific-methods.md)
+- [ethics-in-research](../tags/ethics-in-research.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ This academic chapter discusses the importance and structure of research protoco
 
 ## See Also
 
-- [[../topics/ethics-in-research]]
-- [[../topics/research-protocols]]
+- [ethics-in-research](../topics/ethics-in-research.md)
+- [research-protocols](../topics/research-protocols.md)

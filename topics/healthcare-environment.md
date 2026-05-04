@@ -28,7 +28,7 @@ The integration of arts into healthcare settings is an evolving field that aims 
 
 ## Sources
 
-- [[../sources/fxa301-arts-in-health-ch19-36-abc-national-cultural-policy-submission]]
-- [[../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment]]
-- [[../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2)]]
-- [[../sources/fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults]]
+- [fxa301-arts-in-health-ch19-36-abc-national-cultural-policy-submission](../sources/fxa301-arts-in-health-ch19-36-abc-national-cultural-policy-submission.md)
+- [fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment.md)
+- [fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2)](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2).md)
+- [fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults](../sources/fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults.md)

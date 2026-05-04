@@ -26,5 +26,5 @@ The synthesis of gallery programs for dementia patients reveals a multifaceted a
 
 ## Sources
 
-- [[../sources/fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales]]
-- [[../sources/fxa100-week07-fxa100-week-7-lecture]]
+- [fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales](../sources/fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales.md)
+- [fxa100-week07-fxa100-week-7-lecture](../sources/fxa100-week07-fxa100-week-7-lecture.md)

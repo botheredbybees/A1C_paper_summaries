@@ -24,15 +24,15 @@ This lesson focuses on an exercise involving three poems by William Butler Yeats
 
 ## Key Concepts
 
-- [[../topics/personal-emotion-experience]]
-- [[../topics/sound-and-rhythm]]
+- [personal-emotion-experience](../topics/personal-emotion-experience.md)
+- [sound-and-rhythm](../topics/sound-and-rhythm.md)
 
 ## Tags
 
-- [[../tags/arts-in-community]]
-- [[../tags/poetry-analysis]]
-- [[../tags/emotional-reactions]]
-- [[../tags/fxa301]]
+- [arts-in-community](../tags/arts-in-community.md)
+- [poetry-analysis](../tags/poetry-analysis.md)
+- [emotional-reactions](../tags/emotional-reactions.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -40,5 +40,5 @@ This lesson focuses on an exercise involving three poems by William Butler Yeats
 
 ## See Also
 
-- [[../topics/arts-in-community]]
-- [[../topics/emotional-reactions]]
+- [arts-in-community](../topics/arts-in-community.md)
+- [emotional-reactions](../topics/emotional-reactions.md)

@@ -24,22 +24,22 @@ The document provides feedback on the photo essay assignment (AT2) for FXA202, f
 
 ## Key Concepts
 
-- [[../topics/narrative-progress]]
-- [[../topics/visual-storytelling]]
-- [[../topics/feedback-improvement]]
+- [narrative-progress](../topics/narrative-progress.md)
+- [visual-storytelling](../topics/visual-storytelling.md)
+- [feedback-improvement](../topics/feedback-improvement.md)
 
 ## Tags
 
-- [[../tags/storytelling-techniques]]
-- [[../tags/image-captions]]
-- [[../tags/photo-essay]]
-- [[../tags/fxa202]]
+- [storytelling-techniques](../tags/storytelling-techniques.md)
+- [image-captions](../tags/image-captions.md)
+- [photo-essay](../tags/photo-essay.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[lecture-feedback]]
+- [lecture-feedback](lecture-feedback.md)
 
 ## See Also
 
-- [[../topics/photo-essay]]
-- [[../topics/storytelling-techniques]]
+- [photo-essay](../topics/photo-essay.md)
+- [storytelling-techniques](../topics/storytelling-techniques.md)

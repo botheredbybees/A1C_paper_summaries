@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Inclusive Activities
 
-- [[../sources/fxa301-week06-brisbanes-pub-choir-movement-marks-first-year|Brisbane\u2019s Pub Choir movement marks first year]]
+- [Brisbane\u2019s Pub Choir movement marks first year](../sources/fxa301-week06-brisbanes-pub-choir-movement-marks-first-year.md)

@@ -26,5 +26,5 @@ The role of symbolic expression within therapeutic contexts is explored through 
 
 ## Sources
 
-- [[../sources/fxa303-week01-an-overview-of-play-therapy]]
-- [[../sources/fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy]]
+- [fxa303-week01-an-overview-of-play-therapy](../sources/fxa303-week01-an-overview-of-play-therapy.md)
+- [fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy](../sources/fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy.md)

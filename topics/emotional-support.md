@@ -29,8 +29,8 @@ The topic of emotional support in healthcare is explored through various interve
 
 ## Sources
 
-- [[../sources/fxa100-week03-transcript-power-of-music-dementia-beatie-wolfe-the-utley]]
-- [[../sources/fxa100-week06-transcript-art-therapy-has-many-faces]]
-- [[../sources/fxa303-week05-fxa303-week-5-welcome]]
-- [[../sources/fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns]]
-- [[../sources/fxa303-week08-the-life-threatened-child-and-the-life-enhancing-clown]]
+- [fxa100-week03-transcript-power-of-music-dementia-beatie-wolfe-the-utley](../sources/fxa100-week03-transcript-power-of-music-dementia-beatie-wolfe-the-utley.md)
+- [fxa100-week06-transcript-art-therapy-has-many-faces](../sources/fxa100-week06-transcript-art-therapy-has-many-faces.md)
+- [fxa303-week05-fxa303-week-5-welcome](../sources/fxa303-week05-fxa303-week-5-welcome.md)
+- [fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns](../sources/fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns.md)
+- [fxa303-week08-the-life-threatened-child-and-the-life-enhancing-clown](../sources/fxa303-week08-the-life-threatened-child-and-the-life-enhancing-clown.md)

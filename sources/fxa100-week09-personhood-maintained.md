@@ -24,25 +24,25 @@ The chapter 'Personhood Maintained' by Tom Kitwood addresses the evolving approa
 
 ## Key Concepts
 
-- [[../topics/personhood]]
-- [[../topics/therapeutic interventions]]
-- [[../topics/biographical knowledge]]
+- [personhood](../topics/personhood.md)
+- [therapeutic interventions](../topics/therapeutic interventions.md)
+- [biographical knowledge](../topics/biographical knowledge.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/person-centered-approach]]
-- [[../tags/therapeutic-interventions]]
-- [[../tags/reminiscence-work]]
-- [[../tags/social-factors]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [person-centered-approach](../tags/person-centered-approach.md)
+- [therapeutic-interventions](../tags/therapeutic-interventions.md)
+- [reminiscence-work](../tags/reminiscence-work.md)
+- [social-factors](../tags/social-factors.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/person-centered-approach]]
-- [[../topics/therapeutic-interventions]]
+- [dementia-care](../topics/dementia-care.md)
+- [person-centered-approach](../topics/person-centered-approach.md)
+- [therapeutic-interventions](../topics/therapeutic-interventions.md)

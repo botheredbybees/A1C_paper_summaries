@@ -30,23 +30,23 @@ Overall, the document underscores the significant role that contemporary art can
 
 ## Key Concepts
 
-- [[../topics/contemporary-art]]
-- [[../topics/engagement-through-art]]
-- [[../topics/cultural-inclusivity]]
+- [contemporary-art](../topics/contemporary-art.md)
+- [engagement-through-art](../topics/engagement-through-art.md)
+- [cultural-inclusivity](../topics/cultural-inclusivity.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/therapeutic-art]]
-- [[../tags/inclusive-education]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [therapeutic-art](../tags/therapeutic-art.md)
+- [inclusive-education](../tags/inclusive-education.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[program-design]]
+- [program-design](program-design.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/inclusive-education]]
-- [[../topics/therapeutic-art]]
+- [dementia-care](../topics/dementia-care.md)
+- [inclusive-education](../topics/inclusive-education.md)
+- [therapeutic-art](../topics/therapeutic-art.md)

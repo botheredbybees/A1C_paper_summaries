@@ -25,5 +25,5 @@ The integration of art as a therapeutic intervention for mental health issues is
 
 ## Sources
 
-- [[../sources/fxa202-week03-can-photography-help-depression]]
-- [[../sources/fxa301-week01-web-article-australia-2022]]
+- [fxa202-week03-can-photography-help-depression](../sources/fxa202-week03-can-photography-help-depression.md)
+- [fxa301-week01-web-article-australia-2022](../sources/fxa301-week01-web-article-australia-2022.md)

@@ -24,20 +24,20 @@ The article highlights the story of Josie Webster, a young Australian artist wit
 
 ## Key Concepts
 
-- [[../topics/Down-syndrome-inclusion]]
-- [[../topics/art-as-self-expression]]
-- [[../topics/societal-norm-challenge]]
+- [Down-syndrome-inclusion](../topics/Down-syndrome-inclusion.md)
+- [art-as-self-expression](../topics/art-as-self-expression.md)
+- [societal-norm-challenge](../topics/societal-norm-challenge.md)
 
 ## Tags
 
-- [[../tags/inclusive-art]]
-- [[../tags/disability-empowerment]]
-- [[../tags/international-exhibitions]]
-- [[../tags/fxa301]]
+- [inclusive-art](../tags/inclusive-art.md)
+- [disability-empowerment](../tags/disability-empowerment.md)
+- [international-exhibitions](../tags/international-exhibitions.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 

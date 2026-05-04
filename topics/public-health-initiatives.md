@@ -29,8 +29,8 @@ The integration of arts and culture into public health initiatives aims to enhan
 
 ## Sources
 
-- [[../sources/fxa301-oxford-textbook-of-creative-arts-ch23-1-a-research-project-that-examined-how-participation-can-be]]
-- [[../sources/fxa301-week03-cross-sector-strategies-for-health-and-community-well-being]]
-- [[../sources/fxa301-week03-how-do-we-realize-the-potential-of-the-arts-to-support]]
-- [[../sources/fxa301-week03-the-thrive-toolkit-tools-for-health-research-and-evaluation]]
-- [[../sources/fxa303-week03-mental-health-of-adolescents]]
+- [fxa301-oxford-textbook-of-creative-arts-ch23-1-a-research-project-that-examined-how-participation-can-be](../sources/fxa301-oxford-textbook-of-creative-arts-ch23-1-a-research-project-that-examined-how-participation-can-be.md)
+- [fxa301-week03-cross-sector-strategies-for-health-and-community-well-being](../sources/fxa301-week03-cross-sector-strategies-for-health-and-community-well-being.md)
+- [fxa301-week03-how-do-we-realize-the-potential-of-the-arts-to-support](../sources/fxa301-week03-how-do-we-realize-the-potential-of-the-arts-to-support.md)
+- [fxa301-week03-the-thrive-toolkit-tools-for-health-research-and-evaluation](../sources/fxa301-week03-the-thrive-toolkit-tools-for-health-research-and-evaluation.md)
+- [fxa303-week03-mental-health-of-adolescents](../sources/fxa303-week03-mental-health-of-adolescents.md)

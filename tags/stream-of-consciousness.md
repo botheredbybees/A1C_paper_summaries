@@ -6,5 +6,5 @@ updated: 2026-05-04
 
 ## Stream Of Consciousness
 
-- [[../sources/fxa202-week05-stream-of-consciousness|Stream of Consciousness]]
-- [[../sources/fxa202-week06-lesson-fxa202-week06-week-6|Visual Storytelling: Crafting Narratives Through Single Images]]
+- [Stream of Consciousness](../sources/fxa202-week05-stream-of-consciousness.md)
+- [Visual Storytelling: Crafting Narratives Through Single Images](../sources/fxa202-week06-lesson-fxa202-week06-week-6.md)

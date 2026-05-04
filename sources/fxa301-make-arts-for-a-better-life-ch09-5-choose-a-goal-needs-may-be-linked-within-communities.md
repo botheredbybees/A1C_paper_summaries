@@ -27,15 +27,15 @@ This chapter discusses the importance of community members identifying goals for
 
 ## Key Concepts
 
-- [[../topics/holistic approach]]
-- [[../topics/community ownership]]
+- [holistic approach](../topics/holistic approach.md)
+- [community ownership](../topics/community ownership.md)
 
 ## Tags
 
-- [[../tags/community-engagement]]
-- [[../tags/arts-for-social-change]]
-- [[../tags/goal-setting]]
-- [[../tags/fxa301]]
+- [community-engagement](../tags/community-engagement.md)
+- [arts-for-social-change](../tags/arts-for-social-change.md)
+- [goal-setting](../tags/goal-setting.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

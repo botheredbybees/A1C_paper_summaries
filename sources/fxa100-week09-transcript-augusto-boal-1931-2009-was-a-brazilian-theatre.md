@@ -24,15 +24,15 @@ The transcript discusses the life and work of Augusto Boal, a Brazilian theatre 
 
 ## Key Concepts
 
-- [[../topics/theatre-as-political-tool]]
-- [[../topics/voice-for-underrepresented-groups]]
+- [theatre-as-political-tool](../topics/theatre-as-political-tool.md)
+- [voice-for-underrepresented-groups](../topics/voice-for-underrepresented-groups.md)
 
 ## Tags
 
-- [[../tags/brazilian-theater]]
-- [[../tags/political-activism]]
-- [[../tags/theatre-of-the-oppressed]]
-- [[../tags/fxa100]]
+- [brazilian-theater](../tags/brazilian-theater.md)
+- [political-activism](../tags/political-activism.md)
+- [theatre-of-the-oppressed](../tags/theatre-of-the-oppressed.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ The transcript discusses the life and work of Augusto Boal, a Brazilian theatre 
 
 ## See Also
 
-- [[../topics/theatre-of-the-oppressed]]
+- [theatre-of-the-oppressed](../topics/theatre-of-the-oppressed.md)

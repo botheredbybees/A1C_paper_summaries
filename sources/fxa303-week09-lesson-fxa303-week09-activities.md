@@ -24,16 +24,16 @@ This week's lesson focuses on resources and networks supporting mental wellbeing
 
 ## Key Concepts
 
-- [[../topics/psychological-first-aid]]
-- [[../topics/creative-interventions]]
-- [[../topics/community-recovery]]
+- [psychological-first-aid](../topics/psychological-first-aid.md)
+- [creative-interventions](../topics/creative-interventions.md)
+- [community-recovery](../topics/community-recovery.md)
 
 ## Tags
 
-- [[../tags/creative-recovery-network]]
-- [[../tags/trauma-informed-practice]]
-- [[../tags/disaster-mental-health]]
-- [[../tags/fxa303]]
+- [creative-recovery-network](../tags/creative-recovery-network.md)
+- [trauma-informed-practice](../tags/trauma-informed-practice.md)
+- [disaster-mental-health](../tags/disaster-mental-health.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
@@ -41,4 +41,4 @@ This week's lesson focuses on resources and networks supporting mental wellbeing
 
 ## See Also
 
-- [[../topics/trauma-informed-practice]]
+- [trauma-informed-practice](../topics/trauma-informed-practice.md)

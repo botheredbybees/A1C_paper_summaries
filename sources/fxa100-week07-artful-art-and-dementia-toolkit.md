@@ -24,22 +24,22 @@ The Artful: Art and Dementia Toolkit, an initiative by the Museum of Contemporar
 
 ## Key Concepts
 
-- [[../topics/neuroplasticity]]
-- [[../topics/creative-expression]]
-- [[../topics/social-interaction]]
+- [neuroplasticity](../topics/neuroplasticity.md)
+- [creative-expression](../topics/creative-expression.md)
+- [social-interaction](../topics/social-interaction.md)
 
 ## Tags
 
-- [[../tags/art-therapy]]
-- [[../tags/dementia-care]]
-- [[../tags/wellbeing-through-art]]
-- [[../tags/fxa100]]
+- [art-therapy](../tags/art-therapy.md)
+- [dementia-care](../tags/dementia-care.md)
+- [wellbeing-through-art](../tags/wellbeing-through-art.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/wellbeing-through-art]]
+- [dementia-care](../topics/dementia-care.md)
+- [wellbeing-through-art](../topics/wellbeing-through-art.md)

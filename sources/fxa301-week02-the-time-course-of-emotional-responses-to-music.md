@@ -24,22 +24,22 @@ This study investigates the temporal dynamics of emotional responses to music, f
 
 ## Key Concepts
 
-- [[../topics/emotional responses to music]]
-- [[../topics/multidimensional scaling]]
+- [emotional responses to music](../topics/emotional responses to music.md)
+- [multidimensional scaling](../topics/multidimensional scaling.md)
 
 ## Tags
 
-- [[../tags/music-emotion]]
-- [[../tags/temporal-dynamics]]
-- [[../tags/emotional-perception]]
-- [[../tags/fxa301]]
+- [music-emotion](../tags/music-emotion.md)
+- [temporal-dynamics](../tags/temporal-dynamics.md)
+- [emotional-perception](../tags/emotional-perception.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[empirical study]]
-- [[multidimensional scaling]]
+- [empirical study](empirical study.md)
+- [multidimensional scaling](multidimensional scaling.md)
 
 ## See Also
 
-- [[../topics/music-emotion]]
-- [[../topics/temporal-dynamics]]
+- [music-emotion](../topics/music-emotion.md)
+- [temporal-dynamics](../topics/temporal-dynamics.md)

@@ -26,5 +26,5 @@ This synthesis explores the role of creative outlets and social engagement as in
 
 ## Sources
 
-- [[../sources/fxa100-week03-pearl-85-and-living-with-dementia-adds-another-string-to]]
-- [[../sources/fxa301-week03-how-do-we-realize-the-potential-of-the-arts-to-support]]
+- [fxa100-week03-pearl-85-and-living-with-dementia-adds-another-string-to](../sources/fxa100-week03-pearl-85-and-living-with-dementia-adds-another-string-to.md)
+- [fxa301-week03-how-do-we-realize-the-potential-of-the-arts-to-support](../sources/fxa301-week03-how-do-we-realize-the-potential-of-the-arts-to-support.md)

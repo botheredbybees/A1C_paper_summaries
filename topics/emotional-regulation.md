@@ -31,10 +31,10 @@ The synthesis integrates various aspects of emotional regulation across diverse 
 
 ## Sources
 
-- [[../sources/fxa301-week02-the-brain-and-how-we-perceive-information]]
-- [[../sources/fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and]]
-- [[../sources/fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children]]
-- [[../sources/fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental]]
-- [[../sources/fxa303-week06-lesson-fxa303-week06-page-4-week-6-activities]]
-- [[../sources/fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping]]
-- [[../sources/fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental]]
+- [fxa301-week02-the-brain-and-how-we-perceive-information](../sources/fxa301-week02-the-brain-and-how-we-perceive-information.md)
+- [fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and](../sources/fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and.md)
+- [fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children](../sources/fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children.md)
+- [fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental](../sources/fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental.md)
+- [fxa303-week06-lesson-fxa303-week06-page-4-week-6-activities](../sources/fxa303-week06-lesson-fxa303-week06-page-4-week-6-activities.md)
+- [fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping](../sources/fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping.md)
+- [fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental](../sources/fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental.md)

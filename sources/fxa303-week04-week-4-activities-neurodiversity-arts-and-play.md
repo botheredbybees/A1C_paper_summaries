@@ -24,22 +24,22 @@ _All claims sourced from ../raw/pdf/fxa303-week04-week-4-activities-neurodiversi
 
 ## Key Concepts
 
-- [[../topics/neurodiversity]]
-- [[../topics/music therapy]]
-- [[../topics/social justice]]
+- [neurodiversity](../topics/neurodiversity.md)
+- [music therapy](../topics/music therapy.md)
+- [social justice](../topics/social justice.md)
 
 ## Tags
 
-- [[../tags/neurodiversity-awareness]]
-- [[../tags/inclusive-education]]
-- [[../tags/music-therapy]]
-- [[../tags/fxa303]]
+- [neurodiversity-awareness](../tags/neurodiversity-awareness.md)
+- [inclusive-education](../tags/inclusive-education.md)
+- [music-therapy](../tags/music-therapy.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/inclusive-education]]
-- [[../topics/music-therapy]]
+- [inclusive-education](../topics/inclusive-education.md)
+- [music-therapy](../topics/music-therapy.md)

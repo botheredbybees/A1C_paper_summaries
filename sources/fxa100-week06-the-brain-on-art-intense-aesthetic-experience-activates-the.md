@@ -24,25 +24,25 @@ This research article investigates the neural basis of aesthetic experiences in 
 
 ## Key Concepts
 
-- [[../topics/default mode network]]
-- [[../topics/individual differences]]
-- [[../topics/aesthetic ratings]]
+- [default mode network](../topics/default mode network.md)
+- [individual differences](../topics/individual differences.md)
+- [aesthetic ratings](../topics/aesthetic ratings.md)
 
 ## Tags
 
-- [[../tags/neuroaesthetics]]
-- [[../tags/brain-networks]]
-- [[../tags/aesthetic-experience]]
-- [[../tags/fMRI-study]]
-- [[../tags/default-mode]]
-- [[../tags/fxa100]]
+- [neuroaesthetics](../tags/neuroaesthetics.md)
+- [brain-networks](../tags/brain-networks.md)
+- [aesthetic-experience](../tags/aesthetic-experience.md)
+- [fMRI-study](../tags/fMRI-study.md)
+- [default-mode](../tags/default-mode.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[functional magnetic resonance imaging]]
-- [[behavioral analysis]]
+- [functional magnetic resonance imaging](functional magnetic resonance imaging.md)
+- [behavioral analysis](behavioral analysis.md)
 
 ## See Also
 
-- [[../topics/aesthetic-experience]]
-- [[../topics/neuroaesthetics]]
+- [aesthetic-experience](../topics/aesthetic-experience.md)
+- [neuroaesthetics](../topics/neuroaesthetics.md)

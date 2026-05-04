@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Synaptic Pruning Myelination
 
-- [[../sources/fxa303-week03-adolescent-neurodevelopment|Adolescent Neurodevelopment]]
+- [Adolescent Neurodevelopment](../sources/fxa303-week03-adolescent-neurodevelopment.md)

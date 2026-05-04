@@ -24,23 +24,23 @@ This article explores the psychological insights into art appreciation, challeng
 
 ## Key Concepts
 
-- [[../topics/bottom-up processing]]
-- [[../topics/top-down influences]]
+- [bottom-up processing](../topics/bottom-up processing.md)
+- [top-down influences](../topics/top-down influences.md)
 
 ## Tags
 
-- [[../tags/art-appreciation]]
-- [[../tags/aesthetic-preferences]]
-- [[../tags/psychological-insights]]
-- [[../tags/visual-art-psychology]]
-- [[../tags/scientific-methods-in-art]]
-- [[../tags/fxa301]]
+- [art-appreciation](../tags/art-appreciation.md)
+- [aesthetic-preferences](../tags/aesthetic-preferences.md)
+- [psychological-insights](../tags/psychological-insights.md)
+- [visual-art-psychology](../tags/visual-art-psychology.md)
+- [scientific-methods-in-art](../tags/scientific-methods-in-art.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/aesthetic-preferences]]
-- [[../topics/art-appreciation]]
+- [aesthetic-preferences](../topics/aesthetic-preferences.md)
+- [art-appreciation](../topics/art-appreciation.md)

@@ -26,5 +26,5 @@ The concept of narrative tense is explored in the provided sources, focusing on 
 
 ## Sources
 
-- [[../sources/fxa202-week05-introduction-to-visual-storytelling]]
-- [[../sources/fxa202-week05-narrative-tense-right-now-or-way-back-then]]
+- [fxa202-week05-introduction-to-visual-storytelling](../sources/fxa202-week05-introduction-to-visual-storytelling.md)
+- [fxa202-week05-narrative-tense-right-now-or-way-back-then](../sources/fxa202-week05-narrative-tense-right-now-or-way-back-then.md)

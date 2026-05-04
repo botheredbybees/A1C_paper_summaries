@@ -24,27 +24,27 @@ The document outlines activities for Week 5 of the course FXA301 Arts in the Com
 
 ## Key Concepts
 
-- [[../topics/employability skills]]
-- [[../topics/recruiters' perceptions]]
-- [[../topics/art therapy]]
-- [[../topics/health and wellbeing]]
+- [employability skills](../topics/employability skills.md)
+- [recruiters' perceptions](../topics/recruiters' perceptions.md)
+- [art therapy](../topics/art therapy.md)
+- [health and wellbeing](../topics/health and wellbeing.md)
 
 ## Tags
 
-- [[../tags/arts-in-community]]
-- [[../tags/music-education]]
-- [[../tags/recruiter-perceptions]]
-- [[../tags/employability-skills]]
-- [[../tags/art-therapy]]
-- [[../tags/wellbeing]]
-- [[../tags/fxa301]]
+- [arts-in-community](../tags/arts-in-community.md)
+- [music-education](../tags/music-education.md)
+- [recruiter-perceptions](../tags/recruiter-perceptions.md)
+- [employability-skills](../tags/employability-skills.md)
+- [art-therapy](../tags/art-therapy.md)
+- [wellbeing](../tags/wellbeing.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/arts-in-community]]
-- [[../topics/music-education]]
-- [[../topics/wellbeing]]
+- [arts-in-community](../topics/arts-in-community.md)
+- [music-education](../topics/music-education.md)
+- [wellbeing](../topics/wellbeing.md)

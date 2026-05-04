@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Dance Movement Psychotherapy
 
-- [[../sources/fxa100-week04-transcript-mind-song-music-for-dementia|Mind Song Music for Dementia]]
+- [Mind Song Music for Dementia](../sources/fxa100-week04-transcript-mind-song-music-for-dementia.md)

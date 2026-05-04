@@ -24,27 +24,27 @@ The publication 'Mind, Body, Spirit' explores how museums contribute to public h
 
 ## Key Concepts
 
-- [[../topics/holistic-health]]
-- [[../topics/social-determinants-of-health]]
-- [[../topics/cultural-interventions]]
+- [holistic-health](../topics/holistic-health.md)
+- [social-determinants-of-health](../topics/social-determinants-of-health.md)
+- [cultural-interventions](../topics/cultural-interventions.md)
 
 ## Tags
 
-- [[../tags/museum-impact]]
-- [[../tags/public-health]]
-- [[../tags/wellbeing-initiatives]]
-- [[../tags/arts-engagement]]
-- [[../tags/health-equity]]
-- [[../tags/community-outreach]]
-- [[../tags/fxa301]]
+- [museum-impact](../tags/museum-impact.md)
+- [public-health](../tags/public-health.md)
+- [wellbeing-initiatives](../tags/wellbeing-initiatives.md)
+- [arts-engagement](../tags/arts-engagement.md)
+- [health-equity](../tags/health-equity.md)
+- [community-outreach](../tags/community-outreach.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[action-research]]
+- [action-research](action-research.md)
 
 ## See Also
 
-- [[../topics/arts-engagement]]
-- [[../topics/health-equity]]
-- [[../topics/public-health]]
-- [[../topics/wellbeing-initiatives]]
+- [arts-engagement](../topics/arts-engagement.md)
+- [health-equity](../topics/health-equity.md)
+- [public-health](../topics/public-health.md)
+- [wellbeing-initiatives](../topics/wellbeing-initiatives.md)

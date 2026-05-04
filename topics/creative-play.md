@@ -26,5 +26,5 @@ Creative play therapy leverages imaginative activities to enhance emotional and 
 
 ## Sources
 
-- [[../sources/fxa303-puppet-play-therapy-ch08-6-posture-keep-your-arm-holding-the-puppet-at-a-right-angle]]
-- [[../sources/fxa303-week05-fxa303-week-5-welcome]]
+- [fxa303-puppet-play-therapy-ch08-6-posture-keep-your-arm-holding-the-puppet-at-a-right-angle](../sources/fxa303-puppet-play-therapy-ch08-6-posture-keep-your-arm-holding-the-puppet-at-a-right-angle.md)
+- [fxa303-week05-fxa303-week-5-welcome](../sources/fxa303-week05-fxa303-week-5-welcome.md)

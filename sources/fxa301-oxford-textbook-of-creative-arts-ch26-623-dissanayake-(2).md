@@ -24,16 +24,16 @@ This chapter discusses the relationship between cultural activities such as atte
 
 ## Key Concepts
 
-- [[../topics/psychological well-being]]
-- [[../topics/cognitive development]]
-- [[../topics/longevity]]
+- [psychological well-being](../topics/psychological well-being.md)
+- [cognitive development](../topics/cognitive development.md)
+- [longevity](../topics/longevity.md)
 
 ## Tags
 
-- [[../tags/cultural-activities]]
-- [[../tags/health-outcomes]]
-- [[../tags/music-cognition]]
-- [[../tags/fxa301]]
+- [cultural-activities](../tags/cultural-activities.md)
+- [health-outcomes](../tags/health-outcomes.md)
+- [music-cognition](../tags/music-cognition.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ This chapter discusses the relationship between cultural activities such as atte
 
 ## See Also
 
-- [[../topics/cultural-activities]]
-- [[../topics/health-outcomes]]
+- [cultural-activities](../topics/cultural-activities.md)
+- [health-outcomes](../topics/health-outcomes.md)

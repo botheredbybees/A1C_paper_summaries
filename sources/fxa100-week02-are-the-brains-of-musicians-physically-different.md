@@ -28,27 +28,27 @@ This video transcript explores whether the brains of professional musicians exhi
 
 ## Key Concepts
 
-- [[../topics/brain plasticity]]
-- [[../topics/morphological changes]]
-- [[../topics/perfect pitch]]
-- [[../topics/functional differences]]
+- [brain plasticity](../topics/brain plasticity.md)
+- [morphological changes](../topics/morphological changes.md)
+- [perfect pitch](../topics/perfect pitch.md)
+- [functional differences](../topics/functional differences.md)
 
 ## Tags
 
-- [[../tags/brain-plasticity]]
-- [[../tags/music-therapy]]
-- [[../tags/neuroscience-research]]
-- [[../tags/musical-training-effects]]
-- [[../tags/functional-imaging]]
-- [[../tags/fxa100]]
+- [brain-plasticity](../tags/brain-plasticity.md)
+- [music-therapy](../tags/music-therapy.md)
+- [neuroscience-research](../tags/neuroscience-research.md)
+- [musical-training-effects](../tags/musical-training-effects.md)
+- [functional-imaging](../tags/functional-imaging.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
-- [[functional imaging]]
+- [case study](case study.md)
+- [functional imaging](functional imaging.md)
 
 ## See Also
 
-- [[../topics/brain-plasticity]]
-- [[../topics/music-therapy]]
-- [[../topics/neuroscience-research]]
+- [brain-plasticity](../topics/brain-plasticity.md)
+- [music-therapy](../topics/music-therapy.md)
+- [neuroscience-research](../topics/neuroscience-research.md)

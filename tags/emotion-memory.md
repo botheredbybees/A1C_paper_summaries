@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Emotion Memory
 
-- [[../sources/fxa303-week03-limbic-systems-for-emotion-and-for-memory-but-no-single|Limbic Systems for Emotion and for Memory, but No Single Limbic System]]
+- [Limbic Systems for Emotion and for Memory, but No Single Limbic System](../sources/fxa303-week03-limbic-systems-for-emotion-and-for-memory-but-no-single.md)

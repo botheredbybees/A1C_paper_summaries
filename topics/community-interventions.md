@@ -25,5 +25,5 @@ The reviewed literature emphasizes the role of arts activities in fostering resi
 
 ## Sources
 
-- [[../sources/fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and]]
-- [[../sources/fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and]]
+- [fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and](../sources/fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and.md)
+- [fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and](../sources/fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and.md)

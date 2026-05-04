@@ -24,15 +24,15 @@ The document provides an overview of music therapy, describing it as a research-
 
 ## Key Concepts
 
-- [[../topics/music therapy]]
-- [[../topics/registered music therapist]]
+- [music therapy](../topics/music therapy.md)
+- [registered music therapist](../topics/registered music therapist.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/mental-health]]
-- [[../tags/quality-of-life]]
-- [[../tags/fxa100]]
+- [music-therapy](../tags/music-therapy.md)
+- [mental-health](../tags/mental-health.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -40,6 +40,6 @@ The document provides an overview of music therapy, describing it as a research-
 
 ## See Also
 
-- [[../topics/mental-health]]
-- [[../topics/music-therapy]]
-- [[../topics/quality-of-life]]
+- [mental-health](../topics/mental-health.md)
+- [music-therapy](../topics/music-therapy.md)
+- [quality-of-life](../topics/quality-of-life.md)

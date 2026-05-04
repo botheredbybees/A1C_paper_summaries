@@ -24,24 +24,24 @@ This article reviews current treatments for Post-Traumatic Stress Disorder (PTSD
 
 ## Key Concepts
 
-- [[../topics/Cognitive-Behavioral-Therapy]]
-- [[../topics/Amygdala-Hippocampal-Unit]]
-- [[../topics/PTSD-Symptoms]]
+- [Cognitive-Behavioral-Therapy](../topics/Cognitive-Behavioral-Therapy.md)
+- [Amygdala-Hippocampal-Unit](../topics/Amygdala-Hippocampal-Unit.md)
+- [PTSD-Symptoms](../topics/PTSD-Symptoms.md)
 
 ## Tags
 
-- [[../tags/post-traumatic-stress-disorder]]
-- [[../tags/amygdala-ablation]]
-- [[../tags/refractory-cases]]
-- [[../tags/neurosurgery-therapy]]
-- [[../tags/fxa303]]
+- [post-traumatic-stress-disorder](../tags/post-traumatic-stress-disorder.md)
+- [amygdala-ablation](../tags/amygdala-ablation.md)
+- [refractory-cases](../tags/refractory-cases.md)
+- [neurosurgery-therapy](../tags/neurosurgery-therapy.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/amygdala-ablation]]
-- [[../topics/post-traumatic-stress-disorder]]
-- [[../topics/refractory-cases]]
+- [amygdala-ablation](../topics/amygdala-ablation.md)
+- [post-traumatic-stress-disorder](../topics/post-traumatic-stress-disorder.md)
+- [refractory-cases](../topics/refractory-cases.md)

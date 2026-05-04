@@ -26,5 +26,5 @@ The integration of sources on cognitive-behavioral therapy (CBT) and its applica
 
 ## Sources
 
-- [[../sources/fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the]]
-- [[../sources/fxa303-week01-trauma-aps]]
+- [fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the](../sources/fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the.md)
+- [fxa303-week01-trauma-aps](../sources/fxa303-week01-trauma-aps.md)

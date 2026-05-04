@@ -28,7 +28,7 @@ The sources collectively highlight the multifactorial nature of brain health and
 
 ## Sources
 
-- [[../sources/fxa100-week01-living-with-dementia-12-what-is-vascular-dementia]]
-- [[../sources/fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy]]
-- [[../sources/fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining]]
-- [[../sources/fxa100-week01-what-is-alzheimers-disease-video-transcript]]
+- [fxa100-week01-living-with-dementia-12-what-is-vascular-dementia](../sources/fxa100-week01-living-with-dementia-12-what-is-vascular-dementia.md)
+- [fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy](../sources/fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy.md)
+- [fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining](../sources/fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining.md)
+- [fxa100-week01-what-is-alzheimers-disease-video-transcript](../sources/fxa100-week01-what-is-alzheimers-disease-video-transcript.md)

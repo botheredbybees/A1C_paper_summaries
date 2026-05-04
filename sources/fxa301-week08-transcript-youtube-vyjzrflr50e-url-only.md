@@ -24,14 +24,14 @@ The user has requested a manual transcription of the YouTube video with the URL 
 
 ## Key Concepts
 
-- [[../topics/automatic-transcripts]]
-- [[../topics/manual-transcription]]
+- [automatic-transcripts](../topics/automatic-transcripts.md)
+- [manual-transcription](../topics/manual-transcription.md)
 
 ## Tags
 
-- [[../tags/transcription-request]]
-- [[../tags/youtube-video]]
-- [[../tags/fxa301]]
+- [transcription-request](../tags/transcription-request.md)
+- [youtube-video](../tags/youtube-video.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -39,4 +39,4 @@ The user has requested a manual transcription of the YouTube video with the URL 
 
 ## See Also
 
-- [[../topics/youtube-video]]
+- [youtube-video](../topics/youtube-video.md)

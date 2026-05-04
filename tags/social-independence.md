@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Social Independence
 
-- [[../sources/fxa303-week03-adolescent-development|Adolescent Development]]
+- [Adolescent Development](../sources/fxa303-week03-adolescent-development.md)

@@ -25,5 +25,5 @@ The sources provided delve into the methodologies and frameworks utilized in cre
 
 ## Sources
 
-- [[../sources/fxa100-week04-a-step-by-step-approach-to-the-research-process]]
-- [[../sources/fxa301-week01-web-article-mcgann-2024]]
+- [fxa100-week04-a-step-by-step-approach-to-the-research-process](../sources/fxa100-week04-a-step-by-step-approach-to-the-research-process.md)
+- [fxa301-week01-web-article-mcgann-2024](../sources/fxa301-week01-web-article-mcgann-2024.md)

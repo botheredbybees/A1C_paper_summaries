@@ -26,5 +26,5 @@ The exploration of creative lighting techniques and the rule-of-thirds is centra
 
 ## Sources
 
-- [[../sources/fxa202-week02-10-tips-for-better-composition]]
-- [[../sources/fxa202-week02-super-simple-introduction-to-manual-mode-and-how-it-will]]
+- [fxa202-week02-10-tips-for-better-composition](../sources/fxa202-week02-10-tips-for-better-composition.md)
+- [fxa202-week02-super-simple-introduction-to-manual-mode-and-how-it-will](../sources/fxa202-week02-super-simple-introduction-to-manual-mode-and-how-it-will.md)

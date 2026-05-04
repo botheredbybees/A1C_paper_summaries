@@ -26,5 +26,5 @@ The provided sources delve into the diverse forms of dementia, highlighting thei
 
 ## Sources
 
-- [[../sources/fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms]]
-- [[../sources/fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities]]
+- [fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms](../sources/fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms.md)
+- [fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities](../sources/fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities.md)

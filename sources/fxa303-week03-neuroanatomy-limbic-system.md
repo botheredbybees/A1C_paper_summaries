@@ -24,21 +24,21 @@ The document provides an overview of the limbic system's structure and function 
 
 ## Key Concepts
 
-- [[../topics/hippocampus-memory-function]]
-- [[../topics/amygdala-emotional-processing]]
-- [[../topics/cingulate-gyrus-cognitive-motivation]]
+- [hippocampus-memory-function](../topics/hippocampus-memory-function.md)
+- [amygdala-emotional-processing](../topics/amygdala-emotional-processing.md)
+- [cingulate-gyrus-cognitive-motivation](../topics/cingulate-gyrus-cognitive-motivation.md)
 
 ## Tags
 
-- [[../tags/brain-structure]]
-- [[../tags/limbic-system-functions]]
-- [[../tags/neuroanatomy-overview]]
-- [[../tags/fxa303]]
+- [brain-structure](../tags/brain-structure.md)
+- [limbic-system-functions](../tags/limbic-system-functions.md)
+- [neuroanatomy-overview](../tags/neuroanatomy-overview.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[literature-review]]
+- [literature-review](literature-review.md)
 
 ## See Also
 
-- [[../topics/brain-structure]]
+- [brain-structure](../topics/brain-structure.md)

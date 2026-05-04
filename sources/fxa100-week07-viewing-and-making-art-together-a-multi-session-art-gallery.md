@@ -24,25 +24,25 @@ This study investigates the impact of an eight-week art-gallery-based interventi
 
 ## Key Concepts
 
-- [[../topics/quality-of-life]]
-- [[../topics/caregiver-burden]]
-- [[../topics/cognitive-capacities]]
+- [quality-of-life](../topics/quality-of-life.md)
+- [caregiver-burden](../topics/caregiver-burden.md)
+- [cognitive-capacities](../topics/cognitive-capacities.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/art-therapy]]
-- [[../tags/social-inclusion]]
-- [[../tags/mental-health-interventions]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [art-therapy](../tags/art-therapy.md)
+- [social-inclusion](../tags/social-inclusion.md)
+- [mental-health-interventions](../tags/mental-health-interventions.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[mixed-methods]]
-- [[intervention-study]]
+- [mixed-methods](mixed-methods.md)
+- [intervention-study](intervention-study.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/mental-health-interventions]]
-- [[../topics/social-inclusion]]
+- [dementia-care](../topics/dementia-care.md)
+- [mental-health-interventions](../topics/mental-health-interventions.md)
+- [social-inclusion](../topics/social-inclusion.md)

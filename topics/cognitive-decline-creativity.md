@@ -25,5 +25,5 @@ The studies explore the impact of cognitive decline on an artist's creativity. S
 
 ## Sources
 
-- [[../sources/fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia-(2)]]
-- [[../sources/fxa100-week06-paintings-of-an-artist-with-alzheimers-disease]]
+- [fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia-(2)](../sources/fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia-(2).md)
+- [fxa100-week06-paintings-of-an-artist-with-alzheimers-disease](../sources/fxa100-week06-paintings-of-an-artist-with-alzheimers-disease.md)

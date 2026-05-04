@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Professionalization Code Of Ethics
 
-- [[../sources/fxa301-bridging-the-creative-arts-therapies-ch09-5-collaboration-(2)|The Professionalization Agenda for Arts in Health]]
+- [The Professionalization Agenda for Arts in Health](../sources/fxa301-bridging-the-creative-arts-therapies-ch09-5-collaboration-(2).md)

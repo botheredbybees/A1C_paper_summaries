@@ -24,27 +24,27 @@ The document discusses the benefits of music therapy in enhancing creativity and
 
 ## Key Concepts
 
-- [[../topics/RESCTUE-Alzheimer trial]]
-- [[../topics/reduced-agitation]]
-- [[../topics/creative-music-making]]
+- [RESCTUE-Alzheimer trial](../topics/RESCTUE-Alzheimer trial.md)
+- [reduced-agitation](../topics/reduced-agitation.md)
+- [creative-music-making](../topics/creative-music-making.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/dementia-care]]
-- [[../tags/memory-stimulation]]
-- [[../tags/non-verbal-communication]]
-- [[../tags/personalized-interventions]]
-- [[../tags/fxa100]]
+- [music-therapy](../tags/music-therapy.md)
+- [dementia-care](../tags/dementia-care.md)
+- [memory-stimulation](../tags/memory-stimulation.md)
+- [non-verbal-communication](../tags/non-verbal-communication.md)
+- [personalized-interventions](../tags/personalized-interventions.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[randomised-controlled-trial]]
-- [[case-study]]
+- [randomised-controlled-trial](randomised-controlled-trial.md)
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/memory-stimulation]]
-- [[../topics/music-therapy]]
-- [[../topics/non-verbal-communication]]
+- [dementia-care](../topics/dementia-care.md)
+- [memory-stimulation](../topics/memory-stimulation.md)
+- [music-therapy](../topics/music-therapy.md)
+- [non-verbal-communication](../topics/non-verbal-communication.md)

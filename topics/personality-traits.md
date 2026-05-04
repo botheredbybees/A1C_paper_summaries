@@ -26,5 +26,5 @@ The relationship between personality traits and music is explored in the provide
 
 ## Sources
 
-- [[../sources/fxa301-week02-experimental-evidence-of-the-roles-of-music-choice-social]]
-- [[../sources/fxa301-week02-music-evoked-nostalgia-affect-memory-and-personality]]
+- [fxa301-week02-experimental-evidence-of-the-roles-of-music-choice-social](../sources/fxa301-week02-experimental-evidence-of-the-roles-of-music-choice-social.md)
+- [fxa301-week02-music-evoked-nostalgia-affect-memory-and-personality](../sources/fxa301-week02-music-evoked-nostalgia-affect-memory-and-personality.md)

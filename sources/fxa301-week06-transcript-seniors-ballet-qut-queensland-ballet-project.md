@@ -24,17 +24,17 @@ This transcript captures the essence of a seniors ballet program initiated by Qu
 
 ## Key Concepts
 
-- [[../topics/community-engagement]]
-- [[../topics/lifelong-learning]]
+- [community-engagement](../topics/community-engagement.md)
+- [lifelong-learning](../topics/lifelong-learning.md)
 
 ## Tags
 
-- [[../tags/seniors-ballet]]
-- [[../tags/qut-research]]
-- [[../tags/physical-activity]]
-- [[../tags/social-wellbeing]]
-- [[../tags/emotional-health]]
-- [[../tags/fxa301]]
+- [seniors-ballet](../tags/seniors-ballet.md)
+- [qut-research](../tags/qut-research.md)
+- [physical-activity](../tags/physical-activity.md)
+- [social-wellbeing](../tags/social-wellbeing.md)
+- [emotional-health](../tags/emotional-health.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -42,5 +42,5 @@ This transcript captures the essence of a seniors ballet program initiated by Qu
 
 ## See Also
 
-- [[../topics/physical-activity]]
-- [[../topics/social-wellbeing]]
+- [physical-activity](../topics/physical-activity.md)
+- [social-wellbeing](../topics/social-wellbeing.md)

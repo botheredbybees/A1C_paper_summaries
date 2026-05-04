@@ -26,5 +26,5 @@ The principles of composition are fundamental to the art and science of photogra
 
 ## Sources
 
-- [[../sources/fxa202-week02-10-tips-for-better-composition]]
-- [[../sources/fxa202-week02-improve-your-photography-skills-with-these-9-photo]]
+- [fxa202-week02-10-tips-for-better-composition](../sources/fxa202-week02-10-tips-for-better-composition.md)
+- [fxa202-week02-improve-your-photography-skills-with-these-9-photo](../sources/fxa202-week02-improve-your-photography-skills-with-these-9-photo.md)

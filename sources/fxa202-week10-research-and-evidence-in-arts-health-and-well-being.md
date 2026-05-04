@@ -24,20 +24,20 @@ This chapter offers an overview of the expanding research on arts, health, and w
 
 ## Key Concepts
 
-- [[../topics/community-cohesion]]
-- [[../topics/cultural-engagement]]
-- [[../topics/mental-health-recovery]]
+- [community-cohesion](../topics/community-cohesion.md)
+- [cultural-engagement](../topics/cultural-engagement.md)
+- [mental-health-recovery](../topics/mental-health-recovery.md)
 
 ## Tags
 
-- [[../tags/arts-health]]
-- [[../tags/well-being-research]]
-- [[../tags/creative-therapies]]
-- [[../tags/fxa202]]
+- [arts-health](../tags/arts-health.md)
+- [well-being-research](../tags/well-being-research.md)
+- [creative-therapies](../tags/creative-therapies.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 

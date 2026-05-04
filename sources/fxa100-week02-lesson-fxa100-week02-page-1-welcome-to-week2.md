@@ -24,15 +24,15 @@ In this week's module of the FXA100 course on The Arts and Dementia Care, Dr Bre
 
 ## Key Concepts
 
-- [[../topics/hearing mechanisms]]
-- [[../topics/music therapy benefits]]
+- [hearing mechanisms](../topics/hearing mechanisms.md)
+- [music therapy benefits](../topics/music therapy benefits.md)
 
 ## Tags
 
-- [[../tags/music-and-dementia]]
-- [[../tags/brain-function]]
-- [[../tags/arts-in-rehabilitation]]
-- [[../tags/fxa100]]
+- [music-and-dementia](../tags/music-and-dementia.md)
+- [brain-function](../tags/brain-function.md)
+- [arts-in-rehabilitation](../tags/arts-in-rehabilitation.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -40,5 +40,5 @@ In this week's module of the FXA100 course on The Arts and Dementia Care, Dr Bre
 
 ## See Also
 
-- [[../topics/brain-function]]
-- [[../topics/music-and-dementia]]
+- [brain-function](../topics/brain-function.md)
+- [music-and-dementia](../topics/music-and-dementia.md)

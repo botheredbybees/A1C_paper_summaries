@@ -24,25 +24,25 @@ The article by Kav Dadfar addresses the common challenge faced by photographers 
 
 ## Key Concepts
 
-- [[../topics/cohesive narrative]]
-- [[../topics/3-picture technique]]
-- [[../topics/viewer engagement]]
+- [cohesive narrative](../topics/cohesive narrative.md)
+- [3-picture technique](../topics/3-picture technique.md)
+- [viewer engagement](../topics/viewer engagement.md)
 
 ## Tags
 
-- [[../tags/photo-story-creation]]
-- [[../tags/visual-narrative]]
-- [[../tags/photography-tips]]
-- [[../tags/image-composition]]
-- [[../tags/creative-techniques]]
-- [[../tags/fxa202]]
+- [photo-story-creation](../tags/photo-story-creation.md)
+- [visual-narrative](../tags/visual-narrative.md)
+- [photography-tips](../tags/photography-tips.md)
+- [image-composition](../tags/image-composition.md)
+- [creative-techniques](../tags/creative-techniques.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/creative-techniques]]
-- [[../topics/image-composition]]
-- [[../topics/photography-tips]]
+- [creative-techniques](../topics/creative-techniques.md)
+- [image-composition](../topics/image-composition.md)
+- [photography-tips](../topics/photography-tips.md)

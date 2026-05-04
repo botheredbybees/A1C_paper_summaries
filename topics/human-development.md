@@ -26,5 +26,5 @@ The exploration of human development theories through Erikson's psychosocial the
 
 ## Sources
 
-- [[../sources/fxa303-week02-the-psychosocial-development-theory-of-erik-erikson]]
-- [[../sources/fxa303-week03-chapter-11-human-development-how-and-why-we-change]]
+- [fxa303-week02-the-psychosocial-development-theory-of-erik-erikson](../sources/fxa303-week02-the-psychosocial-development-theory-of-erik-erikson.md)
+- [fxa303-week03-chapter-11-human-development-how-and-why-we-change](../sources/fxa303-week03-chapter-11-human-development-how-and-why-we-change.md)

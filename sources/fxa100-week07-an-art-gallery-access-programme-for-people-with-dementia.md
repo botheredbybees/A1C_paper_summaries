@@ -24,25 +24,25 @@ This study examines an art gallery access program designed for individuals with 
 
 ## Key Concepts
 
-- [[../topics/excess disability reduction]]
-- [[../topics/participant engagement]]
-- [[../topics/memory retention impact]]
+- [excess disability reduction](../topics/excess disability reduction.md)
+- [participant engagement](../topics/participant engagement.md)
+- [memory retention impact](../topics/memory retention impact.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/intellectual-stimulation]]
-- [[../tags/art-therapy]]
-- [[../tags/quality-of-life]]
-- [[../tags/residual-capabilities]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [intellectual-stimulation](../tags/intellectual-stimulation.md)
+- [art-therapy](../tags/art-therapy.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [residual-capabilities](../tags/residual-capabilities.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
-- [[focus group]]
+- [case study](case study.md)
+- [focus group](focus group.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/quality-of-life]]
+- [dementia-care](../topics/dementia-care.md)
+- [quality-of-life](../topics/quality-of-life.md)

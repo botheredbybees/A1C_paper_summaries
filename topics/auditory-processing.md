@@ -26,5 +26,5 @@ The provided sources offer a comprehensive overview of auditory processing and i
 
 ## Sources
 
-- [[../sources/fxa100-week02-fxa100-week-2-lecture-music-and-the-brain]]
-- [[../sources/fxa100-week02-hearing-and-music]]
+- [fxa100-week02-fxa100-week-2-lecture-music-and-the-brain](../sources/fxa100-week02-fxa100-week-2-lecture-music-and-the-brain.md)
+- [fxa100-week02-hearing-and-music](../sources/fxa100-week02-hearing-and-music.md)

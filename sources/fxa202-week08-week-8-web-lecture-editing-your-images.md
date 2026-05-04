@@ -24,23 +24,23 @@ The document provides guidance on editing images for a photo essay, emphasizing 
 
 ## Key Concepts
 
-- [[../topics/brightness-adjustment]]
-- [[../topics/contrast-enhancement]]
-- [[../topics/low-light-capture]]
+- [brightness-adjustment](../topics/brightness-adjustment.md)
+- [contrast-enhancement](../topics/contrast-enhancement.md)
+- [low-light-capture](../topics/low-light-capture.md)
 
 ## Tags
 
-- [[../tags/image-editing]]
-- [[../tags/photo-essay]]
-- [[../tags/visual-storytelling]]
-- [[../tags/fxa202]]
+- [image-editing](../tags/image-editing.md)
+- [photo-essay](../tags/photo-essay.md)
+- [visual-storytelling](../tags/visual-storytelling.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/image-editing]]
-- [[../topics/photo-essay]]
-- [[../topics/visual-storytelling]]
+- [image-editing](../topics/image-editing.md)
+- [photo-essay](../topics/photo-essay.md)
+- [visual-storytelling](../topics/visual-storytelling.md)

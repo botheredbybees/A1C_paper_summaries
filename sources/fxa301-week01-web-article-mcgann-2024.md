@@ -24,15 +24,15 @@ The Creative Australia website details its commitment to advancing the arts thro
 
 ## Key Concepts
 
-- [[../topics/Creative Futures Fund]]
-- [[../topics/Street Dance Survey]]
+- [Creative Futures Fund](../topics/Creative Futures Fund.md)
+- [Street Dance Survey](../topics/Street Dance Survey.md)
 
 ## Tags
 
-- [[../tags/creative-research]]
-- [[../tags/arts-funding]]
-- [[../tags/diversity-data]]
-- [[../tags/fxa301]]
+- [creative-research](../tags/creative-research.md)
+- [arts-funding](../tags/arts-funding.md)
+- [diversity-data](../tags/diversity-data.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ The Creative Australia website details its commitment to advancing the arts thro
 
 ## See Also
 
-- [[../topics/creative-research]]
+- [creative-research](../topics/creative-research.md)

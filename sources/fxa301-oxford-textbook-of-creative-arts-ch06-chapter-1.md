@@ -27,16 +27,16 @@ This chapter introduces the field of creative arts in relation to health and wel
 
 ## Key Concepts
 
-- [[../topics/World Health Organization definition of health]]
-- [[../topics/community arts practice]]
-- [[../topics/global perspectives on arts and health]]
+- [World Health Organization definition of health](../topics/World Health Organization definition of health.md)
+- [community arts practice](../topics/community arts practice.md)
+- [global perspectives on arts and health](../topics/global perspectives on arts and health.md)
 
 ## Tags
 
-- [[../tags/creative-arts]]
-- [[../tags/health-and-wellbeing]]
-- [[../tags/therapeutic-interventions]]
-- [[../tags/fxa301]]
+- [creative-arts](../tags/creative-arts.md)
+- [health-and-wellbeing](../tags/health-and-wellbeing.md)
+- [therapeutic-interventions](../tags/therapeutic-interventions.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -44,6 +44,6 @@ This chapter introduces the field of creative arts in relation to health and wel
 
 ## See Also
 
-- [[../topics/creative-arts]]
-- [[../topics/health-and-wellbeing]]
-- [[../topics/therapeutic-interventions]]
+- [creative-arts](../topics/creative-arts.md)
+- [health-and-wellbeing](../topics/health-and-wellbeing.md)
+- [therapeutic-interventions](../topics/therapeutic-interventions.md)

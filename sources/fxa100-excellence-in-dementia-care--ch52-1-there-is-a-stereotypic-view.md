@@ -24,16 +24,16 @@ This chapter discusses how societal perceptions and treatment of individuals dia
 
 ## Key Concepts
 
-- [[../topics/negative positioning]]
-- [[../topics/diagnostic overshadowing]]
-- [[../topics/social constructionist theory]]
+- [negative positioning](../topics/negative positioning.md)
+- [diagnostic overshadowing](../topics/diagnostic overshadowing.md)
+- [social constructionist theory](../topics/social constructionist theory.md)
 
 ## Tags
 
-- [[../tags/dementia care]]
-- [[../tags/social constructionism]]
-- [[../tags/patient-centered approach]]
-- [[../tags/fxa100]]
+- [dementia care](../tags/dementia care.md)
+- [social constructionism](../tags/social constructionism.md)
+- [patient-centered approach](../tags/patient-centered approach.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -41,4 +41,4 @@ This chapter discusses how societal perceptions and treatment of individuals dia
 
 ## See Also
 
-- [[../topics/dementia-care]]
+- [dementia-care](../topics/dementia-care.md)

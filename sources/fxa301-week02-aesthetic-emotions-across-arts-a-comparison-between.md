@@ -24,20 +24,20 @@ This study investigates the emotional responses to art in the form of painting a
 
 ## Key Concepts
 
-- [[../topics/emotional-responses]]
-- [[../topics/stimulus-features]]
-- [[../topics/individual-situational-factors]]
+- [emotional-responses](../topics/emotional-responses.md)
+- [stimulus-features](../topics/stimulus-features.md)
+- [individual-situational-factors](../topics/individual-situational-factors.md)
 
 ## Tags
 
-- [[../tags/aesthetic-emotions]]
-- [[../tags/art-experience]]
-- [[../tags/cross-modal-comparison]]
-- [[../tags/fxa301]]
+- [aesthetic-emotions](../tags/aesthetic-emotions.md)
+- [art-experience](../tags/art-experience.md)
+- [cross-modal-comparison](../tags/cross-modal-comparison.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[online-survey]]
+- [online-survey](online-survey.md)
 
 ## See Also
 

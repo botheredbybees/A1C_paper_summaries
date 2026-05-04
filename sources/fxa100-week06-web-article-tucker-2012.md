@@ -24,18 +24,18 @@ This article discusses the emerging field of neuroaesthetics, which uses brain-i
 
 ## Key Concepts
 
-- [[../topics/mirror neurons]]
-- [[../topics/contextual influence]]
-- [[../topics/neural activation]]
+- [mirror neurons](../topics/mirror neurons.md)
+- [contextual influence](../topics/contextual influence.md)
+- [neural activation](../topics/neural activation.md)
 
 ## Tags
 
-- [[../tags/brain]]
-- [[../tags/neuroaesthetics]]
-- [[../tags/art-history]]
-- [[../tags/cognitive-neuroscience]]
-- [[../tags/tms-fmri]]
-- [[../tags/fxa100]]
+- [brain](../tags/brain.md)
+- [neuroaesthetics](../tags/neuroaesthetics.md)
+- [art-history](../tags/art-history.md)
+- [cognitive-neuroscience](../tags/cognitive-neuroscience.md)
+- [tms-fmri](../tags/tms-fmri.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -43,6 +43,6 @@ This article discusses the emerging field of neuroaesthetics, which uses brain-i
 
 ## See Also
 
-- [[../topics/art-history]]
-- [[../topics/cognitive-neuroscience]]
-- [[../topics/neuroaesthetics]]
+- [art-history](../topics/art-history.md)
+- [cognitive-neuroscience](../topics/cognitive-neuroscience.md)
+- [neuroaesthetics](../topics/neuroaesthetics.md)

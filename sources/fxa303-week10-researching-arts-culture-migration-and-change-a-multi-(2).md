@@ -24,22 +24,22 @@ This article explores the significance of studying the interconnections between 
 
 ## Key Concepts
 
-- [[../topics/multidisciplinary collaboration]]
-- [[../topics/rehumanization of migrants]]
-- [[../topics/broadened cultural definitions]]
+- [multidisciplinary collaboration](../topics/multidisciplinary collaboration.md)
+- [rehumanization of migrants](../topics/rehumanization of migrants.md)
+- [broadened cultural definitions](../topics/broadened cultural definitions.md)
 
 ## Tags
 
-- [[../tags/migration-studies]]
-- [[../tags/arts-and-culture]]
-- [[../tags/transdisciplinary-research]]
-- [[../tags/international-migration]]
-- [[../tags/cultural-contributions]]
-- [[../tags/fxa303]]
+- [migration-studies](../tags/migration-studies.md)
+- [arts-and-culture](../tags/arts-and-culture.md)
+- [transdisciplinary-research](../tags/transdisciplinary-research.md)
+- [international-migration](../tags/international-migration.md)
+- [cultural-contributions](../tags/cultural-contributions.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[literature review]]
+- **literature review**
 
 ## See Also
 

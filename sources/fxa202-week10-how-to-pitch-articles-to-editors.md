@@ -24,16 +24,16 @@ This article by James Randerson, the science and environment news editor of the 
 
 ## Key Concepts
 
-- [[../topics/publication-interests]]
-- [[../topics/story-pitching]]
-- [[../topics/writer-profile]]
+- [publication-interests](../topics/publication-interests.md)
+- [story-pitching](../topics/story-pitching.md)
+- [writer-profile](../topics/writer-profile.md)
 
 ## Tags
 
-- [[../tags/freelance-writing]]
-- [[../tags/journalism-strategies]]
-- [[../tags/editorial-relations]]
-- [[../tags/fxa202]]
+- [freelance-writing](../tags/freelance-writing.md)
+- [journalism-strategies](../tags/journalism-strategies.md)
+- [editorial-relations](../tags/editorial-relations.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

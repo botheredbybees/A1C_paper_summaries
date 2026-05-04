@@ -24,15 +24,15 @@ This week's LAW122 legal systems course activity focuses on visual storytelling 
 
 ## Key Concepts
 
-- [[../topics/visual storytelling]]
-- [[../topics/caption writing]]
+- [visual storytelling](../topics/visual storytelling.md)
+- [caption writing](../topics/caption writing.md)
 
 ## Tags
 
-- [[../tags/legal-systems]]
-- [[../tags/visual-storytelling]]
-- [[../tags/discussion-board]]
-- [[../tags/fxa202]]
+- [legal-systems](../tags/legal-systems.md)
+- [visual-storytelling](../tags/visual-storytelling.md)
+- [discussion-board](../tags/discussion-board.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
@@ -40,6 +40,6 @@ This week's LAW122 legal systems course activity focuses on visual storytelling 
 
 ## See Also
 
-- [[../topics/discussion-board]]
-- [[../topics/legal-systems]]
-- [[../topics/visual-storytelling]]
+- [discussion-board](../topics/discussion-board.md)
+- [legal-systems](../topics/legal-systems.md)
+- [visual-storytelling](../topics/visual-storytelling.md)

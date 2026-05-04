@@ -24,15 +24,15 @@ This week's lesson in FXA100 focuses on dramatherapy for dementia care, emphasiz
 
 ## Key Concepts
 
-- [[../topics/person-centered care]]
-- [[../topics/coping strategies]]
+- [person-centered care](../topics/person-centered care.md)
+- [coping strategies](../topics/coping strategies.md)
 
 ## Tags
 
-- [[../tags/dramatherapy]]
-- [[../tags/dementia-care]]
-- [[../tags/quality-of-life]]
-- [[../tags/fxa100]]
+- [dramatherapy](../tags/dramatherapy.md)
+- [dementia-care](../tags/dementia-care.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -40,6 +40,6 @@ This week's lesson in FXA100 focuses on dramatherapy for dementia care, emphasiz
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/dramatherapy]]
-- [[../topics/quality-of-life]]
+- [dementia-care](../topics/dementia-care.md)
+- [dramatherapy](../topics/dramatherapy.md)
+- [quality-of-life](../topics/quality-of-life.md)

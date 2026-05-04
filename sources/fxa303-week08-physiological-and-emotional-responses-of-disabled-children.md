@@ -24,25 +24,25 @@ This pilot study investigates the impact of therapeutic clowning on disabled chi
 
 ## Key Concepts
 
-- [[../topics/autonomic-nervous-system]]
-- [[../topics/therapeutic-clowning]]
-- [[../topics/patient-care]]
+- [autonomic-nervous-system](../topics/autonomic-nervous-system.md)
+- [therapeutic-clowning](../topics/therapeutic-clowning.md)
+- [patient-care](../topics/patient-care.md)
 
 ## Tags
 
-- [[../tags/therapeutic-clowns]]
-- [[../tags/disabled-children]]
-- [[../tags/pediatric-rehabilitation]]
-- [[../tags/emotional-wellbeing]]
-- [[../tags/physiological-responses]]
-- [[../tags/fxa303]]
+- [therapeutic-clowns](../tags/therapeutic-clowns.md)
+- [disabled-children](../tags/disabled-children.md)
+- [pediatric-rehabilitation](../tags/pediatric-rehabilitation.md)
+- [emotional-wellbeing](../tags/emotional-wellbeing.md)
+- [physiological-responses](../tags/physiological-responses.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[pilot-study]]
+- [pilot-study](pilot-study.md)
 
 ## See Also
 
-- [[../topics/emotional-wellbeing]]
-- [[../topics/physiological-responses]]
-- [[../topics/therapeutic-clowns]]
+- [emotional-wellbeing](../topics/emotional-wellbeing.md)
+- [physiological-responses](../topics/physiological-responses.md)
+- [therapeutic-clowns](../topics/therapeutic-clowns.md)

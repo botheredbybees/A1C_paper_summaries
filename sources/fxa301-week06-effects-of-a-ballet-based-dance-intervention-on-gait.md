@@ -24,26 +24,26 @@ This study investigates the impact of weekly ballet dance classes on gait variab
 
 ## Key Concepts
 
-- [[../topics/Parkinson's disease]]
-- [[../topics/gait variability]]
-- [[../topics/balance confidence]]
+- [Parkinson's disease](../topics/Parkinson's disease.md)
+- [gait variability](../topics/gait variability.md)
+- [balance confidence](../topics/balance confidence.md)
 
 ## Tags
 
-- [[../tags/parkinsons-disease]]
-- [[../tags/dance-intervention]]
-- [[../tags/gait-variability]]
-- [[../tags/balance-confidence]]
-- [[../tags/ballet]]
-- [[../tags/neurorehabilitation]]
-- [[../tags/fxa301]]
+- [parkinsons-disease](../tags/parkinsons-disease.md)
+- [dance-intervention](../tags/dance-intervention.md)
+- [gait-variability](../tags/gait-variability.md)
+- [balance-confidence](../tags/balance-confidence.md)
+- [ballet](../tags/ballet.md)
+- [neurorehabilitation](../tags/neurorehabilitation.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-control study]]
+- [case-control study](case-control study.md)
 
 ## See Also
 
-- [[../topics/dance-intervention]]
-- [[../topics/neurorehabilitation]]
-- [[../topics/parkinsons-disease]]
+- [dance-intervention](../topics/dance-intervention.md)
+- [neurorehabilitation](../topics/neurorehabilitation.md)
+- [parkinsons-disease](../topics/parkinsons-disease.md)

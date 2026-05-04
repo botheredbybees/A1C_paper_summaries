@@ -25,5 +25,5 @@ Music's profound impact on adolescent identity formation is highlighted in the f
 
 ## Sources
 
-- [[../sources/fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than]]
-- [[../sources/fxa303-week09-treating-the-trauma-survivor-an-essential-guide-to-trauma]]
+- [fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than](../sources/fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than.md)
+- [fxa303-week09-treating-the-trauma-survivor-an-essential-guide-to-trauma](../sources/fxa303-week09-treating-the-trauma-survivor-an-essential-guide-to-trauma.md)

@@ -24,28 +24,28 @@ The article discusses notable alterations in the adolescent brain, focusing on b
 
 ## Key Concepts
 
-- [[../topics/synaptic pruning]]
-- [[../topics/myelination]]
-- [[../topics/functional connectivity]]
-- [[../topics/hormonal changes]]
-- [[../topics/socioeconomic factors]]
-- [[../topics/prefrontal cortex]]
+- [synaptic pruning](../topics/synaptic pruning.md)
+- [myelination](../topics/myelination.md)
+- [functional connectivity](../topics/functional connectivity.md)
+- [hormonal changes](../topics/hormonal changes.md)
+- [socioeconomic factors](../topics/socioeconomic factors.md)
+- [prefrontal cortex](../topics/prefrontal cortex.md)
 
 ## Tags
 
-- [[../tags/adolescent-development]]
-- [[../tags/neurodevelopmental-changes]]
-- [[../tags/brain-functionality]]
-- [[../tags/synaptic-pruning-myelination]]
-- [[../tags/behavioral-neuroscience]]
-- [[../tags/reward-processing]]
-- [[../tags/fxa303]]
+- [adolescent-development](../tags/adolescent-development.md)
+- [neurodevelopmental-changes](../tags/neurodevelopmental-changes.md)
+- [brain-functionality](../tags/brain-functionality.md)
+- [synaptic-pruning-myelination](../tags/synaptic-pruning-myelination.md)
+- [behavioral-neuroscience](../tags/behavioral-neuroscience.md)
+- [reward-processing](../tags/reward-processing.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[review]]
+- [review](review.md)
 
 ## See Also
 
-- [[../topics/adolescent-development]]
-- [[../topics/reward-processing]]
+- [adolescent-development](../topics/adolescent-development.md)
+- [reward-processing](../topics/reward-processing.md)

@@ -24,24 +24,24 @@ The Recovery Oriented Language Guide, published by the Mental Health Coordinatin
 
 ## Key Concepts
 
-- [[../topics/language-choice]]
-- [[../topics/recovery-promotion]]
-- [[../topics/stigma-prevention]]
+- [language-choice](../topics/language-choice.md)
+- [recovery-promotion](../topics/recovery-promotion.md)
+- [stigma-prevention](../topics/stigma-prevention.md)
 
 ## Tags
 
-- [[../tags/mental-health-discourse]]
-- [[../tags/recovery-language]]
-- [[../tags/stigma-reduction]]
-- [[../tags/trauma-informed-care]]
-- [[../tags/strengths-based-approach]]
-- [[../tags/fxa303]]
+- [mental-health-discourse](../tags/mental-health-discourse.md)
+- [recovery-language](../tags/recovery-language.md)
+- [stigma-reduction](../tags/stigma-reduction.md)
+- [trauma-informed-care](../tags/trauma-informed-care.md)
+- [strengths-based-approach](../tags/strengths-based-approach.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[guide]]
+- [guide](guide.md)
 
 ## See Also
 
-- [[../topics/stigma-reduction]]
-- [[../topics/trauma-informed-care]]
+- [stigma-reduction](../topics/stigma-reduction.md)
+- [trauma-informed-care](../topics/trauma-informed-care.md)

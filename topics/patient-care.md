@@ -27,6 +27,6 @@ The integration of art therapy into patient care emerges as a multifaceted inter
 
 ## Sources
 
-- [[../sources/fxa301-week03-art-for-better-health-and-wellbeing]]
-- [[../sources/fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our]]
-- [[../sources/fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple]]
+- [fxa301-week03-art-for-better-health-and-wellbeing](../sources/fxa301-week03-art-for-better-health-and-wellbeing.md)
+- [fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our](../sources/fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our.md)
+- [fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple](../sources/fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple.md)

@@ -27,6 +27,6 @@ The integration of lifestyle factors such as diet, physical activity, and sleep 
 
 ## Sources
 
-- [[../sources/fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical]]
-- [[../sources/fxa100-week01-relating-physical-activity-to-cognitive-function-brain]]
-- [[../sources/fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care]]
+- [fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical](../sources/fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical.md)
+- [fxa100-week01-relating-physical-activity-to-cognitive-function-brain](../sources/fxa100-week01-relating-physical-activity-to-cognitive-function-brain.md)
+- [fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care](../sources/fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care.md)

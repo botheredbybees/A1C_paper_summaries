@@ -24,23 +24,23 @@ This review discusses recent imaging studies that have started to elucidate the 
 
 ## Key Concepts
 
-- [[../topics/structural-and-functional-brain-development]]
-- [[../topics/early-childhood-neuropsychiatric-health]]
-- [[../topics/genetic-environmental-influences]]
+- [structural-and-functional-brain-development](../topics/structural-and-functional-brain-development.md)
+- [early-childhood-neuropsychiatric-health](../topics/early-childhood-neuropsychiatric-health.md)
+- [genetic-environmental-influences](../topics/genetic-environmental-influences.md)
 
 ## Tags
 
-- [[../tags/brain-development]]
-- [[../tags/neuroimaging]]
-- [[../tags/childhood-cognitive-abilities]]
-- [[../tags/myelination]]
-- [[../tags/synaptic-density]]
-- [[../tags/fxa303]]
+- [brain-development](../tags/brain-development.md)
+- [neuroimaging](../tags/neuroimaging.md)
+- [childhood-cognitive-abilities](../tags/childhood-cognitive-abilities.md)
+- [myelination](../tags/myelination.md)
+- [synaptic-density](../tags/synaptic-density.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/brain-development]]
+- [brain-development](../topics/brain-development.md)

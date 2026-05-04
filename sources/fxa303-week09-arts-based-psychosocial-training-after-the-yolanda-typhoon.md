@@ -24,26 +24,26 @@ This study examines an arts-based mental health and psychosocial support (MHPSS)
 
 ## Key Concepts
 
-- [[../topics/Consensual Qualitative Research]]
-- [[../topics/Training of Trainers model]]
-- [[../topics/creative processes in trauma recovery]]
+- [Consensual Qualitative Research](../topics/Consensual Qualitative Research.md)
+- [Training of Trainers model](../topics/Training of Trainers model.md)
+- [creative processes in trauma recovery](../topics/creative processes in trauma recovery.md)
 
 ## Tags
 
-- [[../tags/arts-based-intervention]]
-- [[../tags/mental-health-support]]
-- [[../tags/psychosocial-training]]
-- [[../tags/community-resilience]]
-- [[../tags/trauma-recovery]]
-- [[../tags/fxa303]]
+- [arts-based-intervention](../tags/arts-based-intervention.md)
+- [mental-health-support](../tags/mental-health-support.md)
+- [psychosocial-training](../tags/psychosocial-training.md)
+- [community-resilience](../tags/community-resilience.md)
+- [trauma-recovery](../tags/trauma-recovery.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[qualitative analysis]]
-- [[interviews]]
+- [qualitative analysis](qualitative analysis.md)
+- [interviews](interviews.md)
 
 ## See Also
 
-- [[../topics/community-resilience]]
-- [[../topics/mental-health-support]]
-- [[../topics/trauma-recovery]]
+- [community-resilience](../topics/community-resilience.md)
+- [mental-health-support](../topics/mental-health-support.md)
+- [trauma-recovery](../topics/trauma-recovery.md)

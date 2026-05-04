@@ -24,20 +24,20 @@ This article examines the concept of shell shock during World War I in Britain, 
 
 ## Key Concepts
 
-- [[../topics/post-traumatic-stress-disorder]]
-- [[../topics/historical-construction]]
+- [post-traumatic-stress-disorder](../topics/post-traumatic-stress-disorder.md)
+- [historical-construction](../topics/historical-construction.md)
 
 ## Tags
 
-- [[../tags/history-of-psychiatry]]
-- [[../tags/world-war-i]]
-- [[../tags/shell-shock]]
-- [[../tags/fxa301]]
+- [history-of-psychiatry](../tags/history-of-psychiatry.md)
+- [world-war-i](../tags/world-war-i.md)
+- [shell-shock](../tags/shell-shock.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[historical-analysis]]
+- [historical-analysis](historical-analysis.md)
 
 ## See Also
 
-- [[../topics/world-war-i]]
+- [world-war-i](../topics/world-war-i.md)

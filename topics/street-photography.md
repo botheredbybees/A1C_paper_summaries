@@ -26,5 +26,5 @@ Street photography is a form of visual documentation of everyday life in public 
 
 ## Sources
 
-- [[../sources/fxa202-week02-street-photographers-rights]]
-- [[../sources/fxa202-week02-street-photography-composition-lesson-12-color-theory]]
+- [fxa202-week02-street-photographers-rights](../sources/fxa202-week02-street-photographers-rights.md)
+- [fxa202-week02-street-photography-composition-lesson-12-color-theory](../sources/fxa202-week02-street-photography-composition-lesson-12-color-theory.md)

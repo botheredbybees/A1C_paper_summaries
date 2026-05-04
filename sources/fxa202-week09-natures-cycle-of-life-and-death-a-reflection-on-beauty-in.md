@@ -24,23 +24,23 @@ The text explores the author's contemplation on nature's cycles of life and deat
 
 ## Key Concepts
 
-- [[../topics/cycle-of-life]]
-- [[../topics/decomposition-beauty]]
-- [[../topics/interconnectedness-nature]]
+- [cycle-of-life](../topics/cycle-of-life.md)
+- [decomposition-beauty](../topics/decomposition-beauty.md)
+- [interconnectedness-nature](../topics/interconnectedness-nature.md)
 
 ## Tags
 
-- [[../tags/nature-and-death]]
-- [[../tags/ecological-systems]]
-- [[../tags/beauty-in-decay]]
-- [[../tags/memento-mori]]
-- [[../tags/natural-cycles]]
-- [[../tags/environmental-connection]]
-- [[../tags/fxa202]]
+- [nature-and-death](../tags/nature-and-death.md)
+- [ecological-systems](../tags/ecological-systems.md)
+- [beauty-in-decay](../tags/beauty-in-decay.md)
+- [memento-mori](../tags/memento-mori.md)
+- [natural-cycles](../tags/natural-cycles.md)
+- [environmental-connection](../tags/environmental-connection.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[personal-reflection]]
+- [personal-reflection](personal-reflection.md)
 
 ## See Also
 

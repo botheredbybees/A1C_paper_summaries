@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Historical Photography
 
-- [[../sources/fxa202-week05-the-assignment-ill-never-forget|The Assignment I'll Never Forget]]
+- [The Assignment I'll Never Forget](../sources/fxa202-week05-the-assignment-ill-never-forget.md)

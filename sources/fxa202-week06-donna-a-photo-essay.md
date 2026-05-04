@@ -24,23 +24,23 @@ The document presents a photo essay about Donna, an autistic adult woman who has
 
 ## Key Concepts
 
-- [[../topics/emotional-regulation]]
-- [[../topics/creative-expression]]
-- [[../topics/self-acceptance]]
+- [emotional-regulation](../topics/emotional-regulation.md)
+- [creative-expression](../topics/creative-expression.md)
+- [self-acceptance](../topics/self-acceptance.md)
 
 ## Tags
 
-- [[../tags/autism]]
-- [[../tags/trauma-recovery]]
-- [[../tags/art-therapy]]
-- [[../tags/queer-studies]]
-- [[../tags/homelessness]]
-- [[../tags/fxa202]]
+- [autism](../tags/autism.md)
+- [trauma-recovery](../tags/trauma-recovery.md)
+- [art-therapy](../tags/art-therapy.md)
+- [queer-studies](../tags/queer-studies.md)
+- [homelessness](../tags/homelessness.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[photo-essay]]
+- [photo-essay](photo-essay.md)
 
 ## See Also
 
-- [[../topics/trauma-recovery]]
+- [trauma-recovery](../topics/trauma-recovery.md)

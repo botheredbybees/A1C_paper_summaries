@@ -24,25 +24,25 @@ This article explores how daily digital practices, such as the 'photo-a-day' ini
 
 ## Key Concepts
 
-- [[../topics/practice-theory]]
-- [[../topics/well-being-as-relational]]
-- [[../topics/daily-digital-routines]]
+- [practice-theory](../topics/practice-theory.md)
+- [well-being-as-relational](../topics/well-being-as-relational.md)
+- [daily-digital-routines](../topics/daily-digital-routines.md)
 
 ## Tags
 
-- [[../tags/self-care-practices]]
-- [[../tags/digital-well-being]]
-- [[../tags/community-engagement]]
-- [[../tags/mindfulness-techniques]]
-- [[../tags/creative-self-expression]]
-- [[../tags/fxa202]]
+- [self-care-practices](../tags/self-care-practices.md)
+- [digital-well-being](../tags/digital-well-being.md)
+- [community-engagement](../tags/community-engagement.md)
+- [mindfulness-techniques](../tags/mindfulness-techniques.md)
+- [creative-self-expression](../tags/creative-self-expression.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[qualitative-analysis]]
+- [qualitative-analysis](qualitative-analysis.md)
 
 ## See Also
 
-- [[../topics/creative-self-expression]]
-- [[../topics/mindfulness-techniques]]
-- [[../topics/self-care-practices]]
+- [creative-self-expression](../topics/creative-self-expression.md)
+- [mindfulness-techniques](../topics/mindfulness-techniques.md)
+- [self-care-practices](../topics/self-care-practices.md)

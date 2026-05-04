@@ -28,7 +28,7 @@ The synthesis of the provided sources highlights the role of various interventio
 
 ## Sources
 
-- [[../sources/fxa303-art-therapy-in-response-to-natural-disasters-ch04-chapter-9]]
-- [[../sources/fxa303-art-therapy-in-response-to-natural-disasters-ch06-1-i-envisioned-an-opportunity-to-assert-lasalle]]
-- [[../sources/fxa303-week09-beyond-the-fence-constructed-and-found-spaces-for-childrens]]
-- [[../sources/fxa303-week09-childrens-play-environment-after-a-disaster-the-great-east]]
+- [fxa303-art-therapy-in-response-to-natural-disasters-ch04-chapter-9](../sources/fxa303-art-therapy-in-response-to-natural-disasters-ch04-chapter-9.md)
+- [fxa303-art-therapy-in-response-to-natural-disasters-ch06-1-i-envisioned-an-opportunity-to-assert-lasalle](../sources/fxa303-art-therapy-in-response-to-natural-disasters-ch06-1-i-envisioned-an-opportunity-to-assert-lasalle.md)
+- [fxa303-week09-beyond-the-fence-constructed-and-found-spaces-for-childrens](../sources/fxa303-week09-beyond-the-fence-constructed-and-found-spaces-for-childrens.md)
+- [fxa303-week09-childrens-play-environment-after-a-disaster-the-great-east](../sources/fxa303-week09-childrens-play-environment-after-a-disaster-the-great-east.md)

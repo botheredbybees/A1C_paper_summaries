@@ -26,25 +26,25 @@ The study employed neuropsychological tests alongside functional magnetic resona
 
 ## Key Concepts
 
-- [[../topics/orbitofrontal-cortex]]
-- [[../topics/cognitive-rehabilitation]]
-- [[../topics/behavioral-changes]]
+- [orbitofrontal-cortex](../topics/orbitofrontal-cortex.md)
+- [cognitive-rehabilitation](../topics/cognitive-rehabilitation.md)
+- [behavioral-changes](../topics/behavioral-changes.md)
 
 ## Tags
 
-- [[../tags/traumatic-brain-injury]]
-- [[../tags/music-therapy]]
-- [[../tags/neuroplasticity]]
-- [[../tags/functional-mri]]
-- [[../tags/fxa100]]
+- [traumatic-brain-injury](../tags/traumatic-brain-injury.md)
+- [music-therapy](../tags/music-therapy.md)
+- [neuroplasticity](../tags/neuroplasticity.md)
+- [functional-mri](../tags/functional-mri.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[fMRI]]
-- [[systematic-review]]
+- [fMRI](fMRI.md)
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/functional-mri]]
-- [[../topics/music-therapy]]
-- [[../topics/neuroplasticity]]
+- [functional-mri](../topics/functional-mri.md)
+- [music-therapy](../topics/music-therapy.md)
+- [neuroplasticity](../topics/neuroplasticity.md)

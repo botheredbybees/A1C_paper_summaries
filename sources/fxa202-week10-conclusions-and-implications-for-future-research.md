@@ -24,22 +24,22 @@ This chapter concludes that arts-based approaches can contribute to the transfor
 
 ## Key Concepts
 
-- [[../topics/health-and-well-being-benefits]]
-- [[../topics/theoretical-frameworks]]
-- [[../topics/boundary-work]]
+- [health-and-well-being-benefits](../topics/health-and-well-being-benefits.md)
+- [theoretical-frameworks](../topics/theoretical-frameworks.md)
+- [boundary-work](../topics/boundary-work.md)
 
 ## Tags
 
-- [[../tags/arts-health]]
-- [[../tags/well-being-research]]
-- [[../tags/policy-impact]]
-- [[../tags/social-transformations]]
-- [[../tags/research-barriers]]
-- [[../tags/fxa202]]
+- [arts-health](../tags/arts-health.md)
+- [well-being-research](../tags/well-being-research.md)
+- [policy-impact](../tags/policy-impact.md)
+- [social-transformations](../tags/social-transformations.md)
+- [research-barriers](../tags/research-barriers.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[critical-perspective]]
+- [critical-perspective](critical-perspective.md)
 
 ## See Also
 

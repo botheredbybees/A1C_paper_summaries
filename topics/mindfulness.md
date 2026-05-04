@@ -27,6 +27,6 @@ The integration of mindfulness with therapeutic photography emerges as a signifi
 
 ## Sources
 
-- [[../sources/fxa202-week03-lesson-fxa202-week03-page-4]]
-- [[../sources/fxa202-week03-lesson-fxa202-week03-week-3]]
-- [[../sources/fxa202-week06-critical-reflection-on-visual-storytelling-through]]
+- [fxa202-week03-lesson-fxa202-week03-page-4](../sources/fxa202-week03-lesson-fxa202-week03-page-4.md)
+- [fxa202-week03-lesson-fxa202-week03-week-3](../sources/fxa202-week03-lesson-fxa202-week03-week-3.md)
+- [fxa202-week06-critical-reflection-on-visual-storytelling-through](../sources/fxa202-week06-critical-reflection-on-visual-storytelling-through.md)

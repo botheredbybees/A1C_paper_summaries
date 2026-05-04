@@ -24,15 +24,15 @@ This chapter explores the influence of cultural activities on health and well-be
 
 ## Key Concepts
 
-- [[../topics/social cohesion]]
-- [[../topics/mental health]]
+- [social cohesion](../topics/social cohesion.md)
+- [mental health](../topics/mental health.md)
 
 ## Tags
 
-- [[../tags/cultural-activities]]
-- [[../tags/health-promotion]]
-- [[../tags/workplace-wellbeing]]
-- [[../tags/fxa301]]
+- [cultural-activities](../tags/cultural-activities.md)
+- [health-promotion](../tags/health-promotion.md)
+- [workplace-wellbeing](../tags/workplace-wellbeing.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -40,5 +40,5 @@ This chapter explores the influence of cultural activities on health and well-be
 
 ## See Also
 
-- [[../topics/cultural-activities]]
-- [[../topics/health-promotion]]
+- [cultural-activities](../topics/cultural-activities.md)
+- [health-promotion](../topics/health-promotion.md)

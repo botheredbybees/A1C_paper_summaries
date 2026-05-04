@@ -24,26 +24,26 @@ The paper by Geoff Lowe provides an overview of the health-related effects of cr
 
 ## Key Concepts
 
-- [[../topics/expressive writing]]
-- [[../topics/immune system functioning]]
-- [[../topics/psychological well-being]]
+- [expressive writing](../topics/expressive writing.md)
+- [immune system functioning](../topics/immune system functioning.md)
+- [psychological well-being](../topics/psychological well-being.md)
 
 ## Tags
 
-- [[../tags/expressive-writing]]
-- [[../tags/creative-writing]]
-- [[../tags/mental-health-interventions]]
-- [[../tags/immunology-in-psychiatry]]
-- [[../tags/cognitive-behavioral-mechanisms]]
-- [[../tags/self-regulation-strategies]]
-- [[../tags/fxa301]]
+- [expressive-writing](../tags/expressive-writing.md)
+- [creative-writing](../tags/creative-writing.md)
+- [mental-health-interventions](../tags/mental-health-interventions.md)
+- [immunology-in-psychiatry](../tags/immunology-in-psychiatry.md)
+- [cognitive-behavioral-mechanisms](../tags/cognitive-behavioral-mechanisms.md)
+- [self-regulation-strategies](../tags/self-regulation-strategies.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/creative-writing]]
-- [[../topics/expressive-writing]]
-- [[../topics/mental-health-interventions]]
+- [creative-writing](../topics/creative-writing.md)
+- [expressive-writing](../topics/expressive-writing.md)
+- [mental-health-interventions](../topics/mental-health-interventions.md)

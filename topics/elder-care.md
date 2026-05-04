@@ -28,7 +28,7 @@ The field of elder care interventions encompasses a variety of approaches aimed 
 
 ## Sources
 
-- [[../sources/fxa100-week01-dementia-facts-and-figures]]
-- [[../sources/fxa100-week09-in-my-fathers-words-review-sophisticated-dementia-drama]]
-- [[../sources/fxa301-week06-engaging-with-music-and-dance]]
-- [[../sources/fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns]]
+- [fxa100-week01-dementia-facts-and-figures](../sources/fxa100-week01-dementia-facts-and-figures.md)
+- [fxa100-week09-in-my-fathers-words-review-sophisticated-dementia-drama](../sources/fxa100-week09-in-my-fathers-words-review-sophisticated-dementia-drama.md)
+- [fxa301-week06-engaging-with-music-and-dance](../sources/fxa301-week06-engaging-with-music-and-dance.md)
+- [fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns](../sources/fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns.md)

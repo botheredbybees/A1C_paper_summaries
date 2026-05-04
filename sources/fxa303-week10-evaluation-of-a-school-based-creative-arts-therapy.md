@@ -24,22 +24,22 @@ This study evaluates the effectiveness of a school-based creative arts therapy p
 
 ## Key Concepts
 
-- [[../topics/behavioral-difficulties]]
-- [[../topics/emotional-symptoms]]
-- [[../topics/cognitive-development]]
+- [behavioral-difficulties](../topics/behavioral-difficulties.md)
+- [emotional-symptoms](../topics/emotional-symptoms.md)
+- [cognitive-development](../topics/cognitive-development.md)
 
 ## Tags
 
-- [[../tags/refugee-youth]]
-- [[../tags/mental-health-intervention]]
-- [[../tags/creative-arts-therapy]]
-- [[../tags/school-based-programming]]
-- [[../tags/adolescent-development]]
-- [[../tags/fxa303]]
+- [refugee-youth](../tags/refugee-youth.md)
+- [mental-health-intervention](../tags/mental-health-intervention.md)
+- [creative-arts-therapy](../tags/creative-arts-therapy.md)
+- [school-based-programming](../tags/school-based-programming.md)
+- [adolescent-development](../tags/adolescent-development.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[controlled-trial]]
+- **controlled-trial**
 
 ## See Also
 

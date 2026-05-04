@@ -26,5 +26,5 @@ The integration of art as a therapeutic intervention highlights its multifaceted
 
 ## Sources
 
-- [[../sources/fxa100-week07-for-visitors-with-dementia]]
-- [[../sources/fxa301-week05-lesson-fxa301-week05-page-1]]
+- [fxa100-week07-for-visitors-with-dementia](../sources/fxa100-week07-for-visitors-with-dementia.md)
+- [fxa301-week05-lesson-fxa301-week05-page-1](../sources/fxa301-week05-lesson-fxa301-week05-page-1.md)

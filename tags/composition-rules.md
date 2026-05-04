@@ -6,5 +6,5 @@ updated: 2026-05-04
 
 ## Composition Rules
 
-- [[../sources/fxa202-week02-10-tips-for-better-composition|10 Tips for Better Composition]]
-- [[../sources/fxa202-week02-improve-your-photography-skills-with-these-9-photo|Improve Your Photography Skills with These 9 Photo Composition Tips by Steve McCurry]]
+- [10 Tips for Better Composition](../sources/fxa202-week02-10-tips-for-better-composition.md)
+- [Improve Your Photography Skills with These 9 Photo Composition Tips by Steve McCurry](../sources/fxa202-week02-improve-your-photography-skills-with-these-9-photo.md)

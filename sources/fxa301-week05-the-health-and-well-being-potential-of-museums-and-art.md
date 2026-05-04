@@ -24,25 +24,25 @@ This editorial discusses the growing recognition of museums and art galleries as
 
 ## Key Concepts
 
-- [[../topics/social-isolation-reduction]]
-- [[../topics/dementia-care]]
-- [[../topics/mental-health-support]]
+- [social-isolation-reduction](../topics/social-isolation-reduction.md)
+- [dementia-care](../topics/dementia-care.md)
+- [mental-health-support](../topics/mental-health-support.md)
 
 ## Tags
 
-- [[../tags/cultural-heritage]]
-- [[../tags/health-interventions]]
-- [[../tags/well-being-initiatives]]
-- [[../tags/public-health]]
-- [[../tags/fxa301]]
+- [cultural-heritage](../tags/cultural-heritage.md)
+- [health-interventions](../tags/health-interventions.md)
+- [well-being-initiatives](../tags/well-being-initiatives.md)
+- [public-health](../tags/public-health.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/cultural-heritage]]
-- [[../topics/health-interventions]]
-- [[../topics/public-health]]
-- [[../topics/well-being-initiatives]]
+- [cultural-heritage](../topics/cultural-heritage.md)
+- [health-interventions](../topics/health-interventions.md)
+- [public-health](../topics/public-health.md)
+- [well-being-initiatives](../topics/well-being-initiatives.md)

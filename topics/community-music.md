@@ -26,5 +26,5 @@ The integration of community music highlights its potential to foster life-long 
 
 ## Sources
 
-- [[../sources/fxa100-week04-engaging-in-community-music-an-introduction]]
-- [[../sources/fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam]]
+- [fxa100-week04-engaging-in-community-music-an-introduction](../sources/fxa100-week04-engaging-in-community-music-an-introduction.md)
+- [fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam.md)

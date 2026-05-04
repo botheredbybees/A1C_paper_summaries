@@ -24,15 +24,15 @@ The content outlines activities and readings for students to engage with the ben
 
 ## Key Concepts
 
-- [[../topics/creativity in dementia care]]
-- [[../topics/non-pharmacological interventions]]
+- [creativity in dementia care](../topics/creativity in dementia care.md)
+- [non-pharmacological interventions](../topics/non-pharmacological interventions.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/visual-arts-intervention]]
-- [[../tags/art-therapy]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [visual-arts-intervention](../tags/visual-arts-intervention.md)
+- [art-therapy](../tags/art-therapy.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -40,5 +40,5 @@ The content outlines activities and readings for students to engage with the ben
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/visual-arts-intervention]]
+- [dementia-care](../topics/dementia-care.md)
+- [visual-arts-intervention](../topics/visual-arts-intervention.md)

@@ -24,22 +24,22 @@ This study explores the development of metacognitive skills in young children ag
 
 ## Key Concepts
 
-- [[../topics/metacognitive skills]]
-- [[../topics/monitoring processes]]
-- [[../topics/control processes]]
+- [metacognitive skills](../topics/metacognitive skills.md)
+- [monitoring processes](../topics/monitoring processes.md)
+- [control processes](../topics/control processes.md)
 
 ## Tags
 
-- [[../tags/metacognitive-skills-development]]
-- [[../tags/observational-analysis]]
-- [[../tags/problem-solving-behavior]]
-- [[../tags/young-children-cognition]]
-- [[../tags/age-related-changes]]
-- [[../tags/fxa303]]
+- [metacognitive-skills-development](../tags/metacognitive-skills-development.md)
+- [observational-analysis](../tags/observational-analysis.md)
+- [problem-solving-behavior](../tags/problem-solving-behavior.md)
+- [young-children-cognition](../tags/young-children-cognition.md)
+- [age-related-changes](../tags/age-related-changes.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[observational analysis]]
+- [observational analysis](observational analysis.md)
 
 ## See Also
 

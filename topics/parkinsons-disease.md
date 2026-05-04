@@ -26,5 +26,5 @@ The sources emphasize the pivotal role of Lewy bodies and their primary componen
 
 ## Sources
 
-- [[../sources/fxa100-week01-the-science-of-lewy-body-dementia-video-transcript]]
-- [[../sources/fxa100-week01-transcript-the-science-of-lewy-body-dementia]]
+- [fxa100-week01-the-science-of-lewy-body-dementia-video-transcript](../sources/fxa100-week01-the-science-of-lewy-body-dementia-video-transcript.md)
+- [fxa100-week01-transcript-the-science-of-lewy-body-dementia](../sources/fxa100-week01-transcript-the-science-of-lewy-body-dementia.md)

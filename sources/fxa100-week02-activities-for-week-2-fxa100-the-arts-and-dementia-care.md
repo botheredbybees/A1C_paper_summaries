@@ -26,26 +26,26 @@ The document also includes a discussion prompt that encourages reflection on per
 
 ## Key Concepts
 
-- [[../topics/dementia-care]]
-- [[../topics/musical-engagement]]
-- [[../topics/emotional-memory]]
+- [dementia-care](../topics/dementia-care.md)
+- [musical-engagement](../topics/musical-engagement.md)
+- [emotional-memory](../topics/emotional-memory.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/neurological-disorders]]
-- [[../tags/memory-retrieval]]
-- [[../tags/cognitive-functioning]]
-- [[../tags/reminiscence-therapy]]
-- [[../tags/fxa100]]
+- [music-therapy](../tags/music-therapy.md)
+- [neurological-disorders](../tags/neurological-disorders.md)
+- [memory-retrieval](../tags/memory-retrieval.md)
+- [cognitive-functioning](../tags/cognitive-functioning.md)
+- [reminiscence-therapy](../tags/reminiscence-therapy.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/cognitive-functioning]]
-- [[../topics/memory-retrieval]]
-- [[../topics/music-therapy]]
-- [[../topics/reminiscence-therapy]]
+- [cognitive-functioning](../topics/cognitive-functioning.md)
+- [memory-retrieval](../topics/memory-retrieval.md)
+- [music-therapy](../topics/music-therapy.md)
+- [reminiscence-therapy](../topics/reminiscence-therapy.md)

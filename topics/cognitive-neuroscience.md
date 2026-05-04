@@ -27,6 +27,6 @@ The exploration of brain lateralization and individual differences in cognitive 
 
 ## Sources
 
-- [[../sources/fxa100-week02-are-people-really-left-brained-or-right-brain]]
-- [[../sources/fxa100-week02-are-the-brains-of-musicians-physically-different]]
-- [[../sources/fxa100-week02-how-music-helps-to-heal-the-injured-brain-therapeutic-use]]
+- [fxa100-week02-are-people-really-left-brained-or-right-brain](../sources/fxa100-week02-are-people-really-left-brained-or-right-brain.md)
+- [fxa100-week02-are-the-brains-of-musicians-physically-different](../sources/fxa100-week02-are-the-brains-of-musicians-physically-different.md)
+- [fxa100-week02-how-music-helps-to-heal-the-injured-brain-therapeutic-use](../sources/fxa100-week02-how-music-helps-to-heal-the-injured-brain-therapeutic-use.md)

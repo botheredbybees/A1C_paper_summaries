@@ -24,24 +24,24 @@ This article explores the historical context of a 'colour treatment' experiment 
 
 ## Key Concepts
 
-- [[../topics/colour treatment]]
-- [[../topics/nervous disorders]]
-- [[../topics/abstract color theory]]
+- [colour treatment](../topics/colour treatment.md)
+- [nervous disorders](../topics/nervous disorders.md)
+- [abstract color theory](../topics/abstract color theory.md)
 
 ## Tags
 
-- [[../tags/art-therapy]]
-- [[../tags/color-theory]]
-- [[../tags/world-war-i]]
-- [[../tags/shell-shock-treatment]]
-- [[../tags/historical-medical-practice]]
-- [[../tags/fxa301]]
+- [art-therapy](../tags/art-therapy.md)
+- [color-theory](../tags/color-theory.md)
+- [world-war-i](../tags/world-war-i.md)
+- [shell-shock-treatment](../tags/shell-shock-treatment.md)
+- [historical-medical-practice](../tags/historical-medical-practice.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[historical case study]]
+- [historical case study](historical case study.md)
 
 ## See Also
 
-- [[../topics/color-theory]]
-- [[../topics/world-war-i]]
+- [color-theory](../topics/color-theory.md)
+- [world-war-i](../topics/world-war-i.md)

@@ -24,26 +24,26 @@ This paper explores the concept and effects of medical clowning on adults within
 
 ## Key Concepts
 
-- [[../topics/psychological-symptoms]]
-- [[../topics/positive-emotions]]
-- [[../topics/professional-recognition]]
+- [psychological-symptoms](../topics/psychological-symptoms.md)
+- [positive-emotions](../topics/positive-emotions.md)
+- [professional-recognition](../topics/professional-recognition.md)
 
 ## Tags
 
-- [[../tags/medical-clowning]]
-- [[../tags/healthcare-environment]]
-- [[../tags/patient-experience]]
-- [[../tags/adult-patients]]
-- [[../tags/stress-reduction]]
-- [[../tags/hospitals]]
-- [[../tags/fxa303]]
+- [medical-clowning](../tags/medical-clowning.md)
+- [healthcare-environment](../tags/healthcare-environment.md)
+- [patient-experience](../tags/patient-experience.md)
+- [adult-patients](../tags/adult-patients.md)
+- [stress-reduction](../tags/stress-reduction.md)
+- [hospitals](../tags/hospitals.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[literature-review]]
+- [literature-review](literature-review.md)
 
 ## See Also
 
-- [[../topics/healthcare-environment]]
-- [[../topics/patient-experience]]
-- [[../topics/stress-reduction]]
+- [healthcare-environment](../topics/healthcare-environment.md)
+- [patient-experience](../topics/patient-experience.md)
+- [stress-reduction](../topics/stress-reduction.md)

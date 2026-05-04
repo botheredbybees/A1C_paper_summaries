@@ -26,5 +26,5 @@ The integration of physical environment design into dementia care settings under
 
 ## Sources
 
-- [[../sources/fxa100-excellence-in-dementia-care--ch02-chapter-11]]
-- [[../sources/fxa100-excellence-in-dementia-care--ch60-chapter-11]]
+- [fxa100-excellence-in-dementia-care--ch02-chapter-11](../sources/fxa100-excellence-in-dementia-care--ch02-chapter-11.md)
+- [fxa100-excellence-in-dementia-care--ch60-chapter-11](../sources/fxa100-excellence-in-dementia-care--ch60-chapter-11.md)

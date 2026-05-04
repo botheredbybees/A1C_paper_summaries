@@ -27,15 +27,15 @@ Chapter 10 of 'Excellence in Dementia Care' explores the use and benefits of art
 
 ## Key Concepts
 
-- [[../topics/person-centered care]]
-- [[../topics/artistic expression]]
+- [person-centered care](../topics/person-centered care.md)
+- [artistic expression](../topics/artistic expression.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/creative-interventions]]
-- [[../tags/quality-of-life]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [creative-interventions](../tags/creative-interventions.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -43,6 +43,6 @@ Chapter 10 of 'Excellence in Dementia Care' explores the use and benefits of art
 
 ## See Also
 
-- [[../topics/creative-interventions]]
-- [[../topics/dementia-care]]
-- [[../topics/quality-of-life]]
+- [creative-interventions](../topics/creative-interventions.md)
+- [dementia-care](../topics/dementia-care.md)
+- [quality-of-life](../topics/quality-of-life.md)

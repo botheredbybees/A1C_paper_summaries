@@ -26,5 +26,5 @@ The integration of photography in daily digital practices is explored across the
 
 ## Sources
 
-- [[../sources/fxa202-week03-lesson-fxa202-week03-page-2]]
-- [[../sources/fxa202-week03-what-smartphone-photography-is-doing-to-our-memories]]
+- [fxa202-week03-lesson-fxa202-week03-page-2](../sources/fxa202-week03-lesson-fxa202-week03-page-2.md)
+- [fxa202-week03-what-smartphone-photography-is-doing-to-our-memories](../sources/fxa202-week03-what-smartphone-photography-is-doing-to-our-memories.md)

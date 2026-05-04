@@ -24,15 +24,15 @@ The National Centre for Creative Health and the All-Party Parliamentary Group on
 
 ## Key Concepts
 
-- [[../topics/holistic care]]
-- [[../topics/person-centered care]]
+- [holistic care](../topics/holistic care.md)
+- [person-centered care](../topics/person-centered care.md)
 
 ## Tags
 
-- [[../tags/creative-health]]
-- [[../tags/health-policy]]
-- [[../tags/social-care]]
-- [[../tags/fxa301]]
+- [creative-health](../tags/creative-health.md)
+- [health-policy](../tags/health-policy.md)
+- [social-care](../tags/social-care.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -40,6 +40,6 @@ The National Centre for Creative Health and the All-Party Parliamentary Group on
 
 ## See Also
 
-- [[../topics/creative-health]]
-- [[../topics/health-policy]]
-- [[../topics/social-care]]
+- [creative-health](../topics/creative-health.md)
+- [health-policy](../topics/health-policy.md)
+- [social-care](../topics/social-care.md)

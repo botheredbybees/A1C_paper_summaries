@@ -24,25 +24,25 @@ This article explores the emotional competencies and skills required by artists,
 
 ## Key Concepts
 
-- [[../topics/emotional-resilience]]
-- [[../topics/active-listening]]
-- [[../topics/cross-disciplinary-framework]]
+- [emotional-resilience](../topics/emotional-resilience.md)
+- [active-listening](../topics/active-listening.md)
+- [cross-disciplinary-framework](../topics/cross-disciplinary-framework.md)
 
 ## Tags
 
-- [[../tags/applied-theatre]]
-- [[../tags/emotional-skills]]
-- [[../tags/healthcare-education]]
-- [[../tags/puppetry-in-healthcare]]
-- [[../tags/self-care-practices]]
-- [[../tags/fxa303]]
+- [applied-theatre](../tags/applied-theatre.md)
+- [emotional-skills](../tags/emotional-skills.md)
+- [healthcare-education](../tags/healthcare-education.md)
+- [puppetry-in-healthcare](../tags/puppetry-in-healthcare.md)
+- [self-care-practices](../tags/self-care-practices.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/applied-theatre]]
-- [[../topics/puppetry-in-healthcare]]
-- [[../topics/self-care-practices]]
+- [applied-theatre](../topics/applied-theatre.md)
+- [puppetry-in-healthcare](../topics/puppetry-in-healthcare.md)
+- [self-care-practices](../topics/self-care-practices.md)

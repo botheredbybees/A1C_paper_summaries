@@ -24,21 +24,21 @@ The document describes the 'iRemember' project, a free loan resource developed b
 
 ## Key Concepts
 
-- [[../topics/meaningful conversations]]
-- [[../topics/everyday objects]]
+- [meaningful conversations](../topics/meaningful conversations.md)
+- [everyday objects](../topics/everyday objects.md)
 
 ## Tags
 
-- [[../tags/dementia-support]]
-- [[../tags/memory-stimulation]]
-- [[../tags/social-interaction]]
-- [[../tags/fxa100]]
+- [dementia-support](../tags/dementia-support.md)
+- [memory-stimulation](../tags/memory-stimulation.md)
+- [social-interaction](../tags/social-interaction.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/memory-stimulation]]
-- [[../topics/social-interaction]]
+- [memory-stimulation](../topics/memory-stimulation.md)
+- [social-interaction](../topics/social-interaction.md)

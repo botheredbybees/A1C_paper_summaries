@@ -24,28 +24,28 @@ The document discusses the developmental period of adolescence, characterized by
 
 ## Key Concepts
 
-- [[../topics/synaptic-pruning]]
-- [[../topics/neural-circuitry-reorganization]]
-- [[../topics/identity-formation]]
-- [[../topics/decision-making-difficulties]]
+- [synaptic-pruning](../topics/synaptic-pruning.md)
+- [neural-circuitry-reorganization](../topics/neural-circuitry-reorganization.md)
+- [identity-formation](../topics/identity-formation.md)
+- [decision-making-difficulties](../topics/decision-making-difficulties.md)
 
 ## Tags
 
-- [[../tags/adolescent-development]]
-- [[../tags/brain-maturation]]
-- [[../tags/cognitive-abilities]]
-- [[../tags/neuroplasticity]]
-- [[../tags/social-independence]]
-- [[../tags/teen-peer-relations]]
-- [[../tags/fxa303]]
+- [adolescent-development](../tags/adolescent-development.md)
+- [brain-maturation](../tags/brain-maturation.md)
+- [cognitive-abilities](../tags/cognitive-abilities.md)
+- [neuroplasticity](../tags/neuroplasticity.md)
+- [social-independence](../tags/social-independence.md)
+- [teen-peer-relations](../tags/teen-peer-relations.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[review]]
+- [review](review.md)
 
 ## See Also
 
-- [[../topics/adolescent-development]]
-- [[../topics/brain-maturation]]
-- [[../topics/cognitive-abilities]]
-- [[../topics/neuroplasticity]]
+- [adolescent-development](../topics/adolescent-development.md)
+- [brain-maturation](../topics/brain-maturation.md)
+- [cognitive-abilities](../topics/cognitive-abilities.md)
+- [neuroplasticity](../topics/neuroplasticity.md)

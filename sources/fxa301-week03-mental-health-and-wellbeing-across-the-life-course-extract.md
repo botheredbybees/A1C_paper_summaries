@@ -24,25 +24,25 @@ The document highlights the increasing prevalence of mental health conditions in
 
 ## Key Concepts
 
-- [[../topics/creative health]]
-- [[../topics/non-medical approaches]]
-- [[../topics/holistic care]]
+- [creative health](../topics/creative health.md)
+- [non-medical approaches](../topics/non-medical approaches.md)
+- [holistic care](../topics/holistic care.md)
 
 ## Tags
 
-- [[../tags/mental-health]]
-- [[../tags/wellbeing-strategies]]
-- [[../tags/creative-interventions]]
-- [[../tags/lifecourse-development]]
-- [[../tags/public-policy]]
-- [[../tags/fxa301]]
+- [mental-health](../tags/mental-health.md)
+- [wellbeing-strategies](../tags/wellbeing-strategies.md)
+- [creative-interventions](../tags/creative-interventions.md)
+- [lifecourse-development](../tags/lifecourse-development.md)
+- [public-policy](../tags/public-policy.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/creative-interventions]]
-- [[../topics/mental-health]]
-- [[../topics/public-policy]]
+- [creative-interventions](../topics/creative-interventions.md)
+- [mental-health](../topics/mental-health.md)
+- [public-policy](../topics/public-policy.md)

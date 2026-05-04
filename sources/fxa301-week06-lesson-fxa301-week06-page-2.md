@@ -24,18 +24,18 @@ This lesson covers two case studies focusing on community arts projects: 'Big No
 
 ## Key Concepts
 
-- [[../topics/El Sistema]]
-- [[../topics/Big Noise]]
-- [[../topics/physical-and-emotional-benefits-of-dance]]
+- [El Sistema](../topics/El Sistema.md)
+- [Big Noise](../topics/Big Noise.md)
+- [physical-and-emotional-benefits-of-dance](../topics/physical-and-emotional-benefits-of-dance.md)
 
 ## Tags
 
-- [[../tags/community-arts]]
-- [[../tags/music-education]]
-- [[../tags/dance-health-benefits]]
-- [[../tags/youth-development]]
-- [[../tags/elderly-wellbeing]]
-- [[../tags/fxa301]]
+- [community-arts](../tags/community-arts.md)
+- [music-education](../tags/music-education.md)
+- [dance-health-benefits](../tags/dance-health-benefits.md)
+- [youth-development](../tags/youth-development.md)
+- [elderly-wellbeing](../tags/elderly-wellbeing.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -43,7 +43,7 @@ This lesson covers two case studies focusing on community arts projects: 'Big No
 
 ## See Also
 
-- [[../topics/community-arts]]
-- [[../topics/elderly-wellbeing]]
-- [[../topics/music-education]]
-- [[../topics/youth-development]]
+- [community-arts](../topics/community-arts.md)
+- [elderly-wellbeing](../topics/elderly-wellbeing.md)
+- [music-education](../topics/music-education.md)
+- [youth-development](../topics/youth-development.md)

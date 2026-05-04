@@ -30,26 +30,26 @@ Overall, this framework serves as a comprehensive guide for integrating arts ini
 
 ## Key Concepts
 
-- [[../topics/artistic practices]]
-- [[../topics/collaborative relationships]]
-- [[../topics/holistic approaches]]
+- [artistic practices](../topics/artistic practices.md)
+- [collaborative relationships](../topics/collaborative relationships.md)
+- [holistic approaches](../topics/holistic approaches.md)
 
 ## Tags
 
-- [[../tags/arts-and-health]]
-- [[../tags/public-health-policy]]
-- [[../tags/health-outcomes]]
-- [[../tags/community-engagement]]
-- [[../tags/indigenous-health]]
-- [[../tags/fxa301]]
+- [arts-and-health](../tags/arts-and-health.md)
+- [public-health-policy](../tags/public-health-policy.md)
+- [health-outcomes](../tags/health-outcomes.md)
+- [community-engagement](../tags/community-engagement.md)
+- [indigenous-health](../tags/indigenous-health.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[framework development]]
+- [framework development](framework development.md)
 
 ## See Also
 
-- [[../topics/arts-and-health]]
-- [[../topics/health-outcomes]]
-- [[../topics/indigenous-health]]
-- [[../topics/public-health-policy]]
+- [arts-and-health](../topics/arts-and-health.md)
+- [health-outcomes](../topics/health-outcomes.md)
+- [indigenous-health](../topics/indigenous-health.md)
+- [public-health-policy](../topics/public-health-policy.md)

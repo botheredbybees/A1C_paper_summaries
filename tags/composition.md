@@ -6,5 +6,5 @@ updated: 2026-05-04
 
 ## Composition
 
-- [[../sources/fxa202-week02-lesson-fxa202-week02-page-2|Improving Your Composition and Design]]
-- [[../sources/fxa202-week02-lesson-fxa202-week02-page-3|Using Colour Effectively in Photography]]
+- [Improving Your Composition and Design](../sources/fxa202-week02-lesson-fxa202-week02-page-2.md)
+- [Using Colour Effectively in Photography](../sources/fxa202-week02-lesson-fxa202-week02-page-3.md)

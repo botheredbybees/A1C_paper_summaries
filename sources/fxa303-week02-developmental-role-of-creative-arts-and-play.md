@@ -24,28 +24,28 @@ This lecture discusses the critical developmental role of creative play and arts
 
 ## Key Concepts
 
-- [[../topics/Piaget's developmental stages]]
-- [[../topics/Vygotsky's social development theory]]
-- [[../topics/neuroplasticity]]
-- [[../topics/emotional expression through drawing]]
+- [Piaget's developmental stages](../topics/Piaget's developmental stages.md)
+- [Vygotsky's social development theory](../topics/Vygotsky's social development theory.md)
+- [neuroplasticity](../topics/neuroplasticity.md)
+- [emotional expression through drawing](../topics/emotional expression through drawing.md)
 
 ## Tags
 
-- [[../tags/child-development]]
-- [[../tags/creative-arts]]
-- [[../tags/play-theory]]
-- [[../tags/emotional-wellbeing]]
-- [[../tags/cognitive-development]]
-- [[../tags/fxa303]]
+- [child-development](../tags/child-development.md)
+- [creative-arts](../tags/creative-arts.md)
+- [play-theory](../tags/play-theory.md)
+- [emotional-wellbeing](../tags/emotional-wellbeing.md)
+- [cognitive-development](../tags/cognitive-development.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/child-development]]
-- [[../topics/cognitive-development]]
-- [[../topics/creative-arts]]
-- [[../topics/emotional-wellbeing]]
-- [[../topics/play-theory]]
+- [child-development](../topics/child-development.md)
+- [cognitive-development](../topics/cognitive-development.md)
+- [creative-arts](../topics/creative-arts.md)
+- [emotional-wellbeing](../topics/emotional-wellbeing.md)
+- [play-theory](../topics/play-theory.md)

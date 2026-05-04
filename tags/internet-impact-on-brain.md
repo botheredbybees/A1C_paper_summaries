@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Internet Impact On Brain
 
-- [[../sources/fxa100-week01-how-has-the-internet-reshaped-human-cognition|How Has the Internet Reshaped Human Cognition?]]
+- [How Has the Internet Reshaped Human Cognition?](../sources/fxa100-week01-how-has-the-internet-reshaped-human-cognition.md)

@@ -24,20 +24,20 @@ This study explores the therapeutic value and cultural significance of Indigenou
 
 ## Key Concepts
 
-- [[../topics/cultural-pride]]
-- [[../topics/identity-reclamation]]
-- [[../topics/ethical-practice]]
+- [cultural-pride](../topics/cultural-pride.md)
+- [identity-reclamation](../topics/identity-reclamation.md)
+- [ethical-practice](../topics/ethical-practice.md)
 
 ## Tags
 
-- [[../tags/indigenous-arts]]
-- [[../tags/traditional-culture]]
-- [[../tags/art-therapy]]
-- [[../tags/fxa303]]
+- [indigenous-arts](../tags/indigenous-arts.md)
+- [traditional-culture](../tags/traditional-culture.md)
+- [art-therapy](../tags/art-therapy.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[grounded-theory]]
+- **grounded-theory**
 
 ## See Also
 

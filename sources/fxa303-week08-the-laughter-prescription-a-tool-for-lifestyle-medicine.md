@@ -24,25 +24,25 @@ This article explores the physiological and psychological benefits of laughter, 
 
 ## Key Concepts
 
-- [[../topics/spontaneous-laughter]]
-- [[../topics/self-induced-laughter]]
-- [[../topics/therapeutic-tool]]
+- [spontaneous-laughter](../topics/spontaneous-laughter.md)
+- [self-induced-laughter](../topics/self-induced-laughter.md)
+- [therapeutic-tool](../topics/therapeutic-tool.md)
 
 ## Tags
 
-- [[../tags/laughter-therapy]]
-- [[../tags/lifestyle-medicine]]
-- [[../tags/stress-reduction]]
-- [[../tags/physiological-benefits]]
-- [[../tags/psychological-wellbeing]]
-- [[../tags/fxa303]]
+- [laughter-therapy](../tags/laughter-therapy.md)
+- [lifestyle-medicine](../tags/lifestyle-medicine.md)
+- [stress-reduction](../tags/stress-reduction.md)
+- [physiological-benefits](../tags/physiological-benefits.md)
+- [psychological-wellbeing](../tags/psychological-wellbeing.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[review-of-literature]]
+- [review-of-literature](review-of-literature.md)
 
 ## See Also
 
-- [[../topics/lifestyle-medicine]]
-- [[../topics/psychological-wellbeing]]
-- [[../topics/stress-reduction]]
+- [lifestyle-medicine](../topics/lifestyle-medicine.md)
+- [psychological-wellbeing](../topics/psychological-wellbeing.md)
+- [stress-reduction](../topics/stress-reduction.md)

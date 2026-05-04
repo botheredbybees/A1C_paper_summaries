@@ -24,16 +24,16 @@ The National Organization for Arts in Health (NOAH) has released the updated NOA
 
 ## Key Concepts
 
-- [[../topics/ethical-principles]]
-- [[../topics/respect-for-persons]]
-- [[../topics/quality-of-care]]
+- [ethical-principles](../topics/ethical-principles.md)
+- [respect-for-persons](../topics/respect-for-persons.md)
+- [quality-of-care](../topics/quality-of-care.md)
 
 ## Tags
 
-- [[../tags/ethics-in-health]]
-- [[../tags/arts-and-health]]
-- [[../tags/professional-standards]]
-- [[../tags/fxa301]]
+- [ethics-in-health](../tags/ethics-in-health.md)
+- [arts-and-health](../tags/arts-and-health.md)
+- [professional-standards](../tags/professional-standards.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,4 +41,4 @@ The National Organization for Arts in Health (NOAH) has released the updated NOA
 
 ## See Also
 
-- [[../topics/arts-and-health]]
+- [arts-and-health](../topics/arts-and-health.md)

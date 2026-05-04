@@ -28,20 +28,20 @@ These breathing techniques are relevant to creative arts and health, especially 
 
 ## Key Concepts
 
-- [[../topics/diaphragmatic-breathing]]
-- [[../topics/lung-capacity]]
+- [diaphragmatic-breathing](../topics/diaphragmatic-breathing.md)
+- [lung-capacity](../topics/lung-capacity.md)
 
 ## Tags
 
-- [[../tags/breathing-techniques]]
-- [[../tags/vocal-performance]]
-- [[../tags/music-educaion]]
-- [[../tags/voice-health]]
-- [[../tags/fxa100]]
+- [breathing-techniques](../tags/breathing-techniques.md)
+- [vocal-performance](../tags/vocal-performance.md)
+- [music-educaion](../tags/music-educaion.md)
+- [voice-health](../tags/voice-health.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[tutorial]]
+- [tutorial](tutorial.md)
 
 ## See Also
 

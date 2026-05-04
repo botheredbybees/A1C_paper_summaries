@@ -24,16 +24,16 @@ This article examines the evolving attire of court fools during the Tudor era an
 
 ## Key Concepts
 
-- [[../topics/motley-clothing]]
-- [[../topics/luxurious-fabrics]]
-- [[../topics/social-status-through-dress]]
+- [motley-clothing](../topics/motley-clothing.md)
+- [luxurious-fabrics](../topics/luxurious-fabrics.md)
+- [social-status-through-dress](../topics/social-status-through-dress.md)
 
 ## Tags
 
-- [[../tags/tudor-england]]
-- [[../tags/court-fools-fashion]]
-- [[../tags/historical-costume-study]]
-- [[../tags/fxa303]]
+- [tudor-england](../tags/tudor-england.md)
+- [court-fools-fashion](../tags/court-fools-fashion.md)
+- [historical-costume-study](../tags/historical-costume-study.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

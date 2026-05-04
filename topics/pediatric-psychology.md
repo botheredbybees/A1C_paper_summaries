@@ -25,5 +25,5 @@ Pediatric psychology interventions aim to address the emotional and psychologica
 
 ## Sources
 
-- [[../sources/fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic]]
-- [[../sources/fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective]]
+- [fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic](../sources/fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic.md)
+- [fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective](../sources/fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective.md)

@@ -24,17 +24,17 @@ This document introduces Week 2 of a course on arts and dementia care, focusing 
 
 ## Key Concepts
 
-- [[../topics/brain-function]]
-- [[../topics/cognitive-impairments]]
-- [[../topics/musical-memories]]
+- [brain-function](../topics/brain-function.md)
+- [cognitive-impairments](../topics/cognitive-impairments.md)
+- [musical-memories](../topics/musical-memories.md)
 
 ## Tags
 
-- [[../tags/music-and-brain]]
-- [[../tags/dementia-care]]
-- [[../tags/musical-memories]]
-- [[../tags/reminiscence-bump]]
-- [[../tags/fxa100]]
+- [music-and-brain](../tags/music-and-brain.md)
+- [dementia-care](../tags/dementia-care.md)
+- [musical-memories](../tags/musical-memories.md)
+- [reminiscence-bump](../tags/reminiscence-bump.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -42,5 +42,5 @@ This document introduces Week 2 of a course on arts and dementia care, focusing 
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/reminiscence-bump]]
+- [dementia-care](../topics/dementia-care.md)
+- [reminiscence-bump](../topics/reminiscence-bump.md)

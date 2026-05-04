@@ -24,15 +24,15 @@ The transcript covers two forums held during the Sundowner tour in April and May
 
 ## Key Concepts
 
-- [[../topics/Sundown Syndrome]]
-- [[../topics/support-systems]]
+- [Sundown Syndrome](../topics/Sundown Syndrome.md)
+- [support-systems](../topics/support-systems.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/sundowner-performance]]
-- [[../tags/community-forums]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [sundowner-performance](../tags/sundowner-performance.md)
+- [community-forums](../tags/community-forums.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

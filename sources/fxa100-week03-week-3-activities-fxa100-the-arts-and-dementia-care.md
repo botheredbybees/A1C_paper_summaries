@@ -24,28 +24,28 @@ This document outlines the activities for Week 3 of the FXA100 The Arts and Deme
 
 ## Key Concepts
 
-- [[../topics/impact-of-music-on-dementia]]
-- [[../topics/neuroaesthetics]]
-- [[../topics/cultural-nuances-in-dementia-care]]
+- [impact-of-music-on-dementia](../topics/impact-of-music-on-dementia.md)
+- [neuroaesthetics](../topics/neuroaesthetics.md)
+- [cultural-nuances-in-dementia-care](../topics/cultural-nuances-in-dementia-care.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/music-therapy]]
-- [[../tags/cognitive-function]]
-- [[../tags/emotional-wellbeing]]
-- [[../tags/brain-music-relations]]
-- [[../tags/therapeutic-tools]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [music-therapy](../tags/music-therapy.md)
+- [cognitive-function](../tags/cognitive-function.md)
+- [emotional-wellbeing](../tags/emotional-wellbeing.md)
+- [brain-music-relations](../tags/brain-music-relations.md)
+- [therapeutic-tools](../tags/therapeutic-tools.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/cognitive-function]]
-- [[../topics/dementia-care]]
-- [[../topics/emotional-wellbeing]]
-- [[../topics/music-therapy]]
-- [[../topics/therapeutic-tools]]
+- [cognitive-function](../topics/cognitive-function.md)
+- [dementia-care](../topics/dementia-care.md)
+- [emotional-wellbeing](../topics/emotional-wellbeing.md)
+- [music-therapy](../topics/music-therapy.md)
+- [therapeutic-tools](../topics/therapeutic-tools.md)

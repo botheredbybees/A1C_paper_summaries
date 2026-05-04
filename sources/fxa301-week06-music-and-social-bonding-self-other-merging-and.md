@@ -24,19 +24,19 @@ This paper explores the mechanisms by which music fosters social bonding among i
 
 ## Key Concepts
 
-- [[../topics/self-other merging]]
-- [[../topics/endorphin release]]
+- [self-other merging](../topics/self-other merging.md)
+- [endorphin release](../topics/endorphin release.md)
 
 ## Tags
 
-- [[../tags/music-and-social-bonding]]
-- [[../tags/neurohormonal-mechanisms]]
-- [[../tags/interpersonal-synchrony]]
-- [[../tags/fxa301]]
+- [music-and-social-bonding](../tags/music-and-social-bonding.md)
+- [neurohormonal-mechanisms](../tags/neurohormonal-mechanisms.md)
+- [interpersonal-synchrony](../tags/interpersonal-synchrony.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 

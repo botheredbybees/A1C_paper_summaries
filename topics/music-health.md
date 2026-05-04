@@ -26,5 +26,5 @@ The exploration of music's role in health and wellbeing reveals two distinct yet
 
 ## Sources
 
-- [[../sources/fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness]]
-- [[../sources/fxa301-week06-week-6-activities-fxa301-arts-in-the-community]]
+- [fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness](../sources/fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness.md)
+- [fxa301-week06-week-6-activities-fxa301-arts-in-the-community](../sources/fxa301-week06-week-6-activities-fxa301-arts-in-the-community.md)

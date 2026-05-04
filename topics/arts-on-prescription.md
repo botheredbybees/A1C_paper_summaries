@@ -27,6 +27,6 @@ Arts On Prescription (AoP) is an innovative intervention aimed at enhancing ment
 
 ## Sources
 
-- [[../sources/fxa303-week03-arts-on-prescription-meets-sir-quentin-blake]]
-- [[../sources/fxa303-week03-arts-on-prescription-observed-changes-in-anxiety-depression]]
-- [[../sources/fxa303-week03-the-impact-of-arts-on-prescription-on-individual-health-and]]
+- [fxa303-week03-arts-on-prescription-meets-sir-quentin-blake](../sources/fxa303-week03-arts-on-prescription-meets-sir-quentin-blake.md)
+- [fxa303-week03-arts-on-prescription-observed-changes-in-anxiety-depression](../sources/fxa303-week03-arts-on-prescription-observed-changes-in-anxiety-depression.md)
+- [fxa303-week03-the-impact-of-arts-on-prescription-on-individual-health-and](../sources/fxa303-week03-the-impact-of-arts-on-prescription-on-individual-health-and.md)

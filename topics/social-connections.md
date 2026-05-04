@@ -26,5 +26,5 @@ The integration of arts within healthcare settings serves as a conduit for enhan
 
 ## Sources
 
-- [[../sources/fxa301-week03-arts-public-health-and-the-national-arts-and-health]]
-- [[../sources/fxa303-week04-arts-therapies-research-and-practice-with-persons-on-the]]
+- [fxa301-week03-arts-public-health-and-the-national-arts-and-health](../sources/fxa301-week03-arts-public-health-and-the-national-arts-and-health.md)
+- [fxa303-week04-arts-therapies-research-and-practice-with-persons-on-the](../sources/fxa303-week04-arts-therapies-research-and-practice-with-persons-on-the.md)

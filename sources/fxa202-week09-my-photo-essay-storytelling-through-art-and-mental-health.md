@@ -24,25 +24,25 @@ The document discusses a photo essay that explores the author's personal journey
 
 ## Key Concepts
 
-- [[../topics/creative-expression]]
-- [[../topics/healing-through-art]]
-- [[../topics/non-verbal-communication]]
+- [creative-expression](../topics/creative-expression.md)
+- [healing-through-art](../topics/healing-through-art.md)
+- [non-verbal-communication](../topics/non-verbal-communication.md)
 
 ## Tags
 
-- [[../tags/mental-health]]
-- [[../tags/art-therapy]]
-- [[../tags/photography-research]]
-- [[../tags/personal-narrative]]
-- [[../tags/therapeutic-expression]]
-- [[../tags/fxa202]]
+- [mental-health](../tags/mental-health.md)
+- [art-therapy](../tags/art-therapy.md)
+- [photography-research](../tags/photography-research.md)
+- [personal-narrative](../tags/personal-narrative.md)
+- [therapeutic-expression](../tags/therapeutic-expression.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[photo-essay]]
-- [[case-study]]
+- [photo-essay](photo-essay.md)
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/mental-health]]
-- [[../topics/personal-narrative]]
+- [mental-health](../topics/mental-health.md)
+- [personal-narrative](../topics/personal-narrative.md)

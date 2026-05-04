@@ -24,22 +24,22 @@ The article 'Rebuilding the Brain with Psychotherapy' by Savita Malhotra and Swa
 
 ## Key Concepts
 
-- [[../topics/neural-architecture]]
-- [[../topics/gene-expression-alteration]]
-- [[../topics/triune-brain-theory]]
+- [neural-architecture](../topics/neural-architecture.md)
+- [gene-expression-alteration](../topics/gene-expression-alteration.md)
+- [triune-brain-theory](../topics/triune-brain-theory.md)
 
 ## Tags
 
-- [[../tags/psychotherapy-neuroscience]]
-- [[../tags/brain-plasticity]]
-- [[../tags/mental-health-interventions]]
-- [[../tags/fxa303]]
+- [psychotherapy-neuroscience](../tags/psychotherapy-neuroscience.md)
+- [brain-plasticity](../tags/brain-plasticity.md)
+- [mental-health-interventions](../tags/mental-health-interventions.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[literature-review]]
+- [literature-review](literature-review.md)
 
 ## See Also
 
-- [[../topics/brain-plasticity]]
-- [[../topics/mental-health-interventions]]
+- [brain-plasticity](../topics/brain-plasticity.md)
+- [mental-health-interventions](../topics/mental-health-interventions.md)

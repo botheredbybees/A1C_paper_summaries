@@ -24,19 +24,19 @@ This document provides instructions on how to export documents created in Micros
 
 ## Key Concepts
 
-- [[../topics/PDF format]]
-- [[../topics/Microsoft Office]]
+- [PDF format](../topics/PDF format.md)
+- [Microsoft Office](../topics/Microsoft Office.md)
 
 ## Tags
 
-- [[../tags/file-export]]
-- [[../tags/pdf-creation]]
-- [[../tags/document-sharing]]
-- [[../tags/fxa202]]
+- [file-export](../tags/file-export.md)
+- [pdf-creation](../tags/pdf-creation.md)
+- [document-sharing](../tags/document-sharing.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[instruction guide]]
+- [instruction guide](instruction guide.md)
 
 ## See Also
 

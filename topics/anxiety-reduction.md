@@ -26,5 +26,5 @@ Puppet play therapy emerges as a versatile intervention for anxiety reduction in
 
 ## Sources
 
-- [[../sources/fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy]]
-- [[../sources/fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic]]
+- [fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy](../sources/fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy.md)
+- [fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic](../sources/fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic.md)

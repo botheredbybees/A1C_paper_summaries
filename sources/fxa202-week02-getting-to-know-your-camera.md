@@ -24,26 +24,26 @@ The lecture slides for Week 2 of the FXA202 course, titled 'Getting to Know Your
 
 ## Key Concepts
 
-- [[../topics/depth-of-field]]
-- [[../topics/rule-of-thirds]]
-- [[../topics/color-theory]]
-- [[../topics/manual-exposure-modes]]
+- [depth-of-field](../topics/depth-of-field.md)
+- [rule-of-thirds](../topics/rule-of-thirds.md)
+- [color-theory](../topics/color-theory.md)
+- [manual-exposure-modes](../topics/manual-exposure-modes.md)
 
 ## Tags
 
-- [[../tags/camera-usage]]
-- [[../tags/photography-basics]]
-- [[../tags/composition-techniques]]
-- [[../tags/lighting-conditions]]
-- [[../tags/film-vs-digital]]
-- [[../tags/fxa202]]
+- [camera-usage](../tags/camera-usage.md)
+- [photography-basics](../tags/photography-basics.md)
+- [composition-techniques](../tags/composition-techniques.md)
+- [lighting-conditions](../tags/lighting-conditions.md)
+- [film-vs-digital](../tags/film-vs-digital.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[lecture-slides]]
+- [lecture-slides](lecture-slides.md)
 
 ## See Also
 
-- [[../topics/camera-usage]]
-- [[../topics/composition-techniques]]
-- [[../topics/photography-basics]]
+- [camera-usage](../topics/camera-usage.md)
+- [composition-techniques](../topics/composition-techniques.md)
+- [photography-basics](../topics/photography-basics.md)

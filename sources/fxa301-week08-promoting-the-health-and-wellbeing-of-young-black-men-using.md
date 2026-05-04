@@ -24,31 +24,31 @@ Martin Kemp's paper explores the use of drama and theatre in promoting emotional
 
 ## Key Concepts
 
-- [[../topics/self-esteem]]
-- [[../topics/critical-awareness]]
-- [[../topics/safe-space]]
-- [[../topics/agency]]
-- [[../topics/peer-trust-building]]
+- [self-esteem](../topics/self-esteem.md)
+- [critical-awareness](../topics/critical-awareness.md)
+- [safe-space](../topics/safe-space.md)
+- [agency](../topics/agency.md)
+- [peer-trust-building](../topics/peer-trust-building.md)
 
 ## Tags
 
-- [[../tags/community-health]]
-- [[../tags/black-masculinity]]
-- [[../tags/qualitative-research]]
-- [[../tags/arts-interventions]]
-- [[../tags/wellbeing-promotion]]
-- [[../tags/drama-therapy]]
-- [[../tags/fxa301]]
+- [community-health](../tags/community-health.md)
+- [black-masculinity](../tags/black-masculinity.md)
+- [qualitative-research](../tags/qualitative-research.md)
+- [arts-interventions](../tags/arts-interventions.md)
+- [wellbeing-promotion](../tags/wellbeing-promotion.md)
+- [drama-therapy](../tags/drama-therapy.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[process-evaluation]]
-- [[outcome-evaluation]]
+- [process-evaluation](process-evaluation.md)
+- [outcome-evaluation](outcome-evaluation.md)
 
 ## See Also
 
-- [[../topics/arts-interventions]]
-- [[../topics/community-health]]
-- [[../topics/drama-therapy]]
-- [[../topics/qualitative-research]]
-- [[../topics/wellbeing-promotion]]
+- [arts-interventions](../topics/arts-interventions.md)
+- [community-health](../topics/community-health.md)
+- [drama-therapy](../topics/drama-therapy.md)
+- [qualitative-research](../topics/qualitative-research.md)
+- [wellbeing-promotion](../topics/wellbeing-promotion.md)

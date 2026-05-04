@@ -24,26 +24,26 @@ This article discusses the impact of community mural projects on revitalizing th
 
 ## Key Concepts
 
-- [[../topics/reverse-graffiti]]
-- [[../topics/sense-of-place]]
-- [[../topics/community-vitality]]
+- [reverse-graffiti](../topics/reverse-graffiti.md)
+- [sense-of-place](../topics/sense-of-place.md)
+- [community-vitality](../topics/community-vitality.md)
 
 ## Tags
 
-- [[../tags/community-engagement]]
-- [[../tags/urban-renewal]]
-- [[../tags/social-cohesion]]
-- [[../tags/cultural-identity]]
-- [[../tags/public-art]]
-- [[../tags/participatory-design]]
-- [[../tags/fxa301]]
+- [community-engagement](../tags/community-engagement.md)
+- [urban-renewal](../tags/urban-renewal.md)
+- [social-cohesion](../tags/social-cohesion.md)
+- [cultural-identity](../tags/cultural-identity.md)
+- [public-art](../tags/public-art.md)
+- [participatory-design](../tags/participatory-design.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/cultural-identity]]
-- [[../topics/public-art]]
-- [[../topics/social-cohesion]]
+- [cultural-identity](../topics/cultural-identity.md)
+- [public-art](../topics/public-art.md)
+- [social-cohesion](../topics/social-cohesion.md)

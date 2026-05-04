@@ -24,24 +24,24 @@ This report evaluates the Art Access Program at the Art Gallery of New South Wal
 
 ## Key Concepts
 
-- [[../topics/social inclusion]]
-- [[../topics/cognitive decline]]
-- [[../topics/healthcare intervention]]
+- [social inclusion](../topics/social inclusion.md)
+- [cognitive decline](../topics/cognitive decline.md)
+- [healthcare intervention](../topics/healthcare intervention.md)
 
 ## Tags
 
-- [[../tags/arts-engagement]]
-- [[../tags/dementia-care]]
-- [[../tags/social-inclusion]]
-- [[../tags/fxa100]]
+- [arts-engagement](../tags/arts-engagement.md)
+- [dementia-care](../tags/dementia-care.md)
+- [social-inclusion](../tags/social-inclusion.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[mixed-method approach]]
-- [[program evaluation]]
+- [mixed-method approach](mixed-method approach.md)
+- [program evaluation](program evaluation.md)
 
 ## See Also
 
-- [[../topics/arts-engagement]]
-- [[../topics/dementia-care]]
-- [[../topics/social-inclusion]]
+- [arts-engagement](../topics/arts-engagement.md)
+- [dementia-care](../topics/dementia-care.md)
+- [social-inclusion](../topics/social-inclusion.md)

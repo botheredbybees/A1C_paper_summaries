@@ -24,27 +24,27 @@ The House of Memories is a dementia awareness programme initiated by National Mu
 
 ## Key Concepts
 
-- [[../topics/dementia awareness]]
-- [[../topics/person-centered care]]
-- [[../topics/interactive museum experiences]]
+- [dementia awareness](../topics/dementia awareness.md)
+- [person-centered care](../topics/person-centered care.md)
+- [interactive museum experiences](../topics/interactive museum experiences.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/person-centered-care]]
-- [[../tags/museum-education]]
-- [[../tags/memory-stimulation]]
-- [[../tags/social-support]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [person-centered-care](../tags/person-centered-care.md)
+- [museum-education](../tags/museum-education.md)
+- [memory-stimulation](../tags/memory-stimulation.md)
+- [social-support](../tags/social-support.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[program initiative]]
+- [program initiative](program initiative.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/memory-stimulation]]
-- [[../topics/museum-education]]
-- [[../topics/person-centered-care]]
-- [[../topics/social-support]]
+- [dementia-care](../topics/dementia-care.md)
+- [memory-stimulation](../topics/memory-stimulation.md)
+- [museum-education](../topics/museum-education.md)
+- [person-centered-care](../topics/person-centered-care.md)
+- [social-support](../topics/social-support.md)

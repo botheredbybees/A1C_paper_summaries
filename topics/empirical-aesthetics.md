@@ -26,5 +26,5 @@ The field of empirical aesthetics explores the psychological processes behind ae
 
 ## Sources
 
-- [[../sources/fxa301-week02-aesthetic-judgments-of-novel-graphic-patterns-analyses-of]]
-- [[../sources/fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and]]
+- [fxa301-week02-aesthetic-judgments-of-novel-graphic-patterns-analyses-of](../sources/fxa301-week02-aesthetic-judgments-of-novel-graphic-patterns-analyses-of.md)
+- [fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and](../sources/fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and.md)

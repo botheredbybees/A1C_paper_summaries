@@ -24,21 +24,21 @@ The National Dementia Data Improvement Plan 2023–2034 aims to enhance data qua
 
 ## Key Concepts
 
-- [[../topics/prevalence-incidence-data]]
-- [[../topics/national-monitoring]]
+- [prevalence-incidence-data](../topics/prevalence-incidence-data.md)
+- [national-monitoring](../topics/national-monitoring.md)
 
 ## Tags
 
-- [[../tags/dementia-research]]
-- [[../tags/data-improvement]]
-- [[../tags/health-policy]]
-- [[../tags/fxa100]]
+- [dementia-research](../tags/dementia-research.md)
+- [data-improvement](../tags/data-improvement.md)
+- [health-policy](../tags/health-policy.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/dementia-research]]
-- [[../topics/health-policy]]
+- [dementia-research](../topics/dementia-research.md)
+- [health-policy](../topics/health-policy.md)

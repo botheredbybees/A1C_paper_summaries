@@ -28,7 +28,7 @@ The synthesis of sources on creative mental health practices reveals a multi-fac
 
 ## Sources
 
-- [[../sources/fxa100-week09-web-article-north-2021]]
-- [[../sources/fxa303-creativity-wellbeing-and-mental-health-ch01-10-conclusions-tony-gillam]]
-- [[../sources/fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam]]
-- [[../sources/fxa303-creativity-wellbeing-and-mental-health-ch05-8-creative-approaches-to-learning-and-leadership-tony-gillam]]
+- [fxa100-week09-web-article-north-2021](../sources/fxa100-week09-web-article-north-2021.md)
+- [fxa303-creativity-wellbeing-and-mental-health-ch01-10-conclusions-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch01-10-conclusions-tony-gillam.md)
+- [fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam.md)
+- [fxa303-creativity-wellbeing-and-mental-health-ch05-8-creative-approaches-to-learning-and-leadership-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch05-8-creative-approaches-to-learning-and-leadership-tony-gillam.md)

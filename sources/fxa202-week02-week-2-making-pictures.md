@@ -24,23 +24,23 @@ The tutorial focuses on the importance of having a camera with you at all times 
 
 ## Key Concepts
 
-- [[../topics/image-quality]]
-- [[../topics/portability-vs-functionality]]
-- [[../topics/manual-settings]]
+- [image-quality](../topics/image-quality.md)
+- [portability-vs-functionality](../topics/portability-vs-functionality.md)
+- [manual-settings](../topics/manual-settings.md)
 
 ## Tags
 
-- [[../tags/photography-tips]]
-- [[../tags/camera-usage]]
-- [[../tags/mobile-phone-cameras]]
-- [[../tags/dslr-photography]]
-- [[../tags/fxa202]]
+- [photography-tips](../tags/photography-tips.md)
+- [camera-usage](../tags/camera-usage.md)
+- [mobile-phone-cameras](../tags/mobile-phone-cameras.md)
+- [dslr-photography](../tags/dslr-photography.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[tutorial]]
+- [tutorial](tutorial.md)
 
 ## See Also
 
-- [[../topics/camera-usage]]
-- [[../topics/photography-tips]]
+- [camera-usage](../topics/camera-usage.md)
+- [photography-tips](../topics/photography-tips.md)

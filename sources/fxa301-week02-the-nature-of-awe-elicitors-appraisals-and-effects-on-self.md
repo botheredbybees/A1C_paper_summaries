@@ -24,20 +24,20 @@ This article explores the nature of awe, a distinct emotion characterized by eli
 
 ## Key Concepts
 
-- [[../topics/cognitive-accommodation]]
-- [[../topics/self-diminishing-effects]]
-- [[../topics/universal-membership]]
+- [cognitive-accommodation](../topics/cognitive-accommodation.md)
+- [self-diminishing-effects](../topics/self-diminishing-effects.md)
+- [universal-membership](../topics/universal-membership.md)
 
 ## Tags
 
-- [[../tags/emotion-studies]]
-- [[../tags/self-perception]]
-- [[../tags/awe-experiences]]
-- [[../tags/fxa301]]
+- [emotion-studies](../tags/emotion-studies.md)
+- [self-perception](../tags/self-perception.md)
+- [awe-experiences](../tags/awe-experiences.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[empirical-research]]
+- [empirical-research](empirical-research.md)
 
 ## See Also
 

@@ -25,5 +25,5 @@ The integration of findings from both sources highlights the multifaceted benefi
 
 ## Sources
 
-- [[../sources/fxa100-week03-association-of-music-interventions-with-health-related]]
-- [[../sources/fxa100-week03-the-effects-of-music-on-the-brain-video-transcript]]
+- [fxa100-week03-association-of-music-interventions-with-health-related](../sources/fxa100-week03-association-of-music-interventions-with-health-related.md)
+- [fxa100-week03-the-effects-of-music-on-the-brain-video-transcript](../sources/fxa100-week03-the-effects-of-music-on-the-brain-video-transcript.md)

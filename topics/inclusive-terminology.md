@@ -26,5 +26,5 @@ Sources highlight the importance of using inclusive and non-stigmatizing languag
 
 ## Sources
 
-- [[../sources/fxa100-week04-dementia-language-guidelines]]
-- [[../sources/fxa100-week04-dementia-words-matter-guidelines-on-language-about-dementia]]
+- [fxa100-week04-dementia-language-guidelines](../sources/fxa100-week04-dementia-language-guidelines.md)
+- [fxa100-week04-dementia-words-matter-guidelines-on-language-about-dementia](../sources/fxa100-week04-dementia-words-matter-guidelines-on-language-about-dementia.md)

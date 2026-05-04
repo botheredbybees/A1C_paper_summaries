@@ -24,22 +24,22 @@ The document presents a series of poems that explore the internal struggles and 
 
 ## Key Concepts
 
-- [[../topics/body dysmorphia]]
-- [[../topics/resilience in trauma]]
-- [[../topics/grief processing]]
+- [body dysmorphia](../topics/body dysmorphia.md)
+- [resilience in trauma](../topics/resilience in trauma.md)
+- [grief processing](../topics/grief processing.md)
 
 ## Tags
 
-- [[../tags/poetry]]
-- [[../tags/mental-health-expressions]]
-- [[../tags/trauma-literature]]
-- [[../tags/emotional-landscape]]
-- [[../tags/psychological-struggle]]
-- [[../tags/fxa202]]
+- [poetry](../tags/poetry.md)
+- [mental-health-expressions](../tags/mental-health-expressions.md)
+- [trauma-literature](../tags/trauma-literature.md)
+- [emotional-landscape](../tags/emotional-landscape.md)
+- [psychological-struggle](../tags/psychological-struggle.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[literary analysis]]
+- [literary analysis](literary analysis.md)
 
 ## See Also
 

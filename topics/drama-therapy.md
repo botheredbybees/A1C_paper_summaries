@@ -30,9 +30,9 @@ The sources collectively underscore drama therapy as a versatile intervention wi
 
 ## Sources
 
-- [[../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it]]
-- [[../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2)]]
-- [[../sources/fxa100-week09-people-with-dementia-as-spect-actors-in-a-musical-theatre]]
-- [[../sources/fxa100-week09-web-article-north-2021]]
-- [[../sources/fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using]]
-- [[../sources/fxa303-week08-clown-therapy-a-drama-therapy-approach-to-addiction-and]]
+- [fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it](../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it.md)
+- [fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2)](../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2).md)
+- [fxa100-week09-people-with-dementia-as-spect-actors-in-a-musical-theatre](../sources/fxa100-week09-people-with-dementia-as-spect-actors-in-a-musical-theatre.md)
+- [fxa100-week09-web-article-north-2021](../sources/fxa100-week09-web-article-north-2021.md)
+- [fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using](../sources/fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using.md)
+- [fxa303-week08-clown-therapy-a-drama-therapy-approach-to-addiction-and](../sources/fxa303-week08-clown-therapy-a-drama-therapy-approach-to-addiction-and.md)

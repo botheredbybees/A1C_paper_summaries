@@ -26,5 +26,5 @@ The concept of cultural significance is explored through diverse forms and expre
 
 ## Sources
 
-- [[../sources/fxa301-week05-naidoc-week-aboriginal-mural-brings-community-together-in]]
-- [[../sources/fxa303-week05-forms-of-puppets-and-puppetry]]
+- [fxa301-week05-naidoc-week-aboriginal-mural-brings-community-together-in](../sources/fxa301-week05-naidoc-week-aboriginal-mural-brings-community-together-in.md)
+- [fxa303-week05-forms-of-puppets-and-puppetry](../sources/fxa303-week05-forms-of-puppets-and-puppetry.md)

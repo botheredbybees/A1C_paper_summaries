@@ -26,5 +26,5 @@ Research protocols are essential documents in the field of arts-in-health and ot
 
 ## Sources
 
-- [[../sources/fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production]]
-- [[../sources/fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production-(2)]]
+- [fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production](../sources/fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production.md)
+- [fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production-(2)](../sources/fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production-(2).md)

@@ -26,5 +26,5 @@ The synthesis of research on brain development during adolescence highlights a c
 
 ## Sources
 
-- [[../sources/fxa303-week03-brain-development-during-adolescence]]
-- [[../sources/fxa303-week03-media-use-and-brain-development-during-adolescence]]
+- [fxa303-week03-brain-development-during-adolescence](../sources/fxa303-week03-brain-development-during-adolescence.md)
+- [fxa303-week03-media-use-and-brain-development-during-adolescence](../sources/fxa303-week03-media-use-and-brain-development-during-adolescence.md)

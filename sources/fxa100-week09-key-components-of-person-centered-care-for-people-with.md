@@ -24,25 +24,25 @@ This systematic review aimed to identify key components of person-centered care 
 
 ## Key Concepts
 
-- [[../topics/person-centered-care]]
-- [[../topics/intervention-components]]
-- [[../topics/decision-model]]
+- [person-centered-care](../topics/person-centered-care.md)
+- [intervention-components](../topics/intervention-components.md)
+- [decision-model](../topics/decision-model.md)
 
 ## Tags
 
-- [[../tags/person-centered-care]]
-- [[../tags/dementia-interventions]]
-- [[../tags/systematic-review]]
-- [[../tags/patient-preference-study]]
-- [[../tags/non-pharmacological-treatments]]
-- [[../tags/fxa100]]
+- [person-centered-care](../tags/person-centered-care.md)
+- [dementia-interventions](../tags/dementia-interventions.md)
+- [systematic-review](../tags/systematic-review.md)
+- [patient-preference-study](../tags/patient-preference-study.md)
+- [non-pharmacological-treatments](../tags/non-pharmacological-treatments.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/dementia-interventions]]
-- [[../topics/person-centered-care]]
-- [[../topics/systematic-review]]
+- [dementia-interventions](../topics/dementia-interventions.md)
+- [person-centered-care](../topics/person-centered-care.md)
+- [systematic-review](../topics/systematic-review.md)

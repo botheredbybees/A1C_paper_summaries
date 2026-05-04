@@ -24,20 +24,20 @@ Matteo Valleriani's article, 'From the Quadrivium to Modern Science,' explores t
 
 ## Key Concepts
 
-- [[../topics/quadrivium]]
-- [[../topics/emergence-of-modern-science]]
+- [quadrivium](../topics/quadrivium.md)
+- [emergence-of-modern-science](../topics/emergence-of-modern-science.md)
 
 ## Tags
 
-- [[../tags/medieval-education]]
-- [[../tags/history-of-science]]
-- [[../tags/quadrivium]]
-- [[../tags/fxa301]]
+- [medieval-education](../tags/medieval-education.md)
+- [history-of-science](../tags/history-of-science.md)
+- [quadrivium](../tags/quadrivium.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[historical-analysis]]
+- [historical-analysis](historical-analysis.md)
 
 ## See Also
 
-- [[../topics/quadrivium]]
+- [quadrivium](../topics/quadrivium.md)

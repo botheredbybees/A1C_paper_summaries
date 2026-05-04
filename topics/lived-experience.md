@@ -26,5 +26,5 @@ The concept of lived experience is explored through two perspectives that highli
 
 ## Sources
 
-- [[../sources/fxa202-week06-critical-reflection-of-the-development-of-the-finding-joy]]
-- [[../sources/fxa301-week03-statement-on-lived-experience]]
+- [fxa202-week06-critical-reflection-of-the-development-of-the-finding-joy](../sources/fxa202-week06-critical-reflection-of-the-development-of-the-finding-joy.md)
+- [fxa301-week03-statement-on-lived-experience](../sources/fxa301-week03-statement-on-lived-experience.md)

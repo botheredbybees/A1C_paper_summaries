@@ -32,27 +32,27 @@ The Art Gallery of NSW continues to develop resources and processes for integrat
 
 ## Key Concepts
 
-- [[../topics/arts-engagement]]
-- [[../topics/sensory-stimulation]]
-- [[../topics/self-expression]]
+- [arts-engagement](../topics/arts-engagement.md)
+- [sensory-stimulation](../topics/sensory-stimulation.md)
+- [self-expression](../topics/self-expression.md)
 
 ## Tags
 
-- [[../tags/arts-therapy]]
-- [[../tags/dementia-care]]
-- [[../tags/social-inclusion]]
-- [[../tags/wellbeing-through-art]]
-- [[../tags/gallery-programs]]
-- [[../tags/fxa100]]
+- [arts-therapy](../tags/arts-therapy.md)
+- [dementia-care](../tags/dementia-care.md)
+- [social-inclusion](../tags/social-inclusion.md)
+- [wellbeing-through-art](../tags/wellbeing-through-art.md)
+- [gallery-programs](../tags/gallery-programs.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[program-evaluation]]
+- [program-evaluation](program-evaluation.md)
 
 ## See Also
 
-- [[../topics/arts-therapy]]
-- [[../topics/dementia-care]]
-- [[../topics/gallery-programs]]
-- [[../topics/social-inclusion]]
-- [[../topics/wellbeing-through-art]]
+- [arts-therapy](../topics/arts-therapy.md)
+- [dementia-care](../topics/dementia-care.md)
+- [gallery-programs](../topics/gallery-programs.md)
+- [social-inclusion](../topics/social-inclusion.md)
+- [wellbeing-through-art](../topics/wellbeing-through-art.md)

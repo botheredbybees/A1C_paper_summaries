@@ -24,25 +24,25 @@ This study, conducted by Catherine Deveney and Patrick Lawson, explores the ther
 
 ## Key Concepts
 
-- [[../topics/therapeutic-effects]]
-- [[../topics/interpretative-phenomenological-analysis]]
-- [[../topics/cognitive-processing]]
+- [therapeutic-effects](../topics/therapeutic-effects.md)
+- [interpretative-phenomenological-analysis](../topics/interpretative-phenomenological-analysis.md)
+- [cognitive-processing](../topics/cognitive-processing.md)
 
 ## Tags
 
-- [[../tags/creative-writing]]
-- [[../tags/mental-health]]
-- [[../tags/emotional-processing]]
-- [[../tags/well-being]]
-- [[../tags/fxa301]]
+- [creative-writing](../tags/creative-writing.md)
+- [mental-health](../tags/mental-health.md)
+- [emotional-processing](../tags/emotional-processing.md)
+- [well-being](../tags/well-being.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[ipa]]
+- [ipa](ipa.md)
 
 ## See Also
 
-- [[../topics/creative-writing]]
-- [[../topics/emotional-processing]]
-- [[../topics/mental-health]]
-- [[../topics/well-being]]
+- [creative-writing](../topics/creative-writing.md)
+- [emotional-processing](../topics/emotional-processing.md)
+- [mental-health](../topics/mental-health.md)
+- [well-being](../topics/well-being.md)

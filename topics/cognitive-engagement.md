@@ -26,5 +26,5 @@ The integration of creative activities such as listening to music and engaging i
 
 ## Sources
 
-- [[../sources/fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care]]
-- [[../sources/fxa100-week06-art-creativity]]
+- [fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care](../sources/fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care.md)
+- [fxa100-week06-art-creativity](../sources/fxa100-week06-art-creativity.md)

@@ -24,27 +24,27 @@ This study conducted a systematic review with meta-analysis to summarize the evi
 
 ## Key Concepts
 
-- [[../topics/fall risk reduction]]
-- [[../topics/balance improvement]]
-- [[../topics/functional capacity]]
+- [fall risk reduction](../topics/fall risk reduction.md)
+- [balance improvement](../topics/balance improvement.md)
+- [functional capacity](../topics/functional capacity.md)
 
 ## Tags
 
-- [[../tags/dance-intervention]]
-- [[../tags/elderly-health]]
-- [[../tags/fall-prevention]]
-- [[../tags/physical-activity]]
-- [[../tags/systematic-review]]
-- [[../tags/fxa301]]
+- [dance-intervention](../tags/dance-intervention.md)
+- [elderly-health](../tags/elderly-health.md)
+- [fall-prevention](../tags/fall-prevention.md)
+- [physical-activity](../tags/physical-activity.md)
+- [systematic-review](../tags/systematic-review.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[systematic review]]
-- [[meta-analysis]]
+- [systematic review](systematic review.md)
+- [meta-analysis](meta-analysis.md)
 
 ## See Also
 
-- [[../topics/dance-intervention]]
-- [[../topics/elderly-health]]
-- [[../topics/physical-activity]]
-- [[../topics/systematic-review]]
+- [dance-intervention](../topics/dance-intervention.md)
+- [elderly-health](../topics/elderly-health.md)
+- [physical-activity](../topics/physical-activity.md)
+- [systematic-review](../topics/systematic-review.md)

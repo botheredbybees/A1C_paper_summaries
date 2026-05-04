@@ -24,23 +24,23 @@ The study explores the role of art centers in remote communities for Aboriginal 
 
 ## Key Concepts
 
-- [[../topics/dementia prevalence]]
-- [[../topics/culturally relevant care]]
-- [[../topics/social participation]]
+- [dementia prevalence](../topics/dementia prevalence.md)
+- [culturally relevant care](../topics/culturally relevant care.md)
+- [social participation](../topics/social participation.md)
 
 ## Tags
 
-- [[../tags/aboriginal-australians]]
-- [[../tags/dementia-care]]
-- [[../tags/remote-communities]]
-- [[../tags/art-therapy]]
-- [[../tags/indigenous-health]]
-- [[../tags/cultural-preservation]]
-- [[../tags/fxa303]]
+- [aboriginal-australians](../tags/aboriginal-australians.md)
+- [dementia-care](../tags/dementia-care.md)
+- [remote-communities](../tags/remote-communities.md)
+- [art-therapy](../tags/art-therapy.md)
+- [indigenous-health](../tags/indigenous-health.md)
+- [cultural-preservation](../tags/cultural-preservation.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[qualitative study]]
+- **qualitative study**
 
 ## See Also
 

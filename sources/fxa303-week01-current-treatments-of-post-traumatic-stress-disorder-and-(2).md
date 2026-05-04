@@ -24,24 +24,24 @@ This article reviews current treatments for post-traumatic stress disorder (PTSD
 
 ## Key Concepts
 
-- [[../topics/PTSD pathophysiology]]
-- [[../topics/trauma-focused therapies]]
-- [[../topics/medically unresponsive epilepsy]]
+- [PTSD pathophysiology](../topics/PTSD pathophysiology.md)
+- [trauma-focused therapies](../topics/trauma-focused therapies.md)
+- [medically unresponsive epilepsy](../topics/medically unresponsive epilepsy.md)
 
 ## Tags
 
-- [[../tags/post-traumatic-stress-disorder]]
-- [[../tags/amygdala-ablation]]
-- [[../tags/refractory-cases]]
-- [[../tags/neurosurgery]]
-- [[../tags/fxa303]]
+- [post-traumatic-stress-disorder](../tags/post-traumatic-stress-disorder.md)
+- [amygdala-ablation](../tags/amygdala-ablation.md)
+- [refractory-cases](../tags/refractory-cases.md)
+- [neurosurgery](../tags/neurosurgery.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/amygdala-ablation]]
-- [[../topics/post-traumatic-stress-disorder]]
-- [[../topics/refractory-cases]]
+- [amygdala-ablation](../topics/amygdala-ablation.md)
+- [post-traumatic-stress-disorder](../topics/post-traumatic-stress-disorder.md)
+- [refractory-cases](../topics/refractory-cases.md)

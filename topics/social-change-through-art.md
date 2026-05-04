@@ -27,6 +27,6 @@ The integration of art forms such as theatre and music in social interventions h
 
 ## Sources
 
-- [[../sources/fxa100-week09-applied-theatre-problems-and-possibilities]]
-- [[../sources/fxa100-week09-augusto-boals-forum-theatre-for-teachers]]
-- [[../sources/fxa301-week06-recontextualizing-music-for-social-change]]
+- [fxa100-week09-applied-theatre-problems-and-possibilities](../sources/fxa100-week09-applied-theatre-problems-and-possibilities.md)
+- [fxa100-week09-augusto-boals-forum-theatre-for-teachers](../sources/fxa100-week09-augusto-boals-forum-theatre-for-teachers.md)
+- [fxa301-week06-recontextualizing-music-for-social-change](../sources/fxa301-week06-recontextualizing-music-for-social-change.md)

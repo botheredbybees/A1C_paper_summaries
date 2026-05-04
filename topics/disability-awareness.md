@@ -26,5 +26,5 @@ The concept of disability awareness is explored through the lens of transforming
 
 ## Sources
 
-- [[../sources/fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions]]
-- [[../sources/fxa301-week09-lesson-fxa301-week09-page-4-week-3-activities]]
+- [fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions](../sources/fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions.md)
+- [fxa301-week09-lesson-fxa301-week09-page-4-week-3-activities](../sources/fxa301-week09-lesson-fxa301-week09-page-4-week-3-activities.md)

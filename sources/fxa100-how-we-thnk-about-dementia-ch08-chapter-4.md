@@ -24,16 +24,16 @@ In this chapter from Hughes' book 'How We Think About Dementia', the concept of 
 
 ## Key Concepts
 
-- [[../topics/situated embodied agent (SEA)]]
-- [[../topics/personhood]]
-- [[../topics/emotional connections]]
+- [situated embodied agent (SEA)](../topics/situated embodied agent (SEA).md)
+- [personhood](../topics/personhood.md)
+- [emotional connections](../topics/emotional connections.md)
 
 ## Tags
 
-- [[../tags/dementia]]
-- [[../tags/personhood-theory]]
-- [[../tags/ethics]]
-- [[../tags/fxa100]]
+- [dementia](../tags/dementia.md)
+- [personhood-theory](../tags/personhood-theory.md)
+- [ethics](../tags/ethics.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -41,6 +41,6 @@ In this chapter from Hughes' book 'How We Think About Dementia', the concept of 
 
 ## See Also
 
-- [[../topics/dementia]]
-- [[../topics/ethics]]
-- [[../topics/personhood-theory]]
+- [dementia](../topics/dementia.md)
+- [ethics](../topics/ethics.md)
+- [personhood-theory](../topics/personhood-theory.md)

@@ -24,21 +24,21 @@ This paper presents a comprehensive review and comparison of six influential cog
 
 ## Key Concepts
 
-- [[../topics/emotional-responses-to-art]]
-- [[../topics/physiological-reactions-to-art]]
-- [[../topics/unified-visual-framework-for-comparison]]
+- [emotional-responses-to-art](../topics/emotional-responses-to-art.md)
+- [physiological-reactions-to-art](../topics/physiological-reactions-to-art.md)
+- [unified-visual-framework-for-comparison](../topics/unified-visual-framework-for-comparison.md)
 
 ## Tags
 
-- [[../tags/psychological-models-of-art]]
-- [[../tags/aesthetic-experience]]
-- [[../tags/cognitive-processes-in-art]]
-- [[../tags/fxa301]]
+- [psychological-models-of-art](../tags/psychological-models-of-art.md)
+- [aesthetic-experience](../tags/aesthetic-experience.md)
+- [cognitive-processes-in-art](../tags/cognitive-processes-in-art.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/aesthetic-experience]]
+- [aesthetic-experience](../topics/aesthetic-experience.md)

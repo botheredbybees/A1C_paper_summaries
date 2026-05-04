@@ -26,5 +26,5 @@ The discourse surrounding dementia involves a multifaceted exploration of how so
 
 ## Sources
 
-- [[../sources/fxa100-week04-dementia-discourse-a-rethink]]
-- [[../sources/fxa100-week04-dementia-discourse-a-rethink-(2)]]
+- [fxa100-week04-dementia-discourse-a-rethink](../sources/fxa100-week04-dementia-discourse-a-rethink.md)
+- [fxa100-week04-dementia-discourse-a-rethink-(2)](../sources/fxa100-week04-dementia-discourse-a-rethink-(2).md)

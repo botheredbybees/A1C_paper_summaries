@@ -26,5 +26,5 @@ Both sources explore photography's role in enhancing mental health through mindf
 
 ## Sources
 
-- [[../sources/fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography]]
-- [[../sources/fxa202-week03-week-3-introduction-photography-and-health]]
+- [fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography](../sources/fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography.md)
+- [fxa202-week03-week-3-introduction-photography-and-health](../sources/fxa202-week03-week-3-introduction-photography-and-health.md)

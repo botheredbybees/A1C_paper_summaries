@@ -24,27 +24,27 @@ This lecture transcript from Week Three of the Photo Essay course explores the r
 
 ## Key Concepts
 
-- [[../topics/mental health]]
-- [[../topics/therapeutic photography]]
-- [[../topics/self-presentation]]
-- [[../topics/mindfulness techniques]]
+- [mental health](../topics/mental health.md)
+- [therapeutic photography](../topics/therapeutic photography.md)
+- [self-presentation](../topics/self-presentation.md)
+- [mindfulness techniques](../topics/mindfulness techniques.md)
 
 ## Tags
 
-- [[../tags/mental-health]]
-- [[../tags/social-media-effects]]
-- [[../tags/therapeutic-photography]]
-- [[../tags/nomophobia]]
-- [[../tags/fxa202]]
+- [mental-health](../tags/mental-health.md)
+- [social-media-effects](../tags/social-media-effects.md)
+- [therapeutic-photography](../tags/therapeutic-photography.md)
+- [nomophobia](../tags/nomophobia.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case study]]
-- [[lectures]]
+- [case study](case study.md)
+- [lectures](lectures.md)
 
 ## See Also
 
-- [[../topics/mental-health]]
-- [[../topics/nomophobia]]
-- [[../topics/social-media-effects]]
-- [[../topics/therapeutic-photography]]
+- [mental-health](../topics/mental-health.md)
+- [nomophobia](../topics/nomophobia.md)
+- [social-media-effects](../topics/social-media-effects.md)
+- [therapeutic-photography](../topics/therapeutic-photography.md)

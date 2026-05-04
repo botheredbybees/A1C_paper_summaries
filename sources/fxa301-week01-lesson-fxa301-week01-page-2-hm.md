@@ -24,16 +24,16 @@ This lesson focuses on the principles of designing an effective community arts p
 
 ## Key Concepts
 
-- [[../topics/cultural-awareness]]
-- [[../topics/inclusive-practices]]
-- [[../topics/risk-analysis]]
+- [cultural-awareness](../topics/cultural-awareness.md)
+- [inclusive-practices](../topics/inclusive-practices.md)
+- [risk-analysis](../topics/risk-analysis.md)
 
 ## Tags
 
-- [[../tags/community-arts]]
-- [[../tags/health-wellbeing]]
-- [[../tags/project-design]]
-- [[../tags/fxa301]]
+- [community-arts](../tags/community-arts.md)
+- [health-wellbeing](../tags/health-wellbeing.md)
+- [project-design](../tags/project-design.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ This lesson focuses on the principles of designing an effective community arts p
 
 ## See Also
 
-- [[../topics/community-arts]]
-- [[../topics/health-wellbeing]]
+- [community-arts](../topics/community-arts.md)
+- [health-wellbeing](../topics/health-wellbeing.md)

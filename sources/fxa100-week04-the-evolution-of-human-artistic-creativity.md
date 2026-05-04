@@ -30,25 +30,25 @@ The author suggests that the cognitive capability to separate artistic creation 
 
 ## Key Concepts
 
-- [[../topics/entoptic phenomena]]
-- [[../topics/neural structures for art creation]]
-- [[../topics/regional artistic diversity]]
+- [entoptic phenomena](../topics/entoptic phenomena.md)
+- [neural structures for art creation](../topics/neural structures for art creation.md)
+- [regional artistic diversity](../topics/regional artistic diversity.md)
 
 ## Tags
 
-- [[../tags/art-evolution]]
-- [[../tags/cognitive-abilities]]
-- [[../tags/human-behavior]]
-- [[../tags/paleolithic-artifacts]]
-- [[../tags/african-origin]]
-- [[../tags/visual-cognition]]
-- [[../tags/fxa100]]
+- [art-evolution](../tags/art-evolution.md)
+- [cognitive-abilities](../tags/cognitive-abilities.md)
+- [human-behavior](../tags/human-behavior.md)
+- [paleolithic-artifacts](../tags/paleolithic-artifacts.md)
+- [african-origin](../tags/african-origin.md)
+- [visual-cognition](../tags/visual-cognition.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[review article]]
+- [review article](review article.md)
 
 ## See Also
 
-- [[../topics/cognitive-abilities]]
-- [[../topics/human-behavior]]
+- [cognitive-abilities](../topics/cognitive-abilities.md)
+- [human-behavior](../topics/human-behavior.md)

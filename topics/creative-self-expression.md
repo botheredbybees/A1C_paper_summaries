@@ -26,5 +26,5 @@ This synthesis explores creative self-expression through digital photography and
 
 ## Sources
 
-- [[../sources/fxa100-week09-people-with-dementia-as-spect-actors-in-a-musical-theatre]]
-- [[../sources/fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using]]
+- [fxa100-week09-people-with-dementia-as-spect-actors-in-a-musical-theatre](../sources/fxa100-week09-people-with-dementia-as-spect-actors-in-a-musical-theatre.md)
+- [fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using](../sources/fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using.md)

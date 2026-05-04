@@ -26,5 +26,5 @@ Community support programs encompass a variety of initiatives aimed at fostering
 
 ## Sources
 
-- [[../sources/fxa301-week05-museums-for-health-and-wellbeing]]
-- [[../sources/fxa303-week03-5-ways-to-standbyteens-in-support-of-teen-mental-health]]
+- [fxa301-week05-museums-for-health-and-wellbeing](../sources/fxa301-week05-museums-for-health-and-wellbeing.md)
+- [fxa303-week03-5-ways-to-standbyteens-in-support-of-teen-mental-health](../sources/fxa303-week03-5-ways-to-standbyteens-in-support-of-teen-mental-health.md)

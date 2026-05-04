@@ -26,29 +26,29 @@ The document 'Arts in Adolescence' highlights the significance of arts engagemen
 
 ## Key Concepts
 
-- [[../topics/Arts on Prescription]]
-- [[../topics/identity formation]]
-- [[../topics/emotional resilience]]
-- [[../topics/cognitive benefits]]
-- [[../topics/socio-emotional skills]]
+- [Arts on Prescription](../topics/Arts on Prescription.md)
+- [identity formation](../topics/identity formation.md)
+- [emotional resilience](../topics/emotional resilience.md)
+- [cognitive benefits](../topics/cognitive benefits.md)
+- [socio-emotional skills](../topics/socio-emotional skills.md)
 
 ## Tags
 
-- [[../tags/arts-education]]
-- [[../tags/adolescent-development]]
-- [[../tags/mental-health-interventions]]
-- [[../tags/youth-discrimination]]
-- [[../tags/community-engagement]]
-- [[../tags/therapeutic-arts]]
-- [[../tags/fxa303]]
+- [arts-education](../tags/arts-education.md)
+- [adolescent-development](../tags/adolescent-development.md)
+- [mental-health-interventions](../tags/mental-health-interventions.md)
+- [youth-discrimination](../tags/youth-discrimination.md)
+- [community-engagement](../tags/community-engagement.md)
+- [therapeutic-arts](../tags/therapeutic-arts.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[survey research]]
-- [[qualitative analysis]]
+- [survey research](survey research.md)
+- [qualitative analysis](qualitative analysis.md)
 
 ## See Also
 
-- [[../topics/adolescent-development]]
-- [[../topics/mental-health-interventions]]
-- [[../topics/therapeutic-arts]]
+- [adolescent-development](../topics/adolescent-development.md)
+- [mental-health-interventions](../topics/mental-health-interventions.md)
+- [therapeutic-arts](../topics/therapeutic-arts.md)

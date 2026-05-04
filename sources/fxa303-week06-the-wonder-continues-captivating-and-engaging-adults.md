@@ -24,26 +24,26 @@ Joanne F. Vizzini's chapter, 'The Wonder Continues,' explores the therapeutic an
 
 ## Key Concepts
 
-- [[../topics/puppet therapy]]
-- [[../topics/childlike wonder]]
-- [[../topics/dialogue facilitation]]
-- [[../topics/culturally sensitive puppetry]]
+- [puppet therapy](../topics/puppet therapy.md)
+- [childlike wonder](../topics/childlike wonder.md)
+- [dialogue facilitation](../topics/dialogue facilitation.md)
+- [culturally sensitive puppetry](../topics/culturally sensitive puppetry.md)
 
 ## Tags
 
-- [[../tags/therapeutic-puppet-play]]
-- [[../tags/adult-therapy]]
-- [[../tags/puppet-characters]]
-- [[../tags/cultural-sensitivity]]
-- [[../tags/community-settings]]
-- [[../tags/emotional-expression]]
-- [[../tags/fxa303]]
+- [therapeutic-puppet-play](../tags/therapeutic-puppet-play.md)
+- [adult-therapy](../tags/adult-therapy.md)
+- [puppet-characters](../tags/puppet-characters.md)
+- [cultural-sensitivity](../tags/cultural-sensitivity.md)
+- [community-settings](../tags/community-settings.md)
+- [emotional-expression](../tags/emotional-expression.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/cultural-sensitivity]]
-- [[../topics/emotional-expression]]
+- [cultural-sensitivity](../topics/cultural-sensitivity.md)
+- [emotional-expression](../topics/emotional-expression.md)

@@ -24,16 +24,16 @@ The lesson discusses how the brain processes and responds to creative arts such 
 
 ## Key Concepts
 
-- [[../topics/mirror neurons]]
-- [[../topics/dopamine]]
-- [[../topics/serotonin]]
+- [mirror neurons](../topics/mirror neurons.md)
+- [dopamine](../topics/dopamine.md)
+- [serotonin](../topics/serotonin.md)
 
 ## Tags
 
-- [[../tags/brain-function]]
-- [[../tags/neurotransmitters]]
-- [[../tags/creative-arts]]
-- [[../tags/fxa301]]
+- [brain-function](../tags/brain-function.md)
+- [neurotransmitters](../tags/neurotransmitters.md)
+- [creative-arts](../tags/creative-arts.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ The lesson discusses how the brain processes and responds to creative arts such 
 
 ## See Also
 
-- [[../topics/brain-function]]
-- [[../topics/creative-arts]]
+- [brain-function](../topics/brain-function.md)
+- [creative-arts](../topics/creative-arts.md)

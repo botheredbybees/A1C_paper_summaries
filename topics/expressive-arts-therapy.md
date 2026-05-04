@@ -26,5 +26,5 @@ Expressive Arts Therapy encompasses a range of creative modalities including dan
 
 ## Sources
 
-- [[../sources/fxa100-week09-transcript-youtube-lq0ko6-w4uc]]
-- [[../sources/fxa303-trauma-and-expressive-arts-ch04-1-slowly-exhale-through-your-mouth]]
+- [fxa100-week09-transcript-youtube-lq0ko6-w4uc](../sources/fxa100-week09-transcript-youtube-lq0ko6-w4uc.md)
+- [fxa303-trauma-and-expressive-arts-ch04-1-slowly-exhale-through-your-mouth](../sources/fxa303-trauma-and-expressive-arts-ch04-1-slowly-exhale-through-your-mouth.md)

@@ -24,19 +24,19 @@ The article discusses the use of puppetry as an innovative methodology to promot
 
 ## Key Concepts
 
-- [[../topics/coordinated-school-health-program]]
-- [[../topics/positive-behavior-promotion]]
+- [coordinated-school-health-program](../topics/coordinated-school-health-program.md)
+- [positive-behavior-promotion](../topics/positive-behavior-promotion.md)
 
 ## Tags
 
-- [[../tags/education-innovation]]
-- [[../tags/child-health-education]]
-- [[../tags/puppetry-teaching]]
-- [[../tags/fxa303]]
+- [education-innovation](../tags/education-innovation.md)
+- [child-health-education](../tags/child-health-education.md)
+- [puppetry-teaching](../tags/puppetry-teaching.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[innovative-methodology]]
+- [innovative-methodology](innovative-methodology.md)
 
 ## See Also
 

@@ -24,25 +24,25 @@ This systematic integrative review explores the impact of dramatherapy on childr
 
 ## Key Concepts
 
-- [[../topics/Autism Spectrum Disorder (ASD)]]
-- [[../topics/dramatherapy]]
+- [Autism Spectrum Disorder (ASD)](../topics/Autism Spectrum Disorder (ASD).md)
+- [dramatherapy](../topics/dramatherapy.md)
 
 ## Tags
 
-- [[../tags/autism-spectrum-disorder]]
-- [[../tags/dramatherapy]]
-- [[../tags/systematic-review]]
-- [[../tags/child-psychology]]
-- [[../tags/behavioral-interventions]]
-- [[../tags/fxa303]]
+- [autism-spectrum-disorder](../tags/autism-spectrum-disorder.md)
+- [dramatherapy](../tags/dramatherapy.md)
+- [systematic-review](../tags/systematic-review.md)
+- [child-psychology](../tags/child-psychology.md)
+- [behavioral-interventions](../tags/behavioral-interventions.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/autism-spectrum-disorder]]
-- [[../topics/child-psychology]]
-- [[../topics/dramatherapy]]
-- [[../topics/systematic-review]]
+- [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)
+- [child-psychology](../topics/child-psychology.md)
+- [dramatherapy](../topics/dramatherapy.md)
+- [systematic-review](../topics/systematic-review.md)

@@ -26,5 +26,5 @@ The concept of emotional reactions within the framework of aesthetic appreciatio
 
 ## Sources
 
-- [[../sources/fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and]]
-- [[../sources/fxa301-week08-the-emotional-power-of-poetry-neural-circuitry]]
+- [fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and](../sources/fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and.md)
+- [fxa301-week08-the-emotional-power-of-poetry-neural-circuitry](../sources/fxa301-week08-the-emotional-power-of-poetry-neural-circuitry.md)

@@ -24,20 +24,20 @@ The article discusses the profound impact of Alzheimer’s disease on William Ut
 
 ## Key Concepts
 
-- [[../topics/Alzheimer's disease]]
-- [[../topics/subjective experience of illness]]
+- [Alzheimer's disease](../topics/Alzheimer's disease.md)
+- [subjective experience of illness](../topics/subjective experience of illness.md)
 
 ## Tags
 
-- [[../tags/alzheimers-art]]
-- [[../tags/cognitive-decline-artist]]
-- [[../tags/self-portrait-memory]]
-- [[../tags/fxa100]]
+- [alzheimers-art](../tags/alzheimers-art.md)
+- [cognitive-decline-artist](../tags/cognitive-decline-artist.md)
+- [self-portrait-memory](../tags/self-portrait-memory.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/alzheimers-art]]
+- [alzheimers-art](../topics/alzheimers-art.md)

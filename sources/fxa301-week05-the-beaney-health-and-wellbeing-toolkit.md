@@ -24,20 +24,20 @@ The document titled 'The Beaney Health and Wellbeing Toolkit' explores the integ
 
 ## Key Concepts
 
-- [[../topics/therapeutic-value-of-museums]]
-- [[../topics/health-and-wellbeing-toolkit]]
+- [therapeutic-value-of-museums](../topics/therapeutic-value-of-museums.md)
+- [health-and-wellbeing-toolkit](../topics/health-and-wellbeing-toolkit.md)
 
 ## Tags
 
-- [[../tags/museum-therapy]]
-- [[../tags/wellbeing-initiatives]]
-- [[../tags/cultural-health]]
-- [[../tags/fxa301]]
+- [museum-therapy](../tags/museum-therapy.md)
+- [wellbeing-initiatives](../tags/wellbeing-initiatives.md)
+- [cultural-health](../tags/cultural-health.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/wellbeing-initiatives]]
+- [wellbeing-initiatives](../topics/wellbeing-initiatives.md)

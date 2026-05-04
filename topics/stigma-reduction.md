@@ -27,6 +27,6 @@ The integration of person-first language and non-stigmatizing communication emer
 
 ## Sources
 
-- [[../sources/fxa100-week04-a-guide-to-dementia-friendly-language]]
-- [[../sources/fxa100-week04-dementia-language-guidelines]]
-- [[../sources/fxa303-week09-recovery-oriented-language-guide]]
+- [fxa100-week04-a-guide-to-dementia-friendly-language](../sources/fxa100-week04-a-guide-to-dementia-friendly-language.md)
+- [fxa100-week04-dementia-language-guidelines](../sources/fxa100-week04-dementia-language-guidelines.md)
+- [fxa303-week09-recovery-oriented-language-guide](../sources/fxa303-week09-recovery-oriented-language-guide.md)

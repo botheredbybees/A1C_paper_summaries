@@ -26,5 +26,5 @@ The sources highlight two distinct but complementary healthcare interventions: t
 
 ## Sources
 
-- [[../sources/fxa100-week01-what-is-alzheimers-disease-video-transcript]]
-- [[../sources/fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for]]
+- [fxa100-week01-what-is-alzheimers-disease-video-transcript](../sources/fxa100-week01-what-is-alzheimers-disease-video-transcript.md)
+- [fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for](../sources/fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for.md)

@@ -28,26 +28,26 @@ Additionally, the report serves as an archive documenting the project's journey,
 
 ## Key Concepts
 
-- [[../topics/evidence-based engagement]]
-- [[../topics/mixed-method research]]
-- [[../topics/cultural programs]]
+- [evidence-based engagement](../topics/evidence-based engagement.md)
+- [mixed-method research](../topics/mixed-method research.md)
+- [cultural programs](../topics/cultural programs.md)
 
 ## Tags
 
-- [[../tags/arts-in-health]]
-- [[../tags/community-engagement]]
-- [[../tags/health-equity]]
-- [[../tags/social-cohesion]]
-- [[../tags/fxa301]]
+- [arts-in-health](../tags/arts-in-health.md)
+- [community-engagement](../tags/community-engagement.md)
+- [health-equity](../tags/health-equity.md)
+- [social-cohesion](../tags/social-cohesion.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[mixed-methods]]
-- [[qualitative]]
-- [[quantitative]]
+- [mixed-methods](mixed-methods.md)
+- [qualitative](qualitative.md)
+- [quantitative](quantitative.md)
 
 ## See Also
 
-- [[../topics/arts-in-health]]
-- [[../topics/health-equity]]
-- [[../topics/social-cohesion]]
+- [arts-in-health](../topics/arts-in-health.md)
+- [health-equity](../topics/health-equity.md)
+- [social-cohesion](../topics/social-cohesion.md)

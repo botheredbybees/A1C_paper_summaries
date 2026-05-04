@@ -27,6 +27,6 @@ The exploration of physiological responses to music and sound stimuli reveals a 
 
 ## Sources
 
-- [[../sources/fxa301-oxford-textbook-of-creative-arts-ch08-96-clift]]
-- [[../sources/fxa301-week02-empathy-manipulation-impacts-music-induced-emotions-a]]
-- [[../sources/fxa303-week08-physiological-and-emotional-responses-of-disabled-children]]
+- [fxa301-oxford-textbook-of-creative-arts-ch08-96-clift](../sources/fxa301-oxford-textbook-of-creative-arts-ch08-96-clift.md)
+- [fxa301-week02-empathy-manipulation-impacts-music-induced-emotions-a](../sources/fxa301-week02-empathy-manipulation-impacts-music-induced-emotions-a.md)
+- [fxa303-week08-physiological-and-emotional-responses-of-disabled-children](../sources/fxa303-week08-physiological-and-emotional-responses-of-disabled-children.md)

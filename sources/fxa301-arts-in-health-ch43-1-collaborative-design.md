@@ -24,15 +24,15 @@ This chapter discusses the development of partnerships between arts organization
 
 ## Key Concepts
 
-- [[../topics/case-for-support-document]]
-- [[../topics/project-brief-components]]
+- [case-for-support-document](../topics/case-for-support-document.md)
+- [project-brief-components](../topics/project-brief-components.md)
 
 ## Tags
 
-- [[../tags/arts-and-health]]
-- [[../tags/partnerships-development]]
-- [[../tags/tender-process]]
-- [[../tags/fxa301]]
+- [arts-and-health](../tags/arts-and-health.md)
+- [partnerships-development](../tags/partnerships-development.md)
+- [tender-process](../tags/tender-process.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ This chapter discusses the development of partnerships between arts organization
 
 ## See Also
 
-- [[../topics/arts-and-health]]
+- [arts-and-health](../topics/arts-and-health.md)

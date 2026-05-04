@@ -27,19 +27,19 @@ The chapter discusses the emergence and impact of community-based arts projects 
 
 ## Key Concepts
 
-- [[../topics/unconditional positive regard]]
-- [[../topics/reflective practice]]
-- [[../topics/social inclusion]]
-- [[../topics/emotional health]]
+- [unconditional positive regard](../topics/unconditional positive regard.md)
+- [reflective practice](../topics/reflective practice.md)
+- [social inclusion](../topics/social inclusion.md)
+- [emotional health](../topics/emotional health.md)
 
 ## Tags
 
-- [[../tags/community-health]]
-- [[../tags/participatory-arts]]
-- [[../tags/mental-health-interventions]]
-- [[../tags/health-promotion-strategies]]
-- [[../tags/public-art]]
-- [[../tags/fxa301]]
+- [community-health](../tags/community-health.md)
+- [participatory-arts](../tags/participatory-arts.md)
+- [mental-health-interventions](../tags/mental-health-interventions.md)
+- [health-promotion-strategies](../tags/health-promotion-strategies.md)
+- [public-art](../tags/public-art.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -47,7 +47,7 @@ The chapter discusses the emergence and impact of community-based arts projects 
 
 ## See Also
 
-- [[../topics/community-health]]
-- [[../topics/mental-health-interventions]]
-- [[../topics/participatory-arts]]
-- [[../topics/public-art]]
+- [community-health](../topics/community-health.md)
+- [mental-health-interventions](../topics/mental-health-interventions.md)
+- [participatory-arts](../topics/participatory-arts.md)
+- [public-art](../topics/public-art.md)

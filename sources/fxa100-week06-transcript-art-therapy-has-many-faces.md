@@ -24,18 +24,18 @@ The transcript discusses the experience of an individual who found solace and id
 
 ## Key Concepts
 
-- [[../topics/Art Therapy]]
-- [[../topics/Self-Expression]]
-- [[../topics/Emotional Release]]
+- [Art Therapy](../topics/Art Therapy.md)
+- [Self-Expression](../topics/Self-Expression.md)
+- [Emotional Release](../topics/Emotional Release.md)
 
 ## Tags
 
-- [[../tags/art-therapy]]
-- [[../tags/cancer-treatment]]
-- [[../tags/self-expression]]
-- [[../tags/identity-crisis]]
-- [[../tags/emotional-support]]
-- [[../tags/fxa100]]
+- [art-therapy](../tags/art-therapy.md)
+- [cancer-treatment](../tags/cancer-treatment.md)
+- [self-expression](../tags/self-expression.md)
+- [identity-crisis](../tags/identity-crisis.md)
+- [emotional-support](../tags/emotional-support.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -43,7 +43,7 @@ The transcript discusses the experience of an individual who found solace and id
 
 ## See Also
 
-- [[../topics/cancer-treatment]]
-- [[../topics/emotional-support]]
-- [[../topics/identity-crisis]]
-- [[../topics/self-expression]]
+- [cancer-treatment](../topics/cancer-treatment.md)
+- [emotional-support](../topics/emotional-support.md)
+- [identity-crisis](../topics/identity-crisis.md)
+- [self-expression](../topics/self-expression.md)

@@ -28,7 +28,7 @@ Music therapy emerges as a potent non-verbal communication tool for individuals 
 
 ## Sources
 
-- [[../sources/fxa100-week04-lesson-fxa100-week04-page-2-music-therapy-benefits]]
-- [[../sources/fxa100-week04-music-therapy-benefits-fxa100-the-arts-and-dementia-care]]
-- [[../sources/fxa303-week04-transcript-duration-34-19]]
-- [[../sources/fxa303-week06-developing-excellence-in-puppet-manipulation]]
+- [fxa100-week04-lesson-fxa100-week04-page-2-music-therapy-benefits](../sources/fxa100-week04-lesson-fxa100-week04-page-2-music-therapy-benefits.md)
+- [fxa100-week04-music-therapy-benefits-fxa100-the-arts-and-dementia-care](../sources/fxa100-week04-music-therapy-benefits-fxa100-the-arts-and-dementia-care.md)
+- [fxa303-week04-transcript-duration-34-19](../sources/fxa303-week04-transcript-duration-34-19.md)
+- [fxa303-week06-developing-excellence-in-puppet-manipulation](../sources/fxa303-week06-developing-excellence-in-puppet-manipulation.md)

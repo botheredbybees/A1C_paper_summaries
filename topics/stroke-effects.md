@@ -26,5 +26,5 @@ Both sources highlight the progression of vascular cognitive impairment (VCI) to
 
 ## Sources
 
-- [[../sources/fxa100-week01-living-with-dementia-12-what-is-vascular-dementia]]
-- [[../sources/fxa100-week01-transcript-dementia-australia]]
+- [fxa100-week01-living-with-dementia-12-what-is-vascular-dementia](../sources/fxa100-week01-living-with-dementia-12-what-is-vascular-dementia.md)
+- [fxa100-week01-transcript-dementia-australia](../sources/fxa100-week01-transcript-dementia-australia.md)

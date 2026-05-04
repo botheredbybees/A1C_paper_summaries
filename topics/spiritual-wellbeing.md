@@ -26,5 +26,5 @@ The integration of spiritual care into palliative care and dementia management h
 
 ## Sources
 
-- [[../sources/fxa100-week07-dementia-and-our-mob-caring-for-spirit]]
-- [[../sources/fxa301-week06-song-of-life-sol-study-protocol-a-multicenter-randomized]]
+- [fxa100-week07-dementia-and-our-mob-caring-for-spirit](../sources/fxa100-week07-dementia-and-our-mob-caring-for-spirit.md)
+- [fxa301-week06-song-of-life-sol-study-protocol-a-multicenter-randomized](../sources/fxa301-week06-song-of-life-sol-study-protocol-a-multicenter-randomized.md)

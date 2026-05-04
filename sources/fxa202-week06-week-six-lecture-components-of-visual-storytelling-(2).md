@@ -24,21 +24,21 @@ This Week Six lecture in the Photo Essay course emphasizes visual storytelling t
 
 ## Key Concepts
 
-- [[../topics/linear-narrative]]
-- [[../topics/non-linear-narrative]]
+- [linear-narrative](../topics/linear-narrative.md)
+- [non-linear-narrative](../topics/non-linear-narrative.md)
 
 ## Tags
 
-- [[../tags/visual-storytelling]]
-- [[../tags/narrative-structure]]
-- [[../tags/photo-journalism]]
-- [[../tags/fxa202]]
+- [visual-storytelling](../tags/visual-storytelling.md)
+- [narrative-structure](../tags/narrative-structure.md)
+- [photo-journalism](../tags/photo-journalism.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/narrative-structure]]
-- [[../topics/visual-storytelling]]
+- [narrative-structure](../topics/narrative-structure.md)
+- [visual-storytelling](../topics/visual-storytelling.md)

@@ -24,15 +24,15 @@ In the concluding chapter of 'Creativity, Wellbeing and Mental Health Practice',
 
 ## Key Concepts
 
-- [[../topics/creative mental health care model]]
-- [[../topics/eight wellbeing recommendations]]
+- [creative mental health care model](../topics/creative mental health care model.md)
+- [eight wellbeing recommendations](../topics/eight wellbeing recommendations.md)
 
 ## Tags
 
-- [[../tags/mental-health-practice]]
-- [[../tags/creativity-in-nursing]]
-- [[../tags/wellbeing-recommendations]]
-- [[../tags/fxa303]]
+- [mental-health-practice](../tags/mental-health-practice.md)
+- [creativity-in-nursing](../tags/creativity-in-nursing.md)
+- [wellbeing-recommendations](../tags/wellbeing-recommendations.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ In the concluding chapter of 'Creativity, Wellbeing and Mental Health Practice',
 
 ## See Also
 
-- [[../topics/mental-health-practice]]
+- [mental-health-practice](../topics/mental-health-practice.md)

@@ -26,5 +26,5 @@ The integration of puppetry within mental health promotion emerges as a versatil
 
 ## Sources
 
-- [[../sources/fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the]]
-- [[../sources/fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping]]
+- [fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the](../sources/fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the.md)
+- [fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping](../sources/fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping.md)

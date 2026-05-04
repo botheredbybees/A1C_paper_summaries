@@ -25,5 +25,5 @@ The study of visual art created by individuals with Alzheimer's disease offers u
 
 ## Sources
 
-- [[../sources/fxa100-week06-paintings-of-an-artist-with-alzheimers-disease]]
-- [[../sources/fxa100-week06-powerful-self-portraits-reveal-artists-descent-into]]
+- [fxa100-week06-paintings-of-an-artist-with-alzheimers-disease](../sources/fxa100-week06-paintings-of-an-artist-with-alzheimers-disease.md)
+- [fxa100-week06-powerful-self-portraits-reveal-artists-descent-into](../sources/fxa100-week06-powerful-self-portraits-reveal-artists-descent-into.md)

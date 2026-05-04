@@ -24,21 +24,21 @@ This opinion article by Stahl and Kotz discusses three critical issues in curren
 
 ## Key Concepts
 
-- [[../topics/articulatory-tempo]]
-- [[../topics/melodic-intonation-therapy]]
-- [[../topics/neural-network-engagement]]
+- [articulatory-tempo](../topics/articulatory-tempo.md)
+- [melodic-intonation-therapy](../topics/melodic-intonation-therapy.md)
+- [neural-network-engagement](../topics/neural-network-engagement.md)
 
 ## Tags
 
-- [[../tags/aphasia-research]]
-- [[../tags/singing-therapy]]
-- [[../tags/formulaic-language]]
-- [[../tags/fxa301]]
+- [aphasia-research](../tags/aphasia-research.md)
+- [singing-therapy](../tags/singing-therapy.md)
+- [formulaic-language](../tags/formulaic-language.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/singing-therapy]]
+- [singing-therapy](../topics/singing-therapy.md)

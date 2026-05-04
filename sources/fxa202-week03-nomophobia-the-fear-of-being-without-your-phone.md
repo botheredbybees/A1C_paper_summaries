@@ -30,23 +30,23 @@ Treatment options for individuals struggling with nomophobia include exposure th
 
 ## Key Concepts
 
-- [[../topics/Nomophobia Questionnaire (NMP-Q)]]
-- [[../topics/situational specific phobias]]
-- [[../topics/cognitive-behavioral therapy]]
+- [Nomophobia Questionnaire (NMP-Q)](../topics/Nomophobia Questionnaire (NMP-Q).md)
+- [situational specific phobias](../topics/situational specific phobias.md)
+- [cognitive-behavioral therapy](../topics/cognitive-behavioral therapy.md)
 
 ## Tags
 
-- [[../tags/nomophobia]]
-- [[../tags/mobile-phone-dependency]]
-- [[../tags/digital-anxiety]]
-- [[../tags/techno-phobia]]
-- [[../tags/social-media-addiction]]
-- [[../tags/fxa202]]
+- [nomophobia](../tags/nomophobia.md)
+- [mobile-phone-dependency](../tags/mobile-phone-dependency.md)
+- [digital-anxiety](../tags/digital-anxiety.md)
+- [techno-phobia](../tags/techno-phobia.md)
+- [social-media-addiction](../tags/social-media-addiction.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[questionnaire]]
+- [questionnaire](questionnaire.md)
 
 ## See Also
 
-- [[../topics/nomophobia]]
+- [nomophobia](../topics/nomophobia.md)

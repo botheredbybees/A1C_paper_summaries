@@ -26,5 +26,5 @@ The synthesis of the provided sources highlights various therapeutic interventio
 
 ## Sources
 
-- [[../sources/fxa202-week03-therapeutic-photography]]
-- [[../sources/fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children]]
+- [fxa202-week03-therapeutic-photography](../sources/fxa202-week03-therapeutic-photography.md)
+- [fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children](../sources/fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children.md)

@@ -24,21 +24,21 @@ The document 'The Journal and Visual Research' by the University of Tasmania pro
 
 ## Key Concepts
 
-- [[../topics/journal-as-tool]]
-- [[../topics/pictorial-analysis]]
-- [[../topics/source-documentation]]
+- [journal-as-tool](../topics/journal-as-tool.md)
+- [pictorial-analysis](../topics/pictorial-analysis.md)
+- [source-documentation](../topics/source-documentation.md)
 
 ## Tags
 
-- [[../tags/visual-journaling]]
-- [[../tags/creative-processes]]
-- [[../tags/sketchnoting]]
-- [[../tags/art-research]]
-- [[../tags/fxa202]]
+- [visual-journaling](../tags/visual-journaling.md)
+- [creative-processes](../tags/creative-processes.md)
+- [sketchnoting](../tags/sketchnoting.md)
+- [art-research](../tags/art-research.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[guide-for-students]]
+- [guide-for-students](guide-for-students.md)
 
 ## See Also
 

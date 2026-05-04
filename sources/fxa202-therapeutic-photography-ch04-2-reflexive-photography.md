@@ -27,16 +27,16 @@ The content explores various photographic techniques in therapeutic contexts suc
 
 ## Key Concepts
 
-- [[../topics/power-dynamics-in-interviews]]
-- [[../topics/visual-pedagogy]]
-- [[../topics/emancipatory-research]]
+- [power-dynamics-in-interviews](../topics/power-dynamics-in-interviews.md)
+- [visual-pedagogy](../topics/visual-pedagogy.md)
+- [emancipatory-research](../topics/emancipatory-research.md)
 
 ## Tags
 
-- [[../tags/therapeutic-photography]]
-- [[../tags/photo-elicitation-methods]]
-- [[../tags/mental-health-research]]
-- [[../tags/fxa202]]
+- [therapeutic-photography](../tags/therapeutic-photography.md)
+- [photo-elicitation-methods](../tags/photo-elicitation-methods.md)
+- [mental-health-research](../tags/mental-health-research.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
@@ -44,4 +44,4 @@ The content explores various photographic techniques in therapeutic contexts suc
 
 ## See Also
 
-- [[../topics/therapeutic-photography]]
+- [therapeutic-photography](../topics/therapeutic-photography.md)

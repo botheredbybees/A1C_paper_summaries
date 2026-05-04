@@ -24,15 +24,15 @@ This week's lesson in LAW122 focuses on familiarizing students with digital came
 
 ## Key Concepts
 
-- [[../topics/composition-and-color]]
-- [[../topics/photo-consent-forms]]
+- [composition-and-color](../topics/composition-and-color.md)
+- [photo-consent-forms](../topics/photo-consent-forms.md)
 
 ## Tags
 
-- [[../tags/legal-systems]]
-- [[../tags/photography-basics]]
-- [[../tags/camera-usage]]
-- [[../tags/fxa202]]
+- [legal-systems](../tags/legal-systems.md)
+- [photography-basics](../tags/photography-basics.md)
+- [camera-usage](../tags/camera-usage.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
@@ -40,6 +40,6 @@ This week's lesson in LAW122 focuses on familiarizing students with digital came
 
 ## See Also
 
-- [[../topics/camera-usage]]
-- [[../topics/legal-systems]]
-- [[../topics/photography-basics]]
+- [camera-usage](../topics/camera-usage.md)
+- [legal-systems](../topics/legal-systems.md)
+- [photography-basics](../topics/photography-basics.md)

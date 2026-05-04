@@ -27,6 +27,6 @@ The concept of color theory is explored across various contexts such as photogra
 
 ## Sources
 
-- [[../sources/fxa202-week02-lesson-fxa202-week02-page-3]]
-- [[../sources/fxa202-week02-street-photography-composition-lesson-12-color-theory]]
-- [[../sources/fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at]]
+- [fxa202-week02-lesson-fxa202-week02-page-3](../sources/fxa202-week02-lesson-fxa202-week02-page-3.md)
+- [fxa202-week02-street-photography-composition-lesson-12-color-theory](../sources/fxa202-week02-street-photography-composition-lesson-12-color-theory.md)
+- [fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at](../sources/fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at.md)

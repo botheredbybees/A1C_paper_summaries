@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Shamanic Practices
 
-- [[../sources/fxa301-week06-san-trance-dance-embodied-experience-and-neurological|San trance dance: embodied experience and neurological mechanisms]]
+- [San trance dance: embodied experience and neurological mechanisms](../sources/fxa301-week06-san-trance-dance-embodied-experience-and-neurological.md)

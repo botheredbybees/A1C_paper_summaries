@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Neurodevelopmental Condition
 
-- [[../sources/fxa303-week04-autism-spectrum-disorder|Autism Spectrum Disorder]]
+- [Autism Spectrum Disorder](../sources/fxa303-week04-autism-spectrum-disorder.md)

@@ -25,5 +25,5 @@ This topic explores the methodological approaches to understanding temporal dyna
 
 ## Sources
 
-- [[../sources/fxa301-week02-the-time-course-of-emotional-responses-to-music]]
-- [[../sources/fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between]]
+- [fxa301-week02-the-time-course-of-emotional-responses-to-music](../sources/fxa301-week02-the-time-course-of-emotional-responses-to-music.md)
+- [fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between](../sources/fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between.md)

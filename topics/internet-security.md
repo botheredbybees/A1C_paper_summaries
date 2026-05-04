@@ -25,5 +25,5 @@ The sources emphasize the importance of secure access in internet security throu
 
 ## Sources
 
-- [[../sources/fxa303-week06-web-article-butler-2009]]
-- [[../sources/fxa303-week06-web-article-linn-2020]]
+- [fxa303-week06-web-article-butler-2009](../sources/fxa303-week06-web-article-butler-2009.md)
+- [fxa303-week06-web-article-linn-2020](../sources/fxa303-week06-web-article-linn-2020.md)

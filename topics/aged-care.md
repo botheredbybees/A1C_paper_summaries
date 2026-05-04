@@ -31,6 +31,6 @@ Finally, Source 3 introduces the MAC.ART program, which employs a person-centere
 
 ## Sources
 
-- [[../sources/fxa100-week02-transcript-duration-949]]
-- [[../sources/fxa100-week04-transcript-cale-research-aged-care-deloraine-partnership]]
-- [[../sources/fxa100-week08-web-article-gross-2016]]
+- [fxa100-week02-transcript-duration-949](../sources/fxa100-week02-transcript-duration-949.md)
+- [fxa100-week04-transcript-cale-research-aged-care-deloraine-partnership](../sources/fxa100-week04-transcript-cale-research-aged-care-deloraine-partnership.md)
+- [fxa100-week08-web-article-gross-2016](../sources/fxa100-week08-web-article-gross-2016.md)

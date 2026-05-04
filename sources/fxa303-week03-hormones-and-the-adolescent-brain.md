@@ -24,22 +24,22 @@ The article explores the impact of hormones on adolescent brain development. Dur
 
 ## Key Concepts
 
-- [[../topics/puberty]]
-- [[../topics/neural-circuitry-maturation]]
-- [[../topics/cognitive-functions]]
+- [puberty](../topics/puberty.md)
+- [neural-circuitry-maturation](../topics/neural-circuitry-maturation.md)
+- [cognitive-functions](../topics/cognitive-functions.md)
 
 ## Tags
 
-- [[../tags/adolescent-development]]
-- [[../tags/brain-plasticity]]
-- [[../tags/hormonal-influences]]
-- [[../tags/fxa303]]
+- [adolescent-development](../tags/adolescent-development.md)
+- [brain-plasticity](../tags/brain-plasticity.md)
+- [hormonal-influences](../tags/hormonal-influences.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[review]]
+- [review](review.md)
 
 ## See Also
 
-- [[../topics/adolescent-development]]
-- [[../topics/brain-plasticity]]
+- [adolescent-development](../topics/adolescent-development.md)
+- [brain-plasticity](../topics/brain-plasticity.md)

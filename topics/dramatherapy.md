@@ -28,7 +28,7 @@ Dramatherapy is a form of psychotherapy that utilizes theatrical techniques to f
 
 ## Sources
 
-- [[../sources/fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags]]
-- [[../sources/fxa100-week09-lesson-fxa100-week09-page-2-dance-therapy-drama-therapy]]
-- [[../sources/fxa100-week09-lesson-fxa100-week09-page-4-week-8-activities]]
-- [[../sources/fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism]]
+- [fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags](../sources/fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags.md)
+- [fxa100-week09-lesson-fxa100-week09-page-2-dance-therapy-drama-therapy](../sources/fxa100-week09-lesson-fxa100-week09-page-2-dance-therapy-drama-therapy.md)
+- [fxa100-week09-lesson-fxa100-week09-page-4-week-8-activities](../sources/fxa100-week09-lesson-fxa100-week09-page-4-week-8-activities.md)
+- [fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism](../sources/fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism.md)

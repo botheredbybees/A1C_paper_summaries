@@ -24,23 +24,23 @@ The study by Solso investigates the brain activity of a skilled portrait artist,
 
 ## Key Concepts
 
-- [[../topics/functional-magnetic-resonance-imaging]]
-- [[../topics/neurological-basis-of-expertise]]
-- [[../topics/visual-information-processing]]
+- [functional-magnetic-resonance-imaging](../topics/functional-magnetic-resonance-imaging.md)
+- [neurological-basis-of-expertise](../topics/neurological-basis-of-expertise.md)
+- [visual-information-processing](../topics/visual-information-processing.md)
 
 ## Tags
 
-- [[../tags/brain-activity]]
-- [[../tags/expertise-neurology]]
-- [[../tags/f-mri-study]]
-- [[../tags/artistic-process]]
-- [[../tags/fxa100]]
+- [brain-activity](../tags/brain-activity.md)
+- [expertise-neurology](../tags/expertise-neurology.md)
+- [f-mri-study](../tags/f-mri-study.md)
+- [artistic-process](../tags/artistic-process.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[fMRI study]]
-- [[eye-tracking]]
+- [fMRI study](fMRI study.md)
+- [eye-tracking](eye-tracking.md)
 
 ## See Also
 
-- [[../topics/f-mri-study]]
+- [f-mri-study](../topics/f-mri-study.md)

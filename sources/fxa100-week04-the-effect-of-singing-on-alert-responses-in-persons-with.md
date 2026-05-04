@@ -24,23 +24,23 @@ The study investigates the impact of singing on alert responses in individuals w
 
 ## Key Concepts
 
-- [[../topics/late-stage-dementia]]
-- [[../topics/alert-responses]]
-- [[../topics/caregiver-interventions]]
+- [late-stage-dementia](../topics/late-stage-dementia.md)
+- [alert-responses](../topics/alert-responses.md)
+- [caregiver-interventions](../topics/caregiver-interventions.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/music-therapy]]
-- [[../tags/alert-responses]]
-- [[../tags/singing-interventions]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [music-therapy](../tags/music-therapy.md)
+- [alert-responses](../tags/alert-responses.md)
+- [singing-interventions](../tags/singing-interventions.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/music-therapy]]
+- [dementia-care](../topics/dementia-care.md)
+- [music-therapy](../topics/music-therapy.md)

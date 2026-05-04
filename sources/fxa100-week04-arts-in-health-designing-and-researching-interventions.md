@@ -26,24 +26,24 @@ Daisy Fancourt's chapter 'Fact File 10: Public Health' explores the intersection
 
 ## Key Concepts
 
-- [[../topics/cultural-engagement]]
-- [[../topics/public-health-initiatives]]
+- [cultural-engagement](../topics/cultural-engagement.md)
+- [public-health-initiatives](../topics/public-health-initiatives.md)
 
 ## Tags
 
-- [[../tags/arts-in-health]]
-- [[../tags/public-health-interventions]]
-- [[../tags/cultural-engagement]]
-- [[../tags/mental-health-outcomes]]
-- [[../tags/physical-wellbeing]]
-- [[../tags/fxa100]]
+- [arts-in-health](../tags/arts-in-health.md)
+- [public-health-interventions](../tags/public-health-interventions.md)
+- [cultural-engagement](../tags/cultural-engagement.md)
+- [mental-health-outcomes](../tags/mental-health-outcomes.md)
+- [physical-wellbeing](../tags/physical-wellbeing.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/arts-in-health]]
-- [[../topics/mental-health-outcomes]]
-- [[../topics/public-health-interventions]]
+- [arts-in-health](../topics/arts-in-health.md)
+- [mental-health-outcomes](../topics/mental-health-outcomes.md)
+- [public-health-interventions](../topics/public-health-interventions.md)

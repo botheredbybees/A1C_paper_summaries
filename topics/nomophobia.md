@@ -26,5 +26,5 @@ Sources highlight the concept of nomophobia, a fear of being without one's mobil
 
 ## Sources
 
-- [[../sources/fxa202-week03-nomophobia-the-fear-of-being-without-your-phone]]
-- [[../sources/fxa202-week03-week-three-lecture-transcript-photography-and-health]]
+- [fxa202-week03-nomophobia-the-fear-of-being-without-your-phone](../sources/fxa202-week03-nomophobia-the-fear-of-being-without-your-phone.md)
+- [fxa202-week03-week-three-lecture-transcript-photography-and-health](../sources/fxa202-week03-week-three-lecture-transcript-photography-and-health.md)

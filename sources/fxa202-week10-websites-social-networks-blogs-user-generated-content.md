@@ -24,17 +24,17 @@ This information sheet discusses copyright issues related to websites, social ne
 
 ## Key Concepts
 
-- [[../topics/website-operator-permissions]]
-- [[../topics/user-generated-copyright-infringement]]
-- [[../topics/online-community-management]]
+- [website-operator-permissions](../topics/website-operator-permissions.md)
+- [user-generated-copyright-infringement](../topics/user-generated-copyright-infringement.md)
+- [online-community-management](../topics/online-community-management.md)
 
 ## Tags
 
-- [[../tags/copyright-issues]]
-- [[../tags/user-generated-content]]
-- [[../tags/social-networks]]
-- [[../tags/legal-guidelines]]
-- [[../tags/fxa202]]
+- [copyright-issues](../tags/copyright-issues.md)
+- [user-generated-content](../tags/user-generated-content.md)
+- [social-networks](../tags/social-networks.md)
+- [legal-guidelines](../tags/legal-guidelines.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

@@ -24,18 +24,18 @@ The document 'Rights of People with Disability' by the Attorney-General's Depart
 
 ## Key Concepts
 
-- [[../topics/Convention on the Rights of Persons with Disabilities (CRPD)]]
-- [[../topics/reasonable-accommodation]]
-- [[../topics/human-rights-scrutiny]]
+- [Convention on the Rights of Persons with Disabilities (CRPD)](../topics/Convention on the Rights of Persons with Disabilities (CRPD).md)
+- [reasonable-accommodation](../topics/reasonable-accommodation.md)
+- [human-rights-scrutiny](../topics/human-rights-scrutiny.md)
 
 ## Tags
 
-- [[../tags/human-rights]]
-- [[../tags/disability-inclusion]]
-- [[../tags/legal-frameworks]]
-- [[../tags/international-treaties]]
-- [[../tags/accessibility-standards]]
-- [[../tags/fxa301]]
+- [human-rights](../tags/human-rights.md)
+- [disability-inclusion](../tags/disability-inclusion.md)
+- [legal-frameworks](../tags/legal-frameworks.md)
+- [international-treaties](../tags/international-treaties.md)
+- [accessibility-standards](../tags/accessibility-standards.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

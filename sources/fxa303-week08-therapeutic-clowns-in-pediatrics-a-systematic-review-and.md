@@ -24,24 +24,24 @@ This article presents a systematic review and meta-analysis of randomized contro
 
 ## Key Concepts
 
-- [[../topics/anxiety-reduction]]
-- [[../topics/pain-management]]
-- [[../topics/clown-therapy]]
+- [anxiety-reduction](../topics/anxiety-reduction.md)
+- [pain-management](../topics/pain-management.md)
+- [clown-therapy](../topics/clown-therapy.md)
 
 ## Tags
 
-- [[../tags/therapeutic-clowns]]
-- [[../tags/pediatrics]]
-- [[../tags/mental-health-interventions]]
-- [[../tags/hospital-settings]]
-- [[../tags/fxa303]]
+- [therapeutic-clowns](../tags/therapeutic-clowns.md)
+- [pediatrics](../tags/pediatrics.md)
+- [mental-health-interventions](../tags/mental-health-interventions.md)
+- [hospital-settings](../tags/hospital-settings.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic-review]]
-- [[meta-analysis]]
+- [systematic-review](systematic-review.md)
+- [meta-analysis](meta-analysis.md)
 
 ## See Also
 
-- [[../topics/mental-health-interventions]]
-- [[../topics/therapeutic-clowns]]
+- [mental-health-interventions](../topics/mental-health-interventions.md)
+- [therapeutic-clowns](../topics/therapeutic-clowns.md)

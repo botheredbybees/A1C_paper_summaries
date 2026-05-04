@@ -26,5 +26,5 @@ The integration of physical therapy with elements such as dance and music demons
 
 ## Sources
 
-- [[../sources/fxa301-week06-therapeutic-dancing-for-parkinsons-disease]]
-- [[../sources/fxa301-week06-transcript-gait-training-for-parkinsons-patient-using-music]]
+- [fxa301-week06-therapeutic-dancing-for-parkinsons-disease](../sources/fxa301-week06-therapeutic-dancing-for-parkinsons-disease.md)
+- [fxa301-week06-transcript-gait-training-for-parkinsons-patient-using-music](../sources/fxa301-week06-transcript-gait-training-for-parkinsons-patient-using-music.md)

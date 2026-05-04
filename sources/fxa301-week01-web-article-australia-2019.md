@@ -24,16 +24,16 @@ The Audience Data and Advocacy Tools are interactive resources developed by Crea
 
 ## Key Concepts
 
-- [[../topics/National Arts Participation Survey]]
-- [[../topics/Population Segmentation Model]]
-- [[../topics/Behavioral and Attitudinal Indices]]
+- [National Arts Participation Survey](../topics/National Arts Participation Survey.md)
+- [Population Segmentation Model](../topics/Population Segmentation Model.md)
+- [Behavioral and Attitudinal Indices](../topics/Behavioral and Attitudinal Indices.md)
 
 ## Tags
 
-- [[../tags/arts-engagement]]
-- [[../tags/audience-analysis]]
-- [[../tags/research-tool]]
-- [[../tags/fxa301]]
+- [arts-engagement](../tags/arts-engagement.md)
+- [audience-analysis](../tags/audience-analysis.md)
+- [research-tool](../tags/research-tool.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,4 +41,4 @@ The Audience Data and Advocacy Tools are interactive resources developed by Crea
 
 ## See Also
 
-- [[../topics/arts-engagement]]
+- [arts-engagement](../topics/arts-engagement.md)

@@ -24,27 +24,27 @@ This paper presents findings from a pilot study examining the benefits of partic
 
 ## Key Concepts
 
-- [[../topics/growth mindset]]
-- [[../topics/resilient behaviors]]
-- [[../topics/musical skill development]]
-- [[../topics/social skills]]
+- [growth mindset](../topics/growth mindset.md)
+- [resilient behaviors](../topics/resilient behaviors.md)
+- [musical skill development](../topics/musical skill development.md)
+- [social skills](../topics/social skills.md)
 
 ## Tags
 
-- [[../tags/youth-development]]
-- [[../tags/music-education]]
-- [[../tags/wellbeing-studies]]
-- [[../tags/resilience-building]]
-- [[../tags/community-engagement]]
-- [[../tags/fxa303]]
+- [youth-development](../tags/youth-development.md)
+- [music-education](../tags/music-education.md)
+- [wellbeing-studies](../tags/wellbeing-studies.md)
+- [resilience-building](../tags/resilience-building.md)
+- [community-engagement](../tags/community-engagement.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[survey]]
-- [[thematic analysis]]
+- [survey](survey.md)
+- [thematic analysis](thematic analysis.md)
 
 ## See Also
 
-- [[../topics/music-education]]
-- [[../topics/resilience-building]]
-- [[../topics/youth-development]]
+- [music-education](../topics/music-education.md)
+- [resilience-building](../topics/resilience-building.md)
+- [youth-development](../topics/youth-development.md)

@@ -24,16 +24,16 @@ This chapter from 'How We Think About Dementia' by Julian C. Hughes and Ashley M
 
 ## Key Concepts
 
-- [[../topics/contextual interpretation]]
-- [[../topics/social constructivism]]
-- [[../topics/humanistic approach to dementia]]
+- [contextual interpretation](../topics/contextual interpretation.md)
+- [social constructivism](../topics/social constructivism.md)
+- [humanistic approach to dementia](../topics/humanistic approach to dementia.md)
 
 ## Tags
 
-- [[../tags/dementia]]
-- [[../tags/art-science collaboration]]
-- [[../tags/philosophy-of-mind]]
-- [[../tags/fxa100]]
+- [dementia](../tags/dementia.md)
+- [art-science collaboration](../tags/art-science collaboration.md)
+- [philosophy-of-mind](../tags/philosophy-of-mind.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -41,6 +41,6 @@ This chapter from 'How We Think About Dementia' by Julian C. Hughes and Ashley M
 
 ## See Also
 
-- [[../topics/art-science-collaboration]]
-- [[../topics/dementia]]
-- [[../topics/philosophy-of-mind]]
+- [art-science-collaboration](../topics/art-science-collaboration.md)
+- [dementia](../topics/dementia.md)
+- [philosophy-of-mind](../topics/philosophy-of-mind.md)

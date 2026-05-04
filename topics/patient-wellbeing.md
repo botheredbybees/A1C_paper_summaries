@@ -26,5 +26,5 @@ The provided sources focus on two distinct yet complementary interventions desig
 
 ## Sources
 
-- [[../sources/fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a]]
-- [[../sources/fxa303-week08-more-than-just-an-entertainment-show-identification-of]]
+- [fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a](../sources/fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a.md)
+- [fxa303-week08-more-than-just-an-entertainment-show-identification-of](../sources/fxa303-week08-more-than-just-an-entertainment-show-identification-of.md)

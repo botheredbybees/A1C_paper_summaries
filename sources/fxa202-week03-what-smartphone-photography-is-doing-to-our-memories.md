@@ -24,23 +24,23 @@ This article explores the impact of smartphone photography on human memory. The 
 
 ## Key Concepts
 
-- [[../topics/cognitive offloading]]
-- [[../topics/visual memory retention]]
+- [cognitive offloading](../topics/cognitive offloading.md)
+- [visual memory retention](../topics/visual memory retention.md)
 
 ## Tags
 
-- [[../tags/smartphone-photography]]
-- [[../tags/memory-retention]]
-- [[../tags/cognitive-offloading]]
-- [[../tags/attention-shift]]
-- [[../tags/technology-effects]]
-- [[../tags/fxa202]]
+- [smartphone-photography](../tags/smartphone-photography.md)
+- [memory-retention](../tags/memory-retention.md)
+- [cognitive-offloading](../tags/cognitive-offloading.md)
+- [attention-shift](../tags/attention-shift.md)
+- [technology-effects](../tags/technology-effects.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/cognitive-offloading]]
-- [[../topics/memory-retention]]
+- [cognitive-offloading](../topics/cognitive-offloading.md)
+- [memory-retention](../topics/memory-retention.md)

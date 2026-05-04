@@ -24,17 +24,17 @@ The transcript discusses the benefits and essence of dance therapy, a form of ex
 
 ## Key Concepts
 
-- [[../topics/Expressive Arts Therapy]]
-- [[../topics/Memory Stimulation Through Movement]]
-- [[../topics/Emotional Vitality]]
+- [Expressive Arts Therapy](../topics/Expressive Arts Therapy.md)
+- [Memory Stimulation Through Movement](../topics/Memory Stimulation Through Movement.md)
+- [Emotional Vitality](../topics/Emotional Vitality.md)
 
 ## Tags
 
-- [[../tags/expressive-arts-therapy]]
-- [[../tags/dance-movement-therapy]]
-- [[../tags/memory-stimulation]]
-- [[../tags/emotional-vitality]]
-- [[../tags/fxa100]]
+- [expressive-arts-therapy](../tags/expressive-arts-therapy.md)
+- [dance-movement-therapy](../tags/dance-movement-therapy.md)
+- [memory-stimulation](../tags/memory-stimulation.md)
+- [emotional-vitality](../tags/emotional-vitality.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -42,6 +42,6 @@ The transcript discusses the benefits and essence of dance therapy, a form of ex
 
 ## See Also
 
-- [[../topics/dance-movement-therapy]]
-- [[../topics/expressive-arts-therapy]]
-- [[../topics/memory-stimulation]]
+- [dance-movement-therapy](../topics/dance-movement-therapy.md)
+- [expressive-arts-therapy](../topics/expressive-arts-therapy.md)
+- [memory-stimulation](../topics/memory-stimulation.md)

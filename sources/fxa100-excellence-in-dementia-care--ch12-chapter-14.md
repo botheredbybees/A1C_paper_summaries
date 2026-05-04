@@ -24,15 +24,15 @@ This chapter discusses the principles of good practice in creative communication
 
 ## Key Concepts
 
-- [[../topics/creative communication-based approach]]
-- [[../topics/person-centred practice]]
+- [creative communication-based approach](../topics/creative communication-based approach.md)
+- [person-centred practice](../topics/person-centred practice.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/reminiscence-therapy]]
-- [[../tags/person-centered-practice]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [reminiscence-therapy](../tags/reminiscence-therapy.md)
+- [person-centered-practice](../tags/person-centered-practice.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -40,6 +40,6 @@ This chapter discusses the principles of good practice in creative communication
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/person-centered-practice]]
-- [[../topics/reminiscence-therapy]]
+- [dementia-care](../topics/dementia-care.md)
+- [person-centered-practice](../topics/person-centered-practice.md)
+- [reminiscence-therapy](../topics/reminiscence-therapy.md)

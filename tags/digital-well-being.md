@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Digital Well Being
 
-- [[../sources/fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using|The daily digital practice as a form of self-care: Using photography for everyday well-being]]
+- [The daily digital practice as a form of self-care: Using photography for everyday well-being](../sources/fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using.md)

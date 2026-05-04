@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Creative Process
 
-- [[../sources/fxa202-week05-where-do-you-get-your-ideas|Where do you get your ideas?]]
+- [Where do you get your ideas?](../sources/fxa202-week05-where-do-you-get-your-ideas.md)

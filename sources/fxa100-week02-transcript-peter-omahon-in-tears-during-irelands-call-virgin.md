@@ -24,15 +24,15 @@ This YouTube video does not provide an automatic transcript; therefore, the summ
 
 ## Key Concepts
 
-- [[../topics/emotional expression]]
-- [[../topics/national pride]]
+- [emotional expression](../topics/emotional expression.md)
+- [national pride](../topics/national pride.md)
 
 ## Tags
 
-- [[../tags/peter omahon]]
-- [[../tags/ireland's call]]
-- [[../tags/virgin media sport]]
-- [[../tags/fxa100]]
+- [peter omahon](../tags/peter omahon.md)
+- [ireland's call](../tags/ireland's call.md)
+- [virgin media sport](../tags/virgin media sport.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

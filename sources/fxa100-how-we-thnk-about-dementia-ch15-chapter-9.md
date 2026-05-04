@@ -24,15 +24,15 @@ The chapter explores how individuals with dementia can still communicate through
 
 ## Key Concepts
 
-- [[../topics/collective subjective]]
-- [[../topics/situational awareness]]
+- [collective subjective](../topics/collective subjective.md)
+- [situational awareness](../topics/situational awareness.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/emotional-expression]]
-- [[../tags/subjective-experience]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [emotional-expression](../tags/emotional-expression.md)
+- [subjective-experience](../tags/subjective-experience.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -40,5 +40,5 @@ The chapter explores how individuals with dementia can still communicate through
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/emotional-expression]]
+- [dementia-care](../topics/dementia-care.md)
+- [emotional-expression](../topics/emotional-expression.md)

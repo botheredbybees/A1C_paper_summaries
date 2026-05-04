@@ -34,9 +34,9 @@ Neuroscience contributes another layer to this discussion, suggesting that these
 
 ## Sources
 
-- [[../sources/fxa301-week05-support-programs-ut-md-anderson]]
-- [[../sources/fxa303-week02-play-creative-arts-and-wellbeing]]
-- [[../sources/fxa303-week03-creative-arts-interventions-for-stress-management-and]]
-- [[../sources/fxa303-week04-fxa303-week-4-introduction]]
-- [[../sources/fxa303-week09-effectiveness-of-creative-arts-based-interventions-for]]
-- [[../sources/fxa303-week09-the-afloat-project-(2)]]
+- [fxa301-week05-support-programs-ut-md-anderson](../sources/fxa301-week05-support-programs-ut-md-anderson.md)
+- [fxa303-week02-play-creative-arts-and-wellbeing](../sources/fxa303-week02-play-creative-arts-and-wellbeing.md)
+- [fxa303-week03-creative-arts-interventions-for-stress-management-and](../sources/fxa303-week03-creative-arts-interventions-for-stress-management-and.md)
+- [fxa303-week04-fxa303-week-4-introduction](../sources/fxa303-week04-fxa303-week-4-introduction.md)
+- [fxa303-week09-effectiveness-of-creative-arts-based-interventions-for](../sources/fxa303-week09-effectiveness-of-creative-arts-based-interventions-for.md)
+- [fxa303-week09-the-afloat-project-(2)](../sources/fxa303-week09-the-afloat-project-(2).md)

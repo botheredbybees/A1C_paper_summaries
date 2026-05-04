@@ -24,20 +24,20 @@ This commentary discusses the emergence and growth of affective science, a new i
 
 ## Key Concepts
 
-- [[../topics/emotions]]
-- [[../topics/mood]]
+- [emotions](../topics/emotions.md)
+- [mood](../topics/mood.md)
 
 ## Tags
 
-- [[../tags/affective-science]]
-- [[../tags/interdisciplinary-research]]
-- [[../tags/emotion-study]]
-- [[../tags/fxa301]]
+- [affective-science](../tags/affective-science.md)
+- [interdisciplinary-research](../tags/interdisciplinary-research.md)
+- [emotion-study](../tags/emotion-study.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/interdisciplinary-research]]
+- [interdisciplinary-research](../topics/interdisciplinary-research.md)

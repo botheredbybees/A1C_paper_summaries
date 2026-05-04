@@ -24,24 +24,24 @@ The article by Bernard and Rickett (2017) explores the cultural value of older p
 
 ## Key Concepts
 
-- [[../topics/health-benefits]]
-- [[../topics/intrinsic-cultural-value]]
+- [health-benefits](../topics/health-benefits.md)
+- [intrinsic-cultural-value](../topics/intrinsic-cultural-value.md)
 
 ## Tags
 
-- [[../tags/older-people]]
-- [[../tags/theater-making]]
-- [[../tags/cultural-value]]
-- [[../tags/well-being]]
-- [[../tags/social-interaction]]
-- [[../tags/age-stereotypes]]
-- [[../tags/fxa301]]
+- [older-people](../tags/older-people.md)
+- [theater-making](../tags/theater-making.md)
+- [cultural-value](../tags/cultural-value.md)
+- [well-being](../tags/well-being.md)
+- [social-interaction](../tags/social-interaction.md)
+- [age-stereotypes](../tags/age-stereotypes.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/social-interaction]]
-- [[../topics/well-being]]
+- [social-interaction](../topics/social-interaction.md)
+- [well-being](../topics/well-being.md)

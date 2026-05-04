@@ -24,16 +24,16 @@ The National Arts Participation Survey, conducted by Creative Australia and Lone
 
 ## Key Concepts
 
-- [[../topics/artistic wellbeing]]
-- [[../topics/pandemic impact]]
-- [[../topics/creative activities]]
+- [artistic wellbeing](../topics/artistic wellbeing.md)
+- [pandemic impact](../topics/pandemic impact.md)
+- [creative activities](../topics/creative activities.md)
 
 ## Tags
 
-- [[../tags/arts-engagement]]
-- [[../tags/survey-research]]
-- [[../tags/cultural-impact]]
-- [[../tags/fxa301]]
+- [arts-engagement](../tags/arts-engagement.md)
+- [survey-research](../tags/survey-research.md)
+- [cultural-impact](../tags/cultural-impact.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,6 +41,6 @@ The National Arts Participation Survey, conducted by Creative Australia and Lone
 
 ## See Also
 
-- [[../topics/arts-engagement]]
-- [[../topics/cultural-impact]]
-- [[../topics/survey-research]]
+- [arts-engagement](../topics/arts-engagement.md)
+- [cultural-impact](../topics/cultural-impact.md)
+- [survey-research](../topics/survey-research.md)

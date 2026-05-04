@@ -28,25 +28,25 @@ The book underscores the critical role of cultural actors in enhancing societal 
 
 ## Key Concepts
 
-- [[../topics/sensory-friendly spaces]]
-- [[../topics/interdisciplinary approaches]]
+- [sensory-friendly spaces](../topics/sensory-friendly spaces.md)
+- [interdisciplinary approaches](../topics/interdisciplinary approaches.md)
 
 ## Tags
 
-- [[../tags/museum-education]]
-- [[../tags/health-promotion]]
-- [[../tags/spatial-design]]
-- [[../tags/wellbeing-initiatives]]
-- [[../tags/public-health-strategies]]
-- [[../tags/fxa301]]
+- [museum-education](../tags/museum-education.md)
+- [health-promotion](../tags/health-promotion.md)
+- [spatial-design](../tags/spatial-design.md)
+- [wellbeing-initiatives](../tags/wellbeing-initiatives.md)
+- [public-health-strategies](../tags/public-health-strategies.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/health-promotion]]
-- [[../topics/museum-education]]
-- [[../topics/public-health-strategies]]
-- [[../topics/wellbeing-initiatives]]
+- [health-promotion](../topics/health-promotion.md)
+- [museum-education](../topics/museum-education.md)
+- [public-health-strategies](../topics/public-health-strategies.md)
+- [wellbeing-initiatives](../topics/wellbeing-initiatives.md)

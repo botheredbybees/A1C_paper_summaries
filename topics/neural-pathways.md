@@ -25,5 +25,5 @@ This synthesis explores the impact of music therapy on dementia care and mindful
 
 ## Sources
 
-- [[../sources/fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care]]
-- [[../sources/fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography]]
+- [fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care](../sources/fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care.md)
+- [fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography](../sources/fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography.md)

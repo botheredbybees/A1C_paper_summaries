@@ -24,26 +24,26 @@ This document discusses a research project titled 'Connecting with and through a
 
 ## Key Concepts
 
-- [[../topics/arts engagement programs]]
-- [[../topics/sense of connection]]
-- [[../topics/in-the-moment pleasure]]
+- [arts engagement programs](../topics/arts engagement programs.md)
+- [sense of connection](../topics/sense of connection.md)
+- [in-the-moment pleasure](../topics/in-the-moment pleasure.md)
 
 ## Tags
 
-- [[../tags/arts-engagement]]
-- [[../tags/dementia-care]]
-- [[../tags/social-isolation]]
-- [[../tags/community-wellbeing]]
-- [[../tags/gallery-education]]
-- [[../tags/liveable-communities]]
-- [[../tags/fxa100]]
+- [arts-engagement](../tags/arts-engagement.md)
+- [dementia-care](../tags/dementia-care.md)
+- [social-isolation](../tags/social-isolation.md)
+- [community-wellbeing](../tags/community-wellbeing.md)
+- [gallery-education](../tags/gallery-education.md)
+- [liveable-communities](../tags/liveable-communities.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/arts-engagement]]
-- [[../topics/community-wellbeing]]
-- [[../topics/dementia-care]]
+- [arts-engagement](../topics/arts-engagement.md)
+- [community-wellbeing](../topics/community-wellbeing.md)
+- [dementia-care](../topics/dementia-care.md)

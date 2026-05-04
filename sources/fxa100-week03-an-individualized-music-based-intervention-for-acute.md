@@ -24,22 +24,22 @@ This study evaluated the efficacy of an individualized music-based intervention 
 
 ## Key Concepts
 
-- [[../topics/individualized-music-based-intervention]]
-- [[../topics/acute-neuropsychiatric-symptoms]]
-- [[../topics/nonpharmacological-treatment]]
+- [individualized-music-based-intervention](../topics/individualized-music-based-intervention.md)
+- [acute-neuropsychiatric-symptoms](../topics/acute-neuropsychiatric-symptoms.md)
+- [nonpharmacological-treatment](../topics/nonpharmacological-treatment.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/cognitive-impaired-adults]]
-- [[../tags/hospital-interventions]]
-- [[../tags/neuropsychiatry]]
-- [[../tags/fxa100]]
+- [music-therapy](../tags/music-therapy.md)
+- [cognitive-impaired-adults](../tags/cognitive-impaired-adults.md)
+- [hospital-interventions](../tags/hospital-interventions.md)
+- [neuropsychiatry](../tags/neuropsychiatry.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[prospective-controlled-trial]]
+- [prospective-controlled-trial](prospective-controlled-trial.md)
 
 ## See Also
 
-- [[../topics/music-therapy]]
+- [music-therapy](../topics/music-therapy.md)

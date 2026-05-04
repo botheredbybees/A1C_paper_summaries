@@ -24,15 +24,15 @@ This article explores the complexities of the human brain, detailing its structu
 
 ## Key Concepts
 
-- [[../topics/blood-brain barrier]]
-- [[../topics/neurological diseases]]
+- [blood-brain barrier](../topics/blood-brain barrier.md)
+- [neurological diseases](../topics/neurological diseases.md)
 
 ## Tags
 
-- [[../tags/brain-anatomy]]
-- [[../tags/neurology]]
-- [[../tags/cognitive-science]]
-- [[../tags/fxa301]]
+- [brain-anatomy](../tags/brain-anatomy.md)
+- [neurology](../tags/neurology.md)
+- [cognitive-science](../tags/cognitive-science.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -40,5 +40,5 @@ This article explores the complexities of the human brain, detailing its structu
 
 ## See Also
 
-- [[../topics/brain-anatomy]]
-- [[../topics/neurology]]
+- [brain-anatomy](../topics/brain-anatomy.md)
+- [neurology](../topics/neurology.md)

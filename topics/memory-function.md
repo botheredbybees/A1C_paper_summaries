@@ -26,5 +26,5 @@ The sources explore different facets of memory function in individuals with deme
 
 ## Sources
 
-- [[../sources/fxa100-excellence-in-dementia-care--ch40-chapter-14]]
-- [[../sources/fxa100-week08-web-article-huebner-2012]]
+- [fxa100-excellence-in-dementia-care--ch40-chapter-14](../sources/fxa100-excellence-in-dementia-care--ch40-chapter-14.md)
+- [fxa100-week08-web-article-huebner-2012](../sources/fxa100-week08-web-article-huebner-2012.md)

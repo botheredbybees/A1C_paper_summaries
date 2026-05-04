@@ -24,15 +24,15 @@ This chapter discusses the critical role of communication in understanding and a
 
 ## Key Concepts
 
-- [[../topics/malignant social psychology]]
-- [[../topics/non-verbal communication]]
+- [malignant social psychology](../topics/malignant social psychology.md)
+- [non-verbal communication](../topics/non-verbal communication.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/communication-challenges]]
-- [[../tags/personhood-theory]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [communication-challenges](../tags/communication-challenges.md)
+- [personhood-theory](../tags/personhood-theory.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -40,5 +40,5 @@ This chapter discusses the critical role of communication in understanding and a
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/personhood-theory]]
+- [dementia-care](../topics/dementia-care.md)
+- [personhood-theory](../topics/personhood-theory.md)

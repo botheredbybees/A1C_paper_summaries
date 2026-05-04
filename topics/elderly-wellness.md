@@ -27,6 +27,6 @@ The integration of creative interventions in elderly wellness demonstrates signi
 
 ## Sources
 
-- [[../sources/fxa100-week04-transcript-mind-song-music-for-dementia]]
-- [[../sources/fxa100-week06-how-creating-sculpture-benefits-people-with-dementia]]
-- [[../sources/fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january]]
+- [fxa100-week04-transcript-mind-song-music-for-dementia](../sources/fxa100-week04-transcript-mind-song-music-for-dementia.md)
+- [fxa100-week06-how-creating-sculpture-benefits-people-with-dementia](../sources/fxa100-week06-how-creating-sculpture-benefits-people-with-dementia.md)
+- [fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january](../sources/fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january.md)

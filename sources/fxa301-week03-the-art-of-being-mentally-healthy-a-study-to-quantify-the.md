@@ -24,23 +24,23 @@ The study explores the relationship between recreational arts engagement and men
 
 ## Key Concepts
 
-- [[../topics/recreational arts engagement]]
-- [[../topics/mental well-being]]
-- [[../topics/dose-response relationship]]
+- [recreational arts engagement](../topics/recreational arts engagement.md)
+- [mental well-being](../topics/mental well-being.md)
+- [dose-response relationship](../topics/dose-response relationship.md)
 
 ## Tags
 
-- [[../tags/mental-well-being]]
-- [[../tags/recreational-arts]]
-- [[../tags/population-health]]
-- [[../tags/social-epidemiology]]
-- [[../tags/biopsychosocial-model]]
-- [[../tags/fxa301]]
+- [mental-well-being](../tags/mental-well-being.md)
+- [recreational-arts](../tags/recreational-arts.md)
+- [population-health](../tags/population-health.md)
+- [social-epidemiology](../tags/social-epidemiology.md)
+- [biopsychosocial-model](../tags/biopsychosocial-model.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[telephone survey]]
+- [telephone survey](telephone survey.md)
 
 ## See Also
 
-- [[../topics/mental-well-being]]
+- [mental-well-being](../topics/mental-well-being.md)

@@ -24,26 +24,26 @@ The MJHHS Dementia Care project details a three-year initiative funded by New Yo
 
 ## Key Concepts
 
-- [[../topics/music therapy]]
-- [[../topics/agitation reduction]]
-- [[../topics/brain plasticity]]
+- [music therapy](../topics/music therapy.md)
+- [agitation reduction](../topics/agitation reduction.md)
+- [brain plasticity](../topics/brain plasticity.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/dementia-care]]
-- [[../tags/patient-outcomes]]
-- [[../tags/cost-benefit-analysis]]
-- [[../tags/quality-of-life]]
-- [[../tags/fxa100]]
+- [music-therapy](../tags/music-therapy.md)
+- [dementia-care](../tags/dementia-care.md)
+- [patient-outcomes](../tags/patient-outcomes.md)
+- [cost-benefit-analysis](../tags/cost-benefit-analysis.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[program evaluation]]
+- [program evaluation](program evaluation.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/music-therapy]]
-- [[../topics/patient-outcomes]]
-- [[../topics/quality-of-life]]
+- [dementia-care](../topics/dementia-care.md)
+- [music-therapy](../topics/music-therapy.md)
+- [patient-outcomes](../topics/patient-outcomes.md)
+- [quality-of-life](../topics/quality-of-life.md)

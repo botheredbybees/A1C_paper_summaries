@@ -27,6 +27,6 @@ The exploration of Alzheimer's disease (AD) reveals its multifaceted nature, wit
 
 ## Sources
 
-- [[../sources/fxa100-week01-what-is-alzheimers-disease-video-transcript]]
-- [[../sources/fxa100-week08-transcript-hayes-j-2011-the-creative-arts-in-dementia-care]]
-- [[../sources/fxa303-week04-dsm-5-tr-neurocognitive-disorders-supplement]]
+- [fxa100-week01-what-is-alzheimers-disease-video-transcript](../sources/fxa100-week01-what-is-alzheimers-disease-video-transcript.md)
+- [fxa100-week08-transcript-hayes-j-2011-the-creative-arts-in-dementia-care](../sources/fxa100-week08-transcript-hayes-j-2011-the-creative-arts-in-dementia-care.md)
+- [fxa303-week04-dsm-5-tr-neurocognitive-disorders-supplement](../sources/fxa303-week04-dsm-5-tr-neurocognitive-disorders-supplement.md)

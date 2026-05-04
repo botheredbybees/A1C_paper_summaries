@@ -26,5 +26,5 @@ This synthesis explores the intersection of environmental awareness with therape
 
 ## Sources
 
-- [[../sources/fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay]]
-- [[../sources/fxa301-week05-happy-museum-learning-evaluation-report]]
+- [fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay](../sources/fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay.md)
+- [fxa301-week05-happy-museum-learning-evaluation-report](../sources/fxa301-week05-happy-museum-learning-evaluation-report.md)

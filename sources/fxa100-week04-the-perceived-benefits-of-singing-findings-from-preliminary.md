@@ -24,26 +24,26 @@ This study explores the perceived health and well-being benefits associated with
 
 ## Key Concepts
 
-- [[../topics/perceived health benefits]]
-- [[../topics/choral singing]]
-- [[../topics/quality of life]]
+- [perceived health benefits](../topics/perceived health benefits.md)
+- [choral singing](../topics/choral singing.md)
+- [quality of life](../topics/quality of life.md)
 
 ## Tags
 
-- [[../tags/choral-singing]]
-- [[../tags/wellbeing-benefits]]
-- [[../tags/health-outcomes]]
-- [[../tags/social-interaction]]
-- [[../tags/emotional-wellness]]
-- [[../tags/spiritual-impact]]
-- [[../tags/fxa100]]
+- [choral-singing](../tags/choral-singing.md)
+- [wellbeing-benefits](../tags/wellbeing-benefits.md)
+- [health-outcomes](../tags/health-outcomes.md)
+- [social-interaction](../tags/social-interaction.md)
+- [emotional-wellness](../tags/emotional-wellness.md)
+- [spiritual-impact](../tags/spiritual-impact.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[survey study]]
-- [[content analysis]]
+- [survey study](survey study.md)
+- [content analysis](content analysis.md)
 
 ## See Also
 
-- [[../topics/health-outcomes]]
-- [[../topics/social-interaction]]
+- [health-outcomes](../topics/health-outcomes.md)
+- [social-interaction](../topics/social-interaction.md)

@@ -26,5 +26,5 @@ The concept of negative space in photography is pivotal for creating visually co
 
 ## Sources
 
-- [[../sources/fxa202-week02-negative-space-for-photographers-the-ultimate-guide]]
-- [[../sources/fxa202-week02-negative-space-in-photography-and-positive-space]]
+- [fxa202-week02-negative-space-for-photographers-the-ultimate-guide](../sources/fxa202-week02-negative-space-for-photographers-the-ultimate-guide.md)
+- [fxa202-week02-negative-space-in-photography-and-positive-space](../sources/fxa202-week02-negative-space-in-photography-and-positive-space.md)

@@ -33,11 +33,11 @@ The integration of music therapy and creative arts interventions across various 
 
 ## Sources
 
-- [[../sources/fxa100-week04-music-as-therapy-and-health-promotion]]
-- [[../sources/fxa100-week04-the-ripple-effect-towards-researching-improvisational-music]]
-- [[../sources/fxa100-week09-personhood-maintained]]
-- [[../sources/fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1]]
-- [[../sources/fxa303-week04-play-therapy-in-children-with-autism-its-role-implications]]
-- [[../sources/fxa303-week06-puppets-facilitate-attention-to-social-cues-in-children]]
-- [[../sources/fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for]]
-- [[../sources/fxa303-week09-using-creative-techniques-with-children-who-have]]
+- [fxa100-week04-music-as-therapy-and-health-promotion](../sources/fxa100-week04-music-as-therapy-and-health-promotion.md)
+- [fxa100-week04-the-ripple-effect-towards-researching-improvisational-music](../sources/fxa100-week04-the-ripple-effect-towards-researching-improvisational-music.md)
+- [fxa100-week09-personhood-maintained](../sources/fxa100-week09-personhood-maintained.md)
+- [fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1](../sources/fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1.md)
+- [fxa303-week04-play-therapy-in-children-with-autism-its-role-implications](../sources/fxa303-week04-play-therapy-in-children-with-autism-its-role-implications.md)
+- [fxa303-week06-puppets-facilitate-attention-to-social-cues-in-children](../sources/fxa303-week06-puppets-facilitate-attention-to-social-cues-in-children.md)
+- [fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for](../sources/fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for.md)
+- [fxa303-week09-using-creative-techniques-with-children-who-have](../sources/fxa303-week09-using-creative-techniques-with-children-who-have.md)

@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Reminiscence Work
 
-- [[../sources/fxa100-week09-personhood-maintained|Personhood Maintained]]
+- [Personhood Maintained](../sources/fxa100-week09-personhood-maintained.md)

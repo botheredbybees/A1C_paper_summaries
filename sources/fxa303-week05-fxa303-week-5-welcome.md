@@ -24,27 +24,27 @@ This document introduces the fifth week of the FXA303 course, marking a transiti
 
 ## Key Concepts
 
-- [[../topics/therapeutic benefits of creative play]]
-- [[../topics/vicarious trauma]]
-- [[../topics/non-verbal communication in puppetry]]
+- [therapeutic benefits of creative play](../topics/therapeutic benefits of creative play.md)
+- [vicarious trauma](../topics/vicarious trauma.md)
+- [non-verbal communication in puppetry](../topics/non-verbal communication in puppetry.md)
 
 ## Tags
 
-- [[../tags/mental-wellbeing]]
-- [[../tags/creative-play]]
-- [[../tags/puppetry-therapy]]
-- [[../tags/trauma-narratives]]
-- [[../tags/cultural-storytelling]]
-- [[../tags/emotional-support]]
-- [[../tags/fxa303]]
+- [mental-wellbeing](../tags/mental-wellbeing.md)
+- [creative-play](../tags/creative-play.md)
+- [puppetry-therapy](../tags/puppetry-therapy.md)
+- [trauma-narratives](../tags/trauma-narratives.md)
+- [cultural-storytelling](../tags/cultural-storytelling.md)
+- [emotional-support](../tags/emotional-support.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/creative-play]]
-- [[../topics/cultural-storytelling]]
-- [[../topics/emotional-support]]
-- [[../topics/mental-wellbeing]]
+- [creative-play](../topics/creative-play.md)
+- [cultural-storytelling](../topics/cultural-storytelling.md)
+- [emotional-support](../topics/emotional-support.md)
+- [mental-wellbeing](../topics/mental-wellbeing.md)

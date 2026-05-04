@@ -28,23 +28,23 @@ By engaging mythological figures and digital manipulation techniques, Miller dem
 
 ## Key Concepts
 
-- [[../topics/Jungian archetypes]]
-- [[../topics/therapeutic photography practices]]
-- [[../topics/color psychology]]
+- [Jungian archetypes](../topics/Jungian archetypes.md)
+- [therapeutic photography practices](../topics/therapeutic photography practices.md)
+- [color psychology](../topics/color psychology.md)
 
 ## Tags
 
-- [[../tags/therapeutic-photography]]
-- [[../tags/trauma-recovery]]
-- [[../tags/mythology-in-art]]
-- [[../tags/digital-manipulation]]
-- [[../tags/emotional-healing]]
-- [[../tags/self-portraiture]]
-- [[../tags/fxa202]]
+- [therapeutic-photography](../tags/therapeutic-photography.md)
+- [trauma-recovery](../tags/trauma-recovery.md)
+- [mythology-in-art](../tags/mythology-in-art.md)
+- [digital-manipulation](../tags/digital-manipulation.md)
+- [emotional-healing](../tags/emotional-healing.md)
+- [self-portraiture](../tags/self-portraiture.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[reflective analysis]]
+- [reflective analysis](reflective analysis.md)
 
 ## See Also
 

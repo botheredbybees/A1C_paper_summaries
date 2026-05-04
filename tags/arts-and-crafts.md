@@ -6,5 +6,5 @@ updated: 2026-05-04
 
 ## Arts And Crafts
 
-- [[../sources/fxa100-week07-transcript-youtube-qvnfj1otdyc|Photography Session with Mary Stringer]]
-- [[../sources/fxa100-week08-web-article-reyner-2006|Successful Crafts & Game Ideas for Alzheimer's Activities]]
+- [Photography Session with Mary Stringer](../sources/fxa100-week07-transcript-youtube-qvnfj1otdyc.md)
+- [Successful Crafts & Game Ideas for Alzheimer's Activities](../sources/fxa100-week08-web-article-reyner-2006.md)

@@ -24,21 +24,21 @@ This document provides an overview of the importance of creative play and arts i
 
 ## Key Concepts
 
-- [[../topics/sensory-experience]]
-- [[../topics/self-regulation]]
-- [[../topics/motor-skills]]
-- [[../topics/cognitive-abilities]]
-- [[../topics/fine-motor-control]]
+- [sensory-experience](../topics/sensory-experience.md)
+- [self-regulation](../topics/self-regulation.md)
+- [motor-skills](../topics/motor-skills.md)
+- [cognitive-abilities](../topics/cognitive-abilities.md)
+- [fine-motor-control](../topics/fine-motor-control.md)
 
 ## Tags
 
-- [[../tags/child-development]]
-- [[../tags/play-theory]]
-- [[../tags/mental-wellbeing]]
-- [[../tags/creative-arts]]
-- [[../tags/brain-development]]
-- [[../tags/emotional-regulation]]
-- [[../tags/fxa303]]
+- [child-development](../tags/child-development.md)
+- [play-theory](../tags/play-theory.md)
+- [mental-wellbeing](../tags/mental-wellbeing.md)
+- [creative-arts](../tags/creative-arts.md)
+- [brain-development](../tags/brain-development.md)
+- [emotional-regulation](../tags/emotional-regulation.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
@@ -46,9 +46,9 @@ This document provides an overview of the importance of creative play and arts i
 
 ## See Also
 
-- [[../topics/brain-development]]
-- [[../topics/child-development]]
-- [[../topics/creative-arts]]
-- [[../topics/emotional-regulation]]
-- [[../topics/mental-wellbeing]]
-- [[../topics/play-theory]]
+- [brain-development](../topics/brain-development.md)
+- [child-development](../topics/child-development.md)
+- [creative-arts](../topics/creative-arts.md)
+- [emotional-regulation](../topics/emotional-regulation.md)
+- [mental-wellbeing](../topics/mental-wellbeing.md)
+- [play-theory](../topics/play-theory.md)

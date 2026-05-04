@@ -25,5 +25,5 @@ The synthesis of the provided sources highlights two key long-term care interven
 
 ## Sources
 
-- [[../sources/fxa100-week03-implementation-survey-results-phase-iii-music-memory-program]]
-- [[../sources/fxa100-week08-it-makes-me-feel-like-myself-person-centered-versus]]
+- [fxa100-week03-implementation-survey-results-phase-iii-music-memory-program](../sources/fxa100-week03-implementation-survey-results-phase-iii-music-memory-program.md)
+- [fxa100-week08-it-makes-me-feel-like-myself-person-centered-versus](../sources/fxa100-week08-it-makes-me-feel-like-myself-person-centered-versus.md)

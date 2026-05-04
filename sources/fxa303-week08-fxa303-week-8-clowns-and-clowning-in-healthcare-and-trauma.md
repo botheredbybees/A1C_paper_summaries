@@ -24,21 +24,21 @@ This week of FXA303 Creative Arts, Play and Mental Wellbeing focuses on the role
 
 ## Key Concepts
 
-- [[../topics/hospital-clowns]]
-- [[../topics/physical-comedy-healing]]
-- [[../topics/social-barriers-transcendence]]
+- [hospital-clowns](../topics/hospital-clowns.md)
+- [physical-comedy-healing](../topics/physical-comedy-healing.md)
+- [social-barriers-transcendence](../topics/social-barriers-transcendence.md)
 
 ## Tags
 
-- [[../tags/clowning-in-healthcare]]
-- [[../tags/trauma-relief-through-humor]]
-- [[../tags/court-jesters-history]]
-- [[../tags/mental-wellbeing-arts]]
-- [[../tags/fxa303]]
+- [clowning-in-healthcare](../tags/clowning-in-healthcare.md)
+- [trauma-relief-through-humor](../tags/trauma-relief-through-humor.md)
+- [court-jesters-history](../tags/court-jesters-history.md)
+- [mental-wellbeing-arts](../tags/mental-wellbeing-arts.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 

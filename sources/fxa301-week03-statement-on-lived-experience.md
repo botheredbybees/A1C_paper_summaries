@@ -24,25 +24,25 @@ The document emphasizes the importance of incorporating lived experience in crea
 
 ## Key Concepts
 
-- [[../topics/authentic voice]]
-- [[../topics/partnerships]]
-- [[../topics/service design]]
+- [authentic voice](../topics/authentic voice.md)
+- [partnerships](../topics/partnerships.md)
+- [service design](../topics/service design.md)
 
 ## Tags
 
-- [[../tags/lived-experience]]
-- [[../tags/creative-health]]
-- [[../tags/mental-health-services]]
-- [[../tags/community-engagement]]
-- [[../tags/policy-making]]
-- [[../tags/fxa301]]
+- [lived-experience](../tags/lived-experience.md)
+- [creative-health](../tags/creative-health.md)
+- [mental-health-services](../tags/mental-health-services.md)
+- [community-engagement](../tags/community-engagement.md)
+- [policy-making](../tags/policy-making.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[statement]]
+- [statement](statement.md)
 
 ## See Also
 
-- [[../topics/creative-health]]
-- [[../topics/lived-experience]]
-- [[../topics/mental-health-services]]
+- [creative-health](../topics/creative-health.md)
+- [lived-experience](../topics/lived-experience.md)
+- [mental-health-services](../topics/mental-health-services.md)

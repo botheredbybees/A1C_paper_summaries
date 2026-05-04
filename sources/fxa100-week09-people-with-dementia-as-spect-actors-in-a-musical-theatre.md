@@ -24,24 +24,24 @@ This study explores a collaborative music and drama therapy initiative involving
 
 ## Key Concepts
 
-- [[../topics/musical theatre group]]
-- [[../topics/spect-actors framework]]
-- [[../topics/autonomy for dementia patients]]
+- [musical theatre group](../topics/musical theatre group.md)
+- [spect-actors framework](../topics/spect-actors framework.md)
+- [autonomy for dementia patients](../topics/autonomy for dementia patients.md)
 
 ## Tags
 
-- [[../tags/drama-therapy]]
-- [[../tags/music-and-dementia]]
-- [[../tags/creative-self-expression]]
-- [[../tags/collaborative-learning]]
-- [[../tags/fxa100]]
+- [drama-therapy](../tags/drama-therapy.md)
+- [music-and-dementia](../tags/music-and-dementia.md)
+- [creative-self-expression](../tags/creative-self-expression.md)
+- [collaborative-learning](../tags/collaborative-learning.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/creative-self-expression]]
-- [[../topics/drama-therapy]]
-- [[../topics/music-and-dementia]]
+- [creative-self-expression](../topics/creative-self-expression.md)
+- [drama-therapy](../topics/drama-therapy.md)
+- [music-and-dementia](../topics/music-and-dementia.md)

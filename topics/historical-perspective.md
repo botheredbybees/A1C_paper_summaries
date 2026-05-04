@@ -26,5 +26,5 @@ The historical perspective on the use of music and dance as therapeutic interven
 
 ## Sources
 
-- [[../sources/fxa301-week06-lesson-fxa301-week06-page-1]]
-- [[../sources/fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community]]
+- [fxa301-week06-lesson-fxa301-week06-page-1](../sources/fxa301-week06-lesson-fxa301-week06-page-1.md)
+- [fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community](../sources/fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community.md)

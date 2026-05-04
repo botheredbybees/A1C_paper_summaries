@@ -24,22 +24,22 @@ This systematic literature review by Crealey et al. investigates the economic va
 
 ## Key Concepts
 
-- [[../topics/health-wellbeing]]
-- [[../topics/cost-effectiveness-analysis]]
+- [health-wellbeing](../topics/health-wellbeing.md)
+- [cost-effectiveness-analysis](../topics/cost-effectiveness-analysis.md)
 
 ## Tags
 
-- [[../tags/arts-interventions]]
-- [[../tags/aging-population]]
-- [[../tags/economic-evaluation]]
-- [[../tags/fxa100]]
+- [arts-interventions](../tags/arts-interventions.md)
+- [aging-population](../tags/aging-population.md)
+- [economic-evaluation](../tags/economic-evaluation.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/aging-population]]
-- [[../topics/arts-interventions]]
-- [[../topics/economic-evaluation]]
+- [aging-population](../topics/aging-population.md)
+- [arts-interventions](../topics/arts-interventions.md)
+- [economic-evaluation](../topics/economic-evaluation.md)

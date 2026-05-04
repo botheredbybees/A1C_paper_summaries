@@ -27,6 +27,6 @@ The sources provided highlight various aspects of disaster response and trauma r
 
 ## Sources
 
-- [[../sources/fxa303-week09-lesson-fxa303-week09-page-3-case-studies]]
-- [[../sources/fxa303-week09-psychological-first-aid-supporting-people-affected-by]]
-- [[../sources/fxa303-week09-transcript-duration-1-50]]
+- [fxa303-week09-lesson-fxa303-week09-page-3-case-studies](../sources/fxa303-week09-lesson-fxa303-week09-page-3-case-studies.md)
+- [fxa303-week09-psychological-first-aid-supporting-people-affected-by](../sources/fxa303-week09-psychological-first-aid-supporting-people-affected-by.md)
+- [fxa303-week09-transcript-duration-1-50](../sources/fxa303-week09-transcript-duration-1-50.md)

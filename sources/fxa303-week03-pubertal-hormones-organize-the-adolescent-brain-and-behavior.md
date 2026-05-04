@@ -24,23 +24,23 @@ This review paper explores the relationship between pubertal hormones and their 
 
 ## Key Concepts
 
-- [[../topics/pubertal hormones]]
-- [[../topics/organizational effects]]
-- [[../topics/neuroendocrinology]]
+- [pubertal hormones](../topics/pubertal hormones.md)
+- [organizational effects](../topics/organizational effects.md)
+- [neuroendocrinology](../topics/neuroendocrinology.md)
 
 ## Tags
 
-- [[../tags/puberty-development]]
-- [[../tags/brain-organization]]
-- [[../tags/hormonal-effects]]
-- [[../tags/adolescent-behavior]]
-- [[../tags/neural-circuits]]
-- [[../tags/psychopathology-risk]]
-- [[../tags/fxa303]]
+- [puberty-development](../tags/puberty-development.md)
+- [brain-organization](../tags/brain-organization.md)
+- [hormonal-effects](../tags/hormonal-effects.md)
+- [adolescent-behavior](../tags/adolescent-behavior.md)
+- [neural-circuits](../tags/neural-circuits.md)
+- [psychopathology-risk](../tags/psychopathology-risk.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 

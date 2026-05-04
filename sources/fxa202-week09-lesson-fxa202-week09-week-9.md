@@ -24,15 +24,15 @@ This week's lecture in LAW122 focuses on refining writing skills for Assessment 
 
 ## Key Concepts
 
-- [[../topics/refining-writing-skills]]
-- [[../topics/editing-process]]
+- [refining-writing-skills](../topics/refining-writing-skills.md)
+- [editing-process](../topics/editing-process.md)
 
 ## Tags
 
-- [[../tags/legal-systems]]
-- [[../tags/writing-refinement]]
-- [[../tags/journalling-for-wellbeing]]
-- [[../tags/fxa202]]
+- [legal-systems](../tags/legal-systems.md)
+- [writing-refinement](../tags/writing-refinement.md)
+- [journalling-for-wellbeing](../tags/journalling-for-wellbeing.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ This week's lecture in LAW122 focuses on refining writing skills for Assessment 
 
 ## See Also
 
-- [[../topics/legal-systems]]
+- [legal-systems](../topics/legal-systems.md)

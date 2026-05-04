@@ -24,16 +24,16 @@ This lesson discusses the importance of trauma-informed design principles in art
 
 ## Key Concepts
 
-- [[../topics/trauma-informed principles]]
-- [[../topics/person-centered approach]]
+- [trauma-informed principles](../topics/trauma-informed principles.md)
+- [person-centered approach](../topics/person-centered approach.md)
 
 ## Tags
 
-- [[../tags/trauma-informed-practice]]
-- [[../tags/creative-arts]]
-- [[../tags/play-based-healing]]
-- [[../tags/mental-wellbeing]]
-- [[../tags/fxa303]]
+- [trauma-informed-practice](../tags/trauma-informed-practice.md)
+- [creative-arts](../tags/creative-arts.md)
+- [play-based-healing](../tags/play-based-healing.md)
+- [mental-wellbeing](../tags/mental-wellbeing.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
@@ -41,6 +41,6 @@ This lesson discusses the importance of trauma-informed design principles in art
 
 ## See Also
 
-- [[../topics/creative-arts]]
-- [[../topics/mental-wellbeing]]
-- [[../topics/trauma-informed-practice]]
+- [creative-arts](../topics/creative-arts.md)
+- [mental-wellbeing](../topics/mental-wellbeing.md)
+- [trauma-informed-practice](../topics/trauma-informed-practice.md)

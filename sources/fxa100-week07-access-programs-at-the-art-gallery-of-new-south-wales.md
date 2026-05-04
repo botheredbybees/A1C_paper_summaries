@@ -24,19 +24,19 @@ The document outlines various access programs offered by the Art Gallery of New 
 
 ## Key Concepts
 
-- [[../topics/inclusive design]]
-- [[../topics/cultural participation]]
+- [inclusive design](../topics/inclusive design.md)
+- [cultural participation](../topics/cultural participation.md)
 
 ## Tags
 
-- [[../tags/inclusive-arts-programming]]
-- [[../tags/accessibility-in-museums]]
-- [[../tags/disability-services]]
-- [[../tags/fxa100]]
+- [inclusive-arts-programming](../tags/inclusive-arts-programming.md)
+- [accessibility-in-museums](../tags/accessibility-in-museums.md)
+- [disability-services](../tags/disability-services.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 

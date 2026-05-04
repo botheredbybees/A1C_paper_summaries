@@ -27,6 +27,6 @@ The analysis of neurodegenerative disorders such as Lewy body dementia, Alzheime
 
 ## Sources
 
-- [[../sources/fxa100-week01-the-science-of-lewy-body-dementia-video-transcript]]
-- [[../sources/fxa100-week01-what-is-alzheimers-disease-video-transcript]]
-- [[../sources/fxa100-week01-what-is-frontotemporal-dementia]]
+- [fxa100-week01-the-science-of-lewy-body-dementia-video-transcript](../sources/fxa100-week01-the-science-of-lewy-body-dementia-video-transcript.md)
+- [fxa100-week01-what-is-alzheimers-disease-video-transcript](../sources/fxa100-week01-what-is-alzheimers-disease-video-transcript.md)
+- [fxa100-week01-what-is-frontotemporal-dementia](../sources/fxa100-week01-what-is-frontotemporal-dementia.md)

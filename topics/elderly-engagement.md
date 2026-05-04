@@ -26,5 +26,5 @@ The topic of elderly engagement is highlighted through interventions designed to
 
 ## Sources
 
-- [[../sources/fxa100-week07-aged-care-outreach]]
-- [[../sources/fxa100-week07-creating-resources-memory-trees-and-boxes]]
+- [fxa100-week07-aged-care-outreach](../sources/fxa100-week07-aged-care-outreach.md)
+- [fxa100-week07-creating-resources-memory-trees-and-boxes](../sources/fxa100-week07-creating-resources-memory-trees-and-boxes.md)

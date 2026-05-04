@@ -24,22 +24,22 @@ The study examines the emotional responses of participants attending a live perf
 
 ## Key Concepts
 
-- [[../topics/dispositional-empathy]]
-- [[../topics/visual-imagery]]
-- [[../topics/sublimity]]
+- [dispositional-empathy](../topics/dispositional-empathy.md)
+- [visual-imagery](../topics/visual-imagery.md)
+- [sublimity](../topics/sublimity.md)
 
 ## Tags
 
-- [[../tags/emotions-during-performance]]
-- [[../tags/individual-differences]]
-- [[../tags/music-psychology]]
-- [[../tags/fxa301]]
+- [emotions-during-performance](../tags/emotions-during-performance.md)
+- [individual-differences](../tags/individual-differences.md)
+- [music-psychology](../tags/music-psychology.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/individual-differences]]
-- [[../topics/music-psychology]]
+- [individual-differences](../topics/individual-differences.md)
+- [music-psychology](../topics/music-psychology.md)

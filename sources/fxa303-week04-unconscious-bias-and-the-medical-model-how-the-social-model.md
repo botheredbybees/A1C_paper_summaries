@@ -28,24 +28,24 @@ The article highlights that while reasonable adjustments are mandated in anti-di
 
 ## Key Concepts
 
-- [[../topics/social model of disability]]
-- [[../topics/medical model of disability]]
-- [[../topics/equality act]]
+- [social model of disability](../topics/social model of disability.md)
+- [medical model of disability](../topics/medical model of disability.md)
+- [equality act](../topics/equality act.md)
 
 ## Tags
 
-- [[../tags/disability-discrimination]]
-- [[../tags/social-model-disability]]
-- [[../tags/unconscious-bias]]
-- [[../tags/medical-model]]
-- [[../tags/inclusive-legislation]]
-- [[../tags/critical-theories]]
-- [[../tags/fxa303]]
+- [disability-discrimination](../tags/disability-discrimination.md)
+- [social-model-disability](../tags/social-model-disability.md)
+- [unconscious-bias](../tags/unconscious-bias.md)
+- [medical-model](../tags/medical-model.md)
+- [inclusive-legislation](../tags/inclusive-legislation.md)
+- [critical-theories](../tags/critical-theories.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[literature review]]
+- [literature review](literature review.md)
 
 ## See Also
 
-- [[../topics/social-model-disability]]
+- [social-model-disability](../topics/social-model-disability.md)

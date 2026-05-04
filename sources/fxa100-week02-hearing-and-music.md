@@ -24,25 +24,25 @@ This document explores the process of hearing music, detailing how sound vibrati
 
 ## Key Concepts
 
-- [[../topics/hair-cell-transduction]]
-- [[../topics/left-right-brain-dominance-myth]]
-- [[../topics/pitch-timbre-rhythm-processing]]
+- [hair-cell-transduction](../topics/hair-cell-transduction.md)
+- [left-right-brain-dominance-myth](../topics/left-right-brain-dominance-myth.md)
+- [pitch-timbre-rhythm-processing](../topics/pitch-timbre-rhythm-processing.md)
 
 ## Tags
 
-- [[../tags/hearing-process]]
-- [[../tags/music-perception]]
-- [[../tags/auditory-system]]
-- [[../tags/brain-function]]
-- [[../tags/musical-elements]]
-- [[../tags/fxa100]]
+- [hearing-process](../tags/hearing-process.md)
+- [music-perception](../tags/music-perception.md)
+- [auditory-system](../tags/auditory-system.md)
+- [brain-function](../tags/brain-function.md)
+- [musical-elements](../tags/musical-elements.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/brain-function]]
-- [[../topics/hearing-process]]
-- [[../topics/music-perception]]
+- [brain-function](../topics/brain-function.md)
+- [hearing-process](../topics/hearing-process.md)
+- [music-perception](../topics/music-perception.md)

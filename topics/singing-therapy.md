@@ -25,5 +25,5 @@ The efficacy of singing therapy is highlighted across various studies focusing o
 
 ## Sources
 
-- [[../sources/fxa301-week06-the-ice-breaker-effect-singing-mediates-fast-social-bonding]]
-- [[../sources/fxa301-week09-facing-the-music-three-issues-in-current-research-on]]
+- [fxa301-week06-the-ice-breaker-effect-singing-mediates-fast-social-bonding](../sources/fxa301-week06-the-ice-breaker-effect-singing-mediates-fast-social-bonding.md)
+- [fxa301-week09-facing-the-music-three-issues-in-current-research-on](../sources/fxa301-week09-facing-the-music-three-issues-in-current-research-on.md)

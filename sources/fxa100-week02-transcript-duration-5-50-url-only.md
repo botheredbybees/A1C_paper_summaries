@@ -28,10 +28,10 @@ The transcript could not be automatically downloaded due to the absence of capti
 
 ## Tags
 
-- [[../tags/video-transcript]]
-- [[../tags/youtube-issues]]
-- [[../tags/automatic-downloads]]
-- [[../tags/fxa100]]
+- [video-transcript](../tags/video-transcript.md)
+- [youtube-issues](../tags/youtube-issues.md)
+- [automatic-downloads](../tags/automatic-downloads.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

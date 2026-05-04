@@ -28,27 +28,27 @@ Furthermore, it provides guidance on how to talk about carers, family members, a
 
 ## Key Concepts
 
-- [[../topics/person-first language]]
-- [[../topics/non-stigmatizing communication]]
-- [[../topics/cultural sensitivity]]
+- [person-first language](../topics/person-first language.md)
+- [non-stigmatizing communication](../topics/non-stigmatizing communication.md)
+- [cultural sensitivity](../topics/cultural sensitivity.md)
 
 ## Tags
 
-- [[../tags/dementia-language]]
-- [[../tags/stigma-reduction]]
-- [[../tags/inclusive-terminology]]
-- [[../tags/cultural-awareness]]
-- [[../tags/communication-strategies]]
-- [[../tags/caregiver-support]]
-- [[../tags/fxa100]]
+- [dementia-language](../tags/dementia-language.md)
+- [stigma-reduction](../tags/stigma-reduction.md)
+- [inclusive-terminology](../tags/inclusive-terminology.md)
+- [cultural-awareness](../tags/cultural-awareness.md)
+- [communication-strategies](../tags/communication-strategies.md)
+- [caregiver-support](../tags/caregiver-support.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[guidelines]]
+- [guidelines](guidelines.md)
 
 ## See Also
 
-- [[../topics/caregiver-support]]
-- [[../topics/dementia-language]]
-- [[../topics/inclusive-terminology]]
-- [[../topics/stigma-reduction]]
+- [caregiver-support](../topics/caregiver-support.md)
+- [dementia-language](../topics/dementia-language.md)
+- [inclusive-terminology](../topics/inclusive-terminology.md)
+- [stigma-reduction](../topics/stigma-reduction.md)

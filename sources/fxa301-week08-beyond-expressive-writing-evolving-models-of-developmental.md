@@ -24,29 +24,29 @@ The article by Sophie Nicholls critiques the expressive writing paradigm, which 
 
 ## Key Concepts
 
-- [[../topics/expressive writing paradigm]]
-- [[../topics/developmental creative writing]]
-- [[../topics/therapeutic value of writing]]
+- [expressive writing paradigm](../topics/expressive writing paradigm.md)
+- [developmental creative writing](../topics/developmental creative writing.md)
+- [therapeutic value of writing](../topics/therapeutic value of writing.md)
 
 ## Tags
 
-- [[../tags/expressive-writing]]
-- [[../tags/creative-writing]]
-- [[../tags/health-psychology]]
-- [[../tags/personal-development]]
-- [[../tags/qualitative-research]]
-- [[../tags/self-concept]]
-- [[../tags/fxa301]]
+- [expressive-writing](../tags/expressive-writing.md)
+- [creative-writing](../tags/creative-writing.md)
+- [health-psychology](../tags/health-psychology.md)
+- [personal-development](../tags/personal-development.md)
+- [qualitative-research](../tags/qualitative-research.md)
+- [self-concept](../tags/self-concept.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[qualitative research]]
+- [qualitative research](qualitative research.md)
 
 ## See Also
 
-- [[../topics/creative-writing]]
-- [[../topics/expressive-writing]]
-- [[../topics/health-psychology]]
-- [[../topics/personal-development]]
-- [[../topics/qualitative-research]]
-- [[../topics/self-concept]]
+- [creative-writing](../topics/creative-writing.md)
+- [expressive-writing](../topics/expressive-writing.md)
+- [health-psychology](../topics/health-psychology.md)
+- [personal-development](../topics/personal-development.md)
+- [qualitative-research](../topics/qualitative-research.md)
+- [self-concept](../topics/self-concept.md)

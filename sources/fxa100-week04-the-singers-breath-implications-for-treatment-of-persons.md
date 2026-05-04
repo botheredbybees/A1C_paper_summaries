@@ -24,26 +24,26 @@ The study by Engen (2005) investigates the impact of group singing instruction o
 
 ## Key Concepts
 
-- [[../topics/diaphragmatic-breathing]]
-- [[../topics/functional-outcomes]]
-- [[../topics/subjective-quality-of-life]]
+- [diaphragmatic-breathing](../topics/diaphragmatic-breathing.md)
+- [functional-outcomes](../topics/functional-outcomes.md)
+- [subjective-quality-of-life](../topics/subjective-quality-of-life.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/emphysema-management]]
-- [[../tags/breathing-exercises]]
-- [[../tags/quality-of-life]]
-- [[../tags/chronic-pulmonary-disease]]
-- [[../tags/fxa100]]
+- [music-therapy](../tags/music-therapy.md)
+- [emphysema-management](../tags/emphysema-management.md)
+- [breathing-exercises](../tags/breathing-exercises.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [chronic-pulmonary-disease](../tags/chronic-pulmonary-disease.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
-- [[vocal-training]]
+- [case-study](case-study.md)
+- [vocal-training](vocal-training.md)
 
 ## See Also
 
-- [[../topics/breathing-exercises]]
-- [[../topics/music-therapy]]
-- [[../topics/quality-of-life]]
+- [breathing-exercises](../topics/breathing-exercises.md)
+- [music-therapy](../topics/music-therapy.md)
+- [quality-of-life](../topics/quality-of-life.md)

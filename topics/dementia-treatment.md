@@ -28,5 +28,5 @@ Despite the positive outcomes reported in both studies, there is a need to furth
 
 ## Sources
 
-- [[../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it]]
-- [[../sources/fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and]]
+- [fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it](../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it.md)
+- [fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and](../sources/fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and.md)

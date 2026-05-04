@@ -24,23 +24,23 @@ The article 'The Dance of Wellbeing: Defining the Musical Therapeutic Effect' by
 
 ## Key Concepts
 
-- [[../topics/innate-musicality]]
-- [[../topics/spontaneous-interactions]]
-- [[../topics/therapeutic-impact]]
+- [innate-musicality](../topics/innate-musicality.md)
+- [spontaneous-interactions](../topics/spontaneous-interactions.md)
+- [therapeutic-impact](../topics/therapeutic-impact.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/emotional-wellbeing]]
-- [[../tags/intersubjective-communication]]
-- [[../tags/rhythmic-expression]]
-- [[../tags/fxa301]]
+- [music-therapy](../tags/music-therapy.md)
+- [emotional-wellbeing](../tags/emotional-wellbeing.md)
+- [intersubjective-communication](../tags/intersubjective-communication.md)
+- [rhythmic-expression](../tags/rhythmic-expression.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/emotional-wellbeing]]
-- [[../topics/music-therapy]]
+- [emotional-wellbeing](../topics/emotional-wellbeing.md)
+- [music-therapy](../topics/music-therapy.md)

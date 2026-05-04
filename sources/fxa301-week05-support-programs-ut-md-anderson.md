@@ -30,21 +30,21 @@ These initiatives underscore the importance of integrating creative arts into he
 
 ## Key Concepts
 
-- [[../topics/holistic-patient-care]]
-- [[../topics/integrative-medicine]]
-- [[../topics/therapeutic-benefits-of-art]]
+- [holistic-patient-care](../topics/holistic-patient-care.md)
+- [integrative-medicine](../topics/integrative-medicine.md)
+- [therapeutic-benefits-of-art](../topics/therapeutic-benefits-of-art.md)
 
 ## Tags
 
-- [[../tags/adolescent-cancer-care]]
-- [[../tags/pediatric-oncology-support]]
-- [[../tags/creative-arts-interventions]]
-- [[../tags/fxa301]]
+- [adolescent-cancer-care](../tags/adolescent-cancer-care.md)
+- [pediatric-oncology-support](../tags/pediatric-oncology-support.md)
+- [creative-arts-interventions](../tags/creative-arts-interventions.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[program-outreach]]
+- [program-outreach](program-outreach.md)
 
 ## See Also
 
-- [[../topics/creative-arts-interventions]]
+- [creative-arts-interventions](../topics/creative-arts-interventions.md)

@@ -29,8 +29,8 @@ The sources collectively underscore the multifaceted nature of neurodegenerative
 
 ## Sources
 
-- [[../sources/fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a]]
-- [[../sources/fxa100-week01-the-mechanisms-in-glucose-metabolism-of-aging-hippocampus]]
-- [[../sources/fxa100-week01-transcript-alzheimers-society]]
-- [[../sources/fxa100-week01-what-is-alzheimers-disease-video-transcript]]
-- [[../sources/fxa100-week01-what-is-frontotemporal-dementia]]
+- [fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a](../sources/fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a.md)
+- [fxa100-week01-the-mechanisms-in-glucose-metabolism-of-aging-hippocampus](../sources/fxa100-week01-the-mechanisms-in-glucose-metabolism-of-aging-hippocampus.md)
+- [fxa100-week01-transcript-alzheimers-society](../sources/fxa100-week01-transcript-alzheimers-society.md)
+- [fxa100-week01-what-is-alzheimers-disease-video-transcript](../sources/fxa100-week01-what-is-alzheimers-disease-video-transcript.md)
+- [fxa100-week01-what-is-frontotemporal-dementia](../sources/fxa100-week01-what-is-frontotemporal-dementia.md)

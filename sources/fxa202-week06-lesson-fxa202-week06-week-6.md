@@ -24,16 +24,16 @@ This week's lesson in LAW122 focuses on the craft of visual storytelling through
 
 ## Key Concepts
 
-- [[../topics/implied narrative]]
-- [[../topics/visual metaphor]]
+- [implied narrative](../topics/implied narrative.md)
+- [visual metaphor](../topics/visual metaphor.md)
 
 ## Tags
 
-- [[../tags/visual storytelling]]
-- [[../tags/photo essay]]
-- [[../tags/narrative tension]]
-- [[../tags/stream-of-consciousness]]
-- [[../tags/fxa202]]
+- [visual storytelling](../tags/visual storytelling.md)
+- [photo essay](../tags/photo essay.md)
+- [narrative tension](../tags/narrative tension.md)
+- [stream-of-consciousness](../tags/stream-of-consciousness.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ This week's lesson in LAW122 focuses on the craft of visual storytelling through
 
 ## See Also
 
-- [[../topics/stream-of-consciousness]]
-- [[../topics/visual-storytelling]]
+- [stream-of-consciousness](../topics/stream-of-consciousness.md)
+- [visual-storytelling](../topics/visual-storytelling.md)

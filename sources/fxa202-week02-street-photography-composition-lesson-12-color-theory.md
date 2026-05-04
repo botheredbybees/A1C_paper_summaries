@@ -24,23 +24,23 @@ In this lesson on color theory, Eric Kim discusses the importance of understandi
 
 ## Key Concepts
 
-- [[../topics/complementary-colors]]
-- [[../topics/warm-cool-colors]]
-- [[../topics/emotional-response]]
+- [complementary-colors](../topics/complementary-colors.md)
+- [warm-cool-colors](../topics/warm-cool-colors.md)
+- [emotional-response](../topics/emotional-response.md)
 
 ## Tags
 
-- [[../tags/street-photography]]
-- [[../tags/color-theory]]
-- [[../tags/visual-storytelling]]
-- [[../tags/fxa202]]
+- [street-photography](../tags/street-photography.md)
+- [color-theory](../tags/color-theory.md)
+- [visual-storytelling](../tags/visual-storytelling.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/color-theory]]
-- [[../topics/street-photography]]
-- [[../topics/visual-storytelling]]
+- [color-theory](../topics/color-theory.md)
+- [street-photography](../topics/street-photography.md)
+- [visual-storytelling](../topics/visual-storytelling.md)

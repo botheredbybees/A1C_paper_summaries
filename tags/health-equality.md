@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Health Equality
 
-- [[../sources/fxa301-week03-introduction-to-creative-health-extract|Introduction to Creative Health Extract]]
+- [Introduction to Creative Health Extract](../sources/fxa301-week03-introduction-to-creative-health-extract.md)

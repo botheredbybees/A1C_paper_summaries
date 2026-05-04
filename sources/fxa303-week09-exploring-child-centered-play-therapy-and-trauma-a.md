@@ -24,23 +24,23 @@ This article presents a systematic review of literature focusing on the efficacy
 
 ## Key Concepts
 
-- [[../topics/child-centered play therapy]]
-- [[../topics/adverse childhood experiences]]
+- [child-centered play therapy](../topics/child-centered play therapy.md)
+- [adverse childhood experiences](../topics/adverse childhood experiences.md)
 
 ## Tags
 
-- [[../tags/child-centered-play-therapy]]
-- [[../tags/trauma-intervention]]
-- [[../tags/adverse-childhood-experiences]]
-- [[../tags/mental-health-outcomes]]
-- [[../tags/fxa303]]
+- [child-centered-play-therapy](../tags/child-centered-play-therapy.md)
+- [trauma-intervention](../tags/trauma-intervention.md)
+- [adverse-childhood-experiences](../tags/adverse-childhood-experiences.md)
+- [mental-health-outcomes](../tags/mental-health-outcomes.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/child-centered-play-therapy]]
-- [[../topics/mental-health-outcomes]]
-- [[../topics/trauma-intervention]]
+- [child-centered-play-therapy](../topics/child-centered-play-therapy.md)
+- [mental-health-outcomes](../topics/mental-health-outcomes.md)
+- [trauma-intervention](../topics/trauma-intervention.md)

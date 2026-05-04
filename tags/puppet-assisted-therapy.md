@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Puppet Assisted Therapy
 
-- [[../sources/fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the|Puppet-Assisted Play Therapy]]
+- [Puppet-Assisted Play Therapy](../sources/fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the.md)

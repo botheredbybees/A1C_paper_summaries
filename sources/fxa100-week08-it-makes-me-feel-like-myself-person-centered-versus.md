@@ -24,27 +24,27 @@ The study, conducted over a period of 15 months between February 2010 and April 
 
 ## Key Concepts
 
-- [[../topics/person-centered care]]
-- [[../topics/well-being indicators]]
-- [[../topics/stigma reduction]]
+- [person-centered care](../topics/person-centered care.md)
+- [well-being indicators](../topics/well-being indicators.md)
+- [stigma reduction](../topics/stigma reduction.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/person-centered-interventions]]
-- [[../tags/visual-arts-therapy]]
-- [[../tags/quality-of-life]]
-- [[../tags/long-term-care]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [person-centered-interventions](../tags/person-centered-interventions.md)
+- [visual-arts-therapy](../tags/visual-arts-therapy.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [long-term-care](../tags/long-term-care.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[observational study]]
-- [[case series]]
+- [observational study](observational study.md)
+- [case series](case series.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/long-term-care]]
-- [[../topics/quality-of-life]]
-- [[../topics/visual-arts-therapy]]
+- [dementia-care](../topics/dementia-care.md)
+- [long-term-care](../topics/long-term-care.md)
+- [quality-of-life](../topics/quality-of-life.md)
+- [visual-arts-therapy](../topics/visual-arts-therapy.md)

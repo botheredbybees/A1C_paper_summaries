@@ -24,24 +24,24 @@ The MoMA Alzheimer's Project is a guide developed by the Museum of Modern Art fo
 
 ## Key Concepts
 
-- [[../topics/Meet Me at MoMA program]]
-- [[../topics/inclusive environments]]
+- [Meet Me at MoMA program](../topics/Meet Me at MoMA program.md)
+- [inclusive environments](../topics/inclusive environments.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/museum-programming]]
-- [[../tags/art-therapy]]
-- [[../tags/inclusive-design]]
-- [[../tags/alzheimers-research]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [museum-programming](../tags/museum-programming.md)
+- [art-therapy](../tags/art-therapy.md)
+- [inclusive-design](../tags/inclusive-design.md)
+- [alzheimers-research](../tags/alzheimers-research.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/alzheimers-research]]
-- [[../topics/dementia-care]]
-- [[../topics/museum-programming]]
+- [alzheimers-research](../topics/alzheimers-research.md)
+- [dementia-care](../topics/dementia-care.md)
+- [museum-programming](../topics/museum-programming.md)

@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Breathing Techniques
 
-- [[../sources/fxa100-week04-learn-to-sing-breathing|Learn to Sing: Breathing]]
+- [Learn to Sing: Breathing](../sources/fxa100-week04-learn-to-sing-breathing.md)

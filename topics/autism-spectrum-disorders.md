@@ -29,8 +29,8 @@ Research on autism spectrum disorders (ASD) highlights the efficacy of various t
 
 ## Sources
 
-- [[../sources/fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between]]
-- [[../sources/fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for]]
-- [[../sources/fxa303-week04-exploring-change-in-childrens-and-art-therapists-behavior]]
-- [[../sources/fxa303-week04-transcript-duration-3-03]]
-- [[../sources/fxa303-week04-transcript-duration-34-19]]
+- [fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between](../sources/fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between.md)
+- [fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for](../sources/fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for.md)
+- [fxa303-week04-exploring-change-in-childrens-and-art-therapists-behavior](../sources/fxa303-week04-exploring-change-in-childrens-and-art-therapists-behavior.md)
+- [fxa303-week04-transcript-duration-3-03](../sources/fxa303-week04-transcript-duration-3-03.md)
+- [fxa303-week04-transcript-duration-34-19](../sources/fxa303-week04-transcript-duration-34-19.md)

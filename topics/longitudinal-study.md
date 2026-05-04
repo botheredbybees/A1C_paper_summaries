@@ -27,6 +27,6 @@ This synthesis integrates findings from longitudinal studies across various heal
 
 ## Sources
 
-- [[../sources/fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life]]
-- [[../sources/fxa100-week08-development-of-a-novel-benchmark-method-to-identify-and]]
-- [[../sources/fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with]]
+- [fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life](../sources/fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life.md)
+- [fxa100-week08-development-of-a-novel-benchmark-method-to-identify-and](../sources/fxa100-week08-development-of-a-novel-benchmark-method-to-identify-and.md)
+- [fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with](../sources/fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with.md)

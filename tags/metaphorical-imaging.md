@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Metaphorical Imaging
 
-- [[../sources/fxa202-week05-making-metaphors-from-photos|Making Metaphors from Photos]]
+- [Making Metaphors from Photos](../sources/fxa202-week05-making-metaphors-from-photos.md)

@@ -24,25 +24,25 @@ This review explores the use of puppets in health care and nursing education, fo
 
 ## Key Concepts
 
-- [[../topics/puppet-simulation]]
-- [[../topics/three-way-communication-tool]]
-- [[../topics/expressive-therapeutics]]
+- [puppet-simulation](../topics/puppet-simulation.md)
+- [three-way-communication-tool](../topics/three-way-communication-tool.md)
+- [expressive-therapeutics](../topics/expressive-therapeutics.md)
 
 ## Tags
 
-- [[../tags/nursing-education]]
-- [[../tags/interactive-puppets]]
-- [[../tags/child-healthcare]]
-- [[../tags/play-therapy]]
-- [[../tags/simulation-methods]]
-- [[../tags/diabetes-management]]
-- [[../tags/fxa303]]
+- [nursing-education](../tags/nursing-education.md)
+- [interactive-puppets](../tags/interactive-puppets.md)
+- [child-healthcare](../tags/child-healthcare.md)
+- [play-therapy](../tags/play-therapy.md)
+- [simulation-methods](../tags/simulation-methods.md)
+- [diabetes-management](../tags/diabetes-management.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/child-healthcare]]
-- [[../topics/play-therapy]]
+- [child-healthcare](../topics/child-healthcare.md)
+- [play-therapy](../topics/play-therapy.md)

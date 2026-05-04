@@ -30,9 +30,9 @@ Creative therapies encompass various interventions that use the arts to enhance 
 
 ## Sources
 
-- [[../sources/fxa100-week08-why-the-arts]]
-- [[../sources/fxa100-week09-web-article-north-2021]]
-- [[../sources/fxa202-week03-can-photography-help-depression]]
-- [[../sources/fxa202-week09-noticing-a-photo-essay]]
-- [[../sources/fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community]]
-- [[../sources/fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods]]
+- [fxa100-week08-why-the-arts](../sources/fxa100-week08-why-the-arts.md)
+- [fxa100-week09-web-article-north-2021](../sources/fxa100-week09-web-article-north-2021.md)
+- [fxa202-week03-can-photography-help-depression](../sources/fxa202-week03-can-photography-help-depression.md)
+- [fxa202-week09-noticing-a-photo-essay](../sources/fxa202-week09-noticing-a-photo-essay.md)
+- [fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community](../sources/fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community.md)
+- [fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods](../sources/fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods.md)

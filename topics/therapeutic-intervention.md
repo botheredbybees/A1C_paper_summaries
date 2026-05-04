@@ -27,6 +27,6 @@ The provided sources collectively explore various therapeutic interventions aime
 
 ## Sources
 
-- [[../sources/fxa303-week02-free-play-and-childrens-mental-health]]
-- [[../sources/fxa303-week06-arts-therapies-and-the-mental-health-of-children-and-young]]
-- [[../sources/fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand]]
+- [fxa303-week02-free-play-and-childrens-mental-health](../sources/fxa303-week02-free-play-and-childrens-mental-health.md)
+- [fxa303-week06-arts-therapies-and-the-mental-health-of-children-and-young](../sources/fxa303-week06-arts-therapies-and-the-mental-health-of-children-and-young.md)
+- [fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand](../sources/fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand.md)

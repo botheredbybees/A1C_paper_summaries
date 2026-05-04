@@ -26,25 +26,25 @@ The text discusses neurodiversity in childhood, particularly focusing on autism 
 
 ## Key Concepts
 
-- [[../topics/neural-connectivity]]
-- [[../topics/medical-model-of-disability]]
-- [[../topics/early-intervention-strategies]]
+- [neural-connectivity](../topics/neural-connectivity.md)
+- [medical-model-of-disability](../topics/medical-model-of-disability.md)
+- [early-intervention-strategies](../topics/early-intervention-strategies.md)
 
 ## Tags
 
-- [[../tags/neurodiversity]]
-- [[../tags/autism-spectrum-disorder]]
-- [[../tags/attention-deficit-hyperactivity-disorder]]
-- [[../tags/early-intervention]]
-- [[../tags/behavioral-therapies]]
-- [[../tags/fxa303]]
+- [neurodiversity](../tags/neurodiversity.md)
+- [autism-spectrum-disorder](../tags/autism-spectrum-disorder.md)
+- [attention-deficit-hyperactivity-disorder](../tags/attention-deficit-hyperactivity-disorder.md)
+- [early-intervention](../tags/early-intervention.md)
+- [behavioral-therapies](../tags/behavioral-therapies.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/autism-spectrum-disorder]]
-- [[../topics/early-intervention]]
-- [[../topics/neurodiversity]]
+- [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)
+- [early-intervention](../topics/early-intervention.md)
+- [neurodiversity](../topics/neurodiversity.md)

@@ -24,28 +24,28 @@ This research paper presents the findings of a three-month study conducted at th
 
 ## Key Concepts
 
-- [[../topics/grounded-theory]]
-- [[../topics/thematic-analysis]]
-- [[../topics/quality-of-life]]
+- [grounded-theory](../topics/grounded-theory.md)
+- [thematic-analysis](../topics/thematic-analysis.md)
+- [quality-of-life](../topics/quality-of-life.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/palliative-care]]
-- [[../tags/cancer-treatment]]
-- [[../tags/qualitative-research]]
-- [[../tags/patient-experience]]
-- [[../tags/fxa301]]
+- [music-therapy](../tags/music-therapy.md)
+- [palliative-care](../tags/palliative-care.md)
+- [cancer-treatment](../tags/cancer-treatment.md)
+- [qualitative-research](../tags/qualitative-research.md)
+- [patient-experience](../tags/patient-experience.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[thematic-analysis]]
-- [[case-study]]
+- [thematic-analysis](thematic-analysis.md)
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/cancer-treatment]]
-- [[../topics/music-therapy]]
-- [[../topics/palliative-care]]
-- [[../topics/patient-experience]]
-- [[../topics/qualitative-research]]
+- [cancer-treatment](../topics/cancer-treatment.md)
+- [music-therapy](../topics/music-therapy.md)
+- [palliative-care](../topics/palliative-care.md)
+- [patient-experience](../topics/patient-experience.md)
+- [qualitative-research](../topics/qualitative-research.md)

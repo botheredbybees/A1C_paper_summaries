@@ -24,29 +24,29 @@ This document introduces the concept of engaging with music and dance within com
 
 ## Key Concepts
 
-- [[../topics/engagement modes]]
-- [[../topics/healing practices]]
-- [[../topics/neural interactions]]
+- [engagement modes](../topics/engagement modes.md)
+- [healing practices](../topics/healing practices.md)
+- [neural interactions](../topics/neural interactions.md)
 
 ## Tags
 
-- [[../tags/community-engagement]]
-- [[../tags/music-and-dance]]
-- [[../tags/social-wellbeing]]
-- [[../tags/health-outcomes]]
-- [[../tags/neuroscience]]
-- [[../tags/historical-perspective]]
-- [[../tags/fxa301]]
+- [community-engagement](../tags/community-engagement.md)
+- [music-and-dance](../tags/music-and-dance.md)
+- [social-wellbeing](../tags/social-wellbeing.md)
+- [health-outcomes](../tags/health-outcomes.md)
+- [neuroscience](../tags/neuroscience.md)
+- [historical-perspective](../tags/historical-perspective.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case study]]
-- [[systematic review]]
+- [case study](case study.md)
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/health-outcomes]]
-- [[../topics/historical-perspective]]
-- [[../topics/music-and-dance]]
-- [[../topics/neuroscience]]
-- [[../topics/social-wellbeing]]
+- [health-outcomes](../topics/health-outcomes.md)
+- [historical-perspective](../topics/historical-perspective.md)
+- [music-and-dance](../topics/music-and-dance.md)
+- [neuroscience](../topics/neuroscience.md)
+- [social-wellbeing](../topics/social-wellbeing.md)

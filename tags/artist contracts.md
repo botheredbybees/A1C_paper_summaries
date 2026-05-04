@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Artist Contracts
 
-- [[../sources/fxa301-arts-in-health-ch44-1-the-artist|Contracting Artists for Health Projects]]
+- [Contracting Artists for Health Projects](../sources/fxa301-arts-in-health-ch44-1-the-artist.md)

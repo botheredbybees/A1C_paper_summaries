@@ -31,10 +31,10 @@ Therapeutic clowning emerges as a creative intervention that leverages the use o
 
 ## Sources
 
-- [[../sources/fxa303-week08-lesson-fxa303-week08-page-2-the-nature-of-clowning]]
-- [[../sources/fxa303-week08-lesson-fxa303-week08-page-3-therapeutic-clowning]]
-- [[../sources/fxa303-week08-the-effect-of-medicaltherapeutic-clowns-on-the-playfulness]]
-- [[../sources/fxa303-week08-the-life-threatened-child-and-the-life-enhancing-clown]]
-- [[../sources/fxa303-week08-therapeutic-clowning]]
-- [[../sources/fxa303-week08-therapeutic-clowning-in-paediatric-practice]]
-- [[../sources/fxa303-week08-we-are-still-doing-some-magic-exploring-the-effectiveness]]
+- [fxa303-week08-lesson-fxa303-week08-page-2-the-nature-of-clowning](../sources/fxa303-week08-lesson-fxa303-week08-page-2-the-nature-of-clowning.md)
+- [fxa303-week08-lesson-fxa303-week08-page-3-therapeutic-clowning](../sources/fxa303-week08-lesson-fxa303-week08-page-3-therapeutic-clowning.md)
+- [fxa303-week08-the-effect-of-medicaltherapeutic-clowns-on-the-playfulness](../sources/fxa303-week08-the-effect-of-medicaltherapeutic-clowns-on-the-playfulness.md)
+- [fxa303-week08-the-life-threatened-child-and-the-life-enhancing-clown](../sources/fxa303-week08-the-life-threatened-child-and-the-life-enhancing-clown.md)
+- [fxa303-week08-therapeutic-clowning](../sources/fxa303-week08-therapeutic-clowning.md)
+- [fxa303-week08-therapeutic-clowning-in-paediatric-practice](../sources/fxa303-week08-therapeutic-clowning-in-paediatric-practice.md)
+- [fxa303-week08-we-are-still-doing-some-magic-exploring-the-effectiveness](../sources/fxa303-week08-we-are-still-doing-some-magic-exploring-the-effectiveness.md)

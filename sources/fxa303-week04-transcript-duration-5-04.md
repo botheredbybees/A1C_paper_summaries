@@ -24,16 +24,16 @@ The transcript discusses the treatment of a child with autism named Victoria at 
 
 ## Key Concepts
 
-- [[../topics/Pivotal Response Treatment (PRT)]]
-- [[../topics/Behavioral Therapy]]
-- [[../topics/Parent Involvement]]
+- [Pivotal Response Treatment (PRT)](../topics/Pivotal Response Treatment (PRT).md)
+- [Behavioral Therapy](../topics/Behavioral Therapy.md)
+- [Parent Involvement](../topics/Parent Involvement.md)
 
 ## Tags
 
-- [[../tags/autism-spectrum-disorder]]
-- [[../tags/pivotal-response-treatment]]
-- [[../tags/child-psychology]]
-- [[../tags/fxa303]]
+- [autism-spectrum-disorder](../tags/autism-spectrum-disorder.md)
+- [pivotal-response-treatment](../tags/pivotal-response-treatment.md)
+- [child-psychology](../tags/child-psychology.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ The transcript discusses the treatment of a child with autism named Victoria at 
 
 ## See Also
 
-- [[../topics/autism-spectrum-disorder]]
-- [[../topics/child-psychology]]
+- [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)
+- [child-psychology](../topics/child-psychology.md)

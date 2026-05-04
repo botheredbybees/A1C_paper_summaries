@@ -24,15 +24,15 @@ This chapter discusses the complexity of distinguishing between dementia and nor
 
 ## Key Concepts
 
-- [[../topics/paradigm of aging]]
-- [[../topics/participatory action research]]
+- [paradigm of aging](../topics/paradigm of aging.md)
+- [participatory action research](../topics/participatory action research.md)
 
 ## Tags
 
-- [[../tags/dementia-research]]
-- [[../tags/aging-concepts]]
-- [[../tags/interdisciplinary-study]]
-- [[../tags/fxa100]]
+- [dementia-research](../tags/dementia-research.md)
+- [aging-concepts](../tags/aging-concepts.md)
+- [interdisciplinary-study](../tags/interdisciplinary-study.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ This chapter discusses the complexity of distinguishing between dementia and nor
 
 ## See Also
 
-- [[../topics/dementia-research]]
+- [dementia-research](../topics/dementia-research.md)

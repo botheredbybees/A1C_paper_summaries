@@ -24,26 +24,26 @@ Tasha Golden's document discusses four significant domains in which the arts can
 
 ## Key Concepts
 
-- [[../topics/art-therapy]]
-- [[../topics/creative-writing-workshops]]
-- [[../topics/social-policy-reform]]
-- [[../topics/data-enrichment-through-art]]
+- [art-therapy](../topics/art-therapy.md)
+- [creative-writing-workshops](../topics/creative-writing-workshops.md)
+- [social-policy-reform](../topics/social-policy-reform.md)
+- [data-enrichment-through-art](../topics/data-enrichment-through-art.md)
 
 ## Tags
 
-- [[../tags/arts-and-health]]
-- [[../tags/public-health-interventions]]
-- [[../tags/community-engagement]]
-- [[../tags/sociocultural-change]]
-- [[../tags/mental-health-stigma]]
-- [[../tags/fxa301]]
+- [arts-and-health](../tags/arts-and-health.md)
+- [public-health-interventions](../tags/public-health-interventions.md)
+- [community-engagement](../tags/community-engagement.md)
+- [sociocultural-change](../tags/sociocultural-change.md)
+- [mental-health-stigma](../tags/mental-health-stigma.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/arts-and-health]]
-- [[../topics/mental-health-stigma]]
-- [[../topics/public-health-interventions]]
+- [arts-and-health](../topics/arts-and-health.md)
+- [mental-health-stigma](../topics/mental-health-stigma.md)
+- [public-health-interventions](../topics/public-health-interventions.md)

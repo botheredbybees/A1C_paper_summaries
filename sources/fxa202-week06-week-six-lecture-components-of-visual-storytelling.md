@@ -24,25 +24,25 @@ The Week Six lecture focuses on the craft of visual storytelling, specifically a
 
 ## Key Concepts
 
-- [[../topics/linear-and-non-linear-stories]]
-- [[../topics/shot-listing]]
-- [[../topics/establishing-shots]]
+- [linear-and-non-linear-stories](../topics/linear-and-non-linear-stories.md)
+- [shot-listing](../topics/shot-listing.md)
+- [establishing-shots](../topics/establishing-shots.md)
 
 ## Tags
 
-- [[../tags/visual-storytelling]]
-- [[../tags/narrative-structure]]
-- [[../tags/photography-principles]]
-- [[../tags/creative-expression]]
-- [[../tags/educational-material]]
-- [[../tags/fxa202]]
+- [visual-storytelling](../tags/visual-storytelling.md)
+- [narrative-structure](../tags/narrative-structure.md)
+- [photography-principles](../tags/photography-principles.md)
+- [creative-expression](../tags/creative-expression.md)
+- [educational-material](../tags/educational-material.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[lecture]]
+- [lecture](lecture.md)
 
 ## See Also
 
-- [[../topics/creative-expression]]
-- [[../topics/narrative-structure]]
-- [[../topics/visual-storytelling]]
+- [creative-expression](../topics/creative-expression.md)
+- [narrative-structure](../topics/narrative-structure.md)
+- [visual-storytelling](../topics/visual-storytelling.md)

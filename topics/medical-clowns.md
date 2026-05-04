@@ -28,7 +28,7 @@ The use of medical clowns as an intervention in healthcare settings is a multifa
 
 ## Sources
 
-- [[../sources/fxa303-week08-exploring-the-usefulness-of-medical-clowns-in-elevating]]
-- [[../sources/fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective]]
-- [[../sources/fxa303-week08-more-than-just-an-entertainment-show-identification-of]]
-- [[../sources/fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an]]
+- [fxa303-week08-exploring-the-usefulness-of-medical-clowns-in-elevating](../sources/fxa303-week08-exploring-the-usefulness-of-medical-clowns-in-elevating.md)
+- [fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective](../sources/fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective.md)
+- [fxa303-week08-more-than-just-an-entertainment-show-identification-of](../sources/fxa303-week08-more-than-just-an-entertainment-show-identification-of.md)
+- [fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an](../sources/fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an.md)

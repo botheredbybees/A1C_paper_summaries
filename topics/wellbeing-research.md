@@ -28,7 +28,7 @@ Research into music therapy highlights its multifaceted benefits for enhancing w
 
 ## Sources
 
-- [[../sources/fxa100-week04-the-ripple-effect-towards-researching-improvisational-music]]
-- [[../sources/fxa100-week04-what-is-music-health-and-wellbeing]]
-- [[../sources/fxa301-week03-arts-health-and-wellbeing-evidence-and-implications]]
-- [[../sources/fxa301-week06-further-evidence-that-singing-fosters-mental-health-and]]
+- [fxa100-week04-the-ripple-effect-towards-researching-improvisational-music](../sources/fxa100-week04-the-ripple-effect-towards-researching-improvisational-music.md)
+- [fxa100-week04-what-is-music-health-and-wellbeing](../sources/fxa100-week04-what-is-music-health-and-wellbeing.md)
+- [fxa301-week03-arts-health-and-wellbeing-evidence-and-implications](../sources/fxa301-week03-arts-health-and-wellbeing-evidence-and-implications.md)
+- [fxa301-week06-further-evidence-that-singing-fosters-mental-health-and](../sources/fxa301-week06-further-evidence-that-singing-fosters-mental-health-and.md)

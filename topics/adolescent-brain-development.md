@@ -26,5 +26,5 @@ Sources highlight the critical period of adolescent brain development, emphasizi
 
 ## Sources
 
-- [[../sources/fxa303-week02-lesson-fxa303-week02-page-201-20-20week-202-20overview]]
-- [[../sources/fxa303-week03-music-instruction-can-make-for-a-smarter-teen]]
+- [fxa303-week02-lesson-fxa303-week02-page-201-20-20week-202-20overview](../sources/fxa303-week02-lesson-fxa303-week02-page-201-20-20week-202-20overview.md)
+- [fxa303-week03-music-instruction-can-make-for-a-smarter-teen](../sources/fxa303-week03-music-instruction-can-make-for-a-smarter-teen.md)

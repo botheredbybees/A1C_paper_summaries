@@ -24,24 +24,24 @@ The article presents a systematic review of the effectiveness of art therapy in 
 
 ## Key Concepts
 
-- [[../topics/art therapy]]
-- [[../topics/psychological trauma]]
-- [[../topics/depression]]
+- [art therapy](../topics/art therapy.md)
+- [psychological trauma](../topics/psychological trauma.md)
+- [depression](../topics/depression.md)
 
 ## Tags
 
-- [[../tags/art-therapy]]
-- [[../tags/trauma-treatment]]
-- [[../tags/systematic-review]]
-- [[../tags/mental-health]]
-- [[../tags/fxa303]]
+- [art-therapy](../tags/art-therapy.md)
+- [trauma-treatment](../tags/trauma-treatment.md)
+- [systematic-review](../tags/systematic-review.md)
+- [mental-health](../tags/mental-health.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/mental-health]]
-- [[../topics/systematic-review]]
-- [[../topics/trauma-treatment]]
+- [mental-health](../topics/mental-health.md)
+- [systematic-review](../topics/systematic-review.md)
+- [trauma-treatment](../topics/trauma-treatment.md)

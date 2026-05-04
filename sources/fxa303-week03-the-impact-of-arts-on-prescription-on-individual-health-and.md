@@ -24,25 +24,25 @@ The study by Jensen et al. (2024) provides a systematic review and meta-analysis
 
 ## Key Concepts
 
-- [[../topics/Arts on Prescription (AoP)]]
-- [[../topics/psychosocial wellbeing]]
+- [Arts on Prescription (AoP)](../topics/Arts on Prescription (AoP).md)
+- [psychosocial wellbeing](../topics/psychosocial wellbeing.md)
 
 ## Tags
 
-- [[../tags/arts-on-prescription]]
-- [[../tags/social-prescribing]]
-- [[../tags/public-health-interventions]]
-- [[../tags/mental-wellbeing]]
-- [[../tags/fxa303]]
+- [arts-on-prescription](../tags/arts-on-prescription.md)
+- [social-prescribing](../tags/social-prescribing.md)
+- [public-health-interventions](../tags/public-health-interventions.md)
+- [mental-wellbeing](../tags/mental-wellbeing.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic review]]
-- [[meta-analysis]]
+- [systematic review](systematic review.md)
+- [meta-analysis](meta-analysis.md)
 
 ## See Also
 
-- [[../topics/arts-on-prescription]]
-- [[../topics/mental-wellbeing]]
-- [[../topics/public-health-interventions]]
-- [[../topics/social-prescribing]]
+- [arts-on-prescription](../topics/arts-on-prescription.md)
+- [mental-wellbeing](../topics/mental-wellbeing.md)
+- [public-health-interventions](../topics/public-health-interventions.md)
+- [social-prescribing](../topics/social-prescribing.md)

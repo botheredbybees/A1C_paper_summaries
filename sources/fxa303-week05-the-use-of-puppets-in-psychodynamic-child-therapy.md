@@ -24,27 +24,27 @@ The chapter explores the integration of puppets in psychodynamic child therapy, 
 
 ## Key Concepts
 
-- [[../topics/psychological-safety]]
-- [[../topics/externalization-of-feelings]]
-- [[../topics/play-as-symbolism]]
+- [psychological-safety](../topics/psychological-safety.md)
+- [externalization-of-feelings](../topics/externalization-of-feelings.md)
+- [play-as-symbolism](../topics/play-as-symbolism.md)
 
 ## Tags
 
-- [[../tags/psychodynamic-therapy]]
-- [[../tags/child-psychology]]
-- [[../tags/therapeutic-tools]]
-- [[../tags/symbolic-expression]]
-- [[../tags/anxiety-reduction]]
-- [[../tags/developmental-deficits]]
-- [[../tags/fxa303]]
+- [psychodynamic-therapy](../tags/psychodynamic-therapy.md)
+- [child-psychology](../tags/child-psychology.md)
+- [therapeutic-tools](../tags/therapeutic-tools.md)
+- [symbolic-expression](../tags/symbolic-expression.md)
+- [anxiety-reduction](../tags/anxiety-reduction.md)
+- [developmental-deficits](../tags/developmental-deficits.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/anxiety-reduction]]
-- [[../topics/child-psychology]]
-- [[../topics/symbolic-expression]]
-- [[../topics/therapeutic-tools]]
+- [anxiety-reduction](../topics/anxiety-reduction.md)
+- [child-psychology](../topics/child-psychology.md)
+- [symbolic-expression](../topics/symbolic-expression.md)
+- [therapeutic-tools](../topics/therapeutic-tools.md)

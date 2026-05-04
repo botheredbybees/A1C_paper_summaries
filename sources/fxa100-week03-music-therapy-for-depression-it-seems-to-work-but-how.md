@@ -24,25 +24,25 @@ The article examines the efficacy and mechanisms of music therapy for treating d
 
 ## Key Concepts
 
-- [[../topics/interactive music therapy]]
-- [[../topics/aesthetic engagement]]
-- [[../topics/physical engagement]]
-- [[../topics/relational engagement]]
+- [interactive music therapy](../topics/interactive music therapy.md)
+- [aesthetic engagement](../topics/aesthetic engagement.md)
+- [physical engagement](../topics/physical engagement.md)
+- [relational engagement](../topics/relational engagement.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/depression-treatment]]
-- [[../tags/therapeutic-mechanisms]]
-- [[../tags/mental-health-interventions]]
-- [[../tags/fxa100]]
+- [music-therapy](../tags/music-therapy.md)
+- [depression-treatment](../tags/depression-treatment.md)
+- [therapeutic-mechanisms](../tags/therapeutic-mechanisms.md)
+- [mental-health-interventions](../tags/mental-health-interventions.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/depression-treatment]]
-- [[../topics/mental-health-interventions]]
-- [[../topics/music-therapy]]
+- [depression-treatment](../topics/depression-treatment.md)
+- [mental-health-interventions](../topics/mental-health-interventions.md)
+- [music-therapy](../topics/music-therapy.md)

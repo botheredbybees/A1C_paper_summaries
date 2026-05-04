@@ -24,23 +24,23 @@ Isabelle Osborne's critical reflection details her personal photo essay titled '
 
 ## Key Concepts
 
-- [[../topics/therapeutic-process]]
-- [[../topics/roland-barthes-camera-lucida]]
+- [therapeutic-process](../topics/therapeutic-process.md)
+- [roland-barthes-camera-lucida](../topics/roland-barthes-camera-lucida.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/photography-as-therapy]]
-- [[../tags/emotional-journaling]]
-- [[../tags/home-environment]]
-- [[../tags/visual-metaphors]]
-- [[../tags/fxa202]]
+- [dementia-care](../tags/dementia-care.md)
+- [photography-as-therapy](../tags/photography-as-therapy.md)
+- [emotional-journaling](../tags/emotional-journaling.md)
+- [home-environment](../tags/home-environment.md)
+- [visual-metaphors](../tags/visual-metaphors.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[photo-essay]]
+- [photo-essay](photo-essay.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/photography-as-therapy]]
+- [dementia-care](../topics/dementia-care.md)
+- [photography-as-therapy](../topics/photography-as-therapy.md)

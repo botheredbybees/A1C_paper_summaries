@@ -24,26 +24,26 @@ The study explores the impact of clown doctor activities in a pediatric setting 
 
 ## Key Concepts
 
-- [[../topics/reducing-anxiety]]
-- [[../topics/enhancing-communication]]
-- [[../topics/sense-of-control]]
+- [reducing-anxiety](../topics/reducing-anxiety.md)
+- [enhancing-communication](../topics/enhancing-communication.md)
+- [sense-of-control](../topics/sense-of-control.md)
 
 ## Tags
 
-- [[../tags/clown-doctors]]
-- [[../tags/pediatric-care]]
-- [[../tags/therapeutic-benefits]]
-- [[../tags/qualitative-research]]
-- [[../tags/fxa303]]
+- [clown-doctors](../tags/clown-doctors.md)
+- [pediatric-care](../tags/pediatric-care.md)
+- [therapeutic-benefits](../tags/therapeutic-benefits.md)
+- [qualitative-research](../tags/qualitative-research.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[observations]]
-- [[interviews]]
+- [observations](observations.md)
+- [interviews](interviews.md)
 
 ## See Also
 
-- [[../topics/clown-doctors]]
-- [[../topics/pediatric-care]]
-- [[../topics/qualitative-research]]
-- [[../topics/therapeutic-benefits]]
+- [clown-doctors](../topics/clown-doctors.md)
+- [pediatric-care](../topics/pediatric-care.md)
+- [qualitative-research](../topics/qualitative-research.md)
+- [therapeutic-benefits](../topics/therapeutic-benefits.md)

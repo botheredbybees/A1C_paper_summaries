@@ -24,23 +24,23 @@ In her reflective essay, Anna Mackintosh discusses the creation of a photographi
 
 ## Key Concepts
 
-- [[../topics/wabi-sabi]]
-- [[../topics/natural-light-photography]]
-- [[../topics/health-humanities]]
-- [[../topics/phototherapy]]
+- [wabi-sabi](../topics/wabi-sabi.md)
+- [natural-light-photography](../topics/natural-light-photography.md)
+- [health-humanities](../topics/health-humanities.md)
+- [phototherapy](../topics/phototherapy.md)
 
 ## Tags
 
-- [[../tags/photographic-essay]]
-- [[../tags/wabi-sabi]]
-- [[../tags/creative-interventions]]
-- [[../tags/therapeutic-art]]
-- [[../tags/health-humanities]]
-- [[../tags/fxa202]]
+- [photographic-essay](../tags/photographic-essay.md)
+- [wabi-sabi](../tags/wabi-sabi.md)
+- [creative-interventions](../tags/creative-interventions.md)
+- [therapeutic-art](../tags/therapeutic-art.md)
+- [health-humanities](../tags/health-humanities.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[reflective-practice]]
+- [reflective-practice](reflective-practice.md)
 
 ## See Also
 

@@ -24,28 +24,28 @@ This systematic review and meta-analysis explores the impact of music interventi
 
 ## Key Concepts
 
-- [[../topics/health-related quality of life (HRQOL)]]
-- [[../topics/SF-36 and SF-12 surveys]]
-- [[../topics/mental component score (MCS)]]
-- [[../topics/physical component score (PCS)]]
+- [health-related quality of life (HRQOL)](../topics/health-related quality of life (HRQOL).md)
+- [SF-36 and SF-12 surveys](../topics/SF-36 and SF-12 surveys.md)
+- [mental component score (MCS)](../topics/mental component score (MCS).md)
+- [physical component score (PCS)](../topics/physical component score (PCS).md)
 
 ## Tags
 
-- [[../tags/music-interventions]]
-- [[../tags/health-related-quality-of-life]]
-- [[../tags/creative-arts-health]]
-- [[../tags/systematic-review-meta-analysis]]
-- [[../tags/wellbeing]]
-- [[../tags/fxa100]]
+- [music-interventions](../tags/music-interventions.md)
+- [health-related-quality-of-life](../tags/health-related-quality-of-life.md)
+- [creative-arts-health](../tags/creative-arts-health.md)
+- [systematic-review-meta-analysis](../tags/systematic-review-meta-analysis.md)
+- [wellbeing](../tags/wellbeing.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[systematic review]]
-- [[meta-analysis]]
+- [systematic review](systematic review.md)
+- [meta-analysis](meta-analysis.md)
 
 ## See Also
 
-- [[../topics/creative-arts-health]]
-- [[../topics/music-interventions]]
-- [[../topics/systematic-review-meta-analysis]]
-- [[../topics/wellbeing]]
+- [creative-arts-health](../topics/creative-arts-health.md)
+- [music-interventions](../topics/music-interventions.md)
+- [systematic-review-meta-analysis](../topics/systematic-review-meta-analysis.md)
+- [wellbeing](../topics/wellbeing.md)

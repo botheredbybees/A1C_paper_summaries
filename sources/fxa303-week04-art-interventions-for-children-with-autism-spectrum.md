@@ -24,22 +24,22 @@ This scoping review evaluates the efficacy of creative arts interventions for ch
 
 ## Key Concepts
 
-- [[../topics/creative arts interventions]]
-- [[../topics/Occupational Therapy Practice Framework]]
-- [[../topics/performance skills and social interaction]]
+- [creative arts interventions](../topics/creative arts interventions.md)
+- [Occupational Therapy Practice Framework](../topics/Occupational Therapy Practice Framework.md)
+- [performance skills and social interaction](../topics/performance skills and social interaction.md)
 
 ## Tags
 
-- [[../tags/autism-spectrum-disorder]]
-- [[../tags/art-interventions]]
-- [[../tags/occupational-therapy]]
-- [[../tags/scoping-review]]
-- [[../tags/fxa303]]
+- [autism-spectrum-disorder](../tags/autism-spectrum-disorder.md)
+- [art-interventions](../tags/art-interventions.md)
+- [occupational-therapy](../tags/occupational-therapy.md)
+- [scoping-review](../tags/scoping-review.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[scoping review]]
+- [scoping review](scoping review.md)
 
 ## See Also
 
-- [[../topics/autism-spectrum-disorder]]
+- [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)

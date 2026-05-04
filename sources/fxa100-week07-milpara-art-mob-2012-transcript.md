@@ -24,20 +24,20 @@ The document provides a detailed transcript of an interaction within the Milpara
 
 ## Key Concepts
 
-- [[../topics/collective-expression]]
-- [[../topics/personal-narrative]]
+- [collective-expression](../topics/collective-expression.md)
+- [personal-narrative](../topics/personal-narrative.md)
 
 ## Tags
 
-- [[../tags/community-art]]
-- [[../tags/indigenous-education]]
-- [[../tags/health-initiatives]]
-- [[../tags/fxa100]]
+- [community-art](../tags/community-art.md)
+- [indigenous-education](../tags/indigenous-education.md)
+- [health-initiatives](../tags/health-initiatives.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[workshop-transcript]]
+- [workshop-transcript](workshop-transcript.md)
 
 ## See Also
 
-- [[../topics/community-art]]
+- [community-art](../topics/community-art.md)

@@ -24,22 +24,22 @@ The study explores the impact of art activities on individuals with Alzheimer-ty
 
 ## Key Concepts
 
-- [[../topics/compositional-complexity]]
-- [[../topics/pictorial-complexity]]
-- [[../topics/cognitive-fluctuations]]
+- [compositional-complexity](../topics/compositional-complexity.md)
+- [pictorial-complexity](../topics/pictorial-complexity.md)
+- [cognitive-fluctuations](../topics/cognitive-fluctuations.md)
 
 ## Tags
 
-- [[../tags/alzheimer-dementia]]
-- [[../tags/art-therapy]]
-- [[../tags/cognitive-decline]]
-- [[../tags/longitudinal-research]]
-- [[../tags/fxa100]]
+- [alzheimer-dementia](../tags/alzheimer-dementia.md)
+- [art-therapy](../tags/art-therapy.md)
+- [cognitive-decline](../tags/cognitive-decline.md)
+- [longitudinal-research](../tags/longitudinal-research.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[longitudinal-study]]
+- [longitudinal-study](longitudinal-study.md)
 
 ## See Also
 
-- [[../topics/cognitive-decline]]
+- [cognitive-decline](../topics/cognitive-decline.md)

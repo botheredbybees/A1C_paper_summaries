@@ -32,11 +32,11 @@ The provided sources highlight the multifaceted approach to cognitive stimulatio
 
 ## Sources
 
-- [[../sources/fxa100-excellence-in-dementia-care--ch09-chapter-15]]
-- [[../sources/fxa100-week03-lesson-fxa100-week03-page-1-welcome-to-week-3]]
-- [[../sources/fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care]]
-- [[../sources/fxa100-week04-intergenerational-choir-transcript]]
-- [[../sources/fxa100-week04-interventions-for-dementia-care]]
-- [[../sources/fxa100-week07-aged-care-outreach]]
-- [[../sources/fxa100-week07-turning-back-the-hands-of-time-autobiographical-memories-in]]
-- [[../sources/fxa303-week02-child-development-fxa303-creative-arts-play-and-mental]]
+- [fxa100-excellence-in-dementia-care--ch09-chapter-15](../sources/fxa100-excellence-in-dementia-care--ch09-chapter-15.md)
+- [fxa100-week03-lesson-fxa100-week03-page-1-welcome-to-week-3](../sources/fxa100-week03-lesson-fxa100-week03-page-1-welcome-to-week-3.md)
+- [fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care](../sources/fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care.md)
+- [fxa100-week04-intergenerational-choir-transcript](../sources/fxa100-week04-intergenerational-choir-transcript.md)
+- [fxa100-week04-interventions-for-dementia-care](../sources/fxa100-week04-interventions-for-dementia-care.md)
+- [fxa100-week07-aged-care-outreach](../sources/fxa100-week07-aged-care-outreach.md)
+- [fxa100-week07-turning-back-the-hands-of-time-autobiographical-memories-in](../sources/fxa100-week07-turning-back-the-hands-of-time-autobiographical-memories-in.md)
+- [fxa303-week02-child-development-fxa303-creative-arts-play-and-mental](../sources/fxa303-week02-child-development-fxa303-creative-arts-play-and-mental.md)

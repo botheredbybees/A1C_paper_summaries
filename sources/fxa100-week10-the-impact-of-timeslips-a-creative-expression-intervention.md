@@ -24,22 +24,22 @@ This study evaluates the impact of TimeSlips, a group storytelling program desig
 
 ## Key Concepts
 
-- [[../topics/TimeSlips intervention program]]
-- [[../topics/resident engagement]]
-- [[../topics/staff attitudes]]
+- [TimeSlips intervention program](../topics/TimeSlips intervention program.md)
+- [resident engagement](../topics/resident engagement.md)
+- [staff attitudes](../topics/staff attitudes.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/creative-expression]]
-- [[../tags/quality-of-life]]
-- [[../tags/nursing-home-intervention]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [creative-expression](../tags/creative-expression.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [nursing-home-intervention](../tags/nursing-home-intervention.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[observational study]]
-- [[group storytelling]]
+- [observational study](observational study.md)
+- [group storytelling](group storytelling.md)
 
 ## See Also
 

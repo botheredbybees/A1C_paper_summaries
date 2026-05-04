@@ -24,23 +24,23 @@ This chapter details a unique arts-based research methodology that combines phot
 
 ## Key Concepts
 
-- [[../topics/hermeneutic-phenomenology]]
-- [[../topics/creative-arts-interventions]]
-- [[../topics/lived-experiences-of-aging]]
+- [hermeneutic-phenomenology](../topics/hermeneutic-phenomenology.md)
+- [creative-arts-interventions](../topics/creative-arts-interventions.md)
+- [lived-experiences-of-aging](../topics/lived-experiences-of-aging.md)
 
 ## Tags
 
-- [[../tags/aged-care]]
-- [[../tags/arts-based-research]]
-- [[../tags/photovoice-methods]]
-- [[../tags/documentary-photography]]
-- [[../tags/poetry-in-research]]
-- [[../tags/fxa202]]
+- [aged-care](../tags/aged-care.md)
+- [arts-based-research](../tags/arts-based-research.md)
+- [photovoice-methods](../tags/photovoice-methods.md)
+- [documentary-photography](../tags/documentary-photography.md)
+- [poetry-in-research](../tags/poetry-in-research.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[qualitative-analysis]]
-- [[case-study]]
+- [qualitative-analysis](qualitative-analysis.md)
+- [case-study](case-study.md)
 
 ## See Also
 

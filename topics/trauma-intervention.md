@@ -26,5 +26,5 @@ The integration of child-centered play therapy and gestalt play therapy addresse
 
 ## Sources
 
-- [[../sources/fxa303-week09-exploring-child-centered-play-therapy-and-trauma-a]]
-- [[../sources/fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms]]
+- [fxa303-week09-exploring-child-centered-play-therapy-and-trauma-a](../sources/fxa303-week09-exploring-child-centered-play-therapy-and-trauma-a.md)
+- [fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms](../sources/fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms.md)

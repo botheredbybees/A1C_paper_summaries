@@ -24,20 +24,20 @@ In 'Winding paths,' Corinne Doran reflects on her experiences during a lockdown 
 
 ## Key Concepts
 
-- [[../topics/creative-coping-mechanisms]]
-- [[../topics/seasonal-changes]]
+- [creative-coping-mechanisms](../topics/creative-coping-mechanisms.md)
+- [seasonal-changes](../topics/seasonal-changes.md)
 
 ## Tags
 
-- [[../tags/nature-and-creativity]]
-- [[../tags/lockdown-experiences]]
-- [[../tags/self-reflection]]
-- [[../tags/fxa202]]
+- [nature-and-creativity](../tags/nature-and-creativity.md)
+- [lockdown-experiences](../tags/lockdown-experiences.md)
+- [self-reflection](../tags/self-reflection.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[personal-essay]]
+- [personal-essay](personal-essay.md)
 
 ## See Also
 
-- [[../topics/self-reflection]]
+- [self-reflection](../topics/self-reflection.md)

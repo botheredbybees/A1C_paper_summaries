@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Psychological Treatment
 
-- [[../sources/fxa100-week09-transcript-this-video-clip-from-the-american-dance-therapy|Overview of Dance Therapy by Donna Newman Bluestein]]
+- [Overview of Dance Therapy by Donna Newman Bluestein](../sources/fxa100-week09-transcript-this-video-clip-from-the-american-dance-therapy.md)

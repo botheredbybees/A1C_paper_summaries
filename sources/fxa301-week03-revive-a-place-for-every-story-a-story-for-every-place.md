@@ -24,18 +24,18 @@ The document 'Revive' is a five-year cultural policy for Australia that outlines
 
 ## Key Concepts
 
-- [[../topics/creative economy]]
-- [[../topics/First Nations stories]]
-- [[../topics/cultural infrastructure]]
+- [creative economy](../topics/creative economy.md)
+- [First Nations stories](../topics/First Nations stories.md)
+- [cultural infrastructure](../topics/cultural infrastructure.md)
 
 ## Tags
 
-- [[../tags/cultural-policy]]
-- [[../tags/arts-sector]]
-- [[../tags/first-nations-heritage]]
-- [[../tags/economic-opportunities]]
-- [[../tags/inclusive-culture]]
-- [[../tags/fxa301]]
+- [cultural-policy](../tags/cultural-policy.md)
+- [arts-sector](../tags/arts-sector.md)
+- [first-nations-heritage](../tags/first-nations-heritage.md)
+- [economic-opportunities](../tags/economic-opportunities.md)
+- [inclusive-culture](../tags/inclusive-culture.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

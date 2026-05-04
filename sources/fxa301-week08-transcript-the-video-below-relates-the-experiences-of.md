@@ -24,18 +24,18 @@ This transcript details the experiences and impact of a creative writing worksho
 
 ## Key Concepts
 
-- [[../topics/self-expression]]
-- [[../topics/group-bonding]]
-- [[../topics/mental-health-support]]
+- [self-expression](../topics/self-expression.md)
+- [group-bonding](../topics/group-bonding.md)
+- [mental-health-support](../topics/mental-health-support.md)
 
 ## Tags
 
-- [[../tags/creative-writing]]
-- [[../tags/therapeutic-arts]]
-- [[../tags/community-wellbeing]]
-- [[../tags/workshop-facilitation]]
-- [[../tags/isle-of-man]]
-- [[../tags/fxa301]]
+- [creative-writing](../tags/creative-writing.md)
+- [therapeutic-arts](../tags/therapeutic-arts.md)
+- [community-wellbeing](../tags/community-wellbeing.md)
+- [workshop-facilitation](../tags/workshop-facilitation.md)
+- [isle-of-man](../tags/isle-of-man.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -43,6 +43,6 @@ This transcript details the experiences and impact of a creative writing worksho
 
 ## See Also
 
-- [[../topics/community-wellbeing]]
-- [[../topics/creative-writing]]
-- [[../topics/therapeutic-arts]]
+- [community-wellbeing](../topics/community-wellbeing.md)
+- [creative-writing](../topics/creative-writing.md)
+- [therapeutic-arts](../topics/therapeutic-arts.md)

@@ -24,15 +24,15 @@ This week's lesson explores the benefits of theatrical and playful engagement in
 
 ## Key Concepts
 
-- [[../topics/person-centered care]]
-- [[../topics/roger caillois's four forms of play]]
+- [person-centered care](../topics/person-centered care.md)
+- [roger caillois's four forms of play](../topics/roger caillois's four forms of play.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/theatre-therapy]]
-- [[../tags/playful-engagement]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [theatre-therapy](../tags/theatre-therapy.md)
+- [playful-engagement](../tags/playful-engagement.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

@@ -24,17 +24,17 @@ This article highlights the positive impact of a large mural painting project in
 
 ## Key Concepts
 
-- [[../topics/cultural-connection]]
-- [[../topics/cross-cultural-understanding]]
+- [cultural-connection](../topics/cultural-connection.md)
+- [cross-cultural-understanding](../topics/cross-cultural-understanding.md)
 
 ## Tags
 
-- [[../tags/aboriginal-community]]
-- [[../tags/cultural-significance]]
-- [[../tags/mural-art]]
-- [[../tags/community-engagement]]
-- [[../tags/naidoc-week]]
-- [[../tags/fxa301]]
+- [aboriginal-community](../tags/aboriginal-community.md)
+- [cultural-significance](../tags/cultural-significance.md)
+- [mural-art](../tags/mural-art.md)
+- [community-engagement](../tags/community-engagement.md)
+- [naidoc-week](../tags/naidoc-week.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -42,4 +42,4 @@ This article highlights the positive impact of a large mural painting project in
 
 ## See Also
 
-- [[../topics/cultural-significance]]
+- [cultural-significance](../topics/cultural-significance.md)

@@ -24,20 +24,20 @@ The article explores the intersection of psychoanalysis and the El Sistema progr
 
 ## Key Concepts
 
-- [[../topics/psychoanalytic-theory]]
-- [[../topics/social-justice-in-education]]
-- [[../topics/character-development-via-music]]
+- [psychoanalytic-theory](../topics/psychoanalytic-theory.md)
+- [social-justice-in-education](../topics/social-justice-in-education.md)
+- [character-development-via-music](../topics/character-development-via-music.md)
 
 ## Tags
 
-- [[../tags/psychoanalysis-and-music]]
-- [[../tags/el-sistema-program]]
-- [[../tags/human-development-through-art]]
-- [[../tags/fxa301]]
+- [psychoanalysis-and-music](../tags/psychoanalysis-and-music.md)
+- [el-sistema-program](../tags/el-sistema-program.md)
+- [human-development-through-art](../tags/human-development-through-art.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[literature-review]]
+- [literature-review](literature-review.md)
 
 ## See Also
 

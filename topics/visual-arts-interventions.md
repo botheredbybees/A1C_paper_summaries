@@ -26,5 +26,5 @@ The integration of visual arts in therapeutic and community settings highlights 
 
 ## Sources
 
-- [[../sources/fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery]]
-- [[../sources/fxa301-week05-case-studies-of-visual-arts-with-and-for-communities]]
+- [fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery](../sources/fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery.md)
+- [fxa301-week05-case-studies-of-visual-arts-with-and-for-communities](../sources/fxa301-week05-case-studies-of-visual-arts-with-and-for-communities.md)

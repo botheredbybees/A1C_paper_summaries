@@ -24,15 +24,15 @@ Researchers have discovered the oldest known musical instruments in a cave in so
 
 ## Key Concepts
 
-- [[../topics/carbon-dating]]
-- [[../topics/migration-theory]]
+- [carbon-dating](../topics/carbon-dating.md)
+- [migration-theory](../topics/migration-theory.md)
 
 ## Tags
 
-- [[../tags/ancient-instruments]]
-- [[../tags/human-evolution]]
-- [[../tags/neolithic-culture]]
-- [[../tags/fxa301]]
+- [ancient-instruments](../tags/ancient-instruments.md)
+- [human-evolution](../tags/human-evolution.md)
+- [neolithic-culture](../tags/neolithic-culture.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

@@ -24,16 +24,16 @@ This chapter discusses strategies for developing arts-based interventions in hea
 
 ## Key Concepts
 
-- [[../topics/design-thinking]]
-- [[../topics/problem-tree-analysis]]
-- [[../topics/systems-thinking]]
+- [design-thinking](../topics/design-thinking.md)
+- [problem-tree-analysis](../topics/problem-tree-analysis.md)
+- [systems-thinking](../topics/systems-thinking.md)
 
 ## Tags
 
-- [[../tags/arts-in-health]]
-- [[../tags/research-methods]]
-- [[../tags/intervention-design]]
-- [[../tags/fxa301]]
+- [arts-in-health](../tags/arts-in-health.md)
+- [research-methods](../tags/research-methods.md)
+- [intervention-design](../tags/intervention-design.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,6 +41,6 @@ This chapter discusses strategies for developing arts-based interventions in hea
 
 ## See Also
 
-- [[../topics/arts-in-health]]
-- [[../topics/intervention-design]]
-- [[../topics/research-methods]]
+- [arts-in-health](../topics/arts-in-health.md)
+- [intervention-design](../topics/intervention-design.md)
+- [research-methods](../topics/research-methods.md)

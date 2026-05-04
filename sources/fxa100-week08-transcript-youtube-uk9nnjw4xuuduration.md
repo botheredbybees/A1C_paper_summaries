@@ -24,18 +24,18 @@ The transcript discusses innovative practices at Stet Lodge, a senior care facil
 
 ## Key Concepts
 
-- [[../topics/environmental modifications]]
-- [[../topics/integrated programs]]
-- [[../topics/person-centered care]]
+- [environmental modifications](../topics/environmental modifications.md)
+- [integrated programs](../topics/integrated programs.md)
+- [person-centered care](../topics/person-centered care.md)
 
 ## Tags
 
-- [[../tags/senior-care]]
-- [[../tags/dementia-care]]
-- [[../tags/person-centered-care]]
-- [[../tags/intergenerational-interactions]]
-- [[../tags/innovative-practices]]
-- [[../tags/fxa100]]
+- [senior-care](../tags/senior-care.md)
+- [dementia-care](../tags/dementia-care.md)
+- [person-centered-care](../tags/person-centered-care.md)
+- [intergenerational-interactions](../tags/intergenerational-interactions.md)
+- [innovative-practices](../tags/innovative-practices.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -43,5 +43,5 @@ The transcript discusses innovative practices at Stet Lodge, a senior care facil
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/person-centered-care]]
+- [dementia-care](../topics/dementia-care.md)
+- [person-centered-care](../topics/person-centered-care.md)

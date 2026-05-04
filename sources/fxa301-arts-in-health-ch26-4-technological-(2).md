@@ -24,15 +24,15 @@ This chapter explores how to conduct a PESTLE analysis in healthcare settings to
 
 ## Key Concepts
 
-- [[../topics/Kolb’s Reflective Cycle]]
-- [[../topics/PESTLE Analysis]]
+- [Kolb’s Reflective Cycle](../topics/Kolb’s Reflective Cycle.md)
+- [PESTLE Analysis](../topics/PESTLE Analysis.md)
 
 ## Tags
 
-- [[../tags/arts-in-health]]
-- [[../tags/pestle-analysis]]
-- [[../tags/reflexive-cycle]]
-- [[../tags/fxa301]]
+- [arts-in-health](../tags/arts-in-health.md)
+- [pestle-analysis](../tags/pestle-analysis.md)
+- [reflexive-cycle](../tags/reflexive-cycle.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ This chapter explores how to conduct a PESTLE analysis in healthcare settings to
 
 ## See Also
 
-- [[../topics/arts-in-health]]
+- [arts-in-health](../topics/arts-in-health.md)

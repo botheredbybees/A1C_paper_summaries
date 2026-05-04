@@ -24,22 +24,22 @@ This paper evaluates a community singing initiative called 'Sing Your Heart Out'
 
 ## Key Concepts
 
-- [[../topics/mental health recovery]]
-- [[../topics/group singing therapy]]
-- [[../topics/inclusive social environment]]
+- [mental health recovery](../topics/mental health recovery.md)
+- [group singing therapy](../topics/group singing therapy.md)
+- [inclusive social environment](../topics/inclusive social environment.md)
 
 ## Tags
 
-- [[../tags/community-singing]]
-- [[../tags/mental-health-recovery]]
-- [[../tags/wellbeing-initiatives]]
-- [[../tags/inclusive-environments]]
-- [[../tags/social-support]]
-- [[../tags/fxa301]]
+- [community-singing](../tags/community-singing.md)
+- [mental-health-recovery](../tags/mental-health-recovery.md)
+- [wellbeing-initiatives](../tags/wellbeing-initiatives.md)
+- [inclusive-environments](../tags/inclusive-environments.md)
+- [social-support](../tags/social-support.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 

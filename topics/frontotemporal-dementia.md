@@ -27,6 +27,6 @@ Frontotemporal Dementia (FTD) is a progressive neurodegenerative disease primari
 
 ## Sources
 
-- [[../sources/fxa100-week01-what-is-frontotemporal-dementia]]
-- [[../sources/fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia]]
-- [[../sources/fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia-(2)]]
+- [fxa100-week01-what-is-frontotemporal-dementia](../sources/fxa100-week01-what-is-frontotemporal-dementia.md)
+- [fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia](../sources/fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia.md)
+- [fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia-(2)](../sources/fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia-(2).md)

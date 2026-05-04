@@ -27,6 +27,6 @@ The sources collectively explore various facets of human cognitive abilities and
 
 ## Sources
 
-- [[../sources/fxa100-week02-are-people-really-left-brained-or-right-brain]]
-- [[../sources/fxa100-week04-the-evolution-of-human-artistic-creativity]]
-- [[../sources/fxa303-week03-adolescent-development]]
+- [fxa100-week02-are-people-really-left-brained-or-right-brain](../sources/fxa100-week02-are-people-really-left-brained-or-right-brain.md)
+- [fxa100-week04-the-evolution-of-human-artistic-creativity](../sources/fxa100-week04-the-evolution-of-human-artistic-creativity.md)
+- [fxa303-week03-adolescent-development](../sources/fxa303-week03-adolescent-development.md)

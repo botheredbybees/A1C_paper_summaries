@@ -24,16 +24,16 @@ In this module of FXA100 The Arts and Dementia Care, Dr Brendan Lamb introduces 
 
 ## Key Concepts
 
-- [[../topics/embodied-cognition]]
-- [[../topics/neuroaesthetics]]
-- [[../topics/quality-of-life-improvement]]
+- [embodied-cognition](../topics/embodied-cognition.md)
+- [neuroaesthetics](../topics/neuroaesthetics.md)
+- [quality-of-life-improvement](../topics/quality-of-life-improvement.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/visual-arts]]
-- [[../tags/art-therapy]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [visual-arts](../tags/visual-arts.md)
+- [art-therapy](../tags/art-therapy.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ In this module of FXA100 The Arts and Dementia Care, Dr Brendan Lamb introduces 
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/visual-arts]]
+- [dementia-care](../topics/dementia-care.md)
+- [visual-arts](../topics/visual-arts.md)

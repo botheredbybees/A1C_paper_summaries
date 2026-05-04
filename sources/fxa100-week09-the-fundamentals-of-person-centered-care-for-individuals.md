@@ -24,25 +24,25 @@ This article discusses the philosophy of person-centered care in dementia manage
 
 ## Key Concepts
 
-- [[../topics/person-centered care]]
-- [[../topics/neurological impairment and psychosocial factors]]
-- [[../topics/high-quality interpersonal relationships]]
-- [[../topics/maintaining selfhood]]
+- [person-centered care](../topics/person-centered care.md)
+- [neurological impairment and psychosocial factors](../topics/neurological impairment and psychosocial factors.md)
+- [high-quality interpersonal relationships](../topics/high-quality interpersonal relationships.md)
+- [maintaining selfhood](../topics/maintaining selfhood.md)
 
 ## Tags
 
-- [[../tags/person-centered-care]]
-- [[../tags/dementia-management]]
-- [[../tags/selfhood-identity]]
-- [[../tags/interpersonal-relations]]
-- [[../tags/psychosocial-factors]]
-- [[../tags/fxa100]]
+- [person-centered-care](../tags/person-centered-care.md)
+- [dementia-management](../tags/dementia-management.md)
+- [selfhood-identity](../tags/selfhood-identity.md)
+- [interpersonal-relations](../tags/interpersonal-relations.md)
+- [psychosocial-factors](../tags/psychosocial-factors.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/dementia-management]]
-- [[../topics/person-centered-care]]
+- [dementia-management](../topics/dementia-management.md)
+- [person-centered-care](../topics/person-centered-care.md)

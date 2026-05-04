@@ -24,20 +24,20 @@ The paper explores the intersection of cultural diversity and mental health, foc
 
 ## Key Concepts
 
-- [[../topics/cultural-meanings-of-illness]]
-- [[../topics/therapeutic-engagement-strategies]]
-- [[../topics/cultural-sensitivity-in-practice]]
+- [cultural-meanings-of-illness](../topics/cultural-meanings-of-illness.md)
+- [therapeutic-engagement-strategies](../topics/therapeutic-engagement-strategies.md)
+- [cultural-sensitivity-in-practice](../topics/cultural-sensitivity-in-practice.md)
 
 ## Tags
 
-- [[../tags/cultural-diversity]]
-- [[../tags/mental-health-policy]]
-- [[../tags/therapeutic-relationships]]
-- [[../tags/fxa303]]
+- [cultural-diversity](../tags/cultural-diversity.md)
+- [mental-health-policy](../tags/mental-health-policy.md)
+- [therapeutic-relationships](../tags/therapeutic-relationships.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[qualitative-analysis]]
+- **qualitative-analysis**
 
 ## See Also
 

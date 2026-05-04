@@ -26,5 +26,5 @@ The exploration of mood-congruent emotional responding reveals how individuals t
 
 ## Sources
 
-- [[../sources/fxa202-week01-week-1-lecture-transcript]]
-- [[../sources/fxa301-week02-misery-loves-company-mood-congruent-emotional-responding-to]]
+- [fxa202-week01-week-1-lecture-transcript](../sources/fxa202-week01-week-1-lecture-transcript.md)
+- [fxa301-week02-misery-loves-company-mood-congruent-emotional-responding-to](../sources/fxa301-week02-misery-loves-company-mood-congruent-emotional-responding-to.md)

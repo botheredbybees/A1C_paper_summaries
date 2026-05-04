@@ -24,20 +24,20 @@ The article discusses the therapeutic potential of art therapy in treating eatin
 
 ## Key Concepts
 
-- [[../topics/anorexia-bulimia]]
-- [[../topics/emotional-expression]]
-- [[../topics/creative-strategies]]
+- [anorexia-bulimia](../topics/anorexia-bulimia.md)
+- [emotional-expression](../topics/emotional-expression.md)
+- [creative-strategies](../topics/creative-strategies.md)
 
 ## Tags
 
-- [[../tags/eating-disorders]]
-- [[../tags/art-therapy]]
-- [[../tags/mental-health-intervention]]
-- [[../tags/fxa301]]
+- [eating-disorders](../tags/eating-disorders.md)
+- [art-therapy](../tags/art-therapy.md)
+- [mental-health-intervention](../tags/mental-health-intervention.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 

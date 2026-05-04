@@ -24,26 +24,26 @@ This research article evaluates the efficacy of a visual arts program, specifica
 
 ## Key Concepts
 
-- [[../topics/engagement enhancement]]
-- [[../topics/self-reported quality of life]]
-- [[../topics/visual arts intervention]]
+- [engagement enhancement](../topics/engagement enhancement.md)
+- [self-reported quality of life](../topics/self-reported quality of life.md)
+- [visual arts intervention](../topics/visual arts intervention.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/art-therapy]]
-- [[../tags/quality-of-life]]
-- [[../tags/cognitive-function]]
-- [[../tags/communication-skills]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [art-therapy](../tags/art-therapy.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [cognitive-function](../tags/cognitive-function.md)
+- [communication-skills](../tags/communication-skills.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[ABA reversal design]]
+- [ABA reversal design](ABA reversal design.md)
 
 ## See Also
 
-- [[../topics/cognitive-function]]
-- [[../topics/communication-skills]]
-- [[../topics/dementia-care]]
-- [[../topics/quality-of-life]]
+- [cognitive-function](../topics/cognitive-function.md)
+- [communication-skills](../topics/communication-skills.md)
+- [dementia-care](../topics/dementia-care.md)
+- [quality-of-life](../topics/quality-of-life.md)

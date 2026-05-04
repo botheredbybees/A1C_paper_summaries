@@ -27,6 +27,6 @@ The provided sources discuss interventions aimed at enhancing communication skil
 
 ## Sources
 
-- [[../sources/fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to]]
-- [[../sources/fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life]]
-- [[../sources/fxa202-week03-what-is-therapeutic-photography]]
+- [fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to](../sources/fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to.md)
+- [fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life](../sources/fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life.md)
+- [fxa202-week03-what-is-therapeutic-photography](../sources/fxa202-week03-what-is-therapeutic-photography.md)

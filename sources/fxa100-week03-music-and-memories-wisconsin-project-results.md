@@ -26,21 +26,21 @@ The Community Caregiver Impact project involved 25 participants with dementia an
 
 ## Key Concepts
 
-- [[../topics/job-satisfaction]]
-- [[../topics/caregiving-distress-scale]]
-- [[../topics/dementia-care]]
+- [job-satisfaction](../topics/job-satisfaction.md)
+- [caregiving-distress-scale](../topics/caregiving-distress-scale.md)
+- [dementia-care](../topics/dementia-care.md)
 
 ## Tags
 
-- [[../tags/personalized-music-program]]
-- [[../tags/nursing-home-staff-satisfaction]]
-- [[../tags/community-caregiver-support]]
-- [[../tags/fxa100]]
+- [personalized-music-program](../tags/personalized-music-program.md)
+- [nursing-home-staff-satisfaction](../tags/nursing-home-staff-satisfaction.md)
+- [community-caregiver-support](../tags/community-caregiver-support.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[survey-research]]
-- [[case-control-study]]
+- [survey-research](survey-research.md)
+- [case-control-study](case-control-study.md)
 
 ## See Also
 

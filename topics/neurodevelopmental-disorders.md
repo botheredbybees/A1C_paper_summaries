@@ -32,7 +32,7 @@ Overall, while there is agreement on the importance of both neurological underst
 
 ## Sources
 
-- [[../sources/fxa303-week04-distinct-regions-of-the-cerebellum-show-gray-matter]]
-- [[../sources/fxa303-week04-lesson-fxa303-week04-page-1-week-4-overview]]
-- [[../sources/fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder]]
-- [[../sources/fxa303-week04-neurobiology-of-autism-spectrum-disorders]]
+- [fxa303-week04-distinct-regions-of-the-cerebellum-show-gray-matter](../sources/fxa303-week04-distinct-regions-of-the-cerebellum-show-gray-matter.md)
+- [fxa303-week04-lesson-fxa303-week04-page-1-week-4-overview](../sources/fxa303-week04-lesson-fxa303-week04-page-1-week-4-overview.md)
+- [fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder](../sources/fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder.md)
+- [fxa303-week04-neurobiology-of-autism-spectrum-disorders](../sources/fxa303-week04-neurobiology-of-autism-spectrum-disorders.md)

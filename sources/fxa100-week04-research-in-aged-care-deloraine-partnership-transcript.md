@@ -24,25 +24,25 @@ The document details a research project focused on using music and singing as th
 
 ## Key Concepts
 
-- [[../topics/therapeutic interventions]]
-- [[../topics/vocal capabilities]]
-- [[../topics/well-being outcomes]]
+- [therapeutic interventions](../topics/therapeutic interventions.md)
+- [vocal capabilities](../topics/vocal capabilities.md)
+- [well-being outcomes](../topics/well-being outcomes.md)
 
 ## Tags
 
-- [[../tags/elderly-care]]
-- [[../tags/music-therapy]]
-- [[../tags/respiratory-health]]
-- [[../tags/quality-of-life]]
-- [[../tags/singing-program]]
-- [[../tags/fxa100]]
+- [elderly-care](../tags/elderly-care.md)
+- [music-therapy](../tags/music-therapy.md)
+- [respiratory-health](../tags/respiratory-health.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [singing-program](../tags/singing-program.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/elderly-care]]
-- [[../topics/music-therapy]]
-- [[../topics/quality-of-life]]
+- [elderly-care](../topics/elderly-care.md)
+- [music-therapy](../topics/music-therapy.md)
+- [quality-of-life](../topics/quality-of-life.md)

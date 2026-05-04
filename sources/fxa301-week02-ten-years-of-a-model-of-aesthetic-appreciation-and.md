@@ -24,27 +24,27 @@ This article reviews the development and impact of a model proposed by Leder et 
 
 ## Key Concepts
 
-- [[../topics/model of aesthetic appreciation]]
-- [[../topics/Berlyne's psycho-biological aesthetics]]
-- [[../topics/aesthetic emotions]]
+- [model of aesthetic appreciation](../topics/model of aesthetic appreciation.md)
+- [Berlyne's psycho-biological aesthetics](../topics/Berlyne's psycho-biological aesthetics.md)
+- [aesthetic emotions](../topics/aesthetic emotions.md)
 
 ## Tags
 
-- [[../tags/empirical-aesthetics]]
-- [[../tags/psychology-of-art]]
-- [[../tags/neuroaesthetics]]
-- [[../tags/cognitive-psychology]]
-- [[../tags/emotional-reaction]]
-- [[../tags/fxa301]]
+- [empirical-aesthetics](../tags/empirical-aesthetics.md)
+- [psychology-of-art](../tags/psychology-of-art.md)
+- [neuroaesthetics](../tags/neuroaesthetics.md)
+- [cognitive-psychology](../tags/cognitive-psychology.md)
+- [emotional-reaction](../tags/emotional-reaction.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[literature review]]
+- [literature review](literature review.md)
 
 ## See Also
 
-- [[../topics/cognitive-psychology]]
-- [[../topics/emotional-reaction]]
-- [[../topics/empirical-aesthetics]]
-- [[../topics/neuroaesthetics]]
-- [[../topics/psychology-of-art]]
+- [cognitive-psychology](../topics/cognitive-psychology.md)
+- [emotional-reaction](../topics/emotional-reaction.md)
+- [empirical-aesthetics](../topics/empirical-aesthetics.md)
+- [neuroaesthetics](../topics/neuroaesthetics.md)
+- [psychology-of-art](../topics/psychology-of-art.md)

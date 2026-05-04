@@ -26,5 +26,5 @@ The provided sources focus on the Veder Method as an intervention to improve liv
 
 ## Sources
 
-- [[../sources/fxa100-week09-implementing-living-room-theatre-activities-for-people-with]]
-- [[../sources/fxa100-week09-implementing-living-room-theatre-activities-for-people-with-(2)]]
+- [fxa100-week09-implementing-living-room-theatre-activities-for-people-with](../sources/fxa100-week09-implementing-living-room-theatre-activities-for-people-with.md)
+- [fxa100-week09-implementing-living-room-theatre-activities-for-people-with-(2)](../sources/fxa100-week09-implementing-living-room-theatre-activities-for-people-with-(2).md)

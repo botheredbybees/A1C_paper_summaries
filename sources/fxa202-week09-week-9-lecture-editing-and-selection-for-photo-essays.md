@@ -24,22 +24,22 @@ The lecture for Week 9 of the Photo Essay course focuses on editing and selectio
 
 ## Key Concepts
 
-- [[../topics/journaling]]
-- [[../topics/caption-editing]]
-- [[../topics/peer-feedback]]
+- [journaling](../topics/journaling.md)
+- [caption-editing](../topics/caption-editing.md)
+- [peer-feedback](../topics/peer-feedback.md)
 
 ## Tags
 
-- [[../tags/photo-essays]]
-- [[../tags/editing-process]]
-- [[../tags/reflective-writing]]
-- [[../tags/fxa202]]
+- [photo-essays](../tags/photo-essays.md)
+- [editing-process](../tags/editing-process.md)
+- [reflective-writing](../tags/reflective-writing.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/photo-essays]]
-- [[../topics/reflective-writing]]
+- [photo-essays](../topics/photo-essays.md)
+- [reflective-writing](../topics/reflective-writing.md)

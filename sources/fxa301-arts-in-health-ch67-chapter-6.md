@@ -24,24 +24,24 @@ This chapter discusses the importance of evaluating processes within healthcare 
 
 ## Key Concepts
 
-- [[../topics/process evaluations]]
-- [[../topics/ethnographic studies]]
-- [[../topics/outcome research]]
+- [process evaluations](../topics/process evaluations.md)
+- [ethnographic studies](../topics/ethnographic studies.md)
+- [outcome research](../topics/outcome research.md)
 
 ## Tags
 
-- [[../tags/healthcare evaluation]]
-- [[../tags/intervention process]]
-- [[../tags/research methods]]
-- [[../tags/fxa301]]
+- [healthcare evaluation](../tags/healthcare evaluation.md)
+- [intervention process](../tags/intervention process.md)
+- [research methods](../tags/research methods.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[surveys]]
-- [[focus groups]]
-- [[interviews]]
+- [surveys](surveys.md)
+- [focus groups](focus groups.md)
+- [interviews](interviews.md)
 
 ## See Also
 
-- [[../topics/healthcare-evaluation]]
-- [[../topics/research-methods]]
+- [healthcare-evaluation](../topics/healthcare-evaluation.md)
+- [research-methods](../topics/research-methods.md)

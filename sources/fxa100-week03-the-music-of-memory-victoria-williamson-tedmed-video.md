@@ -24,22 +24,22 @@ Victoria Williamson's TEDMED talk explores the intriguing aspect of musical memo
 
 ## Key Concepts
 
-- [[../topics/musical-recall]]
-- [[../topics/therapeutic-benefits-of-music]]
-- [[../topics/neurological-recovery]]
+- [musical-recall](../topics/musical-recall.md)
+- [therapeutic-benefits-of-music](../topics/therapeutic-benefits-of-music.md)
+- [neurological-recovery](../topics/neurological-recovery.md)
 
 ## Tags
 
-- [[../tags/musical-memory]]
-- [[../tags/brain-injury-therapy]]
-- [[../tags/memory-loss]]
-- [[../tags/fxa100]]
+- [musical-memory](../tags/musical-memory.md)
+- [brain-injury-therapy](../tags/brain-injury-therapy.md)
+- [memory-loss](../tags/memory-loss.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/memory-loss]]
-- [[../topics/musical-memory]]
+- [memory-loss](../topics/memory-loss.md)
+- [musical-memory](../topics/musical-memory.md)

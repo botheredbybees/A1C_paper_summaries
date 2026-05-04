@@ -24,18 +24,18 @@ This article discusses the cultural significance of Tasmanian Aboriginal shell n
 
 ## Key Concepts
 
-- [[../topics/Cultural Exchange]]
-- [[../topics/Environmental Impact]]
-- [[../topics/Traditional Practice]]
+- [Cultural Exchange](../topics/Cultural Exchange.md)
+- [Environmental Impact](../topics/Environmental Impact.md)
+- [Traditional Practice](../topics/Traditional Practice.md)
 
 ## Tags
 
-- [[../tags/tasmanian-aboriginal]]
-- [[../tags/shell-necklaces]]
-- [[../tags/cultural-practice]]
-- [[../tags/environmental-changes]]
-- [[../tags/indigenous-art]]
-- [[../tags/fxa301]]
+- [tasmanian-aboriginal](../tags/tasmanian-aboriginal.md)
+- [shell-necklaces](../tags/shell-necklaces.md)
+- [cultural-practice](../tags/cultural-practice.md)
+- [environmental-changes](../tags/environmental-changes.md)
+- [indigenous-art](../tags/indigenous-art.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

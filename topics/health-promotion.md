@@ -26,5 +26,5 @@ Cultural activities have emerged as a significant health-promotion tool across v
 
 ## Sources
 
-- [[../sources/fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35-(2)]]
-- [[../sources/fxa301-week05-museums-and-health-emerging-spatial-practices]]
+- [fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35-(2).md)
+- [fxa301-week05-museums-and-health-emerging-spatial-practices](../sources/fxa301-week05-museums-and-health-emerging-spatial-practices.md)

@@ -24,18 +24,18 @@ This lesson explores the use of music and dance in healthcare environments to en
 
 ## Key Concepts
 
-- [[../topics/Art in Health programmes]]
-- [[../topics/Neuroplasticity through dance]]
-- [[../topics/Live music interventions]]
+- [Art in Health programmes](../topics/Art in Health programmes.md)
+- [Neuroplasticity through dance](../topics/Neuroplasticity through dance.md)
+- [Live music interventions](../topics/Live music interventions.md)
 
 ## Tags
 
-- [[../tags/music-in-hospitals]]
-- [[../tags/dance-for-parkinsons]]
-- [[../tags/wellbeing-through-art]]
-- [[../tags/therapeutic-music-therapy]]
-- [[../tags/healthcare-environments]]
-- [[../tags/fxa301]]
+- [music-in-hospitals](../tags/music-in-hospitals.md)
+- [dance-for-parkinsons](../tags/dance-for-parkinsons.md)
+- [wellbeing-through-art](../tags/wellbeing-through-art.md)
+- [therapeutic-music-therapy](../tags/therapeutic-music-therapy.md)
+- [healthcare-environments](../tags/healthcare-environments.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -43,4 +43,4 @@ This lesson explores the use of music and dance in healthcare environments to en
 
 ## See Also
 
-- [[../topics/wellbeing-through-art]]
+- [wellbeing-through-art](../topics/wellbeing-through-art.md)

@@ -24,15 +24,15 @@ This week's course material provides an overview of the developmental processes 
 
 ## Key Concepts
 
-- [[../topics/neuroplasticity]]
-- [[../topics/environmental-influences-on-brain-development]]
+- [neuroplasticity](../topics/neuroplasticity.md)
+- [environmental-influences-on-brain-development](../topics/environmental-influences-on-brain-development.md)
 
 ## Tags
 
-- [[../tags/adolescent-brain-development]]
-- [[../tags/mental-wellbeing-through-arts]]
-- [[../tags/brain-and-behavior-in-adolescence]]
-- [[../tags/fxa303]]
+- [adolescent-brain-development](../tags/adolescent-brain-development.md)
+- [mental-wellbeing-through-arts](../tags/mental-wellbeing-through-arts.md)
+- [brain-and-behavior-in-adolescence](../tags/brain-and-behavior-in-adolescence.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ This week's course material provides an overview of the developmental processes 
 
 ## See Also
 
-- [[../topics/adolescent-brain-development]]
+- [adolescent-brain-development](../topics/adolescent-brain-development.md)

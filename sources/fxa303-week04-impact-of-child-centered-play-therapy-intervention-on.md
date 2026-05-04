@@ -24,26 +24,26 @@ This study investigates the impact of child-centered play therapy (CCPT) on auti
 
 ## Key Concepts
 
-- [[../topics/child-centered play therapy (CCPT)]]
-- [[../topics/brain EEG activity]]
-- [[../topics/randomized controlled trial (RCT)]]
+- [child-centered play therapy (CCPT)](../topics/child-centered play therapy (CCPT).md)
+- [brain EEG activity](../topics/brain EEG activity.md)
+- [randomized controlled trial (RCT)](../topics/randomized controlled trial (RCT).md)
 
 ## Tags
 
-- [[../tags/child-centered-play-therapy]]
-- [[../tags/autism-interventions]]
-- [[../tags/neurofeedback]]
-- [[../tags/electroencephalography-eeg]]
-- [[../tags/behavioral-outcomes]]
-- [[../tags/fxa303]]
+- [child-centered-play-therapy](../tags/child-centered-play-therapy.md)
+- [autism-interventions](../tags/autism-interventions.md)
+- [neurofeedback](../tags/neurofeedback.md)
+- [electroencephalography-eeg](../tags/electroencephalography-eeg.md)
+- [behavioral-outcomes](../tags/behavioral-outcomes.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[randomized controlled trial]]
-- [[electroencephalography (EEG)]]
-- [[behavioral assessments]]
+- [randomized controlled trial](randomized controlled trial.md)
+- [electroencephalography (EEG)](electroencephalography (EEG).md)
+- [behavioral assessments](behavioral assessments.md)
 
 ## See Also
 
-- [[../topics/behavioral-outcomes]]
-- [[../topics/child-centered-play-therapy]]
+- [behavioral-outcomes](../topics/behavioral-outcomes.md)
+- [child-centered-play-therapy](../topics/child-centered-play-therapy.md)

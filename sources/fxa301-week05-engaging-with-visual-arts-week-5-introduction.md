@@ -24,23 +24,23 @@ The document outlines the introduction to Week 5 in the course 'FXA301 Arts in t
 
 ## Key Concepts
 
-- [[../topics/color-therapy]]
-- [[../topics/patient-recovery]]
-- [[../topics/community-engagement]]
+- [color-therapy](../topics/color-therapy.md)
+- [patient-recovery](../topics/patient-recovery.md)
+- [community-engagement](../topics/community-engagement.md)
 
 ## Tags
 
-- [[../tags/community-arts]]
-- [[../tags/visual-therapies]]
-- [[../tags/social-cohesion]]
-- [[../tags/historical-contexts]]
-- [[../tags/fxa301]]
+- [community-arts](../tags/community-arts.md)
+- [visual-therapies](../tags/visual-therapies.md)
+- [social-cohesion](../tags/social-cohesion.md)
+- [historical-contexts](../tags/historical-contexts.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/community-arts]]
-- [[../topics/social-cohesion]]
+- [community-arts](../topics/community-arts.md)
+- [social-cohesion](../topics/social-cohesion.md)

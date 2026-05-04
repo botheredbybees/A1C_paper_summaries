@@ -24,22 +24,22 @@ The article explores the role of arts in the lives and integration processes of 
 
 ## Key Concepts
 
-- [[../topics/refugee integration]]
-- [[../topics/multidisciplinary perspectives]]
-- [[../topics/alternative aesthetic norms]]
+- [refugee integration](../topics/refugee integration.md)
+- [multidisciplinary perspectives](../topics/multidisciplinary perspectives.md)
+- [alternative aesthetic norms](../topics/alternative aesthetic norms.md)
 
 ## Tags
 
-- [[../tags/arts-refugees]]
-- [[../tags/social-participation]]
-- [[../tags/cultural-integration]]
-- [[../tags/gender-dynamics]]
-- [[../tags/therapeutic-arts]]
-- [[../tags/fxa303]]
+- [arts-refugees](../tags/arts-refugees.md)
+- [social-participation](../tags/social-participation.md)
+- [cultural-integration](../tags/cultural-integration.md)
+- [gender-dynamics](../tags/gender-dynamics.md)
+- [therapeutic-arts](../tags/therapeutic-arts.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case study]]
+- **case study**
 
 ## See Also
 

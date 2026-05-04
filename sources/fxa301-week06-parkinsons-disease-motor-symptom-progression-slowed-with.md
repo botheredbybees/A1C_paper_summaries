@@ -24,25 +24,25 @@ This study investigates the impact of multisensory dance learning on motor and n
 
 ## Key Concepts
 
-- [[../topics/Parkinson's disease]]
-- [[../topics/MDS-UPDRS]]
-- [[../topics/multisensory dance learning]]
+- [Parkinson's disease](../topics/Parkinson's disease.md)
+- [MDS-UPDRS](../topics/MDS-UPDRS.md)
+- [multisensory dance learning](../topics/multisensory dance learning.md)
 
 ## Tags
 
-- [[../tags/parkinsons-disease]]
-- [[../tags/motor-symptoms]]
-- [[../tags/dance-therapy]]
-- [[../tags/longitudinal-study]]
-- [[../tags/multisensory-learning]]
-- [[../tags/fxa301]]
+- [parkinsons-disease](../tags/parkinsons-disease.md)
+- [motor-symptoms](../tags/motor-symptoms.md)
+- [dance-therapy](../tags/dance-therapy.md)
+- [longitudinal-study](../tags/longitudinal-study.md)
+- [multisensory-learning](../tags/multisensory-learning.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[longitudinal investigation]]
+- [longitudinal investigation](longitudinal investigation.md)
 
 ## See Also
 
-- [[../topics/dance-therapy]]
-- [[../topics/longitudinal-study]]
-- [[../topics/parkinsons-disease]]
+- [dance-therapy](../topics/dance-therapy.md)
+- [longitudinal-study](../topics/longitudinal-study.md)
+- [parkinsons-disease](../topics/parkinsons-disease.md)

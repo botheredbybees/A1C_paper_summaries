@@ -24,22 +24,22 @@ This study examines the influence of motor simulation on art appreciation, speci
 
 ## Key Concepts
 
-- [[../topics/motor simulation]]
-- [[../topics/embodiment theory]]
+- [motor simulation](../topics/motor simulation.md)
+- [embodiment theory](../topics/embodiment theory.md)
 
 ## Tags
 
-- [[../tags/art-appreciation]]
-- [[../tags/embodiment-theory]]
-- [[../tags/motor-simulation]]
-- [[../tags/awareness-effects]]
-- [[../tags/visual-artwork]]
-- [[../tags/fxa301]]
+- [art-appreciation](../tags/art-appreciation.md)
+- [embodiment-theory](../tags/embodiment-theory.md)
+- [motor-simulation](../tags/motor-simulation.md)
+- [awareness-effects](../tags/awareness-effects.md)
+- [visual-artwork](../tags/visual-artwork.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[experiments]]
+- [experiments](experiments.md)
 
 ## See Also
 
-- [[../topics/art-appreciation]]
+- [art-appreciation](../topics/art-appreciation.md)

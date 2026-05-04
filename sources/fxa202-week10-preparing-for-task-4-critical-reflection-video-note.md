@@ -24,19 +24,19 @@ This document provides instructions for completing the Practice Quiz and AT4 Vid
 
 ## Key Concepts
 
-- [[../topics/hurdle-task]]
-- [[../topics/submission-process]]
+- [hurdle-task](../topics/hurdle-task.md)
+- [submission-process](../topics/submission-process.md)
 
 ## Tags
 
-- [[../tags/academic-assessment]]
-- [[../tags/instruction-guidelines]]
-- [[../tags/video-assignment]]
-- [[../tags/fxa202]]
+- [academic-assessment](../tags/academic-assessment.md)
+- [instruction-guidelines](../tags/instruction-guidelines.md)
+- [video-assignment](../tags/video-assignment.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[procedural-instructions]]
+- [procedural-instructions](procedural-instructions.md)
 
 ## See Also
 

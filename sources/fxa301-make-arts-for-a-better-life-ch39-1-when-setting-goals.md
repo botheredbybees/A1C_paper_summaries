@@ -27,16 +27,16 @@ This chapter discusses the final step in the Make Arts process, which focuses on
 
 ## Key Concepts
 
-- [[../topics/results-based management]]
-- [[../topics/celebrating arts]]
-- [[../topics/fragile traditions]]
+- [results-based management](../topics/results-based management.md)
+- [celebrating arts](../topics/celebrating arts.md)
+- [fragile traditions](../topics/fragile traditions.md)
 
 ## Tags
 
-- [[../tags/community-arts]]
-- [[../tags/results-based-management]]
-- [[../tags/cultural-change]]
-- [[../tags/fxa301]]
+- [community-arts](../tags/community-arts.md)
+- [results-based-management](../tags/results-based-management.md)
+- [cultural-change](../tags/cultural-change.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -44,4 +44,4 @@ This chapter discusses the final step in the Make Arts process, which focuses on
 
 ## See Also
 
-- [[../topics/community-arts]]
+- [community-arts](../topics/community-arts.md)

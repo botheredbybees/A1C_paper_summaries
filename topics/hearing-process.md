@@ -26,5 +26,5 @@ The hearing process involves intricate physiological and neural mechanisms that 
 
 ## Sources
 
-- [[../sources/fxa100-week02-hearing-and-music]]
-- [[../sources/fxa100-week02-video-about-hearing-and-how-it-works-med-el-video-transcript]]
+- [fxa100-week02-hearing-and-music](../sources/fxa100-week02-hearing-and-music.md)
+- [fxa100-week02-video-about-hearing-and-how-it-works-med-el-video-transcript](../sources/fxa100-week02-video-about-hearing-and-how-it-works-med-el-video-transcript.md)

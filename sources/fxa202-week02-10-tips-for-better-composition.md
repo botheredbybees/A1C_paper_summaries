@@ -24,16 +24,16 @@ The document '10 Tips for Better Composition' provides practical advice on enhan
 
 ## Key Concepts
 
-- [[../topics/rule-of-thirds]]
-- [[../topics/visual-narrative]]
-- [[../topics/creative-lighting]]
+- [rule-of-thirds](../topics/rule-of-thirds.md)
+- [visual-narrative](../topics/visual-narrative.md)
+- [creative-lighting](../topics/creative-lighting.md)
 
 ## Tags
 
-- [[../tags/photography-tips]]
-- [[../tags/composition-rules]]
-- [[../tags/lighting-techniques]]
-- [[../tags/fxa202]]
+- [photography-tips](../tags/photography-tips.md)
+- [composition-rules](../tags/composition-rules.md)
+- [lighting-techniques](../tags/lighting-techniques.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
@@ -41,6 +41,6 @@ The document '10 Tips for Better Composition' provides practical advice on enhan
 
 ## See Also
 
-- [[../topics/composition-rules]]
-- [[../topics/lighting-techniques]]
-- [[../topics/photography-tips]]
+- [composition-rules](../topics/composition-rules.md)
+- [lighting-techniques](../topics/lighting-techniques.md)
+- [photography-tips](../topics/photography-tips.md)

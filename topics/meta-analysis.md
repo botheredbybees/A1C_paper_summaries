@@ -27,6 +27,6 @@ The meta-analyses explore the effectiveness of dance and music interventions for
 
 ## Sources
 
-- [[../sources/fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention]]
-- [[../sources/fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism]]
-- [[../sources/fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism]]
+- [fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention](../sources/fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention.md)
+- [fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism](../sources/fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism.md)
+- [fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism](../sources/fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism.md)

@@ -24,15 +24,15 @@ This transcript describes the 'Singing for Better Breathing' initiative launched
 
 ## Key Concepts
 
-- [[../topics/chronic obstructive pulmonary disease (COPD)]]
-- [[../topics/respiratory function assessment]]
+- [chronic obstructive pulmonary disease (COPD)](../topics/chronic obstructive pulmonary disease (COPD).md)
+- [respiratory function assessment](../topics/respiratory function assessment.md)
 
 ## Tags
 
-- [[../tags/singing-for-better-breathing]]
-- [[../tags/copd-management]]
-- [[../tags/respiratory-rehabilitation]]
-- [[../tags/fxa100]]
+- [singing-for-better-breathing](../tags/singing-for-better-breathing.md)
+- [copd-management](../tags/copd-management.md)
+- [respiratory-rehabilitation](../tags/respiratory-rehabilitation.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ This transcript describes the 'Singing for Better Breathing' initiative launched
 
 ## See Also
 
-- [[../topics/copd-management]]
+- [copd-management](../topics/copd-management.md)

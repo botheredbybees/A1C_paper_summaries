@@ -26,5 +26,5 @@ The provided sources offer a comprehensive introduction to dementia and its vari
 
 ## Sources
 
-- [[../sources/fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms]]
-- [[../sources/fxa100-week01-transcript-what-is-alzheimers-disease-ivan-seah-yu-jun]]
+- [fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms](../sources/fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms.md)
+- [fxa100-week01-transcript-what-is-alzheimers-disease-ivan-seah-yu-jun](../sources/fxa100-week01-transcript-what-is-alzheimers-disease-ivan-seah-yu-jun.md)

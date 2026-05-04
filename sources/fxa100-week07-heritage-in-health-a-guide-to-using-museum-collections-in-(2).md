@@ -24,22 +24,22 @@ The document 'Heritage in Health' is a comprehensive guide for museums aiming to
 
 ## Key Concepts
 
-- [[../topics/participant-welfare]]
-- [[../topics/collection-safety]]
-- [[../topics/program-evaluation]]
+- [participant-welfare](../topics/participant-welfare.md)
+- [collection-safety](../topics/collection-safety.md)
+- [program-evaluation](../topics/program-evaluation.md)
 
 ## Tags
 
-- [[../tags/museum-collections]]
-- [[../tags/healthcare-settings]]
-- [[../tags/object-based-learning]]
-- [[../tags/fxa100]]
+- [museum-collections](../tags/museum-collections.md)
+- [healthcare-settings](../tags/healthcare-settings.md)
+- [object-based-learning](../tags/object-based-learning.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[guide]]
+- [guide](guide.md)
 
 ## See Also
 
-- [[../topics/healthcare-settings]]
-- [[../topics/museum-collections]]
+- [healthcare-settings](../topics/healthcare-settings.md)
+- [museum-collections](../topics/museum-collections.md)

@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Constructivism Theory
 
-- [[../sources/fxa303-week02-theories-of-development-in-dialog-with-jean-piaget|Theories of Development: In Dialog with Jean Piaget]]
+- [Theories of Development: In Dialog with Jean Piaget](../sources/fxa303-week02-theories-of-development-in-dialog-with-jean-piaget.md)

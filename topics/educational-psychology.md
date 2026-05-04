@@ -27,6 +27,6 @@ The integration of educational psychology with trauma-informed care and the supp
 
 ## Sources
 
-- [[../sources/fxa303-week01-teachers-perspectives-on-providing-support-to-children]]
-- [[../sources/fxa303-week02-a-new-context-affording-for-regulation-the-case-of-musical]]
-- [[../sources/fxa303-week02-accessing-the-inaccessible-redefining-play-as-a-spectrum]]
+- [fxa303-week01-teachers-perspectives-on-providing-support-to-children](../sources/fxa303-week01-teachers-perspectives-on-providing-support-to-children.md)
+- [fxa303-week02-a-new-context-affording-for-regulation-the-case-of-musical](../sources/fxa303-week02-a-new-context-affording-for-regulation-the-case-of-musical.md)
+- [fxa303-week02-accessing-the-inaccessible-redefining-play-as-a-spectrum](../sources/fxa303-week02-accessing-the-inaccessible-redefining-play-as-a-spectrum.md)

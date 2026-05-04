@@ -24,24 +24,24 @@ This study evaluates the 'Images of Self' (IOS) art therapy program for children
 
 ## Key Concepts
 
-- [[../topics/sense-of-self]]
-- [[../topics/emotion-regulation]]
-- [[../topics/flexibility]]
-- [[../topics/social-behavior]]
+- [sense-of-self](../topics/sense-of-self.md)
+- [emotion-regulation](../topics/emotion-regulation.md)
+- [flexibility](../topics/flexibility.md)
+- [social-behavior](../topics/social-behavior.md)
 
 ## Tags
 
-- [[../tags/autism-spectrum-disorders]]
-- [[../tags/art-therapy]]
-- [[../tags/case-study-design]]
-- [[../tags/behavior-change]]
-- [[../tags/self-image]]
-- [[../tags/fxa303]]
+- [autism-spectrum-disorders](../tags/autism-spectrum-disorders.md)
+- [art-therapy](../tags/art-therapy.md)
+- [case-study-design](../tags/case-study-design.md)
+- [behavior-change](../tags/behavior-change.md)
+- [self-image](../tags/self-image.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[repeated-case-study]]
+- [repeated-case-study](repeated-case-study.md)
 
 ## See Also
 
-- [[../topics/autism-spectrum-disorders]]
+- [autism-spectrum-disorders](../topics/autism-spectrum-disorders.md)

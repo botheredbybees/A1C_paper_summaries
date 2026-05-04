@@ -24,16 +24,16 @@ This chapter discusses the importance of proper contracting when artists or orga
 
 ## Key Concepts
 
-- [[../topics/contractual agreements]]
-- [[../topics/induction processes]]
-- [[../topics/funding strategies]]
+- [contractual agreements](../topics/contractual agreements.md)
+- [induction processes](../topics/induction processes.md)
+- [funding strategies](../topics/funding strategies.md)
 
 ## Tags
 
-- [[../tags/healthcare settings]]
-- [[../tags/artist contracts]]
-- [[../tags/project management]]
-- [[../tags/fxa301]]
+- [healthcare settings](../tags/healthcare settings.md)
+- [artist contracts](../tags/artist contracts.md)
+- [project management](../tags/project management.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

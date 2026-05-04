@@ -24,25 +24,25 @@ The study examines the experiences of nurses using puppets within an educational
 
 ## Key Concepts
 
-- [[../topics/Pup-Ed framework]]
-- [[../topics/therapeutic use of puppets]]
-- [[../topics/reducing child anxiety]]
+- [Pup-Ed framework](../topics/Pup-Ed framework.md)
+- [therapeutic use of puppets](../topics/therapeutic use of puppets.md)
+- [reducing child anxiety](../topics/reducing child anxiety.md)
 
 ## Tags
 
-- [[../tags/nursing-interventions]]
-- [[../tags/child-healthcare]]
-- [[../tags/pediatric-care]]
-- [[../tags/therapeutic-communication]]
-- [[../tags/education-tools]]
-- [[../tags/fxa303]]
+- [nursing-interventions](../tags/nursing-interventions.md)
+- [child-healthcare](../tags/child-healthcare.md)
+- [pediatric-care](../tags/pediatric-care.md)
+- [therapeutic-communication](../tags/therapeutic-communication.md)
+- [education-tools](../tags/education-tools.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/child-healthcare]]
-- [[../topics/pediatric-care]]
-- [[../topics/therapeutic-communication]]
+- [child-healthcare](../topics/child-healthcare.md)
+- [pediatric-care](../topics/pediatric-care.md)
+- [therapeutic-communication](../topics/therapeutic-communication.md)

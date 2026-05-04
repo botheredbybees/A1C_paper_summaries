@@ -24,22 +24,22 @@ This paper explores the impact of dementia on artistic production, focusing on v
 
 ## Key Concepts
 
-- [[../topics/alzheimer-s-disease]]
-- [[../topics/fronto-temporal-dementia]]
-- [[../topics/dementia-with-lewy-bodies]]
+- [alzheimer-s-disease](../topics/alzheimer-s-disease.md)
+- [fronto-temporal-dementia](../topics/fronto-temporal-dementia.md)
+- [dementia-with-lewy-bodies](../topics/dementia-with-lewy-bodies.md)
 
 ## Tags
 
-- [[../tags/neuroaesthetics]]
-- [[../tags/dementia-impact-on-art]]
-- [[../tags/cognitive-neuroscience]]
-- [[../tags/fxa100]]
+- [neuroaesthetics](../tags/neuroaesthetics.md)
+- [dementia-impact-on-art](../tags/dementia-impact-on-art.md)
+- [cognitive-neuroscience](../tags/cognitive-neuroscience.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/cognitive-neuroscience]]
-- [[../topics/neuroaesthetics]]
+- [cognitive-neuroscience](../topics/cognitive-neuroscience.md)
+- [neuroaesthetics](../topics/neuroaesthetics.md)

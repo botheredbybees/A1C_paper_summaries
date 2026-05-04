@@ -24,27 +24,27 @@ Sumita Chauhan, a PhD candidate at the School of Engineering and Digital Arts (E
 
 ## Key Concepts
 
-- [[../topics/creative potential]]
-- [[../topics/co-creation]]
-- [[../topics/self-expression]]
-- [[../topics/social interaction]]
+- [creative potential](../topics/creative potential.md)
+- [co-creation](../topics/co-creation.md)
+- [self-expression](../topics/self-expression.md)
+- [social interaction](../topics/social interaction.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/art-therapy]]
-- [[../tags/creative-engagement]]
-- [[../tags/digital-sculpture]]
-- [[../tags/elderly-wellness]]
-- [[../tags/cognitive-enhancement]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [art-therapy](../tags/art-therapy.md)
+- [creative-engagement](../tags/creative-engagement.md)
+- [digital-sculpture](../tags/digital-sculpture.md)
+- [elderly-wellness](../tags/elderly-wellness.md)
+- [cognitive-enhancement](../tags/cognitive-enhancement.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/cognitive-enhancement]]
-- [[../topics/dementia-care]]
-- [[../topics/elderly-wellness]]
+- [cognitive-enhancement](../topics/cognitive-enhancement.md)
+- [dementia-care](../topics/dementia-care.md)
+- [elderly-wellness](../topics/elderly-wellness.md)

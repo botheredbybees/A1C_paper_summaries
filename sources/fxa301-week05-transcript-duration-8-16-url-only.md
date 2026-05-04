@@ -28,10 +28,10 @@ The video in question does not provide an automatic transcript download feature.
 
 ## Tags
 
-- [[../tags/transcript-unavailable]]
-- [[../tags/manual-transcript-retrieval]]
-- [[../tags/youtube-video]]
-- [[../tags/fxa301]]
+- [transcript-unavailable](../tags/transcript-unavailable.md)
+- [manual-transcript-retrieval](../tags/manual-transcript-retrieval.md)
+- [youtube-video](../tags/youtube-video.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -39,4 +39,4 @@ The video in question does not provide an automatic transcript download feature.
 
 ## See Also
 
-- [[../topics/youtube-video]]
+- [youtube-video](../topics/youtube-video.md)

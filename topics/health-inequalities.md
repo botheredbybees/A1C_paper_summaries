@@ -27,6 +27,6 @@ The concept of health inequalities encompasses disparities in health outcomes an
 
 ## Sources
 
-- [[../sources/fxa301-week03-health-inequalities-and-the-role-of-creative-health]]
-- [[../sources/fxa301-week03-implementing-creative-health]]
-- [[../sources/fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation]]
+- [fxa301-week03-health-inequalities-and-the-role-of-creative-health](../sources/fxa301-week03-health-inequalities-and-the-role-of-creative-health.md)
+- [fxa301-week03-implementing-creative-health](../sources/fxa301-week03-implementing-creative-health.md)
+- [fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation](../sources/fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation.md)

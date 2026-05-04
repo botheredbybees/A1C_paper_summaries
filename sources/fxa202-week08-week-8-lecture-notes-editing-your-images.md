@@ -24,27 +24,27 @@ This week’s lecture emphasizes the importance of editing techniques and mindfu
 
 ## Key Concepts
 
-- [[../topics/biophilia]]
-- [[../topics/therapeutic photography]]
-- [[../topics/photo therapy]]
+- [biophilia](../topics/biophilia.md)
+- [therapeutic photography](../topics/therapeutic photography.md)
+- [photo therapy](../topics/photo therapy.md)
 
 ## Tags
 
-- [[../tags/mental-health]]
-- [[../tags/therapeutic-photography]]
-- [[../tags/creative-expression]]
-- [[../tags/environmental-connectivity]]
-- [[../tags/digital-editing]]
-- [[../tags/reflective-practice]]
-- [[../tags/fxa202]]
+- [mental-health](../tags/mental-health.md)
+- [therapeutic-photography](../tags/therapeutic-photography.md)
+- [creative-expression](../tags/creative-expression.md)
+- [environmental-connectivity](../tags/environmental-connectivity.md)
+- [digital-editing](../tags/digital-editing.md)
+- [reflective-practice](../tags/reflective-practice.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/creative-expression]]
-- [[../topics/environmental-connectivity]]
-- [[../topics/mental-health]]
-- [[../topics/therapeutic-photography]]
+- [creative-expression](../topics/creative-expression.md)
+- [environmental-connectivity](../topics/environmental-connectivity.md)
+- [mental-health](../topics/mental-health.md)
+- [therapeutic-photography](../topics/therapeutic-photography.md)

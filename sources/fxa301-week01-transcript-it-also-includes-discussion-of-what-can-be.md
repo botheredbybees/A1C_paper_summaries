@@ -24,16 +24,16 @@ The transcript discusses a presentation on the intersection of art and neuroscie
 
 ## Key Concepts
 
-- [[../topics/vitamin A in vision]]
-- [[../topics/neural networks]]
-- [[../topics/eye movement studies]]
+- [vitamin A in vision](../topics/vitamin A in vision.md)
+- [neural networks](../topics/neural networks.md)
+- [eye movement studies](../topics/eye movement studies.md)
 
 ## Tags
 
-- [[../tags/visual-perception]]
-- [[../tags/neuroscience-and-art]]
-- [[../tags/brain-function]]
-- [[../tags/fxa301]]
+- [visual-perception](../tags/visual-perception.md)
+- [neuroscience-and-art](../tags/neuroscience-and-art.md)
+- [brain-function](../tags/brain-function.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,4 +41,4 @@ The transcript discusses a presentation on the intersection of art and neuroscie
 
 ## See Also
 
-- [[../topics/brain-function]]
+- [brain-function](../topics/brain-function.md)

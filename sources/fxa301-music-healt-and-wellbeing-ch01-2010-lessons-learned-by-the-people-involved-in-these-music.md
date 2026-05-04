@@ -27,15 +27,15 @@ This chapter discusses various projects that utilize music to address social, he
 
 ## Key Concepts
 
-- [[../topics/community-music-therapy]]
-- [[../topics/sustainable-development]]
+- [community-music-therapy](../topics/community-music-therapy.md)
+- [sustainable-development](../topics/sustainable-development.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/social-intervention]]
-- [[../tags/trauma-recovery]]
-- [[../tags/fxa301]]
+- [music-therapy](../tags/music-therapy.md)
+- [social-intervention](../tags/social-intervention.md)
+- [trauma-recovery](../tags/trauma-recovery.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -43,5 +43,5 @@ This chapter discusses various projects that utilize music to address social, he
 
 ## See Also
 
-- [[../topics/music-therapy]]
-- [[../topics/trauma-recovery]]
+- [music-therapy](../topics/music-therapy.md)
+- [trauma-recovery](../topics/trauma-recovery.md)

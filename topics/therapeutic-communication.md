@@ -25,5 +25,5 @@ The utilization of non-traditional methods for therapeutic communication highlig
 
 ## Sources
 
-- [[../sources/fxa303-week06-puppets-in-an-acute-paediatric-unit-nurses-experiences]]
-- [[../sources/fxa303-week08-more-than-just-an-entertainment-show-identification-of]]
+- [fxa303-week06-puppets-in-an-acute-paediatric-unit-nurses-experiences](../sources/fxa303-week06-puppets-in-an-acute-paediatric-unit-nurses-experiences.md)
+- [fxa303-week08-more-than-just-an-entertainment-show-identification-of](../sources/fxa303-week08-more-than-just-an-entertainment-show-identification-of.md)

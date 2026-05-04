@@ -26,5 +26,5 @@ The integration of singing as a method to foster social bonding is evident acros
 
 ## Sources
 
-- [[../sources/fxa100-week04-transcript-what-is-singing-for-the-brain]]
-- [[../sources/fxa301-week06-the-ice-breaker-effect-singing-mediates-fast-social-bonding]]
+- [fxa100-week04-transcript-what-is-singing-for-the-brain](../sources/fxa100-week04-transcript-what-is-singing-for-the-brain.md)
+- [fxa301-week06-the-ice-breaker-effect-singing-mediates-fast-social-bonding](../sources/fxa301-week06-the-ice-breaker-effect-singing-mediates-fast-social-bonding.md)

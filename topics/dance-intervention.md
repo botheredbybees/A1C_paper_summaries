@@ -27,6 +27,6 @@ The studies reviewed highlight the versatile benefits of dance interventions acr
 
 ## Sources
 
-- [[../sources/fxa301-week06-dance-4-your-life-exploring-the-health-and-well-being]]
-- [[../sources/fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older]]
-- [[../sources/fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait]]
+- [fxa301-week06-dance-4-your-life-exploring-the-health-and-well-being](../sources/fxa301-week06-dance-4-your-life-exploring-the-health-and-well-being.md)
+- [fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older](../sources/fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older.md)
+- [fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait](../sources/fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait.md)

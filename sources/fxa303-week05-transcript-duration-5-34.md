@@ -24,15 +24,15 @@ This transcript describes the ancient Indonesian art form of weiyang storytellin
 
 ## Key Concepts
 
-- [[../topics/philosophical-values-in-art]]
-- [[../topics/cultural-myths-and-legends]]
+- [philosophical-values-in-art](../topics/philosophical-values-in-art.md)
+- [cultural-myths-and-legends](../topics/cultural-myths-and-legends.md)
 
 ## Tags
 
-- [[../tags/indonesian-culture]]
-- [[../tags/storytelling-traditions]]
-- [[../tags/puppetry-arts]]
-- [[../tags/fxa303]]
+- [indonesian-culture](../tags/indonesian-culture.md)
+- [storytelling-traditions](../tags/storytelling-traditions.md)
+- [puppetry-arts](../tags/puppetry-arts.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

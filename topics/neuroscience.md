@@ -26,5 +26,5 @@ The discussion revolves around the understanding of cognitive disorders such as 
 
 ## Sources
 
-- [[../sources/fxa100-week01-transcript-what-is-alzheimers-disease-ivan-seah-yu-jun]]
-- [[../sources/fxa100-week03-experimental-evidence-for-synchronization-to-a-musical-beat]]
+- [fxa100-week01-transcript-what-is-alzheimers-disease-ivan-seah-yu-jun](../sources/fxa100-week01-transcript-what-is-alzheimers-disease-ivan-seah-yu-jun.md)
+- [fxa100-week03-experimental-evidence-for-synchronization-to-a-musical-beat](../sources/fxa100-week03-experimental-evidence-for-synchronization-to-a-musical-beat.md)

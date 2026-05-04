@@ -24,20 +24,20 @@ This research article conducts an anatomical likelihood estimate (ALE) meta-anal
 
 ## Key Concepts
 
-- [[../topics/anatomical-likelihood-estimate-meta-analysis]]
-- [[../topics/voxel-based-morphometry]]
+- [anatomical-likelihood-estimate-meta-analysis](../topics/anatomical-likelihood-estimate-meta-analysis.md)
+- [voxel-based-morphometry](../topics/voxel-based-morphometry.md)
 
 ## Tags
 
-- [[../tags/cerebellum-anatomy]]
-- [[../tags/neurodevelopmental-disorders]]
-- [[../tags/gray-matter-changes]]
-- [[../tags/fxa303]]
+- [cerebellum-anatomy](../tags/cerebellum-anatomy.md)
+- [neurodevelopmental-disorders](../tags/neurodevelopmental-disorders.md)
+- [gray-matter-changes](../tags/gray-matter-changes.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[meta-analysis]]
+- [meta-analysis](meta-analysis.md)
 
 ## See Also
 
-- [[../topics/neurodevelopmental-disorders]]
+- [neurodevelopmental-disorders](../topics/neurodevelopmental-disorders.md)

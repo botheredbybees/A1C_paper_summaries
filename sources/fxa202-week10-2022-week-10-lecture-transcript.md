@@ -24,16 +24,16 @@ This lecture transcript provides information about the concluding phase of the p
 
 ## Key Concepts
 
-- [[../topics/photo essay]]
-- [[../topics/critical reflection]]
-- [[../topics/course resources]]
+- [photo essay](../topics/photo essay.md)
+- [critical reflection](../topics/critical reflection.md)
+- [course resources](../topics/course resources.md)
 
 ## Tags
 
-- [[../tags/online-learning]]
-- [[../tags/university-education]]
-- [[../tags/photography-course]]
-- [[../tags/fxa202]]
+- [online-learning](../tags/online-learning.md)
+- [university-education](../tags/university-education.md)
+- [photography-course](../tags/photography-course.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

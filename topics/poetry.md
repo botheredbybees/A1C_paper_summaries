@@ -26,5 +26,5 @@ The exploration of poetry as a medium for self-expression and appreciation of na
 
 ## Sources
 
-- [[../sources/fxa100-week08-transcript-youtube-cilh21tfqem]]
-- [[../sources/fxa301-week08-transcript-youtube-q7-axxnucfq]]
+- [fxa100-week08-transcript-youtube-cilh21tfqem](../sources/fxa100-week08-transcript-youtube-cilh21tfqem.md)
+- [fxa301-week08-transcript-youtube-q7-axxnucfq](../sources/fxa301-week08-transcript-youtube-q7-axxnucfq.md)

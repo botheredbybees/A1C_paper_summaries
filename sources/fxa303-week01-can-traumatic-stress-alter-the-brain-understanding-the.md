@@ -24,20 +24,20 @@ This review article discusses the potential impact of traumatic stress on brain 
 
 ## Key Concepts
 
-- [[../topics/post-traumatic-stress-symptoms]]
-- [[../topics/neural-circuitry-changes]]
+- [post-traumatic-stress-symptoms](../topics/post-traumatic-stress-symptoms.md)
+- [neural-circuitry-changes](../topics/neural-circuitry-changes.md)
 
 ## Tags
 
-- [[../tags/traumatic-stress]]
-- [[../tags/brain-development]]
-- [[../tags/early-trauma]]
-- [[../tags/fxa303]]
+- [traumatic-stress](../tags/traumatic-stress.md)
+- [brain-development](../tags/brain-development.md)
+- [early-trauma](../tags/early-trauma.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/brain-development]]
+- [brain-development](../topics/brain-development.md)

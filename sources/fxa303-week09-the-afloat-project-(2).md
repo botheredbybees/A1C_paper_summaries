@@ -24,25 +24,25 @@ The Afloat Project, initiated by the City of Hobart in response to the May 2018 
 
 ## Key Concepts
 
-- [[../topics/resilience-building]]
-- [[../topics/sense-of-place]]
-- [[../topics/creative-expression]]
+- [resilience-building](../topics/resilience-building.md)
+- [sense-of-place](../topics/sense-of-place.md)
+- [creative-expression](../topics/creative-expression.md)
 
 ## Tags
 
-- [[../tags/community-recovery]]
-- [[../tags/creative-arts-interventions]]
-- [[../tags/disaster-resilience]]
-- [[../tags/environmental-connectivity]]
-- [[../tags/flood-recovery]]
-- [[../tags/fxa303]]
+- [community-recovery](../tags/community-recovery.md)
+- [creative-arts-interventions](../tags/creative-arts-interventions.md)
+- [disaster-resilience](../tags/disaster-resilience.md)
+- [environmental-connectivity](../tags/environmental-connectivity.md)
+- [flood-recovery](../tags/flood-recovery.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/creative-arts-interventions]]
-- [[../topics/environmental-connectivity]]
-- [[../topics/flood-recovery]]
+- [creative-arts-interventions](../topics/creative-arts-interventions.md)
+- [environmental-connectivity](../topics/environmental-connectivity.md)
+- [flood-recovery](../topics/flood-recovery.md)

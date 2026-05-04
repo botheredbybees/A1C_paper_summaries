@@ -25,5 +25,5 @@ The integration of arts and disability practices seeks to promote inclusion and 
 
 ## Sources
 
-- [[../sources/fxa301-week09-research-overview-arts-and-disability-in-australia]]
-- [[../sources/fxa301-week09-web-article-australia-2018]]
+- [fxa301-week09-research-overview-arts-and-disability-in-australia](../sources/fxa301-week09-research-overview-arts-and-disability-in-australia.md)
+- [fxa301-week09-web-article-australia-2018](../sources/fxa301-week09-web-article-australia-2018.md)

@@ -26,5 +26,5 @@ Expressive writing therapy is a psychological intervention that involves the exp
 
 ## Sources
 
-- [[../sources/fxa202-week09-expressive-writing-therapy-exercises-examples]]
-- [[../sources/fxa202-week09-guide-to-journaling]]
+- [fxa202-week09-expressive-writing-therapy-exercises-examples](../sources/fxa202-week09-expressive-writing-therapy-exercises-examples.md)
+- [fxa202-week09-guide-to-journaling](../sources/fxa202-week09-guide-to-journaling.md)

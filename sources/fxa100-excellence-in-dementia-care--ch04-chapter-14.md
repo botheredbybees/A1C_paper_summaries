@@ -24,15 +24,15 @@ This chapter discusses the unique challenges faced by young-onset families deali
 
 ## Key Concepts
 
-- [[../topics/personhood maximization]]
-- [[../topics/decision-making capacity]]
+- [personhood maximization](../topics/personhood maximization.md)
+- [decision-making capacity](../topics/decision-making capacity.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/care-values]]
-- [[../tags/early-stage-dementia]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [care-values](../tags/care-values.md)
+- [early-stage-dementia](../tags/early-stage-dementia.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ This chapter discusses the unique challenges faced by young-onset families deali
 
 ## See Also
 
-- [[../topics/dementia-care]]
+- [dementia-care](../topics/dementia-care.md)

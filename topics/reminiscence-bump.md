@@ -26,5 +26,5 @@ The concept of the 'musical reminiscence bump' emerges as a central theme in bot
 
 ## Sources
 
-- [[../sources/fxa100-week02-introduction-to-week-2-music-and-the-brain]]
-- [[../sources/fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and]]
+- [fxa100-week02-introduction-to-week-2-music-and-the-brain](../sources/fxa100-week02-introduction-to-week-2-music-and-the-brain.md)
+- [fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and](../sources/fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and.md)

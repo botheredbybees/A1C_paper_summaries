@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Case Study Analysis
 
-- [[../sources/fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities|Week 6 Activities - FXA100 The Arts and Dementia Care]]
+- [Week 6 Activities - FXA100 The Arts and Dementia Care](../sources/fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities.md)

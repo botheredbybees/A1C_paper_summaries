@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Personalized Interventions
 
-- [[../sources/fxa100-week04-music-therapy-benefits-fxa100-the-arts-and-dementia-care|Music Therapy Benefits - FXA100 The Arts and Dementia Care]]
+- [Music Therapy Benefits - FXA100 The Arts and Dementia Care](../sources/fxa100-week04-music-therapy-benefits-fxa100-the-arts-and-dementia-care.md)

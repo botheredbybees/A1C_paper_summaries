@@ -24,15 +24,15 @@ This week's module focuses on puppet therapy, emphasizing the use of puppets in 
 
 ## Key Concepts
 
-- [[../topics/externalization of emotions]]
-- [[../topics/symbolic clients]]
+- [externalization of emotions](../topics/externalization of emotions.md)
+- [symbolic clients](../topics/symbolic clients.md)
 
 ## Tags
 
-- [[../tags/puppet-therapy]]
-- [[../tags/emotional-regulation]]
-- [[../tags/creative-expression]]
-- [[../tags/fxa303]]
+- [puppet-therapy](../tags/puppet-therapy.md)
+- [emotional-regulation](../tags/emotional-regulation.md)
+- [creative-expression](../tags/creative-expression.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
@@ -40,6 +40,6 @@ This week's module focuses on puppet therapy, emphasizing the use of puppets in 
 
 ## See Also
 
-- [[../topics/creative-expression]]
-- [[../topics/emotional-regulation]]
-- [[../topics/puppet-therapy]]
+- [creative-expression](../topics/creative-expression.md)
+- [emotional-regulation](../topics/emotional-regulation.md)
+- [puppet-therapy](../topics/puppet-therapy.md)

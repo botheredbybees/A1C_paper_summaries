@@ -30,9 +30,9 @@ The sources collectively highlight the importance of mastering fundamental photo
 
 ## Sources
 
-- [[../sources/fxa202-week02-10-tips-for-better-composition]]
-- [[../sources/fxa202-week02-a-beginners-guide-to-photo-editing-with-snapseed]]
-- [[../sources/fxa202-week02-improve-your-photography-skills-with-these-9-photo]]
-- [[../sources/fxa202-week02-photography-tips-point-of-view-composition]]
-- [[../sources/fxa202-week02-super-simple-introduction-to-manual-mode-and-how-it-will]]
-- [[../sources/fxa202-week02-week-2-making-pictures]]
+- [fxa202-week02-10-tips-for-better-composition](../sources/fxa202-week02-10-tips-for-better-composition.md)
+- [fxa202-week02-a-beginners-guide-to-photo-editing-with-snapseed](../sources/fxa202-week02-a-beginners-guide-to-photo-editing-with-snapseed.md)
+- [fxa202-week02-improve-your-photography-skills-with-these-9-photo](../sources/fxa202-week02-improve-your-photography-skills-with-these-9-photo.md)
+- [fxa202-week02-photography-tips-point-of-view-composition](../sources/fxa202-week02-photography-tips-point-of-view-composition.md)
+- [fxa202-week02-super-simple-introduction-to-manual-mode-and-how-it-will](../sources/fxa202-week02-super-simple-introduction-to-manual-mode-and-how-it-will.md)
+- [fxa202-week02-week-2-making-pictures](../sources/fxa202-week02-week-2-making-pictures.md)

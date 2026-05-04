@@ -24,16 +24,16 @@ In this article, photographer Jim Richardson discusses the intentional use of ou
 
 ## Key Concepts
 
-- [[../topics/depth-of-field]]
-- [[../topics/aperture-settings]]
-- [[../topics/intentional-blur]]
+- [depth-of-field](../topics/depth-of-field.md)
+- [aperture-settings](../topics/aperture-settings.md)
+- [intentional-blur](../topics/intentional-blur.md)
 
 ## Tags
 
-- [[../tags/photography-techniques]]
-- [[../tags/focus-control]]
-- [[../tags/creative-angles]]
-- [[../tags/fxa202]]
+- [photography-techniques](../tags/photography-techniques.md)
+- [focus-control](../tags/focus-control.md)
+- [creative-angles](../tags/creative-angles.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
@@ -41,4 +41,4 @@ In this article, photographer Jim Richardson discusses the intentional use of ou
 
 ## See Also
 
-- [[../topics/photography-techniques]]
+- [photography-techniques](../topics/photography-techniques.md)

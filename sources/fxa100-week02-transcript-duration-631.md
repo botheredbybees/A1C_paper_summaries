@@ -24,15 +24,15 @@ In this segment from AM Northwest, neuroscientist Daniel Levitin discusses his b
 
 ## Key Concepts
 
-- [[../topics/cognitive reserve]]
-- [[../topics/brain plasticity]]
+- [cognitive reserve](../topics/cognitive reserve.md)
+- [brain plasticity](../topics/brain plasticity.md)
 
 ## Tags
 
-- [[../tags/music-and-health]]
-- [[../tags/neuroscience-of-music]]
-- [[../tags/brain-recovery]]
-- [[../tags/fxa100]]
+- [music-and-health](../tags/music-and-health.md)
+- [neuroscience-of-music](../tags/neuroscience-of-music.md)
+- [brain-recovery](../tags/brain-recovery.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -40,5 +40,5 @@ In this segment from AM Northwest, neuroscientist Daniel Levitin discusses his b
 
 ## See Also
 
-- [[../topics/brain-recovery]]
-- [[../topics/neuroscience-of-music]]
+- [brain-recovery](../topics/brain-recovery.md)
+- [neuroscience-of-music](../topics/neuroscience-of-music.md)

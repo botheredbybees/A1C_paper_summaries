@@ -24,24 +24,24 @@ This week’s content of FXA303 Creative Arts, Play and Mental Wellbeing focuses
 
 ## Key Concepts
 
-- [[../topics/non-verbal-communication]]
-- [[../topics/mediated-expression]]
-- [[../topics/sustainable-practices]]
+- [non-verbal-communication](../topics/non-verbal-communication.md)
+- [mediated-expression](../topics/mediated-expression.md)
+- [sustainable-practices](../topics/sustainable-practices.md)
 
 ## Tags
 
-- [[../tags/emotional-expression]]
-- [[../tags/therapeutic-arts]]
-- [[../tags/puppetry-in-therapy]]
-- [[../tags/mental-wellbeing-through-play]]
-- [[../tags/aged-care-interventions]]
-- [[../tags/fxa303]]
+- [emotional-expression](../tags/emotional-expression.md)
+- [therapeutic-arts](../tags/therapeutic-arts.md)
+- [puppetry-in-therapy](../tags/puppetry-in-therapy.md)
+- [mental-wellbeing-through-play](../tags/mental-wellbeing-through-play.md)
+- [aged-care-interventions](../tags/aged-care-interventions.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/emotional-expression]]
-- [[../topics/therapeutic-arts]]
+- [emotional-expression](../topics/emotional-expression.md)
+- [therapeutic-arts](../topics/therapeutic-arts.md)

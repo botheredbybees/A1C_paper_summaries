@@ -24,16 +24,16 @@ This chapter discusses the importance of proper contractual agreements for artis
 
 ## Key Concepts
 
-- [[../topics/project-contract]]
-- [[../topics/intellectual-property]]
-- [[../topics/ethical-guidelines]]
+- [project-contract](../topics/project-contract.md)
+- [intellectual-property](../topics/intellectual-property.md)
+- [ethical-guidelines](../topics/ethical-guidelines.md)
 
 ## Tags
 
-- [[../tags/healthcare]]
-- [[../tags/artistic-practice]]
-- [[../tags/contract-management]]
-- [[../tags/fxa301]]
+- [healthcare](../tags/healthcare.md)
+- [artistic-practice](../tags/artistic-practice.md)
+- [contract-management](../tags/contract-management.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,4 +41,4 @@ This chapter discusses the importance of proper contractual agreements for artis
 
 ## See Also
 
-- [[../topics/healthcare]]
+- [healthcare](../topics/healthcare.md)

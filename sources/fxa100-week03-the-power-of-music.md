@@ -24,22 +24,22 @@ Oliver Sacks' commentary in Brain explores the unique influence of music on huma
 
 ## Key Concepts
 
-- [[../topics/therapeutic-benefits]]
-- [[../topics/emotional-responses]]
+- [therapeutic-benefits](../topics/therapeutic-benefits.md)
+- [emotional-responses](../topics/emotional-responses.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/neuroscience-of-music]]
-- [[../tags/human-behavior]]
-- [[../tags/fxa100]]
+- [music-therapy](../tags/music-therapy.md)
+- [neuroscience-of-music](../tags/neuroscience-of-music.md)
+- [human-behavior](../tags/human-behavior.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/human-behavior]]
-- [[../topics/music-therapy]]
-- [[../topics/neuroscience-of-music]]
+- [human-behavior](../topics/human-behavior.md)
+- [music-therapy](../topics/music-therapy.md)
+- [neuroscience-of-music](../topics/neuroscience-of-music.md)

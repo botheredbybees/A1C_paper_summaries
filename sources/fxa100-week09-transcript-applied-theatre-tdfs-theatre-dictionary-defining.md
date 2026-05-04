@@ -24,15 +24,15 @@ The transcript defines and discusses the concept of applied theatre, where drama
 
 ## Key Concepts
 
-- [[../topics/cyberbullying intervention]]
-- [[../topics/audience engagement]]
+- [cyberbullying intervention](../topics/cyberbullying intervention.md)
+- [audience engagement](../topics/audience engagement.md)
 
 ## Tags
 
-- [[../tags/applied-theatre]]
-- [[../tags/social-issues]]
-- [[../tags/interactive-performance]]
-- [[../tags/fxa100]]
+- [applied-theatre](../tags/applied-theatre.md)
+- [social-issues](../tags/social-issues.md)
+- [interactive-performance](../tags/interactive-performance.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ The transcript defines and discusses the concept of applied theatre, where drama
 
 ## See Also
 
-- [[../topics/applied-theatre]]
+- [applied-theatre](../topics/applied-theatre.md)

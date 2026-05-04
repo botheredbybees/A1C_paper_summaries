@@ -26,5 +26,5 @@ The synthesis integrates insights from a clinical and research program focusing 
 
 ## Sources
 
-- [[../sources/fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy]]
-- [[../sources/fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there]]
+- [fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy](../sources/fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy.md)
+- [fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there](../sources/fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there.md)

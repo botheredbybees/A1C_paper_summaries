@@ -27,6 +27,6 @@ The concept of aesthetic experience encompasses the neurological and psychologic
 
 ## Sources
 
-- [[../sources/fxa100-week06-motion-emotion-and-empathy-in-aesthetic-experience]]
-- [[../sources/fxa100-week06-the-brain-on-art-intense-aesthetic-experience-activates-the]]
-- [[../sources/fxa301-week02-visualizing-the-impact-of-art-an-update-and-comparison-of]]
+- [fxa100-week06-motion-emotion-and-empathy-in-aesthetic-experience](../sources/fxa100-week06-motion-emotion-and-empathy-in-aesthetic-experience.md)
+- [fxa100-week06-the-brain-on-art-intense-aesthetic-experience-activates-the](../sources/fxa100-week06-the-brain-on-art-intense-aesthetic-experience-activates-the.md)
+- [fxa301-week02-visualizing-the-impact-of-art-an-update-and-comparison-of](../sources/fxa301-week02-visualizing-the-impact-of-art-an-update-and-comparison-of.md)

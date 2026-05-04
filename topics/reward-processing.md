@@ -26,5 +26,5 @@ The study of reward processing within neuroscience integrates both clinical and 
 
 ## Sources
 
-- [[../sources/fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro]]
-- [[../sources/fxa303-week03-adolescent-neurodevelopment]]
+- [fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro](../sources/fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro.md)
+- [fxa303-week03-adolescent-neurodevelopment](../sources/fxa303-week03-adolescent-neurodevelopment.md)

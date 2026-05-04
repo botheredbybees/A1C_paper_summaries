@@ -24,26 +24,26 @@ The document 'Guidelines for Arts and Mental Health Projects' compiled by Simone
 
 ## Key Concepts
 
-- [[../topics/cultural-expression]]
-- [[../topics/personal-growth-through-art]]
-- [[../topics/safe-supportive-environments]]
+- [cultural-expression](../topics/cultural-expression.md)
+- [personal-growth-through-art](../topics/personal-growth-through-art.md)
+- [safe-supportive-environments](../topics/safe-supportive-environments.md)
 
 ## Tags
 
-- [[../tags/arts-therapy]]
-- [[../tags/mental-health-interventions]]
-- [[../tags/community-wellbeing]]
-- [[../tags/collaborative-practice]]
-- [[../tags/social-inclusion]]
-- [[../tags/fxa100]]
+- [arts-therapy](../tags/arts-therapy.md)
+- [mental-health-interventions](../tags/mental-health-interventions.md)
+- [community-wellbeing](../tags/community-wellbeing.md)
+- [collaborative-practice](../tags/collaborative-practice.md)
+- [social-inclusion](../tags/social-inclusion.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[guidelines-development]]
+- [guidelines-development](guidelines-development.md)
 
 ## See Also
 
-- [[../topics/arts-therapy]]
-- [[../topics/community-wellbeing]]
-- [[../topics/mental-health-interventions]]
-- [[../topics/social-inclusion]]
+- [arts-therapy](../topics/arts-therapy.md)
+- [community-wellbeing](../topics/community-wellbeing.md)
+- [mental-health-interventions](../topics/mental-health-interventions.md)
+- [social-inclusion](../topics/social-inclusion.md)

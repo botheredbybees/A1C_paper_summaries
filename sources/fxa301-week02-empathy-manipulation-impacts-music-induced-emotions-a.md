@@ -24,25 +24,25 @@ This study explores the influence of cognitive empathy on music-induced emotions
 
 ## Key Concepts
 
-- [[../topics/cognitive empathy]]
-- [[../topics/music-induced emotions]]
-- [[../topics/psychophysiology]]
+- [cognitive empathy](../topics/cognitive empathy.md)
+- [music-induced emotions](../topics/music-induced emotions.md)
+- [psychophysiology](../topics/psychophysiology.md)
 
 ## Tags
 
-- [[../tags/cognitive-empathy]]
-- [[../tags/music-psychology]]
-- [[../tags/physiological-responses]]
-- [[../tags/emotional-experience]]
-- [[../tags/operatic-performance]]
-- [[../tags/fxa301]]
+- [cognitive-empathy](../tags/cognitive-empathy.md)
+- [music-psychology](../tags/music-psychology.md)
+- [physiological-responses](../tags/physiological-responses.md)
+- [emotional-experience](../tags/emotional-experience.md)
+- [operatic-performance](../tags/operatic-performance.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[psychophysiological study]]
+- [psychophysiological study](psychophysiological study.md)
 
 ## See Also
 
-- [[../topics/emotional-experience]]
-- [[../topics/music-psychology]]
-- [[../topics/physiological-responses]]
+- [emotional-experience](../topics/emotional-experience.md)
+- [music-psychology](../topics/music-psychology.md)
+- [physiological-responses](../topics/physiological-responses.md)

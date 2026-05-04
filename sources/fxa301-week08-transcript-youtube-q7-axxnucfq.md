@@ -24,15 +24,15 @@ The provided content is a poetic excerpt from the poem 'If' by Rudyard Kipling, 
 
 ## Key Concepts
 
-- [[../topics/appreciation of nature]]
-- [[../topics/the importance of pauses in life]]
+- [appreciation of nature](../topics/appreciation of nature.md)
+- [the importance of pauses in life](../topics/the importance of pauses in life.md)
 
 ## Tags
 
-- [[../tags/poetry]]
-- [[../tags/time-management]]
-- [[../tags/life-reflections]]
-- [[../tags/fxa301]]
+- [poetry](../tags/poetry.md)
+- [time-management](../tags/time-management.md)
+- [life-reflections](../tags/life-reflections.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ The provided content is a poetic excerpt from the poem 'If' by Rudyard Kipling, 
 
 ## See Also
 
-- [[../topics/poetry]]
+- [poetry](../topics/poetry.md)

@@ -24,27 +24,27 @@ This commentary introduces the National Arts and Health Framework endorsed by Au
 
 ## Key Concepts
 
-- [[../topics/National Arts and Health Framework]]
-- [[../topics/health-environment-integration]]
-- [[../topics/art-therapy-versus-general-engagement]]
+- [National Arts and Health Framework](../topics/National Arts and Health Framework.md)
+- [health-environment-integration](../topics/health-environment-integration.md)
+- [art-therapy-versus-general-engagement](../topics/art-therapy-versus-general-engagement.md)
 
 ## Tags
 
-- [[../tags/arts-in-health]]
-- [[../tags/public-health-policy]]
-- [[../tags/mental-well-being]]
-- [[../tags/social-connections]]
-- [[../tags/physical-activity]]
-- [[../tags/fxa301]]
+- [arts-in-health](../tags/arts-in-health.md)
+- [public-health-policy](../tags/public-health-policy.md)
+- [mental-well-being](../tags/mental-well-being.md)
+- [social-connections](../tags/social-connections.md)
+- [physical-activity](../tags/physical-activity.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[lexicon-development]]
+- [lexicon-development](lexicon-development.md)
 
 ## See Also
 
-- [[../topics/arts-in-health]]
-- [[../topics/mental-well-being]]
-- [[../topics/physical-activity]]
-- [[../topics/public-health-policy]]
-- [[../topics/social-connections]]
+- [arts-in-health](../topics/arts-in-health.md)
+- [mental-well-being](../topics/mental-well-being.md)
+- [physical-activity](../topics/physical-activity.md)
+- [public-health-policy](../topics/public-health-policy.md)
+- [social-connections](../topics/social-connections.md)

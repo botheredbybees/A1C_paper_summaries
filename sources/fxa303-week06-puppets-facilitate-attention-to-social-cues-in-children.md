@@ -26,25 +26,25 @@ This research article explores the effectiveness of using puppets as social agen
 
 ## Key Concepts
 
-- [[../topics/attention-to-social-cues]]
-- [[../topics/reciprocal-interactions]]
-- [[../topics/simplified-social-stimuli]]
+- [attention-to-social-cues](../topics/attention-to-social-cues.md)
+- [reciprocal-interactions](../topics/reciprocal-interactions.md)
+- [simplified-social-stimuli](../topics/simplified-social-stimuli.md)
 
 ## Tags
 
-- [[../tags/autism-spectrum-disorder]]
-- [[../tags/social-communication-skills]]
-- [[../tags/therapeutic-interventions]]
-- [[../tags/puppet-therapy]]
-- [[../tags/visual-attention]]
-- [[../tags/fxa303]]
+- [autism-spectrum-disorder](../tags/autism-spectrum-disorder.md)
+- [social-communication-skills](../tags/social-communication-skills.md)
+- [therapeutic-interventions](../tags/therapeutic-interventions.md)
+- [puppet-therapy](../tags/puppet-therapy.md)
+- [visual-attention](../tags/visual-attention.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-control-comparison]]
+- [case-control-comparison](case-control-comparison.md)
 
 ## See Also
 
-- [[../topics/autism-spectrum-disorder]]
-- [[../topics/puppet-therapy]]
-- [[../topics/therapeutic-interventions]]
+- [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)
+- [puppet-therapy](../topics/puppet-therapy.md)
+- [therapeutic-interventions](../topics/therapeutic-interventions.md)

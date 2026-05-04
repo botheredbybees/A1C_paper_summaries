@@ -25,5 +25,5 @@ The investigation into coulrophobia reveals conflicting perspectives on the orig
 
 ## Sources
 
-- [[../sources/fxa303-week08-fear-of-clowns-an-investigation-into-the-aetiology-of]]
-- [[../sources/fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective]]
+- [fxa303-week08-fear-of-clowns-an-investigation-into-the-aetiology-of](../sources/fxa303-week08-fear-of-clowns-an-investigation-into-the-aetiology-of.md)
+- [fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective](../sources/fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective.md)

@@ -26,25 +26,25 @@ Through her project, Higgins employs photography as a therapeutic tool, engaging
 
 ## Key Concepts
 
-- [[../topics/therapeutic-photography]]
-- [[../topics/emotional-coping-mechanisms]]
-- [[../topics/self-reconstruction-through-art]]
+- [therapeutic-photography](../topics/therapeutic-photography.md)
+- [emotional-coping-mechanisms](../topics/emotional-coping-mechanisms.md)
+- [self-reconstruction-through-art](../topics/self-reconstruction-through-art.md)
 
 ## Tags
 
-- [[../tags/visual-storytelling]]
-- [[../tags/grief-process]]
-- [[../tags/photography-as-therapy]]
-- [[../tags/personal-narrative]]
-- [[../tags/loss-and-healing]]
-- [[../tags/fxa202]]
+- [visual-storytelling](../tags/visual-storytelling.md)
+- [grief-process](../tags/grief-process.md)
+- [photography-as-therapy](../tags/photography-as-therapy.md)
+- [personal-narrative](../tags/personal-narrative.md)
+- [loss-and-healing](../tags/loss-and-healing.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[photographic-essay]]
+- [photographic-essay](photographic-essay.md)
 
 ## See Also
 
-- [[../topics/personal-narrative]]
-- [[../topics/photography-as-therapy]]
-- [[../topics/visual-storytelling]]
+- [personal-narrative](../topics/personal-narrative.md)
+- [photography-as-therapy](../topics/photography-as-therapy.md)
+- [visual-storytelling](../topics/visual-storytelling.md)

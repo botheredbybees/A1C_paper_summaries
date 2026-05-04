@@ -26,18 +26,18 @@ This lesson focuses on structuring visual stories through photo essays. It cover
 
 ## Key Concepts
 
-- [[../topics/lead photo]]
-- [[../topics/establishing shot]]
-- [[../topics/closing shot]]
-- [[../topics/story structure]]
+- [lead photo](../topics/lead photo.md)
+- [establishing shot](../topics/establishing shot.md)
+- [closing shot](../topics/closing shot.md)
+- [story structure](../topics/story structure.md)
 
 ## Tags
 
-- [[../tags/visual-storytelling]]
-- [[../tags/photo-essays]]
-- [[../tags/linear-stories]]
-- [[../tags/non-linear-stories]]
-- [[../tags/fxa202]]
+- [visual-storytelling](../tags/visual-storytelling.md)
+- [photo-essays](../tags/photo-essays.md)
+- [linear-stories](../tags/linear-stories.md)
+- [non-linear-stories](../tags/non-linear-stories.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
@@ -45,5 +45,5 @@ This lesson focuses on structuring visual stories through photo essays. It cover
 
 ## See Also
 
-- [[../topics/photo-essays]]
-- [[../topics/visual-storytelling]]
+- [photo-essays](../topics/photo-essays.md)
+- [visual-storytelling](../topics/visual-storytelling.md)

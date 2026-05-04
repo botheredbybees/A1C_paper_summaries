@@ -24,31 +24,31 @@ The document discusses the growing recognition of creative health's potential to
 
 ## Key Concepts
 
-- [[../topics/Creative Health]]
-- [[../topics/Health Inequalities]]
-- [[../topics/Sustainable Development Goals]]
-- [[../topics/Cost-Effectiveness Analysis]]
-- [[../topics/Arts-Based Social Prescribing]]
+- [Creative Health](../topics/Creative Health.md)
+- [Health Inequalities](../topics/Health Inequalities.md)
+- [Sustainable Development Goals](../topics/Sustainable Development Goals.md)
+- [Cost-Effectiveness Analysis](../topics/Cost-Effectiveness Analysis.md)
+- [Arts-Based Social Prescribing](../topics/Arts-Based Social Prescribing.md)
 
 ## Tags
 
-- [[../tags/creative-health]]
-- [[../tags/well-being]]
-- [[../tags/health-inequalities]]
-- [[../tags/cost-effectiveness]]
-- [[../tags/arts-in-healthcare]]
-- [[../tags/social-care]]
-- [[../tags/fxa301]]
+- [creative-health](../tags/creative-health.md)
+- [well-being](../tags/well-being.md)
+- [health-inequalities](../tags/health-inequalities.md)
+- [cost-effectiveness](../tags/cost-effectiveness.md)
+- [arts-in-healthcare](../tags/arts-in-healthcare.md)
+- [social-care](../tags/social-care.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[economic evaluation]]
-- [[systematic review]]
+- [economic evaluation](economic evaluation.md)
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/arts-in-healthcare]]
-- [[../topics/creative-health]]
-- [[../topics/health-inequalities]]
-- [[../topics/social-care]]
-- [[../topics/well-being]]
+- [arts-in-healthcare](../topics/arts-in-healthcare.md)
+- [creative-health](../topics/creative-health.md)
+- [health-inequalities](../topics/health-inequalities.md)
+- [social-care](../topics/social-care.md)
+- [well-being](../topics/well-being.md)

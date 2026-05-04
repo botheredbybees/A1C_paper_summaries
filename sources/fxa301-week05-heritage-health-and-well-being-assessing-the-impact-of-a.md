@@ -24,24 +24,24 @@ This article explores the impact of a heritage-focused intervention on health an
 
 ## Key Concepts
 
-- [[../topics/mental-health-benefits]]
-- [[../topics/social-interaction]]
-- [[../topics/individual-experience-motivation]]
+- [mental-health-benefits](../topics/mental-health-benefits.md)
+- [social-interaction](../topics/social-interaction.md)
+- [individual-experience-motivation](../topics/individual-experience-motivation.md)
 
 ## Tags
 
-- [[../tags/heritage-therapy]]
-- [[../tags/patient-wellbeing]]
-- [[../tags/healthcare-interventions]]
-- [[../tags/museum-collections]]
-- [[../tags/fxa301]]
+- [heritage-therapy](../tags/heritage-therapy.md)
+- [patient-wellbeing](../tags/patient-wellbeing.md)
+- [healthcare-interventions](../tags/healthcare-interventions.md)
+- [museum-collections](../tags/museum-collections.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[qualitative-evaluation]]
+- [qualitative-evaluation](qualitative-evaluation.md)
 
 ## See Also
 
-- [[../topics/healthcare-interventions]]
-- [[../topics/museum-collections]]
-- [[../topics/patient-wellbeing]]
+- [healthcare-interventions](../topics/healthcare-interventions.md)
+- [museum-collections](../topics/museum-collections.md)
+- [patient-wellbeing](../topics/patient-wellbeing.md)

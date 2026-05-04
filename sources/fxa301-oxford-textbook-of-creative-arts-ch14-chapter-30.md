@@ -25,16 +25,16 @@ This chapter details the Active Energy project, initiated through an art commiss
 
 ## Key Concepts
 
-- [[../topics/democratization-of-technology]]
-- [[../topics/intergenerational-partnerships]]
-- [[../topics/social-innovation]]
+- [democratization-of-technology](../topics/democratization-of-technology.md)
+- [intergenerational-partnerships](../topics/intergenerational-partnerships.md)
+- [social-innovation](../topics/social-innovation.md)
 
 ## Tags
 
-- [[../tags/creative-thinking]]
-- [[../tags/community-engagement]]
-- [[../tags/renewable-energy]]
-- [[../tags/fxa301]]
+- [creative-thinking](../tags/creative-thinking.md)
+- [community-engagement](../tags/community-engagement.md)
+- [renewable-energy](../tags/renewable-energy.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -42,4 +42,4 @@ This chapter details the Active Energy project, initiated through an art commiss
 
 ## See Also
 
-- [[../topics/renewable-energy]]
+- [renewable-energy](../topics/renewable-energy.md)

@@ -26,5 +26,5 @@ The integration of visual arts therapy in dementia care illustrates a shift towa
 
 ## Sources
 
-- [[../sources/fxa100-week08-it-makes-me-feel-like-myself-person-centered-versus]]
-- [[../sources/fxa100-week08-lesson-fxa100-week07-page-3-stimulating-engagement]]
+- [fxa100-week08-it-makes-me-feel-like-myself-person-centered-versus](../sources/fxa100-week08-it-makes-me-feel-like-myself-person-centered-versus.md)
+- [fxa100-week08-lesson-fxa100-week07-page-3-stimulating-engagement](../sources/fxa100-week08-lesson-fxa100-week07-page-3-stimulating-engagement.md)

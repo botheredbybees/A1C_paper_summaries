@@ -28,7 +28,7 @@ The integration of creative arts into community health interventions offers a mu
 
 ## Sources
 
-- [[../sources/fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6]]
-- [[../sources/fxa301-week01-lesson-fxa301-week01-troubleshooting1]]
-- [[../sources/fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using]]
-- [[../sources/fxa301-week08-week-8-lecture-applying-theatre-and-literature-for-health]]
+- [fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6](../sources/fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6.md)
+- [fxa301-week01-lesson-fxa301-week01-troubleshooting1](../sources/fxa301-week01-lesson-fxa301-week01-troubleshooting1.md)
+- [fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using](../sources/fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using.md)
+- [fxa301-week08-week-8-lecture-applying-theatre-and-literature-for-health](../sources/fxa301-week08-week-8-lecture-applying-theatre-and-literature-for-health.md)

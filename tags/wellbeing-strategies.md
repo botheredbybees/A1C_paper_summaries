@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Wellbeing Strategies
 
-- [[../sources/fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract|Mental Health and Wellbeing across the Life Course - Extract]]
+- [Mental Health and Wellbeing across the Life Course - Extract](../sources/fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract.md)

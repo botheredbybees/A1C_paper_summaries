@@ -27,6 +27,6 @@ The provided sources explore various aspects of survey research methodologies, w
 
 ## Sources
 
-- [[../sources/fxa301-week01-web-article-australia-2023]]
-- [[../sources/fxa301-week05-an-education-in-music-makes-you-a-better-employee-are]]
-- [[../sources/fxa303-week08-fear-of-clowns-an-investigation-into-the-aetiology-of]]
+- [fxa301-week01-web-article-australia-2023](../sources/fxa301-week01-web-article-australia-2023.md)
+- [fxa301-week05-an-education-in-music-makes-you-a-better-employee-are](../sources/fxa301-week05-an-education-in-music-makes-you-a-better-employee-are.md)
+- [fxa303-week08-fear-of-clowns-an-investigation-into-the-aetiology-of](../sources/fxa303-week08-fear-of-clowns-an-investigation-into-the-aetiology-of.md)

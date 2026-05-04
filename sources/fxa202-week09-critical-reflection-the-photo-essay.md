@@ -24,23 +24,23 @@ Wendy Whiley's critical reflection explores her personal journey in embracing de
 
 ## Key Concepts
 
-- [[../topics/death-as-natural-process]]
-- [[../topics/beauty-in-decay]]
-- [[../topics/ugliness-stimulates-imagination]]
+- [death-as-natural-process](../topics/death-as-natural-process.md)
+- [beauty-in-decay](../topics/beauty-in-decay.md)
+- [ugliness-stimulates-imagination](../topics/ugliness-stimulates-imagination.md)
 
 ## Tags
 
-- [[../tags/nature-photography]]
-- [[../tags/critical-reflection]]
-- [[../tags/mortality-acceptance]]
-- [[../tags/personal-growth]]
-- [[../tags/aesthetic-theory]]
-- [[../tags/philosophy-of-death]]
-- [[../tags/fxa202]]
+- [nature-photography](../tags/nature-photography.md)
+- [critical-reflection](../tags/critical-reflection.md)
+- [mortality-acceptance](../tags/mortality-acceptance.md)
+- [personal-growth](../tags/personal-growth.md)
+- [aesthetic-theory](../tags/aesthetic-theory.md)
+- [philosophy-of-death](../tags/philosophy-of-death.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[photo-essay]]
+- [photo-essay](photo-essay.md)
 
 ## See Also
 

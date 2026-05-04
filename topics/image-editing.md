@@ -29,8 +29,8 @@ The provided sources collectively address various aspects of image editing techn
 
 ## Sources
 
-- [[../sources/fxa202-week08-how-to-merge-and-combine-images-in-photoshop]]
-- [[../sources/fxa202-week08-lesson-fxa202-week08-page-4]]
-- [[../sources/fxa202-week08-lesson-fxa202-week08-week-8]]
-- [[../sources/fxa202-week08-making-basic-adjustments-tutorial-at-gcflearnfree]]
-- [[../sources/fxa202-week08-week-8-web-lecture-editing-your-images]]
+- [fxa202-week08-how-to-merge-and-combine-images-in-photoshop](../sources/fxa202-week08-how-to-merge-and-combine-images-in-photoshop.md)
+- [fxa202-week08-lesson-fxa202-week08-page-4](../sources/fxa202-week08-lesson-fxa202-week08-page-4.md)
+- [fxa202-week08-lesson-fxa202-week08-week-8](../sources/fxa202-week08-lesson-fxa202-week08-week-8.md)
+- [fxa202-week08-making-basic-adjustments-tutorial-at-gcflearnfree](../sources/fxa202-week08-making-basic-adjustments-tutorial-at-gcflearnfree.md)
+- [fxa202-week08-week-8-web-lecture-editing-your-images](../sources/fxa202-week08-week-8-web-lecture-editing-your-images.md)

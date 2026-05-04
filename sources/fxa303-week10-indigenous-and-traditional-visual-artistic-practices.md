@@ -28,22 +28,22 @@ Kaimal and Arslanbek also discuss the importance of integrating traditional wisd
 
 ## Key Concepts
 
-- [[../topics/cultural-sensitivity-in-art-therapy]]
-- [[../topics/integrated-traditional-wisdom]]
-- [[../topics/non-verbal-communication]]
+- [cultural-sensitivity-in-art-therapy](../topics/cultural-sensitivity-in-art-therapy.md)
+- [integrated-traditional-wisdom](../topics/integrated-traditional-wisdom.md)
+- [non-verbal-communication](../topics/non-verbal-communication.md)
 
 ## Tags
 
-- [[../tags/art-therapy]]
-- [[../tags/indigenous-practices]]
-- [[../tags/traditional-healing]]
-- [[../tags/mental-health-interventions]]
-- [[../tags/cross-cultural-research]]
-- [[../tags/fxa303]]
+- [art-therapy](../tags/art-therapy.md)
+- [indigenous-practices](../tags/indigenous-practices.md)
+- [traditional-healing](../tags/traditional-healing.md)
+- [mental-health-interventions](../tags/mental-health-interventions.md)
+- [cross-cultural-research](../tags/cross-cultural-research.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[review]]
+- **review**
 
 ## See Also
 

@@ -26,5 +26,5 @@ Jesse Silverberg's exploration of mosh pit dynamics in heavy metal concerts high
 
 ## Sources
 
-- [[../sources/fxa100-week02-transcript-moshing-with-physics-jesse-silverberg-tedxyale]]
-- [[../sources/fxa301-week06-brisbanes-pub-choir-movement-marks-first-year]]
+- [fxa100-week02-transcript-moshing-with-physics-jesse-silverberg-tedxyale](../sources/fxa100-week02-transcript-moshing-with-physics-jesse-silverberg-tedxyale.md)
+- [fxa301-week06-brisbanes-pub-choir-movement-marks-first-year](../sources/fxa301-week06-brisbanes-pub-choir-movement-marks-first-year.md)

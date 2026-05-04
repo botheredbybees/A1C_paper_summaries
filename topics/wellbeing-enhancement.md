@@ -27,6 +27,6 @@ Research demonstrates that arts and music interventions significantly enhance we
 
 ## Sources
 
-- [[../sources/fxa100-week08-research-informed-approaches-to-visual-arts-programmes]]
-- [[../sources/fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing]]
-- [[../sources/fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing]]
+- [fxa100-week08-research-informed-approaches-to-visual-arts-programmes](../sources/fxa100-week08-research-informed-approaches-to-visual-arts-programmes.md)
+- [fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing](../sources/fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing.md)
+- [fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing](../sources/fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing.md)

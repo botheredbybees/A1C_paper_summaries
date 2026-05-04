@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Applied Theater
 
-- [[../sources/fxa301-week08-transcript-youtube-channel-school-of-education-and|Applied Theater: Storytelling Beyond Traditional Stages]]
+- [Applied Theater: Storytelling Beyond Traditional Stages](../sources/fxa301-week08-transcript-youtube-channel-school-of-education-and.md)

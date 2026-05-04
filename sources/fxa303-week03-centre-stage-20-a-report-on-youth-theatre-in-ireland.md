@@ -24,20 +24,20 @@ The document 'Centre Stage +20' is a comprehensive research report by Rhona Dunn
 
 ## Key Concepts
 
-- [[../topics/real-interaction]]
-- [[../topics/active-engagement]]
-- [[../topics/underpayment-challenges]]
+- [real-interaction](../topics/real-interaction.md)
+- [active-engagement](../topics/active-engagement.md)
+- [underpayment-challenges](../topics/underpayment-challenges.md)
 
 ## Tags
 
-- [[../tags/youth-theatre-ireland]]
-- [[../tags/community-engagement]]
-- [[../tags/theatre-for-wellbeing]]
-- [[../tags/fxa303]]
+- [youth-theatre-ireland](../tags/youth-theatre-ireland.md)
+- [community-engagement](../tags/community-engagement.md)
+- [theatre-for-wellbeing](../tags/theatre-for-wellbeing.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 

@@ -28,27 +28,27 @@ The document emphasizes the importance of allowing those with dementia to share 
 
 ## Key Concepts
 
-- [[../topics/memory trees]]
-- [[../topics/memory boxes]]
-- [[../topics/sensory stimulation]]
-- [[../topics/dialogic engagement]]
-- [[../topics/personal identity]]
+- [memory trees](../topics/memory trees.md)
+- [memory boxes](../topics/memory boxes.md)
+- [sensory stimulation](../topics/sensory stimulation.md)
+- [dialogic engagement](../topics/dialogic engagement.md)
+- [personal identity](../topics/personal identity.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/memory-aids]]
-- [[../tags/elderly-engagement]]
-- [[../tags/narrative-therapy]]
-- [[../tags/cultural-memory]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [memory-aids](../tags/memory-aids.md)
+- [elderly-engagement](../tags/elderly-engagement.md)
+- [narrative-therapy](../tags/narrative-therapy.md)
+- [cultural-memory](../tags/cultural-memory.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/elderly-engagement]]
-- [[../topics/narrative-therapy]]
+- [dementia-care](../topics/dementia-care.md)
+- [elderly-engagement](../topics/elderly-engagement.md)
+- [narrative-therapy](../topics/narrative-therapy.md)

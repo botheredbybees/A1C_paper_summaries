@@ -28,7 +28,7 @@ The investigation of brain connectivity spans various methodologies including fu
 
 ## Sources
 
-- [[../sources/fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual]]
-- [[../sources/fxa303-week04-age-related-differences-in-white-matter-diffusion-measures]]
-- [[../sources/fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between]]
-- [[../sources/fxa303-week04-what-does-autism-look-like-in-the-brain]]
+- [fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual](../sources/fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual.md)
+- [fxa303-week04-age-related-differences-in-white-matter-diffusion-measures](../sources/fxa303-week04-age-related-differences-in-white-matter-diffusion-measures.md)
+- [fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between](../sources/fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between.md)
+- [fxa303-week04-what-does-autism-look-like-in-the-brain](../sources/fxa303-week04-what-does-autism-look-like-in-the-brain.md)

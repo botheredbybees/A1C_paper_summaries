@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Memory Aids
 
-- [[../sources/fxa100-week07-creating-resources-memory-trees-and-boxes|Creating Resources - Memory Trees and Boxes]]
+- [Creating Resources - Memory Trees and Boxes](../sources/fxa100-week07-creating-resources-memory-trees-and-boxes.md)

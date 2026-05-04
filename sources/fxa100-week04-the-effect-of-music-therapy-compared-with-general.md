@@ -24,23 +24,23 @@ This study compares the effects of music therapy with general recreational activ
 
 ## Key Concepts
 
-- [[../topics/dementia]]
-- [[../topics/music therapy]]
-- [[../topics/agitation]]
+- [dementia](../topics/dementia.md)
+- [music therapy](../topics/music therapy.md)
+- [agitation](../topics/agitation.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/music-therapy]]
-- [[../tags/recreational-activities]]
-- [[../tags/agitation-management]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [music-therapy](../tags/music-therapy.md)
+- [recreational-activities](../tags/recreational-activities.md)
+- [agitation-management](../tags/agitation-management.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[randomised controlled trial]]
+- [randomised controlled trial](randomised controlled trial.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/music-therapy]]
+- [dementia-care](../topics/dementia-care.md)
+- [music-therapy](../topics/music-therapy.md)

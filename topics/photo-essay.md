@@ -26,5 +26,5 @@ The photo essay is a method of visual storytelling that integrates images and te
 
 ## Sources
 
-- [[../sources/fxa202-week01-lesson-fxa202-week01-chapter-3-what-is-a-photo-essay]]
-- [[../sources/fxa202-week02-welcome-to-week-2-using-your-camera]]
+- [fxa202-week01-lesson-fxa202-week01-chapter-3-what-is-a-photo-essay](../sources/fxa202-week01-lesson-fxa202-week01-chapter-3-what-is-a-photo-essay.md)
+- [fxa202-week02-welcome-to-week-2-using-your-camera](../sources/fxa202-week02-welcome-to-week-2-using-your-camera.md)

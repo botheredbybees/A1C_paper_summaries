@@ -24,28 +24,28 @@ This study, conducted by Margareta Rämgård, Elisabeth Carlson, and Elisabeth M
 
 ## Key Concepts
 
-- [[../topics/interaction-strategies]]
-- [[../topics/cultural-awareness]]
-- [[../topics/sensory-triggers]]
+- [interaction-strategies](../topics/interaction-strategies.md)
+- [cultural-awareness](../topics/cultural-awareness.md)
+- [sensory-triggers](../topics/sensory-triggers.md)
 
 ## Tags
 
-- [[../tags/medical-clowns]]
-- [[../tags/dementia-care]]
-- [[../tags/ethnographic-research]]
-- [[../tags/cultural-diversity]]
-- [[../tags/social-interaction]]
-- [[../tags/residential-care]]
-- [[../tags/fxa303]]
+- [medical-clowns](../tags/medical-clowns.md)
+- [dementia-care](../tags/dementia-care.md)
+- [ethnographic-research](../tags/ethnographic-research.md)
+- [cultural-diversity](../tags/cultural-diversity.md)
+- [social-interaction](../tags/social-interaction.md)
+- [residential-care](../tags/residential-care.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[ethnographic-study]]
+- [ethnographic-study](ethnographic-study.md)
 
 ## See Also
 
-- [[../topics/cultural-diversity]]
-- [[../topics/dementia-care]]
-- [[../topics/ethnographic-research]]
-- [[../topics/medical-clowns]]
-- [[../topics/social-interaction]]
+- [cultural-diversity](../topics/cultural-diversity.md)
+- [dementia-care](../topics/dementia-care.md)
+- [ethnographic-research](../topics/ethnographic-research.md)
+- [medical-clowns](../topics/medical-clowns.md)
+- [social-interaction](../topics/social-interaction.md)

@@ -24,23 +24,23 @@ This study evaluates the effectiveness of the Sharing Stories youth theatre prog
 
 ## Key Concepts
 
-- [[../topics/interactive-theatre-strategy]]
-- [[../topics/sexual-health-knowledge]]
-- [[../topics/cultural-diversity-in-education]]
+- [interactive-theatre-strategy](../topics/interactive-theatre-strategy.md)
+- [sexual-health-knowledge](../topics/sexual-health-knowledge.md)
+- [cultural-diversity-in-education](../topics/cultural-diversity-in-education.md)
 
 ## Tags
 
-- [[../tags/sexual-health-promotion]]
-- [[../tags/multicultural-youth]]
-- [[../tags/theatre-education]]
-- [[../tags/peer-education]]
-- [[../tags/drama-based-learning]]
-- [[../tags/fxa301]]
+- [sexual-health-promotion](../tags/sexual-health-promotion.md)
+- [multicultural-youth](../tags/multicultural-youth.md)
+- [theatre-education](../tags/theatre-education.md)
+- [peer-education](../tags/peer-education.md)
+- [drama-based-learning](../tags/drama-based-learning.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[mixed-methods-design]]
-- [[workshop-evaluation]]
+- [mixed-methods-design](mixed-methods-design.md)
+- [workshop-evaluation](workshop-evaluation.md)
 
 ## See Also
 

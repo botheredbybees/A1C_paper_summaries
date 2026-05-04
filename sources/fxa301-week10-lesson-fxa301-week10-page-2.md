@@ -24,17 +24,17 @@ This lesson discusses two case studies in therapeutic creative arts for mental h
 
 ## Key Concepts
 
-- [[../topics/social-bonding]]
-- [[../topics/emotional-regulation]]
-- [[../topics/personal-growth]]
+- [social-bonding](../topics/social-bonding.md)
+- [emotional-regulation](../topics/emotional-regulation.md)
+- [personal-growth](../topics/personal-growth.md)
 
 ## Tags
 
-- [[../tags/therapeutic-arts]]
-- [[../tags/mental-health-support]]
-- [[../tags/community-singing-groups]]
-- [[../tags/art-therapy]]
-- [[../tags/fxa301]]
+- [therapeutic-arts](../tags/therapeutic-arts.md)
+- [mental-health-support](../tags/mental-health-support.md)
+- [community-singing-groups](../tags/community-singing-groups.md)
+- [art-therapy](../tags/art-therapy.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

@@ -24,27 +24,27 @@ The study explores the communication skills and therapeutic goals of medical clo
 
 ## Key Concepts
 
-- [[../topics/medical clowns]]
-- [[../topics/communication skills]]
-- [[../topics/therapeutic goals]]
+- [medical clowns](../topics/medical clowns.md)
+- [communication skills](../topics/communication skills.md)
+- [therapeutic goals](../topics/therapeutic goals.md)
 
 ## Tags
 
-- [[../tags/medical-clowns]]
-- [[../tags/therapeutic-communication]]
-- [[../tags/patient-wellbeing]]
-- [[../tags/pediatric-care]]
-- [[../tags/health-professionals]]
-- [[../tags/fxa303]]
+- [medical-clowns](../tags/medical-clowns.md)
+- [therapeutic-communication](../tags/therapeutic-communication.md)
+- [patient-wellbeing](../tags/patient-wellbeing.md)
+- [pediatric-care](../tags/pediatric-care.md)
+- [health-professionals](../tags/health-professionals.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[qualitative analysis]]
-- [[video-recorded simulations]]
+- [qualitative analysis](qualitative analysis.md)
+- [video-recorded simulations](video-recorded simulations.md)
 
 ## See Also
 
-- [[../topics/medical-clowns]]
-- [[../topics/patient-wellbeing]]
-- [[../topics/pediatric-care]]
-- [[../topics/therapeutic-communication]]
+- [medical-clowns](../topics/medical-clowns.md)
+- [patient-wellbeing](../topics/patient-wellbeing.md)
+- [pediatric-care](../topics/pediatric-care.md)
+- [therapeutic-communication](../topics/therapeutic-communication.md)

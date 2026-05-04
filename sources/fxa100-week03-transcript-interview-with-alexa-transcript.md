@@ -26,15 +26,15 @@ The transcript discusses the role and impact of music therapy in caring for indi
 
 ## Key Concepts
 
-- [[../topics/neural pathways]]
-- [[../topics/musical evoked autobiographical memories]]
+- [neural pathways](../topics/neural pathways.md)
+- [musical evoked autobiographical memories](../topics/musical evoked autobiographical memories.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/dementia-care]]
-- [[../tags/person-centered-care]]
-- [[../tags/fxa100]]
+- [music-therapy](../tags/music-therapy.md)
+- [dementia-care](../tags/dementia-care.md)
+- [person-centered-care](../tags/person-centered-care.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -42,6 +42,6 @@ The transcript discusses the role and impact of music therapy in caring for indi
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/music-therapy]]
-- [[../topics/person-centered-care]]
+- [dementia-care](../topics/dementia-care.md)
+- [music-therapy](../topics/music-therapy.md)
+- [person-centered-care](../topics/person-centered-care.md)

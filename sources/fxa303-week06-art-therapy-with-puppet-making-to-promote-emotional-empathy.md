@@ -28,25 +28,25 @@ The article discusses the Expressive Therapies Continuum (ETC), a framework for 
 
 ## Key Concepts
 
-- [[../topics/Expressive Therapies Continuum (ETC)]]
-- [[../topics/cognitive empathy]]
-- [[../topics/affective empathy]]
+- [Expressive Therapies Continuum (ETC)](../topics/Expressive Therapies Continuum (ETC).md)
+- [cognitive empathy](../topics/cognitive empathy.md)
+- [affective empathy](../topics/affective empathy.md)
 
 ## Tags
 
-- [[../tags/art-therapy]]
-- [[../tags/emotional-empathy]]
-- [[../tags/adolescents-with-autism]]
-- [[../tags/puppet-making]]
-- [[../tags/self-expression]]
-- [[../tags/social-skills]]
-- [[../tags/fxa303]]
+- [art-therapy](../tags/art-therapy.md)
+- [emotional-empathy](../tags/emotional-empathy.md)
+- [adolescents-with-autism](../tags/adolescents-with-autism.md)
+- [puppet-making](../tags/puppet-making.md)
+- [self-expression](../tags/self-expression.md)
+- [social-skills](../tags/social-skills.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/self-expression]]
-- [[../topics/social-skills]]
+- [self-expression](../topics/self-expression.md)
+- [social-skills](../topics/social-skills.md)

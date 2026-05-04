@@ -24,25 +24,25 @@ Tom Kitwood’s chapter ‘Requirements of a caregiver’ explores the profound 
 
 ## Key Concepts
 
-- [[../topics/personhood in dementia care]]
-- [[../topics/holistic approaches to caregiving]]
-- [[../topics/emotional and intellectual resourcefulness]]
+- [personhood in dementia care](../topics/personhood in dementia care.md)
+- [holistic approaches to caregiving](../topics/holistic approaches to caregiving.md)
+- [emotional and intellectual resourcefulness](../topics/emotional and intellectual resourcefulness.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/psychological-presentation]]
-- [[../tags/caregiver-requirements]]
-- [[../tags/person-centered-care]]
-- [[../tags/interpersonal-interaction]]
-- [[../tags/empathetic-engagement]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [psychological-presentation](../tags/psychological-presentation.md)
+- [caregiver-requirements](../tags/caregiver-requirements.md)
+- [person-centered-care](../tags/person-centered-care.md)
+- [interpersonal-interaction](../tags/interpersonal-interaction.md)
+- [empathetic-engagement](../tags/empathetic-engagement.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[theoretical exploration]]
+- [theoretical exploration](theoretical exploration.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/person-centered-care]]
+- [dementia-care](../topics/dementia-care.md)
+- [person-centered-care](../topics/person-centered-care.md)

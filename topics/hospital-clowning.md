@@ -26,5 +26,5 @@ The integration of hospital clowning within pediatric healthcare reveals a multi
 
 ## Sources
 
-- [[../sources/fxa303-week08-effectiveness-of-hospital-clowning-on-pediatric-anxiety-and]]
-- [[../sources/fxa303-week08-hospital-clowning-as-play-stimulus-in-healthcare]]
+- [fxa303-week08-effectiveness-of-hospital-clowning-on-pediatric-anxiety-and](../sources/fxa303-week08-effectiveness-of-hospital-clowning-on-pediatric-anxiety-and.md)
+- [fxa303-week08-hospital-clowning-as-play-stimulus-in-healthcare](../sources/fxa303-week08-hospital-clowning-as-play-stimulus-in-healthcare.md)

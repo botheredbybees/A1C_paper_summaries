@@ -24,26 +24,26 @@ The Stroke Recovery Association NSW highlights the benefits of participating in 
 
 ## Key Concepts
 
-- [[../topics/speech-recovery]]
-- [[../topics/aphasia-management]]
-- [[../topics/emotional-wellbeing]]
+- [speech-recovery](../topics/speech-recovery.md)
+- [aphasia-management](../topics/aphasia-management.md)
+- [emotional-wellbeing](../topics/emotional-wellbeing.md)
 
 ## Tags
 
-- [[../tags/stroke-recovery]]
-- [[../tags/music-therapy]]
-- [[../tags/social-support]]
-- [[../tags/choir-benefits]]
-- [[../tags/neurorehabilitation]]
-- [[../tags/fxa301]]
+- [stroke-recovery](../tags/stroke-recovery.md)
+- [music-therapy](../tags/music-therapy.md)
+- [social-support](../tags/social-support.md)
+- [choir-benefits](../tags/choir-benefits.md)
+- [neurorehabilitation](../tags/neurorehabilitation.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/choir-benefits]]
-- [[../topics/music-therapy]]
-- [[../topics/neurorehabilitation]]
-- [[../topics/social-support]]
+- [choir-benefits](../topics/choir-benefits.md)
+- [music-therapy](../topics/music-therapy.md)
+- [neurorehabilitation](../topics/neurorehabilitation.md)
+- [social-support](../topics/social-support.md)

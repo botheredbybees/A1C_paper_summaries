@@ -34,26 +34,26 @@ Overall, this text underscores the intrinsic relationship between music and huma
 
 ## Key Concepts
 
-- [[../topics/music therapy]]
-- [[../topics/neuroplasticity]]
-- [[../topics/therapeutic benefits of music]]
+- [music therapy](../topics/music therapy.md)
+- [neuroplasticity](../topics/neuroplasticity.md)
+- [therapeutic benefits of music](../topics/therapeutic benefits of music.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/brain-damage]]
-- [[../tags/cognitive-rehabilitation]]
-- [[../tags/neuroplasticity]]
-- [[../tags/therapeutic-benefits]]
-- [[../tags/fxa100]]
+- [music-therapy](../tags/music-therapy.md)
+- [brain-damage](../tags/brain-damage.md)
+- [cognitive-rehabilitation](../tags/cognitive-rehabilitation.md)
+- [neuroplasticity](../tags/neuroplasticity.md)
+- [therapeutic-benefits](../tags/therapeutic-benefits.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case study]]
-- [[systematic review]]
+- [case study](case study.md)
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/music-therapy]]
-- [[../topics/neuroplasticity]]
-- [[../topics/therapeutic-benefits]]
+- [music-therapy](../topics/music-therapy.md)
+- [neuroplasticity](../topics/neuroplasticity.md)
+- [therapeutic-benefits](../topics/therapeutic-benefits.md)

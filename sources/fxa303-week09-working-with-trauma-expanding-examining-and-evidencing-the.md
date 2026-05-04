@@ -24,24 +24,24 @@ The editorial by Coles, Murphy, and Winter discusses the importance of expanding
 
 ## Key Concepts
 
-- [[../topics/value-evidence-art-therapy]]
-- [[../topics/diverse-approaches-trauma]]
-- [[../topics/structured-interventions-art-therapy]]
+- [value-evidence-art-therapy](../topics/value-evidence-art-therapy.md)
+- [diverse-approaches-trauma](../topics/diverse-approaches-trauma.md)
+- [structured-interventions-art-therapy](../topics/structured-interventions-art-therapy.md)
 
 ## Tags
 
-- [[../tags/art-therapy]]
-- [[../tags/trauma-treatment]]
-- [[../tags/creative-participation]]
-- [[../tags/therapeutic-innovation]]
-- [[../tags/empowerment-strategies]]
-- [[../tags/client-co-production]]
-- [[../tags/fxa303]]
+- [art-therapy](../tags/art-therapy.md)
+- [trauma-treatment](../tags/trauma-treatment.md)
+- [creative-participation](../tags/creative-participation.md)
+- [therapeutic-innovation](../tags/therapeutic-innovation.md)
+- [empowerment-strategies](../tags/empowerment-strategies.md)
+- [client-co-production](../tags/client-co-production.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[editorial-reflection]]
+- **editorial-reflection**
 
 ## See Also
 
-- [[../topics/trauma-treatment]]
+- [trauma-treatment](../topics/trauma-treatment.md)

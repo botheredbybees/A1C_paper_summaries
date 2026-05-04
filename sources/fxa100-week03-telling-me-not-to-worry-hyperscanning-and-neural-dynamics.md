@@ -24,24 +24,24 @@ This paper explores the neural dynamics of emotion processing during Guided Imag
 
 ## Key Concepts
 
-- [[../topics/Guided Imagery and Music (GIM)]]
-- [[../topics/dual-EEG technology]]
-- [[../topics/emotional markers]]
+- [Guided Imagery and Music (GIM)](../topics/Guided Imagery and Music (GIM).md)
+- [dual-EEG technology](../topics/dual-EEG technology.md)
+- [emotional markers](../topics/emotional markers.md)
 
 ## Tags
 
-- [[../tags/neural-dynamics]]
-- [[../tags/emotion-processing]]
-- [[../tags/guided-imagination]]
-- [[../tags/music-therapy]]
-- [[../tags/hyperscanning]]
-- [[../tags/fxa100]]
+- [neural-dynamics](../tags/neural-dynamics.md)
+- [emotion-processing](../tags/emotion-processing.md)
+- [guided-imagination](../tags/guided-imagination.md)
+- [music-therapy](../tags/music-therapy.md)
+- [hyperscanning](../tags/hyperscanning.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[systematic review]]
-- [[case study]]
+- [systematic review](systematic review.md)
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/music-therapy]]
+- [music-therapy](../topics/music-therapy.md)

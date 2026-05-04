@@ -24,24 +24,24 @@ This research article investigates how music listening modulates brain activity 
 
 ## Key Concepts
 
-- [[../topics/medial-orbitofrontal-cortex]]
-- [[../topics/ventromedial-prefrontal-cortex]]
-- [[../topics/musical-reward-sensitivity]]
+- [medial-orbitofrontal-cortex](../topics/medial-orbitofrontal-cortex.md)
+- [ventromedial-prefrontal-cortex](../topics/ventromedial-prefrontal-cortex.md)
+- [musical-reward-sensitivity](../topics/musical-reward-sensitivity.md)
 
 ## Tags
 
-- [[../tags/brain-mapping]]
-- [[../tags/adolescent-neuroscience]]
-- [[../tags/music-reward-system]]
-- [[../tags/functional-connectivity]]
-- [[../tags/fxa303]]
+- [brain-mapping](../tags/brain-mapping.md)
+- [adolescent-neuroscience](../tags/adolescent-neuroscience.md)
+- [music-reward-system](../tags/music-reward-system.md)
+- [functional-connectivity](../tags/functional-connectivity.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[fMRI]]
-- [[LEiDA]]
+- [fMRI](fMRI.md)
+- [LEiDA](LEiDA.md)
 
 ## See Also
 
-- [[../topics/adolescent-neuroscience]]
-- [[../topics/functional-connectivity]]
+- [adolescent-neuroscience](../topics/adolescent-neuroscience.md)
+- [functional-connectivity](../topics/functional-connectivity.md)

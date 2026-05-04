@@ -24,26 +24,26 @@ This review article discusses the potential benefits of therapeutic arts, includ
 
 ## Key Concepts
 
-- [[../topics/self-efficacy]]
-- [[../topics/emotional-well-being]]
-- [[../topics/motor-control]]
+- [self-efficacy](../topics/self-efficacy.md)
+- [emotional-well-being](../topics/emotional-well-being.md)
+- [motor-control](../topics/motor-control.md)
 
 ## Tags
 
-- [[../tags/multiple-sclerosis]]
-- [[../tags/therapeutic-arts]]
-- [[../tags/complementary-medicine]]
-- [[../tags/quality-of-life]]
-- [[../tags/patient-care]]
-- [[../tags/fxa301]]
+- [multiple-sclerosis](../tags/multiple-sclerosis.md)
+- [therapeutic-arts](../tags/therapeutic-arts.md)
+- [complementary-medicine](../tags/complementary-medicine.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [patient-care](../tags/patient-care.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/multiple-sclerosis]]
-- [[../topics/patient-care]]
-- [[../topics/quality-of-life]]
-- [[../topics/therapeutic-arts]]
+- [multiple-sclerosis](../topics/multiple-sclerosis.md)
+- [patient-care](../topics/patient-care.md)
+- [quality-of-life](../topics/quality-of-life.md)
+- [therapeutic-arts](../topics/therapeutic-arts.md)

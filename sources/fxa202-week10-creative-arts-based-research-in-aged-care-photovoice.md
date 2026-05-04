@@ -24,23 +24,23 @@ In the preface of 'Creative Arts-Based Research in Aged Care: Photovoice, Photog
 
 ## Key Concepts
 
-- [[../topics/photovoice]]
-- [[../topics/aging-experiences]]
-- [[../topics/emotive-research]]
+- [photovoice](../topics/photovoice.md)
+- [aging-experiences](../topics/aging-experiences.md)
+- [emotive-research](../topics/emotive-research.md)
 
 ## Tags
 
-- [[../tags/aged-care]]
-- [[../tags/creative-arts-research]]
-- [[../tags/photovoice-methods]]
-- [[../tags/documentary-photography]]
-- [[../tags/poetry-in-research]]
-- [[../tags/fxa202]]
+- [aged-care](../tags/aged-care.md)
+- [creative-arts-research](../tags/creative-arts-research.md)
+- [photovoice-methods](../tags/photovoice-methods.md)
+- [documentary-photography](../tags/documentary-photography.md)
+- [poetry-in-research](../tags/poetry-in-research.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case-study]]
-- [[photovoice]]
+- [case-study](case-study.md)
+- [photovoice](photovoice.md)
 
 ## See Also
 

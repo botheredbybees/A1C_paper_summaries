@@ -24,16 +24,16 @@ This lesson from the FXA100 course discusses how creativity through visual arts 
 
 ## Key Concepts
 
-- [[../topics/internal dialogue]]
-- [[../topics/outward communication]]
-- [[../topics/creativity without inhibition]]
+- [internal dialogue](../topics/internal dialogue.md)
+- [outward communication](../topics/outward communication.md)
+- [creativity without inhibition](../topics/creativity without inhibition.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/visual-arts-intervention]]
-- [[../tags/communication-through-art]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [visual-arts-intervention](../tags/visual-arts-intervention.md)
+- [communication-through-art](../tags/communication-through-art.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ This lesson from the FXA100 course discusses how creativity through visual arts 
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/visual-arts-intervention]]
+- [dementia-care](../topics/dementia-care.md)
+- [visual-arts-intervention](../topics/visual-arts-intervention.md)

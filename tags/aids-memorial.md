@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Aids Memorial
 
-- [[../sources/fxa301-week05-the-history-of-the-quilt-the-national-aids-memorial|The History of the Quilt: The National AIDS Memorial]]
+- [The History of the Quilt: The National AIDS Memorial](../sources/fxa301-week05-the-history-of-the-quilt-the-national-aids-memorial.md)

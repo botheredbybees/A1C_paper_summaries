@@ -26,5 +26,5 @@ The integration of arts activities and dance as therapeutic interventions in you
 
 ## Sources
 
-- [[../sources/fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and]]
-- [[../sources/fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and]]
+- [fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and](../sources/fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and.md)
+- [fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and](../sources/fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and.md)

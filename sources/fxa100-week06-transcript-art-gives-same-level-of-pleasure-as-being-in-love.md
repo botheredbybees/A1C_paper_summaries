@@ -24,18 +24,18 @@ This transcript discusses recent research by Semir Zeki from University College 
 
 ## Key Concepts
 
-- [[../topics/pleasure centers in brain]]
-- [[../topics/dopamine release]]
-- [[../topics/beauty perception]]
+- [pleasure centers in brain](../topics/pleasure centers in brain.md)
+- [dopamine release](../topics/dopamine release.md)
+- [beauty perception](../topics/beauty perception.md)
 
 ## Tags
 
-- [[../tags/neurobiology]]
-- [[../tags/art-appreciation]]
-- [[../tags/brain-stimulation]]
-- [[../tags/well-being-index]]
-- [[../tags/dopamine-reaction]]
-- [[../tags/fxa100]]
+- [neurobiology](../tags/neurobiology.md)
+- [art-appreciation](../tags/art-appreciation.md)
+- [brain-stimulation](../tags/brain-stimulation.md)
+- [well-being-index](../tags/well-being-index.md)
+- [dopamine-reaction](../tags/dopamine-reaction.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -43,5 +43,5 @@ This transcript discusses recent research by Semir Zeki from University College 
 
 ## See Also
 
-- [[../topics/art-appreciation]]
-- [[../topics/brain-stimulation]]
+- [art-appreciation](../topics/art-appreciation.md)
+- [brain-stimulation](../topics/brain-stimulation.md)

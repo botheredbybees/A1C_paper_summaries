@@ -24,24 +24,24 @@ The Trauma-Informed Care and Practice Organisational Toolkit (TICPOT) is a resou
 
 ## Key Concepts
 
-- [[../topics/trauma-informed-practice]]
-- [[../topics/organisational-audit]]
+- [trauma-informed-practice](../topics/trauma-informed-practice.md)
+- [organisational-audit](../topics/organisational-audit.md)
 
 ## Tags
 
-- [[../tags/trauma-informed-care]]
-- [[../tags/organizational-change]]
-- [[../tags/quality-improvement]]
-- [[../tags/mental-health-services]]
-- [[../tags/fxa303]]
+- [trauma-informed-care](../tags/trauma-informed-care.md)
+- [organizational-change](../tags/organizational-change.md)
+- [quality-improvement](../tags/quality-improvement.md)
+- [mental-health-services](../tags/mental-health-services.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[toolkit]]
+- [toolkit](toolkit.md)
 
 ## See Also
 
-- [[../topics/mental-health-services]]
-- [[../topics/organizational-change]]
-- [[../topics/quality-improvement]]
-- [[../topics/trauma-informed-care]]
+- [mental-health-services](../topics/mental-health-services.md)
+- [organizational-change](../topics/organizational-change.md)
+- [quality-improvement](../topics/quality-improvement.md)
+- [trauma-informed-care](../topics/trauma-informed-care.md)

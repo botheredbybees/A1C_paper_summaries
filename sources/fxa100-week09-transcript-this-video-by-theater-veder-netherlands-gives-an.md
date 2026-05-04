@@ -24,15 +24,15 @@ This video provides an overview and demonstration related to the work of Theater
 
 ## Key Concepts
 
-- [[../topics/cultural-theater]]
-- [[../topics/performance-practice]]
+- [cultural-theater](../topics/cultural-theater.md)
+- [performance-practice](../topics/performance-practice.md)
 
 ## Tags
 
-- [[../tags/theater-veder]]
-- [[../tags/netherlands-culture]]
-- [[../tags/video-demonstration]]
-- [[../tags/fxa100]]
+- [theater-veder](../tags/theater-veder.md)
+- [netherlands-culture](../tags/netherlands-culture.md)
+- [video-demonstration](../tags/video-demonstration.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

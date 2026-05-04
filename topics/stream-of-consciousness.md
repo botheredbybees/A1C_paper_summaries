@@ -26,5 +26,5 @@ The concept of stream-of-consciousness is primarily explored in the context of M
 
 ## Sources
 
-- [[../sources/fxa202-week05-stream-of-consciousness]]
-- [[../sources/fxa202-week06-lesson-fxa202-week06-week-6]]
+- [fxa202-week05-stream-of-consciousness](../sources/fxa202-week05-stream-of-consciousness.md)
+- [fxa202-week06-lesson-fxa202-week06-week-6](../sources/fxa202-week06-lesson-fxa202-week06-week-6.md)

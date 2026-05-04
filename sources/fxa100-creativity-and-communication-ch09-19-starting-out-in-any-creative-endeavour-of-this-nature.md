@@ -24,16 +24,16 @@ This chapter discusses the importance of defining the purpose and vision of arts
 
 ## Key Concepts
 
-- [[../topics/self-expression]]
-- [[../topics/social-inclusion]]
-- [[../topics/memory-enhancement]]
+- [self-expression](../topics/self-expression.md)
+- [social-inclusion](../topics/social-inclusion.md)
+- [memory-enhancement](../topics/memory-enhancement.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/arts-therapy]]
-- [[../tags/creative-activities]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [arts-therapy](../tags/arts-therapy.md)
+- [creative-activities](../tags/creative-activities.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -41,6 +41,6 @@ This chapter discusses the importance of defining the purpose and vision of arts
 
 ## See Also
 
-- [[../topics/arts-therapy]]
-- [[../topics/creative-activities]]
-- [[../topics/dementia-care]]
+- [arts-therapy](../topics/arts-therapy.md)
+- [creative-activities](../topics/creative-activities.md)
+- [dementia-care](../topics/dementia-care.md)

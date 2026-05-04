@@ -26,5 +26,5 @@ The provided sources illustrate the impact of arts-based interventions on health
 
 ## Sources
 
-- [[../sources/fxa100-week03-implementation-survey-results-phase-iii-music-memory-program]]
-- [[../sources/fxa301-week01-lesson-fxa301-week01-page-4-week-3-activities]]
+- [fxa100-week03-implementation-survey-results-phase-iii-music-memory-program](../sources/fxa100-week03-implementation-survey-results-phase-iii-music-memory-program.md)
+- [fxa301-week01-lesson-fxa301-week01-page-4-week-3-activities](../sources/fxa301-week01-lesson-fxa301-week01-page-4-week-3-activities.md)

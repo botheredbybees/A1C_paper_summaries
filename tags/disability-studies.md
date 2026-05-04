@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Disability Studies
 
-- [[../sources/fxa301-week09-week-9-lecture-dr-brendan-lamb|Week 9 Lecture - Dr Brendan Lamb]]
+- [Week 9 Lecture - Dr Brendan Lamb](../sources/fxa301-week09-week-9-lecture-dr-brendan-lamb.md)

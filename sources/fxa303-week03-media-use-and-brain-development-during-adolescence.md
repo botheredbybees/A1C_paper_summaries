@@ -24,24 +24,24 @@ This review article explores the relationship between media use and brain develo
 
 ## Key Concepts
 
-- [[../topics/emotional-sensitivity]]
-- [[../topics/cognitive-control]]
-- [[../topics/reflective-processing]]
+- [emotional-sensitivity](../topics/emotional-sensitivity.md)
+- [cognitive-control](../topics/cognitive-control.md)
+- [reflective-processing](../topics/reflective-processing.md)
 
 ## Tags
 
-- [[../tags/media-use]]
-- [[../tags/brain-development]]
-- [[../tags/adolescence]]
-- [[../tags/social-media-effects]]
-- [[../tags/fxa303]]
+- [media-use](../tags/media-use.md)
+- [brain-development](../tags/brain-development.md)
+- [adolescence](../tags/adolescence.md)
+- [social-media-effects](../tags/social-media-effects.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/adolescence]]
-- [[../topics/brain-development]]
-- [[../topics/social-media-effects]]
+- [adolescence](../topics/adolescence.md)
+- [brain-development](../topics/brain-development.md)
+- [social-media-effects](../topics/social-media-effects.md)

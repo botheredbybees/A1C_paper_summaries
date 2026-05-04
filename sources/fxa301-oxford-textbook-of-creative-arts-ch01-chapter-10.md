@@ -27,15 +27,15 @@ This chapter explores the application of qualitative methods in arts and health 
 
 ## Key Concepts
 
-- [[../topics/grounded theory]]
-- [[../topics/ethnography]]
+- [grounded theory](../topics/grounded theory.md)
+- [ethnography](../topics/ethnography.md)
 
 ## Tags
 
-- [[../tags/qualitative research]]
-- [[../tags/arts and health]]
-- [[../tags/evaluation methods]]
-- [[../tags/fxa301]]
+- [qualitative research](../tags/qualitative research.md)
+- [arts and health](../tags/arts and health.md)
+- [evaluation methods](../tags/evaluation methods.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

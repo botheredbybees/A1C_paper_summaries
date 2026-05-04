@@ -24,25 +24,25 @@ This study examines the efficacy of Child-Centred Play Therapy (CCPT) combined w
 
 ## Key Concepts
 
-- [[../topics/Child-Centred Play Therapy (CCPT)]]
-- [[../topics/Rhythmic Relating]]
-- [[../topics/Emotion Regulation Checklist (ERC)]]
+- [Child-Centred Play Therapy (CCPT)](../topics/Child-Centred Play Therapy (CCPT).md)
+- [Rhythmic Relating](../topics/Rhythmic Relating.md)
+- [Emotion Regulation Checklist (ERC)](../topics/Emotion Regulation Checklist (ERC).md)
 
 ## Tags
 
-- [[../tags/child-therapy]]
-- [[../tags/autism-treatment]]
-- [[../tags/emotion-regulation]]
-- [[../tags/play-therapy]]
-- [[../tags/fxa303]]
+- [child-therapy](../tags/child-therapy.md)
+- [autism-treatment](../tags/autism-treatment.md)
+- [emotion-regulation](../tags/emotion-regulation.md)
+- [play-therapy](../tags/play-therapy.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[single-case study]]
+- [single-case study](single-case study.md)
 
 ## See Also
 
-- [[../topics/autism-treatment]]
-- [[../topics/child-therapy]]
-- [[../topics/emotion-regulation]]
-- [[../topics/play-therapy]]
+- [autism-treatment](../topics/autism-treatment.md)
+- [child-therapy](../topics/child-therapy.md)
+- [emotion-regulation](../topics/emotion-regulation.md)
+- [play-therapy](../topics/play-therapy.md)

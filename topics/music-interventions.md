@@ -26,5 +26,5 @@ The integration of findings from two sources highlights the multifaceted impact 
 
 ## Sources
 
-- [[../sources/fxa100-week03-association-of-music-interventions-with-health-related]]
-- [[../sources/fxa100-week03-the-short-term-impact-of-music-interventions-on-stress]]
+- [fxa100-week03-association-of-music-interventions-with-health-related](../sources/fxa100-week03-association-of-music-interventions-with-health-related.md)
+- [fxa100-week03-the-short-term-impact-of-music-interventions-on-stress](../sources/fxa100-week03-the-short-term-impact-of-music-interventions-on-stress.md)

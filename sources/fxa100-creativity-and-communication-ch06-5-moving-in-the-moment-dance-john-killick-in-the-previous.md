@@ -24,15 +24,15 @@ This chapter discusses the therapeutic benefits of dance for individuals with de
 
 ## Key Concepts
 
-- [[../topics/body-memory]]
-- [[../topics/non-verbal-expression]]
+- [body-memory](../topics/body-memory.md)
+- [non-verbal-expression](../topics/non-verbal-expression.md)
 
 ## Tags
 
-- [[../tags/dementia-therapy]]
-- [[../tags/spontaneous-movement]]
-- [[../tags/dance-therapy]]
-- [[../tags/fxa100]]
+- [dementia-therapy](../tags/dementia-therapy.md)
+- [spontaneous-movement](../tags/spontaneous-movement.md)
+- [dance-therapy](../tags/dance-therapy.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -40,5 +40,5 @@ This chapter discusses the therapeutic benefits of dance for individuals with de
 
 ## See Also
 
-- [[../topics/dance-therapy]]
-- [[../topics/dementia-therapy]]
+- [dance-therapy](../topics/dance-therapy.md)
+- [dementia-therapy](../topics/dementia-therapy.md)

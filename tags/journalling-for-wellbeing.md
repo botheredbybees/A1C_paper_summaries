@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Journalling For Wellbeing
 
-- [[../sources/fxa202-week09-lesson-fxa202-week09-week-9|LAW122 Legal Systems - Week 9: Editing Writing and Shaping Your Story]]
+- [LAW122 Legal Systems - Week 9: Editing Writing and Shaping Your Story](../sources/fxa202-week09-lesson-fxa202-week09-week-9.md)

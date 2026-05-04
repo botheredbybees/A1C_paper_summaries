@@ -24,27 +24,27 @@ Libby Rhoads's article discusses the importance of museums as venues for people 
 
 ## Key Concepts
 
-- [[../topics/dementia]]
-- [[../topics/meaning-making]]
-- [[../topics/reminiscence-therapy]]
+- [dementia](../topics/dementia.md)
+- [meaning-making](../topics/meaning-making.md)
+- [reminiscence-therapy](../topics/reminiscence-therapy.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/museum-programming]]
-- [[../tags/memory-therapy]]
-- [[../tags/social-interaction]]
-- [[../tags/quality-of-life]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [museum-programming](../tags/museum-programming.md)
+- [memory-therapy](../tags/memory-therapy.md)
+- [social-interaction](../tags/social-interaction.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[literature-review]]
+- [literature-review](literature-review.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/memory-therapy]]
-- [[../topics/museum-programming]]
-- [[../topics/quality-of-life]]
-- [[../topics/social-interaction]]
+- [dementia-care](../topics/dementia-care.md)
+- [memory-therapy](../topics/memory-therapy.md)
+- [museum-programming](../topics/museum-programming.md)
+- [quality-of-life](../topics/quality-of-life.md)
+- [social-interaction](../topics/social-interaction.md)

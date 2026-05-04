@@ -28,25 +28,25 @@ The study also highlights gender differences in preferences, with women generall
 
 ## Key Concepts
 
-- [[../topics/Openness to Experience]]
-- [[../topics/Big-Five Personality Traits]]
-- [[../topics/Aesthetic Preferences]]
+- [Openness to Experience](../topics/Openness to Experience.md)
+- [Big-Five Personality Traits](../topics/Big-Five Personality Traits.md)
+- [Aesthetic Preferences](../topics/Aesthetic Preferences.md)
 
 ## Tags
 
-- [[../tags/personality-psychology]]
-- [[../tags/aesthetic-preferences]]
-- [[../tags/art-appreciation]]
-- [[../tags/music-architecture]]
-- [[../tags/big-five-personality]]
-- [[../tags/fxa301]]
+- [personality-psychology](../tags/personality-psychology.md)
+- [aesthetic-preferences](../tags/aesthetic-preferences.md)
+- [art-appreciation](../tags/art-appreciation.md)
+- [music-architecture](../tags/music-architecture.md)
+- [big-five-personality](../tags/big-five-personality.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[correlational study]]
-- [[self-report inventory]]
+- [correlational study](correlational study.md)
+- [self-report inventory](self-report inventory.md)
 
 ## See Also
 
-- [[../topics/aesthetic-preferences]]
-- [[../topics/art-appreciation]]
+- [aesthetic-preferences](../topics/aesthetic-preferences.md)
+- [art-appreciation](../topics/art-appreciation.md)

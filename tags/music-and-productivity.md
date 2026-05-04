@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Music And Productivity
 
-- [[../sources/fxa301-week06-does-music-help-us-work-better-it-depends|Does music help us work better? It depends]]
+- [Does music help us work better? It depends](../sources/fxa301-week06-does-music-help-us-work-better-it-depends.md)

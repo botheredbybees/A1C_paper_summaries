@@ -24,24 +24,24 @@ Chapter 12 of 'Arts in Health: Designing and researching interventions' by Daisy
 
 ## Key Concepts
 
-- [[../topics/ethical-considerations]]
-- [[../topics/informed-consent-process]]
-- [[../topics/professional-conduct-principles]]
+- [ethical-considerations](../topics/ethical-considerations.md)
+- [informed-consent-process](../topics/informed-consent-process.md)
+- [professional-conduct-principles](../topics/professional-conduct-principles.md)
 
 ## Tags
 
-- [[../tags/research-ethics]]
-- [[../tags/arts-in-health]]
-- [[../tags/informed-consent]]
-- [[../tags/vulnerable-populations]]
-- [[../tags/professional-integrity]]
-- [[../tags/fxa100]]
+- [research-ethics](../tags/research-ethics.md)
+- [arts-in-health](../tags/arts-in-health.md)
+- [informed-consent](../tags/informed-consent.md)
+- [vulnerable-populations](../tags/vulnerable-populations.md)
+- [professional-integrity](../tags/professional-integrity.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[chapter]]
+- [chapter](chapter.md)
 
 ## See Also
 
-- [[../topics/arts-in-health]]
-- [[../topics/research-ethics]]
+- [arts-in-health](../topics/arts-in-health.md)
+- [research-ethics](../topics/research-ethics.md)

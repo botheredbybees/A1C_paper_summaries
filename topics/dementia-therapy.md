@@ -26,5 +26,5 @@ The sources illustrate the use of creative arts as a therapeutic intervention fo
 
 ## Sources
 
-- [[../sources/fxa100-creativity-and-communication-ch01-10-playing-with-mud-ceramics-and-clay-claire-craig-clay-is]]
-- [[../sources/fxa100-creativity-and-communication-ch06-5-moving-in-the-moment-dance-john-killick-in-the-previous]]
+- [fxa100-creativity-and-communication-ch01-10-playing-with-mud-ceramics-and-clay-claire-craig-clay-is](../sources/fxa100-creativity-and-communication-ch01-10-playing-with-mud-ceramics-and-clay-claire-craig-clay-is.md)
+- [fxa100-creativity-and-communication-ch06-5-moving-in-the-moment-dance-john-killick-in-the-previous](../sources/fxa100-creativity-and-communication-ch06-5-moving-in-the-moment-dance-john-killick-in-the-previous.md)

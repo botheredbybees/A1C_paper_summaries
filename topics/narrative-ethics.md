@@ -26,5 +26,5 @@ The concept of 'story-based ethics' emerges as a central theme across sources ad
 
 ## Sources
 
-- [[../sources/fxa100-excellence-in-dementia-care--ch36-chapter-4]]
-- [[../sources/fxa100-excellence-in-dementia-care--ch38-4-it-allows-for-the-ethical-decision]]
+- [fxa100-excellence-in-dementia-care--ch36-chapter-4](../sources/fxa100-excellence-in-dementia-care--ch36-chapter-4.md)
+- [fxa100-excellence-in-dementia-care--ch38-4-it-allows-for-the-ethical-decision](../sources/fxa100-excellence-in-dementia-care--ch38-4-it-allows-for-the-ethical-decision.md)

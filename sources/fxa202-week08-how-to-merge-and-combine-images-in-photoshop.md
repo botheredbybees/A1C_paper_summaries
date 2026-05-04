@@ -24,22 +24,22 @@ The ability to merge and combine images in Photoshop is a valuable skill for pho
 
 ## Key Concepts
 
-- [[../topics/layer-masking]]
-- [[../topics/selection-tools]]
+- [layer-masking](../topics/layer-masking.md)
+- [selection-tools](../topics/selection-tools.md)
 
 ## Tags
 
-- [[../tags/image-editing]]
-- [[../tags/photoshop-tutorial]]
-- [[../tags/composite-photography]]
-- [[../tags/digital-manipulation]]
-- [[../tags/creative-imaging]]
-- [[../tags/fxa202]]
+- [image-editing](../tags/image-editing.md)
+- [photoshop-tutorial](../tags/photoshop-tutorial.md)
+- [composite-photography](../tags/composite-photography.md)
+- [digital-manipulation](../tags/digital-manipulation.md)
+- [creative-imaging](../tags/creative-imaging.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[tutorial]]
+- [tutorial](tutorial.md)
 
 ## See Also
 
-- [[../topics/image-editing]]
+- [image-editing](../topics/image-editing.md)

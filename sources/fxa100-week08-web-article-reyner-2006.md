@@ -24,16 +24,16 @@ This brochure from S&amp;S Primelife provides guidance on conducting arts and cr
 
 ## Key Concepts
 
-- [[../topics/cognitive-stimulation]]
-- [[../topics/social-interaction]]
-- [[../topics/rehabilitation]]
+- [cognitive-stimulation](../topics/cognitive-stimulation.md)
+- [social-interaction](../topics/social-interaction.md)
+- [rehabilitation](../topics/rehabilitation.md)
 
 ## Tags
 
-- [[../tags/alzheimer's]]
-- [[../tags/therapeutic-activities]]
-- [[../tags/arts-and-crafts]]
-- [[../tags/fxa100]]
+- [alzheimer's](../tags/alzheimer's.md)
+- [therapeutic-activities](../tags/therapeutic-activities.md)
+- [arts-and-crafts](../tags/arts-and-crafts.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -41,4 +41,4 @@ This brochure from S&amp;S Primelife provides guidance on conducting arts and cr
 
 ## See Also
 
-- [[../topics/arts-and-crafts]]
+- [arts-and-crafts](../topics/arts-and-crafts.md)

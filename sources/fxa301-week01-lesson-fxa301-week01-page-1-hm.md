@@ -24,15 +24,15 @@ This lesson discusses the growing evidence base for the positive impact of creat
 
 ## Key Concepts
 
-- [[../topics/randomized controlled trial]]
-- [[../topics/qualitative research methods]]
+- [randomized controlled trial](../topics/randomized controlled trial.md)
+- [qualitative research methods](../topics/qualitative research methods.md)
 
 ## Tags
 
-- [[../tags/arts-and-health]]
-- [[../tags/qualitative-research]]
-- [[../tags/community-projects]]
-- [[../tags/fxa301]]
+- [arts-and-health](../tags/arts-and-health.md)
+- [qualitative-research](../tags/qualitative-research.md)
+- [community-projects](../tags/community-projects.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -40,5 +40,5 @@ This lesson discusses the growing evidence base for the positive impact of creat
 
 ## See Also
 
-- [[../topics/arts-and-health]]
-- [[../topics/qualitative-research]]
+- [arts-and-health](../topics/arts-and-health.md)
+- [qualitative-research](../topics/qualitative-research.md)

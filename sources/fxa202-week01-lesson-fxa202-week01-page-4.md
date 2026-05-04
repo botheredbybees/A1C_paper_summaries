@@ -24,15 +24,15 @@ This module provides an overview of the first week's activities in a photography
 
 ## Key Concepts
 
-- [[../topics/visual-storytelling]]
-- [[../topics/camera-phone-use]]
+- [visual-storytelling](../topics/visual-storytelling.md)
+- [camera-phone-use](../topics/camera-phone-use.md)
 
 ## Tags
 
-- [[../tags/legal-systems]]
-- [[../tags/photography-essay]]
-- [[../tags/discussion-board]]
-- [[../tags/fxa202]]
+- [legal-systems](../tags/legal-systems.md)
+- [photography-essay](../tags/photography-essay.md)
+- [discussion-board](../tags/discussion-board.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
@@ -40,5 +40,5 @@ This module provides an overview of the first week's activities in a photography
 
 ## See Also
 
-- [[../topics/discussion-board]]
-- [[../topics/legal-systems]]
+- [discussion-board](../topics/discussion-board.md)
+- [legal-systems](../topics/legal-systems.md)

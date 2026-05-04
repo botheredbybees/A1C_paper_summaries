@@ -24,27 +24,27 @@ This document is an introduction to Week 4 of FXA303: Creative Arts, Play and Me
 
 ## Key Concepts
 
-- [[../topics/neural-plasticity]]
-- [[../topics/creative-arts-play-therapy]]
-- [[../topics/brain-development-differences]]
+- [neural-plasticity](../topics/neural-plasticity.md)
+- [creative-arts-play-therapy](../topics/creative-arts-play-therapy.md)
+- [brain-development-differences](../topics/brain-development-differences.md)
 
 ## Tags
 
-- [[../tags/neurodiversity]]
-- [[../tags/autism-spectrum-disorder]]
-- [[../tags/early-intervention-therapy]]
-- [[../tags/creative-arts-interventions]]
-- [[../tags/play-based-therapies]]
-- [[../tags/mental-wellbeing]]
-- [[../tags/fxa303]]
+- [neurodiversity](../tags/neurodiversity.md)
+- [autism-spectrum-disorder](../tags/autism-spectrum-disorder.md)
+- [early-intervention-therapy](../tags/early-intervention-therapy.md)
+- [creative-arts-interventions](../tags/creative-arts-interventions.md)
+- [play-based-therapies](../tags/play-based-therapies.md)
+- [mental-wellbeing](../tags/mental-wellbeing.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/autism-spectrum-disorder]]
-- [[../topics/creative-arts-interventions]]
-- [[../topics/mental-wellbeing]]
-- [[../topics/neurodiversity]]
+- [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)
+- [creative-arts-interventions](../topics/creative-arts-interventions.md)
+- [mental-wellbeing](../topics/mental-wellbeing.md)
+- [neurodiversity](../topics/neurodiversity.md)

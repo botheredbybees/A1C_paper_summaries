@@ -25,5 +25,5 @@ The sources explore various aspects of photographic composition techniques that 
 
 ## Sources
 
-- [[../sources/fxa202-week02-getting-to-know-your-camera]]
-- [[../sources/fxa202-week02-photography-tips-point-of-view-composition]]
+- [fxa202-week02-getting-to-know-your-camera](../sources/fxa202-week02-getting-to-know-your-camera.md)
+- [fxa202-week02-photography-tips-point-of-view-composition](../sources/fxa202-week02-photography-tips-point-of-view-composition.md)

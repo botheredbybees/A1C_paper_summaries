@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Shibboleth
 
-- [[../sources/fxa303-week06-web-article-butler-2009|Authentication Request Page]]
+- [Authentication Request Page](../sources/fxa303-week06-web-article-butler-2009.md)

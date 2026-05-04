@@ -26,5 +26,5 @@ Play therapy is a therapeutic intervention specifically designed for children to
 
 ## Sources
 
-- [[../sources/fxa303-week01-an-overview-of-play-therapy]]
-- [[../sources/fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children]]
+- [fxa303-week01-an-overview-of-play-therapy](../sources/fxa303-week01-an-overview-of-play-therapy.md)
+- [fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children](../sources/fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children.md)

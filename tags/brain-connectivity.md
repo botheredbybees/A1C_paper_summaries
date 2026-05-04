@@ -6,7 +6,7 @@ updated: 2026-05-04
 
 ## Brain Connectivity
 
-- [[../sources/fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual|How Art Changes Your Brain: Differential Effects of Visual Art Production and Cognitive Art Evaluation on Functional Brain Connectivity]]
-- [[../sources/fxa303-week04-age-related-differences-in-white-matter-diffusion-measures|Age-related differences in white matter diffusion measures in autism spectrum condition]]
-- [[../sources/fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between|Evaluation of Differences in Temporal Synchrony Between Brain Regions in Individuals With Autism and Typical Development]]
-- [[../sources/fxa303-week04-what-does-autism-look-like-in-the-brain|What does autism look like in the brain?]]
+- [How Art Changes Your Brain: Differential Effects of Visual Art Production and Cognitive Art Evaluation on Functional Brain Connectivity](../sources/fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual.md)
+- [Age-related differences in white matter diffusion measures in autism spectrum condition](../sources/fxa303-week04-age-related-differences-in-white-matter-diffusion-measures.md)
+- [Evaluation of Differences in Temporal Synchrony Between Brain Regions in Individuals With Autism and Typical Development](../sources/fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between.md)
+- [What does autism look like in the brain?](../sources/fxa303-week04-what-does-autism-look-like-in-the-brain.md)

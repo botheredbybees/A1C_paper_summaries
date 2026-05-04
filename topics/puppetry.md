@@ -26,5 +26,5 @@ The application of puppetry in creative arts therapy emerges as a versatile tool
 
 ## Sources
 
-- [[../sources/fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental]]
-- [[../sources/fxa303-week06-overview-fxa303-creative-arts-play-and-mental-wellbeing]]
+- [fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental](../sources/fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental.md)
+- [fxa303-week06-overview-fxa303-creative-arts-play-and-mental-wellbeing](../sources/fxa303-week06-overview-fxa303-creative-arts-play-and-mental-wellbeing.md)

@@ -24,26 +24,26 @@ This systematic review evaluates the effectiveness of dance movement therapy (DM
 
 ## Key Concepts
 
-- [[../topics/dance movement therapy]]
-- [[../topics/randomized controlled trial]]
-- [[../topics/standard care]]
+- [dance movement therapy](../topics/dance movement therapy.md)
+- [randomized controlled trial](../topics/randomized controlled trial.md)
+- [standard care](../topics/standard care.md)
 
 ## Tags
 
-- [[../tags/dance-movement-therapy]]
-- [[../tags/dementia-intervention]]
-- [[../tags/systematic-review]]
-- [[../tags/behavioral-symptoms]]
-- [[../tags/cognitive-health]]
-- [[../tags/fxa100]]
+- [dance-movement-therapy](../tags/dance-movement-therapy.md)
+- [dementia-intervention](../tags/dementia-intervention.md)
+- [systematic-review](../tags/systematic-review.md)
+- [behavioral-symptoms](../tags/behavioral-symptoms.md)
+- [cognitive-health](../tags/cognitive-health.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/behavioral-symptoms]]
-- [[../topics/cognitive-health]]
-- [[../topics/dance-movement-therapy]]
-- [[../topics/systematic-review]]
+- [behavioral-symptoms](../topics/behavioral-symptoms.md)
+- [cognitive-health](../topics/cognitive-health.md)
+- [dance-movement-therapy](../topics/dance-movement-therapy.md)
+- [systematic-review](../topics/systematic-review.md)

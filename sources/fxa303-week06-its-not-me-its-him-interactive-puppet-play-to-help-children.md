@@ -24,27 +24,27 @@ Susan Linn explores the therapeutic benefits of puppetry in play therapy for chi
 
 ## Key Concepts
 
-- [[../topics/object relations theory]]
-- [[../topics/projection in therapy]]
-- [[../topics/supportive environment]]
-- [[../topics/coping strategies]]
+- [object relations theory](../topics/object relations theory.md)
+- [projection in therapy](../topics/projection in therapy.md)
+- [supportive environment](../topics/supportive environment.md)
+- [coping strategies](../topics/coping strategies.md)
 
 ## Tags
 
-- [[../tags/therapeutic-puppetry]]
-- [[../tags/child-therapy]]
-- [[../tags/psychodynamic-theory]]
-- [[../tags/object-relations]]
-- [[../tags/emotional-coping]]
-- [[../tags/hospitalization-support]]
-- [[../tags/fxa303]]
+- [therapeutic-puppetry](../tags/therapeutic-puppetry.md)
+- [child-therapy](../tags/child-therapy.md)
+- [psychodynamic-theory](../tags/psychodynamic-theory.md)
+- [object-relations](../tags/object-relations.md)
+- [emotional-coping](../tags/emotional-coping.md)
+- [hospitalization-support](../tags/hospitalization-support.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/child-therapy]]
-- [[../topics/emotional-coping]]
-- [[../topics/therapeutic-puppetry]]
+- [child-therapy](../topics/child-therapy.md)
+- [emotional-coping](../topics/emotional-coping.md)
+- [therapeutic-puppetry](../topics/therapeutic-puppetry.md)

@@ -41,20 +41,20 @@ The systematic reviews examined here cover a range of arts-based interventions a
 
 ## Sources
 
-- [[../sources/fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a]]
-- [[../sources/fxa100-week09-dance-movement-therapy-for-dementia]]
-- [[../sources/fxa100-week09-key-components-of-person-centered-care-for-people-with]]
-- [[../sources/fxa100-week09-key-intervention-categories-to-provide-person-centered]]
-- [[../sources/fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older]]
-- [[../sources/fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention]]
-- [[../sources/fxa301-week06-promoting-wellbeing-and-health-through-active-participation]]
-- [[../sources/fxa301-week06-therapeutic-dancing-for-parkinsons-disease]]
-- [[../sources/fxa301-week06-week-6-activities-fxa301-arts-in-the-community]]
-- [[../sources/fxa301-week08-school-based-drama-interventions-in-health-promotion-for]]
-- [[../sources/fxa303-week03-creative-arts-interventions-for-stress-management-and]]
-- [[../sources/fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and]]
-- [[../sources/fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism]]
-- [[../sources/fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism]]
-- [[../sources/fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder]]
-- [[../sources/fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic]]
-- [[../sources/fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of]]
+- [fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a](../sources/fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a.md)
+- [fxa100-week09-dance-movement-therapy-for-dementia](../sources/fxa100-week09-dance-movement-therapy-for-dementia.md)
+- [fxa100-week09-key-components-of-person-centered-care-for-people-with](../sources/fxa100-week09-key-components-of-person-centered-care-for-people-with.md)
+- [fxa100-week09-key-intervention-categories-to-provide-person-centered](../sources/fxa100-week09-key-intervention-categories-to-provide-person-centered.md)
+- [fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older](../sources/fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older.md)
+- [fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention](../sources/fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention.md)
+- [fxa301-week06-promoting-wellbeing-and-health-through-active-participation](../sources/fxa301-week06-promoting-wellbeing-and-health-through-active-participation.md)
+- [fxa301-week06-therapeutic-dancing-for-parkinsons-disease](../sources/fxa301-week06-therapeutic-dancing-for-parkinsons-disease.md)
+- [fxa301-week06-week-6-activities-fxa301-arts-in-the-community](../sources/fxa301-week06-week-6-activities-fxa301-arts-in-the-community.md)
+- [fxa301-week08-school-based-drama-interventions-in-health-promotion-for](../sources/fxa301-week08-school-based-drama-interventions-in-health-promotion-for.md)
+- [fxa303-week03-creative-arts-interventions-for-stress-management-and](../sources/fxa303-week03-creative-arts-interventions-for-stress-management-and.md)
+- [fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and](../sources/fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and.md)
+- [fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism](../sources/fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism.md)
+- [fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism](../sources/fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism.md)
+- [fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder](../sources/fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder.md)
+- [fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic](../sources/fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic.md)
+- [fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of](../sources/fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of.md)

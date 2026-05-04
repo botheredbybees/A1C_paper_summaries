@@ -24,24 +24,24 @@ This editorial discusses the potential benefits of therapeutic dancing for indiv
 
 ## Key Concepts
 
-- [[../topics/neurodegenerative-conditions]]
-- [[../topics/motor-performance]]
-- [[../topics/social-inclusion]]
+- [neurodegenerative-conditions](../topics/neurodegenerative-conditions.md)
+- [motor-performance](../topics/motor-performance.md)
+- [social-inclusion](../topics/social-inclusion.md)
 
 ## Tags
 
-- [[../tags/parkinsons-disease]]
-- [[../tags/therapeutic-dancing]]
-- [[../tags/rehabilitation-exercises]]
-- [[../tags/quality-of-life]]
-- [[../tags/fxa301]]
+- [parkinsons-disease](../tags/parkinsons-disease.md)
+- [therapeutic-dancing](../tags/therapeutic-dancing.md)
+- [rehabilitation-exercises](../tags/rehabilitation-exercises.md)
+- [quality-of-life](../tags/quality-of-life.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/parkinsons-disease]]
-- [[../topics/quality-of-life]]
-- [[../topics/therapeutic-dancing]]
+- [parkinsons-disease](../topics/parkinsons-disease.md)
+- [quality-of-life](../topics/quality-of-life.md)
+- [therapeutic-dancing](../topics/therapeutic-dancing.md)

@@ -6,49 +6,49 @@ updated: 2026-05-04
 
 ## Quality Of Life
 
-- [[../sources/fxa100-excellence-in-dementia-care--ch01-chapter-10|The Arts in Dementia Care]]
-- [[../sources/fxa100-excellence-in-dementia-care--ch60-chapter-11|Design matters in dementia care: the role of the physical environment in dementia care settings]]
-- [[../sources/fxa100-week03-alzheimers-disease-music-engagement-quality-of-life|Alzheimer\u2019s Disease & Music Engagement: Quality of Life Economic Impact Analysis]]
-- [[../sources/fxa100-week03-evaluation-of-the-music-and-memory-program-among-nursing|Evaluation of the Music and Memory Program among Nursing Home Residents with Dementia]]
-- [[../sources/fxa100-week03-introduction-to-week-3-listening-to-music|Introduction to Week 3: Listening to Music]]
-- [[../sources/fxa100-week03-pearl-85-and-living-with-dementia-adds-another-string-to|Pearl, 85 and Living with Dementia, Adds Another String to Her Bow]]
-- [[../sources/fxa100-week03-personalized-music-for-persons-with-dementia-and-their-life|Personalized Music for Persons with Dementia and Their Life Quality: Report on a Pilot Study of In-Home Use]]
-- [[../sources/fxa100-week03-transcript-music-memory-the-ipod-project|Music & Memory: The iPod Project]]
-- [[../sources/fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care|Welcome to Week 3 - FXA100 The Arts and Dementia Care]]
-- [[../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for|Embedding Music and Music Therapy in Care Pathways for People with Dementia in the 21st Century\u2014a Position Paper]]
-- [[../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-(2)|Embedding Music and Music Therapy in Care Pathways for People with Dementia in the 21st Century]]
-- [[../sources/fxa100-week04-mindsong-transcript|Mindsong \u2013 transcript]]
-- [[../sources/fxa100-week04-music-therapy-and-music-assisted-caregiving-for-dementia|Music Therapy and Music-Assisted Caregiving for Dementia Patients]]
-- [[../sources/fxa100-week04-music-therapy-flyer|Music Therapy Flyer]]
-- [[../sources/fxa100-week04-research-in-aged-care-deloraine-partnership-transcript|Research In Aged Care Deloraine partnership - transcript]]
-- [[../sources/fxa100-week04-singing-and-the-brain|Singing and the Brain]]
-- [[../sources/fxa100-week04-the-impact-of-caregivers-singing-on-expressions-of-emotion|The impact of caregivers' singing on expressions of emotion and resistance during morning care situations in persons with dementia]]
-- [[../sources/fxa100-week04-the-singers-breath-implications-for-treatment-of-persons|The Singer's Breath: Implications for Treatment of Persons with Emphysema]]
-- [[../sources/fxa100-week04-transcript-music-therapy-and-people-with-advanced-dementia|Music Therapy and People with Advanced Dementia]]
-- [[../sources/fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care|Welcome to Week 4 - FXA100 The Arts and Dementia Care]]
-- [[../sources/fxa100-week06-dementia-and-imagination-a-mixed-methods-protocol-for-arts|Dementia and Imagination: a mixed-methods protocol for arts and science research]]
-- [[../sources/fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of|Is a Visual Arts Programme Beneficial for the Quality of Life of People Living with Dementia?]]
-- [[../sources/fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to|Painting for a Purpose: A Visual Arts Program as a Method to Promote Engagement, Communication, Cognition, and Quality of Life for Individuals With Dementia]]
-- [[../sources/fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life|The impact of a visual arts program on quality of life, communication, and well-being of people living with dementia: a mixed-methods longitudinal investigation]]
-- [[../sources/fxa100-week06-transcript-film-clips-from-i-remember-better-when-i-paint|Transcript: Film Clips from 'I Remember Better When I Paint']]
-- [[../sources/fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care|Welcome to Week 6 - FXA100 The Arts and Dementia Care]]
-- [[../sources/fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia|An Art Gallery Access Programme for people with dementia: \u2018You do it for the moment\u2019]]
-- [[../sources/fxa100-week07-im-still-here-a-breakthrough-approach-to-understanding|I'm Still Here: A Breakthrough Approach To Understanding Someone Living With Alzheimer's]]
-- [[../sources/fxa100-week07-interventions-dementia-services-information-and-development|Interventions \u2013 Dementia Services Information and Development Centre]]
-- [[../sources/fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum|Museums, Meaning Making, and Memories: The Need for Museum Programs for People with Dementia and Their Caregivers]]
-- [[../sources/fxa100-week07-nurturing-the-heart-creativity-art-therapy-and-dementia|Nurturing the Heart: Creativity, Art Therapy and Dementia]]
-- [[../sources/fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of|Arts in Dementia Care: This is not the end... if it's the end of this chapter]]
-- [[../sources/fxa100-week08-creativity-and-communication-in-persons-with-dementia-a|Creativity and Communication in Persons with Dementia : A Practical Guide]]
-- [[../sources/fxa100-week08-it-makes-me-feel-like-myself-person-centered-versus|'It makes me feel like myself': Person-centered versus traditional visual arts activities for people with dementia]]
-- [[../sources/fxa100-week08-the-use-of-creative-activities-in-dementia-in-residential|The Use of Creative Activities in Dementia in Residential Aged Care Facilities in Australia: A Cross-Sectional Descriptive Study]]
-- [[../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it|Drama Therapy with Older People with Dementia\u2014Does it Improve Quality of Life?]]
-- [[../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2)|Drama therapy with older people with dementia\u2014Does it improve quality of life?]]
-- [[../sources/fxa100-week09-lesson-fxa100-week09-page-4-week-8-activities|Activities for Week 9 - FXA100 The Arts and Dementia Care]]
-- [[../sources/fxa100-week09-testing-the-implementation-of-the-veder-contact-method-a|Testing the Implementation of the Veder Contact Method: A Theatre-Based Communication Method in Dementia Care]]
-- [[../sources/fxa301-week05-the-2024-happy-planet-index|The 2024 Happy Planet Index]]
-- [[../sources/fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons|Editorial Comment on \u201cTherapeutic Dancing for Parkinson's Disease\u201d]]
-- [[../sources/fxa301-week06-song-of-life-sol-study-protocol-a-multicenter-randomized|\"Song of Life (SOL)\" study protocol: a multicenter, randomized trial on the emotional, spiritual, and psychobiological effects of music therapy in palliative care]]
-- [[../sources/fxa301-week06-therapeutic-dancing-for-parkinsons-disease|Therapeutic Dancing for Parkinson\u2019s Disease]]
-- [[../sources/fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple|Therapeutic Use of the Arts for Patients with Multiple Sclerosis]]
-- [[../sources/fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic|A Meta-Analysis of Expressive Writing on Posttraumatic Stress, Posttraumatic Growth, and Quality of Life]]
-- [[../sources/fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns|\"I made you a small room in my heart\": how therapeutic clowns meet the needs of older adults in nursing homes]]
+- [The Arts in Dementia Care](../sources/fxa100-excellence-in-dementia-care--ch01-chapter-10.md)
+- [Design matters in dementia care: the role of the physical environment in dementia care settings](../sources/fxa100-excellence-in-dementia-care--ch60-chapter-11.md)
+- [Alzheimer\u2019s Disease & Music Engagement: Quality of Life Economic Impact Analysis](../sources/fxa100-week03-alzheimers-disease-music-engagement-quality-of-life.md)
+- [Evaluation of the Music and Memory Program among Nursing Home Residents with Dementia](../sources/fxa100-week03-evaluation-of-the-music-and-memory-program-among-nursing.md)
+- [Introduction to Week 3: Listening to Music](../sources/fxa100-week03-introduction-to-week-3-listening-to-music.md)
+- [Pearl, 85 and Living with Dementia, Adds Another String to Her Bow](../sources/fxa100-week03-pearl-85-and-living-with-dementia-adds-another-string-to.md)
+- [Personalized Music for Persons with Dementia and Their Life Quality: Report on a Pilot Study of In-Home Use](../sources/fxa100-week03-personalized-music-for-persons-with-dementia-and-their-life.md)
+- [Music & Memory: The iPod Project](../sources/fxa100-week03-transcript-music-memory-the-ipod-project.md)
+- [Welcome to Week 3 - FXA100 The Arts and Dementia Care](../sources/fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care.md)
+- [Embedding Music and Music Therapy in Care Pathways for People with Dementia in the 21st Century\u2014a Position Paper](../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for.md)
+- [Embedding Music and Music Therapy in Care Pathways for People with Dementia in the 21st Century](../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-(2).md)
+- [Mindsong \u2013 transcript](../sources/fxa100-week04-mindsong-transcript.md)
+- [Music Therapy and Music-Assisted Caregiving for Dementia Patients](../sources/fxa100-week04-music-therapy-and-music-assisted-caregiving-for-dementia.md)
+- [Music Therapy Flyer](../sources/fxa100-week04-music-therapy-flyer.md)
+- [Research In Aged Care Deloraine partnership - transcript](../sources/fxa100-week04-research-in-aged-care-deloraine-partnership-transcript.md)
+- [Singing and the Brain](../sources/fxa100-week04-singing-and-the-brain.md)
+- [The impact of caregivers' singing on expressions of emotion and resistance during morning care situations in persons with dementia](../sources/fxa100-week04-the-impact-of-caregivers-singing-on-expressions-of-emotion.md)
+- [The Singer's Breath: Implications for Treatment of Persons with Emphysema](../sources/fxa100-week04-the-singers-breath-implications-for-treatment-of-persons.md)
+- [Music Therapy and People with Advanced Dementia](../sources/fxa100-week04-transcript-music-therapy-and-people-with-advanced-dementia.md)
+- [Welcome to Week 4 - FXA100 The Arts and Dementia Care](../sources/fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care.md)
+- [Dementia and Imagination: a mixed-methods protocol for arts and science research](../sources/fxa100-week06-dementia-and-imagination-a-mixed-methods-protocol-for-arts.md)
+- [Is a Visual Arts Programme Beneficial for the Quality of Life of People Living with Dementia?](../sources/fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of.md)
+- [Painting for a Purpose: A Visual Arts Program as a Method to Promote Engagement, Communication, Cognition, and Quality of Life for Individuals With Dementia](../sources/fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to.md)
+- [The impact of a visual arts program on quality of life, communication, and well-being of people living with dementia: a mixed-methods longitudinal investigation](../sources/fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life.md)
+- [Transcript: Film Clips from 'I Remember Better When I Paint'](../sources/fxa100-week06-transcript-film-clips-from-i-remember-better-when-i-paint.md)
+- [Welcome to Week 6 - FXA100 The Arts and Dementia Care](../sources/fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care.md)
+- [An Art Gallery Access Programme for people with dementia: \u2018You do it for the moment\u2019](../sources/fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia.md)
+- [I'm Still Here: A Breakthrough Approach To Understanding Someone Living With Alzheimer's](../sources/fxa100-week07-im-still-here-a-breakthrough-approach-to-understanding.md)
+- [Interventions \u2013 Dementia Services Information and Development Centre](../sources/fxa100-week07-interventions-dementia-services-information-and-development.md)
+- [Museums, Meaning Making, and Memories: The Need for Museum Programs for People with Dementia and Their Caregivers](../sources/fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum.md)
+- [Nurturing the Heart: Creativity, Art Therapy and Dementia](../sources/fxa100-week07-nurturing-the-heart-creativity-art-therapy-and-dementia.md)
+- [Arts in Dementia Care: This is not the end... if it's the end of this chapter](../sources/fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of.md)
+- [Creativity and Communication in Persons with Dementia : A Practical Guide](../sources/fxa100-week08-creativity-and-communication-in-persons-with-dementia-a.md)
+- ['It makes me feel like myself': Person-centered versus traditional visual arts activities for people with dementia](../sources/fxa100-week08-it-makes-me-feel-like-myself-person-centered-versus.md)
+- [The Use of Creative Activities in Dementia in Residential Aged Care Facilities in Australia: A Cross-Sectional Descriptive Study](../sources/fxa100-week08-the-use-of-creative-activities-in-dementia-in-residential.md)
+- [Drama Therapy with Older People with Dementia\u2014Does it Improve Quality of Life?](../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it.md)
+- [Drama therapy with older people with dementia\u2014Does it improve quality of life?](../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2).md)
+- [Activities for Week 9 - FXA100 The Arts and Dementia Care](../sources/fxa100-week09-lesson-fxa100-week09-page-4-week-8-activities.md)
+- [Testing the Implementation of the Veder Contact Method: A Theatre-Based Communication Method in Dementia Care](../sources/fxa100-week09-testing-the-implementation-of-the-veder-contact-method-a.md)
+- [The 2024 Happy Planet Index](../sources/fxa301-week05-the-2024-happy-planet-index.md)
+- [Editorial Comment on \u201cTherapeutic Dancing for Parkinson's Disease\u201d](../sources/fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons.md)
+- [\"Song of Life (SOL)\" study protocol: a multicenter, randomized trial on the emotional, spiritual, and psychobiological effects of music therapy in palliative care](../sources/fxa301-week06-song-of-life-sol-study-protocol-a-multicenter-randomized.md)
+- [Therapeutic Dancing for Parkinson\u2019s Disease](../sources/fxa301-week06-therapeutic-dancing-for-parkinsons-disease.md)
+- [Therapeutic Use of the Arts for Patients with Multiple Sclerosis](../sources/fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple.md)
+- [A Meta-Analysis of Expressive Writing on Posttraumatic Stress, Posttraumatic Growth, and Quality of Life](../sources/fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic.md)
+- [\"I made you a small room in my heart\": how therapeutic clowns meet the needs of older adults in nursing homes](../sources/fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns.md)

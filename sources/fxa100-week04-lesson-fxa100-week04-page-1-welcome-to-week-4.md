@@ -24,16 +24,16 @@ This week's module in FXA100 focuses on participatory music activities for indiv
 
 ## Key Concepts
 
-- [[../topics/music therapy]]
-- [[../topics/registered music therapist (RMT)]]
-- [[../topics/therapeutic benefits of music]]
+- [music therapy](../topics/music therapy.md)
+- [registered music therapist (RMT)](../topics/registered music therapist (RMT).md)
+- [therapeutic benefits of music](../topics/therapeutic benefits of music.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/music-therapy]]
-- [[../tags/participatory-music]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [music-therapy](../tags/music-therapy.md)
+- [participatory-music](../tags/participatory-music.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -41,6 +41,6 @@ This week's module in FXA100 focuses on participatory music activities for indiv
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/music-therapy]]
-- [[../topics/participatory-music]]
+- [dementia-care](../topics/dementia-care.md)
+- [music-therapy](../topics/music-therapy.md)
+- [participatory-music](../topics/participatory-music.md)

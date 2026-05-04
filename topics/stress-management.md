@@ -29,8 +29,8 @@ The exploration of stress management interventions across multiple sources highl
 
 ## Sources
 
-- [[../sources/fxa100-week03-the-short-term-impact-of-music-interventions-on-stress]]
-- [[../sources/fxa202-week09-5-benefits-of-journaling-for-mental-health]]
-- [[../sources/fxa301-week02-the-influence-of-stress-optimism-and-music-training-on]]
-- [[../sources/fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and]]
-- [[../sources/fxa303-week03-creative-arts-interventions-for-stress-management-and]]
+- [fxa100-week03-the-short-term-impact-of-music-interventions-on-stress](../sources/fxa100-week03-the-short-term-impact-of-music-interventions-on-stress.md)
+- [fxa202-week09-5-benefits-of-journaling-for-mental-health](../sources/fxa202-week09-5-benefits-of-journaling-for-mental-health.md)
+- [fxa301-week02-the-influence-of-stress-optimism-and-music-training-on](../sources/fxa301-week02-the-influence-of-stress-optimism-and-music-training-on.md)
+- [fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and](../sources/fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and.md)
+- [fxa303-week03-creative-arts-interventions-for-stress-management-and](../sources/fxa303-week03-creative-arts-interventions-for-stress-management-and.md)

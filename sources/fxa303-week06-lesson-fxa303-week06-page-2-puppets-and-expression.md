@@ -24,16 +24,16 @@ This lesson explores the expressive capabilities of puppets in play-based therap
 
 ## Key Concepts
 
-- [[../topics/externalization of problems]]
-- [[../topics/re-evaluation of painful memories]]
-- [[../topics/emotional regulation]]
+- [externalization of problems](../topics/externalization of problems.md)
+- [re-evaluation of painful memories](../topics/re-evaluation of painful memories.md)
+- [emotional regulation](../topics/emotional regulation.md)
 
 ## Tags
 
-- [[../tags/puppet-therapy]]
-- [[../tags/creative-arts]]
-- [[../tags/mental-wellbeing]]
-- [[../tags/fxa303]]
+- [puppet-therapy](../tags/puppet-therapy.md)
+- [creative-arts](../tags/creative-arts.md)
+- [mental-wellbeing](../tags/mental-wellbeing.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
@@ -41,6 +41,6 @@ This lesson explores the expressive capabilities of puppets in play-based therap
 
 ## See Also
 
-- [[../topics/creative-arts]]
-- [[../topics/mental-wellbeing]]
-- [[../topics/puppet-therapy]]
+- [creative-arts](../topics/creative-arts.md)
+- [mental-wellbeing](../topics/mental-wellbeing.md)
+- [puppet-therapy](../topics/puppet-therapy.md)

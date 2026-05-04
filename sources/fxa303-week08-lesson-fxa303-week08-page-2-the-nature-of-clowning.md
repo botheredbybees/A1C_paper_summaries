@@ -24,15 +24,15 @@ This lesson explores the history and role of clowns and jesters from ancient tim
 
 ## Key Concepts
 
-- [[../topics/court jesters]]
-- [[../topics/therapeutic benefits of laughter]]
+- [court jesters](../topics/court jesters.md)
+- [therapeutic benefits of laughter](../topics/therapeutic benefits of laughter.md)
 
 ## Tags
 
-- [[../tags/clown-history]]
-- [[../tags/jesters-in-ancient-cultures]]
-- [[../tags/therapeutic-clowning]]
-- [[../tags/fxa303]]
+- [clown-history](../tags/clown-history.md)
+- [jesters-in-ancient-cultures](../tags/jesters-in-ancient-cultures.md)
+- [therapeutic-clowning](../tags/therapeutic-clowning.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ This lesson explores the history and role of clowns and jesters from ancient tim
 
 ## See Also
 
-- [[../topics/therapeutic-clowning]]
+- [therapeutic-clowning](../topics/therapeutic-clowning.md)

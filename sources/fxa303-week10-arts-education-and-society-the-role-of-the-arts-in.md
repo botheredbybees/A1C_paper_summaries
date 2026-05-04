@@ -24,21 +24,21 @@ Vassiliki Karkou and Judy Glasman's article discusses the role of arts in educat
 
 ## Key Concepts
 
-- [[../topics/arts therapies]]
-- [[../topics/Labyrinth Project]]
-- [[../topics/self-expression]]
+- [arts therapies](../topics/arts therapies.md)
+- [Labyrinth Project](../topics/Labyrinth Project.md)
+- [self-expression](../topics/self-expression.md)
 
 ## Tags
 
-- [[../tags/arts-education]]
-- [[../tags/emotional-wellbeing]]
-- [[../tags/social-inclusion]]
-- [[../tags/youth-development]]
-- [[../tags/fxa303]]
+- [arts-education](../tags/arts-education.md)
+- [emotional-wellbeing](../tags/emotional-wellbeing.md)
+- [social-inclusion](../tags/social-inclusion.md)
+- [youth-development](../tags/youth-development.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case study]]
+- **case study**
 
 ## See Also
 

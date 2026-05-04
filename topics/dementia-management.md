@@ -26,5 +26,5 @@ Music therapy emerges as a promising intervention in managing symptoms of dement
 
 ## Sources
 
-- [[../sources/fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers]]
-- [[../sources/fxa100-week09-the-fundamentals-of-person-centered-care-for-individuals]]
+- [fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers](../sources/fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers.md)
+- [fxa100-week09-the-fundamentals-of-person-centered-care-for-individuals](../sources/fxa100-week09-the-fundamentals-of-person-centered-care-for-individuals.md)

@@ -27,16 +27,16 @@ This chapter explores the burgeoning field of 'arts in health' in post-war Brita
 
 ## Key Concepts
 
-- [[../topics/art-therapy]]
-- [[../topics/participatory-art-programmes]]
-- [[../topics/health-wellbeing]]
+- [art-therapy](../topics/art-therapy.md)
+- [participatory-art-programmes](../topics/participatory-art-programmes.md)
+- [health-wellbeing](../topics/health-wellbeing.md)
 
 ## Tags
 
-- [[../tags/arts-and-health]]
-- [[../tags/public-policy]]
-- [[../tags/social-inclusion]]
-- [[../tags/fxa301]]
+- [arts-and-health](../tags/arts-and-health.md)
+- [public-policy](../tags/public-policy.md)
+- [social-inclusion](../tags/social-inclusion.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -44,6 +44,6 @@ This chapter explores the burgeoning field of 'arts in health' in post-war Brita
 
 ## See Also
 
-- [[../topics/arts-and-health]]
-- [[../topics/public-policy]]
-- [[../topics/social-inclusion]]
+- [arts-and-health](../topics/arts-and-health.md)
+- [public-policy](../topics/public-policy.md)
+- [social-inclusion](../topics/social-inclusion.md)

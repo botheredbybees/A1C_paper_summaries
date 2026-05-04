@@ -24,17 +24,17 @@ This lesson explores the concept of therapeutic clowning in healthcare settings.
 
 ## Key Concepts
 
-- [[../topics/Patch Adams]]
-- [[../topics/humor therapy]]
-- [[../topics/play therapy]]
+- [Patch Adams](../topics/Patch Adams.md)
+- [humor therapy](../topics/humor therapy.md)
+- [play therapy](../topics/play therapy.md)
 
 ## Tags
 
-- [[../tags/therapeutic-clowning]]
-- [[../tags/mental-wellbeing]]
-- [[../tags/hospital-care]]
-- [[../tags/childrens-healthcare]]
-- [[../tags/fxa303]]
+- [therapeutic-clowning](../tags/therapeutic-clowning.md)
+- [mental-wellbeing](../tags/mental-wellbeing.md)
+- [hospital-care](../tags/hospital-care.md)
+- [childrens-healthcare](../tags/childrens-healthcare.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
@@ -42,5 +42,5 @@ This lesson explores the concept of therapeutic clowning in healthcare settings.
 
 ## See Also
 
-- [[../topics/mental-wellbeing]]
-- [[../topics/therapeutic-clowning]]
+- [mental-wellbeing](../topics/mental-wellbeing.md)
+- [therapeutic-clowning](../topics/therapeutic-clowning.md)

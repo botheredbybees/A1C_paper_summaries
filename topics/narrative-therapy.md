@@ -27,6 +27,6 @@ Narrative therapy is a therapeutic approach aimed at helping individuals address
 
 ## Sources
 
-- [[../sources/fxa100-week07-creating-resources-memory-trees-and-boxes]]
-- [[../sources/fxa202-therapeutic-photography-ch05-1-photographs-are-used-to-record-inventories-such-as-objects]]
-- [[../sources/fxa303-week06-using-puppets-with-children-in-narrative-therapy-to]]
+- [fxa100-week07-creating-resources-memory-trees-and-boxes](../sources/fxa100-week07-creating-resources-memory-trees-and-boxes.md)
+- [fxa202-therapeutic-photography-ch05-1-photographs-are-used-to-record-inventories-such-as-objects](../sources/fxa202-therapeutic-photography-ch05-1-photographs-are-used-to-record-inventories-such-as-objects.md)
+- [fxa303-week06-using-puppets-with-children-in-narrative-therapy-to](../sources/fxa303-week06-using-puppets-with-children-in-narrative-therapy-to.md)

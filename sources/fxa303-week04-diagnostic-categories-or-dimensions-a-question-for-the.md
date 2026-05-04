@@ -24,23 +24,23 @@ This article examines the debate between categorical and dimensional approaches 
 
 ## Key Concepts
 
-- [[../topics/diagnostic-categories]]
-- [[../topics/pathological-dimensions]]
-- [[../topics/negative-affectivity]]
-- [[../topics/externalization]]
+- [diagnostic-categories](../topics/diagnostic-categories.md)
+- [pathological-dimensions](../topics/pathological-dimensions.md)
+- [negative-affectivity](../topics/negative-affectivity.md)
+- [externalization](../topics/externalization.md)
 
 ## Tags
 
-- [[../tags/categorical-diagnosis]]
-- [[../tags/dimensional-approach]]
-- [[../tags/mental-disorders]]
-- [[../tags/dsm-v]]
-- [[../tags/comorbidity]]
-- [[../tags/fxa303]]
+- [categorical-diagnosis](../tags/categorical-diagnosis.md)
+- [dimensional-approach](../tags/dimensional-approach.md)
+- [mental-disorders](../tags/mental-disorders.md)
+- [dsm-v](../tags/dsm-v.md)
+- [comorbidity](../tags/comorbidity.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[literature-review]]
+- [literature-review](literature-review.md)
 
 ## See Also
 

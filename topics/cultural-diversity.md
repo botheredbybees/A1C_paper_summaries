@@ -29,8 +29,8 @@ The integration of diverse cultural practices within arts and healthcare interve
 
 ## Sources
 
-- [[../sources/fxa100-week03-lesson-fxa100-week03-page-4-week-3-activities1]]
-- [[../sources/fxa301-week01-lesson-fxa301-week01-page-3-arts-participation]]
-- [[../sources/fxa301-week03-creating-our-future-results-of-the-national-arts]]
-- [[../sources/fxa301-week09-web-article-australia-2018]]
-- [[../sources/fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an]]
+- [fxa100-week03-lesson-fxa100-week03-page-4-week-3-activities1](../sources/fxa100-week03-lesson-fxa100-week03-page-4-week-3-activities1.md)
+- [fxa301-week01-lesson-fxa301-week01-page-3-arts-participation](../sources/fxa301-week01-lesson-fxa301-week01-page-3-arts-participation.md)
+- [fxa301-week03-creating-our-future-results-of-the-national-arts](../sources/fxa301-week03-creating-our-future-results-of-the-national-arts.md)
+- [fxa301-week09-web-article-australia-2018](../sources/fxa301-week09-web-article-australia-2018.md)
+- [fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an](../sources/fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an.md)

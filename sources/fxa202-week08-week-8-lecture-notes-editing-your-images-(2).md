@@ -24,23 +24,23 @@ The Week 8 Lecture Notes for the course FXA202 at the University of Tasmania emp
 
 ## Key Concepts
 
-- [[../topics/therapeutic photography]]
-- [[../topics/mindfulness practices]]
-- [[../topics/image editing techniques]]
+- [therapeutic photography](../topics/therapeutic photography.md)
+- [mindfulness practices](../topics/mindfulness practices.md)
+- [image editing techniques](../topics/image editing techniques.md)
 
 ## Tags
 
-- [[../tags/therapeutic-photography]]
-- [[../tags/mental-health-through-art]]
-- [[../tags/photo-editing-software]]
-- [[../tags/creative-techniques-in-photography]]
-- [[../tags/digital-compositing]]
-- [[../tags/fxa202]]
+- [therapeutic-photography](../tags/therapeutic-photography.md)
+- [mental-health-through-art](../tags/mental-health-through-art.md)
+- [photo-editing-software](../tags/photo-editing-software.md)
+- [creative-techniques-in-photography](../tags/creative-techniques-in-photography.md)
+- [digital-compositing](../tags/digital-compositing.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/therapeutic-photography]]
+- [therapeutic-photography](../topics/therapeutic-photography.md)

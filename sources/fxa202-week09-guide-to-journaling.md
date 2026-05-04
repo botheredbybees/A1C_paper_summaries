@@ -24,26 +24,26 @@ The document 'Guide to Journaling' emphasizes the importance of journaling as a 
 
 ## Key Concepts
 
-- [[../topics/expressive writing]]
-- [[../topics/self-awareness]]
-- [[../topics/therapeutic journaling]]
-- [[../topics/mental well-being]]
+- [expressive writing](../topics/expressive writing.md)
+- [self-awareness](../topics/self-awareness.md)
+- [therapeutic journaling](../topics/therapeutic journaling.md)
+- [mental well-being](../topics/mental well-being.md)
 
 ## Tags
 
-- [[../tags/journaling-for-wellbeing]]
-- [[../tags/emotional-processing]]
-- [[../tags/self-discovery-strategies]]
-- [[../tags/expressive-writing-therapy]]
-- [[../tags/personal-growth-tools]]
-- [[../tags/decision-making-clarity]]
-- [[../tags/fxa202]]
+- [journaling-for-wellbeing](../tags/journaling-for-wellbeing.md)
+- [emotional-processing](../tags/emotional-processing.md)
+- [self-discovery-strategies](../tags/self-discovery-strategies.md)
+- [expressive-writing-therapy](../tags/expressive-writing-therapy.md)
+- [personal-growth-tools](../tags/personal-growth-tools.md)
+- [decision-making-clarity](../tags/decision-making-clarity.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/emotional-processing]]
-- [[../topics/expressive-writing-therapy]]
+- [emotional-processing](../topics/emotional-processing.md)
+- [expressive-writing-therapy](../topics/expressive-writing-therapy.md)

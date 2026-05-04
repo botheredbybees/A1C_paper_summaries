@@ -24,16 +24,16 @@ This lesson covers aspects of hearing and music processing. It describes the phy
 
 ## Key Concepts
 
-- [[../topics/sound perception]]
-- [[../topics/left-brain-right-brain myth]]
-- [[../topics/musical structure]]
+- [sound perception](../topics/sound perception.md)
+- [left-brain-right-brain myth](../topics/left-brain-right-brain myth.md)
+- [musical structure](../topics/musical structure.md)
 
 ## Tags
 
-- [[../tags/hearing-process]]
-- [[../tags/music-elements]]
-- [[../tags/brain-function]]
-- [[../tags/fxa100]]
+- [hearing-process](../tags/hearing-process.md)
+- [music-elements](../tags/music-elements.md)
+- [brain-function](../tags/brain-function.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ This lesson covers aspects of hearing and music processing. It describes the phy
 
 ## See Also
 
-- [[../topics/brain-function]]
-- [[../topics/hearing-process]]
+- [brain-function](../topics/brain-function.md)
+- [hearing-process](../topics/hearing-process.md)

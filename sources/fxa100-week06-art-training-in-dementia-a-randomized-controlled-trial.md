@@ -28,22 +28,22 @@ The findings contribute to the ongoing debate about whether art-based interventi
 
 ## Key Concepts
 
-- [[../topics/visual art training]]
-- [[../topics/delayed recall]]
-- [[../topics/working memory]]
+- [visual art training](../topics/visual art training.md)
+- [delayed recall](../topics/delayed recall.md)
+- [working memory](../topics/working memory.md)
 
 ## Tags
 
-- [[../tags/dementia-research]]
-- [[../tags/art-therapy]]
-- [[../tags/cognitive-interventions]]
-- [[../tags/randomized-trials]]
-- [[../tags/fxa100]]
+- [dementia-research](../tags/dementia-research.md)
+- [art-therapy](../tags/art-therapy.md)
+- [cognitive-interventions](../tags/cognitive-interventions.md)
+- [randomized-trials](../tags/randomized-trials.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[randomized controlled trial]]
+- [randomized controlled trial](randomized controlled trial.md)
 
 ## See Also
 
-- [[../topics/dementia-research]]
+- [dementia-research](../topics/dementia-research.md)

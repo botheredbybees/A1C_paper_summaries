@@ -25,5 +25,5 @@ This synthesis focuses on interdisciplinary research aimed at enhancing the qual
 
 ## Sources
 
-- [[../sources/fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of]]
-- [[../sources/fxa301-week02-the-emerging-field-of-affective-science]]
+- [fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of](../sources/fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of.md)
+- [fxa301-week02-the-emerging-field-of-affective-science](../sources/fxa301-week02-the-emerging-field-of-affective-science.md)

@@ -28,17 +28,17 @@ Dr Brendan Lamb's lecture for FXA301 Arts in the Community introduces students t
 
 ## Key Concepts
 
-- [[../topics/arts-on-prescription]]
-- [[../topics/social-cohesion]]
-- [[../topics/health-and-wellbeing-outcomes]]
+- [arts-on-prescription](../topics/arts-on-prescription.md)
+- [social-cohesion](../topics/social-cohesion.md)
+- [health-and-wellbeing-outcomes](../topics/health-and-wellbeing-outcomes.md)
 
 ## Tags
 
-- [[../tags/creative-arts]]
-- [[../tags/community-health]]
-- [[../tags/wellbeing]]
-- [[../tags/education-outcomes]]
-- [[../tags/fxa301]]
+- [creative-arts](../tags/creative-arts.md)
+- [community-health](../tags/community-health.md)
+- [wellbeing](../tags/wellbeing.md)
+- [education-outcomes](../tags/education-outcomes.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -46,6 +46,6 @@ Dr Brendan Lamb's lecture for FXA301 Arts in the Community introduces students t
 
 ## See Also
 
-- [[../topics/community-health]]
-- [[../topics/creative-arts]]
-- [[../topics/wellbeing]]
+- [community-health](../topics/community-health.md)
+- [creative-arts](../topics/creative-arts.md)
+- [wellbeing](../topics/wellbeing.md)

@@ -26,5 +26,5 @@ Research in adolescent neuroscience highlights the critical period during which 
 
 ## Sources
 
-- [[../sources/fxa303-week03-adolescence-as-a-sensitive-period-of-brain-development]]
-- [[../sources/fxa303-week03-the-early-adolescent-brain-on-music-analysis-of-functional]]
+- [fxa303-week03-adolescence-as-a-sensitive-period-of-brain-development](../sources/fxa303-week03-adolescence-as-a-sensitive-period-of-brain-development.md)
+- [fxa303-week03-the-early-adolescent-brain-on-music-analysis-of-functional](../sources/fxa303-week03-the-early-adolescent-brain-on-music-analysis-of-functional.md)

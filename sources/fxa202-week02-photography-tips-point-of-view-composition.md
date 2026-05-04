@@ -24,24 +24,24 @@ Bill Hatcher discusses the application of point of view (POV) composition in pho
 
 ## Key Concepts
 
-- [[../topics/point-of-view-composition]]
-- [[../topics/dynamic-perspectives]]
-- [[../topics/unique-vantage-points]]
+- [point-of-view-composition](../topics/point-of-view-composition.md)
+- [dynamic-perspectives](../topics/dynamic-perspectives.md)
+- [unique-vantage-points](../topics/unique-vantage-points.md)
 
 ## Tags
 
-- [[../tags/photography-tips]]
-- [[../tags/composition-techniques]]
-- [[../tags/visual-storytelling]]
-- [[../tags/camera-angles]]
-- [[../tags/fxa202]]
+- [photography-tips](../tags/photography-tips.md)
+- [composition-techniques](../tags/composition-techniques.md)
+- [visual-storytelling](../tags/visual-storytelling.md)
+- [camera-angles](../tags/camera-angles.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/composition-techniques]]
-- [[../topics/photography-tips]]
-- [[../topics/visual-storytelling]]
+- [composition-techniques](../topics/composition-techniques.md)
+- [photography-tips](../topics/photography-tips.md)
+- [visual-storytelling](../topics/visual-storytelling.md)

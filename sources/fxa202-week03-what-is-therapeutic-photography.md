@@ -24,26 +24,26 @@ Chapter 1 of 'Therapeutic Photography: Enhancing Self-Esteem, Self-Efficacy and 
 
 ## Key Concepts
 
-- [[../topics/therapeutic photography]]
-- [[../topics/self-esteem enhancement]]
-- [[../topics/resilience building]]
+- [therapeutic photography](../topics/therapeutic photography.md)
+- [self-esteem enhancement](../topics/self-esteem enhancement.md)
+- [resilience building](../topics/resilience building.md)
 
 ## Tags
 
-- [[../tags/therapeutic-photography]]
-- [[../tags/mental-health-interventions]]
-- [[../tags/self-efficacy-building]]
-- [[../tags/cultural-understanding-through-art]]
-- [[../tags/recovery-from-trauma]]
-- [[../tags/communication-skills]]
-- [[../tags/fxa202]]
+- [therapeutic-photography](../tags/therapeutic-photography.md)
+- [mental-health-interventions](../tags/mental-health-interventions.md)
+- [self-efficacy-building](../tags/self-efficacy-building.md)
+- [cultural-understanding-through-art](../tags/cultural-understanding-through-art.md)
+- [recovery-from-trauma](../tags/recovery-from-trauma.md)
+- [communication-skills](../tags/communication-skills.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[literature review]]
+- [literature review](literature review.md)
 
 ## See Also
 
-- [[../topics/communication-skills]]
-- [[../topics/mental-health-interventions]]
-- [[../topics/therapeutic-photography]]
+- [communication-skills](../topics/communication-skills.md)
+- [mental-health-interventions](../topics/mental-health-interventions.md)
+- [therapeutic-photography](../topics/therapeutic-photography.md)

@@ -24,21 +24,21 @@ This study explores the psychological impact of music-evoked nostalgia, focusing
 
 ## Key Concepts
 
-- [[../topics/nostalgia-proneness]]
-- [[../topics/autobiographical-salience]]
-- [[../topics/mixed-emotions]]
+- [nostalgia-proneness](../topics/nostalgia-proneness.md)
+- [autobiographical-salience](../topics/autobiographical-salience.md)
+- [mixed-emotions](../topics/mixed-emotions.md)
 
 ## Tags
 
-- [[../tags/music-evoked-nostalgia]]
-- [[../tags/affective-memory]]
-- [[../tags/personality-traits]]
-- [[../tags/fxa301]]
+- [music-evoked-nostalgia](../tags/music-evoked-nostalgia.md)
+- [affective-memory](../tags/affective-memory.md)
+- [personality-traits](../tags/personality-traits.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[survey-study]]
+- [survey-study](survey-study.md)
 
 ## See Also
 
-- [[../topics/personality-traits]]
+- [personality-traits](../topics/personality-traits.md)

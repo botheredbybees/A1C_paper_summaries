@@ -28,23 +28,23 @@ Additionally, the document explores arts-based programs for young asylum seekers
 
 ## Key Concepts
 
-- [[../topics/cultural-sensitivity]]
-- [[../topics/social-isolation]]
-- [[../topics/arts-integration]]
+- [cultural-sensitivity](../topics/cultural-sensitivity.md)
+- [social-isolation](../topics/social-isolation.md)
+- [arts-integration](../topics/arts-integration.md)
 
 ## Tags
 
-- [[../tags/cultural-context]]
-- [[../tags/arts-therapy]]
-- [[../tags/mental-health]]
-- [[../tags/community-engagement]]
-- [[../tags/indigenous-youth]]
-- [[../tags/refugee-support]]
-- [[../tags/fxa303]]
+- [cultural-context](../tags/cultural-context.md)
+- [arts-therapy](../tags/arts-therapy.md)
+- [mental-health](../tags/mental-health.md)
+- [community-engagement](../tags/community-engagement.md)
+- [indigenous-youth](../tags/indigenous-youth.md)
+- [refugee-support](../tags/refugee-support.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- **case-study**
 
 ## See Also
 

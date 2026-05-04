@@ -24,16 +24,16 @@ The article discusses the rapid transformation of Australia's electric vehicle (
 
 ## Key Concepts
 
-- [[../topics/ev-adoption]]
-- [[../topics/charging-infrastructure]]
-- [[../topics/government-incentives]]
+- [ev-adoption](../topics/ev-adoption.md)
+- [charging-infrastructure](../topics/charging-infrastructure.md)
+- [government-incentives](../topics/government-incentives.md)
 
 ## Tags
 
-- [[../tags/climate-change-and-environment]]
-- [[../tags/transport-infrastructure]]
-- [[../tags/electric-vehicles]]
-- [[../tags/fxa301]]
+- [climate-change-and-environment](../tags/climate-change-and-environment.md)
+- [transport-infrastructure](../tags/transport-infrastructure.md)
+- [electric-vehicles](../tags/electric-vehicles.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

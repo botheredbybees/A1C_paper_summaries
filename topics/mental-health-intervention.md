@@ -27,6 +27,6 @@ The provided sources highlight different approaches to mental health interventio
 
 ## Sources
 
-- [[../sources/fxa100-week04-music-therapy-promotes-mental-health-in-schools]]
-- [[../sources/fxa303-week01-an-overview-of-play-therapy]]
-- [[../sources/fxa303-week09-psychological-first-aid-supporting-people-affected-by]]
+- [fxa100-week04-music-therapy-promotes-mental-health-in-schools](../sources/fxa100-week04-music-therapy-promotes-mental-health-in-schools.md)
+- [fxa303-week01-an-overview-of-play-therapy](../sources/fxa303-week01-an-overview-of-play-therapy.md)
+- [fxa303-week09-psychological-first-aid-supporting-people-affected-by](../sources/fxa303-week09-psychological-first-aid-supporting-people-affected-by.md)

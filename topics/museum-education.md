@@ -30,9 +30,9 @@ The integration of health-focused educational programs within museums presents a
 
 ## Sources
 
-- [[../sources/fxa100-week07-house-of-memories-national-museums-liverpool]]
-- [[../sources/fxa100-week07-transcript-artz-museum-program-for-alzheimers-url-only]]
-- [[../sources/fxa301-week05-happy-museum-learning-evaluation-report]]
-- [[../sources/fxa301-week05-happy-museum-project-principles]]
-- [[../sources/fxa301-week05-museums-and-health-emerging-spatial-practices]]
-- [[../sources/fxa301-week05-museums-as-spaces-for-wellbeing-a-second-report-from-the]]
+- [fxa100-week07-house-of-memories-national-museums-liverpool](../sources/fxa100-week07-house-of-memories-national-museums-liverpool.md)
+- [fxa100-week07-transcript-artz-museum-program-for-alzheimers-url-only](../sources/fxa100-week07-transcript-artz-museum-program-for-alzheimers-url-only.md)
+- [fxa301-week05-happy-museum-learning-evaluation-report](../sources/fxa301-week05-happy-museum-learning-evaluation-report.md)
+- [fxa301-week05-happy-museum-project-principles](../sources/fxa301-week05-happy-museum-project-principles.md)
+- [fxa301-week05-museums-and-health-emerging-spatial-practices](../sources/fxa301-week05-museums-and-health-emerging-spatial-practices.md)
+- [fxa301-week05-museums-as-spaces-for-wellbeing-a-second-report-from-the](../sources/fxa301-week05-museums-as-spaces-for-wellbeing-a-second-report-from-the.md)

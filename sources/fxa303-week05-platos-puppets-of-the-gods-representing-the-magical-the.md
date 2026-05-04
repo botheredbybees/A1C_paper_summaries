@@ -24,22 +24,22 @@ The article explores Plato’s metaphorical use of “puppets of the gods” in 
 
 ## Key Concepts
 
-- [[../topics/self-mastery]]
-- [[../topics/divine-inspiration]]
-- [[../topics/reason-and-emotion-interplay]]
+- [self-mastery](../topics/self-mastery.md)
+- [divine-inspiration](../topics/divine-inspiration.md)
+- [reason-and-emotion-interplay](../topics/reason-and-emotion-interplay.md)
 
 ## Tags
 
-- [[../tags/ancient-greek-philosophy]]
-- [[../tags/plato-analysis]]
-- [[../tags/puppetry-symbolism]]
-- [[../tags/metaphysical-representation]]
-- [[../tags/sexual-desire-control]]
-- [[../tags/fxa303]]
+- [ancient-greek-philosophy](../tags/ancient-greek-philosophy.md)
+- [plato-analysis](../tags/plato-analysis.md)
+- [puppetry-symbolism](../tags/puppetry-symbolism.md)
+- [metaphysical-representation](../tags/metaphysical-representation.md)
+- [sexual-desire-control](../tags/sexual-desire-control.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[historical-analysis]]
+- [historical-analysis](historical-analysis.md)
 
 ## See Also
 

@@ -26,6 +26,6 @@ The provided sources highlight various forms of neurological dementias, each wit
 
 ## Sources
 
-- [[../sources/fxa100-week01-living-with-dementia-12-what-is-vascular-dementia]]
-- [[../sources/fxa100-week01-transcript-alzheimers-society]]
-- [[../sources/fxa100-week01-transcript-the-science-of-lewy-body-dementia]]
+- [fxa100-week01-living-with-dementia-12-what-is-vascular-dementia](../sources/fxa100-week01-living-with-dementia-12-what-is-vascular-dementia.md)
+- [fxa100-week01-transcript-alzheimers-society](../sources/fxa100-week01-transcript-alzheimers-society.md)
+- [fxa100-week01-transcript-the-science-of-lewy-body-dementia](../sources/fxa100-week01-transcript-the-science-of-lewy-body-dementia.md)

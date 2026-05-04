@@ -24,25 +24,25 @@ This study explores the origins of coulrophobia, or fear of clowns, which is pre
 
 ## Key Concepts
 
-- [[../topics/uncertainty-harm-theory]]
-- [[../topics/media-portrayals]]
-- [[../topics/behavior-unpredictability]]
+- [uncertainty-harm-theory](../topics/uncertainty-harm-theory.md)
+- [media-portrayals](../topics/media-portrayals.md)
+- [behavior-unpredictability](../topics/behavior-unpredictability.md)
 
 ## Tags
 
-- [[../tags/fear-of-clowns]]
-- [[../tags/coulrophobia]]
-- [[../tags/media-influences]]
-- [[../tags/psychological-factors]]
-- [[../tags/survey-research]]
-- [[../tags/fxa303]]
+- [fear-of-clowns](../tags/fear-of-clowns.md)
+- [coulrophobia](../tags/coulrophobia.md)
+- [media-influences](../tags/media-influences.md)
+- [psychological-factors](../tags/psychological-factors.md)
+- [survey-research](../tags/survey-research.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic-review]]
-- [[pilot-study]]
+- [systematic-review](systematic-review.md)
+- [pilot-study](pilot-study.md)
 
 ## See Also
 
-- [[../topics/coulrophobia]]
-- [[../topics/survey-research]]
+- [coulrophobia](../topics/coulrophobia.md)
+- [survey-research](../topics/survey-research.md)

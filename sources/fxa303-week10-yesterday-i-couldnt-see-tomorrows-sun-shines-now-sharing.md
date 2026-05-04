@@ -24,22 +24,22 @@ This article explores the experiences of refugee and migrant women in non-metrop
 
 ## Key Concepts
 
-- [[../topics/wellbeing]]
-- [[../topics/community-engagement]]
-- [[../topics/arts-based-research]]
+- [wellbeing](../topics/wellbeing.md)
+- [community-engagement](../topics/community-engagement.md)
+- [arts-based-research](../topics/arts-based-research.md)
 
 ## Tags
 
-- [[../tags/community-arts]]
-- [[../tags/migrant-wellbeing]]
-- [[../tags/social-inclusion]]
-- [[../tags/creative-practices]]
-- [[../tags/refugee-integration]]
-- [[../tags/fxa303]]
+- [community-arts](../tags/community-arts.md)
+- [migrant-wellbeing](../tags/migrant-wellbeing.md)
+- [social-inclusion](../tags/social-inclusion.md)
+- [creative-practices](../tags/creative-practices.md)
+- [refugee-integration](../tags/refugee-integration.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case-study]]
+- **case-study**
 
 ## See Also
 

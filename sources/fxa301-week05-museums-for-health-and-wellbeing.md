@@ -24,27 +24,27 @@ The document 'Museums for Health and Wellbeing' is a comprehensive report by the
 
 ## Key Concepts
 
-- [[../topics/health-and-wellbeing]]
-- [[../topics/museum-activities]]
-- [[../topics/societal-health-impact]]
+- [health-and-wellbeing](../topics/health-and-wellbeing.md)
+- [museum-activities](../topics/museum-activities.md)
+- [societal-health-impact](../topics/societal-health-impact.md)
 
 ## Tags
 
-- [[../tags/museum-engagement]]
-- [[../tags/public-health]]
-- [[../tags/wellbeing-initiatives]]
-- [[../tags/community-support]]
-- [[../tags/educational-programs]]
-- [[../tags/health-outcomes]]
-- [[../tags/fxa301]]
+- [museum-engagement](../tags/museum-engagement.md)
+- [public-health](../tags/public-health.md)
+- [wellbeing-initiatives](../tags/wellbeing-initiatives.md)
+- [community-support](../tags/community-support.md)
+- [educational-programs](../tags/educational-programs.md)
+- [health-outcomes](../tags/health-outcomes.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/community-support]]
-- [[../topics/health-outcomes]]
-- [[../topics/public-health]]
-- [[../topics/wellbeing-initiatives]]
+- [community-support](../topics/community-support.md)
+- [health-outcomes](../topics/health-outcomes.md)
+- [public-health](../topics/public-health.md)
+- [wellbeing-initiatives](../topics/wellbeing-initiatives.md)

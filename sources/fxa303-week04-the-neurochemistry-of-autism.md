@@ -24,20 +24,20 @@ The article reviews the neurochemical alterations underlying autism spectrum dis
 
 ## Key Concepts
 
-- [[../topics/excitatory-inhibitory-balance]]
-- [[../topics/neurotransmitter-alterations]]
-- [[../topics/autism-spectrum-disorder]]
+- [excitatory-inhibitory-balance](../topics/excitatory-inhibitory-balance.md)
+- [neurotransmitter-alterations](../topics/neurotransmitter-alterations.md)
+- [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)
 
 ## Tags
 
-- [[../tags/neurochemistry-autism]]
-- [[../tags/gaba-glutamate-balance]]
-- [[../tags/serotonin-dopamine-role]]
-- [[../tags/fxa303]]
+- [neurochemistry-autism](../tags/neurochemistry-autism.md)
+- [gaba-glutamate-balance](../tags/gaba-glutamate-balance.md)
+- [serotonin-dopamine-role](../tags/serotonin-dopamine-role.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 

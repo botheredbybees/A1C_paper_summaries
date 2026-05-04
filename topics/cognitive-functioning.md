@@ -25,5 +25,5 @@ The synthesis integrates findings from two sources focusing on the therapeutic v
 
 ## Sources
 
-- [[../sources/fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care]]
-- [[../sources/fxa100-week03-personalized-music-for-persons-with-dementia-and-their-life]]
+- [fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care](../sources/fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care.md)
+- [fxa100-week03-personalized-music-for-persons-with-dementia-and-their-life](../sources/fxa100-week03-personalized-music-for-persons-with-dementia-and-their-life.md)

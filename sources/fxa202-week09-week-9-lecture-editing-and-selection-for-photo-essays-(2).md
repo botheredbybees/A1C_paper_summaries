@@ -24,29 +24,29 @@ The document focuses on the importance of journaling as a tool for both creative
 
 ## Key Concepts
 
-- [[../topics/creative-expression]]
-- [[../topics/reflective-practice]]
-- [[../topics/uncensored-writing]]
-- [[../topics/visual-complementarity]]
+- [creative-expression](../topics/creative-expression.md)
+- [reflective-practice](../topics/reflective-practice.md)
+- [uncensored-writing](../topics/uncensored-writing.md)
+- [visual-complementarity](../topics/visual-complementarity.md)
 
 ## Tags
 
-- [[../tags/journaling-creativity]]
-- [[../tags/photo-essays]]
-- [[../tags/reflective-writing]]
-- [[../tags/mental-health-support]]
-- [[../tags/visual-storytelling]]
-- [[../tags/peer-feedback]]
-- [[../tags/fxa202]]
+- [journaling-creativity](../tags/journaling-creativity.md)
+- [photo-essays](../tags/photo-essays.md)
+- [reflective-writing](../tags/reflective-writing.md)
+- [mental-health-support](../tags/mental-health-support.md)
+- [visual-storytelling](../tags/visual-storytelling.md)
+- [peer-feedback](../tags/peer-feedback.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[discussion-board]]
-- [[class-activity]]
+- [discussion-board](discussion-board.md)
+- [class-activity](class-activity.md)
 
 ## See Also
 
-- [[../topics/mental-health-support]]
-- [[../topics/photo-essays]]
-- [[../topics/reflective-writing]]
-- [[../topics/visual-storytelling]]
+- [mental-health-support](../topics/mental-health-support.md)
+- [photo-essays](../topics/photo-essays.md)
+- [reflective-writing](../topics/reflective-writing.md)
+- [visual-storytelling](../topics/visual-storytelling.md)

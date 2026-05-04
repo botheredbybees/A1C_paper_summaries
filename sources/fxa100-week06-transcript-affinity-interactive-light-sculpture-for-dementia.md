@@ -24,16 +24,16 @@ The transcript discusses the unveiling of 'Affinity,' a large-scale interactive 
 
 ## Key Concepts
 
-- [[../topics/dementia awareness]]
-- [[../topics/personal narratives]]
-- [[../topics/public health initiatives]]
+- [dementia awareness](../topics/dementia awareness.md)
+- [personal narratives](../topics/personal narratives.md)
+- [public health initiatives](../topics/public health initiatives.md)
 
 ## Tags
 
-- [[../tags/dementia-awareness]]
-- [[../tags/interactive-art-installation]]
-- [[../tags/brain-memory-function]]
-- [[../tags/fxa100]]
+- [dementia-awareness](../tags/dementia-awareness.md)
+- [interactive-art-installation](../tags/interactive-art-installation.md)
+- [brain-memory-function](../tags/brain-memory-function.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -41,4 +41,4 @@ The transcript discusses the unveiling of 'Affinity,' a large-scale interactive 
 
 ## See Also
 
-- [[../topics/dementia-awareness]]
+- [dementia-awareness](../topics/dementia-awareness.md)

@@ -24,22 +24,22 @@ This paper reviews emerging research on the impact of stressful and traumatic li
 
 ## Key Concepts
 
-- [[../topics/stressful-life-events]]
-- [[../topics/comorbidity-psychological-disorders]]
-- [[../topics/trauma-focused-strategies]]
+- [stressful-life-events](../topics/stressful-life-events.md)
+- [comorbidity-psychological-disorders](../topics/comorbidity-psychological-disorders.md)
+- [trauma-focused-strategies](../topics/trauma-focused-strategies.md)
 
 ## Tags
 
-- [[../tags/autism-spectrum-disorder]]
-- [[../tags/trauma-assessment]]
-- [[../tags/mental-health-interventions]]
-- [[../tags/fxa303]]
+- [autism-spectrum-disorder](../tags/autism-spectrum-disorder.md)
+- [trauma-assessment](../tags/trauma-assessment.md)
+- [mental-health-interventions](../tags/mental-health-interventions.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/autism-spectrum-disorder]]
-- [[../topics/mental-health-interventions]]
+- [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)
+- [mental-health-interventions](../topics/mental-health-interventions.md)

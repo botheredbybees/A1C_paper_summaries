@@ -26,5 +26,5 @@ The synthesis of the provided sources highlights the foundational role of 'perso
 
 ## Sources
 
-- [[../sources/fxa100-week04-person-centred-language-guidelines]]
-- [[../sources/fxa100-week09-personhood-maintained]]
+- [fxa100-week04-person-centred-language-guidelines](../sources/fxa100-week04-person-centred-language-guidelines.md)
+- [fxa100-week09-personhood-maintained](../sources/fxa100-week09-personhood-maintained.md)

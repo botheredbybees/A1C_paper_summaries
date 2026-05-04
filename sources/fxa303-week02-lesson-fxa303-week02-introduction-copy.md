@@ -24,18 +24,18 @@ This lesson focuses on the developmental changes during adolescence. It describe
 
 ## Key Concepts
 
-- [[../topics/synaptic pruning]]
-- [[../topics/neuroplasticity]]
-- [[../topics/frontal lobe development]]
+- [synaptic pruning](../topics/synaptic pruning.md)
+- [neuroplasticity](../topics/neuroplasticity.md)
+- [frontal lobe development](../topics/frontal lobe development.md)
 
 ## Tags
 
-- [[../tags/adolescent-development]]
-- [[../tags/brain-maturation]]
-- [[../tags/neuroscience-education]]
-- [[../tags/cognitive-psychology]]
-- [[../tags/social-emotional-learning]]
-- [[../tags/fxa303]]
+- [adolescent-development](../tags/adolescent-development.md)
+- [brain-maturation](../tags/brain-maturation.md)
+- [neuroscience-education](../tags/neuroscience-education.md)
+- [cognitive-psychology](../tags/cognitive-psychology.md)
+- [social-emotional-learning](../tags/social-emotional-learning.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
@@ -43,6 +43,6 @@ This lesson focuses on the developmental changes during adolescence. It describe
 
 ## See Also
 
-- [[../topics/adolescent-development]]
-- [[../topics/brain-maturation]]
-- [[../topics/cognitive-psychology]]
+- [adolescent-development](../topics/adolescent-development.md)
+- [brain-maturation](../topics/brain-maturation.md)
+- [cognitive-psychology](../topics/cognitive-psychology.md)

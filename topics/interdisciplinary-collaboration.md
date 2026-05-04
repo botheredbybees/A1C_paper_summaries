@@ -26,5 +26,5 @@ The synthesis explores the intersection of interdisciplinary collaboration withi
 
 ## Sources
 
-- [[../sources/fxa301-bridging-the-creative-arts-therapies-ch01-1-essential]]
-- [[../sources/fxa303-week04-educating-students-with-autism-spectrum-disorders]]
+- [fxa301-bridging-the-creative-arts-therapies-ch01-1-essential](../sources/fxa301-bridging-the-creative-arts-therapies-ch01-1-essential.md)
+- [fxa303-week04-educating-students-with-autism-spectrum-disorders](../sources/fxa303-week04-educating-students-with-autism-spectrum-disorders.md)

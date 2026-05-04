@@ -24,26 +24,26 @@ This paper reviews recent neuroimaging studies to characterize the brains of ind
 
 ## Key Concepts
 
-- [[../topics/accelerated-brain-growth]]
-- [[../topics/altered-connectivity-pattems]]
-- [[../topics/gray-matter-abnormalities]]
+- [accelerated-brain-growth](../topics/accelerated-brain-growth.md)
+- [altered-connectivity-pattems](../topics/altered-connectivity-pattems.md)
+- [gray-matter-abnormalities](../topics/gray-matter-abnormalities.md)
 
 ## Tags
 
-- [[../tags/autism-spectrum-disorder]]
-- [[../tags/neuroimaging-studies]]
-- [[../tags/brain-development]]
-- [[../tags/connectivity-patterns]]
-- [[../tags/structural-mri]]
-- [[../tags/functional-mri]]
-- [[../tags/fxa303]]
+- [autism-spectrum-disorder](../tags/autism-spectrum-disorder.md)
+- [neuroimaging-studies](../tags/neuroimaging-studies.md)
+- [brain-development](../tags/brain-development.md)
+- [connectivity-patterns](../tags/connectivity-patterns.md)
+- [structural-mri](../tags/structural-mri.md)
+- [functional-mri](../tags/functional-mri.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic-review]]
+- [systematic-review](systematic-review.md)
 
 ## See Also
 
-- [[../topics/autism-spectrum-disorder]]
-- [[../topics/brain-development]]
-- [[../topics/functional-mri]]
+- [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)
+- [brain-development](../topics/brain-development.md)
+- [functional-mri](../topics/functional-mri.md)

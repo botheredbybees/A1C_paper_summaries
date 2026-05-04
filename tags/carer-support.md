@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Carer Support
 
-- [[../sources/fxa100-week04-web-article-dementia-2022|For family, friends and carers - Dementia Australia]]
+- [For family, friends and carers - Dementia Australia](../sources/fxa100-week04-web-article-dementia-2022.md)

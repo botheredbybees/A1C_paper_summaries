@@ -24,18 +24,18 @@ This video transcript discusses the condition known as Lewy Body Dementia (LBD),
 
 ## Key Concepts
 
-- [[../topics/Lewy bodies]]
-- [[../topics/alpha-synuclein]]
-- [[../topics/cognitive impairment]]
+- [Lewy bodies](../topics/Lewy bodies.md)
+- [alpha-synuclein](../topics/alpha-synuclein.md)
+- [cognitive impairment](../topics/cognitive impairment.md)
 
 ## Tags
 
-- [[../tags/lewy-body-dementia]]
-- [[../tags/parkinsons-disease]]
-- [[../tags/alzheimers-disease]]
-- [[../tags/neurodegenerative-disorders]]
-- [[../tags/brain-anatomy]]
-- [[../tags/fxa100]]
+- [lewy-body-dementia](../tags/lewy-body-dementia.md)
+- [parkinsons-disease](../tags/parkinsons-disease.md)
+- [alzheimers-disease](../tags/alzheimers-disease.md)
+- [neurodegenerative-disorders](../tags/neurodegenerative-disorders.md)
+- [brain-anatomy](../tags/brain-anatomy.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -43,7 +43,7 @@ This video transcript discusses the condition known as Lewy Body Dementia (LBD),
 
 ## See Also
 
-- [[../topics/alzheimers-disease]]
-- [[../topics/brain-anatomy]]
-- [[../topics/neurodegenerative-disorders]]
-- [[../topics/parkinsons-disease]]
+- [alzheimers-disease](../topics/alzheimers-disease.md)
+- [brain-anatomy](../topics/brain-anatomy.md)
+- [neurodegenerative-disorders](../topics/neurodegenerative-disorders.md)
+- [parkinsons-disease](../topics/parkinsons-disease.md)

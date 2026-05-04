@@ -24,16 +24,16 @@ The LAW122 Legal Systems course's Week 7 focuses on visual storytelling, particu
 
 ## Key Concepts
 
-- [[../topics/narrative structures]]
-- [[../topics/establishing shots]]
-- [[../topics/ending shots]]
+- [narrative structures](../topics/narrative structures.md)
+- [establishing shots](../topics/establishing shots.md)
+- [ending shots](../topics/ending shots.md)
 
 ## Tags
 
-- [[../tags/visual-storytelling]]
-- [[../tags/linear-narrative-structures]]
-- [[../tags/non-linear-story-telling]]
-- [[../tags/fxa202]]
+- [visual-storytelling](../tags/visual-storytelling.md)
+- [linear-narrative-structures](../tags/linear-narrative-structures.md)
+- [non-linear-story-telling](../tags/non-linear-story-telling.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
@@ -41,4 +41,4 @@ The LAW122 Legal Systems course's Week 7 focuses on visual storytelling, particu
 
 ## See Also
 
-- [[../topics/visual-storytelling]]
+- [visual-storytelling](../topics/visual-storytelling.md)

@@ -26,5 +26,5 @@ The integration of arts and crafts activities into therapeutic settings demonstr
 
 ## Sources
 
-- [[../sources/fxa100-week07-transcript-youtube-qvnfj1otdyc]]
-- [[../sources/fxa100-week08-web-article-reyner-2006]]
+- [fxa100-week07-transcript-youtube-qvnfj1otdyc](../sources/fxa100-week07-transcript-youtube-qvnfj1otdyc.md)
+- [fxa100-week08-web-article-reyner-2006](../sources/fxa100-week08-web-article-reyner-2006.md)

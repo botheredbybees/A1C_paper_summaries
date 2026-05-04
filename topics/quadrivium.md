@@ -26,5 +26,5 @@ The Quadrivium, an ancient educational curriculum integral to the study of mathe
 
 ## Sources
 
-- [[../sources/fxa301-week06-from-the-quadrivium-to-modern-science]]
-- [[../sources/fxa301-week06-quadrivium-the-noble-fourfold-way-to-an-understanding-of]]
+- [fxa301-week06-from-the-quadrivium-to-modern-science](../sources/fxa301-week06-from-the-quadrivium-to-modern-science.md)
+- [fxa301-week06-quadrivium-the-noble-fourfold-way-to-an-understanding-of](../sources/fxa301-week06-quadrivium-the-noble-fourfold-way-to-an-understanding-of.md)

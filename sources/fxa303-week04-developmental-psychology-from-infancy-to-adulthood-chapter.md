@@ -26,21 +26,21 @@ The chapter also addresses the distinction between theories advocating continuit
 
 ## Key Concepts
 
-- [[../topics/nature-and-nurture-interaction]]
-- [[../topics/critical-periods-for-learning]]
-- [[../topics/continuity-versus-discontinuity-in-development]]
+- [nature-and-nurture-interaction](../topics/nature-and-nurture-interaction.md)
+- [critical-periods-for-learning](../topics/critical-periods-for-learning.md)
+- [continuity-versus-discontinuity-in-development](../topics/continuity-versus-discontinuity-in-development.md)
 
 ## Tags
 
-- [[../tags/developmental-psychology]]
-- [[../tags/nature-vs-nurture]]
-- [[../tags/continuous-discontinuous-theories]]
-- [[../tags/fxa303]]
+- [developmental-psychology](../tags/developmental-psychology.md)
+- [nature-vs-nurture](../tags/nature-vs-nurture.md)
+- [continuous-discontinuous-theories](../tags/continuous-discontinuous-theories.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[literature-review]]
+- [literature-review](literature-review.md)
 
 ## See Also
 
-- [[../topics/developmental-psychology]]
+- [developmental-psychology](../topics/developmental-psychology.md)

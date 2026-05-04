@@ -24,17 +24,17 @@ The transcript discusses vascular cognitive impairment (VCI), which occurs due t
 
 ## Key Concepts
 
-- [[../topics/Vascular Cognitive Impairment]]
-- [[../topics/Mixed Dementia]]
-- [[../topics/Small Vessel Disease]]
+- [Vascular Cognitive Impairment](../topics/Vascular Cognitive Impairment.md)
+- [Mixed Dementia](../topics/Mixed Dementia.md)
+- [Small Vessel Disease](../topics/Small Vessel Disease.md)
 
 ## Tags
 
-- [[../tags/vascular-cognitive-impairment]]
-- [[../tags/dementia-types]]
-- [[../tags/small-vessel-disease]]
-- [[../tags/brain-health]]
-- [[../tags/fxa100]]
+- [vascular-cognitive-impairment](../tags/vascular-cognitive-impairment.md)
+- [dementia-types](../tags/dementia-types.md)
+- [small-vessel-disease](../tags/small-vessel-disease.md)
+- [brain-health](../tags/brain-health.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -42,5 +42,5 @@ The transcript discusses vascular cognitive impairment (VCI), which occurs due t
 
 ## See Also
 
-- [[../topics/brain-health]]
-- [[../topics/dementia-types]]
+- [brain-health](../topics/brain-health.md)
+- [dementia-types](../topics/dementia-types.md)

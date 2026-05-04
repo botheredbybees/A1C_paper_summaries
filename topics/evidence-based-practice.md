@@ -26,5 +26,5 @@ The integration of evidence-based practices into music therapy interventions for
 
 ## Sources
 
-- [[../sources/fxa100-week04-music-therapy-disability-evidence-summary-2024]]
-- [[../sources/fxa301-week03-evidence-requirements-for-the-development-of-the-national]]
+- [fxa100-week04-music-therapy-disability-evidence-summary-2024](../sources/fxa100-week04-music-therapy-disability-evidence-summary-2024.md)
+- [fxa301-week03-evidence-requirements-for-the-development-of-the-national](../sources/fxa301-week03-evidence-requirements-for-the-development-of-the-national.md)

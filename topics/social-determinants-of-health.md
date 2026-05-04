@@ -26,5 +26,5 @@ The provided sources emphasize the role of social determinants in shaping health
 
 ## Sources
 
-- [[../sources/fxa301-week03-health-inequalities-and-the-role-of-creative-health]]
-- [[../sources/fxa301-week03-introduction-to-creative-health-extract]]
+- [fxa301-week03-health-inequalities-and-the-role-of-creative-health](../sources/fxa301-week03-health-inequalities-and-the-role-of-creative-health.md)
+- [fxa301-week03-introduction-to-creative-health-extract](../sources/fxa301-week03-introduction-to-creative-health-extract.md)

@@ -24,23 +24,23 @@ Mel Henderson's poem 'Chromophilia' explores the interplay between colors and hu
 
 ## Key Concepts
 
-- [[../topics/color symbolism]]
-- [[../topics/emotional states]]
-- [[../topics/therapeutic value of color]]
+- [color symbolism](../topics/color symbolism.md)
+- [emotional states](../topics/emotional states.md)
+- [therapeutic value of color](../topics/therapeutic value of color.md)
 
 ## Tags
 
-- [[../tags/color-emotion-connection]]
-- [[../tags/daily-life-experience]]
-- [[../tags/poetic-health-benefits]]
-- [[../tags/visual-aesthetics]]
-- [[../tags/emotional-wellbeing]]
-- [[../tags/time-color-symbology]]
-- [[../tags/fxa202]]
+- [color-emotion-connection](../tags/color-emotion-connection.md)
+- [daily-life-experience](../tags/daily-life-experience.md)
+- [poetic-health-benefits](../tags/poetic-health-benefits.md)
+- [visual-aesthetics](../tags/visual-aesthetics.md)
+- [emotional-wellbeing](../tags/emotional-wellbeing.md)
+- [time-color-symbology](../tags/time-color-symbology.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[poetry]]
+- [poetry](poetry.md)
 
 ## See Also
 

@@ -24,15 +24,15 @@ The transcript describes an individual's experience during a flood event. The na
 
 ## Key Concepts
 
-- [[../topics/anxiety]]
-- [[../topics/sense-of-control]]
+- [anxiety](../topics/anxiety.md)
+- [sense-of-control](../topics/sense-of-control.md)
 
 ## Tags
 
-- [[../tags/flood-experience]]
-- [[../tags/disaster-response]]
-- [[../tags/emotional-impact]]
-- [[../tags/fxa303]]
+- [flood-experience](../tags/flood-experience.md)
+- [disaster-response](../tags/disaster-response.md)
+- [emotional-impact](../tags/emotional-impact.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ The transcript describes an individual's experience during a flood event. The na
 
 ## See Also
 
-- [[../topics/disaster-response]]
+- [disaster-response](../topics/disaster-response.md)

@@ -30,24 +30,24 @@ Overall, recognizing early signs of ASD is crucial for initiating appropriate in
 
 ## Key Concepts
 
-- [[../topics/Autism Spectrum Disorder (ASD)]]
-- [[../topics/multidisciplinary assessments]]
-- [[../topics/individualized education plans]]
+- [Autism Spectrum Disorder (ASD)](../topics/Autism Spectrum Disorder (ASD).md)
+- [multidisciplinary assessments](../topics/multidisciplinary assessments.md)
+- [individualized education plans](../topics/individualized education plans.md)
 
 ## Tags
 
-- [[../tags/autism-spectrum-disorder]]
-- [[../tags/social-communication-challenges]]
-- [[../tags/neurodevelopmental-condition]]
-- [[../tags/early-diagnosis]]
-- [[../tags/behavior-interventions]]
-- [[../tags/fxa303]]
+- [autism-spectrum-disorder](../tags/autism-spectrum-disorder.md)
+- [social-communication-challenges](../tags/social-communication-challenges.md)
+- [neurodevelopmental-condition](../tags/neurodevelopmental-condition.md)
+- [early-diagnosis](../tags/early-diagnosis.md)
+- [behavior-interventions](../tags/behavior-interventions.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case study]]
-- [[comprehensive evaluation]]
+- [case study](case study.md)
+- [comprehensive evaluation](comprehensive evaluation.md)
 
 ## See Also
 
-- [[../topics/autism-spectrum-disorder]]
+- [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)

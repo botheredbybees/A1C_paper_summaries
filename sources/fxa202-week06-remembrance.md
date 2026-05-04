@@ -24,22 +24,22 @@ In Emma Barratt's poignant photo essay, 'Remembrance,' the author reflects on li
 
 ## Key Concepts
 
-- [[../topics/memory loss due to illness]]
-- [[../topics/transient human connection]]
-- [[../topics/reclaiming fragmented memories]]
+- [memory loss due to illness](../topics/memory loss due to illness.md)
+- [transient human connection](../topics/transient human connection.md)
+- [reclaiming fragmented memories](../topics/reclaiming fragmented memories.md)
 
 ## Tags
 
-- [[../tags/memory-loss]]
-- [[../tags/personal-resilience]]
-- [[../tags/therapeutic-storytelling]]
-- [[../tags/fxa202]]
+- [memory-loss](../tags/memory-loss.md)
+- [personal-resilience](../tags/personal-resilience.md)
+- [therapeutic-storytelling](../tags/therapeutic-storytelling.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
-- [[photo essay]]
+- [photo essay](photo essay.md)
 
 ## See Also
 
-- [[../topics/memory-loss]]
-- [[../topics/personal-resilience]]
+- [memory-loss](../topics/memory-loss.md)
+- [personal-resilience](../topics/personal-resilience.md)

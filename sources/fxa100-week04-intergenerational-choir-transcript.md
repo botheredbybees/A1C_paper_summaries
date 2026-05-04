@@ -24,26 +24,26 @@ The intergenerational choir transcript highlights a community singing initiative
 
 ## Key Concepts
 
-- [[../topics/therapeutic-benefits-of-music]]
-- [[../topics/memory-loss-management]]
-- [[../topics/community-building-through-art]]
+- [therapeutic-benefits-of-music](../topics/therapeutic-benefits-of-music.md)
+- [memory-loss-management](../topics/memory-loss-management.md)
+- [community-building-through-art](../topics/community-building-through-art.md)
 
 ## Tags
 
-- [[../tags/intergenerational-interaction]]
-- [[../tags/dementia-care]]
-- [[../tags/music-therapy]]
-- [[../tags/adolescent-development]]
-- [[../tags/cognitive-stimulation]]
-- [[../tags/fxa100]]
+- [intergenerational-interaction](../tags/intergenerational-interaction.md)
+- [dementia-care](../tags/dementia-care.md)
+- [music-therapy](../tags/music-therapy.md)
+- [adolescent-development](../tags/adolescent-development.md)
+- [cognitive-stimulation](../tags/cognitive-stimulation.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
+- [case-study](case-study.md)
 
 ## See Also
 
-- [[../topics/adolescent-development]]
-- [[../topics/cognitive-stimulation]]
-- [[../topics/dementia-care]]
-- [[../topics/music-therapy]]
+- [adolescent-development](../topics/adolescent-development.md)
+- [cognitive-stimulation](../topics/cognitive-stimulation.md)
+- [dementia-care](../topics/dementia-care.md)
+- [music-therapy](../topics/music-therapy.md)

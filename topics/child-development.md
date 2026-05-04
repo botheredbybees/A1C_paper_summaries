@@ -26,5 +26,5 @@ Play therapy emerges as a significant intervention in facilitating the psycholog
 
 ## Sources
 
-- [[../sources/fxa303-week01-an-overview-of-play-therapy]]
-- [[../sources/fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children]]
+- [fxa303-week01-an-overview-of-play-therapy](../sources/fxa303-week01-an-overview-of-play-therapy.md)
+- [fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children](../sources/fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children.md)

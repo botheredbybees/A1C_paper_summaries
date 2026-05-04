@@ -24,29 +24,29 @@ The document discusses the social benefits of singing for individuals with demen
 
 ## Key Concepts
 
-- [[../topics/stress-hormone-reduction]]
-- [[../topics/melatonin-levels-increase]]
-- [[../topics/music-based-interventions]]
-- [[../topics/community-support-networks]]
+- [stress-hormone-reduction](../topics/stress-hormone-reduction.md)
+- [melatonin-levels-increase](../topics/melatonin-levels-increase.md)
+- [music-based-interventions](../topics/music-based-interventions.md)
+- [community-support-networks](../topics/community-support-networks.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/music-therapy]]
-- [[../tags/social-wellbeing]]
-- [[../tags/emotional-expression]]
-- [[../tags/group-singing]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [music-therapy](../tags/music-therapy.md)
+- [social-wellbeing](../tags/social-wellbeing.md)
+- [emotional-expression](../tags/emotional-expression.md)
+- [group-singing](../tags/group-singing.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[case-study]]
-- [[observational-study]]
+- [case-study](case-study.md)
+- [observational-study](observational-study.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/emotional-expression]]
-- [[../topics/group-singing]]
-- [[../topics/music-therapy]]
-- [[../topics/social-wellbeing]]
+- [dementia-care](../topics/dementia-care.md)
+- [emotional-expression](../topics/emotional-expression.md)
+- [group-singing](../topics/group-singing.md)
+- [music-therapy](../topics/music-therapy.md)
+- [social-wellbeing](../topics/social-wellbeing.md)

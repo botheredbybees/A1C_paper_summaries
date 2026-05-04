@@ -46,15 +46,15 @@ This chapter introduces the concept of a photo essay as a visual narrative told 
 
 ## Key Concepts
 
-- [[../topics/visual storytelling]]
-- [[../topics/narrative expansion through images]]
+- [visual storytelling](../topics/visual storytelling.md)
+- [narrative expansion through images](../topics/narrative expansion through images.md)
 
 ## Tags
 
-- [[../tags/photo-essay]]
-- [[../tags/visual-storytelling]]
-- [[../tags/journalism]]
-- [[../tags/fxa202]]
+- [photo-essay](../tags/photo-essay.md)
+- [visual-storytelling](../tags/visual-storytelling.md)
+- [journalism](../tags/journalism.md)
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 
@@ -62,5 +62,5 @@ This chapter introduces the concept of a photo essay as a visual narrative told 
 
 ## See Also
 
-- [[../topics/photo-essay]]
-- [[../topics/visual-storytelling]]
+- [photo-essay](../topics/photo-essay.md)
+- [visual-storytelling](../topics/visual-storytelling.md)

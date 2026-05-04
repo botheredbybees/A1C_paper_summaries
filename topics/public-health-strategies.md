@@ -26,5 +26,5 @@ Public health strategies that incorporate arts-based interventions show promise 
 
 ## Sources
 
-- [[../sources/fxa301-week03-arts-health-and-well-being-in-america]]
-- [[../sources/fxa301-week05-museums-and-health-emerging-spatial-practices]]
+- [fxa301-week03-arts-health-and-well-being-in-america](../sources/fxa301-week03-arts-health-and-well-being-in-america.md)
+- [fxa301-week05-museums-and-health-emerging-spatial-practices](../sources/fxa301-week05-museums-and-health-emerging-spatial-practices.md)

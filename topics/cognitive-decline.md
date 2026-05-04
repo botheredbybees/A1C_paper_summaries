@@ -26,5 +26,5 @@ This synthesis examines interventions targeting cognitive decline, focusing on a
 
 ## Sources
 
-- [[../sources/fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a]]
-- [[../sources/fxa100-week01-transcript-alzheimers-society]]
+- [fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a](../sources/fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a.md)
+- [fxa100-week01-transcript-alzheimers-society](../sources/fxa100-week01-transcript-alzheimers-society.md)

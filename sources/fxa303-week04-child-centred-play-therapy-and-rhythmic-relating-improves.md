@@ -24,24 +24,24 @@ This study investigates the impact of a therapeutic combination of Child-Centred
 
 ## Key Concepts
 
-- [[../topics/Child-Centred Play Therapy (CCPT)]]
-- [[../topics/Rhythmic Relating]]
-- [[../topics/Emotion Regulation]]
+- [Child-Centred Play Therapy (CCPT)](../topics/Child-Centred Play Therapy (CCPT).md)
+- [Rhythmic Relating](../topics/Rhythmic Relating.md)
+- [Emotion Regulation](../topics/Emotion Regulation.md)
 
 ## Tags
 
-- [[../tags/child-therapy]]
-- [[../tags/autism-intervention]]
-- [[../tags/emotion-regulation]]
-- [[../tags/play-therapy]]
-- [[../tags/fxa303]]
+- [child-therapy](../tags/child-therapy.md)
+- [autism-intervention](../tags/autism-intervention.md)
+- [emotion-regulation](../tags/emotion-regulation.md)
+- [play-therapy](../tags/play-therapy.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[single-n pilot study]]
+- [single-n pilot study](single-n pilot study.md)
 
 ## See Also
 
-- [[../topics/child-therapy]]
-- [[../topics/emotion-regulation]]
-- [[../topics/play-therapy]]
+- [child-therapy](../topics/child-therapy.md)
+- [emotion-regulation](../topics/emotion-regulation.md)
+- [play-therapy](../topics/play-therapy.md)

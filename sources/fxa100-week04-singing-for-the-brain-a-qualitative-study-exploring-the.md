@@ -24,28 +24,28 @@ The article presents a qualitative study that explores the impact of 'Singing fo
 
 ## Key Concepts
 
-- [[../topics/group singing]]
-- [[../topics/health benefits]]
-- [[../topics/quality of life]]
+- [group singing](../topics/group singing.md)
+- [health benefits](../topics/health benefits.md)
+- [quality of life](../topics/quality of life.md)
 
 ## Tags
 
-- [[../tags/dementia-care]]
-- [[../tags/qualitative-research]]
-- [[../tags/music-therapy]]
-- [[../tags/wellbeing-interventions]]
-- [[../tags/social-inclusion]]
-- [[../tags/fxa100]]
+- [dementia-care](../tags/dementia-care.md)
+- [qualitative-research](../tags/qualitative-research.md)
+- [music-therapy](../tags/music-therapy.md)
+- [wellbeing-interventions](../tags/wellbeing-interventions.md)
+- [social-inclusion](../tags/social-inclusion.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[qualitative study]]
-- [[semi-structured interviews]]
+- [qualitative study](qualitative study.md)
+- [semi-structured interviews](semi-structured interviews.md)
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/music-therapy]]
-- [[../topics/qualitative-research]]
-- [[../topics/social-inclusion]]
-- [[../topics/wellbeing-interventions]]
+- [dementia-care](../topics/dementia-care.md)
+- [music-therapy](../topics/music-therapy.md)
+- [qualitative-research](../topics/qualitative-research.md)
+- [social-inclusion](../topics/social-inclusion.md)
+- [wellbeing-interventions](../topics/wellbeing-interventions.md)

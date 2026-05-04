@@ -24,24 +24,24 @@ This review article investigates the therapeutic potential of natural products i
 
 ## Key Concepts
 
-- [[../topics/oxidative-stress-mitigation]]
-- [[../topics/amyloid-beta-aggregation-suppression]]
-- [[../topics/neuroprotective-effects]]
+- [oxidative-stress-mitigation](../topics/oxidative-stress-mitigation.md)
+- [amyloid-beta-aggregation-suppression](../topics/amyloid-beta-aggregation-suppression.md)
+- [neuroprotective-effects](../topics/neuroprotective-effects.md)
 
 ## Tags
 
-- [[../tags/natural-products-alzheimers]]
-- [[../tags/therapeutic-potential-curcumin]]
-- [[../tags/neuroinflammation-inhibitors]]
-- [[../tags/tau-hyperphosphorylation-reduction]]
-- [[../tags/synaptic-plasticity-enhancement]]
-- [[../tags/clinical-trials-herbal-medicines]]
-- [[../tags/fxa100]]
+- [natural-products-alzheimers](../tags/natural-products-alzheimers.md)
+- [therapeutic-potential-curcumin](../tags/therapeutic-potential-curcumin.md)
+- [neuroinflammation-inhibitors](../tags/neuroinflammation-inhibitors.md)
+- [tau-hyperphosphorylation-reduction](../tags/tau-hyperphosphorylation-reduction.md)
+- [synaptic-plasticity-enhancement](../tags/synaptic-plasticity-enhancement.md)
+- [clinical-trials-herbal-medicines](../tags/clinical-trials-herbal-medicines.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
-- [[systematic-review]]
-- [[network-pharmacology]]
+- [systematic-review](systematic-review.md)
+- [network-pharmacology](network-pharmacology.md)
 
 ## See Also
 

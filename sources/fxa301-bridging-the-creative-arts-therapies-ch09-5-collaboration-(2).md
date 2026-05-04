@@ -24,16 +24,16 @@ This chapter discusses the professionalization of arts in health professions in 
 
 ## Key Concepts
 
-- [[../topics/Code of Ethics for Arts in Health Professionals]]
-- [[../topics/Core Curriculum for Arts in Health Professionals]]
-- [[../topics/Certification Exam Process]]
+- [Code of Ethics for Arts in Health Professionals](../topics/Code of Ethics for Arts in Health Professionals.md)
+- [Core Curriculum for Arts in Health Professionals](../topics/Core Curriculum for Arts in Health Professionals.md)
+- [Certification Exam Process](../topics/Certification Exam Process.md)
 
 ## Tags
 
-- [[../tags/arts-in-health]]
-- [[../tags/professionalization-code-of-ethics]]
-- [[../tags/educational-pathways]]
-- [[../tags/fxa301]]
+- [arts-in-health](../tags/arts-in-health.md)
+- [professionalization-code-of-ethics](../tags/professionalization-code-of-ethics.md)
+- [educational-pathways](../tags/educational-pathways.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,4 +41,4 @@ This chapter discusses the professionalization of arts in health professions in 
 
 ## See Also
 
-- [[../topics/arts-in-health]]
+- [arts-in-health](../topics/arts-in-health.md)

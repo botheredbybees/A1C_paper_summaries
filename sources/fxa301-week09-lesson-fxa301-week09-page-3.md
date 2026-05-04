@@ -24,15 +24,15 @@ This lesson explores two inclusive arts project scenarios: Singing to Health for
 
 ## Key Concepts
 
-- [[../topics/inclusiveness]]
-- [[../topics/rehabilitation-through-art]]
+- [inclusiveness](../topics/inclusiveness.md)
+- [rehabilitation-through-art](../topics/rehabilitation-through-art.md)
 
 ## Tags
 
-- [[../tags/inclusive-arts]]
-- [[../tags/health-wellbeing-outcomes]]
-- [[../tags/participant-engagement]]
-- [[../tags/fxa301]]
+- [inclusive-arts](../tags/inclusive-arts.md)
+- [health-wellbeing-outcomes](../tags/health-wellbeing-outcomes.md)
+- [participant-engagement](../tags/participant-engagement.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ This lesson explores two inclusive arts project scenarios: Singing to Health for
 
 ## See Also
 
-- [[../topics/inclusive-arts]]
+- [inclusive-arts](../topics/inclusive-arts.md)

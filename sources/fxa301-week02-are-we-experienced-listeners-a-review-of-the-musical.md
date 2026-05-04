@@ -24,21 +24,21 @@ This paper reviews studies investigating the influence of formal musical trainin
 
 ## Key Concepts
 
-- [[../topics/theme-variation-comprehension]]
-- [[../topics/natural-musical-aptitude]]
-- [[../topics/emotional-response-to-music]]
+- [theme-variation-comprehension](../topics/theme-variation-comprehension.md)
+- [natural-musical-aptitude](../topics/natural-musical-aptitude.md)
+- [emotional-response-to-music](../topics/emotional-response-to-music.md)
 
 ## Tags
 
-- [[../tags/music-perception]]
-- [[../tags/formal-training]]
-- [[../tags/musical-competency]]
-- [[../tags/fxa301]]
+- [music-perception](../tags/music-perception.md)
+- [formal-training](../tags/formal-training.md)
+- [musical-competency](../tags/musical-competency.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[literature-review]]
+- [literature-review](literature-review.md)
 
 ## See Also
 
-- [[../topics/music-perception]]
+- [music-perception](../topics/music-perception.md)

@@ -24,24 +24,24 @@ Helen Woolley's article 'Beyond the Fence' explores how children’s play is aff
 
 ## Key Concepts
 
-- [[../topics/children's outdoor play]]
-- [[../topics/disaster resilience]]
-- [[../topics/found spaces vs constructed spaces]]
+- [children's outdoor play](../topics/children's outdoor play.md)
+- [disaster resilience](../topics/disaster resilience.md)
+- [found spaces vs constructed spaces](../topics/found spaces vs constructed spaces.md)
 
 ## Tags
 
-- [[../tags/disaster-recovery]]
-- [[../tags/child-rights]]
-- [[../tags/play-spaces]]
-- [[../tags/refugee-camps]]
-- [[../tags/mental-health]]
-- [[../tags/fxa303]]
+- [disaster-recovery](../tags/disaster-recovery.md)
+- [child-rights](../tags/child-rights.md)
+- [play-spaces](../tags/play-spaces.md)
+- [refugee-camps](../tags/refugee-camps.md)
+- [mental-health](../tags/mental-health.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/disaster-recovery]]
-- [[../topics/mental-health]]
+- [disaster-recovery](../topics/disaster-recovery.md)
+- [mental-health](../topics/mental-health.md)

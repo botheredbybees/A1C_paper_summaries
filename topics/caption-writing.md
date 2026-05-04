@@ -28,7 +28,7 @@ The provided sources explore various aspects of visual storytelling through the 
 
 ## Sources
 
-- [[../sources/fxa202-week05-introduction-to-visual-storytelling]]
-- [[../sources/fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling]]
-- [[../sources/fxa202-week05-week-5-introduction-to-storytelling]]
-- [[../sources/fxa202-week06-lesson-fxa202-week06-page-4]]
+- [fxa202-week05-introduction-to-visual-storytelling](../sources/fxa202-week05-introduction-to-visual-storytelling.md)
+- [fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling](../sources/fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling.md)
+- [fxa202-week05-week-5-introduction-to-storytelling](../sources/fxa202-week05-week-5-introduction-to-storytelling.md)
+- [fxa202-week06-lesson-fxa202-week06-page-4](../sources/fxa202-week06-lesson-fxa202-week06-page-4.md)

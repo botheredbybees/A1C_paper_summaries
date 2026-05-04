@@ -24,16 +24,16 @@ The content focuses on identifying roles and cultural integration within musical
 
 ## Key Concepts
 
-- [[../topics/melodic texture]]
-- [[../topics/song form]]
-- [[../topics/timbre]]
+- [melodic texture](../topics/melodic texture.md)
+- [song form](../topics/song form.md)
+- [timbre](../topics/timbre.md)
 
 ## Tags
 
-- [[../tags/musical-production]]
-- [[../tags/cultural-integration]]
-- [[../tags/participant-organization]]
-- [[../tags/fxa301]]
+- [musical-production](../tags/musical-production.md)
+- [cultural-integration](../tags/cultural-integration.md)
+- [participant-organization](../tags/participant-organization.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -41,5 +41,5 @@ The content focuses on identifying roles and cultural integration within musical
 
 ## See Also
 
-- [[../topics/cultural-integration]]
-- [[../topics/musical-production]]
+- [cultural-integration](../topics/cultural-integration.md)
+- [musical-production](../topics/musical-production.md)

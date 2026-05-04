@@ -24,15 +24,15 @@ This content is an authentication request for accessing a scholarly article thro
 
 ## Key Concepts
 
-- [[../topics/Shibboleth]]
-- [[../topics/Single Sign-On (SSO) System]]
+- [Shibboleth](../topics/Shibboleth.md)
+- [Single Sign-On (SSO) System](../topics/Single Sign-On (SSO) System.md)
 
 ## Tags
 
-- [[../tags/authentication-request]]
-- [[../tags/shibboleth-system]]
-- [[../tags/internet-security]]
-- [[../tags/fxa303]]
+- [authentication-request](../tags/authentication-request.md)
+- [shibboleth-system](../tags/shibboleth-system.md)
+- [internet-security](../tags/internet-security.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
@@ -40,4 +40,4 @@ This content is an authentication request for accessing a scholarly article thro
 
 ## See Also
 
-- [[../topics/internet-security]]
+- [internet-security](../topics/internet-security.md)

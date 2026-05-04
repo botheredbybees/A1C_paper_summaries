@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Ethics In Healthcare
 
-- [[../sources/fxa100-excellence-in-dementia-care--ch36-chapter-4|Ethics in Dementia Care: Storied Lives, Storied Ethics]]
+- [Ethics in Dementia Care: Storied Lives, Storied Ethics](../sources/fxa100-excellence-in-dementia-care--ch36-chapter-4.md)

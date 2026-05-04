@@ -26,5 +26,5 @@ The synthesis of data from the National Arts Participation Survey and other init
 
 ## Sources
 
-- [[../sources/fxa301-week01-web-article-australia-2019]]
-- [[../sources/fxa301-week01-web-article-australia-2023]]
+- [fxa301-week01-web-article-australia-2019](../sources/fxa301-week01-web-article-australia-2019.md)
+- [fxa301-week01-web-article-australia-2023](../sources/fxa301-week01-web-article-australia-2023.md)

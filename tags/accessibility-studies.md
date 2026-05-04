@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Accessibility Studies
 
-- [[../sources/fxa301-week09-research-overview-arts-and-disability-in-australia|Research Overview: Arts and Disability in Australia]]
+- [Research Overview: Arts and Disability in Australia](../sources/fxa301-week09-research-overview-arts-and-disability-in-australia.md)

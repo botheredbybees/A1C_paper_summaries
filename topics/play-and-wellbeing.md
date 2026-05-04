@@ -25,5 +25,5 @@ The concept of play as a therapeutic intervention for enhancing wellbeing is exp
 
 ## Sources
 
-- [[../sources/fxa303-play-for-health-across-the-lifespan-ch06-chapter-7]]
-- [[../sources/fxa303-week04-lesson-fxa303-week04-page-1-week-4-overview]]
+- [fxa303-play-for-health-across-the-lifespan-ch06-chapter-7](../sources/fxa303-play-for-health-across-the-lifespan-ch06-chapter-7.md)
+- [fxa303-week04-lesson-fxa303-week04-page-1-week-4-overview](../sources/fxa303-week04-lesson-fxa303-week04-page-1-week-4-overview.md)

@@ -26,5 +26,5 @@ The integration of therapeutic arts programs for individuals with multiple scler
 
 ## Sources
 
-- [[../sources/fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope]]
-- [[../sources/fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple]]
+- [fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope](../sources/fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope.md)
+- [fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple](../sources/fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple.md)

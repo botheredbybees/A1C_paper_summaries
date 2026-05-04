@@ -24,15 +24,15 @@ This chapter explores how creative arts initiatives contribute to cultural devel
 
 ## Key Concepts
 
-- [[../topics/community-engagement]]
-- [[../topics/social-change-through-art]]
+- [community-engagement](../topics/community-engagement.md)
+- [social-change-through-art](../topics/social-change-through-art.md)
 
 ## Tags
 
-- [[../tags/creative-arts]]
-- [[../tags/cultural-development]]
-- [[../tags/public-health]]
-- [[../tags/fxa301]]
+- [creative-arts](../tags/creative-arts.md)
+- [cultural-development](../tags/cultural-development.md)
+- [public-health](../tags/public-health.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
@@ -40,5 +40,5 @@ This chapter explores how creative arts initiatives contribute to cultural devel
 
 ## See Also
 
-- [[../topics/creative-arts]]
-- [[../topics/public-health]]
+- [creative-arts](../topics/creative-arts.md)
+- [public-health](../topics/public-health.md)

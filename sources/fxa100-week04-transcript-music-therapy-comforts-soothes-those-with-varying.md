@@ -24,17 +24,17 @@ This transcript discusses the use of music therapy to help individuals with vary
 
 ## Key Concepts
 
-- [[../topics/neural-plasticity]]
-- [[../topics/cognitive-stimulation-through-music]]
-- [[../topics/rehabilitation-of-language-skills]]
+- [neural-plasticity](../topics/neural-plasticity.md)
+- [cognitive-stimulation-through-music](../topics/cognitive-stimulation-through-music.md)
+- [rehabilitation-of-language-skills](../topics/rehabilitation-of-language-skills.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/dementia-care]]
-- [[../tags/brain-function-recovery]]
-- [[../tags/communication-loss]]
-- [[../tags/fxa100]]
+- [music-therapy](../tags/music-therapy.md)
+- [dementia-care](../tags/dementia-care.md)
+- [brain-function-recovery](../tags/brain-function-recovery.md)
+- [communication-loss](../tags/communication-loss.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -42,5 +42,5 @@ This transcript discusses the use of music therapy to help individuals with vary
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/music-therapy]]
+- [dementia-care](../topics/dementia-care.md)
+- [music-therapy](../topics/music-therapy.md)

@@ -26,5 +26,5 @@ The integration of art-based interventions for promoting well-being reveals a co
 
 ## Sources
 
-- [[../sources/fxa100-week04-what-is-singing-for-the-brain]]
-- [[../sources/fxa100-week08-why-the-arts]]
+- [fxa100-week04-what-is-singing-for-the-brain](../sources/fxa100-week04-what-is-singing-for-the-brain.md)
+- [fxa100-week08-why-the-arts](../sources/fxa100-week08-why-the-arts.md)

@@ -24,23 +24,23 @@ The article presents a systematic review of studies examining the efficacy of Cr
 
 ## Key Concepts
 
-- [[../topics/Creative Arts Therapies (CATs)]]
-- [[../topics/PICOS principle]]
+- [Creative Arts Therapies (CATs)](../topics/Creative Arts Therapies (CATs).md)
+- [PICOS principle](../topics/PICOS principle.md)
 
 ## Tags
 
-- [[../tags/creative-arts-interventions]]
-- [[../tags/stress-management]]
-- [[../tags/preventive-healthcare]]
-- [[../tags/systematic-review]]
-- [[../tags/fxa303]]
+- [creative-arts-interventions](../tags/creative-arts-interventions.md)
+- [stress-management](../tags/stress-management.md)
+- [preventive-healthcare](../tags/preventive-healthcare.md)
+- [systematic-review](../tags/systematic-review.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/creative-arts-interventions]]
-- [[../topics/stress-management]]
-- [[../topics/systematic-review]]
+- [creative-arts-interventions](../topics/creative-arts-interventions.md)
+- [stress-management](../topics/stress-management.md)
+- [systematic-review](../topics/systematic-review.md)

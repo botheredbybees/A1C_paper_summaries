@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Neurobiological Effects
 
-- [[../sources/fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies|Trauma-informed care in the creative arts therapies]]
+- [Trauma-informed care in the creative arts therapies](../sources/fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies.md)

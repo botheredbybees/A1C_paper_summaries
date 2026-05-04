@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Public Awareness
 
-- [[../sources/fxa100-week01-dementia-in-australia|Dementia in Australia]]
+- [Dementia in Australia](../sources/fxa100-week01-dementia-in-australia.md)

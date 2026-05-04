@@ -28,7 +28,7 @@ The Social Model of Disability is a pivotal theoretical framework that challenge
 
 ## Sources
 
-- [[../sources/fxa100-excellence-in-dementia-care--ch33-1-place-covers-the-person]]
-- [[../sources/fxa301-week09-pwda-language-guide-a-guide-to-language-about-disability]]
-- [[../sources/fxa301-week09-transcript-the-following-video-from-people-with-disability]]
-- [[../sources/fxa301-week09-week-9-lecture-dr-brendan-lamb]]
+- [fxa100-excellence-in-dementia-care--ch33-1-place-covers-the-person](../sources/fxa100-excellence-in-dementia-care--ch33-1-place-covers-the-person.md)
+- [fxa301-week09-pwda-language-guide-a-guide-to-language-about-disability](../sources/fxa301-week09-pwda-language-guide-a-guide-to-language-about-disability.md)
+- [fxa301-week09-transcript-the-following-video-from-people-with-disability](../sources/fxa301-week09-transcript-the-following-video-from-people-with-disability.md)
+- [fxa301-week09-week-9-lecture-dr-brendan-lamb](../sources/fxa301-week09-week-9-lecture-dr-brendan-lamb.md)

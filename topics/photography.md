@@ -29,8 +29,8 @@ The sources collectively explore various aspects of photography techniques and t
 
 ## Sources
 
-- [[../sources/fxa100-week07-transcript-youtube-qvnfj1otdyc]]
-- [[../sources/fxa202-week02-lesson-fxa202-week02-page-2]]
-- [[../sources/fxa202-week02-lesson-fxa202-week02-page-3]]
-- [[../sources/fxa202-week03-lesson-fxa202-week03-page-2]]
-- [[../sources/fxa202-week06-lesson-fxa202-week06-page-2]]
+- [fxa100-week07-transcript-youtube-qvnfj1otdyc](../sources/fxa100-week07-transcript-youtube-qvnfj1otdyc.md)
+- [fxa202-week02-lesson-fxa202-week02-page-2](../sources/fxa202-week02-lesson-fxa202-week02-page-2.md)
+- [fxa202-week02-lesson-fxa202-week02-page-3](../sources/fxa202-week02-lesson-fxa202-week02-page-3.md)
+- [fxa202-week03-lesson-fxa202-week03-page-2](../sources/fxa202-week03-lesson-fxa202-week03-page-2.md)
+- [fxa202-week06-lesson-fxa202-week06-page-2](../sources/fxa202-week06-lesson-fxa202-week06-page-2.md)

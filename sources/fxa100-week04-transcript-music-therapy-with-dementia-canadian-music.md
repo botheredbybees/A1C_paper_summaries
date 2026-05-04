@@ -24,17 +24,17 @@ A transcript from a session at Evergreen residential nursing home discussing the
 
 ## Key Concepts
 
-- [[../topics/meaningful-music]]
-- [[../topics/self-esteem-through-art]]
-- [[../topics/therapeutic-self-expression]]
+- [meaningful-music](../topics/meaningful-music.md)
+- [self-esteem-through-art](../topics/self-esteem-through-art.md)
+- [therapeutic-self-expression](../topics/therapeutic-self-expression.md)
 
 ## Tags
 
-- [[../tags/music-therapy]]
-- [[../tags/dementia-care]]
-- [[../tags/self-expression]]
-- [[../tags/memory-reconnection]]
-- [[../tags/fxa100]]
+- [music-therapy](../tags/music-therapy.md)
+- [dementia-care](../tags/dementia-care.md)
+- [self-expression](../tags/self-expression.md)
+- [memory-reconnection](../tags/memory-reconnection.md)
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 
@@ -42,6 +42,6 @@ A transcript from a session at Evergreen residential nursing home discussing the
 
 ## See Also
 
-- [[../topics/dementia-care]]
-- [[../topics/music-therapy]]
-- [[../topics/self-expression]]
+- [dementia-care](../topics/dementia-care.md)
+- [music-therapy](../topics/music-therapy.md)
+- [self-expression](../topics/self-expression.md)

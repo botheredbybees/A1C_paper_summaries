@@ -26,5 +26,5 @@ Puppet play therapy emerges as a versatile therapeutic approach that facilitates
 
 ## Sources
 
-- [[../sources/fxa303-week06-mr-fox-is-sad]]
-- [[../sources/fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental]]
+- [fxa303-week06-mr-fox-is-sad](../sources/fxa303-week06-mr-fox-is-sad.md)
+- [fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental](../sources/fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental.md)

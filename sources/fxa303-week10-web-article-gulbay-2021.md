@@ -24,17 +24,17 @@ This article discusses the prevalence of trauma among asylum seeker and unaccomp
 
 ## Key Concepts
 
-- [[../topics/post-traumatic-stress-disorder (PTSD)]]
-- [[../topics/complex post-traumatic stress disorder (C-PTSD)]]
+- [post-traumatic-stress-disorder (PTSD)](../topics/post-traumatic-stress-disorder (PTSD).md)
+- [complex post-traumatic stress disorder (C-PTSD)](../topics/complex post-traumatic stress disorder (C-PTSD).md)
 
 ## Tags
 
-- [[../tags/asylum-seeker-youth]]
-- [[../tags/hip-hop-therapy]]
-- [[../tags/music-therapy]]
-- [[../tags/ptsd-treatment]]
-- [[../tags/unaccompanied-minor-migrants]]
-- [[../tags/fxa303]]
+- [asylum-seeker-youth](../tags/asylum-seeker-youth.md)
+- [hip-hop-therapy](../tags/hip-hop-therapy.md)
+- [music-therapy](../tags/music-therapy.md)
+- [ptsd-treatment](../tags/ptsd-treatment.md)
+- [unaccompanied-minor-migrants](../tags/unaccompanied-minor-migrants.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

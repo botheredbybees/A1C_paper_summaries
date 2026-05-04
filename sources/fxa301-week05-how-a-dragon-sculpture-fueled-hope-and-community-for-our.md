@@ -24,25 +24,25 @@ This article discusses a monumental dragon sculpture project called 'Okoa the Wa
 
 ## Key Concepts
 
-- [[../topics/Arts in Medicine Program]]
-- [[../topics/Therapeutic Benefits of Art]]
+- [Arts in Medicine Program](../topics/Arts in Medicine Program.md)
+- [Therapeutic Benefits of Art](../topics/Therapeutic Benefits of Art.md)
 
 ## Tags
 
-- [[../tags/art-therapy]]
-- [[../tags/cancer-treatment]]
-- [[../tags/community-building]]
-- [[../tags/patient-care]]
-- [[../tags/therapeutic-benefits]]
-- [[../tags/fxa301]]
+- [art-therapy](../tags/art-therapy.md)
+- [cancer-treatment](../tags/cancer-treatment.md)
+- [community-building](../tags/community-building.md)
+- [patient-care](../tags/patient-care.md)
+- [therapeutic-benefits](../tags/therapeutic-benefits.md)
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
-- [[case study]]
+- [case study](case study.md)
 
 ## See Also
 
-- [[../topics/cancer-treatment]]
-- [[../topics/community-building]]
-- [[../topics/patient-care]]
-- [[../topics/therapeutic-benefits]]
+- [cancer-treatment](../topics/cancer-treatment.md)
+- [community-building](../topics/community-building.md)
+- [patient-care](../topics/patient-care.md)
+- [therapeutic-benefits](../topics/therapeutic-benefits.md)

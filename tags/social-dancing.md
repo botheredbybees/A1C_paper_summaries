@@ -6,4 +6,4 @@ updated: 2026-05-04
 
 ## Social Dancing
 
-- [[../sources/fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster|Social Dancing to Reduce Falls in Older Adults \u2014 A Cluster Randomised Controlled Trial]]
+- [Social Dancing to Reduce Falls in Older Adults \u2014 A Cluster Randomised Controlled Trial](../sources/fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster.md)

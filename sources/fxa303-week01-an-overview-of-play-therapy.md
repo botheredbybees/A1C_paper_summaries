@@ -24,27 +24,27 @@ The article provides an overview of play therapy, emphasizing its significance i
 
 ## Key Concepts
 
-- [[../topics/play therapy]]
-- [[../topics/theoretical framework]]
-- [[../topics/verbal communication]]
-- [[../topics/emotional expression]]
+- [play therapy](../topics/play therapy.md)
+- [theoretical framework](../topics/theoretical framework.md)
+- [verbal communication](../topics/verbal communication.md)
+- [emotional expression](../topics/emotional expression.md)
 
 ## Tags
 
-- [[../tags/child-development]]
-- [[../tags/mental-health-intervention]]
-- [[../tags/play-therapy]]
-- [[../tags/therapeutic-tool]]
-- [[../tags/symbolic-expression]]
-- [[../tags/fxa303]]
+- [child-development](../tags/child-development.md)
+- [mental-health-intervention](../tags/mental-health-intervention.md)
+- [play-therapy](../tags/play-therapy.md)
+- [therapeutic-tool](../tags/therapeutic-tool.md)
+- [symbolic-expression](../tags/symbolic-expression.md)
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 
-- [[systematic review]]
+- [systematic review](systematic review.md)
 
 ## See Also
 
-- [[../topics/child-development]]
-- [[../topics/mental-health-intervention]]
-- [[../topics/play-therapy]]
-- [[../topics/symbolic-expression]]
+- [child-development](../topics/child-development.md)
+- [mental-health-intervention](../topics/mental-health-intervention.md)
+- [play-therapy](../topics/play-therapy.md)
+- [symbolic-expression](../topics/symbolic-expression.md)
