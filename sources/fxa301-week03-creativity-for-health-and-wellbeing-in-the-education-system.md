@@ -28,9 +28,9 @@ The document also emphasizes the benefits of creative activities such as music, 
 
 ## Key Concepts
 
-- [mental health disorders](../topics/mental health disorders.md)
-- [creative activities](../topics/creative activities.md)
-- [universal access to arts](../topics/universal access to arts.md)
+- [mental health disorders](../topics/mental-health-disorders.md)
+- [creative activities](../topics/creative-activities.md)
+- [universal access to arts](../topics/universal-access-to-arts.md)
 
 ## Tags
 
@@ -39,11 +39,11 @@ The document also emphasizes the benefits of creative activities such as music, 
 - [wellbeing-through-art](../tags/wellbeing-through-art.md)
 - [early-intervention-strategies](../tags/early-intervention-strategies.md)
 - [arts-education-reduction](../tags/arts-education-reduction.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [roundtable discussion](roundtable discussion.md)
+- **roundtable discussion**
 
 ## See Also
 

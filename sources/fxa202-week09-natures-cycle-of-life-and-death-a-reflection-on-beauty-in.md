@@ -36,11 +36,11 @@ The text explores the author's contemplation on nature's cycles of life and deat
 - [memento-mori](../tags/memento-mori.md)
 - [natural-cycles](../tags/natural-cycles.md)
 - [environmental-connection](../tags/environmental-connection.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [personal-reflection](personal-reflection.md)
+- **personal-reflection**
 
 ## See Also
 

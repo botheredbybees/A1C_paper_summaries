@@ -24,16 +24,16 @@ The lesson discusses findings from national arts participation surveys conducted
 
 ## Key Concepts
 
-- [First Nations Arts](../topics/First Nations Arts.md)
-- [Creative Engagement](../topics/Creative Engagement.md)
-- [Wellbeing and Creativity](../topics/Wellbeing and Creativity.md)
+- [First Nations Arts](../topics/first-nations-arts.md)
+- [Creative Engagement](../topics/creative-engagement.md)
+- [Wellbeing and Creativity](../topics/wellbeing-and-creativity.md)
 
 ## Tags
 
 - [arts-participation](../tags/arts-participation.md)
 - [social-impact-of-arts](../tags/social-impact-of-arts.md)
 - [cultural-diversity](../tags/cultural-diversity.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

@@ -25,18 +25,18 @@ This lecture note introduces students to the concept of using photography as sel
 ## Key Concepts
 
 - [self-therapy](../topics/self-therapy.md)
-- [biophilia hypothesis](../topics/biophilia hypothesis.md)
+- [biophilia hypothesis](../topics/biophilia-hypothesis.md)
 
 ## Tags
 
 - [photography-therapy](../tags/photography-therapy.md)
 - [mental-health](../tags/mental-health.md)
 - [creative-practice](../tags/creative-practice.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

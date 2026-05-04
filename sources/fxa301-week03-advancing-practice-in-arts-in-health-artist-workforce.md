@@ -24,9 +24,9 @@ This document outlines the need for systematic artist workforce development and 
 
 ## Key Concepts
 
-- [Arts in Health Practitioner-Certified role](../topics/Arts in Health Practitioner-Certified role.md)
-- [foundational competencies](../topics/foundational competencies.md)
-- [career architecture](../topics/career architecture.md)
+- [Arts in Health Practitioner-Certified role](../topics/arts-in-health-practitioner-certified-role.md)
+- [foundational competencies](../topics/foundational-competencies.md)
+- [career architecture](../topics/career-architecture.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ This document outlines the need for systematic artist workforce development and 
 - [professional-certification](../tags/professional-certification.md)
 - [career-pathways](../tags/career-pathways.md)
 - [artist-education](../tags/artist-education.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

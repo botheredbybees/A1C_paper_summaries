@@ -32,7 +32,7 @@ The transcript describes an individual's experience during a flood event. The na
 - [flood-experience](../tags/flood-experience.md)
 - [disaster-response](../tags/disaster-response.md)
 - [emotional-impact](../tags/emotional-impact.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

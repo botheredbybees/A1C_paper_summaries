@@ -36,11 +36,11 @@ The publication 'Mind, Body, Spirit' explores how museums contribute to public h
 - [arts-engagement](../tags/arts-engagement.md)
 - [health-equity](../tags/health-equity.md)
 - [community-outreach](../tags/community-outreach.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [action-research](action-research.md)
+- **action-research**
 
 ## See Also
 

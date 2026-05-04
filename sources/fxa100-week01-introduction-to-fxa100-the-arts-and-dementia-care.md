@@ -30,9 +30,9 @@ The document provides an overview of the FXA100 course, which focuses on practic
 
 ## Key Concepts
 
-- [arts-based interventions](../topics/arts-based interventions.md)
-- [dementia care](../topics/dementia care.md)
-- [mental well-being](../topics/mental well-being.md)
+- [arts-based interventions](../topics/arts-based-interventions.md)
+- [dementia care](../topics/dementia-care.md)
+- [mental well-being](../topics/mental-well-being.md)
 
 ## Tags
 
@@ -41,11 +41,11 @@ The document provides an overview of the FXA100 course, which focuses on practic
 - [well-being-enhancement](../tags/well-being-enhancement.md)
 - [cognitive-processing](../tags/cognitive-processing.md)
 - [dementia-types](../tags/dementia-types.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [lecture](lecture.md)
+- **lecture**
 
 ## See Also
 

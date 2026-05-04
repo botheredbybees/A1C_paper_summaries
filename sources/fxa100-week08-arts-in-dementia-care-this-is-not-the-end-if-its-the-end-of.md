@@ -28,9 +28,9 @@ The author provides examples of effective arts programs like 'Memories in the Ma
 
 ## Key Concepts
 
-- [non-verbal communication](../topics/non-verbal communication.md)
-- [art therapy models](../topics/art therapy models.md)
-- [self-expression in dementia](../topics/self-expression in dementia.md)
+- [non-verbal communication](../topics/non-verbal-communication.md)
+- [art therapy models](../topics/art-therapy-models.md)
+- [self-expression in dementia](../topics/self-expression-in-dementia.md)
 
 ## Tags
 
@@ -40,12 +40,12 @@ The author provides examples of effective arts programs like 'Memories in the Ma
 - [therapeutic-arts](../tags/therapeutic-arts.md)
 - [cognitive-decline](../tags/cognitive-decline.md)
 - [community-engagement](../tags/community-engagement.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case study](case study.md)
-- [literature review](literature review.md)
+- **case study**
+- **literature review**
 
 ## See Also
 

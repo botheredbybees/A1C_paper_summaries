@@ -24,10 +24,10 @@ This document provides a transcript of a music therapy session in a residential 
 
 ## Key Concepts
 
-- [music therapy](../topics/music therapy.md)
-- [dementia care](../topics/dementia care.md)
+- [music therapy](../topics/music-therapy.md)
+- [dementia care](../topics/dementia-care.md)
 - [self-expression](../topics/self-expression.md)
-- [memory evocation](../topics/memory evocation.md)
+- [memory evocation](../topics/memory-evocation.md)
 
 ## Tags
 
@@ -37,11 +37,11 @@ This document provides a transcript of a music therapy session in a residential 
 - [self-expression-through-music](../tags/self-expression-through-music.md)
 - [emotional-wellbeing](../tags/emotional-wellbeing.md)
 - [personal-memory](../tags/personal-memory.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

@@ -24,9 +24,9 @@ Corinne Doran's photo essay 'Winding Paths' explores the personal impact of Grea
 
 ## Key Concepts
 
-- [emotional wellbeing](../topics/emotional wellbeing.md)
-- [flow states](../topics/flow states.md)
-- [visual storytelling](../topics/visual storytelling.md)
+- [emotional wellbeing](../topics/emotional-wellbeing.md)
+- [flow states](../topics/flow-states.md)
+- [visual storytelling](../topics/visual-storytelling.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ Corinne Doran's photo essay 'Winding Paths' explores the personal impact of Grea
 - [creative-self-care](../tags/creative-self-care.md)
 - [pandemic-stress](../tags/pandemic-stress.md)
 - [mindfulness-practices](../tags/mindfulness-practices.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [photo essay](photo essay.md)
+- **photo essay**
 
 ## See Also
 

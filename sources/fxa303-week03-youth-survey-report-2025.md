@@ -24,9 +24,9 @@ The 2025 Youth Survey report by Mission Australia highlights the challenges and 
 
 ## Key Concepts
 
-- [cost of living](../topics/cost of living.md)
-- [mental health issues](../topics/mental health issues.md)
-- [school-related stress](../topics/school-related stress.md)
+- [cost of living](../topics/cost-of-living.md)
+- [mental health issues](../topics/mental-health-issues.md)
+- [school-related stress](../topics/school-related-stress.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ The 2025 Youth Survey report by Mission Australia highlights the challenges and 
 - [climate-change](../tags/climate-change.md)
 - [housing-crisis](../tags/housing-crisis.md)
 - [cost-of-living](../tags/cost-of-living.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [survey](survey.md)
+- **survey**
 
 ## See Also
 

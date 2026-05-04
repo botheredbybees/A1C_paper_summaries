@@ -34,11 +34,11 @@ The document 'The Journal and Visual Research' by the University of Tasmania pro
 - [creative-processes](../tags/creative-processes.md)
 - [sketchnoting](../tags/sketchnoting.md)
 - [art-research](../tags/art-research.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [guide-for-students](guide-for-students.md)
+- **guide-for-students**
 
 ## See Also
 

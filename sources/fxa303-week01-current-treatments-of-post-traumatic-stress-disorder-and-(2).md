@@ -24,9 +24,9 @@ This article reviews current treatments for post-traumatic stress disorder (PTSD
 
 ## Key Concepts
 
-- [PTSD pathophysiology](../topics/PTSD pathophysiology.md)
-- [trauma-focused therapies](../topics/trauma-focused therapies.md)
-- [medically unresponsive epilepsy](../topics/medically unresponsive epilepsy.md)
+- [PTSD pathophysiology](../topics/ptsd-pathophysiology.md)
+- [trauma-focused therapies](../topics/trauma-focused-therapies.md)
+- [medically unresponsive epilepsy](../topics/medically-unresponsive-epilepsy.md)
 
 ## Tags
 
@@ -34,11 +34,11 @@ This article reviews current treatments for post-traumatic stress disorder (PTSD
 - [amygdala-ablation](../tags/amygdala-ablation.md)
 - [refractory-cases](../tags/refractory-cases.md)
 - [neurosurgery](../tags/neurosurgery.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [systematic review](systematic review.md)
+- **systematic review**
 
 ## See Also
 

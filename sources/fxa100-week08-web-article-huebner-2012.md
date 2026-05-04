@@ -24,8 +24,8 @@ The content is a collection of film clips from the documentary titled 'I Remembe
 
 ## Key Concepts
 
-- [Alzheimer's disease](../topics/Alzheimer's disease.md)
-- [Art therapy](../topics/Art therapy.md)
+- [Alzheimer's disease](../topics/alzheimers-disease.md)
+- [Art therapy](../topics/art-therapy.md)
 
 ## Tags
 
@@ -33,7 +33,7 @@ The content is a collection of film clips from the documentary titled 'I Remembe
 - [art-therapy](../tags/art-therapy.md)
 - [cognitive-health](../tags/cognitive-health.md)
 - [memory-function](../tags/memory-function.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

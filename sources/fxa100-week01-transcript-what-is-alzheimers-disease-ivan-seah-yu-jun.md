@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "01"
-tags: ["alzheimer's-disease", "brain-neurology", "medical-research", "fxa100"]
+tags: ["alzheimers-disease", "brain-neurology", "medical-research", "fxa100"]
 key_concepts: ["beta-amyloid plaques", "tau protein neurofibrillary tangles"]
 methods: []
 slug: fxa100-week01-transcript-what-is-alzheimers-disease-ivan-seah-yu-jun
@@ -24,15 +24,15 @@ This transcript provides an overview of Alzheimer's disease as described by Dr. 
 
 ## Key Concepts
 
-- [beta-amyloid plaques](../topics/beta-amyloid plaques.md)
-- [tau protein neurofibrillary tangles](../topics/tau protein neurofibrillary tangles.md)
+- [beta-amyloid plaques](../topics/beta-amyloid-plaques.md)
+- [tau protein neurofibrillary tangles](../topics/tau-protein-neurofibrillary-tangles.md)
 
 ## Tags
 
-- [alzheimer's-disease](../tags/alzheimer's-disease.md)
+- [alzheimer's-disease](../tags/alzheimers-disease.md)
 - [brain-neurology](../tags/brain-neurology.md)
 - [medical-research](../tags/medical-research.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

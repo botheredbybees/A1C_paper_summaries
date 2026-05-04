@@ -24,16 +24,16 @@ A brief prose summary of the paper content.
 
 ## Key Concepts
 
-- [Concept A](../topics/Concept A.md)
+- [Concept A](../topics/concept-a.md)
 
 ## Tags
 
 - [music-therapy](../tags/music-therapy.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [Survey](Survey.md)
+- **Survey**
 
 ## See Also
 

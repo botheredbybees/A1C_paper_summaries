@@ -34,14 +34,14 @@ This article discusses the findings of a UK knowledge exchange project that aime
 - [co-production-methods](../tags/co-production-methods.md)
 - [evaluation-frameworks](../tags/evaluation-frameworks.md)
 - [health-care-policies](../tags/health-care-policies.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [mixed-methods](mixed-methods.md)
-- [surveys](surveys.md)
-- [interviews](interviews.md)
-- [focus-groups](focus-groups.md)
+- **mixed-methods**
+- **surveys**
+- **interviews**
+- **focus-groups**
 
 ## See Also
 

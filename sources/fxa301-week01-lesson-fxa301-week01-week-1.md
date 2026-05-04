@@ -24,15 +24,15 @@ This lesson introduces the concept that the human brain is a complex network res
 
 ## Key Concepts
 
-- [complex neural networks](../topics/complex neural networks.md)
-- [unique individuality](../topics/unique individuality.md)
+- [complex neural networks](../topics/complex-neural-networks.md)
+- [unique individuality](../topics/unique-individuality.md)
 
 ## Tags
 
 - [human-brain-network](../tags/human-brain-network.md)
 - [neural-communication](../tags/neural-communication.md)
 - [community-dynamics](../tags/community-dynamics.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

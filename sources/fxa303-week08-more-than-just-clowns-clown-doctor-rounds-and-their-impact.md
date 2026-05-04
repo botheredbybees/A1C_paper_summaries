@@ -34,12 +34,12 @@ The study explores the impact of clown doctor activities in a pediatric setting 
 - [pediatric-care](../tags/pediatric-care.md)
 - [therapeutic-benefits](../tags/therapeutic-benefits.md)
 - [qualitative-research](../tags/qualitative-research.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [observations](observations.md)
-- [interviews](interviews.md)
+- **observations**
+- **interviews**
 
 ## See Also
 

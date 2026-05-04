@@ -28,9 +28,9 @@ Additionally, the study emphasizes the shift in policy towards social prescribin
 
 ## Key Concepts
 
-- [mental wellbeing](../topics/mental wellbeing.md)
+- [mental wellbeing](../topics/mental-wellbeing.md)
 - [resilience](../topics/resilience.md)
-- [structured group arts activities](../topics/structured group arts activities.md)
+- [structured group arts activities](../topics/structured-group-arts-activities.md)
 
 ## Tags
 
@@ -40,11 +40,11 @@ Additionally, the study emphasizes the shift in policy towards social prescribin
 - [youth-development](../tags/youth-development.md)
 - [community-interventions](../tags/community-interventions.md)
 - [social-prescribing](../tags/social-prescribing.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [rapid review](rapid review.md)
+- **rapid review**
 
 ## See Also
 

@@ -10,6 +10,7 @@ appearances:
   - unit: FXA100
   - unit: FXA100
   - unit: FXA100
+  - unit: FXA100
 tags: ["dementia-care", "creative-interventions", "quality-of-life", "fxa100"]
 key_concepts: ["person-centered care", "artistic expression"]
 methods: []
@@ -27,15 +28,15 @@ Chapter 10 of 'Excellence in Dementia Care' explores the use and benefits of art
 
 ## Key Concepts
 
-- [person-centered care](../topics/person-centered care.md)
-- [artistic expression](../topics/artistic expression.md)
+- [person-centered care](../topics/person-centered-care.md)
+- [artistic expression](../topics/artistic-expression.md)
 
 ## Tags
 
 - [dementia-care](../tags/dementia-care.md)
 - [creative-interventions](../tags/creative-interventions.md)
 - [quality-of-life](../tags/quality-of-life.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

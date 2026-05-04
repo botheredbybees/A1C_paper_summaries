@@ -24,7 +24,7 @@ This lesson explores the historical and cultural significance of clowns and clow
 
 ## Key Concepts
 
-- [psychoanalytical theories](../topics/psychoanalytical theories.md)
+- [psychoanalytical theories](../topics/psychoanalytical-theories.md)
 - [coulrophobia](../topics/coulrophobia.md)
 
 ## Tags
@@ -32,7 +32,7 @@ This lesson explores the historical and cultural significance of clowns and clow
 - [history-of-clowning](../tags/history-of-clowning.md)
 - [sociology-of-art](../tags/sociology-of-art.md)
 - [psychological-theories](../tags/psychological-theories.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

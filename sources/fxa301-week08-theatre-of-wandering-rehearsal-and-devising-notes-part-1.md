@@ -39,11 +39,11 @@ The document highlights the importance of involving underrepresented voices in a
 - [street-performance](../tags/street-performance.md)
 - [creative-collaboration](../tags/creative-collaboration.md)
 - [arts-in-health](../tags/arts-in-health.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

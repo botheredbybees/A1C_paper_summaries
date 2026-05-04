@@ -35,13 +35,13 @@ The study investigates the relationship between perceptual processes and affecti
 - [visual-processing](../tags/visual-processing.md)
 - [gestalt-completion](../tags/gestalt-completion.md)
 - [emotional-integration](../tags/emotional-integration.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [experiment](experiment.md)
-- [verbal-preference-ratings](verbal-preference-ratings.md)
-- [facial-emg](facial-emg.md)
+- **experiment**
+- **verbal-preference-ratings**
+- **facial-emg**
 
 ## See Also
 

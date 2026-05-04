@@ -24,9 +24,9 @@ This study explores the impact of drama therapy on the quality of life (QoL) for
 
 ## Key Concepts
 
-- [quality of life](../topics/quality of life.md)
-- [drama therapy](../topics/drama therapy.md)
-- [mild to moderate dementia](../topics/mild to moderate dementia.md)
+- [quality of life](../topics/quality-of-life.md)
+- [drama therapy](../topics/drama-therapy.md)
+- [mild to moderate dementia](../topics/mild-to-moderate-dementia.md)
 
 ## Tags
 
@@ -34,12 +34,12 @@ This study explores the impact of drama therapy on the quality of life (QoL) for
 - [quality-of-life](../tags/quality-of-life.md)
 - [mental-health-interventions](../tags/mental-health-interventions.md)
 - [aging-population](../tags/aging-population.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [mixed-method approach](mixed-method approach.md)
-- [qualitative data analysis](qualitative data analysis.md)
+- **mixed-method approach**
+- **qualitative data analysis**
 
 ## See Also
 

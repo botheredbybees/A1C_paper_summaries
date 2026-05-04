@@ -24,9 +24,9 @@ This document introduces Week 3 of a course on arts and dementia care, focusing 
 
 ## Key Concepts
 
-- [Music and Memory project](../topics/Music and Memory project.md)
-- [Power of Music and Dementia Study](../topics/Power of Music and Dementia Study.md)
-- [rhythmic entrainment](../topics/rhythmic entrainment.md)
+- [Music and Memory project](../topics/music-and-memory-project.md)
+- [Power of Music and Dementia Study](../topics/power-of-music-and-dementia-study.md)
+- [rhythmic entrainment](../topics/rhythmic-entrainment.md)
 
 ## Tags
 
@@ -35,12 +35,12 @@ This document introduces Week 3 of a course on arts and dementia care, focusing 
 - [quality-of-life](../tags/quality-of-life.md)
 - [aural-memory](../tags/aural-memory.md)
 - [emotional-response](../tags/emotional-response.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case study](case study.md)
-- [systematic review](systematic review.md)
+- **case study**
+- **systematic review**
 
 ## See Also
 

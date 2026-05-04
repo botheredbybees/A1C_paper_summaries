@@ -30,7 +30,7 @@ The findings indicate that arts-based interventions can offer cost-effective met
 
 - [resilience](../topics/resilience.md)
 - [self-efficacy](../topics/self-efficacy.md)
-- [mental wellbeing](../topics/mental wellbeing.md)
+- [mental wellbeing](../topics/mental-wellbeing.md)
 
 ## Tags
 
@@ -39,11 +39,11 @@ The findings indicate that arts-based interventions can offer cost-effective met
 - [resilience-development](../tags/resilience-development.md)
 - [youth-health](../tags/youth-health.md)
 - [community-interventions](../tags/community-interventions.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [rapid review](rapid review.md)
+- **rapid review**
 
 ## See Also
 

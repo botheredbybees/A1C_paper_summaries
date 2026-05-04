@@ -33,7 +33,7 @@ This report, commissioned by the Australia Council and Manatū Taonga Ministry f
 - [arts-and-culture](../tags/arts-and-culture.md)
 - [public-value-of-arts](../tags/public-value-of-arts.md)
 - [wellbeing-through-art](../tags/wellbeing-through-art.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

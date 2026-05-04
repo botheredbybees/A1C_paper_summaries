@@ -32,11 +32,11 @@ This week's lecture in the Photo Essay course focuses on visual storytelling, a 
 - [visual-storytelling](../tags/visual-storytelling.md)
 - [narrative-tense](../tags/narrative-tense.md)
 - [caption-writing](../tags/caption-writing.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

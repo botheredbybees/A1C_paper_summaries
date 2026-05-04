@@ -24,10 +24,10 @@ This study examines the efficacy of music therapy (MT) as an intervention for ch
 
 ## Key Concepts
 
-- [music therapy](../topics/music therapy.md)
-- [autism spectrum disorder](../topics/autism spectrum disorder.md)
-- [biological mechanisms](../topics/biological mechanisms.md)
-- [neural connectivity](../topics/neural connectivity.md)
+- [music therapy](../topics/music-therapy.md)
+- [autism spectrum disorder](../topics/autism-spectrum-disorder.md)
+- [biological mechanisms](../topics/biological-mechanisms.md)
+- [neural connectivity](../topics/neural-connectivity.md)
 
 ## Tags
 
@@ -36,11 +36,11 @@ This study examines the efficacy of music therapy (MT) as an intervention for ch
 - [meta-analysis](../tags/meta-analysis.md)
 - [neural-connectivity](../tags/neural-connectivity.md)
 - [brain-plasticity](../tags/brain-plasticity.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [meta-analysis](meta-analysis.md)
+- **meta-analysis**
 
 ## See Also
 

@@ -36,11 +36,11 @@ This article examines the debate between categorical and dimensional approaches 
 - [mental-disorders](../tags/mental-disorders.md)
 - [dsm-v](../tags/dsm-v.md)
 - [comorbidity](../tags/comorbidity.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [literature-review](literature-review.md)
+- **literature-review**
 
 ## See Also
 

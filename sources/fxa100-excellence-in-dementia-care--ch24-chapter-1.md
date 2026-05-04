@@ -7,13 +7,14 @@ apa7: "Downs, M., Murna, & Bowers, B. (2014). Excellence in dementia care: Resea
 doi: null
 appearances:
   - unit: FXA100
+  - unit: FXA100
 tags: ["dementia-prevalence", "population-ageing", "public-health", "fxa100"]
 key_concepts: ["Alzheimer's disease", "vascular dementia", "risk factors"]
 methods: []
 slug: fxa100-excellence-in-dementia-care--ch24-chapter-1
 related: ["dementia-prevalence", "public-health"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-04
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-excellence-in-dementia-care--ch24-chapter-1.md_
@@ -24,16 +25,16 @@ This chapter discusses the global prevalence and projections of dementia, emphas
 
 ## Key Concepts
 
-- [Alzheimer's disease](../topics/Alzheimer's disease.md)
-- [vascular dementia](../topics/vascular dementia.md)
-- [risk factors](../topics/risk factors.md)
+- [Alzheimer's disease](../topics/alzheimers-disease.md)
+- [vascular dementia](../topics/vascular-dementia.md)
+- [risk factors](../topics/risk-factors.md)
 
 ## Tags
 
 - [dementia-prevalence](../tags/dementia-prevalence.md)
 - [population-ageing](../tags/population-ageing.md)
 - [public-health](../tags/public-health.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

@@ -28,8 +28,8 @@ The book underscores the critical role of cultural actors in enhancing societal 
 
 ## Key Concepts
 
-- [sensory-friendly spaces](../topics/sensory-friendly spaces.md)
-- [interdisciplinary approaches](../topics/interdisciplinary approaches.md)
+- [sensory-friendly spaces](../topics/sensory-friendly-spaces.md)
+- [interdisciplinary approaches](../topics/interdisciplinary-approaches.md)
 
 ## Tags
 
@@ -38,11 +38,11 @@ The book underscores the critical role of cultural actors in enhancing societal 
 - [spatial-design](../tags/spatial-design.md)
 - [wellbeing-initiatives](../tags/wellbeing-initiatives.md)
 - [public-health-strategies](../tags/public-health-strategies.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

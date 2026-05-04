@@ -33,7 +33,7 @@ The video transcript discusses the process of sound detection and interpretation
 - [hearing-process](../tags/hearing-process.md)
 - [ear-anatomy](../tags/ear-anatomy.md)
 - [sound-perception](../tags/sound-perception.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

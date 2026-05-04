@@ -24,9 +24,9 @@ This study, a network meta-analysis of randomized trials examining the effective
 
 ## Key Concepts
 
-- [hospital clowning](../topics/hospital clowning.md)
-- [pediatric anxiety](../topics/pediatric anxiety.md)
-- [pain management](../topics/pain management.md)
+- [hospital clowning](../topics/hospital-clowning.md)
+- [pediatric anxiety](../topics/pediatric-anxiety.md)
+- [pain management](../topics/pain-management.md)
 
 ## Tags
 
@@ -36,11 +36,11 @@ This study, a network meta-analysis of randomized trials examining the effective
 - [pain-reduction](../tags/pain-reduction.md)
 - [network-meta-analysis](../tags/network-meta-analysis.md)
 - [medical-procedures](../tags/medical-procedures.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [network meta-analysis](network meta-analysis.md)
+- **network meta-analysis**
 
 ## See Also
 

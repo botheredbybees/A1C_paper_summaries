@@ -33,11 +33,11 @@ This submission by Museums & Galleries of NSW (M&G NSW) advocates for the inclus
 - [arts-and-health](../tags/arts-and-health.md)
 - [cultural-initiatives](../tags/cultural-initiatives.md)
 - [mental-wellbeing](../tags/mental-wellbeing.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

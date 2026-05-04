@@ -24,15 +24,15 @@ The Playful Engagement Program was a collaborative project between Wesley Missio
 
 ## Key Concepts
 
-- [playful engagement](../topics/playful engagement.md)
-- [theater in health care](../topics/theater in health care.md)
+- [playful engagement](../topics/playful-engagement.md)
+- [theater in health care](../topics/theater-in-health-care.md)
 
 ## Tags
 
 - [dementia-care](../tags/dementia-care.md)
 - [elderclowns](../tags/elderclowns.md)
 - [participatory-arts](../tags/participatory-arts.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

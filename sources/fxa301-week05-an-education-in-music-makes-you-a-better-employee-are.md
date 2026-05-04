@@ -24,8 +24,8 @@ This article discusses the transferable skills developed through music education
 
 ## Key Concepts
 
-- [transferable skills](../topics/transferable skills.md)
-- [musical training impact](../topics/musical training impact.md)
+- [transferable skills](../topics/transferable-skills.md)
+- [musical training impact](../topics/musical-training-impact.md)
 
 ## Tags
 
@@ -34,11 +34,11 @@ This article discusses the transferable skills developed through music education
 - [survey-research](../tags/survey-research.md)
 - [recruitment-strategies](../tags/recruitment-strategies.md)
 - [soft-skills-development](../tags/soft-skills-development.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [nationwide survey](nationwide survey.md)
+- **nationwide survey**
 
 ## See Also
 

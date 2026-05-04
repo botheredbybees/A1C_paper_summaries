@@ -35,12 +35,12 @@ This study evaluates the effectiveness of the Sharing Stories youth theatre prog
 - [theatre-education](../tags/theatre-education.md)
 - [peer-education](../tags/peer-education.md)
 - [drama-based-learning](../tags/drama-based-learning.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [mixed-methods-design](mixed-methods-design.md)
-- [workshop-evaluation](workshop-evaluation.md)
+- **mixed-methods-design**
+- **workshop-evaluation**
 
 ## See Also
 

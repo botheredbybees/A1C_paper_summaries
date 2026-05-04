@@ -10,7 +10,7 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
-tags: ["community arts", "creative interventions", "well-being", "fxa301"]
+tags: ["community-arts", "creative-interventions", "well-being", "fxa301"]
 key_concepts: ["identity and sustainability", "health and well-being", "human rights"]
 methods: []
 slug: fxa301-make-arts-for-a-better-life-ch17-1-for-further-study-on-communication-channels
@@ -27,16 +27,16 @@ This chapter from the book 'Make Arts for a Better Life: A Guide for Working wit
 
 ## Key Concepts
 
-- [identity and sustainability](../topics/identity and sustainability.md)
-- [health and well-being](../topics/health and well-being.md)
-- [human rights](../topics/human rights.md)
+- [identity and sustainability](../topics/identity-and-sustainability.md)
+- [health and well-being](../topics/health-and-well-being.md)
+- [human rights](../topics/human-rights.md)
 
 ## Tags
 
-- [community arts](../tags/community arts.md)
-- [creative interventions](../tags/creative interventions.md)
+- [community arts](../tags/community-arts.md)
+- [creative interventions](../tags/creative-interventions.md)
 - [well-being](../tags/well-being.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

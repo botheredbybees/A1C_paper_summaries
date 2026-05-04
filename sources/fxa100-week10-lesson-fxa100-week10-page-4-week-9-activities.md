@@ -24,15 +24,15 @@ This week's module for FXA100 The Arts and Dementia Care includes a discussion o
 
 ## Key Concepts
 
-- [person-centered care](../topics/person-centered care.md)
-- [playful engagement](../topics/playful engagement.md)
+- [person-centered care](../topics/person-centered-care.md)
+- [playful engagement](../topics/playful-engagement.md)
 
 ## Tags
 
 - [dementia-care](../tags/dementia-care.md)
 - [arts-in-healthcare](../tags/arts-in-healthcare.md)
 - [theater-drama](../tags/theater-drama.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

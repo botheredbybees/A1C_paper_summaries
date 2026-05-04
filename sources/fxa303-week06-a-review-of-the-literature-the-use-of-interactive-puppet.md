@@ -36,11 +36,11 @@ This review explores the use of puppets in health care and nursing education, fo
 - [play-therapy](../tags/play-therapy.md)
 - [simulation-methods](../tags/simulation-methods.md)
 - [diabetes-management](../tags/diabetes-management.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [systematic-review](systematic-review.md)
+- **systematic-review**
 
 ## See Also
 

@@ -25,7 +25,7 @@ This article explores the hypothesis that adolescence may represent a sensitive 
 ## Key Concepts
 
 - [neuroplasticity](../topics/neuroplasticity.md)
-- [sensitive period hypothesis](../topics/sensitive period hypothesis.md)
+- [sensitive period hypothesis](../topics/sensitive-period-hypothesis.md)
 
 ## Tags
 
@@ -34,11 +34,11 @@ This article explores the hypothesis that adolescence may represent a sensitive 
 - [sensitive-period-hypothesis](../tags/sensitive-period-hypothesis.md)
 - [neural-plasticity](../tags/neural-plasticity.md)
 - [mental-wellbeing](../tags/mental-wellbeing.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [systematic review](systematic review.md)
+- **systematic review**
 
 ## See Also
 

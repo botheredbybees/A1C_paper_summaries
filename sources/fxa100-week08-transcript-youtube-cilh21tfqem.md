@@ -24,15 +24,15 @@ The content is a transcription of captions from a video featuring lyrics or poet
 
 ## Key Concepts
 
-- [Dreaming Big](../topics/Dreaming Big.md)
-- [Self-Expression Through Art](../topics/Self-Expression Through Art.md)
+- [Dreaming Big](../topics/dreaming-big.md)
+- [Self-Expression Through Art](../topics/self-expression-through-art.md)
 
 ## Tags
 
 - [poetry](../tags/poetry.md)
 - [inspirational-quotes](../tags/inspirational-quotes.md)
 - [self-expression](../tags/self-expression.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

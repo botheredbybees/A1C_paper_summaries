@@ -33,11 +33,11 @@ The Artful: Art and Dementia Toolkit, an initiative by the Museum of Contemporar
 - [art-therapy](../tags/art-therapy.md)
 - [dementia-care](../tags/dementia-care.md)
 - [wellbeing-through-art](../tags/wellbeing-through-art.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

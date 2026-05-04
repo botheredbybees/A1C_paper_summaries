@@ -7,13 +7,14 @@ apa7: "Craig, C., Claire, & Killick, J. (2011). Measuring success. In Creativity
 doi: null
 appearances:
   - unit: FXA100
-tags: ["dementia", "arts-based intervention", "evaluation-methods", "fxa100"]
+  - unit: FXA100
+tags: ["dementia", "arts-based-intervention", "evaluation-methods", "fxa100"]
 key_concepts: ["person-centered care", "creative expression", "flexible evaluation criteria"]
 methods: []
 slug: fxa100-creativity-and-communication-ch12-22-measuring-success-evaluation-is-an-ongoing-process-that
 related: ["dementia", "evaluation-methods"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-04
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-creativity-and-communication-ch12-22-measuring-success-evaluation-is-an-ongoing-process-that.md_
@@ -24,16 +25,16 @@ This chapter discusses the evaluation process for arts-based projects involving 
 
 ## Key Concepts
 
-- [person-centered care](../topics/person-centered care.md)
-- [creative expression](../topics/creative expression.md)
-- [flexible evaluation criteria](../topics/flexible evaluation criteria.md)
+- [person-centered care](../topics/person-centered-care.md)
+- [creative expression](../topics/creative-expression.md)
+- [flexible evaluation criteria](../topics/flexible-evaluation-criteria.md)
 
 ## Tags
 
 - [dementia](../tags/dementia.md)
-- [arts-based intervention](../tags/arts-based intervention.md)
+- [arts-based intervention](../tags/arts-based-intervention.md)
 - [evaluation-methods](../tags/evaluation-methods.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

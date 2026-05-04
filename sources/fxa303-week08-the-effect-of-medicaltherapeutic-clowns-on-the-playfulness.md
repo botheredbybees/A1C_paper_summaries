@@ -35,12 +35,12 @@ This study explores the impact of medical clowns on the playfulness of children 
 - [child-development](../tags/child-development.md)
 - [social-skills](../tags/social-skills.md)
 - [emotional-wellbeing](../tags/emotional-wellbeing.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [longitudinal-study](longitudinal-study.md)
-- [case-control](case-control.md)
+- **longitudinal-study**
+- **case-control**
 
 ## See Also
 

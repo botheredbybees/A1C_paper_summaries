@@ -24,9 +24,9 @@ This review examines the cultural determinants of health for Aboriginal and Torr
 
 ## Key Concepts
 
-- [community connections](../topics/family/community connections.md)
+- [community connections](../topics/familycommunity-connections.md)
 - [self-determination](../topics/self-determination.md)
-- [connection to culture](../topics/connection to culture.md)
+- [connection to culture](../topics/connection-to-culture.md)
 
 ## Tags
 
@@ -35,7 +35,7 @@ This review examines the cultural determinants of health for Aboriginal and Torr
 - [cultural-determinants-of-health](../tags/cultural-determinants-of-health.md)
 - [strengths-based-approach](../tags/strengths-based-approach.md)
 - [indigenous-wellbeing](../tags/indigenous-wellbeing.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

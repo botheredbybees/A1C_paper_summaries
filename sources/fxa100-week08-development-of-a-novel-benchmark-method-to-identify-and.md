@@ -24,8 +24,8 @@ The 'Identifying best practices for care-dependent elderly by Benchmarking Costs
 
 ## Key Concepts
 
-- [interRAI Home Care instrument](../topics/interRAI Home Care instrument.md)
-- [best practices in home care](../topics/best practices in home care.md)
+- [interRAI Home Care instrument](../topics/interrai-home-care-instrument.md)
+- [best practices in home care](../topics/best-practices-in-home-care.md)
 
 ## Tags
 
@@ -34,12 +34,12 @@ The 'Identifying best practices for care-dependent elderly by Benchmarking Costs
 - [cross-cultural-research](../tags/cross-cultural-research.md)
 - [longitudinal-study](../tags/longitudinal-study.md)
 - [health-policy](../tags/health-policy.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [longitudinal approach](longitudinal approach.md)
-- [cross-sectional surveys](cross-sectional surveys.md)
+- **longitudinal approach**
+- **cross-sectional surveys**
 
 ## See Also
 

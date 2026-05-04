@@ -32,7 +32,7 @@ This week's course material provides an overview of the developmental processes 
 - [adolescent-brain-development](../tags/adolescent-brain-development.md)
 - [mental-wellbeing-through-arts](../tags/mental-wellbeing-through-arts.md)
 - [brain-and-behavior-in-adolescence](../tags/brain-and-behavior-in-adolescence.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

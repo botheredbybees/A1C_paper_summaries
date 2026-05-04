@@ -24,8 +24,8 @@ This lesson discusses the concept of Inclusive Arts, which focuses on creative a
 
 ## Key Concepts
 
-- [Inclusive Arts](../topics/Inclusive Arts.md)
-- [Social Model of Disability](../topics/Social Model of Disability.md)
+- [Inclusive Arts](../topics/inclusive-arts.md)
+- [Social Model of Disability](../topics/social-model-of-disability.md)
 
 ## Tags
 
@@ -33,7 +33,7 @@ This lesson discusses the concept of Inclusive Arts, which focuses on creative a
 - [disability-rights](../tags/disability-rights.md)
 - [social-model-disability](../tags/social-model-disability.md)
 - [creative-expression](../tags/creative-expression.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

@@ -24,10 +24,10 @@ The article '5 Benefits of Journaling for Mental Health' by Jeremy Sutton, Ph.D.
 
 ## Key Concepts
 
-- [emotional processing](../topics/emotional processing.md)
+- [emotional processing](../topics/emotional-processing.md)
 - [mindfulness](../topics/mindfulness.md)
-- [gratitude journaling](../topics/gratitude journaling.md)
-- [expressive writing](../topics/expressive writing.md)
+- [gratitude journaling](../topics/gratitude-journaling.md)
+- [expressive writing](../topics/expressive-writing.md)
 
 ## Tags
 
@@ -36,11 +36,11 @@ The article '5 Benefits of Journaling for Mental Health' by Jeremy Sutton, Ph.D.
 - [emotional-wellbeing](../tags/emotional-wellbeing.md)
 - [cognitive-processing](../tags/cognitive-processing.md)
 - [stress-management](../tags/stress-management.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

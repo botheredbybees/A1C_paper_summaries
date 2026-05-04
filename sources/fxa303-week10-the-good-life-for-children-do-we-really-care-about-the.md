@@ -24,9 +24,9 @@ The article discusses the ARACY Report Card on the Wellbeing of Young Australian
 
 ## Key Concepts
 
-- [wellbeing assessment](../topics/wellbeing assessment.md)
-- [comprehensive data reporting](../topics/comprehensive data reporting.md)
-- [balanced approach to development](../topics/balanced approach to development.md)
+- [wellbeing assessment](../topics/wellbeing-assessment.md)
+- [comprehensive data reporting](../topics/comprehensive-data-reporting.md)
+- [balanced approach to development](../topics/balanced-approach-to-development.md)
 
 ## Tags
 
@@ -35,7 +35,7 @@ The article discusses the ARACY Report Card on the Wellbeing of Young Australian
 - [indigenous-rights](../tags/indigenous-rights.md)
 - [economic-development](../tags/economic-development.md)
 - [community-engagement](../tags/community-engagement.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

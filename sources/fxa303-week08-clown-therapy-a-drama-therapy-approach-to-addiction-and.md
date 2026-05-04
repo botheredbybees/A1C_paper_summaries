@@ -35,11 +35,11 @@ This paper discusses a drama therapy approach to addiction using clown therapy, 
 - [addiction-treatment](../tags/addiction-treatment.md)
 - [jungian-psychology](../tags/jungian-psychology.md)
 - [transitional-spaces](../tags/transitional-spaces.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

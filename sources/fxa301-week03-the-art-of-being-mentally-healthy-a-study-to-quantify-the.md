@@ -24,9 +24,9 @@ The study explores the relationship between recreational arts engagement and men
 
 ## Key Concepts
 
-- [recreational arts engagement](../topics/recreational arts engagement.md)
-- [mental well-being](../topics/mental well-being.md)
-- [dose-response relationship](../topics/dose-response relationship.md)
+- [recreational arts engagement](../topics/recreational-arts-engagement.md)
+- [mental well-being](../topics/mental-well-being.md)
+- [dose-response relationship](../topics/dose-response-relationship.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ The study explores the relationship between recreational arts engagement and men
 - [population-health](../tags/population-health.md)
 - [social-epidemiology](../tags/social-epidemiology.md)
 - [biopsychosocial-model](../tags/biopsychosocial-model.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [telephone survey](telephone survey.md)
+- **telephone survey**
 
 ## See Also
 

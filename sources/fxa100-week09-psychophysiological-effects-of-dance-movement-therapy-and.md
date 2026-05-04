@@ -24,9 +24,9 @@ This study examines the psychophysiological impacts of dance movement therapy (D
 
 ## Key Concepts
 
-- [dance movement therapy](../topics/dance movement therapy.md)
-- [physical exercise](../topics/physical exercise.md)
-- [mild dementia](../topics/mild dementia.md)
+- [dance movement therapy](../topics/dance-movement-therapy.md)
+- [physical exercise](../topics/physical-exercise.md)
+- [mild dementia](../topics/mild-dementia.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ This study examines the psychophysiological impacts of dance movement therapy (D
 - [psychophysiology](../tags/psychophysiology.md)
 - [aging-research](../tags/aging-research.md)
 - [mental-health](../tags/mental-health.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [randomized controlled trial](randomized controlled trial.md)
+- **randomized controlled trial**
 
 ## See Also
 

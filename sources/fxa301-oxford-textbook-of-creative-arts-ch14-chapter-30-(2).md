@@ -24,15 +24,15 @@ This chapter presents a case study of the Active Energy project, an initiative t
 
 ## Key Concepts
 
-- [democratization of technology](democratization of technology.md)
-- [intergenerational collaboration](intergenerational collaboration.md)
+- **democratization of technology**
+- **intergenerational collaboration**
 
 ## Tags
 
-- [creative-arts](creative-arts.md)
-- [community-engagement](community-engagement.md)
-- [participatory-research](participatory-research.md)
-- [fxa301](fxa301.md)
+- **creative-arts**
+- **community-engagement**
+- **participatory-research**
+- **fxa301**
 
 ## Methods
 

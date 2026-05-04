@@ -40,11 +40,11 @@ Additionally, it addresses how different types of dementia impact artistic abili
 - [cognitive-barriers](../tags/cognitive-barriers.md)
 - [self-reflection](../tags/self-reflection.md)
 - [cross-cultural](../tags/cross-cultural.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [lecture](lecture.md)
+- **lecture**
 
 ## See Also
 

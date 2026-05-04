@@ -25,8 +25,8 @@ The introduction chapter of 'Art Therapy and Creative Aging' by Raquel Chapin St
 ## Key Concepts
 
 - [elderhood](../topics/elderhood.md)
-- [creative arts therapy](../topics/creative arts therapy.md)
-- [biological decline vs development](../topics/biological decline vs development.md)
+- [creative arts therapy](../topics/creative-arts-therapy.md)
+- [biological decline vs development](../topics/biological-decline-vs-development.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ The introduction chapter of 'Art Therapy and Creative Aging' by Raquel Chapin St
 - [elderhood-development](../tags/elderhood-development.md)
 - [societal-bias-aging](../tags/societal-bias-aging.md)
 - [well-being-later-life](../tags/well-being-later-life.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

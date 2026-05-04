@@ -24,9 +24,9 @@ The report 'Museums as Spaces for Wellbeing' by Desmarais et al. (2018) explores
 
 ## Key Concepts
 
-- [co-creation methods](../topics/co-creation methods.md)
-- [holistic healthcare approaches](../topics/holistic healthcare approaches.md)
-- [green wellbeing initiatives](../topics/green wellbeing initiatives.md)
+- [co-creation methods](../topics/co-creation-methods.md)
+- [holistic healthcare approaches](../topics/holistic-healthcare-approaches.md)
+- [green wellbeing initiatives](../topics/green-wellbeing-initiatives.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ The report 'Museums as Spaces for Wellbeing' by Desmarais et al. (2018) explores
 - [community-wellbeing](../tags/community-wellbeing.md)
 - [healthcare-collaboration](../tags/healthcare-collaboration.md)
 - [wellness-initiatives](../tags/wellness-initiatives.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

@@ -24,9 +24,9 @@ This transcript describes a gait training session for a patient with Parkinson's
 
 ## Key Concepts
 
-- [Parkinson's disease](../topics/Parkinson's disease.md)
-- [Gait training](../topics/Gait training.md)
-- [Music therapy](../topics/Music therapy.md)
+- [Parkinson's disease](../topics/parkinsons-disease.md)
+- [Gait training](../topics/gait-training.md)
+- [Music therapy](../topics/music-therapy.md)
 
 ## Tags
 
@@ -34,7 +34,7 @@ This transcript describes a gait training session for a patient with Parkinson's
 - [physical-therapy](../tags/physical-therapy.md)
 - [music-in-rehabilitation](../tags/music-in-rehabilitation.md)
 - [gait-training](../tags/gait-training.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

@@ -24,9 +24,9 @@ This document explores the work and impact of Mihály Csíkszentmihályi, known 
 
 ## Key Concepts
 
-- [flow theory](../topics/flow theory.md)
-- [optimal experiences](../topics/optimal experiences.md)
-- [positive psychology](../topics/positive psychology.md)
+- [flow theory](../topics/flow-theory.md)
+- [optimal experiences](../topics/optimal-experiences.md)
+- [positive psychology](../topics/positive-psychology.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ This document explores the work and impact of Mihály Csíkszentmihályi, known 
 - [well-being-research](../tags/well-being-research.md)
 - [quality-of-life](../tags/quality-of-life.md)
 - [motivation-theory](../tags/motivation-theory.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

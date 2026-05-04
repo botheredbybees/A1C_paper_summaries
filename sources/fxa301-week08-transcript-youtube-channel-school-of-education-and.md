@@ -32,7 +32,7 @@ The transcript discusses the concept of applied theater as a storytelling proces
 - [applied-theater](../tags/applied-theater.md)
 - [community-engagement](../tags/community-engagement.md)
 - [storytelling](../tags/storytelling.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

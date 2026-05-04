@@ -24,19 +24,19 @@ In 'The Assignment I'll Never Forget,' Dorothea Lange recounts her experience ca
 
 ## Key Concepts
 
-- [Migrant Mother](../topics/Migrant Mother.md)
-- [Farm Security Administration](../topics/Farm Security Administration.md)
+- [Migrant Mother](../topics/migrant-mother.md)
+- [Farm Security Administration](../topics/farm-security-administration.md)
 
 ## Tags
 
 - [photojournalism](../tags/photojournalism.md)
 - [great-depression](../tags/great-depression.md)
 - [historical-photography](../tags/historical-photography.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

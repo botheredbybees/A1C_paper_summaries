@@ -24,16 +24,16 @@ This week's content in FXA303 focuses on the role of arts and creative projects 
 
 ## Key Concepts
 
-- [cultural adjustment](../topics/cultural adjustment.md)
-- [creative therapy](../topics/creative therapy.md)
-- [mental wellbeing](../topics/mental wellbeing.md)
+- [cultural adjustment](../topics/cultural-adjustment.md)
+- [creative therapy](../topics/creative-therapy.md)
+- [mental wellbeing](../topics/mental-wellbeing.md)
 
 ## Tags
 
 - [arts-in-therapy](../tags/arts-in-therapy.md)
 - [migrant-wellbeing](../tags/migrant-wellbeing.md)
 - [indigenous-culture](../tags/indigenous-culture.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

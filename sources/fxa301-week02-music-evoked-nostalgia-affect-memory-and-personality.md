@@ -33,11 +33,11 @@ This study explores the psychological impact of music-evoked nostalgia, focusing
 - [music-evoked-nostalgia](../tags/music-evoked-nostalgia.md)
 - [affective-memory](../tags/affective-memory.md)
 - [personality-traits](../tags/personality-traits.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [survey-study](survey-study.md)
+- **survey-study**
 
 ## See Also
 

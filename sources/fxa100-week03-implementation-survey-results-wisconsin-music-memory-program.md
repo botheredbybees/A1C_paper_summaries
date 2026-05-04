@@ -28,9 +28,9 @@ The results underscore the relevance of music therapy as a non-pharmacological i
 
 ## Key Concepts
 
-- [Music & Memory Program](../topics/Music & Memory Program.md)
-- [resident well-being](../topics/resident well-being.md)
-- [personalized music therapy](../topics/personalized music therapy.md)
+- [Music & Memory Program](../topics/music-memory-program.md)
+- [resident well-being](../topics/resident-well-being.md)
+- [personalized music therapy](../topics/personalized-music-therapy.md)
 
 ## Tags
 
@@ -38,11 +38,11 @@ The results underscore the relevance of music therapy as a non-pharmacological i
 - [dementia-care](../tags/dementia-care.md)
 - [non-pharmacological-intervention](../tags/non-pharmacological-intervention.md)
 - [quality-of-life-improvement](../tags/quality-of-life-improvement.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [implementation survey](implementation survey.md)
+- **implementation survey**
 
 ## See Also
 

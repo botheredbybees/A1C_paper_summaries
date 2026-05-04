@@ -25,15 +25,15 @@ The chapter discusses the management and understanding of dementia symptoms from
 ## Key Concepts
 
 - [neuropathology](../topics/neuropathology.md)
-- [malignant social psychology](../topics/malignant social psychology.md)
-- [explicit vs. implicit memory](../topics/explicit vs. implicit memory.md)
+- [malignant social psychology](../topics/malignant-social-psychology.md)
+- [explicit vs. implicit memory](../topics/explicit-vs-implicit-memory.md)
 
 ## Tags
 
 - [dementia-care](../tags/dementia-care.md)
 - [biopsychosocial-approach](../tags/biopsychosocial-approach.md)
 - [memory-function](../tags/memory-function.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

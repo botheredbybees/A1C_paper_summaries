@@ -24,22 +24,22 @@ This chapter includes a collection of scholarly references and citations relevan
 
 ## Key Concepts
 
-- [performance studies](../topics/performance studies.md)
-- [sustainability in music cultures](../topics/sustainability in music cultures.md)
-- [arts-based community development](../topics/arts-based community development.md)
+- [performance studies](../topics/performance-studies.md)
+- [sustainability in music cultures](../topics/sustainability-in-music-cultures.md)
+- [arts-based community development](../topics/arts-based-community-development.md)
 
 ## Tags
 
 - [ethnomusicology](../tags/ethnomusicology.md)
 - [cultural-studies](../tags/cultural-studies.md)
 - [community-development](../tags/community-development.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [ethnography](ethnography.md)
-- [participant observation](participant observation.md)
-- [collaborative research](collaborative research.md)
+- **ethnography**
+- **participant observation**
+- **collaborative research**
 
 ## See Also
 

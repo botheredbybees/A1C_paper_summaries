@@ -24,8 +24,8 @@ The article discusses a groundbreaking initiative to use theatre as a medium for
 
 ## Key Concepts
 
-- [tacit knowledge](../topics/tacit knowledge.md)
-- [person-centered care](../topics/person-centered care.md)
+- [tacit knowledge](../topics/tacit-knowledge.md)
+- [person-centered care](../topics/person-centered-care.md)
 
 ## Tags
 
@@ -34,12 +34,12 @@ The article discusses a groundbreaking initiative to use theatre as a medium for
 - [person-centered-care](../tags/person-centered-care.md)
 - [theatre-in-education](../tags/theatre-in-education.md)
 - [empathy-building](../tags/empathy-building.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [workshop](workshop.md)
-- [play](play.md)
+- **workshop**
+- **play**
 
 ## See Also
 

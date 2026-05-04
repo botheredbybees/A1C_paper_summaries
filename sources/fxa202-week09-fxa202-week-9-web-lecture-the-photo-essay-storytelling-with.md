@@ -33,11 +33,11 @@ The document provides feedback on the photo essay assignment (AT2) for FXA202, f
 - [storytelling-techniques](../tags/storytelling-techniques.md)
 - [image-captions](../tags/image-captions.md)
 - [photo-essay](../tags/photo-essay.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [lecture-feedback](lecture-feedback.md)
+- **lecture-feedback**
 
 ## See Also
 

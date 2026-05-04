@@ -24,9 +24,9 @@ This study investigates the impact of music listening on adolescents' sense of a
 
 ## Key Concepts
 
-- [sense of agency](../topics/sense of agency.md)
+- [sense of agency](../topics/sense-of-agency.md)
 - [self-efficacy](../topics/self-efficacy.md)
-- [emotional states](../topics/emotional states.md)
+- [emotional states](../topics/emotional-states.md)
 
 ## Tags
 
@@ -35,12 +35,12 @@ This study investigates the impact of music listening on adolescents' sense of a
 - [sense-of-agency](../tags/sense-of-agency.md)
 - [daily-life-experiences](../tags/daily-life-experiences.md)
 - [well-being](../tags/well-being.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [mobile app data collection](mobile app data collection.md)
-- [qualitative analysis](qualitative analysis.md)
+- **mobile app data collection**
+- **qualitative analysis**
 
 ## See Also
 

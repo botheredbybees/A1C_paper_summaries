@@ -24,7 +24,7 @@ This content is an authentication request for accessing a scholarly article thro
 
 ## Key Concepts
 
-- [Shibboleth](../topics/Shibboleth.md)
+- [Shibboleth](../topics/shibboleth.md)
 - [Single Sign-On (SSO) System](../topics/Single Sign-On (SSO) System.md)
 
 ## Tags
@@ -32,7 +32,7 @@ This content is an authentication request for accessing a scholarly article thro
 - [authentication-request](../tags/authentication-request.md)
 - [shibboleth-system](../tags/shibboleth-system.md)
 - [internet-security](../tags/internet-security.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

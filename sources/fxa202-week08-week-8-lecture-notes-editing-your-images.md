@@ -25,8 +25,8 @@ This week’s lecture emphasizes the importance of editing techniques and mindfu
 ## Key Concepts
 
 - [biophilia](../topics/biophilia.md)
-- [therapeutic photography](../topics/therapeutic photography.md)
-- [photo therapy](../topics/photo therapy.md)
+- [therapeutic photography](../topics/therapeutic-photography.md)
+- [photo therapy](../topics/photo-therapy.md)
 
 ## Tags
 
@@ -36,11 +36,11 @@ This week’s lecture emphasizes the importance of editing techniques and mindfu
 - [environmental-connectivity](../tags/environmental-connectivity.md)
 - [digital-editing](../tags/digital-editing.md)
 - [reflective-practice](../tags/reflective-practice.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

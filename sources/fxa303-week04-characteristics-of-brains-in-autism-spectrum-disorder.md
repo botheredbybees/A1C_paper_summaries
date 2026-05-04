@@ -36,11 +36,11 @@ This paper reviews recent neuroimaging studies to characterize the brains of ind
 - [connectivity-patterns](../tags/connectivity-patterns.md)
 - [structural-mri](../tags/structural-mri.md)
 - [functional-mri](../tags/functional-mri.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [systematic-review](systematic-review.md)
+- **systematic-review**
 
 ## See Also
 

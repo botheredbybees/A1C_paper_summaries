@@ -35,12 +35,12 @@ The study explores the role of group singing in facilitating social cohesion amo
 - [singing-therapy](../tags/singing-therapy.md)
 - [emotional-synchrony](../tags/emotional-synchrony.md)
 - [endurance-research](../tags/endurance-research.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [longitudinal-study](longitudinal-study.md)
-- [qualitative-analysis](qualitative-analysis.md)
+- **longitudinal-study**
+- **qualitative-analysis**
 
 ## See Also
 

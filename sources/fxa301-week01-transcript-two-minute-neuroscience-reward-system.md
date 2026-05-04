@@ -24,9 +24,9 @@ This transcript from Two-Minute Neuroscience introduces the concept of the brain
 
 ## Key Concepts
 
-- [mesolimbic dopamine pathway](../topics/mesolimbic dopamine pathway.md)
+- [mesolimbic dopamine pathway](../topics/mesolimbic-dopamine-pathway.md)
 - [ventral tegmental area (VTA)](../topics/ventral tegmental area (VTA).md)
-- [nucleus accumbens](../topics/nucleus accumbens.md)
+- [nucleus accumbens](../topics/nucleus-accumbens.md)
 
 ## Tags
 
@@ -35,7 +35,7 @@ This transcript from Two-Minute Neuroscience introduces the concept of the brain
 - [dopamine-pathways](../tags/dopamine-pathways.md)
 - [brain-stem](../tags/brain-stem.md)
 - [nucleus-accumbens](../tags/nucleus-accumbens.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

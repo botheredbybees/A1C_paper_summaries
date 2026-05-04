@@ -33,11 +33,11 @@ This paper reviews studies investigating the influence of formal musical trainin
 - [music-perception](../tags/music-perception.md)
 - [formal-training](../tags/formal-training.md)
 - [musical-competency](../tags/musical-competency.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [literature-review](literature-review.md)
+- **literature-review**
 
 ## See Also
 

@@ -28,9 +28,9 @@ Furthermore, the article explores mechanisms behind the effectiveness of arts-ba
 
 ## Key Concepts
 
-- [mental health disorders in youth](../topics/mental health disorders in youth.md)
-- [arts-and-culture-based interventions](../topics/arts-and-culture-based interventions.md)
-- [elevating youth voice](../topics/elevating youth voice.md)
+- [mental health disorders in youth](../topics/mental-health-disorders-in-youth.md)
+- [arts-and-culture-based interventions](../topics/arts-and-culture-based-interventions.md)
+- [elevating youth voice](../topics/elevating-youth-voice.md)
 
 ## Tags
 
@@ -39,11 +39,11 @@ Furthermore, the article explores mechanisms behind the effectiveness of arts-ba
 - [global-health-initiatives](../tags/global-health-initiatives.md)
 - [cultural-practices](../tags/cultural-practices.md)
 - [community-engagement](../tags/community-engagement.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [systematic review](systematic review.md)
+- **systematic review**
 
 ## See Also
 

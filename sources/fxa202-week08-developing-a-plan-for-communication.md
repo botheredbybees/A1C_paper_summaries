@@ -24,19 +24,19 @@ The document discusses the importance of developing a communication plan to effe
 
 ## Key Concepts
 
-- [communication plan](../topics/communication plan.md)
-- [audience identification](../topics/audience identification.md)
+- [communication plan](../topics/communication-plan.md)
+- [audience identification](../topics/audience-identification.md)
 
 ## Tags
 
 - [community-communication](../tags/community-communication.md)
 - [message-dissemination](../tags/message-dissemination.md)
 - [planning-strategy](../tags/planning-strategy.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

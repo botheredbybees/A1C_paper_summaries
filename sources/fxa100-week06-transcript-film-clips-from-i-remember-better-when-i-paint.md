@@ -24,9 +24,9 @@ The documentary 'I Remember Better When I Paint' focuses on Alzheimer's disease 
 
 ## Key Concepts
 
-- [Alzheimer's disease](../topics/Alzheimer's disease.md)
-- [Creative arts therapy](../topics/Creative arts therapy.md)
-- [Quality of life improvement](../topics/Quality of life improvement.md)
+- [Alzheimer's disease](../topics/alzheimers-disease.md)
+- [Creative arts therapy](../topics/creative-arts-therapy.md)
+- [Quality of life improvement](../topics/quality-of-life-improvement.md)
 
 ## Tags
 
@@ -34,7 +34,7 @@ The documentary 'I Remember Better When I Paint' focuses on Alzheimer's disease 
 - [creative-arts](../tags/creative-arts.md)
 - [quality-of-life](../tags/quality-of-life.md)
 - [narrative-documentary](../tags/narrative-documentary.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

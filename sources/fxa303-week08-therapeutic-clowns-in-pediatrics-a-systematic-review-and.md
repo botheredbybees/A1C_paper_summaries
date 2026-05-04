@@ -34,12 +34,12 @@ This article presents a systematic review and meta-analysis of randomized contro
 - [pediatrics](../tags/pediatrics.md)
 - [mental-health-interventions](../tags/mental-health-interventions.md)
 - [hospital-settings](../tags/hospital-settings.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [systematic-review](systematic-review.md)
-- [meta-analysis](meta-analysis.md)
+- **systematic-review**
+- **meta-analysis**
 
 ## See Also
 

@@ -24,9 +24,9 @@ The study explores the role of art centers in remote communities for Aboriginal 
 
 ## Key Concepts
 
-- [dementia prevalence](../topics/dementia prevalence.md)
-- [culturally relevant care](../topics/culturally relevant care.md)
-- [social participation](../topics/social participation.md)
+- [dementia prevalence](../topics/dementia-prevalence.md)
+- [culturally relevant care](../topics/culturally-relevant-care.md)
+- [social participation](../topics/social-participation.md)
 
 ## Tags
 
@@ -36,7 +36,7 @@ The study explores the role of art centers in remote communities for Aboriginal 
 - [art-therapy](../tags/art-therapy.md)
 - [indigenous-health](../tags/indigenous-health.md)
 - [cultural-preservation](../tags/cultural-preservation.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

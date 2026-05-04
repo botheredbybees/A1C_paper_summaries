@@ -25,7 +25,7 @@ This systematic review and meta-analysis explores the impact of music interventi
 ## Key Concepts
 
 - [health-related quality of life (HRQOL)](../topics/health-related quality of life (HRQOL).md)
-- [SF-36 and SF-12 surveys](../topics/SF-36 and SF-12 surveys.md)
+- [SF-36 and SF-12 surveys](../topics/sf-36-and-sf-12-surveys.md)
 - [mental component score (MCS)](../topics/mental component score (MCS).md)
 - [physical component score (PCS)](../topics/physical component score (PCS).md)
 
@@ -36,12 +36,12 @@ This systematic review and meta-analysis explores the impact of music interventi
 - [creative-arts-health](../tags/creative-arts-health.md)
 - [systematic-review-meta-analysis](../tags/systematic-review-meta-analysis.md)
 - [wellbeing](../tags/wellbeing.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [systematic review](systematic review.md)
-- [meta-analysis](meta-analysis.md)
+- **systematic review**
+- **meta-analysis**
 
 ## See Also
 

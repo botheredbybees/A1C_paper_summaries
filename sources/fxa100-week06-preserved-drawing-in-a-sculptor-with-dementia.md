@@ -33,11 +33,11 @@ This clinical report documents the case of Mary Hecht, a renowned sculptor diagn
 - [dementia-cognitive-abilities](../tags/dementia-cognitive-abilities.md)
 - [neural-networks-artistic-expression](../tags/neural-networks-artistic-expression.md)
 - [creative-preservation-disease](../tags/creative-preservation-disease.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

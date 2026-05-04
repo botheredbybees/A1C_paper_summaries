@@ -38,7 +38,7 @@ This article explores the use of arts-informed research methods to understand ch
 - [migration-effects](../tags/migration-effects.md)
 - [cultural-expression](../tags/cultural-expression.md)
 - [community-resilience](../tags/community-resilience.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

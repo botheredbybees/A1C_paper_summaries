@@ -26,14 +26,14 @@ The Australia Council report 'Creating Pathways: Insights on Support for Artists
 
 - [accessibility](../topics/accessibility.md)
 - [representation](../topics/representation.md)
-- [diversity in arts](../topics/diversity in arts.md)
+- [diversity in arts](../topics/diversity-in-arts.md)
 
 ## Tags
 
 - [arts-and-disability](../tags/arts-and-disability.md)
 - [inclusion-in-arts](../tags/inclusion-in-arts.md)
 - [cultural-diversity](../tags/cultural-diversity.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

@@ -35,7 +35,7 @@ The document 'Rights of People with Disability' by the Attorney-General's Depart
 - [legal-frameworks](../tags/legal-frameworks.md)
 - [international-treaties](../tags/international-treaties.md)
 - [accessibility-standards](../tags/accessibility-standards.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

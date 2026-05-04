@@ -35,11 +35,11 @@ The reflection discusses the therapeutic and artistic process of creating a phot
 - [mental-health-support](../tags/mental-health-support.md)
 - [personal-reflection](../tags/personal-reflection.md)
 - [creative-expression](../tags/creative-expression.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

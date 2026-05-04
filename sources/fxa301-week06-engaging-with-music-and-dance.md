@@ -28,7 +28,7 @@ This lecture underscores the broader impact of music and dance on health and soc
 
 ## Key Concepts
 
-- [El Sistema](../topics/El Sistema.md)
+- [El Sistema](../topics/el-sistema.md)
 - [resilience-building](../topics/resilience-building.md)
 - [cognitive-function-improvement](../topics/cognitive-function-improvement.md)
 
@@ -39,11 +39,11 @@ This lecture underscores the broader impact of music and dance on health and soc
 - [community-engagement](../tags/community-engagement.md)
 - [social-wellbeing](../tags/social-wellbeing.md)
 - [elder-care](../tags/elder-care.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

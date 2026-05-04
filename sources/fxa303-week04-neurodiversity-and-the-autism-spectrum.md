@@ -37,11 +37,11 @@ The text discusses neurodiversity in childhood, particularly focusing on autism 
 - [attention-deficit-hyperactivity-disorder](../tags/attention-deficit-hyperactivity-disorder.md)
 - [early-intervention](../tags/early-intervention.md)
 - [behavioral-therapies](../tags/behavioral-therapies.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

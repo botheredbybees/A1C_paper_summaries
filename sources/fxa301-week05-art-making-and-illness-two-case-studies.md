@@ -37,11 +37,11 @@ This document presents two case studies examining the impact of art-making on in
 - [case-study-research](../tags/case-study-research.md)
 - [emotional-wellbeing](../tags/emotional-wellbeing.md)
 - [patient-support](../tags/patient-support.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

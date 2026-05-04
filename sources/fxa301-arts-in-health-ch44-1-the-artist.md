@@ -7,7 +7,7 @@ apa7: "Chapter from Book, OUP Academic, 2026"
 doi: null
 appearances:
   - unit: FXA301
-tags: ["healthcare settings", "artist contracts", "project management", "fxa301"]
+tags: ["healthcare-settings", "artist-contracts", "project-management", "fxa301"]
 key_concepts: ["contractual agreements", "induction processes", "funding strategies"]
 methods: []
 slug: fxa301-arts-in-health-ch44-1-the-artist
@@ -24,16 +24,16 @@ This chapter discusses the importance of proper contracting when artists or orga
 
 ## Key Concepts
 
-- [contractual agreements](../topics/contractual agreements.md)
-- [induction processes](../topics/induction processes.md)
-- [funding strategies](../topics/funding strategies.md)
+- [contractual agreements](../topics/contractual-agreements.md)
+- [induction processes](../topics/induction-processes.md)
+- [funding strategies](../topics/funding-strategies.md)
 
 ## Tags
 
-- [healthcare settings](../tags/healthcare settings.md)
-- [artist contracts](../tags/artist contracts.md)
-- [project management](../tags/project management.md)
-- [fxa301](../tags/fxa301.md)
+- [healthcare settings](../tags/healthcare-settings.md)
+- [artist contracts](../tags/artist-contracts.md)
+- [project management](../tags/project-management.md)
+- fxa301
 
 ## Methods
 

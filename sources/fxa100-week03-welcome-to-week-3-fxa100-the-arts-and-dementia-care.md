@@ -24,9 +24,9 @@ This week's introduction in the Arts and Dementia Care course focuses on the the
 
 ## Key Concepts
 
-- [Music & Memory Project](../topics/Music & Memory Project.md)
-- [rhythmic entrainment](../topics/rhythmic entrainment.md)
-- [cognitive stimulation](../topics/cognitive stimulation.md)
+- [Music & Memory Project](../topics/music-memory-project.md)
+- [rhythmic entrainment](../topics/rhythmic-entrainment.md)
+- [cognitive stimulation](../topics/cognitive-stimulation.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ This week's introduction in the Arts and Dementia Care course focuses on the the
 - [cognitive-stimulation](../tags/cognitive-stimulation.md)
 - [emotional-wellbeing](../tags/emotional-wellbeing.md)
 - [quality-of-life](../tags/quality-of-life.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

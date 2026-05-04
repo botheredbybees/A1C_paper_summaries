@@ -25,8 +25,8 @@ This systematic review and meta-analysis examines the impact of rhythmic auditor
 ## Key Concepts
 
 - [rhythmic auditory cueing (RAC)](../topics/rhythmic auditory cueing (RAC).md)
-- [β oscillations](../topics/β oscillations.md)
-- [motor imagery](../topics/motor imagery.md)
+- [β oscillations](../topics/oscillations.md)
+- [motor imagery](../topics/motor-imagery.md)
 
 ## Tags
 
@@ -35,12 +35,12 @@ This systematic review and meta-analysis examines the impact of rhythmic auditor
 - [gait-performance](../tags/gait-performance.md)
 - [rehabilitation-therapy](../tags/rehabilitation-therapy.md)
 - [motor-control](../tags/motor-control.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [systematic review](systematic review.md)
-- [meta-analysis](meta-analysis.md)
+- **systematic review**
+- **meta-analysis**
 
 ## See Also
 

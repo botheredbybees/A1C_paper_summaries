@@ -24,8 +24,8 @@ The document discusses the Arts On Prescription project and its collaboration wi
 
 ## Key Concepts
 
-- [Arts On Prescription](../topics/Arts On Prescription.md)
-- [Lockdown History Project](../topics/Lockdown History Project.md)
+- [Arts On Prescription](../topics/arts-on-prescription.md)
+- [Lockdown History Project](../topics/lockdown-history-project.md)
 
 ## Tags
 
@@ -34,11 +34,11 @@ The document discusses the Arts On Prescription project and its collaboration wi
 - [community-engagement](../tags/community-engagement.md)
 - [creative-expression](../tags/creative-expression.md)
 - [lockdown-history](../tags/lockdown-history.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

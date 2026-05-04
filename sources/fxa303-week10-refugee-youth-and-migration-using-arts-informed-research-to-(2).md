@@ -24,9 +24,9 @@ The article explores the changes in roles and responsibilities of refugee youth 
 
 ## Key Concepts
 
-- [roles and responsibilities](../topics/roles and responsibilities.md)
-- [arts-informed research](../topics/arts-informed research.md)
-- [vulnerable populations](../topics/vulnerable populations.md)
+- [roles and responsibilities](../topics/roles-and-responsibilities.md)
+- [arts-informed research](../topics/arts-informed-research.md)
+- [vulnerable populations](../topics/vulnerable-populations.md)
 
 ## Tags
 
@@ -34,7 +34,7 @@ The article explores the changes in roles and responsibilities of refugee youth 
 - [migration-experience](../tags/migration-experience.md)
 - [arts-informed-research](../tags/arts-informed-research.md)
 - [role-changes](../tags/role-changes.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

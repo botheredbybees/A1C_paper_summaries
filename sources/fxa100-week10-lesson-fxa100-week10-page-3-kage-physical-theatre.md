@@ -35,7 +35,7 @@ KAGE Physical Theatre Company's production 'Sundowner' explores the impact of de
 - [awareness-raising-through-the-arts](../tags/awareness-raising-through-the-arts.md)
 - [kage-physical-theatre](../tags/kage-physical-theatre.md)
 - [dementia-care-experiences](../tags/dementia-care-experiences.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

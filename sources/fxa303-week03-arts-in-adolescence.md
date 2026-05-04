@@ -26,11 +26,11 @@ The document 'Arts in Adolescence' highlights the significance of arts engagemen
 
 ## Key Concepts
 
-- [Arts on Prescription](../topics/Arts on Prescription.md)
-- [identity formation](../topics/identity formation.md)
-- [emotional resilience](../topics/emotional resilience.md)
-- [cognitive benefits](../topics/cognitive benefits.md)
-- [socio-emotional skills](../topics/socio-emotional skills.md)
+- [Arts on Prescription](../topics/arts-on-prescription.md)
+- [identity formation](../topics/identity-formation.md)
+- [emotional resilience](../topics/emotional-resilience.md)
+- [cognitive benefits](../topics/cognitive-benefits.md)
+- [socio-emotional skills](../topics/socio-emotional-skills.md)
 
 ## Tags
 
@@ -40,12 +40,12 @@ The document 'Arts in Adolescence' highlights the significance of arts engagemen
 - [youth-discrimination](../tags/youth-discrimination.md)
 - [community-engagement](../tags/community-engagement.md)
 - [therapeutic-arts](../tags/therapeutic-arts.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [survey research](survey research.md)
-- [qualitative analysis](qualitative analysis.md)
+- **survey research**
+- **qualitative analysis**
 
 ## See Also
 

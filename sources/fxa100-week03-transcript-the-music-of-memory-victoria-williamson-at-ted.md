@@ -24,9 +24,9 @@ Victoria Williamson discusses the power and intricacies of musical memory in her
 
 ## Key Concepts
 
-- [involuntary musical imagery](../topics/involuntary musical imagery.md)
-- [deep memory structures](../topics/deep memory structures.md)
-- [musical amnesia survival](../topics/musical amnesia survival.md)
+- [involuntary musical imagery](../topics/involuntary-musical-imagery.md)
+- [deep memory structures](../topics/deep-memory-structures.md)
+- [musical amnesia survival](../topics/musical-amnesia-survival.md)
 
 ## Tags
 
@@ -34,7 +34,7 @@ Victoria Williamson discusses the power and intricacies of musical memory in her
 - [memory-research](../tags/memory-research.md)
 - [neuroscience](../tags/neuroscience.md)
 - [therapeutic-applications](../tags/therapeutic-applications.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

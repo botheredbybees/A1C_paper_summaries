@@ -24,15 +24,15 @@ In LAW122's week 9 activities, students focus on refining their writing and stor
 
 ## Key Concepts
 
-- [editing techniques](../topics/editing techniques.md)
-- [feedback-seeking process](../topics/feedback-seeking process.md)
+- [editing techniques](../topics/editing-techniques.md)
+- [feedback-seeking process](../topics/feedback-seeking-process.md)
 
 ## Tags
 
 - [legal-systems](../tags/legal-systems.md)
 - [writing-improvement](../tags/writing-improvement.md)
 - [storytelling](../tags/storytelling.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 

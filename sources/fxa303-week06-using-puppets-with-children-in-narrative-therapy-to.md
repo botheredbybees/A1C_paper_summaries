@@ -24,9 +24,9 @@ The article explores the use of puppets as a therapeutic tool within narrative t
 
 ## Key Concepts
 
-- [narrative therapy](../topics/narrative therapy.md)
-- [problem externalization](../topics/problem externalization.md)
-- [objectification techniques](../topics/objectification techniques.md)
+- [narrative therapy](../topics/narrative-therapy.md)
+- [problem externalization](../topics/problem-externalization.md)
+- [objectification techniques](../topics/objectification-techniques.md)
 
 ## Tags
 
@@ -34,11 +34,11 @@ The article explores the use of puppets as a therapeutic tool within narrative t
 - [externalization-strategies](../tags/externalization-strategies.md)
 - [therapeutic-tools-for-children](../tags/therapeutic-tools-for-children.md)
 - [puppet-therapy](../tags/puppet-therapy.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

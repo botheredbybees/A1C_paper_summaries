@@ -24,7 +24,7 @@ The transcript captures audience reactions to a performance called 'Inside Out o
 
 ## Key Concepts
 
-- [sensitivity in care](../topics/sensitivity in care.md)
+- [sensitivity in care](../topics/sensitivity-in-care.md)
 - [life-story-work](../topics/life-story-work.md)
 
 ## Tags
@@ -32,7 +32,7 @@ The transcript captures audience reactions to a performance called 'Inside Out o
 - [dementia-care](../tags/dementia-care.md)
 - [audience-feedback](../tags/audience-feedback.md)
 - [performance-arts](../tags/performance-arts.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

@@ -24,7 +24,7 @@ The transcript covers two forums held during the Sundowner tour in April and May
 
 ## Key Concepts
 
-- [Sundown Syndrome](../topics/Sundown Syndrome.md)
+- [Sundown Syndrome](../topics/sundown-syndrome.md)
 - [support-systems](../topics/support-systems.md)
 
 ## Tags
@@ -32,7 +32,7 @@ The transcript covers two forums held during the Sundowner tour in April and May
 - [dementia-care](../tags/dementia-care.md)
 - [sundowner-performance](../tags/sundowner-performance.md)
 - [community-forums](../tags/community-forums.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

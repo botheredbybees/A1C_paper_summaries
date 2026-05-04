@@ -35,7 +35,7 @@ The document is structured with a mix of instructions, command-line examples, an
 - [software-development](../tags/software-development.md)
 - [version-control](../tags/version-control.md)
 - [it-operations](../tags/it-operations.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

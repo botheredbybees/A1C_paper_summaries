@@ -33,11 +33,11 @@ The article examines the series 'Psychiatry in the Old Testament' and discusses 
 - [psychiatry-and-religion](../tags/psychiatry-and-religion.md)
 - [sacred-text-analysis](../tags/sacred-text-analysis.md)
 - [mental-health-theology](../tags/mental-health-theology.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [literature-review](literature-review.md)
+- **literature-review**
 
 ## See Also
 

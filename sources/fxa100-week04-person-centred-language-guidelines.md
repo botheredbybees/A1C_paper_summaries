@@ -33,7 +33,7 @@ The document 'Person-centred Language Guidelines' by the Alzheimer Society outli
 - [dementia-care](../tags/dementia-care.md)
 - [person-centered-approach](../tags/person-centered-approach.md)
 - [language-guidelines](../tags/language-guidelines.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

@@ -24,8 +24,8 @@ This article explores the psychological insights into art appreciation, challeng
 
 ## Key Concepts
 
-- [bottom-up processing](../topics/bottom-up processing.md)
-- [top-down influences](../topics/top-down influences.md)
+- [bottom-up processing](../topics/bottom-up-processing.md)
+- [top-down influences](../topics/top-down-influences.md)
 
 ## Tags
 
@@ -34,11 +34,11 @@ This article explores the psychological insights into art appreciation, challeng
 - [psychological-insights](../tags/psychological-insights.md)
 - [visual-art-psychology](../tags/visual-art-psychology.md)
 - [scientific-methods-in-art](../tags/scientific-methods-in-art.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [systematic review](systematic review.md)
+- **systematic review**
 
 ## See Also
 

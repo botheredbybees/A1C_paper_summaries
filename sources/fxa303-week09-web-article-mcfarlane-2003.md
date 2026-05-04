@@ -24,15 +24,15 @@ The webpage highlights the University of Adelaide's commitment to providing cont
 
 ## Key Concepts
 
-- [future-focused education](../topics/future-focused education.md)
-- [global research impact](../topics/global research impact.md)
+- [future-focused education](../topics/future-focused-education.md)
+- [global research impact](../topics/global-research-impact.md)
 
 ## Tags
 
 - [university-of-adelaide](../tags/university-of-adelaide.md)
 - [student-life](../tags/student-life.md)
 - [research-excellence](../tags/research-excellence.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

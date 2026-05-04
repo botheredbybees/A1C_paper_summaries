@@ -24,9 +24,9 @@ The document presents a series of poems that explore the internal struggles and 
 
 ## Key Concepts
 
-- [body dysmorphia](../topics/body dysmorphia.md)
-- [resilience in trauma](../topics/resilience in trauma.md)
-- [grief processing](../topics/grief processing.md)
+- [body dysmorphia](../topics/body-dysmorphia.md)
+- [resilience in trauma](../topics/resilience-in-trauma.md)
+- [grief processing](../topics/grief-processing.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ The document presents a series of poems that explore the internal struggles and 
 - [trauma-literature](../tags/trauma-literature.md)
 - [emotional-landscape](../tags/emotional-landscape.md)
 - [psychological-struggle](../tags/psychological-struggle.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [literary analysis](literary analysis.md)
+- **literary analysis**
 
 ## See Also
 

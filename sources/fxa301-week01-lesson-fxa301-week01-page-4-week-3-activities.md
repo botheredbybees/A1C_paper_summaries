@@ -24,8 +24,8 @@ This lesson for FXA301 focuses on community arts projects and their implications
 
 ## Key Concepts
 
-- [census date implications](../topics/census date implications.md)
-- [community engagement](../topics/community engagement.md)
+- [census date implications](../topics/census-date-implications.md)
+- [community engagement](../topics/community-engagement.md)
 
 ## Tags
 
@@ -33,7 +33,7 @@ This lesson for FXA301 focuses on community arts projects and their implications
 - [health-outcomes](../tags/health-outcomes.md)
 - [funding-guidelines](../tags/funding-guidelines.md)
 - [quizzes](../tags/quizzes.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

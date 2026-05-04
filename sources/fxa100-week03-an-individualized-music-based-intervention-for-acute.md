@@ -34,11 +34,11 @@ This study evaluated the efficacy of an individualized music-based intervention 
 - [cognitive-impaired-adults](../tags/cognitive-impaired-adults.md)
 - [hospital-interventions](../tags/hospital-interventions.md)
 - [neuropsychiatry](../tags/neuropsychiatry.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [prospective-controlled-trial](prospective-controlled-trial.md)
+- **prospective-controlled-trial**
 
 ## See Also
 

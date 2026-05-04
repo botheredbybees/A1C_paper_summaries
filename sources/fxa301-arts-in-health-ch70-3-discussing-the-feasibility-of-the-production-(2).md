@@ -24,15 +24,15 @@ This chapter discusses the structure and purpose of research protocols in compar
 
 ## Key Concepts
 
-- [research rationale](../topics/research rationale.md)
-- [ethical approval process](../topics/ethical approval process.md)
+- [research rationale](../topics/research-rationale.md)
+- [ethical approval process](../topics/ethical-approval-process.md)
 
 ## Tags
 
 - [research-protocols](../tags/research-protocols.md)
 - [ethics-committee](../tags/ethics-committee.md)
 - [study-design](../tags/study-design.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

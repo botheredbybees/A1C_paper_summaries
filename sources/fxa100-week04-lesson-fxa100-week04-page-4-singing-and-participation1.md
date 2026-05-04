@@ -24,16 +24,16 @@ This lesson explores the social benefits of singing for individuals with dementi
 
 ## Key Concepts
 
-- [emotional expression](../topics/emotional expression.md)
-- [cognitive stimulation](../topics/cognitive stimulation.md)
-- [stress reduction](../topics/stress reduction.md)
+- [emotional expression](../topics/emotional-expression.md)
+- [cognitive stimulation](../topics/cognitive-stimulation.md)
+- [stress reduction](../topics/stress-reduction.md)
 
 ## Tags
 
 - [social-benefits-of-singing](../tags/social-benefits-of-singing.md)
 - [dementia-care-interventions](../tags/dementia-care-interventions.md)
 - [music-therapy-for-dementia](../tags/music-therapy-for-dementia.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

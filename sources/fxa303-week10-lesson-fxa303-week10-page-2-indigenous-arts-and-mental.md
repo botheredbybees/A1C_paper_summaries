@@ -24,9 +24,9 @@ The lesson discusses the role of creative arts in enhancing mental wellbeing amo
 
 ## Key Concepts
 
-- [The Dreaming](../topics/The Dreaming.md)
+- [The Dreaming](../topics/the-dreaming.md)
 - [co-design](../topics/co-design.md)
-- [historical trauma](../topics/historical trauma.md)
+- [historical trauma](../topics/historical-trauma.md)
 
 ## Tags
 
@@ -34,7 +34,7 @@ The lesson discusses the role of creative arts in enhancing mental wellbeing amo
 - [mental-wellbeing](../tags/mental-wellbeing.md)
 - [colonial-trauma](../tags/colonial-trauma.md)
 - [cultural-recovery](../tags/cultural-recovery.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

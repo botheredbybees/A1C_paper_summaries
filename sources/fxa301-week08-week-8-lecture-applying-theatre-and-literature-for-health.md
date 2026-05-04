@@ -38,12 +38,12 @@ The lecture concludes with a brainstorming session for devising an eight-week co
 - [community-health](../tags/community-health.md)
 - [literature-and-wellbeing](../tags/literature-and-wellbeing.md)
 - [theatre-for-health](../tags/theatre-for-health.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case-study](case-study.md)
-- [brainstorming-session](brainstorming-session.md)
+- **case-study**
+- **brainstorming-session**
 
 ## See Also
 

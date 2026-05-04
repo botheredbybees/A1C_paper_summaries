@@ -32,11 +32,11 @@ The document 'Heritage in Health' is a comprehensive guide aimed at museum profe
 - [museum-collections-in-healthcare](../tags/museum-collections-in-healthcare.md)
 - [patient-wellbeing-through-art](../tags/patient-wellbeing-through-art.md)
 - [therapeutic-arts-programmes](../tags/therapeutic-arts-programmes.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

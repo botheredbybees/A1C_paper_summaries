@@ -35,11 +35,11 @@ This paper examines the intersection of public space, art, and community memory 
 - [cultural-heritage](../tags/cultural-heritage.md)
 - [urban-citizenship](../tags/urban-citizenship.md)
 - [temporary-murals](../tags/temporary-murals.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

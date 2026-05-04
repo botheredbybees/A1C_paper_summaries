@@ -35,11 +35,11 @@ The article by Bernard and Rickett (2017) explores the cultural value of older p
 - [well-being](../tags/well-being.md)
 - [social-interaction](../tags/social-interaction.md)
 - [age-stereotypes](../tags/age-stereotypes.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [systematic-review](systematic-review.md)
+- **systematic-review**
 
 ## See Also
 

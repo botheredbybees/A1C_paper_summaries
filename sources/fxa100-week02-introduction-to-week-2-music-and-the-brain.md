@@ -34,7 +34,7 @@ This document introduces Week 2 of a course on arts and dementia care, focusing 
 - [dementia-care](../tags/dementia-care.md)
 - [musical-memories](../tags/musical-memories.md)
 - [reminiscence-bump](../tags/reminiscence-bump.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

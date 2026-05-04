@@ -34,12 +34,12 @@ The study by Solso investigates the brain activity of a skilled portrait artist,
 - [expertise-neurology](../tags/expertise-neurology.md)
 - [f-mri-study](../tags/f-mri-study.md)
 - [artistic-process](../tags/artistic-process.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [fMRI study](fMRI study.md)
-- [eye-tracking](eye-tracking.md)
+- **fMRI study**
+- **eye-tracking**
 
 ## See Also
 

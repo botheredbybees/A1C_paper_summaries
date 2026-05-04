@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "07"
-tags: ["alzheimer's-disease", "museum-education", "caregiver-support", "fxa100"]
+tags: ["alzheimers-disease", "museum-education", "caregiver-support", "fxa100"]
 key_concepts: ["cognitive-stimulation", "emotional-wellbeing", "social-engagement"]
 methods: []
 slug: fxa100-week07-transcript-artz-museum-program-for-alzheimers-url-only
@@ -30,10 +30,10 @@ The ARTZ Museum Program focuses on offering specialized visits to museums design
 
 ## Tags
 
-- [alzheimer's-disease](../tags/alzheimer's-disease.md)
+- [alzheimer's-disease](../tags/alzheimers-disease.md)
 - [museum-education](../tags/museum-education.md)
 - [caregiver-support](../tags/caregiver-support.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

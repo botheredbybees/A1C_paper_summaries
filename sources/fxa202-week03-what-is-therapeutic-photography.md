@@ -24,9 +24,9 @@ Chapter 1 of 'Therapeutic Photography: Enhancing Self-Esteem, Self-Efficacy and 
 
 ## Key Concepts
 
-- [therapeutic photography](../topics/therapeutic photography.md)
-- [self-esteem enhancement](../topics/self-esteem enhancement.md)
-- [resilience building](../topics/resilience building.md)
+- [therapeutic photography](../topics/therapeutic-photography.md)
+- [self-esteem enhancement](../topics/self-esteem-enhancement.md)
+- [resilience building](../topics/resilience-building.md)
 
 ## Tags
 
@@ -36,11 +36,11 @@ Chapter 1 of 'Therapeutic Photography: Enhancing Self-Esteem, Self-Efficacy and 
 - [cultural-understanding-through-art](../tags/cultural-understanding-through-art.md)
 - [recovery-from-trauma](../tags/recovery-from-trauma.md)
 - [communication-skills](../tags/communication-skills.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [literature review](literature review.md)
+- **literature review**
 
 ## See Also
 

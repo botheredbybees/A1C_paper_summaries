@@ -36,11 +36,11 @@ This article explores the relationship between regulation and musical play, prop
 - [self-regulation](../tags/self-regulation.md)
 - [social-sharing-of-regulation](../tags/social-sharing-of-regulation.md)
 - [educational-psychology](../tags/educational-psychology.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [observational-study](observational-study.md)
+- **observational-study**
 
 ## See Also
 

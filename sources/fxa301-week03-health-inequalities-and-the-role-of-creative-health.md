@@ -24,10 +24,10 @@ The document discusses the pervasive issue of health inequalities, emphasizing t
 
 ## Key Concepts
 
-- [social determinants of health](../topics/social determinants of health.md)
-- [creative health interventions](../topics/creative health interventions.md)
-- [equitable access to resources](../topics/equitable access to resources.md)
-- [holistic approach](../topics/holistic approach.md)
+- [social determinants of health](../topics/social-determinants-of-health.md)
+- [creative health interventions](../topics/creative-health-interventions.md)
+- [equitable access to resources](../topics/equitable-access-to-resources.md)
+- [holistic approach](../topics/holistic-approach.md)
 
 ## Tags
 
@@ -37,12 +37,12 @@ The document discusses the pervasive issue of health inequalities, emphasizing t
 - [community-engagement](../tags/community-engagement.md)
 - [policy-initiatives](../tags/policy-initiatives.md)
 - [cultural-access](../tags/cultural-access.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case study](case study.md)
-- [systematic review](systematic review.md)
+- **case study**
+- **systematic review**
 
 ## See Also
 

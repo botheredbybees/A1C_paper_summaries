@@ -32,11 +32,11 @@ The document provides a detailed transcript of an interaction within the Milpara
 - [community-art](../tags/community-art.md)
 - [indigenous-education](../tags/indigenous-education.md)
 - [health-initiatives](../tags/health-initiatives.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [workshop-transcript](workshop-transcript.md)
+- **workshop-transcript**
 
 ## See Also
 

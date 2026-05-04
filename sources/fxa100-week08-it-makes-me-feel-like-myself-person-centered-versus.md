@@ -24,9 +24,9 @@ The study, conducted over a period of 15 months between February 2010 and April 
 
 ## Key Concepts
 
-- [person-centered care](../topics/person-centered care.md)
-- [well-being indicators](../topics/well-being indicators.md)
-- [stigma reduction](../topics/stigma reduction.md)
+- [person-centered care](../topics/person-centered-care.md)
+- [well-being indicators](../topics/well-being-indicators.md)
+- [stigma reduction](../topics/stigma-reduction.md)
 
 ## Tags
 
@@ -35,12 +35,12 @@ The study, conducted over a period of 15 months between February 2010 and April 
 - [visual-arts-therapy](../tags/visual-arts-therapy.md)
 - [quality-of-life](../tags/quality-of-life.md)
 - [long-term-care](../tags/long-term-care.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [observational study](observational study.md)
-- [case series](case series.md)
+- **observational study**
+- **case series**
 
 ## See Also
 

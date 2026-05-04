@@ -24,20 +24,20 @@ Sunil Batra's paper explores Erik H. Erikson’s theoretical framework for under
 
 ## Key Concepts
 
-- [Erik Erikson's theory](../topics/Erik Erikson's theory.md)
-- [psychosocial development](../topics/psychosocial development.md)
-- [holistic education](../topics/holistic education.md)
+- [Erik Erikson's theory](../topics/erik-eriksons-theory.md)
+- [psychosocial development](../topics/psychosocial-development.md)
+- [holistic education](../topics/holistic-education.md)
 
 ## Tags
 
 - [child-development-theory](../tags/child-development-theory.md)
 - [erik-erikson-psychosocial-stages](../tags/erik-erikson-psychosocial-stages.md)
 - [education-methods](../tags/education-methods.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [literature review](literature review.md)
+- **literature review**
 
 ## See Also
 

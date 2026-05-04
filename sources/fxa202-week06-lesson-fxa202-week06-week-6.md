@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA202
     week: "06"
-tags: ["visual storytelling", "photo essay", "narrative tension", "stream-of-consciousness", "fxa202"]
+tags: ["visual-storytelling", "photo-essay", "narrative-tension", "stream-of-consciousness", "fxa202"]
 key_concepts: ["implied narrative", "visual metaphor"]
 methods: []
 slug: fxa202-week06-lesson-fxa202-week06-week-6
@@ -24,16 +24,16 @@ This week's lesson in LAW122 focuses on the craft of visual storytelling through
 
 ## Key Concepts
 
-- [implied narrative](../topics/implied narrative.md)
-- [visual metaphor](../topics/visual metaphor.md)
+- [implied narrative](../topics/implied-narrative.md)
+- [visual metaphor](../topics/visual-metaphor.md)
 
 ## Tags
 
-- [visual storytelling](../tags/visual storytelling.md)
-- [photo essay](../tags/photo essay.md)
-- [narrative tension](../tags/narrative tension.md)
+- [visual storytelling](../tags/visual-storytelling.md)
+- [photo essay](../tags/photo-essay.md)
+- [narrative tension](../tags/narrative-tension.md)
 - [stream-of-consciousness](../tags/stream-of-consciousness.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 

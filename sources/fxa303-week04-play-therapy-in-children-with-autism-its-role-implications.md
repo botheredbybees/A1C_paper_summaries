@@ -24,9 +24,9 @@ This article explores the role and implications of play therapy in children with
 
 ## Key Concepts
 
-- [adaptive behavior](../topics/adaptive behavior.md)
-- [sensory integration therapy](../topics/sensory integration therapy.md)
-- [expressive communication](../topics/expressive communication.md)
+- [adaptive behavior](../topics/adaptive-behavior.md)
+- [sensory integration therapy](../topics/sensory-integration-therapy.md)
+- [expressive communication](../topics/expressive-communication.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ This article explores the role and implications of play therapy in children with
 - [child-development](../tags/child-development.md)
 - [social-interaction-skills](../tags/social-interaction-skills.md)
 - [therapeutic-interventions](../tags/therapeutic-interventions.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [systematic review](systematic review.md)
+- **systematic review**
 
 ## See Also
 

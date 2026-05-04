@@ -24,9 +24,9 @@ Louise Raftery's photo essay 'Noticing' explores the therapeutic value of paying
 
 ## Key Concepts
 
-- [therapeutic value](../topics/therapeutic value.md)
-- [detailed observation](../topics/detailed observation.md)
-- [sensory engagement](../topics/sensory engagement.md)
+- [therapeutic value](../topics/therapeutic-value.md)
+- [detailed observation](../topics/detailed-observation.md)
+- [sensory engagement](../topics/sensory-engagement.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ Louise Raftery's photo essay 'Noticing' explores the therapeutic value of paying
 - [sensory-experience](../tags/sensory-experience.md)
 - [everyday-life](../tags/everyday-life.md)
 - [mental-health](../tags/mental-health.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [photo essay](photo essay.md)
+- **photo essay**
 
 ## See Also
 

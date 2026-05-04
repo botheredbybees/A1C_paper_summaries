@@ -24,7 +24,7 @@ This article explores the impact of post-disaster contexts on children's outdoor
 
 ## Key Concepts
 
-- [SPIT model](../topics/SPIT model.md)
+- [SPIT model](../topics/spit-model.md)
 - [resilience-promotion](../topics/resilience-promotion.md)
 
 ## Tags
@@ -33,11 +33,11 @@ This article explores the impact of post-disaster contexts on children's outdoor
 - [childrens-outdoor-play](../tags/childrens-outdoor-play.md)
 - [tohoku-japan](../tags/tohoku-japan.md)
 - [spit-model](../tags/spit-model.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

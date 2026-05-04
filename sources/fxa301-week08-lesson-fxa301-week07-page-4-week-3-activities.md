@@ -32,7 +32,7 @@ This lesson focuses on an exercise involving three poems by William Butler Yeats
 - [arts-in-community](../tags/arts-in-community.md)
 - [poetry-analysis](../tags/poetry-analysis.md)
 - [emotional-reactions](../tags/emotional-reactions.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

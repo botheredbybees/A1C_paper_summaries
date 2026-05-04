@@ -32,11 +32,11 @@ The article 'Accessing the Inaccessible: Redefining Play as a Spectrum' by Jenni
 - [play-spectrum](../tags/play-spectrum.md)
 - [educational-psychology](../tags/educational-psychology.md)
 - [child-development](../tags/child-development.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [conceptual-framework](conceptual-framework.md)
+- **conceptual-framework**
 
 ## See Also
 

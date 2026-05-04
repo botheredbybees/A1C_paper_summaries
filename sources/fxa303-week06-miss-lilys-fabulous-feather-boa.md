@@ -24,15 +24,15 @@ Miss Lily's Fabulous Feather Boa is a delightful puppet theatre production adapt
 
 ## Key Concepts
 
-- [non-judgment based on appearance](../topics/non-judgment based on appearance.md)
-- [confidence building](../topics/confidence building.md)
+- [non-judgment based on appearance](../topics/non-judgment-based-on-appearance.md)
+- [confidence building](../topics/confidence-building.md)
 
 ## Tags
 
 - [children-literature](../tags/children-literature.md)
 - [puppet-theatre](../tags/puppet-theatre.md)
 - [environmental-conservation](../tags/environmental-conservation.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

@@ -35,11 +35,11 @@ The article discusses the relationship between children's free play opportunitie
 - [free-play](../tags/free-play.md)
 - [therapeutic-intervention](../tags/therapeutic-intervention.md)
 - [brain-development](../tags/brain-development.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [systematic-review](systematic-review.md)
+- **systematic-review**
 
 ## See Also
 

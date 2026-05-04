@@ -25,7 +25,7 @@ This study investigates the impact of child-centered play therapy (CCPT) on auti
 ## Key Concepts
 
 - [child-centered play therapy (CCPT)](../topics/child-centered play therapy (CCPT).md)
-- [brain EEG activity](../topics/brain EEG activity.md)
+- [brain EEG activity](../topics/brain-eeg-activity.md)
 - [randomized controlled trial (RCT)](../topics/randomized controlled trial (RCT).md)
 
 ## Tags
@@ -35,13 +35,13 @@ This study investigates the impact of child-centered play therapy (CCPT) on auti
 - [neurofeedback](../tags/neurofeedback.md)
 - [electroencephalography-eeg](../tags/electroencephalography-eeg.md)
 - [behavioral-outcomes](../tags/behavioral-outcomes.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [randomized controlled trial](randomized controlled trial.md)
+- **randomized controlled trial**
 - [electroencephalography (EEG)](electroencephalography (EEG).md)
-- [behavioral assessments](behavioral assessments.md)
+- **behavioral assessments**
 
 ## See Also
 

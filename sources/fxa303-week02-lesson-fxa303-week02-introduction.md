@@ -33,7 +33,7 @@ This lesson explores the critical period of child development from the last trim
 - [child-development](../tags/child-development.md)
 - [neuroscience](../tags/neuroscience.md)
 - [education-theories](../tags/education-theories.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

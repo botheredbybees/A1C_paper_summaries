@@ -24,9 +24,9 @@ This scoping review examines the efficacy and applications of puppetry-based int
 
 ## Key Concepts
 
-- [emotional regulation](../topics/emotional regulation.md)
-- [anxiety management](../topics/anxiety management.md)
-- [social interaction](../topics/social interaction.md)
+- [emotional regulation](../topics/emotional-regulation.md)
+- [anxiety management](../topics/anxiety-management.md)
+- [social interaction](../topics/social-interaction.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ This scoping review examines the efficacy and applications of puppetry-based int
 - [therapeutic-arts](../tags/therapeutic-arts.md)
 - [emotional-regulation](../tags/emotional-regulation.md)
 - [pediatric-populations](../tags/pediatric-populations.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [scoping review](scoping review.md)
+- **scoping review**
 
 ## See Also
 

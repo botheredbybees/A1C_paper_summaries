@@ -39,11 +39,11 @@ Overall, the document underscores the significant role that contemporary art can
 - [dementia-care](../tags/dementia-care.md)
 - [therapeutic-art](../tags/therapeutic-art.md)
 - [inclusive-education](../tags/inclusive-education.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [program-design](program-design.md)
+- **program-design**
 
 ## See Also
 

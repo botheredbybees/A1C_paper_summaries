@@ -24,9 +24,9 @@ The Happy Museum Learning Evaluation Report, published in September 2014, detail
 
 ## Key Concepts
 
-- [cultural sustainability](../topics/cultural sustainability.md)
-- [wellbeing initiatives](../topics/wellbeing initiatives.md)
-- [institutional transformation](../topics/institutional transformation.md)
+- [cultural sustainability](../topics/cultural-sustainability.md)
+- [wellbeing initiatives](../topics/wellbeing-initiatives.md)
+- [institutional transformation](../topics/institutional-transformation.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ The Happy Museum Learning Evaluation Report, published in September 2014, detail
 - [well-being](../tags/well-being.md)
 - [community-engagement](../tags/community-engagement.md)
 - [environmental-awareness](../tags/environmental-awareness.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [evaluation report](evaluation report.md)
+- **evaluation report**
 
 ## See Also
 

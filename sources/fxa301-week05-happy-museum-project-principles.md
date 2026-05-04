@@ -24,19 +24,19 @@ The Happy Museum Project outlines principles aimed at transforming museums into 
 
 ## Key Concepts
 
-- [well-being promotion](../topics/well-being promotion.md)
-- [environmental sustainability](../topics/environmental sustainability.md)
+- [well-being promotion](../topics/well-being-promotion.md)
+- [environmental sustainability](../topics/environmental-sustainability.md)
 
 ## Tags
 
 - [museum-education](../tags/museum-education.md)
 - [community-engagement](../tags/community-engagement.md)
 - [wellbeing-initiatives](../tags/wellbeing-initiatives.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

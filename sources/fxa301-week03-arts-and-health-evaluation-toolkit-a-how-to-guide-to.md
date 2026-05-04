@@ -34,12 +34,12 @@ The Arts and Health Evaluation Toolkit (AHET) is a preliminary guide designed to
 - [community-programmes](../tags/community-programmes.md)
 - [health-outcomes](../tags/health-outcomes.md)
 - [methodological-rigor](../tags/methodological-rigor.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [systematic-review](systematic-review.md)
-- [case-study](case-study.md)
+- **systematic-review**
+- **case-study**
 
 ## See Also
 

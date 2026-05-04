@@ -28,9 +28,9 @@ The findings contribute to the ongoing debate about whether art-based interventi
 
 ## Key Concepts
 
-- [visual art training](../topics/visual art training.md)
-- [delayed recall](../topics/delayed recall.md)
-- [working memory](../topics/working memory.md)
+- [visual art training](../topics/visual-art-training.md)
+- [delayed recall](../topics/delayed-recall.md)
+- [working memory](../topics/working-memory.md)
 
 ## Tags
 
@@ -38,11 +38,11 @@ The findings contribute to the ongoing debate about whether art-based interventi
 - [art-therapy](../tags/art-therapy.md)
 - [cognitive-interventions](../tags/cognitive-interventions.md)
 - [randomized-trials](../tags/randomized-trials.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [randomized controlled trial](randomized controlled trial.md)
+- **randomized controlled trial**
 
 ## See Also
 

@@ -24,16 +24,16 @@ This transcript discusses the myth of left-brain/right-brain dominance and how i
 
 ## Key Concepts
 
-- [brain lateralization](../topics/brain lateralization.md)
-- [split-brain syndrome](../topics/split-brain syndrome.md)
-- [fMRI](../topics/fMRI.md)
+- [brain lateralization](../topics/brain-lateralization.md)
+- [split-brain syndrome](../topics/split-brain-syndrome.md)
+- [fMRI](../topics/fmri.md)
 
 ## Tags
 
 - [brain-lateralization](../tags/brain-lateralization.md)
 - [myth-busting](../tags/myth-busting.md)
 - [neuroscience](../tags/neuroscience.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

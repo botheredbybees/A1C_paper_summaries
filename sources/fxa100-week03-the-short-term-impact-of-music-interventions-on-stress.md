@@ -24,10 +24,10 @@ This study investigates the impact of music interventions on stress in care home
 
 ## Key Concepts
 
-- [salivary cortisol](../topics/salivary cortisol.md)
+- [salivary cortisol](../topics/salivary-cortisol.md)
 - [alpha-amylase](../topics/alpha-amylase.md)
-- [group music therapy](../topics/group music therapy.md)
-- [recreational choir singing](../topics/recreational choir singing.md)
+- [group music therapy](../topics/group-music-therapy.md)
+- [recreational choir singing](../topics/recreational-choir-singing.md)
 
 ## Tags
 
@@ -36,11 +36,11 @@ This study investigates the impact of music interventions on stress in care home
 - [dementia-care](../tags/dementia-care.md)
 - [saliva-biomarkers](../tags/saliva-biomarkers.md)
 - [multinational-study](../tags/multinational-study.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [cluster-randomized trial](cluster-randomized trial.md)
+- **cluster-randomized trial**
 
 ## See Also
 

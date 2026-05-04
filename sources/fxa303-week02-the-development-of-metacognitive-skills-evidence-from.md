@@ -24,9 +24,9 @@ This study explores the development of metacognitive skills in young children ag
 
 ## Key Concepts
 
-- [metacognitive skills](../topics/metacognitive skills.md)
-- [monitoring processes](../topics/monitoring processes.md)
-- [control processes](../topics/control processes.md)
+- [metacognitive skills](../topics/metacognitive-skills.md)
+- [monitoring processes](../topics/monitoring-processes.md)
+- [control processes](../topics/control-processes.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ This study explores the development of metacognitive skills in young children ag
 - [problem-solving-behavior](../tags/problem-solving-behavior.md)
 - [young-children-cognition](../tags/young-children-cognition.md)
 - [age-related-changes](../tags/age-related-changes.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [observational analysis](observational analysis.md)
+- **observational analysis**
 
 ## See Also
 

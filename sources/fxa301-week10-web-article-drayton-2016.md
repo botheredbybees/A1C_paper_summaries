@@ -33,7 +33,7 @@ The article discusses the rapid transformation of Australia's electric vehicle (
 - [climate-change-and-environment](../tags/climate-change-and-environment.md)
 - [transport-infrastructure](../tags/transport-infrastructure.md)
 - [electric-vehicles](../tags/electric-vehicles.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

@@ -33,11 +33,11 @@ The study evaluates the impact of a creative arts psychotherapy program on traum
 - [creative-arts-psychotherapy](../tags/creative-arts-psychotherapy.md)
 - [child-trauma-intervention](../tags/child-trauma-intervention.md)
 - [posttraumatic-stress-symptoms](../tags/posttraumatic-stress-symptoms.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [non-randomized-controlled-trial](non-randomized-controlled-trial.md)
+- **non-randomized-controlled-trial**
 
 ## See Also
 

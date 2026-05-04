@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA202
     week: "06"
-tags: ["visual storytelling", "photography", "storytelling techniques", "fxa202"]
+tags: ["visual-storytelling", "photography", "storytelling-techniques", "fxa202"]
 key_concepts: ["implied narrative", "visual metaphor"]
 methods: []
 slug: fxa202-week06-lesson-fxa202-week06-page-2
@@ -24,15 +24,15 @@ This lesson focuses on the concept of visual storytelling through photography. I
 
 ## Key Concepts
 
-- [implied narrative](../topics/implied narrative.md)
-- [visual metaphor](../topics/visual metaphor.md)
+- [implied narrative](../topics/implied-narrative.md)
+- [visual metaphor](../topics/visual-metaphor.md)
 
 ## Tags
 
-- [visual storytelling](../tags/visual storytelling.md)
+- [visual storytelling](../tags/visual-storytelling.md)
 - [photography](../tags/photography.md)
-- [storytelling techniques](../tags/storytelling techniques.md)
-- [fxa202](../tags/fxa202.md)
+- [storytelling techniques](../tags/storytelling-techniques.md)
+- fxa202
 
 ## Methods
 

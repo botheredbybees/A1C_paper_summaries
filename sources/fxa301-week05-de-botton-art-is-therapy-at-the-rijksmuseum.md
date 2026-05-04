@@ -24,20 +24,20 @@ In this transcript of Alain de Botton's talk at the Rijksmuseum, he discusses th
 
 ## Key Concepts
 
-- [secularization theory](../topics/secularization theory.md)
-- [therapeutic role of art](../topics/therapeutic role of art.md)
-- [didactic purpose in art](../topics/didactic purpose in art.md)
+- [secularization theory](../topics/secularization-theory.md)
+- [therapeutic role of art](../topics/therapeutic-role-of-art.md)
+- [didactic purpose in art](../topics/didactic-purpose-in-art.md)
 
 ## Tags
 
 - [museums-and-secularization](../tags/museums-and-secularization.md)
 - [art-as-therapy](../tags/art-as-therapy.md)
 - [historical-exhibition](../tags/historical-exhibition.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

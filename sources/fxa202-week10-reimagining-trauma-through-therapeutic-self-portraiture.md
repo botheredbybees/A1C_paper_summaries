@@ -28,9 +28,9 @@ By engaging mythological figures and digital manipulation techniques, Miller dem
 
 ## Key Concepts
 
-- [Jungian archetypes](../topics/Jungian archetypes.md)
-- [therapeutic photography practices](../topics/therapeutic photography practices.md)
-- [color psychology](../topics/color psychology.md)
+- [Jungian archetypes](../topics/jungian-archetypes.md)
+- [therapeutic photography practices](../topics/therapeutic-photography-practices.md)
+- [color psychology](../topics/color-psychology.md)
 
 ## Tags
 
@@ -40,11 +40,11 @@ By engaging mythological figures and digital manipulation techniques, Miller dem
 - [digital-manipulation](../tags/digital-manipulation.md)
 - [emotional-healing](../tags/emotional-healing.md)
 - [self-portraiture](../tags/self-portraiture.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [reflective analysis](reflective analysis.md)
+- **reflective analysis**
 
 ## See Also
 

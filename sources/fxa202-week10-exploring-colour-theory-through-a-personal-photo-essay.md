@@ -24,9 +24,9 @@ Melanie Henderson's photo essay explores the theme of color theory within the co
 
 ## Key Concepts
 
-- [color theory](../topics/color theory.md)
-- [psychodynamic nature of color](../topics/psychodynamic nature of color.md)
-- [therapeutic potential of creative storytelling](../topics/therapeutic potential of creative storytelling.md)
+- [color theory](../topics/color-theory.md)
+- [psychodynamic nature of color](../topics/psychodynamic-nature-of-color.md)
+- [therapeutic potential of creative storytelling](../topics/therapeutic-potential-of-creative-storytelling.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ Melanie Henderson's photo essay explores the theme of color theory within the co
 - [emotional-wellbeing](../tags/emotional-wellbeing.md)
 - [personal-storytelling](../tags/personal-storytelling.md)
 - [photo-essay](../tags/photo-essay.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

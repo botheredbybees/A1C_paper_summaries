@@ -24,15 +24,15 @@ This week's lesson in FXA303 focuses on the mental wellbeing of arts practitione
 
 ## Key Concepts
 
-- [cross-disciplinary pedagogical framework](../topics/cross-disciplinary pedagogical framework.md)
-- [emotional skills in healthcare](../topics/emotional skills in healthcare.md)
+- [cross-disciplinary pedagogical framework](../topics/cross-disciplinary-pedagogical-framework.md)
+- [emotional skills in healthcare](../topics/emotional-skills-in-healthcare.md)
 
 ## Tags
 
 - [creative-arts](../tags/creative-arts.md)
 - [puppetry-in-healthcare](../tags/puppetry-in-healthcare.md)
 - [mental-wellbeing](../tags/mental-wellbeing.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

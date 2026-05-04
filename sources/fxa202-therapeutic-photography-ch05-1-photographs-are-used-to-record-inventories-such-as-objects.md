@@ -24,20 +24,20 @@ This chapter discusses the therapeutic value of using photographs to enhance sel
 
 ## Key Concepts
 
-- [externalization of problems](../topics/externalization of problems.md)
-- [photo elicitation](../topics/photo elicitation.md)
-- [narrative therapy](../topics/narrative therapy.md)
+- [externalization of problems](../topics/externalization-of-problems.md)
+- [photo elicitation](../topics/photo-elicitation.md)
+- [narrative therapy](../topics/narrative-therapy.md)
 
 ## Tags
 
 - [therapeutic-photography](../tags/therapeutic-photography.md)
 - [narrative-therapy](../tags/narrative-therapy.md)
 - [self-esteem](../tags/self-esteem.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [photo elicitation](photo elicitation.md)
+- **photo elicitation**
 
 ## See Also
 

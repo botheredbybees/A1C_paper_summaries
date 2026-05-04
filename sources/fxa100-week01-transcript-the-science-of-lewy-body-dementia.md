@@ -24,7 +24,7 @@ This transcript discusses the neurological condition known as Lewy body dementia
 
 ## Key Concepts
 
-- [Lewy body dementia](../topics/Lewy body dementia.md)
+- [Lewy body dementia](../topics/lewy-body-dementia.md)
 - [alpha-synuclein](../topics/alpha-synuclein.md)
 
 ## Tags
@@ -32,7 +32,7 @@ This transcript discusses the neurological condition known as Lewy body dementia
 - [neurology](../tags/neurology.md)
 - [dementia](../tags/dementia.md)
 - [parkinsons-disease](../tags/parkinsons-disease.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

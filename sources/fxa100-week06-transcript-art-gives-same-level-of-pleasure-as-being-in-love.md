@@ -24,9 +24,9 @@ This transcript discusses recent research by Semir Zeki from University College 
 
 ## Key Concepts
 
-- [pleasure centers in brain](../topics/pleasure centers in brain.md)
-- [dopamine release](../topics/dopamine release.md)
-- [beauty perception](../topics/beauty perception.md)
+- [pleasure centers in brain](../topics/pleasure-centers-in-brain.md)
+- [dopamine release](../topics/dopamine-release.md)
+- [beauty perception](../topics/beauty-perception.md)
 
 ## Tags
 
@@ -35,7 +35,7 @@ This transcript discusses recent research by Semir Zeki from University College 
 - [brain-stimulation](../tags/brain-stimulation.md)
 - [well-being-index](../tags/well-being-index.md)
 - [dopamine-reaction](../tags/dopamine-reaction.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

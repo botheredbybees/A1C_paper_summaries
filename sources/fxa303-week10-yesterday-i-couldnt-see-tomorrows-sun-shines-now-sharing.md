@@ -35,7 +35,7 @@ This article explores the experiences of refugee and migrant women in non-metrop
 - [social-inclusion](../tags/social-inclusion.md)
 - [creative-practices](../tags/creative-practices.md)
 - [refugee-integration](../tags/refugee-integration.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

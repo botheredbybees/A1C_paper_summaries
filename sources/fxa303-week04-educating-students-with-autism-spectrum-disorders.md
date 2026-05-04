@@ -35,11 +35,11 @@ The text 'Educating Students with Autism Spectrum Disorders' edited by Dianne Za
 - [special-needs-teaching](../tags/special-needs-teaching.md)
 - [evidence-based-practices](../tags/evidence-based-practices.md)
 - [interdisciplinary-collaboration](../tags/interdisciplinary-collaboration.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [systematic-review](systematic-review.md)
+- **systematic-review**
 
 ## See Also
 

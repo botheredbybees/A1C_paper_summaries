@@ -24,9 +24,9 @@ This document outlines activities for week six of FXA303, focusing on the use of
 
 ## Key Concepts
 
-- [externalization of emotions](../topics/externalization of emotions.md)
-- [symbolic representation](../topics/symbolic representation.md)
-- [emotional regulation](../topics/emotional regulation.md)
+- [externalization of emotions](../topics/externalization-of-emotions.md)
+- [symbolic representation](../topics/symbolic-representation.md)
+- [emotional regulation](../topics/emotional-regulation.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ This document outlines activities for week six of FXA303, focusing on the use of
 - [puppet-play-therapy](../tags/puppet-play-therapy.md)
 - [therapeutic-contexts](../tags/therapeutic-contexts.md)
 - [emotional-regulation](../tags/emotional-regulation.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

@@ -24,9 +24,9 @@ This position paper discusses the role of music therapy in managing dementia, fo
 
 ## Key Concepts
 
-- [music therapy](../topics/music therapy.md)
+- [music therapy](../topics/music-therapy.md)
 - [improvisation](../topics/improvisation.md)
-- [Homeside trial](../topics/Homeside trial.md)
+- [Homeside trial](../topics/homeside-trial.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ This position paper discusses the role of music therapy in managing dementia, fo
 - [quality-of-life](../tags/quality-of-life.md)
 - [personalized-intervention](../tags/personalized-intervention.md)
 - [caregiver-support](../tags/caregiver-support.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [position paper](position paper.md)
+- **position paper**
 
 ## See Also
 

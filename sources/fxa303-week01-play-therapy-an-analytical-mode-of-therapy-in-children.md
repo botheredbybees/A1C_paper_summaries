@@ -24,10 +24,10 @@ The article explores the role of play therapy in child development and mental we
 
 ## Key Concepts
 
-- [play therapy](../topics/play therapy.md)
-- [Mildred Parten's stages of play development](../topics/Mildred Parten's stages of play development.md)
-- [emotional intelligence](../topics/emotional intelligence.md)
-- [symbolic communication](../topics/symbolic communication.md)
+- [play therapy](../topics/play-therapy.md)
+- [Mildred Parten's stages of play development](../topics/mildred-partens-stages-of-play-development.md)
+- [emotional intelligence](../topics/emotional-intelligence.md)
+- [symbolic communication](../topics/symbolic-communication.md)
 
 ## Tags
 
@@ -36,11 +36,11 @@ The article explores the role of play therapy in child development and mental we
 - [mental-health-interventions](../tags/mental-health-interventions.md)
 - [emotional-regulation](../tags/emotional-regulation.md)
 - [cognitive-behavioral-approach](../tags/cognitive-behavioral-approach.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [literature review](literature review.md)
+- **literature review**
 
 ## See Also
 

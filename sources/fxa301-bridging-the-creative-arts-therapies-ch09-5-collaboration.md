@@ -24,9 +24,9 @@ This chapter discusses the professionalization of the arts in health field, emph
 
 ## Key Concepts
 
-- [Code of Ethics for Arts in Health Professionals](../topics/Code of Ethics for Arts in Health Professionals.md)
-- [Core Curriculum for Arts in Health Professionals](../topics/Core Curriculum for Arts in Health Professionals.md)
-- [systemic capacity building](../topics/systemic capacity building.md)
+- [Code of Ethics for Arts in Health Professionals](../topics/code-of-ethics-for-arts-in-health-professionals.md)
+- [Core Curriculum for Arts in Health Professionals](../topics/core-curriculum-for-arts-in-health-professionals.md)
+- [systemic capacity building](../topics/systemic-capacity-building.md)
 
 ## Tags
 
@@ -35,7 +35,7 @@ This chapter discusses the professionalization of the arts in health field, emph
 - [ethics-in-practice](../tags/ethics-in-practice.md)
 - [education-pathways](../tags/education-pathways.md)
 - [certification-process](../tags/certification-process.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

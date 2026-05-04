@@ -33,11 +33,11 @@ The document provides an overview of the limbic system's structure and function 
 - [brain-structure](../tags/brain-structure.md)
 - [limbic-system-functions](../tags/limbic-system-functions.md)
 - [neuroanatomy-overview](../tags/neuroanatomy-overview.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [literature-review](literature-review.md)
+- **literature-review**
 
 ## See Also
 

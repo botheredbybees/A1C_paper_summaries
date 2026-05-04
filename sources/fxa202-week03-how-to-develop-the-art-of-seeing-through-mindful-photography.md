@@ -24,9 +24,9 @@ Gregory Berg's article explores the concept of developing a unique photographic 
 
 ## Key Concepts
 
-- [Attentional Aperture](../topics/Attentional Aperture.md)
-- [Mindful Photography](../topics/Mindful Photography.md)
-- [Neural Plasticity](../topics/Neural Plasticity.md)
+- [Attentional Aperture](../topics/attentional-aperture.md)
+- [Mindful Photography](../topics/mindful-photography.md)
+- [Neural Plasticity](../topics/neural-plasticity.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ Gregory Berg's article explores the concept of developing a unique photographic 
 - [attentional-aperture](../tags/attentional-aperture.md)
 - [mental-wellbeing](../tags/mental-wellbeing.md)
 - [neural-pathways](../tags/neural-pathways.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

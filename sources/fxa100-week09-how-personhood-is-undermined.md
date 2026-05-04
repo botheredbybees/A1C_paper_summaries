@@ -25,8 +25,8 @@ In 'How Personhood is Undermined', Tom Kitwood critiques the conventional medica
 ## Key Concepts
 
 - [personhood](../topics/personhood.md)
-- [holistic approach to dementia care](../topics/holistic approach to dementia care.md)
-- [societal context in dementia experience](../topics/societal context in dementia experience.md)
+- [holistic approach to dementia care](../topics/holistic-approach-to-dementia-care.md)
+- [societal context in dementia experience](../topics/societal-context-in-dementia-experience.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ In 'How Personhood is Undermined', Tom Kitwood critiques the conventional medica
 - [social-psychology-of-dementia](../tags/social-psychology-of-dementia.md)
 - [relational-integrity-in-care](../tags/relational-integrity-in-care.md)
 - [identity-in-dementia](../tags/identity-in-dementia.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

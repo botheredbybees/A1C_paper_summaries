@@ -35,12 +35,12 @@ The study by Jacobsen-Höfel and Höfel explores aesthetic judgments made on nov
 - [individual-differences](../tags/individual-differences.md)
 - [empirical-aesthetics](../tags/empirical-aesthetics.md)
 - [beauty-perception](../tags/beauty-perception.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [nomothetic-analysis](nomothetic-analysis.md)
-- [idiographic-analysis](idiographic-analysis.md)
+- **nomothetic-analysis**
+- **idiographic-analysis**
 
 ## See Also
 

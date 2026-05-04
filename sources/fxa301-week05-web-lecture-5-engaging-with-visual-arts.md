@@ -33,11 +33,11 @@ This web lecture focuses on engaging with visual arts through case studies and t
 - [visual-arts-engagement](../tags/visual-arts-engagement.md)
 - [community-art-projects](../tags/community-art-projects.md)
 - [wellbeing-through-art](../tags/wellbeing-through-art.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

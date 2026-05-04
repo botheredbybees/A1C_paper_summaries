@@ -24,9 +24,9 @@ The article explores the significance of researching the connections between mig
 
 ## Key Concepts
 
-- [multidisciplinary approaches](../topics/multidisciplinary approaches.md)
-- [visual studies](../topics/visual studies.md)
-- [participatory arts-based research](../topics/participatory arts-based research.md)
+- [multidisciplinary approaches](../topics/multidisciplinary-approaches.md)
+- [visual studies](../topics/visual-studies.md)
+- [participatory arts-based research](../topics/participatory-arts-based-research.md)
 
 ## Tags
 
@@ -35,7 +35,7 @@ The article explores the significance of researching the connections between mig
 - [transdisciplinary-research](../tags/transdisciplinary-research.md)
 - [international-migration](../tags/international-migration.md)
 - [social-sciences](../tags/social-sciences.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

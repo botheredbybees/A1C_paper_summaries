@@ -24,9 +24,9 @@ The study conducted at the University of Utah Health explores how music can acti
 
 ## Key Concepts
 
-- [salience network](../topics/salience network.md)
-- [functional MRI](../topics/functional MRI.md)
-- [personalized music intervention](../topics/personalized music intervention.md)
+- [salience network](../topics/salience-network.md)
+- [functional MRI](../topics/functional-mri.md)
+- [personalized music intervention](../topics/personalized-music-intervention.md)
 
 ## Tags
 
@@ -36,11 +36,11 @@ The study conducted at the University of Utah Health explores how music can acti
 - [neural-networks](../tags/neural-networks.md)
 - [personalized-treatment](../tags/personalized-treatment.md)
 - [dementia-management](../tags/dementia-management.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [functional MRI](functional MRI.md)
+- **functional MRI**
 
 ## See Also
 

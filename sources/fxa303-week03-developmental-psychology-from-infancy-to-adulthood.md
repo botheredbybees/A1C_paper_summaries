@@ -24,16 +24,16 @@ Chapter 13 of the book 'Developmental Psychology: From Infancy to Adulthood' by 
 
 ## Key Concepts
 
-- [nature-nurture interaction](../topics/nature-nurture interaction.md)
-- [critical periods](../topics/critical periods.md)
-- [continuity-discontinuity debate](../topics/continuity-discontinuity debate.md)
+- [nature-nurture interaction](../topics/nature-nurture-interaction.md)
+- [critical periods](../topics/critical-periods.md)
+- [continuity-discontinuity debate](../topics/continuity-discontinuity-debate.md)
 
 ## Tags
 
 - [nature-nurture](../tags/nature-nurture.md)
 - [developmental-stages](../tags/developmental-stages.md)
 - [cognitive-development](../tags/cognitive-development.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

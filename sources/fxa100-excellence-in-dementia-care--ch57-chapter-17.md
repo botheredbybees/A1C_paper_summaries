@@ -24,15 +24,15 @@ This chapter discusses the concept of embodied selfhood and its implications for
 
 ## Key Concepts
 
-- [embodied selfhood](../topics/embodied selfhood.md)
-- [creativity in dementia](../topics/creativity in dementia.md)
+- [embodied selfhood](../topics/embodied-selfhood.md)
+- [creativity in dementia](../topics/creativity-in-dementia.md)
 
 ## Tags
 
 - [dementia-care](../tags/dementia-care.md)
 - [personhood-movement](../tags/personhood-movement.md)
 - [embodied-selfhood](../tags/embodied-selfhood.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

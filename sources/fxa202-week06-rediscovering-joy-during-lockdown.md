@@ -35,11 +35,11 @@ The document explores the concept of joy during a time when many are feeling the
 - [creative-expression](../tags/creative-expression.md)
 - [isolation-effects](../tags/isolation-effects.md)
 - [personal-resilience](../tags/personal-resilience.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

@@ -24,9 +24,9 @@ The Week 8 Lecture Notes for the course FXA202 at the University of Tasmania emp
 
 ## Key Concepts
 
-- [therapeutic photography](../topics/therapeutic photography.md)
-- [mindfulness practices](../topics/mindfulness practices.md)
-- [image editing techniques](../topics/image editing techniques.md)
+- [therapeutic photography](../topics/therapeutic-photography.md)
+- [mindfulness practices](../topics/mindfulness-practices.md)
+- [image editing techniques](../topics/image-editing-techniques.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ The Week 8 Lecture Notes for the course FXA202 at the University of Tasmania emp
 - [photo-editing-software](../tags/photo-editing-software.md)
 - [creative-techniques-in-photography](../tags/creative-techniques-in-photography.md)
 - [digital-compositing](../tags/digital-compositing.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

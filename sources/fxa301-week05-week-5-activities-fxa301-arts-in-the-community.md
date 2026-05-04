@@ -24,10 +24,10 @@ The document outlines activities for Week 5 of the course FXA301 Arts in the Com
 
 ## Key Concepts
 
-- [employability skills](../topics/employability skills.md)
-- [recruiters' perceptions](../topics/recruiters' perceptions.md)
-- [art therapy](../topics/art therapy.md)
-- [health and wellbeing](../topics/health and wellbeing.md)
+- [employability skills](../topics/employability-skills.md)
+- [recruiters' perceptions](../topics/recruiters-perceptions.md)
+- [art therapy](../topics/art-therapy.md)
+- [health and wellbeing](../topics/health-and-wellbeing.md)
 
 ## Tags
 
@@ -37,11 +37,11 @@ The document outlines activities for Week 5 of the course FXA301 Arts in the Com
 - [employability-skills](../tags/employability-skills.md)
 - [art-therapy](../tags/art-therapy.md)
 - [wellbeing](../tags/wellbeing.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

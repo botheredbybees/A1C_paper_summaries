@@ -24,9 +24,9 @@ This article explores the historical context of a 'colour treatment' experiment 
 
 ## Key Concepts
 
-- [colour treatment](../topics/colour treatment.md)
-- [nervous disorders](../topics/nervous disorders.md)
-- [abstract color theory](../topics/abstract color theory.md)
+- [colour treatment](../topics/colour-treatment.md)
+- [nervous disorders](../topics/nervous-disorders.md)
+- [abstract color theory](../topics/abstract-color-theory.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ This article explores the historical context of a 'colour treatment' experiment 
 - [world-war-i](../tags/world-war-i.md)
 - [shell-shock-treatment](../tags/shell-shock-treatment.md)
 - [historical-medical-practice](../tags/historical-medical-practice.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [historical case study](historical case study.md)
+- **historical case study**
 
 ## See Also
 

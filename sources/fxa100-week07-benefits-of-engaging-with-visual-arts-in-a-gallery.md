@@ -33,11 +33,11 @@ Shan Crosbie's essay explores the significance of engaging with visual arts in g
 - [dementia-care](../tags/dementia-care.md)
 - [visual-arts-interventions](../tags/visual-arts-interventions.md)
 - [gallery-programming](../tags/gallery-programming.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

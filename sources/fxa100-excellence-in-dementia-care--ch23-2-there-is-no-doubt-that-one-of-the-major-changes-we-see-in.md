@@ -7,13 +7,14 @@ apa7: "Downs, M., Bowers, B., & Murna. (2014). Excellence in dementia care: Rese
 doi: null
 appearances:
   - unit: FXA100
+  - unit: FXA100
 tags: ["dementia-care", "communication-challenges", "personhood-theory", "fxa100"]
 key_concepts: ["malignant social psychology", "non-verbal communication"]
 methods: []
 slug: fxa100-excellence-in-dementia-care--ch23-2-there-is-no-doubt-that-one-of-the-major-changes-we-see-in
 related: ["dementia-care", "personhood-theory"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-04
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-excellence-in-dementia-care--ch23-2-there-is-no-doubt-that-one-of-the-major-changes-we-see-in.md_
@@ -24,15 +25,15 @@ This chapter discusses the critical role of communication in understanding and a
 
 ## Key Concepts
 
-- [malignant social psychology](../topics/malignant social psychology.md)
-- [non-verbal communication](../topics/non-verbal communication.md)
+- [malignant social psychology](../topics/malignant-social-psychology.md)
+- [non-verbal communication](../topics/non-verbal-communication.md)
 
 ## Tags
 
 - [dementia-care](../tags/dementia-care.md)
 - [communication-challenges](../tags/communication-challenges.md)
 - [personhood-theory](../tags/personhood-theory.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

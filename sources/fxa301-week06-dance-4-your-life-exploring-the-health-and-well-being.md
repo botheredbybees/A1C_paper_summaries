@@ -33,11 +33,11 @@ This study evaluated the physiological and psychological impact of contemporary 
 - [dance-intervention](../tags/dance-intervention.md)
 - [adolescent-health](../tags/adolescent-health.md)
 - [female-physical-wellbeing](../tags/female-physical-wellbeing.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [pre-post assessment](pre-post assessment.md)
+- **pre-post assessment**
 
 ## See Also
 

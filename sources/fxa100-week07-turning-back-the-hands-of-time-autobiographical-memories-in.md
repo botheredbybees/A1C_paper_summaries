@@ -24,9 +24,9 @@ The study explores the impact of museum settings on autobiographical memory retr
 
 ## Key Concepts
 
-- [autobiographical memories](../topics/autobiographical memories.md)
-- [contextual cues](../topics/contextual cues.md)
-- [episodic detail retrieval](../topics/episodic detail retrieval.md)
+- [autobiographical memories](../topics/autobiographical-memories.md)
+- [contextual cues](../topics/contextual-cues.md)
+- [episodic detail retrieval](../topics/episodic-detail-retrieval.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ The study explores the impact of museum settings on autobiographical memory retr
 - [museum-context](../tags/museum-context.md)
 - [cognitive-stimulation](../tags/cognitive-stimulation.md)
 - [autobiographical-memory](../tags/autobiographical-memory.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

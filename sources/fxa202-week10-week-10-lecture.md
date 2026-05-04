@@ -32,7 +32,7 @@ This week's lecture concludes the content for The Photo Essay course and introdu
 - [education-online](../tags/education-online.md)
 - [student-engagement](../tags/student-engagement.md)
 - [lecture-content](../tags/lecture-content.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 

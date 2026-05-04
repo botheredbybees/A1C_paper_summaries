@@ -33,11 +33,11 @@ This article by David Slater, an associate of Entelechy Arts, details the collab
 - [community-engagement](../tags/community-engagement.md)
 - [inclusive-theatre](../tags/inclusive-theatre.md)
 - [dementia-care](../tags/dementia-care.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

@@ -32,7 +32,7 @@ The transcript describes a study led by Joseph Duzak, a neuroscientist at York U
 - [parkinsons-disease](../tags/parkinsons-disease.md)
 - [neuroscience-research](../tags/neuroscience-research.md)
 - [dance-therapy](../tags/dance-therapy.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

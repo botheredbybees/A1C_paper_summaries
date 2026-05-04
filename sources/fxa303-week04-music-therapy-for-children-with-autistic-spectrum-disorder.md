@@ -33,11 +33,11 @@ This systematic review evaluates the effectiveness of music therapy for children
 - [autism-spectrum-disorder](../tags/autism-spectrum-disorder.md)
 - [neurodevelopmental-disorders](../tags/neurodevelopmental-disorders.md)
 - [systematic-review](../tags/systematic-review.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [systematic review](systematic review.md)
+- **systematic review**
 
 ## See Also
 

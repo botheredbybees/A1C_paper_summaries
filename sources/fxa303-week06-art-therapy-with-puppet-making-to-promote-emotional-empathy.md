@@ -29,8 +29,8 @@ The article discusses the Expressive Therapies Continuum (ETC), a framework for 
 ## Key Concepts
 
 - [Expressive Therapies Continuum (ETC)](../topics/Expressive Therapies Continuum (ETC).md)
-- [cognitive empathy](../topics/cognitive empathy.md)
-- [affective empathy](../topics/affective empathy.md)
+- [cognitive empathy](../topics/cognitive-empathy.md)
+- [affective empathy](../topics/affective-empathy.md)
 
 ## Tags
 
@@ -40,11 +40,11 @@ The article discusses the Expressive Therapies Continuum (ETC), a framework for 
 - [puppet-making](../tags/puppet-making.md)
 - [self-expression](../tags/self-expression.md)
 - [social-skills](../tags/social-skills.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

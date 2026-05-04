@@ -24,9 +24,9 @@ This study evaluates the implementation of a new communication method, the 'Vede
 
 ## Key Concepts
 
-- [Veder Method](../topics/Veder Method.md)
-- [person-centered care](../topics/person-centered care.md)
-- [executive support](../topics/executive support.md)
+- [Veder Method](../topics/veder-method.md)
+- [person-centered care](../topics/person-centered-care.md)
+- [executive support](../topics/executive-support.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ This study evaluates the implementation of a new communication method, the 'Vede
 - [theatrical-therapy](../tags/theatrical-therapy.md)
 - [nursing-home-interventions](../tags/nursing-home-interventions.md)
 - [process-evaluation](../tags/process-evaluation.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [process evaluation](process evaluation.md)
+- **process evaluation**
 
 ## See Also
 

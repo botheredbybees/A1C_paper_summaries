@@ -24,9 +24,9 @@ This study investigates the role of artistic engagement in mental health and lif
 
 ## Key Concepts
 
-- [artistic engagement](../topics/artistic engagement.md)
-- [mental health outcomes](../topics/mental health outcomes.md)
-- [supportive community environments](../topics/supportive community environments.md)
+- [artistic engagement](../topics/artistic-engagement.md)
+- [mental health outcomes](../topics/mental-health-outcomes.md)
+- [supportive community environments](../topics/supportive-community-environments.md)
 
 ## Tags
 
@@ -35,12 +35,12 @@ This study investigates the role of artistic engagement in mental health and lif
 - [youth-art-engagement](../tags/youth-art-engagement.md)
 - [community-support-networks](../tags/community-support-networks.md)
 - [adolescent-well-being](../tags/adolescent-well-being.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [qualitative study](qualitative study.md)
-- [interviews](interviews.md)
+- **qualitative study**
+- **interviews**
 
 ## See Also
 

@@ -24,9 +24,9 @@ This lesson focuses on the developmental changes during adolescence. It describe
 
 ## Key Concepts
 
-- [synaptic pruning](../topics/synaptic pruning.md)
+- [synaptic pruning](../topics/synaptic-pruning.md)
 - [neuroplasticity](../topics/neuroplasticity.md)
-- [frontal lobe development](../topics/frontal lobe development.md)
+- [frontal lobe development](../topics/frontal-lobe-development.md)
 
 ## Tags
 
@@ -35,7 +35,7 @@ This lesson focuses on the developmental changes during adolescence. It describe
 - [neuroscience-education](../tags/neuroscience-education.md)
 - [cognitive-psychology](../tags/cognitive-psychology.md)
 - [social-emotional-learning](../tags/social-emotional-learning.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

@@ -24,9 +24,9 @@ The document provides an overview of the services offered by The Music Therapy C
 
 ## Key Concepts
 
-- [music therapy](../topics/music therapy.md)
-- [neurologic music therapy](../topics/neurologic music therapy.md)
-- [social interaction](../topics/social interaction.md)
+- [music therapy](../topics/music-therapy.md)
+- [neurologic music therapy](../topics/neurologic-music-therapy.md)
+- [social interaction](../topics/social-interaction.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ The document provides an overview of the services offered by The Music Therapy C
 - [neurological-rehabilitation](../tags/neurological-rehabilitation.md)
 - [pediatric-care](../tags/pediatric-care.md)
 - [mental-wellbeing](../tags/mental-wellbeing.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

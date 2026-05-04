@@ -38,7 +38,7 @@ This document provides an overview of the importance of creative play and arts i
 - [creative-arts](../tags/creative-arts.md)
 - [brain-development](../tags/brain-development.md)
 - [emotional-regulation](../tags/emotional-regulation.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

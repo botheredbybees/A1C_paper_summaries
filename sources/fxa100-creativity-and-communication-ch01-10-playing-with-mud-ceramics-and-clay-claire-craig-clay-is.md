@@ -7,13 +7,14 @@ apa7: "Craig, C., & Killick, J. (2011). Playing with mud: ceramics and clay. In 
 doi: null
 appearances:
   - unit: FXA100
+  - unit: FXA100
 tags: ["dementia-therapy", "clay-art", "therapeutic-materials", "self-expression-through-art", "fxa100"]
 key_concepts: ["tactile-experience", "creative-outlet-for-emotions", "personal-expression-through-crafting"]
 methods: []
 slug: fxa100-creativity-and-communication-ch01-10-playing-with-mud-ceramics-and-clay-claire-craig-clay-is
 related: ["dementia-therapy"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-04
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-creativity-and-communication-ch01-10-playing-with-mud-ceramics-and-clay-claire-craig-clay-is.md_
@@ -34,7 +35,7 @@ This chapter explores the use of ceramics and clay as therapeutic materials for 
 - [clay-art](../tags/clay-art.md)
 - [therapeutic-materials](../tags/therapeutic-materials.md)
 - [self-expression-through-art](../tags/self-expression-through-art.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

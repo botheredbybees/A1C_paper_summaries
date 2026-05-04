@@ -24,16 +24,16 @@ The lesson introduces students to the content and activities of Week 10 in the L
 
 ## Key Concepts
 
-- [critical reflection models](../topics/critical reflection models.md)
-- [photo essay](../topics/photo essay.md)
-- [academic skills workshop](../topics/academic skills workshop.md)
+- [critical reflection models](../topics/critical-reflection-models.md)
+- [photo essay](../topics/photo-essay.md)
+- [academic skills workshop](../topics/academic-skills-workshop.md)
 
 ## Tags
 
 - [legal-systems](../tags/legal-systems.md)
 - [critical-reflection](../tags/critical-reflection.md)
 - [academic-writing](../tags/academic-writing.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 

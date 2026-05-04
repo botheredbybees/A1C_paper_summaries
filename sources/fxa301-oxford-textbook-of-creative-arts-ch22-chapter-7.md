@@ -28,14 +28,14 @@ This chapter explores the concept of community cultural development (CCD) as a f
 ## Key Concepts
 
 - [Community Cultural Development (CCD)](../topics/Community Cultural Development (CCD).md)
-- [Social Inclusion](../topics/Social Inclusion.md)
+- [Social Inclusion](../topics/social-inclusion.md)
 
 ## Tags
 
 - [community-cultural-development](../tags/community-cultural-development.md)
 - [public-health-interventions](../tags/public-health-interventions.md)
 - [arts-based-therapy](../tags/arts-based-therapy.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

@@ -24,16 +24,16 @@ The chapter explores the integration of creative arts into nursing and midwifery
 
 ## Key Concepts
 
-- [non-normative ethics](../topics/non-normative ethics.md)
-- [person-centered care](../topics/person-centered care.md)
-- [complex interventions](../topics/complex interventions.md)
+- [non-normative ethics](../topics/non-normative-ethics.md)
+- [person-centered care](../topics/person-centered-care.md)
+- [complex interventions](../topics/complex-interventions.md)
 
 ## Tags
 
 - [creative-arts-in-nursing](../tags/creative-arts-in-nursing.md)
 - [complex-interventions-healthcare](../tags/complex-interventions-healthcare.md)
 - [compassion-in-practice](../tags/compassion-in-practice.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

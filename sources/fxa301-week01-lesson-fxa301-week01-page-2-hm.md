@@ -33,7 +33,7 @@ This lesson focuses on the principles of designing an effective community arts p
 - [community-arts](../tags/community-arts.md)
 - [health-wellbeing](../tags/health-wellbeing.md)
 - [project-design](../tags/project-design.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

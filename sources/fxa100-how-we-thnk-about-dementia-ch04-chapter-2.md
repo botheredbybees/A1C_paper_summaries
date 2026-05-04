@@ -7,7 +7,7 @@ apa7: "Hughes, J. C. (2014). How we think about dementia: Personhood, rights, et
 doi: null
 appearances:
   - unit: FXA100
-tags: ["ageing research", "dementia studies", "research paradigms", "fxa100"]
+tags: ["ageing-research", "dementia-studies", "research-paradigms", "fxa100"]
 key_concepts: ["longevity", "quality of life", "ethical judgement"]
 methods: []
 slug: fxa100-how-we-thnk-about-dementia-ch04-chapter-2
@@ -25,15 +25,15 @@ This chapter discusses the importance of broadening the scope of research into a
 ## Key Concepts
 
 - [longevity](../topics/longevity.md)
-- [quality of life](../topics/quality of life.md)
-- [ethical judgement](../topics/ethical judgement.md)
+- [quality of life](../topics/quality-of-life.md)
+- [ethical judgement](../topics/ethical-judgement.md)
 
 ## Tags
 
-- [ageing research](../tags/ageing research.md)
-- [dementia studies](../tags/dementia studies.md)
-- [research paradigms](../tags/research paradigms.md)
-- [fxa100](../tags/fxa100.md)
+- [ageing research](../tags/ageing-research.md)
+- [dementia studies](../tags/dementia-studies.md)
+- [research paradigms](../tags/research-paradigms.md)
+- fxa100
 
 ## Methods
 

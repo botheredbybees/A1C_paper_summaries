@@ -24,8 +24,8 @@ This lesson covers two case studies focusing on community arts projects: 'Big No
 
 ## Key Concepts
 
-- [El Sistema](../topics/El Sistema.md)
-- [Big Noise](../topics/Big Noise.md)
+- [El Sistema](../topics/el-sistema.md)
+- [Big Noise](../topics/big-noise.md)
 - [physical-and-emotional-benefits-of-dance](../topics/physical-and-emotional-benefits-of-dance.md)
 
 ## Tags
@@ -35,7 +35,7 @@ This lesson covers two case studies focusing on community arts projects: 'Big No
 - [dance-health-benefits](../tags/dance-health-benefits.md)
 - [youth-development](../tags/youth-development.md)
 - [elderly-wellbeing](../tags/elderly-wellbeing.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

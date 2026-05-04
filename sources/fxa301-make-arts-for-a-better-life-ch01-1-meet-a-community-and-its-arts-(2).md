@@ -24,15 +24,15 @@ This excerpt introduces a guide to ethnomusicology and applied arts, focusing on
 
 ## Key Concepts
 
-- [better life](../topics/better life.md)
-- [creativity in arts](../topics/creativity in arts.md)
+- [better life](../topics/better-life.md)
+- [creativity in arts](../topics/creativity-in-arts.md)
 
 ## Tags
 
 - [ethnomusicology](../tags/ethnomusicology.md)
 - [community-engagement](../tags/community-engagement.md)
 - [applied-arts](../tags/applied-arts.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

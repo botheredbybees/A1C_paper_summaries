@@ -32,7 +32,7 @@ This transcript captures a session with the Humour Foundation where Betty and Ar
 - [humor-foundation](../tags/humor-foundation.md)
 - [laughter-care](../tags/laughter-care.md)
 - [elderly-wellness](../tags/elderly-wellness.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

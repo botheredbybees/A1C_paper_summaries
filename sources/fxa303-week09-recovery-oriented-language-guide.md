@@ -35,11 +35,11 @@ The Recovery Oriented Language Guide, published by the Mental Health Coordinatin
 - [stigma-reduction](../tags/stigma-reduction.md)
 - [trauma-informed-care](../tags/trauma-informed-care.md)
 - [strengths-based-approach](../tags/strengths-based-approach.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [guide](guide.md)
+- **guide**
 
 ## See Also
 

@@ -24,19 +24,19 @@ The chapter explores the role of art therapy in enhancing the quality of life fo
 
 ## Key Concepts
 
-- [person-centered approach](../topics/person-centered approach.md)
-- [embodied therapy](../topics/embodied therapy.md)
+- [person-centered approach](../topics/person-centered-approach.md)
+- [embodied therapy](../topics/embodied-therapy.md)
 
 ## Tags
 
 - [art-therapy](../tags/art-therapy.md)
 - [elderhood-health](../tags/elderhood-health.md)
 - [wellbeing-through-art](../tags/wellbeing-through-art.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

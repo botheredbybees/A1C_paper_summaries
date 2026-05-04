@@ -24,9 +24,9 @@ This study investigates the factors associated with early intervention (EI) part
 
 ## Key Concepts
 
-- [early intervention services](../topics/early intervention services.md)
-- [individuals with disabilities education act part c](../topics/individuals with disabilities education act part c.md)
-- [timely diagnosis and treatment](../topics/timely diagnosis and treatment.md)
+- [early intervention services](../topics/early-intervention-services.md)
+- [individuals with disabilities education act part c](../topics/individuals-with-disabilities-education-act-part-c.md)
+- [timely diagnosis and treatment](../topics/timely-diagnosis-and-treatment.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ This study investigates the factors associated with early intervention (EI) part
 - [child-development](../tags/child-development.md)
 - [socioeconomic-status](../tags/socioeconomic-status.md)
 - [public-policy](../tags/public-policy.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [survey analysis](survey analysis.md)
+- **survey analysis**
 
 ## See Also
 

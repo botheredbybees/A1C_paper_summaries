@@ -33,7 +33,7 @@ This chapter discusses the influence of cultural activities on health and longev
 - [cultural-activities](../tags/cultural-activities.md)
 - [health-outcomes](../tags/health-outcomes.md)
 - [survival-rate](../tags/survival-rate.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

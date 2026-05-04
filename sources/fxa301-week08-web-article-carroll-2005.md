@@ -24,15 +24,15 @@ This page is a browser verification step prior to accessing an article hosted on
 
 ## Key Concepts
 
-- [browser verification](../topics/browser verification.md)
-- [secure access](../topics/secure access.md)
+- [browser verification](../topics/browser-verification.md)
+- [secure access](../topics/secure-access.md)
 
 ## Tags
 
 - [browser-check](../tags/browser-check.md)
 - [pmc-access](../tags/pmc-access.md)
 - [security-verification](../tags/security-verification.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

@@ -24,10 +24,10 @@ Sumita Chauhan, a PhD candidate at the School of Engineering and Digital Arts (E
 
 ## Key Concepts
 
-- [creative potential](../topics/creative potential.md)
+- [creative potential](../topics/creative-potential.md)
 - [co-creation](../topics/co-creation.md)
 - [self-expression](../topics/self-expression.md)
-- [social interaction](../topics/social interaction.md)
+- [social interaction](../topics/social-interaction.md)
 
 ## Tags
 
@@ -37,11 +37,11 @@ Sumita Chauhan, a PhD candidate at the School of Engineering and Digital Arts (E
 - [digital-sculpture](../tags/digital-sculpture.md)
 - [elderly-wellness](../tags/elderly-wellness.md)
 - [cognitive-enhancement](../tags/cognitive-enhancement.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

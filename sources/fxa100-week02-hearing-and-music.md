@@ -35,11 +35,11 @@ This document explores the process of hearing music, detailing how sound vibrati
 - [auditory-system](../tags/auditory-system.md)
 - [brain-function](../tags/brain-function.md)
 - [musical-elements](../tags/musical-elements.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

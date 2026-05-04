@@ -35,11 +35,11 @@ This report summarizes key learnings from a caucus held prior to the Healing, Br
 - [community-integration](../tags/community-integration.md)
 - [policy-innovation](../tags/policy-innovation.md)
 - [public-health-initiatives](../tags/public-health-initiatives.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [caucus-analysis](caucus-analysis.md)
+- **caucus-analysis**
 
 ## See Also
 

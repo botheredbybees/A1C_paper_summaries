@@ -24,9 +24,9 @@ The article explores the benefits and practical applications of expressive writi
 
 ## Key Concepts
 
-- [expressive writing therapy](../topics/expressive writing therapy.md)
-- [physical health outcomes](../topics/physical health outcomes.md)
-- [traumatic events](../topics/traumatic events.md)
+- [expressive writing therapy](../topics/expressive-writing-therapy.md)
+- [physical health outcomes](../topics/physical-health-outcomes.md)
+- [traumatic events](../topics/traumatic-events.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ The article explores the benefits and practical applications of expressive writi
 - [emotional-healing](../tags/emotional-healing.md)
 - [self-reflection-exercises](../tags/self-reflection-exercises.md)
 - [therapeutic-benefits](../tags/therapeutic-benefits.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

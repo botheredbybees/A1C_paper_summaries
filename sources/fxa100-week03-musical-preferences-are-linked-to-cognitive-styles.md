@@ -32,11 +32,11 @@ The research article explores the relationship between cognitive styles, specifi
 - [cognitive-styles](../tags/cognitive-styles.md)
 - [musical-preferences](../tags/musical-preferences.md)
 - [empathizing-systemizing-theory](../tags/empathizing-systemizing-theory.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [correlational study](correlational study.md)
+- **correlational study**
 
 ## See Also
 

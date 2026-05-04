@@ -24,9 +24,9 @@ This fact sheet discusses the role of music therapy as an evidence-based allied 
 
 ## Key Concepts
 
-- [music therapy](../topics/music therapy.md)
-- [mental health intervention](../topics/mental health intervention.md)
-- [recovery orientation](../topics/recovery orientation.md)
+- [music therapy](../topics/music-therapy.md)
+- [mental health intervention](../topics/mental-health-intervention.md)
+- [recovery orientation](../topics/recovery-orientation.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ This fact sheet discusses the role of music therapy as an evidence-based allied 
 - [school-counseling](../tags/school-counseling.md)
 - [recovery-oriented-care](../tags/recovery-oriented-care.md)
 - [emotional-literacy](../tags/emotional-literacy.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [fact sheet](fact sheet.md)
+- **fact sheet**
 
 ## See Also
 

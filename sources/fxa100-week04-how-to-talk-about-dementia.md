@@ -32,11 +32,11 @@ The document 'How to Talk About Dementia' by Dementia Australia provides guideli
 - [dementia-awareness](../tags/dementia-awareness.md)
 - [person-centered-care](../tags/person-centered-care.md)
 - [language-use-in-healthcare](../tags/language-use-in-healthcare.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [guideline-development](guideline-development.md)
+- **guideline-development**
 
 ## See Also
 

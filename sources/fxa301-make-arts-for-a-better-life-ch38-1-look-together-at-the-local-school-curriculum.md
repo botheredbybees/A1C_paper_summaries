@@ -27,16 +27,16 @@ This chapter discusses integrating local arts into educational curricula, emphas
 
 ## Key Concepts
 
-- [cultural integration in education](../topics/cultural integration in education.md)
-- [educational storytelling](../topics/educational storytelling.md)
-- [evaluation process](../topics/evaluation process.md)
+- [cultural integration in education](../topics/cultural-integration-in-education.md)
+- [educational storytelling](../topics/educational-storytelling.md)
+- [evaluation process](../topics/evaluation-process.md)
 
 ## Tags
 
 - [community-arts](../tags/community-arts.md)
 - [education-curriculum-integration](../tags/education-curriculum-integration.md)
 - [evaluation-methods](../tags/evaluation-methods.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

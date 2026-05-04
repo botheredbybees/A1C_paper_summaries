@@ -32,7 +32,7 @@ This transcript features a musical performance by Beatie Wolfe in collaboration 
 - [music-and-dementia](../tags/music-and-dementia.md)
 - [emotional-support](../tags/emotional-support.md)
 - [ageing-with-resilience](../tags/ageing-with-resilience.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

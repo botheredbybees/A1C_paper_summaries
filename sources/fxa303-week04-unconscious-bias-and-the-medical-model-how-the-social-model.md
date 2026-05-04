@@ -28,9 +28,9 @@ The article highlights that while reasonable adjustments are mandated in anti-di
 
 ## Key Concepts
 
-- [social model of disability](../topics/social model of disability.md)
-- [medical model of disability](../topics/medical model of disability.md)
-- [equality act](../topics/equality act.md)
+- [social model of disability](../topics/social-model-of-disability.md)
+- [medical model of disability](../topics/medical-model-of-disability.md)
+- [equality act](../topics/equality-act.md)
 
 ## Tags
 
@@ -40,11 +40,11 @@ The article highlights that while reasonable adjustments are mandated in anti-di
 - [medical-model](../tags/medical-model.md)
 - [inclusive-legislation](../tags/inclusive-legislation.md)
 - [critical-theories](../tags/critical-theories.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [literature review](literature review.md)
+- **literature review**
 
 ## See Also
 

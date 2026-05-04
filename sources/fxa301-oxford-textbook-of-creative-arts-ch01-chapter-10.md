@@ -10,7 +10,7 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
-tags: ["qualitative research", "arts and health", "evaluation methods", "fxa301"]
+tags: ["qualitative-research", "arts-and-health", "evaluation-methods", "fxa301"]
 key_concepts: ["grounded theory", "ethnography"]
 methods: []
 slug: fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10
@@ -27,15 +27,15 @@ This chapter explores the application of qualitative methods in arts and health 
 
 ## Key Concepts
 
-- [grounded theory](../topics/grounded theory.md)
+- [grounded theory](../topics/grounded-theory.md)
 - [ethnography](../topics/ethnography.md)
 
 ## Tags
 
-- [qualitative research](../tags/qualitative research.md)
-- [arts and health](../tags/arts and health.md)
-- [evaluation methods](../tags/evaluation methods.md)
-- [fxa301](../tags/fxa301.md)
+- [qualitative research](../tags/qualitative-research.md)
+- [arts and health](../tags/arts-and-health.md)
+- [evaluation methods](../tags/evaluation-methods.md)
+- fxa301
 
 ## Methods
 

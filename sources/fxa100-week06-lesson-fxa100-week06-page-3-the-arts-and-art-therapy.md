@@ -26,15 +26,15 @@ This lesson explores the intersection of visual arts and dementia care. It exami
 
 ## Key Concepts
 
-- [Art Therapy](../topics/Art Therapy.md)
-- [Participatory Arts Programs](../topics/Participatory Arts Programs.md)
+- [Art Therapy](../topics/art-therapy.md)
+- [Participatory Arts Programs](../topics/participatory-arts-programs.md)
 
 ## Tags
 
 - [art-therapy](../tags/art-therapy.md)
 - [dementia-care](../tags/dementia-care.md)
 - [visual-art-and-dementia](../tags/visual-art-and-dementia.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

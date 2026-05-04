@@ -24,9 +24,9 @@ This article critically examines the social model of disability, a theoretical f
 
 ## Key Concepts
 
-- [social model of disability](../topics/social model of disability.md)
-- [Hannah Arendt's notion of power](../topics/Hannah Arendt's notion of power.md)
-- [transformative potential](../topics/transformative potential.md)
+- [social model of disability](../topics/social-model-of-disability.md)
+- [Hannah Arendt's notion of power](../topics/hannah-arendts-notion-of-power.md)
+- [transformative potential](../topics/transformative-potential.md)
 
 ## Tags
 
@@ -36,11 +36,11 @@ This article critically examines the social model of disability, a theoretical f
 - [power-politics](../tags/power-politics.md)
 - [arendts-philosophy](../tags/arendts-philosophy.md)
 - [pluralism](../tags/pluralism.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [literature review](literature review.md)
+- **literature review**
 
 ## See Also
 

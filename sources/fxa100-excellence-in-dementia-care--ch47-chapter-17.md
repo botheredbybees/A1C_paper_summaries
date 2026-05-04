@@ -24,15 +24,15 @@ This chapter discusses the concept of embodied selfhood as it relates to person-
 
 ## Key Concepts
 
-- [embodied selfhood](../topics/embodied selfhood.md)
-- [social conventions](../topics/social conventions.md)
+- [embodied selfhood](../topics/embodied-selfhood.md)
+- [social conventions](../topics/social-conventions.md)
 
 ## Tags
 
 - [dementia-care](../tags/dementia-care.md)
 - [embodied-selfhood](../tags/embodied-selfhood.md)
 - [person-centred-care](../tags/person-centred-care.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

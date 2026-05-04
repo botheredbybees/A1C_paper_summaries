@@ -24,9 +24,9 @@ The article explores the role of arts in the lives and integration processes of 
 
 ## Key Concepts
 
-- [refugee integration](../topics/refugee integration.md)
-- [multidisciplinary perspectives](../topics/multidisciplinary perspectives.md)
-- [alternative aesthetic norms](../topics/alternative aesthetic norms.md)
+- [refugee integration](../topics/refugee-integration.md)
+- [multidisciplinary perspectives](../topics/multidisciplinary-perspectives.md)
+- [alternative aesthetic norms](../topics/alternative-aesthetic-norms.md)
 
 ## Tags
 
@@ -35,7 +35,7 @@ The article explores the role of arts in the lives and integration processes of 
 - [cultural-integration](../tags/cultural-integration.md)
 - [gender-dynamics](../tags/gender-dynamics.md)
 - [therapeutic-arts](../tags/therapeutic-arts.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

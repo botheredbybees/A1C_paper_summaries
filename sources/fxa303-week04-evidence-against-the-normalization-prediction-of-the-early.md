@@ -24,9 +24,9 @@ The study challenges the 'normalization' prediction of the Early Brain Overgrowt
 
 ## Key Concepts
 
-- [early brain overgrowth hypothesis](../topics/early brain overgrowth hypothesis.md)
-- [normalization prediction](../topics/normalization prediction.md)
-- [IQ-by-diagnosis interaction](../topics/IQ-by-diagnosis interaction.md)
+- [early brain overgrowth hypothesis](../topics/early-brain-overgrowth-hypothesis.md)
+- [normalization prediction](../topics/normalization-prediction.md)
+- [IQ-by-diagnosis interaction](../topics/iq-by-diagnosis-interaction.md)
 
 ## Tags
 
@@ -35,12 +35,12 @@ The study challenges the 'normalization' prediction of the Early Brain Overgrowt
 - [cerebral-volume-analysis](../tags/cerebral-volume-analysis.md)
 - [neurodevelopmental-research](../tags/neurodevelopmental-research.md)
 - [quantitative-neuroimaging](../tags/quantitative-neuroimaging.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [cross-sectional study](cross-sectional study.md)
-- [volume measurement](volume measurement.md)
+- **cross-sectional study**
+- **volume measurement**
 
 ## See Also
 

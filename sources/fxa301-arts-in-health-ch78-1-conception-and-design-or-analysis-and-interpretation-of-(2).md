@@ -24,16 +24,16 @@ This chapter discusses ethical considerations in data analysis and dissemination
 
 ## Key Concepts
 
-- [anonymity of participants](../topics/anonymity of participants.md)
-- [Vancouver Protocol for authorship](../topics/Vancouver Protocol for authorship.md)
-- [ethical data reporting](../topics/ethical data reporting.md)
+- [anonymity of participants](../topics/anonymity-of-participants.md)
+- [Vancouver Protocol for authorship](../topics/vancouver-protocol-for-authorship.md)
+- [ethical data reporting](../topics/ethical-data-reporting.md)
 
 ## Tags
 
 - [data-analysis](../tags/data-analysis.md)
 - [research-ethics](../tags/research-ethics.md)
 - [dissemination](../tags/dissemination.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

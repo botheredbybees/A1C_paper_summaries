@@ -34,11 +34,11 @@ This article explores the cognitive and emotional dimensions underlying aestheti
 - [music-psychology](../tags/music-psychology.md)
 - [questionnaire-study](../tags/questionnaire-study.md)
 - [cognitive-emotion](../tags/cognitive-emotion.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [questionnaire](questionnaire.md)
+- **questionnaire**
 
 ## See Also
 

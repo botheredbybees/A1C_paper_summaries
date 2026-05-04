@@ -40,11 +40,11 @@ Overall, Miller's work is a call for innovative approaches that prioritize the h
 - [resident-experience](../tags/resident-experience.md)
 - [staff-support](../tags/staff-support.md)
 - [end-of-life-care](../tags/end-of-life-care.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

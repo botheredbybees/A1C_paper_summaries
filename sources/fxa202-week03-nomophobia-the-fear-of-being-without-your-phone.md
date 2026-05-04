@@ -31,8 +31,8 @@ Treatment options for individuals struggling with nomophobia include exposure th
 ## Key Concepts
 
 - [Nomophobia Questionnaire (NMP-Q)](../topics/Nomophobia Questionnaire (NMP-Q).md)
-- [situational specific phobias](../topics/situational specific phobias.md)
-- [cognitive-behavioral therapy](../topics/cognitive-behavioral therapy.md)
+- [situational specific phobias](../topics/situational-specific-phobias.md)
+- [cognitive-behavioral therapy](../topics/cognitive-behavioral-therapy.md)
 
 ## Tags
 
@@ -41,11 +41,11 @@ Treatment options for individuals struggling with nomophobia include exposure th
 - [digital-anxiety](../tags/digital-anxiety.md)
 - [techno-phobia](../tags/techno-phobia.md)
 - [social-media-addiction](../tags/social-media-addiction.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [questionnaire](questionnaire.md)
+- **questionnaire**
 
 ## See Also
 

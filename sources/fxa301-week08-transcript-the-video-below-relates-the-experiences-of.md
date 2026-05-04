@@ -35,7 +35,7 @@ This transcript details the experiences and impact of a creative writing worksho
 - [community-wellbeing](../tags/community-wellbeing.md)
 - [workshop-facilitation](../tags/workshop-facilitation.md)
 - [isle-of-man](../tags/isle-of-man.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

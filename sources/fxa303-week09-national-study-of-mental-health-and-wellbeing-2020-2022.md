@@ -24,20 +24,20 @@ The National Study of Mental Health and Wellbeing, conducted by the Australian B
 
 ## Key Concepts
 
-- [lifetime prevalence](../topics/lifetime prevalence.md)
-- [current prevalence](../topics/current prevalence.md)
-- [gender disparities](../topics/gender disparities.md)
+- [lifetime prevalence](../topics/lifetime-prevalence.md)
+- [current prevalence](../topics/current-prevalence.md)
+- [gender disparities](../topics/gender-disparities.md)
 
 ## Tags
 
 - [mental-health-statistics](../tags/mental-health-statistics.md)
 - [anxiety-disorders-prevalence](../tags/anxiety-disorders-prevalence.md)
 - [demographic-inequalities](../tags/demographic-inequalities.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [national survey](national survey.md)
+- **national survey**
 
 ## See Also
 

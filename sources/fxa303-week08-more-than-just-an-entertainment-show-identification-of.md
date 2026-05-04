@@ -24,9 +24,9 @@ The study explores the communication skills and therapeutic goals of medical clo
 
 ## Key Concepts
 
-- [medical clowns](../topics/medical clowns.md)
-- [communication skills](../topics/communication skills.md)
-- [therapeutic goals](../topics/therapeutic goals.md)
+- [medical clowns](../topics/medical-clowns.md)
+- [communication skills](../topics/communication-skills.md)
+- [therapeutic goals](../topics/therapeutic-goals.md)
 
 ## Tags
 
@@ -35,12 +35,12 @@ The study explores the communication skills and therapeutic goals of medical clo
 - [patient-wellbeing](../tags/patient-wellbeing.md)
 - [pediatric-care](../tags/pediatric-care.md)
 - [health-professionals](../tags/health-professionals.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [qualitative analysis](qualitative analysis.md)
-- [video-recorded simulations](video-recorded simulations.md)
+- **qualitative analysis**
+- **video-recorded simulations**
 
 ## See Also
 

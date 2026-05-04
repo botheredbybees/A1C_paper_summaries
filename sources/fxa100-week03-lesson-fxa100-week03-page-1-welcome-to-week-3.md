@@ -34,7 +34,7 @@ In this week's module of Listening to Music, Dr Brendan Lamb explores the impact
 - [music-therapy](../tags/music-therapy.md)
 - [cognitive-stimulation](../tags/cognitive-stimulation.md)
 - [emotional-wellbeing](../tags/emotional-wellbeing.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

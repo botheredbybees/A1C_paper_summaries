@@ -35,11 +35,11 @@ This paper explores the essential components necessary for an effective visual a
 - [qualitative-research](../tags/qualitative-research.md)
 - [group-interventions](../tags/group-interventions.md)
 - [facilitator-role](../tags/facilitator-role.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [qualitative-exploration](qualitative-exploration.md)
+- **qualitative-exploration**
 
 ## See Also
 

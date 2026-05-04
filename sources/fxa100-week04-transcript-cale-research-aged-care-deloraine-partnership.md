@@ -24,8 +24,8 @@ This transcript captures the discussion of a research project aimed at improving
 
 ## Key Concepts
 
-- [engagement with the arts](../topics/engagement with the arts.md)
-- [quality of life improvement](../topics/quality of life improvement.md)
+- [engagement with the arts](../topics/engagement-with-the-arts.md)
+- [quality of life improvement](../topics/quality-of-life-improvement.md)
 
 ## Tags
 
@@ -34,7 +34,7 @@ This transcript captures the discussion of a research project aimed at improving
 - [research-partnership](../tags/research-partnership.md)
 - [respiratory-function](../tags/respiratory-function.md)
 - [well-being](../tags/well-being.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

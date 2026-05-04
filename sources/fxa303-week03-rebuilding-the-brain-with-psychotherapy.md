@@ -33,11 +33,11 @@ The article 'Rebuilding the Brain with Psychotherapy' by Savita Malhotra and Swa
 - [psychotherapy-neuroscience](../tags/psychotherapy-neuroscience.md)
 - [brain-plasticity](../tags/brain-plasticity.md)
 - [mental-health-interventions](../tags/mental-health-interventions.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [literature-review](literature-review.md)
+- **literature-review**
 
 ## See Also
 

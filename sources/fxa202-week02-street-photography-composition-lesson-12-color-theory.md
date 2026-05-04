@@ -33,11 +33,11 @@ In this lesson on color theory, Eric Kim discusses the importance of understandi
 - [street-photography](../tags/street-photography.md)
 - [color-theory](../tags/color-theory.md)
 - [visual-storytelling](../tags/visual-storytelling.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

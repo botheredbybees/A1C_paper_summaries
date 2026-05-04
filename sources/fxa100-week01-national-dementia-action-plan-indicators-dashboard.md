@@ -24,8 +24,8 @@ The document provides an overview of the National Dementia Action Plan 2024–20
 
 ## Key Concepts
 
-- [National Dementia Action Plan](../topics/National Dementia Action Plan.md)
-- [policy evaluation indicators](../topics/policy evaluation indicators.md)
+- [National Dementia Action Plan](../topics/national-dementia-action-plan.md)
+- [policy evaluation indicators](../topics/policy-evaluation-indicators.md)
 
 ## Tags
 
@@ -33,11 +33,11 @@ The document provides an overview of the National Dementia Action Plan 2024–20
 - [public-health-policy](../tags/public-health-policy.md)
 - [national-action-plan](../tags/national-action-plan.md)
 - [health-indicators](../tags/health-indicators.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [report](report.md)
+- **report**
 
 ## See Also
 

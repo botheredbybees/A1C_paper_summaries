@@ -24,9 +24,9 @@ The article presents a qualitative study that explores the impact of 'Singing fo
 
 ## Key Concepts
 
-- [group singing](../topics/group singing.md)
-- [health benefits](../topics/health benefits.md)
-- [quality of life](../topics/quality of life.md)
+- [group singing](../topics/group-singing.md)
+- [health benefits](../topics/health-benefits.md)
+- [quality of life](../topics/quality-of-life.md)
 
 ## Tags
 
@@ -35,12 +35,12 @@ The article presents a qualitative study that explores the impact of 'Singing fo
 - [music-therapy](../tags/music-therapy.md)
 - [wellbeing-interventions](../tags/wellbeing-interventions.md)
 - [social-inclusion](../tags/social-inclusion.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [qualitative study](qualitative study.md)
-- [semi-structured interviews](semi-structured interviews.md)
+- **qualitative study**
+- **semi-structured interviews**
 
 ## See Also
 

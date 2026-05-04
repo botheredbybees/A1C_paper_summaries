@@ -36,12 +36,12 @@ This article presents a systematic review and meta-analysis to evaluate the effe
 - [child-adolescent-psychology](../tags/child-adolescent-psychology.md)
 - [systematic-review-meta-analysis](../tags/systematic-review-meta-analysis.md)
 - [mental-health-outcomes](../tags/mental-health-outcomes.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [systematic-review](systematic-review.md)
-- [meta-analysis](meta-analysis.md)
+- **systematic-review**
+- **meta-analysis**
 
 ## See Also
 

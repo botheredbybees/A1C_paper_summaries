@@ -33,11 +33,11 @@ This week's lecture in the course 'The Arts and Dementia Care' covers various th
 - [dementia-care](../tags/dementia-care.md)
 - [therapeutic-arts](../tags/therapeutic-arts.md)
 - [mental-health-interventions](../tags/mental-health-interventions.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

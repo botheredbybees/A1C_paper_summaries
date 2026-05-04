@@ -24,21 +24,21 @@ The chapter outlines a community-based approach called 'Make Arts for a Better L
 
 ## Key Concepts
 
-- [artistic communication](../topics/artistic communication.md)
-- [community engagement](../topics/community engagement.md)
-- [cultural sustainability](../topics/cultural sustainability.md)
+- [artistic communication](../topics/artistic-communication.md)
+- [community engagement](../topics/community-engagement.md)
+- [cultural sustainability](../topics/cultural-sustainability.md)
 
 ## Tags
 
 - [community-arts](../tags/community-arts.md)
 - [conflict-resolution](../tags/conflict-resolution.md)
 - [health-and-wellbeing](../tags/health-and-wellbeing.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [ethnography of communication](ethnography of communication.md)
-- [anthropology](anthropology.md)
+- **ethnography of communication**
+- **anthropology**
 
 ## See Also
 

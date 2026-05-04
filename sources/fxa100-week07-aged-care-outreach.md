@@ -24,10 +24,10 @@ The document 'Aged care outreach' by Museums Victoria provides a detailed overvi
 
 ## Key Concepts
 
-- [reminiscence therapy](../topics/reminiscence therapy.md)
-- [cognitive stimulation](../topics/cognitive stimulation.md)
-- [social interaction](../topics/social interaction.md)
-- [quality of life](../topics/quality of life.md)
+- [reminiscence therapy](../topics/reminiscence-therapy.md)
+- [cognitive stimulation](../topics/cognitive-stimulation.md)
+- [social interaction](../topics/social-interaction.md)
+- [quality of life](../topics/quality-of-life.md)
 
 ## Tags
 
@@ -36,11 +36,11 @@ The document 'Aged care outreach' by Museums Victoria provides a detailed overvi
 - [cognitive-stimulation](../tags/cognitive-stimulation.md)
 - [social-interaction](../tags/social-interaction.md)
 - [elderly-engagement](../tags/elderly-engagement.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

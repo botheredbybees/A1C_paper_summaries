@@ -35,11 +35,11 @@ The book 'Singing and Wellbeing: Ancient Wisdom, Modern Proof' by Kay Norton exp
 - [brain-function](../tags/brain-function.md)
 - [community-bonding](../tags/community-bonding.md)
 - [therapeutic-potential](../tags/therapeutic-potential.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [systematic-review](systematic-review.md)
+- **systematic-review**
 
 ## See Also
 

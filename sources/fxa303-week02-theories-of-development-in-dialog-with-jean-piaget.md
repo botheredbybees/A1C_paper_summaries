@@ -25,8 +25,8 @@ The article discusses Jean Piaget's theories of cognitive development, focusing 
 ## Key Concepts
 
 - [constructivism](../topics/constructivism.md)
-- [stage theory](../topics/stage theory.md)
-- [conceptual change](../topics/conceptual change.md)
+- [stage theory](../topics/stage-theory.md)
+- [conceptual change](../topics/conceptual-change.md)
 
 ## Tags
 
@@ -34,11 +34,11 @@ The article discusses Jean Piaget's theories of cognitive development, focusing 
 - [constructivism-theory](../tags/constructivism-theory.md)
 - [piaget-stage-theory](../tags/piaget-stage-theory.md)
 - [intuitive-biology](../tags/intuitive-biology.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [literature review](literature review.md)
+- **literature review**
 
 ## See Also
 

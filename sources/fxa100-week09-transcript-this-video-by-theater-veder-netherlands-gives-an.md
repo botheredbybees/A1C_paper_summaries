@@ -32,7 +32,7 @@ This video provides an overview and demonstration related to the work of Theater
 - [theater-veder](../tags/theater-veder.md)
 - [netherlands-culture](../tags/netherlands-culture.md)
 - [video-demonstration](../tags/video-demonstration.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

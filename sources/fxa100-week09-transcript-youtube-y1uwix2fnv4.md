@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "09"
-tags: ["drama therapy", "creativity in aging", "improvisation", "fxa100"]
+tags: ["drama-therapy", "creativity-in-aging", "improvisation", "fxa100"]
 key_concepts: ["storytelling", "facilitation", "expressive arts therapy"]
 methods: []
 slug: fxa100-week09-transcript-youtube-y1uwix2fnv4
@@ -26,14 +26,14 @@ In this interview, Sally Bailey, a professor in the theater department and direc
 
 - [storytelling](../topics/storytelling.md)
 - [facilitation](../topics/facilitation.md)
-- [expressive arts therapy](../topics/expressive arts therapy.md)
+- [expressive arts therapy](../topics/expressive-arts-therapy.md)
 
 ## Tags
 
-- [drama therapy](../tags/drama therapy.md)
-- [creativity in aging](../tags/creativity in aging.md)
+- [drama therapy](../tags/drama-therapy.md)
+- [creativity in aging](../tags/creativity-in-aging.md)
 - [improvisation](../tags/improvisation.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

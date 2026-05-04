@@ -24,10 +24,10 @@ This lecture transcript from Week Three of the Photo Essay course explores the r
 
 ## Key Concepts
 
-- [mental health](../topics/mental health.md)
-- [therapeutic photography](../topics/therapeutic photography.md)
+- [mental health](../topics/mental-health.md)
+- [therapeutic photography](../topics/therapeutic-photography.md)
 - [self-presentation](../topics/self-presentation.md)
-- [mindfulness techniques](../topics/mindfulness techniques.md)
+- [mindfulness techniques](../topics/mindfulness-techniques.md)
 
 ## Tags
 
@@ -35,12 +35,12 @@ This lecture transcript from Week Three of the Photo Essay course explores the r
 - [social-media-effects](../tags/social-media-effects.md)
 - [therapeutic-photography](../tags/therapeutic-photography.md)
 - [nomophobia](../tags/nomophobia.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [case study](case study.md)
-- [lectures](lectures.md)
+- **case study**
+- **lectures**
 
 ## See Also
 

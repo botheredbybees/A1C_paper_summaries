@@ -24,10 +24,10 @@ Susan Linn explores the therapeutic benefits of puppetry in play therapy for chi
 
 ## Key Concepts
 
-- [object relations theory](../topics/object relations theory.md)
-- [projection in therapy](../topics/projection in therapy.md)
-- [supportive environment](../topics/supportive environment.md)
-- [coping strategies](../topics/coping strategies.md)
+- [object relations theory](../topics/object-relations-theory.md)
+- [projection in therapy](../topics/projection-in-therapy.md)
+- [supportive environment](../topics/supportive-environment.md)
+- [coping strategies](../topics/coping-strategies.md)
 
 ## Tags
 
@@ -37,11 +37,11 @@ Susan Linn explores the therapeutic benefits of puppetry in play therapy for chi
 - [object-relations](../tags/object-relations.md)
 - [emotional-coping](../tags/emotional-coping.md)
 - [hospitalization-support](../tags/hospitalization-support.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

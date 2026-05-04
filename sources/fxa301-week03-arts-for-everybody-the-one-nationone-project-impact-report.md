@@ -28,9 +28,9 @@ Additionally, the report serves as an archive documenting the project's journey,
 
 ## Key Concepts
 
-- [evidence-based engagement](../topics/evidence-based engagement.md)
-- [mixed-method research](../topics/mixed-method research.md)
-- [cultural programs](../topics/cultural programs.md)
+- [evidence-based engagement](../topics/evidence-based-engagement.md)
+- [mixed-method research](../topics/mixed-method-research.md)
+- [cultural programs](../topics/cultural-programs.md)
 
 ## Tags
 
@@ -38,13 +38,13 @@ Additionally, the report serves as an archive documenting the project's journey,
 - [community-engagement](../tags/community-engagement.md)
 - [health-equity](../tags/health-equity.md)
 - [social-cohesion](../tags/social-cohesion.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [mixed-methods](mixed-methods.md)
-- [qualitative](qualitative.md)
-- [quantitative](quantitative.md)
+- **mixed-methods**
+- **qualitative**
+- **quantitative**
 
 ## See Also
 

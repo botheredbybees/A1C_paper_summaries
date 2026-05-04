@@ -34,11 +34,11 @@ The study investigates the impact of singing on alert responses in individuals w
 - [music-therapy](../tags/music-therapy.md)
 - [alert-responses](../tags/alert-responses.md)
 - [singing-interventions](../tags/singing-interventions.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

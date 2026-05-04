@@ -24,8 +24,8 @@ This review article investigates the mechanisms of glucose metabolism in the agi
 
 ## Key Concepts
 
-- [N-glycosylation pathways](../topics/N-glycosylation pathways.md)
-- [glucose transport](../topics/glucose transport.md)
+- [N-glycosylation pathways](../topics/n-glycosylation-pathways.md)
+- [glucose transport](../topics/glucose-transport.md)
 
 ## Tags
 
@@ -33,11 +33,11 @@ This review article investigates the mechanisms of glucose metabolism in the agi
 - [glucose-metabolism](../tags/glucose-metabolism.md)
 - [neurodegeneration](../tags/neurodegeneration.md)
 - [hippocampus-function](../tags/hippocampus-function.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [review article](review article.md)
+- **review article**
 
 ## See Also
 

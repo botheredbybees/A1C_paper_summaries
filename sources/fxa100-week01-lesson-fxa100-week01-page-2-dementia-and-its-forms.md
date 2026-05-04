@@ -24,17 +24,17 @@ This lesson introduces students to the concept of dementia, its symptoms, progre
 
 ## Key Concepts
 
-- [Alzheimer's disease](../topics/Alzheimer's disease.md)
-- [vascular dementia](../topics/vascular dementia.md)
-- [Lewy body dementia](../topics/Lewy body dementia.md)
-- [frontotemporal dementia](../topics/frontotemporal dementia.md)
+- [Alzheimer's disease](../topics/alzheimers-disease.md)
+- [vascular dementia](../topics/vascular-dementia.md)
+- [Lewy body dementia](../topics/lewy-body-dementia.md)
+- [frontotemporal dementia](../topics/frontotemporal-dementia.md)
 
 ## Tags
 
 - [dementia](../tags/dementia.md)
 - [neurodegenerative-diseases](../tags/neurodegenerative-diseases.md)
 - [cognitive-disorders](../tags/cognitive-disorders.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

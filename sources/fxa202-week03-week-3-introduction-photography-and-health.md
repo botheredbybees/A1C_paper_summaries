@@ -33,11 +33,11 @@ The Week 3 lecture of the course 'FXA202 The Photo Essay: Storytelling with Imag
 - [photography-therapy](../tags/photography-therapy.md)
 - [social-media-health](../tags/social-media-health.md)
 - [mental-wellbeing](../tags/mental-wellbeing.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [lecture](lecture.md)
+- **lecture**
 
 ## See Also
 

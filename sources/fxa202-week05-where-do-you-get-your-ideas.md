@@ -33,11 +33,11 @@ In his essay 'Where do you get your ideas?', Neil Gaiman explores the common que
 - [creative-process](../tags/creative-process.md)
 - [writing-inspiration](../tags/writing-inspiration.md)
 - [storytelling-techniques](../tags/storytelling-techniques.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [essay](essay.md)
+- **essay**
 
 ## See Also
 

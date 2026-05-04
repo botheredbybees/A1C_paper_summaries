@@ -29,9 +29,9 @@ The document discusses how photography encourages physical activity by motivatin
 ## Key Concepts
 
 - [mindfulness](../topics/mindfulness.md)
-- [photo therapy](../topics/photo therapy.md)
+- [photo therapy](../topics/photo-therapy.md)
 - [well-being](../topics/well-being.md)
-- [mental health](../topics/mental health.md)
+- [mental health](../topics/mental-health.md)
 
 ## Tags
 
@@ -41,11 +41,11 @@ The document discusses how photography encourages physical activity by motivatin
 - [therapeutic-photography](../tags/therapeutic-photography.md)
 - [environmental-awareness](../tags/environmental-awareness.md)
 - [creative-expression](../tags/creative-expression.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

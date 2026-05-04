@@ -26,7 +26,7 @@ This pilot study explores the impact of a creative art program on self-esteem, h
 
 - [self-esteem](../topics/self-esteem.md)
 - [hope](../topics/hope.md)
-- [perceived social support](../topics/perceived social support.md)
+- [perceived social support](../topics/perceived-social-support.md)
 - [self-efficacy](../topics/self-efficacy.md)
 
 ## Tags
@@ -37,11 +37,11 @@ This pilot study explores the impact of a creative art program on self-esteem, h
 - [self-efficacy](../tags/self-efficacy.md)
 - [hope](../tags/hope.md)
 - [social-support](../tags/social-support.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [pilot study](pilot study.md)
+- **pilot study**
 - [posttest design](one-group pretest/posttest design.md)
 
 ## See Also

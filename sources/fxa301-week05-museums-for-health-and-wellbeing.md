@@ -36,11 +36,11 @@ The document 'Museums for Health and Wellbeing' is a comprehensive report by the
 - [community-support](../tags/community-support.md)
 - [educational-programs](../tags/educational-programs.md)
 - [health-outcomes](../tags/health-outcomes.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

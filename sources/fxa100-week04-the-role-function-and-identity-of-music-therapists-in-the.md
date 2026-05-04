@@ -24,9 +24,9 @@ Helen Odell-Miller's article explores the evolving identity and function of musi
 
 ## Key Concepts
 
-- [music therapy identity](../topics/music therapy identity.md)
-- [multidisciplinary collaboration](../topics/multidisciplinary collaboration.md)
-- [research advancements](../topics/research advancements.md)
+- [music therapy identity](../topics/music-therapy-identity.md)
+- [multidisciplinary collaboration](../topics/multidisciplinary-collaboration.md)
+- [research advancements](../topics/research-advancements.md)
 
 ## Tags
 
@@ -34,11 +34,11 @@ Helen Odell-Miller's article explores the evolving identity and function of musi
 - [role-definition](../tags/role-definition.md)
 - [identity-establishment](../tags/identity-establishment.md)
 - [multidisciplinary-collaboration](../tags/multidisciplinary-collaboration.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [literature review](literature review.md)
+- **literature review**
 
 ## See Also
 

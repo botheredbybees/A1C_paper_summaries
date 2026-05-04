@@ -33,11 +33,11 @@ The lecture for Week 9 of the Photo Essay course focuses on editing and selectio
 - [photo-essays](../tags/photo-essays.md)
 - [editing-process](../tags/editing-process.md)
 - [reflective-writing](../tags/reflective-writing.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

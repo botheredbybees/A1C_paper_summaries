@@ -24,8 +24,8 @@ The article 'Unraveling Neurodiversity: Insights from Neuroscientiﬁc Perspecti
 
 ## Key Concepts
 
-- [neurodiversity movement](../topics/neurodiversity movement.md)
-- [statistical approach to neurodiversity](../topics/statistical approach to neurodiversity.md)
+- [neurodiversity movement](../topics/neurodiversity-movement.md)
+- [statistical approach to neurodiversity](../topics/statistical-approach-to-neurodiversity.md)
 
 ## Tags
 
@@ -33,11 +33,11 @@ The article 'Unraveling Neurodiversity: Insights from Neuroscientiﬁc Perspecti
 - [cognitive-differences](../tags/cognitive-differences.md)
 - [brain-anatomy](../tags/brain-anatomy.md)
 - [societal-inclusion](../tags/societal-inclusion.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [literature review](literature review.md)
+- **literature review**
 
 ## See Also
 

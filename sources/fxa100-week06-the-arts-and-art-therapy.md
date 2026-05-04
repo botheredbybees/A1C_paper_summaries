@@ -24,8 +24,8 @@ This document discusses the role of art in understanding dementia and its therap
 
 ## Key Concepts
 
-- [art therapy](../topics/art therapy.md)
-- [cognitive decline](../topics/cognitive decline.md)
+- [art therapy](../topics/art-therapy.md)
+- [cognitive decline](../topics/cognitive-decline.md)
 - [neuroaesthetics](../topics/neuroaesthetics.md)
 
 ## Tags
@@ -33,11 +33,11 @@ This document discusses the role of art in understanding dementia and its therap
 - [dementia-art](../tags/dementia-art.md)
 - [cognitive-decline-therapy](../tags/cognitive-decline-therapy.md)
 - [alzheimer-artistic-expression](../tags/alzheimer-artistic-expression.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

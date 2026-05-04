@@ -36,11 +36,11 @@ The webpage 'Art & Creativity' on the UCSF Memory and Aging Center website discu
 - [therapeutic-arts](../tags/therapeutic-arts.md)
 - [cognitive-engagement](../tags/cognitive-engagement.md)
 - [patient-profiles](../tags/patient-profiles.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

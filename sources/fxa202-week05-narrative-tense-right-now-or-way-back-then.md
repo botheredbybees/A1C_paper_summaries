@@ -32,11 +32,11 @@ This article by Bill Hill discusses the choice of narrative tense in storytellin
 - [narrative-tense](../tags/narrative-tense.md)
 - [literary-fiction](../tags/literary-fiction.md)
 - [reader-engagement](../tags/reader-engagement.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

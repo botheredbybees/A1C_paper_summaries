@@ -32,11 +32,11 @@ Oliver Sacks' commentary in Brain explores the unique influence of music on huma
 - [music-therapy](../tags/music-therapy.md)
 - [neuroscience-of-music](../tags/neuroscience-of-music.md)
 - [human-behavior](../tags/human-behavior.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

@@ -7,13 +7,14 @@ apa7: "Downs, M., Bowers, B., & Cooke, H. (2014). Design matters in dementia car
 doi: null
 appearances:
   - unit: FXA100
+  - unit: FXA100
 tags: ["dementia-care", "environmental-design", "quality-of-life", "fxa100"]
 key_concepts: ["individual competence and environmental press model", "model of place", "progressively lowered threshold model"]
 methods: []
 slug: fxa100-excellence-in-dementia-care--ch60-chapter-11
 related: ["dementia-care", "environmental-design", "quality-of-life"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-04
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-excellence-in-dementia-care--ch60-chapter-11.md_
@@ -24,16 +25,16 @@ This chapter discusses the significance of physical environmental design in enha
 
 ## Key Concepts
 
-- [individual competence and environmental press model](../topics/individual competence and environmental press model.md)
-- [model of place](../topics/model of place.md)
-- [progressively lowered threshold model](../topics/progressively lowered threshold model.md)
+- [individual competence and environmental press model](../topics/individual-competence-and-environmental-press-model.md)
+- [model of place](../topics/model-of-place.md)
+- [progressively lowered threshold model](../topics/progressively-lowered-threshold-model.md)
 
 ## Tags
 
 - [dementia-care](../tags/dementia-care.md)
 - [environmental-design](../tags/environmental-design.md)
 - [quality-of-life](../tags/quality-of-life.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

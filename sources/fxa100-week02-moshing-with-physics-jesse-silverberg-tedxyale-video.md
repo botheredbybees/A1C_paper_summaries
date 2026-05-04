@@ -33,12 +33,12 @@ In this video transcript of 'Moshing with Physics' by Jesse Silverberg at TEDxYa
 - [physics-of-crowds](../tags/physics-of-crowds.md)
 - [mosh-pit-dynamics](../tags/mosh-pit-dynamics.md)
 - [collective-behavior](../tags/collective-behavior.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [computational-modeling](computational-modeling.md)
-- [video-analysis](video-analysis.md)
+- **computational-modeling**
+- **video-analysis**
 
 ## See Also
 

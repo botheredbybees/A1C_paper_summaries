@@ -24,8 +24,8 @@ The study assesses the implementation of the Veder Contact Method (VCM), a perso
 
 ## Key Concepts
 
-- [Veder Contact Method](../topics/Veder Contact Method.md)
-- [successful implementation factors](../topics/successful implementation factors.md)
+- [Veder Contact Method](../topics/veder-contact-method.md)
+- [successful implementation factors](../topics/successful-implementation-factors.md)
 
 ## Tags
 
@@ -34,11 +34,11 @@ The study assesses the implementation of the Veder Contact Method (VCM), a perso
 - [theater-therapy](../tags/theater-therapy.md)
 - [communication-methods](../tags/communication-methods.md)
 - [quality-of-life](../tags/quality-of-life.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [quasi-experimental study](quasi-experimental study.md)
+- **quasi-experimental study**
 
 ## See Also
 

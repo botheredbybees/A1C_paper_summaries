@@ -33,11 +33,11 @@ Maria Fjellfeldt's study aims to advance understanding of the visual element in 
 - [mental-health-research](../tags/mental-health-research.md)
 - [participatory-arts-methods](../tags/participatory-arts-methods.md)
 - [visual-ethnography](../tags/visual-ethnography.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [secondary-data-analysis](secondary-data-analysis.md)
+- **secondary-data-analysis**
 
 ## See Also
 

@@ -24,9 +24,9 @@ The article explores the use of relational clowning as a method to engage indivi
 
 ## Key Concepts
 
-- [relational clowning](../topics/relational clowning.md)
-- [playful engagement](../topics/playful engagement.md)
-- [cognitive impairments](../topics/cognitive impairments.md)
+- [relational clowning](../topics/relational-clowning.md)
+- [playful engagement](../topics/playful-engagement.md)
+- [cognitive impairments](../topics/cognitive-impairments.md)
 
 ## Tags
 
@@ -34,12 +34,12 @@ The article explores the use of relational clowning as a method to engage indivi
 - [creative-interventions](../tags/creative-interventions.md)
 - [relational-clowning](../tags/relational-clowning.md)
 - [quality-of-life](../tags/quality-of-life.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [pilot study](pilot study.md)
-- [qualitative research](qualitative research.md)
+- **pilot study**
+- **qualitative research**
 
 ## See Also
 

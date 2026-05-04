@@ -24,15 +24,15 @@ This chapter explores ethical frameworks for dementia care and the unique challe
 
 ## Key Concepts
 
-- [story-based ethics](../topics/story-based ethics.md)
-- [person-centered care](../topics/person-centered care.md)
+- [story-based ethics](../topics/story-based-ethics.md)
+- [person-centered care](../topics/person-centered-care.md)
 
 ## Tags
 
 - [dementia-care](../tags/dementia-care.md)
 - [ethics-in-healthcare](../tags/ethics-in-healthcare.md)
 - [narrative-ethics](../tags/narrative-ethics.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

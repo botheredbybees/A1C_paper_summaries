@@ -32,11 +32,11 @@ This chapter discusses the importance of research protocols in academic and arti
 - [research-protocol](../tags/research-protocol.md)
 - [academic-writing](../tags/academic-writing.md)
 - [arts-based-research](../tags/arts-based-research.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

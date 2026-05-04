@@ -27,9 +27,9 @@ This chapter discusses the evolution of health definitions over two centuries, f
 
 ## Key Concepts
 
-- [biopsychosocial model](../topics/biopsychosocial model.md)
-- [Cartesian dualism](../topics/Cartesian dualism.md)
-- [Sigmund Freud's psychoanalysis](../topics/Sigmund Freud's psychoanalysis.md)
+- [biopsychosocial model](../topics/biopsychosocial-model.md)
+- [Cartesian dualism](../topics/cartesian-dualism.md)
+- [Sigmund Freud's psychoanalysis](../topics/sigmund-freuds-psychoanalysis.md)
 
 ## Tags
 
@@ -38,7 +38,7 @@ This chapter discusses the evolution of health definitions over two centuries, f
 - [public-health](../tags/public-health.md)
 - [arts-in-healthcare](../tags/arts-in-healthcare.md)
 - [historical-evolution-of-health](../tags/historical-evolution-of-health.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

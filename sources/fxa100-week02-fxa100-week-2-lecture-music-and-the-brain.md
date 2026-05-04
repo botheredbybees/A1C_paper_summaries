@@ -39,11 +39,11 @@ Key readings such as Renwick & Woolhouse (2023) are suggested for further explor
 - [auditory-processing](../tags/auditory-processing.md)
 - [rehabilitation-music](../tags/rehabilitation-music.md)
 - [memory-auditory](../tags/memory-auditory.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

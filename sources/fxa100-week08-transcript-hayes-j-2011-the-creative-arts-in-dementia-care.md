@@ -35,7 +35,7 @@ This transcript details a documentary called 'I Remember Better When I Paint,' w
 - [alzheimer-disease](../tags/alzheimer-disease.md)
 - [creative-arts-therapy](../tags/creative-arts-therapy.md)
 - [dementia-care](../tags/dementia-care.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

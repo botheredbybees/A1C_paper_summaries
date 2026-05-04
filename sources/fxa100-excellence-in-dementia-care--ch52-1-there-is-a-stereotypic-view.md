@@ -7,7 +7,7 @@ apa7: "Downs, M., & Bowers, B. (2014). Excellence in dementia care: Research int
 doi: null
 appearances:
   - unit: FXA100
-tags: ["dementia care", "social constructionism", "patient-centered approach", "fxa100"]
+tags: ["dementia-care", "social-constructionism", "patient-centered-approach", "fxa100"]
 key_concepts: ["negative positioning", "diagnostic overshadowing", "social constructionist theory"]
 methods: []
 slug: fxa100-excellence-in-dementia-care--ch52-1-there-is-a-stereotypic-view
@@ -24,16 +24,16 @@ This chapter discusses how societal perceptions and treatment of individuals dia
 
 ## Key Concepts
 
-- [negative positioning](../topics/negative positioning.md)
-- [diagnostic overshadowing](../topics/diagnostic overshadowing.md)
-- [social constructionist theory](../topics/social constructionist theory.md)
+- [negative positioning](../topics/negative-positioning.md)
+- [diagnostic overshadowing](../topics/diagnostic-overshadowing.md)
+- [social constructionist theory](../topics/social-constructionist-theory.md)
 
 ## Tags
 
-- [dementia care](../tags/dementia care.md)
-- [social constructionism](../tags/social constructionism.md)
-- [patient-centered approach](../tags/patient-centered approach.md)
-- [fxa100](../tags/fxa100.md)
+- [dementia care](../tags/dementia-care.md)
+- [social constructionism](../tags/social-constructionism.md)
+- [patient-centered approach](../tags/patient-centered-approach.md)
+- fxa100
 
 ## Methods
 

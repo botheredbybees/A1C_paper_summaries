@@ -24,9 +24,9 @@ This article explores the preserved painting creativity of a talented artist dia
 
 ## Key Concepts
 
-- [preserved creativity](../topics/preserved creativity.md)
-- [dissociation between cognition and art](../topics/dissociation between cognition and art.md)
-- [neural pathways](../topics/neural pathways.md)
+- [preserved creativity](../topics/preserved-creativity.md)
+- [dissociation between cognition and art](../topics/dissociation-between-cognition-and-art.md)
+- [neural pathways](../topics/neural-pathways.md)
 
 ## Tags
 
@@ -35,12 +35,12 @@ This article explores the preserved painting creativity of a talented artist dia
 - [cognitive-impairment](../tags/cognitive-impairment.md)
 - [brain-imaging](../tags/brain-imaging.md)
 - [artistic-expression](../tags/artistic-expression.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case study](case study.md)
-- [neuroimaging](neuroimaging.md)
+- **case study**
+- **neuroimaging**
 
 ## See Also
 

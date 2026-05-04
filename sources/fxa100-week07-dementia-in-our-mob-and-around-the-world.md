@@ -30,9 +30,9 @@ Comparative studies across different Indigenous populations worldwide indicate v
 
 ## Key Concepts
 
-- [late-onset alzheimer’s disease](../topics/late-onset alzheimer’s disease.md)
-- [prevalence disparities](../topics/prevalence disparities.md)
-- [cultural care practices](../topics/cultural care practices.md)
+- [late-onset alzheimer’s disease](../topics/late-onset-alzheimers-disease.md)
+- [prevalence disparities](../topics/prevalence-disparities.md)
+- [cultural care practices](../topics/cultural-care-practices.md)
 
 ## Tags
 
@@ -41,11 +41,11 @@ Comparative studies across different Indigenous populations worldwide indicate v
 - [cultural-factors-in-medicine](../tags/cultural-factors-in-medicine.md)
 - [aboriginal-populations](../tags/aboriginal-populations.md)
 - [alzheimers-disease](../tags/alzheimers-disease.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [systematic review](systematic review.md)
+- **systematic review**
 
 ## See Also
 

@@ -24,7 +24,7 @@ Robert Jason Grant’s book ‘Play Interventions for Neurodivergent Children an
 
 ## Key Concepts
 
-- [AutPlay® framework](../topics/AutPlay® framework.md)
+- [AutPlay® framework](../topics/autplay-framework.md)
 - [empathy-in-therapy](../topics/empathy-in-therapy.md)
 - [reflective-practice](../topics/reflective-practice.md)
 
@@ -36,11 +36,11 @@ Robert Jason Grant’s book ‘Play Interventions for Neurodivergent Children an
 - [autism-treatment](../tags/autism-treatment.md)
 - [child-development](../tags/child-development.md)
 - [therapeutic-practices](../tags/therapeutic-practices.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

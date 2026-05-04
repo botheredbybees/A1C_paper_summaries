@@ -24,8 +24,8 @@ This week's lesson in FXA303 Creative Arts focuses on the importance of cultural
 
 ## Key Concepts
 
-- [trauma-informed care](../topics/trauma-informed care.md)
-- [cultural connections](../topics/cultural connections.md)
+- [trauma-informed care](../topics/trauma-informed-care.md)
+- [cultural connections](../topics/cultural-connections.md)
 - [self-efficacy](../topics/self-efficacy.md)
 
 ## Tags
@@ -33,7 +33,7 @@ This week's lesson in FXA303 Creative Arts focuses on the importance of cultural
 - [creative-arts](../tags/creative-arts.md)
 - [mental-wellbeing](../tags/mental-wellbeing.md)
 - [cultural-identity](../tags/cultural-identity.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

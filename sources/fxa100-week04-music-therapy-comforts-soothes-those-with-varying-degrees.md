@@ -24,10 +24,10 @@ The transcript highlights the therapeutic effects of music on individuals suffer
 
 ## Key Concepts
 
-- [music therapy](../topics/music therapy.md)
-- [neurological activation](../topics/neurological activation.md)
-- [communication impairment](../topics/communication impairment.md)
-- [rehabilitative intervention](../topics/rehabilitative intervention.md)
+- [music therapy](../topics/music-therapy.md)
+- [neurological activation](../topics/neurological-activation.md)
+- [communication impairment](../topics/communication-impairment.md)
+- [rehabilitative intervention](../topics/rehabilitative-intervention.md)
 
 ## Tags
 
@@ -36,11 +36,11 @@ The transcript highlights the therapeutic effects of music on individuals suffer
 - [brain-stimulation](../tags/brain-stimulation.md)
 - [patient-rehabilitation](../tags/patient-rehabilitation.md)
 - [cognitive-function](../tags/cognitive-function.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

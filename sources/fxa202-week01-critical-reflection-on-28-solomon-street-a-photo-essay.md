@@ -34,11 +34,11 @@ Isabelle Osborne's critical reflection details her personal photo essay titled '
 - [emotional-journaling](../tags/emotional-journaling.md)
 - [home-environment](../tags/home-environment.md)
 - [visual-metaphors](../tags/visual-metaphors.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [photo-essay](photo-essay.md)
+- **photo-essay**
 
 ## See Also
 

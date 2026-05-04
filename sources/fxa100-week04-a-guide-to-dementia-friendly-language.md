@@ -24,15 +24,15 @@ This document provides guidelines for using inclusive and non-stigmatizing langu
 
 ## Key Concepts
 
-- [person-first language](../topics/person-first language.md)
-- [cultural sensitivity](../topics/cultural sensitivity.md)
+- [person-first language](../topics/person-first-language.md)
+- [cultural sensitivity](../topics/cultural-sensitivity.md)
 
 ## Tags
 
 - [inclusive-language](../tags/inclusive-language.md)
 - [stigma-reduction](../tags/stigma-reduction.md)
 - [dementia-awareness](../tags/dementia-awareness.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

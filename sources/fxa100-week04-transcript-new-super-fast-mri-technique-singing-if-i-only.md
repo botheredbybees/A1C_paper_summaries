@@ -24,15 +24,15 @@ The transcript discusses a new super-fast MRI technique through the lyrics of 'I
 
 ## Key Concepts
 
-- [MRI technology](../topics/MRI technology.md)
-- [cognitive potential](../topics/cognitive potential.md)
+- [MRI technology](../topics/mri-technology.md)
+- [cognitive potential](../topics/cognitive-potential.md)
 
 ## Tags
 
 - [mri-technique](../tags/mri-technique.md)
 - [brain-function](../tags/brain-function.md)
 - [knowledge-innovation](../tags/knowledge-innovation.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

@@ -36,11 +36,11 @@ This study, conducted by Margareta Rämgård, Elisabeth Carlson, and Elisabeth M
 - [cultural-diversity](../tags/cultural-diversity.md)
 - [social-interaction](../tags/social-interaction.md)
 - [residential-care](../tags/residential-care.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [ethnographic-study](ethnographic-study.md)
+- **ethnographic-study**
 
 ## See Also
 

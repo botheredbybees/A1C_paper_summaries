@@ -24,10 +24,10 @@ The document highlights significant challenges within end-of-life care, emphasiz
 
 ## Key Concepts
 
-- [personalized care](../topics/personalized care.md)
-- [integrated care model](../topics/integrated care model.md)
-- [creative arts therapy](../topics/creative arts therapy.md)
-- [advance care planning](../topics/advance care planning.md)
+- [personalized care](../topics/personalized-care.md)
+- [integrated care model](../topics/integrated-care-model.md)
+- [creative arts therapy](../topics/creative-arts-therapy.md)
+- [advance care planning](../topics/advance-care-planning.md)
 
 ## Tags
 
@@ -37,11 +37,11 @@ The document highlights significant challenges within end-of-life care, emphasiz
 - [creative-health-interventions](../tags/creative-health-interventions.md)
 - [advance-care-planning](../tags/advance-care-planning.md)
 - [health-disparities](../tags/health-disparities.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

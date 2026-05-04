@@ -27,9 +27,9 @@ The chapter explores the concept of 'arts in health', a field that lacks a stand
 
 ## Key Concepts
 
-- [Arts in Health Diamond](../topics/Arts in Health Diamond.md)
-- [continua model](../topics/continua model.md)
-- [Venn diagram approach](../topics/Venn diagram approach.md)
+- [Arts in Health Diamond](../topics/arts-in-health-diamond.md)
+- [continua model](../topics/continua-model.md)
+- [Venn diagram approach](../topics/venn-diagram-approach.md)
 
 ## Tags
 
@@ -37,7 +37,7 @@ The chapter explores the concept of 'arts in health', a field that lacks a stand
 - [medical-humanities](../tags/medical-humanities.md)
 - [psychotherapy](../tags/psychotherapy.md)
 - [healthcare-environment](../tags/healthcare-environment.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

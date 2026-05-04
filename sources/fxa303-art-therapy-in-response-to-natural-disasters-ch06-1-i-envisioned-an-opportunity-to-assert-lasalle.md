@@ -24,9 +24,9 @@ This chapter discusses the ethical considerations and collaborative practices in
 
 ## Key Concepts
 
-- [trauma theory](../topics/trauma theory.md)
-- [ethical guidelines in art therapy](../topics/ethical guidelines in art therapy.md)
-- [cross-cultural communication](../topics/cross-cultural communication.md)
+- [trauma theory](../topics/trauma-theory.md)
+- [ethical guidelines in art therapy](../topics/ethical-guidelines-in-art-therapy.md)
+- [cross-cultural communication](../topics/cross-cultural-communication.md)
 
 ## Tags
 
@@ -34,7 +34,7 @@ This chapter discusses the ethical considerations and collaborative practices in
 - [disaster-recovery](../tags/disaster-recovery.md)
 - [ethics-in-psychology](../tags/ethics-in-psychology.md)
 - [cultural-sensitivity](../tags/cultural-sensitivity.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

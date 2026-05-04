@@ -28,7 +28,7 @@ Instructions for inserting text boxes are provided, detailing how to place them 
 
 ## Key Concepts
 
-- [Microsoft PowerPoint](../topics/Microsoft PowerPoint.md)
+- [Microsoft PowerPoint](../topics/microsoft-powerpoint.md)
 - [slide-layouts](../topics/slide-layouts.md)
 - [image-insertion](../topics/image-insertion.md)
 
@@ -37,7 +37,7 @@ Instructions for inserting text boxes are provided, detailing how to place them 
 - [presentation-design](../tags/presentation-design.md)
 - [powerpoint-tips](../tags/powerpoint-tips.md)
 - [visual-communication](../tags/visual-communication.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 

@@ -35,11 +35,11 @@ This study presents the findings from a clinical and research program called the
 - [personalized-medicine](../tags/personalized-medicine.md)
 - [memory-assessment](../tags/memory-assessment.md)
 - [elderly-care](../tags/elderly-care.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case-series](case-series.md)
+- **case-series**
 
 ## See Also
 

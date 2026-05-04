@@ -36,12 +36,12 @@ This study explores the use of theatrical performances to communicate life with 
 - [emotional-resonance-in-theatre](../tags/emotional-resonance-in-theatre.md)
 - [literary-therapy-for-dementia](../tags/literary-therapy-for-dementia.md)
 - [community-building-through-performance](../tags/community-building-through-performance.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [focus-group-discussion](focus-group-discussion.md)
-- [theme-performances](theme-performances.md)
+- **focus-group-discussion**
+- **theme-performances**
 
 ## See Also
 

@@ -27,7 +27,7 @@ This chapter explores the role of music in public health by examining its potent
 
 ## Key Concepts
 
-- [salutogenic approach](../topics/salutogenic approach.md)
+- [salutogenic approach](../topics/salutogenic-approach.md)
 - [emotional-and-cognitive-resources](../topics/emotional-and-cognitive-resources.md)
 
 ## Tags
@@ -35,7 +35,7 @@ This chapter explores the role of music in public health by examining its potent
 - [public-health](../tags/public-health.md)
 - [music-therapy](../tags/music-therapy.md)
 - [cultural-participation](../tags/cultural-participation.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

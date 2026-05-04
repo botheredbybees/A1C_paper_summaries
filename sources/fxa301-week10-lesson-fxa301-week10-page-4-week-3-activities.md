@@ -24,16 +24,16 @@ Week 10 of the FXA301 Arts in the Community course includes a focus on music the
 
 ## Key Concepts
 
-- [arts therapy](../topics/arts therapy.md)
-- [eating disorders](../topics/eating disorders.md)
-- [PTSD](../topics/PTSD.md)
+- [arts therapy](../topics/arts-therapy.md)
+- [eating disorders](../topics/eating-disorders.md)
+- [PTSD](../topics/ptsd.md)
 
 ## Tags
 
 - [music-therapy](../tags/music-therapy.md)
 - [mental-health](../tags/mental-health.md)
 - [creative-collage](../tags/creative-collage.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

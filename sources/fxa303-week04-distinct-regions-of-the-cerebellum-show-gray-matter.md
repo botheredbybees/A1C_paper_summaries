@@ -32,11 +32,11 @@ This research article conducts an anatomical likelihood estimate (ALE) meta-anal
 - [cerebellum-anatomy](../tags/cerebellum-anatomy.md)
 - [neurodevelopmental-disorders](../tags/neurodevelopmental-disorders.md)
 - [gray-matter-changes](../tags/gray-matter-changes.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [meta-analysis](meta-analysis.md)
+- **meta-analysis**
 
 ## See Also
 

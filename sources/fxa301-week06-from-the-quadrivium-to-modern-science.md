@@ -32,11 +32,11 @@ Matteo Valleriani's article, 'From the Quadrivium to Modern Science,' explores t
 - [medieval-education](../tags/medieval-education.md)
 - [history-of-science](../tags/history-of-science.md)
 - [quadrivium](../tags/quadrivium.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [historical-analysis](historical-analysis.md)
+- **historical-analysis**
 
 ## See Also
 

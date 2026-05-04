@@ -24,7 +24,7 @@ The ARTZ program, founded by John Zeisel and Sean Caulfield, aims to provide art
 
 ## Key Concepts
 
-- [personhood-first approach](../topics/personhood-first approach.md)
+- [personhood-first approach](../topics/personhood-first-approach.md)
 - [art-therapy-for-alzheimers](../topics/art-therapy-for-alzheimers.md)
 - [dementia-awareness-in-museums](../topics/dementia-awareness-in-museums.md)
 
@@ -33,7 +33,7 @@ The ARTZ program, founded by John Zeisel and Sean Caulfield, aims to provide art
 - [arts-and-dementia-care](../tags/arts-and-dementia-care.md)
 - [alzheimer-programs](../tags/alzheimer-programs.md)
 - [museum-experiences](../tags/museum-experiences.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

@@ -24,7 +24,7 @@ This commentary introduces the National Arts and Health Framework endorsed by Au
 
 ## Key Concepts
 
-- [National Arts and Health Framework](../topics/National Arts and Health Framework.md)
+- [National Arts and Health Framework](../topics/national-arts-and-health-framework.md)
 - [health-environment-integration](../topics/health-environment-integration.md)
 - [art-therapy-versus-general-engagement](../topics/art-therapy-versus-general-engagement.md)
 
@@ -35,11 +35,11 @@ This commentary introduces the National Arts and Health Framework endorsed by Au
 - [mental-well-being](../tags/mental-well-being.md)
 - [social-connections](../tags/social-connections.md)
 - [physical-activity](../tags/physical-activity.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [lexicon-development](lexicon-development.md)
+- **lexicon-development**
 
 ## See Also
 

@@ -7,7 +7,7 @@ doi: https://doi.org/10.1111/j.1365-2354.2006.00663.x
 appearances:
   - unit: FXA301
     week: "05"
-tags: ["art therapy", "identity maintenance", "chronic illness", "case studies", "cancer", "fxa301"]
+tags: ["art-therapy", "identity-maintenance", "chronic-illness", "case-studies", "cancer", "fxa301"]
 key_concepts: ["Art Therapy", "Identity Maintenance", "Chronic Illness Coping"]
 methods: []
 slug: fxa301-week05-web-article-reynolds-2006
@@ -24,18 +24,18 @@ This qualitative research investigates the role of art-making as a leisure activ
 
 ## Key Concepts
 
-- [Art Therapy](../topics/Art Therapy.md)
-- [Identity Maintenance](../topics/Identity Maintenance.md)
-- [Chronic Illness Coping](../topics/Chronic Illness Coping.md)
+- [Art Therapy](../topics/art-therapy.md)
+- [Identity Maintenance](../topics/identity-maintenance.md)
+- [Chronic Illness Coping](../topics/chronic-illness-coping.md)
 
 ## Tags
 
-- [art therapy](../tags/art therapy.md)
-- [identity maintenance](../tags/identity maintenance.md)
-- [chronic illness](../tags/chronic illness.md)
-- [case studies](../tags/case studies.md)
+- [art therapy](../tags/art-therapy.md)
+- [identity maintenance](../tags/identity-maintenance.md)
+- [chronic illness](../tags/chronic-illness.md)
+- [case studies](../tags/case-studies.md)
 - [cancer](../tags/cancer.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

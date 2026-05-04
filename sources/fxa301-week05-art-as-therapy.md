@@ -24,9 +24,9 @@ The article 'Art as Therapy' by James Haywood Rolling Jr., in the role of Editor
 
 ## Key Concepts
 
-- [therapeutic functions of art](../topics/therapeutic functions of art.md)
-- [emotional healing through creativity](../topics/emotional healing through creativity.md)
-- [collaborative teaching approaches](../topics/collaborative teaching approaches.md)
+- [therapeutic functions of art](../topics/therapeutic-functions-of-art.md)
+- [emotional healing through creativity](../topics/emotional-healing-through-creativity.md)
+- [collaborative teaching approaches](../topics/collaborative-teaching-approaches.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ The article 'Art as Therapy' by James Haywood Rolling Jr., in the role of Editor
 - [educational-practices](../tags/educational-practices.md)
 - [mental-health](../tags/mental-health.md)
 - [student-wellbeing](../tags/student-wellbeing.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

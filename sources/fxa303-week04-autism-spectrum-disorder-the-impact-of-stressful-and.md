@@ -33,11 +33,11 @@ This paper reviews emerging research on the impact of stressful and traumatic li
 - [autism-spectrum-disorder](../tags/autism-spectrum-disorder.md)
 - [trauma-assessment](../tags/trauma-assessment.md)
 - [mental-health-interventions](../tags/mental-health-interventions.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [systematic-review](systematic-review.md)
+- **systematic-review**
 
 ## See Also
 

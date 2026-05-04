@@ -25,8 +25,8 @@ This study examines the impact of music therapeutic caregiving (MTC), specifical
 ## Key Concepts
 
 - [music therapeutic caregiving (MTC)](../topics/music therapeutic caregiving (MTC).md)
-- [expressions of resistance](../topics/expressions of resistance.md)
-- [positive emotions](../topics/positive emotions.md)
+- [expressions of resistance](../topics/expressions-of-resistance.md)
+- [positive emotions](../topics/positive-emotions.md)
 
 ## Tags
 
@@ -35,12 +35,12 @@ This study examines the impact of music therapeutic caregiving (MTC), specifical
 - [quality-of-life](../tags/quality-of-life.md)
 - [caregiver-intervention](../tags/caregiver-intervention.md)
 - [morning-routines](../tags/morning-routines.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [video observation](video observation.md)
-- [intervention study](intervention study.md)
+- **video observation**
+- **intervention study**
 
 ## See Also
 

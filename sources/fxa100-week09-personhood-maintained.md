@@ -25,8 +25,8 @@ The chapter 'Personhood Maintained' by Tom Kitwood addresses the evolving approa
 ## Key Concepts
 
 - [personhood](../topics/personhood.md)
-- [therapeutic interventions](../topics/therapeutic interventions.md)
-- [biographical knowledge](../topics/biographical knowledge.md)
+- [therapeutic interventions](../topics/therapeutic-interventions.md)
+- [biographical knowledge](../topics/biographical-knowledge.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ The chapter 'Personhood Maintained' by Tom Kitwood addresses the evolving approa
 - [therapeutic-interventions](../tags/therapeutic-interventions.md)
 - [reminiscence-work](../tags/reminiscence-work.md)
 - [social-factors](../tags/social-factors.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

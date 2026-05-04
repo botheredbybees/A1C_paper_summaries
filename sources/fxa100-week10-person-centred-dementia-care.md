@@ -33,11 +33,11 @@ The document discusses the VIPS Framework, a tool designed to improve person-cen
 - [person-centred-care](../tags/person-centred-care.md)
 - [dementia-support](../tags/dementia-support.md)
 - [vips-framework](../tags/vips-framework.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [framework-development](framework-development.md)
+- **framework-development**
 
 ## See Also
 

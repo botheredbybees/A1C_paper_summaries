@@ -36,12 +36,12 @@ The 'Song of Life' (SOL) study protocol details a randomized controlled trial as
 - [randomized-trial](../tags/randomized-trial.md)
 - [spiritual-wellbeing](../tags/spiritual-wellbeing.md)
 - [psychobiological-effects](../tags/psychobiological-effects.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [randomized-controlled-trial](randomized-controlled-trial.md)
-- [qualitative-analysis](qualitative-analysis.md)
+- **randomized-controlled-trial**
+- **qualitative-analysis**
 
 ## See Also
 

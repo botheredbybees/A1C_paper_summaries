@@ -34,7 +34,7 @@ This week's LAW122 lesson focuses on developing visual storytelling skills throu
 - [visual-storytelling](../tags/visual-storytelling.md)
 - [collage-making](../tags/collage-making.md)
 - [narrative-voice](../tags/narrative-voice.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 

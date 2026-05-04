@@ -33,11 +33,11 @@ This study examines the feasibility and short-term impact of a museum-based art 
 - [eating-disorders](../tags/eating-disorders.md)
 - [art-therapy](../tags/art-therapy.md)
 - [museum-interventions](../tags/museum-interventions.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

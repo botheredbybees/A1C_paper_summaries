@@ -24,9 +24,9 @@ This article discusses the cultural significance of Tasmanian Aboriginal shell n
 
 ## Key Concepts
 
-- [Cultural Exchange](../topics/Cultural Exchange.md)
-- [Environmental Impact](../topics/Environmental Impact.md)
-- [Traditional Practice](../topics/Traditional Practice.md)
+- [Cultural Exchange](../topics/cultural-exchange.md)
+- [Environmental Impact](../topics/environmental-impact.md)
+- [Traditional Practice](../topics/traditional-practice.md)
 
 ## Tags
 
@@ -35,7 +35,7 @@ This article discusses the cultural significance of Tasmanian Aboriginal shell n
 - [cultural-practice](../tags/cultural-practice.md)
 - [environmental-changes](../tags/environmental-changes.md)
 - [indigenous-art](../tags/indigenous-art.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

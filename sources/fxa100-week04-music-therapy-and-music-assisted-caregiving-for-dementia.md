@@ -24,9 +24,9 @@ The MJHHS Dementia Care project details a three-year initiative funded by New Yo
 
 ## Key Concepts
 
-- [music therapy](../topics/music therapy.md)
-- [agitation reduction](../topics/agitation reduction.md)
-- [brain plasticity](../topics/brain plasticity.md)
+- [music therapy](../topics/music-therapy.md)
+- [agitation reduction](../topics/agitation-reduction.md)
+- [brain plasticity](../topics/brain-plasticity.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ The MJHHS Dementia Care project details a three-year initiative funded by New Yo
 - [patient-outcomes](../tags/patient-outcomes.md)
 - [cost-benefit-analysis](../tags/cost-benefit-analysis.md)
 - [quality-of-life](../tags/quality-of-life.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [program evaluation](program evaluation.md)
+- **program evaluation**
 
 ## See Also
 

@@ -36,11 +36,11 @@ Daisy Fancourt's chapter 'Fact File 10: Public Health' explores the intersection
 - [cultural-engagement](../tags/cultural-engagement.md)
 - [mental-health-outcomes](../tags/mental-health-outcomes.md)
 - [physical-wellbeing](../tags/physical-wellbeing.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [systematic-review](systematic-review.md)
+- **systematic-review**
 
 ## See Also
 

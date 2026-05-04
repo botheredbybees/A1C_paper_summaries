@@ -33,11 +33,11 @@ This chapter explores the role of research in arts and health interventions, que
 - [arts-and-health](../tags/arts-and-health.md)
 - [research-methods](../tags/research-methods.md)
 - [health-interventions](../tags/health-interventions.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [systematic-review](systematic-review.md)
+- **systematic-review**
 
 ## See Also
 

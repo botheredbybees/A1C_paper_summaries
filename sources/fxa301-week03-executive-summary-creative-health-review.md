@@ -24,9 +24,9 @@ The document emphasizes the fundamental role of creativity in health and wellbei
 
 ## Key Concepts
 
-- [creativity as determinant of health](../topics/creativity as determinant of health.md)
-- [integrated care systems](../topics/integrated care systems.md)
-- [arts in healthcare initiatives](../topics/arts in healthcare initiatives.md)
+- [creativity as determinant of health](../topics/creativity-as-determinant-of-health.md)
+- [integrated care systems](../topics/integrated-care-systems.md)
+- [arts in healthcare initiatives](../topics/arts-in-healthcare-initiatives.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ The document emphasizes the fundamental role of creativity in health and wellbei
 - [chronic-disease-management](../tags/chronic-disease-management.md)
 - [community-engagement](../tags/community-engagement.md)
 - [public-policy](../tags/public-policy.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [systematic review](systematic review.md)
+- **systematic review**
 
 ## See Also
 

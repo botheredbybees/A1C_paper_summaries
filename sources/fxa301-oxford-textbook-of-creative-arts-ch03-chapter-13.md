@@ -36,7 +36,7 @@ This chapter explores the use of arts in enhancing wellness, access to healthcar
 - [arts-for-health](../tags/arts-for-health.md)
 - [community-wellness](../tags/community-wellness.md)
 - [health-literacy](../tags/health-literacy.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

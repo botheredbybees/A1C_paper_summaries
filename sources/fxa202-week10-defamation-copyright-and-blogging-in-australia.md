@@ -24,9 +24,9 @@ The document discusses legal issues faced by Australian food bloggers, specifica
 
 ## Key Concepts
 
-- [fair dealing exceptions](../topics/fair dealing exceptions.md)
-- [legal protection for recipes](../topics/legal protection for recipes.md)
-- [attribution rights](../topics/attribution rights.md)
+- [fair dealing exceptions](../topics/fair-dealing-exceptions.md)
+- [legal protection for recipes](../topics/legal-protection-for-recipes.md)
+- [attribution rights](../topics/attribution-rights.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ The document discusses legal issues faced by Australian food bloggers, specifica
 - [food-blogging](../tags/food-blogging.md)
 - [intellectual-property](../tags/intellectual-property.md)
 - [moral-rights](../tags/moral-rights.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

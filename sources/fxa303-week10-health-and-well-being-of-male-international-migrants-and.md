@@ -38,7 +38,7 @@ This research article examines the health and well-being of male international m
 - [male-well-being](../tags/male-well-being.md)
 - [cross-sectional-research](../tags/cross-sectional-research.md)
 - [longitudinal-analysis](../tags/longitudinal-analysis.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

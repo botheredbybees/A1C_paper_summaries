@@ -24,10 +24,10 @@ This review article discusses the regulation of autophagy-mediated pathways in A
 
 ## Key Concepts
 
-- [autophagy-mediated pathways](../topics/autophagy-mediated pathways.md)
-- [protein aggregation](../topics/protein aggregation.md)
-- [non-pharmacological strategies](../topics/non-pharmacological strategies.md)
-- [brain-specific autophagy markers](../topics/brain-specific autophagy markers.md)
+- [autophagy-mediated pathways](../topics/autophagy-mediated-pathways.md)
+- [protein aggregation](../topics/protein-aggregation.md)
+- [non-pharmacological strategies](../topics/non-pharmacological-strategies.md)
+- [brain-specific autophagy markers](../topics/brain-specific-autophagy-markers.md)
 
 ## Tags
 
@@ -37,11 +37,11 @@ This review article discusses the regulation of autophagy-mediated pathways in A
 - [neurodegeneration-prevention](../tags/neurodegeneration-prevention.md)
 - [dietary-strategies](../tags/dietary-strategies.md)
 - [cognitive-health](../tags/cognitive-health.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [systematic review](systematic review.md)
+- **systematic review**
 
 ## See Also
 

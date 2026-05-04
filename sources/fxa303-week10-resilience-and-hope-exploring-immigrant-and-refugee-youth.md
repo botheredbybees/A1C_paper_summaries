@@ -34,7 +34,7 @@ The article examines the use of community-based arts practice to foster resilien
 - [refugee-experience](../tags/refugee-experience.md)
 - [community-arts-practice](../tags/community-arts-practice.md)
 - [mental-well-being](../tags/mental-well-being.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

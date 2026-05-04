@@ -38,12 +38,12 @@ Martin Kemp's paper explores the use of drama and theatre in promoting emotional
 - [arts-interventions](../tags/arts-interventions.md)
 - [wellbeing-promotion](../tags/wellbeing-promotion.md)
 - [drama-therapy](../tags/drama-therapy.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [process-evaluation](process-evaluation.md)
-- [outcome-evaluation](outcome-evaluation.md)
+- **process-evaluation**
+- **outcome-evaluation**
 
 ## See Also
 

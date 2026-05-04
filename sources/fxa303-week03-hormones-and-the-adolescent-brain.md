@@ -33,11 +33,11 @@ The article explores the impact of hormones on adolescent brain development. Dur
 - [adolescent-development](../tags/adolescent-development.md)
 - [brain-plasticity](../tags/brain-plasticity.md)
 - [hormonal-influences](../tags/hormonal-influences.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [review](review.md)
+- **review**
 
 ## See Also
 

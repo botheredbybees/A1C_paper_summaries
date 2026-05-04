@@ -39,11 +39,11 @@ Clark emphasizes that overcoming negative stereotypes not only benefits those di
 - [inclusive-education](../tags/inclusive-education.md)
 - [experiential-learning](../tags/experiential-learning.md)
 - [social-inclusion](../tags/social-inclusion.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [experiential-exercises](experiential-exercises.md)
+- **experiential-exercises**
 
 ## See Also
 

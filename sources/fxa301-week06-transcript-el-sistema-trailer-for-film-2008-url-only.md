@@ -24,7 +24,7 @@ This trailer introduces the documentary film about Venezuela's national music ed
 
 ## Key Concepts
 
-- [El Sistema](../topics/El Sistema.md)
+- [El Sistema](../topics/el-sistema.md)
 - [music-therapy](../topics/music-therapy.md)
 
 ## Tags
@@ -32,7 +32,7 @@ This trailer introduces the documentary film about Venezuela's national music ed
 - [music-education](../tags/music-education.md)
 - [documentary-trailer](../tags/documentary-trailer.md)
 - [venezuela-sistema](../tags/venezuela-sistema.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

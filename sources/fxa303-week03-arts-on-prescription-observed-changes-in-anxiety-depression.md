@@ -25,8 +25,8 @@ This study evaluates the impact of Arts on Prescription (AoP) interventions as p
 ## Key Concepts
 
 - [Arts on Prescription (AoP)](../topics/Arts on Prescription (AoP).md)
-- [social prescribing](../topics/social prescribing.md)
-- [mental well-being](../topics/mental well-being.md)
+- [social prescribing](../topics/social-prescribing.md)
+- [mental well-being](../topics/mental-well-being.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ This study evaluates the impact of Arts on Prescription (AoP) interventions as p
 - [mental-health-interventions](../tags/mental-health-interventions.md)
 - [anxiety-treatment](../tags/anxiety-treatment.md)
 - [depression-management](../tags/depression-management.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [observational longitudinal study](observational longitudinal study.md)
+- **observational longitudinal study**
 
 ## See Also
 

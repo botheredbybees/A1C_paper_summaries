@@ -27,15 +27,15 @@ The chapter discusses how aesthetic spaces can promote health and well-being by 
 
 ## Key Concepts
 
-- [neuroaesthetic principles](../topics/neuroaesthetic principles.md)
-- [sensory experiences](../topics/sensory experiences.md)
+- [neuroaesthetic principles](../topics/neuroaesthetic-principles.md)
+- [sensory experiences](../topics/sensory-experiences.md)
 
 ## Tags
 
 - [neuroaesthetics](../tags/neuroaesthetics.md)
 - [therapeutic-environments](../tags/therapeutic-environments.md)
 - [interdisciplinary-collaboration](../tags/interdisciplinary-collaboration.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

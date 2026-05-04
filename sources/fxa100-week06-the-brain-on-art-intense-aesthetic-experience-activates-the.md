@@ -7,7 +7,7 @@ doi: https://doi.org/10.3389/fnhum.2012.00066
 appearances:
   - unit: FXA100
     week: "06"
-tags: ["neuroaesthetics", "brain-networks", "aesthetic-experience", "fMRI-study", "default-mode", "fxa100"]
+tags: ["neuroaesthetics", "brain-networks", "aesthetic-experience", "fmri-study", "default-mode", "fxa100"]
 key_concepts: ["default mode network", "individual differences", "aesthetic ratings"]
 methods: ["functional magnetic resonance imaging", "behavioral analysis"]
 slug: fxa100-week06-the-brain-on-art-intense-aesthetic-experience-activates-the
@@ -24,23 +24,23 @@ This research article investigates the neural basis of aesthetic experiences in 
 
 ## Key Concepts
 
-- [default mode network](../topics/default mode network.md)
-- [individual differences](../topics/individual differences.md)
-- [aesthetic ratings](../topics/aesthetic ratings.md)
+- [default mode network](../topics/default-mode-network.md)
+- [individual differences](../topics/individual-differences.md)
+- [aesthetic ratings](../topics/aesthetic-ratings.md)
 
 ## Tags
 
 - [neuroaesthetics](../tags/neuroaesthetics.md)
 - [brain-networks](../tags/brain-networks.md)
 - [aesthetic-experience](../tags/aesthetic-experience.md)
-- [fMRI-study](../tags/fMRI-study.md)
+- [fMRI-study](../tags/fmri-study.md)
 - [default-mode](../tags/default-mode.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [functional magnetic resonance imaging](functional magnetic resonance imaging.md)
-- [behavioral analysis](behavioral analysis.md)
+- **functional magnetic resonance imaging**
+- **behavioral analysis**
 
 ## See Also
 

@@ -34,12 +34,12 @@ This research article investigates the effectiveness of medical clowns in enhanc
 - [hospital-environment](../tags/hospital-environment.md)
 - [patient-satisfaction](../tags/patient-satisfaction.md)
 - [behavioral-outcomes](../tags/behavioral-outcomes.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [case-study](case-study.md)
-- [observational-research](observational-research.md)
+- **case-study**
+- **observational-research**
 
 ## See Also
 

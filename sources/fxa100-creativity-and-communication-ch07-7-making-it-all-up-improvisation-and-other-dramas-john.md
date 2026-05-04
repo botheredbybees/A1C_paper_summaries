@@ -7,13 +7,14 @@ apa7: "Killick, J. (2011). Making it all up: Improvisation and other dramas [Cha
 doi: null
 appearances:
   - unit: FXA100
+  - unit: FXA100
 tags: ["dementia-care", "improvisation-theater", "social-interaction", "fxa100"]
 key_concepts: ["spontaneity in dementia care", "humor therapy"]
 methods: []
 slug: fxa100-creativity-and-communication-ch07-7-making-it-all-up-improvisation-and-other-dramas-john
 related: ["dementia-care", "social-interaction"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-04
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-creativity-and-communication-ch07-7-making-it-all-up-improvisation-and-other-dramas-john.md_
@@ -24,15 +25,15 @@ This chapter discusses the benefits of improvisational drama for individuals wit
 
 ## Key Concepts
 
-- [spontaneity in dementia care](../topics/spontaneity in dementia care.md)
-- [humor therapy](../topics/humor therapy.md)
+- [spontaneity in dementia care](../topics/spontaneity-in-dementia-care.md)
+- [humor therapy](../topics/humor-therapy.md)
 
 ## Tags
 
 - [dementia-care](../tags/dementia-care.md)
 - [improvisation-theater](../tags/improvisation-theater.md)
 - [social-interaction](../tags/social-interaction.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

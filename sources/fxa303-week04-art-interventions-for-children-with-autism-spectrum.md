@@ -24,9 +24,9 @@ This scoping review evaluates the efficacy of creative arts interventions for ch
 
 ## Key Concepts
 
-- [creative arts interventions](../topics/creative arts interventions.md)
-- [Occupational Therapy Practice Framework](../topics/Occupational Therapy Practice Framework.md)
-- [performance skills and social interaction](../topics/performance skills and social interaction.md)
+- [creative arts interventions](../topics/creative-arts-interventions.md)
+- [Occupational Therapy Practice Framework](../topics/occupational-therapy-practice-framework.md)
+- [performance skills and social interaction](../topics/performance-skills-and-social-interaction.md)
 
 ## Tags
 
@@ -34,11 +34,11 @@ This scoping review evaluates the efficacy of creative arts interventions for ch
 - [art-interventions](../tags/art-interventions.md)
 - [occupational-therapy](../tags/occupational-therapy.md)
 - [scoping-review](../tags/scoping-review.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [scoping review](scoping review.md)
+- **scoping review**
 
 ## See Also
 

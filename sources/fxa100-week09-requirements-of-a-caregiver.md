@@ -24,9 +24,9 @@ Tom Kitwood’s chapter ‘Requirements of a caregiver’ explores the profound 
 
 ## Key Concepts
 
-- [personhood in dementia care](../topics/personhood in dementia care.md)
-- [holistic approaches to caregiving](../topics/holistic approaches to caregiving.md)
-- [emotional and intellectual resourcefulness](../topics/emotional and intellectual resourcefulness.md)
+- [personhood in dementia care](../topics/personhood-in-dementia-care.md)
+- [holistic approaches to caregiving](../topics/holistic-approaches-to-caregiving.md)
+- [emotional and intellectual resourcefulness](../topics/emotional-and-intellectual-resourcefulness.md)
 
 ## Tags
 
@@ -36,11 +36,11 @@ Tom Kitwood’s chapter ‘Requirements of a caregiver’ explores the profound 
 - [person-centered-care](../tags/person-centered-care.md)
 - [interpersonal-interaction](../tags/interpersonal-interaction.md)
 - [empathetic-engagement](../tags/empathetic-engagement.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [theoretical exploration](theoretical exploration.md)
+- **theoretical exploration**
 
 ## See Also
 

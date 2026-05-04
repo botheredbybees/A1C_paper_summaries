@@ -24,15 +24,15 @@ This is an authentication request page for Shibboleth, a federated identity mana
 
 ## Key Concepts
 
-- [federated identity management](../topics/federated identity management.md)
-- [secure access](../topics/secure access.md)
+- [federated identity management](../topics/federated-identity-management.md)
+- [secure access](../topics/secure-access.md)
 
 ## Tags
 
 - [authentication](../tags/authentication.md)
 - [shibboleth](../tags/shibboleth.md)
 - [internet-security](../tags/internet-security.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

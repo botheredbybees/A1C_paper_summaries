@@ -33,7 +33,7 @@ This article by James Randerson, the science and environment news editor of the 
 - [freelance-writing](../tags/freelance-writing.md)
 - [journalism-strategies](../tags/journalism-strategies.md)
 - [editorial-relations](../tags/editorial-relations.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 

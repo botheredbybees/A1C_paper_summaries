@@ -24,9 +24,9 @@ This study explores how therapeutic clowns, often referred to as elder-clowns in
 
 ## Key Concepts
 
-- [creative engagement](../topics/creative engagement.md)
-- [cultural relevance](../topics/cultural relevance.md)
-- [emotional support](../topics/emotional support.md)
+- [creative engagement](../topics/creative-engagement.md)
+- [cultural relevance](../topics/cultural-relevance.md)
+- [emotional support](../topics/emotional-support.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ This study explores how therapeutic clowns, often referred to as elder-clowns in
 - [nursing-homes](../tags/nursing-homes.md)
 - [quality-of-life](../tags/quality-of-life.md)
 - [emotional-support](../tags/emotional-support.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [qualitative interviews](qualitative interviews.md)
+- **qualitative interviews**
 
 ## See Also
 

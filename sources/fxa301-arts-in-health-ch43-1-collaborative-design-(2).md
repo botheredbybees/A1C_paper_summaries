@@ -24,8 +24,8 @@ The chapter discusses the formation of partnerships between arts organizations a
 
 ## Key Concepts
 
-- [case-for-support model](../topics/case-for-support model.md)
-- [collaborative-design approach](../topics/collaborative-design approach.md)
+- [case-for-support model](../topics/case-for-support-model.md)
+- [collaborative-design approach](../topics/collaborative-design-approach.md)
 - [tender-process](../topics/tender-process.md)
 
 ## Tags
@@ -33,7 +33,7 @@ The chapter discusses the formation of partnerships between arts organizations a
 - [arts-in-health](../tags/arts-in-health.md)
 - [partnership-development](../tags/partnership-development.md)
 - [project-brief](../tags/project-brief.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

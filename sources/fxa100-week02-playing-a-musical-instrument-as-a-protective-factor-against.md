@@ -24,9 +24,9 @@ This research article explores the potential protective effect of playing a musi
 
 ## Key Concepts
 
-- [protective factors against dementia](../topics/protective factors against dementia.md)
-- [playing a musical instrument](../topics/playing a musical instrument.md)
-- [discordant twin pairs](../topics/discordant twin pairs.md)
+- [protective factors against dementia](../topics/protective-factors-against-dementia.md)
+- [playing a musical instrument](../topics/playing-a-musical-instrument.md)
+- [discordant twin pairs](../topics/discordant-twin-pairs.md)
 
 ## Tags
 
@@ -36,11 +36,11 @@ This research article explores the potential protective effect of playing a musi
 - [twin-research](../tags/twin-research.md)
 - [music-therapy](../tags/music-therapy.md)
 - [neuroprotection](../tags/neuroprotection.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [population-based twin study](population-based twin study.md)
+- **population-based twin study**
 
 ## See Also
 

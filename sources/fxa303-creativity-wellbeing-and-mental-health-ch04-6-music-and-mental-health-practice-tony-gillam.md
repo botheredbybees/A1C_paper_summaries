@@ -24,16 +24,16 @@ This chapter explores the author's personal experiences using music in mental he
 
 ## Key Concepts
 
-- [Music Workshop Project](../topics/Music Workshop Project.md)
-- [evidence-based practice](../topics/evidence-based practice.md)
-- [community music movement](../topics/community music movement.md)
+- [Music Workshop Project](../topics/music-workshop-project.md)
+- [evidence-based practice](../topics/evidence-based-practice.md)
+- [community music movement](../topics/community-music-movement.md)
 
 ## Tags
 
 - [music-therapy](../tags/music-therapy.md)
 - [mental-health-practice](../tags/mental-health-practice.md)
 - [community-music](../tags/community-music.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

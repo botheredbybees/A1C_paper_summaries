@@ -7,7 +7,7 @@ apa7: "Craig, C., & Killick, J. (2011). Putting the IT into creativity: Explorin
 doi: null
 appearances:
   - unit: FXA100
-tags: ["technology-assisted therapy", "dementia care", "creative expression", "fxa100"]
+tags: ["technology-assisted-therapy", "dementia-care", "creative-expression", "fxa100"]
 key_concepts: ["technological facilitation of creativity", "ethical considerations in digital sharing"]
 methods: []
 slug: fxa100-creativity-and-communication-ch02-15-putting-the-it-into-creativity-exploring-the-creative
@@ -24,15 +24,15 @@ This chapter discusses how technology can serve as a catalyst for creativity amo
 
 ## Key Concepts
 
-- [technological facilitation of creativity](../topics/technological facilitation of creativity.md)
-- [ethical considerations in digital sharing](../topics/ethical considerations in digital sharing.md)
+- [technological facilitation of creativity](../topics/technological-facilitation-of-creativity.md)
+- [ethical considerations in digital sharing](../topics/ethical-considerations-in-digital-sharing.md)
 
 ## Tags
 
-- [technology-assisted therapy](../tags/technology-assisted therapy.md)
-- [dementia care](../tags/dementia care.md)
-- [creative expression](../tags/creative expression.md)
-- [fxa100](../tags/fxa100.md)
+- [technology-assisted therapy](../tags/technology-assisted-therapy.md)
+- [dementia care](../tags/dementia-care.md)
+- [creative expression](../tags/creative-expression.md)
+- fxa100
 
 ## Methods
 

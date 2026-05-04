@@ -32,7 +32,7 @@ The lesson explores the public health perspective on creative arts and their rec
 - [public-health](../tags/public-health.md)
 - [government-policy](../tags/government-policy.md)
 - [creative-arts](../tags/creative-arts.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

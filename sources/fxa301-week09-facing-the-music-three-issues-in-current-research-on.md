@@ -33,11 +33,11 @@ This opinion article by Stahl and Kotz discusses three critical issues in curren
 - [aphasia-research](../tags/aphasia-research.md)
 - [singing-therapy](../tags/singing-therapy.md)
 - [formulaic-language](../tags/formulaic-language.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

@@ -28,11 +28,11 @@ The thesis concludes by discussing broader implications for mental health practi
 
 ## Key Concepts
 
-- [art therapy](../topics/art therapy.md)
-- [social action](../topics/social action.md)
-- [PTSD treatment](../topics/PTSD treatment.md)
-- [cultural sensitivity](../topics/cultural sensitivity.md)
-- [community engagement](../topics/community engagement.md)
+- [art therapy](../topics/art-therapy.md)
+- [social action](../topics/social-action.md)
+- [PTSD treatment](../topics/ptsd-treatment.md)
+- [cultural sensitivity](../topics/cultural-sensitivity.md)
+- [community engagement](../topics/community-engagement.md)
 
 ## Tags
 
@@ -41,12 +41,12 @@ The thesis concludes by discussing broader implications for mental health practi
 - [social-action](../tags/social-action.md)
 - [mental-health-intervention](../tags/mental-health-intervention.md)
 - [trauma-recovery](../tags/trauma-recovery.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case study](case study.md)
-- [literature review](literature review.md)
+- **case study**
+- **literature review**
 
 ## See Also
 

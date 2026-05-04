@@ -33,11 +33,11 @@ The document 'Centre Stage +20' is a comprehensive research report by Rhona Dunn
 - [youth-theatre-ireland](../tags/youth-theatre-ireland.md)
 - [community-engagement](../tags/community-engagement.md)
 - [theatre-for-wellbeing](../tags/theatre-for-wellbeing.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

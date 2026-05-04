@@ -24,7 +24,7 @@ This chapter discusses breathing techniques and body-mapping activities as thera
 
 ## Key Concepts
 
-- [vagal system](../topics/vagal system.md)
+- [vagal system](../topics/vagal-system.md)
 - [autonomic nervous system (ANS)](../topics/autonomic nervous system (ANS).md)
 - [body-mapping](../topics/body-mapping.md)
 
@@ -33,7 +33,7 @@ This chapter discusses breathing techniques and body-mapping activities as thera
 - [expressive-arts-therapy](../tags/expressive-arts-therapy.md)
 - [trauma-treatment](../tags/trauma-treatment.md)
 - [breathing-exercises](../tags/breathing-exercises.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

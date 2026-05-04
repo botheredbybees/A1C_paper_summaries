@@ -25,8 +25,8 @@ Simone Dalton's critical reflection on her 'Finding Joy' photo essay project exa
 ## Key Concepts
 
 - [resilience](../topics/resilience.md)
-- [social prescribing](../topics/social prescribing.md)
-- [visual storytelling](../topics/visual storytelling.md)
+- [social prescribing](../topics/social-prescribing.md)
+- [visual storytelling](../topics/visual-storytelling.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ Simone Dalton's critical reflection on her 'Finding Joy' photo essay project exa
 - [social-prescribing](../tags/social-prescribing.md)
 - [mindful-photography](../tags/mindful-photography.md)
 - [lived-experience](../tags/lived-experience.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [online survey](online survey.md)
+- **online survey**
 
 ## See Also
 

@@ -24,9 +24,9 @@ This research article evaluates the efficacy of a visual arts program, specifica
 
 ## Key Concepts
 
-- [engagement enhancement](../topics/engagement enhancement.md)
-- [self-reported quality of life](../topics/self-reported quality of life.md)
-- [visual arts intervention](../topics/visual arts intervention.md)
+- [engagement enhancement](../topics/engagement-enhancement.md)
+- [self-reported quality of life](../topics/self-reported-quality-of-life.md)
+- [visual arts intervention](../topics/visual-arts-intervention.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ This research article evaluates the efficacy of a visual arts program, specifica
 - [quality-of-life](../tags/quality-of-life.md)
 - [cognitive-function](../tags/cognitive-function.md)
 - [communication-skills](../tags/communication-skills.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [ABA reversal design](ABA reversal design.md)
+- **ABA reversal design**
 
 ## See Also
 

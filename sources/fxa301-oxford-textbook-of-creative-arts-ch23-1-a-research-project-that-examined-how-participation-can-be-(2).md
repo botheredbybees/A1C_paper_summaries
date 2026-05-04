@@ -32,7 +32,7 @@ This chapter explores how creative arts initiatives contribute to cultural devel
 - [creative-arts](../tags/creative-arts.md)
 - [cultural-development](../tags/cultural-development.md)
 - [public-health](../tags/public-health.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

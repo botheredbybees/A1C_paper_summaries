@@ -26,9 +26,9 @@ The preservation of musical abilities in individuals with dementia offers a wind
 
 ## Key Concepts
 
-- [musical cognition](../topics/musical cognition.md)
-- [semantic dementia](../topics/semantic dementia.md)
-- [cognitive rehabilitation](../topics/cognitive rehabilitation.md)
+- [musical cognition](../topics/musical-cognition.md)
+- [semantic dementia](../topics/semantic-dementia.md)
+- [cognitive rehabilitation](../topics/cognitive-rehabilitation.md)
 
 ## Tags
 
@@ -37,11 +37,11 @@ The preservation of musical abilities in individuals with dementia offers a wind
 - [neuroscience-of-music](../tags/neuroscience-of-music.md)
 - [brain-function](../tags/brain-function.md)
 - [therapeutic-benefits](../tags/therapeutic-benefits.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

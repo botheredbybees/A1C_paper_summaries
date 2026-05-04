@@ -32,7 +32,7 @@ The transcript captures a session of the Elderflowers arts-in-health program run
 - [arts-in-health](../tags/arts-in-health.md)
 - [dementia-care](../tags/dementia-care.md)
 - [hospital-activities](../tags/hospital-activities.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

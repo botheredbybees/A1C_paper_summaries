@@ -24,15 +24,15 @@ The chapter discusses the evolution of public health waves in response to societ
 
 ## Key Concepts
 
-- [obesity epidemic](obesity epidemic.md)
-- [health inequality](health inequality.md)
+- **obesity epidemic**
+- **health inequality**
 
 ## Tags
 
-- [public-health](public-health.md)
-- [wave-theory](wave-theory.md)
-- [modernity-challenges](modernity-challenges.md)
-- [fxa301](fxa301.md)
+- **public-health**
+- **wave-theory**
+- **modernity-challenges**
+- **fxa301**
 
 ## Methods
 

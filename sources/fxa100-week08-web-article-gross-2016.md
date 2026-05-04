@@ -24,9 +24,9 @@ The MAC.ART program is an innovative initiative by Dr. Julie Gross McAdam to enh
 
 ## Key Concepts
 
-- [person-centered care](../topics/person-centered care.md)
-- [art therapy](../topics/art therapy.md)
-- [communal art projects](../topics/communal art projects.md)
+- [person-centered care](../topics/person-centered-care.md)
+- [art therapy](../topics/art-therapy.md)
+- [communal art projects](../topics/communal-art-projects.md)
 
 ## Tags
 
@@ -34,7 +34,7 @@ The MAC.ART program is an innovative initiative by Dr. Julie Gross McAdam to enh
 - [dementia-therapy](../tags/dementia-therapy.md)
 - [community-art](../tags/community-art.md)
 - [recreation-therapy](../tags/recreation-therapy.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

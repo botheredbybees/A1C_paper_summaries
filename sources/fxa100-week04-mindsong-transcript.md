@@ -28,9 +28,9 @@ The relevance to creative arts and health lies in demonstrating how therapeutic 
 
 ## Key Concepts
 
-- [music therapy](../topics/music therapy.md)
-- [emotional re-engagement](../topics/emotional re-engagement.md)
-- [therapeutic interventions](../topics/therapeutic interventions.md)
+- [music therapy](../topics/music-therapy.md)
+- [emotional re-engagement](../topics/emotional-re-engagement.md)
+- [therapeutic interventions](../topics/therapeutic-interventions.md)
 
 ## Tags
 
@@ -39,11 +39,11 @@ The relevance to creative arts and health lies in demonstrating how therapeutic 
 - [arts-in-healthcare](../tags/arts-in-healthcare.md)
 - [quality-of-life](../tags/quality-of-life.md)
 - [creative-interventions](../tags/creative-interventions.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

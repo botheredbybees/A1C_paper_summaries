@@ -36,7 +36,7 @@ This chapter explores the burgeoning field of 'arts in health' in post-war Brita
 - [arts-and-health](../tags/arts-and-health.md)
 - [public-policy](../tags/public-policy.md)
 - [social-inclusion](../tags/social-inclusion.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

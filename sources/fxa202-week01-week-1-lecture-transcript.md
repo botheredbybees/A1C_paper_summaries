@@ -24,10 +24,10 @@ This week’s lecture explores the concept of a photo essay as a powerful form o
 
 ## Key Concepts
 
-- [visual storytelling](../topics/visual storytelling.md)
-- [photo essays](../topics/photo essays.md)
-- [narrative depth](../topics/narrative depth.md)
-- [historical roots of photo journalism](../topics/historical roots of photo journalism.md)
+- [visual storytelling](../topics/visual-storytelling.md)
+- [photo essays](../topics/photo-essays.md)
+- [narrative depth](../topics/narrative-depth.md)
+- [historical roots of photo journalism](../topics/historical-roots-of-photo-journalism.md)
 
 ## Tags
 
@@ -37,7 +37,7 @@ This week’s lecture explores the concept of a photo essay as a powerful form o
 - [emotional-responses](../tags/emotional-responses.md)
 - [historical-context](../tags/historical-context.md)
 - [investigative-journalism](../tags/investigative-journalism.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 

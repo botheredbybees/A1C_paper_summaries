@@ -32,11 +32,11 @@ This research article explores the transformation of personal music preferences 
 - [music-preferences](../tags/music-preferences.md)
 - [life-stages](../tags/life-stages.md)
 - [identity-markers](../tags/identity-markers.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [longitudinal-study](longitudinal-study.md)
+- **longitudinal-study**
 
 ## See Also
 

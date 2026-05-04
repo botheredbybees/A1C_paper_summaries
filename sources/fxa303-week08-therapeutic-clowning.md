@@ -35,12 +35,12 @@ This document discusses the history and contemporary application of therapeutic 
 - [childhood-anxiety](../tags/childhood-anxiety.md)
 - [mental-health-interventions](../tags/mental-health-interventions.md)
 - [dementia-care](../tags/dementia-care.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [case-study](case-study.md)
-- [systematic-review](systematic-review.md)
+- **case-study**
+- **systematic-review**
 
 ## See Also
 

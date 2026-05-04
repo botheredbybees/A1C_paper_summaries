@@ -33,11 +33,11 @@ This study explores the nature of strong experiences of music listening among un
 - [music-experiences](../tags/music-experiences.md)
 - [university-students](../tags/university-students.md)
 - [positive-psychology](../tags/positive-psychology.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [thematic-analysis](thematic-analysis.md)
+- **thematic-analysis**
 
 ## See Also
 

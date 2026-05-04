@@ -39,11 +39,11 @@ These initiatives underscore the importance of integrating creative arts into he
 - [adolescent-cancer-care](../tags/adolescent-cancer-care.md)
 - [pediatric-oncology-support](../tags/pediatric-oncology-support.md)
 - [creative-arts-interventions](../tags/creative-arts-interventions.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [program-outreach](program-outreach.md)
+- **program-outreach**
 
 ## See Also
 

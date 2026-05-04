@@ -24,9 +24,9 @@ This module explores the benefits of music therapy in dementia care. It discusse
 
 ## Key Concepts
 
-- [creativity with music](../topics/creativity with music.md)
-- [improvisation techniques](../topics/improvisation techniques.md)
-- [personalized therapy approaches](../topics/personalized therapy approaches.md)
+- [creativity with music](../topics/creativity-with-music.md)
+- [improvisation techniques](../topics/improvisation-techniques.md)
+- [personalized therapy approaches](../topics/personalized-therapy-approaches.md)
 
 ## Tags
 
@@ -34,7 +34,7 @@ This module explores the benefits of music therapy in dementia care. It discusse
 - [dementia-care](../tags/dementia-care.md)
 - [creative-expression](../tags/creative-expression.md)
 - [non-verbal-communication](../tags/non-verbal-communication.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

@@ -32,7 +32,7 @@ In his TEDx talk at West Chester, John Gerdy discusses the value of investing in
 - [arts-investment](../tags/arts-investment.md)
 - [community-development](../tags/community-development.md)
 - [economic-benefits](../tags/economic-benefits.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

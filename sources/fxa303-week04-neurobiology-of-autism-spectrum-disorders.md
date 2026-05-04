@@ -35,11 +35,11 @@ This book, edited by Abdeslem El Idrissi and Dan McCloskey, delves into the comp
 - [sensory-processing](../tags/sensory-processing.md)
 - [environmental-factors](../tags/environmental-factors.md)
 - [autism-research](../tags/autism-research.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [systematic-review](systematic-review.md)
+- **systematic-review**
 
 ## See Also
 

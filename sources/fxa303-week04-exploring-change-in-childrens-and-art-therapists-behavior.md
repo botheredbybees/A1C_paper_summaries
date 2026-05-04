@@ -36,11 +36,11 @@ This study evaluates the 'Images of Self' (IOS) art therapy program for children
 - [case-study-design](../tags/case-study-design.md)
 - [behavior-change](../tags/behavior-change.md)
 - [self-image](../tags/self-image.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [repeated-case-study](repeated-case-study.md)
+- **repeated-case-study**
 
 ## See Also
 

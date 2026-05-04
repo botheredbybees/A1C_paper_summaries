@@ -36,11 +36,11 @@ This article discusses the impact of community mural projects on revitalizing th
 - [cultural-identity](../tags/cultural-identity.md)
 - [public-art](../tags/public-art.md)
 - [participatory-design](../tags/participatory-design.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

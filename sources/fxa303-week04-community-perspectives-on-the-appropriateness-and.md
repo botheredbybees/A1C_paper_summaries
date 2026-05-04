@@ -33,11 +33,11 @@ The article explores the perspectives of autistic adults, parents, and professio
 - [autism-support](../tags/autism-support.md)
 - [young-children](../tags/young-children.md)
 - [community-perspective](../tags/community-perspective.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [qualitative-study](qualitative-study.md)
+- **qualitative-study**
 
 ## See Also
 

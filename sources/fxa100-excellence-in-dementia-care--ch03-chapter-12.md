@@ -7,13 +7,14 @@ apa7: "Downs, M., Bowers, B., & Whitlatch, C. J. (2014). Understanding and enhan
 doi: null
 appearances:
   - unit: FXA100
+  - unit: FXA100
 tags: ["dementia-care", "family-carers", "reciprocity-in-care", "fxa100"]
 key_concepts: ["early-diagnosis-of-dementia", "young-onset-dementia-challenges"]
 methods: []
 slug: fxa100-excellence-in-dementia-care--ch03-chapter-12
 related: ["dementia-care"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-04
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-excellence-in-dementia-care--ch03-chapter-12.md_
@@ -32,7 +33,7 @@ This chapter explores the dynamics of caregiving for individuals with dementia, 
 - [dementia-care](../tags/dementia-care.md)
 - [family-carers](../tags/family-carers.md)
 - [reciprocity-in-care](../tags/reciprocity-in-care.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

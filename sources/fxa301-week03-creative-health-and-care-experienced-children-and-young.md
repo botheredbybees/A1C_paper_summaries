@@ -35,11 +35,11 @@ The document discusses the role of creative health initiatives in improving ment
 - [mental-wellbeing](../tags/mental-wellbeing.md)
 - [self-expression-support](../tags/self-expression-support.md)
 - [community-fostering](../tags/community-fostering.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

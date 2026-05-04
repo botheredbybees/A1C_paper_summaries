@@ -41,11 +41,11 @@ These findings are crucial for developing tailored prevention strategies and int
 - [patient-outcomes](../tags/patient-outcomes.md)
 - [medication-effects](../tags/medication-effects.md)
 - [elderly-health](../tags/elderly-health.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [retrospective cohort study](retrospective cohort study.md)
+- **retrospective cohort study**
 
 ## See Also
 

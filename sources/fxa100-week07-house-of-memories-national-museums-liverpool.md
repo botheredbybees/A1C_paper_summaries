@@ -24,9 +24,9 @@ The House of Memories is a dementia awareness programme initiated by National Mu
 
 ## Key Concepts
 
-- [dementia awareness](../topics/dementia awareness.md)
-- [person-centered care](../topics/person-centered care.md)
-- [interactive museum experiences](../topics/interactive museum experiences.md)
+- [dementia awareness](../topics/dementia-awareness.md)
+- [person-centered care](../topics/person-centered-care.md)
+- [interactive museum experiences](../topics/interactive-museum-experiences.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ The House of Memories is a dementia awareness programme initiated by National Mu
 - [museum-education](../tags/museum-education.md)
 - [memory-stimulation](../tags/memory-stimulation.md)
 - [social-support](../tags/social-support.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [program initiative](program initiative.md)
+- **program initiative**
 
 ## See Also
 

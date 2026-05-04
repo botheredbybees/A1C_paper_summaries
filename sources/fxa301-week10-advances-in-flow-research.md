@@ -25,7 +25,7 @@ The book 'Advances in Flow Research' edited by Corinna Peifer and Stefan Engeser
 ## Key Concepts
 
 - [flow](../topics/flow.md)
-- [Mihaly Csikszentmihalyi](../topics/Mihaly Csikszentmihalyi.md)
+- [Mihaly Csikszentmihalyi](../topics/mihaly-csikszentmihalyi.md)
 - [empirical-research](../topics/empirical-research.md)
 
 ## Tags
@@ -33,11 +33,11 @@ The book 'Advances in Flow Research' edited by Corinna Peifer and Stefan Engeser
 - [flow-experience](../tags/flow-experience.md)
 - [engagement-psychology](../tags/engagement-psychology.md)
 - [cultural-studies](../tags/cultural-studies.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [systematic review](systematic review.md)
+- **systematic review**
 
 ## See Also
 

@@ -24,19 +24,19 @@ Negative space in photography refers to the area around a main subject that rema
 
 ## Key Concepts
 
-- [negative space](../topics/negative space.md)
-- [composition techniques](../topics/composition techniques.md)
+- [negative space](../topics/negative-space.md)
+- [composition techniques](../topics/composition-techniques.md)
 
 ## Tags
 
 - [photography-composition](../tags/photography-composition.md)
 - [minimalist-photography](../tags/minimalist-photography.md)
 - [negative-space](../tags/negative-space.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

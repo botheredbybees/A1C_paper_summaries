@@ -24,20 +24,20 @@ This article explores the growing presence of clowns in pediatric hospital setti
 
 ## Key Concepts
 
-- [therapeutic clowning](../topics/therapeutic clowning.md)
-- [emotional well-being](../topics/emotional well-being.md)
-- [complementary healthcare](../topics/complementary healthcare.md)
+- [therapeutic clowning](../topics/therapeutic-clowning.md)
+- [emotional well-being](../topics/emotional-well-being.md)
+- [complementary healthcare](../topics/complementary-healthcare.md)
 
 ## Tags
 
 - [therapeutic-clowning](../tags/therapeutic-clowning.md)
 - [pediatric-care](../tags/pediatric-care.md)
 - [emotional-support](../tags/emotional-support.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [literature review](literature review.md)
+- **literature review**
 
 ## See Also
 

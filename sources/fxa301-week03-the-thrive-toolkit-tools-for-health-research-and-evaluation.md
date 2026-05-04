@@ -33,11 +33,11 @@ The THRivE Toolkit (Tools for Health Research and Evaluation in Arts and Heritag
 - [arts-interventions](../tags/arts-interventions.md)
 - [public-health-initiatives](../tags/public-health-initiatives.md)
 - [research-evaluation](../tags/research-evaluation.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [systematic-review](systematic-review.md)
+- **systematic-review**
 
 ## See Also
 

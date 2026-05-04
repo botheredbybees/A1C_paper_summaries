@@ -34,12 +34,12 @@ This article discusses how the role of music in therapy has evolved significantl
 - [music-therapy-applications](../tags/music-therapy-applications.md)
 - [brain-injury-rehabilitation](../tags/brain-injury-rehabilitation.md)
 - [cognitive-neuroscience](../tags/cognitive-neuroscience.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [clinical-trials](clinical-trials.md)
-- [systematic-review](systematic-review.md)
+- **clinical-trials**
+- **systematic-review**
 
 ## See Also
 

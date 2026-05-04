@@ -24,10 +24,10 @@ The document 'Guide to Journaling' emphasizes the importance of journaling as a 
 
 ## Key Concepts
 
-- [expressive writing](../topics/expressive writing.md)
+- [expressive writing](../topics/expressive-writing.md)
 - [self-awareness](../topics/self-awareness.md)
-- [therapeutic journaling](../topics/therapeutic journaling.md)
-- [mental well-being](../topics/mental well-being.md)
+- [therapeutic journaling](../topics/therapeutic-journaling.md)
+- [mental well-being](../topics/mental-well-being.md)
 
 ## Tags
 
@@ -37,11 +37,11 @@ The document 'Guide to Journaling' emphasizes the importance of journaling as a 
 - [expressive-writing-therapy](../tags/expressive-writing-therapy.md)
 - [personal-growth-tools](../tags/personal-growth-tools.md)
 - [decision-making-clarity](../tags/decision-making-clarity.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

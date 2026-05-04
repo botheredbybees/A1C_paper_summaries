@@ -7,13 +7,14 @@ apa7: "Craig, C., Claire, & Killick, J. (2011). Giving creativity a shape. In Cr
 doi: null
 appearances:
   - unit: FXA100
+  - unit: FXA100
 tags: ["dementia-care", "creativity-in-dementia", "person-centered-care", "fxa100"]
 key_concepts: ["creative engagement", "personalized care approaches", "non-verbal communication"]
 methods: []
 slug: fxa100-creativity-and-communication-ch11-21-giving-creativity-a-shape-creativity-takes-many-forms
 related: ["dementia-care", "person-centered-care"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-04
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-creativity-and-communication-ch11-21-giving-creativity-a-shape-creativity-takes-many-forms.md_
@@ -24,16 +25,16 @@ This chapter explores the nature of creative sessions for individuals with demen
 
 ## Key Concepts
 
-- [creative engagement](../topics/creative engagement.md)
-- [personalized care approaches](../topics/personalized care approaches.md)
-- [non-verbal communication](../topics/non-verbal communication.md)
+- [creative engagement](../topics/creative-engagement.md)
+- [personalized care approaches](../topics/personalized-care-approaches.md)
+- [non-verbal communication](../topics/non-verbal-communication.md)
 
 ## Tags
 
 - [dementia-care](../tags/dementia-care.md)
 - [creativity-in-dementia](../tags/creativity-in-dementia.md)
 - [person-centered-care](../tags/person-centered-care.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

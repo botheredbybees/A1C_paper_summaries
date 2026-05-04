@@ -39,11 +39,11 @@ Pothof's flexible approach allowed for creative problem-solving when initial con
 - [therapeutic-benefits](../tags/therapeutic-benefits.md)
 - [neurodivergent-artists](../tags/neurodivergent-artists.md)
 - [creative-arts-health](../tags/creative-arts-health.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [photo-essay](photo-essay.md)
+- **photo-essay**
 
 ## See Also
 

@@ -24,9 +24,9 @@ The document presents a transcript of an interview and discussion surrounding 'S
 
 ## Key Concepts
 
-- [communal singing](../topics/communal singing.md)
-- [emotional release through music](../topics/emotional release through music.md)
-- [sense of belonging](../topics/sense of belonging.md)
+- [communal singing](../topics/communal-singing.md)
+- [emotional release through music](../topics/emotional-release-through-music.md)
+- [sense of belonging](../topics/sense-of-belonging.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ The document presents a transcript of an interview and discussion surrounding 'S
 - [social-connection](../tags/social-connection.md)
 - [well-being-through-art](../tags/well-being-through-art.md)
 - [therapeutic-benefits](../tags/therapeutic-benefits.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

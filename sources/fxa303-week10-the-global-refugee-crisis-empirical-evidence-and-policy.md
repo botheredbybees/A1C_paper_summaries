@@ -24,11 +24,11 @@ The article explores the global refugee crisis, examining empirical evidence and
 
 ## Key Concepts
 
-- [public attitudes towards refugees](../topics/public attitudes towards refugees.md)
-- [refugee resettlement policies](../topics/refugee resettlement policies.md)
-- [media representation of refugees](../topics/media representation of refugees.md)
-- [mental health impacts on refugees](../topics/mental health impacts on refugees.md)
-- [successful integration strategies](../topics/successful integration strategies.md)
+- [public attitudes towards refugees](../topics/public-attitudes-towards-refugees.md)
+- [refugee resettlement policies](../topics/refugee-resettlement-policies.md)
+- [media representation of refugees](../topics/media-representation-of-refugees.md)
+- [mental health impacts on refugees](../topics/mental-health-impacts-on-refugees.md)
+- [successful integration strategies](../topics/successful-integration-strategies.md)
 
 ## Tags
 
@@ -37,7 +37,7 @@ The article explores the global refugee crisis, examining empirical evidence and
 - [media-representation-refugees](../tags/media-representation-refugees.md)
 - [social-contact-integration](../tags/social-contact-integration.md)
 - [policy-implications-refugees](../tags/policy-implications-refugees.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

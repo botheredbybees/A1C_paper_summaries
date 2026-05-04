@@ -28,9 +28,9 @@ The study also highlights gender differences in preferences, with women generall
 
 ## Key Concepts
 
-- [Openness to Experience](../topics/Openness to Experience.md)
-- [Big-Five Personality Traits](../topics/Big-Five Personality Traits.md)
-- [Aesthetic Preferences](../topics/Aesthetic Preferences.md)
+- [Openness to Experience](../topics/openness-to-experience.md)
+- [Big-Five Personality Traits](../topics/big-five-personality-traits.md)
+- [Aesthetic Preferences](../topics/aesthetic-preferences.md)
 
 ## Tags
 
@@ -39,12 +39,12 @@ The study also highlights gender differences in preferences, with women generall
 - [art-appreciation](../tags/art-appreciation.md)
 - [music-architecture](../tags/music-architecture.md)
 - [big-five-personality](../tags/big-five-personality.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [correlational study](correlational study.md)
-- [self-report inventory](self-report inventory.md)
+- **correlational study**
+- **self-report inventory**
 
 ## See Also
 

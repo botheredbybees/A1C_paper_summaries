@@ -36,11 +36,11 @@ This review evaluates the impact of antidiabetic drugs on Alzheimer’s disease 
 - [brain-insulin-signaling](../tags/brain-insulin-signaling.md)
 - [cognitive-decline](../tags/cognitive-decline.md)
 - [systematic-review](../tags/systematic-review.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [systematic-review](systematic-review.md)
+- **systematic-review**
 
 ## See Also
 

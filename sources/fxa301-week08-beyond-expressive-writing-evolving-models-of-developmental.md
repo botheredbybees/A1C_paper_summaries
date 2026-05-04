@@ -24,9 +24,9 @@ The article by Sophie Nicholls critiques the expressive writing paradigm, which 
 
 ## Key Concepts
 
-- [expressive writing paradigm](../topics/expressive writing paradigm.md)
-- [developmental creative writing](../topics/developmental creative writing.md)
-- [therapeutic value of writing](../topics/therapeutic value of writing.md)
+- [expressive writing paradigm](../topics/expressive-writing-paradigm.md)
+- [developmental creative writing](../topics/developmental-creative-writing.md)
+- [therapeutic value of writing](../topics/therapeutic-value-of-writing.md)
 
 ## Tags
 
@@ -36,11 +36,11 @@ The article by Sophie Nicholls critiques the expressive writing paradigm, which 
 - [personal-development](../tags/personal-development.md)
 - [qualitative-research](../tags/qualitative-research.md)
 - [self-concept](../tags/self-concept.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [qualitative research](qualitative research.md)
+- **qualitative research**
 
 ## See Also
 

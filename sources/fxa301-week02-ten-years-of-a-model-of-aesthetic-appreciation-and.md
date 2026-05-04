@@ -24,9 +24,9 @@ This article reviews the development and impact of a model proposed by Leder et 
 
 ## Key Concepts
 
-- [model of aesthetic appreciation](../topics/model of aesthetic appreciation.md)
-- [Berlyne's psycho-biological aesthetics](../topics/Berlyne's psycho-biological aesthetics.md)
-- [aesthetic emotions](../topics/aesthetic emotions.md)
+- [model of aesthetic appreciation](../topics/model-of-aesthetic-appreciation.md)
+- [Berlyne's psycho-biological aesthetics](../topics/berlynes-psycho-biological-aesthetics.md)
+- [aesthetic emotions](../topics/aesthetic-emotions.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ This article reviews the development and impact of a model proposed by Leder et 
 - [neuroaesthetics](../tags/neuroaesthetics.md)
 - [cognitive-psychology](../tags/cognitive-psychology.md)
 - [emotional-reaction](../tags/emotional-reaction.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [literature review](literature review.md)
+- **literature review**
 
 ## See Also
 

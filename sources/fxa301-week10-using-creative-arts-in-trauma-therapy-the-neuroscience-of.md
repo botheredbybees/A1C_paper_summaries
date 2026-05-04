@@ -34,11 +34,11 @@ This article examines the role of creative arts therapies in trauma treatment, e
 - [trauma-healing](../tags/trauma-healing.md)
 - [neuroscience-of-therapy](../tags/neuroscience-of-therapy.md)
 - [cognitive-behavioral-therapy](../tags/cognitive-behavioral-therapy.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [qualitative-analysis](qualitative-analysis.md)
+- **qualitative-analysis**
 
 ## See Also
 

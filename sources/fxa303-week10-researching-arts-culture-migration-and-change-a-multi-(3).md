@@ -33,7 +33,7 @@ Marco Martiniello's paper addresses the importance of researching the connection
 - [arts-and-culture](../tags/arts-and-culture.md)
 - [interdisciplinary-research](../tags/interdisciplinary-research.md)
 - [cultural-production](../tags/cultural-production.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

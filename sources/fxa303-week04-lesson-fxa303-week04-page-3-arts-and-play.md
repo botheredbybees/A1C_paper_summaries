@@ -24,9 +24,9 @@ This lesson explores the use of play and arts-based therapies for neurodiverse c
 
 ## Key Concepts
 
-- [child-centered play therapy](../topics/child-centered play therapy.md)
+- [child-centered play therapy](../topics/child-centered-play-therapy.md)
 - [pivotal response therapy (prt)](../topics/pivotal response therapy (prt).md)
-- [music therapy](../topics/music therapy.md)
+- [music therapy](../topics/music-therapy.md)
 
 ## Tags
 
@@ -34,7 +34,7 @@ This lesson explores the use of play and arts-based therapies for neurodiverse c
 - [neurodiversity](../tags/neurodiversity.md)
 - [creative-arts](../tags/creative-arts.md)
 - [mental-wellbeing](../tags/mental-wellbeing.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

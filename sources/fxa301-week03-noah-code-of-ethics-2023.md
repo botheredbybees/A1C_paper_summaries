@@ -33,7 +33,7 @@ The National Organization for Arts in Health (NOAH) has released the updated NOA
 - [ethics-in-health](../tags/ethics-in-health.md)
 - [arts-and-health](../tags/arts-and-health.md)
 - [professional-standards](../tags/professional-standards.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

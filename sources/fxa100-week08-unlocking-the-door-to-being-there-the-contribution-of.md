@@ -35,11 +35,11 @@ The article discusses the evaluation of 'Sensory Palaces', a project by Historic
 - [creative-facilitation](../tags/creative-facilitation.md)
 - [multisensory-experience](../tags/multisensory-experience.md)
 - [social-inclusion](../tags/social-inclusion.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

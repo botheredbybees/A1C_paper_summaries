@@ -35,12 +35,12 @@ This systematic review and meta-analysis aimed to evaluate the efficacy of music
 - [systematic-review](../tags/systematic-review.md)
 - [meta-analysis](../tags/meta-analysis.md)
 - [child-development](../tags/child-development.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [systematic-review](systematic-review.md)
-- [meta-analysis](meta-analysis.md)
+- **systematic-review**
+- **meta-analysis**
 
 ## See Also
 

@@ -24,9 +24,9 @@ Week 5 of the course focuses on visual storytelling, emphasizing how images can 
 
 ## Key Concepts
 
-- [visual narrative](../topics/visual narrative.md)
-- [implied narrative](../topics/implied narrative.md)
-- [visual metaphor](../topics/visual metaphor.md)
+- [visual narrative](../topics/visual-narrative.md)
+- [implied narrative](../topics/implied-narrative.md)
+- [visual metaphor](../topics/visual-metaphor.md)
 
 ## Tags
 
@@ -36,11 +36,11 @@ Week 5 of the course focuses on visual storytelling, emphasizing how images can 
 - [metaphor-in-art](../tags/metaphor-in-art.md)
 - [caption-writing](../tags/caption-writing.md)
 - [online-learning](../tags/online-learning.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

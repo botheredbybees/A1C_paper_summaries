@@ -25,8 +25,8 @@ The document is a transcript discussing the 'Singing for Better Breathing' proje
 ## Key Concepts
 
 - [chronic obstructive pulmonary disease (COPD)](../topics/chronic obstructive pulmonary disease (COPD).md)
-- [quality of life improvement](../topics/quality of life improvement.md)
-- [social engagement](../topics/social engagement.md)
+- [quality of life improvement](../topics/quality-of-life-improvement.md)
+- [social engagement](../topics/social-engagement.md)
 
 ## Tags
 
@@ -36,11 +36,11 @@ The document is a transcript discussing the 'Singing for Better Breathing' proje
 - [patient-support-groups](../tags/patient-support-groups.md)
 - [chronic-disease-care](../tags/chronic-disease-care.md)
 - [music-therapy](../tags/music-therapy.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [qualitative study](qualitative study.md)
+- **qualitative study**
 
 ## See Also
 

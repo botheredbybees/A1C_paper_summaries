@@ -24,9 +24,9 @@ This lesson explores the therapeutic benefits of photography on mental health, f
 
 ## Key Concepts
 
-- [daily digital practice](../topics/daily digital practice.md)
+- [daily digital practice](../topics/daily-digital-practice.md)
 - [mindfulness](../topics/mindfulness.md)
-- [community interaction](../topics/community interaction.md)
+- [community interaction](../topics/community-interaction.md)
 
 ## Tags
 
@@ -34,7 +34,7 @@ This lesson explores the therapeutic benefits of photography on mental health, f
 - [mental-health](../tags/mental-health.md)
 - [self-care](../tags/self-care.md)
 - [memory-retention](../tags/memory-retention.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 

@@ -24,16 +24,16 @@ This chapter discusses the social determinants influencing health outcomes acros
 
 ## Key Concepts
 
-- [social gradient](../topics/social gradient.md)
-- [proportionate universalism](../topics/proportionate universalism.md)
-- [life course approach](../topics/life course approach.md)
+- [social gradient](../topics/social-gradient.md)
+- [proportionate universalism](../topics/proportionate-universalism.md)
+- [life course approach](../topics/life-course-approach.md)
 
 ## Tags
 
 - [social-determinants-health](../tags/social-determinants-health.md)
 - [equity-in-healthcare](../tags/equity-in-healthcare.md)
 - [public-policy](../tags/public-policy.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

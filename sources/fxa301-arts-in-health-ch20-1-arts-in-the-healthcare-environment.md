@@ -24,8 +24,8 @@ This chapter explores the existence of a model for categorizing arts in health a
 
 ## Key Concepts
 
-- [bespoke projects](../topics/bespoke projects.md)
-- [holistic healthcare environment](../topics/holistic healthcare environment.md)
+- [bespoke projects](../topics/bespoke-projects.md)
+- [holistic healthcare environment](../topics/holistic-healthcare-environment.md)
 
 ## Tags
 
@@ -33,7 +33,7 @@ This chapter explores the existence of a model for categorizing arts in health a
 - [participatory-arts-programmes](../tags/participatory-arts-programmes.md)
 - [healthcare-environment](../tags/healthcare-environment.md)
 - [dementia-care](../tags/dementia-care.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

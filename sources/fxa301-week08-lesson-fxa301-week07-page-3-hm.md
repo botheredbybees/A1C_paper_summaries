@@ -24,9 +24,9 @@ This lesson explores case studies of shared reading groups for chronic pain mana
 
 ## Key Concepts
 
-- [shared reading groups](../topics/shared reading groups.md)
-- [expressive writing therapy](../topics/expressive writing therapy.md)
-- [narrative development](../topics/narrative development.md)
+- [shared reading groups](../topics/shared-reading-groups.md)
+- [expressive writing therapy](../topics/expressive-writing-therapy.md)
+- [narrative development](../topics/narrative-development.md)
 
 ## Tags
 
@@ -35,7 +35,7 @@ This lesson explores case studies of shared reading groups for chronic pain mana
 - [creative-writing-for-wellbeing](../tags/creative-writing-for-wellbeing.md)
 - [poetry-and-mindfulness](../tags/poetry-and-mindfulness.md)
 - [expressive-writing](../tags/expressive-writing.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

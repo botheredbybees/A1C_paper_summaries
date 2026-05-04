@@ -25,10 +25,10 @@ Del Loewenthal's comprehensive book, 'The Handbook of Phototherapy and Therapeut
 ## Key Concepts
 
 - [phototherapy](../topics/phototherapy.md)
-- [therapeutic photography](../topics/therapeutic photography.md)
-- [ethics in therapy](../topics/ethics in therapy.md)
-- [research methodologies](../topics/research methodologies.md)
-- [visual communication](../topics/visual communication.md)
+- [therapeutic photography](../topics/therapeutic-photography.md)
+- [ethics in therapy](../topics/ethics-in-therapy.md)
+- [research methodologies](../topics/research-methodologies.md)
+- [visual communication](../topics/visual-communication.md)
 
 ## Tags
 
@@ -38,11 +38,11 @@ Del Loewenthal's comprehensive book, 'The Handbook of Phototherapy and Therapeut
 - [psychotherapy-integration](../tags/psychotherapy-integration.md)
 - [client-wellbeing](../tags/client-wellbeing.md)
 - [ethical-considerations](../tags/ethical-considerations.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

@@ -24,16 +24,16 @@ This week's module of FXA100 focuses on the use of music in dementia care. The r
 
 ## Key Concepts
 
-- [guided imagery and music](../topics/guided imagery and music.md)
-- [emotional processing](../topics/emotional processing.md)
-- [memory impact of music](../topics/memory impact of music.md)
+- [guided imagery and music](../topics/guided-imagery-and-music.md)
+- [emotional processing](../topics/emotional-processing.md)
+- [memory impact of music](../topics/memory-impact-of-music.md)
 
 ## Tags
 
 - [dementia-care](../tags/dementia-care.md)
 - [music-therapy](../tags/music-therapy.md)
 - [cultural-diversity](../tags/cultural-diversity.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

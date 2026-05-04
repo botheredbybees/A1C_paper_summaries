@@ -24,9 +24,9 @@ The paper explores the growing connection between museums and health, highlighti
 
 ## Key Concepts
 
-- [health-promoting design](../topics/health-promoting design.md)
-- [inclusion and accessibility](../topics/inclusion and accessibility.md)
-- [environmental psychology](../topics/environmental psychology.md)
+- [health-promoting design](../topics/health-promoting-design.md)
+- [inclusion and accessibility](../topics/inclusion-and-accessibility.md)
+- [environmental psychology](../topics/environmental-psychology.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ The paper explores the growing connection between museums and health, highlighti
 - [therapeutic-spaces](../tags/therapeutic-spaces.md)
 - [inclusive-museography](../tags/inclusive-museography.md)
 - [cognitive-wellness](../tags/cognitive-wellness.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [literature review](literature review.md)
+- **literature review**
 
 ## See Also
 

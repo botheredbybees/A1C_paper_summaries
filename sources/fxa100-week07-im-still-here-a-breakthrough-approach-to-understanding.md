@@ -24,19 +24,19 @@ John Zeisel's book, 'I'm Still Here,' offers a comprehensive and compassionate a
 
 ## Key Concepts
 
-- [ARTZ program](../topics/ARTZ program.md)
-- [nonpharmacological treatments](../topics/nonpharmacological treatments.md)
+- [ARTZ program](../topics/artz-program.md)
+- [nonpharmacological treatments](../topics/nonpharmacological-treatments.md)
 
 ## Tags
 
 - [alzheimer-care](../tags/alzheimer-care.md)
 - [quality-of-life](../tags/quality-of-life.md)
 - [dementia-interventions](../tags/dementia-interventions.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [qualitative research](qualitative research.md)
+- **qualitative research**
 
 ## See Also
 

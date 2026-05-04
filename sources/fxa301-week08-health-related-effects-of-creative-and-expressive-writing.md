@@ -24,9 +24,9 @@ The paper by Geoff Lowe provides an overview of the health-related effects of cr
 
 ## Key Concepts
 
-- [expressive writing](../topics/expressive writing.md)
-- [immune system functioning](../topics/immune system functioning.md)
-- [psychological well-being](../topics/psychological well-being.md)
+- [expressive writing](../topics/expressive-writing.md)
+- [immune system functioning](../topics/immune-system-functioning.md)
+- [psychological well-being](../topics/psychological-well-being.md)
 
 ## Tags
 
@@ -36,11 +36,11 @@ The paper by Geoff Lowe provides an overview of the health-related effects of cr
 - [immunology-in-psychiatry](../tags/immunology-in-psychiatry.md)
 - [cognitive-behavioral-mechanisms](../tags/cognitive-behavioral-mechanisms.md)
 - [self-regulation-strategies](../tags/self-regulation-strategies.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [systematic review](systematic review.md)
+- **systematic review**
 
 ## See Also
 

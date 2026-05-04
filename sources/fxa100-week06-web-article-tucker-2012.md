@@ -24,9 +24,9 @@ This article discusses the emerging field of neuroaesthetics, which uses brain-i
 
 ## Key Concepts
 
-- [mirror neurons](../topics/mirror neurons.md)
-- [contextual influence](../topics/contextual influence.md)
-- [neural activation](../topics/neural activation.md)
+- [mirror neurons](../topics/mirror-neurons.md)
+- [contextual influence](../topics/contextual-influence.md)
+- [neural activation](../topics/neural-activation.md)
 
 ## Tags
 
@@ -35,7 +35,7 @@ This article discusses the emerging field of neuroaesthetics, which uses brain-i
 - [art-history](../tags/art-history.md)
 - [cognitive-neuroscience](../tags/cognitive-neuroscience.md)
 - [tms-fmri](../tags/tms-fmri.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

@@ -37,11 +37,11 @@ The text is a reflective poem about visiting public baths during winter amidst a
 - [therapeutic-environments](../tags/therapeutic-environments.md)
 - [poetic-reflection](../tags/poetic-reflection.md)
 - [sensory-landscape](../tags/sensory-landscape.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [poetry](poetry.md)
+- **poetry**
 
 ## See Also
 

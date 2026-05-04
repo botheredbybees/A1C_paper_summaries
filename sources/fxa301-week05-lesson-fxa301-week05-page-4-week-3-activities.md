@@ -33,7 +33,7 @@ Week 5 of FXA301 Arts in the Community includes required readings and a video le
 - [arts-in-community](../tags/arts-in-community.md)
 - [wellbeing-through-arts](../tags/wellbeing-through-arts.md)
 - [community-engagement](../tags/community-engagement.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

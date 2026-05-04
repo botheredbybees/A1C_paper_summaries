@@ -24,9 +24,9 @@ Helen Woolley's article 'Beyond the Fence' explores how children’s play is aff
 
 ## Key Concepts
 
-- [children's outdoor play](../topics/children's outdoor play.md)
-- [disaster resilience](../topics/disaster resilience.md)
-- [found spaces vs constructed spaces](../topics/found spaces vs constructed spaces.md)
+- [children's outdoor play](../topics/childrens-outdoor-play.md)
+- [disaster resilience](../topics/disaster-resilience.md)
+- [found spaces vs constructed spaces](../topics/found-spaces-vs-constructed-spaces.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ Helen Woolley's article 'Beyond the Fence' explores how children’s play is aff
 - [play-spaces](../tags/play-spaces.md)
 - [refugee-camps](../tags/refugee-camps.md)
 - [mental-health](../tags/mental-health.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

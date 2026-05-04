@@ -24,9 +24,9 @@ The transcript describes music therapy sessions involving children with autism a
 
 ## Key Concepts
 
-- [improvised sound exchanges](../topics/improvised sound exchanges.md)
-- [structured music sessions](../topics/structured music sessions.md)
-- [therapeutic nonverbal communication](../topics/therapeutic nonverbal communication.md)
+- [improvised sound exchanges](../topics/improvised-sound-exchanges.md)
+- [structured music sessions](../topics/structured-music-sessions.md)
+- [therapeutic nonverbal communication](../topics/therapeutic-nonverbal-communication.md)
 
 ## Tags
 
@@ -34,7 +34,7 @@ The transcript describes music therapy sessions involving children with autism a
 - [autism-spectrum-disorders](../tags/autism-spectrum-disorders.md)
 - [non-verbal-communication](../tags/non-verbal-communication.md)
 - [child-development](../tags/child-development.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

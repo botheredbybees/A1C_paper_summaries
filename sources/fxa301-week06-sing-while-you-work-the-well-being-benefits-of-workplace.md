@@ -28,8 +28,8 @@ The report highlights the importance of professional choir directors for success
 
 ## Key Concepts
 
-- [work engagement](../topics/work engagement.md)
-- [stress reduction](../topics/stress reduction.md)
+- [work engagement](../topics/work-engagement.md)
+- [stress reduction](../topics/stress-reduction.md)
 - [resilience](../topics/resilience.md)
 - [absenteeism](../topics/absenteeism.md)
 
@@ -40,12 +40,12 @@ The report highlights the importance of professional choir directors for success
 - [mental-health](../tags/mental-health.md)
 - [social-connectedness](../tags/social-connectedness.md)
 - [hse-staff](../tags/hse-staff.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [quantitative study](quantitative study.md)
-- [qualitative study](qualitative study.md)
+- **quantitative study**
+- **qualitative study**
 
 ## See Also
 

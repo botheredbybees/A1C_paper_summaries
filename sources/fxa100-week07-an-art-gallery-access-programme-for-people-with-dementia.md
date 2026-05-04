@@ -24,9 +24,9 @@ This study examines an art gallery access program designed for individuals with 
 
 ## Key Concepts
 
-- [excess disability reduction](../topics/excess disability reduction.md)
-- [participant engagement](../topics/participant engagement.md)
-- [memory retention impact](../topics/memory retention impact.md)
+- [excess disability reduction](../topics/excess-disability-reduction.md)
+- [participant engagement](../topics/participant-engagement.md)
+- [memory retention impact](../topics/memory-retention-impact.md)
 
 ## Tags
 
@@ -35,12 +35,12 @@ This study examines an art gallery access program designed for individuals with 
 - [art-therapy](../tags/art-therapy.md)
 - [quality-of-life](../tags/quality-of-life.md)
 - [residual-capabilities](../tags/residual-capabilities.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case study](case study.md)
-- [focus group](focus group.md)
+- **case study**
+- **focus group**
 
 ## See Also
 

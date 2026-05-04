@@ -24,7 +24,7 @@ This chapter introduces a community arts process that emphasizes collaboration b
 
 ## Key Concepts
 
-- [Make Arts process](../topics/Make Arts process.md)
+- [Make Arts process](../topics/make-arts-process.md)
 - [cultural-identity-recovery](../topics/cultural-identity-recovery.md)
 
 ## Tags
@@ -32,12 +32,12 @@ This chapter introduces a community arts process that emphasizes collaboration b
 - [community-art](../tags/community-art.md)
 - [research-methods](../tags/research-methods.md)
 - [conflict-resolution](../tags/conflict-resolution.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [ethnography of communication](ethnography of communication.md)
-- [performance-studies](performance-studies.md)
+- **ethnography of communication**
+- **performance-studies**
 
 ## See Also
 

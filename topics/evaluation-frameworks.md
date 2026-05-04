@@ -1,0 +1,27 @@
+---
+type: topic
+domain: "method"
+title: "Evaluation Frameworks for Creative Arts Projects"
+confidence: low
+tags: ["evaluation-frameworks"]
+sources:
+  - fxa301-week01-lesson-fxa301-week01-page-3-hm-evaluating-a-project
+updated: 2026-05-04
+---
+
+## Evaluation Frameworks for Creative Arts Projects
+
+The provided sources discuss the importance of rigorous evaluation frameworks in assessing the outcomes and benefits of community creative arts projects. The literature emphasizes the need to use validated surveys and measures that accurately reflect the multidimensional impacts these initiatives can have on individuals and communities, such as personal development, social cohesion, health improvements, and cultural enrichment. There is a recognition across sources that effective evaluations should incorporate both quantitative data (e.g., through standardized scales) and qualitative insights (e.g., from interviews or focus groups). Despite this consensus, there remains a tension regarding the balance between standardized measures and context-specific creative methodologies which can better capture unique project dynamics.
+
+## Key Findings
+
+- Evaluation frameworks for community creative arts projects should incorporate both quantitative and qualitative methods.
+- Validated surveys are essential in accurately measuring impact but must be complemented with tailored approaches that reflect local contexts.
+
+## Open Questions
+
+- How to balance the use of standardized evaluation tools with the need for project-specific, contextually sensitive methodologies?
+
+## Sources
+
+- [fxa301-week01-lesson-fxa301-week01-page-3-hm-evaluating-a-project](../sources/fxa301-week01-lesson-fxa301-week01-page-3-hm-evaluating-a-project.md)

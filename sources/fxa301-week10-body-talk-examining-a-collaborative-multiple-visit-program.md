@@ -24,10 +24,10 @@ The article 'Body Talk: Examining a Collaborative Multiple-Visit Program for Vis
 
 ## Key Concepts
 
-- [eating disorders](../topics/eating disorders.md)
-- [art therapy](../topics/art therapy.md)
-- [positive body image](../topics/positive body image.md)
-- [collaborative program](../topics/collaborative program.md)
+- [eating disorders](../topics/eating-disorders.md)
+- [art therapy](../topics/art-therapy.md)
+- [positive body image](../topics/positive-body-image.md)
+- [collaborative program](../topics/collaborative-program.md)
 
 ## Tags
 
@@ -37,11 +37,11 @@ The article 'Body Talk: Examining a Collaborative Multiple-Visit Program for Vis
 - [body-image](../tags/body-image.md)
 - [mental-health-intervention](../tags/mental-health-intervention.md)
 - [therapeutic-education](../tags/therapeutic-education.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

@@ -24,16 +24,16 @@ This lesson discusses the psychological impact of migration on children and youn
 
 ## Key Concepts
 
-- [cultural identity](../topics/cultural identity.md)
-- [trauma-aware practices](../topics/trauma-aware practices.md)
-- [social cohesion](../topics/social cohesion.md)
+- [cultural identity](../topics/cultural-identity.md)
+- [trauma-aware practices](../topics/trauma-aware-practices.md)
+- [social cohesion](../topics/social-cohesion.md)
 
 ## Tags
 
 - [arts-and-mental-wellbeing](../tags/arts-and-mental-wellbeing.md)
 - [refugee-support-programs](../tags/refugee-support-programs.md)
 - [migration-stressors](../tags/migration-stressors.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

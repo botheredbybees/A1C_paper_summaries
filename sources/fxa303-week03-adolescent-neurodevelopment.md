@@ -24,12 +24,12 @@ The article discusses notable alterations in the adolescent brain, focusing on b
 
 ## Key Concepts
 
-- [synaptic pruning](../topics/synaptic pruning.md)
+- [synaptic pruning](../topics/synaptic-pruning.md)
 - [myelination](../topics/myelination.md)
-- [functional connectivity](../topics/functional connectivity.md)
-- [hormonal changes](../topics/hormonal changes.md)
-- [socioeconomic factors](../topics/socioeconomic factors.md)
-- [prefrontal cortex](../topics/prefrontal cortex.md)
+- [functional connectivity](../topics/functional-connectivity.md)
+- [hormonal changes](../topics/hormonal-changes.md)
+- [socioeconomic factors](../topics/socioeconomic-factors.md)
+- [prefrontal cortex](../topics/prefrontal-cortex.md)
 
 ## Tags
 
@@ -39,11 +39,11 @@ The article discusses notable alterations in the adolescent brain, focusing on b
 - [synaptic-pruning-myelination](../tags/synaptic-pruning-myelination.md)
 - [behavioral-neuroscience](../tags/behavioral-neuroscience.md)
 - [reward-processing](../tags/reward-processing.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [review](review.md)
+- **review**
 
 ## See Also
 

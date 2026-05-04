@@ -24,15 +24,15 @@ The document provides an overview of music therapy, describing it as a research-
 
 ## Key Concepts
 
-- [music therapy](../topics/music therapy.md)
-- [registered music therapist](../topics/registered music therapist.md)
+- [music therapy](../topics/music-therapy.md)
+- [registered music therapist](../topics/registered-music-therapist.md)
 
 ## Tags
 
 - [music-therapy](../tags/music-therapy.md)
 - [mental-health](../tags/mental-health.md)
 - [quality-of-life](../tags/quality-of-life.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

@@ -24,16 +24,16 @@ This chapter examines the role of play in fostering health and wellbeing across 
 
 ## Key Concepts
 
-- [work-life balance](../topics/work-life balance.md)
+- [work-life balance](../topics/work-life-balance.md)
 - [super-aging](../topics/super-aging.md)
-- [authenticity realization](../topics/authenticity realization.md)
+- [authenticity realization](../topics/authenticity-realization.md)
 
 ## Tags
 
 - [play-and-wellbeing](../tags/play-and-wellbeing.md)
 - [health-across-lifespan](../tags/health-across-lifespan.md)
 - [social-interaction](../tags/social-interaction.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

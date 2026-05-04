@@ -24,9 +24,9 @@ This paper discusses the impact of personalized music on individuals with dement
 
 ## Key Concepts
 
-- [customized playlists](../topics/customized playlists.md)
-- [therapeutic benefits of music](../topics/therapeutic benefits of music.md)
-- [social interaction and emotional well-being](../topics/social interaction and emotional well-being.md)
+- [customized playlists](../topics/customized-playlists.md)
+- [therapeutic benefits of music](../topics/therapeutic-benefits-of-music.md)
+- [social interaction and emotional well-being](../topics/social-interaction-and-emotional-well-being.md)
 
 ## Tags
 
@@ -36,12 +36,12 @@ This paper discusses the impact of personalized music on individuals with dement
 - [quality-of-life](../tags/quality-of-life.md)
 - [cognitive-functioning](../tags/cognitive-functioning.md)
 - [patient-compliance](../tags/patient-compliance.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [pilot study](pilot study.md)
-- [in-home use](in-home use.md)
+- **pilot study**
+- **in-home use**
 
 ## See Also
 

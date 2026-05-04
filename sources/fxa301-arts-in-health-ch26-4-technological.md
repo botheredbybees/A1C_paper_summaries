@@ -24,16 +24,16 @@ This chapter discusses PESTLE analysis and its application in healthcare setting
 
 ## Key Concepts
 
-- [PESTLE analysis](../topics/PESTLE analysis.md)
-- [Kolb’s Reflective Cycle](../topics/Kolb’s Reflective Cycle.md)
-- [discovery interviews](../topics/discovery interviews.md)
+- [PESTLE analysis](../topics/pestle-analysis.md)
+- [Kolb’s Reflective Cycle](../topics/kolbs-reflective-cycle.md)
+- [discovery interviews](../topics/discovery-interviews.md)
 
 ## Tags
 
 - [arts-in-health](../tags/arts-in-health.md)
 - [intervention-planning](../tags/intervention-planning.md)
 - [reflective-cycle](../tags/reflective-cycle.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

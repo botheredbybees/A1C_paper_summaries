@@ -24,20 +24,20 @@ The document is a supplement to the Diagnostic and Statistical Manual of Mental 
 
 ## Key Concepts
 
-- [Diagnostic Criteria](../topics/Diagnostic Criteria.md)
-- [Clinical Judgment](../topics/Clinical Judgment.md)
-- [Medical Etiologies](../topics/Medical Etiologies.md)
+- [Diagnostic Criteria](../topics/diagnostic-criteria.md)
+- [Clinical Judgment](../topics/clinical-judgment.md)
+- [Medical Etiologies](../topics/medical-etiologies.md)
 
 ## Tags
 
 - [neurocognitive-disorders](../tags/neurocognitive-disorders.md)
 - [alzheimer-disease](../tags/alzheimer-disease.md)
 - [frontotemporal-degeneration](../tags/frontotemporal-degeneration.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [Guideline Development](Guideline Development.md)
+- **Guideline Development**
 
 ## See Also
 

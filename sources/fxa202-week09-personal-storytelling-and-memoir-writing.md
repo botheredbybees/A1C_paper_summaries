@@ -24,9 +24,9 @@ The Personal Storytelling and Memoir Writing course offered by the Writers' Cent
 
 ## Key Concepts
 
-- [sensory writing](../topics/sensory writing.md)
-- [story structure](../topics/story structure.md)
-- [healing power of self-expression](../topics/healing power of self-expression.md)
+- [sensory writing](../topics/sensory-writing.md)
+- [story structure](../topics/story-structure.md)
+- [healing power of self-expression](../topics/healing-power-of-self-expression.md)
 
 ## Tags
 
@@ -36,11 +36,11 @@ The Personal Storytelling and Memoir Writing course offered by the Writers' Cent
 - [self-expression](../tags/self-expression.md)
 - [story-structure](../tags/story-structure.md)
 - [character-development](../tags/character-development.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [online course](online course.md)
+- **online course**
 
 ## See Also
 

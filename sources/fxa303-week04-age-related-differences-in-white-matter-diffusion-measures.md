@@ -24,7 +24,7 @@ This study examines age-related differences in white matter diffusion measures a
 
 ## Key Concepts
 
-- [white matter diffusion measures](../topics/white matter diffusion measures.md)
+- [white matter diffusion measures](../topics/white-matter-diffusion-measures.md)
 - [fractional anisotropy (FA)](../topics/fractional anisotropy (FA).md)
 - [radial diffusivity (RD)](../topics/radial diffusivity (RD).md)
 
@@ -35,12 +35,12 @@ This study examines age-related differences in white matter diffusion measures a
 - [aging-effects](../tags/aging-effects.md)
 - [neurodevelopment](../tags/neurodevelopment.md)
 - [brain-connectivity](../tags/brain-connectivity.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
 - [tract-based spatial statistics (TBSS)](tract-based spatial statistics (TBSS).md)
-- [case-control study](case-control study.md)
+- **case-control study**
 
 ## See Also
 

@@ -24,11 +24,11 @@ This paper discusses the role of music therapy in dementia care from clinical, e
 
 ## Key Concepts
 
-- [music therapy](../topics/music therapy.md)
-- [dementia care pathways](../topics/dementia care pathways.md)
-- [agitation reduction](../topics/agitation reduction.md)
-- [relationship improvement](../topics/relationship improvement.md)
-- [Homeside trial](../topics/Homeside trial.md)
+- [music therapy](../topics/music-therapy.md)
+- [dementia care pathways](../topics/dementia-care-pathways.md)
+- [agitation reduction](../topics/agitation-reduction.md)
+- [relationship improvement](../topics/relationship-improvement.md)
+- [Homeside trial](../topics/homeside-trial.md)
 
 ## Tags
 
@@ -38,11 +38,11 @@ This paper discusses the role of music therapy in dementia care from clinical, e
 - [quality-of-life](../tags/quality-of-life.md)
 - [care-pathways](../tags/care-pathways.md)
 - [intervention-studies](../tags/intervention-studies.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [position paper](position paper.md)
+- **position paper**
 
 ## See Also
 

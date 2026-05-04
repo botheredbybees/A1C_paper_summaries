@@ -24,9 +24,9 @@ In this module of FXA100 The Arts and Dementia Care, students explore dramathera
 
 ## Key Concepts
 
-- [Theatre of the Oppressed techniques](../topics/Theatre of the Oppressed techniques.md)
-- [Veder method](../topics/Veder method.md)
-- [person-centred care guidelines](../topics/person-centred care guidelines.md)
+- [Theatre of the Oppressed techniques](../topics/theatre-of-the-oppressed-techniques.md)
+- [Veder method](../topics/veder-method.md)
+- [person-centred care guidelines](../topics/person-centred-care-guidelines.md)
 
 ## Tags
 
@@ -36,7 +36,7 @@ In this module of FXA100 The Arts and Dementia Care, students explore dramathera
 - [dementia-care](../tags/dementia-care.md)
 - [theatre-of-the-oppressed](../tags/theatre-of-the-oppressed.md)
 - [veder-method](../tags/veder-method.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

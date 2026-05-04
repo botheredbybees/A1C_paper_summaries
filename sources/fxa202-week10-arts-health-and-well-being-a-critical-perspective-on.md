@@ -36,11 +36,11 @@ The book’s two main premises are outlined: first, the influence of political g
 - [arts-and-health](../tags/arts-and-health.md)
 - [well-being-research](../tags/well-being-research.md)
 - [critical-perspective](../tags/critical-perspective.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [critical-analysis](critical-analysis.md)
+- **critical-analysis**
 
 ## See Also
 

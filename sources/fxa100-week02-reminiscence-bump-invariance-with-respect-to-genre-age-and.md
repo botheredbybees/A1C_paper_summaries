@@ -24,9 +24,9 @@ James Renwick and Matthew H. Woolhouse report a cross-cultural study investigati
 
 ## Key Concepts
 
-- [musical reminiscence bump](../topics/musical reminiscence bump.md)
-- [emotional memory](../topics/emotional memory.md)
-- [cultural ubiquity](../topics/cultural ubiquity.md)
+- [musical reminiscence bump](../topics/musical-reminiscence-bump.md)
+- [emotional memory](../topics/emotional-memory.md)
+- [cultural ubiquity](../topics/cultural-ubiquity.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ James Renwick and Matthew H. Woolhouse report a cross-cultural study investigati
 - [cross-cultural-research](../tags/cross-cultural-research.md)
 - [music-psychology](../tags/music-psychology.md)
 - [emotional-memory](../tags/emotional-memory.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [cross-cultural study](cross-cultural study.md)
+- **cross-cultural study**
 
 ## See Also
 

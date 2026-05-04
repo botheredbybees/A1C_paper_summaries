@@ -34,7 +34,7 @@ This transcript discusses the use of music therapy to help individuals with vary
 - [dementia-care](../tags/dementia-care.md)
 - [brain-function-recovery](../tags/brain-function-recovery.md)
 - [communication-loss](../tags/communication-loss.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

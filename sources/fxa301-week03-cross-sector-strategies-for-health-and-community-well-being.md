@@ -37,11 +37,11 @@ One example provided is the Massachusetts Cultural Council's CultureRx program, 
 - [community-wellbeing](../tags/community-wellbeing.md)
 - [cross-sector-collaboration](../tags/cross-sector-collaboration.md)
 - [public-health-initiatives](../tags/public-health-initiatives.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

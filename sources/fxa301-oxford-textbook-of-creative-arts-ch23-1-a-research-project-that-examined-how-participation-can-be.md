@@ -24,16 +24,16 @@ This chapter explores the intersection between community cultural development (C
 
 ## Key Concepts
 
-- [Creative Placemaking](../topics/Creative Placemaking.md)
-- [Socially Engaged Art](../topics/Socially Engaged Art.md)
-- [Community Cultural Development](../topics/Community Cultural Development.md)
+- [Creative Placemaking](../topics/creative-placemaking.md)
+- [Socially Engaged Art](../topics/socially-engaged-art.md)
+- [Community Cultural Development](../topics/community-cultural-development.md)
 
 ## Tags
 
 - [community-cultural-development](../tags/community-cultural-development.md)
 - [public-health-initiatives](../tags/public-health-initiatives.md)
 - [creative-arts](../tags/creative-arts.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

@@ -41,11 +41,11 @@ The text further elaborates on initiatives such as collaborations with Noora Hea
 - [cognitive-growth](../tags/cognitive-growth.md)
 - [psychosocial-issues](../tags/psychosocial-issues.md)
 - [health-interventions](../tags/health-interventions.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

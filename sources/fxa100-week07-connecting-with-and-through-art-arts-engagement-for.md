@@ -24,9 +24,9 @@ This document discusses a research project titled 'Connecting with and through a
 
 ## Key Concepts
 
-- [arts engagement programs](../topics/arts engagement programs.md)
-- [sense of connection](../topics/sense of connection.md)
-- [in-the-moment pleasure](../topics/in-the-moment pleasure.md)
+- [arts engagement programs](../topics/arts-engagement-programs.md)
+- [sense of connection](../topics/sense-of-connection.md)
+- [in-the-moment pleasure](../topics/in-the-moment-pleasure.md)
 
 ## Tags
 
@@ -36,11 +36,11 @@ This document discusses a research project titled 'Connecting with and through a
 - [community-wellbeing](../tags/community-wellbeing.md)
 - [gallery-education](../tags/gallery-education.md)
 - [liveable-communities](../tags/liveable-communities.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

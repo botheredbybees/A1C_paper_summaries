@@ -24,9 +24,9 @@ This article explores the significance of studying the interconnections between 
 
 ## Key Concepts
 
-- [multidisciplinary collaboration](../topics/multidisciplinary collaboration.md)
-- [rehumanization of migrants](../topics/rehumanization of migrants.md)
-- [broadened cultural definitions](../topics/broadened cultural definitions.md)
+- [multidisciplinary collaboration](../topics/multidisciplinary-collaboration.md)
+- [rehumanization of migrants](../topics/rehumanization-of-migrants.md)
+- [broadened cultural definitions](../topics/broadened-cultural-definitions.md)
 
 ## Tags
 
@@ -35,7 +35,7 @@ This article explores the significance of studying the interconnections between 
 - [transdisciplinary-research](../tags/transdisciplinary-research.md)
 - [international-migration](../tags/international-migration.md)
 - [cultural-contributions](../tags/cultural-contributions.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

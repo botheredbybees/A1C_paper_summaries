@@ -24,8 +24,8 @@ The document presents the implementation survey results for Phase III of the Wis
 
 ## Key Concepts
 
-- [Music & Memory Program](../topics/Music & Memory Program.md)
-- [residents' quality of life](../topics/residents' quality of life.md)
+- [Music & Memory Program](../topics/music-memory-program.md)
+- [residents' quality of life](../topics/residents-quality-of-life.md)
 
 ## Tags
 
@@ -34,11 +34,11 @@ The document presents the implementation survey results for Phase III of the Wis
 - [long-term-care](../tags/long-term-care.md)
 - [health-outcomes](../tags/health-outcomes.md)
 - [quality-improvement](../tags/quality-improvement.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [survey](survey.md)
+- **survey**
 
 ## See Also
 

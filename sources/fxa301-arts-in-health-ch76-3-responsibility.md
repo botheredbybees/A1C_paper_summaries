@@ -33,7 +33,7 @@ This chapter discusses the professional responsibilities of researchers towards 
 - [ethics](../tags/ethics.md)
 - [research-methods](../tags/research-methods.md)
 - [professional-responsibilities](../tags/professional-responsibilities.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

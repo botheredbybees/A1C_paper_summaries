@@ -33,7 +33,7 @@ This chapter discusses strategies for developing arts-based interventions in hea
 - [arts-in-health](../tags/arts-in-health.md)
 - [research-methods](../tags/research-methods.md)
 - [intervention-design](../tags/intervention-design.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

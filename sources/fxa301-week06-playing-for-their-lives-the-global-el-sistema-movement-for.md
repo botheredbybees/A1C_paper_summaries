@@ -24,9 +24,9 @@ Jessica Grimmer reviews the book 'Playing for Their Lives: The Global El Sistema
 
 ## Key Concepts
 
-- [El Sistema movement](../topics/El Sistema movement.md)
-- [social inclusion](../topics/social inclusion.md)
-- [cooperative learning](../topics/cooperative learning.md)
+- [El Sistema movement](../topics/el-sistema-movement.md)
+- [social inclusion](../topics/social-inclusion.md)
+- [cooperative learning](../topics/cooperative-learning.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ Jessica Grimmer reviews the book 'Playing for Their Lives: The Global El Sistema
 - [community-development](../tags/community-development.md)
 - [youth-programming](../tags/youth-programming.md)
 - [latin-america](../tags/latin-america.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [book review](book review.md)
+- **book review**
 
 ## See Also
 

@@ -24,9 +24,9 @@ This transcript captures a dialogue between several teenagers discussing their s
 
 ## Key Concepts
 
-- [promises of marriage](../topics/promises of marriage.md)
+- [promises of marriage](../topics/promises-of-marriage.md)
 - [virginity](../topics/virginity.md)
-- [sexual health education](../topics/sexual health education.md)
+- [sexual health education](../topics/sexual-health-education.md)
 
 ## Tags
 
@@ -34,7 +34,7 @@ This transcript captures a dialogue between several teenagers discussing their s
 - [peer-pressure](../tags/peer-pressure.md)
 - [sexuality](../tags/sexuality.md)
 - [parties](../tags/parties.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

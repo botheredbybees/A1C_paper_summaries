@@ -24,15 +24,15 @@ This chapter discusses the use of puppetry in cognitive behavioral therapy (CBT)
 
 ## Key Concepts
 
-- [metaphorical conflict resolution](../topics/metaphorical conflict resolution.md)
-- [divergent thinking](../topics/divergent thinking.md)
+- [metaphorical conflict resolution](../topics/metaphorical-conflict-resolution.md)
+- [divergent thinking](../topics/divergent-thinking.md)
 
 ## Tags
 
 - [puppet-assisted-therapy](../tags/puppet-assisted-therapy.md)
 - [cognitive-behavioral-therapy](../tags/cognitive-behavioral-therapy.md)
 - [child-psychology](../tags/child-psychology.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

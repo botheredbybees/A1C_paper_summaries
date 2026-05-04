@@ -24,9 +24,9 @@ Dr Brendan Lamb introduces Week 6 of the FXA100 The Arts and Dementia Care cours
 
 ## Key Concepts
 
-- [Art Therapy](../topics/Art Therapy.md)
-- [Embodied Cognition](../topics/Embodied Cognition.md)
-- [Dementia Care Settings](../topics/Dementia Care Settings.md)
+- [Art Therapy](../topics/art-therapy.md)
+- [Embodied Cognition](../topics/embodied-cognition.md)
+- [Dementia Care Settings](../topics/dementia-care-settings.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ Dr Brendan Lamb introduces Week 6 of the FXA100 The Arts and Dementia Care cours
 - [art-therapy](../tags/art-therapy.md)
 - [cognitive-neuroscience](../tags/cognitive-neuroscience.md)
 - [quality-of-life](../tags/quality-of-life.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

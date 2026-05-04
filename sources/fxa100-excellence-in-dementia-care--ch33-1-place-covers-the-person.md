@@ -24,16 +24,16 @@ This chapter provides guidance on building dementia-friendly communities based o
 
 ## Key Concepts
 
-- [Healthy Cities](../topics/Healthy Cities.md)
-- [Compassionate Cities](../topics/Compassionate Cities.md)
-- [Social Model of Disability](../topics/Social Model of Disability.md)
+- [Healthy Cities](../topics/healthy-cities.md)
+- [Compassionate Cities](../topics/compassionate-cities.md)
+- [Social Model of Disability](../topics/social-model-of-disability.md)
 
 ## Tags
 
 - [dementia-friendly-communities](../tags/dementia-friendly-communities.md)
 - [social-model-of-disability](../tags/social-model-of-disability.md)
 - [community-engagement](../tags/community-engagement.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

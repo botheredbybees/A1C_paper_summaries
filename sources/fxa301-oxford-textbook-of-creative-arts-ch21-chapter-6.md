@@ -27,10 +27,10 @@ The chapter discusses the emergence and impact of community-based arts projects 
 
 ## Key Concepts
 
-- [unconditional positive regard](../topics/unconditional positive regard.md)
-- [reflective practice](../topics/reflective practice.md)
-- [social inclusion](../topics/social inclusion.md)
-- [emotional health](../topics/emotional health.md)
+- [unconditional positive regard](../topics/unconditional-positive-regard.md)
+- [reflective practice](../topics/reflective-practice.md)
+- [social inclusion](../topics/social-inclusion.md)
+- [emotional health](../topics/emotional-health.md)
 
 ## Tags
 
@@ -39,7 +39,7 @@ The chapter discusses the emergence and impact of community-based arts projects 
 - [mental-health-interventions](../tags/mental-health-interventions.md)
 - [health-promotion-strategies](../tags/health-promotion-strategies.md)
 - [public-art](../tags/public-art.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

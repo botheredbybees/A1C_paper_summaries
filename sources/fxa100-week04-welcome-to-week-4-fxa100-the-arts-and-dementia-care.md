@@ -36,11 +36,11 @@ This document introduces the fourth week of FXA100 The Arts and Dementia Care, f
 - [participatory-music](../tags/participatory-music.md)
 - [quality-of-life](../tags/quality-of-life.md)
 - [caregiver-wellbeing](../tags/caregiver-wellbeing.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

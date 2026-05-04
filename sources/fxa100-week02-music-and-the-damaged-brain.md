@@ -34,9 +34,9 @@ Overall, this text underscores the intrinsic relationship between music and huma
 
 ## Key Concepts
 
-- [music therapy](../topics/music therapy.md)
+- [music therapy](../topics/music-therapy.md)
 - [neuroplasticity](../topics/neuroplasticity.md)
-- [therapeutic benefits of music](../topics/therapeutic benefits of music.md)
+- [therapeutic benefits of music](../topics/therapeutic-benefits-of-music.md)
 
 ## Tags
 
@@ -45,12 +45,12 @@ Overall, this text underscores the intrinsic relationship between music and huma
 - [cognitive-rehabilitation](../tags/cognitive-rehabilitation.md)
 - [neuroplasticity](../tags/neuroplasticity.md)
 - [therapeutic-benefits](../tags/therapeutic-benefits.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case study](case study.md)
-- [systematic review](systematic review.md)
+- **case study**
+- **systematic review**
 
 ## See Also
 

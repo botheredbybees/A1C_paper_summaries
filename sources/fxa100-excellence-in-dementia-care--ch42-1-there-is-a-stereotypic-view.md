@@ -24,16 +24,16 @@ This chapter discusses how individuals with Alzheimer's disease are often percei
 
 ## Key Concepts
 
-- [diagnostic overshadowing](../topics/diagnostic overshadowing.md)
-- [social personae](../topics/social personae.md)
-- [semiotic subject](../topics/semiotic subject.md)
+- [diagnostic overshadowing](../topics/diagnostic-overshadowing.md)
+- [social personae](../topics/social-personae.md)
+- [semiotic subject](../topics/semiotic-subject.md)
 
 ## Tags
 
 - [dementia-care](../tags/dementia-care.md)
 - [negative-positioning](../tags/negative-positioning.md)
 - [social-construction](../tags/social-construction.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

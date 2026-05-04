@@ -24,9 +24,9 @@ The document emphasizes the importance of incorporating lived experience in crea
 
 ## Key Concepts
 
-- [authentic voice](../topics/authentic voice.md)
+- [authentic voice](../topics/authentic-voice.md)
 - [partnerships](../topics/partnerships.md)
-- [service design](../topics/service design.md)
+- [service design](../topics/service-design.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ The document emphasizes the importance of incorporating lived experience in crea
 - [mental-health-services](../tags/mental-health-services.md)
 - [community-engagement](../tags/community-engagement.md)
 - [policy-making](../tags/policy-making.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [statement](statement.md)
+- **statement**
 
 ## See Also
 

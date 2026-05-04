@@ -24,10 +24,10 @@ The article provides an overview of play therapy, emphasizing its significance i
 
 ## Key Concepts
 
-- [play therapy](../topics/play therapy.md)
-- [theoretical framework](../topics/theoretical framework.md)
-- [verbal communication](../topics/verbal communication.md)
-- [emotional expression](../topics/emotional expression.md)
+- [play therapy](../topics/play-therapy.md)
+- [theoretical framework](../topics/theoretical-framework.md)
+- [verbal communication](../topics/verbal-communication.md)
+- [emotional expression](../topics/emotional-expression.md)
 
 ## Tags
 
@@ -36,11 +36,11 @@ The article provides an overview of play therapy, emphasizing its significance i
 - [play-therapy](../tags/play-therapy.md)
 - [therapeutic-tool](../tags/therapeutic-tool.md)
 - [symbolic-expression](../tags/symbolic-expression.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [systematic review](systematic review.md)
+- **systematic review**
 
 ## See Also
 

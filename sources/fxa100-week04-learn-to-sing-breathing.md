@@ -37,11 +37,11 @@ These breathing techniques are relevant to creative arts and health, especially 
 - [vocal-performance](../tags/vocal-performance.md)
 - [music-educaion](../tags/music-educaion.md)
 - [voice-health](../tags/voice-health.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [tutorial](tutorial.md)
+- **tutorial**
 
 ## See Also
 

@@ -7,7 +7,7 @@ apa7: "Hughes, J. C., & McCormick, A. (2014). The art and practice of memory and
 doi: null
 appearances:
   - unit: FXA100
-tags: ["dementia", "art-science collaboration", "philosophy-of-mind", "fxa100"]
+tags: ["dementia", "art-science-collaboration", "philosophy-of-mind", "fxa100"]
 key_concepts: ["contextual interpretation", "social constructivism", "humanistic approach to dementia"]
 methods: []
 slug: fxa100-how-we-thnk-about-dementia-ch13-chapter-13
@@ -24,16 +24,16 @@ This chapter from 'How We Think About Dementia' by Julian C. Hughes and Ashley M
 
 ## Key Concepts
 
-- [contextual interpretation](../topics/contextual interpretation.md)
-- [social constructivism](../topics/social constructivism.md)
-- [humanistic approach to dementia](../topics/humanistic approach to dementia.md)
+- [contextual interpretation](../topics/contextual-interpretation.md)
+- [social constructivism](../topics/social-constructivism.md)
+- [humanistic approach to dementia](../topics/humanistic-approach-to-dementia.md)
 
 ## Tags
 
 - [dementia](../tags/dementia.md)
-- [art-science collaboration](../tags/art-science collaboration.md)
+- [art-science collaboration](../tags/art-science-collaboration.md)
 - [philosophy-of-mind](../tags/philosophy-of-mind.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

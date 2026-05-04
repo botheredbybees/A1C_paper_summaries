@@ -24,9 +24,9 @@ The document 'Images as Writing Prompts' emphasizes the role of visual imagery i
 
 ## Key Concepts
 
-- [creativity stimulation](../topics/creativity stimulation.md)
-- [memory association](../topics/memory association.md)
-- [storytelling enhancement](../topics/storytelling enhancement.md)
+- [creativity stimulation](../topics/creativity-stimulation.md)
+- [memory association](../topics/memory-association.md)
+- [storytelling enhancement](../topics/storytelling-enhancement.md)
 
 ## Tags
 
@@ -36,12 +36,12 @@ The document 'Images as Writing Prompts' emphasizes the role of visual imagery i
 - [narrative-development](../tags/narrative-development.md)
 - [personal-memories](../tags/personal-memories.md)
 - [educational-strategy](../tags/educational-strategy.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [case study](case study.md)
-- [experiential learning](experiential learning.md)
+- **case study**
+- **experiential learning**
 
 ## See Also
 

@@ -26,9 +26,9 @@ The document underscores the importance of understanding dementia within the uni
 
 ## Key Concepts
 
-- [socio-cultural context](../topics/socio-cultural context.md)
-- [holistic care approach](../topics/holistic care approach.md)
-- [spiritual health](../topics/spiritual health.md)
+- [socio-cultural context](../topics/socio-cultural-context.md)
+- [holistic care approach](../topics/holistic-care-approach.md)
+- [spiritual health](../topics/spiritual-health.md)
 
 ## Tags
 
@@ -38,11 +38,11 @@ The document underscores the importance of understanding dementia within the uni
 - [spiritual-wellbeing](../tags/spiritual-wellbeing.md)
 - [elder-caring](../tags/elder-caring.md)
 - [aboriginal-issues](../tags/aboriginal-issues.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

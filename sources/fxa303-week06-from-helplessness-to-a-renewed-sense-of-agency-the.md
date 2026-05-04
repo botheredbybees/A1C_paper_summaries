@@ -38,11 +38,11 @@ This article explores the use of puppetry in a school-based creative expression 
 - [puppetry-intervention](../tags/puppetry-intervention.md)
 - [mental-health-promotion](../tags/mental-health-promotion.md)
 - [school-based-programming](../tags/school-based-programming.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

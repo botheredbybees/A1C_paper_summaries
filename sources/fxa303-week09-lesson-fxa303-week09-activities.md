@@ -33,7 +33,7 @@ This week's lesson focuses on resources and networks supporting mental wellbeing
 - [creative-recovery-network](../tags/creative-recovery-network.md)
 - [trauma-informed-practice](../tags/trauma-informed-practice.md)
 - [disaster-mental-health](../tags/disaster-mental-health.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

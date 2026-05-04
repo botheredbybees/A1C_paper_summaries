@@ -35,12 +35,12 @@ This study explores the emotional impact of poetry on human physiology and neura
 - [poetry-aesthetics](../tags/poetry-aesthetics.md)
 - [emotional-reaction](../tags/emotional-reaction.md)
 - [music-comparison](../tags/music-comparison.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [neuroimaging](neuroimaging.md)
-- [psychophysiological-measures](psychophysiological-measures.md)
+- **neuroimaging**
+- **psychophysiological-measures**
 
 ## See Also
 

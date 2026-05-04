@@ -27,8 +27,8 @@ The document 'Nurturing the Heart: Creativity, Art Therapy and Dementia' by Patr
 ## Key Concepts
 
 - [creativity](../topics/creativity.md)
-- [art therapy](../topics/art therapy.md)
-- [quality of life](../topics/quality of life.md)
+- [art therapy](../topics/art-therapy.md)
+- [quality of life](../topics/quality-of-life.md)
 
 ## Tags
 
@@ -37,11 +37,11 @@ The document 'Nurturing the Heart: Creativity, Art Therapy and Dementia' by Patr
 - [creative-expression](../tags/creative-expression.md)
 - [mental-well-being](../tags/mental-well-being.md)
 - [cognitive-enhancement](../tags/cognitive-enhancement.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

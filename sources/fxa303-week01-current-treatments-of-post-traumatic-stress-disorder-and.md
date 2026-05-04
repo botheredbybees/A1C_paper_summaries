@@ -24,9 +24,9 @@ This article reviews current treatments for Post-Traumatic Stress Disorder (PTSD
 
 ## Key Concepts
 
-- [Cognitive-Behavioral-Therapy](../topics/Cognitive-Behavioral-Therapy.md)
-- [Amygdala-Hippocampal-Unit](../topics/Amygdala-Hippocampal-Unit.md)
-- [PTSD-Symptoms](../topics/PTSD-Symptoms.md)
+- [Cognitive-Behavioral-Therapy](../topics/cognitive-behavioral-therapy.md)
+- [Amygdala-Hippocampal-Unit](../topics/amygdala-hippocampal-unit.md)
+- [PTSD-Symptoms](../topics/ptsd-symptoms.md)
 
 ## Tags
 
@@ -34,11 +34,11 @@ This article reviews current treatments for Post-Traumatic Stress Disorder (PTSD
 - [amygdala-ablation](../tags/amygdala-ablation.md)
 - [refractory-cases](../tags/refractory-cases.md)
 - [neurosurgery-therapy](../tags/neurosurgery-therapy.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [systematic-review](systematic-review.md)
+- **systematic-review**
 
 ## See Also
 

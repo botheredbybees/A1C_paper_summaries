@@ -24,15 +24,15 @@ This chapter from the book 'Puppet Play Therapy: A Practical Guidebook' provides
 
 ## Key Concepts
 
-- [character development](../topics/character development.md)
-- [therapeutic engagement](../topics/therapeutic engagement.md)
+- [character development](../topics/character-development.md)
+- [therapeutic engagement](../topics/therapeutic-engagement.md)
 
 ## Tags
 
 - [puppet-therapy](../tags/puppet-therapy.md)
 - [child-psychology](../tags/child-psychology.md)
 - [creative-play](../tags/creative-play.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

@@ -24,9 +24,9 @@ In LAW122's Week 3 lecture on photography and health, Dr. Linda Erceg discusses 
 
 ## Key Concepts
 
-- [Therapeutic Photography](../topics/Therapeutic Photography.md)
-- [Phototherapy](../topics/Phototherapy.md)
-- [Nomophobia](../topics/Nomophobia.md)
+- [Therapeutic Photography](../topics/therapeutic-photography.md)
+- [Phototherapy](../topics/phototherapy.md)
+- [Nomophobia](../topics/nomophobia.md)
 
 ## Tags
 
@@ -35,7 +35,7 @@ In LAW122's Week 3 lecture on photography and health, Dr. Linda Erceg discusses 
 - [therapeutic-photography](../tags/therapeutic-photography.md)
 - [mindfulness](../tags/mindfulness.md)
 - [nomophobia](../tags/nomophobia.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 

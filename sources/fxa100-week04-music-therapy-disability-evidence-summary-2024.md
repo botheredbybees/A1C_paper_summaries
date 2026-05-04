@@ -24,9 +24,9 @@ The Australian Music Therapy Association's Disability Evidence Summary 2024 prov
 
 ## Key Concepts
 
-- [music therapy techniques](../topics/music therapy techniques.md)
-- [registered music therapists](../topics/registered music therapists.md)
-- [community participation](../topics/community participation.md)
+- [music therapy techniques](../topics/music-therapy-techniques.md)
+- [registered music therapists](../topics/registered-music-therapists.md)
+- [community participation](../topics/community-participation.md)
 
 ## Tags
 
@@ -34,11 +34,11 @@ The Australian Music Therapy Association's Disability Evidence Summary 2024 prov
 - [disability-support](../tags/disability-support.md)
 - [therapeutic-outcomes](../tags/therapeutic-outcomes.md)
 - [evidence-based-practice](../tags/evidence-based-practice.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

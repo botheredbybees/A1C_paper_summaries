@@ -33,11 +33,11 @@ This study explores the relationship between musical structure and psychophysiol
 - [music-emotion](../tags/music-emotion.md)
 - [psychophysiology-measures](../tags/psychophysiology-measures.md)
 - [musical-structure](../tags/musical-structure.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [correlational-study](correlational-study.md)
+- **correlational-study**
 
 ## See Also
 

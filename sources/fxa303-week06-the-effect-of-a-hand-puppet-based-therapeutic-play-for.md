@@ -24,10 +24,10 @@ This study aimed to determine the effects of a hand puppet-based therapeutic pla
 
 ## Key Concepts
 
-- [hand puppet-based therapeutic play](../topics/hand puppet-based therapeutic play.md)
-- [preschool children](../topics/preschool children.md)
-- [blood collection procedure](../topics/blood collection procedure.md)
-- [fear and pain reduction](../topics/fear and pain reduction.md)
+- [hand puppet-based therapeutic play](../topics/hand-puppet-based-therapeutic-play.md)
+- [preschool children](../topics/preschool-children.md)
+- [blood collection procedure](../topics/blood-collection-procedure.md)
+- [fear and pain reduction](../topics/fear-and-pain-reduction.md)
 
 ## Tags
 
@@ -37,11 +37,11 @@ This study aimed to determine the effects of a hand puppet-based therapeutic pla
 - [puppet-therapy](../tags/puppet-therapy.md)
 - [pain-management](../tags/pain-management.md)
 - [pediatric-nursing](../tags/pediatric-nursing.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [randomized controlled trial](randomized controlled trial.md)
+- **randomized controlled trial**
 
 ## See Also
 

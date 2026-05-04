@@ -40,11 +40,11 @@ The World Health Organization's fact sheet on adolescent mental health highlight
 - [behavioral-disorders](../tags/behavioral-disorders.md)
 - [public-health-initiatives](../tags/public-health-initiatives.md)
 - [risk-factors](../tags/risk-factors.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [fact-sheet](fact-sheet.md)
+- **fact-sheet**
 
 ## See Also
 

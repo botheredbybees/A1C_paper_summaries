@@ -24,9 +24,9 @@ This study examines an arts-based mental health and psychosocial support (MHPSS)
 
 ## Key Concepts
 
-- [Consensual Qualitative Research](../topics/Consensual Qualitative Research.md)
-- [Training of Trainers model](../topics/Training of Trainers model.md)
-- [creative processes in trauma recovery](../topics/creative processes in trauma recovery.md)
+- [Consensual Qualitative Research](../topics/consensual-qualitative-research.md)
+- [Training of Trainers model](../topics/training-of-trainers-model.md)
+- [creative processes in trauma recovery](../topics/creative-processes-in-trauma-recovery.md)
 
 ## Tags
 
@@ -35,12 +35,12 @@ This study examines an arts-based mental health and psychosocial support (MHPSS)
 - [psychosocial-training](../tags/psychosocial-training.md)
 - [community-resilience](../tags/community-resilience.md)
 - [trauma-recovery](../tags/trauma-recovery.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [qualitative analysis](qualitative analysis.md)
-- [interviews](interviews.md)
+- **qualitative analysis**
+- **interviews**
 
 ## See Also
 

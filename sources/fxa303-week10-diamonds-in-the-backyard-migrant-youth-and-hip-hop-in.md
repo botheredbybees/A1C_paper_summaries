@@ -24,9 +24,9 @@ This chapter explores the role of hip hop among migrant youth in Australia's reg
 
 ## Key Concepts
 
-- [Hip hop culture](../topics/Hip hop culture.md)
-- [Migrant youth experiences](../topics/Migrant youth experiences.md)
-- [Cultural identity negotiation](../topics/Cultural identity negotiation.md)
+- [Hip hop culture](../topics/hip-hop-culture.md)
+- [Migrant youth experiences](../topics/migrant-youth-experiences.md)
+- [Cultural identity negotiation](../topics/cultural-identity-negotiation.md)
 
 ## Tags
 
@@ -36,7 +36,7 @@ This chapter explores the role of hip hop among migrant youth in Australia's reg
 - [cultural-expression](../tags/cultural-expression.md)
 - [identity-negotiation](../tags/identity-negotiation.md)
 - [social-isolation](../tags/social-isolation.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

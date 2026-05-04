@@ -35,11 +35,11 @@ The intergenerational choir transcript highlights a community singing initiative
 - [music-therapy](../tags/music-therapy.md)
 - [adolescent-development](../tags/adolescent-development.md)
 - [cognitive-stimulation](../tags/cognitive-stimulation.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

@@ -34,7 +34,7 @@ This information sheet discusses copyright issues related to websites, social ne
 - [user-generated-content](../tags/user-generated-content.md)
 - [social-networks](../tags/social-networks.md)
 - [legal-guidelines](../tags/legal-guidelines.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 

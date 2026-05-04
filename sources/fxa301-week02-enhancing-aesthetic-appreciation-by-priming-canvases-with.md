@@ -24,9 +24,9 @@ This study explores the role of motor activity in aesthetic appreciation, partic
 
 ## Key Concepts
 
-- [aesthetic appreciation](../topics/aesthetic appreciation.md)
-- [motor priming](../topics/motor priming.md)
-- [covert simulation](../topics/covert simulation.md)
+- [aesthetic appreciation](../topics/aesthetic-appreciation.md)
+- [motor priming](../topics/motor-priming.md)
+- [covert simulation](../topics/covert-simulation.md)
 
 ## Tags
 
@@ -36,11 +36,11 @@ This study explores the role of motor activity in aesthetic appreciation, partic
 - [cognitive-neuroscience](../tags/cognitive-neuroscience.md)
 - [perceptual-processing](../tags/perceptual-processing.md)
 - [painting-style](../tags/painting-style.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [experiment](experiment.md)
+- **experiment**
 
 ## See Also
 

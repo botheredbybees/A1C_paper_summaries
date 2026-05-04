@@ -24,16 +24,16 @@ This chapter explores the concept of frailty and its impact on aging individuals
 
 ## Key Concepts
 
-- [cognitive reserve](../topics/cognitive reserve.md)
-- [humor therapy](../topics/humor therapy.md)
-- [playful interventions](../topics/playful interventions.md)
+- [cognitive reserve](../topics/cognitive-reserve.md)
+- [humor therapy](../topics/humor-therapy.md)
+- [playful interventions](../topics/playful-interventions.md)
 
 ## Tags
 
 - [frailty](../tags/frailty.md)
 - [aging](../tags/aging.md)
 - [cognitive-reserve](../tags/cognitive-reserve.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

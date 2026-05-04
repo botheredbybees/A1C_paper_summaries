@@ -24,15 +24,15 @@ The transcript discusses the Artists in the House program aimed at enhancing the
 
 ## Key Concepts
 
-- [Alzheimer's Disease](../topics/Alzheimer's Disease.md)
-- [Neural Plasticity](../topics/Neural Plasticity.md)
+- [Alzheimer's Disease](../topics/alzheimers-disease.md)
+- [Neural Plasticity](../topics/neural-plasticity.md)
 
 ## Tags
 
 - [aged-care](../tags/aged-care.md)
 - [self-expression](../tags/self-expression.md)
 - [neuroplasticity](../tags/neuroplasticity.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

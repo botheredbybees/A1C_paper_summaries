@@ -24,10 +24,10 @@ The article 'Can Photography Help Depression?' explores the potential benefits o
 
 ## Key Concepts
 
-- [therapeutic benefits of photography](../topics/therapeutic benefits of photography.md)
-- [emotional expression through art](../topics/emotional expression through art.md)
-- [trauma processing](../topics/trauma processing.md)
-- [self-reflection and introspection](../topics/self-reflection and introspection.md)
+- [therapeutic benefits of photography](../topics/therapeutic-benefits-of-photography.md)
+- [emotional expression through art](../topics/emotional-expression-through-art.md)
+- [trauma processing](../topics/trauma-processing.md)
+- [self-reflection and introspection](../topics/self-reflection-and-introspection.md)
 
 ## Tags
 
@@ -37,12 +37,12 @@ The article 'Can Photography Help Depression?' explores the potential benefits o
 - [art-and-healing](../tags/art-and-healing.md)
 - [photography-as-therapy](../tags/photography-as-therapy.md)
 - [wellbeing-through-art](../tags/wellbeing-through-art.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [interview study](interview study.md)
-- [case study](case study.md)
+- **interview study**
+- **case study**
 
 ## See Also
 

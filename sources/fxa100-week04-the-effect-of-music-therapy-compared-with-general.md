@@ -25,7 +25,7 @@ This study compares the effects of music therapy with general recreational activ
 ## Key Concepts
 
 - [dementia](../topics/dementia.md)
-- [music therapy](../topics/music therapy.md)
+- [music therapy](../topics/music-therapy.md)
 - [agitation](../topics/agitation.md)
 
 ## Tags
@@ -34,11 +34,11 @@ This study compares the effects of music therapy with general recreational activ
 - [music-therapy](../tags/music-therapy.md)
 - [recreational-activities](../tags/recreational-activities.md)
 - [agitation-management](../tags/agitation-management.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [randomised controlled trial](randomised controlled trial.md)
+- **randomised controlled trial**
 
 ## See Also
 

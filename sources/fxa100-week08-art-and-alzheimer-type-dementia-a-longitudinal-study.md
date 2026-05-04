@@ -34,11 +34,11 @@ The study explores the impact of art activities on individuals with Alzheimer-ty
 - [art-therapy](../tags/art-therapy.md)
 - [cognitive-decline](../tags/cognitive-decline.md)
 - [longitudinal-research](../tags/longitudinal-research.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [longitudinal-study](longitudinal-study.md)
+- **longitudinal-study**
 
 ## See Also
 

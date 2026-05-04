@@ -33,11 +33,11 @@ The 'Evaluating Community Arts & Community Well-Being' guide by Clare Keating pr
 - [community-arts](../tags/community-arts.md)
 - [well-being-assessment](../tags/well-being-assessment.md)
 - [evaluation-guide](../tags/evaluation-guide.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

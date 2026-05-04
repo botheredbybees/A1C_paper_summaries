@@ -35,11 +35,11 @@ The document 'Creating Our Future' is a comprehensive report published by the Au
 - [social-cohesion](../tags/social-cohesion.md)
 - [economic-growth](../tags/economic-growth.md)
 - [first-nations-arts](../tags/first-nations-arts.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [survey](survey.md)
+- **survey**
 
 ## See Also
 

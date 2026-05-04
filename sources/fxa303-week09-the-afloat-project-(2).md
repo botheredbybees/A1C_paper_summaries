@@ -35,11 +35,11 @@ The Afloat Project, initiated by the City of Hobart in response to the May 2018 
 - [disaster-resilience](../tags/disaster-resilience.md)
 - [environmental-connectivity](../tags/environmental-connectivity.md)
 - [flood-recovery](../tags/flood-recovery.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

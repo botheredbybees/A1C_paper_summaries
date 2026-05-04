@@ -35,11 +35,11 @@ The Stroke Recovery Association NSW highlights the benefits of participating in 
 - [social-support](../tags/social-support.md)
 - [choir-benefits](../tags/choir-benefits.md)
 - [neurorehabilitation](../tags/neurorehabilitation.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

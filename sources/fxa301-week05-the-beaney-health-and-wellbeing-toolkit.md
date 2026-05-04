@@ -32,11 +32,11 @@ The document titled 'The Beaney Health and Wellbeing Toolkit' explores the integ
 - [museum-therapy](../tags/museum-therapy.md)
 - [wellbeing-initiatives](../tags/wellbeing-initiatives.md)
 - [cultural-health](../tags/cultural-health.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

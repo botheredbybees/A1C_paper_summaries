@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "05"
-tags: ["art-science collaboration", "field-research", "antarctica", "marine-studies", "community-engagement", "fxa301"]
+tags: ["art-science-collaboration", "field-research", "antarctica", "marine-studies", "community-engagement", "fxa301"]
 key_concepts: ["expanded field of drawing", "site-responsive art", "interdisciplinary research"]
 methods: []
 slug: fxa301-week05-transcript-aprof-anne-marie-forbes-interview-with-dr
@@ -24,18 +24,18 @@ Dr. Annalise Rees discusses her arts project involving a two-month voyage to the
 
 ## Key Concepts
 
-- [expanded field of drawing](../topics/expanded field of drawing.md)
-- [site-responsive art](../topics/site-responsive art.md)
-- [interdisciplinary research](../topics/interdisciplinary research.md)
+- [expanded field of drawing](../topics/expanded-field-of-drawing.md)
+- [site-responsive art](../topics/site-responsive-art.md)
+- [interdisciplinary research](../topics/interdisciplinary-research.md)
 
 ## Tags
 
-- [art-science collaboration](../tags/art-science collaboration.md)
+- [art-science collaboration](../tags/art-science-collaboration.md)
 - [field-research](../tags/field-research.md)
 - [antarctica](../tags/antarctica.md)
 - [marine-studies](../tags/marine-studies.md)
 - [community-engagement](../tags/community-engagement.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

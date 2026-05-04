@@ -24,19 +24,19 @@ This article investigates the visuoconstructural deficits experienced by Carolus
 
 ## Key Concepts
 
-- [Alzheimer's disease](../topics/Alzheimer's disease.md)
-- [visuoconstructural deficits](../topics/visuoconstructural deficits.md)
+- [Alzheimer's disease](../topics/alzheimers-disease.md)
+- [visuoconstructural deficits](../topics/visuoconstructural-deficits.md)
 
 ## Tags
 
 - [alzheimers-art](../tags/alzheimers-art.md)
 - [cognitive-decline-creativity](../tags/cognitive-decline-creativity.md)
 - [visuospatial-function](../tags/visuospatial-function.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

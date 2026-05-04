@@ -24,19 +24,19 @@ The document 'Dementia facts and figures' by Dementia Australia provides an over
 
 ## Key Concepts
 
-- [prevalence rates](../topics/prevalence rates.md)
-- [young onset dementia](../topics/young onset dementia.md)
+- [prevalence rates](../topics/prevalence-rates.md)
+- [young onset dementia](../topics/young-onset-dementia.md)
 
 ## Tags
 
 - [dementia-statistics](../tags/dementia-statistics.md)
 - [australian-healthcare](../tags/australian-healthcare.md)
 - [elder-care](../tags/elder-care.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [epidemiological study](epidemiological study.md)
+- **epidemiological study**
 
 ## See Also
 

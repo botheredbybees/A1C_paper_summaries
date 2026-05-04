@@ -34,12 +34,12 @@ This research article investigates how music listening modulates brain activity 
 - [adolescent-neuroscience](../tags/adolescent-neuroscience.md)
 - [music-reward-system](../tags/music-reward-system.md)
 - [functional-connectivity](../tags/functional-connectivity.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [fMRI](fMRI.md)
-- [LEiDA](LEiDA.md)
+- **fMRI**
+- **LEiDA**
 
 ## See Also
 

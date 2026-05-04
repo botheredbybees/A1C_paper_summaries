@@ -7,7 +7,7 @@ apa7: "Downs, M., Bowers, B., & Cantley, E. (2014). Excellence in dementia care:
 doi: null
 appearances:
   - unit: FXA100
-tags: ["dementia care", "service-user involvement", "healthcare practices", "fxa100"]
+tags: ["dementia-care", "service-user-involvement", "healthcare-practices", "fxa100"]
 key_concepts: ["organizational support", "individualized strategies"]
 methods: []
 slug: fxa100-excellence-in-dementia-care--ch29-chapter-17
@@ -24,15 +24,15 @@ This chapter discusses the methods and challenges of involving people with demen
 
 ## Key Concepts
 
-- [organizational support](../topics/organizational support.md)
-- [individualized strategies](../topics/individualized strategies.md)
+- [organizational support](../topics/organizational-support.md)
+- [individualized strategies](../topics/individualized-strategies.md)
 
 ## Tags
 
-- [dementia care](../tags/dementia care.md)
-- [service-user involvement](../tags/service-user involvement.md)
-- [healthcare practices](../tags/healthcare practices.md)
-- [fxa100](../tags/fxa100.md)
+- [dementia care](../tags/dementia-care.md)
+- [service-user involvement](../tags/service-user-involvement.md)
+- [healthcare practices](../tags/healthcare-practices.md)
+- fxa100
 
 ## Methods
 

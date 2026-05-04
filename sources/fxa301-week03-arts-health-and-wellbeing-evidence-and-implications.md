@@ -26,20 +26,20 @@ The document explores the positive impact of arts engagement on health and wellb
 
 ## Key Concepts
 
-- [mental health outcomes](../topics/mental health outcomes.md)
-- [long-term benefits](../topics/long-term benefits.md)
-- [genetic expression](../topics/genetic expression.md)
+- [mental health outcomes](../topics/mental-health-outcomes.md)
+- [long-term benefits](../topics/long-term-benefits.md)
+- [genetic expression](../topics/genetic-expression.md)
 
 ## Tags
 
 - [arts-health](../tags/arts-health.md)
 - [wellbeing-research](../tags/wellbeing-research.md)
 - [cultural-interventions](../tags/cultural-interventions.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [systematic review](systematic review.md)
+- **systematic review**
 
 ## See Also
 

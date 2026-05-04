@@ -24,9 +24,9 @@ The lesson for Week 6 of FXA100 The Arts and Dementia Care focuses on the impact
 
 ## Key Concepts
 
-- [preserved creativity](../topics/preserved creativity.md)
-- [frontotemporal dementia](../topics/frontotemporal dementia.md)
-- [visual arts as therapy](../topics/visual arts as therapy.md)
+- [preserved creativity](../topics/preserved-creativity.md)
+- [frontotemporal dementia](../topics/frontotemporal-dementia.md)
+- [visual arts as therapy](../topics/visual-arts-as-therapy.md)
 
 ## Tags
 
@@ -35,7 +35,7 @@ The lesson for Week 6 of FXA100 The Arts and Dementia Care focuses on the impact
 - [cognitive-neuroscience](../tags/cognitive-neuroscience.md)
 - [case-study-analysis](../tags/case-study-analysis.md)
 - [neurodegenerative-diseases](../tags/neurodegenerative-diseases.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

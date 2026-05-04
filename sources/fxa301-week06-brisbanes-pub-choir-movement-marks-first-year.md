@@ -32,11 +32,11 @@ The article discusses the success of Pub Choir, a community-based singing initia
 - [community-engagement](../tags/community-engagement.md)
 - [music-culture](../tags/music-culture.md)
 - [inclusive-activities](../tags/inclusive-activities.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

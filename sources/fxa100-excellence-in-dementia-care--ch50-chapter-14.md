@@ -24,16 +24,16 @@ The chapter discusses the challenges faced by individuals with dementia and thei
 
 ## Key Concepts
 
-- [bio-psycho-social model of dementia care](../topics/bio-psycho-social model of dementia care.md)
-- [explicit vs implicit memory](../topics/explicit vs implicit memory.md)
-- [malignant social psychology](../topics/malignant social psychology.md)
+- [bio-psycho-social model of dementia care](../topics/bio-psycho-social-model-of-dementia-care.md)
+- [explicit vs implicit memory](../topics/explicit-vs-implicit-memory.md)
+- [malignant social psychology](../topics/malignant-social-psychology.md)
 
 ## Tags
 
 - [dementia-care](../tags/dementia-care.md)
 - [neuropsychology](../tags/neuropsychology.md)
 - [pharmaceutical-interventions](../tags/pharmaceutical-interventions.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

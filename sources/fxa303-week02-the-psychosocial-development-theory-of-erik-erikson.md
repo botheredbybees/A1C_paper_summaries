@@ -34,11 +34,11 @@ This article provides a comprehensive review of Erik Erikson's psychosocial deve
 - [psychosocial-theory](../tags/psychosocial-theory.md)
 - [identity-crisis](../tags/identity-crisis.md)
 - [childhood-education](../tags/childhood-education.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [critical-overview](critical-overview.md)
+- **critical-overview**
 
 ## See Also
 

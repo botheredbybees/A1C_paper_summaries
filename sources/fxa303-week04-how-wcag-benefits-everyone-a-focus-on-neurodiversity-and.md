@@ -25,7 +25,7 @@ The Web Content Accessibility Guidelines (WCAG) are designed to improve digital 
 ## Key Concepts
 
 - [Web Content Accessibility Guidelines (WCAG)](../topics/Web Content Accessibility Guidelines (WCAG).md)
-- [Neurodivergence](../topics/Neurodivergence.md)
+- [Neurodivergence](../topics/neurodivergence.md)
 
 ## Tags
 
@@ -34,11 +34,11 @@ The Web Content Accessibility Guidelines (WCAG) are designed to improve digital 
 - [user-experience-design](../tags/user-experience-design.md)
 - [digital-accessibility-standards](../tags/digital-accessibility-standards.md)
 - [inclusive-web-design](../tags/inclusive-web-design.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

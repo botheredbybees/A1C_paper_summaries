@@ -24,15 +24,15 @@ This chapter discusses the importance of cultural preservation through community
 
 ## Key Concepts
 
-- [master-apprentice programs](../topics/master-apprentice programs.md)
-- [cultural identity](../topics/cultural identity.md)
+- [master-apprentice programs](../topics/master-apprentice-programs.md)
+- [cultural identity](../topics/cultural-identity.md)
 
 ## Tags
 
 - [cultural-preservation](../tags/cultural-preservation.md)
 - [community-arts](../tags/community-arts.md)
 - [urbanization](../tags/urbanization.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

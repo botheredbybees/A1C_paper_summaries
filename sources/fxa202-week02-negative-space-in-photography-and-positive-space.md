@@ -24,10 +24,10 @@ The document discusses the concept of negative and positive spaces in photograph
 
 ## Key Concepts
 
-- [negative space](../topics/negative space.md)
-- [positive space](../topics/positive space.md)
-- [visual hierarchy](../topics/visual hierarchy.md)
-- [minimalism in photography](../topics/minimalism in photography.md)
+- [negative space](../topics/negative-space.md)
+- [positive space](../topics/positive-space.md)
+- [visual hierarchy](../topics/visual-hierarchy.md)
+- [minimalism in photography](../topics/minimalism-in-photography.md)
 
 ## Tags
 
@@ -37,11 +37,11 @@ The document discusses the concept of negative and positive spaces in photograph
 - [visual-storytelling](../tags/visual-storytelling.md)
 - [minimalist-design](../tags/minimalist-design.md)
 - [image-composition](../tags/image-composition.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

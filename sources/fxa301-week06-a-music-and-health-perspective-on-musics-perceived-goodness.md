@@ -24,9 +24,9 @@ Jane Edwards' article explores the concept of music's perceived 'goodness' from 
 
 ## Key Concepts
 
-- [perceived goodness](../topics/perceived goodness.md)
-- [intrinsic value of music](../topics/intrinsic value of music.md)
-- [commodification of music](../topics/commodification of music.md)
+- [perceived goodness](../topics/perceived-goodness.md)
+- [intrinsic value of music](../topics/intrinsic-value-of-music.md)
+- [commodification of music](../topics/commodification-of-music.md)
 
 ## Tags
 
@@ -36,11 +36,11 @@ Jane Edwards' article explores the concept of music's perceived 'goodness' from 
 - [social-benefits](../tags/social-benefits.md)
 - [ethical-considerations](../tags/ethical-considerations.md)
 - [musical-experiences](../tags/musical-experiences.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [literature review](literature review.md)
+- **literature review**
 
 ## See Also
 

@@ -35,11 +35,11 @@ This week’s content of FXA303 Creative Arts, Play and Mental Wellbeing focuses
 - [puppetry-in-therapy](../tags/puppetry-in-therapy.md)
 - [mental-wellbeing-through-play](../tags/mental-wellbeing-through-play.md)
 - [aged-care-interventions](../tags/aged-care-interventions.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

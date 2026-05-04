@@ -32,11 +32,11 @@ This review article discusses the potential impact of traumatic stress on brain 
 - [traumatic-stress](../tags/traumatic-stress.md)
 - [brain-development](../tags/brain-development.md)
 - [early-trauma](../tags/early-trauma.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [systematic-review](systematic-review.md)
+- **systematic-review**
 
 ## See Also
 

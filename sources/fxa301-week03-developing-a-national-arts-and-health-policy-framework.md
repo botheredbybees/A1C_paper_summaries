@@ -35,11 +35,11 @@ The paper 'Developing a national arts and health policy framework' by Deborah Mi
 - [therapeutic-arts](../tags/therapeutic-arts.md)
 - [healthcare-reform](../tags/healthcare-reform.md)
 - [community-engagement](../tags/community-engagement.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

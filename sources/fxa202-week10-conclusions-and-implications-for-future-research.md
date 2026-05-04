@@ -35,11 +35,11 @@ This chapter concludes that arts-based approaches can contribute to the transfor
 - [policy-impact](../tags/policy-impact.md)
 - [social-transformations](../tags/social-transformations.md)
 - [research-barriers](../tags/research-barriers.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [critical-perspective](critical-perspective.md)
+- **critical-perspective**
 
 ## See Also
 

@@ -24,10 +24,10 @@ This paper presents findings from a pilot study examining the benefits of partic
 
 ## Key Concepts
 
-- [growth mindset](../topics/growth mindset.md)
-- [resilient behaviors](../topics/resilient behaviors.md)
-- [musical skill development](../topics/musical skill development.md)
-- [social skills](../topics/social skills.md)
+- [growth mindset](../topics/growth-mindset.md)
+- [resilient behaviors](../topics/resilient-behaviors.md)
+- [musical skill development](../topics/musical-skill-development.md)
+- [social skills](../topics/social-skills.md)
 
 ## Tags
 
@@ -36,12 +36,12 @@ This paper presents findings from a pilot study examining the benefits of partic
 - [wellbeing-studies](../tags/wellbeing-studies.md)
 - [resilience-building](../tags/resilience-building.md)
 - [community-engagement](../tags/community-engagement.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [survey](survey.md)
-- [thematic analysis](thematic analysis.md)
+- **survey**
+- **thematic analysis**
 
 ## See Also
 

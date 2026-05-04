@@ -24,15 +24,15 @@ This lesson on photo editing emphasizes the importance of basic adjustments to e
 
 ## Key Concepts
 
-- [horizon straightening](../topics/horizon straightening.md)
-- [black-and-white conversion](../topics/black-and-white conversion.md)
+- [horizon straightening](../topics/horizon-straightening.md)
+- [black-and-white conversion](../topics/black-and-white-conversion.md)
 
 ## Tags
 
 - [photo-editing](../tags/photo-editing.md)
 - [photography-techniques](../tags/photography-techniques.md)
 - [image-enhancement](../tags/image-enhancement.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 

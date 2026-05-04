@@ -24,16 +24,16 @@ Tony Gillam explores the interplay between creativity, learning, and leadership 
 
 ## Key Concepts
 
-- [resilient leadership](../topics/resilient leadership.md)
-- [transformational leadership](../topics/transformational leadership.md)
-- [servant leadership](../topics/servant leadership.md)
+- [resilient leadership](../topics/resilient-leadership.md)
+- [transformational leadership](../topics/transformational-leadership.md)
+- [servant leadership](../topics/servant-leadership.md)
 
 ## Tags
 
 - [leadership-theory](../tags/leadership-theory.md)
 - [mental-health-practice](../tags/mental-health-practice.md)
 - [creative-approaches](../tags/creative-approaches.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

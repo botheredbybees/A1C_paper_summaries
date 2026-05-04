@@ -32,7 +32,7 @@ The transcript discusses the life and work of Augusto Boal, a Brazilian theatre 
 - [brazilian-theater](../tags/brazilian-theater.md)
 - [political-activism](../tags/political-activism.md)
 - [theatre-of-the-oppressed](../tags/theatre-of-the-oppressed.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

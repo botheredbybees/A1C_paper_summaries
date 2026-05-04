@@ -37,11 +37,11 @@ Through her project, Higgins employs photography as a therapeutic tool, engaging
 - [photography-as-therapy](../tags/photography-as-therapy.md)
 - [personal-narrative](../tags/personal-narrative.md)
 - [loss-and-healing](../tags/loss-and-healing.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [photographic-essay](photographic-essay.md)
+- **photographic-essay**
 
 ## See Also
 

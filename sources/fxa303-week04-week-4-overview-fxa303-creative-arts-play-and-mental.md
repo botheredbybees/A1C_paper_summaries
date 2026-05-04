@@ -37,11 +37,11 @@ This document provides an overview for Week 4 of the FXA303 Creative Arts, Play 
 - [inclusive-education](../tags/inclusive-education.md)
 - [play-based-learning](../tags/play-based-learning.md)
 - [social-model-disability](../tags/social-model-disability.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [course-overview](course-overview.md)
+- **course-overview**
 
 ## See Also
 

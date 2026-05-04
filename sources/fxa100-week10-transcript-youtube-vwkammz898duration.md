@@ -24,15 +24,15 @@ The transcript features dialogue about a grandmother named Gwen who struggles wi
 
 ## Key Concepts
 
-- [Memory Loss](../topics/Memory Loss.md)
-- [Emotional Connection](../topics/Emotional Connection.md)
+- [Memory Loss](../topics/memory-loss.md)
+- [Emotional Connection](../topics/emotional-connection.md)
 
 ## Tags
 
 - [memory-loss](../tags/memory-loss.md)
 - [family-bonding](../tags/family-bonding.md)
 - [lyric-expressions](../tags/lyric-expressions.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

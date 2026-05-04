@@ -34,7 +34,7 @@ The transcript details Helen Morse's personal and professional journey involving
 - [dementia-awareness](../tags/dementia-awareness.md)
 - [holistic-representation](../tags/holistic-representation.md)
 - [family-care](../tags/family-care.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

@@ -33,11 +33,11 @@ This chapter outlines the process of designing and evaluating arts in health int
 - [arts-in-health](../tags/arts-in-health.md)
 - [intervention-design](../tags/intervention-design.md)
 - [healthcare-integration](../tags/healthcare-integration.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

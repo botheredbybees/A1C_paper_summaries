@@ -32,7 +32,7 @@ This chapter outlines strategies for conducting research related to arts in heal
 - [arts-in-health](../tags/arts-in-health.md)
 - [healthcare-research-methods](../tags/healthcare-research-methods.md)
 - [problem-tree-analysis](../tags/problem-tree-analysis.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

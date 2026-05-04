@@ -32,11 +32,11 @@ This study investigates the effectiveness of online therapeutic clowning as a re
 - [therapeutic-clowning](../tags/therapeutic-clowning.md)
 - [online-therapy](../tags/online-therapy.md)
 - [patient-wellness](../tags/patient-wellness.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

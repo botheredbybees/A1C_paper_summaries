@@ -24,8 +24,8 @@ This systematic review evaluates the mental health and wellbeing benefits of gro
 
 ## Key Concepts
 
-- [mental health outcomes](../topics/mental health outcomes.md)
-- [community choir singing](../topics/community choir singing.md)
+- [mental health outcomes](../topics/mental-health-outcomes.md)
+- [community choir singing](../topics/community-choir-singing.md)
 
 ## Tags
 
@@ -34,11 +34,11 @@ This systematic review evaluates the mental health and wellbeing benefits of gro
 - [wellbeing-outcomes](../tags/wellbeing-outcomes.md)
 - [therapeutic-benefits](../tags/therapeutic-benefits.md)
 - [clinical-populations](../tags/clinical-populations.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [systematic review](systematic review.md)
+- **systematic review**
 
 ## See Also
 

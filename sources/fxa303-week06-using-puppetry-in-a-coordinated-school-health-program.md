@@ -32,11 +32,11 @@ The article discusses the use of puppetry as an innovative methodology to promot
 - [education-innovation](../tags/education-innovation.md)
 - [child-health-education](../tags/child-health-education.md)
 - [puppetry-teaching](../tags/puppetry-teaching.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [innovative-methodology](innovative-methodology.md)
+- **innovative-methodology**
 
 ## See Also
 

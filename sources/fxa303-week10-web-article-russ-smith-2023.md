@@ -24,9 +24,9 @@ The Indigenous Mental Health and Suicide Prevention Clearinghouse provides an ov
 
 ## Key Concepts
 
-- [strengths-based approach](../topics/strengths-based approach.md)
-- [culturally informed practices](../topics/culturally informed practices.md)
-- [community-led initiatives](../topics/community-led initiatives.md)
+- [strengths-based approach](../topics/strengths-based-approach.md)
+- [culturally informed practices](../topics/culturally-informed-practices.md)
+- [community-led initiatives](../topics/community-led-initiatives.md)
 
 ## Tags
 
@@ -35,7 +35,7 @@ The Indigenous Mental Health and Suicide Prevention Clearinghouse provides an ov
 - [suicide-prevention](../tags/suicide-prevention.md)
 - [aboriginal-culture](../tags/aboriginal-culture.md)
 - [publications](../tags/publications.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

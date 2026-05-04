@@ -7,13 +7,14 @@ apa7: "Craig, C., Killick, J., & Claire. (2011). Creativity and Communication in
 doi: null
 appearances:
   - unit: FXA100
+  - unit: FXA100
 tags: ["dementia-care", "creative-therapy", "individual-vs-group-sessions", "fxa100"]
 key_concepts: ["self-expression", "person-centered care"]
 methods: []
 slug: fxa100-creativity-and-communication-ch10-20-drilling-down-to-the-detail-once-you-have-established
 related: ["creative-therapy", "dementia-care"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-04
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-creativity-and-communication-ch10-20-drilling-down-to-the-detail-once-you-have-established.md_
@@ -25,14 +26,14 @@ This chapter delves into the practical aspects of conducting creative arts sessi
 ## Key Concepts
 
 - [self-expression](../topics/self-expression.md)
-- [person-centered care](../topics/person-centered care.md)
+- [person-centered care](../topics/person-centered-care.md)
 
 ## Tags
 
 - [dementia-care](../tags/dementia-care.md)
 - [creative-therapy](../tags/creative-therapy.md)
 - [individual-vs-group-sessions](../tags/individual-vs-group-sessions.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

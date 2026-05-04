@@ -28,10 +28,10 @@ This video transcript explores whether the brains of professional musicians exhi
 
 ## Key Concepts
 
-- [brain plasticity](../topics/brain plasticity.md)
-- [morphological changes](../topics/morphological changes.md)
-- [perfect pitch](../topics/perfect pitch.md)
-- [functional differences](../topics/functional differences.md)
+- [brain plasticity](../topics/brain-plasticity.md)
+- [morphological changes](../topics/morphological-changes.md)
+- [perfect pitch](../topics/perfect-pitch.md)
+- [functional differences](../topics/functional-differences.md)
 
 ## Tags
 
@@ -40,12 +40,12 @@ This video transcript explores whether the brains of professional musicians exhi
 - [neuroscience-research](../tags/neuroscience-research.md)
 - [musical-training-effects](../tags/musical-training-effects.md)
 - [functional-imaging](../tags/functional-imaging.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case study](case study.md)
-- [functional imaging](functional imaging.md)
+- **case study**
+- **functional imaging**
 
 ## See Also
 

@@ -33,11 +33,11 @@ This paper presents a case of neuronal intermediate filament inclusion disease (
 - [neurological-disease](../tags/neurological-disease.md)
 - [dementia-research](../tags/dementia-research.md)
 - [artistic-creativity](../tags/artistic-creativity.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

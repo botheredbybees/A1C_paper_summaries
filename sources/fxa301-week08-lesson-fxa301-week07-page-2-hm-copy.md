@@ -24,16 +24,16 @@ This lesson explores case studies of theatre and drama engagement focusing on th
 
 ## Key Concepts
 
-- [Theater of the Oppressed](../topics/Theater of the Oppressed.md)
-- [Laughter Therapy](../topics/Laughter Therapy.md)
-- [Peer Education](../topics/Peer Education.md)
+- [Theater of the Oppressed](../topics/theater-of-the-oppressed.md)
+- [Laughter Therapy](../topics/laughter-therapy.md)
+- [Peer Education](../topics/peer-education.md)
 
 ## Tags
 
 - [theater-of-the-oppressed](../tags/theater-of-the-oppressed.md)
 - [laughter-and-wellbeing](../tags/laughter-and-wellbeing.md)
 - [sexual-health-education](../tags/sexual-health-education.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

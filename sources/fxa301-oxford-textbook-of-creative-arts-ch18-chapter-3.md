@@ -7,7 +7,7 @@ apa7: "Hanlon, P., & Carlisle, S. (2016). The fifth wave of public health and th
 doi: null
 appearances:
   - unit: FXA301
-tags: ["public health", "art-and-health", "social-welfare", "fxa301"]
+tags: ["public-health", "art-and-health", "social-welfare", "fxa301"]
 key_concepts: ["public health waves", "emergent societal problems"]
 methods: []
 slug: fxa301-oxford-textbook-of-creative-arts-ch18-chapter-3
@@ -24,15 +24,15 @@ This chapter explores the evolution of public health waves in the UK since the I
 
 ## Key Concepts
 
-- [public health waves](../topics/public health waves.md)
-- [emergent societal problems](../topics/emergent societal problems.md)
+- [public health waves](../topics/public-health-waves.md)
+- [emergent societal problems](../topics/emergent-societal-problems.md)
 
 ## Tags
 
-- [public health](../tags/public health.md)
+- [public health](../tags/public-health.md)
 - [art-and-health](../tags/art-and-health.md)
 - [social-welfare](../tags/social-welfare.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

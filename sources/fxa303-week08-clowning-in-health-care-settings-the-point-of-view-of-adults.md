@@ -36,11 +36,11 @@ This paper explores the concept and effects of medical clowning on adults within
 - [adult-patients](../tags/adult-patients.md)
 - [stress-reduction](../tags/stress-reduction.md)
 - [hospitals](../tags/hospitals.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [literature-review](literature-review.md)
+- **literature-review**
 
 ## See Also
 

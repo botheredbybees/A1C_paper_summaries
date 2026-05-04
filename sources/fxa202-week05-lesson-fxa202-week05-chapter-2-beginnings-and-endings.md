@@ -26,10 +26,10 @@ This lesson focuses on structuring visual stories through photo essays. It cover
 
 ## Key Concepts
 
-- [lead photo](../topics/lead photo.md)
-- [establishing shot](../topics/establishing shot.md)
-- [closing shot](../topics/closing shot.md)
-- [story structure](../topics/story structure.md)
+- [lead photo](../topics/lead-photo.md)
+- [establishing shot](../topics/establishing-shot.md)
+- [closing shot](../topics/closing-shot.md)
+- [story structure](../topics/story-structure.md)
 
 ## Tags
 
@@ -37,7 +37,7 @@ This lesson focuses on structuring visual stories through photo essays. It cover
 - [photo-essays](../tags/photo-essays.md)
 - [linear-stories](../tags/linear-stories.md)
 - [non-linear-stories](../tags/non-linear-stories.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 

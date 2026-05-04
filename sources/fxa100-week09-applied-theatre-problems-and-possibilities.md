@@ -39,11 +39,11 @@ The relevance to creative arts and health is evident, as Ackroyd's work undersco
 - [theatrical-therapy](../tags/theatrical-therapy.md)
 - [social-change-through-art](../tags/social-change-through-art.md)
 - [community-development](../tags/community-development.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [literature-review](literature-review.md)
+- **literature-review**
 
 ## See Also
 

@@ -24,9 +24,9 @@ A study conducted in a care home found that singing in group music sessions sign
 
 ## Key Concepts
 
-- [group music therapy](../topics/group music therapy.md)
-- [cognitive decline reversal](../topics/cognitive decline reversal.md)
-- [life satisfaction enhancement](../topics/life satisfaction enhancement.md)
+- [group music therapy](../topics/group-music-therapy.md)
+- [cognitive decline reversal](../topics/cognitive-decline-reversal.md)
+- [life satisfaction enhancement](../topics/life-satisfaction-enhancement.md)
 
 ## Tags
 
@@ -36,12 +36,12 @@ A study conducted in a care home found that singing in group music sessions sign
 - [neuroplasticity-in-dementia](../tags/neuroplasticity-in-dementia.md)
 - [quality-of-life-improvement](../tags/quality-of-life-improvement.md)
 - [alzheimers-research](../tags/alzheimers-research.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [observational study](observational study.md)
-- [randomized group comparison](randomized group comparison.md)
+- **observational study**
+- **randomized group comparison**
 
 ## See Also
 

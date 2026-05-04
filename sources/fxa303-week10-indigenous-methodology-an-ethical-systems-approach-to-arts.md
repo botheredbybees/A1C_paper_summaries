@@ -33,7 +33,7 @@ Michelle Napoli's article discusses the importance of Indigenous methodology in 
 - [indigenous-methodology](../tags/indigenous-methodology.md)
 - [arts-based-therapy](../tags/arts-based-therapy.md)
 - [native-communities](../tags/native-communities.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

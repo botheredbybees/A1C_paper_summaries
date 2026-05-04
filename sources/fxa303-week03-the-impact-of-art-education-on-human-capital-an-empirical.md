@@ -24,9 +24,9 @@ This paper explores the impact of participating in a youth orchestra on cognitiv
 
 ## Key Concepts
 
-- [cognitive development](../topics/cognitive development.md)
-- [extracurricular activities](../topics/extracurricular activities.md)
-- [socio-emotional skills](../topics/socio-emotional skills.md)
+- [cognitive development](../topics/cognitive-development.md)
+- [extracurricular activities](../topics/extracurricular-activities.md)
+- [socio-emotional skills](../topics/socio-emotional-skills.md)
 
 ## Tags
 
@@ -35,12 +35,12 @@ This paper explores the impact of participating in a youth orchestra on cognitiv
 - [human-capital](../tags/human-capital.md)
 - [socio-emotional-learning](../tags/socio-emotional-learning.md)
 - [at-risk-students](../tags/at-risk-students.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [empirical assessment](empirical assessment.md)
-- [longitudinal study](longitudinal study.md)
+- **empirical assessment**
+- **longitudinal study**
 
 ## See Also
 

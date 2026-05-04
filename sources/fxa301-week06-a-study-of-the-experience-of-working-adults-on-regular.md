@@ -35,11 +35,11 @@ This study explores the experiences of working adults participating in regular c
 - [choral-activities](../tags/choral-activities.md)
 - [focus-groups](../tags/focus-groups.md)
 - [psychological-wellbeing](../tags/psychological-wellbeing.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [focus-group-interviews](focus-group-interviews.md)
+- **focus-group-interviews**
 
 ## See Also
 

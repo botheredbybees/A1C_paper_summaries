@@ -24,9 +24,9 @@ This study conducted a systematic review with meta-analysis to summarize the evi
 
 ## Key Concepts
 
-- [fall risk reduction](../topics/fall risk reduction.md)
-- [balance improvement](../topics/balance improvement.md)
-- [functional capacity](../topics/functional capacity.md)
+- [fall risk reduction](../topics/fall-risk-reduction.md)
+- [balance improvement](../topics/balance-improvement.md)
+- [functional capacity](../topics/functional-capacity.md)
 
 ## Tags
 
@@ -35,12 +35,12 @@ This study conducted a systematic review with meta-analysis to summarize the evi
 - [fall-prevention](../tags/fall-prevention.md)
 - [physical-activity](../tags/physical-activity.md)
 - [systematic-review](../tags/systematic-review.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [systematic review](systematic review.md)
-- [meta-analysis](meta-analysis.md)
+- **systematic review**
+- **meta-analysis**
 
 ## See Also
 

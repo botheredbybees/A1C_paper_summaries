@@ -35,11 +35,11 @@ This study investigates the impact of social dancing on fall rates among older a
 - [aging-research](../tags/aging-research.md)
 - [physical-activity](../tags/physical-activity.md)
 - [public-health](../tags/public-health.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [RCT](RCT.md)
+- **RCT**
 
 ## See Also
 

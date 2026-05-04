@@ -34,13 +34,13 @@ This research examines the role and impact of creative activities for individual
 - [aged-care-facilities](../tags/aged-care-facilities.md)
 - [creative-activities](../tags/creative-activities.md)
 - [quality-of-life](../tags/quality-of-life.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [cross-sectional descriptive study](cross-sectional descriptive study.md)
-- [online survey](online survey.md)
-- [qualitative interviews](qualitative interviews.md)
+- **cross-sectional descriptive study**
+- **online survey**
+- **qualitative interviews**
 
 ## See Also
 

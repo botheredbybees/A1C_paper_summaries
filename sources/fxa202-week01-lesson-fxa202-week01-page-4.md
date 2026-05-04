@@ -32,7 +32,7 @@ This module provides an overview of the first week's activities in a photography
 - [legal-systems](../tags/legal-systems.md)
 - [photography-essay](../tags/photography-essay.md)
 - [discussion-board](../tags/discussion-board.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 

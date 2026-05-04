@@ -25,8 +25,8 @@ The study by Black, Frederico, and Bamblett explores the social and emotional we
 ## Key Concepts
 
 - [social and emotional wellbeing (SEWB)](../topics/social and emotional wellbeing (SEWB).md)
-- [resilience building](../topics/resilience building.md)
-- [help-seeking behaviors](../topics/help-seeking behaviors.md)
+- [resilience building](../topics/resilience-building.md)
+- [help-seeking behaviors](../topics/help-seeking-behaviors.md)
 
 ## Tags
 
@@ -36,7 +36,7 @@ The study by Black, Frederico, and Bamblett explores the social and emotional we
 - [intergenerational-trauma](../tags/intergenerational-trauma.md)
 - [out-of-home-care](../tags/out-of-home-care.md)
 - [mental-health](../tags/mental-health.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

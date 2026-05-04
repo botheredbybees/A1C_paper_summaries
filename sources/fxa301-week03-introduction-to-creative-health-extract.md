@@ -28,9 +28,9 @@ The document argues that creative health must be available to everyone without r
 
 ## Key Concepts
 
-- [creative health](../topics/creative health.md)
-- [holistic view of health](../topics/holistic view of health.md)
-- [equitable access to healthcare](../topics/equitable access to healthcare.md)
+- [creative health](../topics/creative-health.md)
+- [holistic view of health](../topics/holistic-view-of-health.md)
+- [equitable access to healthcare](../topics/equitable-access-to-healthcare.md)
 
 ## Tags
 
@@ -39,11 +39,11 @@ The document argues that creative health must be available to everyone without r
 - [social-determinants-of-health](../tags/social-determinants-of-health.md)
 - [health-equality](../tags/health-equality.md)
 - [community-wellbeing](../tags/community-wellbeing.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [systematic review](systematic review.md)
+- **systematic review**
 
 ## See Also
 

@@ -33,7 +33,7 @@ The course content for Week 1 of FXA301 'Arts in the Community' introduces stude
 - [community-arts](../tags/community-arts.md)
 - [discussion-forum](../tags/discussion-forum.md)
 - [national-survey](../tags/national-survey.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

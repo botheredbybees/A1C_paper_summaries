@@ -30,10 +30,10 @@ This information is highly relevant to creative arts and health disciplines, hig
 
 ## Key Concepts
 
-- [beta-amyloid plaques](../topics/beta-amyloid plaques.md)
-- [tau proteins](../topics/tau proteins.md)
-- [acetylcholine inhibitors](../topics/acetylcholine inhibitors.md)
-- [immune response training vaccines](../topics/immune response training vaccines.md)
+- [beta-amyloid plaques](../topics/beta-amyloid-plaques.md)
+- [tau proteins](../topics/tau-proteins.md)
+- [acetylcholine inhibitors](../topics/acetylcholine-inhibitors.md)
+- [immune response training vaccines](../topics/immune-response-training-vaccines.md)
 
 ## Tags
 
@@ -43,11 +43,11 @@ This information is highly relevant to creative arts and health disciplines, hig
 - [memory-loss](../tags/memory-loss.md)
 - [cognitive-decline](../tags/cognitive-decline.md)
 - [health-care](../tags/health-care.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

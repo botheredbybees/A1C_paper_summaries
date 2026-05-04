@@ -1,0 +1,28 @@
+---
+type: topic
+domain: "theory"
+title: "Biopsychosocial Model"
+confidence: low
+tags: ["biopsychosocial-model"]
+sources:
+  - fxa301-arts-in-health-ch04-48-haldane-d
+updated: 2026-05-04
+---
+
+## Biopsychosocial Model
+
+The biopsychosocial model is a theoretical framework that moves beyond the traditional biomedical approach to health and illness. It integrates biological, psychological, and social factors in understanding human functioning and disease processes. Criticizing Cartesian dualism's separation of mind and body and Sigmund Freud's psychoanalysis for focusing too narrowly on individual psyches, proponents argue that effective healthcare requires a holistic view encompassing these interconnected dimensions. This model emphasizes the interplay between biological systems, psychological states such as thoughts and emotions, and societal structures like economic conditions and social relationships.
+
+## Key Findings
+
+- The biopsychosocial model integrates multiple aspects of human experience to provide a comprehensive understanding of health and illness.
+- It critiques Cartesian dualism for the separation of mind-body connection in healthcare approaches.
+- Critiques also include limitations of earlier psychological models like Freud's psychoanalysis that overemphasize individual psyches.
+
+## Open Questions
+
+- How can the biopsychosocial model be effectively integrated into clinical practice while addressing its theoretical critiques and limitations?
+
+## Sources
+
+- [fxa301-arts-in-health-ch04-48-haldane-d](../sources/fxa301-arts-in-health-ch04-48-haldane-d.md)

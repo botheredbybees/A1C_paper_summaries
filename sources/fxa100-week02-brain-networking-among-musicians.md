@@ -39,11 +39,11 @@ The video transcript discusses the phenomenon of brain synchronization among mus
 - [neurological-research](../tags/neurological-research.md)
 - [music-therapy](../tags/music-therapy.md)
 - [cognitive-disorders](../tags/cognitive-disorders.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

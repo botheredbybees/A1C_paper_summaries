@@ -24,16 +24,16 @@ This transcript captures a discussion on the intersection between neuroscience, 
 
 ## Key Concepts
 
-- [mirror neurons](../topics/mirror neurons.md)
-- [empathetic understanding](../topics/empathetic understanding.md)
-- [neural activity](../topics/neural activity.md)
+- [mirror neurons](../topics/mirror-neurons.md)
+- [empathetic understanding](../topics/empathetic-understanding.md)
+- [neural activity](../topics/neural-activity.md)
 
 ## Tags
 
 - [neuroscience](../tags/neuroscience.md)
 - [art-history](../tags/art-history.md)
 - [embodied-cognition](../tags/embodied-cognition.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

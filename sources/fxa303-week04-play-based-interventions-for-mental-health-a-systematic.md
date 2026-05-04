@@ -24,9 +24,9 @@ This systematic review and meta-analysis assesses the impact of play-based inter
 
 ## Key Concepts
 
-- [play-based interventions](../topics/play-based interventions.md)
-- [PRISMA guidelines](../topics/PRISMA guidelines.md)
-- [mental health outcomes](../topics/mental health outcomes.md)
+- [play-based interventions](../topics/play-based-interventions.md)
+- [PRISMA guidelines](../topics/prisma-guidelines.md)
+- [mental health outcomes](../topics/mental-health-outcomes.md)
 
 ## Tags
 
@@ -35,12 +35,12 @@ This systematic review and meta-analysis assesses the impact of play-based inter
 - [autism-spectrum-disorder](../tags/autism-spectrum-disorder.md)
 - [developmental-language-disorder](../tags/developmental-language-disorder.md)
 - [systematic-review-meta-analysis](../tags/systematic-review-meta-analysis.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [systematic review](systematic review.md)
-- [meta-analysis](meta-analysis.md)
+- **systematic review**
+- **meta-analysis**
 
 ## See Also
 

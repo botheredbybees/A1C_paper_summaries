@@ -7,13 +7,14 @@ apa7: "Killick, J., Craig, C., & Killick, J. (2011). Moving in the moment: Dance
 doi: null
 appearances:
   - unit: FXA100
+  - unit: FXA100
 tags: ["dementia-therapy", "spontaneous-movement", "dance-therapy", "fxa100"]
 key_concepts: ["body-memory", "non-verbal-expression"]
 methods: []
 slug: fxa100-creativity-and-communication-ch06-5-moving-in-the-moment-dance-john-killick-in-the-previous
 related: ["dance-therapy", "dementia-therapy"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-04
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-creativity-and-communication-ch06-5-moving-in-the-moment-dance-john-killick-in-the-previous.md_
@@ -32,7 +33,7 @@ This chapter discusses the therapeutic benefits of dance for individuals with de
 - [dementia-therapy](../tags/dementia-therapy.md)
 - [spontaneous-movement](../tags/spontaneous-movement.md)
 - [dance-therapy](../tags/dance-therapy.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

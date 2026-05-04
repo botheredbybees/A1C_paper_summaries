@@ -34,11 +34,11 @@ This document outlines various pharmacological and non-pharmacological intervent
 - [pharmacological-interventions](../tags/pharmacological-interventions.md)
 - [non-pharmacological-therapy](../tags/non-pharmacological-therapy.md)
 - [cognitive-stimulation](../tags/cognitive-stimulation.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [systematic-review](systematic-review.md)
+- **systematic-review**
 
 ## See Also
 

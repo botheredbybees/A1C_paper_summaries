@@ -24,10 +24,10 @@ The chapter explores philosophical perspectives on dementia, emphasizing theorie
 
 ## Key Concepts
 
-- [embodied selfhood](../topics/embodied selfhood.md)
-- [bodily autonomy](../topics/bodily autonomy.md)
-- [tacit knowledge](../topics/tacit knowledge.md)
-- [sedimentation of habits](../topics/sedimentation of habits.md)
+- [embodied selfhood](../topics/embodied-selfhood.md)
+- [bodily autonomy](../topics/bodily-autonomy.md)
+- [tacit knowledge](../topics/tacit-knowledge.md)
+- [sedimentation of habits](../topics/sedimentation-of-habits.md)
 
 ## Tags
 
@@ -36,7 +36,7 @@ The chapter explores philosophical perspectives on dementia, emphasizing theorie
 - [personhood-theory](../tags/personhood-theory.md)
 - [tacit-knowledge](../tags/tacit-knowledge.md)
 - [sedimentation](../tags/sedimentation.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

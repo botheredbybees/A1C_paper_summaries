@@ -24,9 +24,9 @@ This volume presents cutting-edge research and practical applications of Creativ
 
 ## Key Concepts
 
-- [expressive arts therapy](../topics/expressive arts therapy.md)
-- [empathy mirroring](../topics/empathy mirroring.md)
-- [tele-dance movement psychotherapy](../topics/tele-dance movement psychotherapy.md)
+- [expressive arts therapy](../topics/expressive-arts-therapy.md)
+- [empathy mirroring](../topics/empathy-mirroring.md)
+- [tele-dance movement psychotherapy](../topics/tele-dance-movement-psychotherapy.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ This volume presents cutting-edge research and practical applications of Creativ
 - [mental-wellbeing](../tags/mental-wellbeing.md)
 - [digital-interventions](../tags/digital-interventions.md)
 - [social-connections](../tags/social-connections.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [systematic review](systematic review.md)
+- **systematic review**
 
 ## See Also
 

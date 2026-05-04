@@ -24,9 +24,9 @@ This document introduces the concept of engaging with music and dance within com
 
 ## Key Concepts
 
-- [engagement modes](../topics/engagement modes.md)
-- [healing practices](../topics/healing practices.md)
-- [neural interactions](../topics/neural interactions.md)
+- [engagement modes](../topics/engagement-modes.md)
+- [healing practices](../topics/healing-practices.md)
+- [neural interactions](../topics/neural-interactions.md)
 
 ## Tags
 
@@ -36,12 +36,12 @@ This document introduces the concept of engaging with music and dance within com
 - [health-outcomes](../tags/health-outcomes.md)
 - [neuroscience](../tags/neuroscience.md)
 - [historical-perspective](../tags/historical-perspective.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case study](case study.md)
-- [systematic review](systematic review.md)
+- **case study**
+- **systematic review**
 
 ## See Also
 

@@ -40,11 +40,11 @@ McCurry’s advice concludes with the reminder that while composition rules are 
 - [visual-communication](../tags/visual-communication.md)
 - [creative-expression](../tags/creative-expression.md)
 - [composition-rules](../tags/composition-rules.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

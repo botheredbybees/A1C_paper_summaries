@@ -24,9 +24,9 @@ This systematic review and meta-analysis evaluates the effectiveness of dance in
 
 ## Key Concepts
 
-- [falls prevention](../topics/falls prevention.md)
-- [dance intervention efficacy](../topics/dance intervention efficacy.md)
-- [functional outcome measures](../topics/functional outcome measures.md)
+- [falls prevention](../topics/falls-prevention.md)
+- [dance intervention efficacy](../topics/dance-intervention-efficacy.md)
+- [functional outcome measures](../topics/functional-outcome-measures.md)
 
 ## Tags
 
@@ -35,12 +35,12 @@ This systematic review and meta-analysis evaluates the effectiveness of dance in
 - [older-adults](../tags/older-adults.md)
 - [systematic-review](../tags/systematic-review.md)
 - [meta-analysis](../tags/meta-analysis.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [systematic review](systematic review.md)
-- [meta-analysis](meta-analysis.md)
+- **systematic review**
+- **meta-analysis**
 
 ## See Also
 

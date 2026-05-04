@@ -34,11 +34,11 @@ This article discusses the significance and impact of disability-led theatre in 
 - [inclusive-theatre](../tags/inclusive-theatre.md)
 - [dementia-friendly-performances](../tags/dementia-friendly-performances.md)
 - [community-engagement](../tags/community-engagement.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

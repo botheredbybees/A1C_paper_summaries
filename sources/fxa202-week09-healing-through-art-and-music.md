@@ -24,11 +24,11 @@ Cassandra Yates reflects on her journey through chronic pain and emotional numbn
 
 ## Key Concepts
 
-- [chronic pain](../topics/chronic pain.md)
-- [art therapy](../topics/art therapy.md)
-- [music therapy](../topics/music therapy.md)
-- [emotional healing](../topics/emotional healing.md)
-- [survival mode](../topics/survival mode.md)
+- [chronic pain](../topics/chronic-pain.md)
+- [art therapy](../topics/art-therapy.md)
+- [music therapy](../topics/music-therapy.md)
+- [emotional healing](../topics/emotional-healing.md)
+- [survival mode](../topics/survival-mode.md)
 
 ## Tags
 
@@ -38,11 +38,11 @@ Cassandra Yates reflects on her journey through chronic pain and emotional numbn
 - [creative-expression](../tags/creative-expression.md)
 - [self-reflection](../tags/self-reflection.md)
 - [trauma-recovery](../tags/trauma-recovery.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [personal narrative](personal narrative.md)
+- **personal narrative**
 
 ## See Also
 

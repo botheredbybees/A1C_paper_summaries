@@ -26,15 +26,15 @@ This chapter, part of a guide for working with communities through arts-based in
 
 ## Key Concepts
 
-- [artistic genre](../topics/artistic genre.md)
-- [cultural context](../topics/cultural context.md)
+- [artistic genre](../topics/artistic-genre.md)
+- [cultural context](../topics/cultural-context.md)
 
 ## Tags
 
 - [genre-analysis](../tags/genre-analysis.md)
 - [community-art-workshops](../tags/community-art-workshops.md)
 - [ethnographic-research](../tags/ethnographic-research.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

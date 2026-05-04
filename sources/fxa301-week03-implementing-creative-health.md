@@ -24,11 +24,11 @@ The document discusses the growing recognition of creative health's potential to
 
 ## Key Concepts
 
-- [Creative Health](../topics/Creative Health.md)
-- [Health Inequalities](../topics/Health Inequalities.md)
-- [Sustainable Development Goals](../topics/Sustainable Development Goals.md)
-- [Cost-Effectiveness Analysis](../topics/Cost-Effectiveness Analysis.md)
-- [Arts-Based Social Prescribing](../topics/Arts-Based Social Prescribing.md)
+- [Creative Health](../topics/creative-health.md)
+- [Health Inequalities](../topics/health-inequalities.md)
+- [Sustainable Development Goals](../topics/sustainable-development-goals.md)
+- [Cost-Effectiveness Analysis](../topics/cost-effectiveness-analysis.md)
+- [Arts-Based Social Prescribing](../topics/arts-based-social-prescribing.md)
 
 ## Tags
 
@@ -38,12 +38,12 @@ The document discusses the growing recognition of creative health's potential to
 - [cost-effectiveness](../tags/cost-effectiveness.md)
 - [arts-in-healthcare](../tags/arts-in-healthcare.md)
 - [social-care](../tags/social-care.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [economic evaluation](economic evaluation.md)
-- [systematic review](systematic review.md)
+- **economic evaluation**
+- **systematic review**
 
 ## See Also
 

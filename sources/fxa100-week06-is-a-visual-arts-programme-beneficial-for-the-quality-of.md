@@ -24,9 +24,9 @@ This symposium addresses the growing interest in utilizing arts programs to enha
 
 ## Key Concepts
 
-- [visual arts interventions](../topics/visual arts interventions.md)
-- [quality of life](../topics/quality of life.md)
-- [participatory methods](../topics/participatory methods.md)
+- [visual arts interventions](../topics/visual-arts-interventions.md)
+- [quality of life](../topics/quality-of-life.md)
+- [participatory methods](../topics/participatory-methods.md)
 
 ## Tags
 
@@ -35,12 +35,12 @@ This symposium addresses the growing interest in utilizing arts programs to enha
 - [quality-of-life](../tags/quality-of-life.md)
 - [community-engagement](../tags/community-engagement.md)
 - [interdisciplinary-research](../tags/interdisciplinary-research.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [longitudinal study](longitudinal study.md)
-- [mixed-method](mixed-method.md)
+- **longitudinal study**
+- **mixed-method**
 
 ## See Also
 

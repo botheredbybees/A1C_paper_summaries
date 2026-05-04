@@ -24,8 +24,8 @@ This article discusses a monumental dragon sculpture project called 'Okoa the Wa
 
 ## Key Concepts
 
-- [Arts in Medicine Program](../topics/Arts in Medicine Program.md)
-- [Therapeutic Benefits of Art](../topics/Therapeutic Benefits of Art.md)
+- [Arts in Medicine Program](../topics/arts-in-medicine-program.md)
+- [Therapeutic Benefits of Art](../topics/therapeutic-benefits-of-art.md)
 
 ## Tags
 
@@ -34,11 +34,11 @@ This article discusses a monumental dragon sculpture project called 'Okoa the Wa
 - [community-building](../tags/community-building.md)
 - [patient-care](../tags/patient-care.md)
 - [therapeutic-benefits](../tags/therapeutic-benefits.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

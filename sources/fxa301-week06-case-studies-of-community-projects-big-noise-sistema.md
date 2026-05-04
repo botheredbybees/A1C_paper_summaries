@@ -24,10 +24,10 @@ This document discusses the 'Big Noise' programme under Sistema Scotland, a soci
 
 ## Key Concepts
 
-- [Sistema Scotland](../topics/Sistema Scotland.md)
-- [Big Noise programme](../topics/Big Noise programme.md)
-- [educational performance](../topics/educational performance.md)
-- [health and wellbeing](../topics/health and wellbeing.md)
+- [Sistema Scotland](../topics/sistema-scotland.md)
+- [Big Noise programme](../topics/big-noise-programme.md)
+- [educational performance](../topics/educational-performance.md)
+- [health and wellbeing](../topics/health-and-wellbeing.md)
 
 ## Tags
 
@@ -36,11 +36,11 @@ This document discusses the 'Big Noise' programme under Sistema Scotland, a soci
 - [socioeconomic-factors](../tags/socioeconomic-factors.md)
 - [youth-programs](../tags/youth-programs.md)
 - [social-impact](../tags/social-impact.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

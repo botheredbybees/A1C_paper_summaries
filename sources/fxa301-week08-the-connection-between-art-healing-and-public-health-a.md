@@ -24,20 +24,20 @@ This review article examines the relationship between engagement with creative a
 
 ## Key Concepts
 
-- [music therapy](../topics/music therapy.md)
-- [visual arts therapy](../topics/visual arts therapy.md)
-- [expressive writing](../topics/expressive writing.md)
+- [music therapy](../topics/music-therapy.md)
+- [visual arts therapy](../topics/visual-arts-therapy.md)
+- [expressive writing](../topics/expressive-writing.md)
 
 ## Tags
 
 - [art-therapy](../tags/art-therapy.md)
 - [public-health](../tags/public-health.md)
 - [creative-expression](../tags/creative-expression.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [systematic review](systematic review.md)
+- **systematic review**
 
 ## See Also
 

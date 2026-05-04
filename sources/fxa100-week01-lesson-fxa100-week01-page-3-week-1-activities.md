@@ -24,8 +24,8 @@ This course introduction for FXA100 focuses on engaging students in the arts-bas
 
 ## Key Concepts
 
-- [engagement in online discussions](../topics/engagement in online discussions.md)
-- [music therapy](../topics/music therapy.md)
+- [engagement in online discussions](../topics/engagement-in-online-discussions.md)
+- [music therapy](../topics/music-therapy.md)
 
 ## Tags
 
@@ -33,7 +33,7 @@ This course introduction for FXA100 focuses on engaging students in the arts-bas
 - [arts-therapy](../tags/arts-therapy.md)
 - [online-learning](../tags/online-learning.md)
 - [university-course](../tags/university-course.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

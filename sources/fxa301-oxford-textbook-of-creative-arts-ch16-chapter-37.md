@@ -9,7 +9,7 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
-tags: ["creative arts", "health education", "nursing practice", "midwifery education", "complex intervention", "collaborative learning", "fxa301"]
+tags: ["creative-arts", "health-education", "nursing-practice", "midwifery-education", "complex-intervention", "collaborative-learning", "fxa301"]
 key_concepts: ["compassion in practice", "non-normative ethics and values", "creative curriculum"]
 methods: []
 slug: fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37
@@ -26,19 +26,19 @@ This chapter examines the role of creative arts in nursing and midwifery educati
 
 ## Key Concepts
 
-- [compassion in practice](../topics/compassion in practice.md)
-- [non-normative ethics and values](../topics/non-normative ethics and values.md)
-- [creative curriculum](../topics/creative curriculum.md)
+- [compassion in practice](../topics/compassion-in-practice.md)
+- [non-normative ethics and values](../topics/non-normative-ethics-and-values.md)
+- [creative curriculum](../topics/creative-curriculum.md)
 
 ## Tags
 
-- [creative arts](../tags/creative arts.md)
-- [health education](../tags/health education.md)
-- [nursing practice](../tags/nursing practice.md)
-- [midwifery education](../tags/midwifery education.md)
-- [complex intervention](../tags/complex intervention.md)
-- [collaborative learning](../tags/collaborative learning.md)
-- [fxa301](../tags/fxa301.md)
+- [creative arts](../tags/creative-arts.md)
+- [health education](../tags/health-education.md)
+- [nursing practice](../tags/nursing-practice.md)
+- [midwifery education](../tags/midwifery-education.md)
+- [complex intervention](../tags/complex-intervention.md)
+- [collaborative learning](../tags/collaborative-learning.md)
+- fxa301
 
 ## Methods
 

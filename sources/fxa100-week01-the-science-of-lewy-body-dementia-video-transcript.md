@@ -24,9 +24,9 @@ This video transcript discusses the condition known as Lewy Body Dementia (LBD),
 
 ## Key Concepts
 
-- [Lewy bodies](../topics/Lewy bodies.md)
+- [Lewy bodies](../topics/lewy-bodies.md)
 - [alpha-synuclein](../topics/alpha-synuclein.md)
-- [cognitive impairment](../topics/cognitive impairment.md)
+- [cognitive impairment](../topics/cognitive-impairment.md)
 
 ## Tags
 
@@ -35,7 +35,7 @@ This video transcript discusses the condition known as Lewy Body Dementia (LBD),
 - [alzheimers-disease](../tags/alzheimers-disease.md)
 - [neurodegenerative-disorders](../tags/neurodegenerative-disorders.md)
 - [brain-anatomy](../tags/brain-anatomy.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

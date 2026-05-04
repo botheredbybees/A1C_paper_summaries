@@ -24,11 +24,11 @@ This study investigates the impact of a clown doctor program on adolescent psych
 
 ## Key Concepts
 
-- [fun levels](../topics/fun levels.md)
-- [positive mood](../topics/positive mood.md)
-- [ward atmosphere](../topics/ward atmosphere.md)
-- [patient engagement](../topics/patient engagement.md)
-- [humor-based interventions](../topics/humor-based interventions.md)
+- [fun levels](../topics/fun-levels.md)
+- [positive mood](../topics/positive-mood.md)
+- [ward atmosphere](../topics/ward-atmosphere.md)
+- [patient engagement](../topics/patient-engagement.md)
+- [humor-based interventions](../topics/humor-based-interventions.md)
 
 ## Tags
 
@@ -37,12 +37,12 @@ This study investigates the impact of a clown doctor program on adolescent psych
 - [humor-interventions](../tags/humor-interventions.md)
 - [clown-doctors](../tags/clown-doctors.md)
 - [patient-experience](../tags/patient-experience.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [mixed methods investigation](mixed methods investigation.md)
-- [custom surveys](custom surveys.md)
+- **mixed methods investigation**
+- **custom surveys**
 
 ## See Also
 

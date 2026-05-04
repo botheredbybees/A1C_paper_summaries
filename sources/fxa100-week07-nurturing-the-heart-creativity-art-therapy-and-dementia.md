@@ -34,11 +34,11 @@ This monograph by Patricia Baines explores the importance of creativity in impro
 - [art-therapy](../tags/art-therapy.md)
 - [creativity-promotion](../tags/creativity-promotion.md)
 - [quality-of-life](../tags/quality-of-life.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [empirical-research](empirical-research.md)
+- **empirical-research**
 
 ## See Also
 

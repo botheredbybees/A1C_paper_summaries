@@ -33,11 +33,11 @@ This article explores the nature of awe, a distinct emotion characterized by eli
 - [emotion-studies](../tags/emotion-studies.md)
 - [self-perception](../tags/self-perception.md)
 - [awe-experiences](../tags/awe-experiences.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [empirical-research](empirical-research.md)
+- **empirical-research**
 
 ## See Also
 

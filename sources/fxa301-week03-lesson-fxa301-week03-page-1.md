@@ -32,7 +32,7 @@ This week's lesson explores how engagement with creative arts can contribute to 
 - [arts-in-health](../tags/arts-in-health.md)
 - [wellbeing-through-art](../tags/wellbeing-through-art.md)
 - [aging-populations](../tags/aging-populations.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

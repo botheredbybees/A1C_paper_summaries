@@ -34,7 +34,7 @@ This chapter details the Active Energy project, initiated through an art commiss
 - [creative-thinking](../tags/creative-thinking.md)
 - [community-engagement](../tags/community-engagement.md)
 - [renewable-energy](../tags/renewable-energy.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

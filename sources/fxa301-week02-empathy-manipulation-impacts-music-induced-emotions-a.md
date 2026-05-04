@@ -24,8 +24,8 @@ This study explores the influence of cognitive empathy on music-induced emotions
 
 ## Key Concepts
 
-- [cognitive empathy](../topics/cognitive empathy.md)
-- [music-induced emotions](../topics/music-induced emotions.md)
+- [cognitive empathy](../topics/cognitive-empathy.md)
+- [music-induced emotions](../topics/music-induced-emotions.md)
 - [psychophysiology](../topics/psychophysiology.md)
 
 ## Tags
@@ -35,11 +35,11 @@ This study explores the influence of cognitive empathy on music-induced emotions
 - [physiological-responses](../tags/physiological-responses.md)
 - [emotional-experience](../tags/emotional-experience.md)
 - [operatic-performance](../tags/operatic-performance.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [psychophysiological study](psychophysiological study.md)
+- **psychophysiological study**
 
 ## See Also
 

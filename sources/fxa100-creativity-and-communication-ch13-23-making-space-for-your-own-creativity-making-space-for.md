@@ -7,13 +7,14 @@ apa7: "Craig, C., Killick, J., & Claire (2011). Making space for your own creati
 doi: null
 appearances:
   - unit: FXA100
+  - unit: FXA100
 tags: ["dementia-care", "creative-expression", "self-care-strategies", "fxa100"]
 key_concepts: ["emotional processing", "empowerment through creativity"]
 methods: []
 slug: fxa100-creativity-and-communication-ch13-23-making-space-for-your-own-creativity-making-space-for
 related: ["creative-expression", "dementia-care", "self-care-strategies"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-04
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-creativity-and-communication-ch13-23-making-space-for-your-own-creativity-making-space-for.md_
@@ -24,15 +25,15 @@ This chapter emphasizes the importance of personal creativity for individuals wo
 
 ## Key Concepts
 
-- [emotional processing](../topics/emotional processing.md)
-- [empowerment through creativity](../topics/empowerment through creativity.md)
+- [emotional processing](../topics/emotional-processing.md)
+- [empowerment through creativity](../topics/empowerment-through-creativity.md)
 
 ## Tags
 
 - [dementia-care](../tags/dementia-care.md)
 - [creative-expression](../tags/creative-expression.md)
 - [self-care-strategies](../tags/self-care-strategies.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

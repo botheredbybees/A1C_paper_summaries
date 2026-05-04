@@ -7,7 +7,7 @@ apa7: "BMJ, OUP Book Chapter, accessed February 2026."
 doi: null
 appearances:
   - unit: FXA301
-tags: ["healthcare research", "process evaluation", "research methods", "fxa301"]
+tags: ["healthcare-research", "process-evaluation", "research-methods", "fxa301"]
 key_concepts: ["ethnographic process evaluations", "outcome assessment"]
 methods: []
 slug: fxa301-arts-in-health-ch67-chapter-6-(2)
@@ -24,15 +24,15 @@ This chapter discusses the importance of process evaluations in healthcare resea
 
 ## Key Concepts
 
-- [ethnographic process evaluations](../topics/ethnographic process evaluations.md)
-- [outcome assessment](../topics/outcome assessment.md)
+- [ethnographic process evaluations](../topics/ethnographic-process-evaluations.md)
+- [outcome assessment](../topics/outcome-assessment.md)
 
 ## Tags
 
-- [healthcare research](../tags/healthcare research.md)
-- [process evaluation](../tags/process evaluation.md)
-- [research methods](../tags/research methods.md)
-- [fxa301](../tags/fxa301.md)
+- [healthcare research](../tags/healthcare-research.md)
+- [process evaluation](../tags/process-evaluation.md)
+- [research methods](../tags/research-methods.md)
+- fxa301
 
 ## Methods
 

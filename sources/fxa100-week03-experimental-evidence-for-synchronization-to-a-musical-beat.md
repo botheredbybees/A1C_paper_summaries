@@ -33,11 +33,11 @@ This study presents experimental evidence for synchronization to a musical beat 
 - [animal-behavior](../tags/animal-behavior.md)
 - [musical-rhythm](../tags/musical-rhythm.md)
 - [neuroscience](../tags/neuroscience.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [experimental-study](experimental-study.md)
+- **experimental-study**
 
 ## See Also
 

@@ -24,7 +24,7 @@ The lesson discusses how the brain processes and responds to creative arts such 
 
 ## Key Concepts
 
-- [mirror neurons](../topics/mirror neurons.md)
+- [mirror neurons](../topics/mirror-neurons.md)
 - [dopamine](../topics/dopamine.md)
 - [serotonin](../topics/serotonin.md)
 
@@ -33,7 +33,7 @@ The lesson discusses how the brain processes and responds to creative arts such 
 - [brain-function](../tags/brain-function.md)
 - [neurotransmitters](../tags/neurotransmitters.md)
 - [creative-arts](../tags/creative-arts.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

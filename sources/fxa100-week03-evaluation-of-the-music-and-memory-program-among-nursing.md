@@ -24,9 +24,9 @@ The report evaluates the impact of the Music and Memory (M&M) program on nursing
 
 ## Key Concepts
 
-- [Music and Memory Program](../topics/Music and Memory Program.md)
-- [behavioral problems](../topics/behavioral problems.md)
-- [non-pharmacological intervention](../topics/non-pharmacological intervention.md)
+- [Music and Memory Program](../topics/music-and-memory-program.md)
+- [behavioral problems](../topics/behavioral-problems.md)
+- [non-pharmacological intervention](../topics/non-pharmacological-intervention.md)
 
 ## Tags
 
@@ -35,13 +35,13 @@ The report evaluates the impact of the Music and Memory (M&M) program on nursing
 - [quality-of-life](../tags/quality-of-life.md)
 - [nursing-home](../tags/nursing-home.md)
 - [personalized-music](../tags/personalized-music.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [crossover study](crossover study.md)
-- [survey](survey.md)
-- [Minimum Data Set analysis](Minimum Data Set analysis.md)
+- **crossover study**
+- **survey**
+- **Minimum Data Set analysis**
 
 ## See Also
 

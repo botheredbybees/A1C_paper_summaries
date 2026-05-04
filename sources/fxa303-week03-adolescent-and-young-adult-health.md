@@ -37,11 +37,11 @@ Environmental factors also play a crucial role, increasing risks for unintention
 - [adolescent-health](../tags/adolescent-health.md)
 - [young-adults](../tags/young-adults.md)
 - [global-health-disparities](../tags/global-health-disparities.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [systematic-review](systematic-review.md)
+- **systematic-review**
 
 ## See Also
 

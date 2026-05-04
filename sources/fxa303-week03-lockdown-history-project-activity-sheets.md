@@ -32,11 +32,11 @@ The document is a collection of activity sheets developed by Arts on Prescriptio
 - [creative-arts](../tags/creative-arts.md)
 - [community-engagement](../tags/community-engagement.md)
 - [lockdown-experience](../tags/lockdown-experience.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [activity-sheet](activity-sheet.md)
+- **activity-sheet**
 
 ## See Also
 

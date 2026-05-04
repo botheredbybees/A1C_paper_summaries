@@ -24,15 +24,15 @@ A transcript of a photography session involving Mary Stringer in Sydney, where s
 
 ## Key Concepts
 
-- [lighting techniques](../topics/lighting techniques.md)
-- [academic achievement](../topics/academic achievement.md)
+- [lighting techniques](../topics/lighting-techniques.md)
+- [academic achievement](../topics/academic-achievement.md)
 
 ## Tags
 
 - [photography](../tags/photography.md)
 - [arts-and-crafts](../tags/arts-and-crafts.md)
 - [memory-loss](../tags/memory-loss.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

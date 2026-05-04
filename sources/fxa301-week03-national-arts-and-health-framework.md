@@ -30,9 +30,9 @@ Overall, this framework serves as a comprehensive guide for integrating arts ini
 
 ## Key Concepts
 
-- [artistic practices](../topics/artistic practices.md)
-- [collaborative relationships](../topics/collaborative relationships.md)
-- [holistic approaches](../topics/holistic approaches.md)
+- [artistic practices](../topics/artistic-practices.md)
+- [collaborative relationships](../topics/collaborative-relationships.md)
+- [holistic approaches](../topics/holistic-approaches.md)
 
 ## Tags
 
@@ -41,11 +41,11 @@ Overall, this framework serves as a comprehensive guide for integrating arts ini
 - [health-outcomes](../tags/health-outcomes.md)
 - [community-engagement](../tags/community-engagement.md)
 - [indigenous-health](../tags/indigenous-health.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [framework development](framework development.md)
+- **framework development**
 
 ## See Also
 

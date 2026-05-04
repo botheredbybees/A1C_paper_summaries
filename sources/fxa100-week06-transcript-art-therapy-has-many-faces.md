@@ -24,9 +24,9 @@ The transcript discusses the experience of an individual who found solace and id
 
 ## Key Concepts
 
-- [Art Therapy](../topics/Art Therapy.md)
-- [Self-Expression](../topics/Self-Expression.md)
-- [Emotional Release](../topics/Emotional Release.md)
+- [Art Therapy](../topics/art-therapy.md)
+- [Self-Expression](../topics/self-expression.md)
+- [Emotional Release](../topics/emotional-release.md)
 
 ## Tags
 
@@ -35,7 +35,7 @@ The transcript discusses the experience of an individual who found solace and id
 - [self-expression](../tags/self-expression.md)
 - [identity-crisis](../tags/identity-crisis.md)
 - [emotional-support](../tags/emotional-support.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

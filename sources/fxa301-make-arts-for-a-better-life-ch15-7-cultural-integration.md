@@ -24,8 +24,8 @@ The content focuses on identifying roles and cultural integration within musical
 
 ## Key Concepts
 
-- [melodic texture](../topics/melodic texture.md)
-- [song form](../topics/song form.md)
+- [melodic texture](../topics/melodic-texture.md)
+- [song form](../topics/song-form.md)
 - [timbre](../topics/timbre.md)
 
 ## Tags
@@ -33,7 +33,7 @@ The content focuses on identifying roles and cultural integration within musical
 - [musical-production](../tags/musical-production.md)
 - [cultural-integration](../tags/cultural-integration.md)
 - [participant-organization](../tags/participant-organization.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

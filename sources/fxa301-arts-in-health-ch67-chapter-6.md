@@ -7,7 +7,7 @@ apa7: "The BMJ, & Bunce, L., et al. (2014). Ethnographic process evaluations in 
 doi: null
 appearances:
   - unit: FXA301
-tags: ["healthcare evaluation", "intervention process", "research methods", "fxa301"]
+tags: ["healthcare-evaluation", "intervention-process", "research-methods", "fxa301"]
 key_concepts: ["process evaluations", "ethnographic studies", "outcome research"]
 methods: ["surveys", "focus groups", "interviews"]
 slug: fxa301-arts-in-health-ch67-chapter-6
@@ -24,22 +24,22 @@ This chapter discusses the importance of evaluating processes within healthcare 
 
 ## Key Concepts
 
-- [process evaluations](../topics/process evaluations.md)
-- [ethnographic studies](../topics/ethnographic studies.md)
-- [outcome research](../topics/outcome research.md)
+- [process evaluations](../topics/process-evaluations.md)
+- [ethnographic studies](../topics/ethnographic-studies.md)
+- [outcome research](../topics/outcome-research.md)
 
 ## Tags
 
-- [healthcare evaluation](../tags/healthcare evaluation.md)
-- [intervention process](../tags/intervention process.md)
-- [research methods](../tags/research methods.md)
-- [fxa301](../tags/fxa301.md)
+- [healthcare evaluation](../tags/healthcare-evaluation.md)
+- [intervention process](../tags/intervention-process.md)
+- [research methods](../tags/research-methods.md)
+- fxa301
 
 ## Methods
 
-- [surveys](surveys.md)
-- [focus groups](focus groups.md)
-- [interviews](interviews.md)
+- **surveys**
+- **focus groups**
+- **interviews**
 
 ## See Also
 

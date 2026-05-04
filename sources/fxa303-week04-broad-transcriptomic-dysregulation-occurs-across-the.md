@@ -24,8 +24,8 @@ _All claims sourced from ../raw/pdf/fxa303-week04-broad-transcriptomic-dysregula
 
 ## Key Concepts
 
-- [autism spectrum disorder](../topics/autism spectrum disorder.md)
-- [gene expression](../topics/gene expression.md)
+- [autism spectrum disorder](../topics/autism-spectrum-disorder.md)
+- [gene expression](../topics/gene-expression.md)
 - [dysregulation](../topics/dysregulation.md)
 
 ## Tags
@@ -33,11 +33,11 @@ _All claims sourced from ../raw/pdf/fxa303-week04-broad-transcriptomic-dysregula
 - [autism-spectrum-disorder](../tags/autism-spectrum-disorder.md)
 - [transcriptomics](../tags/transcriptomics.md)
 - [cerebral-cortex](../tags/cerebral-cortex.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [transcriptomic analysis](transcriptomic analysis.md)
+- **transcriptomic analysis**
 
 ## See Also
 

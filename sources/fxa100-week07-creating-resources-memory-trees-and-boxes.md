@@ -28,11 +28,11 @@ The document emphasizes the importance of allowing those with dementia to share 
 
 ## Key Concepts
 
-- [memory trees](../topics/memory trees.md)
-- [memory boxes](../topics/memory boxes.md)
-- [sensory stimulation](../topics/sensory stimulation.md)
-- [dialogic engagement](../topics/dialogic engagement.md)
-- [personal identity](../topics/personal identity.md)
+- [memory trees](../topics/memory-trees.md)
+- [memory boxes](../topics/memory-boxes.md)
+- [sensory stimulation](../topics/sensory-stimulation.md)
+- [dialogic engagement](../topics/dialogic-engagement.md)
+- [personal identity](../topics/personal-identity.md)
 
 ## Tags
 
@@ -41,11 +41,11 @@ The document emphasizes the importance of allowing those with dementia to share 
 - [elderly-engagement](../tags/elderly-engagement.md)
 - [narrative-therapy](../tags/narrative-therapy.md)
 - [cultural-memory](../tags/cultural-memory.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

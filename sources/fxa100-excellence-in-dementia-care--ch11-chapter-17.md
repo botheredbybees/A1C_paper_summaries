@@ -24,16 +24,16 @@ This chapter explores how understanding a patient's life history is crucial for 
 
 ## Key Concepts
 
-- [reminiscence therapy](../topics/reminiscence therapy.md)
-- [individualized care](../topics/individualized care.md)
-- [identity reinforcement](../topics/identity reinforcement.md)
+- [reminiscence therapy](../topics/reminiscence-therapy.md)
+- [individualized care](../topics/individualized-care.md)
+- [identity reinforcement](../topics/identity-reinforcement.md)
 
 ## Tags
 
 - [dementia-care](../tags/dementia-care.md)
 - [person-centered-practice](../tags/person-centered-practice.md)
 - [life-history](../tags/life-history.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

@@ -24,9 +24,9 @@ This systematic review evaluates the effectiveness of dance movement therapy (DM
 
 ## Key Concepts
 
-- [dance movement therapy](../topics/dance movement therapy.md)
-- [randomized controlled trial](../topics/randomized controlled trial.md)
-- [standard care](../topics/standard care.md)
+- [dance movement therapy](../topics/dance-movement-therapy.md)
+- [randomized controlled trial](../topics/randomized-controlled-trial.md)
+- [standard care](../topics/standard-care.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ This systematic review evaluates the effectiveness of dance movement therapy (DM
 - [systematic-review](../tags/systematic-review.md)
 - [behavioral-symptoms](../tags/behavioral-symptoms.md)
 - [cognitive-health](../tags/cognitive-health.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [systematic review](systematic review.md)
+- **systematic review**
 
 ## See Also
 

@@ -24,15 +24,15 @@ This chapter discusses the application of a narrative or 'storied' ethical appro
 
 ## Key Concepts
 
-- [story-based ethics](../topics/story-based ethics.md)
-- [character development](../topics/character development.md)
+- [story-based ethics](../topics/story-based-ethics.md)
+- [character development](../topics/character-development.md)
 
 ## Tags
 
 - [dementia-care](../tags/dementia-care.md)
 - [ethical-decision-making](../tags/ethical-decision-making.md)
 - [narrative-ethics](../tags/narrative-ethics.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

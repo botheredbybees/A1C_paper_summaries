@@ -24,9 +24,9 @@ This editorial discusses the importance of trauma-informed care in creative arts
 
 ## Key Concepts
 
-- [trauma-informed care](../topics/trauma-informed care.md)
-- [sensory-based interventions](../topics/sensory-based interventions.md)
-- [developmental trauma disorder](../topics/developmental trauma disorder.md)
+- [trauma-informed care](../topics/trauma-informed-care.md)
+- [sensory-based interventions](../topics/sensory-based-interventions.md)
+- [developmental trauma disorder](../topics/developmental-trauma-disorder.md)
 
 ## Tags
 
@@ -35,7 +35,7 @@ This editorial discusses the importance of trauma-informed care in creative arts
 - [childhood-trauma](../tags/childhood-trauma.md)
 - [neurobiological-effects](../tags/neurobiological-effects.md)
 - [developmental-psychology](../tags/developmental-psychology.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

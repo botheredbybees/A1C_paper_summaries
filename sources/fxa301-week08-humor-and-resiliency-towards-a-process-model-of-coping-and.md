@@ -27,9 +27,9 @@ The article contrasts traditional psychological approaches focusing on negative 
 ## Key Concepts
 
 - [resiliency](../topics/resiliency.md)
-- [character strengths](../topics/character strengths.md)
-- [positive psychology](../topics/positive psychology.md)
-- [emotion regulation](../topics/emotion regulation.md)
+- [character strengths](../topics/character-strengths.md)
+- [positive psychology](../topics/positive-psychology.md)
+- [emotion regulation](../topics/emotion-regulation.md)
 
 ## Tags
 
@@ -39,11 +39,11 @@ The article contrasts traditional psychological approaches focusing on negative 
 - [positive-psychology](../tags/positive-psychology.md)
 - [cognitive-reappraisal](../tags/cognitive-reappraisal.md)
 - [emotional-regulation](../tags/emotional-regulation.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [review](review.md)
+- **review**
 
 ## See Also
 

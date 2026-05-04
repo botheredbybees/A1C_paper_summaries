@@ -36,11 +36,11 @@ The chapter explores the integration of puppets in psychodynamic child therapy, 
 - [symbolic-expression](../tags/symbolic-expression.md)
 - [anxiety-reduction](../tags/anxiety-reduction.md)
 - [developmental-deficits](../tags/developmental-deficits.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

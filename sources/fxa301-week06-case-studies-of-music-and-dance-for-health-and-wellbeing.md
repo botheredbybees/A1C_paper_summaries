@@ -37,11 +37,11 @@ Overall, the document highlights the multifaceted role of arts in healthcare set
 - [dance-therapy](../tags/dance-therapy.md)
 - [healthcare-interventions](../tags/healthcare-interventions.md)
 - [wellbeing-enhancement](../tags/wellbeing-enhancement.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

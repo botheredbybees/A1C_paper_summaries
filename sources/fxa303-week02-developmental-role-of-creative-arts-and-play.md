@@ -24,10 +24,10 @@ This lecture discusses the critical developmental role of creative play and arts
 
 ## Key Concepts
 
-- [Piaget's developmental stages](../topics/Piaget's developmental stages.md)
-- [Vygotsky's social development theory](../topics/Vygotsky's social development theory.md)
+- [Piaget's developmental stages](../topics/piagets-developmental-stages.md)
+- [Vygotsky's social development theory](../topics/vygotskys-social-development-theory.md)
 - [neuroplasticity](../topics/neuroplasticity.md)
-- [emotional expression through drawing](../topics/emotional expression through drawing.md)
+- [emotional expression through drawing](../topics/emotional-expression-through-drawing.md)
 
 ## Tags
 
@@ -36,11 +36,11 @@ This lecture discusses the critical developmental role of creative play and arts
 - [play-theory](../tags/play-theory.md)
 - [emotional-wellbeing](../tags/emotional-wellbeing.md)
 - [cognitive-development](../tags/cognitive-development.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

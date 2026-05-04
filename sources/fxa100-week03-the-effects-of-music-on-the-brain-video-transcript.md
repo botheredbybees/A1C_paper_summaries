@@ -33,12 +33,12 @@ This video transcript explores how Dr. Oliver Sacks, a renowned neurologist and 
 - [neuroscience-of-music](../tags/neuroscience-of-music.md)
 - [brain-function-analysis](../tags/brain-function-analysis.md)
 - [emotional-cognition](../tags/emotional-cognition.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [functional-brain-scan](functional-brain-scan.md)
-- [emotional-rating-device](emotional-rating-device.md)
+- **functional-brain-scan**
+- **emotional-rating-device**
 
 ## See Also
 

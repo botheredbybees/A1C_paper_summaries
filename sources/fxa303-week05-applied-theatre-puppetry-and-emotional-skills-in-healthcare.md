@@ -35,11 +35,11 @@ This article explores the emotional competencies and skills required by artists,
 - [healthcare-education](../tags/healthcare-education.md)
 - [puppetry-in-healthcare](../tags/puppetry-in-healthcare.md)
 - [self-care-practices](../tags/self-care-practices.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

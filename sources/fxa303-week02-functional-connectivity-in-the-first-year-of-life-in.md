@@ -24,20 +24,20 @@ The study investigates functional connectivity in infants at high risk for autis
 
 ## Key Concepts
 
-- [functional connectivity](../topics/functional connectivity.md)
+- [functional connectivity](../topics/functional-connectivity.md)
 - [electroencephalography](../topics/electroencephalography.md)
-- [neural integration](../topics/neural integration.md)
+- [neural integration](../topics/neural-integration.md)
 
 ## Tags
 
 - [functional-connectivity](../tags/functional-connectivity.md)
 - [early-development](../tags/early-development.md)
 - [autism-risk-factors](../tags/autism-risk-factors.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [EEG study](EEG study.md)
+- **EEG study**
 
 ## See Also
 

@@ -33,7 +33,7 @@ This lesson discusses the evaluation of community creative arts projects aimed a
 - [arts-and-health](../tags/arts-and-health.md)
 - [project-evaluation](../tags/project-evaluation.md)
 - [wellbeing-outcomes](../tags/wellbeing-outcomes.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

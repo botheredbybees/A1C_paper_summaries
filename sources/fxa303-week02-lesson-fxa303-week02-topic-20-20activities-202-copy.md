@@ -24,16 +24,16 @@ The week's activities include reading Gómez-Restrepo et al. (2022) on the role 
 
 ## Key Concepts
 
-- [mental health](../topics/mental health.md)
-- [artistic expression](../topics/artistic expression.md)
-- [emotional regulation](../topics/emotional regulation.md)
+- [mental health](../topics/mental-health.md)
+- [artistic expression](../topics/artistic-expression.md)
+- [emotional regulation](../topics/emotional-regulation.md)
 
 ## Tags
 
 - [youth-wellbeing](../tags/youth-wellbeing.md)
 - [qualitative-study](../tags/qualitative-study.md)
 - [arts-therapy](../tags/arts-therapy.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

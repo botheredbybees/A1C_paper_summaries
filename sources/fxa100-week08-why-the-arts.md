@@ -24,9 +24,9 @@ The text explores the concept of creativity in the context of dementia care, arg
 
 ## Key Concepts
 
-- [creativity in dementia](../topics/creativity in dementia.md)
-- [self-expression through arts](../topics/self-expression through arts.md)
-- [enhancing well-being](../topics/enhancing well-being.md)
+- [creativity in dementia](../topics/creativity-in-dementia.md)
+- [self-expression through arts](../topics/self-expression-through-arts.md)
+- [enhancing well-being](../topics/enhancing-well-being.md)
 
 ## Tags
 
@@ -36,11 +36,11 @@ The text explores the concept of creativity in the context of dementia care, arg
 - [well-being-through-art](../tags/well-being-through-art.md)
 - [identity-recovery](../tags/identity-recovery.md)
 - [neurodegenerative-health](../tags/neurodegenerative-health.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [practical guide](practical guide.md)
+- **practical guide**
 
 ## See Also
 

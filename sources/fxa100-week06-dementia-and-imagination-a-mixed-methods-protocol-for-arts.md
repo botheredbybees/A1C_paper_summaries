@@ -35,13 +35,13 @@ The article 'Dementia and Imagination' is a mixed-methods study protocol designe
 - [quality-of-life](../tags/quality-of-life.md)
 - [mixed-methods-research](../tags/mixed-methods-research.md)
 - [economic-evaluation](../tags/economic-evaluation.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [mixed-methods-study](mixed-methods-study.md)
-- [qualitative-analysis](qualitative-analysis.md)
-- [quantitative-data-collection](quantitative-data-collection.md)
+- **mixed-methods-study**
+- **qualitative-analysis**
+- **quantitative-data-collection**
 
 ## See Also
 

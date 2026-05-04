@@ -24,10 +24,10 @@ This lesson focuses on the role of creative arts and play in aiding mental wellb
 
 ## Key Concepts
 
-- [Trauma-Informed Design](../topics/Trauma-Informed Design.md)
-- [Creative Play](../topics/Creative Play.md)
-- [Storytelling for Healing](../topics/Storytelling for Healing.md)
-- [Adventure Playgrounds](../topics/Adventure Playgrounds.md)
+- [Trauma-Informed Design](../topics/trauma-informed-design.md)
+- [Creative Play](../topics/creative-play.md)
+- [Storytelling for Healing](../topics/storytelling-for-healing.md)
+- [Adventure Playgrounds](../topics/adventure-playgrounds.md)
 
 ## Tags
 
@@ -37,7 +37,7 @@ This lesson focuses on the role of creative arts and play in aiding mental wellb
 - [play-based-interventions](../tags/play-based-interventions.md)
 - [disaster-response](../tags/disaster-response.md)
 - [community-healing](../tags/community-healing.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

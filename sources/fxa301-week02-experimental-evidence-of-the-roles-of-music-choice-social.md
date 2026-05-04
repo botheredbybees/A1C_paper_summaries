@@ -24,9 +24,9 @@ This study examines the influence of music choice, social context, and individua
 
 ## Key Concepts
 
-- [emotion induction](../topics/emotion induction.md)
-- [personalized music choice](../topics/personalized music choice.md)
-- [openness to experience](../topics/openness to experience.md)
+- [emotion induction](../topics/emotion-induction.md)
+- [personalized music choice](../topics/personalized-music-choice.md)
+- [openness to experience](../topics/openness-to-experience.md)
 
 ## Tags
 
@@ -34,11 +34,11 @@ This study examines the influence of music choice, social context, and individua
 - [emotional-reactions](../tags/emotional-reactions.md)
 - [social-influence](../tags/social-influence.md)
 - [personality-traits](../tags/personality-traits.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [experimental study](experimental study.md)
+- **experimental study**
 
 ## See Also
 

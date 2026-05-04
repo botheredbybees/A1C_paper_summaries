@@ -32,11 +32,11 @@ The National Dementia Data Improvement Plan 2023–2034 aims to enhance data qua
 - [dementia-research](../tags/dementia-research.md)
 - [data-improvement](../tags/data-improvement.md)
 - [health-policy](../tags/health-policy.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [systematic-review](systematic-review.md)
+- **systematic-review**
 
 ## See Also
 

@@ -35,12 +35,12 @@ This research paper presents the findings of a three-month study conducted at th
 - [cancer-treatment](../tags/cancer-treatment.md)
 - [qualitative-research](../tags/qualitative-research.md)
 - [patient-experience](../tags/patient-experience.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [thematic-analysis](thematic-analysis.md)
-- [case-study](case-study.md)
+- **thematic-analysis**
+- **case-study**
 
 ## See Also
 

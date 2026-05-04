@@ -35,11 +35,11 @@ The document discusses the effectiveness of play therapy and arts-based therapie
 - [arts-based-therapies](../tags/arts-based-therapies.md)
 - [neurodiversity](../tags/neurodiversity.md)
 - [autism-spectrum-disorder](../tags/autism-spectrum-disorder.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

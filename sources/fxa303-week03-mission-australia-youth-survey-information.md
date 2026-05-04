@@ -24,9 +24,9 @@ The document provides information about the Mission Australia Youth Survey, an a
 
 ## Key Concepts
 
-- [mental health](../topics/mental health.md)
+- [mental health](../topics/mental-health.md)
 - [wellbeing](../topics/wellbeing.md)
-- [social media impact](../topics/social media impact.md)
+- [social media impact](../topics/social-media-impact.md)
 - [bullying](../topics/bullying.md)
 
 ## Tags
@@ -36,11 +36,11 @@ The document provides information about the Mission Australia Youth Survey, an a
 - [sociodemographics](../tags/sociodemographics.md)
 - [school-engagement](../tags/school-engagement.md)
 - [climate-change](../tags/climate-change.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [survey](survey.md)
+- **survey**
 
 ## See Also
 

@@ -35,11 +35,11 @@ This lecture explores how the arts evoke emotional and physical responses by eng
 - [emotional-response](../tags/emotional-response.md)
 - [art-perception](../tags/art-perception.md)
 - [psychology-of-art](../tags/psychology-of-art.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

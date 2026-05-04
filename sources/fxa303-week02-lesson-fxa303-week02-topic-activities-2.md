@@ -24,16 +24,16 @@ The Week 2 activities include reading chapters from 'Play for Health Across the 
 
 ## Key Concepts
 
-- [perspective-taking in infants](../topics/perspective-taking in infants.md)
-- [trauma-informed practices](../topics/trauma-informed practices.md)
-- [play for health](../topics/play for health.md)
+- [perspective-taking in infants](../topics/perspective-taking-in-infants.md)
+- [trauma-informed practices](../topics/trauma-informed-practices.md)
+- [play for health](../topics/play-for-health.md)
 
 ## Tags
 
 - [early-childhood-development](../tags/early-childhood-development.md)
 - [creative-arts-programming](../tags/creative-arts-programming.md)
 - [infant-cognitive-development](../tags/infant-cognitive-development.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

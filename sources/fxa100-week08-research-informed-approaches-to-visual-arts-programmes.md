@@ -33,11 +33,11 @@ The 'Research-Informed Approaches to Visual Arts Programmes' handbook by the Dem
 - [dementia-care](../tags/dementia-care.md)
 - [visual-arts-intervention](../tags/visual-arts-intervention.md)
 - [wellbeing-enhancement](../tags/wellbeing-enhancement.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

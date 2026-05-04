@@ -32,7 +32,7 @@ This transcript describes the ancient Indonesian art form of weiyang storytellin
 - [indonesian-culture](../tags/indonesian-culture.md)
 - [storytelling-traditions](../tags/storytelling-traditions.md)
 - [puppetry-arts](../tags/puppetry-arts.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

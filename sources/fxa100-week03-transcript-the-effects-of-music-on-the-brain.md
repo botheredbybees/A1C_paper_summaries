@@ -32,7 +32,7 @@ Oliver Sacks, a neurologist and writer, explores how the brain reacts to music t
 - [brain-function](../tags/brain-function.md)
 - [neurology](../tags/neurology.md)
 - [music-psychology](../tags/music-psychology.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

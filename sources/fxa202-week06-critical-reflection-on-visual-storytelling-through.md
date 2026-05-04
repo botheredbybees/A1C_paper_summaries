@@ -24,9 +24,9 @@ Emma Barratt's critical reflection explores the process of creating a photo essa
 
 ## Key Concepts
 
-- [non-linear storytelling](../topics/non-linear storytelling.md)
-- [compositional elements](../topics/compositional elements.md)
-- [emotional depth](../topics/emotional depth.md)
+- [non-linear storytelling](../topics/non-linear-storytelling.md)
+- [compositional elements](../topics/compositional-elements.md)
+- [emotional depth](../topics/emotional-depth.md)
 
 ## Tags
 
@@ -36,11 +36,11 @@ Emma Barratt's critical reflection explores the process of creating a photo essa
 - [health-experiences](../tags/health-experiences.md)
 - [self-reflection](../tags/self-reflection.md)
 - [mindfulness](../tags/mindfulness.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [critical reflection](critical reflection.md)
+- **critical reflection**
 
 ## See Also
 

@@ -35,12 +35,12 @@ Alison Gopnik's paper discusses recent theoretical and empirical advances in und
 - [scientific-thinking-children](../tags/scientific-thinking-children.md)
 - [cognitive-neuroscience](../tags/cognitive-neuroscience.md)
 - [education-policy](../tags/education-policy.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [empirical-research](empirical-research.md)
-- [theoretical-advance](theoretical-advance.md)
+- **empirical-research**
+- **theoretical-advance**
 
 ## See Also
 

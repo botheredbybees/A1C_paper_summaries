@@ -33,11 +33,11 @@ The article discusses the therapeutic potential of art therapy in treating eatin
 - [eating-disorders](../tags/eating-disorders.md)
 - [art-therapy](../tags/art-therapy.md)
 - [mental-health-intervention](../tags/mental-health-intervention.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

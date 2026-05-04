@@ -36,7 +36,7 @@ This article by Darren Rowse from Digital Photography School explores the concep
 - [depth-of-field](../tags/depth-of-field.md)
 - [motion-blur](../tags/motion-blur.md)
 - [shutter-speed](../tags/shutter-speed.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 

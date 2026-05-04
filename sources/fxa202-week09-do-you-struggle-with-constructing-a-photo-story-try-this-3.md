@@ -24,9 +24,9 @@ The article by Kav Dadfar addresses the common challenge faced by photographers 
 
 ## Key Concepts
 
-- [cohesive narrative](../topics/cohesive narrative.md)
-- [3-picture technique](../topics/3-picture technique.md)
-- [viewer engagement](../topics/viewer engagement.md)
+- [cohesive narrative](../topics/cohesive-narrative.md)
+- [3-picture technique](../topics/3-picture-technique.md)
+- [viewer engagement](../topics/viewer-engagement.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ The article by Kav Dadfar addresses the common challenge faced by photographers 
 - [photography-tips](../tags/photography-tips.md)
 - [image-composition](../tags/image-composition.md)
 - [creative-techniques](../tags/creative-techniques.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

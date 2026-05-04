@@ -32,7 +32,7 @@ The transcript describes 'Singing for the Brain,' a singing group designed to en
 - [dementia-care](../tags/dementia-care.md)
 - [social-bonding](../tags/social-bonding.md)
 - [music-therapy](../tags/music-therapy.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

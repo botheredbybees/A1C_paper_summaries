@@ -24,7 +24,7 @@ The document discusses the benefits of music therapy in enhancing creativity and
 
 ## Key Concepts
 
-- [RESCTUE-Alzheimer trial](../topics/RESCTUE-Alzheimer trial.md)
+- [RESCTUE-Alzheimer trial](../topics/resctue-alzheimer-trial.md)
 - [reduced-agitation](../topics/reduced-agitation.md)
 - [creative-music-making](../topics/creative-music-making.md)
 
@@ -35,12 +35,12 @@ The document discusses the benefits of music therapy in enhancing creativity and
 - [memory-stimulation](../tags/memory-stimulation.md)
 - [non-verbal-communication](../tags/non-verbal-communication.md)
 - [personalized-interventions](../tags/personalized-interventions.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [randomised-controlled-trial](randomised-controlled-trial.md)
-- [case-study](case-study.md)
+- **randomised-controlled-trial**
+- **case-study**
 
 ## See Also
 

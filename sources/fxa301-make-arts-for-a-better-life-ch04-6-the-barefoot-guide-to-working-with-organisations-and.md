@@ -27,20 +27,20 @@ This chapter introduces the concept of community and guides readers through iden
 
 ## Key Concepts
 
-- [community identity markers](../topics/community identity markers.md)
-- [ongoing interaction patterns](../topics/ongoing interaction patterns.md)
+- [community identity markers](../topics/community-identity-markers.md)
+- [ongoing interaction patterns](../topics/ongoing-interaction-patterns.md)
 
 ## Tags
 
 - [community-arts-profile](../tags/community-arts-profile.md)
 - [participant-observation](../tags/participant-observation.md)
 - [social-change-methods](../tags/social-change-methods.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [interviewing](interviewing.md)
-- [participant observation](participant observation.md)
+- **interviewing**
+- **participant observation**
 
 ## See Also
 

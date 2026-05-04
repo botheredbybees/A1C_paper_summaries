@@ -24,9 +24,9 @@ Louise Raftery reflects on her experience using photography as a means to promot
 
 ## Key Concepts
 
-- [therapeutic photography](../topics/therapeutic photography.md)
-- [mindfulness practice](../topics/mindfulness practice.md)
-- [grief processing](../topics/grief processing.md)
+- [therapeutic photography](../topics/therapeutic-photography.md)
+- [mindfulness practice](../topics/mindfulness-practice.md)
+- [grief processing](../topics/grief-processing.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ Louise Raftery reflects on her experience using photography as a means to promot
 - [mindfulness-practice](../tags/mindfulness-practice.md)
 - [emotional-healing](../tags/emotional-healing.md)
 - [self-reflection](../tags/self-reflection.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 
-- [personal photo essay](personal photo essay.md)
+- **personal photo essay**
 
 ## See Also
 

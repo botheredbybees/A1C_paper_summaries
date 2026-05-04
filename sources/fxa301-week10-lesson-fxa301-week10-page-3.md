@@ -24,9 +24,9 @@ This lesson explores the use of creative arts therapies in treating eating disor
 
 ## Key Concepts
 
-- [Symbolic language in therapy](../topics/Symbolic language in therapy.md)
-- [Group therapy benefits](../topics/Group therapy benefits.md)
-- [Creative arts as resilience-building tools](../topics/Creative arts as resilience-building tools.md)
+- [Symbolic language in therapy](../topics/symbolic-language-in-therapy.md)
+- [Group therapy benefits](../topics/group-therapy-benefits.md)
+- [Creative arts as resilience-building tools](../topics/creative-arts-as-resilience-building-tools.md)
 
 ## Tags
 
@@ -34,7 +34,7 @@ This lesson explores the use of creative arts therapies in treating eating disor
 - [art-therapy](../tags/art-therapy.md)
 - [ptsd-treatment](../tags/ptsd-treatment.md)
 - [creative-therapies](../tags/creative-therapies.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

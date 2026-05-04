@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "08"
-tags: ["alzheimer's", "therapeutic-activities", "arts-and-crafts", "fxa100"]
+tags: ["alzheimers", "therapeutic-activities", "arts-and-crafts", "fxa100"]
 key_concepts: ["cognitive-stimulation", "social-interaction", "rehabilitation"]
 methods: []
 slug: fxa100-week08-web-article-reyner-2006
@@ -30,10 +30,10 @@ This brochure from S&amp;S Primelife provides guidance on conducting arts and cr
 
 ## Tags
 
-- [alzheimer's](../tags/alzheimer's.md)
+- [alzheimer's](../tags/alzheimers.md)
 - [therapeutic-activities](../tags/therapeutic-activities.md)
 - [arts-and-crafts](../tags/arts-and-crafts.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

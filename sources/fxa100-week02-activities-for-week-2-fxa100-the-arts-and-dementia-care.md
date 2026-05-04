@@ -37,11 +37,11 @@ The document also includes a discussion prompt that encourages reflection on per
 - [memory-retrieval](../tags/memory-retrieval.md)
 - [cognitive-functioning](../tags/cognitive-functioning.md)
 - [reminiscence-therapy](../tags/reminiscence-therapy.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

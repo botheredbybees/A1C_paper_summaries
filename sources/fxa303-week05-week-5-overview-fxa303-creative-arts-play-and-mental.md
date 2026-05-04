@@ -36,11 +36,11 @@ This week's overview for the Creative Arts, Play and Mental Wellbeing module shi
 - [puppetry-intervention](../tags/puppetry-intervention.md)
 - [child-psychology](../tags/child-psychology.md)
 - [expressive-capabilities](../tags/expressive-capabilities.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

@@ -24,9 +24,9 @@ The document 'When Words Fade, the Canvas Speaks: Revelations from the Science o
 
 ## Key Concepts
 
-- [distributed neural networks](../topics/distributed neural networks.md)
-- [transmodal creativity](../topics/transmodal creativity.md)
-- [reward system activation](../topics/reward system activation.md)
+- [distributed neural networks](../topics/distributed-neural-networks.md)
+- [transmodal creativity](../topics/transmodal-creativity.md)
+- [reward system activation](../topics/reward-system-activation.md)
 
 ## Tags
 
@@ -36,11 +36,11 @@ The document 'When Words Fade, the Canvas Speaks: Revelations from the Science o
 - [brain-plasticity](../tags/brain-plasticity.md)
 - [transmodal-creativity](../tags/transmodal-creativity.md)
 - [visual-art](../tags/visual-art.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

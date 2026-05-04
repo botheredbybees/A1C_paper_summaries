@@ -24,9 +24,9 @@ This video transcript explores the popular notion that people are either left-br
 
 ## Key Concepts
 
-- [left-brain right-brain dominance myth](../topics/left-brain right-brain dominance myth.md)
+- [left-brain right-brain dominance myth](../topics/left-brain-right-brain-dominance-myth.md)
 - [functional magnetic resonance imaging (fMRI)](../topics/functional magnetic resonance imaging (fMRI).md)
-- [Roger Sperry's split-brain research](../topics/Roger Sperry's split-brain research.md)
+- [Roger Sperry's split-brain research](../topics/roger-sperrys-split-brain-research.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ This video transcript explores the popular notion that people are either left-br
 - [brain-function](../tags/brain-function.md)
 - [hemispheric-dominance](../tags/hemispheric-dominance.md)
 - [myths-in-science](../tags/myths-in-science.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [systematic review](systematic review.md)
+- **systematic review**
 
 ## See Also
 

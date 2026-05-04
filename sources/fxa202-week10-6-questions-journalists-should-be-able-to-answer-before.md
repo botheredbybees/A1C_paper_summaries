@@ -39,7 +39,7 @@ This framework aids in refining pitches and ensuring that both reporters and edi
 - [journalism-practices](../tags/journalism-practices.md)
 - [story-pitching-strategies](../tags/story-pitching-strategies.md)
 - [editor-reporter-communication](../tags/editor-reporter-communication.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 

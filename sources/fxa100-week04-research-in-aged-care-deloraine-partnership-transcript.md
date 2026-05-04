@@ -24,9 +24,9 @@ The document details a research project focused on using music and singing as th
 
 ## Key Concepts
 
-- [therapeutic interventions](../topics/therapeutic interventions.md)
-- [vocal capabilities](../topics/vocal capabilities.md)
-- [well-being outcomes](../topics/well-being outcomes.md)
+- [therapeutic interventions](../topics/therapeutic-interventions.md)
+- [vocal capabilities](../topics/vocal-capabilities.md)
+- [well-being outcomes](../topics/well-being-outcomes.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ The document details a research project focused on using music and singing as th
 - [respiratory-health](../tags/respiratory-health.md)
 - [quality-of-life](../tags/quality-of-life.md)
 - [singing-program](../tags/singing-program.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

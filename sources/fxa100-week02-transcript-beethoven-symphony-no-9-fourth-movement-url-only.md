@@ -24,15 +24,15 @@ The YouTube link provided does not contain an automatic transcript but offers th
 
 ## Key Concepts
 
-- [Symphony No. 9](../topics/Symphony No. 9.md)
-- [Ode to Joy](../topics/Ode to Joy.md)
+- [Symphony No. 9](../topics/symphony-no-9.md)
+- [Ode to Joy](../topics/ode-to-joy.md)
 
 ## Tags
 
 - [music-performance](../tags/music-performance.md)
 - [classical-music](../tags/classical-music.md)
 - [beethoven-symphony](../tags/beethoven-symphony.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

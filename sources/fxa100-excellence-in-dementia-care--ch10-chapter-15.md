@@ -7,13 +7,14 @@ apa7: "Downs, M., Bowers, B., & Schweitzer, P. (2014). Working with life history
 doi: null
 appearances:
   - unit: FXA100
+  - unit: FXA100
 tags: ["dementia-care", "person-centered-care", "life-history", "fxa100"]
 key_concepts: ["person-centered care", "reminiscence therapy", "Kitwood's equation"]
 methods: ["reminiscence therapy", "life-story creation", "oral history recording", "life review"]
 slug: fxa100-excellence-in-dementia-care--ch10-chapter-15
 related: ["dementia-care", "life-history", "person-centered-care"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-04
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-excellence-in-dementia-care--ch10-chapter-15.md_
@@ -24,23 +25,23 @@ This chapter from 'Excellence in Dementia Care' explores the importance of incor
 
 ## Key Concepts
 
-- [person-centered care](../topics/person-centered care.md)
-- [reminiscence therapy](../topics/reminiscence therapy.md)
-- [Kitwood's equation](../topics/Kitwood's equation.md)
+- [person-centered care](../topics/person-centered-care.md)
+- [reminiscence therapy](../topics/reminiscence-therapy.md)
+- [Kitwood's equation](../topics/kitwoods-equation.md)
 
 ## Tags
 
 - [dementia-care](../tags/dementia-care.md)
 - [person-centered-care](../tags/person-centered-care.md)
 - [life-history](../tags/life-history.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [reminiscence therapy](reminiscence therapy.md)
-- [life-story creation](life-story creation.md)
-- [oral history recording](oral history recording.md)
-- [life review](life review.md)
+- **reminiscence therapy**
+- **life-story creation**
+- **oral history recording**
+- **life review**
 
 ## See Also
 

@@ -25,8 +25,8 @@ The second edition of 'The Art and Science of Dance/Movement Therapy' provides a
 ## Key Concepts
 
 - [movement therapy](dance/movement therapy.md)
-- [therapeutic use of movement](../topics/therapeutic use of movement.md)
-- [psychological intervention](../topics/psychological intervention.md)
+- [therapeutic use of movement](../topics/therapeutic-use-of-movement.md)
+- [psychological intervention](../topics/psychological-intervention.md)
 
 ## Tags
 
@@ -34,11 +34,11 @@ The second edition of 'The Art and Science of Dance/Movement Therapy' provides a
 - [movement-therapy](../tags/movement-therapy.md)
 - [creative-arts-therapy](../tags/creative-arts-therapy.md)
 - [palliative-care](../tags/palliative-care.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

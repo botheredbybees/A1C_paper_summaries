@@ -24,9 +24,9 @@ The document highlights the increasing prevalence of mental health conditions in
 
 ## Key Concepts
 
-- [creative health](../topics/creative health.md)
-- [non-medical approaches](../topics/non-medical approaches.md)
-- [holistic care](../topics/holistic care.md)
+- [creative health](../topics/creative-health.md)
+- [non-medical approaches](../topics/non-medical-approaches.md)
+- [holistic care](../topics/holistic-care.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ The document highlights the increasing prevalence of mental health conditions in
 - [creative-interventions](../tags/creative-interventions.md)
 - [lifecourse-development](../tags/lifecourse-development.md)
 - [public-policy](../tags/public-policy.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

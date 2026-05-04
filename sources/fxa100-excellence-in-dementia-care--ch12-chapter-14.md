@@ -7,13 +7,14 @@ apa7: "Downs, M., & Bowers, B. (2014). Chapter extracted from Excellence in Deme
 doi: null
 appearances:
   - unit: FXA100
+  - unit: FXA100
 tags: ["dementia-care", "reminiscence-therapy", "person-centered-practice", "fxa100"]
 key_concepts: ["creative communication-based approach", "person-centred practice"]
 methods: []
 slug: fxa100-excellence-in-dementia-care--ch12-chapter-14
 related: ["dementia-care", "person-centered-practice", "reminiscence-therapy"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-04
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-excellence-in-dementia-care--ch12-chapter-14.md_
@@ -24,15 +25,15 @@ This chapter discusses the principles of good practice in creative communication
 
 ## Key Concepts
 
-- [creative communication-based approach](../topics/creative communication-based approach.md)
-- [person-centred practice](../topics/person-centred practice.md)
+- [creative communication-based approach](../topics/creative-communication-based-approach.md)
+- [person-centred practice](../topics/person-centred-practice.md)
 
 ## Tags
 
 - [dementia-care](../tags/dementia-care.md)
 - [reminiscence-therapy](../tags/reminiscence-therapy.md)
 - [person-centered-practice](../tags/person-centered-practice.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

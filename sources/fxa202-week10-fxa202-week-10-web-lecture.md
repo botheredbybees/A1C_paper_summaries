@@ -32,7 +32,7 @@ This document is a web lecture for the course 'FXA202 The Photo Essay: Storytell
 - [photo-essay](../tags/photo-essay.md)
 - [health-communication](../tags/health-communication.md)
 - [image-storytelling](../tags/image-storytelling.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 

@@ -24,9 +24,9 @@ This paper investigates the impact of group singing on mental health and wellbei
 
 ## Key Concepts
 
-- [group singing](../topics/group singing.md)
-- [mental distress reduction](../topics/mental distress reduction.md)
-- [wellbeing improvement](../topics/wellbeing improvement.md)
+- [group singing](../topics/group-singing.md)
+- [mental distress reduction](../topics/mental-distress-reduction.md)
+- [wellbeing improvement](../topics/wellbeing-improvement.md)
 
 ## Tags
 
@@ -35,12 +35,12 @@ This paper investigates the impact of group singing on mental health and wellbei
 - [community-singing](../tags/community-singing.md)
 - [therapeutic-benefits](../tags/therapeutic-benefits.md)
 - [music-therapy](../tags/music-therapy.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [quasi-experimental study](quasi-experimental study.md)
-- [questionnaire assessment](questionnaire assessment.md)
+- **quasi-experimental study**
+- **questionnaire assessment**
 
 ## See Also
 

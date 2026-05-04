@@ -34,7 +34,7 @@ A transcript from a session at Evergreen residential nursing home discussing the
 - [dementia-care](../tags/dementia-care.md)
 - [self-expression](../tags/self-expression.md)
 - [memory-reconnection](../tags/memory-reconnection.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 

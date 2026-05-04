@@ -36,11 +36,11 @@ The study explores the wellbeing and social benefits of choir singing for indivi
 - [choir-singing](../tags/choir-singing.md)
 - [disadvantaged-populations](../tags/disadvantaged-populations.md)
 - [resilience-building](../tags/resilience-building.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [interpretative-phenomenological-analysis](interpretative-phenomenological-analysis.md)
+- **interpretative-phenomenological-analysis**
 
 ## See Also
 

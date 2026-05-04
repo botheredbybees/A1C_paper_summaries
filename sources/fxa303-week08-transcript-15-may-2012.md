@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA303
     week: "08"
-tags: ["healthcare", "peace activism", "community care", "fxa303"]
+tags: ["healthcare", "peace-activism", "community-care", "fxa303"]
 key_concepts: ["free healthcare", "medical clowning"]
 methods: []
 slug: fxa303-week08-transcript-15-may-2012
@@ -24,15 +24,15 @@ The transcript documents a speech by Dr. Patch Adams on his journey from suicida
 
 ## Key Concepts
 
-- [free healthcare](../topics/free healthcare.md)
-- [medical clowning](../topics/medical clowning.md)
+- [free healthcare](../topics/free-healthcare.md)
+- [medical clowning](../topics/medical-clowning.md)
 
 ## Tags
 
 - [healthcare](../tags/healthcare.md)
-- [peace activism](../tags/peace activism.md)
-- [community care](../tags/community care.md)
-- [fxa303](../tags/fxa303.md)
+- [peace activism](../tags/peace-activism.md)
+- [community care](../tags/community-care.md)
+- fxa303
 
 ## Methods
 

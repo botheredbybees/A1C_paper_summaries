@@ -24,15 +24,15 @@ The LAW122 Legal Systems course introduces the concept of using photography for 
 
 ## Key Concepts
 
-- [Mindfulness](../topics/Mindfulness.md)
-- [Photography in Health and Well-being](../topics/Photography in Health and Well-being.md)
+- [Mindfulness](../topics/mindfulness.md)
+- [Photography in Health and Well-being](../topics/photography-in-health-and-well-being.md)
 
 ## Tags
 
 - [mindfulness](../tags/mindfulness.md)
 - [photography-for-health](../tags/photography-for-health.md)
 - [mylo-lesson](../tags/mylo-lesson.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 

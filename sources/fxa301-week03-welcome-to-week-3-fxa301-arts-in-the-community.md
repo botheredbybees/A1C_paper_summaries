@@ -28,10 +28,10 @@ The introduction concludes with a preview for the next part of the lesson, which
 
 ## Key Concepts
 
-- [creative arts engagement](../topics/creative arts engagement.md)
-- [Arts on Prescription](../topics/Arts on Prescription.md)
-- [demographic changes](../topics/demographic changes.md)
-- [health outcomes](../topics/health outcomes.md)
+- [creative arts engagement](../topics/creative-arts-engagement.md)
+- [Arts on Prescription](../topics/arts-on-prescription.md)
+- [demographic changes](../topics/demographic-changes.md)
+- [health outcomes](../topics/health-outcomes.md)
 
 ## Tags
 
@@ -41,11 +41,11 @@ The introduction concludes with a preview for the next part of the lesson, which
 - [health-wellbeing](../tags/health-wellbeing.md)
 - [creative-therapies](../tags/creative-therapies.md)
 - [policy-frameworks](../tags/policy-frameworks.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [literature review](literature review.md)
+- **literature review**
 
 ## See Also
 

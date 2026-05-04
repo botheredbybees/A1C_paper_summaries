@@ -32,7 +32,7 @@ The organization's commitment to evidence-based practices is reinforced by publi
 
 - [Social Impact Measurement (SIM) Framework](../topics/Social Impact Measurement (SIM) Framework.md)
 - [Social Return on Investment (SROI)](../topics/Social Return on Investment (SROI).md)
-- [Quality of Care](../topics/Quality of Care.md)
+- [Quality of Care](../topics/quality-of-care.md)
 
 ## Tags
 
@@ -41,11 +41,11 @@ The organization's commitment to evidence-based practices is reinforced by publi
 - [healthcare-improvement](../tags/healthcare-improvement.md)
 - [social-impact-assessment](../tags/social-impact-assessment.md)
 - [well-being-in-healthcare](../tags/well-being-in-healthcare.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

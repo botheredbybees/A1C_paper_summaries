@@ -24,11 +24,11 @@ This study investigates the temporal dynamics of functional brain connectivity i
 
 ## Key Concepts
 
-- [functional brain connectivity](../topics/functional brain connectivity.md)
-- [temporal synchrony](../topics/temporal synchrony.md)
-- [cognitive processing speed](../topics/cognitive processing speed.md)
-- [neural network dynamics](../topics/neural network dynamics.md)
-- [autism symptom severity](../topics/autism symptom severity.md)
+- [functional brain connectivity](../topics/functional-brain-connectivity.md)
+- [temporal synchrony](../topics/temporal-synchrony.md)
+- [cognitive processing speed](../topics/cognitive-processing-speed.md)
+- [neural network dynamics](../topics/neural-network-dynamics.md)
+- [autism symptom severity](../topics/autism-symptom-severity.md)
 
 ## Tags
 
@@ -38,12 +38,12 @@ This study investigates the temporal dynamics of functional brain connectivity i
 - [temporal-dynamics](../tags/temporal-dynamics.md)
 - [neural-networks](../tags/neural-networks.md)
 - [symptom-severity](../tags/symptom-severity.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [multiband multiecho fMRI](multiband multiecho fMRI.md)
-- [replication sample analysis](replication sample analysis.md)
+- **multiband multiecho fMRI**
+- **replication sample analysis**
 
 ## See Also
 

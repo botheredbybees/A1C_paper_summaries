@@ -35,11 +35,11 @@ This article explores the physiological and psychological benefits of laughter, 
 - [stress-reduction](../tags/stress-reduction.md)
 - [physiological-benefits](../tags/physiological-benefits.md)
 - [psychological-wellbeing](../tags/psychological-wellbeing.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [review-of-literature](review-of-literature.md)
+- **review-of-literature**
 
 ## See Also
 

@@ -33,11 +33,11 @@ This paper by Freedberg and Gallese explores the role of embodied simulation in 
 - [aesthetic-experience](../tags/aesthetic-experience.md)
 - [empathy-in-art](../tags/empathy-in-art.md)
 - [motion-emotion](../tags/motion-emotion.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

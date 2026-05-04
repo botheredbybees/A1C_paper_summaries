@@ -24,9 +24,9 @@ This document is a compendium of scholarly references and citations related to t
 
 ## Key Concepts
 
-- [ethnomusicology practices](../topics/ethnomusicology practices.md)
-- [sustainable music cultures](../topics/sustainable music cultures.md)
-- [creative traditions](../topics/creative traditions.md)
+- [ethnomusicology practices](../topics/ethnomusicology-practices.md)
+- [sustainable music cultures](../topics/sustainable-music-cultures.md)
+- [creative traditions](../topics/creative-traditions.md)
 
 ## Tags
 
@@ -35,7 +35,7 @@ This document is a compendium of scholarly references and citations related to t
 - [sustainability](../tags/sustainability.md)
 - [cultural-conservation](../tags/cultural-conservation.md)
 - [arts-and-health](../tags/arts-and-health.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

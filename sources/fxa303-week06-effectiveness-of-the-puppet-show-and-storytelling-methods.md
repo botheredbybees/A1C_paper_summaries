@@ -26,9 +26,9 @@ The study investigates the effectiveness of puppet shows and storytelling on beh
 
 ## Key Concepts
 
-- [behavioral problems](../topics/behavioral problems.md)
-- [quasi-experimental design](../topics/quasi-experimental design.md)
-- [therapeutic value](../topics/therapeutic value.md)
+- [behavioral problems](../topics/behavioral-problems.md)
+- [quasi-experimental design](../topics/quasi-experimental-design.md)
+- [therapeutic value](../topics/therapeutic-value.md)
 
 ## Tags
 
@@ -37,12 +37,12 @@ The study investigates the effectiveness of puppet shows and storytelling on beh
 - [early-childhood-intervention](../tags/early-childhood-intervention.md)
 - [puppet-shows](../tags/puppet-shows.md)
 - [storytelling](../tags/storytelling.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [quasi-experimental study](quasi-experimental study.md)
-- [pretest-posttest](pretest-posttest.md)
+- **quasi-experimental study**
+- **pretest-posttest**
 
 ## See Also
 

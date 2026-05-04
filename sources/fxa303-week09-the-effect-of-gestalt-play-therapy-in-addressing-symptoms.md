@@ -28,8 +28,8 @@ After undergoing Gestalt play therapy, there was a statistically significant imp
 
 ## Key Concepts
 
-- [Gestalt play therapy](../topics/Gestalt play therapy.md)
-- [trauma-related symptoms](../topics/trauma-related symptoms.md)
+- [Gestalt play therapy](../topics/gestalt-play-therapy.md)
+- [trauma-related symptoms](../topics/trauma-related-symptoms.md)
 - [self-regulation](../topics/self-regulation.md)
 
 ## Tags
@@ -38,13 +38,13 @@ After undergoing Gestalt play therapy, there was a statistically significant imp
 - [trauma-intervention](../tags/trauma-intervention.md)
 - [play-therapy](../tags/play-therapy.md)
 - [neurodevelopment](../tags/neurodevelopment.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [mixed-methods](mixed-methods.md)
-- [single-system design](single-system design.md)
-- [phenomenological design](phenomenological design.md)
+- **mixed-methods**
+- **single-system design**
+- **phenomenological design**
 
 ## See Also
 

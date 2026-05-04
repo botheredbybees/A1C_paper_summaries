@@ -24,9 +24,9 @@ The book 'Treating the Trauma Survivor' is a comprehensive resource for mental h
 
 ## Key Concepts
 
-- [trauma-informed care](../topics/trauma-informed care.md)
-- [developmental trauma](../topics/developmental trauma.md)
-- [collaborative approach](../topics/collaborative approach.md)
+- [trauma-informed care](../topics/trauma-informed-care.md)
+- [developmental trauma](../topics/developmental-trauma.md)
+- [collaborative approach](../topics/collaborative-approach.md)
 
 ## Tags
 
@@ -36,7 +36,7 @@ The book 'Treating the Trauma Survivor' is a comprehensive resource for mental h
 - [retraumatization-prevention](../tags/retraumatization-prevention.md)
 - [identity-formation](../tags/identity-formation.md)
 - [trauma-interventions](../tags/trauma-interventions.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

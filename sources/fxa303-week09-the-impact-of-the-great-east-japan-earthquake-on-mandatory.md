@@ -24,8 +24,8 @@ This study evaluates the impact of the Great East Japan earthquake and subsequen
 
 ## Key Concepts
 
-- [mandatory psychiatric emergency hospitalizations](../topics/mandatory psychiatric emergency hospitalizations.md)
-- [indirect exposure to disaster](../topics/indirect exposure to disaster.md)
+- [mandatory psychiatric emergency hospitalizations](../topics/mandatory-psychiatric-emergency-hospitalizations.md)
+- [indirect exposure to disaster](../topics/indirect-exposure-to-disaster.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ This study evaluates the impact of the Great East Japan earthquake and subsequen
 - [natural-disasters](../tags/natural-disasters.md)
 - [public-mental-health](../tags/public-mental-health.md)
 - [retrospective-studies](../tags/retrospective-studies.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [retrospective observational study](retrospective observational study.md)
+- **retrospective observational study**
 
 ## See Also
 

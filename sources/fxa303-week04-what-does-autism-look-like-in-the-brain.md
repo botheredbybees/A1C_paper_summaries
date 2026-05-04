@@ -28,7 +28,7 @@ The study highlights a new perspective into understanding the neurological basis
 
 ## Key Concepts
 
-- [fMRI](../topics/fMRI.md)
+- [fMRI](../topics/fmri.md)
 - [synchronized-brain-activity](../topics/synchronized-brain-activity.md)
 - [social-dysfunction](../topics/social-dysfunction.md)
 
@@ -37,12 +37,12 @@ The study highlights a new perspective into understanding the neurological basis
 - [autism-spectrum-disorder](../tags/autism-spectrum-disorder.md)
 - [brain-connectivity](../tags/brain-connectivity.md)
 - [neural-mechanisms](../tags/neural-mechanisms.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [functional-magnetic-resonance-imaging](functional-magnetic-resonance-imaging.md)
-- [systematic-review](systematic-review.md)
+- **functional-magnetic-resonance-imaging**
+- **systematic-review**
 
 ## See Also
 

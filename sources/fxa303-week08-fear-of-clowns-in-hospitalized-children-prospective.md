@@ -24,9 +24,9 @@ This study investigates the prevalence and characteristics of fear of clowns (co
 
 ## Key Concepts
 
-- [fear of clowns](../topics/fear of clowns.md)
-- [psychological well-being](../topics/psychological well-being.md)
-- [medical clown intervention](../topics/medical clown intervention.md)
+- [fear of clowns](../topics/fear-of-clowns.md)
+- [psychological well-being](../topics/psychological-well-being.md)
+- [medical clown intervention](../topics/medical-clown-intervention.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ This study investigates the prevalence and characteristics of fear of clowns (co
 - [medical-clowns](../tags/medical-clowns.md)
 - [pediatric-psychology](../tags/pediatric-psychology.md)
 - [anxiety-reactions](../tags/anxiety-reactions.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [prospective study](prospective study.md)
+- **prospective study**
 
 ## See Also
 

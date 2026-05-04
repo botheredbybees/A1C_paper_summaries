@@ -33,11 +33,11 @@ This web lecture by Dr Brendan Lamb examines the multifaceted role of arts in en
 - [arts-health](../tags/arts-health.md)
 - [community-wellbeing](../tags/community-wellbeing.md)
 - [public-policy](../tags/public-policy.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [literature-review](literature-review.md)
+- **literature-review**
 
 ## See Also
 

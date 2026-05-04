@@ -10,7 +10,7 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
-tags: ["community development", "arts education", "ethnomusicology", "fxa301"]
+tags: ["community-development", "arts-education", "ethnomusicology", "fxa301"]
 key_concepts: ["sustainability", "health and well-being", "human rights"]
 methods: []
 slug: fxa301-make-arts-for-a-better-life-ch06-1-see-also-closing
@@ -28,15 +28,15 @@ This chapter from 'Make Arts for a Better Life: A Guide for Working with Communi
 ## Key Concepts
 
 - [sustainability](../topics/sustainability.md)
-- [health and well-being](../topics/health and well-being.md)
-- [human rights](../topics/human rights.md)
+- [health and well-being](../topics/health-and-well-being.md)
+- [human rights](../topics/human-rights.md)
 
 ## Tags
 
-- [community development](../tags/community development.md)
-- [arts education](../tags/arts education.md)
+- [community development](../tags/community-development.md)
+- [arts education](../tags/arts-education.md)
 - [ethnomusicology](../tags/ethnomusicology.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

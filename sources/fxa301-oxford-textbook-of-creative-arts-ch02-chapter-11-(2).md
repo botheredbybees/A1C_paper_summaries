@@ -26,15 +26,15 @@ This chapter discusses the ethical challenges associated with arts-based health 
 ## Key Concepts
 
 - [confidentiality](../topics/confidentiality.md)
-- [meaningful involvement](../topics/meaningful involvement.md)
-- [ethical challenges](../topics/ethical challenges.md)
+- [meaningful involvement](../topics/meaningful-involvement.md)
+- [ethical challenges](../topics/ethical-challenges.md)
 
 ## Tags
 
 - [ethics-in-research](../tags/ethics-in-research.md)
 - [arts-based-health-research](../tags/arts-based-health-research.md)
 - [health-wellbeing](../tags/health-wellbeing.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

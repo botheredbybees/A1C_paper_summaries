@@ -34,12 +34,12 @@ This study investigates the impact of an eight-week art-gallery-based interventi
 - [art-therapy](../tags/art-therapy.md)
 - [social-inclusion](../tags/social-inclusion.md)
 - [mental-health-interventions](../tags/mental-health-interventions.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [mixed-methods](mixed-methods.md)
-- [intervention-study](intervention-study.md)
+- **mixed-methods**
+- **intervention-study**
 
 ## See Also
 

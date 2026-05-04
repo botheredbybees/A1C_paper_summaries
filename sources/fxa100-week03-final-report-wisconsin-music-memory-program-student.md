@@ -34,11 +34,11 @@ The document presents a final report on the 'Wisconsin Music & Memory Program â€
 - [dementia-care](../tags/dementia-care.md)
 - [student-volunteers](../tags/student-volunteers.md)
 - [nursing-homes](../tags/nursing-homes.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [program-evaluation](program-evaluation.md)
+- **program-evaluation**
 
 ## See Also
 

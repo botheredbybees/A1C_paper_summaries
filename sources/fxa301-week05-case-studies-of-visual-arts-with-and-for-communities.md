@@ -24,9 +24,9 @@ The document discusses two case studies involving visual arts engagement project
 
 ## Key Concepts
 
-- [community wellbeing](../topics/community wellbeing.md)
-- [Happy Museum Project](../topics/Happy Museum Project.md)
-- [social connections](../topics/social connections.md)
+- [community wellbeing](../topics/community-wellbeing.md)
+- [Happy Museum Project](../topics/happy-museum-project.md)
+- [social connections](../topics/social-connections.md)
 
 ## Tags
 
@@ -35,11 +35,11 @@ The document discusses two case studies involving visual arts engagement project
 - [social-cohesion](../tags/social-cohesion.md)
 - [wellbeing-initiatives](../tags/wellbeing-initiatives.md)
 - [museum-curation](../tags/museum-curation.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

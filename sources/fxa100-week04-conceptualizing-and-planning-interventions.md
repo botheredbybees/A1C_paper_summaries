@@ -30,9 +30,9 @@ The chapter discusses the first four stages of designing and delivering arts in 
 
 ## Key Concepts
 
-- [PESTLE analysis](../topics/PESTLE analysis.md)
-- [quality improvement measures](../topics/quality improvement measures.md)
-- [patient-centered care](../topics/patient-centered care.md)
+- [PESTLE analysis](../topics/pestle-analysis.md)
+- [quality improvement measures](../topics/quality-improvement-measures.md)
+- [patient-centered care](../topics/patient-centered-care.md)
 
 ## Tags
 
@@ -41,11 +41,11 @@ The chapter discusses the first four stages of designing and delivering arts in 
 - [healthcare-improvement](../tags/healthcare-improvement.md)
 - [business-models](../tags/business-models.md)
 - [stakeholder-engagement](../tags/stakeholder-engagement.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

@@ -34,7 +34,7 @@ The chapter discusses the Active Energy project, an initiative aimed at enhancin
 - [elderly-wellbeing](../tags/elderly-wellbeing.md)
 - [community-engagement](../tags/community-engagement.md)
 - [renewable-energy](../tags/renewable-energy.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

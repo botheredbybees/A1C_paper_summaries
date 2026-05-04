@@ -34,11 +34,11 @@ This article explores the impact of a heritage-focused intervention on health an
 - [patient-wellbeing](../tags/patient-wellbeing.md)
 - [healthcare-interventions](../tags/healthcare-interventions.md)
 - [museum-collections](../tags/museum-collections.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [qualitative-evaluation](qualitative-evaluation.md)
+- **qualitative-evaluation**
 
 ## See Also
 

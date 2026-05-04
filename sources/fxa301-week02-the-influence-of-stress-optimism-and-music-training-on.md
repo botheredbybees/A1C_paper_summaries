@@ -33,12 +33,12 @@ The study explores the relationship between stress, optimism, and music training
 - [stress-management](../tags/stress-management.md)
 - [music-psychology](../tags/music-psychology.md)
 - [optimism-effects](../tags/optimism-effects.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [survey](survey.md)
-- [correlational](correlational.md)
+- **survey**
+- **correlational**
 
 ## See Also
 

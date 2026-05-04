@@ -35,12 +35,12 @@ The Community Caregiver Impact project involved 25 participants with dementia an
 - [personalized-music-program](../tags/personalized-music-program.md)
 - [nursing-home-staff-satisfaction](../tags/nursing-home-staff-satisfaction.md)
 - [community-caregiver-support](../tags/community-caregiver-support.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [survey-research](survey-research.md)
-- [case-control-study](case-control-study.md)
+- **survey-research**
+- **case-control-study**
 
 ## See Also
 

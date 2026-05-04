@@ -34,11 +34,11 @@ This article is a tribute to David Whitebread, an esteemed researcher and educat
 - [play-therapy](../tags/play-therapy.md)
 - [early-childhood-education](../tags/early-childhood-education.md)
 - [pedagogy](../tags/pedagogy.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [case-study](case-study.md)
+- **case-study**
 
 ## See Also
 

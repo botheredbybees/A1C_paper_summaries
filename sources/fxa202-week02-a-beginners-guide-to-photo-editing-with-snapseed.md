@@ -24,8 +24,8 @@ This document provides an introductory guide to using the photo editing applicat
 
 ## Key Concepts
 
-- [photo editing application](../topics/photo editing application.md)
-- [ease of use and powerful features](../topics/ease of use and powerful features.md)
+- [photo editing application](../topics/photo-editing-application.md)
+- [ease of use and powerful features](../topics/ease-of-use-and-powerful-features.md)
 
 ## Tags
 
@@ -34,7 +34,7 @@ This document provides an introductory guide to using the photo editing applicat
 - [snapseed-guide](../tags/snapseed-guide.md)
 - [photography-tips](../tags/photography-tips.md)
 - [digital-photography](../tags/digital-photography.md)
-- [fxa202](../tags/fxa202.md)
+- fxa202
 
 ## Methods
 

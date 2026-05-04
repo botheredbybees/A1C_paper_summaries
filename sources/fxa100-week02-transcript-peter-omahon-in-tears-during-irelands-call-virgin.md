@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "02"
-tags: ["peter omahon", "ireland's call", "virgin media sport", "fxa100"]
+tags: ["peter-omahon", "irelands-call", "virgin-media-sport", "fxa100"]
 key_concepts: ["emotional expression", "national pride"]
 methods: []
 slug: fxa100-week02-transcript-peter-omahon-in-tears-during-irelands-call-virgin
@@ -24,15 +24,15 @@ This YouTube video does not provide an automatic transcript; therefore, the summ
 
 ## Key Concepts
 
-- [emotional expression](../topics/emotional expression.md)
-- [national pride](../topics/national pride.md)
+- [emotional expression](../topics/emotional-expression.md)
+- [national pride](../topics/national-pride.md)
 
 ## Tags
 
-- [peter omahon](../tags/peter omahon.md)
-- [ireland's call](../tags/ireland's call.md)
-- [virgin media sport](../tags/virgin media sport.md)
-- [fxa100](../tags/fxa100.md)
+- [peter omahon](../tags/peter-omahon.md)
+- [ireland's call](../tags/irelands-call.md)
+- [virgin media sport](../tags/virgin-media-sport.md)
+- fxa100
 
 ## Methods
 

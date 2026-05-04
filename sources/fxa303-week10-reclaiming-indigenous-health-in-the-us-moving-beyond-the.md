@@ -25,8 +25,8 @@ This paper examines the limitations of applying the World Health Organization’
 ## Key Concepts
 
 - [social determinants of health (SDH)](../topics/social determinants of health (SDH).md)
-- [Indigenous epistemologies](../topics/Indigenous epistemologies.md)
-- [community sovereignty](../topics/community sovereignty.md)
+- [Indigenous epistemologies](../topics/indigenous-epistemologies.md)
+- [community sovereignty](../topics/community-sovereignty.md)
 
 ## Tags
 
@@ -35,7 +35,7 @@ This paper examines the limitations of applying the World Health Organization’
 - [health-policy](../tags/health-policy.md)
 - [indigenizing-research](../tags/indigenizing-research.md)
 - [public-health](../tags/public-health.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 

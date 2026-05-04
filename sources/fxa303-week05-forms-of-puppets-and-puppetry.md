@@ -38,11 +38,11 @@ The text also covers European puppet traditions influenced by Greek and Roman pr
 - [puppetry-history](../tags/puppetry-history.md)
 - [cultural-significance](../tags/cultural-significance.md)
 - [ancient-civilizations](../tags/ancient-civilizations.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [historical-analysis](historical-analysis.md)
+- **historical-analysis**
 
 ## See Also
 

@@ -28,9 +28,9 @@ Furthermore, it provides guidance on how to talk about carers, family members, a
 
 ## Key Concepts
 
-- [person-first language](../topics/person-first language.md)
-- [non-stigmatizing communication](../topics/non-stigmatizing communication.md)
-- [cultural sensitivity](../topics/cultural sensitivity.md)
+- [person-first language](../topics/person-first-language.md)
+- [non-stigmatizing communication](../topics/non-stigmatizing-communication.md)
+- [cultural sensitivity](../topics/cultural-sensitivity.md)
 
 ## Tags
 
@@ -40,11 +40,11 @@ Furthermore, it provides guidance on how to talk about carers, family members, a
 - [cultural-awareness](../tags/cultural-awareness.md)
 - [communication-strategies](../tags/communication-strategies.md)
 - [caregiver-support](../tags/caregiver-support.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [guidelines](guidelines.md)
+- **guidelines**
 
 ## See Also
 

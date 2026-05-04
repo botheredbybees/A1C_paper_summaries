@@ -24,10 +24,10 @@ Joanne F. Vizzini's chapter, 'The Wonder Continues,' explores the therapeutic an
 
 ## Key Concepts
 
-- [puppet therapy](../topics/puppet therapy.md)
-- [childlike wonder](../topics/childlike wonder.md)
-- [dialogue facilitation](../topics/dialogue facilitation.md)
-- [culturally sensitive puppetry](../topics/culturally sensitive puppetry.md)
+- [puppet therapy](../topics/puppet-therapy.md)
+- [childlike wonder](../topics/childlike-wonder.md)
+- [dialogue facilitation](../topics/dialogue-facilitation.md)
+- [culturally sensitive puppetry](../topics/culturally-sensitive-puppetry.md)
 
 ## Tags
 
@@ -37,11 +37,11 @@ Joanne F. Vizzini's chapter, 'The Wonder Continues,' explores the therapeutic an
 - [cultural-sensitivity](../tags/cultural-sensitivity.md)
 - [community-settings](../tags/community-settings.md)
 - [emotional-expression](../tags/emotional-expression.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

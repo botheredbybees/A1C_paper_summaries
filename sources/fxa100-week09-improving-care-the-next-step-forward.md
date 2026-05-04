@@ -39,11 +39,11 @@ The text underscores the necessity for caregivers to develop deeper interpersona
 - [positive-person-work](../tags/positive-person-work.md)
 - [caregiver-interactions](../tags/caregiver-interactions.md)
 - [holistic-understanding](../tags/holistic-understanding.md)
-- [fxa100](../tags/fxa100.md)
+- fxa100
 
 ## Methods
 
-- [theoretical-framework](theoretical-framework.md)
+- **theoretical-framework**
 
 ## See Also
 

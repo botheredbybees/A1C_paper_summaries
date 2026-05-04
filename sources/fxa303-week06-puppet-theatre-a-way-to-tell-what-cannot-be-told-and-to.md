@@ -26,9 +26,9 @@ Andrea Markovits discusses the use of puppet therapy as a method to address trau
 
 ## Key Concepts
 
-- [puppet therapy](../topics/puppet therapy.md)
-- [radical listening](../topics/radical listening.md)
-- [intergenerational dialogue](../topics/intergenerational dialogue.md)
+- [puppet therapy](../topics/puppet-therapy.md)
+- [radical listening](../topics/radical-listening.md)
+- [intergenerational dialogue](../topics/intergenerational-dialogue.md)
 
 ## Tags
 
@@ -37,11 +37,11 @@ Andrea Markovits discusses the use of puppet therapy as a method to address trau
 - [collective-memory](../tags/collective-memory.md)
 - [cultural-healing](../tags/cultural-healing.md)
 - [chile-dictatorship](../tags/chile-dictatorship.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [case study](case study.md)
+- **case study**
 
 ## See Also
 

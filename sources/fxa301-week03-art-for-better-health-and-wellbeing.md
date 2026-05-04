@@ -28,9 +28,9 @@ The authors propose that integrating arts into medical education could help stud
 
 ## Key Concepts
 
-- [dopaminergic medications](../topics/dopaminergic medications.md)
-- [therapeutic benefits of art](../topics/therapeutic benefits of art.md)
-- [personalized care](../topics/personalized care.md)
+- [dopaminergic medications](../topics/dopaminergic-medications.md)
+- [therapeutic benefits of art](../topics/therapeutic-benefits-of-art.md)
+- [personalized care](../topics/personalized-care.md)
 
 ## Tags
 
@@ -39,11 +39,11 @@ The authors propose that integrating arts into medical education could help stud
 - [creative-expression](../tags/creative-expression.md)
 - [patient-care](../tags/patient-care.md)
 - [medical-education](../tags/medical-education.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 
-- [literature review](literature review.md)
+- **literature review**
 
 ## See Also
 

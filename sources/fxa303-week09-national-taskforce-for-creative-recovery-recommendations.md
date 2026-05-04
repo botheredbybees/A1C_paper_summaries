@@ -24,10 +24,10 @@ The National Taskforce for Creative Recovery, comprising leaders from disaster m
 
 ## Key Concepts
 
-- [creative practices in disaster management](../topics/creative practices in disaster management.md)
-- [resilience building](../topics/resilience building.md)
-- [inclusive community engagement](../topics/inclusive community engagement.md)
-- [trauma processing through arts](../topics/trauma processing through arts.md)
+- [creative practices in disaster management](../topics/creative-practices-in-disaster-management.md)
+- [resilience building](../topics/resilience-building.md)
+- [inclusive community engagement](../topics/inclusive-community-engagement.md)
+- [trauma processing through arts](../topics/trauma-processing-through-arts.md)
 
 ## Tags
 
@@ -37,11 +37,11 @@ The National Taskforce for Creative Recovery, comprising leaders from disaster m
 - [mental-health](../tags/mental-health.md)
 - [first-peoples-culture](../tags/first-peoples-culture.md)
 - [arts-based-interventions](../tags/arts-based-interventions.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [policy recommendation](policy recommendation.md)
+- **policy recommendation**
 
 ## See Also
 

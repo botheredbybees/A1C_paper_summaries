@@ -1,7 +1,7 @@
 # UTAS Creative Arts and Health — Research Wiki
 
 A personal research knowledge base built from weekly readings for the
-[Diploma of Creative Arts and Health](https://www.utas.edu.au/) at the
+[Diploma of Creative Arts and Health](https://www.utas.edu.au/courses/arts-soc/courses/a1c-diploma-of-creative-arts-and-health) at the
 University of Tasmania. Pages are generated automatically from academic
 papers, textbook chapters, lesson pages, and video transcripts across
 eight units.

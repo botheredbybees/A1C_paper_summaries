@@ -35,11 +35,11 @@ This study explores the efficacy of puppet play therapy (PPT) compared to tell-s
 - [play-therapy](../tags/play-therapy.md)
 - [behavior-guidance](../tags/behavior-guidance.md)
 - [anxiety-reduction](../tags/anxiety-reduction.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [randomized-clinical-trial](randomized-clinical-trial.md)
+- **randomized-clinical-trial**
 
 ## See Also
 

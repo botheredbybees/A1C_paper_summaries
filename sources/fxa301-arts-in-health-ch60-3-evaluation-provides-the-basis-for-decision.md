@@ -7,7 +7,7 @@ apa7: "Book chapter downloaded from https://academic.oup.com/book/9415/chapter/1
 doi: null
 appearances:
   - unit: FXA301
-tags: ["healthcare evaluation", "research methods", "audits", "fxa301"]
+tags: ["healthcare-evaluation", "research-methods", "audits", "fxa301"]
 key_concepts: ["evaluation vs research", "complex interventions", "randomized controlled trials (RCTs)"]
 methods: []
 slug: fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision
@@ -24,16 +24,16 @@ The text outlines the distinctions between evaluation, research, and audits in h
 
 ## Key Concepts
 
-- [evaluation vs research](../topics/evaluation vs research.md)
-- [complex interventions](../topics/complex interventions.md)
+- [evaluation vs research](../topics/evaluation-vs-research.md)
+- [complex interventions](../topics/complex-interventions.md)
 - [randomized controlled trials (RCTs)](../topics/randomized controlled trials (RCTs).md)
 
 ## Tags
 
-- [healthcare evaluation](../tags/healthcare evaluation.md)
-- [research methods](../tags/research methods.md)
+- [healthcare evaluation](../tags/healthcare-evaluation.md)
+- [research methods](../tags/research-methods.md)
 - [audits](../tags/audits.md)
-- [fxa301](../tags/fxa301.md)
+- fxa301
 
 ## Methods
 

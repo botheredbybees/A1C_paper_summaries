@@ -33,11 +33,11 @@ Puppet Play Therapy: A Practical Guidebook is a comprehensive resource written b
 - [puppet-therapy](../tags/puppet-therapy.md)
 - [creative-arts-therapy](../tags/creative-arts-therapy.md)
 - [play-based-intervention](../tags/play-based-intervention.md)
-- [fxa303](../tags/fxa303.md)
+- fxa303
 
 ## Methods
 
-- [practical-guidebook](practical-guidebook.md)
+- **practical-guidebook**
 
 ## See Also
 
