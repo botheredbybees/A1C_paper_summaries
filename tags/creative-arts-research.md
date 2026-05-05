@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-arts-research
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Creative Arts Research

@@ -11,7 +11,7 @@ tags: ["art-therapy", "cancer-treatment", "self-expression", "identity-crisis", 
 key_concepts: ["Art Therapy", "Self-Expression", "Emotional Release"]
 methods: []
 slug: fxa100-week06-transcript-art-therapy-has-many-faces
-related: ["cancer-treatment", "emotional-support", "identity-crisis", "self-expression"]
+related: ["art-therapy", "cancer-treatment", "emotional-support", "identity-crisis", "self-expression"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,6 +43,7 @@ The transcript discusses the experience of an individual who found solace and id
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [cancer-treatment](../topics/cancer-treatment.md)
 - [emotional-support](../topics/emotional-support.md)
 - [identity-crisis](../topics/identity-crisis.md)

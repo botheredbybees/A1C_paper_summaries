@@ -6,11 +6,13 @@ confidence: high
 tags: ["image-editing"]
 sources:
   - fxa202-week08-how-to-merge-and-combine-images-in-photoshop
+  - fxa202-week08-lesson-fxa202-week08-page-2-editing-your-images
   - fxa202-week08-lesson-fxa202-week08-page-4
   - fxa202-week08-lesson-fxa202-week08-week-8
   - fxa202-week08-making-basic-adjustments-tutorial-at-gcflearnfree
   - fxa202-week08-week-8-web-lecture-editing-your-images
-updated: 2026-05-04
+  - fxa202-week09-lesson-fxa202-week09-chapter-3-creating-your-final-draft
+updated: 2026-05-05
 ---
 
 ## Image Editing Techniques
@@ -30,7 +32,9 @@ The provided sources collectively address various aspects of image editing techn
 ## Sources
 
 - [fxa202-week08-how-to-merge-and-combine-images-in-photoshop](../sources/fxa202-week08-how-to-merge-and-combine-images-in-photoshop.md)
+- [fxa202-week08-lesson-fxa202-week08-page-2-editing-your-images](../sources/fxa202-week08-lesson-fxa202-week08-page-2-editing-your-images.md)
 - [fxa202-week08-lesson-fxa202-week08-page-4](../sources/fxa202-week08-lesson-fxa202-week08-page-4.md)
 - [fxa202-week08-lesson-fxa202-week08-week-8](../sources/fxa202-week08-lesson-fxa202-week08-week-8.md)
 - [fxa202-week08-making-basic-adjustments-tutorial-at-gcflearnfree](../sources/fxa202-week08-making-basic-adjustments-tutorial-at-gcflearnfree.md)
 - [fxa202-week08-week-8-web-lecture-editing-your-images](../sources/fxa202-week08-week-8-web-lecture-editing-your-images.md)
+- [fxa202-week09-lesson-fxa202-week09-chapter-3-creating-your-final-draft](../sources/fxa202-week09-lesson-fxa202-week09-chapter-3-creating-your-final-draft.md)

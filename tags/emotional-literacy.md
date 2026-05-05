@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotional-literacy
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Emotional Literacy

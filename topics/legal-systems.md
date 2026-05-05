@@ -13,7 +13,10 @@ sources:
   - fxa202-week08-lesson-fxa202-week08-week-8
   - fxa202-week09-lesson-fxa202-week09-page-4
   - fxa202-week09-lesson-fxa202-week09-week-9
-updated: 2026-05-04
+  - fxa202-week10-lesson-fxa202-week10-page-2
+  - fxa202-week10-lesson-fxa202-week10-page-4
+  - fxa202-week10-lesson-fxa202-week10-week-10
+updated: 2026-05-05
 ---
 
 ## Legal Systems Through Visual Storytelling
@@ -40,3 +43,6 @@ The provided sources outline a course on the legal systems that emphasizes visua
 - [fxa202-week08-lesson-fxa202-week08-week-8](../sources/fxa202-week08-lesson-fxa202-week08-week-8.md)
 - [fxa202-week09-lesson-fxa202-week09-page-4](../sources/fxa202-week09-lesson-fxa202-week09-page-4.md)
 - [fxa202-week09-lesson-fxa202-week09-week-9](../sources/fxa202-week09-lesson-fxa202-week09-week-9.md)
+- [fxa202-week10-lesson-fxa202-week10-page-2](../sources/fxa202-week10-lesson-fxa202-week10-page-2.md)
+- [fxa202-week10-lesson-fxa202-week10-page-4](../sources/fxa202-week10-lesson-fxa202-week10-page-4.md)
+- [fxa202-week10-lesson-fxa202-week10-week-10](../sources/fxa202-week10-lesson-fxa202-week10-week-10.md)

@@ -7,13 +7,15 @@ doi: null
 appearances:
   - unit: FXA303
     week: "05"
+  - unit: FXA303
+    week: "05"
 tags: ["punch-and-judy-history", "british-entertainment", "traditional-puppet-shows", "cultural-evolution", "folklore-studies", "fxa303"]
 key_concepts: ["subversive-nature-of-punch", "evolution-of-costume-design", "integration-in-social-commentary"]
 methods: ["historical-overview"]
 slug: fxa303-week05-thats-the-way-to-do-it-a-history-of-punch-judy
 related: []
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-05
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week05-thats-the-way-to-do-it-a-history-of-punch-judy.md_

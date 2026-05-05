@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: patient-wellbeing-through-art
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Patient Wellbeing Through Art

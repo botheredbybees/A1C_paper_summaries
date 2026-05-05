@@ -7,9 +7,10 @@ tags: ["mental-health-practice"]
 sources:
   - fxa100-week09-web-article-north-2021
   - fxa303-creativity-wellbeing-and-mental-health-ch01-10-conclusions-tony-gillam
+  - fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam
   - fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam
   - fxa303-creativity-wellbeing-and-mental-health-ch05-8-creative-approaches-to-learning-and-leadership-tony-gillam
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Creative Mental Health Practices
@@ -30,5 +31,6 @@ The synthesis of sources on creative mental health practices reveals a multi-fac
 
 - [fxa100-week09-web-article-north-2021](../sources/fxa100-week09-web-article-north-2021.md)
 - [fxa303-creativity-wellbeing-and-mental-health-ch01-10-conclusions-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch01-10-conclusions-tony-gillam.md)
+- [fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam.md)
 - [fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam.md)
 - [fxa303-creativity-wellbeing-and-mental-health-ch05-8-creative-approaches-to-learning-and-leadership-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch05-8-creative-approaches-to-learning-and-leadership-tony-gillam.md)

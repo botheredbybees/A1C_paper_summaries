@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: patient-satisfaction
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Patient Satisfaction

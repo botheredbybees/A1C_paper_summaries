@@ -9,13 +9,15 @@ appearances:
     week: "05"
   - unit: FXA303
     week: "05"
+  - unit: FXA303
+    week: "05"
 tags: ["puppetry-history", "cultural-significance", "ancient-civilizations", "fxa303"]
 key_concepts: ["mammoth-ivory-puppets", "bunraku-theatre"]
 methods: ["historical-analysis"]
 slug: fxa303-week05-forms-of-puppets-and-puppetry
 related: ["cultural-significance"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-05
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week05-forms-of-puppets-and-puppetry.md_

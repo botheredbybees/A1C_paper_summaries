@@ -11,7 +11,7 @@ tags: ["research-ethics", "arts-in-health", "informed-consent", "vulnerable-popu
 key_concepts: ["ethical-considerations", "informed-consent-process", "professional-conduct-principles"]
 methods: ["chapter"]
 slug: fxa100-week04-research-ethics-in-arts-in-health-interventions
-related: ["arts-in-health", "research-ethics"]
+related: ["arts-in-health", "informed-consent", "research-ethics", "vulnerable-populations"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,4 +44,6 @@ Chapter 12 of 'Arts in Health: Designing and researching interventions' by Daisy
 ## See Also
 
 - [arts-in-health](../topics/arts-in-health.md)
+- [informed-consent](../topics/informed-consent.md)
 - [research-ethics](../topics/research-ethics.md)
+- [vulnerable-populations](../topics/vulnerable-populations.md)

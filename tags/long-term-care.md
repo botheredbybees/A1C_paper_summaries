@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: long-term-care
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Long Term Care

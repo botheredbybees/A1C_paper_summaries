@@ -11,7 +11,7 @@ tags: ["creative-health", "wellbeing", "chronic-disease-management", "community-
 key_concepts: ["creativity as determinant of health", "integrated care systems", "arts in healthcare initiatives"]
 methods: ["systematic review"]
 slug: fxa301-week03-executive-summary-creative-health-review
-related: ["chronic-disease-management", "creative-health", "public-policy", "wellbeing"]
+related: ["chronic-disease-management", "community-engagement", "creative-health", "public-policy", "wellbeing"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,6 +44,7 @@ The document emphasizes the fundamental role of creativity in health and wellbei
 ## See Also
 
 - [chronic-disease-management](../topics/chronic-disease-management.md)
+- [community-engagement](../topics/community-engagement.md)
 - [creative-health](../topics/creative-health.md)
 - [public-policy](../topics/public-policy.md)
 - [wellbeing](../topics/wellbeing.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurobiology-of-ptsd
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Neurobiology Of Ptsd

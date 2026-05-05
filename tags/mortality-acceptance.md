@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mortality-acceptance
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Mortality Acceptance

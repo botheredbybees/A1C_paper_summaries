@@ -11,7 +11,7 @@ tags: ["dementia-care", "art-therapy", "cognitive-barriers", "self-reflection", 
 key_concepts: ["guided-initiation", "internal-dialogue", "outward-communication", "executive-function-impairment"]
 methods: ["lecture"]
 slug: fxa100-week08-week-8-lecture-art-therapy-in-dementia-care
-related: ["dementia-care", "self-reflection"]
+related: ["art-therapy", "dementia-care", "self-reflection"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -48,5 +48,6 @@ Additionally, it addresses how different types of dementia impact artistic abili
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [dementia-care](../topics/dementia-care.md)
 - [self-reflection](../topics/self-reflection.md)

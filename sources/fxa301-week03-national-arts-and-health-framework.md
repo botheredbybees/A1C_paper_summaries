@@ -11,7 +11,7 @@ tags: ["arts-and-health", "public-health-policy", "health-outcomes", "community-
 key_concepts: ["artistic practices", "collaborative relationships", "holistic approaches"]
 methods: ["framework development"]
 slug: fxa301-week03-national-arts-and-health-framework
-related: ["arts-and-health", "health-outcomes", "indigenous-health", "public-health-policy"]
+related: ["arts-and-health", "community-engagement", "health-outcomes", "indigenous-health", "public-health-policy"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -50,6 +50,7 @@ Overall, this framework serves as a comprehensive guide for integrating arts ini
 ## See Also
 
 - [arts-and-health](../topics/arts-and-health.md)
+- [community-engagement](../topics/community-engagement.md)
 - [health-outcomes](../topics/health-outcomes.md)
 - [indigenous-health](../topics/indigenous-health.md)
 - [public-health-policy](../topics/public-health-policy.md)

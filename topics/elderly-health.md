@@ -7,8 +7,9 @@ tags: ["elderly-health"]
 sources:
   - fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia
   - fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35
+  - fxa301-week01-a-qualitative-investigation-of-older-adults
   - fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Health Interventions for Elderly Adults
@@ -29,4 +30,5 @@ The integration of health interventions aimed at elderly adults highlights both 
 
 - [fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia](../sources/fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35](../sources/fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35.md)
+- [fxa301-week01-a-qualitative-investigation-of-older-adults](../sources/fxa301-week01-a-qualitative-investigation-of-older-adults.md)
 - [fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older](../sources/fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older.md)

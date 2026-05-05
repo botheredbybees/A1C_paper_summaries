@@ -11,7 +11,7 @@ tags: ["technology-assisted-therapy", "dementia-care", "creative-expression", "f
 key_concepts: ["technological facilitation of creativity", "ethical considerations in digital sharing"]
 methods: []
 slug: fxa100-creativity-and-communication-ch02-15-putting-the-it-into-creativity-exploring-the-creative
-related: ["dementia-care"]
+related: ["creative-expression", "dementia-care"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,4 +40,5 @@ This chapter discusses how technology can serve as a catalyst for creativity amo
 
 ## See Also
 
+- [creative-expression](../topics/creative-expression.md)
 - [dementia-care](../topics/dementia-care.md)

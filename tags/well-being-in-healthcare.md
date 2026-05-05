@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: well-being-in-healthcare
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Well Being In Healthcare

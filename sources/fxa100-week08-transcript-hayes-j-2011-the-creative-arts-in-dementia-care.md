@@ -10,13 +10,14 @@ appearances:
   - unit: FXA100
   - unit: FXA100
   - unit: FXA100
+  - unit: FXA100
 tags: ["alzheimer-disease", "creative-arts-therapy", "dementia-care", "fxa100"]
 key_concepts: ["artistic-expression", "cognitive-rehabilitation"]
 methods: []
 slug: fxa100-week08-transcript-hayes-j-2011-the-creative-arts-in-dementia-care
 related: ["alzheimer-disease", "creative-arts-therapy", "dementia-care"]
 created: 2026-05-03
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-week08-transcript-hayes-j-2011-the-creative-arts-in-dementia-care.md_

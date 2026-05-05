@@ -6,8 +6,9 @@ confidence: medium
 tags: ["wellbeing-interventions"]
 sources:
   - fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the
+  - fxa301-week01-arts-for-health-and-wellbeing-an-evaluation-framework
   - fxa301-week03-creative-health-review-report
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Singing as an Intervention for Dementia and Caregiver Wellbeing
@@ -27,4 +28,5 @@ The synthesis of the provided sources highlights singing as a valuable intervent
 ## Sources
 
 - [fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the](../sources/fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the.md)
+- [fxa301-week01-arts-for-health-and-wellbeing-an-evaluation-framework](../sources/fxa301-week01-arts-for-health-and-wellbeing-an-evaluation-framework.md)
 - [fxa301-week03-creative-health-review-report](../sources/fxa301-week03-creative-health-review-report.md)

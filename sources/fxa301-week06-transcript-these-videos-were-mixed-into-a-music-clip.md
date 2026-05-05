@@ -11,7 +11,7 @@ tags: ["coronavirus", "community-engagement", "virtual-choir", "fxa301"]
 key_concepts: ["social-distancing", "community-support", "virtual-gathering"]
 methods: []
 slug: fxa301-week06-transcript-these-videos-were-mixed-into-a-music-clip
-related: []
+related: ["community-engagement"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,4 +41,4 @@ The content describes a music clip released on March 23, 2020, featuring videos 
 
 ## See Also
 
-*(none yet)*
+- [community-engagement](../topics/community-engagement.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-behavioral-mechanisms
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Cognitive Behavioral Mechanisms

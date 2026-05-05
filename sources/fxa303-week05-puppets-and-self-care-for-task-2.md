@@ -9,13 +9,15 @@ appearances:
     week: "05"
   - unit: FXA303
     week: "05"
+  - unit: FXA303
+    week: "05"
 tags: ["puppet-therapy", "cultural-storytelling", "self-care-strategies", "fxa303"]
 key_concepts: ["therapeutic-puppets", "shadow-theatre", "marionette-performance"]
 methods: ["case-study"]
 slug: fxa303-week05-puppets-and-self-care-for-task-2
 related: ["cultural-storytelling", "puppet-therapy", "self-care-strategies"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-05
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week05-puppets-and-self-care-for-task-2.md_

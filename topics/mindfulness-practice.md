@@ -7,7 +7,8 @@ tags: ["mindfulness-practice"]
 sources:
   - fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography
   - fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a
-updated: 2026-05-04
+  - fxa202-week10-critical-reflection-my-photo-essay
+updated: 2026-05-05
 ---
 
 ## Mindfulness Practice Through Photography
@@ -28,3 +29,4 @@ The integration of mindfulness practices with the act of photography reveals a u
 
 - [fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography](../sources/fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography.md)
 - [fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a](../sources/fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a.md)
+- [fxa202-week10-critical-reflection-my-photo-essay](../sources/fxa202-week10-critical-reflection-my-photo-essay.md)

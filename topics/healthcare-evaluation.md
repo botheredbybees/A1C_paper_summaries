@@ -7,7 +7,8 @@ tags: ["healthcare-evaluation"]
 sources:
   - fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision
   - fxa301-arts-in-health-ch67-chapter-6
-updated: 2026-05-04
+  - fxa301-week01-robins-i-a-tool-for-assessing-risk-of-bias-in-non
+updated: 2026-05-05
 ---
 
 ## Healthcare Evaluation
@@ -28,3 +29,4 @@ Healthcare evaluation encompasses the assessment of complex interventions and pr
 
 - [fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision](../sources/fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision.md)
 - [fxa301-arts-in-health-ch67-chapter-6](../sources/fxa301-arts-in-health-ch67-chapter-6.md)
+- [fxa301-week01-robins-i-a-tool-for-assessing-risk-of-bias-in-non](../sources/fxa301-week01-robins-i-a-tool-for-assessing-risk-of-bias-in-non.md)

@@ -11,7 +11,7 @@ tags: ["autism-spectrum-disorders", "art-therapy", "child-development", "behavio
 key_concepts: ["sense-of-self", "emotion-regulation", "flexibility-in-behavior", "social-skills"]
 methods: ["mixed-methods-design", "single-case-studies"]
 slug: fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for
-related: ["autism-spectrum-disorders", "child-development", "self-concept"]
+related: ["art-therapy", "autism-spectrum-disorders", "child-development", "self-concept"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,6 +45,7 @@ This study evaluates 'Images of Self,' an art therapy program designed for child
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [autism-spectrum-disorders](../topics/autism-spectrum-disorders.md)
 - [child-development](../topics/child-development.md)
 - [self-concept](../topics/self-concept.md)

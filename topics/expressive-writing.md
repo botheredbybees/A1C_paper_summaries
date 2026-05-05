@@ -8,7 +8,9 @@ sources:
   - fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental
   - fxa301-week08-health-related-effects-of-creative-and-expressive-writing
   - fxa301-week08-lesson-fxa301-week07-page-3-hm
-updated: 2026-05-04
+  - fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic
+  - fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd
+updated: 2026-05-05
 ---
 
 ## Expressive Writing
@@ -30,3 +32,5 @@ Expressive writing is an intervention recognized for its therapeutic and develop
 - [fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental](../sources/fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental.md)
 - [fxa301-week08-health-related-effects-of-creative-and-expressive-writing](../sources/fxa301-week08-health-related-effects-of-creative-and-expressive-writing.md)
 - [fxa301-week08-lesson-fxa301-week07-page-3-hm](../sources/fxa301-week08-lesson-fxa301-week07-page-3-hm.md)
+- [fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic](../sources/fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic.md)
+- [fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd](../sources/fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd.md)

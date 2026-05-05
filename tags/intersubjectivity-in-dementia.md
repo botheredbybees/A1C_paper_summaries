@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: intersubjectivity-in-dementia
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Intersubjectivity In Dementia

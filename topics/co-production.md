@@ -6,8 +6,10 @@ confidence: medium
 tags: ["co-production"]
 sources:
   - fxa100-week04-creative-and-credible-evaluation-for-arts-health-and-well
+  - fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well
+  - fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well-(2)
   - fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Co-production in Arts and Health
@@ -27,4 +29,6 @@ Co-production is highlighted across both sources as a collaborative approach tha
 ## Sources
 
 - [fxa100-week04-creative-and-credible-evaluation-for-arts-health-and-well](../sources/fxa100-week04-creative-and-credible-evaluation-for-arts-health-and-well.md)
+- [fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well](../sources/fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well.md)
+- [fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well-(2)](../sources/fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well-(2).md)
 - [fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2](../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2.md)

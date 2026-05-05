@@ -11,7 +11,7 @@ tags: ["community-engagement", "music-and-dance", "social-wellbeing", "health-ou
 key_concepts: ["engagement modes", "healing practices", "neural interactions"]
 methods: ["case study", "systematic review"]
 slug: fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community
-related: ["health-outcomes", "historical-perspective", "music-and-dance", "neuroscience", "social-wellbeing"]
+related: ["community-engagement", "health-outcomes", "historical-perspective", "music-and-dance", "neuroscience", "social-wellbeing"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,6 +45,7 @@ This document introduces the concept of engaging with music and dance within com
 
 ## See Also
 
+- [community-engagement](../topics/community-engagement.md)
 - [health-outcomes](../topics/health-outcomes.md)
 - [historical-perspective](../topics/historical-perspective.md)
 - [music-and-dance](../topics/music-and-dance.md)

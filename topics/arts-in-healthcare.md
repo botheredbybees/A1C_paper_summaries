@@ -6,10 +6,14 @@ confidence: high
 tags: ["arts-in-healthcare"]
 sources:
   - fxa100-week04-mindsong-transcript
+  - fxa100-week10-lesson-fxa100-week10-page-4-week-9-activities
+  - fxa100-week10-week-10-lecture-theatre-and-play-in-dementia-care
   - fxa301-arts-in-health-ch04-48-haldane-d
   - fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment
+  - fxa301-week01-is-there-compelling-evidence-for-using-the-arts-in-health
+  - fxa301-week01-validation-of-the-arts-observational-scale-for-the
   - fxa301-week03-implementing-creative-health
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Arts in Healthcare
@@ -29,6 +33,10 @@ The integration of arts into healthcare settings emerges as a multifaceted inter
 ## Sources
 
 - [fxa100-week04-mindsong-transcript](../sources/fxa100-week04-mindsong-transcript.md)
+- [fxa100-week10-lesson-fxa100-week10-page-4-week-9-activities](../sources/fxa100-week10-lesson-fxa100-week10-page-4-week-9-activities.md)
+- [fxa100-week10-week-10-lecture-theatre-and-play-in-dementia-care](../sources/fxa100-week10-week-10-lecture-theatre-and-play-in-dementia-care.md)
 - [fxa301-arts-in-health-ch04-48-haldane-d](../sources/fxa301-arts-in-health-ch04-48-haldane-d.md)
 - [fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment.md)
+- [fxa301-week01-is-there-compelling-evidence-for-using-the-arts-in-health](../sources/fxa301-week01-is-there-compelling-evidence-for-using-the-arts-in-health.md)
+- [fxa301-week01-validation-of-the-arts-observational-scale-for-the](../sources/fxa301-week01-validation-of-the-arts-observational-scale-for-the.md)
 - [fxa301-week03-implementing-creative-health](../sources/fxa301-week03-implementing-creative-health.md)

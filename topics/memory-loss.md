@@ -5,9 +5,14 @@ title: "Memory Loss Interventions"
 confidence: medium
 tags: ["memory-loss"]
 sources:
+  - fxa100-how-we-thnk-about-dementia-ch06-chapter-3
   - fxa100-week01-what-is-alzheimers-disease-video-transcript
   - fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video
-updated: 2026-05-03
+  - fxa100-week07-transcript-youtube-qvnfj1otdyc
+  - fxa100-week08-transcript-youtube-l3cci-2kwkk
+  - fxa100-week10-transcript-youtube-vwkammz898duration
+  - fxa202-week06-remembrance
+updated: 2026-05-05
 ---
 
 ## Memory Loss Interventions
@@ -26,5 +31,10 @@ The exploration of memory loss interventions highlights a dual approach involvin
 
 ## Sources
 
+- [fxa100-how-we-thnk-about-dementia-ch06-chapter-3](../sources/fxa100-how-we-thnk-about-dementia-ch06-chapter-3.md)
 - [fxa100-week01-what-is-alzheimers-disease-video-transcript](../sources/fxa100-week01-what-is-alzheimers-disease-video-transcript.md)
 - [fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video](../sources/fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video.md)
+- [fxa100-week07-transcript-youtube-qvnfj1otdyc](../sources/fxa100-week07-transcript-youtube-qvnfj1otdyc.md)
+- [fxa100-week08-transcript-youtube-l3cci-2kwkk](../sources/fxa100-week08-transcript-youtube-l3cci-2kwkk.md)
+- [fxa100-week10-transcript-youtube-vwkammz898duration](../sources/fxa100-week10-transcript-youtube-vwkammz898duration.md)
+- [fxa202-week06-remembrance](../sources/fxa202-week06-remembrance.md)

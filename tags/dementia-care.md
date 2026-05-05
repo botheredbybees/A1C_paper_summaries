@@ -1,11 +1,12 @@
 ---
 type: tag
 tag: dementia-care
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Dementia Care
 
+- [Putting the IT into Creativity: Exploring the Creative Potential of Technology](../sources/fxa100-creativity-and-communication-ch02-15-putting-the-it-into-creativity-exploring-the-creative.md)
 - [Improvisation and Other Dramas](../sources/fxa100-creativity-and-communication-ch07-7-making-it-all-up-improvisation-and-other-dramas-john.md)
 - [Starting Out: Identifying Purpose and Planning Arts-Based Projects for Persons with Dementia](../sources/fxa100-creativity-and-communication-ch09-19-starting-out-in-any-creative-endeavour-of-this-nature.md)
 - [Drilling Down to the Detail](../sources/fxa100-creativity-and-communication-ch10-20-drilling-down-to-the-detail-once-you-have-established.md)
@@ -21,19 +22,23 @@ updated: 2026-05-04
 - [Good Practice in Creative Communication-Based Reminiscence Work](../sources/fxa100-excellence-in-dementia-care--ch12-chapter-14.md)
 - [Understanding Behavior: A Psychosocial Approach to Dementia Care](../sources/fxa100-excellence-in-dementia-care--ch13-chapter-16.md)
 - [Changes in Communication for Persons with Dementia](../sources/fxa100-excellence-in-dementia-care--ch23-2-there-is-no-doubt-that-one-of-the-major-changes-we-see-in.md)
+- [Supporting Service User Involvement in Dementia Care](../sources/fxa100-excellence-in-dementia-care--ch29-chapter-17.md)
 - [Ethics in Dementia Care: Storied Lives, Storied Ethics](../sources/fxa100-excellence-in-dementia-care--ch36-chapter-4.md)
 - [Storied Ethics in Dementia Care](../sources/fxa100-excellence-in-dementia-care--ch38-4-it-allows-for-the-ethical-decision.md)
 - [Excellence in Dementia Care: Research into Practice](../sources/fxa100-excellence-in-dementia-care--ch40-chapter-14.md)
 - [Understanding Negative Positioning in Dementia Care](../sources/fxa100-excellence-in-dementia-care--ch42-1-there-is-a-stereotypic-view.md)
 - [Embodied Selfhood and Person-Centred Dementia Care](../sources/fxa100-excellence-in-dementia-care--ch47-chapter-17.md)
 - [Chapter 14: Managing the Patient with Dementia](../sources/fxa100-excellence-in-dementia-care--ch50-chapter-14.md)
+- [Negative Positioning of People Diagnosed with Dementia](../sources/fxa100-excellence-in-dementia-care--ch52-1-there-is-a-stereotypic-view.md)
 - [Embodied Selfhood and Creativity in Dementia Care](../sources/fxa100-excellence-in-dementia-care--ch57-chapter-17.md)
 - [Design matters in dementia care: the role of the physical environment in dementia care settings](../sources/fxa100-excellence-in-dementia-care--ch60-chapter-11.md)
 - [The Body in Dementia](../sources/fxa100-how-we-thnk-about-dementia-ch10-chapter-5.md)
 - [How We Think about Dementia: Personhood, Rights, Ethics, the Arts and What They Mean for Care](../sources/fxa100-how-we-thnk-about-dementia-ch12-chapter-4.md)
 - [The Body as the Articulation of Meaning in Dementia Care](../sources/fxa100-how-we-thnk-about-dementia-ch15-chapter-9.md)
+- [In Praise of \u2018Negative Capability\u2019](../sources/fxa100-how-we-thnk-about-dementia-ch16-chapter-14.md)
 - [First Hospitalised Falls Among People Living With Dementia: Risk Factors and Outcomes](../sources/fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia.md)
 - [FXA100: The Arts and Dementia Care - Week 1 Lecture Notes](../sources/fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes.md)
+- [Week 1: Introduction to FXA100 The Arts and Dementia Care](../sources/fxa100-week01-lesson-fxa100-week01-page-1-welcome-to-week-1.md)
 - [FXA100 The Arts and Dementia Care Introduction](../sources/fxa100-week01-lesson-fxa100-week01-page-3-week-1-activities.md)
 - [National Dementia Action Plan indicators dashboard](../sources/fxa100-week01-national-dementia-action-plan-indicators-dashboard.md)
 - [Introduction to Week 2: Music and the Brain](../sources/fxa100-week02-introduction-to-week-2-music-and-the-brain.md)
@@ -79,6 +84,7 @@ updated: 2026-05-04
 - [The impact of caregivers' singing on expressions of emotion and resistance during morning care situations in persons with dementia](../sources/fxa100-week04-the-impact-of-caregivers-singing-on-expressions-of-emotion.md)
 - [The \u2018ripple effect\u2019: Towards researching improvisational music therapy in dementia care homes](../sources/fxa100-week04-the-ripple-effect-towards-researching-improvisational-music.md)
 - [Mind Song Music for Dementia](../sources/fxa100-week04-transcript-mind-song-music-for-dementia.md)
+- [MJHS Dementia Care: Music Therapy - MJHS Health System](../sources/fxa100-week04-transcript-mjhs-dementia-care-music-therapy-mjhs-health.md)
 - [Music Therapy and People with Advanced Dementia](../sources/fxa100-week04-transcript-music-therapy-and-people-with-advanced-dementia.md)
 - [Music Therapy for Individuals with Dementia](../sources/fxa100-week04-transcript-music-therapy-comforts-soothes-those-with-varying.md)
 - [Transcript: Music Therapy with Dementia](../sources/fxa100-week04-transcript-music-therapy-with-dementia-canadian-music.md)
@@ -91,6 +97,7 @@ updated: 2026-05-04
 - [How creating sculpture benefits people with dementia](../sources/fxa100-week06-how-creating-sculpture-benefits-people-with-dementia.md)
 - [Is a Visual Arts Programme Beneficial for the Quality of Life of People Living with Dementia?](../sources/fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of.md)
 - [Week 6 Introduction: The Visual Arts and Dementia Care](../sources/fxa100-week06-lesson-fxa100-week06-page-1-welcome-to-week-6.md)
+- [FXA100 The Arts and Dementia Care: Visual Arts and the Brain](../sources/fxa100-week06-lesson-fxa100-week06-page-2-visual-arts-and-the-brain.md)
 - [The Arts and Dementia Care](../sources/fxa100-week06-lesson-fxa100-week06-page-3-the-arts-and-art-therapy.md)
 - [Week 6 Activities - FXA100 The Arts and Dementia Care](../sources/fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities.md)
 - [Painting for a Purpose: A Visual Arts Program as a Method to Promote Engagement, Communication, Cognition, and Quality of Life for Individuals With Dementia](../sources/fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to.md)

@@ -11,7 +11,7 @@ tags: ["inclusive-art", "disability-empowerment", "international-exhibitions", "
 key_concepts: ["Down-syndrome-inclusion", "art-as-self-expression", "societal-norm-challenge"]
 methods: ["case-study"]
 slug: fxa301-week09-how-josie-webster-is-conquering-the-art-world-with
-related: []
+related: ["inclusive-art"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,4 +41,4 @@ The article highlights the story of Josie Webster, a young Australian artist wit
 
 ## See Also
 
-*(none yet)*
+- [inclusive-art](../topics/inclusive-art.md)

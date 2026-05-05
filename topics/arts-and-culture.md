@@ -5,10 +5,13 @@ title: "Arts and Cultural Value"
 confidence: medium
 tags: ["arts-and-culture"]
 sources:
+  - fxa301-week01-the-value-of-arts-and-culture-to-people-and-society-an
   - fxa301-week01-web-article-australia-2022
   - fxa301-week08-transcript-arts-gymnasium-at-belgrade-theatre-coventry
   - fxa303-week10-researching-arts-culture-migration-and-change-a-multi
-updated: 2026-05-04
+  - fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)
+  - fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)
+updated: 2026-05-05
 ---
 
 ## Arts and Cultural Value
@@ -27,6 +30,9 @@ The value of arts is explored through cultural and public perspectives in Austra
 
 ## Sources
 
+- [fxa301-week01-the-value-of-arts-and-culture-to-people-and-society-an](../sources/fxa301-week01-the-value-of-arts-and-culture-to-people-and-society-an.md)
 - [fxa301-week01-web-article-australia-2022](../sources/fxa301-week01-web-article-australia-2022.md)
 - [fxa301-week08-transcript-arts-gymnasium-at-belgrade-theatre-coventry](../sources/fxa301-week08-transcript-arts-gymnasium-at-belgrade-theatre-coventry.md)
 - [fxa303-week10-researching-arts-culture-migration-and-change-a-multi](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi.md)
+- [fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2).md)
+- [fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3).md)

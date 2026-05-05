@@ -11,7 +11,7 @@ tags: ["music-education", "community-engagement", "child-development", "scotland
 key_concepts: ["Sistema Scotland", "Big Noise programme", "emotional wellbeing", "social skills development"]
 methods: ["program evaluation"]
 slug: fxa301-week06-evaluation-of-big-noise-douglas
-related: ["child-development", "music-education"]
+related: ["child-development", "community-engagement", "music-education"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,4 +45,5 @@ The document 'Evaluation of Big Noise Douglas' presents a comprehensive analysis
 ## See Also
 
 - [child-development](../topics/child-development.md)
+- [community-engagement](../topics/community-engagement.md)
 - [music-education](../topics/music-education.md)

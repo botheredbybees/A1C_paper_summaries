@@ -5,17 +5,78 @@ title: "Community Engagement"
 confidence: high
 tags: ["community-engagement"]
 sources:
+  - fxa100-excellence-in-dementia-care--ch33-1-place-covers-the-person
+  - fxa100-week04-making-art-with-communities-a-work-guide
+  - fxa100-week04-week-4-activities-fxa100-the-arts-and-dementia-care
+  - fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of
+  - fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of
+  - fxa100-week08-lesson-fxa100-week07-page-3-stimulating-engagement
+  - fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using
   - fxa202-week10-thinking-differently-about-aged-care
+  - fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts
+  - fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts-(2)
   - fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts-(2)
+  - fxa301-make-arts-for-a-better-life-ch09-5-choose-a-goal-needs-may-be-linked-within-communities
+  - fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30
+  - fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-(2)
+  - fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2)
   - fxa301-oxford-textbook-of-creative-arts-ch23-1-a-research-project-that-examined-how-participation-can-be-(2)
+  - fxa301-week01-fxa301-sem-1-2026-week-4-lecture
+  - fxa301-week01-guidelines-for-arts-and-mental-health-projects-(2)
   - fxa301-week01-lesson-fxa301-week01-page-4-week-3-activities
+  - fxa301-week01-week-1-introduction-the-role-of-creative-arts-in-human
+  - fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report
   - fxa301-week03-creating-our-future-results-of-the-national-arts
+  - fxa301-week03-developing-a-national-arts-and-health-policy-framework
+  - fxa301-week03-executive-summary-creative-health-review
+  - fxa301-week03-four-big-ways-to-improve-health-through-the-arts
+  - fxa301-week03-health-inequalities-and-the-role-of-creative-health
+  - fxa301-week03-national-arts-and-health-framework
+  - fxa301-week03-statement-on-lived-experience
+  - fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community
+  - fxa301-week05-case-studies-of-visual-arts-with-and-for-communities
   - fxa301-week05-cork-as-canvas-exploring-intersections-of-citizenship-and
   - fxa301-week05-engaging-with-visual-arts-week-5-introduction
+  - fxa301-week05-happy-museum-learning-evaluation-report
+  - fxa301-week05-happy-museum-project-principles
+  - fxa301-week05-how-murals-helped-turn-a-declining-community-around
+  - fxa301-week05-lesson-fxa301-week05-page-1
+  - fxa301-week05-lesson-fxa301-week05-page-2-hm-take-2-with-newer-content
+  - fxa301-week05-lesson-fxa301-week05-page-4-week-3-activities
+  - fxa301-week05-naidoc-week-aboriginal-mural-brings-community-together-in
+  - fxa301-week05-transcript-aprof-anne-marie-forbes-interview-with-dr
+  - fxa301-week06-brisbanes-pub-choir-movement-marks-first-year
+  - fxa301-week06-engaging-with-music-and-dance
+  - fxa301-week06-evaluation-of-big-noise-douglas
+  - fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation
   - fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project
+  - fxa301-week06-transcript-these-videos-were-mixed-into-a-music-clip
+  - fxa301-week06-week-6-activities-fxa301-arts-in-the-community
+  - fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community
+  - fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1
+  - fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2
+  - fxa301-week08-transcript-arts-gymnasium-at-belgrade-theatre-coventry
+  - fxa301-week08-transcript-youtube-channel-school-of-education-and
+  - fxa301-week08-transcript-youtube-i1dnrn0cj20
+  - fxa301-week09-lesson-fxa301-week09-page-1
+  - fxa301-week09-the-importance-of-disability-led-theatre
   - fxa301-week10-social-action-in-art-therapy-with-veterans
+  - fxa303-week03-arts-in-adolescence
+  - fxa303-week03-arts-on-prescription-meets-sir-quentin-blake
+  - fxa303-week03-centre-stage-20-a-report-on-youth-theatre-in-ireland
+  - fxa303-week03-lockdown-history-project-activity-sheets
+  - fxa303-week03-social-prescribing-roundtable-november-2019-report
+  - fxa303-week03-supporting-youth-mental-health-with-arts-based-strategies-a
+  - fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot
+  - fxa303-week09-capertee-valley-hydrology-project-ksca
+  - fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts
+  - fxa303-week09-national-taskforce-for-creative-recovery-recommendations
+  - fxa303-week10-importance-of-cultural-context-in-designing-arts-programs
+  - fxa303-week10-the-good-life-for-children-do-we-really-care-about-the
+  - fxa303-week10-transcript-younger-stories-culminated-in-an-exhibition-of
   - fxa303-week10-yesterday-i-couldnt-see-tomorrows-sun-shines-now-sharing
-updated: 2026-05-04
+  - fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a
+updated: 2026-05-05
 ---
 
 ## Community Engagement
@@ -34,13 +95,74 @@ Community engagement is a multifaceted intervention aimed at fostering participa
 
 ## Sources
 
+- [fxa100-excellence-in-dementia-care--ch33-1-place-covers-the-person](../sources/fxa100-excellence-in-dementia-care--ch33-1-place-covers-the-person.md)
+- [fxa100-week04-making-art-with-communities-a-work-guide](../sources/fxa100-week04-making-art-with-communities-a-work-guide.md)
+- [fxa100-week04-week-4-activities-fxa100-the-arts-and-dementia-care](../sources/fxa100-week04-week-4-activities-fxa100-the-arts-and-dementia-care.md)
+- [fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of](../sources/fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of.md)
+- [fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of](../sources/fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of.md)
+- [fxa100-week08-lesson-fxa100-week07-page-3-stimulating-engagement](../sources/fxa100-week08-lesson-fxa100-week07-page-3-stimulating-engagement.md)
+- [fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using](../sources/fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using.md)
 - [fxa202-week10-thinking-differently-about-aged-care](../sources/fxa202-week10-thinking-differently-about-aged-care.md)
+- [fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts](../sources/fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts.md)
+- [fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts-(2)](../sources/fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts-(2).md)
 - [fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts-(2)](../sources/fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts-(2).md)
+- [fxa301-make-arts-for-a-better-life-ch09-5-choose-a-goal-needs-may-be-linked-within-communities](../sources/fxa301-make-arts-for-a-better-life-ch09-5-choose-a-goal-needs-may-be-linked-within-communities.md)
+- [fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30](../sources/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30.md)
+- [fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-(2).md)
+- [fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2).md)
 - [fxa301-oxford-textbook-of-creative-arts-ch23-1-a-research-project-that-examined-how-participation-can-be-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch23-1-a-research-project-that-examined-how-participation-can-be-(2).md)
+- [fxa301-week01-fxa301-sem-1-2026-week-4-lecture](../sources/fxa301-week01-fxa301-sem-1-2026-week-4-lecture.md)
+- [fxa301-week01-guidelines-for-arts-and-mental-health-projects-(2)](../sources/fxa301-week01-guidelines-for-arts-and-mental-health-projects-(2).md)
 - [fxa301-week01-lesson-fxa301-week01-page-4-week-3-activities](../sources/fxa301-week01-lesson-fxa301-week01-page-4-week-3-activities.md)
+- [fxa301-week01-week-1-introduction-the-role-of-creative-arts-in-human](../sources/fxa301-week01-week-1-introduction-the-role-of-creative-arts-in-human.md)
+- [fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report](../sources/fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report.md)
 - [fxa301-week03-creating-our-future-results-of-the-national-arts](../sources/fxa301-week03-creating-our-future-results-of-the-national-arts.md)
+- [fxa301-week03-developing-a-national-arts-and-health-policy-framework](../sources/fxa301-week03-developing-a-national-arts-and-health-policy-framework.md)
+- [fxa301-week03-executive-summary-creative-health-review](../sources/fxa301-week03-executive-summary-creative-health-review.md)
+- [fxa301-week03-four-big-ways-to-improve-health-through-the-arts](../sources/fxa301-week03-four-big-ways-to-improve-health-through-the-arts.md)
+- [fxa301-week03-health-inequalities-and-the-role-of-creative-health](../sources/fxa301-week03-health-inequalities-and-the-role-of-creative-health.md)
+- [fxa301-week03-national-arts-and-health-framework](../sources/fxa301-week03-national-arts-and-health-framework.md)
+- [fxa301-week03-statement-on-lived-experience](../sources/fxa301-week03-statement-on-lived-experience.md)
+- [fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community](../sources/fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community.md)
+- [fxa301-week05-case-studies-of-visual-arts-with-and-for-communities](../sources/fxa301-week05-case-studies-of-visual-arts-with-and-for-communities.md)
 - [fxa301-week05-cork-as-canvas-exploring-intersections-of-citizenship-and](../sources/fxa301-week05-cork-as-canvas-exploring-intersections-of-citizenship-and.md)
 - [fxa301-week05-engaging-with-visual-arts-week-5-introduction](../sources/fxa301-week05-engaging-with-visual-arts-week-5-introduction.md)
+- [fxa301-week05-happy-museum-learning-evaluation-report](../sources/fxa301-week05-happy-museum-learning-evaluation-report.md)
+- [fxa301-week05-happy-museum-project-principles](../sources/fxa301-week05-happy-museum-project-principles.md)
+- [fxa301-week05-how-murals-helped-turn-a-declining-community-around](../sources/fxa301-week05-how-murals-helped-turn-a-declining-community-around.md)
+- [fxa301-week05-lesson-fxa301-week05-page-1](../sources/fxa301-week05-lesson-fxa301-week05-page-1.md)
+- [fxa301-week05-lesson-fxa301-week05-page-2-hm-take-2-with-newer-content](../sources/fxa301-week05-lesson-fxa301-week05-page-2-hm-take-2-with-newer-content.md)
+- [fxa301-week05-lesson-fxa301-week05-page-4-week-3-activities](../sources/fxa301-week05-lesson-fxa301-week05-page-4-week-3-activities.md)
+- [fxa301-week05-naidoc-week-aboriginal-mural-brings-community-together-in](../sources/fxa301-week05-naidoc-week-aboriginal-mural-brings-community-together-in.md)
+- [fxa301-week05-transcript-aprof-anne-marie-forbes-interview-with-dr](../sources/fxa301-week05-transcript-aprof-anne-marie-forbes-interview-with-dr.md)
+- [fxa301-week06-brisbanes-pub-choir-movement-marks-first-year](../sources/fxa301-week06-brisbanes-pub-choir-movement-marks-first-year.md)
+- [fxa301-week06-engaging-with-music-and-dance](../sources/fxa301-week06-engaging-with-music-and-dance.md)
+- [fxa301-week06-evaluation-of-big-noise-douglas](../sources/fxa301-week06-evaluation-of-big-noise-douglas.md)
+- [fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation](../sources/fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation.md)
 - [fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project](../sources/fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project.md)
+- [fxa301-week06-transcript-these-videos-were-mixed-into-a-music-clip](../sources/fxa301-week06-transcript-these-videos-were-mixed-into-a-music-clip.md)
+- [fxa301-week06-week-6-activities-fxa301-arts-in-the-community](../sources/fxa301-week06-week-6-activities-fxa301-arts-in-the-community.md)
+- [fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community](../sources/fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community.md)
+- [fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1](../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1.md)
+- [fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2](../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2.md)
+- [fxa301-week08-transcript-arts-gymnasium-at-belgrade-theatre-coventry](../sources/fxa301-week08-transcript-arts-gymnasium-at-belgrade-theatre-coventry.md)
+- [fxa301-week08-transcript-youtube-channel-school-of-education-and](../sources/fxa301-week08-transcript-youtube-channel-school-of-education-and.md)
+- [fxa301-week08-transcript-youtube-i1dnrn0cj20](../sources/fxa301-week08-transcript-youtube-i1dnrn0cj20.md)
+- [fxa301-week09-lesson-fxa301-week09-page-1](../sources/fxa301-week09-lesson-fxa301-week09-page-1.md)
+- [fxa301-week09-the-importance-of-disability-led-theatre](../sources/fxa301-week09-the-importance-of-disability-led-theatre.md)
 - [fxa301-week10-social-action-in-art-therapy-with-veterans](../sources/fxa301-week10-social-action-in-art-therapy-with-veterans.md)
+- [fxa303-week03-arts-in-adolescence](../sources/fxa303-week03-arts-in-adolescence.md)
+- [fxa303-week03-arts-on-prescription-meets-sir-quentin-blake](../sources/fxa303-week03-arts-on-prescription-meets-sir-quentin-blake.md)
+- [fxa303-week03-centre-stage-20-a-report-on-youth-theatre-in-ireland](../sources/fxa303-week03-centre-stage-20-a-report-on-youth-theatre-in-ireland.md)
+- [fxa303-week03-lockdown-history-project-activity-sheets](../sources/fxa303-week03-lockdown-history-project-activity-sheets.md)
+- [fxa303-week03-social-prescribing-roundtable-november-2019-report](../sources/fxa303-week03-social-prescribing-roundtable-november-2019-report.md)
+- [fxa303-week03-supporting-youth-mental-health-with-arts-based-strategies-a](../sources/fxa303-week03-supporting-youth-mental-health-with-arts-based-strategies-a.md)
+- [fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot](../sources/fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot.md)
+- [fxa303-week09-capertee-valley-hydrology-project-ksca](../sources/fxa303-week09-capertee-valley-hydrology-project-ksca.md)
+- [fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts](../sources/fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts.md)
+- [fxa303-week09-national-taskforce-for-creative-recovery-recommendations](../sources/fxa303-week09-national-taskforce-for-creative-recovery-recommendations.md)
+- [fxa303-week10-importance-of-cultural-context-in-designing-arts-programs](../sources/fxa303-week10-importance-of-cultural-context-in-designing-arts-programs.md)
+- [fxa303-week10-the-good-life-for-children-do-we-really-care-about-the](../sources/fxa303-week10-the-good-life-for-children-do-we-really-care-about-the.md)
+- [fxa303-week10-transcript-younger-stories-culminated-in-an-exhibition-of](../sources/fxa303-week10-transcript-younger-stories-culminated-in-an-exhibition-of.md)
 - [fxa303-week10-yesterday-i-couldnt-see-tomorrows-sun-shines-now-sharing](../sources/fxa303-week10-yesterday-i-couldnt-see-tomorrows-sun-shines-now-sharing.md)
+- [fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a](../sources/fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a.md)

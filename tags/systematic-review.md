@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: systematic-review
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Systematic Review
@@ -10,6 +10,9 @@ updated: 2026-05-04
 - [Dance movement therapy for dementia](../sources/fxa100-week09-dance-movement-therapy-for-dementia.md)
 - [Key components of person-centered care for people with dementia: A systematic review of interventions to design a patient preference study](../sources/fxa100-week09-key-components-of-person-centered-care-for-people-with.md)
 - [Key Intervention Categories to Provide Person-Centered Dementia Care: A Systematic Review of Person-Centered Interventions](../sources/fxa100-week09-key-intervention-categories-to-provide-person-centered.md)
+- [Rating the Quality of a Body of Evidence on the Effectiveness of Health and Social Interventions: A Systematic Review and Mapping of Evidence Domains](../sources/fxa301-week01-rating-the-quality-of-a-body-of-evidence-on-the.md)
+- [Revised Cochrane risk of bias tool for randomized trials (RoB 2) \u2014 Additional considerations for crossover trials](../sources/fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-(2).md)
+- [ROB-ME: a tool for assessing risk of bias due to missing evidence in systematic reviews with meta-analysis](../sources/fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing.md)
 - [Dance as an Intervention to Reduce Fall Risk in Older Adults: A Systematic Review With a Meta-Analysis](../sources/fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older.md)
 - [Effectiveness of Dance Interventions for Falls Prevention in Older Adults: Systematic Review and Meta-analysis](../sources/fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention.md)
 - [Promoting wellbeing and health through active participation in music and dance: a systematic review](../sources/fxa301-week06-promoting-wellbeing-and-health-through-active-participation.md)

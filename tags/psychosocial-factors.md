@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychosocial-factors
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Psychosocial Factors

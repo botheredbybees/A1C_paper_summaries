@@ -11,7 +11,7 @@ tags: ["community-engagement", "dementia-care", "street-performance", "creative-
 key_concepts: ["care-participation", "collaborative-performance", "underrepresented-voices"]
 methods: ["case-study"]
 slug: fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1
-related: ["arts-in-health", "dementia-care"]
+related: ["arts-in-health", "community-engagement", "dementia-care"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -48,4 +48,5 @@ The document highlights the importance of involving underrepresented voices in a
 ## See Also
 
 - [arts-in-health](../topics/arts-in-health.md)
+- [community-engagement](../topics/community-engagement.md)
 - [dementia-care](../topics/dementia-care.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: photographic-studies
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Photographic Studies

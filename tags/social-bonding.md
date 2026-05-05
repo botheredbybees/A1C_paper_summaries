@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-bonding
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Social Bonding

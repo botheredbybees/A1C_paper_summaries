@@ -9,13 +9,15 @@ appearances:
     week: "06"
   - unit: FXA303
     week: "06"
+  - unit: FXA303
+    week: "06"
 tags: ["behavioral-problems", "creative-therapies", "early-childhood-intervention", "puppet-shows", "storytelling", "fxa303"]
 key_concepts: ["behavioral problems", "quasi-experimental design", "therapeutic value"]
 methods: ["quasi-experimental study", "pretest-posttest"]
 slug: fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods
 related: ["creative-therapies", "storytelling"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-05
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods.md_

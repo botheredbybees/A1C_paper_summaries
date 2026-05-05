@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: quality-improvement
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Quality Improvement

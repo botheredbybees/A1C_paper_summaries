@@ -11,7 +11,7 @@ tags: ["creative-arts", "community-engagement", "lockdown-experience", "fxa303"]
 key_concepts: ["historical-record", "mental-wellbeing"]
 methods: ["activity-sheet"]
 slug: fxa303-week03-lockdown-history-project-activity-sheets
-related: ["creative-arts"]
+related: ["community-engagement", "creative-arts"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,4 +40,5 @@ The document is a collection of activity sheets developed by Arts on Prescriptio
 
 ## See Also
 
+- [community-engagement](../topics/community-engagement.md)
 - [creative-arts](../topics/creative-arts.md)

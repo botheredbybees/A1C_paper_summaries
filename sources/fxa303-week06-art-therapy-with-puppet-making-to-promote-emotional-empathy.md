@@ -9,13 +9,15 @@ appearances:
     week: "06"
   - unit: FXA303
     week: "06"
+  - unit: FXA303
+    week: "06"
 tags: ["art-therapy", "emotional-empathy", "adolescents-with-autism", "puppet-making", "self-expression", "social-skills", "fxa303"]
 key_concepts: ["Expressive Therapies Continuum (ETC)", "cognitive empathy", "affective empathy"]
 methods: ["case study"]
 slug: fxa303-week06-art-therapy-with-puppet-making-to-promote-emotional-empathy
-related: ["self-expression", "social-skills"]
+related: ["art-therapy", "self-expression", "social-skills"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-05
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week06-art-therapy-with-puppet-making-to-promote-emotional-empathy.md_
@@ -48,5 +50,6 @@ The article discusses the Expressive Therapies Continuum (ETC), a framework for 
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [self-expression](../topics/self-expression.md)
 - [social-skills](../topics/social-skills.md)

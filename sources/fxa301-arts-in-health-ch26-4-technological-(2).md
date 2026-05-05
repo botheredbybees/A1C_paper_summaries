@@ -11,7 +11,7 @@ tags: ["arts-in-health", "pestle-analysis", "reflexive-cycle", "fxa301"]
 key_concepts: ["Kolb\u2019s Reflective Cycle", "PESTLE Analysis"]
 methods: []
 slug: fxa301-arts-in-health-ch26-4-technological-(2)
-related: ["arts-in-health"]
+related: ["arts-in-health", "pestle-analysis"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,3 +41,4 @@ This chapter explores how to conduct a PESTLE analysis in healthcare settings to
 ## See Also
 
 - [arts-in-health](../topics/arts-in-health.md)
+- [pestle-analysis](../topics/pestle-analysis.md)

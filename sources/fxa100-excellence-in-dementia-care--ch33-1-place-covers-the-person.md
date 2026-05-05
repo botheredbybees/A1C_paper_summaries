@@ -11,7 +11,7 @@ tags: ["dementia-friendly-communities", "social-model-of-disability", "community
 key_concepts: ["Healthy Cities", "Compassionate Cities", "Social Model of Disability"]
 methods: []
 slug: fxa100-excellence-in-dementia-care--ch33-1-place-covers-the-person
-related: ["dementia-friendly-communities", "social-model-of-disability"]
+related: ["community-engagement", "dementia-friendly-communities", "social-model-of-disability"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,5 +41,6 @@ This chapter provides guidance on building dementia-friendly communities based o
 
 ## See Also
 
+- [community-engagement](../topics/community-engagement.md)
 - [dementia-friendly-communities](../topics/dementia-friendly-communities.md)
 - [social-model-of-disability](../topics/social-model-of-disability.md)

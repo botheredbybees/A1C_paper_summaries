@@ -9,13 +9,15 @@ appearances:
     week: "06"
   - unit: FXA303
     week: "06"
+  - unit: FXA303
+    week: "06"
 tags: ["autism-spectrum-disorder", "social-communication-skills", "therapeutic-interventions", "puppet-therapy", "visual-attention", "fxa303"]
 key_concepts: ["attention-to-social-cues", "reciprocal-interactions", "simplified-social-stimuli"]
 methods: ["case-control-comparison"]
 slug: fxa303-week06-puppets-facilitate-attention-to-social-cues-in-children
 related: ["autism-spectrum-disorder", "puppet-therapy", "therapeutic-interventions"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-05
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week06-puppets-facilitate-attention-to-social-cues-in-children.md_

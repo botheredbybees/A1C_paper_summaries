@@ -11,7 +11,7 @@ tags: ["dementia-care", "art-therapy", "creativity-promotion", "quality-of-life"
 key_concepts: ["creative-expression", "emotional-release", "cognitive-stimulation"]
 methods: ["empirical-research"]
 slug: fxa100-week07-nurturing-the-heart-creativity-art-therapy-and-dementia
-related: ["dementia-care", "quality-of-life"]
+related: ["art-therapy", "dementia-care", "quality-of-life"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,5 +42,6 @@ This monograph by Patricia Baines explores the importance of creativity in impro
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [dementia-care](../topics/dementia-care.md)
 - [quality-of-life](../topics/quality-of-life.md)

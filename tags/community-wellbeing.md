@@ -1,13 +1,14 @@
 ---
 type: tag
 tag: community-wellbeing
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Community Wellbeing
 
 - [Guidelines for Arts and Mental Health Projects](../sources/fxa100-week04-guidelines-for-arts-and-mental-health-projects.md)
 - [Connecting with and through art: Arts engagement for liveable communities](../sources/fxa100-week07-connecting-with-and-through-art-arts-engagement-for.md)
+- [Week 2 Introduction - FXA301 Arts in the Community](../sources/fxa301-week01-week-2-introduction-fxa301-arts-in-the-community.md)
 - [Cross-Sector Strategies for Health and Community Well-Being](../sources/fxa301-week03-cross-sector-strategies-for-health-and-community-well-being.md)
 - [Evidence Requirements for the Development of the National Australian Arts and Health Framework](../sources/fxa301-week03-evidence-requirements-for-the-development-of-the-national.md)
 - [Introduction to Creative Health Extract](../sources/fxa301-week03-introduction-to-creative-health-extract.md)

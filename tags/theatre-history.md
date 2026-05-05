@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: theatre-history
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Theatre History

@@ -11,7 +11,7 @@ tags: ["arts-therapy", "mental-health-interventions", "community-wellbeing", "co
 key_concepts: ["cultural-expression", "personal-growth-through-art", "safe-supportive-environments"]
 methods: ["guidelines-development"]
 slug: fxa100-week04-guidelines-for-arts-and-mental-health-projects
-related: ["arts-therapy", "community-wellbeing", "mental-health-interventions", "social-inclusion"]
+related: ["arts-therapy", "collaborative-practice", "community-wellbeing", "mental-health-interventions", "social-inclusion"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,6 +44,7 @@ The document 'Guidelines for Arts and Mental Health Projects' compiled by Simone
 ## See Also
 
 - [arts-therapy](../topics/arts-therapy.md)
+- [collaborative-practice](../topics/collaborative-practice.md)
 - [community-wellbeing](../topics/community-wellbeing.md)
 - [mental-health-interventions](../topics/mental-health-interventions.md)
 - [social-inclusion](../topics/social-inclusion.md)

@@ -11,7 +11,7 @@ tags: ["environmental-restoration", "hydrological-balance", "ecological-health",
 key_concepts: ["landscape-rehydration", "catchment-restoration", "community-participation", "sustainable-land-use"]
 methods: ["case-study"]
 slug: fxa303-week09-capertee-valley-hydrology-project-ksca
-related: []
+related: ["community-engagement"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,4 +45,4 @@ The Capertee Valley Hydrology Project, initiated by Kandos School of Cultural Ad
 
 ## See Also
 
-*(none yet)*
+- [community-engagement](../topics/community-engagement.md)

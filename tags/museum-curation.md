@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: museum-curation
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Museum Curation

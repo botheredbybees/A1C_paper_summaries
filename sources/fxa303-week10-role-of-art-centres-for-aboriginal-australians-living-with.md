@@ -11,7 +11,7 @@ tags: ["aboriginal-australians", "dementia-care", "remote-communities", "art-the
 key_concepts: ["dementia prevalence", "culturally relevant care", "social participation"]
 methods: ["qualitative study"]
 slug: fxa303-week10-role-of-art-centres-for-aboriginal-australians-living-with
-related: ["cultural-preservation", "dementia-care", "indigenous-health"]
+related: ["art-therapy", "cultural-preservation", "dementia-care", "indigenous-health", "remote-communities"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -44,6 +44,8 @@ The study explores the role of art centers in remote communities for Aboriginal 
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [cultural-preservation](../topics/cultural-preservation.md)
 - [dementia-care](../topics/dementia-care.md)
 - [indigenous-health](../topics/indigenous-health.md)
+- [remote-communities](../topics/remote-communities.md)

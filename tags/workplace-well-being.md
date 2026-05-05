@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: workplace-well-being
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Workplace Well Being

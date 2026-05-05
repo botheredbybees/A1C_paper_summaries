@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: functional-imaging
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Functional Imaging

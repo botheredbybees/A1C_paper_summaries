@@ -11,7 +11,7 @@ tags: ["art-therapy", "trauma-treatment", "systematic-review", "mental-health", 
 key_concepts: ["art therapy", "psychological trauma", "depression"]
 methods: ["systematic review"]
 slug: fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of
-related: ["mental-health", "systematic-review", "trauma-treatment"]
+related: ["art-therapy", "mental-health", "systematic-review", "trauma-treatment"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,6 +42,7 @@ The article presents a systematic review of the effectiveness of art therapy in 
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [mental-health](../topics/mental-health.md)
 - [systematic-review](../topics/systematic-review.md)
 - [trauma-treatment](../topics/trauma-treatment.md)

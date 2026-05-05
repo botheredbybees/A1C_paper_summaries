@@ -10,13 +10,14 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
+  - unit: FXA301
 tags: ["creative-arts", "health-and-wellbeing", "therapeutic-interventions", "fxa301"]
 key_concepts: ["World Health Organization definition of health", "community arts practice", "global perspectives on arts and health"]
 methods: []
 slug: fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1
 related: ["creative-arts", "health-and-wellbeing", "therapeutic-interventions"]
 created: 2026-05-03
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1.md_

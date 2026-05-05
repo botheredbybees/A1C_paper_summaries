@@ -5,10 +5,11 @@ title: "Cognitive Development"
 confidence: medium
 tags: ["cognitive-development"]
 sources:
+  - fxa202-week10-brain-research-shows-the-arts-promote-mental-health
   - fxa303-week02-developmental-role-of-creative-arts-and-play
   - fxa303-week02-theories-of-development-in-dialog-with-jean-piaget
   - fxa303-week03-developmental-psychology-from-infancy-to-adulthood
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Cognitive Development
@@ -27,6 +28,7 @@ The topic of cognitive development integrates several influential theoretical pe
 
 ## Sources
 
+- [fxa202-week10-brain-research-shows-the-arts-promote-mental-health](../sources/fxa202-week10-brain-research-shows-the-arts-promote-mental-health.md)
 - [fxa303-week02-developmental-role-of-creative-arts-and-play](../sources/fxa303-week02-developmental-role-of-creative-arts-and-play.md)
 - [fxa303-week02-theories-of-development-in-dialog-with-jean-piaget](../sources/fxa303-week02-theories-of-development-in-dialog-with-jean-piaget.md)
 - [fxa303-week03-developmental-psychology-from-infancy-to-adulthood](../sources/fxa303-week03-developmental-psychology-from-infancy-to-adulthood.md)

@@ -11,7 +11,7 @@ tags: ["self-care-practices", "digital-well-being", "community-engagement", "min
 key_concepts: ["practice-theory", "well-being-as-relational", "daily-digital-routines"]
 methods: ["qualitative-analysis"]
 slug: fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using
-related: ["creative-self-expression", "mindfulness-techniques", "self-care-practices"]
+related: ["community-engagement", "creative-self-expression", "mindfulness-techniques", "self-care-practices"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,6 +43,7 @@ This article explores how daily digital practices, such as the 'photo-a-day' ini
 
 ## See Also
 
+- [community-engagement](../topics/community-engagement.md)
 - [creative-self-expression](../topics/creative-self-expression.md)
 - [mindfulness-techniques](../topics/mindfulness-techniques.md)
 - [self-care-practices](../topics/self-care-practices.md)

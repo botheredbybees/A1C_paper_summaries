@@ -11,7 +11,7 @@ tags: ["health-inequalities", "creative-health", "social-determinants-of-health"
 key_concepts: ["social determinants of health", "creative health interventions", "equitable access to resources", "holistic approach"]
 methods: ["case study", "systematic review"]
 slug: fxa301-week03-health-inequalities-and-the-role-of-creative-health
-related: ["creative-health", "health-inequalities", "social-determinants-of-health"]
+related: ["community-engagement", "creative-health", "health-inequalities", "social-determinants-of-health"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,6 +46,7 @@ The document discusses the pervasive issue of health inequalities, emphasizing t
 
 ## See Also
 
+- [community-engagement](../topics/community-engagement.md)
 - [creative-health](../topics/creative-health.md)
 - [health-inequalities](../topics/health-inequalities.md)
 - [social-determinants-of-health](../topics/social-determinants-of-health.md)

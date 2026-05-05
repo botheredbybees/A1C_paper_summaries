@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: isolation-effects
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Isolation Effects

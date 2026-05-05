@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mobile-phone-cameras
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Mobile Phone Cameras

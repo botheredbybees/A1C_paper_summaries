@@ -11,7 +11,7 @@ tags: ["brain-connectivity", "art-therapy", "f-mri-study", "fxa100"]
 key_concepts: ["default-mode-network", "functional-brain-connectivity", "resilience-to-stress"]
 methods: ["fMRI", "systematic-intervention"]
 slug: fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual
-related: ["brain-connectivity", "f-mri-study"]
+related: ["art-therapy", "brain-connectivity", "f-mri-study"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,5 +42,6 @@ This study investigates the impact of visual art production and cognitive evalua
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [brain-connectivity](../topics/brain-connectivity.md)
 - [f-mri-study](../topics/f-mri-study.md)

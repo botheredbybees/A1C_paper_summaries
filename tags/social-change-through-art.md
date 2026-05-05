@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-change-through-art
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Social Change Through Art

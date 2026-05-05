@@ -6,8 +6,9 @@ confidence: medium
 tags: ["camera-usage"]
 sources:
   - fxa202-week02-getting-to-know-your-camera
+  - fxa202-week02-lesson-fxa202-week02-week-2
   - fxa202-week02-week-2-making-pictures
-updated: 2026-05-03
+updated: 2026-05-05
 ---
 
 ## Camera Usage in Photography
@@ -27,4 +28,5 @@ The sources emphasize the importance of understanding and utilizing different as
 ## Sources
 
 - [fxa202-week02-getting-to-know-your-camera](../sources/fxa202-week02-getting-to-know-your-camera.md)
+- [fxa202-week02-lesson-fxa202-week02-week-2](../sources/fxa202-week02-lesson-fxa202-week02-week-2.md)
 - [fxa202-week02-week-2-making-pictures](../sources/fxa202-week02-week-2-making-pictures.md)

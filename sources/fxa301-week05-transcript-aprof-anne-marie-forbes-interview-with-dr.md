@@ -11,7 +11,7 @@ tags: ["art-science-collaboration", "field-research", "antarctica", "marine-stud
 key_concepts: ["expanded field of drawing", "site-responsive art", "interdisciplinary research"]
 methods: []
 slug: fxa301-week05-transcript-aprof-anne-marie-forbes-interview-with-dr
-related: ["art-science-collaboration"]
+related: ["art-science-collaboration", "community-engagement"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,3 +44,4 @@ Dr. Annalise Rees discusses her arts project involving a two-month voyage to the
 ## See Also
 
 - [art-science-collaboration](../topics/art-science-collaboration.md)
+- [community-engagement](../topics/community-engagement.md)

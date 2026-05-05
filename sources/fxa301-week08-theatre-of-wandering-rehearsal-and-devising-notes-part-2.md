@@ -11,7 +11,7 @@ tags: ["community-engagement", "inclusive-theatre", "dementia-care", "fxa301"]
 key_concepts: ["co-production", "community-involvement", "societal-attitudes-towards-care"]
 methods: ["case-study"]
 slug: fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2
-related: ["dementia-care", "inclusive-theatre"]
+related: ["community-engagement", "dementia-care", "inclusive-theatre"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,5 +41,6 @@ This article by David Slater, an associate of Entelechy Arts, details the collab
 
 ## See Also
 
+- [community-engagement](../topics/community-engagement.md)
 - [dementia-care](../topics/dementia-care.md)
 - [inclusive-theatre](../topics/inclusive-theatre.md)

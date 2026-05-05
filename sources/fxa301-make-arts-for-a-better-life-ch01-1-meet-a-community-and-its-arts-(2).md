@@ -11,7 +11,7 @@ tags: ["ethnomusicology", "community-engagement", "applied-arts", "fxa301"]
 key_concepts: ["better life", "creativity in arts"]
 methods: []
 slug: fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts-(2)
-related: ["ethnomusicology"]
+related: ["community-engagement", "ethnomusicology"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,4 +40,5 @@ This excerpt introduces a guide to ethnomusicology and applied arts, focusing on
 
 ## See Also
 
+- [community-engagement](../topics/community-engagement.md)
 - [ethnomusicology](../topics/ethnomusicology.md)

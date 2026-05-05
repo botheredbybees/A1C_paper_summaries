@@ -11,7 +11,7 @@ tags: ["arts-on-prescription", "covid-19-pandemic", "community-engagement", "cre
 key_concepts: ["Arts On Prescription", "Lockdown History Project"]
 methods: ["case study"]
 slug: fxa303-week03-arts-on-prescription-meets-sir-quentin-blake
-related: ["arts-on-prescription", "creative-expression"]
+related: ["arts-on-prescription", "community-engagement", "creative-expression"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,4 +43,5 @@ The document discusses the Arts On Prescription project and its collaboration wi
 ## See Also
 
 - [arts-on-prescription](../topics/arts-on-prescription.md)
+- [community-engagement](../topics/community-engagement.md)
 - [creative-expression](../topics/creative-expression.md)

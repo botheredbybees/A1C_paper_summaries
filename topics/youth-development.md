@@ -11,7 +11,8 @@ sources:
   - fxa301-week06-statistical-analysis-of-educational-outcomes-among-big
   - fxa303-week03-the-impact-of-art-education-on-human-capital-an-empirical
   - fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot
-updated: 2026-05-04
+  - fxa303-week10-arts-education-and-society-the-role-of-the-arts-in
+updated: 2026-05-05
 ---
 
 ## Youth Development Through Arts Activities
@@ -36,3 +37,4 @@ The integration of arts activities into youth development programs is shown to h
 - [fxa301-week06-statistical-analysis-of-educational-outcomes-among-big](../sources/fxa301-week06-statistical-analysis-of-educational-outcomes-among-big.md)
 - [fxa303-week03-the-impact-of-art-education-on-human-capital-an-empirical](../sources/fxa303-week03-the-impact-of-art-education-on-human-capital-an-empirical.md)
 - [fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot](../sources/fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot.md)
+- [fxa303-week10-arts-education-and-society-the-role-of-the-arts-in](../sources/fxa303-week10-arts-education-and-society-the-role-of-the-arts-in.md)

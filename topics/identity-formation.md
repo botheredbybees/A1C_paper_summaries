@@ -5,9 +5,10 @@ title: "Identity Formation Through Music and Trauma"
 confidence: medium
 tags: ["identity-formation"]
 sources:
+  - fxa301-week01-music-and-meaning-in-community-contexts
   - fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than
   - fxa303-week09-treating-the-trauma-survivor-an-essential-guide-to-trauma
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Identity Formation Through Music and Trauma
@@ -25,5 +26,6 @@ Music's profound impact on adolescent identity formation is highlighted in the f
 
 ## Sources
 
+- [fxa301-week01-music-and-meaning-in-community-contexts](../sources/fxa301-week01-music-and-meaning-in-community-contexts.md)
 - [fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than](../sources/fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than.md)
 - [fxa303-week09-treating-the-trauma-survivor-an-essential-guide-to-trauma](../sources/fxa303-week09-treating-the-trauma-survivor-an-essential-guide-to-trauma.md)

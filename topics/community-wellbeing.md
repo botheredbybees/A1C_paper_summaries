@@ -7,6 +7,7 @@ tags: ["community-wellbeing"]
 sources:
   - fxa100-week04-guidelines-for-arts-and-mental-health-projects
   - fxa100-week07-connecting-with-and-through-art-arts-engagement-for
+  - fxa301-week01-week-2-introduction-fxa301-arts-in-the-community
   - fxa301-week03-cross-sector-strategies-for-health-and-community-well-being
   - fxa301-week03-evidence-requirements-for-the-development-of-the-national
   - fxa301-week03-introduction-to-creative-health-extract
@@ -16,7 +17,7 @@ sources:
   - fxa301-week05-museums-as-spaces-for-wellbeing-a-second-report-from-the
   - fxa301-week06-lesson-fxa301-week06-page-1
   - fxa301-week08-transcript-the-video-below-relates-the-experiences-of
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Community Wellbeing Through Arts Engagement
@@ -37,6 +38,7 @@ The synthesis of the sources highlights a broad range of arts-based intervention
 
 - [fxa100-week04-guidelines-for-arts-and-mental-health-projects](../sources/fxa100-week04-guidelines-for-arts-and-mental-health-projects.md)
 - [fxa100-week07-connecting-with-and-through-art-arts-engagement-for](../sources/fxa100-week07-connecting-with-and-through-art-arts-engagement-for.md)
+- [fxa301-week01-week-2-introduction-fxa301-arts-in-the-community](../sources/fxa301-week01-week-2-introduction-fxa301-arts-in-the-community.md)
 - [fxa301-week03-cross-sector-strategies-for-health-and-community-well-being](../sources/fxa301-week03-cross-sector-strategies-for-health-and-community-well-being.md)
 - [fxa301-week03-evidence-requirements-for-the-development-of-the-national](../sources/fxa301-week03-evidence-requirements-for-the-development-of-the-national.md)
 - [fxa301-week03-introduction-to-creative-health-extract](../sources/fxa301-week03-introduction-to-creative-health-extract.md)

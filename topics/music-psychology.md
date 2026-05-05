@@ -6,8 +6,16 @@ confidence: medium
 tags: ["music-psychology"]
 sources:
   - fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and
+  - fxa100-week03-transcript-the-effects-of-music-on-the-brain
+  - fxa301-oxford-textbook-of-creative-arts-ch08-96-clift
+  - fxa301-week02-aesthetic-responses-to-music-a-questionnaire-study
   - fxa301-week02-an-experience-sampling-study-of-emotional-reactions-to
-updated: 2026-05-03
+  - fxa301-week02-current-emotion-research-in-music-psychology
+  - fxa301-week02-emotions-during-live-music-performance-links-with
+  - fxa301-week02-empathy-manipulation-impacts-music-induced-emotions-a
+  - fxa301-week02-experimental-evidence-of-the-roles-of-music-choice-social
+  - fxa301-week02-the-influence-of-stress-optimism-and-music-training-on
+updated: 2026-05-05
 ---
 
 ## Emotional Reactions to Music
@@ -27,4 +35,12 @@ The literature highlights the profound impact of music on human emotion across v
 ## Sources
 
 - [fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and](../sources/fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and.md)
+- [fxa100-week03-transcript-the-effects-of-music-on-the-brain](../sources/fxa100-week03-transcript-the-effects-of-music-on-the-brain.md)
+- [fxa301-oxford-textbook-of-creative-arts-ch08-96-clift](../sources/fxa301-oxford-textbook-of-creative-arts-ch08-96-clift.md)
+- [fxa301-week02-aesthetic-responses-to-music-a-questionnaire-study](../sources/fxa301-week02-aesthetic-responses-to-music-a-questionnaire-study.md)
 - [fxa301-week02-an-experience-sampling-study-of-emotional-reactions-to](../sources/fxa301-week02-an-experience-sampling-study-of-emotional-reactions-to.md)
+- [fxa301-week02-current-emotion-research-in-music-psychology](../sources/fxa301-week02-current-emotion-research-in-music-psychology.md)
+- [fxa301-week02-emotions-during-live-music-performance-links-with](../sources/fxa301-week02-emotions-during-live-music-performance-links-with.md)
+- [fxa301-week02-empathy-manipulation-impacts-music-induced-emotions-a](../sources/fxa301-week02-empathy-manipulation-impacts-music-induced-emotions-a.md)
+- [fxa301-week02-experimental-evidence-of-the-roles-of-music-choice-social](../sources/fxa301-week02-experimental-evidence-of-the-roles-of-music-choice-social.md)
+- [fxa301-week02-the-influence-of-stress-optimism-and-music-training-on](../sources/fxa301-week02-the-influence-of-stress-optimism-and-music-training-on.md)

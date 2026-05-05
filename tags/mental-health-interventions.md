@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-health-interventions
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Mental Health Interventions
@@ -16,6 +16,8 @@ updated: 2026-05-04
 - [Photography as Self-Therapy: An Introduction for Beginners](../sources/fxa202-week08-photography-as-self-therapy-an-introduction-for-beginners.md)
 - [Expressive Writing Therapy Exercises & Examples](../sources/fxa202-week09-expressive-writing-therapy-exercises-examples.md)
 - [The means to flourish: arts in community health and education](../sources/fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6.md)
+- [Arts on Prescription in Sefton: Programme Report](../sources/fxa301-week01-arts-on-prescription-in-sefton-programme-report.md)
+- [Guidelines for Arts and Mental Health Projects](../sources/fxa301-week01-guidelines-for-arts-and-mental-health-projects.md)
 - [Health-related effects of creative and expressive writing](../sources/fxa301-week08-health-related-effects-of-creative-and-expressive-writing.md)
 - [Arts-Based Therapies in the Treatment of Eating Disorders](../sources/fxa301-week10-arts-based-therapies-in-the-treatment-of-eating-disorders.md)
 - [Arts Therapies Interventions and Their Outcomes in the Treatment of Eating Disorders: Scoping Review Protocol](../sources/fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the.md)

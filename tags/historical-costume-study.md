@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: historical-costume-study
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Historical Costume Study

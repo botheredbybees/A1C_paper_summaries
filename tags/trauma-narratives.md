@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: trauma-narratives
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Trauma Narratives

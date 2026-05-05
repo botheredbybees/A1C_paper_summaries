@@ -11,7 +11,7 @@ tags: ["art-therapy", "creative-aging", "elderhood-development", "societal-bias-
 key_concepts: ["elderhood", "creative arts therapy", "biological decline vs development"]
 methods: ["case study"]
 slug: fxa202-week10-introduction-art-therapy-and-creative-aging
-related: []
+related: ["art-therapy"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -43,4 +43,4 @@ The introduction chapter of 'Art Therapy and Creative Aging' by Raquel Chapin St
 
 ## See Also
 
-*(none yet)*
+- [art-therapy](../topics/art-therapy.md)

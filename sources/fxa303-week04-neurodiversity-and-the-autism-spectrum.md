@@ -9,13 +9,15 @@ appearances:
     week: "04"
   - unit: FXA303
     week: "04"
+  - unit: FXA303
+    week: "04"
 tags: ["neurodiversity", "autism-spectrum-disorder", "attention-deficit-hyperactivity-disorder", "early-intervention", "behavioral-therapies", "fxa303"]
 key_concepts: ["neural-connectivity", "medical-model-of-disability", "early-intervention-strategies"]
 methods: ["case-study"]
 slug: fxa303-week04-neurodiversity-and-the-autism-spectrum
 related: ["autism-spectrum-disorder", "early-intervention", "neurodiversity"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-05
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week04-neurodiversity-and-the-autism-spectrum.md_

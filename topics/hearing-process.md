@@ -6,8 +6,10 @@ confidence: medium
 tags: ["hearing-process"]
 sources:
   - fxa100-week02-hearing-and-music
+  - fxa100-week02-lesson-fxa100-week02-page-2-hearing-and-music
+  - fxa100-week02-transcript-how-the-ear-and-hearing-works-from-med-el-view
   - fxa100-week02-video-about-hearing-and-how-it-works-med-el-video-transcript
-updated: 2026-05-03
+updated: 2026-05-05
 ---
 
 ## Hearing Process
@@ -27,4 +29,6 @@ The hearing process involves intricate physiological and neural mechanisms that 
 ## Sources
 
 - [fxa100-week02-hearing-and-music](../sources/fxa100-week02-hearing-and-music.md)
+- [fxa100-week02-lesson-fxa100-week02-page-2-hearing-and-music](../sources/fxa100-week02-lesson-fxa100-week02-page-2-hearing-and-music.md)
+- [fxa100-week02-transcript-how-the-ear-and-hearing-works-from-med-el-view](../sources/fxa100-week02-transcript-how-the-ear-and-hearing-works-from-med-el-view.md)
 - [fxa100-week02-video-about-hearing-and-how-it-works-med-el-video-transcript](../sources/fxa100-week02-video-about-hearing-and-how-it-works-med-el-video-transcript.md)

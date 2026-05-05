@@ -6,8 +6,16 @@ confidence: medium
 tags: ["neuroscience"]
 sources:
   - fxa100-week01-transcript-what-is-alzheimers-disease-ivan-seah-yu-jun
+  - fxa100-week02-are-people-really-left-brained-or-right-brain
+  - fxa100-week02-transcript-in-the-video-hank-green-from-the-scishow-explains
   - fxa100-week03-experimental-evidence-for-synchronization-to-a-musical-beat
-updated: 2026-05-03
+  - fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted
+  - fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what
+  - fxa301-week01-transcript-two-minute-neuroscience-reward-system
+  - fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community
+  - fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community
+  - fxa303-week02-lesson-fxa303-week02-introduction
+updated: 2026-05-05
 ---
 
 ## Neuroscience Of Cognitive Disorders And Rhythmic Behavior
@@ -27,4 +35,12 @@ The discussion revolves around the understanding of cognitive disorders such as 
 ## Sources
 
 - [fxa100-week01-transcript-what-is-alzheimers-disease-ivan-seah-yu-jun](../sources/fxa100-week01-transcript-what-is-alzheimers-disease-ivan-seah-yu-jun.md)
+- [fxa100-week02-are-people-really-left-brained-or-right-brain](../sources/fxa100-week02-are-people-really-left-brained-or-right-brain.md)
+- [fxa100-week02-transcript-in-the-video-hank-green-from-the-scishow-explains](../sources/fxa100-week02-transcript-in-the-video-hank-green-from-the-scishow-explains.md)
 - [fxa100-week03-experimental-evidence-for-synchronization-to-a-musical-beat](../sources/fxa100-week03-experimental-evidence-for-synchronization-to-a-musical-beat.md)
+- [fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted](../sources/fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted.md)
+- [fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what](../sources/fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what.md)
+- [fxa301-week01-transcript-two-minute-neuroscience-reward-system](../sources/fxa301-week01-transcript-two-minute-neuroscience-reward-system.md)
+- [fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community](../sources/fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community.md)
+- [fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community](../sources/fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community.md)
+- [fxa303-week02-lesson-fxa303-week02-introduction](../sources/fxa303-week02-lesson-fxa303-week02-introduction.md)

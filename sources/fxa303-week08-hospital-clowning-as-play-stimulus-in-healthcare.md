@@ -11,7 +11,7 @@ tags: ["hospital-clowning", "child-well-being", "play-stimulation", "healthcare-
 key_concepts: ["play-as-fundamental-right", "interactive-play-humor", "emotional-expression-promotion", "resilience-building"]
 methods: ["case-study"]
 slug: fxa303-week08-hospital-clowning-as-play-stimulus-in-healthcare
-related: ["hospital-clowning"]
+related: ["chronic-illness", "hospital-clowning"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,4 +45,5 @@ This article explores the role of hospital clowning in enhancing the well-being 
 
 ## See Also
 
+- [chronic-illness](../topics/chronic-illness.md)
 - [hospital-clowning](../topics/hospital-clowning.md)

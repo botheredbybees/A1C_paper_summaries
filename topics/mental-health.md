@@ -16,6 +16,7 @@ sources:
   - fxa202-week09-5-benefits-of-journaling-for-mental-health
   - fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health
   - fxa202-week09-noticing-a-photo-essay
+  - fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay
   - fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract
   - fxa301-week05-art-as-therapy
   - fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes
@@ -23,13 +24,19 @@ sources:
   - fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings
   - fxa301-week06-sing-while-you-work-the-well-being-benefits-of-workplace
   - fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the
+  - fxa301-week10-a-systematic-review-of-mental-health-and-wellbeing-outcomes
+  - fxa301-week10-lesson-fxa301-week10-page-1
+  - fxa301-week10-lesson-fxa301-week10-page-4-week-3-activities
+  - fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam
   - fxa303-week02-free-play-and-childrens-mental-health
   - fxa303-week03-mission-australia-youth-survey-information
   - fxa303-week03-youth-survey-report-2025
   - fxa303-week09-beyond-the-fence-constructed-and-found-spaces-for-childrens
   - fxa303-week09-national-taskforce-for-creative-recovery-recommendations
   - fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of
-updated: 2026-05-04
+  - fxa303-week10-healing-through-culture-aboriginal-young-peoples
+  - fxa303-week10-importance-of-cultural-context-in-designing-arts-programs
+updated: 2026-05-05
 ---
 
 ## Creative Therapies for Mental Health
@@ -61,6 +68,7 @@ The sources illustrate a variety of creative therapies that have been developed 
 - [fxa202-week09-5-benefits-of-journaling-for-mental-health](../sources/fxa202-week09-5-benefits-of-journaling-for-mental-health.md)
 - [fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health](../sources/fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health.md)
 - [fxa202-week09-noticing-a-photo-essay](../sources/fxa202-week09-noticing-a-photo-essay.md)
+- [fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay](../sources/fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay.md)
 - [fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract](../sources/fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract.md)
 - [fxa301-week05-art-as-therapy](../sources/fxa301-week05-art-as-therapy.md)
 - [fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes](../sources/fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes.md)
@@ -68,9 +76,15 @@ The sources illustrate a variety of creative therapies that have been developed 
 - [fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings](../sources/fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings.md)
 - [fxa301-week06-sing-while-you-work-the-well-being-benefits-of-workplace](../sources/fxa301-week06-sing-while-you-work-the-well-being-benefits-of-workplace.md)
 - [fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the](../sources/fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the.md)
+- [fxa301-week10-a-systematic-review-of-mental-health-and-wellbeing-outcomes](../sources/fxa301-week10-a-systematic-review-of-mental-health-and-wellbeing-outcomes.md)
+- [fxa301-week10-lesson-fxa301-week10-page-1](../sources/fxa301-week10-lesson-fxa301-week10-page-1.md)
+- [fxa301-week10-lesson-fxa301-week10-page-4-week-3-activities](../sources/fxa301-week10-lesson-fxa301-week10-page-4-week-3-activities.md)
+- [fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam.md)
 - [fxa303-week02-free-play-and-childrens-mental-health](../sources/fxa303-week02-free-play-and-childrens-mental-health.md)
 - [fxa303-week03-mission-australia-youth-survey-information](../sources/fxa303-week03-mission-australia-youth-survey-information.md)
 - [fxa303-week03-youth-survey-report-2025](../sources/fxa303-week03-youth-survey-report-2025.md)
 - [fxa303-week09-beyond-the-fence-constructed-and-found-spaces-for-childrens](../sources/fxa303-week09-beyond-the-fence-constructed-and-found-spaces-for-childrens.md)
 - [fxa303-week09-national-taskforce-for-creative-recovery-recommendations](../sources/fxa303-week09-national-taskforce-for-creative-recovery-recommendations.md)
 - [fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of](../sources/fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of.md)
+- [fxa303-week10-healing-through-culture-aboriginal-young-peoples](../sources/fxa303-week10-healing-through-culture-aboriginal-young-peoples.md)
+- [fxa303-week10-importance-of-cultural-context-in-designing-arts-programs](../sources/fxa303-week10-importance-of-cultural-context-in-designing-arts-programs.md)

@@ -10,13 +10,14 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
+  - unit: FXA301
 tags: ["community-arts-profile", "participant-observation", "social-change-methods", "fxa301"]
 key_concepts: ["community identity markers", "ongoing interaction patterns"]
 methods: ["interviewing", "participant observation"]
 slug: fxa301-make-arts-for-a-better-life-ch04-6-the-barefoot-guide-to-working-with-organisations-and
 related: []
 created: 2026-05-03
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-make-arts-for-a-better-life-ch04-6-the-barefoot-guide-to-working-with-organisations-and.md_

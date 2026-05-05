@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: storytelling-with-images
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Storytelling With Images

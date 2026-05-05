@@ -11,7 +11,7 @@ tags: ["mental-health", "creative-arts", "therapy", "trauma-recovery", "flow-sta
 key_concepts: ["therapeutic use of creative arts", "neurochemical release", "Csikszentmihalyi's flow theory"]
 methods: []
 slug: fxa301-week10-lesson-fxa301-week10-page-1
-related: ["creative-arts", "mental-health", "trauma-recovery", "well-being"]
+related: ["creative-arts", "mental-health", "therapy", "trauma-recovery", "well-being"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -46,5 +46,6 @@ This week's lesson in FXA301 Arts in the Community explores the therapeutic use 
 
 - [creative-arts](../topics/creative-arts.md)
 - [mental-health](../topics/mental-health.md)
+- [therapy](../topics/therapy.md)
 - [trauma-recovery](../topics/trauma-recovery.md)
 - [well-being](../topics/well-being.md)

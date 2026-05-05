@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: poetry-and-mindfulness
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Poetry And Mindfulness

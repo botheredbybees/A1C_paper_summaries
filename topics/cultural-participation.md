@@ -6,7 +6,9 @@ confidence: low
 tags: ["cultural-participation"]
 sources:
   - fxa100-week07-access-programs-at-the-art-gallery-of-new-south-wales
-updated: 2026-05-04
+  - fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26
+  - fxa301-oxford-textbook-of-creative-arts-ch24-chapter-8
+updated: 2026-05-05
 ---
 
 ## Cultural Participation
@@ -26,3 +28,5 @@ The concept of cultural participation revolves around the idea that art and cult
 ## Sources
 
 - [fxa100-week07-access-programs-at-the-art-gallery-of-new-south-wales](../sources/fxa100-week07-access-programs-at-the-art-gallery-of-new-south-wales.md)
+- [fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26](../sources/fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26.md)
+- [fxa301-oxford-textbook-of-creative-arts-ch24-chapter-8](../sources/fxa301-oxford-textbook-of-creative-arts-ch24-chapter-8.md)

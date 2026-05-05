@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mri-technique
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Mri Technique

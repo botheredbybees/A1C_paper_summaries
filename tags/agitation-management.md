@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: agitation-management
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Agitation Management

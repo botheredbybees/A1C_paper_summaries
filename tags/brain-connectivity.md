@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-connectivity
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Brain Connectivity

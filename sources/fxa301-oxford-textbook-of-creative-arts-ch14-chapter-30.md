@@ -12,7 +12,7 @@ tags: ["creative-thinking", "community-engagement", "renewable-energy", "fxa301"
 key_concepts: ["democratization-of-technology", "intergenerational-partnerships", "social-innovation"]
 methods: []
 slug: fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30
-related: ["renewable-energy"]
+related: ["community-engagement", "creative-thinking", "renewable-energy"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,4 +42,6 @@ This chapter details the Active Energy project, initiated through an art commiss
 
 ## See Also
 
+- [community-engagement](../topics/community-engagement.md)
+- [creative-thinking](../topics/creative-thinking.md)
 - [renewable-energy](../topics/renewable-energy.md)

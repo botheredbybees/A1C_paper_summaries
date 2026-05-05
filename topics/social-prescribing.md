@@ -6,11 +6,12 @@ confidence: high
 tags: ["social-prescribing"]
 sources:
   - fxa202-week06-critical-reflection-of-the-development-of-the-finding-joy
+  - fxa301-week01-arts-on-prescription-in-sefton-programme-report
   - fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and
   - fxa303-week03-arts-on-prescription-observed-changes-in-anxiety-depression
   - fxa303-week03-social-prescribing-roundtable-november-2019-report
   - fxa303-week03-the-impact-of-arts-on-prescription-on-individual-health-and
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Social Prescribing
@@ -30,6 +31,7 @@ The concept of social prescribing is highlighted across sources as an interventi
 ## Sources
 
 - [fxa202-week06-critical-reflection-of-the-development-of-the-finding-joy](../sources/fxa202-week06-critical-reflection-of-the-development-of-the-finding-joy.md)
+- [fxa301-week01-arts-on-prescription-in-sefton-programme-report](../sources/fxa301-week01-arts-on-prescription-in-sefton-programme-report.md)
 - [fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and](../sources/fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and.md)
 - [fxa303-week03-arts-on-prescription-observed-changes-in-anxiety-depression](../sources/fxa303-week03-arts-on-prescription-observed-changes-in-anxiety-depression.md)
 - [fxa303-week03-social-prescribing-roundtable-november-2019-report](../sources/fxa303-week03-social-prescribing-roundtable-november-2019-report.md)

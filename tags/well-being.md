@@ -1,13 +1,15 @@
 ---
 type: tag
 tag: well-being
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Well Being
 
 - [CALE Research Aged Care Deloraine Partnership - University of Tasmania](../sources/fxa100-week04-transcript-cale-research-aged-care-deloraine-partnership.md)
 - [Designing Creative Activities to Enhance Community Well-being and Identity](../sources/fxa301-make-arts-for-a-better-life-ch17-1-for-further-study-on-communication-channels.md)
+- [Evaluating Community Arts & Community Well-Being](../sources/fxa301-week01-evaluating-community-arts-community-well-being.md)
+- [Evaluating Community Arts & Community Well-Being: An Evaluation Guide for Community Arts Practitioners](../sources/fxa301-week01-evaluating-community-arts-community-well-being-an.md)
 - [Implementing Creative Health](../sources/fxa301-week03-implementing-creative-health.md)
 - [Music Listening for Supporting Adolescents\u2019 Sense of Agency in Daily Life](../sources/fxa301-week03-music-listening-for-supporting-adolescents-sense-of-agency.md)
 - [Happy Museum Learning Evaluation Report](../sources/fxa301-week05-happy-museum-learning-evaluation-report.md)

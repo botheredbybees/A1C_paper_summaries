@@ -11,7 +11,7 @@ tags: ["arts-in-health", "aging-populations", "community-engagement", "health-we
 key_concepts: ["creative arts engagement", "Arts on Prescription", "demographic changes", "health outcomes"]
 methods: ["literature review"]
 slug: fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community
-related: ["aging-populations", "arts-in-health", "creative-therapies", "health-wellbeing"]
+related: ["aging-populations", "arts-in-health", "community-engagement", "creative-therapies", "health-wellbeing"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -51,5 +51,6 @@ The introduction concludes with a preview for the next part of the lesson, which
 
 - [aging-populations](../topics/aging-populations.md)
 - [arts-in-health](../topics/arts-in-health.md)
+- [community-engagement](../topics/community-engagement.md)
 - [creative-therapies](../topics/creative-therapies.md)
 - [health-wellbeing](../topics/health-wellbeing.md)

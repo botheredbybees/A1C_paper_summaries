@@ -8,7 +8,8 @@ sources:
   - fxa100-week04-a-guide-to-dementia-friendly-language
   - fxa100-week04-how-to-talk-about-dementia
   - fxa100-week06-transcript-affinity-interactive-light-sculpture-for-dementia
-updated: 2026-05-04
+  - fxa100-week10-transcript-helen-morse-also-brought-her-personal-experience
+updated: 2026-05-05
 ---
 
 ## Dementia-Awareness Communication Strategies
@@ -30,3 +31,4 @@ The sources highlight the importance of language and communication in fostering 
 - [fxa100-week04-a-guide-to-dementia-friendly-language](../sources/fxa100-week04-a-guide-to-dementia-friendly-language.md)
 - [fxa100-week04-how-to-talk-about-dementia](../sources/fxa100-week04-how-to-talk-about-dementia.md)
 - [fxa100-week06-transcript-affinity-interactive-light-sculpture-for-dementia](../sources/fxa100-week06-transcript-affinity-interactive-light-sculpture-for-dementia.md)
+- [fxa100-week10-transcript-helen-morse-also-brought-her-personal-experience](../sources/fxa100-week10-transcript-helen-morse-also-brought-her-personal-experience.md)

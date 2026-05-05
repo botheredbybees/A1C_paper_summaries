@@ -11,7 +11,7 @@ tags: ["dementia-care", "arts-therapy", "quality-of-life", "community-engagement
 key_concepts: ["visual arts interventions", "quality of life", "participatory methods"]
 methods: ["longitudinal study", "mixed-method"]
 slug: fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of
-related: ["arts-therapy", "dementia-care", "interdisciplinary-research", "quality-of-life"]
+related: ["arts-therapy", "community-engagement", "dementia-care", "interdisciplinary-research", "quality-of-life"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,6 +45,7 @@ This symposium addresses the growing interest in utilizing arts programs to enha
 ## See Also
 
 - [arts-therapy](../topics/arts-therapy.md)
+- [community-engagement](../topics/community-engagement.md)
 - [dementia-care](../topics/dementia-care.md)
 - [interdisciplinary-research](../topics/interdisciplinary-research.md)
 - [quality-of-life](../topics/quality-of-life.md)

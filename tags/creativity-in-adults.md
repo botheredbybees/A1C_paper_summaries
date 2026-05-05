@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creativity-in-adults
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Creativity In Adults

@@ -7,7 +7,8 @@ tags: ["musical-memory"]
 sources:
   - fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and
   - fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video
-updated: 2026-05-03
+  - fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted
+updated: 2026-05-05
 ---
 
 ## Musical Memory
@@ -27,3 +28,4 @@ The concept of musical memory is explored through two distinct but interconnecte
 
 - [fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and](../sources/fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and.md)
 - [fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video](../sources/fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video.md)
+- [fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted](../sources/fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted.md)

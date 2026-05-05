@@ -11,7 +11,7 @@ tags: ["inclusive-arts", "health-wellbeing", "community-engagement", "creative-p
 key_concepts: ["self-agency", "collaborative engagement"]
 methods: []
 slug: fxa301-week09-lesson-fxa301-week09-page-1
-related: ["health-wellbeing", "inclusive-arts"]
+related: ["community-engagement", "creative-projects", "health-wellbeing", "inclusive-arts"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,5 +41,7 @@ This week's lesson in the FXA301 course focuses on designing inclusive creative 
 
 ## See Also
 
+- [community-engagement](../topics/community-engagement.md)
+- [creative-projects](../topics/creative-projects.md)
 - [health-wellbeing](../topics/health-wellbeing.md)
 - [inclusive-arts](../topics/inclusive-arts.md)

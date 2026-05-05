@@ -7,7 +7,8 @@ tags: ["group-singing"]
 sources:
   - fxa100-week04-singing-and-participation
   - fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes
-updated: 2026-05-04
+  - fxa301-week10-a-systematic-review-of-mental-health-and-wellbeing-outcomes
+updated: 2026-05-05
 ---
 
 ## Group Singing
@@ -28,3 +29,4 @@ Group singing emerges as a multifaceted intervention with potential benefits acr
 
 - [fxa100-week04-singing-and-participation](../sources/fxa100-week04-singing-and-participation.md)
 - [fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes](../sources/fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes.md)
+- [fxa301-week10-a-systematic-review-of-mental-health-and-wellbeing-outcomes](../sources/fxa301-week10-a-systematic-review-of-mental-health-and-wellbeing-outcomes.md)

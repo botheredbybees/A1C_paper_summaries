@@ -9,7 +9,8 @@ sources:
   - fxa202-week09-journaling-books-review
   - fxa301-week03-arts-public-health-and-the-national-arts-and-health
   - fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the
-updated: 2026-05-04
+  - fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth
+updated: 2026-05-05
 ---
 
 ## Mental Well-being Through Creative Practices
@@ -32,3 +33,4 @@ The integration of creative practices such as art therapy and journaling into me
 - [fxa202-week09-journaling-books-review](../sources/fxa202-week09-journaling-books-review.md)
 - [fxa301-week03-arts-public-health-and-the-national-arts-and-health](../sources/fxa301-week03-arts-public-health-and-the-national-arts-and-health.md)
 - [fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the](../sources/fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the.md)
+- [fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth](../sources/fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth.md)

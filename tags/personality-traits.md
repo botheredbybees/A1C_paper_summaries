@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: personality-traits
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Personality Traits

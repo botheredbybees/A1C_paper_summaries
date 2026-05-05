@@ -11,7 +11,7 @@ tags: ["art-therapy", "indigenous-practices", "traditional-healing", "mental-hea
 key_concepts: ["cultural-sensitivity-in-art-therapy", "integrated-traditional-wisdom", "non-verbal-communication"]
 methods: ["review"]
 slug: fxa303-week10-indigenous-and-traditional-visual-artistic-practices
-related: ["cross-cultural-research", "mental-health-interventions"]
+related: ["art-therapy", "cross-cultural-research", "mental-health-interventions"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -47,5 +47,6 @@ Kaimal and Arslanbek also discuss the importance of integrating traditional wisd
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [cross-cultural-research](../topics/cross-cultural-research.md)
 - [mental-health-interventions](../topics/mental-health-interventions.md)

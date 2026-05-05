@@ -11,7 +11,7 @@ tags: ["alzheimer-s-disease", "art-therapy", "cognitive-health", "memory-functio
 key_concepts: ["Alzheimer's disease", "Art therapy"]
 methods: []
 slug: fxa100-week08-web-article-huebner-2012
-related: ["alzheimer-s-disease", "cognitive-health", "memory-function"]
+related: ["alzheimer-s-disease", "art-therapy", "cognitive-health", "memory-function"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,5 +42,6 @@ The content is a collection of film clips from the documentary titled 'I Remembe
 ## See Also
 
 - [alzheimer-s-disease](../topics/alzheimer-s-disease.md)
+- [art-therapy](../topics/art-therapy.md)
 - [cognitive-health](../topics/cognitive-health.md)
 - [memory-function](../topics/memory-function.md)

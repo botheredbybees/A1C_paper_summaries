@@ -11,7 +11,7 @@ tags: ["creative-health", "well-being", "health-inequalities", "cost-effectivene
 key_concepts: ["Creative Health", "Health Inequalities", "Sustainable Development Goals", "Cost-Effectiveness Analysis", "Arts-Based Social Prescribing"]
 methods: ["economic evaluation", "systematic review"]
 slug: fxa301-week03-implementing-creative-health
-related: ["arts-in-healthcare", "creative-health", "health-inequalities", "social-care", "well-being"]
+related: ["arts-in-healthcare", "cost-effectiveness", "creative-health", "health-inequalities", "social-care", "well-being"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -48,6 +48,7 @@ The document discusses the growing recognition of creative health's potential to
 ## See Also
 
 - [arts-in-healthcare](../topics/arts-in-healthcare.md)
+- [cost-effectiveness](../topics/cost-effectiveness.md)
 - [creative-health](../topics/creative-health.md)
 - [health-inequalities](../topics/health-inequalities.md)
 - [social-care](../topics/social-care.md)

@@ -5,11 +5,15 @@ title: "Arts and Health"
 confidence: high
 tags: ["arts-health"]
 sources:
+  - fxa202-week10-conclusions-and-implications-for-future-research
+  - fxa202-week10-research-and-evidence-in-arts-health-and-well-being
+  - fxa301-week01-arts-in-health-designing-and-researching-interventions
+  - fxa301-week01-fxa301-sem-1-2026-week-4-lecture
   - fxa301-week03-arts-and-health-evaluation-toolkit-a-how-to-guide-to
   - fxa301-week03-arts-health-and-wellbeing-evidence-and-implications
   - fxa301-week03-cross-sector-strategies-for-health-and-community-well-being
   - fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Arts and Health
@@ -28,6 +32,10 @@ The integration of the arts into health interventions has garnered significant a
 
 ## Sources
 
+- [fxa202-week10-conclusions-and-implications-for-future-research](../sources/fxa202-week10-conclusions-and-implications-for-future-research.md)
+- [fxa202-week10-research-and-evidence-in-arts-health-and-well-being](../sources/fxa202-week10-research-and-evidence-in-arts-health-and-well-being.md)
+- [fxa301-week01-arts-in-health-designing-and-researching-interventions](../sources/fxa301-week01-arts-in-health-designing-and-researching-interventions.md)
+- [fxa301-week01-fxa301-sem-1-2026-week-4-lecture](../sources/fxa301-week01-fxa301-sem-1-2026-week-4-lecture.md)
 - [fxa301-week03-arts-and-health-evaluation-toolkit-a-how-to-guide-to](../sources/fxa301-week03-arts-and-health-evaluation-toolkit-a-how-to-guide-to.md)
 - [fxa301-week03-arts-health-and-wellbeing-evidence-and-implications](../sources/fxa301-week03-arts-health-and-wellbeing-evidence-and-implications.md)
 - [fxa301-week03-cross-sector-strategies-for-health-and-community-well-being](../sources/fxa301-week03-cross-sector-strategies-for-health-and-community-well-being.md)

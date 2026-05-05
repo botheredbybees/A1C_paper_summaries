@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: inclusive-web-design
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Inclusive Web Design

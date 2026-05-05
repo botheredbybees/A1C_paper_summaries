@@ -11,7 +11,7 @@ tags: ["arts-and-health", "public-health-interventions", "community-engagement",
 key_concepts: ["art-therapy", "creative-writing-workshops", "social-policy-reform", "data-enrichment-through-art"]
 methods: ["case-study"]
 slug: fxa301-week03-four-big-ways-to-improve-health-through-the-arts
-related: ["arts-and-health", "mental-health-stigma", "public-health-interventions"]
+related: ["arts-and-health", "community-engagement", "mental-health-stigma", "public-health-interventions"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,5 +45,6 @@ Tasha Golden's document discusses four significant domains in which the arts can
 ## See Also
 
 - [arts-and-health](../topics/arts-and-health.md)
+- [community-engagement](../topics/community-engagement.md)
 - [mental-health-stigma](../topics/mental-health-stigma.md)
 - [public-health-interventions](../topics/public-health-interventions.md)

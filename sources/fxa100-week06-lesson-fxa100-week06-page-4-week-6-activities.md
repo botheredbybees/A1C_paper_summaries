@@ -11,7 +11,7 @@ tags: ["dementia-care", "art-therapy", "cognitive-neuroscience", "case-study-ana
 key_concepts: ["preserved creativity", "frontotemporal dementia", "visual arts as therapy"]
 methods: []
 slug: fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities
-related: ["cognitive-neuroscience", "dementia-care", "neurodegenerative-diseases"]
+related: ["art-therapy", "cognitive-neuroscience", "dementia-care", "neurodegenerative-diseases"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,6 +43,7 @@ The lesson for Week 6 of FXA100 The Arts and Dementia Care focuses on the impact
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [cognitive-neuroscience](../topics/cognitive-neuroscience.md)
 - [dementia-care](../topics/dementia-care.md)
 - [neurodegenerative-diseases](../topics/neurodegenerative-diseases.md)

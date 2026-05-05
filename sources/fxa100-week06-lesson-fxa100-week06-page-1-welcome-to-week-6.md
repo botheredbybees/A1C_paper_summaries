@@ -11,7 +11,7 @@ tags: ["dementia-care", "visual-arts", "art-therapy", "fxa100"]
 key_concepts: ["embodied-cognition", "neuroaesthetics", "quality-of-life-improvement"]
 methods: []
 slug: fxa100-week06-lesson-fxa100-week06-page-1-welcome-to-week-6
-related: ["dementia-care", "visual-arts"]
+related: ["art-therapy", "dementia-care", "visual-arts"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,5 +41,6 @@ In this module of FXA100 The Arts and Dementia Care, Dr Brendan Lamb introduces 
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [dementia-care](../topics/dementia-care.md)
 - [visual-arts](../topics/visual-arts.md)

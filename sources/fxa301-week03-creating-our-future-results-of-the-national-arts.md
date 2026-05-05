@@ -11,7 +11,7 @@ tags: ["arts-participation", "cultural-diversity", "social-cohesion", "economic-
 key_concepts: ["community-engagement", "educational-outcomes", "digital-arts"]
 methods: ["survey"]
 slug: fxa301-week03-creating-our-future-results-of-the-national-arts
-related: ["arts-participation", "cultural-diversity", "social-cohesion"]
+related: ["arts-participation", "cultural-diversity", "economic-growth", "social-cohesion"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,4 +45,5 @@ The document 'Creating Our Future' is a comprehensive report published by the Au
 
 - [arts-participation](../topics/arts-participation.md)
 - [cultural-diversity](../topics/cultural-diversity.md)
+- [economic-growth](../topics/economic-growth.md)
 - [social-cohesion](../topics/social-cohesion.md)

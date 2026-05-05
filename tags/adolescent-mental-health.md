@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: adolescent-mental-health
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Adolescent Mental Health

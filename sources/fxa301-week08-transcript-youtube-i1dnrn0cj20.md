@@ -11,7 +11,7 @@ tags: ["literature-impact", "mental-health-support", "community-engagement", "fx
 key_concepts: ["shared-reading-groups", "emotional-recovery-through-literature", "social-connectivity"]
 methods: []
 slug: fxa301-week08-transcript-youtube-i1dnrn0cj20
-related: ["mental-health-support"]
+related: ["community-engagement", "mental-health-support"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,4 +41,5 @@ This YouTube video transcript discusses the profound impact literature has had o
 
 ## See Also
 
+- [community-engagement](../topics/community-engagement.md)
 - [mental-health-support](../topics/mental-health-support.md)

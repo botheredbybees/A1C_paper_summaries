@@ -11,7 +11,7 @@ tags: ["art-therapy", "public-health", "creative-expression", "fxa301"]
 key_concepts: ["music therapy", "visual arts therapy", "expressive writing"]
 methods: ["systematic review"]
 slug: fxa301-week08-the-connection-between-art-healing-and-public-health-a
-related: ["creative-expression", "public-health"]
+related: ["art-therapy", "creative-expression", "public-health"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,5 +41,6 @@ This review article examines the relationship between engagement with creative a
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [creative-expression](../topics/creative-expression.md)
 - [public-health](../topics/public-health.md)

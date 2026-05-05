@@ -1,0 +1,9 @@
+---
+type: tag
+tag: ptsd
+updated: 2026-05-05
+---
+
+## Ptsd
+
+- [A Review of Art Therapy Among Military Service Members and Veterans with Post-Traumatic Stress Disorder](../sources/fxa301-week10-web-article-ramirez-2016.md)

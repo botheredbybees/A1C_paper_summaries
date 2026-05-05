@@ -5,10 +5,11 @@ title: "Storytelling Across Domains"
 confidence: medium
 tags: ["storytelling"]
 sources:
+  - fxa202-week08-lesson-fxa202-week08-page-2-editing-your-images
   - fxa202-week09-lesson-fxa202-week09-page-4
   - fxa301-week08-transcript-youtube-channel-school-of-education-and
   - fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Storytelling Across Domains
@@ -27,6 +28,7 @@ The concept of storytelling is explored across various domains in the provided s
 
 ## Sources
 
+- [fxa202-week08-lesson-fxa202-week08-page-2-editing-your-images](../sources/fxa202-week08-lesson-fxa202-week08-page-2-editing-your-images.md)
 - [fxa202-week09-lesson-fxa202-week09-page-4](../sources/fxa202-week09-lesson-fxa202-week09-page-4.md)
 - [fxa301-week08-transcript-youtube-channel-school-of-education-and](../sources/fxa301-week08-transcript-youtube-channel-school-of-education-and.md)
 - [fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods](../sources/fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods.md)

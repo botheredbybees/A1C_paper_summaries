@@ -11,7 +11,7 @@ tags: ["dementia-care", "museum-programming", "art-therapy", "inclusive-design",
 key_concepts: ["Meet Me at MoMA program", "inclusive environments"]
 methods: ["case study"]
 slug: fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people
-related: ["alzheimers-research", "dementia-care", "museum-programming"]
+related: ["alzheimers-research", "art-therapy", "dementia-care", "museum-programming"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,5 +43,6 @@ The MoMA Alzheimer's Project is a guide developed by the Museum of Modern Art fo
 ## See Also
 
 - [alzheimers-research](../topics/alzheimers-research.md)
+- [art-therapy](../topics/art-therapy.md)
 - [dementia-care](../topics/dementia-care.md)
 - [museum-programming](../topics/museum-programming.md)

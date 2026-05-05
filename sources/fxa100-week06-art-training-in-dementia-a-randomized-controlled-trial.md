@@ -11,7 +11,7 @@ tags: ["dementia-research", "art-therapy", "cognitive-interventions", "randomize
 key_concepts: ["visual art training", "delayed recall", "working memory"]
 methods: ["randomized controlled trial"]
 slug: fxa100-week06-art-training-in-dementia-a-randomized-controlled-trial
-related: ["dementia-research"]
+related: ["art-therapy", "dementia-research", "randomized-trials"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,4 +46,6 @@ The findings contribute to the ongoing debate about whether art-based interventi
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [dementia-research](../topics/dementia-research.md)
+- [randomized-trials](../topics/randomized-trials.md)

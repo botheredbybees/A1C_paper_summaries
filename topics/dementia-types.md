@@ -6,8 +6,10 @@ confidence: medium
 tags: ["dementia-types"]
 sources:
   - fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes
+  - fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care
   - fxa100-week01-transcript-dementia-australia
-updated: 2026-05-03
+  - fxa100-week04-lecture-notes-for-fxa100-the-arts-and-dementia-care
+updated: 2026-05-05
 ---
 
 ## Types of Dementia
@@ -27,4 +29,6 @@ The lecture notes from FXA100 course provide an overview of various types of dem
 ## Sources
 
 - [fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes](../sources/fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes.md)
+- [fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care](../sources/fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care.md)
 - [fxa100-week01-transcript-dementia-australia](../sources/fxa100-week01-transcript-dementia-australia.md)
+- [fxa100-week04-lecture-notes-for-fxa100-the-arts-and-dementia-care](../sources/fxa100-week04-lecture-notes-for-fxa100-the-arts-and-dementia-care.md)

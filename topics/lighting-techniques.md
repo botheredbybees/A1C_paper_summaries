@@ -7,7 +7,8 @@ tags: ["lighting-techniques"]
 sources:
   - fxa202-week02-10-tips-for-better-composition
   - fxa202-week02-super-simple-introduction-to-manual-mode-and-how-it-will
-updated: 2026-05-03
+  - fxa202-week08-home-hints-for-artwork-and-object-documentation
+updated: 2026-05-05
 ---
 
 ## Creative Lighting Techniques
@@ -28,3 +29,4 @@ The exploration of creative lighting techniques and the rule-of-thirds is centra
 
 - [fxa202-week02-10-tips-for-better-composition](../sources/fxa202-week02-10-tips-for-better-composition.md)
 - [fxa202-week02-super-simple-introduction-to-manual-mode-and-how-it-will](../sources/fxa202-week02-super-simple-introduction-to-manual-mode-and-how-it-will.md)
+- [fxa202-week08-home-hints-for-artwork-and-object-documentation](../sources/fxa202-week08-home-hints-for-artwork-and-object-documentation.md)

@@ -7,9 +7,10 @@ tags: ["non-verbal-communication"]
 sources:
   - fxa100-week04-lesson-fxa100-week04-page-2-music-therapy-benefits
   - fxa100-week04-music-therapy-benefits-fxa100-the-arts-and-dementia-care
+  - fxa100-week10-week-10-lecture-theatre-and-play-in-dementia-care
   - fxa303-week04-transcript-duration-34-19
   - fxa303-week06-developing-excellence-in-puppet-manipulation
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Non-Verbal Communication in Music Therapy
@@ -30,5 +31,6 @@ Music therapy emerges as a potent non-verbal communication tool for individuals 
 
 - [fxa100-week04-lesson-fxa100-week04-page-2-music-therapy-benefits](../sources/fxa100-week04-lesson-fxa100-week04-page-2-music-therapy-benefits.md)
 - [fxa100-week04-music-therapy-benefits-fxa100-the-arts-and-dementia-care](../sources/fxa100-week04-music-therapy-benefits-fxa100-the-arts-and-dementia-care.md)
+- [fxa100-week10-week-10-lecture-theatre-and-play-in-dementia-care](../sources/fxa100-week10-week-10-lecture-theatre-and-play-in-dementia-care.md)
 - [fxa303-week04-transcript-duration-34-19](../sources/fxa303-week04-transcript-duration-34-19.md)
 - [fxa303-week06-developing-excellence-in-puppet-manipulation](../sources/fxa303-week06-developing-excellence-in-puppet-manipulation.md)

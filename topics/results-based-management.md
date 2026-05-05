@@ -6,7 +6,8 @@ confidence: low
 tags: ["results-based-management"]
 sources:
   - fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals
-updated: 2026-05-04
+  - fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals-(2)
+updated: 2026-05-05
 ---
 
 ## Results-Based Management
@@ -25,3 +26,4 @@ The sources collectively discuss the application of Results-Based Management (RB
 ## Sources
 
 - [fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals](../sources/fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals.md)
+- [fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals-(2)](../sources/fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals-(2).md)

@@ -9,13 +9,15 @@ appearances:
     week: "05"
   - unit: FXA301
     week: "05"
+  - unit: FXA301
+    week: "05"
 tags: ["art-therapy", "cancer-treatment", "case-study-research", "emotional-wellbeing", "patient-support", "fxa301"]
 key_concepts: ["self-identity", "community-building", "creative-expression"]
 methods: ["case study"]
 slug: fxa301-week05-art-making-and-illness-two-case-studies
-related: ["cancer-treatment", "emotional-wellbeing"]
+related: ["art-therapy", "cancer-treatment", "emotional-wellbeing"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-05
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-week05-art-making-and-illness-two-case-studies.md_
@@ -45,5 +47,6 @@ This document presents two case studies examining the impact of art-making on in
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [cancer-treatment](../topics/cancer-treatment.md)
 - [emotional-wellbeing](../topics/emotional-wellbeing.md)

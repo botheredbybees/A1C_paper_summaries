@@ -7,7 +7,8 @@ tags: ["cultural-preservation"]
 sources:
   - fxa301-make-arts-for-a-better-life-ch22-2-choose-a-master-of-the-genre
   - fxa301-make-arts-for-a-better-life-ch22-2-choose-a-master-of-the-genre-(2)
-updated: 2026-05-04
+  - fxa303-week10-role-of-art-centres-for-aboriginal-australians-living-with
+updated: 2026-05-05
 ---
 
 ## Cultural Preservation
@@ -27,3 +28,4 @@ The concept of cultural preservation is explored through various methods aimed a
 
 - [fxa301-make-arts-for-a-better-life-ch22-2-choose-a-master-of-the-genre](../sources/fxa301-make-arts-for-a-better-life-ch22-2-choose-a-master-of-the-genre.md)
 - [fxa301-make-arts-for-a-better-life-ch22-2-choose-a-master-of-the-genre-(2)](../sources/fxa301-make-arts-for-a-better-life-ch22-2-choose-a-master-of-the-genre-(2).md)
+- [fxa303-week10-role-of-art-centres-for-aboriginal-australians-living-with](../sources/fxa303-week10-role-of-art-centres-for-aboriginal-australians-living-with.md)

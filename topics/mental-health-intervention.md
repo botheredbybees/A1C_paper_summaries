@@ -6,9 +6,14 @@ confidence: medium
 tags: ["mental-health-intervention"]
 sources:
   - fxa100-week04-music-therapy-promotes-mental-health-in-schools
+  - fxa301-week10-body-talk-examining-a-collaborative-multiple-visit-program
+  - fxa301-week10-eating-disorders-and-art-therapy
+  - fxa301-week10-social-action-in-art-therapy-with-veterans
   - fxa303-week01-an-overview-of-play-therapy
   - fxa303-week09-psychological-first-aid-supporting-people-affected-by
-updated: 2026-05-04
+  - fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy
+  - fxa303-week10-transcript-duration-2-36
+updated: 2026-05-05
 ---
 
 ## Mental Health Interventions in Educational and Disaster Settings
@@ -28,5 +33,10 @@ The provided sources highlight different approaches to mental health interventio
 ## Sources
 
 - [fxa100-week04-music-therapy-promotes-mental-health-in-schools](../sources/fxa100-week04-music-therapy-promotes-mental-health-in-schools.md)
+- [fxa301-week10-body-talk-examining-a-collaborative-multiple-visit-program](../sources/fxa301-week10-body-talk-examining-a-collaborative-multiple-visit-program.md)
+- [fxa301-week10-eating-disorders-and-art-therapy](../sources/fxa301-week10-eating-disorders-and-art-therapy.md)
+- [fxa301-week10-social-action-in-art-therapy-with-veterans](../sources/fxa301-week10-social-action-in-art-therapy-with-veterans.md)
 - [fxa303-week01-an-overview-of-play-therapy](../sources/fxa303-week01-an-overview-of-play-therapy.md)
 - [fxa303-week09-psychological-first-aid-supporting-people-affected-by](../sources/fxa303-week09-psychological-first-aid-supporting-people-affected-by.md)
+- [fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy](../sources/fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy.md)
+- [fxa303-week10-transcript-duration-2-36](../sources/fxa303-week10-transcript-duration-2-36.md)

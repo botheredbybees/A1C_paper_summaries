@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: quality-of-life
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Quality Of Life
@@ -24,6 +24,7 @@ updated: 2026-05-04
 - [Singing and the Brain](../sources/fxa100-week04-singing-and-the-brain.md)
 - [The impact of caregivers' singing on expressions of emotion and resistance during morning care situations in persons with dementia](../sources/fxa100-week04-the-impact-of-caregivers-singing-on-expressions-of-emotion.md)
 - [The Singer's Breath: Implications for Treatment of Persons with Emphysema](../sources/fxa100-week04-the-singers-breath-implications-for-treatment-of-persons.md)
+- [MJHS Dementia Care: Music Therapy - MJHS Health System](../sources/fxa100-week04-transcript-mjhs-dementia-care-music-therapy-mjhs-health.md)
 - [Music Therapy and People with Advanced Dementia](../sources/fxa100-week04-transcript-music-therapy-and-people-with-advanced-dementia.md)
 - [Welcome to Week 4 - FXA100 The Arts and Dementia Care](../sources/fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care.md)
 - [Dementia and Imagination: a mixed-methods protocol for arts and science research](../sources/fxa100-week06-dementia-and-imagination-a-mixed-methods-protocol-for-arts.md)
@@ -48,6 +49,7 @@ updated: 2026-05-04
 - [Playfully engaging people living with dementia: searching for Yum Cha moments](../sources/fxa100-week10-playfully-engaging-people-living-with-dementia-searching.md)
 - [The Impact of TimeSlips, a Creative Expression Intervention Program, on Nursing Home Residents With Dementia and their Caregivers](../sources/fxa100-week10-the-impact-of-timeslips-a-creative-expression-intervention.md)
 - [Mih\u00e1ly Cs\u00edkszentmih\u00e1lyi: The Father of Flow](../sources/fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow.md)
+- [A Qualitative Investigation of Older Adults\u2019 Conceptualization of Quality of Life and a Think-Aloud Content Validation of the EQ-5D-5L, SF-12v2, Warwick Edinburgh Mental Well-Being Scale, and Office of National Statistics-4](../sources/fxa301-week01-a-qualitative-investigation-of-older-adults.md)
 - [The 2024 Happy Planet Index](../sources/fxa301-week05-the-2024-happy-planet-index.md)
 - [Editorial Comment on \u201cTherapeutic Dancing for Parkinson's Disease\u201d](../sources/fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons.md)
 - [\"Song of Life (SOL)\" study protocol: a multicenter, randomized trial on the emotional, spiritual, and psychobiological effects of music therapy in palliative care](../sources/fxa301-week06-song-of-life-sol-study-protocol-a-multicenter-randomized.md)

@@ -11,7 +11,7 @@ tags: ["music-therapy", "wellbeing-research", "health-psychology", "interdiscipl
 key_concepts: ["therapeutic-potential-of-music", "emotional-engagement", "neurological-effects-of-music"]
 methods: ["systematic-review"]
 slug: fxa100-week04-what-is-music-health-and-wellbeing
-related: ["health-psychology", "music-therapy", "wellbeing-research"]
+related: ["health-psychology", "interdisciplinary-studies", "music-therapy", "wellbeing-research"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,5 +43,6 @@ The chapter 'What is Music, Health, and Wellbeing?' by Raymond MacDonald, Gunter
 ## See Also
 
 - [health-psychology](../topics/health-psychology.md)
+- [interdisciplinary-studies](../topics/interdisciplinary-studies.md)
 - [music-therapy](../topics/music-therapy.md)
 - [wellbeing-research](../topics/wellbeing-research.md)

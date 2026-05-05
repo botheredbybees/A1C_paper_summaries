@@ -11,7 +11,7 @@ tags: ["art-therapy", "autism-spectrum-disorders", "child-psychology", "fxa303"]
 key_concepts: ["emotional-expression-through-art", "psychoeducation-in-childhood-autism"]
 methods: []
 slug: fxa303-week04-transcript-duration-3-03
-related: ["autism-spectrum-disorders", "child-psychology"]
+related: ["art-therapy", "autism-spectrum-disorders", "child-psychology"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,5 +40,6 @@ The transcript discusses the 'Images of Self' art therapy program designed for c
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [autism-spectrum-disorders](../topics/autism-spectrum-disorders.md)
 - [child-psychology](../topics/child-psychology.md)

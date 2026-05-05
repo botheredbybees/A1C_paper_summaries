@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: beauty-perception
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Beauty Perception

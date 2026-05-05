@@ -1,7 +1,7 @@
 ---
 type: tag
-tag: fMRI-study
-updated: 2026-05-04
+tag: fmri-study
+updated: 2026-05-05
 ---
 
 ## Fmri Study

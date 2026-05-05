@@ -6,8 +6,9 @@ confidence: medium
 tags: ["healthcare"]
 sources:
   - fxa301-arts-in-health-ch44-1-the-artist-(2)
+  - fxa301-oxford-textbook-of-creative-arts-ch04-chapter-17
   - fxa303-week08-transcript-15-may-2012
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Arts in Healthcare
@@ -27,4 +28,5 @@ The integration of arts into healthcare interventions demonstrates a multi-facet
 ## Sources
 
 - [fxa301-arts-in-health-ch44-1-the-artist-(2)](../sources/fxa301-arts-in-health-ch44-1-the-artist-(2).md)
+- [fxa301-oxford-textbook-of-creative-arts-ch04-chapter-17](../sources/fxa301-oxford-textbook-of-creative-arts-ch04-chapter-17.md)
 - [fxa303-week08-transcript-15-may-2012](../sources/fxa303-week08-transcript-15-may-2012.md)

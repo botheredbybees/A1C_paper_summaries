@@ -11,7 +11,7 @@ tags: ["arts-and-health", "qualitative-research", "community-projects", "fxa301"
 key_concepts: ["randomized controlled trial", "qualitative research methods"]
 methods: []
 slug: fxa301-week01-lesson-fxa301-week01-page-1-hm
-related: ["arts-and-health", "qualitative-research"]
+related: ["arts-and-health", "community-projects", "qualitative-research"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,4 +41,5 @@ This lesson discusses the growing evidence base for the positive impact of creat
 ## See Also
 
 - [arts-and-health](../topics/arts-and-health.md)
+- [community-projects](../topics/community-projects.md)
 - [qualitative-research](../topics/qualitative-research.md)

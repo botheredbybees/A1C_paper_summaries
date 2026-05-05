@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: self-expression-through-music
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Self Expression Through Music

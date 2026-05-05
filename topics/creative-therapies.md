@@ -9,9 +9,13 @@ sources:
   - fxa100-week09-web-article-north-2021
   - fxa202-week03-can-photography-help-depression
   - fxa202-week09-noticing-a-photo-essay
+  - fxa202-week10-research-and-evidence-in-arts-health-and-well-being
   - fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community
+  - fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd
+  - fxa301-week10-fxa301-week-10-lecture
+  - fxa301-week10-lesson-fxa301-week10-page-3
   - fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Creative Therapies
@@ -34,5 +38,9 @@ Creative therapies encompass various interventions that use the arts to enhance 
 - [fxa100-week09-web-article-north-2021](../sources/fxa100-week09-web-article-north-2021.md)
 - [fxa202-week03-can-photography-help-depression](../sources/fxa202-week03-can-photography-help-depression.md)
 - [fxa202-week09-noticing-a-photo-essay](../sources/fxa202-week09-noticing-a-photo-essay.md)
+- [fxa202-week10-research-and-evidence-in-arts-health-and-well-being](../sources/fxa202-week10-research-and-evidence-in-arts-health-and-well-being.md)
 - [fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community](../sources/fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community.md)
+- [fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd](../sources/fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd.md)
+- [fxa301-week10-fxa301-week-10-lecture](../sources/fxa301-week10-fxa301-week-10-lecture.md)
+- [fxa301-week10-lesson-fxa301-week10-page-3](../sources/fxa301-week10-lesson-fxa301-week10-page-3.md)
 - [fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods](../sources/fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods.md)

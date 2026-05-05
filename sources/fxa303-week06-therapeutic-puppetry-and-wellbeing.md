@@ -9,13 +9,15 @@ appearances:
     week: "06"
   - unit: FXA303
     week: "06"
+  - unit: FXA303
+    week: "06"
 tags: ["therapeutic-puppetry", "mental-health-interventions", "clinical-therapy", "emotional-expression", "self-reflection", "fxa303"]
 key_concepts: ["puppets as diagnostic tools", "non-verbal expression", "psychological catharsis"]
 methods: ["systematic review"]
 slug: fxa303-week06-therapeutic-puppetry-and-wellbeing
 related: ["emotional-expression", "mental-health-interventions", "self-reflection", "therapeutic-puppetry"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-05
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week06-therapeutic-puppetry-and-wellbeing.md_

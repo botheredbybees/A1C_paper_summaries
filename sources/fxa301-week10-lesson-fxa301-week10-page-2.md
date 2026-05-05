@@ -11,7 +11,7 @@ tags: ["therapeutic-arts", "mental-health-support", "community-singing-groups", 
 key_concepts: ["social-bonding", "emotional-regulation", "personal-growth"]
 methods: []
 slug: fxa301-week10-lesson-fxa301-week10-page-2
-related: ["mental-health-support", "therapeutic-arts"]
+related: ["art-therapy", "mental-health-support", "therapeutic-arts"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -42,5 +42,6 @@ This lesson discusses two case studies in therapeutic creative arts for mental h
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [mental-health-support](../topics/mental-health-support.md)
 - [therapeutic-arts](../topics/therapeutic-arts.md)

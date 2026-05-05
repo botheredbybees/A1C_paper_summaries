@@ -9,13 +9,17 @@ appearances:
     week: "03"
   - unit: FXA100
     week: "03"
+  - unit: FXA100
+    week: "03"
+  - unit: FXA100
+    week: "03"
 tags: ["music-therapy", "dementia-care", "memory-loss-interventions", "personhood-maintenance", "fxa100"]
 key_concepts: ["musical-memory", "therapeutic-engagement", "quality-of-life-improvement"]
 methods: ["case-study"]
 slug: fxa100-week03-the-power-of-music-and-dementia
 related: ["dementia-care", "music-therapy"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-05
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-week03-the-power-of-music-and-dementia.md_

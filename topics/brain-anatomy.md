@@ -7,7 +7,10 @@ tags: ["brain-anatomy"]
 sources:
   - fxa100-week01-the-science-of-lewy-body-dementia-video-transcript
   - fxa100-week01-what-is-alzheimers-disease-video-transcript
-updated: 2026-05-03
+  - fxa301-week01-lesson-fxa301-week01-page-2
+  - fxa301-week01-web-article-zuckerman-2009
+  - fxa303-week04-unraveling-neurodiversity-insights-from-neuroscientic
+updated: 2026-05-05
 ---
 
 ## Brain Anatomy in Neurodegenerative Diseases
@@ -28,3 +31,6 @@ The analysis of brain anatomy in neurodegenerative diseases reveals two prominen
 
 - [fxa100-week01-the-science-of-lewy-body-dementia-video-transcript](../sources/fxa100-week01-the-science-of-lewy-body-dementia-video-transcript.md)
 - [fxa100-week01-what-is-alzheimers-disease-video-transcript](../sources/fxa100-week01-what-is-alzheimers-disease-video-transcript.md)
+- [fxa301-week01-lesson-fxa301-week01-page-2](../sources/fxa301-week01-lesson-fxa301-week01-page-2.md)
+- [fxa301-week01-web-article-zuckerman-2009](../sources/fxa301-week01-web-article-zuckerman-2009.md)
+- [fxa303-week04-unraveling-neurodiversity-insights-from-neuroscientic](../sources/fxa303-week04-unraveling-neurodiversity-insights-from-neuroscientic.md)

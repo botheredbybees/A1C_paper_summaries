@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: manual-retrieval
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Manual Retrieval

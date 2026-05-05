@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: limbic-system-functions
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Limbic System Functions

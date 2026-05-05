@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: natural-disasters
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Natural Disasters

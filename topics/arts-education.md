@@ -5,9 +5,11 @@ title: "Arts Education and Adolescent Development"
 confidence: medium
 tags: ["arts-education"]
 sources:
+  - fxa301-make-arts-for-a-better-life-ch06-1-see-also-closing
+  - fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals-(2)
   - fxa303-week03-arts-in-adolescence
   - fxa303-week10-arts-education-and-society-the-role-of-the-arts-in
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Arts Education and Adolescent Development
@@ -26,5 +28,7 @@ The integration of arts into adolescent education emerges as a multifaceted inte
 
 ## Sources
 
+- [fxa301-make-arts-for-a-better-life-ch06-1-see-also-closing](../sources/fxa301-make-arts-for-a-better-life-ch06-1-see-also-closing.md)
+- [fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals-(2)](../sources/fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals-(2).md)
 - [fxa303-week03-arts-in-adolescence](../sources/fxa303-week03-arts-in-adolescence.md)
 - [fxa303-week10-arts-education-and-society-the-role-of-the-arts-in](../sources/fxa303-week10-arts-education-and-society-the-role-of-the-arts-in.md)

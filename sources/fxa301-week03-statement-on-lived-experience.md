@@ -11,7 +11,7 @@ tags: ["lived-experience", "creative-health", "mental-health-services", "communi
 key_concepts: ["authentic voice", "partnerships", "service design"]
 methods: ["statement"]
 slug: fxa301-week03-statement-on-lived-experience
-related: ["creative-health", "lived-experience", "mental-health-services"]
+related: ["community-engagement", "creative-health", "lived-experience", "mental-health-services", "policy-making"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,6 +43,8 @@ The document emphasizes the importance of incorporating lived experience in crea
 
 ## See Also
 
+- [community-engagement](../topics/community-engagement.md)
 - [creative-health](../topics/creative-health.md)
 - [lived-experience](../topics/lived-experience.md)
 - [mental-health-services](../topics/mental-health-services.md)
+- [policy-making](../topics/policy-making.md)

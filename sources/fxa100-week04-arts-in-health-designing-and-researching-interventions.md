@@ -13,7 +13,7 @@ tags: ["arts-in-health", "public-health-interventions", "cultural-engagement", "
 key_concepts: ["cultural-engagement", "public-health-initiatives"]
 methods: ["systematic-review"]
 slug: fxa100-week04-arts-in-health-designing-and-researching-interventions
-related: ["arts-in-health", "mental-health-outcomes", "public-health-interventions"]
+related: ["arts-in-health", "cultural-engagement", "mental-health-outcomes", "public-health-interventions"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,5 +45,6 @@ Daisy Fancourt's chapter 'Fact File 10: Public Health' explores the intersection
 ## See Also
 
 - [arts-in-health](../topics/arts-in-health.md)
+- [cultural-engagement](../topics/cultural-engagement.md)
 - [mental-health-outcomes](../topics/mental-health-outcomes.md)
 - [public-health-interventions](../topics/public-health-interventions.md)

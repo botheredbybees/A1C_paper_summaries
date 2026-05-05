@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-networks
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Brain Networks

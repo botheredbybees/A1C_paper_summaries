@@ -11,7 +11,7 @@ tags: ["dementia-care", "gallery-programs", "art-therapy", "fxa100"]
 key_concepts: ["reminiscence-based benefits", "creativity stimulation"]
 methods: ["case study"]
 slug: fxa100-week07-fxa100-week-7-lecture
-related: ["dementia-care", "gallery-programs"]
+related: ["art-therapy", "dementia-care", "gallery-programs"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,5 +40,6 @@ The document outlines the content and learning outcomes for a lecture in FXA100:
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [dementia-care](../topics/dementia-care.md)
 - [gallery-programs](../topics/gallery-programs.md)

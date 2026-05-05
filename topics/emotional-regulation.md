@@ -7,12 +7,13 @@ tags: ["emotional-regulation"]
 sources:
   - fxa301-week02-the-brain-and-how-we-perceive-information
   - fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and
+  - fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd
   - fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children
   - fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental
   - fxa303-week06-lesson-fxa303-week06-page-4-week-6-activities
   - fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping
   - fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Emotional Regulation
@@ -33,6 +34,7 @@ The synthesis integrates various aspects of emotional regulation across diverse 
 
 - [fxa301-week02-the-brain-and-how-we-perceive-information](../sources/fxa301-week02-the-brain-and-how-we-perceive-information.md)
 - [fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and](../sources/fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and.md)
+- [fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd](../sources/fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd.md)
 - [fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children](../sources/fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children.md)
 - [fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental](../sources/fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental.md)
 - [fxa303-week06-lesson-fxa303-week06-page-4-week-6-activities](../sources/fxa303-week06-lesson-fxa303-week06-page-4-week-6-activities.md)

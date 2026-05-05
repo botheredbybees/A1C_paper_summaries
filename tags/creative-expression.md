@@ -1,11 +1,12 @@
 ---
 type: tag
 tag: creative-expression
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Creative Expression
 
+- [Putting the IT into Creativity: Exploring the Creative Potential of Technology](../sources/fxa100-creativity-and-communication-ch02-15-putting-the-it-into-creativity-exploring-the-creative.md)
 - [Making Space for Your Own Creativity](../sources/fxa100-creativity-and-communication-ch13-23-making-space-for-your-own-creativity-making-space-for.md)
 - [Music Therapy Benefits for Dementia Care](../sources/fxa100-week04-lesson-fxa100-week04-page-2-music-therapy-benefits.md)
 - [Art & Creativity](../sources/fxa100-week06-art-creativity.md)

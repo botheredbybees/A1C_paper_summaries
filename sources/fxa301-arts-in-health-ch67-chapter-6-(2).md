@@ -11,7 +11,7 @@ tags: ["healthcare-research", "process-evaluation", "research-methods", "fxa301"
 key_concepts: ["ethnographic process evaluations", "outcome assessment"]
 methods: []
 slug: fxa301-arts-in-health-ch67-chapter-6-(2)
-related: ["research-methods"]
+related: ["process-evaluation", "research-methods"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,4 +40,5 @@ This chapter discusses the importance of process evaluations in healthcare resea
 
 ## See Also
 
+- [process-evaluation](../topics/process-evaluation.md)
 - [research-methods](../topics/research-methods.md)

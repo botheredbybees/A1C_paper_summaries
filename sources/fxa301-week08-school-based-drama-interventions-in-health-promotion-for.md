@@ -11,7 +11,7 @@ tags: ["health-education", "drama-interventions", "school-health-promotion", "ch
 key_concepts: ["educational-drama", "self-reflection-theory", "interactive-learning"]
 methods: ["systematic review"]
 slug: fxa301-week08-school-based-drama-interventions-in-health-promotion-for
-related: ["adolescent-development", "systematic-review"]
+related: ["adolescent-development", "health-education", "systematic-review"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,4 +45,5 @@ The paper presents a systematic review of the literature on school-based drama i
 ## See Also
 
 - [adolescent-development](../topics/adolescent-development.md)
+- [health-education](../topics/health-education.md)
 - [systematic-review](../topics/systematic-review.md)

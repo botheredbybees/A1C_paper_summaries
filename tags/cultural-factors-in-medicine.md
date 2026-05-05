@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cultural-factors-in-medicine
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Cultural Factors In Medicine

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: reward-system
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Reward System

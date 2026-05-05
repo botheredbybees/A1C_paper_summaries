@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-health-promotion
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Mental Health Promotion

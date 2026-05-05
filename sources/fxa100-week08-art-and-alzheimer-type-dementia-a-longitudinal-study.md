@@ -11,7 +11,7 @@ tags: ["alzheimer-dementia", "art-therapy", "cognitive-decline", "longitudinal-r
 key_concepts: ["compositional-complexity", "pictorial-complexity", "cognitive-fluctuations"]
 methods: ["longitudinal-study"]
 slug: fxa100-week08-art-and-alzheimer-type-dementia-a-longitudinal-study
-related: ["cognitive-decline"]
+related: ["art-therapy", "cognitive-decline"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,4 +42,5 @@ The study explores the impact of art activities on individuals with Alzheimer-ty
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [cognitive-decline](../topics/cognitive-decline.md)

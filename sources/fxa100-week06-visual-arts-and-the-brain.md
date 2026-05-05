@@ -9,13 +9,15 @@ appearances:
     week: "06"
   - unit: FXA100
     week: "06"
+  - unit: FXA100
+    week: "06"
 tags: ["neuroaesthetics", "brain-arts-interaction", "dopamine-release", "embodied-cognition", "public-health-through-art", "fxa100"]
 key_concepts: ["neuroaesthetics", "functional-magnetic-resonance-imaging-fmri", "mirror-neurons", "empathy-in-art-appreciation"]
 methods: ["case-study", "fMRI"]
 slug: fxa100-week06-visual-arts-and-the-brain
 related: ["embodied-cognition", "neuroaesthetics"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-05
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-week06-visual-arts-and-the-brain.md_

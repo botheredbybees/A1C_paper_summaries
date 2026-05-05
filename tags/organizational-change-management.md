@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: organizational-change-management
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Organizational Change Management

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: photography-in-psychology
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Photography In Psychology

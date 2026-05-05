@@ -11,7 +11,7 @@ tags: ["indigenous-arts", "traditional-culture", "art-therapy", "fxa303"]
 key_concepts: ["cultural-pride", "identity-reclamation", "ethical-practice"]
 methods: ["grounded-theory"]
 slug: fxa303-week10-indigenous-and-traditional-arts-in-art-therapy-value
-related: ["indigenous-arts"]
+related: ["art-therapy", "indigenous-arts"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -41,4 +41,5 @@ This study explores the therapeutic value and cultural significance of Indigenou
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [indigenous-arts](../topics/indigenous-arts.md)

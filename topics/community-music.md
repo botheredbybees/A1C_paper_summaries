@@ -6,8 +6,12 @@ confidence: medium
 tags: ["community-music"]
 sources:
   - fxa100-week04-engaging-in-community-music-an-introduction
+  - fxa301-week01-culture-of-inquiry
+  - fxa301-week01-engaging-in-community-music-an-introduction
+  - fxa301-week01-engaging-in-community-music-an-introduction-(2)
+  - fxa301-week01-music-and-meaning-in-community-contexts
   - fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Community Music
@@ -27,4 +31,8 @@ The integration of community music highlights its potential to foster life-long 
 ## Sources
 
 - [fxa100-week04-engaging-in-community-music-an-introduction](../sources/fxa100-week04-engaging-in-community-music-an-introduction.md)
+- [fxa301-week01-culture-of-inquiry](../sources/fxa301-week01-culture-of-inquiry.md)
+- [fxa301-week01-engaging-in-community-music-an-introduction](../sources/fxa301-week01-engaging-in-community-music-an-introduction.md)
+- [fxa301-week01-engaging-in-community-music-an-introduction-(2)](../sources/fxa301-week01-engaging-in-community-music-an-introduction-(2).md)
+- [fxa301-week01-music-and-meaning-in-community-contexts](../sources/fxa301-week01-music-and-meaning-in-community-contexts.md)
 - [fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam.md)

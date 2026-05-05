@@ -6,8 +6,12 @@ confidence: medium
 tags: ["online-learning"]
 sources:
   - fxa100-week01-lesson-fxa100-week01-page-3-week-1-activities
+  - fxa100-week10-web-article-brooker-2013
   - fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling
-updated: 2026-05-04
+  - fxa202-week10-2022-week-10-lecture-transcript
+  - fxa301-week01-quiz-information-getting-started-in-mylo
+  - fxa301-week01-week-1-activities-page-video
+updated: 2026-05-05
 ---
 
 ## Online Learning in Arts and Dementia Care
@@ -27,4 +31,8 @@ The sources explore the use of online learning as an intervention to enhance eng
 ## Sources
 
 - [fxa100-week01-lesson-fxa100-week01-page-3-week-1-activities](../sources/fxa100-week01-lesson-fxa100-week01-page-3-week-1-activities.md)
+- [fxa100-week10-web-article-brooker-2013](../sources/fxa100-week10-web-article-brooker-2013.md)
 - [fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling](../sources/fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling.md)
+- [fxa202-week10-2022-week-10-lecture-transcript](../sources/fxa202-week10-2022-week-10-lecture-transcript.md)
+- [fxa301-week01-quiz-information-getting-started-in-mylo](../sources/fxa301-week01-quiz-information-getting-started-in-mylo.md)
+- [fxa301-week01-week-1-activities-page-video](../sources/fxa301-week01-week-1-activities-page-video.md)

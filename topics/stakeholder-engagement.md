@@ -6,8 +6,11 @@ confidence: medium
 tags: ["stakeholder-engagement"]
 sources:
   - fxa100-week04-a-step-by-step-approach-to-the-research-process
+  - fxa100-week04-conceptualizing-and-planning-interventions
   - fxa100-week04-creative-and-credible-evaluation-for-arts-health-and-well
-updated: 2026-05-04
+  - fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well
+  - fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well-(2)
+updated: 2026-05-05
 ---
 
 ## Stakeholder Engagement
@@ -27,4 +30,7 @@ Both sources emphasize the importance of stakeholder engagement in enhancing res
 ## Sources
 
 - [fxa100-week04-a-step-by-step-approach-to-the-research-process](../sources/fxa100-week04-a-step-by-step-approach-to-the-research-process.md)
+- [fxa100-week04-conceptualizing-and-planning-interventions](../sources/fxa100-week04-conceptualizing-and-planning-interventions.md)
 - [fxa100-week04-creative-and-credible-evaluation-for-arts-health-and-well](../sources/fxa100-week04-creative-and-credible-evaluation-for-arts-health-and-well.md)
+- [fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well](../sources/fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well.md)
+- [fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well-(2)](../sources/fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well-(2).md)

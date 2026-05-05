@@ -11,7 +11,7 @@ tags: ["mental-wellbeing", "creative-arts", "trauma-informed-practice", "communi
 key_concepts: ["trauma-processing", "cultural-sensitivity", "flexible-interventions"]
 methods: ["case-study"]
 slug: fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts
-related: ["creative-arts", "mental-wellbeing", "resilience-building", "trauma-informed-practice"]
+related: ["community-engagement", "creative-arts", "mental-wellbeing", "resilience-building", "trauma-informed-practice"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,6 +43,7 @@ Week 9 of FXA303, a course on Creative Arts, Play, and Mental Wellbeing, introdu
 
 ## See Also
 
+- [community-engagement](../topics/community-engagement.md)
 - [creative-arts](../topics/creative-arts.md)
 - [mental-wellbeing](../topics/mental-wellbeing.md)
 - [resilience-building](../topics/resilience-building.md)

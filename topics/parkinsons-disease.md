@@ -7,7 +7,14 @@ tags: ["parkinsons-disease"]
 sources:
   - fxa100-week01-the-science-of-lewy-body-dementia-video-transcript
   - fxa100-week01-transcript-the-science-of-lewy-body-dementia
-updated: 2026-05-03
+  - fxa301-week03-transcript-youtube-5utv1ergbs8
+  - fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons
+  - fxa301-week06-effect-of-rhythmic-auditory-cueing-on-parkinsonian-gait-a
+  - fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait
+  - fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with
+  - fxa301-week06-therapeutic-dancing-for-parkinsons-disease
+  - fxa301-week06-transcript-gait-training-for-parkinsons-patient-using-music
+updated: 2026-05-05
 ---
 
 ## Lewy Body Dementia
@@ -28,3 +35,10 @@ The sources emphasize the pivotal role of Lewy bodies and their primary componen
 
 - [fxa100-week01-the-science-of-lewy-body-dementia-video-transcript](../sources/fxa100-week01-the-science-of-lewy-body-dementia-video-transcript.md)
 - [fxa100-week01-transcript-the-science-of-lewy-body-dementia](../sources/fxa100-week01-transcript-the-science-of-lewy-body-dementia.md)
+- [fxa301-week03-transcript-youtube-5utv1ergbs8](../sources/fxa301-week03-transcript-youtube-5utv1ergbs8.md)
+- [fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons](../sources/fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons.md)
+- [fxa301-week06-effect-of-rhythmic-auditory-cueing-on-parkinsonian-gait-a](../sources/fxa301-week06-effect-of-rhythmic-auditory-cueing-on-parkinsonian-gait-a.md)
+- [fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait](../sources/fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait.md)
+- [fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with](../sources/fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with.md)
+- [fxa301-week06-therapeutic-dancing-for-parkinsons-disease](../sources/fxa301-week06-therapeutic-dancing-for-parkinsons-disease.md)
+- [fxa301-week06-transcript-gait-training-for-parkinsons-patient-using-music](../sources/fxa301-week06-transcript-gait-training-for-parkinsons-patient-using-music.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: end-of-life-care
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## End Of Life Care

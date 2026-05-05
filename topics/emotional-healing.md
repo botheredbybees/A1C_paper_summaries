@@ -8,8 +8,9 @@ sources:
   - fxa202-week09-expressive-writing-therapy-exercises-examples
   - fxa202-week09-healing-through-art-and-music
   - fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a
+  - fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture
   - fxa303-week01-trauma-aps
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Emotional Healing Through Therapeutic Modalities
@@ -31,4 +32,5 @@ The integration of therapeutic modalities such as expressive writing, art therap
 - [fxa202-week09-expressive-writing-therapy-exercises-examples](../sources/fxa202-week09-expressive-writing-therapy-exercises-examples.md)
 - [fxa202-week09-healing-through-art-and-music](../sources/fxa202-week09-healing-through-art-and-music.md)
 - [fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a](../sources/fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a.md)
+- [fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture](../sources/fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture.md)
 - [fxa303-week01-trauma-aps](../sources/fxa303-week01-trauma-aps.md)

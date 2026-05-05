@@ -1,11 +1,12 @@
 ---
 type: tag
 tag: wellbeing-initiatives
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Wellbeing Initiatives
 
+- [Arts in Health: Designing and researching interventions](../sources/fxa301-week01-arts-in-health-designing-and-researching-interventions.md)
 - [Case Studies of Visual Arts with, and for Communities](../sources/fxa301-week05-case-studies-of-visual-arts-with-and-for-communities.md)
 - [Happy Museum Project Principles](../sources/fxa301-week05-happy-museum-project-principles.md)
 - [Mind, Body, Spirit: How Museums Impact Health and Wellbeing](../sources/fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing.md)

@@ -8,7 +8,8 @@ sources:
   - fxa100-week03-music-therapy-for-depression-it-seems-to-work-but-how
   - fxa100-week04-the-day-the-music-died
   - fxa202-week03-can-photography-help-depression
-updated: 2026-05-04
+  - fxa301-week01-arts-on-prescription-in-sefton-programme-report
+updated: 2026-05-05
 ---
 
 ## Therapeutic Benefits Of Art In Depression Treatment
@@ -29,3 +30,4 @@ The synthesis integrates findings from three sources focusing on the use of arti
 - [fxa100-week03-music-therapy-for-depression-it-seems-to-work-but-how](../sources/fxa100-week03-music-therapy-for-depression-it-seems-to-work-but-how.md)
 - [fxa100-week04-the-day-the-music-died](../sources/fxa100-week04-the-day-the-music-died.md)
 - [fxa202-week03-can-photography-help-depression](../sources/fxa202-week03-can-photography-help-depression.md)
+- [fxa301-week01-arts-on-prescription-in-sefton-programme-report](../sources/fxa301-week01-arts-on-prescription-in-sefton-programme-report.md)

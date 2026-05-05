@@ -11,7 +11,7 @@ tags: ["arts-in-health", "community-engagement", "health-equity", "social-cohesi
 key_concepts: ["evidence-based engagement", "mixed-method research", "cultural programs"]
 methods: ["mixed-methods", "qualitative", "quantitative"]
 slug: fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report
-related: ["arts-in-health", "health-equity", "social-cohesion"]
+related: ["arts-in-health", "community-engagement", "health-equity", "social-cohesion"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -49,5 +49,6 @@ Additionally, the report serves as an archive documenting the project's journey,
 ## See Also
 
 - [arts-in-health](../topics/arts-in-health.md)
+- [community-engagement](../topics/community-engagement.md)
 - [health-equity](../topics/health-equity.md)
 - [social-cohesion](../topics/social-cohesion.md)

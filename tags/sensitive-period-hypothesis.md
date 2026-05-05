@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sensitive-period-hypothesis
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Sensitive Period Hypothesis

@@ -7,9 +7,11 @@ tags: ["health-interventions"]
 sources:
   - fxa100-week04-a-step-by-step-approach-to-the-research-process
   - fxa100-week04-an-introduction-to-research
+  - fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the
+  - fxa301-week01-implementing-and-evaluating-interventions
   - fxa301-week05-the-health-and-well-being-potential-of-museums-and-art
   - fxa303-week03-adolescent-health
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Health Interventions
@@ -30,5 +32,7 @@ The provided sources collectively explore various health interventions focusing 
 
 - [fxa100-week04-a-step-by-step-approach-to-the-research-process](../sources/fxa100-week04-a-step-by-step-approach-to-the-research-process.md)
 - [fxa100-week04-an-introduction-to-research](../sources/fxa100-week04-an-introduction-to-research.md)
+- [fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the](../sources/fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the.md)
+- [fxa301-week01-implementing-and-evaluating-interventions](../sources/fxa301-week01-implementing-and-evaluating-interventions.md)
 - [fxa301-week05-the-health-and-well-being-potential-of-museums-and-art](../sources/fxa301-week05-the-health-and-well-being-potential-of-museums-and-art.md)
 - [fxa303-week03-adolescent-health](../sources/fxa303-week03-adolescent-health.md)

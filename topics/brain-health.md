@@ -7,9 +7,10 @@ tags: ["brain-health"]
 sources:
   - fxa100-week01-living-with-dementia-12-what-is-vascular-dementia
   - fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy
+  - fxa100-week01-transcript-dementia-australia
   - fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining
   - fxa100-week01-what-is-alzheimers-disease-video-transcript
-updated: 2026-05-03
+updated: 2026-05-05
 ---
 
 ## Brain Health and Cognitive Decline
@@ -30,5 +31,6 @@ The sources collectively highlight the multifactorial nature of brain health and
 
 - [fxa100-week01-living-with-dementia-12-what-is-vascular-dementia](../sources/fxa100-week01-living-with-dementia-12-what-is-vascular-dementia.md)
 - [fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy](../sources/fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy.md)
+- [fxa100-week01-transcript-dementia-australia](../sources/fxa100-week01-transcript-dementia-australia.md)
 - [fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining](../sources/fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining.md)
 - [fxa100-week01-what-is-alzheimers-disease-video-transcript](../sources/fxa100-week01-what-is-alzheimers-disease-video-transcript.md)

@@ -11,7 +11,7 @@ tags: ["creative-thinking", "puppetry-therapy", "cognitive-behavioral-therapy", 
 key_concepts: ["Torrance Test of Creative Thinking", "strengths perspective", "mindfulness in play therapy"]
 methods: []
 slug: fxa303-puppet-assisted-play-therapy-ch02-1-we-must-encourage-children-to-use-their-imagination-and
-related: ["cognitive-behavioral-therapy", "puppetry-therapy"]
+related: ["cognitive-behavioral-therapy", "creative-thinking", "puppetry-therapy"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -42,4 +42,5 @@ This chapter discusses the use of puppetry in enhancing creativity and conflict 
 ## See Also
 
 - [cognitive-behavioral-therapy](../topics/cognitive-behavioral-therapy.md)
+- [creative-thinking](../topics/creative-thinking.md)
 - [puppetry-therapy](../topics/puppetry-therapy.md)

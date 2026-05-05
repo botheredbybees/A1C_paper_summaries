@@ -5,11 +5,13 @@ title: "Community Resilience"
 confidence: high
 tags: ["community-resilience"]
 sources:
+  - fxa303-art-therapy-in-response-to-natural-disasters-ch01-1-body-tracing
   - fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon
   - fxa303-week09-psychological-first-aid-supporting-people-affected-by
   - fxa303-week09-the-afloat-project
   - fxa303-week09-web-article-creative-2023
-updated: 2026-05-04
+  - fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to
+updated: 2026-05-05
 ---
 
 ## Community Resilience
@@ -28,7 +30,9 @@ The integration of arts-based practices and psychosocial support in community re
 
 ## Sources
 
+- [fxa303-art-therapy-in-response-to-natural-disasters-ch01-1-body-tracing](../sources/fxa303-art-therapy-in-response-to-natural-disasters-ch01-1-body-tracing.md)
 - [fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon](../sources/fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon.md)
 - [fxa303-week09-psychological-first-aid-supporting-people-affected-by](../sources/fxa303-week09-psychological-first-aid-supporting-people-affected-by.md)
 - [fxa303-week09-the-afloat-project](../sources/fxa303-week09-the-afloat-project.md)
 - [fxa303-week09-web-article-creative-2023](../sources/fxa303-week09-web-article-creative-2023.md)
+- [fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to](../sources/fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to.md)

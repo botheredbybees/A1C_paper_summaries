@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: developmental-language-disorder
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Developmental Language Disorder

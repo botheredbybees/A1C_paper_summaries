@@ -11,7 +11,7 @@ tags: ["arts-in-community", "music-education", "recruiter-perceptions", "employa
 key_concepts: ["employability skills", "recruiters' perceptions", "art therapy", "health and wellbeing"]
 methods: ["case study"]
 slug: fxa301-week05-week-5-activities-fxa301-arts-in-the-community
-related: ["arts-in-community", "music-education", "wellbeing"]
+related: ["art-therapy", "arts-in-community", "music-education", "wellbeing"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,6 +45,7 @@ The document outlines activities for Week 5 of the course FXA301 Arts in the Com
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [arts-in-community](../topics/arts-in-community.md)
 - [music-education](../topics/music-education.md)
 - [wellbeing](../topics/wellbeing.md)

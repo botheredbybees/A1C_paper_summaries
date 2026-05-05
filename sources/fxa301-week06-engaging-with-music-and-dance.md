@@ -11,7 +11,7 @@ tags: ["music-therapy", "dance-for-health", "community-engagement", "social-well
 key_concepts: ["El Sistema", "resilience-building", "cognitive-function-improvement"]
 methods: ["case-study"]
 slug: fxa301-week06-engaging-with-music-and-dance
-related: ["elder-care", "music-therapy", "social-wellbeing"]
+related: ["community-engagement", "elder-care", "music-therapy", "social-wellbeing"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -47,6 +47,7 @@ This lecture underscores the broader impact of music and dance on health and soc
 
 ## See Also
 
+- [community-engagement](../topics/community-engagement.md)
 - [elder-care](../topics/elder-care.md)
 - [music-therapy](../topics/music-therapy.md)
 - [social-wellbeing](../topics/social-wellbeing.md)

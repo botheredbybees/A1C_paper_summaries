@@ -8,7 +8,8 @@ sources:
   - fxa100-week04-conceptualizing-and-planning-interventions
   - fxa100-week04-implementing-and-evaluating-interventions
   - fxa301-arts-in-health-ch29-4-invite-open-responses
-updated: 2026-05-04
+  - fxa301-week01-implementing-and-evaluating-interventions
+updated: 2026-05-05
 ---
 
 ## Intervention Design in Health Care
@@ -30,3 +31,4 @@ The synthesis of the provided sources highlights a comprehensive approach to int
 - [fxa100-week04-conceptualizing-and-planning-interventions](../sources/fxa100-week04-conceptualizing-and-planning-interventions.md)
 - [fxa100-week04-implementing-and-evaluating-interventions](../sources/fxa100-week04-implementing-and-evaluating-interventions.md)
 - [fxa301-arts-in-health-ch29-4-invite-open-responses](../sources/fxa301-arts-in-health-ch29-4-invite-open-responses.md)
+- [fxa301-week01-implementing-and-evaluating-interventions](../sources/fxa301-week01-implementing-and-evaluating-interventions.md)

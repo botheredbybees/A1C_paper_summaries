@@ -10,7 +10,8 @@ sources:
   - fxa301-week03-creating-our-future-results-of-the-national-arts
   - fxa301-week09-web-article-australia-2018
   - fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an
-updated: 2026-05-04
+  - fxa303-week10-cultural-diversity-and-mental-health-considerations-for
+updated: 2026-05-05
 ---
 
 ## Cultural Diversity in Arts and Healthcare
@@ -34,3 +35,4 @@ The integration of diverse cultural practices within arts and healthcare interve
 - [fxa301-week03-creating-our-future-results-of-the-national-arts](../sources/fxa301-week03-creating-our-future-results-of-the-national-arts.md)
 - [fxa301-week09-web-article-australia-2018](../sources/fxa301-week09-web-article-australia-2018.md)
 - [fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an](../sources/fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an.md)
+- [fxa303-week10-cultural-diversity-and-mental-health-considerations-for](../sources/fxa303-week10-cultural-diversity-and-mental-health-considerations-for.md)

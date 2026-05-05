@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-potential-curcumin
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Therapeutic Potential Curcumin

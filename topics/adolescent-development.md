@@ -17,7 +17,8 @@ sources:
   - fxa303-week03-music-listening-motivation-is-associated-with-global
   - fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than
   - fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental
-updated: 2026-05-04
+  - fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy
+updated: 2026-05-05
 ---
 
 ## Adolescent Development and Arts Integration
@@ -48,3 +49,4 @@ The integration of arts in adolescent development showcases a multifaceted appro
 - [fxa303-week03-music-listening-motivation-is-associated-with-global](../sources/fxa303-week03-music-listening-motivation-is-associated-with-global.md)
 - [fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than](../sources/fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than.md)
 - [fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental](../sources/fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental.md)
+- [fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy](../sources/fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy.md)

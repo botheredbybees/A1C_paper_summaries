@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: home-environment
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Home Environment

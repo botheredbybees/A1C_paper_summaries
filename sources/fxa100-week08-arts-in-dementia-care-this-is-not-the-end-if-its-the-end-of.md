@@ -11,7 +11,7 @@ tags: ["dementia-care", "creative-expression", "quality-of-life", "therapeutic-a
 key_concepts: ["non-verbal communication", "art therapy models", "self-expression in dementia"]
 methods: ["case study", "literature review"]
 slug: fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of
-related: ["cognitive-decline", "creative-expression", "dementia-care", "quality-of-life", "therapeutic-arts"]
+related: ["cognitive-decline", "community-engagement", "creative-expression", "dementia-care", "quality-of-life", "therapeutic-arts"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -50,6 +50,7 @@ The author provides examples of effective arts programs like 'Memories in the Ma
 ## See Also
 
 - [cognitive-decline](../topics/cognitive-decline.md)
+- [community-engagement](../topics/community-engagement.md)
 - [creative-expression](../topics/creative-expression.md)
 - [dementia-care](../topics/dementia-care.md)
 - [quality-of-life](../topics/quality-of-life.md)

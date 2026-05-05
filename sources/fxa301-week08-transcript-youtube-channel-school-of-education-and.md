@@ -11,7 +11,7 @@ tags: ["applied-theater", "community-engagement", "storytelling", "fxa301"]
 key_concepts: ["human-identity-through-storytelling", "dementia-care-interventions"]
 methods: []
 slug: fxa301-week08-transcript-youtube-channel-school-of-education-and
-related: ["storytelling"]
+related: ["community-engagement", "storytelling"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,4 +40,5 @@ The transcript discusses the concept of applied theater as a storytelling proces
 
 ## See Also
 
+- [community-engagement](../topics/community-engagement.md)
 - [storytelling](../topics/storytelling.md)

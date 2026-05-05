@@ -11,7 +11,7 @@ tags: ["art-therapy", "identity-maintenance", "chronic-illness", "case-studies",
 key_concepts: ["Art Therapy", "Identity Maintenance", "Chronic Illness Coping"]
 methods: []
 slug: fxa301-week05-web-article-reynolds-2006
-related: []
+related: ["art-therapy", "chronic-illness"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,4 +43,5 @@ This qualitative research investigates the role of art-making as a leisure activ
 
 ## See Also
 
-*(none yet)*
+- [art-therapy](../topics/art-therapy.md)
+- [chronic-illness](../topics/chronic-illness.md)

@@ -11,7 +11,7 @@ tags: ["authentication", "shibboleth", "internet-security", "fxa303"]
 key_concepts: ["federated identity management", "secure access"]
 methods: []
 slug: fxa303-week06-web-article-butler-2009
-related: ["internet-security"]
+related: ["authentication", "internet-security", "shibboleth"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,4 +40,6 @@ This is an authentication request page for Shibboleth, a federated identity mana
 
 ## See Also
 
+- [authentication](../topics/authentication.md)
 - [internet-security](../topics/internet-security.md)
+- [shibboleth](../topics/shibboleth.md)

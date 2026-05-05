@@ -13,13 +13,15 @@ appearances:
     week: "01"
   - unit: FXA100
     week: "01"
+  - unit: FXA100
+    week: "01"
 tags: ["arts-and-dementia", "creative-interventions", "well-being-enhancement", "cognitive-processing", "dementia-types", "fxa100"]
 key_concepts: ["arts-based interventions", "dementia care", "mental well-being"]
 methods: ["lecture"]
 slug: fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care
 related: ["cognitive-processing", "creative-interventions", "dementia-types", "well-being-enhancement"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-05
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care.md_

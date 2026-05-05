@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: writing-improvement
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Writing Improvement

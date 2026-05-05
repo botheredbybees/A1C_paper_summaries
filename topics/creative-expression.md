@@ -5,12 +5,14 @@ title: "Creative Expression"
 confidence: high
 tags: ["creative-expression"]
 sources:
+  - fxa100-creativity-and-communication-ch02-15-putting-the-it-into-creativity-exploring-the-creative
   - fxa100-creativity-and-communication-ch13-23-making-space-for-your-own-creativity-making-space-for
   - fxa100-week04-lesson-fxa100-week04-page-2-music-therapy-benefits
   - fxa100-week06-art-creativity
   - fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the
   - fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of
   - fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia
+  - fxa100-week10-the-impact-of-timeslips-a-creative-expression-intervention
   - fxa202-week02-improve-your-photography-skills-with-these-9-photo
   - fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay
   - fxa202-week06-critical-reflection-on-visual-storytelling-through
@@ -20,6 +22,7 @@ sources:
   - fxa202-week08-photography-as-self-therapy-an-introduction-for-beginners
   - fxa202-week08-week-8-lecture-notes-editing-your-images
   - fxa202-week09-healing-through-art-and-music
+  - fxa202-week10-lesson-fxa202-week10-page-4
   - fxa301-week03-art-for-better-health-and-wellbeing
   - fxa301-week05-art-as-therapy
   - fxa301-week08-arts-gymnasium-goes-digital
@@ -30,7 +33,7 @@ sources:
   - fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the
   - fxa303-week06-lesson-fxa303-week06-page-4-week-6-activities
   - fxa303-week09-transcript-arts-mid-north-coast-we-are-all-born-creative
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Creative Expression
@@ -49,12 +52,14 @@ The concept of creative expression encompasses a variety of therapeutic interven
 
 ## Sources
 
+- [fxa100-creativity-and-communication-ch02-15-putting-the-it-into-creativity-exploring-the-creative](../sources/fxa100-creativity-and-communication-ch02-15-putting-the-it-into-creativity-exploring-the-creative.md)
 - [fxa100-creativity-and-communication-ch13-23-making-space-for-your-own-creativity-making-space-for](../sources/fxa100-creativity-and-communication-ch13-23-making-space-for-your-own-creativity-making-space-for.md)
 - [fxa100-week04-lesson-fxa100-week04-page-2-music-therapy-benefits](../sources/fxa100-week04-lesson-fxa100-week04-page-2-music-therapy-benefits.md)
 - [fxa100-week06-art-creativity](../sources/fxa100-week06-art-creativity.md)
 - [fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the](../sources/fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the.md)
 - [fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of](../sources/fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of.md)
 - [fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia](../sources/fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia.md)
+- [fxa100-week10-the-impact-of-timeslips-a-creative-expression-intervention](../sources/fxa100-week10-the-impact-of-timeslips-a-creative-expression-intervention.md)
 - [fxa202-week02-improve-your-photography-skills-with-these-9-photo](../sources/fxa202-week02-improve-your-photography-skills-with-these-9-photo.md)
 - [fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay](../sources/fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay.md)
 - [fxa202-week06-critical-reflection-on-visual-storytelling-through](../sources/fxa202-week06-critical-reflection-on-visual-storytelling-through.md)
@@ -64,6 +69,7 @@ The concept of creative expression encompasses a variety of therapeutic interven
 - [fxa202-week08-photography-as-self-therapy-an-introduction-for-beginners](../sources/fxa202-week08-photography-as-self-therapy-an-introduction-for-beginners.md)
 - [fxa202-week08-week-8-lecture-notes-editing-your-images](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images.md)
 - [fxa202-week09-healing-through-art-and-music](../sources/fxa202-week09-healing-through-art-and-music.md)
+- [fxa202-week10-lesson-fxa202-week10-page-4](../sources/fxa202-week10-lesson-fxa202-week10-page-4.md)
 - [fxa301-week03-art-for-better-health-and-wellbeing](../sources/fxa301-week03-art-for-better-health-and-wellbeing.md)
 - [fxa301-week05-art-as-therapy](../sources/fxa301-week05-art-as-therapy.md)
 - [fxa301-week08-arts-gymnasium-goes-digital](../sources/fxa301-week08-arts-gymnasium-goes-digital.md)

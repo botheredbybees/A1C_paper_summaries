@@ -11,7 +11,7 @@ tags: ["ethnomusicology", "community-engagement", "applied-research", "fxa301"]
 key_concepts: ["relationship-building", "ethical engagement", "arts-for-social-benefit"]
 methods: []
 slug: fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts
-related: ["ethnomusicology"]
+related: ["community-engagement", "ethnomusicology"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,4 +41,5 @@ This chapter discusses the importance of ethnomusicologists in enhancing communi
 
 ## See Also
 
+- [community-engagement](../topics/community-engagement.md)
 - [ethnomusicology](../topics/ethnomusicology.md)

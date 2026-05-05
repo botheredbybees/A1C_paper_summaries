@@ -7,7 +7,9 @@ tags: ["cultural-identity"]
 sources:
   - fxa100-week09-in-my-fathers-words-review-sophisticated-dementia-drama
   - fxa301-week05-how-murals-helped-turn-a-declining-community-around
-updated: 2026-05-04
+  - fxa303-week10-how-country-spirituality-music-and-arts-contribute-to
+  - fxa303-week10-lesson-fxa303-week10-page-1-overview
+updated: 2026-05-05
 ---
 
 ## Cultural Identity Through Art and Intergenerational Relationships
@@ -27,3 +29,5 @@ The sources highlight two distinct but interrelated interventions that support c
 
 - [fxa100-week09-in-my-fathers-words-review-sophisticated-dementia-drama](../sources/fxa100-week09-in-my-fathers-words-review-sophisticated-dementia-drama.md)
 - [fxa301-week05-how-murals-helped-turn-a-declining-community-around](../sources/fxa301-week05-how-murals-helped-turn-a-declining-community-around.md)
+- [fxa303-week10-how-country-spirituality-music-and-arts-contribute-to](../sources/fxa303-week10-how-country-spirituality-music-and-arts-contribute-to.md)
+- [fxa303-week10-lesson-fxa303-week10-page-1-overview](../sources/fxa303-week10-lesson-fxa303-week10-page-1-overview.md)

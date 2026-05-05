@@ -5,9 +5,12 @@ title: "Cognitive-Behavioral Therapy"
 confidence: medium
 tags: ["cognitive-behavioral-therapy"]
 sources:
+  - fxa301-week10-using-creative-arts-in-trauma-therapy-the-neuroscience-of
+  - fxa301-week10-web-article-ramirez-2016
+  - fxa303-puppet-assisted-play-therapy-ch02-1-we-must-encourage-children-to-use-their-imagination-and
   - fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the
   - fxa303-week01-trauma-aps
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Cognitive-Behavioral Therapy
@@ -26,5 +29,8 @@ The integration of sources on cognitive-behavioral therapy (CBT) and its applica
 
 ## Sources
 
+- [fxa301-week10-using-creative-arts-in-trauma-therapy-the-neuroscience-of](../sources/fxa301-week10-using-creative-arts-in-trauma-therapy-the-neuroscience-of.md)
+- [fxa301-week10-web-article-ramirez-2016](../sources/fxa301-week10-web-article-ramirez-2016.md)
+- [fxa303-puppet-assisted-play-therapy-ch02-1-we-must-encourage-children-to-use-their-imagination-and](../sources/fxa303-puppet-assisted-play-therapy-ch02-1-we-must-encourage-children-to-use-their-imagination-and.md)
 - [fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the](../sources/fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the.md)
 - [fxa303-week01-trauma-aps](../sources/fxa303-week01-trauma-aps.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: art-as-therapy
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Art As Therapy

@@ -6,8 +6,11 @@ confidence: medium
 tags: ["reminiscence-therapy"]
 sources:
   - fxa100-creativity-and-communication-ch02-15-putting-the-it-into-creativity-exploring-the-creative
+  - fxa100-excellence-in-dementia-care--ch12-chapter-14
   - fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care
-updated: 2026-05-03
+  - fxa100-week08-creativity-and-communication-in-persons-with-dementia-a
+  - fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family
+updated: 2026-05-05
 ---
 
 ## Reminiscence Therapy
@@ -27,4 +30,7 @@ The synthesis integrates the use of technology and music in reminiscence therapy
 ## Sources
 
 - [fxa100-creativity-and-communication-ch02-15-putting-the-it-into-creativity-exploring-the-creative](../sources/fxa100-creativity-and-communication-ch02-15-putting-the-it-into-creativity-exploring-the-creative.md)
+- [fxa100-excellence-in-dementia-care--ch12-chapter-14](../sources/fxa100-excellence-in-dementia-care--ch12-chapter-14.md)
 - [fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care](../sources/fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care.md)
+- [fxa100-week08-creativity-and-communication-in-persons-with-dementia-a](../sources/fxa100-week08-creativity-and-communication-in-persons-with-dementia-a.md)
+- [fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family](../sources/fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family.md)

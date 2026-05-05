@@ -5,9 +5,10 @@ title: "Nomophobia"
 confidence: medium
 tags: ["nomophobia"]
 sources:
+  - fxa202-week03-lesson-fxa202-week03-week-3
   - fxa202-week03-nomophobia-the-fear-of-being-without-your-phone
   - fxa202-week03-week-three-lecture-transcript-photography-and-health
-updated: 2026-05-03
+updated: 2026-05-05
 ---
 
 ## Nomophobia
@@ -26,5 +27,6 @@ Sources highlight the concept of nomophobia, a fear of being without one's mobil
 
 ## Sources
 
+- [fxa202-week03-lesson-fxa202-week03-week-3](../sources/fxa202-week03-lesson-fxa202-week03-week-3.md)
 - [fxa202-week03-nomophobia-the-fear-of-being-without-your-phone](../sources/fxa202-week03-nomophobia-the-fear-of-being-without-your-phone.md)
 - [fxa202-week03-week-three-lecture-transcript-photography-and-health](../sources/fxa202-week03-week-three-lecture-transcript-photography-and-health.md)

@@ -23,7 +23,8 @@ sources:
   - fxa100-week09-testing-the-implementation-of-the-veder-contact-method-a
   - fxa100-week09-the-experience-of-dementia
   - fxa100-week09-the-fundamentals-of-person-centered-care-for-individuals
-updated: 2026-05-04
+  - fxa100-week10-transforming-dementia-care-through-theatre
+updated: 2026-05-05
 ---
 
 ## Person-Centered Care
@@ -60,3 +61,4 @@ Person-centered care emphasizes tailoring healthcare approaches to the unique ne
 - [fxa100-week09-testing-the-implementation-of-the-veder-contact-method-a](../sources/fxa100-week09-testing-the-implementation-of-the-veder-contact-method-a.md)
 - [fxa100-week09-the-experience-of-dementia](../sources/fxa100-week09-the-experience-of-dementia.md)
 - [fxa100-week09-the-fundamentals-of-person-centered-care-for-individuals](../sources/fxa100-week09-the-fundamentals-of-person-centered-care-for-individuals.md)
+- [fxa100-week10-transforming-dementia-care-through-theatre](../sources/fxa100-week10-transforming-dementia-care-through-theatre.md)

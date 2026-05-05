@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurotrophic-factors
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Neurotrophic Factors

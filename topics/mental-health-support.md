@@ -9,11 +9,12 @@ sources:
   - fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2)
   - fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing
   - fxa301-week08-transcript-youtube-i1dnrn0cj20
+  - fxa301-week10-lesson-fxa301-week10-page-2
   - fxa303-week03-social-prescribing-roundtable-november-2019-report
   - fxa303-week04-play-interventions-for-neurodivergent-children-and
   - fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand
   - fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Mental Health Support Through Creative Interventions
@@ -36,6 +37,7 @@ The integration of various forms of artistic and creative practices as intervent
 - [fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2)](../sources/fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2).md)
 - [fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing](../sources/fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing.md)
 - [fxa301-week08-transcript-youtube-i1dnrn0cj20](../sources/fxa301-week08-transcript-youtube-i1dnrn0cj20.md)
+- [fxa301-week10-lesson-fxa301-week10-page-2](../sources/fxa301-week10-lesson-fxa301-week10-page-2.md)
 - [fxa303-week03-social-prescribing-roundtable-november-2019-report](../sources/fxa303-week03-social-prescribing-roundtable-november-2019-report.md)
 - [fxa303-week04-play-interventions-for-neurodivergent-children-and](../sources/fxa303-week04-play-interventions-for-neurodivergent-children-and.md)
 - [fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand](../sources/fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand.md)

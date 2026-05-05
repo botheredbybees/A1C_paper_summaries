@@ -9,13 +9,15 @@ appearances:
     week: "03"
   - unit: FXA301
     week: "03"
+  - unit: FXA301
+    week: "03"
 tags: ["arts-health", "wellbeing-research", "cultural-interventions", "fxa301"]
 key_concepts: ["mental health outcomes", "long-term benefits", "genetic expression"]
 methods: ["systematic review"]
 slug: fxa301-week03-arts-health-and-wellbeing-evidence-and-implications
 related: ["arts-health", "wellbeing-research"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-05
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-week03-arts-health-and-wellbeing-evidence-and-implications.md_

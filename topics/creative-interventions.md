@@ -8,10 +8,13 @@ sources:
   - fxa100-excellence-in-dementia-care--ch01-chapter-10
   - fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care
   - fxa100-week04-mindsong-transcript
+  - fxa100-week10-playfully-engaging-people-living-with-dementia-searching
+  - fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay
+  - fxa301-make-arts-for-a-better-life-ch17-1-for-further-study-on-communication-channels
   - fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing
   - fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract
   - fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Creative Interventions in Dementia Care
@@ -33,6 +36,9 @@ The integration of creative interventions in dementia care is highlighted across
 - [fxa100-excellence-in-dementia-care--ch01-chapter-10](../sources/fxa100-excellence-in-dementia-care--ch01-chapter-10.md)
 - [fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care](../sources/fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care.md)
 - [fxa100-week04-mindsong-transcript](../sources/fxa100-week04-mindsong-transcript.md)
+- [fxa100-week10-playfully-engaging-people-living-with-dementia-searching](../sources/fxa100-week10-playfully-engaging-people-living-with-dementia-searching.md)
+- [fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay](../sources/fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay.md)
+- [fxa301-make-arts-for-a-better-life-ch17-1-for-further-study-on-communication-channels](../sources/fxa301-make-arts-for-a-better-life-ch17-1-for-further-study-on-communication-channels.md)
 - [fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing](../sources/fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing.md)
 - [fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract](../sources/fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract.md)
 - [fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice](../sources/fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice.md)

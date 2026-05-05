@@ -19,7 +19,8 @@ sources:
   - fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography
   - fxa202-week08-week-8-lecture-notes-editing-your-images
   - fxa202-week08-week-8-lecture-notes-editing-your-images-(2)
-updated: 2026-05-04
+  - fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture
+updated: 2026-05-05
 ---
 
 ## Therapeutic Photography
@@ -52,3 +53,4 @@ Therapeutic photography is a practice involving the use of photographs to enhanc
 - [fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography](../sources/fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography.md)
 - [fxa202-week08-week-8-lecture-notes-editing-your-images](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images.md)
 - [fxa202-week08-week-8-lecture-notes-editing-your-images-(2)](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images-(2).md)
+- [fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture](../sources/fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture.md)

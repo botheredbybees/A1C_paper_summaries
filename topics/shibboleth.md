@@ -5,8 +5,10 @@ title: "Shibboleth Authentication"
 confidence: low
 tags: ["shibboleth"]
 sources:
+  - fxa303-week06-web-article-butler-2009
   - fxa303-week06-web-article-linn-2020
-updated: 2026-05-04
+  - fxa303-week06-web-article-markovits-2020
+updated: 2026-05-05
 ---
 
 ## Shibboleth Authentication
@@ -25,4 +27,6 @@ The integration of Shibboleth as an authentication method highlights its capabil
 
 ## Sources
 
+- [fxa303-week06-web-article-butler-2009](../sources/fxa303-week06-web-article-butler-2009.md)
 - [fxa303-week06-web-article-linn-2020](../sources/fxa303-week06-web-article-linn-2020.md)
+- [fxa303-week06-web-article-markovits-2020](../sources/fxa303-week06-web-article-markovits-2020.md)

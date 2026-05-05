@@ -11,13 +11,17 @@ appearances:
     week: "02"
   - unit: FXA100
     week: "02"
+  - unit: FXA100
+    week: "02"
+  - unit: FXA100
+    week: "02"
 tags: ["brain-synchronization", "musicians-networking", "neurological-research", "music-therapy", "cognitive-disorders", "fxa100"]
 key_concepts: ["neurosynchronicity", "communal-brain-function", "therapeutic-implications-for-cognitive-disorders"]
 methods: ["case-study"]
 slug: fxa100-week02-brain-networking-among-musicians
 related: ["cognitive-disorders", "music-therapy"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-05
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-week02-brain-networking-among-musicians.md_

@@ -11,7 +11,7 @@ tags: ["art-therapy", "dementia-care", "wellbeing-through-art", "fxa100"]
 key_concepts: ["neuroplasticity", "creative-expression", "social-interaction"]
 methods: ["case-study"]
 slug: fxa100-week07-artful-art-and-dementia-toolkit
-related: ["dementia-care", "wellbeing-through-art"]
+related: ["art-therapy", "dementia-care", "wellbeing-through-art"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,5 +41,6 @@ The Artful: Art and Dementia Toolkit, an initiative by the Museum of Contemporar
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [dementia-care](../topics/dementia-care.md)
 - [wellbeing-through-art](../topics/wellbeing-through-art.md)

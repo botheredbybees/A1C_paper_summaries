@@ -7,7 +7,8 @@ tags: ["student-engagement"]
 sources:
   - fxa100-week10-web-article-brooker-2013
   - fxa202-week10-week-10-lecture
-updated: 2026-05-04
+  - fxa301-week01-week-1-activities-page-video
+updated: 2026-05-05
 ---
 
 ## Student Engagement in Online Learning
@@ -28,3 +29,4 @@ The topic of student engagement in online learning environments emphasizes the i
 
 - [fxa100-week10-web-article-brooker-2013](../sources/fxa100-week10-web-article-brooker-2013.md)
 - [fxa202-week10-week-10-lecture](../sources/fxa202-week10-week-10-lecture.md)
+- [fxa301-week01-week-1-activities-page-video](../sources/fxa301-week01-week-1-activities-page-video.md)

@@ -1,13 +1,15 @@
 ---
 type: tag
 tag: mental-wellbeing
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Mental Wellbeing
 
 - [How to Develop the Art of Seeing Through Mindful Photography](../sources/fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography.md)
 - [Week 3 Introduction - Photography and Health](../sources/fxa202-week03-week-3-introduction-photography-and-health.md)
+- [Evaluating and Establishing National Norms for Mental Wellbeing Using the Short Warwick\u2013Edinburgh Mental Well-being Scale (SWEMWBS): Findings from the Health Survey for England](../sources/fxa301-week01-evaluating-and-establishing-national-norms-for-mental.md)
+- [How are Health Behaviours Associated with Mental Wellbeing Using the Short Warwick Edinburgh Mental Wellbeing Scale (SWEMWBS)? An Evaluation of SWEMWBS Using the Health Survey for England](../sources/fxa301-week01-how-are-health-behaviours-associated-with-mental-wellbeing.md)
 - [Creative Health and Care Experienced Children and Young People](../sources/fxa301-week03-creative-health-and-care-experienced-children-and-young.md)
 - [The role of arts activities in developing resilience and mental wellbeing in children and young people: A rapid review of the literature](../sources/fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and.md)
 - [Submission to the NSW Health and Wellbeing Strategy](../sources/fxa301-week05-submission-to-the-nsw-health-and-wellbeing-strategy.md)

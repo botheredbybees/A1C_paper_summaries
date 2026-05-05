@@ -11,7 +11,7 @@ tags: ["dementia-care", "visual-arts-intervention", "art-therapy", "fxa100"]
 key_concepts: ["creativity in dementia care", "non-pharmacological interventions"]
 methods: []
 slug: fxa100-week07-lesson-fxa100-week07-page-4-activities
-related: ["dementia-care", "visual-arts-intervention"]
+related: ["art-therapy", "dementia-care", "visual-arts-intervention"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,5 +40,6 @@ The content outlines activities and readings for students to engage with the ben
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [dementia-care](../topics/dementia-care.md)
 - [visual-arts-intervention](../topics/visual-arts-intervention.md)

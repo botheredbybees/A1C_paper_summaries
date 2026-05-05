@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurodegenerative-diseases
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Neurodegenerative Diseases

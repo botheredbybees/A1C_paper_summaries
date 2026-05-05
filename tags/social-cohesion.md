@@ -1,11 +1,12 @@
 ---
 type: tag
 tag: social-cohesion
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Social Cohesion
 
+- [Music and Meaning in Community Contexts](../sources/fxa301-week01-music-and-meaning-in-community-contexts.md)
 - [Arts for EveryBody: The One Nation/One Project Impact Report](../sources/fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report.md)
 - [Creating Our Future: Results of the National Arts Participation Survey](../sources/fxa301-week03-creating-our-future-results-of-the-national-arts.md)
 - [Case Studies of Visual Arts with, and for Communities](../sources/fxa301-week05-case-studies-of-visual-arts-with-and-for-communities.md)

@@ -8,7 +8,16 @@ sources:
   - fxa100-week02-are-people-really-left-brained-or-right-brain
   - fxa100-week02-are-the-brains-of-musicians-physically-different
   - fxa100-week02-how-music-helps-to-heal-the-injured-brain-therapeutic-use
-updated: 2026-05-03
+  - fxa100-week06-art-and-the-brain-a-view-from-dementia
+  - fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities
+  - fxa100-week06-web-article-tucker-2012
+  - fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care
+  - fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with
+  - fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community
+  - fxa303-week02-scientific-thinking-in-young-children-theoretical-advances
+  - fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain
+  - fxa303-week03-the-teen-brain
+updated: 2026-05-05
 ---
 
 ## Cognitive Neuroscience and Brain Plasticity
@@ -30,3 +39,12 @@ The exploration of brain lateralization and individual differences in cognitive 
 - [fxa100-week02-are-people-really-left-brained-or-right-brain](../sources/fxa100-week02-are-people-really-left-brained-or-right-brain.md)
 - [fxa100-week02-are-the-brains-of-musicians-physically-different](../sources/fxa100-week02-are-the-brains-of-musicians-physically-different.md)
 - [fxa100-week02-how-music-helps-to-heal-the-injured-brain-therapeutic-use](../sources/fxa100-week02-how-music-helps-to-heal-the-injured-brain-therapeutic-use.md)
+- [fxa100-week06-art-and-the-brain-a-view-from-dementia](../sources/fxa100-week06-art-and-the-brain-a-view-from-dementia.md)
+- [fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities](../sources/fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities.md)
+- [fxa100-week06-web-article-tucker-2012](../sources/fxa100-week06-web-article-tucker-2012.md)
+- [fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care](../sources/fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care.md)
+- [fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with](../sources/fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with.md)
+- [fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community](../sources/fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community.md)
+- [fxa303-week02-scientific-thinking-in-young-children-theoretical-advances](../sources/fxa303-week02-scientific-thinking-in-young-children-theoretical-advances.md)
+- [fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain](../sources/fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain.md)
+- [fxa303-week03-the-teen-brain](../sources/fxa303-week03-the-teen-brain.md)

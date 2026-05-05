@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: vips-framework
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Vips Framework

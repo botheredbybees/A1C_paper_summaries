@@ -9,13 +9,15 @@ appearances:
     week: "02"
   - unit: FXA303
     week: "02"
+  - unit: FXA303
+    week: "02"
 tags: ["child-development-theories", "play-therory", "creative-arts-interventions", "brain-neuroplasticity", "emotional-regulation-strategies", "fxa303"]
 key_concepts: ["Erikson's stages of psychosocial development", "Piaget's theory of cognitive development", "Vygotsky's social constructivism"]
 methods: ["literature-review"]
 slug: fxa303-week02-play-creative-arts-and-wellbeing
 related: ["creative-arts-interventions"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-05
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week02-play-creative-arts-and-wellbeing.md_

@@ -11,7 +11,7 @@ tags: ["community-engagement", "cultural-sensitivity", "art-therapy", "fxa100"]
 key_concepts: ["collaborative-art-projects", "ethical-considerations-in-art"]
 methods: ["case-study"]
 slug: fxa100-week04-making-art-with-communities-a-work-guide
-related: ["cultural-sensitivity"]
+related: ["art-therapy", "community-engagement", "cultural-sensitivity"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,4 +40,6 @@ The document 'Making Art with Communities: A Work Guide' is an extensive resourc
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
+- [community-engagement](../topics/community-engagement.md)
 - [cultural-sensitivity](../topics/cultural-sensitivity.md)

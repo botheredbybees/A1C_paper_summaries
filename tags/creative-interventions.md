@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-interventions
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Creative Interventions
@@ -11,6 +11,7 @@ updated: 2026-05-04
 - [Mindsong \u2013 transcript](../sources/fxa100-week04-mindsong-transcript.md)
 - [Playfully engaging people living with dementia: searching for Yum Cha moments](../sources/fxa100-week10-playfully-engaging-people-living-with-dementia-searching.md)
 - [Anna Mackintosh's Critical Reflection on Photographic Essay](../sources/fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay.md)
+- [Designing Creative Activities to Enhance Community Well-being and Identity](../sources/fxa301-make-arts-for-a-better-life-ch17-1-for-further-study-on-communication-channels.md)
 - [Creating Our Future: Spotlight on Health and Wellbeing](../sources/fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing.md)
 - [Mental Health and Wellbeing across the Life Course - Extract](../sources/fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract.md)
 - [Puppet-Assisted Play Therapy: Theory, Research, and Practice](../sources/fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice.md)

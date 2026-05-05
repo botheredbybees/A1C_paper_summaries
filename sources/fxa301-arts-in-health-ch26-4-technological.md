@@ -11,7 +11,7 @@ tags: ["arts-in-health", "intervention-planning", "reflective-cycle", "fxa301"]
 key_concepts: ["PESTLE analysis", "Kolb\u2019s Reflective Cycle", "discovery interviews"]
 methods: []
 slug: fxa301-arts-in-health-ch26-4-technological
-related: ["arts-in-health"]
+related: ["arts-in-health", "intervention-planning"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,3 +42,4 @@ This chapter discusses PESTLE analysis and its application in healthcare setting
 ## See Also
 
 - [arts-in-health](../topics/arts-in-health.md)
+- [intervention-planning](../topics/intervention-planning.md)

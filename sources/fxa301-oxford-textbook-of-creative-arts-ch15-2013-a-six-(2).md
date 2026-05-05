@@ -11,7 +11,7 @@ tags: ["creative-arts", "elderly-wellbeing", "community-engagement", "renewable-
 key_concepts: ["quality-of-life", "participatory-art", "community-value"]
 methods: []
 slug: fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2)
-related: ["creative-arts", "elderly-wellbeing", "renewable-energy"]
+related: ["community-engagement", "creative-arts", "elderly-wellbeing", "renewable-energy"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,6 +42,7 @@ The chapter discusses the Active Energy project, an initiative aimed at enhancin
 
 ## See Also
 
+- [community-engagement](../topics/community-engagement.md)
 - [creative-arts](../topics/creative-arts.md)
 - [elderly-wellbeing](../topics/elderly-wellbeing.md)
 - [renewable-energy](../topics/renewable-energy.md)

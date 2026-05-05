@@ -15,7 +15,10 @@ sources:
   - fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2
   - fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings
   - fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions
-updated: 2026-05-04
+  - fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam
+  - fxa303-week10-arts-education-and-society-the-role-of-the-arts-in
+  - fxa303-week10-yesterday-i-couldnt-see-tomorrows-sun-shines-now-sharing
+updated: 2026-05-05
 ---
 
 ## Social Inclusion Through Arts and Music
@@ -44,3 +47,6 @@ The synthesis of the provided sources highlights various interventions aimed at 
 - [fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2](../sources/fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2.md)
 - [fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings](../sources/fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings.md)
 - [fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions](../sources/fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions.md)
+- [fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam.md)
+- [fxa303-week10-arts-education-and-society-the-role-of-the-arts-in](../sources/fxa303-week10-arts-education-and-society-the-role-of-the-arts-in.md)
+- [fxa303-week10-yesterday-i-couldnt-see-tomorrows-sun-shines-now-sharing](../sources/fxa303-week10-yesterday-i-couldnt-see-tomorrows-sun-shines-now-sharing.md)

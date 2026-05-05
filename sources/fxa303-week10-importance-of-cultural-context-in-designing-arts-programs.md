@@ -11,7 +11,7 @@ tags: ["cultural-context", "arts-therapy", "mental-health", "community-engagemen
 key_concepts: ["cultural-sensitivity", "social-isolation", "arts-integration"]
 methods: ["case-study"]
 slug: fxa303-week10-importance-of-cultural-context-in-designing-arts-programs
-related: ["arts-therapy", "cultural-context", "mental-health", "refugee-support"]
+related: ["arts-therapy", "community-engagement", "cultural-context", "mental-health", "refugee-support"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -49,6 +49,7 @@ Additionally, the document explores arts-based programs for young asylum seekers
 ## See Also
 
 - [arts-therapy](../topics/arts-therapy.md)
+- [community-engagement](../topics/community-engagement.md)
 - [cultural-context](../topics/cultural-context.md)
 - [mental-health](../topics/mental-health.md)
 - [refugee-support](../topics/refugee-support.md)

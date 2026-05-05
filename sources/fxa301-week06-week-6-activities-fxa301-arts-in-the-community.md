@@ -11,7 +11,7 @@ tags: ["music-health", "dance-wellbeing", "therapeutic-arts", "systematic-review
 key_concepts: ["active-participation", "health-and-wellbeing", "equity-in-research"]
 methods: ["systematic review"]
 slug: fxa301-week06-week-6-activities-fxa301-arts-in-the-community
-related: ["music-health", "systematic-review", "therapeutic-arts"]
+related: ["community-engagement", "music-health", "systematic-review", "therapeutic-arts"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -47,6 +47,7 @@ The broader context of using music and dance for therapeutic purposes is further
 
 ## See Also
 
+- [community-engagement](../topics/community-engagement.md)
 - [music-health](../topics/music-health.md)
 - [systematic-review](../topics/systematic-review.md)
 - [therapeutic-arts](../topics/therapeutic-arts.md)

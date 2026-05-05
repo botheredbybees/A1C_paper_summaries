@@ -1,12 +1,13 @@
 ---
 type: tag
 tag: music-education
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Music Education
 
 - [Engaging in Community Music: An Introduction](../sources/fxa100-week04-engaging-in-community-music-an-introduction.md)
+- [Culture of Inquiry](../sources/fxa301-week01-culture-of-inquiry.md)
 - [An education in music makes you a better employee. Are recruiters in tune?](../sources/fxa301-week05-an-education-in-music-makes-you-a-better-employee-are.md)
 - [Fading Notes: Music Education for the Next Generation of Primary Teachers](../sources/fxa301-week05-fading-notes-music-education-for-the-next-generation-of.md)
 - [Week 5 Activities - FXA301 Arts in the Community](../sources/fxa301-week05-week-5-activities-fxa301-arts-in-the-community.md)

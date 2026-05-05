@@ -11,7 +11,7 @@ tags: ["art-therapy", "cancer-treatment", "community-building", "patient-care", 
 key_concepts: ["Arts in Medicine Program", "Therapeutic Benefits of Art"]
 methods: ["case study"]
 slug: fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our
-related: ["cancer-treatment", "community-building", "patient-care", "therapeutic-benefits"]
+related: ["art-therapy", "cancer-treatment", "community-building", "patient-care", "therapeutic-benefits"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,6 +42,7 @@ This article discusses a monumental dragon sculpture project called 'Okoa the Wa
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [cancer-treatment](../topics/cancer-treatment.md)
 - [community-building](../topics/community-building.md)
 - [patient-care](../topics/patient-care.md)

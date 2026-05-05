@@ -11,7 +11,7 @@ tags: ["community-engagement", "music-culture", "inclusive-activities", "fxa301"
 key_concepts: ["sense-of-belonging", "community-building"]
 methods: ["case-study"]
 slug: fxa301-week06-brisbanes-pub-choir-movement-marks-first-year
-related: ["music-culture"]
+related: ["community-engagement", "music-culture"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,4 +40,5 @@ The article discusses the success of Pub Choir, a community-based singing initia
 
 ## See Also
 
+- [community-engagement](../topics/community-engagement.md)
 - [music-culture](../topics/music-culture.md)

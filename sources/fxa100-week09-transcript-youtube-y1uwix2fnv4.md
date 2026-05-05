@@ -11,7 +11,7 @@ tags: ["drama-therapy", "creativity-in-aging", "improvisation", "fxa100"]
 key_concepts: ["storytelling", "facilitation", "expressive arts therapy"]
 methods: []
 slug: fxa100-week09-transcript-youtube-y1uwix2fnv4
-related: []
+related: ["drama-therapy", "improvisation"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,4 +41,5 @@ In this interview, Sally Bailey, a professor in the theater department and direc
 
 ## See Also
 
-*(none yet)*
+- [drama-therapy](../topics/drama-therapy.md)
+- [improvisation](../topics/improvisation.md)

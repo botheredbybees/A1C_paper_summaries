@@ -11,7 +11,7 @@ tags: ["museum-education", "community-engagement", "wellbeing-initiatives", "fxa
 key_concepts: ["well-being promotion", "environmental sustainability"]
 methods: ["case study"]
 slug: fxa301-week05-happy-museum-project-principles
-related: ["museum-education", "wellbeing-initiatives"]
+related: ["community-engagement", "museum-education", "wellbeing-initiatives"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,5 +40,6 @@ The Happy Museum Project outlines principles aimed at transforming museums into 
 
 ## See Also
 
+- [community-engagement](../topics/community-engagement.md)
 - [museum-education](../topics/museum-education.md)
 - [wellbeing-initiatives](../topics/wellbeing-initiatives.md)

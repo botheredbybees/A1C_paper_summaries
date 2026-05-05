@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-therapy
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Music Therapy
@@ -69,6 +69,7 @@ updated: 2026-05-04
 - [The Singer's Breath: Implications for Treatment of Persons with Emphysema](../sources/fxa100-week04-the-singers-breath-implications-for-treatment-of-persons.md)
 - [CALE Research Aged Care Deloraine Partnership - University of Tasmania](../sources/fxa100-week04-transcript-cale-research-aged-care-deloraine-partnership.md)
 - [Mind Song Music for Dementia](../sources/fxa100-week04-transcript-mind-song-music-for-dementia.md)
+- [MJHS Dementia Care: Music Therapy - MJHS Health System](../sources/fxa100-week04-transcript-mjhs-dementia-care-music-therapy-mjhs-health.md)
 - [Music Therapy and People with Advanced Dementia](../sources/fxa100-week04-transcript-music-therapy-and-people-with-advanced-dementia.md)
 - [Music Therapy for Individuals with Dementia](../sources/fxa100-week04-transcript-music-therapy-comforts-soothes-those-with-varying.md)
 - [Transcript: Music Therapy with Dementia](../sources/fxa100-week04-transcript-music-therapy-with-dementia-canadian-music.md)

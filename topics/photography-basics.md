@@ -5,10 +5,11 @@ title: "Photography Basics"
 confidence: medium
 tags: ["photography-basics"]
 sources:
+  - fxa202-week01-lesson-fxa202-week01-week-1
   - fxa202-week02-getting-to-know-your-camera
   - fxa202-week02-lesson-fxa202-week02-week-2
   - fxa202-week08-making-basic-adjustments-tutorial-at-gcflearnfree
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Photography Basics
@@ -31,6 +32,7 @@ Source 3 shifts focus to post-capture adjustments including cropping, resizing, 
 
 ## Sources
 
+- [fxa202-week01-lesson-fxa202-week01-week-1](../sources/fxa202-week01-lesson-fxa202-week01-week-1.md)
 - [fxa202-week02-getting-to-know-your-camera](../sources/fxa202-week02-getting-to-know-your-camera.md)
 - [fxa202-week02-lesson-fxa202-week02-week-2](../sources/fxa202-week02-lesson-fxa202-week02-week-2.md)
 - [fxa202-week08-making-basic-adjustments-tutorial-at-gcflearnfree](../sources/fxa202-week08-making-basic-adjustments-tutorial-at-gcflearnfree.md)

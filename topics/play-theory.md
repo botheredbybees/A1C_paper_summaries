@@ -5,10 +5,11 @@ title: "Play Theory"
 confidence: medium
 tags: ["play-theory"]
 sources:
+  - fxa100-week10-play-and-people-living-with-dementia-a-humanities-based
   - fxa303-week02-developmental-role-of-creative-arts-and-play
   - fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview
   - fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Play Theory
@@ -27,6 +28,7 @@ The sources collectively explore the developmental role of play and creative art
 
 ## Sources
 
+- [fxa100-week10-play-and-people-living-with-dementia-a-humanities-based](../sources/fxa100-week10-play-and-people-living-with-dementia-a-humanities-based.md)
 - [fxa303-week02-developmental-role-of-creative-arts-and-play](../sources/fxa303-week02-developmental-role-of-creative-arts-and-play.md)
 - [fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview](../sources/fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview.md)
 - [fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental](../sources/fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental.md)

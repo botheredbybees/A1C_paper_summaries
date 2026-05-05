@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychosocial-theory
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Psychosocial Theory

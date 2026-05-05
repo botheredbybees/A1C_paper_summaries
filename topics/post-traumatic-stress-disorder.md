@@ -7,7 +7,9 @@ tags: ["post-traumatic-stress-disorder"]
 sources:
   - fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and
   - fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2)
-updated: 2026-05-03
+  - fxa303-week01-post-traumatic-stress-disorder-the-neurobiological-impact
+  - fxa303-week09-after-the-fires-looking-to-the-future-using-the-lessons
+updated: 2026-05-05
 ---
 
 ## Post-Traumatic Stress Disorder Treatments
@@ -28,3 +30,5 @@ The current treatments for Post-Traumatic Stress Disorder (PTSD) emphasize cogni
 
 - [fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and](../sources/fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and.md)
 - [fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2)](../sources/fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2).md)
+- [fxa303-week01-post-traumatic-stress-disorder-the-neurobiological-impact](../sources/fxa303-week01-post-traumatic-stress-disorder-the-neurobiological-impact.md)
+- [fxa303-week09-after-the-fires-looking-to-the-future-using-the-lessons](../sources/fxa303-week09-after-the-fires-looking-to-the-future-using-the-lessons.md)

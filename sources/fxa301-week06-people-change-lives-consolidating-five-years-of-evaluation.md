@@ -11,7 +11,7 @@ tags: ["youth-development", "community-engagement", "music-education", "health-i
 key_concepts: ["long-term-supportive-relationships", "transformative-effects-on-youth", "addressing-health-inequalities"]
 methods: ["program-evaluation"]
 slug: fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation
-related: ["health-inequalities", "music-education", "youth-development"]
+related: ["community-engagement", "health-inequalities", "music-education", "youth-development"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,6 +43,7 @@ This report consolidates the findings from five years of evaluation conducted by
 
 ## See Also
 
+- [community-engagement](../topics/community-engagement.md)
 - [health-inequalities](../topics/health-inequalities.md)
 - [music-education](../topics/music-education.md)
 - [youth-development](../topics/youth-development.md)

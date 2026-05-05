@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hip-hop-culture
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Hip Hop Culture

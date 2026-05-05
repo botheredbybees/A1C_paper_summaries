@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: scientific-methods
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Scientific Methods

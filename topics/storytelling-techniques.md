@@ -7,8 +7,9 @@ tags: ["storytelling-techniques"]
 sources:
   - fxa202-week05-week-5-introduction-to-storytelling
   - fxa202-week05-where-do-you-get-your-ideas
+  - fxa202-week06-lesson-fxa202-week06-page-2
   - fxa202-week09-fxa202-week-9-web-lecture-the-photo-essay-storytelling-with
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Storytelling Techniques
@@ -29,4 +30,5 @@ The sources highlight various storytelling techniques that utilize different for
 
 - [fxa202-week05-week-5-introduction-to-storytelling](../sources/fxa202-week05-week-5-introduction-to-storytelling.md)
 - [fxa202-week05-where-do-you-get-your-ideas](../sources/fxa202-week05-where-do-you-get-your-ideas.md)
+- [fxa202-week06-lesson-fxa202-week06-page-2](../sources/fxa202-week06-lesson-fxa202-week06-page-2.md)
 - [fxa202-week09-fxa202-week-9-web-lecture-the-photo-essay-storytelling-with](../sources/fxa202-week09-fxa202-week-9-web-lecture-the-photo-essay-storytelling-with.md)

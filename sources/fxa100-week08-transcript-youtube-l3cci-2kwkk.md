@@ -11,7 +11,7 @@ tags: ["alzheimer-s-disease", "art-therapy", "self-expression", "memory-loss", "
 key_concepts: ["memories in the making program", "non-verbal communication", "creative expression"]
 methods: []
 slug: fxa100-week08-transcript-youtube-l3cci-2kwkk
-related: ["alzheimer-s-disease", "memory-loss", "self-expression"]
+related: ["alzheimer-s-disease", "art-therapy", "memory-loss", "self-expression"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,5 +43,6 @@ The transcript discusses Sully Jenny's pioneering work on using art therapy to c
 ## See Also
 
 - [alzheimer-s-disease](../topics/alzheimer-s-disease.md)
+- [art-therapy](../topics/art-therapy.md)
 - [memory-loss](../topics/memory-loss.md)
 - [self-expression](../topics/self-expression.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: behavioral-disorders
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Behavioral Disorders

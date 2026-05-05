@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: person-centered-therapy
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Person Centered Therapy

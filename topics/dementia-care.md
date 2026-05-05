@@ -8,18 +8,173 @@ sources:
   - fxa100-creativity-and-communication-ch01-10-playing-with-mud-ceramics-and-clay-claire-craig-clay-is
   - fxa100-creativity-and-communication-ch02-15-putting-the-it-into-creativity-exploring-the-creative
   - fxa100-creativity-and-communication-ch06-5-moving-in-the-moment-dance-john-killick-in-the-previous
+  - fxa100-creativity-and-communication-ch07-7-making-it-all-up-improvisation-and-other-dramas-john
+  - fxa100-creativity-and-communication-ch09-19-starting-out-in-any-creative-endeavour-of-this-nature
+  - fxa100-creativity-and-communication-ch10-20-drilling-down-to-the-detail-once-you-have-established
+  - fxa100-creativity-and-communication-ch11-21-giving-creativity-a-shape-creativity-takes-many-forms
+  - fxa100-creativity-and-communication-ch13-23-making-space-for-your-own-creativity-making-space-for
+  - fxa100-excellence-in-dementia-care--ch01-chapter-10
+  - fxa100-excellence-in-dementia-care--ch02-chapter-11
+  - fxa100-excellence-in-dementia-care--ch03-chapter-12
+  - fxa100-excellence-in-dementia-care--ch04-chapter-14
+  - fxa100-excellence-in-dementia-care--ch09-chapter-15
+  - fxa100-excellence-in-dementia-care--ch10-chapter-15
+  - fxa100-excellence-in-dementia-care--ch11-chapter-17
+  - fxa100-excellence-in-dementia-care--ch12-chapter-14
+  - fxa100-excellence-in-dementia-care--ch13-chapter-16
+  - fxa100-excellence-in-dementia-care--ch23-2-there-is-no-doubt-that-one-of-the-major-changes-we-see-in
+  - fxa100-excellence-in-dementia-care--ch29-chapter-17
+  - fxa100-excellence-in-dementia-care--ch36-chapter-4
+  - fxa100-excellence-in-dementia-care--ch38-4-it-allows-for-the-ethical-decision
+  - fxa100-excellence-in-dementia-care--ch40-chapter-14
+  - fxa100-excellence-in-dementia-care--ch42-1-there-is-a-stereotypic-view
+  - fxa100-excellence-in-dementia-care--ch47-chapter-17
+  - fxa100-excellence-in-dementia-care--ch50-chapter-14
+  - fxa100-excellence-in-dementia-care--ch52-1-there-is-a-stereotypic-view
+  - fxa100-excellence-in-dementia-care--ch57-chapter-17
+  - fxa100-excellence-in-dementia-care--ch60-chapter-11
+  - fxa100-how-we-thnk-about-dementia-ch10-chapter-5
+  - fxa100-how-we-thnk-about-dementia-ch12-chapter-4
+  - fxa100-how-we-thnk-about-dementia-ch15-chapter-9
+  - fxa100-how-we-thnk-about-dementia-ch16-chapter-14
+  - fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia
+  - fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes
   - fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care
+  - fxa100-week01-lesson-fxa100-week01-page-1-welcome-to-week-1
   - fxa100-week01-lesson-fxa100-week01-page-3-week-1-activities
   - fxa100-week01-national-dementia-action-plan-indicators-dashboard
   - fxa100-week02-fxa100-week-2-lecture-music-and-the-brain
   - fxa100-week02-introduction-to-week-2-music-and-the-brain
   - fxa100-week03-5-tips-for-cultural-and-religious-appropriate-dementia-care
   - fxa100-week03-evaluation-of-the-music-and-memory-program-among-nursing
+  - fxa100-week03-final-report-wisconsin-music-memory-program-student
   - fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind
   - fxa100-week03-implementation-survey-results-wisconsin-music-memory-program
   - fxa100-week03-introduction-to-week-3-listening-to-music
+  - fxa100-week03-lesson-fxa100-week03-page-1-welcome-to-week-3
+  - fxa100-week03-lesson-fxa100-week03-page-2-listening-and-dementia-care
+  - fxa100-week03-lesson-fxa100-week03-page-4-week-3-activities1
+  - fxa100-week03-listening-and-dementia-care
+  - fxa100-week03-music-therapy-increases-social-and-emotional-well-being-in
+  - fxa100-week03-pearl-85-and-living-with-dementia-adds-another-string-to
+  - fxa100-week03-personalized-music-for-persons-with-dementia-and-their-life
+  - fxa100-week03-the-power-of-music-and-dementia
+  - fxa100-week03-the-short-term-impact-of-music-interventions-on-stress
+  - fxa100-week03-transcript-interview-with-alexa-transcript
+  - fxa100-week03-transcript-music-memory-the-ipod-project
+  - fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care
   - fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care
-updated: 2026-05-03
+  - fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care
+  - fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for
+  - fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-(2)
+  - fxa100-week04-intergenerational-choir-transcript
+  - fxa100-week04-interventions-for-dementia-care
+  - fxa100-week04-lesson-fxa100-week04-page-1-welcome-to-week-4
+  - fxa100-week04-lesson-fxa100-week04-page-2-music-therapy-benefits
+  - fxa100-week04-lesson-fxa100-week04-page-3-singing
+  - fxa100-week04-mindsong-transcript
+  - fxa100-week04-music-therapy-and-dementia-video-transcript
+  - fxa100-week04-music-therapy-and-music-assisted-caregiving-for-dementia
+  - fxa100-week04-music-therapy-benefits-fxa100-the-arts-and-dementia-care
+  - fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees
+  - fxa100-week04-person-centred-language-guidelines
+  - fxa100-week04-singing-and-participation
+  - fxa100-week04-singing-and-the-brain
+  - fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients
+  - fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the
+  - fxa100-week04-the-effect-of-music-therapy-compared-with-general
+  - fxa100-week04-the-effect-of-singing-on-alert-responses-in-persons-with
+  - fxa100-week04-the-impact-of-caregivers-singing-on-expressions-of-emotion
+  - fxa100-week04-the-ripple-effect-towards-researching-improvisational-music
+  - fxa100-week04-transcript-mind-song-music-for-dementia
+  - fxa100-week04-transcript-mjhs-dementia-care-music-therapy-mjhs-health
+  - fxa100-week04-transcript-music-therapy-and-people-with-advanced-dementia
+  - fxa100-week04-transcript-music-therapy-comforts-soothes-those-with-varying
+  - fxa100-week04-transcript-music-therapy-with-dementia-canadian-music
+  - fxa100-week04-transcript-what-is-singing-for-the-brain
+  - fxa100-week04-web-article-dementia-2022
+  - fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care
+  - fxa100-week04-what-is-singing-for-the-brain
+  - fxa100-week06-art-creativity
+  - fxa100-week06-dementia-and-imagination-a-mixed-methods-protocol-for-arts
+  - fxa100-week06-how-creating-sculpture-benefits-people-with-dementia
+  - fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of
+  - fxa100-week06-lesson-fxa100-week06-page-1-welcome-to-week-6
+  - fxa100-week06-lesson-fxa100-week06-page-2-visual-arts-and-the-brain
+  - fxa100-week06-lesson-fxa100-week06-page-3-the-arts-and-art-therapy
+  - fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities
+  - fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to
+  - fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life
+  - fxa100-week06-the-role-of-the-visual-arts-in-the-resilience-of-people
+  - fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care
+  - fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia
+  - fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales
+  - fxa100-week07-artful-art-and-dementia-toolkit
+  - fxa100-week07-arts-engagement-for-people-with-dementia-independent
+  - fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery
+  - fxa100-week07-connecting-with-and-through-art-arts-engagement-for
+  - fxa100-week07-creating-resources-memory-trees-and-boxes
+  - fxa100-week07-dementia-and-our-mob-caring-for-spirit
+  - fxa100-week07-for-visitors-with-dementia
+  - fxa100-week07-fxa100-week-7-lecture
+  - fxa100-week07-house-of-memories-national-museums-liverpool
+  - fxa100-week07-interventions-dementia-services-information-and-development
+  - fxa100-week07-lesson-fxa100-week07-inside-and-outside-the-galleries
+  - fxa100-week07-lesson-fxa100-week07-page-4-activities
+  - fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum
+  - fxa100-week07-nurturing-the-heart-creativity-art-therapy-and-dementia
+  - fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people
+  - fxa100-week07-two-art-museum-programs-for-people-with-dementia
+  - fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery
+  - fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of
+  - fxa100-week08-creativity-and-communication-in-persons-with-dementia
+  - fxa100-week08-creativity-and-communication-in-persons-with-dementia-a
+  - fxa100-week08-it-makes-me-feel-like-myself-person-centered-versus
+  - fxa100-week08-lesson-fxa100-week07-page-1-welcome-to-week-7
+  - fxa100-week08-lesson-fxa100-week07-page-2-communication-and-creativity
+  - fxa100-week08-lesson-fxa100-week07-page-3-stimulating-engagement
+  - fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia
+  - fxa100-week08-research-informed-approaches-to-visual-arts-programmes
+  - fxa100-week08-the-use-of-creative-activities-in-dementia-in-residential
+  - fxa100-week08-transcript-hayes-j-2011-the-creative-arts-in-dementia-care
+  - fxa100-week08-transcript-youtube-uk9nnjw4xuuduration
+  - fxa100-week08-unlocking-the-door-to-being-there-the-contribution-of
+  - fxa100-week08-week-8-lecture-art-therapy-in-dementia-care
+  - fxa100-week08-what-are-the-required-elements-needed-to-create-an
+  - fxa100-week08-why-the-arts
+  - fxa100-week09-implementing-living-room-theatre-activities-for-people-with
+  - fxa100-week09-implementing-living-room-theatre-activities-for-people-with-(2)
+  - fxa100-week09-improving-care-the-next-step-forward
+  - fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags
+  - fxa100-week09-lesson-fxa100-week09-page-3-theatre-play-and-dementia
+  - fxa100-week09-lesson-fxa100-week09-page-4-week-8-activities
+  - fxa100-week09-personhood-maintained
+  - fxa100-week09-requirements-of-a-caregiver
+  - fxa100-week09-testing-the-implementation-of-the-veder-contact-method-a
+  - fxa100-week09-week-9-lecture-dramatherapy-dance-therapy-and-applied
+  - fxa100-week10-lesson-fxa100-week10-page-1-welcome-to-week-9
+  - fxa100-week10-lesson-fxa100-week10-page-2-play-and-its-applications-in
+  - fxa100-week10-lesson-fxa100-week10-page-4-week-9-activities
+  - fxa100-week10-play-and-people-living-with-dementia-a-humanities-based
+  - fxa100-week10-playfully-engaging-people-living-with-dementia-searching
+  - fxa100-week10-sundown-syndrome-in-persons-with-dementia-an-update
+  - fxa100-week10-the-impact-of-timeslips-a-creative-expression-intervention
+  - fxa100-week10-transcript-in-april-and-may-2012-during-the-tour-of
+  - fxa100-week10-transcript-inside-out-of-mind-audience-feedback-lakeside-arts
+  - fxa100-week10-transcript-the-elderflowers-arts-in-health-program-uses
+  - fxa100-week10-transcript-this-trailer-gives-an-overview-of-the-play-and
+  - fxa100-week10-transforming-dementia-care-through-theatre
+  - fxa100-week10-week-10-lecture-theatre-and-play-in-dementia-care
+  - fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay
+  - fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family
+  - fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment
+  - fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1
+  - fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2
+  - fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a
+  - fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an
+  - fxa303-week08-therapeutic-clowning
+  - fxa303-week10-role-of-art-centres-for-aboriginal-australians-living-with
+updated: 2026-05-05
 ---
 
 ## Dementia Care Interventions
@@ -41,14 +196,169 @@ The integration of creative arts and technology in dementia care reveals diverse
 - [fxa100-creativity-and-communication-ch01-10-playing-with-mud-ceramics-and-clay-claire-craig-clay-is](../sources/fxa100-creativity-and-communication-ch01-10-playing-with-mud-ceramics-and-clay-claire-craig-clay-is.md)
 - [fxa100-creativity-and-communication-ch02-15-putting-the-it-into-creativity-exploring-the-creative](../sources/fxa100-creativity-and-communication-ch02-15-putting-the-it-into-creativity-exploring-the-creative.md)
 - [fxa100-creativity-and-communication-ch06-5-moving-in-the-moment-dance-john-killick-in-the-previous](../sources/fxa100-creativity-and-communication-ch06-5-moving-in-the-moment-dance-john-killick-in-the-previous.md)
+- [fxa100-creativity-and-communication-ch07-7-making-it-all-up-improvisation-and-other-dramas-john](../sources/fxa100-creativity-and-communication-ch07-7-making-it-all-up-improvisation-and-other-dramas-john.md)
+- [fxa100-creativity-and-communication-ch09-19-starting-out-in-any-creative-endeavour-of-this-nature](../sources/fxa100-creativity-and-communication-ch09-19-starting-out-in-any-creative-endeavour-of-this-nature.md)
+- [fxa100-creativity-and-communication-ch10-20-drilling-down-to-the-detail-once-you-have-established](../sources/fxa100-creativity-and-communication-ch10-20-drilling-down-to-the-detail-once-you-have-established.md)
+- [fxa100-creativity-and-communication-ch11-21-giving-creativity-a-shape-creativity-takes-many-forms](../sources/fxa100-creativity-and-communication-ch11-21-giving-creativity-a-shape-creativity-takes-many-forms.md)
+- [fxa100-creativity-and-communication-ch13-23-making-space-for-your-own-creativity-making-space-for](../sources/fxa100-creativity-and-communication-ch13-23-making-space-for-your-own-creativity-making-space-for.md)
+- [fxa100-excellence-in-dementia-care--ch01-chapter-10](../sources/fxa100-excellence-in-dementia-care--ch01-chapter-10.md)
+- [fxa100-excellence-in-dementia-care--ch02-chapter-11](../sources/fxa100-excellence-in-dementia-care--ch02-chapter-11.md)
+- [fxa100-excellence-in-dementia-care--ch03-chapter-12](../sources/fxa100-excellence-in-dementia-care--ch03-chapter-12.md)
+- [fxa100-excellence-in-dementia-care--ch04-chapter-14](../sources/fxa100-excellence-in-dementia-care--ch04-chapter-14.md)
+- [fxa100-excellence-in-dementia-care--ch09-chapter-15](../sources/fxa100-excellence-in-dementia-care--ch09-chapter-15.md)
+- [fxa100-excellence-in-dementia-care--ch10-chapter-15](../sources/fxa100-excellence-in-dementia-care--ch10-chapter-15.md)
+- [fxa100-excellence-in-dementia-care--ch11-chapter-17](../sources/fxa100-excellence-in-dementia-care--ch11-chapter-17.md)
+- [fxa100-excellence-in-dementia-care--ch12-chapter-14](../sources/fxa100-excellence-in-dementia-care--ch12-chapter-14.md)
+- [fxa100-excellence-in-dementia-care--ch13-chapter-16](../sources/fxa100-excellence-in-dementia-care--ch13-chapter-16.md)
+- [fxa100-excellence-in-dementia-care--ch23-2-there-is-no-doubt-that-one-of-the-major-changes-we-see-in](../sources/fxa100-excellence-in-dementia-care--ch23-2-there-is-no-doubt-that-one-of-the-major-changes-we-see-in.md)
+- [fxa100-excellence-in-dementia-care--ch29-chapter-17](../sources/fxa100-excellence-in-dementia-care--ch29-chapter-17.md)
+- [fxa100-excellence-in-dementia-care--ch36-chapter-4](../sources/fxa100-excellence-in-dementia-care--ch36-chapter-4.md)
+- [fxa100-excellence-in-dementia-care--ch38-4-it-allows-for-the-ethical-decision](../sources/fxa100-excellence-in-dementia-care--ch38-4-it-allows-for-the-ethical-decision.md)
+- [fxa100-excellence-in-dementia-care--ch40-chapter-14](../sources/fxa100-excellence-in-dementia-care--ch40-chapter-14.md)
+- [fxa100-excellence-in-dementia-care--ch42-1-there-is-a-stereotypic-view](../sources/fxa100-excellence-in-dementia-care--ch42-1-there-is-a-stereotypic-view.md)
+- [fxa100-excellence-in-dementia-care--ch47-chapter-17](../sources/fxa100-excellence-in-dementia-care--ch47-chapter-17.md)
+- [fxa100-excellence-in-dementia-care--ch50-chapter-14](../sources/fxa100-excellence-in-dementia-care--ch50-chapter-14.md)
+- [fxa100-excellence-in-dementia-care--ch52-1-there-is-a-stereotypic-view](../sources/fxa100-excellence-in-dementia-care--ch52-1-there-is-a-stereotypic-view.md)
+- [fxa100-excellence-in-dementia-care--ch57-chapter-17](../sources/fxa100-excellence-in-dementia-care--ch57-chapter-17.md)
+- [fxa100-excellence-in-dementia-care--ch60-chapter-11](../sources/fxa100-excellence-in-dementia-care--ch60-chapter-11.md)
+- [fxa100-how-we-thnk-about-dementia-ch10-chapter-5](../sources/fxa100-how-we-thnk-about-dementia-ch10-chapter-5.md)
+- [fxa100-how-we-thnk-about-dementia-ch12-chapter-4](../sources/fxa100-how-we-thnk-about-dementia-ch12-chapter-4.md)
+- [fxa100-how-we-thnk-about-dementia-ch15-chapter-9](../sources/fxa100-how-we-thnk-about-dementia-ch15-chapter-9.md)
+- [fxa100-how-we-thnk-about-dementia-ch16-chapter-14](../sources/fxa100-how-we-thnk-about-dementia-ch16-chapter-14.md)
+- [fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia](../sources/fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia.md)
+- [fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes](../sources/fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes.md)
 - [fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care](../sources/fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care.md)
+- [fxa100-week01-lesson-fxa100-week01-page-1-welcome-to-week-1](../sources/fxa100-week01-lesson-fxa100-week01-page-1-welcome-to-week-1.md)
 - [fxa100-week01-lesson-fxa100-week01-page-3-week-1-activities](../sources/fxa100-week01-lesson-fxa100-week01-page-3-week-1-activities.md)
 - [fxa100-week01-national-dementia-action-plan-indicators-dashboard](../sources/fxa100-week01-national-dementia-action-plan-indicators-dashboard.md)
 - [fxa100-week02-fxa100-week-2-lecture-music-and-the-brain](../sources/fxa100-week02-fxa100-week-2-lecture-music-and-the-brain.md)
 - [fxa100-week02-introduction-to-week-2-music-and-the-brain](../sources/fxa100-week02-introduction-to-week-2-music-and-the-brain.md)
 - [fxa100-week03-5-tips-for-cultural-and-religious-appropriate-dementia-care](../sources/fxa100-week03-5-tips-for-cultural-and-religious-appropriate-dementia-care.md)
 - [fxa100-week03-evaluation-of-the-music-and-memory-program-among-nursing](../sources/fxa100-week03-evaluation-of-the-music-and-memory-program-among-nursing.md)
+- [fxa100-week03-final-report-wisconsin-music-memory-program-student](../sources/fxa100-week03-final-report-wisconsin-music-memory-program-student.md)
 - [fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind](../sources/fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind.md)
 - [fxa100-week03-implementation-survey-results-wisconsin-music-memory-program](../sources/fxa100-week03-implementation-survey-results-wisconsin-music-memory-program.md)
 - [fxa100-week03-introduction-to-week-3-listening-to-music](../sources/fxa100-week03-introduction-to-week-3-listening-to-music.md)
+- [fxa100-week03-lesson-fxa100-week03-page-1-welcome-to-week-3](../sources/fxa100-week03-lesson-fxa100-week03-page-1-welcome-to-week-3.md)
+- [fxa100-week03-lesson-fxa100-week03-page-2-listening-and-dementia-care](../sources/fxa100-week03-lesson-fxa100-week03-page-2-listening-and-dementia-care.md)
+- [fxa100-week03-lesson-fxa100-week03-page-4-week-3-activities1](../sources/fxa100-week03-lesson-fxa100-week03-page-4-week-3-activities1.md)
+- [fxa100-week03-listening-and-dementia-care](../sources/fxa100-week03-listening-and-dementia-care.md)
+- [fxa100-week03-music-therapy-increases-social-and-emotional-well-being-in](../sources/fxa100-week03-music-therapy-increases-social-and-emotional-well-being-in.md)
+- [fxa100-week03-pearl-85-and-living-with-dementia-adds-another-string-to](../sources/fxa100-week03-pearl-85-and-living-with-dementia-adds-another-string-to.md)
+- [fxa100-week03-personalized-music-for-persons-with-dementia-and-their-life](../sources/fxa100-week03-personalized-music-for-persons-with-dementia-and-their-life.md)
+- [fxa100-week03-the-power-of-music-and-dementia](../sources/fxa100-week03-the-power-of-music-and-dementia.md)
+- [fxa100-week03-the-short-term-impact-of-music-interventions-on-stress](../sources/fxa100-week03-the-short-term-impact-of-music-interventions-on-stress.md)
+- [fxa100-week03-transcript-interview-with-alexa-transcript](../sources/fxa100-week03-transcript-interview-with-alexa-transcript.md)
+- [fxa100-week03-transcript-music-memory-the-ipod-project](../sources/fxa100-week03-transcript-music-memory-the-ipod-project.md)
+- [fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care](../sources/fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care.md)
 - [fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care](../sources/fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care.md)
+- [fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care](../sources/fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care.md)
+- [fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for](../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for.md)
+- [fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-(2)](../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-(2).md)
+- [fxa100-week04-intergenerational-choir-transcript](../sources/fxa100-week04-intergenerational-choir-transcript.md)
+- [fxa100-week04-interventions-for-dementia-care](../sources/fxa100-week04-interventions-for-dementia-care.md)
+- [fxa100-week04-lesson-fxa100-week04-page-1-welcome-to-week-4](../sources/fxa100-week04-lesson-fxa100-week04-page-1-welcome-to-week-4.md)
+- [fxa100-week04-lesson-fxa100-week04-page-2-music-therapy-benefits](../sources/fxa100-week04-lesson-fxa100-week04-page-2-music-therapy-benefits.md)
+- [fxa100-week04-lesson-fxa100-week04-page-3-singing](../sources/fxa100-week04-lesson-fxa100-week04-page-3-singing.md)
+- [fxa100-week04-mindsong-transcript](../sources/fxa100-week04-mindsong-transcript.md)
+- [fxa100-week04-music-therapy-and-dementia-video-transcript](../sources/fxa100-week04-music-therapy-and-dementia-video-transcript.md)
+- [fxa100-week04-music-therapy-and-music-assisted-caregiving-for-dementia](../sources/fxa100-week04-music-therapy-and-music-assisted-caregiving-for-dementia.md)
+- [fxa100-week04-music-therapy-benefits-fxa100-the-arts-and-dementia-care](../sources/fxa100-week04-music-therapy-benefits-fxa100-the-arts-and-dementia-care.md)
+- [fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees](../sources/fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees.md)
+- [fxa100-week04-person-centred-language-guidelines](../sources/fxa100-week04-person-centred-language-guidelines.md)
+- [fxa100-week04-singing-and-participation](../sources/fxa100-week04-singing-and-participation.md)
+- [fxa100-week04-singing-and-the-brain](../sources/fxa100-week04-singing-and-the-brain.md)
+- [fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients](../sources/fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients.md)
+- [fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the](../sources/fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the.md)
+- [fxa100-week04-the-effect-of-music-therapy-compared-with-general](../sources/fxa100-week04-the-effect-of-music-therapy-compared-with-general.md)
+- [fxa100-week04-the-effect-of-singing-on-alert-responses-in-persons-with](../sources/fxa100-week04-the-effect-of-singing-on-alert-responses-in-persons-with.md)
+- [fxa100-week04-the-impact-of-caregivers-singing-on-expressions-of-emotion](../sources/fxa100-week04-the-impact-of-caregivers-singing-on-expressions-of-emotion.md)
+- [fxa100-week04-the-ripple-effect-towards-researching-improvisational-music](../sources/fxa100-week04-the-ripple-effect-towards-researching-improvisational-music.md)
+- [fxa100-week04-transcript-mind-song-music-for-dementia](../sources/fxa100-week04-transcript-mind-song-music-for-dementia.md)
+- [fxa100-week04-transcript-mjhs-dementia-care-music-therapy-mjhs-health](../sources/fxa100-week04-transcript-mjhs-dementia-care-music-therapy-mjhs-health.md)
+- [fxa100-week04-transcript-music-therapy-and-people-with-advanced-dementia](../sources/fxa100-week04-transcript-music-therapy-and-people-with-advanced-dementia.md)
+- [fxa100-week04-transcript-music-therapy-comforts-soothes-those-with-varying](../sources/fxa100-week04-transcript-music-therapy-comforts-soothes-those-with-varying.md)
+- [fxa100-week04-transcript-music-therapy-with-dementia-canadian-music](../sources/fxa100-week04-transcript-music-therapy-with-dementia-canadian-music.md)
+- [fxa100-week04-transcript-what-is-singing-for-the-brain](../sources/fxa100-week04-transcript-what-is-singing-for-the-brain.md)
+- [fxa100-week04-web-article-dementia-2022](../sources/fxa100-week04-web-article-dementia-2022.md)
+- [fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care](../sources/fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care.md)
+- [fxa100-week04-what-is-singing-for-the-brain](../sources/fxa100-week04-what-is-singing-for-the-brain.md)
+- [fxa100-week06-art-creativity](../sources/fxa100-week06-art-creativity.md)
+- [fxa100-week06-dementia-and-imagination-a-mixed-methods-protocol-for-arts](../sources/fxa100-week06-dementia-and-imagination-a-mixed-methods-protocol-for-arts.md)
+- [fxa100-week06-how-creating-sculpture-benefits-people-with-dementia](../sources/fxa100-week06-how-creating-sculpture-benefits-people-with-dementia.md)
+- [fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of](../sources/fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of.md)
+- [fxa100-week06-lesson-fxa100-week06-page-1-welcome-to-week-6](../sources/fxa100-week06-lesson-fxa100-week06-page-1-welcome-to-week-6.md)
+- [fxa100-week06-lesson-fxa100-week06-page-2-visual-arts-and-the-brain](../sources/fxa100-week06-lesson-fxa100-week06-page-2-visual-arts-and-the-brain.md)
+- [fxa100-week06-lesson-fxa100-week06-page-3-the-arts-and-art-therapy](../sources/fxa100-week06-lesson-fxa100-week06-page-3-the-arts-and-art-therapy.md)
+- [fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities](../sources/fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities.md)
+- [fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to](../sources/fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to.md)
+- [fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life](../sources/fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life.md)
+- [fxa100-week06-the-role-of-the-visual-arts-in-the-resilience-of-people](../sources/fxa100-week06-the-role-of-the-visual-arts-in-the-resilience-of-people.md)
+- [fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care](../sources/fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care.md)
+- [fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia](../sources/fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia.md)
+- [fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales](../sources/fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales.md)
+- [fxa100-week07-artful-art-and-dementia-toolkit](../sources/fxa100-week07-artful-art-and-dementia-toolkit.md)
+- [fxa100-week07-arts-engagement-for-people-with-dementia-independent](../sources/fxa100-week07-arts-engagement-for-people-with-dementia-independent.md)
+- [fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery](../sources/fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery.md)
+- [fxa100-week07-connecting-with-and-through-art-arts-engagement-for](../sources/fxa100-week07-connecting-with-and-through-art-arts-engagement-for.md)
+- [fxa100-week07-creating-resources-memory-trees-and-boxes](../sources/fxa100-week07-creating-resources-memory-trees-and-boxes.md)
+- [fxa100-week07-dementia-and-our-mob-caring-for-spirit](../sources/fxa100-week07-dementia-and-our-mob-caring-for-spirit.md)
+- [fxa100-week07-for-visitors-with-dementia](../sources/fxa100-week07-for-visitors-with-dementia.md)
+- [fxa100-week07-fxa100-week-7-lecture](../sources/fxa100-week07-fxa100-week-7-lecture.md)
+- [fxa100-week07-house-of-memories-national-museums-liverpool](../sources/fxa100-week07-house-of-memories-national-museums-liverpool.md)
+- [fxa100-week07-interventions-dementia-services-information-and-development](../sources/fxa100-week07-interventions-dementia-services-information-and-development.md)
+- [fxa100-week07-lesson-fxa100-week07-inside-and-outside-the-galleries](../sources/fxa100-week07-lesson-fxa100-week07-inside-and-outside-the-galleries.md)
+- [fxa100-week07-lesson-fxa100-week07-page-4-activities](../sources/fxa100-week07-lesson-fxa100-week07-page-4-activities.md)
+- [fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum](../sources/fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum.md)
+- [fxa100-week07-nurturing-the-heart-creativity-art-therapy-and-dementia](../sources/fxa100-week07-nurturing-the-heart-creativity-art-therapy-and-dementia.md)
+- [fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people](../sources/fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people.md)
+- [fxa100-week07-two-art-museum-programs-for-people-with-dementia](../sources/fxa100-week07-two-art-museum-programs-for-people-with-dementia.md)
+- [fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery](../sources/fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery.md)
+- [fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of](../sources/fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of.md)
+- [fxa100-week08-creativity-and-communication-in-persons-with-dementia](../sources/fxa100-week08-creativity-and-communication-in-persons-with-dementia.md)
+- [fxa100-week08-creativity-and-communication-in-persons-with-dementia-a](../sources/fxa100-week08-creativity-and-communication-in-persons-with-dementia-a.md)
+- [fxa100-week08-it-makes-me-feel-like-myself-person-centered-versus](../sources/fxa100-week08-it-makes-me-feel-like-myself-person-centered-versus.md)
+- [fxa100-week08-lesson-fxa100-week07-page-1-welcome-to-week-7](../sources/fxa100-week08-lesson-fxa100-week07-page-1-welcome-to-week-7.md)
+- [fxa100-week08-lesson-fxa100-week07-page-2-communication-and-creativity](../sources/fxa100-week08-lesson-fxa100-week07-page-2-communication-and-creativity.md)
+- [fxa100-week08-lesson-fxa100-week07-page-3-stimulating-engagement](../sources/fxa100-week08-lesson-fxa100-week07-page-3-stimulating-engagement.md)
+- [fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia](../sources/fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia.md)
+- [fxa100-week08-research-informed-approaches-to-visual-arts-programmes](../sources/fxa100-week08-research-informed-approaches-to-visual-arts-programmes.md)
+- [fxa100-week08-the-use-of-creative-activities-in-dementia-in-residential](../sources/fxa100-week08-the-use-of-creative-activities-in-dementia-in-residential.md)
+- [fxa100-week08-transcript-hayes-j-2011-the-creative-arts-in-dementia-care](../sources/fxa100-week08-transcript-hayes-j-2011-the-creative-arts-in-dementia-care.md)
+- [fxa100-week08-transcript-youtube-uk9nnjw4xuuduration](../sources/fxa100-week08-transcript-youtube-uk9nnjw4xuuduration.md)
+- [fxa100-week08-unlocking-the-door-to-being-there-the-contribution-of](../sources/fxa100-week08-unlocking-the-door-to-being-there-the-contribution-of.md)
+- [fxa100-week08-week-8-lecture-art-therapy-in-dementia-care](../sources/fxa100-week08-week-8-lecture-art-therapy-in-dementia-care.md)
+- [fxa100-week08-what-are-the-required-elements-needed-to-create-an](../sources/fxa100-week08-what-are-the-required-elements-needed-to-create-an.md)
+- [fxa100-week08-why-the-arts](../sources/fxa100-week08-why-the-arts.md)
+- [fxa100-week09-implementing-living-room-theatre-activities-for-people-with](../sources/fxa100-week09-implementing-living-room-theatre-activities-for-people-with.md)
+- [fxa100-week09-implementing-living-room-theatre-activities-for-people-with-(2)](../sources/fxa100-week09-implementing-living-room-theatre-activities-for-people-with-(2).md)
+- [fxa100-week09-improving-care-the-next-step-forward](../sources/fxa100-week09-improving-care-the-next-step-forward.md)
+- [fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags](../sources/fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags.md)
+- [fxa100-week09-lesson-fxa100-week09-page-3-theatre-play-and-dementia](../sources/fxa100-week09-lesson-fxa100-week09-page-3-theatre-play-and-dementia.md)
+- [fxa100-week09-lesson-fxa100-week09-page-4-week-8-activities](../sources/fxa100-week09-lesson-fxa100-week09-page-4-week-8-activities.md)
+- [fxa100-week09-personhood-maintained](../sources/fxa100-week09-personhood-maintained.md)
+- [fxa100-week09-requirements-of-a-caregiver](../sources/fxa100-week09-requirements-of-a-caregiver.md)
+- [fxa100-week09-testing-the-implementation-of-the-veder-contact-method-a](../sources/fxa100-week09-testing-the-implementation-of-the-veder-contact-method-a.md)
+- [fxa100-week09-week-9-lecture-dramatherapy-dance-therapy-and-applied](../sources/fxa100-week09-week-9-lecture-dramatherapy-dance-therapy-and-applied.md)
+- [fxa100-week10-lesson-fxa100-week10-page-1-welcome-to-week-9](../sources/fxa100-week10-lesson-fxa100-week10-page-1-welcome-to-week-9.md)
+- [fxa100-week10-lesson-fxa100-week10-page-2-play-and-its-applications-in](../sources/fxa100-week10-lesson-fxa100-week10-page-2-play-and-its-applications-in.md)
+- [fxa100-week10-lesson-fxa100-week10-page-4-week-9-activities](../sources/fxa100-week10-lesson-fxa100-week10-page-4-week-9-activities.md)
+- [fxa100-week10-play-and-people-living-with-dementia-a-humanities-based](../sources/fxa100-week10-play-and-people-living-with-dementia-a-humanities-based.md)
+- [fxa100-week10-playfully-engaging-people-living-with-dementia-searching](../sources/fxa100-week10-playfully-engaging-people-living-with-dementia-searching.md)
+- [fxa100-week10-sundown-syndrome-in-persons-with-dementia-an-update](../sources/fxa100-week10-sundown-syndrome-in-persons-with-dementia-an-update.md)
+- [fxa100-week10-the-impact-of-timeslips-a-creative-expression-intervention](../sources/fxa100-week10-the-impact-of-timeslips-a-creative-expression-intervention.md)
+- [fxa100-week10-transcript-in-april-and-may-2012-during-the-tour-of](../sources/fxa100-week10-transcript-in-april-and-may-2012-during-the-tour-of.md)
+- [fxa100-week10-transcript-inside-out-of-mind-audience-feedback-lakeside-arts](../sources/fxa100-week10-transcript-inside-out-of-mind-audience-feedback-lakeside-arts.md)
+- [fxa100-week10-transcript-the-elderflowers-arts-in-health-program-uses](../sources/fxa100-week10-transcript-the-elderflowers-arts-in-health-program-uses.md)
+- [fxa100-week10-transcript-this-trailer-gives-an-overview-of-the-play-and](../sources/fxa100-week10-transcript-this-trailer-gives-an-overview-of-the-play-and.md)
+- [fxa100-week10-transforming-dementia-care-through-theatre](../sources/fxa100-week10-transforming-dementia-care-through-theatre.md)
+- [fxa100-week10-week-10-lecture-theatre-and-play-in-dementia-care](../sources/fxa100-week10-week-10-lecture-theatre-and-play-in-dementia-care.md)
+- [fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay](../sources/fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay.md)
+- [fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family](../sources/fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family.md)
+- [fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment.md)
+- [fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1](../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1.md)
+- [fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2](../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2.md)
+- [fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a](../sources/fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a.md)
+- [fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an](../sources/fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an.md)
+- [fxa303-week08-therapeutic-clowning](../sources/fxa303-week08-therapeutic-clowning.md)
+- [fxa303-week10-role-of-art-centres-for-aboriginal-australians-living-with](../sources/fxa303-week10-role-of-art-centres-for-aboriginal-australians-living-with.md)

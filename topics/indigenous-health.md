@@ -9,7 +9,12 @@ sources:
   - fxa100-week07-dementia-in-our-mob-and-around-the-world
   - fxa100-week07-high-prevalence-of-dementia-and-cognitive-impairment-in
   - fxa301-week03-national-arts-and-health-framework
-updated: 2026-05-04
+  - fxa303-week10-evidence-review-of-indigenous-culture-for-health-and
+  - fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the
+  - fxa303-week10-role-of-art-centres-for-aboriginal-australians-living-with
+  - fxa303-week10-using-the-arts-as-a-therapeutic-tool-for-counselling-an
+  - fxa303-week10-web-article-russ-smith-2023
+updated: 2026-05-05
 ---
 
 ## Indigenous Health Disparities in Dementia Care
@@ -32,3 +37,8 @@ The provided sources collectively explore the unique challenges faced by Indigen
 - [fxa100-week07-dementia-in-our-mob-and-around-the-world](../sources/fxa100-week07-dementia-in-our-mob-and-around-the-world.md)
 - [fxa100-week07-high-prevalence-of-dementia-and-cognitive-impairment-in](../sources/fxa100-week07-high-prevalence-of-dementia-and-cognitive-impairment-in.md)
 - [fxa301-week03-national-arts-and-health-framework](../sources/fxa301-week03-national-arts-and-health-framework.md)
+- [fxa303-week10-evidence-review-of-indigenous-culture-for-health-and](../sources/fxa303-week10-evidence-review-of-indigenous-culture-for-health-and.md)
+- [fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the](../sources/fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the.md)
+- [fxa303-week10-role-of-art-centres-for-aboriginal-australians-living-with](../sources/fxa303-week10-role-of-art-centres-for-aboriginal-australians-living-with.md)
+- [fxa303-week10-using-the-arts-as-a-therapeutic-tool-for-counselling-an](../sources/fxa303-week10-using-the-arts-as-a-therapeutic-tool-for-counselling-an.md)
+- [fxa303-week10-web-article-russ-smith-2023](../sources/fxa303-week10-web-article-russ-smith-2023.md)

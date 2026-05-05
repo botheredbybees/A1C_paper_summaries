@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: gaba-glutamate-balance
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Gaba Glutamate Balance

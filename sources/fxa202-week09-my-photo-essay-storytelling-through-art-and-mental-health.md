@@ -11,7 +11,7 @@ tags: ["mental-health", "art-therapy", "photography-research", "personal-narrati
 key_concepts: ["creative-expression", "healing-through-art", "non-verbal-communication"]
 methods: ["photo-essay", "case-study"]
 slug: fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health
-related: ["mental-health", "personal-narrative"]
+related: ["art-therapy", "mental-health", "personal-narrative"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,5 +44,6 @@ The document discusses a photo essay that explores the author's personal journey
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [mental-health](../topics/mental-health.md)
 - [personal-narrative](../topics/personal-narrative.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: inclusive-culture
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Inclusive Culture

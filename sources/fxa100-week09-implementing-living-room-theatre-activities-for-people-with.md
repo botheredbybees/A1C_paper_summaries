@@ -11,7 +11,7 @@ tags: ["dementia-care", "person-centered-care", "theatrical-therapy", "nursing-h
 key_concepts: ["Veder Method", "person-centered care", "executive support"]
 methods: ["process evaluation"]
 slug: fxa100-week09-implementing-living-room-theatre-activities-for-people-with
-related: ["dementia-care", "nursing-home-interventions", "person-centered-care", "theatrical-therapy"]
+related: ["dementia-care", "nursing-home-interventions", "person-centered-care", "process-evaluation", "theatrical-therapy"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,4 +46,5 @@ This study evaluates the implementation of a new communication method, the 'Vede
 - [dementia-care](../topics/dementia-care.md)
 - [nursing-home-interventions](../topics/nursing-home-interventions.md)
 - [person-centered-care](../topics/person-centered-care.md)
+- [process-evaluation](../topics/process-evaluation.md)
 - [theatrical-therapy](../topics/theatrical-therapy.md)

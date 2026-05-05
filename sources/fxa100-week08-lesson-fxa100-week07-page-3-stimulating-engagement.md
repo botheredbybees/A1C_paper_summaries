@@ -11,7 +11,7 @@ tags: ["dementia-care", "visual-arts-therapy", "community-engagement", "fxa100"]
 key_concepts: ["cognitive-stimulation", "art-therapies-in-dementia-care"]
 methods: []
 slug: fxa100-week08-lesson-fxa100-week07-page-3-stimulating-engagement
-related: ["dementia-care", "visual-arts-therapy"]
+related: ["community-engagement", "dementia-care", "visual-arts-therapy"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,5 +40,6 @@ This lesson explores how visual arts projects can enhance the quality of life fo
 
 ## See Also
 
+- [community-engagement](../topics/community-engagement.md)
 - [dementia-care](../topics/dementia-care.md)
 - [visual-arts-therapy](../topics/visual-arts-therapy.md)

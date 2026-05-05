@@ -5,9 +5,31 @@ title: "Creative Therapies in Mental Health"
 confidence: medium
 tags: ["mental-health-interventions"]
 sources:
+  - fxa100-week03-music-therapy-for-depression-it-seems-to-work-but-how
+  - fxa100-week04-guidelines-for-arts-and-mental-health-projects
+  - fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery
+  - fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2)
+  - fxa100-week09-week-9-lecture-dramatherapy-dance-therapy-and-applied
   - fxa202-week03-can-photography-help-depression
+  - fxa202-week03-what-is-therapeutic-photography
+  - fxa202-week08-photography-as-self-therapy-an-introduction-for-beginners
+  - fxa202-week09-expressive-writing-therapy-exercises-examples
+  - fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6
+  - fxa301-week01-arts-on-prescription-in-sefton-programme-report
+  - fxa301-week01-guidelines-for-arts-and-mental-health-projects
+  - fxa301-week08-health-related-effects-of-creative-and-expressive-writing
+  - fxa301-week10-arts-based-therapies-in-the-treatment-of-eating-disorders
+  - fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the
   - fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children
-updated: 2026-05-03
+  - fxa303-week03-arts-in-adolescence
+  - fxa303-week03-arts-on-prescription-observed-changes-in-anxiety-depression
+  - fxa303-week03-rebuilding-the-brain-with-psychotherapy
+  - fxa303-week04-autism-spectrum-disorder-the-impact-of-stressful-and
+  - fxa303-week06-therapeutic-puppetry-and-wellbeing
+  - fxa303-week08-therapeutic-clowning
+  - fxa303-week08-therapeutic-clowns-in-pediatrics-a-systematic-review-and
+  - fxa303-week10-indigenous-and-traditional-visual-artistic-practices
+updated: 2026-05-05
 ---
 
 ## Creative Therapies in Mental Health
@@ -26,5 +48,27 @@ The exploration of creative therapies such as photography and play offers unique
 
 ## Sources
 
+- [fxa100-week03-music-therapy-for-depression-it-seems-to-work-but-how](../sources/fxa100-week03-music-therapy-for-depression-it-seems-to-work-but-how.md)
+- [fxa100-week04-guidelines-for-arts-and-mental-health-projects](../sources/fxa100-week04-guidelines-for-arts-and-mental-health-projects.md)
+- [fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery](../sources/fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery.md)
+- [fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2)](../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2).md)
+- [fxa100-week09-week-9-lecture-dramatherapy-dance-therapy-and-applied](../sources/fxa100-week09-week-9-lecture-dramatherapy-dance-therapy-and-applied.md)
 - [fxa202-week03-can-photography-help-depression](../sources/fxa202-week03-can-photography-help-depression.md)
+- [fxa202-week03-what-is-therapeutic-photography](../sources/fxa202-week03-what-is-therapeutic-photography.md)
+- [fxa202-week08-photography-as-self-therapy-an-introduction-for-beginners](../sources/fxa202-week08-photography-as-self-therapy-an-introduction-for-beginners.md)
+- [fxa202-week09-expressive-writing-therapy-exercises-examples](../sources/fxa202-week09-expressive-writing-therapy-exercises-examples.md)
+- [fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6](../sources/fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6.md)
+- [fxa301-week01-arts-on-prescription-in-sefton-programme-report](../sources/fxa301-week01-arts-on-prescription-in-sefton-programme-report.md)
+- [fxa301-week01-guidelines-for-arts-and-mental-health-projects](../sources/fxa301-week01-guidelines-for-arts-and-mental-health-projects.md)
+- [fxa301-week08-health-related-effects-of-creative-and-expressive-writing](../sources/fxa301-week08-health-related-effects-of-creative-and-expressive-writing.md)
+- [fxa301-week10-arts-based-therapies-in-the-treatment-of-eating-disorders](../sources/fxa301-week10-arts-based-therapies-in-the-treatment-of-eating-disorders.md)
+- [fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the](../sources/fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the.md)
 - [fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children](../sources/fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children.md)
+- [fxa303-week03-arts-in-adolescence](../sources/fxa303-week03-arts-in-adolescence.md)
+- [fxa303-week03-arts-on-prescription-observed-changes-in-anxiety-depression](../sources/fxa303-week03-arts-on-prescription-observed-changes-in-anxiety-depression.md)
+- [fxa303-week03-rebuilding-the-brain-with-psychotherapy](../sources/fxa303-week03-rebuilding-the-brain-with-psychotherapy.md)
+- [fxa303-week04-autism-spectrum-disorder-the-impact-of-stressful-and](../sources/fxa303-week04-autism-spectrum-disorder-the-impact-of-stressful-and.md)
+- [fxa303-week06-therapeutic-puppetry-and-wellbeing](../sources/fxa303-week06-therapeutic-puppetry-and-wellbeing.md)
+- [fxa303-week08-therapeutic-clowning](../sources/fxa303-week08-therapeutic-clowning.md)
+- [fxa303-week08-therapeutic-clowns-in-pediatrics-a-systematic-review-and](../sources/fxa303-week08-therapeutic-clowns-in-pediatrics-a-systematic-review-and.md)
+- [fxa303-week10-indigenous-and-traditional-visual-artistic-practices](../sources/fxa303-week10-indigenous-and-traditional-visual-artistic-practices.md)

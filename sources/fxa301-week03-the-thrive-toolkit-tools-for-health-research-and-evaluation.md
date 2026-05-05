@@ -11,7 +11,7 @@ tags: ["health-outcomes", "arts-interventions", "public-health-initiatives", "re
 key_concepts: ["mental-health-assessment", "quality-of-life-measurement"]
 methods: ["systematic-review"]
 slug: fxa301-week03-the-thrive-toolkit-tools-for-health-research-and-evaluation
-related: ["arts-interventions", "health-outcomes", "public-health-initiatives"]
+related: ["arts-interventions", "health-outcomes", "public-health-initiatives", "research-evaluation"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,3 +44,4 @@ The THRivE Toolkit (Tools for Health Research and Evaluation in Arts and Heritag
 - [arts-interventions](../topics/arts-interventions.md)
 - [health-outcomes](../topics/health-outcomes.md)
 - [public-health-initiatives](../topics/public-health-initiatives.md)
+- [research-evaluation](../topics/research-evaluation.md)

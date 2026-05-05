@@ -7,8 +7,9 @@ tags: ["cultural-engagement"]
 sources:
   - fxa100-week04-arts-in-health-designing-and-researching-interventions
   - fxa202-week10-research-and-evidence-in-arts-health-and-well-being
+  - fxa301-week01-arts-in-health-designing-and-researching-interventions
   - fxa303-week10-evidence-review-of-indigenous-culture-for-health-and
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Cultural Engagement in Health and Well-Being
@@ -29,4 +30,5 @@ The sources collectively highlight the importance of cultural engagement as an i
 
 - [fxa100-week04-arts-in-health-designing-and-researching-interventions](../sources/fxa100-week04-arts-in-health-designing-and-researching-interventions.md)
 - [fxa202-week10-research-and-evidence-in-arts-health-and-well-being](../sources/fxa202-week10-research-and-evidence-in-arts-health-and-well-being.md)
+- [fxa301-week01-arts-in-health-designing-and-researching-interventions](../sources/fxa301-week01-arts-in-health-designing-and-researching-interventions.md)
 - [fxa303-week10-evidence-review-of-indigenous-culture-for-health-and](../sources/fxa303-week10-evidence-review-of-indigenous-culture-for-health-and.md)

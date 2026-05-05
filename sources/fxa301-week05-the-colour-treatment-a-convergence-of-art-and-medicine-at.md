@@ -11,7 +11,7 @@ tags: ["art-therapy", "color-theory", "world-war-i", "shell-shock-treatment", "h
 key_concepts: ["colour treatment", "nervous disorders", "abstract color theory"]
 methods: ["historical case study"]
 slug: fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at
-related: ["color-theory", "world-war-i"]
+related: ["art-therapy", "color-theory", "world-war-i"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,5 +43,6 @@ This article explores the historical context of a 'colour treatment' experiment 
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [color-theory](../topics/color-theory.md)
 - [world-war-i](../topics/world-war-i.md)

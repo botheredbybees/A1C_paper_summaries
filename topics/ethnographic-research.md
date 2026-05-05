@@ -6,9 +6,10 @@ confidence: medium
 tags: ["ethnographic-research"]
 sources:
   - fxa301-make-arts-for-a-better-life-ch11-4-you-and-the-community-have-stepped-through
+  - fxa301-week01-music-and-meaning-in-community-contexts
   - fxa301-week06-san-trance-dance-embodied-experience-and-neurological
   - fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Ethnographic Research Methods
@@ -28,5 +29,6 @@ The sources coalesce around the core concept of ethnography as a means to explor
 ## Sources
 
 - [fxa301-make-arts-for-a-better-life-ch11-4-you-and-the-community-have-stepped-through](../sources/fxa301-make-arts-for-a-better-life-ch11-4-you-and-the-community-have-stepped-through.md)
+- [fxa301-week01-music-and-meaning-in-community-contexts](../sources/fxa301-week01-music-and-meaning-in-community-contexts.md)
 - [fxa301-week06-san-trance-dance-embodied-experience-and-neurological](../sources/fxa301-week06-san-trance-dance-embodied-experience-and-neurological.md)
 - [fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an](../sources/fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an.md)

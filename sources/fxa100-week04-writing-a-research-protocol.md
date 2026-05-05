@@ -11,7 +11,7 @@ tags: ["research-protocol", "academic-writing", "arts-based-research", "fxa100"]
 key_concepts: ["rationale", "feasibility"]
 methods: ["case-study"]
 slug: fxa100-week04-writing-a-research-protocol
-related: ["academic-writing", "arts-based-research"]
+related: ["academic-writing", "arts-based-research", "research-protocol"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,3 +42,4 @@ This chapter discusses the importance of research protocols in academic and arti
 
 - [academic-writing](../topics/academic-writing.md)
 - [arts-based-research](../topics/arts-based-research.md)
+- [research-protocol](../topics/research-protocol.md)

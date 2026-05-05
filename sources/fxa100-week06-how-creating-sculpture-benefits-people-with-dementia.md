@@ -11,7 +11,7 @@ tags: ["dementia-care", "art-therapy", "creative-engagement", "digital-sculpture
 key_concepts: ["creative potential", "co-creation", "self-expression", "social interaction"]
 methods: ["case study"]
 slug: fxa100-week06-how-creating-sculpture-benefits-people-with-dementia
-related: ["cognitive-enhancement", "dementia-care", "elderly-wellness"]
+related: ["art-therapy", "cognitive-enhancement", "dementia-care", "elderly-wellness"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,6 +45,7 @@ Sumita Chauhan, a PhD candidate at the School of Engineering and Digital Arts (E
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [cognitive-enhancement](../topics/cognitive-enhancement.md)
 - [dementia-care](../topics/dementia-care.md)
 - [elderly-wellness](../topics/elderly-wellness.md)

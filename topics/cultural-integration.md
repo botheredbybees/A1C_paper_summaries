@@ -7,7 +7,8 @@ tags: ["cultural-integration"]
 sources:
   - fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration
   - fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration-(2)
-updated: 2026-05-04
+  - fxa303-week10-arts-and-refugees-multidisciplinary-perspectives-vol-2
+updated: 2026-05-05
 ---
 
 ## Cultural Integration in Musical Production
@@ -28,3 +29,4 @@ The integration of cultural elements into musical production is explored through
 
 - [fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration](../sources/fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration.md)
 - [fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration-(2)](../sources/fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration-(2).md)
+- [fxa303-week10-arts-and-refugees-multidisciplinary-perspectives-vol-2](../sources/fxa303-week10-arts-and-refugees-multidisciplinary-perspectives-vol-2.md)

@@ -11,7 +11,7 @@ tags: ["aboriginal-community", "cultural-significance", "mural-art", "community-
 key_concepts: ["cultural-connection", "cross-cultural-understanding"]
 methods: []
 slug: fxa301-week05-naidoc-week-aboriginal-mural-brings-community-together-in
-related: ["cultural-significance"]
+related: ["community-engagement", "cultural-significance"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,4 +42,5 @@ This article highlights the positive impact of a large mural painting project in
 
 ## See Also
 
+- [community-engagement](../topics/community-engagement.md)
 - [cultural-significance](../topics/cultural-significance.md)

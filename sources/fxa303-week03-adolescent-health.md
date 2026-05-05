@@ -9,13 +9,15 @@ appearances:
     week: "03"
   - unit: FXA303
     week: "02"
+  - unit: FXA303
+    week: "02"
 tags: ["adolescent-health", "physical-development", "cognitive-growth", "psychosocial-issues", "health-interventions", "fxa303"]
 key_concepts: ["comprehensive-sexuality-education", "life-skills-development", "equitable-healthcare-services"]
 methods: ["case-study"]
 slug: fxa303-week03-adolescent-health
 related: ["adolescent-health", "cognitive-growth", "health-interventions"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-05
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week03-adolescent-health.md_

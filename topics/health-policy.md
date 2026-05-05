@@ -7,10 +7,13 @@ tags: ["health-policy"]
 sources:
   - fxa100-week01-national-dementia-data-improvement-plan-20232034
   - fxa100-week08-development-of-a-novel-benchmark-method-to-identify-and
+  - fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well
+  - fxa301-week01-rating-the-quality-of-a-body-of-evidence-on-the
   - fxa301-week03-evidence-requirements-for-the-development-of-the-national
   - fxa301-week03-lesson-fxa301-week03-page-4-week-3-activities
   - fxa301-week03-web-article-national-2024
-updated: 2026-05-04
+  - fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the
+updated: 2026-05-05
 ---
 
 ## Health Policy Development for Dementia and Arts
@@ -31,6 +34,9 @@ The documents collectively address the improvement of health policies regarding 
 
 - [fxa100-week01-national-dementia-data-improvement-plan-20232034](../sources/fxa100-week01-national-dementia-data-improvement-plan-20232034.md)
 - [fxa100-week08-development-of-a-novel-benchmark-method-to-identify-and](../sources/fxa100-week08-development-of-a-novel-benchmark-method-to-identify-and.md)
+- [fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well](../sources/fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well.md)
+- [fxa301-week01-rating-the-quality-of-a-body-of-evidence-on-the](../sources/fxa301-week01-rating-the-quality-of-a-body-of-evidence-on-the.md)
 - [fxa301-week03-evidence-requirements-for-the-development-of-the-national](../sources/fxa301-week03-evidence-requirements-for-the-development-of-the-national.md)
 - [fxa301-week03-lesson-fxa301-week03-page-4-week-3-activities](../sources/fxa301-week03-lesson-fxa301-week03-page-4-week-3-activities.md)
 - [fxa301-week03-web-article-national-2024](../sources/fxa301-week03-web-article-national-2024.md)
+- [fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the](../sources/fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the.md)

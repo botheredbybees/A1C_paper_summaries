@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: natural-therapies
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Natural Therapies

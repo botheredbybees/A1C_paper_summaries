@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: art-therapy
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Art Therapy
@@ -11,6 +11,7 @@ updated: 2026-05-04
 - [How Art Changes Your Brain: Differential Effects of Visual Art Production and Cognitive Art Evaluation on Functional Brain Connectivity](../sources/fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual.md)
 - [How creating sculpture benefits people with dementia](../sources/fxa100-week06-how-creating-sculpture-benefits-people-with-dementia.md)
 - [Week 6 Introduction: The Visual Arts and Dementia Care](../sources/fxa100-week06-lesson-fxa100-week06-page-1-welcome-to-week-6.md)
+- [FXA100 The Arts and Dementia Care: Visual Arts and the Brain](../sources/fxa100-week06-lesson-fxa100-week06-page-2-visual-arts-and-the-brain.md)
 - [The Arts and Dementia Care](../sources/fxa100-week06-lesson-fxa100-week06-page-3-the-arts-and-art-therapy.md)
 - [Week 6 Activities - FXA100 The Arts and Dementia Care](../sources/fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities.md)
 - [Painting for a Purpose: A Visual Arts Program as a Method to Promote Engagement, Communication, Cognition, and Quality of Life for Individuals With Dementia](../sources/fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to.md)
@@ -35,10 +36,12 @@ updated: 2026-05-04
 - [Introduction: Art Therapy and Creative Aging](../sources/fxa202-week10-introduction-art-therapy-and-creative-aging.md)
 - [The Reciprocal Influence of Art and Aging](../sources/fxa202-week10-the-reciprocal-influence-of-art-and-aging.md)
 - [Arts in Health: Designing and researching interventions - Neurology](../sources/fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the.md)
+- [Art Therapy and Its Impact on Mood and Emotional States in Pediatric Hematology Oncology Units](../sources/fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in.md)
 - [Art as Therapy](../sources/fxa301-week05-art-as-therapy.md)
 - [Art-making and Illness - Two Case Studies](../sources/fxa301-week05-art-making-and-illness-two-case-studies.md)
 - [How a dragon sculpture fueled hope and community for our patients](../sources/fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our.md)
 - [The Colour Treatment: A Convergence of Art and Medicine at the Red Cross Russell Lea Nerve Home](../sources/fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at.md)
+- [The role of art-making in identity maintenance: case studies of people living with cancer](../sources/fxa301-week05-web-article-reynolds-2006.md)
 - [Week 5 Activities - FXA301 Arts in the Community](../sources/fxa301-week05-week-5-activities-fxa301-arts-in-the-community.md)
 - [The Connection Between Art, Healing, and Public Health: A Review of Current Literature](../sources/fxa301-week08-the-connection-between-art-healing-and-public-health-a.md)
 - [An adjunctive, museum-based art therapy experience in the treatment of women with severe eating disorders](../sources/fxa301-week10-an-adjunctive-museum-based-art-therapy-experience-in-the.md)
@@ -47,6 +50,8 @@ updated: 2026-05-04
 - [Case Studies of Therapeutic Creative Arts for Mental Health](../sources/fxa301-week10-lesson-fxa301-week10-page-2.md)
 - [Case Studies of Therapeutic Creative Arts for Eating Disorders and Trauma](../sources/fxa301-week10-lesson-fxa301-week10-page-3.md)
 - [Social Action in Art Therapy with Veterans](../sources/fxa301-week10-social-action-in-art-therapy-with-veterans.md)
+- [A Review of Art Therapy Among Military Service Members and Veterans with Post-Traumatic Stress Disorder](../sources/fxa301-week10-web-article-ramirez-2016.md)
+- [THRiVE and the Body Map Activity](../sources/fxa303-art-therapy-in-response-to-natural-disasters-ch01-1-body-tracing.md)
 - [Ethical Considerations and Collaborative Practices in International Art Therapy for Disaster Recovery](../sources/fxa303-art-therapy-in-response-to-natural-disasters-ch06-1-i-envisioned-an-opportunity-to-assert-lasalle.md)
 - [Evaluation of 'Images of Self,' an Art Therapy Program for Children Diagnosed with Autism Spectrum Disorders (ASD)](../sources/fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for.md)
 - [Exploring Change in Children\u2019s and Art Therapists\u2019 Behavior during \u2018Images of Self\u2019, an Art Therapy Program for Children Diagnosed with Autism Spectrum Disorders: A Repeated Case Study Design](../sources/fxa303-week04-exploring-change-in-childrens-and-art-therapists-behavior.md)

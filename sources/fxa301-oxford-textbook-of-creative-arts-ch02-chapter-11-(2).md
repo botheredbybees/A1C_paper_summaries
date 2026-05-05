@@ -8,13 +8,14 @@ doi: null
 appearances:
   - unit: FXA301
   - unit: FXA301
+  - unit: FXA301
 tags: ["ethics-in-research", "arts-based-health-research", "health-wellbeing", "fxa301"]
 key_concepts: ["confidentiality", "meaningful involvement", "ethical challenges"]
 methods: []
 slug: fxa301-oxford-textbook-of-creative-arts-ch02-chapter-11-(2)
 related: ["ethics-in-research", "health-wellbeing"]
 created: 2026-05-03
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-oxford-textbook-of-creative-arts-ch02-chapter-11-(2).md_

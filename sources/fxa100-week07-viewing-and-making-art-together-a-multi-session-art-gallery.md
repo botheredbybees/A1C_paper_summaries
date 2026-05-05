@@ -11,7 +11,7 @@ tags: ["dementia-care", "art-therapy", "social-inclusion", "mental-health-interv
 key_concepts: ["quality-of-life", "caregiver-burden", "cognitive-capacities"]
 methods: ["mixed-methods", "intervention-study"]
 slug: fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery
-related: ["dementia-care", "mental-health-interventions", "social-inclusion"]
+related: ["art-therapy", "dementia-care", "mental-health-interventions", "social-inclusion"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,6 +43,7 @@ This study investigates the impact of an eight-week art-gallery-based interventi
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [dementia-care](../topics/dementia-care.md)
 - [mental-health-interventions](../topics/mental-health-interventions.md)
 - [social-inclusion](../topics/social-inclusion.md)

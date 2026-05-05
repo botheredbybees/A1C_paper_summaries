@@ -5,9 +5,14 @@ title: "Dementia"
 confidence: medium
 tags: ["dementia"]
 sources:
+  - fxa100-creativity-and-communication-ch12-22-measuring-success-evaluation-is-an-ongoing-process-that
+  - fxa100-how-we-thnk-about-dementia-ch08-chapter-4
+  - fxa100-how-we-thnk-about-dementia-ch13-chapter-13
   - fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms
+  - fxa100-week01-transcript-alzheimers-society
+  - fxa100-week01-transcript-the-science-of-lewy-body-dementia
   - fxa100-week01-transcript-what-is-alzheimers-disease-ivan-seah-yu-jun
-updated: 2026-05-03
+updated: 2026-05-05
 ---
 
 ## Dementia
@@ -26,5 +31,10 @@ The provided sources offer a comprehensive introduction to dementia and its vari
 
 ## Sources
 
+- [fxa100-creativity-and-communication-ch12-22-measuring-success-evaluation-is-an-ongoing-process-that](../sources/fxa100-creativity-and-communication-ch12-22-measuring-success-evaluation-is-an-ongoing-process-that.md)
+- [fxa100-how-we-thnk-about-dementia-ch08-chapter-4](../sources/fxa100-how-we-thnk-about-dementia-ch08-chapter-4.md)
+- [fxa100-how-we-thnk-about-dementia-ch13-chapter-13](../sources/fxa100-how-we-thnk-about-dementia-ch13-chapter-13.md)
 - [fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms](../sources/fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms.md)
+- [fxa100-week01-transcript-alzheimers-society](../sources/fxa100-week01-transcript-alzheimers-society.md)
+- [fxa100-week01-transcript-the-science-of-lewy-body-dementia](../sources/fxa100-week01-transcript-the-science-of-lewy-body-dementia.md)
 - [fxa100-week01-transcript-what-is-alzheimers-disease-ivan-seah-yu-jun](../sources/fxa100-week01-transcript-what-is-alzheimers-disease-ivan-seah-yu-jun.md)

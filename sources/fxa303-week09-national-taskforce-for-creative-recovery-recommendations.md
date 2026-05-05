@@ -11,7 +11,7 @@ tags: ["disaster-management", "creative-recovery", "community-engagement", "ment
 key_concepts: ["creative practices in disaster management", "resilience building", "inclusive community engagement", "trauma processing through arts"]
 methods: ["policy recommendation"]
 slug: fxa303-week09-national-taskforce-for-creative-recovery-recommendations
-related: ["creative-recovery", "disaster-management", "mental-health"]
+related: ["arts-based-interventions", "community-engagement", "creative-recovery", "disaster-management", "mental-health"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,6 +45,8 @@ The National Taskforce for Creative Recovery, comprising leaders from disaster m
 
 ## See Also
 
+- [arts-based-interventions](../topics/arts-based-interventions.md)
+- [community-engagement](../topics/community-engagement.md)
 - [creative-recovery](../topics/creative-recovery.md)
 - [disaster-management](../topics/disaster-management.md)
 - [mental-health](../topics/mental-health.md)

@@ -11,7 +11,7 @@ tags: ["community-arts", "migrant-wellbeing", "social-inclusion", "creative-prac
 key_concepts: ["wellbeing", "community-engagement", "arts-based-research"]
 methods: ["case-study"]
 slug: fxa303-week10-yesterday-i-couldnt-see-tomorrows-sun-shines-now-sharing
-related: ["community-arts", "migrant-wellbeing", "social-inclusion"]
+related: ["community-arts", "creative-practices", "migrant-wellbeing", "social-inclusion"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -44,5 +44,6 @@ This article explores the experiences of refugee and migrant women in non-metrop
 ## See Also
 
 - [community-arts](../topics/community-arts.md)
+- [creative-practices](../topics/creative-practices.md)
 - [migrant-wellbeing](../topics/migrant-wellbeing.md)
 - [social-inclusion](../topics/social-inclusion.md)

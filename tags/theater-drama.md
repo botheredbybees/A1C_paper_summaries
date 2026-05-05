@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: theater-drama
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Theater Drama

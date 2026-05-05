@@ -8,7 +8,10 @@ sources:
   - fxa100-week02-transcript-duration-949
   - fxa100-week04-transcript-cale-research-aged-care-deloraine-partnership
   - fxa100-week08-web-article-gross-2016
-updated: 2026-05-04
+  - fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary
+  - fxa202-week10-creative-arts-based-research-in-aged-care-photovoice
+  - fxa202-week10-thinking-differently-about-aged-care
+updated: 2026-05-05
 ---
 
 ## Art Programs in Aged Care
@@ -34,3 +37,6 @@ Finally, Source 3 introduces the MAC.ART program, which employs a person-centere
 - [fxa100-week02-transcript-duration-949](../sources/fxa100-week02-transcript-duration-949.md)
 - [fxa100-week04-transcript-cale-research-aged-care-deloraine-partnership](../sources/fxa100-week04-transcript-cale-research-aged-care-deloraine-partnership.md)
 - [fxa100-week08-web-article-gross-2016](../sources/fxa100-week08-web-article-gross-2016.md)
+- [fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary](../sources/fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary.md)
+- [fxa202-week10-creative-arts-based-research-in-aged-care-photovoice](../sources/fxa202-week10-creative-arts-based-research-in-aged-care-photovoice.md)
+- [fxa202-week10-thinking-differently-about-aged-care](../sources/fxa202-week10-thinking-differently-about-aged-care.md)

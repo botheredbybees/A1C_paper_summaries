@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: health-outcomes
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Health Outcomes
@@ -10,7 +10,9 @@ updated: 2026-05-04
 - [The Perceived Benefits of Singing: Findings from Preliminary Surveys](../sources/fxa100-week04-the-perceived-benefits-of-singing-findings-from-preliminary.md)
 - [The Impact of Cultural Activities on Health and Survival](../sources/fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake.md)
 - [The Influence of Cultural Activities and Music on Health](../sources/fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2).md)
+- [A step-by-step approach to the research process](../sources/fxa301-week01-a-step-by-step-approach-to-the-research-process.md)
 - [FXA301 Arts in the Community Week 4 Activities](../sources/fxa301-week01-lesson-fxa301-week01-page-4-week-3-activities.md)
+- [The Value of Arts and Culture to People and Society: An Evidence Review](../sources/fxa301-week01-the-value-of-arts-and-culture-to-people-and-society-an.md)
 - [Arts and Health Evaluation Toolkit: A how-to guide to evaluate the health outcomes of arts programmes in the community](../sources/fxa301-week03-arts-and-health-evaluation-toolkit-a-how-to-guide-to.md)
 - [Creative Health Review Report](../sources/fxa301-week03-creative-health-review-report.md)
 - [National Arts and Health Framework](../sources/fxa301-week03-national-arts-and-health-framework.md)

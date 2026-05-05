@@ -11,7 +11,7 @@ tags: ["art-therapy", "disaster-recovery", "ethics-in-psychology", "cultural-sen
 key_concepts: ["trauma theory", "ethical guidelines in art therapy", "cross-cultural communication"]
 methods: []
 slug: fxa303-art-therapy-in-response-to-natural-disasters-ch06-1-i-envisioned-an-opportunity-to-assert-lasalle
-related: ["cultural-sensitivity", "disaster-recovery"]
+related: ["art-therapy", "cultural-sensitivity", "disaster-recovery"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,5 +42,6 @@ This chapter discusses the ethical considerations and collaborative practices in
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [cultural-sensitivity](../topics/cultural-sensitivity.md)
 - [disaster-recovery](../topics/disaster-recovery.md)

@@ -6,8 +6,9 @@ confidence: medium
 tags: ["therapeutic-art"]
 sources:
   - fxa100-week07-for-visitors-with-dementia
+  - fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay
   - fxa301-week05-lesson-fxa301-week05-page-1
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Therapeutic Art
@@ -27,4 +28,5 @@ The integration of art as a therapeutic intervention highlights its multifaceted
 ## Sources
 
 - [fxa100-week07-for-visitors-with-dementia](../sources/fxa100-week07-for-visitors-with-dementia.md)
+- [fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay](../sources/fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay.md)
 - [fxa301-week05-lesson-fxa301-week05-page-1](../sources/fxa301-week05-lesson-fxa301-week05-page-1.md)

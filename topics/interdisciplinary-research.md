@@ -6,8 +6,13 @@ confidence: medium
 tags: ["interdisciplinary-research"]
 sources:
   - fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of
+  - fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(2)
+  - fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(3)
+  - fxa301-week01-an-introduction-to-research
+  - fxa301-week01-arts-in-health-designing-and-researching-interventions
   - fxa301-week02-the-emerging-field-of-affective-science
-updated: 2026-05-04
+  - fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)
+updated: 2026-05-05
 ---
 
 ## Interdisciplinary Approaches to Quality of Life Improvement
@@ -26,4 +31,9 @@ This synthesis focuses on interdisciplinary research aimed at enhancing the qual
 ## Sources
 
 - [fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of](../sources/fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of.md)
+- [fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(2)](../sources/fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(2).md)
+- [fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(3)](../sources/fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(3).md)
+- [fxa301-week01-an-introduction-to-research](../sources/fxa301-week01-an-introduction-to-research.md)
+- [fxa301-week01-arts-in-health-designing-and-researching-interventions](../sources/fxa301-week01-arts-in-health-designing-and-researching-interventions.md)
 - [fxa301-week02-the-emerging-field-of-affective-science](../sources/fxa301-week02-the-emerging-field-of-affective-science.md)
+- [fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3).md)

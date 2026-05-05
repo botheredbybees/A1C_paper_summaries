@@ -11,13 +11,17 @@ appearances:
     week: "02"
   - unit: FXA100
     week: "02"
+  - unit: FXA100
+    week: "02"
+  - unit: FXA100
+    week: "02"
 tags: ["brain-plasticity", "music-therapy", "neuroscience-research", "musical-training-effects", "functional-imaging", "fxa100"]
 key_concepts: ["brain plasticity", "morphological changes", "perfect pitch", "functional differences"]
 methods: ["case study", "functional imaging"]
 slug: fxa100-week02-are-the-brains-of-musicians-physically-different
 related: ["brain-plasticity", "music-therapy", "neuroscience-research"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-05
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-week02-are-the-brains-of-musicians-physically-different.md_

@@ -5,9 +5,10 @@ title: "Health Equity Through Cultural Programs"
 confidence: medium
 tags: ["health-equity"]
 sources:
+  - fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions-(2)
   - fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report
   - fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Health Equity Through Cultural Programs
@@ -26,5 +27,6 @@ The synthesis of the provided sources underscores how cultural programs and inte
 
 ## Sources
 
+- [fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions-(2).md)
 - [fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report](../sources/fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report.md)
 - [fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing](../sources/fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing.md)

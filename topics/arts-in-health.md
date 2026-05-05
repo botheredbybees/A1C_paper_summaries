@@ -9,6 +9,7 @@ sources:
   - fxa100-week04-conceptualizing-and-planning-interventions
   - fxa100-week04-implementing-and-evaluating-interventions
   - fxa100-week04-research-ethics-in-arts-in-health-interventions
+  - fxa100-week10-transcript-the-elderflowers-arts-in-health-program-uses
   - fxa301-arts-in-health-ch19-36-abc-national-cultural-policy-submission
   - fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2)
   - fxa301-arts-in-health-ch26-4-technological
@@ -18,6 +19,15 @@ sources:
   - fxa301-arts-in-health-ch43-1-collaborative-design-(2)
   - fxa301-bridging-the-creative-arts-therapies-ch09-5-collaboration
   - fxa301-bridging-the-creative-arts-therapies-ch09-5-collaboration-(2)
+  - fxa301-week01-a-step-by-step-approach-to-the-research-process
+  - fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in
+  - fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(2)
+  - fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(3)
+  - fxa301-week01-an-introduction-to-research
+  - fxa301-week01-conceptualizing-and-planning-interventions
+  - fxa301-week01-guidelines-for-arts-and-mental-health-projects-(2)
+  - fxa301-week01-implementing-and-evaluating-interventions
+  - fxa301-week01-research-ethics
   - fxa301-week03-advancing-practice-in-arts-in-health-artist-workforce
   - fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report
   - fxa301-week03-arts-health-and-well-being-in-america
@@ -26,7 +36,7 @@ sources:
   - fxa301-week03-the-role-of-the-arts-in-healthcare-transforming-lives
   - fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community
   - fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Arts in Health
@@ -49,6 +59,7 @@ The integration of arts into health interventions aims to enhance public health 
 - [fxa100-week04-conceptualizing-and-planning-interventions](../sources/fxa100-week04-conceptualizing-and-planning-interventions.md)
 - [fxa100-week04-implementing-and-evaluating-interventions](../sources/fxa100-week04-implementing-and-evaluating-interventions.md)
 - [fxa100-week04-research-ethics-in-arts-in-health-interventions](../sources/fxa100-week04-research-ethics-in-arts-in-health-interventions.md)
+- [fxa100-week10-transcript-the-elderflowers-arts-in-health-program-uses](../sources/fxa100-week10-transcript-the-elderflowers-arts-in-health-program-uses.md)
 - [fxa301-arts-in-health-ch19-36-abc-national-cultural-policy-submission](../sources/fxa301-arts-in-health-ch19-36-abc-national-cultural-policy-submission.md)
 - [fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2)](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2).md)
 - [fxa301-arts-in-health-ch26-4-technological](../sources/fxa301-arts-in-health-ch26-4-technological.md)
@@ -58,6 +69,15 @@ The integration of arts into health interventions aims to enhance public health 
 - [fxa301-arts-in-health-ch43-1-collaborative-design-(2)](../sources/fxa301-arts-in-health-ch43-1-collaborative-design-(2).md)
 - [fxa301-bridging-the-creative-arts-therapies-ch09-5-collaboration](../sources/fxa301-bridging-the-creative-arts-therapies-ch09-5-collaboration.md)
 - [fxa301-bridging-the-creative-arts-therapies-ch09-5-collaboration-(2)](../sources/fxa301-bridging-the-creative-arts-therapies-ch09-5-collaboration-(2).md)
+- [fxa301-week01-a-step-by-step-approach-to-the-research-process](../sources/fxa301-week01-a-step-by-step-approach-to-the-research-process.md)
+- [fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in](../sources/fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in.md)
+- [fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(2)](../sources/fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(2).md)
+- [fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(3)](../sources/fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(3).md)
+- [fxa301-week01-an-introduction-to-research](../sources/fxa301-week01-an-introduction-to-research.md)
+- [fxa301-week01-conceptualizing-and-planning-interventions](../sources/fxa301-week01-conceptualizing-and-planning-interventions.md)
+- [fxa301-week01-guidelines-for-arts-and-mental-health-projects-(2)](../sources/fxa301-week01-guidelines-for-arts-and-mental-health-projects-(2).md)
+- [fxa301-week01-implementing-and-evaluating-interventions](../sources/fxa301-week01-implementing-and-evaluating-interventions.md)
+- [fxa301-week01-research-ethics](../sources/fxa301-week01-research-ethics.md)
 - [fxa301-week03-advancing-practice-in-arts-in-health-artist-workforce](../sources/fxa301-week03-advancing-practice-in-arts-in-health-artist-workforce.md)
 - [fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report](../sources/fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report.md)
 - [fxa301-week03-arts-health-and-well-being-in-america](../sources/fxa301-week03-arts-health-and-well-being-in-america.md)

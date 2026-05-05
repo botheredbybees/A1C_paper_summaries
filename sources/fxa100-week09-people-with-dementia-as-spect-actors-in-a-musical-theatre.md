@@ -11,7 +11,7 @@ tags: ["drama-therapy", "music-and-dementia", "creative-self-expression", "colla
 key_concepts: ["musical theatre group", "spect-actors framework", "autonomy for dementia patients"]
 methods: ["case study"]
 slug: fxa100-week09-people-with-dementia-as-spect-actors-in-a-musical-theatre
-related: ["creative-self-expression", "drama-therapy", "music-and-dementia"]
+related: ["collaborative-learning", "creative-self-expression", "drama-therapy", "music-and-dementia"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,6 +42,7 @@ This study explores a collaborative music and drama therapy initiative involving
 
 ## See Also
 
+- [collaborative-learning](../topics/collaborative-learning.md)
 - [creative-self-expression](../topics/creative-self-expression.md)
 - [drama-therapy](../topics/drama-therapy.md)
 - [music-and-dementia](../topics/music-and-dementia.md)

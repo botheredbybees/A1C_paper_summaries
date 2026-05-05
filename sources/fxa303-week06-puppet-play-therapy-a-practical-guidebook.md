@@ -7,13 +7,14 @@ doi: null
 appearances:
   - unit: FXA303
     week: "06"
+  - unit: FXA303
 tags: ["puppet-therapy", "creative-arts-therapy", "play-based-intervention", "fxa303"]
 key_concepts: ["child-centered-therapy", "solution-focused-brief-therapy", "berkeley-puppet-interview"]
 methods: ["practical-guidebook"]
 slug: fxa303-week06-puppet-play-therapy-a-practical-guidebook
 related: ["creative-arts-therapy", "puppet-therapy"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-05
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week06-puppet-play-therapy-a-practical-guidebook.md_

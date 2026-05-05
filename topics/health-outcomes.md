@@ -6,8 +6,20 @@ confidence: medium
 tags: ["health-outcomes"]
 sources:
   - fxa100-week03-implementation-survey-results-phase-iii-music-memory-program
+  - fxa100-week04-the-perceived-benefits-of-singing-findings-from-preliminary
+  - fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake
+  - fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2)
+  - fxa301-week01-a-step-by-step-approach-to-the-research-process
   - fxa301-week01-lesson-fxa301-week01-page-4-week-3-activities
-updated: 2026-05-03
+  - fxa301-week01-the-value-of-arts-and-culture-to-people-and-society-an
+  - fxa301-week03-arts-and-health-evaluation-toolkit-a-how-to-guide-to
+  - fxa301-week03-creative-health-review-report
+  - fxa301-week03-national-arts-and-health-framework
+  - fxa301-week03-the-thrive-toolkit-tools-for-health-research-and-evaluation
+  - fxa301-week05-museums-for-health-and-wellbeing
+  - fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community
+  - fxa301-week09-week-9-lecture-dr-brendan-lamb
+updated: 2026-05-05
 ---
 
 ## Health Outcomes of Arts Programs
@@ -27,4 +39,16 @@ The provided sources illustrate the impact of arts-based interventions on health
 ## Sources
 
 - [fxa100-week03-implementation-survey-results-phase-iii-music-memory-program](../sources/fxa100-week03-implementation-survey-results-phase-iii-music-memory-program.md)
+- [fxa100-week04-the-perceived-benefits-of-singing-findings-from-preliminary](../sources/fxa100-week04-the-perceived-benefits-of-singing-findings-from-preliminary.md)
+- [fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake](../sources/fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake.md)
+- [fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2).md)
+- [fxa301-week01-a-step-by-step-approach-to-the-research-process](../sources/fxa301-week01-a-step-by-step-approach-to-the-research-process.md)
 - [fxa301-week01-lesson-fxa301-week01-page-4-week-3-activities](../sources/fxa301-week01-lesson-fxa301-week01-page-4-week-3-activities.md)
+- [fxa301-week01-the-value-of-arts-and-culture-to-people-and-society-an](../sources/fxa301-week01-the-value-of-arts-and-culture-to-people-and-society-an.md)
+- [fxa301-week03-arts-and-health-evaluation-toolkit-a-how-to-guide-to](../sources/fxa301-week03-arts-and-health-evaluation-toolkit-a-how-to-guide-to.md)
+- [fxa301-week03-creative-health-review-report](../sources/fxa301-week03-creative-health-review-report.md)
+- [fxa301-week03-national-arts-and-health-framework](../sources/fxa301-week03-national-arts-and-health-framework.md)
+- [fxa301-week03-the-thrive-toolkit-tools-for-health-research-and-evaluation](../sources/fxa301-week03-the-thrive-toolkit-tools-for-health-research-and-evaluation.md)
+- [fxa301-week05-museums-for-health-and-wellbeing](../sources/fxa301-week05-museums-for-health-and-wellbeing.md)
+- [fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community](../sources/fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community.md)
+- [fxa301-week09-week-9-lecture-dr-brendan-lamb](../sources/fxa301-week09-week-9-lecture-dr-brendan-lamb.md)

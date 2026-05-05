@@ -6,6 +6,7 @@ confidence: high
 tags: ["music-education"]
 sources:
   - fxa100-week04-engaging-in-community-music-an-introduction
+  - fxa301-week01-culture-of-inquiry
   - fxa301-week05-an-education-in-music-makes-you-a-better-employee-are
   - fxa301-week05-fading-notes-music-education-for-the-next-generation-of
   - fxa301-week05-week-5-activities-fxa301-arts-in-the-community
@@ -19,7 +20,7 @@ sources:
   - fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain
   - fxa303-week03-music-instruction-can-make-for-a-smarter-teen
   - fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Music Education and Its Broader Impacts
@@ -39,6 +40,7 @@ The provided sources highlight the multifaceted benefits of music education in f
 ## Sources
 
 - [fxa100-week04-engaging-in-community-music-an-introduction](../sources/fxa100-week04-engaging-in-community-music-an-introduction.md)
+- [fxa301-week01-culture-of-inquiry](../sources/fxa301-week01-culture-of-inquiry.md)
 - [fxa301-week05-an-education-in-music-makes-you-a-better-employee-are](../sources/fxa301-week05-an-education-in-music-makes-you-a-better-employee-are.md)
 - [fxa301-week05-fading-notes-music-education-for-the-next-generation-of](../sources/fxa301-week05-fading-notes-music-education-for-the-next-generation-of.md)
 - [fxa301-week05-week-5-activities-fxa301-arts-in-the-community](../sources/fxa301-week05-week-5-activities-fxa301-arts-in-the-community.md)

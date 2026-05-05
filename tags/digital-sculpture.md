@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: digital-sculpture
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Digital Sculpture

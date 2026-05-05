@@ -5,8 +5,10 @@ title: "Evaluation Frameworks for Creative Arts Projects"
 confidence: low
 tags: ["evaluation-frameworks"]
 sources:
+  - fxa100-week04-creative-and-credible-evaluation-for-arts-health-and-well
+  - fxa301-week01-arts-for-health-and-wellbeing-an-evaluation-framework
   - fxa301-week01-lesson-fxa301-week01-page-3-hm-evaluating-a-project
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Evaluation Frameworks for Creative Arts Projects
@@ -24,4 +26,6 @@ The provided sources discuss the importance of rigorous evaluation frameworks in
 
 ## Sources
 
+- [fxa100-week04-creative-and-credible-evaluation-for-arts-health-and-well](../sources/fxa100-week04-creative-and-credible-evaluation-for-arts-health-and-well.md)
+- [fxa301-week01-arts-for-health-and-wellbeing-an-evaluation-framework](../sources/fxa301-week01-arts-for-health-and-wellbeing-an-evaluation-framework.md)
 - [fxa301-week01-lesson-fxa301-week01-page-3-hm-evaluating-a-project](../sources/fxa301-week01-lesson-fxa301-week01-page-3-hm-evaluating-a-project.md)

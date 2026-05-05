@@ -6,8 +6,9 @@ confidence: medium
 tags: ["poetry"]
 sources:
   - fxa100-week08-transcript-youtube-cilh21tfqem
+  - fxa202-week10-poetic-expressions-of-internal-struggle
   - fxa301-week08-transcript-youtube-q7-axxnucfq
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Appreciation Of Nature And Self-expression Through Poetry
@@ -27,4 +28,5 @@ The exploration of poetry as a medium for self-expression and appreciation of na
 ## Sources
 
 - [fxa100-week08-transcript-youtube-cilh21tfqem](../sources/fxa100-week08-transcript-youtube-cilh21tfqem.md)
+- [fxa202-week10-poetic-expressions-of-internal-struggle](../sources/fxa202-week10-poetic-expressions-of-internal-struggle.md)
 - [fxa301-week08-transcript-youtube-q7-axxnucfq](../sources/fxa301-week08-transcript-youtube-q7-axxnucfq.md)

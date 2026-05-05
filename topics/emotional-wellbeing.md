@@ -12,13 +12,17 @@ sources:
   - fxa202-week06-winding-paths-a-photo-essay-on-emotional-health-during
   - fxa202-week09-5-benefits-of-journaling-for-mental-health
   - fxa202-week09-noticing-a-photo-essay
+  - fxa202-week10-chromophilia
+  - fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay
+  - fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in
   - fxa301-week05-art-making-and-illness-two-case-studies
   - fxa301-week06-the-dance-of-wellbeing-defining-the-musical-therapeutic
   - fxa303-week02-developmental-role-of-creative-arts-and-play
   - fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview
   - fxa303-week08-physiological-and-emotional-responses-of-disabled-children
   - fxa303-week08-the-effect-of-medicaltherapeutic-clowns-on-the-playfulness
-updated: 2026-05-04
+  - fxa303-week10-arts-education-and-society-the-role-of-the-arts-in
+updated: 2026-05-05
 ---
 
 ## Music Therapy for Emotional Wellbeing
@@ -44,9 +48,13 @@ The integration of music therapy in enhancing emotional wellbeing is a recurring
 - [fxa202-week06-winding-paths-a-photo-essay-on-emotional-health-during](../sources/fxa202-week06-winding-paths-a-photo-essay-on-emotional-health-during.md)
 - [fxa202-week09-5-benefits-of-journaling-for-mental-health](../sources/fxa202-week09-5-benefits-of-journaling-for-mental-health.md)
 - [fxa202-week09-noticing-a-photo-essay](../sources/fxa202-week09-noticing-a-photo-essay.md)
+- [fxa202-week10-chromophilia](../sources/fxa202-week10-chromophilia.md)
+- [fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay](../sources/fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay.md)
+- [fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in](../sources/fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in.md)
 - [fxa301-week05-art-making-and-illness-two-case-studies](../sources/fxa301-week05-art-making-and-illness-two-case-studies.md)
 - [fxa301-week06-the-dance-of-wellbeing-defining-the-musical-therapeutic](../sources/fxa301-week06-the-dance-of-wellbeing-defining-the-musical-therapeutic.md)
 - [fxa303-week02-developmental-role-of-creative-arts-and-play](../sources/fxa303-week02-developmental-role-of-creative-arts-and-play.md)
 - [fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview](../sources/fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview.md)
 - [fxa303-week08-physiological-and-emotional-responses-of-disabled-children](../sources/fxa303-week08-physiological-and-emotional-responses-of-disabled-children.md)
 - [fxa303-week08-the-effect-of-medicaltherapeutic-clowns-on-the-playfulness](../sources/fxa303-week08-the-effect-of-medicaltherapeutic-clowns-on-the-playfulness.md)
+- [fxa303-week10-arts-education-and-society-the-role-of-the-arts-in](../sources/fxa303-week10-arts-education-and-society-the-role-of-the-arts-in.md)

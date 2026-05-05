@@ -11,7 +11,7 @@ tags: ["arts-and-health", "co-production-methods", "evaluation-frameworks", "hea
 key_concepts: ["co-production", "stakeholder-engagement", "evaluation-practices"]
 methods: ["mixed-methods", "surveys", "interviews", "focus-groups"]
 slug: fxa100-week04-creative-and-credible-evaluation-for-arts-health-and-well
-related: ["arts-and-health"]
+related: ["arts-and-health", "evaluation-frameworks"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,3 +46,4 @@ This article discusses the findings of a UK knowledge exchange project that aime
 ## See Also
 
 - [arts-and-health](../topics/arts-and-health.md)
+- [evaluation-frameworks](../topics/evaluation-frameworks.md)

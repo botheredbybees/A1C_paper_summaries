@@ -6,12 +6,13 @@ confidence: high
 tags: ["public-policy"]
 sources:
   - fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2
+  - fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions
   - fxa301-week03-creative-health-review-report
   - fxa301-week03-executive-summary-creative-health-review
   - fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract
   - fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing
   - fxa303-week04-missed-early-intervention-opportunities-for-children-with
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Creative Arts in Public Policy for Health
@@ -31,6 +32,7 @@ The integration of creative arts into public health policy is emerging as a sign
 ## Sources
 
 - [fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2](../sources/fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2.md)
+- [fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions](../sources/fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions.md)
 - [fxa301-week03-creative-health-review-report](../sources/fxa301-week03-creative-health-review-report.md)
 - [fxa301-week03-executive-summary-creative-health-review](../sources/fxa301-week03-executive-summary-creative-health-review.md)
 - [fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract](../sources/fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract.md)

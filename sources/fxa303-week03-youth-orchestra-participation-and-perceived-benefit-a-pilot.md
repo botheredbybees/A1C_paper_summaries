@@ -11,7 +11,7 @@ tags: ["youth-development", "music-education", "wellbeing-studies", "resilience-
 key_concepts: ["growth mindset", "resilient behaviors", "musical skill development", "social skills"]
 methods: ["survey", "thematic analysis"]
 slug: fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot
-related: ["music-education", "resilience-building", "youth-development"]
+related: ["community-engagement", "music-education", "resilience-building", "youth-development"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,6 +45,7 @@ This paper presents findings from a pilot study examining the benefits of partic
 
 ## See Also
 
+- [community-engagement](../topics/community-engagement.md)
 - [music-education](../topics/music-education.md)
 - [resilience-building](../topics/resilience-building.md)
 - [youth-development](../topics/youth-development.md)

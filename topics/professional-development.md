@@ -7,7 +7,8 @@ tags: ["professional-development"]
 sources:
   - fxa100-week02-history-of-music-therapy
   - fxa202-week08-journal-and-visual-research-guidelines
-updated: 2026-05-04
+  - fxa301-week01-arts-projects-for-individuals-and-groups
+updated: 2026-05-05
 ---
 
 ## Professional Development in Music Therapy
@@ -27,3 +28,4 @@ The integration of professional development within the framework of music therap
 
 - [fxa100-week02-history-of-music-therapy](../sources/fxa100-week02-history-of-music-therapy.md)
 - [fxa202-week08-journal-and-visual-research-guidelines](../sources/fxa202-week08-journal-and-visual-research-guidelines.md)
+- [fxa301-week01-arts-projects-for-individuals-and-groups](../sources/fxa301-week01-arts-projects-for-individuals-and-groups.md)

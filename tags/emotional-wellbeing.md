@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotional-wellbeing
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Emotional Wellbeing
@@ -15,6 +15,7 @@ updated: 2026-05-04
 - [Noticing: A Photo Essay](../sources/fxa202-week09-noticing-a-photo-essay.md)
 - [Chromophilia](../sources/fxa202-week10-chromophilia.md)
 - [Exploring Colour Theory Through a Personal Photo Essay](../sources/fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay.md)
+- [Art Therapy and Its Impact on Mood and Emotional States in Pediatric Hematology Oncology Units](../sources/fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in.md)
 - [Art-making and Illness - Two Case Studies](../sources/fxa301-week05-art-making-and-illness-two-case-studies.md)
 - [The Dance of Wellbeing: Defining the Musical Therapeutic Effect](../sources/fxa301-week06-the-dance-of-wellbeing-defining-the-musical-therapeutic.md)
 - [Developmental Role of Creative Arts and Play](../sources/fxa303-week02-developmental-role-of-creative-arts-and-play.md)

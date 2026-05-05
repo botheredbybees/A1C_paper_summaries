@@ -7,7 +7,9 @@ tags: ["aging-research"]
 sources:
   - fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy
   - fxa100-week01-relating-physical-activity-to-cognitive-function-brain
-updated: 2026-05-03
+  - fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and
+  - fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster
+updated: 2026-05-05
 ---
 
 ## Personalized Risk Profiling And Physical Activity In Aging Research
@@ -28,3 +30,5 @@ This synthesis integrates findings from two aging-related research studies. The 
 
 - [fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy](../sources/fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy.md)
 - [fxa100-week01-relating-physical-activity-to-cognitive-function-brain](../sources/fxa100-week01-relating-physical-activity-to-cognitive-function-brain.md)
+- [fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and](../sources/fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and.md)
+- [fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster](../sources/fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster.md)

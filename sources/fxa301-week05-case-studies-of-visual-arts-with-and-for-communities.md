@@ -11,7 +11,7 @@ tags: ["community-engagement", "visual-arts-interventions", "social-cohesion", "
 key_concepts: ["community wellbeing", "Happy Museum Project", "social connections"]
 methods: ["case study"]
 slug: fxa301-week05-case-studies-of-visual-arts-with-and-for-communities
-related: ["social-cohesion", "visual-arts-interventions", "wellbeing-initiatives"]
+related: ["community-engagement", "social-cohesion", "visual-arts-interventions", "wellbeing-initiatives"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,6 +43,7 @@ The document discusses two case studies involving visual arts engagement project
 
 ## See Also
 
+- [community-engagement](../topics/community-engagement.md)
 - [social-cohesion](../topics/social-cohesion.md)
 - [visual-arts-interventions](../topics/visual-arts-interventions.md)
 - [wellbeing-initiatives](../topics/wellbeing-initiatives.md)

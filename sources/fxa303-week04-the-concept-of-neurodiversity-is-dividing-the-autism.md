@@ -9,13 +9,15 @@ appearances:
     week: "04"
   - unit: FXA303
     week: "04"
+  - unit: FXA303
+    week: "04"
 tags: ["neurodiversity", "autism-community", "psychological-theories", "human-variation", "inclusive-environment", "medical-interventions", "fxa303"]
 key_concepts: ["neurodiversity", "pathologization", "heterogeneity-of-autism"]
 methods: ["conceptual-analysis"]
 slug: fxa303-week04-the-concept-of-neurodiversity-is-dividing-the-autism
 related: ["neurodiversity", "psychological-theories"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-05
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week04-the-concept-of-neurodiversity-is-dividing-the-autism.md_

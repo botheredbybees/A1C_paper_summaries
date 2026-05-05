@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: caption-writing
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Caption Writing

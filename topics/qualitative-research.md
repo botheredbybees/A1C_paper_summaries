@@ -7,13 +7,14 @@ tags: ["qualitative-research"]
 sources:
   - fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the
   - fxa100-week08-what-are-the-required-elements-needed-to-create-an
+  - fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10
   - fxa301-week01-lesson-fxa301-week01-page-1-hm
   - fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and
   - fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental
   - fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using
   - fxa303-week01-teachers-perspectives-on-providing-support-to-children
   - fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Qualitative Research in Health and Well-being Interventions
@@ -34,6 +35,7 @@ The sources collectively highlight the importance of qualitative research method
 
 - [fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the](../sources/fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the.md)
 - [fxa100-week08-what-are-the-required-elements-needed-to-create-an](../sources/fxa100-week08-what-are-the-required-elements-needed-to-create-an.md)
+- [fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10](../sources/fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10.md)
 - [fxa301-week01-lesson-fxa301-week01-page-1-hm](../sources/fxa301-week01-lesson-fxa301-week01-page-1-hm.md)
 - [fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and](../sources/fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and.md)
 - [fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental](../sources/fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental.md)

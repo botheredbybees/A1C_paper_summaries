@@ -11,7 +11,7 @@ tags: ["visual-storytelling", "photography-basics", "discussion-boards", "fxa202
 key_concepts: ["photo essay format", "interaction between words and images"]
 methods: []
 slug: fxa202-week01-lesson-fxa202-week01-week-1
-related: ["visual-storytelling"]
+related: ["photography-basics", "visual-storytelling"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,4 +40,5 @@ This is the introduction to the LAW122 unit on visual storytelling through photo
 
 ## See Also
 
+- [photography-basics](../topics/photography-basics.md)
 - [visual-storytelling](../topics/visual-storytelling.md)

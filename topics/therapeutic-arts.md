@@ -13,10 +13,12 @@ sources:
   - fxa301-week08-transcript-the-video-below-relates-the-experiences-of
   - fxa301-week08-week-8-lecture-applying-theatre-and-literature-for-health
   - fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple
+  - fxa301-week10-lesson-fxa301-week10-page-2
   - fxa303-week03-arts-in-adolescence
   - fxa303-week06-emotional-expression-through-puppetry
   - fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping
-updated: 2026-05-04
+  - fxa303-week10-arts-and-refugees-multidisciplinary-perspectives-vol-2
+updated: 2026-05-05
 ---
 
 ## Therapeutic Arts
@@ -43,6 +45,8 @@ The therapeutic arts encompass a range of creative practices that promote well-b
 - [fxa301-week08-transcript-the-video-below-relates-the-experiences-of](../sources/fxa301-week08-transcript-the-video-below-relates-the-experiences-of.md)
 - [fxa301-week08-week-8-lecture-applying-theatre-and-literature-for-health](../sources/fxa301-week08-week-8-lecture-applying-theatre-and-literature-for-health.md)
 - [fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple](../sources/fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple.md)
+- [fxa301-week10-lesson-fxa301-week10-page-2](../sources/fxa301-week10-lesson-fxa301-week10-page-2.md)
 - [fxa303-week03-arts-in-adolescence](../sources/fxa303-week03-arts-in-adolescence.md)
 - [fxa303-week06-emotional-expression-through-puppetry](../sources/fxa303-week06-emotional-expression-through-puppetry.md)
 - [fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping](../sources/fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping.md)
+- [fxa303-week10-arts-and-refugees-multidisciplinary-perspectives-vol-2](../sources/fxa303-week10-arts-and-refugees-multidisciplinary-perspectives-vol-2.md)

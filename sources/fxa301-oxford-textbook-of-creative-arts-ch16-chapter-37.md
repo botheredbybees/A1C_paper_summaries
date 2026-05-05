@@ -13,7 +13,7 @@ tags: ["creative-arts", "health-education", "nursing-practice", "midwifery-educa
 key_concepts: ["compassion in practice", "non-normative ethics and values", "creative curriculum"]
 methods: []
 slug: fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37
-related: []
+related: ["collaborative-learning", "creative-arts", "health-education"]
 created: 2026-05-03
 updated: 2026-05-04
 ---
@@ -46,4 +46,6 @@ This chapter examines the role of creative arts in nursing and midwifery educati
 
 ## See Also
 
-*(none yet)*
+- [collaborative-learning](../topics/collaborative-learning.md)
+- [creative-arts](../topics/creative-arts.md)
+- [health-education](../topics/health-education.md)

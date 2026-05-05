@@ -9,13 +9,15 @@ appearances:
     week: "03"
   - unit: FXA303
     week: "02"
+  - unit: FXA303
+    week: "02"
 tags: ["arts-education", "adolescent-development", "mental-health-interventions", "youth-discrimination", "community-engagement", "therapeutic-arts", "fxa303"]
 key_concepts: ["Arts on Prescription", "identity formation", "emotional resilience", "cognitive benefits", "socio-emotional skills"]
 methods: ["survey research", "qualitative analysis"]
 slug: fxa303-week03-arts-in-adolescence
-related: ["adolescent-development", "arts-education", "mental-health-interventions", "therapeutic-arts"]
+related: ["adolescent-development", "arts-education", "community-engagement", "mental-health-interventions", "therapeutic-arts"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-05
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week03-arts-in-adolescence.md_
@@ -51,5 +53,6 @@ The document 'Arts in Adolescence' highlights the significance of arts engagemen
 
 - [adolescent-development](../topics/adolescent-development.md)
 - [arts-education](../topics/arts-education.md)
+- [community-engagement](../topics/community-engagement.md)
 - [mental-health-interventions](../topics/mental-health-interventions.md)
 - [therapeutic-arts](../topics/therapeutic-arts.md)

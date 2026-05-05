@@ -11,7 +11,7 @@ tags: ["museum-education", "sustainability", "well-being", "community-engagement
 key_concepts: ["cultural sustainability", "wellbeing initiatives", "institutional transformation"]
 methods: ["evaluation report"]
 slug: fxa301-week05-happy-museum-learning-evaluation-report
-related: ["environmental-awareness", "museum-education", "sustainability", "well-being"]
+related: ["community-engagement", "environmental-awareness", "museum-education", "sustainability", "well-being"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,6 +43,7 @@ The Happy Museum Learning Evaluation Report, published in September 2014, detail
 
 ## See Also
 
+- [community-engagement](../topics/community-engagement.md)
 - [environmental-awareness](../topics/environmental-awareness.md)
 - [museum-education](../topics/museum-education.md)
 - [sustainability](../topics/sustainability.md)

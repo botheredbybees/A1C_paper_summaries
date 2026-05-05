@@ -1,11 +1,12 @@
 ---
 type: tag
 tag: brain-function
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Brain Function
 
+- [Week 1: Introduction to FXA100 The Arts and Dementia Care](../sources/fxa100-week01-lesson-fxa100-week01-page-1-welcome-to-week-1.md)
 - [Are People Really Left-Brained or Right-Brain?](../sources/fxa100-week02-are-people-really-left-brained-or-right-brain.md)
 - [FXA100 Week 2 Lecture: Music and the Brain](../sources/fxa100-week02-fxa100-week-2-lecture-music-and-the-brain.md)
 - [Hearing and Music](../sources/fxa100-week02-hearing-and-music.md)

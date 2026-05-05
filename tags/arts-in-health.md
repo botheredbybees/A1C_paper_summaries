@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-in-health
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Arts In Health
@@ -20,6 +20,15 @@ updated: 2026-05-04
 - [Developing Partnerships and Briefs in Arts-Health Projects](../sources/fxa301-arts-in-health-ch43-1-collaborative-design-(2).md)
 - [Professionalization of the Arts in Health Field](../sources/fxa301-bridging-the-creative-arts-therapies-ch09-5-collaboration.md)
 - [The Professionalization Agenda for Arts in Health](../sources/fxa301-bridging-the-creative-arts-therapies-ch09-5-collaboration-(2).md)
+- [A step-by-step approach to the research process](../sources/fxa301-week01-a-step-by-step-approach-to-the-research-process.md)
+- [Aesop: A Framework for Developing and Researching Arts in Health Programmes](../sources/fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in.md)
+- [Aesop: A Framework for Developing and Researching Arts in Health Programmes](../sources/fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(2).md)
+- [Aesop: A Framework for Developing and Researching Arts in Health Programmes](../sources/fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(3).md)
+- [An introduction to research](../sources/fxa301-week01-an-introduction-to-research.md)
+- [Conceptualizing and planning interventions](../sources/fxa301-week01-conceptualizing-and-planning-interventions.md)
+- [Guidelines for Arts and Mental Health Projects](../sources/fxa301-week01-guidelines-for-arts-and-mental-health-projects-(2).md)
+- [Implementing and Evaluating Interventions](../sources/fxa301-week01-implementing-and-evaluating-interventions.md)
+- [Research ethics](../sources/fxa301-week01-research-ethics.md)
 - [Advancing Practice in Arts in Health: Artist Workforce Development and Certification](../sources/fxa301-week03-advancing-practice-in-arts-in-health-artist-workforce.md)
 - [Arts for EveryBody: The One Nation/One Project Impact Report](../sources/fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report.md)
 - [Arts, Health, and Well-Being in America](../sources/fxa301-week03-arts-health-and-well-being-in-america.md)

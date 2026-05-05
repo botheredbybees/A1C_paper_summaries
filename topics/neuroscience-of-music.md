@@ -6,9 +6,12 @@ confidence: medium
 tags: ["neuroscience-of-music"]
 sources:
   - fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there
+  - fxa100-week02-transcript-duration-631
   - fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind
   - fxa100-week03-the-effects-of-music-on-the-brain-video-transcript
-updated: 2026-05-03
+  - fxa100-week03-the-power-of-music
+  - fxa301-week06-music-and-medicine
+updated: 2026-05-05
 ---
 
 ## The Neuroscience of Music
@@ -28,5 +31,8 @@ The integration of findings from three sources highlights the profound impact mu
 ## Sources
 
 - [fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there](../sources/fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there.md)
+- [fxa100-week02-transcript-duration-631](../sources/fxa100-week02-transcript-duration-631.md)
 - [fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind](../sources/fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind.md)
 - [fxa100-week03-the-effects-of-music-on-the-brain-video-transcript](../sources/fxa100-week03-the-effects-of-music-on-the-brain-video-transcript.md)
+- [fxa100-week03-the-power-of-music](../sources/fxa100-week03-the-power-of-music.md)
+- [fxa301-week06-music-and-medicine](../sources/fxa301-week06-music-and-medicine.md)

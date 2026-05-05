@@ -11,7 +11,7 @@ tags: ["arts-based-intervention", "mental-health-support", "psychosocial-trainin
 key_concepts: ["Consensual Qualitative Research", "Training of Trainers model", "creative processes in trauma recovery"]
 methods: ["qualitative analysis", "interviews"]
 slug: fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon
-related: ["community-resilience", "mental-health-support", "trauma-recovery"]
+related: ["arts-based-intervention", "community-resilience", "mental-health-support", "trauma-recovery"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,6 +44,7 @@ This study examines an arts-based mental health and psychosocial support (MHPSS)
 
 ## See Also
 
+- [arts-based-intervention](../topics/arts-based-intervention.md)
 - [community-resilience](../topics/community-resilience.md)
 - [mental-health-support](../topics/mental-health-support.md)
 - [trauma-recovery](../topics/trauma-recovery.md)

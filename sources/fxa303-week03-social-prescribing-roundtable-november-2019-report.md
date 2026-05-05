@@ -11,7 +11,7 @@ tags: ["social-prescribing", "primary-care-integration", "health-wellness", "non
 key_concepts: ["social prescribing", "socioeconomic factors", "integrated care"]
 methods: ["roundtable discussion"]
 slug: fxa303-week03-social-prescribing-roundtable-november-2019-report
-related: ["mental-health-support", "social-prescribing"]
+related: ["community-engagement", "mental-health-support", "social-prescribing"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -50,5 +50,6 @@ This initiative is particularly relevant to creative arts and mental wellbeing a
 
 ## See Also
 
+- [community-engagement](../topics/community-engagement.md)
 - [mental-health-support](../topics/mental-health-support.md)
 - [social-prescribing](../topics/social-prescribing.md)

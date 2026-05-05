@@ -7,7 +7,8 @@ tags: ["risk-factors"]
 sources:
   - fxa100-week01-dementia-in-australia
   - fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy
-updated: 2026-05-03
+  - fxa303-week03-mental-health-of-adolescents
+updated: 2026-05-05
 ---
 
 ## Risk Factors for Dementia
@@ -28,3 +29,4 @@ Both sources highlight the multifaceted nature of dementia risk factors in Austr
 
 - [fxa100-week01-dementia-in-australia](../sources/fxa100-week01-dementia-in-australia.md)
 - [fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy](../sources/fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy.md)
+- [fxa303-week03-mental-health-of-adolescents](../sources/fxa303-week03-mental-health-of-adolescents.md)

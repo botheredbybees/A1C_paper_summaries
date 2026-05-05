@@ -11,7 +11,7 @@ tags: ["community-engagement", "urban-renewal", "social-cohesion", "cultural-ide
 key_concepts: ["reverse-graffiti", "sense-of-place", "community-vitality"]
 methods: ["case-study"]
 slug: fxa301-week05-how-murals-helped-turn-a-declining-community-around
-related: ["cultural-identity", "public-art", "social-cohesion"]
+related: ["community-engagement", "cultural-identity", "public-art", "social-cohesion"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,6 +44,7 @@ This article discusses the impact of community mural projects on revitalizing th
 
 ## See Also
 
+- [community-engagement](../topics/community-engagement.md)
 - [cultural-identity](../topics/cultural-identity.md)
 - [public-art](../topics/public-art.md)
 - [social-cohesion](../topics/social-cohesion.md)

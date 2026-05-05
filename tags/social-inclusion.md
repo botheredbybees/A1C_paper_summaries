@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-inclusion
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Social Inclusion
@@ -16,5 +16,6 @@ updated: 2026-05-04
 - [The Arts and Healing: The Power of an Idea](../sources/fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2.md)
 - [Group singing fosters mental health and wellbeing: findings from the East Kent \u2018singing for health\u2019 network project](../sources/fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings.md)
 - [Disability Awareness and Etiquette: Transforming Perceptions Through a Series of Experiential Exercises](../sources/fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions.md)
+- [Creativity and Mental Health](../sources/fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam.md)
 - [Arts Education and Society: The Role of the Arts in Promoting Emotional Wellbeing and Social Inclusion of Young People](../sources/fxa303-week10-arts-education-and-society-the-role-of-the-arts-in.md)
 - [\u201cYesterday I Couldn\u2019t See. Tomorrow\u2019s Sun Shines Now\u201d: Sharing Migrant Stories Through Creative Arts to Foster Community Connections and Wellbeing](../sources/fxa303-week10-yesterday-i-couldnt-see-tomorrows-sun-shines-now-sharing.md)

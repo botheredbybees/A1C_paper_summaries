@@ -11,7 +11,7 @@ tags: ["dementia-care", "art-therapy", "quality-of-life", "cognitive-function", 
 key_concepts: ["engagement enhancement", "self-reported quality of life", "visual arts intervention"]
 methods: ["ABA reversal design"]
 slug: fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to
-related: ["cognitive-function", "communication-skills", "dementia-care", "quality-of-life"]
+related: ["art-therapy", "cognitive-function", "communication-skills", "dementia-care", "quality-of-life"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,6 +43,7 @@ This research article evaluates the efficacy of a visual arts program, specifica
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [cognitive-function](../topics/cognitive-function.md)
 - [communication-skills](../topics/communication-skills.md)
 - [dementia-care](../topics/dementia-care.md)

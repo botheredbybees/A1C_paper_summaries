@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: self-portrait-memory
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Self Portrait Memory

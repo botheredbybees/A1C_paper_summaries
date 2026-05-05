@@ -10,13 +10,14 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
+  - unit: FXA301
 tags: ["arts-for-health", "community-wellness", "health-literacy", "fxa301"]
 key_concepts: ["social-engagement", "cultural-asset-index", "creative-storytelling"]
 methods: []
 slug: fxa301-oxford-textbook-of-creative-arts-ch03-chapter-13
-related: []
+related: ["arts-for-health", "community-wellness"]
 created: 2026-05-03
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-oxford-textbook-of-creative-arts-ch03-chapter-13.md_
@@ -44,4 +45,5 @@ This chapter explores the use of arts in enhancing wellness, access to healthcar
 
 ## See Also
 
-*(none yet)*
+- [arts-for-health](../topics/arts-for-health.md)
+- [community-wellness](../topics/community-wellness.md)

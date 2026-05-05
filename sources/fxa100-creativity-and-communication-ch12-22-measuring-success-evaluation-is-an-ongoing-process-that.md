@@ -12,7 +12,7 @@ tags: ["dementia", "arts-based-intervention", "evaluation-methods", "fxa100"]
 key_concepts: ["person-centered care", "creative expression", "flexible evaluation criteria"]
 methods: []
 slug: fxa100-creativity-and-communication-ch12-22-measuring-success-evaluation-is-an-ongoing-process-that
-related: ["dementia", "evaluation-methods"]
+related: ["arts-based-intervention", "dementia", "evaluation-methods"]
 created: 2026-05-03
 updated: 2026-05-04
 ---
@@ -42,5 +42,6 @@ This chapter discusses the evaluation process for arts-based projects involving 
 
 ## See Also
 
+- [arts-based-intervention](../topics/arts-based-intervention.md)
 - [dementia](../topics/dementia.md)
 - [evaluation-methods](../topics/evaluation-methods.md)

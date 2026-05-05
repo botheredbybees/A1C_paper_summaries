@@ -11,7 +11,7 @@ tags: ["arts-and-culture", "community-engagement", "wellness", "fxa301"]
 key_concepts: ["self-confidence", "sense-of-belonging"]
 methods: []
 slug: fxa301-week08-transcript-arts-gymnasium-at-belgrade-theatre-coventry
-related: ["arts-and-culture"]
+related: ["arts-and-culture", "community-engagement"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,3 +41,4 @@ This transcript features personal stories shared by participants of the Arts Gym
 ## See Also
 
 - [arts-and-culture](../topics/arts-and-culture.md)
+- [community-engagement](../topics/community-engagement.md)

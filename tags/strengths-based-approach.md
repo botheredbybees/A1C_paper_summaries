@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: strengths-based-approach
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Strengths Based Approach

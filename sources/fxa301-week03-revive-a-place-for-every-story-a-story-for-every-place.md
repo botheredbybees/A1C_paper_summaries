@@ -11,7 +11,7 @@ tags: ["cultural-policy", "arts-sector", "first-nations-heritage", "economic-opp
 key_concepts: ["creative economy", "First Nations stories", "cultural infrastructure"]
 methods: []
 slug: fxa301-week03-revive-a-place-for-every-story-a-story-for-every-place
-related: []
+related: ["cultural-policy"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,4 +43,4 @@ The document 'Revive' is a five-year cultural policy for Australia that outlines
 
 ## See Also
 
-*(none yet)*
+- [cultural-policy](../topics/cultural-policy.md)

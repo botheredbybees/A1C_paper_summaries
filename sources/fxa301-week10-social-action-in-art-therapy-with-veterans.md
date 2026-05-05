@@ -11,7 +11,7 @@ tags: ["veteran-therapy", "art-therapy", "social-action", "mental-health-interve
 key_concepts: ["art therapy", "social action", "PTSD treatment", "cultural sensitivity", "community engagement"]
 methods: ["case study", "literature review"]
 slug: fxa301-week10-social-action-in-art-therapy-with-veterans
-related: ["mental-health-intervention", "trauma-recovery"]
+related: ["art-therapy", "mental-health-intervention", "trauma-recovery"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -50,5 +50,6 @@ The thesis concludes by discussing broader implications for mental health practi
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [mental-health-intervention](../topics/mental-health-intervention.md)
 - [trauma-recovery](../topics/trauma-recovery.md)

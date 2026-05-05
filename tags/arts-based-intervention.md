@@ -1,9 +1,10 @@
 ---
 type: tag
 tag: arts-based-intervention
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Arts Based Intervention
 
+- [Measuring Success](../sources/fxa100-creativity-and-communication-ch12-22-measuring-success-evaluation-is-an-ongoing-process-that.md)
 - [Arts-based psychosocial training after the Yolanda typhoon in the Philippines](../sources/fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon.md)

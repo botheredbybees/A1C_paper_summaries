@@ -8,7 +8,8 @@ sources:
   - fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia
   - fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for
   - fxa100-week04-music-therapy-and-music-assisted-caregiving-for-dementia
-updated: 2026-05-04
+  - fxa301-week01-is-there-compelling-evidence-for-using-the-arts-in-health
+updated: 2026-05-05
 ---
 
 ## Patient Outcomes in Dementia Care
@@ -30,3 +31,4 @@ The provided sources explore various interventions aimed at improving patient ou
 - [fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia](../sources/fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia.md)
 - [fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for](../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for.md)
 - [fxa100-week04-music-therapy-and-music-assisted-caregiving-for-dementia](../sources/fxa100-week04-music-therapy-and-music-assisted-caregiving-for-dementia.md)
+- [fxa301-week01-is-there-compelling-evidence-for-using-the-arts-in-health](../sources/fxa301-week01-is-there-compelling-evidence-for-using-the-arts-in-health.md)

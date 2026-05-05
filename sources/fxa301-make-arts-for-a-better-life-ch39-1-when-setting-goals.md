@@ -14,7 +14,7 @@ tags: ["community-arts", "results-based-management", "cultural-change", "fxa301"
 key_concepts: ["results-based management", "celebrating arts", "fragile traditions"]
 methods: []
 slug: fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals
-related: ["community-arts"]
+related: ["community-arts", "results-based-management"]
 created: 2026-05-03
 updated: 2026-05-04
 ---
@@ -45,3 +45,4 @@ This chapter discusses the final step in the Make Arts process, which focuses on
 ## See Also
 
 - [community-arts](../topics/community-arts.md)
+- [results-based-management](../topics/results-based-management.md)

@@ -11,7 +11,7 @@ tags: ["eating-disorders", "art-therapy", "mental-health-intervention", "fxa301"
 key_concepts: ["anorexia-bulimia", "emotional-expression", "creative-strategies"]
 methods: ["case-study"]
 slug: fxa301-week10-eating-disorders-and-art-therapy
-related: ["eating-disorders", "mental-health-intervention"]
+related: ["art-therapy", "eating-disorders", "mental-health-intervention"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -41,5 +41,6 @@ The article discusses the therapeutic potential of art therapy in treating eatin
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [eating-disorders](../topics/eating-disorders.md)
 - [mental-health-intervention](../topics/mental-health-intervention.md)

@@ -5,10 +5,16 @@ title: "Research Methods in Healthcare Evaluation"
 confidence: medium
 tags: ["research-methods"]
 sources:
+  - fxa100-week04-an-introduction-to-research
+  - fxa301-arts-in-health-ch29-4-invite-open-responses
   - fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision
+  - fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision-(2)
   - fxa301-arts-in-health-ch67-chapter-6
   - fxa301-arts-in-health-ch67-chapter-6-(2)
-updated: 2026-05-04
+  - fxa301-arts-in-health-ch76-3-responsibility
+  - fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts
+  - fxa301-week01-a-step-by-step-approach-to-the-research-process
+updated: 2026-05-05
 ---
 
 ## Research Methods in Healthcare Evaluation
@@ -27,6 +33,12 @@ The sources collectively emphasize the importance of various research methodolog
 
 ## Sources
 
+- [fxa100-week04-an-introduction-to-research](../sources/fxa100-week04-an-introduction-to-research.md)
+- [fxa301-arts-in-health-ch29-4-invite-open-responses](../sources/fxa301-arts-in-health-ch29-4-invite-open-responses.md)
 - [fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision](../sources/fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision.md)
+- [fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision-(2)](../sources/fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision-(2).md)
 - [fxa301-arts-in-health-ch67-chapter-6](../sources/fxa301-arts-in-health-ch67-chapter-6.md)
 - [fxa301-arts-in-health-ch67-chapter-6-(2)](../sources/fxa301-arts-in-health-ch67-chapter-6-(2).md)
+- [fxa301-arts-in-health-ch76-3-responsibility](../sources/fxa301-arts-in-health-ch76-3-responsibility.md)
+- [fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts](../sources/fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts.md)
+- [fxa301-week01-a-step-by-step-approach-to-the-research-process](../sources/fxa301-week01-a-step-by-step-approach-to-the-research-process.md)

@@ -11,7 +11,7 @@ tags: ["dementia-care", "art-therapy", "museum-programs", "outdoor-art", "fxa100
 key_concepts: ["dementia engagement programs", "photographic images in therapy", "indigenous dementia care"]
 methods: []
 slug: fxa100-week07-lesson-fxa100-week07-inside-and-outside-the-galleries
-related: ["dementia-care"]
+related: ["art-therapy", "dementia-care"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,4 +42,5 @@ This lesson explores various programs designed to engage individuals with dement
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [dementia-care](../topics/dementia-care.md)

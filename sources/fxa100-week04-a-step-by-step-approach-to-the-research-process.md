@@ -11,7 +11,7 @@ tags: ["arts-and-health", "research-methodology", "creative-research", "health-i
 key_concepts: ["scientific-rigor-in-creativity", "stakeholder-engagement", "four-stage-framework"]
 methods: ["systematic-review", "mixed-methods"]
 slug: fxa100-week04-a-step-by-step-approach-to-the-research-process
-related: ["arts-and-health", "creative-research", "health-interventions"]
+related: ["arts-and-health", "creative-research", "health-interventions", "research-methodology"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,3 +46,4 @@ This chapter outlines a systematic approach to conducting research in arts and h
 - [arts-and-health](../topics/arts-and-health.md)
 - [creative-research](../topics/creative-research.md)
 - [health-interventions](../topics/health-interventions.md)
+- [research-methodology](../topics/research-methodology.md)

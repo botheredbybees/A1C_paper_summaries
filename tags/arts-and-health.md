@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-and-health
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Arts And Health
@@ -13,9 +13,14 @@ updated: 2026-05-04
 - [Arts, Health and Well-Being: A Critical Perspective on Research, Policy and Practice - Introduction](../sources/fxa202-week10-arts-health-and-well-being-a-critical-perspective-on.md)
 - [Developing Partnerships and Briefs in Arts and Health Projects](../sources/fxa301-arts-in-health-ch43-1-collaborative-design.md)
 - [Collection of Academic Works in Ethnomusicology and Applied Anthropology](../sources/fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2).md)
+- [The Role of Qualitative Research in Arts and Health](../sources/fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10.md)
 - [The Arts and Healing: The Power of an Idea](../sources/fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2.md)
+- [Creative and credible evaluation for arts, health and well-being: opportunities and challenges of co-production](../sources/fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well.md)
+- [Creative and credible evaluation for arts, health and well-being: opportunities and challenges of co-production](../sources/fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well-(2).md)
+- [Guidelines for Arts and Mental Health Projects](../sources/fxa301-week01-guidelines-for-arts-and-mental-health-projects.md)
 - [Evaluating benefits to health and wellbeing](../sources/fxa301-week01-lesson-fxa301-week01-page-1-hm.md)
 - [Evaluating Outcomes and Benefits of Community Creative Arts Projects](../sources/fxa301-week01-lesson-fxa301-week01-page-3-hm-evaluating-a-project.md)
+- [Week 2 Introduction - FXA301 Arts in the Community](../sources/fxa301-week01-week-2-introduction-fxa301-arts-in-the-community.md)
 - [Creating Our Future: Spotlight on Health and Wellbeing](../sources/fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing.md)
 - [Developing a national arts and health policy framework](../sources/fxa301-week03-developing-a-national-arts-and-health-policy-framework.md)
 - [Evidence Requirements for the Development of the National Australian Arts and Health Framework](../sources/fxa301-week03-evidence-requirements-for-the-development-of-the-national.md)

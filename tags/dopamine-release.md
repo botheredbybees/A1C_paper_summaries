@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dopamine-release
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Dopamine Release

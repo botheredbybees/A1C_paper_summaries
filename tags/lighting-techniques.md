@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: lighting-techniques
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Lighting Techniques

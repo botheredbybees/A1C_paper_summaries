@@ -11,7 +11,7 @@ tags: ["mental-health", "therapeutic-photography", "creative-expression", "envir
 key_concepts: ["biophilia", "therapeutic photography", "photo therapy"]
 methods: ["case study"]
 slug: fxa202-week08-week-8-lecture-notes-editing-your-images
-related: ["creative-expression", "environmental-connectivity", "mental-health", "therapeutic-photography"]
+related: ["creative-expression", "environmental-connectivity", "mental-health", "reflective-practice", "therapeutic-photography"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -47,4 +47,5 @@ This week’s lecture emphasizes the importance of editing techniques and mindfu
 - [creative-expression](../topics/creative-expression.md)
 - [environmental-connectivity](../topics/environmental-connectivity.md)
 - [mental-health](../topics/mental-health.md)
+- [reflective-practice](../topics/reflective-practice.md)
 - [therapeutic-photography](../topics/therapeutic-photography.md)

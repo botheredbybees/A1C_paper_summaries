@@ -8,7 +8,10 @@ sources:
   - fxa100-week01-living-with-dementia-12-what-is-vascular-dementia
   - fxa100-week01-transcript-alzheimers-society
   - fxa100-week01-transcript-the-science-of-lewy-body-dementia
-updated: 2026-05-03
+  - fxa100-week02-the-power-of-music
+  - fxa100-week03-transcript-the-effects-of-music-on-the-brain
+  - fxa301-week01-web-article-zuckerman-2009
+updated: 2026-05-05
 ---
 
 ## Types Of Neurological Dementias
@@ -29,3 +32,6 @@ The provided sources highlight various forms of neurological dementias, each wit
 - [fxa100-week01-living-with-dementia-12-what-is-vascular-dementia](../sources/fxa100-week01-living-with-dementia-12-what-is-vascular-dementia.md)
 - [fxa100-week01-transcript-alzheimers-society](../sources/fxa100-week01-transcript-alzheimers-society.md)
 - [fxa100-week01-transcript-the-science-of-lewy-body-dementia](../sources/fxa100-week01-transcript-the-science-of-lewy-body-dementia.md)
+- [fxa100-week02-the-power-of-music](../sources/fxa100-week02-the-power-of-music.md)
+- [fxa100-week03-transcript-the-effects-of-music-on-the-brain](../sources/fxa100-week03-transcript-the-effects-of-music-on-the-brain.md)
+- [fxa301-week01-web-article-zuckerman-2009](../sources/fxa301-week01-web-article-zuckerman-2009.md)

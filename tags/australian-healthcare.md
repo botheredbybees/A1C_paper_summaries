@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: australian-healthcare
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Australian Healthcare

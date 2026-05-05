@@ -11,7 +11,9 @@ sources:
   - fxa202-week02-photography-tips-point-of-view-composition
   - fxa202-week02-super-simple-introduction-to-manual-mode-and-how-it-will
   - fxa202-week02-week-2-making-pictures
-updated: 2026-05-03
+  - fxa202-week08-home-hints-for-artwork-and-object-documentation-(2)
+  - fxa202-week09-do-you-struggle-with-constructing-a-photo-story-try-this-3
+updated: 2026-05-05
 ---
 
 ## Photography Tips and Techniques
@@ -36,3 +38,5 @@ The sources collectively highlight the importance of mastering fundamental photo
 - [fxa202-week02-photography-tips-point-of-view-composition](../sources/fxa202-week02-photography-tips-point-of-view-composition.md)
 - [fxa202-week02-super-simple-introduction-to-manual-mode-and-how-it-will](../sources/fxa202-week02-super-simple-introduction-to-manual-mode-and-how-it-will.md)
 - [fxa202-week02-week-2-making-pictures](../sources/fxa202-week02-week-2-making-pictures.md)
+- [fxa202-week08-home-hints-for-artwork-and-object-documentation-(2)](../sources/fxa202-week08-home-hints-for-artwork-and-object-documentation-(2).md)
+- [fxa202-week09-do-you-struggle-with-constructing-a-photo-story-try-this-3](../sources/fxa202-week09-do-you-struggle-with-constructing-a-photo-story-try-this-3.md)

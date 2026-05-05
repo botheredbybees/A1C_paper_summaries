@@ -10,13 +10,14 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
+  - unit: FXA301
 tags: ["community-engagement", "arts-for-social-change", "goal-setting", "fxa301"]
 key_concepts: ["holistic approach", "community ownership"]
 methods: []
 slug: fxa301-make-arts-for-a-better-life-ch09-5-choose-a-goal-needs-may-be-linked-within-communities
-related: []
+related: ["community-engagement"]
 created: 2026-05-03
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-make-arts-for-a-better-life-ch09-5-choose-a-goal-needs-may-be-linked-within-communities.md_
@@ -43,4 +44,4 @@ This chapter discusses the importance of community members identifying goals for
 
 ## See Also
 
-*(none yet)*
+- [community-engagement](../topics/community-engagement.md)

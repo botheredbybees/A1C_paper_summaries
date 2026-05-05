@@ -6,8 +6,9 @@ confidence: medium
 tags: ["evidence-based-practice"]
 sources:
   - fxa100-week04-music-therapy-disability-evidence-summary-2024
+  - fxa301-week01-assessing-confidence-in-what-works-in-social-policy
   - fxa301-week03-evidence-requirements-for-the-development-of-the-national
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Evidence-Based Practice in Music Therapy
@@ -27,4 +28,5 @@ The integration of evidence-based practices into music therapy interventions for
 ## Sources
 
 - [fxa100-week04-music-therapy-disability-evidence-summary-2024](../sources/fxa100-week04-music-therapy-disability-evidence-summary-2024.md)
+- [fxa301-week01-assessing-confidence-in-what-works-in-social-policy](../sources/fxa301-week01-assessing-confidence-in-what-works-in-social-policy.md)
 - [fxa301-week03-evidence-requirements-for-the-development-of-the-national](../sources/fxa301-week03-evidence-requirements-for-the-development-of-the-national.md)

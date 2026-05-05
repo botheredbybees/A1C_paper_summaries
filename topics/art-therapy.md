@@ -5,23 +5,69 @@ title: "Art Therapy"
 confidence: high
 tags: ["art-therapy"]
 sources:
+  - fxa100-week04-making-art-with-communities-a-work-guide
+  - fxa100-week06-art-training-in-dementia-a-randomized-controlled-trial
+  - fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual
+  - fxa100-week06-how-creating-sculpture-benefits-people-with-dementia
+  - fxa100-week06-lesson-fxa100-week06-page-1-welcome-to-week-6
+  - fxa100-week06-lesson-fxa100-week06-page-2-visual-arts-and-the-brain
   - fxa100-week06-lesson-fxa100-week06-page-3-the-arts-and-art-therapy
+  - fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities
+  - fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to
   - fxa100-week06-the-arts-and-art-therapy
   - fxa100-week06-transcript-art-therapy-has-many-faces
   - fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care
+  - fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia
+  - fxa100-week07-artful-art-and-dementia-toolkit
+  - fxa100-week07-fxa100-week-7-lecture
+  - fxa100-week07-lesson-fxa100-week07-inside-and-outside-the-galleries
+  - fxa100-week07-lesson-fxa100-week07-page-4-activities
+  - fxa100-week07-nurturing-the-heart-creativity-art-therapy-and-dementia
+  - fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people
+  - fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery
+  - fxa100-week08-art-and-alzheimer-type-dementia-a-longitudinal-study
   - fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia
+  - fxa100-week08-transcript-youtube-l3cci-2kwkk
   - fxa100-week08-web-article-gross-2016
   - fxa100-week08-web-article-huebner-2012
+  - fxa100-week08-week-8-lecture-art-therapy-in-dementia-care
+  - fxa202-week06-donna-a-photo-essay
   - fxa202-week09-healing-through-art-and-music
+  - fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health
+  - fxa202-week10-identity-connection-and-motivation
+  - fxa202-week10-introduction-art-therapy-and-creative-aging
+  - fxa202-week10-the-reciprocal-influence-of-art-and-aging
+  - fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the
   - fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2
+  - fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in
   - fxa301-week03-four-big-ways-to-improve-health-through-the-arts
+  - fxa301-week05-art-as-therapy
+  - fxa301-week05-art-making-and-illness-two-case-studies
+  - fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our
+  - fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at
   - fxa301-week05-web-article-reynolds-2006
   - fxa301-week05-week-5-activities-fxa301-arts-in-the-community
+  - fxa301-week08-the-connection-between-art-healing-and-public-health-a
+  - fxa301-week10-an-adjunctive-museum-based-art-therapy-experience-in-the
   - fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the-(2)
   - fxa301-week10-body-talk-examining-a-collaborative-multiple-visit-program
+  - fxa301-week10-eating-disorders-and-art-therapy
+  - fxa301-week10-lesson-fxa301-week10-page-2
+  - fxa301-week10-lesson-fxa301-week10-page-3
   - fxa301-week10-social-action-in-art-therapy-with-veterans
+  - fxa301-week10-web-article-ramirez-2016
+  - fxa303-art-therapy-in-response-to-natural-disasters-ch01-1-body-tracing
+  - fxa303-art-therapy-in-response-to-natural-disasters-ch06-1-i-envisioned-an-opportunity-to-assert-lasalle
+  - fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for
+  - fxa303-week04-exploring-change-in-childrens-and-art-therapists-behavior
+  - fxa303-week04-transcript-duration-3-03
+  - fxa303-week06-art-therapy-with-puppet-making-to-promote-emotional-empathy
   - fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of
-updated: 2026-05-04
+  - fxa303-week09-working-with-trauma-expanding-examining-and-evidencing-the
+  - fxa303-week10-indigenous-and-traditional-arts-in-art-therapy-value
+  - fxa303-week10-indigenous-and-traditional-visual-artistic-practices
+  - fxa303-week10-role-of-art-centres-for-aboriginal-australians-living-with
+updated: 2026-05-05
 ---
 
 ## Art Therapy
@@ -40,19 +86,65 @@ The sources emphasize the broad application and benefits of Art Therapy across v
 
 ## Sources
 
+- [fxa100-week04-making-art-with-communities-a-work-guide](../sources/fxa100-week04-making-art-with-communities-a-work-guide.md)
+- [fxa100-week06-art-training-in-dementia-a-randomized-controlled-trial](../sources/fxa100-week06-art-training-in-dementia-a-randomized-controlled-trial.md)
+- [fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual](../sources/fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual.md)
+- [fxa100-week06-how-creating-sculpture-benefits-people-with-dementia](../sources/fxa100-week06-how-creating-sculpture-benefits-people-with-dementia.md)
+- [fxa100-week06-lesson-fxa100-week06-page-1-welcome-to-week-6](../sources/fxa100-week06-lesson-fxa100-week06-page-1-welcome-to-week-6.md)
+- [fxa100-week06-lesson-fxa100-week06-page-2-visual-arts-and-the-brain](../sources/fxa100-week06-lesson-fxa100-week06-page-2-visual-arts-and-the-brain.md)
 - [fxa100-week06-lesson-fxa100-week06-page-3-the-arts-and-art-therapy](../sources/fxa100-week06-lesson-fxa100-week06-page-3-the-arts-and-art-therapy.md)
+- [fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities](../sources/fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities.md)
+- [fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to](../sources/fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to.md)
 - [fxa100-week06-the-arts-and-art-therapy](../sources/fxa100-week06-the-arts-and-art-therapy.md)
 - [fxa100-week06-transcript-art-therapy-has-many-faces](../sources/fxa100-week06-transcript-art-therapy-has-many-faces.md)
 - [fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care](../sources/fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care.md)
+- [fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia](../sources/fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia.md)
+- [fxa100-week07-artful-art-and-dementia-toolkit](../sources/fxa100-week07-artful-art-and-dementia-toolkit.md)
+- [fxa100-week07-fxa100-week-7-lecture](../sources/fxa100-week07-fxa100-week-7-lecture.md)
+- [fxa100-week07-lesson-fxa100-week07-inside-and-outside-the-galleries](../sources/fxa100-week07-lesson-fxa100-week07-inside-and-outside-the-galleries.md)
+- [fxa100-week07-lesson-fxa100-week07-page-4-activities](../sources/fxa100-week07-lesson-fxa100-week07-page-4-activities.md)
+- [fxa100-week07-nurturing-the-heart-creativity-art-therapy-and-dementia](../sources/fxa100-week07-nurturing-the-heart-creativity-art-therapy-and-dementia.md)
+- [fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people](../sources/fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people.md)
+- [fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery](../sources/fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery.md)
+- [fxa100-week08-art-and-alzheimer-type-dementia-a-longitudinal-study](../sources/fxa100-week08-art-and-alzheimer-type-dementia-a-longitudinal-study.md)
 - [fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia](../sources/fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia.md)
+- [fxa100-week08-transcript-youtube-l3cci-2kwkk](../sources/fxa100-week08-transcript-youtube-l3cci-2kwkk.md)
 - [fxa100-week08-web-article-gross-2016](../sources/fxa100-week08-web-article-gross-2016.md)
 - [fxa100-week08-web-article-huebner-2012](../sources/fxa100-week08-web-article-huebner-2012.md)
+- [fxa100-week08-week-8-lecture-art-therapy-in-dementia-care](../sources/fxa100-week08-week-8-lecture-art-therapy-in-dementia-care.md)
+- [fxa202-week06-donna-a-photo-essay](../sources/fxa202-week06-donna-a-photo-essay.md)
 - [fxa202-week09-healing-through-art-and-music](../sources/fxa202-week09-healing-through-art-and-music.md)
+- [fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health](../sources/fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health.md)
+- [fxa202-week10-identity-connection-and-motivation](../sources/fxa202-week10-identity-connection-and-motivation.md)
+- [fxa202-week10-introduction-art-therapy-and-creative-aging](../sources/fxa202-week10-introduction-art-therapy-and-creative-aging.md)
+- [fxa202-week10-the-reciprocal-influence-of-art-and-aging](../sources/fxa202-week10-the-reciprocal-influence-of-art-and-aging.md)
+- [fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the](../sources/fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2](../sources/fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2.md)
+- [fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in](../sources/fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in.md)
 - [fxa301-week03-four-big-ways-to-improve-health-through-the-arts](../sources/fxa301-week03-four-big-ways-to-improve-health-through-the-arts.md)
+- [fxa301-week05-art-as-therapy](../sources/fxa301-week05-art-as-therapy.md)
+- [fxa301-week05-art-making-and-illness-two-case-studies](../sources/fxa301-week05-art-making-and-illness-two-case-studies.md)
+- [fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our](../sources/fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our.md)
+- [fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at](../sources/fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at.md)
 - [fxa301-week05-web-article-reynolds-2006](../sources/fxa301-week05-web-article-reynolds-2006.md)
 - [fxa301-week05-week-5-activities-fxa301-arts-in-the-community](../sources/fxa301-week05-week-5-activities-fxa301-arts-in-the-community.md)
+- [fxa301-week08-the-connection-between-art-healing-and-public-health-a](../sources/fxa301-week08-the-connection-between-art-healing-and-public-health-a.md)
+- [fxa301-week10-an-adjunctive-museum-based-art-therapy-experience-in-the](../sources/fxa301-week10-an-adjunctive-museum-based-art-therapy-experience-in-the.md)
 - [fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the-(2)](../sources/fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the-(2).md)
 - [fxa301-week10-body-talk-examining-a-collaborative-multiple-visit-program](../sources/fxa301-week10-body-talk-examining-a-collaborative-multiple-visit-program.md)
+- [fxa301-week10-eating-disorders-and-art-therapy](../sources/fxa301-week10-eating-disorders-and-art-therapy.md)
+- [fxa301-week10-lesson-fxa301-week10-page-2](../sources/fxa301-week10-lesson-fxa301-week10-page-2.md)
+- [fxa301-week10-lesson-fxa301-week10-page-3](../sources/fxa301-week10-lesson-fxa301-week10-page-3.md)
 - [fxa301-week10-social-action-in-art-therapy-with-veterans](../sources/fxa301-week10-social-action-in-art-therapy-with-veterans.md)
+- [fxa301-week10-web-article-ramirez-2016](../sources/fxa301-week10-web-article-ramirez-2016.md)
+- [fxa303-art-therapy-in-response-to-natural-disasters-ch01-1-body-tracing](../sources/fxa303-art-therapy-in-response-to-natural-disasters-ch01-1-body-tracing.md)
+- [fxa303-art-therapy-in-response-to-natural-disasters-ch06-1-i-envisioned-an-opportunity-to-assert-lasalle](../sources/fxa303-art-therapy-in-response-to-natural-disasters-ch06-1-i-envisioned-an-opportunity-to-assert-lasalle.md)
+- [fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for](../sources/fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for.md)
+- [fxa303-week04-exploring-change-in-childrens-and-art-therapists-behavior](../sources/fxa303-week04-exploring-change-in-childrens-and-art-therapists-behavior.md)
+- [fxa303-week04-transcript-duration-3-03](../sources/fxa303-week04-transcript-duration-3-03.md)
+- [fxa303-week06-art-therapy-with-puppet-making-to-promote-emotional-empathy](../sources/fxa303-week06-art-therapy-with-puppet-making-to-promote-emotional-empathy.md)
 - [fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of](../sources/fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of.md)
+- [fxa303-week09-working-with-trauma-expanding-examining-and-evidencing-the](../sources/fxa303-week09-working-with-trauma-expanding-examining-and-evidencing-the.md)
+- [fxa303-week10-indigenous-and-traditional-arts-in-art-therapy-value](../sources/fxa303-week10-indigenous-and-traditional-arts-in-art-therapy-value.md)
+- [fxa303-week10-indigenous-and-traditional-visual-artistic-practices](../sources/fxa303-week10-indigenous-and-traditional-visual-artistic-practices.md)
+- [fxa303-week10-role-of-art-centres-for-aboriginal-australians-living-with](../sources/fxa303-week10-role-of-art-centres-for-aboriginal-australians-living-with.md)

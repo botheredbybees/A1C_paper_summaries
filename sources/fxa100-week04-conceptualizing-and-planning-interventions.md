@@ -17,7 +17,7 @@ tags: ["arts-in-health", "intervention-design", "healthcare-improvement", "busin
 key_concepts: ["PESTLE analysis", "quality improvement measures", "patient-centered care"]
 methods: ["case study"]
 slug: fxa100-week04-conceptualizing-and-planning-interventions
-related: ["arts-in-health", "healthcare-improvement", "intervention-design"]
+related: ["arts-in-health", "healthcare-improvement", "intervention-design", "stakeholder-engagement"]
 created: 2026-05-03
 updated: 2026-05-04
 ---
@@ -52,3 +52,4 @@ The chapter discusses the first four stages of designing and delivering arts in 
 - [arts-in-health](../topics/arts-in-health.md)
 - [healthcare-improvement](../topics/healthcare-improvement.md)
 - [intervention-design](../topics/intervention-design.md)
+- [stakeholder-engagement](../topics/stakeholder-engagement.md)

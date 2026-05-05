@@ -6,7 +6,9 @@ confidence: low
 tags: ["arts-based-interventions"]
 sources:
   - fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care
-updated: 2026-05-04
+  - fxa303-week09-national-taskforce-for-creative-recovery-recommendations
+  - fxa303-week10-fxa303-web-lecture-week-10
+updated: 2026-05-05
 ---
 
 ## Arts-Based Interventions
@@ -26,3 +28,5 @@ The integration of arts-based interventions in the realm of dementia care highli
 ## Sources
 
 - [fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care](../sources/fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care.md)
+- [fxa303-week09-national-taskforce-for-creative-recovery-recommendations](../sources/fxa303-week09-national-taskforce-for-creative-recovery-recommendations.md)
+- [fxa303-week10-fxa303-web-lecture-week-10](../sources/fxa303-week10-fxa303-web-lecture-week-10.md)

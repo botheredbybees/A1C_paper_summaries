@@ -11,7 +11,7 @@ tags: ["museum-studies", "community-engagement", "public-art", "fxa301"]
 key_concepts: ["Happy Museum Project", "social capital"]
 methods: []
 slug: fxa301-week05-lesson-fxa301-week05-page-2-hm-take-2-with-newer-content
-related: ["public-art"]
+related: ["community-engagement", "public-art"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,4 +40,5 @@ This lesson explores the role of museums in building community engagement and en
 
 ## See Also
 
+- [community-engagement](../topics/community-engagement.md)
 - [public-art](../topics/public-art.md)

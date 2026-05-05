@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: public-health-policy
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Public Health Policy

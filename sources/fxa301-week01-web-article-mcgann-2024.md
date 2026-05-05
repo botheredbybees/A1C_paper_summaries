@@ -11,7 +11,7 @@ tags: ["creative-research", "arts-funding", "diversity-data", "fxa301"]
 key_concepts: ["Creative Futures Fund", "Street Dance Survey"]
 methods: []
 slug: fxa301-week01-web-article-mcgann-2024
-related: ["creative-research"]
+related: ["arts-funding", "creative-research"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,4 +40,5 @@ The Creative Australia website details its commitment to advancing the arts thro
 
 ## See Also
 
+- [arts-funding](../topics/arts-funding.md)
 - [creative-research](../topics/creative-research.md)

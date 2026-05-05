@@ -11,7 +11,7 @@ tags: ["autism-spectrum-disorders", "art-therapy", "case-study-design", "behavio
 key_concepts: ["sense-of-self", "emotion-regulation", "flexibility", "social-behavior"]
 methods: ["repeated-case-study"]
 slug: fxa303-week04-exploring-change-in-childrens-and-art-therapists-behavior
-related: ["autism-spectrum-disorders"]
+related: ["art-therapy", "autism-spectrum-disorders"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,4 +44,5 @@ This study evaluates the 'Images of Self' (IOS) art therapy program for children
 
 ## See Also
 
+- [art-therapy](../topics/art-therapy.md)
 - [autism-spectrum-disorders](../topics/autism-spectrum-disorders.md)

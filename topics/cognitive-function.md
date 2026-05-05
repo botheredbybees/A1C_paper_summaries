@@ -8,7 +8,10 @@ sources:
   - fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical
   - fxa100-week01-relating-physical-activity-to-cognitive-function-brain
   - fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care
-updated: 2026-05-03
+  - fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care
+  - fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees
+  - fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to
+updated: 2026-05-05
 ---
 
 ## Cognitive Function Enhancement Through Lifestyle Factors
@@ -30,3 +33,6 @@ The integration of lifestyle factors such as diet, physical activity, and sleep 
 - [fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical](../sources/fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical.md)
 - [fxa100-week01-relating-physical-activity-to-cognitive-function-brain](../sources/fxa100-week01-relating-physical-activity-to-cognitive-function-brain.md)
 - [fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care](../sources/fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care.md)
+- [fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care](../sources/fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care.md)
+- [fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees](../sources/fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees.md)
+- [fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to](../sources/fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to.md)

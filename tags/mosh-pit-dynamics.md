@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mosh-pit-dynamics
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 ## Mosh Pit Dynamics

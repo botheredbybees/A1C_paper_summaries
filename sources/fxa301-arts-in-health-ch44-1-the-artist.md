@@ -11,7 +11,7 @@ tags: ["healthcare-settings", "artist-contracts", "project-management", "fxa301"
 key_concepts: ["contractual agreements", "induction processes", "funding strategies"]
 methods: []
 slug: fxa301-arts-in-health-ch44-1-the-artist
-related: []
+related: ["healthcare-settings"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,4 +41,4 @@ This chapter discusses the importance of proper contracting when artists or orga
 
 ## See Also
 
-*(none yet)*
+- [healthcare-settings](../topics/healthcare-settings.md)

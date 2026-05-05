@@ -11,7 +11,7 @@ tags: ["disability-arts", "inclusive-theatre", "dementia-friendly-performances",
 key_concepts: ["inclusion", "societal-understanding", "confidence-building"]
 methods: ["case-study"]
 slug: fxa301-week09-the-importance-of-disability-led-theatre
-related: ["inclusive-theatre"]
+related: ["community-engagement", "inclusive-theatre"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,4 +42,5 @@ This article discusses the significance and impact of disability-led theatre in 
 
 ## See Also
 
+- [community-engagement](../topics/community-engagement.md)
 - [inclusive-theatre](../topics/inclusive-theatre.md)
