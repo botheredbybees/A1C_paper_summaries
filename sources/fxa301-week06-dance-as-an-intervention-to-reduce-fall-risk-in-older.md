@@ -35,7 +35,7 @@ This study conducted a systematic review with meta-analysis to summarize the evi
 - [fall-prevention](../tags/fall-prevention.md)
 - [physical-activity](../tags/physical-activity.md)
 - [systematic-review](../tags/systematic-review.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

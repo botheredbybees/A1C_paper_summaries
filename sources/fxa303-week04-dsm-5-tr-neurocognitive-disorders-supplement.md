@@ -33,7 +33,7 @@ The document is a supplement to the Diagnostic and Statistical Manual of Mental 
 - [neurocognitive-disorders](../tags/neurocognitive-disorders.md)
 - [alzheimer-disease](../tags/alzheimer-disease.md)
 - [frontotemporal-degeneration](../tags/frontotemporal-degeneration.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

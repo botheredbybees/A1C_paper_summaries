@@ -36,7 +36,7 @@ This week’s lecture emphasizes the importance of editing techniques and mindfu
 - [environmental-connectivity](../tags/environmental-connectivity.md)
 - [digital-editing](../tags/digital-editing.md)
 - [reflective-practice](../tags/reflective-practice.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

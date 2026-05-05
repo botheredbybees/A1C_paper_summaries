@@ -35,7 +35,7 @@ The review discusses the book 'Viewpoints: Visual Anthropologists at Work' edite
 - [photography-methods](../tags/photography-methods.md)
 - [dance-studies](../tags/dance-studies.md)
 - [primate-research](../tags/primate-research.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

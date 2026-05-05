@@ -32,7 +32,7 @@ The webpage highlights the University of Adelaide's commitment to providing cont
 - [university-of-adelaide](../tags/university-of-adelaide.md)
 - [student-life](../tags/student-life.md)
 - [research-excellence](../tags/research-excellence.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

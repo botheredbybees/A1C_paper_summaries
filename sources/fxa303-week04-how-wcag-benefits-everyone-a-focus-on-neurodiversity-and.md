@@ -34,7 +34,7 @@ The Web Content Accessibility Guidelines (WCAG) are designed to improve digital 
 - [user-experience-design](../tags/user-experience-design.md)
 - [digital-accessibility-standards](../tags/digital-accessibility-standards.md)
 - [inclusive-web-design](../tags/inclusive-web-design.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

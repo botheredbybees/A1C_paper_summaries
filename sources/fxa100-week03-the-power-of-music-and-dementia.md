@@ -40,7 +40,7 @@ The document highlights the significant impact of music on individuals with deme
 - [dementia-care](../tags/dementia-care.md)
 - [memory-loss-interventions](../tags/memory-loss-interventions.md)
 - [personhood-maintenance](../tags/personhood-maintenance.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

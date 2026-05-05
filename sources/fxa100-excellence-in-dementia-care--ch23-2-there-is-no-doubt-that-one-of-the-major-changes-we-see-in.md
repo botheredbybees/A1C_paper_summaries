@@ -33,7 +33,7 @@ This chapter discusses the critical role of communication in understanding and a
 - [dementia-care](../tags/dementia-care.md)
 - [communication-challenges](../tags/communication-challenges.md)
 - [personhood-theory](../tags/personhood-theory.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

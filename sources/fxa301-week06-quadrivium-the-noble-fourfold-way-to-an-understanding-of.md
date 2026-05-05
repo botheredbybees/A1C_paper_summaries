@@ -33,7 +33,7 @@ Peter Lynch's article in The Irish Times discusses the historical and philosophi
 - [ancient-education](../tags/ancient-education.md)
 - [platonic-theory](../tags/platonic-theory.md)
 - [quadrivium](../tags/quadrivium.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

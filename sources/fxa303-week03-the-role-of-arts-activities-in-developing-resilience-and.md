@@ -39,7 +39,7 @@ The findings indicate that arts-based interventions can offer cost-effective met
 - [resilience-development](../tags/resilience-development.md)
 - [youth-health](../tags/youth-health.md)
 - [community-interventions](../tags/community-interventions.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

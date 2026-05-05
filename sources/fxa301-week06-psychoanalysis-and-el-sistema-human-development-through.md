@@ -33,7 +33,7 @@ The article explores the intersection of psychoanalysis and the El Sistema progr
 - [psychoanalysis-and-music](../tags/psychoanalysis-and-music.md)
 - [el-sistema-program](../tags/el-sistema-program.md)
 - [human-development-through-art](../tags/human-development-through-art.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

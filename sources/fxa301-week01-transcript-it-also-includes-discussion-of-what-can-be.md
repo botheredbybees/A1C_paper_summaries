@@ -33,7 +33,7 @@ The transcript discusses a presentation on the intersection of art and neuroscie
 - [visual-perception](../tags/visual-perception.md)
 - [neuroscience-and-art](../tags/neuroscience-and-art.md)
 - [brain-function](../tags/brain-function.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

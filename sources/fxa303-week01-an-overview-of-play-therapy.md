@@ -36,7 +36,7 @@ The article provides an overview of play therapy, emphasizing its significance i
 - [play-therapy](../tags/play-therapy.md)
 - [therapeutic-tool](../tags/therapeutic-tool.md)
 - [symbolic-expression](../tags/symbolic-expression.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

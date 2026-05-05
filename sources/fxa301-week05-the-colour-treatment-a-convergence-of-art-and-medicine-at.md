@@ -35,7 +35,7 @@ This article explores the historical context of a 'colour treatment' experiment 
 - [world-war-i](../tags/world-war-i.md)
 - [shell-shock-treatment](../tags/shell-shock-treatment.md)
 - [historical-medical-practice](../tags/historical-medical-practice.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

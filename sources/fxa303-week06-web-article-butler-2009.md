@@ -32,7 +32,7 @@ This is an authentication request page for Shibboleth, a federated identity mana
 - [authentication](../tags/authentication.md)
 - [shibboleth](../tags/shibboleth.md)
 - [internet-security](../tags/internet-security.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

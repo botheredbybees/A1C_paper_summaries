@@ -35,7 +35,7 @@ This editorial discusses the importance of trauma-informed care in creative arts
 - [childhood-trauma](../tags/childhood-trauma.md)
 - [neurobiological-effects](../tags/neurobiological-effects.md)
 - [developmental-psychology](../tags/developmental-psychology.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

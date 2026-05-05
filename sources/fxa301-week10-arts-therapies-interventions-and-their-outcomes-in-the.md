@@ -34,7 +34,7 @@ This document presents a scoping review protocol to explore the role of arts the
 - [arts-therapy](../tags/arts-therapy.md)
 - [scoping-review](../tags/scoping-review.md)
 - [mental-health-interventions](../tags/mental-health-interventions.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

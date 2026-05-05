@@ -32,7 +32,7 @@ The chapter explores the role of art therapy in enhancing the quality of life fo
 - [art-therapy](../tags/art-therapy.md)
 - [elderhood-health](../tags/elderhood-health.md)
 - [wellbeing-through-art](../tags/wellbeing-through-art.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

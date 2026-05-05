@@ -35,7 +35,7 @@ This study investigates the prevalence and characteristics of fear of clowns (co
 - [medical-clowns](../tags/medical-clowns.md)
 - [pediatric-psychology](../tags/pediatric-psychology.md)
 - [anxiety-reactions](../tags/anxiety-reactions.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

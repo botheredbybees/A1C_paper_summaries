@@ -32,7 +32,7 @@ In this week's module of the FXA100 course on The Arts and Dementia Care, Dr Bre
 - [music-and-dementia](../tags/music-and-dementia.md)
 - [brain-function](../tags/brain-function.md)
 - [arts-in-rehabilitation](../tags/arts-in-rehabilitation.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

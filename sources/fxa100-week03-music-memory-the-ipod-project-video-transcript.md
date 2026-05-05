@@ -34,7 +34,7 @@ The document discusses the 'iPod Project' and its impact on individuals with Alz
 - [emotional-therapy](../tags/emotional-therapy.md)
 - [quality-of-life-improvement](../tags/quality-of-life-improvement.md)
 - [nursing-home-innovation](../tags/nursing-home-innovation.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

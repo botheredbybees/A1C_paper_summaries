@@ -35,7 +35,7 @@ The document recounts a personal narrative of living with type 1 diabetes throug
 - [patient-narrative](../tags/patient-narrative.md)
 - [chronic-disease-management](../tags/chronic-disease-management.md)
 - [resilience-and-coping](../tags/resilience-and-coping.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

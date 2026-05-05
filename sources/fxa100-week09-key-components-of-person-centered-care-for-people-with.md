@@ -35,7 +35,7 @@ This systematic review aimed to identify key components of person-centered care 
 - [systematic-review](../tags/systematic-review.md)
 - [patient-preference-study](../tags/patient-preference-study.md)
 - [non-pharmacological-treatments](../tags/non-pharmacological-treatments.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

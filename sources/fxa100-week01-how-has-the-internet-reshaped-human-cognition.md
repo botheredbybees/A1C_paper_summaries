@@ -33,7 +33,7 @@ The article by Loh and Kanai explores how the advent of the Internet has profoun
 - [digital-native-cognition](../tags/digital-native-cognition.md)
 - [internet-impact-on-brain](../tags/internet-impact-on-brain.md)
 - [cognitive-behavior-shifts](../tags/cognitive-behavior-shifts.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

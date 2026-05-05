@@ -33,7 +33,7 @@ Chapter 13 of the book 'Developmental Psychology: From Infancy to Adulthood' by 
 - [nature-nurture](../tags/nature-nurture.md)
 - [developmental-stages](../tags/developmental-stages.md)
 - [cognitive-development](../tags/cognitive-development.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

@@ -37,7 +37,7 @@ This week’s lecture explores the concept of a photo essay as a powerful form o
 - [emotional-responses](../tags/emotional-responses.md)
 - [historical-context](../tags/historical-context.md)
 - [investigative-journalism](../tags/investigative-journalism.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

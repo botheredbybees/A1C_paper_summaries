@@ -39,7 +39,7 @@ The authors propose that integrating arts into medical education could help stud
 - [creative-expression](../tags/creative-expression.md)
 - [patient-care](../tags/patient-care.md)
 - [medical-education](../tags/medical-education.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

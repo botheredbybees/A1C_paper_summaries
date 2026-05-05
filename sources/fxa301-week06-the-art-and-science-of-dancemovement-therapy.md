@@ -34,7 +34,7 @@ The second edition of 'The Art and Science of Dance/Movement Therapy' provides a
 - [movement-therapy](../tags/movement-therapy.md)
 - [creative-arts-therapy](../tags/creative-arts-therapy.md)
 - [palliative-care](../tags/palliative-care.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

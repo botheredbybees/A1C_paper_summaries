@@ -33,7 +33,7 @@ The LAW122 Legal Systems course's Week 7 focuses on visual storytelling, particu
 - [visual-storytelling](../tags/visual-storytelling.md)
 - [linear-narrative-structures](../tags/linear-narrative-structures.md)
 - [non-linear-story-telling](../tags/non-linear-story-telling.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

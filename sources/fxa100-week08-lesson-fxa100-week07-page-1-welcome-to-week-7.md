@@ -33,7 +33,7 @@ This week's dementia care module explores the use of visual arts as a therapeuti
 - [dementia-care](../tags/dementia-care.md)
 - [visual-arts-intervention](../tags/visual-arts-intervention.md)
 - [personhood-reinforcement](../tags/personhood-reinforcement.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

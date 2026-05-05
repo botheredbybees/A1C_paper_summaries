@@ -35,7 +35,7 @@ Cheryl Hulburd's book 'Puppet-Assisted Play Therapy' offers an innovative approa
 - [play-therapy](../tags/play-therapy.md)
 - [emotional-expression](../tags/emotional-expression.md)
 - [creative-interventions](../tags/creative-interventions.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

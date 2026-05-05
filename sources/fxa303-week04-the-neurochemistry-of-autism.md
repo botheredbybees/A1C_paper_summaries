@@ -33,7 +33,7 @@ The article reviews the neurochemical alterations underlying autism spectrum dis
 - [neurochemistry-autism](../tags/neurochemistry-autism.md)
 - [gaba-glutamate-balance](../tags/gaba-glutamate-balance.md)
 - [serotonin-dopamine-role](../tags/serotonin-dopamine-role.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

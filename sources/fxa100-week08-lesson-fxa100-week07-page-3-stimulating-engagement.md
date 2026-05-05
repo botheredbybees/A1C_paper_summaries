@@ -32,7 +32,7 @@ This lesson explores how visual arts projects can enhance the quality of life fo
 - [dementia-care](../tags/dementia-care.md)
 - [visual-arts-therapy](../tags/visual-arts-therapy.md)
 - [community-engagement](../tags/community-engagement.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

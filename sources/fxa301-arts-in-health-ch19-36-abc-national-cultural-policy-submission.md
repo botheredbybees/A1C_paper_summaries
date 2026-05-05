@@ -38,7 +38,7 @@ The chapter explores the concept of 'arts in health', a field that lacks a stand
 - [medical-humanities](../tags/medical-humanities.md)
 - [psychotherapy](../tags/psychotherapy.md)
 - [healthcare-environment](../tags/healthcare-environment.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

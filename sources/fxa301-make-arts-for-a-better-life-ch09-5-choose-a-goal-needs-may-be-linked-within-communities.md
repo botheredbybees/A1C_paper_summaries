@@ -36,7 +36,7 @@ This chapter discusses the importance of community members identifying goals for
 - [community-engagement](../tags/community-engagement.md)
 - [arts-for-social-change](../tags/arts-for-social-change.md)
 - [goal-setting](../tags/goal-setting.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

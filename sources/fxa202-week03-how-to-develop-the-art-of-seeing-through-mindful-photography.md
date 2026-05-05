@@ -35,7 +35,7 @@ Gregory Berg's article explores the concept of developing a unique photographic 
 - [attentional-aperture](../tags/attentional-aperture.md)
 - [mental-wellbeing](../tags/mental-wellbeing.md)
 - [neural-pathways](../tags/neural-pathways.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

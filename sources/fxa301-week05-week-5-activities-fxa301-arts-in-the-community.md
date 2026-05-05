@@ -37,7 +37,7 @@ The document outlines activities for Week 5 of the course FXA301 Arts in the Com
 - [employability-skills](../tags/employability-skills.md)
 - [art-therapy](../tags/art-therapy.md)
 - [wellbeing](../tags/wellbeing.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

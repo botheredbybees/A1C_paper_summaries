@@ -36,7 +36,7 @@ This chapter explores the role of hip hop among migrant youth in Australia's reg
 - [cultural-expression](../tags/cultural-expression.md)
 - [identity-negotiation](../tags/identity-negotiation.md)
 - [social-isolation](../tags/social-isolation.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

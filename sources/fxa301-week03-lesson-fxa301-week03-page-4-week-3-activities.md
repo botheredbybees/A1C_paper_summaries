@@ -33,7 +33,7 @@ Week 3 of the course includes a reading activity featuring an ABC Radio National
 - [arts-in-community](../tags/arts-in-community.md)
 - [wellbeing-through-art](../tags/wellbeing-through-art.md)
 - [health-policy](../tags/health-policy.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

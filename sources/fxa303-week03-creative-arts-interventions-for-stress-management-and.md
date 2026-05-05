@@ -33,7 +33,7 @@ The article presents a systematic review of studies examining the efficacy of Cr
 - [stress-management](../tags/stress-management.md)
 - [preventive-healthcare](../tags/preventive-healthcare.md)
 - [systematic-review](../tags/systematic-review.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

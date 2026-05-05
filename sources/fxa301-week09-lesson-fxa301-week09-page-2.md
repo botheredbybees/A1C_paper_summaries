@@ -33,7 +33,7 @@ This lesson discusses the concept of Inclusive Arts, which focuses on creative a
 - [disability-rights](../tags/disability-rights.md)
 - [social-model-disability](../tags/social-model-disability.md)
 - [creative-expression](../tags/creative-expression.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

@@ -35,7 +35,7 @@ The Indigenous Mental Health and Suicide Prevention Clearinghouse provides an ov
 - [suicide-prevention](../tags/suicide-prevention.md)
 - [aboriginal-culture](../tags/aboriginal-culture.md)
 - [publications](../tags/publications.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

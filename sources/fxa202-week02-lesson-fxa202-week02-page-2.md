@@ -36,7 +36,7 @@ This lesson focuses on improving the visual impact of photographs through effect
 - [photography](../tags/photography.md)
 - [rules-of-thumb](../tags/rules-of-thumb.md)
 - [creative-techniques](../tags/creative-techniques.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

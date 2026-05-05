@@ -32,7 +32,7 @@ The video provides an introduction to the use and creation of rod puppets, a typ
 - [puppet-theatre](../tags/puppet-theatre.md)
 - [rod-puppets](../tags/rod-puppets.md)
 - [performance-arts](../tags/performance-arts.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

@@ -35,7 +35,7 @@ The article presents a qualitative study that explores the impact of 'Singing fo
 - [music-therapy](../tags/music-therapy.md)
 - [wellbeing-interventions](../tags/wellbeing-interventions.md)
 - [social-inclusion](../tags/social-inclusion.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

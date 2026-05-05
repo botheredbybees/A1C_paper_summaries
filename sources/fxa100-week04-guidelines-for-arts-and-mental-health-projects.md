@@ -35,7 +35,7 @@ The document 'Guidelines for Arts and Mental Health Projects' compiled by Simone
 - [community-wellbeing](../tags/community-wellbeing.md)
 - [collaborative-practice](../tags/collaborative-practice.md)
 - [social-inclusion](../tags/social-inclusion.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

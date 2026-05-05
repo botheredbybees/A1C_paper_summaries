@@ -34,7 +34,7 @@ The article discusses a groundbreaking initiative to use theatre as a medium for
 - [person-centered-care](../tags/person-centered-care.md)
 - [theatre-in-education](../tags/theatre-in-education.md)
 - [empathy-building](../tags/empathy-building.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

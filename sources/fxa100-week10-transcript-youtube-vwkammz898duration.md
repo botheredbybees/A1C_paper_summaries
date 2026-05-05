@@ -32,7 +32,7 @@ The transcript features dialogue about a grandmother named Gwen who struggles wi
 - [memory-loss](../tags/memory-loss.md)
 - [family-bonding](../tags/family-bonding.md)
 - [lyric-expressions](../tags/lyric-expressions.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

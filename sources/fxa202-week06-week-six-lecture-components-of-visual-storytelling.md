@@ -35,7 +35,7 @@ The Week Six lecture focuses on the craft of visual storytelling, specifically a
 - [photography-principles](../tags/photography-principles.md)
 - [creative-expression](../tags/creative-expression.md)
 - [educational-material](../tags/educational-material.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

@@ -36,7 +36,7 @@ A study conducted in a care home found that singing in group music sessions sign
 - [neuroplasticity-in-dementia](../tags/neuroplasticity-in-dementia.md)
 - [quality-of-life-improvement](../tags/quality-of-life-improvement.md)
 - [alzheimers-research](../tags/alzheimers-research.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

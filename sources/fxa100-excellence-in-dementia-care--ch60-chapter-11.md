@@ -34,7 +34,7 @@ This chapter discusses the significance of physical environmental design in enha
 - [dementia-care](../tags/dementia-care.md)
 - [environmental-design](../tags/environmental-design.md)
 - [quality-of-life](../tags/quality-of-life.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

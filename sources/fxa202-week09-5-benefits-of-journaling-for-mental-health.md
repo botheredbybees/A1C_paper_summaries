@@ -36,7 +36,7 @@ The article '5 Benefits of Journaling for Mental Health' by Jeremy Sutton, Ph.D.
 - [emotional-wellbeing](../tags/emotional-wellbeing.md)
 - [cognitive-processing](../tags/cognitive-processing.md)
 - [stress-management](../tags/stress-management.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

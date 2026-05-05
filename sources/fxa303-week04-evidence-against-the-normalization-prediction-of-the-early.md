@@ -35,7 +35,7 @@ The study challenges the 'normalization' prediction of the Early Brain Overgrowt
 - [cerebral-volume-analysis](../tags/cerebral-volume-analysis.md)
 - [neurodevelopmental-research](../tags/neurodevelopmental-research.md)
 - [quantitative-neuroimaging](../tags/quantitative-neuroimaging.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

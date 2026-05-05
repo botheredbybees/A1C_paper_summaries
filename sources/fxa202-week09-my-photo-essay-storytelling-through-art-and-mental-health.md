@@ -35,7 +35,7 @@ The document discusses a photo essay that explores the author's personal journey
 - [photography-research](../tags/photography-research.md)
 - [personal-narrative](../tags/personal-narrative.md)
 - [therapeutic-expression](../tags/therapeutic-expression.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

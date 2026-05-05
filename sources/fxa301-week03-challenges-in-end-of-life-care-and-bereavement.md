@@ -37,7 +37,7 @@ The document highlights significant challenges within end-of-life care, emphasiz
 - [creative-health-interventions](../tags/creative-health-interventions.md)
 - [advance-care-planning](../tags/advance-care-planning.md)
 - [health-disparities](../tags/health-disparities.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

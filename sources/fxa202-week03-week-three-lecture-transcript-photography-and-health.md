@@ -35,7 +35,7 @@ This lecture transcript from Week Three of the Photo Essay course explores the r
 - [social-media-effects](../tags/social-media-effects.md)
 - [therapeutic-photography](../tags/therapeutic-photography.md)
 - [nomophobia](../tags/nomophobia.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

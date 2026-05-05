@@ -36,7 +36,7 @@ The Personal Storytelling and Memoir Writing course offered by the Writers' Cent
 - [self-expression](../tags/self-expression.md)
 - [story-structure](../tags/story-structure.md)
 - [character-development](../tags/character-development.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

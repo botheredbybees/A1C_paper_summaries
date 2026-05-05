@@ -33,7 +33,7 @@ This study investigates the impact of visual art production and cognitive evalua
 - [brain-connectivity](../tags/brain-connectivity.md)
 - [art-therapy](../tags/art-therapy.md)
 - [f-mri-study](../tags/f-mri-study.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

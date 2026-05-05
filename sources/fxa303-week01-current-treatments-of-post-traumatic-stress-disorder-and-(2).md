@@ -34,7 +34,7 @@ This article reviews current treatments for post-traumatic stress disorder (PTSD
 - [amygdala-ablation](../tags/amygdala-ablation.md)
 - [refractory-cases](../tags/refractory-cases.md)
 - [neurosurgery](../tags/neurosurgery.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

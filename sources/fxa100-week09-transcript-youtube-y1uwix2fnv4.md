@@ -33,7 +33,7 @@ In this interview, Sally Bailey, a professor in the theater department and direc
 - [drama therapy](../tags/drama-therapy.md)
 - [creativity in aging](../tags/creativity-in-aging.md)
 - [improvisation](../tags/improvisation.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

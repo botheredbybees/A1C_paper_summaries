@@ -36,7 +36,7 @@ The article explores the use of puppets in play therapy as a tool for emotional 
 - [child-psychology](../tags/child-psychology.md)
 - [therapeutic-engagement](../tags/therapeutic-engagement.md)
 - [symbolic-interaction](../tags/symbolic-interaction.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

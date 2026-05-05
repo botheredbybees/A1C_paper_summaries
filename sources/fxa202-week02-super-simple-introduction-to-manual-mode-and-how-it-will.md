@@ -34,7 +34,7 @@ The article by Anthony Epes titled 'Super Simple Introduction to Manual Mode and
 - [exposure-triangle](../tags/exposure-triangle.md)
 - [creative-photography](../tags/creative-photography.md)
 - [lighting-techniques](../tags/lighting-techniques.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

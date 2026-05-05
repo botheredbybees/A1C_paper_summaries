@@ -32,7 +32,7 @@ This transcript provides an overview of Alzheimer's disease as described by Dr. 
 - [alzheimer's-disease](../tags/alzheimers-disease.md)
 - [brain-neurology](../tags/brain-neurology.md)
 - [medical-research](../tags/medical-research.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

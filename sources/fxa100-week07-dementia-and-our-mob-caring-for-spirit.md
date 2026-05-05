@@ -38,7 +38,7 @@ The document underscores the importance of understanding dementia within the uni
 - [spiritual-wellbeing](../tags/spiritual-wellbeing.md)
 - [elder-caring](../tags/elder-caring.md)
 - [aboriginal-issues](../tags/aboriginal-issues.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

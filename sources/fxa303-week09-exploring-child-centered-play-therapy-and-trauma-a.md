@@ -33,7 +33,7 @@ This article presents a systematic review of literature focusing on the efficacy
 - [trauma-intervention](../tags/trauma-intervention.md)
 - [adverse-childhood-experiences](../tags/adverse-childhood-experiences.md)
 - [mental-health-outcomes](../tags/mental-health-outcomes.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

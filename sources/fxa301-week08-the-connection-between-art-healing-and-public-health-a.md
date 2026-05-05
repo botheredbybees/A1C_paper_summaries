@@ -33,7 +33,7 @@ This review article examines the relationship between engagement with creative a
 - [art-therapy](../tags/art-therapy.md)
 - [public-health](../tags/public-health.md)
 - [creative-expression](../tags/creative-expression.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

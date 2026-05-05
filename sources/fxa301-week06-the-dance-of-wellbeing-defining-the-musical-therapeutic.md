@@ -34,7 +34,7 @@ The article 'The Dance of Wellbeing: Defining the Musical Therapeutic Effect' by
 - [emotional-wellbeing](../tags/emotional-wellbeing.md)
 - [intersubjective-communication](../tags/intersubjective-communication.md)
 - [rhythmic-expression](../tags/rhythmic-expression.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

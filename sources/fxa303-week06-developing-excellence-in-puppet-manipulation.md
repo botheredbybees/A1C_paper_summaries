@@ -37,7 +37,7 @@ The document 'Developing Excellence in Puppet Manipulation' by Steve Axtell, pub
 - [non-verbal-communication](../tags/non-verbal-communication.md)
 - [theater-techniques](../tags/theater-techniques.md)
 - [training-materials](../tags/training-materials.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

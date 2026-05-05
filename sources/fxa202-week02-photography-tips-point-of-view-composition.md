@@ -34,7 +34,7 @@ Bill Hatcher discusses the application of point of view (POV) composition in pho
 - [composition-techniques](../tags/composition-techniques.md)
 - [visual-storytelling](../tags/visual-storytelling.md)
 - [camera-angles](../tags/camera-angles.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

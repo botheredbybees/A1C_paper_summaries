@@ -33,7 +33,7 @@ The transcript is an overview of a theater project aimed at raising awareness ab
 - [dementia-care](../tags/dementia-care.md)
 - [theater-project](../tags/theater-project.md)
 - [healthcare-assistants](../tags/healthcare-assistants.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

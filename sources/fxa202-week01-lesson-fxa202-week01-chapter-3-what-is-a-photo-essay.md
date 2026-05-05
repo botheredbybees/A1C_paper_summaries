@@ -70,7 +70,7 @@ This chapter introduces the concept of a photo essay as a visual narrative told 
 - [photo-essay](../tags/photo-essay.md)
 - [visual-storytelling](../tags/visual-storytelling.md)
 - [journalism](../tags/journalism.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

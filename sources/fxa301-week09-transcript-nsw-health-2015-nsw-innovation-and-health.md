@@ -32,7 +32,7 @@ The transcript details the NSW Health's initiative to run a choir for individual
 - [aphasia-treatment](../tags/aphasia-treatment.md)
 - [neurological-impairment-management](../tags/neurological-impairment-management.md)
 - [speech-pathology-practice](../tags/speech-pathology-practice.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

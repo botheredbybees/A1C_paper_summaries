@@ -35,7 +35,7 @@ The article by Kav Dadfar addresses the common challenge faced by photographers 
 - [photography-tips](../tags/photography-tips.md)
 - [image-composition](../tags/image-composition.md)
 - [creative-techniques](../tags/creative-techniques.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

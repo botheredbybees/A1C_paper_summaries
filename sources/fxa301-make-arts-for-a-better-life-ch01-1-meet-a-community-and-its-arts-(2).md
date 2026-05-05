@@ -32,7 +32,7 @@ This excerpt introduces a guide to ethnomusicology and applied arts, focusing on
 - [ethnomusicology](../tags/ethnomusicology.md)
 - [community-engagement](../tags/community-engagement.md)
 - [applied-arts](../tags/applied-arts.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

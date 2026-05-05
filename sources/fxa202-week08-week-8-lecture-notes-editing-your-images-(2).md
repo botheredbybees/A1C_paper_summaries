@@ -35,7 +35,7 @@ The Week 8 Lecture Notes for the course FXA202 at the University of Tasmania emp
 - [photo-editing-software](../tags/photo-editing-software.md)
 - [creative-techniques-in-photography](../tags/creative-techniques-in-photography.md)
 - [digital-compositing](../tags/digital-compositing.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

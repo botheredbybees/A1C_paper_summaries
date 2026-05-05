@@ -33,7 +33,7 @@ The article highlights the story of Josie Webster, a young Australian artist wit
 - [inclusive-art](../tags/inclusive-art.md)
 - [disability-empowerment](../tags/disability-empowerment.md)
 - [international-exhibitions](../tags/international-exhibitions.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

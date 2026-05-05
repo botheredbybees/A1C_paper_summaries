@@ -35,7 +35,7 @@ The lesson covers the therapeutic uses of dramatherapy, dance therapy, and appli
 - [applied-theatre](../tags/applied-theatre.md)
 - [psychological-therapy](../tags/psychological-therapy.md)
 - [cultural-life](../tags/cultural-life.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

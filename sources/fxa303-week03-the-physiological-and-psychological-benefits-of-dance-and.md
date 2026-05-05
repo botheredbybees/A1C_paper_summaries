@@ -33,7 +33,7 @@ This systematic review examines the physiological and psychological benefits of 
 - [dance-benefits](../tags/dance-benefits.md)
 - [youth-health](../tags/youth-health.md)
 - [systematic-review](../tags/systematic-review.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

@@ -33,7 +33,7 @@ This study explores the efficacy of Creative Puppet Therapy (CPT) in reducing ha
 - [creative-therapy](../tags/creative-therapy.md)
 - [schizophrenia-research](../tags/schizophrenia-research.md)
 - [hallucination-treatment](../tags/hallucination-treatment.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

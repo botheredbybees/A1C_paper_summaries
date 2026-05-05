@@ -36,7 +36,7 @@ This article discusses the philosophy of person-centered care in dementia manage
 - [selfhood-identity](../tags/selfhood-identity.md)
 - [interpersonal-relations](../tags/interpersonal-relations.md)
 - [psychosocial-factors](../tags/psychosocial-factors.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

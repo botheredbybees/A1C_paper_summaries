@@ -35,7 +35,7 @@ This article discusses the emerging field of neuroaesthetics, which uses brain-i
 - [art-history](../tags/art-history.md)
 - [cognitive-neuroscience](../tags/cognitive-neuroscience.md)
 - [tms-fmri](../tags/tms-fmri.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

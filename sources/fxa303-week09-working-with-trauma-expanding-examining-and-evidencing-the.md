@@ -36,7 +36,7 @@ The editorial by Coles, Murphy, and Winter discusses the importance of expanding
 - [therapeutic-innovation](../tags/therapeutic-innovation.md)
 - [empowerment-strategies](../tags/empowerment-strategies.md)
 - [client-co-production](../tags/client-co-production.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

@@ -33,7 +33,7 @@ This article explores the growing presence of clowns in pediatric hospital setti
 - [therapeutic-clowning](../tags/therapeutic-clowning.md)
 - [pediatric-care](../tags/pediatric-care.md)
 - [emotional-support](../tags/emotional-support.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

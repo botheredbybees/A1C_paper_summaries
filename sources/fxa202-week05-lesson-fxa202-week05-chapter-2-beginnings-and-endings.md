@@ -39,7 +39,7 @@ This lesson focuses on structuring visual stories through photo essays. It cover
 - [photo-essays](../tags/photo-essays.md)
 - [linear-stories](../tags/linear-stories.md)
 - [non-linear-stories](../tags/non-linear-stories.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

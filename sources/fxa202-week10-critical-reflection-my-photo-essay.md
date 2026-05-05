@@ -35,7 +35,7 @@ This critical reflection by Melanie Hall explores the creation and therapeutic b
 - [photo-journalism](../tags/photo-journalism.md)
 - [mental-health-recovery](../tags/mental-health-recovery.md)
 - [mindfulness-practice](../tags/mindfulness-practice.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

@@ -32,7 +32,7 @@ This week's introduction to FXA301 course focuses on the intersection of arts, h
 - [arts-and-health](../tags/arts-and-health.md)
 - [community-wellbeing](../tags/community-wellbeing.md)
 - [policy-analysis](../tags/policy-analysis.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

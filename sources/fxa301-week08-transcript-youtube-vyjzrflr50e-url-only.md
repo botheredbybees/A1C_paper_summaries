@@ -31,7 +31,7 @@ The user has requested a manual transcription of the YouTube video with the URL 
 
 - [transcription-request](../tags/transcription-request.md)
 - [youtube-video](../tags/youtube-video.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

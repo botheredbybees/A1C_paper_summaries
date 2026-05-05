@@ -35,7 +35,7 @@ This study examines the impact of music therapeutic caregiving (MTC), specifical
 - [quality-of-life](../tags/quality-of-life.md)
 - [caregiver-intervention](../tags/caregiver-intervention.md)
 - [morning-routines](../tags/morning-routines.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

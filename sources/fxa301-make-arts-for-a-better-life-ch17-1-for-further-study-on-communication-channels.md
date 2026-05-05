@@ -37,7 +37,7 @@ This chapter from the book 'Make Arts for a Better Life: A Guide for Working wit
 - [community arts](../tags/community-arts.md)
 - [creative interventions](../tags/creative-interventions.md)
 - [well-being](../tags/well-being.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

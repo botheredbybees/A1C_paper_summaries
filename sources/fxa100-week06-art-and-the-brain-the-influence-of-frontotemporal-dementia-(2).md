@@ -33,7 +33,7 @@ This study explores the impact of frontotemporal dementia (FTD) on an accomplish
 - [frontotemporal-dementia](../tags/frontotemporal-dementia.md)
 - [neuroaesthetics](../tags/neuroaesthetics.md)
 - [cognitive-decline-creativity](../tags/cognitive-decline-creativity.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

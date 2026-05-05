@@ -34,7 +34,7 @@ The 'Identifying best practices for care-dependent elderly by Benchmarking Costs
 - [cross-cultural-research](../tags/cross-cultural-research.md)
 - [longitudinal-study](../tags/longitudinal-study.md)
 - [health-policy](../tags/health-policy.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

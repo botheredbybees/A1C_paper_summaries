@@ -35,7 +35,7 @@ This research paper presents the findings of a three-month study conducted at th
 - [cancer-treatment](../tags/cancer-treatment.md)
 - [qualitative-research](../tags/qualitative-research.md)
 - [patient-experience](../tags/patient-experience.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

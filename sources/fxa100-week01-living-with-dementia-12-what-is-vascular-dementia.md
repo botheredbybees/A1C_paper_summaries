@@ -35,7 +35,7 @@ This video transcript discusses vascular cognitive impairment and its progressio
 - [brain-health](../tags/brain-health.md)
 - [neurology](../tags/neurology.md)
 - [stroke-effects](../tags/stroke-effects.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

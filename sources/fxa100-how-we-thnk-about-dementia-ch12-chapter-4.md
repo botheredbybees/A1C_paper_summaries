@@ -36,7 +36,7 @@ The chapter explores philosophical perspectives on dementia, emphasizing theorie
 - [personhood-theory](../tags/personhood-theory.md)
 - [tacit-knowledge](../tags/tacit-knowledge.md)
 - [sedimentation](../tags/sedimentation.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

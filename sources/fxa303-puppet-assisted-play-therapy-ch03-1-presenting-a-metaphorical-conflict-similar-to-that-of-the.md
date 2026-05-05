@@ -32,7 +32,7 @@ This chapter discusses the use of puppetry in cognitive behavioral therapy (CBT)
 - [puppet-assisted-therapy](../tags/puppet-assisted-therapy.md)
 - [cognitive-behavioral-therapy](../tags/cognitive-behavioral-therapy.md)
 - [child-psychology](../tags/child-psychology.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

@@ -35,7 +35,7 @@ Sundown syndrome, a common clinical phenomenon among demented individuals, invol
 - [neuropsychiatric-symptoms](../tags/neuropsychiatric-symptoms.md)
 - [aging-neuroscience](../tags/aging-neuroscience.md)
 - [geriatric-psychiatry](../tags/geriatric-psychiatry.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

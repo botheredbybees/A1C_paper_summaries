@@ -35,7 +35,7 @@ This study investigates the impact of multisensory dance learning on motor and n
 - [dance-therapy](../tags/dance-therapy.md)
 - [longitudinal-study](../tags/longitudinal-study.md)
 - [multisensory-learning](../tags/multisensory-learning.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

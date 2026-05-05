@@ -35,7 +35,7 @@ This lesson explores case studies of shared reading groups for chronic pain mana
 - [creative-writing-for-wellbeing](../tags/creative-writing-for-wellbeing.md)
 - [poetry-and-mindfulness](../tags/poetry-and-mindfulness.md)
 - [expressive-writing](../tags/expressive-writing.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

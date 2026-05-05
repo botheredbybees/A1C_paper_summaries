@@ -33,7 +33,7 @@ This document discusses the role of art in understanding dementia and its therap
 - [dementia-art](../tags/dementia-art.md)
 - [cognitive-decline-therapy](../tags/cognitive-decline-therapy.md)
 - [alzheimer-artistic-expression](../tags/alzheimer-artistic-expression.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

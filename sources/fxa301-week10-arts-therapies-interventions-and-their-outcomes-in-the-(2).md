@@ -33,7 +33,7 @@ This paper presents the protocol for a scoping review aimed at exploring arts th
 - [arts-therapy-interventions](../tags/arts-therapy-interventions.md)
 - [eating-disorders-treatment](../tags/eating-disorders-treatment.md)
 - [scoping-review](../tags/scoping-review.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

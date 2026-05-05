@@ -35,7 +35,7 @@ The editorial 'After the fires: looking to the future using the lessons from the
 - [primary-care-intervention](../tags/primary-care-intervention.md)
 - [bushfire-impact](../tags/bushfire-impact.md)
 - [public-health-policy](../tags/public-health-policy.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

@@ -35,7 +35,7 @@ This meta-analysis evaluates the efficacy of expressive writing in promoting pos
 - [quality-of-life](../tags/quality-of-life.md)
 - [meta-analysis](../tags/meta-analysis.md)
 - [posttraumatic-growth](../tags/posttraumatic-growth.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

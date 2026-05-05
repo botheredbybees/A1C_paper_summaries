@@ -34,7 +34,7 @@ The transcript discusses the benefits and essence of dance therapy, a form of ex
 - [dance-movement-therapy](../tags/dance-movement-therapy.md)
 - [memory-stimulation](../tags/memory-stimulation.md)
 - [emotional-vitality](../tags/emotional-vitality.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

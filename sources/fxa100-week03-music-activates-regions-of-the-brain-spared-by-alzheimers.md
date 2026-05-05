@@ -36,7 +36,7 @@ The study conducted at the University of Utah Health explores how music can acti
 - [neural-networks](../tags/neural-networks.md)
 - [personalized-treatment](../tags/personalized-treatment.md)
 - [dementia-management](../tags/dementia-management.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

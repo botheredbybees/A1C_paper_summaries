@@ -32,7 +32,7 @@ This week's module for FXA100 The Arts and Dementia Care includes a discussion o
 - [dementia-care](../tags/dementia-care.md)
 - [arts-in-healthcare](../tags/arts-in-healthcare.md)
 - [theater-drama](../tags/theater-drama.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

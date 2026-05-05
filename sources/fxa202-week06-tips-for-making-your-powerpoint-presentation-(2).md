@@ -37,7 +37,7 @@ Instructions for inserting text boxes are provided, detailing how to place them 
 - [presentation-design](../tags/presentation-design.md)
 - [powerpoint-tips](../tags/powerpoint-tips.md)
 - [visual-communication](../tags/visual-communication.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

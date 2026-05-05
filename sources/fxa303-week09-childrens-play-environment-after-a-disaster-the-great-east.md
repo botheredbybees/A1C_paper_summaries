@@ -34,7 +34,7 @@ This article explores the role of play and adventure playgrounds in supporting c
 - [childrens-health](../tags/childrens-health.md)
 - [play-environments](../tags/play-environments.md)
 - [social-support](../tags/social-support.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

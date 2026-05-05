@@ -34,7 +34,7 @@ The article presents a systematic review of the effectiveness of art therapy in 
 - [trauma-treatment](../tags/trauma-treatment.md)
 - [systematic-review](../tags/systematic-review.md)
 - [mental-health](../tags/mental-health.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

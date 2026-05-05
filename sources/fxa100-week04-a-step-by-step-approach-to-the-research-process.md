@@ -34,7 +34,7 @@ This chapter outlines a systematic approach to conducting research in arts and h
 - [research-methodology](../tags/research-methodology.md)
 - [creative-research](../tags/creative-research.md)
 - [health-interventions](../tags/health-interventions.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

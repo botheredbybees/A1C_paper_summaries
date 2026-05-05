@@ -32,7 +32,7 @@ The lecture notes cover the introduction to the unit FXA100 - The Arts and Demen
 - [arts-in-dementia-care](../tags/arts-in-dementia-care.md)
 - [creative-interventions-for-dementia](../tags/creative-interventions-for-dementia.md)
 - [dementia-types](../tags/dementia-types.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

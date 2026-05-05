@@ -34,7 +34,7 @@ This transcript documents the impact of the iPod Project at Cobble Hill Alzheime
 - [dementia-care](../tags/dementia-care.md)
 - [person-centered-care](../tags/person-centered-care.md)
 - [quality-of-life](../tags/quality-of-life.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

@@ -32,7 +32,7 @@ In LAW122's week 9 activities, students focus on refining their writing and stor
 - [legal-systems](../tags/legal-systems.md)
 - [writing-improvement](../tags/writing-improvement.md)
 - [storytelling](../tags/storytelling.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

@@ -33,7 +33,7 @@ This article discusses the positive impact of engaging in arts activities on men
 - [arts-and-mental-health](../tags/arts-and-mental-health.md)
 - [neuroesthetics-research](../tags/neuroesthetics-research.md)
 - [cognitive-development](../tags/cognitive-development.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

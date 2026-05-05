@@ -32,7 +32,7 @@ The history of music therapy traces back to ancient philosophers like Aristotle 
 - [music-therapy-history](../tags/music-therapy-history.md)
 - [professional-development](../tags/professional-development.md)
 - [historical-evolution](../tags/historical-evolution.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

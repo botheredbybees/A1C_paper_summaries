@@ -43,7 +43,7 @@ The Art Gallery of NSW continues to develop resources and processes for integrat
 - [social-inclusion](../tags/social-inclusion.md)
 - [wellbeing-through-art](../tags/wellbeing-through-art.md)
 - [gallery-programs](../tags/gallery-programs.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

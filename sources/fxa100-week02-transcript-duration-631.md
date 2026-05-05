@@ -32,7 +32,7 @@ In this segment from AM Northwest, neuroscientist Daniel Levitin discusses his b
 - [music-and-health](../tags/music-and-health.md)
 - [neuroscience-of-music](../tags/neuroscience-of-music.md)
 - [brain-recovery](../tags/brain-recovery.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

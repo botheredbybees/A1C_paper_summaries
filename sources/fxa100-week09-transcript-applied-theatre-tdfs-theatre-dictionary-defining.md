@@ -32,7 +32,7 @@ The transcript defines and discusses the concept of applied theatre, where drama
 - [applied-theatre](../tags/applied-theatre.md)
 - [social-issues](../tags/social-issues.md)
 - [interactive-performance](../tags/interactive-performance.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

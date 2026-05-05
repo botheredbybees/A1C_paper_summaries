@@ -35,7 +35,7 @@ The article 'Art as Therapy' by James Haywood Rolling Jr., in the role of Editor
 - [educational-practices](../tags/educational-practices.md)
 - [mental-health](../tags/mental-health.md)
 - [student-wellbeing](../tags/student-wellbeing.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

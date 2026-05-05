@@ -35,7 +35,7 @@ This scoping review examines the efficacy and applications of puppetry-based int
 - [therapeutic-arts](../tags/therapeutic-arts.md)
 - [emotional-regulation](../tags/emotional-regulation.md)
 - [pediatric-populations](../tags/pediatric-populations.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

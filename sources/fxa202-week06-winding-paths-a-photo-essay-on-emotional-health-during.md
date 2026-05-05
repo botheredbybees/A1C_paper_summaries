@@ -35,7 +35,7 @@ Corinne Doran's photo essay 'Winding Paths' explores the personal impact of Grea
 - [creative-self-care](../tags/creative-self-care.md)
 - [pandemic-stress](../tags/pandemic-stress.md)
 - [mindfulness-practices](../tags/mindfulness-practices.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

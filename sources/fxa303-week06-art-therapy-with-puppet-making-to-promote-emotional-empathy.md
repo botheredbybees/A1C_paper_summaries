@@ -42,7 +42,7 @@ The article discusses the Expressive Therapies Continuum (ETC), a framework for 
 - [puppet-making](../tags/puppet-making.md)
 - [self-expression](../tags/self-expression.md)
 - [social-skills](../tags/social-skills.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

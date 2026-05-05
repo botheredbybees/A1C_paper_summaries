@@ -35,7 +35,7 @@ This article discusses the cultural significance of Tasmanian Aboriginal shell n
 - [cultural-practice](../tags/cultural-practice.md)
 - [environmental-changes](../tags/environmental-changes.md)
 - [indigenous-art](../tags/indigenous-art.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

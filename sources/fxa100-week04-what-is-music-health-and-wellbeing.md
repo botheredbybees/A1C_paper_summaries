@@ -34,7 +34,7 @@ The chapter 'What is Music, Health, and Wellbeing?' by Raymond MacDonald, Gunter
 - [wellbeing-research](../tags/wellbeing-research.md)
 - [health-psychology](../tags/health-psychology.md)
 - [interdisciplinary-studies](../tags/interdisciplinary-studies.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

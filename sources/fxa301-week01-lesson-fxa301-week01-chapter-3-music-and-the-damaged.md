@@ -33,7 +33,7 @@ The content for this week includes weekly lectures on Tuesday from 4:15pm to 5:1
 - [arts-in-community](../tags/arts-in-community.md)
 - [emotional-experience](../tags/emotional-experience.md)
 - [perception-and-brain](../tags/perception-and-brain.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

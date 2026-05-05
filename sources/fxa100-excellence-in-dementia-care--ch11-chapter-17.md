@@ -33,7 +33,7 @@ This chapter explores how understanding a patient's life history is crucial for 
 - [dementia-care](../tags/dementia-care.md)
 - [person-centered-practice](../tags/person-centered-practice.md)
 - [life-history](../tags/life-history.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

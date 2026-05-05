@@ -33,7 +33,7 @@ This week's lesson focuses on the impact of theatre and literature projects on c
 - [applied-theatre](../tags/applied-theatre.md)
 - [creative-writing-workshop](../tags/creative-writing-workshop.md)
 - [literature-therapy](../tags/literature-therapy.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

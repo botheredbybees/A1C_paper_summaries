@@ -34,7 +34,7 @@ This editorial discusses the growing recognition of museums and art galleries as
 - [health-interventions](../tags/health-interventions.md)
 - [well-being-initiatives](../tags/well-being-initiatives.md)
 - [public-health](../tags/public-health.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

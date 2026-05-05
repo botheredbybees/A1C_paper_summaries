@@ -33,7 +33,7 @@ This course introduction for FXA100 focuses on engaging students in the arts-bas
 - [arts-therapy](../tags/arts-therapy.md)
 - [online-learning](../tags/online-learning.md)
 - [university-course](../tags/university-course.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

@@ -39,7 +39,7 @@ This lesson on photo essays explains the role of captions in enhancing visual st
 - [photo-essays](../tags/photo-essays.md)
 - [captions](../tags/captions.md)
 - [storytelling-with-images](../tags/storytelling-with-images.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

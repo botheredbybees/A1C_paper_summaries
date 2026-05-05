@@ -37,7 +37,7 @@ This document provides an overview of Week 3 in the FXA303 Creative Arts, Play a
 - [neuroscience-of-art](../tags/neuroscience-of-art.md)
 - [brain-plasticity](../tags/brain-plasticity.md)
 - [risk-prevention](../tags/risk-prevention.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

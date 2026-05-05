@@ -32,7 +32,7 @@ This week's lesson in FXA100 focuses on dramatherapy for dementia care, emphasiz
 - [dramatherapy](../tags/dramatherapy.md)
 - [dementia-care](../tags/dementia-care.md)
 - [quality-of-life](../tags/quality-of-life.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

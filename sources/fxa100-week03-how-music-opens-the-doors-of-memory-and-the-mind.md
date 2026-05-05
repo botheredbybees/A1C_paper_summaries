@@ -37,7 +37,7 @@ The preservation of musical abilities in individuals with dementia offers a wind
 - [neuroscience-of-music](../tags/neuroscience-of-music.md)
 - [brain-function](../tags/brain-function.md)
 - [therapeutic-benefits](../tags/therapeutic-benefits.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

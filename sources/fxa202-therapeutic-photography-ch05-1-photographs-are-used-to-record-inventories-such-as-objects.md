@@ -33,7 +33,7 @@ This chapter discusses the therapeutic value of using photographs to enhance sel
 - [therapeutic-photography](../tags/therapeutic-photography.md)
 - [narrative-therapy](../tags/narrative-therapy.md)
 - [self-esteem](../tags/self-esteem.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

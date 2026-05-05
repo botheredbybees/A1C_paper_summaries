@@ -32,7 +32,7 @@ This week's LAW122 legal systems course activity focuses on visual storytelling 
 - [legal-systems](../tags/legal-systems.md)
 - [visual-storytelling](../tags/visual-storytelling.md)
 - [discussion-board](../tags/discussion-board.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

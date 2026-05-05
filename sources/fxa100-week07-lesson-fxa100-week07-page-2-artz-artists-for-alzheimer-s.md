@@ -33,7 +33,7 @@ The ARTZ program, founded by John Zeisel and Sean Caulfield, aims to provide art
 - [arts-and-dementia-care](../tags/arts-and-dementia-care.md)
 - [alzheimer-programs](../tags/alzheimer-programs.md)
 - [museum-experiences](../tags/museum-experiences.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

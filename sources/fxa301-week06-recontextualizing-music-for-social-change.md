@@ -32,7 +32,7 @@ The document 'Recontextualizing Music For Social Change' by Mario Vázquez Moril
 - [music-education](../tags/music-education.md)
 - [social-change-through-art](../tags/social-change-through-art.md)
 - [gender-studies-in-music](../tags/gender-studies-in-music.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

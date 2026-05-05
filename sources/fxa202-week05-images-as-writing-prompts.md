@@ -36,7 +36,7 @@ The document 'Images as Writing Prompts' emphasizes the role of visual imagery i
 - [narrative-development](../tags/narrative-development.md)
 - [personal-memories](../tags/personal-memories.md)
 - [educational-strategy](../tags/educational-strategy.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

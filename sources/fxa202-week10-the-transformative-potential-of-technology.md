@@ -33,7 +33,7 @@ The chapter explores the potential of emerging technologies to transform aged ca
 - [aged-care-technology](../tags/aged-care-technology.md)
 - [smart-homes](../tags/smart-homes.md)
 - [ethical-concerns](../tags/ethical-concerns.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

@@ -34,7 +34,7 @@ This article discusses the prevalence of trauma among asylum seeker and unaccomp
 - [music-therapy](../tags/music-therapy.md)
 - [ptsd-treatment](../tags/ptsd-treatment.md)
 - [unaccompanied-minor-migrants](../tags/unaccompanied-minor-migrants.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

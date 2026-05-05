@@ -32,7 +32,7 @@ This lesson explores two inclusive arts project scenarios: Singing to Health for
 - [inclusive-arts](../tags/inclusive-arts.md)
 - [health-wellbeing-outcomes](../tags/health-wellbeing-outcomes.md)
 - [participant-engagement](../tags/participant-engagement.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

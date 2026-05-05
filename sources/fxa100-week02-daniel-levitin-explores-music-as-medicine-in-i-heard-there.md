@@ -35,7 +35,7 @@ In the video transcript of an interview on AM Northwest, neuroscientist and auth
 - [brain-recovery](../tags/brain-recovery.md)
 - [alzheimers-treatment](../tags/alzheimers-treatment.md)
 - [ptsd-intervention](../tags/ptsd-intervention.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

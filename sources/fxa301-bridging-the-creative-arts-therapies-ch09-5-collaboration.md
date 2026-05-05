@@ -35,7 +35,7 @@ This chapter discusses the professionalization of the arts in health field, emph
 - [ethics-in-practice](../tags/ethics-in-practice.md)
 - [education-pathways](../tags/education-pathways.md)
 - [certification-process](../tags/certification-process.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

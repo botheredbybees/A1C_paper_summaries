@@ -37,7 +37,7 @@ Susan Linn explores the therapeutic benefits of puppetry in play therapy for chi
 - [object-relations](../tags/object-relations.md)
 - [emotional-coping](../tags/emotional-coping.md)
 - [hospitalization-support](../tags/hospitalization-support.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

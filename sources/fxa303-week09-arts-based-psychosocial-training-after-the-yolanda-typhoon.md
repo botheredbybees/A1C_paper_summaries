@@ -35,7 +35,7 @@ This study examines an arts-based mental health and psychosocial support (MHPSS)
 - [psychosocial-training](../tags/psychosocial-training.md)
 - [community-resilience](../tags/community-resilience.md)
 - [trauma-recovery](../tags/trauma-recovery.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

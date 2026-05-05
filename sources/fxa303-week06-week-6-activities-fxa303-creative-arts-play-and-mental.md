@@ -35,7 +35,7 @@ This document outlines activities for week six of FXA303, focusing on the use of
 - [puppet-play-therapy](../tags/puppet-play-therapy.md)
 - [therapeutic-contexts](../tags/therapeutic-contexts.md)
 - [emotional-regulation](../tags/emotional-regulation.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

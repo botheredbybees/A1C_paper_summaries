@@ -39,7 +39,7 @@ The article contrasts traditional psychological approaches focusing on negative 
 - [positive-psychology](../tags/positive-psychology.md)
 - [cognitive-reappraisal](../tags/cognitive-reappraisal.md)
 - [emotional-regulation](../tags/emotional-regulation.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

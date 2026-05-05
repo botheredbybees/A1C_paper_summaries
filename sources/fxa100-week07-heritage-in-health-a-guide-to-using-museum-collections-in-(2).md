@@ -33,7 +33,7 @@ The document 'Heritage in Health' is a comprehensive guide for museums aiming to
 - [museum-collections](../tags/museum-collections.md)
 - [healthcare-settings](../tags/healthcare-settings.md)
 - [object-based-learning](../tags/object-based-learning.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

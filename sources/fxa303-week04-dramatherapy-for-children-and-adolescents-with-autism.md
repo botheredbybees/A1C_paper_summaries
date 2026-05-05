@@ -34,7 +34,7 @@ This systematic integrative review explores the impact of dramatherapy on childr
 - [systematic-review](../tags/systematic-review.md)
 - [child-psychology](../tags/child-psychology.md)
 - [behavioral-interventions](../tags/behavioral-interventions.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

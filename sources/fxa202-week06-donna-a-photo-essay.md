@@ -35,7 +35,7 @@ The document presents a photo essay about Donna, an autistic adult woman who has
 - [art-therapy](../tags/art-therapy.md)
 - [queer-studies](../tags/queer-studies.md)
 - [homelessness](../tags/homelessness.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

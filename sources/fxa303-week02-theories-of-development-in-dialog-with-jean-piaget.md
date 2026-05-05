@@ -34,7 +34,7 @@ The article discusses Jean Piaget's theories of cognitive development, focusing 
 - [constructivism-theory](../tags/constructivism-theory.md)
 - [piaget-stage-theory](../tags/piaget-stage-theory.md)
 - [intuitive-biology](../tags/intuitive-biology.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

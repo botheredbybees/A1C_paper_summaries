@@ -33,7 +33,7 @@ This week's module of FXA100 focuses on the use of music in dementia care. The r
 - [dementia-care](../tags/dementia-care.md)
 - [music-therapy](../tags/music-therapy.md)
 - [cultural-diversity](../tags/cultural-diversity.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

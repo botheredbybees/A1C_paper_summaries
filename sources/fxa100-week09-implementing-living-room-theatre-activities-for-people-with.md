@@ -35,7 +35,7 @@ This study evaluates the implementation of a new communication method, the 'Vede
 - [theatrical-therapy](../tags/theatrical-therapy.md)
 - [nursing-home-interventions](../tags/nursing-home-interventions.md)
 - [process-evaluation](../tags/process-evaluation.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

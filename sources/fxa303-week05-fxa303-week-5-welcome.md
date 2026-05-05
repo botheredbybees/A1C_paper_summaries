@@ -36,7 +36,7 @@ This document introduces the fifth week of the FXA303 course, marking a transiti
 - [trauma-narratives](../tags/trauma-narratives.md)
 - [cultural-storytelling](../tags/cultural-storytelling.md)
 - [emotional-support](../tags/emotional-support.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

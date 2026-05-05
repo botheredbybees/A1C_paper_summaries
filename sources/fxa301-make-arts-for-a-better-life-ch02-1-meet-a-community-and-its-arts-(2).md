@@ -33,7 +33,7 @@ The chapter outlines a community-based approach called 'Make Arts for a Better L
 - [community-arts](../tags/community-arts.md)
 - [conflict-resolution](../tags/conflict-resolution.md)
 - [health-and-wellbeing](../tags/health-and-wellbeing.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

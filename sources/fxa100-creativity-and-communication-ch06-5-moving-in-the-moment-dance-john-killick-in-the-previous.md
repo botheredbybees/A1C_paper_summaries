@@ -33,7 +33,7 @@ This chapter discusses the therapeutic benefits of dance for individuals with de
 - [dementia-therapy](../tags/dementia-therapy.md)
 - [spontaneous-movement](../tags/spontaneous-movement.md)
 - [dance-therapy](../tags/dance-therapy.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

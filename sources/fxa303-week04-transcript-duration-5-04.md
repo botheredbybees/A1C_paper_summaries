@@ -33,7 +33,7 @@ The transcript discusses the treatment of a child with autism named Victoria at 
 - [autism-spectrum-disorder](../tags/autism-spectrum-disorder.md)
 - [pivotal-response-treatment](../tags/pivotal-response-treatment.md)
 - [child-psychology](../tags/child-psychology.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

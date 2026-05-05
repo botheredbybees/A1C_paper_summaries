@@ -32,7 +32,7 @@ Melanie Hall's photo essay 'My daddy and me' captures a series of intimate momen
 - [personal-experience](../tags/personal-experience.md)
 - [parent-child-bond](../tags/parent-child-bond.md)
 - [visual-storytelling](../tags/visual-storytelling.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

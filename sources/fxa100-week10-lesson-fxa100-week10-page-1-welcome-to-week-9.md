@@ -32,7 +32,7 @@ This week's lesson explores the benefits of theatrical and playful engagement in
 - [dementia-care](../tags/dementia-care.md)
 - [theatre-therapy](../tags/theatre-therapy.md)
 - [playful-engagement](../tags/playful-engagement.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

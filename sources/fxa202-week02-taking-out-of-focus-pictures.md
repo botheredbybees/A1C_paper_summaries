@@ -33,7 +33,7 @@ In this article, photographer Jim Richardson discusses the intentional use of ou
 - [photography-techniques](../tags/photography-techniques.md)
 - [focus-control](../tags/focus-control.md)
 - [creative-angles](../tags/creative-angles.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

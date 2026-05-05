@@ -37,7 +37,7 @@ This lesson focuses on the role of creative arts and play in aiding mental wellb
 - [play-based-interventions](../tags/play-based-interventions.md)
 - [disaster-response](../tags/disaster-response.md)
 - [community-healing](../tags/community-healing.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

@@ -33,7 +33,7 @@ This lesson explores case studies of theatre and drama engagement focusing on th
 - [theater-of-the-oppressed](../tags/theater-of-the-oppressed.md)
 - [laughter-and-wellbeing](../tags/laughter-and-wellbeing.md)
 - [sexual-health-education](../tags/sexual-health-education.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

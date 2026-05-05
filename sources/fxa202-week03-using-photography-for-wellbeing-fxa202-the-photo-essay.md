@@ -41,7 +41,7 @@ The document discusses how photography encourages physical activity by motivatin
 - [therapeutic-photography](../tags/therapeutic-photography.md)
 - [environmental-awareness](../tags/environmental-awareness.md)
 - [creative-expression](../tags/creative-expression.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

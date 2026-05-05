@@ -34,7 +34,7 @@ This study evaluates the impact of TimeSlips, a group storytelling program desig
 - [creative-expression](../tags/creative-expression.md)
 - [quality-of-life](../tags/quality-of-life.md)
 - [nursing-home-intervention](../tags/nursing-home-intervention.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

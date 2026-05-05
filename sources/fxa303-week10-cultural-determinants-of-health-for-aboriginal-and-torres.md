@@ -35,7 +35,7 @@ This review examines the cultural determinants of health for Aboriginal and Torr
 - [cultural-determinants-of-health](../tags/cultural-determinants-of-health.md)
 - [strengths-based-approach](../tags/strengths-based-approach.md)
 - [indigenous-wellbeing](../tags/indigenous-wellbeing.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

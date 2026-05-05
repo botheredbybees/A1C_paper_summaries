@@ -34,7 +34,7 @@ The document outlines the introduction to Week 5 in the course 'FXA301 Arts in t
 - [visual-therapies](../tags/visual-therapies.md)
 - [social-cohesion](../tags/social-cohesion.md)
 - [historical-contexts](../tags/historical-contexts.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

@@ -36,7 +36,7 @@ The 2024 Youth Survey Report by Mission Australia highlights the evolving challe
 - [economic-challenges](../tags/economic-challenges.md)
 - [climate-change-views](../tags/climate-change-views.md)
 - [discrimination-violence](../tags/discrimination-violence.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

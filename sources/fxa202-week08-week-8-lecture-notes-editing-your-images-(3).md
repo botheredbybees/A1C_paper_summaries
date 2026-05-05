@@ -32,7 +32,7 @@ This lecture note introduces students to the concept of using photography as sel
 - [photography-therapy](../tags/photography-therapy.md)
 - [mental-health](../tags/mental-health.md)
 - [creative-practice](../tags/creative-practice.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

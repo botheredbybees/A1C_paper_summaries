@@ -33,7 +33,7 @@ Frontotemporal dementia (FTD) refers to a group of conditions characterized by d
 - [frontotemporal-dementia](../tags/frontotemporal-dementia.md)
 - [neurodegenerative-disorders](../tags/neurodegenerative-disorders.md)
 - [brain-aging](../tags/brain-aging.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

@@ -33,7 +33,7 @@ This document provides an overview of Week 6 in the FXA303 Creative Arts, Play a
 - [play-therapy](../tags/play-therapy.md)
 - [mental-wellbeing](../tags/mental-wellbeing.md)
 - [puppetry](../tags/puppetry.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

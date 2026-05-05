@@ -36,7 +36,7 @@ This study investigates the impact of music interventions on stress in care home
 - [dementia-care](../tags/dementia-care.md)
 - [saliva-biomarkers](../tags/saliva-biomarkers.md)
 - [multinational-study](../tags/multinational-study.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

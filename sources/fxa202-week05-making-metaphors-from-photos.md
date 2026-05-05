@@ -38,7 +38,7 @@ In his later work, Lyons focuses on urban wall writings and posters, which he in
 - [metaphorical-imaging](../tags/metaphorical-imaging.md)
 - [photographic-studies](../tags/photographic-studies.md)
 - [educational-methods](../tags/educational-methods.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

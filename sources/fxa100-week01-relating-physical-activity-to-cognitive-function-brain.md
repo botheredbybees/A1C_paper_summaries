@@ -39,7 +39,7 @@ The study identifies several moderators of these relationships, including demogr
 - [alzheimer-disease-biomarkers](../tags/alzheimer-disease-biomarkers.md)
 - [cardiorespiratory-fitness](../tags/cardiorespiratory-fitness.md)
 - [exercise-intervention](../tags/exercise-intervention.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

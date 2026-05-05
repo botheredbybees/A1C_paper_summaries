@@ -36,7 +36,7 @@ The text explores the concept of creativity in the context of dementia care, arg
 - [well-being-through-art](../tags/well-being-through-art.md)
 - [identity-recovery](../tags/identity-recovery.md)
 - [neurodegenerative-health](../tags/neurodegenerative-health.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

@@ -32,7 +32,7 @@ The video presents an introduction to the Social Model of Disability, emphasizin
 - [social-model-of-disability](../tags/social-model-of-disability.md)
 - [medical-model-of-disability](../tags/medical-model-of-disability.md)
 - [attitudinal-shifts](../tags/attitudinal-shifts.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

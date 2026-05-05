@@ -33,7 +33,7 @@ The chapter discusses cognitive training and rehabilitation methods for individu
 - [cognitive-stimulation](../tags/cognitive-stimulation.md)
 - [dementia-care](../tags/dementia-care.md)
 - [rehabilitation-strategies](../tags/rehabilitation-strategies.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

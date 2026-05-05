@@ -35,7 +35,7 @@ The lesson discusses the importance of creative play and the arts for children's
 - [self-regulation](../tags/self-regulation.md)
 - [play-theory](../tags/play-theory.md)
 - [emotional-wellbeing](../tags/emotional-wellbeing.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

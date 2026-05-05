@@ -32,7 +32,7 @@ The content outlines activities and readings for students to engage with the ben
 - [dementia-care](../tags/dementia-care.md)
 - [visual-arts-intervention](../tags/visual-arts-intervention.md)
 - [art-therapy](../tags/art-therapy.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

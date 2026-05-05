@@ -36,7 +36,7 @@ This document provides workshop notes on Augusto Boal’s Theatre of the Oppress
 - [social-change-through-art](../tags/social-change-through-art.md)
 - [interactive-drama](../tags/interactive-drama.md)
 - [critical-thinking-in-education](../tags/critical-thinking-in-education.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

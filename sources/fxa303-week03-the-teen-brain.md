@@ -40,7 +40,7 @@ This article explores the paradoxical nature of adolescent brain development, hi
 - [cognitive-neuroscience](../tags/cognitive-neuroscience.md)
 - [substance-use-effects](../tags/substance-use-effects.md)
 - [brain-plasticity](../tags/brain-plasticity.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

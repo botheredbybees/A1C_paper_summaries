@@ -33,7 +33,7 @@ This course material discusses the benefits of singing for individuals with deme
 - [dementia-care](../tags/dementia-care.md)
 - [music-therapy](../tags/music-therapy.md)
 - [singing-benefits](../tags/singing-benefits.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

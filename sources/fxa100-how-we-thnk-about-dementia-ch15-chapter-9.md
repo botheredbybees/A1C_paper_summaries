@@ -32,7 +32,7 @@ The chapter explores how individuals with dementia can still communicate through
 - [dementia-care](../tags/dementia-care.md)
 - [emotional-expression](../tags/emotional-expression.md)
 - [subjective-experience](../tags/subjective-experience.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

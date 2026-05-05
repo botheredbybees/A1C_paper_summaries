@@ -33,7 +33,7 @@ This webpage provides an overview of drama therapy, explaining it as the intenti
 - [drama-therapy](../tags/drama-therapy.md)
 - [mental-health-practice](../tags/mental-health-practice.md)
 - [creative-therapies](../tags/creative-therapies.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

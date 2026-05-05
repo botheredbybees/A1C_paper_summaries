@@ -35,7 +35,7 @@ The document discusses various benefits of singing for individuals with dementia
 - [neuroplasticity](../tags/neuroplasticity.md)
 - [quality-of-life](../tags/quality-of-life.md)
 - [cultural-inclusivity](../tags/cultural-inclusivity.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

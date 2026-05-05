@@ -35,7 +35,7 @@ This study examines age-related differences in white matter diffusion measures a
 - [aging-effects](../tags/aging-effects.md)
 - [neurodevelopment](../tags/neurodevelopment.md)
 - [brain-connectivity](../tags/brain-connectivity.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

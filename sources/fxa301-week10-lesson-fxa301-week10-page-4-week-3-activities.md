@@ -33,7 +33,7 @@ Week 10 of the FXA301 Arts in the Community course includes a focus on music the
 - [music-therapy](../tags/music-therapy.md)
 - [mental-health](../tags/mental-health.md)
 - [creative-collage](../tags/creative-collage.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

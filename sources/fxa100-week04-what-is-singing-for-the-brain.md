@@ -35,7 +35,7 @@ The document presents a transcript of an interview and discussion surrounding 'S
 - [social-connection](../tags/social-connection.md)
 - [well-being-through-art](../tags/well-being-through-art.md)
 - [therapeutic-benefits](../tags/therapeutic-benefits.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

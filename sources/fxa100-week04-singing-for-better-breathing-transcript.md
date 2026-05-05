@@ -36,7 +36,7 @@ The document is a transcript discussing the 'Singing for Better Breathing' proje
 - [patient-support-groups](../tags/patient-support-groups.md)
 - [chronic-disease-care](../tags/chronic-disease-care.md)
 - [music-therapy](../tags/music-therapy.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

@@ -34,7 +34,7 @@ This article explores the impact of smartphone photography on human memory. The 
 - [cognitive-offloading](../tags/cognitive-offloading.md)
 - [attention-shift](../tags/attention-shift.md)
 - [technology-effects](../tags/technology-effects.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

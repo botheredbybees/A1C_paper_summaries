@@ -35,7 +35,7 @@ The document discusses two case studies involving visual arts engagement project
 - [social-cohesion](../tags/social-cohesion.md)
 - [wellbeing-initiatives](../tags/wellbeing-initiatives.md)
 - [museum-curation](../tags/museum-curation.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

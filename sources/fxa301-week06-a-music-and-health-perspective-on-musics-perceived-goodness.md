@@ -36,7 +36,7 @@ Jane Edwards' article explores the concept of music's perceived 'goodness' from 
 - [social-benefits](../tags/social-benefits.md)
 - [ethical-considerations](../tags/ethical-considerations.md)
 - [musical-experiences](../tags/musical-experiences.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

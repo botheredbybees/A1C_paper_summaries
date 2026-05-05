@@ -32,7 +32,7 @@ Miss Lily's Fabulous Feather Boa is a delightful puppet theatre production adapt
 - [children-literature](../tags/children-literature.md)
 - [puppet-theatre](../tags/puppet-theatre.md)
 - [environmental-conservation](../tags/environmental-conservation.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

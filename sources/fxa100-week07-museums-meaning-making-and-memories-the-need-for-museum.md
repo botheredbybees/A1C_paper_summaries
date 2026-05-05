@@ -35,7 +35,7 @@ Libby Rhoads's article discusses the importance of museums as venues for people 
 - [memory-therapy](../tags/memory-therapy.md)
 - [social-interaction](../tags/social-interaction.md)
 - [quality-of-life](../tags/quality-of-life.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

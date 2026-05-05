@@ -33,7 +33,7 @@ The week's activities include reading Gómez-Restrepo et al. (2022) on the role 
 - [youth-wellbeing](../tags/youth-wellbeing.md)
 - [qualitative-study](../tags/qualitative-study.md)
 - [arts-therapy](../tags/arts-therapy.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

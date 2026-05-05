@@ -33,7 +33,7 @@ This week's module in FXA100 focuses on participatory music activities for indiv
 - [dementia-care](../tags/dementia-care.md)
 - [music-therapy](../tags/music-therapy.md)
 - [participatory-music](../tags/participatory-music.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

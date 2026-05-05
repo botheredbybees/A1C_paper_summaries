@@ -32,7 +32,7 @@ This article from Digital Photography School, authored by Anabel DFlux, discusse
 - [image-composition](../tags/image-composition.md)
 - [photo-editing-tips](../tags/photo-editing-tips.md)
 - [photography-techniques](../tags/photography-techniques.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

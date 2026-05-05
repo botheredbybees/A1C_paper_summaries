@@ -33,7 +33,7 @@ Week 2 of the course FXA100 The Arts and Dementia Care includes required reading
 - [music-and-memory](../tags/music-and-memory.md)
 - [dementia-care-interventions](../tags/dementia-care-interventions.md)
 - [personal-reflection](../tags/personal-reflection.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

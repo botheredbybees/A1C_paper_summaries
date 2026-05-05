@@ -32,7 +32,7 @@ This transcript from a BBC News video on March 5, 2018, features Hannah and Rich
 - [refugee-crisis](../tags/refugee-crisis.md)
 - [clowning-therapy](../tags/clowning-therapy.md)
 - [humanitarian-efforts](../tags/humanitarian-efforts.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

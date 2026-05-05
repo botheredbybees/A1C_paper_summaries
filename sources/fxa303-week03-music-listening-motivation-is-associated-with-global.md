@@ -32,7 +32,7 @@ This study explores the relationship between self-determined motivation for list
 - [music-listening-motivation](../tags/music-listening-motivation.md)
 - [global-happiness](../tags/global-happiness.md)
 - [adolescent-development](../tags/adolescent-development.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

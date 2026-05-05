@@ -33,7 +33,7 @@ This paper presents a comprehensive review and comparison of six influential cog
 - [psychological-models-of-art](../tags/psychological-models-of-art.md)
 - [aesthetic-experience](../tags/aesthetic-experience.md)
 - [cognitive-processes-in-art](../tags/cognitive-processes-in-art.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

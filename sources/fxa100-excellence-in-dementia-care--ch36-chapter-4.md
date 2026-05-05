@@ -32,7 +32,7 @@ This chapter explores ethical frameworks for dementia care and the unique challe
 - [dementia-care](../tags/dementia-care.md)
 - [ethics-in-healthcare](../tags/ethics-in-healthcare.md)
 - [narrative-ethics](../tags/narrative-ethics.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

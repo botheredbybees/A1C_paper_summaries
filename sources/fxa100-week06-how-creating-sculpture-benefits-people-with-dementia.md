@@ -37,7 +37,7 @@ Sumita Chauhan, a PhD candidate at the School of Engineering and Digital Arts (E
 - [digital-sculpture](../tags/digital-sculpture.md)
 - [elderly-wellness](../tags/elderly-wellness.md)
 - [cognitive-enhancement](../tags/cognitive-enhancement.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

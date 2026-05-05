@@ -35,7 +35,7 @@ Karen Fried's chapter on Virtual Puppet Play Therapy explores the adaptation of 
 - [puppet-play](../tags/puppet-play.md)
 - [online-counseling](../tags/online-counseling.md)
 - [emotional-expression](../tags/emotional-expression.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

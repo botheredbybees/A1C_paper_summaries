@@ -32,7 +32,7 @@ This study investigates the temporal dynamics of emotional responses to music, f
 - [music-emotion](../tags/music-emotion.md)
 - [temporal-dynamics](../tags/temporal-dynamics.md)
 - [emotional-perception](../tags/emotional-perception.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

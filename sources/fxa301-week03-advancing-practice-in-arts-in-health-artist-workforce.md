@@ -35,7 +35,7 @@ This document outlines the need for systematic artist workforce development and 
 - [professional-certification](../tags/professional-certification.md)
 - [career-pathways](../tags/career-pathways.md)
 - [artist-education](../tags/artist-education.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

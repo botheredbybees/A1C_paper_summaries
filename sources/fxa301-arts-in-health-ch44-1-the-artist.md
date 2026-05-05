@@ -33,7 +33,7 @@ This chapter discusses the importance of proper contracting when artists or orga
 - [healthcare settings](../tags/healthcare-settings.md)
 - [artist contracts](../tags/artist-contracts.md)
 - [project management](../tags/project-management.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

@@ -34,7 +34,7 @@ This module explores the benefits of music therapy in dementia care. It discusse
 - [dementia-care](../tags/dementia-care.md)
 - [creative-expression](../tags/creative-expression.md)
 - [non-verbal-communication](../tags/non-verbal-communication.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

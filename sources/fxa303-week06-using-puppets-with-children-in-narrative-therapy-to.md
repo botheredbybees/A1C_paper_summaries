@@ -34,7 +34,7 @@ The article explores the use of puppets as a therapeutic tool within narrative t
 - [externalization-strategies](../tags/externalization-strategies.md)
 - [therapeutic-tools-for-children](../tags/therapeutic-tools-for-children.md)
 - [puppet-therapy](../tags/puppet-therapy.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

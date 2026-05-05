@@ -33,7 +33,7 @@ This lesson covers aspects of hearing and music processing. It describes the phy
 - [hearing-process](../tags/hearing-process.md)
 - [music-elements](../tags/music-elements.md)
 - [brain-function](../tags/brain-function.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

@@ -33,7 +33,7 @@ This lesson discusses the importance of trauma-informed design principles in art
 - [creative-arts](../tags/creative-arts.md)
 - [play-based-healing](../tags/play-based-healing.md)
 - [mental-wellbeing](../tags/mental-wellbeing.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

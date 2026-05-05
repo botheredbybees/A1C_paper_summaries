@@ -32,7 +32,7 @@ This systematic review evaluates the efficacy of creative arts therapies, includ
 - [creative-arts-therapy](../tags/creative-arts-therapy.md)
 - [ptsd-treatment](../tags/ptsd-treatment.md)
 - [systematic-review](../tags/systematic-review.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

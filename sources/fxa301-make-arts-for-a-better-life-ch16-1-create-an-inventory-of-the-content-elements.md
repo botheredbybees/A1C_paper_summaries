@@ -34,7 +34,7 @@ This chapter discusses visual literacy and communication skills within communiti
 - [critical-analysis](../tags/critical-analysis.md)
 - [cultural-perspective](../tags/cultural-perspective.md)
 - [artistic-communication](../tags/artistic-communication.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

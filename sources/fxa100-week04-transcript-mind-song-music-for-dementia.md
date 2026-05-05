@@ -34,7 +34,7 @@ This transcript features interviews with professionals involved in the Mind Song
 - [music-therapy](../tags/music-therapy.md)
 - [dance-movement-psychotherapy](../tags/dance-movement-psychotherapy.md)
 - [elderly-wellness](../tags/elderly-wellness.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

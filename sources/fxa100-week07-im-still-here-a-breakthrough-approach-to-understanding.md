@@ -32,7 +32,7 @@ John Zeisel's book, 'I'm Still Here,' offers a comprehensive and compassionate a
 - [alzheimer-care](../tags/alzheimer-care.md)
 - [quality-of-life](../tags/quality-of-life.md)
 - [dementia-interventions](../tags/dementia-interventions.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

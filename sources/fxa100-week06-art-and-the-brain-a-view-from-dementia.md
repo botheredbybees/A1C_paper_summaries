@@ -33,7 +33,7 @@ This paper explores the impact of dementia on artistic production, focusing on v
 - [neuroaesthetics](../tags/neuroaesthetics.md)
 - [dementia-impact-on-art](../tags/dementia-impact-on-art.md)
 - [cognitive-neuroscience](../tags/cognitive-neuroscience.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

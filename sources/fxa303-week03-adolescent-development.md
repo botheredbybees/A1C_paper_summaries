@@ -37,7 +37,7 @@ The document discusses the developmental period of adolescence, characterized by
 - [neuroplasticity](../tags/neuroplasticity.md)
 - [social-independence](../tags/social-independence.md)
 - [teen-peer-relations](../tags/teen-peer-relations.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

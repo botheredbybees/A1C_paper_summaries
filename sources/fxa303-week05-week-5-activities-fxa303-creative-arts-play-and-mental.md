@@ -34,7 +34,7 @@ This document outlines the activities and readings for Week 5 of the FXA303 Crea
 - [applied-theatre](../tags/applied-theatre.md)
 - [puppetry](../tags/puppetry.md)
 - [healthcare-contexts](../tags/healthcare-contexts.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

@@ -33,7 +33,7 @@ This week's lesson in LAW122 focuses on the craft of visual storytelling through
 - [photo essay](../tags/photo-essay.md)
 - [narrative tension](../tags/narrative-tension.md)
 - [stream-of-consciousness](../tags/stream-of-consciousness.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

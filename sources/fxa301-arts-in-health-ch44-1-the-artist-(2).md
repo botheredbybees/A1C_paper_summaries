@@ -33,7 +33,7 @@ This chapter discusses the importance of proper contractual agreements for artis
 - [healthcare](../tags/healthcare.md)
 - [artistic-practice](../tags/artistic-practice.md)
 - [contract-management](../tags/contract-management.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

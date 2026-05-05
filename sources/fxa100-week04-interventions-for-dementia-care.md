@@ -34,7 +34,7 @@ This document outlines various pharmacological and non-pharmacological intervent
 - [pharmacological-interventions](../tags/pharmacological-interventions.md)
 - [non-pharmacological-therapy](../tags/non-pharmacological-therapy.md)
 - [cognitive-stimulation](../tags/cognitive-stimulation.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

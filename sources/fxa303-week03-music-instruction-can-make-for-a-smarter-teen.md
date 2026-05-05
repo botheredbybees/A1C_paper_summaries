@@ -35,7 +35,7 @@ New research by Nina Kraus and colleagues at Northwestern University shows that 
 - [cognitive-skills](../tags/cognitive-skills.md)
 - [phonological-awareness](../tags/phonological-awareness.md)
 - [neural-function](../tags/neural-function.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

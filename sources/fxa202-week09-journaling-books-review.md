@@ -34,7 +34,7 @@ The document is a blog post reviewing various books on journaling and their util
 - [mental-well-being](../tags/mental-well-being.md)
 - [writing-techniques](../tags/writing-techniques.md)
 - [self-reflection](../tags/self-reflection.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

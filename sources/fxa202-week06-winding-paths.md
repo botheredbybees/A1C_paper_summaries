@@ -32,7 +32,7 @@ In 'Winding paths,' Corinne Doran reflects on her experiences during a lockdown 
 - [nature-and-creativity](../tags/nature-and-creativity.md)
 - [lockdown-experiences](../tags/lockdown-experiences.md)
 - [self-reflection](../tags/self-reflection.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

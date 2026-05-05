@@ -36,7 +36,7 @@ This review article investigates the therapeutic potential of natural products i
 - [tau-hyperphosphorylation-reduction](../tags/tau-hyperphosphorylation-reduction.md)
 - [synaptic-plasticity-enhancement](../tags/synaptic-plasticity-enhancement.md)
 - [clinical-trials-herbal-medicines](../tags/clinical-trials-herbal-medicines.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

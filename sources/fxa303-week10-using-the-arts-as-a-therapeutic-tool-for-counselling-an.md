@@ -39,7 +39,7 @@ The central argument posits that by integrating Indigenous cultural understandin
 - [aboriginal-arts](../tags/aboriginal-arts.md)
 - [holistic-wellness](../tags/holistic-wellness.md)
 - [cross-cultural-counseling](../tags/cross-cultural-counseling.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

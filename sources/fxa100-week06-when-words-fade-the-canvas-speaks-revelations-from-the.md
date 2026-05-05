@@ -36,7 +36,7 @@ The document 'When Words Fade, the Canvas Speaks: Revelations from the Science o
 - [brain-plasticity](../tags/brain-plasticity.md)
 - [transmodal-creativity](../tags/transmodal-creativity.md)
 - [visual-art](../tags/visual-art.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

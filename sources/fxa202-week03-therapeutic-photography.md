@@ -33,7 +33,7 @@ This chapter explores the application of therapeutic photography in addressing p
 - [therapeutic-photography](../tags/therapeutic-photography.md)
 - [self-help-strategies](../tags/self-help-strategies.md)
 - [emotional-coping](../tags/emotional-coping.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

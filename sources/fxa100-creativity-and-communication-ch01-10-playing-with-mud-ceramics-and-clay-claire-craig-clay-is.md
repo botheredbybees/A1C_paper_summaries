@@ -35,7 +35,7 @@ This chapter explores the use of ceramics and clay as therapeutic materials for 
 - [clay-art](../tags/clay-art.md)
 - [therapeutic-materials](../tags/therapeutic-materials.md)
 - [self-expression-through-art](../tags/self-expression-through-art.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

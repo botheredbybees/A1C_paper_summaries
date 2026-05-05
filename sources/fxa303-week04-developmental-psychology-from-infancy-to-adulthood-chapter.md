@@ -35,7 +35,7 @@ The chapter also addresses the distinction between theories advocating continuit
 - [developmental-psychology](../tags/developmental-psychology.md)
 - [nature-vs-nurture](../tags/nature-vs-nurture.md)
 - [continuous-discontinuous-theories](../tags/continuous-discontinuous-theories.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

@@ -32,7 +32,7 @@ The transcript documents a speech by Dr. Patch Adams on his journey from suicida
 - [healthcare](../tags/healthcare.md)
 - [peace activism](../tags/peace-activism.md)
 - [community care](../tags/community-care.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

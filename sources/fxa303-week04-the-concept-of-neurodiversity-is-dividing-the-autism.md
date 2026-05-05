@@ -44,7 +44,7 @@ Baron-Cohen suggests that these viewpoints are not necessarily mutually exclusiv
 - [human-variation](../tags/human-variation.md)
 - [inclusive-environment](../tags/inclusive-environment.md)
 - [medical-interventions](../tags/medical-interventions.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

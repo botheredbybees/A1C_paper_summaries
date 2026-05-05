@@ -35,7 +35,7 @@ This article reviews recent research in music psychology focusing on the connect
 - [cultural-impact](../tags/cultural-impact.md)
 - [universal-acoustic-cues](../tags/universal-acoustic-cues.md)
 - [musical-development](../tags/musical-development.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

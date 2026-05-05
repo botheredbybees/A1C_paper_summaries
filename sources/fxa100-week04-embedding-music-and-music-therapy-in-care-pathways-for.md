@@ -38,7 +38,7 @@ This paper discusses the role of music therapy in dementia care from clinical, e
 - [quality-of-life](../tags/quality-of-life.md)
 - [care-pathways](../tags/care-pathways.md)
 - [intervention-studies](../tags/intervention-studies.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

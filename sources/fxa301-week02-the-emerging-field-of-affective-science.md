@@ -32,7 +32,7 @@ This commentary discusses the emergence and growth of affective science, a new i
 - [affective-science](../tags/affective-science.md)
 - [interdisciplinary-research](../tags/interdisciplinary-research.md)
 - [emotion-study](../tags/emotion-study.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

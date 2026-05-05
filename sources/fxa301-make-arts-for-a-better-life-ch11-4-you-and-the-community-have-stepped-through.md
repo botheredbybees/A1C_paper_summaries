@@ -35,7 +35,7 @@ This chapter, part of a guide for working with communities through arts-based in
 - [genre-analysis](../tags/genre-analysis.md)
 - [community-art-workshops](../tags/community-art-workshops.md)
 - [ethnographic-research](../tags/ethnographic-research.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

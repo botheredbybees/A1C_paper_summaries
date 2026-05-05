@@ -33,7 +33,7 @@ This book, 'Music and Medicine,' edited by Gunter Kreutz and Günther Bernatzky,
 - [music-therapy](../tags/music-therapy.md)
 - [neuroscience-of-music](../tags/neuroscience-of-music.md)
 - [health-wellbeing](../tags/health-wellbeing.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

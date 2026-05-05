@@ -32,7 +32,7 @@ This document provides instructions on how to export documents created in Micros
 - [file-export](../tags/file-export.md)
 - [pdf-creation](../tags/pdf-creation.md)
 - [document-sharing](../tags/document-sharing.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

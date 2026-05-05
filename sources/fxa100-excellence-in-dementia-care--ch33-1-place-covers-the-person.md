@@ -33,7 +33,7 @@ This chapter provides guidance on building dementia-friendly communities based o
 - [dementia-friendly-communities](../tags/dementia-friendly-communities.md)
 - [social-model-of-disability](../tags/social-model-of-disability.md)
 - [community-engagement](../tags/community-engagement.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

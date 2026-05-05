@@ -32,7 +32,7 @@ This chapter details the steps for promoting local culture through publications 
 - [community-arts](../tags/community-arts.md)
 - [cultural-preservation](../tags/cultural-preservation.md)
 - [youth-engagement](../tags/youth-engagement.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

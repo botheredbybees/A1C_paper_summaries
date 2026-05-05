@@ -34,7 +34,7 @@ The transcript discusses vascular cognitive impairment (VCI), which occurs due t
 - [dementia-types](../tags/dementia-types.md)
 - [small-vessel-disease](../tags/small-vessel-disease.md)
 - [brain-health](../tags/brain-health.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

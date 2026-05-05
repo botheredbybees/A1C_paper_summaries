@@ -35,7 +35,7 @@ This systematic review and meta-analysis evaluates the effectiveness of clown th
 - [pediatric-care](../tags/pediatric-care.md)
 - [non-pharmacological-interventions](../tags/non-pharmacological-interventions.md)
 - [systematic-review](../tags/systematic-review.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

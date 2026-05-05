@@ -34,7 +34,7 @@ Kontos et al. (2016) conducted a pilot study to assess the effects of elder-clow
 - [nursing-homes](../tags/nursing-homes.md)
 - [behavioral-symptoms](../tags/behavioral-symptoms.md)
 - [non-pharmacological-intervention](../tags/non-pharmacological-intervention.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

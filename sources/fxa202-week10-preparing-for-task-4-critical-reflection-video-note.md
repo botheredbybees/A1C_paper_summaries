@@ -32,7 +32,7 @@ This document provides instructions for completing the Practice Quiz and AT4 Vid
 - [academic-assessment](../tags/academic-assessment.md)
 - [instruction-guidelines](../tags/instruction-guidelines.md)
 - [video-assignment](../tags/video-assignment.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

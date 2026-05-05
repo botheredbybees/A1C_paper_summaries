@@ -34,7 +34,7 @@ The article explores the use of relational clowning as a method to engage indivi
 - [creative-interventions](../tags/creative-interventions.md)
 - [relational-clowning](../tags/relational-clowning.md)
 - [quality-of-life](../tags/quality-of-life.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

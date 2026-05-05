@@ -34,7 +34,7 @@ This article explores the psychological insights into art appreciation, challeng
 - [psychological-insights](../tags/psychological-insights.md)
 - [visual-art-psychology](../tags/visual-art-psychology.md)
 - [scientific-methods-in-art](../tags/scientific-methods-in-art.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

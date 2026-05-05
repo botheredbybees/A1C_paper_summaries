@@ -32,7 +32,7 @@ This LAW122 legal systems course module provides guidance on completing a photo 
 - [legal-systems](../tags/legal-systems.md)
 - [photo-essay-guidelines](../tags/photo-essay-guidelines.md)
 - [creative-expression](../tags/creative-expression.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

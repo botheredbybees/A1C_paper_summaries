@@ -35,7 +35,7 @@ James Renwick and Matthew H. Woolhouse report a cross-cultural study investigati
 - [cross-cultural-research](../tags/cross-cultural-research.md)
 - [music-psychology](../tags/music-psychology.md)
 - [emotional-memory](../tags/emotional-memory.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

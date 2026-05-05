@@ -35,7 +35,7 @@ The study explores the relationship between recreational arts engagement and men
 - [population-health](../tags/population-health.md)
 - [social-epidemiology](../tags/social-epidemiology.md)
 - [biopsychosocial-model](../tags/biopsychosocial-model.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

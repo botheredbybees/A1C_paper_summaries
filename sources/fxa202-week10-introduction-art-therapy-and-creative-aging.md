@@ -35,7 +35,7 @@ The introduction chapter of 'Art Therapy and Creative Aging' by Raquel Chapin St
 - [elderhood-development](../tags/elderhood-development.md)
 - [societal-bias-aging](../tags/societal-bias-aging.md)
 - [well-being-later-life](../tags/well-being-later-life.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

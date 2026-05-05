@@ -33,7 +33,7 @@ In Emma Barratt's poignant photo essay, 'Remembrance,' the author reflects on li
 - [memory-loss](../tags/memory-loss.md)
 - [personal-resilience](../tags/personal-resilience.md)
 - [therapeutic-storytelling](../tags/therapeutic-storytelling.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

@@ -34,7 +34,7 @@ The transcript describes music therapy sessions involving children with autism a
 - [autism-spectrum-disorders](../tags/autism-spectrum-disorders.md)
 - [non-verbal-communication](../tags/non-verbal-communication.md)
 - [child-development](../tags/child-development.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

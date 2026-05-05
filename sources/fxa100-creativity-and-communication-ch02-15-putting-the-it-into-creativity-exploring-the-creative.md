@@ -32,7 +32,7 @@ This chapter discusses how technology can serve as a catalyst for creativity amo
 - [technology-assisted therapy](../tags/technology-assisted-therapy.md)
 - [dementia care](../tags/dementia-care.md)
 - [creative expression](../tags/creative-expression.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

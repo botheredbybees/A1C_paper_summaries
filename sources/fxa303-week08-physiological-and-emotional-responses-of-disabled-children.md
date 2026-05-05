@@ -35,7 +35,7 @@ This pilot study investigates the impact of therapeutic clowning on disabled chi
 - [pediatric-rehabilitation](../tags/pediatric-rehabilitation.md)
 - [emotional-wellbeing](../tags/emotional-wellbeing.md)
 - [physiological-responses](../tags/physiological-responses.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

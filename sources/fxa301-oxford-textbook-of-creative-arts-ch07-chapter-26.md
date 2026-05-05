@@ -36,7 +36,7 @@ This chapter explores the role of music in public health by examining its potent
 - [public-health](../tags/public-health.md)
 - [music-therapy](../tags/music-therapy.md)
 - [cultural-participation](../tags/cultural-participation.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

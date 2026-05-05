@@ -33,7 +33,7 @@ This document is the front matter of 'Developmental Psychology: From Infancy to 
 - [infancy-development](../tags/infancy-development.md)
 - [adulthood-psychology](../tags/adulthood-psychology.md)
 - [cognitive-theories](../tags/cognitive-theories.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

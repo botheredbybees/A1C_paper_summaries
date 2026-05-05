@@ -35,7 +35,7 @@ The 2025 Youth Survey report by Mission Australia highlights the challenges and 
 - [climate-change](../tags/climate-change.md)
 - [housing-crisis](../tags/housing-crisis.md)
 - [cost-of-living](../tags/cost-of-living.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

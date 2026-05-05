@@ -33,7 +33,7 @@ The study examines the emotional responses of participants attending a live perf
 - [emotions-during-performance](../tags/emotions-during-performance.md)
 - [individual-differences](../tags/individual-differences.md)
 - [music-psychology](../tags/music-psychology.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

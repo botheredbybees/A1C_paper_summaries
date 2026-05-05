@@ -38,7 +38,7 @@ This chapter examines the role of creative arts in nursing and midwifery educati
 - [midwifery education](../tags/midwifery-education.md)
 - [complex intervention](../tags/complex-intervention.md)
 - [collaborative learning](../tags/collaborative-learning.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

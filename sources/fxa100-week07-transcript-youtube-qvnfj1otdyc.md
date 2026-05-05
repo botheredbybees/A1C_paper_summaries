@@ -32,7 +32,7 @@ A transcript of a photography session involving Mary Stringer in Sydney, where s
 - [photography](../tags/photography.md)
 - [arts-and-crafts](../tags/arts-and-crafts.md)
 - [memory-loss](../tags/memory-loss.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

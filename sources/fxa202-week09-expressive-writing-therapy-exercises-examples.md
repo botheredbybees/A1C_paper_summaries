@@ -35,7 +35,7 @@ The article explores the benefits and practical applications of expressive writi
 - [emotional-healing](../tags/emotional-healing.md)
 - [self-reflection-exercises](../tags/self-reflection-exercises.md)
 - [therapeutic-benefits](../tags/therapeutic-benefits.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

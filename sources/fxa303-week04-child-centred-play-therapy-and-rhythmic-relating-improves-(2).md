@@ -34,7 +34,7 @@ This study examines the efficacy of Child-Centred Play Therapy (CCPT) combined w
 - [autism-treatment](../tags/autism-treatment.md)
 - [emotion-regulation](../tags/emotion-regulation.md)
 - [play-therapy](../tags/play-therapy.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

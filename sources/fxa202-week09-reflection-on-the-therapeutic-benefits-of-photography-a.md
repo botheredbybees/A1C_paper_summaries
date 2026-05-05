@@ -35,7 +35,7 @@ Louise Raftery reflects on her experience using photography as a means to promot
 - [mindfulness-practice](../tags/mindfulness-practice.md)
 - [emotional-healing](../tags/emotional-healing.md)
 - [self-reflection](../tags/self-reflection.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

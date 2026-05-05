@@ -32,7 +32,7 @@ The transcript discusses the 'Images of Self' art therapy program designed for c
 - [art-therapy](../tags/art-therapy.md)
 - [autism-spectrum-disorders](../tags/autism-spectrum-disorders.md)
 - [child-psychology](../tags/child-psychology.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

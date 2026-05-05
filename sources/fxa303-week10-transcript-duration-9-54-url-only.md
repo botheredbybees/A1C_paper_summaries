@@ -32,7 +32,7 @@ The automatic download of the transcript for YouTube video with ID PTIRqKK9hyc f
 - [video-transcript](../tags/video-transcript.md)
 - [youtube-downloads](../tags/youtube-downloads.md)
 - [manual-retrieval](../tags/manual-retrieval.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

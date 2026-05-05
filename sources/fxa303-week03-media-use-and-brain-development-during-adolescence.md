@@ -34,7 +34,7 @@ This review article explores the relationship between media use and brain develo
 - [brain-development](../tags/brain-development.md)
 - [adolescence](../tags/adolescence.md)
 - [social-media-effects](../tags/social-media-effects.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

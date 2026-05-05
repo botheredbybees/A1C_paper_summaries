@@ -35,7 +35,7 @@ This study investigates the impact of a singing-based music therapy intervention
 - [dementia-care](../tags/dementia-care.md)
 - [emotional-well-being](../tags/emotional-well-being.md)
 - [social-engagement](../tags/social-engagement.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

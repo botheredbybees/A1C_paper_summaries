@@ -33,7 +33,7 @@ This chapter explores the concept of frailty and its impact on aging individuals
 - [frailty](../tags/frailty.md)
 - [aging](../tags/aging.md)
 - [cognitive-reserve](../tags/cognitive-reserve.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

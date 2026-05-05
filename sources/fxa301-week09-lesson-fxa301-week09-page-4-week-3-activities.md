@@ -32,7 +32,7 @@ Week 9 of the FXA301 Arts in the Community course includes activities focused on
 - [arts-in-community](../tags/arts-in-community.md)
 - [disability-awareness](../tags/disability-awareness.md)
 - [inclusive-practice](../tags/inclusive-practice.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

@@ -35,7 +35,7 @@ The article explores how attachment to country, spirituality, music, and arts co
 - [mental-health-promotion](../tags/mental-health-promotion.md)
 - [aboriginal-australia](../tags/aboriginal-australia.md)
 - [spirituality-and-healing](../tags/spirituality-and-healing.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

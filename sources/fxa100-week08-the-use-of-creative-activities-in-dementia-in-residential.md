@@ -34,7 +34,7 @@ This research examines the role and impact of creative activities for individual
 - [aged-care-facilities](../tags/aged-care-facilities.md)
 - [creative-activities](../tags/creative-activities.md)
 - [quality-of-life](../tags/quality-of-life.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

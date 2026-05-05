@@ -35,7 +35,7 @@ This study explores the origins of coulrophobia, or fear of clowns, which is pre
 - [media-influences](../tags/media-influences.md)
 - [psychological-factors](../tags/psychological-factors.md)
 - [survey-research](../tags/survey-research.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

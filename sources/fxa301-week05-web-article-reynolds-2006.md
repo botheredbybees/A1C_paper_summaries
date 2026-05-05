@@ -35,7 +35,7 @@ This qualitative research investigates the role of art-making as a leisure activ
 - [chronic illness](../tags/chronic-illness.md)
 - [case studies](../tags/case-studies.md)
 - [cancer](../tags/cancer.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

@@ -33,7 +33,7 @@ This study investigates the emotional reactions to music experienced by individu
 - [emotional-reactions-to-music](../tags/emotional-reactions-to-music.md)
 - [experience-sampling-method](../tags/experience-sampling-method.md)
 - [music-psychology](../tags/music-psychology.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

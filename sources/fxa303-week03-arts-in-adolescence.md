@@ -42,7 +42,7 @@ The document 'Arts in Adolescence' highlights the significance of arts engagemen
 - [youth-discrimination](../tags/youth-discrimination.md)
 - [community-engagement](../tags/community-engagement.md)
 - [therapeutic-arts](../tags/therapeutic-arts.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

@@ -32,7 +32,7 @@ The document describes the 'iRemember' project, a free loan resource developed b
 - [dementia-support](../tags/dementia-support.md)
 - [memory-stimulation](../tags/memory-stimulation.md)
 - [social-interaction](../tags/social-interaction.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

@@ -34,7 +34,7 @@ The ability to merge and combine images in Photoshop is a valuable skill for pho
 - [composite-photography](../tags/composite-photography.md)
 - [digital-manipulation](../tags/digital-manipulation.md)
 - [creative-imaging](../tags/creative-imaging.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

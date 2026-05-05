@@ -32,7 +32,7 @@ This lesson focuses on the theme of 'Arts and Health' for creating a photo essay
 - [arts-and-health](../tags/arts-and-health.md)
 - [photo-essay-planning](../tags/photo-essay-planning.md)
 - [storytelling-through-images](../tags/storytelling-through-images.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

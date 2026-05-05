@@ -41,7 +41,7 @@ Additionally, the lecture touches upon other arts programs like Timeslips and Al
 - [playful-engagement](../tags/playful-engagement.md)
 - [non-verbal-communication](../tags/non-verbal-communication.md)
 - [arts-in-healthcare](../tags/arts-in-healthcare.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

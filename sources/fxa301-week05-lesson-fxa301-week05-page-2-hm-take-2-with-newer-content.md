@@ -32,7 +32,7 @@ This lesson explores the role of museums in building community engagement and en
 - [museum-studies](../tags/museum-studies.md)
 - [community-engagement](../tags/community-engagement.md)
 - [public-art](../tags/public-art.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

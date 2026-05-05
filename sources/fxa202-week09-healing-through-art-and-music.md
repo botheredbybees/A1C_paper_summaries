@@ -38,7 +38,7 @@ Cassandra Yates reflects on her journey through chronic pain and emotional numbn
 - [creative-expression](../tags/creative-expression.md)
 - [self-reflection](../tags/self-reflection.md)
 - [trauma-recovery](../tags/trauma-recovery.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

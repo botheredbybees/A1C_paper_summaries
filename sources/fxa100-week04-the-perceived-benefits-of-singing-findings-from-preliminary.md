@@ -36,7 +36,7 @@ This study explores the perceived health and well-being benefits associated with
 - [social-interaction](../tags/social-interaction.md)
 - [emotional-wellness](../tags/emotional-wellness.md)
 - [spiritual-impact](../tags/spiritual-impact.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

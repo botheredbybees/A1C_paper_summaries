@@ -32,7 +32,7 @@ This chapter explores the relevance of Merleau-Ponty's philosophy to understandi
 - [philosophical-perspective](../tags/philosophical-perspective.md)
 - [dementia-care](../tags/dementia-care.md)
 - [body-mind-connection](../tags/body-mind-connection.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

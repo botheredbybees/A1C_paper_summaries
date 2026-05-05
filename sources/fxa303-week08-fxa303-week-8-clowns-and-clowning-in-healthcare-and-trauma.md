@@ -34,7 +34,7 @@ This week of FXA303 Creative Arts, Play and Mental Wellbeing focuses on the role
 - [trauma-relief-through-humor](../tags/trauma-relief-through-humor.md)
 - [court-jesters-history](../tags/court-jesters-history.md)
 - [mental-wellbeing-arts](../tags/mental-wellbeing-arts.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

@@ -37,7 +37,7 @@ The article 'Body Talk: Examining a Collaborative Multiple-Visit Program for Vis
 - [body-image](../tags/body-image.md)
 - [mental-health-intervention](../tags/mental-health-intervention.md)
 - [therapeutic-education](../tags/therapeutic-education.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

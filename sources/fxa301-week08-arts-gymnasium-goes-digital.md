@@ -32,7 +32,7 @@ In response to the COVID-19 pandemic and subsequent lockdowns, the Arts Gymnasiu
 - [digital-transformation](../tags/digital-transformation.md)
 - [aging-technology-adoption](../tags/aging-technology-adoption.md)
 - [creative-expression](../tags/creative-expression.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

@@ -33,7 +33,7 @@ This week's lesson explores community-based visual arts projects that aim to fos
 - [visual-arts](../tags/visual-arts.md)
 - [community-engagement](../tags/community-engagement.md)
 - [therapeutic-art](../tags/therapeutic-art.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

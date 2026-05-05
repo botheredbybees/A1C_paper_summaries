@@ -33,7 +33,7 @@ This chapter discusses the professionalization of arts in health professions in 
 - [arts-in-health](../tags/arts-in-health.md)
 - [professionalization-code-of-ethics](../tags/professionalization-code-of-ethics.md)
 - [educational-pathways](../tags/educational-pathways.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

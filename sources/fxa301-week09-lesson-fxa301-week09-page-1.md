@@ -33,7 +33,7 @@ This week's lesson in the FXA301 course focuses on designing inclusive creative 
 - [health-wellbeing](../tags/health-wellbeing.md)
 - [community-engagement](../tags/community-engagement.md)
 - [creative-projects](../tags/creative-projects.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

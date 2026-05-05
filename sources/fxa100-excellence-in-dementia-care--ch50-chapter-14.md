@@ -33,7 +33,7 @@ The chapter discusses the challenges faced by individuals with dementia and thei
 - [dementia-care](../tags/dementia-care.md)
 - [neuropsychology](../tags/neuropsychology.md)
 - [pharmaceutical-interventions](../tags/pharmaceutical-interventions.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

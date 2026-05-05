@@ -49,7 +49,7 @@ Overall, this text underscores the intrinsic relationship between music and huma
 - [cognitive-rehabilitation](../tags/cognitive-rehabilitation.md)
 - [neuroplasticity](../tags/neuroplasticity.md)
 - [therapeutic-benefits](../tags/therapeutic-benefits.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

@@ -32,7 +32,7 @@ This document outlines the history and significance of the AIDS Memorial Quilt, 
 - [aids-memorial](../tags/aids-memorial.md)
 - [history-activism](../tags/history-activism.md)
 - [public-art](../tags/public-art.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

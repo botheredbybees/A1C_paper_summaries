@@ -38,7 +38,7 @@ After undergoing Gestalt play therapy, there was a statistically significant imp
 - [trauma-intervention](../tags/trauma-intervention.md)
 - [play-therapy](../tags/play-therapy.md)
 - [neurodevelopment](../tags/neurodevelopment.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

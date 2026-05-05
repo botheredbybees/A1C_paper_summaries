@@ -32,7 +32,7 @@ In this TEDx San Diego presentation from 2015, John Iversen discusses the impact
 - [brain-development](../tags/brain-development.md)
 - [music-education](../tags/music-education.md)
 - [cognitive-neuroscience](../tags/cognitive-neuroscience.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

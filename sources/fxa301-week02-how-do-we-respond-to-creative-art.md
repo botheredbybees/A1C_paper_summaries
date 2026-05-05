@@ -37,7 +37,7 @@ Serotonin, another neurotransmitter linked to happiness and well-being, is less 
 - [neurobiology-of-art](../tags/neurobiology-of-art.md)
 - [mirror-neurons-in-arts](../tags/mirror-neurons-in-arts.md)
 - [dopamine-and-motivation](../tags/dopamine-and-motivation.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

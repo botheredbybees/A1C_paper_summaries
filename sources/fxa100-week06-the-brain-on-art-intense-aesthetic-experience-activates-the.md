@@ -35,7 +35,7 @@ This research article investigates the neural basis of aesthetic experiences in 
 - [aesthetic-experience](../tags/aesthetic-experience.md)
 - [fMRI-study](../tags/fmri-study.md)
 - [default-mode](../tags/default-mode.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

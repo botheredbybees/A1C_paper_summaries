@@ -33,7 +33,7 @@ In this transcript of Alain de Botton's talk at the Rijksmuseum, he discusses th
 - [museums-and-secularization](../tags/museums-and-secularization.md)
 - [art-as-therapy](../tags/art-as-therapy.md)
 - [historical-exhibition](../tags/historical-exhibition.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

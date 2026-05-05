@@ -35,7 +35,7 @@ This transcript from Two-Minute Neuroscience introduces the concept of the brain
 - [dopamine-pathways](../tags/dopamine-pathways.md)
 - [brain-stem](../tags/brain-stem.md)
 - [nucleus-accumbens](../tags/nucleus-accumbens.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

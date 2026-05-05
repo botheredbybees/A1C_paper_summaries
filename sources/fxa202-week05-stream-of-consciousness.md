@@ -36,7 +36,7 @@ Stream of consciousness is a literary technique that captures the natural flow o
 - [creative-writing](../tags/creative-writing.md)
 - [psychological-narrative](../tags/psychological-narrative.md)
 - [internal-dialogue](../tags/internal-dialogue.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

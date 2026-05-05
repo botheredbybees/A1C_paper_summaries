@@ -35,7 +35,7 @@ The document is a poignant narrative by Alison Higgins reflecting on the emotion
 - [natural-therapies](../tags/natural-therapies.md)
 - [mourning-process](../tags/mourning-process.md)
 - [memorial-sites](../tags/memorial-sites.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

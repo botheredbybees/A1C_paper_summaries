@@ -34,7 +34,7 @@ This study investigates the prevalence of dementia and cognitive impairment not 
 - [cognitive-decline](../tags/cognitive-decline.md)
 - [dementia-prevalence](../tags/dementia-prevalence.md)
 - [kimberley-region](../tags/kimberley-region.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

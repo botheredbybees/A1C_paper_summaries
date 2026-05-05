@@ -34,7 +34,7 @@ This article highlights the positive impact of a large mural painting project in
 - [mural-art](../tags/mural-art.md)
 - [community-engagement](../tags/community-engagement.md)
 - [naidoc-week](../tags/naidoc-week.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

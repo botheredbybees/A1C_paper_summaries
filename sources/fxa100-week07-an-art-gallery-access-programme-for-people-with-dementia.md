@@ -35,7 +35,7 @@ This study examines an art gallery access program designed for individuals with 
 - [art-therapy](../tags/art-therapy.md)
 - [quality-of-life](../tags/quality-of-life.md)
 - [residual-capabilities](../tags/residual-capabilities.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

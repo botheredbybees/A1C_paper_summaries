@@ -36,7 +36,7 @@ The lecture discusses the concept of 'flow' as developed by Mihaly Csikszentmiha
 - [flow-experience](../tags/flow-experience.md)
 - [arts-on-prescription](../tags/arts-on-prescription.md)
 - [ptsd-treatment](../tags/ptsd-treatment.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

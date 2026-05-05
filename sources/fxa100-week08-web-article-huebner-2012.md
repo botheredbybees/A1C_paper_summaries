@@ -33,7 +33,7 @@ The content is a collection of film clips from the documentary titled 'I Remembe
 - [art-therapy](../tags/art-therapy.md)
 - [cognitive-health](../tags/cognitive-health.md)
 - [memory-function](../tags/memory-function.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

@@ -33,7 +33,7 @@ Mark Fisher reviews 'In My Father's Words,' a play produced by Dundee Rep during
 - [drama-review](../tags/drama-review.md)
 - [elder-care](../tags/elder-care.md)
 - [cultural-identity](../tags/cultural-identity.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

@@ -34,7 +34,7 @@ This study explores a collaborative music and drama therapy initiative involving
 - [music-and-dementia](../tags/music-and-dementia.md)
 - [creative-self-expression](../tags/creative-self-expression.md)
 - [collaborative-learning](../tags/collaborative-learning.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

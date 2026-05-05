@@ -33,7 +33,7 @@ The paper explores the intersection of cultural diversity and mental health, foc
 - [cultural-diversity](../tags/cultural-diversity.md)
 - [mental-health-policy](../tags/mental-health-policy.md)
 - [therapeutic-relationships](../tags/therapeutic-relationships.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

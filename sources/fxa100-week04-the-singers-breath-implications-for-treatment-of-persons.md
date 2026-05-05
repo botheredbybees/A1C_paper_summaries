@@ -35,7 +35,7 @@ The study by Engen (2005) investigates the impact of group singing instruction o
 - [breathing-exercises](../tags/breathing-exercises.md)
 - [quality-of-life](../tags/quality-of-life.md)
 - [chronic-pulmonary-disease](../tags/chronic-pulmonary-disease.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

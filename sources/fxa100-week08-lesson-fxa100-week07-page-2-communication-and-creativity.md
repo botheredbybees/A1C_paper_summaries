@@ -33,7 +33,7 @@ This lesson from the FXA100 course discusses how creativity through visual arts 
 - [dementia-care](../tags/dementia-care.md)
 - [visual-arts-intervention](../tags/visual-arts-intervention.md)
 - [communication-through-art](../tags/communication-through-art.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

@@ -37,7 +37,7 @@ This document provides an overview of various types of puppets including glove, 
 - [puppet-therapy](../tags/puppet-therapy.md)
 - [cultural-storytelling](../tags/cultural-storytelling.md)
 - [self-care-strategies](../tags/self-care-strategies.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

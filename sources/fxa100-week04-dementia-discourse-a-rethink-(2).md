@@ -33,7 +33,7 @@ In this editorial, Fran McInerney discusses the discourse surrounding dementia a
 - [dementia-discourse](../tags/dementia-discourse.md)
 - [person-centered-care](../tags/person-centered-care.md)
 - [health-communication](../tags/health-communication.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

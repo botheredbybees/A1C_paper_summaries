@@ -32,7 +32,7 @@ This article examines the concept of shell shock during World War I in Britain, 
 - [history-of-psychiatry](../tags/history-of-psychiatry.md)
 - [world-war-i](../tags/world-war-i.md)
 - [shell-shock](../tags/shell-shock.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

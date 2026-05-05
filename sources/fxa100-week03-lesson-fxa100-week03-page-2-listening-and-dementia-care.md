@@ -32,7 +32,7 @@ This lesson explores the therapeutic value of music for dementia care through ca
 - [dementia-care](../tags/dementia-care.md)
 - [music-therapy](../tags/music-therapy.md)
 - [memory-retrieval](../tags/memory-retrieval.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

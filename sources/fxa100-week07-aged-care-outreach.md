@@ -36,7 +36,7 @@ The document 'Aged care outreach' by Museums Victoria provides a detailed overvi
 - [cognitive-stimulation](../tags/cognitive-stimulation.md)
 - [social-interaction](../tags/social-interaction.md)
 - [elderly-engagement](../tags/elderly-engagement.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

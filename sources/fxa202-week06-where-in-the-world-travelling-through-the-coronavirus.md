@@ -35,7 +35,7 @@ Lisa Hathaway's photo essay 'WHERE IN THE WORLD' captures the impact of the COVI
 - [wildlife-conservation](../tags/wildlife-conservation.md)
 - [environmental-change](../tags/environmental-change.md)
 - [economic-repercussions](../tags/economic-repercussions.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

@@ -36,7 +36,7 @@ The article presents a literature review of the use of puppets as pedagogical to
 - [early-childhood-education](../tags/early-childhood-education.md)
 - [classroom-climate](../tags/classroom-climate.md)
 - [creativity-in-education](../tags/creativity-in-education.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

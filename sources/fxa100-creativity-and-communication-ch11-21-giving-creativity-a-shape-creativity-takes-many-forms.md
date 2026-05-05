@@ -34,7 +34,7 @@ This chapter explores the nature of creative sessions for individuals with demen
 - [dementia-care](../tags/dementia-care.md)
 - [creativity-in-dementia](../tags/creativity-in-dementia.md)
 - [person-centered-care](../tags/person-centered-care.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

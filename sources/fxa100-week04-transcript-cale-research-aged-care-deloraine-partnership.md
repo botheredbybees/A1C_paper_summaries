@@ -34,7 +34,7 @@ This transcript captures the discussion of a research project aimed at improving
 - [research-partnership](../tags/research-partnership.md)
 - [respiratory-function](../tags/respiratory-function.md)
 - [well-being](../tags/well-being.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

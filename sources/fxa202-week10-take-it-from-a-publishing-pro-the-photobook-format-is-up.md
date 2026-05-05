@@ -32,7 +32,7 @@ Lesley Martin, publisher of Aperture's book program and The PhotoBook Review, di
 - [photobook-format](../tags/photobook-format.md)
 - [publishing-industry](../tags/publishing-industry.md)
 - [cultural-trends](../tags/cultural-trends.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

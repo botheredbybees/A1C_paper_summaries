@@ -35,7 +35,7 @@ Dr Brendan Lamb introduces Week 6 of the FXA100 The Arts and Dementia Care cours
 - [art-therapy](../tags/art-therapy.md)
 - [cognitive-neuroscience](../tags/cognitive-neuroscience.md)
 - [quality-of-life](../tags/quality-of-life.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

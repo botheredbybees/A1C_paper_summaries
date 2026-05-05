@@ -34,7 +34,7 @@ This lesson explores various programs designed to engage individuals with dement
 - [art-therapy](../tags/art-therapy.md)
 - [museum-programs](../tags/museum-programs.md)
 - [outdoor-art](../tags/outdoor-art.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

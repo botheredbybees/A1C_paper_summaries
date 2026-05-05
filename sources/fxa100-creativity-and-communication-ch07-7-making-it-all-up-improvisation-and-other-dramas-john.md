@@ -33,7 +33,7 @@ This chapter discusses the benefits of improvisational drama for individuals wit
 - [dementia-care](../tags/dementia-care.md)
 - [improvisation-theater](../tags/improvisation-theater.md)
 - [social-interaction](../tags/social-interaction.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

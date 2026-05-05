@@ -33,7 +33,7 @@ The study investigates the role of visual arts enrichment activities in fosterin
 - [dementia-care](../tags/dementia-care.md)
 - [visual-arts-intervention](../tags/visual-arts-intervention.md)
 - [resilience-building](../tags/resilience-building.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

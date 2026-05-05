@@ -37,7 +37,7 @@ This chapter explores the physiological mechanisms that could mediate the health
 - [psychophysiology](../tags/psychophysiology.md)
 - [emotional-development](../tags/emotional-development.md)
 - [neurobiological-background](../tags/neurobiological-background.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

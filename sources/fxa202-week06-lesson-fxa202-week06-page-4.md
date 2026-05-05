@@ -34,7 +34,7 @@ The LAW122 Legal Systems course week five activities focus on enhancing caption 
 - [caption-writing](../tags/caption-writing.md)
 - [narrative-techniques](../tags/narrative-techniques.md)
 - [photo-essay](../tags/photo-essay.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

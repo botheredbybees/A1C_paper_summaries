@@ -35,7 +35,7 @@ This review article discusses the potential benefits of therapeutic arts, includ
 - [complementary-medicine](../tags/complementary-medicine.md)
 - [quality-of-life](../tags/quality-of-life.md)
 - [patient-care](../tags/patient-care.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

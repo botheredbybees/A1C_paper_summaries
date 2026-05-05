@@ -36,7 +36,7 @@ The Week 9 lecture of FXA301 focuses on inclusive arts and their role in health 
 - [creative-expression](../tags/creative-expression.md)
 - [wellbeing-initiatives](../tags/wellbeing-initiatives.md)
 - [social-model-of-disability](../tags/social-model-of-disability.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

@@ -35,7 +35,7 @@ This paper explores the concept of 'play' in dementia care through a humanities-
 - [humanities-research](../tags/humanities-research.md)
 - [arts-interventions](../tags/arts-interventions.md)
 - [lived-experiences](../tags/lived-experiences.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

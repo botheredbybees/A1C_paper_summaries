@@ -35,7 +35,7 @@ The article 'Photography as Self-Therapy: An Introduction for Beginners' by Elly
 - [expressive-therapies](../tags/expressive-therapies.md)
 - [mental-health-interventions](../tags/mental-health-interventions.md)
 - [creative-expression](../tags/creative-expression.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

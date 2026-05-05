@@ -41,7 +41,7 @@ Comparative studies across different Indigenous populations worldwide indicate v
 - [cultural-factors-in-medicine](../tags/cultural-factors-in-medicine.md)
 - [aboriginal-populations](../tags/aboriginal-populations.md)
 - [alzheimers-disease](../tags/alzheimers-disease.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

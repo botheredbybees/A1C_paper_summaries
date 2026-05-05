@@ -40,7 +40,7 @@ The article highlights that while reasonable adjustments are mandated in anti-di
 - [medical-model](../tags/medical-model.md)
 - [inclusive-legislation](../tags/inclusive-legislation.md)
 - [critical-theories](../tags/critical-theories.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

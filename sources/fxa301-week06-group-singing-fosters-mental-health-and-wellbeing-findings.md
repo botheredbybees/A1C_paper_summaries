@@ -36,7 +36,7 @@ This paper describes an innovative community singing initiative in East Kent, UK
 - [community-initiatives](../tags/community-initiatives.md)
 - [recovery-support](../tags/recovery-support.md)
 - [social-inclusion](../tags/social-inclusion.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

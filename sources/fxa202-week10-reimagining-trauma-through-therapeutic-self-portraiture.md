@@ -40,7 +40,7 @@ By engaging mythological figures and digital manipulation techniques, Miller dem
 - [digital-manipulation](../tags/digital-manipulation.md)
 - [emotional-healing](../tags/emotional-healing.md)
 - [self-portraiture](../tags/self-portraiture.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

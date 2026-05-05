@@ -39,7 +39,7 @@ Despite these criticisms, person-centered therapy is widely used across various 
 - [client-autonomy](../tags/client-autonomy.md)
 - [therapeutic-relationship](../tags/therapeutic-relationship.md)
 - [psychological-growth](../tags/psychological-growth.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

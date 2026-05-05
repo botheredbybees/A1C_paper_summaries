@@ -34,7 +34,7 @@ This systematic review evaluates the mental health and wellbeing benefits of gro
 - [wellbeing-outcomes](../tags/wellbeing-outcomes.md)
 - [therapeutic-benefits](../tags/therapeutic-benefits.md)
 - [clinical-populations](../tags/clinical-populations.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

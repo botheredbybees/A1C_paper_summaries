@@ -32,7 +32,7 @@ This chapter discusses the responsibilities of professionals towards participant
 - [professional-responsibilities](../tags/professional-responsibilities.md)
 - [ethics-in-research](../tags/ethics-in-research.md)
 - [conflict-of-interest](../tags/conflict-of-interest.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

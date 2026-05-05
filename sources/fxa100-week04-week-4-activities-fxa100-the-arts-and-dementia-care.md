@@ -33,7 +33,7 @@ The document titled 'Week 4 Activities' for the course FXA100 – The Arts and D
 - [arts-in-dementia-care](../tags/arts-in-dementia-care.md)
 - [community-engagement](../tags/community-engagement.md)
 - [health-wellbeing](../tags/health-wellbeing.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

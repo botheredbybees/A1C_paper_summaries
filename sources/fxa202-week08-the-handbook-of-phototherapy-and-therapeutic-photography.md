@@ -38,7 +38,7 @@ Del Loewenthal's comprehensive book, 'The Handbook of Phototherapy and Therapeut
 - [psychotherapy-integration](../tags/psychotherapy-integration.md)
 - [client-wellbeing](../tags/client-wellbeing.md)
 - [ethical-considerations](../tags/ethical-considerations.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

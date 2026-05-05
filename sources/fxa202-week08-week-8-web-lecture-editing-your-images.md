@@ -33,7 +33,7 @@ The document provides guidance on editing images for a photo essay, emphasizing 
 - [image-editing](../tags/image-editing.md)
 - [photo-essay](../tags/photo-essay.md)
 - [visual-storytelling](../tags/visual-storytelling.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

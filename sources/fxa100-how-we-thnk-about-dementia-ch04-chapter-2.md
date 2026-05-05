@@ -33,7 +33,7 @@ This chapter discusses the importance of broadening the scope of research into a
 - [ageing research](../tags/ageing-research.md)
 - [dementia studies](../tags/dementia-studies.md)
 - [research paradigms](../tags/research-paradigms.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

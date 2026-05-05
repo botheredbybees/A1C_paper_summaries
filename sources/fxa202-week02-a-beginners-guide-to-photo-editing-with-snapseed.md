@@ -34,7 +34,7 @@ This document provides an introductory guide to using the photo editing applicat
 - [snapseed-guide](../tags/snapseed-guide.md)
 - [photography-tips](../tags/photography-tips.md)
 - [digital-photography](../tags/digital-photography.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

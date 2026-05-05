@@ -32,7 +32,7 @@ This article explores the case of an accomplished artist who developed frontotem
 - [neurodegeneration-and-art](../tags/neurodegeneration-and-art.md)
 - [cognitive-decline](../tags/cognitive-decline.md)
 - [frontotemporal-dementia](../tags/frontotemporal-dementia.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

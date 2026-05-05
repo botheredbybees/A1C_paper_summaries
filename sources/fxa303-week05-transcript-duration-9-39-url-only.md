@@ -32,7 +32,7 @@ This entry indicates an issue encountered while attempting to automatically down
 - [transcript-issue](../tags/transcript-issue.md)
 - [youtube-video](../tags/youtube-video.md)
 - [caption-file](../tags/caption-file.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

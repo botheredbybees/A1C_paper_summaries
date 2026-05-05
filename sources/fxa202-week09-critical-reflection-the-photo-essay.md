@@ -36,7 +36,7 @@ Wendy Whiley's critical reflection explores her personal journey in embracing de
 - [personal-growth](../tags/personal-growth.md)
 - [aesthetic-theory](../tags/aesthetic-theory.md)
 - [philosophy-of-death](../tags/philosophy-of-death.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

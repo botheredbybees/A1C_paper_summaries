@@ -35,7 +35,7 @@ This week's introduction in the Arts and Dementia Care course focuses on the the
 - [cognitive-stimulation](../tags/cognitive-stimulation.md)
 - [emotional-wellbeing](../tags/emotional-wellbeing.md)
 - [quality-of-life](../tags/quality-of-life.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

@@ -33,7 +33,7 @@ This chapter discusses the importance of defining the purpose and vision of arts
 - [dementia-care](../tags/dementia-care.md)
 - [arts-therapy](../tags/arts-therapy.md)
 - [creative-activities](../tags/creative-activities.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

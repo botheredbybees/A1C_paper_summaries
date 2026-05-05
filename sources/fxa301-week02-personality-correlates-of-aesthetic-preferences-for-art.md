@@ -39,7 +39,7 @@ The study also highlights gender differences in preferences, with women generall
 - [art-appreciation](../tags/art-appreciation.md)
 - [music-architecture](../tags/music-architecture.md)
 - [big-five-personality](../tags/big-five-personality.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

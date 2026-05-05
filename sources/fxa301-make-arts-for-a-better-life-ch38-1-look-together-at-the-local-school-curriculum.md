@@ -37,7 +37,7 @@ This chapter discusses integrating local arts into educational curricula, emphas
 - [community-arts](../tags/community-arts.md)
 - [education-curriculum-integration](../tags/education-curriculum-integration.md)
 - [evaluation-methods](../tags/evaluation-methods.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

@@ -32,7 +32,7 @@ This week's module focuses on puppet therapy, emphasizing the use of puppets in 
 - [puppet-therapy](../tags/puppet-therapy.md)
 - [emotional-regulation](../tags/emotional-regulation.md)
 - [creative-expression](../tags/creative-expression.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

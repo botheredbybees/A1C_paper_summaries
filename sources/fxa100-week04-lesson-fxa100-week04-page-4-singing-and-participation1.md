@@ -33,7 +33,7 @@ This lesson explores the social benefits of singing for individuals with dementi
 - [social-benefits-of-singing](../tags/social-benefits-of-singing.md)
 - [dementia-care-interventions](../tags/dementia-care-interventions.md)
 - [music-therapy-for-dementia](../tags/music-therapy-for-dementia.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

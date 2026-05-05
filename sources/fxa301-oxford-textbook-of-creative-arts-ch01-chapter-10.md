@@ -36,7 +36,7 @@ This chapter explores the application of qualitative methods in arts and health 
 - [qualitative research](../tags/qualitative-research.md)
 - [arts and health](../tags/arts-and-health.md)
 - [evaluation methods](../tags/evaluation-methods.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

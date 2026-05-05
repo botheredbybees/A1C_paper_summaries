@@ -33,7 +33,7 @@ This chapter explores the interplay between visual literacy and cultural context
 - [visual-literacy](../tags/visual-literacy.md)
 - [cultural-analysis](../tags/cultural-analysis.md)
 - [community-arts](../tags/community-arts.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

@@ -36,7 +36,7 @@ This chapter introduces the concept of community and guides readers through iden
 - [community-arts-profile](../tags/community-arts-profile.md)
 - [participant-observation](../tags/participant-observation.md)
 - [social-change-methods](../tags/social-change-methods.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

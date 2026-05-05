@@ -36,7 +36,7 @@ The document provides an introduction to the third week of FXA303 Creative Arts,
 - [mental-wellbeing](../tags/mental-wellbeing.md)
 - [creative-arts](../tags/creative-arts.md)
 - [cognitive-processing](../tags/cognitive-processing.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

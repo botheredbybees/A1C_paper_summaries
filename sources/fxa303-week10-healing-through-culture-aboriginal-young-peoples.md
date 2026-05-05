@@ -36,7 +36,7 @@ The study by Black, Frederico, and Bamblett explores the social and emotional we
 - [intergenerational-trauma](../tags/intergenerational-trauma.md)
 - [out-of-home-care](../tags/out-of-home-care.md)
 - [mental-health](../tags/mental-health.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

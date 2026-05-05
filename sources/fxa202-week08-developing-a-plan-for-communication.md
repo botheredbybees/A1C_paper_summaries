@@ -32,7 +32,7 @@ The document discusses the importance of developing a communication plan to effe
 - [community-communication](../tags/community-communication.md)
 - [message-dissemination](../tags/message-dissemination.md)
 - [planning-strategy](../tags/planning-strategy.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

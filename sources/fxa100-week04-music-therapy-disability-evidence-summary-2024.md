@@ -34,7 +34,7 @@ The Australian Music Therapy Association's Disability Evidence Summary 2024 prov
 - [disability-support](../tags/disability-support.md)
 - [therapeutic-outcomes](../tags/therapeutic-outcomes.md)
 - [evidence-based-practice](../tags/evidence-based-practice.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

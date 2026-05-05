@@ -40,7 +40,7 @@ The author provides examples of effective arts programs like 'Memories in the Ma
 - [therapeutic-arts](../tags/therapeutic-arts.md)
 - [cognitive-decline](../tags/cognitive-decline.md)
 - [community-engagement](../tags/community-engagement.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

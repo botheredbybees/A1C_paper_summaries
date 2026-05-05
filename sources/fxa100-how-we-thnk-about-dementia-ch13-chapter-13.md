@@ -33,7 +33,7 @@ This chapter from 'How We Think About Dementia' by Julian C. Hughes and Ashley M
 - [dementia](../tags/dementia.md)
 - [art-science collaboration](../tags/art-science-collaboration.md)
 - [philosophy-of-mind](../tags/philosophy-of-mind.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

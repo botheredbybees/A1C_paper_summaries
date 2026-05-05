@@ -36,7 +36,7 @@ This document is an introduction to Week 4 of FXA303: Creative Arts, Play and Me
 - [creative-arts-interventions](../tags/creative-arts-interventions.md)
 - [play-based-therapies](../tags/play-based-therapies.md)
 - [mental-wellbeing](../tags/mental-wellbeing.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

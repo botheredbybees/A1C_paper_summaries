@@ -37,7 +37,7 @@ The document focuses on the importance of journaling as a tool for both creative
 - [mental-health-support](../tags/mental-health-support.md)
 - [visual-storytelling](../tags/visual-storytelling.md)
 - [peer-feedback](../tags/peer-feedback.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

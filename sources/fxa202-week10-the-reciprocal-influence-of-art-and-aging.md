@@ -36,7 +36,7 @@ This chapter explores the creative potential of older adults, particularly focus
 - [social-participation](../tags/social-participation.md)
 - [adaptation-strategies](../tags/adaptation-strategies.md)
 - [elderhood-wellbeing](../tags/elderhood-wellbeing.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

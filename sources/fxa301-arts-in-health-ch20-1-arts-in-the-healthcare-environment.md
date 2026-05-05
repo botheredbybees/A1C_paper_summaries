@@ -33,7 +33,7 @@ This chapter explores the existence of a model for categorizing arts in health a
 - [participatory-arts-programmes](../tags/participatory-arts-programmes.md)
 - [healthcare-environment](../tags/healthcare-environment.md)
 - [dementia-care](../tags/dementia-care.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

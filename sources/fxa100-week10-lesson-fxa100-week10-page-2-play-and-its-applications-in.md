@@ -32,7 +32,7 @@ The Playful Engagement Program was a collaborative project between Wesley Missio
 - [dementia-care](../tags/dementia-care.md)
 - [elderclowns](../tags/elderclowns.md)
 - [participatory-arts](../tags/participatory-arts.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

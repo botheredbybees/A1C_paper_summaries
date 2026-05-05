@@ -33,7 +33,7 @@ The Week 2 activities include reading chapters from 'Play for Health Across the 
 - [early-childhood-development](../tags/early-childhood-development.md)
 - [creative-arts-programming](../tags/creative-arts-programming.md)
 - [infant-cognitive-development](../tags/infant-cognitive-development.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

@@ -34,7 +34,7 @@ This pilot study explores the feasibility and preliminary effects of a ballet-ba
 - [pilot-study-methods](../tags/pilot-study-methods.md)
 - [physical-function-improvement](../tags/physical-function-improvement.md)
 - [cognitive-enhancement](../tags/cognitive-enhancement.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

@@ -34,7 +34,7 @@ This lesson discusses two case studies in therapeutic creative arts for mental h
 - [mental-health-support](../tags/mental-health-support.md)
 - [community-singing-groups](../tags/community-singing-groups.md)
 - [art-therapy](../tags/art-therapy.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

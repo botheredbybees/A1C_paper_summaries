@@ -33,7 +33,7 @@ Victoria Williamson's TEDMED talk explores the intriguing aspect of musical memo
 - [musical-memory](../tags/musical-memory.md)
 - [brain-injury-therapy](../tags/brain-injury-therapy.md)
 - [memory-loss](../tags/memory-loss.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

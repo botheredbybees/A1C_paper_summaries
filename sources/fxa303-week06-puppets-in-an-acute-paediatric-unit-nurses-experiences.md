@@ -35,7 +35,7 @@ The study examines the experiences of nurses using puppets within an educational
 - [pediatric-care](../tags/pediatric-care.md)
 - [therapeutic-communication](../tags/therapeutic-communication.md)
 - [education-tools](../tags/education-tools.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

@@ -32,7 +32,7 @@ This week's lesson in LAW122 focuses on familiarizing students with digital came
 - [legal-systems](../tags/legal-systems.md)
 - [photography-basics](../tags/photography-basics.md)
 - [camera-usage](../tags/camera-usage.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

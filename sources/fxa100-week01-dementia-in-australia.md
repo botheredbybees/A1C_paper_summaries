@@ -36,7 +36,7 @@ The report also covers awareness about dementia among Australians, revealing a g
 - [dementia-prevalence](../tags/dementia-prevalence.md)
 - [risk-factors](../tags/risk-factors.md)
 - [public-awareness](../tags/public-awareness.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

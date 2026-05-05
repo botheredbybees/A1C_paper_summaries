@@ -32,7 +32,7 @@ This chapter discusses the structure and purpose of research protocols in compar
 - [research-protocols](../tags/research-protocols.md)
 - [ethics-committee](../tags/ethics-committee.md)
 - [study-design](../tags/study-design.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

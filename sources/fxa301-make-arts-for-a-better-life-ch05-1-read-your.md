@@ -33,7 +33,7 @@ This chapter outlines principles for ethnographic fieldwork including initial jo
 - [ethnography](../tags/ethnography.md)
 - [fieldwork-methods](../tags/fieldwork-methods.md)
 - [audio-video-recording](../tags/audio-video-recording.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

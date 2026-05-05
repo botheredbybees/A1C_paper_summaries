@@ -35,7 +35,7 @@ This study investigates the factors associated with early intervention (EI) part
 - [child-development](../tags/child-development.md)
 - [socioeconomic-status](../tags/socioeconomic-status.md)
 - [public-policy](../tags/public-policy.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

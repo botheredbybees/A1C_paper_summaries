@@ -36,7 +36,7 @@ The course also highlights the importance of engaging with peers through discuss
 - [digital-photography](../tags/digital-photography.md)
 - [camera-skills](../tags/camera-skills.md)
 - [photo-essay](../tags/photo-essay.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

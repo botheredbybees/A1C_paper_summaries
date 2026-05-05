@@ -38,7 +38,7 @@ The results underscore the relevance of music therapy as a non-pharmacological i
 - [dementia-care](../tags/dementia-care.md)
 - [non-pharmacological-intervention](../tags/non-pharmacological-intervention.md)
 - [quality-of-life-improvement](../tags/quality-of-life-improvement.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

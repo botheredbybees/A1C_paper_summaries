@@ -32,7 +32,7 @@ This brief YouTube video titled 'Lungs in Motion - Normal Breathing' does not co
 - [respiratory-system](../tags/respiratory-system.md)
 - [breathing-mechanics](../tags/breathing-mechanics.md)
 - [lung-function](../tags/lung-function.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

@@ -33,7 +33,7 @@ The study by Jensen et al. (2024) provides a systematic review and meta-analysis
 - [social-prescribing](../tags/social-prescribing.md)
 - [public-health-interventions](../tags/public-health-interventions.md)
 - [mental-wellbeing](../tags/mental-wellbeing.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

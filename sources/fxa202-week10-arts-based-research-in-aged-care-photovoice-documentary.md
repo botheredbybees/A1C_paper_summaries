@@ -35,7 +35,7 @@ This chapter details a unique arts-based research methodology that combines phot
 - [photovoice-methods](../tags/photovoice-methods.md)
 - [documentary-photography](../tags/documentary-photography.md)
 - [poetry-in-research](../tags/poetry-in-research.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

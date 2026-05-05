@@ -34,7 +34,7 @@ The documentary 'I Remember Better When I Paint' focuses on Alzheimer's disease 
 - [creative-arts](../tags/creative-arts.md)
 - [quality-of-life](../tags/quality-of-life.md)
 - [narrative-documentary](../tags/narrative-documentary.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

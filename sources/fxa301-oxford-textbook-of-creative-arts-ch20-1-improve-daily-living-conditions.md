@@ -33,7 +33,7 @@ This chapter discusses the social determinants influencing health outcomes acros
 - [social-determinants-health](../tags/social-determinants-health.md)
 - [equity-in-healthcare](../tags/equity-in-healthcare.md)
 - [public-policy](../tags/public-policy.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

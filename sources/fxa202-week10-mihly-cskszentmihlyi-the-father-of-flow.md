@@ -35,7 +35,7 @@ This document explores the work and impact of Mihály Csíkszentmihályi, known 
 - [well-being-research](../tags/well-being-research.md)
 - [quality-of-life](../tags/quality-of-life.md)
 - [motivation-theory](../tags/motivation-theory.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

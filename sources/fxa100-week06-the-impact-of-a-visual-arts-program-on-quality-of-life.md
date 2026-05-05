@@ -36,7 +36,7 @@ This study evaluates the impact of a visual arts program on quality of life, com
 - [communication-skills](../tags/communication-skills.md)
 - [well-being-enhancement](../tags/well-being-enhancement.md)
 - [longitudinal-study](../tags/longitudinal-study.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

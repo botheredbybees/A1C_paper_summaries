@@ -34,7 +34,7 @@ The MAC.ART program is an innovative initiative by Dr. Julie Gross McAdam to enh
 - [dementia-therapy](../tags/dementia-therapy.md)
 - [community-art](../tags/community-art.md)
 - [recreation-therapy](../tags/recreation-therapy.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

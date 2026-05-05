@@ -32,7 +32,7 @@ In this TEDxYale lecture, Jesse Silverberg discusses the physics of mosh pits in
 - [physics](../tags/physics.md)
 - [music-culture](../tags/music-culture.md)
 - [collective-behavior](../tags/collective-behavior.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

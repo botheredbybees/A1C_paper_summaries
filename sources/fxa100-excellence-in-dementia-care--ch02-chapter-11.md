@@ -33,7 +33,7 @@ This chapter explores the critical importance of physical design in enhancing qu
 - [dementia-care](../tags/dementia-care.md)
 - [environmental-design](../tags/environmental-design.md)
 - [physical-environment](../tags/physical-environment.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

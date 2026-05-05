@@ -39,7 +39,7 @@ The relevance to creative arts and health lies in demonstrating how therapeutic 
 - [arts-in-healthcare](../tags/arts-in-healthcare.md)
 - [quality-of-life](../tags/quality-of-life.md)
 - [creative-interventions](../tags/creative-interventions.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

@@ -36,7 +36,7 @@ In this module of FXA100 The Arts and Dementia Care, students explore dramathera
 - [dementia-care](../tags/dementia-care.md)
 - [theatre-of-the-oppressed](../tags/theatre-of-the-oppressed.md)
 - [veder-method](../tags/veder-method.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

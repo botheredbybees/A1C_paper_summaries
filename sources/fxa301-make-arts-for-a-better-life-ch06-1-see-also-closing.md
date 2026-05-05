@@ -37,7 +37,7 @@ This chapter from 'Make Arts for a Better Life: A Guide for Working with Communi
 - [community development](../tags/community-development.md)
 - [arts education](../tags/arts-education.md)
 - [ethnomusicology](../tags/ethnomusicology.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

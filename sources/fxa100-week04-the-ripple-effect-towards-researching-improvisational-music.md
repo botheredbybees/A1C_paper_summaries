@@ -35,7 +35,7 @@ This article explores the role of improvisational music therapy in dementia care
 - [wellbeing-research](../tags/wellbeing-research.md)
 - [community-building](../tags/community-building.md)
 - [therapeutic-interventions](../tags/therapeutic-interventions.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

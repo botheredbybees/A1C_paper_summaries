@@ -38,7 +38,7 @@ This study investigates the temporal dynamics of functional brain connectivity i
 - [temporal-dynamics](../tags/temporal-dynamics.md)
 - [neural-networks](../tags/neural-networks.md)
 - [symptom-severity](../tags/symptom-severity.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

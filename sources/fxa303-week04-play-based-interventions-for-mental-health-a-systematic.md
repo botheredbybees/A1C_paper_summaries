@@ -35,7 +35,7 @@ This systematic review and meta-analysis assesses the impact of play-based inter
 - [autism-spectrum-disorder](../tags/autism-spectrum-disorder.md)
 - [developmental-language-disorder](../tags/developmental-language-disorder.md)
 - [systematic-review-meta-analysis](../tags/systematic-review-meta-analysis.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

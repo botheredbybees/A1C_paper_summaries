@@ -35,7 +35,7 @@ This fact sheet discusses the role of music therapy as an evidence-based allied 
 - [school-counseling](../tags/school-counseling.md)
 - [recovery-oriented-care](../tags/recovery-oriented-care.md)
 - [emotional-literacy](../tags/emotional-literacy.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

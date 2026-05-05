@@ -34,7 +34,7 @@ The lesson discusses the role of creative arts in enhancing mental wellbeing amo
 - [mental-wellbeing](../tags/mental-wellbeing.md)
 - [colonial-trauma](../tags/colonial-trauma.md)
 - [cultural-recovery](../tags/cultural-recovery.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

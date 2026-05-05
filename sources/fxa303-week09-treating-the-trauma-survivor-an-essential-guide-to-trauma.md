@@ -36,7 +36,7 @@ The book 'Treating the Trauma Survivor' is a comprehensive resource for mental h
 - [retraumatization-prevention](../tags/retraumatization-prevention.md)
 - [identity-formation](../tags/identity-formation.md)
 - [trauma-interventions](../tags/trauma-interventions.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

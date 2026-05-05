@@ -35,7 +35,7 @@ This document introduces Week 3 of a course on arts and dementia care, focusing 
 - [quality-of-life](../tags/quality-of-life.md)
 - [aural-memory](../tags/aural-memory.md)
 - [emotional-response](../tags/emotional-response.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

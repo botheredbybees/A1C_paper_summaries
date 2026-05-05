@@ -35,7 +35,7 @@ This chapter discusses the ethical challenges associated with arts-based health 
 - [ethics-in-research](../tags/ethics-in-research.md)
 - [arts-based-health-research](../tags/arts-based-health-research.md)
 - [health-wellbeing](../tags/health-wellbeing.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

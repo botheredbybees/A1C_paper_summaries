@@ -36,7 +36,7 @@ This review paper explores the relationship between pubertal hormones and their 
 - [adolescent-behavior](../tags/adolescent-behavior.md)
 - [neural-circuits](../tags/neural-circuits.md)
 - [psychopathology-risk](../tags/psychopathology-risk.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

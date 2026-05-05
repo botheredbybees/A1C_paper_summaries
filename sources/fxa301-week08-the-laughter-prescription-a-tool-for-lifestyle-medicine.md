@@ -33,7 +33,7 @@ The article discusses the physiological and psychological benefits of laughter, 
 - [laughter-health-benefits](../tags/laughter-health-benefits.md)
 - [lifestyle-medicine](../tags/lifestyle-medicine.md)
 - [humor-therapy](../tags/humor-therapy.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

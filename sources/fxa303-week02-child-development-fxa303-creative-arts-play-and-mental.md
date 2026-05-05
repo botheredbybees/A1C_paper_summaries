@@ -37,7 +37,7 @@ The text also delves into the neural architecture of the brain, detailing how sp
 - [early-years-intervention](../tags/early-years-intervention.md)
 - [brain-architecture](../tags/brain-architecture.md)
 - [cognitive-stimulation](../tags/cognitive-stimulation.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

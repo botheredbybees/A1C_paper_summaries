@@ -36,7 +36,7 @@ This study evaluates 'Images of Self,' an art therapy program designed for child
 - [child-development](../tags/child-development.md)
 - [behavioral-intervention](../tags/behavioral-intervention.md)
 - [self-concept](../tags/self-concept.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

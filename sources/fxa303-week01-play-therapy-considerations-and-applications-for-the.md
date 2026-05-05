@@ -33,7 +33,7 @@ The article 'Play Therapy: Considerations and Applications for the Practitioner'
 - [child-psychology](../tags/child-psychology.md)
 - [therapeutic-techniques](../tags/therapeutic-techniques.md)
 - [developmental-theory](../tags/developmental-theory.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

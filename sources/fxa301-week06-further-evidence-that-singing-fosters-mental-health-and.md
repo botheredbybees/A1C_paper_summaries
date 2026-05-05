@@ -35,7 +35,7 @@ This paper investigates the impact of group singing on mental health and wellbei
 - [community-singing](../tags/community-singing.md)
 - [therapeutic-benefits](../tags/therapeutic-benefits.md)
 - [music-therapy](../tags/music-therapy.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

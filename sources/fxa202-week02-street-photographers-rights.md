@@ -32,7 +32,7 @@ The document 'Street Photographer’s Rights' provides guidance on legal conside
 - [public-space-photography](../tags/public-space-photography.md)
 - [legal-rights](../tags/legal-rights.md)
 - [street-photography](../tags/street-photography.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

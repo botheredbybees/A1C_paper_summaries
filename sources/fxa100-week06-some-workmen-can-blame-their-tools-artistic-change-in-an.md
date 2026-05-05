@@ -33,7 +33,7 @@ The article explores the relationship between Alzheimer's disease and artistic a
 - [alzheimer-s-disease](../tags/alzheimer-s-disease.md)
 - [artistic-ability](../tags/artistic-ability.md)
 - [neurological-cognitive-functions](../tags/neurological-cognitive-functions.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

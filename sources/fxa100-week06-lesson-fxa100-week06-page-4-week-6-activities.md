@@ -35,7 +35,7 @@ The lesson for Week 6 of FXA100 The Arts and Dementia Care focuses on the impact
 - [cognitive-neuroscience](../tags/cognitive-neuroscience.md)
 - [case-study-analysis](../tags/case-study-analysis.md)
 - [neurodegenerative-diseases](../tags/neurodegenerative-diseases.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

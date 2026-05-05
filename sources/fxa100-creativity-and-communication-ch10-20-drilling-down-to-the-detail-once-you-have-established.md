@@ -33,7 +33,7 @@ This chapter delves into the practical aspects of conducting creative arts sessi
 - [dementia-care](../tags/dementia-care.md)
 - [creative-therapy](../tags/creative-therapy.md)
 - [individual-vs-group-sessions](../tags/individual-vs-group-sessions.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

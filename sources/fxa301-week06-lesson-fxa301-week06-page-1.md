@@ -32,7 +32,7 @@ The lesson discusses the multifaceted roles of music and dance in community sett
 - [music-and-dance](../tags/music-and-dance.md)
 - [community-wellbeing](../tags/community-wellbeing.md)
 - [historical-perspective](../tags/historical-perspective.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

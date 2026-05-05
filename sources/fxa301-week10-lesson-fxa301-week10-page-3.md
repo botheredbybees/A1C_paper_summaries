@@ -34,7 +34,7 @@ This lesson explores the use of creative arts therapies in treating eating disor
 - [art-therapy](../tags/art-therapy.md)
 - [ptsd-treatment](../tags/ptsd-treatment.md)
 - [creative-therapies](../tags/creative-therapies.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

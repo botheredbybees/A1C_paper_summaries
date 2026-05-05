@@ -36,7 +36,7 @@ The transcript highlights the therapeutic effects of music on individuals suffer
 - [brain-stimulation](../tags/brain-stimulation.md)
 - [patient-rehabilitation](../tags/patient-rehabilitation.md)
 - [cognitive-function](../tags/cognitive-function.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

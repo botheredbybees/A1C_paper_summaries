@@ -35,7 +35,7 @@ This lesson explores the use of music and dance in healthcare environments to en
 - [wellbeing-through-art](../tags/wellbeing-through-art.md)
 - [therapeutic-music-therapy](../tags/therapeutic-music-therapy.md)
 - [healthcare-environments](../tags/healthcare-environments.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

@@ -41,7 +41,7 @@ The document 'Nurturing the Heart: Creativity, Art Therapy and Dementia' by Patr
 - [creative-expression](../tags/creative-expression.md)
 - [mental-well-being](../tags/mental-well-being.md)
 - [cognitive-enhancement](../tags/cognitive-enhancement.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

@@ -32,7 +32,7 @@ This is the introduction to the LAW122 unit on visual storytelling through photo
 - [visual storytelling](../tags/visual-storytelling.md)
 - [photography basics](../tags/photography-basics.md)
 - [discussion boards](../tags/discussion-boards.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

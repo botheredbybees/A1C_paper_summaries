@@ -33,7 +33,7 @@ This transcript explains how sound is perceived by the human ear. It describes t
 - [human-anatomy](../tags/human-anatomy.md)
 - [hearing-process](../tags/hearing-process.md)
 - [ear-structure](../tags/ear-structure.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

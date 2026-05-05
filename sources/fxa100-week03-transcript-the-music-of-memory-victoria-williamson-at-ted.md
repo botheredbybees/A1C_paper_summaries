@@ -34,7 +34,7 @@ Victoria Williamson discusses the power and intricacies of musical memory in her
 - [memory-research](../tags/memory-research.md)
 - [neuroscience](../tags/neuroscience.md)
 - [therapeutic-applications](../tags/therapeutic-applications.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

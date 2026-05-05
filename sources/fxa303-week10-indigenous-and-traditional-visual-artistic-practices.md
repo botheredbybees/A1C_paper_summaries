@@ -39,7 +39,7 @@ Kaimal and Arslanbek also discuss the importance of integrating traditional wisd
 - [traditional-healing](../tags/traditional-healing.md)
 - [mental-health-interventions](../tags/mental-health-interventions.md)
 - [cross-cultural-research](../tags/cross-cultural-research.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

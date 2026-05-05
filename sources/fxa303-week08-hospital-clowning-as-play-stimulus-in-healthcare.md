@@ -37,7 +37,7 @@ This article explores the role of hospital clowning in enhancing the well-being 
 - [healthcare-intervention](../tags/healthcare-intervention.md)
 - [clowndoctors](../tags/clowndoctors.md)
 - [chronic-illness](../tags/chronic-illness.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

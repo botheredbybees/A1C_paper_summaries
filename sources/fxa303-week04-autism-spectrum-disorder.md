@@ -41,7 +41,7 @@ Overall, recognizing early signs of ASD is crucial for initiating appropriate in
 - [neurodevelopmental-condition](../tags/neurodevelopmental-condition.md)
 - [early-diagnosis](../tags/early-diagnosis.md)
 - [behavior-interventions](../tags/behavior-interventions.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

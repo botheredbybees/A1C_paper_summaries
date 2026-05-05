@@ -38,7 +38,7 @@ This document provides an overview of the human brain's structure and functions,
 - [perception-processing](../tags/perception-processing.md)
 - [emotional-regulation](../tags/emotional-regulation.md)
 - [memory-systems](../tags/memory-systems.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

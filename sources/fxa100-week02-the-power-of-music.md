@@ -35,7 +35,7 @@ Oliver Sacks explores the profound impact of music on human beings, questioning 
 - [emotional-cognition](../tags/emotional-cognition.md)
 - [cultural-psychology](../tags/cultural-psychology.md)
 - [motor-neurons](../tags/motor-neurons.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

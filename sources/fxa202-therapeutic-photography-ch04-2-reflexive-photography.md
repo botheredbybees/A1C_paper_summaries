@@ -37,7 +37,7 @@ The content explores various photographic techniques in therapeutic contexts suc
 - [therapeutic-photography](../tags/therapeutic-photography.md)
 - [photo-elicitation-methods](../tags/photo-elicitation-methods.md)
 - [mental-health-research](../tags/mental-health-research.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

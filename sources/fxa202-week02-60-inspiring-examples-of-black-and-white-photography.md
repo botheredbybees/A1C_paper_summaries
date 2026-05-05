@@ -32,7 +32,7 @@ The document '60 Inspiring Examples of Black and White Photography' by Steph Nel
 - [black-and-white-photography](../tags/black-and-white-photography.md)
 - [visual-storytelling](../tags/visual-storytelling.md)
 - [light-shadow-use](../tags/light-shadow-use.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

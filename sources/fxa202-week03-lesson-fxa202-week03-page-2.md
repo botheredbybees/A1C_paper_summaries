@@ -34,7 +34,7 @@ This lesson explores the therapeutic benefits of photography on mental health, f
 - [mental-health](../tags/mental-health.md)
 - [self-care](../tags/self-care.md)
 - [memory-retention](../tags/memory-retention.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

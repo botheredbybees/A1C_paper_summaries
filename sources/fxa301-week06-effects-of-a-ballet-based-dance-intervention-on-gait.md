@@ -36,7 +36,7 @@ This study investigates the impact of weekly ballet dance classes on gait variab
 - [balance-confidence](../tags/balance-confidence.md)
 - [ballet](../tags/ballet.md)
 - [neurorehabilitation](../tags/neurorehabilitation.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

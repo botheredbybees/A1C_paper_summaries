@@ -36,7 +36,7 @@ This review article synthesizes evidence on the relationship between Indigenous 
 - [evidence-review](../tags/evidence-review.md)
 - [aboriginal-people](../tags/aboriginal-people.md)
 - [torres-strait-islander](../tags/torres-strait-islander.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

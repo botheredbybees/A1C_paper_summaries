@@ -32,7 +32,7 @@ This lesson introduces the concept that the human brain is a complex network res
 - [human-brain-network](../tags/human-brain-network.md)
 - [neural-communication](../tags/neural-communication.md)
 - [community-dynamics](../tags/community-dynamics.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

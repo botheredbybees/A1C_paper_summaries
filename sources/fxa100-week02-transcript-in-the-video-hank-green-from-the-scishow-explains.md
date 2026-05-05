@@ -33,7 +33,7 @@ This transcript discusses the myth of left-brain/right-brain dominance and how i
 - [brain-lateralization](../tags/brain-lateralization.md)
 - [myth-busting](../tags/myth-busting.md)
 - [neuroscience](../tags/neuroscience.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

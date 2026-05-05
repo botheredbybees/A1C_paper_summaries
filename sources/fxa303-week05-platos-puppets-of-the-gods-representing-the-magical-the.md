@@ -35,7 +35,7 @@ The article explores Plato’s metaphorical use of “puppets of the gods” in 
 - [puppetry-symbolism](../tags/puppetry-symbolism.md)
 - [metaphysical-representation](../tags/metaphysical-representation.md)
 - [sexual-desire-control](../tags/sexual-desire-control.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

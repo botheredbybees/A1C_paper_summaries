@@ -33,7 +33,7 @@ This chapter discusses breathing techniques and body-mapping activities as thera
 - [expressive-arts-therapy](../tags/expressive-arts-therapy.md)
 - [trauma-treatment](../tags/trauma-treatment.md)
 - [breathing-exercises](../tags/breathing-exercises.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

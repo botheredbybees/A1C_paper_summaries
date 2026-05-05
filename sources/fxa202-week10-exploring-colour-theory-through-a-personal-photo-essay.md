@@ -35,7 +35,7 @@ Melanie Henderson's photo essay explores the theme of color theory within the co
 - [emotional-wellbeing](../tags/emotional-wellbeing.md)
 - [personal-storytelling](../tags/personal-storytelling.md)
 - [photo-essay](../tags/photo-essay.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

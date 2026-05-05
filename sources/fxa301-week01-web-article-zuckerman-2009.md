@@ -32,7 +32,7 @@ This article explores the complexities of the human brain, detailing its structu
 - [brain-anatomy](../tags/brain-anatomy.md)
 - [neurology](../tags/neurology.md)
 - [cognitive-science](../tags/cognitive-science.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

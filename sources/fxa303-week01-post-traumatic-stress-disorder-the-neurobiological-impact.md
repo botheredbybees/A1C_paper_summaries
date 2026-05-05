@@ -33,7 +33,7 @@ This article reviews the neurobiological impact of psychological trauma, focusin
 - [post-traumatic-stress-disorder](../tags/post-traumatic-stress-disorder.md)
 - [neurobiology-of-ptsd](../tags/neurobiology-of-ptsd.md)
 - [psychological-trauma-effects](../tags/psychological-trauma-effects.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

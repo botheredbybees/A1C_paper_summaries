@@ -37,7 +37,7 @@ The document discusses the concept of negative and positive spaces in photograph
 - [visual-storytelling](../tags/visual-storytelling.md)
 - [minimalist-design](../tags/minimalist-design.md)
 - [image-composition](../tags/image-composition.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

@@ -33,7 +33,7 @@ Chapter 10 presents a case study of a therapeutic photography program conducted 
 - [therapeutic-photography](../tags/therapeutic-photography.md)
 - [autism-spectrum-disorder](../tags/autism-spectrum-disorder.md)
 - [case-study](../tags/case-study.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

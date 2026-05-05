@@ -35,7 +35,7 @@ This video transcript discusses the condition known as Lewy Body Dementia (LBD),
 - [alzheimers-disease](../tags/alzheimers-disease.md)
 - [neurodegenerative-disorders](../tags/neurodegenerative-disorders.md)
 - [brain-anatomy](../tags/brain-anatomy.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

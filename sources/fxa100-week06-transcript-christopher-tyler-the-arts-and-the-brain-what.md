@@ -33,7 +33,7 @@ This transcript captures a discussion on the intersection between neuroscience, 
 - [neuroscience](../tags/neuroscience.md)
 - [art-history](../tags/art-history.md)
 - [embodied-cognition](../tags/embodied-cognition.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

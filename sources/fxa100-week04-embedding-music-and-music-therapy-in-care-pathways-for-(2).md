@@ -35,7 +35,7 @@ This position paper discusses the role of music therapy in managing dementia, fo
 - [quality-of-life](../tags/quality-of-life.md)
 - [personalized-intervention](../tags/personalized-intervention.md)
 - [caregiver-support](../tags/caregiver-support.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

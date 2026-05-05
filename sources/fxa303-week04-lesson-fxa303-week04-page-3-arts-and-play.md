@@ -34,7 +34,7 @@ This lesson explores the use of play and arts-based therapies for neurodiverse c
 - [neurodiversity](../tags/neurodiversity.md)
 - [creative-arts](../tags/creative-arts.md)
 - [mental-wellbeing](../tags/mental-wellbeing.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

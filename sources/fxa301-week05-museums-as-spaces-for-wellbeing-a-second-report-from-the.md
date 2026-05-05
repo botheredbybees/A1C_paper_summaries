@@ -35,7 +35,7 @@ The report 'Museums as Spaces for Wellbeing' by Desmarais et al. (2018) explores
 - [community-wellbeing](../tags/community-wellbeing.md)
 - [healthcare-collaboration](../tags/healthcare-collaboration.md)
 - [wellness-initiatives](../tags/wellness-initiatives.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

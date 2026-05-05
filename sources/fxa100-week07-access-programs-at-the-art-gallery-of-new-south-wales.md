@@ -32,7 +32,7 @@ The document outlines various access programs offered by the Art Gallery of New 
 - [inclusive-arts-programming](../tags/inclusive-arts-programming.md)
 - [accessibility-in-museums](../tags/accessibility-in-museums.md)
 - [disability-services](../tags/disability-services.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

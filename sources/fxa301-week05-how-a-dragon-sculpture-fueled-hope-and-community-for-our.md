@@ -34,7 +34,7 @@ This article discusses a monumental dragon sculpture project called 'Okoa the Wa
 - [community-building](../tags/community-building.md)
 - [patient-care](../tags/patient-care.md)
 - [therapeutic-benefits](../tags/therapeutic-benefits.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

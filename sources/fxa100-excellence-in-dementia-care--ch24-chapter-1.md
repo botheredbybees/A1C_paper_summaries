@@ -34,7 +34,7 @@ This chapter discusses the global prevalence and projections of dementia, emphas
 - [dementia-prevalence](../tags/dementia-prevalence.md)
 - [population-ageing](../tags/population-ageing.md)
 - [public-health](../tags/public-health.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

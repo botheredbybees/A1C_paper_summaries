@@ -36,7 +36,7 @@ Chapter 1 of 'Therapeutic Photography: Enhancing Self-Esteem, Self-Efficacy and 
 - [cultural-understanding-through-art](../tags/cultural-understanding-through-art.md)
 - [recovery-from-trauma](../tags/recovery-from-trauma.md)
 - [communication-skills](../tags/communication-skills.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

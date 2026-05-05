@@ -33,7 +33,7 @@ The document provides a comprehensive overview of both pharmacological and non-p
 - [dementia-care](../tags/dementia-care.md)
 - [intervention-strategies](../tags/intervention-strategies.md)
 - [quality-of-life](../tags/quality-of-life.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

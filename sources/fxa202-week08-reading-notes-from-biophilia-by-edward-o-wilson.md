@@ -37,7 +37,7 @@ This chapter contains reading notes from Edward O. Wilson's book 'Biophilia,' wh
 - [ecosystem-interactions](../tags/ecosystem-interactions.md)
 - [evolutionary-biology](../tags/evolutionary-biology.md)
 - [scientific-discourse](../tags/scientific-discourse.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

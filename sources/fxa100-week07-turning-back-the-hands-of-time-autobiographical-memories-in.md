@@ -35,7 +35,7 @@ The study explores the impact of museum settings on autobiographical memory retr
 - [museum-context](../tags/museum-context.md)
 - [cognitive-stimulation](../tags/cognitive-stimulation.md)
 - [autobiographical-memory](../tags/autobiographical-memory.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

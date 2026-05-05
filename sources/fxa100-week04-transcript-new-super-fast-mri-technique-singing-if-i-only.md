@@ -32,7 +32,7 @@ The transcript discusses a new super-fast MRI technique through the lyrics of 'I
 - [mri-technique](../tags/mri-technique.md)
 - [brain-function](../tags/brain-function.md)
 - [knowledge-innovation](../tags/knowledge-innovation.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

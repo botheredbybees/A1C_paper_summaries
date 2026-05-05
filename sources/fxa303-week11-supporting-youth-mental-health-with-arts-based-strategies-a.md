@@ -35,7 +35,7 @@ This article discusses the growing global crisis of youth mental health, emphasi
 - [global-health](../tags/global-health.md)
 - [cultural-practices](../tags/cultural-practices.md)
 - [community-engagement](../tags/community-engagement.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

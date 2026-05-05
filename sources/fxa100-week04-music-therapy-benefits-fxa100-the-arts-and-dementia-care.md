@@ -35,7 +35,7 @@ The document discusses the benefits of music therapy in enhancing creativity and
 - [memory-stimulation](../tags/memory-stimulation.md)
 - [non-verbal-communication](../tags/non-verbal-communication.md)
 - [personalized-interventions](../tags/personalized-interventions.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

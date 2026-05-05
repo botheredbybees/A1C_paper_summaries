@@ -35,7 +35,7 @@ Tanya Hughes reflects on her experience of completing a photo essay titled 'You 
 - [personal-reflection](../tags/personal-reflection.md)
 - [emotional-confrontation](../tags/emotional-confrontation.md)
 - [cancer-treatment](../tags/cancer-treatment.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

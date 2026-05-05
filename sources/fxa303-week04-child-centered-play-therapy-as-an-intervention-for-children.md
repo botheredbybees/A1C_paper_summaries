@@ -35,7 +35,7 @@ This article presents a systematic review of the play therapy literature to eval
 - [play-intervention](../tags/play-intervention.md)
 - [social-behavior-improvement](../tags/social-behavior-improvement.md)
 - [therapeutic-relationship](../tags/therapeutic-relationship.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

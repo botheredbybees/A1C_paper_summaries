@@ -35,7 +35,7 @@ This systematic review evaluates the efficacy of different dance genres as a the
 - [quality-of-life](../tags/quality-of-life.md)
 - [systematic-review](../tags/systematic-review.md)
 - [physical-therapy](../tags/physical-therapy.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

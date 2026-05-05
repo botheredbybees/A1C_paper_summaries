@@ -36,7 +36,7 @@ Emma Barratt's critical reflection explores the process of creating a photo essa
 - [health-experiences](../tags/health-experiences.md)
 - [self-reflection](../tags/self-reflection.md)
 - [mindfulness](../tags/mindfulness.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

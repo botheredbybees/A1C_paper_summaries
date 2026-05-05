@@ -33,7 +33,7 @@ This chapter discusses the development and implementation of dementia-friendly c
 - [dementia-friendly-communities](../tags/dementia-friendly-communities.md)
 - [cost-savings](../tags/cost-savings.md)
 - [awareness-raising-initiatives](../tags/awareness-raising-initiatives.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

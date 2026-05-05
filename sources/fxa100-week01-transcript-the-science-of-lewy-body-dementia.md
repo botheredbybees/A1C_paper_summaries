@@ -32,7 +32,7 @@ This transcript discusses the neurological condition known as Lewy body dementia
 - [neurology](../tags/neurology.md)
 - [dementia](../tags/dementia.md)
 - [parkinsons-disease](../tags/parkinsons-disease.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

@@ -34,7 +34,7 @@ This editorial discusses the potential benefits of therapeutic dancing for indiv
 - [therapeutic-dancing](../tags/therapeutic-dancing.md)
 - [rehabilitation-exercises](../tags/rehabilitation-exercises.md)
 - [quality-of-life](../tags/quality-of-life.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

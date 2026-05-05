@@ -35,7 +35,7 @@ The document also addresses the importance of the social model of disability ove
 - [disability-advocacy](../tags/disability-advocacy.md)
 - [language-use-in-media](../tags/language-use-in-media.md)
 - [social-model-of-disability](../tags/social-model-of-disability.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

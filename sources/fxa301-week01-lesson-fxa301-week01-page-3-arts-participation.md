@@ -33,7 +33,7 @@ The lesson discusses findings from national arts participation surveys conducted
 - [arts-participation](../tags/arts-participation.md)
 - [social-impact-of-arts](../tags/social-impact-of-arts.md)
 - [cultural-diversity](../tags/cultural-diversity.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

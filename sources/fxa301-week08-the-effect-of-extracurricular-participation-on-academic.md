@@ -35,7 +35,7 @@ This dissertation explores the impact of extracurricular activities on academic 
 - [school-district-study](../tags/school-district-study.md)
 - [middle-school-research](../tags/middle-school-research.md)
 - [parcc-test-scores](../tags/parcc-test-scores.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

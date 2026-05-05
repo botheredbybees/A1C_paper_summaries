@@ -33,7 +33,7 @@ The lesson discusses how the brain processes and responds to creative arts such 
 - [brain-function](../tags/brain-function.md)
 - [neurotransmitters](../tags/neurotransmitters.md)
 - [creative-arts](../tags/creative-arts.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

@@ -36,7 +36,7 @@ In her reflective essay, Anna Mackintosh discusses the creation of a photographi
 - [creative-interventions](../tags/creative-interventions.md)
 - [therapeutic-art](../tags/therapeutic-art.md)
 - [health-humanities](../tags/health-humanities.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

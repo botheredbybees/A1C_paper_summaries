@@ -32,7 +32,7 @@ The Happy Museum Project outlines principles aimed at transforming museums into 
 - [museum-education](../tags/museum-education.md)
 - [community-engagement](../tags/community-engagement.md)
 - [wellbeing-initiatives](../tags/wellbeing-initiatives.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

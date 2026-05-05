@@ -35,7 +35,7 @@ The article examines the efficacy and mechanisms of music therapy for treating d
 - [depression-treatment](../tags/depression-treatment.md)
 - [therapeutic-mechanisms](../tags/therapeutic-mechanisms.md)
 - [mental-health-interventions](../tags/mental-health-interventions.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

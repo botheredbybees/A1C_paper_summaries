@@ -35,7 +35,7 @@ This article explores how daily digital practices, such as the 'photo-a-day' ini
 - [community-engagement](../tags/community-engagement.md)
 - [mindfulness-techniques](../tags/mindfulness-techniques.md)
 - [creative-self-expression](../tags/creative-self-expression.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

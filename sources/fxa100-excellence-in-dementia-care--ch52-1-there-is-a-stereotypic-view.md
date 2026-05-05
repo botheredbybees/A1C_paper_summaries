@@ -33,7 +33,7 @@ This chapter discusses how societal perceptions and treatment of individuals dia
 - [dementia care](../tags/dementia-care.md)
 - [social constructionism](../tags/social-constructionism.md)
 - [patient-centered approach](../tags/patient-centered-approach.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

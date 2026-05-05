@@ -37,7 +37,7 @@ This chapter explores the role of arts in therapeutic interventions for neurolog
 - [art-therapy](../tags/art-therapy.md)
 - [music-therapy](../tags/music-therapy.md)
 - [health-interventions](../tags/health-interventions.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

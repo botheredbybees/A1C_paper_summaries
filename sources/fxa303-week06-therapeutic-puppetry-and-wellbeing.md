@@ -39,7 +39,7 @@ Therapeutic Puppetry and Wellbeing explores how puppets can be used as tools for
 - [clinical-therapy](../tags/clinical-therapy.md)
 - [emotional-expression](../tags/emotional-expression.md)
 - [self-reflection](../tags/self-reflection.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

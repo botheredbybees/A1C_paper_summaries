@@ -36,7 +36,7 @@ The article explores the role of play therapy in child development and mental we
 - [mental-health-interventions](../tags/mental-health-interventions.md)
 - [emotional-regulation](../tags/emotional-regulation.md)
 - [cognitive-behavioral-approach](../tags/cognitive-behavioral-approach.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

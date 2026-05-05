@@ -36,7 +36,7 @@ The text discusses the practicalities of implementing creative activities for in
 - [patient-engagement](../tags/patient-engagement.md)
 - [communication-barriers](../tags/communication-barriers.md)
 - [art-in-dementia](../tags/art-in-dementia.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

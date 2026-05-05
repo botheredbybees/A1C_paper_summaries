@@ -33,7 +33,7 @@ This study explores the therapeutic value and cultural significance of Indigenou
 - [indigenous-arts](../tags/indigenous-arts.md)
 - [traditional-culture](../tags/traditional-culture.md)
 - [art-therapy](../tags/art-therapy.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

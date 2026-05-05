@@ -33,7 +33,7 @@ _All claims sourced from ../raw/pdf/fxa303-week04-week-4-activities-neurodiversi
 - [neurodiversity-awareness](../tags/neurodiversity-awareness.md)
 - [inclusive-education](../tags/inclusive-education.md)
 - [music-therapy](../tags/music-therapy.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

@@ -37,7 +37,7 @@ The article 'Can Photography Help Depression?' explores the potential benefits o
 - [art-and-healing](../tags/art-and-healing.md)
 - [photography-as-therapy](../tags/photography-as-therapy.md)
 - [wellbeing-through-art](../tags/wellbeing-through-art.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

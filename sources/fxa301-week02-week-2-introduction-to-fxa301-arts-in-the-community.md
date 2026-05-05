@@ -36,7 +36,7 @@ The document provides an introduction to Week 2 of the course FXA301 Arts in the
 - [health-wellbeing](../tags/health-wellbeing.md)
 - [cognitive-neuroscience](../tags/cognitive-neuroscience.md)
 - [brain-mechanisms](../tags/brain-mechanisms.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

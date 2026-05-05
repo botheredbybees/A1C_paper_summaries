@@ -33,7 +33,7 @@ This chapter discusses how individuals with Alzheimer's disease are often percei
 - [dementia-care](../tags/dementia-care.md)
 - [negative-positioning](../tags/negative-positioning.md)
 - [social-construction](../tags/social-construction.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

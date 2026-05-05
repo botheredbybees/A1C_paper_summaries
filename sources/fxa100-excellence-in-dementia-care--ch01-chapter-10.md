@@ -37,7 +37,7 @@ Chapter 10 of 'Excellence in Dementia Care' explores the use and benefits of art
 - [dementia-care](../tags/dementia-care.md)
 - [creative-interventions](../tags/creative-interventions.md)
 - [quality-of-life](../tags/quality-of-life.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

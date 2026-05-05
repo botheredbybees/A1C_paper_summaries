@@ -39,7 +39,7 @@ This research article explores the effectiveness of using puppets as social agen
 - [therapeutic-interventions](../tags/therapeutic-interventions.md)
 - [puppet-therapy](../tags/puppet-therapy.md)
 - [visual-attention](../tags/visual-attention.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

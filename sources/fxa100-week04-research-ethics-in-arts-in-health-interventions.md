@@ -35,7 +35,7 @@ Chapter 12 of 'Arts in Health: Designing and researching interventions' by Daisy
 - [informed-consent](../tags/informed-consent.md)
 - [vulnerable-populations](../tags/vulnerable-populations.md)
 - [professional-integrity](../tags/professional-integrity.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

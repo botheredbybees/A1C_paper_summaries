@@ -34,7 +34,7 @@ This study explores the effectiveness of intensive child-centered play therapy (
 - [child-therapy](../tags/child-therapy.md)
 - [play-therapy](../tags/play-therapy.md)
 - [intervention-study](../tags/intervention-study.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

@@ -35,7 +35,7 @@ The chapter 'Personhood Maintained' by Tom Kitwood addresses the evolving approa
 - [therapeutic-interventions](../tags/therapeutic-interventions.md)
 - [reminiscence-work](../tags/reminiscence-work.md)
 - [social-factors](../tags/social-factors.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

@@ -37,7 +37,7 @@ The study highlights a new perspective into understanding the neurological basis
 - [autism-spectrum-disorder](../tags/autism-spectrum-disorder.md)
 - [brain-connectivity](../tags/brain-connectivity.md)
 - [neural-mechanisms](../tags/neural-mechanisms.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

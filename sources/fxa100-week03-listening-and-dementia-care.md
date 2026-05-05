@@ -41,7 +41,7 @@ Overall, these interventions underscore the significant role music plays in deme
 - [neural-pathways](../tags/neural-pathways.md)
 - [personalized-music](../tags/personalized-music.md)
 - [emotional-memory](../tags/emotional-memory.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

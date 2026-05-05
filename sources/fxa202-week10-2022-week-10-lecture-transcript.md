@@ -33,7 +33,7 @@ This lecture transcript provides information about the concluding phase of the p
 - [online-learning](../tags/online-learning.md)
 - [university-education](../tags/university-education.md)
 - [photography-course](../tags/photography-course.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

@@ -32,7 +32,7 @@ The content discusses the use of music therapy as a therapeutic intervention for
 - [music-therapy](../tags/music-therapy.md)
 - [dementia-care](../tags/dementia-care.md)
 - [quality-of-life](../tags/quality-of-life.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

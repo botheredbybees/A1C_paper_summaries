@@ -33,7 +33,7 @@ This qualitative study explores elementary school teachers' perspectives on supp
 - [child-trauma](../tags/child-trauma.md)
 - [qualitative-research](../tags/qualitative-research.md)
 - [educational-psychology](../tags/educational-psychology.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

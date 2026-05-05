@@ -35,7 +35,7 @@ The document 'Fading Notes' investigates the provision of music education within
 - [primary-schools](../tags/primary-schools.md)
 - [australian-education](../tags/australian-education.md)
 - [pedagogical-reform](../tags/pedagogical-reform.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

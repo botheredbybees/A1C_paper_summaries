@@ -45,7 +45,7 @@ Overall, the document underscores how creative arts and play offer substantial b
 - [creative-arts-interventions](../tags/creative-arts-interventions.md)
 - [brain-neuroplasticity](../tags/brain-neuroplasticity.md)
 - [emotional-regulation-strategies](../tags/emotional-regulation-strategies.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

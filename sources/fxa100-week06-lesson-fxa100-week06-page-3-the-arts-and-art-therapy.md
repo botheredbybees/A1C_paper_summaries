@@ -38,7 +38,7 @@ This lesson explores the intersection of visual arts and dementia care. It exami
 - [art-therapy](../tags/art-therapy.md)
 - [dementia-care](../tags/dementia-care.md)
 - [visual-art-and-dementia](../tags/visual-art-and-dementia.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

@@ -32,7 +32,7 @@ The document 'Dementia Words Matter' provides guidelines for journalists, organi
 - [dementia-language](../tags/dementia-language.md)
 - [communication-guidelines](../tags/communication-guidelines.md)
 - [inclusive-terminology](../tags/inclusive-terminology.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

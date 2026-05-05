@@ -33,7 +33,7 @@ The chapter explores the integration of creative arts into nursing and midwifery
 - [creative-arts-in-nursing](../tags/creative-arts-in-nursing.md)
 - [complex-interventions-healthcare](../tags/complex-interventions-healthcare.md)
 - [compassion-in-practice](../tags/compassion-in-practice.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

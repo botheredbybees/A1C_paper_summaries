@@ -32,7 +32,7 @@ This chapter discusses the complexity of distinguishing between dementia and nor
 - [dementia-research](../tags/dementia-research.md)
 - [aging-concepts](../tags/aging-concepts.md)
 - [interdisciplinary-study](../tags/interdisciplinary-study.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

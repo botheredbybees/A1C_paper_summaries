@@ -35,7 +35,7 @@ The article discusses the enduring influence of Commedia dell'Arte, a form of th
 - [performance-studies](../tags/performance-studies.md)
 - [literary-influence](../tags/literary-influence.md)
 - [rhetoric](../tags/rhetoric.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

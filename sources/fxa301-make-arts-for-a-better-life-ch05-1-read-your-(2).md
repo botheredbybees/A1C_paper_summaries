@@ -35,7 +35,7 @@ The text also delves into the history and practical aspects of audio-visual reco
 - [ethnomusicology](../tags/ethnomusicology.md)
 - [fieldwork-methods](../tags/fieldwork-methods.md)
 - [documentary-ethics](../tags/documentary-ethics.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

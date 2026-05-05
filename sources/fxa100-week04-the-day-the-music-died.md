@@ -32,7 +32,7 @@ This study investigates the impact of music therapy on depression in a nursing h
 - [music-therapy](../tags/music-therapy.md)
 - [depression-treatment](../tags/depression-treatment.md)
 - [elderly-care](../tags/elderly-care.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

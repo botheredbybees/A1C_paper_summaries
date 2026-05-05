@@ -32,7 +32,7 @@ This systematic literature review by Crealey et al. investigates the economic va
 - [arts-interventions](../tags/arts-interventions.md)
 - [aging-population](../tags/aging-population.md)
 - [economic-evaluation](../tags/economic-evaluation.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

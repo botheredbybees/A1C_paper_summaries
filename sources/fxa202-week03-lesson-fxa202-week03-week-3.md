@@ -35,7 +35,7 @@ In LAW122's Week 3 lecture on photography and health, Dr. Linda Erceg discusses 
 - [therapeutic-photography](../tags/therapeutic-photography.md)
 - [mindfulness](../tags/mindfulness.md)
 - [nomophobia](../tags/nomophobia.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

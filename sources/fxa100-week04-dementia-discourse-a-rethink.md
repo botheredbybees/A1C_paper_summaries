@@ -32,7 +32,7 @@ Fran McInerney's editorial discusses the language used to describe dementia and 
 - [dementia-discourse](../tags/dementia-discourse.md)
 - [person-centered-care](../tags/person-centered-care.md)
 - [terminology-change](../tags/terminology-change.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

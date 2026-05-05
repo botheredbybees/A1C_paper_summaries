@@ -33,7 +33,7 @@ This chapter discusses memory loss from clinical and philosophical perspectives,
 - [memory-loss](../tags/memory-loss.md)
 - [philosophy-of-mind](../tags/philosophy-of-mind.md)
 - [clinical-psychology](../tags/clinical-psychology.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

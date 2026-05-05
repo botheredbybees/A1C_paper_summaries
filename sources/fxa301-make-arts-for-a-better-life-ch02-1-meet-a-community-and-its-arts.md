@@ -32,7 +32,7 @@ This chapter introduces a community arts process that emphasizes collaboration b
 - [community-art](../tags/community-art.md)
 - [research-methods](../tags/research-methods.md)
 - [conflict-resolution](../tags/conflict-resolution.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

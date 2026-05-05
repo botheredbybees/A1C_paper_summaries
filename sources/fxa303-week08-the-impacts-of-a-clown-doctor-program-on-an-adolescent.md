@@ -37,7 +37,7 @@ This study investigates the impact of a clown doctor program on adolescent psych
 - [humor-interventions](../tags/humor-interventions.md)
 - [clown-doctors](../tags/clown-doctors.md)
 - [patient-experience](../tags/patient-experience.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

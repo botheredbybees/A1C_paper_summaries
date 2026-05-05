@@ -33,7 +33,7 @@ Tom Kitwood’s chapter on the experience of dementia addresses how people with 
 - [person-centered-care](../tags/person-centered-care.md)
 - [intersubjectivity-in-dementia](../tags/intersubjectivity-in-dementia.md)
 - [cognitive-impairment-experience](../tags/cognitive-impairment-experience.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

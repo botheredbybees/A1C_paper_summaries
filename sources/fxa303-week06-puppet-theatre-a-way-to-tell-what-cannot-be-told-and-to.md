@@ -37,7 +37,7 @@ Andrea Markovits discusses the use of puppet therapy as a method to address trau
 - [collective-memory](../tags/collective-memory.md)
 - [cultural-healing](../tags/cultural-healing.md)
 - [chile-dictatorship](../tags/chile-dictatorship.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

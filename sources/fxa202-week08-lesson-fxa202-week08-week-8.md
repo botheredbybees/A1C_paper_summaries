@@ -32,7 +32,7 @@ This lesson in LAW122 focuses on enhancing photo essays through image editing. I
 - [legal-systems](../tags/legal-systems.md)
 - [image-editing](../tags/image-editing.md)
 - [photo-essay](../tags/photo-essay.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

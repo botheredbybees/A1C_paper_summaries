@@ -35,7 +35,7 @@ The document 'Revive' is a five-year cultural policy for Australia that outlines
 - [first-nations-heritage](../tags/first-nations-heritage.md)
 - [economic-opportunities](../tags/economic-opportunities.md)
 - [inclusive-culture](../tags/inclusive-culture.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

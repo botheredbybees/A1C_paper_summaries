@@ -37,7 +37,7 @@ Joanne F. Vizzini's chapter, 'The Wonder Continues,' explores the therapeutic an
 - [cultural-sensitivity](../tags/cultural-sensitivity.md)
 - [community-settings](../tags/community-settings.md)
 - [emotional-expression](../tags/emotional-expression.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

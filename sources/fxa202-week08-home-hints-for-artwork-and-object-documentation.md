@@ -32,7 +32,7 @@ This document provides guidance on photographing artworks and objects at home wi
 - [artwork-documentation](../tags/artwork-documentation.md)
 - [home-photography](../tags/home-photography.md)
 - [lighting-techniques](../tags/lighting-techniques.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

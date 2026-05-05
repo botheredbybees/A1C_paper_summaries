@@ -36,7 +36,7 @@ This systematic review and meta-analysis explores the impact of music interventi
 - [creative-arts-health](../tags/creative-arts-health.md)
 - [systematic-review-meta-analysis](../tags/systematic-review-meta-analysis.md)
 - [wellbeing](../tags/wellbeing.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

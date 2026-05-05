@@ -35,7 +35,7 @@ The document 'Psychological First Aid: Supporting People Affected by Disaster in
 - [emergency-management](../tags/emergency-management.md)
 - [mental-health-intervention](../tags/mental-health-intervention.md)
 - [community-resilience](../tags/community-resilience.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

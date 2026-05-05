@@ -32,7 +32,7 @@ Week 8 of the LAW122 Legal Systems course focuses on image editing and photo pro
 - [image-editing](../tags/image-editing.md)
 - [photo-processing](../tags/photo-processing.md)
 - [legal-systems](../tags/legal-systems.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

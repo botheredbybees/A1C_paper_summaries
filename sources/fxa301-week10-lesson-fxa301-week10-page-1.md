@@ -36,7 +36,7 @@ This week's lesson in FXA301 Arts in the Community explores the therapeutic use 
 - [trauma-recovery](../tags/trauma-recovery.md)
 - [flow-state](../tags/flow-state.md)
 - [well-being](../tags/well-being.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

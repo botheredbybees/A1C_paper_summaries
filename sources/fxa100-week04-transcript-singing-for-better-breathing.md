@@ -32,7 +32,7 @@ This transcript describes the 'Singing for Better Breathing' initiative launched
 - [singing-for-better-breathing](../tags/singing-for-better-breathing.md)
 - [copd-management](../tags/copd-management.md)
 - [respiratory-rehabilitation](../tags/respiratory-rehabilitation.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

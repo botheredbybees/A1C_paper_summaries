@@ -34,7 +34,7 @@ This study examines the influence of motor simulation on art appreciation, speci
 - [motor-simulation](../tags/motor-simulation.md)
 - [awareness-effects](../tags/awareness-effects.md)
 - [visual-artwork](../tags/visual-artwork.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

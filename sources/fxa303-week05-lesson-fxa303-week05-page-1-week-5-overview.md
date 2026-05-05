@@ -33,7 +33,7 @@ In this week of FXA303 Creative Arts, the focus shifts to Module 2 with an empha
 - [creative-arts](../tags/creative-arts.md)
 - [mental-wellbeing](../tags/mental-wellbeing.md)
 - [playfulness](../tags/playfulness.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

@@ -32,7 +32,7 @@ This content is an authentication request for accessing a scholarly article thro
 - [authentication-request](../tags/authentication-request.md)
 - [shibboleth-system](../tags/shibboleth-system.md)
 - [internet-security](../tags/internet-security.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

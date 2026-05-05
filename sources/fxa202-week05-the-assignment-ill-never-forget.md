@@ -32,7 +32,7 @@ In 'The Assignment I'll Never Forget,' Dorothea Lange recounts her experience ca
 - [photojournalism](../tags/photojournalism.md)
 - [great-depression](../tags/great-depression.md)
 - [historical-photography](../tags/historical-photography.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

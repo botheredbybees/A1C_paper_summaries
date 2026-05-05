@@ -35,7 +35,7 @@ The book 'Engaging in Community Music: An Introduction' by Lee Higgins and Lee W
 - [music-education](../tags/music-education.md)
 - [wellbeing-through-music](../tags/wellbeing-through-music.md)
 - [intercultural-music](../tags/intercultural-music.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

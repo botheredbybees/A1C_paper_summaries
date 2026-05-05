@@ -34,7 +34,7 @@ This study evaluates the impact of drama therapy on the quality of life (QoL) of
 - [elderly-care](../tags/elderly-care.md)
 - [quality-of-life](../tags/quality-of-life.md)
 - [dementia-treatment](../tags/dementia-treatment.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

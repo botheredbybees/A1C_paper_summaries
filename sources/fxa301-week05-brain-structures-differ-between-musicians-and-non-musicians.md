@@ -36,7 +36,7 @@ The study by Gaser and Schlaug investigates structural differences in the brains
 - [voxel-based-morphometry](../tags/voxel-based-morphometry.md)
 - [structural-neuroimaging](../tags/structural-neuroimaging.md)
 - [motor-skills](../tags/motor-skills.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

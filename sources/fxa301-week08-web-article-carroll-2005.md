@@ -32,7 +32,7 @@ This page is a browser verification step prior to accessing an article hosted on
 - [browser-check](../tags/browser-check.md)
 - [pmc-access](../tags/pmc-access.md)
 - [security-verification](../tags/security-verification.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

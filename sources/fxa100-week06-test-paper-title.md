@@ -29,7 +29,7 @@ A brief prose summary of the paper content.
 ## Tags
 
 - [music-therapy](../tags/music-therapy.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

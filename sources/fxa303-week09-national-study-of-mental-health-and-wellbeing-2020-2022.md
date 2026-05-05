@@ -33,7 +33,7 @@ The National Study of Mental Health and Wellbeing, conducted by the Australian B
 - [mental-health-statistics](../tags/mental-health-statistics.md)
 - [anxiety-disorders-prevalence](../tags/anxiety-disorders-prevalence.md)
 - [demographic-inequalities](../tags/demographic-inequalities.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

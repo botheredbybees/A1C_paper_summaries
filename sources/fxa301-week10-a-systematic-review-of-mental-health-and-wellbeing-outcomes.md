@@ -34,7 +34,7 @@ The paper presents a systematic review of the literature on group singing as an 
 - [group-singing](../tags/group-singing.md)
 - [wellbeing-outcomes](../tags/wellbeing-outcomes.md)
 - [systematic-review](../tags/systematic-review.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

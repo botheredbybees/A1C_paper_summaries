@@ -34,7 +34,7 @@ The transcript discusses the role and impact of music therapy in caring for indi
 - [music-therapy](../tags/music-therapy.md)
 - [dementia-care](../tags/dementia-care.md)
 - [person-centered-care](../tags/person-centered-care.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

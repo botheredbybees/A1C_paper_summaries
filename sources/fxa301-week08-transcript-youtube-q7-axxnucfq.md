@@ -32,7 +32,7 @@ The provided content is a poetic excerpt from the poem 'If' by Rudyard Kipling, 
 - [poetry](../tags/poetry.md)
 - [time-management](../tags/time-management.md)
 - [life-reflections](../tags/life-reflections.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

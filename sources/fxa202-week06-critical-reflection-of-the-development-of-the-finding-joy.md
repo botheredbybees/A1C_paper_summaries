@@ -35,7 +35,7 @@ Simone Dalton's critical reflection on her 'Finding Joy' photo essay project exa
 - [social-prescribing](../tags/social-prescribing.md)
 - [mindful-photography](../tags/mindful-photography.md)
 - [lived-experience](../tags/lived-experience.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

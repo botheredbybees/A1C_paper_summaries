@@ -32,7 +32,7 @@ The document 'Making Art with Communities: A Work Guide' is an extensive resourc
 - [community-engagement](../tags/community-engagement.md)
 - [cultural-sensitivity](../tags/cultural-sensitivity.md)
 - [art-therapy](../tags/art-therapy.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

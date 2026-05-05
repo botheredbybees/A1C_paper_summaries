@@ -35,7 +35,7 @@ The article explores the significance of researching the connections between mig
 - [transdisciplinary-research](../tags/transdisciplinary-research.md)
 - [international-migration](../tags/international-migration.md)
 - [social-sciences](../tags/social-sciences.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

@@ -35,7 +35,7 @@ This study investigates the relationship between artificial intelligence (AI) to
 - [critical-thinking](../tags/critical-thinking.md)
 - [mixed-methods-research](../tags/mixed-methods-research.md)
 - [technology-dependency](../tags/technology-dependency.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

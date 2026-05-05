@@ -33,7 +33,7 @@ Recent research indicates a correlation between an individual's cognitive style 
 - [cognitive-style-music-preferences](../tags/cognitive-style-music-preferences.md)
 - [empathy-systemizing-spectrum](../tags/empathy-systemizing-spectrum.md)
 - [gender-differences-autism](../tags/gender-differences-autism.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

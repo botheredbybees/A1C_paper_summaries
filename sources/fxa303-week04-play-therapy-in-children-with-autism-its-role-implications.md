@@ -35,7 +35,7 @@ This article explores the role and implications of play therapy in children with
 - [child-development](../tags/child-development.md)
 - [social-interaction-skills](../tags/social-interaction-skills.md)
 - [therapeutic-interventions](../tags/therapeutic-interventions.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

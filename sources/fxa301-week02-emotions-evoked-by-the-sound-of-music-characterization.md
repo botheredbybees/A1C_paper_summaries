@@ -32,7 +32,7 @@ The article explores the emotional responses elicited by music, aiming to charac
 - [music-emotions](../tags/music-emotions.md)
 - [emotion-classification](../tags/emotion-classification.md)
 - [musical-genres](../tags/musical-genres.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

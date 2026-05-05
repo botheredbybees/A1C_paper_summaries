@@ -33,7 +33,7 @@ The study explores how mood influences emotional responses to music, specificall
 - [mood-congruence-music](../tags/mood-congruence-music.md)
 - [emotional-responses](../tags/emotional-responses.md)
 - [musical-preference](../tags/musical-preference.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

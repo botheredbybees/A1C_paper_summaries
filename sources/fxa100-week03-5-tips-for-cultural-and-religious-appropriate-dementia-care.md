@@ -41,7 +41,7 @@ Lastly, it emphasizes the importance of organizational efforts in recording and 
 - [religious-considerations](../tags/religious-considerations.md)
 - [elderly-support](../tags/elderly-support.md)
 - [ethnic-minorities](../tags/ethnic-minorities.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

@@ -35,7 +35,7 @@ The document discusses legal issues faced by Australian food bloggers, specifica
 - [food-blogging](../tags/food-blogging.md)
 - [intellectual-property](../tags/intellectual-property.md)
 - [moral-rights](../tags/moral-rights.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

@@ -37,7 +37,7 @@ This chapter introduces the field of creative arts in relation to health and wel
 - [creative-arts](../tags/creative-arts.md)
 - [health-and-wellbeing](../tags/health-and-wellbeing.md)
 - [therapeutic-interventions](../tags/therapeutic-interventions.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

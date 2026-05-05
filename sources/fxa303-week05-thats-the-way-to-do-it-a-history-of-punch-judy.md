@@ -37,7 +37,7 @@ The document 'That's the Way to Do It! A History of Punch & Judy' provides an ex
 - [traditional-puppet-shows](../tags/traditional-puppet-shows.md)
 - [cultural-evolution](../tags/cultural-evolution.md)
 - [folklore-studies](../tags/folklore-studies.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

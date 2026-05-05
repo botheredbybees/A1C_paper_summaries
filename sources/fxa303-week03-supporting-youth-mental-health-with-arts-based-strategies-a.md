@@ -39,7 +39,7 @@ Furthermore, the article explores mechanisms behind the effectiveness of arts-ba
 - [global-health-initiatives](../tags/global-health-initiatives.md)
 - [cultural-practices](../tags/cultural-practices.md)
 - [community-engagement](../tags/community-engagement.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

@@ -35,7 +35,7 @@ The document presents a series of poems that explore the internal struggles and 
 - [trauma-literature](../tags/trauma-literature.md)
 - [emotional-landscape](../tags/emotional-landscape.md)
 - [psychological-struggle](../tags/psychological-struggle.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

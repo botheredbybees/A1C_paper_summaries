@@ -32,7 +32,7 @@ Researchers have discovered the oldest known musical instruments in a cave in so
 - [ancient-instruments](../tags/ancient-instruments.md)
 - [human-evolution](../tags/human-evolution.md)
 - [neolithic-culture](../tags/neolithic-culture.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

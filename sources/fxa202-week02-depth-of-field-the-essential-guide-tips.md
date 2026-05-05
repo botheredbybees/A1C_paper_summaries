@@ -33,7 +33,7 @@ The article 'Depth of Field: The Essential Guide' by Bruce Wunderlich provides a
 - [depth-of-field](../tags/depth-of-field.md)
 - [photography-techniques](../tags/photography-techniques.md)
 - [image-clarity](../tags/image-clarity.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

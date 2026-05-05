@@ -35,7 +35,7 @@ This systematic review and meta-analysis evaluates the effectiveness of dance in
 - [older-adults](../tags/older-adults.md)
 - [systematic-review](../tags/systematic-review.md)
 - [meta-analysis](../tags/meta-analysis.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

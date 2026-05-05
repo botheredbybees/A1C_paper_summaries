@@ -32,7 +32,7 @@ In this LAW122 Legal Systems course module for Week 10, students are encouraged 
 - [legal-systems](../tags/legal-systems.md)
 - [critical-reflection](../tags/critical-reflection.md)
 - [discussion-activities](../tags/discussion-activities.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

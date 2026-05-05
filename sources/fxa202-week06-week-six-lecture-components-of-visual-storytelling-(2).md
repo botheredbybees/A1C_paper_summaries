@@ -32,7 +32,7 @@ This Week Six lecture in the Photo Essay course emphasizes visual storytelling t
 - [visual-storytelling](../tags/visual-storytelling.md)
 - [narrative-structure](../tags/narrative-structure.md)
 - [photo-journalism](../tags/photo-journalism.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

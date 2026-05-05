@@ -35,7 +35,7 @@ The transcript discusses innovative practices at Stet Lodge, a senior care facil
 - [person-centered-care](../tags/person-centered-care.md)
 - [intergenerational-interactions](../tags/intergenerational-interactions.md)
 - [innovative-practices](../tags/innovative-practices.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

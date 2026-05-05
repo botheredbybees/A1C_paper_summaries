@@ -35,7 +35,7 @@ The lesson focuses on the effective use of color in photography to convey mood a
 - [photography](../tags/photography.md)
 - [color-theory](../tags/color-theory.md)
 - [composition](../tags/composition.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

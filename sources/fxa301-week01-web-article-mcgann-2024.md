@@ -32,7 +32,7 @@ The Creative Australia website details its commitment to advancing the arts thro
 - [creative-research](../tags/creative-research.md)
 - [arts-funding](../tags/arts-funding.md)
 - [diversity-data](../tags/diversity-data.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

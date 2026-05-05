@@ -38,7 +38,7 @@ The findings contribute to the ongoing debate about whether art-based interventi
 - [art-therapy](../tags/art-therapy.md)
 - [cognitive-interventions](../tags/cognitive-interventions.md)
 - [randomized-trials](../tags/randomized-trials.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

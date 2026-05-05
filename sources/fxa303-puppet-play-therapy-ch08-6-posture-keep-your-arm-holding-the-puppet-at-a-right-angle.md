@@ -32,7 +32,7 @@ This chapter from the book 'Puppet Play Therapy: A Practical Guidebook' provides
 - [puppet-therapy](../tags/puppet-therapy.md)
 - [child-psychology](../tags/child-psychology.md)
 - [creative-play](../tags/creative-play.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

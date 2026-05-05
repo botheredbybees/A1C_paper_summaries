@@ -33,7 +33,7 @@ Edmund T. Rolls challenges the traditional concept of a single limbic system in 
 - [neural-networks](../tags/neural-networks.md)
 - [emotion-memory](../tags/emotion-memory.md)
 - [limbic-system](../tags/limbic-system.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

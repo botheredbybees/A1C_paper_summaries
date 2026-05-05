@@ -31,7 +31,7 @@ The transcript could not be automatically downloaded due to the absence of capti
 - [video-transcript](../tags/video-transcript.md)
 - [youtube-issues](../tags/youtube-issues.md)
 - [automatic-downloads](../tags/automatic-downloads.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

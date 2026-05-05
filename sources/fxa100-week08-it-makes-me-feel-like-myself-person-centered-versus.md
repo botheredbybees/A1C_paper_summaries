@@ -35,7 +35,7 @@ The study, conducted over a period of 15 months between February 2010 and April 
 - [visual-arts-therapy](../tags/visual-arts-therapy.md)
 - [quality-of-life](../tags/quality-of-life.md)
 - [long-term-care](../tags/long-term-care.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

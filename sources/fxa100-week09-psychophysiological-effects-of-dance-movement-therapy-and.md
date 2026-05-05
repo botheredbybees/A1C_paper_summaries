@@ -35,7 +35,7 @@ This study examines the psychophysiological impacts of dance movement therapy (D
 - [psychophysiology](../tags/psychophysiology.md)
 - [aging-research](../tags/aging-research.md)
 - [mental-health](../tags/mental-health.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

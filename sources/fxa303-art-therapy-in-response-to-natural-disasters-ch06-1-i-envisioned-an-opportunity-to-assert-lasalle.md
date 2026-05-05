@@ -34,7 +34,7 @@ This chapter discusses the ethical considerations and collaborative practices in
 - [disaster-recovery](../tags/disaster-recovery.md)
 - [ethics-in-psychology](../tags/ethics-in-psychology.md)
 - [cultural-sensitivity](../tags/cultural-sensitivity.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

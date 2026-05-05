@@ -35,7 +35,7 @@ This study investigates the role of artistic engagement in mental health and lif
 - [youth-art-engagement](../tags/youth-art-engagement.md)
 - [community-support-networks](../tags/community-support-networks.md)
 - [adolescent-well-being](../tags/adolescent-well-being.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

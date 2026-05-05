@@ -40,7 +40,7 @@ Dr Brendan Lamb's lecture for FXA301 Arts in the Community introduces students t
 - [community-health](../tags/community-health.md)
 - [wellbeing](../tags/wellbeing.md)
 - [education-outcomes](../tags/education-outcomes.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

@@ -36,7 +36,7 @@ This systematic review by Sheppard and Broughton explores the relationship betwe
 - [dance-therapy](../tags/dance-therapy.md)
 - [systematic-review](../tags/systematic-review.md)
 - [socio-determinants-of-health](../tags/socio-determinants-of-health.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

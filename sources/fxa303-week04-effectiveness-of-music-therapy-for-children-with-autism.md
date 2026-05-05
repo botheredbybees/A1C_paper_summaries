@@ -36,7 +36,7 @@ This study examines the efficacy of music therapy (MT) as an intervention for ch
 - [meta-analysis](../tags/meta-analysis.md)
 - [neural-connectivity](../tags/neural-connectivity.md)
 - [brain-plasticity](../tags/brain-plasticity.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

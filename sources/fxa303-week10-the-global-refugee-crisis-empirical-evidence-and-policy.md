@@ -37,7 +37,7 @@ The article explores the global refugee crisis, examining empirical evidence and
 - [media-representation-refugees](../tags/media-representation-refugees.md)
 - [social-contact-integration](../tags/social-contact-integration.md)
 - [policy-implications-refugees](../tags/policy-implications-refugees.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

@@ -32,7 +32,7 @@ This lesson explores the history and role of clowns and jesters from ancient tim
 - [clown-history](../tags/clown-history.md)
 - [jesters-in-ancient-cultures](../tags/jesters-in-ancient-cultures.md)
 - [therapeutic-clowning](../tags/therapeutic-clowning.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

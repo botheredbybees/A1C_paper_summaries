@@ -34,7 +34,7 @@ The tutorial focuses on the importance of having a camera with you at all times 
 - [camera-usage](../tags/camera-usage.md)
 - [mobile-phone-cameras](../tags/mobile-phone-cameras.md)
 - [dslr-photography](../tags/dslr-photography.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

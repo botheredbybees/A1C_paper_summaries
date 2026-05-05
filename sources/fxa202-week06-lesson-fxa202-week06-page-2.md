@@ -32,7 +32,7 @@ This lesson focuses on the concept of visual storytelling through photography. I
 - [visual storytelling](../tags/visual-storytelling.md)
 - [photography](../tags/photography.md)
 - [storytelling techniques](../tags/storytelling-techniques.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

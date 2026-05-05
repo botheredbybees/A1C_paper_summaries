@@ -36,7 +36,7 @@ This study explores the role of motor activity in aesthetic appreciation, partic
 - [cognitive-neuroscience](../tags/cognitive-neuroscience.md)
 - [perceptual-processing](../tags/perceptual-processing.md)
 - [painting-style](../tags/painting-style.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

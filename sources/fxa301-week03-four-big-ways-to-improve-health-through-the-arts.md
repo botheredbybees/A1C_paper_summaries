@@ -36,7 +36,7 @@ Tasha Golden's document discusses four significant domains in which the arts can
 - [community-engagement](../tags/community-engagement.md)
 - [sociocultural-change](../tags/sociocultural-change.md)
 - [mental-health-stigma](../tags/mental-health-stigma.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

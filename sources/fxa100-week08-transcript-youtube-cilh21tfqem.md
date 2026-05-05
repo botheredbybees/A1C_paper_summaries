@@ -32,7 +32,7 @@ The content is a transcription of captions from a video featuring lyrics or poet
 - [poetry](../tags/poetry.md)
 - [inspirational-quotes](../tags/inspirational-quotes.md)
 - [self-expression](../tags/self-expression.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

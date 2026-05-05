@@ -34,7 +34,7 @@ Joshua Smyth's paper discusses various creative and expressive therapies that ca
 - [expressive-writing](../tags/expressive-writing.md)
 - [creative-therapies](../tags/creative-therapies.md)
 - [emotional-regulation](../tags/emotional-regulation.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

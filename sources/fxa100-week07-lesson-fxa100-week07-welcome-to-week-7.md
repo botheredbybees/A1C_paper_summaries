@@ -32,7 +32,7 @@ In Week 7 of the FXA100 course on 'The Arts and Dementia Care,' students explore
 - [arts-and-dementia-care](../tags/arts-and-dementia-care.md)
 - [gallery-museum-outreach](../tags/gallery-museum-outreach.md)
 - [dementia-carer-support](../tags/dementia-carer-support.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

@@ -34,7 +34,7 @@ This study explores the impact of drama therapy on the quality of life (QoL) for
 - [quality-of-life](../tags/quality-of-life.md)
 - [mental-health-interventions](../tags/mental-health-interventions.md)
 - [aging-population](../tags/aging-population.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

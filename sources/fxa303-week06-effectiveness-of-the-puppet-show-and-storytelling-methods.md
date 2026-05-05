@@ -39,7 +39,7 @@ The study investigates the effectiveness of puppet shows and storytelling on beh
 - [early-childhood-intervention](../tags/early-childhood-intervention.md)
 - [puppet-shows](../tags/puppet-shows.md)
 - [storytelling](../tags/storytelling.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

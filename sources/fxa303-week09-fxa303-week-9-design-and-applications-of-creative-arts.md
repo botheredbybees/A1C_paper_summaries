@@ -35,7 +35,7 @@ Week 9 of FXA303, a course on Creative Arts, Play, and Mental Wellbeing, introdu
 - [trauma-informed-practice](../tags/trauma-informed-practice.md)
 - [community-engagement](../tags/community-engagement.md)
 - [resilience-building](../tags/resilience-building.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

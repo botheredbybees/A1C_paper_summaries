@@ -40,7 +40,7 @@ Additionally, the study emphasizes the shift in policy towards social prescribin
 - [youth-development](../tags/youth-development.md)
 - [community-interventions](../tags/community-interventions.md)
 - [social-prescribing](../tags/social-prescribing.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

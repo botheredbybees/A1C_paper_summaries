@@ -33,7 +33,7 @@ The document provides guidance on how to effectively photograph artworks and obj
 - [artwork-documentation](../tags/artwork-documentation.md)
 - [photography-tips](../tags/photography-tips.md)
 - [home-studio-setup](../tags/home-studio-setup.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

@@ -33,7 +33,7 @@ In this chapter from Hughes' book 'How We Think About Dementia', the concept of 
 - [dementia](../tags/dementia.md)
 - [personhood-theory](../tags/personhood-theory.md)
 - [ethics](../tags/ethics.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

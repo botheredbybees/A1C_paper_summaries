@@ -33,7 +33,7 @@ This article explores the impact of post-disaster contexts on children's outdoor
 - [childrens-outdoor-play](../tags/childrens-outdoor-play.md)
 - [tohoku-japan](../tags/tohoku-japan.md)
 - [spit-model](../tags/spit-model.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

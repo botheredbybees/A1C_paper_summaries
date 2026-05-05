@@ -32,7 +32,7 @@ This article explores how music can aid in the recovery of individuals with brai
 - [music-therapy](../tags/music-therapy.md)
 - [brain-injury-recovery](../tags/brain-injury-recovery.md)
 - [neuroplasticity](../tags/neuroplasticity.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

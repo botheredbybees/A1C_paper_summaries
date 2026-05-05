@@ -41,7 +41,7 @@ These findings are crucial for developing tailored prevention strategies and int
 - [patient-outcomes](../tags/patient-outcomes.md)
 - [medication-effects](../tags/medication-effects.md)
 - [elderly-health](../tags/elderly-health.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

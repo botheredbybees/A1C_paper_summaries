@@ -33,7 +33,7 @@ The study presents a systematic review of person-centered care (PCC) interventio
 - [person-centered-care](../tags/person-centered-care.md)
 - [dementia-interventions](../tags/dementia-interventions.md)
 - [systematic-review](../tags/systematic-review.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

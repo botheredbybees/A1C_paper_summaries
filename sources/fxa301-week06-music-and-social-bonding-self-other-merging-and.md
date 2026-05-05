@@ -32,7 +32,7 @@ This paper explores the mechanisms by which music fosters social bonding among i
 - [music-and-social-bonding](../tags/music-and-social-bonding.md)
 - [neurohormonal-mechanisms](../tags/neurohormonal-mechanisms.md)
 - [interpersonal-synchrony](../tags/interpersonal-synchrony.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

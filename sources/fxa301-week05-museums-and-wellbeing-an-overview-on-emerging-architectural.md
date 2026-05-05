@@ -35,7 +35,7 @@ The paper explores the growing connection between museums and health, highlighti
 - [therapeutic-spaces](../tags/therapeutic-spaces.md)
 - [inclusive-museography](../tags/inclusive-museography.md)
 - [cognitive-wellness](../tags/cognitive-wellness.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

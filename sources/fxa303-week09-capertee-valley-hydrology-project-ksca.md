@@ -37,7 +37,7 @@ The Capertee Valley Hydrology Project, initiated by Kandos School of Cultural Ad
 - [community-engagement](../tags/community-engagement.md)
 - [land-management-practices](../tags/land-management-practices.md)
 - [natural-regeneration](../tags/natural-regeneration.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

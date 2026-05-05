@@ -34,7 +34,7 @@ The MoMA Alzheimer's Project is a guide developed by the Museum of Modern Art fo
 - [art-therapy](../tags/art-therapy.md)
 - [inclusive-design](../tags/inclusive-design.md)
 - [alzheimers-research](../tags/alzheimers-research.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

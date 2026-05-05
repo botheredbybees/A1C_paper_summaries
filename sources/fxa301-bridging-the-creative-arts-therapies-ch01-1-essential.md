@@ -36,7 +36,7 @@ The chapter discusses how aesthetic spaces can promote health and well-being by 
 - [neuroaesthetics](../tags/neuroaesthetics.md)
 - [therapeutic-environments](../tags/therapeutic-environments.md)
 - [interdisciplinary-collaboration](../tags/interdisciplinary-collaboration.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

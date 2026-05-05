@@ -33,7 +33,7 @@ The document '10 Tips for Better Composition' provides practical advice on enhan
 - [photography-tips](../tags/photography-tips.md)
 - [composition-rules](../tags/composition-rules.md)
 - [lighting-techniques](../tags/lighting-techniques.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

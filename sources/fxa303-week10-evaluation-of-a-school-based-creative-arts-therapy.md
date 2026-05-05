@@ -35,7 +35,7 @@ This study evaluates the effectiveness of a school-based creative arts therapy p
 - [creative-arts-therapy](../tags/creative-arts-therapy.md)
 - [school-based-programming](../tags/school-based-programming.md)
 - [adolescent-development](../tags/adolescent-development.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

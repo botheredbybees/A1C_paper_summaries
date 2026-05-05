@@ -35,7 +35,7 @@ This research article evaluates the efficacy of a visual arts program, specifica
 - [quality-of-life](../tags/quality-of-life.md)
 - [cognitive-function](../tags/cognitive-function.md)
 - [communication-skills](../tags/communication-skills.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

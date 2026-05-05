@@ -34,7 +34,7 @@ The transcript discusses dementia as a group of symptoms caused by various brain
 - [brain-diseases](../tags/brain-diseases.md)
 - [progressive-conditions](../tags/progressive-conditions.md)
 - [neurology](../tags/neurology.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

@@ -39,7 +39,7 @@ Key lessons from the report emphasize the importance of moving beyond GDP-centri
 - [sustainable-wellbeing](../tags/sustainable-wellbeing.md)
 - [environmental-impact](../tags/environmental-impact.md)
 - [quality-of-life](../tags/quality-of-life.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

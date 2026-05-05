@@ -33,7 +33,7 @@ The article 'Unraveling Neurodiversity: Insights from Neuroscientiﬁc Perspecti
 - [cognitive-differences](../tags/cognitive-differences.md)
 - [brain-anatomy](../tags/brain-anatomy.md)
 - [societal-inclusion](../tags/societal-inclusion.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

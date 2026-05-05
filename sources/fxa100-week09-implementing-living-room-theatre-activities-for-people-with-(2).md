@@ -33,7 +33,7 @@ The study evaluates the implementation of the Veder Method, a new communication 
 - [dementia-care](../tags/dementia-care.md)
 - [person-centered-care](../tags/person-centered-care.md)
 - [nursing-home-interventions](../tags/nursing-home-interventions.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

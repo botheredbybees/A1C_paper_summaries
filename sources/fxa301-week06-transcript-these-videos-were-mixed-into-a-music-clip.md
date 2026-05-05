@@ -33,7 +33,7 @@ The content describes a music clip released on March 23, 2020, featuring videos 
 - [coronavirus](../tags/coronavirus.md)
 - [community-engagement](../tags/community-engagement.md)
 - [virtual-choir](../tags/virtual-choir.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

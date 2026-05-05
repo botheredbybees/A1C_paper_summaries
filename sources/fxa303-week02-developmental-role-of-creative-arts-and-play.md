@@ -36,7 +36,7 @@ This lecture discusses the critical developmental role of creative play and arts
 - [play-theory](../tags/play-theory.md)
 - [emotional-wellbeing](../tags/emotional-wellbeing.md)
 - [cognitive-development](../tags/cognitive-development.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

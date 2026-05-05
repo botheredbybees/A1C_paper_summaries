@@ -32,7 +32,7 @@ This chapter discusses the concept of embodied selfhood and its implications for
 - [dementia-care](../tags/dementia-care.md)
 - [personhood-movement](../tags/personhood-movement.md)
 - [embodied-selfhood](../tags/embodied-selfhood.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

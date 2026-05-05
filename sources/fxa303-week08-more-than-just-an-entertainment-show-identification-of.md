@@ -35,7 +35,7 @@ The study explores the communication skills and therapeutic goals of medical clo
 - [patient-wellbeing](../tags/patient-wellbeing.md)
 - [pediatric-care](../tags/pediatric-care.md)
 - [health-professionals](../tags/health-professionals.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

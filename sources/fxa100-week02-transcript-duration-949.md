@@ -32,7 +32,7 @@ The transcript discusses the Artists in the House program aimed at enhancing the
 - [aged-care](../tags/aged-care.md)
 - [self-expression](../tags/self-expression.md)
 - [neuroplasticity](../tags/neuroplasticity.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

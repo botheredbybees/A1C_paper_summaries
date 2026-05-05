@@ -37,7 +37,7 @@ This document provides a transcript of a music therapy session in a residential 
 - [self-expression-through-music](../tags/self-expression-through-music.md)
 - [emotional-wellbeing](../tags/emotional-wellbeing.md)
 - [personal-memory](../tags/personal-memory.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

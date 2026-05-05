@@ -32,7 +32,7 @@ This transcript features personal stories shared by participants of the Arts Gym
 - [arts-and-culture](../tags/arts-and-culture.md)
 - [community-engagement](../tags/community-engagement.md)
 - [wellness](../tags/wellness.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

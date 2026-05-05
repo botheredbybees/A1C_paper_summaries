@@ -34,7 +34,7 @@ The transcript discusses Sully Jenny's pioneering work on using art therapy to c
 - [art-therapy](../tags/art-therapy.md)
 - [self-expression](../tags/self-expression.md)
 - [memory-loss](../tags/memory-loss.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

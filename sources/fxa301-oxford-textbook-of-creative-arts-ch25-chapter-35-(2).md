@@ -32,7 +32,7 @@ This chapter explores the influence of cultural activities on health and well-be
 - [cultural-activities](../tags/cultural-activities.md)
 - [health-promotion](../tags/health-promotion.md)
 - [workplace-wellbeing](../tags/workplace-wellbeing.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

@@ -33,7 +33,7 @@ This lesson explores the application of theatre and play in dementia care throug
 - [dementia-care](../tags/dementia-care.md)
 - [person-centered-approaches](../tags/person-centered-approaches.md)
 - [theatre-in-education](../tags/theatre-in-education.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

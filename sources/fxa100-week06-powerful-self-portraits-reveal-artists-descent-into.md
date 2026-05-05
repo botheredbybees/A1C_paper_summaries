@@ -32,7 +32,7 @@ The article discusses the profound impact of Alzheimer’s disease on William Ut
 - [alzheimers-art](../tags/alzheimers-art.md)
 - [cognitive-decline-artist](../tags/cognitive-decline-artist.md)
 - [self-portrait-memory](../tags/self-portrait-memory.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

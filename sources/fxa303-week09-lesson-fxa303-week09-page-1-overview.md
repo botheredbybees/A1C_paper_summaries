@@ -34,7 +34,7 @@ This lesson focuses on the role of creative arts in trauma recovery following na
 - [mental-wellbeing](../tags/mental-wellbeing.md)
 - [trauma-recovery](../tags/trauma-recovery.md)
 - [disaster-management](../tags/disaster-management.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

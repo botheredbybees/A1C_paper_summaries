@@ -33,7 +33,7 @@ The study evaluated the impact of personalized music interventions using iPods o
 - [personalized-music](../tags/personalized-music.md)
 - [dementia-caregiver-support](../tags/dementia-caregiver-support.md)
 - [ipod-intervention](../tags/ipod-intervention.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

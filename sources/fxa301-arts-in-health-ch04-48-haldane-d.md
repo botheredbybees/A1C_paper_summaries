@@ -39,7 +39,7 @@ This chapter discusses the evolution of health definitions over two centuries, f
 - [public-health](../tags/public-health.md)
 - [arts-in-healthcare](../tags/arts-in-healthcare.md)
 - [historical-evolution-of-health](../tags/historical-evolution-of-health.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

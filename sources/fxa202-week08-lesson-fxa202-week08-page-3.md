@@ -32,7 +32,7 @@ This lesson on photo editing emphasizes the importance of basic adjustments to e
 - [photo-editing](../tags/photo-editing.md)
 - [photography-techniques](../tags/photography-techniques.md)
 - [image-enhancement](../tags/image-enhancement.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

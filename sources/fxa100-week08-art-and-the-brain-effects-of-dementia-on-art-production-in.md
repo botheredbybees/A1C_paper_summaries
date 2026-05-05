@@ -33,7 +33,7 @@ The article explores the impact of various types of dementia on art production i
 - [dementia-and-art](../tags/dementia-and-art.md)
 - [neurology-in-art-therapy](../tags/neurology-in-art-therapy.md)
 - [brain-damage-effects](../tags/brain-damage-effects.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

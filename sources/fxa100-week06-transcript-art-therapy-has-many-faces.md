@@ -35,7 +35,7 @@ The transcript discusses the experience of an individual who found solace and id
 - [self-expression](../tags/self-expression.md)
 - [identity-crisis](../tags/identity-crisis.md)
 - [emotional-support](../tags/emotional-support.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

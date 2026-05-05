@@ -32,7 +32,7 @@ The YouTube link provided does not contain an automatic transcript but offers th
 - [music-performance](../tags/music-performance.md)
 - [classical-music](../tags/classical-music.md)
 - [beethoven-symphony](../tags/beethoven-symphony.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

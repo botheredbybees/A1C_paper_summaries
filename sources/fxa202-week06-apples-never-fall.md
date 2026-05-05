@@ -37,7 +37,7 @@ Moreover, the text reflects on cherished traditions such as Christmas visits to 
 - [culinary-heritage](../tags/culinary-heritage.md)
 - [family-traditions](../tags/family-traditions.md)
 - [food-memories](../tags/food-memories.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

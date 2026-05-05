@@ -32,7 +32,7 @@ The document 'Dementia facts and figures' by Dementia Australia provides an over
 - [dementia-statistics](../tags/dementia-statistics.md)
 - [australian-healthcare](../tags/australian-healthcare.md)
 - [elder-care](../tags/elder-care.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

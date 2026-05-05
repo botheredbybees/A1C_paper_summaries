@@ -39,7 +39,7 @@ The article discusses notable alterations in the adolescent brain, focusing on b
 - [synaptic-pruning-myelination](../tags/synaptic-pruning-myelination.md)
 - [behavioral-neuroscience](../tags/behavioral-neuroscience.md)
 - [reward-processing](../tags/reward-processing.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

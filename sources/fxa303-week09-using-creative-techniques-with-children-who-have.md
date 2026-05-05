@@ -36,7 +36,7 @@ This article explores the use of creative techniques in counseling children who 
 - [therapeutic-interventions](../tags/therapeutic-interventions.md)
 - [developmental-psychology](../tags/developmental-psychology.md)
 - [counseling-methods](../tags/counseling-methods.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

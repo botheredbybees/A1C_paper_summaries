@@ -36,7 +36,7 @@ The article by Sophie Nicholls critiques the expressive writing paradigm, which 
 - [personal-development](../tags/personal-development.md)
 - [qualitative-research](../tags/qualitative-research.md)
 - [self-concept](../tags/self-concept.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

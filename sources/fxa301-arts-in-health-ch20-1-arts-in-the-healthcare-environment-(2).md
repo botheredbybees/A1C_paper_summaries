@@ -33,7 +33,7 @@ This chapter explores the categorization of arts in health activities and their 
 - [arts-in-health](../tags/arts-in-health.md)
 - [healthcare-environment](../tags/healthcare-environment.md)
 - [participatory-arts](../tags/participatory-arts.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

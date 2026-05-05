@@ -33,7 +33,7 @@ Chapter 11 of 'Therapeutic Photography: Enhancing Self-Esteem, Self-Efficacy and
 - [therapeutic-photography](../tags/therapeutic-photography.md)
 - [self-portraits](../tags/self-portraits.md)
 - [breast-cancer-support](../tags/breast-cancer-support.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

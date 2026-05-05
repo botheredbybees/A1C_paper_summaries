@@ -34,7 +34,7 @@ This study compares the effects of music therapy with general recreational activ
 - [music-therapy](../tags/music-therapy.md)
 - [recreational-activities](../tags/recreational-activities.md)
 - [agitation-management](../tags/agitation-management.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

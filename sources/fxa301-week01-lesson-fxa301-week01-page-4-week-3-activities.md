@@ -33,7 +33,7 @@ This lesson for FXA301 focuses on community arts projects and their implications
 - [health-outcomes](../tags/health-outcomes.md)
 - [funding-guidelines](../tags/funding-guidelines.md)
 - [quizzes](../tags/quizzes.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

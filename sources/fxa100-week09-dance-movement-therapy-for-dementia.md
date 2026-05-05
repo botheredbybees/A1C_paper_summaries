@@ -35,7 +35,7 @@ This systematic review evaluates the effectiveness of dance movement therapy (DM
 - [systematic-review](../tags/systematic-review.md)
 - [behavioral-symptoms](../tags/behavioral-symptoms.md)
 - [cognitive-health](../tags/cognitive-health.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

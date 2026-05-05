@@ -33,7 +33,7 @@ The document provides guidelines for maintaining a journal in the context of cre
 - [creative-arts](../tags/creative-arts.md)
 - [professional-development](../tags/professional-development.md)
 - [visual-research](../tags/visual-research.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

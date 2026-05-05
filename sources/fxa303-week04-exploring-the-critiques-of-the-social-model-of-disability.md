@@ -36,7 +36,7 @@ This article critically examines the social model of disability, a theoretical f
 - [power-politics](../tags/power-politics.md)
 - [arendts-philosophy](../tags/arendts-philosophy.md)
 - [pluralism](../tags/pluralism.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

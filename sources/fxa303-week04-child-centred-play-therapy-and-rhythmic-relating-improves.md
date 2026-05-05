@@ -34,7 +34,7 @@ This study investigates the impact of a therapeutic combination of Child-Centred
 - [autism-intervention](../tags/autism-intervention.md)
 - [emotion-regulation](../tags/emotion-regulation.md)
 - [play-therapy](../tags/play-therapy.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

@@ -35,7 +35,7 @@ This study evaluates the impact of the Great East Japan earthquake and subsequen
 - [natural-disasters](../tags/natural-disasters.md)
 - [public-mental-health](../tags/public-mental-health.md)
 - [retrospective-studies](../tags/retrospective-studies.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

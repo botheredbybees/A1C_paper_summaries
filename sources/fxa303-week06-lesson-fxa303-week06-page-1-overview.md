@@ -33,7 +33,7 @@ This week's lesson in FXA303 focuses on the use of puppets for enhancing mental 
 - [creative-arts](../tags/creative-arts.md)
 - [mental-wellbeing](../tags/mental-wellbeing.md)
 - [puppet-theatre](../tags/puppet-theatre.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

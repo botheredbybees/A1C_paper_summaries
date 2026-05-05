@@ -35,7 +35,7 @@ Chapter 12 of 'Music as Therapy and Health Promotion' explores the integration o
 - [neuroscience-research](../tags/neuroscience-research.md)
 - [brain-plasticity](../tags/brain-plasticity.md)
 - [therapeutic-interventions](../tags/therapeutic-interventions.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

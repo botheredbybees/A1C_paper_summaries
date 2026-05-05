@@ -35,7 +35,7 @@ The study by Jacobsen-Höfel and Höfel explores aesthetic judgments made on nov
 - [individual-differences](../tags/individual-differences.md)
 - [empirical-aesthetics](../tags/empirical-aesthetics.md)
 - [beauty-perception](../tags/beauty-perception.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

@@ -35,7 +35,7 @@ This review discusses recent imaging studies that have started to elucidate the 
 - [childhood-cognitive-abilities](../tags/childhood-cognitive-abilities.md)
 - [myelination](../tags/myelination.md)
 - [synaptic-density](../tags/synaptic-density.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

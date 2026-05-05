@@ -33,7 +33,7 @@ This study investigates the effects of active versus passive music instruction o
 - [music-and-cognition](../tags/music-and-cognition.md)
 - [aging-and-memory](../tags/aging-and-memory.md)
 - [executive-function-in-elderly](../tags/executive-function-in-elderly.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

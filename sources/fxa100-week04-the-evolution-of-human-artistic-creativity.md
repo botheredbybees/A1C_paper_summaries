@@ -42,7 +42,7 @@ The author suggests that the cognitive capability to separate artistic creation 
 - [paleolithic-artifacts](../tags/paleolithic-artifacts.md)
 - [african-origin](../tags/african-origin.md)
 - [visual-cognition](../tags/visual-cognition.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

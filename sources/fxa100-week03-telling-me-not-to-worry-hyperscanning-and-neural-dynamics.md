@@ -35,7 +35,7 @@ This paper explores the neural dynamics of emotion processing during Guided Imag
 - [guided-imagination](../tags/guided-imagination.md)
 - [music-therapy](../tags/music-therapy.md)
 - [hyperscanning](../tags/hyperscanning.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

@@ -35,7 +35,7 @@ This document introduces foundational concepts in child development from neurosc
 - [early-intervention](../tags/early-intervention.md)
 - [creative-arts](../tags/creative-arts.md)
 - [play-based-learning](../tags/play-based-learning.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

@@ -32,7 +32,7 @@ This week's lecture in LAW122 focuses on refining writing skills for Assessment 
 - [legal-systems](../tags/legal-systems.md)
 - [writing-refinement](../tags/writing-refinement.md)
 - [journalling-for-wellbeing](../tags/journalling-for-wellbeing.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

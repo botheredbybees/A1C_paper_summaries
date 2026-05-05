@@ -33,7 +33,7 @@ The chapter discusses the management and understanding of dementia symptoms from
 - [dementia-care](../tags/dementia-care.md)
 - [biopsychosocial-approach](../tags/biopsychosocial-approach.md)
 - [memory-function](../tags/memory-function.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

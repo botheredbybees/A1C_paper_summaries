@@ -43,7 +43,7 @@ The document provides an overview of the FXA100 course, which focuses on practic
 - [well-being-enhancement](../tags/well-being-enhancement.md)
 - [cognitive-processing](../tags/cognitive-processing.md)
 - [dementia-types](../tags/dementia-types.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

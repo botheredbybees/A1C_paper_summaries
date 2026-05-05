@@ -34,7 +34,7 @@ The document discusses a practical guide for integrating creative media into dem
 - [creative-activities](../tags/creative-activities.md)
 - [reminiscence-therapy](../tags/reminiscence-therapy.md)
 - [quality-of-life](../tags/quality-of-life.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

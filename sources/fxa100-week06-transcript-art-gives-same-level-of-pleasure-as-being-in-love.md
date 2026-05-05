@@ -35,7 +35,7 @@ This transcript discusses recent research by Semir Zeki from University College 
 - [brain-stimulation](../tags/brain-stimulation.md)
 - [well-being-index](../tags/well-being-index.md)
 - [dopamine-reaction](../tags/dopamine-reaction.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

@@ -32,7 +32,7 @@ The document outlines the content and learning outcomes for a lecture in FXA100:
 - [dementia-care](../tags/dementia-care.md)
 - [gallery-programs](../tags/gallery-programs.md)
 - [art-therapy](../tags/art-therapy.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

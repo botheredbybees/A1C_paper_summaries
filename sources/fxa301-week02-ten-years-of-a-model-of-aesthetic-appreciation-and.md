@@ -35,7 +35,7 @@ This article reviews the development and impact of a model proposed by Leder et 
 - [neuroaesthetics](../tags/neuroaesthetics.md)
 - [cognitive-psychology](../tags/cognitive-psychology.md)
 - [emotional-reaction](../tags/emotional-reaction.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

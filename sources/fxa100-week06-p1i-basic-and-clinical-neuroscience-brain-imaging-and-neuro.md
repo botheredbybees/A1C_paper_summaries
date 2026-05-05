@@ -35,7 +35,7 @@ The document discusses research on brain imaging and neuro-modulation in relatio
 - [dopamine-neurons](../tags/dopamine-neurons.md)
 - [motor-control](../tags/motor-control.md)
 - [reward-processing](../tags/reward-processing.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

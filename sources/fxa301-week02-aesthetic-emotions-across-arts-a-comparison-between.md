@@ -33,7 +33,7 @@ This study investigates the emotional responses to art in the form of painting a
 - [aesthetic-emotions](../tags/aesthetic-emotions.md)
 - [art-experience](../tags/art-experience.md)
 - [cross-modal-comparison](../tags/cross-modal-comparison.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

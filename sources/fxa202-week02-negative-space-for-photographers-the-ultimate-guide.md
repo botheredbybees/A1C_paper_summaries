@@ -32,7 +32,7 @@ Negative space in photography refers to the area around a main subject that rema
 - [photography-composition](../tags/photography-composition.md)
 - [minimalist-photography](../tags/minimalist-photography.md)
 - [negative-space](../tags/negative-space.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

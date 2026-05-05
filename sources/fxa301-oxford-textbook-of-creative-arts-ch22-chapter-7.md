@@ -36,7 +36,7 @@ This chapter explores the concept of community cultural development (CCD) as a f
 - [community-cultural-development](../tags/community-cultural-development.md)
 - [public-health-interventions](../tags/public-health-interventions.md)
 - [arts-based-therapy](../tags/arts-based-therapy.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

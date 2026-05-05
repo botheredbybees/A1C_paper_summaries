@@ -35,7 +35,7 @@ This lesson covers two case studies focusing on community arts projects: 'Big No
 - [dance-health-benefits](../tags/dance-health-benefits.md)
 - [youth-development](../tags/youth-development.md)
 - [elderly-wellbeing](../tags/elderly-wellbeing.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

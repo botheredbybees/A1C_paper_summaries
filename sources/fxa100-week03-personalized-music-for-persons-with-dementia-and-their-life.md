@@ -36,7 +36,7 @@ This paper discusses the impact of personalized music on individuals with dement
 - [quality-of-life](../tags/quality-of-life.md)
 - [cognitive-functioning](../tags/cognitive-functioning.md)
 - [patient-compliance](../tags/patient-compliance.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

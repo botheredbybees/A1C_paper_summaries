@@ -36,7 +36,7 @@ This research article explores the potential protective effect of playing a musi
 - [twin-research](../tags/twin-research.md)
 - [music-therapy](../tags/music-therapy.md)
 - [neuroprotection](../tags/neuroprotection.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

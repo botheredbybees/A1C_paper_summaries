@@ -35,7 +35,7 @@ This symposium addresses the growing interest in utilizing arts programs to enha
 - [quality-of-life](../tags/quality-of-life.md)
 - [community-engagement](../tags/community-engagement.md)
 - [interdisciplinary-research](../tags/interdisciplinary-research.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

@@ -35,7 +35,7 @@ This systematic review and meta-analysis examines the impact of rhythmic auditor
 - [gait-performance](../tags/gait-performance.md)
 - [rehabilitation-therapy](../tags/rehabilitation-therapy.md)
 - [motor-control](../tags/motor-control.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

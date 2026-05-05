@@ -41,7 +41,7 @@ Treatment options for individuals struggling with nomophobia include exposure th
 - [digital-anxiety](../tags/digital-anxiety.md)
 - [techno-phobia](../tags/techno-phobia.md)
 - [social-media-addiction](../tags/social-media-addiction.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

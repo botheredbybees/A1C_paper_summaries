@@ -35,7 +35,7 @@ The article 'Wisdom poetry trialogue' explores the concept of wisdom poetry thro
 - [universal-truths](../tags/universal-truths.md)
 - [healing-through-art](../tags/healing-through-art.md)
 - [creative-arts-health](../tags/creative-arts-health.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

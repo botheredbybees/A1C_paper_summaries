@@ -33,7 +33,7 @@ The lesson introduces students to the content and activities of Week 10 in the L
 - [legal-systems](../tags/legal-systems.md)
 - [critical-reflection](../tags/critical-reflection.md)
 - [academic-writing](../tags/academic-writing.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

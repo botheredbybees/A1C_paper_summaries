@@ -35,7 +35,7 @@ The document focuses on the critical period of early childhood development, emph
 - [play-therapy](../tags/play-therapy.md)
 - [neurodevelopmental-milestones](../tags/neurodevelopmental-milestones.md)
 - [cognitive-growth](../tags/cognitive-growth.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

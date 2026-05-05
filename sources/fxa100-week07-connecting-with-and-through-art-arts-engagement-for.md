@@ -36,7 +36,7 @@ This document discusses a research project titled 'Connecting with and through a
 - [community-wellbeing](../tags/community-wellbeing.md)
 - [gallery-education](../tags/gallery-education.md)
 - [liveable-communities](../tags/liveable-communities.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

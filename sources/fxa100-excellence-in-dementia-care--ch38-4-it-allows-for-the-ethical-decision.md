@@ -32,7 +32,7 @@ This chapter discusses the application of a narrative or 'storied' ethical appro
 - [dementia-care](../tags/dementia-care.md)
 - [ethical-decision-making](../tags/ethical-decision-making.md)
 - [narrative-ethics](../tags/narrative-ethics.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

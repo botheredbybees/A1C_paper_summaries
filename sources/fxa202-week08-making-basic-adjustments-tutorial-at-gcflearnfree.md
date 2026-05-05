@@ -36,7 +36,7 @@ The document provides a comprehensive tutorial on making basic image editing adj
 - [web-based-tools](../tags/web-based-tools.md)
 - [photography-basics](../tags/photography-basics.md)
 - [design-principles](../tags/design-principles.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

@@ -35,7 +35,7 @@ The 'Handbook of Autism and Pervasive Developmental Disorder' is an edited volum
 - [evidence-based-practices](../tags/evidence-based-practices.md)
 - [clinical-diagnosis](../tags/clinical-diagnosis.md)
 - [educational-interventions](../tags/educational-interventions.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

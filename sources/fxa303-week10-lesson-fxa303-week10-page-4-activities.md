@@ -33,7 +33,7 @@ This week's content in FXA303 focuses on the role of arts and creative projects 
 - [arts-in-therapy](../tags/arts-in-therapy.md)
 - [migrant-wellbeing](../tags/migrant-wellbeing.md)
 - [indigenous-culture](../tags/indigenous-culture.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

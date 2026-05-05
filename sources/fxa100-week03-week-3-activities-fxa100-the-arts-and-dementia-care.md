@@ -36,7 +36,7 @@ This document outlines the activities for Week 3 of the FXA100 The Arts and Deme
 - [emotional-wellbeing](../tags/emotional-wellbeing.md)
 - [brain-music-relations](../tags/brain-music-relations.md)
 - [therapeutic-tools](../tags/therapeutic-tools.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

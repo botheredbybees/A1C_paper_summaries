@@ -32,7 +32,7 @@ The chapter discusses the SPARK curriculum and program aimed at fostering resili
 - [resilience-building](../tags/resilience-building.md)
 - [art-therapy-for-youth](../tags/art-therapy-for-youth.md)
 - [disaster-recovery](../tags/disaster-recovery.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

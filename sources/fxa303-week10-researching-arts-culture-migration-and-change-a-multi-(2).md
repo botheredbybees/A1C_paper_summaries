@@ -35,7 +35,7 @@ This article explores the significance of studying the interconnections between 
 - [transdisciplinary-research](../tags/transdisciplinary-research.md)
 - [international-migration](../tags/international-migration.md)
 - [cultural-contributions](../tags/cultural-contributions.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

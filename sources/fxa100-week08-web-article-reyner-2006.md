@@ -33,7 +33,7 @@ This brochure from S&amp;S Primelife provides guidance on conducting arts and cr
 - [alzheimer's](../tags/alzheimers.md)
 - [therapeutic-activities](../tags/therapeutic-activities.md)
 - [arts-and-crafts](../tags/arts-and-crafts.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

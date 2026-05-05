@@ -35,7 +35,7 @@ This article explores the significant role of music in adolescent development, e
 - [identity-formation](../tags/identity-formation.md)
 - [emotional-outlet](../tags/emotional-outlet.md)
 - [social-interaction](../tags/social-interaction.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

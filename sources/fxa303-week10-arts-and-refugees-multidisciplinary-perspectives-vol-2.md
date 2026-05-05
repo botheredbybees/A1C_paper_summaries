@@ -35,7 +35,7 @@ The article explores the role of arts in the lives and integration processes of 
 - [cultural-integration](../tags/cultural-integration.md)
 - [gender-dynamics](../tags/gender-dynamics.md)
 - [therapeutic-arts](../tags/therapeutic-arts.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

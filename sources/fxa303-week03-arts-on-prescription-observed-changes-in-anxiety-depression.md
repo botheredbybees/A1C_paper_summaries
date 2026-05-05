@@ -35,7 +35,7 @@ This study evaluates the impact of Arts on Prescription (AoP) interventions as p
 - [mental-health-interventions](../tags/mental-health-interventions.md)
 - [anxiety-treatment](../tags/anxiety-treatment.md)
 - [depression-management](../tags/depression-management.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

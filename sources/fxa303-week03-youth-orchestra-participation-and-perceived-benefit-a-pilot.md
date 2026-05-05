@@ -36,7 +36,7 @@ This paper presents findings from a pilot study examining the benefits of partic
 - [wellbeing-studies](../tags/wellbeing-studies.md)
 - [resilience-building](../tags/resilience-building.md)
 - [community-engagement](../tags/community-engagement.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

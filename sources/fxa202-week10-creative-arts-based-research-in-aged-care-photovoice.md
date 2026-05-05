@@ -35,7 +35,7 @@ In the preface of 'Creative Arts-Based Research in Aged Care: Photovoice, Photog
 - [photovoice-methods](../tags/photovoice-methods.md)
 - [documentary-photography](../tags/documentary-photography.md)
 - [poetry-in-research](../tags/poetry-in-research.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

@@ -33,7 +33,7 @@ The Active Energy project is described as a collaborative initiative between art
 - [active-energy-project](../tags/active-energy-project.md)
 - [aging-community-engagement](../tags/aging-community-engagement.md)
 - [participatory-art-methods](../tags/participatory-art-methods.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

@@ -37,7 +37,7 @@ This review article discusses the regulation of autophagy-mediated pathways in A
 - [neurodegeneration-prevention](../tags/neurodegeneration-prevention.md)
 - [dietary-strategies](../tags/dietary-strategies.md)
 - [cognitive-health](../tags/cognitive-health.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

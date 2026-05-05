@@ -36,7 +36,7 @@ Tom Kitwood’s chapter ‘Requirements of a caregiver’ explores the profound 
 - [person-centered-care](../tags/person-centered-care.md)
 - [interpersonal-interaction](../tags/interpersonal-interaction.md)
 - [empathetic-engagement](../tags/empathetic-engagement.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

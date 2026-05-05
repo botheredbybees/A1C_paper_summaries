@@ -36,7 +36,7 @@ The lecture slides for Week 2 of the FXA202 course, titled 'Getting to Know Your
 - [composition-techniques](../tags/composition-techniques.md)
 - [lighting-conditions](../tags/lighting-conditions.md)
 - [film-vs-digital](../tags/film-vs-digital.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

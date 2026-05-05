@@ -33,7 +33,7 @@ Chapter 11 of 'Psychology: From Inquiry to Understanding,' edited by Pat Dudgeon
 - [human-development](../tags/human-development.md)
 - [nature-nurture](../tags/nature-nurture.md)
 - [gene-environment-interaction](../tags/gene-environment-interaction.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

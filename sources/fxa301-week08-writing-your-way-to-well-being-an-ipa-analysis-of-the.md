@@ -34,7 +34,7 @@ This study, conducted by Catherine Deveney and Patrick Lawson, explores the ther
 - [mental-health](../tags/mental-health.md)
 - [emotional-processing](../tags/emotional-processing.md)
 - [well-being](../tags/well-being.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

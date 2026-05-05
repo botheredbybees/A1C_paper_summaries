@@ -33,7 +33,7 @@ This transcript from a video produced by the American Dance Therapy Association 
 - [dance-therapy](../tags/dance-therapy.md)
 - [psychological-treatment](../tags/psychological-treatment.md)
 - [movement-interventions](../tags/movement-interventions.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

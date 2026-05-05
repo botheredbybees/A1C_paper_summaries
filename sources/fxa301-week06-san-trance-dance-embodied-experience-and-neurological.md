@@ -32,7 +32,7 @@ This article explores the San trance dance, a ritual among the Ju/'Hoansi people
 - [neurology-and-religion](../tags/neurology-and-religion.md)
 - [shamanic-practices](../tags/shamanic-practices.md)
 - [ethnographic-research](../tags/ethnographic-research.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

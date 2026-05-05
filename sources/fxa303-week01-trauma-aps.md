@@ -39,7 +39,7 @@ Treatment options for trauma include trauma-focused therapies like Cognitive Beh
 - [mental-health-treatment](../tags/mental-health-treatment.md)
 - [cognitive-behavioral-therapy](../tags/cognitive-behavioral-therapy.md)
 - [emotional-healing](../tags/emotional-healing.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

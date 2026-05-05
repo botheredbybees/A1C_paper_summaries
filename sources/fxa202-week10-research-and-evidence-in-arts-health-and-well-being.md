@@ -33,7 +33,7 @@ This chapter offers an overview of the expanding research on arts, health, and w
 - [arts-health](../tags/arts-health.md)
 - [well-being-research](../tags/well-being-research.md)
 - [creative-therapies](../tags/creative-therapies.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

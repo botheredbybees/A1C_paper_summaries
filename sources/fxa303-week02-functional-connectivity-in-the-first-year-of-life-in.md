@@ -33,7 +33,7 @@ The study investigates functional connectivity in infants at high risk for autis
 - [functional-connectivity](../tags/functional-connectivity.md)
 - [early-development](../tags/early-development.md)
 - [autism-risk-factors](../tags/autism-risk-factors.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

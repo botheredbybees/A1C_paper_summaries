@@ -36,7 +36,7 @@ The study employed neuropsychological tests alongside functional magnetic resona
 - [music-therapy](../tags/music-therapy.md)
 - [neuroplasticity](../tags/neuroplasticity.md)
 - [functional-mri](../tags/functional-mri.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

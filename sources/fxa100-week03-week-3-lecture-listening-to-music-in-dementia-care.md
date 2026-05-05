@@ -35,7 +35,7 @@ The lecture focuses on the therapeutic effects and cognitive benefits of listeni
 - [neural-pathways](../tags/neural-pathways.md)
 - [cognitive-engagement](../tags/cognitive-engagement.md)
 - [personalized-playlists](../tags/personalized-playlists.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

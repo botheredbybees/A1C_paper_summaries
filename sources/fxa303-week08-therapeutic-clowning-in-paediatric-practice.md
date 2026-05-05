@@ -34,7 +34,7 @@ This paper explores the use of therapeutic clowning in pediatric care, examining
 - [pediatric-care](../tags/pediatric-care.md)
 - [patient-anxiety](../tags/patient-anxiety.md)
 - [medical-procedures](../tags/medical-procedures.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

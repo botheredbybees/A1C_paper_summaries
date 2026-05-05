@@ -33,7 +33,7 @@ This chapter explores the author's personal experiences using music in mental he
 - [music-therapy](../tags/music-therapy.md)
 - [mental-health-practice](../tags/mental-health-practice.md)
 - [community-music](../tags/community-music.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

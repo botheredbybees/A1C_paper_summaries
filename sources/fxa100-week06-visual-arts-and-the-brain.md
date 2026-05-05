@@ -42,7 +42,7 @@ The document also discusses embodied cognition in art appreciation, where mirror
 - [dopamine-release](../tags/dopamine-release.md)
 - [embodied-cognition](../tags/embodied-cognition.md)
 - [public-health-through-art](../tags/public-health-through-art.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

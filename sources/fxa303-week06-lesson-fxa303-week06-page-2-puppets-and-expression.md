@@ -33,7 +33,7 @@ This lesson explores the expressive capabilities of puppets in play-based therap
 - [puppet-therapy](../tags/puppet-therapy.md)
 - [creative-arts](../tags/creative-arts.md)
 - [mental-wellbeing](../tags/mental-wellbeing.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

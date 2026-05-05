@@ -34,7 +34,7 @@ This transcript captures a dialogue between several teenagers discussing their s
 - [peer-pressure](../tags/peer-pressure.md)
 - [sexuality](../tags/sexuality.md)
 - [parties](../tags/parties.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

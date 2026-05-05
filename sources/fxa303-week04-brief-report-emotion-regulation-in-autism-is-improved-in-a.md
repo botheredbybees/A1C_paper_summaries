@@ -36,7 +36,7 @@ This study evaluates the therapeutic potential of combining Child-Centered Play 
 - [child-therapy](../tags/child-therapy.md)
 - [play-therapy](../tags/play-therapy.md)
 - [rhythmic-relating](../tags/rhythmic-relating.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

@@ -43,7 +43,7 @@ This information is highly relevant to creative arts and health disciplines, hig
 - [memory-loss](../tags/memory-loss.md)
 - [cognitive-decline](../tags/cognitive-decline.md)
 - [health-care](../tags/health-care.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

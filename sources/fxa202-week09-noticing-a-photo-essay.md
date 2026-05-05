@@ -35,7 +35,7 @@ Louise Raftery's photo essay 'Noticing' explores the therapeutic value of paying
 - [sensory-experience](../tags/sensory-experience.md)
 - [everyday-life](../tags/everyday-life.md)
 - [mental-health](../tags/mental-health.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

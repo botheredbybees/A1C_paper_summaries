@@ -33,7 +33,7 @@ In this module of FXA100 The Arts and Dementia Care, Dr Brendan Lamb introduces 
 - [dementia-care](../tags/dementia-care.md)
 - [visual-arts](../tags/visual-arts.md)
 - [art-therapy](../tags/art-therapy.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

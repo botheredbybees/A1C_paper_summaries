@@ -32,7 +32,7 @@ In the concluding chapter of 'Creativity, Wellbeing and Mental Health Practice',
 - [mental-health-practice](../tags/mental-health-practice.md)
 - [creativity-in-nursing](../tags/creativity-in-nursing.md)
 - [wellbeing-recommendations](../tags/wellbeing-recommendations.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

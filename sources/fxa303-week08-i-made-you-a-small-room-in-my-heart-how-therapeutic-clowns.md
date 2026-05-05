@@ -35,7 +35,7 @@ This study explores how therapeutic clowns, often referred to as elder-clowns in
 - [nursing-homes](../tags/nursing-homes.md)
 - [quality-of-life](../tags/quality-of-life.md)
 - [emotional-support](../tags/emotional-support.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

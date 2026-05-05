@@ -32,7 +32,7 @@ This document provides practical tips for creating a PowerPoint presentation. It
 - [presentation-skills](../tags/presentation-skills.md)
 - [powerpoint-usage](../tags/powerpoint-usage.md)
 - [visual-presentation](../tags/visual-presentation.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

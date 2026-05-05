@@ -36,7 +36,7 @@ The study explores the role of art centers in remote communities for Aboriginal 
 - [art-therapy](../tags/art-therapy.md)
 - [indigenous-health](../tags/indigenous-health.md)
 - [cultural-preservation](../tags/cultural-preservation.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

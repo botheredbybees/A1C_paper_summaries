@@ -36,7 +36,7 @@ Week 5 of the course focuses on visual storytelling, emphasizing how images can 
 - [metaphor-in-art](../tags/metaphor-in-art.md)
 - [caption-writing](../tags/caption-writing.md)
 - [online-learning](../tags/online-learning.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

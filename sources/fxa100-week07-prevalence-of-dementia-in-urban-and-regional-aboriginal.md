@@ -33,7 +33,7 @@ This study investigates the prevalence of dementia among urban and regional Abor
 - [dementia-prevalence](../tags/dementia-prevalence.md)
 - [aboriginal-health](../tags/aboriginal-health.md)
 - [urban-vs-regional](../tags/urban-vs-regional.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

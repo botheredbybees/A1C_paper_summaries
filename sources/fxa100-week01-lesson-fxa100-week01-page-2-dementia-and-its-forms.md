@@ -34,7 +34,7 @@ This lesson introduces students to the concept of dementia, its symptoms, progre
 - [dementia](../tags/dementia.md)
 - [neurodegenerative-diseases](../tags/neurodegenerative-diseases.md)
 - [cognitive-disorders](../tags/cognitive-disorders.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

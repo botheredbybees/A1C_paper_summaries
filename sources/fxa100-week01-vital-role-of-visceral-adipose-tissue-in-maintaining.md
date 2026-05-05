@@ -34,7 +34,7 @@ The article 'Vital Role of Visceral Adipose Tissue in Maintaining Cognitive Func
 - [brain-health](../tags/brain-health.md)
 - [aging-and-obesity](../tags/aging-and-obesity.md)
 - [neurotrophic-factors](../tags/neurotrophic-factors.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

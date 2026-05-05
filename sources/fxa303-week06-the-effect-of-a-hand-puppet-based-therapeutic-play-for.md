@@ -37,7 +37,7 @@ This study aimed to determine the effects of a hand puppet-based therapeutic pla
 - [puppet-therapy](../tags/puppet-therapy.md)
 - [pain-management](../tags/pain-management.md)
 - [pediatric-nursing](../tags/pediatric-nursing.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

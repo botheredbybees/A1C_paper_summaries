@@ -37,7 +37,7 @@ The document 'Guide to Journaling' emphasizes the importance of journaling as a 
 - [expressive-writing-therapy](../tags/expressive-writing-therapy.md)
 - [personal-growth-tools](../tags/personal-growth-tools.md)
 - [decision-making-clarity](../tags/decision-making-clarity.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

@@ -35,7 +35,7 @@ This article explores the preserved painting creativity of a talented artist dia
 - [cognitive-impairment](../tags/cognitive-impairment.md)
 - [brain-imaging](../tags/brain-imaging.md)
 - [artistic-expression](../tags/artistic-expression.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

@@ -34,7 +34,7 @@ This study examines the influence of music choice, social context, and individua
 - [emotional-reactions](../tags/emotional-reactions.md)
 - [social-influence](../tags/social-influence.md)
 - [personality-traits](../tags/personality-traits.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

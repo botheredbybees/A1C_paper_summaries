@@ -33,7 +33,7 @@ Sunil Batra's paper explores Erik H. Erikson’s theoretical framework for under
 - [child-development-theory](../tags/child-development-theory.md)
 - [erik-erikson-psychosocial-stages](../tags/erik-erikson-psychosocial-stages.md)
 - [education-methods](../tags/education-methods.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

@@ -32,7 +32,7 @@ This document provides guidelines for using inclusive and non-stigmatizing langu
 - [inclusive-language](../tags/inclusive-language.md)
 - [stigma-reduction](../tags/stigma-reduction.md)
 - [dementia-awareness](../tags/dementia-awareness.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

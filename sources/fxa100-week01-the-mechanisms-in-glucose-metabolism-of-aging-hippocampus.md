@@ -33,7 +33,7 @@ This review article investigates the mechanisms of glucose metabolism in the agi
 - [glucose-metabolism](../tags/glucose-metabolism.md)
 - [neurodegeneration](../tags/neurodegeneration.md)
 - [hippocampus-function](../tags/hippocampus-function.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

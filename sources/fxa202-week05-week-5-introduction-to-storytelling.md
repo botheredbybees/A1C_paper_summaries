@@ -32,7 +32,7 @@ The document outlines activities for Week 5 of the photo essay course at UTAS, e
 - [storytelling-techniques](../tags/storytelling-techniques.md)
 - [caption-writing](../tags/caption-writing.md)
 - [creative-writing](../tags/creative-writing.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

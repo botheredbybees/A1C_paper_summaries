@@ -36,7 +36,7 @@ Mel Henderson's poem 'Chromophilia' explores the interplay between colors and hu
 - [visual-aesthetics](../tags/visual-aesthetics.md)
 - [emotional-wellbeing](../tags/emotional-wellbeing.md)
 - [time-color-symbology](../tags/time-color-symbology.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

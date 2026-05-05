@@ -32,7 +32,7 @@ This transcript details the story and impact of the choir of hard knocks (CHoH),
 - [homelessness](../tags/homelessness.md)
 - [music-therapy](../tags/music-therapy.md)
 - [television-series](../tags/television-series.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

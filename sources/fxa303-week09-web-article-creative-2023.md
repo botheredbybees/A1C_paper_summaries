@@ -32,7 +32,7 @@ The Afloat project was initiated in response to the flood that affected Greater 
 - [creative-recovery](../tags/creative-recovery.md)
 - [community-resilience](../tags/community-resilience.md)
 - [flood-recovery](../tags/flood-recovery.md)
-- fxa303
+- [fxa303](../tags/fxa303.md)
 
 ## Methods
 

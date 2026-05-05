@@ -44,7 +44,7 @@ This video transcript explores whether the brains of professional musicians exhi
 - [neuroscience-research](../tags/neuroscience-research.md)
 - [musical-training-effects](../tags/musical-training-effects.md)
 - [functional-imaging](../tags/functional-imaging.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

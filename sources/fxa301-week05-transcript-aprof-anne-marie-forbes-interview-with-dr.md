@@ -35,7 +35,7 @@ Dr. Annalise Rees discusses her arts project involving a two-month voyage to the
 - [antarctica](../tags/antarctica.md)
 - [marine-studies](../tags/marine-studies.md)
 - [community-engagement](../tags/community-engagement.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

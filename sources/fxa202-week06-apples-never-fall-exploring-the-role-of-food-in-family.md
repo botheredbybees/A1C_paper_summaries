@@ -37,7 +37,7 @@ Jane Crosswell's essay 'Apples Never Fall' explores the therapeutic value of foo
 - [food-memories](../tags/food-memories.md)
 - [dementia-care](../tags/dementia-care.md)
 - [reminiscence-therapy](../tags/reminiscence-therapy.md)
-- fxa202
+- [fxa202](../tags/fxa202.md)
 
 ## Methods
 

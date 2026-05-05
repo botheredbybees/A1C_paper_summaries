@@ -35,7 +35,7 @@ This video transcript explores the popular notion that people are either left-br
 - [brain-function](../tags/brain-function.md)
 - [hemispheric-dominance](../tags/hemispheric-dominance.md)
 - [myths-in-science](../tags/myths-in-science.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

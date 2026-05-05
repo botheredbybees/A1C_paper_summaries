@@ -35,7 +35,7 @@ The lecture notes for the first week of FXA100: The Arts and Dementia Care provi
 - [cognitive-processing](../tags/cognitive-processing.md)
 - [mental-health-wellbeing](../tags/mental-health-wellbeing.md)
 - [education-research](../tags/education-research.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

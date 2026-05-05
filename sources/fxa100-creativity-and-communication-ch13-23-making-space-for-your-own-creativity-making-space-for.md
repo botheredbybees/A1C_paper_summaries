@@ -33,7 +33,7 @@ This chapter emphasizes the importance of personal creativity for individuals wo
 - [dementia-care](../tags/dementia-care.md)
 - [creative-expression](../tags/creative-expression.md)
 - [self-care-strategies](../tags/self-care-strategies.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

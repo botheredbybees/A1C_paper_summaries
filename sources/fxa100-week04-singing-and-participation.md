@@ -36,7 +36,7 @@ The document discusses the social benefits of singing for individuals with demen
 - [social-wellbeing](../tags/social-wellbeing.md)
 - [emotional-expression](../tags/emotional-expression.md)
 - [group-singing](../tags/group-singing.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

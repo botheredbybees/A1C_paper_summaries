@@ -34,7 +34,7 @@ This chapter from 'Excellence in Dementia Care' explores the importance of incor
 - [dementia-care](../tags/dementia-care.md)
 - [person-centered-care](../tags/person-centered-care.md)
 - [life-history](../tags/life-history.md)
-- fxa100
+- [fxa100](../tags/fxa100.md)
 
 ## Methods
 

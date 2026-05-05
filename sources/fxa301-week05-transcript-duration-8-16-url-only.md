@@ -31,7 +31,7 @@ The video in question does not provide an automatic transcript download feature.
 - [transcript-unavailable](../tags/transcript-unavailable.md)
 - [manual-transcript-retrieval](../tags/manual-transcript-retrieval.md)
 - [youtube-video](../tags/youtube-video.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 

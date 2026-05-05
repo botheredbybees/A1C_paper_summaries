@@ -33,7 +33,7 @@ This chapter discusses the importance of ethnomusicologists in enhancing communi
 - [ethnomusicology](../tags/ethnomusicology.md)
 - [community-engagement](../tags/community-engagement.md)
 - [applied-research](../tags/applied-research.md)
-- fxa301
+- [fxa301](../tags/fxa301.md)
 
 ## Methods
 
