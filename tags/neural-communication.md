@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neural-communication
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Neural Communication

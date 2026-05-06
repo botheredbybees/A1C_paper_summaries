@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychology-of-art
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Psychology Of Art

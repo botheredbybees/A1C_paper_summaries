@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: editing-process
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Editing Process

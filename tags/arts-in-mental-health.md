@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-in-mental-health
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Arts In Mental Health

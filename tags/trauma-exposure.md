@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: trauma-exposure
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Trauma Exposure

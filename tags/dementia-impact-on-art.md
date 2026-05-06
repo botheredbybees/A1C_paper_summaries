@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dementia-impact-on-art
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Dementia Impact On Art

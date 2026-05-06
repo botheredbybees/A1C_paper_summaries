@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: health-related-quality-of-life
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Health Related Quality Of Life

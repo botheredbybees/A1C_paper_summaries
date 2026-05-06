@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: gestalt-completion
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Gestalt Completion

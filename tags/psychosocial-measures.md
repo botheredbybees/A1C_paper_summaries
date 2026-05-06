@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychosocial-measures
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Psychosocial Measures

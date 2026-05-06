@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mylo-system
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Mylo System

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dance-movement-psychotherapy
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Dance Movement Psychotherapy

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: child-development
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Child Development
@@ -28,3 +28,4 @@ updated: 2026-05-05
 - [Arts Therapies and the Mental Health of Children and Young People](../sources/fxa303-week06-arts-therapies-and-the-mental-health-of-children-and-young.md)
 - [The effect of medical/therapeutic clowns on the playfulness of children with intellectual disabilities](../sources/fxa303-week08-the-effect-of-medicaltherapeutic-clowns-on-the-playfulness.md)
 - [We Are All Born Creative: Art Workshops for Resilience](../sources/fxa303-week09-transcript-arts-mid-north-coast-we-are-all-born-creative.md)
+- [FXA303 Web Lecture Week 10 - Guidance on Assessment Task 4](../sources/fxa303-week10-fxa303-web-lecture-week-10-guidance-on-assessment-task-4.md)

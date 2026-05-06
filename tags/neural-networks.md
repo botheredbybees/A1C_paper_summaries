@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neural-networks
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Neural Networks

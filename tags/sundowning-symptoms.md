@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sundowning-symptoms
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Sundowning Symptoms

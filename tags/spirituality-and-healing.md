@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: spirituality-and-healing
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Spirituality And Healing

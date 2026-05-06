@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: empathizing-systemizing-theory
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Empathizing Systemizing Theory

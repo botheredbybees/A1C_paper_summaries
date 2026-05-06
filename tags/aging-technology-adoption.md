@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: aging-technology-adoption
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Aging Technology Adoption

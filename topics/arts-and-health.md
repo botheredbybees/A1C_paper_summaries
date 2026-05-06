@@ -13,6 +13,7 @@ sources:
   - fxa301-arts-in-health-ch43-1-collaborative-design
   - fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2)
   - fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10
+  - fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1-(2)
   - fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2
   - fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well
   - fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well-(2)
@@ -29,7 +30,7 @@ sources:
   - fxa301-week03-noah-code-of-ethics-2023
   - fxa301-week03-week-3-introduction-arts-in-the-community-for-health-and
   - fxa301-week05-submission-to-the-nsw-health-and-wellbeing-strategy
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Arts and Health
@@ -56,6 +57,7 @@ The integration of arts into health practices is a multifaceted intervention tha
 - [fxa301-arts-in-health-ch43-1-collaborative-design](../sources/fxa301-arts-in-health-ch43-1-collaborative-design.md)
 - [fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2)](../sources/fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2).md)
 - [fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10](../sources/fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10.md)
+- [fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1-(2).md)
 - [fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2](../sources/fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2.md)
 - [fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well](../sources/fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well.md)
 - [fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well-(2)](../sources/fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well-(2).md)

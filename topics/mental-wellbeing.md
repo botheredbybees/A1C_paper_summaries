@@ -37,10 +37,11 @@ sources:
   - fxa303-week09-lesson-fxa303-week09-page-1-overview
   - fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design
   - fxa303-week09-lesson-fxa303-week09-page-3-case-studies
+  - fxa303-week10-fxa303-web-lecture-week-10-guidance-on-assessment-task-4
   - fxa303-week10-lesson-fxa303-week10-page-1-overview
   - fxa303-week10-lesson-fxa303-week10-page-2-indigenous-arts-and-mental
   - fxa303-week10-web-article-russ-smith-2023
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Photography as a Tool for Mental Wellbeing
@@ -91,6 +92,7 @@ Both sources explore photography's role in enhancing mental health through mindf
 - [fxa303-week09-lesson-fxa303-week09-page-1-overview](../sources/fxa303-week09-lesson-fxa303-week09-page-1-overview.md)
 - [fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design](../sources/fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design.md)
 - [fxa303-week09-lesson-fxa303-week09-page-3-case-studies](../sources/fxa303-week09-lesson-fxa303-week09-page-3-case-studies.md)
+- [fxa303-week10-fxa303-web-lecture-week-10-guidance-on-assessment-task-4](../sources/fxa303-week10-fxa303-web-lecture-week-10-guidance-on-assessment-task-4.md)
 - [fxa303-week10-lesson-fxa303-week10-page-1-overview](../sources/fxa303-week10-lesson-fxa303-week10-page-1-overview.md)
 - [fxa303-week10-lesson-fxa303-week10-page-2-indigenous-arts-and-mental](../sources/fxa303-week10-lesson-fxa303-week10-page-2-indigenous-arts-and-mental.md)
 - [fxa303-week10-web-article-russ-smith-2023](../sources/fxa303-week10-web-article-russ-smith-2023.md)

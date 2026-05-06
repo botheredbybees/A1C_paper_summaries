@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: professional-certification
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Professional Certification

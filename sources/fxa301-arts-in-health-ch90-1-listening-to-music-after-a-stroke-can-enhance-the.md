@@ -10,13 +10,14 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
+  - unit: FXA301
 tags: ["neurological-conditions", "art-therapy", "music-therapy", "health-interventions", "fxa301"]
 key_concepts: ["sensory-processing-recovery", "cognitive-recovery-post-stroke", "social-responsiveness-in-autism"]
 methods: []
 slug: fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the
 related: ["art-therapy", "health-interventions", "music-therapy"]
 created: 2026-05-04
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the.md_

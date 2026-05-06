@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: color-theory
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Color Theory

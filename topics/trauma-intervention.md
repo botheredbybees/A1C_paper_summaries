@@ -7,7 +7,8 @@ tags: ["trauma-intervention"]
 sources:
   - fxa303-week09-exploring-child-centered-play-therapy-and-trauma-a
   - fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms
-updated: 2026-05-04
+  - fxa303-week10-fxa303-web-lecture-week-10-guidance-on-assessment-task-4
+updated: 2026-05-06
 ---
 
 ## Play Therapy for Trauma in Children
@@ -28,3 +29,4 @@ The integration of child-centered play therapy and gestalt play therapy addresse
 
 - [fxa303-week09-exploring-child-centered-play-therapy-and-trauma-a](../sources/fxa303-week09-exploring-child-centered-play-therapy-and-trauma-a.md)
 - [fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms](../sources/fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms.md)
+- [fxa303-week10-fxa303-web-lecture-week-10-guidance-on-assessment-task-4](../sources/fxa303-week10-fxa303-web-lecture-week-10-guidance-on-assessment-task-4.md)

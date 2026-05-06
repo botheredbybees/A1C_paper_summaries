@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: unaccompanied-minor-migrants
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Unaccompanied Minor Migrants

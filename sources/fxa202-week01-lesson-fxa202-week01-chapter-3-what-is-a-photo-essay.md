@@ -45,13 +45,15 @@ appearances:
     week: "06"
   - unit: FXA202
     week: "10"
+  - unit: FXA202
+    week: "10"
 tags: ["photo-essay", "visual-storytelling", "journalism", "fxa202"]
 key_concepts: ["visual storytelling", "narrative expansion through images"]
 methods: []
 slug: fxa202-week01-lesson-fxa202-week01-chapter-3-what-is-a-photo-essay
 related: ["photo-essay", "visual-storytelling"]
 created: 2026-05-03
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 _All claims sourced from ../raw/pdf/fxa202-week01-lesson-fxa202-week01-chapter-3-what-is-a-photo-essay.md_

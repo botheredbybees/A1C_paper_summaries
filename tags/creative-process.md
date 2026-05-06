@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-process
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Creative Process

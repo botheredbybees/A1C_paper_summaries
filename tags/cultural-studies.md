@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cultural-studies
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Cultural Studies

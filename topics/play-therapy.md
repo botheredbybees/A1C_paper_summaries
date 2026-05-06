@@ -5,6 +5,7 @@ title: "Play Therapy"
 confidence: medium
 tags: ["play-therapy"]
 sources:
+  - fxa303-puppet-play-therapy-ch10-chapter-2
   - fxa303-week01-an-overview-of-play-therapy
   - fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children
   - fxa303-week02-in-rememberance-of-david-whitebread-a-tribute-to-david
@@ -23,7 +24,7 @@ sources:
   - fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic
   - fxa303-week06-virtual-puppet-play-therapy
   - fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Play Therapy
@@ -42,6 +43,7 @@ Play therapy is a therapeutic intervention specifically designed for children to
 
 ## Sources
 
+- [fxa303-puppet-play-therapy-ch10-chapter-2](../sources/fxa303-puppet-play-therapy-ch10-chapter-2.md)
 - [fxa303-week01-an-overview-of-play-therapy](../sources/fxa303-week01-an-overview-of-play-therapy.md)
 - [fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children](../sources/fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children.md)
 - [fxa303-week02-in-rememberance-of-david-whitebread-a-tribute-to-david](../sources/fxa303-week02-in-rememberance-of-david-whitebread-a-tribute-to-david.md)

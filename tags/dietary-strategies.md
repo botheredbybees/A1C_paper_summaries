@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dietary-strategies
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Dietary Strategies

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-and-health
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Arts And Health
@@ -14,6 +14,7 @@ updated: 2026-05-05
 - [Developing Partnerships and Briefs in Arts and Health Projects](../sources/fxa301-arts-in-health-ch43-1-collaborative-design.md)
 - [Collection of Academic Works in Ethnomusicology and Applied Anthropology](../sources/fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2).md)
 - [The Role of Qualitative Research in Arts and Health](../sources/fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10.md)
+- [Introduction to the Field of Creative Arts, Wellbeing, and Health](../sources/fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1-(2).md)
 - [The Arts and Healing: The Power of an Idea](../sources/fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2.md)
 - [Creative and credible evaluation for arts, health and well-being: opportunities and challenges of co-production](../sources/fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well.md)
 - [Creative and credible evaluation for arts, health and well-being: opportunities and challenges of co-production](../sources/fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well-(2).md)

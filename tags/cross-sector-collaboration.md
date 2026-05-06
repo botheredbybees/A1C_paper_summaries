@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cross-sector-collaboration
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Cross Sector Collaboration

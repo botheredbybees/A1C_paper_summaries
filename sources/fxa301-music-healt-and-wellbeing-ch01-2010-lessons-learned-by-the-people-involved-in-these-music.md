@@ -11,13 +11,14 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
+  - unit: FXA301
 tags: ["music-therapy", "social-intervention", "trauma-recovery", "fxa301"]
 key_concepts: ["community-music-therapy", "sustainable-development"]
 methods: []
 slug: fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music
 related: ["music-therapy", "trauma-recovery"]
 created: 2026-05-03
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music.md_

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cross-cultural-research
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Cross Cultural Research

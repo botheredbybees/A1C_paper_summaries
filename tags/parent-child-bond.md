@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: parent-child-bond
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Parent Child Bond

@@ -1,11 +1,12 @@
 ---
 type: tag
 tag: play-therapy
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Play Therapy
 
+- [Puppet Play Therapy: A Practical Guidebook - Chapter on Adlerian Theory](../sources/fxa303-puppet-play-therapy-ch10-chapter-2.md)
 - [An Overview of Play Therapy](../sources/fxa303-week01-an-overview-of-play-therapy.md)
 - [Play Therapy: An Analytical Mode of Therapy in Children](../sources/fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children.md)
 - [In rememberance of David Whitebread: a tribute to David Whitebread\u2019s research career](../sources/fxa303-week02-in-rememberance-of-david-whitebread-a-tribute-to-david.md)

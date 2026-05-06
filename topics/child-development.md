@@ -27,7 +27,8 @@ sources:
   - fxa303-week06-arts-therapies-and-the-mental-health-of-children-and-young
   - fxa303-week08-the-effect-of-medicaltherapeutic-clowns-on-the-playfulness
   - fxa303-week09-transcript-arts-mid-north-coast-we-are-all-born-creative
-updated: 2026-05-05
+  - fxa303-week10-fxa303-web-lecture-week-10-guidance-on-assessment-task-4
+updated: 2026-05-06
 ---
 
 ## Play Therapy in Child Development
@@ -68,3 +69,4 @@ Play therapy emerges as a significant intervention in facilitating the psycholog
 - [fxa303-week06-arts-therapies-and-the-mental-health-of-children-and-young](../sources/fxa303-week06-arts-therapies-and-the-mental-health-of-children-and-young.md)
 - [fxa303-week08-the-effect-of-medicaltherapeutic-clowns-on-the-playfulness](../sources/fxa303-week08-the-effect-of-medicaltherapeutic-clowns-on-the-playfulness.md)
 - [fxa303-week09-transcript-arts-mid-north-coast-we-are-all-born-creative](../sources/fxa303-week09-transcript-arts-mid-north-coast-we-are-all-born-creative.md)
+- [fxa303-week10-fxa303-web-lecture-week-10-guidance-on-assessment-task-4](../sources/fxa303-week10-fxa303-web-lecture-week-10-guidance-on-assessment-task-4.md)

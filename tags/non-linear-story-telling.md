@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: non-linear-story-telling
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Non Linear Story Telling

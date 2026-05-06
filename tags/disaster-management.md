@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: disaster-management
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Disaster Management

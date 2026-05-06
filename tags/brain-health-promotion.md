@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-health-promotion
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Brain Health Promotion

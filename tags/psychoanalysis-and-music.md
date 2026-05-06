@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychoanalysis-and-music
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Psychoanalysis And Music

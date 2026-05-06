@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: pro-social-behaviors
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Pro Social Behaviors

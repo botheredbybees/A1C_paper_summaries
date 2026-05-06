@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: nature-vs-nurture
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 ## Nature Vs Nurture
