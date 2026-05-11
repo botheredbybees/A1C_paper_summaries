@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Stakeholder Involvement"
 confidence: low
-tags: ["stakeholder-involvement"]
+domain: method
+slug: stakeholder-involvement
 sources:
-  - fxa301-week03-developing-a-national-arts-and-health-policy-framework
+- fxa301-week03-developing-a-national-arts-and-health-policy-framework
+tags:
+- stakeholder-involvement
+title: Stakeholder Involvement
+type: topic
 updated: 2026-05-04
 ---
 

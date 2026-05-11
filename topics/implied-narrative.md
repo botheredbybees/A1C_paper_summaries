@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "method"
-title: "Implied Narrative in Visual Storytelling"
 confidence: medium
-tags: ["implied-narrative"]
+domain: method
+slug: implied-narrative-in-visual-storytelling
 sources:
-  - fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling
-  - fxa202-week06-lesson-fxa202-week06-page-2
-  - fxa202-week06-lesson-fxa202-week06-week-6
+- fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling
+- fxa202-week06-lesson-fxa202-week06-page-2
+- fxa202-week06-lesson-fxa202-week06-week-6
+tags:
+- implied-narrative
+title: Implied Narrative in Visual Storytelling
+type: topic
 updated: 2026-05-04
 ---
 

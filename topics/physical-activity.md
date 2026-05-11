@@ -1,16 +1,23 @@
 ---
-type: topic
-domain: "intervention"
-title: "Physical Activity and Cognitive Health in Older Adults"
 confidence: high
-tags: ["physical-activity"]
+domain: intervention
+slug: physical-activity-and-cognitive-health-in-older-adults
 sources:
   - fxa100-week01-relating-physical-activity-to-cognitive-function-brain
   - fxa301-week03-arts-public-health-and-the-national-arts-and-health
   - fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older
   - fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster
   - fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project
-updated: 2026-05-04
+- fxa100-week01-relating-physical-activity-to-cognitive-function-brain
+- fxa301-week03-arts-public-health-and-the-national-arts-and-health
+- fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older
+- fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster
+- fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project
+tags:
+- physical-activity
+title: Physical Activity and Cognitive Health in Older Adults
+type: topic
+updated: 2026-05-11
 ---
 
 ## Physical Activity and Cognitive Health in Older Adults

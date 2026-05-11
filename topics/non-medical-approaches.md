@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Non-Medical Approaches to Mental Health"
 confidence: low
-tags: ["non-medical-approaches"]
+domain: intervention
+slug: non-medical-approaches-to-mental-health
 sources:
-  - fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract
+- fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract
+tags:
+- non-medical-approaches
+title: Non-Medical Approaches to Mental Health
+type: topic
 updated: 2026-05-04
 ---
 

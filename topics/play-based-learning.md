@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Play-Based Learning"
 confidence: medium
-tags: ["play-based-learning"]
+domain: intervention
+slug: play-based-learning
 sources:
   - fxa303-week02-fxa303-week-2-child-development-and-creative-arts
   - fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental
   - fxa303-week10-fxa303-web-lecture-week-10-guidance-on-assessment-task-4
-updated: 2026-05-06
+- fxa303-week02-fxa303-week-2-child-development-and-creative-arts
+- fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental
+- fxa303-week10-fxa303-web-lecture-week-10-guidance-on-assessment-task-4
+tags:
+- play-based-learning
+title: Play-Based Learning
+type: topic
+updated: 2026-05-11
 ---
 
 ## Play-Based Learning

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Mental Health Impacts on Refugees"
 confidence: low
-tags: ["mental-health-impacts-on-refugees"]
+domain: population
+slug: mental-health-impacts-on-refugees
 sources:
-  - fxa303-week10-the-global-refugee-crisis-empirical-evidence-and-policy
+- fxa303-week10-the-global-refugee-crisis-empirical-evidence-and-policy
+tags:
+- mental-health-impacts-on-refugees
+title: Mental Health Impacts on Refugees
+type: topic
 updated: 2026-05-04
 ---
 

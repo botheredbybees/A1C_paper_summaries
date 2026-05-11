@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Protective Factors Against Dementia"
 confidence: low
-tags: ["protective-factors-against-dementia"]
+domain: intervention
+slug: protective-factors-against-dementia
 sources:
-  - fxa100-week02-playing-a-musical-instrument-as-a-protective-factor-against
+- fxa100-week02-playing-a-musical-instrument-as-a-protective-factor-against
+tags:
+- protective-factors-against-dementia
+title: Protective Factors Against Dementia
+type: topic
 updated: 2026-05-04
 ---
 

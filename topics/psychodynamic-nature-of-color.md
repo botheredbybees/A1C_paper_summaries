@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "The Psychodynamic Nature Of Color"
 confidence: low
-tags: ["psychodynamic-nature-of-color"]
+domain: intervention
+slug: the-psychodynamic-nature-of-color
 sources:
-  - fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay
+- fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay
+tags:
+- psychodynamic-nature-of-color
+title: The Psychodynamic Nature Of Color
+type: topic
 updated: 2026-05-04
 ---
 

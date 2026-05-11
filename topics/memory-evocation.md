@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music Therapy in Dementia Care"
 confidence: low
-tags: ["memory-evocation"]
+domain: intervention
+slug: music-therapy-in-dementia-care
 sources:
-  - fxa100-week04-music-therapy-and-dementia-video-transcript
+- fxa100-week04-music-therapy-and-dementia-video-transcript
+tags:
+- memory-evocation
+title: Music Therapy in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

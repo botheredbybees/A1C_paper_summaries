@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "International Migration Studies"
 confidence: low
-tags: ["international-migration-studies"]
+domain: theory
+slug: international-migration-studies
 sources:
-  - fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)
+- fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)
+tags:
+- international-migration-studies
+title: International Migration Studies
+type: topic
 updated: 2026-05-04
 ---
 

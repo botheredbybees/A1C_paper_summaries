@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Evidence-Based Practices in Autism Spectrum Disorders"
 confidence: medium
-tags: ["evidence-based-practices"]
+domain: intervention
+slug: evidence-based-practices-in-autism-spectrum-disorders
 sources:
   - fxa303-week04-educating-students-with-autism-spectrum-disorders
   - fxa303-week04-handbook-of-autism-and-pervasive-developmental-disorder
-updated: 2026-05-04
+- fxa303-week04-educating-students-with-autism-spectrum-disorders
+- fxa303-week04-handbook-of-autism-and-pervasive-developmental-disorder
+tags:
+- evidence-based-practices
+title: Evidence-Based Practices in Autism Spectrum Disorders
+type: topic
+updated: 2026-05-11
 ---
 
 ## Evidence-Based Practices in Autism Spectrum Disorders

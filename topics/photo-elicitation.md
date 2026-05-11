@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Photo-Elicitation"
 confidence: low
-tags: ["photo-elicitation"]
+domain: method
+slug: photo-elicitation
 sources:
-  - fxa202-therapeutic-photography-ch05-1-photographs-are-used-to-record-inventories-such-as-objects
+- fxa202-therapeutic-photography-ch05-1-photographs-are-used-to-record-inventories-such-as-objects
+tags:
+- photo-elicitation
+title: Photo-Elicitation
+type: topic
 updated: 2026-05-04
 ---
 

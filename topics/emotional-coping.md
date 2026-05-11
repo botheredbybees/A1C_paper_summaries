@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Coping Strategies"
 confidence: medium
-tags: ["emotional-coping"]
+domain: intervention
+slug: emotional-coping-strategies
 sources:
   - fxa202-week03-therapeutic-photography
   - fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children
-updated: 2026-05-04
+- fxa202-week03-therapeutic-photography
+- fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children
+tags:
+- emotional-coping
+title: Emotional Coping Strategies
+type: topic
+updated: 2026-05-11
 ---
 
 ## Emotional Coping Strategies

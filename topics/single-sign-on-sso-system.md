@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Single Sign-On Systems"
 confidence: low
-tags: ["single-sign-on-sso-system"]
+domain: method
+slug: single-sign-on-systems
 sources:
-  - fxa303-week06-web-article-linn-2020
+- fxa303-week06-web-article-linn-2020
+tags:
+- single-sign-on-sso-system
+title: Single Sign-On Systems
+type: topic
 updated: 2026-05-04
 ---
 

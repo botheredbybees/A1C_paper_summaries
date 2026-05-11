@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: modernity-challenges
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Modernity Challenges

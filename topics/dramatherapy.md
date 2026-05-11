@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "intervention"
-title: "Dramatherapy"
 confidence: high
-tags: ["dramatherapy"]
+domain: intervention
+slug: dramatherapy
 sources:
   - fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags
   - fxa100-week09-lesson-fxa100-week09-page-2-dance-therapy-drama-therapy
   - fxa100-week09-lesson-fxa100-week09-page-4-week-8-activities
   - fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism
-updated: 2026-05-04
+- fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags
+- fxa100-week09-lesson-fxa100-week09-page-2-dance-therapy-drama-therapy
+- fxa100-week09-lesson-fxa100-week09-page-4-week-8-activities
+- fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism
+tags:
+- dramatherapy
+title: Dramatherapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Dramatherapy

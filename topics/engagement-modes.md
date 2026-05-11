@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Engagement Modes"
 confidence: low
-tags: ["engagement-modes"]
+domain: intervention
+slug: engagement-modes
 sources:
-  - fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community
+- fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community
+tags:
+- engagement-modes
+title: Engagement Modes
+type: topic
 updated: 2026-05-04
 ---
 

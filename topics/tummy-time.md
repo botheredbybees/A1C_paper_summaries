@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Tummy Time"
 confidence: low
-tags: ["tummy-time"]
+domain: intervention
+slug: tummy-time
 sources:
-  - fxa303-week02-infancy-and-the-early-years
+- fxa303-week02-infancy-and-the-early-years
+tags:
+- tummy-time
+title: Tummy Time
+type: topic
 updated: 2026-05-04
 ---
 

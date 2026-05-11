@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Lewy Body Dementia"
 confidence: medium
-tags: ["lewy-body-dementia"]
+domain: intervention
+slug: lewy-body-dementia
 sources:
-  - fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms
-  - fxa100-week01-transcript-the-science-of-lewy-body-dementia
+- fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms
+- fxa100-week01-transcript-the-science-of-lewy-body-dementia
+tags:
+- lewy-body-dementia
+title: Lewy Body Dementia
+type: topic
 updated: 2026-05-04
 ---
 

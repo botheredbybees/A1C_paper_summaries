@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Authentic Voice"
 confidence: low
-tags: ["authentic-voice"]
+domain: theory
+slug: authentic-voice
 sources:
-  - fxa301-week03-statement-on-lived-experience
+- fxa301-week03-statement-on-lived-experience
+tags:
+- authentic-voice
+title: Authentic Voice
+type: topic
 updated: 2026-05-04
 ---
 

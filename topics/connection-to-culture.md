@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Connection To Culture"
 confidence: low
-tags: ["connection-to-culture"]
+domain: theory
+slug: connection-to-culture
 sources:
-  - fxa303-week10-cultural-determinants-of-health-for-aboriginal-and-torres
+- fxa303-week10-cultural-determinants-of-health-for-aboriginal-and-torres
+tags:
+- connection-to-culture
+title: Connection To Culture
+type: topic
 updated: 2026-05-04
 ---
 

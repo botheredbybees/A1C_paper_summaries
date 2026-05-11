@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Blood Collection Procedure"
 confidence: low
-tags: ["blood-collection-procedure"]
+domain: intervention
+slug: blood-collection-procedure
 sources:
-  - fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for
+- fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for
+tags:
+- blood-collection-procedure
+title: Blood Collection Procedure
+type: topic
 updated: 2026-05-04
 ---
 

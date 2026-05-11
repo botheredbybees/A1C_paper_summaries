@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Health-Related Quality Of Life Surveys"
 confidence: low
-tags: ["sf-36-and-sf-12-surveys"]
+domain: method
+slug: health-related-quality-of-life-surveys
 sources:
-  - fxa100-week03-association-of-music-interventions-with-health-related
+- fxa100-week03-association-of-music-interventions-with-health-related
+tags:
+- sf-36-and-sf-12-surveys
+title: Health-Related Quality Of Life Surveys
+type: topic
 updated: 2026-05-04
 ---
 

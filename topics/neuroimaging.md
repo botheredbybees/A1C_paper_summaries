@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Neuroimaging in Music Therapy"
 confidence: low
-tags: ["neuroimaging"]
+domain: intervention
+slug: neuroimaging-in-music-therapy
 sources:
-  - fxa100-week04-music-as-therapy-and-health-promotion
+- fxa100-week04-music-as-therapy-and-health-promotion
+tags:
+- neuroimaging
+title: Neuroimaging in Music Therapy
+type: topic
 updated: 2026-05-04
 ---
 

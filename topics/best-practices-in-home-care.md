@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Best Practices In Home Care"
 confidence: low
-tags: ["best-practices-in-home-care"]
+domain: intervention
+slug: best-practices-in-home-care
 sources:
-  - fxa100-week08-development-of-a-novel-benchmark-method-to-identify-and
+- fxa100-week08-development-of-a-novel-benchmark-method-to-identify-and
+tags:
+- best-practices-in-home-care
+title: Best Practices In Home Care
+type: topic
 updated: 2026-05-04
 ---
 

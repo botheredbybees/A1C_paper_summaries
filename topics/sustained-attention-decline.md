@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sustained Attention Decline"
 confidence: low
-tags: ["sustained-attention-decline"]
+domain: intervention
+slug: sustained-attention-decline
 sources:
-  - fxa100-week01-how-has-the-internet-reshaped-human-cognition
+- fxa100-week01-how-has-the-internet-reshaped-human-cognition
+tags:
+- sustained-attention-decline
+title: Sustained Attention Decline
+type: topic
 updated: 2026-05-04
 ---
 

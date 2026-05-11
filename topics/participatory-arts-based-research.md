@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Participatory Arts-Based Research"
 confidence: low
-tags: ["participatory-arts-based-research"]
+domain: method
+slug: participatory-arts-based-research
 sources:
-  - fxa303-week10-researching-arts-culture-migration-and-change-a-multi
+- fxa303-week10-researching-arts-culture-migration-and-change-a-multi
+tags:
+- participatory-arts-based-research
+title: Participatory Arts-Based Research
+type: topic
 updated: 2026-05-04
 ---
 

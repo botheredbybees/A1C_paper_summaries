@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Self-Expression Through Digital and Performing Arts"
 confidence: medium
-tags: ["creative-self-expression"]
+domain: intervention
+slug: creative-self-expression-through-digital-and-performing-arts
 sources:
   - fxa100-week09-people-with-dementia-as-spect-actors-in-a-musical-theatre
   - fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using
-updated: 2026-05-04
+- fxa100-week09-people-with-dementia-as-spect-actors-in-a-musical-theatre
+- fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using
+tags:
+- creative-self-expression
+title: Creative Self-Expression Through Digital and Performing Arts
+type: topic
+updated: 2026-05-11
 ---
 
 ## Creative Self-Expression Through Digital and Performing Arts

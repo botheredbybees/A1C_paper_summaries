@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Genetic and Environmental Influences on Brain Development"
 confidence: low
-tags: ["genetic-environmental-influences"]
+domain: theory
+slug: genetic-and-environmental-influences-on-brain-development
 sources:
-  - fxa303-week02-imaging-structural-and-functional-brain-development-in
+- fxa303-week02-imaging-structural-and-functional-brain-development-in
+tags:
+- genetic-environmental-influences
+title: Genetic and Environmental Influences on Brain Development
+type: topic
 updated: 2026-05-04
 ---
 

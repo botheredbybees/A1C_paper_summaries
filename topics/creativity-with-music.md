@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music Therapy"
 confidence: low
-tags: ["creativity-with-music"]
+domain: intervention
+slug: music-therapy
 sources:
-  - fxa100-week04-lesson-fxa100-week04-page-2-music-therapy-benefits
+- fxa100-week04-lesson-fxa100-week04-page-2-music-therapy-benefits
+tags:
+- creativity-with-music
+title: Music Therapy
+type: topic
 updated: 2026-05-04
 ---
 

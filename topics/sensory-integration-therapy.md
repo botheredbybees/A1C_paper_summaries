@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sensory Integration Therapy"
 confidence: low
-tags: ["sensory-integration-therapy"]
+domain: intervention
+slug: sensory-integration-therapy
 sources:
-  - fxa303-week04-play-therapy-in-children-with-autism-its-role-implications
+- fxa303-week04-play-therapy-in-children-with-autism-its-role-implications
+tags:
+- sensory-integration-therapy
+title: Sensory Integration Therapy
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Empathy in Art Appreciation"
 confidence: low
-tags: ["empathy-in-art-appreciation"]
+domain: theory
+slug: empathy-in-art-appreciation
 sources:
-  - fxa100-week06-visual-arts-and-the-brain
+- fxa100-week06-visual-arts-and-the-brain
+tags:
+- empathy-in-art-appreciation
+title: Empathy in Art Appreciation
+type: topic
 updated: 2026-05-04
 ---
 

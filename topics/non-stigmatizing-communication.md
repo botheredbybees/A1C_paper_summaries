@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Non-Stigmatizing Communication"
 confidence: low
-tags: ["non-stigmatizing-communication"]
+domain: intervention
+slug: non-stigmatizing-communication
 sources:
-  - fxa100-week04-dementia-language-guidelines
+- fxa100-week04-dementia-language-guidelines
+tags:
+- non-stigmatizing-communication
+title: Non-Stigmatizing Communication
+type: topic
 updated: 2026-05-04
 ---
 

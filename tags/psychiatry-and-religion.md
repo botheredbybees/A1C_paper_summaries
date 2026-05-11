@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychiatry-and-religion
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Psychiatry And Religion

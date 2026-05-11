@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Process Evaluation in Arts-Based Interventions"
 confidence: medium
-tags: ["process-evaluation"]
+domain: method
+slug: process-evaluation-in-arts-based-interventions
 sources:
   - fxa100-week09-implementing-living-room-theatre-activities-for-people-with
   - fxa301-arts-in-health-ch67-chapter-6-(2)
-updated: 2026-05-05
+- fxa100-week09-implementing-living-room-theatre-activities-for-people-with
+- fxa301-arts-in-health-ch67-chapter-6-(2)
+tags:
+- process-evaluation
+title: Process Evaluation in Arts-Based Interventions
+type: topic
+updated: 2026-05-11
 ---
 
 ## Process Evaluation in Arts-Based Interventions

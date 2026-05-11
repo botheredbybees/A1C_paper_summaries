@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music Therapy for Autism"
 confidence: low
-tags: ["social-reactions"]
+domain: intervention
+slug: music-therapy-for-autism
 sources:
-  - fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism
+- fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism
+tags:
+- social-reactions
+title: Music Therapy for Autism
+type: topic
 updated: 2026-05-04
 ---
 

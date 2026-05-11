@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Alpha-Synuclein and Neurodegenerative Diseases"
 confidence: medium
-tags: ["alpha-synuclein"]
+domain: intervention
+slug: alpha-synuclein-and-neurodegenerative-diseases
 sources:
-  - fxa100-week01-the-science-of-lewy-body-dementia-video-transcript
-  - fxa100-week01-transcript-the-science-of-lewy-body-dementia
+- fxa100-week01-the-science-of-lewy-body-dementia-video-transcript
+- fxa100-week01-transcript-the-science-of-lewy-body-dementia
+tags:
+- alpha-synuclein
+title: Alpha-Synuclein and Neurodegenerative Diseases
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music As A Catalyst For Change"
 confidence: low
-tags: ["music-as-a-catalyst-for-change"]
+domain: intervention
+slug: music-as-a-catalyst-for-change
 sources:
-  - fxa303-week10-how-country-spirituality-music-and-arts-contribute-to
+- fxa303-week10-how-country-spirituality-music-and-arts-contribute-to
+tags:
+- music-as-a-catalyst-for-change
+title: Music As A Catalyst For Change
+type: topic
 updated: 2026-05-04
 ---
 

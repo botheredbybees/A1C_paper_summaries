@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Organizational Change in Trauma-Informed Care"
 confidence: medium
-tags: ["organizational-change"]
+domain: intervention
+slug: organizational-change-in-trauma-informed-care
 sources:
   - fxa303-week09-the-trauma-informed-care-and-practice-organisational
   - fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit
-updated: 2026-05-04
+- fxa303-week09-the-trauma-informed-care-and-practice-organisational
+- fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit
+tags:
+- organizational-change
+title: Organizational Change in Trauma-Informed Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Organizational Change in Trauma-Informed Care

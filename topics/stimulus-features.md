@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Stimulus Features in Aesthetic Emotions"
 confidence: low
-tags: ["stimulus-features"]
+domain: theory
+slug: stimulus-features-in-aesthetic-emotions
 sources:
-  - fxa301-week02-aesthetic-emotions-across-arts-a-comparison-between
+- fxa301-week02-aesthetic-emotions-across-arts-a-comparison-between
+tags:
+- stimulus-features
+title: Stimulus Features in Aesthetic Emotions
+type: topic
 updated: 2026-05-04
 ---
 

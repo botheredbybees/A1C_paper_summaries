@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Body Image Concerns"
 confidence: low
-tags: ["body-image-concerns"]
+domain: intervention
+slug: body-image-concerns
 sources:
-  - fxa301-week10-an-adjunctive-museum-based-art-therapy-experience-in-the
+- fxa301-week10-an-adjunctive-museum-based-art-therapy-experience-in-the
+tags:
+- body-image-concerns
+title: Body Image Concerns
+type: topic
 updated: 2026-05-04
 ---
 

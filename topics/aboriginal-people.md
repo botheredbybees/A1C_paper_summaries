@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Health and Wellbeing of Aboriginal People Through Cultural Engagement"
 confidence: medium
-tags: ["aboriginal-people"]
+domain: intervention
+slug: health-and-wellbeing-of-aboriginal-people-through-cultural-engagement
 sources:
   - fxa301-week09-research-overview-arts-and-disability-in-australia
   - fxa303-week10-evidence-review-of-indigenous-culture-for-health-and
-updated: 2026-05-04
+- fxa301-week09-research-overview-arts-and-disability-in-australia
+- fxa303-week10-evidence-review-of-indigenous-culture-for-health-and
+tags:
+- aboriginal-people
+title: Health and Wellbeing of Aboriginal People Through Cultural Engagement
+type: topic
+updated: 2026-05-11
 ---
 
 ## Health and Wellbeing of Aboriginal People Through Cultural Engagement

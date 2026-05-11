@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: australian-education
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Australian Education

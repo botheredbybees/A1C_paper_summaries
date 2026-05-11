@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Active Engagement in Youth Theatre"
 confidence: low
-tags: ["active-engagement"]
+domain: intervention
+slug: active-engagement-in-youth-theatre
 sources:
-  - fxa303-week03-centre-stage-20-a-report-on-youth-theatre-in-ireland
+- fxa303-week03-centre-stage-20-a-report-on-youth-theatre-in-ireland
+tags:
+- active-engagement
+title: Active Engagement in Youth Theatre
+type: topic
 updated: 2026-05-04
 ---
 

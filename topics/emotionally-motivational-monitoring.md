@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Emotionally-Motivational Monitoring"
 confidence: low
-tags: ["emotionally-motivational-monitoring"]
+domain: method
+slug: emotionally-motivational-monitoring
 sources:
-  - fxa303-week02-a-new-context-affording-for-regulation-the-case-of-musical
+- fxa303-week02-a-new-context-affording-for-regulation-the-case-of-musical
+tags:
+- emotionally-motivational-monitoring
+title: Emotionally-Motivational Monitoring
+type: topic
 updated: 2026-05-04
 ---
 

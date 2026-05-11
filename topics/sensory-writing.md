@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sensory Writing"
 confidence: low
-tags: ["sensory-writing"]
+domain: intervention
+slug: sensory-writing
 sources:
-  - fxa202-week09-personal-storytelling-and-memoir-writing
+- fxa202-week09-personal-storytelling-and-memoir-writing
+tags:
+- sensory-writing
+title: Sensory Writing
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Dancing"
 confidence: medium
-tags: ["therapeutic-dancing"]
+domain: intervention
+slug: therapeutic-dancing
 sources:
   - fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons
   - fxa301-week06-therapeutic-dancing-for-parkinsons-disease
-updated: 2026-05-04
+- fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons
+- fxa301-week06-therapeutic-dancing-for-parkinsons-disease
+tags:
+- therapeutic-dancing
+title: Therapeutic Dancing
+type: topic
+updated: 2026-05-11
 ---
 
 ## Therapeutic Dancing

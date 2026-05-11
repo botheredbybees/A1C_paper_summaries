@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Alpha-Amylase as a Biomarker for Stress"
 confidence: low
-tags: ["alpha-amylase"]
+domain: method
+slug: alpha-amylase-as-a-biomarker-for-stress
 sources:
-  - fxa100-week03-the-short-term-impact-of-music-interventions-on-stress
+- fxa100-week03-the-short-term-impact-of-music-interventions-on-stress
+tags:
+- alpha-amylase
+title: Alpha-Amylase as a Biomarker for Stress
+type: topic
 updated: 2026-05-04
 ---
 

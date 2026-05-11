@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Reverse Graffiti"
 confidence: low
-tags: ["reverse-graffiti"]
+domain: intervention
+slug: reverse-graffiti
 sources:
-  - fxa301-week05-how-murals-helped-turn-a-declining-community-around
+- fxa301-week05-how-murals-helped-turn-a-declining-community-around
+tags:
+- reverse-graffiti
+title: Reverse Graffiti
+type: topic
 updated: 2026-05-04
 ---
 

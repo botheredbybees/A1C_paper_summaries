@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Stereotypes"
 confidence: low
-tags: ["stereotypes"]
+domain: theory
+slug: stereotypes
 sources:
-  - fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions
+- fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions
+tags:
+- stereotypes
+title: Stereotypes
+type: topic
 updated: 2026-05-04
 ---
 

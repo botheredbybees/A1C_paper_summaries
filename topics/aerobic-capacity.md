@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Aerobic Capacity in Female Adolescents"
 confidence: low
-tags: ["aerobic-capacity"]
+domain: intervention
+slug: aerobic-capacity-in-female-adolescents
 sources:
-  - fxa301-week06-dance-4-your-life-exploring-the-health-and-well-being
+- fxa301-week06-dance-4-your-life-exploring-the-health-and-well-being
+tags:
+- aerobic-capacity
+title: Aerobic Capacity in Female Adolescents
+type: topic
 updated: 2026-05-04
 ---
 

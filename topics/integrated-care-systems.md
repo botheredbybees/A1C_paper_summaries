@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Integrated Care Systems"
 confidence: low
-tags: ["integrated-care-systems"]
+domain: intervention
+slug: integrated-care-systems
 sources:
-  - fxa301-week03-executive-summary-creative-health-review
+- fxa301-week03-executive-summary-creative-health-review
+tags:
+- integrated-care-systems
+title: Integrated Care Systems
+type: topic
 updated: 2026-05-04
 ---
 

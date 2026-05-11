@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Recovery"
 confidence: medium
-tags: ["creative-recovery"]
+domain: intervention
+slug: creative-recovery
 sources:
   - fxa303-week09-national-taskforce-for-creative-recovery-recommendations
   - fxa303-week09-web-article-creative-2023
-updated: 2026-05-04
+- fxa303-week09-national-taskforce-for-creative-recovery-recommendations
+- fxa303-week09-web-article-creative-2023
+tags:
+- creative-recovery
+title: Creative Recovery
+type: topic
+updated: 2026-05-11
 ---
 
 ## Creative Recovery

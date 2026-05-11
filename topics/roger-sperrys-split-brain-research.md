@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Roger Sperry's Split-Brain Research"
 confidence: low
-tags: ["roger-sperrys-split-brain-research"]
+domain: theory
+slug: roger-sperry-s-split-brain-research
 sources:
-  - fxa100-week02-are-people-really-left-brained-or-right-brain
+- fxa100-week02-are-people-really-left-brained-or-right-brain
+tags:
+- roger-sperrys-split-brain-research
+title: Roger Sperry's Split-Brain Research
+type: topic
 updated: 2026-05-04
 ---
 

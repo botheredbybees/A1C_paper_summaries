@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Benefits Of Laughter"
 confidence: low
-tags: ["therapeutic-benefits-of-laughter"]
+domain: intervention
+slug: therapeutic-benefits-of-laughter
 sources:
-  - fxa303-week08-lesson-fxa303-week08-page-2-the-nature-of-clowning
+- fxa303-week08-lesson-fxa303-week08-page-2-the-nature-of-clowning
+tags:
+- therapeutic-benefits-of-laughter
+title: Therapeutic Benefits Of Laughter
+type: topic
 updated: 2026-05-04
 ---
 

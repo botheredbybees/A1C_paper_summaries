@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cultural Exchange in Indigenous Communities"
 confidence: low
-tags: ["cultural-exchange"]
+domain: intervention
+slug: cultural-exchange-in-indigenous-communities
 sources:
-  - fxa301-week01-web-article-greeno-2021
+- fxa301-week01-web-article-greeno-2021
+tags:
+- cultural-exchange
+title: Cultural Exchange in Indigenous Communities
+type: topic
 updated: 2026-05-04
 ---
 

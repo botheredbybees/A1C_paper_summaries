@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Validated Surveys"
 confidence: low
-tags: ["validated-surveys"]
+domain: method
+slug: validated-surveys
 sources:
-  - fxa301-week01-lesson-fxa301-week01-page-3-hm-evaluating-a-project
+- fxa301-week01-lesson-fxa301-week01-page-3-hm-evaluating-a-project
+tags:
+- validated-surveys
+title: Validated Surveys
+type: topic
 updated: 2026-05-04
 ---
 

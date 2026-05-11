@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Group Therapy Benefits"
 confidence: low
-tags: ["group-therapy-benefits"]
+domain: intervention
+slug: group-therapy-benefits
 sources:
-  - fxa301-week10-lesson-fxa301-week10-page-3
+- fxa301-week10-lesson-fxa301-week10-page-3
+tags:
+- group-therapy-benefits
+title: Group Therapy Benefits
+type: topic
 updated: 2026-05-04
 ---
 

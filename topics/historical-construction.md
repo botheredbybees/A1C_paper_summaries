@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Historical Construction of Post-Traumatic Stress Disorder"
 confidence: low
-tags: ["historical-construction"]
+domain: theory
+slug: historical-construction-of-post-traumatic-stress-disorder
 sources:
-  - fxa301-week05-shell-shock-trauma-and-the-first-world-war-the-making-of-a
+- fxa301-week05-shell-shock-trauma-and-the-first-world-war-the-making-of-a
+tags:
+- historical-construction
+title: Historical Construction of Post-Traumatic Stress Disorder
+type: topic
 updated: 2026-05-04
 ---
 

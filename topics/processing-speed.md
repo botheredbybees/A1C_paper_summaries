@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Processing Speed"
 confidence: low
-tags: ["processing-speed"]
+domain: intervention
+slug: processing-speed
 sources:
-  - fxa100-week02-the-benefits-of-music-instruction-on-processing-speed
+- fxa100-week02-the-benefits-of-music-instruction-on-processing-speed
+tags:
+- processing-speed
+title: Processing Speed
+type: topic
 updated: 2026-05-04
 ---
 

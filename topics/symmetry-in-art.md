@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Symmetry in Art"
 confidence: low
-tags: ["symmetry-in-art"]
+domain: method
+slug: symmetry-in-art
 sources:
-  - fxa202-week02-improve-your-photography-skills-with-these-9-photo
+- fxa202-week02-improve-your-photography-skills-with-these-9-photo
+tags:
+- symmetry-in-art
+title: Symmetry in Art
+type: topic
 updated: 2026-05-04
 ---
 

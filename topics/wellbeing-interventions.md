@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Singing as an Intervention for Dementia and Caregiver Wellbeing"
 confidence: medium
-tags: ["wellbeing-interventions"]
+domain: intervention
+slug: singing-as-an-intervention-for-dementia-and-caregiver-wellbeing
 sources:
   - fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the
   - fxa301-week01-arts-for-health-and-wellbeing-an-evaluation-framework
   - fxa301-week03-creative-health-review-report
-updated: 2026-05-05
+- fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the
+- fxa301-week01-arts-for-health-and-wellbeing-an-evaluation-framework
+- fxa301-week03-creative-health-review-report
+tags:
+- wellbeing-interventions
+title: Singing as an Intervention for Dementia and Caregiver Wellbeing
+type: topic
+updated: 2026-05-11
 ---
 
 ## Singing as an Intervention for Dementia and Caregiver Wellbeing

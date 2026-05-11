@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Shadow Theatre"
 confidence: low
-tags: ["shadow-theatre"]
+domain: intervention
+slug: shadow-theatre
 sources:
-  - fxa303-week05-puppets-and-self-care-for-task-2
+- fxa303-week05-puppets-and-self-care-for-task-2
+tags:
+- shadow-theatre
+title: Shadow Theatre
+type: topic
 updated: 2026-05-04
 ---
 

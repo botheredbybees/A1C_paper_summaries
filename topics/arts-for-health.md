@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts for Health"
 confidence: medium
-tags: ["arts-for-health"]
+domain: intervention
+slug: arts-for-health
 sources:
   - fxa301-oxford-textbook-of-creative-arts-ch03-chapter-13
   - fxa301-week01-arts-for-health-and-wellbeing-an-evaluation-framework
-updated: 2026-05-05
+- fxa301-oxford-textbook-of-creative-arts-ch03-chapter-13
+- fxa301-week01-arts-for-health-and-wellbeing-an-evaluation-framework
+tags:
+- arts-for-health
+title: Arts for Health
+type: topic
+updated: 2026-05-11
 ---
 
 ## Arts for Health

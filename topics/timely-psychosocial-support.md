@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Timely Psychosocial Support"
 confidence: low
-tags: ["timely-psychosocial-support"]
+domain: intervention
+slug: timely-psychosocial-support
 sources:
-  - fxa303-week09-psychological-first-aid-supporting-people-affected-by
+- fxa303-week09-psychological-first-aid-supporting-people-affected-by
+tags:
+- timely-psychosocial-support
+title: Timely Psychosocial Support
+type: topic
 updated: 2026-05-04
 ---
 

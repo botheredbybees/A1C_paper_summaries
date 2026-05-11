@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Abstract Color Theory"
 confidence: low
-tags: ["abstract-color-theory"]
+domain: theory
+slug: abstract-color-theory
 sources:
-  - fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at
+- fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at
+tags:
+- abstract-color-theory
+title: Abstract Color Theory
+type: topic
 updated: 2026-05-04
 ---
 

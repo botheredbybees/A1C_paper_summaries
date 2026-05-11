@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Discussion Board Activity"
 confidence: low
-tags: ["discussion-board-activity"]
+domain: method
+slug: discussion-board-activity
 sources:
-  - fxa202-week10-week-10-lecture
+- fxa202-week10-week-10-lecture
+tags:
+- discussion-board-activity
+title: Discussion Board Activity
+type: topic
 updated: 2026-05-04
 ---
 

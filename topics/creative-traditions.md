@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Creative Traditions"
 confidence: low
-tags: ["creative-traditions"]
+domain: theory
+slug: creative-traditions
 sources:
-  - fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2)
+- fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2)
+tags:
+- creative-traditions
+title: Creative Traditions
+type: topic
 updated: 2026-05-04
 ---
 

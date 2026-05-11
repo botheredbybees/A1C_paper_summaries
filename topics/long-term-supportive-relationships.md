@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Long-Term Supportive Relationships"
 confidence: low
-tags: ["long-term-supportive-relationships"]
+domain: intervention
+slug: long-term-supportive-relationships
 sources:
-  - fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation
+- fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation
+tags:
+- long-term-supportive-relationships
+title: Long-Term Supportive Relationships
+type: topic
 updated: 2026-05-04
 ---
 

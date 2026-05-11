@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "The Impact of Music on Human Behavior"
 confidence: medium
-tags: ["human-behavior"]
+domain: intervention
+slug: the-impact-of-music-on-human-behavior
 sources:
   - fxa100-week03-the-power-of-music
   - fxa100-week04-the-evolution-of-human-artistic-creativity
-updated: 2026-05-04
+- fxa100-week03-the-power-of-music
+- fxa100-week04-the-evolution-of-human-artistic-creativity
+tags:
+- human-behavior
+title: The Impact of Music on Human Behavior
+type: topic
+updated: 2026-05-11
 ---
 
 ## The Impact of Music on Human Behavior

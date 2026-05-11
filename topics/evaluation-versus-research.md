@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Evaluation Versus Research"
 confidence: low
-tags: ["evaluation-versus-research"]
+domain: method
+slug: evaluation-versus-research
 sources:
-  - fxa100-week04-an-introduction-to-research
+- fxa100-week04-an-introduction-to-research
+tags:
+- evaluation-versus-research
+title: Evaluation Versus Research
+type: topic
 updated: 2026-05-04
 ---
 

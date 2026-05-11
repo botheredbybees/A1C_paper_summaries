@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Human Brain Structure"
 confidence: low
-tags: ["human-brain-structure"]
+domain: theory
+slug: human-brain-structure
 sources:
-  - fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community
+- fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community
+tags:
+- human-brain-structure
+title: Human Brain Structure
+type: topic
 updated: 2026-05-04
 ---
 

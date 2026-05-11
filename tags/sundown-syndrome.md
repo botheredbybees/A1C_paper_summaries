@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sundown-syndrome
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Sundown Syndrome

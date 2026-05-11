@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Photography In Health And Well-being"
 confidence: low
-tags: ["photography-in-health-and-well-being"]
+domain: intervention
+slug: photography-in-health-and-well-being
 sources:
-  - fxa202-week03-lesson-fxa202-week03-page-4
+- fxa202-week03-lesson-fxa202-week03-page-4
+tags:
+- photography-in-health-and-well-being
+title: Photography In Health And Well-being
+type: topic
 updated: 2026-05-04
 ---
 

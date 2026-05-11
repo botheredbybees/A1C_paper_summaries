@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Body-Memory in Non-Verbal Expression"
 confidence: low
-tags: ["body-memory"]
+domain: method
+slug: body-memory-in-non-verbal-expression
 sources:
-  - fxa100-creativity-and-communication-ch06-5-moving-in-the-moment-dance-john-killick-in-the-previous
+- fxa100-creativity-and-communication-ch06-5-moving-in-the-moment-dance-john-killick-in-the-previous
+tags:
+- body-memory
+title: Body-Memory in Non-Verbal Expression
+type: topic
 updated: 2026-05-04
 ---
 

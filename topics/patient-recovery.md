@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Patient Recovery Through Visual Arts"
 confidence: low
-tags: ["patient-recovery"]
+domain: intervention
+slug: patient-recovery-through-visual-arts
 sources:
-  - fxa301-week05-engaging-with-visual-arts-week-5-introduction
+- fxa301-week05-engaging-with-visual-arts-week-5-introduction
+tags:
+- patient-recovery
+title: Patient Recovery Through Visual Arts
+type: topic
 updated: 2026-05-04
 ---
 

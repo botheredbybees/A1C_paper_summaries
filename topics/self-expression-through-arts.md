@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Self-Expression Through Arts"
 confidence: low
-tags: ["self-expression-through-arts"]
+domain: intervention
+slug: self-expression-through-arts
 sources:
-  - fxa100-week08-why-the-arts
+- fxa100-week08-why-the-arts
+tags:
+- self-expression-through-arts
+title: Self-Expression Through Arts
+type: topic
 updated: 2026-05-04
 ---
 

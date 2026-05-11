@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Internet Security and Authentication"
 confidence: medium
-tags: ["internet-security"]
+domain: method
+slug: internet-security-and-authentication
 sources:
   - fxa303-week06-web-article-butler-2009
   - fxa303-week06-web-article-linn-2020
-updated: 2026-05-04
+- fxa303-week06-web-article-butler-2009
+- fxa303-week06-web-article-linn-2020
+tags:
+- internet-security
+title: Internet Security and Authentication
+type: topic
+updated: 2026-05-11
 ---
 
 ## Internet Security and Authentication

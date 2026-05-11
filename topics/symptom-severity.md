@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Symptom Severity in Autism Spectrum Disorder"
 confidence: low
-tags: ["symptom-severity"]
+domain: intervention
+slug: symptom-severity-in-autism-spectrum-disorder
 sources:
-  - fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism
+- fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism
+tags:
+- symptom-severity
+title: Symptom Severity in Autism Spectrum Disorder
+type: topic
 updated: 2026-05-04
 ---
 

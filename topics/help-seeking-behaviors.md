@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Help-Seeking Behaviors"
 confidence: low
-tags: ["help-seeking-behaviors"]
+domain: intervention
+slug: help-seeking-behaviors
 sources:
-  - fxa303-week10-healing-through-culture-aboriginal-young-peoples
+- fxa303-week10-healing-through-culture-aboriginal-young-peoples
+tags:
+- help-seeking-behaviors
+title: Help-Seeking Behaviors
+type: topic
 updated: 2026-05-04
 ---
 

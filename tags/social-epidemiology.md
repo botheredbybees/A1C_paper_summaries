@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-epidemiology
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Social Epidemiology

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Universal Membership in Awe Experiences"
 confidence: low
-tags: ["universal-membership"]
+domain: theory
+slug: universal-membership-in-awe-experiences
 sources:
-  - fxa301-week02-the-nature-of-awe-elicitors-appraisals-and-effects-on-self
+- fxa301-week02-the-nature-of-awe-elicitors-appraisals-and-effects-on-self
+tags:
+- universal-membership
+title: Universal Membership in Awe Experiences
+type: topic
 updated: 2026-05-04
 ---
 

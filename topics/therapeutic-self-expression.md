@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Self-Expression"
 confidence: low
-tags: ["therapeutic-self-expression"]
+domain: intervention
+slug: therapeutic-self-expression
 sources:
-  - fxa100-week04-transcript-music-therapy-with-dementia-canadian-music
+- fxa100-week04-transcript-music-therapy-with-dementia-canadian-music
+tags:
+- therapeutic-self-expression
+title: Therapeutic Self-Expression
+type: topic
 updated: 2026-05-04
 ---
 

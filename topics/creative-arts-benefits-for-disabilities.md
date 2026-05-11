@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Arts Benefits for Disabilities"
 confidence: low
-tags: ["creative-arts-benefits-for-disabilities"]
+domain: intervention
+slug: creative-arts-benefits-for-disabilities
 sources:
-  - fxa301-week09-lesson-fxa301-week09-page-4-week-3-activities
+- fxa301-week09-lesson-fxa301-week09-page-4-week-3-activities
+tags:
+- creative-arts-benefits-for-disabilities
+title: Creative Arts Benefits for Disabilities
+type: topic
 updated: 2026-05-04
 ---
 

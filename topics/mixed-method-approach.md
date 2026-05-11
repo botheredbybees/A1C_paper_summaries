@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Mixed-Methods Approach in Drama Therapy"
 confidence: low
-tags: ["mixed-method-approach"]
+domain: method
+slug: mixed-methods-approach-in-drama-therapy
 sources:
-  - fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it
+- fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it
+tags:
+- mixed-method-approach
+title: Mixed-Methods Approach in Drama Therapy
+type: topic
 updated: 2026-05-04
 ---
 

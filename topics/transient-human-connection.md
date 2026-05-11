@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Transient Human Connection"
 confidence: low
-tags: ["transient-human-connection"]
+domain: intervention
+slug: transient-human-connection
 sources:
-  - fxa202-week06-remembrance
+- fxa202-week06-remembrance
+tags:
+- transient-human-connection
+title: Transient Human Connection
+type: topic
 updated: 2026-05-04
 ---
 

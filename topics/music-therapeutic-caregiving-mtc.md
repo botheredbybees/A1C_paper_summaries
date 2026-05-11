@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music Therapeutic Caregiving"
 confidence: low
-tags: ["music-therapeutic-caregiving-mtc"]
+domain: intervention
+slug: music-therapeutic-caregiving
 sources:
-  - fxa100-week04-the-impact-of-caregivers-singing-on-expressions-of-emotion
+- fxa100-week04-the-impact-of-caregivers-singing-on-expressions-of-emotion
+tags:
+- music-therapeutic-caregiving-mtc
+title: Music Therapeutic Caregiving
+type: topic
 updated: 2026-05-04
 ---
 

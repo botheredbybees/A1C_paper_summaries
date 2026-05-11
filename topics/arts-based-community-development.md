@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts-Based Community Development"
 confidence: low
-tags: ["arts-based-community-development"]
+domain: intervention
+slug: arts-based-community-development
 sources:
-  - fxa301-make-arts-for-a-better-life-ch42-156-oxford
+- fxa301-make-arts-for-a-better-life-ch42-156-oxford
+tags:
+- arts-based-community-development
+title: Arts-Based Community Development
+type: topic
 updated: 2026-05-04
 ---
 

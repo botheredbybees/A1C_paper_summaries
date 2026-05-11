@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Community Wellbeing Through Arts Engagement"
 confidence: high
-tags: ["community-wellbeing"]
+domain: intervention
+slug: community-wellbeing-through-arts-engagement
 sources:
   - fxa100-week04-guidelines-for-arts-and-mental-health-projects
   - fxa100-week07-connecting-with-and-through-art-arts-engagement-for
@@ -17,7 +15,23 @@ sources:
   - fxa301-week05-museums-as-spaces-for-wellbeing-a-second-report-from-the
   - fxa301-week06-lesson-fxa301-week06-page-1
   - fxa301-week08-transcript-the-video-below-relates-the-experiences-of
-updated: 2026-05-05
+- fxa100-week04-guidelines-for-arts-and-mental-health-projects
+- fxa100-week07-connecting-with-and-through-art-arts-engagement-for
+- fxa301-week01-week-2-introduction-fxa301-arts-in-the-community
+- fxa301-week03-cross-sector-strategies-for-health-and-community-well-being
+- fxa301-week03-evidence-requirements-for-the-development-of-the-national
+- fxa301-week03-introduction-to-creative-health-extract
+- fxa301-week03-the-role-of-the-arts-in-healthcare-transforming-lives
+- fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing
+- fxa301-week03-week-3-introduction-arts-in-the-community-for-health-and
+- fxa301-week05-museums-as-spaces-for-wellbeing-a-second-report-from-the
+- fxa301-week06-lesson-fxa301-week06-page-1
+- fxa301-week08-transcript-the-video-below-relates-the-experiences-of
+tags:
+- community-wellbeing
+title: Community Wellbeing Through Arts Engagement
+type: topic
+updated: 2026-05-11
 ---
 
 ## Community Wellbeing Through Arts Engagement

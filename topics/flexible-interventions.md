@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Flexible Interventions"
 confidence: low
-tags: ["flexible-interventions"]
+domain: intervention
+slug: flexible-interventions
 sources:
-  - fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts
+- fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts
+tags:
+- flexible-interventions
+title: Flexible Interventions
+type: topic
 updated: 2026-05-04
 ---
 

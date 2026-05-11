@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Growth Mindset in Youth Development"
 confidence: low
-tags: ["growth-mindset"]
+domain: intervention
+slug: growth-mindset-in-youth-development
 sources:
-  - fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot
+- fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot
+tags:
+- growth-mindset
+title: Growth Mindset in Youth Development
+type: topic
 updated: 2026-05-04
 ---
 

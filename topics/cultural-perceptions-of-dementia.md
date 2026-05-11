@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Cultural Perceptions of Dementia"
 confidence: low
-tags: ["cultural-perceptions-of-dementia"]
+domain: theory
+slug: cultural-perceptions-of-dementia
 sources:
-  - fxa100-week08-creativity-and-communication-in-persons-with-dementia
+- fxa100-week08-creativity-and-communication-in-persons-with-dementia
+tags:
+- cultural-perceptions-of-dementia
+title: Cultural Perceptions of Dementia
+type: topic
 updated: 2026-05-04
 ---
 

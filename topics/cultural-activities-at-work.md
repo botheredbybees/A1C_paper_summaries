@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cultural Activities at Work"
 confidence: low
-tags: ["cultural-activities-at-work"]
+domain: intervention
+slug: cultural-activities-at-work
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35
+- fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35
+tags:
+- cultural-activities-at-work
+title: Cultural Activities at Work
+type: topic
 updated: 2026-05-04
 ---
 

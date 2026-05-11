@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Beat Synchronization"
 confidence: low
-tags: ["beat-synchronization"]
+domain: method
+slug: beat-synchronization
 sources:
-  - fxa100-week03-experimental-evidence-for-synchronization-to-a-musical-beat
+- fxa100-week03-experimental-evidence-for-synchronization-to-a-musical-beat
+tags:
+- beat-synchronization
+title: Beat Synchronization
+type: topic
 updated: 2026-05-04
 ---
 

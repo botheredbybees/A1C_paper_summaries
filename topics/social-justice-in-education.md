@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Social Justice in Education"
 confidence: low
-tags: ["social-justice-in-education"]
+domain: intervention
+slug: social-justice-in-education
 sources:
-  - fxa301-week06-psychoanalysis-and-el-sistema-human-development-through
+- fxa301-week06-psychoanalysis-and-el-sistema-human-development-through
+tags:
+- social-justice-in-education
+title: Social Justice in Education
+type: topic
 updated: 2026-05-04
 ---
 

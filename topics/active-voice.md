@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Active Voice in Creative Writing"
 confidence: low
-tags: ["active-voice"]
+domain: theory
+slug: active-voice-in-creative-writing
 sources:
-  - fxa202-week02-lesson-fxa202-week02-creative-writing
+- fxa202-week02-lesson-fxa202-week02-creative-writing
+tags:
+- active-voice
+title: Active Voice in Creative Writing
+type: topic
 updated: 2026-05-04
 ---
 

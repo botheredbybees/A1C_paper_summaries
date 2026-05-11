@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cognitive Health and Protective Factors"
 confidence: medium
-tags: ["cognitive-health"]
+domain: intervention
+slug: cognitive-health-and-protective-factors
 sources:
   - fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical
   - fxa100-week02-playing-a-musical-instrument-as-a-protective-factor-against
   - fxa100-week08-web-article-huebner-2012
   - fxa100-week09-dance-movement-therapy-for-dementia
-updated: 2026-05-05
+- fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical
+- fxa100-week02-playing-a-musical-instrument-as-a-protective-factor-against
+- fxa100-week08-web-article-huebner-2012
+- fxa100-week09-dance-movement-therapy-for-dementia
+tags:
+- cognitive-health
+title: Cognitive Health and Protective Factors
+type: topic
+updated: 2026-05-11
 ---
 
 ## Cognitive Health and Protective Factors

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Chemokine Ligand CX3CL1"
 confidence: low
-tags: ["chemokine-ligand-cx3cl1"]
+domain: intervention
+slug: chemokine-ligand-cx3cl1
 sources:
-  - fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining
+- fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining
+tags:
+- chemokine-ligand-cx3cl1
+title: Chemokine Ligand CX3CL1
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Innate Musicality"
 confidence: low
-tags: ["innate-musicality"]
+domain: theory
+slug: innate-musicality
 sources:
-  - fxa301-week06-the-dance-of-wellbeing-defining-the-musical-therapeutic
+- fxa301-week06-the-dance-of-wellbeing-defining-the-musical-therapeutic
+tags:
+- innate-musicality
+title: Innate Musicality
+type: topic
 updated: 2026-05-04
 ---
 

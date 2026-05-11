@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music Therapy for Agitation in Dementia"
 confidence: low
-tags: ["agitation"]
+domain: intervention
+slug: music-therapy-for-agitation-in-dementia
 sources:
-  - fxa100-week04-the-effect-of-music-therapy-compared-with-general
+- fxa100-week04-the-effect-of-music-therapy-compared-with-general
+tags:
+- agitation
+title: Music Therapy for Agitation in Dementia
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music Therapy for Reduced Agitation"
 confidence: low
-tags: ["reduced-agitation"]
+domain: intervention
+slug: music-therapy-for-reduced-agitation
 sources:
-  - fxa100-week04-music-therapy-benefits-fxa100-the-arts-and-dementia-care
+- fxa100-week04-music-therapy-benefits-fxa100-the-arts-and-dementia-care
+tags:
+- reduced-agitation
+title: Music Therapy for Reduced Agitation
+type: topic
 updated: 2026-05-04
 ---
 

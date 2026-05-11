@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Quality Of Life Measurement"
 confidence: low
-tags: ["quality-of-life-measurement"]
+domain: method
+slug: quality-of-life-measurement
 sources:
-  - fxa301-week03-the-thrive-toolkit-tools-for-health-research-and-evaluation
+- fxa301-week03-the-thrive-toolkit-tools-for-health-research-and-evaluation
+tags:
+- quality-of-life-measurement
+title: Quality Of Life Measurement
+type: topic
 updated: 2026-05-04
 ---
 

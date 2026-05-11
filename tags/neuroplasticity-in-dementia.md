@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuroplasticity-in-dementia
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Neuroplasticity In Dementia

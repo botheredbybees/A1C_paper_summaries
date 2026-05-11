@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Digital Manipulation Techniques"
 confidence: medium
-tags: ["digital-manipulation"]
+domain: method
+slug: digital-manipulation-techniques
 sources:
   - fxa202-week08-how-to-merge-and-combine-images-in-photoshop
   - fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture
-updated: 2026-05-04
+- fxa202-week08-how-to-merge-and-combine-images-in-photoshop
+- fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture
+tags:
+- digital-manipulation
+title: Digital Manipulation Techniques
+type: topic
+updated: 2026-05-11
 ---
 
 ## Digital Manipulation Techniques

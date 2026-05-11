@@ -1,17 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Benefits of Music"
 confidence: high
-tags: ["therapeutic-benefits-of-music"]
+domain: intervention
+slug: therapeutic-benefits-of-music
 sources:
-  - fxa100-week02-music-and-the-damaged-brain
-  - fxa100-week02-the-power-of-music
-  - fxa100-week03-personalized-music-for-persons-with-dementia-and-their-life
-  - fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video
-  - fxa100-week04-intergenerational-choir-transcript
-  - fxa100-week04-lesson-fxa100-week04-page-1-welcome-to-week-4
-  - fxa100-week04-transcript-mind-song-music-for-dementia
+- fxa100-week02-music-and-the-damaged-brain
+- fxa100-week02-the-power-of-music
+- fxa100-week03-personalized-music-for-persons-with-dementia-and-their-life
+- fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video
+- fxa100-week04-intergenerational-choir-transcript
+- fxa100-week04-lesson-fxa100-week04-page-1-welcome-to-week-4
+- fxa100-week04-transcript-mind-song-music-for-dementia
+tags:
+- therapeutic-benefits-of-music
+title: Therapeutic Benefits of Music
+type: topic
 updated: 2026-05-04
 ---
 

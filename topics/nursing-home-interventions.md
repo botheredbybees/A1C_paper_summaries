@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Living Room Theatre Activities for Dementia Patients"
 confidence: medium
-tags: ["nursing-home-interventions"]
+domain: intervention
+slug: living-room-theatre-activities-for-dementia-patients
 sources:
   - fxa100-week09-implementing-living-room-theatre-activities-for-people-with
   - fxa100-week09-implementing-living-room-theatre-activities-for-people-with-(2)
-updated: 2026-05-04
+- fxa100-week09-implementing-living-room-theatre-activities-for-people-with
+- fxa100-week09-implementing-living-room-theatre-activities-for-people-with-(2)
+tags:
+- nursing-home-interventions
+title: Living Room Theatre Activities for Dementia Patients
+type: topic
+updated: 2026-05-11
 ---
 
 ## Living Room Theatre Activities for Dementia Patients

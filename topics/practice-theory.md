@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Daily Digital Practices for Well-Being"
 confidence: low
-tags: ["practice-theory"]
+domain: theory
+slug: daily-digital-practices-for-well-being
 sources:
-  - fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using
+- fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using
+tags:
+- practice-theory
+title: Daily Digital Practices for Well-Being
+type: topic
 updated: 2026-05-04
 ---
 

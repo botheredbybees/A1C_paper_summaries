@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Ocean As A Symbol Of Grief"
 confidence: low
-tags: ["ocean-as-a-symbol-of-grief"]
+domain: theory
+slug: ocean-as-a-symbol-of-grief
 sources:
-  - fxa202-week09-reflections-on-grieving-at-a-seaside-pier
+- fxa202-week09-reflections-on-grieving-at-a-seaside-pier
+tags:
+- ocean-as-a-symbol-of-grief
+title: Ocean As A Symbol Of Grief
+type: topic
 updated: 2026-05-04
 ---
 

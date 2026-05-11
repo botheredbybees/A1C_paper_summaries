@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Parental Anxiety Reduction"
 confidence: low
-tags: ["parental-anxiety-reduction"]
+domain: intervention
+slug: parental-anxiety-reduction
 sources:
-  - fxa303-week08-therapeutic-clowning-in-paediatric-practice
+- fxa303-week08-therapeutic-clowning-in-paediatric-practice
+tags:
+- parental-anxiety-reduction
+title: Parental Anxiety Reduction
+type: topic
 updated: 2026-05-04
 ---
 

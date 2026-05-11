@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Motley Clothing in Tudor England"
 confidence: low
-tags: ["motley-clothing"]
+domain: intervention
+slug: motley-clothing-in-tudor-england
 sources:
-  - fxa303-week08-web-article-screti-2018
+- fxa303-week08-web-article-screti-2018
+tags:
+- motley-clothing
+title: Motley Clothing in Tudor England
+type: topic
 updated: 2026-05-04
 ---
 

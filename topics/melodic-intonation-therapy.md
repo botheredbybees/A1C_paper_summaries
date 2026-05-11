@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Melodic Intonation Therapy"
 confidence: low
-tags: ["melodic-intonation-therapy"]
+domain: intervention
+slug: melodic-intonation-therapy
 sources:
-  - fxa301-week09-facing-the-music-three-issues-in-current-research-on
+- fxa301-week09-facing-the-music-three-issues-in-current-research-on
+tags:
+- melodic-intonation-therapy
+title: Melodic Intonation Therapy
+type: topic
 updated: 2026-05-04
 ---
 

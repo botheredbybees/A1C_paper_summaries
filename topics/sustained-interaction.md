@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sustained Interaction"
 confidence: low
-tags: ["sustained-interaction"]
+domain: intervention
+slug: sustained-interaction
 sources:
-  - fxa100-week09-improving-care-the-next-step-forward
+- fxa100-week09-improving-care-the-next-step-forward
+tags:
+- sustained-interaction
+title: Sustained Interaction
+type: topic
 updated: 2026-05-04
 ---
 

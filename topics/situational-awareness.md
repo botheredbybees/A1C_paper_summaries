@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Situational Awareness"
 confidence: low
-tags: ["situational-awareness"]
+domain: theory
+slug: situational-awareness
 sources:
-  - fxa100-how-we-thnk-about-dementia-ch15-chapter-9
+- fxa100-how-we-thnk-about-dementia-ch15-chapter-9
+tags:
+- situational-awareness
+title: Situational Awareness
+type: topic
 updated: 2026-05-04
 ---
 

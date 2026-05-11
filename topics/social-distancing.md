@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Social Distancing"
 confidence: low
-tags: ["social-distancing"]
+domain: intervention
+slug: social-distancing
 sources:
-  - fxa301-week06-transcript-these-videos-were-mixed-into-a-music-clip
+- fxa301-week06-transcript-these-videos-were-mixed-into-a-music-clip
+tags:
+- social-distancing
+title: Social Distancing
+type: topic
 updated: 2026-05-04
 ---
 

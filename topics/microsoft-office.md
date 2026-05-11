@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Microsoft Office Document Conversion"
 confidence: low
-tags: ["microsoft-office"]
+domain: method
+slug: microsoft-office-document-conversion
 sources:
-  - fxa202-week06-exporting-to-pdf-from-powerpoint-and-word
+- fxa202-week06-exporting-to-pdf-from-powerpoint-and-word
+tags:
+- microsoft-office
+title: Microsoft Office Document Conversion
+type: topic
 updated: 2026-05-04
 ---
 

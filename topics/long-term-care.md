@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Long-term Care Interventions"
 confidence: medium
-tags: ["long-term-care"]
+domain: intervention
+slug: long-term-care-interventions
 sources:
   - fxa100-week03-implementation-survey-results-phase-iii-music-memory-program
   - fxa100-week08-it-makes-me-feel-like-myself-person-centered-versus
-updated: 2026-05-04
+- fxa100-week03-implementation-survey-results-phase-iii-music-memory-program
+- fxa100-week08-it-makes-me-feel-like-myself-person-centered-versus
+tags:
+- long-term-care
+title: Long-term Care Interventions
+type: topic
+updated: 2026-05-11
 ---
 
 ## Long-term Care Interventions

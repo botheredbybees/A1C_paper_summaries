@@ -12,13 +12,14 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
+  - unit: FXA301
 tags: ["arts-in-health", "medical-humanities", "psychotherapy", "healthcare-environment", "fxa301"]
 key_concepts: ["Arts in Health Diamond", "continua model", "Venn diagram approach"]
 methods: []
 slug: fxa301-arts-in-health-ch19-36-abc-national-cultural-policy-submission
 related: ["arts-in-health", "healthcare-environment"]
 created: 2026-05-03
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-arts-in-health-ch19-36-abc-national-cultural-policy-submission.md_

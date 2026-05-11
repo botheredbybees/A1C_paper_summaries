@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Educational Attainment Impact"
 confidence: low
-tags: ["educational-attainment-impact"]
+domain: intervention
+slug: educational-attainment-impact
 sources:
-  - fxa100-week01-ai-tools-in-society-impacts-on-cognitive-offloading-and-the
+- fxa100-week01-ai-tools-in-society-impacts-on-cognitive-offloading-and-the
+tags:
+- educational-attainment-impact
+title: Educational Attainment Impact
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "population"
-title: "Adolescent Health"
 confidence: medium
-tags: ["adolescent-health"]
+domain: population
+slug: adolescent-health
 sources:
   - fxa301-week06-dance-4-your-life-exploring-the-health-and-well-being
   - fxa303-week03-adolescent-and-young-adult-health
   - fxa303-week03-adolescent-health
-updated: 2026-05-04
+- fxa301-week06-dance-4-your-life-exploring-the-health-and-well-being
+- fxa303-week03-adolescent-and-young-adult-health
+- fxa303-week03-adolescent-health
+tags:
+- adolescent-health
+title: Adolescent Health
+type: topic
+updated: 2026-05-11
 ---
 
 ## Adolescent Health

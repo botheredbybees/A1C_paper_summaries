@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Equity in Research"
 confidence: low
-tags: ["equity-in-research"]
+domain: method
+slug: equity-in-research
 sources:
-  - fxa301-week06-week-6-activities-fxa301-arts-in-the-community
+- fxa301-week06-week-6-activities-fxa301-arts-in-the-community
+tags:
+- equity-in-research
+title: Equity in Research
+type: topic
 updated: 2026-05-04
 ---
 

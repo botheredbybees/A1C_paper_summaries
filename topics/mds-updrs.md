@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Multisensory Dance Learning and Parkinson's Disease"
 confidence: low
-tags: ["mds-updrs"]
+domain: intervention
+slug: multisensory-dance-learning-and-parkinson-s-disease
 sources:
-  - fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with
+- fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with
+tags:
+- mds-updrs
+title: Multisensory Dance Learning and Parkinson's Disease
+type: topic
 updated: 2026-05-04
 ---
 

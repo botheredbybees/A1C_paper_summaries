@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Radical Listening"
 confidence: low
-tags: ["radical-listening"]
+domain: intervention
+slug: radical-listening
 sources:
-  - fxa303-week06-puppet-theatre-a-way-to-tell-what-cannot-be-told-and-to
+- fxa303-week06-puppet-theatre-a-way-to-tell-what-cannot-be-told-and-to
+tags:
+- radical-listening
+title: Radical Listening
+type: topic
 updated: 2026-05-04
 ---
 

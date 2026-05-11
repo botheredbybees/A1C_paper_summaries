@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Humanistic Approach To Dementia"
 confidence: low
-tags: ["humanistic-approach-to-dementia"]
+domain: theory
+slug: humanistic-approach-to-dementia
 sources:
-  - fxa100-how-we-thnk-about-dementia-ch13-chapter-13
+- fxa100-how-we-thnk-about-dementia-ch13-chapter-13
+tags:
+- humanistic-approach-to-dementia
+title: Humanistic Approach To Dementia
+type: topic
 updated: 2026-05-04
 ---
 

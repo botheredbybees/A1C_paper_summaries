@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Person-Centered Language"
 confidence: low
-tags: ["inclusive-language"]
+domain: theory
+slug: person-centered-language
 sources:
-  - fxa100-week04-person-centred-language-guidelines
+- fxa100-week04-person-centred-language-guidelines
+tags:
+- inclusive-language
+title: Person-Centered Language
+type: topic
 updated: 2026-05-04
 ---
 

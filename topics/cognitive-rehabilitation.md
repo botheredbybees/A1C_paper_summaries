@@ -1,14 +1,16 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cognitive Rehabilitation"
 confidence: high
-tags: ["cognitive-rehabilitation"]
+domain: intervention
+slug: cognitive-rehabilitation
 sources:
-  - fxa100-excellence-in-dementia-care--ch09-chapter-15
-  - fxa100-week02-neuroplastic-effects-in-patients-with-traumatic-brain
-  - fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind
-  - fxa100-week08-transcript-hayes-j-2011-the-creative-arts-in-dementia-care
+- fxa100-excellence-in-dementia-care--ch09-chapter-15
+- fxa100-week02-neuroplastic-effects-in-patients-with-traumatic-brain
+- fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind
+- fxa100-week08-transcript-hayes-j-2011-the-creative-arts-in-dementia-care
+tags:
+- cognitive-rehabilitation
+title: Cognitive Rehabilitation
+type: topic
 updated: 2026-05-04
 ---
 

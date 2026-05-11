@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Expressive Writing Therapy for Traumatic Events"
 confidence: low
-tags: ["traumatic-events"]
+domain: intervention
+slug: expressive-writing-therapy-for-traumatic-events
 sources:
-  - fxa202-week09-expressive-writing-therapy-exercises-examples
+- fxa202-week09-expressive-writing-therapy-exercises-examples
+tags:
+- traumatic-events
+title: Expressive Writing Therapy for Traumatic Events
+type: topic
 updated: 2026-05-04
 ---
 

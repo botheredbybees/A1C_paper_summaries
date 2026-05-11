@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Improvisation Techniques"
 confidence: low
-tags: ["improvisation-techniques"]
+domain: intervention
+slug: improvisation-techniques
 sources:
-  - fxa100-week04-lesson-fxa100-week04-page-2-music-therapy-benefits
+- fxa100-week04-lesson-fxa100-week04-page-2-music-therapy-benefits
+tags:
+- improvisation-techniques
+title: Improvisation Techniques
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Death as a Natural Process"
 confidence: low
-tags: ["death-as-natural-process"]
+domain: theory
+slug: death-as-a-natural-process
 sources:
-  - fxa202-week09-critical-reflection-the-photo-essay
+- fxa202-week09-critical-reflection-the-photo-essay
+tags:
+- death-as-natural-process
+title: Death as a Natural Process
+type: topic
 updated: 2026-05-04
 ---
 

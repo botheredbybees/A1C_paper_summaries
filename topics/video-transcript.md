@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Video Transcript Unavailability"
 confidence: medium
-tags: ["video-transcript"]
+domain: method
+slug: video-transcript-unavailability
 sources:
   - fxa100-week02-transcript-duration-5-50-url-only
   - fxa303-week10-transcript-duration-9-54-url-only
-updated: 2026-05-04
+- fxa100-week02-transcript-duration-5-50-url-only
+- fxa303-week10-transcript-duration-9-54-url-only
+tags:
+- video-transcript
+title: Video Transcript Unavailability
+type: topic
+updated: 2026-05-11
 ---
 
 ## Video Transcript Unavailability

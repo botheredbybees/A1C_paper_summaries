@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Trauma Exposure in Children"
 confidence: low
-tags: ["trauma-exposure"]
+domain: intervention
+slug: trauma-exposure-in-children
 sources:
-  - fxa303-week09-using-creative-techniques-with-children-who-have
+- fxa303-week09-using-creative-techniques-with-children-who-have
+tags:
+- trauma-exposure
+title: Trauma Exposure in Children
+type: topic
 updated: 2026-05-04
 ---
 

@@ -11,7 +11,7 @@ tags: ["cross-cultural-dialogue", "wisdom-poetry", "universal-truths", "healing-
 key_concepts: ["cultural-wisdom", "poetic-healing", "transcendental-universality"]
 methods: ["qualitative-analysis"]
 slug: fxa301-week08-wisdom-poetry-trialogue
-related: ["creative-arts-health"]
+related: ["creative-arts-health", "cross-cultural-dialogue"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,3 +44,4 @@ The article 'Wisdom poetry trialogue' explores the concept of wisdom poetry thro
 ## See Also
 
 - [creative-arts-health](../topics/creative-arts-health.md)
+- [cross-cultural-dialogue](../topics/cross-cultural-dialogue.md)

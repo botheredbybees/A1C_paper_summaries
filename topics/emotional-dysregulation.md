@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Dysregulation"
 confidence: low
-tags: ["emotional-dysregulation"]
+domain: intervention
+slug: emotional-dysregulation
 sources:
-  - fxa303-week06-mr-fox-is-sad
+- fxa303-week06-mr-fox-is-sad
+tags:
+- emotional-dysregulation
+title: Emotional Dysregulation
+type: topic
 updated: 2026-05-04
 ---
 

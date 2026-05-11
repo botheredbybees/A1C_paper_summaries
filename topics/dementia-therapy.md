@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Dementia Therapy Through Creative Arts"
 confidence: medium
-tags: ["dementia-therapy"]
+domain: intervention
+slug: dementia-therapy-through-creative-arts
 sources:
   - fxa100-creativity-and-communication-ch01-10-playing-with-mud-ceramics-and-clay-claire-craig-clay-is
   - fxa100-creativity-and-communication-ch06-5-moving-in-the-moment-dance-john-killick-in-the-previous
   - fxa100-week08-web-article-gross-2016
-updated: 2026-05-05
+- fxa100-creativity-and-communication-ch01-10-playing-with-mud-ceramics-and-clay-claire-craig-clay-is
+- fxa100-creativity-and-communication-ch06-5-moving-in-the-moment-dance-john-killick-in-the-previous
+- fxa100-week08-web-article-gross-2016
+tags:
+- dementia-therapy
+title: Dementia Therapy Through Creative Arts
+type: topic
+updated: 2026-05-11
 ---
 
 ## Dementia Therapy Through Creative Arts

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Biophilic Design in Aged Care"
 confidence: low
-tags: ["biophilic-design"]
+domain: intervention
+slug: biophilic-design-in-aged-care
 sources:
-  - fxa202-week10-thinking-differently-about-aged-care
+- fxa202-week10-thinking-differently-about-aged-care
+tags:
+- biophilic-design
+title: Biophilic Design in Aged Care
+type: topic
 updated: 2026-05-04
 ---
 

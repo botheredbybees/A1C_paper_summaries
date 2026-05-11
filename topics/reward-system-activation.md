@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Reward System Activation"
 confidence: low
-tags: ["reward-system-activation"]
+domain: intervention
+slug: reward-system-activation
 sources:
-  - fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the
+- fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the
+tags:
+- reward-system-activation
+title: Reward System Activation
+type: topic
 updated: 2026-05-04
 ---
 

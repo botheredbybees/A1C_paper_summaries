@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "intervention"
-title: "Healing Through Personal Narratives"
 confidence: high
-tags: ["personal-narrative"]
+domain: intervention
+slug: healing-through-personal-narratives
 sources:
   - fxa202-week09-healing-through-art-and-music
   - fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health
   - fxa202-week09-the-largs-pier-a-visual-story-of-grief-and-healing
   - fxa202-week09-you-are-the-best-dancer
-updated: 2026-05-04
+- fxa202-week09-healing-through-art-and-music
+- fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health
+- fxa202-week09-the-largs-pier-a-visual-story-of-grief-and-healing
+- fxa202-week09-you-are-the-best-dancer
+tags:
+- personal-narrative
+title: Healing Through Personal Narratives
+type: topic
+updated: 2026-05-11
 ---
 
 ## Healing Through Personal Narratives

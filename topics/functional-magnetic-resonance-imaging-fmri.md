@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "method"
-title: "Functional Magnetic Resonance Imaging (Fmri)"
 confidence: medium
-tags: ["functional-magnetic-resonance-imaging-fmri"]
+domain: method
+slug: functional-magnetic-resonance-imaging-fmri
 sources:
-  - fxa100-week02-are-people-really-left-brained-or-right-brain
-  - fxa100-week06-visual-arts-and-the-brain
+- fxa100-week02-are-people-really-left-brained-or-right-brain
+- fxa100-week06-visual-arts-and-the-brain
+tags:
+- functional-magnetic-resonance-imaging-fmri
+title: Functional Magnetic Resonance Imaging (Fmri)
+type: topic
 updated: 2026-05-04
 ---
 

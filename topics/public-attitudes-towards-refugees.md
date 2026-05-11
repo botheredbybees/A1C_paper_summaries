@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Public Attitudes Towards Refugees"
 confidence: low
-tags: ["public-attitudes-towards-refugees"]
+domain: intervention
+slug: public-attitudes-towards-refugees
 sources:
-  - fxa303-week10-the-global-refugee-crisis-empirical-evidence-and-policy
+- fxa303-week10-the-global-refugee-crisis-empirical-evidence-and-policy
+tags:
+- public-attitudes-towards-refugees
+title: Public Attitudes Towards Refugees
+type: topic
 updated: 2026-05-04
 ---
 

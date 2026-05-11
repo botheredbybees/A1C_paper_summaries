@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Hypertension Prevalence Among Male International Migrants and Non-Migrants"
 confidence: low
-tags: ["hypertension-prevalence"]
+domain: population
+slug: hypertension-prevalence-among-male-international-migrants-and-non-migrants
 sources:
-  - fxa303-week10-health-and-well-being-of-male-international-migrants-and
+- fxa303-week10-health-and-well-being-of-male-international-migrants-and
+tags:
+- hypertension-prevalence
+title: Hypertension Prevalence Among Male International Migrants and Non-Migrants
+type: topic
 updated: 2026-05-04
 ---
 

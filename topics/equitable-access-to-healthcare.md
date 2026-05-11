@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Equitable Access To Healthcare"
 confidence: low
-tags: ["equitable-access-to-healthcare"]
+domain: intervention
+slug: equitable-access-to-healthcare
 sources:
-  - fxa301-week03-introduction-to-creative-health-extract
+- fxa301-week03-introduction-to-creative-health-extract
+tags:
+- equitable-access-to-healthcare
+title: Equitable Access To Healthcare
+type: topic
 updated: 2026-05-04
 ---
 

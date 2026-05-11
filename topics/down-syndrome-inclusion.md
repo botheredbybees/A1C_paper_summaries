@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Inclusion of Individuals with Down Syndrome in the Art World"
 confidence: low
-tags: ["down-syndrome-inclusion"]
+domain: intervention
+slug: inclusion-of-individuals-with-down-syndrome-in-the-art-world
 sources:
-  - fxa301-week09-how-josie-webster-is-conquering-the-art-world-with
+- fxa301-week09-how-josie-webster-is-conquering-the-art-world-with
+tags:
+- down-syndrome-inclusion
+title: Inclusion of Individuals with Down Syndrome in the Art World
+type: topic
 updated: 2026-05-04
 ---
 

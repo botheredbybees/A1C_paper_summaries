@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Interrai Home Care Instrument"
 confidence: low
-tags: ["interrai-home-care-instrument"]
+domain: method
+slug: interrai-home-care-instrument
 sources:
-  - fxa100-week08-development-of-a-novel-benchmark-method-to-identify-and
+- fxa100-week08-development-of-a-novel-benchmark-method-to-identify-and
+tags:
+- interrai-home-care-instrument
+title: Interrai Home Care Instrument
+type: topic
 updated: 2026-05-04
 ---
 

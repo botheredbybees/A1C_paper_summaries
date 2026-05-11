@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Metaphorical Conflict Resolution"
 confidence: low
-tags: ["metaphorical-conflict-resolution"]
+domain: intervention
+slug: metaphorical-conflict-resolution
 sources:
-  - fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the
+- fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the
+tags:
+- metaphorical-conflict-resolution
+title: Metaphorical Conflict Resolution
+type: topic
 updated: 2026-05-04
 ---
 

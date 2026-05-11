@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Musical Preference Patterns"
 confidence: low
-tags: ["musical-preference-patterns"]
+domain: theory
+slug: musical-preference-patterns
 sources:
-  - fxa100-week03-musical-preferences-may-reflect-cognitive-style
+- fxa100-week03-musical-preferences-may-reflect-cognitive-style
+tags:
+- musical-preference-patterns
+title: Musical Preference Patterns
+type: topic
 updated: 2026-05-04
 ---
 

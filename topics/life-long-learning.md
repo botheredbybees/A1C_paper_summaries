@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Life-Long Learning"
 confidence: low
-tags: ["life-long-learning"]
+domain: intervention
+slug: life-long-learning
 sources:
-  - fxa100-week04-engaging-in-community-music-an-introduction
+- fxa100-week04-engaging-in-community-music-an-introduction
+tags:
+- life-long-learning
+title: Life-Long Learning
+type: topic
 updated: 2026-05-04
 ---
 

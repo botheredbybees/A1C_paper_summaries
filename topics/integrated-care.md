@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Integrated Care"
 confidence: low
-tags: ["integrated-care"]
+domain: intervention
+slug: integrated-care
 sources:
-  - fxa303-week03-social-prescribing-roundtable-november-2019-report
+- fxa303-week03-social-prescribing-roundtable-november-2019-report
+tags:
+- integrated-care
+title: Integrated Care
+type: topic
 updated: 2026-05-04
 ---
 

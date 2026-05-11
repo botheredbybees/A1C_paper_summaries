@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Flood-Recovery through Community-Based Initiatives"
 confidence: medium
-tags: ["flood-recovery"]
+domain: intervention
+slug: flood-recovery-through-community-based-initiatives
 sources:
   - fxa303-week09-the-afloat-project-(2)
   - fxa303-week09-web-article-creative-2023
-updated: 2026-05-04
+- fxa303-week09-the-afloat-project-(2)
+- fxa303-week09-web-article-creative-2023
+tags:
+- flood-recovery
+title: Flood-Recovery through Community-Based Initiatives
+type: topic
+updated: 2026-05-11
 ---
 
 ## Flood-Recovery through Community-Based Initiatives

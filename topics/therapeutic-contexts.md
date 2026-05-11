@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Contexts in Creative Arts"
 confidence: low
-tags: ["therapeutic-contexts"]
+domain: intervention
+slug: therapeutic-contexts-in-creative-arts
 sources:
-  - fxa303-week06-lesson-fxa303-week06-page-1-overview
+- fxa303-week06-lesson-fxa303-week06-page-1-overview
+tags:
+- therapeutic-contexts
+title: Therapeutic Contexts in Creative Arts
+type: topic
 updated: 2026-05-04
 ---
 

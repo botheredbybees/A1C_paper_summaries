@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Self-Therapy"
 confidence: low
-tags: ["self-therapy"]
+domain: intervention
+slug: self-therapy
 sources:
-  - fxa202-week08-week-8-lecture-notes-editing-your-images-(3)
+- fxa202-week08-week-8-lecture-notes-editing-your-images-(3)
+tags:
+- self-therapy
+title: Self-Therapy
+type: topic
 updated: 2026-05-04
 ---
 

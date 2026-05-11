@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Fear and Pain Reduction Techniques"
 confidence: low
-tags: ["fear-and-pain-reduction"]
+domain: intervention
+slug: fear-and-pain-reduction-techniques
 sources:
-  - fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for
+- fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for
+tags:
+- fear-and-pain-reduction
+title: Fear and Pain Reduction Techniques
+type: topic
 updated: 2026-05-04
 ---
 

@@ -11,7 +11,7 @@ tags: ["disability-advocacy", "language-use-in-media", "social-model-of-disabili
 key_concepts: ["person-first-language", "identity-first-language", "ableist-language"]
 methods: []
 slug: fxa301-week09-pwda-language-guide-a-guide-to-language-about-disability
-related: ["social-model-of-disability"]
+related: ["disability-advocacy", "social-model-of-disability"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,4 +43,5 @@ The document also addresses the importance of the social model of disability ove
 
 ## See Also
 
+- [disability-advocacy](../topics/disability-advocacy.md)
 - [social-model-of-disability](../topics/social-model-of-disability.md)

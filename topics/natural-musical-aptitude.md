@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Natural Musical Aptitude"
 confidence: low
-tags: ["natural-musical-aptitude"]
+domain: theory
+slug: natural-musical-aptitude
 sources:
-  - fxa301-week02-are-we-experienced-listeners-a-review-of-the-musical
+- fxa301-week02-are-we-experienced-listeners-a-review-of-the-musical
+tags:
+- natural-musical-aptitude
+title: Natural Musical Aptitude
+type: topic
 updated: 2026-05-04
 ---
 

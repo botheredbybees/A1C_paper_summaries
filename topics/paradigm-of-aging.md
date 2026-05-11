@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Paradigm Of Aging"
 confidence: low
-tags: ["paradigm-of-aging"]
+domain: theory
+slug: paradigm-of-aging
 sources:
-  - fxa100-how-we-thnk-about-dementia-ch05-chapter-11
+- fxa100-how-we-thnk-about-dementia-ch05-chapter-11
+tags:
+- paradigm-of-aging
+title: Paradigm Of Aging
+type: topic
 updated: 2026-05-04
 ---
 

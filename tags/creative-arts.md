@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-arts
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Creative Arts
@@ -20,6 +20,7 @@ updated: 2026-05-06
 - [Public Health Perspective and Government Recognition of Creative Arts](../sources/fxa301-week03-lesson-fxa301-week03-page-3.md)
 - [The Effect of a Creative Art Program on Self-Esteem, Hope, Perceived Social Support, and Self-Efficacy in Individuals With Multiple Sclerosis: A Pilot Study](../sources/fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope.md)
 - [Creative Arts, Mental Health and Trauma](../sources/fxa301-week10-lesson-fxa301-week10-page-1.md)
+- [Creative Arts and Social Inclusion](../sources/fxa301-week11-lesson-fxa301-week11-page-1.md)
 - [Developmental Role of Creative Arts and Play](../sources/fxa303-week02-developmental-role-of-creative-arts-and-play.md)
 - [FXA303 Week 2: Child Development and Creative Arts](../sources/fxa303-week02-fxa303-week-2-child-development-and-creative-arts.md)
 - [FXA303 Creative Arts, Play and Mental Wellbeing - Week 2 Overview](../sources/fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview.md)
@@ -42,3 +43,6 @@ updated: 2026-05-06
 - [Trauma-Informed Design for Creative Arts and Play Projects](../sources/fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design.md)
 - [Creative Arts, Play and Mental Wellbeing: Case Studies on Trauma Recovery](../sources/fxa303-week09-lesson-fxa303-week09-page-3-case-studies.md)
 - [Week 10 Overview: Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week10-lesson-fxa303-week10-page-1-overview.md)
+- [Creative Arts, Gender Diversity and Mental Wellbeing](../sources/fxa303-week11-lesson-fxa303-week11-page-2.md)
+- [Creative Arts and Disadvantaged Youth](../sources/fxa303-week11-lesson-fxa303-week11-page-3.md)
+- [Queering Queer Spaces: Journey of a Creative Arts Program for Trans, Non-Binary, and Gender Creative Youth](../sources/fxa303-week11-web-article-hardy-2019.md)

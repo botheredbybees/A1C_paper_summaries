@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Self-Esteem Through Art"
 confidence: low
-tags: ["self-esteem-through-art"]
+domain: intervention
+slug: self-esteem-through-art
 sources:
-  - fxa100-week04-transcript-music-therapy-with-dementia-canadian-music
+- fxa100-week04-transcript-music-therapy-with-dementia-canadian-music
+tags:
+- self-esteem-through-art
+title: Self-Esteem Through Art
+type: topic
 updated: 2026-05-04
 ---
 

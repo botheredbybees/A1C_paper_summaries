@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Probabilistic Models in Cognitive Development"
 confidence: low
-tags: ["probabilistic-models"]
+domain: theory
+slug: probabilistic-models-in-cognitive-development
 sources:
-  - fxa303-week02-scientific-thinking-in-young-children-theoretical-advances
+- fxa303-week02-scientific-thinking-in-young-children-theoretical-advances
+tags:
+- probabilistic-models
+title: Probabilistic Models in Cognitive Development
+type: topic
 updated: 2026-05-04
 ---
 

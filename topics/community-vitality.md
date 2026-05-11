@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Community Vitality Through Murals"
 confidence: low
-tags: ["community-vitality"]
+domain: intervention
+slug: community-vitality-through-murals
 sources:
-  - fxa301-week05-how-murals-helped-turn-a-declining-community-around
+- fxa301-week05-how-murals-helped-turn-a-declining-community-around
+tags:
+- community-vitality
+title: Community Vitality Through Murals
+type: topic
 updated: 2026-05-04
 ---
 

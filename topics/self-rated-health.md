@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Self-Rated Health Among Male International Migrants"
 confidence: low
-tags: ["self-rated-health"]
+domain: population
+slug: self-rated-health-among-male-international-migrants
 sources:
-  - fxa303-week10-health-and-well-being-of-male-international-migrants-and
+- fxa303-week10-health-and-well-being-of-male-international-migrants-and
+tags:
+- self-rated-health
+title: Self-Rated Health Among Male International Migrants
+type: topic
 updated: 2026-05-04
 ---
 

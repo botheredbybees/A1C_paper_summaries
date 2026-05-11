@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Integration of Personality Through Dance Therapy"
 confidence: low
-tags: ["integration-of-personality"]
+domain: intervention
+slug: integration-of-personality-through-dance-therapy
 sources:
-  - fxa100-week09-transcript-this-video-clip-from-the-american-dance-therapy
+- fxa100-week09-transcript-this-video-clip-from-the-american-dance-therapy
+tags:
+- integration-of-personality
+title: Integration of Personality Through Dance Therapy
+type: topic
 updated: 2026-05-04
 ---
 

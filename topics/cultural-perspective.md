@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Visual Literacy and Cultural Context"
 confidence: low
-tags: ["cultural-perspective"]
+domain: theory
+slug: visual-literacy-and-cultural-context
 sources:
-  - fxa301-make-arts-for-a-better-life-ch16-1-create-an-inventory-of-the-content-elements-(2)
+- fxa301-make-arts-for-a-better-life-ch16-1-create-an-inventory-of-the-content-elements-(2)
+tags:
+- cultural-perspective
+title: Visual Literacy and Cultural Context
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "theory"
-title: "Ethics In Healthcare And Research"
 confidence: medium
-tags: ["ethics"]
+domain: theory
+slug: ethics-in-healthcare-and-research
 sources:
   - fxa100-how-we-thnk-about-dementia-ch08-chapter-4
   - fxa301-arts-in-health-ch76-3-responsibility
-updated: 2026-05-04
+- fxa100-how-we-thnk-about-dementia-ch08-chapter-4
+- fxa301-arts-in-health-ch76-3-responsibility
+tags:
+- ethics
+title: Ethics In Healthcare And Research
+type: topic
+updated: 2026-05-11
 ---
 
 ## Ethics In Healthcare And Research

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: child-development
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Child Development
@@ -29,3 +29,4 @@ updated: 2026-05-06
 - [The effect of medical/therapeutic clowns on the playfulness of children with intellectual disabilities](../sources/fxa303-week08-the-effect-of-medicaltherapeutic-clowns-on-the-playfulness.md)
 - [We Are All Born Creative: Art Workshops for Resilience](../sources/fxa303-week09-transcript-arts-mid-north-coast-we-are-all-born-creative.md)
 - [FXA303 Web Lecture Week 10 - Guidance on Assessment Task 4](../sources/fxa303-week10-fxa303-web-lecture-week-10-guidance-on-assessment-task-4.md)
+- [What is the evidence on the role of the arts in improving health and well-being? A scoping review](../sources/fxa303-week11-web-article-fancourt-2019.md)

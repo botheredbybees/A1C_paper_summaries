@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Interpretative Phenomenological Analysis"
 confidence: low
-tags: ["interpretative-phenomenological-analysis"]
+domain: method
+slug: interpretative-phenomenological-analysis
 sources:
-  - fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the
+- fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the
+tags:
+- interpretative-phenomenological-analysis
+title: Interpretative Phenomenological Analysis
+type: topic
 updated: 2026-05-04
 ---
 

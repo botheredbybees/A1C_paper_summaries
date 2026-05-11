@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Image Resizing Techniques"
 confidence: low
-tags: ["resizing"]
+domain: method
+slug: image-resizing-techniques
 sources:
-  - fxa202-week08-making-basic-adjustments-tutorial-at-gcflearnfree
+- fxa202-week08-making-basic-adjustments-tutorial-at-gcflearnfree
+tags:
+- resizing
+title: Image Resizing Techniques
+type: topic
 updated: 2026-05-04
 ---
 

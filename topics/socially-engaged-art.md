@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Socially Engaged Art"
 confidence: low
-tags: ["socially-engaged-art"]
+domain: intervention
+slug: socially-engaged-art
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch23-1-a-research-project-that-examined-how-participation-can-be
+- fxa301-oxford-textbook-of-creative-arts-ch23-1-a-research-project-that-examined-how-participation-can-be
+tags:
+- socially-engaged-art
+title: Socially Engaged Art
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Multidisciplinary Approaches in International Migration Studies"
 confidence: low
-tags: ["multidisciplinary-approaches"]
+domain: method
+slug: multidisciplinary-approaches-in-international-migration-studies
 sources:
-  - fxa303-week10-researching-arts-culture-migration-and-change-a-multi
+- fxa303-week10-researching-arts-culture-migration-and-change-a-multi
+tags:
+- multidisciplinary-approaches
+title: Multidisciplinary Approaches in International Migration Studies
+type: topic
 updated: 2026-05-04
 ---
 

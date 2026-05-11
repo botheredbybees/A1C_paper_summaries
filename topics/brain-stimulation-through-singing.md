@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Brain Stimulation Through Singing"
 confidence: low
-tags: ["brain-stimulation-through-singing"]
+domain: intervention
+slug: brain-stimulation-through-singing
 sources:
-  - fxa100-week04-singing-and-the-brain
+- fxa100-week04-singing-and-the-brain
+tags:
+- brain-stimulation-through-singing
+title: Brain Stimulation Through Singing
+type: topic
 updated: 2026-05-04
 ---
 

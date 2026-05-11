@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Past-Tense Usage"
 confidence: low
-tags: ["past-tense"]
+domain: theory
+slug: past-tense-usage
 sources:
-  - fxa202-week05-narrative-tense-right-now-or-way-back-then
+- fxa202-week05-narrative-tense-right-now-or-way-back-then
+tags:
+- past-tense
+title: Past-Tense Usage
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Laughter Therapy"
 confidence: low
-tags: ["laughter-therapy"]
+domain: intervention
+slug: laughter-therapy
 sources:
-  - fxa301-week08-lesson-fxa301-week07-page-2-hm-copy
+- fxa301-week08-lesson-fxa301-week07-page-2-hm-copy
+tags:
+- laughter-therapy
+title: Laughter Therapy
+type: topic
 updated: 2026-05-04
 ---
 

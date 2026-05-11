@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Happy Museum Project"
 confidence: medium
-tags: ["happy-museum-project"]
+domain: intervention
+slug: happy-museum-project
 sources:
-  - fxa301-week05-case-studies-of-visual-arts-with-and-for-communities
-  - fxa301-week05-lesson-fxa301-week05-page-2-hm-take-2-with-newer-content
+- fxa301-week05-case-studies-of-visual-arts-with-and-for-communities
+- fxa301-week05-lesson-fxa301-week05-page-2-hm-take-2-with-newer-content
+tags:
+- happy-museum-project
+title: Happy Museum Project
+type: topic
 updated: 2026-05-04
 ---
 

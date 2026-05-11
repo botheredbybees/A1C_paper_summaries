@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Visual Ethnography"
 confidence: low
-tags: ["visual-ethnography"]
+domain: method
+slug: visual-ethnography
 sources:
-  - fxa301-week05-viewpoints-visual-anthropologists-at-work
+- fxa301-week05-viewpoints-visual-anthropologists-at-work
+tags:
+- visual-ethnography
+title: Visual Ethnography
+type: topic
 updated: 2026-05-04
 ---
 

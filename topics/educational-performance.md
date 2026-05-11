@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Educational Performance"
 confidence: low
-tags: ["educational-performance"]
+domain: intervention
+slug: educational-performance
 sources:
-  - fxa301-week06-case-studies-of-community-projects-big-noise-sistema
+- fxa301-week06-case-studies-of-community-projects-big-noise-sistema
+tags:
+- educational-performance
+title: Educational Performance
+type: topic
 updated: 2026-05-04
 ---
 

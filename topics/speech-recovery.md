@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Speech Recovery Through Music and Arts"
 confidence: medium
-tags: ["speech-recovery"]
+domain: intervention
+slug: speech-recovery-through-music-and-arts
 sources:
-  - fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care
-  - fxa301-week09-stroke-choirs-stroke-recovery-association-nsw
+- fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care
+- fxa301-week09-stroke-choirs-stroke-recovery-association-nsw
+tags:
+- speech-recovery
+title: Speech Recovery Through Music and Arts
+type: topic
 updated: 2026-05-04
 ---
 

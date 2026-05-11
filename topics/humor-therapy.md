@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "intervention"
-title: "Humor Therapy"
 confidence: medium
-tags: ["humor-therapy"]
+domain: intervention
+slug: humor-therapy
 sources:
-  - fxa100-creativity-and-communication-ch07-7-making-it-all-up-improvisation-and-other-dramas-john
-  - fxa303-play-for-health-across-the-lifespan-ch02-chapter-8
-  - fxa303-week08-lesson-fxa303-week08-page-3-therapeutic-clowning
+- fxa100-creativity-and-communication-ch07-7-making-it-all-up-improvisation-and-other-dramas-john
+- fxa303-play-for-health-across-the-lifespan-ch02-chapter-8
+- fxa303-week08-lesson-fxa303-week08-page-3-therapeutic-clowning
+tags:
+- humor-therapy
+title: Humor Therapy
+type: topic
 updated: 2026-05-04
 ---
 

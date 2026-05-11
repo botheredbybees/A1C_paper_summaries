@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Gender-Based Considerations in Autism Interventions"
 confidence: low
-tags: ["gender-based-considerations"]
+domain: intervention
+slug: gender-based-considerations-in-autism-interventions
 sources:
-  - fxa303-week04-brief-report-emotion-regulation-in-autism-is-improved-in-a
+- fxa303-week04-brief-report-emotion-regulation-in-autism-is-improved-in-a
+tags:
+- gender-based-considerations
+title: Gender-Based Considerations in Autism Interventions
+type: topic
 updated: 2026-05-04
 ---
 

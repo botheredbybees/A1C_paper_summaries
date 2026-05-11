@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Alzheimer's Disease"
 confidence: medium
-tags: ["alzheimer-disease"]
+domain: intervention
+slug: alzheimer-s-disease
 sources:
   - fxa100-week01-what-is-alzheimers-disease-video-transcript
   - fxa100-week08-transcript-hayes-j-2011-the-creative-arts-in-dementia-care
   - fxa303-week04-dsm-5-tr-neurocognitive-disorders-supplement
-updated: 2026-05-04
+- fxa100-week01-what-is-alzheimers-disease-video-transcript
+- fxa100-week08-transcript-hayes-j-2011-the-creative-arts-in-dementia-care
+- fxa303-week04-dsm-5-tr-neurocognitive-disorders-supplement
+tags:
+- alzheimer-disease
+title: Alzheimer's Disease
+type: topic
+updated: 2026-05-11
 ---
 
 ## Alzheimer's Disease

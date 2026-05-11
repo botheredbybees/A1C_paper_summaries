@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Self-Awareness Through Creative and Expressive Practices"
 confidence: medium
-tags: ["self-awareness"]
+domain: intervention
+slug: self-awareness-through-creative-and-expressive-practices
 sources:
-  - fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it
-  - fxa202-week09-guide-to-journaling
+- fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it
+- fxa202-week09-guide-to-journaling
+tags:
+- self-awareness
+title: Self-Awareness Through Creative and Expressive Practices
+type: topic
 updated: 2026-05-04
 ---
 

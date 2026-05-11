@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Monetization Pathways in Health Interventions"
 confidence: low
-tags: ["monetization-pathways"]
+domain: intervention
+slug: monetization-pathways-in-health-interventions
 sources:
-  - fxa100-week03-alzheimers-disease-music-engagement-quality-of-life
+- fxa100-week03-alzheimers-disease-music-engagement-quality-of-life
+tags:
+- monetization-pathways
+title: Monetization Pathways in Health Interventions
+type: topic
 updated: 2026-05-04
 ---
 

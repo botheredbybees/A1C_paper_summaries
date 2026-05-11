@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Healthcare Improvement Strategies"
 confidence: medium
-tags: ["healthcare-improvement"]
+domain: intervention
+slug: healthcare-improvement-strategies
 sources:
   - fxa100-week04-conceptualizing-and-planning-interventions
   - fxa301-week08-impact-summary-clown-doctors-australia
   - fxa301-week08-social-impact-report-year-to-30-june-2025
-updated: 2026-05-04
+- fxa100-week04-conceptualizing-and-planning-interventions
+- fxa301-week08-impact-summary-clown-doctors-australia
+- fxa301-week08-social-impact-report-year-to-30-june-2025
+tags:
+- healthcare-improvement
+title: Healthcare Improvement Strategies
+type: topic
+updated: 2026-05-11
 ---
 
 ## Healthcare Improvement Strategies

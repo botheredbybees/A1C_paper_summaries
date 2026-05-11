@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music Therapy and Executive Function Improvement"
 confidence: low
-tags: ["executive-functioning-improvement"]
+domain: intervention
+slug: music-therapy-and-executive-function-improvement
 sources:
-  - fxa100-week02-how-music-helps-to-heal-the-injured-brain-therapeutic-use
+- fxa100-week02-how-music-helps-to-heal-the-injured-brain-therapeutic-use
+tags:
+- executive-functioning-improvement
+title: Music Therapy and Executive Function Improvement
+type: topic
 updated: 2026-05-04
 ---
 

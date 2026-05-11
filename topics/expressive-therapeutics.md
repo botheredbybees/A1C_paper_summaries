@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Expressive Therapeutics"
 confidence: low
-tags: ["expressive-therapeutics"]
+domain: intervention
+slug: expressive-therapeutics
 sources:
-  - fxa303-week06-a-review-of-the-literature-the-use-of-interactive-puppet
+- fxa303-week06-a-review-of-the-literature-the-use-of-interactive-puppet
+tags:
+- expressive-therapeutics
+title: Expressive Therapeutics
+type: topic
 updated: 2026-05-04
 ---
 

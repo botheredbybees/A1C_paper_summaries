@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Neurological Recovery"
 confidence: low
-tags: ["neurological-recovery"]
+domain: intervention
+slug: neurological-recovery
 sources:
-  - fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video
+- fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video
+tags:
+- neurological-recovery
+title: Neurological Recovery
+type: topic
 updated: 2026-05-04
 ---
 

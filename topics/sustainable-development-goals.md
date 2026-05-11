@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Health and Sustainable Development Goals"
 confidence: low
-tags: ["sustainable-development-goals"]
+domain: intervention
+slug: creative-health-and-sustainable-development-goals
 sources:
-  - fxa301-week03-implementing-creative-health
+- fxa301-week03-implementing-creative-health
+tags:
+- sustainable-development-goals
+title: Creative Health and Sustainable Development Goals
+type: topic
 updated: 2026-05-04
 ---
 

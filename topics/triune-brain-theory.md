@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Triune Brain Theory"
 confidence: low
-tags: ["triune-brain-theory"]
+domain: theory
+slug: triune-brain-theory
 sources:
-  - fxa303-week03-rebuilding-the-brain-with-psychotherapy
+- fxa303-week03-rebuilding-the-brain-with-psychotherapy
+tags:
+- triune-brain-theory
+title: Triune Brain Theory
+type: topic
 updated: 2026-05-04
 ---
 

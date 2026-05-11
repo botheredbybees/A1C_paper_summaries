@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Regulation"
 confidence: high
-tags: ["emotional-regulation"]
+domain: intervention
+slug: emotional-regulation
 sources:
   - fxa301-week02-the-brain-and-how-we-perceive-information
   - fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and
@@ -13,7 +11,20 @@ sources:
   - fxa303-week06-lesson-fxa303-week06-page-4-week-6-activities
   - fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping
   - fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental
-updated: 2026-05-05
+  - fxa303-week11-lesson-fxa303-week11-page-1-overview
+- fxa301-week02-the-brain-and-how-we-perceive-information
+- fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and
+- fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd
+- fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children
+- fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental
+- fxa303-week06-lesson-fxa303-week06-page-4-week-6-activities
+- fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping
+- fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental
+tags:
+- emotional-regulation
+title: Emotional Regulation
+type: topic
+updated: 2026-05-11
 ---
 
 ## Emotional Regulation
@@ -40,3 +51,4 @@ The synthesis integrates various aspects of emotional regulation across diverse 
 - [fxa303-week06-lesson-fxa303-week06-page-4-week-6-activities](../sources/fxa303-week06-lesson-fxa303-week06-page-4-week-6-activities.md)
 - [fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping](../sources/fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping.md)
 - [fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental](../sources/fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental.md)
+- [fxa303-week11-lesson-fxa303-week11-page-1-overview](../sources/fxa303-week11-lesson-fxa303-week11-page-1-overview.md)

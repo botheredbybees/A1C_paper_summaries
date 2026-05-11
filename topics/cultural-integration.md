@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cultural Integration in Musical Production"
 confidence: medium
-tags: ["cultural-integration"]
+domain: intervention
+slug: cultural-integration-in-musical-production
 sources:
   - fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration
   - fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration-(2)
   - fxa303-week10-arts-and-refugees-multidisciplinary-perspectives-vol-2
-updated: 2026-05-05
+- fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration
+- fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration-(2)
+- fxa303-week10-arts-and-refugees-multidisciplinary-perspectives-vol-2
+tags:
+- cultural-integration
+title: Cultural Integration in Musical Production
+type: topic
+updated: 2026-05-11
 ---
 
 ## Cultural Integration in Musical Production

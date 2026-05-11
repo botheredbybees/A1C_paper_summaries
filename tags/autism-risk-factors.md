@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: autism-risk-factors
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Autism Risk Factors

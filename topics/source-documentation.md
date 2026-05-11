@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Source Documentation in Visual Research"
 confidence: low
-tags: ["source-documentation"]
+domain: method
+slug: source-documentation-in-visual-research
 sources:
-  - fxa202-week08-the-journal-and-visual-research
+- fxa202-week08-the-journal-and-visual-research
+tags:
+- source-documentation
+title: Source Documentation in Visual Research
+type: topic
 updated: 2026-05-04
 ---
 

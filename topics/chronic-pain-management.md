@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Chronic Pain Management Through Creative Therapies"
 confidence: medium
-tags: ["chronic-pain-management"]
+domain: intervention
+slug: chronic-pain-management-through-creative-therapies
 sources:
   - fxa202-week09-healing-through-art-and-music
   - fxa301-week08-lesson-fxa301-week07-page-3-hm
-updated: 2026-05-04
+- fxa202-week09-healing-through-art-and-music
+- fxa301-week08-lesson-fxa301-week07-page-3-hm
+tags:
+- chronic-pain-management
+title: Chronic Pain Management Through Creative Therapies
+type: topic
+updated: 2026-05-11
 ---
 
 ## Chronic Pain Management Through Creative Therapies

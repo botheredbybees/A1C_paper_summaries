@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Concept A"
 confidence: low
-tags: ["concept-a"]
+domain: theory
+slug: concept-a
 sources:
-  - fxa100-week06-test-paper-title
+- fxa100-week06-test-paper-title
+tags:
+- concept-a
+title: Concept A
+type: topic
 updated: 2026-05-04
 ---
 

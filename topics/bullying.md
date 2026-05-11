@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Bullying and Its Impact on Adolescent Mental Health"
 confidence: low
-tags: ["bullying"]
+domain: intervention
+slug: bullying-and-its-impact-on-adolescent-mental-health
 sources:
-  - fxa303-week03-mission-australia-youth-survey-information
+- fxa303-week03-mission-australia-youth-survey-information
+tags:
+- bullying
+title: Bullying and Its Impact on Adolescent Mental Health
+type: topic
 updated: 2026-05-04
 ---
 

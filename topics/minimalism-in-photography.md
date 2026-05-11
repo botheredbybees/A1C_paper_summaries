@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Minimalism In Photography"
 confidence: low
-tags: ["minimalism-in-photography"]
+domain: intervention
+slug: minimalism-in-photography
 sources:
-  - fxa202-week02-negative-space-in-photography-and-positive-space
+- fxa202-week02-negative-space-in-photography-and-positive-space
+tags:
+- minimalism-in-photography
+title: Minimalism In Photography
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Informed Consent Process"
 confidence: low
-tags: ["informed-consent-process"]
+domain: method
+slug: informed-consent-process
 sources:
-  - fxa100-week04-research-ethics-in-arts-in-health-interventions
+- fxa100-week04-research-ethics-in-arts-in-health-interventions
+tags:
+- informed-consent-process
+title: Informed Consent Process
+type: topic
 updated: 2026-05-04
 ---
 

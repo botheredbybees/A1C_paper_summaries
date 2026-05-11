@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Radial Diffusivity in White Matter"
 confidence: low
-tags: ["radial-diffusivity-rd"]
+domain: method
+slug: radial-diffusivity-in-white-matter
 sources:
-  - fxa303-week04-age-related-differences-in-white-matter-diffusion-measures
+- fxa303-week04-age-related-differences-in-white-matter-diffusion-measures
+tags:
+- radial-diffusivity-rd
+title: Radial Diffusivity in White Matter
+type: topic
 updated: 2026-05-04
 ---
 

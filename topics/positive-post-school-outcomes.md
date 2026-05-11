@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Positive Post-School Outcomes"
 confidence: low
-tags: ["positive-post-school-outcomes"]
+domain: intervention
+slug: positive-post-school-outcomes
 sources:
-  - fxa301-week06-statistical-analysis-of-educational-outcomes-among-big
+- fxa301-week06-statistical-analysis-of-educational-outcomes-among-big
+tags:
+- positive-post-school-outcomes
+title: Positive Post-School Outcomes
+type: topic
 updated: 2026-05-04
 ---
 

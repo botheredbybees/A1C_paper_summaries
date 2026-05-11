@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Fun Levels in Therapeutic Settings"
 confidence: low
-tags: ["fun-levels"]
+domain: intervention
+slug: fun-levels-in-therapeutic-settings
 sources:
-  - fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent
+- fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent
+tags:
+- fun-levels
+title: Fun Levels in Therapeutic Settings
+type: topic
 updated: 2026-05-04
 ---
 

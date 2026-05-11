@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Creative Research Methodologies"
 confidence: medium
-tags: ["creative-research"]
+domain: method
+slug: creative-research-methodologies
 sources:
   - fxa100-week04-a-step-by-step-approach-to-the-research-process
   - fxa301-week01-web-article-mcgann-2024
-updated: 2026-05-04
+- fxa100-week04-a-step-by-step-approach-to-the-research-process
+- fxa301-week01-web-article-mcgann-2024
+tags:
+- creative-research
+title: Creative Research Methodologies
+type: topic
+updated: 2026-05-11
 ---
 
 ## Creative Research Methodologies

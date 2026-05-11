@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Character Strengths and Resilience"
 confidence: low
-tags: ["character-strengths"]
+domain: theory
+slug: character-strengths-and-resilience
 sources:
-  - fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and
+- fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and
+tags:
+- character-strengths
+title: Character Strengths and Resilience
+type: topic
 updated: 2026-05-04
 ---
 

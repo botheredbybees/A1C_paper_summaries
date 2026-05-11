@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cognitive Engagement Through Creative Activities"
 confidence: medium
-tags: ["cognitive-engagement"]
+domain: intervention
+slug: cognitive-engagement-through-creative-activities
 sources:
   - fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care
   - fxa100-week06-art-creativity
-updated: 2026-05-04
+- fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care
+- fxa100-week06-art-creativity
+tags:
+- cognitive-engagement
+title: Cognitive Engagement Through Creative Activities
+type: topic
+updated: 2026-05-11
 ---
 
 ## Cognitive Engagement Through Creative Activities

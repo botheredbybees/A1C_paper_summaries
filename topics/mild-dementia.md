@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Dance Movement Therapy and Mild Dementia"
 confidence: low
-tags: ["mild-dementia"]
+domain: intervention
+slug: dance-movement-therapy-and-mild-dementia
 sources:
-  - fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and
+- fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and
+tags:
+- mild-dementia
+title: Dance Movement Therapy and Mild Dementia
+type: topic
 updated: 2026-05-04
 ---
 

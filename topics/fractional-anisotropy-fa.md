@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Fractional Anisotropy in White Matter Diffusion"
 confidence: low
-tags: ["fractional-anisotropy-fa"]
+domain: method
+slug: fractional-anisotropy-in-white-matter-diffusion
 sources:
-  - fxa303-week04-age-related-differences-in-white-matter-diffusion-measures
+- fxa303-week04-age-related-differences-in-white-matter-diffusion-measures
+tags:
+- fractional-anisotropy-fa
+title: Fractional Anisotropy in White Matter Diffusion
+type: topic
 updated: 2026-05-04
 ---
 

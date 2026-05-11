@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Subversive Nature of Punch & Judy"
 confidence: low
-tags: ["subversive-nature-of-punch"]
+domain: intervention
+slug: subversive-nature-of-punch-judy
 sources:
-  - fxa303-week05-thats-the-way-to-do-it-a-history-of-punch-judy
+- fxa303-week05-thats-the-way-to-do-it-a-history-of-punch-judy
+tags:
+- subversive-nature-of-punch
+title: Subversive Nature of Punch & Judy
+type: topic
 updated: 2026-05-04
 ---
 

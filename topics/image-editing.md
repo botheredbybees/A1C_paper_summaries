@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "method"
-title: "Image Editing Techniques"
 confidence: high
-tags: ["image-editing"]
+domain: method
+slug: image-editing-techniques
 sources:
   - fxa202-week08-how-to-merge-and-combine-images-in-photoshop
   - fxa202-week08-lesson-fxa202-week08-page-2-editing-your-images
@@ -12,7 +10,18 @@ sources:
   - fxa202-week08-making-basic-adjustments-tutorial-at-gcflearnfree
   - fxa202-week08-week-8-web-lecture-editing-your-images
   - fxa202-week09-lesson-fxa202-week09-chapter-3-creating-your-final-draft
-updated: 2026-05-05
+- fxa202-week08-how-to-merge-and-combine-images-in-photoshop
+- fxa202-week08-lesson-fxa202-week08-page-2-editing-your-images
+- fxa202-week08-lesson-fxa202-week08-page-4
+- fxa202-week08-lesson-fxa202-week08-week-8
+- fxa202-week08-making-basic-adjustments-tutorial-at-gcflearnfree
+- fxa202-week08-week-8-web-lecture-editing-your-images
+- fxa202-week09-lesson-fxa202-week09-chapter-3-creating-your-final-draft
+tags:
+- image-editing
+title: Image Editing Techniques
+type: topic
+updated: 2026-05-11
 ---
 
 ## Image Editing Techniques

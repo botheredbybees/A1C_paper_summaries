@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Continuum Of Applied Theatre"
 confidence: low
-tags: ["continuum-of-applied-theatre"]
+domain: theory
+slug: continuum-of-applied-theatre
 sources:
-  - fxa100-week09-applied-theatre-problems-and-possibilities
+- fxa100-week09-applied-theatre-problems-and-possibilities
+tags:
+- continuum-of-applied-theatre
+title: Continuum Of Applied Theatre
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "intervention"
-title: "Disaster Recovery and Resilience"
 confidence: high
-tags: ["disaster-recovery"]
+domain: intervention
+slug: disaster-recovery-and-resilience
 sources:
   - fxa303-art-therapy-in-response-to-natural-disasters-ch04-chapter-9
   - fxa303-art-therapy-in-response-to-natural-disasters-ch06-1-i-envisioned-an-opportunity-to-assert-lasalle
   - fxa303-week09-beyond-the-fence-constructed-and-found-spaces-for-childrens
   - fxa303-week09-childrens-play-environment-after-a-disaster-the-great-east
-updated: 2026-05-04
+- fxa303-art-therapy-in-response-to-natural-disasters-ch04-chapter-9
+- fxa303-art-therapy-in-response-to-natural-disasters-ch06-1-i-envisioned-an-opportunity-to-assert-lasalle
+- fxa303-week09-beyond-the-fence-constructed-and-found-spaces-for-childrens
+- fxa303-week09-childrens-play-environment-after-a-disaster-the-great-east
+tags:
+- disaster-recovery
+title: Disaster Recovery and Resilience
+type: topic
+updated: 2026-05-11
 ---
 
 ## Disaster Recovery and Resilience

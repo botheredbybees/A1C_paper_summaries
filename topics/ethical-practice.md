@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Ethical Practice in Therapy"
 confidence: low
-tags: ["ethical-practice"]
+domain: intervention
+slug: ethical-practice-in-therapy
 sources:
-  - fxa303-week10-indigenous-and-traditional-arts-in-art-therapy-value
+- fxa303-week10-indigenous-and-traditional-arts-in-art-therapy-value
+tags:
+- ethical-practice
+title: Ethical Practice in Therapy
+type: topic
 updated: 2026-05-04
 ---
 

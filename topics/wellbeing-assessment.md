@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Wellbeing Assessment"
 confidence: low
-tags: ["wellbeing-assessment"]
+domain: method
+slug: wellbeing-assessment
 sources:
-  - fxa303-week10-the-good-life-for-children-do-we-really-care-about-the
+- fxa303-week10-the-good-life-for-children-do-we-really-care-about-the
+tags:
+- wellbeing-assessment
+title: Wellbeing Assessment
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Play as Symbolism in Therapy"
 confidence: low
-tags: ["play-as-symbolism"]
+domain: intervention
+slug: play-as-symbolism-in-therapy
 sources:
-  - fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy
+- fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy
+tags:
+- play-as-symbolism
+title: Play as Symbolism in Therapy
+type: topic
 updated: 2026-05-04
 ---
 

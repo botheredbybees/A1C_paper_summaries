@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Self-Reconstruction Through Art"
 confidence: low
-tags: ["self-reconstruction-through-art"]
+domain: intervention
+slug: self-reconstruction-through-art
 sources:
-  - fxa202-week09-the-largs-pier-a-visual-story-of-grief-and-healing
+- fxa202-week09-the-largs-pier-a-visual-story-of-grief-and-healing
+tags:
+- self-reconstruction-through-art
+title: Self-Reconstruction Through Art
+type: topic
 updated: 2026-05-04
 ---
 

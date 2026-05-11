@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Laughter as Healing for Children Experiencing Trauma"
 confidence: low
-tags: ["childhood-trauma"]
+domain: intervention
+slug: laughter-as-healing-for-children-experiencing-trauma
 sources:
-  - fxa303-week08-transcript-bbc-news-5-march-2018-clowns-bring-joy-to-refugee
+- fxa303-week08-transcript-bbc-news-5-march-2018-clowns-bring-joy-to-refugee
+tags:
+- childhood-trauma
+title: Laughter as Healing for Children Experiencing Trauma
+type: topic
 updated: 2026-05-04
 ---
 

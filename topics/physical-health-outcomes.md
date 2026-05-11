@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Physical Health Outcomes of Expressive Writing Therapy"
 confidence: low
-tags: ["physical-health-outcomes"]
+domain: intervention
+slug: physical-health-outcomes-of-expressive-writing-therapy
 sources:
-  - fxa202-week09-expressive-writing-therapy-exercises-examples
+- fxa202-week09-expressive-writing-therapy-exercises-examples
+tags:
+- physical-health-outcomes
+title: Physical Health Outcomes of Expressive Writing Therapy
+type: topic
 updated: 2026-05-04
 ---
 

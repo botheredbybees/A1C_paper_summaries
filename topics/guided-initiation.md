@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Guided Initiation in Therapeutic Settings"
 confidence: low
-tags: ["guided-initiation"]
+domain: intervention
+slug: guided-initiation-in-therapeutic-settings
 sources:
-  - fxa100-week08-week-8-lecture-art-therapy-in-dementia-care
+- fxa100-week08-week-8-lecture-art-therapy-in-dementia-care
+tags:
+- guided-initiation
+title: Guided Initiation in Therapeutic Settings
+type: topic
 updated: 2026-05-04
 ---
 

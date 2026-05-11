@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Photography for Wellbeing"
 confidence: low
-tags: ["community-interaction"]
+domain: intervention
+slug: photography-for-wellbeing
 sources:
-  - fxa202-week03-lesson-fxa202-week03-page-2
+- fxa202-week03-lesson-fxa202-week03-page-2
+tags:
+- community-interaction
+title: Photography for Wellbeing
+type: topic
 updated: 2026-05-04
 ---
 

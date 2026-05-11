@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Digital Storytelling Opportunities"
 confidence: low
-tags: ["digital-storytelling-opportunities"]
+domain: intervention
+slug: digital-storytelling-opportunities
 sources:
-  - fxa202-week10-6-questions-journalists-should-be-able-to-answer-before
+- fxa202-week10-6-questions-journalists-should-be-able-to-answer-before
+tags:
+- digital-storytelling-opportunities
+title: Digital Storytelling Opportunities
+type: topic
 updated: 2026-05-04
 ---
 

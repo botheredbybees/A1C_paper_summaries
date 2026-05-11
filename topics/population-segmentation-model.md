@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Population Segmentation Model"
 confidence: low
-tags: ["population-segmentation-model"]
+domain: population
+slug: population-segmentation-model
 sources:
-  - fxa301-week01-web-article-australia-2019
+- fxa301-week01-web-article-australia-2019
+tags:
+- population-segmentation-model
+title: Population Segmentation Model
+type: topic
 updated: 2026-05-04
 ---
 

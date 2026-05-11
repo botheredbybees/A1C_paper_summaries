@@ -11,7 +11,7 @@ tags: ["music-therapy", "community-services", "neurological-rehabilitation", "pe
 key_concepts: ["music therapy", "neurologic music therapy", "social interaction"]
 methods: ["case study"]
 slug: fxa303-week04-community-services-the-music-therapy-center-of-california
-related: ["mental-wellbeing", "music-therapy", "pediatric-care"]
+related: ["mental-wellbeing", "music-therapy", "neurological-rehabilitation", "pediatric-care"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,4 +45,5 @@ The document provides an overview of the services offered by The Music Therapy C
 
 - [mental-wellbeing](../topics/mental-wellbeing.md)
 - [music-therapy](../topics/music-therapy.md)
+- [neurological-rehabilitation](../topics/neurological-rehabilitation.md)
 - [pediatric-care](../topics/pediatric-care.md)

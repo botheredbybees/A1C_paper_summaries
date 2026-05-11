@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Social Return On Investment (Sroi)"
 confidence: low
-tags: ["social-return-on-investment-sroi"]
+domain: method
+slug: social-return-on-investment-sroi
 sources:
-  - fxa301-week08-impact-summary-clown-doctors-australia
+- fxa301-week08-impact-summary-clown-doctors-australia
+tags:
+- social-return-on-investment-sroi
+title: Social Return On Investment (Sroi)
+type: topic
 updated: 2026-05-04
 ---
 

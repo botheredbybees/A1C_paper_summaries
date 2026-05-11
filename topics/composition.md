@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Photographic Composition and Color Theory"
 confidence: medium
-tags: ["composition"]
+domain: method
+slug: photographic-composition-and-color-theory
 sources:
   - fxa202-week02-lesson-fxa202-week02-page-2
   - fxa202-week02-lesson-fxa202-week02-page-3
-updated: 2026-05-04
+- fxa202-week02-lesson-fxa202-week02-page-2
+- fxa202-week02-lesson-fxa202-week02-page-3
+tags:
+- composition
+title: Photographic Composition and Color Theory
+type: topic
+updated: 2026-05-11
 ---
 
 ## Photographic Composition and Color Theory

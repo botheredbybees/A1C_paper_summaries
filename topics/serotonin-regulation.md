@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Serotonin Regulation"
 confidence: low
-tags: ["serotonin-regulation"]
+domain: intervention
+slug: serotonin-regulation
 sources:
-  - fxa301-week02-how-do-we-respond-to-creative-art
+- fxa301-week02-how-do-we-respond-to-creative-art
+tags:
+- serotonin-regulation
+title: Serotonin Regulation
+type: topic
 updated: 2026-05-04
 ---
 

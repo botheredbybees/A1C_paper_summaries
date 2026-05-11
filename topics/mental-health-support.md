@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Mental Health Support Through Creative Interventions"
 confidence: high
-tags: ["mental-health-support"]
+domain: intervention
+slug: mental-health-support-through-creative-interventions
 sources:
   - fxa202-week06-reflection-on-the-therapeutic-and-artistic-process-of
   - fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2)
@@ -14,7 +12,21 @@ sources:
   - fxa303-week04-play-interventions-for-neurodivergent-children-and
   - fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand
   - fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon
-updated: 2026-05-05
+  - fxa303-week11-mapping-q-the-university-of-arizona-museum-of-art
+- fxa202-week06-reflection-on-the-therapeutic-and-artistic-process-of
+- fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2)
+- fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing
+- fxa301-week08-transcript-youtube-i1dnrn0cj20
+- fxa301-week10-lesson-fxa301-week10-page-2
+- fxa303-week03-social-prescribing-roundtable-november-2019-report
+- fxa303-week04-play-interventions-for-neurodivergent-children-and
+- fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand
+- fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon
+tags:
+- mental-health-support
+title: Mental Health Support Through Creative Interventions
+type: topic
+updated: 2026-05-11
 ---
 
 ## Mental Health Support Through Creative Interventions
@@ -42,3 +54,4 @@ The integration of various forms of artistic and creative practices as intervent
 - [fxa303-week04-play-interventions-for-neurodivergent-children-and](../sources/fxa303-week04-play-interventions-for-neurodivergent-children-and.md)
 - [fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand](../sources/fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand.md)
 - [fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon](../sources/fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon.md)
+- [fxa303-week11-mapping-q-the-university-of-arizona-museum-of-art](../sources/fxa303-week11-mapping-q-the-university-of-arizona-museum-of-art.md)

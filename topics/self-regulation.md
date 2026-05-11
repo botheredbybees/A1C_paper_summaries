@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Self-Regulation in Creative Arts and Play"
 confidence: medium
-tags: ["self-regulation"]
+domain: intervention
+slug: self-regulation-in-creative-arts-and-play
 sources:
   - fxa303-week02-a-new-context-affording-for-regulation-the-case-of-musical
   - fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview
-updated: 2026-05-04
+- fxa303-week02-a-new-context-affording-for-regulation-the-case-of-musical
+- fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview
+tags:
+- self-regulation
+title: Self-Regulation in Creative Arts and Play
+type: topic
+updated: 2026-05-11
 ---
 
 ## Self-Regulation in Creative Arts and Play

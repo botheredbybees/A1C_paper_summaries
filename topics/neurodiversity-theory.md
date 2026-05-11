@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Neurodiversity Theory"
 confidence: low
-tags: ["neurodiversity-theory"]
+domain: theory
+slug: neurodiversity-theory
 sources:
-  - fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on
+- fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on
+tags:
+- neurodiversity-theory
+title: Neurodiversity Theory
+type: topic
 updated: 2026-05-04
 ---
 

@@ -11,7 +11,7 @@ tags: ["emotional-wellbeing", "photo-essay", "creative-self-care", "pandemic-str
 key_concepts: ["emotional wellbeing", "flow states", "visual storytelling"]
 methods: ["photo essay"]
 slug: fxa202-week06-winding-paths-a-photo-essay-on-emotional-health-during
-related: ["emotional-wellbeing", "photo-essay"]
+related: ["emotional-wellbeing", "mindfulness-practices", "photo-essay"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,4 +44,5 @@ Corinne Doran's photo essay 'Winding Paths' explores the personal impact of Grea
 ## See Also
 
 - [emotional-wellbeing](../topics/emotional-wellbeing.md)
+- [mindfulness-practices](../topics/mindfulness-practices.md)
 - [photo-essay](../topics/photo-essay.md)

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Recreational Activities"
 confidence: low
-tags: ["recreational-activities"]
+domain: intervention
+slug: recreational-activities
 sources:
-  - fxa303-week09-childrens-play-environment-after-a-disaster-the-great-east
+- fxa303-week09-childrens-play-environment-after-a-disaster-the-great-east
+tags:
+- recreational-activities
+title: Recreational Activities
+type: topic
 updated: 2026-05-04
 ---
 

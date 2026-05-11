@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Focus in Inclusive Arts"
 confidence: low
-tags: ["therapeutic-focus"]
+domain: intervention
+slug: therapeutic-focus-in-inclusive-arts
 sources:
-  - fxa301-week09-week-9-lecture-dr-brendan-lamb
+- fxa301-week09-week-9-lecture-dr-brendan-lamb
+tags:
+- therapeutic-focus
+title: Therapeutic Focus in Inclusive Arts
+type: topic
 updated: 2026-05-04
 ---
 

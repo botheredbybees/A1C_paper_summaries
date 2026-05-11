@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Memory Preservation Through Therapeutic Photography"
 confidence: low
-tags: ["memory-preservation"]
+domain: intervention
+slug: memory-preservation-through-therapeutic-photography
 sources:
-  - fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family
+- fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family
+tags:
+- memory-preservation
+title: Memory Preservation Through Therapeutic Photography
+type: topic
 updated: 2026-05-04
 ---
 

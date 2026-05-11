@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "theory"
-title: "Critical Reflection Models"
 confidence: medium
-tags: ["critical-reflection"]
+domain: theory
+slug: critical-reflection-models
 sources:
   - fxa202-week09-critical-reflection-the-photo-essay
   - fxa202-week10-lesson-fxa202-week10-page-2
   - fxa202-week10-lesson-fxa202-week10-week-10
-updated: 2026-05-04
+- fxa202-week09-critical-reflection-the-photo-essay
+- fxa202-week10-lesson-fxa202-week10-page-2
+- fxa202-week10-lesson-fxa202-week10-week-10
+tags:
+- critical-reflection
+title: Critical Reflection Models
+type: topic
+updated: 2026-05-11
 ---
 
 ## Critical Reflection Models

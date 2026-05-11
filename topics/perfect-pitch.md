@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Perfect Pitch"
 confidence: low
-tags: ["perfect-pitch"]
+domain: theory
+slug: perfect-pitch
 sources:
-  - fxa100-week02-are-the-brains-of-musicians-physically-different
+- fxa100-week02-are-the-brains-of-musicians-physically-different
+tags:
+- perfect-pitch
+title: Perfect Pitch
+type: topic
 updated: 2026-05-04
 ---
 

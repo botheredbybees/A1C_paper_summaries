@@ -11,7 +11,7 @@ tags: ["dementia-prevention", "cognitive-health", "lifestyle-factors", "twin-res
 key_concepts: ["protective factors against dementia", "playing a musical instrument", "discordant twin pairs"]
 methods: ["population-based twin study"]
 slug: fxa100-week02-playing-a-musical-instrument-as-a-protective-factor-against
-related: ["cognitive-health", "music-therapy"]
+related: ["cognitive-health", "dementia-prevention", "music-therapy"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,4 +45,5 @@ This research article explores the potential protective effect of playing a musi
 ## See Also
 
 - [cognitive-health](../topics/cognitive-health.md)
+- [dementia-prevention](../topics/dementia-prevention.md)
 - [music-therapy](../topics/music-therapy.md)

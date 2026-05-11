@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Pdf Format"
 confidence: low
-tags: ["pdf-format"]
+domain: method
+slug: pdf-format
 sources:
-  - fxa202-week06-exporting-to-pdf-from-powerpoint-and-word
+- fxa202-week06-exporting-to-pdf-from-powerpoint-and-word
+tags:
+- pdf-format
+title: Pdf Format
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Cultural Themes Identification"
 confidence: low
-tags: ["cultural-themes-identification"]
+domain: method
+slug: cultural-themes-identification
 sources:
-  - fxa301-make-arts-for-a-better-life-ch05-1-read-your-(2)
+- fxa301-make-arts-for-a-better-life-ch05-1-read-your-(2)
+tags:
+- cultural-themes-identification
+title: Cultural Themes Identification
+type: topic
 updated: 2026-05-04
 ---
 

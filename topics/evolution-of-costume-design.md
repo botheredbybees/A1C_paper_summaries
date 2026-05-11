@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Evolution of Costume Design"
 confidence: low
-tags: ["evolution-of-costume-design"]
+domain: intervention
+slug: evolution-of-costume-design
 sources:
-  - fxa303-week05-thats-the-way-to-do-it-a-history-of-punch-judy
+- fxa303-week05-thats-the-way-to-do-it-a-history-of-punch-judy
+tags:
+- evolution-of-costume-design
+title: Evolution of Costume Design
+type: topic
 updated: 2026-05-04
 ---
 

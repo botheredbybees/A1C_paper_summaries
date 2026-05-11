@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "method"
-title: "Audience Engagement"
 confidence: medium
-tags: ["audience-engagement"]
+domain: method
+slug: audience-engagement
 sources:
-  - fxa100-week09-transcript-applied-theatre-tdfs-theatre-dictionary-defining
-  - fxa202-week10-6-questions-journalists-should-be-able-to-answer-before
+- fxa100-week09-transcript-applied-theatre-tdfs-theatre-dictionary-defining
+- fxa202-week10-6-questions-journalists-should-be-able-to-answer-before
+tags:
+- audience-engagement
+title: Audience Engagement
+type: topic
 updated: 2026-05-04
 ---
 

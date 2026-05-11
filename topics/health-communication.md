@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Health Communication in Dementia Care"
 confidence: medium
-tags: ["health-communication"]
+domain: intervention
+slug: health-communication-in-dementia-care
 sources:
   - fxa100-week04-dementia-discourse-a-rethink-(2)
   - fxa202-week10-fxa202-week-10-web-lecture
-updated: 2026-05-04
+- fxa100-week04-dementia-discourse-a-rethink-(2)
+- fxa202-week10-fxa202-week-10-web-lecture
+tags:
+- health-communication
+title: Health Communication in Dementia Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Health Communication in Dementia Care

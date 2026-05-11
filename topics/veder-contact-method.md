@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Veder Contact Method"
 confidence: medium
-tags: ["veder-contact-method"]
+domain: intervention
+slug: veder-contact-method
 sources:
-  - fxa100-week09-lesson-fxa100-week09-page-3-theatre-play-and-dementia
-  - fxa100-week09-testing-the-implementation-of-the-veder-contact-method-a
+- fxa100-week09-lesson-fxa100-week09-page-3-theatre-play-and-dementia
+- fxa100-week09-testing-the-implementation-of-the-veder-contact-method-a
+tags:
+- veder-contact-method
+title: Veder Contact Method
+type: topic
 updated: 2026-05-04
 ---
 

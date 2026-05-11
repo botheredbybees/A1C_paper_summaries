@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Effectiveness of Dance Interventions"
 confidence: low
-tags: ["dance-intervention-efficacy"]
+domain: intervention
+slug: effectiveness-of-dance-interventions
 sources:
-  - fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention
+- fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention
+tags:
+- dance-intervention-efficacy
+title: Effectiveness of Dance Interventions
+type: topic
 updated: 2026-05-04
 ---
 

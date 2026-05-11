@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sense Of Community"
 confidence: low
-tags: ["sense-of-community"]
+domain: intervention
+slug: sense-of-community
 sources:
-  - fxa301-week06-a-study-of-the-experience-of-working-adults-on-regular
+- fxa301-week06-a-study-of-the-experience-of-working-adults-on-regular
+tags:
+- sense-of-community
+title: Sense Of Community
+type: topic
 updated: 2026-05-04
 ---
 

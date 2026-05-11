@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Personalized Risk Profiling"
 confidence: low
-tags: ["personalized-risk-profiling"]
+domain: method
+slug: personalized-risk-profiling
 sources:
-  - fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy
+- fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy
+tags:
+- personalized-risk-profiling
+title: Personalized Risk Profiling
+type: topic
 updated: 2026-05-04
 ---
 

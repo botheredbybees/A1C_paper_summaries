@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Self-Reflection Theory"
 confidence: low
-tags: ["self-reflection-theory"]
+domain: theory
+slug: self-reflection-theory
 sources:
-  - fxa301-week08-school-based-drama-interventions-in-health-promotion-for
+- fxa301-week08-school-based-drama-interventions-in-health-promotion-for
+tags:
+- self-reflection-theory
+title: Self-Reflection Theory
+type: topic
 updated: 2026-05-04
 ---
 

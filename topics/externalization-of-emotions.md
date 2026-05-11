@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Externalization Of Emotions"
 confidence: medium
-tags: ["externalization-of-emotions"]
+domain: intervention
+slug: externalization-of-emotions
 sources:
-  - fxa303-week06-lesson-fxa303-week06-page-4-week-6-activities
-  - fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental
+- fxa303-week06-lesson-fxa303-week06-page-4-week-6-activities
+- fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental
+tags:
+- externalization-of-emotions
+title: Externalization Of Emotions
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Art Programs in Aged Care"
 confidence: medium
-tags: ["aged-care"]
+domain: intervention
+slug: art-programs-in-aged-care
 sources:
   - fxa100-week02-transcript-duration-949
   - fxa100-week04-transcript-cale-research-aged-care-deloraine-partnership
@@ -11,7 +9,17 @@ sources:
   - fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary
   - fxa202-week10-creative-arts-based-research-in-aged-care-photovoice
   - fxa202-week10-thinking-differently-about-aged-care
-updated: 2026-05-05
+- fxa100-week02-transcript-duration-949
+- fxa100-week04-transcript-cale-research-aged-care-deloraine-partnership
+- fxa100-week08-web-article-gross-2016
+- fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary
+- fxa202-week10-creative-arts-based-research-in-aged-care-photovoice
+- fxa202-week10-thinking-differently-about-aged-care
+tags:
+- aged-care
+title: Art Programs in Aged Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Art Programs in Aged Care

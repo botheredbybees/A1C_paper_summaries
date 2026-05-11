@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "theory"
-title: "Brain Development During Adolescence"
 confidence: medium
-tags: ["adolescence"]
+domain: theory
+slug: brain-development-during-adolescence
 sources:
   - fxa303-week03-brain-development-during-adolescence
   - fxa303-week03-media-use-and-brain-development-during-adolescence
-updated: 2026-05-04
+- fxa303-week03-brain-development-during-adolescence
+- fxa303-week03-media-use-and-brain-development-during-adolescence
+tags:
+- adolescence
+title: Brain Development During Adolescence
+type: topic
+updated: 2026-05-11
 ---
 
 ## Brain Development During Adolescence

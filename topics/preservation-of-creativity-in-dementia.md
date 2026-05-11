@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Preservation of Creativity in Dementia"
 confidence: low
-tags: ["preservation-of-creativity-in-dementia"]
+domain: intervention
+slug: preservation-of-creativity-in-dementia
 sources:
-  - fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia
+- fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia
+tags:
+- preservation-of-creativity-in-dementia
+title: Preservation of Creativity in Dementia
+type: topic
 updated: 2026-05-04
 ---
 

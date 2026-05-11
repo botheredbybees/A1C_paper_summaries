@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Benefits Of Art In Depression Treatment"
 confidence: medium
-tags: ["depression-treatment"]
+domain: intervention
+slug: therapeutic-benefits-of-art-in-depression-treatment
 sources:
   - fxa100-week03-music-therapy-for-depression-it-seems-to-work-but-how
   - fxa100-week04-the-day-the-music-died
   - fxa202-week03-can-photography-help-depression
   - fxa301-week01-arts-on-prescription-in-sefton-programme-report
-updated: 2026-05-05
+- fxa100-week03-music-therapy-for-depression-it-seems-to-work-but-how
+- fxa100-week04-the-day-the-music-died
+- fxa202-week03-can-photography-help-depression
+- fxa301-week01-arts-on-prescription-in-sefton-programme-report
+tags:
+- depression-treatment
+title: Therapeutic Benefits Of Art In Depression Treatment
+type: topic
+updated: 2026-05-11
 ---
 
 ## Therapeutic Benefits Of Art In Depression Treatment

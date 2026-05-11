@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Behavioral And Attitudinal Indices"
 confidence: low
-tags: ["behavioral-and-attitudinal-indices"]
+domain: method
+slug: behavioral-and-attitudinal-indices
 sources:
-  - fxa301-week01-web-article-australia-2019
+- fxa301-week01-web-article-australia-2019
+tags:
+- behavioral-and-attitudinal-indices
+title: Behavioral And Attitudinal Indices
+type: topic
 updated: 2026-05-04
 ---
 

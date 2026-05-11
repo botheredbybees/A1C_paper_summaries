@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "The Labyrinth Project in Arts Therapy"
 confidence: low
-tags: ["labyrinth-project"]
+domain: intervention
+slug: the-labyrinth-project-in-arts-therapy
 sources:
-  - fxa303-week10-arts-education-and-society-the-role-of-the-arts-in
+- fxa303-week10-arts-education-and-society-the-role-of-the-arts-in
+tags:
+- labyrinth-project
+title: The Labyrinth Project in Arts Therapy
+type: topic
 updated: 2026-05-04
 ---
 

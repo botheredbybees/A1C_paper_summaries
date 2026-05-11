@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Aspect Ratio Maintenance in Image Editing"
 confidence: low
-tags: ["aspect-ratio-maintenance"]
+domain: method
+slug: aspect-ratio-maintenance-in-image-editing
 sources:
-  - fxa202-week08-making-basic-adjustments-tutorial-at-gcflearnfree
+- fxa202-week08-making-basic-adjustments-tutorial-at-gcflearnfree
+tags:
+- aspect-ratio-maintenance
+title: Aspect Ratio Maintenance in Image Editing
+type: topic
 updated: 2026-05-04
 ---
 

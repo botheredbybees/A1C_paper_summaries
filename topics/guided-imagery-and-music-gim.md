@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Guided Imagery and Music (GIM)"
 confidence: low
-tags: ["guided-imagery-and-music-gim"]
+domain: intervention
+slug: guided-imagery-and-music-gim
 sources:
-  - fxa100-week03-telling-me-not-to-worry-hyperscanning-and-neural-dynamics
+- fxa100-week03-telling-me-not-to-worry-hyperscanning-and-neural-dynamics
+tags:
+- guided-imagery-and-music-gim
+title: Guided Imagery and Music (GIM)
+type: topic
 updated: 2026-05-04
 ---
 

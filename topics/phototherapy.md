@@ -1,14 +1,16 @@
 ---
-type: topic
-domain: "intervention"
-title: "Phototherapy and Therapeutic Photography"
 confidence: high
-tags: ["phototherapy"]
+domain: intervention
+slug: phototherapy-and-therapeutic-photography
 sources:
-  - fxa202-week03-lesson-fxa202-week03-week-3
-  - fxa202-week08-photography-as-self-therapy-an-introduction-for-beginners
-  - fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography
-  - fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay
+- fxa202-week03-lesson-fxa202-week03-week-3
+- fxa202-week08-photography-as-self-therapy-an-introduction-for-beginners
+- fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography
+- fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay
+tags:
+- phototherapy
+title: Phototherapy and Therapeutic Photography
+type: topic
 updated: 2026-05-04
 ---
 

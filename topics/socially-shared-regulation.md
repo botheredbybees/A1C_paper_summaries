@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Socially-Shared Regulation"
 confidence: low
-tags: ["socially-shared-regulation"]
+domain: theory
+slug: socially-shared-regulation
 sources:
-  - fxa303-week02-a-new-context-affording-for-regulation-the-case-of-musical
+- fxa303-week02-a-new-context-affording-for-regulation-the-case-of-musical
+tags:
+- socially-shared-regulation
+title: Socially-Shared Regulation
+type: topic
 updated: 2026-05-04
 ---
 

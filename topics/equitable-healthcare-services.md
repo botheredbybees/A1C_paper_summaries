@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Equitable Healthcare Services"
 confidence: low
-tags: ["equitable-healthcare-services"]
+domain: intervention
+slug: equitable-healthcare-services
 sources:
-  - fxa303-week03-adolescent-health
+- fxa303-week03-adolescent-health
+tags:
+- equitable-healthcare-services
+title: Equitable Healthcare Services
+type: topic
 updated: 2026-05-04
 ---
 

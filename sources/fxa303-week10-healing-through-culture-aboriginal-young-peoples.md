@@ -11,7 +11,7 @@ tags: ["aboriginal-young-people", "cultural-strengthening-programs", "social-emo
 key_concepts: ["social and emotional wellbeing (SEWB)", "resilience building", "help-seeking behaviors"]
 methods: ["qualitative study"]
 slug: fxa303-week10-healing-through-culture-aboriginal-young-peoples
-related: ["mental-health"]
+related: ["mental-health", "social-emotional-wellbeing"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -45,3 +45,4 @@ The study by Black, Frederico, and Bamblett explores the social and emotional we
 ## See Also
 
 - [mental-health](../topics/mental-health.md)
+- [social-emotional-wellbeing](../topics/social-emotional-wellbeing.md)

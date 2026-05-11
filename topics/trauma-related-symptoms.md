@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Trauma-Related Symptoms in Children"
 confidence: low
-tags: ["trauma-related-symptoms"]
+domain: intervention
+slug: trauma-related-symptoms-in-children
 sources:
-  - fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms
+- fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms
+tags:
+- trauma-related-symptoms
+title: Trauma-Related Symptoms in Children
+type: topic
 updated: 2026-05-04
 ---
 

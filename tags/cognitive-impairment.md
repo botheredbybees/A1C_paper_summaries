@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-impairment
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Cognitive Impairment

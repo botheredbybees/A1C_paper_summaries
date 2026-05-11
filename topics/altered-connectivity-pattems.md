@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Altered Connectivity Patterns"
 confidence: low
-tags: ["altered-connectivity-pattems"]
+domain: intervention
+slug: altered-connectivity-patterns
 sources:
-  - fxa303-week04-characteristics-of-brains-in-autism-spectrum-disorder
+- fxa303-week04-characteristics-of-brains-in-autism-spectrum-disorder
+tags:
+- altered-connectivity-pattems
+title: Altered Connectivity Patterns
+type: topic
 updated: 2026-05-04
 ---
 

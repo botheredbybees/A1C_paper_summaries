@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Reminiscence-Based Benefits"
 confidence: low
-tags: ["reminiscence-based-benefits"]
+domain: intervention
+slug: reminiscence-based-benefits
 sources:
-  - fxa100-week07-fxa100-week-7-lecture
+- fxa100-week07-fxa100-week-7-lecture
+tags:
+- reminiscence-based-benefits
+title: Reminiscence-Based Benefits
+type: topic
 updated: 2026-05-04
 ---
 

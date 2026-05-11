@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Advances in Flow Research"
 confidence: low
-tags: ["empirical-research"]
+domain: theory
+slug: advances-in-flow-research
 sources:
-  - fxa301-week10-advances-in-flow-research
+- fxa301-week10-advances-in-flow-research
+tags:
+- empirical-research
+title: Advances in Flow Research
+type: topic
 updated: 2026-05-04
 ---
 

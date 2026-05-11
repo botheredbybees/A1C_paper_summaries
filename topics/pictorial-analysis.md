@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Pictorial Analysis"
 confidence: low
-tags: ["pictorial-analysis"]
+domain: method
+slug: pictorial-analysis
 sources:
-  - fxa202-week08-the-journal-and-visual-research
+- fxa202-week08-the-journal-and-visual-research
+tags:
+- pictorial-analysis
+title: Pictorial Analysis
+type: topic
 updated: 2026-05-04
 ---
 

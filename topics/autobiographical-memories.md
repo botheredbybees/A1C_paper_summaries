@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Autobiographical Memories"
 confidence: low
-tags: ["autobiographical-memories"]
+domain: intervention
+slug: autobiographical-memories
 sources:
-  - fxa100-week07-turning-back-the-hands-of-time-autobiographical-memories-in
+- fxa100-week07-turning-back-the-hands-of-time-autobiographical-memories-in
+tags:
+- autobiographical-memories
+title: Autobiographical Memories
+type: topic
 updated: 2026-05-04
 ---
 

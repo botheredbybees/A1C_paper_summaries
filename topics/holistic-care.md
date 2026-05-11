@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Holistic Care"
 confidence: medium
-tags: ["holistic-care"]
+domain: intervention
+slug: holistic-care
 sources:
-  - fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract
-  - fxa301-week03-web-article-national-2024
+- fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract
+- fxa301-week03-web-article-national-2024
+tags:
+- holistic-care
+title: Holistic Care
+type: topic
 updated: 2026-05-04
 ---
 

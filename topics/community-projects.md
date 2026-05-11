@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts and Health Community Projects"
 confidence: medium
-tags: ["community-projects"]
+domain: intervention
+slug: arts-and-health-community-projects
 sources:
   - fxa301-oxford-textbook-of-creative-arts-ch04-chapter-17
   - fxa301-week01-lesson-fxa301-week01-page-1-hm
-updated: 2026-05-05
+- fxa301-oxford-textbook-of-creative-arts-ch04-chapter-17
+- fxa301-week01-lesson-fxa301-week01-page-1-hm
+tags:
+- community-projects
+title: Arts and Health Community Projects
+type: topic
+updated: 2026-05-11
 ---
 
 ## Arts and Health Community Projects

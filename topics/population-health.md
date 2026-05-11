@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "population"
-title: "Recreational Arts Engagement and Mental Wellbeing"
 confidence: medium
-tags: ["population-health"]
+domain: population
+slug: recreational-arts-engagement-and-mental-wellbeing
 sources:
   - fxa301-week01-how-are-health-behaviours-associated-with-mental-wellbeing
   - fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the
-updated: 2026-05-05
+- fxa301-week01-how-are-health-behaviours-associated-with-mental-wellbeing
+- fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the
+tags:
+- population-health
+title: Recreational Arts Engagement and Mental Wellbeing
+type: topic
+updated: 2026-05-11
 ---
 
 ## Recreational Arts Engagement and Mental Wellbeing

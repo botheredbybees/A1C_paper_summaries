@@ -1,13 +1,18 @@
 ---
-type: topic
-domain: "intervention"
-title: "Collaborative Art Projects"
 confidence: medium
-tags: ["collaborative-projects"]
+domain: intervention
+slug: collaborative-art-projects
 sources:
   - fxa301-week01-making-art-with-communities-a-work-guide
   - fxa301-week01-making-art-with-communities-a-work-guide-(3)
-updated: 2026-05-05
+  - fxa301-week11-artistic-representations-of-refugees-what-is-the-role-of
+- fxa301-week01-making-art-with-communities-a-work-guide
+- fxa301-week01-making-art-with-communities-a-work-guide-(3)
+tags:
+- collaborative-projects
+title: Collaborative Art Projects
+type: topic
+updated: 2026-05-11
 ---
 
 ## Collaborative Art Projects
@@ -28,3 +33,4 @@ The synthesis of collaborative art projects highlights the transformative power 
 
 - [fxa301-week01-making-art-with-communities-a-work-guide](../sources/fxa301-week01-making-art-with-communities-a-work-guide.md)
 - [fxa301-week01-making-art-with-communities-a-work-guide-(3)](../sources/fxa301-week01-making-art-with-communities-a-work-guide-(3).md)
+- [fxa301-week11-artistic-representations-of-refugees-what-is-the-role-of](../sources/fxa301-week11-artistic-representations-of-refugees-what-is-the-role-of.md)

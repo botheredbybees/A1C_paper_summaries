@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Lipid-Related Pathophysiology"
 confidence: low
-tags: ["lipid-related-pathophysiology"]
+domain: theory
+slug: lipid-related-pathophysiology
 sources:
-  - fxa303-week04-neurobiology-of-autism-spectrum-disorders
+- fxa303-week04-neurobiology-of-autism-spectrum-disorders
+tags:
+- lipid-related-pathophysiology
+title: Lipid-Related Pathophysiology
+type: topic
 updated: 2026-05-04
 ---
 

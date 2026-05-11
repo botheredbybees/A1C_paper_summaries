@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Self-Identity Through Creative Expression"
 confidence: medium
-tags: ["self-identity"]
+domain: intervention
+slug: self-identity-through-creative-expression
 sources:
-  - fxa301-week05-art-making-and-illness-two-case-studies
-  - fxa303-week10-music-and-refugees-wellbeing-in-contexts-of-protracted
+- fxa301-week05-art-making-and-illness-two-case-studies
+- fxa303-week10-music-and-refugees-wellbeing-in-contexts-of-protracted
+tags:
+- self-identity
+title: Self-Identity Through Creative Expression
+type: topic
 updated: 2026-05-04
 ---
 

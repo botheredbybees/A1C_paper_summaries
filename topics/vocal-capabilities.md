@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Vocal Capabilities in Aged Care"
 confidence: low
-tags: ["vocal-capabilities"]
+domain: intervention
+slug: vocal-capabilities-in-aged-care
 sources:
-  - fxa100-week04-research-in-aged-care-deloraine-partnership-transcript
+- fxa100-week04-research-in-aged-care-deloraine-partnership-transcript
+tags:
+- vocal-capabilities
+title: Vocal Capabilities in Aged Care
+type: topic
 updated: 2026-05-04
 ---
 

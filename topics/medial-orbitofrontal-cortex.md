@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Medial Orbitofrontal Cortex in Adolescent Music Processing"
 confidence: low
-tags: ["medial-orbitofrontal-cortex"]
+domain: intervention
+slug: medial-orbitofrontal-cortex-in-adolescent-music-processing
 sources:
-  - fxa303-week03-the-early-adolescent-brain-on-music-analysis-of-functional
+- fxa303-week03-the-early-adolescent-brain-on-music-analysis-of-functional
+tags:
+- medial-orbitofrontal-cortex
+title: Medial Orbitofrontal Cortex in Adolescent Music Processing
+type: topic
 updated: 2026-05-04
 ---
 

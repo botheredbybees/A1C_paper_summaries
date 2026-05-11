@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Self-Improvement Through Choral Activities"
 confidence: low
-tags: ["self-improvement"]
+domain: intervention
+slug: self-improvement-through-choral-activities
 sources:
-  - fxa301-week06-a-study-of-the-experience-of-working-adults-on-regular
+- fxa301-week06-a-study-of-the-experience-of-working-adults-on-regular
+tags:
+- self-improvement
+title: Self-Improvement Through Choral Activities
+type: topic
 updated: 2026-05-04
 ---
 

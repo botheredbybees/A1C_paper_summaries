@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Customized Playlists"
 confidence: low
-tags: ["customized-playlists"]
+domain: intervention
+slug: customized-playlists
 sources:
-  - fxa100-week03-personalized-music-for-persons-with-dementia-and-their-life
+- fxa100-week03-personalized-music-for-persons-with-dementia-and-their-life
+tags:
+- customized-playlists
+title: Customized Playlists
+type: topic
 updated: 2026-05-04
 ---
 

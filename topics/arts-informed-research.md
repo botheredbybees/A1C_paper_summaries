@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Arts-Informed Research"
 confidence: medium
-tags: ["arts-informed-research"]
+domain: method
+slug: arts-informed-research
 sources:
   - fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to
   - fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to-(2)
-updated: 2026-05-04
+- fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to
+- fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to-(2)
+tags:
+- arts-informed-research
+title: Arts-Informed Research
+type: topic
+updated: 2026-05-11
 ---
 
 ## Arts-Informed Research

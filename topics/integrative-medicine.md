@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Integrative Medicine"
 confidence: low
-tags: ["integrative-medicine"]
+domain: intervention
+slug: integrative-medicine
 sources:
-  - fxa301-week05-support-programs-ut-md-anderson
+- fxa301-week05-support-programs-ut-md-anderson
+tags:
+- integrative-medicine
+title: Integrative Medicine
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Dancing for Motor Performance"
 confidence: low
-tags: ["motor-performance"]
+domain: intervention
+slug: therapeutic-dancing-for-motor-performance
 sources:
-  - fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons
+- fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons
+tags:
+- motor-performance
+title: Therapeutic Dancing for Motor Performance
+type: topic
 updated: 2026-05-04
 ---
 

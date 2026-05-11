@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Color Therapy"
 confidence: medium
-tags: ["color-therapy"]
+domain: intervention
+slug: color-therapy
 sources:
-  - fxa301-week05-engaging-with-visual-arts-week-5-introduction
-  - fxa301-week05-lesson-fxa301-week05-page-1
+- fxa301-week05-engaging-with-visual-arts-week-5-introduction
+- fxa301-week05-lesson-fxa301-week05-page-1
+tags:
+- color-therapy
+title: Color Therapy
+type: topic
 updated: 2026-05-04
 ---
 

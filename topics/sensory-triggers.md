@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sensory Triggers"
 confidence: low
-tags: ["sensory-triggers"]
+domain: intervention
+slug: sensory-triggers
 sources:
-  - fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an
+- fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an
+tags:
+- sensory-triggers
+title: Sensory Triggers
+type: topic
 updated: 2026-05-04
 ---
 

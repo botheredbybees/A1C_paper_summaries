@@ -1,13 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Brain Stimulation Through Arts"
 confidence: medium
-tags: ["brain-stimulation"]
+domain: intervention
+slug: brain-stimulation-through-arts
 sources:
   - fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees
   - fxa100-week06-transcript-art-gives-same-level-of-pleasure-as-being-in-love
-updated: 2026-05-04
+  - fxa100-week11-leisure-activities-and-the-risk-of-dementia-in-the-elderly
+  - fxa100-week11-lesson-fxa100-week11-page-1-welcome-to-week-10
+- fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees
+- fxa100-week06-transcript-art-gives-same-level-of-pleasure-as-being-in-love
+tags:
+- brain-stimulation
+title: Brain Stimulation Through Arts
+type: topic
+updated: 2026-05-11
 ---
 
 ## Brain Stimulation Through Arts
@@ -28,3 +34,5 @@ The sources highlight the therapeutic potential of engaging with arts for brain 
 
 - [fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees](../sources/fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees.md)
 - [fxa100-week06-transcript-art-gives-same-level-of-pleasure-as-being-in-love](../sources/fxa100-week06-transcript-art-gives-same-level-of-pleasure-as-being-in-love.md)
+- [fxa100-week11-leisure-activities-and-the-risk-of-dementia-in-the-elderly](../sources/fxa100-week11-leisure-activities-and-the-risk-of-dementia-in-the-elderly.md)
+- [fxa100-week11-lesson-fxa100-week11-page-1-welcome-to-week-10](../sources/fxa100-week11-lesson-fxa100-week11-page-1-welcome-to-week-10.md)

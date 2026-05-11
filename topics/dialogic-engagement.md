@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Dialogic Engagement"
 confidence: low
-tags: ["dialogic-engagement"]
+domain: intervention
+slug: dialogic-engagement
 sources:
-  - fxa100-week07-creating-resources-memory-trees-and-boxes
+- fxa100-week07-creating-resources-memory-trees-and-boxes
+tags:
+- dialogic-engagement
+title: Dialogic Engagement
+type: topic
 updated: 2026-05-04
 ---
 

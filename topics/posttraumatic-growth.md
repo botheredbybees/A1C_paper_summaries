@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Posttraumatic Growth"
 confidence: medium
-tags: ["posttraumatic-growth"]
+domain: intervention
+slug: posttraumatic-growth
 sources:
-  - fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic
-  - fxa301-week10-creative-arts-in-psychotherapy-for-traumatized-children-in
+- fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic
+- fxa301-week10-creative-arts-in-psychotherapy-for-traumatized-children-in
+tags:
+- posttraumatic-growth
+title: Posttraumatic Growth
+type: topic
 updated: 2026-05-04
 ---
 

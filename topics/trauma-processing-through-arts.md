@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Trauma Processing Through Arts"
 confidence: low
-tags: ["trauma-processing-through-arts"]
+domain: intervention
+slug: trauma-processing-through-arts
 sources:
-  - fxa303-week09-national-taskforce-for-creative-recovery-recommendations
+- fxa303-week09-national-taskforce-for-creative-recovery-recommendations
+tags:
+- trauma-processing-through-arts
+title: Trauma Processing Through Arts
+type: topic
 updated: 2026-05-04
 ---
 

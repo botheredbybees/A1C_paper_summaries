@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Analogous Color Schemes in Photography"
 confidence: low
-tags: ["analogous-color-schemes"]
+domain: method
+slug: analogous-color-schemes-in-photography
 sources:
-  - fxa202-week02-lesson-fxa202-week02-page-3
+- fxa202-week02-lesson-fxa202-week02-page-3
+tags:
+- analogous-color-schemes
+title: Analogous Color Schemes in Photography
+type: topic
 updated: 2026-05-04
 ---
 

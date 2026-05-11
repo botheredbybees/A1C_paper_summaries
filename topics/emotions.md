@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "The Study Of Emotions"
 confidence: low
-tags: ["emotions"]
+domain: theory
+slug: the-study-of-emotions
 sources:
-  - fxa301-week02-the-emerging-field-of-affective-science
+- fxa301-week02-the-emerging-field-of-affective-science
+tags:
+- emotions
+title: The Study Of Emotions
+type: topic
 updated: 2026-05-04
 ---
 

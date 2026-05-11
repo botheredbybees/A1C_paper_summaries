@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Legal Protection For Recipes"
 confidence: low
-tags: ["legal-protection-for-recipes"]
+domain: intervention
+slug: legal-protection-for-recipes
 sources:
-  - fxa202-week10-defamation-copyright-and-blogging-in-australia
+- fxa202-week10-defamation-copyright-and-blogging-in-australia
+tags:
+- legal-protection-for-recipes
+title: Legal Protection For Recipes
+type: topic
 updated: 2026-05-04
 ---
 

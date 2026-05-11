@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Language Use in Dementia Care"
 confidence: medium
-tags: ["dementia-language"]
+domain: intervention
+slug: language-use-in-dementia-care
 sources:
   - fxa100-week04-dementia-language-guidelines
   - fxa100-week04-dementia-words-matter-guidelines-on-language-about-dementia
-updated: 2026-05-04
+- fxa100-week04-dementia-language-guidelines
+- fxa100-week04-dementia-words-matter-guidelines-on-language-about-dementia
+tags:
+- dementia-language
+title: Language Use in Dementia Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Language Use in Dementia Care

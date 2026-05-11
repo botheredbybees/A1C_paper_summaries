@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Physiological and Psychological Benefits of Dance"
 confidence: low
-tags: ["physiological-benefits"]
+domain: intervention
+slug: physiological-and-psychological-benefits-of-dance
 sources:
-  - fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and
+- fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and
+tags:
+- physiological-benefits
+title: Physiological and Psychological Benefits of Dance
+type: topic
 updated: 2026-05-04
 ---
 

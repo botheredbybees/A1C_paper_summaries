@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Community Arts Practice"
 confidence: low
-tags: ["community-arts-practice"]
+domain: intervention
+slug: community-arts-practice
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1
+- fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1
+tags:
+- community-arts-practice
+title: Community Arts Practice
+type: topic
 updated: 2026-05-04
 ---
 

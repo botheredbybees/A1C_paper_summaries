@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Puberty"
 confidence: low
-tags: ["puberty"]
+domain: theory
+slug: puberty
 sources:
-  - fxa303-week03-hormones-and-the-adolescent-brain
+- fxa303-week03-hormones-and-the-adolescent-brain
+tags:
+- puberty
+title: Puberty
+type: topic
 updated: 2026-05-04
 ---
 

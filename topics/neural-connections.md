@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Neural Connections in Adolescent Development"
 confidence: low
-tags: ["neural-connections"]
+domain: theory
+slug: neural-connections-in-adolescent-development
 sources:
-  - fxa303-week03-the-teen-brain
+- fxa303-week03-the-teen-brain
+tags:
+- neural-connections
+title: Neural Connections in Adolescent Development
+type: topic
 updated: 2026-05-04
 ---
 

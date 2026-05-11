@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Equitable Access To Resources"
 confidence: low
-tags: ["equitable-access-to-resources"]
+domain: intervention
+slug: equitable-access-to-resources
 sources:
-  - fxa301-week03-health-inequalities-and-the-role-of-creative-health
+- fxa301-week03-health-inequalities-and-the-role-of-creative-health
+tags:
+- equitable-access-to-resources
+title: Equitable Access To Resources
+type: topic
 updated: 2026-05-04
 ---
 

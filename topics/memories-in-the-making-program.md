@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Memories In The Making Program"
 confidence: low
-tags: ["memories-in-the-making-program"]
+domain: intervention
+slug: memories-in-the-making-program
 sources:
-  - fxa100-week08-transcript-youtube-l3cci-2kwkk
+- fxa100-week08-transcript-youtube-l3cci-2kwkk
+tags:
+- memories-in-the-making-program
+title: Memories In The Making Program
+type: topic
 updated: 2026-05-04
 ---
 

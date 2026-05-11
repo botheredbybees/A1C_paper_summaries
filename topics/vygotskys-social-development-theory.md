@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Vygotsky's Social Development Theory"
 confidence: low
-tags: ["vygotskys-social-development-theory"]
+domain: theory
+slug: vygotsky-s-social-development-theory
 sources:
-  - fxa303-week02-developmental-role-of-creative-arts-and-play
+- fxa303-week02-developmental-role-of-creative-arts-and-play
+tags:
+- vygotskys-social-development-theory
+title: Vygotsky's Social Development Theory
+type: topic
 updated: 2026-05-04
 ---
 

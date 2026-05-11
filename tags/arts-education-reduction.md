@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-education-reduction
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Arts Education Reduction

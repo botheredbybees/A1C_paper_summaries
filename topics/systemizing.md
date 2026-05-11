@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Systemizing"
 confidence: low
-tags: ["systemizing"]
+domain: theory
+slug: systemizing
 sources:
-  - fxa100-week03-musical-preferences-are-linked-to-cognitive-styles
+- fxa100-week03-musical-preferences-are-linked-to-cognitive-styles
+tags:
+- systemizing
+title: Systemizing
+type: topic
 updated: 2026-05-04
 ---
 

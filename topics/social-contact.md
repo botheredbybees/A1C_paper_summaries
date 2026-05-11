@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Social Contact in Dementia Care"
 confidence: low
-tags: ["social-contact"]
+domain: intervention
+slug: social-contact-in-dementia-care
 sources:
-  - fxa100-week09-key-intervention-categories-to-provide-person-centered
+- fxa100-week09-key-intervention-categories-to-provide-person-centered
+tags:
+- social-contact
+title: Social Contact in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

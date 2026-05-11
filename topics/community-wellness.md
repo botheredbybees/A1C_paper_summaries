@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts for Health in Community Settings"
 confidence: medium
-tags: ["community-wellness"]
+domain: intervention
+slug: arts-for-health-in-community-settings
 sources:
   - fxa301-oxford-textbook-of-creative-arts-ch03-chapter-13
   - fxa301-week01-arts-on-prescription-in-sefton-programme-report
-updated: 2026-05-05
+- fxa301-oxford-textbook-of-creative-arts-ch03-chapter-13
+- fxa301-week01-arts-on-prescription-in-sefton-programme-report
+tags:
+- community-wellness
+title: Arts for Health in Community Settings
+type: topic
+updated: 2026-05-11
 ---
 
 ## Arts for Health in Community Settings

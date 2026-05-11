@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Big Noise Raploch Programme"
 confidence: low
-tags: ["big-noise-raploch-programme"]
+domain: intervention
+slug: big-noise-raploch-programme
 sources:
-  - fxa301-week06-statistical-analysis-of-educational-outcomes-among-big
+- fxa301-week06-statistical-analysis-of-educational-outcomes-among-big
+tags:
+- big-noise-raploch-programme
+title: Big Noise Raploch Programme
+type: topic
 updated: 2026-05-04
 ---
 

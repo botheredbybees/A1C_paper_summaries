@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Advance Care Planning"
 confidence: low
-tags: ["advance-care-planning"]
+domain: intervention
+slug: advance-care-planning
 sources:
-  - fxa301-week03-challenges-in-end-of-life-care-and-bereavement
+- fxa301-week03-challenges-in-end-of-life-care-and-bereavement
+tags:
+- advance-care-planning
+title: Advance Care Planning
+type: topic
 updated: 2026-05-04
 ---
 

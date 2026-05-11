@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Challenges of Young-Onset Dementia"
 confidence: low
-tags: ["young-onset-dementia-challenges"]
+domain: intervention
+slug: challenges-of-young-onset-dementia
 sources:
-  - fxa100-excellence-in-dementia-care--ch03-chapter-12
+- fxa100-excellence-in-dementia-care--ch03-chapter-12
+tags:
+- young-onset-dementia-challenges
+title: Challenges of Young-Onset Dementia
+type: topic
 updated: 2026-05-04
 ---
 

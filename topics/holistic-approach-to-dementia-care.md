@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Holistic Approach to Dementia Care"
 confidence: low
-tags: ["holistic-approach-to-dementia-care"]
+domain: intervention
+slug: holistic-approach-to-dementia-care
 sources:
-  - fxa100-week09-how-personhood-is-undermined
+- fxa100-week09-how-personhood-is-undermined
+tags:
+- holistic-approach-to-dementia-care
+title: Holistic Approach to Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

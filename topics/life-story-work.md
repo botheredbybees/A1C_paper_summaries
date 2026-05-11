@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Life Story Work"
 confidence: medium
-tags: ["life-story-work"]
+domain: intervention
+slug: life-story-work
 sources:
-  - fxa100-week08-creativity-and-communication-in-persons-with-dementia-a
-  - fxa100-week10-transcript-inside-out-of-mind-audience-feedback-lakeside-arts
+- fxa100-week08-creativity-and-communication-in-persons-with-dementia-a
+- fxa100-week10-transcript-inside-out-of-mind-audience-feedback-lakeside-arts
+tags:
+- life-story-work
+title: Life Story Work
+type: topic
 updated: 2026-05-04
 ---
 

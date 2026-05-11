@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Natural Opioid Release"
 confidence: low
-tags: ["natural-opioid-release"]
+domain: intervention
+slug: natural-opioid-release
 sources:
-  - fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there
+- fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there
+tags:
+- natural-opioid-release
+title: Natural Opioid Release
+type: topic
 updated: 2026-05-04
 ---
 

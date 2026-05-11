@@ -1,15 +1,22 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts in Healthcare Environments"
 confidence: high
-tags: ["healthcare-environment"]
+domain: intervention
+slug: arts-in-healthcare-environments
 sources:
   - fxa301-arts-in-health-ch19-36-abc-national-cultural-policy-submission
   - fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment
   - fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2)
   - fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults
-updated: 2026-05-04
+  - fxa303-week11-sexual-orientation-disclosure-in-health-care-a-systematic
+- fxa301-arts-in-health-ch19-36-abc-national-cultural-policy-submission
+- fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment
+- fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2)
+- fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults
+tags:
+- healthcare-environment
+title: Arts in Healthcare Environments
+type: topic
+updated: 2026-05-11
 ---
 
 ## Arts in Healthcare Environments
@@ -32,3 +39,4 @@ The integration of arts into healthcare settings is an evolving field that aims 
 - [fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment.md)
 - [fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2)](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2).md)
 - [fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults](../sources/fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults.md)
+- [fxa303-week11-sexual-orientation-disclosure-in-health-care-a-systematic](../sources/fxa303-week11-sexual-orientation-disclosure-in-health-care-a-systematic.md)

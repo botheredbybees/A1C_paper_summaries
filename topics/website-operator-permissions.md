@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Website Operator Permissions"
 confidence: low
-tags: ["website-operator-permissions"]
+domain: intervention
+slug: website-operator-permissions
 sources:
-  - fxa202-week10-websites-social-networks-blogs-user-generated-content
+- fxa202-week10-websites-social-networks-blogs-user-generated-content
+tags:
+- website-operator-permissions
+title: Website Operator Permissions
+type: topic
 updated: 2026-05-04
 ---
 

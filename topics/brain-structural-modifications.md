@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Brain Structural Modifications"
 confidence: low
-tags: ["brain-structural-modifications"]
+domain: intervention
+slug: brain-structural-modifications
 sources:
-  - fxa100-week01-how-has-the-internet-reshaped-human-cognition
+- fxa100-week01-how-has-the-internet-reshaped-human-cognition
+tags:
+- brain-structural-modifications
+title: Brain Structural Modifications
+type: topic
 updated: 2026-05-04
 ---
 

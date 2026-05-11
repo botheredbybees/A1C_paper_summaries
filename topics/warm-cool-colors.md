@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Warm and Cool Colors in Photography"
 confidence: low
-tags: ["warm-cool-colors"]
+domain: method
+slug: warm-and-cool-colors-in-photography
 sources:
-  - fxa202-week02-street-photography-composition-lesson-12-color-theory
+- fxa202-week02-street-photography-composition-lesson-12-color-theory
+tags:
+- warm-cool-colors
+title: Warm and Cool Colors in Photography
+type: topic
 updated: 2026-05-04
 ---
 

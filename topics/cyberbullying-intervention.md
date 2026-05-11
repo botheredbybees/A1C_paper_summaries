@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cyberbullying Intervention"
 confidence: low
-tags: ["cyberbullying-intervention"]
+domain: intervention
+slug: cyberbullying-intervention
 sources:
-  - fxa100-week09-transcript-applied-theatre-tdfs-theatre-dictionary-defining
+- fxa100-week09-transcript-applied-theatre-tdfs-theatre-dictionary-defining
+tags:
+- cyberbullying-intervention
+title: Cyberbullying Intervention
+type: topic
 updated: 2026-05-04
 ---
 

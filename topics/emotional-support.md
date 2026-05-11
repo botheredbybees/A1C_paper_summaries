@@ -1,16 +1,23 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Support in Healthcare"
 confidence: high
-tags: ["emotional-support"]
+domain: intervention
+slug: emotional-support-in-healthcare
 sources:
   - fxa100-week03-transcript-power-of-music-dementia-beatie-wolfe-the-utley
   - fxa100-week06-transcript-art-therapy-has-many-faces
   - fxa303-week05-fxa303-week-5-welcome
   - fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
   - fxa303-week08-the-life-threatened-child-and-the-life-enhancing-clown
-updated: 2026-05-04
+- fxa100-week03-transcript-power-of-music-dementia-beatie-wolfe-the-utley
+- fxa100-week06-transcript-art-therapy-has-many-faces
+- fxa303-week05-fxa303-week-5-welcome
+- fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
+- fxa303-week08-the-life-threatened-child-and-the-life-enhancing-clown
+tags:
+- emotional-support
+title: Emotional Support in Healthcare
+type: topic
+updated: 2026-05-11
 ---
 
 ## Emotional Support in Healthcare

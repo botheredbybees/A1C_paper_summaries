@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "School-Related Stress Among Youth"
 confidence: low
-tags: ["school-related-stress"]
+domain: population
+slug: school-related-stress-among-youth
 sources:
-  - fxa303-week03-youth-survey-report-2025
+- fxa303-week03-youth-survey-report-2025
+tags:
+- school-related-stress
+title: School-Related Stress Among Youth
+type: topic
 updated: 2026-05-04
 ---
 

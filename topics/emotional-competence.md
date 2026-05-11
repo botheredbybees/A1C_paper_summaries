@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Emotional Competence"
 confidence: low
-tags: ["emotional-competence"]
+domain: theory
+slug: emotional-competence
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch27-chapter-9
+- fxa301-oxford-textbook-of-creative-arts-ch27-chapter-9
+tags:
+- emotional-competence
+title: Emotional Competence
+type: topic
 updated: 2026-05-04
 ---
 

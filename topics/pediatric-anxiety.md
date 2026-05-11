@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Pediatric Anxiety"
 confidence: low
-tags: ["pediatric-anxiety"]
+domain: intervention
+slug: pediatric-anxiety
 sources:
-  - fxa303-week08-effectiveness-of-hospital-clowning-on-pediatric-anxiety-and
+- fxa303-week08-effectiveness-of-hospital-clowning-on-pediatric-anxiety-and
+tags:
+- pediatric-anxiety
+title: Pediatric Anxiety
+type: topic
 updated: 2026-05-04
 ---
 

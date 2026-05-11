@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Wabi-Sabi in Phototherapy"
 confidence: low
-tags: ["wabi-sabi"]
+domain: method
+slug: wabi-sabi-in-phototherapy
 sources:
-  - fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay
+- fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay
+tags:
+- wabi-sabi
+title: Wabi-Sabi in Phototherapy
+type: topic
 updated: 2026-05-04
 ---
 

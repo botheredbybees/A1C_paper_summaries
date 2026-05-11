@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Indirect Expression in Therapy"
 confidence: low
-tags: ["indirect-expression"]
+domain: intervention
+slug: indirect-expression-in-therapy
 sources:
-  - fxa303-week06-overview-fxa303-creative-arts-play-and-mental-wellbeing
+- fxa303-week06-overview-fxa303-creative-arts-play-and-mental-wellbeing
+tags:
+- indirect-expression
+title: Indirect Expression in Therapy
+type: topic
 updated: 2026-05-04
 ---
 

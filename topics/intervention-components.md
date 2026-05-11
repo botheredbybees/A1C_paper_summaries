@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Person-Centered Care Components"
 confidence: low
-tags: ["intervention-components"]
+domain: intervention
+slug: person-centered-care-components
 sources:
-  - fxa100-week09-key-components-of-person-centered-care-for-people-with
+- fxa100-week09-key-components-of-person-centered-care-for-people-with
+tags:
+- intervention-components
+title: Person-Centered Care Components
+type: topic
 updated: 2026-05-04
 ---
 

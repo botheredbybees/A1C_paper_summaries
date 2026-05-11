@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Ethical Considerations in Data Dissemination"
 confidence: medium
-tags: ["dissemination"]
+domain: method
+slug: ethical-considerations-in-data-dissemination
 sources:
   - fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of
   - fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of-(2)
-updated: 2026-05-04
+- fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of
+- fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of-(2)
+tags:
+- dissemination
+title: Ethical Considerations in Data Dissemination
+type: topic
+updated: 2026-05-11
 ---
 
 ## Ethical Considerations in Data Dissemination

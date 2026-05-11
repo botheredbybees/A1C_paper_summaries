@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "The Ripple Effect"
 confidence: low
-tags: ["ripple-effect"]
+domain: intervention
+slug: the-ripple-effect
 sources:
-  - fxa100-week04-the-ripple-effect-towards-researching-improvisational-music
+- fxa100-week04-the-ripple-effect-towards-researching-improvisational-music
+tags:
+- ripple-effect
+title: The Ripple Effect
+type: topic
 updated: 2026-05-04
 ---
 

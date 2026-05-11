@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "theory"
-title: "Unconditional Positive Regard"
 confidence: medium
-tags: ["unconditional-positive-regard"]
+domain: theory
+slug: unconditional-positive-regard
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6
-  - fxa303-week01-person-centered-therapy-rogerian-therapy
+- fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6
+- fxa303-week01-person-centered-therapy-rogerian-therapy
+tags:
+- unconditional-positive-regard
+title: Unconditional Positive Regard
+type: topic
 updated: 2026-05-04
 ---
 

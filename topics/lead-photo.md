@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Lead Photo"
 confidence: low
-tags: ["lead-photo"]
+domain: method
+slug: lead-photo
 sources:
-  - fxa202-week05-lesson-fxa202-week05-chapter-2-beginnings-and-endings
+- fxa202-week05-lesson-fxa202-week05-chapter-2-beginnings-and-endings
+tags:
+- lead-photo
+title: Lead Photo
+type: topic
 updated: 2026-05-04
 ---
 

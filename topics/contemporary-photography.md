@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Contemporary Photography"
 confidence: low
-tags: ["contemporary-photography"]
+domain: intervention
+slug: contemporary-photography
 sources:
-  - fxa202-week10-take-it-from-a-publishing-pro-the-photobook-format-is-up
+- fxa202-week10-take-it-from-a-publishing-pro-the-photobook-format-is-up
+tags:
+- contemporary-photography
+title: Contemporary Photography
+type: topic
 updated: 2026-05-04
 ---
 

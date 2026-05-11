@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Participant Welfare in Heritage Programs"
 confidence: low
-tags: ["participant-welfare"]
+domain: intervention
+slug: participant-welfare-in-heritage-programs
 sources:
-  - fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-(2)
+- fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-(2)
+tags:
+- participant-welfare
+title: Participant Welfare in Heritage Programs
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Oxidative Stress Mitigation"
 confidence: low
-tags: ["oxidative-stress-mitigation"]
+domain: intervention
+slug: oxidative-stress-mitigation
 sources:
-  - fxa100-week01-unveiling-the-therapeutic-potential-of-natural-products-in
+- fxa100-week01-unveiling-the-therapeutic-potential-of-natural-products-in
+tags:
+- oxidative-stress-mitigation
+title: Oxidative Stress Mitigation
+type: topic
 updated: 2026-05-04
 ---
 

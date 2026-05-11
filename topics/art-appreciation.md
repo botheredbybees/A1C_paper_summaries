@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "theory"
-title: "Art Appreciation"
 confidence: high
-tags: ["art-appreciation"]
+domain: theory
+slug: art-appreciation
 sources:
   - fxa100-week06-transcript-art-gives-same-level-of-pleasure-as-being-in-love
   - fxa301-week02-can-science-account-for-taste-psychological-insights-into
   - fxa301-week02-personality-correlates-of-aesthetic-preferences-for-art
   - fxa301-week02-the-role-of-similarity-sound-and-awareness-in-the
-updated: 2026-05-04
+- fxa100-week06-transcript-art-gives-same-level-of-pleasure-as-being-in-love
+- fxa301-week02-can-science-account-for-taste-psychological-insights-into
+- fxa301-week02-personality-correlates-of-aesthetic-preferences-for-art
+- fxa301-week02-the-role-of-similarity-sound-and-awareness-in-the
+tags:
+- art-appreciation
+title: Art Appreciation
+type: topic
+updated: 2026-05-11
 ---
 
 ## Art Appreciation

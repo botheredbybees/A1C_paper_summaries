@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Indigenous Epistemologies in Health"
 confidence: low
-tags: ["indigenous-epistemologies"]
+domain: theory
+slug: indigenous-epistemologies-in-health
 sources:
-  - fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the
+- fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the
+tags:
+- indigenous-epistemologies
+title: Indigenous Epistemologies in Health
+type: topic
 updated: 2026-05-04
 ---
 

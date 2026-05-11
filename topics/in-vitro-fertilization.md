@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "In-Vitro Fertilization"
 confidence: low
-tags: ["in-vitro-fertilization"]
+domain: intervention
+slug: in-vitro-fertilization
 sources:
-  - fxa202-week06-reflection-on-the-therapeutic-and-artistic-process-of
+- fxa202-week06-reflection-on-the-therapeutic-and-artistic-process-of
+tags:
+- in-vitro-fertilization
+title: In-Vitro Fertilization
+type: topic
 updated: 2026-05-04
 ---
 

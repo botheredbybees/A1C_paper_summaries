@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Communal Singing"
 confidence: low
-tags: ["communal-singing"]
+domain: intervention
+slug: communal-singing
 sources:
-  - fxa100-week04-what-is-singing-for-the-brain
+- fxa100-week04-what-is-singing-for-the-brain
+tags:
+- communal-singing
+title: Communal Singing
+type: topic
 updated: 2026-05-04
 ---
 

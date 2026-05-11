@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Nomophobia"
 confidence: medium
-tags: ["nomophobia"]
+domain: intervention
+slug: nomophobia
 sources:
   - fxa202-week03-lesson-fxa202-week03-week-3
   - fxa202-week03-nomophobia-the-fear-of-being-without-your-phone
   - fxa202-week03-week-three-lecture-transcript-photography-and-health
-updated: 2026-05-05
+- fxa202-week03-lesson-fxa202-week03-week-3
+- fxa202-week03-nomophobia-the-fear-of-being-without-your-phone
+- fxa202-week03-week-three-lecture-transcript-photography-and-health
+tags:
+- nomophobia
+title: Nomophobia
+type: topic
+updated: 2026-05-11
 ---
 
 ## Nomophobia

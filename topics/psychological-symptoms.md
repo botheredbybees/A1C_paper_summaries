@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Psychological Symptoms in Health Care Settings"
 confidence: low
-tags: ["psychological-symptoms"]
+domain: intervention
+slug: psychological-symptoms-in-health-care-settings
 sources:
-  - fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults
+- fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults
+tags:
+- psychological-symptoms
+title: Psychological Symptoms in Health Care Settings
+type: topic
 updated: 2026-05-04
 ---
 

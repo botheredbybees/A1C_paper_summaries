@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cognitive Impairments and Music Therapy"
 confidence: medium
-tags: ["cognitive-impairments"]
+domain: intervention
+slug: cognitive-impairments-and-music-therapy
 sources:
-  - fxa100-week02-introduction-to-week-2-music-and-the-brain
-  - fxa100-week10-playfully-engaging-people-living-with-dementia-searching
+- fxa100-week02-introduction-to-week-2-music-and-the-brain
+- fxa100-week10-playfully-engaging-people-living-with-dementia-searching
+tags:
+- cognitive-impairments
+title: Cognitive Impairments and Music Therapy
+type: topic
 updated: 2026-05-04
 ---
 

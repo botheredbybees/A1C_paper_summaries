@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Puppet Play Therapy"
 confidence: medium
-tags: ["puppet-play-therapy"]
+domain: intervention
+slug: puppet-play-therapy
 sources:
   - fxa303-week06-mr-fox-is-sad
   - fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental
-updated: 2026-05-04
+- fxa303-week06-mr-fox-is-sad
+- fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental
+tags:
+- puppet-play-therapy
+title: Puppet Play Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Puppet Play Therapy

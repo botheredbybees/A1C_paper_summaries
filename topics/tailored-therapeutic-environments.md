@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Tailored Therapeutic Environments"
 confidence: low
-tags: ["tailored-therapeutic-environments"]
+domain: intervention
+slug: tailored-therapeutic-environments
 sources:
-  - fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2)
+- fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2)
+tags:
+- tailored-therapeutic-environments
+title: Tailored Therapeutic Environments
+type: topic
 updated: 2026-05-04
 ---
 

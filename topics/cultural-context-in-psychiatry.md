@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Cultural Context in Psychiatry"
 confidence: low
-tags: ["cultural-context-in-psychiatry"]
+domain: theory
+slug: cultural-context-in-psychiatry
 sources:
-  - fxa100-week02-psychiatry-in-scripture-sacred-texts-and-psychopathology
+- fxa100-week02-psychiatry-in-scripture-sacred-texts-and-psychopathology
+tags:
+- cultural-context-in-psychiatry
+title: Cultural Context in Psychiatry
+type: topic
 updated: 2026-05-04
 ---
 

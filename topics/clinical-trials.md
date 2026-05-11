@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Risk Of Bias In Clinical Trials"
 confidence: medium
-tags: ["clinical-trials"]
+domain: method
+slug: risk-of-bias-in-clinical-trials
 sources:
   - fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-(2)
   - fxa301-week01-the-rationale-for-rating-risk-of-bias-should-be-fully
-updated: 2026-05-05
+- fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-(2)
+- fxa301-week01-the-rationale-for-rating-risk-of-bias-should-be-fully
+tags:
+- clinical-trials
+title: Risk Of Bias In Clinical Trials
+type: topic
+updated: 2026-05-11
 ---
 
 ## Risk Of Bias In Clinical Trials

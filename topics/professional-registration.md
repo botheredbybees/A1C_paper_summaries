@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Professional Registration"
 confidence: low
-tags: ["professional-registration"]
+domain: intervention
+slug: professional-registration
 sources:
-  - fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care
+- fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care
+tags:
+- professional-registration
+title: Professional Registration
+type: topic
 updated: 2026-05-04
 ---
 

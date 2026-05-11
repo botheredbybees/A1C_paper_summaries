@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Left-Brain Right-Brain Dominance Myth"
 confidence: low
-tags: ["left-brain-right-brain-dominance-myth"]
+domain: theory
+slug: left-brain-right-brain-dominance-myth
 sources:
-  - fxa100-week02-are-people-really-left-brained-or-right-brain
+- fxa100-week02-are-people-really-left-brained-or-right-brain
+tags:
+- left-brain-right-brain-dominance-myth
+title: Left-Brain Right-Brain Dominance Myth
+type: topic
 updated: 2026-05-04
 ---
 

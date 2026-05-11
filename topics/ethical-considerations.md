@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "theory"
-title: "Ethical Considerations in Therapeutic Practices"
 confidence: medium
-tags: ["ethical-considerations"]
+domain: theory
+slug: ethical-considerations-in-therapeutic-practices
 sources:
   - fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography
   - fxa301-week01-making-art-with-communities-a-work-guide-(2)
   - fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness
-updated: 2026-05-05
+- fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography
+- fxa301-week01-making-art-with-communities-a-work-guide-(2)
+- fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness
+tags:
+- ethical-considerations
+title: Ethical Considerations in Therapeutic Practices
+type: topic
+updated: 2026-05-11
 ---
 
 ## Ethical Considerations in Therapeutic Practices

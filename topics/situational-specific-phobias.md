@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Situational Specific Phobias"
 confidence: low
-tags: ["situational-specific-phobias"]
+domain: theory
+slug: situational-specific-phobias
 sources:
-  - fxa202-week03-nomophobia-the-fear-of-being-without-your-phone
+- fxa202-week03-nomophobia-the-fear-of-being-without-your-phone
+tags:
+- situational-specific-phobias
+title: Situational Specific Phobias
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Elements of Effective Visual Art Intervention"
 confidence: low
-tags: ["effective-intervention-elements"]
+domain: intervention
+slug: elements-of-effective-visual-art-intervention
 sources:
-  - fxa100-week08-what-are-the-required-elements-needed-to-create-an
+- fxa100-week08-what-are-the-required-elements-needed-to-create-an
+tags:
+- effective-intervention-elements
+title: Elements of Effective Visual Art Intervention
+type: topic
 updated: 2026-05-04
 ---
 

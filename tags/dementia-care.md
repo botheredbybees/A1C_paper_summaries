@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dementia-care
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Dementia Care
@@ -162,6 +162,15 @@ updated: 2026-05-06
 - [Transcript of Play Trailer Discussing Dementia Care](../sources/fxa100-week10-transcript-this-trailer-gives-an-overview-of-the-play-and.md)
 - [Transforming Dementia Care Through Theatre](../sources/fxa100-week10-transforming-dementia-care-through-theatre.md)
 - [Week 10 Lecture: Theatre and Play in Dementia Care](../sources/fxa100-week10-week-10-lecture-theatre-and-play-in-dementia-care.md)
+- [Dancemind\u2019s \u2018Moving Memories\u2019 Evaluation and analysis; a UK based dance and health project for people living with dementia and their care-staff](../sources/fxa100-week11-danceminds-moving-memories-evaluation-and-analysis-a-uk.md)
+- [Benefits of Dance and Movement for People with Dementia](../sources/fxa100-week11-lesson-fxa100-week11-page-1-welcome-to-week-10.md)
+- [Dance Movement Therapy and Dementia Care](../sources/fxa100-week11-lesson-fxa100-week11-page-2-dance-movement-therapy-and.md)
+- [Dance/Movement Therapy Projects for Dementia](../sources/fxa100-week11-lesson-fxa100-week11-page-3-dancemovement-therapy.md)
+- [Activities for Week 11 - FXA100 The Arts and Dementia Care](../sources/fxa100-week11-lesson-fxa100-week11-page-4-week-10-activities.md)
+- [The benefits of community-based participatory arts activities for people living with dementia: a thematic scoping review](../sources/fxa100-week11-the-benefits-of-community-based-participatory-arts.md)
+- [The Emotional Response to Social Dancing and Walks in Persons With Dementia](../sources/fxa100-week11-the-emotional-response-to-social-dancing-and-walks-in.md)
+- [The Social Emotional Context of Dementia Care](../sources/fxa100-week11-transcript-youtube-tyf9-zkdrc8.md)
+- [Week 11 Lecture: Benefits of Dance and Movement for People with Dementia](../sources/fxa100-week11-week-11-lecture-benefits-of-dance-and-movement-for-people.md)
 - [Critical Reflection on '28 Solomon Street': A Photo Essay](../sources/fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay.md)
 - [Apples Never Fall: Exploring the Role of Food in Family Wellbeing and Memory through Therapeutic Photography](../sources/fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family.md)
 - [Does a Model Exist?](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment.md)

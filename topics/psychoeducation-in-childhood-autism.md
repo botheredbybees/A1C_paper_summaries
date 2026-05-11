@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Psychoeducation in Childhood Autism"
 confidence: low
-tags: ["psychoeducation-in-childhood-autism"]
+domain: intervention
+slug: psychoeducation-in-childhood-autism
 sources:
-  - fxa303-week04-transcript-duration-3-03
+- fxa303-week04-transcript-duration-3-03
+tags:
+- psychoeducation-in-childhood-autism
+title: Psychoeducation in Childhood Autism
+type: topic
 updated: 2026-05-04
 ---
 

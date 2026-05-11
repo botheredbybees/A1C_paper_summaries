@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Gait Training For Parkinson's Patients Using Music"
 confidence: low
-tags: ["gait-training"]
+domain: intervention
+slug: gait-training-for-parkinson-s-patients-using-music
 sources:
-  - fxa301-week06-transcript-gait-training-for-parkinsons-patient-using-music
+- fxa301-week06-transcript-gait-training-for-parkinsons-patient-using-music
+tags:
+- gait-training
+title: Gait Training For Parkinson's Patients Using Music
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Photo Therapy"
 confidence: medium
-tags: ["photo-therapy"]
+domain: intervention
+slug: photo-therapy
 sources:
-  - fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay
-  - fxa202-week08-week-8-lecture-notes-editing-your-images
+- fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay
+- fxa202-week08-week-8-lecture-notes-editing-your-images
+tags:
+- photo-therapy
+title: Photo Therapy
+type: topic
 updated: 2026-05-04
 ---
 

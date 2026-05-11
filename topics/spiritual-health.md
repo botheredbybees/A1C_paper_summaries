@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Spiritual Health"
 confidence: low
-tags: ["spiritual-health"]
+domain: theory
+slug: spiritual-health
 sources:
-  - fxa100-week07-dementia-and-our-mob-caring-for-spirit
+- fxa100-week07-dementia-and-our-mob-caring-for-spirit
+tags:
+- spiritual-health
+title: Spiritual Health
+type: topic
 updated: 2026-05-04
 ---
 

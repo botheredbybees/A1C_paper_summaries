@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sundown Syndrome in Theatre"
 confidence: low
-tags: ["sundowner-play"]
+domain: intervention
+slug: sundown-syndrome-in-theatre
 sources:
-  - fxa100-week10-lesson-fxa100-week10-page-3-kage-physical-theatre
+- fxa100-week10-lesson-fxa100-week10-page-3-kage-physical-theatre
+tags:
+- sundowner-play
+title: Sundown Syndrome in Theatre
+type: topic
 updated: 2026-05-04
 ---
 

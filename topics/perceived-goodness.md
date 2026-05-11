@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Perceived Goodness in Music"
 confidence: low
-tags: ["perceived-goodness"]
+domain: theory
+slug: perceived-goodness-in-music
 sources:
-  - fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness
+- fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness
+tags:
+- perceived-goodness
+title: Perceived Goodness in Music
+type: topic
 updated: 2026-05-04
 ---
 

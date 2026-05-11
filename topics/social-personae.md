@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Social Personae in Dementia Care"
 confidence: low
-tags: ["social-personae"]
+domain: intervention
+slug: social-personae-in-dementia-care
 sources:
-  - fxa100-excellence-in-dementia-care--ch42-1-there-is-a-stereotypic-view
+- fxa100-excellence-in-dementia-care--ch42-1-there-is-a-stereotypic-view
+tags:
+- social-personae
+title: Social Personae in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

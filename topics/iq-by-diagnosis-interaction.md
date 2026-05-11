@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Iq By Diagnosis Interaction"
 confidence: low
-tags: ["iq-by-diagnosis-interaction"]
+domain: theory
+slug: iq-by-diagnosis-interaction
 sources:
-  - fxa303-week04-evidence-against-the-normalization-prediction-of-the-early
+- fxa303-week04-evidence-against-the-normalization-prediction-of-the-early
+tags:
+- iq-by-diagnosis-interaction
+title: Iq By Diagnosis Interaction
+type: topic
 updated: 2026-05-04
 ---
 

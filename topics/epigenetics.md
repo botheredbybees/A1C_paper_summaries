@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Epigenetics"
 confidence: low
-tags: ["epigenetics"]
+domain: theory
+slug: epigenetics
 sources:
-  - fxa303-week03-chapter-11-human-development-how-and-why-we-change
+- fxa303-week03-chapter-11-human-development-how-and-why-we-change
+tags:
+- epigenetics
+title: Epigenetics
+type: topic
 updated: 2026-05-04
 ---
 

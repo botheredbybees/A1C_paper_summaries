@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Early Intervention Services for Children with Disabilities"
 confidence: low
-tags: ["early-intervention-services"]
+domain: intervention
+slug: early-intervention-services-for-children-with-disabilities
 sources:
-  - fxa303-week04-missed-early-intervention-opportunities-for-children-with
+- fxa303-week04-missed-early-intervention-opportunities-for-children-with
+tags:
+- early-intervention-services
+title: Early Intervention Services for Children with Disabilities
+type: topic
 updated: 2026-05-04
 ---
 

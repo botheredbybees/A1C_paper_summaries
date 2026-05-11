@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Meaning Making in Dementia Care"
 confidence: low
-tags: ["meaning-making"]
+domain: intervention
+slug: meaning-making-in-dementia-care
 sources:
-  - fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum
+- fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum
+tags:
+- meaning-making
+title: Meaning Making in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

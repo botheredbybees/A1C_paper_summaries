@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Project Contracts in Arts and Health"
 confidence: low
-tags: ["project-contract"]
+domain: method
+slug: project-contracts-in-arts-and-health
 sources:
-  - fxa301-arts-in-health-ch44-1-the-artist-(2)
+- fxa301-arts-in-health-ch44-1-the-artist-(2)
+tags:
+- project-contract
+title: Project Contracts in Arts and Health
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Gait Variability in Parkinson's Disease"
 confidence: low
-tags: ["gait-variability"]
+domain: intervention
+slug: gait-variability-in-parkinson-s-disease
 sources:
-  - fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait
+- fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait
+tags:
+- gait-variability
+title: Gait Variability in Parkinson's Disease
+type: topic
 updated: 2026-05-04
 ---
 

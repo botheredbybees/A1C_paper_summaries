@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Collaborative Performance"
 confidence: low
-tags: ["collaborative-performance"]
+domain: intervention
+slug: collaborative-performance
 sources:
-  - fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1
+- fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1
+tags:
+- collaborative-performance
+title: Collaborative Performance
+type: topic
 updated: 2026-05-04
 ---
 

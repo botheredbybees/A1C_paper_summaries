@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "School-Based Creative Arts Therapy Programs"
 confidence: medium
-tags: ["school-based-programming"]
+domain: intervention
+slug: school-based-creative-arts-therapy-programs
 sources:
   - fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the
   - fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy
-updated: 2026-05-04
+- fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the
+- fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy
+tags:
+- school-based-programming
+title: School-Based Creative Arts Therapy Programs
+type: topic
+updated: 2026-05-11
 ---
 
 ## School-Based Creative Arts Therapy Programs

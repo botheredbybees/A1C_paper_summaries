@@ -1,14 +1,20 @@
 ---
-type: topic
-domain: "intervention"
-title: "Health Equity Through Cultural Programs"
 confidence: medium
-tags: ["health-equity"]
+domain: intervention
+slug: health-equity-through-cultural-programs
 sources:
   - fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions-(2)
   - fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report
   - fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing
-updated: 2026-05-05
+  - fxa303-week11-reimagining-wellbeing-using-arts-based-methods-to-address
+- fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions-(2)
+- fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report
+- fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing
+tags:
+- health-equity
+title: Health Equity Through Cultural Programs
+type: topic
+updated: 2026-05-11
 ---
 
 ## Health Equity Through Cultural Programs
@@ -30,3 +36,4 @@ The synthesis of the provided sources underscores how cultural programs and inte
 - [fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions-(2).md)
 - [fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report](../sources/fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report.md)
 - [fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing](../sources/fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing.md)
+- [fxa303-week11-reimagining-wellbeing-using-arts-based-methods-to-address](../sources/fxa303-week11-reimagining-wellbeing-using-arts-based-methods-to-address.md)

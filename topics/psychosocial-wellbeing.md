@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts on Prescription for Psychosocial Wellbeing"
 confidence: low
-tags: ["psychosocial-wellbeing"]
+domain: intervention
+slug: arts-on-prescription-for-psychosocial-wellbeing
 sources:
-  - fxa303-week03-the-impact-of-arts-on-prescription-on-individual-health-and
+- fxa303-week03-the-impact-of-arts-on-prescription-on-individual-health-and
+tags:
+- psychosocial-wellbeing
+title: Arts on Prescription for Psychosocial Wellbeing
+type: topic
 updated: 2026-05-04
 ---
 

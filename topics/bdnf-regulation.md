@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Bdnf Regulation"
 confidence: low
-tags: ["bdnf-regulation"]
+domain: intervention
+slug: bdnf-regulation
 sources:
-  - fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining
+- fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining
+tags:
+- bdnf-regulation
+title: Bdnf Regulation
+type: topic
 updated: 2026-05-04
 ---
 

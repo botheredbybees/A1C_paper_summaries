@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Interconnectedness of Nature"
 confidence: low
-tags: ["interconnectedness-nature"]
+domain: theory
+slug: interconnectedness-of-nature
 sources:
-  - fxa202-week09-natures-cycle-of-life-and-death-a-reflection-on-beauty-in
+- fxa202-week09-natures-cycle-of-life-and-death-a-reflection-on-beauty-in
+tags:
+- interconnectedness-nature
+title: Interconnectedness of Nature
+type: topic
 updated: 2026-05-04
 ---
 

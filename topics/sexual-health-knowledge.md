@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sexual Health Knowledge Among Youth"
 confidence: low
-tags: ["sexual-health-knowledge"]
+domain: intervention
+slug: sexual-health-knowledge-among-youth
 sources:
-  - fxa301-week08-evaluating-the-sharing-stories-youth-theatre-program-an
+- fxa301-week08-evaluating-the-sharing-stories-youth-theatre-program-an
+tags:
+- sexual-health-knowledge
+title: Sexual Health Knowledge Among Youth
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Nonverbal Communication"
 confidence: low
-tags: ["therapeutic-nonverbal-communication"]
+domain: intervention
+slug: therapeutic-nonverbal-communication
 sources:
-  - fxa303-week04-transcript-duration-34-19
+- fxa303-week04-transcript-duration-34-19
+tags:
+- therapeutic-nonverbal-communication
+title: Therapeutic Nonverbal Communication
+type: topic
 updated: 2026-05-04
 ---
 

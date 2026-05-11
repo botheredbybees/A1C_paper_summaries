@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Play as a Fundamental Right"
 confidence: low
-tags: ["play-as-fundamental-right"]
+domain: intervention
+slug: play-as-a-fundamental-right
 sources:
-  - fxa303-week08-hospital-clowning-as-play-stimulus-in-healthcare
+- fxa303-week08-hospital-clowning-as-play-stimulus-in-healthcare
+tags:
+- play-as-fundamental-right
+title: Play as a Fundamental Right
+type: topic
 updated: 2026-05-04
 ---
 

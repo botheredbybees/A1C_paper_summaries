@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Emotional Introspection"
 confidence: low
-tags: ["emotional-introspection"]
+domain: method
+slug: emotional-introspection
 sources:
-  - fxa202-week09-journaling-books-review
+- fxa202-week09-journaling-books-review
+tags:
+- emotional-introspection
+title: Emotional Introspection
+type: topic
 updated: 2026-05-04
 ---
 

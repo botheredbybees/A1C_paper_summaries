@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Evidence-Based Engagement"
 confidence: low
-tags: ["evidence-based-engagement"]
+domain: method
+slug: evidence-based-engagement
 sources:
-  - fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report
+- fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report
+tags:
+- evidence-based-engagement
+title: Evidence-Based Engagement
+type: topic
 updated: 2026-05-04
 ---
 

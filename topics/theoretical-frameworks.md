@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Theoretical Frameworks in Health and Well-being"
 confidence: low
-tags: ["theoretical-frameworks"]
+domain: theory
+slug: theoretical-frameworks-in-health-and-well-being
 sources:
-  - fxa202-week10-conclusions-and-implications-for-future-research
+- fxa202-week10-conclusions-and-implications-for-future-research
+tags:
+- theoretical-frameworks
+title: Theoretical Frameworks in Health and Well-being
+type: topic
 updated: 2026-05-04
 ---
 

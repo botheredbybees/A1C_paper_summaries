@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Perceptual Biases in Trauma"
 confidence: low
-tags: ["perceptual-biases-in-trauma"]
+domain: intervention
+slug: perceptual-biases-in-trauma
 sources:
-  - fxa301-week10-using-creative-arts-in-trauma-therapy-the-neuroscience-of
+- fxa301-week10-using-creative-arts-in-trauma-therapy-the-neuroscience-of
+tags:
+- perceptual-biases-in-trauma
+title: Perceptual Biases in Trauma
+type: topic
 updated: 2026-05-04
 ---
 

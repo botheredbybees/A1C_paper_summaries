@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Frontotemporal Dementia"
 confidence: low
-tags: ["fronto-temporal-dementia"]
+domain: population
+slug: frontotemporal-dementia
 sources:
-  - fxa100-week06-art-and-the-brain-a-view-from-dementia
+- fxa100-week06-art-and-the-brain-a-view-from-dementia
+tags:
+- fronto-temporal-dementia
+title: Frontotemporal Dementia
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,12 +1,16 @@
 ---
-type: topic
-domain: "intervention"
-title: "Intergenerational Interaction"
 confidence: low
-tags: ["intergenerational-interaction"]
+domain: intervention
+slug: intergenerational-interaction
 sources:
-  - fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january
-updated: 2026-05-04
+  - fxa100-week04-intergenerational-choir-transcript
+  - fxa100-week11-intergenerational-dancemovement-program-in-melbourne
+- fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january
+tags:
+- intergenerational-interaction
+title: Intergenerational Interaction
+type: topic
+updated: 2026-05-11
 ---
 
 ## Intergenerational Interaction
@@ -24,4 +28,5 @@ The synthesis of the provided sources highlights intergenerational interaction a
 
 ## Sources
 
-- [fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january](../sources/fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january.md)
+- [fxa100-week04-intergenerational-choir-transcript](../sources/fxa100-week04-intergenerational-choir-transcript.md)
+- [fxa100-week11-intergenerational-dancemovement-program-in-melbourne](../sources/fxa100-week11-intergenerational-dancemovement-program-in-melbourne.md)

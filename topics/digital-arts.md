@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Digital Arts in Community Engagement and Education"
 confidence: low
-tags: ["digital-arts"]
+domain: intervention
+slug: digital-arts-in-community-engagement-and-education
 sources:
-  - fxa301-week03-creating-our-future-results-of-the-national-arts
+- fxa301-week03-creating-our-future-results-of-the-national-arts
+tags:
+- digital-arts
+title: Digital Arts in Community Engagement and Education
+type: topic
 updated: 2026-05-04
 ---
 

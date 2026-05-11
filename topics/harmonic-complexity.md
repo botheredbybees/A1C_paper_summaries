@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Harmonic Complexity in Music"
 confidence: low
-tags: ["harmonic-complexity"]
+domain: intervention
+slug: harmonic-complexity-in-music
 sources:
-  - fxa301-week02-relationships-between-musical-structure-and
+- fxa301-week02-relationships-between-musical-structure-and
+tags:
+- harmonic-complexity
+title: Harmonic Complexity in Music
+type: topic
 updated: 2026-05-04
 ---
 

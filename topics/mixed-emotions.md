@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Mixed Emotions in Music-Evoked Nostalgia"
 confidence: low
-tags: ["mixed-emotions"]
+domain: intervention
+slug: mixed-emotions-in-music-evoked-nostalgia
 sources:
-  - fxa301-week02-music-evoked-nostalgia-affect-memory-and-personality
+- fxa301-week02-music-evoked-nostalgia-affect-memory-and-personality
+tags:
+- mixed-emotions
+title: Mixed Emotions in Music-Evoked Nostalgia
+type: topic
 updated: 2026-05-04
 ---
 

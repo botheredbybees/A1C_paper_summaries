@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Collaborative Engagement"
 confidence: low
-tags: ["collaborative-engagement"]
+domain: method
+slug: collaborative-engagement
 sources:
-  - fxa301-week09-lesson-fxa301-week09-page-1
+- fxa301-week09-lesson-fxa301-week09-page-1
+tags:
+- collaborative-engagement
+title: Collaborative Engagement
+type: topic
 updated: 2026-05-04
 ---
 

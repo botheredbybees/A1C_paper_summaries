@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Active Participation"
 confidence: low
-tags: ["active-participation"]
+domain: intervention
+slug: active-participation
 sources:
-  - fxa301-week06-week-6-activities-fxa301-arts-in-the-community
+- fxa301-week06-week-6-activities-fxa301-arts-in-the-community
+tags:
+- active-participation
+title: Active Participation
+type: topic
 updated: 2026-05-04
 ---
 

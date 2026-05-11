@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Visual Complementarity"
 confidence: low
-tags: ["visual-complementarity"]
+domain: method
+slug: visual-complementarity
 sources:
-  - fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2)
+- fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2)
+tags:
+- visual-complementarity
+title: Visual Complementarity
+type: topic
 updated: 2026-05-04
 ---
 

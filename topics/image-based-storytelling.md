@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Image-Based Storytelling"
 confidence: low
-tags: ["image-based-storytelling"]
+domain: intervention
+slug: image-based-storytelling
 sources:
-  - fxa202-week05-week-5-introduction-to-storytelling
+- fxa202-week05-week-5-introduction-to-storytelling
+tags:
+- image-based-storytelling
+title: Image-Based Storytelling
+type: topic
 updated: 2026-05-04
 ---
 

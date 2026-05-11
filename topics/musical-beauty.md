@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Aesthetic Responses to Music"
 confidence: low
-tags: ["musical-beauty"]
+domain: theory
+slug: aesthetic-responses-to-music
 sources:
-  - fxa301-week02-aesthetic-responses-to-music-a-questionnaire-study
+- fxa301-week02-aesthetic-responses-to-music-a-questionnaire-study
+tags:
+- musical-beauty
+title: Aesthetic Responses to Music
+type: topic
 updated: 2026-05-04
 ---
 

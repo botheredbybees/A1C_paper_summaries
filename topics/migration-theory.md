@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Migration Theory"
 confidence: low
-tags: ["migration-theory"]
+domain: theory
+slug: migration-theory
 sources:
-  - fxa301-week01-web-article-bbc-2012
+- fxa301-week01-web-article-bbc-2012
+tags:
+- migration-theory
+title: Migration Theory
+type: topic
 updated: 2026-05-04
 ---
 

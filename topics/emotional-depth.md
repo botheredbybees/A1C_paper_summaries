@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Emotional Depth in Visual Storytelling"
 confidence: low
-tags: ["emotional-depth"]
+domain: method
+slug: emotional-depth-in-visual-storytelling
 sources:
-  - fxa202-week06-critical-reflection-on-visual-storytelling-through
+- fxa202-week06-critical-reflection-on-visual-storytelling-through
+tags:
+- emotional-depth
+title: Emotional Depth in Visual Storytelling
+type: topic
 updated: 2026-05-04
 ---
 

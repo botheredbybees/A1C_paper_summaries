@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Neural Correlates of Musical Experience"
 confidence: low
-tags: ["neural-correlates-of-musical-experience"]
+domain: theory
+slug: neural-correlates-of-musical-experience
 sources:
-  - fxa100-week02-the-power-of-music
+- fxa100-week02-the-power-of-music
+tags:
+- neural-correlates-of-musical-experience
+title: Neural Correlates of Musical Experience
+type: topic
 updated: 2026-05-04
 ---
 

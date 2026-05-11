@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Mindful Photography"
 confidence: medium
-tags: ["mindful-photography"]
+domain: intervention
+slug: mindful-photography
 sources:
-  - fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography
-  - fxa202-week06-reflection-on-the-therapeutic-and-artistic-process-of
+- fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography
+- fxa202-week06-reflection-on-the-therapeutic-and-artistic-process-of
+tags:
+- mindful-photography
+title: Mindful Photography
+type: topic
 updated: 2026-05-04
 ---
 

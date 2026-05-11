@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Singing Therapy for Dementia Patients"
 confidence: low
-tags: ["therapeutic-interventions-in-dementia-care"]
+domain: intervention
+slug: singing-therapy-for-dementia-patients
 sources:
-  - fxa100-week04-lesson-fxa100-week04-page-3-singing
+- fxa100-week04-lesson-fxa100-week04-page-3-singing
+tags:
+- therapeutic-interventions-in-dementia-care
+title: Singing Therapy for Dementia Patients
+type: topic
 updated: 2026-05-04
 ---
 

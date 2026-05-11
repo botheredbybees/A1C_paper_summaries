@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Intergenerational Relationships"
 confidence: low
-tags: ["intergenerational-relationships"]
+domain: population
+slug: intergenerational-relationships
 sources:
-  - fxa100-week09-in-my-fathers-words-review-sophisticated-dementia-drama
+- fxa100-week09-in-my-fathers-words-review-sophisticated-dementia-drama
+tags:
+- intergenerational-relationships
+title: Intergenerational Relationships
+type: topic
 updated: 2026-05-04
 ---
 

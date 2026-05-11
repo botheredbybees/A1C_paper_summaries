@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Playful Interventions"
 confidence: low
-tags: ["playful-interventions"]
+domain: intervention
+slug: playful-interventions
 sources:
-  - fxa303-play-for-health-across-the-lifespan-ch02-chapter-8
+- fxa303-play-for-health-across-the-lifespan-ch02-chapter-8
+tags:
+- playful-interventions
+title: Playful Interventions
+type: topic
 updated: 2026-05-04
 ---
 

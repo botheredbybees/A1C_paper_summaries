@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cultural Expression Through Hip Hop and Arts-Informed Research"
 confidence: medium
-tags: ["cultural-expression"]
+domain: intervention
+slug: cultural-expression-through-hip-hop-and-arts-informed-research
 sources:
   - fxa303-week10-diamonds-in-the-backyard-migrant-youth-and-hip-hop-in
   - fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to
-updated: 2026-05-04
+- fxa303-week10-diamonds-in-the-backyard-migrant-youth-and-hip-hop-in
+- fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to
+tags:
+- cultural-expression
+title: Cultural Expression Through Hip Hop and Arts-Informed Research
+type: topic
+updated: 2026-05-11
 ---
 
 ## Cultural Expression Through Hip Hop and Arts-Informed Research

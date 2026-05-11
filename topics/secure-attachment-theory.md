@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Secure Attachment Theory"
 confidence: low
-tags: ["secure-attachment-theory"]
+domain: theory
+slug: secure-attachment-theory
 sources:
-  - fxa303-week02-free-play-and-childrens-mental-health
+- fxa303-week02-free-play-and-childrens-mental-health
+tags:
+- secure-attachment-theory
+title: Secure Attachment Theory
+type: topic
 updated: 2026-05-04
 ---
 

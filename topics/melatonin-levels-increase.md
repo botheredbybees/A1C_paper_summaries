@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Melatonin Levels Increase Through Singing"
 confidence: low
-tags: ["melatonin-levels-increase"]
+domain: intervention
+slug: melatonin-levels-increase-through-singing
 sources:
-  - fxa100-week04-singing-and-participation
+- fxa100-week04-singing-and-participation
+tags:
+- melatonin-levels-increase
+title: Melatonin Levels Increase Through Singing
+type: topic
 updated: 2026-05-04
 ---
 

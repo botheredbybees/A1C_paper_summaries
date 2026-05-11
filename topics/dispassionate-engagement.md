@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Dispassionate Engagement in Storytelling Through Images"
 confidence: low
-tags: ["dispassionate-engagement"]
+domain: method
+slug: dispassionate-engagement-in-storytelling-through-images
 sources:
-  - fxa202-week10-lesson-fxa202-week10-page-4
+- fxa202-week10-lesson-fxa202-week10-page-4
+tags:
+- dispassionate-engagement
+title: Dispassionate Engagement in Storytelling Through Images
+type: topic
 updated: 2026-05-04
 ---
 

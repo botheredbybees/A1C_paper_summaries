@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Delayed Recall in Dementia"
 confidence: low
-tags: ["delayed-recall"]
+domain: intervention
+slug: delayed-recall-in-dementia
 sources:
-  - fxa100-week06-art-training-in-dementia-a-randomized-controlled-trial
+- fxa100-week06-art-training-in-dementia-a-randomized-controlled-trial
+tags:
+- delayed-recall
+title: Delayed Recall in Dementia
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cognitive Training"
 confidence: low
-tags: ["cognitive-training"]
+domain: intervention
+slug: cognitive-training
 sources:
-  - fxa100-week09-key-intervention-categories-to-provide-person-centered
+- fxa100-week09-key-intervention-categories-to-provide-person-centered
+tags:
+- cognitive-training
+title: Cognitive Training
+type: topic
 updated: 2026-05-04
 ---
 

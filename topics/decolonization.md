@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Decolonization"
 confidence: low
-tags: ["decolonization"]
+domain: theory
+slug: decolonization
 sources:
-  - fxa303-week10-indigenous-methodology-an-ethical-systems-approach-to-arts
+- fxa303-week10-indigenous-methodology-an-ethical-systems-approach-to-arts
+tags:
+- decolonization
+title: Decolonization
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Negative Space in Photography"
 confidence: medium
-tags: ["negative-space"]
+domain: method
+slug: negative-space-in-photography
 sources:
   - fxa202-week02-negative-space-for-photographers-the-ultimate-guide
   - fxa202-week02-negative-space-in-photography-and-positive-space
-updated: 2026-05-03
+- fxa202-week02-negative-space-for-photographers-the-ultimate-guide
+- fxa202-week02-negative-space-in-photography-and-positive-space
+tags:
+- negative-space
+title: Negative Space in Photography
+type: topic
+updated: 2026-05-11
 ---
 
 ## Negative Space in Photography

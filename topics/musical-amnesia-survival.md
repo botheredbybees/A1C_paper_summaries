@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Musical Amnesia Survival"
 confidence: low
-tags: ["musical-amnesia-survival"]
+domain: intervention
+slug: musical-amnesia-survival
 sources:
-  - fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted
+- fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted
+tags:
+- musical-amnesia-survival
+title: Musical Amnesia Survival
+type: topic
 updated: 2026-05-04
 ---
 

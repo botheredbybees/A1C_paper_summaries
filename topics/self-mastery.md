@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Self-Mastery"
 confidence: low
-tags: ["self-mastery"]
+domain: intervention
+slug: self-mastery
 sources:
-  - fxa303-week05-platos-puppets-of-the-gods-representing-the-magical-the
+- fxa303-week05-platos-puppets-of-the-gods-representing-the-magical-the
+tags:
+- self-mastery
+title: Self-Mastery
+type: topic
 updated: 2026-05-04
 ---
 

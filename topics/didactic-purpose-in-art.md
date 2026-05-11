@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Didactic Purpose In Art"
 confidence: low
-tags: ["didactic-purpose-in-art"]
+domain: theory
+slug: didactic-purpose-in-art
 sources:
-  - fxa301-week05-de-botton-art-is-therapy-at-the-rijksmuseum
+- fxa301-week05-de-botton-art-is-therapy-at-the-rijksmuseum
+tags:
+- didactic-purpose-in-art
+title: Didactic Purpose In Art
+type: topic
 updated: 2026-05-04
 ---
 

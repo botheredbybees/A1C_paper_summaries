@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Free-Guided Play Duality"
 confidence: low
-tags: ["free-guided-play-duality"]
+domain: theory
+slug: free-guided-play-duality
 sources:
-  - fxa303-week02-accessing-the-inaccessible-redefining-play-as-a-spectrum
+- fxa303-week02-accessing-the-inaccessible-redefining-play-as-a-spectrum
+tags:
+- free-guided-play-duality
+title: Free-Guided Play Duality
+type: topic
 updated: 2026-05-04
 ---
 

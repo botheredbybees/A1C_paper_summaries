@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Community Cultural Development"
 confidence: low
-tags: ["community-cultural-development-ccd"]
+domain: intervention
+slug: community-cultural-development
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch22-chapter-7
+- fxa301-oxford-textbook-of-creative-arts-ch22-chapter-7
+tags:
+- community-cultural-development-ccd
+title: Community Cultural Development
+type: topic
 updated: 2026-05-04
 ---
 

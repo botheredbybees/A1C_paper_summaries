@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Adaptive Behavior in Children with Autism"
 confidence: low
-tags: ["adaptive-behavior"]
+domain: intervention
+slug: adaptive-behavior-in-children-with-autism
 sources:
-  - fxa303-week04-play-therapy-in-children-with-autism-its-role-implications
+- fxa303-week04-play-therapy-in-children-with-autism-its-role-implications
+tags:
+- adaptive-behavior
+title: Adaptive Behavior in Children with Autism
+type: topic
 updated: 2026-05-04
 ---
 

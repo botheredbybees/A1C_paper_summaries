@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Multitasking Increases"
 confidence: low
-tags: ["multitasking-increases"]
+domain: intervention
+slug: multitasking-increases
 sources:
-  - fxa100-week01-how-has-the-internet-reshaped-human-cognition
+- fxa100-week01-how-has-the-internet-reshaped-human-cognition
+tags:
+- multitasking-increases
+title: Multitasking Increases
+type: topic
 updated: 2026-05-04
 ---
 

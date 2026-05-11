@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Big Noise Programme"
 confidence: medium
-tags: ["big-noise-programme"]
+domain: intervention
+slug: big-noise-programme
 sources:
-  - fxa301-week06-case-studies-of-community-projects-big-noise-sistema
-  - fxa301-week06-evaluation-of-big-noise-douglas
+- fxa301-week06-case-studies-of-community-projects-big-noise-sistema
+- fxa301-week06-evaluation-of-big-noise-douglas
+tags:
+- big-noise-programme
+title: Big Noise Programme
+type: topic
 updated: 2026-05-04
 ---
 

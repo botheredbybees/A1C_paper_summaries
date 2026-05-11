@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Critical Thinking Skills"
 confidence: low
-tags: ["critical-thinking-skills"]
+domain: theory
+slug: critical-thinking-skills
 sources:
-  - fxa100-week01-ai-tools-in-society-impacts-on-cognitive-offloading-and-the
+- fxa100-week01-ai-tools-in-society-impacts-on-cognitive-offloading-and-the
+tags:
+- critical-thinking-skills
+title: Critical Thinking Skills
+type: topic
 updated: 2026-05-04
 ---
 

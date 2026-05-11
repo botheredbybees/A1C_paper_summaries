@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Puppet Theatre"
 confidence: medium
-tags: ["puppet-theatre"]
+domain: intervention
+slug: puppet-theatre
 sources:
   - fxa303-week05-transcript-introduction-to-rod-puppets-spare-parts-puppet
   - fxa303-week06-lesson-fxa303-week06-page-1-overview
   - fxa303-week06-miss-lilys-fabulous-feather-boa
-updated: 2026-05-04
+- fxa303-week05-transcript-introduction-to-rod-puppets-spare-parts-puppet
+- fxa303-week06-lesson-fxa303-week06-page-1-overview
+- fxa303-week06-miss-lilys-fabulous-feather-boa
+tags:
+- puppet-theatre
+title: Puppet Theatre
+type: topic
+updated: 2026-05-11
 ---
 
 ## Puppet Theatre

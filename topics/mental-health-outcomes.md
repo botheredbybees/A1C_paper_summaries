@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Arts and Play-Based Interventions for Mental Health"
 confidence: high
-tags: ["mental-health-outcomes"]
+domain: intervention
+slug: creative-arts-and-play-based-interventions-for-mental-health
 sources:
   - fxa100-week04-arts-in-health-designing-and-researching-interventions
   - fxa303-week04-play-based-interventions-for-mental-health-a-systematic
   - fxa303-week09-effectiveness-of-creative-arts-based-interventions-for
   - fxa303-week09-exploring-child-centered-play-therapy-and-trauma-a
-updated: 2026-05-04
+- fxa100-week04-arts-in-health-designing-and-researching-interventions
+- fxa303-week04-play-based-interventions-for-mental-health-a-systematic
+- fxa303-week09-effectiveness-of-creative-arts-based-interventions-for
+- fxa303-week09-exploring-child-centered-play-therapy-and-trauma-a
+tags:
+- mental-health-outcomes
+title: Creative Arts and Play-Based Interventions for Mental Health
+type: topic
+updated: 2026-05-11
 ---
 
 ## Creative Arts and Play-Based Interventions for Mental Health

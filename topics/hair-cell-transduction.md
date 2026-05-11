@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Hair Cell Transduction"
 confidence: low
-tags: ["hair-cell-transduction"]
+domain: method
+slug: hair-cell-transduction
 sources:
-  - fxa100-week02-hearing-and-music
+- fxa100-week02-hearing-and-music
+tags:
+- hair-cell-transduction
+title: Hair Cell Transduction
+type: topic
 updated: 2026-05-04
 ---
 

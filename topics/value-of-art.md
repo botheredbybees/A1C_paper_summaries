@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Value of Art"
 confidence: low
-tags: ["value-of-art"]
+domain: theory
+slug: value-of-art
 sources:
-  - fxa301-week01-lesson-fxa301-week01-week-1-page-3-activities
+- fxa301-week01-lesson-fxa301-week01-week-1-page-3-activities
+tags:
+- value-of-art
+title: Value of Art
+type: topic
 updated: 2026-05-04
 ---
 

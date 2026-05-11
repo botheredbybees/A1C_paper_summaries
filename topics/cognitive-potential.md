@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Cognitive Potential"
 confidence: low
-tags: ["cognitive-potential"]
+domain: method
+slug: cognitive-potential
 sources:
-  - fxa100-week04-transcript-new-super-fast-mri-technique-singing-if-i-only
+- fxa100-week04-transcript-new-super-fast-mri-technique-singing-if-i-only
+tags:
+- cognitive-potential
+title: Cognitive Potential
+type: topic
 updated: 2026-05-04
 ---
 

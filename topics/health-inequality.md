@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Health Inequality"
 confidence: low
-tags: ["health-inequality"]
+domain: intervention
+slug: health-inequality
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch18-chapter-3-(2)
+- fxa301-oxford-textbook-of-creative-arts-ch18-chapter-3-(2)
+tags:
+- health-inequality
+title: Health Inequality
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Vitamin A in Vision"
 confidence: low
-tags: ["vitamin-a-in-vision"]
+domain: intervention
+slug: vitamin-a-in-vision
 sources:
-  - fxa301-week01-transcript-it-also-includes-discussion-of-what-can-be
+- fxa301-week01-transcript-it-also-includes-discussion-of-what-can-be
+tags:
+- vitamin-a-in-vision
+title: Vitamin A in Vision
+type: topic
 updated: 2026-05-04
 ---
 

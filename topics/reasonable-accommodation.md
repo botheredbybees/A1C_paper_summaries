@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Reasonable Accommodation"
 confidence: low
-tags: ["reasonable-accommodation"]
+domain: intervention
+slug: reasonable-accommodation
 sources:
-  - fxa301-week09-rights-of-people-with-disability
+- fxa301-week09-rights-of-people-with-disability
+tags:
+- reasonable-accommodation
+title: Reasonable Accommodation
+type: topic
 updated: 2026-05-04
 ---
 

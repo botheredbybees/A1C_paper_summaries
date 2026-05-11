@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Healing Practices"
 confidence: low
-tags: ["healing-practices"]
+domain: intervention
+slug: healing-practices
 sources:
-  - fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community
+- fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community
+tags:
+- healing-practices
+title: Healing Practices
+type: topic
 updated: 2026-05-04
 ---
 

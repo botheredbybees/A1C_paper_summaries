@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Psychopathologies in Autism Spectrum Disorder"
 confidence: low
-tags: ["psychopathologies-in-asd"]
+domain: theory
+slug: psychopathologies-in-autism-spectrum-disorder
 sources:
-  - fxa303-week04-handbook-of-autism-and-pervasive-developmental-disorder
+- fxa303-week04-handbook-of-autism-and-pervasive-developmental-disorder
+tags:
+- psychopathologies-in-asd
+title: Psychopathologies in Autism Spectrum Disorder
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Public Baths and Mental Health"
 confidence: low
-tags: ["natural-elements"]
+domain: intervention
+slug: public-baths-and-mental-health
 sources:
-  - fxa202-week10-the-storm-shifting-south-reflections-on-public-baths-in
+- fxa202-week10-the-storm-shifting-south-reflections-on-public-baths-in
+tags:
+- natural-elements
+title: Public Baths and Mental Health
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Study Week Resources"
 confidence: low
-tags: ["study-week-resources"]
+domain: method
+slug: study-week-resources
 sources:
-  - fxa202-week10-week-10-lecture
+- fxa202-week10-week-10-lecture
+tags:
+- study-week-resources
+title: Study Week Resources
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creativity in Arts"
 confidence: low
-tags: ["creativity-in-arts"]
+domain: intervention
+slug: creativity-in-arts
 sources:
-  - fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts-(2)
+- fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts-(2)
+tags:
+- creativity-in-arts
+title: Creativity in Arts
+type: topic
 updated: 2026-05-04
 ---
 

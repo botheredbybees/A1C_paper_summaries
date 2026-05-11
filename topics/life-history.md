@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Life History in Dementia Care"
 confidence: medium
-tags: ["life-history"]
+domain: intervention
+slug: life-history-in-dementia-care
 sources:
   - fxa100-excellence-in-dementia-care--ch10-chapter-15
   - fxa100-excellence-in-dementia-care--ch11-chapter-17
-updated: 2026-05-04
+- fxa100-excellence-in-dementia-care--ch10-chapter-15
+- fxa100-excellence-in-dementia-care--ch11-chapter-17
+tags:
+- life-history
+title: Life History in Dementia Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Life History in Dementia Care

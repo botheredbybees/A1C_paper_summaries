@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Art Therapy Models"
 confidence: low
-tags: ["art-therapy-models"]
+domain: intervention
+slug: art-therapy-models
 sources:
-  - fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of
+- fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of
+tags:
+- art-therapy-models
+title: Art Therapy Models
+type: topic
 updated: 2026-05-04
 ---
 

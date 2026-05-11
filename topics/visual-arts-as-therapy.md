@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Visual Arts As Therapy"
 confidence: low
-tags: ["visual-arts-as-therapy"]
+domain: intervention
+slug: visual-arts-as-therapy
 sources:
-  - fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities
+- fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities
+tags:
+- visual-arts-as-therapy
+title: Visual Arts As Therapy
+type: topic
 updated: 2026-05-04
 ---
 

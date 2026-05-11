@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Story Pitching"
 confidence: low
-tags: ["story-pitching"]
+domain: intervention
+slug: story-pitching
 sources:
-  - fxa202-week10-how-to-pitch-articles-to-editors
+- fxa202-week10-how-to-pitch-articles-to-editors
+tags:
+- story-pitching
+title: Story Pitching
+type: topic
 updated: 2026-05-04
 ---
 

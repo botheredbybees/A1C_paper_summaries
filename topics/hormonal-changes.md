@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Hormonal Changes in Adolescence"
 confidence: low
-tags: ["hormonal-changes"]
+domain: theory
+slug: hormonal-changes-in-adolescence
 sources:
-  - fxa303-week03-adolescent-neurodevelopment
+- fxa303-week03-adolescent-neurodevelopment
+tags:
+- hormonal-changes
+title: Hormonal Changes in Adolescence
+type: topic
 updated: 2026-05-04
 ---
 

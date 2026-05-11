@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Social Relations Among Refugees"
 confidence: low
-tags: ["social-relations"]
+domain: population
+slug: social-relations-among-refugees
 sources:
-  - fxa303-week10-music-and-refugees-wellbeing-in-contexts-of-protracted
+- fxa303-week10-music-and-refugees-wellbeing-in-contexts-of-protracted
+tags:
+- social-relations
+title: Social Relations Among Refugees
+type: topic
 updated: 2026-05-04
 ---
 

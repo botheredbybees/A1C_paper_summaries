@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Choral Singing"
 confidence: low
-tags: ["choral-singing"]
+domain: intervention
+slug: choral-singing
 sources:
-  - fxa100-week04-the-perceived-benefits-of-singing-findings-from-preliminary
+- fxa100-week04-the-perceived-benefits-of-singing-findings-from-preliminary
+tags:
+- choral-singing
+title: Choral Singing
+type: topic
 updated: 2026-05-04
 ---
 

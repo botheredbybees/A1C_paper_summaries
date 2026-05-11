@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Puppetry Therapy"
 confidence: medium
-tags: ["puppetry-intervention"]
+domain: intervention
+slug: puppetry-therapy
 sources:
   - fxa303-week05-week-5-overview-fxa303-creative-arts-play-and-mental
   - fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the
-updated: 2026-05-04
+- fxa303-week05-week-5-overview-fxa303-creative-arts-play-and-mental
+- fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the
+tags:
+- puppetry-intervention
+title: Puppetry Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Puppetry Therapy

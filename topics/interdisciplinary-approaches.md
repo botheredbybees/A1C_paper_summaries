@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Interdisciplinary Approaches to Museum Spaces"
 confidence: low
-tags: ["interdisciplinary-approaches"]
+domain: intervention
+slug: interdisciplinary-approaches-to-museum-spaces
 sources:
-  - fxa301-week05-museums-and-health-emerging-spatial-practices
+- fxa301-week05-museums-and-health-emerging-spatial-practices
+tags:
+- interdisciplinary-approaches
+title: Interdisciplinary Approaches to Museum Spaces
+type: topic
 updated: 2026-05-04
 ---
 

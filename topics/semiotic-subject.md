@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Semiotic Subject in Dementia Care"
 confidence: low
-tags: ["semiotic-subject"]
+domain: theory
+slug: semiotic-subject-in-dementia-care
 sources:
-  - fxa100-excellence-in-dementia-care--ch42-1-there-is-a-stereotypic-view
+- fxa100-excellence-in-dementia-care--ch42-1-there-is-a-stereotypic-view
+tags:
+- semiotic-subject
+title: Semiotic Subject in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Pathologization of Neurological Differences"
 confidence: low
-tags: ["pathologization"]
+domain: theory
+slug: pathologization-of-neurological-differences
 sources:
-  - fxa303-week04-the-concept-of-neurodiversity-is-dividing-the-autism
+- fxa303-week04-the-concept-of-neurodiversity-is-dividing-the-autism
+tags:
+- pathologization
+title: Pathologization of Neurological Differences
+type: topic
 updated: 2026-05-04
 ---
 

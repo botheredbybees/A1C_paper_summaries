@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Feedback-Seeking Process"
 confidence: low
-tags: ["feedback-seeking-process"]
+domain: method
+slug: feedback-seeking-process
 sources:
-  - fxa202-week09-lesson-fxa202-week09-page-4
+- fxa202-week09-lesson-fxa202-week09-page-4
+tags:
+- feedback-seeking-process
+title: Feedback-Seeking Process
+type: topic
 updated: 2026-05-04
 ---
 

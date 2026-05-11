@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Bodily Autonomy"
 confidence: low
-tags: ["bodily-autonomy"]
+domain: theory
+slug: bodily-autonomy
 sources:
-  - fxa100-how-we-thnk-about-dementia-ch12-chapter-4
+- fxa100-how-we-thnk-about-dementia-ch12-chapter-4
+tags:
+- bodily-autonomy
+title: Bodily Autonomy
+type: topic
 updated: 2026-05-04
 ---
 

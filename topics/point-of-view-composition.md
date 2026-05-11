@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Point Of View Composition"
 confidence: low
-tags: ["point-of-view-composition"]
+domain: method
+slug: point-of-view-composition
 sources:
-  - fxa202-week02-photography-tips-point-of-view-composition
+- fxa202-week02-photography-tips-point-of-view-composition
+tags:
+- point-of-view-composition
+title: Point Of View Composition
+type: topic
 updated: 2026-05-04
 ---
 

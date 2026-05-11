@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Super-Aging"
 confidence: low
-tags: ["super-aging"]
+domain: population
+slug: super-aging
 sources:
-  - fxa303-play-for-health-across-the-lifespan-ch06-chapter-7
+- fxa303-play-for-health-across-the-lifespan-ch06-chapter-7
+tags:
+- super-aging
+title: Super-Aging
+type: topic
 updated: 2026-05-04
 ---
 

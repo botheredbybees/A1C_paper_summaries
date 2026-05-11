@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Museum Collections in Healthcare"
 confidence: medium
-tags: ["museum-collections"]
+domain: intervention
+slug: museum-collections-in-healthcare
 sources:
   - fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-(2)
   - fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a
-updated: 2026-05-04
+- fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-(2)
+- fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a
+tags:
+- museum-collections
+title: Museum Collections in Healthcare
+type: topic
+updated: 2026-05-11
 ---
 
 ## Museum Collections in Healthcare

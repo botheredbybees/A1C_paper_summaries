@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music Therapy in Palliative Care"
 confidence: medium
-tags: ["palliative-care"]
+domain: intervention
+slug: music-therapy-in-palliative-care
 sources:
   - fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and
   - fxa301-week06-song-of-life-sol-study-protocol-a-multicenter-randomized
   - fxa301-week06-the-art-and-science-of-dancemovement-therapy
-updated: 2026-05-04
+- fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and
+- fxa301-week06-song-of-life-sol-study-protocol-a-multicenter-randomized
+- fxa301-week06-the-art-and-science-of-dancemovement-therapy
+tags:
+- palliative-care
+title: Music Therapy in Palliative Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Music Therapy in Palliative Care

@@ -1,14 +1,20 @@
 ---
-type: topic
-domain: "intervention"
-title: "Evidence-Based Practice in Music Therapy"
 confidence: medium
-tags: ["evidence-based-practice"]
+domain: intervention
+slug: evidence-based-practice-in-music-therapy
 sources:
   - fxa100-week04-music-therapy-disability-evidence-summary-2024
   - fxa301-week01-assessing-confidence-in-what-works-in-social-policy
   - fxa301-week03-evidence-requirements-for-the-development-of-the-national
-updated: 2026-05-05
+  - fxa303-week11-developing-creative-approaches-in-youth-justice-a-guide-for
+- fxa100-week04-music-therapy-disability-evidence-summary-2024
+- fxa301-week01-assessing-confidence-in-what-works-in-social-policy
+- fxa301-week03-evidence-requirements-for-the-development-of-the-national
+tags:
+- evidence-based-practice
+title: Evidence-Based Practice in Music Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Evidence-Based Practice in Music Therapy
@@ -30,3 +36,4 @@ The integration of evidence-based practices into music therapy interventions for
 - [fxa100-week04-music-therapy-disability-evidence-summary-2024](../sources/fxa100-week04-music-therapy-disability-evidence-summary-2024.md)
 - [fxa301-week01-assessing-confidence-in-what-works-in-social-policy](../sources/fxa301-week01-assessing-confidence-in-what-works-in-social-policy.md)
 - [fxa301-week03-evidence-requirements-for-the-development-of-the-national](../sources/fxa301-week03-evidence-requirements-for-the-development-of-the-national.md)
+- [fxa303-week11-developing-creative-approaches-in-youth-justice-a-guide-for](../sources/fxa303-week11-developing-creative-approaches-in-youth-justice-a-guide-for.md)

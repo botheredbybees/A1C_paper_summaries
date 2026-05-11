@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Effects of Creative Writing"
 confidence: low
-tags: ["therapeutic-effects"]
+domain: intervention
+slug: therapeutic-effects-of-creative-writing
 sources:
-  - fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the
+- fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the
+tags:
+- therapeutic-effects
+title: Therapeutic Effects of Creative Writing
+type: topic
 updated: 2026-05-04
 ---
 

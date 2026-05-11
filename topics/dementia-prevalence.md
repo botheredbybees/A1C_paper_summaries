@@ -1,16 +1,23 @@
 ---
-type: topic
-domain: "population"
-title: "Prevalence and Risk Factors for Dementia"
 confidence: high
-tags: ["dementia-prevalence"]
+domain: population
+slug: prevalence-and-risk-factors-for-dementia
 sources:
   - fxa100-excellence-in-dementia-care--ch24-chapter-1
   - fxa100-week01-dementia-in-australia
   - fxa100-week07-dementia-in-our-mob-and-around-the-world
   - fxa100-week07-high-prevalence-of-dementia-and-cognitive-impairment-in
   - fxa100-week07-prevalence-of-dementia-in-urban-and-regional-aboriginal
-updated: 2026-05-04
+- fxa100-excellence-in-dementia-care--ch24-chapter-1
+- fxa100-week01-dementia-in-australia
+- fxa100-week07-dementia-in-our-mob-and-around-the-world
+- fxa100-week07-high-prevalence-of-dementia-and-cognitive-impairment-in
+- fxa100-week07-prevalence-of-dementia-in-urban-and-regional-aboriginal
+tags:
+- dementia-prevalence
+title: Prevalence and Risk Factors for Dementia
+type: topic
+updated: 2026-05-11
 ---
 
 ## Prevalence and Risk Factors for Dementia

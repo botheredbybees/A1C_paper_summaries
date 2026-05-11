@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Carbon Footprint and Sustainable Well-being"
 confidence: low
-tags: ["carbon-footprint"]
+domain: method
+slug: carbon-footprint-and-sustainable-well-being
 sources:
-  - fxa301-week05-the-2024-happy-planet-index
+- fxa301-week05-the-2024-happy-planet-index
+tags:
+- carbon-footprint
+title: Carbon Footprint and Sustainable Well-being
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Entoptic Phenomena in Art"
 confidence: low
-tags: ["entoptic-phenomena"]
+domain: theory
+slug: entoptic-phenomena-in-art
 sources:
-  - fxa100-week04-the-evolution-of-human-artistic-creativity
+- fxa100-week04-the-evolution-of-human-artistic-creativity
+tags:
+- entoptic-phenomena
+title: Entoptic Phenomena in Art
+type: topic
 updated: 2026-05-04
 ---
 

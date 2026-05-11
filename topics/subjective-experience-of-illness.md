@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Subjective Experience Of Illness"
 confidence: low
-tags: ["subjective-experience-of-illness"]
+domain: theory
+slug: subjective-experience-of-illness
 sources:
-  - fxa100-week06-powerful-self-portraits-reveal-artists-descent-into
+- fxa100-week06-powerful-self-portraits-reveal-artists-descent-into
+tags:
+- subjective-experience-of-illness
+title: Subjective Experience Of Illness
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Child-Centered Play Therapy"
 confidence: medium
-tags: ["child-centered-play-therapy"]
+domain: intervention
+slug: child-centered-play-therapy
 sources:
   - fxa303-week04-child-centered-play-therapy-as-an-intervention-for-children
   - fxa303-week04-impact-of-child-centered-play-therapy-intervention-on
   - fxa303-week09-exploring-child-centered-play-therapy-and-trauma-a
-updated: 2026-05-04
+- fxa303-week04-child-centered-play-therapy-as-an-intervention-for-children
+- fxa303-week04-impact-of-child-centered-play-therapy-intervention-on
+- fxa303-week09-exploring-child-centered-play-therapy-and-trauma-a
+tags:
+- child-centered-play-therapy
+title: Child-Centered Play Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Child-Centered Play Therapy

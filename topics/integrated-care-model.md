@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Integrated Care Model"
 confidence: low
-tags: ["integrated-care-model"]
+domain: intervention
+slug: integrated-care-model
 sources:
-  - fxa301-week03-challenges-in-end-of-life-care-and-bereavement
+- fxa301-week03-challenges-in-end-of-life-care-and-bereavement
+tags:
+- integrated-care-model
+title: Integrated Care Model
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,18 +1,20 @@
 ---
-type: topic
-domain: "theory"
-title: "Mirror Neurons in Aesthetic and Art Appreciation"
 confidence: high
-tags: ["mirror-neurons"]
+domain: theory
+slug: mirror-neurons-in-aesthetic-and-art-appreciation
 sources:
-  - fxa100-week06-motion-emotion-and-empathy-in-aesthetic-experience
-  - fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what
-  - fxa100-week06-visual-arts-and-the-brain
-  - fxa100-week06-web-article-tucker-2012
-  - fxa301-oxford-textbook-of-creative-arts-ch27-chapter-9
-  - fxa301-week01-lesson-fxa301-week01-page-3-how-do-we-respond-to
-  - fxa301-week02-how-do-we-respond-to-creative-art
-  - fxa301-week02-lecture-on-perception-of-the-arts
+- fxa100-week06-motion-emotion-and-empathy-in-aesthetic-experience
+- fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what
+- fxa100-week06-visual-arts-and-the-brain
+- fxa100-week06-web-article-tucker-2012
+- fxa301-oxford-textbook-of-creative-arts-ch27-chapter-9
+- fxa301-week01-lesson-fxa301-week01-page-3-how-do-we-respond-to
+- fxa301-week02-how-do-we-respond-to-creative-art
+- fxa301-week02-lecture-on-perception-of-the-arts
+tags:
+- mirror-neurons
+title: Mirror Neurons in Aesthetic and Art Appreciation
+type: topic
 updated: 2026-05-04
 ---
 

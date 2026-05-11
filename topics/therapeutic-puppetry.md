@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Puppetry"
 confidence: medium
-tags: ["therapeutic-puppetry"]
+domain: intervention
+slug: therapeutic-puppetry
 sources:
   - fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children
   - fxa303-week06-therapeutic-puppetry-and-wellbeing
-updated: 2026-05-04
+- fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children
+- fxa303-week06-therapeutic-puppetry-and-wellbeing
+tags:
+- therapeutic-puppetry
+title: Therapeutic Puppetry
+type: topic
+updated: 2026-05-11
 ---
 
 ## Therapeutic Puppetry

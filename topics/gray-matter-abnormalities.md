@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Gray Matter Abnormalities in Autism Spectrum Disorder"
 confidence: low
-tags: ["gray-matter-abnormalities"]
+domain: intervention
+slug: gray-matter-abnormalities-in-autism-spectrum-disorder
 sources:
-  - fxa303-week04-characteristics-of-brains-in-autism-spectrum-disorder
+- fxa303-week04-characteristics-of-brains-in-autism-spectrum-disorder
+tags:
+- gray-matter-abnormalities
+title: Gray Matter Abnormalities in Autism Spectrum Disorder
+type: topic
 updated: 2026-05-04
 ---
 

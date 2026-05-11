@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Genome Evolution"
 confidence: low
-tags: ["genome-evolution"]
+domain: theory
+slug: genome-evolution
 sources:
-  - fxa202-week08-reading-notes-from-biophilia-by-edward-o-wilson
+- fxa202-week08-reading-notes-from-biophilia-by-edward-o-wilson
+tags:
+- genome-evolution
+title: Genome Evolution
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sexual Health Education"
 confidence: low
-tags: ["sexual-health-education"]
+domain: intervention
+slug: sexual-health-education
 sources:
-  - fxa301-week08-transcript-sharing-stories-after-school-ill-marry-you-23-nov
+- fxa301-week08-transcript-sharing-stories-after-school-ill-marry-you-23-nov
+tags:
+- sexual-health-education
+title: Sexual Health Education
+type: topic
 updated: 2026-05-04
 ---
 

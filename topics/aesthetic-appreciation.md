@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Aesthetic Appreciation"
 confidence: medium
-tags: ["aesthetic-appreciation"]
+domain: intervention
+slug: aesthetic-appreciation
 sources:
-  - fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with
-  - fxa301-week02-misery-loves-company-mood-congruent-emotional-responding-to
+- fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with
+- fxa301-week02-misery-loves-company-mood-congruent-emotional-responding-to
+tags:
+- aesthetic-appreciation
+title: Aesthetic Appreciation
+type: topic
 updated: 2026-05-04
 ---
 

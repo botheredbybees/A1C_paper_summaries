@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sensory Experiences in Mental Health"
 confidence: medium
-tags: ["sensory-experiences"]
+domain: intervention
+slug: sensory-experiences-in-mental-health
 sources:
-  - fxa301-bridging-the-creative-arts-therapies-ch01-1-essential
-  - fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview
+- fxa301-bridging-the-creative-arts-therapies-ch01-1-essential
+- fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview
+tags:
+- sensory-experiences
+title: Sensory Experiences in Mental Health
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Ballet-Based Group Dance Intervention"
 confidence: low
-tags: ["ballet-based-group-dance-intervention"]
+domain: intervention
+slug: ballet-based-group-dance-intervention
 sources:
-  - fxa301-week06-feasibility-and-preliminary-effects-of-ballet-based-group
+- fxa301-week06-feasibility-and-preliminary-effects-of-ballet-based-group
+tags:
+- ballet-based-group-dance-intervention
+title: Ballet-Based Group Dance Intervention
+type: topic
 updated: 2026-05-04
 ---
 

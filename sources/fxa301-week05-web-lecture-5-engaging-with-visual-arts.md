@@ -11,7 +11,7 @@ tags: ["visual-arts-engagement", "community-art-projects", "wellbeing-through-ar
 key_concepts: ["happiness-prescriptions", "cultural-understanding", "memorial-quilt-initiative"]
 methods: ["case-study"]
 slug: fxa301-week05-web-lecture-5-engaging-with-visual-arts
-related: ["wellbeing-through-art"]
+related: ["community-art-projects", "wellbeing-through-art"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,4 +41,5 @@ This web lecture focuses on engaging with visual arts through case studies and t
 
 ## See Also
 
+- [community-art-projects](../topics/community-art-projects.md)
 - [wellbeing-through-art](../topics/wellbeing-through-art.md)

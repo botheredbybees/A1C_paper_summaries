@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Cognitive Reserve Theory"
 confidence: low
-tags: ["cognitive-reserve-theory"]
+domain: theory
+slug: cognitive-reserve-theory
 sources:
-  - fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there
+- fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there
+tags:
+- cognitive-reserve-theory
+title: Cognitive Reserve Theory
+type: topic
 updated: 2026-05-04
 ---
 

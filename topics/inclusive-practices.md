@@ -1,14 +1,20 @@
 ---
-type: topic
-domain: "intervention"
-title: "Inclusive Practices"
 confidence: low
-tags: ["inclusive-practices"]
+domain: intervention
+slug: inclusive-practices
 sources:
   - fxa301-week01-engaging-in-community-music-an-introduction-(2)
-  - fxa301-week01-lesson-fxa301-week01-page-2-hm
   - fxa301-week01-making-art-with-communities-a-work-guide-(3)
-updated: 2026-05-05
+  - fxa301-week11-glossary-choose-art
+  - fxa303-week11-orchestras-for-all-impact-report-2023-2024
+- fxa301-week01-engaging-in-community-music-an-introduction-(2)
+- fxa301-week01-lesson-fxa301-week01-page-2-hm
+- fxa301-week01-making-art-with-communities-a-work-guide-(3)
+tags:
+- inclusive-practices
+title: Inclusive Practices
+type: topic
+updated: 2026-05-11
 ---
 
 ## Inclusive Practices
@@ -28,5 +34,6 @@ The concept of inclusive practices is central to ensuring that projects and init
 ## Sources
 
 - [fxa301-week01-engaging-in-community-music-an-introduction-(2)](../sources/fxa301-week01-engaging-in-community-music-an-introduction-(2).md)
-- [fxa301-week01-lesson-fxa301-week01-page-2-hm](../sources/fxa301-week01-lesson-fxa301-week01-page-2-hm.md)
 - [fxa301-week01-making-art-with-communities-a-work-guide-(3)](../sources/fxa301-week01-making-art-with-communities-a-work-guide-(3).md)
+- [fxa301-week11-glossary-choose-art](../sources/fxa301-week11-glossary-choose-art.md)
+- [fxa303-week11-orchestras-for-all-impact-report-2023-2024](../sources/fxa303-week11-orchestras-for-all-impact-report-2023-2024.md)

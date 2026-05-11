@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: rhythmic-auditory-cueing
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Rhythmic Auditory Cueing

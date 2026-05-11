@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Environmental Influences on Brain Development"
 confidence: low
-tags: ["environmental-influences-on-brain-development"]
+domain: theory
+slug: environmental-influences-on-brain-development
 sources:
-  - fxa303-week02-lesson-fxa303-week02-page-201-20-20week-202-20overview
+- fxa303-week02-lesson-fxa303-week02-page-201-20-20week-202-20overview
+tags:
+- environmental-influences-on-brain-development
+title: Environmental Influences on Brain Development
+type: topic
 updated: 2026-05-04
 ---
 

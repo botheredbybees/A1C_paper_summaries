@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Societal Context In Dementia Experience"
 confidence: low
-tags: ["societal-context-in-dementia-experience"]
+domain: population
+slug: societal-context-in-dementia-experience
 sources:
-  - fxa100-week09-how-personhood-is-undermined
+- fxa100-week09-how-personhood-is-undermined
+tags:
+- societal-context-in-dementia-experience
+title: Societal Context In Dementia Experience
+type: topic
 updated: 2026-05-04
 ---
 

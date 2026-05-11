@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Privacy and Autonomy"
 confidence: low
-tags: ["privacy-autonomy"]
+domain: theory
+slug: privacy-and-autonomy
 sources:
-  - fxa202-week10-the-transformative-potential-of-technology
+- fxa202-week10-the-transformative-potential-of-technology
+tags:
+- privacy-autonomy
+title: Privacy and Autonomy
+type: topic
 updated: 2026-05-04
 ---
 

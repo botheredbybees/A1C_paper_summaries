@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Historical Record of Mental Wellbeing During Lockdowns"
 confidence: low
-tags: ["historical-record"]
+domain: intervention
+slug: historical-record-of-mental-wellbeing-during-lockdowns
 sources:
-  - fxa303-week03-lockdown-history-project-activity-sheets
+- fxa303-week03-lockdown-history-project-activity-sheets
+tags:
+- historical-record
+title: Historical Record of Mental Wellbeing During Lockdowns
+type: topic
 updated: 2026-05-04
 ---
 

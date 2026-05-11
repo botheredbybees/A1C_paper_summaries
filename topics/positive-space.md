@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Positive and Negative Space"
 confidence: low
-tags: ["positive-space"]
+domain: theory
+slug: positive-and-negative-space
 sources:
-  - fxa202-week02-negative-space-in-photography-and-positive-space
+- fxa202-week02-negative-space-in-photography-and-positive-space
+tags:
+- positive-space
+title: Positive and Negative Space
+type: topic
 updated: 2026-05-04
 ---
 

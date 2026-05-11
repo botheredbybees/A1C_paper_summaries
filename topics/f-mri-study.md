@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Functional Magnetic Resonance Imaging Studies of Artistic Brain Activity"
 confidence: medium
-tags: ["f-mri-study"]
+domain: method
+slug: functional-magnetic-resonance-imaging-studies-of-artistic-brain-activity
 sources:
   - fxa100-week06-brain-activities-in-a-skilled-versus-a-novice-artist-an
   - fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual
-updated: 2026-05-04
+- fxa100-week06-brain-activities-in-a-skilled-versus-a-novice-artist-an
+- fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual
+tags:
+- f-mri-study
+title: Functional Magnetic Resonance Imaging Studies of Artistic Brain Activity
+type: topic
+updated: 2026-05-11
 ---
 
 ## Functional Magnetic Resonance Imaging Studies of Artistic Brain Activity

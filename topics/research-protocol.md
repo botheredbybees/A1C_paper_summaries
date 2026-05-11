@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Writing A Research Protocol"
 confidence: medium
-tags: ["research-protocol"]
+domain: method
+slug: writing-a-research-protocol
 sources:
   - fxa100-week04-writing-a-research-protocol
   - fxa301-week01-writing-a-research-protocol
-updated: 2026-05-05
+- fxa100-week04-writing-a-research-protocol
+- fxa301-week01-writing-a-research-protocol
+tags:
+- research-protocol
+title: Writing A Research Protocol
+type: topic
+updated: 2026-05-11
 ---
 
 ## Writing A Research Protocol

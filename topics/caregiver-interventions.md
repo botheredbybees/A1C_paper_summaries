@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Caregiver Interventions for Dementia"
 confidence: low
-tags: ["caregiver-interventions"]
+domain: intervention
+slug: caregiver-interventions-for-dementia
 sources:
-  - fxa100-week04-the-effect-of-singing-on-alert-responses-in-persons-with
+- fxa100-week04-the-effect-of-singing-on-alert-responses-in-persons-with
+tags:
+- caregiver-interventions
+title: Caregiver Interventions for Dementia
+type: topic
 updated: 2026-05-04
 ---
 

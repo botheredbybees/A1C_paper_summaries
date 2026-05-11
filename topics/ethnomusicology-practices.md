@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Ethnomusicology Practices"
 confidence: low
-tags: ["ethnomusicology-practices"]
+domain: method
+slug: ethnomusicology-practices
 sources:
-  - fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2)
+- fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2)
+tags:
+- ethnomusicology-practices
+title: Ethnomusicology Practices
+type: topic
 updated: 2026-05-04
 ---
 

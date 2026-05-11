@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Artistic Practices in Healthcare"
 confidence: low
-tags: ["artistic-practices"]
+domain: intervention
+slug: artistic-practices-in-healthcare
 sources:
-  - fxa301-week03-national-arts-and-health-framework
+- fxa301-week03-national-arts-and-health-framework
+tags:
+- artistic-practices
+title: Artistic Practices in Healthcare
+type: topic
 updated: 2026-05-04
 ---
 

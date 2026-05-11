@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Ethnographic Studies"
 confidence: low
-tags: ["ethnographic-studies"]
+domain: method
+slug: ethnographic-studies
 sources:
-  - fxa301-arts-in-health-ch67-chapter-6
+- fxa301-arts-in-health-ch67-chapter-6
+tags:
+- ethnographic-studies
+title: Ethnographic Studies
+type: topic
 updated: 2026-05-04
 ---
 

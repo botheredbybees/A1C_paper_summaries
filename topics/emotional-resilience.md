@@ -1,14 +1,16 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Resilience"
 confidence: high
-tags: ["emotional-resilience"]
+domain: intervention
+slug: emotional-resilience
 sources:
-  - fxa202-week10-type1-diabetes-story-a-familys-journey
-  - fxa303-week03-5-ways-to-standbyteens-in-support-of-teen-mental-health
-  - fxa303-week03-arts-in-adolescence
-  - fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare
+- fxa202-week10-type1-diabetes-story-a-familys-journey
+- fxa303-week03-5-ways-to-standbyteens-in-support-of-teen-mental-health
+- fxa303-week03-arts-in-adolescence
+- fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare
+tags:
+- emotional-resilience
+title: Emotional Resilience
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Personalized Music Choice"
 confidence: low
-tags: ["personalized-music-choice"]
+domain: intervention
+slug: personalized-music-choice
 sources:
-  - fxa301-week02-experimental-evidence-of-the-roles-of-music-choice-social
+- fxa301-week02-experimental-evidence-of-the-roles-of-music-choice-social
+tags:
+- personalized-music-choice
+title: Personalized Music Choice
+type: topic
 updated: 2026-05-04
 ---
 

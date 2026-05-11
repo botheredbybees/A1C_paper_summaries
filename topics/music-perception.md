@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "theory"
-title: "Music Perception"
 confidence: medium
-tags: ["music-perception"]
+domain: theory
+slug: music-perception
 sources:
   - fxa100-week02-hearing-and-music
   - fxa301-week02-are-we-experienced-listeners-a-review-of-the-musical
-updated: 2026-05-03
+- fxa100-week02-hearing-and-music
+- fxa301-week02-are-we-experienced-listeners-a-review-of-the-musical
+tags:
+- music-perception
+title: Music Perception
+type: topic
+updated: 2026-05-11
 ---
 
 ## Music Perception

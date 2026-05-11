@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Immune System Changes"
 confidence: low
-tags: ["immune-system-changes"]
+domain: intervention
+slug: immune-system-changes
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch08-96-clift
+- fxa301-oxford-textbook-of-creative-arts-ch08-96-clift
+tags:
+- immune-system-changes
+title: Immune System Changes
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Factors for Successful Implementation of Interventions"
 confidence: low
-tags: ["successful-implementation-factors"]
+domain: intervention
+slug: factors-for-successful-implementation-of-interventions
 sources:
-  - fxa100-week09-testing-the-implementation-of-the-veder-contact-method-a
+- fxa100-week09-testing-the-implementation-of-the-veder-contact-method-a
+tags:
+- successful-implementation-factors
+title: Factors for Successful Implementation of Interventions
+type: topic
 updated: 2026-05-04
 ---
 

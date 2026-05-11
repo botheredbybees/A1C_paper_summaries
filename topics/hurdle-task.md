@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Hurdle Task Management in Academic Settings"
 confidence: low
-tags: ["hurdle-task"]
+domain: method
+slug: hurdle-task-management-in-academic-settings
 sources:
-  - fxa202-week10-preparing-for-task-4-critical-reflection-video-note
+- fxa202-week10-preparing-for-task-4-critical-reflection-video-note
+tags:
+- hurdle-task
+title: Hurdle Task Management in Academic Settings
+type: topic
 updated: 2026-05-04
 ---
 

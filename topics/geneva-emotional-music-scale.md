@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Geneva Emotional Music Scale"
 confidence: low
-tags: ["geneva-emotional-music-scale"]
+domain: method
+slug: geneva-emotional-music-scale
 sources:
-  - fxa301-week02-emotions-evoked-by-the-sound-of-music-characterization
+- fxa301-week02-emotions-evoked-by-the-sound-of-music-characterization
+tags:
+- geneva-emotional-music-scale
+title: Geneva Emotional Music Scale
+type: topic
 updated: 2026-05-04
 ---
 

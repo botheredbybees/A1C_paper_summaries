@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Wellbeing Promotion Through Arts and Drama"
 confidence: medium
-tags: ["wellbeing-promotion"]
+domain: intervention
+slug: wellbeing-promotion-through-arts-and-drama
 sources:
   - fxa301-week03-how-do-we-realize-the-potential-of-the-arts-to-support
   - fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using
-updated: 2026-05-04
+- fxa301-week03-how-do-we-realize-the-potential-of-the-arts-to-support
+- fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using
+tags:
+- wellbeing-promotion
+title: Wellbeing Promotion Through Arts and Drama
+type: topic
+updated: 2026-05-11
 ---
 
 ## Wellbeing Promotion Through Arts and Drama

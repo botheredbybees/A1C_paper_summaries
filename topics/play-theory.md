@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "theory"
-title: "Play Theory"
 confidence: medium
-tags: ["play-theory"]
+domain: theory
+slug: play-theory
 sources:
   - fxa100-week10-play-and-people-living-with-dementia-a-humanities-based
   - fxa303-week02-developmental-role-of-creative-arts-and-play
   - fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview
   - fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental
-updated: 2026-05-05
+- fxa100-week10-play-and-people-living-with-dementia-a-humanities-based
+- fxa303-week02-developmental-role-of-creative-arts-and-play
+- fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview
+- fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental
+tags:
+- play-theory
+title: Play Theory
+type: topic
+updated: 2026-05-11
 ---
 
 ## Play Theory

@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "theory"
-title: "Neurodiversity and Psychoanalytical Theories"
 confidence: medium
-tags: ["psychological-theories"]
+domain: theory
+slug: neurodiversity-and-psychoanalytical-theories
 sources:
   - fxa303-week04-the-concept-of-neurodiversity-is-dividing-the-autism
   - fxa303-week08-lesson-fxa303-week08-page-1-overview
-updated: 2026-05-04
+- fxa303-week04-the-concept-of-neurodiversity-is-dividing-the-autism
+- fxa303-week08-lesson-fxa303-week08-page-1-overview
+tags:
+- psychological-theories
+title: Neurodiversity and Psychoanalytical Theories
+type: topic
+updated: 2026-05-11
 ---
 
 ## Neurodiversity and Psychoanalytical Theories

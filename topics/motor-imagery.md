@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Motor Imagery and Rhythmic Auditory Cueing"
 confidence: low
-tags: ["motor-imagery"]
+domain: intervention
+slug: motor-imagery-and-rhythmic-auditory-cueing
 sources:
-  - fxa301-week06-effect-of-rhythmic-auditory-cueing-on-parkinsonian-gait-a
+- fxa301-week06-effect-of-rhythmic-auditory-cueing-on-parkinsonian-gait-a
+tags:
+- motor-imagery
+title: Motor Imagery and Rhythmic Auditory Cueing
+type: topic
 updated: 2026-05-04
 ---
 

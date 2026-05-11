@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Causal Reasoning in Early Childhood"
 confidence: low
-tags: ["causal-reasoning"]
+domain: theory
+slug: causal-reasoning-in-early-childhood
 sources:
-  - fxa303-week02-scientific-thinking-in-young-children-theoretical-advances
+- fxa303-week02-scientific-thinking-in-young-children-theoretical-advances
+tags:
+- causal-reasoning
+title: Causal Reasoning in Early Childhood
+type: topic
 updated: 2026-05-04
 ---
 

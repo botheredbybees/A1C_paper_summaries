@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music-Induced Emotions"
 confidence: low
-tags: ["music-induced-emotions"]
+domain: intervention
+slug: music-induced-emotions
 sources:
-  - fxa301-week02-empathy-manipulation-impacts-music-induced-emotions-a
+- fxa301-week02-empathy-manipulation-impacts-music-induced-emotions-a
+tags:
+- music-induced-emotions
+title: Music-Induced Emotions
+type: topic
 updated: 2026-05-04
 ---
 

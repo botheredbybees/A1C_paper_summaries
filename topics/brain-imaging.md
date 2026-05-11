@@ -1,14 +1,20 @@
 ---
-type: topic
-domain: "method"
-title: "Brain Imaging Techniques"
 confidence: medium
-tags: ["brain-imaging"]
+domain: method
+slug: brain-imaging-techniques
 sources:
   - fxa100-week06-lesson-fxa100-week06-page-2-visual-arts-and-the-brain
   - fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro
   - fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers
-updated: 2026-05-05
+  - fxa100-week11-the-neural-basis-of-human-dance
+- fxa100-week06-lesson-fxa100-week06-page-2-visual-arts-and-the-brain
+- fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro
+- fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers
+tags:
+- brain-imaging
+title: Brain Imaging Techniques
+type: topic
+updated: 2026-05-11
 ---
 
 ## Brain Imaging Techniques
@@ -30,3 +36,4 @@ The study of brain imaging techniques encompasses both basic and clinical neuros
 - [fxa100-week06-lesson-fxa100-week06-page-2-visual-arts-and-the-brain](../sources/fxa100-week06-lesson-fxa100-week06-page-2-visual-arts-and-the-brain.md)
 - [fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro](../sources/fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro.md)
 - [fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers](../sources/fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers.md)
+- [fxa100-week11-the-neural-basis-of-human-dance](../sources/fxa100-week11-the-neural-basis-of-human-dance.md)

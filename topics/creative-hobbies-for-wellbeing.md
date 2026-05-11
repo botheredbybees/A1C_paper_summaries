@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Hobbies for Wellbeing"
 confidence: low
-tags: ["creative-hobbies-for-wellbeing"]
+domain: intervention
+slug: creative-hobbies-for-wellbeing
 sources:
-  - fxa202-week06-rediscovering-joy-during-lockdown
+- fxa202-week06-rediscovering-joy-during-lockdown
+tags:
+- creative-hobbies-for-wellbeing
+title: Creative Hobbies for Wellbeing
+type: topic
 updated: 2026-05-04
 ---
 

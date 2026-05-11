@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Ventromedial Prefrontal Cortex Function"
 confidence: low
-tags: ["ventromedial-prefrontal-cortex"]
+domain: theory
+slug: ventromedial-prefrontal-cortex-function
 sources:
-  - fxa303-week03-the-early-adolescent-brain-on-music-analysis-of-functional
+- fxa303-week03-the-early-adolescent-brain-on-music-analysis-of-functional
+tags:
+- ventromedial-prefrontal-cortex
+title: Ventromedial Prefrontal Cortex Function
+type: topic
 updated: 2026-05-04
 ---
 

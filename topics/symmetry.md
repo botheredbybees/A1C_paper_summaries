@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "method"
-title: "Symmetry in Design and Aesthetics"
 confidence: medium
-tags: ["symmetry"]
+domain: method
+slug: symmetry-in-design-and-aesthetics
 sources:
-  - fxa202-week02-lesson-fxa202-week02-page-2
-  - fxa301-week02-aesthetic-judgments-of-novel-graphic-patterns-analyses-of
+- fxa202-week02-lesson-fxa202-week02-page-2
+- fxa301-week02-aesthetic-judgments-of-novel-graphic-patterns-analyses-of
+tags:
+- symmetry
+title: Symmetry in Design and Aesthetics
+type: topic
 updated: 2026-05-04
 ---
 

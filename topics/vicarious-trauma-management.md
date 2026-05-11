@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Vicarious Trauma Management"
 confidence: low
-tags: ["vicarious-trauma-management"]
+domain: intervention
+slug: vicarious-trauma-management
 sources:
-  - fxa303-week05-week-5-overview-fxa303-creative-arts-play-and-mental
+- fxa303-week05-week-5-overview-fxa303-creative-arts-play-and-mental
+tags:
+- vicarious-trauma-management
+title: Vicarious Trauma Management
+type: topic
 updated: 2026-05-04
 ---
 

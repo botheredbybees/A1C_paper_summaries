@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Theater in Health Care"
 confidence: low
-tags: ["theater-in-health-care"]
+domain: intervention
+slug: theater-in-health-care
 sources:
-  - fxa100-week10-lesson-fxa100-week10-page-2-play-and-its-applications-in
+- fxa100-week10-lesson-fxa100-week10-page-2-play-and-its-applications-in
+tags:
+- theater-in-health-care
+title: Theater in Health Care
+type: topic
 updated: 2026-05-04
 ---
 

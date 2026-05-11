@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Narrative Structures in Visual Storytelling"
 confidence: low
-tags: ["narrative-structures"]
+domain: method
+slug: narrative-structures-in-visual-storytelling
 sources:
-  - fxa202-week05-lesson-fxa202-week05-week-5
+- fxa202-week05-lesson-fxa202-week05-week-5
+tags:
+- narrative-structures
+title: Narrative Structures in Visual Storytelling
+type: topic
 updated: 2026-05-04
 ---
 

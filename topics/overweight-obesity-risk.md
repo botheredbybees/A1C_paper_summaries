@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Overweight and Obesity Risk in Male Migrants"
 confidence: low
-tags: ["overweight-obesity-risk"]
+domain: population
+slug: overweight-and-obesity-risk-in-male-migrants
 sources:
-  - fxa303-week10-health-and-well-being-of-male-international-migrants-and
+- fxa303-week10-health-and-well-being-of-male-international-migrants-and
+tags:
+- overweight-obesity-risk
+title: Overweight and Obesity Risk in Male Migrants
+type: topic
 updated: 2026-05-04
 ---
 

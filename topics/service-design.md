@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Service Design"
 confidence: low
-tags: ["service-design"]
+domain: method
+slug: service-design
 sources:
-  - fxa301-week03-statement-on-lived-experience
+- fxa301-week03-statement-on-lived-experience
+tags:
+- service-design
+title: Service Design
+type: topic
 updated: 2026-05-04
 ---
 

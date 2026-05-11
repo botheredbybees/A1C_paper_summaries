@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cognitive Stimulation in Dementia Care"
 confidence: high
-tags: ["cognitive-stimulation"]
+domain: intervention
+slug: cognitive-stimulation-in-dementia-care
 sources:
   - fxa100-excellence-in-dementia-care--ch09-chapter-15
   - fxa100-week03-lesson-fxa100-week03-page-1-welcome-to-week-3
@@ -13,7 +11,19 @@ sources:
   - fxa100-week07-aged-care-outreach
   - fxa100-week07-turning-back-the-hands-of-time-autobiographical-memories-in
   - fxa303-week02-child-development-fxa303-creative-arts-play-and-mental
-updated: 2026-05-04
+- fxa100-excellence-in-dementia-care--ch09-chapter-15
+- fxa100-week03-lesson-fxa100-week03-page-1-welcome-to-week-3
+- fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care
+- fxa100-week04-intergenerational-choir-transcript
+- fxa100-week04-interventions-for-dementia-care
+- fxa100-week07-aged-care-outreach
+- fxa100-week07-turning-back-the-hands-of-time-autobiographical-memories-in
+- fxa303-week02-child-development-fxa303-creative-arts-play-and-mental
+tags:
+- cognitive-stimulation
+title: Cognitive Stimulation in Dementia Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Cognitive Stimulation in Dementia Care

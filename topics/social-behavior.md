@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Social Behavior in Autism Spectrum Disorders Therapy"
 confidence: low
-tags: ["social-behavior"]
+domain: intervention
+slug: social-behavior-in-autism-spectrum-disorders-therapy
 sources:
-  - fxa303-week04-exploring-change-in-childrens-and-art-therapists-behavior
+- fxa303-week04-exploring-change-in-childrens-and-art-therapists-behavior
+tags:
+- social-behavior
+title: Social Behavior in Autism Spectrum Disorders Therapy
+type: topic
 updated: 2026-05-04
 ---
 

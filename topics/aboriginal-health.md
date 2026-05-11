@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "theory"
-title: "Cultural Determinants of Aboriginal Health"
 confidence: medium
-tags: ["aboriginal-health"]
+domain: theory
+slug: cultural-determinants-of-aboriginal-health
 sources:
   - fxa100-week07-prevalence-of-dementia-in-urban-and-regional-aboriginal
   - fxa303-week10-cultural-determinants-of-health-for-aboriginal-and-torres
-updated: 2026-05-04
+- fxa100-week07-prevalence-of-dementia-in-urban-and-regional-aboriginal
+- fxa303-week10-cultural-determinants-of-health-for-aboriginal-and-torres
+tags:
+- aboriginal-health
+title: Cultural Determinants of Aboriginal Health
+type: topic
+updated: 2026-05-11
 ---
 
 ## Cultural Determinants of Aboriginal Health

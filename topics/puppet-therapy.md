@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Puppet Therapy"
 confidence: high
-tags: ["puppet-therapy"]
+domain: intervention
+slug: puppet-therapy
 sources:
   - fxa303-puppet-play-therapy-ch08-6-posture-keep-your-arm-holding-the-puppet-at-a-right-angle
   - fxa303-week05-puppets-and-self-care-for-task-2
@@ -15,7 +13,21 @@ sources:
   - fxa303-week06-puppets-facilitate-attention-to-social-cues-in-children
   - fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for
   - fxa303-week06-using-puppets-with-children-in-narrative-therapy-to
-updated: 2026-05-04
+- fxa303-puppet-play-therapy-ch08-6-posture-keep-your-arm-holding-the-puppet-at-a-right-angle
+- fxa303-week05-puppets-and-self-care-for-task-2
+- fxa303-week06-lesson-fxa303-week06-page-2-puppets-and-expression
+- fxa303-week06-lesson-fxa303-week06-page-4-week-6-activities
+- fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice
+- fxa303-week06-puppet-play-therapy-a-practical-guidebook
+- fxa303-week06-puppet-theatre-a-way-to-tell-what-cannot-be-told-and-to
+- fxa303-week06-puppets-facilitate-attention-to-social-cues-in-children
+- fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for
+- fxa303-week06-using-puppets-with-children-in-narrative-therapy-to
+tags:
+- puppet-therapy
+title: Puppet Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Puppet Therapy

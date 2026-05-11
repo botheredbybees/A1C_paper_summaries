@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Caregiver Distress in Dementia Care"
 confidence: low
-tags: ["caregiving-distress-scale"]
+domain: intervention
+slug: caregiver-distress-in-dementia-care
 sources:
-  - fxa100-week03-music-and-memories-wisconsin-project-results
+- fxa100-week03-music-and-memories-wisconsin-project-results
+tags:
+- caregiving-distress-scale
+title: Caregiver Distress in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

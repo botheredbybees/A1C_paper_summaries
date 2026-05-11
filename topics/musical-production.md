@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Musical Production Roles"
 confidence: medium
-tags: ["musical-production"]
+domain: intervention
+slug: musical-production-roles
 sources:
   - fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration
   - fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration-(2)
-updated: 2026-05-04
+- fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration
+- fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration-(2)
+tags:
+- musical-production
+title: Musical Production Roles
+type: topic
+updated: 2026-05-11
 ---
 
 ## Musical Production Roles

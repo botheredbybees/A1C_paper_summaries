@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Caregiver Distress Scale"
 confidence: low
-tags: ["caregiver-distress-scale"]
+domain: intervention
+slug: caregiver-distress-scale
 sources:
-  - fxa100-week03-music-and-memories-ipod-eau-claire-community-project-results
+- fxa100-week03-music-and-memories-ipod-eau-claire-community-project-results
+tags:
+- caregiver-distress-scale
+title: Caregiver Distress Scale
+type: topic
 updated: 2026-05-04
 ---
 

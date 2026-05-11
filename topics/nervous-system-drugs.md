@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Nervous System Drugs"
 confidence: low
-tags: ["nervous-system-drugs"]
+domain: intervention
+slug: nervous-system-drugs
 sources:
-  - fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia
+- fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia
+tags:
+- nervous-system-drugs
+title: Nervous System Drugs
+type: topic
 updated: 2026-05-04
 ---
 

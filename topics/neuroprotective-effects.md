@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Neuroprotective Effects"
 confidence: low
-tags: ["neuroprotective-effects"]
+domain: intervention
+slug: neuroprotective-effects
 sources:
-  - fxa100-week01-unveiling-the-therapeutic-potential-of-natural-products-in
+- fxa100-week01-unveiling-the-therapeutic-potential-of-natural-products-in
+tags:
+- neuroprotective-effects
+title: Neuroprotective Effects
+type: topic
 updated: 2026-05-04
 ---
 

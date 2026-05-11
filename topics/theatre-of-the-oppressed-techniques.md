@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Theatre Of The Oppressed Techniques"
 confidence: low
-tags: ["theatre-of-the-oppressed-techniques"]
+domain: intervention
+slug: theatre-of-the-oppressed-techniques
 sources:
-  - fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags
+- fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags
+tags:
+- theatre-of-the-oppressed-techniques
+title: Theatre Of The Oppressed Techniques
+type: topic
 updated: 2026-05-04
 ---
 

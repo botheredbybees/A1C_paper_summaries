@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Case For Support Document"
 confidence: low
-tags: ["case-for-support-document"]
+domain: method
+slug: case-for-support-document
 sources:
-  - fxa301-arts-in-health-ch43-1-collaborative-design
+- fxa301-arts-in-health-ch43-1-collaborative-design
+tags:
+- case-for-support-document
+title: Case For Support Document
+type: topic
 updated: 2026-05-04
 ---
 

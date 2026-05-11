@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Dynamic Perspectives in Photography"
 confidence: low
-tags: ["dynamic-perspectives"]
+domain: method
+slug: dynamic-perspectives-in-photography
 sources:
-  - fxa202-week02-photography-tips-point-of-view-composition
+- fxa202-week02-photography-tips-point-of-view-composition
+tags:
+- dynamic-perspectives
+title: Dynamic Perspectives in Photography
+type: topic
 updated: 2026-05-04
 ---
 

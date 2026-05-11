@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Balanced Approach to Development"
 confidence: low
-tags: ["balanced-approach-to-development"]
+domain: intervention
+slug: balanced-approach-to-development
 sources:
-  - fxa303-week10-the-good-life-for-children-do-we-really-care-about-the
+- fxa303-week10-the-good-life-for-children-do-we-really-care-about-the
+tags:
+- balanced-approach-to-development
+title: Balanced Approach to Development
+type: topic
 updated: 2026-05-04
 ---
 

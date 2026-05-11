@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: health-promotion-strategies
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Health Promotion Strategies

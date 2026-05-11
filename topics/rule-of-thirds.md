@@ -1,14 +1,16 @@
 ---
-type: topic
-domain: "method"
-title: "Rule Of Thirds In Photography"
 confidence: high
-tags: ["rule-of-thirds"]
+domain: method
+slug: rule-of-thirds-in-photography
 sources:
-  - fxa202-week02-10-tips-for-better-composition
-  - fxa202-week02-getting-to-know-your-camera
-  - fxa202-week02-improve-your-photography-skills-with-these-9-photo
-  - fxa202-week02-lesson-fxa202-week02-page-2
+- fxa202-week02-10-tips-for-better-composition
+- fxa202-week02-getting-to-know-your-camera
+- fxa202-week02-improve-your-photography-skills-with-these-9-photo
+- fxa202-week02-lesson-fxa202-week02-page-2
+tags:
+- rule-of-thirds
+title: Rule Of Thirds In Photography
+type: topic
 updated: 2026-05-04
 ---
 

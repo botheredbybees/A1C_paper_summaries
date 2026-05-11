@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Interventions in Dementia Care"
 confidence: high
-tags: ["creative-interventions"]
+domain: intervention
+slug: creative-interventions-in-dementia-care
 sources:
   - fxa100-excellence-in-dementia-care--ch01-chapter-10
   - fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care
@@ -13,8 +11,24 @@ sources:
   - fxa301-make-arts-for-a-better-life-ch17-1-for-further-study-on-communication-channels
   - fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing
   - fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract
+  - fxa301-week11-art-therapy-initiative-ati-art-therapy-at-the-border
   - fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice
-updated: 2026-05-05
+  - fxa303-week11-creative-pathways-for-juvenile-justice-an-overview-of
+  - fxa303-week11-developing-creative-approaches-in-youth-justice-a-guide-for
+- fxa100-excellence-in-dementia-care--ch01-chapter-10
+- fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care
+- fxa100-week04-mindsong-transcript
+- fxa100-week10-playfully-engaging-people-living-with-dementia-searching
+- fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay
+- fxa301-make-arts-for-a-better-life-ch17-1-for-further-study-on-communication-channels
+- fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing
+- fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract
+- fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice
+tags:
+- creative-interventions
+title: Creative Interventions in Dementia Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Creative Interventions in Dementia Care
@@ -41,4 +55,7 @@ The integration of creative interventions in dementia care is highlighted across
 - [fxa301-make-arts-for-a-better-life-ch17-1-for-further-study-on-communication-channels](../sources/fxa301-make-arts-for-a-better-life-ch17-1-for-further-study-on-communication-channels.md)
 - [fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing](../sources/fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing.md)
 - [fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract](../sources/fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract.md)
+- [fxa301-week11-art-therapy-initiative-ati-art-therapy-at-the-border](../sources/fxa301-week11-art-therapy-initiative-ati-art-therapy-at-the-border.md)
 - [fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice](../sources/fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice.md)
+- [fxa303-week11-creative-pathways-for-juvenile-justice-an-overview-of](../sources/fxa303-week11-creative-pathways-for-juvenile-justice-an-overview-of.md)
+- [fxa303-week11-developing-creative-approaches-in-youth-justice-a-guide-for](../sources/fxa303-week11-developing-creative-approaches-in-youth-justice-a-guide-for.md)

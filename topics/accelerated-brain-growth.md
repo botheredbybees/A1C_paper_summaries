@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Accelerated Brain Growth"
 confidence: low
-tags: ["accelerated-brain-growth"]
+domain: theory
+slug: accelerated-brain-growth
 sources:
-  - fxa303-week04-characteristics-of-brains-in-autism-spectrum-disorder
+- fxa303-week04-characteristics-of-brains-in-autism-spectrum-disorder
+tags:
+- accelerated-brain-growth
+title: Accelerated Brain Growth
+type: topic
 updated: 2026-05-04
 ---
 

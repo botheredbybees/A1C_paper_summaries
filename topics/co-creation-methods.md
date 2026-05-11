@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Co-Creation Methods In Healthcare"
 confidence: low
-tags: ["co-creation-methods"]
+domain: method
+slug: co-creation-methods-in-healthcare
 sources:
-  - fxa301-week05-museums-as-spaces-for-wellbeing-a-second-report-from-the
+- fxa301-week05-museums-as-spaces-for-wellbeing-a-second-report-from-the
+tags:
+- co-creation-methods
+title: Co-Creation Methods In Healthcare
+type: topic
 updated: 2026-05-04
 ---
 

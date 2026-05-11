@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Engagement Enhancement Through Visual Arts"
 confidence: low
-tags: ["engagement-enhancement"]
+domain: intervention
+slug: engagement-enhancement-through-visual-arts
 sources:
-  - fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to
+- fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to
+tags:
+- engagement-enhancement
+title: Engagement Enhancement Through Visual Arts
+type: topic
 updated: 2026-05-04
 ---
 

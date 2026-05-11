@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Spiritual Integration in Palliative Care"
 confidence: low
-tags: ["spiritual-integration"]
+domain: intervention
+slug: spiritual-integration-in-palliative-care
 sources:
-  - fxa301-week06-song-of-life-sol-study-protocol-a-multicenter-randomized
+- fxa301-week06-song-of-life-sol-study-protocol-a-multicenter-randomized
+tags:
+- spiritual-integration
+title: Spiritual Integration in Palliative Care
+type: topic
 updated: 2026-05-04
 ---
 

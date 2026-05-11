@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sustainable Land Use"
 confidence: low
-tags: ["sustainable-land-use"]
+domain: intervention
+slug: sustainable-land-use
 sources:
-  - fxa303-week09-capertee-valley-hydrology-project-ksca
+- fxa303-week09-capertee-valley-hydrology-project-ksca
+tags:
+- sustainable-land-use
+title: Sustainable Land Use
+type: topic
 updated: 2026-05-04
 ---
 

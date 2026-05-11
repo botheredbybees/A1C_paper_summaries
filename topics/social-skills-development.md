@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Social Skills Development"
 confidence: low
-tags: ["social-skills-development"]
+domain: intervention
+slug: social-skills-development
 sources:
-  - fxa301-week06-evaluation-of-big-noise-douglas
+- fxa301-week06-evaluation-of-big-noise-douglas
+tags:
+- social-skills-development
+title: Social Skills Development
+type: topic
 updated: 2026-05-04
 ---
 

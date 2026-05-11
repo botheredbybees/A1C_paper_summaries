@@ -1,12 +1,8 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music Interventions and Cognitive Health"
 confidence: medium
-tags: ["creative-arts"]
+domain: intervention
+slug: music-interventions-and-cognitive-health
 sources:
-  - fxa100-week03-association-of-music-interventions-with-health-related
-  - fxa100-week03-the-effects-of-music-on-the-brain-video-transcript
   - fxa100-week06-transcript-film-clips-from-i-remember-better-when-i-paint
   - fxa202-week08-journal-and-visual-research-guidelines
   - fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1
@@ -21,6 +17,7 @@ sources:
   - fxa301-week03-lesson-fxa301-week03-page-3
   - fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope
   - fxa301-week10-lesson-fxa301-week10-page-1
+  - fxa301-week11-lesson-fxa301-week11-page-1
   - fxa303-week02-developmental-role-of-creative-arts-and-play
   - fxa303-week02-fxa303-week-2-child-development-and-creative-arts
   - fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview
@@ -43,7 +40,52 @@ sources:
   - fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design
   - fxa303-week09-lesson-fxa303-week09-page-3-case-studies
   - fxa303-week10-lesson-fxa303-week10-page-1-overview
-updated: 2026-05-05
+  - fxa303-week11-lesson-fxa303-week11-page-2
+  - fxa303-week11-lesson-fxa303-week11-page-3
+  - fxa303-week11-web-article-hardy-2019
+- fxa100-week03-association-of-music-interventions-with-health-related
+- fxa100-week03-the-effects-of-music-on-the-brain-video-transcript
+- fxa100-week06-transcript-film-clips-from-i-remember-better-when-i-paint
+- fxa202-week08-journal-and-visual-research-guidelines
+- fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1
+- fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-(2)
+- fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2)
+- fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37
+- fxa301-oxford-textbook-of-creative-arts-ch23-1-a-research-project-that-examined-how-participation-can-be
+- fxa301-oxford-textbook-of-creative-arts-ch23-1-a-research-project-that-examined-how-participation-can-be-(2)
+- fxa301-week01-lesson-fxa301-week01-page-3-how-do-we-respond-to
+- fxa301-week01-lesson-fxa301-week01-troubleshooting1
+- fxa301-week01-week-1-introduction-the-role-of-creative-arts-in-human
+- fxa301-week03-lesson-fxa301-week03-page-3
+- fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope
+- fxa301-week10-lesson-fxa301-week10-page-1
+- fxa303-week02-developmental-role-of-creative-arts-and-play
+- fxa303-week02-fxa303-week-2-child-development-and-creative-arts
+- fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview
+- fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental
+- fxa303-week03-fxa303-week-3-introduction
+- fxa303-week03-lockdown-history-project-activity-sheets
+- fxa303-week04-lesson-fxa303-week04-page-1-week-4-overview
+- fxa303-week04-lesson-fxa303-week04-page-3-arts-and-play
+- fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental
+- fxa303-week05-lesson-fxa303-week05-page-1-week-5-overview
+- fxa303-week05-lesson-fxa303-week05-page-4-week-5-activities
+- fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental
+- fxa303-week05-week-5-overview-fxa303-creative-arts-play-and-mental
+- fxa303-week06-lesson-fxa303-week06-page-1-overview
+- fxa303-week06-lesson-fxa303-week06-page-2-puppets-and-expression
+- fxa303-week06-overview-fxa303-creative-arts-play-and-mental-wellbeing
+- fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental
+- fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts
+- fxa303-week09-lesson-fxa303-week09-page-1-overview
+- fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design
+- fxa303-week09-lesson-fxa303-week09-page-3-case-studies
+- fxa303-week10-lesson-fxa303-week10-page-1-overview
+tags:
+- creative-arts
+title: Music Interventions and Cognitive Health
+type: topic
+updated: 2026-05-11
 ---
 
 ## Music Interventions and Cognitive Health
@@ -61,8 +103,6 @@ The integration of findings from both sources highlights the multifaceted benefi
 
 ## Sources
 
-- [fxa100-week03-association-of-music-interventions-with-health-related](../sources/fxa100-week03-association-of-music-interventions-with-health-related.md)
-- [fxa100-week03-the-effects-of-music-on-the-brain-video-transcript](../sources/fxa100-week03-the-effects-of-music-on-the-brain-video-transcript.md)
 - [fxa100-week06-transcript-film-clips-from-i-remember-better-when-i-paint](../sources/fxa100-week06-transcript-film-clips-from-i-remember-better-when-i-paint.md)
 - [fxa202-week08-journal-and-visual-research-guidelines](../sources/fxa202-week08-journal-and-visual-research-guidelines.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1](../sources/fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1.md)
@@ -77,6 +117,7 @@ The integration of findings from both sources highlights the multifaceted benefi
 - [fxa301-week03-lesson-fxa301-week03-page-3](../sources/fxa301-week03-lesson-fxa301-week03-page-3.md)
 - [fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope](../sources/fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope.md)
 - [fxa301-week10-lesson-fxa301-week10-page-1](../sources/fxa301-week10-lesson-fxa301-week10-page-1.md)
+- [fxa301-week11-lesson-fxa301-week11-page-1](../sources/fxa301-week11-lesson-fxa301-week11-page-1.md)
 - [fxa303-week02-developmental-role-of-creative-arts-and-play](../sources/fxa303-week02-developmental-role-of-creative-arts-and-play.md)
 - [fxa303-week02-fxa303-week-2-child-development-and-creative-arts](../sources/fxa303-week02-fxa303-week-2-child-development-and-creative-arts.md)
 - [fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview](../sources/fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview.md)
@@ -99,3 +140,6 @@ The integration of findings from both sources highlights the multifaceted benefi
 - [fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design](../sources/fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design.md)
 - [fxa303-week09-lesson-fxa303-week09-page-3-case-studies](../sources/fxa303-week09-lesson-fxa303-week09-page-3-case-studies.md)
 - [fxa303-week10-lesson-fxa303-week10-page-1-overview](../sources/fxa303-week10-lesson-fxa303-week10-page-1-overview.md)
+- [fxa303-week11-lesson-fxa303-week11-page-2](../sources/fxa303-week11-lesson-fxa303-week11-page-2.md)
+- [fxa303-week11-lesson-fxa303-week11-page-3](../sources/fxa303-week11-lesson-fxa303-week11-page-3.md)
+- [fxa303-week11-web-article-hardy-2019](../sources/fxa303-week11-web-article-hardy-2019.md)

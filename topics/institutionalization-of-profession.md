@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Institutionalization Of The Profession"
 confidence: low
-tags: ["institutionalization-of-profession"]
+domain: intervention
+slug: institutionalization-of-the-profession
 sources:
-  - fxa100-week02-history-of-music-therapy
+- fxa100-week02-history-of-music-therapy
+tags:
+- institutionalization-of-profession
+title: Institutionalization Of The Profession
+type: topic
 updated: 2026-05-04
 ---
 

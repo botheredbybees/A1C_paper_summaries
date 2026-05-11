@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Mildred Parten's Stages Of Play Development"
 confidence: low
-tags: ["mildred-partens-stages-of-play-development"]
+domain: theory
+slug: mildred-parten-s-stages-of-play-development
 sources:
-  - fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children
+- fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children
+tags:
+- mildred-partens-stages-of-play-development
+title: Mildred Parten's Stages Of Play Development
+type: topic
 updated: 2026-05-04
 ---
 

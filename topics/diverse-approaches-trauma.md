@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Art Therapy for Trauma"
 confidence: low
-tags: ["diverse-approaches-trauma"]
+domain: intervention
+slug: art-therapy-for-trauma
 sources:
-  - fxa303-week09-working-with-trauma-expanding-examining-and-evidencing-the
+- fxa303-week09-working-with-trauma-expanding-examining-and-evidencing-the
+tags:
+- diverse-approaches-trauma
+title: Art Therapy for Trauma
+type: topic
 updated: 2026-05-04
 ---
 

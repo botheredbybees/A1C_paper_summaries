@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Structured Interventions in Art Therapy"
 confidence: low
-tags: ["structured-interventions-art-therapy"]
+domain: intervention
+slug: structured-interventions-in-art-therapy
 sources:
-  - fxa303-week09-working-with-trauma-expanding-examining-and-evidencing-the
+- fxa303-week09-working-with-trauma-expanding-examining-and-evidencing-the
+tags:
+- structured-interventions-art-therapy
+title: Structured Interventions in Art Therapy
+type: topic
 updated: 2026-05-04
 ---
 

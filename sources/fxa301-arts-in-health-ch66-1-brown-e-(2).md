@@ -7,13 +7,14 @@ apa7: "Fancourt, D. (2017). A step-by-step approach to the research process. In 
 doi: https://doi.org/10.1093/oso/9415/chapter/156260898
 appearances:
   - unit: FXA301
+  - unit: FXA301
 tags: ["fxa301"]
 key_concepts: []
 methods: []
 slug: fxa301-arts-in-health-ch66-1-brown-e-(2)
 related: []
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-05-11
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-arts-in-health-ch66-1-brown-e-(2).md_

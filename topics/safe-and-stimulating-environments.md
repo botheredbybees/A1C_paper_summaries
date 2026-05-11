@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Safe And Stimulating Environments"
 confidence: low
-tags: ["safe-and-stimulating-environments"]
+domain: intervention
+slug: safe-and-stimulating-environments
 sources:
-  - fxa303-week02-infancy-and-the-early-years
+- fxa303-week02-infancy-and-the-early-years
+tags:
+- safe-and-stimulating-environments
+title: Safe And Stimulating Environments
+type: topic
 updated: 2026-05-04
 ---
 

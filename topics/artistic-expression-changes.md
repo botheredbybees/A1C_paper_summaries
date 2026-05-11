@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Artistic Expression Changes in Dementia"
 confidence: low
-tags: ["artistic-expression-changes"]
+domain: intervention
+slug: artistic-expression-changes-in-dementia
 sources:
-  - fxa100-week08-art-and-the-brain-effects-of-dementia-on-art-production-in
+- fxa100-week08-art-and-the-brain-effects-of-dementia-on-art-production-in
+tags:
+- artistic-expression-changes
+title: Artistic Expression Changes in Dementia
+type: topic
 updated: 2026-05-04
 ---
 

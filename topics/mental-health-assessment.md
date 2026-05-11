@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Mental Health Assessment"
 confidence: low
-tags: ["mental-health-assessment"]
+domain: method
+slug: mental-health-assessment
 sources:
-  - fxa301-week03-the-thrive-toolkit-tools-for-health-research-and-evaluation
+- fxa301-week03-the-thrive-toolkit-tools-for-health-research-and-evaluation
+tags:
+- mental-health-assessment
+title: Mental Health Assessment
+type: topic
 updated: 2026-05-04
 ---
 

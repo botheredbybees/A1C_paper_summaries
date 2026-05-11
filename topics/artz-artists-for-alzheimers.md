@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Artz - Artists For Alzheimer's"
 confidence: low
-tags: ["artz-artists-for-alzheimers"]
+domain: intervention
+slug: artz-artists-for-alzheimer-s
 sources:
-  - fxa100-week07-lesson-fxa100-week07-welcome-to-week-7
+- fxa100-week07-lesson-fxa100-week07-welcome-to-week-7
+tags:
+- artz-artists-for-alzheimers
+title: Artz - Artists For Alzheimer's
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Engagement with Music and Dance in Historical Contexts"
 confidence: medium
-tags: ["historical-perspective"]
+domain: intervention
+slug: engagement-with-music-and-dance-in-historical-contexts
 sources:
   - fxa301-week06-lesson-fxa301-week06-page-1
   - fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community
-updated: 2026-05-04
+- fxa301-week06-lesson-fxa301-week06-page-1
+- fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community
+tags:
+- historical-perspective
+title: Engagement with Music and Dance in Historical Contexts
+type: topic
+updated: 2026-05-11
 ---
 
 ## Engagement with Music and Dance in Historical Contexts

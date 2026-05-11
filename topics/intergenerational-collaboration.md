@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Intergenerational Collaboration"
 confidence: low
-tags: ["intergenerational-collaboration"]
+domain: intervention
+slug: intergenerational-collaboration
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-(2)
+- fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-(2)
+tags:
+- intergenerational-collaboration
+title: Intergenerational Collaboration
+type: topic
 updated: 2026-05-04
 ---
 

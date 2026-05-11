@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Critical Period Hypothesis"
 confidence: low
-tags: ["critical-period-hypothesis"]
+domain: theory
+slug: critical-period-hypothesis
 sources:
-  - fxa303-week02-lesson-fxa303-week02-introduction
+- fxa303-week02-lesson-fxa303-week02-introduction
+tags:
+- critical-period-hypothesis
+title: Critical Period Hypothesis
+type: topic
 updated: 2026-05-04
 ---
 

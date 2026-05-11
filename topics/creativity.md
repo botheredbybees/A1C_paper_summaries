@@ -1,17 +1,22 @@
 ---
-type: topic
-domain: "theory"
-title: "Creativity"
 confidence: medium
-tags: ["creativity"]
+domain: theory
+slug: creativity
 sources:
-  - fxa100-week06-art-creativity
-  - fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia
-  - fxa301-week01-transcript-for-this-weeks-e-tivity-you-should-watch-the
   - fxa301-week01-week-2-introduction-fxa301-arts-in-the-community
   - fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam
   - fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam
-updated: 2026-05-05
+- fxa100-week06-art-creativity
+- fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia
+- fxa301-week01-transcript-for-this-weeks-e-tivity-you-should-watch-the
+- fxa301-week01-week-2-introduction-fxa301-arts-in-the-community
+- fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam
+- fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam
+tags:
+- creativity
+title: Creativity
+type: topic
+updated: 2026-05-11
 ---
 
 ## Creativity
@@ -30,9 +35,6 @@ The concept of creativity is examined across multiple perspectives in these sour
 
 ## Sources
 
-- [fxa100-week06-art-creativity](../sources/fxa100-week06-art-creativity.md)
-- [fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia](../sources/fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia.md)
-- [fxa301-week01-transcript-for-this-weeks-e-tivity-you-should-watch-the](../sources/fxa301-week01-transcript-for-this-weeks-e-tivity-you-should-watch-the.md)
 - [fxa301-week01-week-2-introduction-fxa301-arts-in-the-community](../sources/fxa301-week01-week-2-introduction-fxa301-arts-in-the-community.md)
 - [fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam.md)
 - [fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam.md)

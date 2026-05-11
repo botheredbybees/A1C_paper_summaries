@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Results-Based Management"
 confidence: low
-tags: ["results-based-management"]
+domain: intervention
+slug: results-based-management
 sources:
   - fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals
   - fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals-(2)
-updated: 2026-05-05
+- fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals
+- fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals-(2)
+tags:
+- results-based-management
+title: Results-Based Management
+type: topic
+updated: 2026-05-11
 ---
 
 ## Results-Based Management

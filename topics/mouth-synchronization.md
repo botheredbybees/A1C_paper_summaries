@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Mouth Synchronization in Puppetry"
 confidence: low
-tags: ["mouth-synchronization"]
+domain: intervention
+slug: mouth-synchronization-in-puppetry
 sources:
-  - fxa303-week06-developing-excellence-in-puppet-manipulation
+- fxa303-week06-developing-excellence-in-puppet-manipulation
+tags:
+- mouth-synchronization
+title: Mouth Synchronization in Puppetry
+type: topic
 updated: 2026-05-04
 ---
 

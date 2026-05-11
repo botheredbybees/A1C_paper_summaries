@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Art Therapy and Affective Empathy"
 confidence: low
-tags: ["affective-empathy"]
+domain: intervention
+slug: art-therapy-and-affective-empathy
 sources:
-  - fxa303-week06-art-therapy-with-puppet-making-to-promote-emotional-empathy
+- fxa303-week06-art-therapy-with-puppet-making-to-promote-emotional-empathy
+tags:
+- affective-empathy
+title: Art Therapy and Affective Empathy
+type: topic
 updated: 2026-05-04
 ---
 

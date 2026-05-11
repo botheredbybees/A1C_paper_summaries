@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Neural Integration in Early Development"
 confidence: low
-tags: ["neural-integration"]
+domain: method
+slug: neural-integration-in-early-development
 sources:
-  - fxa303-week02-functional-connectivity-in-the-first-year-of-life-in
+- fxa303-week02-functional-connectivity-in-the-first-year-of-life-in
+tags:
+- neural-integration
+title: Neural Integration in Early Development
+type: topic
 updated: 2026-05-04
 ---
 

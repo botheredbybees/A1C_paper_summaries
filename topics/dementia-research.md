@@ -1,16 +1,23 @@
 ---
-type: topic
-domain: "intervention"
-title: "Dementia Research and Interventions"
 confidence: high
-tags: ["dementia-research"]
+domain: intervention
+slug: dementia-research-and-interventions
 sources:
   - fxa100-how-we-thnk-about-dementia-ch05-chapter-11
   - fxa100-week01-national-dementia-data-improvement-plan-20232034
   - fxa100-week06-art-training-in-dementia-a-randomized-controlled-trial
   - fxa100-week06-dementia-and-art-neuronal-intermediate-filament-inclusion
   - fxa100-week07-turning-back-the-hands-of-time-autobiographical-memories-in
-updated: 2026-05-04
+- fxa100-how-we-thnk-about-dementia-ch05-chapter-11
+- fxa100-week01-national-dementia-data-improvement-plan-20232034
+- fxa100-week06-art-training-in-dementia-a-randomized-controlled-trial
+- fxa100-week06-dementia-and-art-neuronal-intermediate-filament-inclusion
+- fxa100-week07-turning-back-the-hands-of-time-autobiographical-memories-in
+tags:
+- dementia-research
+title: Dementia Research and Interventions
+type: topic
+updated: 2026-05-11
 ---
 
 ## Dementia Research and Interventions

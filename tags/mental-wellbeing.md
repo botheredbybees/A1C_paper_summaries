@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-wellbeing
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Mental Wellbeing
@@ -42,3 +42,8 @@ updated: 2026-05-06
 - [Week 10 Overview: Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week10-lesson-fxa303-week10-page-1-overview.md)
 - [Indigenous Arts and Mental Wellbeing](../sources/fxa303-week10-lesson-fxa303-week10-page-2-indigenous-arts-and-mental.md)
 - [Publications - Indigenous Mental Health and Suicide Prevention Clearinghouse](../sources/fxa303-week10-web-article-russ-smith-2023.md)
+- [Artsmark and Sandwell Youth Offending Service Follow-Up](../sources/fxa303-week11-artsmark-and-sandwell-youth-offending-service-follow-up.md)
+- [FXA303 Week 11: Creative Arts Projects and Therapeutic Programs for Gender Diverse Youth](../sources/fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic.md)
+- [Hidden Identities and Concealed Dangers: Visual Art, Transgender Health, and Wellbeing](../sources/fxa303-week11-hidden-identities-and-concealed-dangers-visual-art.md)
+- [Week 11 Overview - FXA303 Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week11-lesson-fxa303-week11-page-1-overview.md)
+- [Creative Arts and Disadvantaged Youth](../sources/fxa303-week11-lesson-fxa303-week11-page-3.md)

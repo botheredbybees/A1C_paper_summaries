@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Control Processes in Metacognition"
 confidence: low
-tags: ["control-processes"]
+domain: theory
+slug: control-processes-in-metacognition
 sources:
-  - fxa303-week02-the-development-of-metacognitive-skills-evidence-from
+- fxa303-week02-the-development-of-metacognitive-skills-evidence-from
+tags:
+- control-processes
+title: Control Processes in Metacognition
+type: topic
 updated: 2026-05-04
 ---
 

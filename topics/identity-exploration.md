@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Identity Exploration in Adolescents"
 confidence: low
-tags: ["identity-exploration"]
+domain: theory
+slug: identity-exploration-in-adolescents
 sources:
-  - fxa303-week03-mental-health-of-adolescents
+- fxa303-week03-mental-health-of-adolescents
+tags:
+- identity-exploration
+title: Identity Exploration in Adolescents
+type: topic
 updated: 2026-05-04
 ---
 

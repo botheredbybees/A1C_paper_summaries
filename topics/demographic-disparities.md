@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Demographic Disparities in Educational Outcomes"
 confidence: low
-tags: ["demographic-disparities"]
+domain: population
+slug: demographic-disparities-in-educational-outcomes
 sources:
-  - fxa301-week08-the-effect-of-extracurricular-participation-on-academic
+- fxa301-week08-the-effect-of-extracurricular-participation-on-academic
+tags:
+- demographic-disparities
+title: Demographic Disparities in Educational Outcomes
+type: topic
 updated: 2026-05-04
 ---
 

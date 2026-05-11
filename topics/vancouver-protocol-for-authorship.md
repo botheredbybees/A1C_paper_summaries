@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Vancouver Protocol For Authorship"
 confidence: low
-tags: ["vancouver-protocol-for-authorship"]
+domain: theory
+slug: vancouver-protocol-for-authorship
 sources:
-  - fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of-(2)
+- fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of-(2)
+tags:
+- vancouver-protocol-for-authorship
+title: Vancouver Protocol For Authorship
+type: topic
 updated: 2026-05-04
 ---
 

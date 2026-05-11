@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Memory Enhancement"
 confidence: low
-tags: ["memory-enhancement"]
+domain: intervention
+slug: memory-enhancement
 sources:
-  - fxa100-creativity-and-communication-ch09-19-starting-out-in-any-creative-endeavour-of-this-nature
+- fxa100-creativity-and-communication-ch09-19-starting-out-in-any-creative-endeavour-of-this-nature
+tags:
+- memory-enhancement
+title: Memory Enhancement
+type: topic
 updated: 2026-05-04
 ---
 

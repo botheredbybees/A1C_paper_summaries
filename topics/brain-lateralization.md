@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Brain Lateralization"
 confidence: low
-tags: ["brain-lateralization"]
+domain: theory
+slug: brain-lateralization
 sources:
-  - fxa100-week02-transcript-in-the-video-hank-green-from-the-scishow-explains
+- fxa100-week02-transcript-in-the-video-hank-green-from-the-scishow-explains
+tags:
+- brain-lateralization
+title: Brain Lateralization
+type: topic
 updated: 2026-05-04
 ---
 

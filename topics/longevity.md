@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "theory"
-title: "Longevity"
 confidence: medium
-tags: ["longevity"]
+domain: theory
+slug: longevity
 sources:
-  - fxa100-how-we-thnk-about-dementia-ch04-chapter-2
-  - fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2)
+- fxa100-how-we-thnk-about-dementia-ch04-chapter-2
+- fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2)
+tags:
+- longevity
+title: Longevity
+type: topic
 updated: 2026-05-04
 ---
 

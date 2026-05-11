@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:fxa301",
+                "query": "tag:visual-literacy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,33 +185,33 @@
   },
   "active": "50ec309f0b3d2f5d",
   "lastOpenFiles": [
-    "bundles/2026-05-06-community-arts.md",
-    "bundles/2026-05-06-aboriginal-community.md",
+    "sources/fxa301-make-arts-for-a-better-life-ch16-1-create-an-inventory-of-the-content-elements.md",
+    "sources/fxa301-make-arts-for-a-better-life-ch16-1-create-an-inventory-of-the-content-elements-(2).md",
+    "topics/visual-literacy.md",
+    "context/youtube-video.md",
+    "context/youth-mental-health.md",
+    "context/youth-health.md",
+    "context/youth-development.md",
+    "context/young-onset-dementia.md",
+    "context/young-onset-dementia-challenges.md",
+    "context/world-war-i.md",
+    "context/writer-profile.md",
+    "context/working-memory.md",
+    "context/world-health-organization-definition-of-health.md",
+    "context/work-life-balance.md",
+    "context/workforce-development.md",
+    "context/work-engagement.md",
+    "context/white-matter-diffusion-measures.md",
+    "context/wellbeing-through-art.md",
+    "context/wellbeing.md",
+    "context/wellbeing-research.md",
+    "context/wellbeing-promotion.md",
+    "context/wellbeing-interventions.md",
+    "context/wellbeing-outcomes.md",
+    "context/wellbeing-initiatives.md",
+    "context/wellbeing-improvement.md",
+    "context/wellbeing-enhancement.md",
     "bundles",
-    "context/music-therapy-identity.md",
-    "context/music-therapy-benefits.md",
-    "context/music-therapeutic-caregiving-mtc.md",
-    "context/music-psychology.md",
-    "context/music-perception.md",
-    "context/music-memory-project.md",
-    "context/music-memory-program.md",
-    "context/music-interventions.md",
-    "context/music-intervention.md",
-    "context/music-induced-emotions.md",
-    "context/music-health.md",
-    "context/music-evoked-emotion-response-theory.md",
-    "context/music-emotion.md",
-    "context/music-education.md",
-    "context/music-education-provision.md",
-    "context/music-culture.md",
-    "context/music-cognition.md",
-    "context/music-based-interventions.md",
-    "context/music-as-communication.md",
-    "context/music-as-a-catalyst-for-change.md",
-    "context/music-and-dementia.md",
-    "context/music-and-memory-project.md",
-    "context/music-and-memory-program.md",
-    "context/music-and-dance.md",
     "context"
   ]
 }

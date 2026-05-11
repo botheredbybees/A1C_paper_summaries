@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Positive Classroom Climate"
 confidence: low
-tags: ["positive-classroom-climate"]
+domain: intervention
+slug: positive-classroom-climate
 sources:
-  - fxa303-week05-puppet-as-a-pedagogical-tool-a-literature-review
+- fxa303-week05-puppet-as-a-pedagogical-tool-a-literature-review
+tags:
+- positive-classroom-climate
+title: Positive Classroom Climate
+type: topic
 updated: 2026-05-04
 ---
 

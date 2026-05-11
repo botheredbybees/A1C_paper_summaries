@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Interactive Online Platforms"
 confidence: low
-tags: ["interactive-online-platforms"]
+domain: intervention
+slug: interactive-online-platforms
 sources:
-  - fxa303-week06-virtual-puppet-play-therapy
+- fxa303-week06-virtual-puppet-play-therapy
+tags:
+- interactive-online-platforms
+title: Interactive Online Platforms
+type: topic
 updated: 2026-05-04
 ---
 

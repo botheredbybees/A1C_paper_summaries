@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Mental Health Issues Among Youth"
 confidence: low
-tags: ["mental-health-issues"]
+domain: population
+slug: mental-health-issues-among-youth
 sources:
-  - fxa303-week03-youth-survey-report-2025
+- fxa303-week03-youth-survey-report-2025
+tags:
+- mental-health-issues
+title: Mental Health Issues Among Youth
+type: topic
 updated: 2026-05-04
 ---
 

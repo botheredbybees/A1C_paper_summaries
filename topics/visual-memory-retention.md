@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Visual Memory Retention"
 confidence: low
-tags: ["visual-memory-retention"]
+domain: theory
+slug: visual-memory-retention
 sources:
-  - fxa202-week03-what-smartphone-photography-is-doing-to-our-memories
+- fxa202-week03-what-smartphone-photography-is-doing-to-our-memories
+tags:
+- visual-memory-retention
+title: Visual Memory Retention
+type: topic
 updated: 2026-05-04
 ---
 

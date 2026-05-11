@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Verbal Communication in Therapeutic Settings"
 confidence: low
-tags: ["verbal-communication"]
+domain: intervention
+slug: verbal-communication-in-therapeutic-settings
 sources:
-  - fxa303-week01-an-overview-of-play-therapy
+- fxa303-week01-an-overview-of-play-therapy
+tags:
+- verbal-communication
+title: Verbal Communication in Therapeutic Settings
+type: topic
 updated: 2026-05-04
 ---
 

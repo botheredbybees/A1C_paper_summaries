@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Post-Traumatic Stress Symptoms"
 confidence: low
-tags: ["post-traumatic-stress-symptoms"]
+domain: intervention
+slug: post-traumatic-stress-symptoms
 sources:
-  - fxa303-week01-can-traumatic-stress-alter-the-brain-understanding-the
+- fxa303-week01-can-traumatic-stress-alter-the-brain-understanding-the
+tags:
+- post-traumatic-stress-symptoms
+title: Post-Traumatic Stress Symptoms
+type: topic
 updated: 2026-05-04
 ---
 

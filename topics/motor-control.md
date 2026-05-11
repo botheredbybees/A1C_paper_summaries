@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Motor Control in Neurological Disorders"
 confidence: medium
-tags: ["motor-control"]
+domain: intervention
+slug: motor-control-in-neurological-disorders
 sources:
   - fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro
   - fxa301-week06-effect-of-rhythmic-auditory-cueing-on-parkinsonian-gait-a
-updated: 2026-05-04
+- fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro
+- fxa301-week06-effect-of-rhythmic-auditory-cueing-on-parkinsonian-gait-a
+tags:
+- motor-control
+title: Motor Control in Neurological Disorders
+type: topic
+updated: 2026-05-11
 ---
 
 ## Motor Control in Neurological Disorders

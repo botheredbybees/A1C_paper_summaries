@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "theory"
-title: "The Hippocampus in Brain Function"
 confidence: medium
-tags: ["hippocampus"]
+domain: theory
+slug: the-hippocampus-in-brain-function
 sources:
-  - fxa301-week01-lesson-fxa301-week01-page-2
-  - fxa303-week03-limbic-systems-for-emotion-and-for-memory-but-no-single
+- fxa301-week01-lesson-fxa301-week01-page-2
+- fxa303-week03-limbic-systems-for-emotion-and-for-memory-but-no-single
+tags:
+- hippocampus
+title: The Hippocampus in Brain Function
+type: topic
 updated: 2026-05-04
 ---
 

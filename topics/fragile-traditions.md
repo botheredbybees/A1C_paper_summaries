@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Fragile Traditions"
 confidence: low
-tags: ["fragile-traditions"]
+domain: theory
+slug: fragile-traditions
 sources:
-  - fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals
+- fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals
+tags:
+- fragile-traditions
+title: Fragile Traditions
+type: topic
 updated: 2026-05-04
 ---
 

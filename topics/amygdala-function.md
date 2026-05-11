@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Amygdala Function"
 confidence: low
-tags: ["amygdala-function"]
+domain: theory
+slug: amygdala-function
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch27-chapter-9
+- fxa301-oxford-textbook-of-creative-arts-ch27-chapter-9
+tags:
+- amygdala-function
+title: Amygdala Function
+type: topic
 updated: 2026-05-04
 ---
 

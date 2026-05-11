@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Ethnographic Fieldwork Methods"
 confidence: medium
-tags: ["fieldwork-methods"]
+domain: method
+slug: ethnographic-fieldwork-methods
 sources:
   - fxa301-make-arts-for-a-better-life-ch05-1-read-your
   - fxa301-make-arts-for-a-better-life-ch05-1-read-your-(2)
-updated: 2026-05-04
+- fxa301-make-arts-for-a-better-life-ch05-1-read-your
+- fxa301-make-arts-for-a-better-life-ch05-1-read-your-(2)
+tags:
+- fieldwork-methods
+title: Ethnographic Fieldwork Methods
+type: topic
+updated: 2026-05-11
 ---
 
 ## Ethnographic Fieldwork Methods

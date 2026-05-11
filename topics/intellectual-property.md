@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Intellectual Property in Arts and Health Collaboration"
 confidence: low
-tags: ["intellectual-property"]
+domain: intervention
+slug: intellectual-property-in-arts-and-health-collaboration
 sources:
-  - fxa301-arts-in-health-ch44-1-the-artist-(2)
+- fxa301-arts-in-health-ch44-1-the-artist-(2)
+tags:
+- intellectual-property
+title: Intellectual Property in Arts and Health Collaboration
+type: topic
 updated: 2026-05-04
 ---
 

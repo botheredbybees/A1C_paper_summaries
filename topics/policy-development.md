@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Policy Development in Arts and Health"
 confidence: low
-tags: ["policy-development"]
+domain: theory
+slug: policy-development-in-arts-and-health
 sources:
-  - fxa301-week03-evidence-requirements-for-the-development-of-the-national
+- fxa301-week03-evidence-requirements-for-the-development-of-the-national
+tags:
+- policy-development
+title: Policy Development in Arts and Health
+type: topic
 updated: 2026-05-04
 ---
 

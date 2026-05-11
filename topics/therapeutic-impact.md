@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Musical Therapeutic Effect"
 confidence: low
-tags: ["therapeutic-impact"]
+domain: intervention
+slug: musical-therapeutic-effect
 sources:
-  - fxa301-week06-the-dance-of-wellbeing-defining-the-musical-therapeutic
+- fxa301-week06-the-dance-of-wellbeing-defining-the-musical-therapeutic
+tags:
+- therapeutic-impact
+title: Musical Therapeutic Effect
+type: topic
 updated: 2026-05-04
 ---
 

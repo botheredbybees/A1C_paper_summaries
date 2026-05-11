@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Roles And Responsibilities In Refugee Youth"
 confidence: low
-tags: ["roles-and-responsibilities"]
+domain: population
+slug: roles-and-responsibilities-in-refugee-youth
 sources:
-  - fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to-(2)
+- fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to-(2)
+tags:
+- roles-and-responsibilities
+title: Roles And Responsibilities In Refugee Youth
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Singing as a Therapy for Chronic Obstructive Pulmonary Disease"
 confidence: medium
-tags: ["chronic-obstructive-pulmonary-disease-copd"]
+domain: intervention
+slug: singing-as-a-therapy-for-chronic-obstructive-pulmonary-disease
 sources:
-  - fxa100-week04-singing-for-better-breathing-transcript
-  - fxa100-week04-transcript-singing-for-better-breathing
+- fxa100-week04-singing-for-better-breathing-transcript
+- fxa100-week04-transcript-singing-for-better-breathing
+tags:
+- chronic-obstructive-pulmonary-disease-copd
+title: Singing as a Therapy for Chronic Obstructive Pulmonary Disease
+type: topic
 updated: 2026-05-04
 ---
 

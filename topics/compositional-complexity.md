@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Compositional Complexity in Alzheimer's Art Therapy"
 confidence: low
-tags: ["compositional-complexity"]
+domain: intervention
+slug: compositional-complexity-in-alzheimer-s-art-therapy
 sources:
-  - fxa100-week08-art-and-alzheimer-type-dementia-a-longitudinal-study
+- fxa100-week08-art-and-alzheimer-type-dementia-a-longitudinal-study
+tags:
+- compositional-complexity
+title: Compositional Complexity in Alzheimer's Art Therapy
+type: topic
 updated: 2026-05-04
 ---
 

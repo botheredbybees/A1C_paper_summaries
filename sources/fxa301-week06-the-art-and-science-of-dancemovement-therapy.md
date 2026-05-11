@@ -11,7 +11,7 @@ tags: ["dance-therapy", "movement-therapy", "creative-arts-therapy", "palliative
 key_concepts: ["dance/movement therapy", "therapeutic use of movement", "psychological intervention"]
 methods: ["case study"]
 slug: fxa301-week06-the-art-and-science-of-dancemovement-therapy
-related: ["creative-arts-therapy", "dance-therapy", "palliative-care"]
+related: ["creative-arts-therapy", "dance-therapy", "movement-therapy", "palliative-care"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,4 +44,5 @@ The second edition of 'The Art and Science of Dance/Movement Therapy' provides a
 
 - [creative-arts-therapy](../topics/creative-arts-therapy.md)
 - [dance-therapy](../topics/dance-therapy.md)
+- [movement-therapy](../topics/movement-therapy.md)
 - [palliative-care](../topics/palliative-care.md)

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Pr-6 Model Of Resilience"
 confidence: low
-tags: ["pr-6-model-of-resilience"]
+domain: theory
+slug: pr-6-model-of-resilience
 sources:
-  - fxa303-art-therapy-in-response-to-natural-disasters-ch04-chapter-9
+- fxa303-art-therapy-in-response-to-natural-disasters-ch04-chapter-9
+tags:
+- pr-6-model-of-resilience
+title: Pr-6 Model Of Resilience
+type: topic
 updated: 2026-05-04
 ---
 

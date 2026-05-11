@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Coping Mechanisms"
 confidence: low
-tags: ["creative-coping-mechanisms"]
+domain: intervention
+slug: creative-coping-mechanisms
 sources:
-  - fxa202-week06-winding-paths
+- fxa202-week06-winding-paths
+tags:
+- creative-coping-mechanisms
+title: Creative Coping Mechanisms
+type: topic
 updated: 2026-05-04
 ---
 

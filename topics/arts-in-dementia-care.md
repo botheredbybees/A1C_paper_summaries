@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts in Dementia Care"
 confidence: medium
-tags: ["arts-in-dementia-care"]
+domain: intervention
+slug: arts-in-dementia-care
 sources:
   - fxa100-week04-lecture-notes-for-fxa100-the-arts-and-dementia-care
   - fxa100-week04-week-4-activities-fxa100-the-arts-and-dementia-care
-updated: 2026-05-04
+- fxa100-week04-lecture-notes-for-fxa100-the-arts-and-dementia-care
+- fxa100-week04-week-4-activities-fxa100-the-arts-and-dementia-care
+tags:
+- arts-in-dementia-care
+title: Arts in Dementia Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Arts in Dementia Care

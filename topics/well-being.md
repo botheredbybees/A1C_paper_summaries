@@ -1,11 +1,10 @@
 ---
-type: topic
-domain: "intervention"
-title: "Well-Being Through Creative Arts"
 confidence: high
-tags: ["well-being"]
+domain: intervention
+slug: well-being-through-creative-arts
 sources:
   - fxa100-week04-transcript-cale-research-aged-care-deloraine-partnership
+  - fxa100-week11-more-than-just-movement-exploring-embodied-group-synchrony
   - fxa301-make-arts-for-a-better-life-ch17-1-for-further-study-on-communication-channels
   - fxa301-week01-evaluating-community-arts-community-well-being
   - fxa301-week01-evaluating-community-arts-community-well-being-an
@@ -15,7 +14,23 @@ sources:
   - fxa301-week08-the-cultural-value-of-older-peoples-experiences-of-theater
   - fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the
   - fxa301-week10-lesson-fxa301-week10-page-1
-updated: 2026-05-05
+  - fxa303-week11-effects-of-choir-singing-on-mental-health-results-of-an
+  - fxa303-week11-social-isolation-and-connectedness-as-determinants-of-well
+- fxa100-week04-transcript-cale-research-aged-care-deloraine-partnership
+- fxa301-make-arts-for-a-better-life-ch17-1-for-further-study-on-communication-channels
+- fxa301-week01-evaluating-community-arts-community-well-being
+- fxa301-week01-evaluating-community-arts-community-well-being-an
+- fxa301-week03-implementing-creative-health
+- fxa301-week03-music-listening-for-supporting-adolescents-sense-of-agency
+- fxa301-week05-happy-museum-learning-evaluation-report
+- fxa301-week08-the-cultural-value-of-older-peoples-experiences-of-theater
+- fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the
+- fxa301-week10-lesson-fxa301-week10-page-1
+tags:
+- well-being
+title: Well-Being Through Creative Arts
+type: topic
+updated: 2026-05-11
 ---
 
 ## Well-Being Through Creative Arts
@@ -35,6 +50,7 @@ The integration of creative arts as an intervention to improve well-being is a r
 ## Sources
 
 - [fxa100-week04-transcript-cale-research-aged-care-deloraine-partnership](../sources/fxa100-week04-transcript-cale-research-aged-care-deloraine-partnership.md)
+- [fxa100-week11-more-than-just-movement-exploring-embodied-group-synchrony](../sources/fxa100-week11-more-than-just-movement-exploring-embodied-group-synchrony.md)
 - [fxa301-make-arts-for-a-better-life-ch17-1-for-further-study-on-communication-channels](../sources/fxa301-make-arts-for-a-better-life-ch17-1-for-further-study-on-communication-channels.md)
 - [fxa301-week01-evaluating-community-arts-community-well-being](../sources/fxa301-week01-evaluating-community-arts-community-well-being.md)
 - [fxa301-week01-evaluating-community-arts-community-well-being-an](../sources/fxa301-week01-evaluating-community-arts-community-well-being-an.md)
@@ -44,3 +60,5 @@ The integration of creative arts as an intervention to improve well-being is a r
 - [fxa301-week08-the-cultural-value-of-older-peoples-experiences-of-theater](../sources/fxa301-week08-the-cultural-value-of-older-peoples-experiences-of-theater.md)
 - [fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the](../sources/fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the.md)
 - [fxa301-week10-lesson-fxa301-week10-page-1](../sources/fxa301-week10-lesson-fxa301-week10-page-1.md)
+- [fxa303-week11-effects-of-choir-singing-on-mental-health-results-of-an](../sources/fxa303-week11-effects-of-choir-singing-on-mental-health-results-of-an.md)
+- [fxa303-week11-social-isolation-and-connectedness-as-determinants-of-well](../sources/fxa303-week11-social-isolation-and-connectedness-as-determinants-of-well.md)

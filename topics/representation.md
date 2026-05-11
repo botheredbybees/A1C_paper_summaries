@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Representation of People with Disabilities in the Arts"
 confidence: low
-tags: ["representation"]
+domain: population
+slug: representation-of-people-with-disabilities-in-the-arts
 sources:
-  - fxa301-week09-web-article-australia-2018
+- fxa301-week09-web-article-australia-2018
+tags:
+- representation
+title: Representation of People with Disabilities in the Arts
+type: topic
 updated: 2026-05-04
 ---
 

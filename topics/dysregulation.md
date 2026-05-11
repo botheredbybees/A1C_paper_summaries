@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Transcriptomic Dysregulation in Autism Spectrum Disorder"
 confidence: low
-tags: ["dysregulation"]
+domain: intervention
+slug: transcriptomic-dysregulation-in-autism-spectrum-disorder
 sources:
-  - fxa303-week04-broad-transcriptomic-dysregulation-occurs-across-the
+- fxa303-week04-broad-transcriptomic-dysregulation-occurs-across-the
+tags:
+- dysregulation
+title: Transcriptomic Dysregulation in Autism Spectrum Disorder
+type: topic
 updated: 2026-05-04
 ---
 

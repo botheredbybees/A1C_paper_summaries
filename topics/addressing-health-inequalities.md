@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Addressing Health Inequalities Through Long-Term Support"
 confidence: low
-tags: ["addressing-health-inequalities"]
+domain: intervention
+slug: addressing-health-inequalities-through-long-term-support
 sources:
-  - fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation
+- fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation
+tags:
+- addressing-health-inequalities
+title: Addressing Health Inequalities Through Long-Term Support
+type: topic
 updated: 2026-05-04
 ---
 

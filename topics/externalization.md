@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Externalization in Psychological Diagnoses"
 confidence: low
-tags: ["externalization"]
+domain: theory
+slug: externalization-in-psychological-diagnoses
 sources:
-  - fxa303-week04-diagnostic-categories-or-dimensions-a-question-for-the
+- fxa303-week04-diagnostic-categories-or-dimensions-a-question-for-the
+tags:
+- externalization
+title: Externalization in Psychological Diagnoses
+type: topic
 updated: 2026-05-04
 ---
 

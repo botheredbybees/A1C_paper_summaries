@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Social Gradient"
 confidence: low
-tags: ["social-gradient"]
+domain: theory
+slug: social-gradient
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions
+- fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions
+tags:
+- social-gradient
+title: Social Gradient
+type: topic
 updated: 2026-05-04
 ---
 

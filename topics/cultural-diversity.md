@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cultural Diversity in Arts and Healthcare"
 confidence: high
-tags: ["cultural-diversity"]
+domain: intervention
+slug: cultural-diversity-in-arts-and-healthcare
 sources:
   - fxa100-week03-lesson-fxa100-week03-page-4-week-3-activities1
   - fxa301-week01-lesson-fxa301-week01-page-3-arts-participation
@@ -11,7 +9,17 @@ sources:
   - fxa301-week09-web-article-australia-2018
   - fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an
   - fxa303-week10-cultural-diversity-and-mental-health-considerations-for
-updated: 2026-05-05
+- fxa100-week03-lesson-fxa100-week03-page-4-week-3-activities1
+- fxa301-week01-lesson-fxa301-week01-page-3-arts-participation
+- fxa301-week03-creating-our-future-results-of-the-national-arts
+- fxa301-week09-web-article-australia-2018
+- fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an
+- fxa303-week10-cultural-diversity-and-mental-health-considerations-for
+tags:
+- cultural-diversity
+title: Cultural Diversity in Arts and Healthcare
+type: topic
+updated: 2026-05-11
 ---
 
 ## Cultural Diversity in Arts and Healthcare

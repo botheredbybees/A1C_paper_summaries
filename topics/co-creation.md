@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Co-Creation in Dementia Care"
 confidence: low
-tags: ["co-creation"]
+domain: intervention
+slug: co-creation-in-dementia-care
 sources:
-  - fxa100-week06-how-creating-sculpture-benefits-people-with-dementia
+- fxa100-week06-how-creating-sculpture-benefits-people-with-dementia
+tags:
+- co-creation
+title: Co-Creation in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

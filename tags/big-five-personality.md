@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: big-five-personality
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Big Five Personality

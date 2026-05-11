@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Neurofilament Light Chain Levels"
 confidence: low
-tags: ["neurofilament-light-chain-levels"]
+domain: intervention
+slug: neurofilament-light-chain-levels
 sources:
-  - fxa100-week01-relating-physical-activity-to-cognitive-function-brain
+- fxa100-week01-relating-physical-activity-to-cognitive-function-brain
+tags:
+- neurofilament-light-chain-levels
+title: Neurofilament Light Chain Levels
+type: topic
 updated: 2026-05-04
 ---
 

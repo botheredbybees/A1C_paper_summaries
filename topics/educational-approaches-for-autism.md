@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Educational Approaches for Autism"
 confidence: low
-tags: ["educational-approaches-for-autism"]
+domain: intervention
+slug: educational-approaches-for-autism
 sources:
-  - fxa303-week04-educating-students-with-autism-spectrum-disorders
+- fxa303-week04-educating-students-with-autism-spectrum-disorders
+tags:
+- educational-approaches-for-autism
+title: Educational Approaches for Autism
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Non-Pharmacological Strategies in Alzheimer's Disease"
 confidence: low
-tags: ["non-pharmacological-strategies"]
+domain: intervention
+slug: non-pharmacological-strategies-in-alzheimer-s-disease
 sources:
-  - fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical
+- fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical
+tags:
+- non-pharmacological-strategies
+title: Non-Pharmacological Strategies in Alzheimer's Disease
+type: topic
 updated: 2026-05-04
 ---
 

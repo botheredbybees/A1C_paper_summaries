@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Employment Rates Among Program Participants"
 confidence: low
-tags: ["employment-rates"]
+domain: intervention
+slug: employment-rates-among-program-participants
 sources:
-  - fxa301-week06-statistical-analysis-of-educational-outcomes-among-big
+- fxa301-week06-statistical-analysis-of-educational-outcomes-among-big
+tags:
+- employment-rates
+title: Employment Rates Among Program Participants
+type: topic
 updated: 2026-05-04
 ---
 

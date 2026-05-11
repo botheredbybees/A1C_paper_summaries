@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Open Dialogue in Domestic Violence Shelters"
 confidence: low
-tags: ["open-dialogue"]
+domain: intervention
+slug: open-dialogue-in-domestic-violence-shelters
 sources:
-  - fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand
+- fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand
+tags:
+- open-dialogue
+title: Open Dialogue in Domestic Violence Shelters
+type: topic
 updated: 2026-05-04
 ---
 

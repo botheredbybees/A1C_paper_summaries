@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Freezing Of Gait"
 confidence: low
-tags: ["freezing-of-gait"]
+domain: intervention
+slug: freezing-of-gait
 sources:
-  - fxa301-week06-therapeutic-dancing-for-parkinsons-disease
+- fxa301-week06-therapeutic-dancing-for-parkinsons-disease
+tags:
+- freezing-of-gait
+title: Freezing Of Gait
+type: topic
 updated: 2026-05-04
 ---
 

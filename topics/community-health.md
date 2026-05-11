@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Arts in Community Health"
 confidence: high
-tags: ["community-health"]
+domain: intervention
+slug: creative-arts-in-community-health
 sources:
   - fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6
   - fxa301-week01-lesson-fxa301-week01-troubleshooting1
   - fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using
   - fxa301-week08-week-8-lecture-applying-theatre-and-literature-for-health
-updated: 2026-05-04
+- fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6
+- fxa301-week01-lesson-fxa301-week01-troubleshooting1
+- fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using
+- fxa301-week08-week-8-lecture-applying-theatre-and-literature-for-health
+tags:
+- community-health
+title: Creative Arts in Community Health
+type: topic
+updated: 2026-05-11
 ---
 
 ## Creative Arts in Community Health

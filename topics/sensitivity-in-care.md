@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sensitivity In Care"
 confidence: low
-tags: ["sensitivity-in-care"]
+domain: intervention
+slug: sensitivity-in-care
 sources:
-  - fxa100-week10-transcript-inside-out-of-mind-audience-feedback-lakeside-arts
+- fxa100-week10-transcript-inside-out-of-mind-audience-feedback-lakeside-arts
+tags:
+- sensitivity-in-care
+title: Sensitivity In Care
+type: topic
 updated: 2026-05-04
 ---
 

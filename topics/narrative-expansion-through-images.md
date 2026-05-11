@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Narrative Expansion Through Images"
 confidence: low
-tags: ["narrative-expansion-through-images"]
+domain: method
+slug: narrative-expansion-through-images
 sources:
-  - fxa202-week01-lesson-fxa202-week01-chapter-3-what-is-a-photo-essay
+- fxa202-week01-lesson-fxa202-week01-chapter-3-what-is-a-photo-essay
+tags:
+- narrative-expansion-through-images
+title: Narrative Expansion Through Images
+type: topic
 updated: 2026-05-04
 ---
 

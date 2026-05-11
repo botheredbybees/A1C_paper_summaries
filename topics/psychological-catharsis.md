@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Psychological Catharsis"
 confidence: low
-tags: ["psychological-catharsis"]
+domain: intervention
+slug: psychological-catharsis
 sources:
-  - fxa303-week06-therapeutic-puppetry-and-wellbeing
+- fxa303-week06-therapeutic-puppetry-and-wellbeing
+tags:
+- psychological-catharsis
+title: Psychological Catharsis
+type: topic
 updated: 2026-05-04
 ---
 

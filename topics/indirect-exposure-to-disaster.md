@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Indirect Exposure to Disaster"
 confidence: low
-tags: ["indirect-exposure-to-disaster"]
+domain: intervention
+slug: indirect-exposure-to-disaster
 sources:
-  - fxa303-week09-the-impact-of-the-great-east-japan-earthquake-on-mandatory
+- fxa303-week09-the-impact-of-the-great-east-japan-earthquake-on-mandatory
+tags:
+- indirect-exposure-to-disaster
+title: Indirect Exposure to Disaster
+type: topic
 updated: 2026-05-04
 ---
 

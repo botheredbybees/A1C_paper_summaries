@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Selection Tools"
 confidence: low
-tags: ["selection-tools"]
+domain: method
+slug: selection-tools
 sources:
-  - fxa202-week08-how-to-merge-and-combine-images-in-photoshop
+- fxa202-week08-how-to-merge-and-combine-images-in-photoshop
+tags:
+- selection-tools
+title: Selection Tools
+type: topic
 updated: 2026-05-04
 ---
 

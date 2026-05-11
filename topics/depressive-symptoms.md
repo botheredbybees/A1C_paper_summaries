@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Depressive Symptoms Among Migrants"
 confidence: low
-tags: ["depressive-symptoms"]
+domain: population
+slug: depressive-symptoms-among-migrants
 sources:
-  - fxa303-week10-health-and-well-being-of-male-international-migrants-and
+- fxa303-week10-health-and-well-being-of-male-international-migrants-and
+tags:
+- depressive-symptoms
+title: Depressive Symptoms Among Migrants
+type: topic
 updated: 2026-05-04
 ---
 

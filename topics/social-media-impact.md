@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Social Media Impact on Mental Health and Wellbeing"
 confidence: low
-tags: ["social-media-impact"]
+domain: intervention
+slug: social-media-impact-on-mental-health-and-wellbeing
 sources:
-  - fxa303-week03-mission-australia-youth-survey-information
+- fxa303-week03-mission-australia-youth-survey-information
+tags:
+- social-media-impact
+title: Social Media Impact on Mental Health and Wellbeing
+type: topic
 updated: 2026-05-04
 ---
 

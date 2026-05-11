@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Hospital Clowns"
 confidence: low
-tags: ["hospital-clowns"]
+domain: intervention
+slug: hospital-clowns
 sources:
-  - fxa303-week08-fxa303-week-8-clowns-and-clowning-in-healthcare-and-trauma
+- fxa303-week08-fxa303-week-8-clowns-and-clowning-in-healthcare-and-trauma
+tags:
+- hospital-clowns
+title: Hospital Clowns
+type: topic
 updated: 2026-05-04
 ---
 

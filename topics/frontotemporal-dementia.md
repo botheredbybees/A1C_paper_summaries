@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "population"
-title: "Frontotemporal Dementia"
 confidence: medium
-tags: ["frontotemporal-dementia"]
+domain: population
+slug: frontotemporal-dementia
 sources:
   - fxa100-week01-what-is-frontotemporal-dementia
   - fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia
   - fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia-(2)
-updated: 2026-05-04
+- fxa100-week01-what-is-frontotemporal-dementia
+- fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia
+- fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia-(2)
+tags:
+- frontotemporal-dementia
+title: Frontotemporal Dementia
+type: topic
+updated: 2026-05-11
 ---
 
 ## Frontotemporal Dementia

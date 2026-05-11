@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "population"
-title: "Cognitive Disorders"
 confidence: medium
-tags: ["cognitive-disorders"]
+domain: population
+slug: cognitive-disorders
 sources:
   - fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms
   - fxa100-week02-brain-networking-among-musicians
-updated: 2026-05-03
+- fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms
+- fxa100-week02-brain-networking-among-musicians
+tags:
+- cognitive-disorders
+title: Cognitive Disorders
+type: topic
+updated: 2026-05-11
 ---
 
 ## Cognitive Disorders

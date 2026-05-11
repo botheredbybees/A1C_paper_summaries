@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Meaningful Conversations"
 confidence: low
-tags: ["meaningful-conversations"]
+domain: intervention
+slug: meaningful-conversations
 sources:
-  - fxa100-week07-iremember-loan-resource-flyer
+- fxa100-week07-iremember-loan-resource-flyer
+tags:
+- meaningful-conversations
+title: Meaningful Conversations
+type: topic
 updated: 2026-05-04
 ---
 

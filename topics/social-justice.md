@@ -1,12 +1,16 @@
 ---
-type: topic
-domain: "intervention"
-title: "Neurodiversity and Social Justice in Music Therapy"
 confidence: low
-tags: ["social-justice"]
+domain: intervention
+slug: neurodiversity-and-social-justice-in-music-therapy
 sources:
-  - fxa303-week04-week-4-activities-neurodiversity-arts-and-play
-updated: 2026-05-04
+  - fxa301-week11-refugee-art-project
+  - fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on
+- fxa303-week04-week-4-activities-neurodiversity-arts-and-play
+tags:
+- social-justice
+title: Neurodiversity and Social Justice in Music Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Neurodiversity and Social Justice in Music Therapy
@@ -25,4 +29,5 @@ The integration of neurodiversity principles into arts-based therapies such as m
 
 ## Sources
 
-- [fxa303-week04-week-4-activities-neurodiversity-arts-and-play](../sources/fxa303-week04-week-4-activities-neurodiversity-arts-and-play.md)
+- [fxa301-week11-refugee-art-project](../sources/fxa301-week11-refugee-art-project.md)
+- [fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on](../sources/fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on.md)

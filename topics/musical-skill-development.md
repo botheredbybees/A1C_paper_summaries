@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Musical Skill Development in Youth"
 confidence: low
-tags: ["musical-skill-development"]
+domain: intervention
+slug: musical-skill-development-in-youth
 sources:
-  - fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot
+- fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot
+tags:
+- musical-skill-development
+title: Musical Skill Development in Youth
+type: topic
 updated: 2026-05-04
 ---
 

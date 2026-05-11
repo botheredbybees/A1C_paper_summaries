@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Anxiety in Adolescents"
 confidence: medium
-tags: ["anxiety"]
+domain: intervention
+slug: anxiety-in-adolescents
 sources:
-  - fxa303-week03-mental-health-of-adolescents
-  - fxa303-week09-transcript-duration-1-50
+- fxa303-week03-mental-health-of-adolescents
+- fxa303-week09-transcript-duration-1-50
+tags:
+- anxiety
+title: Anxiety in Adolescents
+type: topic
 updated: 2026-05-04
 ---
 

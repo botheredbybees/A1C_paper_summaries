@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Self-Expression in Dementia Care"
 confidence: low
-tags: ["self-expression-in-dementia"]
+domain: intervention
+slug: self-expression-in-dementia-care
 sources:
-  - fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of
+- fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of
+tags:
+- self-expression-in-dementia
+title: Self-Expression in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

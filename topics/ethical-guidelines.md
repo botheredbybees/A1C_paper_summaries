@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Ethical Guidelines In Arts-In-Health Projects"
 confidence: low
-tags: ["ethical-guidelines"]
+domain: intervention
+slug: ethical-guidelines-in-arts-in-health-projects
 sources:
-  - fxa301-arts-in-health-ch44-1-the-artist-(2)
+- fxa301-arts-in-health-ch44-1-the-artist-(2)
+tags:
+- ethical-guidelines
+title: Ethical Guidelines In Arts-In-Health Projects
+type: topic
 updated: 2026-05-04
 ---
 

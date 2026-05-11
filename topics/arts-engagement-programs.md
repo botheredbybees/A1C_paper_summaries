@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts Engagement Programs"
 confidence: low
-tags: ["arts-engagement-programs"]
+domain: intervention
+slug: arts-engagement-programs
 sources:
-  - fxa100-week07-connecting-with-and-through-art-arts-engagement-for
+- fxa100-week07-connecting-with-and-through-art-arts-engagement-for
+tags:
+- arts-engagement-programs
+title: Arts Engagement Programs
+type: topic
 updated: 2026-05-04
 ---
 

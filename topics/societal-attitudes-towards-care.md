@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Societal Attitudes Towards Care"
 confidence: low
-tags: ["societal-attitudes-towards-care"]
+domain: theory
+slug: societal-attitudes-towards-care
 sources:
-  - fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2
+- fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2
+tags:
+- societal-attitudes-towards-care
+title: Societal Attitudes Towards Care
+type: topic
 updated: 2026-05-04
 ---
 

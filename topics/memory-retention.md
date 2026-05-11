@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Memory Retention"
 confidence: medium
-tags: ["memory-retention"]
+domain: intervention
+slug: memory-retention
 sources:
   - fxa202-week03-lesson-fxa202-week03-page-2
   - fxa202-week03-what-smartphone-photography-is-doing-to-our-memories
-updated: 2026-05-04
+- fxa202-week03-lesson-fxa202-week03-page-2
+- fxa202-week03-what-smartphone-photography-is-doing-to-our-memories
+tags:
+- memory-retention
+title: Memory Retention
+type: topic
+updated: 2026-05-11
 ---
 
 ## Memory Retention

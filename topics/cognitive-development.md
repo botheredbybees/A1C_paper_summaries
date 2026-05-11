@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "theory"
-title: "Cognitive Development"
 confidence: medium
-tags: ["cognitive-development"]
+domain: theory
+slug: cognitive-development
 sources:
   - fxa202-week10-brain-research-shows-the-arts-promote-mental-health
   - fxa303-week02-developmental-role-of-creative-arts-and-play
   - fxa303-week02-theories-of-development-in-dialog-with-jean-piaget
   - fxa303-week03-developmental-psychology-from-infancy-to-adulthood
-updated: 2026-05-05
+- fxa202-week10-brain-research-shows-the-arts-promote-mental-health
+- fxa303-week02-developmental-role-of-creative-arts-and-play
+- fxa303-week02-theories-of-development-in-dialog-with-jean-piaget
+- fxa303-week03-developmental-psychology-from-infancy-to-adulthood
+tags:
+- cognitive-development
+title: Cognitive Development
+type: topic
+updated: 2026-05-11
 ---
 
 ## Cognitive Development

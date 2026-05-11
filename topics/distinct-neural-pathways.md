@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Distinct Neural Pathways"
 confidence: low
-tags: ["distinct-neural-pathways"]
+domain: theory
+slug: distinct-neural-pathways
 sources:
-  - fxa100-week06-preserved-drawing-in-a-sculptor-with-dementia
+- fxa100-week06-preserved-drawing-in-a-sculptor-with-dementia
+tags:
+- distinct-neural-pathways
+title: Distinct Neural Pathways
+type: topic
 updated: 2026-05-04
 ---
 

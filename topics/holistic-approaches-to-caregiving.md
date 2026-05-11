@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Holistic Approaches To Caregiving"
 confidence: low
-tags: ["holistic-approaches-to-caregiving"]
+domain: intervention
+slug: holistic-approaches-to-caregiving
 sources:
-  - fxa100-week09-requirements-of-a-caregiver
+- fxa100-week09-requirements-of-a-caregiver
+tags:
+- holistic-approaches-to-caregiving
+title: Holistic Approaches To Caregiving
+type: topic
 updated: 2026-05-04
 ---
 

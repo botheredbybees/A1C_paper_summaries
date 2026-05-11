@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Hidden Puppet Technique"
 confidence: low
-tags: ["hidden-puppet-technique"]
+domain: intervention
+slug: hidden-puppet-technique
 sources:
-  - fxa303-week06-mr-fox-is-sad
+- fxa303-week06-mr-fox-is-sad
+tags:
+- hidden-puppet-technique
+title: Hidden Puppet Technique
+type: topic
 updated: 2026-05-04
 ---
 

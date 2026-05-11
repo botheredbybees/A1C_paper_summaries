@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Heterogeneity Of Autism"
 confidence: low
-tags: ["heterogeneity-of-autism"]
+domain: theory
+slug: heterogeneity-of-autism
 sources:
-  - fxa303-week04-the-concept-of-neurodiversity-is-dividing-the-autism
+- fxa303-week04-the-concept-of-neurodiversity-is-dividing-the-autism
+tags:
+- heterogeneity-of-autism
+title: Heterogeneity Of Autism
+type: topic
 updated: 2026-05-04
 ---
 

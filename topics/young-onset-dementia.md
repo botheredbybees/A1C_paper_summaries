@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Young-Onset Dementia"
 confidence: low
-tags: ["young-onset-dementia"]
+domain: population
+slug: young-onset-dementia
 sources:
-  - fxa100-week01-dementia-facts-and-figures
+- fxa100-week01-dementia-facts-and-figures
+tags:
+- young-onset-dementia
+title: Young-Onset Dementia
+type: topic
 updated: 2026-05-04
 ---
 

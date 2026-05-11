@@ -12,13 +12,14 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
+  - unit: FXA301
 tags: ["community-development", "arts-education", "ethnomusicology", "fxa301"]
 key_concepts: ["sustainability", "health and well-being", "human rights"]
 methods: []
 slug: fxa301-make-arts-for-a-better-life-ch06-1-see-also-closing
 related: ["arts-education", "community-development", "ethnomusicology"]
 created: 2026-05-03
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-make-arts-for-a-better-life-ch06-1-see-also-closing.md_

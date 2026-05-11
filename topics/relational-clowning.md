@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Relational Clowning"
 confidence: low
-tags: ["relational-clowning"]
+domain: intervention
+slug: relational-clowning
 sources:
-  - fxa100-week10-playfully-engaging-people-living-with-dementia-searching
+- fxa100-week10-playfully-engaging-people-living-with-dementia-searching
+tags:
+- relational-clowning
+title: Relational Clowning
+type: topic
 updated: 2026-05-04
 ---
 

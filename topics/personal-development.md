@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Journaling and Personal Development"
 confidence: medium
-tags: ["personal-development"]
+domain: intervention
+slug: journaling-and-personal-development
 sources:
   - fxa202-week09-journaling-books-review
   - fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental
-updated: 2026-05-04
+- fxa202-week09-journaling-books-review
+- fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental
+tags:
+- personal-development
+title: Journaling and Personal Development
+type: topic
+updated: 2026-05-11
 ---
 
 ## Journaling and Personal Development

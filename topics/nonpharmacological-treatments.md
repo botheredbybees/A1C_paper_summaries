@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Nonpharmacological Treatments"
 confidence: low
-tags: ["nonpharmacological-treatments"]
+domain: intervention
+slug: nonpharmacological-treatments
 sources:
-  - fxa100-week07-im-still-here-a-breakthrough-approach-to-understanding
+- fxa100-week07-im-still-here-a-breakthrough-approach-to-understanding
+tags:
+- nonpharmacological-treatments
+title: Nonpharmacological Treatments
+type: topic
 updated: 2026-05-04
 ---
 

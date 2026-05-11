@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Identity And Sustainability"
 confidence: low
-tags: ["identity-and-sustainability"]
+domain: theory
+slug: identity-and-sustainability
 sources:
-  - fxa301-make-arts-for-a-better-life-ch17-1-for-further-study-on-communication-channels
+- fxa301-make-arts-for-a-better-life-ch17-1-for-further-study-on-communication-channels
+tags:
+- identity-and-sustainability
+title: Identity And Sustainability
+type: topic
 updated: 2026-05-04
 ---
 

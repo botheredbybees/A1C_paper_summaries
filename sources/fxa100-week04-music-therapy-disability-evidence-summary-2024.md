@@ -11,7 +11,7 @@ tags: ["music-therapy", "disability-support", "therapeutic-outcomes", "evidence-
 key_concepts: ["music therapy techniques", "registered music therapists", "community participation"]
 methods: ["case study"]
 slug: fxa100-week04-music-therapy-disability-evidence-summary-2024
-related: ["evidence-based-practice", "music-therapy"]
+related: ["disability-support", "evidence-based-practice", "music-therapy"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,5 +42,6 @@ The Australian Music Therapy Association's Disability Evidence Summary 2024 prov
 
 ## See Also
 
+- [disability-support](../topics/disability-support.md)
 - [evidence-based-practice](../topics/evidence-based-practice.md)
 - [music-therapy](../topics/music-therapy.md)

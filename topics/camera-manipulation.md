@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Camera Manipulation in Photography"
 confidence: low
-tags: ["camera-manipulation"]
+domain: method
+slug: camera-manipulation-in-photography
 sources:
-  - fxa202-week09-reflection-on-creating-a-photo-essay-about-breast-cancer
+- fxa202-week09-reflection-on-creating-a-photo-essay-about-breast-cancer
+tags:
+- camera-manipulation
+title: Camera Manipulation in Photography
+type: topic
 updated: 2026-05-04
 ---
 

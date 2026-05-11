@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Health and Well-being of Male International Migrants"
 confidence: low
-tags: ["migration-conditions"]
+domain: intervention
+slug: health-and-well-being-of-male-international-migrants
 sources:
-  - fxa303-week10-health-and-well-being-of-male-international-migrants-and
+- fxa303-week10-health-and-well-being-of-male-international-migrants-and
+tags:
+- migration-conditions
+title: Health and Well-being of Male International Migrants
+type: topic
 updated: 2026-05-04
 ---
 

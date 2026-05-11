@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "theory"
-title: "Embodied Cognition"
 confidence: medium
-tags: ["embodied-cognition"]
+domain: theory
+slug: embodied-cognition
 sources:
   - fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what
   - fxa100-week06-visual-arts-and-the-brain
-updated: 2026-05-04
+- fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what
+- fxa100-week06-visual-arts-and-the-brain
+tags:
+- embodied-cognition
+title: Embodied Cognition
+type: topic
+updated: 2026-05-11
 ---
 
 ## Embodied Cognition

@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "method"
-title: "Evaluation Methods In Creative And Educational Contexts"
 confidence: medium
-tags: ["evaluation-methods"]
+domain: method
+slug: evaluation-methods-in-creative-and-educational-contexts
 sources:
   - fxa100-creativity-and-communication-ch12-22-measuring-success-evaluation-is-an-ongoing-process-that
   - fxa301-make-arts-for-a-better-life-ch38-1-look-together-at-the-local-school-curriculum
@@ -13,7 +11,19 @@ sources:
   - fxa301-week01-evaluating-community-arts-community-well-being-an
   - fxa301-week01-fxa301-sem-1-2026-week-4-lecture
   - fxa301-week01-implementing-and-evaluating-interventions
-updated: 2026-05-05
+- fxa100-creativity-and-communication-ch12-22-measuring-success-evaluation-is-an-ongoing-process-that
+- fxa301-make-arts-for-a-better-life-ch38-1-look-together-at-the-local-school-curriculum
+- fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10
+- fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well-(2)
+- fxa301-week01-evaluating-community-arts-community-well-being
+- fxa301-week01-evaluating-community-arts-community-well-being-an
+- fxa301-week01-fxa301-sem-1-2026-week-4-lecture
+- fxa301-week01-implementing-and-evaluating-interventions
+tags:
+- evaluation-methods
+title: Evaluation Methods In Creative And Educational Contexts
+type: topic
+updated: 2026-05-11
 ---
 
 ## Evaluation Methods In Creative And Educational Contexts

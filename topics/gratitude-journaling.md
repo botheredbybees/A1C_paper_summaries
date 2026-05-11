@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Gratitude Journaling"
 confidence: low
-tags: ["gratitude-journaling"]
+domain: intervention
+slug: gratitude-journaling
 sources:
-  - fxa202-week09-5-benefits-of-journaling-for-mental-health
+- fxa202-week09-5-benefits-of-journaling-for-mental-health
+tags:
+- gratitude-journaling
+title: Gratitude Journaling
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "theory"
-title: "Neural Processing of Art"
 confidence: medium
-tags: ["art-history"]
+domain: theory
+slug: neural-processing-of-art
 sources:
   - fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what
   - fxa100-week06-web-article-tucker-2012
-updated: 2026-05-04
+- fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what
+- fxa100-week06-web-article-tucker-2012
+tags:
+- art-history
+title: Neural Processing of Art
+type: topic
+updated: 2026-05-11
 ---
 
 ## Neural Processing of Art

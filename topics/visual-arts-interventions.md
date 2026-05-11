@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Visual Arts Interventions"
 confidence: medium
-tags: ["visual-arts-interventions"]
+domain: intervention
+slug: visual-arts-interventions
 sources:
   - fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery
   - fxa301-week05-case-studies-of-visual-arts-with-and-for-communities
-updated: 2026-05-04
+- fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery
+- fxa301-week05-case-studies-of-visual-arts-with-and-for-communities
+tags:
+- visual-arts-interventions
+title: Visual Arts Interventions
+type: topic
+updated: 2026-05-11
 ---
 
 ## Visual Arts Interventions

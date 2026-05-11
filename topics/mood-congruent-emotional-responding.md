@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Mood-Congruent Emotional Responding"
 confidence: low
-tags: ["mood-congruent-emotional-responding"]
+domain: intervention
+slug: mood-congruent-emotional-responding
 sources:
-  - fxa301-week02-misery-loves-company-mood-congruent-emotional-responding-to
+- fxa301-week02-misery-loves-company-mood-congruent-emotional-responding-to
+tags:
+- mood-congruent-emotional-responding
+title: Mood-Congruent Emotional Responding
+type: topic
 updated: 2026-05-04
 ---
 

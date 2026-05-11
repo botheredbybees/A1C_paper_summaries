@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Stress Management Techniques"
 confidence: low
-tags: ["stress-management-techniques"]
+domain: intervention
+slug: stress-management-techniques
 sources:
-  - fxa303-week03-5-ways-to-standbyteens-in-support-of-teen-mental-health
+- fxa303-week03-5-ways-to-standbyteens-in-support-of-teen-mental-health
+tags:
+- stress-management-techniques
+title: Stress Management Techniques
+type: topic
 updated: 2026-05-04
 ---
 

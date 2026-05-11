@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Contextual Interpretation in Dementia Care"
 confidence: low
-tags: ["contextual-interpretation"]
+domain: theory
+slug: contextual-interpretation-in-dementia-care
 sources:
-  - fxa100-how-we-thnk-about-dementia-ch13-chapter-13
+- fxa100-how-we-thnk-about-dementia-ch13-chapter-13
+tags:
+- contextual-interpretation
+title: Contextual Interpretation in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

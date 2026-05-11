@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Inclusion in Disability-Led Theater"
 confidence: low
-tags: ["inclusion"]
+domain: intervention
+slug: inclusion-in-disability-led-theater
 sources:
-  - fxa301-week09-the-importance-of-disability-led-theatre
+- fxa301-week09-the-importance-of-disability-led-theatre
+tags:
+- inclusion
+title: Inclusion in Disability-Led Theater
+type: topic
 updated: 2026-05-04
 ---
 

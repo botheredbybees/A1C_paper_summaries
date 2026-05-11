@@ -1,21 +1,46 @@
 ---
-type: topic
-domain: "intervention"
-title: "Dance Therapy"
 confidence: high
-tags: ["dance-therapy"]
+domain: intervention
+slug: dance-therapy
 sources:
   - fxa100-creativity-and-communication-ch06-5-moving-in-the-moment-dance-john-killick-in-the-previous
   - fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags
   - fxa100-week09-lesson-fxa100-week09-page-2-dance-therapy-drama-therapy
   - fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and
   - fxa100-week09-transcript-this-video-clip-from-the-american-dance-therapy
+  - fxa100-week11-dance-and-movement-therapeutic-methods-in-management-of
+  - fxa100-week11-dance-for-lifelong-wellbeing-research-findings-2017
+  - fxa100-week11-danceminds-moving-memories-evaluation-and-analysis-a-uk
+  - fxa100-week11-dancing-and-the-brain
+  - fxa100-week11-expressive-bodies-demented-persons-communication-in-a-dance
+  - fxa100-week11-intergenerational-dancemovement-program-in-melbourne
+  - fxa100-week11-lesson-fxa100-week11-page-1-welcome-to-week-10
+  - fxa100-week11-lesson-fxa100-week11-page-2-dance-movement-therapy-and
+  - fxa100-week11-lesson-fxa100-week11-page-3-dancemovement-therapy
+  - fxa100-week11-lesson-fxa100-week11-page-4-week-10-activities
+  - fxa100-week11-movement-therapy-and-mental-health
+  - fxa100-week11-moving-from-problem-to-potential-dance-and-wellness-in-us
+  - fxa100-week11-week-11-lecture-benefits-of-dance-and-movement-for-people
   - fxa301-week03-transcript-youtube-5utv1ergbs8
   - fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing
   - fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with
   - fxa301-week06-promoting-wellbeing-and-health-through-active-participation
   - fxa301-week06-the-art-and-science-of-dancemovement-therapy
-updated: 2026-05-04
+- fxa100-creativity-and-communication-ch06-5-moving-in-the-moment-dance-john-killick-in-the-previous
+- fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags
+- fxa100-week09-lesson-fxa100-week09-page-2-dance-therapy-drama-therapy
+- fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and
+- fxa100-week09-transcript-this-video-clip-from-the-american-dance-therapy
+- fxa301-week03-transcript-youtube-5utv1ergbs8
+- fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing
+- fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with
+- fxa301-week06-promoting-wellbeing-and-health-through-active-participation
+- fxa301-week06-the-art-and-science-of-dancemovement-therapy
+tags:
+- dance-therapy
+title: Dance Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Dance Therapy
@@ -43,6 +68,19 @@ While the therapeutic benefits of dance therapy are widely recognized, its integ
 - [fxa100-week09-lesson-fxa100-week09-page-2-dance-therapy-drama-therapy](../sources/fxa100-week09-lesson-fxa100-week09-page-2-dance-therapy-drama-therapy.md)
 - [fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and](../sources/fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and.md)
 - [fxa100-week09-transcript-this-video-clip-from-the-american-dance-therapy](../sources/fxa100-week09-transcript-this-video-clip-from-the-american-dance-therapy.md)
+- [fxa100-week11-dance-and-movement-therapeutic-methods-in-management-of](../sources/fxa100-week11-dance-and-movement-therapeutic-methods-in-management-of.md)
+- [fxa100-week11-dance-for-lifelong-wellbeing-research-findings-2017](../sources/fxa100-week11-dance-for-lifelong-wellbeing-research-findings-2017.md)
+- [fxa100-week11-danceminds-moving-memories-evaluation-and-analysis-a-uk](../sources/fxa100-week11-danceminds-moving-memories-evaluation-and-analysis-a-uk.md)
+- [fxa100-week11-dancing-and-the-brain](../sources/fxa100-week11-dancing-and-the-brain.md)
+- [fxa100-week11-expressive-bodies-demented-persons-communication-in-a-dance](../sources/fxa100-week11-expressive-bodies-demented-persons-communication-in-a-dance.md)
+- [fxa100-week11-intergenerational-dancemovement-program-in-melbourne](../sources/fxa100-week11-intergenerational-dancemovement-program-in-melbourne.md)
+- [fxa100-week11-lesson-fxa100-week11-page-1-welcome-to-week-10](../sources/fxa100-week11-lesson-fxa100-week11-page-1-welcome-to-week-10.md)
+- [fxa100-week11-lesson-fxa100-week11-page-2-dance-movement-therapy-and](../sources/fxa100-week11-lesson-fxa100-week11-page-2-dance-movement-therapy-and.md)
+- [fxa100-week11-lesson-fxa100-week11-page-3-dancemovement-therapy](../sources/fxa100-week11-lesson-fxa100-week11-page-3-dancemovement-therapy.md)
+- [fxa100-week11-lesson-fxa100-week11-page-4-week-10-activities](../sources/fxa100-week11-lesson-fxa100-week11-page-4-week-10-activities.md)
+- [fxa100-week11-movement-therapy-and-mental-health](../sources/fxa100-week11-movement-therapy-and-mental-health.md)
+- [fxa100-week11-moving-from-problem-to-potential-dance-and-wellness-in-us](../sources/fxa100-week11-moving-from-problem-to-potential-dance-and-wellness-in-us.md)
+- [fxa100-week11-week-11-lecture-benefits-of-dance-and-movement-for-people](../sources/fxa100-week11-week-11-lecture-benefits-of-dance-and-movement-for-people.md)
 - [fxa301-week03-transcript-youtube-5utv1ergbs8](../sources/fxa301-week03-transcript-youtube-5utv1ergbs8.md)
 - [fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing](../sources/fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing.md)
 - [fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with](../sources/fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with.md)

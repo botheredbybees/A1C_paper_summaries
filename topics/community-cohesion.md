@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Community Cohesion"
 confidence: low
-tags: ["community-cohesion"]
+domain: intervention
+slug: community-cohesion
 sources:
-  - fxa202-week10-research-and-evidence-in-arts-health-and-well-being
+- fxa202-week10-research-and-evidence-in-arts-health-and-well-being
+tags:
+- community-cohesion
+title: Community Cohesion
+type: topic
 updated: 2026-05-04
 ---
 

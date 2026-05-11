@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "National Dementia Action Plan"
 confidence: low
-tags: ["national-dementia-action-plan"]
+domain: intervention
+slug: national-dementia-action-plan
 sources:
-  - fxa100-week01-national-dementia-action-plan-indicators-dashboard
+- fxa100-week01-national-dementia-action-plan-indicators-dashboard
+tags:
+- national-dementia-action-plan
+title: National Dementia Action Plan
+type: topic
 updated: 2026-05-04
 ---
 

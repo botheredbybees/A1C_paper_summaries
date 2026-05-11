@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Rhythmic Movement"
 confidence: low
-tags: ["rhythmic-movement"]
+domain: intervention
+slug: rhythmic-movement
 sources:
-  - fxa100-week03-experimental-evidence-for-synchronization-to-a-musical-beat
+- fxa100-week03-experimental-evidence-for-synchronization-to-a-musical-beat
+tags:
+- rhythmic-movement
+title: Rhythmic Movement
+type: topic
 updated: 2026-05-04
 ---
 

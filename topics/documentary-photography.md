@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Documentary Photography in Aged Care"
 confidence: medium
-tags: ["documentary-photography"]
+domain: method
+slug: documentary-photography-in-aged-care
 sources:
   - fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary
   - fxa202-week10-creative-arts-based-research-in-aged-care-photovoice
-updated: 2026-05-04
+- fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary
+- fxa202-week10-creative-arts-based-research-in-aged-care-photovoice
+tags:
+- documentary-photography
+title: Documentary Photography in Aged Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Documentary Photography in Aged Care

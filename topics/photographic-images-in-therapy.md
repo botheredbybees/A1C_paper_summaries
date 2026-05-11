@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Photographic Images in Therapy"
 confidence: low
-tags: ["photographic-images-in-therapy"]
+domain: intervention
+slug: photographic-images-in-therapy
 sources:
-  - fxa100-week07-lesson-fxa100-week07-inside-and-outside-the-galleries
+- fxa100-week07-lesson-fxa100-week07-inside-and-outside-the-galleries
+tags:
+- photographic-images-in-therapy
+title: Photographic Images in Therapy
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,13 +1,14 @@
 ---
 type: tag
 tag: mental-health
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Mental Health
 
 - [Music Therapy Flyer](../sources/fxa100-week04-music-therapy-flyer.md)
 - [Psychophysiological Effects of Dance Movement Therapy and Physical Exercise on Older Adults With Mild Dementia: A Randomized Controlled Trial](../sources/fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and.md)
+- [Movement Therapy and Mental Health](../sources/fxa100-week11-movement-therapy-and-mental-health.md)
 - [How Can Photography Help Wellbeing?](../sources/fxa202-week03-lesson-fxa202-week03-page-2.md)
 - [Week 3 Lecture - Photography and Health](../sources/fxa202-week03-lesson-fxa202-week03-week-3.md)
 - [Week Three Lecture Transcript: Photography and Health](../sources/fxa202-week03-week-three-lecture-transcript-photography-and-health.md)
@@ -37,3 +38,9 @@ updated: 2026-05-06
 - [The Effectiveness of Art Therapy in the Treatment of Traumatized Adults: A Systematic Review on Art Therapy and Trauma](../sources/fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of.md)
 - ['Healing through culture': Aboriginal Young People\u2019s Experiences of Social and Emotional Wellbeing Impacts of Cultural Strengthening Programs](../sources/fxa303-week10-healing-through-culture-aboriginal-young-peoples.md)
 - [Importance of Cultural Context in Designing Arts Programs for Mental Health](../sources/fxa303-week10-importance-of-cultural-context-in-designing-arts-programs.md)
+- [Effects of Choir Singing on Mental Health: Results of an Online Cross-sectional Study](../sources/fxa303-week11-effects-of-choir-singing-on-mental-health-results-of-an.md)
+- [Future Directions in Understanding and Addressing Mental Health among LGBTQ Youth](../sources/fxa303-week11-future-directions-in-understanding-and-addressing-mental.md)
+- [Creative Arts, Gender Diversity and Mental Wellbeing](../sources/fxa303-week11-lesson-fxa303-week11-page-2.md)
+- [Me and us: Cultivating presence and mental health through choir singing](../sources/fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through.md)
+- [Mental Health in Lesbian, Gay, Bisexual, and Transgender (LGBT) Youth](../sources/fxa303-week11-mental-health-in-lesbian-gay-bisexual-and-transgender-lgbt.md)
+- [The Power of Recognition: A Qualitative Study of Social Connectedness and Wellbeing through LGBT Sporting, Creative and Social Groups in Ireland](../sources/fxa303-week11-the-power-of-recognition-a-qualitative-study-of-social.md)

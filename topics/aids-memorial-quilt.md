@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Aids Memorial Quilt"
 confidence: low
-tags: ["aids-memorial-quilt"]
+domain: intervention
+slug: aids-memorial-quilt
 sources:
-  - fxa301-week05-the-history-of-the-quilt-the-national-aids-memorial
+- fxa301-week05-the-history-of-the-quilt-the-national-aids-memorial
+tags:
+- aids-memorial-quilt
+title: Aids Memorial Quilt
+type: topic
 updated: 2026-05-04
 ---
 

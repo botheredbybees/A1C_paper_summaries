@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music And Memory Project"
 confidence: low
-tags: ["music-and-memory-project"]
+domain: intervention
+slug: music-and-memory-project
 sources:
-  - fxa100-week03-introduction-to-week-3-listening-to-music
+- fxa100-week03-introduction-to-week-3-listening-to-music
+tags:
+- music-and-memory-project
+title: Music And Memory Project
+type: topic
 updated: 2026-05-04
 ---
 

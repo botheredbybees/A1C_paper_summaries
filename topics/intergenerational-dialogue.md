@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Intergenerational Dialogue"
 confidence: low
-tags: ["intergenerational-dialogue"]
+domain: intervention
+slug: intergenerational-dialogue
 sources:
-  - fxa303-week06-puppet-theatre-a-way-to-tell-what-cannot-be-told-and-to
+- fxa303-week06-puppet-theatre-a-way-to-tell-what-cannot-be-told-and-to
+tags:
+- intergenerational-dialogue
+title: Intergenerational Dialogue
+type: topic
 updated: 2026-05-04
 ---
 

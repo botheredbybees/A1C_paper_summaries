@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Art Intervention"
 confidence: low
-tags: ["art-intervention"]
+domain: intervention
+slug: art-intervention
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake
+- fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake
+tags:
+- art-intervention
+title: Art Intervention
+type: topic
 updated: 2026-05-04
 ---
 

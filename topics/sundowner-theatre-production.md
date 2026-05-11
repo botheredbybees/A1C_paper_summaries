@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sundowner Theatre Productions"
 confidence: low
-tags: ["sundowner-theatre-production"]
+domain: intervention
+slug: sundowner-theatre-productions
 sources:
-  - fxa100-week10-week-10-lecture-theatre-and-play-in-dementia-care
+- fxa100-week10-week-10-lecture-theatre-and-play-in-dementia-care
+tags:
+- sundowner-theatre-production
+title: Sundowner Theatre Productions
+type: topic
 updated: 2026-05-04
 ---
 

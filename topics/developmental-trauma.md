@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Developmental Trauma"
 confidence: low
-tags: ["developmental-trauma"]
+domain: intervention
+slug: developmental-trauma
 sources:
-  - fxa303-week09-treating-the-trauma-survivor-an-essential-guide-to-trauma
+- fxa303-week09-treating-the-trauma-survivor-an-essential-guide-to-trauma
+tags:
+- developmental-trauma
+title: Developmental Trauma
+type: topic
 updated: 2026-05-04
 ---
 

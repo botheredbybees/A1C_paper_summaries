@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "The Experience Of Dementia"
 confidence: low
-tags: ["subjective-experiences"]
+domain: population
+slug: the-experience-of-dementia
 sources:
-  - fxa100-week09-the-experience-of-dementia
+- fxa100-week09-the-experience-of-dementia
+tags:
+- subjective-experiences
+title: The Experience Of Dementia
+type: topic
 updated: 2026-05-04
 ---
 

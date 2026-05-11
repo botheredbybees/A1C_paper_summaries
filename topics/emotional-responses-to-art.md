@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Responses to Art"
 confidence: low
-tags: ["emotional-responses-to-art"]
+domain: intervention
+slug: emotional-responses-to-art
 sources:
-  - fxa301-week02-visualizing-the-impact-of-art-an-update-and-comparison-of
+- fxa301-week02-visualizing-the-impact-of-art-an-update-and-comparison-of
+tags:
+- emotional-responses-to-art
+title: Emotional Responses to Art
+type: topic
 updated: 2026-05-04
 ---
 

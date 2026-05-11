@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "theory"
-title: "Narrative Tense"
 confidence: medium
-tags: ["narrative-tense"]
+domain: theory
+slug: narrative-tense
 sources:
   - fxa202-week05-introduction-to-visual-storytelling
   - fxa202-week05-narrative-tense-right-now-or-way-back-then
-updated: 2026-05-04
+- fxa202-week05-introduction-to-visual-storytelling
+- fxa202-week05-narrative-tense-right-now-or-way-back-then
+tags:
+- narrative-tense
+title: Narrative Tense
+type: topic
+updated: 2026-05-11
 ---
 
 ## Narrative Tense

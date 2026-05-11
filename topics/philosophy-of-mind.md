@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "theory"
-title: "Philosophy of Mind"
 confidence: medium
-tags: ["philosophy-of-mind"]
+domain: theory
+slug: philosophy-of-mind
 sources:
   - fxa100-how-we-thnk-about-dementia-ch06-chapter-3
   - fxa100-how-we-thnk-about-dementia-ch12-chapter-4
   - fxa100-how-we-thnk-about-dementia-ch13-chapter-13
-updated: 2026-05-04
+- fxa100-how-we-thnk-about-dementia-ch06-chapter-3
+- fxa100-how-we-thnk-about-dementia-ch12-chapter-4
+- fxa100-how-we-thnk-about-dementia-ch13-chapter-13
+tags:
+- philosophy-of-mind
+title: Philosophy of Mind
+type: topic
+updated: 2026-05-11
 ---
 
 ## Philosophy of Mind

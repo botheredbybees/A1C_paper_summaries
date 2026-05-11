@@ -1,15 +1,22 @@
 ---
-type: topic
-domain: "intervention"
-title: "Neural Pathways in Dementia and Photography"
 confidence: medium
-tags: ["neural-pathways"]
+domain: intervention
+slug: neural-pathways-in-dementia-and-photography
 sources:
   - fxa100-week03-listening-and-dementia-care
   - fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care
+  - fxa100-week11-week-11-lecture-benefits-of-dance-and-movement-for-people
   - fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography
   - fxa303-week03-fxa303-week-3-introduction
-updated: 2026-05-05
+- fxa100-week03-listening-and-dementia-care
+- fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care
+- fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography
+- fxa303-week03-fxa303-week-3-introduction
+tags:
+- neural-pathways
+title: Neural Pathways in Dementia and Photography
+type: topic
+updated: 2026-05-11
 ---
 
 ## Neural Pathways in Dementia and Photography
@@ -29,5 +36,6 @@ This synthesis explores the impact of music therapy on dementia care and mindful
 
 - [fxa100-week03-listening-and-dementia-care](../sources/fxa100-week03-listening-and-dementia-care.md)
 - [fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care](../sources/fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care.md)
+- [fxa100-week11-week-11-lecture-benefits-of-dance-and-movement-for-people](../sources/fxa100-week11-week-11-lecture-benefits-of-dance-and-movement-for-people.md)
 - [fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography](../sources/fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography.md)
 - [fxa303-week03-fxa303-week-3-introduction](../sources/fxa303-week03-fxa303-week-3-introduction.md)

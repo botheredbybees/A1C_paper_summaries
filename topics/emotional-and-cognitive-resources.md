@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Emotional and Cognitive Resources"
 confidence: low
-tags: ["emotional-and-cognitive-resources"]
+domain: theory
+slug: emotional-and-cognitive-resources
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26
+- fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26
+tags:
+- emotional-and-cognitive-resources
+title: Emotional and Cognitive Resources
+type: topic
 updated: 2026-05-04
 ---
 

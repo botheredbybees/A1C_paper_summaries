@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Role Change in Marginalized Populations"
 confidence: low
-tags: ["role-change"]
+domain: population
+slug: role-change-in-marginalized-populations
 sources:
-  - fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to
+- fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to
+tags:
+- role-change
+title: Role Change in Marginalized Populations
+type: topic
 updated: 2026-05-04
 ---
 

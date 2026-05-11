@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cognitive Monitoring"
 confidence: low
-tags: ["cognitive-monitoring"]
+domain: intervention
+slug: cognitive-monitoring
 sources:
-  - fxa303-week02-a-new-context-affording-for-regulation-the-case-of-musical
+- fxa303-week02-a-new-context-affording-for-regulation-the-case-of-musical
+tags:
+- cognitive-monitoring
+title: Cognitive Monitoring
+type: topic
 updated: 2026-05-04
 ---
 

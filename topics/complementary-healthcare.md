@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Clowning in Complementary Healthcare"
 confidence: low
-tags: ["complementary-healthcare"]
+domain: intervention
+slug: therapeutic-clowning-in-complementary-healthcare
 sources:
-  - fxa303-week08-the-life-threatened-child-and-the-life-enhancing-clown
+- fxa303-week08-the-life-threatened-child-and-the-life-enhancing-clown
+tags:
+- complementary-healthcare
+title: Therapeutic Clowning in Complementary Healthcare
+type: topic
 updated: 2026-05-04
 ---
 

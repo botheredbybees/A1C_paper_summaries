@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Pathological Dimensions in Mental Health"
 confidence: low
-tags: ["pathological-dimensions"]
+domain: theory
+slug: pathological-dimensions-in-mental-health
 sources:
-  - fxa303-week04-diagnostic-categories-or-dimensions-a-question-for-the
+- fxa303-week04-diagnostic-categories-or-dimensions-a-question-for-the
+tags:
+- pathological-dimensions
+title: Pathological Dimensions in Mental Health
+type: topic
 updated: 2026-05-04
 ---
 

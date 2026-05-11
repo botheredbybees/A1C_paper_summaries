@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Roger Caillois' Four Forms of Play"
 confidence: low
-tags: ["roger-cailloiss-four-forms-of-play"]
+domain: theory
+slug: roger-caillois-four-forms-of-play
 sources:
-  - fxa100-week10-lesson-fxa100-week10-page-1-welcome-to-week-9
+- fxa100-week10-lesson-fxa100-week10-page-1-welcome-to-week-9
+tags:
+- roger-cailloiss-four-forms-of-play
+title: Roger Caillois' Four Forms of Play
+type: topic
 updated: 2026-05-04
 ---
 

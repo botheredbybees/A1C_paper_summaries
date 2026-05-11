@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Arts Interventions"
 confidence: high
-tags: ["creative-arts-interventions"]
+domain: intervention
+slug: creative-arts-interventions
 sources:
   - fxa301-week05-support-programs-ut-md-anderson
   - fxa303-week02-play-creative-arts-and-wellbeing
@@ -11,7 +9,17 @@ sources:
   - fxa303-week04-fxa303-week-4-introduction
   - fxa303-week09-effectiveness-of-creative-arts-based-interventions-for
   - fxa303-week09-the-afloat-project-(2)
-updated: 2026-05-04
+- fxa301-week05-support-programs-ut-md-anderson
+- fxa303-week02-play-creative-arts-and-wellbeing
+- fxa303-week03-creative-arts-interventions-for-stress-management-and
+- fxa303-week04-fxa303-week-4-introduction
+- fxa303-week09-effectiveness-of-creative-arts-based-interventions-for
+- fxa303-week09-the-afloat-project-(2)
+tags:
+- creative-arts-interventions
+title: Creative Arts Interventions
+type: topic
+updated: 2026-05-11
 ---
 
 ## Creative Arts Interventions

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Multidisciplinary Assessments for Autism Spectrum Disorder"
 confidence: low
-tags: ["multidisciplinary-assessments"]
+domain: intervention
+slug: multidisciplinary-assessments-for-autism-spectrum-disorder
 sources:
-  - fxa303-week04-autism-spectrum-disorder
+- fxa303-week04-autism-spectrum-disorder
+tags:
+- multidisciplinary-assessments
+title: Multidisciplinary Assessments for Autism Spectrum Disorder
+type: topic
 updated: 2026-05-04
 ---
 

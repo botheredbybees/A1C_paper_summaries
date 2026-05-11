@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Arts Interventions For Stress Management"
 confidence: low
-tags: ["creative-arts-therapies-cats"]
+domain: intervention
+slug: creative-arts-interventions-for-stress-management
 sources:
-  - fxa303-week03-creative-arts-interventions-for-stress-management-and
+- fxa303-week03-creative-arts-interventions-for-stress-management-and
+tags:
+- creative-arts-therapies-cats
+title: Creative Arts Interventions For Stress Management
+type: topic
 updated: 2026-05-04
 ---
 

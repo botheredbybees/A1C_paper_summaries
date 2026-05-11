@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Black-and-White Conversion in Photography"
 confidence: low
-tags: ["black-and-white-conversion"]
+domain: method
+slug: black-and-white-conversion-in-photography
 sources:
-  - fxa202-week08-lesson-fxa202-week08-page-3
+- fxa202-week08-lesson-fxa202-week08-page-3
+tags:
+- black-and-white-conversion
+title: Black-and-White Conversion in Photography
+type: topic
 updated: 2026-05-04
 ---
 

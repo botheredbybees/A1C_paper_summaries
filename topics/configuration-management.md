@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Configuration Management"
 confidence: low
-tags: ["configuration-management"]
+domain: method
+slug: configuration-management
 sources:
-  - fxa301-week02-unknown-title
+- fxa301-week02-unknown-title
+tags:
+- configuration-management
+title: Configuration Management
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Memory Loss Management Through Music"
 confidence: low
-tags: ["memory-loss-management"]
+domain: intervention
+slug: memory-loss-management-through-music
 sources:
-  - fxa100-week04-intergenerational-choir-transcript
+- fxa100-week04-intergenerational-choir-transcript
+tags:
+- memory-loss-management
+title: Memory Loss Management Through Music
+type: topic
 updated: 2026-05-04
 ---
 

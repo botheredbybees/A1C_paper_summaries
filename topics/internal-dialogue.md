@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Internal Dialogue in Creative Expression and Therapy"
 confidence: medium
-tags: ["internal-dialogue"]
+domain: intervention
+slug: internal-dialogue-in-creative-expression-and-therapy
 sources:
-  - fxa100-week08-lesson-fxa100-week07-page-2-communication-and-creativity
-  - fxa100-week08-week-8-lecture-art-therapy-in-dementia-care
+- fxa100-week08-lesson-fxa100-week07-page-2-communication-and-creativity
+- fxa100-week08-week-8-lecture-art-therapy-in-dementia-care
+tags:
+- internal-dialogue
+title: Internal Dialogue in Creative Expression and Therapy
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Hiv/Aids Awareness Through Memorials"
 confidence: low
-tags: ["hivaids-awareness"]
+domain: intervention
+slug: hiv-aids-awareness-through-memorials
 sources:
-  - fxa301-week05-the-history-of-the-quilt-the-national-aids-memorial
+- fxa301-week05-the-history-of-the-quilt-the-national-aids-memorial
+tags:
+- hivaids-awareness
+title: Hiv/Aids Awareness Through Memorials
+type: topic
 updated: 2026-05-04
 ---
 

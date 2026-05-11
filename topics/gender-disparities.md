@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Gender Disparities in Mental Health"
 confidence: low
-tags: ["gender-disparities"]
+domain: population
+slug: gender-disparities-in-mental-health
 sources:
-  - fxa303-week09-national-study-of-mental-health-and-wellbeing-2020-2022
+- fxa303-week09-national-study-of-mental-health-and-wellbeing-2020-2022
+tags:
+- gender-disparities
+title: Gender Disparities in Mental Health
+type: topic
 updated: 2026-05-04
 ---
 

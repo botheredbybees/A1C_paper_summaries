@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Programming Languages"
 confidence: low
-tags: ["programming-languages"]
+domain: method
+slug: programming-languages
 sources:
-  - fxa301-week02-unknown-title
+- fxa301-week02-unknown-title
+tags:
+- programming-languages
+title: Programming Languages
+type: topic
 updated: 2026-05-04
 ---
 

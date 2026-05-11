@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Quality Improvement in Healthcare Settings"
 confidence: medium
-tags: ["quality-improvement"]
+domain: intervention
+slug: quality-improvement-in-healthcare-settings
 sources:
   - fxa100-week03-implementation-survey-results-phase-iii-music-memory-program
   - fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit
-updated: 2026-05-04
+- fxa100-week03-implementation-survey-results-phase-iii-music-memory-program
+- fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit
+tags:
+- quality-improvement
+title: Quality Improvement in Healthcare Settings
+type: topic
+updated: 2026-05-11
 ---
 
 ## Quality Improvement in Healthcare Settings

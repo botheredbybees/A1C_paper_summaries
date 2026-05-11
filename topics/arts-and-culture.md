@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "theory"
-title: "Arts and Cultural Value"
 confidence: medium
-tags: ["arts-and-culture"]
+domain: theory
+slug: arts-and-cultural-value
 sources:
   - fxa301-week01-the-value-of-arts-and-culture-to-people-and-society-an
   - fxa301-week01-web-article-australia-2022
@@ -11,7 +9,17 @@ sources:
   - fxa303-week10-researching-arts-culture-migration-and-change-a-multi
   - fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)
   - fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)
-updated: 2026-05-05
+- fxa301-week01-the-value-of-arts-and-culture-to-people-and-society-an
+- fxa301-week01-web-article-australia-2022
+- fxa301-week08-transcript-arts-gymnasium-at-belgrade-theatre-coventry
+- fxa303-week10-researching-arts-culture-migration-and-change-a-multi
+- fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)
+- fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)
+tags:
+- arts-and-culture
+title: Arts and Cultural Value
+type: topic
+updated: 2026-05-11
 ---
 
 ## Arts and Cultural Value

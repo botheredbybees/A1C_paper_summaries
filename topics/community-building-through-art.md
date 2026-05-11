@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Community Building Through Art"
 confidence: low
-tags: ["community-building-through-art"]
+domain: intervention
+slug: community-building-through-art
 sources:
-  - fxa100-week04-intergenerational-choir-transcript
+- fxa100-week04-intergenerational-choir-transcript
+tags:
+- community-building-through-art
+title: Community Building Through Art
+type: topic
 updated: 2026-05-04
 ---
 

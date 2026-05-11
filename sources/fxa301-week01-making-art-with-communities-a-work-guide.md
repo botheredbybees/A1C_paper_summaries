@@ -11,7 +11,7 @@ tags: ["community-art", "social-engagement", "ethical-practices", "collaborative
 key_concepts: ["transformative-power-of-art", "cultural-sensitivity", "risk-management-strategies"]
 methods: ["guideline-development"]
 slug: fxa301-week01-making-art-with-communities-a-work-guide
-related: ["collaborative-projects", "community-art", "social-engagement"]
+related: ["collaborative-projects", "community-art", "marginalized-communities", "social-engagement"]
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -46,4 +46,5 @@ The document 'Making Art with Communities - A Work Guide' outlines the processes
 
 - [collaborative-projects](../topics/collaborative-projects.md)
 - [community-art](../topics/community-art.md)
+- [marginalized-communities](../topics/marginalized-communities.md)
 - [social-engagement](../topics/social-engagement.md)

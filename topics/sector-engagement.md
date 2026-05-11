@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Sector Engagement in Policy Development"
 confidence: low
-tags: ["sector-engagement"]
+domain: method
+slug: sector-engagement-in-policy-development
 sources:
-  - fxa301-week03-evidence-requirements-for-the-development-of-the-national
+- fxa301-week03-evidence-requirements-for-the-development-of-the-national
+tags:
+- sector-engagement
+title: Sector Engagement in Policy Development
+type: topic
 updated: 2026-05-04
 ---
 

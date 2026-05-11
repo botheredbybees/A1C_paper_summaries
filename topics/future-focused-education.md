@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Future-Focused Education"
 confidence: low
-tags: ["future-focused-education"]
+domain: intervention
+slug: future-focused-education
 sources:
-  - fxa303-week09-web-article-mcfarlane-2003
+- fxa303-week09-web-article-mcfarlane-2003
+tags:
+- future-focused-education
+title: Future-Focused Education
+type: topic
 updated: 2026-05-04
 ---
 

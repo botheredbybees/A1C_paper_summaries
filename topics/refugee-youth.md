@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "population"
-title: "Refugee Youth"
 confidence: medium
-tags: ["refugee-youth"]
+domain: population
+slug: refugee-youth
 sources:
   - fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy
   - fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to-(2)
-updated: 2026-05-04
+- fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy
+- fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to-(2)
+tags:
+- refugee-youth
+title: Refugee Youth
+type: topic
+updated: 2026-05-11
 ---
 
 ## Refugee Youth

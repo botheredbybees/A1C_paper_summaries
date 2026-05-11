@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Anxiety Management"
 confidence: low
-tags: ["anxiety-management"]
+domain: intervention
+slug: anxiety-management
 sources:
-  - fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping
+- fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping
+tags:
+- anxiety-management
+title: Anxiety Management
+type: topic
 updated: 2026-05-04
 ---
 

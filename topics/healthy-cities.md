@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Healthy Cities"
 confidence: low
-tags: ["healthy-cities"]
+domain: theory
+slug: healthy-cities
 sources:
-  - fxa100-excellence-in-dementia-care--ch33-1-place-covers-the-person
+- fxa100-excellence-in-dementia-care--ch33-1-place-covers-the-person
+tags:
+- healthy-cities
+title: Healthy Cities
+type: topic
 updated: 2026-05-04
 ---
 

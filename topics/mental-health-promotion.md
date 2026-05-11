@@ -1,14 +1,20 @@
 ---
-type: topic
-domain: "intervention"
-title: "Puppetry in Mental Health Promotion"
 confidence: medium
-tags: ["mental-health-promotion"]
+domain: intervention
+slug: puppetry-in-mental-health-promotion
 sources:
   - fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the
   - fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping
   - fxa303-week10-how-country-spirituality-music-and-arts-contribute-to
-updated: 2026-05-05
+  - fxa303-week11-role-of-art-therapy-in-the-promotion-of-mental-health-a
+- fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the
+- fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping
+- fxa303-week10-how-country-spirituality-music-and-arts-contribute-to
+tags:
+- mental-health-promotion
+title: Puppetry in Mental Health Promotion
+type: topic
+updated: 2026-05-11
 ---
 
 ## Puppetry in Mental Health Promotion
@@ -30,3 +36,4 @@ The integration of puppetry within mental health promotion emerges as a versatil
 - [fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the](../sources/fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the.md)
 - [fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping](../sources/fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping.md)
 - [fxa303-week10-how-country-spirituality-music-and-arts-contribute-to](../sources/fxa303-week10-how-country-spirituality-music-and-arts-contribute-to.md)
+- [fxa303-week11-role-of-art-therapy-in-the-promotion-of-mental-health-a](../sources/fxa303-week11-role-of-art-therapy-in-the-promotion-of-mental-health-a.md)

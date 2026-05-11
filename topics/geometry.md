@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Geometry"
 confidence: low
-tags: ["geometry"]
+domain: theory
+slug: geometry
 sources:
-  - fxa301-week06-quadrivium-the-noble-fourfold-way-to-an-understanding-of
+- fxa301-week06-quadrivium-the-noble-fourfold-way-to-an-understanding-of
+tags:
+- geometry
+title: Geometry
+type: topic
 updated: 2026-05-04
 ---
 

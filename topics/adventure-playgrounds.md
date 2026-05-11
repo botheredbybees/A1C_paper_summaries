@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Adventure Playgrounds"
 confidence: low
-tags: ["adventure-playgrounds"]
+domain: intervention
+slug: adventure-playgrounds
 sources:
-  - fxa303-week09-lesson-fxa303-week09-page-3-case-studies
+- fxa303-week09-lesson-fxa303-week09-page-3-case-studies
+tags:
+- adventure-playgrounds
+title: Adventure Playgrounds
+type: topic
 updated: 2026-05-04
 ---
 

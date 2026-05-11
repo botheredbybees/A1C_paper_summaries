@@ -1,12 +1,16 @@
 ---
-type: topic
-domain: "intervention"
-title: "Social-Emotional Wellbeing in Indigenous Communities"
 confidence: low
-tags: ["social-emotional-wellbeing"]
+domain: intervention
+slug: social-emotional-wellbeing-in-indigenous-communities
 sources:
-  - fxa303-week10-how-country-spirituality-music-and-arts-contribute-to
-updated: 2026-05-04
+  - fxa303-week10-healing-through-culture-aboriginal-young-peoples
+  - fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through
+- fxa303-week10-how-country-spirituality-music-and-arts-contribute-to
+tags:
+- social-emotional-wellbeing
+title: Social-Emotional Wellbeing in Indigenous Communities
+type: topic
+updated: 2026-05-11
 ---
 
 ## Social-Emotional Wellbeing in Indigenous Communities
@@ -25,4 +29,5 @@ The exploration of how country, spirituality, music, and arts contribute to the 
 
 ## Sources
 
-- [fxa303-week10-how-country-spirituality-music-and-arts-contribute-to](../sources/fxa303-week10-how-country-spirituality-music-and-arts-contribute-to.md)
+- [fxa303-week10-healing-through-culture-aboriginal-young-peoples](../sources/fxa303-week10-healing-through-culture-aboriginal-young-peoples.md)
+- [fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through](../sources/fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through.md)

@@ -11,7 +11,7 @@ tags: ["disaster-psychiatry", "mental-health-disparities", "schizophrenia-outcom
 key_concepts: ["mandatory psychiatric emergency hospitalizations", "indirect exposure to disaster"]
 methods: ["retrospective observational study"]
 slug: fxa303-week09-the-impact-of-the-great-east-japan-earthquake-on-mandatory
-related: []
+related: ["mental-health-disparities"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,4 +43,4 @@ This study evaluates the impact of the Great East Japan earthquake and subsequen
 
 ## See Also
 
-*(none yet)*
+- [mental-health-disparities](../topics/mental-health-disparities.md)

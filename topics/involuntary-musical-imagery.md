@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Involuntary Musical Imagery"
 confidence: low
-tags: ["involuntary-musical-imagery"]
+domain: theory
+slug: involuntary-musical-imagery
 sources:
-  - fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted
+- fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted
+tags:
+- involuntary-musical-imagery
+title: Involuntary Musical Imagery
+type: topic
 updated: 2026-05-04
 ---
 

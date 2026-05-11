@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cultural Inclusivity in Arts Projects"
 confidence: medium
-tags: ["cultural-inclusivity"]
+domain: intervention
+slug: cultural-inclusivity-in-arts-projects
 sources:
-  - fxa100-week07-for-visitors-with-dementia
-  - fxa303-week10-transcript-younger-stories-culminated-in-an-exhibition-of
+- fxa100-week07-for-visitors-with-dementia
+- fxa303-week10-transcript-younger-stories-culminated-in-an-exhibition-of
+tags:
+- cultural-inclusivity
+title: Cultural Inclusivity in Arts Projects
+type: topic
 updated: 2026-05-04
 ---
 

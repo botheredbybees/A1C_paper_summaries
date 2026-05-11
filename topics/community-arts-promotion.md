@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Community Arts Promotion"
 confidence: low
-tags: ["community-arts-promotion"]
+domain: intervention
+slug: community-arts-promotion
 sources:
-  - fxa301-make-arts-for-a-better-life-ch22-2-choose-a-master-of-the-genre-(2)
+- fxa301-make-arts-for-a-better-life-ch22-2-choose-a-master-of-the-genre-(2)
+tags:
+- community-arts-promotion
+title: Community Arts Promotion
+type: topic
 updated: 2026-05-04
 ---
 

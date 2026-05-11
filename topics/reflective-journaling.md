@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Reflective Journaling"
 confidence: low
-tags: ["reflective-journaling"]
+domain: intervention
+slug: reflective-journaling
 sources:
-  - fxa202-week09-journaling-books-review
+- fxa202-week09-journaling-books-review
+tags:
+- reflective-journaling
+title: Reflective Journaling
+type: topic
 updated: 2026-05-04
 ---
 

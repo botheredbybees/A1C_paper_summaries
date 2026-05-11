@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Emergent Phenomena in Social Dynamics"
 confidence: low
-tags: ["emergent-phenomena"]
+domain: method
+slug: emergent-phenomena-in-social-dynamics
 sources:
-  - fxa100-week02-transcript-moshing-with-physics-jesse-silverberg-tedxyale
+- fxa100-week02-transcript-moshing-with-physics-jesse-silverberg-tedxyale
+tags:
+- emergent-phenomena
+title: Emergent Phenomena in Social Dynamics
+type: topic
 updated: 2026-05-04
 ---
 

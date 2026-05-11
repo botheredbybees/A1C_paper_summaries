@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: adolescent-psychology
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Adolescent Psychology

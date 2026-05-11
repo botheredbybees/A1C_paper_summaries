@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Confidentiality In Care"
 confidence: low
-tags: ["confidentiality-in-care"]
+domain: method
+slug: confidentiality-in-care
 sources:
-  - fxa100-week03-5-tips-for-cultural-and-religious-appropriate-dementia-care
+- fxa100-week03-5-tips-for-cultural-and-religious-appropriate-dementia-care
+tags:
+- confidentiality-in-care
+title: Confidentiality In Care
+type: topic
 updated: 2026-05-04
 ---
 

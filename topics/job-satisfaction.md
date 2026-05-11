@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Job Satisfaction in Caregiving"
 confidence: low
-tags: ["job-satisfaction"]
+domain: intervention
+slug: job-satisfaction-in-caregiving
 sources:
-  - fxa100-week03-music-and-memories-wisconsin-project-results
+- fxa100-week03-music-and-memories-wisconsin-project-results
+tags:
+- job-satisfaction
+title: Job Satisfaction in Caregiving
+type: topic
 updated: 2026-05-04
 ---
 

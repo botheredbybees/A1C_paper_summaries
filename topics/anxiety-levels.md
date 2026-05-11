@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Anxiety Levels in Traumatized Youth"
 confidence: low
-tags: ["anxiety-levels"]
+domain: intervention
+slug: anxiety-levels-in-traumatized-youth
 sources:
-  - fxa303-week09-effectiveness-of-creative-arts-based-interventions-for
+- fxa303-week09-effectiveness-of-creative-arts-based-interventions-for
+tags:
+- anxiety-levels
+title: Anxiety Levels in Traumatized Youth
+type: topic
 updated: 2026-05-04
 ---
 

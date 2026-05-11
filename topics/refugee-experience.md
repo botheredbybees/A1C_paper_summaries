@@ -1,14 +1,21 @@
 ---
-type: topic
-domain: "intervention"
-title: "Refugee Youth and Their Role Changes"
 confidence: medium
-tags: ["refugee-experience"]
+domain: intervention
+slug: refugee-youth-and-their-role-changes
 sources:
+  - fxa301-week11-refugee-art-expressing-experience-through-creativity
+  - fxa301-week11-the-museum-is-the-refugees-home
   - fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to
   - fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth
   - fxa303-week10-transcript-younger-stories-culminated-in-an-exhibition-of
-updated: 2026-05-04
+- fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to
+- fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth
+- fxa303-week10-transcript-younger-stories-culminated-in-an-exhibition-of
+tags:
+- refugee-experience
+title: Refugee Youth and Their Role Changes
+type: topic
+updated: 2026-05-11
 ---
 
 ## Refugee Youth and Their Role Changes
@@ -27,6 +34,8 @@ The exploration of refugee youth's experiences reveals a complex interplay betwe
 
 ## Sources
 
+- [fxa301-week11-refugee-art-expressing-experience-through-creativity](../sources/fxa301-week11-refugee-art-expressing-experience-through-creativity.md)
+- [fxa301-week11-the-museum-is-the-refugees-home](../sources/fxa301-week11-the-museum-is-the-refugees-home.md)
 - [fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to](../sources/fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to.md)
 - [fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth](../sources/fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth.md)
 - [fxa303-week10-transcript-younger-stories-culminated-in-an-exhibition-of](../sources/fxa303-week10-transcript-younger-stories-culminated-in-an-exhibition-of.md)

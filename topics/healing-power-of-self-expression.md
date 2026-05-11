@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "The Healing Power Of Self-Expression"
 confidence: low
-tags: ["healing-power-of-self-expression"]
+domain: intervention
+slug: the-healing-power-of-self-expression
 sources:
-  - fxa202-week09-personal-storytelling-and-memoir-writing
+- fxa202-week09-personal-storytelling-and-memoir-writing
+tags:
+- healing-power-of-self-expression
+title: The Healing Power Of Self-Expression
+type: topic
 updated: 2026-05-04
 ---
 

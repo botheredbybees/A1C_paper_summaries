@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Rigorous Scientific Investigation"
 confidence: low
-tags: ["rigorous-scientific-investigation"]
+domain: method
+slug: rigorous-scientific-investigation
 sources:
-  - fxa100-week04-an-introduction-to-research
+- fxa100-week04-an-introduction-to-research
+tags:
+- rigorous-scientific-investigation
+title: Rigorous Scientific Investigation
+type: topic
 updated: 2026-05-04
 ---
 

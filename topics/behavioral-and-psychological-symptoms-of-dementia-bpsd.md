@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Behavioral And Psychological Symptoms Of Dementia"
 confidence: low
-tags: ["behavioral-and-psychological-symptoms-of-dementia-bpsd"]
+domain: intervention
+slug: behavioral-and-psychological-symptoms-of-dementia
 sources:
-  - fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a
+- fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a
+tags:
+- behavioral-and-psychological-symptoms-of-dementia-bpsd
+title: Behavioral And Psychological Symptoms Of Dementia
+type: topic
 updated: 2026-05-04
 ---
 

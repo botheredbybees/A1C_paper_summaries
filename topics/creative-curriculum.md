@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Curriculum In Health Education"
 confidence: low
-tags: ["creative-curriculum"]
+domain: intervention
+slug: creative-curriculum-in-health-education
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37
+- fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37
+tags:
+- creative-curriculum
+title: Creative Curriculum In Health Education
+type: topic
 updated: 2026-05-04
 ---
 

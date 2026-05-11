@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Self-Actualization"
 confidence: low
-tags: ["self-actualization"]
+domain: theory
+slug: self-actualization
 sources:
-  - fxa303-week01-person-centered-therapy-rogerian-therapy
+- fxa303-week01-person-centered-therapy-rogerian-therapy
+tags:
+- self-actualization
+title: Self-Actualization
+type: topic
 updated: 2026-05-04
 ---
 

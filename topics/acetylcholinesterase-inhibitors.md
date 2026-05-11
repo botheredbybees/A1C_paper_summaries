@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Acetylcholinesterase Inhibitors in Dementia Care"
 confidence: low
-tags: ["acetylcholinesterase-inhibitors"]
+domain: intervention
+slug: acetylcholinesterase-inhibitors-in-dementia-care
 sources:
-  - fxa100-week04-interventions-for-dementia-care
+- fxa100-week04-interventions-for-dementia-care
+tags:
+- acetylcholinesterase-inhibitors
+title: Acetylcholinesterase Inhibitors in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

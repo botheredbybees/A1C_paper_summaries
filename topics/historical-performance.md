@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Historical Performance in Commedia Dell'Arte"
 confidence: low
-tags: ["historical-performance"]
+domain: intervention
+slug: historical-performance-in-commedia-dell-arte
 sources:
-  - fxa303-week08-commedia-dellarte-characters-scenarios-and-rhetoric
+- fxa303-week08-commedia-dellarte-characters-scenarios-and-rhetoric
+tags:
+- historical-performance
+title: Historical Performance in Commedia Dell'Arte
+type: topic
 updated: 2026-05-04
 ---
 

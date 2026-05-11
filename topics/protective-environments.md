@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Protective Environments"
 confidence: low
-tags: ["protective-environments"]
+domain: intervention
+slug: protective-environments
 sources:
-  - fxa303-week03-mental-health-of-adolescents
+- fxa303-week03-mental-health-of-adolescents
+tags:
+- protective-environments
+title: Protective Environments
+type: topic
 updated: 2026-05-04
 ---
 

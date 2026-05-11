@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Puppet Simulation"
 confidence: low
-tags: ["puppet-simulation"]
+domain: intervention
+slug: puppet-simulation
 sources:
-  - fxa303-week06-a-review-of-the-literature-the-use-of-interactive-puppet
+- fxa303-week06-a-review-of-the-literature-the-use-of-interactive-puppet
+tags:
+- puppet-simulation
+title: Puppet Simulation
+type: topic
 updated: 2026-05-04
 ---
 

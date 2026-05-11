@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Well-being Through Art"
 confidence: medium
-tags: ["well-being-through-art"]
+domain: intervention
+slug: well-being-through-art
 sources:
   - fxa100-week04-what-is-singing-for-the-brain
   - fxa100-week08-why-the-arts
-updated: 2026-05-04
+- fxa100-week04-what-is-singing-for-the-brain
+- fxa100-week08-why-the-arts
+tags:
+- well-being-through-art
+title: Well-being Through Art
+type: topic
+updated: 2026-05-11
 ---
 
 ## Well-being Through Art

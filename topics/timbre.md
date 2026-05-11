@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Timbre in Music"
 confidence: low
-tags: ["timbre"]
+domain: intervention
+slug: timbre-in-music
 sources:
-  - fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration
+- fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration
+tags:
+- timbre
+title: Timbre in Music
+type: topic
 updated: 2026-05-04
 ---
 

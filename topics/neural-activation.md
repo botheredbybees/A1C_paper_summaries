@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Neural Activation in Perceiving and Experiencing Art"
 confidence: low
-tags: ["neural-activation"]
+domain: intervention
+slug: neural-activation-in-perceiving-and-experiencing-art
 sources:
-  - fxa100-week06-web-article-tucker-2012
+- fxa100-week06-web-article-tucker-2012
+tags:
+- neural-activation
+title: Neural Activation in Perceiving and Experiencing Art
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Timeslips Program in Dementia Care"
 confidence: medium
-tags: ["timeslips-program"]
+domain: intervention
+slug: timeslips-program-in-dementia-care
 sources:
-  - fxa100-week10-play-and-people-living-with-dementia-a-humanities-based
-  - fxa100-week10-week-10-lecture-theatre-and-play-in-dementia-care
+- fxa100-week10-play-and-people-living-with-dementia-a-humanities-based
+- fxa100-week10-week-10-lecture-theatre-and-play-in-dementia-care
+tags:
+- timeslips-program
+title: Timeslips Program in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

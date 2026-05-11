@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cultural Sensitivity in Practice"
 confidence: low
-tags: ["cultural-sensitivity-in-practice"]
+domain: intervention
+slug: cultural-sensitivity-in-practice
 sources:
-  - fxa303-week10-cultural-diversity-and-mental-health-considerations-for
+- fxa303-week10-cultural-diversity-and-mental-health-considerations-for
+tags:
+- cultural-sensitivity-in-practice
+title: Cultural Sensitivity in Practice
+type: topic
 updated: 2026-05-04
 ---
 

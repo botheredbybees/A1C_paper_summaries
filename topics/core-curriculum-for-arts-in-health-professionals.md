@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Core Curriculum For Arts In Health Professionals"
 confidence: medium
-tags: ["core-curriculum-for-arts-in-health-professionals"]
+domain: intervention
+slug: core-curriculum-for-arts-in-health-professionals
 sources:
-  - fxa301-bridging-the-creative-arts-therapies-ch09-5-collaboration
-  - fxa301-bridging-the-creative-arts-therapies-ch09-5-collaboration-(2)
+- fxa301-bridging-the-creative-arts-therapies-ch09-5-collaboration
+- fxa301-bridging-the-creative-arts-therapies-ch09-5-collaboration-(2)
+tags:
+- core-curriculum-for-arts-in-health-professionals
+title: Core Curriculum For Arts In Health Professionals
+type: topic
 updated: 2026-05-04
 ---
 

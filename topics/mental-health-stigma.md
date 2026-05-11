@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Role of Arts in Reducing Mental Health Stigma"
 confidence: medium
-tags: ["mental-health-stigma"]
+domain: intervention
+slug: role-of-arts-in-reducing-mental-health-stigma
 sources:
   - fxa301-week01-the-five-projectaddressing-the-stigma-of-mental-health
   - fxa301-week03-four-big-ways-to-improve-health-through-the-arts
   - fxa301-week03-the-role-of-the-arts-in-healthcare-transforming-lives
-updated: 2026-05-05
+- fxa301-week01-the-five-projectaddressing-the-stigma-of-mental-health
+- fxa301-week03-four-big-ways-to-improve-health-through-the-arts
+- fxa301-week03-the-role-of-the-arts-in-healthcare-transforming-lives
+tags:
+- mental-health-stigma
+title: Role of Arts in Reducing Mental Health Stigma
+type: topic
+updated: 2026-05-11
 ---
 
 ## Role of Arts in Reducing Mental Health Stigma

@@ -11,7 +11,7 @@ tags: ["intergenerational-interaction", "dementia-care", "music-therapy", "adole
 key_concepts: ["therapeutic-benefits-of-music", "memory-loss-management", "community-building-through-art"]
 methods: ["case-study"]
 slug: fxa100-week04-intergenerational-choir-transcript
-related: ["adolescent-development", "cognitive-stimulation", "dementia-care", "music-therapy"]
+related: ["adolescent-development", "cognitive-stimulation", "dementia-care", "intergenerational-interaction", "music-therapy"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,4 +46,5 @@ The intergenerational choir transcript highlights a community singing initiative
 - [adolescent-development](../topics/adolescent-development.md)
 - [cognitive-stimulation](../topics/cognitive-stimulation.md)
 - [dementia-care](../topics/dementia-care.md)
+- [intergenerational-interaction](../topics/intergenerational-interaction.md)
 - [music-therapy](../topics/music-therapy.md)

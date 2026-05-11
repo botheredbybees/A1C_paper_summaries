@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Process Evaluations"
 confidence: low
-tags: ["process-evaluations"]
+domain: method
+slug: process-evaluations
 sources:
-  - fxa301-arts-in-health-ch67-chapter-6
+- fxa301-arts-in-health-ch67-chapter-6
+tags:
+- process-evaluations
+title: Process Evaluations
+type: topic
 updated: 2026-05-04
 ---
 

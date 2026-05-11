@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "National Dementia Data Improvement Plan"
 confidence: low
-tags: ["national-monitoring"]
+domain: method
+slug: national-dementia-data-improvement-plan
 sources:
-  - fxa100-week01-national-dementia-data-improvement-plan-20232034
+- fxa100-week01-national-dementia-data-improvement-plan-20232034
+tags:
+- national-monitoring
+title: National Dementia Data Improvement Plan
+type: topic
 updated: 2026-05-04
 ---
 

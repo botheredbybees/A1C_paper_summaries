@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Serotonin's Role in Mood and Behavior"
 confidence: low
-tags: ["serotonin"]
+domain: theory
+slug: serotonin-s-role-in-mood-and-behavior
 sources:
-  - fxa301-week01-lesson-fxa301-week01-page-3-how-do-we-respond-to
+- fxa301-week01-lesson-fxa301-week01-page-3-how-do-we-respond-to
+tags:
+- serotonin
+title: Serotonin's Role in Mood and Behavior
+type: topic
 updated: 2026-05-04
 ---
 

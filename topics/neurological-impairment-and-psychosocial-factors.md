@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Neurological Impairment And Psychosocial Factors"
 confidence: low
-tags: ["neurological-impairment-and-psychosocial-factors"]
+domain: theory
+slug: neurological-impairment-and-psychosocial-factors
 sources:
-  - fxa100-week09-the-fundamentals-of-person-centered-care-for-individuals
+- fxa100-week09-the-fundamentals-of-person-centered-care-for-individuals
+tags:
+- neurological-impairment-and-psychosocial-factors
+title: Neurological Impairment And Psychosocial Factors
+type: topic
 updated: 2026-05-04
 ---
 

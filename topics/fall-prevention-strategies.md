@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Fall Prevention Strategies"
 confidence: low
-tags: ["fall-prevention-strategies"]
+domain: intervention
+slug: fall-prevention-strategies
 sources:
-  - fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster
+- fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster
+tags:
+- fall-prevention-strategies
+title: Fall Prevention Strategies
+type: topic
 updated: 2026-05-04
 ---
 

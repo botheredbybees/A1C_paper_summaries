@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Group Music Therapy for Dementia Patients"
 confidence: medium
-tags: ["group-music-therapy"]
+domain: intervention
+slug: group-music-therapy-for-dementia-patients
 sources:
-  - fxa100-week03-the-short-term-impact-of-music-interventions-on-stress
-  - fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients
+- fxa100-week03-the-short-term-impact-of-music-interventions-on-stress
+- fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients
+tags:
+- group-music-therapy
+title: Group Music Therapy for Dementia Patients
+type: topic
 updated: 2026-05-04
 ---
 

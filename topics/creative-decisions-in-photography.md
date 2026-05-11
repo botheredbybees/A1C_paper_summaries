@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Decisions in Photography"
 confidence: low
-tags: ["creative-decisions-in-photography"]
+domain: intervention
+slug: creative-decisions-in-photography
 sources:
-  - fxa202-week02-super-simple-introduction-to-manual-mode-and-how-it-will
+- fxa202-week02-super-simple-introduction-to-manual-mode-and-how-it-will
+tags:
+- creative-decisions-in-photography
+title: Creative Decisions in Photography
+type: topic
 updated: 2026-05-04
 ---
 

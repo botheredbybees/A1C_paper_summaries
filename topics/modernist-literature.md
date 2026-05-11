@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Modernist Literature"
 confidence: low
-tags: ["modernist-literature"]
+domain: theory
+slug: modernist-literature
 sources:
-  - fxa202-week05-stream-of-consciousness
+- fxa202-week05-stream-of-consciousness
+tags:
+- modernist-literature
+title: Modernist Literature
+type: topic
 updated: 2026-05-04
 ---
 

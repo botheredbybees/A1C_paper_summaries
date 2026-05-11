@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Positive Mood Interventions"
 confidence: low
-tags: ["positive-mood"]
+domain: intervention
+slug: positive-mood-interventions
 sources:
-  - fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent
+- fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent
+tags:
+- positive-mood
+title: Positive Mood Interventions
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Satisfaction in Healthcare Settings"
 confidence: low
-tags: ["satisfaction"]
+domain: intervention
+slug: satisfaction-in-healthcare-settings
 sources:
-  - fxa303-week08-exploring-the-usefulness-of-medical-clowns-in-elevating
+- fxa303-week08-exploring-the-usefulness-of-medical-clowns-in-elevating
+tags:
+- satisfaction
+title: Satisfaction in Healthcare Settings
+type: topic
 updated: 2026-05-04
 ---
 

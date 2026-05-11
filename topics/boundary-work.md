@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Boundary Work"
 confidence: low
-tags: ["boundary-work"]
+domain: theory
+slug: boundary-work
 sources:
-  - fxa202-week10-conclusions-and-implications-for-future-research
+- fxa202-week10-conclusions-and-implications-for-future-research
+tags:
+- boundary-work
+title: Boundary Work
+type: topic
 updated: 2026-05-04
 ---
 

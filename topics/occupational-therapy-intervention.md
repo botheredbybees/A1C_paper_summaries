@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Occupational Therapy Intervention"
 confidence: low
-tags: ["occupational-therapy-intervention"]
+domain: intervention
+slug: occupational-therapy-intervention
 sources:
-  - fxa301-week08-arts-gymnasium-goes-digital
+- fxa301-week08-arts-gymnasium-goes-digital
+tags:
+- occupational-therapy-intervention
+title: Occupational Therapy Intervention
+type: topic
 updated: 2026-05-04
 ---
 

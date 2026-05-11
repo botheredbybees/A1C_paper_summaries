@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Editing Process"
 confidence: low
-tags: ["editing-process"]
+domain: method
+slug: editing-process
 sources:
-  - fxa202-week09-lesson-fxa202-week09-week-9
+- fxa202-week09-lesson-fxa202-week09-week-9
+tags:
+- editing-process
+title: Editing Process
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Community Music Therapy"
 confidence: low
-tags: ["community-music-therapy"]
+domain: intervention
+slug: community-music-therapy
 sources:
-  - fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music
+- fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music
+tags:
+- community-music-therapy
+title: Community Music Therapy
+type: topic
 updated: 2026-05-04
 ---
 

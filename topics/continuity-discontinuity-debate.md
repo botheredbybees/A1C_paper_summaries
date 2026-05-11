@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Continuity and Discontinuity in Developmental Psychology"
 confidence: low
-tags: ["continuity-discontinuity-debate"]
+domain: theory
+slug: continuity-and-discontinuity-in-developmental-psychology
 sources:
-  - fxa303-week03-developmental-psychology-from-infancy-to-adulthood
+- fxa303-week03-developmental-psychology-from-infancy-to-adulthood
+tags:
+- continuity-discontinuity-debate
+title: Continuity and Discontinuity in Developmental Psychology
+type: topic
 updated: 2026-05-04
 ---
 

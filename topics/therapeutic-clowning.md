@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Clowning"
 confidence: high
-tags: ["therapeutic-clowning"]
+domain: intervention
+slug: therapeutic-clowning
 sources:
   - fxa303-week08-lesson-fxa303-week08-page-2-the-nature-of-clowning
   - fxa303-week08-lesson-fxa303-week08-page-3-therapeutic-clowning
@@ -12,7 +10,18 @@ sources:
   - fxa303-week08-therapeutic-clowning
   - fxa303-week08-therapeutic-clowning-in-paediatric-practice
   - fxa303-week08-we-are-still-doing-some-magic-exploring-the-effectiveness
-updated: 2026-05-04
+- fxa303-week08-lesson-fxa303-week08-page-2-the-nature-of-clowning
+- fxa303-week08-lesson-fxa303-week08-page-3-therapeutic-clowning
+- fxa303-week08-the-effect-of-medicaltherapeutic-clowns-on-the-playfulness
+- fxa303-week08-the-life-threatened-child-and-the-life-enhancing-clown
+- fxa303-week08-therapeutic-clowning
+- fxa303-week08-therapeutic-clowning-in-paediatric-practice
+- fxa303-week08-we-are-still-doing-some-magic-exploring-the-effectiveness
+tags:
+- therapeutic-clowning
+title: Therapeutic Clowning
+type: topic
+updated: 2026-05-11
 ---
 
 ## Therapeutic Clowning

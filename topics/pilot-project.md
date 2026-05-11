@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Pilot Projects"
 confidence: low
-tags: ["pilot-project"]
+domain: intervention
+slug: pilot-projects
 sources:
-  - fxa100-week04-implementing-and-evaluating-interventions
+- fxa100-week04-implementing-and-evaluating-interventions
+tags:
+- pilot-project
+title: Pilot Projects
+type: topic
 updated: 2026-05-04
 ---
 

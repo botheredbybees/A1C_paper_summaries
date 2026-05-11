@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Visual Arts for Wellbeing"
 confidence: low
-tags: ["visual-arts-for-wellbeing"]
+domain: intervention
+slug: visual-arts-for-wellbeing
 sources:
-  - fxa301-week05-lesson-fxa301-week05-page-4-week-3-activities
+- fxa301-week05-lesson-fxa301-week05-page-4-week-3-activities
+tags:
+- visual-arts-for-wellbeing
+title: Visual Arts for Wellbeing
+type: topic
 updated: 2026-05-04
 ---
 

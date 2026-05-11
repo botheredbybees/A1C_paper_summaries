@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Photography as Visual Pedagogy"
 confidence: low
-tags: ["visual-pedagogy"]
+domain: intervention
+slug: therapeutic-photography-as-visual-pedagogy
 sources:
-  - fxa202-therapeutic-photography-ch04-2-reflexive-photography
+- fxa202-therapeutic-photography-ch04-2-reflexive-photography
+tags:
+- visual-pedagogy
+title: Therapeutic Photography as Visual Pedagogy
+type: topic
 updated: 2026-05-04
 ---
 

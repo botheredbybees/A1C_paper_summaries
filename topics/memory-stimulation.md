@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "intervention"
-title: "Memory Stimulation Interventions"
 confidence: high
-tags: ["memory-stimulation"]
+domain: intervention
+slug: memory-stimulation-interventions
 sources:
   - fxa100-week04-music-therapy-benefits-fxa100-the-arts-and-dementia-care
   - fxa100-week07-house-of-memories-national-museums-liverpool
   - fxa100-week07-iremember-loan-resource-flyer
   - fxa100-week09-transcript-youtube-lq0ko6-w4uc
-updated: 2026-05-04
+- fxa100-week04-music-therapy-benefits-fxa100-the-arts-and-dementia-care
+- fxa100-week07-house-of-memories-national-museums-liverpool
+- fxa100-week07-iremember-loan-resource-flyer
+- fxa100-week09-transcript-youtube-lq0ko6-w4uc
+tags:
+- memory-stimulation
+title: Memory Stimulation Interventions
+type: topic
+updated: 2026-05-11
 ---
 
 ## Memory Stimulation Interventions

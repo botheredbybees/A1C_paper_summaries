@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Hearing Mechanisms"
 confidence: low
-tags: ["hearing-mechanisms"]
+domain: method
+slug: hearing-mechanisms
 sources:
-  - fxa100-week02-lesson-fxa100-week02-page-1-welcome-to-week2
+- fxa100-week02-lesson-fxa100-week02-page-1-welcome-to-week2
+tags:
+- hearing-mechanisms
+title: Hearing Mechanisms
+type: topic
 updated: 2026-05-04
 ---
 

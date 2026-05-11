@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Expressions Of Resistance"
 confidence: low
-tags: ["expressions-of-resistance"]
+domain: intervention
+slug: expressions-of-resistance
 sources:
-  - fxa100-week04-the-impact-of-caregivers-singing-on-expressions-of-emotion
+- fxa100-week04-the-impact-of-caregivers-singing-on-expressions-of-emotion
+tags:
+- expressions-of-resistance
+title: Expressions Of Resistance
+type: topic
 updated: 2026-05-04
 ---
 

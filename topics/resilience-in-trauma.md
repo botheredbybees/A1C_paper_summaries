@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Resilience In Trauma"
 confidence: low
-tags: ["resilience-in-trauma"]
+domain: theory
+slug: resilience-in-trauma
 sources:
-  - fxa202-week10-poetic-expressions-of-internal-struggle
+- fxa202-week10-poetic-expressions-of-internal-struggle
+tags:
+- resilience-in-trauma
+title: Resilience In Trauma
+type: topic
 updated: 2026-05-04
 ---
 

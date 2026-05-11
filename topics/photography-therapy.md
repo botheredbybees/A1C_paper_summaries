@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Photography Therapy"
 confidence: medium
-tags: ["photography-therapy"]
+domain: intervention
+slug: photography-therapy
 sources:
   - fxa202-week03-week-3-introduction-photography-and-health
   - fxa202-week08-week-8-lecture-notes-editing-your-images-(3)
   - fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a
-updated: 2026-05-04
+- fxa202-week03-week-3-introduction-photography-and-health
+- fxa202-week08-week-8-lecture-notes-editing-your-images-(3)
+- fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a
+tags:
+- photography-therapy
+title: Photography Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Photography Therapy

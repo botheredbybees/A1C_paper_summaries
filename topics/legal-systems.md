@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "method"
-title: "Legal Systems Through Visual Storytelling"
 confidence: high
-tags: ["legal-systems"]
+domain: method
+slug: legal-systems-through-visual-storytelling
 sources:
   - fxa202-week01-lesson-fxa202-week01-page-4
   - fxa202-week02-lesson-fxa202-week02-page-4
@@ -16,7 +14,22 @@ sources:
   - fxa202-week10-lesson-fxa202-week10-page-2
   - fxa202-week10-lesson-fxa202-week10-page-4
   - fxa202-week10-lesson-fxa202-week10-week-10
-updated: 2026-05-05
+- fxa202-week01-lesson-fxa202-week01-page-4
+- fxa202-week02-lesson-fxa202-week02-page-4
+- fxa202-week02-lesson-fxa202-week02-week-2
+- fxa202-week06-lesson-fxa202-week06-page-4
+- fxa202-week08-lesson-fxa202-week08-page-4
+- fxa202-week08-lesson-fxa202-week08-week-8
+- fxa202-week09-lesson-fxa202-week09-page-4
+- fxa202-week09-lesson-fxa202-week09-week-9
+- fxa202-week10-lesson-fxa202-week10-page-2
+- fxa202-week10-lesson-fxa202-week10-page-4
+- fxa202-week10-lesson-fxa202-week10-week-10
+tags:
+- legal-systems
+title: Legal Systems Through Visual Storytelling
+type: topic
+updated: 2026-05-11
 ---
 
 ## Legal Systems Through Visual Storytelling

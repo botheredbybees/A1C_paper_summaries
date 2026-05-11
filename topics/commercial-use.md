@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Commercial Use of Photography"
 confidence: low
-tags: ["commercial-use"]
+domain: intervention
+slug: commercial-use-of-photography
 sources:
-  - fxa202-week02-street-photographers-rights
+- fxa202-week02-street-photographers-rights
+tags:
+- commercial-use
+title: Commercial Use of Photography
+type: topic
 updated: 2026-05-04
 ---
 

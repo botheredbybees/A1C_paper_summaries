@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Neurochemicals and Hormones"
 confidence: low
-tags: ["neurochemicals-hormones"]
+domain: theory
+slug: neurochemicals-and-hormones
 sources:
-  - fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community
+- fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community
+tags:
+- neurochemicals-hormones
+title: Neurochemicals and Hormones
+type: topic
 updated: 2026-05-04
 ---
 

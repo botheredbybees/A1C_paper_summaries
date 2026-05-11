@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "theory"
-title: "Medical Model Of Disability"
 confidence: medium
-tags: ["medical-model-of-disability"]
+domain: theory
+slug: medical-model-of-disability
 sources:
-  - fxa301-week09-transcript-the-following-video-from-people-with-disability
-  - fxa303-week04-neurodiversity-and-the-autism-spectrum
-  - fxa303-week04-unconscious-bias-and-the-medical-model-how-the-social-model
+- fxa301-week09-transcript-the-following-video-from-people-with-disability
+- fxa303-week04-neurodiversity-and-the-autism-spectrum
+- fxa303-week04-unconscious-bias-and-the-medical-model-how-the-social-model
+tags:
+- medical-model-of-disability
+title: Medical Model Of Disability
+type: topic
 updated: 2026-05-04
 ---
 

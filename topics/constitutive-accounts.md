@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Constitutive Accounts Of Memory"
 confidence: low
-tags: ["constitutive-accounts"]
+domain: theory
+slug: constitutive-accounts-of-memory
 sources:
-  - fxa100-how-we-thnk-about-dementia-ch06-chapter-3
+- fxa100-how-we-thnk-about-dementia-ch06-chapter-3
+tags:
+- constitutive-accounts
+title: Constitutive Accounts Of Memory
+type: topic
 updated: 2026-05-04
 ---
 

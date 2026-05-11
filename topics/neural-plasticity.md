@@ -1,18 +1,20 @@
 ---
-type: topic
-domain: "theory"
-title: "Neural Plasticity"
 confidence: high
-tags: ["neural-plasticity"]
+domain: theory
+slug: neural-plasticity
 sources:
-  - fxa100-week02-how-music-helps-to-heal-the-injured-brain-therapeutic-use
-  - fxa100-week02-transcript-duration-949
-  - fxa100-week02-web-article-thaut-2010
-  - fxa100-week04-transcript-music-therapy-comforts-soothes-those-with-varying
-  - fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography
-  - fxa301-week03-transcript-youtube-5utv1ergbs8
-  - fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians
-  - fxa303-week04-fxa303-week-4-introduction
+- fxa100-week02-how-music-helps-to-heal-the-injured-brain-therapeutic-use
+- fxa100-week02-transcript-duration-949
+- fxa100-week02-web-article-thaut-2010
+- fxa100-week04-transcript-music-therapy-comforts-soothes-those-with-varying
+- fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography
+- fxa301-week03-transcript-youtube-5utv1ergbs8
+- fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians
+- fxa303-week04-fxa303-week-4-introduction
+tags:
+- neural-plasticity
+title: Neural Plasticity
+type: topic
 updated: 2026-05-04
 ---
 

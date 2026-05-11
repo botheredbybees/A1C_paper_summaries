@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Manual Settings in Photography"
 confidence: low
-tags: ["manual-settings"]
+domain: method
+slug: manual-settings-in-photography
 sources:
-  - fxa202-week02-week-2-making-pictures
+- fxa202-week02-week-2-making-pictures
+tags:
+- manual-settings
+title: Manual Settings in Photography
+type: topic
 updated: 2026-05-04
 ---
 

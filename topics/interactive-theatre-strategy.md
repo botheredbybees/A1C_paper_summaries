@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Interactive Theatre Strategy"
 confidence: low
-tags: ["interactive-theatre-strategy"]
+domain: intervention
+slug: interactive-theatre-strategy
 sources:
-  - fxa301-week08-evaluating-the-sharing-stories-youth-theatre-program-an
+- fxa301-week08-evaluating-the-sharing-stories-youth-theatre-program-an
+tags:
+- interactive-theatre-strategy
+title: Interactive Theatre Strategy
+type: topic
 updated: 2026-05-04
 ---
 

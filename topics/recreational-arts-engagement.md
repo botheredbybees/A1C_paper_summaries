@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Recreational Arts Engagement"
 confidence: low
-tags: ["recreational-arts-engagement"]
+domain: intervention
+slug: recreational-arts-engagement
 sources:
-  - fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the
+- fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the
+tags:
+- recreational-arts-engagement
+title: Recreational Arts Engagement
+type: topic
 updated: 2026-05-04
 ---
 

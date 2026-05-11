@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Agency in Young Black Men's Health and Wellbeing"
 confidence: low
-tags: ["agency"]
+domain: intervention
+slug: agency-in-young-black-men-s-health-and-wellbeing
 sources:
-  - fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using
+- fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using
+tags:
+- agency
+title: Agency in Young Black Men's Health and Wellbeing
+type: topic
 updated: 2026-05-04
 ---
 

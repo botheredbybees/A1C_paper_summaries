@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: documentary-ethics
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Documentary Ethics

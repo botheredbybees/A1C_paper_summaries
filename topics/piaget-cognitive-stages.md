@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Piaget's Cognitive Stages"
 confidence: low
-tags: ["piaget-cognitive-stages"]
+domain: theory
+slug: piaget-s-cognitive-stages
 sources:
-  - fxa303-week01-play-therapy-considerations-and-applications-for-the
+- fxa303-week01-play-therapy-considerations-and-applications-for-the
+tags:
+- piaget-cognitive-stages
+title: Piaget's Cognitive Stages
+type: topic
 updated: 2026-05-04
 ---
 

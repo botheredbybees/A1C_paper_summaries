@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Cross-Cultural Understanding"
 confidence: low
-tags: ["cross-cultural-understanding"]
+domain: theory
+slug: cross-cultural-understanding
 sources:
-  - fxa301-week05-naidoc-week-aboriginal-mural-brings-community-together-in
+- fxa301-week05-naidoc-week-aboriginal-mural-brings-community-together-in
+tags:
+- cross-cultural-understanding
+title: Cross-Cultural Understanding
+type: topic
 updated: 2026-05-04
 ---
 

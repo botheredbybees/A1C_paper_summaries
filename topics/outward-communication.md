@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Outward Communication Through Art"
 confidence: medium
-tags: ["outward-communication"]
+domain: intervention
+slug: outward-communication-through-art
 sources:
-  - fxa100-week08-lesson-fxa100-week07-page-2-communication-and-creativity
-  - fxa100-week08-week-8-lecture-art-therapy-in-dementia-care
+- fxa100-week08-lesson-fxa100-week07-page-2-communication-and-creativity
+- fxa100-week08-week-8-lecture-art-therapy-in-dementia-care
+tags:
+- outward-communication
+title: Outward Communication Through Art
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: irelands-call
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Irelands Call

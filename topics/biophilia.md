@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "theory"
-title: "Biophilia"
 confidence: medium
-tags: ["biophilia"]
+domain: theory
+slug: biophilia
 sources:
-  - fxa202-week08-reading-notes-from-biophilia-by-edward-o-wilson
-  - fxa202-week08-week-8-lecture-notes-editing-your-images
+- fxa202-week08-reading-notes-from-biophilia-by-edward-o-wilson
+- fxa202-week08-week-8-lecture-notes-editing-your-images
+tags:
+- biophilia
+title: Biophilia
+type: topic
 updated: 2026-05-04
 ---
 

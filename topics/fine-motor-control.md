@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Fine-Motor Control"
 confidence: low
-tags: ["fine-motor-control"]
+domain: intervention
+slug: fine-motor-control
 sources:
-  - fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental
+- fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental
+tags:
+- fine-motor-control
+title: Fine-Motor Control
+type: topic
 updated: 2026-05-04
 ---
 

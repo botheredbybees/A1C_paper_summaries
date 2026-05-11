@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Contextual Elements in Emotional Reactions to Music"
 confidence: low
-tags: ["contextual-elements"]
+domain: theory
+slug: contextual-elements-in-emotional-reactions-to-music
 sources:
-  - fxa301-week02-an-experience-sampling-study-of-emotional-reactions-to
+- fxa301-week02-an-experience-sampling-study-of-emotional-reactions-to
+tags:
+- contextual-elements
+title: Contextual Elements in Emotional Reactions to Music
+type: topic
 updated: 2026-05-04
 ---
 

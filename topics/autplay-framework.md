@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Autplay Framework"
 confidence: low
-tags: ["autplay-framework"]
+domain: intervention
+slug: autplay-framework
 sources:
-  - fxa303-week04-play-interventions-for-neurodivergent-children-and
+- fxa303-week04-play-interventions-for-neurodivergent-children-and
+tags:
+- autplay-framework
+title: Autplay Framework
+type: topic
 updated: 2026-05-04
 ---
 

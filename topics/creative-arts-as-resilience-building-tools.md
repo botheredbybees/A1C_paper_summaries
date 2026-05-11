@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Arts As Resilience Building Tools"
 confidence: low
-tags: ["creative-arts-as-resilience-building-tools"]
+domain: intervention
+slug: creative-arts-as-resilience-building-tools
 sources:
-  - fxa301-week10-lesson-fxa301-week10-page-3
+- fxa301-week10-lesson-fxa301-week10-page-3
+tags:
+- creative-arts-as-resilience-building-tools
+title: Creative Arts As Resilience Building Tools
+type: topic
 updated: 2026-05-04
 ---
 

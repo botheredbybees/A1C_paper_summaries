@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Beauty Perception and Pleasure"
 confidence: low
-tags: ["beauty-perception"]
+domain: theory
+slug: beauty-perception-and-pleasure
 sources:
-  - fxa100-week06-transcript-art-gives-same-level-of-pleasure-as-being-in-love
+- fxa100-week06-transcript-art-gives-same-level-of-pleasure-as-being-in-love
+tags:
+- beauty-perception
+title: Beauty Perception and Pleasure
+type: topic
 updated: 2026-05-04
 ---
 

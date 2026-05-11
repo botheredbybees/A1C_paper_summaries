@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Research-Driven Interventions"
 confidence: low
-tags: ["research-driven-interventions"]
+domain: intervention
+slug: research-driven-interventions
 sources:
-  - fxa303-week04-educating-students-with-autism-spectrum-disorders
+- fxa303-week04-educating-students-with-autism-spectrum-disorders
+tags:
+- research-driven-interventions
+title: Research-Driven Interventions
+type: topic
 updated: 2026-05-04
 ---
 

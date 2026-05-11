@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Kitwood's Equation"
 confidence: low
-tags: ["kitwoods-equation"]
+domain: theory
+slug: kitwood-s-equation
 sources:
-  - fxa100-excellence-in-dementia-care--ch10-chapter-15
+- fxa100-excellence-in-dementia-care--ch10-chapter-15
+tags:
+- kitwoods-equation
+title: Kitwood's Equation
+type: topic
 updated: 2026-05-04
 ---
 

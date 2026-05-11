@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "The Left-Brain Right-Brain Myth"
 confidence: low
-tags: ["left-brain-right-brain-myth"]
+domain: theory
+slug: the-left-brain-right-brain-myth
 sources:
-  - fxa100-week02-lesson-fxa100-week02-page-2-hearing-and-music
+- fxa100-week02-lesson-fxa100-week02-page-2-hearing-and-music
+tags:
+- left-brain-right-brain-myth
+title: The Left-Brain Right-Brain Myth
+type: topic
 updated: 2026-05-04
 ---
 

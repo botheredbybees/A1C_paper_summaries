@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Interaction Between Words And Images"
 confidence: low
-tags: ["interaction-between-words-and-images"]
+domain: theory
+slug: interaction-between-words-and-images
 sources:
-  - fxa202-week01-lesson-fxa202-week01-week-1
+- fxa202-week01-lesson-fxa202-week01-week-1
+tags:
+- interaction-between-words-and-images
+title: Interaction Between Words And Images
+type: topic
 updated: 2026-05-04
 ---
 

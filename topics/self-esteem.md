@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "intervention"
-title: "Self-Esteem Enhancement Programs"
 confidence: medium
-tags: ["self-esteem"]
+domain: intervention
+slug: self-esteem-enhancement-programs
 sources:
-  - fxa301-week06-dance-4-your-life-exploring-the-health-and-well-being
-  - fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using
-  - fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope
+- fxa301-week06-dance-4-your-life-exploring-the-health-and-well-being
+- fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using
+- fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope
+tags:
+- self-esteem
+title: Self-Esteem Enhancement Programs
+type: topic
 updated: 2026-05-04
 ---
 

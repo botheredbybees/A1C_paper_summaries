@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Executive Function in Adolescent Development"
 confidence: low
-tags: ["executive-function"]
+domain: theory
+slug: executive-function-in-adolescent-development
 sources:
-  - fxa303-week03-brain-development-during-adolescence
+- fxa303-week03-brain-development-during-adolescence
+tags:
+- executive-function
+title: Executive Function in Adolescent Development
+type: topic
 updated: 2026-05-04
 ---
 

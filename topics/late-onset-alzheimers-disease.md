@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Late-Onset Alzheimer's Disease"
 confidence: low
-tags: ["late-onset-alzheimers-disease"]
+domain: population
+slug: late-onset-alzheimer-s-disease
 sources:
-  - fxa100-week07-dementia-in-our-mob-and-around-the-world
+- fxa100-week07-dementia-in-our-mob-and-around-the-world
+tags:
+- late-onset-alzheimers-disease
+title: Late-Onset Alzheimer's Disease
+type: topic
 updated: 2026-05-04
 ---
 

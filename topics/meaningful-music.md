@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music Therapy for Dementia Patients"
 confidence: low
-tags: ["meaningful-music"]
+domain: intervention
+slug: music-therapy-for-dementia-patients
 sources:
-  - fxa100-week04-transcript-music-therapy-with-dementia-canadian-music
+- fxa100-week04-transcript-music-therapy-with-dementia-canadian-music
+tags:
+- meaningful-music
+title: Music Therapy for Dementia Patients
+type: topic
 updated: 2026-05-04
 ---
 

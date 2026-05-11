@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Mental Health Benefits"
 confidence: medium
-tags: ["mental-health-benefits"]
+domain: intervention
+slug: mental-health-benefits
 sources:
-  - fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing
-  - fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a
+- fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing
+- fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a
+tags:
+- mental-health-benefits
+title: Mental Health Benefits
+type: topic
 updated: 2026-05-04
 ---
 

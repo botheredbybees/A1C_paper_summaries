@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Symphony No. 9"
 confidence: low
-tags: ["symphony-no-9"]
+domain: intervention
+slug: symphony-no-9
 sources:
-  - fxa100-week02-transcript-beethoven-symphony-no-9-fourth-movement-url-only
+- fxa100-week02-transcript-beethoven-symphony-no-9-fourth-movement-url-only
+tags:
+- symphony-no-9
+title: Symphony No. 9
+type: topic
 updated: 2026-05-04
 ---
 

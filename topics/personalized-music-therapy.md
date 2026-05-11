@@ -1,14 +1,16 @@
 ---
-type: topic
-domain: "intervention"
-title: "Personalized Music Therapy"
 confidence: high
-tags: ["personalized-music-therapy"]
+domain: intervention
+slug: personalized-music-therapy
 sources:
-  - fxa100-week03-final-report-wisconsin-music-memory-program-student
-  - fxa100-week03-implementation-survey-results-wisconsin-music-memory-program
-  - fxa100-week03-music-memory-the-ipod-project-video-transcript
-  - fxa100-week03-transcript-music-memory-the-ipod-project
+- fxa100-week03-final-report-wisconsin-music-memory-program-student
+- fxa100-week03-implementation-survey-results-wisconsin-music-memory-program
+- fxa100-week03-music-memory-the-ipod-project-video-transcript
+- fxa100-week03-transcript-music-memory-the-ipod-project
+tags:
+- personalized-music-therapy
+title: Personalized Music Therapy
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "method"
-title: "Survey Research in Creative and Behavioral Studies"
 confidence: medium
-tags: ["survey-research"]
+domain: method
+slug: survey-research-in-creative-and-behavioral-studies
 sources:
   - fxa301-week01-web-article-australia-2023
   - fxa301-week05-an-education-in-music-makes-you-a-better-employee-are
   - fxa303-week08-fear-of-clowns-an-investigation-into-the-aetiology-of
-updated: 2026-05-04
+- fxa301-week01-web-article-australia-2023
+- fxa301-week05-an-education-in-music-makes-you-a-better-employee-are
+- fxa303-week08-fear-of-clowns-an-investigation-into-the-aetiology-of
+tags:
+- survey-research
+title: Survey Research in Creative and Behavioral Studies
+type: topic
+updated: 2026-05-11
 ---
 
 ## Survey Research in Creative and Behavioral Studies

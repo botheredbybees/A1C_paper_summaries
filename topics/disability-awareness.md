@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Disability Awareness and Etiquette"
 confidence: medium
-tags: ["disability-awareness"]
+domain: intervention
+slug: disability-awareness-and-etiquette
 sources:
   - fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions
   - fxa301-week09-lesson-fxa301-week09-page-4-week-3-activities
-updated: 2026-05-04
+- fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions
+- fxa301-week09-lesson-fxa301-week09-page-4-week-3-activities
+tags:
+- disability-awareness
+title: Disability Awareness and Etiquette
+type: topic
+updated: 2026-05-11
 ---
 
 ## Disability Awareness and Etiquette

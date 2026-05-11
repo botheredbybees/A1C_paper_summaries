@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Value"
 confidence: medium
-tags: ["therapeutic-value"]
+domain: intervention
+slug: therapeutic-value
 sources:
-  - fxa202-week09-noticing-a-photo-essay
-  - fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods
+- fxa202-week09-noticing-a-photo-essay
+- fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods
+tags:
+- therapeutic-value
+title: Therapeutic Value
+type: topic
 updated: 2026-05-04
 ---
 

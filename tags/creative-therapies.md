@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-therapies
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Creative Therapies
@@ -16,3 +16,4 @@ updated: 2026-05-06
 - [FXA301 Week 10 Lecture](../sources/fxa301-week10-fxa301-week-10-lecture.md)
 - [Case Studies of Therapeutic Creative Arts for Eating Disorders and Trauma](../sources/fxa301-week10-lesson-fxa301-week10-page-3.md)
 - [Effectiveness of the Puppet Show and Storytelling Methods on Children\u2019s Behavioral Problems](../sources/fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods.md)
+- [Arts in Criminal Justice and Corrections: International Perspectives on Methods](../sources/fxa303-week11-arts-in-criminal-justice-and-corrections-international.md)

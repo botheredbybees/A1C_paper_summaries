@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Intergenerational Partnerships"
 confidence: low
-tags: ["intergenerational-partnerships"]
+domain: intervention
+slug: intergenerational-partnerships
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30
+- fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30
+tags:
+- intergenerational-partnerships
+title: Intergenerational Partnerships
+type: topic
 updated: 2026-05-04
 ---
 

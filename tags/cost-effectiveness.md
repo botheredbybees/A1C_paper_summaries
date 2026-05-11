@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cost-effectiveness
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Cost Effectiveness

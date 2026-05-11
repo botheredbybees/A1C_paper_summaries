@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Dementia Awareness in Museums"
 confidence: low
-tags: ["dementia-awareness-in-museums"]
+domain: intervention
+slug: dementia-awareness-in-museums
 sources:
-  - fxa100-week07-lesson-fxa100-week07-page-2-artz-artists-for-alzheimer-s
+- fxa100-week07-lesson-fxa100-week07-page-2-artz-artists-for-alzheimer-s
+tags:
+- dementia-awareness-in-museums
+title: Dementia Awareness in Museums
+type: topic
 updated: 2026-05-04
 ---
 

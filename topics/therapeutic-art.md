@@ -1,14 +1,20 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Art"
 confidence: medium
-tags: ["therapeutic-art"]
+domain: intervention
+slug: therapeutic-art
 sources:
   - fxa100-week07-for-visitors-with-dementia
   - fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay
   - fxa301-week05-lesson-fxa301-week05-page-1
-updated: 2026-05-05
+  - fxa301-week11-refugee-art-expressing-experience-through-creativity
+- fxa100-week07-for-visitors-with-dementia
+- fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay
+- fxa301-week05-lesson-fxa301-week05-page-1
+tags:
+- therapeutic-art
+title: Therapeutic Art
+type: topic
+updated: 2026-05-11
 ---
 
 ## Therapeutic Art
@@ -30,3 +36,4 @@ The integration of art as a therapeutic intervention highlights its multifaceted
 - [fxa100-week07-for-visitors-with-dementia](../sources/fxa100-week07-for-visitors-with-dementia.md)
 - [fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay](../sources/fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay.md)
 - [fxa301-week05-lesson-fxa301-week05-page-1](../sources/fxa301-week05-lesson-fxa301-week05-page-1.md)
+- [fxa301-week11-refugee-art-expressing-experience-through-creativity](../sources/fxa301-week11-refugee-art-expressing-experience-through-creativity.md)

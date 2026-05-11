@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Emergence Of Modern Science"
 confidence: low
-tags: ["emergence-of-modern-science"]
+domain: theory
+slug: emergence-of-modern-science
 sources:
-  - fxa301-week06-from-the-quadrivium-to-modern-science
+- fxa301-week06-from-the-quadrivium-to-modern-science
+tags:
+- emergence-of-modern-science
+title: Emergence Of Modern Science
+type: topic
 updated: 2026-05-04
 ---
 

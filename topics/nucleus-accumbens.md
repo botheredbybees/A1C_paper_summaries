@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "theory"
-title: "Nucleus Accumbens in Reward and Emotional Processing"
 confidence: medium
-tags: ["nucleus-accumbens"]
+domain: theory
+slug: nucleus-accumbens-in-reward-and-emotional-processing
 sources:
-  - fxa301-week01-transcript-two-minute-neuroscience-reward-system
-  - fxa301-week08-the-emotional-power-of-poetry-neural-circuitry
+- fxa301-week01-transcript-two-minute-neuroscience-reward-system
+- fxa301-week08-the-emotional-power-of-poetry-neural-circuitry
+tags:
+- nucleus-accumbens
+title: Nucleus Accumbens in Reward and Emotional Processing
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Cognitive Accommodation"
 confidence: low
-tags: ["cognitive-accommodation"]
+domain: theory
+slug: cognitive-accommodation
 sources:
-  - fxa301-week02-the-nature-of-awe-elicitors-appraisals-and-effects-on-self
+- fxa301-week02-the-nature-of-awe-elicitors-appraisals-and-effects-on-self
+tags:
+- cognitive-accommodation
+title: Cognitive Accommodation
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Functional Outcomes in Respiratory Health"
 confidence: low
-tags: ["functional-outcomes"]
+domain: intervention
+slug: functional-outcomes-in-respiratory-health
 sources:
-  - fxa100-week04-the-singers-breath-implications-for-treatment-of-persons
+- fxa100-week04-the-singers-breath-implications-for-treatment-of-persons
+tags:
+- functional-outcomes
+title: Functional Outcomes in Respiratory Health
+type: topic
 updated: 2026-05-04
 ---
 

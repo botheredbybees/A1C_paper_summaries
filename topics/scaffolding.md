@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Scaffolding in Child Development"
 confidence: low
-tags: ["scaffolding"]
+domain: intervention
+slug: scaffolding-in-child-development
 sources:
-  - fxa303-week02-lesson-fxa303-week02-introduction
+- fxa303-week02-lesson-fxa303-week02-introduction
+tags:
+- scaffolding
+title: Scaffolding in Child Development
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "intervention"
-title: "El Sistema"
 confidence: medium
-tags: ["el-sistema"]
+domain: intervention
+slug: el-sistema
 sources:
-  - fxa301-week06-engaging-with-music-and-dance
-  - fxa301-week06-lesson-fxa301-week06-page-2
-  - fxa301-week06-transcript-el-sistema-trailer-for-film-2008-url-only
+- fxa301-week06-engaging-with-music-and-dance
+- fxa301-week06-lesson-fxa301-week06-page-2
+- fxa301-week06-transcript-el-sistema-trailer-for-film-2008-url-only
+tags:
+- el-sistema
+title: El Sistema
+type: topic
 updated: 2026-05-04
 ---
 

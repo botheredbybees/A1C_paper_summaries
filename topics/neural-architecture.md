@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "theory"
-title: "Neural Architecture in Development and Psychotherapy"
 confidence: medium
-tags: ["neural-architecture"]
+domain: theory
+slug: neural-architecture-in-development-and-psychotherapy
 sources:
-  - fxa303-week02-child-development-fxa303-creative-arts-play-and-mental
-  - fxa303-week03-rebuilding-the-brain-with-psychotherapy
+- fxa303-week02-child-development-fxa303-creative-arts-play-and-mental
+- fxa303-week03-rebuilding-the-brain-with-psychotherapy
+tags:
+- neural-architecture
+title: Neural Architecture in Development and Psychotherapy
+type: topic
 updated: 2026-05-04
 ---
 

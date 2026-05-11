@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "theory"
-title: "Cross-Cultural Research Invariants"
 confidence: medium
-tags: ["cross-cultural-research"]
+domain: theory
+slug: cross-cultural-research-invariants
 sources:
   - fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and
   - fxa100-week08-development-of-a-novel-benchmark-method-to-identify-and
   - fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in
   - fxa303-week10-indigenous-and-traditional-visual-artistic-practices
-updated: 2026-05-05
+- fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and
+- fxa100-week08-development-of-a-novel-benchmark-method-to-identify-and
+- fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in
+- fxa303-week10-indigenous-and-traditional-visual-artistic-practices
+tags:
+- cross-cultural-research
+title: Cross-Cultural Research Invariants
+type: topic
+updated: 2026-05-11
 ---
 
 ## Cross-Cultural Research Invariants

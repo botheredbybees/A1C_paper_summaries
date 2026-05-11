@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Symptoms in Adolescent Refugees"
 confidence: low
-tags: ["emotional-symptoms"]
+domain: intervention
+slug: emotional-symptoms-in-adolescent-refugees
 sources:
-  - fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy
+- fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy
+tags:
+- emotional-symptoms
+title: Emotional Symptoms in Adolescent Refugees
+type: topic
 updated: 2026-05-04
 ---
 

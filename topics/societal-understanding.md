@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Disability-Led Theatre"
 confidence: low
-tags: ["societal-understanding"]
+domain: intervention
+slug: disability-led-theatre
 sources:
-  - fxa301-week09-the-importance-of-disability-led-theatre
+- fxa301-week09-the-importance-of-disability-led-theatre
+tags:
+- societal-understanding
+title: Disability-Led Theatre
+type: topic
 updated: 2026-05-04
 ---
 

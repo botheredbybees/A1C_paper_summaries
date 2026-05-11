@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Relational Perspectives in Dementia Care"
 confidence: low
-tags: ["relational-perspectives"]
+domain: intervention
+slug: relational-perspectives-in-dementia-care
 sources:
-  - fxa100-week08-unlocking-the-door-to-being-there-the-contribution-of
+- fxa100-week08-unlocking-the-door-to-being-there-the-contribution-of
+tags:
+- relational-perspectives
+title: Relational Perspectives in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

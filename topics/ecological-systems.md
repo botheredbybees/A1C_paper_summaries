@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Ecological Systems"
 confidence: low
-tags: ["ecological-systems"]
+domain: theory
+slug: ecological-systems
 sources:
-  - fxa202-week08-reading-notes-from-biophilia-by-edward-o-wilson
+- fxa202-week08-reading-notes-from-biophilia-by-edward-o-wilson
+tags:
+- ecological-systems
+title: Ecological Systems
+type: topic
 updated: 2026-05-04
 ---
 

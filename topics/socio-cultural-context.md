@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Socio-Cultural Context in Dementia Care"
 confidence: low
-tags: ["socio-cultural-context"]
+domain: intervention
+slug: socio-cultural-context-in-dementia-care
 sources:
-  - fxa100-week07-dementia-and-our-mob-caring-for-spirit
+- fxa100-week07-dementia-and-our-mob-caring-for-spirit
+tags:
+- socio-cultural-context
+title: Socio-Cultural Context in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Visual Information Processing"
 confidence: low
-tags: ["visual-information-processing"]
+domain: theory
+slug: visual-information-processing
 sources:
-  - fxa100-week06-brain-activities-in-a-skilled-versus-a-novice-artist-an
+- fxa100-week06-brain-activities-in-a-skilled-versus-a-novice-artist-an
+tags:
+- visual-information-processing
+title: Visual Information Processing
+type: topic
 updated: 2026-05-04
 ---
 

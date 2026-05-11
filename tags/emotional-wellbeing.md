@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotional-wellbeing
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Emotional Wellbeing
@@ -10,6 +10,7 @@ updated: 2026-05-06
 - [Week 3 Activities - FXA100 The Arts and Dementia Care](../sources/fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care.md)
 - [Welcome to Week 3 - FXA100 The Arts and Dementia Care](../sources/fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care.md)
 - [Music Therapy and Dementia video - transcript](../sources/fxa100-week04-music-therapy-and-dementia-video-transcript.md)
+- [Efficacy of Creative Arts Therapy in Treatment of Alzheimer\u2019s Disease and Dementia: A Systematic Literature Review](../sources/fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of.md)
 - [Winding paths: A Photo Essay on Emotional Health During Lockdown](../sources/fxa202-week06-winding-paths-a-photo-essay-on-emotional-health-during.md)
 - [5 Benefits of Journaling for Mental Health](../sources/fxa202-week09-5-benefits-of-journaling-for-mental-health.md)
 - [Noticing: A Photo Essay](../sources/fxa202-week09-noticing-a-photo-essay.md)

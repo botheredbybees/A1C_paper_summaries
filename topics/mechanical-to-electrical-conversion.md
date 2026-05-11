@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Mechanical-to-Electrical Conversion in Hearing"
 confidence: low
-tags: ["mechanical-to-electrical-conversion"]
+domain: intervention
+slug: mechanical-to-electrical-conversion-in-hearing
 sources:
-  - fxa100-week02-transcript-how-the-ear-and-hearing-works-from-med-el-view
+- fxa100-week02-transcript-how-the-ear-and-hearing-works-from-med-el-view
+tags:
+- mechanical-to-electrical-conversion
+title: Mechanical-to-Electrical Conversion in Hearing
+type: topic
 updated: 2026-05-04
 ---
 

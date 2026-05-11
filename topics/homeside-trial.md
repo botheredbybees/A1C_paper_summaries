@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music Therapy in Dementia Care Pathways"
 confidence: medium
-tags: ["homeside-trial"]
+domain: intervention
+slug: music-therapy-in-dementia-care-pathways
 sources:
-  - fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for
-  - fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-(2)
+- fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for
+- fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-(2)
+tags:
+- homeside-trial
+title: Music Therapy in Dementia Care Pathways
+type: topic
 updated: 2026-05-04
 ---
 

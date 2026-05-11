@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Disabilities"
 confidence: low
-tags: ["disabilities"]
+domain: population
+slug: disabilities
 sources:
-  - fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions
+- fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions
+tags:
+- disabilities
+title: Disabilities
+type: topic
 updated: 2026-05-04
 ---
 

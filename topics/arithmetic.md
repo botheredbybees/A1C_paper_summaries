@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Arithmetic"
 confidence: low
-tags: ["arithmetic"]
+domain: theory
+slug: arithmetic
 sources:
-  - fxa301-week06-quadrivium-the-noble-fourfold-way-to-an-understanding-of
+- fxa301-week06-quadrivium-the-noble-fourfold-way-to-an-understanding-of
+tags:
+- arithmetic
+title: Arithmetic
+type: topic
 updated: 2026-05-04
 ---
 

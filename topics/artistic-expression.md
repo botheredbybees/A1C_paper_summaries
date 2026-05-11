@@ -1,15 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Artistic Expression in Dementia Care"
 confidence: high
-tags: ["artistic-expression"]
+domain: intervention
+slug: artistic-expression-in-dementia-care
 sources:
-  - fxa100-excellence-in-dementia-care--ch01-chapter-10
-  - fxa100-week08-transcript-hayes-j-2011-the-creative-arts-in-dementia-care
-  - fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas
-  - fxa303-week02-lesson-fxa303-week02-topic-20-20activities-202-copy
-updated: 2026-05-04
+  - fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers
+  - fxa303-week11-artistic-expression-as-a-source-of-resilience-for
+- fxa100-excellence-in-dementia-care--ch01-chapter-10
+- fxa100-week08-transcript-hayes-j-2011-the-creative-arts-in-dementia-care
+- fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas
+- fxa303-week02-lesson-fxa303-week02-topic-20-20activities-202-copy
+tags:
+- artistic-expression
+title: Artistic Expression in Dementia Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Artistic Expression in Dementia Care
@@ -28,7 +32,5 @@ The integration of artistic expression into dementia care is a multidimensional 
 
 ## Sources
 
-- [fxa100-excellence-in-dementia-care--ch01-chapter-10](../sources/fxa100-excellence-in-dementia-care--ch01-chapter-10.md)
-- [fxa100-week08-transcript-hayes-j-2011-the-creative-arts-in-dementia-care](../sources/fxa100-week08-transcript-hayes-j-2011-the-creative-arts-in-dementia-care.md)
-- [fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas](../sources/fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas.md)
-- [fxa303-week02-lesson-fxa303-week02-topic-20-20activities-202-copy](../sources/fxa303-week02-lesson-fxa303-week02-topic-20-20activities-202-copy.md)
+- [fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers](../sources/fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers.md)
+- [fxa303-week11-artistic-expression-as-a-source-of-resilience-for](../sources/fxa303-week11-artistic-expression-as-a-source-of-resilience-for.md)

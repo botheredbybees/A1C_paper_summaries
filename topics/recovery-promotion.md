@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Recovery-Oriented Language"
 confidence: low
-tags: ["recovery-promotion"]
+domain: intervention
+slug: recovery-oriented-language
 sources:
-  - fxa303-week09-recovery-oriented-language-guide
+- fxa303-week09-recovery-oriented-language-guide
+tags:
+- recovery-promotion
+title: Recovery-Oriented Language
+type: topic
 updated: 2026-05-04
 ---
 

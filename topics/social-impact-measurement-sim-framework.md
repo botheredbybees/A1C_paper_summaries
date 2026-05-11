@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Social Impact Measurement Framework"
 confidence: low
-tags: ["social-impact-measurement-sim-framework"]
+domain: method
+slug: social-impact-measurement-framework
 sources:
-  - fxa301-week08-impact-summary-clown-doctors-australia
+- fxa301-week08-impact-summary-clown-doctors-australia
+tags:
+- social-impact-measurement-sim-framework
+title: Social Impact Measurement Framework
+type: topic
 updated: 2026-05-04
 ---
 

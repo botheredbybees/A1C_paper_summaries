@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Coping Mechanisms Through Creative Expression"
 confidence: medium
-tags: ["coping-mechanisms"]
+domain: intervention
+slug: coping-mechanisms-through-creative-expression
 sources:
-  - fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas
-  - fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the
+- fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas
+- fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the
+tags:
+- coping-mechanisms
+title: Coping Mechanisms Through Creative Expression
+type: topic
 updated: 2026-05-04
 ---
 

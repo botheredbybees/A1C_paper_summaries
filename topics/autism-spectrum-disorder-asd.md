@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "intervention"
-title: "Interventions for Children with Autism Spectrum Disorder"
 confidence: medium
-tags: ["autism-spectrum-disorder-asd"]
+domain: intervention
+slug: interventions-for-children-with-autism-spectrum-disorder
 sources:
-  - fxa303-week04-autism-spectrum-disorder
-  - fxa303-week04-child-centered-play-therapy-as-an-intervention-for-children
-  - fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism
+- fxa303-week04-autism-spectrum-disorder
+- fxa303-week04-child-centered-play-therapy-as-an-intervention-for-children
+- fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism
+tags:
+- autism-spectrum-disorder-asd
+title: Interventions for Children with Autism Spectrum Disorder
+type: topic
 updated: 2026-05-04
 ---
 

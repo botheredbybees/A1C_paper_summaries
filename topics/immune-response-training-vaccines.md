@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Immune Response Training Vaccines"
 confidence: low
-tags: ["immune-response-training-vaccines"]
+domain: intervention
+slug: immune-response-training-vaccines
 sources:
-  - fxa100-week01-what-is-alzheimers-disease-video-transcript
+- fxa100-week01-what-is-alzheimers-disease-video-transcript
+tags:
+- immune-response-training-vaccines
+title: Immune Response Training Vaccines
+type: topic
 updated: 2026-05-04
 ---
 

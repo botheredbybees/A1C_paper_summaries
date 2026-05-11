@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurology-and-religion
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Neurology And Religion

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Arts In Health"
 confidence: low
-tags: ["arts-in-health-diamond"]
+domain: theory
+slug: arts-in-health
 sources:
-  - fxa301-arts-in-health-ch19-36-abc-national-cultural-policy-submission
+- fxa301-arts-in-health-ch19-36-abc-national-cultural-policy-submission
+tags:
+- arts-in-health-diamond
+title: Arts In Health
+type: topic
 updated: 2026-05-04
 ---
 

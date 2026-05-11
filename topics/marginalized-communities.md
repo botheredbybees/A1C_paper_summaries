@@ -1,12 +1,16 @@
 ---
-type: topic
-domain: "intervention"
-title: "Marginalized Communities Through an Arts-Informed Lens"
 confidence: low
-tags: ["marginalized-communities"]
+domain: intervention
+slug: marginalized-communities-through-an-arts-informed-lens
 sources:
-  - fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to
-updated: 2026-05-04
+  - fxa301-week01-making-art-with-communities-a-work-guide
+  - fxa303-week11-artistic-expression-as-a-source-of-resilience-for
+- fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to
+tags:
+- marginalized-communities
+title: Marginalized Communities Through an Arts-Informed Lens
+type: topic
+updated: 2026-05-11
 ---
 
 ## Marginalized Communities Through an Arts-Informed Lens
@@ -25,4 +29,5 @@ The utilization of arts-informed research methods to study the experiences and s
 
 ## Sources
 
-- [fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to](../sources/fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to.md)
+- [fxa301-week01-making-art-with-communities-a-work-guide](../sources/fxa301-week01-making-art-with-communities-a-work-guide.md)
+- [fxa303-week11-artistic-expression-as-a-source-of-resilience-for](../sources/fxa303-week11-artistic-expression-as-a-source-of-resilience-for.md)

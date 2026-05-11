@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Performance Practice"
 confidence: low
-tags: ["performance-practice"]
+domain: intervention
+slug: performance-practice
 sources:
-  - fxa100-week09-transcript-this-video-by-theater-veder-netherlands-gives-an
+- fxa100-week09-transcript-this-video-by-theater-veder-netherlands-gives-an
+tags:
+- performance-practice
+title: Performance Practice
+type: topic
 updated: 2026-05-04
 ---
 

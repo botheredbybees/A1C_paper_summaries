@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Futures Fund"
 confidence: low
-tags: ["creative-futures-fund"]
+domain: intervention
+slug: creative-futures-fund
 sources:
-  - fxa301-week01-web-article-mcgann-2024
+- fxa301-week01-web-article-mcgann-2024
+tags:
+- creative-futures-fund
+title: Creative Futures Fund
+type: topic
 updated: 2026-05-04
 ---
 

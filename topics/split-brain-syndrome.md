@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Split-Brain Syndrome"
 confidence: low
-tags: ["split-brain-syndrome"]
+domain: intervention
+slug: split-brain-syndrome
 sources:
-  - fxa100-week02-transcript-in-the-video-hank-green-from-the-scishow-explains
+- fxa100-week02-transcript-in-the-video-hank-green-from-the-scishow-explains
+tags:
+- split-brain-syndrome
+title: Split-Brain Syndrome
+type: topic
 updated: 2026-05-04
 ---
 

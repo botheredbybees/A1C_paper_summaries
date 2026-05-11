@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Engagement Through Puppets"
 confidence: low
-tags: ["therapeutic-engagement-through-puppets"]
+domain: intervention
+slug: therapeutic-engagement-through-puppets
 sources:
-  - fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice
+- fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice
+tags:
+- therapeutic-engagement-through-puppets
+title: Therapeutic Engagement Through Puppets
+type: topic
 updated: 2026-05-04
 ---
 

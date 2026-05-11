@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Ode To Joy"
 confidence: low
-tags: ["ode-to-joy"]
+domain: theory
+slug: ode-to-joy
 sources:
-  - fxa100-week02-transcript-beethoven-symphony-no-9-fourth-movement-url-only
+- fxa100-week02-transcript-beethoven-symphony-no-9-fourth-movement-url-only
+tags:
+- ode-to-joy
+title: Ode To Joy
+type: topic
 updated: 2026-05-04
 ---
 

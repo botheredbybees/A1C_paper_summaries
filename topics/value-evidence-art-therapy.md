@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Value and Evidence in Art Therapy"
 confidence: low
-tags: ["value-evidence-art-therapy"]
+domain: intervention
+slug: value-and-evidence-in-art-therapy
 sources:
-  - fxa303-week09-working-with-trauma-expanding-examining-and-evidencing-the
+- fxa303-week09-working-with-trauma-expanding-examining-and-evidencing-the
+tags:
+- value-evidence-art-therapy
+title: Value and Evidence in Art Therapy
+type: topic
 updated: 2026-05-04
 ---
 

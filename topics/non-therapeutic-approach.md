@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Non-Therapeutic Approach in Creative Arts Therapy"
 confidence: low
-tags: ["non-therapeutic-approach"]
+domain: intervention
+slug: non-therapeutic-approach-in-creative-arts-therapy
 sources:
-  - fxa301-week10-fxa301-week-10-lecture
+- fxa301-week10-fxa301-week-10-lecture
+tags:
+- non-therapeutic-approach
+title: Non-Therapeutic Approach in Creative Arts Therapy
+type: topic
 updated: 2026-05-04
 ---
 

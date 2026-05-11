@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cultural Diversity in Education"
 confidence: low
-tags: ["cultural-diversity-in-education"]
+domain: intervention
+slug: cultural-diversity-in-education
 sources:
-  - fxa301-week08-evaluating-the-sharing-stories-youth-theatre-program-an
+- fxa301-week08-evaluating-the-sharing-stories-youth-theatre-program-an
+tags:
+- cultural-diversity-in-education
+title: Cultural Diversity in Education
+type: topic
 updated: 2026-05-04
 ---
 

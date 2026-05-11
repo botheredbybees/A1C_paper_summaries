@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Multidisciplinary Perspectives on Arts and Refugees"
 confidence: low
-tags: ["multidisciplinary-perspectives"]
+domain: intervention
+slug: multidisciplinary-perspectives-on-arts-and-refugees
 sources:
-  - fxa303-week10-arts-and-refugees-multidisciplinary-perspectives-vol-2
+- fxa303-week10-arts-and-refugees-multidisciplinary-perspectives-vol-2
+tags:
+- multidisciplinary-perspectives
+title: Multidisciplinary Perspectives on Arts and Refugees
+type: topic
 updated: 2026-05-04
 ---
 

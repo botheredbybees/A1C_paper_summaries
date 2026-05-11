@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Enhancing Well-Being Through The Arts"
 confidence: low
-tags: ["enhancing-well-being"]
+domain: intervention
+slug: enhancing-well-being-through-the-arts
 sources:
-  - fxa100-week08-why-the-arts
+- fxa100-week08-why-the-arts
+tags:
+- enhancing-well-being
+title: Enhancing Well-Being Through The Arts
+type: topic
 updated: 2026-05-04
 ---
 

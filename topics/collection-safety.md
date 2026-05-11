@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Collection Safety in Healthcare Settings"
 confidence: low
-tags: ["collection-safety"]
+domain: method
+slug: collection-safety-in-healthcare-settings
 sources:
-  - fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-(2)
+- fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-(2)
+tags:
+- collection-safety
+title: Collection Safety in Healthcare Settings
+type: topic
 updated: 2026-05-04
 ---
 

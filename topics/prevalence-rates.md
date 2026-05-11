@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Prevalence Rates of Dementia"
 confidence: low
-tags: ["prevalence-rates"]
+domain: population
+slug: prevalence-rates-of-dementia
 sources:
-  - fxa100-week01-dementia-facts-and-figures
+- fxa100-week01-dementia-facts-and-figures
+tags:
+- prevalence-rates
+title: Prevalence Rates of Dementia
+type: topic
 updated: 2026-05-04
 ---
 

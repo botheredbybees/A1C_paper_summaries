@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional And Physical Reactions To Disaster"
 confidence: low
-tags: ["emotional-and-physical-reactions-to-disaster"]
+domain: intervention
+slug: emotional-and-physical-reactions-to-disaster
 sources:
-  - fxa303-week09-psychological-first-aid-supporting-people-affected-by
+- fxa303-week09-psychological-first-aid-supporting-people-affected-by
+tags:
+- emotional-and-physical-reactions-to-disaster
+title: Emotional And Physical Reactions To Disaster
+type: topic
 updated: 2026-05-04
 ---
 

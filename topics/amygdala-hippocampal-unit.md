@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Amygdala Hippocampal Unit"
 confidence: low
-tags: ["amygdala-hippocampal-unit"]
+domain: intervention
+slug: amygdala-hippocampal-unit
 sources:
-  - fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and
+- fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and
+tags:
+- amygdala-hippocampal-unit
+title: Amygdala Hippocampal Unit
+type: topic
 updated: 2026-05-04
 ---
 

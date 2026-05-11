@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "method"
-title: "Establishing Shots in Visual Storytelling"
 confidence: medium
-tags: ["establishing-shots"]
+domain: method
+slug: establishing-shots-in-visual-storytelling
 sources:
-  - fxa202-week05-lesson-fxa202-week05-week-5
-  - fxa202-week06-week-six-lecture-components-of-visual-storytelling
+- fxa202-week05-lesson-fxa202-week05-week-5
+- fxa202-week06-week-six-lecture-components-of-visual-storytelling
+tags:
+- establishing-shots
+title: Establishing Shots in Visual Storytelling
+type: topic
 updated: 2026-05-04
 ---
 

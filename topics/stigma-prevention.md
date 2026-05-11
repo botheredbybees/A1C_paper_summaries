@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Stigma Prevention"
 confidence: low
-tags: ["stigma-prevention"]
+domain: intervention
+slug: stigma-prevention
 sources:
-  - fxa303-week09-recovery-oriented-language-guide
+- fxa303-week09-recovery-oriented-language-guide
+tags:
+- stigma-prevention
+title: Stigma Prevention
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Skills Development"
 confidence: low
-tags: ["emotional-skills"]
+domain: intervention
+slug: emotional-skills-development
 sources:
-  - fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental
+- fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental
+tags:
+- emotional-skills
+title: Emotional Skills Development
+type: topic
 updated: 2026-05-04
 ---
 

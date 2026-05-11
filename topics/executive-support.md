@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Executive Support in Dementia Care"
 confidence: low
-tags: ["executive-support"]
+domain: intervention
+slug: executive-support-in-dementia-care
 sources:
-  - fxa100-week09-implementing-living-room-theatre-activities-for-people-with
+- fxa100-week09-implementing-living-room-theatre-activities-for-people-with
+tags:
+- executive-support
+title: Executive Support in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

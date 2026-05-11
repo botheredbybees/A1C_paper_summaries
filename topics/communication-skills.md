@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Communication Skills in Dementia Care"
 confidence: medium
-tags: ["communication-skills"]
+domain: intervention
+slug: communication-skills-in-dementia-care
 sources:
   - fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to
   - fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life
   - fxa202-week03-what-is-therapeutic-photography
-updated: 2026-05-04
+- fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to
+- fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life
+- fxa202-week03-what-is-therapeutic-photography
+tags:
+- communication-skills
+title: Communication Skills in Dementia Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Communication Skills in Dementia Care

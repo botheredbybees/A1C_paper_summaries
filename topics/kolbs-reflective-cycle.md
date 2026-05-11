@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "method"
-title: "Kolb's Reflective Cycle"
 confidence: medium
-tags: ["kolbs-reflective-cycle"]
+domain: method
+slug: kolb-s-reflective-cycle
 sources:
-  - fxa301-arts-in-health-ch26-4-technological
-  - fxa301-arts-in-health-ch26-4-technological-(2)
+- fxa301-arts-in-health-ch26-4-technological
+- fxa301-arts-in-health-ch26-4-technological-(2)
+tags:
+- kolbs-reflective-cycle
+title: Kolb's Reflective Cycle
+type: topic
 updated: 2026-05-04
 ---
 

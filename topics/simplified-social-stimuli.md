@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Simplified Social Stimuli in Autism Interventions"
 confidence: low
-tags: ["simplified-social-stimuli"]
+domain: intervention
+slug: simplified-social-stimuli-in-autism-interventions
 sources:
-  - fxa303-week06-puppets-facilitate-attention-to-social-cues-in-children
+- fxa303-week06-puppets-facilitate-attention-to-social-cues-in-children
+tags:
+- simplified-social-stimuli
+title: Simplified Social Stimuli in Autism Interventions
+type: topic
 updated: 2026-05-04
 ---
 

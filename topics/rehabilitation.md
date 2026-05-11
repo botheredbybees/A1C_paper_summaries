@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Rehabilitation for Cognitive Decline"
 confidence: low
-tags: ["rehabilitation"]
+domain: intervention
+slug: rehabilitation-for-cognitive-decline
 sources:
-  - fxa100-week08-web-article-reyner-2006
+- fxa100-week08-web-article-reyner-2006
+tags:
+- rehabilitation
+title: Rehabilitation for Cognitive Decline
+type: topic
 updated: 2026-05-04
 ---
 

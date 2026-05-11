@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Working Memory"
 confidence: low
-tags: ["working-memory"]
+domain: intervention
+slug: working-memory
 sources:
-  - fxa100-week06-art-training-in-dementia-a-randomized-controlled-trial
+- fxa100-week06-art-training-in-dementia-a-randomized-controlled-trial
+tags:
+- working-memory
+title: Working Memory
+type: topic
 updated: 2026-05-04
 ---
 

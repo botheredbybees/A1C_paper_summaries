@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Oscillatory Rhythms in Motor Function"
 confidence: low
-tags: ["oscillations"]
+domain: intervention
+slug: oscillatory-rhythms-in-motor-function
 sources:
-  - fxa301-week06-effect-of-rhythmic-auditory-cueing-on-parkinsonian-gait-a
+- fxa301-week06-effect-of-rhythmic-auditory-cueing-on-parkinsonian-gait-a
+tags:
+- oscillations
+title: Oscillatory Rhythms in Motor Function
+type: topic
 updated: 2026-05-04
 ---
 

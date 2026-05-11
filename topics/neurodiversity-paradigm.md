@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Neurodiversity Paradigm"
 confidence: low
-tags: ["neurodiversity-paradigm"]
+domain: theory
+slug: neurodiversity-paradigm
 sources:
-  - fxa303-week04-lesson-fxa303-week04-week-4-activities
+- fxa303-week04-lesson-fxa303-week04-week-4-activities
+tags:
+- neurodiversity-paradigm
+title: Neurodiversity Paradigm
+type: topic
 updated: 2026-05-04
 ---
 

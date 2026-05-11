@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Identity Formation Through Music and Trauma"
 confidence: medium
-tags: ["identity-formation"]
+domain: intervention
+slug: identity-formation-through-music-and-trauma
 sources:
   - fxa301-week01-music-and-meaning-in-community-contexts
   - fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than
   - fxa303-week09-treating-the-trauma-survivor-an-essential-guide-to-trauma
-updated: 2026-05-05
+- fxa301-week01-music-and-meaning-in-community-contexts
+- fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than
+- fxa303-week09-treating-the-trauma-survivor-an-essential-guide-to-trauma
+tags:
+- identity-formation
+title: Identity Formation Through Music and Trauma
+type: topic
+updated: 2026-05-11
 ---
 
 ## Identity Formation Through Music and Trauma

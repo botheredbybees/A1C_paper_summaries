@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: societal-inclusion
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Societal Inclusion

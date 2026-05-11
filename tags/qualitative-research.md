@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: qualitative-research
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Qualitative Research
@@ -13,5 +13,9 @@ updated: 2026-05-06
 - [Bringing Music to Life: a Study of Music Therapy and Palliative Care Experiences in a Cancer Hospital](../sources/fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and.md)
 - [Beyond Expressive Writing: Evolving Models of Developmental Creative Writing](../sources/fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental.md)
 - [Promoting the health and wellbeing of young Black men using community-based drama](../sources/fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using.md)
+- [Fine arts participation, self-determination, and locus of control among persons with developmental disabilities](../sources/fxa301-week11-fine-arts-participation-self-determination-and-locus-of.md)
 - [Teachers\u2019 Perspectives on Providing Support to Children After Trauma: A Qualitative Study](../sources/fxa303-week01-teachers-perspectives-on-providing-support-to-children.md)
 - [More than just clowns \u2013 Clown Doctor rounds and their impact for children, families and staff](../sources/fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact.md)
+- [Artistic expression as a source of resilience for transgender and gender diverse young people](../sources/fxa303-week11-artistic-expression-as-a-source-of-resilience-for.md)
+- [Me and us: Cultivating presence and mental health through choir singing](../sources/fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through.md)
+- [The Power of Recognition: A Qualitative Study of Social Connectedness and Wellbeing through LGBT Sporting, Creative and Social Groups in Ireland](../sources/fxa303-week11-the-power-of-recognition-a-qualitative-study-of-social.md)

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "White Matter Diffusion Measures"
 confidence: low
-tags: ["white-matter-diffusion-measures"]
+domain: method
+slug: white-matter-diffusion-measures
 sources:
-  - fxa303-week04-age-related-differences-in-white-matter-diffusion-measures
+- fxa303-week04-age-related-differences-in-white-matter-diffusion-measures
+tags:
+- white-matter-diffusion-measures
+title: White Matter Diffusion Measures
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Puppet Play Therapy"
 confidence: medium
-tags: ["puppet-play"]
+domain: intervention
+slug: puppet-play-therapy
 sources:
   - fxa303-puppet-play-therapy-ch10-chapter-2
   - fxa303-week06-virtual-puppet-play-therapy
-updated: 2026-05-06
+- fxa303-puppet-play-therapy-ch10-chapter-2
+- fxa303-week06-virtual-puppet-play-therapy
+tags:
+- puppet-play
+title: Puppet Play Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Puppet Play Therapy

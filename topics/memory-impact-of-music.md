@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Memory Impact Of Music"
 confidence: low
-tags: ["memory-impact-of-music"]
+domain: intervention
+slug: memory-impact-of-music
 sources:
-  - fxa100-week03-lesson-fxa100-week03-page-4-week-3-activities1
+- fxa100-week03-lesson-fxa100-week03-page-4-week-3-activities1
+tags:
+- memory-impact-of-music
+title: Memory Impact Of Music
+type: topic
 updated: 2026-05-04
 ---
 

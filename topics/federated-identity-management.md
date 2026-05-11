@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Federated Identity Management"
 confidence: low
-tags: ["federated-identity-management"]
+domain: method
+slug: federated-identity-management
 sources:
-  - fxa303-week06-web-article-butler-2009
+- fxa303-week06-web-article-butler-2009
+tags:
+- federated-identity-management
+title: Federated Identity Management
+type: topic
 updated: 2026-05-04
 ---
 

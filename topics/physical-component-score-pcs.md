@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Physical Component Score In Health Assessments"
 confidence: low
-tags: ["physical-component-score-pcs"]
+domain: method
+slug: physical-component-score-in-health-assessments
 sources:
-  - fxa100-week03-association-of-music-interventions-with-health-related
+- fxa100-week03-association-of-music-interventions-with-health-related
+tags:
+- physical-component-score-pcs
+title: Physical Component Score In Health Assessments
+type: topic
 updated: 2026-05-04
 ---
 

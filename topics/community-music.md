@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Community Music"
 confidence: medium
-tags: ["community-music"]
+domain: intervention
+slug: community-music
 sources:
   - fxa100-week04-engaging-in-community-music-an-introduction
   - fxa301-week01-culture-of-inquiry
@@ -11,7 +9,19 @@ sources:
   - fxa301-week01-engaging-in-community-music-an-introduction-(2)
   - fxa301-week01-music-and-meaning-in-community-contexts
   - fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam
-updated: 2026-05-05
+  - fxa303-week11-lgbtq-choirs-community-music-queer-artistic-citizenship-in
+  - fxa303-week11-the-story-of-ghetto-classics-an-orchestra-born-from-a-kenya
+- fxa100-week04-engaging-in-community-music-an-introduction
+- fxa301-week01-culture-of-inquiry
+- fxa301-week01-engaging-in-community-music-an-introduction
+- fxa301-week01-engaging-in-community-music-an-introduction-(2)
+- fxa301-week01-music-and-meaning-in-community-contexts
+- fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam
+tags:
+- community-music
+title: Community Music
+type: topic
+updated: 2026-05-11
 ---
 
 ## Community Music
@@ -36,3 +46,5 @@ The integration of community music highlights its potential to foster life-long 
 - [fxa301-week01-engaging-in-community-music-an-introduction-(2)](../sources/fxa301-week01-engaging-in-community-music-an-introduction-(2).md)
 - [fxa301-week01-music-and-meaning-in-community-contexts](../sources/fxa301-week01-music-and-meaning-in-community-contexts.md)
 - [fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam.md)
+- [fxa303-week11-lgbtq-choirs-community-music-queer-artistic-citizenship-in](../sources/fxa303-week11-lgbtq-choirs-community-music-queer-artistic-citizenship-in.md)
+- [fxa303-week11-the-story-of-ghetto-classics-an-orchestra-born-from-a-kenya](../sources/fxa303-week11-the-story-of-ghetto-classics-an-orchestra-born-from-a-kenya.md)

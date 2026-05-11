@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Play Therapy in Autism Treatment"
 confidence: medium
-tags: ["autism-treatment"]
+domain: intervention
+slug: play-therapy-in-autism-treatment
 sources:
   - fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)
   - fxa303-week04-play-interventions-for-neurodivergent-children-and
   - fxa303-week04-play-therapy-in-children-with-autism-its-role-implications
-updated: 2026-05-04
+- fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)
+- fxa303-week04-play-interventions-for-neurodivergent-children-and
+- fxa303-week04-play-therapy-in-children-with-autism-its-role-implications
+tags:
+- autism-treatment
+title: Play Therapy in Autism Treatment
+type: topic
+updated: 2026-05-11
 ---
 
 ## Play Therapy in Autism Treatment

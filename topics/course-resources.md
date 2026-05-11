@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Course Resources"
 confidence: low
-tags: ["course-resources"]
+domain: method
+slug: course-resources
 sources:
-  - fxa202-week10-2022-week-10-lecture-transcript
+- fxa202-week10-2022-week-10-lecture-transcript
+tags:
+- course-resources
+title: Course Resources
+type: topic
 updated: 2026-05-04
 ---
 

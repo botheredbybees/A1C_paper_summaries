@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Effectiveness of Therapeutic Interventions in Specific Populations"
 confidence: medium
-tags: ["meta-analysis"]
+domain: intervention
+slug: effectiveness-of-therapeutic-interventions-in-specific-populations
 sources:
   - fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing
   - fxa301-week01-the-rationale-for-rating-risk-of-bias-should-be-fully
@@ -11,7 +9,17 @@ sources:
   - fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic
   - fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism
   - fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism
-updated: 2026-05-05
+- fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing
+- fxa301-week01-the-rationale-for-rating-risk-of-bias-should-be-fully
+- fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention
+- fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic
+- fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism
+- fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism
+tags:
+- meta-analysis
+title: Effectiveness of Therapeutic Interventions in Specific Populations
+type: topic
+updated: 2026-05-11
 ---
 
 ## Effectiveness of Therapeutic Interventions in Specific Populations

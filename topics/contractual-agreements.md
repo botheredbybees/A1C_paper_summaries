@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Contractual Agreements in Arts and Health"
 confidence: low
-tags: ["contractual-agreements"]
+domain: intervention
+slug: contractual-agreements-in-arts-and-health
 sources:
-  - fxa301-arts-in-health-ch44-1-the-artist
+- fxa301-arts-in-health-ch44-1-the-artist
+tags:
+- contractual-agreements
+title: Contractual Agreements in Arts and Health
+type: topic
 updated: 2026-05-04
 ---
 

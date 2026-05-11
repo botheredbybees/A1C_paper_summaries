@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Human Identity Through Storytelling"
 confidence: low
-tags: ["human-identity-through-storytelling"]
+domain: intervention
+slug: human-identity-through-storytelling
 sources:
-  - fxa301-week08-transcript-youtube-channel-school-of-education-and
+- fxa301-week08-transcript-youtube-channel-school-of-education-and
+tags:
+- human-identity-through-storytelling
+title: Human Identity Through Storytelling
+type: topic
 updated: 2026-05-04
 ---
 

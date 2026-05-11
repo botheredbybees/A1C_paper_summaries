@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Quasi-Experimental Design"
 confidence: low
-tags: ["quasi-experimental-design"]
+domain: method
+slug: quasi-experimental-design
 sources:
-  - fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods
+- fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods
+tags:
+- quasi-experimental-design
+title: Quasi-Experimental Design
+type: topic
 updated: 2026-05-04
 ---
 

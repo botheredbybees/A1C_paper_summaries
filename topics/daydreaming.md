@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Daydreaming"
 confidence: low
-tags: ["daydreaming"]
+domain: theory
+slug: daydreaming
 sources:
-  - fxa202-week05-where-do-you-get-your-ideas
+- fxa202-week05-where-do-you-get-your-ideas
+tags:
+- daydreaming
+title: Daydreaming
+type: topic
 updated: 2026-05-04
 ---
 

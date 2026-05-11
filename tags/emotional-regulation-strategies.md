@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotional-regulation-strategies
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Emotional Regulation Strategies

@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Supporting Youth Mental Health Through Arts-Based Strategies"
 confidence: medium
-tags: ["cultural-practices"]
+domain: intervention
+slug: supporting-youth-mental-health-through-arts-based-strategies
 sources:
   - fxa303-week03-supporting-youth-mental-health-with-arts-based-strategies-a
   - fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a
-updated: 2026-05-04
+- fxa303-week03-supporting-youth-mental-health-with-arts-based-strategies-a
+- fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a
+tags:
+- cultural-practices
+title: Supporting Youth Mental Health Through Arts-Based Strategies
+type: topic
+updated: 2026-05-11
 ---
 
 ## Supporting Youth Mental Health Through Arts-Based Strategies

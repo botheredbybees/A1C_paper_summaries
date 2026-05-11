@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Neurodiversity Movement"
 confidence: low
-tags: ["neurodiversity-movement"]
+domain: theory
+slug: neurodiversity-movement
 sources:
-  - fxa303-week04-unraveling-neurodiversity-insights-from-neuroscientic
+- fxa303-week04-unraveling-neurodiversity-insights-from-neuroscientic
+tags:
+- neurodiversity-movement
+title: Neurodiversity Movement
+type: topic
 updated: 2026-05-04
 ---
 

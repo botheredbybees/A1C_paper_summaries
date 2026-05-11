@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Interaction Strategies in Dementia Care"
 confidence: low
-tags: ["interaction-strategies"]
+domain: intervention
+slug: interaction-strategies-in-dementia-care
 sources:
-  - fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an
+- fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an
+tags:
+- interaction-strategies
+title: Interaction Strategies in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

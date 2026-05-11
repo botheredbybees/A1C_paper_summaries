@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts On Prescription"
 confidence: medium
-tags: ["arts-on-prescription-aop"]
+domain: intervention
+slug: arts-on-prescription
 sources:
-  - fxa303-week03-arts-on-prescription-observed-changes-in-anxiety-depression
-  - fxa303-week03-the-impact-of-arts-on-prescription-on-individual-health-and
+- fxa303-week03-arts-on-prescription-observed-changes-in-anxiety-depression
+- fxa303-week03-the-impact-of-arts-on-prescription-on-individual-health-and
+tags:
+- arts-on-prescription-aop
+title: Arts On Prescription
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts for Community Health and Well-being"
 confidence: medium
-tags: ["health-and-well-being"]
+domain: intervention
+slug: arts-for-community-health-and-well-being
 sources:
-  - fxa301-make-arts-for-a-better-life-ch06-1-see-also-closing
-  - fxa301-make-arts-for-a-better-life-ch17-1-for-further-study-on-communication-channels
+- fxa301-make-arts-for-a-better-life-ch06-1-see-also-closing
+- fxa301-make-arts-for-a-better-life-ch17-1-for-further-study-on-communication-channels
+tags:
+- health-and-well-being
+title: Arts for Community Health and Well-being
+type: topic
 updated: 2026-05-04
 ---
 

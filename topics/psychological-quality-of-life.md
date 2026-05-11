@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Psychological Quality of Life"
 confidence: low
-tags: ["psychological-quality-of-life"]
+domain: intervention
+slug: psychological-quality-of-life
 sources:
-  - fxa301-week06-song-of-life-sol-study-protocol-a-multicenter-randomized
+- fxa301-week06-song-of-life-sol-study-protocol-a-multicenter-randomized
+tags:
+- psychological-quality-of-life
+title: Psychological Quality of Life
+type: topic
 updated: 2026-05-04
 ---
 

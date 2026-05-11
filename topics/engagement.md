@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Student Engagement with Music"
 confidence: low
-tags: ["engagement"]
+domain: intervention
+slug: student-engagement-with-music
 sources:
-  - fxa301-week02-university-students-strong-experiences-of-music-pleasure
+- fxa301-week02-university-students-strong-experiences-of-music-pleasure
+tags:
+- engagement
+title: Student Engagement with Music
+type: topic
 updated: 2026-05-04
 ---
 

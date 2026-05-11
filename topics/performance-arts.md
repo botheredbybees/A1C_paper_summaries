@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Theatrical Performances and Audience Feedback"
 confidence: medium
-tags: ["performance-arts"]
+domain: intervention
+slug: theatrical-performances-and-audience-feedback
 sources:
   - fxa100-week10-transcript-inside-out-of-mind-audience-feedback-lakeside-arts
   - fxa303-week05-transcript-introduction-to-rod-puppets-spare-parts-puppet
-updated: 2026-05-04
+- fxa100-week10-transcript-inside-out-of-mind-audience-feedback-lakeside-arts
+- fxa303-week05-transcript-introduction-to-rod-puppets-spare-parts-puppet
+tags:
+- performance-arts
+title: Theatrical Performances and Audience Feedback
+type: topic
+updated: 2026-05-11
 ---
 
 ## Theatrical Performances and Audience Feedback

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Natural Light Photography"
 confidence: low
-tags: ["natural-light-photography"]
+domain: method
+slug: natural-light-photography
 sources:
-  - fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay
+- fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay
+tags:
+- natural-light-photography
+title: Natural Light Photography
+type: topic
 updated: 2026-05-04
 ---
 

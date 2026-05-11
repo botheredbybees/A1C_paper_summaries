@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Biopsychosocial Model"
 confidence: low
-tags: ["biopsychosocial-model"]
+domain: theory
+slug: biopsychosocial-model
 sources:
-  - fxa301-arts-in-health-ch04-48-haldane-d
+- fxa301-arts-in-health-ch04-48-haldane-d
+tags:
+- biopsychosocial-model
+title: Biopsychosocial Model
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Non-Normative Ethics and Values"
 confidence: low
-tags: ["non-normative-ethics-and-values"]
+domain: theory
+slug: non-normative-ethics-and-values
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37
+- fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37
+tags:
+- non-normative-ethics-and-values
+title: Non-Normative Ethics and Values
+type: topic
 updated: 2026-05-04
 ---
 

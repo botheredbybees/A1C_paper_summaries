@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Role Of Art"
 confidence: low
-tags: ["therapeutic-role-of-art"]
+domain: intervention
+slug: therapeutic-role-of-art
 sources:
-  - fxa301-week05-de-botton-art-is-therapy-at-the-rijksmuseum
+- fxa301-week05-de-botton-art-is-therapy-at-the-rijksmuseum
+tags:
+- therapeutic-role-of-art
+title: Therapeutic Role Of Art
+type: topic
 updated: 2026-05-04
 ---
 

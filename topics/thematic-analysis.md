@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "method"
-title: "Thematic Analysis in Arts and Health Research"
 confidence: medium
-tags: ["thematic-analysis"]
+domain: method
+slug: thematic-analysis-in-arts-and-health-research
 sources:
-  - fxa301-arts-in-health-ch29-4-invite-open-responses-(2)
-  - fxa301-week01-web-article-australia-2022
-  - fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and
+- fxa301-arts-in-health-ch29-4-invite-open-responses-(2)
+- fxa301-week01-web-article-australia-2022
+- fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and
+tags:
+- thematic-analysis
+title: Thematic Analysis in Arts and Health Research
+type: topic
 updated: 2026-05-04
 ---
 

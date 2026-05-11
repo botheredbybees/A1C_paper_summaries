@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music and Emergent Social Phenomena"
 confidence: medium
-tags: ["music-culture"]
+domain: intervention
+slug: music-and-emergent-social-phenomena
 sources:
   - fxa100-week02-transcript-moshing-with-physics-jesse-silverberg-tedxyale
   - fxa301-week06-brisbanes-pub-choir-movement-marks-first-year
-updated: 2026-05-04
+- fxa100-week02-transcript-moshing-with-physics-jesse-silverberg-tedxyale
+- fxa301-week06-brisbanes-pub-choir-movement-marks-first-year
+tags:
+- music-culture
+title: Music and Emergent Social Phenomena
+type: topic
+updated: 2026-05-11
 ---
 
 ## Music and Emergent Social Phenomena

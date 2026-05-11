@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Spiritual Experience in Choir Singing"
 confidence: low
-tags: ["spiritual-experience"]
+domain: intervention
+slug: spiritual-experience-in-choir-singing
 sources:
-  - fxa301-week10-to-be-heard-the-social-and-mental-health-benefits-of-choir
+- fxa301-week10-to-be-heard-the-social-and-mental-health-benefits-of-choir
+tags:
+- spiritual-experience
+title: Spiritual Experience in Choir Singing
+type: topic
 updated: 2026-05-04
 ---
 

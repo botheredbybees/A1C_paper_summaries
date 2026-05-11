@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Interactive Puppet Simulation in Nursing Education"
 confidence: low
-tags: ["three-way-communication-tool"]
+domain: intervention
+slug: interactive-puppet-simulation-in-nursing-education
 sources:
-  - fxa303-week06-a-review-of-the-literature-the-use-of-interactive-puppet
+- fxa303-week06-a-review-of-the-literature-the-use-of-interactive-puppet
+tags:
+- three-way-communication-tool
+title: Interactive Puppet Simulation in Nursing Education
+type: topic
 updated: 2026-05-04
 ---
 

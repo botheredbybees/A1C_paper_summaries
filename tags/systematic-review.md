@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: systematic-review
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Systematic Review
@@ -28,3 +28,4 @@ updated: 2026-05-06
 - [Music Therapy for Children With Autistic Spectrum Disorder and/or Other Neurodevelopmental Disorders: A Systematic Review](../sources/fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder.md)
 - [Clown therapy for procedural pain in children: a systematic review and meta-analysis](../sources/fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic.md)
 - [The Effectiveness of Art Therapy in the Treatment of Traumatized Adults: A Systematic Review on Art Therapy and Trauma](../sources/fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of.md)
+- [Creative arts therapies for the mental health of emerging adults: A systematic review](../sources/fxa303-week11-creative-arts-therapies-for-the-mental-health-of-emerging.md)

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Symbolic Play"
 confidence: low
-tags: ["symbolic-play"]
+domain: intervention
+slug: symbolic-play
 sources:
-  - fxa303-week01-play-therapy-considerations-and-applications-for-the
+- fxa303-week01-play-therapy-considerations-and-applications-for-the
+tags:
+- symbolic-play
+title: Symbolic Play
+type: topic
 updated: 2026-05-04
 ---
 

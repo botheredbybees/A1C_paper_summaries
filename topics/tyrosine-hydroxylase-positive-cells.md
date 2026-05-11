@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Tyrosine-Hydroxylase-Positive Cells"
 confidence: low
-tags: ["tyrosine-hydroxylase-positive-cells"]
+domain: theory
+slug: tyrosine-hydroxylase-positive-cells
 sources:
-  - fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro
+- fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro
+tags:
+- tyrosine-hydroxylase-positive-cells
+title: Tyrosine-Hydroxylase-Positive Cells
+type: topic
 updated: 2026-05-04
 ---
 

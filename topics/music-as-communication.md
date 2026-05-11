@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music As Communication"
 confidence: low
-tags: ["music-as-communication"]
+domain: intervention
+slug: music-as-communication
 sources:
-  - fxa100-week04-transcript-mind-song-music-for-dementia
+- fxa100-week04-transcript-mind-song-music-for-dementia
+tags:
+- music-as-communication
+title: Music As Communication
+type: topic
 updated: 2026-05-04
 ---
 

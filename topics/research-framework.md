@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "theory"
-title: "A Framework for Arts in Health Programmes"
 confidence: medium
-tags: ["research-framework"]
+domain: theory
+slug: a-framework-for-arts-in-health-programmes
 sources:
   - fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in
   - fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(2)
-updated: 2026-05-05
+- fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in
+- fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(2)
+tags:
+- research-framework
+title: A Framework for Arts in Health Programmes
+type: topic
+updated: 2026-05-11
 ---
 
 ## A Framework for Arts in Health Programmes

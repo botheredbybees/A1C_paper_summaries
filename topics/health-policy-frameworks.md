@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Health Policy Frameworks"
 confidence: low
-tags: ["health-policy-frameworks"]
+domain: theory
+slug: health-policy-frameworks
 sources:
-  - fxa301-week03-lesson-fxa301-week03-page-1
+- fxa301-week03-lesson-fxa301-week03-page-1
+tags:
+- health-policy-frameworks
+title: Health Policy Frameworks
+type: topic
 updated: 2026-05-04
 ---
 

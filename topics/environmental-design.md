@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Environmental Design in Dementia Care"
 confidence: medium
-tags: ["environmental-design"]
+domain: intervention
+slug: environmental-design-in-dementia-care
 sources:
   - fxa100-excellence-in-dementia-care--ch02-chapter-11
   - fxa100-excellence-in-dementia-care--ch60-chapter-11
-updated: 2026-05-04
+- fxa100-excellence-in-dementia-care--ch02-chapter-11
+- fxa100-excellence-in-dementia-care--ch60-chapter-11
+tags:
+- environmental-design
+title: Environmental Design in Dementia Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Environmental Design in Dementia Care

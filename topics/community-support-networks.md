@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Community Support Networks"
 confidence: medium
-tags: ["community-support-networks"]
+domain: intervention
+slug: community-support-networks
 sources:
-  - fxa100-week04-singing-and-participation
-  - fxa303-week10-transcript-duration-2-36
+- fxa100-week04-singing-and-participation
+- fxa303-week10-transcript-duration-2-36
+tags:
+- community-support-networks
+title: Community Support Networks
+type: topic
 updated: 2026-05-04
 ---
 

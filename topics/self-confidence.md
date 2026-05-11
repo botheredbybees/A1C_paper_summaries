@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Self-Confidence"
 confidence: low
-tags: ["self-confidence"]
+domain: intervention
+slug: self-confidence
 sources:
-  - fxa301-week08-transcript-arts-gymnasium-at-belgrade-theatre-coventry
+- fxa301-week08-transcript-arts-gymnasium-at-belgrade-theatre-coventry
+tags:
+- self-confidence
+title: Self-Confidence
+type: topic
 updated: 2026-05-04
 ---
 

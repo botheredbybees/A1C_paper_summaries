@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Transcription Unavailability"
 confidence: low
-tags: ["transcription-unavailability"]
+domain: method
+slug: transcription-unavailability
 sources:
-  - fxa303-week10-transcript-duration-9-54-url-only
+- fxa303-week10-transcript-duration-9-54-url-only
+tags:
+- transcription-unavailability
+title: Transcription Unavailability
+type: topic
 updated: 2026-05-04
 ---
 

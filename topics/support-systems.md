@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Support Systems for Dementia Care"
 confidence: low
-tags: ["support-systems"]
+domain: intervention
+slug: support-systems-for-dementia-care
 sources:
-  - fxa100-week10-transcript-in-april-and-may-2012-during-the-tour-of
+- fxa100-week10-transcript-in-april-and-may-2012-during-the-tour-of
+tags:
+- support-systems
+title: Support Systems for Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

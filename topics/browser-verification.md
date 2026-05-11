@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Browser Verification"
 confidence: low
-tags: ["browser-verification"]
+domain: method
+slug: browser-verification
 sources:
-  - fxa301-week08-web-article-carroll-2005
+- fxa301-week08-web-article-carroll-2005
+tags:
+- browser-verification
+title: Browser Verification
+type: topic
 updated: 2026-05-04
 ---
 

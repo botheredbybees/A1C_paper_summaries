@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Thinking Across Generations"
 confidence: medium
-tags: ["creative-thinking"]
+domain: intervention
+slug: creative-thinking-across-generations
 sources:
   - fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30
   - fxa303-puppet-assisted-play-therapy-ch02-1-we-must-encourage-children-to-use-their-imagination-and
-updated: 2026-05-05
+- fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30
+- fxa303-puppet-assisted-play-therapy-ch02-1-we-must-encourage-children-to-use-their-imagination-and
+tags:
+- creative-thinking
+title: Creative Thinking Across Generations
+type: topic
+updated: 2026-05-11
 ---
 
 ## Creative Thinking Across Generations

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Organizational Effects of Pubertal Hormones"
 confidence: low
-tags: ["organizational-effects"]
+domain: theory
+slug: organizational-effects-of-pubertal-hormones
 sources:
-  - fxa303-week03-pubertal-hormones-organize-the-adolescent-brain-and-behavior
+- fxa303-week03-pubertal-hormones-organize-the-adolescent-brain-and-behavior
+tags:
+- organizational-effects
+title: Organizational Effects of Pubertal Hormones
+type: topic
 updated: 2026-05-04
 ---
 

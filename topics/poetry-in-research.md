@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Poetry in Research"
 confidence: medium
-tags: ["poetry-in-research"]
+domain: method
+slug: poetry-in-research
 sources:
   - fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary
   - fxa202-week10-creative-arts-based-research-in-aged-care-photovoice
-updated: 2026-05-04
+- fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary
+- fxa202-week10-creative-arts-based-research-in-aged-care-photovoice
+tags:
+- poetry-in-research
+title: Poetry in Research
+type: topic
+updated: 2026-05-11
 ---
 
 ## Poetry in Research

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Comprehensive Sexuality Education"
 confidence: low
-tags: ["comprehensive-sexuality-education"]
+domain: intervention
+slug: comprehensive-sexuality-education
 sources:
-  - fxa303-week03-adolescent-health
+- fxa303-week03-adolescent-health
+tags:
+- comprehensive-sexuality-education
+title: Comprehensive Sexuality Education
+type: topic
 updated: 2026-05-04
 ---
 

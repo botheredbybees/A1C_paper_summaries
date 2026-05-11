@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Neuroesthetics"
 confidence: low
-tags: ["neuroesthetics"]
+domain: theory
+slug: neuroesthetics
 sources:
-  - fxa202-week10-brain-research-shows-the-arts-promote-mental-health
+- fxa202-week10-brain-research-shows-the-arts-promote-mental-health
+tags:
+- neuroesthetics
+title: Neuroesthetics
+type: topic
 updated: 2026-05-04
 ---
 

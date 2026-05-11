@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Musical Cognition"
 confidence: low
-tags: ["musical-cognition"]
+domain: theory
+slug: musical-cognition
 sources:
-  - fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind
+- fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind
+tags:
+- musical-cognition
+title: Musical Cognition
+type: topic
 updated: 2026-05-04
 ---
 

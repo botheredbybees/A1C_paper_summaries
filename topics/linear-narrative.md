@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "method"
-title: "Linear Narrative in Visual Storytelling"
 confidence: medium
-tags: ["linear-narrative"]
+domain: method
+slug: linear-narrative-in-visual-storytelling
 sources:
-  - fxa202-week05-lesson-fxa202-week05-page-4
-  - fxa202-week06-week-six-lecture-components-of-visual-storytelling-(2)
+- fxa202-week05-lesson-fxa202-week05-page-4
+- fxa202-week06-week-six-lecture-components-of-visual-storytelling-(2)
+tags:
+- linear-narrative
+title: Linear Narrative in Visual Storytelling
+type: topic
 updated: 2026-05-04
 ---
 

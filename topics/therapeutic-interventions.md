@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music Therapy and Creative Arts Interventions"
 confidence: high
-tags: ["therapeutic-interventions"]
+domain: intervention
+slug: music-therapy-and-creative-arts-interventions
 sources:
   - fxa100-week04-music-as-therapy-and-health-promotion
   - fxa100-week04-the-ripple-effect-towards-researching-improvisational-music
@@ -13,7 +11,19 @@ sources:
   - fxa303-week06-puppets-facilitate-attention-to-social-cues-in-children
   - fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for
   - fxa303-week09-using-creative-techniques-with-children-who-have
-updated: 2026-05-04
+- fxa100-week04-music-as-therapy-and-health-promotion
+- fxa100-week04-the-ripple-effect-towards-researching-improvisational-music
+- fxa100-week09-personhood-maintained
+- fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1
+- fxa303-week04-play-therapy-in-children-with-autism-its-role-implications
+- fxa303-week06-puppets-facilitate-attention-to-social-cues-in-children
+- fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for
+- fxa303-week09-using-creative-techniques-with-children-who-have
+tags:
+- therapeutic-interventions
+title: Music Therapy and Creative Arts Interventions
+type: topic
+updated: 2026-05-11
 ---
 
 ## Music Therapy and Creative Arts Interventions

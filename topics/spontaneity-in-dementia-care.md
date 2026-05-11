@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Spontaneity in Dementia Care"
 confidence: low
-tags: ["spontaneity-in-dementia-care"]
+domain: intervention
+slug: spontaneity-in-dementia-care
 sources:
-  - fxa100-creativity-and-communication-ch07-7-making-it-all-up-improvisation-and-other-dramas-john
+- fxa100-creativity-and-communication-ch07-7-making-it-all-up-improvisation-and-other-dramas-john
+tags:
+- spontaneity-in-dementia-care
+title: Spontaneity in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

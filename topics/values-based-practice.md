@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Values-Based Practice in Dementia Care"
 confidence: low
-tags: ["values-based-practice"]
+domain: intervention
+slug: values-based-practice-in-dementia-care
 sources:
-  - fxa100-week10-person-centred-dementia-care
+- fxa100-week10-person-centred-dementia-care
+tags:
+- values-based-practice
+title: Values-Based Practice in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

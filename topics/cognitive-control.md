@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cognitive Control"
 confidence: medium
-tags: ["cognitive-control"]
+domain: intervention
+slug: cognitive-control
 sources:
-  - fxa100-week02-the-benefits-of-music-instruction-on-processing-speed
-  - fxa303-week03-media-use-and-brain-development-during-adolescence
+- fxa100-week02-the-benefits-of-music-instruction-on-processing-speed
+- fxa303-week03-media-use-and-brain-development-during-adolescence
+tags:
+- cognitive-control
+title: Cognitive Control
+type: topic
 updated: 2026-05-04
 ---
 

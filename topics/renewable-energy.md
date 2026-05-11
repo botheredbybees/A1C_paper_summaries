@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Active Energy Project in Renewable Energy"
 confidence: medium
-tags: ["renewable-energy"]
+domain: intervention
+slug: active-energy-project-in-renewable-energy
 sources:
   - fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30
   - fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2)
-updated: 2026-05-04
+- fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30
+- fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2)
+tags:
+- renewable-energy
+title: Active Energy Project in Renewable Energy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Active Energy Project in Renewable Energy

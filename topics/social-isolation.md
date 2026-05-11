@@ -1,13 +1,18 @@
 ---
-type: topic
-domain: "intervention"
-title: "Social Isolation Among Marginalized Youth"
 confidence: medium
-tags: ["social-isolation"]
+domain: intervention
+slug: social-isolation-among-marginalized-youth
 sources:
   - fxa100-week07-connecting-with-and-through-art-arts-engagement-for
   - fxa303-week10-diamonds-in-the-backyard-migrant-youth-and-hip-hop-in
-updated: 2026-05-04
+  - fxa303-week11-social-isolation-and-connectedness-as-determinants-of-well
+- fxa100-week07-connecting-with-and-through-art-arts-engagement-for
+- fxa303-week10-diamonds-in-the-backyard-migrant-youth-and-hip-hop-in
+tags:
+- social-isolation
+title: Social Isolation Among Marginalized Youth
+type: topic
+updated: 2026-05-11
 ---
 
 ## Social Isolation Among Marginalized Youth
@@ -27,3 +32,4 @@ The sources explore how arts engagement and cultural practices can mitigate soci
 
 - [fxa100-week07-connecting-with-and-through-art-arts-engagement-for](../sources/fxa100-week07-connecting-with-and-through-art-arts-engagement-for.md)
 - [fxa303-week10-diamonds-in-the-backyard-migrant-youth-and-hip-hop-in](../sources/fxa303-week10-diamonds-in-the-backyard-migrant-youth-and-hip-hop-in.md)
+- [fxa303-week11-social-isolation-and-connectedness-as-determinants-of-well](../sources/fxa303-week11-social-isolation-and-connectedness-as-determinants-of-well.md)

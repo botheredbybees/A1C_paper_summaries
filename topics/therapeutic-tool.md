@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Laughter Prescription as a Therapeutic Tool"
 confidence: low
-tags: ["therapeutic-tool"]
+domain: intervention
+slug: laughter-prescription-as-a-therapeutic-tool
 sources:
-  - fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
+- fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
+tags:
+- therapeutic-tool
+title: Laughter Prescription as a Therapeutic Tool
+type: topic
 updated: 2026-05-04
 ---
 

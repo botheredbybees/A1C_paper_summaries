@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Neural Circuitry Changes"
 confidence: low
-tags: ["neural-circuitry-changes"]
+domain: intervention
+slug: neural-circuitry-changes
 sources:
-  - fxa303-week01-can-traumatic-stress-alter-the-brain-understanding-the
+- fxa303-week01-can-traumatic-stress-alter-the-brain-understanding-the
+tags:
+- neural-circuitry-changes
+title: Neural Circuitry Changes
+type: topic
 updated: 2026-05-04
 ---
 

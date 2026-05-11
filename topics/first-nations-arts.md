@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "First Nations Arts Participation"
 confidence: low
-tags: ["first-nations-arts"]
+domain: intervention
+slug: first-nations-arts-participation
 sources:
-  - fxa301-week01-lesson-fxa301-week01-page-3-arts-participation
+- fxa301-week01-lesson-fxa301-week01-page-3-arts-participation
+tags:
+- first-nations-arts
+title: First Nations Arts Participation
+type: topic
 updated: 2026-05-04
 ---
 

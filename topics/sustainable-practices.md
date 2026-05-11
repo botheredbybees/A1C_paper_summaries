@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sustainable Practices"
 confidence: low
-tags: ["sustainable-practices"]
+domain: intervention
+slug: sustainable-practices
 sources:
-  - fxa303-week06-emotional-expression-through-puppetry
+- fxa303-week06-emotional-expression-through-puppetry
+tags:
+- sustainable-practices
+title: Sustainable Practices
+type: topic
 updated: 2026-05-04
 ---
 

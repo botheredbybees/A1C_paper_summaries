@@ -1,14 +1,16 @@
 ---
-type: topic
-domain: "intervention"
-title: "Malignant Social Psychology in Dementia Care"
 confidence: high
-tags: ["malignant-social-psychology"]
+domain: intervention
+slug: malignant-social-psychology-in-dementia-care
 sources:
-  - fxa100-excellence-in-dementia-care--ch23-2-there-is-no-doubt-that-one-of-the-major-changes-we-see-in
-  - fxa100-excellence-in-dementia-care--ch40-chapter-14
-  - fxa100-excellence-in-dementia-care--ch50-chapter-14
-  - fxa100-week09-lesson-fxa100-week09-page-3-theatre-play-and-dementia
+- fxa100-excellence-in-dementia-care--ch23-2-there-is-no-doubt-that-one-of-the-major-changes-we-see-in
+- fxa100-excellence-in-dementia-care--ch40-chapter-14
+- fxa100-excellence-in-dementia-care--ch50-chapter-14
+- fxa100-week09-lesson-fxa100-week09-page-3-theatre-play-and-dementia
+tags:
+- malignant-social-psychology
+title: Malignant Social Psychology in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

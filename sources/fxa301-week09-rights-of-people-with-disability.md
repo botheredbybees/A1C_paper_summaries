@@ -11,7 +11,7 @@ tags: ["human-rights", "disability-inclusion", "legal-frameworks", "internationa
 key_concepts: ["Convention on the Rights of Persons with Disabilities (CRPD)", "reasonable-accommodation", "human-rights-scrutiny"]
 methods: []
 slug: fxa301-week09-rights-of-people-with-disability
-related: []
+related: ["disability-inclusion", "human-rights"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,4 +43,5 @@ The document 'Rights of People with Disability' by the Attorney-General's Depart
 
 ## See Also
 
-*(none yet)*
+- [disability-inclusion](../topics/disability-inclusion.md)
+- [human-rights](../topics/human-rights.md)

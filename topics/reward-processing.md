@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Reward Processing in the Brain"
 confidence: medium
-tags: ["reward-processing"]
+domain: method
+slug: reward-processing-in-the-brain
 sources:
   - fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro
   - fxa303-week03-adolescent-neurodevelopment
-updated: 2026-05-04
+- fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro
+- fxa303-week03-adolescent-neurodevelopment
+tags:
+- reward-processing
+title: Reward Processing in the Brain
+type: topic
+updated: 2026-05-11
 ---
 
 ## Reward Processing in the Brain

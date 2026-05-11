@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Demographic Changes in Creative Arts Engagement"
 confidence: low
-tags: ["demographic-changes"]
+domain: population
+slug: demographic-changes-in-creative-arts-engagement
 sources:
-  - fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community
+- fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community
+tags:
+- demographic-changes
+title: Demographic Changes in Creative Arts Engagement
+type: topic
 updated: 2026-05-04
 ---
 

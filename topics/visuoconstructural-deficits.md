@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Visuoconstructual Deficits"
 confidence: low
-tags: ["visuoconstructural-deficits"]
+domain: intervention
+slug: visuoconstructual-deficits
 sources:
-  - fxa100-week06-paintings-of-an-artist-with-alzheimers-disease
+- fxa100-week06-paintings-of-an-artist-with-alzheimers-disease
+tags:
+- visuoconstructural-deficits
+title: Visuoconstructual Deficits
+type: topic
 updated: 2026-05-04
 ---
 

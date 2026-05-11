@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-engagement
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Arts Engagement
@@ -11,3 +11,4 @@ updated: 2026-05-06
 - [Audience Data and Advocacy Tools - Creative Australia](../sources/fxa301-week01-web-article-australia-2019.md)
 - [Creating Value: Results of the National Arts Participation Survey](../sources/fxa301-week01-web-article-australia-2023.md)
 - [Mind, Body, Spirit: How Museums Impact Health and Wellbeing](../sources/fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing.md)
+- [Arts and Cultural Engagement, Reportedly Antisocial or Criminalized Behaviors, and Potential Mediators in Two Longitudinal Cohorts of Adolescents](../sources/fxa303-week11-arts-and-cultural-engagement-reportedly-antisocial-or.md)

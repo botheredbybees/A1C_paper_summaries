@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Hospital Clowning in Pediatric Medicine"
 confidence: medium
-tags: ["medical-procedures"]
+domain: intervention
+slug: hospital-clowning-in-pediatric-medicine
 sources:
   - fxa303-week08-effectiveness-of-hospital-clowning-on-pediatric-anxiety-and
   - fxa303-week08-therapeutic-clowning-in-paediatric-practice
-updated: 2026-05-04
+- fxa303-week08-effectiveness-of-hospital-clowning-on-pediatric-anxiety-and
+- fxa303-week08-therapeutic-clowning-in-paediatric-practice
+tags:
+- medical-procedures
+title: Hospital Clowning in Pediatric Medicine
+type: topic
+updated: 2026-05-11
 ---
 
 ## Hospital Clowning in Pediatric Medicine

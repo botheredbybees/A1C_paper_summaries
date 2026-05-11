@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Engagement"
 confidence: medium
-tags: ["therapeutic-engagement"]
+domain: intervention
+slug: therapeutic-engagement
 sources:
-  - fxa100-week03-the-power-of-music-and-dementia
-  - fxa303-puppet-play-therapy-ch08-6-posture-keep-your-arm-holding-the-puppet-at-a-right-angle
+- fxa100-week03-the-power-of-music-and-dementia
+- fxa303-puppet-play-therapy-ch08-6-posture-keep-your-arm-holding-the-puppet-at-a-right-angle
+tags:
+- therapeutic-engagement
+title: Therapeutic Engagement
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "method"
-title: "Storytelling Techniques"
 confidence: medium
-tags: ["storytelling-techniques"]
+domain: method
+slug: storytelling-techniques
 sources:
   - fxa202-week05-week-5-introduction-to-storytelling
   - fxa202-week05-where-do-you-get-your-ideas
   - fxa202-week06-lesson-fxa202-week06-page-2
   - fxa202-week09-fxa202-week-9-web-lecture-the-photo-essay-storytelling-with
-updated: 2026-05-05
+- fxa202-week05-week-5-introduction-to-storytelling
+- fxa202-week05-where-do-you-get-your-ideas
+- fxa202-week06-lesson-fxa202-week06-page-2
+- fxa202-week09-fxa202-week-9-web-lecture-the-photo-essay-storytelling-with
+tags:
+- storytelling-techniques
+title: Storytelling Techniques
+type: topic
+updated: 2026-05-11
 ---
 
 ## Storytelling Techniques

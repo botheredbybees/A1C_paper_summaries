@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Systematic Reviews of Arts-Based Interventions"
 confidence: high
-tags: ["systematic-review"]
+domain: intervention
+slug: systematic-reviews-of-arts-based-interventions
 sources:
   - fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a
   - fxa100-week09-dance-movement-therapy-for-dementia
@@ -27,7 +25,34 @@ sources:
   - fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder
   - fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic
   - fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of
-updated: 2026-05-05
+  - fxa303-week11-creative-arts-therapies-for-the-mental-health-of-emerging
+- fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a
+- fxa100-week09-dance-movement-therapy-for-dementia
+- fxa100-week09-key-components-of-person-centered-care-for-people-with
+- fxa100-week09-key-intervention-categories-to-provide-person-centered
+- fxa301-week01-rating-the-quality-of-a-body-of-evidence-on-the
+- fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-(2)
+- fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing
+- fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older
+- fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention
+- fxa301-week06-promoting-wellbeing-and-health-through-active-participation
+- fxa301-week06-therapeutic-dancing-for-parkinsons-disease
+- fxa301-week06-week-6-activities-fxa301-arts-in-the-community
+- fxa301-week08-school-based-drama-interventions-in-health-promotion-for
+- fxa301-week10-a-systematic-review-of-mental-health-and-wellbeing-outcomes
+- fxa301-week10-a-systematic-review-of-the-efficacy-of-creative-arts
+- fxa303-week03-creative-arts-interventions-for-stress-management-and
+- fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and
+- fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism
+- fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism
+- fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder
+- fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic
+- fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of
+tags:
+- systematic-review
+title: Systematic Reviews of Arts-Based Interventions
+type: topic
+updated: 2026-05-11
 ---
 
 ## Systematic Reviews of Arts-Based Interventions
@@ -68,3 +93,4 @@ The systematic reviews examined here cover a range of arts-based interventions a
 - [fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder](../sources/fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder.md)
 - [fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic](../sources/fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic.md)
 - [fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of](../sources/fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of.md)
+- [fxa303-week11-creative-arts-therapies-for-the-mental-health-of-emerging](../sources/fxa303-week11-creative-arts-therapies-for-the-mental-health-of-emerging.md)

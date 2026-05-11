@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Visual Arts in Dementia Care"
 confidence: medium
-tags: ["visual-arts"]
+domain: intervention
+slug: visual-arts-in-dementia-care
 sources:
   - fxa100-week06-lesson-fxa100-week06-page-1-welcome-to-week-6
   - fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care
   - fxa301-week05-lesson-fxa301-week05-page-1
-updated: 2026-05-04
+- fxa100-week06-lesson-fxa100-week06-page-1-welcome-to-week-6
+- fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care
+- fxa301-week05-lesson-fxa301-week05-page-1
+tags:
+- visual-arts
+title: Visual Arts in Dementia Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Visual Arts in Dementia Care

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Layer Masking"
 confidence: low
-tags: ["layer-masking"]
+domain: method
+slug: layer-masking
 sources:
-  - fxa202-week08-how-to-merge-and-combine-images-in-photoshop
+- fxa202-week08-how-to-merge-and-combine-images-in-photoshop
+tags:
+- layer-masking
+title: Layer Masking
+type: topic
 updated: 2026-05-04
 ---
 

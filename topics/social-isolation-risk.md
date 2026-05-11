@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Social Isolation Risk"
 confidence: low
-tags: ["social-isolation-risk"]
+domain: intervention
+slug: social-isolation-risk
 sources:
-  - fxa301-week09-transcript-nsw-health-2015-nsw-innovation-and-health
+- fxa301-week09-transcript-nsw-health-2015-nsw-innovation-and-health
+tags:
+- social-isolation-risk
+title: Social Isolation Risk
+type: topic
 updated: 2026-05-04
 ---
 

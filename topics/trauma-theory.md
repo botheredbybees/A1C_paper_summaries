@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Trauma Theory"
 confidence: low
-tags: ["trauma-theory"]
+domain: theory
+slug: trauma-theory
 sources:
-  - fxa303-art-therapy-in-response-to-natural-disasters-ch06-1-i-envisioned-an-opportunity-to-assert-lasalle
+- fxa303-art-therapy-in-response-to-natural-disasters-ch06-1-i-envisioned-an-opportunity-to-assert-lasalle
+tags:
+- trauma-theory
+title: Trauma Theory
+type: topic
 updated: 2026-05-04
 ---
 

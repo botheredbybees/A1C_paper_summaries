@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Trauma-Focused Therapies"
 confidence: low
-tags: ["trauma-focused-therapies"]
+domain: intervention
+slug: trauma-focused-therapies
 sources:
-  - fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2)
+- fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2)
+tags:
+- trauma-focused-therapies
+title: Trauma-Focused Therapies
+type: topic
 updated: 2026-05-04
 ---
 

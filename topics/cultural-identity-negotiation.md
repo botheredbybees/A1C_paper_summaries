@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cultural Identity Negotiation Through Hip Hop"
 confidence: low
-tags: ["cultural-identity-negotiation"]
+domain: intervention
+slug: cultural-identity-negotiation-through-hip-hop
 sources:
-  - fxa303-week10-diamonds-in-the-backyard-migrant-youth-and-hip-hop-in
+- fxa303-week10-diamonds-in-the-backyard-migrant-youth-and-hip-hop-in
+tags:
+- cultural-identity-negotiation
+title: Cultural Identity Negotiation Through Hip Hop
+type: topic
 updated: 2026-05-04
 ---
 

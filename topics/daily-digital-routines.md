@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Daily Digital Routines"
 confidence: low
-tags: ["daily-digital-routines"]
+domain: intervention
+slug: daily-digital-routines
 sources:
-  - fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using
+- fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using
+tags:
+- daily-digital-routines
+title: Daily Digital Routines
+type: topic
 updated: 2026-05-04
 ---
 

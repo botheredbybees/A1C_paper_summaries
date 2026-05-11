@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Self-Determination in Indigenous Health"
 confidence: medium
-tags: ["self-determination"]
+domain: intervention
+slug: self-determination-in-indigenous-health
 sources:
-  - fxa303-week10-cultural-determinants-of-health-for-aboriginal-and-torres
-  - fxa303-week10-evidence-review-of-indigenous-culture-for-health-and
+- fxa303-week10-cultural-determinants-of-health-for-aboriginal-and-torres
+- fxa303-week10-evidence-review-of-indigenous-culture-for-health-and
+tags:
+- self-determination
+title: Self-Determination in Indigenous Health
+type: topic
 updated: 2026-05-04
 ---
 

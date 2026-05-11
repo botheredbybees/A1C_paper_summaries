@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Pattern Repetition in Photography"
 confidence: low
-tags: ["pattern-repetition"]
+domain: method
+slug: pattern-repetition-in-photography
 sources:
-  - fxa202-week02-improve-your-photography-skills-with-these-9-photo
+- fxa202-week02-improve-your-photography-skills-with-these-9-photo
+tags:
+- pattern-repetition
+title: Pattern Repetition in Photography
+type: topic
 updated: 2026-05-04
 ---
 

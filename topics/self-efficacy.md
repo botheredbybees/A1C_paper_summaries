@@ -1,15 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Self-Efficacy Through Creative Arts"
 confidence: high
-tags: ["self-efficacy"]
+domain: intervention
+slug: self-efficacy-through-creative-arts
 sources:
-  - fxa301-week03-music-listening-for-supporting-adolescents-sense-of-agency
-  - fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope
-  - fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple
-  - fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and
-  - fxa303-week10-lesson-fxa303-week10-page-1-overview
+- fxa301-week03-music-listening-for-supporting-adolescents-sense-of-agency
+- fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope
+- fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple
+- fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and
+- fxa303-week10-lesson-fxa303-week10-page-1-overview
+tags:
+- self-efficacy
+title: Self-Efficacy Through Creative Arts
+type: topic
 updated: 2026-05-04
 ---
 

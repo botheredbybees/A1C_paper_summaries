@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "theory"
-title: "Critical Period Theory"
 confidence: medium
-tags: ["critical-period-theory"]
+domain: theory
+slug: critical-period-theory
 sources:
-  - fxa303-week02-child-development-fxa303-creative-arts-play-and-mental
-  - fxa303-week02-fxa303-week-2-child-development-and-creative-arts
+- fxa303-week02-child-development-fxa303-creative-arts-play-and-mental
+- fxa303-week02-fxa303-week-2-child-development-and-creative-arts
+tags:
+- critical-period-theory
+title: Critical Period Theory
+type: topic
 updated: 2026-05-04
 ---
 

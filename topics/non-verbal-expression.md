@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Non-Verbal Expression"
 confidence: medium
-tags: ["non-verbal-expression"]
+domain: intervention
+slug: non-verbal-expression
 sources:
-  - fxa100-creativity-and-communication-ch06-5-moving-in-the-moment-dance-john-killick-in-the-previous
-  - fxa303-week06-therapeutic-puppetry-and-wellbeing
+- fxa100-creativity-and-communication-ch06-5-moving-in-the-moment-dance-john-killick-in-the-previous
+- fxa303-week06-therapeutic-puppetry-and-wellbeing
+tags:
+- non-verbal-expression
+title: Non-Verbal Expression
+type: topic
 updated: 2026-05-04
 ---
 

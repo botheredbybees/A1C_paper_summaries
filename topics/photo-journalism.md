@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Photojournalism in Therapeutic Applications"
 confidence: medium
-tags: ["photo-journalism"]
+domain: intervention
+slug: photojournalism-in-therapeutic-applications
 sources:
   - fxa202-week06-week-six-lecture-components-of-visual-storytelling-(2)
   - fxa202-week10-critical-reflection-my-photo-essay
-updated: 2026-05-04
+- fxa202-week06-week-six-lecture-components-of-visual-storytelling-(2)
+- fxa202-week10-critical-reflection-my-photo-essay
+tags:
+- photo-journalism
+title: Photojournalism in Therapeutic Applications
+type: topic
+updated: 2026-05-11
 ---
 
 ## Photojournalism in Therapeutic Applications

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Development Through Play"
 confidence: low
-tags: ["emotional-development-through-play"]
+domain: intervention
+slug: emotional-development-through-play
 sources:
-  - fxa303-week05-week-5-overview-fxa303-creative-arts-play-and-mental
+- fxa303-week05-week-5-overview-fxa303-creative-arts-play-and-mental
+tags:
+- emotional-development-through-play
+title: Emotional Development Through Play
+type: topic
 updated: 2026-05-04
 ---
 

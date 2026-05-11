@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Indigenous Health Disparities in Dementia Care"
 confidence: high
-tags: ["indigenous-health"]
+domain: intervention
+slug: indigenous-health-disparities-in-dementia-care
 sources:
   - fxa100-week07-dementia-and-our-mob-caring-for-spirit
   - fxa100-week07-dementia-in-our-mob-and-around-the-world
@@ -14,7 +12,20 @@ sources:
   - fxa303-week10-role-of-art-centres-for-aboriginal-australians-living-with
   - fxa303-week10-using-the-arts-as-a-therapeutic-tool-for-counselling-an
   - fxa303-week10-web-article-russ-smith-2023
-updated: 2026-05-05
+- fxa100-week07-dementia-and-our-mob-caring-for-spirit
+- fxa100-week07-dementia-in-our-mob-and-around-the-world
+- fxa100-week07-high-prevalence-of-dementia-and-cognitive-impairment-in
+- fxa301-week03-national-arts-and-health-framework
+- fxa303-week10-evidence-review-of-indigenous-culture-for-health-and
+- fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the
+- fxa303-week10-role-of-art-centres-for-aboriginal-australians-living-with
+- fxa303-week10-using-the-arts-as-a-therapeutic-tool-for-counselling-an
+- fxa303-week10-web-article-russ-smith-2023
+tags:
+- indigenous-health
+title: Indigenous Health Disparities in Dementia Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Indigenous Health Disparities in Dementia Care

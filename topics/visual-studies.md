@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Visual Studies in Cultural Contexts"
 confidence: low
-tags: ["visual-studies"]
+domain: method
+slug: visual-studies-in-cultural-contexts
 sources:
-  - fxa303-week10-researching-arts-culture-migration-and-change-a-multi
+- fxa303-week10-researching-arts-culture-migration-and-change-a-multi
+tags:
+- visual-studies
+title: Visual Studies in Cultural Contexts
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "intervention"
-title: "Patient Outcomes in Dementia Care"
 confidence: medium
-tags: ["patient-outcomes"]
+domain: intervention
+slug: patient-outcomes-in-dementia-care
 sources:
   - fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia
   - fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for
   - fxa100-week04-music-therapy-and-music-assisted-caregiving-for-dementia
   - fxa301-week01-is-there-compelling-evidence-for-using-the-arts-in-health
-updated: 2026-05-05
+- fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia
+- fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for
+- fxa100-week04-music-therapy-and-music-assisted-caregiving-for-dementia
+- fxa301-week01-is-there-compelling-evidence-for-using-the-arts-in-health
+tags:
+- patient-outcomes
+title: Patient Outcomes in Dementia Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Patient Outcomes in Dementia Care

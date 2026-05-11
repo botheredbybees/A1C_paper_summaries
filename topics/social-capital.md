@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Social Capital"
 confidence: low
-tags: ["social-capital"]
+domain: theory
+slug: social-capital
 sources:
-  - fxa301-week05-lesson-fxa301-week05-page-2-hm-take-2-with-newer-content
+- fxa301-week05-lesson-fxa301-week05-page-2-hm-take-2-with-newer-content
+tags:
+- social-capital
+title: Social Capital
+type: topic
 updated: 2026-05-04
 ---
 

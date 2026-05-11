@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Amygdala Activation"
 confidence: low
-tags: ["amygdala-activation"]
+domain: intervention
+slug: amygdala-activation
 sources:
-  - fxa100-week03-the-effects-of-music-on-the-brain-video-transcript
+- fxa100-week03-the-effects-of-music-on-the-brain-video-transcript
+tags:
+- amygdala-activation
+title: Amygdala Activation
+type: topic
 updated: 2026-05-04
 ---
 

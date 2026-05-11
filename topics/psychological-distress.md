@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Psychological Distress"
 confidence: low
-tags: ["psychological-distress"]
+domain: intervention
+slug: psychological-distress
 sources:
-  - fxa202-week06-reflection-on-the-therapeutic-and-artistic-process-of
+- fxa202-week06-reflection-on-the-therapeutic-and-artistic-process-of
+tags:
+- psychological-distress
+title: Psychological Distress
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Vascular Cognitive Impairment Following Stroke"
 confidence: medium
-tags: ["stroke-effects"]
+domain: intervention
+slug: vascular-cognitive-impairment-following-stroke
 sources:
-  - fxa100-week01-living-with-dementia-12-what-is-vascular-dementia
-  - fxa100-week01-transcript-dementia-australia
+- fxa100-week01-living-with-dementia-12-what-is-vascular-dementia
+- fxa100-week01-transcript-dementia-australia
+tags:
+- stroke-effects
+title: Vascular Cognitive Impairment Following Stroke
+type: topic
 updated: 2026-05-03
 ---
 

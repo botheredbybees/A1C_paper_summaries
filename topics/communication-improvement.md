@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Communication Improvement"
 confidence: low
-tags: ["communication-improvement"]
+domain: intervention
+slug: communication-improvement
 sources:
-  - fxa303-week08-therapeutic-clowning
+- fxa303-week08-therapeutic-clowning
+tags:
+- communication-improvement
+title: Communication Improvement
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Policy Evaluation Indicators"
 confidence: low
-tags: ["policy-evaluation-indicators"]
+domain: method
+slug: policy-evaluation-indicators
 sources:
-  - fxa100-week01-national-dementia-action-plan-indicators-dashboard
+- fxa100-week01-national-dementia-action-plan-indicators-dashboard
+tags:
+- policy-evaluation-indicators
+title: Policy Evaluation Indicators
+type: topic
 updated: 2026-05-04
 ---
 

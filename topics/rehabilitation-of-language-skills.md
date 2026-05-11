@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Rehabilitation Of Language Skills"
 confidence: low
-tags: ["rehabilitation-of-language-skills"]
+domain: intervention
+slug: rehabilitation-of-language-skills
 sources:
-  - fxa100-week04-transcript-music-therapy-comforts-soothes-those-with-varying
+- fxa100-week04-transcript-music-therapy-comforts-soothes-those-with-varying
+tags:
+- rehabilitation-of-language-skills
+title: Rehabilitation Of Language Skills
+type: topic
 updated: 2026-05-04
 ---
 

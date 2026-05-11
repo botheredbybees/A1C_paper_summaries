@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Puppetry In Creative Arts Therapy"
 confidence: medium
-tags: ["puppetry"]
+domain: intervention
+slug: puppetry-in-creative-arts-therapy
 sources:
   - fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental
   - fxa303-week06-overview-fxa303-creative-arts-play-and-mental-wellbeing
-updated: 2026-05-04
+- fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental
+- fxa303-week06-overview-fxa303-creative-arts-play-and-mental-wellbeing
+tags:
+- puppetry
+title: Puppetry In Creative Arts Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Puppetry In Creative Arts Therapy

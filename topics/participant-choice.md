@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Participant Choice in Art Therapy"
 confidence: low
-tags: ["participant-choice"]
+domain: intervention
+slug: participant-choice-in-art-therapy
 sources:
-  - fxa100-week08-what-are-the-required-elements-needed-to-create-an
+- fxa100-week08-what-are-the-required-elements-needed-to-create-an
+tags:
+- participant-choice
+title: Participant Choice in Art Therapy
+type: topic
 updated: 2026-05-04
 ---
 

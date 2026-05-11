@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Balanced Parenting"
 confidence: low
-tags: ["balanced-parenting"]
+domain: intervention
+slug: balanced-parenting
 sources:
-  - fxa303-week03-5-ways-to-standbyteens-in-support-of-teen-mental-health
+- fxa303-week03-5-ways-to-standbyteens-in-support-of-teen-mental-health
+tags:
+- balanced-parenting
+title: Balanced Parenting
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "theory"
-title: "Cognitive Psychology in Aesthetic Appreciation and Adolescent Development"
 confidence: medium
-tags: ["cognitive-psychology"]
+domain: theory
+slug: cognitive-psychology-in-aesthetic-appreciation-and-adolescent-development
 sources:
   - fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and
   - fxa303-week02-lesson-fxa303-week02-introduction-copy
-updated: 2026-05-04
+- fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and
+- fxa303-week02-lesson-fxa303-week02-introduction-copy
+tags:
+- cognitive-psychology
+title: Cognitive Psychology in Aesthetic Appreciation and Adolescent Development
+type: topic
+updated: 2026-05-11
 ---
 
 ## Cognitive Psychology in Aesthetic Appreciation and Adolescent Development

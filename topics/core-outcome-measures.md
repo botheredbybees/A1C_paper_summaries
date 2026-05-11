@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Core Outcome Measures"
 confidence: low
-tags: ["core-outcome-measures"]
+domain: method
+slug: core-outcome-measures
 sources:
-  - fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a
+- fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a
+tags:
+- core-outcome-measures
+title: Core Outcome Measures
+type: topic
 updated: 2026-05-04
 ---
 

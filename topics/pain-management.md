@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Hospital Clowning in Pediatric Pain Management"
 confidence: medium
-tags: ["pain-management"]
+domain: intervention
+slug: hospital-clowning-in-pediatric-pain-management
 sources:
-  - fxa303-week08-effectiveness-of-hospital-clowning-on-pediatric-anxiety-and
-  - fxa303-week08-therapeutic-clowns-in-pediatrics-a-systematic-review-and
+- fxa303-week08-effectiveness-of-hospital-clowning-on-pediatric-anxiety-and
+- fxa303-week08-therapeutic-clowns-in-pediatrics-a-systematic-review-and
+tags:
+- pain-management
+title: Hospital Clowning in Pediatric Pain Management
+type: topic
 updated: 2026-05-04
 ---
 

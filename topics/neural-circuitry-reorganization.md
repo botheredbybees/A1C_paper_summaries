@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Neural Circuitry Reorganization"
 confidence: low
-tags: ["neural-circuitry-reorganization"]
+domain: theory
+slug: neural-circuitry-reorganization
 sources:
-  - fxa303-week03-adolescent-development
+- fxa303-week03-adolescent-development
+tags:
+- neural-circuitry-reorganization
+title: Neural Circuitry Reorganization
+type: topic
 updated: 2026-05-04
 ---
 

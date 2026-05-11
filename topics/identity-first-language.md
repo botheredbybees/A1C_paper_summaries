@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Identity-First Language"
 confidence: low
-tags: ["identity-first-language"]
+domain: theory
+slug: identity-first-language
 sources:
-  - fxa301-week09-pwda-language-guide-a-guide-to-language-about-disability
+- fxa301-week09-pwda-language-guide-a-guide-to-language-about-disability
+tags:
+- identity-first-language
+title: Identity-First Language
+type: topic
 updated: 2026-05-04
 ---
 

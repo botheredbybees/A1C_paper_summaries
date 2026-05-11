@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Neurological Diseases"
 confidence: low
-tags: ["neurological-diseases"]
+domain: population
+slug: neurological-diseases
 sources:
-  - fxa301-week01-web-article-zuckerman-2009
+- fxa301-week01-web-article-zuckerman-2009
+tags:
+- neurological-diseases
+title: Neurological Diseases
+type: topic
 updated: 2026-05-04
 ---
 

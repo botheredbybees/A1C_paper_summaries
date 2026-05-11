@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Expression Through Drawing"
 confidence: low
-tags: ["emotional-expression-through-drawing"]
+domain: intervention
+slug: emotional-expression-through-drawing
 sources:
-  - fxa303-week02-developmental-role-of-creative-arts-and-play
+- fxa303-week02-developmental-role-of-creative-arts-and-play
+tags:
+- emotional-expression-through-drawing
+title: Emotional Expression Through Drawing
+type: topic
 updated: 2026-05-04
 ---
 

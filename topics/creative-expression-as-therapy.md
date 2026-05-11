@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Expression As Therapy"
 confidence: low
-tags: ["creative-expression-as-therapy"]
+domain: intervention
+slug: creative-expression-as-therapy
 sources:
-  - fxa303-week09-transcript-arts-mid-north-coast-we-are-all-born-creative
+- fxa303-week09-transcript-arts-mid-north-coast-we-are-all-born-creative
+tags:
+- creative-expression-as-therapy
+title: Creative Expression As Therapy
+type: topic
 updated: 2026-05-04
 ---
 

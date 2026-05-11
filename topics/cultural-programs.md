@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cultural Programs"
 confidence: low
-tags: ["cultural-programs"]
+domain: intervention
+slug: cultural-programs
 sources:
-  - fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report
+- fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report
+tags:
+- cultural-programs
+title: Cultural Programs
+type: topic
 updated: 2026-05-04
 ---
 

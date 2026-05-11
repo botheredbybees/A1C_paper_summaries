@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "intervention"
-title: "Behavioral Problems in Vulnerable Populations"
 confidence: medium
-tags: ["behavioral-problems"]
+domain: intervention
+slug: behavioral-problems-in-vulnerable-populations
 sources:
-  - fxa100-week03-evaluation-of-the-music-and-memory-program-among-nursing
-  - fxa301-week10-creative-arts-in-psychotherapy-for-traumatized-children-in
-  - fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods
+- fxa100-week03-evaluation-of-the-music-and-memory-program-among-nursing
+- fxa301-week10-creative-arts-in-psychotherapy-for-traumatized-children-in
+- fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods
+tags:
+- behavioral-problems
+title: Behavioral Problems in Vulnerable Populations
+type: topic
 updated: 2026-05-04
 ---
 

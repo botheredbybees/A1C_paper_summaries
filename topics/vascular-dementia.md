@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "population"
-title: "Vascular Dementia"
 confidence: medium
-tags: ["vascular-dementia"]
+domain: population
+slug: vascular-dementia
 sources:
-  - fxa100-excellence-in-dementia-care--ch24-chapter-1
-  - fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms
-  - fxa100-week06-preserved-drawing-in-a-sculptor-with-dementia
+- fxa100-excellence-in-dementia-care--ch24-chapter-1
+- fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms
+- fxa100-week06-preserved-drawing-in-a-sculptor-with-dementia
+tags:
+- vascular-dementia
+title: Vascular Dementia
+type: topic
 updated: 2026-05-04
 ---
 

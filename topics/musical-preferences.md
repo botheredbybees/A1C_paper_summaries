@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Musical Preferences"
 confidence: low
-tags: ["musical-preferences"]
+domain: theory
+slug: musical-preferences
 sources:
-  - fxa100-week03-lesson-fxa100-week03-page-1-welcome-to-week-3
+- fxa100-week03-lesson-fxa100-week03-page-1-welcome-to-week-3
+tags:
+- musical-preferences
+title: Musical Preferences
+type: topic
 updated: 2026-05-04
 ---
 

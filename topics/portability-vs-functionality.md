@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Portability vs. Functionality in Photography"
 confidence: low
-tags: ["portability-vs-functionality"]
+domain: intervention
+slug: portability-vs-functionality-in-photography
 sources:
-  - fxa202-week02-week-2-making-pictures
+- fxa202-week02-week-2-making-pictures
+tags:
+- portability-vs-functionality
+title: Portability vs. Functionality in Photography
+type: topic
 updated: 2026-05-04
 ---
 

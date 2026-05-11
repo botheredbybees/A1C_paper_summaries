@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Anxiety Reduction Through Puppet Play Therapy"
 confidence: medium
-tags: ["anxiety-reduction"]
+domain: intervention
+slug: anxiety-reduction-through-puppet-play-therapy
 sources:
   - fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy
   - fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic
-updated: 2026-05-04
+- fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy
+- fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic
+tags:
+- anxiety-reduction
+title: Anxiety Reduction Through Puppet Play Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Anxiety Reduction Through Puppet Play Therapy

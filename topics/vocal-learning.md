@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Vocal Learning and Rhythmic Movement"
 confidence: low
-tags: ["vocal-learning"]
+domain: intervention
+slug: vocal-learning-and-rhythmic-movement
 sources:
-  - fxa100-week03-experimental-evidence-for-synchronization-to-a-musical-beat
+- fxa100-week03-experimental-evidence-for-synchronization-to-a-musical-beat
+tags:
+- vocal-learning
+title: Vocal Learning and Rhythmic Movement
+type: topic
 updated: 2026-05-04
 ---
 

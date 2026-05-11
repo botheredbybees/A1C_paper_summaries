@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "method"
-title: "Healthcare Evaluation"
 confidence: medium
-tags: ["healthcare-evaluation"]
+domain: method
+slug: healthcare-evaluation
 sources:
   - fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision
   - fxa301-arts-in-health-ch67-chapter-6
   - fxa301-week01-robins-i-a-tool-for-assessing-risk-of-bias-in-non
-updated: 2026-05-05
+- fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision
+- fxa301-arts-in-health-ch67-chapter-6
+- fxa301-week01-robins-i-a-tool-for-assessing-risk-of-bias-in-non
+tags:
+- healthcare-evaluation
+title: Healthcare Evaluation
+type: topic
+updated: 2026-05-11
 ---
 
 ## Healthcare Evaluation

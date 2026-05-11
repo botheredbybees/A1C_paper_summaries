@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Subjective Quality of Life"
 confidence: low
-tags: ["subjective-quality-of-life"]
+domain: intervention
+slug: subjective-quality-of-life
 sources:
-  - fxa100-week04-the-singers-breath-implications-for-treatment-of-persons
+- fxa100-week04-the-singers-breath-implications-for-treatment-of-persons
+tags:
+- subjective-quality-of-life
+title: Subjective Quality of Life
+type: topic
 updated: 2026-05-04
 ---
 

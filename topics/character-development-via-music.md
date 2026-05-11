@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Character Development Via Music"
 confidence: low
-tags: ["character-development-via-music"]
+domain: intervention
+slug: character-development-via-music
 sources:
-  - fxa301-week06-psychoanalysis-and-el-sistema-human-development-through
+- fxa301-week06-psychoanalysis-and-el-sistema-human-development-through
+tags:
+- character-development-via-music
+title: Character Development Via Music
+type: topic
 updated: 2026-05-04
 ---
 

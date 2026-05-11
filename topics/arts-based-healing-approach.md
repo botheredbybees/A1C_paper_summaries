@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts-Based Healing Approach"
 confidence: low
-tags: ["arts-based-healing-approach"]
+domain: intervention
+slug: arts-based-healing-approach
 sources:
-  - fxa303-art-therapy-in-response-to-natural-disasters-ch04-chapter-9
+- fxa303-art-therapy-in-response-to-natural-disasters-ch04-chapter-9
+tags:
+- arts-based-healing-approach
+title: Arts-Based Healing Approach
+type: topic
 updated: 2026-05-04
 ---
 

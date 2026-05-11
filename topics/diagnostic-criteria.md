@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Diagnostic Criteria for Neurocognitive Disorders"
 confidence: low
-tags: ["diagnostic-criteria"]
+domain: theory
+slug: diagnostic-criteria-for-neurocognitive-disorders
 sources:
-  - fxa303-week04-dsm-5-tr-neurocognitive-disorders-supplement
+- fxa303-week04-dsm-5-tr-neurocognitive-disorders-supplement
+tags:
+- diagnostic-criteria
+title: Diagnostic Criteria for Neurocognitive Disorders
+type: topic
 updated: 2026-05-04
 ---
 

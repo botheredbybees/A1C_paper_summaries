@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Holistic Healthcare Environment"
 confidence: low
-tags: ["holistic-healthcare-environment"]
+domain: intervention
+slug: holistic-healthcare-environment
 sources:
-  - fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment
+- fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment
+tags:
+- holistic-healthcare-environment
+title: Holistic Healthcare Environment
+type: topic
 updated: 2026-05-04
 ---
 

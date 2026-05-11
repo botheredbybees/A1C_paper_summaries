@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: health-inequalities
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Health Inequalities

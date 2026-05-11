@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Salience Network in Brain Health"
 confidence: low
-tags: ["salience-network"]
+domain: intervention
+slug: salience-network-in-brain-health
 sources:
-  - fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers
+- fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers
+tags:
+- salience-network
+title: Salience Network in Brain Health
+type: topic
 updated: 2026-05-04
 ---
 

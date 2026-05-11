@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Phonological Awareness"
 confidence: low
-tags: ["phonological-awareness"]
+domain: intervention
+slug: phonological-awareness
 sources:
-  - fxa303-week03-music-instruction-can-make-for-a-smarter-teen
+- fxa303-week03-music-instruction-can-make-for-a-smarter-teen
+tags:
+- phonological-awareness
+title: Phonological Awareness
+type: topic
 updated: 2026-05-04
 ---
 

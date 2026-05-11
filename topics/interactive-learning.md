@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Interactive Learning in Educational Settings"
 confidence: low
-tags: ["interactive-learning"]
+domain: intervention
+slug: interactive-learning-in-educational-settings
 sources:
-  - fxa301-week08-school-based-drama-interventions-in-health-promotion-for
+- fxa301-week08-school-based-drama-interventions-in-health-promotion-for
+tags:
+- interactive-learning
+title: Interactive Learning in Educational Settings
+type: topic
 updated: 2026-05-04
 ---
 

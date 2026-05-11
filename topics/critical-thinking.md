@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Critical Thinking"
 confidence: low
-tags: ["critical-thinking"]
+domain: theory
+slug: critical-thinking
 sources:
-  - fxa202-week08-journal-and-visual-research-guidelines
+- fxa202-week08-journal-and-visual-research-guidelines
+tags:
+- critical-thinking
+title: Critical Thinking
+type: topic
 updated: 2026-05-04
 ---
 

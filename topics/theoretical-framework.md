@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Theoretical Frameworks In Play Therapy"
 confidence: low
-tags: ["theoretical-framework"]
+domain: theory
+slug: theoretical-frameworks-in-play-therapy
 sources:
-  - fxa303-week01-an-overview-of-play-therapy
+- fxa303-week01-an-overview-of-play-therapy
+tags:
+- theoretical-framework
+title: Theoretical Frameworks In Play Therapy
+type: topic
 updated: 2026-05-04
 ---
 

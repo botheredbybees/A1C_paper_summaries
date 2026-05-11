@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Social Barriers Transcendence"
 confidence: low
-tags: ["social-barriers-transcendence"]
+domain: intervention
+slug: social-barriers-transcendence
 sources:
-  - fxa303-week08-fxa303-week-8-clowns-and-clowning-in-healthcare-and-trauma
+- fxa303-week08-fxa303-week-8-clowns-and-clowning-in-healthcare-and-trauma
+tags:
+- social-barriers-transcendence
+title: Social Barriers Transcendence
+type: topic
 updated: 2026-05-04
 ---
 

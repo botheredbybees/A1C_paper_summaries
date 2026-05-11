@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Memorial Quilt Initiative"
 confidence: low
-tags: ["memorial-quilt-initiative"]
+domain: intervention
+slug: memorial-quilt-initiative
 sources:
-  - fxa301-week05-web-lecture-5-engaging-with-visual-arts
+- fxa301-week05-web-lecture-5-engaging-with-visual-arts
+tags:
+- memorial-quilt-initiative
+title: Memorial Quilt Initiative
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Communication Accessibility Through Singing"
 confidence: low
-tags: ["communication-accessibility-through-singing"]
+domain: intervention
+slug: communication-accessibility-through-singing
 sources:
-  - fxa301-week09-transcript-nsw-health-2015-nsw-innovation-and-health
+- fxa301-week09-transcript-nsw-health-2015-nsw-innovation-and-health
+tags:
+- communication-accessibility-through-singing
+title: Communication Accessibility Through Singing
+type: topic
 updated: 2026-05-04
 ---
 

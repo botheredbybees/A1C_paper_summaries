@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Research and Evaluation in Social Policy"
 confidence: medium
-tags: ["research-evaluation"]
+domain: method
+slug: research-and-evaluation-in-social-policy
 sources:
   - fxa301-week01-assessing-confidence-in-what-works-in-social-policy
   - fxa301-week03-the-thrive-toolkit-tools-for-health-research-and-evaluation
-updated: 2026-05-05
+- fxa301-week01-assessing-confidence-in-what-works-in-social-policy
+- fxa301-week03-the-thrive-toolkit-tools-for-health-research-and-evaluation
+tags:
+- research-evaluation
+title: Research and Evaluation in Social Policy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Research and Evaluation in Social Policy

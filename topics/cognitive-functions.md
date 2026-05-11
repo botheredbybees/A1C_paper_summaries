@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "theory"
-title: "Cognitive Functions"
 confidence: medium
-tags: ["cognitive-functions"]
+domain: theory
+slug: cognitive-functions
 sources:
   - fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining
   - fxa301-week01-lesson-fxa301-week01-page-2
   - fxa301-week02-the-brain-and-how-we-perceive-information
-updated: 2026-05-05
+- fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining
+- fxa301-week01-lesson-fxa301-week01-page-2
+- fxa301-week02-the-brain-and-how-we-perceive-information
+tags:
+- cognitive-functions
+title: Cognitive Functions
+type: topic
+updated: 2026-05-11
 ---
 
 ## Cognitive Functions

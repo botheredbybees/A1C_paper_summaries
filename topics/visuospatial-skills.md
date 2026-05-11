@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Visuospatial Skills"
 confidence: low
-tags: ["visuospatial-skills"]
+domain: intervention
+slug: visuospatial-skills
 sources:
-  - fxa100-week06-some-workmen-can-blame-their-tools-artistic-change-in-an
+- fxa100-week06-some-workmen-can-blame-their-tools-artistic-change-in-an
+tags:
+- visuospatial-skills
+title: Visuospatial Skills
+type: topic
 updated: 2026-05-04
 ---
 

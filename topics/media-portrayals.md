@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Media Portrayals of Clowns"
 confidence: low
-tags: ["media-portrayals"]
+domain: intervention
+slug: media-portrayals-of-clowns
 sources:
-  - fxa303-week08-fear-of-clowns-an-investigation-into-the-aetiology-of
+- fxa303-week08-fear-of-clowns-an-investigation-into-the-aetiology-of
+tags:
+- media-portrayals
+title: Media Portrayals of Clowns
+type: topic
 updated: 2026-05-04
 ---
 

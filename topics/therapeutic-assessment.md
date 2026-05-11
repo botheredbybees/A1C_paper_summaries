@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Virtual Puppet Play Therapy"
 confidence: low
-tags: ["therapeutic-assessment"]
+domain: intervention
+slug: virtual-puppet-play-therapy
 sources:
-  - fxa303-week06-virtual-puppet-play-therapy
+- fxa303-week06-virtual-puppet-play-therapy
+tags:
+- therapeutic-assessment
+title: Virtual Puppet Play Therapy
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Memory in Music"
 confidence: medium
-tags: ["emotional-memory"]
+domain: intervention
+slug: emotional-memory-in-music
 sources:
   - fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and
   - fxa100-week03-listening-and-dementia-care
-updated: 2026-05-04
+- fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and
+- fxa100-week03-listening-and-dementia-care
+tags:
+- emotional-memory
+title: Emotional Memory in Music
+type: topic
+updated: 2026-05-11
 ---
 
 ## Emotional Memory in Music

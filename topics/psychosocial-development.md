@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Psychosocial Development of Children"
 confidence: low
-tags: ["psychosocial-development"]
+domain: theory
+slug: psychosocial-development-of-children
 sources:
-  - fxa303-week02-the-psychosocial-development-of-children-implications-for
+- fxa303-week02-the-psychosocial-development-of-children-implications-for
+tags:
+- psychosocial-development
+title: Psychosocial Development of Children
+type: topic
 updated: 2026-05-04
 ---
 

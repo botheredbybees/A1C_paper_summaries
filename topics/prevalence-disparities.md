@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Prevalence Disparities in Dementia"
 confidence: low
-tags: ["prevalence-disparities"]
+domain: population
+slug: prevalence-disparities-in-dementia
 sources:
-  - fxa100-week07-dementia-in-our-mob-and-around-the-world
+- fxa100-week07-dementia-in-our-mob-and-around-the-world
+tags:
+- prevalence-disparities
+title: Prevalence Disparities in Dementia
+type: topic
 updated: 2026-05-04
 ---
 

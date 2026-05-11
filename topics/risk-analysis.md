@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Risk Analysis"
 confidence: low
-tags: ["risk-analysis"]
+domain: method
+slug: risk-analysis
 sources:
-  - fxa301-week01-lesson-fxa301-week01-page-2-hm
+- fxa301-week01-lesson-fxa301-week01-page-2-hm
+tags:
+- risk-analysis
+title: Risk Analysis
+type: topic
 updated: 2026-05-04
 ---
 

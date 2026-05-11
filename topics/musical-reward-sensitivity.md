@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Musical Reward Sensitivity"
 confidence: low
-tags: ["musical-reward-sensitivity"]
+domain: theory
+slug: musical-reward-sensitivity
 sources:
-  - fxa303-week03-the-early-adolescent-brain-on-music-analysis-of-functional
+- fxa303-week03-the-early-adolescent-brain-on-music-analysis-of-functional
+tags:
+- musical-reward-sensitivity
+title: Musical Reward Sensitivity
+type: topic
 updated: 2026-05-04
 ---
 

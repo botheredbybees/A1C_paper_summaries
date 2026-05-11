@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Research Rationale"
 confidence: low
-tags: ["research-rationale"]
+domain: theory
+slug: research-rationale
 sources:
-  - fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production-(2)
+- fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production-(2)
+tags:
+- research-rationale
+title: Research Rationale
+type: topic
 updated: 2026-05-04
 ---
 

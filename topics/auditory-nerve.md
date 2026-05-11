@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Auditory Nerve Function"
 confidence: low
-tags: ["auditory-nerve"]
+domain: intervention
+slug: auditory-nerve-function
 sources:
-  - fxa100-week02-video-about-hearing-and-how-it-works-med-el-video-transcript
+- fxa100-week02-video-about-hearing-and-how-it-works-med-el-video-transcript
+tags:
+- auditory-nerve
+title: Auditory Nerve Function
+type: topic
 updated: 2026-05-04
 ---
 

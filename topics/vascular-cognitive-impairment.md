@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Vascular Cognitive Impairment"
 confidence: medium
-tags: ["vascular-cognitive-impairment"]
+domain: intervention
+slug: vascular-cognitive-impairment
 sources:
-  - fxa100-week01-living-with-dementia-12-what-is-vascular-dementia
-  - fxa100-week01-transcript-dementia-australia
+- fxa100-week01-living-with-dementia-12-what-is-vascular-dementia
+- fxa100-week01-transcript-dementia-australia
+tags:
+- vascular-cognitive-impairment
+title: Vascular Cognitive Impairment
+type: topic
 updated: 2026-05-04
 ---
 

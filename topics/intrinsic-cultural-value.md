@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Intrinsic Cultural Value"
 confidence: low
-tags: ["intrinsic-cultural-value"]
+domain: theory
+slug: intrinsic-cultural-value
 sources:
-  - fxa301-week08-the-cultural-value-of-older-peoples-experiences-of-theater
+- fxa301-week08-the-cultural-value-of-older-peoples-experiences-of-theater
+tags:
+- intrinsic-cultural-value
+title: Intrinsic Cultural Value
+type: topic
 updated: 2026-05-04
 ---
 

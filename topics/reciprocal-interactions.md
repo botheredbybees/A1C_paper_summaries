@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Reciprocal Interactions"
 confidence: low
-tags: ["reciprocal-interactions"]
+domain: intervention
+slug: reciprocal-interactions
 sources:
-  - fxa303-week06-puppets-facilitate-attention-to-social-cues-in-children
+- fxa303-week06-puppets-facilitate-attention-to-social-cues-in-children
+tags:
+- reciprocal-interactions
+title: Reciprocal Interactions
+type: topic
 updated: 2026-05-04
 ---
 

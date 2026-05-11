@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Art In Health Programmes"
 confidence: low
-tags: ["art-in-health-programmes"]
+domain: intervention
+slug: art-in-health-programmes
 sources:
-  - fxa301-week06-lesson-fxa301-week06-page-3
+- fxa301-week06-lesson-fxa301-week06-page-3
+tags:
+- art-in-health-programmes
+title: Art In Health Programmes
+type: topic
 updated: 2026-05-04
 ---
 

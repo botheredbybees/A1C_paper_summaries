@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Intellectual Engagement"
 confidence: low
-tags: ["intellectual-engagement"]
+domain: intervention
+slug: intellectual-engagement
 sources:
-  - fxa100-week07-two-art-museum-programs-for-people-with-dementia
+- fxa100-week07-two-art-museum-programs-for-people-with-dementia
+tags:
+- intellectual-engagement
+title: Intellectual Engagement
+type: topic
 updated: 2026-05-04
 ---
 

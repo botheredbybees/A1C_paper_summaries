@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Motor Skills Development"
 confidence: low
-tags: ["motor-skills"]
+domain: intervention
+slug: motor-skills-development
 sources:
-  - fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental
+- fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental
+tags:
+- motor-skills
+title: Motor Skills Development
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mindfulness-techniques
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Mindfulness Techniques

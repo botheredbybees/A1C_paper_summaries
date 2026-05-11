@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Motion Creates Emotion Theory"
 confidence: low
-tags: ["motion-creates-emotion-theory"]
+domain: theory
+slug: motion-creates-emotion-theory
 sources:
-  - fxa301-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
+- fxa301-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
+tags:
+- motion-creates-emotion-theory
+title: Motion Creates Emotion Theory
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Self-Agency in Health and Wellness"
 confidence: low
-tags: ["self-agency"]
+domain: intervention
+slug: self-agency-in-health-and-wellness
 sources:
-  - fxa301-week09-lesson-fxa301-week09-page-1
+- fxa301-week09-lesson-fxa301-week09-page-1
+tags:
+- self-agency
+title: Self-Agency in Health and Wellness
+type: topic
 updated: 2026-05-04
 ---
 

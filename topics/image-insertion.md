@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "method"
-title: "Image Insertion in Powerpoint Presentations"
 confidence: medium
-tags: ["image-insertion"]
+domain: method
+slug: image-insertion-in-powerpoint-presentations
 sources:
-  - fxa202-week06-tips-for-making-your-powerpoint-presentation
-  - fxa202-week06-tips-for-making-your-powerpoint-presentation-(2)
+- fxa202-week06-tips-for-making-your-powerpoint-presentation
+- fxa202-week06-tips-for-making-your-powerpoint-presentation-(2)
+tags:
+- image-insertion
+title: Image Insertion in Powerpoint Presentations
+type: topic
 updated: 2026-05-04
 ---
 

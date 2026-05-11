@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Safe Handling Practices"
 confidence: low
-tags: ["safe-handling-practices"]
+domain: intervention
+slug: safe-handling-practices
 sources:
-  - fxa202-week08-home-hints-for-artwork-and-object-documentation
+- fxa202-week08-home-hints-for-artwork-and-object-documentation
+tags:
+- safe-handling-practices
+title: Safe Handling Practices
+type: topic
 updated: 2026-05-04
 ---
 

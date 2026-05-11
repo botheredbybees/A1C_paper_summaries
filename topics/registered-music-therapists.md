@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Registered Music Therapists"
 confidence: low
-tags: ["registered-music-therapists"]
+domain: intervention
+slug: registered-music-therapists
 sources:
-  - fxa100-week04-music-therapy-disability-evidence-summary-2024
+- fxa100-week04-music-therapy-disability-evidence-summary-2024
+tags:
+- registered-music-therapists
+title: Registered Music Therapists
+type: topic
 updated: 2026-05-04
 ---
 

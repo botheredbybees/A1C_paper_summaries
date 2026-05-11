@@ -1,16 +1,22 @@
 ---
-type: topic
-domain: "intervention"
-title: "Reminiscence Therapy"
 confidence: medium
-tags: ["reminiscence-therapy"]
+domain: intervention
+slug: reminiscence-therapy
 sources:
-  - fxa100-creativity-and-communication-ch02-15-putting-the-it-into-creativity-exploring-the-creative
   - fxa100-excellence-in-dementia-care--ch12-chapter-14
   - fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care
   - fxa100-week08-creativity-and-communication-in-persons-with-dementia-a
   - fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family
-updated: 2026-05-05
+- fxa100-creativity-and-communication-ch02-15-putting-the-it-into-creativity-exploring-the-creative
+- fxa100-excellence-in-dementia-care--ch12-chapter-14
+- fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care
+- fxa100-week08-creativity-and-communication-in-persons-with-dementia-a
+- fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family
+tags:
+- reminiscence-therapy
+title: Reminiscence Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Reminiscence Therapy
@@ -29,7 +35,6 @@ The synthesis integrates the use of technology and music in reminiscence therapy
 
 ## Sources
 
-- [fxa100-creativity-and-communication-ch02-15-putting-the-it-into-creativity-exploring-the-creative](../sources/fxa100-creativity-and-communication-ch02-15-putting-the-it-into-creativity-exploring-the-creative.md)
 - [fxa100-excellence-in-dementia-care--ch12-chapter-14](../sources/fxa100-excellence-in-dementia-care--ch12-chapter-14.md)
 - [fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care](../sources/fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care.md)
 - [fxa100-week08-creativity-and-communication-in-persons-with-dementia-a](../sources/fxa100-week08-creativity-and-communication-in-persons-with-dementia-a.md)

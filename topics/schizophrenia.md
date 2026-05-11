@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Puppet Therapy"
 confidence: low
-tags: ["schizophrenia"]
+domain: intervention
+slug: creative-puppet-therapy
 sources:
-  - fxa303-week06-creative-puppet-therapy-reduces-hallucinations-in-patients
+- fxa303-week06-creative-puppet-therapy-reduces-hallucinations-in-patients
+tags:
+- schizophrenia
+title: Creative Puppet Therapy
+type: topic
 updated: 2026-05-04
 ---
 

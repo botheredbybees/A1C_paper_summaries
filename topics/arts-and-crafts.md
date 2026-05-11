@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts and Crafts Therapy"
 confidence: medium
-tags: ["arts-and-crafts"]
+domain: intervention
+slug: arts-and-crafts-therapy
 sources:
   - fxa100-week07-transcript-youtube-qvnfj1otdyc
   - fxa100-week08-web-article-reyner-2006
-updated: 2026-05-04
+- fxa100-week07-transcript-youtube-qvnfj1otdyc
+- fxa100-week08-web-article-reyner-2006
+tags:
+- arts-and-crafts
+title: Arts and Crafts Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Arts and Crafts Therapy

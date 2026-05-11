@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "theory"
-title: "Dementia and Its Forms"
 confidence: medium
-tags: ["neurodegenerative-diseases"]
+domain: theory
+slug: dementia-and-its-forms
 sources:
   - fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms
   - fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities
-updated: 2026-05-04
+- fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms
+- fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities
+tags:
+- neurodegenerative-diseases
+title: Dementia and Its Forms
+type: topic
+updated: 2026-05-11
 ---
 
 ## Dementia and Its Forms

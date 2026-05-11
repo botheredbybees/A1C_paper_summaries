@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Healing Through Creativity"
 confidence: low
-tags: ["emotional-healing-through-creativity"]
+domain: intervention
+slug: emotional-healing-through-creativity
 sources:
-  - fxa301-week05-art-as-therapy
+- fxa301-week05-art-as-therapy
+tags:
+- emotional-healing-through-creativity
+title: Emotional Healing Through Creativity
+type: topic
 updated: 2026-05-04
 ---
 

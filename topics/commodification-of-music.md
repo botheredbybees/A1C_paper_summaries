@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Commodification Of Music"
 confidence: low
-tags: ["commodification-of-music"]
+domain: theory
+slug: commodification-of-music
 sources:
-  - fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness
+- fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness
+tags:
+- commodification-of-music
+title: Commodification Of Music
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cultural Sustainability Through Arts and Wellbeing"
 confidence: medium
-tags: ["cultural-sustainability"]
+domain: intervention
+slug: cultural-sustainability-through-arts-and-wellbeing
 sources:
-  - fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts-(2)
-  - fxa301-week05-happy-museum-learning-evaluation-report
+- fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts-(2)
+- fxa301-week05-happy-museum-learning-evaluation-report
+tags:
+- cultural-sustainability
+title: Cultural Sustainability Through Arts and Wellbeing
+type: topic
 updated: 2026-05-04
 ---
 

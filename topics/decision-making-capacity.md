@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Decision-Making Capacity"
 confidence: low
-tags: ["decision-making-capacity"]
+domain: intervention
+slug: decision-making-capacity
 sources:
-  - fxa100-excellence-in-dementia-care--ch04-chapter-14
+- fxa100-excellence-in-dementia-care--ch04-chapter-14
+tags:
+- decision-making-capacity
+title: Decision-Making Capacity
+type: topic
 updated: 2026-05-04
 ---
 

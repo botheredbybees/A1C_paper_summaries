@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Self-Reported Wellbeing"
 confidence: low
-tags: ["self-reported-wellbeing"]
+domain: theory
+slug: self-reported-wellbeing
 sources:
-  - fxa301-week05-the-2024-happy-planet-index
+- fxa301-week05-the-2024-happy-planet-index
+tags:
+- self-reported-wellbeing
+title: Self-Reported Wellbeing
+type: topic
 updated: 2026-05-04
 ---
 

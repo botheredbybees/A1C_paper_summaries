@@ -1,12 +1,13 @@
 ---
 type: tag
 tag: research-methods
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Research Methods
 
 - [An introduction to research](../sources/fxa100-week04-an-introduction-to-research.md)
+- [Activities for Week 11 - FXA100 The Arts and Dementia Care](../sources/fxa100-week11-lesson-fxa100-week11-page-4-week-10-activities.md)
 - [Research Related Projects and Problem Tree Development](../sources/fxa301-arts-in-health-ch29-4-invite-open-responses.md)
 - [Evaluation, Research and Audits in Healthcare](../sources/fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision.md)
 - [Evaluation and Research in Healthcare](../sources/fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision-(2).md)

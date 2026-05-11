@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Re-Engagement"
 confidence: low
-tags: ["emotional-re-engagement"]
+domain: intervention
+slug: emotional-re-engagement
 sources:
-  - fxa100-week04-mindsong-transcript
+- fxa100-week04-mindsong-transcript
+tags:
+- emotional-re-engagement
+title: Emotional Re-Engagement
+type: topic
 updated: 2026-05-04
 ---
 

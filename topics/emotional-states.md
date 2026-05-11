@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "theory"
-title: "Emotional States"
 confidence: medium
-tags: ["emotional-states"]
+domain: theory
+slug: emotional-states
 sources:
-  - fxa202-week10-chromophilia
-  - fxa301-week03-music-listening-for-supporting-adolescents-sense-of-agency
+- fxa202-week10-chromophilia
+- fxa301-week03-music-listening-for-supporting-adolescents-sense-of-agency
+tags:
+- emotional-states
+title: Emotional States
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuroscience-of-art
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Neuroscience Of Art

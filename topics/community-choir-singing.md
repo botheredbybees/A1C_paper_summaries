@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Community Choir Singing"
 confidence: low
-tags: ["community-choir-singing"]
+domain: intervention
+slug: community-choir-singing
 sources:
-  - fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes
+- fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes
+tags:
+- community-choir-singing
+title: Community Choir Singing
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "theory"
-title: "Sense of Agency"
 confidence: medium
-tags: ["sense-of-agency"]
+domain: theory
+slug: sense-of-agency
 sources:
-  - fxa301-week03-music-listening-for-supporting-adolescents-sense-of-agency
-  - fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the
-  - fxa303-week10-music-and-refugees-wellbeing-in-contexts-of-protracted
+- fxa301-week03-music-listening-for-supporting-adolescents-sense-of-agency
+- fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the
+- fxa303-week10-music-and-refugees-wellbeing-in-contexts-of-protracted
+tags:
+- sense-of-agency
+title: Sense of Agency
+type: topic
 updated: 2026-05-04
 ---
 

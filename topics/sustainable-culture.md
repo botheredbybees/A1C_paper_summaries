@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Trauma-Informed Care and Practice Organizational Toolkit"
 confidence: low
-tags: ["sustainable-culture"]
+domain: intervention
+slug: trauma-informed-care-and-practice-organizational-toolkit
 sources:
-  - fxa303-week09-the-trauma-informed-care-and-practice-organisational
+- fxa303-week09-the-trauma-informed-care-and-practice-organisational
+tags:
+- sustainable-culture
+title: Trauma-Informed Care and Practice Organizational Toolkit
+type: topic
 updated: 2026-05-04
 ---
 

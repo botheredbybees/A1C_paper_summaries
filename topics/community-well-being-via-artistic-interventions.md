@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Community Well-Being Via Artistic Interventions"
 confidence: low
-tags: ["community-well-being-via-artistic-interventions"]
+domain: intervention
+slug: community-well-being-via-artistic-interventions
 sources:
-  - fxa301-week03-arts-health-and-well-being-in-america
+- fxa301-week03-arts-health-and-well-being-in-america
+tags:
+- community-well-being-via-artistic-interventions
+title: Community Well-Being Via Artistic Interventions
+type: topic
 updated: 2026-05-04
 ---
 

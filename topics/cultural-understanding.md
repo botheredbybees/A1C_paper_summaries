@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Cultural Understanding"
 confidence: low
-tags: ["cultural-understanding"]
+domain: theory
+slug: cultural-understanding
 sources:
-  - fxa301-week05-web-lecture-5-engaging-with-visual-arts
+- fxa301-week05-web-lecture-5-engaging-with-visual-arts
+tags:
+- cultural-understanding
+title: Cultural Understanding
+type: topic
 updated: 2026-05-04
 ---
 

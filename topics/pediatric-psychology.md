@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Puppet Play Therapy and Fear of Clowns in Pediatric Psychology"
 confidence: medium
-tags: ["pediatric-psychology"]
+domain: intervention
+slug: puppet-play-therapy-and-fear-of-clowns-in-pediatric-psychology
 sources:
   - fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic
   - fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective
-updated: 2026-05-04
+- fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic
+- fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective
+tags:
+- pediatric-psychology
+title: Puppet Play Therapy and Fear of Clowns in Pediatric Psychology
+type: topic
+updated: 2026-05-11
 ---
 
 ## Puppet Play Therapy and Fear of Clowns in Pediatric Psychology

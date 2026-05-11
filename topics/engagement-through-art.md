@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Engagement Through Art"
 confidence: low
-tags: ["engagement-through-art"]
+domain: intervention
+slug: engagement-through-art
 sources:
-  - fxa100-week07-for-visitors-with-dementia
+- fxa100-week07-for-visitors-with-dementia
+tags:
+- engagement-through-art
+title: Engagement Through Art
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Localization of Brain Functions"
 confidence: low
-tags: ["localization-of-brain-functions"]
+domain: theory
+slug: localization-of-brain-functions
 sources:
-  - fxa100-week08-art-and-the-brain-effects-of-dementia-on-art-production-in
+- fxa100-week08-art-and-the-brain-effects-of-dementia-on-art-production-in
+tags:
+- localization-of-brain-functions
+title: Localization of Brain Functions
+type: topic
 updated: 2026-05-04
 ---
 

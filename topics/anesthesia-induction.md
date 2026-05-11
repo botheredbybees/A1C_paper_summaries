@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Anesthesia Induction"
 confidence: low
-tags: ["anesthesia-induction"]
+domain: intervention
+slug: anesthesia-induction
 sources:
-  - fxa303-week08-therapeutic-clowning-in-paediatric-practice
+- fxa303-week08-therapeutic-clowning-in-paediatric-practice
+tags:
+- anesthesia-induction
+title: Anesthesia Induction
+type: topic
 updated: 2026-05-04
 ---
 

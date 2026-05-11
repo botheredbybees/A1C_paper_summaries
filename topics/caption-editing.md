@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Caption Editing in Photographic Journalism"
 confidence: low
-tags: ["caption-editing"]
+domain: intervention
+slug: caption-editing-in-photographic-journalism
 sources:
-  - fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays
+- fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays
+tags:
+- caption-editing
+title: Caption Editing in Photographic Journalism
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Symbolic Representation in Therapy"
 confidence: low
-tags: ["symbolic-representation"]
+domain: intervention
+slug: symbolic-representation-in-therapy
 sources:
-  - fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental
+- fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental
+tags:
+- symbolic-representation
+title: Symbolic Representation in Therapy
+type: topic
 updated: 2026-05-04
 ---
 

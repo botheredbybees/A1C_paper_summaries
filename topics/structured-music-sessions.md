@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Structured Music Sessions"
 confidence: low
-tags: ["structured-music-sessions"]
+domain: intervention
+slug: structured-music-sessions
 sources:
-  - fxa303-week04-transcript-duration-34-19
+- fxa303-week04-transcript-duration-34-19
+tags:
+- structured-music-sessions
+title: Structured Music Sessions
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Health and Well-being Benefits"
 confidence: low
-tags: ["health-and-well-being-benefits"]
+domain: theory
+slug: health-and-well-being-benefits
 sources:
-  - fxa202-week10-conclusions-and-implications-for-future-research
+- fxa202-week10-conclusions-and-implications-for-future-research
+tags:
+- health-and-well-being-benefits
+title: Health and Well-being Benefits
+type: topic
 updated: 2026-05-04
 ---
 

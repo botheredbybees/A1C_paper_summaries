@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Strengths Perspective in Therapeutic Interventions"
 confidence: low
-tags: ["strengths-perspective"]
+domain: intervention
+slug: strengths-perspective-in-therapeutic-interventions
 sources:
-  - fxa303-puppet-assisted-play-therapy-ch02-1-we-must-encourage-children-to-use-their-imagination-and
+- fxa303-puppet-assisted-play-therapy-ch02-1-we-must-encourage-children-to-use-their-imagination-and
+tags:
+- strengths-perspective
+title: Strengths Perspective in Therapeutic Interventions
+type: topic
 updated: 2026-05-04
 ---
 

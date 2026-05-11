@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Arts and Disaster Management"
 confidence: medium
-tags: ["disaster-management"]
+domain: intervention
+slug: creative-arts-and-disaster-management
 sources:
   - fxa303-week09-lesson-fxa303-week09-page-1-overview
   - fxa303-week09-national-taskforce-for-creative-recovery-recommendations
-updated: 2026-05-04
+- fxa303-week09-lesson-fxa303-week09-page-1-overview
+- fxa303-week09-national-taskforce-for-creative-recovery-recommendations
+tags:
+- disaster-management
+title: Creative Arts and Disaster Management
+type: topic
+updated: 2026-05-11
 ---
 
 ## Creative Arts and Disaster Management

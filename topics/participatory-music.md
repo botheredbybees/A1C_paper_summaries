@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Participatory Music for Dementia Care"
 confidence: medium
-tags: ["participatory-music"]
+domain: intervention
+slug: participatory-music-for-dementia-care
 sources:
   - fxa100-week04-lesson-fxa100-week04-page-1-welcome-to-week-4
   - fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care
-updated: 2026-05-04
+- fxa100-week04-lesson-fxa100-week04-page-1-welcome-to-week-4
+- fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care
+tags:
+- participatory-music
+title: Participatory Music for Dementia Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Participatory Music for Dementia Care

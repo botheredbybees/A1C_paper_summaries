@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Genetic Expression in Health Outcomes"
 confidence: low
-tags: ["genetic-expression"]
+domain: intervention
+slug: genetic-expression-in-health-outcomes
 sources:
-  - fxa301-week03-arts-health-and-wellbeing-evidence-and-implications
+- fxa301-week03-arts-health-and-wellbeing-evidence-and-implications
+tags:
+- genetic-expression
+title: Genetic Expression in Health Outcomes
+type: topic
 updated: 2026-05-04
 ---
 

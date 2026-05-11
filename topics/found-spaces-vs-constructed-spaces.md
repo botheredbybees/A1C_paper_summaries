@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Found Spaces Vs Constructed Spaces"
 confidence: low
-tags: ["found-spaces-vs-constructed-spaces"]
+domain: method
+slug: found-spaces-vs-constructed-spaces
 sources:
-  - fxa303-week09-beyond-the-fence-constructed-and-found-spaces-for-childrens
+- fxa303-week09-beyond-the-fence-constructed-and-found-spaces-for-childrens
+tags:
+- found-spaces-vs-constructed-spaces
+title: Found Spaces Vs Constructed Spaces
+type: topic
 updated: 2026-05-04
 ---
 

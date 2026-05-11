@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Technological Barriers in Occupational Therapy"
 confidence: low
-tags: ["technological-barriers"]
+domain: intervention
+slug: technological-barriers-in-occupational-therapy
 sources:
-  - fxa301-week08-arts-gymnasium-goes-digital
+- fxa301-week08-arts-gymnasium-goes-digital
+tags:
+- technological-barriers
+title: Technological Barriers in Occupational Therapy
+type: topic
 updated: 2026-05-04
 ---
 

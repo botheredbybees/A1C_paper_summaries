@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: nature-nurture
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Nature Nurture

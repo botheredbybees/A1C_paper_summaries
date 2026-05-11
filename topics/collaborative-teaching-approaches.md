@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Collaborative Teaching Approaches"
 confidence: low
-tags: ["collaborative-teaching-approaches"]
+domain: intervention
+slug: collaborative-teaching-approaches
 sources:
-  - fxa301-week05-art-as-therapy
+- fxa301-week05-art-as-therapy
+tags:
+- collaborative-teaching-approaches
+title: Collaborative Teaching Approaches
+type: topic
 updated: 2026-05-04
 ---
 

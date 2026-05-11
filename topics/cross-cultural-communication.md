@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Cross-Cultural Communication"
 confidence: low
-tags: ["cross-cultural-communication"]
+domain: method
+slug: cross-cultural-communication
 sources:
-  - fxa303-art-therapy-in-response-to-natural-disasters-ch06-1-i-envisioned-an-opportunity-to-assert-lasalle
+- fxa303-art-therapy-in-response-to-natural-disasters-ch06-1-i-envisioned-an-opportunity-to-assert-lasalle
+tags:
+- cross-cultural-communication
+title: Cross-Cultural Communication
+type: topic
 updated: 2026-05-04
 ---
 

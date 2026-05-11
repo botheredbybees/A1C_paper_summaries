@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Care Participation in Collaborative Performance"
 confidence: low
-tags: ["care-participation"]
+domain: intervention
+slug: care-participation-in-collaborative-performance
 sources:
-  - fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1
+- fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1
+tags:
+- care-participation
+title: Care Participation in Collaborative Performance
+type: topic
 updated: 2026-05-04
 ---
 

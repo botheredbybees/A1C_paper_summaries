@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sistema Scotland"
 confidence: medium
-tags: ["sistema-scotland"]
+domain: intervention
+slug: sistema-scotland
 sources:
-  - fxa301-week06-case-studies-of-community-projects-big-noise-sistema
-  - fxa301-week06-evaluation-of-big-noise-douglas
+- fxa301-week06-case-studies-of-community-projects-big-noise-sistema
+- fxa301-week06-evaluation-of-big-noise-douglas
+tags:
+- sistema-scotland
+title: Sistema Scotland
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Adjusted Analysis in Educational Outcomes"
 confidence: low
-tags: ["adjusted-analysis"]
+domain: method
+slug: adjusted-analysis-in-educational-outcomes
 sources:
-  - fxa301-week06-statistical-analysis-of-educational-outcomes-among-big
+- fxa301-week06-statistical-analysis-of-educational-outcomes-among-big
+tags:
+- adjusted-analysis
+title: Adjusted Analysis in Educational Outcomes
+type: topic
 updated: 2026-05-04
 ---
 

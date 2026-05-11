@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Deep Memory Structures"
 confidence: low
-tags: ["deep-memory-structures"]
+domain: theory
+slug: deep-memory-structures
 sources:
-  - fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted
+- fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted
+tags:
+- deep-memory-structures
+title: Deep Memory Structures
+type: topic
 updated: 2026-05-04
 ---
 

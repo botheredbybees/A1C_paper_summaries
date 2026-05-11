@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Embodied Therapy"
 confidence: low
-tags: ["embodied-therapy"]
+domain: intervention
+slug: embodied-therapy
 sources:
-  - fxa202-week10-identity-connection-and-motivation
+- fxa202-week10-identity-connection-and-motivation
+tags:
+- embodied-therapy
+title: Embodied Therapy
+type: topic
 updated: 2026-05-04
 ---
 

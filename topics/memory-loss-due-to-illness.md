@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Memory Loss Due To Illness"
 confidence: low
-tags: ["memory-loss-due-to-illness"]
+domain: intervention
+slug: memory-loss-due-to-illness
 sources:
-  - fxa202-week06-remembrance
+- fxa202-week06-remembrance
+tags:
+- memory-loss-due-to-illness
+title: Memory Loss Due To Illness
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Staff Attitudes Towards Creative Expression Interventions"
 confidence: low
-tags: ["staff-attitudes"]
+domain: intervention
+slug: staff-attitudes-towards-creative-expression-interventions
 sources:
-  - fxa100-week10-the-impact-of-timeslips-a-creative-expression-intervention
+- fxa100-week10-the-impact-of-timeslips-a-creative-expression-intervention
+tags:
+- staff-attitudes
+title: Staff Attitudes Towards Creative Expression Interventions
+type: topic
 updated: 2026-05-04
 ---
 

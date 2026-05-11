@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Artistic Genius"
 confidence: low
-tags: ["artistic-genius"]
+domain: intervention
+slug: artistic-genius
 sources:
-  - fxa301-week05-lesson-fxa301-week05-page-1
+- fxa301-week05-lesson-fxa301-week05-page-1
+tags:
+- artistic-genius
+title: Artistic Genius
+type: topic
 updated: 2026-05-04
 ---
 

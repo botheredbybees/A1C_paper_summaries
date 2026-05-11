@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Wellbeing Improvement Through Arts and Music"
 confidence: medium
-tags: ["wellbeing-improvement"]
+domain: intervention
+slug: wellbeing-improvement-through-arts-and-music
 sources:
-  - fxa301-week05-lesson-fxa301-week05-page-1
-  - fxa301-week06-further-evidence-that-singing-fosters-mental-health-and
+- fxa301-week05-lesson-fxa301-week05-page-1
+- fxa301-week06-further-evidence-that-singing-fosters-mental-health-and
+tags:
+- wellbeing-improvement
+title: Wellbeing Improvement Through Arts and Music
+type: topic
 updated: 2026-05-04
 ---
 

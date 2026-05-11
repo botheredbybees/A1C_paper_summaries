@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Dopaminergic Systems in Neurological Function"
 confidence: low
-tags: ["dopaminergic-systems"]
+domain: theory
+slug: dopaminergic-systems-in-neurological-function
 sources:
-  - fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro
+- fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro
+tags:
+- dopaminergic-systems
+title: Dopaminergic Systems in Neurological Function
+type: topic
 updated: 2026-05-04
 ---
 

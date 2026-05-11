@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Transferable Skills"
 confidence: low
-tags: ["transferable-skills"]
+domain: intervention
+slug: transferable-skills
 sources:
-  - fxa301-week05-an-education-in-music-makes-you-a-better-employee-are
+- fxa301-week05-an-education-in-music-makes-you-a-better-employee-are
+tags:
+- transferable-skills
+title: Transferable Skills
+type: topic
 updated: 2026-05-04
 ---
 

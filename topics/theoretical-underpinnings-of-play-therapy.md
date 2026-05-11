@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Theoretical Underpinnings of Play Therapy"
 confidence: low
-tags: ["theoretical-underpinnings-of-play-therapy"]
+domain: theory
+slug: theoretical-underpinnings-of-play-therapy
 sources:
-  - fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice
+- fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice
+tags:
+- theoretical-underpinnings-of-play-therapy
+title: Theoretical Underpinnings of Play Therapy
+type: topic
 updated: 2026-05-04
 ---
 

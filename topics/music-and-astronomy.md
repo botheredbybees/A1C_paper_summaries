@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Music and Astronomy"
 confidence: low
-tags: ["music-and-astronomy"]
+domain: theory
+slug: music-and-astronomy
 sources:
-  - fxa301-week06-quadrivium-the-noble-fourfold-way-to-an-understanding-of
+- fxa301-week06-quadrivium-the-noble-fourfold-way-to-an-understanding-of
+tags:
+- music-and-astronomy
+title: Music and Astronomy
+type: topic
 updated: 2026-05-04
 ---
 

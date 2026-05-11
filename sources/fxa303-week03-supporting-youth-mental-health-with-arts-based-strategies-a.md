@@ -11,7 +11,7 @@ tags: ["youth-mental-health", "arts-based-strategies", "global-health-initiative
 key_concepts: ["mental health disorders in youth", "arts-and-culture-based interventions", "elevating youth voice"]
 methods: ["systematic review"]
 slug: fxa303-week03-supporting-youth-mental-health-with-arts-based-strategies-a
-related: ["community-engagement", "cultural-practices", "youth-mental-health"]
+related: ["arts-based-strategies", "community-engagement", "cultural-practices", "youth-mental-health"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -47,6 +47,7 @@ Furthermore, the article explores mechanisms behind the effectiveness of arts-ba
 
 ## See Also
 
+- [arts-based-strategies](../topics/arts-based-strategies.md)
 - [community-engagement](../topics/community-engagement.md)
 - [cultural-practices](../topics/cultural-practices.md)
 - [youth-mental-health](../topics/youth-mental-health.md)

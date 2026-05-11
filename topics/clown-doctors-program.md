@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Clown Doctors Program"
 confidence: low
-tags: ["clown-doctors-program"]
+domain: intervention
+slug: clown-doctors-program
 sources:
-  - fxa301-week08-clown-doctors-australia-strategy-2025-2030
+- fxa301-week08-clown-doctors-australia-strategy-2025-2030
+tags:
+- clown-doctors-program
+title: Clown Doctors Program
+type: topic
 updated: 2026-05-04
 ---
 

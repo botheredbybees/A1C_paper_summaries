@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music Therapy and Agitation Reduction in Dementia Care"
 confidence: medium
-tags: ["agitation-reduction"]
+domain: intervention
+slug: music-therapy-and-agitation-reduction-in-dementia-care
 sources:
-  - fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for
-  - fxa100-week04-music-therapy-and-music-assisted-caregiving-for-dementia
+- fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for
+- fxa100-week04-music-therapy-and-music-assisted-caregiving-for-dementia
+tags:
+- agitation-reduction
+title: Music Therapy and Agitation Reduction in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

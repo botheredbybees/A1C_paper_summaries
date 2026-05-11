@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Academic Achievement"
 confidence: low
-tags: ["academic-achievement"]
+domain: population
+slug: academic-achievement
 sources:
-  - fxa100-week07-transcript-youtube-qvnfj1otdyc
+- fxa100-week07-transcript-youtube-qvnfj1otdyc
+tags:
+- academic-achievement
+title: Academic Achievement
+type: topic
 updated: 2026-05-04
 ---
 

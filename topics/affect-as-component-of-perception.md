@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Affect as Component of Perception"
 confidence: low
-tags: ["affect-as-component-of-perception"]
+domain: theory
+slug: affect-as-component-of-perception
 sources:
-  - fxa301-week02-neckers-smile-immediate-affective-consequences-of-early
+- fxa301-week02-neckers-smile-immediate-affective-consequences-of-early
+tags:
+- affect-as-component-of-perception
+title: Affect as Component of Perception
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Photo-Editing Applications"
 confidence: low
-tags: ["photo-editing-application"]
+domain: intervention
+slug: photo-editing-applications
 sources:
-  - fxa202-week02-a-beginners-guide-to-photo-editing-with-snapseed
+- fxa202-week02-a-beginners-guide-to-photo-editing-with-snapseed
+tags:
+- photo-editing-application
+title: Photo-Editing Applications
+type: topic
 updated: 2026-05-04
 ---
 

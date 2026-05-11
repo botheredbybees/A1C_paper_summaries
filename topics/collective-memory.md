@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Collective Memory"
 confidence: low
-tags: ["collective-memory"]
+domain: theory
+slug: collective-memory
 sources:
-  - fxa301-week05-cork-as-canvas-exploring-intersections-of-citizenship-and
+- fxa301-week05-cork-as-canvas-exploring-intersections-of-citizenship-and
+tags:
+- collective-memory
+title: Collective Memory
+type: topic
 updated: 2026-05-04
 ---
 

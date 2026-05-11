@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cognitive Stimulation Therapy"
 confidence: medium
-tags: ["cognitive-stimulation-therapy"]
+domain: intervention
+slug: cognitive-stimulation-therapy
 sources:
-  - fxa100-week04-interventions-for-dementia-care
-  - fxa100-week07-interventions-dementia-services-information-and-development
+- fxa100-week04-interventions-for-dementia-care
+- fxa100-week07-interventions-dementia-services-information-and-development
+tags:
+- cognitive-stimulation-therapy
+title: Cognitive Stimulation Therapy
+type: topic
 updated: 2026-05-04
 ---
 

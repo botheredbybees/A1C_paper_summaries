@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Establishing Shot"
 confidence: low
-tags: ["establishing-shot"]
+domain: method
+slug: establishing-shot
 sources:
-  - fxa202-week05-lesson-fxa202-week05-chapter-2-beginnings-and-endings
+- fxa202-week05-lesson-fxa202-week05-chapter-2-beginnings-and-endings
+tags:
+- establishing-shot
+title: Establishing Shot
+type: topic
 updated: 2026-05-04
 ---
 

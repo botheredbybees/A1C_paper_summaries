@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Well-Being Indicators"
 confidence: low
-tags: ["well-being-indicators"]
+domain: theory
+slug: well-being-indicators
 sources:
-  - fxa100-week08-it-makes-me-feel-like-myself-person-centered-versus
+- fxa100-week08-it-makes-me-feel-like-myself-person-centered-versus
+tags:
+- well-being-indicators
+title: Well-Being Indicators
+type: topic
 updated: 2026-05-04
 ---
 

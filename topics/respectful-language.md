@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Respectful Language in Dementia Care"
 confidence: low
-tags: ["respectful-language"]
+domain: intervention
+slug: respectful-language-in-dementia-care
 sources:
-  - fxa100-week04-how-to-talk-about-dementia
+- fxa100-week04-how-to-talk-about-dementia
+tags:
+- respectful-language
+title: Respectful Language in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

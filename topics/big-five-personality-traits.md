@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Big Five Personality Traits"
 confidence: low
-tags: ["big-five-personality-traits"]
+domain: theory
+slug: big-five-personality-traits
 sources:
-  - fxa301-week02-personality-correlates-of-aesthetic-preferences-for-art
+- fxa301-week02-personality-correlates-of-aesthetic-preferences-for-art
+tags:
+- big-five-personality-traits
+title: Big Five Personality Traits
+type: topic
 updated: 2026-05-04
 ---
 

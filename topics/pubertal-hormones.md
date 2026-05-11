@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Pubertal Hormones"
 confidence: low
-tags: ["pubertal-hormones"]
+domain: theory
+slug: pubertal-hormones
 sources:
-  - fxa303-week03-pubertal-hormones-organize-the-adolescent-brain-and-behavior
+- fxa303-week03-pubertal-hormones-organize-the-adolescent-brain-and-behavior
+tags:
+- pubertal-hormones
+title: Pubertal Hormones
+type: topic
 updated: 2026-05-04
 ---
 

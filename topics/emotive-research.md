@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Emotive Research in Aged Care"
 confidence: low
-tags: ["emotive-research"]
+domain: method
+slug: emotive-research-in-aged-care
 sources:
-  - fxa202-week10-creative-arts-based-research-in-aged-care-photovoice
+- fxa202-week10-creative-arts-based-research-in-aged-care-photovoice
+tags:
+- emotive-research
+title: Emotive Research in Aged Care
+type: topic
 updated: 2026-05-04
 ---
 

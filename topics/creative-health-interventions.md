@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Arts Therapy in Healthcare"
 confidence: medium
-tags: ["creative-health-interventions"]
+domain: intervention
+slug: creative-arts-therapy-in-healthcare
 sources:
   - fxa301-week03-challenges-in-end-of-life-care-and-bereavement
   - fxa301-week03-creative-health-and-care-experienced-children-and-young
-updated: 2026-05-04
+- fxa301-week03-challenges-in-end-of-life-care-and-bereavement
+- fxa301-week03-creative-health-and-care-experienced-children-and-young
+tags:
+- creative-health-interventions
+title: Creative Arts Therapy in Healthcare
+type: topic
+updated: 2026-05-11
 ---
 
 ## Creative Arts Therapy in Healthcare

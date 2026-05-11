@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Ethical Guidelines In Art Therapy"
 confidence: low
-tags: ["ethical-guidelines-in-art-therapy"]
+domain: intervention
+slug: ethical-guidelines-in-art-therapy
 sources:
-  - fxa303-art-therapy-in-response-to-natural-disasters-ch06-1-i-envisioned-an-opportunity-to-assert-lasalle
+- fxa303-art-therapy-in-response-to-natural-disasters-ch06-1-i-envisioned-an-opportunity-to-assert-lasalle
+tags:
+- ethical-guidelines-in-art-therapy
+title: Ethical Guidelines In Art Therapy
+type: topic
 updated: 2026-05-04
 ---
 

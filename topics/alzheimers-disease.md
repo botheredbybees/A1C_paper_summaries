@@ -1,23 +1,35 @@
 ---
-type: topic
-domain: "intervention"
-title: "Alzheimer's Disease Management and Prevention"
 confidence: high
-tags: ["alzheimers-disease"]
+domain: intervention
+slug: alzheimer-s-disease-management-and-prevention
 sources:
   - fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a
-  - fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy
   - fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical
   - fxa100-week01-the-science-of-lewy-body-dementia-video-transcript
   - fxa100-week01-transcript-what-is-alzheimers-disease-ivan-seah-yu-jun
-  - fxa100-week01-unveiling-the-therapeutic-potential-of-natural-products-in
-  - fxa100-week01-what-is-alzheimers-disease-video-transcript
   - fxa100-week03-alzheimers-disease-music-engagement-quality-of-life
   - fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers
   - fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers
   - fxa100-week07-dementia-in-our-mob-and-around-the-world
   - fxa100-week07-transcript-artz-museum-program-for-alzheimers-url-only
-updated: 2026-05-05
+  - fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of
+- fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a
+- fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy
+- fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical
+- fxa100-week01-the-science-of-lewy-body-dementia-video-transcript
+- fxa100-week01-transcript-what-is-alzheimers-disease-ivan-seah-yu-jun
+- fxa100-week01-unveiling-the-therapeutic-potential-of-natural-products-in
+- fxa100-week01-what-is-alzheimers-disease-video-transcript
+- fxa100-week03-alzheimers-disease-music-engagement-quality-of-life
+- fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers
+- fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers
+- fxa100-week07-dementia-in-our-mob-and-around-the-world
+- fxa100-week07-transcript-artz-museum-program-for-alzheimers-url-only
+tags:
+- alzheimers-disease
+title: Alzheimer's Disease Management and Prevention
+type: topic
+updated: 2026-05-11
 ---
 
 ## Alzheimer's Disease Management and Prevention
@@ -45,14 +57,12 @@ Lastly, Source 5 provides foundational knowledge about AD mechanisms, including 
 ## Sources
 
 - [fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a](../sources/fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a.md)
-- [fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy](../sources/fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy.md)
 - [fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical](../sources/fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical.md)
 - [fxa100-week01-the-science-of-lewy-body-dementia-video-transcript](../sources/fxa100-week01-the-science-of-lewy-body-dementia-video-transcript.md)
 - [fxa100-week01-transcript-what-is-alzheimers-disease-ivan-seah-yu-jun](../sources/fxa100-week01-transcript-what-is-alzheimers-disease-ivan-seah-yu-jun.md)
-- [fxa100-week01-unveiling-the-therapeutic-potential-of-natural-products-in](../sources/fxa100-week01-unveiling-the-therapeutic-potential-of-natural-products-in.md)
-- [fxa100-week01-what-is-alzheimers-disease-video-transcript](../sources/fxa100-week01-what-is-alzheimers-disease-video-transcript.md)
 - [fxa100-week03-alzheimers-disease-music-engagement-quality-of-life](../sources/fxa100-week03-alzheimers-disease-music-engagement-quality-of-life.md)
 - [fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers](../sources/fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers.md)
 - [fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers](../sources/fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers.md)
 - [fxa100-week07-dementia-in-our-mob-and-around-the-world](../sources/fxa100-week07-dementia-in-our-mob-and-around-the-world.md)
 - [fxa100-week07-transcript-artz-museum-program-for-alzheimers-url-only](../sources/fxa100-week07-transcript-artz-museum-program-for-alzheimers-url-only.md)
+- [fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of](../sources/fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of.md)

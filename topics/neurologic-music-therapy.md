@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Neurologic Music Therapy"
 confidence: low
-tags: ["neurologic-music-therapy"]
+domain: intervention
+slug: neurologic-music-therapy
 sources:
-  - fxa303-week04-community-services-the-music-therapy-center-of-california
+- fxa303-week04-community-services-the-music-therapy-center-of-california
+tags:
+- neurologic-music-therapy
+title: Neurologic Music Therapy
+type: topic
 updated: 2026-05-04
 ---
 

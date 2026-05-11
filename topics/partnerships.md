@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Partnerships"
 confidence: low
-tags: ["partnerships"]
+domain: intervention
+slug: partnerships
 sources:
-  - fxa301-week03-statement-on-lived-experience
+- fxa301-week03-statement-on-lived-experience
+tags:
+- partnerships
+title: Partnerships
+type: topic
 updated: 2026-05-04
 ---
 

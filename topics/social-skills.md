@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Social Skills Development in Therapeutic Settings"
 confidence: medium
-tags: ["social-skills"]
+domain: intervention
+slug: social-skills-development-in-therapeutic-settings
 sources:
   - fxa303-week06-art-therapy-with-puppet-making-to-promote-emotional-empathy
   - fxa303-week08-the-effect-of-medicaltherapeutic-clowns-on-the-playfulness
-updated: 2026-05-04
+- fxa303-week06-art-therapy-with-puppet-making-to-promote-emotional-empathy
+- fxa303-week08-the-effect-of-medicaltherapeutic-clowns-on-the-playfulness
+tags:
+- social-skills
+title: Social Skills Development in Therapeutic Settings
+type: topic
+updated: 2026-05-11
 ---
 
 ## Social Skills Development in Therapeutic Settings

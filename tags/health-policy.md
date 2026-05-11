@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: health-policy
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Health Policy

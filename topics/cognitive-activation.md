@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cognitive Activation"
 confidence: low
-tags: ["cognitive-activation"]
+domain: intervention
+slug: cognitive-activation
 sources:
-  - fxa301-week06-music-and-medicine
+- fxa301-week06-music-and-medicine
+tags:
+- cognitive-activation
+title: Cognitive Activation
+type: topic
 updated: 2026-05-04
 ---
 

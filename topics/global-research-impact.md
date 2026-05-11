@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Global Research Impact"
 confidence: low
-tags: ["global-research-impact"]
+domain: theory
+slug: global-research-impact
 sources:
-  - fxa303-week09-web-article-mcfarlane-2003
+- fxa303-week09-web-article-mcfarlane-2003
+tags:
+- global-research-impact
+title: Global Research Impact
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Release Through Music"
 confidence: low
-tags: ["emotional-release-through-music"]
+domain: intervention
+slug: emotional-release-through-music
 sources:
-  - fxa100-week04-what-is-singing-for-the-brain
+- fxa100-week04-what-is-singing-for-the-brain
+tags:
+- emotional-release-through-music
+title: Emotional Release Through Music
+type: topic
 updated: 2026-05-04
 ---
 

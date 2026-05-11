@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Initial Teacher Education in Music"
 confidence: low
-tags: ["initial-teacher-education"]
+domain: intervention
+slug: initial-teacher-education-in-music
 sources:
-  - fxa301-week05-fading-notes-music-education-for-the-next-generation-of
+- fxa301-week05-fading-notes-music-education-for-the-next-generation-of
+tags:
+- initial-teacher-education
+title: Initial Teacher Education in Music
+type: topic
 updated: 2026-05-04
 ---
 

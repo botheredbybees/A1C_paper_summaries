@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts In Health Model"
 confidence: low
-tags: ["arts-in-health-model"]
+domain: intervention
+slug: arts-in-health-model
 sources:
-  - fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2)
+- fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2)
+tags:
+- arts-in-health-model
+title: Arts In Health Model
+type: topic
 updated: 2026-05-04
 ---
 

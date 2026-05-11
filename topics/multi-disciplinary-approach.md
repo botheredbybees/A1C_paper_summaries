@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Multi-Disciplinary Approach in International Migration Studies"
 confidence: low
-tags: ["multi-disciplinary-approach"]
+domain: method
+slug: multi-disciplinary-approach-in-international-migration-studies
 sources:
-  - fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)
+- fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)
+tags:
+- multi-disciplinary-approach
+title: Multi-Disciplinary Approach in International Migration Studies
+type: topic
 updated: 2026-05-04
 ---
 

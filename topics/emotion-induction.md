@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotion Induction Through Music"
 confidence: low
-tags: ["emotion-induction"]
+domain: intervention
+slug: emotion-induction-through-music
 sources:
-  - fxa301-week02-experimental-evidence-of-the-roles-of-music-choice-social
+- fxa301-week02-experimental-evidence-of-the-roles-of-music-choice-social
+tags:
+- emotion-induction
+title: Emotion Induction Through Music
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Motor Synchronization in Music Therapy"
 confidence: low
-tags: ["motor-synchronization"]
+domain: intervention
+slug: motor-synchronization-in-music-therapy
 sources:
-  - fxa100-week04-music-as-therapy-and-health-promotion
+- fxa100-week04-music-as-therapy-and-health-promotion
+tags:
+- motor-synchronization
+title: Motor Synchronization in Music Therapy
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Empathy Mirroring in Expressive Arts Therapy"
 confidence: low
-tags: ["empathy-mirroring"]
+domain: intervention
+slug: empathy-mirroring-in-expressive-arts-therapy
 sources:
-  - fxa303-week04-arts-therapies-research-and-practice-with-persons-on-the
+- fxa303-week04-arts-therapies-research-and-practice-with-persons-on-the
+tags:
+- empathy-mirroring
+title: Empathy Mirroring in Expressive Arts Therapy
+type: topic
 updated: 2026-05-04
 ---
 

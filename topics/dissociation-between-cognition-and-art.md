@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Dissociation Between Cognition and Art"
 confidence: low
-tags: ["dissociation-between-cognition-and-art"]
+domain: intervention
+slug: dissociation-between-cognition-and-art
 sources:
-  - fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers
+- fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers
+tags:
+- dissociation-between-cognition-and-art
+title: Dissociation Between Cognition and Art
+type: topic
 updated: 2026-05-04
 ---
 

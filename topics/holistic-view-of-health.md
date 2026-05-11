@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Holistic View Of Health"
 confidence: low
-tags: ["holistic-view-of-health"]
+domain: theory
+slug: holistic-view-of-health
 sources:
-  - fxa301-week03-introduction-to-creative-health-extract
+- fxa301-week03-introduction-to-creative-health-extract
+tags:
+- holistic-view-of-health
+title: Holistic View Of Health
+type: topic
 updated: 2026-05-04
 ---
 

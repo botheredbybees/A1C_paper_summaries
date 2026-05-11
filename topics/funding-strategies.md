@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Funding Strategies in Arts and Health Initiatives"
 confidence: low
-tags: ["funding-strategies"]
+domain: intervention
+slug: funding-strategies-in-arts-and-health-initiatives
 sources:
-  - fxa301-arts-in-health-ch44-1-the-artist
+- fxa301-arts-in-health-ch44-1-the-artist
+tags:
+- funding-strategies
+title: Funding Strategies in Arts and Health Initiatives
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Re-Evaluation Of Painful Memories"
 confidence: low
-tags: ["re-evaluation-of-painful-memories"]
+domain: intervention
+slug: re-evaluation-of-painful-memories
 sources:
-  - fxa303-week06-lesson-fxa303-week06-page-2-puppets-and-expression
+- fxa303-week06-lesson-fxa303-week06-page-2-puppets-and-expression
+tags:
+- re-evaluation-of-painful-memories
+title: Re-Evaluation Of Painful Memories
+type: topic
 updated: 2026-05-04
 ---
 

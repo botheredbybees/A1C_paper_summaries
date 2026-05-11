@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "method"
-title: "Story Structure"
 confidence: medium
-tags: ["story-structure"]
+domain: method
+slug: story-structure
 sources:
-  - fxa202-week05-lesson-fxa202-week05-chapter-2-beginnings-and-endings
-  - fxa202-week09-personal-storytelling-and-memoir-writing
+- fxa202-week05-lesson-fxa202-week05-chapter-2-beginnings-and-endings
+- fxa202-week09-personal-storytelling-and-memoir-writing
+tags:
+- story-structure
+title: Story Structure
+type: topic
 updated: 2026-05-04
 ---
 

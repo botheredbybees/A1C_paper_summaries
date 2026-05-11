@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Fall Risk Reduction Through Dance"
 confidence: low
-tags: ["fall-risk-reduction"]
+domain: intervention
+slug: fall-risk-reduction-through-dance
 sources:
-  - fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older
+- fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older
+tags:
+- fall-risk-reduction
+title: Fall Risk Reduction Through Dance
+type: topic
 updated: 2026-05-04
 ---
 

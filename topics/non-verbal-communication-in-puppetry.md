@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Non-verbal Communication in Puppetry"
 confidence: low
-tags: ["non-verbal-communication-in-puppetry"]
+domain: method
+slug: non-verbal-communication-in-puppetry
 sources:
-  - fxa303-week05-fxa303-week-5-welcome
+- fxa303-week05-fxa303-week-5-welcome
+tags:
+- non-verbal-communication-in-puppetry
+title: Non-verbal Communication in Puppetry
+type: topic
 updated: 2026-05-04
 ---
 

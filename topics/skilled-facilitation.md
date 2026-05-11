@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Skilled Facilitation"
 confidence: low
-tags: ["skilled-facilitation"]
+domain: intervention
+slug: skilled-facilitation
 sources:
-  - fxa100-week08-what-are-the-required-elements-needed-to-create-an
+- fxa100-week08-what-are-the-required-elements-needed-to-create-an
+tags:
+- skilled-facilitation
+title: Skilled Facilitation
+type: topic
 updated: 2026-05-04
 ---
 

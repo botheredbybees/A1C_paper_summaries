@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Obesity Epidemic"
 confidence: low
-tags: ["obesity-epidemic"]
+domain: population
+slug: obesity-epidemic
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch18-chapter-3-(2)
+- fxa301-oxford-textbook-of-creative-arts-ch18-chapter-3-(2)
+tags:
+- obesity-epidemic
+title: Obesity Epidemic
+type: topic
 updated: 2026-05-04
 ---
 

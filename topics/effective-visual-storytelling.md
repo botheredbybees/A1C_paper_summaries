@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Effective Visual Storytelling"
 confidence: low
-tags: ["effective-visual-storytelling"]
+domain: intervention
+slug: effective-visual-storytelling
 sources:
-  - fxa202-week05-introduction-to-visual-storytelling
+- fxa202-week05-introduction-to-visual-storytelling
+tags:
+- effective-visual-storytelling
+title: Effective Visual Storytelling
+type: topic
 updated: 2026-05-04
 ---
 

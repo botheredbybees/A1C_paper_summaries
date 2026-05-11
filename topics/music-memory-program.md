@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music & Memory Program"
 confidence: medium
-tags: ["music-memory-program"]
+domain: intervention
+slug: music-memory-program
 sources:
-  - fxa100-week03-implementation-survey-results-phase-iii-music-memory-program
-  - fxa100-week03-implementation-survey-results-wisconsin-music-memory-program
+- fxa100-week03-implementation-survey-results-phase-iii-music-memory-program
+- fxa100-week03-implementation-survey-results-wisconsin-music-memory-program
+tags:
+- music-memory-program
+title: Music & Memory Program
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Writing for Wellbeing"
 confidence: low
-tags: ["creative-writing-for-wellbeing"]
+domain: intervention
+slug: creative-writing-for-wellbeing
 sources:
-  - fxa301-week08-week-8-lecture-applying-theatre-and-literature-for-health
+- fxa301-week08-week-8-lecture-applying-theatre-and-literature-for-health
+tags:
+- creative-writing-for-wellbeing
+title: Creative Writing for Wellbeing
+type: topic
 updated: 2026-05-04
 ---
 

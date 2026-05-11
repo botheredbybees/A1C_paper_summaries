@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Community Sovereignty in Health"
 confidence: low
-tags: ["community-sovereignty"]
+domain: intervention
+slug: community-sovereignty-in-health
 sources:
-  - fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the
+- fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the
+tags:
+- community-sovereignty
+title: Community Sovereignty in Health
+type: topic
 updated: 2026-05-04
 ---
 

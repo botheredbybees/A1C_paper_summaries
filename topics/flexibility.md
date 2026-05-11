@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Flexibility in Autism Spectrum Disorders"
 confidence: low
-tags: ["flexibility"]
+domain: intervention
+slug: flexibility-in-autism-spectrum-disorders
 sources:
-  - fxa303-week04-exploring-change-in-childrens-and-art-therapists-behavior
+- fxa303-week04-exploring-change-in-childrens-and-art-therapists-behavior
+tags:
+- flexibility
+title: Flexibility in Autism Spectrum Disorders
+type: topic
 updated: 2026-05-04
 ---
 

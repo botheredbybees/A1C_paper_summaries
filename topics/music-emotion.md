@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "method"
-title: "Music and Induced Emotion"
 confidence: medium
-tags: ["music-emotion"]
+domain: method
+slug: music-and-induced-emotion
 sources:
   - fxa301-week02-measuring-music-induced-emotion-a-comparison-of-emotion
   - fxa301-week02-relationships-between-musical-structure-and
   - fxa301-week02-the-time-course-of-emotional-responses-to-music
-updated: 2026-05-04
+- fxa301-week02-measuring-music-induced-emotion-a-comparison-of-emotion
+- fxa301-week02-relationships-between-musical-structure-and
+- fxa301-week02-the-time-course-of-emotional-responses-to-music
+tags:
+- music-emotion
+title: Music and Induced Emotion
+type: topic
+updated: 2026-05-11
 ---
 
 ## Music and Induced Emotion

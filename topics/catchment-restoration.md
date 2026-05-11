@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Catchment Restoration"
 confidence: low
-tags: ["catchment-restoration"]
+domain: intervention
+slug: catchment-restoration
 sources:
-  - fxa303-week09-capertee-valley-hydrology-project-ksca
+- fxa303-week09-capertee-valley-hydrology-project-ksca
+tags:
+- catchment-restoration
+title: Catchment Restoration
+type: topic
 updated: 2026-05-04
 ---
 

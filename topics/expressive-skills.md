@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Expressive Skills in Therapy"
 confidence: low
-tags: ["expressive-skills"]
+domain: intervention
+slug: expressive-skills-in-therapy
 sources:
-  - fxa303-week04-play-and-arts-based-therapies
+- fxa303-week04-play-and-arts-based-therapies
+tags:
+- expressive-skills
+title: Expressive Skills in Therapy
+type: topic
 updated: 2026-05-04
 ---
 

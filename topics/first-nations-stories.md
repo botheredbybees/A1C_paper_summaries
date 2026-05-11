@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "First Nations Stories"
 confidence: low
-tags: ["first-nations-stories"]
+domain: population
+slug: first-nations-stories
 sources:
-  - fxa301-week03-revive-a-place-for-every-story-a-story-for-every-place
+- fxa301-week03-revive-a-place-for-every-story-a-story-for-every-place
+tags:
+- first-nations-stories
+title: First Nations Stories
+type: topic
 updated: 2026-05-04
 ---
 

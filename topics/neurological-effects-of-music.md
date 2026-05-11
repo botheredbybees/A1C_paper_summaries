@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Neurological Effects Of Music"
 confidence: low
-tags: ["neurological-effects-of-music"]
+domain: intervention
+slug: neurological-effects-of-music
 sources:
-  - fxa100-week04-what-is-music-health-and-wellbeing
+- fxa100-week04-what-is-music-health-and-wellbeing
+tags:
+- neurological-effects-of-music
+title: Neurological Effects Of Music
+type: topic
 updated: 2026-05-04
 ---
 

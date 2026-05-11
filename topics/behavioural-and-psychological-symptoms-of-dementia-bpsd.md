@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Behavioural And Psychological Symptoms Of Dementia"
 confidence: low
-tags: ["behavioural-and-psychological-symptoms-of-dementia-bpsd"]
+domain: intervention
+slug: behavioural-and-psychological-symptoms-of-dementia
 sources:
-  - fxa100-week08-the-use-of-creative-activities-in-dementia-in-residential
+- fxa100-week08-the-use-of-creative-activities-in-dementia-in-residential
+tags:
+- behavioural-and-psychological-symptoms-of-dementia-bpsd
+title: Behavioural And Psychological Symptoms Of Dementia
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Personality Traits and Music"
 confidence: medium
-tags: ["personality-traits"]
+domain: intervention
+slug: personality-traits-and-music
 sources:
   - fxa301-week02-experimental-evidence-of-the-roles-of-music-choice-social
   - fxa301-week02-music-evoked-nostalgia-affect-memory-and-personality
-updated: 2026-05-04
+- fxa301-week02-experimental-evidence-of-the-roles-of-music-choice-social
+- fxa301-week02-music-evoked-nostalgia-affect-memory-and-personality
+tags:
+- personality-traits
+title: Personality Traits and Music
+type: topic
+updated: 2026-05-11
 ---
 
 ## Personality Traits and Music

@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Policy-Making in Social Services"
 confidence: medium
-tags: ["policy-making"]
+domain: intervention
+slug: policy-making-in-social-services
 sources:
   - fxa301-week01-assessing-confidence-in-what-works-in-social-policy
   - fxa301-week03-statement-on-lived-experience
-updated: 2026-05-05
+- fxa301-week01-assessing-confidence-in-what-works-in-social-policy
+- fxa301-week03-statement-on-lived-experience
+tags:
+- policy-making
+title: Policy-Making in Social Services
+type: topic
+updated: 2026-05-11
 ---
 
 ## Policy-Making in Social Services

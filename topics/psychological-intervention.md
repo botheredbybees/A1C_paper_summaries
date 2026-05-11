@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Dance/Movement Therapy"
 confidence: low
-tags: ["psychological-intervention"]
+domain: intervention
+slug: dance-movement-therapy
 sources:
-  - fxa301-week06-the-art-and-science-of-dancemovement-therapy
+- fxa301-week06-the-art-and-science-of-dancemovement-therapy
+tags:
+- psychological-intervention
+title: Dance/Movement Therapy
+type: topic
 updated: 2026-05-04
 ---
 

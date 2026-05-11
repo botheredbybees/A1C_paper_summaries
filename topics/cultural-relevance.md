@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cultural Relevance in Therapeutic Practices"
 confidence: low
-tags: ["cultural-relevance"]
+domain: intervention
+slug: cultural-relevance-in-therapeutic-practices
 sources:
-  - fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
+- fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
+tags:
+- cultural-relevance
+title: Cultural Relevance in Therapeutic Practices
+type: topic
 updated: 2026-05-04
 ---
 

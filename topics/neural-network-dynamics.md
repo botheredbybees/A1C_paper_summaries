@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Neural Network Dynamics"
 confidence: low
-tags: ["neural-network-dynamics"]
+domain: theory
+slug: neural-network-dynamics
 sources:
-  - fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between
+- fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between
+tags:
+- neural-network-dynamics
+title: Neural Network Dynamics
+type: topic
 updated: 2026-05-04
 ---
 

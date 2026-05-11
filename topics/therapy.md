@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Arts Therapy"
 confidence: medium
-tags: ["therapy"]
+domain: intervention
+slug: creative-arts-therapy
 sources:
   - fxa301-oxford-textbook-of-creative-arts-ch04-chapter-17
   - fxa301-week10-lesson-fxa301-week10-page-1
-updated: 2026-05-05
+- fxa301-oxford-textbook-of-creative-arts-ch04-chapter-17
+- fxa301-week10-lesson-fxa301-week10-page-1
+tags:
+- therapy
+title: Creative Arts Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Creative Arts Therapy

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Statistical Approach To Neurodiversity"
 confidence: low
-tags: ["statistical-approach-to-neurodiversity"]
+domain: method
+slug: statistical-approach-to-neurodiversity
 sources:
-  - fxa303-week04-unraveling-neurodiversity-insights-from-neuroscientic
+- fxa303-week04-unraveling-neurodiversity-insights-from-neuroscientic
+tags:
+- statistical-approach-to-neurodiversity
+title: Statistical Approach To Neurodiversity
+type: topic
 updated: 2026-05-04
 ---
 

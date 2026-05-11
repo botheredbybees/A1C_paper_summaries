@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Diversity In Arts"
 confidence: low
-tags: ["diversity-in-arts"]
+domain: intervention
+slug: diversity-in-arts
 sources:
-  - fxa301-week09-web-article-australia-2018
+- fxa301-week09-web-article-australia-2018
+tags:
+- diversity-in-arts
+title: Diversity In Arts
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Hair Cells in Hearing"
 confidence: medium
-tags: ["hair-cells"]
+domain: intervention
+slug: hair-cells-in-hearing
 sources:
-  - fxa100-week02-transcript-how-the-ear-and-hearing-works-from-med-el-view
-  - fxa100-week02-video-about-hearing-and-how-it-works-med-el-video-transcript
+- fxa100-week02-transcript-how-the-ear-and-hearing-works-from-med-el-view
+- fxa100-week02-video-about-hearing-and-how-it-works-med-el-video-transcript
+tags:
+- hair-cells
+title: Hair Cells in Hearing
+type: topic
 updated: 2026-05-04
 ---
 

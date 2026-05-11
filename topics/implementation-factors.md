@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Implementation Factors in Dementia Care"
 confidence: low
-tags: ["implementation-factors"]
+domain: intervention
+slug: implementation-factors-in-dementia-care
 sources:
-  - fxa100-week09-implementing-living-room-theatre-activities-for-people-with-(2)
+- fxa100-week09-implementing-living-room-theatre-activities-for-people-with-(2)
+tags:
+- implementation-factors
+title: Implementation Factors in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,15 +1,22 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cognitive Enhancement Through Creative and Physical Activities"
 confidence: high
-tags: ["cognitive-enhancement"]
+domain: intervention
+slug: cognitive-enhancement-through-creative-and-physical-activities
 sources:
   - fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients
   - fxa100-week06-how-creating-sculpture-benefits-people-with-dementia
   - fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia
+  - fxa100-week11-dancing-and-the-brain
   - fxa301-week06-feasibility-and-preliminary-effects-of-ballet-based-group
-updated: 2026-05-04
+- fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients
+- fxa100-week06-how-creating-sculpture-benefits-people-with-dementia
+- fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia
+- fxa301-week06-feasibility-and-preliminary-effects-of-ballet-based-group
+tags:
+- cognitive-enhancement
+title: Cognitive Enhancement Through Creative and Physical Activities
+type: topic
+updated: 2026-05-11
 ---
 
 ## Cognitive Enhancement Through Creative and Physical Activities
@@ -31,4 +38,5 @@ The integration of various creative and physical activities, such as singing in 
 - [fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients](../sources/fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients.md)
 - [fxa100-week06-how-creating-sculpture-benefits-people-with-dementia](../sources/fxa100-week06-how-creating-sculpture-benefits-people-with-dementia.md)
 - [fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia](../sources/fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia.md)
+- [fxa100-week11-dancing-and-the-brain](../sources/fxa100-week11-dancing-and-the-brain.md)
 - [fxa301-week06-feasibility-and-preliminary-effects-of-ballet-based-group](../sources/fxa301-week06-feasibility-and-preliminary-effects-of-ballet-based-group.md)

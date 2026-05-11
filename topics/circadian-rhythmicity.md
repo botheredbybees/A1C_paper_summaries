@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Circadian Rhythmicity"
 confidence: low
-tags: ["circadian-rhythmicity"]
+domain: theory
+slug: circadian-rhythmicity
 sources:
-  - fxa100-week10-sundown-syndrome-in-persons-with-dementia-an-update
+- fxa100-week10-sundown-syndrome-in-persons-with-dementia-an-update
+tags:
+- circadian-rhythmicity
+title: Circadian Rhythmicity
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Psychological Resilience"
 confidence: low
-tags: ["psychological-resilience"]
+domain: theory
+slug: psychological-resilience
 sources:
-  - fxa202-week06-rediscovering-joy-during-lockdown
+- fxa202-week06-rediscovering-joy-during-lockdown
+tags:
+- psychological-resilience
+title: Psychological Resilience
+type: topic
 updated: 2026-05-04
 ---
 

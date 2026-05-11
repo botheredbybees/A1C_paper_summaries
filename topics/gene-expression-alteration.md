@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Gene Expression Alteration Through Psychotherapy"
 confidence: low
-tags: ["gene-expression-alteration"]
+domain: intervention
+slug: gene-expression-alteration-through-psychotherapy
 sources:
-  - fxa303-week03-rebuilding-the-brain-with-psychotherapy
+- fxa303-week03-rebuilding-the-brain-with-psychotherapy
+tags:
+- gene-expression-alteration
+title: Gene Expression Alteration Through Psychotherapy
+type: topic
 updated: 2026-05-04
 ---
 

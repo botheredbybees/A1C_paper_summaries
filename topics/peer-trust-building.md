@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Peer-Trust Building"
 confidence: low
-tags: ["peer-trust-building"]
+domain: intervention
+slug: peer-trust-building
 sources:
-  - fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using
+- fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using
+tags:
+- peer-trust-building
+title: Peer-Trust Building
+type: topic
 updated: 2026-05-04
 ---
 

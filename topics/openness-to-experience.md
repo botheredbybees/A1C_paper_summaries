@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "theory"
-title: "Openness To Experience In Music And Art"
 confidence: medium
-tags: ["openness-to-experience"]
+domain: theory
+slug: openness-to-experience-in-music-and-art
 sources:
-  - fxa301-week02-experimental-evidence-of-the-roles-of-music-choice-social
-  - fxa301-week02-personality-correlates-of-aesthetic-preferences-for-art
+- fxa301-week02-experimental-evidence-of-the-roles-of-music-choice-social
+- fxa301-week02-personality-correlates-of-aesthetic-preferences-for-art
+tags:
+- openness-to-experience
+title: Openness To Experience In Music And Art
+type: topic
 updated: 2026-05-04
 ---
 

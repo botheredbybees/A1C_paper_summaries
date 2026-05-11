@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Migrant Wellbeing Through Creative Arts"
 confidence: medium
-tags: ["migrant-wellbeing"]
+domain: intervention
+slug: migrant-wellbeing-through-creative-arts
 sources:
   - fxa303-week10-lesson-fxa303-week10-page-4-activities
   - fxa303-week10-yesterday-i-couldnt-see-tomorrows-sun-shines-now-sharing
-updated: 2026-05-04
+- fxa303-week10-lesson-fxa303-week10-page-4-activities
+- fxa303-week10-yesterday-i-couldnt-see-tomorrows-sun-shines-now-sharing
+tags:
+- migrant-wellbeing
+title: Migrant Wellbeing Through Creative Arts
+type: topic
+updated: 2026-05-11
 ---
 
 ## Migrant Wellbeing Through Creative Arts

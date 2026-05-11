@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Photography"
 confidence: low
-tags: ["emotional-coping-mechanisms"]
+domain: intervention
+slug: therapeutic-photography
 sources:
-  - fxa202-week09-the-largs-pier-a-visual-story-of-grief-and-healing
+- fxa202-week09-the-largs-pier-a-visual-story-of-grief-and-healing
+tags:
+- emotional-coping-mechanisms
+title: Therapeutic Photography
+type: topic
 updated: 2026-05-04
 ---
 

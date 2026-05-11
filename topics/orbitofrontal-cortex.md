@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Orbitofrontal Cortex in Neuroplasticity and Cognitive Rehabilitation"
 confidence: medium
-tags: ["orbitofrontal-cortex"]
+domain: intervention
+slug: orbitofrontal-cortex-in-neuroplasticity-and-cognitive-rehabilitation
 sources:
-  - fxa100-week02-neuroplastic-effects-in-patients-with-traumatic-brain
-  - fxa303-week03-limbic-systems-for-emotion-and-for-memory-but-no-single
+- fxa100-week02-neuroplastic-effects-in-patients-with-traumatic-brain
+- fxa303-week03-limbic-systems-for-emotion-and-for-memory-but-no-single
+tags:
+- orbitofrontal-cortex
+title: Orbitofrontal Cortex in Neuroplasticity and Cognitive Rehabilitation
+type: topic
 updated: 2026-05-04
 ---
 

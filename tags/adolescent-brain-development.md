@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: adolescent-brain-development
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Adolescent Brain Development

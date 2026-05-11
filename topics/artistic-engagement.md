@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Artistic Engagement"
 confidence: medium
-tags: ["artistic-engagement"]
+domain: intervention
+slug: artistic-engagement
 sources:
-  - fxa301-week03-cross-sector-strategies-for-health-and-community-well-being
-  - fxa303-week03-role-of-the-arts-in-the-life-and-mental-health-of-young
+- fxa301-week03-cross-sector-strategies-for-health-and-community-well-being
+- fxa303-week03-role-of-the-arts-in-the-life-and-mental-health-of-young
+tags:
+- artistic-engagement
+title: Artistic Engagement
+type: topic
 updated: 2026-05-04
 ---
 

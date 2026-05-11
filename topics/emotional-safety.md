@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Safety"
 confidence: medium
-tags: ["emotional-safety"]
+domain: intervention
+slug: emotional-safety
 sources:
-  - fxa301-week08-social-impact-report-year-to-30-june-2025
-  - fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand
+- fxa301-week08-social-impact-report-year-to-30-june-2025
+- fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand
+tags:
+- emotional-safety
+title: Emotional Safety
+type: topic
 updated: 2026-05-04
 ---
 

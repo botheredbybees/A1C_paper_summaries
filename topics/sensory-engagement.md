@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sensory Engagement"
 confidence: low
-tags: ["sensory-engagement"]
+domain: intervention
+slug: sensory-engagement
 sources:
-  - fxa202-week09-noticing-a-photo-essay
+- fxa202-week09-noticing-a-photo-essay
+tags:
+- sensory-engagement
+title: Sensory Engagement
+type: topic
 updated: 2026-05-04
 ---
 

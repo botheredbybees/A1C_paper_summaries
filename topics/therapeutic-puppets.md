@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Puppets"
 confidence: low
-tags: ["therapeutic-puppets"]
+domain: intervention
+slug: therapeutic-puppets
 sources:
-  - fxa303-week05-puppets-and-self-care-for-task-2
+- fxa303-week05-puppets-and-self-care-for-task-2
+tags:
+- therapeutic-puppets
+title: Therapeutic Puppets
+type: topic
 updated: 2026-05-04
 ---
 

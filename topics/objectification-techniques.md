@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Objectification Techniques in Therapy"
 confidence: low
-tags: ["objectification-techniques"]
+domain: intervention
+slug: objectification-techniques-in-therapy
 sources:
-  - fxa303-week06-using-puppets-with-children-in-narrative-therapy-to
+- fxa303-week06-using-puppets-with-children-in-narrative-therapy-to
+tags:
+- objectification-techniques
+title: Objectification Techniques in Therapy
+type: topic
 updated: 2026-05-04
 ---
 

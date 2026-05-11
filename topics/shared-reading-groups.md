@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "intervention"
-title: "Shared Reading Groups"
 confidence: medium
-tags: ["shared-reading-groups"]
+domain: intervention
+slug: shared-reading-groups
 sources:
-  - fxa301-week08-lesson-fxa301-week07-page-3-hm
-  - fxa301-week08-transcript-youtube-i1dnrn0cj20
-  - fxa301-week08-week-8-lecture-applying-theatre-and-literature-for-health
+- fxa301-week08-lesson-fxa301-week07-page-3-hm
+- fxa301-week08-transcript-youtube-i1dnrn0cj20
+- fxa301-week08-week-8-lecture-applying-theatre-and-literature-for-health
+tags:
+- shared-reading-groups
+title: Shared Reading Groups
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Singing for Mental Distress Reduction"
 confidence: low
-tags: ["mental-distress-reduction"]
+domain: intervention
+slug: singing-for-mental-distress-reduction
 sources:
-  - fxa301-week06-further-evidence-that-singing-fosters-mental-health-and
+- fxa301-week06-further-evidence-that-singing-fosters-mental-health-and
+tags:
+- mental-distress-reduction
+title: Singing for Mental Distress Reduction
+type: topic
 updated: 2026-05-04
 ---
 

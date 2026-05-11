@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Resident Engagement in Dementia Care"
 confidence: low
-tags: ["resident-engagement"]
+domain: intervention
+slug: resident-engagement-in-dementia-care
 sources:
-  - fxa100-week10-the-impact-of-timeslips-a-creative-expression-intervention
+- fxa100-week10-the-impact-of-timeslips-a-creative-expression-intervention
+tags:
+- resident-engagement
+title: Resident Engagement in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

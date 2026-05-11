@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Person-Centered Care in Dementia Interventions"
 confidence: medium
-tags: ["dementia-interventions"]
+domain: intervention
+slug: person-centered-care-in-dementia-interventions
 sources:
   - fxa100-week07-im-still-here-a-breakthrough-approach-to-understanding
   - fxa100-week09-key-components-of-person-centered-care-for-people-with
   - fxa100-week09-key-intervention-categories-to-provide-person-centered
-updated: 2026-05-04
+- fxa100-week07-im-still-here-a-breakthrough-approach-to-understanding
+- fxa100-week09-key-components-of-person-centered-care-for-people-with
+- fxa100-week09-key-intervention-categories-to-provide-person-centered
+tags:
+- dementia-interventions
+title: Person-Centered Care in Dementia Interventions
+type: topic
+updated: 2026-05-11
 ---
 
 ## Person-Centered Care in Dementia Interventions

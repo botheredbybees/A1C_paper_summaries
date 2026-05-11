@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Training of Trainers Model"
 confidence: low
-tags: ["training-of-trainers-model"]
+domain: intervention
+slug: training-of-trainers-model
 sources:
-  - fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon
+- fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon
+tags:
+- training-of-trainers-model
+title: Training of Trainers Model
+type: topic
 updated: 2026-05-04
 ---
 

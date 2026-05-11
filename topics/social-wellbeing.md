@@ -1,15 +1,22 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts Participation and Social Wellbeing"
 confidence: high
-tags: ["social-wellbeing"]
+domain: intervention
+slug: arts-participation-and-social-wellbeing
 sources:
   - fxa100-week04-singing-and-participation
   - fxa301-week06-engaging-with-music-and-dance
   - fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project
   - fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community
-updated: 2026-05-04
+  - fxa303-week11-the-power-of-recognition-a-qualitative-study-of-social
+- fxa100-week04-singing-and-participation
+- fxa301-week06-engaging-with-music-and-dance
+- fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project
+- fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community
+tags:
+- social-wellbeing
+title: Arts Participation and Social Wellbeing
+type: topic
+updated: 2026-05-11
 ---
 
 ## Arts Participation and Social Wellbeing
@@ -32,3 +39,4 @@ The integration of arts-based interventions such as singing, dancing, and ballet
 - [fxa301-week06-engaging-with-music-and-dance](../sources/fxa301-week06-engaging-with-music-and-dance.md)
 - [fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project](../sources/fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project.md)
 - [fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community](../sources/fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community.md)
+- [fxa303-week11-the-power-of-recognition-a-qualitative-study-of-social](../sources/fxa303-week11-the-power-of-recognition-a-qualitative-study-of-social.md)

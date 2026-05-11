@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts and Culture-Based Interventions"
 confidence: low
-tags: ["arts-and-culture-based-interventions"]
+domain: intervention
+slug: arts-and-culture-based-interventions
 sources:
-  - fxa303-week03-supporting-youth-mental-health-with-arts-based-strategies-a
+- fxa303-week03-supporting-youth-mental-health-with-arts-based-strategies-a
+tags:
+- arts-and-culture-based-interventions
+title: Arts and Culture-Based Interventions
+type: topic
 updated: 2026-05-04
 ---
 

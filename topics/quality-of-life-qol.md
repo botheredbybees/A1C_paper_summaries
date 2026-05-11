@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Quality of Life in Older People with Dementia"
 confidence: low
-tags: ["quality-of-life-qol"]
+domain: intervention
+slug: quality-of-life-in-older-people-with-dementia
 sources:
-  - fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it
+- fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it
+tags:
+- quality-of-life-qol
+title: Quality of Life in Older People with Dementia
+type: topic
 updated: 2026-05-04
 ---
 

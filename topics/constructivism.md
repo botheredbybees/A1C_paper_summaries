@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Constructivism"
 confidence: low
-tags: ["constructivism"]
+domain: theory
+slug: constructivism
 sources:
-  - fxa303-week02-theories-of-development-in-dialog-with-jean-piaget
+- fxa303-week02-theories-of-development-in-dialog-with-jean-piaget
+tags:
+- constructivism
+title: Constructivism
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Mental Flexibility"
 confidence: low
-tags: ["mental-flexibility"]
+domain: intervention
+slug: mental-flexibility
 sources:
-  - fxa301-week08-lesson-fxa301-week07-page-1
+- fxa301-week08-lesson-fxa301-week07-page-1
+tags:
+- mental-flexibility
+title: Mental Flexibility
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotion-processing
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Emotion Processing

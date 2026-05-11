@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music Therapy in Sustainable Development"
 confidence: low
-tags: ["sustainable-development"]
+domain: intervention
+slug: music-therapy-in-sustainable-development
 sources:
-  - fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music
+- fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music
+tags:
+- sustainable-development
+title: Music Therapy in Sustainable Development
+type: topic
 updated: 2026-05-04
 ---
 

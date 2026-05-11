@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Inclusiveness in Art Therapy"
 confidence: low
-tags: ["inclusiveness"]
+domain: intervention
+slug: inclusiveness-in-art-therapy
 sources:
-  - fxa301-week09-lesson-fxa301-week09-page-3
+- fxa301-week09-lesson-fxa301-week09-page-3
+tags:
+- inclusiveness
+title: Inclusiveness in Art Therapy
+type: topic
 updated: 2026-05-04
 ---
 

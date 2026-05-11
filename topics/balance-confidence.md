@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Balance Confidence in Parkinson's Disease"
 confidence: low
-tags: ["balance-confidence"]
+domain: intervention
+slug: balance-confidence-in-parkinson-s-disease
 sources:
-  - fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait
+- fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait
+tags:
+- balance-confidence
+title: Balance Confidence in Parkinson's Disease
+type: topic
 updated: 2026-05-04
 ---
 

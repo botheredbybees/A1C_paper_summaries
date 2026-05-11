@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Environmental Influences on Mental Health"
 confidence: low
-tags: ["environmental-influences-on-mental-health"]
+domain: theory
+slug: environmental-influences-on-mental-health
 sources:
-  - fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental
+- fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental
+tags:
+- environmental-influences-on-mental-health
+title: Environmental Influences on Mental Health
+type: topic
 updated: 2026-05-04
 ---
 

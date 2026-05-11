@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Flexibility in Behavior"
 confidence: low
-tags: ["flexibility-in-behavior"]
+domain: intervention
+slug: flexibility-in-behavior
 sources:
-  - fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for
+- fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for
+tags:
+- flexibility-in-behavior
+title: Flexibility in Behavior
+type: topic
 updated: 2026-05-04
 ---
 

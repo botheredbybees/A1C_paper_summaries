@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "intervention"
-title: "Storytelling Across Domains"
 confidence: medium
-tags: ["storytelling"]
+domain: intervention
+slug: storytelling-across-domains
 sources:
   - fxa202-week08-lesson-fxa202-week08-page-2-editing-your-images
   - fxa202-week09-lesson-fxa202-week09-page-4
   - fxa301-week08-transcript-youtube-channel-school-of-education-and
   - fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods
-updated: 2026-05-05
+- fxa202-week08-lesson-fxa202-week08-page-2-editing-your-images
+- fxa202-week09-lesson-fxa202-week09-page-4
+- fxa301-week08-transcript-youtube-channel-school-of-education-and
+- fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods
+tags:
+- storytelling
+title: Storytelling Across Domains
+type: topic
+updated: 2026-05-11
 ---
 
 ## Storytelling Across Domains

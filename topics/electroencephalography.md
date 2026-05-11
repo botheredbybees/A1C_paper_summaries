@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Electroencephalography"
 confidence: low
-tags: ["electroencephalography"]
+domain: method
+slug: electroencephalography
 sources:
-  - fxa303-week02-functional-connectivity-in-the-first-year-of-life-in
+- fxa303-week02-functional-connectivity-in-the-first-year-of-life-in
+tags:
+- electroencephalography
+title: Electroencephalography
+type: topic
 updated: 2026-05-04
 ---
 

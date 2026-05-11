@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Hip Hop-Based Music Therapy for PTSD"
 confidence: low
-tags: ["post-traumatic-stress-disorder-ptsd"]
+domain: intervention
+slug: hip-hop-based-music-therapy-for-ptsd
 sources:
-  - fxa303-week10-web-article-gulbay-2021
+- fxa303-week10-web-article-gulbay-2021
+tags:
+- post-traumatic-stress-disorder-ptsd
+title: Hip Hop-Based Music Therapy for PTSD
+type: topic
 updated: 2026-05-04
 ---
 

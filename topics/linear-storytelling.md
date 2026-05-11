@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Linear Storytelling"
 confidence: low
-tags: ["linear-storytelling"]
+domain: theory
+slug: linear-storytelling
 sources:
-  - fxa202-week10-fxa202-week-10-web-lecture
+- fxa202-week10-fxa202-week-10-web-lecture
+tags:
+- linear-storytelling
+title: Linear Storytelling
+type: topic
 updated: 2026-05-04
 ---
 

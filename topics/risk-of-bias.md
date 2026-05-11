@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "method"
-title: "Risk Of Bias Assessment"
 confidence: medium
-tags: ["risk-of-bias"]
+domain: method
+slug: risk-of-bias-assessment
 sources:
   - fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing
   - fxa301-week01-robins-i-a-tool-for-assessing-risk-of-bias-in-non
   - fxa301-week01-the-rationale-for-rating-risk-of-bias-should-be-fully
-updated: 2026-05-05
+- fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing
+- fxa301-week01-robins-i-a-tool-for-assessing-risk-of-bias-in-non
+- fxa301-week01-the-rationale-for-rating-risk-of-bias-should-be-fully
+tags:
+- risk-of-bias
+title: Risk Of Bias Assessment
+type: topic
+updated: 2026-05-11
 ---
 
 ## Risk Of Bias Assessment

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Brain Development Differences"
 confidence: low
-tags: ["brain-development-differences"]
+domain: theory
+slug: brain-development-differences
 sources:
-  - fxa303-week04-fxa303-week-4-introduction
+- fxa303-week04-fxa303-week-4-introduction
+tags:
+- brain-development-differences
+title: Brain Development Differences
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Person-Centered Care Interventions for Dementia"
 confidence: low
-tags: ["decision-model"]
+domain: intervention
+slug: person-centered-care-interventions-for-dementia
 sources:
-  - fxa100-week09-key-components-of-person-centered-care-for-people-with
+- fxa100-week09-key-components-of-person-centered-care-for-people-with
+tags:
+- decision-model
+title: Person-Centered Care Interventions for Dementia
+type: topic
 updated: 2026-05-04
 ---
 

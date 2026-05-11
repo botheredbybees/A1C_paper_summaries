@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cultural Care Practices in Dementia Care"
 confidence: low
-tags: ["cultural-care-practices"]
+domain: intervention
+slug: cultural-care-practices-in-dementia-care
 sources:
-  - fxa100-week07-dementia-in-our-mob-and-around-the-world
+- fxa100-week07-dementia-in-our-mob-and-around-the-world
+tags:
+- cultural-care-practices
+title: Cultural Care Practices in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

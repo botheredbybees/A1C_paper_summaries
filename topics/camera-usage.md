@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "method"
-title: "Camera Usage in Photography"
 confidence: medium
-tags: ["camera-usage"]
+domain: method
+slug: camera-usage-in-photography
 sources:
   - fxa202-week02-getting-to-know-your-camera
   - fxa202-week02-lesson-fxa202-week02-week-2
   - fxa202-week02-week-2-making-pictures
-updated: 2026-05-05
+- fxa202-week02-getting-to-know-your-camera
+- fxa202-week02-lesson-fxa202-week02-week-2
+- fxa202-week02-week-2-making-pictures
+tags:
+- camera-usage
+title: Camera Usage in Photography
+type: topic
+updated: 2026-05-11
 ---
 
 ## Camera Usage in Photography

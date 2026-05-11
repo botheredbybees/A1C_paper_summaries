@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Pleasure Centers In The Brain"
 confidence: low
-tags: ["pleasure-centers-in-brain"]
+domain: theory
+slug: pleasure-centers-in-the-brain
 sources:
-  - fxa100-week06-transcript-art-gives-same-level-of-pleasure-as-being-in-love
+- fxa100-week06-transcript-art-gives-same-level-of-pleasure-as-being-in-love
+tags:
+- pleasure-centers-in-brain
+title: Pleasure Centers In The Brain
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,16 +1,23 @@
 ---
-type: topic
-domain: "intervention"
-title: "Expressive Writing"
 confidence: medium
-tags: ["expressive-writing"]
+domain: intervention
+slug: expressive-writing
 sources:
   - fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental
   - fxa301-week08-health-related-effects-of-creative-and-expressive-writing
   - fxa301-week08-lesson-fxa301-week07-page-3-hm
   - fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic
   - fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd
-updated: 2026-05-05
+- fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental
+- fxa301-week08-health-related-effects-of-creative-and-expressive-writing
+- fxa301-week08-lesson-fxa301-week07-page-3-hm
+- fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic
+- fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd
+tags:
+- expressive-writing
+title: Expressive Writing
+type: topic
+updated: 2026-05-11
 ---
 
 ## Expressive Writing

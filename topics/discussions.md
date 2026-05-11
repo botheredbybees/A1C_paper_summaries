@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Discussions in Arts Education"
 confidence: low
-tags: ["discussions"]
+domain: method
+slug: discussions-in-arts-education
 sources:
-  - fxa301-week01-lesson-fxa301-week01-week-1-page-3-activities
+- fxa301-week01-lesson-fxa301-week01-week-1-page-3-activities
+tags:
+- discussions
+title: Discussions in Arts Education
+type: topic
 updated: 2026-05-04
 ---
 

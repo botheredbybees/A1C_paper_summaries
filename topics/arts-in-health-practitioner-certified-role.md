@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts In Health Practitioner-Certified Role"
 confidence: low
-tags: ["arts-in-health-practitioner-certified-role"]
+domain: intervention
+slug: arts-in-health-practitioner-certified-role
 sources:
-  - fxa301-week03-advancing-practice-in-arts-in-health-artist-workforce
+- fxa301-week03-advancing-practice-in-arts-in-health-artist-workforce
+tags:
+- arts-in-health-practitioner-certified-role
+title: Arts In Health Practitioner-Certified Role
+type: topic
 updated: 2026-05-04
 ---
 

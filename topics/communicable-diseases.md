@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Communicable Diseases in Adolescents and Young Adults"
 confidence: low
-tags: ["communicable-diseases"]
+domain: population
+slug: communicable-diseases-in-adolescents-and-young-adults
 sources:
-  - fxa303-week03-adolescent-and-young-adult-health
+- fxa303-week03-adolescent-and-young-adult-health
+tags:
+- communicable-diseases
+title: Communicable Diseases in Adolescents and Young Adults
+type: topic
 updated: 2026-05-04
 ---
 

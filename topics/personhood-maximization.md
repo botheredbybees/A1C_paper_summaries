@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Personhood Maximization"
 confidence: low
-tags: ["personhood-maximization"]
+domain: intervention
+slug: personhood-maximization
 sources:
-  - fxa100-excellence-in-dementia-care--ch04-chapter-14
+- fxa100-excellence-in-dementia-care--ch04-chapter-14
+tags:
+- personhood-maximization
+title: Personhood Maximization
+type: topic
 updated: 2026-05-04
 ---
 

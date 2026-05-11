@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Chronic Illness Coping"
 confidence: low
-tags: ["chronic-illness-coping"]
+domain: intervention
+slug: chronic-illness-coping
 sources:
-  - fxa301-week05-web-article-reynolds-2006
+- fxa301-week05-web-article-reynolds-2006
+tags:
+- chronic-illness-coping
+title: Chronic Illness Coping
+type: topic
 updated: 2026-05-04
 ---
 

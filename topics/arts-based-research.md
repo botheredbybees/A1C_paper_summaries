@@ -1,13 +1,19 @@
 ---
-type: topic
-domain: "method"
-title: "Arts-Based Research"
 confidence: medium
-tags: ["arts-based-research"]
+domain: method
+slug: arts-based-research
 sources:
   - fxa100-week04-writing-a-research-protocol
   - fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary
-updated: 2026-05-04
+  - fxa303-week11-arts-based-methods-improve-research-data-trauma
+  - fxa303-week11-reimagining-wellbeing-using-arts-based-methods-to-address
+- fxa100-week04-writing-a-research-protocol
+- fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary
+tags:
+- arts-based-research
+title: Arts-Based Research
+type: topic
+updated: 2026-05-11
 ---
 
 ## Arts-Based Research
@@ -28,3 +34,5 @@ The integration of arts-based research methodologies is explored in the provided
 
 - [fxa100-week04-writing-a-research-protocol](../sources/fxa100-week04-writing-a-research-protocol.md)
 - [fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary](../sources/fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary.md)
+- [fxa303-week11-arts-based-methods-improve-research-data-trauma](../sources/fxa303-week11-arts-based-methods-improve-research-data-trauma.md)
+- [fxa303-week11-reimagining-wellbeing-using-arts-based-methods-to-address](../sources/fxa303-week11-reimagining-wellbeing-using-arts-based-methods-to-address.md)

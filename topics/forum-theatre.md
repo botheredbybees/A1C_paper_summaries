@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Forum Theatre"
 confidence: low
-tags: ["forum-theatre"]
+domain: intervention
+slug: forum-theatre
 sources:
-  - fxa100-week09-augusto-boals-forum-theatre-for-teachers
+- fxa100-week09-augusto-boals-forum-theatre-for-teachers
+tags:
+- forum-theatre
+title: Forum Theatre
+type: topic
 updated: 2026-05-04
 ---
 

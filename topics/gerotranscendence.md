@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Gerotranscendence"
 confidence: low
-tags: ["gerotranscendence"]
+domain: theory
+slug: gerotranscendence
 sources:
-  - fxa202-week10-the-reciprocal-influence-of-art-and-aging
+- fxa202-week10-the-reciprocal-influence-of-art-and-aging
+tags:
+- gerotranscendence
+title: Gerotranscendence
+type: topic
 updated: 2026-05-04
 ---
 

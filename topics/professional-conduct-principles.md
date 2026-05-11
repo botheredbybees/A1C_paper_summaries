@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Professional Conduct Principles in Arts in Health"
 confidence: low
-tags: ["professional-conduct-principles"]
+domain: intervention
+slug: professional-conduct-principles-in-arts-in-health
 sources:
-  - fxa100-week04-research-ethics-in-arts-in-health-interventions
+- fxa100-week04-research-ethics-in-arts-in-health-interventions
+tags:
+- professional-conduct-principles
+title: Professional Conduct Principles in Arts in Health
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Improv Theatre"
 confidence: low
-tags: ["improvisational-theatre"]
+domain: intervention
+slug: improv-theatre
 sources:
-  - fxa303-week08-commedia-dellarte-characters-scenarios-and-rhetoric
+- fxa303-week08-commedia-dellarte-characters-scenarios-and-rhetoric
+tags:
+- improvisational-theatre
+title: Improv Theatre
+type: topic
 updated: 2026-05-04
 ---
 

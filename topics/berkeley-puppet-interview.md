@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Berkeley Puppet Interview"
 confidence: low
-tags: ["berkeley-puppet-interview"]
+domain: intervention
+slug: berkeley-puppet-interview
 sources:
-  - fxa303-week06-puppet-play-therapy-a-practical-guidebook
+- fxa303-week06-puppet-play-therapy-a-practical-guidebook
+tags:
+- berkeley-puppet-interview
+title: Berkeley Puppet Interview
+type: topic
 updated: 2026-05-04
 ---
 

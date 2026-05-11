@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Spit Model For Understanding Outdoor Play"
 confidence: low
-tags: ["spit-model"]
+domain: intervention
+slug: spit-model-for-understanding-outdoor-play
 sources:
-  - fxa303-week09-space-people-interventions-and-time-a-model-for
+- fxa303-week09-space-people-interventions-and-time-a-model-for
+tags:
+- spit-model
+title: Spit Model For Understanding Outdoor Play
+type: topic
 updated: 2026-05-04
 ---
 

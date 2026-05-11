@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "theory"
-title: "Synaptic Pruning in Adolescent Development"
 confidence: medium
-tags: ["synaptic-pruning"]
+domain: theory
+slug: synaptic-pruning-in-adolescent-development
 sources:
-  - fxa303-week02-lesson-fxa303-week02-introduction-copy
-  - fxa303-week03-adolescent-development
-  - fxa303-week03-adolescent-neurodevelopment
+- fxa303-week02-lesson-fxa303-week02-introduction-copy
+- fxa303-week03-adolescent-development
+- fxa303-week03-adolescent-neurodevelopment
+tags:
+- synaptic-pruning
+title: Synaptic Pruning in Adolescent Development
+type: topic
 updated: 2026-05-04
 ---
 

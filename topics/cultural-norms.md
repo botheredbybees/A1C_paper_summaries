@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cultural Norms in Dementia Care"
 confidence: low
-tags: ["cultural-norms"]
+domain: intervention
+slug: cultural-norms-in-dementia-care
 sources:
-  - fxa100-week03-5-tips-for-cultural-and-religious-appropriate-dementia-care
+- fxa100-week03-5-tips-for-cultural-and-religious-appropriate-dementia-care
+tags:
+- cultural-norms
+title: Cultural Norms in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

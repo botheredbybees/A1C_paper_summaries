@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Participatory Arts Programs"
 confidence: low
-tags: ["participatory-arts-programs"]
+domain: intervention
+slug: participatory-arts-programs
 sources:
-  - fxa100-week06-lesson-fxa100-week06-page-3-the-arts-and-art-therapy
+- fxa100-week06-lesson-fxa100-week06-page-3-the-arts-and-art-therapy
+tags:
+- participatory-arts-programs
+title: Participatory Arts Programs
+type: topic
 updated: 2026-05-04
 ---
 

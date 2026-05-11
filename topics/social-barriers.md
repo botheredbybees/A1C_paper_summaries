@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Social Barriers for People with Disabilities"
 confidence: low
-tags: ["social-barriers"]
+domain: population
+slug: social-barriers-for-people-with-disabilities
 sources:
-  - fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions
+- fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions
+tags:
+- social-barriers
+title: Social Barriers for People with Disabilities
+type: topic
 updated: 2026-05-04
 ---
 

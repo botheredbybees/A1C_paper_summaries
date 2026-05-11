@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Puppet-Assisted Play Therapy for Children"
 confidence: high
-tags: ["child-psychology"]
+domain: intervention
+slug: puppet-assisted-play-therapy-for-children
 sources:
   - fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the
   - fxa303-puppet-play-therapy-ch08-6-posture-keep-your-arm-holding-the-puppet-at-a-right-angle
@@ -18,7 +16,24 @@ sources:
   - fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for
   - fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand
   - fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms
-updated: 2026-05-04
+- fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the
+- fxa303-puppet-play-therapy-ch08-6-posture-keep-your-arm-holding-the-puppet-at-a-right-angle
+- fxa303-week01-play-therapy-considerations-and-applications-for-the
+- fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism
+- fxa303-week04-transcript-duration-3-03
+- fxa303-week04-transcript-duration-5-04
+- fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy
+- fxa303-week05-week-5-overview-fxa303-creative-arts-play-and-mental
+- fxa303-week06-mr-fox-is-sad
+- fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice
+- fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for
+- fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand
+- fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms
+tags:
+- child-psychology
+title: Puppet-Assisted Play Therapy for Children
+type: topic
+updated: 2026-05-11
 ---
 
 ## Puppet-Assisted Play Therapy for Children

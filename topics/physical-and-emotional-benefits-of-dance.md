@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Physical and Emotional Benefits of Dance"
 confidence: low
-tags: ["physical-and-emotional-benefits-of-dance"]
+domain: intervention
+slug: physical-and-emotional-benefits-of-dance
 sources:
-  - fxa301-week06-lesson-fxa301-week06-page-2
+- fxa301-week06-lesson-fxa301-week06-page-2
+tags:
+- physical-and-emotional-benefits-of-dance
+title: Physical and Emotional Benefits of Dance
+type: topic
 updated: 2026-05-04
 ---
 

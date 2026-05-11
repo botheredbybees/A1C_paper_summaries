@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Viewer Engagement in Photo Storytelling"
 confidence: low
-tags: ["viewer-engagement"]
+domain: method
+slug: viewer-engagement-in-photo-storytelling
 sources:
-  - fxa202-week09-do-you-struggle-with-constructing-a-photo-story-try-this-3
+- fxa202-week09-do-you-struggle-with-constructing-a-photo-story-try-this-3
+tags:
+- viewer-engagement
+title: Viewer Engagement in Photo Storytelling
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Bronfenbrenner\u2019s Ecological Theory"
 confidence: low
-tags: ["bronfenbrenners-ecological-theory"]
+domain: theory
+slug: bronfenbrenner-s-ecological-theory
 sources:
-  - fxa303-week03-developmental-psychology-from-infancy-to-adulthood-(2)
+- fxa303-week03-developmental-psychology-from-infancy-to-adulthood-(2)
+tags:
+- bronfenbrenners-ecological-theory
+title: Bronfenbrenner’s Ecological Theory
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "method"
-title: "Journaling as a Creative Practice"
 confidence: medium
-tags: ["journaling"]
+domain: method
+slug: journaling-as-a-creative-practice
 sources:
-  - fxa202-week08-journal-and-visual-research-guidelines
-  - fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays
+- fxa202-week08-journal-and-visual-research-guidelines
+- fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays
+tags:
+- journaling
+title: Journaling as a Creative Practice
+type: topic
 updated: 2026-05-04
 ---
 

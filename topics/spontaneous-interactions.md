@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Spontaneous Interactions in Music Therapy"
 confidence: low
-tags: ["spontaneous-interactions"]
+domain: intervention
+slug: spontaneous-interactions-in-music-therapy
 sources:
-  - fxa301-week06-the-dance-of-wellbeing-defining-the-musical-therapeutic
+- fxa301-week06-the-dance-of-wellbeing-defining-the-musical-therapeutic
+tags:
+- spontaneous-interactions
+title: Spontaneous Interactions in Music Therapy
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "theory"
-title: "Brain Structure and Function"
 confidence: medium
-tags: ["brain-structure"]
+domain: theory
+slug: brain-structure-and-function
 sources:
   - fxa301-week02-the-brain-and-how-we-perceive-information
   - fxa303-week03-limbic-systems-for-emotion-and-for-memory-but-no-single
   - fxa303-week03-neuroanatomy-limbic-system
-updated: 2026-05-04
+- fxa301-week02-the-brain-and-how-we-perceive-information
+- fxa303-week03-limbic-systems-for-emotion-and-for-memory-but-no-single
+- fxa303-week03-neuroanatomy-limbic-system
+tags:
+- brain-structure
+title: Brain Structure and Function
+type: topic
+updated: 2026-05-11
 ---
 
 ## Brain Structure and Function

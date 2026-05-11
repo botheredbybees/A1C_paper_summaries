@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Health Inequalities and Creative Health Interventions"
 confidence: medium
-tags: ["health-inequalities"]
+domain: intervention
+slug: health-inequalities-and-creative-health-interventions
 sources:
   - fxa301-week03-health-inequalities-and-the-role-of-creative-health
   - fxa301-week03-implementing-creative-health
   - fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation
-updated: 2026-05-04
+- fxa301-week03-health-inequalities-and-the-role-of-creative-health
+- fxa301-week03-implementing-creative-health
+- fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation
+tags:
+- health-inequalities
+title: Health Inequalities and Creative Health Interventions
+type: topic
+updated: 2026-05-11
 ---
 
 ## Health Inequalities and Creative Health Interventions

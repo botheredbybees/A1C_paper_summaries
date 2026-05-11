@@ -1,13 +1,10 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music Therapy"
 confidence: medium
-tags: ["therapeutic-benefits"]
+domain: intervention
+slug: music-therapy
 sources:
   - fxa100-week02-music-and-the-damaged-brain
   - fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind
-  - fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video
   - fxa100-week04-what-is-singing-for-the-brain
   - fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas
   - fxa202-week09-expressive-writing-therapy-exercises-examples
@@ -15,8 +12,25 @@ sources:
   - fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our
   - fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes
   - fxa301-week06-further-evidence-that-singing-fosters-mental-health-and
+  - fxa301-week11-arts-and-refugees-multidisciplinary-perspectives-vol-2
   - fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact
-updated: 2026-05-05
+  - fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through
+- fxa100-week02-music-and-the-damaged-brain
+- fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind
+- fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video
+- fxa100-week04-what-is-singing-for-the-brain
+- fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas
+- fxa202-week09-expressive-writing-therapy-exercises-examples
+- fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a
+- fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our
+- fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes
+- fxa301-week06-further-evidence-that-singing-fosters-mental-health-and
+- fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact
+tags:
+- therapeutic-benefits
+title: Music Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Music Therapy
@@ -37,7 +51,6 @@ The documents collectively emphasize the profound therapeutic potential of music
 
 - [fxa100-week02-music-and-the-damaged-brain](../sources/fxa100-week02-music-and-the-damaged-brain.md)
 - [fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind](../sources/fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind.md)
-- [fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video](../sources/fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video.md)
 - [fxa100-week04-what-is-singing-for-the-brain](../sources/fxa100-week04-what-is-singing-for-the-brain.md)
 - [fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas](../sources/fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas.md)
 - [fxa202-week09-expressive-writing-therapy-exercises-examples](../sources/fxa202-week09-expressive-writing-therapy-exercises-examples.md)
@@ -45,4 +58,6 @@ The documents collectively emphasize the profound therapeutic potential of music
 - [fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our](../sources/fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our.md)
 - [fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes](../sources/fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes.md)
 - [fxa301-week06-further-evidence-that-singing-fosters-mental-health-and](../sources/fxa301-week06-further-evidence-that-singing-fosters-mental-health-and.md)
+- [fxa301-week11-arts-and-refugees-multidisciplinary-perspectives-vol-2](../sources/fxa301-week11-arts-and-refugees-multidisciplinary-perspectives-vol-2.md)
 - [fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact](../sources/fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact.md)
+- [fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through](../sources/fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through.md)

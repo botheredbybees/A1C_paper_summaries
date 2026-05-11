@@ -1,15 +1,23 @@
 ---
-type: topic
-domain: "intervention"
-title: "Inclusive Arts"
 confidence: high
-tags: ["inclusive-arts"]
+domain: intervention
+slug: inclusive-arts
 sources:
   - fxa301-week09-lesson-fxa301-week09-page-1
   - fxa301-week09-lesson-fxa301-week09-page-2
   - fxa301-week09-lesson-fxa301-week09-page-3
   - fxa301-week09-week-9-lecture-dr-brendan-lamb
-updated: 2026-05-04
+  - fxa301-week11-firstdraft-exhibition-brings-artists-together-to-better
+  - fxa301-week11-projects-art-beyond-sight
+- fxa301-week09-lesson-fxa301-week09-page-1
+- fxa301-week09-lesson-fxa301-week09-page-2
+- fxa301-week09-lesson-fxa301-week09-page-3
+- fxa301-week09-week-9-lecture-dr-brendan-lamb
+tags:
+- inclusive-arts
+title: Inclusive Arts
+type: topic
+updated: 2026-05-11
 ---
 
 ## Inclusive Arts
@@ -36,3 +44,5 @@ Throughout these sources, there is a consistent emphasis on designing interventi
 - [fxa301-week09-lesson-fxa301-week09-page-2](../sources/fxa301-week09-lesson-fxa301-week09-page-2.md)
 - [fxa301-week09-lesson-fxa301-week09-page-3](../sources/fxa301-week09-lesson-fxa301-week09-page-3.md)
 - [fxa301-week09-week-9-lecture-dr-brendan-lamb](../sources/fxa301-week09-week-9-lecture-dr-brendan-lamb.md)
+- [fxa301-week11-firstdraft-exhibition-brings-artists-together-to-better](../sources/fxa301-week11-firstdraft-exhibition-brings-artists-together-to-better.md)
+- [fxa301-week11-projects-art-beyond-sight](../sources/fxa301-week11-projects-art-beyond-sight.md)

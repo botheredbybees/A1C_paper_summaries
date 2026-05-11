@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: procedural-pain-management
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Procedural Pain Management

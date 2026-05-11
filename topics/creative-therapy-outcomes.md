@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Therapy Outcomes"
 confidence: low
-tags: ["creative-therapy-outcomes"]
+domain: intervention
+slug: creative-therapy-outcomes
 sources:
-  - fxa301-week03-creative-health-and-care-experienced-children-and-young
+- fxa301-week03-creative-health-and-care-experienced-children-and-young
+tags:
+- creative-therapy-outcomes
+title: Creative Therapy Outcomes
+type: topic
 updated: 2026-05-04
 ---
 

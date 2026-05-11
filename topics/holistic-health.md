@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Holistic Health"
 confidence: low
-tags: ["holistic-health"]
+domain: intervention
+slug: holistic-health
 sources:
-  - fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing
+- fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing
+tags:
+- holistic-health
+title: Holistic Health
+type: topic
 updated: 2026-05-04
 ---
 

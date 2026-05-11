@@ -1,16 +1,23 @@
 ---
-type: topic
-domain: "theory"
-title: "Brain Anatomy in Neurodegenerative Diseases"
 confidence: medium
-tags: ["brain-anatomy"]
+domain: theory
+slug: brain-anatomy-in-neurodegenerative-diseases
 sources:
   - fxa100-week01-the-science-of-lewy-body-dementia-video-transcript
   - fxa100-week01-what-is-alzheimers-disease-video-transcript
   - fxa301-week01-lesson-fxa301-week01-page-2
   - fxa301-week01-web-article-zuckerman-2009
   - fxa303-week04-unraveling-neurodiversity-insights-from-neuroscientic
-updated: 2026-05-05
+- fxa100-week01-the-science-of-lewy-body-dementia-video-transcript
+- fxa100-week01-what-is-alzheimers-disease-video-transcript
+- fxa301-week01-lesson-fxa301-week01-page-2
+- fxa301-week01-web-article-zuckerman-2009
+- fxa303-week04-unraveling-neurodiversity-insights-from-neuroscientic
+tags:
+- brain-anatomy
+title: Brain Anatomy in Neurodegenerative Diseases
+type: topic
+updated: 2026-05-11
 ---
 
 ## Brain Anatomy in Neurodegenerative Diseases

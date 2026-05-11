@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Personalized Care in Health and Wellbeing"
 confidence: medium
-tags: ["personalized-care"]
+domain: intervention
+slug: personalized-care-in-health-and-wellbeing
 sources:
-  - fxa301-week03-art-for-better-health-and-wellbeing
-  - fxa301-week03-challenges-in-end-of-life-care-and-bereavement
+- fxa301-week03-art-for-better-health-and-wellbeing
+- fxa301-week03-challenges-in-end-of-life-care-and-bereavement
+tags:
+- personalized-care
+title: Personalized Care in Health and Wellbeing
+type: topic
 updated: 2026-05-04
 ---
 

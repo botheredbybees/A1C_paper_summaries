@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creativity In Dementia"
 confidence: medium
-tags: ["creativity-in-dementia"]
+domain: intervention
+slug: creativity-in-dementia
 sources:
-  - fxa100-excellence-in-dementia-care--ch57-chapter-17
-  - fxa100-week08-why-the-arts
+- fxa100-excellence-in-dementia-care--ch57-chapter-17
+- fxa100-week08-why-the-arts
+tags:
+- creativity-in-dementia
+title: Creativity In Dementia
+type: topic
 updated: 2026-05-04
 ---
 

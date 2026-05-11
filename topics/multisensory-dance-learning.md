@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Multisensory Dance Learning"
 confidence: low
-tags: ["multisensory-dance-learning"]
+domain: intervention
+slug: multisensory-dance-learning
 sources:
-  - fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with
+- fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with
+tags:
+- multisensory-dance-learning
+title: Multisensory Dance Learning
+type: topic
 updated: 2026-05-04
 ---
 

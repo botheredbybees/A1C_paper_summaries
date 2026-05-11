@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Missed Early Intervention Opportunities for Children With Autism Spectrum Disorder"
 confidence: low
-tags: ["individuals-with-disabilities-education-act-part-c"]
+domain: intervention
+slug: missed-early-intervention-opportunities-for-children-with-autism-spectrum-disorder
 sources:
-  - fxa303-week04-missed-early-intervention-opportunities-for-children-with
+- fxa303-week04-missed-early-intervention-opportunities-for-children-with
+tags:
+- individuals-with-disabilities-education-act-part-c
+title: Missed Early Intervention Opportunities for Children With Autism Spectrum Disorder
+type: topic
 updated: 2026-05-04
 ---
 

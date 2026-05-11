@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Personal Storytelling"
 confidence: medium
-tags: ["personal-storytelling"]
+domain: intervention
+slug: personal-storytelling
 sources:
   - fxa202-week09-personal-storytelling-and-memoir-writing
   - fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay
-updated: 2026-05-04
+- fxa202-week09-personal-storytelling-and-memoir-writing
+- fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay
+tags:
+- personal-storytelling
+title: Personal Storytelling
+type: topic
+updated: 2026-05-11
 ---
 
 ## Personal Storytelling

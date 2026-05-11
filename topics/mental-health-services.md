@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Mental Health Services"
 confidence: medium
-tags: ["mental-health-services"]
+domain: intervention
+slug: mental-health-services
 sources:
   - fxa301-week03-statement-on-lived-experience
   - fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit
-updated: 2026-05-04
+- fxa301-week03-statement-on-lived-experience
+- fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit
+tags:
+- mental-health-services
+title: Mental Health Services
+type: topic
+updated: 2026-05-11
 ---
 
 ## Mental Health Services

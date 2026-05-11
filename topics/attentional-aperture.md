@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Attentional Aperture"
 confidence: low
-tags: ["attentional-aperture"]
+domain: intervention
+slug: attentional-aperture
 sources:
-  - fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography
+- fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography
+tags:
+- attentional-aperture
+title: Attentional Aperture
+type: topic
 updated: 2026-05-04
 ---
 

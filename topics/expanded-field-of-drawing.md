@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Expanded Field of Drawing"
 confidence: low
-tags: ["expanded-field-of-drawing"]
+domain: method
+slug: expanded-field-of-drawing
 sources:
-  - fxa301-week05-transcript-aprof-anne-marie-forbes-interview-with-dr
+- fxa301-week05-transcript-aprof-anne-marie-forbes-interview-with-dr
+tags:
+- expanded-field-of-drawing
+title: Expanded Field of Drawing
+type: topic
 updated: 2026-05-04
 ---
 

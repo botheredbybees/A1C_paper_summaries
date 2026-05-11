@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Outcomes of Arts Therapies for Eating Disorders"
 confidence: medium
-tags: ["therapeutic-outcomes"]
+domain: intervention
+slug: therapeutic-outcomes-of-arts-therapies-for-eating-disorders
 sources:
-  - fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the
-  - fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the-(2)
+- fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the
+- fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the-(2)
+tags:
+- therapeutic-outcomes
+title: Therapeutic Outcomes of Arts Therapies for Eating Disorders
+type: topic
 updated: 2026-05-04
 ---
 

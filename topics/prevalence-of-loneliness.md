@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Prevalence Of Loneliness"
 confidence: low
-tags: ["prevalence-of-loneliness"]
+domain: population
+slug: prevalence-of-loneliness
 sources:
-  - fxa301-week01-web-article-relationships-2018
+- fxa301-week01-web-article-relationships-2018
+tags:
+- prevalence-of-loneliness
+title: Prevalence Of Loneliness
+type: topic
 updated: 2026-05-04
 ---
 

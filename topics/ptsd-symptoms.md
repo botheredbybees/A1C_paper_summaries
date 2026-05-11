@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Post-Traumatic Stress Disorder Symptoms"
 confidence: low
-tags: ["ptsd-symptoms"]
+domain: intervention
+slug: post-traumatic-stress-disorder-symptoms
 sources:
-  - fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and
+- fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and
+tags:
+- ptsd-symptoms
+title: Post-Traumatic Stress Disorder Symptoms
+type: topic
 updated: 2026-05-04
 ---
 

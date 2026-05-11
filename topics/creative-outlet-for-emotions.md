@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Outlet for Emotions Through Crafting"
 confidence: low
-tags: ["creative-outlet-for-emotions"]
+domain: intervention
+slug: creative-outlet-for-emotions-through-crafting
 sources:
-  - fxa100-creativity-and-communication-ch01-10-playing-with-mud-ceramics-and-clay-claire-craig-clay-is
+- fxa100-creativity-and-communication-ch01-10-playing-with-mud-ceramics-and-clay-claire-craig-clay-is
+tags:
+- creative-outlet-for-emotions
+title: Creative Outlet for Emotions Through Crafting
+type: topic
 updated: 2026-05-04
 ---
 

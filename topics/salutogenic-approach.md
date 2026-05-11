@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Salutogenic Approach"
 confidence: low
-tags: ["salutogenic-approach"]
+domain: theory
+slug: salutogenic-approach
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26
+- fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26
+tags:
+- salutogenic-approach
+title: Salutogenic Approach
+type: topic
 updated: 2026-05-04
 ---
 

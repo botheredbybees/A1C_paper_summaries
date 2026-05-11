@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Social Constructionist Theory in Dementia Care"
 confidence: low
-tags: ["social-constructionist-theory"]
+domain: theory
+slug: social-constructionist-theory-in-dementia-care
 sources:
-  - fxa100-excellence-in-dementia-care--ch52-1-there-is-a-stereotypic-view
+- fxa100-excellence-in-dementia-care--ch52-1-there-is-a-stereotypic-view
+tags:
+- social-constructionist-theory
+title: Social Constructionist Theory in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

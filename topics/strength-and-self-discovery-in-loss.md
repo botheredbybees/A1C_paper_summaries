@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Strength and Self-Discovery in Loss"
 confidence: low
-tags: ["strength-and-self-discovery-in-loss"]
+domain: theory
+slug: strength-and-self-discovery-in-loss
 sources:
-  - fxa202-week09-reflections-on-grieving-at-a-seaside-pier
+- fxa202-week09-reflections-on-grieving-at-a-seaside-pier
+tags:
+- strength-and-self-discovery-in-loss
+title: Strength and Self-Discovery in Loss
+type: topic
 updated: 2026-05-04
 ---
 

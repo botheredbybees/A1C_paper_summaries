@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Newton's Second Law in Chaotic Systems"
 confidence: low
-tags: ["newtons-second-law"]
+domain: theory
+slug: newton-s-second-law-in-chaotic-systems
 sources:
-  - fxa100-week02-moshing-with-physics-jesse-silverberg-tedxyale-video
+- fxa100-week02-moshing-with-physics-jesse-silverberg-tedxyale-video
+tags:
+- newtons-second-law
+title: Newton's Second Law in Chaotic Systems
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Guided Imagery and Music"
 confidence: low
-tags: ["guided-imagery-and-music"]
+domain: intervention
+slug: guided-imagery-and-music
 sources:
-  - fxa100-week03-lesson-fxa100-week03-page-4-week-3-activities1
+- fxa100-week03-lesson-fxa100-week03-page-4-week-3-activities1
+tags:
+- guided-imagery-and-music
+title: Guided Imagery and Music
+type: topic
 updated: 2026-05-04
 ---
 

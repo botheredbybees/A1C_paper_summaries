@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Neurotransmitters"
 confidence: low
-tags: ["neurotransmitters"]
+domain: theory
+slug: neurotransmitters
 sources:
-  - fxa301-week02-lecture-on-perception-of-the-arts
+- fxa301-week02-lecture-on-perception-of-the-arts
+tags:
+- neurotransmitters
+title: Neurotransmitters
+type: topic
 updated: 2026-05-04
 ---
 

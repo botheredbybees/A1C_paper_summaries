@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Social Responsiveness in Autism"
 confidence: low
-tags: ["social-responsiveness-in-autism"]
+domain: intervention
+slug: social-responsiveness-in-autism
 sources:
-  - fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the
+- fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the
+tags:
+- social-responsiveness-in-autism
+title: Social Responsiveness in Autism
+type: topic
 updated: 2026-05-04
 ---
 

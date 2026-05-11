@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Social Connectedness"
 confidence: low
-tags: ["social-connectedness"]
+domain: population
+slug: social-connectedness
 sources:
-  - fxa301-week05-submission-to-the-nsw-health-and-wellbeing-strategy
+- fxa301-week05-submission-to-the-nsw-health-and-wellbeing-strategy
+tags:
+- social-connectedness
+title: Social Connectedness
+type: topic
 updated: 2026-05-04
 ---
 

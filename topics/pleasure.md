@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Pleasure in Music"
 confidence: low
-tags: ["pleasure"]
+domain: intervention
+slug: pleasure-in-music
 sources:
-  - fxa301-week02-university-students-strong-experiences-of-music-pleasure
+- fxa301-week02-university-students-strong-experiences-of-music-pleasure
+tags:
+- pleasure
+title: Pleasure in Music
+type: topic
 updated: 2026-05-04
 ---
 

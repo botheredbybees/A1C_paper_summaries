@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Adlerian Theory"
 confidence: low
-tags: ["adlerian-theory"]
+domain: theory
+slug: adlerian-theory
 sources:
-  - fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth
+- fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth
+tags:
+- adlerian-theory
+title: Adlerian Theory
+type: topic
 updated: 2026-05-04
 ---
 

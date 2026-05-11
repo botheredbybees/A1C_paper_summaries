@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Playful Engagement in Dementia Care"
 confidence: medium
-tags: ["playful-engagement"]
+domain: intervention
+slug: playful-engagement-in-dementia-care
 sources:
   - fxa100-week10-lesson-fxa100-week10-page-1-welcome-to-week-9
   - fxa100-week10-week-10-lecture-theatre-and-play-in-dementia-care
-updated: 2026-05-04
+- fxa100-week10-lesson-fxa100-week10-page-1-welcome-to-week-9
+- fxa100-week10-week-10-lecture-theatre-and-play-in-dementia-care
+tags:
+- playful-engagement
+title: Playful Engagement in Dementia Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Playful Engagement in Dementia Care

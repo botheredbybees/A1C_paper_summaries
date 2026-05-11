@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Resilience Promotion"
 confidence: low
-tags: ["resilience-promotion"]
+domain: intervention
+slug: resilience-promotion
 sources:
-  - fxa303-week09-space-people-interventions-and-time-a-model-for
+- fxa303-week09-space-people-interventions-and-time-a-model-for
+tags:
+- resilience-promotion
+title: Resilience Promotion
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Subjective Realities in Qualitative Research"
 confidence: low
-tags: ["subjective-realities"]
+domain: method
+slug: subjective-realities-in-qualitative-research
 sources:
-  - fxa301-week10-the-contribution-of-the-visual-in-qualitative-participatory
+- fxa301-week10-the-contribution-of-the-visual-in-qualitative-participatory
+tags:
+- subjective-realities
+title: Subjective Realities in Qualitative Research
+type: topic
 updated: 2026-05-04
 ---
 

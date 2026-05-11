@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Symbolic Communication in Play Therapy"
 confidence: low
-tags: ["symbolic-communication"]
+domain: intervention
+slug: symbolic-communication-in-play-therapy
 sources:
-  - fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children
+- fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children
+tags:
+- symbolic-communication
+title: Symbolic Communication in Play Therapy
+type: topic
 updated: 2026-05-04
 ---
 

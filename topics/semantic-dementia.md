@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Semantic Dementia And Music"
 confidence: low
-tags: ["semantic-dementia"]
+domain: intervention
+slug: semantic-dementia-and-music
 sources:
-  - fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind
+- fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind
+tags:
+- semantic-dementia
+title: Semantic Dementia And Music
+type: topic
 updated: 2026-05-04
 ---
 

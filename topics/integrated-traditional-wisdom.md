@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Integrated Traditional Wisdom in Art Therapy"
 confidence: low
-tags: ["integrated-traditional-wisdom"]
+domain: intervention
+slug: integrated-traditional-wisdom-in-art-therapy
 sources:
-  - fxa303-week10-indigenous-and-traditional-visual-artistic-practices
+- fxa303-week10-indigenous-and-traditional-visual-artistic-practices
+tags:
+- integrated-traditional-wisdom
+title: Integrated Traditional Wisdom in Art Therapy
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Neuropathology"
 confidence: low
-tags: ["neuropathology"]
+domain: theory
+slug: neuropathology
 sources:
-  - fxa100-excellence-in-dementia-care--ch40-chapter-14
+- fxa100-excellence-in-dementia-care--ch40-chapter-14
+tags:
+- neuropathology
+title: Neuropathology
+type: topic
 updated: 2026-05-04
 ---
 

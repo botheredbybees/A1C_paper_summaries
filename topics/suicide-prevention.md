@@ -1,13 +1,18 @@
 ---
-type: topic
-domain: "intervention"
-title: "Suicide Prevention"
 confidence: medium
-tags: ["suicide-prevention"]
+domain: intervention
+slug: suicide-prevention
 sources:
   - fxa303-week03-mental-health-of-adolescents
   - fxa303-week10-web-article-russ-smith-2023
-updated: 2026-05-04
+  - fxa303-week11-preliminary-findings-from-mapping-q-an-arts-based-suicide
+- fxa303-week03-mental-health-of-adolescents
+- fxa303-week10-web-article-russ-smith-2023
+tags:
+- suicide-prevention
+title: Suicide Prevention
+type: topic
+updated: 2026-05-11
 ---
 
 ## Suicide Prevention
@@ -28,3 +33,4 @@ The integration of suicide prevention strategies in the context of adolescent an
 
 - [fxa303-week03-mental-health-of-adolescents](../sources/fxa303-week03-mental-health-of-adolescents.md)
 - [fxa303-week10-web-article-russ-smith-2023](../sources/fxa303-week10-web-article-russ-smith-2023.md)
+- [fxa303-week11-preliminary-findings-from-mapping-q-an-arts-based-suicide](../sources/fxa303-week11-preliminary-findings-from-mapping-q-an-arts-based-suicide.md)

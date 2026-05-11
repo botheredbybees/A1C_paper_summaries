@@ -1,15 +1,24 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts Education and Adolescent Development"
 confidence: medium
-tags: ["arts-education"]
+domain: intervention
+slug: arts-education-and-adolescent-development
 sources:
   - fxa301-make-arts-for-a-better-life-ch06-1-see-also-closing
   - fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals-(2)
+  - fxa301-week11-anything-is-possible-the-arts-and-social-inclusion
+  - fxa301-week11-choose-art
   - fxa303-week03-arts-in-adolescence
   - fxa303-week10-arts-education-and-society-the-role-of-the-arts-in
-updated: 2026-05-05
+  - fxa303-week11-using-and-abusing-the-arts-with-at-risk-youth
+- fxa301-make-arts-for-a-better-life-ch06-1-see-also-closing
+- fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals-(2)
+- fxa303-week03-arts-in-adolescence
+- fxa303-week10-arts-education-and-society-the-role-of-the-arts-in
+tags:
+- arts-education
+title: Arts Education and Adolescent Development
+type: topic
+updated: 2026-05-11
 ---
 
 ## Arts Education and Adolescent Development
@@ -30,5 +39,8 @@ The integration of arts into adolescent education emerges as a multifaceted inte
 
 - [fxa301-make-arts-for-a-better-life-ch06-1-see-also-closing](../sources/fxa301-make-arts-for-a-better-life-ch06-1-see-also-closing.md)
 - [fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals-(2)](../sources/fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals-(2).md)
+- [fxa301-week11-anything-is-possible-the-arts-and-social-inclusion](../sources/fxa301-week11-anything-is-possible-the-arts-and-social-inclusion.md)
+- [fxa301-week11-choose-art](../sources/fxa301-week11-choose-art.md)
 - [fxa303-week03-arts-in-adolescence](../sources/fxa303-week03-arts-in-adolescence.md)
 - [fxa303-week10-arts-education-and-society-the-role-of-the-arts-in](../sources/fxa303-week10-arts-education-and-society-the-role-of-the-arts-in.md)
+- [fxa303-week11-using-and-abusing-the-arts-with-at-risk-youth](../sources/fxa303-week11-using-and-abusing-the-arts-with-at-risk-youth.md)

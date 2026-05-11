@@ -1,16 +1,23 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Arts Therapies for Ptsd"
 confidence: high
-tags: ["ptsd-treatment"]
+domain: intervention
+slug: creative-arts-therapies-for-ptsd
 sources:
   - fxa301-week10-a-systematic-review-of-the-efficacy-of-creative-arts
   - fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd
   - fxa301-week10-fxa301-week-10-lecture
   - fxa301-week10-lesson-fxa301-week10-page-3
   - fxa303-week10-web-article-gulbay-2021
-updated: 2026-05-04
+- fxa301-week10-a-systematic-review-of-the-efficacy-of-creative-arts
+- fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd
+- fxa301-week10-fxa301-week-10-lecture
+- fxa301-week10-lesson-fxa301-week10-page-3
+- fxa303-week10-web-article-gulbay-2021
+tags:
+- ptsd-treatment
+title: Creative Arts Therapies for Ptsd
+type: topic
+updated: 2026-05-11
 ---
 
 ## Creative Arts Therapies for Ptsd

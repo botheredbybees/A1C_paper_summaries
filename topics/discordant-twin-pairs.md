@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Discordant Twin Pairs in Dementia Risk"
 confidence: low
-tags: ["discordant-twin-pairs"]
+domain: population
+slug: discordant-twin-pairs-in-dementia-risk
 sources:
-  - fxa100-week02-playing-a-musical-instrument-as-a-protective-factor-against
+- fxa100-week02-playing-a-musical-instrument-as-a-protective-factor-against
+tags:
+- discordant-twin-pairs
+title: Discordant Twin Pairs in Dementia Risk
+type: topic
 updated: 2026-05-04
 ---
 

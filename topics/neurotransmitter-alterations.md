@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Neurotransmitter Alterations in Autism"
 confidence: low
-tags: ["neurotransmitter-alterations"]
+domain: theory
+slug: neurotransmitter-alterations-in-autism
 sources:
-  - fxa303-week04-the-neurochemistry-of-autism
+- fxa303-week04-the-neurochemistry-of-autism
+tags:
+- neurotransmitter-alterations
+title: Neurotransmitter Alterations in Autism
+type: topic
 updated: 2026-05-04
 ---
 

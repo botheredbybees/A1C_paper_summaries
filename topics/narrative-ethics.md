@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "theory"
-title: "Story-Based Ethics in Dementia Care"
 confidence: medium
-tags: ["narrative-ethics"]
+domain: theory
+slug: story-based-ethics-in-dementia-care
 sources:
   - fxa100-excellence-in-dementia-care--ch36-chapter-4
   - fxa100-excellence-in-dementia-care--ch38-4-it-allows-for-the-ethical-decision
-updated: 2026-05-04
+- fxa100-excellence-in-dementia-care--ch36-chapter-4
+- fxa100-excellence-in-dementia-care--ch38-4-it-allows-for-the-ethical-decision
+tags:
+- narrative-ethics
+title: Story-Based Ethics in Dementia Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Story-Based Ethics in Dementia Care

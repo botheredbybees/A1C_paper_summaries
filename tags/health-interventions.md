@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: health-interventions
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Health Interventions
@@ -12,3 +12,4 @@ updated: 2026-05-06
 - [Implementing and Evaluating Interventions](../sources/fxa301-week01-implementing-and-evaluating-interventions.md)
 - [The health and well-being potential of museums and art galleries](../sources/fxa301-week05-the-health-and-well-being-potential-of-museums-and-art.md)
 - [Adolescent Health](../sources/fxa303-week03-adolescent-health.md)
+- [Music-making for health and wellbeing in youth justice settings](../sources/fxa303-week11-music-making-for-health-and-wellbeing-in-youth-justice.md)

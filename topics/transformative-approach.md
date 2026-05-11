@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Transformative Approach in Care"
 confidence: low
-tags: ["transformative-approach"]
+domain: intervention
+slug: transformative-approach-in-care
 sources:
-  - fxa100-week09-improving-care-the-next-step-forward
+- fxa100-week09-improving-care-the-next-step-forward
+tags:
+- transformative-approach
+title: Transformative Approach in Care
+type: topic
 updated: 2026-05-04
 ---
 

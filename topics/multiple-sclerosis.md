@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Use of Arts in Multiple Sclerosis"
 confidence: medium
-tags: ["multiple-sclerosis"]
+domain: intervention
+slug: therapeutic-use-of-arts-in-multiple-sclerosis
 sources:
   - fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope
   - fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple
-updated: 2026-05-04
+- fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope
+- fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple
+tags:
+- multiple-sclerosis
+title: Therapeutic Use of Arts in Multiple Sclerosis
+type: topic
+updated: 2026-05-11
 ---
 
 ## Therapeutic Use of Arts in Multiple Sclerosis

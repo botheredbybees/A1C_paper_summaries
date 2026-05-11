@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Personalized Care Approaches"
 confidence: low
-tags: ["personalized-care-approaches"]
+domain: intervention
+slug: personalized-care-approaches
 sources:
-  - fxa100-creativity-and-communication-ch11-21-giving-creativity-a-shape-creativity-takes-many-forms
+- fxa100-creativity-and-communication-ch11-21-giving-creativity-a-shape-creativity-takes-many-forms
+tags:
+- personalized-care-approaches
+title: Personalized Care Approaches
+type: topic
 updated: 2026-05-04
 ---
 

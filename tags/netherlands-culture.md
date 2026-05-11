@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: netherlands-culture
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Netherlands Culture

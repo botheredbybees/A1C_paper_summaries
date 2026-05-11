@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Media Representation Of Refugees"
 confidence: low
-tags: ["media-representation-of-refugees"]
+domain: theory
+slug: media-representation-of-refugees
 sources:
-  - fxa303-week10-the-global-refugee-crisis-empirical-evidence-and-policy
+- fxa303-week10-the-global-refugee-crisis-empirical-evidence-and-policy
+tags:
+- media-representation-of-refugees
+title: Media Representation Of Refugees
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Divine Inspiration"
 confidence: low
-tags: ["divine-inspiration"]
+domain: theory
+slug: divine-inspiration
 sources:
-  - fxa303-week05-platos-puppets-of-the-gods-representing-the-magical-the
+- fxa303-week05-platos-puppets-of-the-gods-representing-the-magical-the
+tags:
+- divine-inspiration
+title: Divine Inspiration
+type: topic
 updated: 2026-05-04
 ---
 

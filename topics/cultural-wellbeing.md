@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cultural Wellbeing"
 confidence: low
-tags: ["cultural-wellbeing"]
+domain: intervention
+slug: cultural-wellbeing
 sources:
-  - fxa301-week06-promoting-wellbeing-and-health-through-active-participation
+- fxa301-week06-promoting-wellbeing-and-health-through-active-participation
+tags:
+- cultural-wellbeing
+title: Cultural Wellbeing
+type: topic
 updated: 2026-05-04
 ---
 

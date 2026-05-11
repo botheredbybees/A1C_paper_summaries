@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Homo Ludens in Dementia Care"
 confidence: low
-tags: ["homo-ludens"]
+domain: intervention
+slug: homo-ludens-in-dementia-care
 sources:
-  - fxa100-week10-play-and-people-living-with-dementia-a-humanities-based
+- fxa100-week10-play-and-people-living-with-dementia-a-humanities-based
+tags:
+- homo-ludens
+title: Homo Ludens in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

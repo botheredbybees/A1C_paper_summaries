@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Bone Health"
 confidence: low
-tags: ["bone-health"]
+domain: intervention
+slug: bone-health
 sources:
-  - fxa301-week06-the-effects-of-recreational-dance-interventions-on-the
+- fxa301-week06-the-effects-of-recreational-dance-interventions-on-the
+tags:
+- bone-health
+title: Bone Health
+type: topic
 updated: 2026-05-04
 ---
 

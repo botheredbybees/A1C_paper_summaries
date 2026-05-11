@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Salivary Cortisol Measurement"
 confidence: low
-tags: ["salivary-cortisol"]
+domain: method
+slug: salivary-cortisol-measurement
 sources:
-  - fxa100-week03-the-short-term-impact-of-music-interventions-on-stress
+- fxa100-week03-the-short-term-impact-of-music-interventions-on-stress
+tags:
+- salivary-cortisol
+title: Salivary Cortisol Measurement
+type: topic
 updated: 2026-05-04
 ---
 

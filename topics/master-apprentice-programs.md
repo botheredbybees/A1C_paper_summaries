@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Master-Apprentice Programs"
 confidence: low
-tags: ["master-apprentice-programs"]
+domain: intervention
+slug: master-apprentice-programs
 sources:
-  - fxa301-make-arts-for-a-better-life-ch22-2-choose-a-master-of-the-genre
+- fxa301-make-arts-for-a-better-life-ch22-2-choose-a-master-of-the-genre
+tags:
+- master-apprentice-programs
+title: Master-Apprentice Programs
+type: topic
 updated: 2026-05-04
 ---
 

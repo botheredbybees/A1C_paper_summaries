@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts Therapies and Resilience in Children"
 confidence: low
-tags: ["therapeutic-applications"]
+domain: intervention
+slug: arts-therapies-and-resilience-in-children
 sources:
-  - fxa303-week06-arts-therapies-and-the-mental-health-of-children-and-young
+- fxa303-week06-arts-therapies-and-the-mental-health-of-children-and-young
+tags:
+- therapeutic-applications
+title: Arts Therapies and Resilience in Children
+type: topic
 updated: 2026-05-04
 ---
 

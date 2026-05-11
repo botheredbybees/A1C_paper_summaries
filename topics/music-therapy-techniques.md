@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music Therapy Techniques"
 confidence: low
-tags: ["music-therapy-techniques"]
+domain: intervention
+slug: music-therapy-techniques
 sources:
-  - fxa100-week04-music-therapy-disability-evidence-summary-2024
+- fxa100-week04-music-therapy-disability-evidence-summary-2024
+tags:
+- music-therapy-techniques
+title: Music Therapy Techniques
+type: topic
 updated: 2026-05-04
 ---
 

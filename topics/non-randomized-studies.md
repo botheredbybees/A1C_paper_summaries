@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Risk Of Bias In Non-Randomized Studies"
 confidence: medium
-tags: ["non-randomized-studies"]
+domain: method
+slug: risk-of-bias-in-non-randomized-studies
 sources:
   - fxa301-week01-risk-of-bias-in-non-randomized-studies-of-interventions
   - fxa301-week01-robins-i-a-tool-for-assessing-risk-of-bias-in-non
-updated: 2026-05-05
+- fxa301-week01-risk-of-bias-in-non-randomized-studies-of-interventions
+- fxa301-week01-robins-i-a-tool-for-assessing-risk-of-bias-in-non
+tags:
+- non-randomized-studies
+title: Risk Of Bias In Non-Randomized Studies
+type: topic
+updated: 2026-05-11
 ---
 
 ## Risk Of Bias In Non-Randomized Studies

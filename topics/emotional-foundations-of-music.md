@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Emotional Foundations Of Music"
 confidence: low
-tags: ["emotional-foundations-of-music"]
+domain: theory
+slug: emotional-foundations-of-music
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch08-96-clift
+- fxa301-oxford-textbook-of-creative-arts-ch08-96-clift
+tags:
+- emotional-foundations-of-music
+title: Emotional Foundations Of Music
+type: topic
 updated: 2026-05-04
 ---
 

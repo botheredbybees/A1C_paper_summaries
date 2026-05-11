@@ -1,12 +1,16 @@
 ---
-type: topic
-domain: "intervention"
-title: "Trauma-Informed Practices"
 confidence: low
-tags: ["trauma-informed-practices"]
+domain: intervention
+slug: trauma-informed-practices
 sources:
-  - fxa303-week02-lesson-fxa303-week02-topic-activities-2
-updated: 2026-05-04
+  - fxa303-week10-fxa303-web-lecture-week-10
+  - fxa303-week11-arts-based-methods-improve-research-data-trauma
+- fxa303-week02-lesson-fxa303-week02-topic-activities-2
+tags:
+- trauma-informed-practices
+title: Trauma-Informed Practices
+type: topic
+updated: 2026-05-11
 ---
 
 ## Trauma-Informed Practices
@@ -25,4 +29,5 @@ The integration of multiple sources highlights the critical role of trauma-infor
 
 ## Sources
 
-- [fxa303-week02-lesson-fxa303-week02-topic-activities-2](../sources/fxa303-week02-lesson-fxa303-week02-topic-activities-2.md)
+- [fxa303-week10-fxa303-web-lecture-week-10](../sources/fxa303-week10-fxa303-web-lecture-week-10.md)
+- [fxa303-week11-arts-based-methods-improve-research-data-trauma](../sources/fxa303-week11-arts-based-methods-improve-research-data-trauma.md)

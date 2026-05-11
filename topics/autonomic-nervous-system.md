@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Autonomic Nervous System Responses in Therapeutic Clowing"
 confidence: low
-tags: ["autonomic-nervous-system"]
+domain: intervention
+slug: autonomic-nervous-system-responses-in-therapeutic-clowing
 sources:
-  - fxa303-week08-physiological-and-emotional-responses-of-disabled-children
+- fxa303-week08-physiological-and-emotional-responses-of-disabled-children
+tags:
+- autonomic-nervous-system
+title: Autonomic Nervous System Responses in Therapeutic Clowing
+type: topic
 updated: 2026-05-04
 ---
 

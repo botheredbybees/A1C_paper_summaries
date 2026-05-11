@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "World Health Organization Definition Of Health"
 confidence: low
-tags: ["world-health-organization-definition-of-health"]
+domain: theory
+slug: world-health-organization-definition-of-health
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1
+- fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1
+tags:
+- world-health-organization-definition-of-health
+title: World Health Organization Definition Of Health
+type: topic
 updated: 2026-05-04
 ---
 

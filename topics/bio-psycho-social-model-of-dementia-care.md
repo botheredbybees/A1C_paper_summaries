@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Bio-Psycho-Social Model Of Dementia Care"
 confidence: low
-tags: ["bio-psycho-social-model-of-dementia-care"]
+domain: intervention
+slug: bio-psycho-social-model-of-dementia-care
 sources:
-  - fxa100-excellence-in-dementia-care--ch50-chapter-14
+- fxa100-excellence-in-dementia-care--ch50-chapter-14
+tags:
+- bio-psycho-social-model-of-dementia-care
+title: Bio-Psycho-Social Model Of Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

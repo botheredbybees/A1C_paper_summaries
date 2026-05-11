@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Community Ownership"
 confidence: low
-tags: ["community-ownership"]
+domain: intervention
+slug: community-ownership
 sources:
-  - fxa301-make-arts-for-a-better-life-ch09-5-choose-a-goal-needs-may-be-linked-within-communities
+- fxa301-make-arts-for-a-better-life-ch09-5-choose-a-goal-needs-may-be-linked-within-communities
+tags:
+- community-ownership
+title: Community Ownership
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Census Date Implications"
 confidence: low
-tags: ["census-date-implications"]
+domain: method
+slug: census-date-implications
 sources:
-  - fxa301-week01-lesson-fxa301-week01-page-4-week-3-activities
+- fxa301-week01-lesson-fxa301-week01-page-4-week-3-activities
+tags:
+- census-date-implications
+title: Census Date Implications
+type: topic
 updated: 2026-05-04
 ---
 

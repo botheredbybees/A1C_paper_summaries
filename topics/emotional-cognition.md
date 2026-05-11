@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "The Power of Music on Emotional Cognition"
 confidence: medium
-tags: ["emotional-cognition"]
+domain: intervention
+slug: the-power-of-music-on-emotional-cognition
 sources:
   - fxa100-week02-the-power-of-music
   - fxa100-week03-the-effects-of-music-on-the-brain-video-transcript
-updated: 2026-05-03
+- fxa100-week02-the-power-of-music
+- fxa100-week03-the-effects-of-music-on-the-brain-video-transcript
+tags:
+- emotional-cognition
+title: The Power of Music on Emotional Cognition
+type: topic
+updated: 2026-05-11
 ---
 
 ## The Power of Music on Emotional Cognition

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Montreal Cognitive Assessment"
 confidence: low
-tags: ["montreal-cognitive-assessment"]
+domain: method
+slug: montreal-cognitive-assessment
 sources:
-  - fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy
+- fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy
+tags:
+- montreal-cognitive-assessment
+title: Montreal Cognitive Assessment
+type: topic
 updated: 2026-05-04
 ---
 

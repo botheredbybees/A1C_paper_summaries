@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Social and Community Benefits"
 confidence: low
-tags: ["social-and-community-benefits"]
+domain: intervention
+slug: social-and-community-benefits
 sources:
-  - fxa100-week06-dementia-and-imagination-a-mixed-methods-protocol-for-arts
+- fxa100-week06-dementia-and-imagination-a-mixed-methods-protocol-for-arts
+tags:
+- social-and-community-benefits
+title: Social and Community Benefits
+type: topic
 updated: 2026-05-04
 ---
 

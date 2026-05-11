@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Trauma-Informed Design"
 confidence: medium
-tags: ["trauma-informed-design"]
+domain: intervention
+slug: trauma-informed-design
 sources:
-  - fxa303-week09-lesson-fxa303-week09-page-1-overview
-  - fxa303-week09-lesson-fxa303-week09-page-3-case-studies
+- fxa303-week09-lesson-fxa303-week09-page-1-overview
+- fxa303-week09-lesson-fxa303-week09-page-3-case-studies
+tags:
+- trauma-informed-design
+title: Trauma-Informed Design
+type: topic
 updated: 2026-05-04
 ---
 

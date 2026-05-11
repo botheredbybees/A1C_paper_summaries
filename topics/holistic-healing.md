@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Holistic Healing"
 confidence: low
-tags: ["holistic-healing"]
+domain: intervention
+slug: holistic-healing
 sources:
-  - fxa303-week10-using-the-arts-as-a-therapeutic-tool-for-counselling-an
+- fxa303-week10-using-the-arts-as-a-therapeutic-tool-for-counselling-an
+tags:
+- holistic-healing
+title: Holistic Healing
+type: topic
 updated: 2026-05-04
 ---
 

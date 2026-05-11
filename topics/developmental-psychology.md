@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Developmental Trauma and Healing Through Creative Arts"
 confidence: medium
-tags: ["developmental-psychology"]
+domain: intervention
+slug: developmental-trauma-and-healing-through-creative-arts
 sources:
   - fxa303-week04-developmental-psychology-from-infancy-to-adulthood-chapter
   - fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies
   - fxa303-week09-using-creative-techniques-with-children-who-have
-updated: 2026-05-04
+- fxa303-week04-developmental-psychology-from-infancy-to-adulthood-chapter
+- fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies
+- fxa303-week09-using-creative-techniques-with-children-who-have
+tags:
+- developmental-psychology
+title: Developmental Trauma and Healing Through Creative Arts
+type: topic
+updated: 2026-05-11
 ---
 
 ## Developmental Trauma and Healing Through Creative Arts

@@ -11,7 +11,7 @@ tags: ["creative-arts", "community-engagement", "participatory-research", "fxa30
 key_concepts: ["democratization of technology", "intergenerational collaboration"]
 methods: []
 slug: fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-(2)
-related: ["community-engagement", "creative-arts"]
+related: ["community-engagement", "creative-arts", "participatory-research"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -42,3 +42,4 @@ This chapter presents a case study of the Active Energy project, an initiative t
 
 - [community-engagement](../topics/community-engagement.md)
 - [creative-arts](../topics/creative-arts.md)
+- [participatory-research](../topics/participatory-research.md)

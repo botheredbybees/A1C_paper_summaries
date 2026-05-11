@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "method"
-title: "Randomized Controlled Trials"
 confidence: medium
-tags: ["randomized-controlled-trial"]
+domain: method
+slug: randomized-controlled-trials
 sources:
-  - fxa100-week09-dance-movement-therapy-for-dementia
-  - fxa301-week01-lesson-fxa301-week01-page-1-hm
+- fxa100-week09-dance-movement-therapy-for-dementia
+- fxa301-week01-lesson-fxa301-week01-page-1-hm
+tags:
+- randomized-controlled-trial
+title: Randomized Controlled Trials
+type: topic
 updated: 2026-05-04
 ---
 

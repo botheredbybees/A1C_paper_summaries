@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "theory"
-title: "Cognitive Growth Across Developmental Stages"
 confidence: medium
-tags: ["cognitive-growth"]
+domain: theory
+slug: cognitive-growth-across-developmental-stages
 sources:
   - fxa303-week02-infancy-and-the-early-years
   - fxa303-week03-adolescent-health
-updated: 2026-05-04
+- fxa303-week02-infancy-and-the-early-years
+- fxa303-week03-adolescent-health
+tags:
+- cognitive-growth
+title: Cognitive Growth Across Developmental Stages
+type: topic
+updated: 2026-05-11
 ---
 
 ## Cognitive Growth Across Developmental Stages

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Holistic Approaches"
 confidence: low
-tags: ["holistic-approaches"]
+domain: intervention
+slug: holistic-approaches
 sources:
-  - fxa301-week03-national-arts-and-health-framework
+- fxa301-week03-national-arts-and-health-framework
+tags:
+- holistic-approaches
+title: Holistic Approaches
+type: topic
 updated: 2026-05-04
 ---
 

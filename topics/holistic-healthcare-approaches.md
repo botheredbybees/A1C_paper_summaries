@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Holistic Healthcare Approaches"
 confidence: low
-tags: ["holistic-healthcare-approaches"]
+domain: intervention
+slug: holistic-healthcare-approaches
 sources:
-  - fxa301-week05-museums-as-spaces-for-wellbeing-a-second-report-from-the
+- fxa301-week05-museums-as-spaces-for-wellbeing-a-second-report-from-the
+tags:
+- holistic-healthcare-approaches
+title: Holistic Healthcare Approaches
+type: topic
 updated: 2026-05-04
 ---
 

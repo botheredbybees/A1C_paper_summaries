@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "theory"
-title: "Cross-Disciplinary Framework for Emotional Skills in Healthcare"
 confidence: medium
-tags: ["cross-disciplinary-framework"]
+domain: theory
+slug: cross-disciplinary-framework-for-emotional-skills-in-healthcare
 sources:
-  - fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare
-  - fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental
+- fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare
+- fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental
+tags:
+- cross-disciplinary-framework
+title: Cross-Disciplinary Framework for Emotional Skills in Healthcare
+type: topic
 updated: 2026-05-04
 ---
 

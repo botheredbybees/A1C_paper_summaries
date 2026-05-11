@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Writing as a Therapeutic Tool"
 confidence: high
-tags: ["creative-writing"]
+domain: intervention
+slug: creative-writing-as-a-therapeutic-tool
 sources:
   - fxa202-week05-images-as-writing-prompts
   - fxa202-week05-stream-of-consciousness
@@ -13,7 +11,19 @@ sources:
   - fxa301-week08-health-related-effects-of-creative-and-expressive-writing
   - fxa301-week08-transcript-the-video-below-relates-the-experiences-of
   - fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the
-updated: 2026-05-04
+- fxa202-week05-images-as-writing-prompts
+- fxa202-week05-stream-of-consciousness
+- fxa202-week05-week-5-introduction-to-storytelling
+- fxa202-week09-personal-storytelling-and-memoir-writing
+- fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental
+- fxa301-week08-health-related-effects-of-creative-and-expressive-writing
+- fxa301-week08-transcript-the-video-below-relates-the-experiences-of
+- fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the
+tags:
+- creative-writing
+title: Creative Writing as a Therapeutic Tool
+type: topic
+updated: 2026-05-11
 ---
 
 ## Creative Writing as a Therapeutic Tool

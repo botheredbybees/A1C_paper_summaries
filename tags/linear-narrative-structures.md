@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: linear-narrative-structures
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Linear Narrative Structures

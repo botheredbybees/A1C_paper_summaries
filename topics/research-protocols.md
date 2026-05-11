@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Research Protocols"
 confidence: medium
-tags: ["research-protocols"]
+domain: method
+slug: research-protocols
 sources:
   - fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production
   - fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production-(2)
-updated: 2026-05-04
+- fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production
+- fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production-(2)
+tags:
+- research-protocols
+title: Research Protocols
+type: topic
+updated: 2026-05-11
 ---
 
 ## Research Protocols

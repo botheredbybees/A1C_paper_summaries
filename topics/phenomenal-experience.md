@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Phenomenal Experience"
 confidence: low
-tags: ["phenomenal-experience"]
+domain: theory
+slug: phenomenal-experience
 sources:
-  - fxa100-how-we-thnk-about-dementia-ch10-chapter-5
+- fxa100-how-we-thnk-about-dementia-ch10-chapter-5
+tags:
+- phenomenal-experience
+title: Phenomenal Experience
+type: topic
 updated: 2026-05-04
 ---
 

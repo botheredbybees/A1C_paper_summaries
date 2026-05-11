@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Composition and Color in Photography"
 confidence: low
-tags: ["composition-and-color"]
+domain: method
+slug: composition-and-color-in-photography
 sources:
-  - fxa202-week02-lesson-fxa202-week02-week-2
+- fxa202-week02-lesson-fxa202-week02-week-2
+tags:
+- composition-and-color
+title: Composition and Color in Photography
+type: topic
 updated: 2026-05-04
 ---
 

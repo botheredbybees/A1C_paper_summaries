@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Ethical Engagement in Community Arts"
 confidence: low
-tags: ["ethical-engagement"]
+domain: intervention
+slug: ethical-engagement-in-community-arts
 sources:
-  - fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts
+- fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts
+tags:
+- ethical-engagement
+title: Ethical Engagement in Community Arts
+type: topic
 updated: 2026-05-04
 ---
 

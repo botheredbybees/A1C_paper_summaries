@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "theory"
-title: "Positive Psychology and Resilience"
 confidence: medium
-tags: ["positive-psychology"]
+domain: theory
+slug: positive-psychology-and-resilience
 sources:
   - fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow
   - fxa301-week02-university-students-strong-experiences-of-music-pleasure
   - fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and
-updated: 2026-05-05
+- fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow
+- fxa301-week02-university-students-strong-experiences-of-music-pleasure
+- fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and
+tags:
+- positive-psychology
+title: Positive Psychology and Resilience
+type: topic
+updated: 2026-05-11
 ---
 
 ## Positive Psychology and Resilience

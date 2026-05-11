@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Texture Emphasis in Photography"
 confidence: low
-tags: ["texture-emphasis"]
+domain: method
+slug: texture-emphasis-in-photography
 sources:
-  - fxa202-week02-60-inspiring-examples-of-black-and-white-photography
+- fxa202-week02-60-inspiring-examples-of-black-and-white-photography
+tags:
+- texture-emphasis
+title: Texture Emphasis in Photography
+type: topic
 updated: 2026-05-04
 ---
 

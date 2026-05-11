@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Online Community Management"
 confidence: low
-tags: ["online-community-management"]
+domain: intervention
+slug: online-community-management
 sources:
-  - fxa202-week10-websites-social-networks-blogs-user-generated-content
+- fxa202-week10-websites-social-networks-blogs-user-generated-content
+tags:
+- online-community-management
+title: Online Community Management
+type: topic
 updated: 2026-05-04
 ---
 

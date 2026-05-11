@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Language and Culture in Dementia Care"
 confidence: low
-tags: ["language-culture"]
+domain: intervention
+slug: language-and-culture-in-dementia-care
 sources:
-  - fxa100-week09-in-my-fathers-words-review-sophisticated-dementia-drama
+- fxa100-week09-in-my-fathers-words-review-sophisticated-dementia-drama
+tags:
+- language-culture
+title: Language and Culture in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

@@ -11,7 +11,7 @@ tags: ["music-therapy", "dementia-care", "emotional-well-being", "social-engagem
 key_concepts: ["randomized-clinical-trial", "singing-intervention", "verbal-discussion", "patient-characteristics"]
 methods: ["randomized clinical crossover trial"]
 slug: fxa100-week03-music-therapy-increases-social-and-emotional-well-being-in
-related: ["dementia-care", "music-therapy", "social-engagement"]
+related: ["dementia-care", "emotional-well-being", "music-therapy", "social-engagement"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,5 +44,6 @@ This study investigates the impact of a singing-based music therapy intervention
 ## See Also
 
 - [dementia-care](../topics/dementia-care.md)
+- [emotional-well-being](../topics/emotional-well-being.md)
 - [music-therapy](../topics/music-therapy.md)
 - [social-engagement](../topics/social-engagement.md)

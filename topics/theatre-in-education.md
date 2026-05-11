@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Theatre-in-Education"
 confidence: medium
-tags: ["theatre-in-education"]
+domain: intervention
+slug: theatre-in-education
 sources:
   - fxa100-week09-lesson-fxa100-week09-page-3-theatre-play-and-dementia
   - fxa100-week10-brightness-in-the-theatre
   - fxa100-week10-transforming-dementia-care-through-theatre
-updated: 2026-05-04
+- fxa100-week09-lesson-fxa100-week09-page-3-theatre-play-and-dementia
+- fxa100-week10-brightness-in-the-theatre
+- fxa100-week10-transforming-dementia-care-through-theatre
+tags:
+- theatre-in-education
+title: Theatre-in-Education
+type: topic
+updated: 2026-05-11
 ---
 
 ## Theatre-in-Education

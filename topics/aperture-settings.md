@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "method"
-title: "Aperture Settings in Photography"
 confidence: medium
-tags: ["aperture-settings"]
+domain: method
+slug: aperture-settings-in-photography
 sources:
-  - fxa202-week02-depth-of-field-the-essential-guide-tips
-  - fxa202-week02-taking-out-of-focus-pictures
+- fxa202-week02-depth-of-field-the-essential-guide-tips
+- fxa202-week02-taking-out-of-focus-pictures
+tags:
+- aperture-settings
+title: Aperture Settings in Photography
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "intervention"
-title: "Research Ethics in Arts in Health Interventions"
 confidence: medium
-tags: ["research-ethics"]
+domain: intervention
+slug: research-ethics-in-arts-in-health-interventions
 sources:
   - fxa100-week04-research-ethics-in-arts-in-health-interventions
   - fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of
   - fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of-(2)
   - fxa301-week01-research-ethics
-updated: 2026-05-05
+- fxa100-week04-research-ethics-in-arts-in-health-interventions
+- fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of
+- fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of-(2)
+- fxa301-week01-research-ethics
+tags:
+- research-ethics
+title: Research Ethics in Arts in Health Interventions
+type: topic
+updated: 2026-05-11
 ---
 
 ## Research Ethics in Arts in Health Interventions

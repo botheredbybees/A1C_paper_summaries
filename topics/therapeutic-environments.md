@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Environments"
 confidence: medium
-tags: ["therapeutic-environments"]
+domain: intervention
+slug: therapeutic-environments
 sources:
   - fxa202-week10-the-storm-shifting-south-reflections-on-public-baths-in
   - fxa301-bridging-the-creative-arts-therapies-ch01-1-essential
-updated: 2026-05-04
+- fxa202-week10-the-storm-shifting-south-reflections-on-public-baths-in
+- fxa301-bridging-the-creative-arts-therapies-ch01-1-essential
+tags:
+- therapeutic-environments
+title: Therapeutic Environments
+type: topic
+updated: 2026-05-11
 ---
 
 ## Therapeutic Environments

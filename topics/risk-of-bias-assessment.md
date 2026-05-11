@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Risk Of Bias Assessment"
 confidence: medium
-tags: ["risk-of-bias-assessment"]
+domain: method
+slug: risk-of-bias-assessment
 sources:
   - fxa301-week01-risk-of-bias-in-non-randomized-studies-of-interventions
   - fxa301-week01-the-cochrane-collaborations-tool-for-assessing-risk-of-bias
-updated: 2026-05-05
+- fxa301-week01-risk-of-bias-in-non-randomized-studies-of-interventions
+- fxa301-week01-the-cochrane-collaborations-tool-for-assessing-risk-of-bias
+tags:
+- risk-of-bias-assessment
+title: Risk Of Bias Assessment
+type: topic
+updated: 2026-05-11
 ---
 
 ## Risk Of Bias Assessment

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-memory-function
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Brain Memory Function

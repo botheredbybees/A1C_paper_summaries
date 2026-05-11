@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Adolescent Neurodevelopment"
 confidence: low
-tags: ["prefrontal-cortex"]
+domain: theory
+slug: adolescent-neurodevelopment
 sources:
-  - fxa303-week03-adolescent-neurodevelopment
+- fxa303-week03-adolescent-neurodevelopment
+tags:
+- prefrontal-cortex
+title: Adolescent Neurodevelopment
+type: topic
 updated: 2026-05-04
 ---
 

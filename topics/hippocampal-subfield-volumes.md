@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Hippocampal Subfield Volumes"
 confidence: low
-tags: ["hippocampal-subfield-volumes"]
+domain: method
+slug: hippocampal-subfield-volumes
 sources:
-  - fxa100-week01-relating-physical-activity-to-cognitive-function-brain
+- fxa100-week01-relating-physical-activity-to-cognitive-function-brain
+tags:
+- hippocampal-subfield-volumes
+title: Hippocampal Subfield Volumes
+type: topic
 updated: 2026-05-04
 ---
 

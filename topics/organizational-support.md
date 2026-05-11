@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Organizational Support for Service User Involvement in Dementia Care"
 confidence: low
-tags: ["organizational-support"]
+domain: intervention
+slug: organizational-support-for-service-user-involvement-in-dementia-care
 sources:
-  - fxa100-excellence-in-dementia-care--ch29-chapter-17
+- fxa100-excellence-in-dementia-care--ch29-chapter-17
+tags:
+- organizational-support
+title: Organizational Support for Service User Involvement in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Raising Awareness of Dementia"
 confidence: low
-tags: ["raising-awareness-of-dementia"]
+domain: intervention
+slug: raising-awareness-of-dementia
 sources:
-  - fxa100-week10-lesson-fxa100-week10-page-3-kage-physical-theatre
+- fxa100-week10-lesson-fxa100-week10-page-3-kage-physical-theatre
+tags:
+- raising-awareness-of-dementia
+title: Raising Awareness of Dementia
+type: topic
 updated: 2026-05-04
 ---
 

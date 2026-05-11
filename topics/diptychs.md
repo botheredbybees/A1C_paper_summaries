@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Diptychs"
 confidence: low
-tags: ["diptychs"]
+domain: method
+slug: diptychs
 sources:
-  - fxa202-week05-making-metaphors-from-photos
+- fxa202-week05-making-metaphors-from-photos
+tags:
+- diptychs
+title: Diptychs
+type: topic
 updated: 2026-05-04
 ---
 

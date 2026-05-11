@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts-Based Therapies"
 confidence: low
-tags: ["arts-based-therapies"]
+domain: intervention
+slug: arts-based-therapies
 sources:
-  - fxa301-week10-arts-based-therapies-in-the-treatment-of-eating-disorders
+- fxa301-week10-arts-based-therapies-in-the-treatment-of-eating-disorders
+tags:
+- arts-based-therapies
+title: Arts-Based Therapies
+type: topic
 updated: 2026-05-04
 ---
 

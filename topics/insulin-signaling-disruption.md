@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Insulin Signaling Disruption"
 confidence: low
-tags: ["insulin-signaling-disruption"]
+domain: intervention
+slug: insulin-signaling-disruption
 sources:
-  - fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a
+- fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a
+tags:
+- insulin-signaling-disruption
+title: Insulin Signaling Disruption
+type: topic
 updated: 2026-05-04
 ---
 

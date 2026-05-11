@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Post-Traumatic Stress Disorder (Ptsd)"
 confidence: medium
-tags: ["ptsd"]
+domain: intervention
+slug: post-traumatic-stress-disorder-ptsd
 sources:
-  - fxa301-week10-lesson-fxa301-week10-page-4-week-3-activities
-  - fxa303-week09-lesson-fxa303-week09-page-1-overview
+- fxa301-week10-lesson-fxa301-week10-page-4-week-3-activities
+- fxa303-week09-lesson-fxa303-week09-page-1-overview
+tags:
+- ptsd
+title: Post-Traumatic Stress Disorder (Ptsd)
+type: topic
 updated: 2026-05-04
 ---
 

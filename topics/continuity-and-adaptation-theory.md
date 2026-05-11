@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Continuity and Adaptation Theory"
 confidence: low
-tags: ["continuity-and-adaptation-theory"]
+domain: theory
+slug: continuity-and-adaptation-theory
 sources:
-  - fxa202-week10-the-reciprocal-influence-of-art-and-aging
+- fxa202-week10-the-reciprocal-influence-of-art-and-aging
+tags:
+- continuity-and-adaptation-theory
+title: Continuity and Adaptation Theory
+type: topic
 updated: 2026-05-04
 ---
 

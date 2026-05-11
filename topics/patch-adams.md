@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Patch Adams and Therapeutic Clowning"
 confidence: low
-tags: ["patch-adams"]
+domain: intervention
+slug: patch-adams-and-therapeutic-clowning
 sources:
-  - fxa303-week08-lesson-fxa303-week08-page-3-therapeutic-clowning
+- fxa303-week08-lesson-fxa303-week08-page-3-therapeutic-clowning
+tags:
+- patch-adams
+title: Patch Adams and Therapeutic Clowning
+type: topic
 updated: 2026-05-04
 ---
 

@@ -12,13 +12,14 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
+  - unit: FXA301
 tags: ["community-health", "participatory-arts", "mental-health-interventions", "health-promotion-strategies", "public-art", "fxa301"]
 key_concepts: ["unconditional positive regard", "reflective practice", "social inclusion", "emotional health"]
 methods: []
 slug: fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6
 related: ["community-health", "mental-health-interventions", "participatory-arts", "public-art"]
 created: 2026-05-03
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6.md_

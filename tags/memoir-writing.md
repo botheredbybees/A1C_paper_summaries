@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: memoir-writing
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Memoir Writing

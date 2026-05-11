@@ -1,14 +1,18 @@
 ---
-type: topic
-domain: "population"
-title: "Refugee Youth in Vulnerable Populations"
 confidence: low
-tags: ["vulnerable-populations"]
+domain: population
+slug: refugee-youth-in-vulnerable-populations
 sources:
   - fxa100-week04-research-ethics-in-arts-in-health-interventions
   - fxa301-week01-research-ethics
-  - fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to-(2)
-updated: 2026-05-05
+- fxa100-week04-research-ethics-in-arts-in-health-interventions
+- fxa301-week01-research-ethics
+- fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to-(2)
+tags:
+- vulnerable-populations
+title: Refugee Youth in Vulnerable Populations
+type: topic
+updated: 2026-05-11
 ---
 
 ## Refugee Youth in Vulnerable Populations
@@ -29,4 +33,3 @@ The study of refugee youth highlights the significant role that migration plays 
 
 - [fxa100-week04-research-ethics-in-arts-in-health-interventions](../sources/fxa100-week04-research-ethics-in-arts-in-health-interventions.md)
 - [fxa301-week01-research-ethics](../sources/fxa301-week01-research-ethics.md)
-- [fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to-(2)](../sources/fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to-(2).md)

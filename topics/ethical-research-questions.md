@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Ethical Research Questions"
 confidence: low
-tags: ["ethical-research-questions"]
+domain: theory
+slug: ethical-research-questions
 sources:
-  - fxa301-arts-in-health-ch76-3-responsibility
+- fxa301-arts-in-health-ch76-3-responsibility
+tags:
+- ethical-research-questions
+title: Ethical Research Questions
+type: topic
 updated: 2026-05-04
 ---
 

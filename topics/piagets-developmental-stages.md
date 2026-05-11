@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Piaget's Developmental Stages"
 confidence: low
-tags: ["piagets-developmental-stages"]
+domain: theory
+slug: piaget-s-developmental-stages
 sources:
-  - fxa303-week02-developmental-role-of-creative-arts-and-play
+- fxa303-week02-developmental-role-of-creative-arts-and-play
+tags:
+- piagets-developmental-stages
+title: Piaget's Developmental Stages
+type: topic
 updated: 2026-05-04
 ---
 

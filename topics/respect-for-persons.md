@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Respect For Persons"
 confidence: low
-tags: ["respect-for-persons"]
+domain: theory
+slug: respect-for-persons
 sources:
-  - fxa301-week03-noah-code-of-ethics-2023
+- fxa301-week03-noah-code-of-ethics-2023
+tags:
+- respect-for-persons
+title: Respect For Persons
+type: topic
 updated: 2026-05-04
 ---
 

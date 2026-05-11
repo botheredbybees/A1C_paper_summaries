@@ -1,12 +1,16 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Creative Arts for Mental Health"
 confidence: low
-tags: ["personal-growth"]
+domain: intervention
+slug: therapeutic-creative-arts-for-mental-health
 sources:
-  - fxa301-week10-lesson-fxa301-week10-page-2
-updated: 2026-05-04
+  - fxa202-week09-critical-reflection-the-photo-essay
+  - fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through
+- fxa301-week10-lesson-fxa301-week10-page-2
+tags:
+- personal-growth
+title: Therapeutic Creative Arts for Mental Health
+type: topic
+updated: 2026-05-11
 ---
 
 ## Therapeutic Creative Arts for Mental Health
@@ -25,4 +29,5 @@ The case studies of therapeutic creative arts interventions underscore their rol
 
 ## Sources
 
-- [fxa301-week10-lesson-fxa301-week10-page-2](../sources/fxa301-week10-lesson-fxa301-week10-page-2.md)
+- [fxa202-week09-critical-reflection-the-photo-essay](../sources/fxa202-week09-critical-reflection-the-photo-essay.md)
+- [fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through](../sources/fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through.md)

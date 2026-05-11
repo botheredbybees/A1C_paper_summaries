@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Playing A Musical Instrument"
 confidence: low
-tags: ["playing-a-musical-instrument"]
+domain: intervention
+slug: playing-a-musical-instrument
 sources:
-  - fxa100-week02-playing-a-musical-instrument-as-a-protective-factor-against
+- fxa100-week02-playing-a-musical-instrument-as-a-protective-factor-against
+tags:
+- playing-a-musical-instrument
+title: Playing A Musical Instrument
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Personhood In Dementia Care"
 confidence: low
-tags: ["personhood-in-dementia-care"]
+domain: intervention
+slug: personhood-in-dementia-care
 sources:
-  - fxa100-week09-requirements-of-a-caregiver
+- fxa100-week09-requirements-of-a-caregiver
+tags:
+- personhood-in-dementia-care
+title: Personhood In Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

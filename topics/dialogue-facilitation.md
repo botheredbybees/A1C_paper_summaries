@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Dialogue Facilitation Through Puppet Therapy"
 confidence: low
-tags: ["dialogue-facilitation"]
+domain: intervention
+slug: dialogue-facilitation-through-puppet-therapy
 sources:
-  - fxa303-week06-the-wonder-continues-captivating-and-engaging-adults
+- fxa303-week06-the-wonder-continues-captivating-and-engaging-adults
+tags:
+- dialogue-facilitation
+title: Dialogue Facilitation Through Puppet Therapy
+type: topic
 updated: 2026-05-04
 ---
 

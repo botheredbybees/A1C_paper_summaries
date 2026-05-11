@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Photography Tips and Techniques"
 confidence: high
-tags: ["photography-tips"]
+domain: intervention
+slug: photography-tips-and-techniques
 sources:
   - fxa202-week02-10-tips-for-better-composition
   - fxa202-week02-a-beginners-guide-to-photo-editing-with-snapseed
@@ -13,7 +11,19 @@ sources:
   - fxa202-week02-week-2-making-pictures
   - fxa202-week08-home-hints-for-artwork-and-object-documentation-(2)
   - fxa202-week09-do-you-struggle-with-constructing-a-photo-story-try-this-3
-updated: 2026-05-05
+- fxa202-week02-10-tips-for-better-composition
+- fxa202-week02-a-beginners-guide-to-photo-editing-with-snapseed
+- fxa202-week02-improve-your-photography-skills-with-these-9-photo
+- fxa202-week02-photography-tips-point-of-view-composition
+- fxa202-week02-super-simple-introduction-to-manual-mode-and-how-it-will
+- fxa202-week02-week-2-making-pictures
+- fxa202-week08-home-hints-for-artwork-and-object-documentation-(2)
+- fxa202-week09-do-you-struggle-with-constructing-a-photo-story-try-this-3
+tags:
+- photography-tips
+title: Photography Tips and Techniques
+type: topic
+updated: 2026-05-11
 ---
 
 ## Photography Tips and Techniques

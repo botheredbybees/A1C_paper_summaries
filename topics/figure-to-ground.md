@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Figure-To-Ground in Visual Composition"
 confidence: low
-tags: ["figure-to-ground"]
+domain: method
+slug: figure-to-ground-in-visual-composition
 sources:
-  - fxa202-week02-improve-your-photography-skills-with-these-9-photo
+- fxa202-week02-improve-your-photography-skills-with-these-9-photo
+tags:
+- figure-to-ground
+title: Figure-To-Ground in Visual Composition
+type: topic
 updated: 2026-05-04
 ---
 

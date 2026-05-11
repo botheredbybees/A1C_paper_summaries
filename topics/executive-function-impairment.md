@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Executive Function Impairment"
 confidence: low
-tags: ["executive-function-impairment"]
+domain: population
+slug: executive-function-impairment
 sources:
-  - fxa100-week08-week-8-lecture-art-therapy-in-dementia-care
+- fxa100-week08-week-8-lecture-art-therapy-in-dementia-care
+tags:
+- executive-function-impairment
+title: Executive Function Impairment
+type: topic
 updated: 2026-05-04
 ---
 

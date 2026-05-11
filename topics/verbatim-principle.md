@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "method"
-title: "Verbatim Principle in Ethnographic Research"
 confidence: medium
-tags: ["verbatim-principle"]
+domain: method
+slug: verbatim-principle-in-ethnographic-research
 sources:
-  - fxa301-make-arts-for-a-better-life-ch05-1-read-your
-  - fxa301-make-arts-for-a-better-life-ch05-1-read-your-(2)
+- fxa301-make-arts-for-a-better-life-ch05-1-read-your
+- fxa301-make-arts-for-a-better-life-ch05-1-read-your-(2)
+tags:
+- verbatim-principle
+title: Verbatim Principle in Ethnographic Research
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Autonomy For Dementia Patients"
 confidence: low
-tags: ["autonomy-for-dementia-patients"]
+domain: intervention
+slug: autonomy-for-dementia-patients
 sources:
-  - fxa100-week09-people-with-dementia-as-spect-actors-in-a-musical-theatre
+- fxa100-week09-people-with-dementia-as-spect-actors-in-a-musical-theatre
+tags:
+- autonomy-for-dementia-patients
+title: Autonomy For Dementia Patients
+type: topic
 updated: 2026-05-04
 ---
 

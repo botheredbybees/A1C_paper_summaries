@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Automatic Transcription Failure"
 confidence: low
-tags: ["automatic-transcription-failure"]
+domain: method
+slug: automatic-transcription-failure
 sources:
-  - fxa303-week05-transcript-duration-9-39-url-only
+- fxa303-week05-transcript-duration-9-39-url-only
+tags:
+- automatic-transcription-failure
+title: Automatic Transcription Failure
+type: topic
 updated: 2026-05-04
 ---
 

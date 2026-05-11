@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Articulatory Tempo in Singing and Aphasia"
 confidence: low
-tags: ["articulatory-tempo"]
+domain: intervention
+slug: articulatory-tempo-in-singing-and-aphasia
 sources:
-  - fxa301-week09-facing-the-music-three-issues-in-current-research-on
+- fxa301-week09-facing-the-music-three-issues-in-current-research-on
+tags:
+- articulatory-tempo
+title: Articulatory Tempo in Singing and Aphasia
+type: topic
 updated: 2026-05-04
 ---
 

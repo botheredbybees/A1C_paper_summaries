@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Pharmacological Interventions"
 confidence: low
-tags: ["pharmacological-interventions"]
+domain: intervention
+slug: pharmacological-interventions
 sources:
-  - fxa100-week07-interventions-dementia-services-information-and-development
+- fxa100-week07-interventions-dementia-services-information-and-development
+tags:
+- pharmacological-interventions
+title: Pharmacological Interventions
+type: topic
 updated: 2026-05-04
 ---
 

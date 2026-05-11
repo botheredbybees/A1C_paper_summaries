@@ -1,13 +1,18 @@
 ---
-type: topic
-domain: "intervention"
-title: "Dance-Movement Therapy"
 confidence: medium
-tags: ["dance-movement-therapy"]
+domain: intervention
+slug: dance-movement-therapy
 sources:
   - fxa100-week09-dance-movement-therapy-for-dementia
   - fxa100-week09-transcript-youtube-lq0ko6-w4uc
-updated: 2026-05-04
+  - fxa100-week11-transcript-youtube-tyf9-zkdrc8
+- fxa100-week09-dance-movement-therapy-for-dementia
+- fxa100-week09-transcript-youtube-lq0ko6-w4uc
+tags:
+- dance-movement-therapy
+title: Dance-Movement Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Dance-Movement Therapy
@@ -27,3 +32,4 @@ Dance-movement therapy (DMT) emerges as an effective intervention across diverse
 
 - [fxa100-week09-dance-movement-therapy-for-dementia](../sources/fxa100-week09-dance-movement-therapy-for-dementia.md)
 - [fxa100-week09-transcript-youtube-lq0ko6-w4uc](../sources/fxa100-week09-transcript-youtube-lq0ko6-w4uc.md)
+- [fxa100-week11-transcript-youtube-tyf9-zkdrc8](../sources/fxa100-week11-transcript-youtube-tyf9-zkdrc8.md)

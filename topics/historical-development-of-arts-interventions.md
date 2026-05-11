@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Historical Development Of Arts Interventions"
 confidence: low
-tags: ["historical-development-of-arts-interventions"]
+domain: intervention
+slug: historical-development-of-arts-interventions
 sources:
-  - fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2)
+- fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2)
+tags:
+- historical-development-of-arts-interventions
+title: Historical Development Of Arts Interventions
+type: topic
 updated: 2026-05-04
 ---
 

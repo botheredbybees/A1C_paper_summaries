@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Narrative Photography"
 confidence: low
-tags: ["narrative-photography"]
+domain: intervention
+slug: narrative-photography
 sources:
-  - fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas
+- fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas
+tags:
+- narrative-photography
+title: Narrative Photography
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Scoping Reviews of Arts Therapies"
 confidence: medium
-tags: ["scoping-review"]
+domain: intervention
+slug: scoping-reviews-of-arts-therapies
 sources:
   - fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the
   - fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the-(2)
   - fxa303-week04-art-interventions-for-children-with-autism-spectrum
-updated: 2026-05-04
+- fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the
+- fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the-(2)
+- fxa303-week04-art-interventions-for-children-with-autism-spectrum
+tags:
+- scoping-review
+title: Scoping Reviews of Arts Therapies
+type: topic
+updated: 2026-05-11
 ---
 
 ## Scoping Reviews of Arts Therapies

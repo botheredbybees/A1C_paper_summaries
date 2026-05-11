@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Brain Perception Processing"
 confidence: low
-tags: ["brain-perception-processing"]
+domain: theory
+slug: brain-perception-processing
 sources:
-  - fxa301-week01-lesson-fxa301-week01-chapter-3-music-and-the-damaged
+- fxa301-week01-lesson-fxa301-week01-chapter-3-music-and-the-damaged
+tags:
+- brain-perception-processing
+title: Brain Perception Processing
+type: topic
 updated: 2026-05-04
 ---
 

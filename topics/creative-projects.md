@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Arts Project Funding"
 confidence: medium
-tags: ["creative-projects"]
+domain: intervention
+slug: creative-arts-project-funding
 sources:
   - fxa301-week01-how-to-apply-for-money-for-your-arts-project
   - fxa301-week09-lesson-fxa301-week09-page-1
-updated: 2026-05-05
+- fxa301-week01-how-to-apply-for-money-for-your-arts-project
+- fxa301-week09-lesson-fxa301-week09-page-1
+tags:
+- creative-projects
+title: Creative Arts Project Funding
+type: topic
+updated: 2026-05-11
 ---
 
 ## Creative Arts Project Funding

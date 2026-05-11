@@ -11,7 +11,7 @@ tags: ["art-therapy", "creative-expression", "educational-practices", "mental-he
 key_concepts: ["therapeutic functions of art", "emotional healing through creativity", "collaborative teaching approaches"]
 methods: ["case study"]
 slug: fxa301-week05-art-as-therapy
-related: ["art-therapy", "creative-expression", "mental-health"]
+related: ["art-therapy", "creative-expression", "mental-health", "student-wellbeing"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,3 +46,4 @@ The article 'Art as Therapy' by James Haywood Rolling Jr., in the role of Editor
 - [art-therapy](../topics/art-therapy.md)
 - [creative-expression](../topics/creative-expression.md)
 - [mental-health](../topics/mental-health.md)
+- [student-wellbeing](../topics/student-wellbeing.md)

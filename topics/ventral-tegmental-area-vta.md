@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "The Ventral Tegmental Area and Reward System"
 confidence: low
-tags: ["ventral-tegmental-area-vta"]
+domain: theory
+slug: the-ventral-tegmental-area-and-reward-system
 sources:
-  - fxa301-week01-transcript-two-minute-neuroscience-reward-system
+- fxa301-week01-transcript-two-minute-neuroscience-reward-system
+tags:
+- ventral-tegmental-area-vta
+title: The Ventral Tegmental Area and Reward System
+type: topic
 updated: 2026-05-04
 ---
 

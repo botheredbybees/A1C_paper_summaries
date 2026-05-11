@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "theory"
-title: "Coulrophobia: The Fear of Clowns"
 confidence: medium
-tags: ["coulrophobia"]
+domain: theory
+slug: coulrophobia-the-fear-of-clowns
 sources:
   - fxa303-week08-fear-of-clowns-an-investigation-into-the-aetiology-of
   - fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective
-updated: 2026-05-04
+- fxa303-week08-fear-of-clowns-an-investigation-into-the-aetiology-of
+- fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective
+tags:
+- coulrophobia
+title: 'Coulrophobia: The Fear of Clowns'
+type: topic
+updated: 2026-05-11
 ---
 
 ## Coulrophobia: The Fear of Clowns

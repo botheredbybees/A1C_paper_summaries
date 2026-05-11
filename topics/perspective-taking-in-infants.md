@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Perspective-Taking in Infants"
 confidence: low
-tags: ["perspective-taking-in-infants"]
+domain: theory
+slug: perspective-taking-in-infants
 sources:
-  - fxa303-week02-lesson-fxa303-week02-topic-activities-2
+- fxa303-week02-lesson-fxa303-week02-topic-activities-2
+tags:
+- perspective-taking-in-infants
+title: Perspective-Taking in Infants
+type: topic
 updated: 2026-05-04
 ---
 

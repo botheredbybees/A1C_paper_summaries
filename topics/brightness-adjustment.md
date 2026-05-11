@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Brightness Adjustment"
 confidence: low
-tags: ["brightness-adjustment"]
+domain: intervention
+slug: brightness-adjustment
 sources:
-  - fxa202-week08-week-8-web-lecture-editing-your-images
+- fxa202-week08-week-8-web-lecture-editing-your-images
+tags:
+- brightness-adjustment
+title: Brightness Adjustment
+type: topic
 updated: 2026-05-04
 ---
 

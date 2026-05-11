@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Celebrating Arts"
 confidence: low
-tags: ["celebrating-arts"]
+domain: intervention
+slug: celebrating-arts
 sources:
-  - fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals
+- fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals
+tags:
+- celebrating-arts
+title: Celebrating Arts
+type: topic
 updated: 2026-05-04
 ---
 

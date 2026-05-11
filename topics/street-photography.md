@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Street Photography"
 confidence: medium
-tags: ["street-photography"]
+domain: method
+slug: street-photography
 sources:
   - fxa202-week02-street-photographers-rights
   - fxa202-week02-street-photography-composition-lesson-12-color-theory
-updated: 2026-05-03
+- fxa202-week02-street-photographers-rights
+- fxa202-week02-street-photography-composition-lesson-12-color-theory
+tags:
+- street-photography
+title: Street Photography
+type: topic
+updated: 2026-05-11
 ---
 
 ## Street Photography

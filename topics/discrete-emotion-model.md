@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Discrete Emotion Model in Music-Induced Emotions"
 confidence: low
-tags: ["discrete-emotion-model"]
+domain: theory
+slug: discrete-emotion-model-in-music-induced-emotions
 sources:
-  - fxa301-week02-measuring-music-induced-emotion-a-comparison-of-emotion
+- fxa301-week02-measuring-music-induced-emotion-a-comparison-of-emotion
+tags:
+- discrete-emotion-model
+title: Discrete Emotion Model in Music-Induced Emotions
+type: topic
 updated: 2026-05-04
 ---
 

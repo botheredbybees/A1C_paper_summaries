@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Quality Improvement Measures"
 confidence: low
-tags: ["quality-improvement-measures"]
+domain: intervention
+slug: quality-improvement-measures
 sources:
-  - fxa100-week04-conceptualizing-and-planning-interventions
+- fxa100-week04-conceptualizing-and-planning-interventions
+tags:
+- quality-improvement-measures
+title: Quality Improvement Measures
+type: topic
 updated: 2026-05-04
 ---
 

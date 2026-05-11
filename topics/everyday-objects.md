@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Everyday Objects in Memory Care"
 confidence: low
-tags: ["everyday-objects"]
+domain: intervention
+slug: everyday-objects-in-memory-care
 sources:
-  - fxa100-week07-iremember-loan-resource-flyer
+- fxa100-week07-iremember-loan-resource-flyer
+tags:
+- everyday-objects
+title: Everyday Objects in Memory Care
+type: topic
 updated: 2026-05-04
 ---
 

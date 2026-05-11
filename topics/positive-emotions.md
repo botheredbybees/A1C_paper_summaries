@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "intervention"
-title: "Positive Emotions in Healthcare"
 confidence: medium
-tags: ["positive-emotions"]
+domain: intervention
+slug: positive-emotions-in-healthcare
 sources:
-  - fxa100-week04-the-impact-of-caregivers-singing-on-expressions-of-emotion
-  - fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults
-  - fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january
+- fxa100-week04-the-impact-of-caregivers-singing-on-expressions-of-emotion
+- fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults
+- fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january
+tags:
+- positive-emotions
+title: Positive Emotions in Healthcare
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Participant Roles in Music"
 confidence: low
-tags: ["participant-roles-in-music"]
+domain: intervention
+slug: participant-roles-in-music
 sources:
-  - fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration-(2)
+- fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration-(2)
+tags:
+- participant-roles-in-music
+title: Participant Roles in Music
+type: topic
 updated: 2026-05-04
 ---
 

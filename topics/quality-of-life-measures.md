@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Quality Of Life Measures"
 confidence: low
-tags: ["quality-of-life-measures"]
+domain: method
+slug: quality-of-life-measures
 sources:
-  - fxa301-week03-arts-and-health-evaluation-toolkit-a-how-to-guide-to
+- fxa301-week03-arts-and-health-evaluation-toolkit-a-how-to-guide-to
+tags:
+- quality-of-life-measures
+title: Quality Of Life Measures
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: art-and-healing
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Art And Healing

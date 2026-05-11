@@ -1,13 +1,18 @@
 ---
-type: topic
-domain: "intervention"
-title: "Neurorehabilitation Through Dance and Music"
 confidence: medium
-tags: ["neurorehabilitation"]
+domain: intervention
+slug: neurorehabilitation-through-dance-and-music
 sources:
   - fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait
   - fxa301-week09-stroke-choirs-stroke-recovery-association-nsw
-updated: 2026-05-04
+  - fxa301-week11-art-therapy-for-individuals-with-traumatic-brain-injury-a
+- fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait
+- fxa301-week09-stroke-choirs-stroke-recovery-association-nsw
+tags:
+- neurorehabilitation
+title: Neurorehabilitation Through Dance and Music
+type: topic
+updated: 2026-05-11
 ---
 
 ## Neurorehabilitation Through Dance and Music
@@ -28,3 +33,4 @@ The integration of dance and music into neurorehabilitation interventions highli
 
 - [fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait](../sources/fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait.md)
 - [fxa301-week09-stroke-choirs-stroke-recovery-association-nsw](../sources/fxa301-week09-stroke-choirs-stroke-recovery-association-nsw.md)
+- [fxa301-week11-art-therapy-for-individuals-with-traumatic-brain-injury-a](../sources/fxa301-week11-art-therapy-for-individuals-with-traumatic-brain-injury-a.md)

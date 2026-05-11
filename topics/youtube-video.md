@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "method"
-title: "YouTube Video Transcripts"
 confidence: medium
-tags: ["youtube-video"]
+domain: method
+slug: youtube-video-transcripts
 sources:
   - fxa301-week05-transcript-duration-8-16-url-only
   - fxa301-week08-transcript-youtube-vyjzrflr50e-url-only
   - fxa303-week05-transcript-duration-9-39-url-only
-updated: 2026-05-04
+- fxa301-week05-transcript-duration-8-16-url-only
+- fxa301-week08-transcript-youtube-vyjzrflr50e-url-only
+- fxa303-week05-transcript-duration-9-39-url-only
+tags:
+- youtube-video
+title: YouTube Video Transcripts
+type: topic
+updated: 2026-05-11
 ---
 
 ## YouTube Video Transcripts

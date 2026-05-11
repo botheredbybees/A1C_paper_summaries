@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Laughter Therapy"
 confidence: medium
-tags: ["laughter-care"]
+domain: intervention
+slug: laughter-therapy
 sources:
   - fxa301-week08-impact-summary-clown-doctors-australia
   - fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january
-updated: 2026-05-04
+- fxa301-week08-impact-summary-clown-doctors-australia
+- fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january
+tags:
+- laughter-care
+title: Laughter Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Laughter Therapy

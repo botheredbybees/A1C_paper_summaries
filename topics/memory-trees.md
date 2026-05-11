@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Memory Trees And Boxes"
 confidence: low
-tags: ["memory-trees"]
+domain: intervention
+slug: memory-trees-and-boxes
 sources:
-  - fxa100-week07-creating-resources-memory-trees-and-boxes
+- fxa100-week07-creating-resources-memory-trees-and-boxes
+tags:
+- memory-trees
+title: Memory Trees And Boxes
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Theories of Child Development"
 confidence: low
-tags: ["theories-of-child-development"]
+domain: theory
+slug: theories-of-child-development
 sources:
-  - fxa303-week02-child-development-fxa303-creative-arts-play-and-mental
+- fxa303-week02-child-development-fxa303-creative-arts-play-and-mental
+tags:
+- theories-of-child-development
+title: Theories of Child Development
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Identity Reclamation in Art Therapy"
 confidence: low
-tags: ["identity-reclamation"]
+domain: intervention
+slug: identity-reclamation-in-art-therapy
 sources:
-  - fxa303-week10-indigenous-and-traditional-arts-in-art-therapy-value
+- fxa303-week10-indigenous-and-traditional-arts-in-art-therapy-value
+tags:
+- identity-reclamation
+title: Identity Reclamation in Art Therapy
+type: topic
 updated: 2026-05-04
 ---
 

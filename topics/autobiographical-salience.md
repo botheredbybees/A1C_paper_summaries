@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music-Evoked Nostalgia"
 confidence: low
-tags: ["autobiographical-salience"]
+domain: intervention
+slug: music-evoked-nostalgia
 sources:
-  - fxa301-week02-music-evoked-nostalgia-affect-memory-and-personality
+- fxa301-week02-music-evoked-nostalgia-affect-memory-and-personality
+tags:
+- autobiographical-salience
+title: Music-Evoked Nostalgia
+type: topic
 updated: 2026-05-04
 ---
 

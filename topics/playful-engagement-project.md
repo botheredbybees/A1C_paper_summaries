@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Playful Engagement Project"
 confidence: low
-tags: ["playful-engagement-project"]
+domain: intervention
+slug: playful-engagement-project
 sources:
-  - fxa100-week10-week-10-lecture-theatre-and-play-in-dementia-care
+- fxa100-week10-week-10-lecture-theatre-and-play-in-dementia-care
+tags:
+- playful-engagement-project
+title: Playful Engagement Project
+type: topic
 updated: 2026-05-04
 ---
 

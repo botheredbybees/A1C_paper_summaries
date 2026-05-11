@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Historical Trauma"
 confidence: low
-tags: ["historical-trauma"]
+domain: theory
+slug: historical-trauma
 sources:
-  - fxa303-week10-lesson-fxa303-week10-page-2-indigenous-arts-and-mental
+- fxa303-week10-lesson-fxa303-week10-page-2-indigenous-arts-and-mental
+tags:
+- historical-trauma
+title: Historical Trauma
+type: topic
 updated: 2026-05-04
 ---
 

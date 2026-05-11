@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Puppet Manipulation Techniques"
 confidence: low
-tags: ["head-movements"]
+domain: method
+slug: puppet-manipulation-techniques
 sources:
-  - fxa303-week06-developing-excellence-in-puppet-manipulation
+- fxa303-week06-developing-excellence-in-puppet-manipulation
+tags:
+- head-movements
+title: Puppet Manipulation Techniques
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "method"
-title: "Secure Access Methods"
 confidence: medium
-tags: ["secure-access"]
+domain: method
+slug: secure-access-methods
 sources:
-  - fxa301-week08-web-article-carroll-2005
-  - fxa303-week06-web-article-butler-2009
+- fxa301-week08-web-article-carroll-2005
+- fxa303-week06-web-article-butler-2009
+tags:
+- secure-access
+title: Secure Access Methods
+type: topic
 updated: 2026-05-04
 ---
 

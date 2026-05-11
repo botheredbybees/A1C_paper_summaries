@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Individual-Situational Factors in Emotional Responses"
 confidence: low
-tags: ["individual-situational-factors"]
+domain: intervention
+slug: individual-situational-factors-in-emotional-responses
 sources:
-  - fxa301-week02-aesthetic-emotions-across-arts-a-comparison-between
+- fxa301-week02-aesthetic-emotions-across-arts-a-comparison-between
+tags:
+- individual-situational-factors
+title: Individual-Situational Factors in Emotional Responses
+type: topic
 updated: 2026-05-04
 ---
 

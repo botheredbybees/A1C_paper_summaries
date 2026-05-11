@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Cognitive-Auditory Processing"
 confidence: low
-tags: ["cognitive-auditory-processing"]
+domain: method
+slug: cognitive-auditory-processing
 sources:
-  - fxa100-week03-the-effects-of-music-on-the-brain-video-transcript
+- fxa100-week03-the-effects-of-music-on-the-brain-video-transcript
+tags:
+- cognitive-auditory-processing
+title: Cognitive-Auditory Processing
+type: topic
 updated: 2026-05-04
 ---
 

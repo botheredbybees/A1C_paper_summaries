@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Historical Roots Of Photojournalism"
 confidence: low
-tags: ["historical-roots-of-photo-journalism"]
+domain: theory
+slug: historical-roots-of-photojournalism
 sources:
-  - fxa202-week01-week-1-lecture-transcript
+- fxa202-week01-week-1-lecture-transcript
+tags:
+- historical-roots-of-photo-journalism
+title: Historical Roots Of Photojournalism
+type: topic
 updated: 2026-05-04
 ---
 

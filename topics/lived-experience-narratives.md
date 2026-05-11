@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Lived Experience Narratives in Dementia Awareness"
 confidence: low
-tags: ["lived-experience-narratives"]
+domain: intervention
+slug: lived-experience-narratives-in-dementia-awareness
 sources:
-  - fxa100-week10-lesson-fxa100-week10-page-3-kage-physical-theatre
+- fxa100-week10-lesson-fxa100-week10-page-3-kage-physical-theatre
+tags:
+- lived-experience-narratives
+title: Lived Experience Narratives in Dementia Awareness
+type: topic
 updated: 2026-05-04
 ---
 

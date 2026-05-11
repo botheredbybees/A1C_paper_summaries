@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Intervention Strategies for Adolescent Mental Health"
 confidence: low
-tags: ["intervention-strategies"]
+domain: intervention
+slug: intervention-strategies-for-adolescent-mental-health
 sources:
-  - fxa303-week03-mental-health-of-adolescents
+- fxa303-week03-mental-health-of-adolescents
+tags:
+- intervention-strategies
+title: Intervention Strategies for Adolescent Mental Health
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Expression Through Puppetry"
 confidence: low
-tags: ["mediated-expression"]
+domain: intervention
+slug: emotional-expression-through-puppetry
 sources:
-  - fxa303-week06-emotional-expression-through-puppetry
+- fxa303-week06-emotional-expression-through-puppetry
+tags:
+- mediated-expression
+title: Emotional Expression Through Puppetry
+type: topic
 updated: 2026-05-04
 ---
 

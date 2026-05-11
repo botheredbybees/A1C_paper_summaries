@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cognitive Processing Therapy"
 confidence: medium
-tags: ["cognitive-processing"]
+domain: intervention
+slug: cognitive-processing-therapy
 sources:
   - fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes
   - fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care
   - fxa202-week09-5-benefits-of-journaling-for-mental-health
   - fxa303-week03-fxa303-week-3-introduction
-updated: 2026-05-05
+- fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes
+- fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care
+- fxa202-week09-5-benefits-of-journaling-for-mental-health
+- fxa303-week03-fxa303-week-3-introduction
+tags:
+- cognitive-processing
+title: Cognitive Processing Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Cognitive Processing Therapy

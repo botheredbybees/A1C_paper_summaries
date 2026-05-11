@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Character in Literature"
 confidence: low
-tags: ["character"]
+domain: theory
+slug: character-in-literature
 sources:
-  - fxa202-week05-lesson-fxa202-week05-page-4
+- fxa202-week05-lesson-fxa202-week05-page-4
+tags:
+- character
+title: Character in Literature
+type: topic
 updated: 2026-05-04
 ---
 

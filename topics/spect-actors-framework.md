@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Spect-Actors Framework in Musical Theatre"
 confidence: low
-tags: ["spect-actors-framework"]
+domain: intervention
+slug: spect-actors-framework-in-musical-theatre
 sources:
-  - fxa100-week09-people-with-dementia-as-spect-actors-in-a-musical-theatre
+- fxa100-week09-people-with-dementia-as-spect-actors-in-a-musical-theatre
+tags:
+- spect-actors-framework
+title: Spect-Actors Framework in Musical Theatre
+type: topic
 updated: 2026-05-04
 ---
 

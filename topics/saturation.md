@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Saturation"
 confidence: low
-tags: ["saturation"]
+domain: method
+slug: saturation
 sources:
-  - fxa202-week02-lesson-fxa202-week02-page-3
+- fxa202-week02-lesson-fxa202-week02-page-3
+tags:
+- saturation
+title: Saturation
+type: topic
 updated: 2026-05-04
 ---
 

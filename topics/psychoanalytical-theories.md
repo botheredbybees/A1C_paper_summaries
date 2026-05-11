@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Psychoanalytical Theories"
 confidence: low
-tags: ["psychoanalytical-theories"]
+domain: theory
+slug: psychoanalytical-theories
 sources:
-  - fxa303-week08-lesson-fxa303-week08-page-1-overview
+- fxa303-week08-lesson-fxa303-week08-page-1-overview
+tags:
+- psychoanalytical-theories
+title: Psychoanalytical Theories
+type: topic
 updated: 2026-05-04
 ---
 

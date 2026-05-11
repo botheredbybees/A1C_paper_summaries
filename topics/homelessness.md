@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "population"
-title: "Homelessness"
 confidence: medium
-tags: ["homelessness"]
+domain: population
+slug: homelessness
 sources:
   - fxa202-week06-donna-a-photo-essay
   - fxa301-week10-transcript-your-tube-standard-licence
-updated: 2026-05-04
+- fxa202-week06-donna-a-photo-essay
+- fxa301-week10-transcript-your-tube-standard-licence
+tags:
+- homelessness
+title: Homelessness
+type: topic
+updated: 2026-05-11
 ---
 
 ## Homelessness

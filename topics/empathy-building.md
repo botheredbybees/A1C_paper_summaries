@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Empathy Building"
 confidence: medium
-tags: ["empathy-building"]
+domain: intervention
+slug: empathy-building
 sources:
-  - fxa100-week04-engaging-in-community-music-an-introduction
-  - fxa100-week09-transcript-this-video-clip-from-the-american-dance-therapy
+- fxa100-week04-engaging-in-community-music-an-introduction
+- fxa100-week09-transcript-this-video-clip-from-the-american-dance-therapy
+tags:
+- empathy-building
+title: Empathy Building
+type: topic
 updated: 2026-05-04
 ---
 

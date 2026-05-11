@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Improvisational Music Therapy"
 confidence: low
-tags: ["improvisational-music-therapy"]
+domain: intervention
+slug: improvisational-music-therapy
 sources:
-  - fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder
+- fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder
+tags:
+- improvisational-music-therapy
+title: Improvisational Music Therapy
+type: topic
 updated: 2026-05-04
 ---
 

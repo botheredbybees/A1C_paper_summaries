@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Storytelling Enhancement"
 confidence: low
-tags: ["storytelling-enhancement"]
+domain: intervention
+slug: storytelling-enhancement
 sources:
-  - fxa202-week05-images-as-writing-prompts
+- fxa202-week05-images-as-writing-prompts
+tags:
+- storytelling-enhancement
+title: Storytelling Enhancement
+type: topic
 updated: 2026-05-04
 ---
 

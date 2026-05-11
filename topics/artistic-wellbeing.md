@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Artistic Wellbeing"
 confidence: low
-tags: ["artistic-wellbeing"]
+domain: intervention
+slug: artistic-wellbeing
 sources:
-  - fxa301-week01-web-article-australia-2023
+- fxa301-week01-web-article-australia-2023
+tags:
+- artistic-wellbeing
+title: Artistic Wellbeing
+type: topic
 updated: 2026-05-04
 ---
 

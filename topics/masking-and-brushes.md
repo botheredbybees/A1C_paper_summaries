@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Masking and Brushes"
 confidence: low
-tags: ["masking-and-brushes"]
+domain: method
+slug: masking-and-brushes
 sources:
-  - fxa202-week08-how-to-merge-and-combine-images-in-photoshop-(2)
+- fxa202-week08-how-to-merge-and-combine-images-in-photoshop-(2)
+tags:
+- masking-and-brushes
+title: Masking and Brushes
+type: topic
 updated: 2026-05-04
 ---
 

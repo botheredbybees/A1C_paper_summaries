@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Photo Art Therapy"
 confidence: low
-tags: ["photo-art-therapy"]
+domain: intervention
+slug: photo-art-therapy
 sources:
-  - fxa202-week08-photography-as-self-therapy-an-introduction-for-beginners
+- fxa202-week08-photography-as-self-therapy-an-introduction-for-beginners
+tags:
+- photo-art-therapy
+title: Photo Art Therapy
+type: topic
 updated: 2026-05-04
 ---
 

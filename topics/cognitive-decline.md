@@ -1,18 +1,27 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cognitive Decline"
 confidence: medium
-tags: ["cognitive-decline"]
+domain: intervention
+slug: cognitive-decline
 sources:
   - fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a
-  - fxa100-week01-transcript-alzheimers-society
   - fxa100-week01-what-is-alzheimers-disease-video-transcript
   - fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia
   - fxa100-week07-high-prevalence-of-dementia-and-cognitive-impairment-in
   - fxa100-week08-art-and-alzheimer-type-dementia-a-longitudinal-study
   - fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of
-updated: 2026-05-05
+  - fxa100-week11-week-11-lecture-benefits-of-dance-and-movement-for-people
+- fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a
+- fxa100-week01-transcript-alzheimers-society
+- fxa100-week01-what-is-alzheimers-disease-video-transcript
+- fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia
+- fxa100-week07-high-prevalence-of-dementia-and-cognitive-impairment-in
+- fxa100-week08-art-and-alzheimer-type-dementia-a-longitudinal-study
+- fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of
+tags:
+- cognitive-decline
+title: Cognitive Decline
+type: topic
+updated: 2026-05-11
 ---
 
 ## Cognitive Decline
@@ -32,9 +41,9 @@ This synthesis examines interventions targeting cognitive decline, focusing on a
 ## Sources
 
 - [fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a](../sources/fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a.md)
-- [fxa100-week01-transcript-alzheimers-society](../sources/fxa100-week01-transcript-alzheimers-society.md)
 - [fxa100-week01-what-is-alzheimers-disease-video-transcript](../sources/fxa100-week01-what-is-alzheimers-disease-video-transcript.md)
 - [fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia](../sources/fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia.md)
 - [fxa100-week07-high-prevalence-of-dementia-and-cognitive-impairment-in](../sources/fxa100-week07-high-prevalence-of-dementia-and-cognitive-impairment-in.md)
 - [fxa100-week08-art-and-alzheimer-type-dementia-a-longitudinal-study](../sources/fxa100-week08-art-and-alzheimer-type-dementia-a-longitudinal-study.md)
 - [fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of](../sources/fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of.md)
+- [fxa100-week11-week-11-lecture-benefits-of-dance-and-movement-for-people](../sources/fxa100-week11-week-11-lecture-benefits-of-dance-and-movement-for-people.md)

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Goals in Medical Clowning"
 confidence: low
-tags: ["therapeutic-goals"]
+domain: intervention
+slug: therapeutic-goals-in-medical-clowning
 sources:
-  - fxa303-week08-more-than-just-an-entertainment-show-identification-of
+- fxa303-week08-more-than-just-an-entertainment-show-identification-of
+tags:
+- therapeutic-goals
+title: Therapeutic Goals in Medical Clowning
+type: topic
 updated: 2026-05-04
 ---
 

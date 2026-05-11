@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Landscape Rehydration"
 confidence: low
-tags: ["landscape-rehydration"]
+domain: intervention
+slug: landscape-rehydration
 sources:
-  - fxa303-week09-capertee-valley-hydrology-project-ksca
+- fxa303-week09-capertee-valley-hydrology-project-ksca
+tags:
+- landscape-rehydration
+title: Landscape Rehydration
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Personhood Undermining in Dementia Care"
 confidence: low
-tags: ["personhood-undermining"]
+domain: intervention
+slug: personhood-undermining-in-dementia-care
 sources:
-  - fxa100-week09-lesson-fxa100-week09-page-3-theatre-play-and-dementia
+- fxa100-week09-lesson-fxa100-week09-page-3-theatre-play-and-dementia
+tags:
+- personhood-undermining
+title: Personhood Undermining in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

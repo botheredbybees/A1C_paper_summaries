@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "method"
-title: "Veder Method in Dementia Care"
 confidence: medium
-tags: ["veder-method"]
+domain: method
+slug: veder-method-in-dementia-care
 sources:
-  - fxa100-week09-implementing-living-room-theatre-activities-for-people-with
-  - fxa100-week09-implementing-living-room-theatre-activities-for-people-with-(2)
-  - fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags
+- fxa100-week09-implementing-living-room-theatre-activities-for-people-with
+- fxa100-week09-implementing-living-room-theatre-activities-for-people-with-(2)
+- fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags
+tags:
+- veder-method
+title: Veder Method in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

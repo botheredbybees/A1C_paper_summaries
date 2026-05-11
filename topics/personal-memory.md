@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Personal Memory and Mental Health"
 confidence: low
-tags: ["personal-memory"]
+domain: theory
+slug: personal-memory-and-mental-health
 sources:
-  - fxa202-week10-the-storm-shifting-south-reflections-on-public-baths-in
+- fxa202-week10-the-storm-shifting-south-reflections-on-public-baths-in
+tags:
+- personal-memory
+title: Personal Memory and Mental Health
+type: topic
 updated: 2026-05-04
 ---
 

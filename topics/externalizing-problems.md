@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Arts-Based Interventions for Externalizing Problems"
 confidence: low
-tags: ["externalizing-problems"]
+domain: intervention
+slug: creative-arts-based-interventions-for-externalizing-problems
 sources:
-  - fxa303-week09-effectiveness-of-creative-arts-based-interventions-for
+- fxa303-week09-effectiveness-of-creative-arts-based-interventions-for
+tags:
+- externalizing-problems
+title: Creative Arts-Based Interventions for Externalizing Problems
+type: topic
 updated: 2026-05-04
 ---
 

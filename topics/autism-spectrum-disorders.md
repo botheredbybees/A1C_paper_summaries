@@ -1,16 +1,23 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Interventions for Autism Spectrum Disorders"
 confidence: high
-tags: ["autism-spectrum-disorders"]
+domain: intervention
+slug: therapeutic-interventions-for-autism-spectrum-disorders
 sources:
   - fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between
   - fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for
   - fxa303-week04-exploring-change-in-childrens-and-art-therapists-behavior
   - fxa303-week04-transcript-duration-3-03
   - fxa303-week04-transcript-duration-34-19
-updated: 2026-05-04
+- fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between
+- fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for
+- fxa303-week04-exploring-change-in-childrens-and-art-therapists-behavior
+- fxa303-week04-transcript-duration-3-03
+- fxa303-week04-transcript-duration-34-19
+tags:
+- autism-spectrum-disorders
+title: Therapeutic Interventions for Autism Spectrum Disorders
+type: topic
+updated: 2026-05-11
 ---
 
 ## Therapeutic Interventions for Autism Spectrum Disorders

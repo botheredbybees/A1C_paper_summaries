@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: art-therapy
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Art Therapy
@@ -51,6 +51,12 @@ updated: 2026-05-06
 - [Case Studies of Therapeutic Creative Arts for Eating Disorders and Trauma](../sources/fxa301-week10-lesson-fxa301-week10-page-3.md)
 - [Social Action in Art Therapy with Veterans](../sources/fxa301-week10-social-action-in-art-therapy-with-veterans.md)
 - [A Review of Art Therapy Among Military Service Members and Veterans with Post-Traumatic Stress Disorder](../sources/fxa301-week10-web-article-ramirez-2016.md)
+- [7 Art Initiatives That Are Transforming The Lives Of Refugees](../sources/fxa301-week11-7-art-initiatives-that-are-transforming-the-lives-of.md)
+- [Art Therapy for Individuals With Traumatic Brain Injury: A Comprehensive Neurorehabilitation-Informed Approach to Treatment](../sources/fxa301-week11-art-therapy-for-individuals-with-traumatic-brain-injury-a.md)
+- [Art Therapy Initiative (ATI): Art therapy at the border: Holding the line of the kite](../sources/fxa301-week11-art-therapy-initiative-ati-art-therapy-at-the-border.md)
+- [Colouring it beautiful: artists on the loose in a refugee camp - in pictures](../sources/fxa301-week11-colouring-it-beautiful-artists-on-the-loose-in-a-refugee.md)
+- ['Tomorrow we make it better': an art therapist\u2019s reflection on a community mural in a refugee camp in Greece](../sources/fxa301-week11-tomorrow-we-make-it-better-an-art-therapists-reflection-on.md)
+- [Visual Art in Physical Rehabilitation: Experiences of People with Neurological Conditions](../sources/fxa301-week11-visual-art-in-physical-rehabilitation-experiences-of-people.md)
 - [THRiVE and the Body Map Activity](../sources/fxa303-art-therapy-in-response-to-natural-disasters-ch01-1-body-tracing.md)
 - [Ethical Considerations and Collaborative Practices in International Art Therapy for Disaster Recovery](../sources/fxa303-art-therapy-in-response-to-natural-disasters-ch06-1-i-envisioned-an-opportunity-to-assert-lasalle.md)
 - [Evaluation of 'Images of Self,' an Art Therapy Program for Children Diagnosed with Autism Spectrum Disorders (ASD)](../sources/fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for.md)
@@ -62,3 +68,7 @@ updated: 2026-05-06
 - [Indigenous and traditional arts in art therapy: Value, meaning, and clinical implications](../sources/fxa303-week10-indigenous-and-traditional-arts-in-art-therapy-value.md)
 - [Indigenous and Traditional Visual Artistic Practices: Implications for Art Therapy Clinical Practice and Research](../sources/fxa303-week10-indigenous-and-traditional-visual-artistic-practices.md)
 - [Role of art centres for Aboriginal Australians living with dementia in remote communities](../sources/fxa303-week10-role-of-art-centres-for-aboriginal-australians-living-with.md)
+- [A Lot of Us Look at Life Differently: Homeless Youths and Art on the Outside](../sources/fxa303-week11-a-lot-of-us-look-at-life-differently-homeless-youths-and.md)
+- [The one thing that actually helps: Art creation as a self-care and health-promoting practice amongst youth experiencing homelessness](../sources/fxa303-week11-the-one-thing-that-actually-helps-art-creation-as-a-self.md)
+- [The Power of Art to Transform and Restore](../sources/fxa303-week11-the-power-of-art-to-transform-and-restore.md)
+- [Queering Queer Spaces: Journey of a Creative Arts Program for Trans, Non-Binary, and Gender Creative Youth](../sources/fxa303-week11-web-article-hardy-2019.md)

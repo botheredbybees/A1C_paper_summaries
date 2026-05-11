@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Conflict of Interest"
 confidence: low
-tags: ["conflict-of-interest"]
+domain: intervention
+slug: conflict-of-interest
 sources:
-  - fxa301-arts-in-health-ch76-3-responsibility
+- fxa301-arts-in-health-ch76-3-responsibility
+tags:
+- conflict-of-interest
+title: Conflict of Interest
+type: topic
 updated: 2026-05-04
 ---
 

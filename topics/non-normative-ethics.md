@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Non-Normative Ethics in Healthcare"
 confidence: low
-tags: ["non-normative-ethics"]
+domain: theory
+slug: non-normative-ethics-in-healthcare
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37-(2)
+- fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37-(2)
+tags:
+- non-normative-ethics
+title: Non-Normative Ethics in Healthcare
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Anonymity Preservation"
 confidence: low
-tags: ["anonymity-preservation"]
+domain: method
+slug: anonymity-preservation
 sources:
-  - fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of
+- fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of
+tags:
+- anonymity-preservation
+title: Anonymity Preservation
+type: topic
 updated: 2026-05-04
 ---
 

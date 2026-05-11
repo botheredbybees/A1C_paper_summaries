@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: adolescent-development
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Adolescent Development
@@ -19,3 +19,4 @@ updated: 2026-05-06
 - [The role of music in adolescent development: much more than the same old song](../sources/fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than.md)
 - [Week 3 Overview - FXA303 Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental.md)
 - [Evaluation of a school-based creative arts therapy programme for adolescents from refugee backgrounds](../sources/fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy.md)
+- [Arts and Cultural Engagement, Reportedly Antisocial or Criminalized Behaviors, and Potential Mediators in Two Longitudinal Cohorts of Adolescents](../sources/fxa303-week11-arts-and-cultural-engagement-reportedly-antisocial-or.md)

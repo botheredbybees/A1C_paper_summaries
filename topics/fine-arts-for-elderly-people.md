@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Fine Arts for Elderly People"
 confidence: low
-tags: ["fine-arts-for-elderly-people"]
+domain: intervention
+slug: fine-arts-for-elderly-people
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35
+- fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35
+tags:
+- fine-arts-for-elderly-people
+title: Fine Arts for Elderly People
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Color Therapy for Nervous Disorders"
 confidence: low
-tags: ["nervous-disorders"]
+domain: intervention
+slug: color-therapy-for-nervous-disorders
 sources:
-  - fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at
+- fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at
+tags:
+- nervous-disorders
+title: Color Therapy for Nervous Disorders
+type: topic
 updated: 2026-05-04
 ---
 

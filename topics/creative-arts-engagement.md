@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Arts Engagement"
 confidence: low
-tags: ["creative-arts-engagement"]
+domain: intervention
+slug: creative-arts-engagement
 sources:
-  - fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community
+- fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community
+tags:
+- creative-arts-engagement
+title: Creative Arts Engagement
+type: topic
 updated: 2026-05-04
 ---
 

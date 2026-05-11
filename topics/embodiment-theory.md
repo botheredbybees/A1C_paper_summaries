@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Embodiment Theory"
 confidence: low
-tags: ["embodiment-theory"]
+domain: theory
+slug: embodiment-theory
 sources:
-  - fxa301-week02-the-role-of-similarity-sound-and-awareness-in-the
+- fxa301-week02-the-role-of-similarity-sound-and-awareness-in-the
+tags:
+- embodiment-theory
+title: Embodiment Theory
+type: topic
 updated: 2026-05-04
 ---
 

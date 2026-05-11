@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Child-Centered Therapy"
 confidence: low
-tags: ["child-centered-therapy"]
+domain: intervention
+slug: child-centered-therapy
 sources:
-  - fxa303-week06-puppet-play-therapy-a-practical-guidebook
+- fxa303-week06-puppet-play-therapy-a-practical-guidebook
+tags:
+- child-centered-therapy
+title: Child-Centered Therapy
+type: topic
 updated: 2026-05-04
 ---
 

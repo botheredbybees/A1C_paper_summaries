@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Value Of Writing"
 confidence: low
-tags: ["therapeutic-value-of-writing"]
+domain: intervention
+slug: therapeutic-value-of-writing
 sources:
-  - fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental
+- fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental
+tags:
+- therapeutic-value-of-writing
+title: Therapeutic Value Of Writing
+type: topic
 updated: 2026-05-04
 ---
 

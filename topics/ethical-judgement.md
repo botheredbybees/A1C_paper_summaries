@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Ethical Judgement in Aging Research"
 confidence: low
-tags: ["ethical-judgement"]
+domain: theory
+slug: ethical-judgement-in-aging-research
 sources:
-  - fxa100-how-we-thnk-about-dementia-ch04-chapter-2
+- fxa100-how-we-thnk-about-dementia-ch04-chapter-2
+tags:
+- ethical-judgement
+title: Ethical Judgement in Aging Research
+type: topic
 updated: 2026-05-04
 ---
 

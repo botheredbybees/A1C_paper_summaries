@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Pitch-Timbre-Rhythm Processing"
 confidence: low
-tags: ["pitch-timbre-rhythm-processing"]
+domain: method
+slug: pitch-timbre-rhythm-processing
 sources:
-  - fxa100-week02-hearing-and-music
+- fxa100-week02-hearing-and-music
+tags:
+- pitch-timbre-rhythm-processing
+title: Pitch-Timbre-Rhythm Processing
+type: topic
 updated: 2026-05-04
 ---
 

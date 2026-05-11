@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: health-equality
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Health Equality

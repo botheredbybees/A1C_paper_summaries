@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cognitive Offloading"
 confidence: medium
-tags: ["cognitive-offloading"]
+domain: intervention
+slug: cognitive-offloading
 sources:
   - fxa100-week01-ai-tools-in-society-impacts-on-cognitive-offloading-and-the
   - fxa202-week03-what-smartphone-photography-is-doing-to-our-memories
-updated: 2026-05-04
+- fxa100-week01-ai-tools-in-society-impacts-on-cognitive-offloading-and-the
+- fxa202-week03-what-smartphone-photography-is-doing-to-our-memories
+tags:
+- cognitive-offloading
+title: Cognitive Offloading
+type: topic
+updated: 2026-05-11
 ---
 
 ## Cognitive Offloading

@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Social Participation Through Art"
 confidence: medium
-tags: ["social-participation"]
+domain: intervention
+slug: social-participation-through-art
 sources:
   - fxa202-week10-the-reciprocal-influence-of-art-and-aging
   - fxa303-week10-arts-and-refugees-multidisciplinary-perspectives-vol-2
-updated: 2026-05-04
+- fxa202-week10-the-reciprocal-influence-of-art-and-aging
+- fxa303-week10-arts-and-refugees-multidisciplinary-perspectives-vol-2
+tags:
+- social-participation
+title: Social Participation Through Art
+type: topic
+updated: 2026-05-11
 ---
 
 ## Social Participation Through Art

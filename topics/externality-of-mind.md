@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Externality Of Mind"
 confidence: low
-tags: ["externality-of-mind"]
+domain: theory
+slug: externality-of-mind
 sources:
-  - fxa100-how-we-thnk-about-dementia-ch06-chapter-3
+- fxa100-how-we-thnk-about-dementia-ch06-chapter-3
+tags:
+- externality-of-mind
+title: Externality Of Mind
+type: topic
 updated: 2026-05-04
 ---
 

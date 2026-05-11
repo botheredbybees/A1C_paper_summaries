@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Neural Connectivity in Autism Spectrum Disorder"
 confidence: medium
-tags: ["neural-connectivity"]
+domain: intervention
+slug: neural-connectivity-in-autism-spectrum-disorder
 sources:
-  - fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism
-  - fxa303-week04-neurodiversity-and-the-autism-spectrum
+- fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism
+- fxa303-week04-neurodiversity-and-the-autism-spectrum
+tags:
+- neural-connectivity
+title: Neural Connectivity in Autism Spectrum Disorder
+type: topic
 updated: 2026-05-04
 ---
 

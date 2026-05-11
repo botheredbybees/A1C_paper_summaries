@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "theory"
-title: "The Limbic System in Brain Function and Perception"
 confidence: medium
-tags: ["limbic-system"]
+domain: theory
+slug: the-limbic-system-in-brain-function-and-perception
 sources:
-  - fxa301-week01-lesson-fxa301-week01-page-2
-  - fxa301-week02-lecture-on-perception-of-the-arts
-  - fxa301-week02-the-brain-and-how-we-perceive-information
+- fxa301-week01-lesson-fxa301-week01-page-2
+- fxa301-week02-lecture-on-perception-of-the-arts
+- fxa301-week02-the-brain-and-how-we-perceive-information
+tags:
+- limbic-system
+title: The Limbic System in Brain Function and Perception
+type: topic
 updated: 2026-05-04
 ---
 

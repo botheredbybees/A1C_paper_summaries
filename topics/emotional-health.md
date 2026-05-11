@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts in Emotional Health"
 confidence: medium
-tags: ["emotional-health"]
+domain: intervention
+slug: arts-in-emotional-health
 sources:
-  - fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family
-  - fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6
+- fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family
+- fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6
+tags:
+- emotional-health
+title: Arts in Emotional Health
+type: topic
 updated: 2026-05-04
 ---
 

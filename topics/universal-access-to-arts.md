@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Universal Access To Arts"
 confidence: low
-tags: ["universal-access-to-arts"]
+domain: intervention
+slug: universal-access-to-arts
 sources:
-  - fxa301-week03-creativity-for-health-and-wellbeing-in-the-education-system
+- fxa301-week03-creativity-for-health-and-wellbeing-in-the-education-system
+tags:
+- universal-access-to-arts
+title: Universal Access To Arts
+type: topic
 updated: 2026-05-04
 ---
 

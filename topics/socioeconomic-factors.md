@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "theory"
-title: "Socioeconomic Factors in Health and Development"
 confidence: medium
-tags: ["socioeconomic-factors"]
+domain: theory
+slug: socioeconomic-factors-in-health-and-development
 sources:
-  - fxa303-week03-adolescent-neurodevelopment
-  - fxa303-week03-social-prescribing-roundtable-november-2019-report
+- fxa303-week03-adolescent-neurodevelopment
+- fxa303-week03-social-prescribing-roundtable-november-2019-report
+tags:
+- socioeconomic-factors
+title: Socioeconomic Factors in Health and Development
+type: topic
 updated: 2026-05-04
 ---
 

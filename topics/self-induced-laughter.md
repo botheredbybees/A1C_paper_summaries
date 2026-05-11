@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Self-Induced Laughter"
 confidence: low
-tags: ["self-induced-laughter"]
+domain: intervention
+slug: self-induced-laughter
 sources:
-  - fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
+- fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
+tags:
+- self-induced-laughter
+title: Self-Induced Laughter
+type: topic
 updated: 2026-05-04
 ---
 

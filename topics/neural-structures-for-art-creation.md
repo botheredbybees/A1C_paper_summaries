@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Neural Structures For Art Creation"
 confidence: low
-tags: ["neural-structures-for-art-creation"]
+domain: theory
+slug: neural-structures-for-art-creation
 sources:
-  - fxa100-week04-the-evolution-of-human-artistic-creativity
+- fxa100-week04-the-evolution-of-human-artistic-creativity
+tags:
+- neural-structures-for-art-creation
+title: Neural Structures For Art Creation
+type: topic
 updated: 2026-05-04
 ---
 

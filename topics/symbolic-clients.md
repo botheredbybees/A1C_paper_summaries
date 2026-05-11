@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Symbolic Clients in Therapy"
 confidence: low
-tags: ["symbolic-clients"]
+domain: intervention
+slug: symbolic-clients-in-therapy
 sources:
-  - fxa303-week06-lesson-fxa303-week06-page-4-week-6-activities
+- fxa303-week06-lesson-fxa303-week06-page-4-week-6-activities
+tags:
+- symbolic-clients
+title: Symbolic Clients in Therapy
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Dispositional Empathy"
 confidence: low
-tags: ["dispositional-empathy"]
+domain: theory
+slug: dispositional-empathy
 sources:
-  - fxa301-week02-emotions-during-live-music-performance-links-with
+- fxa301-week02-emotions-during-live-music-performance-links-with
+tags:
+- dispositional-empathy
+title: Dispositional Empathy
+type: topic
 updated: 2026-05-04
 ---
 

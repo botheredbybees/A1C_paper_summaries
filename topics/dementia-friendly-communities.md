@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Dementia-Friendly Communities"
 confidence: medium
-tags: ["dementia-friendly-communities"]
+domain: intervention
+slug: dementia-friendly-communities
 sources:
   - fxa100-excellence-in-dementia-care--ch33-1-place-covers-the-person
   - fxa100-excellence-in-dementia-care--ch35-1-understand-that-any-business
-updated: 2026-05-04
+- fxa100-excellence-in-dementia-care--ch33-1-place-covers-the-person
+- fxa100-excellence-in-dementia-care--ch35-1-understand-that-any-business
+tags:
+- dementia-friendly-communities
+title: Dementia-Friendly Communities
+type: topic
+updated: 2026-05-11
 ---
 
 ## Dementia-Friendly Communities

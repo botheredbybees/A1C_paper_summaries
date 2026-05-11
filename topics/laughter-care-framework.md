@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Laughter-Care Framework"
 confidence: low
-tags: ["laughter-care-framework"]
+domain: intervention
+slug: laughter-care-framework
 sources:
-  - fxa301-week08-clown-doctors-australia-strategy-2025-2030
+- fxa301-week08-clown-doctors-australia-strategy-2025-2030
+tags:
+- laughter-care-framework
+title: Laughter-Care Framework
+type: topic
 updated: 2026-05-04
 ---
 

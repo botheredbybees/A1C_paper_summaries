@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Improvized Sound Exchanges in Music Therapy"
 confidence: low
-tags: ["improvised-sound-exchanges"]
+domain: intervention
+slug: improvized-sound-exchanges-in-music-therapy
 sources:
-  - fxa303-week04-transcript-duration-34-19
+- fxa303-week04-transcript-duration-34-19
+tags:
+- improvised-sound-exchanges
+title: Improvized Sound Exchanges in Music Therapy
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Caption Unavailability"
 confidence: low
-tags: ["caption-unavailability"]
+domain: intervention
+slug: caption-unavailability
 sources:
-  - fxa303-week05-transcript-duration-9-39-url-only
+- fxa303-week05-transcript-duration-9-39-url-only
+tags:
+- caption-unavailability
+title: Caption Unavailability
+type: topic
 updated: 2026-05-04
 ---
 

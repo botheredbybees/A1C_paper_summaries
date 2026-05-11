@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Disaster Resilience Through Children's Outdoor Play"
 confidence: low
-tags: ["disaster-resilience"]
+domain: intervention
+slug: disaster-resilience-through-children-s-outdoor-play
 sources:
-  - fxa303-week09-beyond-the-fence-constructed-and-found-spaces-for-childrens
+- fxa303-week09-beyond-the-fence-constructed-and-found-spaces-for-childrens
+tags:
+- disaster-resilience
+title: Disaster Resilience Through Children's Outdoor Play
+type: topic
 updated: 2026-05-04
 ---
 

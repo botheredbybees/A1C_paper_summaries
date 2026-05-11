@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Storytelling For Healing"
 confidence: low
-tags: ["storytelling-for-healing"]
+domain: intervention
+slug: storytelling-for-healing
 sources:
-  - fxa303-week09-lesson-fxa303-week09-page-3-case-studies
+- fxa303-week09-lesson-fxa303-week09-page-3-case-studies
+tags:
+- storytelling-for-healing
+title: Storytelling For Healing
+type: topic
 updated: 2026-05-04
 ---
 

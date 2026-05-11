@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: youth-development
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Youth Development
@@ -13,3 +13,6 @@ updated: 2026-05-06
 - [The Impact of Art-Education on Human Capital: An Empirical Assessment of a Youth Orchestra](../sources/fxa303-week03-the-impact-of-art-education-on-human-capital-an-empirical.md)
 - [Youth Orchestra Participation and Perceived Benefit: A Pilot Study of the Tasmanian Youth Orchestra](../sources/fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot.md)
 - [Arts Education and Society: The Role of the Arts in Promoting Emotional Wellbeing and Social Inclusion of Young People](../sources/fxa303-week10-arts-education-and-society-the-role-of-the-arts-in.md)
+- [Creative Pathways for Juvenile Justice: An Overview of Current Evidence and Literature](../sources/fxa303-week11-creative-pathways-for-juvenile-justice-an-overview-of.md)
+- [Using and Abusing the Arts with \u2018At-Risk\u2019 Youth](../sources/fxa303-week11-using-and-abusing-the-arts-with-at-risk-youth.md)
+- [Queering Queer Spaces: Journey of a Creative Arts Program for Trans, Non-Binary, and Gender Creative Youth](../sources/fxa303-week11-web-article-hardy-2019.md)

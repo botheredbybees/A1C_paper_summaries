@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Participant Benefits"
 confidence: low
-tags: ["participant-benefits"]
+domain: theory
+slug: participant-benefits
 sources:
-  - fxa301-arts-in-health-ch76-3-responsibility
+- fxa301-arts-in-health-ch76-3-responsibility
+tags:
+- participant-benefits
+title: Participant Benefits
+type: topic
 updated: 2026-05-04
 ---
 

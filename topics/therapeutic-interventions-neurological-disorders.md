@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Art Therapy for Neurological Disorders"
 confidence: low
-tags: ["therapeutic-interventions-neurological-disorders"]
+domain: intervention
+slug: art-therapy-for-neurological-disorders
 sources:
-  - fxa100-week08-art-and-the-brain-effects-of-dementia-on-art-production-in
+- fxa100-week08-art-and-the-brain-effects-of-dementia-on-art-production-in
+tags:
+- therapeutic-interventions-neurological-disorders
+title: Art Therapy for Neurological Disorders
+type: topic
 updated: 2026-05-04
 ---
 

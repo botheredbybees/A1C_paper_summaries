@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Theatre of Wandering"
 confidence: low
-tags: ["underrepresented-voices"]
+domain: intervention
+slug: theatre-of-wandering
 sources:
-  - fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1
+- fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1
+tags:
+- underrepresented-voices
+title: Theatre of Wandering
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Meaning in Music Experiences"
 confidence: low
-tags: ["meaning"]
+domain: intervention
+slug: meaning-in-music-experiences
 sources:
-  - fxa301-week02-university-students-strong-experiences-of-music-pleasure
+- fxa301-week02-university-students-strong-experiences-of-music-pleasure
+tags:
+- meaning
+title: Meaning in Music Experiences
+type: topic
 updated: 2026-05-04
 ---
 

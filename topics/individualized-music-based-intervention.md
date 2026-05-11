@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Individualized Music-Based Intervention"
 confidence: low
-tags: ["individualized-music-based-intervention"]
+domain: intervention
+slug: individualized-music-based-intervention
 sources:
-  - fxa100-week03-an-individualized-music-based-intervention-for-acute
+- fxa100-week03-an-individualized-music-based-intervention-for-acute
+tags:
+- individualized-music-based-intervention
+title: Individualized Music-Based Intervention
+type: topic
 updated: 2026-05-04
 ---
 

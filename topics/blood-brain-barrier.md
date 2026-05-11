@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Blood-Brain Barrier"
 confidence: low
-tags: ["blood-brain-barrier"]
+domain: method
+slug: blood-brain-barrier
 sources:
-  - fxa301-week01-web-article-zuckerman-2009
+- fxa301-week01-web-article-zuckerman-2009
+tags:
+- blood-brain-barrier
+title: Blood-Brain Barrier
+type: topic
 updated: 2026-05-04
 ---
 

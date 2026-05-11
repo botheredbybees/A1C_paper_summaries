@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Photography"
 confidence: low
-tags: ["self-esteem-enhancement"]
+domain: intervention
+slug: therapeutic-photography
 sources:
-  - fxa202-week03-what-is-therapeutic-photography
+- fxa202-week03-what-is-therapeutic-photography
+tags:
+- self-esteem-enhancement
+title: Therapeutic Photography
+type: topic
 updated: 2026-05-04
 ---
 

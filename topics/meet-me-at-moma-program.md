@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Meet Me At Moma Program"
 confidence: low
-tags: ["meet-me-at-moma-program"]
+domain: intervention
+slug: meet-me-at-moma-program
 sources:
-  - fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people
+- fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people
+tags:
+- meet-me-at-moma-program
+title: Meet Me At Moma Program
+type: topic
 updated: 2026-05-04
 ---
 

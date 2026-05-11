@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Health in Social Care"
 confidence: medium
-tags: ["social-care"]
+domain: intervention
+slug: creative-health-in-social-care
 sources:
   - fxa301-week03-implementing-creative-health
   - fxa301-week03-web-article-national-2024
-updated: 2026-05-04
+- fxa301-week03-implementing-creative-health
+- fxa301-week03-web-article-national-2024
+tags:
+- social-care
+title: Creative Health in Social Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Creative Health in Social Care

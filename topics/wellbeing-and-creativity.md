@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Wellbeing And Creativity"
 confidence: low
-tags: ["wellbeing-and-creativity"]
+domain: method
+slug: wellbeing-and-creativity
 sources:
-  - fxa301-week01-lesson-fxa301-week01-page-3-arts-participation
+- fxa301-week01-lesson-fxa301-week01-page-3-arts-participation
+tags:
+- wellbeing-and-creativity
+title: Wellbeing And Creativity
+type: topic
 updated: 2026-05-04
 ---
 

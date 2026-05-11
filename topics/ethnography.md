@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Ethnography"
 confidence: low
-tags: ["ethnography"]
+domain: method
+slug: ethnography
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10
+- fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10
+tags:
+- ethnography
+title: Ethnography
+type: topic
 updated: 2026-05-04
 ---
 

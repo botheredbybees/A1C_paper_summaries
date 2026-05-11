@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Alternative Therapy Through Dance"
 confidence: low
-tags: ["alternative-therapy"]
+domain: intervention
+slug: alternative-therapy-through-dance
 sources:
-  - fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and
+- fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and
+tags:
+- alternative-therapy
+title: Alternative Therapy Through Dance
+type: topic
 updated: 2026-05-04
 ---
 

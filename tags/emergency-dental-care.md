@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emergency-dental-care
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Emergency Dental Care

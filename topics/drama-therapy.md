@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Drama Therapy"
 confidence: high
-tags: ["drama-therapy"]
+domain: intervention
+slug: drama-therapy
 sources:
   - fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it
   - fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2)
@@ -12,7 +10,18 @@ sources:
   - fxa100-week09-web-article-north-2021
   - fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using
   - fxa303-week08-clown-therapy-a-drama-therapy-approach-to-addiction-and
-updated: 2026-05-05
+- fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it
+- fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2)
+- fxa100-week09-people-with-dementia-as-spect-actors-in-a-musical-theatre
+- fxa100-week09-transcript-youtube-y1uwix2fnv4
+- fxa100-week09-web-article-north-2021
+- fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using
+- fxa303-week08-clown-therapy-a-drama-therapy-approach-to-addiction-and
+tags:
+- drama-therapy
+title: Drama Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Drama Therapy

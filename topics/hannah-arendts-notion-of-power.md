@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Hannah Arendt's Notion Of Power"
 confidence: low
-tags: ["hannah-arendts-notion-of-power"]
+domain: theory
+slug: hannah-arendt-s-notion-of-power
 sources:
-  - fxa303-week04-exploring-the-critiques-of-the-social-model-of-disability
+- fxa303-week04-exploring-the-critiques-of-the-social-model-of-disability
+tags:
+- hannah-arendts-notion-of-power
+title: Hannah Arendt's Notion Of Power
+type: topic
 updated: 2026-05-04
 ---
 

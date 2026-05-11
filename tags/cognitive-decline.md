@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-decline
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Cognitive Decline
@@ -12,3 +12,4 @@ updated: 2026-05-06
 - [High Prevalence of Dementia and Cognitive Impairment in Indigenous Australians](../sources/fxa100-week07-high-prevalence-of-dementia-and-cognitive-impairment-in.md)
 - [Art and Alzheimer-Type Dementia: A Longitudinal Study](../sources/fxa100-week08-art-and-alzheimer-type-dementia-a-longitudinal-study.md)
 - [Arts in Dementia Care: This is not the end... if it's the end of this chapter](../sources/fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of.md)
+- [Week 11 Lecture: Benefits of Dance and Movement for People with Dementia](../sources/fxa100-week11-week-11-lecture-benefits-of-dance-and-movement-for-people.md)

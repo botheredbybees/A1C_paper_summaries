@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Social Networks"
 confidence: low
-tags: ["social-networks"]
+domain: theory
+slug: social-networks
 sources:
-  - fxa303-week03-fxa303-week-3-introduction
+- fxa303-week03-fxa303-week-3-introduction
+tags:
+- social-networks
+title: Social Networks
+type: topic
 updated: 2026-05-04
 ---
 

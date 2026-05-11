@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Oxidative Stress"
 confidence: low
-tags: ["oxidative-stress"]
+domain: intervention
+slug: oxidative-stress
 sources:
-  - fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a
+- fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a
+tags:
+- oxidative-stress
+title: Oxidative Stress
+type: topic
 updated: 2026-05-04
 ---
 

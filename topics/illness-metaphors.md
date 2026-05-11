@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Illness Metaphors in Dementia Discourse"
 confidence: low
-tags: ["illness-metaphors"]
+domain: theory
+slug: illness-metaphors-in-dementia-discourse
 sources:
-  - fxa100-week04-dementia-discourse-a-rethink-(2)
+- fxa100-week04-dementia-discourse-a-rethink-(2)
+tags:
+- illness-metaphors
+title: Illness Metaphors in Dementia Discourse
+type: topic
 updated: 2026-05-04
 ---
 

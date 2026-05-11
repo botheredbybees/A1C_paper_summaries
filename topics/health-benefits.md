@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Health Benefits of Arts Participation"
 confidence: medium
-tags: ["health-benefits"]
+domain: intervention
+slug: health-benefits-of-arts-participation
 sources:
-  - fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the
-  - fxa301-week08-the-cultural-value-of-older-peoples-experiences-of-theater
+- fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the
+- fxa301-week08-the-cultural-value-of-older-peoples-experiences-of-theater
+tags:
+- health-benefits
+title: Health Benefits of Arts Participation
+type: topic
 updated: 2026-05-04
 ---
 

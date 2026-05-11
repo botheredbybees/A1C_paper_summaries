@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Mri Technology Advancements"
 confidence: low
-tags: ["mri-technology"]
+domain: method
+slug: mri-technology-advancements
 sources:
-  - fxa100-week04-transcript-new-super-fast-mri-technique-singing-if-i-only
+- fxa100-week04-transcript-new-super-fast-mri-technique-singing-if-i-only
+tags:
+- mri-technology
+title: Mri Technology Advancements
+type: topic
 updated: 2026-05-04
 ---
 

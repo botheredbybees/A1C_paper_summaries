@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Trauma-Focused Strategies"
 confidence: low
-tags: ["trauma-focused-strategies"]
+domain: intervention
+slug: trauma-focused-strategies
 sources:
-  - fxa303-week04-autism-spectrum-disorder-the-impact-of-stressful-and
+- fxa303-week04-autism-spectrum-disorder-the-impact-of-stressful-and
+tags:
+- trauma-focused-strategies
+title: Trauma-Focused Strategies
+type: topic
 updated: 2026-05-04
 ---
 

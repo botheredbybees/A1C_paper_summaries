@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Project Brief Components"
 confidence: low
-tags: ["project-brief-components"]
+domain: method
+slug: project-brief-components
 sources:
-  - fxa301-arts-in-health-ch43-1-collaborative-design
+- fxa301-arts-in-health-ch43-1-collaborative-design
+tags:
+- project-brief-components
+title: Project Brief Components
+type: topic
 updated: 2026-05-04
 ---
 

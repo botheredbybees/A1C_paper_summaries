@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Phototherapy and Therapeutic Photography"
 confidence: low
-tags: ["research-methodologies"]
+domain: method
+slug: phototherapy-and-therapeutic-photography
 sources:
-  - fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography
+- fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography
+tags:
+- research-methodologies
+title: Phototherapy and Therapeutic Photography
+type: topic
 updated: 2026-05-04
 ---
 

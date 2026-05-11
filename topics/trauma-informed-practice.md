@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Trauma-Informed Practice"
 confidence: medium
-tags: ["trauma-informed-practice"]
+domain: intervention
+slug: trauma-informed-practice
 sources:
   - fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts
   - fxa303-week09-lesson-fxa303-week09-activities
   - fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design
-updated: 2026-05-04
+- fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts
+- fxa303-week09-lesson-fxa303-week09-activities
+- fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design
+tags:
+- trauma-informed-practice
+title: Trauma-Informed Practice
+type: topic
+updated: 2026-05-11
 ---
 
 ## Trauma-Informed Practice

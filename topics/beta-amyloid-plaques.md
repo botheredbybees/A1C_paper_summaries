@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Beta-Amyloid Plaques in Alzheimer's Disease"
 confidence: medium
-tags: ["beta-amyloid-plaques"]
+domain: intervention
+slug: beta-amyloid-plaques-in-alzheimer-s-disease
 sources:
-  - fxa100-week01-transcript-what-is-alzheimers-disease-ivan-seah-yu-jun
-  - fxa100-week01-what-is-alzheimers-disease-video-transcript
+- fxa100-week01-transcript-what-is-alzheimers-disease-ivan-seah-yu-jun
+- fxa100-week01-what-is-alzheimers-disease-video-transcript
+tags:
+- beta-amyloid-plaques
+title: Beta-Amyloid Plaques in Alzheimer's Disease
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Self-Acceptance"
 confidence: low
-tags: ["self-acceptance"]
+domain: intervention
+slug: self-acceptance
 sources:
-  - fxa202-week06-donna-a-photo-essay
+- fxa202-week06-donna-a-photo-essay
+tags:
+- self-acceptance
+title: Self-Acceptance
+type: topic
 updated: 2026-05-04
 ---
 

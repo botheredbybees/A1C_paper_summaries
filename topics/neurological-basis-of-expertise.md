@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Neurological Basis of Expertise"
 confidence: low
-tags: ["neurological-basis-of-expertise"]
+domain: intervention
+slug: neurological-basis-of-expertise
 sources:
-  - fxa100-week06-brain-activities-in-a-skilled-versus-a-novice-artist-an
+- fxa100-week06-brain-activities-in-a-skilled-versus-a-novice-artist-an
+tags:
+- neurological-basis-of-expertise
+title: Neurological Basis of Expertise
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,14 +1,20 @@
 ---
-type: topic
-domain: "intervention"
-title: "Art Therapy in Patient Care"
 confidence: medium
-tags: ["patient-care"]
+domain: intervention
+slug: art-therapy-in-patient-care
 sources:
+  - fxa100-week11-moving-from-problem-to-potential-dance-and-wellness-in-us
   - fxa301-week03-art-for-better-health-and-wellbeing
   - fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our
   - fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple
-updated: 2026-05-04
+- fxa301-week03-art-for-better-health-and-wellbeing
+- fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our
+- fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple
+tags:
+- patient-care
+title: Art Therapy in Patient Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Art Therapy in Patient Care
@@ -27,6 +33,7 @@ The integration of art therapy into patient care emerges as a multifaceted inter
 
 ## Sources
 
+- [fxa100-week11-moving-from-problem-to-potential-dance-and-wellness-in-us](../sources/fxa100-week11-moving-from-problem-to-potential-dance-and-wellness-in-us.md)
 - [fxa301-week03-art-for-better-health-and-wellbeing](../sources/fxa301-week03-art-for-better-health-and-wellbeing.md)
 - [fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our](../sources/fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our.md)
 - [fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple](../sources/fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple.md)

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Bespoke Projects in Arts and Healthcare"
 confidence: low
-tags: ["bespoke-projects"]
+domain: intervention
+slug: bespoke-projects-in-arts-and-healthcare
 sources:
-  - fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment
+- fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment
+tags:
+- bespoke-projects
+title: Bespoke Projects in Arts and Healthcare
+type: topic
 updated: 2026-05-04
 ---
 

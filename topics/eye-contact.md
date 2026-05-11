@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Eye Contact in Puppet Manipulation"
 confidence: low
-tags: ["eye-contact"]
+domain: method
+slug: eye-contact-in-puppet-manipulation
 sources:
-  - fxa303-week06-developing-excellence-in-puppet-manipulation
+- fxa303-week06-developing-excellence-in-puppet-manipulation
+tags:
+- eye-contact
+title: Eye Contact in Puppet Manipulation
+type: topic
 updated: 2026-05-04
 ---
 

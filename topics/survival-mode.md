@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Survival Mode in Therapeutic Settings"
 confidence: low
-tags: ["survival-mode"]
+domain: intervention
+slug: survival-mode-in-therapeutic-settings
 sources:
-  - fxa202-week09-healing-through-art-and-music
+- fxa202-week09-healing-through-art-and-music
+tags:
+- survival-mode
+title: Survival Mode in Therapeutic Settings
+type: topic
 updated: 2026-05-04
 ---
 

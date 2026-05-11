@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cognitive Fluctuations"
 confidence: low
-tags: ["cognitive-fluctuations"]
+domain: intervention
+slug: cognitive-fluctuations
 sources:
-  - fxa100-week08-art-and-alzheimer-type-dementia-a-longitudinal-study
+- fxa100-week08-art-and-alzheimer-type-dementia-a-longitudinal-study
+tags:
+- cognitive-fluctuations
+title: Cognitive Fluctuations
+type: topic
 updated: 2026-05-04
 ---
 

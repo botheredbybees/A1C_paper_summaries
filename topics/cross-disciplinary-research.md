@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "The Role Of Music In Adolescent Development"
 confidence: low
-tags: ["cross-disciplinary-research"]
+domain: intervention
+slug: the-role-of-music-in-adolescent-development
 sources:
-  - fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than
+- fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than
+tags:
+- cross-disciplinary-research
+title: The Role Of Music In Adolescent Development
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Community Value of Experience"
 confidence: low
-tags: ["community-value-of-experience"]
+domain: intervention
+slug: community-value-of-experience
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six
+- fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six
+tags:
+- community-value-of-experience
+title: Community Value of Experience
+type: topic
 updated: 2026-05-04
 ---
 

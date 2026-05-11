@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Participatory Action Research"
 confidence: low
-tags: ["participatory-action-research"]
+domain: method
+slug: participatory-action-research
 sources:
-  - fxa100-how-we-thnk-about-dementia-ch05-chapter-11
+- fxa100-how-we-thnk-about-dementia-ch05-chapter-11
+tags:
+- participatory-action-research
+title: Participatory Action Research
+type: topic
 updated: 2026-05-04
 ---
 

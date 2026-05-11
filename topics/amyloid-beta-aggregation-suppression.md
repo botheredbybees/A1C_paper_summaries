@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Amyloid-Beta Aggregation Suppression"
 confidence: low
-tags: ["amyloid-beta-aggregation-suppression"]
+domain: intervention
+slug: amyloid-beta-aggregation-suppression
 sources:
-  - fxa100-week01-unveiling-the-therapeutic-potential-of-natural-products-in
+- fxa100-week01-unveiling-the-therapeutic-potential-of-natural-products-in
+tags:
+- amyloid-beta-aggregation-suppression
+title: Amyloid-Beta Aggregation Suppression
+type: topic
 updated: 2026-05-04
 ---
 

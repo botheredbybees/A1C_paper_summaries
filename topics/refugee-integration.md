@@ -1,12 +1,16 @@
 ---
-type: topic
-domain: "intervention"
-title: "Refugee Integration"
 confidence: low
-tags: ["refugee-integration"]
+domain: intervention
+slug: refugee-integration
 sources:
-  - fxa303-week10-arts-and-refugees-multidisciplinary-perspectives-vol-2
-updated: 2026-05-04
+  - fxa301-week11-week-11-lecture-arts-and-social-inclusion
+  - fxa303-week10-yesterday-i-couldnt-see-tomorrows-sun-shines-now-sharing
+- fxa303-week10-arts-and-refugees-multidisciplinary-perspectives-vol-2
+tags:
+- refugee-integration
+title: Refugee Integration
+type: topic
+updated: 2026-05-11
 ---
 
 ## Refugee Integration
@@ -25,4 +29,5 @@ The topic of refugee integration is explored through a multidisciplinary lens in
 
 ## Sources
 
-- [fxa303-week10-arts-and-refugees-multidisciplinary-perspectives-vol-2](../sources/fxa303-week10-arts-and-refugees-multidisciplinary-perspectives-vol-2.md)
+- [fxa301-week11-week-11-lecture-arts-and-social-inclusion](../sources/fxa301-week11-week-11-lecture-arts-and-social-inclusion.md)
+- [fxa303-week10-yesterday-i-couldnt-see-tomorrows-sun-shines-now-sharing](../sources/fxa303-week10-yesterday-i-couldnt-see-tomorrows-sun-shines-now-sharing.md)

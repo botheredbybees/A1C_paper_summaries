@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Neurotransmitter Pathways in Mental Health"
 confidence: low
-tags: ["neurotransmitter-pathways"]
+domain: intervention
+slug: neurotransmitter-pathways-in-mental-health
 sources:
-  - fxa303-week01-post-traumatic-stress-disorder-the-neurobiological-impact
+- fxa303-week01-post-traumatic-stress-disorder-the-neurobiological-impact
+tags:
+- neurotransmitter-pathways
+title: Neurotransmitter Pathways in Mental Health
+type: topic
 updated: 2026-05-04
 ---
 

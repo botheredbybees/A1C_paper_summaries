@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Individualized Care"
 confidence: low
-tags: ["individualized-care"]
+domain: intervention
+slug: individualized-care
 sources:
-  - fxa100-excellence-in-dementia-care--ch11-chapter-17
+- fxa100-excellence-in-dementia-care--ch11-chapter-17
+tags:
+- individualized-care
+title: Individualized Care
+type: topic
 updated: 2026-05-04
 ---
 

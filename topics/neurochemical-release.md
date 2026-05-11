@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Neurochemical Release in Creative Arts Therapy"
 confidence: low
-tags: ["neurochemical-release"]
+domain: intervention
+slug: neurochemical-release-in-creative-arts-therapy
 sources:
-  - fxa301-week10-lesson-fxa301-week10-page-1
+- fxa301-week10-lesson-fxa301-week10-page-1
+tags:
+- neurochemical-release
+title: Neurochemical Release in Creative Arts Therapy
+type: topic
 updated: 2026-05-04
 ---
 

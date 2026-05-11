@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Discrimination Experience Among Youth"
 confidence: low
-tags: ["discrimination-experience"]
+domain: population
+slug: discrimination-experience-among-youth
 sources:
-  - fxa303-week03-youth-survey-report-2024
+- fxa303-week03-youth-survey-report-2024
+tags:
+- discrimination-experience
+title: Discrimination Experience Among Youth
+type: topic
 updated: 2026-05-04
 ---
 

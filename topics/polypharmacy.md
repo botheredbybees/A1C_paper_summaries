@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Polypharmacy and Patient Outcomes"
 confidence: low
-tags: ["polypharmacy"]
+domain: intervention
+slug: polypharmacy-and-patient-outcomes
 sources:
-  - fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia
+- fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia
+tags:
+- polypharmacy
+title: Polypharmacy and Patient Outcomes
+type: topic
 updated: 2026-05-04
 ---
 

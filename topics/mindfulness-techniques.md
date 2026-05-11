@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Mindfulness Techniques"
 confidence: medium
-tags: ["mindfulness-techniques"]
+domain: intervention
+slug: mindfulness-techniques
 sources:
   - fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using
   - fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay
-updated: 2026-05-04
+- fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using
+- fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay
+tags:
+- mindfulness-techniques
+title: Mindfulness Techniques
+type: topic
+updated: 2026-05-11
 ---
 
 ## Mindfulness Techniques

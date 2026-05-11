@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts Engagement for People with Dementia"
 confidence: low
-tags: ["healthcare-intervention"]
+domain: intervention
+slug: arts-engagement-for-people-with-dementia
 sources:
-  - fxa100-week07-arts-engagement-for-people-with-dementia-independent
+- fxa100-week07-arts-engagement-for-people-with-dementia-independent
+tags:
+- healthcare-intervention
+title: Arts Engagement for People with Dementia
+type: topic
 updated: 2026-05-04
 ---
 

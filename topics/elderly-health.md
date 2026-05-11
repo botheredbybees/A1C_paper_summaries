@@ -1,15 +1,22 @@
 ---
-type: topic
-domain: "intervention"
-title: "Health Interventions for Elderly Adults"
 confidence: medium
-tags: ["elderly-health"]
+domain: intervention
+slug: health-interventions-for-elderly-adults
 sources:
   - fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia
+  - fxa100-week11-leisure-activities-and-the-risk-of-dementia-in-the-elderly
   - fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35
   - fxa301-week01-a-qualitative-investigation-of-older-adults
   - fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older
-updated: 2026-05-05
+- fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia
+- fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35
+- fxa301-week01-a-qualitative-investigation-of-older-adults
+- fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older
+tags:
+- elderly-health
+title: Health Interventions for Elderly Adults
+type: topic
+updated: 2026-05-11
 ---
 
 ## Health Interventions for Elderly Adults
@@ -29,6 +36,7 @@ The integration of health interventions aimed at elderly adults highlights both 
 ## Sources
 
 - [fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia](../sources/fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia.md)
+- [fxa100-week11-leisure-activities-and-the-risk-of-dementia-in-the-elderly](../sources/fxa100-week11-leisure-activities-and-the-risk-of-dementia-in-the-elderly.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35](../sources/fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35.md)
 - [fxa301-week01-a-qualitative-investigation-of-older-adults](../sources/fxa301-week01-a-qualitative-investigation-of-older-adults.md)
 - [fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older](../sources/fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older.md)

@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "theory"
-title: "Adolescent Neuroplasticity and Brain Development"
 confidence: medium
-tags: ["adolescent-neuroscience"]
+domain: theory
+slug: adolescent-neuroplasticity-and-brain-development
 sources:
   - fxa303-week03-adolescence-as-a-sensitive-period-of-brain-development
   - fxa303-week03-the-early-adolescent-brain-on-music-analysis-of-functional
-updated: 2026-05-04
+- fxa303-week03-adolescence-as-a-sensitive-period-of-brain-development
+- fxa303-week03-the-early-adolescent-brain-on-music-analysis-of-functional
+tags:
+- adolescent-neuroscience
+title: Adolescent Neuroplasticity and Brain Development
+type: topic
+updated: 2026-05-11
 ---
 
 ## Adolescent Neuroplasticity and Brain Development

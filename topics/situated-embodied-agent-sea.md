@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Situated Embodied Agent in Dementia"
 confidence: low
-tags: ["situated-embodied-agent-sea"]
+domain: theory
+slug: situated-embodied-agent-in-dementia
 sources:
-  - fxa100-how-we-thnk-about-dementia-ch08-chapter-4
+- fxa100-how-we-thnk-about-dementia-ch08-chapter-4
+tags:
+- situated-embodied-agent-sea
+title: Situated Embodied Agent in Dementia
+type: topic
 updated: 2026-05-04
 ---
 

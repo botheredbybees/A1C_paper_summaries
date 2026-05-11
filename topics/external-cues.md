@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "External Cues in Rehabilitation"
 confidence: low
-tags: ["external-cues"]
+domain: intervention
+slug: external-cues-in-rehabilitation
 sources:
-  - fxa301-week06-therapeutic-dancing-for-parkinsons-disease
+- fxa301-week06-therapeutic-dancing-for-parkinsons-disease
+tags:
+- external-cues
+title: External Cues in Rehabilitation
+type: topic
 updated: 2026-05-04
 ---
 

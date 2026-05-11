@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Long-Term Benefits of Arts in Health and Wellbeing"
 confidence: low
-tags: ["long-term-benefits"]
+domain: intervention
+slug: long-term-benefits-of-arts-in-health-and-wellbeing
 sources:
-  - fxa301-week03-arts-health-and-wellbeing-evidence-and-implications
+- fxa301-week03-arts-health-and-wellbeing-evidence-and-implications
+tags:
+- long-term-benefits
+title: Long-Term Benefits of Arts in Health and Wellbeing
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Shared Participation in Music Therapy"
 confidence: low
-tags: ["shared-participation"]
+domain: intervention
+slug: shared-participation-in-music-therapy
 sources:
-  - fxa100-week04-the-ripple-effect-towards-researching-improvisational-music
+- fxa100-week04-the-ripple-effect-towards-researching-improvisational-music
+tags:
+- shared-participation
+title: Shared Participation in Music Therapy
+type: topic
 updated: 2026-05-04
 ---
 

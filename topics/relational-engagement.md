@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Relational Engagement"
 confidence: low
-tags: ["relational-engagement"]
+domain: intervention
+slug: relational-engagement
 sources:
-  - fxa100-week03-music-therapy-for-depression-it-seems-to-work-but-how
+- fxa100-week03-music-therapy-for-depression-it-seems-to-work-but-how
+tags:
+- relational-engagement
+title: Relational Engagement
+type: topic
 updated: 2026-05-04
 ---
 

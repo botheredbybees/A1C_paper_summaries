@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Cultural Myths and Legends"
 confidence: low
-tags: ["cultural-myths-and-legends"]
+domain: theory
+slug: cultural-myths-and-legends
 sources:
-  - fxa303-week05-transcript-duration-5-34
+- fxa303-week05-transcript-duration-5-34
+tags:
+- cultural-myths-and-legends
+title: Cultural Myths and Legends
+type: topic
 updated: 2026-05-04
 ---
 

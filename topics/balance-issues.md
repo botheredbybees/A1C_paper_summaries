@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Balance Issues in Dementia Patients"
 confidence: low
-tags: ["balance-issues"]
+domain: intervention
+slug: balance-issues-in-dementia-patients
 sources:
-  - fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia
+- fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia
+tags:
+- balance-issues
+title: Balance Issues in Dementia Patients
+type: topic
 updated: 2026-05-04
 ---
 

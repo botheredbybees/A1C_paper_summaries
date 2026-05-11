@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Historical Architecture of Public Baths"
 confidence: low
-tags: ["historical-architecture"]
+domain: intervention
+slug: historical-architecture-of-public-baths
 sources:
-  - fxa202-week10-the-storm-shifting-south-reflections-on-public-baths-in
+- fxa202-week10-the-storm-shifting-south-reflections-on-public-baths-in
+tags:
+- historical-architecture
+title: Historical Architecture of Public Baths
+type: topic
 updated: 2026-05-04
 ---
 

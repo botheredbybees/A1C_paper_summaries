@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "The Transformative Power of Theatre"
 confidence: low
-tags: ["transformative-power-of-theatre"]
+domain: intervention
+slug: the-transformative-power-of-theatre
 sources:
-  - fxa100-week09-applied-theatre-problems-and-possibilities
+- fxa100-week09-applied-theatre-problems-and-possibilities
+tags:
+- transformative-power-of-theatre
+title: The Transformative Power of Theatre
+type: topic
 updated: 2026-05-04
 ---
 

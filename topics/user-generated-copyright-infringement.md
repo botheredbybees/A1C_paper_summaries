@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "User-Generated Copyright Infringement"
 confidence: low
-tags: ["user-generated-copyright-infringement"]
+domain: intervention
+slug: user-generated-copyright-infringement
 sources:
-  - fxa202-week10-websites-social-networks-blogs-user-generated-content
+- fxa202-week10-websites-social-networks-blogs-user-generated-content
+tags:
+- user-generated-copyright-infringement
+title: User-Generated Copyright Infringement
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "State-Of-Arousal Theory"
 confidence: low
-tags: ["state-of-arousal-theory"]
+domain: theory
+slug: state-of-arousal-theory
 sources:
-  - fxa301-week06-does-music-help-us-work-better-it-depends
+- fxa301-week06-does-music-help-us-work-better-it-depends
+tags:
+- state-of-arousal-theory
+title: State-Of-Arousal Theory
+type: topic
 updated: 2026-05-04
 ---
 

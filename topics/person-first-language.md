@@ -1,14 +1,16 @@
 ---
-type: topic
-domain: "theory"
-title: "Person-First Language"
 confidence: high
-tags: ["person-first-language"]
+domain: theory
+slug: person-first-language
 sources:
-  - fxa100-week04-a-guide-to-dementia-friendly-language
-  - fxa100-week04-dementia-language-guidelines
-  - fxa100-week04-dementia-words-matter-guidelines-on-language-about-dementia
-  - fxa301-week09-pwda-language-guide-a-guide-to-language-about-disability
+- fxa100-week04-a-guide-to-dementia-friendly-language
+- fxa100-week04-dementia-language-guidelines
+- fxa100-week04-dementia-words-matter-guidelines-on-language-about-dementia
+- fxa301-week09-pwda-language-guide-a-guide-to-language-about-disability
+tags:
+- person-first-language
+title: Person-First Language
+type: topic
 updated: 2026-05-04
 ---
 

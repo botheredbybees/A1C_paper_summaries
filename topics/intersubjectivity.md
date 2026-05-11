@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Intersubjectivity"
 confidence: low
-tags: ["intersubjectivity"]
+domain: theory
+slug: intersubjectivity
 sources:
-  - fxa100-week09-the-experience-of-dementia
+- fxa100-week09-the-experience-of-dementia
+tags:
+- intersubjectivity
+title: Intersubjectivity
+type: topic
 updated: 2026-05-04
 ---
 

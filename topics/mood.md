@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Mood in Psychological Research"
 confidence: low
-tags: ["mood"]
+domain: theory
+slug: mood-in-psychological-research
 sources:
-  - fxa301-week02-the-emerging-field-of-affective-science
+- fxa301-week02-the-emerging-field-of-affective-science
+tags:
+- mood
+title: Mood in Psychological Research
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Inhibitory Control"
 confidence: low
-tags: ["inhibitory-control"]
+domain: intervention
+slug: inhibitory-control
 sources:
-  - fxa100-week01-what-is-frontotemporal-dementia
+- fxa100-week01-what-is-frontotemporal-dementia
+tags:
+- inhibitory-control
+title: Inhibitory Control
+type: topic
 updated: 2026-05-04
 ---
 

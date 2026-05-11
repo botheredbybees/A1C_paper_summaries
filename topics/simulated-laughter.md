@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Simulated Laughter"
 confidence: low
-tags: ["simulated-laughter"]
+domain: intervention
+slug: simulated-laughter
 sources:
-  - fxa301-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
+- fxa301-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
+tags:
+- simulated-laughter
+title: Simulated Laughter
+type: topic
 updated: 2026-05-04
 ---
 

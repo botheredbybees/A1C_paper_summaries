@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Patient Characteristics in Music Therapy"
 confidence: low
-tags: ["patient-characteristics"]
+domain: population
+slug: patient-characteristics-in-music-therapy
 sources:
-  - fxa100-week03-music-therapy-increases-social-and-emotional-well-being-in
+- fxa100-week03-music-therapy-increases-social-and-emotional-well-being-in
+tags:
+- patient-characteristics
+title: Patient Characteristics in Music Therapy
+type: topic
 updated: 2026-05-04
 ---
 

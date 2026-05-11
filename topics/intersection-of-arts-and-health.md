@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Intersection of Arts and Health"
 confidence: low
-tags: ["intersection-of-arts-and-health"]
+domain: intervention
+slug: intersection-of-arts-and-health
 sources:
-  - fxa202-week10-arts-health-and-well-being-a-critical-perspective-on
+- fxa202-week10-arts-health-and-well-being-a-critical-perspective-on
+tags:
+- intersection-of-arts-and-health
+title: Intersection of Arts and Health
+type: topic
 updated: 2026-05-04
 ---
 

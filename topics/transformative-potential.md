@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Transformative Potential in Disability Studies"
 confidence: low
-tags: ["transformative-potential"]
+domain: theory
+slug: transformative-potential-in-disability-studies
 sources:
-  - fxa303-week04-exploring-the-critiques-of-the-social-model-of-disability
+- fxa303-week04-exploring-the-critiques-of-the-social-model-of-disability
+tags:
+- transformative-potential
+title: Transformative Potential in Disability Studies
+type: topic
 updated: 2026-05-04
 ---
 

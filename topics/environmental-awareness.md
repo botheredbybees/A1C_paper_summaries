@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Environmental Awareness Through Photography and Cultural Initiatives"
 confidence: medium
-tags: ["environmental-awareness"]
+domain: intervention
+slug: environmental-awareness-through-photography-and-cultural-initiatives
 sources:
   - fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay
   - fxa301-week05-happy-museum-learning-evaluation-report
-updated: 2026-05-04
+- fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay
+- fxa301-week05-happy-museum-learning-evaluation-report
+tags:
+- environmental-awareness
+title: Environmental Awareness Through Photography and Cultural Initiatives
+type: topic
+updated: 2026-05-11
 ---
 
 ## Environmental Awareness Through Photography and Cultural Initiatives

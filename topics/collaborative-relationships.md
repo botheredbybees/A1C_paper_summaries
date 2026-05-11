@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Collaborative Relationships in Healthcare"
 confidence: low
-tags: ["collaborative-relationships"]
+domain: intervention
+slug: collaborative-relationships-in-healthcare
 sources:
-  - fxa301-week03-national-arts-and-health-framework
+- fxa301-week03-national-arts-and-health-framework
+tags:
+- collaborative-relationships
+title: Collaborative Relationships in Healthcare
+type: topic
 updated: 2026-05-04
 ---
 

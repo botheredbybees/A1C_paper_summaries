@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Street Dance Survey"
 confidence: low
-tags: ["street-dance-survey"]
+domain: method
+slug: street-dance-survey
 sources:
-  - fxa301-week01-web-article-mcgann-2024
+- fxa301-week01-web-article-mcgann-2024
+tags:
+- street-dance-survey
+title: Street Dance Survey
+type: topic
 updated: 2026-05-04
 ---
 

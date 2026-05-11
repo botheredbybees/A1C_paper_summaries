@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Musical Memories"
 confidence: medium
-tags: ["musical-memories"]
+domain: intervention
+slug: musical-memories
 sources:
-  - fxa100-week02-introduction-to-week-2-music-and-the-brain
-  - fxa100-week03-listening-and-dementia-care
+- fxa100-week02-introduction-to-week-2-music-and-the-brain
+- fxa100-week03-listening-and-dementia-care
+tags:
+- musical-memories
+title: Musical Memories
+type: topic
 updated: 2026-05-04
 ---
 

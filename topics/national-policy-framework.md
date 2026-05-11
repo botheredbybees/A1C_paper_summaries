@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "National Arts and Health Policy Framework"
 confidence: low
-tags: ["national-policy-framework"]
+domain: intervention
+slug: national-arts-and-health-policy-framework
 sources:
-  - fxa301-week03-developing-a-national-arts-and-health-policy-framework
+- fxa301-week03-developing-a-national-arts-and-health-policy-framework
+tags:
+- national-policy-framework
+title: National Arts and Health Policy Framework
+type: topic
 updated: 2026-05-04
 ---
 

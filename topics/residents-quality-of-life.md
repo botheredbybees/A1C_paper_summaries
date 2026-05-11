@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Residents' Quality Of Life"
 confidence: low
-tags: ["residents-quality-of-life"]
+domain: intervention
+slug: residents-quality-of-life
 sources:
-  - fxa100-week03-implementation-survey-results-phase-iii-music-memory-program
+- fxa100-week03-implementation-survey-results-phase-iii-music-memory-program
+tags:
+- residents-quality-of-life
+title: Residents' Quality Of Life
+type: topic
 updated: 2026-05-04
 ---
 

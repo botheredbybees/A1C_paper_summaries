@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Virtual Puppet Play Therapy"
 confidence: low
-tags: ["symbolic-projection"]
+domain: intervention
+slug: virtual-puppet-play-therapy
 sources:
-  - fxa303-week06-virtual-puppet-play-therapy
+- fxa303-week06-virtual-puppet-play-therapy
+tags:
+- symbolic-projection
+title: Virtual Puppet Play Therapy
+type: topic
 updated: 2026-05-04
 ---
 

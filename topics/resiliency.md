@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Resiliency"
 confidence: low
-tags: ["resiliency"]
+domain: theory
+slug: resiliency
 sources:
-  - fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and
+- fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and
+tags:
+- resiliency
+title: Resiliency
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Language Choice in Mental Health Recovery"
 confidence: low
-tags: ["language-choice"]
+domain: intervention
+slug: language-choice-in-mental-health-recovery
 sources:
-  - fxa303-week09-recovery-oriented-language-guide
+- fxa303-week09-recovery-oriented-language-guide
+tags:
+- language-choice
+title: Language Choice in Mental Health Recovery
+type: topic
 updated: 2026-05-04
 ---
 

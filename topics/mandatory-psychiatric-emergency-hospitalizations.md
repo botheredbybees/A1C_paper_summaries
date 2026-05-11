@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Mandatory Psychiatric Emergency Hospitalizations"
 confidence: low
-tags: ["mandatory-psychiatric-emergency-hospitalizations"]
+domain: intervention
+slug: mandatory-psychiatric-emergency-hospitalizations
 sources:
-  - fxa303-week09-the-impact-of-the-great-east-japan-earthquake-on-mandatory
+- fxa303-week09-the-impact-of-the-great-east-japan-earthquake-on-mandatory
+tags:
+- mandatory-psychiatric-emergency-hospitalizations
+title: Mandatory Psychiatric Emergency Hospitalizations
+type: topic
 updated: 2026-05-04
 ---
 

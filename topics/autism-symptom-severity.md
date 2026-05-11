@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Autism Symptom Severity"
 confidence: low
-tags: ["autism-symptom-severity"]
+domain: intervention
+slug: autism-symptom-severity
 sources:
-  - fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between
+- fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between
+tags:
+- autism-symptom-severity
+title: Autism Symptom Severity
+type: topic
 updated: 2026-05-04
 ---
 

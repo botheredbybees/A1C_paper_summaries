@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Ease-of-use And Powerful Features In Photo Editing Applications"
 confidence: low
-tags: ["ease-of-use-and-powerful-features"]
+domain: method
+slug: ease-of-use-and-powerful-features-in-photo-editing-applications
 sources:
-  - fxa202-week02-a-beginners-guide-to-photo-editing-with-snapseed
+- fxa202-week02-a-beginners-guide-to-photo-editing-with-snapseed
+tags:
+- ease-of-use-and-powerful-features
+title: Ease-of-use And Powerful Features In Photo Editing Applications
+type: topic
 updated: 2026-05-04
 ---
 

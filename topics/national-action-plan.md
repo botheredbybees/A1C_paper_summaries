@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "National Action Plan for Dementia"
 confidence: low
-tags: ["national-action-plan"]
+domain: intervention
+slug: national-action-plan-for-dementia
 sources:
-  - fxa100-week01-dementia-in-australia
+- fxa100-week01-dementia-in-australia
+tags:
+- national-action-plan
+title: National Action Plan for Dementia
+type: topic
 updated: 2026-05-04
 ---
 

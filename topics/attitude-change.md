@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Attitude Change"
 confidence: low
-tags: ["attitude-change"]
+domain: intervention
+slug: attitude-change
 sources:
-  - fxa303-week05-puppet-as-a-pedagogical-tool-a-literature-review
+- fxa303-week05-puppet-as-a-pedagogical-tool-a-literature-review
+tags:
+- attitude-change
+title: Attitude Change
+type: topic
 updated: 2026-05-04
 ---
 

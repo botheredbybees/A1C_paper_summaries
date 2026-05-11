@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Family Systems Theory"
 confidence: low
-tags: ["family-systems-theory"]
+domain: theory
+slug: family-systems-theory
 sources:
-  - fxa202-therapeutic-photography-ch01-chapter-10
+- fxa202-therapeutic-photography-ch01-chapter-10
+tags:
+- family-systems-theory
+title: Family Systems Theory
+type: topic
 updated: 2026-05-04
 ---
 

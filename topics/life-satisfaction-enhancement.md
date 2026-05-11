@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Life Satisfaction Enhancement"
 confidence: low
-tags: ["life-satisfaction-enhancement"]
+domain: intervention
+slug: life-satisfaction-enhancement
 sources:
-  - fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients
+- fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients
+tags:
+- life-satisfaction-enhancement
+title: Life Satisfaction Enhancement
+type: topic
 updated: 2026-05-04
 ---
 

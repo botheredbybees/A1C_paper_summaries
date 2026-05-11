@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Pictorial Complexity"
 confidence: low
-tags: ["pictorial-complexity"]
+domain: theory
+slug: pictorial-complexity
 sources:
-  - fxa100-week08-art-and-alzheimer-type-dementia-a-longitudinal-study
+- fxa100-week08-art-and-alzheimer-type-dementia-a-longitudinal-study
+tags:
+- pictorial-complexity
+title: Pictorial Complexity
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Expressive Therapies Continuum"
 confidence: low
-tags: ["expressive-therapies-continuum-etc"]
+domain: intervention
+slug: expressive-therapies-continuum
 sources:
-  - fxa303-week06-art-therapy-with-puppet-making-to-promote-emotional-empathy
+- fxa303-week06-art-therapy-with-puppet-making-to-promote-emotional-empathy
+tags:
+- expressive-therapies-continuum-etc
+title: Expressive Therapies Continuum
+type: topic
 updated: 2026-05-04
 ---
 

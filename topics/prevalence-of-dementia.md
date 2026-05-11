@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Prevalence Of Dementia"
 confidence: low
-tags: ["prevalence-of-dementia"]
+domain: population
+slug: prevalence-of-dementia
 sources:
-  - fxa100-week07-prevalence-of-dementia-in-urban-and-regional-aboriginal
+- fxa100-week07-prevalence-of-dementia-in-urban-and-regional-aboriginal
+tags:
+- prevalence-of-dementia
+title: Prevalence Of Dementia
+type: topic
 updated: 2026-05-04
 ---
 

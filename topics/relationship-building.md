@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Relationship-Building in Ethnomusicology"
 confidence: low
-tags: ["relationship-building"]
+domain: intervention
+slug: relationship-building-in-ethnomusicology
 sources:
-  - fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts
+- fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts
+tags:
+- relationship-building
+title: Relationship-Building in Ethnomusicology
+type: topic
 updated: 2026-05-04
 ---
 

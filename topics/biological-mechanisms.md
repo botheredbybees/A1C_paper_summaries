@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Biological Mechanisms of Music Therapy"
 confidence: low
-tags: ["biological-mechanisms"]
+domain: intervention
+slug: biological-mechanisms-of-music-therapy
 sources:
-  - fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism
+- fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism
+tags:
+- biological-mechanisms
+title: Biological Mechanisms of Music Therapy
+type: topic
 updated: 2026-05-04
 ---
 

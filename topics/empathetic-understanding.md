@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Empathetic Understanding"
 confidence: low
-tags: ["empathetic-understanding"]
+domain: theory
+slug: empathetic-understanding
 sources:
-  - fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what
+- fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what
+tags:
+- empathetic-understanding
+title: Empathetic Understanding
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "method"
-title: "Functional Brain Connectivity"
 confidence: medium
-tags: ["functional-brain-connectivity"]
+domain: method
+slug: functional-brain-connectivity
 sources:
-  - fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual
-  - fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between
+- fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual
+- fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between
+tags:
+- functional-brain-connectivity
+title: Functional Brain Connectivity
+type: topic
 updated: 2026-05-04
 ---
 

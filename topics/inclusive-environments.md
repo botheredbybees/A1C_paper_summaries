@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Inclusive Environments for Dementia"
 confidence: medium
-tags: ["inclusive-environments"]
+domain: intervention
+slug: inclusive-environments-for-dementia
 sources:
-  - fxa100-excellence-in-dementia-care--ch35-1-understand-that-any-business
-  - fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people
+- fxa100-excellence-in-dementia-care--ch35-1-understand-that-any-business
+- fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people
+tags:
+- inclusive-environments
+title: Inclusive Environments for Dementia
+type: topic
 updated: 2026-05-04
 ---
 

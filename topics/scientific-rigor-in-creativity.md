@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Scientific Rigor in Creativity"
 confidence: low
-tags: ["scientific-rigor-in-creativity"]
+domain: method
+slug: scientific-rigor-in-creativity
 sources:
-  - fxa100-week04-a-step-by-step-approach-to-the-research-process
+- fxa100-week04-a-step-by-step-approach-to-the-research-process
+tags:
+- scientific-rigor-in-creativity
+title: Scientific Rigor in Creativity
+type: topic
 updated: 2026-05-04
 ---
 

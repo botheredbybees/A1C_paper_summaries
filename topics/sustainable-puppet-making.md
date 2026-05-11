@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sustainable Puppet Making"
 confidence: low
-tags: ["sustainable-puppet-making"]
+domain: intervention
+slug: sustainable-puppet-making
 sources:
-  - fxa303-week06-lesson-fxa303-week06-page-1-overview
+- fxa303-week06-lesson-fxa303-week06-page-1-overview
+tags:
+- sustainable-puppet-making
+title: Sustainable Puppet Making
+type: topic
 updated: 2026-05-04
 ---
 

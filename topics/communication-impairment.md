@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music Therapy"
 confidence: low
-tags: ["communication-impairment"]
+domain: intervention
+slug: music-therapy
 sources:
-  - fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees
+- fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees
+tags:
+- communication-impairment
+title: Music Therapy
+type: topic
 updated: 2026-05-04
 ---
 

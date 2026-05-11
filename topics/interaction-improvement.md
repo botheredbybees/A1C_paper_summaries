@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Living Room Theatre for Dementia Interaction Improvement"
 confidence: low
-tags: ["interaction-improvement"]
+domain: intervention
+slug: living-room-theatre-for-dementia-interaction-improvement
 sources:
-  - fxa100-week09-implementing-living-room-theatre-activities-for-people-with-(2)
+- fxa100-week09-implementing-living-room-theatre-activities-for-people-with-(2)
+tags:
+- interaction-improvement
+title: Living Room Theatre for Dementia Interaction Improvement
+type: topic
 updated: 2026-05-04
 ---
 

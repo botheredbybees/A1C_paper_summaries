@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "method"
-title: "Photo Essays"
 confidence: medium
-tags: ["photo-essay"]
+domain: method
+slug: photo-essays
 sources:
   - fxa202-week01-lesson-fxa202-week01-chapter-3-what-is-a-photo-essay
   - fxa202-week02-welcome-to-week-2-using-your-camera
@@ -20,7 +18,26 @@ sources:
   - fxa202-week09-reflection-on-creating-a-photo-essay-about-breast-cancer
   - fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay
   - fxa202-week10-fxa202-week-10-web-lecture
-updated: 2026-05-05
+- fxa202-week01-lesson-fxa202-week01-chapter-3-what-is-a-photo-essay
+- fxa202-week02-welcome-to-week-2-using-your-camera
+- fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling
+- fxa202-week06-critical-reflection-of-the-development-of-the-finding-joy
+- fxa202-week06-lesson-fxa202-week06-page-4
+- fxa202-week06-lesson-fxa202-week06-week-6
+- fxa202-week06-winding-paths-a-photo-essay-on-emotional-health-during
+- fxa202-week08-lesson-fxa202-week08-page-2-editing-your-images
+- fxa202-week08-lesson-fxa202-week08-week-8
+- fxa202-week08-week-8-web-lecture-editing-your-images
+- fxa202-week09-fxa202-week-9-web-lecture-the-photo-essay-storytelling-with
+- fxa202-week09-lesson-fxa202-week09-chapter-3-creating-your-final-draft
+- fxa202-week09-reflection-on-creating-a-photo-essay-about-breast-cancer
+- fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay
+- fxa202-week10-fxa202-week-10-web-lecture
+tags:
+- photo-essay
+title: Photo Essays
+type: topic
+updated: 2026-05-11
 ---
 
 ## Photo Essays

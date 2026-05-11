@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Brightness in Visual Communication"
 confidence: low
-tags: ["brightness"]
+domain: method
+slug: brightness-in-visual-communication
 sources:
-  - fxa202-week02-lesson-fxa202-week02-page-3
+- fxa202-week02-lesson-fxa202-week02-page-3
+tags:
+- brightness
+title: Brightness in Visual Communication
+type: topic
 updated: 2026-05-04
 ---
 

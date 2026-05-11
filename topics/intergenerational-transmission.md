@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Intergenerational Transmission"
 confidence: low
-tags: ["intergenerational-transmission"]
+domain: theory
+slug: intergenerational-transmission
 sources:
-  - fxa202-week06-apples-never-fall
+- fxa202-week06-apples-never-fall
+tags:
+- intergenerational-transmission
+title: Intergenerational Transmission
+type: topic
 updated: 2026-05-04
 ---
 

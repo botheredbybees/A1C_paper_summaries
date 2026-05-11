@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "method"
-title: "Image Editing Techniques"
 confidence: medium
-tags: ["image-editing-techniques"]
+domain: method
+slug: image-editing-techniques
 sources:
-  - fxa202-week08-lesson-fxa202-week08-page-4
-  - fxa202-week08-week-8-lecture-notes-editing-your-images-(2)
+- fxa202-week08-lesson-fxa202-week08-page-4
+- fxa202-week08-week-8-lecture-notes-editing-your-images-(2)
+tags:
+- image-editing-techniques
+title: Image Editing Techniques
+type: topic
 updated: 2026-05-04
 ---
 

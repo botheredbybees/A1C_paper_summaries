@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Policy Advocacy for Health and Wellbeing"
 confidence: low
-tags: ["policy-advocacy"]
+domain: intervention
+slug: policy-advocacy-for-health-and-wellbeing
 sources:
-  - fxa301-week05-submission-to-the-nsw-health-and-wellbeing-strategy
+- fxa301-week05-submission-to-the-nsw-health-and-wellbeing-strategy
+tags:
+- policy-advocacy
+title: Policy Advocacy for Health and Wellbeing
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,13 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Behavioral and Psychological Symptoms in Dementia Care"
 confidence: medium
-tags: ["behavioral-symptoms"]
+domain: intervention
+slug: behavioral-and-psychological-symptoms-in-dementia-care
 sources:
   - fxa100-week09-dance-movement-therapy-for-dementia
+  - fxa100-week11-dance-and-movement-therapeutic-methods-in-management-of
+  - fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of
   - fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a
-updated: 2026-05-04
+- fxa100-week09-dance-movement-therapy-for-dementia
+- fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a
+tags:
+- behavioral-symptoms
+title: Behavioral and Psychological Symptoms in Dementia Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Behavioral and Psychological Symptoms in Dementia Care
@@ -28,4 +34,6 @@ Both sources explore non-pharmacological interventions for managing behavioral s
 ## Sources
 
 - [fxa100-week09-dance-movement-therapy-for-dementia](../sources/fxa100-week09-dance-movement-therapy-for-dementia.md)
+- [fxa100-week11-dance-and-movement-therapeutic-methods-in-management-of](../sources/fxa100-week11-dance-and-movement-therapeutic-methods-in-management-of.md)
+- [fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of](../sources/fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of.md)
 - [fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a](../sources/fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a.md)

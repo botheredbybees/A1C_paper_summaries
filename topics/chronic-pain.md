@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Chronic Pain Management"
 confidence: low
-tags: ["chronic-pain"]
+domain: intervention
+slug: chronic-pain-management
 sources:
-  - fxa202-week09-healing-through-art-and-music
+- fxa202-week09-healing-through-art-and-music
+tags:
+- chronic-pain
+title: Chronic Pain Management
+type: topic
 updated: 2026-05-04
 ---
 

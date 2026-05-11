@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Ableist Language in Communication About Disability"
 confidence: low
-tags: ["ableist-language"]
+domain: theory
+slug: ableist-language-in-communication-about-disability
 sources:
-  - fxa301-week09-pwda-language-guide-a-guide-to-language-about-disability
+- fxa301-week09-pwda-language-guide-a-guide-to-language-about-disability
+tags:
+- ableist-language
+title: Ableist Language in Communication About Disability
+type: topic
 updated: 2026-05-04
 ---
 

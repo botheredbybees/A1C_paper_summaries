@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Interventions for Elderly Wellness"
 confidence: medium
-tags: ["elderly-wellness"]
+domain: intervention
+slug: creative-interventions-for-elderly-wellness
 sources:
   - fxa100-week04-transcript-mind-song-music-for-dementia
   - fxa100-week06-how-creating-sculpture-benefits-people-with-dementia
   - fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january
-updated: 2026-05-04
+- fxa100-week04-transcript-mind-song-music-for-dementia
+- fxa100-week06-how-creating-sculpture-benefits-people-with-dementia
+- fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january
+tags:
+- elderly-wellness
+title: Creative Interventions for Elderly Wellness
+type: topic
+updated: 2026-05-11
 ---
 
 ## Creative Interventions for Elderly Wellness

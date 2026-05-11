@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Arts Therapies for PTSD"
 confidence: low
-tags: ["posttraumatic-stress-disorder-ptsd"]
+domain: intervention
+slug: creative-arts-therapies-for-ptsd
 sources:
-  - fxa301-week10-a-systematic-review-of-the-efficacy-of-creative-arts
+- fxa301-week10-a-systematic-review-of-the-efficacy-of-creative-arts
+tags:
+- posttraumatic-stress-disorder-ptsd
+title: Creative Arts Therapies for PTSD
+type: topic
 updated: 2026-05-04
 ---
 

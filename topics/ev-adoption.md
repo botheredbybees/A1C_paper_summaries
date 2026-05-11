@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Electric Vehicle Adoption"
 confidence: low
-tags: ["ev-adoption"]
+domain: intervention
+slug: electric-vehicle-adoption
 sources:
-  - fxa301-week10-web-article-drayton-2016
+- fxa301-week10-web-article-drayton-2016
+tags:
+- ev-adoption
+title: Electric Vehicle Adoption
+type: topic
 updated: 2026-05-04
 ---
 

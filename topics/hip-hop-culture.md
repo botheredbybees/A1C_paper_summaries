@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Hip-Hop Culture"
 confidence: low
-tags: ["hip-hop-culture"]
+domain: population
+slug: hip-hop-culture
 sources:
-  - fxa303-week10-diamonds-in-the-backyard-migrant-youth-and-hip-hop-in
+- fxa303-week10-diamonds-in-the-backyard-migrant-youth-and-hip-hop-in
+tags:
+- hip-hop-culture
+title: Hip-Hop Culture
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Temporal Synchrony in Brain Function"
 confidence: low
-tags: ["temporal-synchrony"]
+domain: method
+slug: temporal-synchrony-in-brain-function
 sources:
-  - fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between
+- fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between
+tags:
+- temporal-synchrony
+title: Temporal Synchrony in Brain Function
+type: topic
 updated: 2026-05-04
 ---
 

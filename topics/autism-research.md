@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "theory"
-title: "Autism Spectrum Disorders"
 confidence: medium
-tags: ["autism-research"]
+domain: theory
+slug: autism-spectrum-disorders
 sources:
   - fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on
   - fxa303-week04-neurobiology-of-autism-spectrum-disorders
-updated: 2026-05-04
+- fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on
+- fxa303-week04-neurobiology-of-autism-spectrum-disorders
+tags:
+- autism-research
+title: Autism Spectrum Disorders
+type: topic
+updated: 2026-05-11
 ---
 
 ## Autism Spectrum Disorders

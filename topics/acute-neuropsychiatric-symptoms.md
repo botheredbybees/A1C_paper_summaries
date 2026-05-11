@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Individualized Music-Based Intervention for Acute Neuropsychiatric Symptoms"
 confidence: low
-tags: ["acute-neuropsychiatric-symptoms"]
+domain: intervention
+slug: individualized-music-based-intervention-for-acute-neuropsychiatric-symptoms
 sources:
-  - fxa100-week03-an-individualized-music-based-intervention-for-acute
+- fxa100-week03-an-individualized-music-based-intervention-for-acute
+tags:
+- acute-neuropsychiatric-symptoms
+title: Individualized Music-Based Intervention for Acute Neuropsychiatric Symptoms
+type: topic
 updated: 2026-05-04
 ---
 

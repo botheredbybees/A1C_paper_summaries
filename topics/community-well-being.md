@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Community Well-being Through Creative Recovery"
 confidence: low
-tags: ["community-well-being"]
+domain: intervention
+slug: community-well-being-through-creative-recovery
 sources:
-  - fxa303-week09-the-afloat-project
+- fxa303-week09-the-afloat-project
+tags:
+- community-well-being
+title: Community Well-being Through Creative Recovery
+type: topic
 updated: 2026-05-04
 ---
 

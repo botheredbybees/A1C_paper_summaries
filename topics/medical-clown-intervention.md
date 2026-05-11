@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Medical Clown Intervention"
 confidence: low
-tags: ["medical-clown-intervention"]
+domain: intervention
+slug: medical-clown-intervention
 sources:
-  - fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective
+- fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective
+tags:
+- medical-clown-intervention
+title: Medical Clown Intervention
+type: topic
 updated: 2026-05-04
 ---
 

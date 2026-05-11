@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sensory Processing Recovery"
 confidence: low
-tags: ["sensory-processing-recovery"]
+domain: intervention
+slug: sensory-processing-recovery
 sources:
-  - fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the
+- fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the
+tags:
+- sensory-processing-recovery
+title: Sensory Processing Recovery
+type: topic
 updated: 2026-05-04
 ---
 

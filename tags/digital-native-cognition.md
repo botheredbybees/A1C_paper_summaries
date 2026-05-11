@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: digital-native-cognition
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Digital Native Cognition

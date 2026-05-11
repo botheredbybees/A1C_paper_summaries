@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Developmental Creative Writing"
 confidence: low
-tags: ["developmental-creative-writing"]
+domain: intervention
+slug: developmental-creative-writing
 sources:
-  - fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental
+- fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental
+tags:
+- developmental-creative-writing
+title: Developmental Creative Writing
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Virtual Gatherings"
 confidence: low
-tags: ["virtual-gathering"]
+domain: intervention
+slug: virtual-gatherings
 sources:
-  - fxa301-week06-transcript-these-videos-were-mixed-into-a-music-clip
+- fxa301-week06-transcript-these-videos-were-mixed-into-a-music-clip
+tags:
+- virtual-gathering
+title: Virtual Gatherings
+type: topic
 updated: 2026-05-04
 ---
 

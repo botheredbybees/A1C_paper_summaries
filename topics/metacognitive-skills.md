@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Development of Metacognitive Skills"
 confidence: low
-tags: ["metacognitive-skills"]
+domain: theory
+slug: development-of-metacognitive-skills
 sources:
-  - fxa303-week02-the-development-of-metacognitive-skills-evidence-from
+- fxa303-week02-the-development-of-metacognitive-skills-evidence-from
+tags:
+- metacognitive-skills
+title: Development of Metacognitive Skills
+type: topic
 updated: 2026-05-04
 ---
 

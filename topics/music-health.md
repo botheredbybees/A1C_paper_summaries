@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music And Health"
 confidence: medium
-tags: ["music-health"]
+domain: intervention
+slug: music-and-health
 sources:
   - fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness
   - fxa301-week06-week-6-activities-fxa301-arts-in-the-community
-updated: 2026-05-04
+- fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness
+- fxa301-week06-week-6-activities-fxa301-arts-in-the-community
+tags:
+- music-health
+title: Music And Health
+type: topic
+updated: 2026-05-11
 ---
 
 ## Music And Health

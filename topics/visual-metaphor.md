@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "method"
-title: "Visual Metaphor in Storytelling"
 confidence: medium
-tags: ["visual-metaphor"]
+domain: method
+slug: visual-metaphor-in-storytelling
 sources:
-  - fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling
-  - fxa202-week06-lesson-fxa202-week06-page-2
-  - fxa202-week06-lesson-fxa202-week06-week-6
+- fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling
+- fxa202-week06-lesson-fxa202-week06-page-2
+- fxa202-week06-lesson-fxa202-week06-week-6
+tags:
+- visual-metaphor
+title: Visual Metaphor in Storytelling
+type: topic
 updated: 2026-05-04
 ---
 

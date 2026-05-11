@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Neuroaesthetic Principles"
 confidence: low
-tags: ["neuroaesthetic-principles"]
+domain: theory
+slug: neuroaesthetic-principles
 sources:
-  - fxa301-bridging-the-creative-arts-therapies-ch01-1-essential
+- fxa301-bridging-the-creative-arts-therapies-ch01-1-essential
+tags:
+- neuroaesthetic-principles
+title: Neuroaesthetic Principles
+type: topic
 updated: 2026-05-04
 ---
 

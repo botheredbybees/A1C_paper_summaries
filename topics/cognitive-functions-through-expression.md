@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cognitive Functions Through Expression"
 confidence: low
-tags: ["cognitive-functions-through-expression"]
+domain: intervention
+slug: cognitive-functions-through-expression
 sources:
-  - fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental
+- fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental
+tags:
+- cognitive-functions-through-expression
+title: Cognitive Functions Through Expression
+type: topic
 updated: 2026-05-04
 ---
 

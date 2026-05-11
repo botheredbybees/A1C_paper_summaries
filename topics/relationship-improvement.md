@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music Therapy in Dementia Care"
 confidence: low
-tags: ["relationship-improvement"]
+domain: intervention
+slug: music-therapy-in-dementia-care
 sources:
-  - fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for
+- fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for
+tags:
+- relationship-improvement
+title: Music Therapy in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

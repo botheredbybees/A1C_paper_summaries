@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Power Dynamics In Therapy"
 confidence: low
-tags: ["power-dynamics-in-therapy"]
+domain: intervention
+slug: power-dynamics-in-therapy
 sources:
-  - fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on
+- fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on
+tags:
+- power-dynamics-in-therapy
+title: Power Dynamics In Therapy
+type: topic
 updated: 2026-05-04
 ---
 

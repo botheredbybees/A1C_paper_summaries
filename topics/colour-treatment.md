@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Colour Treatment"
 confidence: low
-tags: ["colour-treatment"]
+domain: intervention
+slug: colour-treatment
 sources:
-  - fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at
+- fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at
+tags:
+- colour-treatment
+title: Colour Treatment
+type: topic
 updated: 2026-05-04
 ---
 

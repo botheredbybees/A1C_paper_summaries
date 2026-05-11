@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Resilience and Humor in Dementia Care"
 confidence: low
-tags: ["resilience-and-humor"]
+domain: intervention
+slug: resilience-and-humor-in-dementia-care
 sources:
-  - fxa100-week10-transcript-helen-morse-also-brought-her-personal-experience
+- fxa100-week10-transcript-helen-morse-also-brought-her-personal-experience
+tags:
+- resilience-and-humor
+title: Resilience and Humor in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

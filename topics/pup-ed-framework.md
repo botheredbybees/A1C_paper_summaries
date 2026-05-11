@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Pup-Ed Framework"
 confidence: low
-tags: ["pup-ed-framework"]
+domain: intervention
+slug: pup-ed-framework
 sources:
-  - fxa303-week06-puppets-in-an-acute-paediatric-unit-nurses-experiences
+- fxa303-week06-puppets-in-an-acute-paediatric-unit-nurses-experiences
+tags:
+- pup-ed-framework
+title: Pup-Ed Framework
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: temporary-murals
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Temporary Murals

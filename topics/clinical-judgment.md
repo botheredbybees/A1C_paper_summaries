@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Clinical Judgment in Neurocognitive Disorders"
 confidence: low
-tags: ["clinical-judgment"]
+domain: method
+slug: clinical-judgment-in-neurocognitive-disorders
 sources:
-  - fxa303-week04-dsm-5-tr-neurocognitive-disorders-supplement
+- fxa303-week04-dsm-5-tr-neurocognitive-disorders-supplement
+tags:
+- clinical-judgment
+title: Clinical Judgment in Neurocognitive Disorders
+type: topic
 updated: 2026-05-04
 ---
 

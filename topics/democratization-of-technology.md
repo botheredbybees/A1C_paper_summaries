@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Democratization Of Technology"
 confidence: medium
-tags: ["democratization-of-technology"]
+domain: intervention
+slug: democratization-of-technology
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30
-  - fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-(2)
+- fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30
+- fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-(2)
+tags:
+- democratization-of-technology
+title: Democratization Of Technology
+type: topic
 updated: 2026-05-04
 ---
 

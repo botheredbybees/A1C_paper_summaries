@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Expression and Body Movement"
 confidence: low
-tags: ["emotional-expression-and-body-movement"]
+domain: intervention
+slug: emotional-expression-and-body-movement
 sources:
-  - fxa301-week10-using-creative-arts-in-trauma-therapy-the-neuroscience-of
+- fxa301-week10-using-creative-arts-in-trauma-therapy-the-neuroscience-of
+tags:
+- emotional-expression-and-body-movement
+title: Emotional Expression and Body Movement
+type: topic
 updated: 2026-05-04
 ---
 

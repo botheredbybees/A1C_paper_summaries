@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Make Arts Process"
 confidence: low
-tags: ["make-arts-process"]
+domain: intervention
+slug: make-arts-process
 sources:
-  - fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts
+- fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts
+tags:
+- make-arts-process
+title: Make Arts Process
+type: topic
 updated: 2026-05-04
 ---
 

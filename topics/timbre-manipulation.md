@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Timbre Manipulation in Musical Production"
 confidence: low
-tags: ["timbre-manipulation"]
+domain: intervention
+slug: timbre-manipulation-in-musical-production
 sources:
-  - fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration-(2)
+- fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration-(2)
+tags:
+- timbre-manipulation
+title: Timbre Manipulation in Musical Production
+type: topic
 updated: 2026-05-04
 ---
 

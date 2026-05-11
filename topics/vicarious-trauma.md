@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Vicarious Trauma"
 confidence: medium
-tags: ["vicarious-trauma"]
+domain: intervention
+slug: vicarious-trauma
 sources:
-  - fxa303-week05-fxa303-week-5-welcome
-  - fxa303-week05-lesson-fxa303-week05-page-1-week-5-overview
+- fxa303-week05-fxa303-week-5-welcome
+- fxa303-week05-lesson-fxa303-week05-page-1-week-5-overview
+tags:
+- vicarious-trauma
+title: Vicarious Trauma
+type: topic
 updated: 2026-05-04
 ---
 

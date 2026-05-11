@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Functional Magnetic Resonance Imaging"
 confidence: low
-tags: ["functional-magnetic-resonance-imaging"]
+domain: method
+slug: functional-magnetic-resonance-imaging
 sources:
-  - fxa100-week06-brain-activities-in-a-skilled-versus-a-novice-artist-an
+- fxa100-week06-brain-activities-in-a-skilled-versus-a-novice-artist-an
+tags:
+- functional-magnetic-resonance-imaging
+title: Functional Magnetic Resonance Imaging
+type: topic
 updated: 2026-05-04
 ---
 

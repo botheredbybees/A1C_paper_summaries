@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "intervention"
-title: "Medical Clowns in Healthcare"
 confidence: high
-tags: ["medical-clowns"]
+domain: intervention
+slug: medical-clowns-in-healthcare
 sources:
   - fxa303-week08-exploring-the-usefulness-of-medical-clowns-in-elevating
   - fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective
   - fxa303-week08-more-than-just-an-entertainment-show-identification-of
   - fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an
-updated: 2026-05-04
+- fxa303-week08-exploring-the-usefulness-of-medical-clowns-in-elevating
+- fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective
+- fxa303-week08-more-than-just-an-entertainment-show-identification-of
+- fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an
+tags:
+- medical-clowns
+title: Medical Clowns in Healthcare
+type: topic
+updated: 2026-05-11
 ---
 
 ## Medical Clowns in Healthcare

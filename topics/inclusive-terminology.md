@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "theory"
-title: "Inclusive Terminology for Dementia"
 confidence: medium
-tags: ["inclusive-terminology"]
+domain: theory
+slug: inclusive-terminology-for-dementia
 sources:
   - fxa100-week04-dementia-language-guidelines
   - fxa100-week04-dementia-words-matter-guidelines-on-language-about-dementia
-updated: 2026-05-04
+- fxa100-week04-dementia-language-guidelines
+- fxa100-week04-dementia-words-matter-guidelines-on-language-about-dementia
+tags:
+- inclusive-terminology
+title: Inclusive Terminology for Dementia
+type: topic
+updated: 2026-05-11
 ---
 
 ## Inclusive Terminology for Dementia

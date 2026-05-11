@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Communal Art Projects"
 confidence: low
-tags: ["communal-art-projects"]
+domain: intervention
+slug: communal-art-projects
 sources:
-  - fxa100-week08-web-article-gross-2016
+- fxa100-week08-web-article-gross-2016
+tags:
+- communal-art-projects
+title: Communal Art Projects
+type: topic
 updated: 2026-05-04
 ---
 

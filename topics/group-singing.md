@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Group Singing"
 confidence: medium
-tags: ["group-singing"]
+domain: intervention
+slug: group-singing
 sources:
   - fxa100-week04-singing-and-participation
   - fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes
   - fxa301-week10-a-systematic-review-of-mental-health-and-wellbeing-outcomes
-updated: 2026-05-05
+- fxa100-week04-singing-and-participation
+- fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes
+- fxa301-week10-a-systematic-review-of-mental-health-and-wellbeing-outcomes
+tags:
+- group-singing
+title: Group Singing
+type: topic
+updated: 2026-05-11
 ---
 
 ## Group Singing

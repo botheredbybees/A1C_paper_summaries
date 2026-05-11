@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Mindfulness in Play Therapy"
 confidence: low
-tags: ["mindfulness-in-play-therapy"]
+domain: intervention
+slug: mindfulness-in-play-therapy
 sources:
-  - fxa303-puppet-assisted-play-therapy-ch02-1-we-must-encourage-children-to-use-their-imagination-and
+- fxa303-puppet-assisted-play-therapy-ch02-1-we-must-encourage-children-to-use-their-imagination-and
+tags:
+- mindfulness-in-play-therapy
+title: Mindfulness in Play Therapy
+type: topic
 updated: 2026-05-04
 ---
 

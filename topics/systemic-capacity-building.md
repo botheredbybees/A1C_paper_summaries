@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Systemic Capacity Building"
 confidence: low
-tags: ["systemic-capacity-building"]
+domain: intervention
+slug: systemic-capacity-building
 sources:
-  - fxa301-bridging-the-creative-arts-therapies-ch09-5-collaboration
+- fxa301-bridging-the-creative-arts-therapies-ch09-5-collaboration
+tags:
+- systemic-capacity-building
+title: Systemic Capacity Building
+type: topic
 updated: 2026-05-04
 ---
 

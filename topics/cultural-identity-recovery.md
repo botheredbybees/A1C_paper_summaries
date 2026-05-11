@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cultural Identity Recovery"
 confidence: low
-tags: ["cultural-identity-recovery"]
+domain: intervention
+slug: cultural-identity-recovery
 sources:
-  - fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts
+- fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts
+tags:
+- cultural-identity-recovery
+title: Cultural Identity Recovery
+type: topic
 updated: 2026-05-04
 ---
 

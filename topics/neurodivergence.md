@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Neurodivergence"
 confidence: low
-tags: ["neurodivergence"]
+domain: population
+slug: neurodivergence
 sources:
-  - fxa303-week04-how-wcag-benefits-everyone-a-focus-on-neurodiversity-and
+- fxa303-week04-how-wcag-benefits-everyone-a-focus-on-neurodiversity-and
+tags:
+- neurodivergence
+title: Neurodivergence
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Wellbeing Through Art"
 confidence: medium
-tags: ["wellbeing-through-art"]
+domain: intervention
+slug: wellbeing-through-art
 sources:
   - fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales
   - fxa100-week07-artful-art-and-dementia-toolkit
@@ -16,7 +14,22 @@ sources:
   - fxa301-week03-lesson-fxa301-week03-page-4-week-3-activities
   - fxa301-week05-web-lecture-5-engaging-with-visual-arts
   - fxa301-week06-lesson-fxa301-week06-page-3
-updated: 2026-05-05
+- fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales
+- fxa100-week07-artful-art-and-dementia-toolkit
+- fxa202-week03-can-photography-help-depression
+- fxa202-week10-identity-connection-and-motivation
+- fxa301-week01-web-article-australia-2022
+- fxa301-week03-creativity-for-health-and-wellbeing-in-the-education-system
+- fxa301-week03-introduction-to-creative-health-extract
+- fxa301-week03-lesson-fxa301-week03-page-1
+- fxa301-week03-lesson-fxa301-week03-page-4-week-3-activities
+- fxa301-week05-web-lecture-5-engaging-with-visual-arts
+- fxa301-week06-lesson-fxa301-week06-page-3
+tags:
+- wellbeing-through-art
+title: Wellbeing Through Art
+type: topic
+updated: 2026-05-11
 ---
 
 ## Wellbeing Through Art

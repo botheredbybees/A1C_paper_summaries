@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music Education Provision"
 confidence: low
-tags: ["music-education-provision"]
+domain: intervention
+slug: music-education-provision
 sources:
-  - fxa301-week05-fading-notes-music-education-for-the-next-generation-of
+- fxa301-week05-fading-notes-music-education-for-the-next-generation-of
+tags:
+- music-education-provision
+title: Music Education Provision
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Depth Of Field"
 confidence: medium
-tags: ["depth-of-field"]
+domain: method
+slug: depth-of-field
 sources:
   - fxa202-week02-aperture-and-shutter-priority-modes
   - fxa202-week02-depth-of-field-the-essential-guide-tips
-updated: 2026-05-03
+- fxa202-week02-aperture-and-shutter-priority-modes
+- fxa202-week02-depth-of-field-the-essential-guide-tips
+tags:
+- depth-of-field
+title: Depth Of Field
+type: topic
+updated: 2026-05-11
 ---
 
 ## Depth Of Field

@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Healthcare Interventions for Chronic Conditions and Pediatric Pain Management"
 confidence: medium
-tags: ["health-care"]
+domain: intervention
+slug: healthcare-interventions-for-chronic-conditions-and-pediatric-pain-management
 sources:
   - fxa100-week01-what-is-alzheimers-disease-video-transcript
   - fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for
-updated: 2026-05-04
+- fxa100-week01-what-is-alzheimers-disease-video-transcript
+- fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for
+tags:
+- health-care
+title: Healthcare Interventions for Chronic Conditions and Pediatric Pain Management
+type: topic
+updated: 2026-05-11
 ---
 
 ## Healthcare Interventions for Chronic Conditions and Pediatric Pain Management

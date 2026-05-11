@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Poetic Healing"
 confidence: low
-tags: ["poetic-healing"]
+domain: intervention
+slug: poetic-healing
 sources:
-  - fxa301-week08-wisdom-poetry-trialogue
+- fxa301-week08-wisdom-poetry-trialogue
+tags:
+- poetic-healing
+title: Poetic Healing
+type: topic
 updated: 2026-05-04
 ---
 

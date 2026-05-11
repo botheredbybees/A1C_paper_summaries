@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "theory"
-title: "Model Of Place In Dementia Care"
 confidence: medium
-tags: ["model-of-place"]
+domain: theory
+slug: model-of-place-in-dementia-care
 sources:
-  - fxa100-excellence-in-dementia-care--ch02-chapter-11
-  - fxa100-excellence-in-dementia-care--ch60-chapter-11
+- fxa100-excellence-in-dementia-care--ch02-chapter-11
+- fxa100-excellence-in-dementia-care--ch60-chapter-11
+tags:
+- model-of-place
+title: Model Of Place In Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

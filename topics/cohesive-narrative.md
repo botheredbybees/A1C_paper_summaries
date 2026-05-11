@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Cohesive Narrative in Photography"
 confidence: low
-tags: ["cohesive-narrative"]
+domain: method
+slug: cohesive-narrative-in-photography
 sources:
-  - fxa202-week09-do-you-struggle-with-constructing-a-photo-story-try-this-3
+- fxa202-week09-do-you-struggle-with-constructing-a-photo-story-try-this-3
+tags:
+- cohesive-narrative
+title: Cohesive Narrative in Photography
+type: topic
 updated: 2026-05-04
 ---
 

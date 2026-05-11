@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Cultural Wisdom"
 confidence: low
-tags: ["cultural-wisdom"]
+domain: theory
+slug: cultural-wisdom
 sources:
-  - fxa301-week08-wisdom-poetry-trialogue
+- fxa301-week08-wisdom-poetry-trialogue
+tags:
+- cultural-wisdom
+title: Cultural Wisdom
+type: topic
 updated: 2026-05-04
 ---
 

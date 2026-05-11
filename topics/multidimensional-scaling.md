@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Multidimensional Scaling"
 confidence: low
-tags: ["multidimensional-scaling"]
+domain: method
+slug: multidimensional-scaling
 sources:
-  - fxa301-week02-the-time-course-of-emotional-responses-to-music
+- fxa301-week02-the-time-course-of-emotional-responses-to-music
+tags:
+- multidimensional-scaling
+title: Multidimensional Scaling
+type: topic
 updated: 2026-05-04
 ---
 

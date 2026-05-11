@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Positive Behavior Promotion"
 confidence: low
-tags: ["positive-behavior-promotion"]
+domain: intervention
+slug: positive-behavior-promotion
 sources:
-  - fxa303-week06-using-puppetry-in-a-coordinated-school-health-program
+- fxa303-week06-using-puppetry-in-a-coordinated-school-health-program
+tags:
+- positive-behavior-promotion
+title: Positive Behavior Promotion
+type: topic
 updated: 2026-05-04
 ---
 

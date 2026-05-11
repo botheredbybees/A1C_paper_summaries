@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Musical Preference Detection"
 confidence: low
-tags: ["musical-preference-detection"]
+domain: method
+slug: musical-preference-detection
 sources:
-  - fxa100-week03-the-effects-of-music-on-the-brain-video-transcript
+- fxa100-week03-the-effects-of-music-on-the-brain-video-transcript
+tags:
+- musical-preference-detection
+title: Musical Preference Detection
+type: topic
 updated: 2026-05-04
 ---
 

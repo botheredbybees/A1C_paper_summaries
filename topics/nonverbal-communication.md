@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Nonverbal Communication in Psychotherapeutic Practices"
 confidence: low
-tags: ["nonverbal-communication"]
+domain: intervention
+slug: nonverbal-communication-in-psychotherapeutic-practices
 sources:
-  - fxa100-week09-lesson-fxa100-week09-page-2-dance-therapy-drama-therapy
+- fxa100-week09-lesson-fxa100-week09-page-2-dance-therapy-drama-therapy
+tags:
+- nonverbal-communication
+title: Nonverbal Communication in Psychotherapeutic Practices
+type: topic
 updated: 2026-05-04
 ---
 

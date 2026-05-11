@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "High-Quality Interpersonal Relationships"
 confidence: low
-tags: ["high-quality-interpersonal-relationships"]
+domain: intervention
+slug: high-quality-interpersonal-relationships
 sources:
-  - fxa100-week09-the-fundamentals-of-person-centered-care-for-individuals
+- fxa100-week09-the-fundamentals-of-person-centered-care-for-individuals
+tags:
+- high-quality-interpersonal-relationships
+title: High-Quality Interpersonal Relationships
+type: topic
 updated: 2026-05-04
 ---
 

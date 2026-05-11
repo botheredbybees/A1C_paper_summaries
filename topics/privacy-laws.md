@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Privacy Laws"
 confidence: low
-tags: ["privacy-laws"]
+domain: intervention
+slug: privacy-laws
 sources:
-  - fxa202-week02-street-photographers-rights
+- fxa202-week02-street-photographers-rights
+tags:
+- privacy-laws
+title: Privacy Laws
+type: topic
 updated: 2026-05-04
 ---
 

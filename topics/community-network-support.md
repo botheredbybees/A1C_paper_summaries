@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Community Network Support in Mental Health"
 confidence: low
-tags: ["community-network-support"]
+domain: intervention
+slug: community-network-support-in-mental-health
 sources:
-  - fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings
+- fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings
+tags:
+- community-network-support
+title: Community Network Support in Mental Health
+type: topic
 updated: 2026-05-04
 ---
 

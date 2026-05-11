@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Externalization Of Feelings"
 confidence: low
-tags: ["externalization-of-feelings"]
+domain: intervention
+slug: externalization-of-feelings
 sources:
-  - fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy
+- fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy
+tags:
+- externalization-of-feelings
+title: Externalization Of Feelings
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Group Bonding Through Creative Activities"
 confidence: medium
-tags: ["group-bonding"]
+domain: intervention
+slug: group-bonding-through-creative-activities
 sources:
-  - fxa100-week04-transcript-what-is-singing-for-the-brain
-  - fxa301-week08-transcript-the-video-below-relates-the-experiences-of
+- fxa100-week04-transcript-what-is-singing-for-the-brain
+- fxa301-week08-transcript-the-video-below-relates-the-experiences-of
+tags:
+- group-bonding
+title: Group Bonding Through Creative Activities
+type: topic
 updated: 2026-05-04
 ---
 

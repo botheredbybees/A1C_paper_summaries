@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sundown Syndrome"
 confidence: low
-tags: ["sundown-syndrome"]
+domain: intervention
+slug: sundown-syndrome
 sources:
-  - fxa100-week10-transcript-in-april-and-may-2012-during-the-tour-of
+- fxa100-week10-transcript-in-april-and-may-2012-during-the-tour-of
+tags:
+- sundown-syndrome
+title: Sundown Syndrome
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Benefits of Art"
 confidence: medium
-tags: ["therapeutic-benefits-of-art"]
+domain: intervention
+slug: therapeutic-benefits-of-art
 sources:
-  - fxa301-week03-art-for-better-health-and-wellbeing
-  - fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our
-  - fxa301-week05-support-programs-ut-md-anderson
+- fxa301-week03-art-for-better-health-and-wellbeing
+- fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our
+- fxa301-week05-support-programs-ut-md-anderson
+tags:
+- therapeutic-benefits-of-art
+title: Therapeutic Benefits of Art
+type: topic
 updated: 2026-05-04
 ---
 

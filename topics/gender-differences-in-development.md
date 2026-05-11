@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Gender Differences in Adolescent Development"
 confidence: low
-tags: ["gender-differences-in-development"]
+domain: theory
+slug: gender-differences-in-adolescent-development
 sources:
-  - fxa303-week03-the-teen-brain
+- fxa303-week03-the-teen-brain
+tags:
+- gender-differences-in-development
+title: Gender Differences in Adolescent Development
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Dose-Response Relationship in Mental Health Interventions"
 confidence: low
-tags: ["dose-response-relationship"]
+domain: intervention
+slug: dose-response-relationship-in-mental-health-interventions
 sources:
-  - fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the
+- fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the
+tags:
+- dose-response-relationship
+title: Dose-Response Relationship in Mental Health Interventions
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,13 +1,18 @@
 ---
-type: topic
-domain: "intervention"
-title: "Psychological Wellbeing Interventions"
 confidence: medium
-tags: ["psychological-wellbeing"]
+domain: intervention
+slug: psychological-wellbeing-interventions
 sources:
   - fxa301-week06-a-study-of-the-experience-of-working-adults-on-regular
+  - fxa301-week11-fine-arts-participation-self-determination-and-locus-of
   - fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
-updated: 2026-05-04
+- fxa301-week06-a-study-of-the-experience-of-working-adults-on-regular
+- fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
+tags:
+- psychological-wellbeing
+title: Psychological Wellbeing Interventions
+type: topic
+updated: 2026-05-11
 ---
 
 ## Psychological Wellbeing Interventions
@@ -27,4 +32,5 @@ This synthesis explores various interventions aimed at enhancing psychological w
 ## Sources
 
 - [fxa301-week06-a-study-of-the-experience-of-working-adults-on-regular](../sources/fxa301-week06-a-study-of-the-experience-of-working-adults-on-regular.md)
+- [fxa301-week11-fine-arts-participation-self-determination-and-locus-of](../sources/fxa301-week11-fine-arts-participation-self-determination-and-locus-of.md)
 - [fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine](../sources/fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine.md)

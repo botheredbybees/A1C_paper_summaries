@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "method"
-title: "Grounded Theory in Arts and Health Research"
 confidence: medium
-tags: ["grounded-theory"]
+domain: method
+slug: grounded-theory-in-arts-and-health-research
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10
-  - fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and
+- fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10
+- fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and
+tags:
+- grounded-theory
+title: Grounded Theory in Arts and Health Research
+type: topic
 updated: 2026-05-04
 ---
 

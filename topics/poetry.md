@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Appreciation Of Nature And Self-expression Through Poetry"
 confidence: medium
-tags: ["poetry"]
+domain: intervention
+slug: appreciation-of-nature-and-self-expression-through-poetry
 sources:
   - fxa100-week08-transcript-youtube-cilh21tfqem
   - fxa202-week10-poetic-expressions-of-internal-struggle
   - fxa301-week08-transcript-youtube-q7-axxnucfq
-updated: 2026-05-05
+- fxa100-week08-transcript-youtube-cilh21tfqem
+- fxa202-week10-poetic-expressions-of-internal-struggle
+- fxa301-week08-transcript-youtube-q7-axxnucfq
+tags:
+- poetry
+title: Appreciation Of Nature And Self-expression Through Poetry
+type: topic
+updated: 2026-05-11
 ---
 
 ## Appreciation Of Nature And Self-expression Through Poetry

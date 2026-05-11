@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Aging"
 confidence: low
-tags: ["creative-aging"]
+domain: intervention
+slug: creative-aging
 sources:
-  - fxa301-week03-lesson-fxa301-week03-page-4-week-3-activities
+- fxa301-week03-lesson-fxa301-week03-page-4-week-3-activities
+tags:
+- creative-aging
+title: Creative Aging
+type: topic
 updated: 2026-05-04
 ---
 

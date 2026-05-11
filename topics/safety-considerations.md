@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Safety Considerations in Artwork Documentation"
 confidence: low
-tags: ["safety-considerations"]
+domain: method
+slug: safety-considerations-in-artwork-documentation
 sources:
-  - fxa202-week08-home-hints-for-artwork-and-object-documentation-(2)
+- fxa202-week08-home-hints-for-artwork-and-object-documentation-(2)
+tags:
+- safety-considerations
+title: Safety Considerations in Artwork Documentation
+type: topic
 updated: 2026-05-04
 ---
 

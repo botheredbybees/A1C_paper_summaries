@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Support Services for Caregivers of People with Dementia"
 confidence: low
-tags: ["support-services"]
+domain: intervention
+slug: support-services-for-caregivers-of-people-with-dementia
 sources:
-  - fxa100-week04-web-article-dementia-2022
+- fxa100-week04-web-article-dementia-2022
+tags:
+- support-services
+title: Support Services for Caregivers of People with Dementia
+type: topic
 updated: 2026-05-04
 ---
 

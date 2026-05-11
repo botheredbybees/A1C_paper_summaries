@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Musical Preferences"
 confidence: low
-tags: ["musical-preference"]
+domain: theory
+slug: musical-preferences
 sources:
-  - fxa100-week03-transcript-the-effects-of-music-on-the-brain
+- fxa100-week03-transcript-the-effects-of-music-on-the-brain
+tags:
+- musical-preference
+title: Musical Preferences
+type: topic
 updated: 2026-05-04
 ---
 

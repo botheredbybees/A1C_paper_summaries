@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Image Quality"
 confidence: low
-tags: ["image-quality"]
+domain: method
+slug: image-quality
 sources:
-  - fxa202-week02-week-2-making-pictures
+- fxa202-week02-week-2-making-pictures
+tags:
+- image-quality
+title: Image Quality
+type: topic
 updated: 2026-05-04
 ---
 

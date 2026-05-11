@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Chaotic Systems in Mosh Pits"
 confidence: low
-tags: ["chaotic-systems"]
+domain: method
+slug: chaotic-systems-in-mosh-pits
 sources:
-  - fxa100-week02-moshing-with-physics-jesse-silverberg-tedxyale-video
+- fxa100-week02-moshing-with-physics-jesse-silverberg-tedxyale-video
+tags:
+- chaotic-systems
+title: Chaotic Systems in Mosh Pits
+type: topic
 updated: 2026-05-04
 ---
 

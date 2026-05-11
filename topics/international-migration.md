@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "theory"
-title: "International Migration Studies"
 confidence: medium
-tags: ["international-migration"]
+domain: theory
+slug: international-migration-studies
 sources:
   - fxa303-week10-health-and-well-being-of-male-international-migrants-and
   - fxa303-week10-researching-arts-culture-migration-and-change-a-multi
   - fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)
-updated: 2026-05-04
+- fxa303-week10-health-and-well-being-of-male-international-migrants-and
+- fxa303-week10-researching-arts-culture-migration-and-change-a-multi
+- fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)
+tags:
+- international-migration
+title: International Migration Studies
+type: topic
+updated: 2026-05-11
 ---
 
 ## International Migration Studies

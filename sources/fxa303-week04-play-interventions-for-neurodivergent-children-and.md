@@ -11,7 +11,7 @@ tags: ["neurodivergent-children", "play-therapy-interventions", "mental-health-s
 key_concepts: ["AutPlay\u00ae framework", "empathy-in-therapy", "reflective-practice"]
 methods: ["case-study"]
 slug: fxa303-week04-play-interventions-for-neurodivergent-children-and
-related: ["autism-treatment", "child-development", "mental-health-support"]
+related: ["autism-treatment", "child-development", "mental-health-support", "therapeutic-practices"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -47,3 +47,4 @@ Robert Jason Grant’s book ‘Play Interventions for Neurodivergent Children an
 - [autism-treatment](../topics/autism-treatment.md)
 - [child-development](../topics/child-development.md)
 - [mental-health-support](../topics/mental-health-support.md)
+- [therapeutic-practices](../topics/therapeutic-practices.md)

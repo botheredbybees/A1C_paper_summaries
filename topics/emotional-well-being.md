@@ -1,14 +1,18 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Well-Being Through Creative Interventions"
 confidence: medium
-tags: ["emotional-well-being"]
+domain: intervention
+slug: emotional-well-being-through-creative-interventions
 sources:
-  - fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple
-  - fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the
-  - fxa303-week08-the-life-threatened-child-and-the-life-enhancing-clown
-updated: 2026-05-04
+  - fxa100-week03-music-therapy-increases-social-and-emotional-well-being-in
+  - fxa100-week11-the-emotional-response-to-social-dancing-and-walks-in
+- fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple
+- fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the
+- fxa303-week08-the-life-threatened-child-and-the-life-enhancing-clown
+tags:
+- emotional-well-being
+title: Emotional Well-Being Through Creative Interventions
+type: topic
+updated: 2026-05-11
 ---
 
 ## Emotional Well-Being Through Creative Interventions
@@ -27,6 +31,5 @@ The sources explore various creative interventions aimed at enhancing emotional 
 
 ## Sources
 
-- [fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple](../sources/fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple.md)
-- [fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the](../sources/fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the.md)
-- [fxa303-week08-the-life-threatened-child-and-the-life-enhancing-clown](../sources/fxa303-week08-the-life-threatened-child-and-the-life-enhancing-clown.md)
+- [fxa100-week03-music-therapy-increases-social-and-emotional-well-being-in](../sources/fxa100-week03-music-therapy-increases-social-and-emotional-well-being-in.md)
+- [fxa100-week11-the-emotional-response-to-social-dancing-and-walks-in](../sources/fxa100-week11-the-emotional-response-to-social-dancing-and-walks-in.md)

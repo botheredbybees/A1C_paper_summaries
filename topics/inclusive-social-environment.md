@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Inclusive Social Environment"
 confidence: low
-tags: ["inclusive-social-environment"]
+domain: intervention
+slug: inclusive-social-environment
 sources:
-  - fxa301-week10-sing-your-heart-out-community-singing-as-part-of-mental
+- fxa301-week10-sing-your-heart-out-community-singing-as-part-of-mental
+tags:
+- inclusive-social-environment
+title: Inclusive Social Environment
+type: topic
 updated: 2026-05-04
 ---
 

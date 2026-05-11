@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Patient Satisfaction"
 confidence: low
-tags: ["patient-satisfaction"]
+domain: intervention
+slug: patient-satisfaction
 sources:
-  - fxa301-week10-an-adjunctive-museum-based-art-therapy-experience-in-the
+- fxa301-week10-an-adjunctive-museum-based-art-therapy-experience-in-the
+tags:
+- patient-satisfaction
+title: Patient Satisfaction
+type: topic
 updated: 2026-05-04
 ---
 

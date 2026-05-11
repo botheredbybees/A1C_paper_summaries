@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "method"
-title: "Color Theory in Photography"
 confidence: medium
-tags: ["complementary-colors"]
+domain: method
+slug: color-theory-in-photography
 sources:
-  - fxa202-week02-lesson-fxa202-week02-page-3
-  - fxa202-week02-street-photography-composition-lesson-12-color-theory
+- fxa202-week02-lesson-fxa202-week02-page-3
+- fxa202-week02-street-photography-composition-lesson-12-color-theory
+tags:
+- complementary-colors
+title: Color Theory in Photography
+type: topic
 updated: 2026-05-04
 ---
 

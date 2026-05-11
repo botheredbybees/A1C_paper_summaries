@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "theory"
-title: "Hearing Process"
 confidence: medium
-tags: ["hearing-process"]
+domain: theory
+slug: hearing-process
 sources:
   - fxa100-week02-hearing-and-music
   - fxa100-week02-lesson-fxa100-week02-page-2-hearing-and-music
   - fxa100-week02-transcript-how-the-ear-and-hearing-works-from-med-el-view
   - fxa100-week02-video-about-hearing-and-how-it-works-med-el-video-transcript
-updated: 2026-05-05
+- fxa100-week02-hearing-and-music
+- fxa100-week02-lesson-fxa100-week02-page-2-hearing-and-music
+- fxa100-week02-transcript-how-the-ear-and-hearing-works-from-med-el-view
+- fxa100-week02-video-about-hearing-and-how-it-works-med-el-video-transcript
+tags:
+- hearing-process
+title: Hearing Process
+type: topic
+updated: 2026-05-11
 ---
 
 ## Hearing Process

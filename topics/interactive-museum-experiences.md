@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Interactive Museum Experiences"
 confidence: low
-tags: ["interactive-museum-experiences"]
+domain: intervention
+slug: interactive-museum-experiences
 sources:
-  - fxa100-week07-house-of-memories-national-museums-liverpool
+- fxa100-week07-house-of-memories-national-museums-liverpool
+tags:
+- interactive-museum-experiences
+title: Interactive Museum Experiences
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "theory"
-title: "Personhood in Dementia Care"
 confidence: medium
-tags: ["personhood-theory"]
+domain: theory
+slug: personhood-in-dementia-care
 sources:
   - fxa100-excellence-in-dementia-care--ch23-2-there-is-no-doubt-that-one-of-the-major-changes-we-see-in
   - fxa100-how-we-thnk-about-dementia-ch08-chapter-4
   - fxa100-how-we-thnk-about-dementia-ch12-chapter-4
-updated: 2026-05-04
+- fxa100-excellence-in-dementia-care--ch23-2-there-is-no-doubt-that-one-of-the-major-changes-we-see-in
+- fxa100-how-we-thnk-about-dementia-ch08-chapter-4
+- fxa100-how-we-thnk-about-dementia-ch12-chapter-4
+tags:
+- personhood-theory
+title: Personhood in Dementia Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Personhood in Dementia Care

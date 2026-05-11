@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Flexible Evaluation Criteria"
 confidence: low
-tags: ["flexible-evaluation-criteria"]
+domain: intervention
+slug: flexible-evaluation-criteria
 sources:
-  - fxa100-creativity-and-communication-ch12-22-measuring-success-evaluation-is-an-ongoing-process-that
+- fxa100-creativity-and-communication-ch12-22-measuring-success-evaluation-is-an-ongoing-process-that
+tags:
+- flexible-evaluation-criteria
+title: Flexible Evaluation Criteria
+type: topic
 updated: 2026-05-04
 ---
 

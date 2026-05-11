@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: quality-of-life
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Quality Of Life
@@ -48,6 +48,9 @@ updated: 2026-05-06
 - [Testing the Implementation of the Veder Contact Method: A Theatre-Based Communication Method in Dementia Care](../sources/fxa100-week09-testing-the-implementation-of-the-veder-contact-method-a.md)
 - [Playfully engaging people living with dementia: searching for Yum Cha moments](../sources/fxa100-week10-playfully-engaging-people-living-with-dementia-searching.md)
 - [The Impact of TimeSlips, a Creative Expression Intervention Program, on Nursing Home Residents With Dementia and their Caregivers](../sources/fxa100-week10-the-impact-of-timeslips-a-creative-expression-intervention.md)
+- [Expressive bodies: demented persons\u2019 communication in a dance therapy context](../sources/fxa100-week11-expressive-bodies-demented-persons-communication-in-a-dance.md)
+- [Rehabilitation effects of game therapy in people living with dementia: A systematic review and meta-analysis](../sources/fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living.md)
+- [The benefits of community-based participatory arts activities for people living with dementia: a thematic scoping review](../sources/fxa100-week11-the-benefits-of-community-based-participatory-arts.md)
 - [Mih\u00e1ly Cs\u00edkszentmih\u00e1lyi: The Father of Flow](../sources/fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow.md)
 - [A Qualitative Investigation of Older Adults\u2019 Conceptualization of Quality of Life and a Think-Aloud Content Validation of the EQ-5D-5L, SF-12v2, Warwick Edinburgh Mental Well-Being Scale, and Office of National Statistics-4](../sources/fxa301-week01-a-qualitative-investigation-of-older-adults.md)
 - [The 2024 Happy Planet Index](../sources/fxa301-week05-the-2024-happy-planet-index.md)

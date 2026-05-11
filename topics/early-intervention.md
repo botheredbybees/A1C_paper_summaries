@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Early Intervention Strategies"
 confidence: medium
-tags: ["early-intervention"]
+domain: intervention
+slug: early-intervention-strategies
 sources:
   - fxa303-week02-fxa303-week-2-child-development-and-creative-arts
   - fxa303-week04-missed-early-intervention-opportunities-for-children-with
   - fxa303-week04-neurodiversity-and-the-autism-spectrum
-updated: 2026-05-04
+- fxa303-week02-fxa303-week-2-child-development-and-creative-arts
+- fxa303-week04-missed-early-intervention-opportunities-for-children-with
+- fxa303-week04-neurodiversity-and-the-autism-spectrum
+tags:
+- early-intervention
+title: Early Intervention Strategies
+type: topic
+updated: 2026-05-11
 ---
 
 ## Early Intervention Strategies

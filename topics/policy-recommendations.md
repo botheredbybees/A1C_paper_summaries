@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Policy Recommendations for Creative Health"
 confidence: low
-tags: ["policy-recommendations"]
+domain: intervention
+slug: policy-recommendations-for-creative-health
 sources:
-  - fxa301-week03-creative-health-review-report
+- fxa301-week03-creative-health-review-report
+tags:
+- policy-recommendations
+title: Policy Recommendations for Creative Health
+type: topic
 updated: 2026-05-04
 ---
 

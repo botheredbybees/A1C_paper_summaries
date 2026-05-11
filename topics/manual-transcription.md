@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Manual Transcription"
 confidence: low
-tags: ["manual-transcription"]
+domain: method
+slug: manual-transcription
 sources:
-  - fxa301-week08-transcript-youtube-vyjzrflr50e-url-only
+- fxa301-week08-transcript-youtube-vyjzrflr50e-url-only
+tags:
+- manual-transcription
+title: Manual Transcription
+type: topic
 updated: 2026-05-04
 ---
 

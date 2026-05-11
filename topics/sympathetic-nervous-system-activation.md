@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sympathetic Nervous System Activation"
 confidence: low
-tags: ["sympathetic-nervous-system-activation"]
+domain: intervention
+slug: sympathetic-nervous-system-activation
 sources:
-  - fxa301-week06-san-trance-dance-embodied-experience-and-neurological
+- fxa301-week06-san-trance-dance-embodied-experience-and-neurological
+tags:
+- sympathetic-nervous-system-activation
+title: Sympathetic Nervous System Activation
+type: topic
 updated: 2026-05-04
 ---
 

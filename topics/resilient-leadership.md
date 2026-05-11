@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Resilient Leadership"
 confidence: low
-tags: ["resilient-leadership"]
+domain: intervention
+slug: resilient-leadership
 sources:
-  - fxa303-creativity-wellbeing-and-mental-health-ch05-8-creative-approaches-to-learning-and-leadership-tony-gillam
+- fxa303-creativity-wellbeing-and-mental-health-ch05-8-creative-approaches-to-learning-and-leadership-tony-gillam
+tags:
+- resilient-leadership
+title: Resilient Leadership
+type: topic
 updated: 2026-05-04
 ---
 

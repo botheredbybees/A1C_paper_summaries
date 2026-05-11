@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Randomized Clinical Trials"
 confidence: low
-tags: ["randomized-clinical-trial"]
+domain: method
+slug: randomized-clinical-trials
 sources:
-  - fxa100-week03-music-therapy-increases-social-and-emotional-well-being-in
+- fxa100-week03-music-therapy-increases-social-and-emotional-well-being-in
+tags:
+- randomized-clinical-trial
+title: Randomized Clinical Trials
+type: topic
 updated: 2026-05-04
 ---
 

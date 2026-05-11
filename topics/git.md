@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Git Usage in Programming"
 confidence: low
-tags: ["git"]
+domain: method
+slug: git-usage-in-programming
 sources:
-  - fxa301-week02-unknown-title
+- fxa301-week02-unknown-title
+tags:
+- git
+title: Git Usage in Programming
+type: topic
 updated: 2026-05-04
 ---
 

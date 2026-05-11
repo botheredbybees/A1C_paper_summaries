@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "population"
-title: "Indigenous Wellbeing in Australia"
 confidence: medium
-tags: ["indigenous-wellbeing"]
+domain: population
+slug: indigenous-wellbeing-in-australia
 sources:
   - fxa303-week10-cultural-determinants-of-health-for-aboriginal-and-torres
   - fxa303-week10-how-country-spirituality-music-and-arts-contribute-to
-updated: 2026-05-04
+- fxa303-week10-cultural-determinants-of-health-for-aboriginal-and-torres
+- fxa303-week10-how-country-spirituality-music-and-arts-contribute-to
+tags:
+- indigenous-wellbeing
+title: Indigenous Wellbeing in Australia
+type: topic
+updated: 2026-05-11
 ---
 
 ## Indigenous Wellbeing in Australia

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: interdisciplinary-research
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Interdisciplinary Research
@@ -13,3 +13,4 @@ updated: 2026-05-06
 - [Arts in Health: Designing and researching interventions](../sources/fxa301-week01-arts-in-health-designing-and-researching-interventions.md)
 - [The Emerging Field of Affective Science](../sources/fxa301-week02-the-emerging-field-of-affective-science.md)
 - [Researching arts, culture, migration and change: a multi (trans)disciplinary challenge for international migration studies](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3).md)
+- [Future Directions in Understanding and Addressing Mental Health among LGBTQ Youth](../sources/fxa303-week11-future-directions-in-understanding-and-addressing-mental.md)

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Emotional Connection"
 confidence: low
-tags: ["emotional-connection"]
+domain: theory
+slug: emotional-connection
 sources:
-  - fxa100-week10-transcript-youtube-vwkammz898duration
+- fxa100-week10-transcript-youtube-vwkammz898duration
+tags:
+- emotional-connection
+title: Emotional Connection
+type: topic
 updated: 2026-05-04
 ---
 

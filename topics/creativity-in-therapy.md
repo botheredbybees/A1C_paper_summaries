@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creativity in Therapy"
 confidence: low
-tags: ["creativity-in-therapy"]
+domain: intervention
+slug: creativity-in-therapy
 sources:
-  - fxa303-week05-week-5-overview-fxa303-creative-arts-play-and-mental
+- fxa303-week05-week-5-overview-fxa303-creative-arts-play-and-mental
+tags:
+- creativity-in-therapy
+title: Creativity in Therapy
+type: topic
 updated: 2026-05-04
 ---
 

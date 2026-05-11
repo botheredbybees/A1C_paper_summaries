@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Personalized Therapy Approaches"
 confidence: low
-tags: ["personalized-therapy-approaches"]
+domain: intervention
+slug: personalized-therapy-approaches
 sources:
-  - fxa100-week04-lesson-fxa100-week04-page-2-music-therapy-benefits
+- fxa100-week04-lesson-fxa100-week04-page-2-music-therapy-benefits
+tags:
+- personalized-therapy-approaches
+title: Personalized Therapy Approaches
+type: topic
 updated: 2026-05-04
 ---
 

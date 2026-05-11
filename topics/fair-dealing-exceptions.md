@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Fair Dealing Exceptions"
 confidence: low
-tags: ["fair-dealing-exceptions"]
+domain: theory
+slug: fair-dealing-exceptions
 sources:
-  - fxa202-week10-defamation-copyright-and-blogging-in-australia
+- fxa202-week10-defamation-copyright-and-blogging-in-australia
+tags:
+- fair-dealing-exceptions
+title: Fair Dealing Exceptions
+type: topic
 updated: 2026-05-04
 ---
 

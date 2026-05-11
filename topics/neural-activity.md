@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Neural Activity in Art Perception"
 confidence: low
-tags: ["neural-activity"]
+domain: method
+slug: neural-activity-in-art-perception
 sources:
-  - fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what
+- fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what
+tags:
+- neural-activity
+title: Neural Activity in Art Perception
+type: topic
 updated: 2026-05-04
 ---
 

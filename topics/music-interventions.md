@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music Interventions"
 confidence: medium
-tags: ["music-interventions"]
+domain: intervention
+slug: music-interventions
 sources:
   - fxa100-week03-association-of-music-interventions-with-health-related
   - fxa100-week03-the-short-term-impact-of-music-interventions-on-stress
-updated: 2026-05-04
+- fxa100-week03-association-of-music-interventions-with-health-related
+- fxa100-week03-the-short-term-impact-of-music-interventions-on-stress
+tags:
+- music-interventions
+title: Music Interventions
+type: topic
+updated: 2026-05-11
 ---
 
 ## Music Interventions

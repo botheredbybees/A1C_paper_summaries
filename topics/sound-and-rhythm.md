@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Sound and Rhythm"
 confidence: low
-tags: ["sound-and-rhythm"]
+domain: method
+slug: sound-and-rhythm
 sources:
-  - fxa301-week08-lesson-fxa301-week07-page-4-week-3-activities
+- fxa301-week08-lesson-fxa301-week07-page-4-week-3-activities
+tags:
+- sound-and-rhythm
+title: Sound and Rhythm
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Health Humanities"
 confidence: low
-tags: ["health-humanities"]
+domain: theory
+slug: health-humanities
 sources:
-  - fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay
+- fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay
+tags:
+- health-humanities
+title: Health Humanities
+type: topic
 updated: 2026-05-04
 ---
 

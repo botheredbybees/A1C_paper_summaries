@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Engagement"
 confidence: medium
-tags: ["creative-engagement"]
+domain: intervention
+slug: creative-engagement
 sources:
-  - fxa100-creativity-and-communication-ch11-21-giving-creativity-a-shape-creativity-takes-many-forms
-  - fxa301-week01-lesson-fxa301-week01-page-3-arts-participation
-  - fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
+- fxa100-creativity-and-communication-ch11-21-giving-creativity-a-shape-creativity-takes-many-forms
+- fxa301-week01-lesson-fxa301-week01-page-3-arts-participation
+- fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
+tags:
+- creative-engagement
+title: Creative Engagement
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Patient Engagement Through Humor-Based Interventions"
 confidence: low
-tags: ["patient-engagement"]
+domain: intervention
+slug: patient-engagement-through-humor-based-interventions
 sources:
-  - fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent
+- fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent
+tags:
+- patient-engagement
+title: Patient Engagement Through Humor-Based Interventions
+type: topic
 updated: 2026-05-04
 ---
 

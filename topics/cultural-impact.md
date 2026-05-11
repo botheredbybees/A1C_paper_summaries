@@ -1,13 +1,18 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cultural Impact of Artistic Wellbeing"
 confidence: medium
-tags: ["cultural-impact"]
+domain: intervention
+slug: cultural-impact-of-artistic-wellbeing
 sources:
   - fxa301-week01-web-article-australia-2023
   - fxa301-week02-current-emotion-research-in-music-psychology
-updated: 2026-05-04
+  - fxa301-week11-the-museum-is-the-refugees-home
+- fxa301-week01-web-article-australia-2023
+- fxa301-week02-current-emotion-research-in-music-psychology
+tags:
+- cultural-impact
+title: Cultural Impact of Artistic Wellbeing
+type: topic
+updated: 2026-05-11
 ---
 
 ## Cultural Impact of Artistic Wellbeing
@@ -28,3 +33,4 @@ The synthesis integrates findings from the National Arts Participation Survey an
 
 - [fxa301-week01-web-article-australia-2023](../sources/fxa301-week01-web-article-australia-2023.md)
 - [fxa301-week02-current-emotion-research-in-music-psychology](../sources/fxa301-week02-current-emotion-research-in-music-psychology.md)
+- [fxa301-week11-the-museum-is-the-refugees-home](../sources/fxa301-week11-the-museum-is-the-refugees-home.md)

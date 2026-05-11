@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sustainability Of Tourism During The Covid-19 Pandemic"
 confidence: low
-tags: ["covid-19-pandemic"]
+domain: intervention
+slug: sustainability-of-tourism-during-the-covid-19-pandemic
 sources:
-  - fxa202-week06-where-in-the-world-travelling-through-the-coronavirus
+- fxa202-week06-where-in-the-world-travelling-through-the-coronavirus
+tags:
+- covid-19-pandemic
+title: Sustainability Of Tourism During The Covid-19 Pandemic
+type: topic
 updated: 2026-05-04
 ---
 

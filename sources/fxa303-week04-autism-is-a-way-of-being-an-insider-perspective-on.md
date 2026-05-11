@@ -11,7 +11,7 @@ tags: ["neurodiversity", "music-therapy", "autism-research", "social-justice", "
 key_concepts: ["neurodiversity-theory", "power-dynamics-in-therapy", "stimming-as-cultural-practice"]
 methods: ["qualitative-study"]
 slug: fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on
-related: ["autism-research", "music-therapy", "neurodiversity"]
+related: ["autism-research", "music-therapy", "neurodiversity", "social-justice"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,3 +46,4 @@ Hilary Davies, an autistic music therapist and researcher, explores the concept 
 - [autism-research](../topics/autism-research.md)
 - [music-therapy](../topics/music-therapy.md)
 - [neurodiversity](../topics/neurodiversity.md)
+- [social-justice](../topics/social-justice.md)

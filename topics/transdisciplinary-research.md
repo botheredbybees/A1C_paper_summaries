@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Transdisciplinary Research"
 confidence: medium
-tags: ["transdisciplinary-research"]
+domain: method
+slug: transdisciplinary-research
 sources:
   - fxa303-week10-researching-arts-culture-migration-and-change-a-multi
   - fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)
-updated: 2026-05-04
+- fxa303-week10-researching-arts-culture-migration-and-change-a-multi
+- fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)
+tags:
+- transdisciplinary-research
+title: Transdisciplinary Research
+type: topic
+updated: 2026-05-11
 ---
 
 ## Transdisciplinary Research

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Processes in Dementia"
 confidence: low
-tags: ["creative-processes"]
+domain: intervention
+slug: creative-processes-in-dementia
 sources:
-  - fxa100-week06-dementia-and-art-neuronal-intermediate-filament-inclusion
+- fxa100-week06-dementia-and-art-neuronal-intermediate-filament-inclusion
+tags:
+- creative-processes
+title: Creative Processes in Dementia
+type: topic
 updated: 2026-05-04
 ---
 

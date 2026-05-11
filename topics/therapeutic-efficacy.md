@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Efficacy of Creative Arts in Psychotherapy"
 confidence: low
-tags: ["therapeutic-efficacy"]
+domain: intervention
+slug: therapeutic-efficacy-of-creative-arts-in-psychotherapy
 sources:
-  - fxa301-week10-creative-arts-in-psychotherapy-for-traumatized-children-in
+- fxa301-week10-creative-arts-in-psychotherapy-for-traumatized-children-in
+tags:
+- therapeutic-efficacy
+title: Therapeutic Efficacy of Creative Arts in Psychotherapy
+type: topic
 updated: 2026-05-04
 ---
 

@@ -11,7 +11,7 @@ tags: ["parkinsons-disease", "motor-symptoms", "dance-therapy", "longitudinal-st
 key_concepts: ["Parkinson's disease", "MDS-UPDRS", "multisensory dance learning"]
 methods: ["longitudinal investigation"]
 slug: fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with
-related: ["dance-therapy", "longitudinal-study", "parkinsons-disease"]
+related: ["dance-therapy", "longitudinal-study", "motor-symptoms", "parkinsons-disease"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,4 +45,5 @@ This study investigates the impact of multisensory dance learning on motor and n
 
 - [dance-therapy](../topics/dance-therapy.md)
 - [longitudinal-study](../topics/longitudinal-study.md)
+- [motor-symptoms](../topics/motor-symptoms.md)
 - [parkinsons-disease](../topics/parkinsons-disease.md)

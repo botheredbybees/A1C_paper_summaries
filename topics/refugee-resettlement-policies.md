@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Refugee Resettlement Policies"
 confidence: low
-tags: ["refugee-resettlement-policies"]
+domain: intervention
+slug: refugee-resettlement-policies
 sources:
-  - fxa303-week10-the-global-refugee-crisis-empirical-evidence-and-policy
+- fxa303-week10-the-global-refugee-crisis-empirical-evidence-and-policy
+tags:
+- refugee-resettlement-policies
+title: Refugee Resettlement Policies
+type: topic
 updated: 2026-05-04
 ---
 

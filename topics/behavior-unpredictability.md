@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Behavior Unpredictability"
 confidence: low
-tags: ["behavior-unpredictability"]
+domain: theory
+slug: behavior-unpredictability
 sources:
-  - fxa303-week08-fear-of-clowns-an-investigation-into-the-aetiology-of
+- fxa303-week08-fear-of-clowns-an-investigation-into-the-aetiology-of
+tags:
+- behavior-unpredictability
+title: Behavior Unpredictability
+type: topic
 updated: 2026-05-04
 ---
 

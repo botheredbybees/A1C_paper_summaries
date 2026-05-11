@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Quality Of Life Assessment"
 confidence: medium
-tags: ["quality-of-life-assessment"]
+domain: method
+slug: quality-of-life-assessment
 sources:
   - fxa301-week01-eq-5d-3l-user-guide
   - fxa301-week01-quality-of-life-assessment-key-issues-in-the-1990s
-updated: 2026-05-05
+- fxa301-week01-eq-5d-3l-user-guide
+- fxa301-week01-quality-of-life-assessment-key-issues-in-the-1990s
+tags:
+- quality-of-life-assessment
+title: Quality Of Life Assessment
+type: topic
+updated: 2026-05-11
 ---
 
 ## Quality Of Life Assessment

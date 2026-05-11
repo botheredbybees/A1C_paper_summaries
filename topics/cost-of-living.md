@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "population"
-title: "Youth Cost-of-Living Concerns"
 confidence: medium
-tags: ["cost-of-living"]
+domain: population
+slug: youth-cost-of-living-concerns
 sources:
-  - fxa303-week03-youth-survey-report-2024
-  - fxa303-week03-youth-survey-report-2025
+- fxa303-week03-youth-survey-report-2024
+- fxa303-week03-youth-survey-report-2025
+tags:
+- cost-of-living
+title: Youth Cost-of-Living Concerns
+type: topic
 updated: 2026-05-04
 ---
 

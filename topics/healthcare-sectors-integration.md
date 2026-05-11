@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Healthcare Sectors Integration"
 confidence: low
-tags: ["healthcare-sectors-integration"]
+domain: intervention
+slug: healthcare-sectors-integration
 sources:
-  - fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing
+- fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing
+tags:
+- healthcare-sectors-integration
+title: Healthcare Sectors Integration
+type: topic
 updated: 2026-05-04
 ---
 

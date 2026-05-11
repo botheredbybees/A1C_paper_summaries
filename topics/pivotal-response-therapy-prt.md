@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Pivotal Response Therapy"
 confidence: low
-tags: ["pivotal-response-therapy-prt"]
+domain: intervention
+slug: pivotal-response-therapy
 sources:
-  - fxa303-week04-lesson-fxa303-week04-page-3-arts-and-play
+- fxa303-week04-lesson-fxa303-week04-page-3-arts-and-play
+tags:
+- pivotal-response-therapy-prt
+title: Pivotal Response Therapy
+type: topic
 updated: 2026-05-04
 ---
 

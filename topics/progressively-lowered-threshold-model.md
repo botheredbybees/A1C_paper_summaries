@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "theory"
-title: "Progressively Lowered Threshold Model"
 confidence: medium
-tags: ["progressively-lowered-threshold-model"]
+domain: theory
+slug: progressively-lowered-threshold-model
 sources:
-  - fxa100-excellence-in-dementia-care--ch02-chapter-11
-  - fxa100-excellence-in-dementia-care--ch60-chapter-11
+- fxa100-excellence-in-dementia-care--ch02-chapter-11
+- fxa100-excellence-in-dementia-care--ch60-chapter-11
+tags:
+- progressively-lowered-threshold-model
+title: Progressively Lowered Threshold Model
+type: topic
 updated: 2026-05-04
 ---
 

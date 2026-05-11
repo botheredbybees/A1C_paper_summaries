@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Protein Aggregation in Neurodegenerative Diseases"
 confidence: medium
-tags: ["protein-aggregation"]
+domain: intervention
+slug: protein-aggregation-in-neurodegenerative-diseases
 sources:
-  - fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical
-  - fxa100-week01-what-is-frontotemporal-dementia
+- fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical
+- fxa100-week01-what-is-frontotemporal-dementia
+tags:
+- protein-aggregation
+title: Protein Aggregation in Neurodegenerative Diseases
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Early Intervention Strategies"
 confidence: low
-tags: ["early-intervention-strategies"]
+domain: intervention
+slug: early-intervention-strategies
 sources:
-  - fxa303-week04-neurodiversity-and-the-autism-spectrum
+- fxa303-week04-neurodiversity-and-the-autism-spectrum
+tags:
+- early-intervention-strategies
+title: Early Intervention Strategies
+type: topic
 updated: 2026-05-04
 ---
 

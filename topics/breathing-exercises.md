@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Breathing Exercises"
 confidence: medium
-tags: ["breathing-exercises"]
+domain: intervention
+slug: breathing-exercises
 sources:
   - fxa100-week04-singing-for-better-breathing-transcript
   - fxa100-week04-the-singers-breath-implications-for-treatment-of-persons
   - fxa303-trauma-and-expressive-arts-ch04-1-slowly-exhale-through-your-mouth
-updated: 2026-05-04
+- fxa100-week04-singing-for-better-breathing-transcript
+- fxa100-week04-the-singers-breath-implications-for-treatment-of-persons
+- fxa303-trauma-and-expressive-arts-ch04-1-slowly-exhale-through-your-mouth
+tags:
+- breathing-exercises
+title: Breathing Exercises
+type: topic
+updated: 2026-05-11
 ---
 
 ## Breathing Exercises

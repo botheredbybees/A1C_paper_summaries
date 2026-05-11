@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Transformative Effects on Youth"
 confidence: low
-tags: ["transformative-effects-on-youth"]
+domain: intervention
+slug: transformative-effects-on-youth
 sources:
-  - fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation
+- fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation
+tags:
+- transformative-effects-on-youth
+title: Transformative Effects on Youth
+type: topic
 updated: 2026-05-04
 ---
 

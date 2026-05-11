@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Enhancing Communication"
 confidence: low
-tags: ["enhancing-communication"]
+domain: intervention
+slug: enhancing-communication
 sources:
-  - fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact
+- fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact
+tags:
+- enhancing-communication
+title: Enhancing Communication
+type: topic
 updated: 2026-05-04
 ---
 

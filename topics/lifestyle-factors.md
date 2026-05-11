@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Lifestyle Factors in Neurodegeneration Prevention"
 confidence: medium
-tags: ["lifestyle-factors"]
+domain: intervention
+slug: lifestyle-factors-in-neurodegeneration-prevention
 sources:
-  - fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical
-  - fxa100-week02-playing-a-musical-instrument-as-a-protective-factor-against
+- fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical
+- fxa100-week02-playing-a-musical-instrument-as-a-protective-factor-against
+tags:
+- lifestyle-factors
+title: Lifestyle Factors in Neurodegeneration Prevention
+type: topic
 updated: 2026-05-03
 ---
 

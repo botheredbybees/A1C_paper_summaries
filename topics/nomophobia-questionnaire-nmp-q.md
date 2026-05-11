@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Nomophobia Questionnaire (NMP-Q)"
 confidence: low
-tags: ["nomophobia-questionnaire-nmp-q"]
+domain: method
+slug: nomophobia-questionnaire-nmp-q
 sources:
-  - fxa202-week03-nomophobia-the-fear-of-being-without-your-phone
+- fxa202-week03-nomophobia-the-fear-of-being-without-your-phone
+tags:
+- nomophobia-questionnaire-nmp-q
+title: Nomophobia Questionnaire (NMP-Q)
+type: topic
 updated: 2026-05-04
 ---
 

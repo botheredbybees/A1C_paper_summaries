@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Servant Leadership"
 confidence: low
-tags: ["servant-leadership"]
+domain: intervention
+slug: servant-leadership
 sources:
-  - fxa303-creativity-wellbeing-and-mental-health-ch05-8-creative-approaches-to-learning-and-leadership-tony-gillam
+- fxa303-creativity-wellbeing-and-mental-health-ch05-8-creative-approaches-to-learning-and-leadership-tony-gillam
+tags:
+- servant-leadership
+title: Servant Leadership
+type: topic
 updated: 2026-05-04
 ---
 

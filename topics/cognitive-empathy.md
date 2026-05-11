@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Empathy Manipulation and Emotional Responses"
 confidence: medium
-tags: ["cognitive-empathy"]
+domain: intervention
+slug: empathy-manipulation-and-emotional-responses
 sources:
-  - fxa301-week02-empathy-manipulation-impacts-music-induced-emotions-a
-  - fxa303-week06-art-therapy-with-puppet-making-to-promote-emotional-empathy
+- fxa301-week02-empathy-manipulation-impacts-music-induced-emotions-a
+- fxa303-week06-art-therapy-with-puppet-making-to-promote-emotional-empathy
+tags:
+- cognitive-empathy
+title: Empathy Manipulation and Emotional Responses
+type: topic
 updated: 2026-05-04
 ---
 

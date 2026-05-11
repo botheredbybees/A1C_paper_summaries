@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "method"
-title: "Feasibility in Research"
 confidence: medium
-tags: ["feasibility"]
+domain: method
+slug: feasibility-in-research
 sources:
-  - fxa100-week04-writing-a-research-protocol
-  - fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production
+- fxa100-week04-writing-a-research-protocol
+- fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production
+tags:
+- feasibility
+title: Feasibility in Research
+type: topic
 updated: 2026-05-04
 ---
 

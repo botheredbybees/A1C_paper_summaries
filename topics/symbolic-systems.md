@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Symbolic Systems in Visual Communication"
 confidence: low
-tags: ["symbolic-systems"]
+domain: theory
+slug: symbolic-systems-in-visual-communication
 sources:
-  - fxa301-make-arts-for-a-better-life-ch16-1-create-an-inventory-of-the-content-elements
+- fxa301-make-arts-for-a-better-life-ch16-1-create-an-inventory-of-the-content-elements
+tags:
+- symbolic-systems
+title: Symbolic Systems in Visual Communication
+type: topic
 updated: 2026-05-04
 ---
 

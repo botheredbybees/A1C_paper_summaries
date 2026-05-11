@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Dual-eeg Technology in Emotion Processing"
 confidence: low
-tags: ["dual-eeg-technology"]
+domain: method
+slug: dual-eeg-technology-in-emotion-processing
 sources:
-  - fxa100-week03-telling-me-not-to-worry-hyperscanning-and-neural-dynamics
+- fxa100-week03-telling-me-not-to-worry-hyperscanning-and-neural-dynamics
+tags:
+- dual-eeg-technology
+title: Dual-eeg Technology in Emotion Processing
+type: topic
 updated: 2026-05-04
 ---
 

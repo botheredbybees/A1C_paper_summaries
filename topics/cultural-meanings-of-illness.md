@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Cultural Meanings of Illness"
 confidence: low
-tags: ["cultural-meanings-of-illness"]
+domain: theory
+slug: cultural-meanings-of-illness
 sources:
-  - fxa303-week10-cultural-diversity-and-mental-health-considerations-for
+- fxa303-week10-cultural-diversity-and-mental-health-considerations-for
+tags:
+- cultural-meanings-of-illness
+title: Cultural Meanings of Illness
+type: topic
 updated: 2026-05-04
 ---
 

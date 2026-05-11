@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Complexity in Aesthetics"
 confidence: low
-tags: ["complexity"]
+domain: theory
+slug: complexity-in-aesthetics
 sources:
-  - fxa301-week02-aesthetic-judgments-of-novel-graphic-patterns-analyses-of
+- fxa301-week02-aesthetic-judgments-of-novel-graphic-patterns-analyses-of
+tags:
+- complexity
+title: Complexity in Aesthetics
+type: topic
 updated: 2026-05-04
 ---
 

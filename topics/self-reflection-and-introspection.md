@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Self-Reflection And Introspection Through Photography"
 confidence: low
-tags: ["self-reflection-and-introspection"]
+domain: intervention
+slug: self-reflection-and-introspection-through-photography
 sources:
-  - fxa202-week03-can-photography-help-depression
+- fxa202-week03-can-photography-help-depression
+tags:
+- self-reflection-and-introspection
+title: Self-Reflection And Introspection Through Photography
+type: topic
 updated: 2026-05-04
 ---
 

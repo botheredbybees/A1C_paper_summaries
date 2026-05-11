@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Song Form"
 confidence: low
-tags: ["song-form"]
+domain: theory
+slug: song-form
 sources:
-  - fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration
+- fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration
+tags:
+- song-form
+title: Song Form
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Individualized Strategies in Dementia Care"
 confidence: low
-tags: ["individualized-strategies"]
+domain: intervention
+slug: individualized-strategies-in-dementia-care
 sources:
-  - fxa100-excellence-in-dementia-care--ch29-chapter-17
+- fxa100-excellence-in-dementia-care--ch29-chapter-17
+tags:
+- individualized-strategies
+title: Individualized Strategies in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Neuropsychiatric Inventory-Nursing Home Version (Npi-nh)"
 confidence: low
-tags: ["neuropsychiatric-inventory-nursing-home-version-npi-nh"]
+domain: intervention
+slug: neuropsychiatric-inventory-nursing-home-version-npi-nh
 sources:
-  - fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a
+- fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a
+tags:
+- neuropsychiatric-inventory-nursing-home-version-npi-nh
+title: Neuropsychiatric Inventory-Nursing Home Version (Npi-nh)
+type: topic
 updated: 2026-05-04
 ---
 

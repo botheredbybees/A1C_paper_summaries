@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Socio-Emotional Skills Development Through Arts Education"
 confidence: medium
-tags: ["socio-emotional-skills"]
+domain: intervention
+slug: socio-emotional-skills-development-through-arts-education
 sources:
-  - fxa303-week03-arts-in-adolescence
-  - fxa303-week03-the-impact-of-art-education-on-human-capital-an-empirical
+- fxa303-week03-arts-in-adolescence
+- fxa303-week03-the-impact-of-art-education-on-human-capital-an-empirical
+tags:
+- socio-emotional-skills
+title: Socio-Emotional Skills Development Through Arts Education
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Genetic Factors in Post-Traumatic Stress Disorder"
 confidence: low
-tags: ["genetic-factors-in-ptsd"]
+domain: theory
+slug: genetic-factors-in-post-traumatic-stress-disorder
 sources:
-  - fxa303-week01-post-traumatic-stress-disorder-the-neurobiological-impact
+- fxa303-week01-post-traumatic-stress-disorder-the-neurobiological-impact
+tags:
+- genetic-factors-in-ptsd
+title: Genetic Factors in Post-Traumatic Stress Disorder
+type: topic
 updated: 2026-05-04
 ---
 

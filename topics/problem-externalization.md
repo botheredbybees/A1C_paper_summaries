@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Problem Externalization in Narrative Therapy"
 confidence: low
-tags: ["problem-externalization"]
+domain: intervention
+slug: problem-externalization-in-narrative-therapy
 sources:
-  - fxa303-week06-using-puppets-with-children-in-narrative-therapy-to
+- fxa303-week06-using-puppets-with-children-in-narrative-therapy-to
+tags:
+- problem-externalization
+title: Problem Externalization in Narrative Therapy
+type: topic
 updated: 2026-05-04
 ---
 

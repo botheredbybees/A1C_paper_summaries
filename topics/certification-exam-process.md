@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Certification Exam Process"
 confidence: low
-tags: ["certification-exam-process"]
+domain: intervention
+slug: certification-exam-process
 sources:
-  - fxa301-bridging-the-creative-arts-therapies-ch09-5-collaboration-(2)
+- fxa301-bridging-the-creative-arts-therapies-ch09-5-collaboration-(2)
+tags:
+- certification-exam-process
+title: Certification Exam Process
+type: topic
 updated: 2026-05-04
 ---
 

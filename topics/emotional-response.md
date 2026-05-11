@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Response to Music"
 confidence: medium
-tags: ["emotional-response"]
+domain: intervention
+slug: emotional-response-to-music
 sources:
   - fxa100-week03-introduction-to-week-3-listening-to-music
   - fxa301-week02-lecture-on-perception-of-the-arts
-updated: 2026-05-04
+- fxa100-week03-introduction-to-week-3-listening-to-music
+- fxa301-week02-lecture-on-perception-of-the-arts
+tags:
+- emotional-response
+title: Emotional Response to Music
+type: topic
+updated: 2026-05-11
 ---
 
 ## Emotional Response to Music

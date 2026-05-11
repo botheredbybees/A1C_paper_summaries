@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music and Mental Health Practice"
 confidence: low
-tags: ["music-workshop-project"]
+domain: intervention
+slug: music-and-mental-health-practice
 sources:
-  - fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam
+- fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam
+tags:
+- music-workshop-project
+title: Music and Mental Health Practice
+type: topic
 updated: 2026-05-04
 ---
 

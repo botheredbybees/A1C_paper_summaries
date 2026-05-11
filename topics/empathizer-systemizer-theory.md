@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Empathizer-Systemizer Theory"
 confidence: low
-tags: ["empathizer-systemizer-theory"]
+domain: theory
+slug: empathizer-systemizer-theory
 sources:
-  - fxa100-week03-musical-preferences-may-reflect-cognitive-style
+- fxa100-week03-musical-preferences-may-reflect-cognitive-style
+tags:
+- empathizer-systemizer-theory
+title: Empathizer-Systemizer Theory
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Cartesian Dualism"
 confidence: low
-tags: ["cartesian-dualism"]
+domain: theory
+slug: cartesian-dualism
 sources:
-  - fxa301-arts-in-health-ch04-48-haldane-d
+- fxa301-arts-in-health-ch04-48-haldane-d
+tags:
+- cartesian-dualism
+title: Cartesian Dualism
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Caregiver Burden"
 confidence: low
-tags: ["caregiver-burden"]
+domain: intervention
+slug: caregiver-burden
 sources:
-  - fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery
+- fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery
+tags:
+- caregiver-burden
+title: Caregiver Burden
+type: topic
 updated: 2026-05-04
 ---
 

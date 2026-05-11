@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Collage-Making in Mental Health"
 confidence: low
-tags: ["collage-making"]
+domain: intervention
+slug: collage-making-in-mental-health
 sources:
-  - fxa301-week10-the-contribution-of-the-visual-in-qualitative-participatory
+- fxa301-week10-the-contribution-of-the-visual-in-qualitative-participatory
+tags:
+- collage-making
+title: Collage-Making in Mental Health
+type: topic
 updated: 2026-05-04
 ---
 

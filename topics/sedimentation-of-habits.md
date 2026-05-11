@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Sedimentation Of Habits"
 confidence: low
-tags: ["sedimentation-of-habits"]
+domain: theory
+slug: sedimentation-of-habits
 sources:
-  - fxa100-how-we-thnk-about-dementia-ch12-chapter-4
+- fxa100-how-we-thnk-about-dementia-ch12-chapter-4
+tags:
+- sedimentation-of-habits
+title: Sedimentation Of Habits
+type: topic
 updated: 2026-05-04
 ---
 

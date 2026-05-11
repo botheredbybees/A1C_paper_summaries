@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Immune System Functioning"
 confidence: low
-tags: ["immune-system-functioning"]
+domain: intervention
+slug: immune-system-functioning
 sources:
-  - fxa301-week08-health-related-effects-of-creative-and-expressive-writing
+- fxa301-week08-health-related-effects-of-creative-and-expressive-writing
+tags:
+- immune-system-functioning
+title: Immune System Functioning
+type: topic
 updated: 2026-05-04
 ---
 

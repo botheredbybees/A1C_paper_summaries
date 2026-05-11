@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Rod Puppetry"
 confidence: low
-tags: ["rod-puppetry"]
+domain: intervention
+slug: rod-puppetry
 sources:
-  - fxa303-week05-transcript-introduction-to-rod-puppets-spare-parts-puppet
+- fxa303-week05-transcript-introduction-to-rod-puppets-spare-parts-puppet
+tags:
+- rod-puppetry
+title: Rod Puppetry
+type: topic
 updated: 2026-05-04
 ---
 

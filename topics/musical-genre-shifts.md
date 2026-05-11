@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Musical Genre Shifts"
 confidence: low
-tags: ["musical-genre-shifts"]
+domain: theory
+slug: musical-genre-shifts
 sources:
-  - fxa100-week03-the-musical-ages-of-modern-man-how-our-taste-in-music
+- fxa100-week03-the-musical-ages-of-modern-man-how-our-taste-in-music
+tags:
+- musical-genre-shifts
+title: Musical Genre Shifts
+type: topic
 updated: 2026-05-04
 ---
 

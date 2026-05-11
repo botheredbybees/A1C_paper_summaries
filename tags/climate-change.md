@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: climate-change
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Climate Change

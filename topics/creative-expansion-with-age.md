@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Expansion With Age"
 confidence: low
-tags: ["creative-expansion-with-age"]
+domain: intervention
+slug: creative-expansion-with-age
 sources:
-  - fxa202-week10-the-reciprocal-influence-of-art-and-aging
+- fxa202-week10-the-reciprocal-influence-of-art-and-aging
+tags:
+- creative-expansion-with-age
+title: Creative Expansion With Age
+type: topic
 updated: 2026-05-04
 ---
 

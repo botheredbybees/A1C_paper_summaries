@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Structured Group Arts Activities"
 confidence: low
-tags: ["structured-group-arts-activities"]
+domain: intervention
+slug: structured-group-arts-activities
 sources:
-  - fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and
+- fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and
+tags:
+- structured-group-arts-activities
+title: Structured Group Arts Activities
+type: topic
 updated: 2026-05-04
 ---
 

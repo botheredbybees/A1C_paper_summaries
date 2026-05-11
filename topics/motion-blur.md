@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Motion Blur in Photography"
 confidence: low
-tags: ["motion-blur"]
+domain: method
+slug: motion-blur-in-photography
 sources:
-  - fxa202-week02-aperture-and-shutter-priority-modes
+- fxa202-week02-aperture-and-shutter-priority-modes
+tags:
+- motion-blur
+title: Motion Blur in Photography
+type: topic
 updated: 2026-05-04
 ---
 

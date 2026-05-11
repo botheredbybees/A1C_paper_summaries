@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Qualitative Research Methods"
 confidence: low
-tags: ["qualitative-research-methods"]
+domain: method
+slug: qualitative-research-methods
 sources:
-  - fxa301-week01-lesson-fxa301-week01-page-1-hm
+- fxa301-week01-lesson-fxa301-week01-page-1-hm
+tags:
+- qualitative-research-methods
+title: Qualitative Research Methods
+type: topic
 updated: 2026-05-04
 ---
 

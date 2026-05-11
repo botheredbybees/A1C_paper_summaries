@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: socio-economic-stratification
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Socio Economic Stratification

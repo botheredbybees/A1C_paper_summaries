@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Singing and Positive Affect"
 confidence: low
-tags: ["positive-affect"]
+domain: intervention
+slug: singing-and-positive-affect
 sources:
-  - fxa301-week06-the-ice-breaker-effect-singing-mediates-fast-social-bonding
+- fxa301-week06-the-ice-breaker-effect-singing-mediates-fast-social-bonding
+tags:
+- positive-affect
+title: Singing and Positive Affect
+type: topic
 updated: 2026-05-04
 ---
 

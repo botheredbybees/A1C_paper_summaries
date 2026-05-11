@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Mindfulness Practice Through Photography"
 confidence: medium
-tags: ["mindfulness-practice"]
+domain: intervention
+slug: mindfulness-practice-through-photography
 sources:
   - fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography
   - fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a
   - fxa202-week10-critical-reflection-my-photo-essay
-updated: 2026-05-05
+- fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography
+- fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a
+- fxa202-week10-critical-reflection-my-photo-essay
+tags:
+- mindfulness-practice
+title: Mindfulness Practice Through Photography
+type: topic
+updated: 2026-05-11
 ---
 
 ## Mindfulness Practice Through Photography

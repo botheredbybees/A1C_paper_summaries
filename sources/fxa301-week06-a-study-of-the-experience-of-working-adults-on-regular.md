@@ -11,7 +11,7 @@ tags: ["working-adults", "choral-activities", "focus-groups", "psychological-wel
 key_concepts: ["self-improvement", "sense-of-community", "positive-self-identity", "healing-and-happiness"]
 methods: ["focus-group-interviews"]
 slug: fxa301-week06-a-study-of-the-experience-of-working-adults-on-regular
-related: ["psychological-wellbeing"]
+related: ["focus-groups", "psychological-wellbeing"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,4 +43,5 @@ This study explores the experiences of working adults participating in regular c
 
 ## See Also
 
+- [focus-groups](../topics/focus-groups.md)
 - [psychological-wellbeing](../topics/psychological-wellbeing.md)

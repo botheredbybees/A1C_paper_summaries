@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Ethical Approval Process"
 confidence: low
-tags: ["ethical-approval-process"]
+domain: method
+slug: ethical-approval-process
 sources:
-  - fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production-(2)
+- fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production-(2)
+tags:
+- ethical-approval-process
+title: Ethical Approval Process
+type: topic
 updated: 2026-05-04
 ---
 

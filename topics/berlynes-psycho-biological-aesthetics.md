@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Berlynes Psycho-Biological Aesthetics"
 confidence: low
-tags: ["berlynes-psycho-biological-aesthetics"]
+domain: theory
+slug: berlynes-psycho-biological-aesthetics
 sources:
-  - fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and
+- fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and
+tags:
+- berlynes-psycho-biological-aesthetics
+title: Berlynes Psycho-Biological Aesthetics
+type: topic
 updated: 2026-05-04
 ---
 

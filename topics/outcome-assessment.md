@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Outcome Assessment in Arts in Health"
 confidence: low
-tags: ["outcome-assessment"]
+domain: method
+slug: outcome-assessment-in-arts-in-health
 sources:
-  - fxa301-arts-in-health-ch67-chapter-6-(2)
+- fxa301-arts-in-health-ch67-chapter-6-(2)
+tags:
+- outcome-assessment
+title: Outcome Assessment in Arts in Health
+type: topic
 updated: 2026-05-04
 ---
 

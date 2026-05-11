@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts Therapies in Mental Health Interventions"
 confidence: medium
-tags: ["arts-therapies"]
+domain: intervention
+slug: arts-therapies-in-mental-health-interventions
 sources:
-  - fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the
-  - fxa303-week10-arts-education-and-society-the-role-of-the-arts-in
+- fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the
+- fxa303-week10-arts-education-and-society-the-role-of-the-arts-in
+tags:
+- arts-therapies
+title: Arts Therapies in Mental Health Interventions
+type: topic
 updated: 2026-05-04
 ---
 

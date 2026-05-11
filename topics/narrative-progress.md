@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Narrative Progress in Visual Storytelling"
 confidence: low
-tags: ["narrative-progress"]
+domain: method
+slug: narrative-progress-in-visual-storytelling
 sources:
-  - fxa202-week09-fxa202-week-9-web-lecture-the-photo-essay-storytelling-with
+- fxa202-week09-fxa202-week-9-web-lecture-the-photo-essay-storytelling-with
+tags:
+- narrative-progress
+title: Narrative Progress in Visual Storytelling
+type: topic
 updated: 2026-05-04
 ---
 

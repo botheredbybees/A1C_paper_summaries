@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music And Memory Program"
 confidence: medium
-tags: ["music-and-memory-program"]
+domain: intervention
+slug: music-and-memory-program
 sources:
-  - fxa100-week03-evaluation-of-the-music-and-memory-program-among-nursing
-  - fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care
+- fxa100-week03-evaluation-of-the-music-and-memory-program-among-nursing
+- fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care
+tags:
+- music-and-memory-program
+title: Music And Memory Program
+type: topic
 updated: 2026-05-04
 ---
 

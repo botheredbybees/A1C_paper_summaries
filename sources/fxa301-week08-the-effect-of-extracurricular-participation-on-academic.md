@@ -11,7 +11,7 @@ tags: ["extracurricular-activities", "academic-outcomes", "school-district-study
 key_concepts: ["PARCC test scores", "demographic disparities", "free and reduced lunch eligibility"]
 methods: ["correlational study"]
 slug: fxa301-week08-the-effect-of-extracurricular-participation-on-academic
-related: []
+related: ["academic-outcomes"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,4 +43,4 @@ This dissertation explores the impact of extracurricular activities on academic 
 
 ## See Also
 
-*(none yet)*
+- [academic-outcomes](../topics/academic-outcomes.md)

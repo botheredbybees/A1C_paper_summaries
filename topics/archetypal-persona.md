@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Archetypal Persona in Therapy"
 confidence: low
-tags: ["archetypal-persona"]
+domain: intervention
+slug: archetypal-persona-in-therapy
 sources:
-  - fxa303-week08-clown-therapy-a-drama-therapy-approach-to-addiction-and
+- fxa303-week08-clown-therapy-a-drama-therapy-approach-to-addiction-and
+tags:
+- archetypal-persona
+title: Archetypal Persona in Therapy
+type: topic
 updated: 2026-05-04
 ---
 

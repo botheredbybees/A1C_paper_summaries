@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Gene Expression Dysregulation in Autism Spectrum Disorder"
 confidence: low
-tags: ["gene-expression"]
+domain: intervention
+slug: gene-expression-dysregulation-in-autism-spectrum-disorder
 sources:
-  - fxa303-week04-broad-transcriptomic-dysregulation-occurs-across-the
+- fxa303-week04-broad-transcriptomic-dysregulation-occurs-across-the
+tags:
+- gene-expression
+title: Gene Expression Dysregulation in Autism Spectrum Disorder
+type: topic
 updated: 2026-05-04
 ---
 

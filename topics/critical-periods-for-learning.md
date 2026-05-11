@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Critical Periods for Learning"
 confidence: low
-tags: ["critical-periods-for-learning"]
+domain: theory
+slug: critical-periods-for-learning
 sources:
-  - fxa303-week04-developmental-psychology-from-infancy-to-adulthood-chapter
+- fxa303-week04-developmental-psychology-from-infancy-to-adulthood-chapter
+tags:
+- critical-periods-for-learning
+title: Critical Periods for Learning
+type: topic
 updated: 2026-05-04
 ---
 

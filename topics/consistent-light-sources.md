@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Consistent Light Sources in Art Conservation"
 confidence: low
-tags: ["consistent-light-sources"]
+domain: method
+slug: consistent-light-sources-in-art-conservation
 sources:
-  - fxa202-week08-home-hints-for-artwork-and-object-documentation
+- fxa202-week08-home-hints-for-artwork-and-object-documentation
+tags:
+- consistent-light-sources
+title: Consistent Light Sources in Art Conservation
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Image Rotation Techniques"
 confidence: low
-tags: ["rotating"]
+domain: method
+slug: image-rotation-techniques
 sources:
-  - fxa202-week08-making-basic-adjustments-tutorial-at-gcflearnfree
+- fxa202-week08-making-basic-adjustments-tutorial-at-gcflearnfree
+tags:
+- rotating
+title: Image Rotation Techniques
+type: topic
 updated: 2026-05-04
 ---
 

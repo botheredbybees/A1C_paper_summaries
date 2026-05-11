@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Culturally Informed Practices"
 confidence: low
-tags: ["culturally-informed-practices"]
+domain: intervention
+slug: culturally-informed-practices
 sources:
-  - fxa303-week10-web-article-russ-smith-2023
+- fxa303-week10-web-article-russ-smith-2023
+tags:
+- culturally-informed-practices
+title: Culturally Informed Practices
+type: topic
 updated: 2026-05-04
 ---
 

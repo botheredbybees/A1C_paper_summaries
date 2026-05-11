@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Individualized Dementia Care"
 confidence: low
-tags: ["individualization-in-dementia-care"]
+domain: intervention
+slug: individualized-dementia-care
 sources:
-  - fxa100-week10-person-centred-dementia-care
+- fxa100-week10-person-centred-dementia-care
+tags:
+- individualization-in-dementia-care
+title: Individualized Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

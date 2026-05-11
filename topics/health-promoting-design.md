@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Health-Promoting Design"
 confidence: low
-tags: ["health-promoting-design"]
+domain: intervention
+slug: health-promoting-design
 sources:
-  - fxa301-week05-museums-and-wellbeing-an-overview-on-emerging-architectural
+- fxa301-week05-museums-and-wellbeing-an-overview-on-emerging-architectural
+tags:
+- health-promoting-design
+title: Health-Promoting Design
+type: topic
 updated: 2026-05-04
 ---
 

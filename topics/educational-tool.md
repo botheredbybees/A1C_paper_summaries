@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "educational-tool"
-title: "Dementia Awareness Educational Tool"
 confidence: low
-tags: ["educational-tool"]
+domain: educational-tool
+slug: dementia-awareness-educational-tool
 sources:
-  - fxa100-week10-transcript-this-trailer-gives-an-overview-of-the-play-and
+- fxa100-week10-transcript-this-trailer-gives-an-overview-of-the-play-and
+tags:
+- educational-tool
+title: Dementia Awareness Educational Tool
+type: topic
 updated: 2026-05-04
 ---
 

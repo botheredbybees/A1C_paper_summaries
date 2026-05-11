@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cognitive Training and Rehabilitation in Dementia Care"
 confidence: low
-tags: ["internal-strategies"]
+domain: intervention
+slug: cognitive-training-and-rehabilitation-in-dementia-care
 sources:
-  - fxa100-excellence-in-dementia-care--ch09-chapter-15
+- fxa100-excellence-in-dementia-care--ch09-chapter-15
+tags:
+- internal-strategies
+title: Cognitive Training and Rehabilitation in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

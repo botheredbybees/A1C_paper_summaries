@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Bottom-Up Processing"
 confidence: low
-tags: ["bottom-up-processing"]
+domain: theory
+slug: bottom-up-processing
 sources:
-  - fxa301-week02-can-science-account-for-taste-psychological-insights-into
+- fxa301-week02-can-science-account-for-taste-psychological-insights-into
+tags:
+- bottom-up-processing
+title: Bottom-Up Processing
+type: topic
 updated: 2026-05-04
 ---
 

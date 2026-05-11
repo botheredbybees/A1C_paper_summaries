@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cultural Interventions"
 confidence: low
-tags: ["cultural-interventions"]
+domain: intervention
+slug: cultural-interventions
 sources:
-  - fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing
+- fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing
+tags:
+- cultural-interventions
+title: Cultural Interventions
+type: topic
 updated: 2026-05-04
 ---
 

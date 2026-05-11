@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Disability Models"
 confidence: low
-tags: ["disability-models"]
+domain: theory
+slug: disability-models
 sources:
-  - fxa303-week04-community-perspectives-on-the-appropriateness-and
+- fxa303-week04-community-perspectives-on-the-appropriateness-and
+tags:
+- disability-models
+title: Disability Models
+type: topic
 updated: 2026-05-04
 ---
 

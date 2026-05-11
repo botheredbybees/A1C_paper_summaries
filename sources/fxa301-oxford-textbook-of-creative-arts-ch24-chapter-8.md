@@ -9,13 +9,14 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
+  - unit: FXA301
 tags: ["cultural-participation", "public-health", "epidemiology", "socio-economic-stratification", "gender-differences", "fxa301"]
 key_concepts: []
 methods: []
 slug: fxa301-oxford-textbook-of-creative-arts-ch24-chapter-8
 related: ["cultural-participation", "public-health"]
 created: 2026-05-05
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-oxford-textbook-of-creative-arts-ch24-chapter-8.md_

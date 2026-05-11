@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sensory-Based Writing"
 confidence: low
-tags: ["sensory-based-writing"]
+domain: intervention
+slug: sensory-based-writing
 sources:
-  - fxa100-week08-creativity-and-communication-in-persons-with-dementia-a
+- fxa100-week08-creativity-and-communication-in-persons-with-dementia-a
+tags:
+- sensory-based-writing
+title: Sensory-Based Writing
+type: topic
 updated: 2026-05-04
 ---
 

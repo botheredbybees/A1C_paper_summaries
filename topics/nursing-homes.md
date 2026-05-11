@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Interventions for Dementia in Nursing Homes"
 confidence: medium
-tags: ["nursing-homes"]
+domain: intervention
+slug: interventions-for-dementia-in-nursing-homes
 sources:
   - fxa100-week03-final-report-wisconsin-music-memory-program-student
   - fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a
   - fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
-updated: 2026-05-04
+- fxa100-week03-final-report-wisconsin-music-memory-program-student
+- fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a
+- fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
+tags:
+- nursing-homes
+title: Interventions for Dementia in Nursing Homes
+type: topic
+updated: 2026-05-11
 ---
 
 ## Interventions for Dementia in Nursing Homes

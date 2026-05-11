@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Dignity Enhancement"
 confidence: low
-tags: ["dignity-enhancement"]
+domain: intervention
+slug: dignity-enhancement
 sources:
-  - fxa100-week10-brightness-in-the-theatre
+- fxa100-week10-brightness-in-the-theatre
+tags:
+- dignity-enhancement
+title: Dignity Enhancement
+type: topic
 updated: 2026-05-04
 ---
 

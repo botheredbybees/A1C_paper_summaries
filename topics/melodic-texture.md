@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Melodic Texture"
 confidence: low
-tags: ["melodic-texture"]
+domain: method
+slug: melodic-texture
 sources:
-  - fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration
+- fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration
+tags:
+- melodic-texture
+title: Melodic Texture
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Symbolic Language In Therapy"
 confidence: low
-tags: ["symbolic-language-in-therapy"]
+domain: intervention
+slug: symbolic-language-in-therapy
 sources:
-  - fxa301-week10-lesson-fxa301-week10-page-3
+- fxa301-week10-lesson-fxa301-week10-page-3
+tags:
+- symbolic-language-in-therapy
+title: Symbolic Language In Therapy
+type: topic
 updated: 2026-05-04
 ---
 

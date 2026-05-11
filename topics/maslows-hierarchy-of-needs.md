@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Maslow's Hierarchy Of Needs"
 confidence: low
-tags: ["maslows-hierarchy-of-needs"]
+domain: theory
+slug: maslow-s-hierarchy-of-needs
 sources:
-  - fxa100-excellence-in-dementia-care--ch13-chapter-16
+- fxa100-excellence-in-dementia-care--ch13-chapter-16
+tags:
+- maslows-hierarchy-of-needs
+title: Maslow's Hierarchy Of Needs
+type: topic
 updated: 2026-05-04
 ---
 

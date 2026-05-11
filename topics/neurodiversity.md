@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "theory"
-title: "Neurodiversity"
 confidence: high
-tags: ["neurodiversity"]
+domain: theory
+slug: neurodiversity
 sources:
   - fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on
   - fxa303-week04-fxa303-week-4-introduction
@@ -14,7 +12,20 @@ sources:
   - fxa303-week04-the-concept-of-neurodiversity-is-dividing-the-autism
   - fxa303-week04-unraveling-neurodiversity-insights-from-neuroscientic
   - fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental
-updated: 2026-05-04
+- fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on
+- fxa303-week04-fxa303-week-4-introduction
+- fxa303-week04-lesson-fxa303-week04-page-3-arts-and-play
+- fxa303-week04-lesson-fxa303-week04-week-4-activities
+- fxa303-week04-neurodiversity-and-the-autism-spectrum
+- fxa303-week04-play-and-arts-based-therapies
+- fxa303-week04-the-concept-of-neurodiversity-is-dividing-the-autism
+- fxa303-week04-unraveling-neurodiversity-insights-from-neuroscientic
+- fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental
+tags:
+- neurodiversity
+title: Neurodiversity
+type: topic
+updated: 2026-05-11
 ---
 
 ## Neurodiversity

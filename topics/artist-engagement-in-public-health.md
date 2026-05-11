@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Artist Engagement in Public Health"
 confidence: low
-tags: ["artist-engagement-in-public-health"]
+domain: intervention
+slug: artist-engagement-in-public-health
 sources:
-  - fxa301-week03-how-do-we-realize-the-potential-of-the-arts-to-support
+- fxa301-week03-how-do-we-realize-the-potential-of-the-arts-to-support
+tags:
+- artist-engagement-in-public-health
+title: Artist Engagement in Public Health
+type: topic
 updated: 2026-05-04
 ---
 

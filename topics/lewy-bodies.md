@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Lewy Body Dementia"
 confidence: low
-tags: ["lewy-bodies"]
+domain: theory
+slug: lewy-body-dementia
 sources:
-  - fxa100-week01-the-science-of-lewy-body-dementia-video-transcript
+- fxa100-week01-the-science-of-lewy-body-dementia-video-transcript
+tags:
+- lewy-bodies
+title: Lewy Body Dementia
+type: topic
 updated: 2026-05-04
 ---
 

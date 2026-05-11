@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Caring Role"
 confidence: low
-tags: ["caring-role"]
+domain: intervention
+slug: caring-role
 sources:
-  - fxa100-week04-web-article-dementia-2022
+- fxa100-week04-web-article-dementia-2022
+tags:
+- caring-role
+title: Caring Role
+type: topic
 updated: 2026-05-04
 ---
 

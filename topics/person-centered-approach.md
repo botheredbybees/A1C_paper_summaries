@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Person-Centered Approach"
 confidence: medium
-tags: ["person-centered-approach"]
+domain: intervention
+slug: person-centered-approach
 sources:
   - fxa100-week04-person-centred-language-guidelines
   - fxa100-week09-personhood-maintained
-updated: 2026-05-04
+- fxa100-week04-person-centred-language-guidelines
+- fxa100-week09-personhood-maintained
+tags:
+- person-centered-approach
+title: Person-Centered Approach
+type: topic
+updated: 2026-05-11
 ---
 
 ## Person-Centered Approach

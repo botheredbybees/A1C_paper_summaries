@@ -11,7 +11,7 @@ tags: ["transcript-unavailable", "manual-transcript-retrieval", "youtube-video",
 key_concepts: []
 methods: []
 slug: fxa301-week05-transcript-duration-8-16-url-only
-related: ["youtube-video"]
+related: ["transcript-unavailable", "youtube-video"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -39,4 +39,5 @@ The video in question does not provide an automatic transcript download feature.
 
 ## See Also
 
+- [transcript-unavailable](../topics/transcript-unavailable.md)
 - [youtube-video](../topics/youtube-video.md)

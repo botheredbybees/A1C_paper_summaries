@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "theory"
-title: "Types Of Neurological Dementias"
 confidence: medium
-tags: ["neurology"]
+domain: theory
+slug: types-of-neurological-dementias
 sources:
   - fxa100-week01-living-with-dementia-12-what-is-vascular-dementia
   - fxa100-week01-transcript-alzheimers-society
@@ -11,7 +9,17 @@ sources:
   - fxa100-week02-the-power-of-music
   - fxa100-week03-transcript-the-effects-of-music-on-the-brain
   - fxa301-week01-web-article-zuckerman-2009
-updated: 2026-05-05
+- fxa100-week01-living-with-dementia-12-what-is-vascular-dementia
+- fxa100-week01-transcript-alzheimers-society
+- fxa100-week01-transcript-the-science-of-lewy-body-dementia
+- fxa100-week02-the-power-of-music
+- fxa100-week03-transcript-the-effects-of-music-on-the-brain
+- fxa301-week01-web-article-zuckerman-2009
+tags:
+- neurology
+title: Types Of Neurological Dementias
+type: topic
+updated: 2026-05-11
 ---
 
 ## Types Of Neurological Dementias

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Bunraku Theatre"
 confidence: low
-tags: ["bunraku-theatre"]
+domain: intervention
+slug: bunraku-theatre
 sources:
-  - fxa303-week05-forms-of-puppets-and-puppetry
+- fxa303-week05-forms-of-puppets-and-puppetry
+tags:
+- bunraku-theatre
+title: Bunraku Theatre
+type: topic
 updated: 2026-05-04
 ---
 

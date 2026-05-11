@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Personal Emotion Experience"
 confidence: low
-tags: ["personal-emotion-experience"]
+domain: intervention
+slug: personal-emotion-experience
 sources:
-  - fxa301-week08-lesson-fxa301-week07-page-4-week-3-activities
+- fxa301-week08-lesson-fxa301-week07-page-4-week-3-activities
+tags:
+- personal-emotion-experience
+title: Personal Emotion Experience
+type: topic
 updated: 2026-05-04
 ---
 

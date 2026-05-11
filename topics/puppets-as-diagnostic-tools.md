@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Puppets As Diagnostic Tools"
 confidence: low
-tags: ["puppets-as-diagnostic-tools"]
+domain: intervention
+slug: puppets-as-diagnostic-tools
 sources:
-  - fxa303-week06-therapeutic-puppetry-and-wellbeing
+- fxa303-week06-therapeutic-puppetry-and-wellbeing
+tags:
+- puppets-as-diagnostic-tools
+title: Puppets As Diagnostic Tools
+type: topic
 updated: 2026-05-04
 ---
 

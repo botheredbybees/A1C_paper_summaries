@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Healthcare Assistants in Dementia Care"
 confidence: medium
-tags: ["healthcare-assistants"]
+domain: intervention
+slug: healthcare-assistants-in-dementia-care
 sources:
   - fxa100-week10-transcript-this-trailer-gives-an-overview-of-the-play-and
   - fxa100-week10-transforming-dementia-care-through-theatre
-updated: 2026-05-04
+- fxa100-week10-transcript-this-trailer-gives-an-overview-of-the-play-and
+- fxa100-week10-transforming-dementia-care-through-theatre
+tags:
+- healthcare-assistants
+title: Healthcare Assistants in Dementia Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Healthcare Assistants in Dementia Care

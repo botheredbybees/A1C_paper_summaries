@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Social Status Through Dress"
 confidence: low
-tags: ["social-status-through-dress"]
+domain: intervention
+slug: social-status-through-dress
 sources:
-  - fxa303-week08-web-article-screti-2018
+- fxa303-week08-web-article-screti-2018
+tags:
+- social-status-through-dress
+title: Social Status Through Dress
+type: topic
 updated: 2026-05-04
 ---
 

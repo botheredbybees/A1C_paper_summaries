@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Indigenous Arts in Therapy and Mental Health"
 confidence: medium
-tags: ["indigenous-arts"]
+domain: intervention
+slug: indigenous-arts-in-therapy-and-mental-health
 sources:
   - fxa303-week10-indigenous-and-traditional-arts-in-art-therapy-value
   - fxa303-week10-lesson-fxa303-week10-page-2-indigenous-arts-and-mental
-updated: 2026-05-04
+- fxa303-week10-indigenous-and-traditional-arts-in-art-therapy-value
+- fxa303-week10-lesson-fxa303-week10-page-2-indigenous-arts-and-mental
+tags:
+- indigenous-arts
+title: Indigenous Arts in Therapy and Mental Health
+type: topic
+updated: 2026-05-11
 ---
 
 ## Indigenous Arts in Therapy and Mental Health

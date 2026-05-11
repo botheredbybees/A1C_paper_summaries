@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Neural Network Engagement"
 confidence: low
-tags: ["neural-network-engagement"]
+domain: intervention
+slug: neural-network-engagement
 sources:
-  - fxa301-week09-facing-the-music-three-issues-in-current-research-on
+- fxa301-week09-facing-the-music-three-issues-in-current-research-on
+tags:
+- neural-network-engagement
+title: Neural Network Engagement
+type: topic
 updated: 2026-05-04
 ---
 

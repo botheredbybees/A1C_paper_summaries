@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Camera Phone Use"
 confidence: low
-tags: ["camera-phone-use"]
+domain: method
+slug: camera-phone-use
 sources:
-  - fxa202-week01-lesson-fxa202-week01-page-4
+- fxa202-week01-lesson-fxa202-week01-page-4
+tags:
+- camera-phone-use
+title: Camera Phone Use
+type: topic
 updated: 2026-05-04
 ---
 

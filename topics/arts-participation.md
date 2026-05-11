@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "population"
-title: "Arts Participation"
 confidence: medium
-tags: ["arts-participation"]
+domain: population
+slug: arts-participation
 sources:
   - fxa301-week01-lesson-fxa301-week01-page-3-arts-participation
   - fxa301-week03-creating-our-future-results-of-the-national-arts
-updated: 2026-05-04
+- fxa301-week01-lesson-fxa301-week01-page-3-arts-participation
+- fxa301-week03-creating-our-future-results-of-the-national-arts
+tags:
+- arts-participation
+title: Arts Participation
+type: topic
+updated: 2026-05-11
 ---
 
 ## Arts Participation

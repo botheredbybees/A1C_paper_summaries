@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Late-Stage Dementia Interventions"
 confidence: low
-tags: ["late-stage-dementia"]
+domain: intervention
+slug: late-stage-dementia-interventions
 sources:
-  - fxa100-week04-the-effect-of-singing-on-alert-responses-in-persons-with
+- fxa100-week04-the-effect-of-singing-on-alert-responses-in-persons-with
+tags:
+- late-stage-dementia
+title: Late-Stage Dementia Interventions
+type: topic
 updated: 2026-05-04
 ---
 

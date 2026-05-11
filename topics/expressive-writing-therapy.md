@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Expressive Writing Therapy"
 confidence: medium
-tags: ["expressive-writing-therapy"]
+domain: intervention
+slug: expressive-writing-therapy
 sources:
   - fxa202-week09-expressive-writing-therapy-exercises-examples
   - fxa202-week09-guide-to-journaling
-updated: 2026-05-04
+- fxa202-week09-expressive-writing-therapy-exercises-examples
+- fxa202-week09-guide-to-journaling
+tags:
+- expressive-writing-therapy
+title: Expressive Writing Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Expressive Writing Therapy

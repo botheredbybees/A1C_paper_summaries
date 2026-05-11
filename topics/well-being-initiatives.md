@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Well-Being Initiatives Through Arts and Museums"
 confidence: medium
-tags: ["well-being-initiatives"]
+domain: intervention
+slug: well-being-initiatives-through-arts-and-museums
 sources:
   - fxa301-week03-arts-health-and-well-being-in-america
   - fxa301-week05-the-health-and-well-being-potential-of-museums-and-art
-updated: 2026-05-04
+- fxa301-week03-arts-health-and-well-being-in-america
+- fxa301-week05-the-health-and-well-being-potential-of-museums-and-art
+tags:
+- well-being-initiatives
+title: Well-Being Initiatives Through Arts and Museums
+type: topic
+updated: 2026-05-11
 ---
 
 ## Well-Being Initiatives Through Arts and Museums

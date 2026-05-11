@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Psychological First Aid"
 confidence: medium
-tags: ["psychological-first-aid"]
+domain: intervention
+slug: psychological-first-aid
 sources:
-  - fxa303-week09-lesson-fxa303-week09-activities
-  - fxa303-week09-psychological-first-aid-supporting-people-affected-by
+- fxa303-week09-lesson-fxa303-week09-activities
+- fxa303-week09-psychological-first-aid-supporting-people-affected-by
+tags:
+- psychological-first-aid
+title: Psychological First Aid
+type: topic
 updated: 2026-05-04
 ---
 

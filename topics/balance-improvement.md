@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Dance as a Fall Prevention Strategy"
 confidence: medium
-tags: ["balance-improvement"]
+domain: intervention
+slug: dance-as-a-fall-prevention-strategy
 sources:
-  - fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older
-  - fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster
+- fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older
+- fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster
+tags:
+- balance-improvement
+title: Dance as a Fall Prevention Strategy
+type: topic
 updated: 2026-05-04
 ---
 

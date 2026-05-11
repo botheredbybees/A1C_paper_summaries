@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Quality Improvement Plan"
 confidence: low
-tags: ["quality-improvement-plan"]
+domain: intervention
+slug: quality-improvement-plan
 sources:
-  - fxa303-week09-the-trauma-informed-care-and-practice-organisational
+- fxa303-week09-the-trauma-informed-care-and-practice-organisational
+tags:
+- quality-improvement-plan
+title: Quality Improvement Plan
+type: topic
 updated: 2026-05-04
 ---
 

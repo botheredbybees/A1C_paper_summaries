@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Narrative Through Images"
 confidence: low
-tags: ["narrative-through-images"]
+domain: intervention
+slug: narrative-through-images
 sources:
-  - fxa202-week05-making-metaphors-from-photos
+- fxa202-week05-making-metaphors-from-photos
+tags:
+- narrative-through-images
+title: Narrative Through Images
+type: topic
 updated: 2026-05-04
 ---
 

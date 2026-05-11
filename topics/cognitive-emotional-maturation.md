@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Cognitive and Emotional Maturation in Adolescents"
 confidence: low
-tags: ["cognitive-emotional-maturation"]
+domain: theory
+slug: cognitive-and-emotional-maturation-in-adolescents
 sources:
-  - fxa303-week03-brain-development-during-adolescence
+- fxa303-week03-brain-development-during-adolescence
+tags:
+- cognitive-emotional-maturation
+title: Cognitive and Emotional Maturation in Adolescents
+type: topic
 updated: 2026-05-04
 ---
 

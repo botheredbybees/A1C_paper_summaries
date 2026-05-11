@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Mesolimbic Pathway in Dementia Care"
 confidence: low
-tags: ["mesolimbic-pathway"]
+domain: intervention
+slug: mesolimbic-pathway-in-dementia-care
 sources:
-  - fxa100-week03-lesson-fxa100-week03-page-2-listening-and-dementia-care
+- fxa100-week03-lesson-fxa100-week03-page-2-listening-and-dementia-care
+tags:
+- mesolimbic-pathway
+title: Mesolimbic Pathway in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

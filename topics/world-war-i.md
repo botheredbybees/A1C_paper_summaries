@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Shell Shock and Treatment Innovations in World War I"
 confidence: medium
-tags: ["world-war-i"]
+domain: intervention
+slug: shell-shock-and-treatment-innovations-in-world-war-i
 sources:
   - fxa301-week05-shell-shock-trauma-and-the-first-world-war-the-making-of-a
   - fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at
-updated: 2026-05-04
+- fxa301-week05-shell-shock-trauma-and-the-first-world-war-the-making-of-a
+- fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at
+tags:
+- world-war-i
+title: Shell Shock and Treatment Innovations in World War I
+type: topic
+updated: 2026-05-11
 ---
 
 ## Shell Shock and Treatment Innovations in World War I

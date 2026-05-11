@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Global Perspectives On Arts And Health"
 confidence: low
-tags: ["global-perspectives-on-arts-and-health"]
+domain: intervention
+slug: global-perspectives-on-arts-and-health
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1
+- fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1
+tags:
+- global-perspectives-on-arts-and-health
+title: Global Perspectives On Arts And Health
+type: topic
 updated: 2026-05-04
 ---
 

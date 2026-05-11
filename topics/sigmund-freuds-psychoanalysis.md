@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Sigmund Freud's Psychoanalysis"
 confidence: low
-tags: ["sigmund-freuds-psychoanalysis"]
+domain: theory
+slug: sigmund-freud-s-psychoanalysis
 sources:
-  - fxa301-arts-in-health-ch04-48-haldane-d
+- fxa301-arts-in-health-ch04-48-haldane-d
+tags:
+- sigmund-freuds-psychoanalysis
+title: Sigmund Freud's Psychoanalysis
+type: topic
 updated: 2026-05-04
 ---
 

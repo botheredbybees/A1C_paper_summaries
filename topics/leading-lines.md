@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "method"
-title: "Leading Lines in Photography"
 confidence: medium
-tags: ["leading-lines"]
+domain: method
+slug: leading-lines-in-photography
 sources:
-  - fxa202-week02-improve-your-photography-skills-with-these-9-photo
-  - fxa202-week02-lesson-fxa202-week02-page-2
+- fxa202-week02-improve-your-photography-skills-with-these-9-photo
+- fxa202-week02-lesson-fxa202-week02-page-2
+tags:
+- leading-lines
+title: Leading Lines in Photography
+type: topic
 updated: 2026-05-04
 ---
 

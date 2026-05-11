@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Singing Interventions"
 confidence: low
-tags: ["singing-interventions"]
+domain: intervention
+slug: singing-interventions
 sources:
-  - fxa100-week04-week-4-activities-fxa100-the-arts-and-dementia-care
+- fxa100-week04-week-4-activities-fxa100-the-arts-and-dementia-care
+tags:
+- singing-interventions
+title: Singing Interventions
+type: topic
 updated: 2026-05-04
 ---
 

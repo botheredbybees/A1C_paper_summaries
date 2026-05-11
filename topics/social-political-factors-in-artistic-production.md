@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Social-Political Factors in Artistic Production"
 confidence: low
-tags: ["social-political-factors-in-artistic-production"]
+domain: theory
+slug: social-political-factors-in-artistic-production
 sources:
-  - fxa202-week10-arts-health-and-well-being-a-critical-perspective-on
+- fxa202-week10-arts-health-and-well-being-a-critical-perspective-on
+tags:
+- social-political-factors-in-artistic-production
+title: Social-Political Factors in Artistic Production
+type: topic
 updated: 2026-05-04
 ---
 

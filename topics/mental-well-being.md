@@ -1,16 +1,23 @@
 ---
-type: topic
-domain: "intervention"
-title: "Mental Well-being Through Creative Practices"
 confidence: high
-tags: ["mental-well-being"]
+domain: intervention
+slug: mental-well-being-through-creative-practices
 sources:
   - fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia
   - fxa202-week09-journaling-books-review
   - fxa301-week03-arts-public-health-and-the-national-arts-and-health
   - fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the
   - fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth
-updated: 2026-05-05
+- fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia
+- fxa202-week09-journaling-books-review
+- fxa301-week03-arts-public-health-and-the-national-arts-and-health
+- fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the
+- fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth
+tags:
+- mental-well-being
+title: Mental Well-being Through Creative Practices
+type: topic
+updated: 2026-05-11
 ---
 
 ## Mental Well-being Through Creative Practices

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Expressiveness in Music"
 confidence: low
-tags: ["emotional-expressiveness"]
+domain: intervention
+slug: emotional-expressiveness-in-music
 sources:
-  - fxa301-week02-current-emotion-research-in-music-psychology
+- fxa301-week02-current-emotion-research-in-music-psychology
+tags:
+- emotional-expressiveness
+title: Emotional Expressiveness in Music
+type: topic
 updated: 2026-05-04
 ---
 

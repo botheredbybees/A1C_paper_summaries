@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Communication"
 confidence: medium
-tags: ["therapeutic-communication"]
+domain: intervention
+slug: therapeutic-communication
 sources:
   - fxa303-week06-puppets-in-an-acute-paediatric-unit-nurses-experiences
   - fxa303-week08-more-than-just-an-entertainment-show-identification-of
-updated: 2026-05-04
+- fxa303-week06-puppets-in-an-acute-paediatric-unit-nurses-experiences
+- fxa303-week08-more-than-just-an-entertainment-show-identification-of
+tags:
+- therapeutic-communication
+title: Therapeutic Communication
+type: topic
+updated: 2026-05-11
 ---
 
 ## Therapeutic Communication

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "The Five-Ws in Creative Writing"
 confidence: low
-tags: ["five-ws"]
+domain: theory
+slug: the-five-ws-in-creative-writing
 sources:
-  - fxa202-week02-lesson-fxa202-week02-creative-writing
+- fxa202-week02-lesson-fxa202-week02-creative-writing
+tags:
+- five-ws
+title: The Five-Ws in Creative Writing
+type: topic
 updated: 2026-05-04
 ---
 

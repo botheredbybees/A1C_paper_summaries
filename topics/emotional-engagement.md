@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Engagement Through Music"
 confidence: medium
-tags: ["emotional-engagement"]
+domain: intervention
+slug: emotional-engagement-through-music
 sources:
-  - fxa100-week03-transcript-music-memory-the-ipod-project
-  - fxa100-week04-what-is-music-health-and-wellbeing
-  - fxa301-week06-music-and-medicine
+- fxa100-week03-transcript-music-memory-the-ipod-project
+- fxa100-week04-what-is-music-health-and-wellbeing
+- fxa301-week06-music-and-medicine
+tags:
+- emotional-engagement
+title: Emotional Engagement Through Music
+type: topic
 updated: 2026-05-04
 ---
 

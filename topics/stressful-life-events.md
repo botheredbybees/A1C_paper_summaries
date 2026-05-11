@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Impact of Stressful Life Events"
 confidence: low
-tags: ["stressful-life-events"]
+domain: intervention
+slug: impact-of-stressful-life-events
 sources:
-  - fxa303-week04-autism-spectrum-disorder-the-impact-of-stressful-and
+- fxa303-week04-autism-spectrum-disorder-the-impact-of-stressful-and
+tags:
+- stressful-life-events
+title: Impact of Stressful Life Events
+type: topic
 updated: 2026-05-04
 ---
 

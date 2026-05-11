@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Diaphragmatic Breathing"
 confidence: medium
-tags: ["diaphragmatic-breathing"]
+domain: intervention
+slug: diaphragmatic-breathing
 sources:
-  - fxa100-week04-learn-to-sing-breathing
-  - fxa100-week04-the-singers-breath-implications-for-treatment-of-persons
+- fxa100-week04-learn-to-sing-breathing
+- fxa100-week04-the-singers-breath-implications-for-treatment-of-persons
+tags:
+- diaphragmatic-breathing
+title: Diaphragmatic Breathing
+type: topic
 updated: 2026-05-04
 ---
 

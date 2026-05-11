@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Reflective Processing"
 confidence: low
-tags: ["reflective-processing"]
+domain: theory
+slug: reflective-processing
 sources:
-  - fxa303-week03-media-use-and-brain-development-during-adolescence
+- fxa303-week03-media-use-and-brain-development-during-adolescence
+tags:
+- reflective-processing
+title: Reflective Processing
+type: topic
 updated: 2026-05-04
 ---
 

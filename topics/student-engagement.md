@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Student Engagement in Online Learning"
 confidence: medium
-tags: ["student-engagement"]
+domain: intervention
+slug: student-engagement-in-online-learning
 sources:
   - fxa100-week10-web-article-brooker-2013
   - fxa202-week10-week-10-lecture
   - fxa301-week01-week-1-activities-page-video
-updated: 2026-05-05
+- fxa100-week10-web-article-brooker-2013
+- fxa202-week10-week-10-lecture
+- fxa301-week01-week-1-activities-page-video
+tags:
+- student-engagement
+title: Student Engagement in Online Learning
+type: topic
+updated: 2026-05-11
 ---
 
 ## Student Engagement in Online Learning

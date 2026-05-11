@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Socioeconomic Barriers in Healthcare"
 confidence: low
-tags: ["socioeconomic-barriers"]
+domain: intervention
+slug: socioeconomic-barriers-in-healthcare
 sources:
-  - fxa100-week03-5-tips-for-cultural-and-religious-appropriate-dementia-care
+- fxa100-week03-5-tips-for-cultural-and-religious-appropriate-dementia-care
+tags:
+- socioeconomic-barriers
+title: Socioeconomic Barriers in Healthcare
+type: topic
 updated: 2026-05-04
 ---
 

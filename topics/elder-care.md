@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "intervention"
-title: "Elder Care Interventions"
 confidence: high
-tags: ["elder-care"]
+domain: intervention
+slug: elder-care-interventions
 sources:
   - fxa100-week01-dementia-facts-and-figures
   - fxa100-week09-in-my-fathers-words-review-sophisticated-dementia-drama
   - fxa301-week06-engaging-with-music-and-dance
   - fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
-updated: 2026-05-04
+- fxa100-week01-dementia-facts-and-figures
+- fxa100-week09-in-my-fathers-words-review-sophisticated-dementia-drama
+- fxa301-week06-engaging-with-music-and-dance
+- fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
+tags:
+- elder-care
+title: Elder Care Interventions
+type: topic
+updated: 2026-05-11
 ---
 
 ## Elder Care Interventions

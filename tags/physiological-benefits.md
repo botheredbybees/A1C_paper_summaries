@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: physiological-benefits
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Physiological Benefits

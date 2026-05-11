@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: person-centered-care
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Person Centered Care
@@ -25,3 +25,4 @@ updated: 2026-05-06
 - [The experience of dementia](../sources/fxa100-week09-the-experience-of-dementia.md)
 - [The Fundamentals of Person-Centered Care for Individuals With Dementia](../sources/fxa100-week09-the-fundamentals-of-person-centered-care-for-individuals.md)
 - [Transforming Dementia Care Through Theatre](../sources/fxa100-week10-transforming-dementia-care-through-theatre.md)
+- [Dancemind\u2019s \u2018Moving Memories\u2019 Evaluation and analysis; a UK based dance and health project for people living with dementia and their care-staff](../sources/fxa100-week11-danceminds-moving-memories-evaluation-and-analysis-a-uk.md)

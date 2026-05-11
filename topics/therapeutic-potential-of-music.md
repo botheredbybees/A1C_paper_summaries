@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music Therapy"
 confidence: medium
-tags: ["therapeutic-potential-of-music"]
+domain: intervention
+slug: music-therapy
 sources:
-  - fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there
-  - fxa100-week02-history-of-music-therapy
-  - fxa100-week04-what-is-music-health-and-wellbeing
+- fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there
+- fxa100-week02-history-of-music-therapy
+- fxa100-week04-what-is-music-health-and-wellbeing
+tags:
+- therapeutic-potential-of-music
+title: Music Therapy
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Storytelling"
 confidence: medium
-tags: ["creative-storytelling"]
+domain: intervention
+slug: creative-storytelling
 sources:
-  - fxa202-week06-lesson-fxa202-week06-page-4
-  - fxa301-oxford-textbook-of-creative-arts-ch03-chapter-13
+- fxa202-week06-lesson-fxa202-week06-page-4
+- fxa301-oxford-textbook-of-creative-arts-ch03-chapter-13
+tags:
+- creative-storytelling
+title: Creative Storytelling
+type: topic
 updated: 2026-05-04
 ---
 

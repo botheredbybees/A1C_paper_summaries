@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Transparency In Reporting"
 confidence: low
-tags: ["transparency-in-reporting"]
+domain: method
+slug: transparency-in-reporting
 sources:
-  - fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of
+- fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of
+tags:
+- transparency-in-reporting
+title: Transparency In Reporting
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Personal Narratives in Dementia Care"
 confidence: low
-tags: ["personal-narratives"]
+domain: intervention
+slug: personal-narratives-in-dementia-care
 sources:
-  - fxa100-week06-transcript-affinity-interactive-light-sculpture-for-dementia
+- fxa100-week06-transcript-affinity-interactive-light-sculpture-for-dementia
+tags:
+- personal-narratives
+title: Personal Narratives in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

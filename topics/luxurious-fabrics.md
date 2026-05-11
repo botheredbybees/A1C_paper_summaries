@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Luxurious Fabrics and Social Status"
 confidence: low
-tags: ["luxurious-fabrics"]
+domain: theory
+slug: luxurious-fabrics-and-social-status
 sources:
-  - fxa303-week08-web-article-screti-2018
+- fxa303-week08-web-article-screti-2018
+tags:
+- luxurious-fabrics
+title: Luxurious Fabrics and Social Status
+type: topic
 updated: 2026-05-04
 ---
 

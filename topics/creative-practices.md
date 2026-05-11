@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Creative Arts for Community Wellbeing"
 confidence: medium
-tags: ["creative-practices"]
+domain: method
+slug: creative-arts-for-community-wellbeing
 sources:
   - fxa301-week01-a-step-by-step-approach-to-the-research-process
   - fxa303-week10-yesterday-i-couldnt-see-tomorrows-sun-shines-now-sharing
-updated: 2026-05-05
+- fxa301-week01-a-step-by-step-approach-to-the-research-process
+- fxa303-week10-yesterday-i-couldnt-see-tomorrows-sun-shines-now-sharing
+tags:
+- creative-practices
+title: Creative Arts for Community Wellbeing
+type: topic
+updated: 2026-05-11
 ---
 
 ## Creative Arts for Community Wellbeing

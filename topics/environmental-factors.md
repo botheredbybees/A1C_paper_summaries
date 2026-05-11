@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Environmental Factors in Adolescent and Young Adult Health"
 confidence: low
-tags: ["environmental-factors"]
+domain: population
+slug: environmental-factors-in-adolescent-and-young-adult-health
 sources:
-  - fxa303-week03-adolescent-and-young-adult-health
+- fxa303-week03-adolescent-and-young-adult-health
+tags:
+- environmental-factors
+title: Environmental Factors in Adolescent and Young Adult Health
+type: topic
 updated: 2026-05-04
 ---
 

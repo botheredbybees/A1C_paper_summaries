@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Evaluation Versus Research in Healthcare"
 confidence: low
-tags: ["evaluation-vs-research"]
+domain: method
+slug: evaluation-versus-research-in-healthcare
 sources:
-  - fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision
+- fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision
+tags:
+- evaluation-vs-research
+title: Evaluation Versus Research in Healthcare
+type: topic
 updated: 2026-05-04
 ---
 

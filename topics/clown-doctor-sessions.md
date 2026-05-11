@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Clown Doctor Sessions"
 confidence: low
-tags: ["clown-doctor-sessions"]
+domain: intervention
+slug: clown-doctor-sessions
 sources:
-  - fxa303-week08-therapeutic-clowning
+- fxa303-week08-therapeutic-clowning
+tags:
+- clown-doctor-sessions
+title: Clown Doctor Sessions
+type: topic
 updated: 2026-05-04
 ---
 

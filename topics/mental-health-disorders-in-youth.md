@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Mental Health Disorders In Youth"
 confidence: low
-tags: ["mental-health-disorders-in-youth"]
+domain: intervention
+slug: mental-health-disorders-in-youth
 sources:
-  - fxa303-week03-supporting-youth-mental-health-with-arts-based-strategies-a
+- fxa303-week03-supporting-youth-mental-health-with-arts-based-strategies-a
+tags:
+- mental-health-disorders-in-youth
+title: Mental Health Disorders In Youth
+type: topic
 updated: 2026-05-04
 ---
 

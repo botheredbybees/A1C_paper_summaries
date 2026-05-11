@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "theory"
-title: "Social Model Of Disability"
 confidence: high
-tags: ["social-model-disability"]
+domain: theory
+slug: social-model-of-disability
 sources:
   - fxa301-week09-lesson-fxa301-week09-page-2
   - fxa303-week04-exploring-the-critiques-of-the-social-model-of-disability
   - fxa303-week04-unconscious-bias-and-the-medical-model-how-the-social-model
   - fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental
-updated: 2026-05-04
+- fxa301-week09-lesson-fxa301-week09-page-2
+- fxa303-week04-exploring-the-critiques-of-the-social-model-of-disability
+- fxa303-week04-unconscious-bias-and-the-medical-model-how-the-social-model
+- fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental
+tags:
+- social-model-disability
+title: Social Model Of Disability
+type: topic
+updated: 2026-05-11
 ---
 
 ## Social Model Of Disability

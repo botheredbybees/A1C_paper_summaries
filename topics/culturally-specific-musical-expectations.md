@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Culturally Specific Musical Expectations"
 confidence: low
-tags: ["culturally-specific-musical-expectations"]
+domain: theory
+slug: culturally-specific-musical-expectations
 sources:
-  - fxa301-week02-current-emotion-research-in-music-psychology
+- fxa301-week02-current-emotion-research-in-music-psychology
+tags:
+- culturally-specific-musical-expectations
+title: Culturally Specific Musical Expectations
+type: topic
 updated: 2026-05-04
 ---
 

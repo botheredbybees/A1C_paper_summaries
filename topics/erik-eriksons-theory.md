@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Erik Erikson's Theory"
 confidence: low
-tags: ["erik-eriksons-theory"]
+domain: theory
+slug: erik-erikson-s-theory
 sources:
-  - fxa303-week02-the-psychosocial-development-of-children-implications-for
+- fxa303-week02-the-psychosocial-development-of-children-implications-for
+tags:
+- erik-eriksons-theory
+title: Erik Erikson's Theory
+type: topic
 updated: 2026-05-04
 ---
 

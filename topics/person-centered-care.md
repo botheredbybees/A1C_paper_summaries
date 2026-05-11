@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Person-Centered Care"
 confidence: high
-tags: ["person-centered-care"]
+domain: intervention
+slug: person-centered-care
 sources:
   - fxa100-creativity-and-communication-ch11-21-giving-creativity-a-shape-creativity-takes-many-forms
   - fxa100-excellence-in-dementia-care--ch10-chapter-15
@@ -24,7 +22,31 @@ sources:
   - fxa100-week09-the-experience-of-dementia
   - fxa100-week09-the-fundamentals-of-person-centered-care-for-individuals
   - fxa100-week10-transforming-dementia-care-through-theatre
-updated: 2026-05-05
+  - fxa100-week11-danceminds-moving-memories-evaluation-and-analysis-a-uk
+- fxa100-creativity-and-communication-ch11-21-giving-creativity-a-shape-creativity-takes-many-forms
+- fxa100-excellence-in-dementia-care--ch10-chapter-15
+- fxa100-week03-transcript-interview-with-alexa-transcript
+- fxa100-week03-transcript-music-memory-the-ipod-project
+- fxa100-week04-dementia-discourse-a-rethink
+- fxa100-week04-dementia-discourse-a-rethink-(2)
+- fxa100-week04-how-to-talk-about-dementia
+- fxa100-week07-house-of-memories-national-museums-liverpool
+- fxa100-week08-transcript-youtube-uk9nnjw4xuuduration
+- fxa100-week09-how-personhood-is-undermined
+- fxa100-week09-implementing-living-room-theatre-activities-for-people-with
+- fxa100-week09-implementing-living-room-theatre-activities-for-people-with-(2)
+- fxa100-week09-key-components-of-person-centered-care-for-people-with
+- fxa100-week09-key-intervention-categories-to-provide-person-centered
+- fxa100-week09-requirements-of-a-caregiver
+- fxa100-week09-testing-the-implementation-of-the-veder-contact-method-a
+- fxa100-week09-the-experience-of-dementia
+- fxa100-week09-the-fundamentals-of-person-centered-care-for-individuals
+- fxa100-week10-transforming-dementia-care-through-theatre
+tags:
+- person-centered-care
+title: Person-Centered Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Person-Centered Care
@@ -62,3 +84,4 @@ Person-centered care emphasizes tailoring healthcare approaches to the unique ne
 - [fxa100-week09-the-experience-of-dementia](../sources/fxa100-week09-the-experience-of-dementia.md)
 - [fxa100-week09-the-fundamentals-of-person-centered-care-for-individuals](../sources/fxa100-week09-the-fundamentals-of-person-centered-care-for-individuals.md)
 - [fxa100-week10-transforming-dementia-care-through-theatre](../sources/fxa100-week10-transforming-dementia-care-through-theatre.md)
+- [fxa100-week11-danceminds-moving-memories-evaluation-and-analysis-a-uk](../sources/fxa100-week11-danceminds-moving-memories-evaluation-and-analysis-a-uk.md)

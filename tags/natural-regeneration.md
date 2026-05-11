@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: natural-regeneration
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Natural Regeneration

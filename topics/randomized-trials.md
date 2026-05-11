@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Randomized Controlled Trials"
 confidence: medium
-tags: ["randomized-trials"]
+domain: method
+slug: randomized-controlled-trials
 sources:
   - fxa100-week06-art-training-in-dementia-a-randomized-controlled-trial
   - fxa301-week01-the-cochrane-collaborations-tool-for-assessing-risk-of-bias
-updated: 2026-05-05
+- fxa100-week06-art-training-in-dementia-a-randomized-controlled-trial
+- fxa301-week01-the-cochrane-collaborations-tool-for-assessing-risk-of-bias
+tags:
+- randomized-trials
+title: Randomized Controlled Trials
+type: topic
+updated: 2026-05-11
 ---
 
 ## Randomized Controlled Trials

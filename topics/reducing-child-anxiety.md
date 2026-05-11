@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Reducing Child Anxiety"
 confidence: low
-tags: ["reducing-child-anxiety"]
+domain: intervention
+slug: reducing-child-anxiety
 sources:
-  - fxa303-week06-puppets-in-an-acute-paediatric-unit-nurses-experiences
+- fxa303-week06-puppets-in-an-acute-paediatric-unit-nurses-experiences
+tags:
+- reducing-child-anxiety
+title: Reducing Child Anxiety
+type: topic
 updated: 2026-05-04
 ---
 

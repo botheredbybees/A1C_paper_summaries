@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Spect-Actor in Theater"
 confidence: low
-tags: ["spect-actor"]
+domain: intervention
+slug: spect-actor-in-theater
 sources:
-  - fxa100-week09-augusto-boals-forum-theatre-for-teachers
+- fxa100-week09-augusto-boals-forum-theatre-for-teachers
+tags:
+- spect-actor
+title: Spect-Actor in Theater
+type: topic
 updated: 2026-05-04
 ---
 

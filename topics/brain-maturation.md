@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "theory"
-title: "Adolescent Brain Maturation"
 confidence: medium
-tags: ["brain-maturation"]
+domain: theory
+slug: adolescent-brain-maturation
 sources:
   - fxa303-week02-lesson-fxa303-week02-introduction-copy
   - fxa303-week03-adolescent-development
-updated: 2026-05-04
+- fxa303-week02-lesson-fxa303-week02-introduction-copy
+- fxa303-week03-adolescent-development
+tags:
+- brain-maturation
+title: Adolescent Brain Maturation
+type: topic
+updated: 2026-05-11
 ---
 
 ## Adolescent Brain Maturation

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Comprehensive Data Reporting"
 confidence: low
-tags: ["comprehensive-data-reporting"]
+domain: method
+slug: comprehensive-data-reporting
 sources:
-  - fxa303-week10-the-good-life-for-children-do-we-really-care-about-the
+- fxa303-week10-the-good-life-for-children-do-we-really-care-about-the
+tags:
+- comprehensive-data-reporting
+title: Comprehensive Data Reporting
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Health And Wellbeing Toolkit"
 confidence: low
-tags: ["health-and-wellbeing-toolkit"]
+domain: intervention
+slug: health-and-wellbeing-toolkit
 sources:
-  - fxa301-week05-the-beaney-health-and-wellbeing-toolkit
+- fxa301-week05-the-beaney-health-and-wellbeing-toolkit
+tags:
+- health-and-wellbeing-toolkit
+title: Health And Wellbeing Toolkit
+type: topic
 updated: 2026-05-04
 ---
 

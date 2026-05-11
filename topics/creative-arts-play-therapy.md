@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Arts Play Therapy"
 confidence: low
-tags: ["creative-arts-play-therapy"]
+domain: intervention
+slug: creative-arts-play-therapy
 sources:
-  - fxa303-week04-fxa303-week-4-introduction
+- fxa303-week04-fxa303-week-4-introduction
+tags:
+- creative-arts-play-therapy
+title: Creative Arts Play Therapy
+type: topic
 updated: 2026-05-04
 ---
 

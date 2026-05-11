@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "method"
-title: "Auditory Processing"
 confidence: medium
-tags: ["auditory-processing"]
+domain: method
+slug: auditory-processing
 sources:
-  - fxa100-week02-fxa100-week-2-lecture-music-and-the-brain
-  - fxa100-week02-hearing-and-music
+- fxa100-week02-fxa100-week-2-lecture-music-and-the-brain
+- fxa100-week02-hearing-and-music
+tags:
+- auditory-processing
+title: Auditory Processing
+type: topic
 updated: 2026-05-03
 ---
 

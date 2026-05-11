@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Mammoth Ivory Puppets"
 confidence: low
-tags: ["mammoth-ivory-puppets"]
+domain: method
+slug: mammoth-ivory-puppets
 sources:
-  - fxa303-week05-forms-of-puppets-and-puppetry
+- fxa303-week05-forms-of-puppets-and-puppetry
+tags:
+- mammoth-ivory-puppets
+title: Mammoth Ivory Puppets
+type: topic
 updated: 2026-05-04
 ---
 

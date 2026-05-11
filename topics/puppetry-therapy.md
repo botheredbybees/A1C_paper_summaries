@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Puppetry Therapy"
 confidence: medium
-tags: ["puppetry-therapy"]
+domain: intervention
+slug: puppetry-therapy
 sources:
   - fxa303-puppet-assisted-play-therapy-ch02-1-we-must-encourage-children-to-use-their-imagination-and
   - fxa303-week05-fxa303-week-5-welcome
-updated: 2026-05-04
+- fxa303-puppet-assisted-play-therapy-ch02-1-we-must-encourage-children-to-use-their-imagination-and
+- fxa303-week05-fxa303-week-5-welcome
+tags:
+- puppetry-therapy
+title: Puppetry Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Puppetry Therapy

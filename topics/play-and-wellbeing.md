@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Play and Wellbeing"
 confidence: medium
-tags: ["play-and-wellbeing"]
+domain: intervention
+slug: play-and-wellbeing
 sources:
   - fxa303-play-for-health-across-the-lifespan-ch06-chapter-7
   - fxa303-week04-lesson-fxa303-week04-page-1-week-4-overview
-updated: 2026-05-04
+- fxa303-play-for-health-across-the-lifespan-ch06-chapter-7
+- fxa303-week04-lesson-fxa303-week04-page-1-week-4-overview
+tags:
+- play-and-wellbeing
+title: Play and Wellbeing
+type: topic
+updated: 2026-05-11
 ---
 
 ## Play and Wellbeing

@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "method"
-title: "Slide Layouts in Powerpoint"
 confidence: medium
-tags: ["slide-layouts"]
+domain: method
+slug: slide-layouts-in-powerpoint
 sources:
-  - fxa202-week06-tips-for-making-your-powerpoint-presentation
-  - fxa202-week06-tips-for-making-your-powerpoint-presentation-(2)
+- fxa202-week06-tips-for-making-your-powerpoint-presentation
+- fxa202-week06-tips-for-making-your-powerpoint-presentation-(2)
+tags:
+- slide-layouts
+title: Slide Layouts in Powerpoint
+type: topic
 updated: 2026-05-04
 ---
 

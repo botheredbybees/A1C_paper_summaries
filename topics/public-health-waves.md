@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Public Health Waves"
 confidence: low
-tags: ["public-health-waves"]
+domain: theory
+slug: public-health-waves
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch18-chapter-3
+- fxa301-oxford-textbook-of-creative-arts-ch18-chapter-3
+tags:
+- public-health-waves
+title: Public Health Waves
+type: topic
 updated: 2026-05-04
 ---
 

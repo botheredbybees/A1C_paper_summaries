@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Life-Course Approach"
 confidence: low
-tags: ["life-course-approach"]
+domain: theory
+slug: life-course-approach
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions
+- fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions
+tags:
+- life-course-approach
+title: Life-Course Approach
+type: topic
 updated: 2026-05-04
 ---
 

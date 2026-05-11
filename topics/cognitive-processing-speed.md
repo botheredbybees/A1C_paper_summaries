@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cognitive Processing Speed"
 confidence: low
-tags: ["cognitive-processing-speed"]
+domain: intervention
+slug: cognitive-processing-speed
 sources:
-  - fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between
+- fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between
+tags:
+- cognitive-processing-speed
+title: Cognitive Processing Speed
+type: topic
 updated: 2026-05-04
 ---
 

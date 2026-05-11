@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Hand Puppet-Based Therapeutic Play"
 confidence: low
-tags: ["hand-puppet-based-therapeutic-play"]
+domain: intervention
+slug: hand-puppet-based-therapeutic-play
 sources:
-  - fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for
+- fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for
+tags:
+- hand-puppet-based-therapeutic-play
+title: Hand Puppet-Based Therapeutic Play
+type: topic
 updated: 2026-05-04
 ---
 

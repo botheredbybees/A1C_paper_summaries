@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Emotional Markers in Neuroimaging"
 confidence: low
-tags: ["emotional-markers"]
+domain: method
+slug: emotional-markers-in-neuroimaging
 sources:
-  - fxa100-week03-telling-me-not-to-worry-hyperscanning-and-neural-dynamics
+- fxa100-week03-telling-me-not-to-worry-hyperscanning-and-neural-dynamics
+tags:
+- emotional-markers
+title: Emotional Markers in Neuroimaging
+type: topic
 updated: 2026-05-04
 ---
 

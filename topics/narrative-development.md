@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Narrative Development"
 confidence: low
-tags: ["narrative-development"]
+domain: intervention
+slug: narrative-development
 sources:
-  - fxa301-week08-lesson-fxa301-week07-page-3-hm
+- fxa301-week08-lesson-fxa301-week07-page-3-hm
+tags:
+- narrative-development
+title: Narrative Development
+type: topic
 updated: 2026-05-04
 ---
 

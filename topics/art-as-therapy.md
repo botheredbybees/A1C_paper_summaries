@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Art as Therapy"
 confidence: low
-tags: ["art-as-therapy"]
+domain: intervention
+slug: art-as-therapy
 sources:
-  - fxa301-week05-lesson-fxa301-week05-page-4-week-3-activities
+- fxa301-week05-lesson-fxa301-week05-page-4-week-3-activities
+tags:
+- art-as-therapy
+title: Art as Therapy
+type: topic
 updated: 2026-05-04
 ---
 

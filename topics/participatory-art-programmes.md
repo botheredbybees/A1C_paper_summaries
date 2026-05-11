@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Participatory Art Programmes"
 confidence: low
-tags: ["participatory-art-programmes"]
+domain: intervention
+slug: participatory-art-programmes
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2
+- fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2
+tags:
+- participatory-art-programmes
+title: Participatory Art Programmes
+type: topic
 updated: 2026-05-04
 ---
 

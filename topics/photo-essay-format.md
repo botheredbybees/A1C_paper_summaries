@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Photo Essay Format"
 confidence: low
-tags: ["photo-essay-format"]
+domain: method
+slug: photo-essay-format
 sources:
-  - fxa202-week01-lesson-fxa202-week01-week-1
+- fxa202-week01-lesson-fxa202-week01-week-1
+tags:
+- photo-essay-format
+title: Photo Essay Format
+type: topic
 updated: 2026-05-04
 ---
 

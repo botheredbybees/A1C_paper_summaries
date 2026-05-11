@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cognitive Benefits"
 confidence: low
-tags: ["cognitive-benefits"]
+domain: intervention
+slug: cognitive-benefits
 sources:
-  - fxa303-week03-arts-in-adolescence
+- fxa303-week03-arts-in-adolescence
+tags:
+- cognitive-benefits
+title: Cognitive Benefits
+type: topic
 updated: 2026-05-04
 ---
 

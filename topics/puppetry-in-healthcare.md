@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Puppetry In Healthcare"
 confidence: medium
-tags: ["puppetry-in-healthcare"]
+domain: intervention
+slug: puppetry-in-healthcare
 sources:
   - fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare
   - fxa303-week05-lesson-fxa303-week05-page-4-week-5-activities
-updated: 2026-05-04
+- fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare
+- fxa303-week05-lesson-fxa303-week05-page-4-week-5-activities
+tags:
+- puppetry-in-healthcare
+title: Puppetry In Healthcare
+type: topic
+updated: 2026-05-11
 ---
 
 ## Puppetry In Healthcare

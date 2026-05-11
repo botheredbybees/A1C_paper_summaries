@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Museum Activities for Health and Wellbeing"
 confidence: low
-tags: ["museum-activities"]
+domain: intervention
+slug: museum-activities-for-health-and-wellbeing
 sources:
-  - fxa301-week05-museums-for-health-and-wellbeing
+- fxa301-week05-museums-for-health-and-wellbeing
+tags:
+- museum-activities
+title: Museum Activities for Health and Wellbeing
+type: topic
 updated: 2026-05-04
 ---
 

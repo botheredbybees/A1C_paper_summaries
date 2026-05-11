@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Social Determinants Of Health From An Indigenous Perspective"
 confidence: low
-tags: ["social-determinants-of-health-sdh"]
+domain: theory
+slug: social-determinants-of-health-from-an-indigenous-perspective
 sources:
-  - fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the
+- fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the
+tags:
+- social-determinants-of-health-sdh
+title: Social Determinants Of Health From An Indigenous Perspective
+type: topic
 updated: 2026-05-04
 ---
 

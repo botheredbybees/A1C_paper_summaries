@@ -1,19 +1,29 @@
 ---
-type: topic
-domain: "intervention"
-title: "Neuroplasticity in Brain Rehabilitation"
 confidence: medium
-tags: ["neuroplasticity"]
+domain: intervention
+slug: neuroplasticity-in-brain-rehabilitation
 sources:
-  - fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining
   - fxa100-week02-music-and-the-damaged-brain
   - fxa100-week02-neuroplastic-effects-in-patients-with-traumatic-brain
   - fxa100-week02-transcript-duration-949
   - fxa100-week02-web-article-thaut-2010
   - fxa100-week04-singing-and-the-brain
+  - fxa301-week11-activation-of-primary-visual-cortex-by-braille-reading-in
   - fxa303-week02-child-development-fxa303-creative-arts-play-and-mental
   - fxa303-week03-adolescent-development
-updated: 2026-05-05
+- fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining
+- fxa100-week02-music-and-the-damaged-brain
+- fxa100-week02-neuroplastic-effects-in-patients-with-traumatic-brain
+- fxa100-week02-transcript-duration-949
+- fxa100-week02-web-article-thaut-2010
+- fxa100-week04-singing-and-the-brain
+- fxa303-week02-child-development-fxa303-creative-arts-play-and-mental
+- fxa303-week03-adolescent-development
+tags:
+- neuroplasticity
+title: Neuroplasticity in Brain Rehabilitation
+type: topic
+updated: 2026-05-11
 ---
 
 ## Neuroplasticity in Brain Rehabilitation
@@ -32,11 +42,11 @@ The sources collectively highlight the potential of music therapy as a therapeut
 
 ## Sources
 
-- [fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining](../sources/fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining.md)
 - [fxa100-week02-music-and-the-damaged-brain](../sources/fxa100-week02-music-and-the-damaged-brain.md)
 - [fxa100-week02-neuroplastic-effects-in-patients-with-traumatic-brain](../sources/fxa100-week02-neuroplastic-effects-in-patients-with-traumatic-brain.md)
 - [fxa100-week02-transcript-duration-949](../sources/fxa100-week02-transcript-duration-949.md)
 - [fxa100-week02-web-article-thaut-2010](../sources/fxa100-week02-web-article-thaut-2010.md)
 - [fxa100-week04-singing-and-the-brain](../sources/fxa100-week04-singing-and-the-brain.md)
+- [fxa301-week11-activation-of-primary-visual-cortex-by-braille-reading-in](../sources/fxa301-week11-activation-of-primary-visual-cortex-by-braille-reading-in.md)
 - [fxa303-week02-child-development-fxa303-creative-arts-play-and-mental](../sources/fxa303-week02-child-development-fxa303-creative-arts-play-and-mental.md)
 - [fxa303-week03-adolescent-development](../sources/fxa303-week03-adolescent-development.md)

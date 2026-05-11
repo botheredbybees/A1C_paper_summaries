@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Impact Of Social Isolation"
 confidence: low
-tags: ["impact-of-social-isolation"]
+domain: intervention
+slug: impact-of-social-isolation
 sources:
-  - fxa301-week01-web-article-relationships-2018
+- fxa301-week01-web-article-relationships-2018
+tags:
+- impact-of-social-isolation
+title: Impact Of Social Isolation
+type: topic
 updated: 2026-05-04
 ---
 

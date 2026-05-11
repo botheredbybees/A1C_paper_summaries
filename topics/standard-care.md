@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Standard Care"
 confidence: low
-tags: ["standard-care"]
+domain: intervention
+slug: standard-care
 sources:
-  - fxa100-week09-dance-movement-therapy-for-dementia
+- fxa100-week09-dance-movement-therapy-for-dementia
+tags:
+- standard-care
+title: Standard Care
+type: topic
 updated: 2026-05-04
 ---
 

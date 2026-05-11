@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cognitive-Behavioral Intervention"
 confidence: low
-tags: ["cognitive-behavioral-intervention"]
+domain: intervention
+slug: cognitive-behavioral-intervention
 sources:
-  - fxa301-week03-transcript-youtube-5utv1ergbs8
+- fxa301-week03-transcript-youtube-5utv1ergbs8
+tags:
+- cognitive-behavioral-intervention
+title: Cognitive-Behavioral Intervention
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Youth Theatre in Ireland"
 confidence: low
-tags: ["real-interaction"]
+domain: intervention
+slug: youth-theatre-in-ireland
 sources:
-  - fxa303-week03-centre-stage-20-a-report-on-youth-theatre-in-ireland
+- fxa303-week03-centre-stage-20-a-report-on-youth-theatre-in-ireland
+tags:
+- real-interaction
+title: Youth Theatre in Ireland
+type: topic
 updated: 2026-05-04
 ---
 

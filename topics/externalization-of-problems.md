@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Externalization Of Problems"
 confidence: medium
-tags: ["externalization-of-problems"]
+domain: intervention
+slug: externalization-of-problems
 sources:
-  - fxa202-therapeutic-photography-ch05-1-photographs-are-used-to-record-inventories-such-as-objects
-  - fxa303-week06-lesson-fxa303-week06-page-2-puppets-and-expression
+- fxa202-therapeutic-photography-ch05-1-photographs-are-used-to-record-inventories-such-as-objects
+- fxa303-week06-lesson-fxa303-week06-page-2-puppets-and-expression
+tags:
+- externalization-of-problems
+title: Externalization Of Problems
+type: topic
 updated: 2026-05-04
 ---
 

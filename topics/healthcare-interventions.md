@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts-Based Healthcare Interventions"
 confidence: medium
-tags: ["healthcare-interventions"]
+domain: intervention
+slug: arts-based-healthcare-interventions
 sources:
   - fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision-(2)
   - fxa301-week01-conceptualizing-and-planning-interventions
   - fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a
   - fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing
-updated: 2026-05-05
+- fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision-(2)
+- fxa301-week01-conceptualizing-and-planning-interventions
+- fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a
+- fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing
+tags:
+- healthcare-interventions
+title: Arts-Based Healthcare Interventions
+type: topic
+updated: 2026-05-11
 ---
 
 ## Arts-Based Healthcare Interventions

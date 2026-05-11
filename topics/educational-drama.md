@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Educational Drama"
 confidence: low
-tags: ["educational-drama"]
+domain: intervention
+slug: educational-drama
 sources:
-  - fxa301-week08-school-based-drama-interventions-in-health-promotion-for
+- fxa301-week08-school-based-drama-interventions-in-health-promotion-for
+tags:
+- educational-drama
+title: Educational Drama
+type: topic
 updated: 2026-05-04
 ---
 

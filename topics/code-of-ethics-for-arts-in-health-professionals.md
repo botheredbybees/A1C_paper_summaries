@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Code Of Ethics For Arts In Health Professionals"
 confidence: medium
-tags: ["code-of-ethics-for-arts-in-health-professionals"]
+domain: intervention
+slug: code-of-ethics-for-arts-in-health-professionals
 sources:
-  - fxa301-bridging-the-creative-arts-therapies-ch09-5-collaboration
-  - fxa301-bridging-the-creative-arts-therapies-ch09-5-collaboration-(2)
+- fxa301-bridging-the-creative-arts-therapies-ch09-5-collaboration
+- fxa301-bridging-the-creative-arts-therapies-ch09-5-collaboration-(2)
+tags:
+- code-of-ethics-for-arts-in-health-professionals
+title: Code Of Ethics For Arts In Health Professionals
+type: topic
 updated: 2026-05-04
 ---
 

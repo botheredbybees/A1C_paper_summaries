@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Responsibility Shift in Marginalized Communities"
 confidence: low
-tags: ["responsibility-shift"]
+domain: intervention
+slug: responsibility-shift-in-marginalized-communities
 sources:
-  - fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to
+- fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to
+tags:
+- responsibility-shift
+title: Responsibility Shift in Marginalized Communities
+type: topic
 updated: 2026-05-04
 ---
 

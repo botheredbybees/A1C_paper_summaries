@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Creative Methodologies in Arts Projects"
 confidence: low
-tags: ["creative-methodologies"]
+domain: method
+slug: creative-methodologies-in-arts-projects
 sources:
-  - fxa301-week01-lesson-fxa301-week01-page-3-hm-evaluating-a-project
+- fxa301-week01-lesson-fxa301-week01-page-3-hm-evaluating-a-project
+tags:
+- creative-methodologies
+title: Creative Methodologies in Arts Projects
+type: topic
 updated: 2026-05-04
 ---
 

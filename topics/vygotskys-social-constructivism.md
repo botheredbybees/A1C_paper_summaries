@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Vygotsky's Social Constructivism"
 confidence: low
-tags: ["vygotskys-social-constructivism"]
+domain: theory
+slug: vygotsky-s-social-constructivism
 sources:
-  - fxa303-week02-play-creative-arts-and-wellbeing
+- fxa303-week02-play-creative-arts-and-wellbeing
+tags:
+- vygotskys-social-constructivism
+title: Vygotsky's Social Constructivism
+type: topic
 updated: 2026-05-04
 ---
 

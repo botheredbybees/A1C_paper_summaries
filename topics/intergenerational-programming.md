@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Intergenerational Programming"
 confidence: low
-tags: ["intergenerational-programming"]
+domain: intervention
+slug: intergenerational-programming
 sources:
-  - fxa100-week03-final-report-wisconsin-music-memory-program-student
+- fxa100-week03-final-report-wisconsin-music-memory-program-student
+tags:
+- intergenerational-programming
+title: Intergenerational Programming
+type: topic
 updated: 2026-05-04
 ---
 

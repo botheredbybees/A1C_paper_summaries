@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Visual Arts Therapy for Dementia"
 confidence: medium
-tags: ["visual-arts-therapy"]
+domain: intervention
+slug: visual-arts-therapy-for-dementia
 sources:
   - fxa100-week08-it-makes-me-feel-like-myself-person-centered-versus
   - fxa100-week08-lesson-fxa100-week07-page-3-stimulating-engagement
-updated: 2026-05-04
+- fxa100-week08-it-makes-me-feel-like-myself-person-centered-versus
+- fxa100-week08-lesson-fxa100-week07-page-3-stimulating-engagement
+tags:
+- visual-arts-therapy
+title: Visual Arts Therapy for Dementia
+type: topic
+updated: 2026-05-11
 ---
 
 ## Visual Arts Therapy for Dementia

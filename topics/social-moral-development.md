@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Social-Moral Development"
 confidence: low
-tags: ["social-moral-development"]
+domain: theory
+slug: social-moral-development
 sources:
-  - fxa303-week03-chapter-11-human-development-how-and-why-we-change
+- fxa303-week03-chapter-11-human-development-how-and-why-we-change
+tags:
+- social-moral-development
+title: Social-Moral Development
+type: topic
 updated: 2026-05-04
 ---
 

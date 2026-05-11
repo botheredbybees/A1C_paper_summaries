@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Public Health Benefits of Art"
 confidence: low
-tags: ["public-health-benefits-of-art"]
+domain: intervention
+slug: public-health-benefits-of-art
 sources:
-  - fxa301-week01-transcript-for-this-weeks-e-tivity-you-should-watch-the
+- fxa301-week01-transcript-for-this-weeks-e-tivity-you-should-watch-the
+tags:
+- public-health-benefits-of-art
+title: Public Health Benefits of Art
+type: topic
 updated: 2026-05-04
 ---
 

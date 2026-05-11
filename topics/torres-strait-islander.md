@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "population"
-title: "Torres Strait Islanders' Health and Wellbeing"
 confidence: medium
-tags: ["torres-strait-islander"]
+domain: population
+slug: torres-strait-islanders-health-and-wellbeing
 sources:
   - fxa303-week10-cultural-determinants-of-health-for-aboriginal-and-torres
   - fxa303-week10-evidence-review-of-indigenous-culture-for-health-and
-updated: 2026-05-04
+- fxa303-week10-cultural-determinants-of-health-for-aboriginal-and-torres
+- fxa303-week10-evidence-review-of-indigenous-culture-for-health-and
+tags:
+- torres-strait-islander
+title: Torres Strait Islanders' Health and Wellbeing
+type: topic
+updated: 2026-05-11
 ---
 
 ## Torres Strait Islanders' Health and Wellbeing

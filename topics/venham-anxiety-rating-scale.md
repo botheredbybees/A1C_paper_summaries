@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Venham Anxiety Rating Scale"
 confidence: low
-tags: ["venham-anxiety-rating-scale"]
+domain: method
+slug: venham-anxiety-rating-scale
 sources:
-  - fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic
+- fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic
+tags:
+- venham-anxiety-rating-scale
+title: Venham Anxiety Rating Scale
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Brain Eeg Activity in Response to Play Therapy"
 confidence: low
-tags: ["brain-eeg-activity"]
+domain: intervention
+slug: brain-eeg-activity-in-response-to-play-therapy
 sources:
-  - fxa303-week04-impact-of-child-centered-play-therapy-intervention-on
+- fxa303-week04-impact-of-child-centered-play-therapy-intervention-on
+tags:
+- brain-eeg-activity
+title: Brain Eeg Activity in Response to Play Therapy
+type: topic
 updated: 2026-05-04
 ---
 

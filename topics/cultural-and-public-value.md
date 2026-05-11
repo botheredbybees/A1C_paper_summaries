@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Cultural and Public Value of Arts"
 confidence: low
-tags: ["cultural-and-public-value"]
+domain: theory
+slug: cultural-and-public-value-of-arts
 sources:
-  - fxa301-week01-web-article-australia-2022
+- fxa301-week01-web-article-australia-2022
+tags:
+- cultural-and-public-value
+title: Cultural and Public Value of Arts
+type: topic
 updated: 2026-05-04
 ---
 

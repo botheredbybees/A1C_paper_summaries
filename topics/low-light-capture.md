@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Low-Light Capture Techniques"
 confidence: low
-tags: ["low-light-capture"]
+domain: method
+slug: low-light-capture-techniques
 sources:
-  - fxa202-week08-week-8-web-lecture-editing-your-images
+- fxa202-week08-week-8-web-lecture-editing-your-images
+tags:
+- low-light-capture
+title: Low-Light Capture Techniques
+type: topic
 updated: 2026-05-04
 ---
 

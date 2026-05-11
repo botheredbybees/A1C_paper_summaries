@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Diagnostic Categories Or Dimensions In Psychiatry"
 confidence: low
-tags: ["diagnostic-categories"]
+domain: theory
+slug: diagnostic-categories-or-dimensions-in-psychiatry
 sources:
-  - fxa303-week04-diagnostic-categories-or-dimensions-a-question-for-the
+- fxa303-week04-diagnostic-categories-or-dimensions-a-question-for-the
+tags:
+- diagnostic-categories
+title: Diagnostic Categories Or Dimensions In Psychiatry
+type: topic
 updated: 2026-05-04
 ---
 

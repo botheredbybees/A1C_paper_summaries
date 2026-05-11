@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Facilitated Creativity"
 confidence: low
-tags: ["facilitated-creativity"]
+domain: intervention
+slug: facilitated-creativity
 sources:
-  - fxa100-week08-creativity-and-communication-in-persons-with-dementia
+- fxa100-week08-creativity-and-communication-in-persons-with-dementia
+tags:
+- facilitated-creativity
+title: Facilitated Creativity
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Postnatal Depression"
 confidence: low
-tags: ["postnatal-depression"]
+domain: intervention
+slug: postnatal-depression
 sources:
-  - fxa202-week10-critical-reflection-my-photo-essay
+- fxa202-week10-critical-reflection-my-photo-essay
+tags:
+- postnatal-depression
+title: Postnatal Depression
+type: topic
 updated: 2026-05-04
 ---
 

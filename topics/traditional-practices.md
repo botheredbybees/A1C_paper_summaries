@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Traditional Practices in Therapy"
 confidence: low
-tags: ["traditional-practices"]
+domain: intervention
+slug: traditional-practices-in-therapy
 sources:
-  - fxa303-week10-using-the-arts-as-a-therapeutic-tool-for-counselling-an
+- fxa303-week10-using-the-arts-as-a-therapeutic-tool-for-counselling-an
+tags:
+- traditional-practices
+title: Traditional Practices in Therapy
+type: topic
 updated: 2026-05-04
 ---
 

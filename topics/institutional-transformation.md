@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Institutional Transformation"
 confidence: low
-tags: ["institutional-transformation"]
+domain: intervention
+slug: institutional-transformation
 sources:
-  - fxa301-week05-happy-museum-learning-evaluation-report
+- fxa301-week05-happy-museum-learning-evaluation-report
+tags:
+- institutional-transformation
+title: Institutional Transformation
+type: topic
 updated: 2026-05-04
 ---
 

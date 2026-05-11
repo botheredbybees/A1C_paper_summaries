@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Tele-Dance Movement Psychotherapy"
 confidence: low
-tags: ["tele-dance-movement-psychotherapy"]
+domain: intervention
+slug: tele-dance-movement-psychotherapy
 sources:
-  - fxa303-week04-arts-therapies-research-and-practice-with-persons-on-the
+- fxa303-week04-arts-therapies-research-and-practice-with-persons-on-the
+tags:
+- tele-dance-movement-psychotherapy
+title: Tele-Dance Movement Psychotherapy
+type: topic
 updated: 2026-05-04
 ---
 

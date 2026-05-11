@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Visual Art Therapies in Mental Health"
 confidence: medium
-tags: ["mental-health-research"]
+domain: intervention
+slug: visual-art-therapies-in-mental-health
 sources:
   - fxa202-therapeutic-photography-ch04-2-reflexive-photography
   - fxa301-week10-the-contribution-of-the-visual-in-qualitative-participatory
-updated: 2026-05-04
+- fxa202-therapeutic-photography-ch04-2-reflexive-photography
+- fxa301-week10-the-contribution-of-the-visual-in-qualitative-participatory
+tags:
+- mental-health-research
+title: Visual Art Therapies in Mental Health
+type: topic
+updated: 2026-05-11
 ---
 
 ## Visual Art Therapies in Mental Health

@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Workforce Development in Healthcare and Arts Integration"
 confidence: medium
-tags: ["workforce-development"]
+domain: intervention
+slug: workforce-development-in-healthcare-and-arts-integration
 sources:
   - fxa301-week03-advancing-practice-in-arts-in-health-artist-workforce
   - fxa303-week09-the-trauma-informed-care-and-practice-organisational
-updated: 2026-05-04
+- fxa301-week03-advancing-practice-in-arts-in-health-artist-workforce
+- fxa303-week09-the-trauma-informed-care-and-practice-organisational
+tags:
+- workforce-development
+title: Workforce Development in Healthcare and Arts Integration
+type: topic
+updated: 2026-05-11
 ---
 
 ## Workforce Development in Healthcare and Arts Integration

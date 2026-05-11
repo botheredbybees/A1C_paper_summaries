@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Temporal Dynamics in Emotional Responses and Brain Function"
 confidence: medium
-tags: ["temporal-dynamics"]
+domain: method
+slug: temporal-dynamics-in-emotional-responses-and-brain-function
 sources:
   - fxa301-week02-the-time-course-of-emotional-responses-to-music
   - fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between
-updated: 2026-05-04
+- fxa301-week02-the-time-course-of-emotional-responses-to-music
+- fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between
+tags:
+- temporal-dynamics
+title: Temporal Dynamics in Emotional Responses and Brain Function
+type: topic
+updated: 2026-05-11
 ---
 
 ## Temporal Dynamics in Emotional Responses and Brain Function

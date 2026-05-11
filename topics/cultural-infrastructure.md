@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cultural Infrastructure"
 confidence: low
-tags: ["cultural-infrastructure"]
+domain: intervention
+slug: cultural-infrastructure
 sources:
-  - fxa301-week03-revive-a-place-for-every-story-a-story-for-every-place
+- fxa301-week03-revive-a-place-for-every-story-a-story-for-every-place
+tags:
+- cultural-infrastructure
+title: Cultural Infrastructure
+type: topic
 updated: 2026-05-04
 ---
 

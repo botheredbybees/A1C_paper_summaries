@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Implications for Cognitive Disorders"
 confidence: low
-tags: ["therapeutic-implications-for-cognitive-disorders"]
+domain: intervention
+slug: therapeutic-implications-for-cognitive-disorders
 sources:
-  - fxa100-week02-brain-networking-among-musicians
+- fxa100-week02-brain-networking-among-musicians
+tags:
+- therapeutic-implications-for-cognitive-disorders
+title: Therapeutic Implications for Cognitive Disorders
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Power Dynamics in Interviews"
 confidence: low
-tags: ["power-dynamics-in-interviews"]
+domain: method
+slug: power-dynamics-in-interviews
 sources:
-  - fxa202-therapeutic-photography-ch04-2-reflexive-photography
+- fxa202-therapeutic-photography-ch04-2-reflexive-photography
+tags:
+- power-dynamics-in-interviews
+title: Power Dynamics in Interviews
+type: topic
 updated: 2026-05-04
 ---
 

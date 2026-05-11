@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Co-Design in Indigenous Arts and Mental Wellbeing"
 confidence: low
-tags: ["co-design"]
+domain: method
+slug: co-design-in-indigenous-arts-and-mental-wellbeing
 sources:
-  - fxa303-week10-lesson-fxa303-week10-page-2-indigenous-arts-and-mental
+- fxa303-week10-lesson-fxa303-week10-page-2-indigenous-arts-and-mental
+tags:
+- co-design
+title: Co-Design in Indigenous Arts and Mental Wellbeing
+type: topic
 updated: 2026-05-04
 ---
 

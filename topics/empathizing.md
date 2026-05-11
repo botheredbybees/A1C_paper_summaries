@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Empathizing and Systemizing"
 confidence: low
-tags: ["empathizing"]
+domain: theory
+slug: empathizing-and-systemizing
 sources:
-  - fxa100-week03-musical-preferences-are-linked-to-cognitive-styles
+- fxa100-week03-musical-preferences-are-linked-to-cognitive-styles
+tags:
+- empathizing
+title: Empathizing and Systemizing
+type: topic
 updated: 2026-05-04
 ---
 

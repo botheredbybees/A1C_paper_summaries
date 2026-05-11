@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Non-pharmacological Interventions"
 confidence: medium
-tags: ["non-pharmacological-interventions"]
+domain: intervention
+slug: non-pharmacological-interventions
 sources:
-  - fxa100-week07-interventions-dementia-services-information-and-development
-  - fxa100-week07-lesson-fxa100-week07-page-4-activities
+- fxa100-week07-interventions-dementia-services-information-and-development
+- fxa100-week07-lesson-fxa100-week07-page-4-activities
+tags:
+- non-pharmacological-interventions
+title: Non-pharmacological Interventions
+type: topic
 updated: 2026-05-04
 ---
 

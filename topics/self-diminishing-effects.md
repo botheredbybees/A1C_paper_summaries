@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Self-Diminishing Effects of Awe"
 confidence: low
-tags: ["self-diminishing-effects"]
+domain: theory
+slug: self-diminishing-effects-of-awe
 sources:
-  - fxa301-week02-the-nature-of-awe-elicitors-appraisals-and-effects-on-self
+- fxa301-week02-the-nature-of-awe-elicitors-appraisals-and-effects-on-self
+tags:
+- self-diminishing-effects
+title: Self-Diminishing Effects of Awe
+type: topic
 updated: 2026-05-04
 ---
 

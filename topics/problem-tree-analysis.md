@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Problem Tree Analysis"
 confidence: low
-tags: ["problem-tree-analysis"]
+domain: method
+slug: problem-tree-analysis
 sources:
-  - fxa301-arts-in-health-ch29-4-invite-open-responses
+- fxa301-arts-in-health-ch29-4-invite-open-responses
+tags:
+- problem-tree-analysis
+title: Problem Tree Analysis
+type: topic
 updated: 2026-05-04
 ---
 

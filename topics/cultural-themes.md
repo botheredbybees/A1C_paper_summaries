@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Cultural Themes in Ethnography"
 confidence: low
-tags: ["cultural-themes"]
+domain: method
+slug: cultural-themes-in-ethnography
 sources:
-  - fxa301-make-arts-for-a-better-life-ch05-1-read-your
+- fxa301-make-arts-for-a-better-life-ch05-1-read-your
+tags:
+- cultural-themes
+title: Cultural Themes in Ethnography
+type: topic
 updated: 2026-05-04
 ---
 

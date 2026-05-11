@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Flow in Creative Arts Therapy"
 confidence: medium
-tags: ["flow"]
+domain: intervention
+slug: flow-in-creative-arts-therapy
 sources:
-  - fxa301-week10-advances-in-flow-research
-  - fxa301-week10-fxa301-week-10-lecture
+- fxa301-week10-advances-in-flow-research
+- fxa301-week10-fxa301-week-10-lecture
+tags:
+- flow
+title: Flow in Creative Arts Therapy
+type: topic
 updated: 2026-05-04
 ---
 

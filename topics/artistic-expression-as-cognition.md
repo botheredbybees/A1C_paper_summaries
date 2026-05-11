@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Artistic Expression as Cognition"
 confidence: low
-tags: ["artistic-expression-as-cognition"]
+domain: theory
+slug: artistic-expression-as-cognition
 sources:
-  - fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia
+- fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia
+tags:
+- artistic-expression-as-cognition
+title: Artistic Expression as Cognition
+type: topic
 updated: 2026-05-04
 ---
 

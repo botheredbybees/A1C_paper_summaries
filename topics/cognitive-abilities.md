@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "theory"
-title: "Cognitive Abilities"
 confidence: medium
-tags: ["cognitive-abilities"]
+domain: theory
+slug: cognitive-abilities
 sources:
   - fxa100-week02-are-people-really-left-brained-or-right-brain
   - fxa100-week04-the-evolution-of-human-artistic-creativity
   - fxa303-week03-adolescent-development
-updated: 2026-05-04
+- fxa100-week02-are-people-really-left-brained-or-right-brain
+- fxa100-week04-the-evolution-of-human-artistic-creativity
+- fxa303-week03-adolescent-development
+tags:
+- cognitive-abilities
+title: Cognitive Abilities
+type: topic
+updated: 2026-05-11
 ---
 
 ## Cognitive Abilities

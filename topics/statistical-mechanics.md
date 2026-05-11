@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Statistical Mechanics"
 confidence: low
-tags: ["statistical-mechanics"]
+domain: method
+slug: statistical-mechanics
 sources:
-  - fxa100-week02-transcript-moshing-with-physics-jesse-silverberg-tedxyale
+- fxa100-week02-transcript-moshing-with-physics-jesse-silverberg-tedxyale
+tags:
+- statistical-mechanics
+title: Statistical Mechanics
+type: topic
 updated: 2026-05-04
 ---
 

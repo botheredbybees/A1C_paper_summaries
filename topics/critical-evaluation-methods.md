@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Critical Evaluation Methods in Creative Therapies"
 confidence: low
-tags: ["critical-evaluation-methods"]
+domain: method
+slug: critical-evaluation-methods-in-creative-therapies
 sources:
-  - fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes
+- fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes
+tags:
+- critical-evaluation-methods
+title: Critical Evaluation Methods in Creative Therapies
+type: topic
 updated: 2026-05-04
 ---
 

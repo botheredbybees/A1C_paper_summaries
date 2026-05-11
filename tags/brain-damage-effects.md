@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-damage-effects
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Brain Damage Effects

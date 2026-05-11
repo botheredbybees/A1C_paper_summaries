@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Discovery Interviews"
 confidence: low
-tags: ["discovery-interviews"]
+domain: method
+slug: discovery-interviews
 sources:
-  - fxa301-arts-in-health-ch26-4-technological
+- fxa301-arts-in-health-ch26-4-technological
+tags:
+- discovery-interviews
+title: Discovery Interviews
+type: topic
 updated: 2026-05-04
 ---
 

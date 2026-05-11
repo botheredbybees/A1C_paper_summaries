@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Arts in Health Education"
 confidence: medium
-tags: ["health-education"]
+domain: intervention
+slug: creative-arts-in-health-education
 sources:
   - fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37
   - fxa301-week08-school-based-drama-interventions-in-health-promotion-for
-updated: 2026-05-05
+- fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37
+- fxa301-week08-school-based-drama-interventions-in-health-promotion-for
+tags:
+- health-education
+title: Creative Arts in Health Education
+type: topic
+updated: 2026-05-11
 ---
 
 ## Creative Arts in Health Education

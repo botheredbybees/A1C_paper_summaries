@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Musical Training Impact"
 confidence: low
-tags: ["musical-training-impact"]
+domain: intervention
+slug: musical-training-impact
 sources:
-  - fxa301-week05-an-education-in-music-makes-you-a-better-employee-are
+- fxa301-week05-an-education-in-music-makes-you-a-better-employee-are
+tags:
+- musical-training-impact
+title: Musical Training Impact
+type: topic
 updated: 2026-05-04
 ---
 

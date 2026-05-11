@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Therapy"
 confidence: medium
-tags: ["creative-therapy"]
+domain: intervention
+slug: creative-therapy
 sources:
   - fxa100-creativity-and-communication-ch10-20-drilling-down-to-the-detail-once-you-have-established
   - fxa100-week08-creativity-and-communication-in-persons-with-dementia
   - fxa202-week10-critical-reflection-my-photo-essay
   - fxa303-week06-creative-puppet-therapy-reduces-hallucinations-in-patients
-updated: 2026-05-05
+- fxa100-creativity-and-communication-ch10-20-drilling-down-to-the-detail-once-you-have-established
+- fxa100-week08-creativity-and-communication-in-persons-with-dementia
+- fxa202-week10-critical-reflection-my-photo-essay
+- fxa303-week06-creative-puppet-therapy-reduces-hallucinations-in-patients
+tags:
+- creative-therapy
+title: Creative Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Creative Therapy

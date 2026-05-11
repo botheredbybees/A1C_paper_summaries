@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "theory"
-title: "Embodied Selfhood"
 confidence: medium
-tags: ["embodied-selfhood"]
+domain: theory
+slug: embodied-selfhood
 sources:
   - fxa100-excellence-in-dementia-care--ch47-chapter-17
   - fxa100-excellence-in-dementia-care--ch57-chapter-17
-updated: 2026-05-04
+- fxa100-excellence-in-dementia-care--ch47-chapter-17
+- fxa100-excellence-in-dementia-care--ch57-chapter-17
+tags:
+- embodied-selfhood
+title: Embodied Selfhood
+type: topic
+updated: 2026-05-11
 ---
 
 ## Embodied Selfhood

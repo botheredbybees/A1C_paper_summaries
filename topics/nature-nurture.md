@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "theory"
-title: "Nature-Nurture Interaction in Human Development"
 confidence: medium
-tags: ["nature-nurture"]
+domain: theory
+slug: nature-nurture-interaction-in-human-development
 sources:
   - fxa303-week03-chapter-11-human-development-how-and-why-we-change
   - fxa303-week03-developmental-psychology-from-infancy-to-adulthood
-updated: 2026-05-04
+- fxa303-week03-chapter-11-human-development-how-and-why-we-change
+- fxa303-week03-developmental-psychology-from-infancy-to-adulthood
+tags:
+- nature-nurture
+title: Nature-Nurture Interaction in Human Development
+type: topic
+updated: 2026-05-11
 ---
 
 ## Nature-Nurture Interaction in Human Development

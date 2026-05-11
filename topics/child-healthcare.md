@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Interactive Puppet Simulation in Child Healthcare"
 confidence: medium
-tags: ["child-healthcare"]
+domain: intervention
+slug: interactive-puppet-simulation-in-child-healthcare
 sources:
   - fxa303-week06-a-review-of-the-literature-the-use-of-interactive-puppet
   - fxa303-week06-puppets-in-an-acute-paediatric-unit-nurses-experiences
-updated: 2026-05-04
+- fxa303-week06-a-review-of-the-literature-the-use-of-interactive-puppet
+- fxa303-week06-puppets-in-an-acute-paediatric-unit-nurses-experiences
+tags:
+- child-healthcare
+title: Interactive Puppet Simulation in Child Healthcare
+type: topic
+updated: 2026-05-11
 ---
 
 ## Interactive Puppet Simulation in Child Healthcare

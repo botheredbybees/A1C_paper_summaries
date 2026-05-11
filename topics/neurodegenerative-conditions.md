@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Dancing for Neurodegenerative Conditions"
 confidence: low
-tags: ["neurodegenerative-conditions"]
+domain: intervention
+slug: therapeutic-dancing-for-neurodegenerative-conditions
 sources:
-  - fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons
+- fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons
+tags:
+- neurodegenerative-conditions
+title: Therapeutic Dancing for Neurodegenerative Conditions
+type: topic
 updated: 2026-05-04
 ---
 

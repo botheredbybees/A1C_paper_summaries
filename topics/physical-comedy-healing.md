@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Physical Comedy Healing"
 confidence: low
-tags: ["physical-comedy-healing"]
+domain: intervention
+slug: physical-comedy-healing
 sources:
-  - fxa303-week08-fxa303-week-8-clowns-and-clowning-in-healthcare-and-trauma
+- fxa303-week08-fxa303-week-8-clowns-and-clowning-in-healthcare-and-trauma
+tags:
+- physical-comedy-healing
+title: Physical Comedy Healing
+type: topic
 updated: 2026-05-04
 ---
 

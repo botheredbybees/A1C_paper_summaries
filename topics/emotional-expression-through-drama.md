@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Expression Through Drama"
 confidence: low
-tags: ["emotional-expression-through-drama"]
+domain: intervention
+slug: emotional-expression-through-drama
 sources:
-  - fxa100-week09-week-9-lecture-dramatherapy-dance-therapy-and-applied
+- fxa100-week09-week-9-lecture-dramatherapy-dance-therapy-and-applied
+tags:
+- emotional-expression-through-drama
+title: Emotional Expression Through Drama
+type: topic
 updated: 2026-05-04
 ---
 

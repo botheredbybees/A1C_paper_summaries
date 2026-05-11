@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Disaster Response Strategy"
 confidence: low
-tags: ["disaster-response-strategy"]
+domain: intervention
+slug: disaster-response-strategy
 sources:
-  - fxa303-week09-after-the-fires-looking-to-the-future-using-the-lessons
+- fxa303-week09-after-the-fires-looking-to-the-future-using-the-lessons
+tags:
+- disaster-response-strategy
+title: Disaster Response Strategy
+type: topic
 updated: 2026-05-04
 ---
 

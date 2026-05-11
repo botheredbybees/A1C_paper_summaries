@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Color Psychology"
 confidence: low
-tags: ["color-psychology"]
+domain: theory
+slug: color-psychology
 sources:
-  - fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture
+- fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture
+tags:
+- color-psychology
+title: Color Psychology
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Mitochondrial Dysfunction"
 confidence: low
-tags: ["mitochondrial-dysfunction"]
+domain: theory
+slug: mitochondrial-dysfunction
 sources:
-  - fxa303-week04-neurobiology-of-autism-spectrum-disorders
+- fxa303-week04-neurobiology-of-autism-spectrum-disorders
+tags:
+- mitochondrial-dysfunction
+title: Mitochondrial Dysfunction
+type: topic
 updated: 2026-05-04
 ---
 

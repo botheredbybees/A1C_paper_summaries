@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Horizon Straightening in Photography"
 confidence: low
-tags: ["horizon-straightening"]
+domain: method
+slug: horizon-straightening-in-photography
 sources:
-  - fxa202-week08-lesson-fxa202-week08-page-3
+- fxa202-week08-lesson-fxa202-week08-page-3
+tags:
+- horizon-straightening
+title: Horizon Straightening in Photography
+type: topic
 updated: 2026-05-04
 ---
 

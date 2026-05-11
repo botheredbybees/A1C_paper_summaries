@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "N-Glycosylation Pathways in Glucose Metabolism"
 confidence: low
-tags: ["n-glycosylation-pathways"]
+domain: method
+slug: n-glycosylation-pathways-in-glucose-metabolism
 sources:
-  - fxa100-week01-the-mechanisms-in-glucose-metabolism-of-aging-hippocampus
+- fxa100-week01-the-mechanisms-in-glucose-metabolism-of-aging-hippocampus
+tags:
+- n-glycosylation-pathways
+title: N-Glycosylation Pathways in Glucose Metabolism
+type: topic
 updated: 2026-05-04
 ---
 

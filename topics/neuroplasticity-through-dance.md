@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Neuroplasticity Through Dance"
 confidence: low
-tags: ["neuroplasticity-through-dance"]
+domain: intervention
+slug: neuroplasticity-through-dance
 sources:
-  - fxa301-week06-lesson-fxa301-week06-page-3
+- fxa301-week06-lesson-fxa301-week06-page-3
+tags:
+- neuroplasticity-through-dance
+title: Neuroplasticity Through Dance
+type: topic
 updated: 2026-05-04
 ---
 

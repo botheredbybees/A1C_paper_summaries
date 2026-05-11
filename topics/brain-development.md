@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "theory"
-title: "Brain Development Across Lifespan"
 confidence: high
-tags: ["brain-development"]
+domain: theory
+slug: brain-development-across-lifespan
 sources:
   - fxa303-week01-can-traumatic-stress-alter-the-brain-understanding-the
   - fxa303-week02-free-play-and-childrens-mental-health
@@ -14,7 +12,20 @@ sources:
   - fxa303-week03-brain-development-during-adolescence
   - fxa303-week03-media-use-and-brain-development-during-adolescence
   - fxa303-week04-characteristics-of-brains-in-autism-spectrum-disorder
-updated: 2026-05-04
+- fxa303-week01-can-traumatic-stress-alter-the-brain-understanding-the
+- fxa303-week02-free-play-and-childrens-mental-health
+- fxa303-week02-imaging-structural-and-functional-brain-development-in
+- fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain
+- fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental
+- fxa303-week03-adolescence-as-a-sensitive-period-of-brain-development
+- fxa303-week03-brain-development-during-adolescence
+- fxa303-week03-media-use-and-brain-development-during-adolescence
+- fxa303-week04-characteristics-of-brains-in-autism-spectrum-disorder
+tags:
+- brain-development
+title: Brain Development Across Lifespan
+type: topic
+updated: 2026-05-11
 ---
 
 ## Brain Development Across Lifespan

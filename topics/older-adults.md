@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Falls Prevention in Older Adults"
 confidence: medium
-tags: ["older-adults"]
+domain: intervention
+slug: falls-prevention-in-older-adults
 sources:
   - fxa301-week01-missing-out-creative-ageing-and-men
   - fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention
-updated: 2026-05-05
+- fxa301-week01-missing-out-creative-ageing-and-men
+- fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention
+tags:
+- older-adults
+title: Falls Prevention in Older Adults
+type: topic
+updated: 2026-05-11
 ---
 
 ## Falls Prevention in Older Adults

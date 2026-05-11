@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Embodied Simulation in Aesthetic Experience"
 confidence: low
-tags: ["embodied-simulation"]
+domain: theory
+slug: embodied-simulation-in-aesthetic-experience
 sources:
-  - fxa100-week06-motion-emotion-and-empathy-in-aesthetic-experience
+- fxa100-week06-motion-emotion-and-empathy-in-aesthetic-experience
+tags:
+- embodied-simulation
+title: Embodied Simulation in Aesthetic Experience
+type: topic
 updated: 2026-05-04
 ---
 

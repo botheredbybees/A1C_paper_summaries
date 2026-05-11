@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Museum Education and Health Interventions"
 confidence: high
-tags: ["museum-education"]
+domain: intervention
+slug: museum-education-and-health-interventions
 sources:
   - fxa100-week07-house-of-memories-national-museums-liverpool
   - fxa100-week07-transcript-artz-museum-program-for-alzheimers-url-only
@@ -11,7 +9,19 @@ sources:
   - fxa301-week05-happy-museum-project-principles
   - fxa301-week05-museums-and-health-emerging-spatial-practices
   - fxa301-week05-museums-as-spaces-for-wellbeing-a-second-report-from-the
-updated: 2026-05-04
+  - fxa301-week11-barrier-free-accessibility-at-the-kunsthistorisches-museum
+  - fxa301-week11-putting-communities-first-inclusive-museum-practice-through
+- fxa100-week07-house-of-memories-national-museums-liverpool
+- fxa100-week07-transcript-artz-museum-program-for-alzheimers-url-only
+- fxa301-week05-happy-museum-learning-evaluation-report
+- fxa301-week05-happy-museum-project-principles
+- fxa301-week05-museums-and-health-emerging-spatial-practices
+- fxa301-week05-museums-as-spaces-for-wellbeing-a-second-report-from-the
+tags:
+- museum-education
+title: Museum Education and Health Interventions
+type: topic
+updated: 2026-05-11
 ---
 
 ## Museum Education and Health Interventions
@@ -36,3 +46,5 @@ The integration of health-focused educational programs within museums presents a
 - [fxa301-week05-happy-museum-project-principles](../sources/fxa301-week05-happy-museum-project-principles.md)
 - [fxa301-week05-museums-and-health-emerging-spatial-practices](../sources/fxa301-week05-museums-and-health-emerging-spatial-practices.md)
 - [fxa301-week05-museums-as-spaces-for-wellbeing-a-second-report-from-the](../sources/fxa301-week05-museums-as-spaces-for-wellbeing-a-second-report-from-the.md)
+- [fxa301-week11-barrier-free-accessibility-at-the-kunsthistorisches-museum](../sources/fxa301-week11-barrier-free-accessibility-at-the-kunsthistorisches-museum.md)
+- [fxa301-week11-putting-communities-first-inclusive-museum-practice-through](../sources/fxa301-week11-putting-communities-first-inclusive-museum-practice-through.md)

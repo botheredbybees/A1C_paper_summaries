@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Migrant Youth Experiences"
 confidence: low
-tags: ["migrant-youth-experiences"]
+domain: population
+slug: migrant-youth-experiences
 sources:
-  - fxa303-week10-diamonds-in-the-backyard-migrant-youth-and-hip-hop-in
+- fxa303-week10-diamonds-in-the-backyard-migrant-youth-and-hip-hop-in
+tags:
+- migrant-youth-experiences
+title: Migrant Youth Experiences
+type: topic
 updated: 2026-05-04
 ---
 

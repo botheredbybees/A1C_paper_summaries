@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Wellbeing Enhancement Through Arts and Music"
 confidence: medium
-tags: ["wellbeing-enhancement"]
+domain: intervention
+slug: wellbeing-enhancement-through-arts-and-music
 sources:
   - fxa100-week08-research-informed-approaches-to-visual-arts-programmes
   - fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing
   - fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing
-updated: 2026-05-04
+- fxa100-week08-research-informed-approaches-to-visual-arts-programmes
+- fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing
+- fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing
+tags:
+- wellbeing-enhancement
+title: Wellbeing Enhancement Through Arts and Music
+type: topic
+updated: 2026-05-11
 ---
 
 ## Wellbeing Enhancement Through Arts and Music

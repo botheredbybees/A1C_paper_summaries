@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Upper Body Strength"
 confidence: low
-tags: ["upper-body-strength"]
+domain: intervention
+slug: upper-body-strength
 sources:
-  - fxa301-week06-dance-4-your-life-exploring-the-health-and-well-being
+- fxa301-week06-dance-4-your-life-exploring-the-health-and-well-being
+tags:
+- upper-body-strength
+title: Upper Body Strength
+type: topic
 updated: 2026-05-04
 ---
 

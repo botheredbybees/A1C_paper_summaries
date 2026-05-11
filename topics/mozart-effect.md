@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "The Mozart Effect"
 confidence: low
-tags: ["mozart-effect"]
+domain: intervention
+slug: the-mozart-effect
 sources:
-  - fxa301-week06-does-music-help-us-work-better-it-depends
+- fxa301-week06-does-music-help-us-work-better-it-depends
+tags:
+- mozart-effect
+title: The Mozart Effect
+type: topic
 updated: 2026-05-04
 ---
 

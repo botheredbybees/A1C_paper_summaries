@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Supportive Environment in Therapy"
 confidence: low
-tags: ["supportive-environment"]
+domain: intervention
+slug: supportive-environment-in-therapy
 sources:
-  - fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children
+- fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children
+tags:
+- supportive-environment
+title: Supportive Environment in Therapy
+type: topic
 updated: 2026-05-04
 ---
 

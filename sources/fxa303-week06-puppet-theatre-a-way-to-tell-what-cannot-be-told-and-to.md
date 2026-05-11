@@ -13,7 +13,7 @@ tags: ["puppet-therapy", "trauma-treatment", "collective-memory", "cultural-heal
 key_concepts: ["puppet therapy", "radical listening", "intergenerational dialogue"]
 methods: ["case study"]
 slug: fxa303-week06-puppet-theatre-a-way-to-tell-what-cannot-be-told-and-to
-related: ["puppet-therapy", "trauma-treatment"]
+related: ["cultural-healing", "puppet-therapy", "trauma-treatment"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,5 +45,6 @@ Andrea Markovits discusses the use of puppet therapy as a method to address trau
 
 ## See Also
 
+- [cultural-healing](../topics/cultural-healing.md)
 - [puppet-therapy](../topics/puppet-therapy.md)
 - [trauma-treatment](../topics/trauma-treatment.md)

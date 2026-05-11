@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Art-Science Collaboration"
 confidence: medium
-tags: ["art-science-collaboration"]
+domain: method
+slug: art-science-collaboration
 sources:
   - fxa100-how-we-thnk-about-dementia-ch13-chapter-13
   - fxa301-week05-transcript-aprof-anne-marie-forbes-interview-with-dr
-updated: 2026-05-04
+- fxa100-how-we-thnk-about-dementia-ch13-chapter-13
+- fxa301-week05-transcript-aprof-anne-marie-forbes-interview-with-dr
+tags:
+- art-science-collaboration
+title: Art-Science Collaboration
+type: topic
+updated: 2026-05-11
 ---
 
 ## Art-Science Collaboration

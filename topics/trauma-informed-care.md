@@ -1,15 +1,22 @@
 ---
-type: topic
-domain: "intervention"
-title: "Trauma-Informed Care"
 confidence: high
-tags: ["trauma-informed-care"]
+domain: intervention
+slug: trauma-informed-care
 sources:
   - fxa303-week09-recovery-oriented-language-guide
   - fxa303-week09-the-trauma-informed-care-and-practice-organisational
   - fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit
   - fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies
-updated: 2026-05-04
+  - fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic
+- fxa303-week09-recovery-oriented-language-guide
+- fxa303-week09-the-trauma-informed-care-and-practice-organisational
+- fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit
+- fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies
+tags:
+- trauma-informed-care
+title: Trauma-Informed Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Trauma-Informed Care
@@ -32,3 +39,4 @@ The concept of Trauma-Informed Care (TIC) is a significant intervention aimed at
 - [fxa303-week09-the-trauma-informed-care-and-practice-organisational](../sources/fxa303-week09-the-trauma-informed-care-and-practice-organisational.md)
 - [fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit](../sources/fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit.md)
 - [fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies](../sources/fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies.md)
+- [fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic](../sources/fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic.md)

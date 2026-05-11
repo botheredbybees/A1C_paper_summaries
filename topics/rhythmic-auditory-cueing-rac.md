@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Rhythmic Auditory Cueing"
 confidence: low
-tags: ["rhythmic-auditory-cueing-rac"]
+domain: intervention
+slug: rhythmic-auditory-cueing
 sources:
-  - fxa301-week06-effect-of-rhythmic-auditory-cueing-on-parkinsonian-gait-a
+- fxa301-week06-effect-of-rhythmic-auditory-cueing-on-parkinsonian-gait-a
+tags:
+- rhythmic-auditory-cueing-rac
+title: Rhythmic Auditory Cueing
+type: topic
 updated: 2026-05-04
 ---
 

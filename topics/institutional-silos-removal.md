@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Institutional Silos Removal"
 confidence: low
-tags: ["institutional-silos-removal"]
+domain: intervention
+slug: institutional-silos-removal
 sources:
-  - fxa301-week03-how-do-we-realize-the-potential-of-the-arts-to-support
+- fxa301-week03-how-do-we-realize-the-potential-of-the-arts-to-support
+tags:
+- institutional-silos-removal
+title: Institutional Silos Removal
+type: topic
 updated: 2026-05-04
 ---
 

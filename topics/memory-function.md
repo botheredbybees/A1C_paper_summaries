@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Memory Function in Dementia"
 confidence: medium
-tags: ["memory-function"]
+domain: intervention
+slug: memory-function-in-dementia
 sources:
   - fxa100-excellence-in-dementia-care--ch40-chapter-14
   - fxa100-week08-web-article-huebner-2012
-updated: 2026-05-04
+- fxa100-excellence-in-dementia-care--ch40-chapter-14
+- fxa100-week08-web-article-huebner-2012
+tags:
+- memory-function
+title: Memory Function in Dementia
+type: topic
+updated: 2026-05-11
 ---
 
 ## Memory Function in Dementia

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Culturally Relevant Care"
 confidence: low
-tags: ["culturally-relevant-care"]
+domain: intervention
+slug: culturally-relevant-care
 sources:
-  - fxa303-week10-role-of-art-centres-for-aboriginal-australians-living-with
+- fxa303-week10-role-of-art-centres-for-aboriginal-australians-living-with
+tags:
+- culturally-relevant-care
+title: Culturally Relevant Care
+type: topic
 updated: 2026-05-04
 ---
 

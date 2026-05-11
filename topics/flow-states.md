@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Flow States"
 confidence: low
-tags: ["flow-states"]
+domain: intervention
+slug: flow-states
 sources:
-  - fxa202-week06-winding-paths-a-photo-essay-on-emotional-health-during
+- fxa202-week06-winding-paths-a-photo-essay-on-emotional-health-during
+tags:
+- flow-states
+title: Flow States
+type: topic
 updated: 2026-05-04
 ---
 

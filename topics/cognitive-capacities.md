@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cognitive Capacities in Dementia Care"
 confidence: low
-tags: ["cognitive-capacities"]
+domain: intervention
+slug: cognitive-capacities-in-dementia-care
 sources:
-  - fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery
+- fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery
+tags:
+- cognitive-capacities
+title: Cognitive Capacities in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

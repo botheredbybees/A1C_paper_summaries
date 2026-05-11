@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Tasmanian Aboriginal Shell Necklace Making"
 confidence: low
-tags: ["traditional-practice"]
+domain: intervention
+slug: tasmanian-aboriginal-shell-necklace-making
 sources:
-  - fxa301-week01-web-article-greeno-2021
+- fxa301-week01-web-article-greeno-2021
+tags:
+- traditional-practice
+title: Tasmanian Aboriginal Shell Necklace Making
+type: topic
 updated: 2026-05-04
 ---
 

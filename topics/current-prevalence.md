@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Current Prevalence of Mental Health Conditions"
 confidence: low
-tags: ["current-prevalence"]
+domain: population
+slug: current-prevalence-of-mental-health-conditions
 sources:
-  - fxa303-week09-national-study-of-mental-health-and-wellbeing-2020-2022
+- fxa303-week09-national-study-of-mental-health-and-wellbeing-2020-2022
+tags:
+- current-prevalence
+title: Current Prevalence of Mental Health Conditions
+type: topic
 updated: 2026-05-04
 ---
 

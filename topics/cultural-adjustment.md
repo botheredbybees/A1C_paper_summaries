@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cultural Adjustment"
 confidence: low
-tags: ["cultural-adjustment"]
+domain: intervention
+slug: cultural-adjustment
 sources:
-  - fxa303-week10-lesson-fxa303-week10-page-4-activities
+- fxa303-week10-lesson-fxa303-week10-page-4-activities
+tags:
+- cultural-adjustment
+title: Cultural Adjustment
+type: topic
 updated: 2026-05-04
 ---
 

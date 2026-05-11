@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Brain Networking Among Musicians"
 confidence: low
-tags: ["communal-brain-function"]
+domain: theory
+slug: brain-networking-among-musicians
 sources:
-  - fxa100-week02-brain-networking-among-musicians
+- fxa100-week02-brain-networking-among-musicians
+tags:
+- communal-brain-function
+title: Brain Networking Among Musicians
+type: topic
 updated: 2026-05-04
 ---
 

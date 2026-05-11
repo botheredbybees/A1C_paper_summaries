@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Torrance Test Of Creative Thinking"
 confidence: low
-tags: ["torrance-test-of-creative-thinking"]
+domain: intervention
+slug: torrance-test-of-creative-thinking
 sources:
-  - fxa303-puppet-assisted-play-therapy-ch02-1-we-must-encourage-children-to-use-their-imagination-and
+- fxa303-puppet-assisted-play-therapy-ch02-1-we-must-encourage-children-to-use-their-imagination-and
+tags:
+- torrance-test-of-creative-thinking
+title: Torrance Test Of Creative Thinking
+type: topic
 updated: 2026-05-04
 ---
 

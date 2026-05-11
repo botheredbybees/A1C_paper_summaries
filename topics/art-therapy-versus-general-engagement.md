@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Art Therapy Versus General Engagement"
 confidence: low
-tags: ["art-therapy-versus-general-engagement"]
+domain: intervention
+slug: art-therapy-versus-general-engagement
 sources:
-  - fxa301-week03-arts-public-health-and-the-national-arts-and-health
+- fxa301-week03-arts-public-health-and-the-national-arts-and-health
+tags:
+- art-therapy-versus-general-engagement
+title: Art Therapy Versus General Engagement
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cognitive Impairment in Dementia"
 confidence: medium
-tags: ["cognitive-impairment"]
+domain: intervention
+slug: cognitive-impairment-in-dementia
 sources:
   - fxa100-week01-living-with-dementia-12-what-is-vascular-dementia
   - fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers
-updated: 2026-05-04
+- fxa100-week01-living-with-dementia-12-what-is-vascular-dementia
+- fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers
+tags:
+- cognitive-impairment
+title: Cognitive Impairment in Dementia
+type: topic
+updated: 2026-05-11
 ---
 
 ## Cognitive Impairment in Dementia

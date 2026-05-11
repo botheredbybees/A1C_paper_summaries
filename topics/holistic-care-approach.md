@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Holistic Care Approach"
 confidence: low
-tags: ["holistic-care-approach"]
+domain: intervention
+slug: holistic-care-approach
 sources:
-  - fxa100-week07-dementia-and-our-mob-caring-for-spirit
+- fxa100-week07-dementia-and-our-mob-caring-for-spirit
+tags:
+- holistic-care-approach
+title: Holistic Care Approach
+type: topic
 updated: 2026-05-04
 ---
 

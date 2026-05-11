@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Community Value Through Participatory Art"
 confidence: low
-tags: ["community-value"]
+domain: intervention
+slug: community-value-through-participatory-art
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2)
+- fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2)
+tags:
+- community-value
+title: Community Value Through Participatory Art
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Voxel-Based Morphometry in Neurodevelopmental Disorders"
 confidence: low
-tags: ["voxel-based-morphometry"]
+domain: method
+slug: voxel-based-morphometry-in-neurodevelopmental-disorders
 sources:
-  - fxa303-week04-distinct-regions-of-the-cerebellum-show-gray-matter
+- fxa303-week04-distinct-regions-of-the-cerebellum-show-gray-matter
+tags:
+- voxel-based-morphometry
+title: Voxel-Based Morphometry in Neurodevelopmental Disorders
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Rescue Alzheimer Trial"
 confidence: low
-tags: ["resctue-alzheimer-trial"]
+domain: intervention
+slug: rescue-alzheimer-trial
 sources:
-  - fxa100-week04-music-therapy-benefits-fxa100-the-arts-and-dementia-care
+- fxa100-week04-music-therapy-benefits-fxa100-the-arts-and-dementia-care
+tags:
+- resctue-alzheimer-trial
+title: Rescue Alzheimer Trial
+type: topic
 updated: 2026-05-04
 ---
 

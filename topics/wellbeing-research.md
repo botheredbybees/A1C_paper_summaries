@@ -1,16 +1,24 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music Therapy and Wellbeing"
 confidence: high
-tags: ["wellbeing-research"]
+domain: intervention
+slug: music-therapy-and-wellbeing
 sources:
   - fxa100-week04-the-ripple-effect-towards-researching-improvisational-music
   - fxa100-week04-what-is-music-health-and-wellbeing
+  - fxa100-week11-dance-for-lifelong-wellbeing-research-findings-2017
   - fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1-(2)
   - fxa301-week03-arts-health-and-wellbeing-evidence-and-implications
   - fxa301-week06-further-evidence-that-singing-fosters-mental-health-and
-updated: 2026-05-06
+- fxa100-week04-the-ripple-effect-towards-researching-improvisational-music
+- fxa100-week04-what-is-music-health-and-wellbeing
+- fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1-(2)
+- fxa301-week03-arts-health-and-wellbeing-evidence-and-implications
+- fxa301-week06-further-evidence-that-singing-fosters-mental-health-and
+tags:
+- wellbeing-research
+title: Music Therapy and Wellbeing
+type: topic
+updated: 2026-05-11
 ---
 
 ## Music Therapy and Wellbeing
@@ -31,6 +39,7 @@ Research into music therapy highlights its multifaceted benefits for enhancing w
 
 - [fxa100-week04-the-ripple-effect-towards-researching-improvisational-music](../sources/fxa100-week04-the-ripple-effect-towards-researching-improvisational-music.md)
 - [fxa100-week04-what-is-music-health-and-wellbeing](../sources/fxa100-week04-what-is-music-health-and-wellbeing.md)
+- [fxa100-week11-dance-for-lifelong-wellbeing-research-findings-2017](../sources/fxa100-week11-dance-for-lifelong-wellbeing-research-findings-2017.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1-(2).md)
 - [fxa301-week03-arts-health-and-wellbeing-evidence-and-implications](../sources/fxa301-week03-arts-health-and-wellbeing-evidence-and-implications.md)
 - [fxa301-week06-further-evidence-that-singing-fosters-mental-health-and](../sources/fxa301-week06-further-evidence-that-singing-fosters-mental-health-and.md)

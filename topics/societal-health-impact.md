@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Societal Health Impact of Museums"
 confidence: low
-tags: ["societal-health-impact"]
+domain: intervention
+slug: societal-health-impact-of-museums
 sources:
-  - fxa301-week05-museums-for-health-and-wellbeing
+- fxa301-week05-museums-for-health-and-wellbeing
+tags:
+- societal-health-impact
+title: Societal Health Impact of Museums
+type: topic
 updated: 2026-05-04
 ---
 

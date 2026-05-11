@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Use Of Puppets"
 confidence: medium
-tags: ["therapeutic-use-of-puppets"]
+domain: intervention
+slug: therapeutic-use-of-puppets
 sources:
-  - fxa303-week06-overview-fxa303-creative-arts-play-and-mental-wellbeing
-  - fxa303-week06-puppets-in-an-acute-paediatric-unit-nurses-experiences
+- fxa303-week06-overview-fxa303-creative-arts-play-and-mental-wellbeing
+- fxa303-week06-puppets-in-an-acute-paediatric-unit-nurses-experiences
+tags:
+- therapeutic-use-of-puppets
+title: Therapeutic Use Of Puppets
+type: topic
 updated: 2026-05-04
 ---
 

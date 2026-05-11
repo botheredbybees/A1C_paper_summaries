@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "End-of-Life Care"
 confidence: medium
-tags: ["end-of-life-care"]
+domain: intervention
+slug: end-of-life-care
 sources:
   - fxa202-week10-thinking-differently-about-aged-care
   - fxa301-week03-challenges-in-end-of-life-care-and-bereavement
-updated: 2026-05-04
+- fxa202-week10-thinking-differently-about-aged-care
+- fxa301-week03-challenges-in-end-of-life-care-and-bereavement
+tags:
+- end-of-life-care
+title: End-of-Life Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## End-of-Life Care

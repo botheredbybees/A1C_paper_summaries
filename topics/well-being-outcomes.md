@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Well-Being Outcomes"
 confidence: low
-tags: ["well-being-outcomes"]
+domain: intervention
+slug: well-being-outcomes
 sources:
-  - fxa100-week04-research-in-aged-care-deloraine-partnership-transcript
+- fxa100-week04-research-in-aged-care-deloraine-partnership-transcript
+tags:
+- well-being-outcomes
+title: Well-Being Outcomes
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Life-Skills Development"
 confidence: low
-tags: ["life-skills-development"]
+domain: intervention
+slug: life-skills-development
 sources:
-  - fxa303-week03-adolescent-health
+- fxa303-week03-adolescent-health
+tags:
+- life-skills-development
+title: Life-Skills Development
+type: topic
 updated: 2026-05-04
 ---
 

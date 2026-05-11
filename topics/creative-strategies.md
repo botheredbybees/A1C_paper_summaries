@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Strategies in Mental Health Treatment"
 confidence: low
-tags: ["creative-strategies"]
+domain: intervention
+slug: creative-strategies-in-mental-health-treatment
 sources:
-  - fxa301-week10-eating-disorders-and-art-therapy
+- fxa301-week10-eating-disorders-and-art-therapy
+tags:
+- creative-strategies
+title: Creative Strategies in Mental Health Treatment
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Suprachiasmatic Nucleus Degeneration"
 confidence: low
-tags: ["suprachiasmatic-nucleus-degeneration"]
+domain: theory
+slug: suprachiasmatic-nucleus-degeneration
 sources:
-  - fxa100-week10-sundown-syndrome-in-persons-with-dementia-an-update
+- fxa100-week10-sundown-syndrome-in-persons-with-dementia-an-update
+tags:
+- suprachiasmatic-nucleus-degeneration
+title: Suprachiasmatic Nucleus Degeneration
+type: topic
 updated: 2026-05-04
 ---
 

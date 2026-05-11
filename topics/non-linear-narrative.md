@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Non-Linear Narrative"
 confidence: low
-tags: ["non-linear-narrative"]
+domain: theory
+slug: non-linear-narrative
 sources:
-  - fxa202-week06-week-six-lecture-components-of-visual-storytelling-(2)
+- fxa202-week06-week-six-lecture-components-of-visual-storytelling-(2)
+tags:
+- non-linear-narrative
+title: Non-Linear Narrative
+type: topic
 updated: 2026-05-04
 ---
 

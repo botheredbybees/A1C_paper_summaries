@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Neuronal Health"
 confidence: low
-tags: ["neuronal-health"]
+domain: intervention
+slug: neuronal-health
 sources:
-  - fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a
+- fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a
+tags:
+- neuronal-health
+title: Neuronal Health
+type: topic
 updated: 2026-05-04
 ---
 

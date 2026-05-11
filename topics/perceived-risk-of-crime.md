@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Perceived Risk of Crime"
 confidence: low
-tags: ["perceived-risk-of-crime"]
+domain: theory
+slug: perceived-risk-of-crime
 sources:
-  - fxa301-week05-social-cohesion-and-pro-social-responses-to-perceptions-of
+- fxa301-week05-social-cohesion-and-pro-social-responses-to-perceptions-of
+tags:
+- perceived-risk-of-crime
+title: Perceived Risk of Crime
+type: topic
 updated: 2026-05-04
 ---
 

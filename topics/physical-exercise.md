@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Physical Exercise for Older Adults with Mild Dementia"
 confidence: low
-tags: ["physical-exercise"]
+domain: intervention
+slug: physical-exercise-for-older-adults-with-mild-dementia
 sources:
-  - fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and
+- fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and
+tags:
+- physical-exercise
+title: Physical Exercise for Older Adults with Mild Dementia
+type: topic
 updated: 2026-05-04
 ---
 

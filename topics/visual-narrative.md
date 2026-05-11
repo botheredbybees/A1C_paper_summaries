@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "method"
-title: "Visual Narrative in Photography"
 confidence: medium
-tags: ["visual-narrative"]
+domain: method
+slug: visual-narrative-in-photography
 sources:
-  - fxa202-week02-10-tips-for-better-composition
-  - fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling
+- fxa202-week02-10-tips-for-better-composition
+- fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling
+tags:
+- visual-narrative
+title: Visual Narrative in Photography
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Rhythmic Auditory Stimulation"
 confidence: medium
-tags: ["rhythmic-auditory-stimulation"]
+domain: intervention
+slug: rhythmic-auditory-stimulation
 sources:
-  - fxa100-week02-how-music-helps-to-heal-the-injured-brain-therapeutic-use
-  - fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing
+- fxa100-week02-how-music-helps-to-heal-the-injured-brain-therapeutic-use
+- fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing
+tags:
+- rhythmic-auditory-stimulation
+title: Rhythmic Auditory Stimulation
+type: topic
 updated: 2026-05-04
 ---
 

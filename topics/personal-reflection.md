@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "intervention"
-title: "Personal Reflection Through Artistic and Therapeutic Processes"
 confidence: high
-tags: ["personal-reflection"]
+domain: intervention
+slug: personal-reflection-through-artistic-and-therapeutic-processes
 sources:
   - fxa100-week02-lesson-fxa100-week02-page-4-week-2-activities
   - fxa202-week06-reflection-on-the-therapeutic-and-artistic-process-of
   - fxa202-week09-reflection-on-creating-a-photo-essay-about-breast-cancer
   - fxa202-week09-reflections-on-grieving-at-a-seaside-pier
-updated: 2026-05-04
+- fxa100-week02-lesson-fxa100-week02-page-4-week-2-activities
+- fxa202-week06-reflection-on-the-therapeutic-and-artistic-process-of
+- fxa202-week09-reflection-on-creating-a-photo-essay-about-breast-cancer
+- fxa202-week09-reflections-on-grieving-at-a-seaside-pier
+tags:
+- personal-reflection
+title: Personal Reflection Through Artistic and Therapeutic Processes
+type: topic
+updated: 2026-05-11
 ---
 
 ## Personal Reflection Through Artistic and Therapeutic Processes

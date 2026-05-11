@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Stage Theory"
 confidence: low
-tags: ["stage-theory"]
+domain: theory
+slug: stage-theory
 sources:
-  - fxa303-week02-theories-of-development-in-dialog-with-jean-piaget
+- fxa303-week02-theories-of-development-in-dialog-with-jean-piaget
+tags:
+- stage-theory
+title: Stage Theory
+type: topic
 updated: 2026-05-04
 ---
 

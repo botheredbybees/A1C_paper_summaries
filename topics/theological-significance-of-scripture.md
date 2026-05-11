@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Theological Significance of Scripture"
 confidence: low
-tags: ["theological-significance-of-scripture"]
+domain: theory
+slug: theological-significance-of-scripture
 sources:
-  - fxa100-week02-psychiatry-in-scripture-sacred-texts-and-psychopathology
+- fxa100-week02-psychiatry-in-scripture-sacred-texts-and-psychopathology
+tags:
+- theological-significance-of-scripture
+title: Theological Significance of Scripture
+type: topic
 updated: 2026-05-04
 ---
 

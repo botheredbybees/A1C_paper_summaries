@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Skill Acquisition"
 confidence: low
-tags: ["skill-acquisition"]
+domain: intervention
+slug: skill-acquisition
 sources:
-  - fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians
+- fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians
+tags:
+- skill-acquisition
+title: Skill Acquisition
+type: topic
 updated: 2026-05-04
 ---
 

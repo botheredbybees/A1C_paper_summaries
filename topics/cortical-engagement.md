@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cortical Engagement in Music Therapy"
 confidence: low
-tags: ["cortical-engagement"]
+domain: intervention
+slug: cortical-engagement-in-music-therapy
 sources:
-  - fxa100-week04-music-as-therapy-and-health-promotion
+- fxa100-week04-music-as-therapy-and-health-promotion
+tags:
+- cortical-engagement
+title: Cortical Engagement in Music Therapy
+type: topic
 updated: 2026-05-04
 ---
 

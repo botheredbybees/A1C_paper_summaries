@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: wellbeing
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Wellbeing
@@ -11,3 +11,4 @@ updated: 2026-05-06
 - [Executive Summary: Creative Health Review](../sources/fxa301-week03-executive-summary-creative-health-review.md)
 - [Week 5 Activities - FXA301 Arts in the Community](../sources/fxa301-week05-week-5-activities-fxa301-arts-in-the-community.md)
 - [Group singing fosters mental health and wellbeing: findings from the East Kent \u2018singing for health\u2019 network project](../sources/fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings.md)
+- [Creative Arts, Gender Diversity and Mental Wellbeing](../sources/fxa303-week11-lesson-fxa303-week11-page-2.md)

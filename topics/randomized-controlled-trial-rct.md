@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Randomized Controlled Trials"
 confidence: low
-tags: ["randomized-controlled-trial-rct"]
+domain: intervention
+slug: randomized-controlled-trials
 sources:
-  - fxa303-week04-impact-of-child-centered-play-therapy-intervention-on
+- fxa303-week04-impact-of-child-centered-play-therapy-intervention-on
+tags:
+- randomized-controlled-trial-rct
+title: Randomized Controlled Trials
+type: topic
 updated: 2026-05-04
 ---
 

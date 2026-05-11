@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Occupational Therapy Practice Framework"
 confidence: low
-tags: ["occupational-therapy-practice-framework"]
+domain: intervention
+slug: occupational-therapy-practice-framework
 sources:
-  - fxa303-week04-art-interventions-for-children-with-autism-spectrum
+- fxa303-week04-art-interventions-for-children-with-autism-spectrum
+tags:
+- occupational-therapy-practice-framework
+title: Occupational Therapy Practice Framework
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Social Cohesion Through Arts Programs"
 confidence: high
-tags: ["social-cohesion"]
+domain: intervention
+slug: social-cohesion-through-arts-programs
 sources:
   - fxa301-week01-music-and-meaning-in-community-contexts
   - fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report
@@ -12,7 +10,20 @@ sources:
   - fxa301-week05-engaging-with-visual-arts-week-5-introduction
   - fxa301-week05-how-murals-helped-turn-a-declining-community-around
   - fxa301-week05-social-cohesion-and-pro-social-responses-to-perceptions-of
-updated: 2026-05-05
+  - fxa301-week11-the-syrian-refugee-art-initiative
+  - fxa303-week11-web-article-fancourt-2019
+- fxa301-week01-music-and-meaning-in-community-contexts
+- fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report
+- fxa301-week03-creating-our-future-results-of-the-national-arts
+- fxa301-week05-case-studies-of-visual-arts-with-and-for-communities
+- fxa301-week05-engaging-with-visual-arts-week-5-introduction
+- fxa301-week05-how-murals-helped-turn-a-declining-community-around
+- fxa301-week05-social-cohesion-and-pro-social-responses-to-perceptions-of
+tags:
+- social-cohesion
+title: Social Cohesion Through Arts Programs
+type: topic
+updated: 2026-05-11
 ---
 
 ## Social Cohesion Through Arts Programs
@@ -38,3 +49,5 @@ Across the sources, arts programs emerge as a powerful intervention for fosterin
 - [fxa301-week05-engaging-with-visual-arts-week-5-introduction](../sources/fxa301-week05-engaging-with-visual-arts-week-5-introduction.md)
 - [fxa301-week05-how-murals-helped-turn-a-declining-community-around](../sources/fxa301-week05-how-murals-helped-turn-a-declining-community-around.md)
 - [fxa301-week05-social-cohesion-and-pro-social-responses-to-perceptions-of](../sources/fxa301-week05-social-cohesion-and-pro-social-responses-to-perceptions-of.md)
+- [fxa301-week11-the-syrian-refugee-art-initiative](../sources/fxa301-week11-the-syrian-refugee-art-initiative.md)
+- [fxa303-week11-web-article-fancourt-2019](../sources/fxa303-week11-web-article-fancourt-2019.md)

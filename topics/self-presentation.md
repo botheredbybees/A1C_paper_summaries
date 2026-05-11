@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Self-Presentation Through Therapeutic Photography"
 confidence: low
-tags: ["self-presentation"]
+domain: intervention
+slug: self-presentation-through-therapeutic-photography
 sources:
-  - fxa202-week03-week-three-lecture-transcript-photography-and-health
+- fxa202-week03-week-three-lecture-transcript-photography-and-health
+tags:
+- self-presentation
+title: Self-Presentation Through Therapeutic Photography
+type: topic
 updated: 2026-05-04
 ---
 

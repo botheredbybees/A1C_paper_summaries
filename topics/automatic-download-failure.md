@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Automatic Download Failure"
 confidence: low
-tags: ["automatic-download-failure"]
+domain: method
+slug: automatic-download-failure
 sources:
-  - fxa303-week10-transcript-duration-9-54-url-only
+- fxa303-week10-transcript-duration-9-54-url-only
+tags:
+- automatic-download-failure
+title: Automatic Download Failure
+type: topic
 updated: 2026-05-04
 ---
 

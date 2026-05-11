@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Promoting Physical Wellbeing Through Active Participation"
 confidence: medium
-tags: ["physical-wellbeing"]
+domain: intervention
+slug: promoting-physical-wellbeing-through-active-participation
 sources:
-  - fxa301-week06-promoting-wellbeing-and-health-through-active-participation
-  - fxa303-week09-childrens-play-environment-after-a-disaster-the-great-east
+- fxa301-week06-promoting-wellbeing-and-health-through-active-participation
+- fxa303-week09-childrens-play-environment-after-a-disaster-the-great-east
+tags:
+- physical-wellbeing
+title: Promoting Physical Wellbeing Through Active Participation
+type: topic
 updated: 2026-05-04
 ---
 

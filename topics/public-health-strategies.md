@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts-Infused Public Health Strategies"
 confidence: medium
-tags: ["public-health-strategies"]
+domain: intervention
+slug: arts-infused-public-health-strategies
 sources:
   - fxa301-week01-arts-for-health-and-wellbeing-an-evaluation-framework
   - fxa301-week03-arts-health-and-well-being-in-america
   - fxa301-week05-museums-and-health-emerging-spatial-practices
-updated: 2026-05-05
+- fxa301-week01-arts-for-health-and-wellbeing-an-evaluation-framework
+- fxa301-week03-arts-health-and-well-being-in-america
+- fxa301-week05-museums-and-health-emerging-spatial-practices
+tags:
+- public-health-strategies
+title: Arts-Infused Public Health Strategies
+type: topic
+updated: 2026-05-11
 ---
 
 ## Arts-Infused Public Health Strategies

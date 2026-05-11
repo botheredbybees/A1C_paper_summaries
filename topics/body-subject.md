@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "The Body-Subject Experience in Dementia"
 confidence: low
-tags: ["body-subject"]
+domain: theory
+slug: the-body-subject-experience-in-dementia
 sources:
-  - fxa100-how-we-thnk-about-dementia-ch10-chapter-5
+- fxa100-how-we-thnk-about-dementia-ch10-chapter-5
+tags:
+- body-subject
+title: The Body-Subject Experience in Dementia
+type: topic
 updated: 2026-05-04
 ---
 

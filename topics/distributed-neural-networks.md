@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Distributed Neural Networks"
 confidence: low
-tags: ["distributed-neural-networks"]
+domain: theory
+slug: distributed-neural-networks
 sources:
-  - fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the
+- fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the
+tags:
+- distributed-neural-networks
+title: Distributed Neural Networks
+type: topic
 updated: 2026-05-04
 ---
 

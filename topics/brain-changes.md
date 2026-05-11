@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Brain Changes"
 confidence: low
-tags: ["brain-changes"]
+domain: theory
+slug: brain-changes
 sources:
-  - fxa303-week03-fxa303-week-3-introduction
+- fxa303-week03-fxa303-week-3-introduction
+tags:
+- brain-changes
+title: Brain Changes
+type: topic
 updated: 2026-05-04
 ---
 

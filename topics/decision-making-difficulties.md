@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Decision-Making Difficulties in Adolescents"
 confidence: low
-tags: ["decision-making-difficulties"]
+domain: theory
+slug: decision-making-difficulties-in-adolescents
 sources:
-  - fxa303-week03-adolescent-development
+- fxa303-week03-adolescent-development
+tags:
+- decision-making-difficulties
+title: Decision-Making Difficulties in Adolescents
+type: topic
 updated: 2026-05-04
 ---
 

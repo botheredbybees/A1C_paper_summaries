@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-research
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Visual Research

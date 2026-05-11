@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Meaningful Involvement"
 confidence: low
-tags: ["meaningful-involvement"]
+domain: method
+slug: meaningful-involvement
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch02-chapter-11-(2)
+- fxa301-oxford-textbook-of-creative-arts-ch02-chapter-11-(2)
+tags:
+- meaningful-involvement
+title: Meaningful Involvement
+type: topic
 updated: 2026-05-04
 ---
 

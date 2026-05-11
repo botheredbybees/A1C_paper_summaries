@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Collaborative Approach in Trauma-Informed Care"
 confidence: low
-tags: ["collaborative-approach"]
+domain: intervention
+slug: collaborative-approach-in-trauma-informed-care
 sources:
-  - fxa303-week09-treating-the-trauma-survivor-an-essential-guide-to-trauma
+- fxa303-week09-treating-the-trauma-survivor-an-essential-guide-to-trauma
+tags:
+- collaborative-approach
+title: Collaborative Approach in Trauma-Informed Care
+type: topic
 updated: 2026-05-04
 ---
 

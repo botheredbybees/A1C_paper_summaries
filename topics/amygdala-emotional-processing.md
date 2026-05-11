@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Amygdala Emotional Processing"
 confidence: low
-tags: ["amygdala-emotional-processing"]
+domain: theory
+slug: amygdala-emotional-processing
 sources:
-  - fxa303-week03-neuroanatomy-limbic-system
+- fxa303-week03-neuroanatomy-limbic-system
+tags:
+- amygdala-emotional-processing
+title: Amygdala Emotional Processing
+type: topic
 updated: 2026-05-04
 ---
 

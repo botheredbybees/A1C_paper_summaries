@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Drama Therapy"
 confidence: low
-tags: ["embodied-practice"]
+domain: intervention
+slug: drama-therapy
 sources:
-  - fxa100-week09-web-article-north-2021
+- fxa100-week09-web-article-north-2021
+tags:
+- embodied-practice
+title: Drama Therapy
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Consensual Qualitative Research"
 confidence: low
-tags: ["consensual-qualitative-research"]
+domain: method
+slug: consensual-qualitative-research
 sources:
-  - fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon
+- fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon
+tags:
+- consensual-qualitative-research
+title: Consensual Qualitative Research
+type: topic
 updated: 2026-05-04
 ---
 

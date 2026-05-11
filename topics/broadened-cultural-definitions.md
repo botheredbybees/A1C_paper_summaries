@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Broadened Cultural Definitions"
 confidence: low
-tags: ["broadened-cultural-definitions"]
+domain: theory
+slug: broadened-cultural-definitions
 sources:
-  - fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)
+- fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)
+tags:
+- broadened-cultural-definitions
+title: Broadened Cultural Definitions
+type: topic
 updated: 2026-05-04
 ---
 

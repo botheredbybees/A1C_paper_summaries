@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Character Development in Therapeutic Contexts"
 confidence: medium
-tags: ["character-development"]
+domain: intervention
+slug: character-development-in-therapeutic-contexts
 sources:
-  - fxa100-excellence-in-dementia-care--ch38-4-it-allows-for-the-ethical-decision
-  - fxa303-puppet-play-therapy-ch08-6-posture-keep-your-arm-holding-the-puppet-at-a-right-angle
+- fxa100-excellence-in-dementia-care--ch38-4-it-allows-for-the-ethical-decision
+- fxa303-puppet-play-therapy-ch08-6-posture-keep-your-arm-holding-the-puppet-at-a-right-angle
+tags:
+- character-development
+title: Character Development in Therapeutic Contexts
+type: topic
 updated: 2026-05-04
 ---
 

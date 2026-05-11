@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Accessibility in the Arts"
 confidence: low
-tags: ["accessibility"]
+domain: intervention
+slug: accessibility-in-the-arts
 sources:
-  - fxa301-week09-web-article-australia-2018
+- fxa301-week09-web-article-australia-2018
+tags:
+- accessibility
+title: Accessibility in the Arts
+type: topic
 updated: 2026-05-04
 ---
 

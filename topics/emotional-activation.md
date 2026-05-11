@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Activation"
 confidence: low
-tags: ["emotional-activation"]
+domain: intervention
+slug: emotional-activation
 sources:
-  - fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care
+- fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care
+tags:
+- emotional-activation
+title: Emotional Activation
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "National Pride"
 confidence: low
-tags: ["national-pride"]
+domain: intervention
+slug: national-pride
 sources:
-  - fxa100-week02-transcript-peter-omahon-in-tears-during-irelands-call-virgin
+- fxa100-week02-transcript-peter-omahon-in-tears-during-irelands-call-virgin
+tags:
+- national-pride
+title: National Pride
+type: topic
 updated: 2026-05-04
 ---
 

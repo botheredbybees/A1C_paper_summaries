@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Interventions for Children's Mental Health"
 confidence: medium
-tags: ["therapeutic-intervention"]
+domain: intervention
+slug: therapeutic-interventions-for-children-s-mental-health
 sources:
   - fxa303-week02-free-play-and-childrens-mental-health
   - fxa303-week06-arts-therapies-and-the-mental-health-of-children-and-young
   - fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand
-updated: 2026-05-04
+- fxa303-week02-free-play-and-childrens-mental-health
+- fxa303-week06-arts-therapies-and-the-mental-health-of-children-and-young
+- fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand
+tags:
+- therapeutic-intervention
+title: Therapeutic Interventions for Children's Mental Health
+type: topic
+updated: 2026-05-11
 ---
 
 ## Therapeutic Interventions for Children's Mental Health

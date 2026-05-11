@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Self-Determined Motivation in Music Listening"
 confidence: low
-tags: ["self-determined-motivation"]
+domain: intervention
+slug: self-determined-motivation-in-music-listening
 sources:
-  - fxa303-week03-music-listening-motivation-is-associated-with-global
+- fxa303-week03-music-listening-motivation-is-associated-with-global
+tags:
+- self-determined-motivation
+title: Self-Determined Motivation in Music Listening
+type: topic
 updated: 2026-05-04
 ---
 

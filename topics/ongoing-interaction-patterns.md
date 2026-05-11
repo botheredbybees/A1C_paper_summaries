@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Ongoing Interaction Patterns"
 confidence: low
-tags: ["ongoing-interaction-patterns"]
+domain: method
+slug: ongoing-interaction-patterns
 sources:
-  - fxa301-make-arts-for-a-better-life-ch04-6-the-barefoot-guide-to-working-with-organisations-and
+- fxa301-make-arts-for-a-better-life-ch04-6-the-barefoot-guide-to-working-with-organisations-and
+tags:
+- ongoing-interaction-patterns
+title: Ongoing Interaction Patterns
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Musical Preferences and Cognitive Style"
 confidence: low
-tags: ["cognitive-style"]
+domain: theory
+slug: musical-preferences-and-cognitive-style
 sources:
-  - fxa100-week03-musical-preferences-may-reflect-cognitive-style
+- fxa100-week03-musical-preferences-may-reflect-cognitive-style
+tags:
+- cognitive-style
+title: Musical Preferences and Cognitive Style
+type: topic
 updated: 2026-05-04
 ---
 

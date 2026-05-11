@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Photography Practices"
 confidence: low
-tags: ["therapeutic-photography-practices"]
+domain: intervention
+slug: therapeutic-photography-practices
 sources:
-  - fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture
+- fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture
+tags:
+- therapeutic-photography-practices
+title: Therapeutic Photography Practices
+type: topic
 updated: 2026-05-04
 ---
 

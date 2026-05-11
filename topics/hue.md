@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Hue in Photography"
 confidence: low
-tags: ["hue"]
+domain: method
+slug: hue-in-photography
 sources:
-  - fxa202-week02-lesson-fxa202-week02-page-3
+- fxa202-week02-lesson-fxa202-week02-page-3
+tags:
+- hue
+title: Hue in Photography
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Language Function in Neurodegenerative Diseases"
 confidence: low
-tags: ["language-function"]
+domain: theory
+slug: language-function-in-neurodegenerative-diseases
 sources:
-  - fxa100-week01-what-is-frontotemporal-dementia
+- fxa100-week01-what-is-frontotemporal-dementia
+tags:
+- language-function
+title: Language Function in Neurodegenerative Diseases
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Emotional Sensitivity"
 confidence: low
-tags: ["emotional-sensitivity"]
+domain: population
+slug: emotional-sensitivity
 sources:
-  - fxa303-week03-media-use-and-brain-development-during-adolescence
+- fxa303-week03-media-use-and-brain-development-during-adolescence
+tags:
+- emotional-sensitivity
+title: Emotional Sensitivity
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Medical Clowning"
 confidence: low
-tags: ["medical-clowning"]
+domain: intervention
+slug: medical-clowning
 sources:
-  - fxa303-week08-transcript-15-may-2012
+- fxa303-week08-transcript-15-may-2012
+tags:
+- medical-clowning
+title: Medical Clowning
+type: topic
 updated: 2026-05-04
 ---
 

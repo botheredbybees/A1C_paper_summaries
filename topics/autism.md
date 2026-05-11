@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Autism"
 confidence: low
-tags: ["autism"]
+domain: population
+slug: autism
 sources:
-  - fxa303-week04-lesson-fxa303-week04-page-1-week-4-overview
+- fxa303-week04-lesson-fxa303-week04-page-1-week-4-overview
+tags:
+- autism
+title: Autism
+type: topic
 updated: 2026-05-04
 ---
 

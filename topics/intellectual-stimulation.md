@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Intellectual Stimulation through Art"
 confidence: low
-tags: ["intellectual-stimulation"]
+domain: intervention
+slug: intellectual-stimulation-through-art
 sources:
-  - fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery
+- fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery
+tags:
+- intellectual-stimulation
+title: Intellectual Stimulation through Art
+type: topic
 updated: 2026-05-04
 ---
 

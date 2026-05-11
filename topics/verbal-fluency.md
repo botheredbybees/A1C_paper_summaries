@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Verbal Fluency"
 confidence: low
-tags: ["verbal-fluency"]
+domain: intervention
+slug: verbal-fluency
 sources:
-  - fxa100-week02-the-benefits-of-music-instruction-on-processing-speed
+- fxa100-week02-the-benefits-of-music-instruction-on-processing-speed
+tags:
+- verbal-fluency
+title: Verbal Fluency
+type: topic
 updated: 2026-05-04
 ---
 

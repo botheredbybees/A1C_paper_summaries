@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "theory"
-title: "Musical Memory"
 confidence: medium
-tags: ["musical-memory"]
+domain: theory
+slug: musical-memory
 sources:
   - fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and
   - fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video
   - fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted
-updated: 2026-05-05
+- fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and
+- fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video
+- fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted
+tags:
+- musical-memory
+title: Musical Memory
+type: topic
+updated: 2026-05-11
 ---
 
 ## Musical Memory

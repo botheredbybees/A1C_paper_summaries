@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Singing as a COPD Management Tool"
 confidence: medium
-tags: ["copd-management"]
+domain: intervention
+slug: singing-as-a-copd-management-tool
 sources:
   - fxa100-week04-singing-for-better-breathing-transcript
   - fxa100-week04-transcript-singing-for-better-breathing
-updated: 2026-05-04
+- fxa100-week04-singing-for-better-breathing-transcript
+- fxa100-week04-transcript-singing-for-better-breathing
+tags:
+- copd-management
+title: Singing as a COPD Management Tool
+type: topic
+updated: 2026-05-11
 ---
 
 ## Singing as a COPD Management Tool

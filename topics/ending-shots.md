@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Ending Shots in Film"
 confidence: low
-tags: ["ending-shots"]
+domain: method
+slug: ending-shots-in-film
 sources:
-  - fxa202-week05-lesson-fxa202-week05-week-5
+- fxa202-week05-lesson-fxa202-week05-week-5
+tags:
+- ending-shots
+title: Ending Shots in Film
+type: topic
 updated: 2026-05-04
 ---
 

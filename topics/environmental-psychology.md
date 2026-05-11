@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Environmental Psychology in Museum Design"
 confidence: low
-tags: ["environmental-psychology"]
+domain: intervention
+slug: environmental-psychology-in-museum-design
 sources:
-  - fxa301-week05-museums-and-wellbeing-an-overview-on-emerging-architectural
+- fxa301-week05-museums-and-wellbeing-an-overview-on-emerging-architectural
+tags:
+- environmental-psychology
+title: Environmental Psychology in Museum Design
+type: topic
 updated: 2026-05-04
 ---
 

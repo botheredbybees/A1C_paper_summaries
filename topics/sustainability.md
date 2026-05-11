@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sustainable Cultural Practices"
 confidence: medium
-tags: ["sustainability"]
+domain: intervention
+slug: sustainable-cultural-practices
 sources:
   - fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2)
   - fxa301-week05-happy-museum-learning-evaluation-report
-updated: 2026-05-04
+- fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2)
+- fxa301-week05-happy-museum-learning-evaluation-report
+tags:
+- sustainability
+title: Sustainable Cultural Practices
+type: topic
+updated: 2026-05-11
 ---
 
 ## Sustainable Cultural Practices

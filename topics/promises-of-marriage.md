@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Promises Of Marriage"
 confidence: low
-tags: ["promises-of-marriage"]
+domain: theory
+slug: promises-of-marriage
 sources:
-  - fxa301-week08-transcript-sharing-stories-after-school-ill-marry-you-23-nov
+- fxa301-week08-transcript-sharing-stories-after-school-ill-marry-you-23-nov
+tags:
+- promises-of-marriage
+title: Promises Of Marriage
+type: topic
 updated: 2026-05-04
 ---
 

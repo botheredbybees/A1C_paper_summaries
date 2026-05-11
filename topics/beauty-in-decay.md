@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Beauty In Decay"
 confidence: low
-tags: ["beauty-in-decay"]
+domain: theory
+slug: beauty-in-decay
 sources:
-  - fxa202-week09-critical-reflection-the-photo-essay
+- fxa202-week09-critical-reflection-the-photo-essay
+tags:
+- beauty-in-decay
+title: Beauty In Decay
+type: topic
 updated: 2026-05-04
 ---
 

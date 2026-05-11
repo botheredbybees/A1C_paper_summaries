@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Music Making"
 confidence: low
-tags: ["creative-music-making"]
+domain: intervention
+slug: creative-music-making
 sources:
-  - fxa100-week04-music-therapy-benefits-fxa100-the-arts-and-dementia-care
+- fxa100-week04-music-therapy-benefits-fxa100-the-arts-and-dementia-care
+tags:
+- creative-music-making
+title: Creative Music Making
+type: topic
 updated: 2026-05-04
 ---
 

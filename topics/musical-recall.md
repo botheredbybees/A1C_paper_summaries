@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Musical Recall"
 confidence: low
-tags: ["musical-recall"]
+domain: intervention
+slug: musical-recall
 sources:
-  - fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video
+- fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video
+tags:
+- musical-recall
+title: Musical Recall
+type: topic
 updated: 2026-05-04
 ---
 

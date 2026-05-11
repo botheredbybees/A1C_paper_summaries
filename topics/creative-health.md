@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Health"
 confidence: high
-tags: ["creative-health"]
+domain: intervention
+slug: creative-health
 sources:
   - fxa301-week03-creative-health-review-report
   - fxa301-week03-executive-summary-creative-health-review
@@ -12,7 +10,18 @@ sources:
   - fxa301-week03-introduction-to-creative-health-extract
   - fxa301-week03-statement-on-lived-experience
   - fxa301-week03-web-article-national-2024
-updated: 2026-05-04
+- fxa301-week03-creative-health-review-report
+- fxa301-week03-executive-summary-creative-health-review
+- fxa301-week03-health-inequalities-and-the-role-of-creative-health
+- fxa301-week03-implementing-creative-health
+- fxa301-week03-introduction-to-creative-health-extract
+- fxa301-week03-statement-on-lived-experience
+- fxa301-week03-web-article-national-2024
+tags:
+- creative-health
+title: Creative Health
+type: topic
+updated: 2026-05-11
 ---
 
 ## Creative Health

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Unique Vantage Points in Photography"
 confidence: low
-tags: ["unique-vantage-points"]
+domain: method
+slug: unique-vantage-points-in-photography
 sources:
-  - fxa202-week02-photography-tips-point-of-view-composition
+- fxa202-week02-photography-tips-point-of-view-composition
+tags:
+- unique-vantage-points
+title: Unique Vantage Points in Photography
+type: topic
 updated: 2026-05-04
 ---
 

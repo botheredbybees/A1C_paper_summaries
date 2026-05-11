@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Body Language"
 confidence: low
-tags: ["body-language"]
+domain: intervention
+slug: body-language
 sources:
-  - fxa303-week06-developing-excellence-in-puppet-manipulation
+- fxa303-week06-developing-excellence-in-puppet-manipulation
+tags:
+- body-language
+title: Body Language
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Critical Reflection Models"
 confidence: low
-tags: ["critical-reflection-models"]
+domain: theory
+slug: critical-reflection-models
 sources:
-  - fxa202-week10-lesson-fxa202-week10-week-10
+- fxa202-week10-lesson-fxa202-week10-week-10
+tags:
+- critical-reflection-models
+title: Critical Reflection Models
+type: topic
 updated: 2026-05-04
 ---
 

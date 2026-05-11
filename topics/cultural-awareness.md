@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cultural Awareness"
 confidence: medium
-tags: ["cultural-awareness"]
+domain: intervention
+slug: cultural-awareness
 sources:
-  - fxa301-week01-lesson-fxa301-week01-page-2-hm
-  - fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an
+- fxa301-week01-lesson-fxa301-week01-page-2-hm
+- fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an
+tags:
+- cultural-awareness
+title: Cultural Awareness
+type: topic
 updated: 2026-05-04
 ---
 

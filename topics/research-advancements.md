@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Research Advancements in Music Therapy"
 confidence: low
-tags: ["research-advancements"]
+domain: intervention
+slug: research-advancements-in-music-therapy
 sources:
-  - fxa100-week04-the-role-function-and-identity-of-music-therapists-in-the
+- fxa100-week04-the-role-function-and-identity-of-music-therapists-in-the
+tags:
+- research-advancements
+title: Research Advancements in Music Therapy
+type: topic
 updated: 2026-05-04
 ---
 

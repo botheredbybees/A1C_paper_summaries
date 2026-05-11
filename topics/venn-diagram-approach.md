@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Venn Diagram Approach In Arts In Health"
 confidence: low
-tags: ["venn-diagram-approach"]
+domain: theory
+slug: venn-diagram-approach-in-arts-in-health
 sources:
-  - fxa301-arts-in-health-ch19-36-abc-national-cultural-policy-submission
+- fxa301-arts-in-health-ch19-36-abc-national-cultural-policy-submission
+tags:
+- venn-diagram-approach
+title: Venn Diagram Approach In Arts In Health
+type: topic
 updated: 2026-05-04
 ---
 

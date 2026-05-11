@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Mental Health Recovery"
 confidence: medium
-tags: ["mental-health-recovery"]
+domain: intervention
+slug: mental-health-recovery
 sources:
   - fxa202-week10-critical-reflection-my-photo-essay
   - fxa301-week10-fxa301-week-10-lecture
   - fxa301-week10-sing-your-heart-out-community-singing-as-part-of-mental
-updated: 2026-05-04
+- fxa202-week10-critical-reflection-my-photo-essay
+- fxa301-week10-fxa301-week-10-lecture
+- fxa301-week10-sing-your-heart-out-community-singing-as-part-of-mental
+tags:
+- mental-health-recovery
+title: Mental Health Recovery
+type: topic
+updated: 2026-05-11
 ---
 
 ## Mental Health Recovery

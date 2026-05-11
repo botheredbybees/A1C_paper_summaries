@@ -1,14 +1,16 @@
 ---
-type: topic
-domain: "theory"
-title: "Personhood in Dementia Care"
 confidence: high
-tags: ["personhood"]
+domain: theory
+slug: personhood-in-dementia-care
 sources:
-  - fxa100-how-we-thnk-about-dementia-ch08-chapter-4
-  - fxa100-week04-person-centred-language-guidelines
-  - fxa100-week09-how-personhood-is-undermined
-  - fxa100-week09-personhood-maintained
+- fxa100-how-we-thnk-about-dementia-ch08-chapter-4
+- fxa100-week04-person-centred-language-guidelines
+- fxa100-week09-how-personhood-is-undermined
+- fxa100-week09-personhood-maintained
+tags:
+- personhood
+title: Personhood in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

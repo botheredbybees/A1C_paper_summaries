@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Preserved Creativity"
 confidence: medium
-tags: ["preserved-creativity"]
+domain: intervention
+slug: preserved-creativity
 sources:
-  - fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities
-  - fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers
+- fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities
+- fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers
+tags:
+- preserved-creativity
+title: Preserved Creativity
+type: topic
 updated: 2026-05-04
 ---
 

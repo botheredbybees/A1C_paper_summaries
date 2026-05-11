@@ -1,15 +1,19 @@
 ---
-type: topic
-domain: "method"
-title: "Pestle Analysis"
 confidence: medium
-tags: ["pestle-analysis"]
+domain: method
+slug: pestle-analysis
 sources:
-  - fxa100-week04-conceptualizing-and-planning-interventions
-  - fxa301-arts-in-health-ch26-4-technological
   - fxa301-arts-in-health-ch26-4-technological-(2)
   - fxa301-week01-conceptualizing-and-planning-interventions
-updated: 2026-05-05
+- fxa100-week04-conceptualizing-and-planning-interventions
+- fxa301-arts-in-health-ch26-4-technological
+- fxa301-arts-in-health-ch26-4-technological-(2)
+- fxa301-week01-conceptualizing-and-planning-interventions
+tags:
+- pestle-analysis
+title: Pestle Analysis
+type: topic
+updated: 2026-05-11
 ---
 
 ## Pestle Analysis
@@ -28,7 +32,5 @@ The integration of the PESTLE analysis across various sources highlights its rol
 
 ## Sources
 
-- [fxa100-week04-conceptualizing-and-planning-interventions](../sources/fxa100-week04-conceptualizing-and-planning-interventions.md)
-- [fxa301-arts-in-health-ch26-4-technological](../sources/fxa301-arts-in-health-ch26-4-technological.md)
 - [fxa301-arts-in-health-ch26-4-technological-(2)](../sources/fxa301-arts-in-health-ch26-4-technological-(2).md)
 - [fxa301-week01-conceptualizing-and-planning-interventions](../sources/fxa301-week01-conceptualizing-and-planning-interventions.md)

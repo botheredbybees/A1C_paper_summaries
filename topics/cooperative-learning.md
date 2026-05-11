@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cooperative Learning"
 confidence: medium
-tags: ["cooperative-learning"]
+domain: intervention
+slug: cooperative-learning
 sources:
-  - fxa301-week06-playing-for-their-lives-the-global-el-sistema-movement-for
-  - fxa303-week05-puppet-as-a-pedagogical-tool-a-literature-review
+- fxa301-week06-playing-for-their-lives-the-global-el-sistema-movement-for
+- fxa303-week05-puppet-as-a-pedagogical-tool-a-literature-review
+tags:
+- cooperative-learning
+title: Cooperative Learning
+type: topic
 updated: 2026-05-04
 ---
 

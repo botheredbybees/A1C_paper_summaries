@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Intrinsic Value Of Music"
 confidence: low
-tags: ["intrinsic-value-of-music"]
+domain: theory
+slug: intrinsic-value-of-music
 sources:
-  - fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness
+- fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness
+tags:
+- intrinsic-value-of-music
+title: Intrinsic Value Of Music
+type: topic
 updated: 2026-05-04
 ---
 

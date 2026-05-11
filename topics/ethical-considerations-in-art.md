@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Ethical Considerations in Art"
 confidence: low
-tags: ["ethical-considerations-in-art"]
+domain: intervention
+slug: ethical-considerations-in-art
 sources:
-  - fxa100-week04-making-art-with-communities-a-work-guide
+- fxa100-week04-making-art-with-communities-a-work-guide
+tags:
+- ethical-considerations-in-art
+title: Ethical Considerations in Art
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Identification With Characters"
 confidence: low
-tags: ["identification-with-characters"]
+domain: intervention
+slug: identification-with-characters
 sources:
-  - fxa100-week10-brightness-in-the-theatre
+- fxa100-week10-brightness-in-the-theatre
+tags:
+- identification-with-characters
+title: Identification With Characters
+type: topic
 updated: 2026-05-04
 ---
 

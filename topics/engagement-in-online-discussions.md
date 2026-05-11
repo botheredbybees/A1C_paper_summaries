@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Engagement In Online Discussions"
 confidence: low
-tags: ["engagement-in-online-discussions"]
+domain: method
+slug: engagement-in-online-discussions
 sources:
-  - fxa100-week01-lesson-fxa100-week01-page-3-week-1-activities
+- fxa100-week01-lesson-fxa100-week01-page-3-week-1-activities
+tags:
+- engagement-in-online-discussions
+title: Engagement In Online Discussions
+type: topic
 updated: 2026-05-04
 ---
 

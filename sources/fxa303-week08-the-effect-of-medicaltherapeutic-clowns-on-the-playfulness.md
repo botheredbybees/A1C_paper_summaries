@@ -11,7 +11,7 @@ tags: ["therapeutic-clowning", "intellectual-disabilities", "child-development",
 key_concepts: ["playfulness", "therapeutic-intervention", "clown-therapy"]
 methods: ["longitudinal-study", "case-control"]
 slug: fxa303-week08-the-effect-of-medicaltherapeutic-clowns-on-the-playfulness
-related: ["child-development", "emotional-wellbeing", "social-skills", "therapeutic-clowning"]
+related: ["child-development", "emotional-wellbeing", "intellectual-disabilities", "social-skills", "therapeutic-clowning"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,5 +46,6 @@ This study explores the impact of medical clowns on the playfulness of children 
 
 - [child-development](../topics/child-development.md)
 - [emotional-wellbeing](../topics/emotional-wellbeing.md)
+- [intellectual-disabilities](../topics/intellectual-disabilities.md)
 - [social-skills](../topics/social-skills.md)
 - [therapeutic-clowning](../topics/therapeutic-clowning.md)

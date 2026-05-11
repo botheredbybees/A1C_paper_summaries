@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Happiness Prescriptions"
 confidence: low
-tags: ["happiness-prescriptions"]
+domain: intervention
+slug: happiness-prescriptions
 sources:
-  - fxa301-week05-web-lecture-5-engaging-with-visual-arts
+- fxa301-week05-web-lecture-5-engaging-with-visual-arts
+tags:
+- happiness-prescriptions
+title: Happiness Prescriptions
+type: topic
 updated: 2026-05-04
 ---
 

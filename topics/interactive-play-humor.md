@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Interactive Play Humor"
 confidence: low
-tags: ["interactive-play-humor"]
+domain: intervention
+slug: interactive-play-humor
 sources:
-  - fxa303-week08-hospital-clowning-as-play-stimulus-in-healthcare
+- fxa303-week08-hospital-clowning-as-play-stimulus-in-healthcare
+tags:
+- interactive-play-humor
+title: Interactive Play Humor
+type: topic
 updated: 2026-05-04
 ---
 

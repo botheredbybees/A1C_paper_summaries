@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Geneva Emotional Music Scale"
 confidence: low
-tags: ["geneva-emotional-music-scale-gems"]
+domain: method
+slug: geneva-emotional-music-scale
 sources:
-  - fxa301-week02-measuring-music-induced-emotion-a-comparison-of-emotion
+- fxa301-week02-measuring-music-induced-emotion-a-comparison-of-emotion
+tags:
+- geneva-emotional-music-scale-gems
+title: Geneva Emotional Music Scale
+type: topic
 updated: 2026-05-04
 ---
 

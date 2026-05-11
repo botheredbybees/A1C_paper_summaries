@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Ethical Principles in Healthcare"
 confidence: low
-tags: ["ethical-principles"]
+domain: theory
+slug: ethical-principles-in-healthcare
 sources:
-  - fxa301-week03-noah-code-of-ethics-2023
+- fxa301-week03-noah-code-of-ethics-2023
+tags:
+- ethical-principles
+title: Ethical Principles in Healthcare
+type: topic
 updated: 2026-05-04
 ---
 

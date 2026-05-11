@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Montgomery-aasberg-depression-rating-scale-madrs"
 confidence: low
-tags: ["montgomery-aasberg-depression-rating-scale-madrs"]
+domain: intervention
+slug: montgomery-aasberg-depression-rating-scale-madrs
 sources:
-  - fxa100-week04-the-day-the-music-died
+- fxa100-week04-the-day-the-music-died
+tags:
+- montgomery-aasberg-depression-rating-scale-madrs
+title: Montgomery-aasberg-depression-rating-scale-madrs
+type: topic
 updated: 2026-05-04
 ---
 

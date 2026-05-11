@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts On Prescription During The Lockdown History Project"
 confidence: low
-tags: ["lockdown-history-project"]
+domain: intervention
+slug: arts-on-prescription-during-the-lockdown-history-project
 sources:
-  - fxa303-week03-arts-on-prescription-meets-sir-quentin-blake
+- fxa303-week03-arts-on-prescription-meets-sir-quentin-blake
+tags:
+- lockdown-history-project
+title: Arts On Prescription During The Lockdown History Project
+type: topic
 updated: 2026-05-04
 ---
 

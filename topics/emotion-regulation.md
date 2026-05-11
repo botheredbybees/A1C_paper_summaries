@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotion Regulation in Autism"
 confidence: medium
-tags: ["emotion-regulation"]
+domain: intervention
+slug: emotion-regulation-in-autism
 sources:
   - fxa303-week04-brief-report-emotion-regulation-in-autism-is-improved-in-a
   - fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves
   - fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)
-updated: 2026-05-04
+- fxa303-week04-brief-report-emotion-regulation-in-autism-is-improved-in-a
+- fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves
+- fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)
+tags:
+- emotion-regulation
+title: Emotion Regulation in Autism
+type: topic
+updated: 2026-05-11
 ---
 
 ## Emotion Regulation in Autism

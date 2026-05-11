@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Foundational Learning Abilities"
 confidence: low
-tags: ["foundational-learning-abilities"]
+domain: population
+slug: foundational-learning-abilities
 sources:
-  - fxa303-week02-infancy-and-the-early-years
+- fxa303-week02-infancy-and-the-early-years
+tags:
+- foundational-learning-abilities
+title: Foundational Learning Abilities
+type: topic
 updated: 2026-05-04
 ---
 

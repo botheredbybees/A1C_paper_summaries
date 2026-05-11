@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Personal Definition of Beauty"
 confidence: low
-tags: ["personal-definition-of-beauty"]
+domain: theory
+slug: personal-definition-of-beauty
 sources:
-  - fxa301-week02-aesthetic-judgments-of-novel-graphic-patterns-analyses-of
+- fxa301-week02-aesthetic-judgments-of-novel-graphic-patterns-analyses-of
+tags:
+- personal-definition-of-beauty
+title: Personal Definition of Beauty
+type: topic
 updated: 2026-05-04
 ---
 

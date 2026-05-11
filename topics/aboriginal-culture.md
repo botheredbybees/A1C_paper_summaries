@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "population"
-title: "Aboriginal Culture and Well-being"
 confidence: medium
-tags: ["aboriginal-culture"]
+domain: population
+slug: aboriginal-culture-and-well-being
 sources:
   - fxa303-week10-transcript-duration-2-36
   - fxa303-week10-web-article-russ-smith-2023
-updated: 2026-05-04
+- fxa303-week10-transcript-duration-2-36
+- fxa303-week10-web-article-russ-smith-2023
+tags:
+- aboriginal-culture
+title: Aboriginal Culture and Well-being
+type: topic
+updated: 2026-05-11
 ---
 
 ## Aboriginal Culture and Well-being

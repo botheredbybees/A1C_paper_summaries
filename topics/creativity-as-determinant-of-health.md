@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Creativity As A Determinant Of Health"
 confidence: low
-tags: ["creativity-as-determinant-of-health"]
+domain: theory
+slug: creativity-as-a-determinant-of-health
 sources:
-  - fxa301-week03-executive-summary-creative-health-review
+- fxa301-week03-executive-summary-creative-health-review
+tags:
+- creativity-as-determinant-of-health
+title: Creativity As A Determinant Of Health
+type: topic
 updated: 2026-05-04
 ---
 

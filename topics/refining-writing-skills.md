@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Refining Writing Skills"
 confidence: low
-tags: ["refining-writing-skills"]
+domain: intervention
+slug: refining-writing-skills
 sources:
-  - fxa202-week09-lesson-fxa202-week09-week-9
+- fxa202-week09-lesson-fxa202-week09-week-9
+tags:
+- refining-writing-skills
+title: Refining Writing Skills
+type: topic
 updated: 2026-05-04
 ---
 

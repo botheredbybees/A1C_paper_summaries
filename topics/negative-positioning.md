@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Negative Positioning of People Diagnosed with Dementia"
 confidence: low
-tags: ["negative-positioning"]
+domain: theory
+slug: negative-positioning-of-people-diagnosed-with-dementia
 sources:
-  - fxa100-excellence-in-dementia-care--ch52-1-there-is-a-stereotypic-view
+- fxa100-excellence-in-dementia-care--ch52-1-there-is-a-stereotypic-view
+tags:
+- negative-positioning
+title: Negative Positioning of People Diagnosed with Dementia
+type: topic
 updated: 2026-05-04
 ---
 

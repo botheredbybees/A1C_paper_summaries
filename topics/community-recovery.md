@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Community Recovery"
 confidence: low
-tags: ["community-recovery"]
+domain: intervention
+slug: community-recovery
 sources:
-  - fxa303-week09-lesson-fxa303-week09-activities
+- fxa303-week09-lesson-fxa303-week09-activities
+tags:
+- community-recovery
+title: Community Recovery
+type: topic
 updated: 2026-05-04
 ---
 

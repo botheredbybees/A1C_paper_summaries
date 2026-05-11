@@ -1,10 +1,11 @@
 ---
 type: tag
 tag: psychological-wellbeing
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Psychological Wellbeing
 
 - [A Study of the Experience of Working Adults on Regular Choral Activities: Applying Focus Groups](../sources/fxa301-week06-a-study-of-the-experience-of-working-adults-on-regular.md)
+- [Fine arts participation, self-determination, and locus of control among persons with developmental disabilities](../sources/fxa301-week11-fine-arts-participation-self-determination-and-locus-of.md)
 - [The Laughter Prescription: A Tool for Lifestyle Medicine](../sources/fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine.md)

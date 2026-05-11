@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Expressive Arts Therapy"
 confidence: medium
-tags: ["expressive-arts-therapy"]
+domain: intervention
+slug: expressive-arts-therapy
 sources:
   - fxa100-week09-transcript-youtube-lq0ko6-w4uc
   - fxa303-trauma-and-expressive-arts-ch04-1-slowly-exhale-through-your-mouth
-updated: 2026-05-04
+- fxa100-week09-transcript-youtube-lq0ko6-w4uc
+- fxa303-trauma-and-expressive-arts-ch04-1-slowly-exhale-through-your-mouth
+tags:
+- expressive-arts-therapy
+title: Expressive Arts Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Expressive Arts Therapy

@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Arts in Community Wellbeing"
 confidence: medium
-tags: ["health-and-wellbeing"]
+domain: intervention
+slug: creative-arts-in-community-wellbeing
 sources:
   - fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts-(2)
   - fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1
-updated: 2026-05-04
+- fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts-(2)
+- fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1
+tags:
+- health-and-wellbeing
+title: Creative Arts in Community Wellbeing
+type: topic
+updated: 2026-05-11
 ---
 
 ## Creative Arts in Community Wellbeing

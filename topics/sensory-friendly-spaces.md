@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sensory-Friendly Spaces"
 confidence: low
-tags: ["sensory-friendly-spaces"]
+domain: intervention
+slug: sensory-friendly-spaces
 sources:
-  - fxa301-week05-museums-and-health-emerging-spatial-practices
+- fxa301-week05-museums-and-health-emerging-spatial-practices
+tags:
+- sensory-friendly-spaces
+title: Sensory-Friendly Spaces
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Personal Growth Through Art"
 confidence: low
-tags: ["personal-growth-through-art"]
+domain: intervention
+slug: personal-growth-through-art
 sources:
-  - fxa100-week04-guidelines-for-arts-and-mental-health-projects
+- fxa100-week04-guidelines-for-arts-and-mental-health-projects
+tags:
+- personal-growth-through-art
+title: Personal Growth Through Art
+type: topic
 updated: 2026-05-04
 ---
 

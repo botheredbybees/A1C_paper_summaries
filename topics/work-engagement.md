@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Work Engagement Through Workplace Choirs"
 confidence: low
-tags: ["work-engagement"]
+domain: intervention
+slug: work-engagement-through-workplace-choirs
 sources:
-  - fxa301-week06-sing-while-you-work-the-well-being-benefits-of-workplace
+- fxa301-week06-sing-while-you-work-the-well-being-benefits-of-workplace
+tags:
+- work-engagement
+title: Work Engagement Through Workplace Choirs
+type: topic
 updated: 2026-05-04
 ---
 

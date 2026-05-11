@@ -11,7 +11,7 @@ tags: ["dementia-communication", "neuroaesthetics", "creative-expression", "brai
 key_concepts: ["distributed neural networks", "transmodal creativity", "reward system activation"]
 methods: ["case study"]
 slug: fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the
-related: ["brain-plasticity", "creative-expression", "neuroaesthetics"]
+related: ["brain-plasticity", "creative-expression", "dementia-communication", "neuroaesthetics", "visual-art"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,4 +46,6 @@ The document 'When Words Fade, the Canvas Speaks: Revelations from the Science o
 
 - [brain-plasticity](../topics/brain-plasticity.md)
 - [creative-expression](../topics/creative-expression.md)
+- [dementia-communication](../topics/dementia-communication.md)
 - [neuroaesthetics](../topics/neuroaesthetics.md)
+- [visual-art](../topics/visual-art.md)

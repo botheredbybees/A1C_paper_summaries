@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Stigma Reduction Through Language"
 confidence: medium
-tags: ["stigma-reduction"]
+domain: intervention
+slug: stigma-reduction-through-language
 sources:
   - fxa100-week04-a-guide-to-dementia-friendly-language
   - fxa100-week04-dementia-language-guidelines
   - fxa303-week09-recovery-oriented-language-guide
-updated: 2026-05-04
+- fxa100-week04-a-guide-to-dementia-friendly-language
+- fxa100-week04-dementia-language-guidelines
+- fxa303-week09-recovery-oriented-language-guide
+tags:
+- stigma-reduction
+title: Stigma Reduction Through Language
+type: topic
+updated: 2026-05-11
 ---
 
 ## Stigma Reduction Through Language

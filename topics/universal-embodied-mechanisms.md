@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Universal Embodied Mechanisms"
 confidence: low
-tags: ["universal-embodied-mechanisms"]
+domain: theory
+slug: universal-embodied-mechanisms
 sources:
-  - fxa100-week06-motion-emotion-and-empathy-in-aesthetic-experience
+- fxa100-week06-motion-emotion-and-empathy-in-aesthetic-experience
+tags:
+- universal-embodied-mechanisms
+title: Universal Embodied Mechanisms
+type: topic
 updated: 2026-05-04
 ---
 

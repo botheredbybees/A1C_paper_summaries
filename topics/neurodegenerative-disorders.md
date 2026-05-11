@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Neurodegenerative Disorders"
 confidence: medium
-tags: ["neurodegenerative-disorders"]
+domain: intervention
+slug: neurodegenerative-disorders
 sources:
   - fxa100-week01-the-science-of-lewy-body-dementia-video-transcript
   - fxa100-week01-what-is-alzheimers-disease-video-transcript
   - fxa100-week01-what-is-frontotemporal-dementia
-updated: 2026-05-03
+- fxa100-week01-the-science-of-lewy-body-dementia-video-transcript
+- fxa100-week01-what-is-alzheimers-disease-video-transcript
+- fxa100-week01-what-is-frontotemporal-dementia
+tags:
+- neurodegenerative-disorders
+title: Neurodegenerative Disorders
+type: topic
+updated: 2026-05-11
 ---
 
 ## Neurodegenerative Disorders

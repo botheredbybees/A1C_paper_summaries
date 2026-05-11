@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Piaget's Cognitive Theory"
 confidence: low
-tags: ["piagets-cognitive-theory"]
+domain: theory
+slug: piaget-s-cognitive-theory
 sources:
-  - fxa303-week03-developmental-psychology-from-infancy-to-adulthood-(2)
+- fxa303-week03-developmental-psychology-from-infancy-to-adulthood-(2)
+tags:
+- piagets-cognitive-theory
+title: Piaget's Cognitive Theory
+type: topic
 updated: 2026-05-04
 ---
 

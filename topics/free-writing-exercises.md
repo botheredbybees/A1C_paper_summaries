@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Free-Writing Exercises"
 confidence: low
-tags: ["free-writing-exercises"]
+domain: intervention
+slug: free-writing-exercises
 sources:
-  - fxa202-week05-week-5-introduction-to-storytelling
+- fxa202-week05-week-5-introduction-to-storytelling
+tags:
+- free-writing-exercises
+title: Free-Writing Exercises
+type: topic
 updated: 2026-05-04
 ---
 

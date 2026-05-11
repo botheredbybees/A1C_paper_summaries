@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cultural Preservation"
 confidence: medium
-tags: ["cultural-preservation"]
+domain: intervention
+slug: cultural-preservation
 sources:
   - fxa301-make-arts-for-a-better-life-ch22-2-choose-a-master-of-the-genre
   - fxa301-make-arts-for-a-better-life-ch22-2-choose-a-master-of-the-genre-(2)
   - fxa303-week10-role-of-art-centres-for-aboriginal-australians-living-with
-updated: 2026-05-05
+- fxa301-make-arts-for-a-better-life-ch22-2-choose-a-master-of-the-genre
+- fxa301-make-arts-for-a-better-life-ch22-2-choose-a-master-of-the-genre-(2)
+- fxa303-week10-role-of-art-centres-for-aboriginal-australians-living-with
+tags:
+- cultural-preservation
+title: Cultural Preservation
+type: topic
+updated: 2026-05-11
 ---
 
 ## Cultural Preservation

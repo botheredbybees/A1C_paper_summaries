@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Acetylcholine Inhibitors in Alzheimer's Disease"
 confidence: low
-tags: ["acetylcholine-inhibitors"]
+domain: intervention
+slug: acetylcholine-inhibitors-in-alzheimer-s-disease
 sources:
-  - fxa100-week01-what-is-alzheimers-disease-video-transcript
+- fxa100-week01-what-is-alzheimers-disease-video-transcript
+tags:
+- acetylcholine-inhibitors
+title: Acetylcholine Inhibitors in Alzheimer's Disease
+type: topic
 updated: 2026-05-04
 ---
 

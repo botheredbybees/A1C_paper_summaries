@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Person-Centered Practice"
 confidence: medium
-tags: ["person-centered-practice"]
+domain: intervention
+slug: person-centered-practice
 sources:
   - fxa100-excellence-in-dementia-care--ch11-chapter-17
   - fxa100-excellence-in-dementia-care--ch12-chapter-14
-updated: 2026-05-04
+- fxa100-excellence-in-dementia-care--ch11-chapter-17
+- fxa100-excellence-in-dementia-care--ch12-chapter-14
+tags:
+- person-centered-practice
+title: Person-Centered Practice
+type: topic
+updated: 2026-05-11
 ---
 
 ## Person-Centered Practice

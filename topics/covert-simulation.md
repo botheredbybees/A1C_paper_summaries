@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Covert Simulation in Aesthetic Appreciation"
 confidence: low
-tags: ["covert-simulation"]
+domain: intervention
+slug: covert-simulation-in-aesthetic-appreciation
 sources:
-  - fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with
+- fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with
+tags:
+- covert-simulation
+title: Covert Simulation in Aesthetic Appreciation
+type: topic
 updated: 2026-05-04
 ---
 

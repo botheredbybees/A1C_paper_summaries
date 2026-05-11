@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "theory"
-title: "Adolescent Brain Development"
 confidence: medium
-tags: ["adolescent-brain-development"]
+domain: theory
+slug: adolescent-brain-development
 sources:
   - fxa303-week02-lesson-fxa303-week02-page-201-20-20week-202-20overview
   - fxa303-week03-music-instruction-can-make-for-a-smarter-teen
-updated: 2026-05-04
+- fxa303-week02-lesson-fxa303-week02-page-201-20-20week-202-20overview
+- fxa303-week03-music-instruction-can-make-for-a-smarter-teen
+tags:
+- adolescent-brain-development
+title: Adolescent Brain Development
+type: topic
+updated: 2026-05-11
 ---
 
 ## Adolescent Brain Development

@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Community Participation in Environmental and Therapeutic Settings"
 confidence: medium
-tags: ["community-participation"]
+domain: intervention
+slug: community-participation-in-environmental-and-therapeutic-settings
 sources:
-  - fxa100-week04-music-therapy-disability-evidence-summary-2024
-  - fxa303-week09-capertee-valley-hydrology-project-ksca
+- fxa100-week04-music-therapy-disability-evidence-summary-2024
+- fxa303-week09-capertee-valley-hydrology-project-ksca
+tags:
+- community-participation
+title: Community Participation in Environmental and Therapeutic Settings
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Cultural Asset Index"
 confidence: low
-tags: ["cultural-asset-index"]
+domain: method
+slug: cultural-asset-index
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch03-chapter-13
+- fxa301-oxford-textbook-of-creative-arts-ch03-chapter-13
+tags:
+- cultural-asset-index
+title: Cultural Asset Index
+type: topic
 updated: 2026-05-04
 ---
 

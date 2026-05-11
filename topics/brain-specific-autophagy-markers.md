@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Brain-Specific Autophagy Markers"
 confidence: low
-tags: ["brain-specific-autophagy-markers"]
+domain: intervention
+slug: brain-specific-autophagy-markers
 sources:
-  - fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical
+- fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical
+tags:
+- brain-specific-autophagy-markers
+title: Brain-Specific Autophagy Markers
+type: topic
 updated: 2026-05-04
 ---
 

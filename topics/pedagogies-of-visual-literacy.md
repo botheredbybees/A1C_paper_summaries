@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Pedagogies Of Visual Literacy"
 confidence: low
-tags: ["pedagogies-of-visual-literacy"]
+domain: intervention
+slug: pedagogies-of-visual-literacy
 sources:
-  - fxa303-week09-the-afloat-project
+- fxa303-week09-the-afloat-project
+tags:
+- pedagogies-of-visual-literacy
+title: Pedagogies Of Visual Literacy
+type: topic
 updated: 2026-05-04
 ---
 

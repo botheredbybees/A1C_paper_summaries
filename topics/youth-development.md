@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Youth Development Through Arts Activities"
 confidence: high
-tags: ["youth-development"]
+domain: intervention
+slug: youth-development-through-arts-activities
 sources:
   - fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and
   - fxa301-week06-lesson-fxa301-week06-page-2
@@ -12,7 +10,21 @@ sources:
   - fxa303-week03-the-impact-of-art-education-on-human-capital-an-empirical
   - fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot
   - fxa303-week10-arts-education-and-society-the-role-of-the-arts-in
-updated: 2026-05-05
+  - fxa303-week11-creative-pathways-for-juvenile-justice-an-overview-of
+  - fxa303-week11-using-and-abusing-the-arts-with-at-risk-youth
+  - fxa303-week11-web-article-hardy-2019
+- fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and
+- fxa301-week06-lesson-fxa301-week06-page-2
+- fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation
+- fxa301-week06-statistical-analysis-of-educational-outcomes-among-big
+- fxa303-week03-the-impact-of-art-education-on-human-capital-an-empirical
+- fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot
+- fxa303-week10-arts-education-and-society-the-role-of-the-arts-in
+tags:
+- youth-development
+title: Youth Development Through Arts Activities
+type: topic
+updated: 2026-05-11
 ---
 
 ## Youth Development Through Arts Activities
@@ -38,3 +50,6 @@ The integration of arts activities into youth development programs is shown to h
 - [fxa303-week03-the-impact-of-art-education-on-human-capital-an-empirical](../sources/fxa303-week03-the-impact-of-art-education-on-human-capital-an-empirical.md)
 - [fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot](../sources/fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot.md)
 - [fxa303-week10-arts-education-and-society-the-role-of-the-arts-in](../sources/fxa303-week10-arts-education-and-society-the-role-of-the-arts-in.md)
+- [fxa303-week11-creative-pathways-for-juvenile-justice-an-overview-of](../sources/fxa303-week11-creative-pathways-for-juvenile-justice-an-overview-of.md)
+- [fxa303-week11-using-and-abusing-the-arts-with-at-risk-youth](../sources/fxa303-week11-using-and-abusing-the-arts-with-at-risk-youth.md)
+- [fxa303-week11-web-article-hardy-2019](../sources/fxa303-week11-web-article-hardy-2019.md)

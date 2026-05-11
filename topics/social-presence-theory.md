@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Social Presence Theory"
 confidence: low
-tags: ["social-presence-theory"]
+domain: theory
+slug: social-presence-theory
 sources:
-  - fxa100-week10-web-article-brooker-2013
+- fxa100-week10-web-article-brooker-2013
+tags:
+- social-presence-theory
+title: Social Presence Theory
+type: topic
 updated: 2026-05-04
 ---
 

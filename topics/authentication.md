@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Authentication"
 confidence: medium
-tags: ["authentication"]
+domain: method
+slug: authentication
 sources:
   - fxa303-week06-web-article-butler-2009
   - fxa303-week06-web-article-markovits-2020
-updated: 2026-05-05
+- fxa303-week06-web-article-butler-2009
+- fxa303-week06-web-article-markovits-2020
+tags:
+- authentication
+title: Authentication
+type: topic
+updated: 2026-05-11
 ---
 
 ## Authentication

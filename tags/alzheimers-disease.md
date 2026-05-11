@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: alzheimers-disease
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Alzheimers Disease
@@ -15,3 +15,4 @@ updated: 2026-05-06
 - [Preserved painting creativity in an artist with Alzheimer\u2019s disease](../sources/fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers.md)
 - [Dementia in Our Mob and around the World](../sources/fxa100-week07-dementia-in-our-mob-and-around-the-world.md)
 - [ARTZ Museum Program for Alzheimer's](../sources/fxa100-week07-transcript-artz-museum-program-for-alzheimers-url-only.md)
+- [Efficacy of Creative Arts Therapy in Treatment of Alzheimer\u2019s Disease and Dementia: A Systematic Literature Review](../sources/fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of.md)

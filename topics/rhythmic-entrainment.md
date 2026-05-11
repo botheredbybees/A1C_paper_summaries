@@ -1,14 +1,16 @@
 ---
-type: topic
-domain: "intervention"
-title: "Rhythmic Entrainment"
 confidence: high
-tags: ["rhythmic-entrainment"]
+domain: intervention
+slug: rhythmic-entrainment
 sources:
-  - fxa100-week03-introduction-to-week-3-listening-to-music
-  - fxa100-week03-lesson-fxa100-week03-page-1-welcome-to-week-3
-  - fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care
-  - fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care
+- fxa100-week03-introduction-to-week-3-listening-to-music
+- fxa100-week03-lesson-fxa100-week03-page-1-welcome-to-week-3
+- fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care
+- fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care
+tags:
+- rhythmic-entrainment
+title: Rhythmic Entrainment
+type: topic
 updated: 2026-05-04
 ---
 

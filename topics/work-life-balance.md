@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Work-Life Balance"
 confidence: low
-tags: ["work-life-balance"]
+domain: intervention
+slug: work-life-balance
 sources:
-  - fxa303-play-for-health-across-the-lifespan-ch06-chapter-7
+- fxa303-play-for-health-across-the-lifespan-ch06-chapter-7
+tags:
+- work-life-balance
+title: Work-Life Balance
+type: topic
 updated: 2026-05-04
 ---
 

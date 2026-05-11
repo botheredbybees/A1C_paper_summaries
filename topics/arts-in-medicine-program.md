@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts In Medicine Programs"
 confidence: low
-tags: ["arts-in-medicine-program"]
+domain: intervention
+slug: arts-in-medicine-programs
 sources:
-  - fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our
+- fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our
+tags:
+- arts-in-medicine-program
+title: Arts In Medicine Programs
+type: topic
 updated: 2026-05-04
 ---
 

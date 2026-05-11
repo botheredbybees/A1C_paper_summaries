@@ -1,13 +1,18 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cultural Heritage and Community Well-Being"
 confidence: medium
-tags: ["cultural-heritage"]
+domain: intervention
+slug: cultural-heritage-and-community-well-being
 sources:
   - fxa301-week05-cork-as-canvas-exploring-intersections-of-citizenship-and
   - fxa301-week05-the-health-and-well-being-potential-of-museums-and-art
-updated: 2026-05-04
+  - fxa301-week11-barrier-free-accessibility-at-the-kunsthistorisches-museum
+- fxa301-week05-cork-as-canvas-exploring-intersections-of-citizenship-and
+- fxa301-week05-the-health-and-well-being-potential-of-museums-and-art
+tags:
+- cultural-heritage
+title: Cultural Heritage and Community Well-Being
+type: topic
+updated: 2026-05-11
 ---
 
 ## Cultural Heritage and Community Well-Being
@@ -28,3 +33,4 @@ The exploration of cultural heritage through art and community engagement highli
 
 - [fxa301-week05-cork-as-canvas-exploring-intersections-of-citizenship-and](../sources/fxa301-week05-cork-as-canvas-exploring-intersections-of-citizenship-and.md)
 - [fxa301-week05-the-health-and-well-being-potential-of-museums-and-art](../sources/fxa301-week05-the-health-and-well-being-potential-of-museums-and-art.md)
+- [fxa301-week11-barrier-free-accessibility-at-the-kunsthistorisches-museum](../sources/fxa301-week11-barrier-free-accessibility-at-the-kunsthistorisches-museum.md)

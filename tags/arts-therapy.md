@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-therapy
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Arts Therapy
@@ -18,3 +18,5 @@ updated: 2026-05-06
 - [Week 3 Activities](../sources/fxa303-week02-lesson-fxa303-week02-topic-20-20activities-202-copy.md)
 - [Arts Therapies and the Mental Health of Children and Young People](../sources/fxa303-week06-arts-therapies-and-the-mental-health-of-children-and-young.md)
 - [Importance of Cultural Context in Designing Arts Programs for Mental Health](../sources/fxa303-week10-importance-of-cultural-context-in-designing-arts-programs.md)
+- [Mapping Q | The University of Arizona Museum of Art](../sources/fxa303-week11-mapping-q-the-university-of-arizona-museum-of-art.md)
+- [Promoting Mental Well-Being and Social Inclusion Through Art: Evaluation of an Arts and Mental Health Project](../sources/fxa303-week11-promoting-mental-well-being-and-social-inclusion-through.md)

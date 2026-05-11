@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Melatonin Production"
 confidence: low
-tags: ["melatonin-production"]
+domain: intervention
+slug: melatonin-production
 sources:
-  - fxa100-week10-sundown-syndrome-in-persons-with-dementia-an-update
+- fxa100-week10-sundown-syndrome-in-persons-with-dementia-an-update
+tags:
+- melatonin-production
+title: Melatonin Production
+type: topic
 updated: 2026-05-04
 ---
 

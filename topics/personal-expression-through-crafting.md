@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Personal Expression Through Crafting"
 confidence: low
-tags: ["personal-expression-through-crafting"]
+domain: intervention
+slug: personal-expression-through-crafting
 sources:
-  - fxa100-creativity-and-communication-ch01-10-playing-with-mud-ceramics-and-clay-claire-craig-clay-is
+- fxa100-creativity-and-communication-ch01-10-playing-with-mud-ceramics-and-clay-claire-craig-clay-is
+tags:
+- personal-expression-through-crafting
+title: Personal Expression Through Crafting
+type: topic
 updated: 2026-05-04
 ---
 

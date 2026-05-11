@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Closing Shot in Visual Storytelling"
 confidence: low
-tags: ["closing-shot"]
+domain: method
+slug: closing-shot-in-visual-storytelling
 sources:
-  - fxa202-week05-lesson-fxa202-week05-chapter-2-beginnings-and-endings
+- fxa202-week05-lesson-fxa202-week05-chapter-2-beginnings-and-endings
+tags:
+- closing-shot
+title: Closing Shot in Visual Storytelling
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music Therapy in Dementia Care"
 confidence: medium
-tags: ["music-and-dementia"]
+domain: intervention
+slug: music-therapy-in-dementia-care
 sources:
   - fxa100-week02-lesson-fxa100-week02-page-1-welcome-to-week2
   - fxa100-week03-transcript-power-of-music-dementia-beatie-wolfe-the-utley
   - fxa100-week09-people-with-dementia-as-spect-actors-in-a-musical-theatre
-updated: 2026-05-04
+- fxa100-week02-lesson-fxa100-week02-page-1-welcome-to-week2
+- fxa100-week03-transcript-power-of-music-dementia-beatie-wolfe-the-utley
+- fxa100-week09-people-with-dementia-as-spect-actors-in-a-musical-theatre
+tags:
+- music-and-dementia
+title: Music Therapy in Dementia Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Music Therapy in Dementia Care

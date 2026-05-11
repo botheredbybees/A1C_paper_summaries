@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-benefits
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Therapeutic Benefits
@@ -15,4 +15,6 @@ updated: 2026-05-06
 - [How a dragon sculpture fueled hope and community for our patients](../sources/fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our.md)
 - [A systematic review of mental health and wellbeing outcomes of group singing for adults with a mental health condition](../sources/fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes.md)
 - [Further evidence that singing fosters mental health and wellbeing: the West Kent and Medway project](../sources/fxa301-week06-further-evidence-that-singing-fosters-mental-health-and.md)
+- [Arts and Refugees: Multidisciplinary Perspectives (Vol. 2)](../sources/fxa301-week11-arts-and-refugees-multidisciplinary-perspectives-vol-2.md)
 - [More than just clowns \u2013 Clown Doctor rounds and their impact for children, families and staff](../sources/fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact.md)
+- [Me and us: Cultivating presence and mental health through choir singing](../sources/fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through.md)

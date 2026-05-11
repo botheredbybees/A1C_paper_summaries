@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sense Of Control"
 confidence: medium
-tags: ["sense-of-control"]
+domain: intervention
+slug: sense-of-control
 sources:
-  - fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact
-  - fxa303-week09-transcript-duration-1-50
+- fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact
+- fxa303-week09-transcript-duration-1-50
+tags:
+- sense-of-control
+title: Sense Of Control
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Autophagy-Mediated Pathways"
 confidence: low
-tags: ["autophagy-mediated-pathways"]
+domain: intervention
+slug: autophagy-mediated-pathways
 sources:
-  - fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical
+- fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical
+tags:
+- autophagy-mediated-pathways
+title: Autophagy-Mediated Pathways
+type: topic
 updated: 2026-05-04
 ---
 

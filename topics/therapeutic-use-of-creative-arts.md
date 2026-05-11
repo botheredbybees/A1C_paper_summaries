@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Use Of Creative Arts"
 confidence: low
-tags: ["therapeutic-use-of-creative-arts"]
+domain: intervention
+slug: therapeutic-use-of-creative-arts
 sources:
-  - fxa301-week10-lesson-fxa301-week10-page-1
+- fxa301-week10-lesson-fxa301-week10-page-1
+tags:
+- therapeutic-use-of-creative-arts
+title: Therapeutic Use Of Creative Arts
+type: topic
 updated: 2026-05-04
 ---
 

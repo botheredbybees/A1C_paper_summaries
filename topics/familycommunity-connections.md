@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Family and Community Connections in Indigenous Health"
 confidence: low
-tags: ["familycommunity-connections"]
+domain: population
+slug: family-and-community-connections-in-indigenous-health
 sources:
-  - fxa303-week10-cultural-determinants-of-health-for-aboriginal-and-torres
+- fxa303-week10-cultural-determinants-of-health-for-aboriginal-and-torres
+tags:
+- familycommunity-connections
+title: Family and Community Connections in Indigenous Health
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Critical Awareness in Young Black Men"
 confidence: low
-tags: ["critical-awareness"]
+domain: intervention
+slug: critical-awareness-in-young-black-men
 sources:
-  - fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using
+- fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using
+tags:
+- critical-awareness
+title: Critical Awareness in Young Black Men
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Neuroendocrinological Effects of Pubertal Hormones"
 confidence: low
-tags: ["neuroendocrinology"]
+domain: theory
+slug: neuroendocrinological-effects-of-pubertal-hormones
 sources:
-  - fxa303-week03-pubertal-hormones-organize-the-adolescent-brain-and-behavior
+- fxa303-week03-pubertal-hormones-organize-the-adolescent-brain-and-behavior
+tags:
+- neuroendocrinology
+title: Neuroendocrinological Effects of Pubertal Hormones
+type: topic
 updated: 2026-05-04
 ---
 

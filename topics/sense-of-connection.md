@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sense Of Connection"
 confidence: low
-tags: ["sense-of-connection"]
+domain: intervention
+slug: sense-of-connection
 sources:
-  - fxa100-week07-connecting-with-and-through-art-arts-engagement-for
+- fxa100-week07-connecting-with-and-through-art-arts-engagement-for
+tags:
+- sense-of-connection
+title: Sense Of Connection
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Vitality"
 confidence: low
-tags: ["emotional-vitality"]
+domain: intervention
+slug: emotional-vitality
 sources:
-  - fxa100-week09-transcript-youtube-lq0ko6-w4uc
+- fxa100-week09-transcript-youtube-lq0ko6-w4uc
+tags:
+- emotional-vitality
+title: Emotional Vitality
+type: topic
 updated: 2026-05-04
 ---
 

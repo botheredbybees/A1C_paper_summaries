@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Mindfulness And Coping Mechanisms"
 confidence: low
-tags: ["mindfulness-and-coping-mechanisms"]
+domain: intervention
+slug: mindfulness-and-coping-mechanisms
 sources:
-  - fxa202-week10-critical-reflection-my-photo-essay
+- fxa202-week10-critical-reflection-my-photo-essay
+tags:
+- mindfulness-and-coping-mechanisms
+title: Mindfulness And Coping Mechanisms
+type: topic
 updated: 2026-05-04
 ---
 

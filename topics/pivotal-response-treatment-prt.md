@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Pivotal Response Treatment"
 confidence: low
-tags: ["pivotal-response-treatment-prt"]
+domain: intervention
+slug: pivotal-response-treatment
 sources:
-  - fxa303-week04-transcript-duration-5-04
+- fxa303-week04-transcript-duration-5-04
+tags:
+- pivotal-response-treatment-prt
+title: Pivotal Response Treatment
+type: topic
 updated: 2026-05-04
 ---
 

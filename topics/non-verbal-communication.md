@@ -1,16 +1,25 @@
 ---
-type: topic
-domain: "intervention"
-title: "Non-Verbal Communication in Music Therapy"
 confidence: high
-tags: ["non-verbal-communication"]
+domain: intervention
+slug: non-verbal-communication-in-music-therapy
 sources:
   - fxa100-week04-lesson-fxa100-week04-page-2-music-therapy-benefits
   - fxa100-week04-music-therapy-benefits-fxa100-the-arts-and-dementia-care
   - fxa100-week10-week-10-lecture-theatre-and-play-in-dementia-care
+  - fxa100-week11-lesson-fxa100-week11-page-2-dance-movement-therapy-and
+  - fxa100-week11-transcript-youtube-tyf9-zkdrc8
   - fxa303-week04-transcript-duration-34-19
   - fxa303-week06-developing-excellence-in-puppet-manipulation
-updated: 2026-05-05
+- fxa100-week04-lesson-fxa100-week04-page-2-music-therapy-benefits
+- fxa100-week04-music-therapy-benefits-fxa100-the-arts-and-dementia-care
+- fxa100-week10-week-10-lecture-theatre-and-play-in-dementia-care
+- fxa303-week04-transcript-duration-34-19
+- fxa303-week06-developing-excellence-in-puppet-manipulation
+tags:
+- non-verbal-communication
+title: Non-Verbal Communication in Music Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Non-Verbal Communication in Music Therapy
@@ -32,5 +41,7 @@ Music therapy emerges as a potent non-verbal communication tool for individuals 
 - [fxa100-week04-lesson-fxa100-week04-page-2-music-therapy-benefits](../sources/fxa100-week04-lesson-fxa100-week04-page-2-music-therapy-benefits.md)
 - [fxa100-week04-music-therapy-benefits-fxa100-the-arts-and-dementia-care](../sources/fxa100-week04-music-therapy-benefits-fxa100-the-arts-and-dementia-care.md)
 - [fxa100-week10-week-10-lecture-theatre-and-play-in-dementia-care](../sources/fxa100-week10-week-10-lecture-theatre-and-play-in-dementia-care.md)
+- [fxa100-week11-lesson-fxa100-week11-page-2-dance-movement-therapy-and](../sources/fxa100-week11-lesson-fxa100-week11-page-2-dance-movement-therapy-and.md)
+- [fxa100-week11-transcript-youtube-tyf9-zkdrc8](../sources/fxa100-week11-transcript-youtube-tyf9-zkdrc8.md)
 - [fxa303-week04-transcript-duration-34-19](../sources/fxa303-week04-transcript-duration-34-19.md)
 - [fxa303-week06-developing-excellence-in-puppet-manipulation](../sources/fxa303-week06-developing-excellence-in-puppet-manipulation.md)

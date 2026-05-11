@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Solution-Focused Brief Therapy"
 confidence: low
-tags: ["solution-focused-brief-therapy"]
+domain: intervention
+slug: solution-focused-brief-therapy
 sources:
-  - fxa303-week06-puppet-play-therapy-a-practical-guidebook
+- fxa303-week06-puppet-play-therapy-a-practical-guidebook
+tags:
+- solution-focused-brief-therapy
+title: Solution-Focused Brief Therapy
+type: topic
 updated: 2026-05-04
 ---
 

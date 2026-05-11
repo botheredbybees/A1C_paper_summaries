@@ -11,7 +11,7 @@ tags: ["inclusive-arts", "health-outcomes", "disability-studies", "creative-expr
 key_concepts: ["inclusive arts", "social model of disability", "therapeutic focus"]
 methods: ["case study"]
 slug: fxa301-week09-week-9-lecture-dr-brendan-lamb
-related: ["creative-expression", "health-outcomes", "inclusive-arts", "social-model-of-disability", "wellbeing-initiatives"]
+related: ["creative-expression", "disability-studies", "health-outcomes", "inclusive-arts", "social-model-of-disability", "wellbeing-initiatives"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,6 +45,7 @@ The Week 9 lecture of FXA301 focuses on inclusive arts and their role in health 
 ## See Also
 
 - [creative-expression](../topics/creative-expression.md)
+- [disability-studies](../topics/disability-studies.md)
 - [health-outcomes](../topics/health-outcomes.md)
 - [inclusive-arts](../topics/inclusive-arts.md)
 - [social-model-of-disability](../topics/social-model-of-disability.md)

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Tactile Experience in Creative Expression"
 confidence: low
-tags: ["tactile-experience"]
+domain: intervention
+slug: tactile-experience-in-creative-expression
 sources:
-  - fxa100-creativity-and-communication-ch01-10-playing-with-mud-ceramics-and-clay-claire-craig-clay-is
+- fxa100-creativity-and-communication-ch01-10-playing-with-mud-ceramics-and-clay-claire-craig-clay-is
+tags:
+- tactile-experience
+title: Tactile Experience in Creative Expression
+type: topic
 updated: 2026-05-04
 ---
 

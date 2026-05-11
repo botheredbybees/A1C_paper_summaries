@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Recreational Participation in the Arts"
 confidence: low
-tags: ["recreational-participation-in-the-arts"]
+domain: intervention
+slug: recreational-participation-in-the-arts
 sources:
-  - fxa301-week09-research-overview-arts-and-disability-in-australia
+- fxa301-week09-research-overview-arts-and-disability-in-australia
+tags:
+- recreational-participation-in-the-arts
+title: Recreational Participation in the Arts
+type: topic
 updated: 2026-05-04
 ---
 

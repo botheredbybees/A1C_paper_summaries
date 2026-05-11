@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Neural Predictive Functions"
 confidence: low
-tags: ["neural-predictive-functions"]
+domain: theory
+slug: neural-predictive-functions
 sources:
-  - fxa100-week02-fxa100-week-2-lecture-music-and-the-brain
+- fxa100-week02-fxa100-week-2-lecture-music-and-the-brain
+tags:
+- neural-predictive-functions
+title: Neural Predictive Functions
+type: topic
 updated: 2026-05-04
 ---
 

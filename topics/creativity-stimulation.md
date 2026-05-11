@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creativity Stimulation"
 confidence: medium
-tags: ["creativity-stimulation"]
+domain: intervention
+slug: creativity-stimulation
 sources:
-  - fxa100-week07-fxa100-week-7-lecture
-  - fxa202-week05-images-as-writing-prompts
+- fxa100-week07-fxa100-week-7-lecture
+- fxa202-week05-images-as-writing-prompts
+tags:
+- creativity-stimulation
+title: Creativity Stimulation
+type: topic
 updated: 2026-05-04
 ---
 

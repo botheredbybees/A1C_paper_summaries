@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Transformational Leadership"
 confidence: low
-tags: ["transformational-leadership"]
+domain: intervention
+slug: transformational-leadership
 sources:
-  - fxa303-creativity-wellbeing-and-mental-health-ch05-8-creative-approaches-to-learning-and-leadership-tony-gillam
+- fxa303-creativity-wellbeing-and-mental-health-ch05-8-creative-approaches-to-learning-and-leadership-tony-gillam
+tags:
+- transformational-leadership
+title: Transformational Leadership
+type: topic
 updated: 2026-05-04
 ---
 

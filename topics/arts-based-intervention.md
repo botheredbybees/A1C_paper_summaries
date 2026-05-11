@@ -1,13 +1,18 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts-Based Intervention"
 confidence: medium
-tags: ["arts-based-intervention"]
+domain: intervention
+slug: arts-based-intervention
 sources:
   - fxa100-creativity-and-communication-ch12-22-measuring-success-evaluation-is-an-ongoing-process-that
   - fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon
-updated: 2026-05-05
+  - fxa303-week11-preliminary-findings-from-mapping-q-an-arts-based-suicide
+- fxa100-creativity-and-communication-ch12-22-measuring-success-evaluation-is-an-ongoing-process-that
+- fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon
+tags:
+- arts-based-intervention
+title: Arts-Based Intervention
+type: topic
+updated: 2026-05-11
 ---
 
 ## Arts-Based Intervention
@@ -28,3 +33,4 @@ The integration of arts-based interventions as a therapeutic tool highlights the
 
 - [fxa100-creativity-and-communication-ch12-22-measuring-success-evaluation-is-an-ongoing-process-that](../sources/fxa100-creativity-and-communication-ch12-22-measuring-success-evaluation-is-an-ongoing-process-that.md)
 - [fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon](../sources/fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon.md)
+- [fxa303-week11-preliminary-findings-from-mapping-q-an-arts-based-suicide](../sources/fxa303-week11-preliminary-findings-from-mapping-q-an-arts-based-suicide.md)

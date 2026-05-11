@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Foundational Competencies In Arts In Health"
 confidence: low
-tags: ["foundational-competencies"]
+domain: intervention
+slug: foundational-competencies-in-arts-in-health
 sources:
-  - fxa301-week03-advancing-practice-in-arts-in-health-artist-workforce
+- fxa301-week03-advancing-practice-in-arts-in-health-artist-workforce
+tags:
+- foundational-competencies
+title: Foundational Competencies In Arts In Health
+type: topic
 updated: 2026-05-04
 ---
 

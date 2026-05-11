@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Longitudinal Studies"
 confidence: low
-tags: ["longitudinal-studies"]
+domain: method
+slug: longitudinal-studies
 sources:
-  - fxa303-week02-fxa303-week-2-child-development-and-creative-arts
+- fxa303-week02-fxa303-week-2-child-development-and-creative-arts
+tags:
+- longitudinal-studies
+title: Longitudinal Studies
+type: topic
 updated: 2026-05-04
 ---
 

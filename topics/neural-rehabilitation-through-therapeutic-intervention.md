@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Neural Rehabilitation Through Therapeutic Intervention"
 confidence: low
-tags: ["neural-rehabilitation-through-therapeutic-intervention"]
+domain: intervention
+slug: neural-rehabilitation-through-therapeutic-intervention
 sources:
-  - fxa301-week10-using-creative-arts-in-trauma-therapy-the-neuroscience-of
+- fxa301-week10-using-creative-arts-in-trauma-therapy-the-neuroscience-of
+tags:
+- neural-rehabilitation-through-therapeutic-intervention
+title: Neural Rehabilitation Through Therapeutic Intervention
+type: topic
 updated: 2026-05-04
 ---
 

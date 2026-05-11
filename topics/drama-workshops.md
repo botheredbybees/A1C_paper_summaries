@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Drama Workshops"
 confidence: low
-tags: ["drama-workshops"]
+domain: intervention
+slug: drama-workshops
 sources:
-  - fxa301-week08-week-8-lecture-applying-theatre-and-literature-for-health
+- fxa301-week08-week-8-lecture-applying-theatre-and-literature-for-health
+tags:
+- drama-workshops
+title: Drama Workshops
+type: topic
 updated: 2026-05-04
 ---
 

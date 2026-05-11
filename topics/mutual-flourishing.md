@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Mutual Flourishing in Music Therapy"
 confidence: low
-tags: ["mutual-flourishing"]
+domain: intervention
+slug: mutual-flourishing-in-music-therapy
 sources:
-  - fxa100-week04-the-ripple-effect-towards-researching-improvisational-music
+- fxa100-week04-the-ripple-effect-towards-researching-improvisational-music
+tags:
+- mutual-flourishing
+title: Mutual Flourishing in Music Therapy
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Community Arts Profile"
 confidence: low
-tags: ["community-arts-profile"]
+domain: intervention
+slug: community-arts-profile
 sources:
-  - fxa301-make-arts-for-a-better-life-ch16-1-create-an-inventory-of-the-content-elements
+- fxa301-make-arts-for-a-better-life-ch16-1-create-an-inventory-of-the-content-elements
+tags:
+- community-arts-profile
+title: Community Arts Profile
+type: topic
 updated: 2026-05-04
 ---
 

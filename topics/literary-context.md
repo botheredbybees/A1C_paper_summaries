@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Commedia Dell'Arte"
 confidence: low
-tags: ["literary-context"]
+domain: theory
+slug: commedia-dell-arte
 sources:
-  - fxa303-week08-commedia-dellarte-characters-scenarios-and-rhetoric
+- fxa303-week08-commedia-dellarte-characters-scenarios-and-rhetoric
+tags:
+- literary-context
+title: Commedia Dell'Arte
+type: topic
 updated: 2026-05-04
 ---
 

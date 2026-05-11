@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Integrating Art and Play in Healthcare Settings"
 confidence: medium
-tags: ["healthcare-settings"]
+domain: intervention
+slug: integrating-art-and-play-in-healthcare-settings
 sources:
   - fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-(2)
   - fxa301-arts-in-health-ch44-1-the-artist
   - fxa303-week08-therapeutic-clowning
-updated: 2026-05-05
+- fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-(2)
+- fxa301-arts-in-health-ch44-1-the-artist
+- fxa303-week08-therapeutic-clowning
+tags:
+- healthcare-settings
+title: Integrating Art and Play in Healthcare Settings
+type: topic
+updated: 2026-05-11
 ---
 
 ## Integrating Art and Play in Healthcare Settings

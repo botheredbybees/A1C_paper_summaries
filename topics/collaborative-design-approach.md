@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Collaborative Design Approach"
 confidence: low
-tags: ["collaborative-design-approach"]
+domain: method
+slug: collaborative-design-approach
 sources:
-  - fxa301-arts-in-health-ch43-1-collaborative-design-(2)
+- fxa301-arts-in-health-ch43-1-collaborative-design-(2)
+tags:
+- collaborative-design-approach
+title: Collaborative Design Approach
+type: topic
 updated: 2026-05-04
 ---
 

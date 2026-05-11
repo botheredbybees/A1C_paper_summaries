@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Self-Perception in Choir Singing"
 confidence: low
-tags: ["self-perception"]
+domain: intervention
+slug: self-perception-in-choir-singing
 sources:
-  - fxa301-week10-to-be-heard-the-social-and-mental-health-benefits-of-choir
+- fxa301-week10-to-be-heard-the-social-and-mental-health-benefits-of-choir
+tags:
+- self-perception
+title: Self-Perception in Choir Singing
+type: topic
 updated: 2026-05-04
 ---
 

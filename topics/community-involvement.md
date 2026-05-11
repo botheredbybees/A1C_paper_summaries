@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Community Involvement in Dementia Care"
 confidence: medium
-tags: ["community-involvement"]
+domain: intervention
+slug: community-involvement-in-dementia-care
 sources:
-  - fxa100-excellence-in-dementia-care--ch35-1-understand-that-any-business
-  - fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2
+- fxa100-excellence-in-dementia-care--ch35-1-understand-that-any-business
+- fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2
+tags:
+- community-involvement
+title: Community Involvement in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

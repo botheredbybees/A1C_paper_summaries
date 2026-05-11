@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-health-interventions
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Mental Health Interventions
@@ -11,6 +11,7 @@ updated: 2026-05-06
 - [Viewing and making art together: a multi-session art-gallery-based intervention for people with dementia and their carers](../sources/fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery.md)
 - [Drama therapy with older people with dementia\u2014Does it improve quality of life?](../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2).md)
 - [Week 9 Lecture: Dramatherapy, Dance Therapy, and Applied Theatre in Dementia Care](../sources/fxa100-week09-week-9-lecture-dramatherapy-dance-therapy-and-applied.md)
+- [Rehabilitation effects of game therapy in people living with dementia: A systematic review and meta-analysis](../sources/fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living.md)
 - [Can Photography Help Depression?](../sources/fxa202-week03-can-photography-help-depression.md)
 - [What is Therapeutic Photography?](../sources/fxa202-week03-what-is-therapeutic-photography.md)
 - [Photography as Self-Therapy: An Introduction for Beginners](../sources/fxa202-week08-photography-as-self-therapy-an-introduction-for-beginners.md)
@@ -30,3 +31,4 @@ updated: 2026-05-06
 - [Therapeutic Clowning](../sources/fxa303-week08-therapeutic-clowning.md)
 - [Therapeutic clowns in pediatrics: a systematic review and meta-analysis of randomized controlled trials](../sources/fxa303-week08-therapeutic-clowns-in-pediatrics-a-systematic-review-and.md)
 - [Indigenous and Traditional Visual Artistic Practices: Implications for Art Therapy Clinical Practice and Research](../sources/fxa303-week10-indigenous-and-traditional-visual-artistic-practices.md)
+- [Creative arts therapies for the mental health of emerging adults: A systematic review](../sources/fxa303-week11-creative-arts-therapies-for-the-mental-health-of-emerging.md)

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Bayesian Inference"
 confidence: low
-tags: ["bayesian-inference"]
+domain: theory
+slug: bayesian-inference
 sources:
-  - fxa303-week02-scientific-thinking-in-young-children-theoretical-advances
+- fxa303-week02-scientific-thinking-in-young-children-theoretical-advances
+tags:
+- bayesian-inference
+title: Bayesian Inference
+type: topic
 updated: 2026-05-04
 ---
 

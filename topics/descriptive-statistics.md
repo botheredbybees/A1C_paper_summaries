@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Descriptive Statistics"
 confidence: low
-tags: ["descriptive-statistics"]
+domain: method
+slug: descriptive-statistics
 sources:
-  - fxa301-arts-in-health-ch29-4-invite-open-responses-(2)
+- fxa301-arts-in-health-ch29-4-invite-open-responses-(2)
+tags:
+- descriptive-statistics
+title: Descriptive Statistics
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Design Thinking"
 confidence: low
-tags: ["design-thinking"]
+domain: method
+slug: design-thinking
 sources:
-  - fxa301-arts-in-health-ch29-4-invite-open-responses
+- fxa301-arts-in-health-ch29-4-invite-open-responses
+tags:
+- design-thinking
+title: Design Thinking
+type: topic
 updated: 2026-05-04
 ---
 

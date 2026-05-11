@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Empathy in Therapy"
 confidence: low
-tags: ["empathy-in-therapy"]
+domain: intervention
+slug: empathy-in-therapy
 sources:
-  - fxa303-week04-play-interventions-for-neurodivergent-children-and
+- fxa303-week04-play-interventions-for-neurodivergent-children-and
+tags:
+- empathy-in-therapy
+title: Empathy in Therapy
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotion Regulation Checklist (Erc)"
 confidence: low
-tags: ["emotion-regulation-checklist-erc"]
+domain: intervention
+slug: emotion-regulation-checklist-erc
 sources:
-  - fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)
+- fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)
+tags:
+- emotion-regulation-checklist-erc
+title: Emotion Regulation Checklist (Erc)
+type: topic
 updated: 2026-05-04
 ---
 

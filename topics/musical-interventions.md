@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Musical Interventions"
 confidence: low
-tags: ["musical-interventions"]
+domain: intervention
+slug: musical-interventions
 sources:
-  - fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care
+- fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care
+tags:
+- musical-interventions
+title: Musical Interventions
+type: topic
 updated: 2026-05-04
 ---
 

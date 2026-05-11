@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Object Relations Theory"
 confidence: low
-tags: ["object-relations-theory"]
+domain: theory
+slug: object-relations-theory
 sources:
-  - fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children
+- fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children
+tags:
+- object-relations-theory
+title: Object Relations Theory
+type: topic
 updated: 2026-05-04
 ---
 

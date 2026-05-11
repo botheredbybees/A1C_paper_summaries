@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Field Research in Dementia Care"
 confidence: low
-tags: ["field-research"]
+domain: method
+slug: field-research-in-dementia-care
 sources:
-  - fxa100-week10-transcript-this-trailer-gives-an-overview-of-the-play-and
+- fxa100-week10-transcript-this-trailer-gives-an-overview-of-the-play-and
+tags:
+- field-research
+title: Field Research in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

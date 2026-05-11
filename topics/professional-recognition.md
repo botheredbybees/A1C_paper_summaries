@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Professional Recognition of Clowns in Healthcare"
 confidence: low
-tags: ["professional-recognition"]
+domain: intervention
+slug: professional-recognition-of-clowns-in-healthcare
 sources:
-  - fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults
+- fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults
+tags:
+- professional-recognition
+title: Professional Recognition of Clowns in Healthcare
+type: topic
 updated: 2026-05-04
 ---
 

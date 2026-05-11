@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Successful Aging Through Creative Expression"
 confidence: low
-tags: ["successful-aging"]
+domain: intervention
+slug: successful-aging-through-creative-expression
 sources:
-  - fxa100-week06-the-role-of-the-visual-arts-in-the-resilience-of-people
+- fxa100-week06-the-role-of-the-visual-arts-in-the-resilience-of-people
+tags:
+- successful-aging
+title: Successful Aging Through Creative Expression
+type: topic
 updated: 2026-05-04
 ---
 

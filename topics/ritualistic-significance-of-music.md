@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Ritualistic Significance of Music"
 confidence: low
-tags: ["ritualistic-significance-of-music"]
+domain: theory
+slug: ritualistic-significance-of-music
 sources:
-  - fxa301-week06-recontextualizing-music-for-social-change
+- fxa301-week06-recontextualizing-music-for-social-change
+tags:
+- ritualistic-significance-of-music
+title: Ritualistic Significance of Music
+type: topic
 updated: 2026-05-04
 ---
 

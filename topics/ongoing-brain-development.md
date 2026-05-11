@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Ongoing Brain Development"
 confidence: low
-tags: ["ongoing-brain-development"]
+domain: theory
+slug: ongoing-brain-development
 sources:
-  - fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental
+- fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental
+tags:
+- ongoing-brain-development
+title: Ongoing Brain Development
+type: topic
 updated: 2026-05-04
 ---
 

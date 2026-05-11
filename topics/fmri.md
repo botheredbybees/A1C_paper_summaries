@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "method"
-title: "Functional Magnetic Resonance Imaging (Fmri)"
 confidence: medium
-tags: ["fmri"]
+domain: method
+slug: functional-magnetic-resonance-imaging-fmri
 sources:
-  - fxa100-week02-transcript-in-the-video-hank-green-from-the-scishow-explains
-  - fxa303-week04-what-does-autism-look-like-in-the-brain
+- fxa100-week02-transcript-in-the-video-hank-green-from-the-scishow-explains
+- fxa303-week04-what-does-autism-look-like-in-the-brain
+tags:
+- fmri
+title: Functional Magnetic Resonance Imaging (Fmri)
+type: topic
 updated: 2026-05-04
 ---
 

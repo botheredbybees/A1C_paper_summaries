@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: patient-wellbeing
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Patient Wellbeing

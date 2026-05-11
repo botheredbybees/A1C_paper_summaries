@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Autonomic Nervous System in Trauma Therapy"
 confidence: low
-tags: ["autonomic-nervous-system-ans"]
+domain: intervention
+slug: autonomic-nervous-system-in-trauma-therapy
 sources:
-  - fxa303-trauma-and-expressive-arts-ch04-1-slowly-exhale-through-your-mouth
+- fxa303-trauma-and-expressive-arts-ch04-1-slowly-exhale-through-your-mouth
+tags:
+- autonomic-nervous-system-ans
+title: Autonomic Nervous System in Trauma Therapy
+type: topic
 updated: 2026-05-04
 ---
 

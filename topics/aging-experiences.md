@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Aging Experiences"
 confidence: low
-tags: ["aging-experiences"]
+domain: population
+slug: aging-experiences
 sources:
-  - fxa202-week10-creative-arts-based-research-in-aged-care-photovoice
+- fxa202-week10-creative-arts-based-research-in-aged-care-photovoice
+tags:
+- aging-experiences
+title: Aging Experiences
+type: topic
 updated: 2026-05-04
 ---
 

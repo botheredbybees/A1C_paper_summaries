@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Detailed Observation"
 confidence: low
-tags: ["detailed-observation"]
+domain: method
+slug: detailed-observation
 sources:
-  - fxa202-week09-noticing-a-photo-essay
+- fxa202-week09-noticing-a-photo-essay
+tags:
+- detailed-observation
+title: Detailed Observation
+type: topic
 updated: 2026-05-04
 ---
 

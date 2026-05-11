@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Axline Play Therapy"
 confidence: low
-tags: ["axline-play-therapy"]
+domain: intervention
+slug: axline-play-therapy
 sources:
-  - fxa303-week01-play-therapy-considerations-and-applications-for-the
+- fxa303-week01-play-therapy-considerations-and-applications-for-the
+tags:
+- axline-play-therapy
+title: Axline Play Therapy
+type: topic
 updated: 2026-05-04
 ---
 

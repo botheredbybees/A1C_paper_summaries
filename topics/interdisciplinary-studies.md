@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music and Health Interdisciplinary Studies"
 confidence: medium
-tags: ["interdisciplinary-studies"]
+domain: intervention
+slug: music-and-health-interdisciplinary-studies
 sources:
   - fxa100-week04-what-is-music-health-and-wellbeing
   - fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in
-updated: 2026-05-05
+- fxa100-week04-what-is-music-health-and-wellbeing
+- fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in
+tags:
+- interdisciplinary-studies
+title: Music and Health Interdisciplinary Studies
+type: topic
+updated: 2026-05-11
 ---
 
 ## Music and Health Interdisciplinary Studies

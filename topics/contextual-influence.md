@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Contextual Influence in Neural Processing"
 confidence: low
-tags: ["contextual-influence"]
+domain: method
+slug: contextual-influence-in-neural-processing
 sources:
-  - fxa100-week06-web-article-tucker-2012
+- fxa100-week06-web-article-tucker-2012
+tags:
+- contextual-influence
+title: Contextual Influence in Neural Processing
+type: topic
 updated: 2026-05-04
 ---
 

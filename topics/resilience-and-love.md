@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Resilience And Love"
 confidence: low
-tags: ["resilience-and-love"]
+domain: theory
+slug: resilience-and-love
 sources:
-  - fxa202-week06-apples-never-fall
+- fxa202-week06-apples-never-fall
+tags:
+- resilience-and-love
+title: Resilience And Love
+type: topic
 updated: 2026-05-04
 ---
 

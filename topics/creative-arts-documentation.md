@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Creative Arts Documentation"
 confidence: low
-tags: ["creative-arts-documentation"]
+domain: method
+slug: creative-arts-documentation
 sources:
-  - fxa202-week10-my-daddy-and-me-navigating-the-japanese-gardens-at-the
+- fxa202-week10-my-daddy-and-me-navigating-the-japanese-gardens-at-the
+tags:
+- creative-arts-documentation
+title: Creative Arts Documentation
+type: topic
 updated: 2026-05-04
 ---
 

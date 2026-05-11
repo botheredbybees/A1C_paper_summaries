@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Lifetime Prevalence of Mental Health Disorders"
 confidence: low
-tags: ["lifetime-prevalence"]
+domain: population
+slug: lifetime-prevalence-of-mental-health-disorders
 sources:
-  - fxa303-week09-national-study-of-mental-health-and-wellbeing-2020-2022
+- fxa303-week09-national-study-of-mental-health-and-wellbeing-2020-2022
+tags:
+- lifetime-prevalence
+title: Lifetime Prevalence of Mental Health Disorders
+type: topic
 updated: 2026-05-04
 ---
 

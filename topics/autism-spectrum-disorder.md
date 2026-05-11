@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Intervention Approaches for Autism Spectrum Disorder"
 confidence: high
-tags: ["autism-spectrum-disorder"]
+domain: intervention
+slug: intervention-approaches-for-autism-spectrum-disorder
 sources:
   - fxa202-therapeutic-photography-ch01-chapter-10
   - fxa303-week04-art-interventions-for-children-with-autism-spectrum
@@ -27,7 +25,33 @@ sources:
   - fxa303-week04-transcript-duration-5-04
   - fxa303-week04-what-does-autism-look-like-in-the-brain
   - fxa303-week06-puppets-facilitate-attention-to-social-cues-in-children
-updated: 2026-05-04
+- fxa202-therapeutic-photography-ch01-chapter-10
+- fxa303-week04-art-interventions-for-children-with-autism-spectrum
+- fxa303-week04-autism-spectrum-disorder
+- fxa303-week04-autism-spectrum-disorder-the-impact-of-stressful-and
+- fxa303-week04-brief-report-emotion-regulation-in-autism-is-improved-in-a
+- fxa303-week04-broad-transcriptomic-dysregulation-occurs-across-the
+- fxa303-week04-characteristics-of-brains-in-autism-spectrum-disorder
+- fxa303-week04-child-centered-play-therapy-as-an-intervention-for-children
+- fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism
+- fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism
+- fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism
+- fxa303-week04-evidence-against-the-normalization-prediction-of-the-early
+- fxa303-week04-fxa303-week-4-introduction
+- fxa303-week04-intensive-child-centered-play-therapy-for-children-on-the
+- fxa303-week04-missed-early-intervention-opportunities-for-children-with
+- fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder
+- fxa303-week04-neurodiversity-and-the-autism-spectrum
+- fxa303-week04-play-and-arts-based-therapies
+- fxa303-week04-play-based-interventions-for-mental-health-a-systematic
+- fxa303-week04-transcript-duration-5-04
+- fxa303-week04-what-does-autism-look-like-in-the-brain
+- fxa303-week06-puppets-facilitate-attention-to-social-cues-in-children
+tags:
+- autism-spectrum-disorder
+title: Intervention Approaches for Autism Spectrum Disorder
+type: topic
+updated: 2026-05-11
 ---
 
 ## Intervention Approaches for Autism Spectrum Disorder

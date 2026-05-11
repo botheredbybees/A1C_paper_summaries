@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Spectrum of Play"
 confidence: low
-tags: ["spectrum-of-play"]
+domain: theory
+slug: spectrum-of-play
 sources:
-  - fxa303-week02-accessing-the-inaccessible-redefining-play-as-a-spectrum
+- fxa303-week02-accessing-the-inaccessible-redefining-play-as-a-spectrum
+tags:
+- spectrum-of-play
+title: Spectrum of Play
+type: topic
 updated: 2026-05-04
 ---
 

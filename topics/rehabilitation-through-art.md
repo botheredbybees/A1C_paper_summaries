@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Rehabilitation Through Art"
 confidence: low
-tags: ["rehabilitation-through-art"]
+domain: intervention
+slug: rehabilitation-through-art
 sources:
-  - fxa301-week09-lesson-fxa301-week09-page-3
+- fxa301-week09-lesson-fxa301-week09-page-3
+tags:
+- rehabilitation-through-art
+title: Rehabilitation Through Art
+type: topic
 updated: 2026-05-04
 ---
 

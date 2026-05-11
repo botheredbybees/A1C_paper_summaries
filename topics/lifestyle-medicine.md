@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Laughter Prescription in Lifestyle Medicine"
 confidence: medium
-tags: ["lifestyle-medicine"]
+domain: intervention
+slug: laughter-prescription-in-lifestyle-medicine
 sources:
   - fxa301-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
   - fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
-updated: 2026-05-04
+- fxa301-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
+- fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
+tags:
+- lifestyle-medicine
+title: Laughter Prescription in Lifestyle Medicine
+type: topic
+updated: 2026-05-11
 ---
 
 ## Laughter Prescription in Lifestyle Medicine

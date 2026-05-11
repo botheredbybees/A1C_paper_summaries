@@ -1,13 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Community-Building Through Creative Practices"
 confidence: medium
-tags: ["community-building"]
+domain: intervention
+slug: community-building-through-creative-practices
 sources:
   - fxa100-week04-the-ripple-effect-towards-researching-improvisational-music
   - fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our
-updated: 2026-05-04
+  - fxa301-week11-colouring-it-beautiful-artists-on-the-loose-in-a-refugee
+  - fxa303-week11-mapping-q-the-university-of-arizona-museum-of-art
+- fxa100-week04-the-ripple-effect-towards-researching-improvisational-music
+- fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our
+tags:
+- community-building
+title: Community-Building Through Creative Practices
+type: topic
+updated: 2026-05-11
 ---
 
 ## Community-Building Through Creative Practices
@@ -28,3 +34,5 @@ The integration of creative practices such as music and art into community setti
 
 - [fxa100-week04-the-ripple-effect-towards-researching-improvisational-music](../sources/fxa100-week04-the-ripple-effect-towards-researching-improvisational-music.md)
 - [fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our](../sources/fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our.md)
+- [fxa301-week11-colouring-it-beautiful-artists-on-the-loose-in-a-refugee](../sources/fxa301-week11-colouring-it-beautiful-artists-on-the-loose-in-a-refugee.md)
+- [fxa303-week11-mapping-q-the-university-of-arizona-museum-of-art](../sources/fxa303-week11-mapping-q-the-university-of-arizona-museum-of-art.md)

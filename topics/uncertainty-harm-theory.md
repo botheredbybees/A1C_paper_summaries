@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Uncertainty and Harm Theory"
 confidence: low
-tags: ["uncertainty-harm-theory"]
+domain: theory
+slug: uncertainty-and-harm-theory
 sources:
-  - fxa303-week08-fear-of-clowns-an-investigation-into-the-aetiology-of
+- fxa303-week08-fear-of-clowns-an-investigation-into-the-aetiology-of
+tags:
+- uncertainty-harm-theory
+title: Uncertainty and Harm Theory
+type: topic
 updated: 2026-05-04
 ---
 

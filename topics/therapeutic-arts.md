@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Arts"
 confidence: high
-tags: ["therapeutic-arts"]
+domain: intervention
+slug: therapeutic-arts
 sources:
   - fxa100-week06-art-creativity
   - fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of
@@ -18,7 +16,24 @@ sources:
   - fxa303-week06-emotional-expression-through-puppetry
   - fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping
   - fxa303-week10-arts-and-refugees-multidisciplinary-perspectives-vol-2
-updated: 2026-05-05
+- fxa100-week06-art-creativity
+- fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of
+- fxa100-week09-week-9-lecture-dramatherapy-dance-therapy-and-applied
+- fxa301-week03-developing-a-national-arts-and-health-policy-framework
+- fxa301-week06-week-6-activities-fxa301-arts-in-the-community
+- fxa301-week08-transcript-the-video-below-relates-the-experiences-of
+- fxa301-week08-week-8-lecture-applying-theatre-and-literature-for-health
+- fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple
+- fxa301-week10-lesson-fxa301-week10-page-2
+- fxa303-week03-arts-in-adolescence
+- fxa303-week06-emotional-expression-through-puppetry
+- fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping
+- fxa303-week10-arts-and-refugees-multidisciplinary-perspectives-vol-2
+tags:
+- therapeutic-arts
+title: Therapeutic Arts
+type: topic
+updated: 2026-05-11
 ---
 
 ## Therapeutic Arts

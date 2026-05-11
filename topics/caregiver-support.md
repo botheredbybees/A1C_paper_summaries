@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "intervention"
-title: "Caregiver Support in Dementia Management"
 confidence: high
-tags: ["caregiver-support"]
+domain: intervention
+slug: caregiver-support-in-dementia-management
 sources:
   - fxa100-week03-alzheimers-disease-music-engagement-quality-of-life
   - fxa100-week04-dementia-language-guidelines
   - fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-(2)
   - fxa100-week07-transcript-artz-museum-program-for-alzheimers-url-only
-updated: 2026-05-04
+- fxa100-week03-alzheimers-disease-music-engagement-quality-of-life
+- fxa100-week04-dementia-language-guidelines
+- fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-(2)
+- fxa100-week07-transcript-artz-museum-program-for-alzheimers-url-only
+tags:
+- caregiver-support
+title: Caregiver Support in Dementia Management
+type: topic
+updated: 2026-05-11
 ---
 
 ## Caregiver Support in Dementia Management

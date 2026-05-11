@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music Therapy for Children with Autism"
 confidence: low
-tags: ["educational-music-therapy"]
+domain: intervention
+slug: music-therapy-for-children-with-autism
 sources:
-  - fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder
+- fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder
+tags:
+- educational-music-therapy
+title: Music Therapy for Children with Autism
+type: topic
 updated: 2026-05-04
 ---
 

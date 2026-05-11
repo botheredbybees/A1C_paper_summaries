@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Developing A Plan For Communication"
 confidence: low
-tags: ["communication-plan"]
+domain: method
+slug: developing-a-plan-for-communication
 sources:
-  - fxa202-week08-developing-a-plan-for-communication
+- fxa202-week08-developing-a-plan-for-communication
+tags:
+- communication-plan
+title: Developing A Plan For Communication
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Singing Intervention"
 confidence: low
-tags: ["singing-intervention"]
+domain: intervention
+slug: singing-intervention
 sources:
-  - fxa100-week03-music-therapy-increases-social-and-emotional-well-being-in
+- fxa100-week03-music-therapy-increases-social-and-emotional-well-being-in
+tags:
+- singing-intervention
+title: Singing Intervention
+type: topic
 updated: 2026-05-04
 ---
 

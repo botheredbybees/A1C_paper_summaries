@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Health-Environment Integration Through The Arts"
 confidence: low
-tags: ["health-environment-integration"]
+domain: intervention
+slug: health-environment-integration-through-the-arts
 sources:
-  - fxa301-week03-arts-public-health-and-the-national-arts-and-health
+- fxa301-week03-arts-public-health-and-the-national-arts-and-health
+tags:
+- health-environment-integration
+title: Health-Environment Integration Through The Arts
+type: topic
 updated: 2026-05-04
 ---
 

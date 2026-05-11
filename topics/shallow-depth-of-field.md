@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Shallow Depth of Field"
 confidence: low
-tags: ["shallow-depth-of-field"]
+domain: method
+slug: shallow-depth-of-field
 sources:
-  - fxa202-week02-depth-of-field-the-essential-guide-tips
+- fxa202-week02-depth-of-field-the-essential-guide-tips
+tags:
+- shallow-depth-of-field
+title: Shallow Depth of Field
+type: topic
 updated: 2026-05-04
 ---
 

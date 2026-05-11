@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Ethical Challenges in Arts-Based Health Research"
 confidence: low
-tags: ["ethical-challenges"]
+domain: theory
+slug: ethical-challenges-in-arts-based-health-research
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch02-chapter-11-(2)
+- fxa301-oxford-textbook-of-creative-arts-ch02-chapter-11-(2)
+tags:
+- ethical-challenges
+title: Ethical Challenges in Arts-Based Health Research
+type: topic
 updated: 2026-05-04
 ---
 

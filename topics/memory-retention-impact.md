@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Memory Retention Impact"
 confidence: low
-tags: ["memory-retention-impact"]
+domain: intervention
+slug: memory-retention-impact
 sources:
-  - fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia
+- fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia
+tags:
+- memory-retention-impact
+title: Memory Retention Impact
+type: topic
 updated: 2026-05-04
 ---
 

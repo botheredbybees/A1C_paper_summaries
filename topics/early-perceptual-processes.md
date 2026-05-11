@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Early Perceptual Processes"
 confidence: low
-tags: ["early-perceptual-processes"]
+domain: theory
+slug: early-perceptual-processes
 sources:
-  - fxa301-week02-neckers-smile-immediate-affective-consequences-of-early
+- fxa301-week02-neckers-smile-immediate-affective-consequences-of-early
+tags:
+- early-perceptual-processes
+title: Early Perceptual Processes
+type: topic
 updated: 2026-05-04
 ---
 

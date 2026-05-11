@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Model Of Aesthetic Appreciation"
 confidence: low
-tags: ["model-of-aesthetic-appreciation"]
+domain: theory
+slug: model-of-aesthetic-appreciation
 sources:
-  - fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and
+- fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and
+tags:
+- model-of-aesthetic-appreciation
+title: Model Of Aesthetic Appreciation
+type: topic
 updated: 2026-05-04
 ---
 

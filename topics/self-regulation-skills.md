@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Self-Regulation Skills in Children"
 confidence: low
-tags: ["self-regulation-skills"]
+domain: intervention
+slug: self-regulation-skills-in-children
 sources:
-  - fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand
+- fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand
+tags:
+- self-regulation-skills
+title: Self-Regulation Skills in Children
+type: topic
 updated: 2026-05-04
 ---
 

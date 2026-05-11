@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cultural Policy"
 confidence: medium
-tags: ["cultural-policy"]
+domain: intervention
+slug: cultural-policy
 sources:
   - fxa301-week01-peer-handbook-for-assessment-panels
   - fxa301-week03-revive-a-place-for-every-story-a-story-for-every-place
-updated: 2026-05-05
+- fxa301-week01-peer-handbook-for-assessment-panels
+- fxa301-week03-revive-a-place-for-every-story-a-story-for-every-place
+tags:
+- cultural-policy
+title: Cultural Policy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Cultural Policy

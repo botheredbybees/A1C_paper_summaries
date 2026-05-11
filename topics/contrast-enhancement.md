@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "method"
-title: "Contrast Enhancement in Photography"
 confidence: medium
-tags: ["contrast-enhancement"]
+domain: method
+slug: contrast-enhancement-in-photography
 sources:
-  - fxa202-week02-60-inspiring-examples-of-black-and-white-photography
-  - fxa202-week08-week-8-web-lecture-editing-your-images
+- fxa202-week02-60-inspiring-examples-of-black-and-white-photography
+- fxa202-week08-week-8-web-lecture-editing-your-images
+tags:
+- contrast-enhancement
+title: Contrast Enhancement in Photography
+type: topic
 updated: 2026-05-04
 ---
 

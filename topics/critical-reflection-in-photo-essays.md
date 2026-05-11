@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Critical Reflection In Photo Essays"
 confidence: low
-tags: ["critical-reflection-in-photo-essays"]
+domain: method
+slug: critical-reflection-in-photo-essays
 sources:
-  - fxa202-week01-lesson-fxa202-week01-chapter-4-inspiration
+- fxa202-week01-lesson-fxa202-week01-chapter-4-inspiration
+tags:
+- critical-reflection-in-photo-essays
+title: Critical Reflection In Photo Essays
+type: topic
 updated: 2026-05-04
 ---
 

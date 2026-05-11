@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Successful Integration Strategies for Refugees"
 confidence: low
-tags: ["successful-integration-strategies"]
+domain: intervention
+slug: successful-integration-strategies-for-refugees
 sources:
-  - fxa303-week10-the-global-refugee-crisis-empirical-evidence-and-policy
+- fxa303-week10-the-global-refugee-crisis-empirical-evidence-and-policy
+tags:
+- successful-integration-strategies
+title: Successful Integration Strategies for Refugees
+type: topic
 updated: 2026-05-04
 ---
 

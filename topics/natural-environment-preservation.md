@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Natural Environment Preservation"
 confidence: low
-tags: ["natural-environment-preservation"]
+domain: intervention
+slug: natural-environment-preservation
 sources:
-  - fxa202-week06-where-in-the-world-travelling-through-the-coronavirus
+- fxa202-week06-where-in-the-world-travelling-through-the-coronavirus
+tags:
+- natural-environment-preservation
+title: Natural Environment Preservation
+type: topic
 updated: 2026-05-04
 ---
 

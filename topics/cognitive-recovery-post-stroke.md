@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cognitive Recovery Post-Stroke"
 confidence: low
-tags: ["cognitive-recovery-post-stroke"]
+domain: intervention
+slug: cognitive-recovery-post-stroke
 sources:
-  - fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the
+- fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the
+tags:
+- cognitive-recovery-post-stroke
+title: Cognitive Recovery Post-Stroke
+type: topic
 updated: 2026-05-04
 ---
 

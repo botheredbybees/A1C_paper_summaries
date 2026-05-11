@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Use Of Movement"
 confidence: low
-tags: ["therapeutic-use-of-movement"]
+domain: intervention
+slug: therapeutic-use-of-movement
 sources:
-  - fxa301-week06-the-art-and-science-of-dancemovement-therapy
+- fxa301-week06-the-art-and-science-of-dancemovement-therapy
+tags:
+- therapeutic-use-of-movement
+title: Therapeutic Use Of Movement
+type: topic
 updated: 2026-05-04
 ---
 

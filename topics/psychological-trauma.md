@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Art Therapy for Psychological Trauma"
 confidence: low
-tags: ["psychological-trauma"]
+domain: intervention
+slug: art-therapy-for-psychological-trauma
 sources:
-  - fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of
+- fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of
+tags:
+- psychological-trauma
+title: Art Therapy for Psychological Trauma
+type: topic
 updated: 2026-05-04
 ---
 

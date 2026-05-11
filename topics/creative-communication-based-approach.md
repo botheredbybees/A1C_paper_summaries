@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Communication-Based Approach"
 confidence: low
-tags: ["creative-communication-based-approach"]
+domain: intervention
+slug: creative-communication-based-approach
 sources:
-  - fxa100-excellence-in-dementia-care--ch12-chapter-14
+- fxa100-excellence-in-dementia-care--ch12-chapter-14
+tags:
+- creative-communication-based-approach
+title: Creative Communication-Based Approach
+type: topic
 updated: 2026-05-04
 ---
 

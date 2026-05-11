@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Ethical Considerations In Digital Sharing"
 confidence: low
-tags: ["ethical-considerations-in-digital-sharing"]
+domain: intervention
+slug: ethical-considerations-in-digital-sharing
 sources:
-  - fxa100-creativity-and-communication-ch02-15-putting-the-it-into-creativity-exploring-the-creative
+- fxa100-creativity-and-communication-ch02-15-putting-the-it-into-creativity-exploring-the-creative
+tags:
+- ethical-considerations-in-digital-sharing
+title: Ethical Considerations In Digital Sharing
+type: topic
 updated: 2026-05-04
 ---
 

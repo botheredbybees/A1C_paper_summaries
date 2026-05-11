@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Vitality-Related Emotions"
 confidence: low
-tags: ["vitality-related-emotions"]
+domain: theory
+slug: vitality-related-emotions
 sources:
-  - fxa301-week01-lesson-fxa301-week01-chapter-3-music-and-the-damaged
+- fxa301-week01-lesson-fxa301-week01-chapter-3-music-and-the-damaged
+tags:
+- vitality-related-emotions
+title: Vitality-Related Emotions
+type: topic
 updated: 2026-05-04
 ---
 

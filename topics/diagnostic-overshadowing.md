@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "theory"
-title: "Diagnostic Overshadowing in Dementia Care"
 confidence: medium
-tags: ["diagnostic-overshadowing"]
+domain: theory
+slug: diagnostic-overshadowing-in-dementia-care
 sources:
-  - fxa100-excellence-in-dementia-care--ch42-1-there-is-a-stereotypic-view
-  - fxa100-excellence-in-dementia-care--ch52-1-there-is-a-stereotypic-view
+- fxa100-excellence-in-dementia-care--ch42-1-there-is-a-stereotypic-view
+- fxa100-excellence-in-dementia-care--ch52-1-there-is-a-stereotypic-view
+tags:
+- diagnostic-overshadowing
+title: Diagnostic Overshadowing in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

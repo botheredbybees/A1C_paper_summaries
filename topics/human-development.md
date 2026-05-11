@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "theory"
-title: "Human Development Theories"
 confidence: medium
-tags: ["human-development"]
+domain: theory
+slug: human-development-theories
 sources:
   - fxa303-week02-the-psychosocial-development-theory-of-erik-erikson
   - fxa303-week03-chapter-11-human-development-how-and-why-we-change
-updated: 2026-05-04
+- fxa303-week02-the-psychosocial-development-theory-of-erik-erikson
+- fxa303-week03-chapter-11-human-development-how-and-why-we-change
+tags:
+- human-development
+title: Human Development Theories
+type: topic
+updated: 2026-05-11
 ---
 
 ## Human Development Theories

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Drama Therapy for Mild-to-Moderate Dementia"
 confidence: low
-tags: ["mild-to-moderate-dementia"]
+domain: intervention
+slug: drama-therapy-for-mild-to-moderate-dementia
 sources:
-  - fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2)
+- fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2)
+tags:
+- mild-to-moderate-dementia
+title: Drama Therapy for Mild-to-Moderate Dementia
+type: topic
 updated: 2026-05-04
 ---
 

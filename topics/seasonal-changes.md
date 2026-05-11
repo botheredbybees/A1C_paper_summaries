@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Coping Mechanisms"
 confidence: low
-tags: ["seasonal-changes"]
+domain: intervention
+slug: creative-coping-mechanisms
 sources:
-  - fxa202-week06-winding-paths
+- fxa202-week06-winding-paths
+tags:
+- seasonal-changes
+title: Creative Coping Mechanisms
+type: topic
 updated: 2026-05-04
 ---
 

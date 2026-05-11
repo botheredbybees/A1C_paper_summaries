@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Neural Circuitry Maturation"
 confidence: low
-tags: ["neural-circuitry-maturation"]
+domain: intervention
+slug: neural-circuitry-maturation
 sources:
-  - fxa303-week03-hormones-and-the-adolescent-brain
+- fxa303-week03-hormones-and-the-adolescent-brain
+tags:
+- neural-circuitry-maturation
+title: Neural Circuitry Maturation
+type: topic
 updated: 2026-05-04
 ---
 

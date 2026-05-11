@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Contextual Cues in Memory"
 confidence: low
-tags: ["contextual-cues"]
+domain: intervention
+slug: contextual-cues-in-memory
 sources:
-  - fxa100-week07-turning-back-the-hands-of-time-autobiographical-memories-in
+- fxa100-week07-turning-back-the-hands-of-time-autobiographical-memories-in
+tags:
+- contextual-cues
+title: Contextual Cues in Memory
+type: topic
 updated: 2026-05-04
 ---
 

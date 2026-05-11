@@ -1,13 +1,18 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts and Creativity Interventions for Older Adults"
 confidence: medium
-tags: ["aging-population"]
+domain: intervention
+slug: arts-and-creativity-interventions-for-older-adults
 sources:
   - fxa100-week04-arts-and-creativity-interventions-for-improving-health-and
   - fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2)
-updated: 2026-05-04
+  - fxa100-week11-dance-for-lifelong-wellbeing-research-findings-2017
+- fxa100-week04-arts-and-creativity-interventions-for-improving-health-and
+- fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2)
+tags:
+- aging-population
+title: Arts and Creativity Interventions for Older Adults
+type: topic
+updated: 2026-05-11
 ---
 
 ## Arts and Creativity Interventions for Older Adults
@@ -28,3 +33,4 @@ This synthesis explores the efficacy and economic impact of arts and creativity 
 
 - [fxa100-week04-arts-and-creativity-interventions-for-improving-health-and](../sources/fxa100-week04-arts-and-creativity-interventions-for-improving-health-and.md)
 - [fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2)](../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2).md)
+- [fxa100-week11-dance-for-lifelong-wellbeing-research-findings-2017](../sources/fxa100-week11-dance-for-lifelong-wellbeing-research-findings-2017.md)

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Aggressive Tendencies"
 confidence: low
-tags: ["aggressive-tendencies"]
+domain: intervention
+slug: aggressive-tendencies
 sources:
-  - fxa303-week08-exploring-the-usefulness-of-medical-clowns-in-elevating
+- fxa303-week08-exploring-the-usefulness-of-medical-clowns-in-elevating
+tags:
+- aggressive-tendencies
+title: Aggressive Tendencies
+type: topic
 updated: 2026-05-04
 ---
 

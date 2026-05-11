@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Stress Reduction Through Humor"
 confidence: medium
-tags: ["stress-reduction"]
+domain: intervention
+slug: stress-reduction-through-humor
 sources:
   - fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults
   - fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
-updated: 2026-05-04
+- fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults
+- fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
+tags:
+- stress-reduction
+title: Stress Reduction Through Humor
+type: topic
+updated: 2026-05-11
 ---
 
 ## Stress Reduction Through Humor

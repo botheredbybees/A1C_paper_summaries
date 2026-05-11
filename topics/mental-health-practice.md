@@ -1,16 +1,23 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Mental Health Practices"
 confidence: high
-tags: ["mental-health-practice"]
+domain: intervention
+slug: creative-mental-health-practices
 sources:
   - fxa100-week09-web-article-north-2021
   - fxa303-creativity-wellbeing-and-mental-health-ch01-10-conclusions-tony-gillam
   - fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam
   - fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam
   - fxa303-creativity-wellbeing-and-mental-health-ch05-8-creative-approaches-to-learning-and-leadership-tony-gillam
-updated: 2026-05-05
+- fxa100-week09-web-article-north-2021
+- fxa303-creativity-wellbeing-and-mental-health-ch01-10-conclusions-tony-gillam
+- fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam
+- fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam
+- fxa303-creativity-wellbeing-and-mental-health-ch05-8-creative-approaches-to-learning-and-leadership-tony-gillam
+tags:
+- mental-health-practice
+title: Creative Mental Health Practices
+type: topic
+updated: 2026-05-11
 ---
 
 ## Creative Mental Health Practices

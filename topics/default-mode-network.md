@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "theory"
-title: "The Default Mode Network in Art Experience"
 confidence: medium
-tags: ["default-mode-network"]
+domain: theory
+slug: the-default-mode-network-in-art-experience
 sources:
-  - fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual
-  - fxa100-week06-the-brain-on-art-intense-aesthetic-experience-activates-the
+- fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual
+- fxa100-week06-the-brain-on-art-intense-aesthetic-experience-activates-the
+tags:
+- default-mode-network
+title: The Default Mode Network in Art Experience
+type: topic
 updated: 2026-05-04
 ---
 

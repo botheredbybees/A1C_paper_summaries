@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Supportive Community Environments"
 confidence: low
-tags: ["supportive-community-environments"]
+domain: intervention
+slug: supportive-community-environments
 sources:
-  - fxa303-week03-role-of-the-arts-in-the-life-and-mental-health-of-young
+- fxa303-week03-role-of-the-arts-in-the-life-and-mental-health-of-young
+tags:
+- supportive-community-environments
+title: Supportive Community Environments
+type: topic
 updated: 2026-05-04
 ---
 

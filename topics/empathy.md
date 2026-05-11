@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Empathy in Counseling and Psychotherapy"
 confidence: low
-tags: ["empathy"]
+domain: intervention
+slug: empathy-in-counseling-and-psychotherapy
 sources:
-  - fxa303-week01-person-centered-therapy-rogerian-therapy
+- fxa303-week01-person-centered-therapy-rogerian-therapy
+tags:
+- empathy
+title: Empathy in Counseling and Psychotherapy
+type: topic
 updated: 2026-05-04
 ---
 

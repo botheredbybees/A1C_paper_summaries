@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Visual Creativity in Dementia"
 confidence: low
-tags: ["visual-creativity"]
+domain: intervention
+slug: visual-creativity-in-dementia
 sources:
-  - fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia-(2)
+- fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia-(2)
+tags:
+- visual-creativity
+title: Visual Creativity in Dementia
+type: topic
 updated: 2026-05-04
 ---
 

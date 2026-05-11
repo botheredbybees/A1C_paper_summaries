@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Microsoft Powerpoint Usage"
 confidence: low
-tags: ["microsoft-powerpoint"]
+domain: method
+slug: microsoft-powerpoint-usage
 sources:
-  - fxa202-week06-tips-for-making-your-powerpoint-presentation-(2)
+- fxa202-week06-tips-for-making-your-powerpoint-presentation-(2)
+tags:
+- microsoft-powerpoint
+title: Microsoft Powerpoint Usage
+type: topic
 updated: 2026-05-04
 ---
 

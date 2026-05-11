@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "intervention"
-title: "National Arts and Health Framework"
 confidence: medium
-tags: ["national-arts-and-health-framework"]
+domain: intervention
+slug: national-arts-and-health-framework
 sources:
-  - fxa301-week03-arts-public-health-and-the-national-arts-and-health
-  - fxa301-week03-evidence-requirements-for-the-development-of-the-national
-  - fxa301-week03-lesson-fxa301-week03-page-3
+- fxa301-week03-arts-public-health-and-the-national-arts-and-health
+- fxa301-week03-evidence-requirements-for-the-development-of-the-national
+- fxa301-week03-lesson-fxa301-week03-page-3
+tags:
+- national-arts-and-health-framework
+title: National Arts and Health Framework
+type: topic
 updated: 2026-05-04
 ---
 

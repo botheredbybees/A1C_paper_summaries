@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Empowerment Through Theatre"
 confidence: low
-tags: ["empowerment-through-theatre"]
+domain: intervention
+slug: empowerment-through-theatre
 sources:
-  - fxa100-week09-augusto-boals-forum-theatre-for-teachers
+- fxa100-week09-augusto-boals-forum-theatre-for-teachers
+tags:
+- empowerment-through-theatre
+title: Empowerment Through Theatre
+type: topic
 updated: 2026-05-04
 ---
 

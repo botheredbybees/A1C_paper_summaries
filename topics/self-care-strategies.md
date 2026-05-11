@@ -1,13 +1,18 @@
 ---
-type: topic
-domain: "intervention"
-title: "Self-Care Strategies"
 confidence: medium
-tags: ["self-care-strategies"]
+domain: intervention
+slug: self-care-strategies
 sources:
   - fxa100-creativity-and-communication-ch13-23-making-space-for-your-own-creativity-making-space-for
   - fxa303-week05-puppets-and-self-care-for-task-2
-updated: 2026-05-04
+  - fxa303-week11-mapping-q-the-university-of-arizona-museum-of-art
+- fxa100-creativity-and-communication-ch13-23-making-space-for-your-own-creativity-making-space-for
+- fxa303-week05-puppets-and-self-care-for-task-2
+tags:
+- self-care-strategies
+title: Self-Care Strategies
+type: topic
+updated: 2026-05-11
 ---
 
 ## Self-Care Strategies
@@ -27,3 +32,4 @@ The sources explore different self-care strategies that individuals can adopt to
 
 - [fxa100-creativity-and-communication-ch13-23-making-space-for-your-own-creativity-making-space-for](../sources/fxa100-creativity-and-communication-ch13-23-making-space-for-your-own-creativity-making-space-for.md)
 - [fxa303-week05-puppets-and-self-care-for-task-2](../sources/fxa303-week05-puppets-and-self-care-for-task-2.md)
+- [fxa303-week11-mapping-q-the-university-of-arizona-museum-of-art](../sources/fxa303-week11-mapping-q-the-university-of-arizona-museum-of-art.md)

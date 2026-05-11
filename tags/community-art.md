@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: community-art
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Community Art
@@ -11,3 +11,4 @@ updated: 2026-05-06
 - [The Make Arts for a Better Life Process](../sources/fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts.md)
 - [Making Art with Communities - A Work Guide](../sources/fxa301-week01-making-art-with-communities-a-work-guide.md)
 - [Making Art With Communities: A Work Guide](../sources/fxa301-week01-making-art-with-communities-a-work-guide-(3).md)
+- [Refugee Art Project](../sources/fxa301-week11-refugee-art-project.md)

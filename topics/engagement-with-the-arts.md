@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Engagement With The Arts"
 confidence: low
-tags: ["engagement-with-the-arts"]
+domain: intervention
+slug: engagement-with-the-arts
 sources:
-  - fxa100-week04-transcript-cale-research-aged-care-deloraine-partnership
+- fxa100-week04-transcript-cale-research-aged-care-deloraine-partnership
+tags:
+- engagement-with-the-arts
+title: Engagement With The Arts
+type: topic
 updated: 2026-05-04
 ---
 

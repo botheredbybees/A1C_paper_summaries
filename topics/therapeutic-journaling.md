@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Journaling"
 confidence: low
-tags: ["therapeutic-journaling"]
+domain: intervention
+slug: therapeutic-journaling
 sources:
-  - fxa202-week09-guide-to-journaling
+- fxa202-week09-guide-to-journaling
+tags:
+- therapeutic-journaling
+title: Therapeutic Journaling
+type: topic
 updated: 2026-05-04
 ---
 

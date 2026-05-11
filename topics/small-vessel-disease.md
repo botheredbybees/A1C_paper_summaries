@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Small Vessel Disease"
 confidence: medium
-tags: ["small-vessel-disease"]
+domain: intervention
+slug: small-vessel-disease
 sources:
-  - fxa100-week01-living-with-dementia-12-what-is-vascular-dementia
-  - fxa100-week01-transcript-dementia-australia
+- fxa100-week01-living-with-dementia-12-what-is-vascular-dementia
+- fxa100-week01-transcript-dementia-australia
+tags:
+- small-vessel-disease
+title: Small Vessel Disease
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Negative Attitudes and Barriers in Arts Participation"
 confidence: low
-tags: ["negative-attitudes-and-barriers"]
+domain: intervention
+slug: negative-attitudes-and-barriers-in-arts-participation
 sources:
-  - fxa301-week09-research-overview-arts-and-disability-in-australia
+- fxa301-week09-research-overview-arts-and-disability-in-australia
+tags:
+- negative-attitudes-and-barriers
+title: Negative Attitudes and Barriers in Arts Participation
+type: topic
 updated: 2026-05-04
 ---
 

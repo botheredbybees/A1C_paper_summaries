@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Spiritual Experiences as Symptoms"
 confidence: low
-tags: ["spiritual-experiences-as-symptoms"]
+domain: theory
+slug: spiritual-experiences-as-symptoms
 sources:
-  - fxa100-week02-psychiatry-in-scripture-sacred-texts-and-psychopathology
+- fxa100-week02-psychiatry-in-scripture-sacred-texts-and-psychopathology
+tags:
+- spiritual-experiences-as-symptoms
+title: Spiritual Experiences as Symptoms
+type: topic
 updated: 2026-05-04
 ---
 

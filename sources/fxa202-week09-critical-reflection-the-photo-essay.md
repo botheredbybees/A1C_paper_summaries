@@ -11,7 +11,7 @@ tags: ["nature-photography", "critical-reflection", "mortality-acceptance", "per
 key_concepts: ["death-as-natural-process", "beauty-in-decay", "ugliness-stimulates-imagination"]
 methods: ["photo-essay"]
 slug: fxa202-week09-critical-reflection-the-photo-essay
-related: ["critical-reflection"]
+related: ["critical-reflection", "personal-growth"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,3 +45,4 @@ Wendy Whiley's critical reflection explores her personal journey in embracing de
 ## See Also
 
 - [critical-reflection](../topics/critical-reflection.md)
+- [personal-growth](../topics/personal-growth.md)

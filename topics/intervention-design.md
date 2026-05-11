@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "intervention"
-title: "Intervention Design in Health Care"
 confidence: medium
-tags: ["intervention-design"]
+domain: intervention
+slug: intervention-design-in-health-care
 sources:
   - fxa100-week04-conceptualizing-and-planning-interventions
   - fxa100-week04-implementing-and-evaluating-interventions
   - fxa301-arts-in-health-ch29-4-invite-open-responses
   - fxa301-week01-implementing-and-evaluating-interventions
-updated: 2026-05-05
+- fxa100-week04-conceptualizing-and-planning-interventions
+- fxa100-week04-implementing-and-evaluating-interventions
+- fxa301-arts-in-health-ch29-4-invite-open-responses
+- fxa301-week01-implementing-and-evaluating-interventions
+tags:
+- intervention-design
+title: Intervention Design in Health Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Intervention Design in Health Care

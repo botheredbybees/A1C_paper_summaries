@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Four-Stage Framework For Research Process"
 confidence: low
-tags: ["four-stage-framework"]
+domain: method
+slug: four-stage-framework-for-research-process
 sources:
-  - fxa100-week04-a-step-by-step-approach-to-the-research-process
+- fxa100-week04-a-step-by-step-approach-to-the-research-process
+tags:
+- four-stage-framework
+title: Four-Stage Framework For Research Process
+type: topic
 updated: 2026-05-04
 ---
 

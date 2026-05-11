@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sense Of Place"
 confidence: medium
-tags: ["sense-of-place"]
+domain: intervention
+slug: sense-of-place
 sources:
-  - fxa301-week05-how-murals-helped-turn-a-declining-community-around
-  - fxa303-week09-the-afloat-project-(2)
+- fxa301-week05-how-murals-helped-turn-a-declining-community-around
+- fxa303-week09-the-afloat-project-(2)
+tags:
+- sense-of-place
+title: Sense Of Place
+type: topic
 updated: 2026-05-04
 ---
 

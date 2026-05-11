@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Auditory Memory Encoding"
 confidence: low
-tags: ["auditory-memory-encoding"]
+domain: method
+slug: auditory-memory-encoding
 sources:
-  - fxa100-week02-fxa100-week-2-lecture-music-and-the-brain
+- fxa100-week02-fxa100-week-2-lecture-music-and-the-brain
+tags:
+- auditory-memory-encoding
+title: Auditory Memory Encoding
+type: topic
 updated: 2026-05-04
 ---
 

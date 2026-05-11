@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Ecopsychosocial Theory"
 confidence: low
-tags: ["ecopsychosocial-theory"]
+domain: theory
+slug: ecopsychosocial-theory
 sources:
-  - fxa100-week06-the-role-of-the-visual-arts-in-the-resilience-of-people
+- fxa100-week06-the-role-of-the-visual-arts-in-the-resilience-of-people
+tags:
+- ecopsychosocial-theory
+title: Ecopsychosocial Theory
+type: topic
 updated: 2026-05-04
 ---
 

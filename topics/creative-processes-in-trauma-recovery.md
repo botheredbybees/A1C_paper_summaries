@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Processes In Trauma Recovery"
 confidence: low
-tags: ["creative-processes-in-trauma-recovery"]
+domain: intervention
+slug: creative-processes-in-trauma-recovery
 sources:
-  - fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon
+- fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon
+tags:
+- creative-processes-in-trauma-recovery
+title: Creative Processes In Trauma Recovery
+type: topic
 updated: 2026-05-04
 ---
 

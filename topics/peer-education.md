@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Peer Education"
 confidence: low
-tags: ["peer-education"]
+domain: intervention
+slug: peer-education
 sources:
-  - fxa301-week08-lesson-fxa301-week07-page-2-hm-copy
+- fxa301-week08-lesson-fxa301-week07-page-2-hm-copy
+tags:
+- peer-education
+title: Peer Education
+type: topic
 updated: 2026-05-04
 ---
 

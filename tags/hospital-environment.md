@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hospital-environment
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Hospital Environment

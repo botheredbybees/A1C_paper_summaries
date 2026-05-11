@@ -11,7 +11,7 @@ tags: ["dance-therapy", "psychological-treatment", "movement-interventions", "fx
 key_concepts: ["integration-of-personality", "violence-prevention-through-movement", "empathy-building"]
 methods: []
 slug: fxa100-week09-transcript-this-video-clip-from-the-american-dance-therapy
-related: ["dance-therapy"]
+related: ["dance-therapy", "movement-interventions"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,3 +42,4 @@ This transcript from a video produced by the American Dance Therapy Association 
 ## See Also
 
 - [dance-therapy](../topics/dance-therapy.md)
+- [movement-interventions](../topics/movement-interventions.md)

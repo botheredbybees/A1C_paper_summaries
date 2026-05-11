@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Attribution Rights"
 confidence: low
-tags: ["attribution-rights"]
+domain: theory
+slug: attribution-rights
 sources:
-  - fxa202-week10-defamation-copyright-and-blogging-in-australia
+- fxa202-week10-defamation-copyright-and-blogging-in-australia
+tags:
+- attribution-rights
+title: Attribution Rights
+type: topic
 updated: 2026-05-04
 ---
 

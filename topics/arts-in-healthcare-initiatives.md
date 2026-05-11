@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts In Healthcare Initiatives"
 confidence: low
-tags: ["arts-in-healthcare-initiatives"]
+domain: intervention
+slug: arts-in-healthcare-initiatives
 sources:
-  - fxa301-week03-executive-summary-creative-health-review
+- fxa301-week03-executive-summary-creative-health-review
+tags:
+- arts-in-healthcare-initiatives
+title: Arts In Healthcare Initiatives
+type: topic
 updated: 2026-05-04
 ---
 

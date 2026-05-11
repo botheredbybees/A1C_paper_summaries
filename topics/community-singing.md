@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Community Singing"
 confidence: medium
-tags: ["community-singing"]
+domain: intervention
+slug: community-singing
 sources:
   - fxa301-week06-further-evidence-that-singing-fosters-mental-health-and
   - fxa301-week10-sing-your-heart-out-community-singing-as-part-of-mental
-updated: 2026-05-04
+- fxa301-week06-further-evidence-that-singing-fosters-mental-health-and
+- fxa301-week10-sing-your-heart-out-community-singing-as-part-of-mental
+tags:
+- community-singing
+title: Community Singing
+type: topic
+updated: 2026-05-11
 ---
 
 ## Community Singing

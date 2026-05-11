@@ -12,13 +12,14 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
+  - unit: FXA301
 tags: ["psychophysiology", "emotional-development", "neurobiological-background", "fxa301"]
 key_concepts: ["emotional competence", "amygdala function", "mirror neurons"]
 methods: []
 slug: fxa301-oxford-textbook-of-creative-arts-ch27-chapter-9
 related: ["psychophysiology"]
 created: 2026-05-03
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-oxford-textbook-of-creative-arts-ch27-chapter-9.md_

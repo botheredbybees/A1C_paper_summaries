@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Complex Post-Traumatic Stress Disorder in Traumatized Populations"
 confidence: low
-tags: ["complex-post-traumatic-stress-disorder-c-ptsd"]
+domain: intervention
+slug: complex-post-traumatic-stress-disorder-in-traumatized-populations
 sources:
-  - fxa303-week10-web-article-gulbay-2021
+- fxa303-week10-web-article-gulbay-2021
+tags:
+- complex-post-traumatic-stress-disorder-c-ptsd
+title: Complex Post-Traumatic Stress Disorder in Traumatized Populations
+type: topic
 updated: 2026-05-04
 ---
 

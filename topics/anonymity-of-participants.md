@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Anonymity of Participants"
 confidence: low
-tags: ["anonymity-of-participants"]
+domain: method
+slug: anonymity-of-participants
 sources:
-  - fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of-(2)
+- fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of-(2)
+tags:
+- anonymity-of-participants
+title: Anonymity of Participants
+type: topic
 updated: 2026-05-04
 ---
 

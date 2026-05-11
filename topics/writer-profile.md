@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Writer Profile"
 confidence: low
-tags: ["writer-profile"]
+domain: intervention
+slug: writer-profile
 sources:
-  - fxa202-week10-how-to-pitch-articles-to-editors
+- fxa202-week10-how-to-pitch-articles-to-editors
+tags:
+- writer-profile
+title: Writer Profile
+type: topic
 updated: 2026-05-04
 ---
 

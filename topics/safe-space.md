@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Safe-Space in Community Interventions"
 confidence: low
-tags: ["safe-space"]
+domain: intervention
+slug: safe-space-in-community-interventions
 sources:
-  - fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using
+- fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using
+tags:
+- safe-space
+title: Safe-Space in Community Interventions
+type: topic
 updated: 2026-05-04
 ---
 

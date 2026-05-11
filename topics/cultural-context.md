@@ -1,13 +1,18 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cultural Context in Healthcare and Arts Programs"
 confidence: medium
-tags: ["cultural-context"]
+domain: intervention
+slug: cultural-context-in-healthcare-and-arts-programs
 sources:
   - fxa100-week07-dementia-and-our-mob-caring-for-spirit
   - fxa303-week10-importance-of-cultural-context-in-designing-arts-programs
-updated: 2026-05-04
+  - fxa303-week11-arts-in-criminal-justice-and-corrections-international
+- fxa100-week07-dementia-and-our-mob-caring-for-spirit
+- fxa303-week10-importance-of-cultural-context-in-designing-arts-programs
+tags:
+- cultural-context
+title: Cultural Context in Healthcare and Arts Programs
+type: topic
+updated: 2026-05-11
 ---
 
 ## Cultural Context in Healthcare and Arts Programs
@@ -28,3 +33,4 @@ The synthesis of the provided sources highlights the critical role of socio-cult
 
 - [fxa100-week07-dementia-and-our-mob-caring-for-spirit](../sources/fxa100-week07-dementia-and-our-mob-caring-for-spirit.md)
 - [fxa303-week10-importance-of-cultural-context-in-designing-arts-programs](../sources/fxa303-week10-importance-of-cultural-context-in-designing-arts-programs.md)
+- [fxa303-week11-arts-in-criminal-justice-and-corrections-international](../sources/fxa303-week11-arts-in-criminal-justice-and-corrections-international.md)

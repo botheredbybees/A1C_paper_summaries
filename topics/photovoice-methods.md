@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Photovoice Methods in Aged Care"
 confidence: medium
-tags: ["photovoice-methods"]
+domain: method
+slug: photovoice-methods-in-aged-care
 sources:
   - fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary
   - fxa202-week10-creative-arts-based-research-in-aged-care-photovoice
-updated: 2026-05-04
+- fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary
+- fxa202-week10-creative-arts-based-research-in-aged-care-photovoice
+tags:
+- photovoice-methods
+title: Photovoice Methods in Aged Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Photovoice Methods in Aged Care

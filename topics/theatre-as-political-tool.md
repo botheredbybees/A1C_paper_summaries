@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Theatre as a Political Tool"
 confidence: low
-tags: ["theatre-as-political-tool"]
+domain: intervention
+slug: theatre-as-a-political-tool
 sources:
-  - fxa100-week09-transcript-augusto-boal-1931-2009-was-a-brazilian-theatre
+- fxa100-week09-transcript-augusto-boal-1931-2009-was-a-brazilian-theatre
+tags:
+- theatre-as-political-tool
+title: Theatre as a Political Tool
+type: topic
 updated: 2026-05-04
 ---
 

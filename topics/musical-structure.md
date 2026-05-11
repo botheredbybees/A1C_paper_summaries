@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Musical Structure in Dementia Care"
 confidence: low
-tags: ["musical-structure"]
+domain: intervention
+slug: musical-structure-in-dementia-care
 sources:
-  - fxa100-week02-lesson-fxa100-week02-page-2-hearing-and-music
+- fxa100-week02-lesson-fxa100-week02-page-2-hearing-and-music
+tags:
+- musical-structure
+title: Musical Structure in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

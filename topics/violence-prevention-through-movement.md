@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Violence Prevention Through Movement"
 confidence: low
-tags: ["violence-prevention-through-movement"]
+domain: intervention
+slug: violence-prevention-through-movement
 sources:
-  - fxa100-week09-transcript-this-video-clip-from-the-american-dance-therapy
+- fxa100-week09-transcript-this-video-clip-from-the-american-dance-therapy
+tags:
+- violence-prevention-through-movement
+title: Violence Prevention Through Movement
+type: topic
 updated: 2026-05-04
 ---
 

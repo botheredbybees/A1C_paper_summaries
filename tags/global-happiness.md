@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: global-happiness
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Global Happiness

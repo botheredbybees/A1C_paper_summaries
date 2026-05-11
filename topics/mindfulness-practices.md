@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Mindfulness Practices"
 confidence: medium
-tags: ["mindfulness-practices"]
+domain: intervention
+slug: mindfulness-practices
 sources:
-  - fxa202-week08-week-8-lecture-notes-editing-your-images-(2)
-  - fxa202-week10-brain-research-shows-the-arts-promote-mental-health
-updated: 2026-05-04
+  - fxa202-week06-winding-paths-a-photo-essay-on-emotional-health-during
+  - fxa303-week11-healing-arts-safe-place-for-youth
+- fxa202-week08-week-8-lecture-notes-editing-your-images-(2)
+- fxa202-week10-brain-research-shows-the-arts-promote-mental-health
+tags:
+- mindfulness-practices
+title: Mindfulness Practices
+type: topic
+updated: 2026-05-11
 ---
 
 ## Mindfulness Practices
@@ -26,5 +30,5 @@ The sources highlight the therapeutic benefits of incorporating mindfulness prac
 
 ## Sources
 
-- [fxa202-week08-week-8-lecture-notes-editing-your-images-(2)](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images-(2).md)
-- [fxa202-week10-brain-research-shows-the-arts-promote-mental-health](../sources/fxa202-week10-brain-research-shows-the-arts-promote-mental-health.md)
+- [fxa202-week06-winding-paths-a-photo-essay-on-emotional-health-during](../sources/fxa202-week06-winding-paths-a-photo-essay-on-emotional-health-during.md)
+- [fxa303-week11-healing-arts-safe-place-for-youth](../sources/fxa303-week11-healing-arts-safe-place-for-youth.md)

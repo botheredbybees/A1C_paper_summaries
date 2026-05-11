@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Trauma-Aware Practices"
 confidence: low
-tags: ["trauma-aware-practices"]
+domain: intervention
+slug: trauma-aware-practices
 sources:
-  - fxa303-week10-lesson-fxa303-week10-page-3-case-studies
+- fxa303-week10-lesson-fxa303-week10-page-3-case-studies
+tags:
+- trauma-aware-practices
+title: Trauma-Aware Practices
+type: topic
 updated: 2026-05-04
 ---
 

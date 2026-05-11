@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Site-Responsive Art"
 confidence: low
-tags: ["site-responsive-art"]
+domain: intervention
+slug: site-responsive-art
 sources:
-  - fxa301-week05-transcript-aprof-anne-marie-forbes-interview-with-dr
+- fxa301-week05-transcript-aprof-anne-marie-forbes-interview-with-dr
+tags:
+- site-responsive-art
+title: Site-Responsive Art
+type: topic
 updated: 2026-05-04
 ---
 

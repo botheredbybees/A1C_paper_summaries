@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Intervention Planning in Arts-Based Interventions"
 confidence: medium
-tags: ["intervention-planning"]
+domain: intervention
+slug: intervention-planning-in-arts-based-interventions
 sources:
   - fxa301-arts-in-health-ch26-4-technological
   - fxa301-week01-conceptualizing-and-planning-interventions
-updated: 2026-05-05
+- fxa301-arts-in-health-ch26-4-technological
+- fxa301-week01-conceptualizing-and-planning-interventions
+tags:
+- intervention-planning
+title: Intervention Planning in Arts-Based Interventions
+type: topic
+updated: 2026-05-11
 ---
 
 ## Intervention Planning in Arts-Based Interventions

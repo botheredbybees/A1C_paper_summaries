@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Dementia Care Experiences Through Theatre"
 confidence: medium
-tags: ["dementia-care-experiences"]
+domain: intervention
+slug: dementia-care-experiences-through-theatre
 sources:
   - fxa100-week10-brightness-in-the-theatre
   - fxa100-week10-lesson-fxa100-week10-page-3-kage-physical-theatre
-updated: 2026-05-04
+- fxa100-week10-brightness-in-the-theatre
+- fxa100-week10-lesson-fxa100-week10-page-3-kage-physical-theatre
+tags:
+- dementia-care-experiences
+title: Dementia Care Experiences Through Theatre
+type: topic
+updated: 2026-05-11
 ---
 
 ## Dementia Care Experiences Through Theatre

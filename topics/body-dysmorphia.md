@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Body Dysmorphia"
 confidence: low
-tags: ["body-dysmorphia"]
+domain: population
+slug: body-dysmorphia
 sources:
-  - fxa202-week10-poetic-expressions-of-internal-struggle
+- fxa202-week10-poetic-expressions-of-internal-struggle
+tags:
+- body-dysmorphia
+title: Body Dysmorphia
+type: topic
 updated: 2026-05-04
 ---
 

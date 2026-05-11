@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Integrated Programs In Senior Care"
 confidence: low
-tags: ["integrated-programs"]
+domain: intervention
+slug: integrated-programs-in-senior-care
 sources:
-  - fxa100-week08-transcript-youtube-uk9nnjw4xuuduration
+- fxa100-week08-transcript-youtube-uk9nnjw4xuuduration
+tags:
+- integrated-programs
+title: Integrated Programs In Senior Care
+type: topic
 updated: 2026-05-04
 ---
 

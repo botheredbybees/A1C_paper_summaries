@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Nostalgia Proneness"
 confidence: low
-tags: ["nostalgia-proneness"]
+domain: theory
+slug: nostalgia-proneness
 sources:
-  - fxa301-week02-music-evoked-nostalgia-affect-memory-and-personality
+- fxa301-week02-music-evoked-nostalgia-affect-memory-and-personality
+tags:
+- nostalgia-proneness
+title: Nostalgia Proneness
+type: topic
 updated: 2026-05-04
 ---
 

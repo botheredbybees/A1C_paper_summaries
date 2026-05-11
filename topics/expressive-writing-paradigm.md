@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Expressive Writing Paradigm"
 confidence: low
-tags: ["expressive-writing-paradigm"]
+domain: intervention
+slug: expressive-writing-paradigm
 sources:
-  - fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental
+- fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental
+tags:
+- expressive-writing-paradigm
+title: Expressive Writing Paradigm
+type: topic
 updated: 2026-05-04
 ---
 

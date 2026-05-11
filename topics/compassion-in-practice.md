@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Compassion-in-practice"
 confidence: low
-tags: ["compassion-in-practice"]
+domain: intervention
+slug: compassion-in-practice
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37
+- fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37
+tags:
+- compassion-in-practice
+title: Compassion-in-practice
+type: topic
 updated: 2026-05-04
 ---
 

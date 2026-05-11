@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Visual Storytelling in Legal Education"
 confidence: medium
-tags: ["discussion-board"]
+domain: method
+slug: visual-storytelling-in-legal-education
 sources:
   - fxa202-week01-lesson-fxa202-week01-page-4
   - fxa202-week02-lesson-fxa202-week02-page-4
-updated: 2026-05-04
+- fxa202-week01-lesson-fxa202-week01-page-4
+- fxa202-week02-lesson-fxa202-week02-page-4
+tags:
+- discussion-board
+title: Visual Storytelling in Legal Education
+type: topic
+updated: 2026-05-11
 ---
 
 ## Visual Storytelling in Legal Education

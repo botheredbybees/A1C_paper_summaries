@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Attention to Social Cues"
 confidence: low
-tags: ["attention-to-social-cues"]
+domain: intervention
+slug: attention-to-social-cues
 sources:
-  - fxa303-week06-puppets-facilitate-attention-to-social-cues-in-children
+- fxa303-week06-puppets-facilitate-attention-to-social-cues-in-children
+tags:
+- attention-to-social-cues
+title: Attention to Social Cues
+type: topic
 updated: 2026-05-04
 ---
 

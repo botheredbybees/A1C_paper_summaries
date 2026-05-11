@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Multi-Sensory Stimulation"
 confidence: low
-tags: ["multi-sensory-stimulation"]
+domain: intervention
+slug: multi-sensory-stimulation
 sources:
-  - fxa100-week08-research-informed-approaches-to-visual-arts-programmes
+- fxa100-week08-research-informed-approaches-to-visual-arts-programmes
+tags:
+- multi-sensory-stimulation
+title: Multi-Sensory Stimulation
+type: topic
 updated: 2026-05-04
 ---
 

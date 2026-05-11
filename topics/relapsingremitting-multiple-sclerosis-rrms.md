@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Ballet-Based Dance Intervention for Relapsing-Reitering Multiple Sclerosis"
 confidence: low
-tags: ["relapsingremitting-multiple-sclerosis-rrms"]
+domain: intervention
+slug: ballet-based-dance-intervention-for-relapsing-reitering-multiple-sclerosis
 sources:
-  - fxa301-week06-feasibility-and-preliminary-effects-of-ballet-based-group
+- fxa301-week06-feasibility-and-preliminary-effects-of-ballet-based-group
+tags:
+- relapsingremitting-multiple-sclerosis-rrms
+title: Ballet-Based Dance Intervention for Relapsing-Reitering Multiple Sclerosis
+type: topic
 updated: 2026-05-04
 ---
 

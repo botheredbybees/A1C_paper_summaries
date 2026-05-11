@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Artz Program"
 confidence: low
-tags: ["artz-program"]
+domain: intervention
+slug: artz-program
 sources:
-  - fxa100-week07-im-still-here-a-breakthrough-approach-to-understanding
+- fxa100-week07-im-still-here-a-breakthrough-approach-to-understanding
+tags:
+- artz-program
+title: Artz Program
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Motor Simulation"
 confidence: low
-tags: ["motor-simulation"]
+domain: theory
+slug: motor-simulation
 sources:
-  - fxa301-week02-the-role-of-similarity-sound-and-awareness-in-the
+- fxa301-week02-the-role-of-similarity-sound-and-awareness-in-the
+tags:
+- motor-simulation
+title: Motor Simulation
+type: topic
 updated: 2026-05-04
 ---
 

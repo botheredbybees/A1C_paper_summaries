@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts-Based Social Prescribing"
 confidence: low
-tags: ["arts-based-social-prescribing"]
+domain: intervention
+slug: arts-based-social-prescribing
 sources:
-  - fxa301-week03-implementing-creative-health
+- fxa301-week03-implementing-creative-health
+tags:
+- arts-based-social-prescribing
+title: Arts-Based Social Prescribing
+type: topic
 updated: 2026-05-04
 ---
 

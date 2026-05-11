@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Impact of Extracurricular Activities on Academic Performance"
 confidence: low
-tags: ["parcc-test-scores"]
+domain: intervention
+slug: impact-of-extracurricular-activities-on-academic-performance
 sources:
-  - fxa301-week08-the-effect-of-extracurricular-participation-on-academic
+- fxa301-week08-the-effect-of-extracurricular-participation-on-academic
+tags:
+- parcc-test-scores
+title: Impact of Extracurricular Activities on Academic Performance
+type: topic
 updated: 2026-05-04
 ---
 

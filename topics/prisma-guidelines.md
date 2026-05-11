@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Prisma Guidelines In Research"
 confidence: low
-tags: ["prisma-guidelines"]
+domain: method
+slug: prisma-guidelines-in-research
 sources:
-  - fxa303-week04-play-based-interventions-for-mental-health-a-systematic
+- fxa303-week04-play-based-interventions-for-mental-health-a-systematic
+tags:
+- prisma-guidelines
+title: Prisma Guidelines In Research
+type: topic
 updated: 2026-05-04
 ---
 

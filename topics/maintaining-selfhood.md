@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Maintaining Selfhood in Dementia Care"
 confidence: low
-tags: ["maintaining-selfhood"]
+domain: intervention
+slug: maintaining-selfhood-in-dementia-care
 sources:
-  - fxa100-week09-the-fundamentals-of-person-centered-care-for-individuals
+- fxa100-week09-the-fundamentals-of-person-centered-care-for-individuals
+tags:
+- maintaining-selfhood
+title: Maintaining Selfhood in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

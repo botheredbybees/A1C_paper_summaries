@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Emancipatory Research"
 confidence: low
-tags: ["emancipatory-research"]
+domain: method
+slug: emancipatory-research
 sources:
-  - fxa202-therapeutic-photography-ch04-2-reflexive-photography
+- fxa202-therapeutic-photography-ch04-2-reflexive-photography
+tags:
+- emancipatory-research
+title: Emancipatory Research
+type: topic
 updated: 2026-05-04
 ---
 

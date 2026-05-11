@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Motivation Theories"
 confidence: low
-tags: ["motivation-theories"]
+domain: theory
+slug: motivation-theories
 sources:
-  - fxa100-week10-web-article-brooker-2013
+- fxa100-week10-web-article-brooker-2013
+tags:
+- motivation-theories
+title: Motivation Theories
+type: topic
 updated: 2026-05-04
 ---
 

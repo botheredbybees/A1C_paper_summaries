@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Human Frailty in Palliative Care"
 confidence: low
-tags: ["human-frailty"]
+domain: intervention
+slug: human-frailty-in-palliative-care
 sources:
-  - fxa100-week04-dementia-discourse-a-rethink-(2)
+- fxa100-week04-dementia-discourse-a-rethink-(2)
+tags:
+- human-frailty
+title: Human Frailty in Palliative Care
+type: topic
 updated: 2026-05-04
 ---
 

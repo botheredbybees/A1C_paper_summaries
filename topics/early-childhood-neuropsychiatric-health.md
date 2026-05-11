@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Early Childhood Neuropsychiatric Health"
 confidence: low
-tags: ["early-childhood-neuropsychiatric-health"]
+domain: population
+slug: early-childhood-neuropsychiatric-health
 sources:
-  - fxa303-week02-imaging-structural-and-functional-brain-development-in
+- fxa303-week02-imaging-structural-and-functional-brain-development-in
+tags:
+- early-childhood-neuropsychiatric-health
+title: Early Childhood Neuropsychiatric Health
+type: topic
 updated: 2026-05-04
 ---
 

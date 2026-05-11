@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Rules of Composition in Photography"
 confidence: medium
-tags: ["composition-rules"]
+domain: method
+slug: rules-of-composition-in-photography
 sources:
   - fxa202-week02-10-tips-for-better-composition
   - fxa202-week02-improve-your-photography-skills-with-these-9-photo
-updated: 2026-05-03
+- fxa202-week02-10-tips-for-better-composition
+- fxa202-week02-improve-your-photography-skills-with-these-9-photo
+tags:
+- composition-rules
+title: Rules of Composition in Photography
+type: topic
+updated: 2026-05-11
 ---
 
 ## Rules of Composition in Photography

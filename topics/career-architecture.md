@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Career Architecture in Arts and Health"
 confidence: low
-tags: ["career-architecture"]
+domain: intervention
+slug: career-architecture-in-arts-and-health
 sources:
-  - fxa301-week03-advancing-practice-in-arts-in-health-artist-workforce
+- fxa301-week03-advancing-practice-in-arts-in-health-artist-workforce
+tags:
+- career-architecture
+title: Career Architecture in Arts and Health
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Free And Reduced Lunch Eligibility"
 confidence: low
-tags: ["free-and-reduced-lunch-eligibility"]
+domain: population
+slug: free-and-reduced-lunch-eligibility
 sources:
-  - fxa301-week08-the-effect-of-extracurricular-participation-on-academic
+- fxa301-week08-the-effect-of-extracurricular-participation-on-academic
+tags:
+- free-and-reduced-lunch-eligibility
+title: Free And Reduced Lunch Eligibility
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Aphasia Management Through Choir Participation"
 confidence: low
-tags: ["aphasia-management"]
+domain: intervention
+slug: aphasia-management-through-choir-participation
 sources:
-  - fxa301-week09-stroke-choirs-stroke-recovery-association-nsw
+- fxa301-week09-stroke-choirs-stroke-recovery-association-nsw
+tags:
+- aphasia-management
+title: Aphasia Management Through Choir Participation
+type: topic
 updated: 2026-05-04
 ---
 

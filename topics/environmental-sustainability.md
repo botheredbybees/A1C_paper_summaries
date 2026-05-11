@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Environmental Sustainability in Cultural Institutions"
 confidence: low
-tags: ["environmental-sustainability"]
+domain: intervention
+slug: environmental-sustainability-in-cultural-institutions
 sources:
-  - fxa301-week05-happy-museum-project-principles
+- fxa301-week05-happy-museum-project-principles
+tags:
+- environmental-sustainability
+title: Environmental Sustainability in Cultural Institutions
+type: topic
 updated: 2026-05-04
 ---
 

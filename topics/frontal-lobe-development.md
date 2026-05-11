@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Frontal Lobe Development"
 confidence: low
-tags: ["frontal-lobe-development"]
+domain: theory
+slug: frontal-lobe-development
 sources:
-  - fxa303-week02-lesson-fxa303-week02-introduction-copy
+- fxa303-week02-lesson-fxa303-week02-introduction-copy
+tags:
+- frontal-lobe-development
+title: Frontal Lobe Development
+type: topic
 updated: 2026-05-04
 ---
 

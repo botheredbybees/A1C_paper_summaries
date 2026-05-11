@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Art Therapy for Alzheimer's Patients"
 confidence: low
-tags: ["art-therapy-for-alzheimers"]
+domain: intervention
+slug: art-therapy-for-alzheimer-s-patients
 sources:
-  - fxa100-week07-lesson-fxa100-week07-page-2-artz-artists-for-alzheimer-s
+- fxa100-week07-lesson-fxa100-week07-page-2-artz-artists-for-alzheimer-s
+tags:
+- art-therapy-for-alzheimers
+title: Art Therapy for Alzheimer's Patients
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music Therapy and Cognitive Stimulation for Dementia Patients"
 confidence: medium
-tags: ["cognitive-stimulation-through-music"]
+domain: intervention
+slug: music-therapy-and-cognitive-stimulation-for-dementia-patients
 sources:
-  - fxa100-week04-transcript-music-therapy-and-people-with-advanced-dementia
-  - fxa100-week04-transcript-music-therapy-comforts-soothes-those-with-varying
+- fxa100-week04-transcript-music-therapy-and-people-with-advanced-dementia
+- fxa100-week04-transcript-music-therapy-comforts-soothes-those-with-varying
+tags:
+- cognitive-stimulation-through-music
+title: Music Therapy and Cognitive Stimulation for Dementia Patients
+type: topic
 updated: 2026-05-04
 ---
 

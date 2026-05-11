@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Trauma Recovery Through Creative Arts and Therapies"
 confidence: high
-tags: ["trauma-recovery"]
+domain: intervention
+slug: trauma-recovery-through-creative-arts-and-therapies
 sources:
   - fxa202-week06-donna-a-photo-essay
   - fxa202-week09-healing-through-art-and-music
@@ -15,7 +13,23 @@ sources:
   - fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon
   - fxa303-week09-lesson-fxa303-week09-page-1-overview
   - fxa303-week09-lesson-fxa303-week09-page-3-case-studies
-updated: 2026-05-05
+  - fxa303-week11-healing-arts-safe-place-for-youth
+  - fxa303-week11-the-one-thing-that-actually-helps-art-creation-as-a-self
+- fxa202-week06-donna-a-photo-essay
+- fxa202-week09-healing-through-art-and-music
+- fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture
+- fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music
+- fxa301-week10-lesson-fxa301-week10-page-1
+- fxa301-week10-social-action-in-art-therapy-with-veterans
+- fxa303-week01-trauma-aps
+- fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon
+- fxa303-week09-lesson-fxa303-week09-page-1-overview
+- fxa303-week09-lesson-fxa303-week09-page-3-case-studies
+tags:
+- trauma-recovery
+title: Trauma Recovery Through Creative Arts and Therapies
+type: topic
+updated: 2026-05-11
 ---
 
 ## Trauma Recovery Through Creative Arts and Therapies
@@ -44,3 +58,5 @@ The sources collectively highlight the multifaceted role of creative arts and th
 - [fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon](../sources/fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon.md)
 - [fxa303-week09-lesson-fxa303-week09-page-1-overview](../sources/fxa303-week09-lesson-fxa303-week09-page-1-overview.md)
 - [fxa303-week09-lesson-fxa303-week09-page-3-case-studies](../sources/fxa303-week09-lesson-fxa303-week09-page-3-case-studies.md)
+- [fxa303-week11-healing-arts-safe-place-for-youth](../sources/fxa303-week11-healing-arts-safe-place-for-youth.md)
+- [fxa303-week11-the-one-thing-that-actually-helps-art-creation-as-a-self](../sources/fxa303-week11-the-one-thing-that-actually-helps-art-creation-as-a-self.md)

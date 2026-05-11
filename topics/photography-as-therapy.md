@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Photography as Therapy"
 confidence: medium
-tags: ["photography-as-therapy"]
+domain: intervention
+slug: photography-as-therapy
 sources:
   - fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay
   - fxa202-week03-can-photography-help-depression
   - fxa202-week09-the-largs-pier-a-visual-story-of-grief-and-healing
-updated: 2026-05-05
+- fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay
+- fxa202-week03-can-photography-help-depression
+- fxa202-week09-the-largs-pier-a-visual-story-of-grief-and-healing
+tags:
+- photography-as-therapy
+title: Photography as Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Photography as Therapy

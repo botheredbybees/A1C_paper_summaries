@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Transcendental Universality in Wisdom Poetry"
 confidence: low
-tags: ["transcendental-universality"]
+domain: theory
+slug: transcendental-universality-in-wisdom-poetry
 sources:
-  - fxa301-week08-wisdom-poetry-trialogue
+- fxa301-week08-wisdom-poetry-trialogue
+tags:
+- transcendental-universality
+title: Transcendental Universality in Wisdom Poetry
+type: topic
 updated: 2026-05-04
 ---
 

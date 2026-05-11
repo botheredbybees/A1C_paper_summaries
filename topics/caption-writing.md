@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "intervention"
-title: "Visual Storytelling Through Caption Writing"
 confidence: high
-tags: ["caption-writing"]
+domain: intervention
+slug: visual-storytelling-through-caption-writing
 sources:
   - fxa202-week05-introduction-to-visual-storytelling
   - fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling
   - fxa202-week05-week-5-introduction-to-storytelling
   - fxa202-week06-lesson-fxa202-week06-page-4
-updated: 2026-05-04
+- fxa202-week05-introduction-to-visual-storytelling
+- fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling
+- fxa202-week05-week-5-introduction-to-storytelling
+- fxa202-week06-lesson-fxa202-week06-page-4
+tags:
+- caption-writing
+title: Visual Storytelling Through Caption Writing
+type: topic
+updated: 2026-05-11
 ---
 
 ## Visual Storytelling Through Caption Writing

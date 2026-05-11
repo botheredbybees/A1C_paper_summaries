@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Feedback and Improvement"
 confidence: low
-tags: ["feedback-improvement"]
+domain: method
+slug: feedback-and-improvement
 sources:
-  - fxa202-week09-fxa202-week-9-web-lecture-the-photo-essay-storytelling-with
+- fxa202-week09-fxa202-week-9-web-lecture-the-photo-essay-storytelling-with
+tags:
+- feedback-improvement
+title: Feedback and Improvement
+type: topic
 updated: 2026-05-04
 ---
 

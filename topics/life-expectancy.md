@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Life Expectancy"
 confidence: low
-tags: ["life-expectancy"]
+domain: population
+slug: life-expectancy
 sources:
-  - fxa301-week05-the-2024-happy-planet-index
+- fxa301-week05-the-2024-happy-planet-index
+tags:
+- life-expectancy
+title: Life Expectancy
+type: topic
 updated: 2026-05-04
 ---
 

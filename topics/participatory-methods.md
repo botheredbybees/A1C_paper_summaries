@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Participatory Methods"
 confidence: low
-tags: ["participatory-methods"]
+domain: method
+slug: participatory-methods
 sources:
-  - fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of
+- fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of
+tags:
+- participatory-methods
+title: Participatory Methods
+type: topic
 updated: 2026-05-04
 ---
 

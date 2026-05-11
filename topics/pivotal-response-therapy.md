@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Pivotal Response Therapy"
 confidence: low
-tags: ["pivotal-response-therapy"]
+domain: intervention
+slug: pivotal-response-therapy
 sources:
-  - fxa303-week04-play-and-arts-based-therapies
+- fxa303-week04-play-and-arts-based-therapies
+tags:
+- pivotal-response-therapy
+title: Pivotal Response Therapy
+type: topic
 updated: 2026-05-04
 ---
 

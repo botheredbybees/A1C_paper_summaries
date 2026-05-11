@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Intensive Child-Centered Play Therapy"
 confidence: low
-tags: ["intensive-child-centered-play-therapy"]
+domain: intervention
+slug: intensive-child-centered-play-therapy
 sources:
-  - fxa303-week04-intensive-child-centered-play-therapy-for-children-on-the
+- fxa303-week04-intensive-child-centered-play-therapy-for-children-on-the
+tags:
+- intensive-child-centered-play-therapy
+title: Intensive Child-Centered Play Therapy
+type: topic
 updated: 2026-05-04
 ---
 

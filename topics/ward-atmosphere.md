@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Ward Atmosphere"
 confidence: low
-tags: ["ward-atmosphere"]
+domain: intervention
+slug: ward-atmosphere
 sources:
-  - fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent
+- fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent
+tags:
+- ward-atmosphere
+title: Ward Atmosphere
+type: topic
 updated: 2026-05-04
 ---
 

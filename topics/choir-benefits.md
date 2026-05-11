@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Choir Benefits"
 confidence: medium
-tags: ["choir-benefits"]
+domain: intervention
+slug: choir-benefits
 sources:
   - fxa301-week06-sing-while-you-work-the-well-being-benefits-of-workplace
   - fxa301-week09-stroke-choirs-stroke-recovery-association-nsw
-updated: 2026-05-04
+- fxa301-week06-sing-while-you-work-the-well-being-benefits-of-workplace
+- fxa301-week09-stroke-choirs-stroke-recovery-association-nsw
+tags:
+- choir-benefits
+title: Choir Benefits
+type: topic
+updated: 2026-05-11
 ---
 
 ## Choir Benefits

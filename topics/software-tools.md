@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Software Tools"
 confidence: low
-tags: ["software-tools"]
+domain: method
+slug: software-tools
 sources:
-  - fxa202-week08-lesson-fxa202-week08-page-4
+- fxa202-week08-lesson-fxa202-week08-page-4
+tags:
+- software-tools
+title: Software Tools
+type: topic
 updated: 2026-05-04
 ---
 

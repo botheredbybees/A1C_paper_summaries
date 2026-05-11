@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Art as Self-Expression"
 confidence: low
-tags: ["art-as-self-expression"]
+domain: intervention
+slug: art-as-self-expression
 sources:
-  - fxa301-week09-how-josie-webster-is-conquering-the-art-world-with
+- fxa301-week09-how-josie-webster-is-conquering-the-art-world-with
+tags:
+- art-as-self-expression
+title: Art as Self-Expression
+type: topic
 updated: 2026-05-04
 ---
 

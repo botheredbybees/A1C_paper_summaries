@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Early Diagnosis of Dementia"
 confidence: low
-tags: ["early-diagnosis-of-dementia"]
+domain: intervention
+slug: early-diagnosis-of-dementia
 sources:
-  - fxa100-excellence-in-dementia-care--ch03-chapter-12
+- fxa100-excellence-in-dementia-care--ch03-chapter-12
+tags:
+- early-diagnosis-of-dementia
+title: Early Diagnosis of Dementia
+type: topic
 updated: 2026-05-04
 ---
 

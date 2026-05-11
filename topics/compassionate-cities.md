@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Compassionate Cities"
 confidence: low
-tags: ["compassionate-cities"]
+domain: theory
+slug: compassionate-cities
 sources:
-  - fxa100-excellence-in-dementia-care--ch33-1-place-covers-the-person
+- fxa100-excellence-in-dementia-care--ch33-1-place-covers-the-person
+tags:
+- compassionate-cities
+title: Compassionate Cities
+type: topic
 updated: 2026-05-04
 ---
 

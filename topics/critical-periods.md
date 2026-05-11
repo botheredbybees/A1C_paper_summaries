@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Critical Periods in Development"
 confidence: low
-tags: ["critical-periods"]
+domain: theory
+slug: critical-periods-in-development
 sources:
-  - fxa303-week03-developmental-psychology-from-infancy-to-adulthood
+- fxa303-week03-developmental-psychology-from-infancy-to-adulthood
+tags:
+- critical-periods
+title: Critical Periods in Development
+type: topic
 updated: 2026-05-04
 ---
 

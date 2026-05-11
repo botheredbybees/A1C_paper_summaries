@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Child-Centered Play Therapy and Puppet Use in Autism Interventions"
 confidence: medium
-tags: ["literature-review"]
+domain: intervention
+slug: child-centered-play-therapy-and-puppet-use-in-autism-interventions
 sources:
   - fxa303-week04-child-centered-play-therapy-as-an-intervention-for-children
   - fxa303-week05-puppet-as-a-pedagogical-tool-a-literature-review
-updated: 2026-05-04
+- fxa303-week04-child-centered-play-therapy-as-an-intervention-for-children
+- fxa303-week05-puppet-as-a-pedagogical-tool-a-literature-review
+tags:
+- literature-review
+title: Child-Centered Play Therapy and Puppet Use in Autism Interventions
+type: topic
+updated: 2026-05-11
 ---
 
 ## Child-Centered Play Therapy and Puppet Use in Autism Interventions

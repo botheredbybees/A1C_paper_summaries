@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Tau Pathology"
 confidence: low
-tags: ["tau-pathology"]
+domain: intervention
+slug: tau-pathology
 sources:
-  - fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a
+- fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a
+tags:
+- tau-pathology
+title: Tau Pathology
+type: topic
 updated: 2026-05-04
 ---
 

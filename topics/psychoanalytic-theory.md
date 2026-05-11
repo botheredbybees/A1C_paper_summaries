@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Psychoanalytic Theory"
 confidence: low
-tags: ["psychoanalytic-theory"]
+domain: theory
+slug: psychoanalytic-theory
 sources:
-  - fxa301-week06-psychoanalysis-and-el-sistema-human-development-through
+- fxa301-week06-psychoanalysis-and-el-sistema-human-development-through
+tags:
+- psychoanalytic-theory
+title: Psychoanalytic Theory
+type: topic
 updated: 2026-05-04
 ---
 

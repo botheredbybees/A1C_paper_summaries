@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Art Therapies in Dementia Care"
 confidence: low
-tags: ["art-therapies-in-dementia-care"]
+domain: intervention
+slug: art-therapies-in-dementia-care
 sources:
-  - fxa100-week08-lesson-fxa100-week07-page-3-stimulating-engagement
+- fxa100-week08-lesson-fxa100-week07-page-3-stimulating-engagement
+tags:
+- art-therapies-in-dementia-care
+title: Art Therapies in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

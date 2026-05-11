@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts-Based Therapy"
 confidence: medium
-tags: ["arts-based-therapy"]
+domain: intervention
+slug: arts-based-therapy
 sources:
   - fxa301-oxford-textbook-of-creative-arts-ch22-chapter-7
   - fxa303-week10-fxa303-web-lecture-week-10-guidance-on-assessment-task-4
   - fxa303-week10-indigenous-methodology-an-ethical-systems-approach-to-arts
-updated: 2026-05-06
+- fxa301-oxford-textbook-of-creative-arts-ch22-chapter-7
+- fxa303-week10-fxa303-web-lecture-week-10-guidance-on-assessment-task-4
+- fxa303-week10-indigenous-methodology-an-ethical-systems-approach-to-arts
+tags:
+- arts-based-therapy
+title: Arts-Based Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Arts-Based Therapy

@@ -1,16 +1,23 @@
 ---
-type: topic
-domain: "intervention"
-title: "Child-Centered Play Therapy for Autism"
 confidence: high
-tags: ["child-therapy"]
+domain: intervention
+slug: child-centered-play-therapy-for-autism
 sources:
   - fxa303-week04-brief-report-emotion-regulation-in-autism-is-improved-in-a
   - fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves
   - fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)
   - fxa303-week04-intensive-child-centered-play-therapy-for-children-on-the
   - fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children
-updated: 2026-05-04
+- fxa303-week04-brief-report-emotion-regulation-in-autism-is-improved-in-a
+- fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves
+- fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)
+- fxa303-week04-intensive-child-centered-play-therapy-for-children-on-the
+- fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children
+tags:
+- child-therapy
+title: Child-Centered Play Therapy for Autism
+type: topic
+updated: 2026-05-11
 ---
 
 ## Child-Centered Play Therapy for Autism

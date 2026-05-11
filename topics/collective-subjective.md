@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Collective Subjectivity in Dementia Care"
 confidence: low
-tags: ["collective-subjective"]
+domain: theory
+slug: collective-subjectivity-in-dementia-care
 sources:
-  - fxa100-how-we-thnk-about-dementia-ch15-chapter-9
+- fxa100-how-we-thnk-about-dementia-ch15-chapter-9
+tags:
+- collective-subjective
+title: Collective Subjectivity in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

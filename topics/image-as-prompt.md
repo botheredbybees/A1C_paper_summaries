@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Image As Prompt"
 confidence: low
-tags: ["image-as-prompt"]
+domain: method
+slug: image-as-prompt
 sources:
-  - fxa202-week06-lesson-fxa202-week06-page-4
+- fxa202-week06-lesson-fxa202-week06-page-4
+tags:
+- image-as-prompt
+title: Image As Prompt
+type: topic
 updated: 2026-05-04
 ---
 

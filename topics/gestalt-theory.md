@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Gestalt Theory"
 confidence: low
-tags: ["gestalt-theory"]
+domain: theory
+slug: gestalt-theory
 sources:
-  - fxa301-week02-neckers-smile-immediate-affective-consequences-of-early
+- fxa301-week02-neckers-smile-immediate-affective-consequences-of-early
+tags:
+- gestalt-theory
+title: Gestalt Theory
+type: topic
 updated: 2026-05-04
 ---
 

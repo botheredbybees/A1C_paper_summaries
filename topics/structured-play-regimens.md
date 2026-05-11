@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Structured Play Regimens"
 confidence: low
-tags: ["structured-play-regimens"]
+domain: intervention
+slug: structured-play-regimens
 sources:
-  - fxa303-week02-free-play-and-childrens-mental-health
+- fxa303-week02-free-play-and-childrens-mental-health
+tags:
+- structured-play-regimens
+title: Structured Play Regimens
+type: topic
 updated: 2026-05-04
 ---
 

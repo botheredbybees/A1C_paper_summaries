@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Benefits Of Photography"
 confidence: medium
-tags: ["therapeutic-benefits-of-photography"]
+domain: intervention
+slug: therapeutic-benefits-of-photography
 sources:
-  - fxa202-week03-can-photography-help-depression
-  - fxa202-week10-critical-reflection-my-photo-essay
+- fxa202-week03-can-photography-help-depression
+- fxa202-week10-critical-reflection-my-photo-essay
+tags:
+- therapeutic-benefits-of-photography
+title: Therapeutic Benefits Of Photography
+type: topic
 updated: 2026-05-04
 ---
 

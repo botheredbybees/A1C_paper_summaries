@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Non-pharmacological Interventions for Dementia Care"
 confidence: medium
-tags: ["non-pharmacological-intervention"]
+domain: intervention
+slug: non-pharmacological-interventions-for-dementia-care
 sources:
   - fxa100-week03-implementation-survey-results-wisconsin-music-memory-program
   - fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a
-updated: 2026-05-04
+- fxa100-week03-implementation-survey-results-wisconsin-music-memory-program
+- fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a
+tags:
+- non-pharmacological-intervention
+title: Non-pharmacological Interventions for Dementia Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Non-pharmacological Interventions for Dementia Care

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Consequences of Victimization"
 confidence: low
-tags: ["victimization-consequences"]
+domain: intervention
+slug: consequences-of-victimization
 sources:
-  - fxa301-week05-social-cohesion-and-pro-social-responses-to-perceptions-of
+- fxa301-week05-social-cohesion-and-pro-social-responses-to-perceptions-of
+tags:
+- victimization-consequences
+title: Consequences of Victimization
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Convention On The Rights Of Persons With Disabilities"
 confidence: low
-tags: ["convention-on-the-rights-of-persons-with-disabilities-crpd"]
+domain: theory
+slug: convention-on-the-rights-of-persons-with-disabilities
 sources:
-  - fxa301-week09-rights-of-people-with-disability
+- fxa301-week09-rights-of-people-with-disability
+tags:
+- convention-on-the-rights-of-persons-with-disabilities-crpd
+title: Convention On The Rights Of Persons With Disabilities
+type: topic
 updated: 2026-05-04
 ---
 

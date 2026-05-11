@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Regional Artistic Diversity"
 confidence: low
-tags: ["regional-artistic-diversity"]
+domain: theory
+slug: regional-artistic-diversity
 sources:
-  - fxa100-week04-the-evolution-of-human-artistic-creativity
+- fxa100-week04-the-evolution-of-human-artistic-creativity
+tags:
+- regional-artistic-diversity
+title: Regional Artistic Diversity
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Integration In Social Commentary"
 confidence: low
-tags: ["integration-in-social-commentary"]
+domain: intervention
+slug: integration-in-social-commentary
 sources:
-  - fxa303-week05-thats-the-way-to-do-it-a-history-of-punch-judy
+- fxa303-week05-thats-the-way-to-do-it-a-history-of-punch-judy
+tags:
+- integration-in-social-commentary
+title: Integration In Social Commentary
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sensory Experience in Creative Arts and Play"
 confidence: medium
-tags: ["sensory-experience"]
+domain: intervention
+slug: sensory-experience-in-creative-arts-and-play
 sources:
-  - fxa202-week10-my-daddy-and-me-navigating-the-japanese-gardens-at-the
-  - fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental
+- fxa202-week10-my-daddy-and-me-navigating-the-japanese-gardens-at-the
+- fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental
+tags:
+- sensory-experience
+title: Sensory Experience in Creative Arts and Play
+type: topic
 updated: 2026-05-04
 ---
 

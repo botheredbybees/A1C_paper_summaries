@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Virginity Pledges and Sexual Health"
 confidence: low
-tags: ["virginity"]
+domain: intervention
+slug: virginity-pledges-and-sexual-health
 sources:
-  - fxa301-week08-transcript-sharing-stories-after-school-ill-marry-you-23-nov
+- fxa301-week08-transcript-sharing-stories-after-school-ill-marry-you-23-nov
+tags:
+- virginity
+title: Virginity Pledges and Sexual Health
+type: topic
 updated: 2026-05-04
 ---
 

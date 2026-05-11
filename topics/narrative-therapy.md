@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Narrative Therapy"
 confidence: medium
-tags: ["narrative-therapy"]
+domain: intervention
+slug: narrative-therapy
 sources:
   - fxa100-week07-creating-resources-memory-trees-and-boxes
   - fxa202-therapeutic-photography-ch05-1-photographs-are-used-to-record-inventories-such-as-objects
   - fxa303-week06-using-puppets-with-children-in-narrative-therapy-to
-updated: 2026-05-04
+- fxa100-week07-creating-resources-memory-trees-and-boxes
+- fxa202-therapeutic-photography-ch05-1-photographs-are-used-to-record-inventories-such-as-objects
+- fxa303-week06-using-puppets-with-children-in-narrative-therapy-to
+tags:
+- narrative-therapy
+title: Narrative Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Narrative Therapy

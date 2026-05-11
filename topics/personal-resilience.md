@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "theory"
-title: "Personal Resilience"
 confidence: medium
-tags: ["personal-resilience"]
+domain: theory
+slug: personal-resilience
 sources:
   - fxa202-week06-rediscovering-joy-during-lockdown
   - fxa202-week06-remembrance
-updated: 2026-05-04
+- fxa202-week06-rediscovering-joy-during-lockdown
+- fxa202-week06-remembrance
+tags:
+- personal-resilience
+title: Personal Resilience
+type: topic
+updated: 2026-05-11
 ---
 
 ## Personal Resilience

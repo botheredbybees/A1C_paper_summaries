@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Community Identity Markers"
 confidence: low
-tags: ["community-identity-markers"]
+domain: population
+slug: community-identity-markers
 sources:
-  - fxa301-make-arts-for-a-better-life-ch04-6-the-barefoot-guide-to-working-with-organisations-and
+- fxa301-make-arts-for-a-better-life-ch04-6-the-barefoot-guide-to-working-with-organisations-and
+tags:
+- community-identity-markers
+title: Community Identity Markers
+type: topic
 updated: 2026-05-04
 ---
 

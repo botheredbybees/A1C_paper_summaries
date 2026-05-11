@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Mood-Congruent Emotional Responding"
 confidence: medium
-tags: ["emotional-responses"]
+domain: intervention
+slug: mood-congruent-emotional-responding
 sources:
   - fxa202-week01-week-1-lecture-transcript
   - fxa301-week02-misery-loves-company-mood-congruent-emotional-responding-to
-updated: 2026-05-04
+- fxa202-week01-week-1-lecture-transcript
+- fxa301-week02-misery-loves-company-mood-congruent-emotional-responding-to
+tags:
+- emotional-responses
+title: Mood-Congruent Emotional Responding
+type: topic
+updated: 2026-05-11
 ---
 
 ## Mood-Congruent Emotional Responding

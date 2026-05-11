@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Supporting Children Experiencing Trauma"
 confidence: medium
-tags: ["child-trauma"]
+domain: intervention
+slug: supporting-children-experiencing-trauma
 sources:
   - fxa303-week01-teachers-perspectives-on-providing-support-to-children
   - fxa303-week09-using-creative-techniques-with-children-who-have
-updated: 2026-05-04
+- fxa303-week01-teachers-perspectives-on-providing-support-to-children
+- fxa303-week09-using-creative-techniques-with-children-who-have
+tags:
+- child-trauma
+title: Supporting Children Experiencing Trauma
+type: topic
+updated: 2026-05-11
 ---
 
 ## Supporting Children Experiencing Trauma

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Playfulness in Children"
 confidence: low
-tags: ["playfulness"]
+domain: intervention
+slug: playfulness-in-children
 sources:
-  - fxa303-week08-the-effect-of-medicaltherapeutic-clowns-on-the-playfulness
+- fxa303-week08-the-effect-of-medicaltherapeutic-clowns-on-the-playfulness
+tags:
+- playfulness
+title: Playfulness in Children
+type: topic
 updated: 2026-05-04
 ---
 

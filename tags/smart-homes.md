@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: smart-homes
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Smart Homes

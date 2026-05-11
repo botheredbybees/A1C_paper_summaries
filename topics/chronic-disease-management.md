@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Chronic Disease Management"
 confidence: medium
-tags: ["chronic-disease-management"]
+domain: intervention
+slug: chronic-disease-management
 sources:
   - fxa202-week10-type1-diabetes-story-a-familys-journey
   - fxa301-week03-executive-summary-creative-health-review
-updated: 2026-05-04
+- fxa202-week10-type1-diabetes-story-a-familys-journey
+- fxa301-week03-executive-summary-creative-health-review
+tags:
+- chronic-disease-management
+title: Chronic Disease Management
+type: topic
+updated: 2026-05-11
 ---
 
 ## Chronic Disease Management

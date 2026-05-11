@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Cluster-Randomized Controlled Trials"
 confidence: low
-tags: ["cluster-randomized-controlled-trial"]
+domain: method
+slug: cluster-randomized-controlled-trials
 sources:
-  - fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster
+- fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster
+tags:
+- cluster-randomized-controlled-trial
+title: Cluster-Randomized Controlled Trials
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Excess Disability Reduction"
 confidence: low
-tags: ["excess-disability-reduction"]
+domain: intervention
+slug: excess-disability-reduction
 sources:
-  - fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia
+- fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia
+tags:
+- excess-disability-reduction
+title: Excess Disability Reduction
+type: topic
 updated: 2026-05-04
 ---
 

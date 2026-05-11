@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Play Therapy for Trauma in Children"
 confidence: medium
-tags: ["trauma-intervention"]
+domain: intervention
+slug: play-therapy-for-trauma-in-children
 sources:
   - fxa303-week09-exploring-child-centered-play-therapy-and-trauma-a
   - fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms
   - fxa303-week10-fxa303-web-lecture-week-10-guidance-on-assessment-task-4
-updated: 2026-05-06
+- fxa303-week09-exploring-child-centered-play-therapy-and-trauma-a
+- fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms
+- fxa303-week10-fxa303-web-lecture-week-10-guidance-on-assessment-task-4
+tags:
+- trauma-intervention
+title: Play Therapy for Trauma in Children
+type: topic
+updated: 2026-05-11
 ---
 
 ## Play Therapy for Trauma in Children

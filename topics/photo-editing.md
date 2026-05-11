@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Photo Editing Techniques"
 confidence: medium
-tags: ["photo-editing"]
+domain: intervention
+slug: photo-editing-techniques
 sources:
   - fxa202-week02-a-beginners-guide-to-photo-editing-with-snapseed
   - fxa202-week08-lesson-fxa202-week08-page-3
-updated: 2026-05-04
+- fxa202-week02-a-beginners-guide-to-photo-editing-with-snapseed
+- fxa202-week08-lesson-fxa202-week08-page-3
+tags:
+- photo-editing
+title: Photo Editing Techniques
+type: topic
+updated: 2026-05-11
 ---
 
 ## Photo Editing Techniques

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Timeslips Intervention Program"
 confidence: low
-tags: ["timeslips-intervention-program"]
+domain: intervention
+slug: timeslips-intervention-program
 sources:
-  - fxa100-week10-the-impact-of-timeslips-a-creative-expression-intervention
+- fxa100-week10-the-impact-of-timeslips-a-creative-expression-intervention
+tags:
+- timeslips-intervention-program
+title: Timeslips Intervention Program
+type: topic
 updated: 2026-05-04
 ---
 

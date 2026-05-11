@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Vagal System in Trauma Therapy"
 confidence: low
-tags: ["vagal-system"]
+domain: intervention
+slug: vagal-system-in-trauma-therapy
 sources:
-  - fxa303-trauma-and-expressive-arts-ch04-1-slowly-exhale-through-your-mouth
+- fxa303-trauma-and-expressive-arts-ch04-1-slowly-exhale-through-your-mouth
+tags:
+- vagal-system
+title: Vagal System in Trauma Therapy
+type: topic
 updated: 2026-05-04
 ---
 

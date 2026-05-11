@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "intervention"
-title: "Evaluation and Research in Healthcare"
 confidence: medium
-tags: ["complex-interventions"]
+domain: intervention
+slug: evaluation-and-research-in-healthcare
 sources:
-  - fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision
-  - fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision-(2)
-  - fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37-(2)
+- fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision
+- fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision-(2)
+- fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37-(2)
+tags:
+- complex-interventions
+title: Evaluation and Research in Healthcare
+type: topic
 updated: 2026-05-04
 ---
 

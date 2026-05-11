@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Connections in Dementia Care"
 confidence: low
-tags: ["emotional-connections"]
+domain: intervention
+slug: emotional-connections-in-dementia-care
 sources:
-  - fxa100-how-we-thnk-about-dementia-ch08-chapter-4
+- fxa100-how-we-thnk-about-dementia-ch08-chapter-4
+tags:
+- emotional-connections
+title: Emotional Connections in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

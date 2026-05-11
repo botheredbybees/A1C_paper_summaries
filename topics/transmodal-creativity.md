@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Transmodal Creativity"
 confidence: low
-tags: ["transmodal-creativity"]
+domain: intervention
+slug: transmodal-creativity
 sources:
-  - fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the
+- fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the
+tags:
+- transmodal-creativity
+title: Transmodal Creativity
+type: topic
 updated: 2026-05-04
 ---
 

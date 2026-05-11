@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "intervention"
-title: "Dopamine Release and Its Impact on Wellbeing"
 confidence: medium
-tags: ["dopamine-release"]
+domain: intervention
+slug: dopamine-release-and-its-impact-on-wellbeing
 sources:
-  - fxa100-week03-listening-and-dementia-care
-  - fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care
-  - fxa100-week06-transcript-art-gives-same-level-of-pleasure-as-being-in-love
+- fxa100-week03-listening-and-dementia-care
+- fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care
+- fxa100-week06-transcript-art-gives-same-level-of-pleasure-as-being-in-love
+tags:
+- dopamine-release
+title: Dopamine Release and Its Impact on Wellbeing
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Normalization Prediction in Autism Research"
 confidence: low
-tags: ["normalization-prediction"]
+domain: theory
+slug: normalization-prediction-in-autism-research
 sources:
-  - fxa303-week04-evidence-against-the-normalization-prediction-of-the-early
+- fxa303-week04-evidence-against-the-normalization-prediction-of-the-early
+tags:
+- normalization-prediction
+title: Normalization Prediction in Autism Research
+type: topic
 updated: 2026-05-04
 ---
 

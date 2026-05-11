@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cultural Theater"
 confidence: low
-tags: ["cultural-theater"]
+domain: intervention
+slug: cultural-theater
 sources:
-  - fxa100-week09-transcript-this-video-by-theater-veder-netherlands-gives-an
+- fxa100-week09-transcript-this-video-by-theater-veder-netherlands-gives-an
+tags:
+- cultural-theater
+title: Cultural Theater
+type: topic
 updated: 2026-05-04
 ---
 

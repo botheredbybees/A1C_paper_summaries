@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Confidentiality In Arts-Based Health Research"
 confidence: low
-tags: ["confidentiality"]
+domain: theory
+slug: confidentiality-in-arts-based-health-research
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch02-chapter-11-(2)
+- fxa301-oxford-textbook-of-creative-arts-ch02-chapter-11-(2)
+tags:
+- confidentiality
+title: Confidentiality In Arts-Based Health Research
+type: topic
 updated: 2026-05-04
 ---
 

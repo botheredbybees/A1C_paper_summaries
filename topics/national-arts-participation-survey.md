@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "National Arts Participation Survey"
 confidence: low
-tags: ["national-arts-participation-survey"]
+domain: population
+slug: national-arts-participation-survey
 sources:
-  - fxa301-week01-web-article-australia-2019
+- fxa301-week01-web-article-australia-2019
+tags:
+- national-arts-participation-survey
+title: National Arts Participation Survey
+type: topic
 updated: 2026-05-04
 ---
 

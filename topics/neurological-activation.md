@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Neurological Activation Through Music Therapy"
 confidence: low
-tags: ["neurological-activation"]
+domain: intervention
+slug: neurological-activation-through-music-therapy
 sources:
-  - fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees
+- fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees
+tags:
+- neurological-activation
+title: Neurological Activation Through Music Therapy
+type: topic
 updated: 2026-05-04
 ---
 

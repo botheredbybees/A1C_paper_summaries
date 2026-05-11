@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Quality Of Life Improvement For Dementia Patients"
 confidence: low
-tags: ["quality-of-life-improvement-for-dementia-patients"]
+domain: intervention
+slug: quality-of-life-improvement-for-dementia-patients
 sources:
-  - fxa100-week03-music-memory-the-ipod-project-video-transcript
+- fxa100-week03-music-memory-the-ipod-project-video-transcript
+tags:
+- quality-of-life-improvement-for-dementia-patients
+title: Quality Of Life Improvement For Dementia Patients
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Youth Health Through Arts and Dance"
 confidence: medium
-tags: ["youth-health"]
+domain: intervention
+slug: youth-health-through-arts-and-dance
 sources:
   - fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and
   - fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and
-updated: 2026-05-04
+- fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and
+- fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and
+tags:
+- youth-health
+title: Youth Health Through Arts and Dance
+type: topic
+updated: 2026-05-11
 ---
 
 ## Youth Health Through Arts and Dance

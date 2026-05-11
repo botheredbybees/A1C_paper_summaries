@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Arts-Based Interventions for Negative Mood"
 confidence: low
-tags: ["negative-mood"]
+domain: intervention
+slug: creative-arts-based-interventions-for-negative-mood
 sources:
-  - fxa303-week09-effectiveness-of-creative-arts-based-interventions-for
+- fxa303-week09-effectiveness-of-creative-arts-based-interventions-for
+tags:
+- negative-mood
+title: Creative Arts-Based Interventions for Negative Mood
+type: topic
 updated: 2026-05-04
 ---
 

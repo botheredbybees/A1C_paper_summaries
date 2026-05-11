@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Photographic Composition Techniques"
 confidence: medium
-tags: ["composition-techniques"]
+domain: method
+slug: photographic-composition-techniques
 sources:
   - fxa202-week02-getting-to-know-your-camera
   - fxa202-week02-photography-tips-point-of-view-composition
-updated: 2026-05-03
+- fxa202-week02-getting-to-know-your-camera
+- fxa202-week02-photography-tips-point-of-view-composition
+tags:
+- composition-techniques
+title: Photographic Composition Techniques
+type: topic
+updated: 2026-05-11
 ---
 
 ## Photographic Composition Techniques

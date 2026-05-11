@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Transcendent Function in Therapy"
 confidence: low
-tags: ["transcendent-function"]
+domain: intervention
+slug: transcendent-function-in-therapy
 sources:
-  - fxa303-week08-clown-therapy-a-drama-therapy-approach-to-addiction-and
+- fxa303-week08-clown-therapy-a-drama-therapy-approach-to-addiction-and
+tags:
+- transcendent-function
+title: Transcendent Function in Therapy
+type: topic
 updated: 2026-05-04
 ---
 

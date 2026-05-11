@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Theoretical Applications in Visual Anthropology"
 confidence: low
-tags: ["theoretical-applications"]
+domain: theory
+slug: theoretical-applications-in-visual-anthropology
 sources:
-  - fxa301-week05-viewpoints-visual-anthropologists-at-work
+- fxa301-week05-viewpoints-visual-anthropologists-at-work
+tags:
+- theoretical-applications
+title: Theoretical Applications in Visual Anthropology
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Alternative Aesthetic Norms"
 confidence: low
-tags: ["alternative-aesthetic-norms"]
+domain: theory
+slug: alternative-aesthetic-norms
 sources:
-  - fxa303-week10-arts-and-refugees-multidisciplinary-perspectives-vol-2
+- fxa303-week10-arts-and-refugees-multidisciplinary-perspectives-vol-2
+tags:
+- alternative-aesthetic-norms
+title: Alternative Aesthetic Norms
+type: topic
 updated: 2026-05-04
 ---
 

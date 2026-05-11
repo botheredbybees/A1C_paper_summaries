@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Coordinated School Health Programs"
 confidence: low
-tags: ["coordinated-school-health-program"]
+domain: intervention
+slug: coordinated-school-health-programs
 sources:
-  - fxa303-week06-using-puppetry-in-a-coordinated-school-health-program
+- fxa303-week06-using-puppetry-in-a-coordinated-school-health-program
+tags:
+- coordinated-school-health-program
+title: Coordinated School Health Programs
+type: topic
 updated: 2026-05-04
 ---
 

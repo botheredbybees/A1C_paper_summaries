@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Healthcare Enrichment Through Arts"
 confidence: low
-tags: ["healthcare-enrichment-through-arts"]
+domain: intervention
+slug: healthcare-enrichment-through-arts
 sources:
-  - fxa301-week03-arts-health-and-well-being-in-america
+- fxa301-week03-arts-health-and-well-being-in-america
+tags:
+- healthcare-enrichment-through-arts
+title: Healthcare Enrichment Through Arts
+type: topic
 updated: 2026-05-04
 ---
 

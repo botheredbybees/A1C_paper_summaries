@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sound Perception in Dementia Care"
 confidence: low
-tags: ["sound-perception"]
+domain: intervention
+slug: sound-perception-in-dementia-care
 sources:
-  - fxa100-week02-lesson-fxa100-week02-page-2-hearing-and-music
+- fxa100-week02-lesson-fxa100-week02-page-2-hearing-and-music
+tags:
+- sound-perception
+title: Sound Perception in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

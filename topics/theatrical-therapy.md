@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Theatrical Therapy"
 confidence: medium
-tags: ["theatrical-therapy"]
+domain: intervention
+slug: theatrical-therapy
 sources:
   - fxa100-week09-applied-theatre-problems-and-possibilities
   - fxa100-week09-implementing-living-room-theatre-activities-for-people-with
-updated: 2026-05-04
+- fxa100-week09-applied-theatre-problems-and-possibilities
+- fxa100-week09-implementing-living-room-theatre-activities-for-people-with
+tags:
+- theatrical-therapy
+title: Theatrical Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Theatrical Therapy

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Funding Justification for Community Arts Programs"
 confidence: low
-tags: ["funding-justification"]
+domain: intervention
+slug: funding-justification-for-community-arts-programs
 sources:
-  - fxa100-week04-evaluating-community-arts-community-well-being-an
+- fxa100-week04-evaluating-community-arts-community-well-being-an
+tags:
+- funding-justification
+title: Funding Justification for Community Arts Programs
+type: topic
 updated: 2026-05-04
 ---
 

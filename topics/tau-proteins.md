@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Tau Proteins in Alzheimer's Disease"
 confidence: low
-tags: ["tau-proteins"]
+domain: intervention
+slug: tau-proteins-in-alzheimer-s-disease
 sources:
-  - fxa100-week01-what-is-alzheimers-disease-video-transcript
+- fxa100-week01-what-is-alzheimers-disease-video-transcript
+tags:
+- tau-proteins
+title: Tau Proteins in Alzheimer's Disease
+type: topic
 updated: 2026-05-04
 ---
 

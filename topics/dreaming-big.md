@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Dreaming Big"
 confidence: low
-tags: ["dreaming-big"]
+domain: intervention
+slug: dreaming-big
 sources:
-  - fxa100-week08-transcript-youtube-cilh21tfqem
+- fxa100-week08-transcript-youtube-cilh21tfqem
+tags:
+- dreaming-big
+title: Dreaming Big
+type: topic
 updated: 2026-05-04
 ---
 

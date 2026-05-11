@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Lighting in Photography"
 confidence: low
-tags: ["creative-lighting"]
+domain: intervention
+slug: creative-lighting-in-photography
 sources:
-  - fxa202-week02-10-tips-for-better-composition
+- fxa202-week02-10-tips-for-better-composition
+tags:
+- creative-lighting
+title: Creative Lighting in Photography
+type: topic
 updated: 2026-05-04
 ---
 

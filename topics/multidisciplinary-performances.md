@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Multidisciplinary Performances"
 confidence: low
-tags: ["multidisciplinary-performances"]
+domain: intervention
+slug: multidisciplinary-performances
 sources:
-  - fxa301-week06-recontextualizing-music-for-social-change
+- fxa301-week06-recontextualizing-music-for-social-change
+tags:
+- multidisciplinary-performances
+title: Multidisciplinary Performances
+type: topic
 updated: 2026-05-04
 ---
 

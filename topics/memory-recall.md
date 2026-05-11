@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music and Memory Recall"
 confidence: low
-tags: ["memory-recall"]
+domain: intervention
+slug: music-and-memory-recall
 sources:
-  - fxa100-week03-transcript-music-memory-the-ipod-project
+- fxa100-week03-transcript-music-memory-the-ipod-project
+tags:
+- memory-recall
+title: Music and Memory Recall
+type: topic
 updated: 2026-05-04
 ---
 

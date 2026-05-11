@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Tender Process in Arts-Health Collaborations"
 confidence: low
-tags: ["tender-process"]
+domain: method
+slug: tender-process-in-arts-health-collaborations
 sources:
-  - fxa301-arts-in-health-ch43-1-collaborative-design-(2)
+- fxa301-arts-in-health-ch43-1-collaborative-design-(2)
+tags:
+- tender-process
+title: Tender Process in Arts-Health Collaborations
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Well-Being As Relational"
 confidence: low
-tags: ["well-being-as-relational"]
+domain: theory
+slug: well-being-as-relational
 sources:
-  - fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using
+- fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using
+tags:
+- well-being-as-relational
+title: Well-Being As Relational
+type: topic
 updated: 2026-05-04
 ---
 

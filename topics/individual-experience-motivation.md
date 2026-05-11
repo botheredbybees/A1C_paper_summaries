@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Individual Experience and Motivation in Heritage-Based Health Interventions"
 confidence: low
-tags: ["individual-experience-motivation"]
+domain: intervention
+slug: individual-experience-and-motivation-in-heritage-based-health-interventions
 sources:
-  - fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a
+- fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a
+tags:
+- individual-experience-motivation
+title: Individual Experience and Motivation in Heritage-Based Health Interventions
+type: topic
 updated: 2026-05-04
 ---
 

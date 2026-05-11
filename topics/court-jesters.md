@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Court Jesters"
 confidence: low
-tags: ["court-jesters"]
+domain: intervention
+slug: court-jesters
 sources:
-  - fxa303-week08-lesson-fxa303-week08-page-2-the-nature-of-clowning
+- fxa303-week08-lesson-fxa303-week08-page-2-the-nature-of-clowning
+tags:
+- court-jesters
+title: Court Jesters
+type: topic
 updated: 2026-05-04
 ---
 

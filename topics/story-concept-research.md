@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Story Concept Research"
 confidence: low
-tags: ["story-concept-research"]
+domain: method
+slug: story-concept-research
 sources:
-  - fxa202-week10-6-questions-journalists-should-be-able-to-answer-before
+- fxa202-week10-6-questions-journalists-should-be-able-to-answer-before
+tags:
+- story-concept-research
+title: Story Concept Research
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "theory"
-title: "Dementia Discourse"
 confidence: medium
-tags: ["dementia-discourse"]
+domain: theory
+slug: dementia-discourse
 sources:
   - fxa100-week04-dementia-discourse-a-rethink
   - fxa100-week04-dementia-discourse-a-rethink-(2)
-updated: 2026-05-04
+- fxa100-week04-dementia-discourse-a-rethink
+- fxa100-week04-dementia-discourse-a-rethink-(2)
+tags:
+- dementia-discourse
+title: Dementia Discourse
+type: topic
+updated: 2026-05-11
 ---
 
 ## Dementia Discourse

@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music-Based Interventions"
 confidence: medium
-tags: ["music-based-interventions"]
+domain: intervention
+slug: music-based-interventions
 sources:
-  - fxa100-week03-listening-and-dementia-care
-  - fxa100-week04-singing-and-participation
+- fxa100-week03-listening-and-dementia-care
+- fxa100-week04-singing-and-participation
+tags:
+- music-based-interventions
+title: Music-Based Interventions
+type: topic
 updated: 2026-05-04
 ---
 

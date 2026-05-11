@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Cropping in Digital Imaging"
 confidence: low
-tags: ["cropping"]
+domain: method
+slug: cropping-in-digital-imaging
 sources:
-  - fxa202-week08-making-basic-adjustments-tutorial-at-gcflearnfree
+- fxa202-week08-making-basic-adjustments-tutorial-at-gcflearnfree
+tags:
+- cropping
+title: Cropping in Digital Imaging
+type: topic
 updated: 2026-05-04
 ---
 

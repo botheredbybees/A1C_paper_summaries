@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Community Resilience"
 confidence: high
-tags: ["community-resilience"]
+domain: intervention
+slug: community-resilience
 sources:
   - fxa303-art-therapy-in-response-to-natural-disasters-ch01-1-body-tracing
   - fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon
@@ -11,7 +9,17 @@ sources:
   - fxa303-week09-the-afloat-project
   - fxa303-week09-web-article-creative-2023
   - fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to
-updated: 2026-05-05
+- fxa303-art-therapy-in-response-to-natural-disasters-ch01-1-body-tracing
+- fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon
+- fxa303-week09-psychological-first-aid-supporting-people-affected-by
+- fxa303-week09-the-afloat-project
+- fxa303-week09-web-article-creative-2023
+- fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to
+tags:
+- community-resilience
+title: Community Resilience
+type: topic
+updated: 2026-05-11
 ---
 
 ## Community Resilience

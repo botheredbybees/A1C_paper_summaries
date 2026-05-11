@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Artist Induction Processes in Healthcare"
 confidence: low
-tags: ["induction-processes"]
+domain: method
+slug: artist-induction-processes-in-healthcare
 sources:
-  - fxa301-arts-in-health-ch44-1-the-artist
+- fxa301-arts-in-health-ch44-1-the-artist
+tags:
+- induction-processes
+title: Artist Induction Processes in Healthcare
+type: topic
 updated: 2026-05-04
 ---
 

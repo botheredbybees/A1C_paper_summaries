@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music-evoked Autobiographical Memories"
 confidence: low
-tags: ["musical-evoked-autobiographical-memories"]
+domain: intervention
+slug: music-evoked-autobiographical-memories
 sources:
-  - fxa100-week03-transcript-interview-with-alexa-transcript
+- fxa100-week03-transcript-interview-with-alexa-transcript
+tags:
+- musical-evoked-autobiographical-memories
+title: Music-evoked Autobiographical Memories
+type: topic
 updated: 2026-05-04
 ---
 

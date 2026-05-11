@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Prevalence and Incidence Data"
 confidence: low
-tags: ["prevalence-incidence-data"]
+domain: method
+slug: prevalence-and-incidence-data
 sources:
-  - fxa100-week01-national-dementia-data-improvement-plan-20232034
+- fxa100-week01-national-dementia-data-improvement-plan-20232034
+tags:
+- prevalence-incidence-data
+title: Prevalence and Incidence Data
+type: topic
 updated: 2026-05-04
 ---
 

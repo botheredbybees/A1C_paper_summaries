@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Preschool Cognition"
 confidence: low
-tags: ["preschool-cognition"]
+domain: theory
+slug: preschool-cognition
 sources:
-  - fxa303-week02-scientific-thinking-in-young-children-theoretical-advances
+- fxa303-week02-scientific-thinking-in-young-children-theoretical-advances
+tags:
+- preschool-cognition
+title: Preschool Cognition
+type: topic
 updated: 2026-05-04
 ---
 

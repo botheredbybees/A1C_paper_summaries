@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Authenticity Realization"
 confidence: low
-tags: ["authenticity-realization"]
+domain: intervention
+slug: authenticity-realization
 sources:
-  - fxa303-play-for-health-across-the-lifespan-ch06-chapter-7
+- fxa303-play-for-health-across-the-lifespan-ch06-chapter-7
+tags:
+- authenticity-realization
+title: Authenticity Realization
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Visual Imagery in Emotional Experiences"
 confidence: low
-tags: ["visual-imagery"]
+domain: intervention
+slug: visual-imagery-in-emotional-experiences
 sources:
-  - fxa301-week02-emotions-during-live-music-performance-links-with
+- fxa301-week02-emotions-during-live-music-performance-links-with
+tags:
+- visual-imagery
+title: Visual Imagery in Emotional Experiences
+type: topic
 updated: 2026-05-04
 ---
 

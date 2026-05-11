@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Cross-Disciplinary Pedagogical Framework"
 confidence: low
-tags: ["cross-disciplinary-pedagogical-framework"]
+domain: theory
+slug: cross-disciplinary-pedagogical-framework
 sources:
-  - fxa303-week05-lesson-fxa303-week05-page-4-week-5-activities
+- fxa303-week05-lesson-fxa303-week05-page-4-week-5-activities
+tags:
+- cross-disciplinary-pedagogical-framework
+title: Cross-Disciplinary Pedagogical Framework
+type: topic
 updated: 2026-05-04
 ---
 

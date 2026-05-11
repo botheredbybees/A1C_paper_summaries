@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Indigenous Dementia Care"
 confidence: low
-tags: ["indigenous-dementia-care"]
+domain: intervention
+slug: indigenous-dementia-care
 sources:
-  - fxa100-week07-lesson-fxa100-week07-inside-and-outside-the-galleries
+- fxa100-week07-lesson-fxa100-week07-inside-and-outside-the-galleries
+tags:
+- indigenous-dementia-care
+title: Indigenous Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

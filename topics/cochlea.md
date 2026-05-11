@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "theory"
-title: "Cochlear Function"
 confidence: medium
-tags: ["cochlea"]
+domain: theory
+slug: cochlear-function
 sources:
-  - fxa100-week02-transcript-how-the-ear-and-hearing-works-from-med-el-view
-  - fxa100-week02-video-about-hearing-and-how-it-works-med-el-video-transcript
+- fxa100-week02-transcript-how-the-ear-and-hearing-works-from-med-el-view
+- fxa100-week02-video-about-hearing-and-how-it-works-med-el-video-transcript
+tags:
+- cochlea
+title: Cochlear Function
+type: topic
 updated: 2026-05-04
 ---
 

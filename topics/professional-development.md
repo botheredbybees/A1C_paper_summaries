@@ -1,14 +1,20 @@
 ---
-type: topic
-domain: "intervention"
-title: "Professional Development in Music Therapy"
 confidence: medium
-tags: ["professional-development"]
+domain: intervention
+slug: professional-development-in-music-therapy
 sources:
   - fxa100-week02-history-of-music-therapy
   - fxa202-week08-journal-and-visual-research-guidelines
   - fxa301-week01-arts-projects-for-individuals-and-groups
-updated: 2026-05-05
+  - fxa301-week11-projects-art-beyond-sight
+- fxa100-week02-history-of-music-therapy
+- fxa202-week08-journal-and-visual-research-guidelines
+- fxa301-week01-arts-projects-for-individuals-and-groups
+tags:
+- professional-development
+title: Professional Development in Music Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Professional Development in Music Therapy
@@ -29,3 +35,4 @@ The integration of professional development within the framework of music therap
 - [fxa100-week02-history-of-music-therapy](../sources/fxa100-week02-history-of-music-therapy.md)
 - [fxa202-week08-journal-and-visual-research-guidelines](../sources/fxa202-week08-journal-and-visual-research-guidelines.md)
 - [fxa301-week01-arts-projects-for-individuals-and-groups](../sources/fxa301-week01-arts-projects-for-individuals-and-groups.md)
+- [fxa301-week11-projects-art-beyond-sight](../sources/fxa301-week11-projects-art-beyond-sight.md)

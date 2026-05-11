@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Iterative Refinement in Intervention Implementation"
 confidence: low
-tags: ["iterative-refinement"]
+domain: intervention
+slug: iterative-refinement-in-intervention-implementation
 sources:
-  - fxa100-week04-implementing-and-evaluating-interventions
+- fxa100-week04-implementing-and-evaluating-interventions
+tags:
+- iterative-refinement
+title: Iterative Refinement in Intervention Implementation
+type: topic
 updated: 2026-05-04
 ---
 

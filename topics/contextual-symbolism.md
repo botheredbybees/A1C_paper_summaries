@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Contextual Symbolism in Photography"
 confidence: low
-tags: ["contextual-symbolism"]
+domain: method
+slug: contextual-symbolism-in-photography
 sources:
-  - fxa202-week05-making-metaphors-from-photos
+- fxa202-week05-making-metaphors-from-photos
+tags:
+- contextual-symbolism
+title: Contextual Symbolism in Photography
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Top-Down Influences on Perception"
 confidence: low
-tags: ["top-down-influences"]
+domain: theory
+slug: top-down-influences-on-perception
 sources:
-  - fxa301-week02-can-science-account-for-taste-psychological-insights-into
+- fxa301-week02-can-science-account-for-taste-psychological-insights-into
+tags:
+- top-down-influences
+title: Top-Down Influences on Perception
+type: topic
 updated: 2026-05-04
 ---
 

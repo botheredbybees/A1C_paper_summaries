@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cultural Nuances in Dementia Care"
 confidence: low
-tags: ["cultural-nuances-in-dementia-care"]
+domain: intervention
+slug: cultural-nuances-in-dementia-care
 sources:
-  - fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care
+- fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care
+tags:
+- cultural-nuances-in-dementia-care
+title: Cultural Nuances in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

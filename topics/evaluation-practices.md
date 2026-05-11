@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Evaluation Practices In Arts And Health"
 confidence: low
-tags: ["evaluation-practices"]
+domain: method
+slug: evaluation-practices-in-arts-and-health
 sources:
-  - fxa100-week04-creative-and-credible-evaluation-for-arts-health-and-well
+- fxa100-week04-creative-and-credible-evaluation-for-arts-health-and-well
+tags:
+- evaluation-practices
+title: Evaluation Practices In Arts And Health
+type: topic
 updated: 2026-05-04
 ---
 

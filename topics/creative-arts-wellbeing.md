@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Arts Wellbeing"
 confidence: low
-tags: ["creative-arts-wellbeing"]
+domain: intervention
+slug: creative-arts-wellbeing
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six
+- fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six
+tags:
+- creative-arts-wellbeing
+title: Creative Arts Wellbeing
+type: topic
 updated: 2026-05-04
 ---
 

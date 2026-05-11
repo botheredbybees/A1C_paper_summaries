@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Ethnographic Process Evaluations"
 confidence: low
-tags: ["ethnographic-process-evaluations"]
+domain: method
+slug: ethnographic-process-evaluations
 sources:
-  - fxa301-arts-in-health-ch67-chapter-6-(2)
+- fxa301-arts-in-health-ch67-chapter-6-(2)
+tags:
+- ethnographic-process-evaluations
+title: Ethnographic Process Evaluations
+type: topic
 updated: 2026-05-04
 ---
 

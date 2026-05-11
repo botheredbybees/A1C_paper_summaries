@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cultural Connections in Mental Health Interventions"
 confidence: low
-tags: ["cultural-connections"]
+domain: intervention
+slug: cultural-connections-in-mental-health-interventions
 sources:
-  - fxa303-week10-lesson-fxa303-week10-page-1-overview
+- fxa303-week10-lesson-fxa303-week10-page-1-overview
+tags:
+- cultural-connections
+title: Cultural Connections in Mental Health Interventions
+type: topic
 updated: 2026-05-04
 ---
 

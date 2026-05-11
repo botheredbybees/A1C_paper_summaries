@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "theory"
-title: "Color Theory"
 confidence: medium
-tags: ["color-theory"]
+domain: theory
+slug: color-theory
 sources:
   - fxa202-week02-lesson-fxa202-week02-page-3
   - fxa202-week02-street-photography-composition-lesson-12-color-theory
   - fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at
-updated: 2026-05-04
+- fxa202-week02-lesson-fxa202-week02-page-3
+- fxa202-week02-street-photography-composition-lesson-12-color-theory
+- fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at
+tags:
+- color-theory
+title: Color Theory
+type: topic
+updated: 2026-05-11
 ---
 
 ## Color Theory

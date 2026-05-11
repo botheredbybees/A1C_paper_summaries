@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Cognitive Development Theory"
 confidence: low
-tags: ["cognitive-development-theory"]
+domain: theory
+slug: cognitive-development-theory
 sources:
-  - fxa303-week03-chapter-11-human-development-how-and-why-we-change
+- fxa303-week03-chapter-11-human-development-how-and-why-we-change
+tags:
+- cognitive-development-theory
+title: Cognitive Development Theory
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Eye Movement Desensitization and Reprocessing"
 confidence: low
-tags: ["eye-movement-desensitization-reprocessing"]
+domain: intervention
+slug: eye-movement-desensitization-and-reprocessing
 sources:
-  - fxa303-week01-trauma-aps
+- fxa303-week01-trauma-aps
+tags:
+- eye-movement-desensitization-reprocessing
+title: Eye Movement Desensitization and Reprocessing
+type: topic
 updated: 2026-05-04
 ---
 

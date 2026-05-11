@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Value Of Color"
 confidence: low
-tags: ["therapeutic-value-of-color"]
+domain: intervention
+slug: therapeutic-value-of-color
 sources:
-  - fxa202-week10-chromophilia
+- fxa202-week10-chromophilia
+tags:
+- therapeutic-value-of-color
+title: Therapeutic Value Of Color
+type: topic
 updated: 2026-05-04
 ---
 

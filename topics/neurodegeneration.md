@@ -1,15 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Neurodegeneration"
 confidence: high
-tags: ["neurodegeneration"]
+domain: intervention
+slug: neurodegeneration
 sources:
-  - fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a
-  - fxa100-week01-the-mechanisms-in-glucose-metabolism-of-aging-hippocampus
-  - fxa100-week01-transcript-alzheimers-society
-  - fxa100-week01-what-is-alzheimers-disease-video-transcript
-  - fxa100-week01-what-is-frontotemporal-dementia
+- fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a
+- fxa100-week01-the-mechanisms-in-glucose-metabolism-of-aging-hippocampus
+- fxa100-week01-transcript-alzheimers-society
+- fxa100-week01-what-is-alzheimers-disease-video-transcript
+- fxa100-week01-what-is-frontotemporal-dementia
+tags:
+- neurodegeneration
+title: Neurodegeneration
+type: topic
 updated: 2026-05-03
 ---
 

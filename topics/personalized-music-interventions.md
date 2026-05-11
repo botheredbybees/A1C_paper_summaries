@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Personalized Music Interventions"
 confidence: low
-tags: ["personalized-music-interventions"]
+domain: intervention
+slug: personalized-music-interventions
 sources:
-  - fxa100-week03-music-and-memories-ipod-eau-claire-community-project-results
+- fxa100-week03-music-and-memories-ipod-eau-claire-community-project-results
+tags:
+- personalized-music-interventions
+title: Personalized Music Interventions
+type: topic
 updated: 2026-05-04
 ---
 

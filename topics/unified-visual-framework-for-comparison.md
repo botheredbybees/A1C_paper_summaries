@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Unified Visual Framework for Comparison"
 confidence: low
-tags: ["unified-visual-framework-for-comparison"]
+domain: method
+slug: unified-visual-framework-for-comparison
 sources:
-  - fxa301-week02-visualizing-the-impact-of-art-an-update-and-comparison-of
+- fxa301-week02-visualizing-the-impact-of-art-an-update-and-comparison-of
+tags:
+- unified-visual-framework-for-comparison
+title: Unified Visual Framework for Comparison
+type: topic
 updated: 2026-05-04
 ---
 

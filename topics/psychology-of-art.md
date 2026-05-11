@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "theory"
-title: "Psychology of Art"
 confidence: medium
-tags: ["psychology-of-art"]
+domain: theory
+slug: psychology-of-art
 sources:
   - fxa301-week02-lecture-on-perception-of-the-arts
   - fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and
-updated: 2026-05-04
+- fxa301-week02-lecture-on-perception-of-the-arts
+- fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and
+tags:
+- psychology-of-art
+title: Psychology of Art
+type: topic
+updated: 2026-05-11
 ---
 
 ## Psychology of Art

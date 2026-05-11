@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-therapy
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Music Therapy
@@ -90,6 +90,8 @@ updated: 2026-05-06
 - [Stroke Choirs | Stroke Recovery Association NSW](../sources/fxa301-week09-stroke-choirs-stroke-recovery-association-nsw.md)
 - [Activities for Week 10: FXA301 Arts in the Community](../sources/fxa301-week10-lesson-fxa301-week10-page-4-week-3-activities.md)
 - [Your Tube Standard Licence - Choir of Hard Knocks](../sources/fxa301-week10-transcript-your-tube-standard-licence.md)
+- [\u2018Anything is Possible\u2019: the Arts and Social Inclusion](../sources/fxa301-week11-anything-is-possible-the-arts-and-social-inclusion.md)
+- [Music Engagement and Disability](../sources/fxa301-week11-lesson-fxa301-week11-page-2.md)
 - [Music and Mental Health Practice](../sources/fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam.md)
 - ['Autism is a way of being': An \u2018insider perspective\u2019 on neurodiversity, music therapy and social justice](../sources/fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on.md)
 - [Community Services \u2013 The Music Therapy Center of California](../sources/fxa303-week04-community-services-the-music-therapy-center-of-california.md)
@@ -100,3 +102,7 @@ updated: 2026-05-06
 - [Music Therapy Sessions: Non-Verbal Communication](../sources/fxa303-week04-transcript-duration-34-19.md)
 - [Week 4 Activities - Neurodiversity, arts and play](../sources/fxa303-week04-week-4-activities-neurodiversity-arts-and-play.md)
 - [Exploring the Use of Hip Hop-Based Music Therapy to Address Trauma in Asylum Seeker and Unaccompanied Minor Migrant Youth](../sources/fxa303-week10-web-article-gulbay-2021.md)
+- [Creative Pathways for Juvenile Justice: An Overview of Current Evidence and Literature](../sources/fxa303-week11-creative-pathways-for-juvenile-justice-an-overview-of.md)
+- [Music-making for health and wellbeing in youth justice settings](../sources/fxa303-week11-music-making-for-health-and-wellbeing-in-youth-justice.md)
+- [Music Therapy for Delinquency Involved Juveniles Through Tripartite Collaboration: A Mixed Method Study](../sources/fxa303-week11-music-therapy-for-delinquency-involved-juveniles-through.md)
+- [Queering Queer Spaces: Journey of a Creative Arts Program for Trans, Non-Binary, and Gender Creative Youth](../sources/fxa303-week11-web-article-hardy-2019.md)

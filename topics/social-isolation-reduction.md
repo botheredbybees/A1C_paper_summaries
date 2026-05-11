@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Social Isolation Reduction"
 confidence: low
-tags: ["social-isolation-reduction"]
+domain: intervention
+slug: social-isolation-reduction
 sources:
-  - fxa301-week05-the-health-and-well-being-potential-of-museums-and-art
+- fxa301-week05-the-health-and-well-being-potential-of-museums-and-art
+tags:
+- social-isolation-reduction
+title: Social Isolation Reduction
+type: topic
 updated: 2026-05-04
 ---
 

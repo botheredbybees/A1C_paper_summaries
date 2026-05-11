@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Processing Through Writing"
 confidence: medium
-tags: ["emotional-processing"]
+domain: intervention
+slug: emotional-processing-through-writing
 sources:
   - fxa202-week09-guide-to-journaling
   - fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the
-updated: 2026-05-04
+- fxa202-week09-guide-to-journaling
+- fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the
+tags:
+- emotional-processing
+title: Emotional Processing Through Writing
+type: topic
+updated: 2026-05-11
 ---
 
 ## Emotional Processing Through Writing

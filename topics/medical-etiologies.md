@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Medical Etiologies in Neurocognitive Disorders"
 confidence: low
-tags: ["medical-etiologies"]
+domain: intervention
+slug: medical-etiologies-in-neurocognitive-disorders
 sources:
-  - fxa303-week04-dsm-5-tr-neurocognitive-disorders-supplement
+- fxa303-week04-dsm-5-tr-neurocognitive-disorders-supplement
+tags:
+- medical-etiologies
+title: Medical Etiologies in Neurocognitive Disorders
+type: topic
 updated: 2026-05-04
 ---
 

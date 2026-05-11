@@ -1,16 +1,24 @@
 ---
-type: topic
-domain: "population"
-title: "Arts Engagement in Australia"
 confidence: medium
-tags: ["arts-engagement"]
+domain: population
+slug: arts-engagement-in-australia
 sources:
   - fxa100-week07-arts-engagement-for-people-with-dementia-independent
   - fxa100-week07-connecting-with-and-through-art-arts-engagement-for
   - fxa301-week01-web-article-australia-2019
   - fxa301-week01-web-article-australia-2023
   - fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing
-updated: 2026-05-05
+  - fxa303-week11-arts-and-cultural-engagement-reportedly-antisocial-or
+- fxa100-week07-arts-engagement-for-people-with-dementia-independent
+- fxa100-week07-connecting-with-and-through-art-arts-engagement-for
+- fxa301-week01-web-article-australia-2019
+- fxa301-week01-web-article-australia-2023
+- fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing
+tags:
+- arts-engagement
+title: Arts Engagement in Australia
+type: topic
+updated: 2026-05-11
 ---
 
 ## Arts Engagement in Australia
@@ -34,3 +42,4 @@ The synthesis of data from the National Arts Participation Survey and other init
 - [fxa301-week01-web-article-australia-2019](../sources/fxa301-week01-web-article-australia-2019.md)
 - [fxa301-week01-web-article-australia-2023](../sources/fxa301-week01-web-article-australia-2023.md)
 - [fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing](../sources/fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing.md)
+- [fxa303-week11-arts-and-cultural-engagement-reportedly-antisocial-or](../sources/fxa303-week11-arts-and-cultural-engagement-reportedly-antisocial-or.md)

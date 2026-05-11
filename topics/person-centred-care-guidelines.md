@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Person-Centred Care Guidelines"
 confidence: low
-tags: ["person-centred-care-guidelines"]
+domain: intervention
+slug: person-centred-care-guidelines
 sources:
-  - fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags
+- fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags
+tags:
+- person-centred-care-guidelines
+title: Person-Centred Care Guidelines
+type: topic
 updated: 2026-05-04
 ---
 

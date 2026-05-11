@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Dopamine's Role in Human Response"
 confidence: low
-tags: ["dopamine"]
+domain: theory
+slug: dopamine-s-role-in-human-response
 sources:
-  - fxa301-week01-lesson-fxa301-week01-page-3-how-do-we-respond-to
+- fxa301-week01-lesson-fxa301-week01-page-3-how-do-we-respond-to
+tags:
+- dopamine
+title: Dopamine's Role in Human Response
+type: topic
 updated: 2026-05-04
 ---
 

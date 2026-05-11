@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Embodied Selfhood and Social Conventions"
 confidence: low
-tags: ["social-conventions"]
+domain: theory
+slug: embodied-selfhood-and-social-conventions
 sources:
-  - fxa100-excellence-in-dementia-care--ch47-chapter-17
+- fxa100-excellence-in-dementia-care--ch47-chapter-17
+tags:
+- social-conventions
+title: Embodied Selfhood and Social Conventions
+type: topic
 updated: 2026-05-04
 ---
 

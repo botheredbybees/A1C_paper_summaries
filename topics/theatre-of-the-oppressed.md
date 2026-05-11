@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Theatre of the Oppressed"
 confidence: medium
-tags: ["theatre-of-the-oppressed"]
+domain: intervention
+slug: theatre-of-the-oppressed
 sources:
   - fxa100-week09-augusto-boals-forum-theatre-for-teachers
   - fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags
   - fxa100-week09-transcript-augusto-boal-1931-2009-was-a-brazilian-theatre
-updated: 2026-05-04
+- fxa100-week09-augusto-boals-forum-theatre-for-teachers
+- fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags
+- fxa100-week09-transcript-augusto-boal-1931-2009-was-a-brazilian-theatre
+tags:
+- theatre-of-the-oppressed
+title: Theatre of the Oppressed
+type: topic
+updated: 2026-05-11
 ---
 
 ## Theatre of the Oppressed

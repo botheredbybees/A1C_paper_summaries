@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Dignity in Dementia Discourse"
 confidence: low
-tags: ["dignity"]
+domain: theory
+slug: dignity-in-dementia-discourse
 sources:
-  - fxa100-week04-dementia-discourse-a-rethink
+- fxa100-week04-dementia-discourse-a-rethink
+tags:
+- dignity
+title: Dignity in Dementia Discourse
+type: topic
 updated: 2026-05-04
 ---
 

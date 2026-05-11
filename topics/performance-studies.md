@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Performance Studies"
 confidence: low
-tags: ["performance-studies"]
+domain: theory
+slug: performance-studies
 sources:
-  - fxa301-make-arts-for-a-better-life-ch42-156-oxford
+- fxa301-make-arts-for-a-better-life-ch42-156-oxford
+tags:
+- performance-studies
+title: Performance Studies
+type: topic
 updated: 2026-05-04
 ---
 

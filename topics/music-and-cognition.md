@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music And Cognition"
 confidence: medium
-tags: ["music-and-cognition"]
+domain: intervention
+slug: music-and-cognition
 sources:
-  - fxa100-week02-introduction-to-week-2-music-and-the-brain
-  - fxa100-week02-the-benefits-of-music-instruction-on-processing-speed
+- fxa100-week02-introduction-to-week-2-music-and-the-brain
+- fxa100-week02-the-benefits-of-music-instruction-on-processing-speed
+tags:
+- music-and-cognition
+title: Music And Cognition
+type: topic
 updated: 2026-05-03
 ---
 

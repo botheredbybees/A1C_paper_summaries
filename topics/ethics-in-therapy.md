@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Ethics In Therapy"
 confidence: low
-tags: ["ethics-in-therapy"]
+domain: theory
+slug: ethics-in-therapy
 sources:
-  - fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography
+- fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography
+tags:
+- ethics-in-therapy
+title: Ethics In Therapy
+type: topic
 updated: 2026-05-04
 ---
 

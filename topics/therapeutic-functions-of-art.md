@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Functions Of Art"
 confidence: low
-tags: ["therapeutic-functions-of-art"]
+domain: intervention
+slug: therapeutic-functions-of-art
 sources:
-  - fxa301-week05-art-as-therapy
+- fxa301-week05-art-as-therapy
+tags:
+- therapeutic-functions-of-art
+title: Therapeutic Functions Of Art
+type: topic
 updated: 2026-05-04
 ---
 

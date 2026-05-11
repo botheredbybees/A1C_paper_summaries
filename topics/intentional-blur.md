@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Intentional Blur in Photography"
 confidence: low
-tags: ["intentional-blur"]
+domain: method
+slug: intentional-blur-in-photography
 sources:
-  - fxa202-week02-taking-out-of-focus-pictures
+- fxa202-week02-taking-out-of-focus-pictures
+tags:
+- intentional-blur
+title: Intentional Blur in Photography
+type: topic
 updated: 2026-05-04
 ---
 

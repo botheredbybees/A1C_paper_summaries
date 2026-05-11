@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Social Policy Reform Through Arts Integration"
 confidence: low
-tags: ["social-policy-reform"]
+domain: intervention
+slug: social-policy-reform-through-arts-integration
 sources:
-  - fxa301-week03-four-big-ways-to-improve-health-through-the-arts
+- fxa301-week03-four-big-ways-to-improve-health-through-the-arts
+tags:
+- social-policy-reform
+title: Social Policy Reform Through Arts Integration
+type: topic
 updated: 2026-05-04
 ---
 

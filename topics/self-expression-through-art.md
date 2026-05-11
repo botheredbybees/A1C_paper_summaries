@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Self-expression Through Art"
 confidence: low
-tags: ["self-expression-through-art"]
+domain: intervention
+slug: self-expression-through-art
 sources:
-  - fxa100-week08-transcript-youtube-cilh21tfqem
+- fxa100-week08-transcript-youtube-cilh21tfqem
+tags:
+- self-expression-through-art
+title: Self-expression Through Art
+type: topic
 updated: 2026-05-04
 ---
 

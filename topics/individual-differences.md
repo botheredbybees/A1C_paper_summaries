@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "population"
-title: "Individual Differences in Aesthetic and Emotional Experiences"
 confidence: medium
-tags: ["individual-differences"]
+domain: population
+slug: individual-differences-in-aesthetic-and-emotional-experiences
 sources:
   - fxa301-week02-aesthetic-judgments-of-novel-graphic-patterns-analyses-of
   - fxa301-week02-emotions-during-live-music-performance-links-with
-updated: 2026-05-04
+- fxa301-week02-aesthetic-judgments-of-novel-graphic-patterns-analyses-of
+- fxa301-week02-emotions-during-live-music-performance-links-with
+tags:
+- individual-differences
+title: Individual Differences in Aesthetic and Emotional Experiences
+type: topic
+updated: 2026-05-11
 ---
 
 ## Individual Differences in Aesthetic and Emotional Experiences

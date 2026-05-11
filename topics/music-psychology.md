@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "theory"
-title: "Emotional Reactions to Music"
 confidence: medium
-tags: ["music-psychology"]
+domain: theory
+slug: emotional-reactions-to-music
 sources:
   - fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and
   - fxa100-week03-transcript-the-effects-of-music-on-the-brain
@@ -15,7 +13,21 @@ sources:
   - fxa301-week02-empathy-manipulation-impacts-music-induced-emotions-a
   - fxa301-week02-experimental-evidence-of-the-roles-of-music-choice-social
   - fxa301-week02-the-influence-of-stress-optimism-and-music-training-on
-updated: 2026-05-05
+- fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and
+- fxa100-week03-transcript-the-effects-of-music-on-the-brain
+- fxa301-oxford-textbook-of-creative-arts-ch08-96-clift
+- fxa301-week02-aesthetic-responses-to-music-a-questionnaire-study
+- fxa301-week02-an-experience-sampling-study-of-emotional-reactions-to
+- fxa301-week02-current-emotion-research-in-music-psychology
+- fxa301-week02-emotions-during-live-music-performance-links-with
+- fxa301-week02-empathy-manipulation-impacts-music-induced-emotions-a
+- fxa301-week02-experimental-evidence-of-the-roles-of-music-choice-social
+- fxa301-week02-the-influence-of-stress-optimism-and-music-training-on
+tags:
+- music-psychology
+title: Emotional Reactions to Music
+type: topic
+updated: 2026-05-11
 ---
 
 ## Emotional Reactions to Music

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Recovery Through Literature"
 confidence: low
-tags: ["emotional-recovery-through-literature"]
+domain: intervention
+slug: emotional-recovery-through-literature
 sources:
-  - fxa301-week08-transcript-youtube-i1dnrn0cj20
+- fxa301-week08-transcript-youtube-i1dnrn0cj20
+tags:
+- emotional-recovery-through-literature
+title: Emotional Recovery Through Literature
+type: topic
 updated: 2026-05-04
 ---
 

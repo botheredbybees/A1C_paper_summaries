@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "theory"
-title: "Music-Induced Emotions"
 confidence: medium
-tags: ["emotional-experience"]
+domain: theory
+slug: music-induced-emotions
 sources:
   - fxa301-week01-lesson-fxa301-week01-chapter-3-music-and-the-damaged
   - fxa301-week02-empathy-manipulation-impacts-music-induced-emotions-a
-updated: 2026-05-04
+- fxa301-week01-lesson-fxa301-week01-chapter-3-music-and-the-damaged
+- fxa301-week02-empathy-manipulation-impacts-music-induced-emotions-a
+tags:
+- emotional-experience
+title: Music-Induced Emotions
+type: topic
+updated: 2026-05-11
 ---
 
 ## Music-Induced Emotions

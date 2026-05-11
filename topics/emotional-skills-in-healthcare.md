@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Skills in Healthcare"
 confidence: low
-tags: ["emotional-skills-in-healthcare"]
+domain: intervention
+slug: emotional-skills-in-healthcare
 sources:
-  - fxa303-week05-lesson-fxa303-week05-page-4-week-5-activities
+- fxa303-week05-lesson-fxa303-week05-page-4-week-5-activities
+tags:
+- emotional-skills-in-healthcare
+title: Emotional Skills in Healthcare
+type: topic
 updated: 2026-05-04
 ---
 

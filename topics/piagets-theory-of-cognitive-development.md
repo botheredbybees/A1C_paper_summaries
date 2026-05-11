@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Piaget's Theory Of Cognitive Development"
 confidence: low
-tags: ["piagets-theory-of-cognitive-development"]
+domain: theory
+slug: piaget-s-theory-of-cognitive-development
 sources:
-  - fxa303-week02-play-creative-arts-and-wellbeing
+- fxa303-week02-play-creative-arts-and-wellbeing
+tags:
+- piagets-theory-of-cognitive-development
+title: Piaget's Theory Of Cognitive Development
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Life With Dementia"
 confidence: low
-tags: ["life-with-dementia"]
+domain: intervention
+slug: life-with-dementia
 sources:
-  - fxa100-week10-brightness-in-the-theatre
+- fxa100-week10-brightness-in-the-theatre
+tags:
+- life-with-dementia
+title: Life With Dementia
+type: topic
 updated: 2026-05-04
 ---
 

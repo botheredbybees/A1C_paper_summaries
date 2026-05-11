@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Identity Reinforcement in Dementia Care"
 confidence: low
-tags: ["identity-reinforcement"]
+domain: intervention
+slug: identity-reinforcement-in-dementia-care
 sources:
-  - fxa100-excellence-in-dementia-care--ch11-chapter-17
+- fxa100-excellence-in-dementia-care--ch11-chapter-17
+tags:
+- identity-reinforcement
+title: Identity Reinforcement in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

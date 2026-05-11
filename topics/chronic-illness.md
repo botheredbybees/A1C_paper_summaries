@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Art and Play in Chronic Illness Coping"
 confidence: medium
-tags: ["chronic-illness"]
+domain: intervention
+slug: art-and-play-in-chronic-illness-coping
 sources:
   - fxa301-week05-web-article-reynolds-2006
   - fxa303-week08-hospital-clowning-as-play-stimulus-in-healthcare
-updated: 2026-05-05
+- fxa301-week05-web-article-reynolds-2006
+- fxa303-week08-hospital-clowning-as-play-stimulus-in-healthcare
+tags:
+- chronic-illness
+title: Art and Play in Chronic Illness Coping
+type: topic
+updated: 2026-05-11
 ---
 
 ## Art and Play in Chronic Illness Coping

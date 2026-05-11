@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creativity and Community Engagement"
 confidence: low
-tags: ["better-life"]
+domain: intervention
+slug: creativity-and-community-engagement
 sources:
-  - fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts-(2)
+- fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts-(2)
+tags:
+- better-life
+title: Creativity and Community Engagement
+type: topic
 updated: 2026-05-04
 ---
 

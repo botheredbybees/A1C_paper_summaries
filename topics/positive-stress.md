@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Positive Stress in Childhood"
 confidence: low
-tags: ["positive-stress"]
+domain: intervention
+slug: positive-stress-in-childhood
 sources:
-  - fxa303-week02-free-play-and-childrens-mental-health
+- fxa303-week02-free-play-and-childrens-mental-health
+tags:
+- positive-stress
+title: Positive Stress in Childhood
+type: topic
 updated: 2026-05-04
 ---
 

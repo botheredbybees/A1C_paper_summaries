@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Collaborative Program for Eating Disorders"
 confidence: low
-tags: ["collaborative-program"]
+domain: intervention
+slug: collaborative-program-for-eating-disorders
 sources:
-  - fxa301-week10-body-talk-examining-a-collaborative-multiple-visit-program
+- fxa301-week10-body-talk-examining-a-collaborative-multiple-visit-program
+tags:
+- collaborative-program
+title: Collaborative Program for Eating Disorders
+type: topic
 updated: 2026-05-04
 ---
 

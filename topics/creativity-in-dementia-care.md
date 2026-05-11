@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creativity in Dementia Care"
 confidence: low
-tags: ["creativity-in-dementia-care"]
+domain: intervention
+slug: creativity-in-dementia-care
 sources:
-  - fxa100-week07-lesson-fxa100-week07-page-4-activities
+- fxa100-week07-lesson-fxa100-week07-page-4-activities
+tags:
+- creativity-in-dementia-care
+title: Creativity in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

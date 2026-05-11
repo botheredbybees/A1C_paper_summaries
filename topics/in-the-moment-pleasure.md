@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "In-The-Moment Pleasure"
 confidence: low
-tags: ["in-the-moment-pleasure"]
+domain: intervention
+slug: in-the-moment-pleasure
 sources:
-  - fxa100-week07-connecting-with-and-through-art-arts-engagement-for
+- fxa100-week07-connecting-with-and-through-art-arts-engagement-for
+tags:
+- in-the-moment-pleasure
+title: In-The-Moment Pleasure
+type: topic
 updated: 2026-05-04
 ---
 

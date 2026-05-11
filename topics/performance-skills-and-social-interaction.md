@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Performance Skills And Social Interaction"
 confidence: low
-tags: ["performance-skills-and-social-interaction"]
+domain: intervention
+slug: performance-skills-and-social-interaction
 sources:
-  - fxa303-week04-art-interventions-for-children-with-autism-spectrum
+- fxa303-week04-art-interventions-for-children-with-autism-spectrum
+tags:
+- performance-skills-and-social-interaction
+title: Performance Skills And Social Interaction
+type: topic
 updated: 2026-05-04
 ---
 

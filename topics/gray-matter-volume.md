@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Gray Matter Volume Variations"
 confidence: low
-tags: ["gray-matter-volume"]
+domain: intervention
+slug: gray-matter-volume-variations
 sources:
-  - fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians
+- fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians
+tags:
+- gray-matter-volume
+title: Gray Matter Volume Variations
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Inclusive Art"
 confidence: medium
-tags: ["inclusive-art"]
+domain: intervention
+slug: inclusive-art
 sources:
   - fxa301-week01-making-art-with-communities-a-work-guide-(2)
   - fxa301-week09-how-josie-webster-is-conquering-the-art-world-with
-updated: 2026-05-05
+- fxa301-week01-making-art-with-communities-a-work-guide-(2)
+- fxa301-week09-how-josie-webster-is-conquering-the-art-world-with
+tags:
+- inclusive-art
+title: Inclusive Art
+type: topic
+updated: 2026-05-11
 ---
 
 ## Inclusive Art

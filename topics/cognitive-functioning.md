@@ -1,13 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music Therapy for Cognitive Functioning"
 confidence: medium
-tags: ["cognitive-functioning"]
+domain: intervention
+slug: music-therapy-for-cognitive-functioning
 sources:
   - fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care
   - fxa100-week03-personalized-music-for-persons-with-dementia-and-their-life
-updated: 2026-05-04
+  - fxa100-week11-dance-and-movement-therapeutic-methods-in-management-of
+  - fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living
+- fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care
+- fxa100-week03-personalized-music-for-persons-with-dementia-and-their-life
+tags:
+- cognitive-functioning
+title: Music Therapy for Cognitive Functioning
+type: topic
+updated: 2026-05-11
 ---
 
 ## Music Therapy for Cognitive Functioning
@@ -27,3 +33,5 @@ The synthesis integrates findings from two sources focusing on the therapeutic v
 
 - [fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care](../sources/fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care.md)
 - [fxa100-week03-personalized-music-for-persons-with-dementia-and-their-life](../sources/fxa100-week03-personalized-music-for-persons-with-dementia-and-their-life.md)
+- [fxa100-week11-dance-and-movement-therapeutic-methods-in-management-of](../sources/fxa100-week11-dance-and-movement-therapeutic-methods-in-management-of.md)
+- [fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living](../sources/fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living.md)

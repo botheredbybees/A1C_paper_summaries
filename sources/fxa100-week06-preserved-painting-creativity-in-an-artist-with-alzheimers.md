@@ -11,7 +11,7 @@ tags: ["alzheimers-disease", "neuroaesthetics", "cognitive-impairment", "brain-i
 key_concepts: ["preserved creativity", "dissociation between cognition and art", "neural pathways"]
 methods: ["case study", "neuroimaging"]
 slug: fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers
-related: ["alzheimers-disease", "brain-imaging", "cognitive-impairment", "neuroaesthetics"]
+related: ["alzheimers-disease", "artistic-expression", "brain-imaging", "cognitive-impairment", "neuroaesthetics"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,6 +45,7 @@ This article explores the preserved painting creativity of a talented artist dia
 ## See Also
 
 - [alzheimers-disease](../topics/alzheimers-disease.md)
+- [artistic-expression](../topics/artistic-expression.md)
 - [brain-imaging](../topics/brain-imaging.md)
 - [cognitive-impairment](../topics/cognitive-impairment.md)
 - [neuroaesthetics](../topics/neuroaesthetics.md)

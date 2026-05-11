@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Organizational Audit"
 confidence: low
-tags: ["organisational-audit"]
+domain: method
+slug: organizational-audit
 sources:
-  - fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit
+- fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit
+tags:
+- organisational-audit
+title: Organizational Audit
+type: topic
 updated: 2026-05-04
 ---
 

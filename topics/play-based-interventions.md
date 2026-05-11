@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Play-Based Interventions"
 confidence: medium
-tags: ["play-based-interventions"]
+domain: intervention
+slug: play-based-interventions
 sources:
   - fxa303-week04-play-based-interventions-for-mental-health-a-systematic
   - fxa303-week09-lesson-fxa303-week09-page-3-case-studies
-updated: 2026-05-04
+- fxa303-week04-play-based-interventions-for-mental-health-a-systematic
+- fxa303-week09-lesson-fxa303-week09-page-3-case-studies
+tags:
+- play-based-interventions
+title: Play-Based Interventions
+type: topic
+updated: 2026-05-11
 ---
 
 ## Play-Based Interventions

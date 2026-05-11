@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: immunology-in-psychiatry
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Immunology In Psychiatry

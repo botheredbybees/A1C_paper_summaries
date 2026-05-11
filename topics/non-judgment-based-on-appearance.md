@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Non-Judgment Based On Appearance"
 confidence: low
-tags: ["non-judgment-based-on-appearance"]
+domain: intervention
+slug: non-judgment-based-on-appearance
 sources:
-  - fxa303-week06-miss-lilys-fabulous-feather-boa
+- fxa303-week06-miss-lilys-fabulous-feather-boa
+tags:
+- non-judgment-based-on-appearance
+title: Non-Judgment Based On Appearance
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Indigenous Perspectives On Arts"
 confidence: low
-tags: ["indigenous-perspectives-on-arts"]
+domain: theory
+slug: indigenous-perspectives-on-arts
 sources:
-  - fxa301-week01-web-article-australia-2022
+- fxa301-week01-web-article-australia-2022
+tags:
+- indigenous-perspectives-on-arts
+title: Indigenous Perspectives On Arts
+type: topic
 updated: 2026-05-04
 ---
 

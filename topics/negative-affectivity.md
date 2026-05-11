@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Negative Affectivity"
 confidence: low
-tags: ["negative-affectivity"]
+domain: theory
+slug: negative-affectivity
 sources:
-  - fxa303-week04-diagnostic-categories-or-dimensions-a-question-for-the
+- fxa303-week04-diagnostic-categories-or-dimensions-a-question-for-the
+tags:
+- negative-affectivity
+title: Negative Affectivity
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Arts Engagement for Aging Populations"
 confidence: medium
-tags: ["aging-populations"]
+domain: intervention
+slug: creative-arts-engagement-for-aging-populations
 sources:
   - fxa301-week03-lesson-fxa301-week03-page-1
   - fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community
-updated: 2026-05-04
+- fxa301-week03-lesson-fxa301-week03-page-1
+- fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community
+tags:
+- aging-populations
+title: Creative Arts Engagement for Aging Populations
+type: topic
+updated: 2026-05-11
 ---
 
 ## Creative Arts Engagement for Aging Populations

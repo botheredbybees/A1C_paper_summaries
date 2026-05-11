@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Activities for Persons with Dementia"
 confidence: medium
-tags: ["creative-activities"]
+domain: intervention
+slug: creative-activities-for-persons-with-dementia
 sources:
   - fxa100-creativity-and-communication-ch09-19-starting-out-in-any-creative-endeavour-of-this-nature
   - fxa100-week08-creativity-and-communication-in-persons-with-dementia-a
   - fxa100-week08-the-use-of-creative-activities-in-dementia-in-residential
-updated: 2026-05-04
+- fxa100-creativity-and-communication-ch09-19-starting-out-in-any-creative-endeavour-of-this-nature
+- fxa100-week08-creativity-and-communication-in-persons-with-dementia-a
+- fxa100-week08-the-use-of-creative-activities-in-dementia-in-residential
+tags:
+- creative-activities
+title: Creative Activities for Persons with Dementia
+type: topic
+updated: 2026-05-11
 ---
 
 ## Creative Activities for Persons with Dementia

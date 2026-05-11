@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Verbal Association in Musical Aesthetics"
 confidence: low
-tags: ["verbal-association"]
+domain: theory
+slug: verbal-association-in-musical-aesthetics
 sources:
-  - fxa301-week02-aesthetic-responses-to-music-a-questionnaire-study
+- fxa301-week02-aesthetic-responses-to-music-a-questionnaire-study
+tags:
+- verbal-association
+title: Verbal Association in Musical Aesthetics
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,16 +1,23 @@
 ---
-type: topic
-domain: "intervention"
-title: "Inclusive Education"
 confidence: high
-tags: ["inclusive-education"]
+domain: intervention
+slug: inclusive-education
 sources:
   - fxa100-week07-for-visitors-with-dementia
   - fxa301-week01-engaging-in-community-music-an-introduction
   - fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions
   - fxa303-week04-week-4-activities-neurodiversity-arts-and-play
   - fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental
-updated: 2026-05-05
+- fxa100-week07-for-visitors-with-dementia
+- fxa301-week01-engaging-in-community-music-an-introduction
+- fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions
+- fxa303-week04-week-4-activities-neurodiversity-arts-and-play
+- fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental
+tags:
+- inclusive-education
+title: Inclusive Education
+type: topic
+updated: 2026-05-11
 ---
 
 ## Inclusive Education

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Social Innovation Through Creative Thinking"
 confidence: low
-tags: ["social-innovation"]
+domain: intervention
+slug: social-innovation-through-creative-thinking
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30
+- fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30
+tags:
+- social-innovation
+title: Social Innovation Through Creative Thinking
+type: topic
 updated: 2026-05-04
 ---
 

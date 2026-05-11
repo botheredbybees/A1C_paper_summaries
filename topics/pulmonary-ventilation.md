@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Pulmonary Ventilation"
 confidence: low
-tags: ["pulmonary-ventilation"]
+domain: method
+slug: pulmonary-ventilation
 sources:
-  - fxa100-week04-transcript-lungs-in-motion-normal-breathing-url-only
+- fxa100-week04-transcript-lungs-in-motion-normal-breathing-url-only
+tags:
+- pulmonary-ventilation
+title: Pulmonary Ventilation
+type: topic
 updated: 2026-05-04
 ---
 

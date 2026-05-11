@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Child-Centered Play Therapy"
 confidence: medium
-tags: ["child-centred-play-therapy-ccpt"]
+domain: intervention
+slug: child-centered-play-therapy
 sources:
-  - fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves
-  - fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)
+- fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves
+- fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)
+tags:
+- child-centred-play-therapy-ccpt
+title: Child-Centered Play Therapy
+type: topic
 updated: 2026-05-04
 ---
 

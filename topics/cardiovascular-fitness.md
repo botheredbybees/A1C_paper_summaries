@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cardiovascular Fitness"
 confidence: low
-tags: ["cardiovascular-fitness"]
+domain: intervention
+slug: cardiovascular-fitness
 sources:
-  - fxa301-week06-the-effects-of-recreational-dance-interventions-on-the
+- fxa301-week06-the-effects-of-recreational-dance-interventions-on-the
+tags:
+- cardiovascular-fitness
+title: Cardiovascular Fitness
+type: topic
 updated: 2026-05-04
 ---
 

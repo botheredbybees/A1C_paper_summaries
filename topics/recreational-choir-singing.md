@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Recreational Choir Singing"
 confidence: low
-tags: ["recreational-choir-singing"]
+domain: intervention
+slug: recreational-choir-singing
 sources:
-  - fxa100-week03-the-short-term-impact-of-music-interventions-on-stress
+- fxa100-week03-the-short-term-impact-of-music-interventions-on-stress
+tags:
+- recreational-choir-singing
+title: Recreational Choir Singing
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Potential in Dementia Care"
 confidence: low
-tags: ["creative-potential"]
+domain: intervention
+slug: creative-potential-in-dementia-care
 sources:
-  - fxa100-week06-how-creating-sculpture-benefits-people-with-dementia
+- fxa100-week06-how-creating-sculpture-benefits-people-with-dementia
+tags:
+- creative-potential
+title: Creative Potential in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

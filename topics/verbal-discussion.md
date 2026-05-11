@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Verbal Discussion in Dementia Care"
 confidence: low
-tags: ["verbal-discussion"]
+domain: intervention
+slug: verbal-discussion-in-dementia-care
 sources:
-  - fxa100-week03-music-therapy-increases-social-and-emotional-well-being-in
+- fxa100-week03-music-therapy-increases-social-and-emotional-well-being-in
+tags:
+- verbal-discussion
+title: Verbal Discussion in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

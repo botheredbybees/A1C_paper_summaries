@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Creative Curiosity"
 confidence: low
-tags: ["creative-curiosity"]
+domain: theory
+slug: creative-curiosity
 sources:
-  - fxa202-week05-where-do-you-get-your-ideas
+- fxa202-week05-where-do-you-get-your-ideas
+tags:
+- creative-curiosity
+title: Creative Curiosity
+type: topic
 updated: 2026-05-04
 ---
 

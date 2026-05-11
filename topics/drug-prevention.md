@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Drug Prevention Among Aboriginal Communities"
 confidence: low
-tags: ["drug-prevention"]
+domain: intervention
+slug: drug-prevention-among-aboriginal-communities
 sources:
-  - fxa303-week10-transcript-duration-2-36
+- fxa303-week10-transcript-duration-2-36
+tags:
+- drug-prevention
+title: Drug Prevention Among Aboriginal Communities
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Functional Outcome Measures in Falls Prevention"
 confidence: low
-tags: ["functional-outcome-measures"]
+domain: method
+slug: functional-outcome-measures-in-falls-prevention
 sources:
-  - fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention
+- fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention
+tags:
+- functional-outcome-measures
+title: Functional Outcome Measures in Falls Prevention
+type: topic
 updated: 2026-05-04
 ---
 

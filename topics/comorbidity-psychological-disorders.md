@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Comorbidity of Psychological Disorders"
 confidence: low
-tags: ["comorbidity-psychological-disorders"]
+domain: intervention
+slug: comorbidity-of-psychological-disorders
 sources:
-  - fxa303-week04-autism-spectrum-disorder-the-impact-of-stressful-and
+- fxa303-week04-autism-spectrum-disorder-the-impact-of-stressful-and
+tags:
+- comorbidity-psychological-disorders
+title: Comorbidity of Psychological Disorders
+type: topic
 updated: 2026-05-04
 ---
 

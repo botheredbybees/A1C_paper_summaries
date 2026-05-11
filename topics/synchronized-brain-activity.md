@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Synchronized Brain Activity in Autism"
 confidence: low
-tags: ["synchronized-brain-activity"]
+domain: theory
+slug: synchronized-brain-activity-in-autism
 sources:
-  - fxa303-week04-what-does-autism-look-like-in-the-brain
+- fxa303-week04-what-does-autism-look-like-in-the-brain
+tags:
+- synchronized-brain-activity
+title: Synchronized Brain Activity in Autism
+type: topic
 updated: 2026-05-04
 ---
 

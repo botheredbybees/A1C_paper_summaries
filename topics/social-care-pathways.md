@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Social Care Pathways"
 confidence: low
-tags: ["social-care-pathways"]
+domain: intervention
+slug: social-care-pathways
 sources:
-  - fxa301-week03-creative-health-and-care-experienced-children-and-young
+- fxa301-week03-creative-health-and-care-experienced-children-and-young
+tags:
+- social-care-pathways
+title: Social Care Pathways
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Social-Environmental Factors in Dementia Care"
 confidence: low
-tags: ["social-environmental-factors"]
+domain: intervention
+slug: social-environmental-factors-in-dementia-care
 sources:
-  - fxa100-week10-person-centred-dementia-care
+- fxa100-week10-person-centred-dementia-care
+tags:
+- social-environmental-factors
+title: Social-Environmental Factors in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

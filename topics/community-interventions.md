@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts Activities for Youth Resilience"
 confidence: medium
-tags: ["community-interventions"]
+domain: intervention
+slug: arts-activities-for-youth-resilience
 sources:
   - fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and
   - fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and
-updated: 2026-05-04
+- fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and
+- fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and
+tags:
+- community-interventions
+title: Arts Activities for Youth Resilience
+type: topic
+updated: 2026-05-11
 ---
 
 ## Arts Activities for Youth Resilience

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Brain Growth Charts"
 confidence: low
-tags: ["brain-growth-charts"]
+domain: method
+slug: brain-growth-charts
 sources:
-  - fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain
+- fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain
+tags:
+- brain-growth-charts
+title: Brain Growth Charts
+type: topic
 updated: 2026-05-04
 ---
 

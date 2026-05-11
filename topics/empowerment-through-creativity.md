@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Empowerment Through Creativity"
 confidence: low
-tags: ["empowerment-through-creativity"]
+domain: intervention
+slug: empowerment-through-creativity
 sources:
-  - fxa100-creativity-and-communication-ch13-23-making-space-for-your-own-creativity-making-space-for
+- fxa100-creativity-and-communication-ch13-23-making-space-for-your-own-creativity-making-space-for
+tags:
+- empowerment-through-creativity
+title: Empowerment Through Creativity
+type: topic
 updated: 2026-05-04
 ---
 

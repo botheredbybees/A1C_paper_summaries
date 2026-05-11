@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Policies on Arts"
 confidence: low
-tags: ["policies-on-arts"]
+domain: intervention
+slug: policies-on-arts
 sources:
-  - fxa301-week03-week-3-introduction-arts-in-the-community-for-health-and
+- fxa301-week03-week-3-introduction-arts-in-the-community-for-health-and
+tags:
+- policies-on-arts
+title: Policies on Arts
+type: topic
 updated: 2026-05-04
 ---
 

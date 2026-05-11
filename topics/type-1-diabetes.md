@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Type 1 Diabetes"
 confidence: low
-tags: ["type-1-diabetes"]
+domain: population
+slug: type-1-diabetes
 sources:
-  - fxa202-week10-type1-diabetes-story-a-familys-journey
+- fxa202-week10-type1-diabetes-story-a-familys-journey
+tags:
+- type-1-diabetes
+title: Type 1 Diabetes
+type: topic
 updated: 2026-05-04
 ---
 

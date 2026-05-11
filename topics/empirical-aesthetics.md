@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "theory"
-title: "Empirical Aesthetics"
 confidence: medium
-tags: ["empirical-aesthetics"]
+domain: theory
+slug: empirical-aesthetics
 sources:
   - fxa301-week02-aesthetic-judgments-of-novel-graphic-patterns-analyses-of
   - fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and
-updated: 2026-05-04
+- fxa301-week02-aesthetic-judgments-of-novel-graphic-patterns-analyses-of
+- fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and
+tags:
+- empirical-aesthetics
+title: Empirical Aesthetics
+type: topic
+updated: 2026-05-11
 ---
 
 ## Empirical Aesthetics

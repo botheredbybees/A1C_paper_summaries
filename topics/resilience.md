@@ -1,16 +1,18 @@
 ---
-type: topic
-domain: "intervention"
-title: "Resilience"
 confidence: high
-tags: ["resilience"]
+domain: intervention
+slug: resilience
 sources:
-  - fxa202-week06-critical-reflection-of-the-development-of-the-finding-joy
-  - fxa202-week09-you-are-the-best-dancer
-  - fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and
-  - fxa301-week06-sing-while-you-work-the-well-being-benefits-of-workplace
-  - fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and
-  - fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth
+- fxa202-week06-critical-reflection-of-the-development-of-the-finding-joy
+- fxa202-week09-you-are-the-best-dancer
+- fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and
+- fxa301-week06-sing-while-you-work-the-well-being-benefits-of-workplace
+- fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and
+- fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth
+tags:
+- resilience
+title: Resilience
+type: topic
 updated: 2026-05-04
 ---
 

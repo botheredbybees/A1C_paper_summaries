@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Language Impact On Perception"
 confidence: low
-tags: ["language-impact-on-perception"]
+domain: theory
+slug: language-impact-on-perception
 sources:
-  - fxa100-week04-dementia-words-matter-guidelines-on-language-about-dementia
+- fxa100-week04-dementia-words-matter-guidelines-on-language-about-dementia
+tags:
+- language-impact-on-perception
+title: Language Impact On Perception
+type: topic
 updated: 2026-05-04
 ---
 

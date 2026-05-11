@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Ethics Committee Approval in Research Protocols"
 confidence: low
-tags: ["ethics-committee"]
+domain: method
+slug: ethics-committee-approval-in-research-protocols
 sources:
-  - fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production
+- fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production
+tags:
+- ethics-committee
+title: Ethics Committee Approval in Research Protocols
+type: topic
 updated: 2026-05-04
 ---
 

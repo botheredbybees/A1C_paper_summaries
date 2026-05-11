@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Social Dysfunction in Autism Spectrum Disorder"
 confidence: low
-tags: ["social-dysfunction"]
+domain: population
+slug: social-dysfunction-in-autism-spectrum-disorder
 sources:
-  - fxa303-week04-what-does-autism-look-like-in-the-brain
+- fxa303-week04-what-does-autism-look-like-in-the-brain
+tags:
+- social-dysfunction
+title: Social Dysfunction in Autism Spectrum Disorder
+type: topic
 updated: 2026-05-04
 ---
 

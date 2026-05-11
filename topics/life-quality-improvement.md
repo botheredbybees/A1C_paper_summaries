@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Life Quality Improvement Through Singing"
 confidence: low
-tags: ["life-quality-improvement"]
+domain: intervention
+slug: life-quality-improvement-through-singing
 sources:
-  - fxa100-week04-singing-and-the-brain
+- fxa100-week04-singing-and-the-brain
+tags:
+- life-quality-improvement
+title: Life Quality Improvement Through Singing
+type: topic
 updated: 2026-05-04
 ---
 

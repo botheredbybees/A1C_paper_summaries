@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Arts in Health Interventions"
 confidence: medium
-tags: ["creative-arts-health"]
+domain: intervention
+slug: creative-arts-in-health-interventions
 sources:
   - fxa100-week03-association-of-music-interventions-with-health-related
   - fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas
   - fxa301-week08-wisdom-poetry-trialogue
-updated: 2026-05-04
+- fxa100-week03-association-of-music-interventions-with-health-related
+- fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas
+- fxa301-week08-wisdom-poetry-trialogue
+tags:
+- creative-arts-health
+title: Creative Arts in Health Interventions
+type: topic
+updated: 2026-05-11
 ---
 
 ## Creative Arts in Health Interventions

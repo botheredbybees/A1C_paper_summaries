@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Identification and Diagnosis of Autism"
 confidence: low
-tags: ["identification-and-diagnosis-of-autism"]
+domain: theory
+slug: identification-and-diagnosis-of-autism
 sources:
-  - fxa303-week04-educating-students-with-autism-spectrum-disorders
+- fxa303-week04-educating-students-with-autism-spectrum-disorders
+tags:
+- identification-and-diagnosis-of-autism
+title: Identification and Diagnosis of Autism
+type: topic
 updated: 2026-05-04
 ---
 

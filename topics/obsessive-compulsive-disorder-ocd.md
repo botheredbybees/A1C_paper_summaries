@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Obsessive-Compulsive Disorder"
 confidence: low
-tags: ["obsessive-compulsive-disorder-ocd"]
+domain: intervention
+slug: obsessive-compulsive-disorder
 sources:
-  - fxa202-therapeutic-photography-ch01-chapter-10
+- fxa202-therapeutic-photography-ch01-chapter-10
+tags:
+- obsessive-compulsive-disorder-ocd
+title: Obsessive-Compulsive Disorder
+type: topic
 updated: 2026-05-04
 ---
 

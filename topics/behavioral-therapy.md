@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Behavioral Therapy"
 confidence: low
-tags: ["behavioral-therapy"]
+domain: intervention
+slug: behavioral-therapy
 sources:
-  - fxa303-week04-transcript-duration-5-04
+- fxa303-week04-transcript-duration-5-04
+tags:
+- behavioral-therapy
+title: Behavioral Therapy
+type: topic
 updated: 2026-05-04
 ---
 

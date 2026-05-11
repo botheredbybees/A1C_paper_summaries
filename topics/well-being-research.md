@@ -1,16 +1,23 @@
 ---
-type: topic
-domain: "theory"
-title: "Well-Being Research"
 confidence: high
-tags: ["well-being-research"]
+domain: theory
+slug: well-being-research
 sources:
   - fxa202-week10-arts-health-and-well-being-a-critical-perspective-on
   - fxa202-week10-conclusions-and-implications-for-future-research
   - fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow
   - fxa202-week10-research-and-evidence-in-arts-health-and-well-being
   - fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness
-updated: 2026-05-04
+- fxa202-week10-arts-health-and-well-being-a-critical-perspective-on
+- fxa202-week10-conclusions-and-implications-for-future-research
+- fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow
+- fxa202-week10-research-and-evidence-in-arts-health-and-well-being
+- fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness
+tags:
+- well-being-research
+title: Well-Being Research
+type: topic
+updated: 2026-05-11
 ---
 
 ## Well-Being Research

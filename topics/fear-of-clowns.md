@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Fear Of Clowns In Hospitalized Children"
 confidence: low
-tags: ["fear-of-clowns"]
+domain: intervention
+slug: fear-of-clowns-in-hospitalized-children
 sources:
-  - fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective
+- fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective
+tags:
+- fear-of-clowns
+title: Fear Of Clowns In Hospitalized Children
+type: topic
 updated: 2026-05-04
 ---
 

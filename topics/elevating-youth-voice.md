@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Elevating Youth Voice Through Arts-Based Interventions"
 confidence: low
-tags: ["elevating-youth-voice"]
+domain: intervention
+slug: elevating-youth-voice-through-arts-based-interventions
 sources:
-  - fxa303-week03-supporting-youth-mental-health-with-arts-based-strategies-a
+- fxa303-week03-supporting-youth-mental-health-with-arts-based-strategies-a
+tags:
+- elevating-youth-voice
+title: Elevating Youth Voice Through Arts-Based Interventions
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Self-Publishing Practices"
 confidence: low
-tags: ["self-publishing-practices"]
+domain: intervention
+slug: self-publishing-practices
 sources:
-  - fxa202-week10-take-it-from-a-publishing-pro-the-photobook-format-is-up
+- fxa202-week10-take-it-from-a-publishing-pro-the-photobook-format-is-up
+tags:
+- self-publishing-practices
+title: Self-Publishing Practices
+type: topic
 updated: 2026-05-04
 ---
 

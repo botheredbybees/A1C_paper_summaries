@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Roland Barthes' Camera Lucida"
 confidence: low
-tags: ["roland-barthes-camera-lucida"]
+domain: theory
+slug: roland-barthes-camera-lucida
 sources:
-  - fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay
+- fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay
+tags:
+- roland-barthes-camera-lucida
+title: Roland Barthes' Camera Lucida
+type: topic
 updated: 2026-05-04
 ---
 

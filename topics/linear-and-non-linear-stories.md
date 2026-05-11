@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Linear and Non-Linear Stories"
 confidence: low
-tags: ["linear-and-non-linear-stories"]
+domain: theory
+slug: linear-and-non-linear-stories
 sources:
-  - fxa202-week06-week-six-lecture-components-of-visual-storytelling
+- fxa202-week06-week-six-lecture-components-of-visual-storytelling
+tags:
+- linear-and-non-linear-stories
+title: Linear and Non-Linear Stories
+type: topic
 updated: 2026-05-04
 ---
 

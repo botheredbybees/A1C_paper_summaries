@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Workplace Choirs and Absenteeism"
 confidence: low
-tags: ["absenteeism"]
+domain: intervention
+slug: workplace-choirs-and-absenteeism
 sources:
-  - fxa301-week06-sing-while-you-work-the-well-being-benefits-of-workplace
+- fxa301-week06-sing-while-you-work-the-well-being-benefits-of-workplace
+tags:
+- absenteeism
+title: Workplace Choirs and Absenteeism
+type: topic
 updated: 2026-05-04
 ---
 

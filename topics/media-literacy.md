@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Media Literacy"
 confidence: low
-tags: ["media-literacy"]
+domain: theory
+slug: media-literacy
 sources:
-  - fxa202-week10-lesson-fxa202-week10-page-2
+- fxa202-week10-lesson-fxa202-week10-page-2
+tags:
+- media-literacy
+title: Media Literacy
+type: topic
 updated: 2026-05-04
 ---
 

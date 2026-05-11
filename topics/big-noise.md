@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Big Noise Community Projects"
 confidence: low
-tags: ["big-noise"]
+domain: intervention
+slug: big-noise-community-projects
 sources:
-  - fxa301-week06-lesson-fxa301-week06-page-2
+- fxa301-week06-lesson-fxa301-week06-page-2
+tags:
+- big-noise
+title: Big Noise Community Projects
+type: topic
 updated: 2026-05-04
 ---
 

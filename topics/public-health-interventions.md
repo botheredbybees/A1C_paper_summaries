@@ -1,16 +1,23 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts in Public Health Interventions"
 confidence: high
-tags: ["public-health-interventions"]
+domain: intervention
+slug: arts-in-public-health-interventions
 sources:
   - fxa100-week04-arts-in-health-designing-and-researching-interventions
   - fxa301-oxford-textbook-of-creative-arts-ch22-chapter-7
   - fxa301-week03-four-big-ways-to-improve-health-through-the-arts
   - fxa301-week05-museums-as-spaces-for-wellbeing-a-second-report-from-the
   - fxa303-week03-the-impact-of-arts-on-prescription-on-individual-health-and
-updated: 2026-05-04
+- fxa100-week04-arts-in-health-designing-and-researching-interventions
+- fxa301-oxford-textbook-of-creative-arts-ch22-chapter-7
+- fxa301-week03-four-big-ways-to-improve-health-through-the-arts
+- fxa301-week05-museums-as-spaces-for-wellbeing-a-second-report-from-the
+- fxa303-week03-the-impact-of-arts-on-prescription-on-individual-health-and
+tags:
+- public-health-interventions
+title: Arts in Public Health Interventions
+type: topic
+updated: 2026-05-11
 ---
 
 ## Arts in Public Health Interventions

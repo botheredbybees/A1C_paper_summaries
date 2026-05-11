@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Equality Act and Disability Discrimination"
 confidence: low
-tags: ["equality-act"]
+domain: theory
+slug: equality-act-and-disability-discrimination
 sources:
-  - fxa303-week04-unconscious-bias-and-the-medical-model-how-the-social-model
+- fxa303-week04-unconscious-bias-and-the-medical-model-how-the-social-model
+tags:
+- equality-act
+title: Equality Act and Disability Discrimination
+type: topic
 updated: 2026-05-04
 ---
 

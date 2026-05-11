@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Social Connections Through Arts and Therapy"
 confidence: medium
-tags: ["social-connections"]
+domain: intervention
+slug: social-connections-through-arts-and-therapy
 sources:
   - fxa301-week03-arts-public-health-and-the-national-arts-and-health
   - fxa303-week04-arts-therapies-research-and-practice-with-persons-on-the
-updated: 2026-05-04
+- fxa301-week03-arts-public-health-and-the-national-arts-and-health
+- fxa303-week04-arts-therapies-research-and-practice-with-persons-on-the
+tags:
+- social-connections
+title: Social Connections Through Arts and Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Social Connections Through Arts and Therapy

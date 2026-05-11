@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Attachment to Country"
 confidence: low
-tags: ["attachment-to-country"]
+domain: population
+slug: attachment-to-country
 sources:
-  - fxa303-week10-how-country-spirituality-music-and-arts-contribute-to
+- fxa303-week10-how-country-spirituality-music-and-arts-contribute-to
+tags:
+- attachment-to-country
+title: Attachment to Country
+type: topic
 updated: 2026-05-04
 ---
 

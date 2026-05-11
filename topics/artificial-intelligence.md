@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Artificial Intelligence"
 confidence: low
-tags: ["artificial-intelligence"]
+domain: intervention
+slug: artificial-intelligence
 sources:
-  - fxa202-week10-the-transformative-potential-of-technology
+- fxa202-week10-the-transformative-potential-of-technology
+tags:
+- artificial-intelligence
+title: Artificial Intelligence
+type: topic
 updated: 2026-05-04
 ---
 

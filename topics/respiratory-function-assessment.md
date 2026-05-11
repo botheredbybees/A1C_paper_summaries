@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Respiratory Function Assessment"
 confidence: low
-tags: ["respiratory-function-assessment"]
+domain: method
+slug: respiratory-function-assessment
 sources:
-  - fxa100-week04-transcript-singing-for-better-breathing
+- fxa100-week04-transcript-singing-for-better-breathing
+tags:
+- respiratory-function-assessment
+title: Respiratory Function Assessment
+type: topic
 updated: 2026-05-04
 ---
 

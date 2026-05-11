@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Outcome Research in Healthcare"
 confidence: low
-tags: ["outcome-research"]
+domain: method
+slug: outcome-research-in-healthcare
 sources:
-  - fxa301-arts-in-health-ch67-chapter-6
+- fxa301-arts-in-health-ch67-chapter-6
+tags:
+- outcome-research
+title: Outcome Research in Healthcare
+type: topic
 updated: 2026-05-04
 ---
 

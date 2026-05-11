@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Causal Accounts in Understanding Dementia"
 confidence: low
-tags: ["causal-accounts"]
+domain: theory
+slug: causal-accounts-in-understanding-dementia
 sources:
-  - fxa100-how-we-thnk-about-dementia-ch06-chapter-3
+- fxa100-how-we-thnk-about-dementia-ch06-chapter-3
+tags:
+- causal-accounts
+title: Causal Accounts in Understanding Dementia
+type: topic
 updated: 2026-05-04
 ---
 

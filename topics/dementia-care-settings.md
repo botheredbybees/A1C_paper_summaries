@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Dementia Care Settings"
 confidence: low
-tags: ["dementia-care-settings"]
+domain: intervention
+slug: dementia-care-settings
 sources:
-  - fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care
+- fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care
+tags:
+- dementia-care-settings
+title: Dementia Care Settings
+type: topic
 updated: 2026-05-04
 ---
 

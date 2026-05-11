@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Individualized Education Plans"
 confidence: low
-tags: ["individualized-education-plans"]
+domain: intervention
+slug: individualized-education-plans
 sources:
-  - fxa303-week04-autism-spectrum-disorder
+- fxa303-week04-autism-spectrum-disorder
+tags:
+- individualized-education-plans
+title: Individualized Education Plans
+type: topic
 updated: 2026-05-04
 ---
 

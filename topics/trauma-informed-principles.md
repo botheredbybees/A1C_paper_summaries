@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Trauma-Informed Principles"
 confidence: medium
-tags: ["trauma-informed-principles"]
+domain: intervention
+slug: trauma-informed-principles
 sources:
-  - fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design
-  - fxa303-week09-the-trauma-informed-care-and-practice-organisational
+- fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design
+- fxa303-week09-the-trauma-informed-care-and-practice-organisational
+tags:
+- trauma-informed-principles
+title: Trauma-Informed Principles
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Eye Movement Studies"
 confidence: low
-tags: ["eye-movement-studies"]
+domain: method
+slug: eye-movement-studies
 sources:
-  - fxa301-week01-transcript-it-also-includes-discussion-of-what-can-be
+- fxa301-week01-transcript-it-also-includes-discussion-of-what-can-be
+tags:
+- eye-movement-studies
+title: Eye Movement Studies
+type: topic
 updated: 2026-05-04
 ---
 

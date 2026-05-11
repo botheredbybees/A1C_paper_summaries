@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Impact Of Pandemic On Artistic Wellbeing"
 confidence: low
-tags: ["pandemic-impact"]
+domain: intervention
+slug: impact-of-pandemic-on-artistic-wellbeing
 sources:
-  - fxa301-week01-web-article-australia-2023
+- fxa301-week01-web-article-australia-2023
+tags:
+- pandemic-impact
+title: Impact Of Pandemic On Artistic Wellbeing
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Aperture-Priority Mode"
 confidence: low
-tags: ["aperture-priority-mode"]
+domain: method
+slug: aperture-priority-mode
 sources:
-  - fxa202-week02-aperture-and-shutter-priority-modes
+- fxa202-week02-aperture-and-shutter-priority-modes
+tags:
+- aperture-priority-mode
+title: Aperture-Priority Mode
+type: topic
 updated: 2026-05-04
 ---
 

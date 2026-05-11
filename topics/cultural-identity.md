@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cultural Identity Through Art and Intergenerational Relationships"
 confidence: medium
-tags: ["cultural-identity"]
+domain: intervention
+slug: cultural-identity-through-art-and-intergenerational-relationships
 sources:
   - fxa100-week09-in-my-fathers-words-review-sophisticated-dementia-drama
   - fxa301-week05-how-murals-helped-turn-a-declining-community-around
   - fxa303-week10-how-country-spirituality-music-and-arts-contribute-to
   - fxa303-week10-lesson-fxa303-week10-page-1-overview
-updated: 2026-05-05
+- fxa100-week09-in-my-fathers-words-review-sophisticated-dementia-drama
+- fxa301-week05-how-murals-helped-turn-a-declining-community-around
+- fxa303-week10-how-country-spirituality-music-and-arts-contribute-to
+- fxa303-week10-lesson-fxa303-week10-page-1-overview
+tags:
+- cultural-identity
+title: Cultural Identity Through Art and Intergenerational Relationships
+type: topic
+updated: 2026-05-11
 ---
 
 ## Cultural Identity Through Art and Intergenerational Relationships

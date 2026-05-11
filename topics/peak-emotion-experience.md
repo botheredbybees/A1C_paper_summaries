@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Peak Emotion Experience"
 confidence: low
-tags: ["peak-emotion-experience"]
+domain: intervention
+slug: peak-emotion-experience
 sources:
-  - fxa301-week08-the-emotional-power-of-poetry-neural-circuitry
+- fxa301-week08-the-emotional-power-of-poetry-neural-circuitry
+tags:
+- peak-emotion-experience
+title: Peak Emotion Experience
+type: topic
 updated: 2026-05-04
 ---
 

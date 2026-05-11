@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Elderly Engagement"
 confidence: medium
-tags: ["elderly-engagement"]
+domain: intervention
+slug: elderly-engagement
 sources:
   - fxa100-week07-aged-care-outreach
   - fxa100-week07-creating-resources-memory-trees-and-boxes
-updated: 2026-05-04
+- fxa100-week07-aged-care-outreach
+- fxa100-week07-creating-resources-memory-trees-and-boxes
+tags:
+- elderly-engagement
+title: Elderly Engagement
+type: topic
+updated: 2026-05-11
 ---
 
 ## Elderly Engagement

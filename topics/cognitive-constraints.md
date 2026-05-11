@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cognitive Constraints in Artistic Expression"
 confidence: low
-tags: ["cognitive-constraints"]
+domain: intervention
+slug: cognitive-constraints-in-artistic-expression
 sources:
-  - fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia-(2)
+- fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia-(2)
+tags:
+- cognitive-constraints
+title: Cognitive Constraints in Artistic Expression
+type: topic
 updated: 2026-05-04
 ---
 

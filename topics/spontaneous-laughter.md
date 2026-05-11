@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Laughter as a Therapeutic Tool"
 confidence: medium
-tags: ["spontaneous-laughter"]
+domain: intervention
+slug: laughter-as-a-therapeutic-tool
 sources:
-  - fxa301-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
-  - fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
+- fxa301-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
+- fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
+tags:
+- spontaneous-laughter
+title: Laughter as a Therapeutic Tool
+type: topic
 updated: 2026-05-04
 ---
 

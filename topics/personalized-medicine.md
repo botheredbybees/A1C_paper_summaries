@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Personalized Medicine for Alzheimer's Disease"
 confidence: medium
-tags: ["personalized-medicine"]
+domain: intervention
+slug: personalized-medicine-for-alzheimer-s-disease
 sources:
-  - fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy
-  - fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there
+- fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy
+- fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there
+tags:
+- personalized-medicine
+title: Personalized Medicine for Alzheimer's Disease
+type: topic
 updated: 2026-05-03
 ---
 

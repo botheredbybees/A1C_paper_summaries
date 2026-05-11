@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Resilient Behaviors"
 confidence: low
-tags: ["resilient-behaviors"]
+domain: intervention
+slug: resilient-behaviors
 sources:
-  - fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot
+- fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot
+tags:
+- resilient-behaviors
+title: Resilient Behaviors
+type: topic
 updated: 2026-05-04
 ---
 

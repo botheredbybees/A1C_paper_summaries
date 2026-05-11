@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Perceived Social Support"
 confidence: low
-tags: ["perceived-social-support"]
+domain: intervention
+slug: perceived-social-support
 sources:
-  - fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope
+- fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope
+tags:
+- perceived-social-support
+title: Perceived Social Support
+type: topic
 updated: 2026-05-04
 ---
 

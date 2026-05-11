@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Online Learning in Arts and Dementia Care"
 confidence: medium
-tags: ["online-learning"]
+domain: intervention
+slug: online-learning-in-arts-and-dementia-care
 sources:
   - fxa100-week01-lesson-fxa100-week01-page-3-week-1-activities
   - fxa100-week10-web-article-brooker-2013
@@ -11,7 +9,17 @@ sources:
   - fxa202-week10-2022-week-10-lecture-transcript
   - fxa301-week01-quiz-information-getting-started-in-mylo
   - fxa301-week01-week-1-activities-page-video
-updated: 2026-05-05
+- fxa100-week01-lesson-fxa100-week01-page-3-week-1-activities
+- fxa100-week10-web-article-brooker-2013
+- fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling
+- fxa202-week10-2022-week-10-lecture-transcript
+- fxa301-week01-quiz-information-getting-started-in-mylo
+- fxa301-week01-week-1-activities-page-video
+tags:
+- online-learning
+title: Online Learning in Arts and Dementia Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Online Learning in Arts and Dementia Care

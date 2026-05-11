@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Hermeneutic Phenomenology"
 confidence: low
-tags: ["hermeneutic-phenomenology"]
+domain: method
+slug: hermeneutic-phenomenology
 sources:
-  - fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary
+- fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary
+tags:
+- hermeneutic-phenomenology
+title: Hermeneutic Phenomenology
+type: topic
 updated: 2026-05-04
 ---
 

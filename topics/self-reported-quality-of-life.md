@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Self-Reported Quality Of Life"
 confidence: low
-tags: ["self-reported-quality-of-life"]
+domain: intervention
+slug: self-reported-quality-of-life
 sources:
-  - fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to
+- fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to
+tags:
+- self-reported-quality-of-life
+title: Self-Reported Quality Of Life
+type: topic
 updated: 2026-05-04
 ---
 

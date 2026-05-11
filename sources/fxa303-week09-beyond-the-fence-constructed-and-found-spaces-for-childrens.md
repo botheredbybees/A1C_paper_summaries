@@ -11,7 +11,7 @@ tags: ["disaster-recovery", "child-rights", "play-spaces", "refugee-camps", "men
 key_concepts: ["children's outdoor play", "disaster resilience", "found spaces vs constructed spaces"]
 methods: ["case study"]
 slug: fxa303-week09-beyond-the-fence-constructed-and-found-spaces-for-childrens
-related: ["disaster-recovery", "mental-health"]
+related: ["disaster-recovery", "mental-health", "refugee-camps"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,3 +45,4 @@ Helen Woolley's article 'Beyond the Fence' explores how children’s play is aff
 
 - [disaster-recovery](../topics/disaster-recovery.md)
 - [mental-health](../topics/mental-health.md)
+- [refugee-camps](../topics/refugee-camps.md)

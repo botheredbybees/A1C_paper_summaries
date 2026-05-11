@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Extracurricular Activities"
 confidence: low
-tags: ["extracurricular-activities"]
+domain: intervention
+slug: extracurricular-activities
 sources:
-  - fxa303-week03-the-impact-of-art-education-on-human-capital-an-empirical
+- fxa303-week03-the-impact-of-art-education-on-human-capital-an-empirical
+tags:
+- extracurricular-activities
+title: Extracurricular Activities
+type: topic
 updated: 2026-05-04
 ---
 

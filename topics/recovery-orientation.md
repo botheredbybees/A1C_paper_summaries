@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Recovery-Oriented Music Therapy"
 confidence: low
-tags: ["recovery-orientation"]
+domain: intervention
+slug: recovery-oriented-music-therapy
 sources:
-  - fxa100-week04-music-therapy-promotes-mental-health-in-schools
+- fxa100-week04-music-therapy-promotes-mental-health-in-schools
+tags:
+- recovery-orientation
+title: Recovery-Oriented Music Therapy
+type: topic
 updated: 2026-05-04
 ---
 

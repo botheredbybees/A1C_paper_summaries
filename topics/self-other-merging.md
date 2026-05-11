@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Self-Other Merging in Social Bonding"
 confidence: low
-tags: ["self-other-merging"]
+domain: theory
+slug: self-other-merging-in-social-bonding
 sources:
-  - fxa301-week06-music-and-social-bonding-self-other-merging-and
+- fxa301-week06-music-and-social-bonding-self-other-merging-and
+tags:
+- self-other-merging
+title: Self-Other Merging in Social Bonding
+type: topic
 updated: 2026-05-04
 ---
 

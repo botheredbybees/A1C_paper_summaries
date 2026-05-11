@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Marionette Performance"
 confidence: low
-tags: ["marionette-performance"]
+domain: intervention
+slug: marionette-performance
 sources:
-  - fxa303-week05-puppets-and-self-care-for-task-2
+- fxa303-week05-puppets-and-self-care-for-task-2
+tags:
+- marionette-performance
+title: Marionette Performance
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Systems Thinking"
 confidence: low
-tags: ["systems-thinking"]
+domain: method
+slug: systems-thinking
 sources:
-  - fxa301-arts-in-health-ch29-4-invite-open-responses
+- fxa301-arts-in-health-ch29-4-invite-open-responses
+tags:
+- systems-thinking
+title: Systems Thinking
+type: topic
 updated: 2026-05-04
 ---
 

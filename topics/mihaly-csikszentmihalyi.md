@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Mihaly Csikszentmihalyi's Theory of Flow"
 confidence: low
-tags: ["mihaly-csikszentmihalyi"]
+domain: theory
+slug: mihaly-csikszentmihalyi-s-theory-of-flow
 sources:
-  - fxa301-week10-advances-in-flow-research
+- fxa301-week10-advances-in-flow-research
+tags:
+- mihaly-csikszentmihalyi
+title: Mihaly Csikszentmihalyi's Theory of Flow
+type: topic
 updated: 2026-05-04
 ---
 

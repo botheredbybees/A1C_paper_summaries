@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Professional Responsibilities and Ethical Considerations"
 confidence: medium
-tags: ["professional-responsibilities"]
+domain: intervention
+slug: professional-responsibilities-and-ethical-considerations
 sources:
   - fxa301-arts-in-health-ch76-3-responsibility
   - fxa301-arts-in-health-ch76-3-responsibility-(2)
-updated: 2026-05-04
+- fxa301-arts-in-health-ch76-3-responsibility
+- fxa301-arts-in-health-ch76-3-responsibility-(2)
+tags:
+- professional-responsibilities
+title: Professional Responsibilities and Ethical Considerations
+type: topic
+updated: 2026-05-11
 ---
 
 ## Professional Responsibilities and Ethical Considerations

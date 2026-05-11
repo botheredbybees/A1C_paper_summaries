@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Hypothetical Scenarios"
 confidence: low
-tags: ["hypothetical-scenarios"]
+domain: intervention
+slug: hypothetical-scenarios
 sources:
-  - fxa202-week05-where-do-you-get-your-ideas
+- fxa202-week05-where-do-you-get-your-ideas
+tags:
+- hypothetical-scenarios
+title: Hypothetical Scenarios
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "population"
-title: "Mixed Dementia"
 confidence: medium
-tags: ["mixed-dementia"]
+domain: population
+slug: mixed-dementia
 sources:
-  - fxa100-week01-living-with-dementia-12-what-is-vascular-dementia
-  - fxa100-week01-transcript-dementia-australia
-  - fxa100-week07-prevalence-of-dementia-in-urban-and-regional-aboriginal
+- fxa100-week01-living-with-dementia-12-what-is-vascular-dementia
+- fxa100-week01-transcript-dementia-australia
+- fxa100-week07-prevalence-of-dementia-in-urban-and-regional-aboriginal
+tags:
+- mixed-dementia
+title: Mixed Dementia
+type: topic
 updated: 2026-05-04
 ---
 

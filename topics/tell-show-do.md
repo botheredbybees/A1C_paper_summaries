@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Tell-Show-Do Technique in Therapy"
 confidence: low
-tags: ["tell-show-do"]
+domain: intervention
+slug: tell-show-do-technique-in-therapy
 sources:
-  - fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic
+- fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic
+tags:
+- tell-show-do
+title: Tell-Show-Do Technique in Therapy
+type: topic
 updated: 2026-05-04
 ---
 

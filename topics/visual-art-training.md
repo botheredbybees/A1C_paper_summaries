@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Visual Art Training"
 confidence: low
-tags: ["visual-art-training"]
+domain: intervention
+slug: visual-art-training
 sources:
-  - fxa100-week06-art-training-in-dementia-a-randomized-controlled-trial
+- fxa100-week06-art-training-in-dementia-a-randomized-controlled-trial
+tags:
+- visual-art-training
+title: Visual Art Training
+type: topic
 updated: 2026-05-04
 ---
 

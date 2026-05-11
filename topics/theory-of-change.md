@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Theory Of Change"
 confidence: low
-tags: ["theory-of-change"]
+domain: theory
+slug: theory-of-change
 sources:
-  - fxa301-week08-clown-doctors-australia-strategy-2025-2030
+- fxa301-week08-clown-doctors-australia-strategy-2025-2030
+tags:
+- theory-of-change
+title: Theory Of Change
+type: topic
 updated: 2026-05-04
 ---
 

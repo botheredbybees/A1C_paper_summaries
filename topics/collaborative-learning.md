@@ -1,13 +1,18 @@
 ---
-type: topic
-domain: "intervention"
-title: "Collaborative Learning Through Creative Arts"
 confidence: medium
-tags: ["collaborative-learning"]
+domain: intervention
+slug: collaborative-learning-through-creative-arts
 sources:
   - fxa100-week09-people-with-dementia-as-spect-actors-in-a-musical-theatre
+  - fxa100-week11-intergenerational-dancemovement-program-in-melbourne
   - fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37
-updated: 2026-05-05
+- fxa100-week09-people-with-dementia-as-spect-actors-in-a-musical-theatre
+- fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37
+tags:
+- collaborative-learning
+title: Collaborative Learning Through Creative Arts
+type: topic
+updated: 2026-05-11
 ---
 
 ## Collaborative Learning Through Creative Arts
@@ -27,4 +32,5 @@ The integration of collaborative learning through creative arts highlights a tra
 ## Sources
 
 - [fxa100-week09-people-with-dementia-as-spect-actors-in-a-musical-theatre](../sources/fxa100-week09-people-with-dementia-as-spect-actors-in-a-musical-theatre.md)
+- [fxa100-week11-intergenerational-dancemovement-program-in-melbourne](../sources/fxa100-week11-intergenerational-dancemovement-program-in-melbourne.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37](../sources/fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37.md)

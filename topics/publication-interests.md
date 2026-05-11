@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Publication Interests"
 confidence: low
-tags: ["publication-interests"]
+domain: intervention
+slug: publication-interests
 sources:
-  - fxa202-week10-how-to-pitch-articles-to-editors
+- fxa202-week10-how-to-pitch-articles-to-editors
+tags:
+- publication-interests
+title: Publication Interests
+type: topic
 updated: 2026-05-04
 ---
 

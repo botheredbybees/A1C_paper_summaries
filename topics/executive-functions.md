@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Executive Functions"
 confidence: low
-tags: ["executive-functions"]
+domain: theory
+slug: executive-functions
 sources:
-  - fxa301-week02-the-brain-and-how-we-perceive-information
+- fxa301-week02-the-brain-and-how-we-perceive-information
+tags:
+- executive-functions
+title: Executive Functions
+type: topic
 updated: 2026-05-04
 ---
 

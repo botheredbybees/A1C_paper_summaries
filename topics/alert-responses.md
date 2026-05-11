@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Alert Responses in Dementia Care"
 confidence: low
-tags: ["alert-responses"]
+domain: intervention
+slug: alert-responses-in-dementia-care
 sources:
-  - fxa100-week04-the-effect-of-singing-on-alert-responses-in-persons-with
+- fxa100-week04-the-effect-of-singing-on-alert-responses-in-persons-with
+tags:
+- alert-responses
+title: Alert Responses in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

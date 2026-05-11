@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Journey Through Grief"
 confidence: low
-tags: ["emotional-journey"]
+domain: intervention
+slug: emotional-journey-through-grief
 sources:
-  - fxa202-week09-reflections-on-grieving-at-a-seaside-pier
+- fxa202-week09-reflections-on-grieving-at-a-seaside-pier
+tags:
+- emotional-journey
+title: Emotional Journey Through Grief
+type: topic
 updated: 2026-05-04
 ---
 

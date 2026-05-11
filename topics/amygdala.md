@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "theory"
-title: "Amygdala Function in the Brain"
 confidence: medium
-tags: ["amygdala"]
+domain: theory
+slug: amygdala-function-in-the-brain
 sources:
-  - fxa100-week03-transcript-the-effects-of-music-on-the-brain
-  - fxa301-week01-lesson-fxa301-week01-page-2
+- fxa100-week03-transcript-the-effects-of-music-on-the-brain
+- fxa301-week01-lesson-fxa301-week01-page-2
+tags:
+- amygdala
+title: Amygdala Function in the Brain
+type: topic
 updated: 2026-05-04
 ---
 

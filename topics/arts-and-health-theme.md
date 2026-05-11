@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Arts And Health Themes"
 confidence: low
-tags: ["arts-and-health-theme"]
+domain: theory
+slug: arts-and-health-themes
 sources:
-  - fxa202-week01-lesson-fxa202-week01-chapter-4-inspiration
+- fxa202-week01-lesson-fxa202-week01-chapter-4-inspiration
+tags:
+- arts-and-health-theme
+title: Arts And Health Themes
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Self-Concept Development in Therapeutic Settings"
 confidence: medium
-tags: ["self-concept"]
+domain: intervention
+slug: self-concept-development-in-therapeutic-settings
 sources:
   - fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental
   - fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for
-updated: 2026-05-04
+- fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental
+- fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for
+tags:
+- self-concept
+title: Self-Concept Development in Therapeutic Settings
+type: topic
+updated: 2026-05-11
 ---
 
 ## Self-Concept Development in Therapeutic Settings

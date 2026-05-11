@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Three-Picture Technique"
 confidence: low
-tags: ["3-picture-technique"]
+domain: method
+slug: three-picture-technique
 sources:
-  - fxa202-week09-do-you-struggle-with-constructing-a-photo-story-try-this-3
+- fxa202-week09-do-you-struggle-with-constructing-a-photo-story-try-this-3
+tags:
+- 3-picture-technique
+title: Three-Picture Technique
+type: topic
 updated: 2026-05-04
 ---
 

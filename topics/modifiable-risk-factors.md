@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Modifiable Risk Factors for Dementia"
 confidence: medium
-tags: ["modifiable-risk-factors"]
+domain: intervention
+slug: modifiable-risk-factors-for-dementia
 sources:
-  - fxa100-week01-dementia-in-australia
-  - fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy
+- fxa100-week01-dementia-in-australia
+- fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy
+tags:
+- modifiable-risk-factors
+title: Modifiable Risk Factors for Dementia
+type: topic
 updated: 2026-05-04
 ---
 

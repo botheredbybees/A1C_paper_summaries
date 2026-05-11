@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Timely Diagnosis and Treatment"
 confidence: low
-tags: ["timely-diagnosis-and-treatment"]
+domain: intervention
+slug: timely-diagnosis-and-treatment
 sources:
-  - fxa303-week04-missed-early-intervention-opportunities-for-children-with
+- fxa303-week04-missed-early-intervention-opportunities-for-children-with
+tags:
+- timely-diagnosis-and-treatment
+title: Timely Diagnosis and Treatment
+type: topic
 updated: 2026-05-04
 ---
 

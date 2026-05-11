@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Amygdala Ablation"
 confidence: medium
-tags: ["amygdala-ablation"]
+domain: intervention
+slug: amygdala-ablation
 sources:
   - fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and
   - fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2)
-updated: 2026-05-03
+- fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and
+- fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2)
+tags:
+- amygdala-ablation
+title: Amygdala Ablation
+type: topic
+updated: 2026-05-11
 ---
 
 ## Amygdala Ablation

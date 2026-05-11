@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-health
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Arts Health
@@ -14,3 +14,4 @@ updated: 2026-05-06
 - [Arts, Health and Wellbeing: evidence and implications](../sources/fxa301-week03-arts-health-and-wellbeing-evidence-and-implications.md)
 - [Cross-Sector Strategies for Health and Community Well-Being](../sources/fxa301-week03-cross-sector-strategies-for-health-and-community-well-being.md)
 - [Web Lecture 3 - Arts in the Community for Health and Wellbeing](../sources/fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing.md)
+- [What is the evidence on the role of the arts in improving health and well-being? A scoping review](../sources/fxa303-week11-web-article-fancourt-2019.md)

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Registered Music Therapist"
 confidence: low
-tags: ["registered-music-therapist-rmt"]
+domain: intervention
+slug: registered-music-therapist
 sources:
-  - fxa100-week04-lesson-fxa100-week04-page-1-welcome-to-week-4
+- fxa100-week04-lesson-fxa100-week04-page-1-welcome-to-week-4
+tags:
+- registered-music-therapist-rmt
+title: Registered Music Therapist
+type: topic
 updated: 2026-05-04
 ---
 

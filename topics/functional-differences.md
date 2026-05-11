@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Functional Differences in Musicians' Brains"
 confidence: low
-tags: ["functional-differences"]
+domain: intervention
+slug: functional-differences-in-musicians-brains
 sources:
-  - fxa100-week02-are-the-brains-of-musicians-physically-different
+- fxa100-week02-are-the-brains-of-musicians-physically-different
+tags:
+- functional-differences
+title: Functional Differences in Musicians' Brains
+type: topic
 updated: 2026-05-04
 ---
 

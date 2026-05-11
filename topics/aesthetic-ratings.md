@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Aesthetic Ratings in Art Appreciation"
 confidence: low
-tags: ["aesthetic-ratings"]
+domain: method
+slug: aesthetic-ratings-in-art-appreciation
 sources:
-  - fxa100-week06-the-brain-on-art-intense-aesthetic-experience-activates-the
+- fxa100-week06-the-brain-on-art-intense-aesthetic-experience-activates-the
+tags:
+- aesthetic-ratings
+title: Aesthetic Ratings in Art Appreciation
+type: topic
 updated: 2026-05-04
 ---
 

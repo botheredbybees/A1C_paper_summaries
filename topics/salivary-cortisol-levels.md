@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Salivary Cortisol Levels"
 confidence: low
-tags: ["salivary-cortisol-levels"]
+domain: method
+slug: salivary-cortisol-levels
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35
+- fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35
+tags:
+- salivary-cortisol-levels
+title: Salivary Cortisol Levels
+type: topic
 updated: 2026-05-04
 ---
 

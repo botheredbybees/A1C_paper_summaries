@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Ugliness Stimulates Imagination"
 confidence: low
-tags: ["ugliness-stimulates-imagination"]
+domain: theory
+slug: ugliness-stimulates-imagination
 sources:
-  - fxa202-week09-critical-reflection-the-photo-essay
+- fxa202-week09-critical-reflection-the-photo-essay
+tags:
+- ugliness-stimulates-imagination
+title: Ugliness Stimulates Imagination
+type: topic
 updated: 2026-05-04
 ---
 

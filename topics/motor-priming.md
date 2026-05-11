@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Motor Priming"
 confidence: low
-tags: ["motor-priming"]
+domain: intervention
+slug: motor-priming
 sources:
-  - fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with
+- fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with
+tags:
+- motor-priming
+title: Motor Priming
+type: topic
 updated: 2026-05-04
 ---
 

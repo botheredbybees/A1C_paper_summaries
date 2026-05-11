@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Cultural Connection"
 confidence: low
-tags: ["cultural-connection"]
+domain: population
+slug: cultural-connection
 sources:
-  - fxa301-week05-naidoc-week-aboriginal-mural-brings-community-together-in
+- fxa301-week05-naidoc-week-aboriginal-mural-brings-community-together-in
+tags:
+- cultural-connection
+title: Cultural Connection
+type: topic
 updated: 2026-05-04
 ---
 

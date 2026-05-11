@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Peer Feedback"
 confidence: low
-tags: ["peer-feedback"]
+domain: method
+slug: peer-feedback
 sources:
-  - fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays
+- fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays
+tags:
+- peer-feedback
+title: Peer Feedback
+type: topic
 updated: 2026-05-04
 ---
 

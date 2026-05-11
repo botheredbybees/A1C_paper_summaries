@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Outlets for Dementia Patients"
 confidence: low
-tags: ["creative-outlets"]
+domain: intervention
+slug: creative-outlets-for-dementia-patients
 sources:
-  - fxa100-week03-pearl-85-and-living-with-dementia-adds-another-string-to
+- fxa100-week03-pearl-85-and-living-with-dementia-adds-another-string-to
+tags:
+- creative-outlets
+title: Creative Outlets for Dementia Patients
+type: topic
 updated: 2026-05-04
 ---
 

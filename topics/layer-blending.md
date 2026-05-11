@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Layer Blending Techniques"
 confidence: low
-tags: ["layer-blending"]
+domain: method
+slug: layer-blending-techniques
 sources:
-  - fxa202-week08-how-to-merge-and-combine-images-in-photoshop-(2)
+- fxa202-week08-how-to-merge-and-combine-images-in-photoshop-(2)
+tags:
+- layer-blending
+title: Layer Blending Techniques
+type: topic
 updated: 2026-05-04
 ---
 

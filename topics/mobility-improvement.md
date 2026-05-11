@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Mobility Improvement for Parkinson's Disease"
 confidence: low
-tags: ["mobility-improvement"]
+domain: intervention
+slug: mobility-improvement-for-parkinson-s-disease
 sources:
-  - fxa301-week06-therapeutic-dancing-for-parkinsons-disease
+- fxa301-week06-therapeutic-dancing-for-parkinsons-disease
+tags:
+- mobility-improvement
+title: Mobility Improvement for Parkinson's Disease
+type: topic
 updated: 2026-05-04
 ---
 

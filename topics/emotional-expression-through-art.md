@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Expression Through Art"
 confidence: medium
-tags: ["emotional-expression-through-art"]
+domain: intervention
+slug: emotional-expression-through-art
 sources:
-  - fxa202-week03-can-photography-help-depression
-  - fxa303-week04-transcript-duration-3-03
+- fxa202-week03-can-photography-help-depression
+- fxa303-week04-transcript-duration-3-03
+tags:
+- emotional-expression-through-art
+title: Emotional Expression Through Art
+type: topic
 updated: 2026-05-04
 ---
 

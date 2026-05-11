@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Expression Promotion"
 confidence: low
-tags: ["emotional-expression-promotion"]
+domain: intervention
+slug: emotional-expression-promotion
 sources:
-  - fxa303-week08-hospital-clowning-as-play-stimulus-in-healthcare
+- fxa303-week08-hospital-clowning-as-play-stimulus-in-healthcare
+tags:
+- emotional-expression-promotion
+title: Emotional Expression Promotion
+type: topic
 updated: 2026-05-04
 ---
 

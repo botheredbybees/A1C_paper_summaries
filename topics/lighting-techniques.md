@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "method"
-title: "Creative Lighting Techniques"
 confidence: medium
-tags: ["lighting-techniques"]
+domain: method
+slug: creative-lighting-techniques
 sources:
   - fxa202-week02-10-tips-for-better-composition
   - fxa202-week02-super-simple-introduction-to-manual-mode-and-how-it-will
   - fxa202-week08-home-hints-for-artwork-and-object-documentation
-updated: 2026-05-05
+- fxa202-week02-10-tips-for-better-composition
+- fxa202-week02-super-simple-introduction-to-manual-mode-and-how-it-will
+- fxa202-week08-home-hints-for-artwork-and-object-documentation
+tags:
+- lighting-techniques
+title: Creative Lighting Techniques
+type: topic
+updated: 2026-05-11
 ---
 
 ## Creative Lighting Techniques

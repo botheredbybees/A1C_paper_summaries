@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Trance-Inducing Rituals"
 confidence: low
-tags: ["trance-inducing-rituals"]
+domain: intervention
+slug: trance-inducing-rituals
 sources:
-  - fxa301-week06-lesson-fxa301-week06-page-1
+- fxa301-week06-lesson-fxa301-week06-page-1
+tags:
+- trance-inducing-rituals
+title: Trance-Inducing Rituals
+type: topic
 updated: 2026-05-04
 ---
 

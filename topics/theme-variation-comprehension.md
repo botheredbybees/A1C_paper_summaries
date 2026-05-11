@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Theme-Variation Comprehension in Music"
 confidence: low
-tags: ["theme-variation-comprehension"]
+domain: theory
+slug: theme-variation-comprehension-in-music
 sources:
-  - fxa301-week02-are-we-experienced-listeners-a-review-of-the-musical
+- fxa301-week02-are-we-experienced-listeners-a-review-of-the-musical
+tags:
+- theme-variation-comprehension
+title: Theme-Variation Comprehension in Music
+type: topic
 updated: 2026-05-04
 ---
 

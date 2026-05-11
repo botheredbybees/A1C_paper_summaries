@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Holistic Education"
 confidence: low
-tags: ["holistic-education"]
+domain: theory
+slug: holistic-education
 sources:
-  - fxa303-week02-the-psychosocial-development-of-children-implications-for
+- fxa303-week02-the-psychosocial-development-of-children-implications-for
+tags:
+- holistic-education
+title: Holistic Education
+type: topic
 updated: 2026-05-04
 ---
 

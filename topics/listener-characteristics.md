@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Listener Characteristics"
 confidence: low
-tags: ["listener-characteristics"]
+domain: population
+slug: listener-characteristics
 sources:
-  - fxa301-week02-an-experience-sampling-study-of-emotional-reactions-to
+- fxa301-week02-an-experience-sampling-study-of-emotional-reactions-to
+tags:
+- listener-characteristics
+title: Listener Characteristics
+type: topic
 updated: 2026-05-04
 ---
 

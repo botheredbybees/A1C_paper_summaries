@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Strengths-Based Approach"
 confidence: medium
-tags: ["strengths-based-approach"]
+domain: intervention
+slug: strengths-based-approach
 sources:
   - fxa303-week09-recovery-oriented-language-guide
   - fxa303-week10-cultural-determinants-of-health-for-aboriginal-and-torres
-updated: 2026-05-04
+- fxa303-week09-recovery-oriented-language-guide
+- fxa303-week10-cultural-determinants-of-health-for-aboriginal-and-torres
+tags:
+- strengths-based-approach
+title: Strengths-Based Approach
+type: topic
+updated: 2026-05-11
 ---
 
 ## Strengths-Based Approach

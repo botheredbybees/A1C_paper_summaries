@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Hypothalamic-Pituitary-Adrenal Axis"
 confidence: low
-tags: ["hypothalamic-pituitary-adrenal-axis"]
+domain: intervention
+slug: hypothalamic-pituitary-adrenal-axis
 sources:
-  - fxa303-week01-post-traumatic-stress-disorder-the-neurobiological-impact
+- fxa303-week01-post-traumatic-stress-disorder-the-neurobiological-impact
+tags:
+- hypothalamic-pituitary-adrenal-axis
+title: Hypothalamic-Pituitary-Adrenal Axis
+type: topic
 updated: 2026-05-04
 ---
 

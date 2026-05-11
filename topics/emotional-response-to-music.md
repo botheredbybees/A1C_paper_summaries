@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Response to Music"
 confidence: low
-tags: ["emotional-response-to-music"]
+domain: intervention
+slug: emotional-response-to-music
 sources:
-  - fxa301-week02-are-we-experienced-listeners-a-review-of-the-musical
+- fxa301-week02-are-we-experienced-listeners-a-review-of-the-musical
+tags:
+- emotional-response-to-music
+title: Emotional Response to Music
+type: topic
 updated: 2026-05-04
 ---
 

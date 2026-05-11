@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Health and Wellbeing Outcomes"
 confidence: low
-tags: ["health-and-wellbeing-outcomes"]
+domain: intervention
+slug: health-and-wellbeing-outcomes
 sources:
-  - fxa301-week01-lesson-fxa301-week01-troubleshooting1
+- fxa301-week01-lesson-fxa301-week01-troubleshooting1
+tags:
+- health-and-wellbeing-outcomes
+title: Health and Wellbeing Outcomes
+type: topic
 updated: 2026-05-04
 ---
 

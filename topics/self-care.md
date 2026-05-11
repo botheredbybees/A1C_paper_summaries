@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Self-Care for Caregivers"
 confidence: low
-tags: ["self-care"]
+domain: intervention
+slug: self-care-for-caregivers
 sources:
-  - fxa100-week04-web-article-dementia-2022
+- fxa100-week04-web-article-dementia-2022
+tags:
+- self-care
+title: Self-Care for Caregivers
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Confessional Writing"
 confidence: low
-tags: ["confessional-writing"]
+domain: intervention
+slug: confessional-writing
 sources:
-  - fxa202-week09-reflection-on-creating-a-photo-essay-about-breast-cancer
+- fxa202-week09-reflection-on-creating-a-photo-essay-about-breast-cancer
+tags:
+- confessional-writing
+title: Confessional Writing
+type: topic
 updated: 2026-05-04
 ---
 

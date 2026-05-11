@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Memory Therapy in Dementia"
 confidence: medium
-tags: ["memory-therapy"]
+domain: intervention
+slug: memory-therapy-in-dementia
 sources:
   - fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum
   - fxa100-week07-turning-back-the-hands-of-time-autobiographical-memories-in
-updated: 2026-05-04
+- fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum
+- fxa100-week07-turning-back-the-hands-of-time-autobiographical-memories-in
+tags:
+- memory-therapy
+title: Memory Therapy in Dementia
+type: topic
+updated: 2026-05-11
 ---
 
 ## Memory Therapy in Dementia

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Distraction Therapy"
 confidence: low
-tags: ["distraction-therapy"]
+domain: intervention
+slug: distraction-therapy
 sources:
-  - fxa303-week08-therapeutic-clowning-in-paediatric-practice
+- fxa303-week08-therapeutic-clowning-in-paediatric-practice
+tags:
+- distraction-therapy
+title: Distraction Therapy
+type: topic
 updated: 2026-05-04
 ---
 

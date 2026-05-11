@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Intelligence"
 confidence: medium
-tags: ["emotional-intelligence"]
+domain: intervention
+slug: emotional-intelligence
 sources:
-  - fxa301-week08-lesson-fxa301-week07-page-1
-  - fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children
+- fxa301-week08-lesson-fxa301-week07-page-1
+- fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children
+tags:
+- emotional-intelligence
+title: Emotional Intelligence
+type: topic
 updated: 2026-05-04
 ---
 

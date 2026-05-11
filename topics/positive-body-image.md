@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Positive Body Image"
 confidence: low
-tags: ["positive-body-image"]
+domain: intervention
+slug: positive-body-image
 sources:
-  - fxa301-week10-body-talk-examining-a-collaborative-multiple-visit-program
+- fxa301-week10-body-talk-examining-a-collaborative-multiple-visit-program
+tags:
+- positive-body-image
+title: Positive Body Image
+type: topic
 updated: 2026-05-04
 ---
 

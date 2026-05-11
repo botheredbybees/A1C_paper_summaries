@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Environmental Modifications in Senior Care Facilities"
 confidence: low
-tags: ["environmental-modifications"]
+domain: intervention
+slug: environmental-modifications-in-senior-care-facilities
 sources:
-  - fxa100-week08-transcript-youtube-uk9nnjw4xuuduration
+- fxa100-week08-transcript-youtube-uk9nnjw4xuuduration
+tags:
+- environmental-modifications
+title: Environmental Modifications in Senior Care Facilities
+type: topic
 updated: 2026-05-04
 ---
 

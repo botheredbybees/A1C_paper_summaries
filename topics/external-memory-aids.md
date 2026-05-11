@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "External Memory Aids"
 confidence: low
-tags: ["external-memory-aids"]
+domain: intervention
+slug: external-memory-aids
 sources:
-  - fxa100-excellence-in-dementia-care--ch09-chapter-15
+- fxa100-excellence-in-dementia-care--ch09-chapter-15
+tags:
+- external-memory-aids
+title: External Memory Aids
+type: topic
 updated: 2026-05-04
 ---
 

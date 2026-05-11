@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Dysfunctional Circuit Mechanisms in Autism Spectrum Disorders"
 confidence: low
-tags: ["dysfunctional-circuit-mechanisms"]
+domain: intervention
+slug: dysfunctional-circuit-mechanisms-in-autism-spectrum-disorders
 sources:
-  - fxa303-week04-neurobiology-of-autism-spectrum-disorders
+- fxa303-week04-neurobiology-of-autism-spectrum-disorders
+tags:
+- dysfunctional-circuit-mechanisms
+title: Dysfunctional Circuit Mechanisms in Autism Spectrum Disorders
+type: topic
 updated: 2026-05-04
 ---
 

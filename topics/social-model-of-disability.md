@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "theory"
-title: "Social Model Of Disability"
 confidence: high
-tags: ["social-model-of-disability"]
+domain: theory
+slug: social-model-of-disability
 sources:
   - fxa100-excellence-in-dementia-care--ch33-1-place-covers-the-person
   - fxa301-week09-pwda-language-guide-a-guide-to-language-about-disability
   - fxa301-week09-transcript-the-following-video-from-people-with-disability
   - fxa301-week09-week-9-lecture-dr-brendan-lamb
-updated: 2026-05-04
+- fxa100-excellence-in-dementia-care--ch33-1-place-covers-the-person
+- fxa301-week09-pwda-language-guide-a-guide-to-language-about-disability
+- fxa301-week09-transcript-the-following-video-from-people-with-disability
+- fxa301-week09-week-9-lecture-dr-brendan-lamb
+tags:
+- social-model-of-disability
+title: Social Model Of Disability
+type: topic
+updated: 2026-05-11
 ---
 
 ## Social Model Of Disability

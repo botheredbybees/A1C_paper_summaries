@@ -1,13 +1,18 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Arts Therapies"
 confidence: medium
-tags: ["creative-arts-therapies"]
+domain: intervention
+slug: creative-arts-therapies
 sources:
   - fxa303-week04-arts-therapies-research-and-practice-with-persons-on-the
   - fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies
-updated: 2026-05-04
+  - fxa303-week11-creative-arts-therapies-for-the-mental-health-of-emerging
+- fxa303-week04-arts-therapies-research-and-practice-with-persons-on-the
+- fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies
+tags:
+- creative-arts-therapies
+title: Creative Arts Therapies
+type: topic
+updated: 2026-05-11
 ---
 
 ## Creative Arts Therapies
@@ -28,3 +33,4 @@ The synthesis of the two sources highlights the diverse applications and theoret
 
 - [fxa303-week04-arts-therapies-research-and-practice-with-persons-on-the](../sources/fxa303-week04-arts-therapies-research-and-practice-with-persons-on-the.md)
 - [fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies](../sources/fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies.md)
+- [fxa303-week11-creative-arts-therapies-for-the-mental-health-of-emerging](../sources/fxa303-week11-creative-arts-therapies-for-the-mental-health-of-emerging.md)

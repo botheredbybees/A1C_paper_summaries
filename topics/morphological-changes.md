@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Morphological Changes in Musicians' Brains"
 confidence: low
-tags: ["morphological-changes"]
+domain: intervention
+slug: morphological-changes-in-musicians-brains
 sources:
-  - fxa100-week02-are-the-brains-of-musicians-physically-different
+- fxa100-week02-are-the-brains-of-musicians-physically-different
+tags:
+- morphological-changes
+title: Morphological Changes in Musicians' Brains
+type: topic
 updated: 2026-05-04
 ---
 

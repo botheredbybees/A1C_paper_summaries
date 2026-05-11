@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Academic Skills Workshop"
 confidence: low
-tags: ["academic-skills-workshop"]
+domain: method
+slug: academic-skills-workshop
 sources:
-  - fxa202-week10-lesson-fxa202-week10-week-10
+- fxa202-week10-lesson-fxa202-week10-week-10
+tags:
+- academic-skills-workshop
+title: Academic Skills Workshop
+type: topic
 updated: 2026-05-04
 ---
 

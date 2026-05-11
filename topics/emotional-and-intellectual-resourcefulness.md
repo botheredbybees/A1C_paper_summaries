@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional And Intellectual Resourcefulness In Caregiving"
 confidence: low
-tags: ["emotional-and-intellectual-resourcefulness"]
+domain: intervention
+slug: emotional-and-intellectual-resourcefulness-in-caregiving
 sources:
-  - fxa100-week09-requirements-of-a-caregiver
+- fxa100-week09-requirements-of-a-caregiver
+tags:
+- emotional-and-intellectual-resourcefulness
+title: Emotional And Intellectual Resourcefulness In Caregiving
+type: topic
 updated: 2026-05-04
 ---
 

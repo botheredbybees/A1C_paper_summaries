@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "theory"
-title: "Hope in Vulnerable Populations"
 confidence: medium
-tags: ["hope"]
+domain: theory
+slug: hope-in-vulnerable-populations
 sources:
-  - fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope
-  - fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth
+- fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope
+- fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth
+tags:
+- hope
+title: Hope in Vulnerable Populations
+type: topic
 updated: 2026-05-04
 ---
 

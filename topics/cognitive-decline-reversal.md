@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cognitive Decline Reversal"
 confidence: low
-tags: ["cognitive-decline-reversal"]
+domain: intervention
+slug: cognitive-decline-reversal
 sources:
-  - fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients
+- fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients
+tags:
+- cognitive-decline-reversal
+title: Cognitive Decline Reversal
+type: topic
 updated: 2026-05-04
 ---
 

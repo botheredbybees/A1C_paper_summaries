@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-education
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Music Education
@@ -21,3 +21,5 @@ updated: 2026-05-06
 - [Does Music Change a Child's Brain](../sources/fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain.md)
 - [Music Instruction Can Make for a Smarter Teen](../sources/fxa303-week03-music-instruction-can-make-for-a-smarter-teen.md)
 - [Youth Orchestra Participation and Perceived Benefit: A Pilot Study of the Tasmanian Youth Orchestra](../sources/fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot.md)
+- [Orchestras for All Impact Report 2023-2024](../sources/fxa303-week11-orchestras-for-all-impact-report-2023-2024.md)
+- [The Story of Ghetto Classics: An Orchestra Born from a Kenya Garbage Dump](../sources/fxa303-week11-the-story-of-ghetto-classics-an-orchestra-born-from-a-kenya.md)

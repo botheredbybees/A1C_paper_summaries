@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Legal Obligations in Dementia Care"
 confidence: low
-tags: ["legal-obligations"]
+domain: intervention
+slug: legal-obligations-in-dementia-care
 sources:
-  - fxa100-excellence-in-dementia-care--ch35-1-understand-that-any-business
+- fxa100-excellence-in-dementia-care--ch35-1-understand-that-any-business
+tags:
+- legal-obligations
+title: Legal Obligations in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

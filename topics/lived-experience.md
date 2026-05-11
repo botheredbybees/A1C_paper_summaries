@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "population"
-title: "Lived Experience in Service Design"
 confidence: medium
-tags: ["lived-experience"]
+domain: population
+slug: lived-experience-in-service-design
 sources:
   - fxa202-week06-critical-reflection-of-the-development-of-the-finding-joy
   - fxa301-week03-statement-on-lived-experience
-updated: 2026-05-04
+- fxa202-week06-critical-reflection-of-the-development-of-the-finding-joy
+- fxa301-week03-statement-on-lived-experience
+tags:
+- lived-experience
+title: Lived Experience in Service Design
+type: topic
+updated: 2026-05-11
 ---
 
 ## Lived Experience in Service Design

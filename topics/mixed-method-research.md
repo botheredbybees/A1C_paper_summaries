@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Mixed-Methods Research in Cultural Programs"
 confidence: low
-tags: ["mixed-method-research"]
+domain: method
+slug: mixed-methods-research-in-cultural-programs
 sources:
-  - fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report
+- fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report
+tags:
+- mixed-method-research
+title: Mixed-Methods Research in Cultural Programs
+type: topic
 updated: 2026-05-04
 ---
 

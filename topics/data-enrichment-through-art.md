@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Data Enrichment Through Art"
 confidence: low
-tags: ["data-enrichment-through-art"]
+domain: intervention
+slug: data-enrichment-through-art
 sources:
-  - fxa301-week03-four-big-ways-to-improve-health-through-the-arts
+- fxa301-week03-four-big-ways-to-improve-health-through-the-arts
+tags:
+- data-enrichment-through-art
+title: Data Enrichment Through Art
+type: topic
 updated: 2026-05-04
 ---
 

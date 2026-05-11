@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Csikszentmihalyis Flow Theory"
 confidence: low
-tags: ["csikszentmihalyis-flow-theory"]
+domain: theory
+slug: csikszentmihalyis-flow-theory
 sources:
-  - fxa301-week10-lesson-fxa301-week10-page-1
+- fxa301-week10-lesson-fxa301-week10-page-1
+tags:
+- csikszentmihalyis-flow-theory
+title: Csikszentmihalyis Flow Theory
+type: topic
 updated: 2026-05-04
 ---
 

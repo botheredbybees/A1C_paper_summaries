@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "theory"
-title: "Lewy Body Dementia"
 confidence: medium
-tags: ["parkinsons-disease"]
+domain: theory
+slug: lewy-body-dementia
 sources:
   - fxa100-week01-the-science-of-lewy-body-dementia-video-transcript
   - fxa100-week01-transcript-the-science-of-lewy-body-dementia
@@ -14,7 +12,20 @@ sources:
   - fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with
   - fxa301-week06-therapeutic-dancing-for-parkinsons-disease
   - fxa301-week06-transcript-gait-training-for-parkinsons-patient-using-music
-updated: 2026-05-05
+- fxa100-week01-the-science-of-lewy-body-dementia-video-transcript
+- fxa100-week01-transcript-the-science-of-lewy-body-dementia
+- fxa301-week03-transcript-youtube-5utv1ergbs8
+- fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons
+- fxa301-week06-effect-of-rhythmic-auditory-cueing-on-parkinsonian-gait-a
+- fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait
+- fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with
+- fxa301-week06-therapeutic-dancing-for-parkinsons-disease
+- fxa301-week06-transcript-gait-training-for-parkinsons-patient-using-music
+tags:
+- parkinsons-disease
+title: Lewy Body Dementia
+type: topic
+updated: 2026-05-11
 ---
 
 ## Lewy Body Dementia

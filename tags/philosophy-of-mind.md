@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: philosophy-of-mind
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Philosophy Of Mind

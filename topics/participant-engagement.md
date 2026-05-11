@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Participant Engagement"
 confidence: low
-tags: ["participant-engagement"]
+domain: intervention
+slug: participant-engagement
 sources:
-  - fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia
+- fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia
+tags:
+- participant-engagement
+title: Participant Engagement
+type: topic
 updated: 2026-05-04
 ---
 

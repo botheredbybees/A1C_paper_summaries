@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Clowning"
 confidence: low
-tags: ["reduced-fear-and-anxiety"]
+domain: intervention
+slug: therapeutic-clowning
 sources:
-  - fxa303-week08-therapeutic-clowning
+- fxa303-week08-therapeutic-clowning
+tags:
+- reduced-fear-and-anxiety
+title: Therapeutic Clowning
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Mesolimbic Dopamine Pathway"
 confidence: low
-tags: ["mesolimbic-dopamine-pathway"]
+domain: theory
+slug: mesolimbic-dopamine-pathway
 sources:
-  - fxa301-week01-transcript-two-minute-neuroscience-reward-system
+- fxa301-week01-transcript-two-minute-neuroscience-reward-system
+tags:
+- mesolimbic-dopamine-pathway
+title: Mesolimbic Dopamine Pathway
+type: topic
 updated: 2026-05-04
 ---
 

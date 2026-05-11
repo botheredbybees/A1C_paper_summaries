@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Benefits of Nature"
 confidence: low
-tags: ["therapeutic-benefits-of-nature"]
+domain: intervention
+slug: therapeutic-benefits-of-nature
 sources:
-  - fxa202-week06-rediscovering-joy-during-lockdown
+- fxa202-week06-rediscovering-joy-during-lockdown
+tags:
+- therapeutic-benefits-of-nature
+title: Therapeutic Benefits of Nature
+type: topic
 updated: 2026-05-04
 ---
 

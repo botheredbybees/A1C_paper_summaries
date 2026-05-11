@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Complex Neural Networks"
 confidence: low
-tags: ["complex-neural-networks"]
+domain: theory
+slug: complex-neural-networks
 sources:
-  - fxa301-week01-lesson-fxa301-week01-week-1
+- fxa301-week01-lesson-fxa301-week01-week-1
+tags:
+- complex-neural-networks
+title: Complex Neural Networks
+type: topic
 updated: 2026-05-04
 ---
 

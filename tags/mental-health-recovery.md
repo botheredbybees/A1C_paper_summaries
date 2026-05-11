@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-health-recovery
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Mental Health Recovery

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Facilitation in Expressive Arts Therapy"
 confidence: low
-tags: ["facilitation"]
+domain: intervention
+slug: facilitation-in-expressive-arts-therapy
 sources:
-  - fxa100-week09-transcript-youtube-y1uwix2fnv4
+- fxa100-week09-transcript-youtube-y1uwix2fnv4
+tags:
+- facilitation
+title: Facilitation in Expressive Arts Therapy
+type: topic
 updated: 2026-05-04
 ---
 

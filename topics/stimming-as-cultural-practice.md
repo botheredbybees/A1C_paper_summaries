@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Stimming as a Cultural Practice"
 confidence: low
-tags: ["stimming-as-cultural-practice"]
+domain: theory
+slug: stimming-as-a-cultural-practice
 sources:
-  - fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on
+- fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on
+tags:
+- stimming-as-cultural-practice
+title: Stimming as a Cultural Practice
+type: topic
 updated: 2026-05-04
 ---
 

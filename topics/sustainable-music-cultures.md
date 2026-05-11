@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sustainable Music Cultures"
 confidence: low
-tags: ["sustainable-music-cultures"]
+domain: intervention
+slug: sustainable-music-cultures
 sources:
-  - fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2)
+- fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2)
+tags:
+- sustainable-music-cultures
+title: Sustainable Music Cultures
+type: topic
 updated: 2026-05-04
 ---
 

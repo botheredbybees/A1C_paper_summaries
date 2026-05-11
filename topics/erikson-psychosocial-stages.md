@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Erikson's Psychosocial Stages"
 confidence: low
-tags: ["erikson-psychosocial-stages"]
+domain: theory
+slug: erikson-s-psychosocial-stages
 sources:
-  - fxa303-week02-the-psychosocial-development-theory-of-erik-erikson
+- fxa303-week02-the-psychosocial-development-theory-of-erik-erikson
+tags:
+- erikson-psychosocial-stages
+title: Erikson's Psychosocial Stages
+type: topic
 updated: 2026-05-04
 ---
 

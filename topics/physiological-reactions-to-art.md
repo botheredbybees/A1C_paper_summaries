@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Physiological Reactions to Art"
 confidence: low
-tags: ["physiological-reactions-to-art"]
+domain: intervention
+slug: physiological-reactions-to-art
 sources:
-  - fxa301-week02-visualizing-the-impact-of-art-an-update-and-comparison-of
+- fxa301-week02-visualizing-the-impact-of-art-an-update-and-comparison-of
+tags:
+- physiological-reactions-to-art
+title: Physiological Reactions to Art
+type: topic
 updated: 2026-05-04
 ---
 

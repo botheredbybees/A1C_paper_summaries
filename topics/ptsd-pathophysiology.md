@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Pathophysiology of Post-Traumatic Stress Disorder"
 confidence: low
-tags: ["ptsd-pathophysiology"]
+domain: intervention
+slug: pathophysiology-of-post-traumatic-stress-disorder
 sources:
-  - fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2)
+- fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2)
+tags:
+- ptsd-pathophysiology
+title: Pathophysiology of Post-Traumatic Stress Disorder
+type: topic
 updated: 2026-05-04
 ---
 

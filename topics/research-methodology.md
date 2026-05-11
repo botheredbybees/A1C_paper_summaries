@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Research Methodology"
 confidence: medium
-tags: ["research-methodology"]
+domain: method
+slug: research-methodology
 sources:
   - fxa100-week04-a-step-by-step-approach-to-the-research-process
   - fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials
-updated: 2026-05-05
+- fxa100-week04-a-step-by-step-approach-to-the-research-process
+- fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials
+tags:
+- research-methodology
+title: Research Methodology
+type: topic
+updated: 2026-05-11
 ---
 
 ## Research Methodology

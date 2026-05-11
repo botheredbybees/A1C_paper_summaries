@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "method"
-title: "Ethnomusicology"
 confidence: high
-tags: ["ethnomusicology"]
+domain: method
+slug: ethnomusicology
 sources:
   - fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts
   - fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts-(2)
@@ -11,7 +9,17 @@ sources:
   - fxa301-make-arts-for-a-better-life-ch06-1-see-also-closing
   - fxa301-make-arts-for-a-better-life-ch42-156-oxford
   - fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2)
-updated: 2026-05-04
+- fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts
+- fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts-(2)
+- fxa301-make-arts-for-a-better-life-ch05-1-read-your-(2)
+- fxa301-make-arts-for-a-better-life-ch06-1-see-also-closing
+- fxa301-make-arts-for-a-better-life-ch42-156-oxford
+- fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2)
+tags:
+- ethnomusicology
+title: Ethnomusicology
+type: topic
+updated: 2026-05-11
 ---
 
 ## Ethnomusicology

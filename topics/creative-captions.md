@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Captions"
 confidence: low
-tags: ["creative-captions"]
+domain: intervention
+slug: creative-captions
 sources:
-  - fxa202-week02-lesson-fxa202-week02-creative-writing
+- fxa202-week02-lesson-fxa202-week02-creative-writing
+tags:
+- creative-captions
+title: Creative Captions
+type: topic
 updated: 2026-05-04
 ---
 

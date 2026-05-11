@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: anxiety-disorders-prevalence
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Anxiety Disorders Prevalence

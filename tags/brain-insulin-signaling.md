@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-insulin-signaling
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Brain Insulin Signaling

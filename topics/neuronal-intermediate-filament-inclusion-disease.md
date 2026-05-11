@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Neuronal Intermediate Filament Inclusion Disease"
 confidence: low
-tags: ["neuronal-intermediate-filament-inclusion-disease"]
+domain: intervention
+slug: neuronal-intermediate-filament-inclusion-disease
 sources:
-  - fxa100-week06-dementia-and-art-neuronal-intermediate-filament-inclusion
+- fxa100-week06-dementia-and-art-neuronal-intermediate-filament-inclusion
+tags:
+- neuronal-intermediate-filament-inclusion-disease
+title: Neuronal Intermediate Filament Inclusion Disease
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Optimal Experiences"
 confidence: low
-tags: ["optimal-experiences"]
+domain: theory
+slug: optimal-experiences
 sources:
-  - fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow
+- fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow
+tags:
+- optimal-experiences
+title: Optimal Experiences
+type: topic
 updated: 2026-05-04
 ---
 

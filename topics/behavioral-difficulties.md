@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Behavioral Difficulties in Adolescents"
 confidence: low
-tags: ["behavioral-difficulties"]
+domain: intervention
+slug: behavioral-difficulties-in-adolescents
 sources:
-  - fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy
+- fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy
+tags:
+- behavioral-difficulties
+title: Behavioral Difficulties in Adolescents
+type: topic
 updated: 2026-05-04
 ---
 

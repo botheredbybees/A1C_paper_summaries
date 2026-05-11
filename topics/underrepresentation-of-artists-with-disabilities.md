@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Underrepresentation of Artists with Disabilities"
 confidence: low
-tags: ["underrepresentation-of-artists-with-disabilities"]
+domain: population
+slug: underrepresentation-of-artists-with-disabilities
 sources:
-  - fxa301-week09-research-overview-arts-and-disability-in-australia
+- fxa301-week09-research-overview-arts-and-disability-in-australia
+tags:
+- underrepresentation-of-artists-with-disabilities
+title: Underrepresentation of Artists with Disabilities
+type: topic
 updated: 2026-05-04
 ---
 

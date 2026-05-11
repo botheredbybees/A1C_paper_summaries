@@ -1,12 +1,16 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts-Based Strategies for Youth Mental Health"
 confidence: low
-tags: ["arts-based-strategies"]
+domain: intervention
+slug: arts-based-strategies-for-youth-mental-health
 sources:
-  - fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a
-updated: 2026-05-04
+  - fxa303-week03-supporting-youth-mental-health-with-arts-based-strategies-a
+  - fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a-(2)
+- fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a
+tags:
+- arts-based-strategies
+title: Arts-Based Strategies for Youth Mental Health
+type: topic
+updated: 2026-05-11
 ---
 
 ## Arts-Based Strategies for Youth Mental Health
@@ -25,4 +29,5 @@ The integration of arts-based strategies into mental health support systems show
 
 ## Sources
 
-- [fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a](../sources/fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a.md)
+- [fxa303-week03-supporting-youth-mental-health-with-arts-based-strategies-a](../sources/fxa303-week03-supporting-youth-mental-health-with-arts-based-strategies-a.md)
+- [fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a-(2)](../sources/fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a-(2).md)

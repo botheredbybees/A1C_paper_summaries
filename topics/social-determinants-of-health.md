@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "theory"
-title: "Social Determinants Of Health"
 confidence: medium
-tags: ["social-determinants-of-health"]
+domain: theory
+slug: social-determinants-of-health
 sources:
   - fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions-(2)
   - fxa301-week03-health-inequalities-and-the-role-of-creative-health
   - fxa301-week03-introduction-to-creative-health-extract
   - fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the
-updated: 2026-05-05
+- fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions-(2)
+- fxa301-week03-health-inequalities-and-the-role-of-creative-health
+- fxa301-week03-introduction-to-creative-health-extract
+- fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the
+tags:
+- social-determinants-of-health
+title: Social Determinants Of Health
+type: topic
+updated: 2026-05-11
 ---
 
 ## Social Determinants Of Health

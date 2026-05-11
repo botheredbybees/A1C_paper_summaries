@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Confidence Building"
 confidence: medium
-tags: ["confidence-building"]
+domain: intervention
+slug: confidence-building
 sources:
-  - fxa301-week09-the-importance-of-disability-led-theatre
-  - fxa303-week06-miss-lilys-fabulous-feather-boa
+- fxa301-week09-the-importance-of-disability-led-theatre
+- fxa303-week06-miss-lilys-fabulous-feather-boa
+tags:
+- confidence-building
+title: Confidence Building
+type: topic
 updated: 2026-05-04
 ---
 

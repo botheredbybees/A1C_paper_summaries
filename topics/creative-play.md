@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Play Therapy"
 confidence: medium
-tags: ["creative-play"]
+domain: intervention
+slug: creative-play-therapy
 sources:
   - fxa303-puppet-play-therapy-ch08-6-posture-keep-your-arm-holding-the-puppet-at-a-right-angle
   - fxa303-week05-fxa303-week-5-welcome
-updated: 2026-05-04
+- fxa303-puppet-play-therapy-ch08-6-posture-keep-your-arm-holding-the-puppet-at-a-right-angle
+- fxa303-week05-fxa303-week-5-welcome
+tags:
+- creative-play
+title: Creative Play Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Creative Play Therapy

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Evocation by Music"
 confidence: low
-tags: ["emotional-evocation-by-music"]
+domain: intervention
+slug: emotional-evocation-by-music
 sources:
-  - fxa100-week02-the-power-of-music
+- fxa100-week02-the-power-of-music
+tags:
+- emotional-evocation-by-music
+title: Emotional Evocation by Music
+type: topic
 updated: 2026-05-04
 ---
 

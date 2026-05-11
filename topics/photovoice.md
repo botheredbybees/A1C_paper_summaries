@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "method"
-title: "Photovoice in Aged Care and Mental Health"
 confidence: medium
-tags: ["photovoice"]
+domain: method
+slug: photovoice-in-aged-care-and-mental-health
 sources:
-  - fxa202-week10-creative-arts-based-research-in-aged-care-photovoice
-  - fxa202-week10-thinking-differently-about-aged-care
-  - fxa301-week10-the-contribution-of-the-visual-in-qualitative-participatory
+- fxa202-week10-creative-arts-based-research-in-aged-care-photovoice
+- fxa202-week10-thinking-differently-about-aged-care
+- fxa301-week10-the-contribution-of-the-visual-in-qualitative-participatory
+tags:
+- photovoice
+title: Photovoice in Aged Care and Mental Health
+type: topic
 updated: 2026-05-04
 ---
 

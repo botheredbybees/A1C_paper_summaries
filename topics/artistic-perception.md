@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Artistic Perception"
 confidence: low
-tags: ["artistic-perception"]
+domain: theory
+slug: artistic-perception
 sources:
-  - fxa301-week02-the-brain-and-how-we-perceive-information
+- fxa301-week02-the-brain-and-how-we-perceive-information
+tags:
+- artistic-perception
+title: Artistic Perception
+type: topic
 updated: 2026-05-04
 ---
 

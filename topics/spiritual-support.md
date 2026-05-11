@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Spiritual Support in Chronic Illness"
 confidence: low
-tags: ["spiritual-support"]
+domain: intervention
+slug: spiritual-support-in-chronic-illness
 sources:
-  - fxa202-week10-type1-diabetes-story-a-familys-journey
+- fxa202-week10-type1-diabetes-story-a-familys-journey
+tags:
+- spiritual-support
+title: Spiritual Support in Chronic Illness
+type: topic
 updated: 2026-05-04
 ---
 

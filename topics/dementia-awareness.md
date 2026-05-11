@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "intervention"
-title: "Dementia-Awareness Communication Strategies"
 confidence: medium
-tags: ["dementia-awareness"]
+domain: intervention
+slug: dementia-awareness-communication-strategies
 sources:
   - fxa100-week04-a-guide-to-dementia-friendly-language
   - fxa100-week04-how-to-talk-about-dementia
   - fxa100-week06-transcript-affinity-interactive-light-sculpture-for-dementia
   - fxa100-week10-transcript-helen-morse-also-brought-her-personal-experience
-updated: 2026-05-05
+- fxa100-week04-a-guide-to-dementia-friendly-language
+- fxa100-week04-how-to-talk-about-dementia
+- fxa100-week06-transcript-affinity-interactive-light-sculpture-for-dementia
+- fxa100-week10-transcript-helen-morse-also-brought-her-personal-experience
+tags:
+- dementia-awareness
+title: Dementia-Awareness Communication Strategies
+type: topic
+updated: 2026-05-11
 ---
 
 ## Dementia-Awareness Communication Strategies

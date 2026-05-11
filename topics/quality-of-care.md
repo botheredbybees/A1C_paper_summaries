@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "intervention"
-title: "Quality Of Care"
 confidence: medium
-tags: ["quality-of-care"]
+domain: intervention
+slug: quality-of-care
 sources:
-  - fxa301-week03-noah-code-of-ethics-2023
-  - fxa301-week08-impact-summary-clown-doctors-australia
-  - fxa301-week08-social-impact-report-year-to-30-june-2025
+- fxa301-week03-noah-code-of-ethics-2023
+- fxa301-week08-impact-summary-clown-doctors-australia
+- fxa301-week08-social-impact-report-year-to-30-june-2025
+tags:
+- quality-of-care
+title: Quality Of Care
+type: topic
 updated: 2026-05-04
 ---
 

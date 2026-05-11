@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Nature and Nurture Interaction"
 confidence: low
-tags: ["nature-and-nurture-interaction"]
+domain: theory
+slug: nature-and-nurture-interaction
 sources:
-  - fxa303-week04-developmental-psychology-from-infancy-to-adulthood-chapter
+- fxa303-week04-developmental-psychology-from-infancy-to-adulthood-chapter
+tags:
+- nature-and-nurture-interaction
+title: Nature and Nurture Interaction
+type: topic
 updated: 2026-05-04
 ---
 

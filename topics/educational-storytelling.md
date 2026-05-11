@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Educational Storytelling"
 confidence: low
-tags: ["educational-storytelling"]
+domain: intervention
+slug: educational-storytelling
 sources:
-  - fxa301-make-arts-for-a-better-life-ch38-1-look-together-at-the-local-school-curriculum
+- fxa301-make-arts-for-a-better-life-ch38-1-look-together-at-the-local-school-curriculum
+tags:
+- educational-storytelling
+title: Educational Storytelling
+type: topic
 updated: 2026-05-04
 ---
 

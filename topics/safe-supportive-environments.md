@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Safe Supportive Environments"
 confidence: low
-tags: ["safe-supportive-environments"]
+domain: intervention
+slug: safe-supportive-environments
 sources:
-  - fxa100-week04-guidelines-for-arts-and-mental-health-projects
+- fxa100-week04-guidelines-for-arts-and-mental-health-projects
+tags:
+- safe-supportive-environments
+title: Safe Supportive Environments
+type: topic
 updated: 2026-05-04
 ---
 

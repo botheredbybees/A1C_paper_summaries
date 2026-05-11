@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Submission Process"
 confidence: low
-tags: ["submission-process"]
+domain: method
+slug: submission-process
 sources:
-  - fxa202-week10-preparing-for-task-4-critical-reflection-video-note
+- fxa202-week10-preparing-for-task-4-critical-reflection-video-note
+tags:
+- submission-process
+title: Submission Process
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Developmental Trauma Disorder"
 confidence: low
-tags: ["developmental-trauma-disorder"]
+domain: intervention
+slug: developmental-trauma-disorder
 sources:
-  - fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies
+- fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies
+tags:
+- developmental-trauma-disorder
+title: Developmental Trauma Disorder
+type: topic
 updated: 2026-05-04
 ---
 

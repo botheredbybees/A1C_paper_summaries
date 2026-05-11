@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Environmental Connectivity in Therapy"
 confidence: medium
-tags: ["environmental-connectivity"]
+domain: intervention
+slug: environmental-connectivity-in-therapy
 sources:
   - fxa202-week08-week-8-lecture-notes-editing-your-images
   - fxa303-week09-the-afloat-project-(2)
-updated: 2026-05-04
+- fxa202-week08-week-8-lecture-notes-editing-your-images
+- fxa303-week09-the-afloat-project-(2)
+tags:
+- environmental-connectivity
+title: Environmental Connectivity in Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Environmental Connectivity in Therapy

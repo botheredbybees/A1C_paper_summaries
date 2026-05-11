@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Editing Techniques"
 confidence: low
-tags: ["editing-techniques"]
+domain: method
+slug: editing-techniques
 sources:
-  - fxa202-week09-lesson-fxa202-week09-page-4
+- fxa202-week09-lesson-fxa202-week09-page-4
+tags:
+- editing-techniques
+title: Editing Techniques
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Mixed-Methods Research Applications"
 confidence: medium
-tags: ["mixed-methods-research"]
+domain: method
+slug: mixed-methods-research-applications
 sources:
   - fxa100-week01-ai-tools-in-society-impacts-on-cognitive-offloading-and-the
   - fxa100-week06-dementia-and-imagination-a-mixed-methods-protocol-for-arts
-updated: 2026-05-04
+- fxa100-week01-ai-tools-in-society-impacts-on-cognitive-offloading-and-the
+- fxa100-week06-dementia-and-imagination-a-mixed-methods-protocol-for-arts
+tags:
+- mixed-methods-research
+title: Mixed-Methods Research Applications
+type: topic
+updated: 2026-05-11
 ---
 
 ## Mixed-Methods Research Applications

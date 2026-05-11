@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: trauma-recovery
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Trauma Recovery
@@ -16,3 +16,5 @@ updated: 2026-05-06
 - [Arts-based psychosocial training after the Yolanda typhoon in the Philippines](../sources/fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon.md)
 - [FXA303 Creative Arts, Play and Mental Wellbeing - Week 9 Overview](../sources/fxa303-week09-lesson-fxa303-week09-page-1-overview.md)
 - [Creative Arts, Play and Mental Wellbeing: Case Studies on Trauma Recovery](../sources/fxa303-week09-lesson-fxa303-week09-page-3-case-studies.md)
+- [Healing Arts - Safe Place for Youth](../sources/fxa303-week11-healing-arts-safe-place-for-youth.md)
+- [The one thing that actually helps: Art creation as a self-care and health-promoting practice amongst youth experiencing homelessness](../sources/fxa303-week11-the-one-thing-that-actually-helps-art-creation-as-a-self.md)

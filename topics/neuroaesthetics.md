@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "theory"
-title: "Neuroaesthetics"
 confidence: high
-tags: ["neuroaesthetics"]
+domain: theory
+slug: neuroaesthetics
 sources:
   - fxa100-week06-art-and-the-brain-a-view-from-dementia
   - fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia-(2)
@@ -17,7 +15,23 @@ sources:
   - fxa301-week01-week-2-introduction-fxa301-arts-in-the-community
   - fxa301-week02-lecture-on-perception-of-the-arts
   - fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and
-updated: 2026-05-05
+- fxa100-week06-art-and-the-brain-a-view-from-dementia
+- fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia-(2)
+- fxa100-week06-lesson-fxa100-week06-page-2-visual-arts-and-the-brain
+- fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers
+- fxa100-week06-the-brain-on-art-intense-aesthetic-experience-activates-the
+- fxa100-week06-visual-arts-and-the-brain
+- fxa100-week06-web-article-tucker-2012
+- fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the
+- fxa301-bridging-the-creative-arts-therapies-ch01-1-essential
+- fxa301-week01-week-2-introduction-fxa301-arts-in-the-community
+- fxa301-week02-lecture-on-perception-of-the-arts
+- fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and
+tags:
+- neuroaesthetics
+title: Neuroaesthetics
+type: topic
+updated: 2026-05-11
 ---
 
 ## Neuroaesthetics

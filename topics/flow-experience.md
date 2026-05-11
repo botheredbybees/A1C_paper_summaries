@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "theory"
-title: "Flow Experience"
 confidence: medium
-tags: ["flow-experience"]
+domain: theory
+slug: flow-experience
 sources:
   - fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow
   - fxa301-week10-advances-in-flow-research
   - fxa301-week10-fxa301-week-10-lecture
-updated: 2026-05-04
+- fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow
+- fxa301-week10-advances-in-flow-research
+- fxa301-week10-fxa301-week-10-lecture
+tags:
+- flow-experience
+title: Flow Experience
+type: topic
+updated: 2026-05-11
 ---
 
 ## Flow Experience

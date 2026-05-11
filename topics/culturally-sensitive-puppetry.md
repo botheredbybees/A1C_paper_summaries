@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Culturally Sensitive Puppetry"
 confidence: low
-tags: ["culturally-sensitive-puppetry"]
+domain: intervention
+slug: culturally-sensitive-puppetry
 sources:
-  - fxa303-week06-the-wonder-continues-captivating-and-engaging-adults
+- fxa303-week06-the-wonder-continues-captivating-and-engaging-adults
+tags:
+- culturally-sensitive-puppetry
+title: Culturally Sensitive Puppetry
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Case Study Analysis"
 confidence: low
-tags: ["case-study-analysis"]
+domain: method
+slug: case-study-analysis
 sources:
-  - fxa202-week03-therapeutic-photography
+- fxa202-week03-therapeutic-photography
+tags:
+- case-study-analysis
+title: Case Study Analysis
+type: topic
 updated: 2026-05-04
 ---
 

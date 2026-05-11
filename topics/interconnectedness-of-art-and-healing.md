@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Interconnectedness of Art and Healing"
 confidence: low
-tags: ["interconnectedness-of-art-and-healing"]
+domain: intervention
+slug: interconnectedness-of-art-and-healing
 sources:
-  - fxa301-week03-how-do-we-realize-the-potential-of-the-arts-to-support
+- fxa301-week03-how-do-we-realize-the-potential-of-the-arts-to-support
+tags:
+- interconnectedness-of-art-and-healing
+title: Interconnectedness of Art and Healing
+type: topic
 updated: 2026-05-04
 ---
 

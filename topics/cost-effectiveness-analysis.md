@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cost-effectiveness Analysis of Arts and Creativity Interventions"
 confidence: medium
-tags: ["cost-effectiveness-analysis"]
+domain: intervention
+slug: cost-effectiveness-analysis-of-arts-and-creativity-interventions
 sources:
-  - fxa100-week04-arts-and-creativity-interventions-for-improving-health-and
-  - fxa301-week03-implementing-creative-health
+- fxa100-week04-arts-and-creativity-interventions-for-improving-health-and
+- fxa301-week03-implementing-creative-health
+tags:
+- cost-effectiveness-analysis
+title: Cost-effectiveness Analysis of Arts and Creativity Interventions
+type: topic
 updated: 2026-05-04
 ---
 

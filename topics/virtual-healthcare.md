@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Virtual Healthcare"
 confidence: low
-tags: ["virtual-healthcare"]
+domain: intervention
+slug: virtual-healthcare
 sources:
-  - fxa303-week08-we-are-still-doing-some-magic-exploring-the-effectiveness
+- fxa303-week08-we-are-still-doing-some-magic-exploring-the-effectiveness
+tags:
+- virtual-healthcare
+title: Virtual Healthcare
+type: topic
 updated: 2026-05-04
 ---
 

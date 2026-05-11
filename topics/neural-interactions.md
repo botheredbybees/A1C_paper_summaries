@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Neural Interactions"
 confidence: low
-tags: ["neural-interactions"]
+domain: theory
+slug: neural-interactions
 sources:
-  - fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community
+- fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community
+tags:
+- neural-interactions
+title: Neural Interactions
+type: topic
 updated: 2026-05-04
 ---
 

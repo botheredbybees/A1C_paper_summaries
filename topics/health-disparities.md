@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Health Disparities in End-of-Life Care and Migration"
 confidence: medium
-tags: ["health-disparities"]
+domain: intervention
+slug: health-disparities-in-end-of-life-care-and-migration
 sources:
   - fxa301-week03-challenges-in-end-of-life-care-and-bereavement
   - fxa303-week10-health-and-well-being-of-male-international-migrants-and
-updated: 2026-05-04
+- fxa301-week03-challenges-in-end-of-life-care-and-bereavement
+- fxa303-week10-health-and-well-being-of-male-international-migrants-and
+tags:
+- health-disparities
+title: Health Disparities in End-of-Life Care and Migration
+type: topic
+updated: 2026-05-11
 ---
 
 ## Health Disparities in End-of-Life Care and Migration

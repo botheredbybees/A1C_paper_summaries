@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Musical Engagement"
 confidence: low
-tags: ["musical-engagement"]
+domain: intervention
+slug: musical-engagement
 sources:
-  - fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care
+- fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care
+tags:
+- musical-engagement
+title: Musical Engagement
+type: topic
 updated: 2026-05-04
 ---
 

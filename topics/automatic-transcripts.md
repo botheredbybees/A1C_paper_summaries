@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Automatic Transcripts"
 confidence: low
-tags: ["automatic-transcripts"]
+domain: method
+slug: automatic-transcripts
 sources:
-  - fxa301-week08-transcript-youtube-vyjzrflr50e-url-only
+- fxa301-week08-transcript-youtube-vyjzrflr50e-url-only
+tags:
+- automatic-transcripts
+title: Automatic Transcripts
+type: topic
 updated: 2026-05-04
 ---
 

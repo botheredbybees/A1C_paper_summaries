@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Collective Expression in Indigenous Art"
 confidence: low
-tags: ["collective-expression"]
+domain: intervention
+slug: collective-expression-in-indigenous-art
 sources:
-  - fxa100-week07-milpara-art-mob-2012-transcript
+- fxa100-week07-milpara-art-mob-2012-transcript
+tags:
+- collective-expression
+title: Collective Expression in Indigenous Art
+type: topic
 updated: 2026-05-04
 ---
 

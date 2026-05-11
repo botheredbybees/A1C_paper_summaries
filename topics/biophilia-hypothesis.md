@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "theory"
-title: "Biophilia Hypothesis"
 confidence: medium
-tags: ["biophilia-hypothesis"]
+domain: theory
+slug: biophilia-hypothesis
 sources:
-  - fxa202-week08-lesson-fxa202-week08-week-8
-  - fxa202-week08-week-8-lecture-notes-editing-your-images-(3)
+- fxa202-week08-lesson-fxa202-week08-week-8
+- fxa202-week08-week-8-lecture-notes-editing-your-images-(3)
+tags:
+- biophilia-hypothesis
+title: Biophilia Hypothesis
+type: topic
 updated: 2026-05-04
 ---
 

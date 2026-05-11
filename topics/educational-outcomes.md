@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Educational Outcomes"
 confidence: low
-tags: ["educational-outcomes"]
+domain: intervention
+slug: educational-outcomes
 sources:
-  - fxa301-week03-creating-our-future-results-of-the-national-arts
+- fxa301-week03-creating-our-future-results-of-the-national-arts
+tags:
+- educational-outcomes
+title: Educational Outcomes
+type: topic
 updated: 2026-05-04
 ---
 

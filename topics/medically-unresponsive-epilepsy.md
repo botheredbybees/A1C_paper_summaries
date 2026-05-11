@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Medically Unresponsive Epilepsy"
 confidence: low
-tags: ["medically-unresponsive-epilepsy"]
+domain: intervention
+slug: medically-unresponsive-epilepsy
 sources:
-  - fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2)
+- fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2)
+tags:
+- medically-unresponsive-epilepsy
+title: Medically Unresponsive Epilepsy
+type: topic
 updated: 2026-05-04
 ---
 

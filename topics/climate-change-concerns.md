@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Climate Change Concerns Among Youth"
 confidence: low
-tags: ["climate-change-concerns"]
+domain: population
+slug: climate-change-concerns-among-youth
 sources:
-  - fxa303-week03-youth-survey-report-2024
+- fxa303-week03-youth-survey-report-2024
+tags:
+- climate-change-concerns
+title: Climate Change Concerns Among Youth
+type: topic
 updated: 2026-05-04
 ---
 

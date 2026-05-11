@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Impulsivity in Adolescents"
 confidence: low
-tags: ["impulsivity"]
+domain: theory
+slug: impulsivity-in-adolescents
 sources:
-  - fxa303-week03-the-teen-brain
+- fxa303-week03-the-teen-brain
+tags:
+- impulsivity
+title: Impulsivity in Adolescents
+type: topic
 updated: 2026-05-04
 ---
 

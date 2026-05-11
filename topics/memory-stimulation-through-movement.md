@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Memory Stimulation Through Movement"
 confidence: low
-tags: ["memory-stimulation-through-movement"]
+domain: intervention
+slug: memory-stimulation-through-movement
 sources:
-  - fxa100-week09-transcript-youtube-lq0ko6-w4uc
+- fxa100-week09-transcript-youtube-lq0ko6-w4uc
+tags:
+- memory-stimulation-through-movement
+title: Memory Stimulation Through Movement
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Holistic Approach in Community Health Interventions"
 confidence: medium
-tags: ["holistic-approach"]
+domain: intervention
+slug: holistic-approach-in-community-health-interventions
 sources:
-  - fxa301-make-arts-for-a-better-life-ch09-5-choose-a-goal-needs-may-be-linked-within-communities
-  - fxa301-week03-health-inequalities-and-the-role-of-creative-health
+- fxa301-make-arts-for-a-better-life-ch09-5-choose-a-goal-needs-may-be-linked-within-communities
+- fxa301-week03-health-inequalities-and-the-role-of-creative-health
+tags:
+- holistic-approach
+title: Holistic Approach in Community Health Interventions
+type: topic
 updated: 2026-05-04
 ---
 

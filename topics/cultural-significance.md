@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "theory"
-title: "Cultural Significance"
 confidence: medium
-tags: ["cultural-significance"]
+domain: theory
+slug: cultural-significance
 sources:
   - fxa301-week05-naidoc-week-aboriginal-mural-brings-community-together-in
   - fxa303-week05-forms-of-puppets-and-puppetry
-updated: 2026-05-04
+- fxa301-week05-naidoc-week-aboriginal-mural-brings-community-together-in
+- fxa303-week05-forms-of-puppets-and-puppetry
+tags:
+- cultural-significance
+title: Cultural Significance
+type: topic
+updated: 2026-05-11
 ---
 
 ## Cultural Significance

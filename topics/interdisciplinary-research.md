@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Interdisciplinary Approaches to Quality of Life Improvement"
 confidence: medium
-tags: ["interdisciplinary-research"]
+domain: intervention
+slug: interdisciplinary-approaches-to-quality-of-life-improvement
 sources:
   - fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of
   - fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(2)
@@ -12,7 +10,19 @@ sources:
   - fxa301-week01-arts-in-health-designing-and-researching-interventions
   - fxa301-week02-the-emerging-field-of-affective-science
   - fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)
-updated: 2026-05-05
+  - fxa303-week11-future-directions-in-understanding-and-addressing-mental
+- fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of
+- fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(2)
+- fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(3)
+- fxa301-week01-an-introduction-to-research
+- fxa301-week01-arts-in-health-designing-and-researching-interventions
+- fxa301-week02-the-emerging-field-of-affective-science
+- fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)
+tags:
+- interdisciplinary-research
+title: Interdisciplinary Approaches to Quality of Life Improvement
+type: topic
+updated: 2026-05-11
 ---
 
 ## Interdisciplinary Approaches to Quality of Life Improvement
@@ -37,3 +47,4 @@ This synthesis focuses on interdisciplinary research aimed at enhancing the qual
 - [fxa301-week01-arts-in-health-designing-and-researching-interventions](../sources/fxa301-week01-arts-in-health-designing-and-researching-interventions.md)
 - [fxa301-week02-the-emerging-field-of-affective-science](../sources/fxa301-week02-the-emerging-field-of-affective-science.md)
 - [fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3).md)
+- [fxa303-week11-future-directions-in-understanding-and-addressing-mental](../sources/fxa303-week11-future-directions-in-understanding-and-addressing-mental.md)

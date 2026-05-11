@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Eight Wellbeing Recommendations"
 confidence: low
-tags: ["eight-wellbeing-recommendations"]
+domain: intervention
+slug: eight-wellbeing-recommendations
 sources:
-  - fxa303-creativity-wellbeing-and-mental-health-ch01-10-conclusions-tony-gillam
+- fxa303-creativity-wellbeing-and-mental-health-ch01-10-conclusions-tony-gillam
+tags:
+- eight-wellbeing-recommendations
+title: Eight Wellbeing Recommendations
+type: topic
 updated: 2026-05-04
 ---
 

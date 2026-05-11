@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Dopamine Pathways in Response to Stimuli"
 confidence: low
-tags: ["dopamine-pathways"]
+domain: theory
+slug: dopamine-pathways-in-response-to-stimuli
 sources:
-  - fxa301-week02-how-do-we-respond-to-creative-art
+- fxa301-week02-how-do-we-respond-to-creative-art
+tags:
+- dopamine-pathways
+title: Dopamine Pathways in Response to Stimuli
+type: topic
 updated: 2026-05-04
 ---
 

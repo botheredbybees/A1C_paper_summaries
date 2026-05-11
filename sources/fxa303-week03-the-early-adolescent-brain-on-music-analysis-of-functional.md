@@ -11,7 +11,7 @@ tags: ["brain-mapping", "adolescent-neuroscience", "music-reward-system", "funct
 key_concepts: ["medial-orbitofrontal-cortex", "ventromedial-prefrontal-cortex", "musical-reward-sensitivity"]
 methods: ["fMRI", "LEiDA"]
 slug: fxa303-week03-the-early-adolescent-brain-on-music-analysis-of-functional
-related: ["adolescent-neuroscience", "functional-connectivity"]
+related: ["adolescent-neuroscience", "brain-mapping", "functional-connectivity"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,4 +44,5 @@ This research article investigates how music listening modulates brain activity 
 ## See Also
 
 - [adolescent-neuroscience](../topics/adolescent-neuroscience.md)
+- [brain-mapping](../topics/brain-mapping.md)
 - [functional-connectivity](../topics/functional-connectivity.md)

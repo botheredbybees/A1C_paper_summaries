@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Positive Participation in Dementia Care"
 confidence: low
-tags: ["positive-participation"]
+domain: intervention
+slug: positive-participation-in-dementia-care
 sources:
-  - fxa100-week08-creativity-and-communication-in-persons-with-dementia
+- fxa100-week08-creativity-and-communication-in-persons-with-dementia
+tags:
+- positive-participation
+title: Positive Participation in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

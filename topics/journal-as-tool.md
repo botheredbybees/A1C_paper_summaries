@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Journal as a Tool in Visual Research"
 confidence: low
-tags: ["journal-as-tool"]
+domain: method
+slug: journal-as-a-tool-in-visual-research
 sources:
-  - fxa202-week08-the-journal-and-visual-research
+- fxa202-week08-the-journal-and-visual-research
+tags:
+- journal-as-tool
+title: Journal as a Tool in Visual Research
+type: topic
 updated: 2026-05-04
 ---
 

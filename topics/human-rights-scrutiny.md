@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Human Rights Scrutiny"
 confidence: low
-tags: ["human-rights-scrutiny"]
+domain: intervention
+slug: human-rights-scrutiny
 sources:
-  - fxa301-week09-rights-of-people-with-disability
+- fxa301-week09-rights-of-people-with-disability
+tags:
+- human-rights-scrutiny
+title: Human Rights Scrutiny
+type: topic
 updated: 2026-05-04
 ---
 

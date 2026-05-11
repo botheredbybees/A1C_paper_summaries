@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Gallery Programs for Dementia Patients"
 confidence: medium
-tags: ["gallery-programs"]
+domain: intervention
+slug: gallery-programs-for-dementia-patients
 sources:
   - fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales
   - fxa100-week07-fxa100-week-7-lecture
-updated: 2026-05-04
+- fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales
+- fxa100-week07-fxa100-week-7-lecture
+tags:
+- gallery-programs
+title: Gallery Programs for Dementia Patients
+type: topic
+updated: 2026-05-11
 ---
 
 ## Gallery Programs for Dementia Patients

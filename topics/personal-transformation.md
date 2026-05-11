@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Personal Transformation"
 confidence: low
-tags: ["personal-transformation"]
+domain: intervention
+slug: personal-transformation
 sources:
-  - fxa301-week10-transcript-your-tube-standard-licence
+- fxa301-week10-transcript-your-tube-standard-licence
+tags:
+- personal-transformation
+title: Personal Transformation
+type: topic
 updated: 2026-05-04
 ---
 

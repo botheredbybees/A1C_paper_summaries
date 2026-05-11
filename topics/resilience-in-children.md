@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Resilience In Children"
 confidence: low
-tags: ["resilience-in-children"]
+domain: intervention
+slug: resilience-in-children
 sources:
-  - fxa303-week09-transcript-arts-mid-north-coast-we-are-all-born-creative
+- fxa303-week09-transcript-arts-mid-north-coast-we-are-all-born-creative
+tags:
+- resilience-in-children
+title: Resilience In Children
+type: topic
 updated: 2026-05-04
 ---
 

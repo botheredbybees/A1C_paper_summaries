@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Free-Writing as a Creative Process"
 confidence: low
-tags: ["free-writing"]
+domain: method
+slug: free-writing-as-a-creative-process
 sources:
-  - fxa202-week06-lesson-fxa202-week06-page-4
+- fxa202-week06-lesson-fxa202-week06-page-4
+tags:
+- free-writing
+title: Free-Writing as a Creative Process
+type: topic
 updated: 2026-05-04
 ---
 

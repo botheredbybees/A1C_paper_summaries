@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Collaborative Care Models"
 confidence: low
-tags: ["collaborative-care-models"]
+domain: intervention
+slug: collaborative-care-models
 sources:
-  - fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in
+- fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in
+tags:
+- collaborative-care-models
+title: Collaborative Care Models
+type: topic
 updated: 2026-05-04
 ---
 

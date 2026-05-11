@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Functional Capacity Improvement in Older Adults"
 confidence: low
-tags: ["functional-capacity"]
+domain: intervention
+slug: functional-capacity-improvement-in-older-adults
 sources:
-  - fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older
+- fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older
+tags:
+- functional-capacity
+title: Functional Capacity Improvement in Older Adults
+type: topic
 updated: 2026-05-04
 ---
 

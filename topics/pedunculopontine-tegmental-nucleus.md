@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Pedunculopontine Tegmental Nucleus"
 confidence: low
-tags: ["pedunculopontine-tegmental-nucleus"]
+domain: theory
+slug: pedunculopontine-tegmental-nucleus
 sources:
-  - fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro
+- fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro
+tags:
+- pedunculopontine-tegmental-nucleus
+title: Pedunculopontine Tegmental Nucleus
+type: topic
 updated: 2026-05-04
 ---
 

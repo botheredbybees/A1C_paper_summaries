@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Program Evaluation in Healthcare Settings"
 confidence: low
-tags: ["program-evaluation"]
+domain: method
+slug: program-evaluation-in-healthcare-settings
 sources:
-  - fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-(2)
+- fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-(2)
+tags:
+- program-evaluation
+title: Program Evaluation in Healthcare Settings
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Reflective Writing"
 confidence: medium
-tags: ["reflective-writing"]
+domain: method
+slug: reflective-writing
 sources:
   - fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays
   - fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2)
-updated: 2026-05-04
+- fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays
+- fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2)
+tags:
+- reflective-writing
+title: Reflective Writing
+type: topic
+updated: 2026-05-11
 ---
 
 ## Reflective Writing

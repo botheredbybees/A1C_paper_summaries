@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Neurological Benefits Of Singing"
 confidence: low
-tags: ["neurological-benefits-of-singing"]
+domain: intervention
+slug: neurological-benefits-of-singing
 sources:
-  - fxa100-week04-lesson-fxa100-week04-page-3-singing
+- fxa100-week04-lesson-fxa100-week04-page-3-singing
+tags:
+- neurological-benefits-of-singing
+title: Neurological Benefits Of Singing
+type: topic
 updated: 2026-05-04
 ---
 

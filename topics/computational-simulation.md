@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Computational Simulation in Physics"
 confidence: low
-tags: ["computational-simulation"]
+domain: method
+slug: computational-simulation-in-physics
 sources:
-  - fxa100-week02-moshing-with-physics-jesse-silverberg-tedxyale-video
+- fxa100-week02-moshing-with-physics-jesse-silverberg-tedxyale-video
+tags:
+- computational-simulation
+title: Computational Simulation in Physics
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,16 +1,23 @@
 ---
-type: topic
-domain: "method"
-title: "Photo Essays"
 confidence: high
-tags: ["photo-essays"]
+domain: method
+slug: photo-essays
 sources:
   - fxa202-week01-week-1-lecture-transcript
   - fxa202-week02-lesson-fxa202-week02-creative-writing
   - fxa202-week05-lesson-fxa202-week05-chapter-2-beginnings-and-endings
   - fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays
   - fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2)
-updated: 2026-05-04
+- fxa202-week01-week-1-lecture-transcript
+- fxa202-week02-lesson-fxa202-week02-creative-writing
+- fxa202-week05-lesson-fxa202-week05-chapter-2-beginnings-and-endings
+- fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays
+- fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2)
+tags:
+- photo-essays
+title: Photo Essays
+type: topic
+updated: 2026-05-11
 ---
 
 ## Photo Essays

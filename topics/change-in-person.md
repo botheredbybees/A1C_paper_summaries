@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Change in Person with Dementia"
 confidence: low
-tags: ["change-in-person"]
+domain: intervention
+slug: change-in-person-with-dementia
 sources:
-  - fxa100-week10-transcript-helen-morse-also-brought-her-personal-experience
+- fxa100-week10-transcript-helen-morse-also-brought-her-personal-experience
+tags:
+- change-in-person
+title: Change in Person with Dementia
+type: topic
 updated: 2026-05-04
 ---
 

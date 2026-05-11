@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Inclusion and Accessibility in Museum Design"
 confidence: low
-tags: ["inclusion-and-accessibility"]
+domain: method
+slug: inclusion-and-accessibility-in-museum-design
 sources:
-  - fxa301-week05-museums-and-wellbeing-an-overview-on-emerging-architectural
+- fxa301-week05-museums-and-wellbeing-an-overview-on-emerging-architectural
+tags:
+- inclusion-and-accessibility
+title: Inclusion and Accessibility in Museum Design
+type: topic
 updated: 2026-05-04
 ---
 

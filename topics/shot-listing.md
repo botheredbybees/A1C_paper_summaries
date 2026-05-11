@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Shot Listing in Visual Storytelling"
 confidence: low
-tags: ["shot-listing"]
+domain: method
+slug: shot-listing-in-visual-storytelling
 sources:
-  - fxa202-week06-week-six-lecture-components-of-visual-storytelling
+- fxa202-week06-week-six-lecture-components-of-visual-storytelling
+tags:
+- shot-listing
+title: Shot Listing in Visual Storytelling
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Disaster Response and Trauma Recovery"
 confidence: medium
-tags: ["disaster-response"]
+domain: intervention
+slug: disaster-response-and-trauma-recovery
 sources:
   - fxa303-week09-lesson-fxa303-week09-page-3-case-studies
   - fxa303-week09-psychological-first-aid-supporting-people-affected-by
   - fxa303-week09-transcript-duration-1-50
-updated: 2026-05-04
+- fxa303-week09-lesson-fxa303-week09-page-3-case-studies
+- fxa303-week09-psychological-first-aid-supporting-people-affected-by
+- fxa303-week09-transcript-duration-1-50
+tags:
+- disaster-response
+title: Disaster Response and Trauma Recovery
+type: topic
+updated: 2026-05-11
 ---
 
 ## Disaster Response and Trauma Recovery

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Collaborative Art Projects"
 confidence: low
-tags: ["collaborative-art-projects"]
+domain: intervention
+slug: collaborative-art-projects
 sources:
-  - fxa100-week04-making-art-with-communities-a-work-guide
+- fxa100-week04-making-art-with-communities-a-work-guide
+tags:
+- collaborative-art-projects
+title: Collaborative Art Projects
+type: topic
 updated: 2026-05-04
 ---
 

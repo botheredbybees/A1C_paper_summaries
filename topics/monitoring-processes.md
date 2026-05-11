@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Monitoring Processes in Metacognition"
 confidence: low
-tags: ["monitoring-processes"]
+domain: theory
+slug: monitoring-processes-in-metacognition
 sources:
-  - fxa303-week02-the-development-of-metacognitive-skills-evidence-from
+- fxa303-week02-the-development-of-metacognitive-skills-evidence-from
+tags:
+- monitoring-processes
+title: Monitoring Processes in Metacognition
+type: topic
 updated: 2026-05-04
 ---
 

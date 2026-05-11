@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cognitive Skills Improvement"
 confidence: low
-tags: ["cognitive-skills-improvement"]
+domain: intervention
+slug: cognitive-skills-improvement
 sources:
-  - fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing
+- fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing
+tags:
+- cognitive-skills-improvement
+title: Cognitive Skills Improvement
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Memory Association"
 confidence: low
-tags: ["memory-association"]
+domain: intervention
+slug: memory-association
 sources:
-  - fxa202-week05-images-as-writing-prompts
+- fxa202-week05-images-as-writing-prompts
+tags:
+- memory-association
+title: Memory Association
+type: topic
 updated: 2026-05-04
 ---
 

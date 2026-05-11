@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Social Bonding Through Art"
 confidence: low
-tags: ["social-bonding-through-art"]
+domain: intervention
+slug: social-bonding-through-art
 sources:
-  - fxa301-week05-lesson-fxa301-week05-page-4-week-3-activities
+- fxa301-week05-lesson-fxa301-week05-page-4-week-3-activities
+tags:
+- social-bonding-through-art
+title: Social Bonding Through Art
+type: topic
 updated: 2026-05-04
 ---
 

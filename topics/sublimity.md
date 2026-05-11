@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sublimity in Music"
 confidence: low
-tags: ["sublimity"]
+domain: intervention
+slug: sublimity-in-music
 sources:
-  - fxa301-week02-emotions-during-live-music-performance-links-with
+- fxa301-week02-emotions-during-live-music-performance-links-with
+tags:
+- sublimity
+title: Sublimity in Music
+type: topic
 updated: 2026-05-04
 ---
 

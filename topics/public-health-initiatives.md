@@ -1,16 +1,23 @@
 ---
-type: topic
-domain: "intervention"
-title: "Public Health Initiatives through Arts and Culture"
 confidence: high
-tags: ["public-health-initiatives"]
+domain: intervention
+slug: public-health-initiatives-through-arts-and-culture
 sources:
   - fxa301-oxford-textbook-of-creative-arts-ch23-1-a-research-project-that-examined-how-participation-can-be
   - fxa301-week03-cross-sector-strategies-for-health-and-community-well-being
   - fxa301-week03-how-do-we-realize-the-potential-of-the-arts-to-support
   - fxa301-week03-the-thrive-toolkit-tools-for-health-research-and-evaluation
   - fxa303-week03-mental-health-of-adolescents
-updated: 2026-05-04
+- fxa301-oxford-textbook-of-creative-arts-ch23-1-a-research-project-that-examined-how-participation-can-be
+- fxa301-week03-cross-sector-strategies-for-health-and-community-well-being
+- fxa301-week03-how-do-we-realize-the-potential-of-the-arts-to-support
+- fxa301-week03-the-thrive-toolkit-tools-for-health-research-and-evaluation
+- fxa303-week03-mental-health-of-adolescents
+tags:
+- public-health-initiatives
+title: Public Health Initiatives through Arts and Culture
+type: topic
+updated: 2026-05-11
 ---
 
 ## Public Health Initiatives through Arts and Culture

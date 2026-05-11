@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Lived Experiences Of Aging"
 confidence: low
-tags: ["lived-experiences-of-aging"]
+domain: population
+slug: lived-experiences-of-aging
 sources:
-  - fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary
+- fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary
+tags:
+- lived-experiences-of-aging
+title: Lived Experiences Of Aging
+type: topic
 updated: 2026-05-04
 ---
 

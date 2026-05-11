@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Abstract Thinking Skills"
 confidence: low
-tags: ["abstract-thinking-skills"]
+domain: intervention
+slug: abstract-thinking-skills
 sources:
-  - fxa303-week09-using-creative-techniques-with-children-who-have
+- fxa303-week09-using-creative-techniques-with-children-who-have
+tags:
+- abstract-thinking-skills
+title: Abstract Thinking Skills
+type: topic
 updated: 2026-05-04
 ---
 

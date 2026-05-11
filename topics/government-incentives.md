@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Government Incentives for Electric Vehicle Adoption"
 confidence: low
-tags: ["government-incentives"]
+domain: intervention
+slug: government-incentives-for-electric-vehicle-adoption
 sources:
-  - fxa301-week10-web-article-drayton-2016
+- fxa301-week10-web-article-drayton-2016
+tags:
+- government-incentives
+title: Government Incentives for Electric Vehicle Adoption
+type: topic
 updated: 2026-05-04
 ---
 

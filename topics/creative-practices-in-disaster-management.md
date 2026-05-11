@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Practices In Disaster Management"
 confidence: low
-tags: ["creative-practices-in-disaster-management"]
+domain: intervention
+slug: creative-practices-in-disaster-management
 sources:
-  - fxa303-week09-national-taskforce-for-creative-recovery-recommendations
+- fxa303-week09-national-taskforce-for-creative-recovery-recommendations
+tags:
+- creative-practices-in-disaster-management
+title: Creative Practices In Disaster Management
+type: topic
 updated: 2026-05-04
 ---
 

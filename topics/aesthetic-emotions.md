@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "theory"
-title: "Aesthetic Emotions"
 confidence: medium
-tags: ["aesthetic-emotions"]
+domain: theory
+slug: aesthetic-emotions
 sources:
-  - fxa301-week01-lesson-fxa301-week01-chapter-3-music-and-the-damaged
-  - fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and
+- fxa301-week01-lesson-fxa301-week01-chapter-3-music-and-the-damaged
+- fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and
+tags:
+- aesthetic-emotions
+title: Aesthetic Emotions
+type: topic
 updated: 2026-05-04
 ---
 

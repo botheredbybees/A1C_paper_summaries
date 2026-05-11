@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Freud's Psychoanalytic Theory"
 confidence: low
-tags: ["freuds-psychoanalytic-theory"]
+domain: theory
+slug: freud-s-psychoanalytic-theory
 sources:
-  - fxa303-week03-developmental-psychology-from-infancy-to-adulthood-(2)
+- fxa303-week03-developmental-psychology-from-infancy-to-adulthood-(2)
+tags:
+- freuds-psychoanalytic-theory
+title: Freud's Psychoanalytic Theory
+type: topic
 updated: 2026-05-04
 ---
 

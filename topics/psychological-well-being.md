@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "intervention"
-title: "Psychological Well-Being through Creative and Expressive Activities"
 confidence: medium
-tags: ["psychological-well-being"]
+domain: intervention
+slug: psychological-well-being-through-creative-and-expressive-activities
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2)
-  - fxa301-week08-health-related-effects-of-creative-and-expressive-writing
-  - fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective
+- fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2)
+- fxa301-week08-health-related-effects-of-creative-and-expressive-writing
+- fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective
+tags:
+- psychological-well-being
+title: Psychological Well-Being through Creative and Expressive Activities
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Supportive Relationships in Dementia Care"
 confidence: low
-tags: ["supportive-relationships"]
+domain: intervention
+slug: supportive-relationships-in-dementia-care
 sources:
-  - fxa100-week03-transcript-power-of-music-dementia-beatie-wolfe-the-utley
+- fxa100-week03-transcript-power-of-music-dementia-beatie-wolfe-the-utley
+tags:
+- supportive-relationships
+title: Supportive Relationships in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

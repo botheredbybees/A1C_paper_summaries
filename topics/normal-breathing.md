@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Normal Breathing"
 confidence: low
-tags: ["normal-breathing"]
+domain: method
+slug: normal-breathing
 sources:
-  - fxa100-week04-transcript-lungs-in-motion-normal-breathing-url-only
+- fxa100-week04-transcript-lungs-in-motion-normal-breathing-url-only
+tags:
+- normal-breathing
+title: Normal Breathing
+type: topic
 updated: 2026-05-04
 ---
 

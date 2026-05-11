@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Social Connectivity Through Literature"
 confidence: low
-tags: ["social-connectivity"]
+domain: intervention
+slug: social-connectivity-through-literature
 sources:
-  - fxa301-week08-transcript-youtube-i1dnrn0cj20
+- fxa301-week08-transcript-youtube-i1dnrn0cj20
+tags:
+- social-connectivity
+title: Social Connectivity Through Literature
+type: topic
 updated: 2026-05-04
 ---
 

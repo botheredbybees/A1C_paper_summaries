@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Reducing Anxiety Through Clown Doctors"
 confidence: low
-tags: ["reducing-anxiety"]
+domain: intervention
+slug: reducing-anxiety-through-clown-doctors
 sources:
-  - fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact
+- fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact
+tags:
+- reducing-anxiety
+title: Reducing Anxiety Through Clown Doctors
+type: topic
 updated: 2026-05-04
 ---
 

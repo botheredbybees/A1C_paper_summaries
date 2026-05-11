@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Aesthetic Pleasure in Poetry"
 confidence: low
-tags: ["aesthetic-pleasure"]
+domain: intervention
+slug: aesthetic-pleasure-in-poetry
 sources:
-  - fxa301-week08-the-emotional-power-of-poetry-neural-circuitry
+- fxa301-week08-the-emotional-power-of-poetry-neural-circuitry
+tags:
+- aesthetic-pleasure
+title: Aesthetic Pleasure in Poetry
+type: topic
 updated: 2026-05-04
 ---
 

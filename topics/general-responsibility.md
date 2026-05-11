@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Professional Responsibilities and Ethical Considerations"
 confidence: low
-tags: ["general-responsibility"]
+domain: theory
+slug: professional-responsibilities-and-ethical-considerations
 sources:
-  - fxa301-arts-in-health-ch76-3-responsibility-(2)
+- fxa301-arts-in-health-ch76-3-responsibility-(2)
+tags:
+- general-responsibility
+title: Professional Responsibilities and Ethical Considerations
+type: topic
 updated: 2026-05-04
 ---
 

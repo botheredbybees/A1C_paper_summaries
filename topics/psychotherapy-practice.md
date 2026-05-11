@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Dramatherapy and Dance Therapy"
 confidence: low
-tags: ["psychotherapy-practice"]
+domain: intervention
+slug: dramatherapy-and-dance-therapy
 sources:
-  - fxa100-week09-lesson-fxa100-week09-page-2-dance-therapy-drama-therapy
+- fxa100-week09-lesson-fxa100-week09-page-2-dance-therapy-drama-therapy
+tags:
+- psychotherapy-practice
+title: Dramatherapy and Dance Therapy
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Environmental Impact of Cultural Practices"
 confidence: low
-tags: ["environmental-impact"]
+domain: intervention
+slug: environmental-impact-of-cultural-practices
 sources:
-  - fxa301-week01-web-article-greeno-2021
+- fxa301-week01-web-article-greeno-2021
+tags:
+- environmental-impact
+title: Environmental Impact of Cultural Practices
+type: topic
 updated: 2026-05-04
 ---
 

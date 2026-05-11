@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Adverse Childhood Experiences"
 confidence: low
-tags: ["adverse-childhood-experiences"]
+domain: intervention
+slug: adverse-childhood-experiences
 sources:
-  - fxa303-week09-exploring-child-centered-play-therapy-and-trauma-a
+- fxa303-week09-exploring-child-centered-play-therapy-and-trauma-a
+tags:
+- adverse-childhood-experiences
+title: Adverse Childhood Experiences
+type: topic
 updated: 2026-05-04
 ---
 

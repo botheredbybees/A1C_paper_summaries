@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Audience Identification"
 confidence: low
-tags: ["audience-identification"]
+domain: method
+slug: audience-identification
 sources:
-  - fxa202-week08-developing-a-plan-for-communication
+- fxa202-week08-developing-a-plan-for-communication
+tags:
+- audience-identification
+title: Audience Identification
+type: topic
 updated: 2026-05-04
 ---
 

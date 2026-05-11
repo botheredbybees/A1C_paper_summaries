@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Mechanisms of Impact"
 confidence: low
-tags: ["mechanisms-of-impact"]
+domain: theory
+slug: mechanisms-of-impact
 sources:
-  - fxa100-week04-an-introduction-to-research
+- fxa100-week04-an-introduction-to-research
+tags:
+- mechanisms-of-impact
+title: Mechanisms of Impact
+type: topic
 updated: 2026-05-04
 ---
 

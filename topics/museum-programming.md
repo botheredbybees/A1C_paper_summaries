@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Museum Programs for People with Dementia"
 confidence: medium
-tags: ["museum-programming"]
+domain: intervention
+slug: museum-programs-for-people-with-dementia
 sources:
   - fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum
   - fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people
   - fxa301-week10-body-talk-examining-a-collaborative-multiple-visit-program
-updated: 2026-05-05
+- fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum
+- fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people
+- fxa301-week10-body-talk-examining-a-collaborative-multiple-visit-program
+tags:
+- museum-programming
+title: Museum Programs for People with Dementia
+type: topic
+updated: 2026-05-11
 ---
 
 ## Museum Programs for People with Dementia

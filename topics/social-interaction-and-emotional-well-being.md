@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Social Interaction and Emotional Well-Being"
 confidence: low
-tags: ["social-interaction-and-emotional-well-being"]
+domain: intervention
+slug: social-interaction-and-emotional-well-being
 sources:
-  - fxa100-week03-personalized-music-for-persons-with-dementia-and-their-life
+- fxa100-week03-personalized-music-for-persons-with-dementia-and-their-life
+tags:
+- social-interaction-and-emotional-well-being
+title: Social Interaction and Emotional Well-Being
+type: topic
 updated: 2026-05-04
 ---
 

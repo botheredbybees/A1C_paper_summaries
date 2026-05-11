@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Behavioral Outcomes in Therapeutic Interventions"
 confidence: medium
-tags: ["behavioral-outcomes"]
+domain: intervention
+slug: behavioral-outcomes-in-therapeutic-interventions
 sources:
   - fxa303-week04-impact-of-child-centered-play-therapy-intervention-on
   - fxa303-week08-exploring-the-usefulness-of-medical-clowns-in-elevating
-updated: 2026-05-04
+- fxa303-week04-impact-of-child-centered-play-therapy-intervention-on
+- fxa303-week08-exploring-the-usefulness-of-medical-clowns-in-elevating
+tags:
+- behavioral-outcomes
+title: Behavioral Outcomes in Therapeutic Interventions
+type: topic
+updated: 2026-05-11
 ---
 
 ## Behavioral Outcomes in Therapeutic Interventions

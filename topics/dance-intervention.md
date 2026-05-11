@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Dance as an Intervention"
 confidence: medium
-tags: ["dance-intervention"]
+domain: intervention
+slug: dance-as-an-intervention
 sources:
   - fxa301-week06-dance-4-your-life-exploring-the-health-and-well-being
   - fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older
   - fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait
-updated: 2026-05-04
+- fxa301-week06-dance-4-your-life-exploring-the-health-and-well-being
+- fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older
+- fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait
+tags:
+- dance-intervention
+title: Dance as an Intervention
+type: topic
+updated: 2026-05-11
 ---
 
 ## Dance as an Intervention

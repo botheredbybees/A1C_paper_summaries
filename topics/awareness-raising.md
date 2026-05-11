@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Awareness-Raising in Dementia Care"
 confidence: low
-tags: ["awareness-raising"]
+domain: intervention
+slug: awareness-raising-in-dementia-care
 sources:
-  - fxa100-week10-transcript-this-trailer-gives-an-overview-of-the-play-and
+- fxa100-week10-transcript-this-trailer-gives-an-overview-of-the-play-and
+tags:
+- awareness-raising
+title: Awareness-Raising in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

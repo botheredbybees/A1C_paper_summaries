@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Symbolic Expression in Therapy"
 confidence: medium
-tags: ["symbolic-expression"]
+domain: intervention
+slug: symbolic-expression-in-therapy
 sources:
   - fxa303-week01-an-overview-of-play-therapy
   - fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy
-updated: 2026-05-04
+- fxa303-week01-an-overview-of-play-therapy
+- fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy
+tags:
+- symbolic-expression
+title: Symbolic Expression in Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Symbolic Expression in Therapy

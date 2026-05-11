@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Paradox Reconciliation in Therapy"
 confidence: low
-tags: ["paradox-reconciliation"]
+domain: intervention
+slug: paradox-reconciliation-in-therapy
 sources:
-  - fxa303-week08-clown-therapy-a-drama-therapy-approach-to-addiction-and
+- fxa303-week08-clown-therapy-a-drama-therapy-approach-to-addiction-and
+tags:
+- paradox-reconciliation
+title: Paradox Reconciliation in Therapy
+type: topic
 updated: 2026-05-04
 ---
 

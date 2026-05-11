@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Web Content Accessibility Guidelines"
 confidence: low
-tags: ["web-content-accessibility-guidelines-wcag"]
+domain: method
+slug: web-content-accessibility-guidelines
 sources:
-  - fxa303-week04-how-wcag-benefits-everyone-a-focus-on-neurodiversity-and
+- fxa303-week04-how-wcag-benefits-everyone-a-focus-on-neurodiversity-and
+tags:
+- web-content-accessibility-guidelines-wcag
+title: Web Content Accessibility Guidelines
+type: topic
 updated: 2026-05-04
 ---
 

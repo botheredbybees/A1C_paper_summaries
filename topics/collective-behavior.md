@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Collective Behavior in Mosh Pits"
 confidence: medium
-tags: ["collective-behavior"]
+domain: method
+slug: collective-behavior-in-mosh-pits
 sources:
   - fxa100-week02-moshing-with-physics-jesse-silverberg-tedxyale-video
   - fxa100-week02-transcript-moshing-with-physics-jesse-silverberg-tedxyale
-updated: 2026-05-04
+- fxa100-week02-moshing-with-physics-jesse-silverberg-tedxyale-video
+- fxa100-week02-transcript-moshing-with-physics-jesse-silverberg-tedxyale
+tags:
+- collective-behavior
+title: Collective Behavior in Mosh Pits
+type: topic
+updated: 2026-05-11
 ---
 
 ## Collective Behavior in Mosh Pits

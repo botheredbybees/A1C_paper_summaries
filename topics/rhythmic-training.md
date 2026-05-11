@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Rhythmic Training"
 confidence: low
-tags: ["rhythmic-training"]
+domain: intervention
+slug: rhythmic-training
 sources:
-  - fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain
+- fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain
+tags:
+- rhythmic-training
+title: Rhythmic Training
+type: topic
 updated: 2026-05-04
 ---
 

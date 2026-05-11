@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Inclusive Community Engagement"
 confidence: low
-tags: ["inclusive-community-engagement"]
+domain: intervention
+slug: inclusive-community-engagement
 sources:
-  - fxa303-week09-national-taskforce-for-creative-recovery-recommendations
+- fxa303-week09-national-taskforce-for-creative-recovery-recommendations
+tags:
+- inclusive-community-engagement
+title: Inclusive Community Engagement
+type: topic
 updated: 2026-05-04
 ---
 

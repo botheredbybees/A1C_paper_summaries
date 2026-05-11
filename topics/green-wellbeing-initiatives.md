@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Green Wellbeing Initiatives"
 confidence: low
-tags: ["green-wellbeing-initiatives"]
+domain: intervention
+slug: green-wellbeing-initiatives
 sources:
-  - fxa301-week05-museums-as-spaces-for-wellbeing-a-second-report-from-the
+- fxa301-week05-museums-as-spaces-for-wellbeing-a-second-report-from-the
+tags:
+- green-wellbeing-initiatives
+title: Green Wellbeing Initiatives
+type: topic
 updated: 2026-05-04
 ---
 

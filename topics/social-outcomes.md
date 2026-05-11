@@ -1,14 +1,18 @@
 ---
-type: topic
-domain: "intervention"
-title: "Social Outcomes of Community Arts"
 confidence: low
-tags: ["social-outcomes"]
+domain: intervention
+slug: social-outcomes-of-community-arts
 sources:
-  - fxa100-week04-evaluating-community-arts-community-well-being-an
   - fxa301-week01-evaluating-community-arts-community-well-being
   - fxa301-week01-evaluating-community-arts-community-well-being-an
-updated: 2026-05-05
+- fxa100-week04-evaluating-community-arts-community-well-being-an
+- fxa301-week01-evaluating-community-arts-community-well-being
+- fxa301-week01-evaluating-community-arts-community-well-being-an
+tags:
+- social-outcomes
+title: Social Outcomes of Community Arts
+type: topic
+updated: 2026-05-11
 ---
 
 ## Social Outcomes of Community Arts
@@ -27,6 +31,5 @@ The evaluation guide for community arts highlights the multifaceted impact these
 
 ## Sources
 
-- [fxa100-week04-evaluating-community-arts-community-well-being-an](../sources/fxa100-week04-evaluating-community-arts-community-well-being-an.md)
 - [fxa301-week01-evaluating-community-arts-community-well-being](../sources/fxa301-week01-evaluating-community-arts-community-well-being.md)
 - [fxa301-week01-evaluating-community-arts-community-well-being-an](../sources/fxa301-week01-evaluating-community-arts-community-well-being-an.md)

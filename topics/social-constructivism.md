@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Social Constructivism in Dementia Care"
 confidence: low
-tags: ["social-constructivism"]
+domain: theory
+slug: social-constructivism-in-dementia-care
 sources:
-  - fxa100-how-we-thnk-about-dementia-ch13-chapter-13
+- fxa100-how-we-thnk-about-dementia-ch13-chapter-13
+tags:
+- social-constructivism
+title: Social Constructivism in Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

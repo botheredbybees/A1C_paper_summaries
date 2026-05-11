@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Randomized Controlled Trials"
 confidence: low
-tags: ["randomized-controlled-trials-rct"]
+domain: method
+slug: randomized-controlled-trials
 sources:
-  - fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision-(2)
+- fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision-(2)
+tags:
+- randomized-controlled-trials-rct
+title: Randomized Controlled Trials
+type: topic
 updated: 2026-05-04
 ---
 

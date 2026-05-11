@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Neurodevelopmental Differences in Autism and Trauma"
 confidence: medium
-tags: ["neurodevelopment"]
+domain: intervention
+slug: neurodevelopmental-differences-in-autism-and-trauma
 sources:
   - fxa303-week04-age-related-differences-in-white-matter-diffusion-measures
   - fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms
-updated: 2026-05-04
+- fxa303-week04-age-related-differences-in-white-matter-diffusion-measures
+- fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms
+tags:
+- neurodevelopment
+title: Neurodevelopmental Differences in Autism and Trauma
+type: topic
+updated: 2026-05-11
 ---
 
 ## Neurodevelopmental Differences in Autism and Trauma

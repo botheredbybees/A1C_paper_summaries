@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Perceived Health Benefits"
 confidence: low
-tags: ["perceived-health-benefits"]
+domain: intervention
+slug: perceived-health-benefits
 sources:
-  - fxa100-week04-the-perceived-benefits-of-singing-findings-from-preliminary
+- fxa100-week04-the-perceived-benefits-of-singing-findings-from-preliminary
+tags:
+- perceived-health-benefits
+title: Perceived Health Benefits
+type: topic
 updated: 2026-05-04
 ---
 

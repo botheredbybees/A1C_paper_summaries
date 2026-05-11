@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Psychological Safety"
 confidence: low
-tags: ["psychological-safety"]
+domain: intervention
+slug: psychological-safety
 sources:
-  - fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy
+- fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy
+tags:
+- psychological-safety
+title: Psychological Safety
+type: topic
 updated: 2026-05-04
 ---
 

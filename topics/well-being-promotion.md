@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Well-Being Promotion"
 confidence: low
-tags: ["well-being-promotion"]
+domain: intervention
+slug: well-being-promotion
 sources:
-  - fxa301-week05-happy-museum-project-principles
+- fxa301-week05-happy-museum-project-principles
+tags:
+- well-being-promotion
+title: Well-Being Promotion
+type: topic
 updated: 2026-05-04
 ---
 

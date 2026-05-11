@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music Training"
 confidence: low
-tags: ["music-training"]
+domain: intervention
+slug: music-training
 sources:
-  - fxa301-week02-the-influence-of-stress-optimism-and-music-training-on
+- fxa301-week02-the-influence-of-stress-optimism-and-music-training-on
+tags:
+- music-training
+title: Music Training
+type: topic
 updated: 2026-05-04
 ---
 

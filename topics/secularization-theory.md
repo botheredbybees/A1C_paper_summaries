@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Secularization Theory"
 confidence: low
-tags: ["secularization-theory"]
+domain: theory
+slug: secularization-theory
 sources:
-  - fxa301-week05-de-botton-art-is-therapy-at-the-rijksmuseum
+- fxa301-week05-de-botton-art-is-therapy-at-the-rijksmuseum
+tags:
+- secularization-theory
+title: Secularization Theory
+type: topic
 updated: 2026-05-04
 ---
 

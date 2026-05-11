@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Group Singing Therapy"
 confidence: low
-tags: ["group-singing-therapy"]
+domain: intervention
+slug: group-singing-therapy
 sources:
-  - fxa301-week10-sing-your-heart-out-community-singing-as-part-of-mental
+- fxa301-week10-sing-your-heart-out-community-singing-as-part-of-mental
+tags:
+- group-singing-therapy
+title: Group Singing Therapy
+type: topic
 updated: 2026-05-04
 ---
 

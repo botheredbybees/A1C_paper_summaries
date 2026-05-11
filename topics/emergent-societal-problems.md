@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Emergent Societal Problems"
 confidence: low
-tags: ["emergent-societal-problems"]
+domain: theory
+slug: emergent-societal-problems
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch18-chapter-3
+- fxa301-oxford-textbook-of-creative-arts-ch18-chapter-3
+tags:
+- emergent-societal-problems
+title: Emergent Societal Problems
+type: topic
 updated: 2026-05-04
 ---
 

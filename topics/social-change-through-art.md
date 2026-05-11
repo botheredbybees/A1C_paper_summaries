@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Social Change Through Art"
 confidence: medium
-tags: ["social-change-through-art"]
+domain: intervention
+slug: social-change-through-art
 sources:
   - fxa100-week09-applied-theatre-problems-and-possibilities
   - fxa100-week09-augusto-boals-forum-theatre-for-teachers
   - fxa301-week06-recontextualizing-music-for-social-change
-updated: 2026-05-04
+- fxa100-week09-applied-theatre-problems-and-possibilities
+- fxa100-week09-augusto-boals-forum-theatre-for-teachers
+- fxa301-week06-recontextualizing-music-for-social-change
+tags:
+- social-change-through-art
+title: Social Change Through Art
+type: topic
+updated: 2026-05-11
 ---
 
 ## Social Change Through Art

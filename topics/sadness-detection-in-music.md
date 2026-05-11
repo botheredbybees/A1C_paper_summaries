@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Sadness Detection In Music"
 confidence: low
-tags: ["sadness-detection-in-music"]
+domain: method
+slug: sadness-detection-in-music
 sources:
-  - fxa301-week02-misery-loves-company-mood-congruent-emotional-responding-to
+- fxa301-week02-misery-loves-company-mood-congruent-emotional-responding-to
+tags:
+- sadness-detection-in-music
+title: Sadness Detection In Music
+type: topic
 updated: 2026-05-04
 ---
 

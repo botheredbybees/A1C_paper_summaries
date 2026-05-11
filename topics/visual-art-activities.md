@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Visual Art Activities"
 confidence: low
-tags: ["visual-art-activities"]
+domain: intervention
+slug: visual-art-activities
 sources:
-  - fxa100-week06-dementia-and-imagination-a-mixed-methods-protocol-for-arts
+- fxa100-week06-dementia-and-imagination-a-mixed-methods-protocol-for-arts
+tags:
+- visual-art-activities
+title: Visual Art Activities
+type: topic
 updated: 2026-05-04
 ---
 

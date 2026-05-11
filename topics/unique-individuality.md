@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Unique Individuality in Art Perception"
 confidence: low
-tags: ["unique-individuality"]
+domain: theory
+slug: unique-individuality-in-art-perception
 sources:
-  - fxa301-week01-lesson-fxa301-week01-week-1
+- fxa301-week01-lesson-fxa301-week01-week-1
+tags:
+- unique-individuality
+title: Unique Individuality in Art Perception
+type: topic
 updated: 2026-05-04
 ---
 

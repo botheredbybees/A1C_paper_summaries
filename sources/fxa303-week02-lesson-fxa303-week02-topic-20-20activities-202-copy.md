@@ -11,7 +11,7 @@ tags: ["youth-wellbeing", "qualitative-study", "arts-therapy", "fxa303"]
 key_concepts: ["mental health", "artistic expression", "emotional regulation"]
 methods: []
 slug: fxa303-week02-lesson-fxa303-week02-topic-20-20activities-202-copy
-related: ["arts-therapy"]
+related: ["arts-therapy", "qualitative-study"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,3 +42,4 @@ The week's activities include reading Gómez-Restrepo et al. (2022) on the role 
 ## See Also
 
 - [arts-therapy](../topics/arts-therapy.md)
+- [qualitative-study](../topics/qualitative-study.md)

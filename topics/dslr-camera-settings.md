@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Dslr Camera Settings For Art Documentation"
 confidence: low
-tags: ["dslr-camera-settings"]
+domain: method
+slug: dslr-camera-settings-for-art-documentation
 sources:
-  - fxa202-week08-home-hints-for-artwork-and-object-documentation-(2)
+- fxa202-week08-home-hints-for-artwork-and-object-documentation-(2)
+tags:
+- dslr-camera-settings
+title: Dslr Camera Settings For Art Documentation
+type: topic
 updated: 2026-05-04
 ---
 

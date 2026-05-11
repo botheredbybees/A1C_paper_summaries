@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Music Evoked Emotion Response Theory"
 confidence: low
-tags: ["music-evoked-emotion-response-theory"]
+domain: theory
+slug: music-evoked-emotion-response-theory
 sources:
-  - fxa100-week04-transcript-music-therapy-and-people-with-advanced-dementia
+- fxa100-week04-transcript-music-therapy-and-people-with-advanced-dementia
+tags:
+- music-evoked-emotion-response-theory
+title: Music Evoked Emotion Response Theory
+type: topic
 updated: 2026-05-04
 ---
 

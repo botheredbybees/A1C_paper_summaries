@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Economic Benefits of Music Engagement for Alzheimer's Patients"
 confidence: low
-tags: ["economic-benefits"]
+domain: intervention
+slug: economic-benefits-of-music-engagement-for-alzheimer-s-patients
 sources:
-  - fxa100-week03-alzheimers-disease-music-engagement-quality-of-life
+- fxa100-week03-alzheimers-disease-music-engagement-quality-of-life
+tags:
+- economic-benefits
+title: Economic Benefits of Music Engagement for Alzheimer's Patients
+type: topic
 updated: 2026-05-04
 ---
 

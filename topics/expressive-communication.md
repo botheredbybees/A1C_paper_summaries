@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Expressive Communication in Autism"
 confidence: low
-tags: ["expressive-communication"]
+domain: intervention
+slug: expressive-communication-in-autism
 sources:
-  - fxa303-week04-play-therapy-in-children-with-autism-its-role-implications
+- fxa303-week04-play-therapy-in-children-with-autism-its-role-implications
+tags:
+- expressive-communication
+title: Expressive Communication in Autism
+type: topic
 updated: 2026-05-04
 ---
 

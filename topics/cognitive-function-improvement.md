@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cognitive Function Improvement"
 confidence: medium
-tags: ["cognitive-function-improvement"]
+domain: intervention
+slug: cognitive-function-improvement
 sources:
-  - fxa100-week09-week-9-lecture-dramatherapy-dance-therapy-and-applied
-  - fxa301-week06-engaging-with-music-and-dance
+- fxa100-week09-week-9-lecture-dramatherapy-dance-therapy-and-applied
+- fxa301-week06-engaging-with-music-and-dance
+tags:
+- cognitive-function-improvement
+title: Cognitive Function Improvement
+type: topic
 updated: 2026-05-04
 ---
 

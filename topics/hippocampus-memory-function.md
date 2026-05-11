@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Hippocampus Memory Function"
 confidence: low
-tags: ["hippocampus-memory-function"]
+domain: theory
+slug: hippocampus-memory-function
 sources:
-  - fxa303-week03-neuroanatomy-limbic-system
+- fxa303-week03-neuroanatomy-limbic-system
+tags:
+- hippocampus-memory-function
+title: Hippocampus Memory Function
+type: topic
 updated: 2026-05-04
 ---
 

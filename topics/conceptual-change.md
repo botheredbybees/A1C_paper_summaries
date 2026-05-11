@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Conceptual Change"
 confidence: low
-tags: ["conceptual-change"]
+domain: theory
+slug: conceptual-change
 sources:
-  - fxa303-week02-theories-of-development-in-dialog-with-jean-piaget
+- fxa303-week02-theories-of-development-in-dialog-with-jean-piaget
+tags:
+- conceptual-change
+title: Conceptual Change
+type: topic
 updated: 2026-05-04
 ---
 

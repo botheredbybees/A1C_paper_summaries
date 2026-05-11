@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Continuity Versus Discontinuity In Development"
 confidence: low
-tags: ["continuity-versus-discontinuity-in-development"]
+domain: theory
+slug: continuity-versus-discontinuity-in-development
 sources:
-  - fxa303-week04-developmental-psychology-from-infancy-to-adulthood-chapter
+- fxa303-week04-developmental-psychology-from-infancy-to-adulthood-chapter
+tags:
+- continuity-versus-discontinuity-in-development
+title: Continuity Versus Discontinuity In Development
+type: topic
 updated: 2026-05-04
 ---
 

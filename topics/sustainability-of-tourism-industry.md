@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sustainability Of The Tourism Industry"
 confidence: low
-tags: ["sustainability-of-tourism-industry"]
+domain: intervention
+slug: sustainability-of-the-tourism-industry
 sources:
-  - fxa202-week06-where-in-the-world-travelling-through-the-coronavirus
+- fxa202-week06-where-in-the-world-travelling-through-the-coronavirus
+tags:
+- sustainability-of-tourism-industry
+title: Sustainability Of The Tourism Industry
+type: topic
 updated: 2026-05-04
 ---
 

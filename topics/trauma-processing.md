@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Trauma Processing Through Creative Arts"
 confidence: medium
-tags: ["trauma-processing"]
+domain: intervention
+slug: trauma-processing-through-creative-arts
 sources:
-  - fxa202-week03-can-photography-help-depression
-  - fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts
+- fxa202-week03-can-photography-help-depression
+- fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts
+tags:
+- trauma-processing
+title: Trauma Processing Through Creative Arts
+type: topic
 updated: 2026-05-04
 ---
 

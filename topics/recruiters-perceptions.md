@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Recruiters' Perceptions of Art Therapy"
 confidence: low
-tags: ["recruiters-perceptions"]
+domain: intervention
+slug: recruiters-perceptions-of-art-therapy
 sources:
-  - fxa301-week05-week-5-activities-fxa301-arts-in-the-community
+- fxa301-week05-week-5-activities-fxa301-arts-in-the-community
+tags:
+- recruiters-perceptions
+title: Recruiters' Perceptions of Art Therapy
+type: topic
 updated: 2026-05-04
 ---
 

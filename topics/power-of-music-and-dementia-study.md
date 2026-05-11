@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Power Of Music And Dementia Study"
 confidence: low
-tags: ["power-of-music-and-dementia-study"]
+domain: intervention
+slug: power-of-music-and-dementia-study
 sources:
-  - fxa100-week03-introduction-to-week-3-listening-to-music
+- fxa100-week03-introduction-to-week-3-listening-to-music
+tags:
+- power-of-music-and-dementia-study
+title: Power Of Music And Dementia Study
+type: topic
 updated: 2026-05-04
 ---
 

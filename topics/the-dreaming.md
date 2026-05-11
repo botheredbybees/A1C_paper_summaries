@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "The Dreaming in Indigenous Arts and Mental Wellbeing"
 confidence: low
-tags: ["the-dreaming"]
+domain: intervention
+slug: the-dreaming-in-indigenous-arts-and-mental-wellbeing
 sources:
-  - fxa303-week10-lesson-fxa303-week10-page-2-indigenous-arts-and-mental
+- fxa303-week10-lesson-fxa303-week10-page-2-indigenous-arts-and-mental
+tags:
+- the-dreaming
+title: The Dreaming in Indigenous Arts and Mental Wellbeing
+type: topic
 updated: 2026-05-04
 ---
 

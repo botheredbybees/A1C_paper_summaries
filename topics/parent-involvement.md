@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Parent Involvement in Autism Treatment"
 confidence: low
-tags: ["parent-involvement"]
+domain: intervention
+slug: parent-involvement-in-autism-treatment
 sources:
-  - fxa303-week04-transcript-duration-5-04
+- fxa303-week04-transcript-duration-5-04
+tags:
+- parent-involvement
+title: Parent Involvement in Autism Treatment
+type: topic
 updated: 2026-05-04
 ---
 

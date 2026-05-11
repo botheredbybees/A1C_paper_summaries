@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Self-expression in Dementia and Autism"
 confidence: high
-tags: ["self-expression"]
+domain: intervention
+slug: self-expression-in-dementia-and-autism
 sources:
   - fxa100-week02-transcript-duration-949
   - fxa100-week04-transcript-music-therapy-with-dementia-canadian-music
@@ -12,8 +10,22 @@ sources:
   - fxa100-week08-transcript-youtube-l3cci-2kwkk
   - fxa100-week08-why-the-arts
   - fxa202-week09-personal-storytelling-and-memoir-writing
+  - fxa301-week11-refugee-art-project
   - fxa303-week06-art-therapy-with-puppet-making-to-promote-emotional-empathy
-updated: 2026-05-04
+  - fxa303-week11-artistic-expression-as-a-source-of-resilience-for
+- fxa100-week02-transcript-duration-949
+- fxa100-week04-transcript-music-therapy-with-dementia-canadian-music
+- fxa100-week06-transcript-art-therapy-has-many-faces
+- fxa100-week08-transcript-youtube-cilh21tfqem
+- fxa100-week08-transcript-youtube-l3cci-2kwkk
+- fxa100-week08-why-the-arts
+- fxa202-week09-personal-storytelling-and-memoir-writing
+- fxa303-week06-art-therapy-with-puppet-making-to-promote-emotional-empathy
+tags:
+- self-expression
+title: Self-expression in Dementia and Autism
+type: topic
+updated: 2026-05-11
 ---
 
 ## Self-expression in Dementia and Autism
@@ -39,4 +51,6 @@ The sources collectively emphasize the therapeutic potential of self-expression 
 - [fxa100-week08-transcript-youtube-l3cci-2kwkk](../sources/fxa100-week08-transcript-youtube-l3cci-2kwkk.md)
 - [fxa100-week08-why-the-arts](../sources/fxa100-week08-why-the-arts.md)
 - [fxa202-week09-personal-storytelling-and-memoir-writing](../sources/fxa202-week09-personal-storytelling-and-memoir-writing.md)
+- [fxa301-week11-refugee-art-project](../sources/fxa301-week11-refugee-art-project.md)
 - [fxa303-week06-art-therapy-with-puppet-making-to-promote-emotional-empathy](../sources/fxa303-week06-art-therapy-with-puppet-making-to-promote-emotional-empathy.md)
+- [fxa303-week11-artistic-expression-as-a-source-of-resilience-for](../sources/fxa303-week11-artistic-expression-as-a-source-of-resilience-for.md)

@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "theory"
-title: "Sense of Self"
 confidence: medium
-tags: ["sense-of-self"]
+domain: theory
+slug: sense-of-self
 sources:
-  - fxa202-week09-you-are-the-best-dancer
-  - fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for
-  - fxa303-week04-exploring-change-in-childrens-and-art-therapists-behavior
+- fxa202-week09-you-are-the-best-dancer
+- fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for
+- fxa303-week04-exploring-change-in-childrens-and-art-therapists-behavior
+tags:
+- sense-of-self
+title: Sense of Self
+type: topic
 updated: 2026-05-04
 ---
 

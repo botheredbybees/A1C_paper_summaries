@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Verbal and Non-verbal Communication in Healthcare"
 confidence: low
-tags: ["verbal-and-non-verbal-communication"]
+domain: intervention
+slug: verbal-and-non-verbal-communication-in-healthcare
 sources:
-  - fxa100-week10-transcript-the-elderflowers-arts-in-health-program-uses
+- fxa100-week10-transcript-the-elderflowers-arts-in-health-program-uses
+tags:
+- verbal-and-non-verbal-communication
+title: Verbal and Non-verbal Communication in Healthcare
+type: topic
 updated: 2026-05-04
 ---
 

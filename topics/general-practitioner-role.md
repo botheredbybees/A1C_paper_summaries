@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "General Practitioner Role in Disaster Response"
 confidence: low
-tags: ["general-practitioner-role"]
+domain: intervention
+slug: general-practitioner-role-in-disaster-response
 sources:
-  - fxa303-week09-after-the-fires-looking-to-the-future-using-the-lessons
+- fxa303-week09-after-the-fires-looking-to-the-future-using-the-lessons
+tags:
+- general-practitioner-role
+title: General Practitioner Role in Disaster Response
+type: topic
 updated: 2026-05-04
 ---
 

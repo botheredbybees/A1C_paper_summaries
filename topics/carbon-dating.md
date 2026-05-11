@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Carbon-Dating in Archaeology"
 confidence: low
-tags: ["carbon-dating"]
+domain: method
+slug: carbon-dating-in-archaeology
 sources:
-  - fxa301-week01-web-article-bbc-2012
+- fxa301-week01-web-article-bbc-2012
+tags:
+- carbon-dating
+title: Carbon-Dating in Archaeology
+type: topic
 updated: 2026-05-04
 ---
 

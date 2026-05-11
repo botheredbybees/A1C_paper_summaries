@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Technological Facilitation Of Creativity"
 confidence: low
-tags: ["technological-facilitation-of-creativity"]
+domain: intervention
+slug: technological-facilitation-of-creativity
 sources:
-  - fxa100-creativity-and-communication-ch02-15-putting-the-it-into-creativity-exploring-the-creative
+- fxa100-creativity-and-communication-ch02-15-putting-the-it-into-creativity-exploring-the-creative
+tags:
+- technological-facilitation-of-creativity
+title: Technological Facilitation Of Creativity
+type: topic
 updated: 2026-05-04
 ---
 

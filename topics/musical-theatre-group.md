@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Musical Theatre Groups for Dementia Patients"
 confidence: low
-tags: ["musical-theatre-group"]
+domain: intervention
+slug: musical-theatre-groups-for-dementia-patients
 sources:
-  - fxa100-week09-people-with-dementia-as-spect-actors-in-a-musical-theatre
+- fxa100-week09-people-with-dementia-as-spect-actors-in-a-musical-theatre
+tags:
+- musical-theatre-group
+title: Musical Theatre Groups for Dementia Patients
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Vancouver Protocol"
 confidence: low
-tags: ["vancouver-protocol"]
+domain: method
+slug: vancouver-protocol
 sources:
-  - fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of
+- fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of
+tags:
+- vancouver-protocol
+title: Vancouver Protocol
+type: topic
 updated: 2026-05-04
 ---
 

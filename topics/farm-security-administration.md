@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Farm Security Administration"
 confidence: low
-tags: ["farm-security-administration"]
+domain: intervention
+slug: farm-security-administration
 sources:
-  - fxa202-week05-the-assignment-ill-never-forget
+- fxa202-week05-the-assignment-ill-never-forget
+tags:
+- farm-security-administration
+title: Farm Security Administration
+type: topic
 updated: 2026-05-04
 ---
 

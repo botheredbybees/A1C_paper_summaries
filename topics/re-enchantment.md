@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Re-Enchantment"
 confidence: low
-tags: ["re-enchantment"]
+domain: theory
+slug: re-enchantment
 sources:
-  - fxa301-week05-cork-as-canvas-exploring-intersections-of-citizenship-and
+- fxa301-week05-cork-as-canvas-exploring-intersections-of-citizenship-and
+tags:
+- re-enchantment
+title: Re-Enchantment
+type: topic
 updated: 2026-05-04
 ---
 

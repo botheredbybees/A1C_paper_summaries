@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Formative Evaluation in Intervention Implementation"
 confidence: low
-tags: ["formative-evaluation"]
+domain: intervention
+slug: formative-evaluation-in-intervention-implementation
 sources:
-  - fxa100-week04-implementing-and-evaluating-interventions
+- fxa100-week04-implementing-and-evaluating-interventions
+tags:
+- formative-evaluation
+title: Formative Evaluation in Intervention Implementation
+type: topic
 updated: 2026-05-04
 ---
 

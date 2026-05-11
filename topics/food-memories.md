@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "theory"
-title: "Food Memories"
 confidence: medium
-tags: ["food-memories"]
+domain: theory
+slug: food-memories
 sources:
   - fxa202-week06-apples-never-fall
   - fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family
-updated: 2026-05-04
+- fxa202-week06-apples-never-fall
+- fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family
+tags:
+- food-memories
+title: Food Memories
+type: topic
+updated: 2026-05-11
 ---
 
 ## Food Memories

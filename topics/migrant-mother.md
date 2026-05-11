@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Migrant Mothers"
 confidence: low
-tags: ["migrant-mother"]
+domain: population
+slug: migrant-mothers
 sources:
-  - fxa202-week05-the-assignment-ill-never-forget
+- fxa202-week05-the-assignment-ill-never-forget
+tags:
+- migrant-mother
+title: Migrant Mothers
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Resident Well-being Through Personalized Music Therapy"
 confidence: low
-tags: ["resident-well-being"]
+domain: intervention
+slug: resident-well-being-through-personalized-music-therapy
 sources:
-  - fxa100-week03-implementation-survey-results-wisconsin-music-memory-program
+- fxa100-week03-implementation-survey-results-wisconsin-music-memory-program
+tags:
+- resident-well-being
+title: Resident Well-being Through Personalized Music Therapy
+type: topic
 updated: 2026-05-04
 ---
 

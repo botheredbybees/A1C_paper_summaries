@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Role-Playing in Therapeutic Settings"
 confidence: low
-tags: ["role-playing"]
+domain: intervention
+slug: role-playing-in-therapeutic-settings
 sources:
-  - fxa100-week09-web-article-north-2021
+- fxa100-week09-web-article-north-2021
+tags:
+- role-playing
+title: Role-Playing in Therapeutic Settings
+type: topic
 updated: 2026-05-04
 ---
 

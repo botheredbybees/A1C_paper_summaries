@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music and Health Interventions"
 confidence: medium
-tags: ["health-psychology"]
+domain: intervention
+slug: music-and-health-interventions
 sources:
   - fxa100-week04-what-is-music-health-and-wellbeing
   - fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental
-updated: 2026-05-04
+- fxa100-week04-what-is-music-health-and-wellbeing
+- fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental
+tags:
+- health-psychology
+title: Music and Health Interventions
+type: topic
+updated: 2026-05-11
 ---
 
 ## Music and Health Interventions

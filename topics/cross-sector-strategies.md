@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cross-Sector Strategies for Health"
 confidence: low
-tags: ["cross-sector-strategies"]
+domain: intervention
+slug: cross-sector-strategies-for-health
 sources:
-  - fxa301-week03-cross-sector-strategies-for-health-and-community-well-being
+- fxa301-week03-cross-sector-strategies-for-health-and-community-well-being
+tags:
+- cross-sector-strategies
+title: Cross-Sector Strategies for Health
+type: topic
 updated: 2026-05-04
 ---
 

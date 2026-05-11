@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Challenging Societal Norms Through Art"
 confidence: low
-tags: ["societal-norm-challenge"]
+domain: intervention
+slug: challenging-societal-norms-through-art
 sources:
-  - fxa301-week09-how-josie-webster-is-conquering-the-art-world-with
+- fxa301-week09-how-josie-webster-is-conquering-the-art-world-with
+tags:
+- societal-norm-challenge
+title: Challenging Societal Norms Through Art
+type: topic
 updated: 2026-05-04
 ---
 

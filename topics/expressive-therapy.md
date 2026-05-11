@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Expressive Therapy"
 confidence: low
-tags: ["expressive-therapy"]
+domain: intervention
+slug: expressive-therapy
 sources:
-  - fxa303-week09-using-creative-techniques-with-children-who-have
+- fxa303-week09-using-creative-techniques-with-children-who-have
+tags:
+- expressive-therapy
+title: Expressive Therapy
+type: topic
 updated: 2026-05-04
 ---
 

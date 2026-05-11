@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Projection in Therapy"
 confidence: medium
-tags: ["projection-in-therapy"]
+domain: intervention
+slug: projection-in-therapy
 sources:
-  - fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children
-  - fxa303-week06-mr-fox-is-sad
+- fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children
+- fxa303-week06-mr-fox-is-sad
+tags:
+- projection-in-therapy
+title: Projection in Therapy
+type: topic
 updated: 2026-05-04
 ---
 

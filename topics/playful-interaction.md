@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Playful Interaction"
 confidence: low
-tags: ["playful-interaction"]
+domain: intervention
+slug: playful-interaction
 sources:
-  - fxa100-week10-transcript-the-elderflowers-arts-in-health-program-uses
+- fxa100-week10-transcript-the-elderflowers-arts-in-health-program-uses
+tags:
+- playful-interaction
+title: Playful Interaction
+type: topic
 updated: 2026-05-04
 ---
 

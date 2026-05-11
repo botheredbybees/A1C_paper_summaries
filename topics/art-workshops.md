@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Art Workshops"
 confidence: low
-tags: ["art-workshops"]
+domain: intervention
+slug: art-workshops
 sources:
-  - fxa301-week10-fxa301-week-10-lecture
+- fxa301-week10-fxa301-week-10-lecture
+tags:
+- art-workshops
+title: Art Workshops
+type: topic
 updated: 2026-05-04
 ---
 

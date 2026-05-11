@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Group Identity in Choir Singing"
 confidence: low
-tags: ["group-identity"]
+domain: intervention
+slug: group-identity-in-choir-singing
 sources:
-  - fxa301-week10-to-be-heard-the-social-and-mental-health-benefits-of-choir
+- fxa301-week10-to-be-heard-the-social-and-mental-health-benefits-of-choir
+tags:
+- group-identity
+title: Group Identity in Choir Singing
+type: topic
 updated: 2026-05-04
 ---
 

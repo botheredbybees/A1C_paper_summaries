@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "theory"
-title: "Public Health Policy Frameworks"
 confidence: high
-tags: ["public-health-policy"]
+domain: theory
+slug: public-health-policy-frameworks
 sources:
   - fxa100-week01-national-dementia-action-plan-indicators-dashboard
   - fxa301-week03-arts-public-health-and-the-national-arts-and-health
   - fxa301-week03-national-arts-and-health-framework
   - fxa303-week09-after-the-fires-looking-to-the-future-using-the-lessons
-updated: 2026-05-04
+- fxa100-week01-national-dementia-action-plan-indicators-dashboard
+- fxa301-week03-arts-public-health-and-the-national-arts-and-health
+- fxa301-week03-national-arts-and-health-framework
+- fxa303-week09-after-the-fires-looking-to-the-future-using-the-lessons
+tags:
+- public-health-policy
+title: Public Health Policy Frameworks
+type: topic
+updated: 2026-05-11
 ---
 
 ## Public Health Policy Frameworks

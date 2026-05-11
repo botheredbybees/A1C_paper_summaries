@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music Therapy for Depression"
 confidence: low
-tags: ["physical-engagement"]
+domain: intervention
+slug: music-therapy-for-depression
 sources:
-  - fxa100-week03-music-therapy-for-depression-it-seems-to-work-but-how
+- fxa100-week03-music-therapy-for-depression-it-seems-to-work-but-how
+tags:
+- physical-engagement
+title: Music Therapy for Depression
+type: topic
 updated: 2026-05-04
 ---
 

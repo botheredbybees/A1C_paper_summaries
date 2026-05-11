@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-expression
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Creative Expression
@@ -30,7 +30,15 @@ updated: 2026-05-06
 - [The Connection Between Art, Healing, and Public Health: A Review of Current Literature](../sources/fxa301-week08-the-connection-between-art-healing-and-public-health-a.md)
 - [Planning for Inclusiveness in Arts Projects](../sources/fxa301-week09-lesson-fxa301-week09-page-2.md)
 - [Week 9 Lecture - Dr Brendan Lamb](../sources/fxa301-week09-week-9-lecture-dr-brendan-lamb.md)
+- [7 Art Initiatives That Are Transforming The Lives Of Refugees](../sources/fxa301-week11-7-art-initiatives-that-are-transforming-the-lives-of.md)
+- [Choose Art](../sources/fxa301-week11-choose-art.md)
+- [Colouring it beautiful: artists on the loose in a refugee camp - in pictures](../sources/fxa301-week11-colouring-it-beautiful-artists-on-the-loose-in-a-refugee.md)
+- [Refugee Art \u2013 Expressing Experience Through Creativity](../sources/fxa301-week11-refugee-art-expressing-experience-through-creativity.md)
 - [Arts On Prescription Meets Sir Quentin Blake](../sources/fxa303-week03-arts-on-prescription-meets-sir-quentin-blake.md)
 - [From helplessness to a renewed sense of agency: The integration of puppets in the Art & Storytelling school-based creative expression program with immigrant and refugee children](../sources/fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the.md)
 - [FXA303 Creative Arts, Play and Mental Wellbeing - Week 6 Activities](../sources/fxa303-week06-lesson-fxa303-week06-page-4-week-6-activities.md)
 - [We Are All Born Creative: Art Workshops for Resilience](../sources/fxa303-week09-transcript-arts-mid-north-coast-we-are-all-born-creative.md)
+- [A Lot of Us Look at Life Differently: Homeless Youths and Art on the Outside](../sources/fxa303-week11-a-lot-of-us-look-at-life-differently-homeless-youths-and.md)
+- [Dance project gives young people in youth detention a chance to tell their stories](../sources/fxa303-week11-dance-project-gives-young-people-in-youth-detention-a.md)
+- [Healing Arts - Safe Place for Youth](../sources/fxa303-week11-healing-arts-safe-place-for-youth.md)
+- [Role of Art Therapy in the Promotion of Mental Health: A Critical Review](../sources/fxa303-week11-role-of-art-therapy-in-the-promotion-of-mental-health-a.md)

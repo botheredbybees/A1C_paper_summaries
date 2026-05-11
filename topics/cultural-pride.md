@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cultural Pride in Therapy"
 confidence: low
-tags: ["cultural-pride"]
+domain: intervention
+slug: cultural-pride-in-therapy
 sources:
-  - fxa303-week10-indigenous-and-traditional-arts-in-art-therapy-value
+- fxa303-week10-indigenous-and-traditional-arts-in-art-therapy-value
+tags:
+- cultural-pride
+title: Cultural Pride in Therapy
+type: topic
 updated: 2026-05-04
 ---
 

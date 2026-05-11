@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Impact of Music on Dementia"
 confidence: low
-tags: ["impact-of-music-on-dementia"]
+domain: intervention
+slug: impact-of-music-on-dementia
 sources:
-  - fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care
+- fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care
+tags:
+- impact-of-music-on-dementia
+title: Impact of Music on Dementia
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Musical Memory Theory"
 confidence: low
-tags: ["musical-memory-theory"]
+domain: theory
+slug: musical-memory-theory
 sources:
-  - fxa100-week03-lesson-fxa100-week03-page-2-listening-and-dementia-care
+- fxa100-week03-lesson-fxa100-week03-page-2-listening-and-dementia-care
+tags:
+- musical-memory-theory
+title: Musical Memory Theory
+type: topic
 updated: 2026-05-04
 ---
 

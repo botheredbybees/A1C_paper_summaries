@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Benefits Of Creative Play"
 confidence: low
-tags: ["therapeutic-benefits-of-creative-play"]
+domain: intervention
+slug: therapeutic-benefits-of-creative-play
 sources:
-  - fxa303-week05-fxa303-week-5-welcome
+- fxa303-week05-fxa303-week-5-welcome
+tags:
+- therapeutic-benefits-of-creative-play
+title: Therapeutic Benefits Of Creative Play
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Kitwood\u2019s Person-Centered Care Model"
 confidence: low
-tags: ["kitwoods-person-centered-care-model"]
+domain: theory
+slug: kitwood-s-person-centered-care-model
 sources:
-  - fxa100-excellence-in-dementia-care--ch13-chapter-16
+- fxa100-excellence-in-dementia-care--ch13-chapter-16
+tags:
+- kitwoods-person-centered-care-model
+title: Kitwood’s Person-Centered Care Model
+type: topic
 updated: 2026-05-04
 ---
 

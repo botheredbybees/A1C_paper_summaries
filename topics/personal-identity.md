@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Personal Identity Through Memory and Arts"
 confidence: medium
-tags: ["personal-identity"]
+domain: intervention
+slug: personal-identity-through-memory-and-arts
 sources:
-  - fxa100-week07-creating-resources-memory-trees-and-boxes
-  - fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family
+- fxa100-week07-creating-resources-memory-trees-and-boxes
+- fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family
+tags:
+- personal-identity
+title: Personal Identity Through Memory and Arts
+type: topic
 updated: 2026-05-04
 ---
 

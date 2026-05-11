@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Community-Led Initiatives"
 confidence: low
-tags: ["community-led-initiatives"]
+domain: intervention
+slug: community-led-initiatives
 sources:
-  - fxa303-week10-web-article-russ-smith-2023
+- fxa303-week10-web-article-russ-smith-2023
+tags:
+- community-led-initiatives
+title: Community-Led Initiatives
+type: topic
 updated: 2026-05-04
 ---
 

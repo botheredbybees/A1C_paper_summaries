@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Stress Hormone Reduction"
 confidence: low
-tags: ["stress-hormone-reduction"]
+domain: intervention
+slug: stress-hormone-reduction
 sources:
-  - fxa100-week04-singing-and-participation
+- fxa100-week04-singing-and-participation
+tags:
+- stress-hormone-reduction
+title: Stress Hormone Reduction
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts On Prescription"
 confidence: medium
-tags: ["arts-on-prescription"]
+domain: intervention
+slug: arts-on-prescription
 sources:
   - fxa301-week10-fxa301-week-10-lecture
   - fxa303-week03-arts-on-prescription-meets-sir-quentin-blake
   - fxa303-week03-arts-on-prescription-observed-changes-in-anxiety-depression
   - fxa303-week03-the-impact-of-arts-on-prescription-on-individual-health-and
-updated: 2026-05-05
+- fxa301-week10-fxa301-week-10-lecture
+- fxa303-week03-arts-on-prescription-meets-sir-quentin-blake
+- fxa303-week03-arts-on-prescription-observed-changes-in-anxiety-depression
+- fxa303-week03-the-impact-of-arts-on-prescription-on-individual-health-and
+tags:
+- arts-on-prescription
+title: Arts On Prescription
+type: topic
+updated: 2026-05-11
 ---
 
 ## Arts On Prescription

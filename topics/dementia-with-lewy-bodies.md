@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "population"
-title: "Dementia with Lewy Bodies"
 confidence: low
-tags: ["dementia-with-lewy-bodies"]
+domain: population
+slug: dementia-with-lewy-bodies
 sources:
-  - fxa100-week06-art-and-the-brain-a-view-from-dementia
+- fxa100-week06-art-and-the-brain-a-view-from-dementia
+tags:
+- dementia-with-lewy-bodies
+title: Dementia with Lewy Bodies
+type: topic
 updated: 2026-05-04
 ---
 

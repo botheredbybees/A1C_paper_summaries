@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Early Childhood Development"
 confidence: medium
-tags: ["early-childhood-development"]
+domain: intervention
+slug: early-childhood-development
 sources:
   - fxa303-week02-infancy-and-the-early-years
   - fxa303-week02-lesson-fxa303-week02-topic-activities-2
   - fxa303-week02-scientific-thinking-in-young-children-theoretical-advances
-updated: 2026-05-04
+- fxa303-week02-infancy-and-the-early-years
+- fxa303-week02-lesson-fxa303-week02-topic-activities-2
+- fxa303-week02-scientific-thinking-in-young-children-theoretical-advances
+tags:
+- early-childhood-development
+title: Early Childhood Development
+type: topic
+updated: 2026-05-11
 ---
 
 ## Early Childhood Development

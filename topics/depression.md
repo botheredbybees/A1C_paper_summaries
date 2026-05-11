@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Depression in Adolescents"
 confidence: medium
-tags: ["depression"]
+domain: intervention
+slug: depression-in-adolescents
 sources:
-  - fxa303-week03-mental-health-of-adolescents
-  - fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of
+- fxa303-week03-mental-health-of-adolescents
+- fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of
+tags:
+- depression
+title: Depression in Adolescents
+type: topic
 updated: 2026-05-04
 ---
 

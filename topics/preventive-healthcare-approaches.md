@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Preventive Healthcare Approaches"
 confidence: low
-tags: ["preventive-healthcare-approaches"]
+domain: intervention
+slug: preventive-healthcare-approaches
 sources:
-  - fxa301-week03-creative-health-review-report
+- fxa301-week03-creative-health-review-report
+tags:
+- preventive-healthcare-approaches
+title: Preventive Healthcare Approaches
+type: topic
 updated: 2026-05-04
 ---
 

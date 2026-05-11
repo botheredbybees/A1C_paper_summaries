@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Engagement Strategies"
 confidence: low
-tags: ["therapeutic-engagement-strategies"]
+domain: intervention
+slug: therapeutic-engagement-strategies
 sources:
-  - fxa303-week10-cultural-diversity-and-mental-health-considerations-for
+- fxa303-week10-cultural-diversity-and-mental-health-considerations-for
+tags:
+- therapeutic-engagement-strategies
+title: Therapeutic Engagement Strategies
+type: topic
 updated: 2026-05-04
 ---
 

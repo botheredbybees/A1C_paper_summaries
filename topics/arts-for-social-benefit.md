@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts for Social Benefit"
 confidence: low
-tags: ["arts-for-social-benefit"]
+domain: intervention
+slug: arts-for-social-benefit
 sources:
-  - fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts
+- fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts
+tags:
+- arts-for-social-benefit
+title: Arts for Social Benefit
+type: topic
 updated: 2026-05-04
 ---
 

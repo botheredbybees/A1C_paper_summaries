@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Neurosynchronicity"
 confidence: low
-tags: ["neurosynchronicity"]
+domain: theory
+slug: neurosynchronicity
 sources:
-  - fxa100-week02-brain-networking-among-musicians
+- fxa100-week02-brain-networking-among-musicians
+tags:
+- neurosynchronicity
+title: Neurosynchronicity
+type: topic
 updated: 2026-05-04
 ---
 

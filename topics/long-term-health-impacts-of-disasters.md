@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Long-Term Health Impacts Of Disasters"
 confidence: low
-tags: ["long-term-health-impacts-of-disasters"]
+domain: theory
+slug: long-term-health-impacts-of-disasters
 sources:
-  - fxa303-week09-lesson-fxa303-week09-page-1-overview
+- fxa303-week09-lesson-fxa303-week09-page-1-overview
+tags:
+- long-term-health-impacts-of-disasters
+title: Long-Term Health Impacts Of Disasters
+type: topic
 updated: 2026-05-04
 ---
 

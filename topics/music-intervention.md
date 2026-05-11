@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music Intervention in Dementia Care"
 confidence: medium
-tags: ["music-intervention"]
+domain: intervention
+slug: music-intervention-in-dementia-care
 sources:
   - fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers
   - fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35
-updated: 2026-05-04
+- fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers
+- fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35
+tags:
+- music-intervention
+title: Music Intervention in Dementia Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Music Intervention in Dementia Care

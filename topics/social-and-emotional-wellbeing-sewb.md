@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Social And Emotional Wellbeing Among Aboriginal Youth"
 confidence: low
-tags: ["social-and-emotional-wellbeing-sewb"]
+domain: intervention
+slug: social-and-emotional-wellbeing-among-aboriginal-youth
 sources:
-  - fxa303-week10-healing-through-culture-aboriginal-young-peoples
+- fxa303-week10-healing-through-culture-aboriginal-young-peoples
+tags:
+- social-and-emotional-wellbeing-sewb
+title: Social And Emotional Wellbeing Among Aboriginal Youth
+type: topic
 updated: 2026-05-04
 ---
 

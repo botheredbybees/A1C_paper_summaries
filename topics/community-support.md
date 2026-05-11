@@ -1,13 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Community Support Programs"
 confidence: medium
-tags: ["community-support"]
+domain: intervention
+slug: community-support-programs
 sources:
   - fxa301-week05-museums-for-health-and-wellbeing
   - fxa303-week03-5-ways-to-standbyteens-in-support-of-teen-mental-health
-updated: 2026-05-04
+  - fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic
+  - fxa303-week11-lesson-fxa303-week11-page-2
+- fxa301-week05-museums-for-health-and-wellbeing
+- fxa303-week03-5-ways-to-standbyteens-in-support-of-teen-mental-health
+tags:
+- community-support
+title: Community Support Programs
+type: topic
+updated: 2026-05-11
 ---
 
 ## Community Support Programs
@@ -28,3 +34,5 @@ Community support programs encompass a variety of initiatives aimed at fostering
 
 - [fxa301-week05-museums-for-health-and-wellbeing](../sources/fxa301-week05-museums-for-health-and-wellbeing.md)
 - [fxa303-week03-5-ways-to-standbyteens-in-support-of-teen-mental-health](../sources/fxa303-week03-5-ways-to-standbyteens-in-support-of-teen-mental-health.md)
+- [fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic](../sources/fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic.md)
+- [fxa303-week11-lesson-fxa303-week11-page-2](../sources/fxa303-week11-lesson-fxa303-week11-page-2.md)

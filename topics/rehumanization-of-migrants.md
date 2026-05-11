@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Rehumanization Of Migrants"
 confidence: low
-tags: ["rehumanization-of-migrants"]
+domain: intervention
+slug: rehumanization-of-migrants
 sources:
-  - fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)
+- fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)
+tags:
+- rehumanization-of-migrants
+title: Rehumanization Of Migrants
+type: topic
 updated: 2026-05-04
 ---
 

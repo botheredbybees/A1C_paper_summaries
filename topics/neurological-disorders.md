@@ -1,14 +1,16 @@
 ---
-type: topic
-domain: "intervention"
-title: "Neurological Disorders"
 confidence: high
-tags: ["neurological-disorders"]
+domain: intervention
+slug: neurological-disorders
 sources:
-  - fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms
-  - fxa100-week01-living-with-dementia-12-what-is-vascular-dementia
-  - fxa100-week01-transcript-the-science-of-lewy-body-dementia
-  - fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care
+- fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms
+- fxa100-week01-living-with-dementia-12-what-is-vascular-dementia
+- fxa100-week01-transcript-the-science-of-lewy-body-dementia
+- fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care
+tags:
+- neurological-disorders
+title: Neurological Disorders
+type: topic
 updated: 2026-05-03
 ---
 

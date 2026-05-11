@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Respiratory Health Benefits"
 confidence: low
-tags: ["respiratory-health-benefits"]
+domain: intervention
+slug: respiratory-health-benefits
 sources:
-  - fxa100-week04-singing-and-the-brain
+- fxa100-week04-singing-and-the-brain
+tags:
+- respiratory-health-benefits
+title: Respiratory Health Benefits
+type: topic
 updated: 2026-05-04
 ---
 

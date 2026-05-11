@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Patient Wellbeing Interventions"
 confidence: medium
-tags: ["patient-wellbeing"]
+domain: intervention
+slug: patient-wellbeing-interventions
 sources:
   - fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a
   - fxa303-week08-more-than-just-an-entertainment-show-identification-of
-updated: 2026-05-04
+- fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a
+- fxa303-week08-more-than-just-an-entertainment-show-identification-of
+tags:
+- patient-wellbeing
+title: Patient Wellbeing Interventions
+type: topic
+updated: 2026-05-11
 ---
 
 ## Patient Wellbeing Interventions

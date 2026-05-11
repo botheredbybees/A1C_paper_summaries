@@ -11,7 +11,7 @@ tags: ["cognitive-stimulation", "dementia-care", "rehabilitation-strategies", "f
 key_concepts: ["cognitive rehabilitation", "external memory aids", "internal strategies"]
 methods: []
 slug: fxa100-excellence-in-dementia-care--ch09-chapter-15
-related: ["cognitive-stimulation", "dementia-care"]
+related: ["cognitive-stimulation", "dementia-care", "rehabilitation-strategies"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,3 +43,4 @@ The chapter discusses cognitive training and rehabilitation methods for individu
 
 - [cognitive-stimulation](../topics/cognitive-stimulation.md)
 - [dementia-care](../topics/dementia-care.md)
+- [rehabilitation-strategies](../topics/rehabilitation-strategies.md)

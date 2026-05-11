@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Sensory Processing"
 confidence: low
-tags: ["sensory-processing"]
+domain: theory
+slug: sensory-processing
 sources:
-  - fxa301-week02-the-brain-and-how-we-perceive-information
+- fxa301-week02-the-brain-and-how-we-perceive-information
+tags:
+- sensory-processing
+title: Sensory Processing
+type: topic
 updated: 2026-05-04
 ---
 

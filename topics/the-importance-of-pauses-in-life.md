@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "The Importance Of Pauses In Life"
 confidence: low
-tags: ["the-importance-of-pauses-in-life"]
+domain: theory
+slug: the-importance-of-pauses-in-life
 sources:
-  - fxa301-week08-transcript-youtube-q7-axxnucfq
+- fxa301-week08-transcript-youtube-q7-axxnucfq
+tags:
+- the-importance-of-pauses-in-life
+title: The Importance Of Pauses In Life
+type: topic
 updated: 2026-05-04
 ---
 

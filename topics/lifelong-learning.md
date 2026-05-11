@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Lifelong Learning"
 confidence: low
-tags: ["lifelong-learning"]
+domain: intervention
+slug: lifelong-learning
 sources:
-  - fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project
+- fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project
+tags:
+- lifelong-learning
+title: Lifelong Learning
+type: topic
 updated: 2026-05-04
 ---
 

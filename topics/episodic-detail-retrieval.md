@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Episodic Detail Retrieval"
 confidence: low
-tags: ["episodic-detail-retrieval"]
+domain: intervention
+slug: episodic-detail-retrieval
 sources:
-  - fxa100-week07-turning-back-the-hands-of-time-autobiographical-memories-in
+- fxa100-week07-turning-back-the-hands-of-time-autobiographical-memories-in
+tags:
+- episodic-detail-retrieval
+title: Episodic Detail Retrieval
+type: topic
 updated: 2026-05-04
 ---
 

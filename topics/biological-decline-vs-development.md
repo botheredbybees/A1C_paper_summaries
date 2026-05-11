@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Biological Decline Versus Development In Elderhood"
 confidence: low
-tags: ["biological-decline-vs-development"]
+domain: theory
+slug: biological-decline-versus-development-in-elderhood
 sources:
-  - fxa202-week10-introduction-art-therapy-and-creative-aging
+- fxa202-week10-introduction-art-therapy-and-creative-aging
+tags:
+- biological-decline-vs-development
+title: Biological Decline Versus Development In Elderhood
+type: topic
 updated: 2026-05-04
 ---
 

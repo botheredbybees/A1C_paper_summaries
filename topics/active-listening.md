@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Active Listening"
 confidence: low
-tags: ["active-listening"]
+domain: intervention
+slug: active-listening
 sources:
-  - fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare
+- fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare
+tags:
+- active-listening
+title: Active Listening
+type: topic
 updated: 2026-05-04
 ---
 

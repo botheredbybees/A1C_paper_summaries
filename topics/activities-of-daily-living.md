@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Activities of Daily Living"
 confidence: low
-tags: ["activities-of-daily-living"]
+domain: intervention
+slug: activities-of-daily-living
 sources:
-  - fxa100-week03-alzheimers-disease-music-engagement-quality-of-life
+- fxa100-week03-alzheimers-disease-music-engagement-quality-of-life
+tags:
+- activities-of-daily-living
+title: Activities of Daily Living
+type: topic
 updated: 2026-05-04
 ---
 

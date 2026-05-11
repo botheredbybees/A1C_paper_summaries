@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Artistic Genre"
 confidence: low
-tags: ["artistic-genre"]
+domain: theory
+slug: artistic-genre
 sources:
-  - fxa301-make-arts-for-a-better-life-ch11-4-you-and-the-community-have-stepped-through
+- fxa301-make-arts-for-a-better-life-ch11-4-you-and-the-community-have-stepped-through
+tags:
+- artistic-genre
+title: Artistic Genre
+type: topic
 updated: 2026-05-04
 ---
 

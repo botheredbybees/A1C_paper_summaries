@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Refractory Cases in Post-Traumatic Stress Disorder"
 confidence: medium
-tags: ["refractory-cases"]
+domain: intervention
+slug: refractory-cases-in-post-traumatic-stress-disorder
 sources:
   - fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and
   - fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2)
-updated: 2026-05-03
+- fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and
+- fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2)
+tags:
+- refractory-cases
+title: Refractory Cases in Post-Traumatic Stress Disorder
+type: topic
+updated: 2026-05-11
 ---
 
 ## Refractory Cases in Post-Traumatic Stress Disorder

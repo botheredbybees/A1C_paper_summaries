@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "theory"
-title: "Emotional Responses to Music"
 confidence: medium
-tags: ["emotional-responses-to-music"]
+domain: theory
+slug: emotional-responses-to-music
 sources:
-  - fxa301-week02-emotions-evoked-by-the-sound-of-music-characterization
-  - fxa301-week02-the-time-course-of-emotional-responses-to-music
+- fxa301-week02-emotions-evoked-by-the-sound-of-music-characterization
+- fxa301-week02-the-time-course-of-emotional-responses-to-music
+tags:
+- emotional-responses-to-music
+title: Emotional Responses to Music
+type: topic
 updated: 2026-05-04
 ---
 

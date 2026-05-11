@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Health-Related Quality Of Life"
 confidence: low
-tags: ["mental-component-score-mcs"]
+domain: intervention
+slug: health-related-quality-of-life
 sources:
-  - fxa100-week03-association-of-music-interventions-with-health-related
+- fxa100-week03-association-of-music-interventions-with-health-related
+tags:
+- mental-component-score-mcs
+title: Health-Related Quality Of Life
+type: topic
 updated: 2026-05-04
 ---
 

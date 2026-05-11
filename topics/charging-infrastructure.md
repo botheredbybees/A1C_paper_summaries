@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Electric Vehicle Charging Infrastructure"
 confidence: low
-tags: ["charging-infrastructure"]
+domain: intervention
+slug: electric-vehicle-charging-infrastructure
 sources:
-  - fxa301-week10-web-article-drayton-2016
+- fxa301-week10-web-article-drayton-2016
+tags:
+- charging-infrastructure
+title: Electric Vehicle Charging Infrastructure
+type: topic
 updated: 2026-05-04
 ---
 

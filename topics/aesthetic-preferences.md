@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "theory"
-title: "Aesthetic Preferences"
 confidence: medium
-tags: ["aesthetic-preferences"]
+domain: theory
+slug: aesthetic-preferences
 sources:
   - fxa301-week02-can-science-account-for-taste-psychological-insights-into
   - fxa301-week02-personality-correlates-of-aesthetic-preferences-for-art
-updated: 2026-05-04
+- fxa301-week02-can-science-account-for-taste-psychological-insights-into
+- fxa301-week02-personality-correlates-of-aesthetic-preferences-for-art
+tags:
+- aesthetic-preferences
+title: Aesthetic Preferences
+type: topic
+updated: 2026-05-11
 ---
 
 ## Aesthetic Preferences

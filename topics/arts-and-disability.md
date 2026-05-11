@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts and Disability"
 confidence: medium
-tags: ["arts-and-disability"]
+domain: intervention
+slug: arts-and-disability
 sources:
   - fxa301-week09-research-overview-arts-and-disability-in-australia
   - fxa301-week09-web-article-australia-2018
-updated: 2026-05-04
+- fxa301-week09-research-overview-arts-and-disability-in-australia
+- fxa301-week09-web-article-australia-2018
+tags:
+- arts-and-disability
+title: Arts and Disability
+type: topic
+updated: 2026-05-11
 ---
 
 ## Arts and Disability

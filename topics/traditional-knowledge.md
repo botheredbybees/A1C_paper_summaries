@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Traditional Knowledge"
 confidence: low
-tags: ["traditional-knowledge"]
+domain: theory
+slug: traditional-knowledge
 sources:
-  - fxa303-week10-indigenous-methodology-an-ethical-systems-approach-to-arts
+- fxa303-week10-indigenous-methodology-an-ethical-systems-approach-to-arts
+tags:
+- traditional-knowledge
+title: Traditional Knowledge
+type: topic
 updated: 2026-05-04
 ---
 

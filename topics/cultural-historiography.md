@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Intergenerational Transmission of Cultural Practices"
 confidence: low
-tags: ["cultural-historiography"]
+domain: theory
+slug: intergenerational-transmission-of-cultural-practices
 sources:
-  - fxa202-week06-apples-never-fall
+- fxa202-week06-apples-never-fall
+tags:
+- cultural-historiography
+title: Intergenerational Transmission of Cultural Practices
+type: topic
 updated: 2026-05-04
 ---
 

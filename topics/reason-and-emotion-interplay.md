@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Reason and Emotion Interplay"
 confidence: low
-tags: ["reason-and-emotion-interplay"]
+domain: theory
+slug: reason-and-emotion-interplay
 sources:
-  - fxa303-week05-platos-puppets-of-the-gods-representing-the-magical-the
+- fxa303-week05-platos-puppets-of-the-gods-representing-the-magical-the
+tags:
+- reason-and-emotion-interplay
+title: Reason and Emotion Interplay
+type: topic
 updated: 2026-05-04
 ---
 

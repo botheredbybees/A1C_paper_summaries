@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Place in Legal Systems"
 confidence: low
-tags: ["place"]
+domain: theory
+slug: place-in-legal-systems
 sources:
-  - fxa202-week05-lesson-fxa202-week05-page-4
+- fxa202-week05-lesson-fxa202-week05-page-4
+tags:
+- place
+title: Place in Legal Systems
+type: topic
 updated: 2026-05-04
 ---
 

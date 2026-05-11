@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Genre-Defined Roles in Music Production"
 confidence: low
-tags: ["genre-defined-roles"]
+domain: intervention
+slug: genre-defined-roles-in-music-production
 sources:
-  - fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration-(2)
+- fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration-(2)
+tags:
+- genre-defined-roles
+title: Genre-Defined Roles in Music Production
+type: topic
 updated: 2026-05-04
 ---
 

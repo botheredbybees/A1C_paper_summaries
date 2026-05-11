@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Free Healthcare"
 confidence: low
-tags: ["free-healthcare"]
+domain: intervention
+slug: free-healthcare
 sources:
-  - fxa303-week08-transcript-15-may-2012
+- fxa303-week08-transcript-15-may-2012
+tags:
+- free-healthcare
+title: Free Healthcare
+type: topic
 updated: 2026-05-04
 ---
 

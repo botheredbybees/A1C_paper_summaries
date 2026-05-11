@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Jungian Archetypes in Therapy"
 confidence: low
-tags: ["jungian-archetypes"]
+domain: intervention
+slug: jungian-archetypes-in-therapy
 sources:
-  - fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture
+- fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture
+tags:
+- jungian-archetypes
+title: Jungian Archetypes in Therapy
+type: topic
 updated: 2026-05-04
 ---
 

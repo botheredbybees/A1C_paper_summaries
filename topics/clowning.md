@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Clowning as an Intervention"
 confidence: low
-tags: ["clowning"]
+domain: intervention
+slug: clowning-as-an-intervention
 sources:
-  - fxa303-week05-lesson-fxa303-week05-page-1-week-5-overview
+- fxa303-week05-lesson-fxa303-week05-page-1-week-5-overview
+tags:
+- clowning
+title: Clowning as an Intervention
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Rhythmic Articulation in Music"
 confidence: low
-tags: ["rhythmic-articulation"]
+domain: intervention
+slug: rhythmic-articulation-in-music
 sources:
-  - fxa301-week02-relationships-between-musical-structure-and
+- fxa301-week02-relationships-between-musical-structure-and
+tags:
+- rhythmic-articulation
+title: Rhythmic Articulation in Music
+type: topic
 updated: 2026-05-04
 ---
 

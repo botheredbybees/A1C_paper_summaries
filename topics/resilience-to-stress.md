@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Resilience to Stress Through Art"
 confidence: low
-tags: ["resilience-to-stress"]
+domain: intervention
+slug: resilience-to-stress-through-art
 sources:
-  - fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual
+- fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual
+tags:
+- resilience-to-stress
+title: Resilience to Stress Through Art
+type: topic
 updated: 2026-05-04
 ---
 

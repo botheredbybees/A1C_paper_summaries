@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Flow Theory"
 confidence: low
-tags: ["flow-theory"]
+domain: theory
+slug: flow-theory
 sources:
-  - fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow
+- fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow
+tags:
+- flow-theory
+title: Flow Theory
+type: topic
 updated: 2026-05-04
 ---
 

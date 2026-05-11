@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Entwinement of Music, Emotion, and Memory"
 confidence: low
-tags: ["entwinement-of-music-emotion-memory"]
+domain: theory
+slug: entwinement-of-music-emotion-and-memory
 sources:
-  - fxa100-week03-lesson-fxa100-week03-page-1-welcome-to-week-3
+- fxa100-week03-lesson-fxa100-week03-page-1-welcome-to-week-3
+tags:
+- entwinement-of-music-emotion-memory
+title: Entwinement of Music, Emotion, and Memory
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "method"
-title: "Non-Linear Storytelling"
 confidence: medium
-tags: ["non-linear-storytelling"]
+domain: method
+slug: non-linear-storytelling
 sources:
-  - fxa202-week06-critical-reflection-on-visual-storytelling-through
-  - fxa202-week10-fxa202-week-10-web-lecture
+- fxa202-week06-critical-reflection-on-visual-storytelling-through
+- fxa202-week10-fxa202-week-10-web-lecture
+tags:
+- non-linear-storytelling
+title: Non-Linear Storytelling
+type: topic
 updated: 2026-05-04
 ---
 

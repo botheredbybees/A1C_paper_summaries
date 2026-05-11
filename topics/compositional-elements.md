@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Compositional Elements in Visual Storytelling"
 confidence: low
-tags: ["compositional-elements"]
+domain: method
+slug: compositional-elements-in-visual-storytelling
 sources:
-  - fxa202-week06-critical-reflection-on-visual-storytelling-through
+- fxa202-week06-critical-reflection-on-visual-storytelling-through
+tags:
+- compositional-elements
+title: Compositional Elements in Visual Storytelling
+type: topic
 updated: 2026-05-04
 ---
 

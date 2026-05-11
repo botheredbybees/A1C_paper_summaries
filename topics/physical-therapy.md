@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Physical Therapy for Parkinson's Disease"
 confidence: medium
-tags: ["physical-therapy"]
+domain: intervention
+slug: physical-therapy-for-parkinson-s-disease
 sources:
   - fxa301-week06-therapeutic-dancing-for-parkinsons-disease
   - fxa301-week06-transcript-gait-training-for-parkinsons-patient-using-music
-updated: 2026-05-04
+- fxa301-week06-therapeutic-dancing-for-parkinsons-disease
+- fxa301-week06-transcript-gait-training-for-parkinsons-patient-using-music
+tags:
+- physical-therapy
+title: Physical Therapy for Parkinson's Disease
+type: topic
+updated: 2026-05-11
 ---
 
 ## Physical Therapy for Parkinson's Disease

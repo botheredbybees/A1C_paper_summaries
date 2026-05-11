@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: community-engagement
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Community Engagement
@@ -12,6 +12,7 @@ updated: 2026-05-06
 - [Is a Visual Arts Programme Beneficial for the Quality of Life of People Living with Dementia?](../sources/fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of.md)
 - [Arts in Dementia Care: This is not the end... if it's the end of this chapter](../sources/fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of.md)
 - [Stimulating Engagement Through Participation in Visual Arts Projects](../sources/fxa100-week08-lesson-fxa100-week07-page-3-stimulating-engagement.md)
+- [Dancer Not Dementia | Canada's National Ballet School](../sources/fxa100-week11-dancer-not-dementia-canadas-national-ballet-school.md)
 - [The daily digital practice as a form of self-care: Using photography for everyday well-being](../sources/fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using.md)
 - [Meeting Community Needs Through Ethnomusicology](../sources/fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts.md)
 - [Ethnomusicology and Applied Arts: A Guide to Community Engagement](../sources/fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts-(2).md)
@@ -53,6 +54,10 @@ updated: 2026-05-06
 - [The Impact of Literature on Personal Development](../sources/fxa301-week08-transcript-youtube-i1dnrn0cj20.md)
 - [Designing Inclusive Projects for Health and Wellbeing Outcomes](../sources/fxa301-week09-lesson-fxa301-week09-page-1.md)
 - [The Importance of Disability Led Theatre](../sources/fxa301-week09-the-importance-of-disability-led-theatre.md)
+- [\u2018Anything is Possible\u2019: the Arts and Social Inclusion](../sources/fxa301-week11-anything-is-possible-the-arts-and-social-inclusion.md)
+- [Choose Art](../sources/fxa301-week11-choose-art.md)
+- [Putting Communities First: Inclusive Museum Practice through the CARES Framework](../sources/fxa301-week11-putting-communities-first-inclusive-museum-practice-through.md)
+- [Art, Ingenuity and Refugees](../sources/fxa301-week11-transcript-if-you-are-interested-and-want-to-know-more-about.md)
 - [Arts in Adolescence](../sources/fxa303-week03-arts-in-adolescence.md)
 - [Arts On Prescription Meets Sir Quentin Blake](../sources/fxa303-week03-arts-on-prescription-meets-sir-quentin-blake.md)
 - [Centre Stage +20: A Report on Youth Theatre in Ireland](../sources/fxa303-week03-centre-stage-20-a-report-on-youth-theatre-in-ireland.md)
@@ -66,4 +71,7 @@ updated: 2026-05-06
 - [Importance of Cultural Context in Designing Arts Programs for Mental Health](../sources/fxa303-week10-importance-of-cultural-context-in-designing-arts-programs.md)
 - [The Good Life for Children: Do We Really Care about the Trends?](../sources/fxa303-week10-the-good-life-for-children-do-we-really-care-about-the.md)
 - ['Younger Stories' Multicultural Arts Project Exhibition](../sources/fxa303-week10-transcript-younger-stories-culminated-in-an-exhibition-of.md)
+- [Developing Creative Approaches in Youth Justice: A Guide for Youth Justice Professionals](../sources/fxa303-week11-developing-creative-approaches-in-youth-justice-a-guide-for.md)
+- [Orchestras for All Impact Report 2023-2024](../sources/fxa303-week11-orchestras-for-all-impact-report-2023-2024.md)
+- [Reimagining wellbeing: Using arts-based methods to address sexual, gender and health inequalities](../sources/fxa303-week11-reimagining-wellbeing-using-arts-based-methods-to-address.md)
 - [Supporting youth mental health with arts-based strategies: a global perspective](../sources/fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a.md)

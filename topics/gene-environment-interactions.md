@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Gene-Environment Interactions"
 confidence: low
-tags: ["gene-environment-interactions"]
+domain: theory
+slug: gene-environment-interactions
 sources:
-  - fxa301-week06-music-and-medicine
+- fxa301-week06-music-and-medicine
+tags:
+- gene-environment-interactions
+title: Gene-Environment Interactions
+type: topic
 updated: 2026-05-04
 ---
 

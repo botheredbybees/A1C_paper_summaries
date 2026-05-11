@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Social Action in Art Therapy"
 confidence: low
-tags: ["social-action"]
+domain: intervention
+slug: social-action-in-art-therapy
 sources:
-  - fxa301-week10-social-action-in-art-therapy-with-veterans
+- fxa301-week10-social-action-in-art-therapy-with-veterans
+tags:
+- social-action
+title: Social Action in Art Therapy
+type: topic
 updated: 2026-05-04
 ---
 

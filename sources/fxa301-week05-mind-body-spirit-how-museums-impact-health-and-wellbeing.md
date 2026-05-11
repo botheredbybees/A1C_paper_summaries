@@ -11,7 +11,7 @@ tags: ["museum-impact", "public-health", "wellbeing-initiatives", "arts-engageme
 key_concepts: ["holistic-health", "social-determinants-of-health", "cultural-interventions"]
 methods: ["action-research"]
 slug: fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing
-related: ["arts-engagement", "health-equity", "public-health", "wellbeing-initiatives"]
+related: ["arts-engagement", "community-outreach", "health-equity", "public-health", "wellbeing-initiatives"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,6 +45,7 @@ The publication 'Mind, Body, Spirit' explores how museums contribute to public h
 ## See Also
 
 - [arts-engagement](../topics/arts-engagement.md)
+- [community-outreach](../topics/community-outreach.md)
 - [health-equity](../topics/health-equity.md)
 - [public-health](../topics/public-health.md)
 - [wellbeing-initiatives](../topics/wellbeing-initiatives.md)

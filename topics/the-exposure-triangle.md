@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "The Exposure Triangle"
 confidence: low
-tags: ["the-exposure-triangle"]
+domain: method
+slug: the-exposure-triangle
 sources:
-  - fxa202-week02-super-simple-introduction-to-manual-mode-and-how-it-will
+- fxa202-week02-super-simple-introduction-to-manual-mode-and-how-it-will
+tags:
+- the-exposure-triangle
+title: The Exposure Triangle
+type: topic
 updated: 2026-05-04
 ---
 

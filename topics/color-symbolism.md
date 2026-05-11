@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Color Symbolism"
 confidence: low
-tags: ["color-symbolism"]
+domain: theory
+slug: color-symbolism
 sources:
-  - fxa202-week10-chromophilia
+- fxa202-week10-chromophilia
+tags:
+- color-symbolism
+title: Color Symbolism
+type: topic
 updated: 2026-05-04
 ---
 

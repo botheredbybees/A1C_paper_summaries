@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "intervention"
-title: "Post-Traumatic Stress Disorder Treatments"
 confidence: medium
-tags: ["post-traumatic-stress-disorder"]
+domain: intervention
+slug: post-traumatic-stress-disorder-treatments
 sources:
   - fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and
   - fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2)
   - fxa303-week01-post-traumatic-stress-disorder-the-neurobiological-impact
   - fxa303-week09-after-the-fires-looking-to-the-future-using-the-lessons
-updated: 2026-05-05
+- fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and
+- fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2)
+- fxa303-week01-post-traumatic-stress-disorder-the-neurobiological-impact
+- fxa303-week09-after-the-fires-looking-to-the-future-using-the-lessons
+tags:
+- post-traumatic-stress-disorder
+title: Post-Traumatic Stress Disorder Treatments
+type: topic
+updated: 2026-05-11
 ---
 
 ## Post-Traumatic Stress Disorder Treatments

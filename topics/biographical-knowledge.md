@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Biographical Knowledge in Therapeutic Interventions"
 confidence: low
-tags: ["biographical-knowledge"]
+domain: intervention
+slug: biographical-knowledge-in-therapeutic-interventions
 sources:
-  - fxa100-week09-personhood-maintained
+- fxa100-week09-personhood-maintained
+tags:
+- biographical-knowledge
+title: Biographical Knowledge in Therapeutic Interventions
+type: topic
 updated: 2026-05-04
 ---
 

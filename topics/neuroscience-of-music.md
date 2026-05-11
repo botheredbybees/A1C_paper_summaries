@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "theory"
-title: "The Neuroscience of Music"
 confidence: medium
-tags: ["neuroscience-of-music"]
+domain: theory
+slug: the-neuroscience-of-music
 sources:
   - fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there
   - fxa100-week02-transcript-duration-631
@@ -11,7 +9,17 @@ sources:
   - fxa100-week03-the-effects-of-music-on-the-brain-video-transcript
   - fxa100-week03-the-power-of-music
   - fxa301-week06-music-and-medicine
-updated: 2026-05-05
+- fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there
+- fxa100-week02-transcript-duration-631
+- fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind
+- fxa100-week03-the-effects-of-music-on-the-brain-video-transcript
+- fxa100-week03-the-power-of-music
+- fxa301-week06-music-and-medicine
+tags:
+- neuroscience-of-music
+title: The Neuroscience of Music
+type: topic
+updated: 2026-05-11
 ---
 
 ## The Neuroscience of Music

@@ -1,9 +1,7 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Photography"
 confidence: high
-tags: ["therapeutic-photography"]
+domain: intervention
+slug: therapeutic-photography
 sources:
   - fxa202-therapeutic-photography-ch01-chapter-10
   - fxa202-therapeutic-photography-ch02-chapter-11
@@ -20,7 +18,26 @@ sources:
   - fxa202-week08-week-8-lecture-notes-editing-your-images
   - fxa202-week08-week-8-lecture-notes-editing-your-images-(2)
   - fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture
-updated: 2026-05-05
+- fxa202-therapeutic-photography-ch01-chapter-10
+- fxa202-therapeutic-photography-ch02-chapter-11
+- fxa202-therapeutic-photography-ch04-2-reflexive-photography
+- fxa202-therapeutic-photography-ch05-1-photographs-are-used-to-record-inventories-such-as-objects
+- fxa202-week03-lesson-fxa202-week03-week-3
+- fxa202-week03-therapeutic-photography
+- fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay
+- fxa202-week03-week-three-lecture-transcript-photography-and-health
+- fxa202-week03-what-is-therapeutic-photography
+- fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family
+- fxa202-week06-critical-reflection-on-visual-storytelling-through
+- fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography
+- fxa202-week08-week-8-lecture-notes-editing-your-images
+- fxa202-week08-week-8-lecture-notes-editing-your-images-(2)
+- fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture
+tags:
+- therapeutic-photography
+title: Therapeutic Photography
+type: topic
+updated: 2026-05-11
 ---
 
 ## Therapeutic Photography

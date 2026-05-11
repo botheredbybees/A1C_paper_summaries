@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Clown Therapy"
 confidence: medium
-tags: ["clown-therapy"]
+domain: intervention
+slug: clown-therapy
 sources:
   - fxa303-week08-clown-therapy-a-drama-therapy-approach-to-addiction-and
   - fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic
-updated: 2026-05-04
+- fxa303-week08-clown-therapy-a-drama-therapy-approach-to-addiction-and
+- fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic
+tags:
+- clown-therapy
+title: Clown Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Clown Therapy

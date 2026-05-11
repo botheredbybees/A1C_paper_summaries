@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Endorphin Release in Social Bonding"
 confidence: medium
-tags: ["endorphin-release"]
+domain: intervention
+slug: endorphin-release-in-social-bonding
 sources:
-  - fxa301-week06-music-and-social-bonding-self-other-merging-and
-  - fxa301-week06-the-ice-breaker-effect-singing-mediates-fast-social-bonding
+- fxa301-week06-music-and-social-bonding-self-other-merging-and
+- fxa301-week06-the-ice-breaker-effect-singing-mediates-fast-social-bonding
+tags:
+- endorphin-release
+title: Endorphin Release in Social Bonding
+type: topic
 updated: 2026-05-04
 ---
 

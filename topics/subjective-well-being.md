@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Subjective Well-Being"
 confidence: low
-tags: ["subjective-well-being"]
+domain: intervention
+slug: subjective-well-being
 sources:
-  - fxa303-week03-music-listening-motivation-is-associated-with-global
+- fxa303-week03-music-listening-motivation-is-associated-with-global
+tags:
+- subjective-well-being
+title: Subjective Well-Being
+type: topic
 updated: 2026-05-04
 ---
 

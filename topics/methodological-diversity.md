@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Methodological Diversity in Visual Anthropology"
 confidence: low
-tags: ["methodological-diversity"]
+domain: method
+slug: methodological-diversity-in-visual-anthropology
 sources:
-  - fxa301-week05-viewpoints-visual-anthropologists-at-work
+- fxa301-week05-viewpoints-visual-anthropologists-at-work
+tags:
+- methodological-diversity
+title: Methodological Diversity in Visual Anthropology
+type: topic
 updated: 2026-05-04
 ---
 

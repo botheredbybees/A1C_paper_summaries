@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Proportionate Universalism"
 confidence: low
-tags: ["proportionate-universalism"]
+domain: theory
+slug: proportionate-universalism
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions
+- fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions
+tags:
+- proportionate-universalism
+title: Proportionate Universalism
+type: topic
 updated: 2026-05-04
 ---
 

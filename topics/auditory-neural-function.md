@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Auditory Neural Function"
 confidence: low
-tags: ["auditory-neural-function"]
+domain: intervention
+slug: auditory-neural-function
 sources:
-  - fxa303-week03-music-instruction-can-make-for-a-smarter-teen
+- fxa303-week03-music-instruction-can-make-for-a-smarter-teen
+tags:
+- auditory-neural-function
+title: Auditory Neural Function
+type: topic
 updated: 2026-05-04
 ---
 

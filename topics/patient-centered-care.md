@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Patient-Centered Care"
 confidence: low
-tags: ["patient-centered-care"]
+domain: intervention
+slug: patient-centered-care
 sources:
-  - fxa100-week04-conceptualizing-and-planning-interventions
+- fxa100-week04-conceptualizing-and-planning-interventions
+tags:
+- patient-centered-care
+title: Patient-Centered Care
+type: topic
 updated: 2026-05-04
 ---
 

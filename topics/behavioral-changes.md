@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Behavioral Changes"
 confidence: low
-tags: ["behavioral-changes"]
+domain: intervention
+slug: behavioral-changes
 sources:
-  - fxa100-week02-neuroplastic-effects-in-patients-with-traumatic-brain
+- fxa100-week02-neuroplastic-effects-in-patients-with-traumatic-brain
+tags:
+- behavioral-changes
+title: Behavioral Changes
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Body Image"
 confidence: low
-tags: ["body-image"]
+domain: intervention
+slug: body-image
 sources:
-  - fxa301-week06-the-effects-of-recreational-dance-interventions-on-the
+- fxa301-week06-the-effects-of-recreational-dance-interventions-on-the
+tags:
+- body-image
+title: Body Image
+type: topic
 updated: 2026-05-04
 ---
 

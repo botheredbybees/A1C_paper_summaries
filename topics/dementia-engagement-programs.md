@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Dementia Engagement Programs"
 confidence: low
-tags: ["dementia-engagement-programs"]
+domain: intervention
+slug: dementia-engagement-programs
 sources:
-  - fxa100-week07-lesson-fxa100-week07-inside-and-outside-the-galleries
+- fxa100-week07-lesson-fxa100-week07-inside-and-outside-the-galleries
+tags:
+- dementia-engagement-programs
+title: Dementia Engagement Programs
+type: topic
 updated: 2026-05-04
 ---
 

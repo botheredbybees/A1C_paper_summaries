@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Associative Thinking"
 confidence: low
-tags: ["associative-thinking"]
+domain: theory
+slug: associative-thinking
 sources:
-  - fxa202-week05-stream-of-consciousness
+- fxa202-week05-stream-of-consciousness
+tags:
+- associative-thinking
+title: Associative Thinking
+type: topic
 updated: 2026-05-04
 ---
 

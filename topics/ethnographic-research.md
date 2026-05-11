@@ -1,15 +1,22 @@
 ---
-type: topic
-domain: "method"
-title: "Ethnographic Research Methods"
 confidence: medium
-tags: ["ethnographic-research"]
+domain: method
+slug: ethnographic-research-methods
 sources:
   - fxa301-make-arts-for-a-better-life-ch11-4-you-and-the-community-have-stepped-through
   - fxa301-week01-music-and-meaning-in-community-contexts
   - fxa301-week06-san-trance-dance-embodied-experience-and-neurological
   - fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an
-updated: 2026-05-05
+  - fxa303-week11-using-and-abusing-the-arts-with-at-risk-youth
+- fxa301-make-arts-for-a-better-life-ch11-4-you-and-the-community-have-stepped-through
+- fxa301-week01-music-and-meaning-in-community-contexts
+- fxa301-week06-san-trance-dance-embodied-experience-and-neurological
+- fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an
+tags:
+- ethnographic-research
+title: Ethnographic Research Methods
+type: topic
+updated: 2026-05-11
 ---
 
 ## Ethnographic Research Methods
@@ -32,3 +39,4 @@ The sources coalesce around the core concept of ethnography as a means to explor
 - [fxa301-week01-music-and-meaning-in-community-contexts](../sources/fxa301-week01-music-and-meaning-in-community-contexts.md)
 - [fxa301-week06-san-trance-dance-embodied-experience-and-neurological](../sources/fxa301-week06-san-trance-dance-embodied-experience-and-neurological.md)
 - [fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an](../sources/fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an.md)
+- [fxa303-week11-using-and-abusing-the-arts-with-at-risk-youth](../sources/fxa303-week11-using-and-abusing-the-arts-with-at-risk-youth.md)

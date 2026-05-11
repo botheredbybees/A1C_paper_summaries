@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Rod Puppetry in Theatrical Performances"
 confidence: low
-tags: ["theatrical-performances"]
+domain: intervention
+slug: rod-puppetry-in-theatrical-performances
 sources:
-  - fxa303-week05-transcript-introduction-to-rod-puppets-spare-parts-puppet
+- fxa303-week05-transcript-introduction-to-rod-puppets-spare-parts-puppet
+tags:
+- theatrical-performances
+title: Rod Puppetry in Theatrical Performances
+type: topic
 updated: 2026-05-04
 ---
 

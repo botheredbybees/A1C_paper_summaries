@@ -1,16 +1,23 @@
 ---
-type: topic
-domain: "intervention"
-title: "Cognitive-Behavioral Therapy"
 confidence: medium
-tags: ["cognitive-behavioral-therapy"]
+domain: intervention
+slug: cognitive-behavioral-therapy
 sources:
   - fxa301-week10-using-creative-arts-in-trauma-therapy-the-neuroscience-of
   - fxa301-week10-web-article-ramirez-2016
   - fxa303-puppet-assisted-play-therapy-ch02-1-we-must-encourage-children-to-use-their-imagination-and
   - fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the
   - fxa303-week01-trauma-aps
-updated: 2026-05-05
+- fxa301-week10-using-creative-arts-in-trauma-therapy-the-neuroscience-of
+- fxa301-week10-web-article-ramirez-2016
+- fxa303-puppet-assisted-play-therapy-ch02-1-we-must-encourage-children-to-use-their-imagination-and
+- fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the
+- fxa303-week01-trauma-aps
+tags:
+- cognitive-behavioral-therapy
+title: Cognitive-Behavioral Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Cognitive-Behavioral Therapy

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Identity Maintenance in Chronic Illness"
 confidence: low
-tags: ["identity-maintenance"]
+domain: intervention
+slug: identity-maintenance-in-chronic-illness
 sources:
-  - fxa301-week05-web-article-reynolds-2006
+- fxa301-week05-web-article-reynolds-2006
+tags:
+- identity-maintenance
+title: Identity Maintenance in Chronic Illness
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Decision-Making Capacities During Adolescence"
 confidence: low
-tags: ["decision-making-capacities-during-adolescence"]
+domain: theory
+slug: decision-making-capacities-during-adolescence
 sources:
-  - fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental
+- fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental
+tags:
+- decision-making-capacities-during-adolescence
+title: Decision-Making Capacities During Adolescence
+type: topic
 updated: 2026-05-04
 ---
 

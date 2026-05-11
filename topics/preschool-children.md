@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Preschool Children's Blood Collection Experience"
 confidence: low
-tags: ["preschool-children"]
+domain: intervention
+slug: preschool-children-s-blood-collection-experience
 sources:
-  - fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for
+- fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for
+tags:
+- preschool-children
+title: Preschool Children's Blood Collection Experience
+type: topic
 updated: 2026-05-04
 ---
 

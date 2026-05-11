@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Psychophysiological Effects of Creative Arts"
 confidence: medium
-tags: ["psychophysiology"]
+domain: intervention
+slug: psychophysiological-effects-of-creative-arts
 sources:
   - fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and
   - fxa301-oxford-textbook-of-creative-arts-ch27-chapter-9
   - fxa301-week08-the-emotional-power-of-poetry-neural-circuitry
-updated: 2026-05-04
+- fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and
+- fxa301-oxford-textbook-of-creative-arts-ch27-chapter-9
+- fxa301-week08-the-emotional-power-of-poetry-neural-circuitry
+tags:
+- psychophysiology
+title: Psychophysiological Effects of Creative Arts
+type: topic
+updated: 2026-05-11
 ---
 
 ## Psychophysiological Effects of Creative Arts

@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Role Of Creative Arts In Economic Growth"
 confidence: medium
-tags: ["economic-growth"]
+domain: intervention
+slug: role-of-creative-arts-in-economic-growth
 sources:
   - fxa301-week01-week-1-introduction-the-role-of-creative-arts-in-human
   - fxa301-week03-creating-our-future-results-of-the-national-arts
-updated: 2026-05-05
+- fxa301-week01-week-1-introduction-the-role-of-creative-arts-in-human
+- fxa301-week03-creating-our-future-results-of-the-national-arts
+tags:
+- economic-growth
+title: Role Of Creative Arts In Economic Growth
+type: topic
+updated: 2026-05-11
 ---
 
 ## Role Of Creative Arts In Economic Growth

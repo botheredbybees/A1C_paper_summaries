@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Lung Capacity"
 confidence: low
-tags: ["lung-capacity"]
+domain: intervention
+slug: lung-capacity
 sources:
-  - fxa100-week04-learn-to-sing-breathing
+- fxa100-week04-learn-to-sing-breathing
+tags:
+- lung-capacity
+title: Lung Capacity
+type: topic
 updated: 2026-05-04
 ---
 

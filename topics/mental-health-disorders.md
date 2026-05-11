@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "population"
-title: "Mental Health Disorders in Adolescents and Young Adults"
 confidence: medium
-tags: ["mental-health-disorders"]
+domain: population
+slug: mental-health-disorders-in-adolescents-and-young-adults
 sources:
-  - fxa301-week03-creativity-for-health-and-wellbeing-in-the-education-system
-  - fxa303-week03-adolescent-and-young-adult-health
+- fxa301-week03-creativity-for-health-and-wellbeing-in-the-education-system
+- fxa303-week03-adolescent-and-young-adult-health
+tags:
+- mental-health-disorders
+title: Mental Health Disorders in Adolescents and Young Adults
+type: topic
 updated: 2026-05-04
 ---
 

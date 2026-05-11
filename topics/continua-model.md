@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Continua Model In Arts In Health"
 confidence: low
-tags: ["continua-model"]
+domain: theory
+slug: continua-model-in-arts-in-health
 sources:
-  - fxa301-arts-in-health-ch19-36-abc-national-cultural-policy-submission
+- fxa301-arts-in-health-ch19-36-abc-national-cultural-policy-submission
+tags:
+- continua-model
+title: Continua Model In Arts In Health
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Patient Receptivity to Treatment"
 confidence: low
-tags: ["patient-receptivity-to-treatment"]
+domain: intervention
+slug: patient-receptivity-to-treatment
 sources:
-  - fxa301-week08-social-impact-report-year-to-30-june-2025
+- fxa301-week08-social-impact-report-year-to-30-june-2025
+tags:
+- patient-receptivity-to-treatment
+title: Patient Receptivity to Treatment
+type: topic
 updated: 2026-05-04
 ---
 

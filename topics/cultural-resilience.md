@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Cultural Resilience"
 confidence: low
-tags: ["cultural-resilience"]
+domain: theory
+slug: cultural-resilience
 sources:
-  - fxa303-week10-indigenous-methodology-an-ethical-systems-approach-to-arts
+- fxa303-week10-indigenous-methodology-an-ethical-systems-approach-to-arts
+tags:
+- cultural-resilience
+title: Cultural Resilience
+type: topic
 updated: 2026-05-04
 ---
 

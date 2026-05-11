@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Photo Consent Forms"
 confidence: low
-tags: ["photo-consent-forms"]
+domain: method
+slug: photo-consent-forms
 sources:
-  - fxa202-week02-lesson-fxa202-week02-week-2
+- fxa202-week02-lesson-fxa202-week02-week-2
+tags:
+- photo-consent-forms
+title: Photo Consent Forms
+type: topic
 updated: 2026-05-04
 ---
 

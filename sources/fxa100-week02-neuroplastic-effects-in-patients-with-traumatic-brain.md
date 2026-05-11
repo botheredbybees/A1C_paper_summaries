@@ -11,7 +11,7 @@ tags: ["traumatic-brain-injury", "music-therapy", "neuroplasticity", "functional
 key_concepts: ["orbitofrontal-cortex", "cognitive-rehabilitation", "behavioral-changes"]
 methods: ["fMRI", "systematic-review"]
 slug: fxa100-week02-neuroplastic-effects-in-patients-with-traumatic-brain
-related: ["functional-mri", "music-therapy", "neuroplasticity"]
+related: ["functional-mri", "music-therapy", "neuroplasticity", "traumatic-brain-injury"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -48,3 +48,4 @@ The study employed neuropsychological tests alongside functional magnetic resona
 - [functional-mri](../topics/functional-mri.md)
 - [music-therapy](../topics/music-therapy.md)
 - [neuroplasticity](../topics/neuroplasticity.md)
+- [traumatic-brain-injury](../topics/traumatic-brain-injury.md)

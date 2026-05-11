@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Social-Emotional Learning"
 confidence: medium
-tags: ["social-emotional-learning"]
+domain: intervention
+slug: social-emotional-learning
 sources:
   - fxa301-week01-engaging-in-community-music-an-introduction
   - fxa303-week02-lesson-fxa303-week02-introduction-copy
-updated: 2026-05-05
+- fxa301-week01-engaging-in-community-music-an-introduction
+- fxa303-week02-lesson-fxa303-week02-introduction-copy
+tags:
+- social-emotional-learning
+title: Social-Emotional Learning
+type: topic
+updated: 2026-05-11
 ---
 
 ## Social-Emotional Learning

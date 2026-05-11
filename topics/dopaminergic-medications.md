@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Dopaminergic Medications"
 confidence: low
-tags: ["dopaminergic-medications"]
+domain: intervention
+slug: dopaminergic-medications
 sources:
-  - fxa301-week03-art-for-better-health-and-wellbeing
+- fxa301-week03-art-for-better-health-and-wellbeing
+tags:
+- dopaminergic-medications
+title: Dopaminergic Medications
+type: topic
 updated: 2026-05-04
 ---
 

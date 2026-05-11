@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "intervention"
-title: "Coping Strategies"
 confidence: medium
-tags: ["coping-strategies"]
+domain: intervention
+slug: coping-strategies
 sources:
-  - fxa100-week09-lesson-fxa100-week09-page-4-week-8-activities
-  - fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children
-  - fxa303-week06-lesson-fxa303-week06-page-1-overview
+- fxa100-week09-lesson-fxa100-week09-page-4-week-8-activities
+- fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children
+- fxa303-week06-lesson-fxa303-week06-page-1-overview
+tags:
+- coping-strategies
+title: Coping Strategies
+type: topic
 updated: 2026-05-04
 ---
 

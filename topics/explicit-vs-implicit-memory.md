@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "theory"
-title: "Explicit Vs Implicit Memory In Dementia Care"
 confidence: medium
-tags: ["explicit-vs-implicit-memory"]
+domain: theory
+slug: explicit-vs-implicit-memory-in-dementia-care
 sources:
-  - fxa100-excellence-in-dementia-care--ch40-chapter-14
-  - fxa100-excellence-in-dementia-care--ch50-chapter-14
+- fxa100-excellence-in-dementia-care--ch40-chapter-14
+- fxa100-excellence-in-dementia-care--ch50-chapter-14
+tags:
+- explicit-vs-implicit-memory
+title: Explicit Vs Implicit Memory In Dementia Care
+type: topic
 updated: 2026-05-04
 ---
 

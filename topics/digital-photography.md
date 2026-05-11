@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Digital Photography Techniques"
 confidence: medium
-tags: ["digital-photography"]
+domain: intervention
+slug: digital-photography-techniques
 sources:
   - fxa202-week02-a-beginners-guide-to-photo-editing-with-snapseed
   - fxa202-week02-aperture-and-shutter-priority-modes
   - fxa202-week02-welcome-to-week-2-using-your-camera
-updated: 2026-05-03
+- fxa202-week02-a-beginners-guide-to-photo-editing-with-snapseed
+- fxa202-week02-aperture-and-shutter-priority-modes
+- fxa202-week02-welcome-to-week-2-using-your-camera
+tags:
+- digital-photography
+title: Digital Photography Techniques
+type: topic
+updated: 2026-05-11
 ---
 
 ## Digital Photography Techniques

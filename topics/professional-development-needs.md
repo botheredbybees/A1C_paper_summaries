@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Professional Development Needs in Education"
 confidence: medium
-tags: ["professional-development-needs"]
+domain: intervention
+slug: professional-development-needs-in-education
 sources:
-  - fxa301-week05-fading-notes-music-education-for-the-next-generation-of
-  - fxa303-week01-teachers-perspectives-on-providing-support-to-children
+- fxa301-week05-fading-notes-music-education-for-the-next-generation-of
+- fxa303-week01-teachers-perspectives-on-providing-support-to-children
+tags:
+- professional-development-needs
+title: Professional Development Needs in Education
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Art Therapy for Anorexia and Bulimia"
 confidence: low
-tags: ["anorexia-bulimia"]
+domain: intervention
+slug: art-therapy-for-anorexia-and-bulimia
 sources:
-  - fxa301-week10-eating-disorders-and-art-therapy
+- fxa301-week10-eating-disorders-and-art-therapy
+tags:
+- anorexia-bulimia
+title: Art Therapy for Anorexia and Bulimia
+type: topic
 updated: 2026-05-04
 ---
 

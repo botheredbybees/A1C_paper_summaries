@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sensory-Based Interventions"
 confidence: low
-tags: ["sensory-based-interventions"]
+domain: intervention
+slug: sensory-based-interventions
 sources:
-  - fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies
+- fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies
+tags:
+- sensory-based-interventions
+title: Sensory-Based Interventions
+type: topic
 updated: 2026-05-04
 ---
 

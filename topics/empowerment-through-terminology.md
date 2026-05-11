@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Empowerment Through Terminology"
 confidence: low
-tags: ["empowerment-through-terminology"]
+domain: intervention
+slug: empowerment-through-terminology
 sources:
-  - fxa100-week04-how-to-talk-about-dementia
+- fxa100-week04-how-to-talk-about-dementia
+tags:
+- empowerment-through-terminology
+title: Empowerment Through Terminology
+type: topic
 updated: 2026-05-04
 ---
 

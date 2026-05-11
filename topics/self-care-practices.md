@@ -1,13 +1,18 @@
 ---
-type: topic
-domain: "intervention"
-title: "Self-Care Practices"
 confidence: medium
-tags: ["self-care-practices"]
+domain: intervention
+slug: self-care-practices
 sources:
   - fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using
   - fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare
-updated: 2026-05-04
+  - fxa303-week11-the-one-thing-that-actually-helps-art-creation-as-a-self
+- fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using
+- fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare
+tags:
+- self-care-practices
+title: Self-Care Practices
+type: topic
+updated: 2026-05-11
 ---
 
 ## Self-Care Practices
@@ -28,3 +33,4 @@ The synthesis of self-care practices across the two sources highlights diverse a
 
 - [fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using](../sources/fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using.md)
 - [fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare](../sources/fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare.md)
+- [fxa303-week11-the-one-thing-that-actually-helps-art-creation-as-a-self](../sources/fxa303-week11-the-one-thing-that-actually-helps-art-creation-as-a-self.md)

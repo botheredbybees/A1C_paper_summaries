@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Communication Generation through Puppetry"
 confidence: low
-tags: ["communication-generation"]
+domain: intervention
+slug: communication-generation-through-puppetry
 sources:
-  - fxa303-week05-puppet-as-a-pedagogical-tool-a-literature-review
+- fxa303-week05-puppet-as-a-pedagogical-tool-a-literature-review
+tags:
+- communication-generation
+title: Communication Generation through Puppetry
+type: topic
 updated: 2026-05-04
 ---
 

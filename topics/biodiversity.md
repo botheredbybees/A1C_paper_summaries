@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Biodiversity"
 confidence: low
-tags: ["biodiversity"]
+domain: theory
+slug: biodiversity
 sources:
-  - fxa202-week08-reading-notes-from-biophilia-by-edward-o-wilson
+- fxa202-week08-reading-notes-from-biophilia-by-edward-o-wilson
+tags:
+- biodiversity
+title: Biodiversity
+type: topic
 updated: 2026-05-04
 ---
 

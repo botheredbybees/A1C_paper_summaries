@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Body Mapping in Trauma Therapy"
 confidence: low
-tags: ["body-mapping"]
+domain: intervention
+slug: body-mapping-in-trauma-therapy
 sources:
-  - fxa303-trauma-and-expressive-arts-ch04-1-slowly-exhale-through-your-mouth
+- fxa303-trauma-and-expressive-arts-ch04-1-slowly-exhale-through-your-mouth
+tags:
+- body-mapping
+title: Body Mapping in Trauma Therapy
+type: topic
 updated: 2026-05-04
 ---
 

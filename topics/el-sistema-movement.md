@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "El Sistema Movement"
 confidence: low
-tags: ["el-sistema-movement"]
+domain: intervention
+slug: el-sistema-movement
 sources:
-  - fxa301-week06-playing-for-their-lives-the-global-el-sistema-movement-for
+- fxa301-week06-playing-for-their-lives-the-global-el-sistema-movement-for
+tags:
+- el-sistema-movement
+title: El Sistema Movement
+type: topic
 updated: 2026-05-04
 ---
 

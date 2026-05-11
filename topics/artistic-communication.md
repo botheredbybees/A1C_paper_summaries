@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Artistic Communication in Community Engagement"
 confidence: low
-tags: ["artistic-communication"]
+domain: intervention
+slug: artistic-communication-in-community-engagement
 sources:
-  - fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts-(2)
+- fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts-(2)
+tags:
+- artistic-communication
+title: Artistic Communication in Community Engagement
+type: topic
 updated: 2026-05-04
 ---
 

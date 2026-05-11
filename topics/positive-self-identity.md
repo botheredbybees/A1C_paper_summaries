@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Positive Self-Identity"
 confidence: low
-tags: ["positive-self-identity"]
+domain: intervention
+slug: positive-self-identity
 sources:
-  - fxa301-week06-a-study-of-the-experience-of-working-adults-on-regular
+- fxa301-week06-a-study-of-the-experience-of-working-adults-on-regular
+tags:
+- positive-self-identity
+title: Positive Self-Identity
+type: topic
 updated: 2026-05-04
 ---
 

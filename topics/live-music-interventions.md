@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Live Music Interventions"
 confidence: low
-tags: ["live-music-interventions"]
+domain: intervention
+slug: live-music-interventions
 sources:
-  - fxa301-week06-lesson-fxa301-week06-page-3
+- fxa301-week06-lesson-fxa301-week06-page-3
+tags:
+- live-music-interventions
+title: Live Music Interventions
+type: topic
 updated: 2026-05-04
 ---
 

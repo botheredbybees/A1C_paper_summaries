@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Regulatory Behaviors in Social Contexts"
 confidence: low
-tags: ["regulatory-behaviors"]
+domain: intervention
+slug: regulatory-behaviors-in-social-contexts
 sources:
-  - fxa303-week02-a-new-context-affording-for-regulation-the-case-of-musical
+- fxa303-week02-a-new-context-affording-for-regulation-the-case-of-musical
+tags:
+- regulatory-behaviors
+title: Regulatory Behaviors in Social Contexts
+type: topic
 updated: 2026-05-04
 ---
 

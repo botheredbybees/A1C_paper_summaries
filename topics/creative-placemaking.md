@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Placemaking"
 confidence: low
-tags: ["creative-placemaking"]
+domain: intervention
+slug: creative-placemaking
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch23-1-a-research-project-that-examined-how-participation-can-be
+- fxa301-oxford-textbook-of-creative-arts-ch23-1-a-research-project-that-examined-how-participation-can-be
+tags:
+- creative-placemaking
+title: Creative Placemaking
+type: topic
 updated: 2026-05-04
 ---
 

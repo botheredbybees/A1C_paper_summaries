@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Affective Responses in Music Psychology"
 confidence: low
-tags: ["affective-responses"]
+domain: theory
+slug: affective-responses-in-music-psychology
 sources:
-  - fxa301-week02-current-emotion-research-in-music-psychology
+- fxa301-week02-current-emotion-research-in-music-psychology
+tags:
+- affective-responses
+title: Affective Responses in Music Psychology
+type: topic
 updated: 2026-05-04
 ---
 

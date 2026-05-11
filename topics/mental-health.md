@@ -1,12 +1,11 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Therapies for Mental Health"
 confidence: high
-tags: ["mental-health"]
+domain: intervention
+slug: creative-therapies-for-mental-health
 sources:
   - fxa100-week04-music-therapy-flyer
   - fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and
+  - fxa100-week11-movement-therapy-and-mental-health
   - fxa202-week03-lesson-fxa202-week03-page-2
   - fxa202-week03-lesson-fxa202-week03-week-3
   - fxa202-week03-week-three-lecture-transcript-photography-and-health
@@ -36,7 +35,48 @@ sources:
   - fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of
   - fxa303-week10-healing-through-culture-aboriginal-young-peoples
   - fxa303-week10-importance-of-cultural-context-in-designing-arts-programs
-updated: 2026-05-05
+  - fxa303-week11-effects-of-choir-singing-on-mental-health-results-of-an
+  - fxa303-week11-future-directions-in-understanding-and-addressing-mental
+  - fxa303-week11-lesson-fxa303-week11-page-2
+  - fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through
+  - fxa303-week11-mental-health-in-lesbian-gay-bisexual-and-transgender-lgbt
+  - fxa303-week11-the-power-of-recognition-a-qualitative-study-of-social
+- fxa100-week04-music-therapy-flyer
+- fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and
+- fxa202-week03-lesson-fxa202-week03-page-2
+- fxa202-week03-lesson-fxa202-week03-week-3
+- fxa202-week03-week-three-lecture-transcript-photography-and-health
+- fxa202-week06-rediscovering-joy-during-lockdown
+- fxa202-week08-week-8-lecture-notes-editing-your-images
+- fxa202-week08-week-8-lecture-notes-editing-your-images-(3)
+- fxa202-week09-5-benefits-of-journaling-for-mental-health
+- fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health
+- fxa202-week09-noticing-a-photo-essay
+- fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay
+- fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract
+- fxa301-week05-art-as-therapy
+- fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes
+- fxa301-week06-further-evidence-that-singing-fosters-mental-health-and
+- fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings
+- fxa301-week06-sing-while-you-work-the-well-being-benefits-of-workplace
+- fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the
+- fxa301-week10-a-systematic-review-of-mental-health-and-wellbeing-outcomes
+- fxa301-week10-lesson-fxa301-week10-page-1
+- fxa301-week10-lesson-fxa301-week10-page-4-week-3-activities
+- fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam
+- fxa303-week02-free-play-and-childrens-mental-health
+- fxa303-week03-mission-australia-youth-survey-information
+- fxa303-week03-youth-survey-report-2025
+- fxa303-week09-beyond-the-fence-constructed-and-found-spaces-for-childrens
+- fxa303-week09-national-taskforce-for-creative-recovery-recommendations
+- fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of
+- fxa303-week10-healing-through-culture-aboriginal-young-peoples
+- fxa303-week10-importance-of-cultural-context-in-designing-arts-programs
+tags:
+- mental-health
+title: Creative Therapies for Mental Health
+type: topic
+updated: 2026-05-11
 ---
 
 ## Creative Therapies for Mental Health
@@ -59,6 +99,7 @@ The sources illustrate a variety of creative therapies that have been developed 
 
 - [fxa100-week04-music-therapy-flyer](../sources/fxa100-week04-music-therapy-flyer.md)
 - [fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and](../sources/fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and.md)
+- [fxa100-week11-movement-therapy-and-mental-health](../sources/fxa100-week11-movement-therapy-and-mental-health.md)
 - [fxa202-week03-lesson-fxa202-week03-page-2](../sources/fxa202-week03-lesson-fxa202-week03-page-2.md)
 - [fxa202-week03-lesson-fxa202-week03-week-3](../sources/fxa202-week03-lesson-fxa202-week03-week-3.md)
 - [fxa202-week03-week-three-lecture-transcript-photography-and-health](../sources/fxa202-week03-week-three-lecture-transcript-photography-and-health.md)
@@ -88,3 +129,9 @@ The sources illustrate a variety of creative therapies that have been developed 
 - [fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of](../sources/fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of.md)
 - [fxa303-week10-healing-through-culture-aboriginal-young-peoples](../sources/fxa303-week10-healing-through-culture-aboriginal-young-peoples.md)
 - [fxa303-week10-importance-of-cultural-context-in-designing-arts-programs](../sources/fxa303-week10-importance-of-cultural-context-in-designing-arts-programs.md)
+- [fxa303-week11-effects-of-choir-singing-on-mental-health-results-of-an](../sources/fxa303-week11-effects-of-choir-singing-on-mental-health-results-of-an.md)
+- [fxa303-week11-future-directions-in-understanding-and-addressing-mental](../sources/fxa303-week11-future-directions-in-understanding-and-addressing-mental.md)
+- [fxa303-week11-lesson-fxa303-week11-page-2](../sources/fxa303-week11-lesson-fxa303-week11-page-2.md)
+- [fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through](../sources/fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through.md)
+- [fxa303-week11-mental-health-in-lesbian-gay-bisexual-and-transgender-lgbt](../sources/fxa303-week11-mental-health-in-lesbian-gay-bisexual-and-transgender-lgbt.md)
+- [fxa303-week11-the-power-of-recognition-a-qualitative-study-of-social](../sources/fxa303-week11-the-power-of-recognition-a-qualitative-study-of-social.md)

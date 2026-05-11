@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Holistic Patient Care"
 confidence: low
-tags: ["holistic-patient-care"]
+domain: intervention
+slug: holistic-patient-care
 sources:
-  - fxa301-week05-support-programs-ut-md-anderson
+- fxa301-week05-support-programs-ut-md-anderson
+tags:
+- holistic-patient-care
+title: Holistic Patient Care
+type: topic
 updated: 2026-05-04
 ---
 

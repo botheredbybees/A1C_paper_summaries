@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Continuous Improvement in Community Arts"
 confidence: low
-tags: ["continuous-improvement"]
+domain: intervention
+slug: continuous-improvement-in-community-arts
 sources:
-  - fxa100-week04-evaluating-community-arts-community-well-being-an
+- fxa100-week04-evaluating-community-arts-community-well-being-an
+tags:
+- continuous-improvement
+title: Continuous Improvement in Community Arts
+type: topic
 updated: 2026-05-04
 ---
 

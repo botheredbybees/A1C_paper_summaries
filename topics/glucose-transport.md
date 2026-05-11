@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Glucose Transport and Metabolism"
 confidence: low
-tags: ["glucose-transport"]
+domain: method
+slug: glucose-transport-and-metabolism
 sources:
-  - fxa100-week01-the-mechanisms-in-glucose-metabolism-of-aging-hippocampus
+- fxa100-week01-the-mechanisms-in-glucose-metabolism-of-aging-hippocampus
+tags:
+- glucose-transport
+title: Glucose Transport and Metabolism
+type: topic
 updated: 2026-05-04
 ---
 

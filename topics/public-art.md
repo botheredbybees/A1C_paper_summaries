@@ -1,16 +1,23 @@
 ---
-type: topic
-domain: "intervention"
-title: "Public Art and Community Well-Being"
 confidence: high
-tags: ["public-art"]
+domain: intervention
+slug: public-art-and-community-well-being
 sources:
   - fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6
   - fxa301-week05-cork-as-canvas-exploring-intersections-of-citizenship-and
   - fxa301-week05-how-murals-helped-turn-a-declining-community-around
   - fxa301-week05-lesson-fxa301-week05-page-2-hm-take-2-with-newer-content
   - fxa301-week05-the-history-of-the-quilt-the-national-aids-memorial
-updated: 2026-05-04
+- fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6
+- fxa301-week05-cork-as-canvas-exploring-intersections-of-citizenship-and
+- fxa301-week05-how-murals-helped-turn-a-declining-community-around
+- fxa301-week05-lesson-fxa301-week05-page-2-hm-take-2-with-newer-content
+- fxa301-week05-the-history-of-the-quilt-the-national-aids-memorial
+tags:
+- public-art
+title: Public Art and Community Well-Being
+type: topic
+updated: 2026-05-11
 ---
 
 ## Public Art and Community Well-Being

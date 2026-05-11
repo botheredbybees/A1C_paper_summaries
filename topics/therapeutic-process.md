@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Process"
 confidence: low
-tags: ["therapeutic-process"]
+domain: intervention
+slug: therapeutic-process
 sources:
-  - fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay
+- fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay
+tags:
+- therapeutic-process
+title: Therapeutic Process
+type: topic
 updated: 2026-05-04
 ---
 

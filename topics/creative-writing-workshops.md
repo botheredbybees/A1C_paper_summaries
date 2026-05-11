@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Writing Workshops"
 confidence: low
-tags: ["creative-writing-workshops"]
+domain: intervention
+slug: creative-writing-workshops
 sources:
-  - fxa301-week03-four-big-ways-to-improve-health-through-the-arts
+- fxa301-week03-four-big-ways-to-improve-health-through-the-arts
+tags:
+- creative-writing-workshops
+title: Creative Writing Workshops
+type: topic
 updated: 2026-05-04
 ---
 

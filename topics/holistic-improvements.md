@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Holistic Improvements in Healthcare"
 confidence: low
-tags: ["holistic-improvements"]
+domain: intervention
+slug: holistic-improvements-in-healthcare
 sources:
-  - fxa301-week03-creative-health-review-report
+- fxa301-week03-creative-health-review-report
+tags:
+- holistic-improvements
+title: Holistic Improvements in Healthcare
+type: topic
 updated: 2026-05-04
 ---
 

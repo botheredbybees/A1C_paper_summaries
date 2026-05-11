@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Myelination in Adolescence"
 confidence: low
-tags: ["myelination"]
+domain: theory
+slug: myelination-in-adolescence
 sources:
-  - fxa303-week03-adolescent-neurodevelopment
+- fxa303-week03-adolescent-neurodevelopment
+tags:
+- myelination
+title: Myelination in Adolescence
+type: topic
 updated: 2026-05-04
 ---
 

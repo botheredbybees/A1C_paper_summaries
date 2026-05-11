@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Play For Health"
 confidence: low
-tags: ["play-for-health"]
+domain: intervention
+slug: play-for-health
 sources:
-  - fxa303-week02-lesson-fxa303-week02-topic-activities-2
+- fxa303-week02-lesson-fxa303-week02-topic-activities-2
+tags:
+- play-for-health
+title: Play For Health
+type: topic
 updated: 2026-05-04
 ---
 

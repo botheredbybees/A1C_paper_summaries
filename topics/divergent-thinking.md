@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Divergent Thinking"
 confidence: medium
-tags: ["divergent-thinking"]
+domain: intervention
+slug: divergent-thinking
 sources:
-  - fxa202-week08-journal-and-visual-research-guidelines
-  - fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the
+- fxa202-week08-journal-and-visual-research-guidelines
+- fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the
+tags:
+- divergent-thinking
+title: Divergent Thinking
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Humor-Based Interventions"
 confidence: low
-tags: ["humor-based-interventions"]
+domain: intervention
+slug: humor-based-interventions
 sources:
-  - fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent
+- fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent
+tags:
+- humor-based-interventions
+title: Humor-Based Interventions
+type: topic
 updated: 2026-05-04
 ---
 

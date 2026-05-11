@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Musical Reminiscence Bump"
 confidence: low
-tags: ["musical-reminiscence-bump"]
+domain: theory
+slug: musical-reminiscence-bump
 sources:
-  - fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and
+- fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and
+tags:
+- musical-reminiscence-bump
+title: Musical Reminiscence Bump
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Mindfulness and Therapeutic Photography"
 confidence: medium
-tags: ["mindfulness"]
+domain: intervention
+slug: mindfulness-and-therapeutic-photography
 sources:
   - fxa202-week03-lesson-fxa202-week03-page-4
   - fxa202-week03-lesson-fxa202-week03-week-3
   - fxa202-week06-critical-reflection-on-visual-storytelling-through
-updated: 2026-05-04
+- fxa202-week03-lesson-fxa202-week03-page-4
+- fxa202-week03-lesson-fxa202-week03-week-3
+- fxa202-week06-critical-reflection-on-visual-storytelling-through
+tags:
+- mindfulness
+title: Mindfulness and Therapeutic Photography
+type: topic
+updated: 2026-05-11
 ---
 
 ## Mindfulness and Therapeutic Photography

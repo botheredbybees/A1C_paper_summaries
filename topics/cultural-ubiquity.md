@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Cultural Ubiquity of Musical Reminiscence"
 confidence: low
-tags: ["cultural-ubiquity"]
+domain: theory
+slug: cultural-ubiquity-of-musical-reminiscence
 sources:
-  - fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and
+- fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and
+tags:
+- cultural-ubiquity
+title: Cultural Ubiquity of Musical Reminiscence
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Photography and Emotional Resolution"
 confidence: low
-tags: ["emotional-resolution"]
+domain: intervention
+slug: therapeutic-photography-and-emotional-resolution
 sources:
-  - fxa202-week03-therapeutic-photography
+- fxa202-week03-therapeutic-photography
+tags:
+- emotional-resolution
+title: Therapeutic Photography and Emotional Resolution
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "intervention"
-title: "Multidisciplinary Collaboration"
 confidence: medium
-tags: ["multidisciplinary-collaboration"]
+domain: intervention
+slug: multidisciplinary-collaboration
 sources:
-  - fxa100-week04-the-role-function-and-identity-of-music-therapists-in-the
-  - fxa100-week10-transcript-helen-morse-also-brought-her-personal-experience
-  - fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)
+- fxa100-week04-the-role-function-and-identity-of-music-therapists-in-the
+- fxa100-week10-transcript-helen-morse-also-brought-her-personal-experience
+- fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)
+tags:
+- multidisciplinary-collaboration
+title: Multidisciplinary Collaboration
+type: topic
 updated: 2026-05-04
 ---
 

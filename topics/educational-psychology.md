@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Educational Psychology in Trauma-Informed Care"
 confidence: medium
-tags: ["educational-psychology"]
+domain: intervention
+slug: educational-psychology-in-trauma-informed-care
 sources:
   - fxa303-week01-teachers-perspectives-on-providing-support-to-children
   - fxa303-week02-a-new-context-affording-for-regulation-the-case-of-musical
   - fxa303-week02-accessing-the-inaccessible-redefining-play-as-a-spectrum
-updated: 2026-05-04
+- fxa303-week01-teachers-perspectives-on-providing-support-to-children
+- fxa303-week02-a-new-context-affording-for-regulation-the-case-of-musical
+- fxa303-week02-accessing-the-inaccessible-redefining-play-as-a-spectrum
+tags:
+- educational-psychology
+title: Educational Psychology in Trauma-Informed Care
+type: topic
+updated: 2026-05-11
 ---
 
 ## Educational Psychology in Trauma-Informed Care

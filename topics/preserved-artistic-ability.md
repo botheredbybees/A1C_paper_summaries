@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Preserved Artistic Ability"
 confidence: low
-tags: ["preserved-artistic-ability"]
+domain: intervention
+slug: preserved-artistic-ability
 sources:
-  - fxa100-week06-preserved-drawing-in-a-sculptor-with-dementia
+- fxa100-week06-preserved-drawing-in-a-sculptor-with-dementia
+tags:
+- preserved-artistic-ability
+title: Preserved Artistic Ability
+type: topic
 updated: 2026-05-04
 ---
 

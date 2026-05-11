@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Storytelling Through Images"
 confidence: low
-tags: ["storytelling-through-images"]
+domain: method
+slug: storytelling-through-images
 sources:
-  - fxa202-week10-lesson-fxa202-week10-page-4
+- fxa202-week10-lesson-fxa202-week10-page-4
+tags:
+- storytelling-through-images
+title: Storytelling Through Images
+type: topic
 updated: 2026-05-04
 ---
 

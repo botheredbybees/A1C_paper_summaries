@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Music Therapy Identity"
 confidence: low
-tags: ["music-therapy-identity"]
+domain: intervention
+slug: music-therapy-identity
 sources:
-  - fxa100-week04-the-role-function-and-identity-of-music-therapists-in-the
+- fxa100-week04-the-role-function-and-identity-of-music-therapists-in-the
+tags:
+- music-therapy-identity
+title: Music Therapy Identity
+type: topic
 updated: 2026-05-04
 ---
 

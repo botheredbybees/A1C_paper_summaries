@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Manual Exposure Modes"
 confidence: low
-tags: ["manual-exposure-modes"]
+domain: method
+slug: manual-exposure-modes
 sources:
-  - fxa202-week02-getting-to-know-your-camera
+- fxa202-week02-getting-to-know-your-camera
+tags:
+- manual-exposure-modes
+title: Manual Exposure Modes
+type: topic
 updated: 2026-05-04
 ---
 

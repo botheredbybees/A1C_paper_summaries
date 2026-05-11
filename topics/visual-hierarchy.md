@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Visual Hierarchy Through Negative and Positive Space"
 confidence: low
-tags: ["visual-hierarchy"]
+domain: method
+slug: visual-hierarchy-through-negative-and-positive-space
 sources:
-  - fxa202-week02-negative-space-in-photography-and-positive-space
+- fxa202-week02-negative-space-in-photography-and-positive-space
+tags:
+- visual-hierarchy
+title: Visual Hierarchy Through Negative and Positive Space
+type: topic
 updated: 2026-05-04
 ---
 

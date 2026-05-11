@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Quality Of Life Model"
 confidence: low
-tags: ["quality-of-life-model"]
+domain: theory
+slug: quality-of-life-model
 sources:
-  - fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six
+- fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six
+tags:
+- quality-of-life-model
+title: Quality Of Life Model
+type: topic
 updated: 2026-05-04
 ---
 

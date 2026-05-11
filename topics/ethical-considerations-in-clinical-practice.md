@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Ethical Considerations in Clinical Practice"
 confidence: low
-tags: ["ethical-considerations-in-clinical-practice"]
+domain: intervention
+slug: ethical-considerations-in-clinical-practice
 sources:
-  - fxa303-week04-handbook-of-autism-and-pervasive-developmental-disorder
+- fxa303-week04-handbook-of-autism-and-pervasive-developmental-disorder
+tags:
+- ethical-considerations-in-clinical-practice
+title: Ethical Considerations in Clinical Practice
+type: topic
 updated: 2026-05-04
 ---
 

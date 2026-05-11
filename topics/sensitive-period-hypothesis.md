@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Sensitive Period Hypothesis in Brain Development"
 confidence: low
-tags: ["sensitive-period-hypothesis"]
+domain: theory
+slug: sensitive-period-hypothesis-in-brain-development
 sources:
-  - fxa303-week03-adolescence-as-a-sensitive-period-of-brain-development
+- fxa303-week03-adolescence-as-a-sensitive-period-of-brain-development
+tags:
+- sensitive-period-hypothesis
+title: Sensitive Period Hypothesis in Brain Development
+type: topic
 updated: 2026-05-04
 ---
 

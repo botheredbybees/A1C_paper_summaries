@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: group-dynamics
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Group Dynamics

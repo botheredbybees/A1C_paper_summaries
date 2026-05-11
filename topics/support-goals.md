@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Support Goals for Young Autistic Children"
 confidence: low
-tags: ["support-goals"]
+domain: intervention
+slug: support-goals-for-young-autistic-children
 sources:
-  - fxa303-week04-community-perspectives-on-the-appropriateness-and
+- fxa303-week04-community-perspectives-on-the-appropriateness-and
+tags:
+- support-goals
+title: Support Goals for Young Autistic Children
+type: topic
 updated: 2026-05-04
 ---
 

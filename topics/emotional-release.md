@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Emotional Release"
 confidence: medium
-tags: ["emotional-release"]
+domain: intervention
+slug: emotional-release
 sources:
-  - fxa100-week06-transcript-art-therapy-has-many-faces
-  - fxa100-week07-nurturing-the-heart-creativity-art-therapy-and-dementia
+- fxa100-week06-transcript-art-therapy-has-many-faces
+- fxa100-week07-nurturing-the-heart-creativity-art-therapy-and-dementia
+tags:
+- emotional-release
+title: Emotional Release
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Financial Returns On Arts Investment"
 confidence: low
-tags: ["financial-returns-on-arts-investment"]
+domain: intervention
+slug: financial-returns-on-arts-investment
 sources:
-  - fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing
+- fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing
+tags:
+- financial-returns-on-arts-investment
+title: Financial Returns On Arts Investment
+type: topic
 updated: 2026-05-04
 ---
 

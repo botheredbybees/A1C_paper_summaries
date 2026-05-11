@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Grief Processing"
 confidence: medium
-tags: ["grief-processing"]
+domain: intervention
+slug: grief-processing
 sources:
-  - fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a
-  - fxa202-week10-poetic-expressions-of-internal-struggle
+- fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a
+- fxa202-week10-poetic-expressions-of-internal-struggle
+tags:
+- grief-processing
+title: Grief Processing
+type: topic
 updated: 2026-05-04
 ---
 

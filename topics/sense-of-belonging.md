@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sense Of Belonging"
 confidence: medium
-tags: ["sense-of-belonging"]
+domain: intervention
+slug: sense-of-belonging
 sources:
-  - fxa100-week04-what-is-singing-for-the-brain
-  - fxa301-week06-brisbanes-pub-choir-movement-marks-first-year
-  - fxa301-week08-transcript-arts-gymnasium-at-belgrade-theatre-coventry
+- fxa100-week04-what-is-singing-for-the-brain
+- fxa301-week06-brisbanes-pub-choir-movement-marks-first-year
+- fxa301-week08-transcript-arts-gymnasium-at-belgrade-theatre-coventry
+tags:
+- sense-of-belonging
+title: Sense Of Belonging
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Narrative Depth in Visual Storytelling"
 confidence: low
-tags: ["narrative-depth"]
+domain: method
+slug: narrative-depth-in-visual-storytelling
 sources:
-  - fxa202-week01-week-1-lecture-transcript
+- fxa202-week01-week-1-lecture-transcript
+tags:
+- narrative-depth
+title: Narrative Depth in Visual Storytelling
+type: topic
 updated: 2026-05-04
 ---
 

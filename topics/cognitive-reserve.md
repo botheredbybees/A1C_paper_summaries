@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "theory"
-title: "Cognitive Reserve"
 confidence: medium
-tags: ["cognitive-reserve"]
+domain: theory
+slug: cognitive-reserve
 sources:
-  - fxa100-week02-transcript-duration-631
-  - fxa301-week08-lesson-fxa301-week07-page-1
-  - fxa303-play-for-health-across-the-lifespan-ch02-chapter-8
+- fxa100-week02-transcript-duration-631
+- fxa301-week08-lesson-fxa301-week07-page-1
+- fxa303-play-for-health-across-the-lifespan-ch02-chapter-8
+tags:
+- cognitive-reserve
+title: Cognitive Reserve
+type: topic
 updated: 2026-05-04
 ---
 

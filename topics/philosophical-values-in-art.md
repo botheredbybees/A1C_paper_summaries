@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Philosophical Values in Art"
 confidence: low
-tags: ["philosophical-values-in-art"]
+domain: theory
+slug: philosophical-values-in-art
 sources:
-  - fxa303-week05-transcript-duration-5-34
+- fxa303-week05-transcript-duration-5-34
+tags:
+- philosophical-values-in-art
+title: Philosophical Values in Art
+type: topic
 updated: 2026-05-04
 ---
 

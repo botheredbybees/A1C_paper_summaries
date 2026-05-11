@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Potential Of Creative Storytelling"
 confidence: low
-tags: ["therapeutic-potential-of-creative-storytelling"]
+domain: intervention
+slug: therapeutic-potential-of-creative-storytelling
 sources:
-  - fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay
+- fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay
+tags:
+- therapeutic-potential-of-creative-storytelling
+title: Therapeutic Potential Of Creative Storytelling
+type: topic
 updated: 2026-05-04
 ---
 

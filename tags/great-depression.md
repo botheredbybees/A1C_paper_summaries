@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: great-depression
-updated: 2026-05-06
+updated: 2026-05-11
 ---
 
 ## Great Depression

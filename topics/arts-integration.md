@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "intervention"
-title: "Arts Integration in Healthcare"
 confidence: medium
-tags: ["arts-integration"]
+domain: intervention
+slug: arts-integration-in-healthcare
 sources:
-  - fxa301-week03-the-role-of-the-arts-in-healthcare-transforming-lives
-  - fxa303-week10-importance-of-cultural-context-in-designing-arts-programs
+- fxa301-week03-the-role-of-the-arts-in-healthcare-transforming-lives
+- fxa303-week10-importance-of-cultural-context-in-designing-arts-programs
+tags:
+- arts-integration
+title: Arts Integration in Healthcare
+type: topic
 updated: 2026-05-04
 ---
 

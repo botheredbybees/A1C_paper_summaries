@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creative Mental Health Care Model"
 confidence: low
-tags: ["creative-mental-health-care-model"]
+domain: intervention
+slug: creative-mental-health-care-model
 sources:
-  - fxa303-creativity-wellbeing-and-mental-health-ch01-10-conclusions-tony-gillam
+- fxa303-creativity-wellbeing-and-mental-health-ch01-10-conclusions-tony-gillam
+tags:
+- creative-mental-health-care-model
+title: Creative Mental Health Care Model
+type: topic
 updated: 2026-05-04
 ---
 

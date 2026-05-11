@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Aesthetic Experience"
 confidence: medium
-tags: ["aesthetic-experience"]
+domain: intervention
+slug: aesthetic-experience
 sources:
   - fxa100-week06-motion-emotion-and-empathy-in-aesthetic-experience
   - fxa100-week06-the-brain-on-art-intense-aesthetic-experience-activates-the
   - fxa301-week02-visualizing-the-impact-of-art-an-update-and-comparison-of
-updated: 2026-05-04
+- fxa100-week06-motion-emotion-and-empathy-in-aesthetic-experience
+- fxa100-week06-the-brain-on-art-intense-aesthetic-experience-activates-the
+- fxa301-week02-visualizing-the-impact-of-art-an-update-and-comparison-of
+tags:
+- aesthetic-experience
+title: Aesthetic Experience
+type: topic
+updated: 2026-05-11
 ---
 
 ## Aesthetic Experience

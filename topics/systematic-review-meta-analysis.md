@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Systematic Reviews and Meta-Analyses of Creative Interventions"
 confidence: medium
-tags: ["systematic-review-meta-analysis"]
+domain: intervention
+slug: systematic-reviews-and-meta-analyses-of-creative-interventions
 sources:
   - fxa100-week03-association-of-music-interventions-with-health-related
   - fxa303-week04-play-based-interventions-for-mental-health-a-systematic
   - fxa303-week09-effectiveness-of-creative-arts-based-interventions-for
-updated: 2026-05-04
+- fxa100-week03-association-of-music-interventions-with-health-related
+- fxa303-week04-play-based-interventions-for-mental-health-a-systematic
+- fxa303-week09-effectiveness-of-creative-arts-based-interventions-for
+tags:
+- systematic-review-meta-analysis
+title: Systematic Reviews and Meta-Analyses of Creative Interventions
+type: topic
+updated: 2026-05-11
 ---
 
 ## Systematic Reviews and Meta-Analyses of Creative Interventions

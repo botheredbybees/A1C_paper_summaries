@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Contemporary Art"
 confidence: low
-tags: ["contemporary-art"]
+domain: intervention
+slug: contemporary-art
 sources:
-  - fxa100-week07-for-visitors-with-dementia
+- fxa100-week07-for-visitors-with-dementia
+tags:
+- contemporary-art
+title: Contemporary Art
+type: topic
 updated: 2026-05-04
 ---
 

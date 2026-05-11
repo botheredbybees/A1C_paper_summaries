@@ -1,16 +1,24 @@
 ---
-type: topic
-domain: "intervention"
-title: "Community Art Programs"
 confidence: medium
-tags: ["community-art"]
+domain: intervention
+slug: community-art-programs
 sources:
   - fxa100-week07-milpara-art-mob-2012-transcript
   - fxa100-week08-web-article-gross-2016
   - fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts
   - fxa301-week01-making-art-with-communities-a-work-guide
   - fxa301-week01-making-art-with-communities-a-work-guide-(3)
-updated: 2026-05-05
+  - fxa301-week11-refugee-art-project
+- fxa100-week07-milpara-art-mob-2012-transcript
+- fxa100-week08-web-article-gross-2016
+- fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts
+- fxa301-week01-making-art-with-communities-a-work-guide
+- fxa301-week01-making-art-with-communities-a-work-guide-(3)
+tags:
+- community-art
+title: Community Art Programs
+type: topic
+updated: 2026-05-11
 ---
 
 ## Community Art Programs
@@ -34,3 +42,4 @@ The integration of community art programs reveals a significant emphasis on comm
 - [fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts](../sources/fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts.md)
 - [fxa301-week01-making-art-with-communities-a-work-guide](../sources/fxa301-week01-making-art-with-communities-a-work-guide.md)
 - [fxa301-week01-making-art-with-communities-a-work-guide-(3)](../sources/fxa301-week01-making-art-with-communities-a-work-guide-(3).md)
+- [fxa301-week11-refugee-art-project](../sources/fxa301-week11-refugee-art-project.md)

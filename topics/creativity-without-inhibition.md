@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Creativity Without Inhibition"
 confidence: low
-tags: ["creativity-without-inhibition"]
+domain: intervention
+slug: creativity-without-inhibition
 sources:
-  - fxa100-week08-lesson-fxa100-week07-page-2-communication-and-creativity
+- fxa100-week08-lesson-fxa100-week07-page-2-communication-and-creativity
+tags:
+- creativity-without-inhibition
+title: Creativity Without Inhibition
+type: topic
 updated: 2026-05-04
 ---
 

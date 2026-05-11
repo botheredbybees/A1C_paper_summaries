@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Psychological Benefits"
 confidence: low
-tags: ["psychological-benefits"]
+domain: intervention
+slug: psychological-benefits
 sources:
-  - fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and
+- fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and
+tags:
+- psychological-benefits
+title: Psychological Benefits
+type: topic
 updated: 2026-05-04
 ---
 

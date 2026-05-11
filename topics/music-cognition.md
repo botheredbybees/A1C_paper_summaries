@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "theory"
-title: "Music Cognition"
 confidence: medium
-tags: ["music-cognition"]
+domain: theory
+slug: music-cognition
 sources:
-  - fxa100-week02-hearing-and-music
-  - fxa100-week03-experimental-evidence-for-synchronization-to-a-musical-beat
-  - fxa100-week03-the-effects-of-music-on-the-brain-video-transcript
+- fxa100-week02-hearing-and-music
+- fxa100-week03-experimental-evidence-for-synchronization-to-a-musical-beat
+- fxa100-week03-the-effects-of-music-on-the-brain-video-transcript
+tags:
+- music-cognition
+title: Music Cognition
+type: topic
 updated: 2026-05-03
 ---
 

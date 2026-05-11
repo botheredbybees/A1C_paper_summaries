@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Cingulate Gyrus and Cognitive Motivation"
 confidence: low
-tags: ["cingulate-gyrus-cognitive-motivation"]
+domain: theory
+slug: cingulate-gyrus-and-cognitive-motivation
 sources:
-  - fxa303-week03-neuroanatomy-limbic-system
+- fxa303-week03-neuroanatomy-limbic-system
+tags:
+- cingulate-gyrus-cognitive-motivation
+title: Cingulate Gyrus and Cognitive Motivation
+type: topic
 updated: 2026-05-04
 ---
 

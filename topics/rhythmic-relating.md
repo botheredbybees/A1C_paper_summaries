@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "intervention"
-title: "Rhythmic Relating in Autism Treatment"
 confidence: medium
-tags: ["rhythmic-relating"]
+domain: intervention
+slug: rhythmic-relating-in-autism-treatment
 sources:
-  - fxa303-week04-brief-report-emotion-regulation-in-autism-is-improved-in-a
-  - fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves
-  - fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)
+- fxa303-week04-brief-report-emotion-regulation-in-autism-is-improved-in-a
+- fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves
+- fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)
+tags:
+- rhythmic-relating
+title: Rhythmic Relating in Autism Treatment
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Personhood-First Approach"
 confidence: low
-tags: ["personhood-first-approach"]
+domain: intervention
+slug: personhood-first-approach
 sources:
-  - fxa100-week07-lesson-fxa100-week07-page-2-artz-artists-for-alzheimer-s
+- fxa100-week07-lesson-fxa100-week07-page-2-artz-artists-for-alzheimer-s
+tags:
+- personhood-first-approach
+title: Personhood-First Approach
+type: topic
 updated: 2026-05-04
 ---
 

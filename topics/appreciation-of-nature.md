@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Appreciation Of Nature"
 confidence: low
-tags: ["appreciation-of-nature"]
+domain: intervention
+slug: appreciation-of-nature
 sources:
-  - fxa301-week08-transcript-youtube-q7-axxnucfq
+- fxa301-week08-transcript-youtube-q7-axxnucfq
+tags:
+- appreciation-of-nature
+title: Appreciation Of Nature
+type: topic
 updated: 2026-05-04
 ---
 

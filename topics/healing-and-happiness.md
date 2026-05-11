@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Healing and Happiness"
 confidence: low
-tags: ["healing-and-happiness"]
+domain: intervention
+slug: healing-and-happiness
 sources:
-  - fxa301-week06-a-study-of-the-experience-of-working-adults-on-regular
+- fxa301-week06-a-study-of-the-experience-of-working-adults-on-regular
+tags:
+- healing-and-happiness
+title: Healing and Happiness
+type: topic
 updated: 2026-05-04
 ---
 

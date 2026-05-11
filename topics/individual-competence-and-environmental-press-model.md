@@ -1,12 +1,14 @@
 ---
-type: topic
-domain: "theory"
-title: "Individual Competence and Environmental Press Model"
 confidence: medium
-tags: ["individual-competence-and-environmental-press-model"]
+domain: theory
+slug: individual-competence-and-environmental-press-model
 sources:
-  - fxa100-excellence-in-dementia-care--ch02-chapter-11
-  - fxa100-excellence-in-dementia-care--ch60-chapter-11
+- fxa100-excellence-in-dementia-care--ch02-chapter-11
+- fxa100-excellence-in-dementia-care--ch60-chapter-11
+tags:
+- individual-competence-and-environmental-press-model
+title: Individual Competence and Environmental Press Model
+type: topic
 updated: 2026-05-04
 ---
 

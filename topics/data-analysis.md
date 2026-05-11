@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Ethical Data Analysis and Reporting"
 confidence: medium
-tags: ["data-analysis"]
+domain: method
+slug: ethical-data-analysis-and-reporting
 sources:
   - fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of
   - fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of-(2)
-updated: 2026-05-04
+- fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of
+- fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of-(2)
+tags:
+- data-analysis
+title: Ethical Data Analysis and Reporting
+type: topic
+updated: 2026-05-11
 ---
 
 ## Ethical Data Analysis and Reporting

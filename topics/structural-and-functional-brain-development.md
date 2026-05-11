@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "method"
-title: "Structural And Functional Brain Development"
 confidence: low
-tags: ["structural-and-functional-brain-development"]
+domain: method
+slug: structural-and-functional-brain-development
 sources:
-  - fxa303-week02-imaging-structural-and-functional-brain-development-in
+- fxa303-week02-imaging-structural-and-functional-brain-development-in
+tags:
+- structural-and-functional-brain-development
+title: Structural And Functional Brain Development
+type: topic
 updated: 2026-05-04
 ---
 

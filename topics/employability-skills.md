@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Employability Skills"
 confidence: low
-tags: ["employability-skills"]
+domain: intervention
+slug: employability-skills
 sources:
-  - fxa301-week05-week-5-activities-fxa301-arts-in-the-community
+- fxa301-week05-week-5-activities-fxa301-arts-in-the-community
+tags:
+- employability-skills
+title: Employability Skills
+type: topic
 updated: 2026-05-04
 ---
 

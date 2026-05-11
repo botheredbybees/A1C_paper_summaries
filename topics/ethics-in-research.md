@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "theory"
-title: "Ethics in Research"
 confidence: medium
-tags: ["ethics-in-research"]
+domain: theory
+slug: ethics-in-research
 sources:
   - fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production
   - fxa301-arts-in-health-ch76-3-responsibility-(2)
   - fxa301-oxford-textbook-of-creative-arts-ch02-chapter-11-(2)
-updated: 2026-05-04
+- fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production
+- fxa301-arts-in-health-ch76-3-responsibility-(2)
+- fxa301-oxford-textbook-of-creative-arts-ch02-chapter-11-(2)
+tags:
+- ethics-in-research
+title: Ethics in Research
+type: topic
+updated: 2026-05-11
 ---
 
 ## Ethics in Research

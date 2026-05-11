@@ -1,15 +1,21 @@
 ---
-type: topic
-domain: "method"
-title: "Visual Communication Techniques"
 confidence: high
-tags: ["visual-communication"]
+domain: method
+slug: visual-communication-techniques
 sources:
   - fxa202-week02-improve-your-photography-skills-with-these-9-photo
   - fxa202-week05-making-metaphors-from-photos
   - fxa202-week06-tips-for-making-your-powerpoint-presentation-(2)
   - fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography
-updated: 2026-05-04
+- fxa202-week02-improve-your-photography-skills-with-these-9-photo
+- fxa202-week05-making-metaphors-from-photos
+- fxa202-week06-tips-for-making-your-powerpoint-presentation-(2)
+- fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography
+tags:
+- visual-communication
+title: Visual Communication Techniques
+type: topic
+updated: 2026-05-11
 ---
 
 ## Visual Communication Techniques

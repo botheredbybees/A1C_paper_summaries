@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Functional Connectivity In Neurodevelopment"
 confidence: medium
-tags: ["functional-connectivity"]
+domain: method
+slug: functional-connectivity-in-neurodevelopment
 sources:
   - fxa303-week02-functional-connectivity-in-the-first-year-of-life-in
   - fxa303-week03-the-early-adolescent-brain-on-music-analysis-of-functional
-updated: 2026-05-04
+- fxa303-week02-functional-connectivity-in-the-first-year-of-life-in
+- fxa303-week03-the-early-adolescent-brain-on-music-analysis-of-functional
+tags:
+- functional-connectivity
+title: Functional Connectivity In Neurodevelopment
+type: topic
+updated: 2026-05-11
 ---
 
 ## Functional Connectivity In Neurodevelopment

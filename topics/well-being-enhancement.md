@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Well-Being Enhancement"
 confidence: medium
-tags: ["well-being-enhancement"]
+domain: intervention
+slug: well-being-enhancement
 sources:
   - fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care
   - fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life
-updated: 2026-05-04
+- fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care
+- fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life
+tags:
+- well-being-enhancement
+title: Well-Being Enhancement
+type: topic
+updated: 2026-05-11
 ---
 
 ## Well-Being Enhancement

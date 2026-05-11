@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Clown Therapy for Procedural Pain"
 confidence: low
-tags: ["procedural-pain"]
+domain: intervention
+slug: clown-therapy-for-procedural-pain
 sources:
-  - fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic
+- fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic
+tags:
+- procedural-pain
+title: Clown Therapy for Procedural Pain
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "intervention"
-title: "Elderly Wellbeing Through Creative Arts"
 confidence: medium
-tags: ["elderly-wellbeing"]
+domain: intervention
+slug: elderly-wellbeing-through-creative-arts
 sources:
   - fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2)
   - fxa301-week06-lesson-fxa301-week06-page-2
-updated: 2026-05-04
+- fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2)
+- fxa301-week06-lesson-fxa301-week06-page-2
+tags:
+- elderly-wellbeing
+title: Elderly Wellbeing Through Creative Arts
+type: topic
+updated: 2026-05-11
 ---
 
 ## Elderly Wellbeing Through Creative Arts

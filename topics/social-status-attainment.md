@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Social Status Attainment Through Musical Genre Shifts"
 confidence: low
-tags: ["social-status-attainment"]
+domain: intervention
+slug: social-status-attainment-through-musical-genre-shifts
 sources:
-  - fxa100-week03-the-musical-ages-of-modern-man-how-our-taste-in-music
+- fxa100-week03-the-musical-ages-of-modern-man-how-our-taste-in-music
+tags:
+- social-status-attainment
+title: Social Status Attainment Through Musical Genre Shifts
+type: topic
 updated: 2026-05-04
 ---
 

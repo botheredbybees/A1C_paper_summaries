@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Self-Other Distinction Disruption"
 confidence: low
-tags: ["self-other-distinction-disruption"]
+domain: intervention
+slug: self-other-distinction-disruption
 sources:
-  - fxa301-week06-san-trance-dance-embodied-experience-and-neurological
+- fxa301-week06-san-trance-dance-embodied-experience-and-neurological
+tags:
+- self-other-distinction-disruption
+title: Self-Other Distinction Disruption
+type: topic
 updated: 2026-05-04
 ---
 

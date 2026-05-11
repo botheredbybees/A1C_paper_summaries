@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Theater Of The Oppressed"
 confidence: low
-tags: ["theater-of-the-oppressed"]
+domain: intervention
+slug: theater-of-the-oppressed
 sources:
-  - fxa301-week08-lesson-fxa301-week07-page-2-hm-copy
+- fxa301-week08-lesson-fxa301-week07-page-2-hm-copy
+tags:
+- theater-of-the-oppressed
+title: Theater Of The Oppressed
+type: topic
 updated: 2026-05-04
 ---
 

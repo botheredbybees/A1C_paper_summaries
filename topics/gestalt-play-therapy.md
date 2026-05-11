@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Gestalt Play Therapy"
 confidence: low
-tags: ["gestalt-play-therapy"]
+domain: intervention
+slug: gestalt-play-therapy
 sources:
-  - fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms
+- fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms
+tags:
+- gestalt-play-therapy
+title: Gestalt Play Therapy
+type: topic
 updated: 2026-05-04
 ---
 

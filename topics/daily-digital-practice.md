@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Daily Digital Practice"
 confidence: low
-tags: ["daily-digital-practice"]
+domain: intervention
+slug: daily-digital-practice
 sources:
-  - fxa202-week03-lesson-fxa202-week03-page-2
+- fxa202-week03-lesson-fxa202-week03-page-2
+tags:
+- daily-digital-practice
+title: Daily Digital Practice
+type: topic
 updated: 2026-05-04
 ---
 

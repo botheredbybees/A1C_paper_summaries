@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Elderhood in the Context of Art Therapy and Creative Aging"
 confidence: low
-tags: ["elderhood"]
+domain: intervention
+slug: elderhood-in-the-context-of-art-therapy-and-creative-aging
 sources:
-  - fxa202-week10-introduction-art-therapy-and-creative-aging
+- fxa202-week10-introduction-art-therapy-and-creative-aging
+tags:
+- elderhood
+title: Elderhood in the Context of Art Therapy and Creative Aging
+type: topic
 updated: 2026-05-04
 ---
 

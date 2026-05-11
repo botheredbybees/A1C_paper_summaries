@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "method"
-title: "Academic Writing Protocols"
 confidence: medium
-tags: ["academic-writing"]
+domain: method
+slug: academic-writing-protocols
 sources:
   - fxa100-week04-writing-a-research-protocol
   - fxa202-week10-lesson-fxa202-week10-week-10
-updated: 2026-05-04
+- fxa100-week04-writing-a-research-protocol
+- fxa202-week10-lesson-fxa202-week10-week-10
+tags:
+- academic-writing
+title: Academic Writing Protocols
+type: topic
+updated: 2026-05-11
 ---
 
 ## Academic Writing Protocols

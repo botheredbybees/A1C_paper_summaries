@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "theory"
-title: "Quadrivium"
 confidence: medium
-tags: ["quadrivium"]
+domain: theory
+slug: quadrivium
 sources:
   - fxa301-week06-from-the-quadrivium-to-modern-science
   - fxa301-week06-quadrivium-the-noble-fourfold-way-to-an-understanding-of
-updated: 2026-05-04
+- fxa301-week06-from-the-quadrivium-to-modern-science
+- fxa301-week06-quadrivium-the-noble-fourfold-way-to-an-understanding-of
+tags:
+- quadrivium
+title: Quadrivium
+type: topic
+updated: 2026-05-11
 ---
 
 ## Quadrivium

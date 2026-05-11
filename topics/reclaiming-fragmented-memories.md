@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Reclaiming Fragmented Memories"
 confidence: low
-tags: ["reclaiming-fragmented-memories"]
+domain: intervention
+slug: reclaiming-fragmented-memories
 sources:
-  - fxa202-week06-remembrance
+- fxa202-week06-remembrance
+tags:
+- reclaiming-fragmented-memories
+title: Reclaiming Fragmented Memories
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,14 +1,19 @@
 ---
-type: topic
-domain: "intervention"
-title: "Quality Of Life Improvement Through Music Therapy"
 confidence: medium
-tags: ["quality-of-life-improvement"]
+domain: intervention
+slug: quality-of-life-improvement-through-music-therapy
 sources:
   - fxa100-week03-implementation-survey-results-wisconsin-music-memory-program
   - fxa100-week03-music-memory-the-ipod-project-video-transcript
   - fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients
-updated: 2026-05-05
+- fxa100-week03-implementation-survey-results-wisconsin-music-memory-program
+- fxa100-week03-music-memory-the-ipod-project-video-transcript
+- fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients
+tags:
+- quality-of-life-improvement
+title: Quality Of Life Improvement Through Music Therapy
+type: topic
+updated: 2026-05-11
 ---
 
 ## Quality Of Life Improvement Through Music Therapy

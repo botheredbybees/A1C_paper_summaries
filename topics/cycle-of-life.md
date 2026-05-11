@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Nature's Cycle of Life and Death"
 confidence: low
-tags: ["cycle-of-life"]
+domain: theory
+slug: nature-s-cycle-of-life-and-death
 sources:
-  - fxa202-week09-natures-cycle-of-life-and-death-a-reflection-on-beauty-in
+- fxa202-week09-natures-cycle-of-life-and-death-a-reflection-on-beauty-in
+tags:
+- cycle-of-life
+title: Nature's Cycle of Life and Death
+type: topic
 updated: 2026-05-04
 ---
 

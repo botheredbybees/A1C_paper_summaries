@@ -1,13 +1,15 @@
 ---
-type: topic
-domain: "intervention"
-title: "Sensory Stimulation"
 confidence: medium
-tags: ["sensory-stimulation"]
+domain: intervention
+slug: sensory-stimulation
 sources:
-  - fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales
-  - fxa100-week07-creating-resources-memory-trees-and-boxes
-  - fxa100-week08-unlocking-the-door-to-being-there-the-contribution-of
+- fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales
+- fxa100-week07-creating-resources-memory-trees-and-boxes
+- fxa100-week08-unlocking-the-door-to-being-there-the-contribution-of
+tags:
+- sensory-stimulation
+title: Sensory Stimulation
+type: topic
 updated: 2026-05-04
 ---
 

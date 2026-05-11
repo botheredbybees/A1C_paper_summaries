@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Therapeutic Value of Museums"
 confidence: low
-tags: ["therapeutic-value-of-museums"]
+domain: intervention
+slug: therapeutic-value-of-museums
 sources:
-  - fxa301-week05-the-beaney-health-and-wellbeing-toolkit
+- fxa301-week05-the-beaney-health-and-wellbeing-toolkit
+tags:
+- therapeutic-value-of-museums
+title: Therapeutic Value of Museums
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "theory"
-title: "Tau Protein Neurofibrillary Tangles"
 confidence: low
-tags: ["tau-protein-neurofibrillary-tangles"]
+domain: theory
+slug: tau-protein-neurofibrillary-tangles
 sources:
-  - fxa100-week01-transcript-what-is-alzheimers-disease-ivan-seah-yu-jun
+- fxa100-week01-transcript-what-is-alzheimers-disease-ivan-seah-yu-jun
+tags:
+- tau-protein-neurofibrillary-tangles
+title: Tau Protein Neurofibrillary Tangles
+type: topic
 updated: 2026-05-04
 ---
 

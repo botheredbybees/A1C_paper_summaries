@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Puppet Therapy and Childlike Wonder"
 confidence: low
-tags: ["childlike-wonder"]
+domain: intervention
+slug: puppet-therapy-and-childlike-wonder
 sources:
-  - fxa303-week06-the-wonder-continues-captivating-and-engaging-adults
+- fxa303-week06-the-wonder-continues-captivating-and-engaging-adults
+tags:
+- childlike-wonder
+title: Puppet Therapy and Childlike Wonder
+type: topic
 updated: 2026-05-04
 ---
 

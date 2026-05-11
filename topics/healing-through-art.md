@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Healing Through Art"
 confidence: low
-tags: ["healing-through-art"]
+domain: intervention
+slug: healing-through-art
 sources:
-  - fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health
+- fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health
+tags:
+- healing-through-art
+title: Healing Through Art
+type: topic
 updated: 2026-05-04
 ---
 

@@ -1,11 +1,13 @@
 ---
-type: topic
-domain: "intervention"
-title: "Object-Based Reminiscence"
 confidence: low
-tags: ["object-based-reminiscence"]
+domain: intervention
+slug: object-based-reminiscence
 sources:
-  - fxa100-week08-creativity-and-communication-in-persons-with-dementia-a
+- fxa100-week08-creativity-and-communication-in-persons-with-dementia-a
+tags:
+- object-based-reminiscence
+title: Object-Based Reminiscence
+type: topic
 updated: 2026-05-04
 ---
 

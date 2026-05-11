@@ -1,13 +1,17 @@
 ---
-type: topic
-domain: "theory"
-title: "Components Of Visual Storytelling"
 confidence: medium
-tags: ["narrative-structure"]
+domain: theory
+slug: components-of-visual-storytelling
 sources:
   - fxa202-week06-week-six-lecture-components-of-visual-storytelling
   - fxa202-week06-week-six-lecture-components-of-visual-storytelling-(2)
-updated: 2026-05-04
+- fxa202-week06-week-six-lecture-components-of-visual-storytelling
+- fxa202-week06-week-six-lecture-components-of-visual-storytelling-(2)
+tags:
+- narrative-structure
+title: Components Of Visual Storytelling
+type: topic
+updated: 2026-05-11
 ---
 
 ## Components Of Visual Storytelling
