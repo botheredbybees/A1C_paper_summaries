@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: workplace-skills
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Workplace Skills

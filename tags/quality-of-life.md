@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: quality-of-life
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Quality Of Life
@@ -51,7 +51,10 @@ updated: 2026-05-11
 - [Expressive bodies: demented persons\u2019 communication in a dance therapy context](../sources/fxa100-week11-expressive-bodies-demented-persons-communication-in-a-dance.md)
 - [Rehabilitation effects of game therapy in people living with dementia: A systematic review and meta-analysis](../sources/fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living.md)
 - [The benefits of community-based participatory arts activities for people living with dementia: a thematic scoping review](../sources/fxa100-week11-the-benefits-of-community-based-participatory-arts.md)
+- [Dancing as a psychosocial intervention in care homes: a systematic review of the literature](../sources/fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a.md)
+- [The Effect from Music Therapy Upon Alzheimer's Illness](../sources/fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness.md)
 - [Mih\u00e1ly Cs\u00edkszentmih\u00e1lyi: The Father of Flow](../sources/fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow.md)
+- [Revisioning self-identity: The role of portraits, neuroscience and the art therapist's \u2018third hand\u2019](../sources/fxa202-week13-revisioning-self-identity-the-role-of-portraits.md)
 - [A Qualitative Investigation of Older Adults\u2019 Conceptualization of Quality of Life and a Think-Aloud Content Validation of the EQ-5D-5L, SF-12v2, Warwick Edinburgh Mental Well-Being Scale, and Office of National Statistics-4](../sources/fxa301-week01-a-qualitative-investigation-of-older-adults.md)
 - [The 2024 Happy Planet Index](../sources/fxa301-week05-the-2024-happy-planet-index.md)
 - [Editorial Comment on \u201cTherapeutic Dancing for Parkinson's Disease\u201d](../sources/fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons.md)
@@ -60,3 +63,16 @@ updated: 2026-05-11
 - [Therapeutic Use of the Arts for Patients with Multiple Sclerosis](../sources/fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple.md)
 - [A Meta-Analysis of Expressive Writing on Posttraumatic Stress, Posttraumatic Growth, and Quality of Life](../sources/fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic.md)
 - [\"I made you a small room in my heart\": how therapeutic clowns meet the needs of older adults in nursing homes](../sources/fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns.md)
+- [Application of cognitive stimulation in the care of institutionalized elderly people with dementia](../sources/fxa303-week13-application-of-cognitive-stimulation-in-the-care-of.md)
+- [Der Demenz-Clown: Ein Konzept zur Kultivierung von Humor und Heiterkeit in der Demenzpflege](../sources/fxa303-week13-der-demenz-clown-ein-konzept-zur-kultivierung-von-humor-und.md)
+- [Effects of Clown Activities on Patients Eligible for Palliative Care in Primary Health Care](../sources/fxa303-week13-effects-of-clown-activities-on-patients-eligible-for.md)
+- [Elder-clowning in long-term dementia care: Results of a pilot study](../sources/fxa303-week13-elder-clowning-in-long-term-dementia-care-results-of-a.md)
+- [Engagement in Persons With Dementia: The Concept and Its Measurement](../sources/fxa303-week13-engagement-in-persons-with-dementia-the-concept-and-its.md)
+- [Evaluation of Cognitive Stimulation Therapy for People With Dementia](../sources/fxa303-week13-evaluation-of-cognitive-stimulation-therapy-for-people-with.md)
+- [Humor Assessment and Interventions in Palliative Care: A Systematic Review](../sources/fxa303-week13-humor-assessment-and-interventions-in-palliative-care-a.md)
+- [Humour interventions for patients in palliative care\u2014a randomized controlled trial](../sources/fxa303-week13-humour-interventions-for-patients-in-palliative-carea.md)
+- [I made you a small room in my heart: how therapeutic clowns meet the needs of older adults in nursing homes](../sources/fxa303-week13-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns.md)
+- [Laughter and Humor Therapy in Dialysis](../sources/fxa303-week13-laughter-and-humor-therapy-in-dialysis.md)
+- [\u201cPlay\u201d and People Living With Dementia: A Humanities-Based Inquiry of TimeSlips and the Alzheimer\u2019s Poetry Project](../sources/fxa303-week13-play-and-people-living-with-dementia-a-humanities-based.md)
+- [Remembering Yesterday, Caring Today: Reminiscence in Dementia Care](../sources/fxa303-week13-remembering-yesterday-caring-today-reminiscence-in-dementia.md)
+- [Reminiscence Therapy for Dementia](../sources/fxa303-week13-reminiscence-therapy-for-dementia.md)

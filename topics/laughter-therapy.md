@@ -3,12 +3,15 @@ confidence: low
 domain: intervention
 slug: laughter-therapy
 sources:
+  - fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
+  - fxa303-week13-eficacia-de-la-risoterapia-con-payasos-sociosanitarios-en
+  - fxa303-week13-our-role-is-to-listen-more-than-entertain-a-qualitative
 - fxa301-week08-lesson-fxa301-week07-page-2-hm-copy
 tags:
 - laughter-therapy
 title: Laughter Therapy
 type: topic
-updated: 2026-05-04
+updated: 2026-05-15
 ---
 
 ## Laughter Therapy
@@ -27,4 +30,6 @@ Laughter therapy is an intervention that leverages humor and laughter to improve
 
 ## Sources
 
-- [fxa301-week08-lesson-fxa301-week07-page-2-hm-copy](../sources/fxa301-week08-lesson-fxa301-week07-page-2-hm-copy.md)
+- [fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine](../sources/fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine.md)
+- [fxa303-week13-eficacia-de-la-risoterapia-con-payasos-sociosanitarios-en](../sources/fxa303-week13-eficacia-de-la-risoterapia-con-payasos-sociosanitarios-en.md)
+- [fxa303-week13-our-role-is-to-listen-more-than-entertain-a-qualitative](../sources/fxa303-week13-our-role-is-to-listen-more-than-entertain-a-qualitative.md)

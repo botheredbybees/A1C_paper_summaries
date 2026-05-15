@@ -11,7 +11,7 @@ tags: ["memory-loss", "philosophy-of-mind", "clinical-psychology", "fxa100"]
 key_concepts: ["causal accounts", "constitutive accounts", "externality of mind"]
 methods: []
 slug: fxa100-how-we-thnk-about-dementia-ch06-chapter-3
-related: ["memory-loss", "philosophy-of-mind"]
+related: ["clinical-psychology", "memory-loss", "philosophy-of-mind"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,5 +41,6 @@ This chapter discusses memory loss from clinical and philosophical perspectives,
 
 ## See Also
 
+- [clinical-psychology](../topics/clinical-psychology.md)
 - [memory-loss](../topics/memory-loss.md)
 - [philosophy-of-mind](../topics/philosophy-of-mind.md)

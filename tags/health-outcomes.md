@@ -1,13 +1,16 @@
 ---
 type: tag
 tag: health-outcomes
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Health Outcomes
 
 - [Implementation Survey Results - Phase III Music & Memory Program](../sources/fxa100-week03-implementation-survey-results-phase-iii-music-memory-program.md)
 - [The Perceived Benefits of Singing: Findings from Preliminary Surveys](../sources/fxa100-week04-the-perceived-benefits-of-singing-findings-from-preliminary.md)
+- [Can arts-based interventions improve health? A conceptual and methodological critique](../sources/fxa100-week13-can-arts-based-interventions-improve-health-a-conceptual.md)
+- [Health benefits of physical activity: a systematic review of current systematic reviews](../sources/fxa100-week13-health-benefits-of-physical-activity-a-systematic-review-of.md)
+- [Measuring the care risk in older adults with dementia: a scoping review](../sources/fxa100-week13-measuring-the-care-risk-in-older-adults-with-dementia-a.md)
 - [The Impact of Cultural Activities on Health and Survival](../sources/fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake.md)
 - [The Influence of Cultural Activities and Music on Health](../sources/fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2).md)
 - [A step-by-step approach to the research process](../sources/fxa301-week01-a-step-by-step-approach-to-the-research-process.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychodynamic-therapy
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Psychodynamic Therapy

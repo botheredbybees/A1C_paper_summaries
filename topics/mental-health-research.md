@@ -4,14 +4,16 @@ domain: intervention
 slug: visual-art-therapies-in-mental-health
 sources:
   - fxa202-therapeutic-photography-ch04-2-reflexive-photography
+  - fxa202-week13-taking-pictures-is-like-treasure-hunting-exploring-the
   - fxa301-week10-the-contribution-of-the-visual-in-qualitative-participatory
+  - fxa303-week13-the-american-psychiatric-association
 - fxa202-therapeutic-photography-ch04-2-reflexive-photography
 - fxa301-week10-the-contribution-of-the-visual-in-qualitative-participatory
 tags:
 - mental-health-research
 title: Visual Art Therapies in Mental Health
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Visual Art Therapies in Mental Health
@@ -31,4 +33,6 @@ Visual art therapies have emerged as potent interventions within mental health r
 ## Sources
 
 - [fxa202-therapeutic-photography-ch04-2-reflexive-photography](../sources/fxa202-therapeutic-photography-ch04-2-reflexive-photography.md)
+- [fxa202-week13-taking-pictures-is-like-treasure-hunting-exploring-the](../sources/fxa202-week13-taking-pictures-is-like-treasure-hunting-exploring-the.md)
 - [fxa301-week10-the-contribution-of-the-visual-in-qualitative-participatory](../sources/fxa301-week10-the-contribution-of-the-visual-in-qualitative-participatory.md)
+- [fxa303-week13-the-american-psychiatric-association](../sources/fxa303-week13-the-american-psychiatric-association.md)

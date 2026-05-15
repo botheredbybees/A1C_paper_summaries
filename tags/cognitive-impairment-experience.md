@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-impairment-experience
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Cognitive Impairment Experience

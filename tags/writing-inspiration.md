@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: writing-inspiration
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Writing Inspiration

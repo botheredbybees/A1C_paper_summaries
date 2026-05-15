@@ -11,7 +11,7 @@ tags: ["elder-clowning", "dementia-care", "nursing-homes", "behavioral-symptoms"
 key_concepts: ["Behavioral and Psychological Symptoms of Dementia (BPSD)", "Neuropsychiatric Inventory-Nursing Home version (NPI-NH)"]
 methods: ["pilot study"]
 slug: fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a
-related: ["behavioral-symptoms", "dementia-care", "non-pharmacological-intervention", "nursing-homes"]
+related: ["behavioral-symptoms", "dementia-care", "elder-clowning", "non-pharmacological-intervention", "nursing-homes"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,5 +44,6 @@ Kontos et al. (2016) conducted a pilot study to assess the effects of elder-clow
 
 - [behavioral-symptoms](../topics/behavioral-symptoms.md)
 - [dementia-care](../topics/dementia-care.md)
+- [elder-clowning](../topics/elder-clowning.md)
 - [non-pharmacological-intervention](../topics/non-pharmacological-intervention.md)
 - [nursing-homes](../topics/nursing-homes.md)

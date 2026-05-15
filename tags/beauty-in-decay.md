@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: beauty-in-decay
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Beauty In Decay

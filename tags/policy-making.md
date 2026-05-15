@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: policy-making
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Policy Making

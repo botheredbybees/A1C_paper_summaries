@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: traditional-culture
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Traditional Culture

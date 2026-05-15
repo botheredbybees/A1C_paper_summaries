@@ -3,6 +3,7 @@ confidence: medium
 domain: intervention
 slug: play-therapy
 sources:
+  - fxa303-puppet-play-therapy-ch09-458-woltmann
   - fxa303-puppet-play-therapy-ch10-chapter-2
   - fxa303-week01-an-overview-of-play-therapy
   - fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children
@@ -45,7 +46,7 @@ tags:
 - play-therapy
 title: Play Therapy
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Play Therapy
@@ -64,6 +65,7 @@ Play therapy is a therapeutic intervention specifically designed for children to
 
 ## Sources
 
+- [fxa303-puppet-play-therapy-ch09-458-woltmann](../sources/fxa303-puppet-play-therapy-ch09-458-woltmann.md)
 - [fxa303-puppet-play-therapy-ch10-chapter-2](../sources/fxa303-puppet-play-therapy-ch10-chapter-2.md)
 - [fxa303-week01-an-overview-of-play-therapy](../sources/fxa303-week01-an-overview-of-play-therapy.md)
 - [fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children](../sources/fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children.md)

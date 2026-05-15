@@ -6,6 +6,7 @@ sources:
   - fxa100-week03-association-of-music-interventions-with-health-related
   - fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas
   - fxa301-week08-wisdom-poetry-trialogue
+  - fxa303-week13-therapeutic-clowns-in-pediatrics-a-systematic-review-and
 - fxa100-week03-association-of-music-interventions-with-health-related
 - fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas
 - fxa301-week08-wisdom-poetry-trialogue
@@ -13,7 +14,7 @@ tags:
 - creative-arts-health
 title: Creative Arts in Health Interventions
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Creative Arts in Health Interventions
@@ -35,3 +36,4 @@ The integration of creative arts into health interventions presents a multifacet
 - [fxa100-week03-association-of-music-interventions-with-health-related](../sources/fxa100-week03-association-of-music-interventions-with-health-related.md)
 - [fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas](../sources/fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas.md)
 - [fxa301-week08-wisdom-poetry-trialogue](../sources/fxa301-week08-wisdom-poetry-trialogue.md)
+- [fxa303-week13-therapeutic-clowns-in-pediatrics-a-systematic-review-and](../sources/fxa303-week13-therapeutic-clowns-in-pediatrics-a-systematic-review-and.md)

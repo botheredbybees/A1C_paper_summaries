@@ -6,6 +6,8 @@ sources:
   - fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
   - fxa303-week08-physiological-and-emotional-responses-of-disabled-children
   - fxa303-week08-therapeutic-clowns-in-pediatrics-a-systematic-review-and
+  - fxa303-week13-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
+  - fxa303-week13-therapeutic-clowns-in-pediatrics-a-systematic-review-and
 - fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
 - fxa303-week08-physiological-and-emotional-responses-of-disabled-children
 - fxa303-week08-therapeutic-clowns-in-pediatrics-a-systematic-review-and
@@ -13,7 +15,7 @@ tags:
 - therapeutic-clowns
 title: Therapeutic Clowns
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Therapeutic Clowns
@@ -35,3 +37,5 @@ Therapeutic clowns constitute an innovative intervention across various patient 
 - [fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns](../sources/fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns.md)
 - [fxa303-week08-physiological-and-emotional-responses-of-disabled-children](../sources/fxa303-week08-physiological-and-emotional-responses-of-disabled-children.md)
 - [fxa303-week08-therapeutic-clowns-in-pediatrics-a-systematic-review-and](../sources/fxa303-week08-therapeutic-clowns-in-pediatrics-a-systematic-review-and.md)
+- [fxa303-week13-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns](../sources/fxa303-week13-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns.md)
+- [fxa303-week13-therapeutic-clowns-in-pediatrics-a-systematic-review-and](../sources/fxa303-week13-therapeutic-clowns-in-pediatrics-a-systematic-review-and.md)

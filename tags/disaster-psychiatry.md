@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: disaster-psychiatry
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Disaster Psychiatry

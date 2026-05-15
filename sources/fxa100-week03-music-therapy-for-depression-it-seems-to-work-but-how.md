@@ -11,7 +11,7 @@ tags: ["music-therapy", "depression-treatment", "therapeutic-mechanisms", "menta
 key_concepts: ["interactive music therapy", "aesthetic engagement", "physical engagement", "relational engagement"]
 methods: ["systematic review"]
 slug: fxa100-week03-music-therapy-for-depression-it-seems-to-work-but-how
-related: ["depression-treatment", "mental-health-interventions", "music-therapy"]
+related: ["depression-treatment", "mental-health-interventions", "music-therapy", "therapeutic-mechanisms"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,3 +46,4 @@ The article examines the efficacy and mechanisms of music therapy for treating d
 - [depression-treatment](../topics/depression-treatment.md)
 - [mental-health-interventions](../topics/mental-health-interventions.md)
 - [music-therapy](../topics/music-therapy.md)
+- [therapeutic-mechanisms](../topics/therapeutic-mechanisms.md)

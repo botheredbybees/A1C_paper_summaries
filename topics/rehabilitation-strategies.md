@@ -6,9 +6,10 @@ confidence: medium
 tags: ["rehabilitation-strategies"]
 sources:
   - fxa100-excellence-in-dementia-care--ch09-chapter-15
+  - fxa100-week13-effects-of-neuromuscular-exercise-and-dance-therapy-on
   - fxa303-week11-creative-pathways-for-juvenile-justice-an-overview-of
   - fxa303-week11-role-of-art-therapy-in-the-promotion-of-mental-health-a
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Rehabilitation Strategies in Mental Health and Dementia
@@ -28,5 +29,6 @@ The exploration of rehabilitation strategies in both dementia care and mental he
 ## Sources
 
 - [fxa100-excellence-in-dementia-care--ch09-chapter-15](../sources/fxa100-excellence-in-dementia-care--ch09-chapter-15.md)
+- [fxa100-week13-effects-of-neuromuscular-exercise-and-dance-therapy-on](../sources/fxa100-week13-effects-of-neuromuscular-exercise-and-dance-therapy-on.md)
 - [fxa303-week11-creative-pathways-for-juvenile-justice-an-overview-of](../sources/fxa303-week11-creative-pathways-for-juvenile-justice-an-overview-of.md)
 - [fxa303-week11-role-of-art-therapy-in-the-promotion-of-mental-health-a](../sources/fxa303-week11-role-of-art-therapy-in-the-promotion-of-mental-health-a.md)

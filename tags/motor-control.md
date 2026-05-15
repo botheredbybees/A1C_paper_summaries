@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: motor-control
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Motor Control

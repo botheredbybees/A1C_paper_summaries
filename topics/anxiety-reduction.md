@@ -5,13 +5,15 @@ slug: anxiety-reduction-through-puppet-play-therapy
 sources:
   - fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy
   - fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic
+  - fxa303-week13-a-meta-analysis-of-randomized-controlled-trials-of-laughter
+  - fxa303-week13-the-effect-of-humor-on-elder-mental-and-physical-health
 - fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy
 - fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic
 tags:
 - anxiety-reduction
 title: Anxiety Reduction Through Puppet Play Therapy
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Anxiety Reduction Through Puppet Play Therapy
@@ -32,3 +34,5 @@ Puppet play therapy emerges as a versatile intervention for anxiety reduction in
 
 - [fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy](../sources/fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy.md)
 - [fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic](../sources/fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic.md)
+- [fxa303-week13-a-meta-analysis-of-randomized-controlled-trials-of-laughter](../sources/fxa303-week13-a-meta-analysis-of-randomized-controlled-trials-of-laughter.md)
+- [fxa303-week13-the-effect-of-humor-on-elder-mental-and-physical-health](../sources/fxa303-week13-the-effect-of-humor-on-elder-mental-and-physical-health.md)

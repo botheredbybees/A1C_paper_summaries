@@ -11,7 +11,7 @@ tags: ["art-therapy", "pediatric-oncology", "emotional-wellbeing", "mood-assessm
 key_concepts: ["Arts Observational Scale (ArtsObS)", "psychometric validation", "cultural adaptation"]
 methods: ["validation study"]
 slug: fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in
-related: ["art-therapy", "cross-cultural-research", "emotional-wellbeing"]
+related: ["art-therapy", "cross-cultural-research", "emotional-wellbeing", "mood-assessment"]
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -46,3 +46,4 @@ This study aims to validate the Italian version of the Arts Observational Scale 
 - [art-therapy](../topics/art-therapy.md)
 - [cross-cultural-research](../topics/cross-cultural-research.md)
 - [emotional-wellbeing](../topics/emotional-wellbeing.md)
+- [mood-assessment](../topics/mood-assessment.md)

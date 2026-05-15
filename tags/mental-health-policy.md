@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-health-policy
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Mental Health Policy

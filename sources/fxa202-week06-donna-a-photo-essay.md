@@ -11,7 +11,7 @@ tags: ["autism", "trauma-recovery", "art-therapy", "queer-studies", "homelessnes
 key_concepts: ["emotional-regulation", "creative-expression", "self-acceptance"]
 methods: ["photo-essay"]
 slug: fxa202-week06-donna-a-photo-essay
-related: ["art-therapy", "homelessness", "trauma-recovery"]
+related: ["art-therapy", "homelessness", "queer-studies", "trauma-recovery"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,4 +45,5 @@ The document presents a photo essay about Donna, an autistic adult woman who has
 
 - [art-therapy](../topics/art-therapy.md)
 - [homelessness](../topics/homelessness.md)
+- [queer-studies](../topics/queer-studies.md)
 - [trauma-recovery](../topics/trauma-recovery.md)

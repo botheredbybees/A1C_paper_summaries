@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: community-art-projects
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Community Art Projects

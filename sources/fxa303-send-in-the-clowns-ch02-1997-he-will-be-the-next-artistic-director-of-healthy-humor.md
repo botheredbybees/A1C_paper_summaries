@@ -11,7 +11,7 @@ tags: ["healthcare-clowning", "nonprofit-development", "hospital-partnerships", 
 key_concepts: []
 methods: []
 slug: fxa303-send-in-the-clowns-ch02-1997-he-will-be-the-next-artistic-director-of-healthy-humor
-related: []
+related: ["healthcare-clowning"]
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -39,4 +39,4 @@ This chapter details the origins and development of Healthy Humor, an organizati
 
 ## See Also
 
-*(none yet)*
+- [healthcare-clowning](../topics/healthcare-clowning.md)

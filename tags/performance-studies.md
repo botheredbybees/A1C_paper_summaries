@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: performance-studies
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Performance Studies

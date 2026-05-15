@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: shell-shock-treatment
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Shell Shock Treatment

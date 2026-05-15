@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: socioeconomic-status
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Socioeconomic Status

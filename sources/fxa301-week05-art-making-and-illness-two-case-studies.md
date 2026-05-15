@@ -15,7 +15,7 @@ tags: ["art-therapy", "cancer-treatment", "case-study-research", "emotional-well
 key_concepts: ["self-identity", "community-building", "creative-expression"]
 methods: ["case study"]
 slug: fxa301-week05-art-making-and-illness-two-case-studies
-related: ["art-therapy", "cancer-treatment", "emotional-wellbeing"]
+related: ["art-therapy", "cancer-treatment", "case-study-research", "emotional-wellbeing"]
 created: 2026-05-03
 updated: 2026-05-05
 ---
@@ -49,4 +49,5 @@ This document presents two case studies examining the impact of art-making on in
 
 - [art-therapy](../topics/art-therapy.md)
 - [cancer-treatment](../topics/cancer-treatment.md)
+- [case-study-research](../topics/case-study-research.md)
 - [emotional-wellbeing](../topics/emotional-wellbeing.md)

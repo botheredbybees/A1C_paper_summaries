@@ -5,6 +5,9 @@ slug: qualitative-research-in-health-and-well-being-interventions
 sources:
   - fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the
   - fxa100-week08-what-are-the-required-elements-needed-to-create-an
+  - fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a
+  - fxa100-week13-knowledge-and-health-beliefs-about-dementia-prevention
+  - fxa100-week13-music-interventions-for-people-with-dementia-a-review-of
   - fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10
   - fxa301-week01-lesson-fxa301-week01-page-1-hm
   - fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and
@@ -16,6 +19,10 @@ sources:
   - fxa303-week11-artistic-expression-as-a-source-of-resilience-for
   - fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through
   - fxa303-week11-the-power-of-recognition-a-qualitative-study-of-social
+  - fxa303-week13-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
+  - fxa303-week13-intervention-and-application-of-clown-care-in-nursing-homes
+  - fxa303-week13-our-role-is-to-listen-more-than-entertain-a-qualitative
+  - fxa303-week13-youre-the-only-thing-he-comes-out-of-his-room-for-a
 - fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the
 - fxa100-week08-what-are-the-required-elements-needed-to-create-an
 - fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10
@@ -29,7 +36,7 @@ tags:
 - qualitative-research
 title: Qualitative Research in Health and Well-being Interventions
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Qualitative Research in Health and Well-being Interventions
@@ -50,6 +57,9 @@ The sources collectively highlight the importance of qualitative research method
 
 - [fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the](../sources/fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the.md)
 - [fxa100-week08-what-are-the-required-elements-needed-to-create-an](../sources/fxa100-week08-what-are-the-required-elements-needed-to-create-an.md)
+- [fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a](../sources/fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a.md)
+- [fxa100-week13-knowledge-and-health-beliefs-about-dementia-prevention](../sources/fxa100-week13-knowledge-and-health-beliefs-about-dementia-prevention.md)
+- [fxa100-week13-music-interventions-for-people-with-dementia-a-review-of](../sources/fxa100-week13-music-interventions-for-people-with-dementia-a-review-of.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10](../sources/fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10.md)
 - [fxa301-week01-lesson-fxa301-week01-page-1-hm](../sources/fxa301-week01-lesson-fxa301-week01-page-1-hm.md)
 - [fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and](../sources/fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and.md)
@@ -61,3 +71,7 @@ The sources collectively highlight the importance of qualitative research method
 - [fxa303-week11-artistic-expression-as-a-source-of-resilience-for](../sources/fxa303-week11-artistic-expression-as-a-source-of-resilience-for.md)
 - [fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through](../sources/fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through.md)
 - [fxa303-week11-the-power-of-recognition-a-qualitative-study-of-social](../sources/fxa303-week11-the-power-of-recognition-a-qualitative-study-of-social.md)
+- [fxa303-week13-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns](../sources/fxa303-week13-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns.md)
+- [fxa303-week13-intervention-and-application-of-clown-care-in-nursing-homes](../sources/fxa303-week13-intervention-and-application-of-clown-care-in-nursing-homes.md)
+- [fxa303-week13-our-role-is-to-listen-more-than-entertain-a-qualitative](../sources/fxa303-week13-our-role-is-to-listen-more-than-entertain-a-qualitative.md)
+- [fxa303-week13-youre-the-only-thing-he-comes-out-of-his-room-for-a](../sources/fxa303-week13-youre-the-only-thing-he-comes-out-of-his-room-for-a.md)

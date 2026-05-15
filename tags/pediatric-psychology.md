@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: pediatric-psychology
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Pediatric Psychology

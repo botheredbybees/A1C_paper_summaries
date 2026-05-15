@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuro-modulation
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Neuro Modulation

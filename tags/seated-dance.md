@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: seated-dance
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Seated Dance

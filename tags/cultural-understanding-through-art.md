@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cultural-understanding-through-art
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Cultural Understanding Through Art

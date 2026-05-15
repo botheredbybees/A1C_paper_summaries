@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: anxiety-reactions
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Anxiety Reactions

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychosomatic-medicine
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Psychosomatic Medicine

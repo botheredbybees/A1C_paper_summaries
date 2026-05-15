@@ -5,13 +5,14 @@ slug: street-photography
 sources:
   - fxa202-week02-street-photographers-rights
   - fxa202-week02-street-photography-composition-lesson-12-color-theory
+  - fxa202-week13-an-applied-phenomenology-the-inner-life-of-writing-poetry
 - fxa202-week02-street-photographers-rights
 - fxa202-week02-street-photography-composition-lesson-12-color-theory
 tags:
 - street-photography
 title: Street Photography
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Street Photography
@@ -32,3 +33,4 @@ Street photography is a form of visual documentation of everyday life in public 
 
 - [fxa202-week02-street-photographers-rights](../sources/fxa202-week02-street-photographers-rights.md)
 - [fxa202-week02-street-photography-composition-lesson-12-color-theory](../sources/fxa202-week02-street-photography-composition-lesson-12-color-theory.md)
+- [fxa202-week13-an-applied-phenomenology-the-inner-life-of-writing-poetry](../sources/fxa202-week13-an-applied-phenomenology-the-inner-life-of-writing-poetry.md)

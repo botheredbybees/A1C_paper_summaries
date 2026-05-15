@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ethnographic-evaluation
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Ethnographic Evaluation

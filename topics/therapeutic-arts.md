@@ -6,6 +6,7 @@ sources:
   - fxa100-week06-art-creativity
   - fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of
   - fxa100-week09-week-9-lecture-dramatherapy-dance-therapy-and-applied
+  - fxa202-week13-inhabiting-the-image-photography-therapy-and-re-enactment
   - fxa301-week03-developing-a-national-arts-and-health-policy-framework
   - fxa301-week06-week-6-activities-fxa301-arts-in-the-community
   - fxa301-week08-transcript-the-video-below-relates-the-experiences-of
@@ -33,7 +34,7 @@ tags:
 - therapeutic-arts
 title: Therapeutic Arts
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Therapeutic Arts
@@ -55,6 +56,7 @@ The therapeutic arts encompass a range of creative practices that promote well-b
 - [fxa100-week06-art-creativity](../sources/fxa100-week06-art-creativity.md)
 - [fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of](../sources/fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of.md)
 - [fxa100-week09-week-9-lecture-dramatherapy-dance-therapy-and-applied](../sources/fxa100-week09-week-9-lecture-dramatherapy-dance-therapy-and-applied.md)
+- [fxa202-week13-inhabiting-the-image-photography-therapy-and-re-enactment](../sources/fxa202-week13-inhabiting-the-image-photography-therapy-and-re-enactment.md)
 - [fxa301-week03-developing-a-national-arts-and-health-policy-framework](../sources/fxa301-week03-developing-a-national-arts-and-health-policy-framework.md)
 - [fxa301-week06-week-6-activities-fxa301-arts-in-the-community](../sources/fxa301-week06-week-6-activities-fxa301-arts-in-the-community.md)
 - [fxa301-week08-transcript-the-video-below-relates-the-experiences-of](../sources/fxa301-week08-transcript-the-video-below-relates-the-experiences-of.md)

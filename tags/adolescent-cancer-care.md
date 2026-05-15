@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: adolescent-cancer-care
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Adolescent Cancer Care

@@ -4,7 +4,9 @@ domain: intervention
 slug: personalized-risk-profiling-and-physical-activity-in-aging-research
 sources:
   - fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and
+  - fxa100-week13-physical-activity-and-exercise-as-countermeasures-to
   - fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster
+  - fxa303-week13-evaluation-of-a-standardized-humor-group-in-a-clinical
 - fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy
 - fxa100-week01-relating-physical-activity-to-cognitive-function-brain
 - fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and
@@ -13,7 +15,7 @@ tags:
 - aging-research
 title: Personalized Risk Profiling And Physical Activity In Aging Research
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Personalized Risk Profiling And Physical Activity In Aging Research
@@ -33,4 +35,6 @@ This synthesis integrates findings from two aging-related research studies. The 
 ## Sources
 
 - [fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and](../sources/fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and.md)
+- [fxa100-week13-physical-activity-and-exercise-as-countermeasures-to](../sources/fxa100-week13-physical-activity-and-exercise-as-countermeasures-to.md)
 - [fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster](../sources/fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster.md)
+- [fxa303-week13-evaluation-of-a-standardized-humor-group-in-a-clinical](../sources/fxa303-week13-evaluation-of-a-standardized-humor-group-in-a-clinical.md)

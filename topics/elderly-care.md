@@ -7,6 +7,8 @@ sources:
   - fxa100-week04-research-in-aged-care-deloraine-partnership-transcript
   - fxa100-week04-the-day-the-music-died
   - fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it
+  - fxa100-week13-emotion-recognition-from-multimodal-data-a-machine-learning
+  - fxa303-week13-the-effects-of-reminiscence-therapy-on-psychological-well
 - fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy
 - fxa100-week04-research-in-aged-care-deloraine-partnership-transcript
 - fxa100-week04-the-day-the-music-died
@@ -15,7 +17,7 @@ tags:
 - elderly-care
 title: Elderly Care Interventions
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Elderly Care Interventions
@@ -39,3 +41,5 @@ The synthesis focuses on elderly care interventions including personalized risk 
 - [fxa100-week04-research-in-aged-care-deloraine-partnership-transcript](../sources/fxa100-week04-research-in-aged-care-deloraine-partnership-transcript.md)
 - [fxa100-week04-the-day-the-music-died](../sources/fxa100-week04-the-day-the-music-died.md)
 - [fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it](../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it.md)
+- [fxa100-week13-emotion-recognition-from-multimodal-data-a-machine-learning](../sources/fxa100-week13-emotion-recognition-from-multimodal-data-a-machine-learning.md)
+- [fxa303-week13-the-effects-of-reminiscence-therapy-on-psychological-well](../sources/fxa303-week13-the-effects-of-reminiscence-therapy-on-psychological-well.md)

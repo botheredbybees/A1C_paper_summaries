@@ -5,6 +5,7 @@ slug: appreciation-of-nature-and-self-expression-through-poetry
 sources:
   - fxa100-week08-transcript-youtube-cilh21tfqem
   - fxa202-week10-poetic-expressions-of-internal-struggle
+  - fxa202-week13-an-applied-phenomenology-the-inner-life-of-writing-poetry
   - fxa301-week08-transcript-youtube-q7-axxnucfq
 - fxa100-week08-transcript-youtube-cilh21tfqem
 - fxa202-week10-poetic-expressions-of-internal-struggle
@@ -13,7 +14,7 @@ tags:
 - poetry
 title: Appreciation Of Nature And Self-expression Through Poetry
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Appreciation Of Nature And Self-expression Through Poetry
@@ -34,4 +35,5 @@ The exploration of poetry as a medium for self-expression and appreciation of na
 
 - [fxa100-week08-transcript-youtube-cilh21tfqem](../sources/fxa100-week08-transcript-youtube-cilh21tfqem.md)
 - [fxa202-week10-poetic-expressions-of-internal-struggle](../sources/fxa202-week10-poetic-expressions-of-internal-struggle.md)
+- [fxa202-week13-an-applied-phenomenology-the-inner-life-of-writing-poetry](../sources/fxa202-week13-an-applied-phenomenology-the-inner-life-of-writing-poetry.md)
 - [fxa301-week08-transcript-youtube-q7-axxnucfq](../sources/fxa301-week08-transcript-youtube-q7-axxnucfq.md)

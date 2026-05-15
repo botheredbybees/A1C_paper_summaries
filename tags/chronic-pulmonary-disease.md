@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: chronic-pulmonary-disease
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Chronic Pulmonary Disease

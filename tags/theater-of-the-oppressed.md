@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: theater-of-the-oppressed
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Theater Of The Oppressed

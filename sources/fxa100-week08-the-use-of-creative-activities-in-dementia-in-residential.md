@@ -11,7 +11,7 @@ tags: ["dementia-care", "aged-care-facilities", "creative-activities", "quality-
 key_concepts: ["Behavioural and Psychological Symptoms of Dementia (BPSD)", "self-expression", "cognitive-engagement"]
 methods: ["cross-sectional descriptive study", "online survey", "qualitative interviews"]
 slug: fxa100-week08-the-use-of-creative-activities-in-dementia-in-residential
-related: ["creative-activities", "dementia-care", "quality-of-life"]
+related: ["aged-care-facilities", "creative-activities", "dementia-care", "quality-of-life"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,6 +44,7 @@ This research examines the role and impact of creative activities for individual
 
 ## See Also
 
+- [aged-care-facilities](../topics/aged-care-facilities.md)
 - [creative-activities](../topics/creative-activities.md)
 - [dementia-care](../topics/dementia-care.md)
 - [quality-of-life](../topics/quality-of-life.md)

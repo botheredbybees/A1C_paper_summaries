@@ -5,13 +5,14 @@ slug: quality-improvement-in-healthcare-settings
 sources:
   - fxa100-week03-implementation-survey-results-phase-iii-music-memory-program
   - fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit
+  - fxa303-week13-svedem-the-swedish-dementia-registry-a-tool-for-improving
 - fxa100-week03-implementation-survey-results-phase-iii-music-memory-program
 - fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit
 tags:
 - quality-improvement
 title: Quality Improvement in Healthcare Settings
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Quality Improvement in Healthcare Settings
@@ -36,3 +37,4 @@ While both interventions aim to improve quality of life and care outcomes, they 
 
 - [fxa100-week03-implementation-survey-results-phase-iii-music-memory-program](../sources/fxa100-week03-implementation-survey-results-phase-iii-music-memory-program.md)
 - [fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit](../sources/fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit.md)
+- [fxa303-week13-svedem-the-swedish-dementia-registry-a-tool-for-improving](../sources/fxa303-week13-svedem-the-swedish-dementia-registry-a-tool-for-improving.md)

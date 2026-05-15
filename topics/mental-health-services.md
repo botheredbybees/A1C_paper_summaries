@@ -5,13 +5,14 @@ slug: mental-health-services
 sources:
   - fxa301-week03-statement-on-lived-experience
   - fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit
+  - fxa303-week13-psychiatric-illness-predicts-poor-outcome-after-surgery-for
 - fxa301-week03-statement-on-lived-experience
 - fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit
 tags:
 - mental-health-services
 title: Mental Health Services
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Mental Health Services
@@ -32,3 +33,4 @@ The integration of lived experience and trauma-informed practice in mental healt
 
 - [fxa301-week03-statement-on-lived-experience](../sources/fxa301-week03-statement-on-lived-experience.md)
 - [fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit](../sources/fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit.md)
+- [fxa303-week13-psychiatric-illness-predicts-poor-outcome-after-surgery-for](../sources/fxa303-week13-psychiatric-illness-predicts-poor-outcome-after-surgery-for.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: stress-reduction
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Stress Reduction

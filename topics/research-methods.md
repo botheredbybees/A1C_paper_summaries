@@ -5,6 +5,7 @@ slug: research-methods-in-healthcare-evaluation
 sources:
   - fxa100-week04-an-introduction-to-research
   - fxa100-week11-lesson-fxa100-week11-page-4-week-10-activities
+  - fxa301-applied-artes-and-health-ch01-2021-graff
   - fxa301-arts-in-health-ch29-4-invite-open-responses
   - fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision
   - fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision-(2)
@@ -26,7 +27,7 @@ tags:
 - research-methods
 title: Research Methods in Healthcare Evaluation
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Research Methods in Healthcare Evaluation
@@ -47,6 +48,7 @@ The sources collectively emphasize the importance of various research methodolog
 
 - [fxa100-week04-an-introduction-to-research](../sources/fxa100-week04-an-introduction-to-research.md)
 - [fxa100-week11-lesson-fxa100-week11-page-4-week-10-activities](../sources/fxa100-week11-lesson-fxa100-week11-page-4-week-10-activities.md)
+- [fxa301-applied-artes-and-health-ch01-2021-graff](../sources/fxa301-applied-artes-and-health-ch01-2021-graff.md)
 - [fxa301-arts-in-health-ch29-4-invite-open-responses](../sources/fxa301-arts-in-health-ch29-4-invite-open-responses.md)
 - [fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision](../sources/fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision.md)
 - [fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision-(2)](../sources/fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision-(2).md)

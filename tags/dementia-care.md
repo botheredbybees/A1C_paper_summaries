@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dementia-care
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Dementia Care
@@ -171,6 +171,13 @@ updated: 2026-05-11
 - [The Emotional Response to Social Dancing and Walks in Persons With Dementia](../sources/fxa100-week11-the-emotional-response-to-social-dancing-and-walks-in.md)
 - [The Social Emotional Context of Dementia Care](../sources/fxa100-week11-transcript-youtube-tyf9-zkdrc8.md)
 - [Week 11 Lecture: Benefits of Dance and Movement for People with Dementia](../sources/fxa100-week11-week-11-lecture-benefits-of-dance-and-movement-for-people.md)
+- [A snapshot of Italian nursing homes for people with dementia: A national survey](../sources/fxa100-week13-a-snapshot-of-italian-nursing-homes-for-people-with.md)
+- [Dance-Specific Activity in People Living With Dementia: A Conceptual Framework and Systematic Review of Its Effects on Neuropsychiatric Symptoms](../sources/fxa100-week13-dance-specific-activity-in-people-living-with-dementia-a.md)
+- [Dancing as a psychosocial intervention in care homes: a systematic review of the literature](../sources/fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a.md)
+- [Emotion Work in Caregiving: The Role of Technology to Support Informal Caregivers of Persons Living With Dementia](../sources/fxa100-week13-emotion-work-in-caregiving-the-role-of-technology-to.md)
+- [Measuring the care risk in older adults with dementia: a scoping review](../sources/fxa100-week13-measuring-the-care-risk-in-older-adults-with-dementia-a.md)
+- [Music Interventions for People with Dementia: A Review of the Literature](../sources/fxa100-week13-music-interventions-for-people-with-dementia-a-review-of.md)
+- [Non-pharmacological Interventions to Reduce Behavioral and Psychological Symptoms of Dementia](../sources/fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and.md)
 - [Critical Reflection on '28 Solomon Street': A Photo Essay](../sources/fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay.md)
 - [Apples Never Fall: Exploring the Role of Food in Family Wellbeing and Memory through Therapeutic Photography](../sources/fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family.md)
 - [Does a Model Exist?](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment.md)
@@ -180,3 +187,22 @@ updated: 2026-05-11
 - [Strategies for diversity: medical clowns in dementia care - an ethnographic study](../sources/fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an.md)
 - [Therapeutic Clowning](../sources/fxa303-week08-therapeutic-clowning.md)
 - [Role of art centres for Aboriginal Australians living with dementia in remote communities](../sources/fxa303-week10-role-of-art-centres-for-aboriginal-australians-living-with.md)
+- [Application of cognitive stimulation in the care of institutionalized elderly people with dementia](../sources/fxa303-week13-application-of-cognitive-stimulation-in-the-care-of.md)
+- [Causes of nursing home placement for older people with dementia: a systematic review and meta-analysis](../sources/fxa303-week13-causes-of-nursing-home-placement-for-older-people-with.md)
+- [Der Demenz-Clown: Ein Konzept zur Kultivierung von Humor und Heiterkeit in der Demenzpflege](../sources/fxa303-week13-der-demenz-clown-ein-konzept-zur-kultivierung-von-humor-und.md)
+- [Elder-clowning in long-term dementia care: Results of a pilot study](../sources/fxa303-week13-elder-clowning-in-long-term-dementia-care-results-of-a.md)
+- [Engagement in Persons With Dementia: The Concept and Its Measurement](../sources/fxa303-week13-engagement-in-persons-with-dementia-the-concept-and-its.md)
+- [Evaluation of Cognitive Stimulation Therapy for People With Dementia](../sources/fxa303-week13-evaluation-of-cognitive-stimulation-therapy-for-people-with.md)
+- [Improving Collaboration Between Staff, Family Members, and Artists in Long-Term Dementia Care: A Participatory Action Research Project Into Health Care Clowning](../sources/fxa303-week13-improving-collaboration-between-staff-family-members-and.md)
+- [Intervention of companion clowns in a special care unit: a 1-year pilot study](../sources/fxa303-week13-intervention-of-companion-clowns-in-a-special-care-unit-a-1.md)
+- [Non-pharmacological interventions for agitation in dementia: systematic review of randomised controlled trials](../sources/fxa303-week13-non-pharmacological-interventions-for-agitation-in-dementia.md)
+- ['Our role is to listen more than entertain': A qualitative study of techniques used by Laughter Care Specialists with people who have dementia in long-term care](../sources/fxa303-week13-our-role-is-to-listen-more-than-entertain-a-qualitative.md)
+- [\u201cPlay\u201d and People Living With Dementia: A Humanities-Based Inquiry of TimeSlips and the Alzheimer\u2019s Poetry Project](../sources/fxa303-week13-play-and-people-living-with-dementia-a-humanities-based.md)
+- [Remembering Yesterday, Caring Today: Reminiscence in Dementia Care](../sources/fxa303-week13-remembering-yesterday-caring-today-reminiscence-in-dementia.md)
+- [Rethinking musicality in dementia as embodied and relational](../sources/fxa303-week13-rethinking-musicality-in-dementia-as-embodied-and-relational.md)
+- [Routines of Resistance: An Ethnography of the Care of People Living with Dementia in Acute Hospital Wards and Its Consequences](../sources/fxa303-week13-routines-of-resistance-an-ethnography-of-the-care-of-people.md)
+- [SveDem, the Swedish Dementia Registry \u2013 A Tool for Improving the Quality of Diagnostics, Treatment and Care of Dementia Patients in Clinical Practice](../sources/fxa303-week13-svedem-the-swedish-dementia-registry-a-tool-for-improving.md)
+- [The Delivery of Person-Centered Care for People Living With Dementia in Residential Aged Care: A Systematic Review and Meta-Analysis](../sources/fxa303-week13-the-delivery-of-person-centered-care-for-people-living-with.md)
+- [The Effects of MARIO, a Social Robot, on the Resilience of People with Dementia: A Multiple Case Study](../sources/fxa303-week13-the-effects-of-mario-a-social-robot-on-the-resilience-of.md)
+- [The Value of Playwork for Care Home Residents Living With Dementia: A Pilot Study](../sources/fxa303-week13-the-value-of-playwork-for-care-home-residents-living-with.md)
+- [You\u2019re the only thing he comes out [of his room] for\u201d: A qualitative study of engagement between Laughter Care Specialists and families of people with dementia in long-term care](../sources/fxa303-week13-youre-the-only-thing-he-comes-out-of-his-room-for-a.md)

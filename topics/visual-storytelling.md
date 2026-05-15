@@ -26,6 +26,8 @@ sources:
   - fxa202-week09-the-largs-pier-a-visual-story-of-grief-and-healing
   - fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2)
   - fxa202-week10-my-daddy-and-me-navigating-the-japanese-gardens-at-the
+  - fxa202-week13-exploring-the-psychological-impact-of-narrative-photography
+  - fxa202-week13-smartphone-photography-training-for-students-of-ma-aisyiyah
 - fxa202-week01-lesson-fxa202-week01-chapter-3-what-is-a-photo-essay
 - fxa202-week01-lesson-fxa202-week01-week-1
 - fxa202-week01-week-1-lecture-transcript
@@ -53,7 +55,7 @@ tags:
 - visual-storytelling
 title: Visual Storytelling in Photography
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Visual Storytelling in Photography
@@ -95,3 +97,5 @@ The provided sources collectively explore the rich narrative potential of visual
 - [fxa202-week09-the-largs-pier-a-visual-story-of-grief-and-healing](../sources/fxa202-week09-the-largs-pier-a-visual-story-of-grief-and-healing.md)
 - [fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2)](../sources/fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2).md)
 - [fxa202-week10-my-daddy-and-me-navigating-the-japanese-gardens-at-the](../sources/fxa202-week10-my-daddy-and-me-navigating-the-japanese-gardens-at-the.md)
+- [fxa202-week13-exploring-the-psychological-impact-of-narrative-photography](../sources/fxa202-week13-exploring-the-psychological-impact-of-narrative-photography.md)
+- [fxa202-week13-smartphone-photography-training-for-students-of-ma-aisyiyah](../sources/fxa202-week13-smartphone-photography-training-for-students-of-ma-aisyiyah.md)

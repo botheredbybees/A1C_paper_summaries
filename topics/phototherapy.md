@@ -3,6 +3,9 @@ confidence: high
 domain: intervention
 slug: phototherapy-and-therapeutic-photography
 sources:
+  - fxa202-week13-inhabiting-the-image-photography-therapy-and-re-enactment
+  - fxa202-week13-phototherapy-to-increase-self-compassion-in-college-students
+  - fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2)
 - fxa202-week03-lesson-fxa202-week03-week-3
 - fxa202-week08-photography-as-self-therapy-an-introduction-for-beginners
 - fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography
@@ -11,7 +14,7 @@ tags:
 - phototherapy
 title: Phototherapy and Therapeutic Photography
 type: topic
-updated: 2026-05-04
+updated: 2026-05-15
 ---
 
 ## Phototherapy and Therapeutic Photography
@@ -30,7 +33,6 @@ The concept of using photography as a therapeutic tool, known as Phototherapy or
 
 ## Sources
 
-- [fxa202-week03-lesson-fxa202-week03-week-3](../sources/fxa202-week03-lesson-fxa202-week03-week-3.md)
-- [fxa202-week08-photography-as-self-therapy-an-introduction-for-beginners](../sources/fxa202-week08-photography-as-self-therapy-an-introduction-for-beginners.md)
-- [fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography](../sources/fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography.md)
-- [fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay](../sources/fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay.md)
+- [fxa202-week13-inhabiting-the-image-photography-therapy-and-re-enactment](../sources/fxa202-week13-inhabiting-the-image-photography-therapy-and-re-enactment.md)
+- [fxa202-week13-phototherapy-to-increase-self-compassion-in-college-students](../sources/fxa202-week13-phototherapy-to-increase-self-compassion-in-college-students.md)
+- [fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2)](../sources/fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2).md)

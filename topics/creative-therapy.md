@@ -6,6 +6,7 @@ sources:
   - fxa100-creativity-and-communication-ch10-20-drilling-down-to-the-detail-once-you-have-established
   - fxa100-week08-creativity-and-communication-in-persons-with-dementia
   - fxa202-week10-critical-reflection-my-photo-essay
+  - fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography
   - fxa303-week06-creative-puppet-therapy-reduces-hallucinations-in-patients
 - fxa100-creativity-and-communication-ch10-20-drilling-down-to-the-detail-once-you-have-established
 - fxa100-week08-creativity-and-communication-in-persons-with-dementia
@@ -15,7 +16,7 @@ tags:
 - creative-therapy
 title: Creative Therapy
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Creative Therapy
@@ -37,4 +38,5 @@ Creative therapy is an innovative approach to enhancing self-expression and comm
 - [fxa100-creativity-and-communication-ch10-20-drilling-down-to-the-detail-once-you-have-established](../sources/fxa100-creativity-and-communication-ch10-20-drilling-down-to-the-detail-once-you-have-established.md)
 - [fxa100-week08-creativity-and-communication-in-persons-with-dementia](../sources/fxa100-week08-creativity-and-communication-in-persons-with-dementia.md)
 - [fxa202-week10-critical-reflection-my-photo-essay](../sources/fxa202-week10-critical-reflection-my-photo-essay.md)
+- [fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography](../sources/fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography.md)
 - [fxa303-week06-creative-puppet-therapy-reduces-hallucinations-in-patients](../sources/fxa303-week06-creative-puppet-therapy-reduces-hallucinations-in-patients.md)

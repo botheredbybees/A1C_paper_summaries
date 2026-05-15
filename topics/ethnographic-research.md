@@ -8,6 +8,7 @@ sources:
   - fxa301-week06-san-trance-dance-embodied-experience-and-neurological
   - fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an
   - fxa303-week11-using-and-abusing-the-arts-with-at-risk-youth
+  - fxa303-week13-routines-of-resistance-an-ethnography-of-the-care-of-people
 - fxa301-make-arts-for-a-better-life-ch11-4-you-and-the-community-have-stepped-through
 - fxa301-week01-music-and-meaning-in-community-contexts
 - fxa301-week06-san-trance-dance-embodied-experience-and-neurological
@@ -16,7 +17,7 @@ tags:
 - ethnographic-research
 title: Ethnographic Research Methods
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Ethnographic Research Methods
@@ -40,3 +41,4 @@ The sources coalesce around the core concept of ethnography as a means to explor
 - [fxa301-week06-san-trance-dance-embodied-experience-and-neurological](../sources/fxa301-week06-san-trance-dance-embodied-experience-and-neurological.md)
 - [fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an](../sources/fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an.md)
 - [fxa303-week11-using-and-abusing-the-arts-with-at-risk-youth](../sources/fxa303-week11-using-and-abusing-the-arts-with-at-risk-youth.md)
+- [fxa303-week13-routines-of-resistance-an-ethnography-of-the-care-of-people](../sources/fxa303-week13-routines-of-resistance-an-ethnography-of-the-care-of-people.md)

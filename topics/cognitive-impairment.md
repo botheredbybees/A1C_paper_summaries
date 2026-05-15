@@ -5,13 +5,15 @@ slug: cognitive-impairment-in-dementia
 sources:
   - fxa100-week01-living-with-dementia-12-what-is-vascular-dementia
   - fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers
+  - fxa303-week13-activity-activity-personalization-and-well-being-in-nursing
+  - fxa303-week13-psychiatric-illness-predicts-poor-outcome-after-surgery-for
 - fxa100-week01-living-with-dementia-12-what-is-vascular-dementia
 - fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers
 tags:
 - cognitive-impairment
 title: Cognitive Impairment in Dementia
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Cognitive Impairment in Dementia
@@ -31,3 +33,5 @@ The sources provide insights into different aspects of cognitive impairment, par
 
 - [fxa100-week01-living-with-dementia-12-what-is-vascular-dementia](../sources/fxa100-week01-living-with-dementia-12-what-is-vascular-dementia.md)
 - [fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers](../sources/fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers.md)
+- [fxa303-week13-activity-activity-personalization-and-well-being-in-nursing](../sources/fxa303-week13-activity-activity-personalization-and-well-being-in-nursing.md)
+- [fxa303-week13-psychiatric-illness-predicts-poor-outcome-after-surgery-for](../sources/fxa303-week13-psychiatric-illness-predicts-poor-outcome-after-surgery-for.md)

@@ -1,13 +1,14 @@
 ---
 type: tag
 tag: emotional-expression
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Emotional Expression
 
 - [The Body as the Articulation of Meaning in Dementia Care](../sources/fxa100-how-we-thnk-about-dementia-ch15-chapter-9.md)
 - [Singing and Participation](../sources/fxa100-week04-singing-and-participation.md)
+- [The Handbook of Phototherapy and Therapeutic Photography](../sources/fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography.md)
 - [Current Emotion Research in Music Psychology](../sources/fxa301-week02-current-emotion-research-in-music-psychology.md)
 - [Emotional expression through puppetry](../sources/fxa303-week06-emotional-expression-through-puppetry.md)
 - [Mr. Fox Is Sad](../sources/fxa303-week06-mr-fox-is-sad.md)

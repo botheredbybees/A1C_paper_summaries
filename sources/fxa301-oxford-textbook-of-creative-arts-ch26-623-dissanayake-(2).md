@@ -11,7 +11,7 @@ tags: ["cultural-activities", "health-outcomes", "music-cognition", "fxa301"]
 key_concepts: ["psychological well-being", "cognitive development", "longevity"]
 methods: []
 slug: fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2)
-related: ["cultural-activities", "health-outcomes"]
+related: ["cultural-activities", "health-outcomes", "music-cognition"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,3 +43,4 @@ This chapter discusses the relationship between cultural activities such as atte
 
 - [cultural-activities](../topics/cultural-activities.md)
 - [health-outcomes](../topics/health-outcomes.md)
+- [music-cognition](../topics/music-cognition.md)

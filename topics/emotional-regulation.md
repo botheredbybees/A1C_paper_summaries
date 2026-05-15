@@ -3,6 +3,7 @@ confidence: high
 domain: intervention
 slug: emotional-regulation
 sources:
+  - fxa100-week13-dance-movement-therapy-improves-emotional-responses-and
   - fxa301-week02-the-brain-and-how-we-perceive-information
   - fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and
   - fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd
@@ -24,7 +25,7 @@ tags:
 - emotional-regulation
 title: Emotional Regulation
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Emotional Regulation
@@ -43,6 +44,7 @@ The synthesis integrates various aspects of emotional regulation across diverse 
 
 ## Sources
 
+- [fxa100-week13-dance-movement-therapy-improves-emotional-responses-and](../sources/fxa100-week13-dance-movement-therapy-improves-emotional-responses-and.md)
 - [fxa301-week02-the-brain-and-how-we-perceive-information](../sources/fxa301-week02-the-brain-and-how-we-perceive-information.md)
 - [fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and](../sources/fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and.md)
 - [fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd](../sources/fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd.md)

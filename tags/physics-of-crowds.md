@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: physics-of-crowds
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Physics Of Crowds

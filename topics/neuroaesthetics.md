@@ -11,6 +11,7 @@ sources:
   - fxa100-week06-visual-arts-and-the-brain
   - fxa100-week06-web-article-tucker-2012
   - fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the
+  - fxa100-week13-anatomically-distinct-dopamine-release-during-anticipation
   - fxa301-bridging-the-creative-arts-therapies-ch01-1-essential
   - fxa301-week01-week-2-introduction-fxa301-arts-in-the-community
   - fxa301-week02-lecture-on-perception-of-the-arts
@@ -31,7 +32,7 @@ tags:
 - neuroaesthetics
 title: Neuroaesthetics
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Neuroaesthetics
@@ -58,6 +59,7 @@ Neuroaesthetics explores the neural underpinnings of human engagement with art a
 - [fxa100-week06-visual-arts-and-the-brain](../sources/fxa100-week06-visual-arts-and-the-brain.md)
 - [fxa100-week06-web-article-tucker-2012](../sources/fxa100-week06-web-article-tucker-2012.md)
 - [fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the](../sources/fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the.md)
+- [fxa100-week13-anatomically-distinct-dopamine-release-during-anticipation](../sources/fxa100-week13-anatomically-distinct-dopamine-release-during-anticipation.md)
 - [fxa301-bridging-the-creative-arts-therapies-ch01-1-essential](../sources/fxa301-bridging-the-creative-arts-therapies-ch01-1-essential.md)
 - [fxa301-week01-week-2-introduction-fxa301-arts-in-the-community](../sources/fxa301-week01-week-2-introduction-fxa301-arts-in-the-community.md)
 - [fxa301-week02-lecture-on-perception-of-the-arts](../sources/fxa301-week02-lecture-on-perception-of-the-arts.md)

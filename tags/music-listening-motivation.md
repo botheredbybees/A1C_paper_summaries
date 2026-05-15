@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-listening-motivation
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Music Listening Motivation

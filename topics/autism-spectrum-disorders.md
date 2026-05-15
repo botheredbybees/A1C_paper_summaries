@@ -3,6 +3,7 @@ confidence: high
 domain: intervention
 slug: therapeutic-interventions-for-autism-spectrum-disorders
 sources:
+  - fxa202-week13-different-but-connected-participatory-action-research-using
   - fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between
   - fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for
   - fxa303-week04-exploring-change-in-childrens-and-art-therapists-behavior
@@ -17,7 +18,7 @@ tags:
 - autism-spectrum-disorders
 title: Therapeutic Interventions for Autism Spectrum Disorders
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Therapeutic Interventions for Autism Spectrum Disorders
@@ -36,6 +37,7 @@ Research on autism spectrum disorders (ASD) highlights the efficacy of various t
 
 ## Sources
 
+- [fxa202-week13-different-but-connected-participatory-action-research-using](../sources/fxa202-week13-different-but-connected-participatory-action-research-using.md)
 - [fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between](../sources/fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between.md)
 - [fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for](../sources/fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for.md)
 - [fxa303-week04-exploring-change-in-childrens-and-art-therapists-behavior](../sources/fxa303-week04-exploring-change-in-childrens-and-art-therapists-behavior.md)

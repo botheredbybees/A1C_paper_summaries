@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: health-measurement
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Health Measurement

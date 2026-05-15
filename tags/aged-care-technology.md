@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: aged-care-technology
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Aged Care Technology

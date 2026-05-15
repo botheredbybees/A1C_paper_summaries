@@ -3,6 +3,7 @@ confidence: medium
 domain: theory
 slug: autism-spectrum-disorders
 sources:
+  - fxa100-week13-a-pilot-randomized-controlled-clinical-trial-of-dance
   - fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on
   - fxa303-week04-neurobiology-of-autism-spectrum-disorders
 - fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on
@@ -11,7 +12,7 @@ tags:
 - autism-research
 title: Autism Spectrum Disorders
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Autism Spectrum Disorders
@@ -30,5 +31,6 @@ The exploration of autism spectrum disorders (ASD) reveals a complex interplay b
 
 ## Sources
 
+- [fxa100-week13-a-pilot-randomized-controlled-clinical-trial-of-dance](../sources/fxa100-week13-a-pilot-randomized-controlled-clinical-trial-of-dance.md)
 - [fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on](../sources/fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on.md)
 - [fxa303-week04-neurobiology-of-autism-spectrum-disorders](../sources/fxa303-week04-neurobiology-of-autism-spectrum-disorders.md)

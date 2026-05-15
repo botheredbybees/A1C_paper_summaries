@@ -11,7 +11,7 @@ tags: ["youth-mental-health", "arts-interventions", "global-health", "cultural-p
 key_concepts: ["arts-based-strategies", "local-cultural-practices", "core-outcome-measures"]
 methods: ["systematic-review"]
 slug: fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a
-related: ["arts-interventions", "community-engagement", "cultural-practices", "youth-mental-health"]
+related: ["arts-interventions", "community-engagement", "cultural-practices", "global-health", "youth-mental-health"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,4 +46,5 @@ This article discusses the growing global crisis of youth mental health, emphasi
 - [arts-interventions](../topics/arts-interventions.md)
 - [community-engagement](../topics/community-engagement.md)
 - [cultural-practices](../topics/cultural-practices.md)
+- [global-health](../topics/global-health.md)
 - [youth-mental-health](../topics/youth-mental-health.md)

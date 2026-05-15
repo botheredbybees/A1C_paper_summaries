@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: speech-pathology-practice
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Speech Pathology Practice

@@ -5,6 +5,9 @@ slug: health-outcomes-of-arts-programs
 sources:
   - fxa100-week03-implementation-survey-results-phase-iii-music-memory-program
   - fxa100-week04-the-perceived-benefits-of-singing-findings-from-preliminary
+  - fxa100-week13-can-arts-based-interventions-improve-health-a-conceptual
+  - fxa100-week13-health-benefits-of-physical-activity-a-systematic-review-of
+  - fxa100-week13-measuring-the-care-risk-in-older-adults-with-dementia-a
   - fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake
   - fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2)
   - fxa301-week01-a-step-by-step-approach-to-the-research-process
@@ -36,7 +39,7 @@ tags:
 - health-outcomes
 title: Health Outcomes of Arts Programs
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Health Outcomes of Arts Programs
@@ -57,6 +60,9 @@ The provided sources illustrate the impact of arts-based interventions on health
 
 - [fxa100-week03-implementation-survey-results-phase-iii-music-memory-program](../sources/fxa100-week03-implementation-survey-results-phase-iii-music-memory-program.md)
 - [fxa100-week04-the-perceived-benefits-of-singing-findings-from-preliminary](../sources/fxa100-week04-the-perceived-benefits-of-singing-findings-from-preliminary.md)
+- [fxa100-week13-can-arts-based-interventions-improve-health-a-conceptual](../sources/fxa100-week13-can-arts-based-interventions-improve-health-a-conceptual.md)
+- [fxa100-week13-health-benefits-of-physical-activity-a-systematic-review-of](../sources/fxa100-week13-health-benefits-of-physical-activity-a-systematic-review-of.md)
+- [fxa100-week13-measuring-the-care-risk-in-older-adults-with-dementia-a](../sources/fxa100-week13-measuring-the-care-risk-in-older-adults-with-dementia-a.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake](../sources/fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2).md)
 - [fxa301-week01-a-step-by-step-approach-to-the-research-process](../sources/fxa301-week01-a-step-by-step-approach-to-the-research-process.md)

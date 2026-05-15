@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: transitional-spaces
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Transitional Spaces

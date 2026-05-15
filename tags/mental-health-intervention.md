@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-health-intervention
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Mental Health Intervention

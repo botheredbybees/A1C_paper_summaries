@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotional-response-measurement
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Emotional Response Measurement

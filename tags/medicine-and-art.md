@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: medicine-and-art
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Medicine And Art

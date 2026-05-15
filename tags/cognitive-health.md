@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-health
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Cognitive Health

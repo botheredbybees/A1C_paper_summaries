@@ -3,6 +3,7 @@ confidence: medium
 domain: intervention
 slug: patient-experience-in-healthcare-interventions
 sources:
+  - fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative
   - fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and
   - fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults
   - fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent
@@ -13,7 +14,7 @@ tags:
 - patient-experience
 title: Patient Experience in Healthcare Interventions
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Patient Experience in Healthcare Interventions
@@ -32,6 +33,7 @@ The exploration of various healthcare interventions aimed at enhancing the quali
 
 ## Sources
 
+- [fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative](../sources/fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative.md)
 - [fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and](../sources/fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and.md)
 - [fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults](../sources/fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults.md)
 - [fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent](../sources/fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent.md)

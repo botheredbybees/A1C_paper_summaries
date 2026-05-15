@@ -11,7 +11,7 @@ tags: ["museum-accessibility", "visual-impairment", "inclusive-design", "cultura
 key_concepts: ["audio-guides", "multisensory-experience", "3d-printing-vr"]
 methods: ["case-study"]
 slug: fxa301-week11-best-practice-in-making-museums-more-accessible-to-visually
-related: ["cultural-participation", "inclusive-design", "museum-accessibility", "tactile-exhibits"]
+related: ["cultural-participation", "inclusive-design", "museum-accessibility", "tactile-exhibits", "visual-impairment"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -55,3 +55,4 @@ The article also underscores the role of human guides and docents who provide in
 - [inclusive-design](../topics/inclusive-design.md)
 - [museum-accessibility](../topics/museum-accessibility.md)
 - [tactile-exhibits](../topics/tactile-exhibits.md)
+- [visual-impairment](../topics/visual-impairment.md)

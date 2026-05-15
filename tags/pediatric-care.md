@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: pediatric-care
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Pediatric Care
@@ -14,3 +14,4 @@ updated: 2026-05-11
 - [More than just clowns \u2013 Clown Doctor rounds and their impact for children, families and staff](../sources/fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact.md)
 - [The Life Threatened Child and the Life Enhancing Clown: Towards a Model of Therapeutic Clowning](../sources/fxa303-week08-the-life-threatened-child-and-the-life-enhancing-clown.md)
 - [Therapeutic clowning in paediatric practice](../sources/fxa303-week08-therapeutic-clowning-in-paediatric-practice.md)
+- [Therapeutic clowns in pediatrics: a systematic review and meta-analysis of randomized controlled trials](../sources/fxa303-week13-therapeutic-clowns-in-pediatrics-a-systematic-review-and.md)

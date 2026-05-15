@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: operatic-performance
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Operatic Performance

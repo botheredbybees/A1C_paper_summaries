@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: artistic-process
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Artistic Process

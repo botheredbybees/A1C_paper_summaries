@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: literature-impact
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Literature Impact

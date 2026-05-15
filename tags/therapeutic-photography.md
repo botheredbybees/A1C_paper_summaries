@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-photography
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Therapeutic Photography
@@ -21,3 +21,7 @@ updated: 2026-05-11
 - [Week 8 Lecture Notes: Editing Your Images](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images.md)
 - [Week 8 Lecture Notes: Editing Your Images](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images-(2).md)
 - [Reimagining Trauma Through Therapeutic Self Portraiture](../sources/fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture.md)
+- [It fostered a greater appreciation for my little corner of the world](../sources/fxa202-week13-it-fostered-a-greater-appreciation-for-my-little-corner-of.md)
+- ['Taking Pictures is Like Treasure Hunting': Exploring the Therapeutic Value of Photography as a Qualitative Research Method](../sources/fxa202-week13-taking-pictures-is-like-treasure-hunting-exploring-the.md)
+- [The Handbook of Phototherapy and Therapeutic Photography](../sources/fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography.md)
+- [The handbook of phototherapy and therapeutic photography: For the professional and activist client](../sources/fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2).md)

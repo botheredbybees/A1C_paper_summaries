@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: workshop-facilitation
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Workshop Facilitation

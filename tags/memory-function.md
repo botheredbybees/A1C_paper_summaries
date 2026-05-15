@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: memory-function
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Memory Function

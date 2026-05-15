@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: health-policy
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Health Policy
@@ -14,3 +14,4 @@ updated: 2026-05-11
 - [Activities for Week 3 - FXA301 Arts in the Community](../sources/fxa301-week03-lesson-fxa301-week03-page-4-week-3-activities.md)
 - [Creative Health Review: How Policy Can Embrace Creative Health](../sources/fxa301-week03-web-article-national-2024.md)
 - [Reclaiming Indigenous Health in the US: Moving beyond the Social Determinants of Health](../sources/fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the.md)
+- [SveDem, the Swedish Dementia Registry \u2013 A Tool for Improving the Quality of Diagnostics, Treatment and Care of Dementia Patients in Clinical Practice](../sources/fxa303-week13-svedem-the-swedish-dementia-registry-a-tool-for-improving.md)

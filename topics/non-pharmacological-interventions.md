@@ -3,13 +3,20 @@ confidence: medium
 domain: intervention
 slug: non-pharmacological-interventions
 sources:
+  - fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and
+  - fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in
+  - fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic
+  - fxa303-week13-
+  - fxa303-week13-a-systematic-review-of-non-pharmacological-interventions
+  - fxa303-week13-non-pharmacological-interventions-for-agitation-in-dementia
+  - fxa303-week13-rethinking-musicality-in-dementia-as-embodied-and-relational
 - fxa100-week07-interventions-dementia-services-information-and-development
 - fxa100-week07-lesson-fxa100-week07-page-4-activities
 tags:
 - non-pharmacological-interventions
 title: Non-pharmacological Interventions
 type: topic
-updated: 2026-05-04
+updated: 2026-05-15
 ---
 
 ## Non-pharmacological Interventions
@@ -28,5 +35,10 @@ The sources highlight the importance of non-pharmacological interventions in dem
 
 ## Sources
 
-- [fxa100-week07-interventions-dementia-services-information-and-development](../sources/fxa100-week07-interventions-dementia-services-information-and-development.md)
-- [fxa100-week07-lesson-fxa100-week07-page-4-activities](../sources/fxa100-week07-lesson-fxa100-week07-page-4-activities.md)
+- [fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and](../sources/fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and.md)
+- [fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in](../sources/fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in.md)
+- [fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic](../sources/fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic.md)
+- [fxa303-week13-](../sources/fxa303-week13-.md)
+- [fxa303-week13-a-systematic-review-of-non-pharmacological-interventions](../sources/fxa303-week13-a-systematic-review-of-non-pharmacological-interventions.md)
+- [fxa303-week13-non-pharmacological-interventions-for-agitation-in-dementia](../sources/fxa303-week13-non-pharmacological-interventions-for-agitation-in-dementia.md)
+- [fxa303-week13-rethinking-musicality-in-dementia-as-embodied-and-relational](../sources/fxa303-week13-rethinking-musicality-in-dementia-as-embodied-and-relational.md)

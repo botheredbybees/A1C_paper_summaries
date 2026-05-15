@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: research-quality
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Research Quality

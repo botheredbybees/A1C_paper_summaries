@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: systematic-review
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Systematic Review
@@ -10,6 +10,12 @@ updated: 2026-05-11
 - [Dance movement therapy for dementia](../sources/fxa100-week09-dance-movement-therapy-for-dementia.md)
 - [Key components of person-centered care for people with dementia: A systematic review of interventions to design a patient preference study](../sources/fxa100-week09-key-components-of-person-centered-care-for-people-with.md)
 - [Key Intervention Categories to Provide Person-Centered Dementia Care: A Systematic Review of Person-Centered Interventions](../sources/fxa100-week09-key-intervention-categories-to-provide-person-centered.md)
+- [Applicability and Effects of Physical Exercise on Physical and Cognitive Functions and Activities of Daily Living Among People With Dementia](../sources/fxa100-week13-applicability-and-effects-of-physical-exercise-on-physical.md)
+- [Dance therapy as an intervention for stress and depression: a systematic review and meta-analysis](../sources/fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression.md)
+- [Dancing as a psychosocial intervention in care homes: a systematic review of the literature](../sources/fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a.md)
+- [Group Arts Interventions for Depression and Anxiety Among Older Adults: A Systematic Review and Meta-Analysis](../sources/fxa100-week13-group-arts-interventions-for-depression-and-anxiety-among.md)
+- [Health benefits of physical activity: a systematic review of current systematic reviews](../sources/fxa100-week13-health-benefits-of-physical-activity-a-systematic-review-of.md)
+- [Therapeutic benefits and limitations of participatory photography for adults with mental health problems: A systematic search and literature review](../sources/fxa202-week13-therapeutic-benefits-and-limitations-of-participatory.md)
 - [Rating the Quality of a Body of Evidence on the Effectiveness of Health and Social Interventions: A Systematic Review and Mapping of Evidence Domains](../sources/fxa301-week01-rating-the-quality-of-a-body-of-evidence-on-the.md)
 - [Revised Cochrane risk of bias tool for randomized trials (RoB 2) \u2014 Additional considerations for crossover trials](../sources/fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-(2).md)
 - [ROB-ME: a tool for assessing risk of bias due to missing evidence in systematic reviews with meta-analysis](../sources/fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing.md)
@@ -29,3 +35,10 @@ updated: 2026-05-11
 - [Clown therapy for procedural pain in children: a systematic review and meta-analysis](../sources/fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic.md)
 - [The Effectiveness of Art Therapy in the Treatment of Traumatized Adults: A Systematic Review on Art Therapy and Trauma](../sources/fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of.md)
 - [Creative arts therapies for the mental health of emerging adults: A systematic review](../sources/fxa303-week11-creative-arts-therapies-for-the-mental-health-of-emerging.md)
+- [Cognitive training and cognitive rehabilitation for mild to moderate Alzheimer's disease and vascular dementia](../sources/fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to.md)
+- [Dance Movement Therapy for Neurodegenerative Diseases: A Systematic Review](../sources/fxa303-week13-dance-movement-therapy-for-neurodegenerative-diseases-a.md)
+- [Humor Assessment and Interventions in Palliative Care: A Systematic Review](../sources/fxa303-week13-humor-assessment-and-interventions-in-palliative-care-a.md)
+- [Laughter and Humour Interventions for Well-being in Older Adults: A Systematic Review and Intervention Classification](../sources/fxa303-week13-laughter-and-humour-interventions-for-well-being-in-older.md)
+- [Organisational interventions for preventing and minimising aggression directed toward healthcare workers by patients and patient advocates](../sources/fxa303-week13-organisational-interventions-for-preventing-and-minimising.md)
+- [The Delivery of Person-Centered Care for People Living With Dementia in Residential Aged Care: A Systematic Review and Meta-Analysis](../sources/fxa303-week13-the-delivery-of-person-centered-care-for-people-living-with.md)
+- [Therapeutic clowns in pediatrics: a systematic review and meta-analysis of randomized controlled trials](../sources/fxa303-week13-therapeutic-clowns-in-pediatrics-a-systematic-review-and.md)

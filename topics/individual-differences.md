@@ -3,6 +3,7 @@ confidence: medium
 domain: population
 slug: individual-differences-in-aesthetic-and-emotional-experiences
 sources:
+  - fxa100-week13-what-works-for-whom-a-critical-review-of-psychotherapy
   - fxa301-week02-aesthetic-judgments-of-novel-graphic-patterns-analyses-of
   - fxa301-week02-emotions-during-live-music-performance-links-with
 - fxa301-week02-aesthetic-judgments-of-novel-graphic-patterns-analyses-of
@@ -11,7 +12,7 @@ tags:
 - individual-differences
 title: Individual Differences in Aesthetic and Emotional Experiences
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Individual Differences in Aesthetic and Emotional Experiences
@@ -30,5 +31,6 @@ The examination of individual differences reveals the diverse ways people percei
 
 ## Sources
 
+- [fxa100-week13-what-works-for-whom-a-critical-review-of-psychotherapy](../sources/fxa100-week13-what-works-for-whom-a-critical-review-of-psychotherapy.md)
 - [fxa301-week02-aesthetic-judgments-of-novel-graphic-patterns-analyses-of](../sources/fxa301-week02-aesthetic-judgments-of-novel-graphic-patterns-analyses-of.md)
 - [fxa301-week02-emotions-during-live-music-performance-links-with](../sources/fxa301-week02-emotions-during-live-music-performance-links-with.md)

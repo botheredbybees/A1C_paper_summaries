@@ -11,7 +11,7 @@ tags: ["dementia-care", "music-therapy", "recreational-activities", "agitation-m
 key_concepts: ["dementia", "music therapy", "agitation"]
 methods: ["randomised controlled trial"]
 slug: fxa100-week04-the-effect-of-music-therapy-compared-with-general
-related: ["dementia-care", "music-therapy"]
+related: ["agitation-management", "dementia-care", "music-therapy"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,5 +42,6 @@ This study compares the effects of music therapy with general recreational activ
 
 ## See Also
 
+- [agitation-management](../topics/agitation-management.md)
 - [dementia-care](../topics/dementia-care.md)
 - [music-therapy](../topics/music-therapy.md)

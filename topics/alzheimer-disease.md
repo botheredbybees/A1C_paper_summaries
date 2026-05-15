@@ -5,7 +5,12 @@ slug: alzheimer-s-disease
 sources:
   - fxa100-week01-what-is-alzheimers-disease-video-transcript
   - fxa100-week08-transcript-hayes-j-2011-the-creative-arts-in-dementia-care
+  - fxa100-week13-2018-alzheimers-disease-facts-and-figures
+  - fxa100-week13-effects-of-yoga-like-exercises-on-mild-and-moderate
+  - fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness
   - fxa303-week04-dsm-5-tr-neurocognitive-disorders-supplement
+  - fxa303-week13-
+  - fxa303-week13-distinct-mri-atrophy-patterns-in-autopsy-proven-alzheimers
 - fxa100-week01-what-is-alzheimers-disease-video-transcript
 - fxa100-week08-transcript-hayes-j-2011-the-creative-arts-in-dementia-care
 - fxa303-week04-dsm-5-tr-neurocognitive-disorders-supplement
@@ -13,7 +18,7 @@ tags:
 - alzheimer-disease
 title: Alzheimer's Disease
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Alzheimer's Disease
@@ -34,4 +39,9 @@ The exploration of Alzheimer's disease (AD) reveals its multifaceted nature, wit
 
 - [fxa100-week01-what-is-alzheimers-disease-video-transcript](../sources/fxa100-week01-what-is-alzheimers-disease-video-transcript.md)
 - [fxa100-week08-transcript-hayes-j-2011-the-creative-arts-in-dementia-care](../sources/fxa100-week08-transcript-hayes-j-2011-the-creative-arts-in-dementia-care.md)
+- [fxa100-week13-2018-alzheimers-disease-facts-and-figures](../sources/fxa100-week13-2018-alzheimers-disease-facts-and-figures.md)
+- [fxa100-week13-effects-of-yoga-like-exercises-on-mild-and-moderate](../sources/fxa100-week13-effects-of-yoga-like-exercises-on-mild-and-moderate.md)
+- [fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness](../sources/fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness.md)
 - [fxa303-week04-dsm-5-tr-neurocognitive-disorders-supplement](../sources/fxa303-week04-dsm-5-tr-neurocognitive-disorders-supplement.md)
+- [fxa303-week13-](../sources/fxa303-week13-.md)
+- [fxa303-week13-distinct-mri-atrophy-patterns-in-autopsy-proven-alzheimers](../sources/fxa303-week13-distinct-mri-atrophy-patterns-in-autopsy-proven-alzheimers.md)

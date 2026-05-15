@@ -11,7 +11,7 @@ tags: ["vascular-dementia", "cognitive-impairment", "brain-health", "neurology",
 key_concepts: ["vascular cognitive impairment", "small vessel disease", "mixed dementia"]
 methods: []
 slug: fxa100-week01-living-with-dementia-12-what-is-vascular-dementia
-related: ["brain-health", "cognitive-impairment", "neurology"]
+related: ["brain-health", "cognitive-impairment", "neurology", "vascular-dementia"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,3 +46,4 @@ This video transcript discusses vascular cognitive impairment and its progressio
 - [brain-health](../topics/brain-health.md)
 - [cognitive-impairment](../topics/cognitive-impairment.md)
 - [neurology](../topics/neurology.md)
+- [vascular-dementia](../topics/vascular-dementia.md)

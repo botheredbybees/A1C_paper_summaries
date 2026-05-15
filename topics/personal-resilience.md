@@ -5,13 +5,14 @@ slug: personal-resilience
 sources:
   - fxa202-week06-rediscovering-joy-during-lockdown
   - fxa202-week06-remembrance
+  - fxa303-play-for-health-across-the-lifespan-ch01-55-morris
 - fxa202-week06-rediscovering-joy-during-lockdown
 - fxa202-week06-remembrance
 tags:
 - personal-resilience
 title: Personal Resilience
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Personal Resilience
@@ -32,3 +33,4 @@ The concept of personal resilience emerges from two distinct yet complementary p
 
 - [fxa202-week06-rediscovering-joy-during-lockdown](../sources/fxa202-week06-rediscovering-joy-during-lockdown.md)
 - [fxa202-week06-remembrance](../sources/fxa202-week06-remembrance.md)
+- [fxa303-play-for-health-across-the-lifespan-ch01-55-morris](../sources/fxa303-play-for-health-across-the-lifespan-ch01-55-morris.md)

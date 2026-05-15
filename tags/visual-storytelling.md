@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-storytelling
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Visual Storytelling
@@ -29,3 +29,5 @@ updated: 2026-05-11
 - [The Largs Pier: A Visual Story of Grief and Healing](../sources/fxa202-week09-the-largs-pier-a-visual-story-of-grief-and-healing.md)
 - [Week 9 Lecture: Editing and Selection for Photo Essays](../sources/fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2).md)
 - [My daddy and me: Navigating the Japanese gardens at the Royal Tasmania Botanical Gardens](../sources/fxa202-week10-my-daddy-and-me-navigating-the-japanese-gardens-at-the.md)
+- [Exploring the Psychological Impact of Narrative Photography on Audience Engagement](../sources/fxa202-week13-exploring-the-psychological-impact-of-narrative-photography.md)
+- [Smartphone photography training for students of MA Aisyiyah Sungguminasa Gowa: Creating engaging visual content](../sources/fxa202-week13-smartphone-photography-training-for-students-of-ma-aisyiyah.md)

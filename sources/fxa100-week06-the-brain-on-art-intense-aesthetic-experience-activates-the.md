@@ -11,7 +11,7 @@ tags: ["neuroaesthetics", "brain-networks", "aesthetic-experience", "fmri-study"
 key_concepts: ["default mode network", "individual differences", "aesthetic ratings"]
 methods: ["functional magnetic resonance imaging", "behavioral analysis"]
 slug: fxa100-week06-the-brain-on-art-intense-aesthetic-experience-activates-the
-related: ["aesthetic-experience", "neuroaesthetics"]
+related: ["aesthetic-experience", "brain-networks", "neuroaesthetics"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,4 +45,5 @@ This research article investigates the neural basis of aesthetic experiences in 
 ## See Also
 
 - [aesthetic-experience](../topics/aesthetic-experience.md)
+- [brain-networks](../topics/brain-networks.md)
 - [neuroaesthetics](../topics/neuroaesthetics.md)

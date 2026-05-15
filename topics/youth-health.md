@@ -3,6 +3,7 @@ confidence: medium
 domain: intervention
 slug: youth-health-through-arts-and-dance
 sources:
+  - fxa100-week13-the-activities-specific-balance-confidence-abc-scale-in
   - fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and
   - fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and
 - fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and
@@ -11,7 +12,7 @@ tags:
 - youth-health
 title: Youth Health Through Arts and Dance
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Youth Health Through Arts and Dance
@@ -30,5 +31,6 @@ The integration of arts activities and dance as therapeutic interventions in you
 
 ## Sources
 
+- [fxa100-week13-the-activities-specific-balance-confidence-abc-scale-in](../sources/fxa100-week13-the-activities-specific-balance-confidence-abc-scale-in.md)
 - [fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and](../sources/fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and.md)
 - [fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and](../sources/fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and.md)

@@ -11,7 +11,7 @@ tags: ["laughter-health-benefits", "lifestyle-medicine", "humor-therapy", "fxa30
 key_concepts: ["spontaneous-laughter", "simulated-laughter", "motion-creates-emotion-theory"]
 methods: ["literature-review"]
 slug: fxa301-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
-related: ["lifestyle-medicine"]
+related: ["humor-therapy", "lifestyle-medicine"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,4 +41,5 @@ The article discusses the physiological and psychological benefits of laughter, 
 
 ## See Also
 
+- [humor-therapy](../topics/humor-therapy.md)
 - [lifestyle-medicine](../topics/lifestyle-medicine.md)

@@ -9,13 +9,14 @@ appearances:
     week: "01"
   - unit: FXA301
   - unit: FXA301
+  - unit: FXA301
 tags: ["arts-in-health", "research-methods", "intervention-research", "health-outcomes", "creative-practices", "fxa301"]
 key_concepts: ["research-design", "methodology-choice", "feasibility-assessment"]
 methods: ["qualitative-study", "quantitative-study", "mixed-methods"]
 slug: fxa301-week01-a-step-by-step-approach-to-the-research-process
 related: ["arts-in-health", "creative-practices", "health-outcomes", "research-methods"]
 created: 2026-05-05
-updated: 2026-05-06
+updated: 2026-05-15
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-week01-a-step-by-step-approach-to-the-research-process.md_

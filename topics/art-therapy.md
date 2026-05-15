@@ -27,11 +27,15 @@ sources:
   - fxa100-week08-transcript-youtube-l3cci-2kwkk
   - fxa100-week08-web-article-huebner-2012
   - fxa100-week08-week-8-lecture-art-therapy-in-dementia-care
+  - fxa100-week13-exploring-ethical-considerations-in-art-therapy
+  - fxa100-week13-the-future-of-art-therapy-in-mental-health-treatment
   - fxa202-week06-donna-a-photo-essay
   - fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health
   - fxa202-week10-identity-connection-and-motivation
   - fxa202-week10-introduction-art-therapy-and-creative-aging
   - fxa202-week10-the-reciprocal-influence-of-art-and-aging
+  - fxa202-week13-revisioning-self-identity-the-role-of-portraits
+  - fxa301-applied-artes-and-health-ch01-2021-graff
   - fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the
   - fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in
   - fxa301-week05-art-as-therapy
@@ -69,6 +73,7 @@ sources:
   - fxa303-week11-the-one-thing-that-actually-helps-art-creation-as-a-self
   - fxa303-week11-the-power-of-art-to-transform-and-restore
   - fxa303-week11-web-article-hardy-2019
+  - fxa303-week13-play-and-people-living-with-dementia-a-humanities-based
 - fxa100-week04-making-art-with-communities-a-work-guide
 - fxa100-week06-art-training-in-dementia-a-randomized-controlled-trial
 - fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual
@@ -135,7 +140,7 @@ tags:
 - art-therapy
 title: Art Therapy
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Art Therapy
@@ -178,11 +183,15 @@ The sources emphasize the broad application and benefits of Art Therapy across v
 - [fxa100-week08-transcript-youtube-l3cci-2kwkk](../sources/fxa100-week08-transcript-youtube-l3cci-2kwkk.md)
 - [fxa100-week08-web-article-huebner-2012](../sources/fxa100-week08-web-article-huebner-2012.md)
 - [fxa100-week08-week-8-lecture-art-therapy-in-dementia-care](../sources/fxa100-week08-week-8-lecture-art-therapy-in-dementia-care.md)
+- [fxa100-week13-exploring-ethical-considerations-in-art-therapy](../sources/fxa100-week13-exploring-ethical-considerations-in-art-therapy.md)
+- [fxa100-week13-the-future-of-art-therapy-in-mental-health-treatment](../sources/fxa100-week13-the-future-of-art-therapy-in-mental-health-treatment.md)
 - [fxa202-week06-donna-a-photo-essay](../sources/fxa202-week06-donna-a-photo-essay.md)
 - [fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health](../sources/fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health.md)
 - [fxa202-week10-identity-connection-and-motivation](../sources/fxa202-week10-identity-connection-and-motivation.md)
 - [fxa202-week10-introduction-art-therapy-and-creative-aging](../sources/fxa202-week10-introduction-art-therapy-and-creative-aging.md)
 - [fxa202-week10-the-reciprocal-influence-of-art-and-aging](../sources/fxa202-week10-the-reciprocal-influence-of-art-and-aging.md)
+- [fxa202-week13-revisioning-self-identity-the-role-of-portraits](../sources/fxa202-week13-revisioning-self-identity-the-role-of-portraits.md)
+- [fxa301-applied-artes-and-health-ch01-2021-graff](../sources/fxa301-applied-artes-and-health-ch01-2021-graff.md)
 - [fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the](../sources/fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the.md)
 - [fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in](../sources/fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in.md)
 - [fxa301-week05-art-as-therapy](../sources/fxa301-week05-art-as-therapy.md)
@@ -220,3 +229,4 @@ The sources emphasize the broad application and benefits of Art Therapy across v
 - [fxa303-week11-the-one-thing-that-actually-helps-art-creation-as-a-self](../sources/fxa303-week11-the-one-thing-that-actually-helps-art-creation-as-a-self.md)
 - [fxa303-week11-the-power-of-art-to-transform-and-restore](../sources/fxa303-week11-the-power-of-art-to-transform-and-restore.md)
 - [fxa303-week11-web-article-hardy-2019](../sources/fxa303-week11-web-article-hardy-2019.md)
+- [fxa303-week13-play-and-people-living-with-dementia-a-humanities-based](../sources/fxa303-week13-play-and-people-living-with-dementia-a-humanities-based.md)

@@ -1,13 +1,15 @@
 ---
 type: tag
 tag: child-psychology
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Child Psychology
 
 - [Puppet-Assisted Play Therapy](../sources/fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the.md)
+- [Introduction to Puppet-Assisted Play Therapy: Theory, Research, and Practice](../sources/fxa303-puppet-assisted-play-therapy-ch06-139-weedn.md)
 - [Puppet Play Therapy Techniques and Practical Guide](../sources/fxa303-puppet-play-therapy-ch08-6-posture-keep-your-arm-holding-the-puppet-at-a-right-angle.md)
+- [Puppet Play Therapy with Children of All Ages](../sources/fxa303-puppet-play-therapy-ch09-458-woltmann.md)
 - [PLAY THERAPY: Considerations and Applications for the Practitioner](../sources/fxa303-week01-play-therapy-considerations-and-applications-for-the.md)
 - [Dramatherapy for Children and Adolescents with Autism Spectrum Disorder: A Systematic Integrative Review](../sources/fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism.md)
 - [Art Therapy for Children with Autism Spectrum Disorders](../sources/fxa303-week04-transcript-duration-3-03.md)

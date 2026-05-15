@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: chronic-pain-management
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Chronic Pain Management

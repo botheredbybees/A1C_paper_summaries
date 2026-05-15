@@ -3,6 +3,7 @@ confidence: medium
 domain: intervention
 slug: mindfulness-practice-through-photography
 sources:
+  - fxa100-week13-effects-of-10-weeks-classical-chinese-dance-training-on
   - fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography
   - fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a
   - fxa202-week10-critical-reflection-my-photo-essay
@@ -13,7 +14,7 @@ tags:
 - mindfulness-practice
 title: Mindfulness Practice Through Photography
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Mindfulness Practice Through Photography
@@ -32,6 +33,7 @@ The integration of mindfulness practices with the act of photography reveals a u
 
 ## Sources
 
+- [fxa100-week13-effects-of-10-weeks-classical-chinese-dance-training-on](../sources/fxa100-week13-effects-of-10-weeks-classical-chinese-dance-training-on.md)
 - [fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography](../sources/fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography.md)
 - [fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a](../sources/fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a.md)
 - [fxa202-week10-critical-reflection-my-photo-essay](../sources/fxa202-week10-critical-reflection-my-photo-essay.md)

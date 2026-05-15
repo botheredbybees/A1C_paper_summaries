@@ -3,12 +3,14 @@ confidence: low
 domain: method
 slug: randomized-controlled-trials
 sources:
+  - fxa301-week01-an-introduction-to-research
+  - fxa303-week13-non-pharmacological-interventions-for-agitation-in-dementia
 - fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism
 tags:
 - randomized-controlled-trials
 title: Randomized Controlled Trials
 type: topic
-updated: 2026-05-04
+updated: 2026-05-15
 ---
 
 ## Randomized Controlled Trials
@@ -26,4 +28,5 @@ The utilization of Randomized Controlled Trials (RCTs) in evaluating interventio
 
 ## Sources
 
-- [fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism](../sources/fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism.md)
+- [fxa301-week01-an-introduction-to-research](../sources/fxa301-week01-an-introduction-to-research.md)
+- [fxa303-week13-non-pharmacological-interventions-for-agitation-in-dementia](../sources/fxa303-week13-non-pharmacological-interventions-for-agitation-in-dementia.md)

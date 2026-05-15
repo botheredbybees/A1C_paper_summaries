@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: autism-community
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Autism Community

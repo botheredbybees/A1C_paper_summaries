@@ -3,6 +3,8 @@ confidence: medium
 domain: theory
 slug: music-cognition
 sources:
+  - fxa100-week13-hearing-what-the-body-feels-auditory-encoding-of-rhythmic
+  - fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2)
 - fxa100-week02-hearing-and-music
 - fxa100-week03-experimental-evidence-for-synchronization-to-a-musical-beat
 - fxa100-week03-the-effects-of-music-on-the-brain-video-transcript
@@ -10,7 +12,7 @@ tags:
 - music-cognition
 title: Music Cognition
 type: topic
-updated: 2026-05-03
+updated: 2026-05-15
 ---
 
 ## Music Cognition
@@ -29,6 +31,5 @@ The exploration of music cognition through various sources reveals the intricate
 
 ## Sources
 
-- [fxa100-week02-hearing-and-music](../sources/fxa100-week02-hearing-and-music.md)
-- [fxa100-week03-experimental-evidence-for-synchronization-to-a-musical-beat](../sources/fxa100-week03-experimental-evidence-for-synchronization-to-a-musical-beat.md)
-- [fxa100-week03-the-effects-of-music-on-the-brain-video-transcript](../sources/fxa100-week03-the-effects-of-music-on-the-brain-video-transcript.md)
+- [fxa100-week13-hearing-what-the-body-feels-auditory-encoding-of-rhythmic](../sources/fxa100-week13-hearing-what-the-body-feels-auditory-encoding-of-rhythmic.md)
+- [fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2).md)

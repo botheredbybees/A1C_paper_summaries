@@ -3,6 +3,8 @@ confidence: high
 domain: intervention
 slug: neurological-disorders
 sources:
+  - fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care
+  - fxa303-week13-behavioral-and-psychological-symptoms-of-dementia
 - fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms
 - fxa100-week01-living-with-dementia-12-what-is-vascular-dementia
 - fxa100-week01-transcript-the-science-of-lewy-body-dementia
@@ -11,7 +13,7 @@ tags:
 - neurological-disorders
 title: Neurological Disorders
 type: topic
-updated: 2026-05-03
+updated: 2026-05-15
 ---
 
 ## Neurological Disorders
@@ -30,7 +32,5 @@ The provided sources collectively explore various aspects of dementia and its fo
 
 ## Sources
 
-- [fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms](../sources/fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms.md)
-- [fxa100-week01-living-with-dementia-12-what-is-vascular-dementia](../sources/fxa100-week01-living-with-dementia-12-what-is-vascular-dementia.md)
-- [fxa100-week01-transcript-the-science-of-lewy-body-dementia](../sources/fxa100-week01-transcript-the-science-of-lewy-body-dementia.md)
 - [fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care](../sources/fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care.md)
+- [fxa303-week13-behavioral-and-psychological-symptoms-of-dementia](../sources/fxa303-week13-behavioral-and-psychological-symptoms-of-dementia.md)

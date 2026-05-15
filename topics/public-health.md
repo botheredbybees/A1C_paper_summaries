@@ -4,6 +4,7 @@ domain: intervention
 slug: creative-arts-in-public-health
 sources:
   - fxa100-excellence-in-dementia-care--ch24-chapter-1
+  - fxa301-applied-artes-and-health-ch01-2021-graff
   - fxa301-arts-in-health-ch04-48-haldane-d
   - fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26
   - fxa301-oxford-textbook-of-creative-arts-ch18-chapter-3
@@ -20,6 +21,7 @@ sources:
   - fxa301-week06-statistical-analysis-of-educational-outcomes-among-big
   - fxa301-week08-the-connection-between-art-healing-and-public-health-a
   - fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the
+  - fxa303-week13-the-associations-between-behavioral-psychological-symptoms
 - fxa100-excellence-in-dementia-care--ch24-chapter-1
 - fxa301-arts-in-health-ch04-48-haldane-d
 - fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26
@@ -41,7 +43,7 @@ tags:
 - public-health
 title: Creative Arts in Public Health
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Creative Arts in Public Health
@@ -62,6 +64,7 @@ The integration of creative arts into public health interventions presents a mul
 ## Sources
 
 - [fxa100-excellence-in-dementia-care--ch24-chapter-1](../sources/fxa100-excellence-in-dementia-care--ch24-chapter-1.md)
+- [fxa301-applied-artes-and-health-ch01-2021-graff](../sources/fxa301-applied-artes-and-health-ch01-2021-graff.md)
 - [fxa301-arts-in-health-ch04-48-haldane-d](../sources/fxa301-arts-in-health-ch04-48-haldane-d.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26](../sources/fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch18-chapter-3](../sources/fxa301-oxford-textbook-of-creative-arts-ch18-chapter-3.md)
@@ -78,3 +81,4 @@ The integration of creative arts into public health interventions presents a mul
 - [fxa301-week06-statistical-analysis-of-educational-outcomes-among-big](../sources/fxa301-week06-statistical-analysis-of-educational-outcomes-among-big.md)
 - [fxa301-week08-the-connection-between-art-healing-and-public-health-a](../sources/fxa301-week08-the-connection-between-art-healing-and-public-health-a.md)
 - [fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the](../sources/fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the.md)
+- [fxa303-week13-the-associations-between-behavioral-psychological-symptoms](../sources/fxa303-week13-the-associations-between-behavioral-psychological-symptoms.md)

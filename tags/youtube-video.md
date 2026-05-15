@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: youtube-video
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Youtube Video

@@ -6,6 +6,7 @@ sources:
   - fxa202-week02-a-beginners-guide-to-photo-editing-with-snapseed
   - fxa202-week02-aperture-and-shutter-priority-modes
   - fxa202-week02-welcome-to-week-2-using-your-camera
+  - fxa202-week13-shifting-perspectives-exploring-the-intersection-of
 - fxa202-week02-a-beginners-guide-to-photo-editing-with-snapseed
 - fxa202-week02-aperture-and-shutter-priority-modes
 - fxa202-week02-welcome-to-week-2-using-your-camera
@@ -13,7 +14,7 @@ tags:
 - digital-photography
 title: Digital Photography Techniques
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Digital Photography Techniques
@@ -35,3 +36,4 @@ The synthesis of digital photography techniques reveals a comprehensive approach
 - [fxa202-week02-a-beginners-guide-to-photo-editing-with-snapseed](../sources/fxa202-week02-a-beginners-guide-to-photo-editing-with-snapseed.md)
 - [fxa202-week02-aperture-and-shutter-priority-modes](../sources/fxa202-week02-aperture-and-shutter-priority-modes.md)
 - [fxa202-week02-welcome-to-week-2-using-your-camera](../sources/fxa202-week02-welcome-to-week-2-using-your-camera.md)
+- [fxa202-week13-shifting-perspectives-exploring-the-intersection-of](../sources/fxa202-week13-shifting-perspectives-exploring-the-intersection-of.md)

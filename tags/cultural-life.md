@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cultural-life
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Cultural Life

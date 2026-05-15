@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: technology-assisted-therapy
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Technology Assisted Therapy

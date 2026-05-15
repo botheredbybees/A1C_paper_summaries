@@ -1,11 +1,12 @@
 ---
 type: tag
 tag: healthcare-environment
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Healthcare Environment
 
+- [Bridging Arts and Healthcare Communities](../sources/fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative.md)
 - [Defining Arts in Health](../sources/fxa301-arts-in-health-ch19-36-abc-national-cultural-policy-submission.md)
 - [Does a Model Exist?](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment.md)
 - [Does a Model Exist? Arts in Health Activity](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2).md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: self-discovery-strategies
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Self Discovery Strategies

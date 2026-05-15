@@ -3,6 +3,8 @@ confidence: medium
 domain: population
 slug: vascular-dementia
 sources:
+  - fxa100-week01-living-with-dementia-12-what-is-vascular-dementia
+  - fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to
 - fxa100-excellence-in-dementia-care--ch24-chapter-1
 - fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms
 - fxa100-week06-preserved-drawing-in-a-sculptor-with-dementia
@@ -10,7 +12,7 @@ tags:
 - vascular-dementia
 title: Vascular Dementia
 type: topic
-updated: 2026-05-04
+updated: 2026-05-15
 ---
 
 ## Vascular Dementia
@@ -29,6 +31,5 @@ The provided sources offer a comprehensive overview of dementia and its forms, f
 
 ## Sources
 
-- [fxa100-excellence-in-dementia-care--ch24-chapter-1](../sources/fxa100-excellence-in-dementia-care--ch24-chapter-1.md)
-- [fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms](../sources/fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms.md)
-- [fxa100-week06-preserved-drawing-in-a-sculptor-with-dementia](../sources/fxa100-week06-preserved-drawing-in-a-sculptor-with-dementia.md)
+- [fxa100-week01-living-with-dementia-12-what-is-vascular-dementia](../sources/fxa100-week01-living-with-dementia-12-what-is-vascular-dementia.md)
+- [fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to](../sources/fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to.md)

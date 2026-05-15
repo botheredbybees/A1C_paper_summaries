@@ -11,7 +11,7 @@ tags: ["trauma-recovery", "ptsd-symptoms", "mental-health-treatment", "cognitive
 key_concepts: ["post-traumatic-stress-disorder", "cognitive-behavioral-therapy", "eye-movement-desensitization-reprocessing"]
 methods: ["literature-review"]
 slug: fxa303-week01-trauma-aps
-related: ["cognitive-behavioral-therapy", "emotional-healing", "trauma-recovery"]
+related: ["cognitive-behavioral-therapy", "emotional-healing", "mental-health-treatment", "trauma-recovery"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -49,4 +49,5 @@ Treatment options for trauma include trauma-focused therapies like Cognitive Beh
 
 - [cognitive-behavioral-therapy](../topics/cognitive-behavioral-therapy.md)
 - [emotional-healing](../topics/emotional-healing.md)
+- [mental-health-treatment](../topics/mental-health-treatment.md)
 - [trauma-recovery](../topics/trauma-recovery.md)

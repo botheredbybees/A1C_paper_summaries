@@ -5,13 +5,14 @@ slug: reward-processing-in-the-brain
 sources:
   - fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro
   - fxa303-week03-adolescent-neurodevelopment
+  - fxa303-week13-the-neural-basis-of-humour-processing
 - fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro
 - fxa303-week03-adolescent-neurodevelopment
 tags:
 - reward-processing
 title: Reward Processing in the Brain
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Reward Processing in the Brain
@@ -32,3 +33,4 @@ The study of reward processing within neuroscience integrates both clinical and 
 
 - [fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro](../sources/fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro.md)
 - [fxa303-week03-adolescent-neurodevelopment](../sources/fxa303-week03-adolescent-neurodevelopment.md)
+- [fxa303-week13-the-neural-basis-of-humour-processing](../sources/fxa303-week13-the-neural-basis-of-humour-processing.md)

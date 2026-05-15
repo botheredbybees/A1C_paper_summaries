@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cultural-representation
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Cultural Representation

@@ -21,6 +21,14 @@ sources:
   - fxa100-week11-movement-therapy-and-mental-health
   - fxa100-week11-moving-from-problem-to-potential-dance-and-wellness-in-us
   - fxa100-week11-week-11-lecture-benefits-of-dance-and-movement-for-people
+  - fxa100-week13-a-pilot-randomized-controlled-clinical-trial-of-dance
+  - fxa100-week13-dance-specific-activity-in-people-living-with-dementia-a
+  - fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression
+  - fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric
+  - fxa100-week13-effects-of-neuromuscular-exercise-and-dance-therapy-on
+  - fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a
+  - fxa100-week13-mechanisms-of-change-in-dancemovement-therapy-and-their
+  - fxa301-oxford-handbook-of-dance-and-wellbeing
   - fxa301-week03-transcript-youtube-5utv1ergbs8
   - fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing
   - fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with
@@ -40,7 +48,7 @@ tags:
 - dance-therapy
 title: Dance Therapy
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Dance Therapy
@@ -81,6 +89,14 @@ While the therapeutic benefits of dance therapy are widely recognized, its integ
 - [fxa100-week11-movement-therapy-and-mental-health](../sources/fxa100-week11-movement-therapy-and-mental-health.md)
 - [fxa100-week11-moving-from-problem-to-potential-dance-and-wellness-in-us](../sources/fxa100-week11-moving-from-problem-to-potential-dance-and-wellness-in-us.md)
 - [fxa100-week11-week-11-lecture-benefits-of-dance-and-movement-for-people](../sources/fxa100-week11-week-11-lecture-benefits-of-dance-and-movement-for-people.md)
+- [fxa100-week13-a-pilot-randomized-controlled-clinical-trial-of-dance](../sources/fxa100-week13-a-pilot-randomized-controlled-clinical-trial-of-dance.md)
+- [fxa100-week13-dance-specific-activity-in-people-living-with-dementia-a](../sources/fxa100-week13-dance-specific-activity-in-people-living-with-dementia-a.md)
+- [fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression](../sources/fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression.md)
+- [fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric](../sources/fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric.md)
+- [fxa100-week13-effects-of-neuromuscular-exercise-and-dance-therapy-on](../sources/fxa100-week13-effects-of-neuromuscular-exercise-and-dance-therapy-on.md)
+- [fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a](../sources/fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a.md)
+- [fxa100-week13-mechanisms-of-change-in-dancemovement-therapy-and-their](../sources/fxa100-week13-mechanisms-of-change-in-dancemovement-therapy-and-their.md)
+- [fxa301-oxford-handbook-of-dance-and-wellbeing](../sources/fxa301-oxford-handbook-of-dance-and-wellbeing.md)
 - [fxa301-week03-transcript-youtube-5utv1ergbs8](../sources/fxa301-week03-transcript-youtube-5utv1ergbs8.md)
 - [fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing](../sources/fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing.md)
 - [fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with](../sources/fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with.md)

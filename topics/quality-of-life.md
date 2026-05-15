@@ -48,7 +48,10 @@ sources:
   - fxa100-week11-expressive-bodies-demented-persons-communication-in-a-dance
   - fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living
   - fxa100-week11-the-benefits-of-community-based-participatory-arts
+  - fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a
+  - fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness
   - fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow
+  - fxa202-week13-revisioning-self-identity-the-role-of-portraits
   - fxa301-week01-a-qualitative-investigation-of-older-adults
   - fxa301-week05-the-2024-happy-planet-index
   - fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons
@@ -57,6 +60,19 @@ sources:
   - fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple
   - fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic
   - fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
+  - fxa303-week13-application-of-cognitive-stimulation-in-the-care-of
+  - fxa303-week13-der-demenz-clown-ein-konzept-zur-kultivierung-von-humor-und
+  - fxa303-week13-effects-of-clown-activities-on-patients-eligible-for
+  - fxa303-week13-elder-clowning-in-long-term-dementia-care-results-of-a
+  - fxa303-week13-engagement-in-persons-with-dementia-the-concept-and-its
+  - fxa303-week13-evaluation-of-cognitive-stimulation-therapy-for-people-with
+  - fxa303-week13-humor-assessment-and-interventions-in-palliative-care-a
+  - fxa303-week13-humour-interventions-for-patients-in-palliative-carea
+  - fxa303-week13-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
+  - fxa303-week13-laughter-and-humor-therapy-in-dialysis
+  - fxa303-week13-play-and-people-living-with-dementia-a-humanities-based
+  - fxa303-week13-remembering-yesterday-caring-today-reminiscence-in-dementia
+  - fxa303-week13-reminiscence-therapy-for-dementia
 - fxa100-excellence-in-dementia-care--ch01-chapter-10
 - fxa100-excellence-in-dementia-care--ch60-chapter-11
 - fxa100-week03-alzheimers-disease-music-engagement-quality-of-life
@@ -113,7 +129,7 @@ tags:
 - quality-of-life
 title: Music Therapy in Dementia Care
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Music Therapy in Dementia Care
@@ -177,7 +193,10 @@ The Music and Memory (M&M) program stands out as a non-pharmacological intervent
 - [fxa100-week11-expressive-bodies-demented-persons-communication-in-a-dance](../sources/fxa100-week11-expressive-bodies-demented-persons-communication-in-a-dance.md)
 - [fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living](../sources/fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living.md)
 - [fxa100-week11-the-benefits-of-community-based-participatory-arts](../sources/fxa100-week11-the-benefits-of-community-based-participatory-arts.md)
+- [fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a](../sources/fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a.md)
+- [fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness](../sources/fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness.md)
 - [fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow](../sources/fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow.md)
+- [fxa202-week13-revisioning-self-identity-the-role-of-portraits](../sources/fxa202-week13-revisioning-self-identity-the-role-of-portraits.md)
 - [fxa301-week01-a-qualitative-investigation-of-older-adults](../sources/fxa301-week01-a-qualitative-investigation-of-older-adults.md)
 - [fxa301-week05-the-2024-happy-planet-index](../sources/fxa301-week05-the-2024-happy-planet-index.md)
 - [fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons](../sources/fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons.md)
@@ -186,3 +205,16 @@ The Music and Memory (M&M) program stands out as a non-pharmacological intervent
 - [fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple](../sources/fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple.md)
 - [fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic](../sources/fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic.md)
 - [fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns](../sources/fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns.md)
+- [fxa303-week13-application-of-cognitive-stimulation-in-the-care-of](../sources/fxa303-week13-application-of-cognitive-stimulation-in-the-care-of.md)
+- [fxa303-week13-der-demenz-clown-ein-konzept-zur-kultivierung-von-humor-und](../sources/fxa303-week13-der-demenz-clown-ein-konzept-zur-kultivierung-von-humor-und.md)
+- [fxa303-week13-effects-of-clown-activities-on-patients-eligible-for](../sources/fxa303-week13-effects-of-clown-activities-on-patients-eligible-for.md)
+- [fxa303-week13-elder-clowning-in-long-term-dementia-care-results-of-a](../sources/fxa303-week13-elder-clowning-in-long-term-dementia-care-results-of-a.md)
+- [fxa303-week13-engagement-in-persons-with-dementia-the-concept-and-its](../sources/fxa303-week13-engagement-in-persons-with-dementia-the-concept-and-its.md)
+- [fxa303-week13-evaluation-of-cognitive-stimulation-therapy-for-people-with](../sources/fxa303-week13-evaluation-of-cognitive-stimulation-therapy-for-people-with.md)
+- [fxa303-week13-humor-assessment-and-interventions-in-palliative-care-a](../sources/fxa303-week13-humor-assessment-and-interventions-in-palliative-care-a.md)
+- [fxa303-week13-humour-interventions-for-patients-in-palliative-carea](../sources/fxa303-week13-humour-interventions-for-patients-in-palliative-carea.md)
+- [fxa303-week13-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns](../sources/fxa303-week13-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns.md)
+- [fxa303-week13-laughter-and-humor-therapy-in-dialysis](../sources/fxa303-week13-laughter-and-humor-therapy-in-dialysis.md)
+- [fxa303-week13-play-and-people-living-with-dementia-a-humanities-based](../sources/fxa303-week13-play-and-people-living-with-dementia-a-humanities-based.md)
+- [fxa303-week13-remembering-yesterday-caring-today-reminiscence-in-dementia](../sources/fxa303-week13-remembering-yesterday-caring-today-reminiscence-in-dementia.md)
+- [fxa303-week13-reminiscence-therapy-for-dementia](../sources/fxa303-week13-reminiscence-therapy-for-dementia.md)

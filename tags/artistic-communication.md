@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: artistic-communication
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Artistic Communication

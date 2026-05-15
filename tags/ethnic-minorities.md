@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ethnic-minorities
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Ethnic Minorities

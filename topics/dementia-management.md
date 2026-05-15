@@ -7,13 +7,14 @@ sources:
   - fxa100-week09-the-fundamentals-of-person-centered-care-for-individuals
   - fxa100-week11-dance-and-movement-therapeutic-methods-in-management-of
   - fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of
+  - fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in
 - fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers
 - fxa100-week09-the-fundamentals-of-person-centered-care-for-individuals
 tags:
 - dementia-management
 title: Dementia Management Through Music Therapy
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Dementia Management Through Music Therapy
@@ -36,3 +37,4 @@ Music therapy emerges as a promising intervention in managing symptoms of dement
 - [fxa100-week09-the-fundamentals-of-person-centered-care-for-individuals](../sources/fxa100-week09-the-fundamentals-of-person-centered-care-for-individuals.md)
 - [fxa100-week11-dance-and-movement-therapeutic-methods-in-management-of](../sources/fxa100-week11-dance-and-movement-therapeutic-methods-in-management-of.md)
 - [fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of](../sources/fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of.md)
+- [fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in](../sources/fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in.md)

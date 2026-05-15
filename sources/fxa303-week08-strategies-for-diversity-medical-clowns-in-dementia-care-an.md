@@ -11,7 +11,7 @@ tags: ["medical-clowns", "dementia-care", "ethnographic-research", "cultural-div
 key_concepts: ["interaction-strategies", "cultural-awareness", "sensory-triggers"]
 methods: ["ethnographic-study"]
 slug: fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an
-related: ["cultural-diversity", "dementia-care", "ethnographic-research", "medical-clowns", "social-interaction"]
+related: ["cultural-diversity", "dementia-care", "ethnographic-research", "medical-clowns", "residential-care", "social-interaction"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -48,4 +48,5 @@ This study, conducted by Margareta Rämgård, Elisabeth Carlson, and Elisabeth M
 - [dementia-care](../topics/dementia-care.md)
 - [ethnographic-research](../topics/ethnographic-research.md)
 - [medical-clowns](../topics/medical-clowns.md)
+- [residential-care](../topics/residential-care.md)
 - [social-interaction](../topics/social-interaction.md)

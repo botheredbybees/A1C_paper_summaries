@@ -11,7 +11,7 @@ tags: ["dementia-care", "heritage-engagement", "creative-facilitation", "multise
 key_concepts: ["relational-perspectives", "sensory-stimulation", "well-being"]
 methods: ["case-study"]
 slug: fxa100-week08-unlocking-the-door-to-being-there-the-contribution-of
-related: ["dementia-care", "social-inclusion"]
+related: ["dementia-care", "multisensory-experience", "social-inclusion"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,4 +44,5 @@ The article discusses the evaluation of 'Sensory Palaces', a project by Historic
 ## See Also
 
 - [dementia-care](../topics/dementia-care.md)
+- [multisensory-experience](../topics/multisensory-experience.md)
 - [social-inclusion](../topics/social-inclusion.md)

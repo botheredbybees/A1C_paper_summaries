@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cancer-treatment
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Cancer Treatment

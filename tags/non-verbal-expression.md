@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: non-verbal-expression
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Non Verbal Expression

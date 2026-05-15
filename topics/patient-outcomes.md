@@ -6,7 +6,10 @@ sources:
   - fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia
   - fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for
   - fxa100-week04-music-therapy-and-music-assisted-caregiving-for-dementia
+  - fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in
   - fxa301-week01-is-there-compelling-evidence-for-using-the-arts-in-health
+  - fxa303-week13-evaluation-of-a-standardized-humor-group-in-a-clinical
+  - fxa303-week13-svedem-the-swedish-dementia-registry-a-tool-for-improving
 - fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia
 - fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for
 - fxa100-week04-music-therapy-and-music-assisted-caregiving-for-dementia
@@ -15,7 +18,7 @@ tags:
 - patient-outcomes
 title: Patient Outcomes in Dementia Care
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Patient Outcomes in Dementia Care
@@ -37,4 +40,7 @@ The provided sources explore various interventions aimed at improving patient ou
 - [fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia](../sources/fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia.md)
 - [fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for](../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for.md)
 - [fxa100-week04-music-therapy-and-music-assisted-caregiving-for-dementia](../sources/fxa100-week04-music-therapy-and-music-assisted-caregiving-for-dementia.md)
+- [fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in](../sources/fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in.md)
 - [fxa301-week01-is-there-compelling-evidence-for-using-the-arts-in-health](../sources/fxa301-week01-is-there-compelling-evidence-for-using-the-arts-in-health.md)
+- [fxa303-week13-evaluation-of-a-standardized-humor-group-in-a-clinical](../sources/fxa303-week13-evaluation-of-a-standardized-humor-group-in-a-clinical.md)
+- [fxa303-week13-svedem-the-swedish-dementia-registry-a-tool-for-improving](../sources/fxa303-week13-svedem-the-swedish-dementia-registry-a-tool-for-improving.md)

@@ -11,7 +11,7 @@ tags: ["arts-in-health", "research-methodologies", "interdisciplinary-research",
 key_concepts: ["unique-research-methods", "interdisciplinary-approaches"]
 methods: ["case-study"]
 slug: fxa301-week01-an-introduction-to-research
-related: ["arts-in-health", "interdisciplinary-research"]
+related: ["arts-in-health", "interdisciplinary-research", "randomized-controlled-trials"]
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -43,3 +43,4 @@ This chapter explores the concept of research in arts in health and contrasts it
 
 - [arts-in-health](../topics/arts-in-health.md)
 - [interdisciplinary-research](../topics/interdisciplinary-research.md)
+- [randomized-controlled-trials](../topics/randomized-controlled-trials.md)

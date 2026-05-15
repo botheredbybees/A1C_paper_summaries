@@ -11,7 +11,7 @@ tags: ["laughter-therapy", "lifestyle-medicine", "stress-reduction", "physiologi
 key_concepts: ["spontaneous-laughter", "self-induced-laughter", "therapeutic-tool"]
 methods: ["review-of-literature"]
 slug: fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
-related: ["lifestyle-medicine", "psychological-wellbeing", "stress-reduction"]
+related: ["laughter-therapy", "lifestyle-medicine", "psychological-wellbeing", "stress-reduction"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,6 +43,7 @@ This article explores the physiological and psychological benefits of laughter, 
 
 ## See Also
 
+- [laughter-therapy](../topics/laughter-therapy.md)
 - [lifestyle-medicine](../topics/lifestyle-medicine.md)
 - [psychological-wellbeing](../topics/psychological-wellbeing.md)
 - [stress-reduction](../topics/stress-reduction.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: medical-model-of-disability
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Medical Model Of Disability

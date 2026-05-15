@@ -4,6 +4,8 @@ domain: intervention
 slug: physical-activity-and-cognitive-health-in-older-adults
 sources:
   - fxa100-week01-relating-physical-activity-to-cognitive-function-brain
+  - fxa100-week13-physical-activity-and-exercise-as-countermeasures-to
+  - fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in
   - fxa301-week03-arts-public-health-and-the-national-arts-and-health
   - fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older
   - fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster
@@ -17,7 +19,7 @@ tags:
 - physical-activity
 title: Physical Activity and Cognitive Health in Older Adults
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Physical Activity and Cognitive Health in Older Adults
@@ -37,6 +39,8 @@ The topic explores the impact of physical activity on cognitive health among old
 ## Sources
 
 - [fxa100-week01-relating-physical-activity-to-cognitive-function-brain](../sources/fxa100-week01-relating-physical-activity-to-cognitive-function-brain.md)
+- [fxa100-week13-physical-activity-and-exercise-as-countermeasures-to](../sources/fxa100-week13-physical-activity-and-exercise-as-countermeasures-to.md)
+- [fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in](../sources/fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in.md)
 - [fxa301-week03-arts-public-health-and-the-national-arts-and-health](../sources/fxa301-week03-arts-public-health-and-the-national-arts-and-health.md)
 - [fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older](../sources/fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older.md)
 - [fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster](../sources/fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster.md)

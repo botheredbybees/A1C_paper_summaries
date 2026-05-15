@@ -3,6 +3,7 @@ confidence: medium
 domain: intervention
 slug: personality-traits-and-music
 sources:
+  - fxa100-week13-exploring-the-creative-personality-using-machine-learning
   - fxa301-week02-experimental-evidence-of-the-roles-of-music-choice-social
   - fxa301-week02-music-evoked-nostalgia-affect-memory-and-personality
 - fxa301-week02-experimental-evidence-of-the-roles-of-music-choice-social
@@ -11,7 +12,7 @@ tags:
 - personality-traits
 title: Personality Traits and Music
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Personality Traits and Music
@@ -30,5 +31,6 @@ The relationship between personality traits and music is explored in the provide
 
 ## Sources
 
+- [fxa100-week13-exploring-the-creative-personality-using-machine-learning](../sources/fxa100-week13-exploring-the-creative-personality-using-machine-learning.md)
 - [fxa301-week02-experimental-evidence-of-the-roles-of-music-choice-social](../sources/fxa301-week02-experimental-evidence-of-the-roles-of-music-choice-social.md)
 - [fxa301-week02-music-evoked-nostalgia-affect-memory-and-personality](../sources/fxa301-week02-music-evoked-nostalgia-affect-memory-and-personality.md)

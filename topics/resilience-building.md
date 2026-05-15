@@ -4,6 +4,7 @@ domain: intervention
 slug: resilience-building-through-arts-activities
 sources:
   - fxa100-week06-the-role-of-the-visual-arts-in-the-resilience-of-people
+  - fxa100-week13-biodanza-and-a-sense-of-resilience-in-times-of-war
   - fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and
   - fxa301-week10-to-be-heard-the-social-and-mental-health-benefits-of-choir
   - fxa301-week11-the-syrian-refugee-art-initiative
@@ -14,6 +15,7 @@ sources:
   - fxa303-week09-transcript-arts-mid-north-coast-we-are-all-born-creative
   - fxa303-week11-artistic-expression-as-a-source-of-resilience-for
   - fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic
+  - fxa303-week13-the-effects-of-mario-a-social-robot-on-the-resilience-of
 - fxa100-week06-the-role-of-the-visual-arts-in-the-resilience-of-people
 - fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and
 - fxa301-week10-to-be-heard-the-social-and-mental-health-benefits-of-choir
@@ -26,7 +28,7 @@ tags:
 - resilience-building
 title: Resilience-building Through Arts Activities
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Resilience-building Through Arts Activities
@@ -46,6 +48,7 @@ The provided sources collectively explore the role of arts activities and creati
 ## Sources
 
 - [fxa100-week06-the-role-of-the-visual-arts-in-the-resilience-of-people](../sources/fxa100-week06-the-role-of-the-visual-arts-in-the-resilience-of-people.md)
+- [fxa100-week13-biodanza-and-a-sense-of-resilience-in-times-of-war](../sources/fxa100-week13-biodanza-and-a-sense-of-resilience-in-times-of-war.md)
 - [fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and](../sources/fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and.md)
 - [fxa301-week10-to-be-heard-the-social-and-mental-health-benefits-of-choir](../sources/fxa301-week10-to-be-heard-the-social-and-mental-health-benefits-of-choir.md)
 - [fxa301-week11-the-syrian-refugee-art-initiative](../sources/fxa301-week11-the-syrian-refugee-art-initiative.md)
@@ -56,3 +59,4 @@ The provided sources collectively explore the role of arts activities and creati
 - [fxa303-week09-transcript-arts-mid-north-coast-we-are-all-born-creative](../sources/fxa303-week09-transcript-arts-mid-north-coast-we-are-all-born-creative.md)
 - [fxa303-week11-artistic-expression-as-a-source-of-resilience-for](../sources/fxa303-week11-artistic-expression-as-a-source-of-resilience-for.md)
 - [fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic](../sources/fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic.md)
+- [fxa303-week13-the-effects-of-mario-a-social-robot-on-the-resilience-of](../sources/fxa303-week13-the-effects-of-mario-a-social-robot-on-the-resilience-of.md)

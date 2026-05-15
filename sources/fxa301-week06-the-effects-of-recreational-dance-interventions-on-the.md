@@ -11,7 +11,7 @@ tags: ["recreational-dance", "child-health", "well-being-interventions", "system
 key_concepts: ["cardiovascular-fitness", "bone-health", "body-image", "anxiety-reduction"]
 methods: ["systematic review"]
 slug: fxa301-week06-the-effects-of-recreational-dance-interventions-on-the
-related: []
+related: ["well-being-interventions"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -47,4 +47,4 @@ The review highlights the importance of incorporating recreational dance program
 
 ## See Also
 
-*(none yet)*
+- [well-being-interventions](../topics/well-being-interventions.md)

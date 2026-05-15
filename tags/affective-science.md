@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: affective-science
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Affective Science

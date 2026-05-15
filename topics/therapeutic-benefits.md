@@ -9,6 +9,7 @@ sources:
   - fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas
   - fxa202-week09-expressive-writing-therapy-exercises-examples
   - fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a
+  - fxa202-week13-therapeutic-benefits-and-limitations-of-participatory
   - fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our
   - fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes
   - fxa301-week06-further-evidence-that-singing-fosters-mental-health-and
@@ -30,7 +31,7 @@ tags:
 - therapeutic-benefits
 title: Music Therapy
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Music Therapy
@@ -55,6 +56,7 @@ The documents collectively emphasize the profound therapeutic potential of music
 - [fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas](../sources/fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas.md)
 - [fxa202-week09-expressive-writing-therapy-exercises-examples](../sources/fxa202-week09-expressive-writing-therapy-exercises-examples.md)
 - [fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a](../sources/fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a.md)
+- [fxa202-week13-therapeutic-benefits-and-limitations-of-participatory](../sources/fxa202-week13-therapeutic-benefits-and-limitations-of-participatory.md)
 - [fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our](../sources/fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our.md)
 - [fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes](../sources/fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes.md)
 - [fxa301-week06-further-evidence-that-singing-fosters-mental-health-and](../sources/fxa301-week06-further-evidence-that-singing-fosters-mental-health-and.md)

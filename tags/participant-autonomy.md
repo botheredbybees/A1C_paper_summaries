@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: participant-autonomy
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Participant Autonomy

@@ -11,7 +11,7 @@ tags: ["dementia-care", "creative-therapy", "patient-engagement", "communication
 key_concepts: ["facilitated creativity", "non-verbal communication", "positive participation", "cultural perceptions of dementia"]
 methods: ["practical guide"]
 slug: fxa100-week08-creativity-and-communication-in-persons-with-dementia
-related: ["creative-therapy", "dementia-care"]
+related: ["creative-therapy", "dementia-care", "patient-engagement"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,3 +46,4 @@ The text discusses the practicalities of implementing creative activities for in
 
 - [creative-therapy](../topics/creative-therapy.md)
 - [dementia-care](../topics/dementia-care.md)
+- [patient-engagement](../topics/patient-engagement.md)

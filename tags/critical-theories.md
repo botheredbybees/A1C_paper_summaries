@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: critical-theories
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Critical Theories

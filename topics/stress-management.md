@@ -4,6 +4,7 @@ domain: intervention
 slug: stress-management-interventions
 sources:
   - fxa100-week03-the-short-term-impact-of-music-interventions-on-stress
+  - fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression
   - fxa202-week09-5-benefits-of-journaling-for-mental-health
   - fxa301-week02-the-influence-of-stress-optimism-and-music-training-on
   - fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and
@@ -17,7 +18,7 @@ tags:
 - stress-management
 title: Stress Management Interventions
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Stress Management Interventions
@@ -37,6 +38,7 @@ The exploration of stress management interventions across multiple sources highl
 ## Sources
 
 - [fxa100-week03-the-short-term-impact-of-music-interventions-on-stress](../sources/fxa100-week03-the-short-term-impact-of-music-interventions-on-stress.md)
+- [fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression](../sources/fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression.md)
 - [fxa202-week09-5-benefits-of-journaling-for-mental-health](../sources/fxa202-week09-5-benefits-of-journaling-for-mental-health.md)
 - [fxa301-week02-the-influence-of-stress-optimism-and-music-training-on](../sources/fxa301-week02-the-influence-of-stress-optimism-and-music-training-on.md)
 - [fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and](../sources/fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and.md)

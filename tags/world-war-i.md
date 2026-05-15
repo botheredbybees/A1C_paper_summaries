@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: world-war-i
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## World War I

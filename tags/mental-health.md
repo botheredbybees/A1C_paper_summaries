@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-health
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Mental Health
@@ -9,6 +9,8 @@ updated: 2026-05-11
 - [Music Therapy Flyer](../sources/fxa100-week04-music-therapy-flyer.md)
 - [Psychophysiological Effects of Dance Movement Therapy and Physical Exercise on Older Adults With Mild Dementia: A Randomized Controlled Trial](../sources/fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and.md)
 - [Movement Therapy and Mental Health](../sources/fxa100-week11-movement-therapy-and-mental-health.md)
+- [Dance therapy in rehabilitation: a two-decade bibliometric analysis (2000\u20132024)](../sources/fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric.md)
+- ['MINI-MENTAL STATE': A PRACTICAL METHOD FOR GRADING THE COGNITIVE STATE OF PATIENTS FOR THE CLINICIAN](../sources/fxa100-week13-mini-mental-state-a-practical-method-for-grading-the.md)
 - [How Can Photography Help Wellbeing?](../sources/fxa202-week03-lesson-fxa202-week03-page-2.md)
 - [Week 3 Lecture - Photography and Health](../sources/fxa202-week03-lesson-fxa202-week03-week-3.md)
 - [Week Three Lecture Transcript: Photography and Health](../sources/fxa202-week03-week-three-lecture-transcript-photography-and-health.md)
@@ -19,6 +21,8 @@ updated: 2026-05-11
 - [My Photo Essay: Storytelling Through Art and Mental Health](../sources/fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health.md)
 - [Noticing: A Photo Essay](../sources/fxa202-week09-noticing-a-photo-essay.md)
 - [Exploring Colour Theory Through a Personal Photo Essay](../sources/fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay.md)
+- [Therapeutic benefits and limitations of participatory photography for adults with mental health problems: A systematic search and literature review](../sources/fxa202-week13-therapeutic-benefits-and-limitations-of-participatory.md)
+- [The Oxford Handbook of Dance and Wellbeing](../sources/fxa301-oxford-handbook-of-dance-and-wellbeing.md)
 - [Mental Health and Wellbeing across the Life Course - Extract](../sources/fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract.md)
 - [Art as Therapy](../sources/fxa301-week05-art-as-therapy.md)
 - [A systematic review of mental health and wellbeing outcomes of group singing for adults with a mental health condition](../sources/fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes.md)
@@ -44,3 +48,8 @@ updated: 2026-05-11
 - [Me and us: Cultivating presence and mental health through choir singing](../sources/fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through.md)
 - [Mental Health in Lesbian, Gay, Bisexual, and Transgender (LGBT) Youth](../sources/fxa303-week11-mental-health-in-lesbian-gay-bisexual-and-transgender-lgbt.md)
 - [The Power of Recognition: A Qualitative Study of Social Connectedness and Wellbeing through LGBT Sporting, Creative and Social Groups in Ireland](../sources/fxa303-week11-the-power-of-recognition-a-qualitative-study-of-social.md)
+- [A meta-analysis of randomized controlled trials of laughter and humour interventions on depression, anxiety and sleep quality in adults](../sources/fxa303-week13-a-meta-analysis-of-randomized-controlled-trials-of-laughter.md)
+- [Effects of Clown Activities on Patients Eligible for Palliative Care in Primary Health Care](../sources/fxa303-week13-effects-of-clown-activities-on-patients-eligible-for.md)
+- [Engagement in Persons With Dementia: The Concept and Its Measurement](../sources/fxa303-week13-engagement-in-persons-with-dementia-the-concept-and-its.md)
+- [Laughter and Humour Interventions for Well-being in Older Adults: A Systematic Review and Intervention Classification](../sources/fxa303-week13-laughter-and-humour-interventions-for-well-being-in-older.md)
+- [The effects of reminiscence therapy on psychological well-being, depression, and loneliness among the institutionalized aged](../sources/fxa303-week13-the-effects-of-reminiscence-therapy-on-psychological-well.md)

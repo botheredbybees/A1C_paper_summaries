@@ -6,6 +6,7 @@ sources:
   - fxa303-week02-fxa303-week-2-child-development-and-creative-arts
   - fxa303-week04-missed-early-intervention-opportunities-for-children-with
   - fxa303-week04-neurodiversity-and-the-autism-spectrum
+  - fxa303-week13-practical-recommendations-for-timely-accurate-diagnosis-of
 - fxa303-week02-fxa303-week-2-child-development-and-creative-arts
 - fxa303-week04-missed-early-intervention-opportunities-for-children-with
 - fxa303-week04-neurodiversity-and-the-autism-spectrum
@@ -13,7 +14,7 @@ tags:
 - early-intervention
 title: Early Intervention Strategies
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Early Intervention Strategies
@@ -35,3 +36,4 @@ The sources collectively emphasize the critical importance of timely and effecti
 - [fxa303-week02-fxa303-week-2-child-development-and-creative-arts](../sources/fxa303-week02-fxa303-week-2-child-development-and-creative-arts.md)
 - [fxa303-week04-missed-early-intervention-opportunities-for-children-with](../sources/fxa303-week04-missed-early-intervention-opportunities-for-children-with.md)
 - [fxa303-week04-neurodiversity-and-the-autism-spectrum](../sources/fxa303-week04-neurodiversity-and-the-autism-spectrum.md)
+- [fxa303-week13-practical-recommendations-for-timely-accurate-diagnosis-of](../sources/fxa303-week13-practical-recommendations-for-timely-accurate-diagnosis-of.md)

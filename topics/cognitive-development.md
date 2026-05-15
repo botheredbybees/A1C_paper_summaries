@@ -4,6 +4,7 @@ domain: theory
 slug: cognitive-development
 sources:
   - fxa202-week10-brain-research-shows-the-arts-promote-mental-health
+  - fxa202-week13-development-and-validation-of-a-mobile-phone-photography
   - fxa303-week02-developmental-role-of-creative-arts-and-play
   - fxa303-week02-theories-of-development-in-dialog-with-jean-piaget
   - fxa303-week03-developmental-psychology-from-infancy-to-adulthood
@@ -15,7 +16,7 @@ tags:
 - cognitive-development
 title: Cognitive Development
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Cognitive Development
@@ -35,6 +36,7 @@ The topic of cognitive development integrates several influential theoretical pe
 ## Sources
 
 - [fxa202-week10-brain-research-shows-the-arts-promote-mental-health](../sources/fxa202-week10-brain-research-shows-the-arts-promote-mental-health.md)
+- [fxa202-week13-development-and-validation-of-a-mobile-phone-photography](../sources/fxa202-week13-development-and-validation-of-a-mobile-phone-photography.md)
 - [fxa303-week02-developmental-role-of-creative-arts-and-play](../sources/fxa303-week02-developmental-role-of-creative-arts-and-play.md)
 - [fxa303-week02-theories-of-development-in-dialog-with-jean-piaget](../sources/fxa303-week02-theories-of-development-in-dialog-with-jean-piaget.md)
 - [fxa303-week03-developmental-psychology-from-infancy-to-adulthood](../sources/fxa303-week03-developmental-psychology-from-infancy-to-adulthood.md)

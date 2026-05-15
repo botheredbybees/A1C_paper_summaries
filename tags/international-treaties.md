@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: international-treaties
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## International Treaties

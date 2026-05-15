@@ -74,8 +74,12 @@ sources:
   - fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care
   - fxa100-week04-what-is-music-health-and-wellbeing
   - fxa100-week06-test-paper-title
+  - fxa100-week13-editorial-the-state-of-the-art-in-creative-arts-therapies
+  - fxa100-week13-music-interventions-for-people-with-dementia-a-review-of
+  - fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness
   - fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the
   - fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music
+  - fxa301-music-healt-and-wellbeing-ch05-10680-meymandi
   - fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26
   - fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and
   - fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing
@@ -103,6 +107,8 @@ sources:
   - fxa303-week11-music-making-for-health-and-wellbeing-in-youth-justice
   - fxa303-week11-music-therapy-for-delinquency-involved-juveniles-through
   - fxa303-week11-web-article-hardy-2019
+  - fxa303-week13-rethinking-musicality-in-dementia-as-embodied-and-relational
+  - fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering
 - fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care
 - fxa100-week02-are-the-brains-of-musicians-physically-different
 - fxa100-week02-brain-networking-among-musicians
@@ -201,7 +207,7 @@ tags:
 - music-therapy
 title: Music Therapy
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Music Therapy
@@ -291,8 +297,12 @@ The integration of music therapy across various neurological conditions undersco
 - [fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care](../sources/fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care.md)
 - [fxa100-week04-what-is-music-health-and-wellbeing](../sources/fxa100-week04-what-is-music-health-and-wellbeing.md)
 - [fxa100-week06-test-paper-title](../sources/fxa100-week06-test-paper-title.md)
+- [fxa100-week13-editorial-the-state-of-the-art-in-creative-arts-therapies](../sources/fxa100-week13-editorial-the-state-of-the-art-in-creative-arts-therapies.md)
+- [fxa100-week13-music-interventions-for-people-with-dementia-a-review-of](../sources/fxa100-week13-music-interventions-for-people-with-dementia-a-review-of.md)
+- [fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness](../sources/fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness.md)
 - [fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the](../sources/fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the.md)
 - [fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music](../sources/fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music.md)
+- [fxa301-music-healt-and-wellbeing-ch05-10680-meymandi](../sources/fxa301-music-healt-and-wellbeing-ch05-10680-meymandi.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26](../sources/fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26.md)
 - [fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and](../sources/fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and.md)
 - [fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing](../sources/fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing.md)
@@ -320,3 +330,5 @@ The integration of music therapy across various neurological conditions undersco
 - [fxa303-week11-music-making-for-health-and-wellbeing-in-youth-justice](../sources/fxa303-week11-music-making-for-health-and-wellbeing-in-youth-justice.md)
 - [fxa303-week11-music-therapy-for-delinquency-involved-juveniles-through](../sources/fxa303-week11-music-therapy-for-delinquency-involved-juveniles-through.md)
 - [fxa303-week11-web-article-hardy-2019](../sources/fxa303-week11-web-article-hardy-2019.md)
+- [fxa303-week13-rethinking-musicality-in-dementia-as-embodied-and-relational](../sources/fxa303-week13-rethinking-musicality-in-dementia-as-embodied-and-relational.md)
+- [fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering](../sources/fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering.md)

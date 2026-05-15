@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dance-therapy
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Dance Therapy
@@ -24,6 +24,14 @@ updated: 2026-05-11
 - [Movement Therapy and Mental Health](../sources/fxa100-week11-movement-therapy-and-mental-health.md)
 - [Moving from Problem to Potential: Dance and Wellness in US Hospitals](../sources/fxa100-week11-moving-from-problem-to-potential-dance-and-wellness-in-us.md)
 - [Week 11 Lecture: Benefits of Dance and Movement for People with Dementia](../sources/fxa100-week11-week-11-lecture-benefits-of-dance-and-movement-for-people.md)
+- [A Pilot Randomized Controlled Clinical Trial of Dance Practice for Functionality in Autistic Children and Adolescent with All Levels of Need Support](../sources/fxa100-week13-a-pilot-randomized-controlled-clinical-trial-of-dance.md)
+- [Dance-Specific Activity in People Living With Dementia: A Conceptual Framework and Systematic Review of Its Effects on Neuropsychiatric Symptoms](../sources/fxa100-week13-dance-specific-activity-in-people-living-with-dementia-a.md)
+- [Dance therapy as an intervention for stress and depression: a systematic review and meta-analysis](../sources/fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression.md)
+- [Dance therapy in rehabilitation: a two-decade bibliometric analysis (2000\u20132024)](../sources/fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric.md)
+- [Effects of Neuromuscular Exercise and Dance Therapy on Physical Performance and Kinesiophobia in Geriatrics: A Randomized Controlled Study](../sources/fxa100-week13-effects-of-neuromuscular-exercise-and-dance-therapy-on.md)
+- [Impact of dance interventions on the symptoms of dementia: A mixed-methods systematic review](../sources/fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a.md)
+- [Mechanisms of change in dance/movement therapy and their neural correlates: A theoretical framework](../sources/fxa100-week13-mechanisms-of-change-in-dancemovement-therapy-and-their.md)
+- [The Oxford Handbook of Dance and Wellbeing](../sources/fxa301-oxford-handbook-of-dance-and-wellbeing.md)
 - [Dancing with Parkinson's: A Hopeful Approach](../sources/fxa301-week03-transcript-youtube-5utv1ergbs8.md)
 - [Case Studies of Music and Dance for Health and Wellbeing](../sources/fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing.md)
 - [Parkinson's Disease Motor Symptom Progression Slowed with Multisensory Dance Learning over 3-Years: A Preliminary Longitudinal Investigation](../sources/fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: personhood-reinforcement
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Personhood Reinforcement

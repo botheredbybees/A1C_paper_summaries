@@ -11,7 +11,7 @@ tags: ["clinical-guidelines", "evidence-based-medicine", "healthcare-quality-imp
 key_concepts: ["GRADE system", "quality of evidence", "strength of recommendations"]
 methods: ["systematic review"]
 slug: fxa301-week01-grade-an-emerging-consensus-on-rating-quality-of-evidence
-related: []
+related: ["clinical-guidelines"]
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -42,4 +42,4 @@ This article introduces the GRADE system, which is designed to provide a consist
 
 ## See Also
 
-*(none yet)*
+- [clinical-guidelines](../topics/clinical-guidelines.md)

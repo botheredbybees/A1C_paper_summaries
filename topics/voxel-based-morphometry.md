@@ -3,12 +3,14 @@ confidence: low
 domain: method
 slug: voxel-based-morphometry-in-neurodevelopmental-disorders
 sources:
+  - fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians
+  - fxa303-week13-distinct-mri-atrophy-patterns-in-autopsy-proven-alzheimers
 - fxa303-week04-distinct-regions-of-the-cerebellum-show-gray-matter
 tags:
 - voxel-based-morphometry
 title: Voxel-Based Morphometry in Neurodevelopmental Disorders
 type: topic
-updated: 2026-05-04
+updated: 2026-05-15
 ---
 
 ## Voxel-Based Morphometry in Neurodevelopmental Disorders
@@ -27,4 +29,5 @@ Voxel-based morphometry (VBM) has emerged as a critical neuroimaging method for 
 
 ## Sources
 
-- [fxa303-week04-distinct-regions-of-the-cerebellum-show-gray-matter](../sources/fxa303-week04-distinct-regions-of-the-cerebellum-show-gray-matter.md)
+- [fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians](../sources/fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians.md)
+- [fxa303-week13-distinct-mri-atrophy-patterns-in-autopsy-proven-alzheimers](../sources/fxa303-week13-distinct-mri-atrophy-patterns-in-autopsy-proven-alzheimers.md)

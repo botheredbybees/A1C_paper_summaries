@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-benefits
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Therapeutic Benefits
@@ -12,6 +12,7 @@ updated: 2026-05-11
 - [Storytelling with Image and Text: A Photo Essay on Donna's Journey](../sources/fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas.md)
 - [Expressive Writing Therapy Exercises & Examples](../sources/fxa202-week09-expressive-writing-therapy-exercises-examples.md)
 - [Reflection on the Therapeutic Benefits of Photography: A Personal Photo Essay Project](../sources/fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a.md)
+- [Therapeutic benefits and limitations of participatory photography for adults with mental health problems: A systematic search and literature review](../sources/fxa202-week13-therapeutic-benefits-and-limitations-of-participatory.md)
 - [How a dragon sculpture fueled hope and community for our patients](../sources/fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our.md)
 - [A systematic review of mental health and wellbeing outcomes of group singing for adults with a mental health condition](../sources/fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes.md)
 - [Further evidence that singing fosters mental health and wellbeing: the West Kent and Medway project](../sources/fxa301-week06-further-evidence-that-singing-fosters-mental-health-and.md)

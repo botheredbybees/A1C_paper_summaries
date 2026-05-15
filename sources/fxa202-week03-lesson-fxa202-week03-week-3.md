@@ -11,7 +11,7 @@ tags: ["social-media", "mental-health", "therapeutic-photography", "mindfulness"
 key_concepts: ["Therapeutic Photography", "Phototherapy", "Nomophobia"]
 methods: []
 slug: fxa202-week03-lesson-fxa202-week03-week-3
-related: ["mental-health", "mindfulness", "nomophobia", "therapeutic-photography"]
+related: ["mental-health", "mindfulness", "nomophobia", "social-media", "therapeutic-photography"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,4 +46,5 @@ In LAW122's Week 3 lecture on photography and health, Dr. Linda Erceg discusses 
 - [mental-health](../topics/mental-health.md)
 - [mindfulness](../topics/mindfulness.md)
 - [nomophobia](../topics/nomophobia.md)
+- [social-media](../topics/social-media.md)
 - [therapeutic-photography](../topics/therapeutic-photography.md)

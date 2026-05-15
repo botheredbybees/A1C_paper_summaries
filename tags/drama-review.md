@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: drama-review
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Drama Review

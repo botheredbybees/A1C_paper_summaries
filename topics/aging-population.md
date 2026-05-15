@@ -6,13 +6,15 @@ sources:
   - fxa100-week04-arts-and-creativity-interventions-for-improving-health-and
   - fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2)
   - fxa100-week11-dance-for-lifelong-wellbeing-research-findings-2017
+  - fxa100-week13-2018-alzheimers-disease-facts-and-figures
+  - fxa303-week13-intervention-and-application-of-clown-care-in-nursing-homes
 - fxa100-week04-arts-and-creativity-interventions-for-improving-health-and
 - fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2)
 tags:
 - aging-population
 title: Arts and Creativity Interventions for Older Adults
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Arts and Creativity Interventions for Older Adults
@@ -34,3 +36,5 @@ This synthesis explores the efficacy and economic impact of arts and creativity 
 - [fxa100-week04-arts-and-creativity-interventions-for-improving-health-and](../sources/fxa100-week04-arts-and-creativity-interventions-for-improving-health-and.md)
 - [fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2)](../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2).md)
 - [fxa100-week11-dance-for-lifelong-wellbeing-research-findings-2017](../sources/fxa100-week11-dance-for-lifelong-wellbeing-research-findings-2017.md)
+- [fxa100-week13-2018-alzheimers-disease-facts-and-figures](../sources/fxa100-week13-2018-alzheimers-disease-facts-and-figures.md)
+- [fxa303-week13-intervention-and-application-of-clown-care-in-nursing-homes](../sources/fxa303-week13-intervention-and-application-of-clown-care-in-nursing-homes.md)

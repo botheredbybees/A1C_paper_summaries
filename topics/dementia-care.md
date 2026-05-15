@@ -168,6 +168,13 @@ sources:
   - fxa100-week11-the-emotional-response-to-social-dancing-and-walks-in
   - fxa100-week11-transcript-youtube-tyf9-zkdrc8
   - fxa100-week11-week-11-lecture-benefits-of-dance-and-movement-for-people
+  - fxa100-week13-a-snapshot-of-italian-nursing-homes-for-people-with
+  - fxa100-week13-dance-specific-activity-in-people-living-with-dementia-a
+  - fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a
+  - fxa100-week13-emotion-work-in-caregiving-the-role-of-technology-to
+  - fxa100-week13-measuring-the-care-risk-in-older-adults-with-dementia-a
+  - fxa100-week13-music-interventions-for-people-with-dementia-a-review-of
+  - fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and
   - fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay
   - fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family
   - fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment
@@ -177,6 +184,25 @@ sources:
   - fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an
   - fxa303-week08-therapeutic-clowning
   - fxa303-week10-role-of-art-centres-for-aboriginal-australians-living-with
+  - fxa303-week13-application-of-cognitive-stimulation-in-the-care-of
+  - fxa303-week13-causes-of-nursing-home-placement-for-older-people-with
+  - fxa303-week13-der-demenz-clown-ein-konzept-zur-kultivierung-von-humor-und
+  - fxa303-week13-elder-clowning-in-long-term-dementia-care-results-of-a
+  - fxa303-week13-engagement-in-persons-with-dementia-the-concept-and-its
+  - fxa303-week13-evaluation-of-cognitive-stimulation-therapy-for-people-with
+  - fxa303-week13-improving-collaboration-between-staff-family-members-and
+  - fxa303-week13-intervention-of-companion-clowns-in-a-special-care-unit-a-1
+  - fxa303-week13-non-pharmacological-interventions-for-agitation-in-dementia
+  - fxa303-week13-our-role-is-to-listen-more-than-entertain-a-qualitative
+  - fxa303-week13-play-and-people-living-with-dementia-a-humanities-based
+  - fxa303-week13-remembering-yesterday-caring-today-reminiscence-in-dementia
+  - fxa303-week13-rethinking-musicality-in-dementia-as-embodied-and-relational
+  - fxa303-week13-routines-of-resistance-an-ethnography-of-the-care-of-people
+  - fxa303-week13-svedem-the-swedish-dementia-registry-a-tool-for-improving
+  - fxa303-week13-the-delivery-of-person-centered-care-for-people-living-with
+  - fxa303-week13-the-effects-of-mario-a-social-robot-on-the-resilience-of
+  - fxa303-week13-the-value-of-playwork-for-care-home-residents-living-with
+  - fxa303-week13-youre-the-only-thing-he-comes-out-of-his-room-for-a
 - fxa100-creativity-and-communication-ch01-10-playing-with-mud-ceramics-and-clay-claire-craig-clay-is
 - fxa100-creativity-and-communication-ch02-15-putting-the-it-into-creativity-exploring-the-creative
 - fxa100-creativity-and-communication-ch06-5-moving-in-the-moment-dance-john-killick-in-the-previous
@@ -350,7 +376,7 @@ tags:
 - dementia-care
 title: Dementia Care Interventions
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Dementia Care Interventions
@@ -534,6 +560,13 @@ The integration of creative arts and technology in dementia care reveals diverse
 - [fxa100-week11-the-emotional-response-to-social-dancing-and-walks-in](../sources/fxa100-week11-the-emotional-response-to-social-dancing-and-walks-in.md)
 - [fxa100-week11-transcript-youtube-tyf9-zkdrc8](../sources/fxa100-week11-transcript-youtube-tyf9-zkdrc8.md)
 - [fxa100-week11-week-11-lecture-benefits-of-dance-and-movement-for-people](../sources/fxa100-week11-week-11-lecture-benefits-of-dance-and-movement-for-people.md)
+- [fxa100-week13-a-snapshot-of-italian-nursing-homes-for-people-with](../sources/fxa100-week13-a-snapshot-of-italian-nursing-homes-for-people-with.md)
+- [fxa100-week13-dance-specific-activity-in-people-living-with-dementia-a](../sources/fxa100-week13-dance-specific-activity-in-people-living-with-dementia-a.md)
+- [fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a](../sources/fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a.md)
+- [fxa100-week13-emotion-work-in-caregiving-the-role-of-technology-to](../sources/fxa100-week13-emotion-work-in-caregiving-the-role-of-technology-to.md)
+- [fxa100-week13-measuring-the-care-risk-in-older-adults-with-dementia-a](../sources/fxa100-week13-measuring-the-care-risk-in-older-adults-with-dementia-a.md)
+- [fxa100-week13-music-interventions-for-people-with-dementia-a-review-of](../sources/fxa100-week13-music-interventions-for-people-with-dementia-a-review-of.md)
+- [fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and](../sources/fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and.md)
 - [fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay](../sources/fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay.md)
 - [fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family](../sources/fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family.md)
 - [fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment.md)
@@ -543,3 +576,22 @@ The integration of creative arts and technology in dementia care reveals diverse
 - [fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an](../sources/fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an.md)
 - [fxa303-week08-therapeutic-clowning](../sources/fxa303-week08-therapeutic-clowning.md)
 - [fxa303-week10-role-of-art-centres-for-aboriginal-australians-living-with](../sources/fxa303-week10-role-of-art-centres-for-aboriginal-australians-living-with.md)
+- [fxa303-week13-application-of-cognitive-stimulation-in-the-care-of](../sources/fxa303-week13-application-of-cognitive-stimulation-in-the-care-of.md)
+- [fxa303-week13-causes-of-nursing-home-placement-for-older-people-with](../sources/fxa303-week13-causes-of-nursing-home-placement-for-older-people-with.md)
+- [fxa303-week13-der-demenz-clown-ein-konzept-zur-kultivierung-von-humor-und](../sources/fxa303-week13-der-demenz-clown-ein-konzept-zur-kultivierung-von-humor-und.md)
+- [fxa303-week13-elder-clowning-in-long-term-dementia-care-results-of-a](../sources/fxa303-week13-elder-clowning-in-long-term-dementia-care-results-of-a.md)
+- [fxa303-week13-engagement-in-persons-with-dementia-the-concept-and-its](../sources/fxa303-week13-engagement-in-persons-with-dementia-the-concept-and-its.md)
+- [fxa303-week13-evaluation-of-cognitive-stimulation-therapy-for-people-with](../sources/fxa303-week13-evaluation-of-cognitive-stimulation-therapy-for-people-with.md)
+- [fxa303-week13-improving-collaboration-between-staff-family-members-and](../sources/fxa303-week13-improving-collaboration-between-staff-family-members-and.md)
+- [fxa303-week13-intervention-of-companion-clowns-in-a-special-care-unit-a-1](../sources/fxa303-week13-intervention-of-companion-clowns-in-a-special-care-unit-a-1.md)
+- [fxa303-week13-non-pharmacological-interventions-for-agitation-in-dementia](../sources/fxa303-week13-non-pharmacological-interventions-for-agitation-in-dementia.md)
+- [fxa303-week13-our-role-is-to-listen-more-than-entertain-a-qualitative](../sources/fxa303-week13-our-role-is-to-listen-more-than-entertain-a-qualitative.md)
+- [fxa303-week13-play-and-people-living-with-dementia-a-humanities-based](../sources/fxa303-week13-play-and-people-living-with-dementia-a-humanities-based.md)
+- [fxa303-week13-remembering-yesterday-caring-today-reminiscence-in-dementia](../sources/fxa303-week13-remembering-yesterday-caring-today-reminiscence-in-dementia.md)
+- [fxa303-week13-rethinking-musicality-in-dementia-as-embodied-and-relational](../sources/fxa303-week13-rethinking-musicality-in-dementia-as-embodied-and-relational.md)
+- [fxa303-week13-routines-of-resistance-an-ethnography-of-the-care-of-people](../sources/fxa303-week13-routines-of-resistance-an-ethnography-of-the-care-of-people.md)
+- [fxa303-week13-svedem-the-swedish-dementia-registry-a-tool-for-improving](../sources/fxa303-week13-svedem-the-swedish-dementia-registry-a-tool-for-improving.md)
+- [fxa303-week13-the-delivery-of-person-centered-care-for-people-living-with](../sources/fxa303-week13-the-delivery-of-person-centered-care-for-people-living-with.md)
+- [fxa303-week13-the-effects-of-mario-a-social-robot-on-the-resilience-of](../sources/fxa303-week13-the-effects-of-mario-a-social-robot-on-the-resilience-of.md)
+- [fxa303-week13-the-value-of-playwork-for-care-home-residents-living-with](../sources/fxa303-week13-the-value-of-playwork-for-care-home-residents-living-with.md)
+- [fxa303-week13-youre-the-only-thing-he-comes-out-of-his-room-for-a](../sources/fxa303-week13-youre-the-only-thing-he-comes-out-of-his-room-for-a.md)

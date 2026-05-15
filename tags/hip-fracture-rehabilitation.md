@@ -1,0 +1,9 @@
+---
+type: tag
+tag: hip-fracture-rehabilitation
+updated: 2026-05-15
+---
+
+## Hip Fracture Rehabilitation
+
+- [Psychiatric illness predicts poor outcome after surgery for hip fracture: a prospective cohort study](../sources/fxa303-week13-psychiatric-illness-predicts-poor-outcome-after-surgery-for.md)

@@ -7,8 +7,9 @@ tags: ["movement-therapy"]
 sources:
   - fxa100-week11-dance-and-movement-therapeutic-methods-in-management-of
   - fxa100-week11-lesson-fxa100-week11-page-3-dancemovement-therapy
+  - fxa100-week13-biodanza-and-a-sense-of-resilience-in-times-of-war
   - fxa301-week06-the-art-and-science-of-dancemovement-therapy
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Dance and Movement Therapy
@@ -29,4 +30,5 @@ The integration of dance and movement into therapeutic practices has been shown 
 
 - [fxa100-week11-dance-and-movement-therapeutic-methods-in-management-of](../sources/fxa100-week11-dance-and-movement-therapeutic-methods-in-management-of.md)
 - [fxa100-week11-lesson-fxa100-week11-page-3-dancemovement-therapy](../sources/fxa100-week11-lesson-fxa100-week11-page-3-dancemovement-therapy.md)
+- [fxa100-week13-biodanza-and-a-sense-of-resilience-in-times-of-war](../sources/fxa100-week13-biodanza-and-a-sense-of-resilience-in-times-of-war.md)
 - [fxa301-week06-the-art-and-science-of-dancemovement-therapy](../sources/fxa301-week06-the-art-and-science-of-dancemovement-therapy.md)

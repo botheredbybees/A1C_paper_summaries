@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: digital-accessibility-standards
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Digital Accessibility Standards

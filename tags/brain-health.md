@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-health
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Brain Health
@@ -10,3 +10,4 @@ updated: 2026-05-11
 - [Transcript: Dementia Australia - Vascular Cognitive Impairment](../sources/fxa100-week01-transcript-dementia-australia.md)
 - [Vital Role of Visceral Adipose Tissue in Maintaining Cognitive Functions](../sources/fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining.md)
 - [Dancing and the Brain](../sources/fxa100-week11-dancing-and-the-brain.md)
+- [Exercise Benefits on Alzheimer\u2019s Disease: State-of-the-Science](../sources/fxa100-week13-exercise-benefits-on-alzheimers-disease-state-of-the-science.md)

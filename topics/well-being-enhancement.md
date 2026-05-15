@@ -5,13 +5,14 @@ slug: well-being-enhancement
 sources:
   - fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care
   - fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life
+  - fxa202-week13-it-fostered-a-greater-appreciation-for-my-little-corner-of
 - fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care
 - fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life
 tags:
 - well-being-enhancement
 title: Well-Being Enhancement
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Well-Being Enhancement
@@ -32,3 +33,4 @@ Sources indicate the significant positive impact of arts-based interventions on 
 
 - [fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care](../sources/fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care.md)
 - [fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life](../sources/fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life.md)
+- [fxa202-week13-it-fostered-a-greater-appreciation-for-my-little-corner-of](../sources/fxa202-week13-it-fostered-a-greater-appreciation-for-my-little-corner-of.md)

@@ -11,7 +11,7 @@ tags: ["art-therapy", "psychosocial-support", "community-resilience", "fxa303"]
 key_concepts: []
 methods: []
 slug: fxa303-art-therapy-in-response-to-natural-disasters-ch01-1-body-tracing
-related: ["art-therapy", "community-resilience"]
+related: ["art-therapy", "community-resilience", "psychosocial-support"]
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -41,3 +41,4 @@ This chapter describes a five-day arts-based program called THRiVE organized for
 
 - [art-therapy](../topics/art-therapy.md)
 - [community-resilience](../topics/community-resilience.md)
+- [psychosocial-support](../topics/psychosocial-support.md)

@@ -3,13 +3,15 @@ confidence: medium
 domain: method
 slug: randomized-controlled-trials
 sources:
+  - fxa100-week13-effects-of-yoga-like-exercises-on-mild-and-moderate
+  - fxa303-week13-evaluation-of-cognitive-stimulation-therapy-for-people-with
 - fxa100-week09-dance-movement-therapy-for-dementia
 - fxa301-week01-lesson-fxa301-week01-page-1-hm
 tags:
 - randomized-controlled-trial
 title: Randomized Controlled Trials
 type: topic
-updated: 2026-05-04
+updated: 2026-05-15
 ---
 
 ## Randomized Controlled Trials
@@ -27,5 +29,5 @@ The sources highlight the utility and multifaceted application of randomized con
 
 ## Sources
 
-- [fxa100-week09-dance-movement-therapy-for-dementia](../sources/fxa100-week09-dance-movement-therapy-for-dementia.md)
-- [fxa301-week01-lesson-fxa301-week01-page-1-hm](../sources/fxa301-week01-lesson-fxa301-week01-page-1-hm.md)
+- [fxa100-week13-effects-of-yoga-like-exercises-on-mild-and-moderate](../sources/fxa100-week13-effects-of-yoga-like-exercises-on-mild-and-moderate.md)
+- [fxa303-week13-evaluation-of-cognitive-stimulation-therapy-for-people-with](../sources/fxa303-week13-evaluation-of-cognitive-stimulation-therapy-for-people-with.md)

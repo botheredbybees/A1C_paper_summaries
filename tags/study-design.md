@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: study-design
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Study Design

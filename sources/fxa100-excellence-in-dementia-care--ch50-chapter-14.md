@@ -11,7 +11,7 @@ tags: ["dementia-care", "neuropsychology", "pharmaceutical-interventions", "fxa1
 key_concepts: ["bio-psycho-social model of dementia care", "explicit vs implicit memory", "malignant social psychology"]
 methods: []
 slug: fxa100-excellence-in-dementia-care--ch50-chapter-14
-related: ["dementia-care"]
+related: ["dementia-care", "neuropsychology"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,3 +42,4 @@ The chapter discusses the challenges faced by individuals with dementia and thei
 ## See Also
 
 - [dementia-care](../topics/dementia-care.md)
+- [neuropsychology](../topics/neuropsychology.md)

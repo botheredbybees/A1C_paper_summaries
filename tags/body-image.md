@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: body-image
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Body Image

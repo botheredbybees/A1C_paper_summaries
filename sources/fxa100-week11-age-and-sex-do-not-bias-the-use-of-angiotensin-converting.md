@@ -11,7 +11,7 @@ tags: ["age-bias", "heart-failure-treatment", "cardiovascular-mortality", "clini
 key_concepts: ["angiotensin-converting-enzyme-inhibitors", "acute-myocardial-infarction", "congestive-heart-failure"]
 methods: ["retrospective-cohort-study"]
 slug: fxa100-week11-age-and-sex-do-not-bias-the-use-of-angiotensin-converting
-related: []
+related: ["clinical-practice"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -42,4 +42,4 @@ The study investigates whether age and sex biases influence the use of angiotens
 
 ## See Also
 
-*(none yet)*
+- [clinical-practice](../topics/clinical-practice.md)

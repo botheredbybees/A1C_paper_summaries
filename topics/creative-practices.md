@@ -3,6 +3,7 @@ confidence: medium
 domain: method
 slug: creative-arts-for-community-wellbeing
 sources:
+  - fxa202-week13-an-applied-phenomenology-the-inner-life-of-writing-poetry
   - fxa301-week01-a-step-by-step-approach-to-the-research-process
   - fxa303-week10-yesterday-i-couldnt-see-tomorrows-sun-shines-now-sharing
 - fxa301-week01-a-step-by-step-approach-to-the-research-process
@@ -11,7 +12,7 @@ tags:
 - creative-practices
 title: Creative Arts for Community Wellbeing
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Creative Arts for Community Wellbeing
@@ -30,5 +31,6 @@ The sources collectively emphasize the utility and importance of creative arts m
 
 ## Sources
 
+- [fxa202-week13-an-applied-phenomenology-the-inner-life-of-writing-poetry](../sources/fxa202-week13-an-applied-phenomenology-the-inner-life-of-writing-poetry.md)
 - [fxa301-week01-a-step-by-step-approach-to-the-research-process](../sources/fxa301-week01-a-step-by-step-approach-to-the-research-process.md)
 - [fxa303-week10-yesterday-i-couldnt-see-tomorrows-sun-shines-now-sharing](../sources/fxa303-week10-yesterday-i-couldnt-see-tomorrows-sun-shines-now-sharing.md)

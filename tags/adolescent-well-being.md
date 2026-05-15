@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: adolescent-well-being
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Adolescent Well Being

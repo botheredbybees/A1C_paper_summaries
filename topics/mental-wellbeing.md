@@ -44,6 +44,7 @@ sources:
   - fxa303-week11-hidden-identities-and-concealed-dangers-visual-art
   - fxa303-week11-lesson-fxa303-week11-page-1-overview
   - fxa303-week11-lesson-fxa303-week11-page-3
+  - fxa303-week13-the-effect-of-humor-on-elder-mental-and-physical-health
 - fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography
 - fxa202-week03-week-3-introduction-photography-and-health
 - fxa301-week01-evaluating-and-establishing-national-norms-for-mental
@@ -84,7 +85,7 @@ tags:
 - mental-wellbeing
 title: Photography as a Tool for Mental Wellbeing
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Photography as a Tool for Mental Wellbeing
@@ -144,3 +145,4 @@ Both sources explore photography's role in enhancing mental health through mindf
 - [fxa303-week11-hidden-identities-and-concealed-dangers-visual-art](../sources/fxa303-week11-hidden-identities-and-concealed-dangers-visual-art.md)
 - [fxa303-week11-lesson-fxa303-week11-page-1-overview](../sources/fxa303-week11-lesson-fxa303-week11-page-1-overview.md)
 - [fxa303-week11-lesson-fxa303-week11-page-3](../sources/fxa303-week11-lesson-fxa303-week11-page-3.md)
+- [fxa303-week13-the-effect-of-humor-on-elder-mental-and-physical-health](../sources/fxa303-week13-the-effect-of-humor-on-elder-mental-and-physical-health.md)

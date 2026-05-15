@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: pilot-study-methods
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Pilot Study Methods

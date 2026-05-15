@@ -5,6 +5,8 @@ slug: cross-cultural-research-invariants
 sources:
   - fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and
   - fxa100-week08-development-of-a-novel-benchmark-method-to-identify-and
+  - fxa100-week13-validation-of-the-chinese-translation-of-the-6-item-de-jong
+  - fxa100-week13-validation-study-of-the-chinese-version
   - fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in
   - fxa303-week10-indigenous-and-traditional-visual-artistic-practices
 - fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and
@@ -15,7 +17,7 @@ tags:
 - cross-cultural-research
 title: Cross-Cultural Research Invariants
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Cross-Cultural Research Invariants
@@ -35,5 +37,7 @@ The investigation into cross-cultural research highlights the universality of ce
 
 - [fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and](../sources/fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and.md)
 - [fxa100-week08-development-of-a-novel-benchmark-method-to-identify-and](../sources/fxa100-week08-development-of-a-novel-benchmark-method-to-identify-and.md)
+- [fxa100-week13-validation-of-the-chinese-translation-of-the-6-item-de-jong](../sources/fxa100-week13-validation-of-the-chinese-translation-of-the-6-item-de-jong.md)
+- [fxa100-week13-validation-study-of-the-chinese-version](../sources/fxa100-week13-validation-study-of-the-chinese-version.md)
 - [fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in](../sources/fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in.md)
 - [fxa303-week10-indigenous-and-traditional-visual-artistic-practices](../sources/fxa303-week10-indigenous-and-traditional-visual-artistic-practices.md)

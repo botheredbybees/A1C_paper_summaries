@@ -11,7 +11,7 @@ tags: ["mental-wellbeing", "health-behaviours", "swemwbs-evaluation", "populatio
 key_concepts: ["Short Warwick Edinburgh Mental Wellbeing Scale (SWEMWBS)", "Health Survey for England", "Criterion and Relative Validity"]
 methods: ["survey-research", "statistical-analysis"]
 slug: fxa301-week01-how-are-health-behaviours-associated-with-mental-wellbeing
-related: ["mental-wellbeing", "population-health"]
+related: ["mental-health-measurement", "mental-wellbeing", "population-health"]
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -48,5 +48,6 @@ The research concluded that SWEMWBS distinguishes mental wellbeing between group
 
 ## See Also
 
+- [mental-health-measurement](../topics/mental-health-measurement.md)
 - [mental-wellbeing](../topics/mental-wellbeing.md)
 - [population-health](../topics/population-health.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: expressive-therapies
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Expressive Therapies

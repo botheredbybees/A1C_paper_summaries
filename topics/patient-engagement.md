@@ -3,12 +3,14 @@ confidence: low
 domain: intervention
 slug: patient-engagement-through-humor-based-interventions
 sources:
+  - fxa100-week08-creativity-and-communication-in-persons-with-dementia
+  - fxa303-week13-engagement-in-persons-with-dementia-the-concept-and-its
 - fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent
 tags:
 - patient-engagement
 title: Patient Engagement Through Humor-Based Interventions
 type: topic
-updated: 2026-05-04
+updated: 2026-05-15
 ---
 
 ## Patient Engagement Through Humor-Based Interventions
@@ -27,4 +29,5 @@ The study of a Clown Doctor Program in an adolescent psychiatric unit highlights
 
 ## Sources
 
-- [fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent](../sources/fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent.md)
+- [fxa100-week08-creativity-and-communication-in-persons-with-dementia](../sources/fxa100-week08-creativity-and-communication-in-persons-with-dementia.md)
+- [fxa303-week13-engagement-in-persons-with-dementia-the-concept-and-its](../sources/fxa303-week13-engagement-in-persons-with-dementia-the-concept-and-its.md)

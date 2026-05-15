@@ -9,10 +9,14 @@ sources:
   - fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2)
   - fxa100-week09-week-9-lecture-dramatherapy-dance-therapy-and-applied
   - fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living
+  - fxa100-week13-dance-in-prisons-a-systematic-review-and-narrative-synthesis
+  - fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression
   - fxa202-week03-can-photography-help-depression
   - fxa202-week03-what-is-therapeutic-photography
   - fxa202-week08-photography-as-self-therapy-an-introduction-for-beginners
   - fxa202-week09-expressive-writing-therapy-exercises-examples
+  - fxa202-week13-phototherapy-to-increase-self-compassion-in-college-students
+  - fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2)
   - fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6
   - fxa301-week01-arts-on-prescription-in-sefton-programme-report
   - fxa301-week01-guidelines-for-arts-and-mental-health-projects
@@ -29,6 +33,8 @@ sources:
   - fxa303-week08-therapeutic-clowns-in-pediatrics-a-systematic-review-and
   - fxa303-week10-indigenous-and-traditional-visual-artistic-practices
   - fxa303-week11-creative-arts-therapies-for-the-mental-health-of-emerging
+  - fxa303-week13-evaluation-of-a-standardized-humor-group-in-a-clinical
+  - fxa303-week13-social-ties-and-mental-health
 - fxa100-week03-music-therapy-for-depression-it-seems-to-work-but-how
 - fxa100-week04-guidelines-for-arts-and-mental-health-projects
 - fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery
@@ -57,7 +63,7 @@ tags:
 - mental-health-interventions
 title: Creative Therapies in Mental Health
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Creative Therapies in Mental Health
@@ -82,10 +88,14 @@ The exploration of creative therapies such as photography and play offers unique
 - [fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2)](../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2).md)
 - [fxa100-week09-week-9-lecture-dramatherapy-dance-therapy-and-applied](../sources/fxa100-week09-week-9-lecture-dramatherapy-dance-therapy-and-applied.md)
 - [fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living](../sources/fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living.md)
+- [fxa100-week13-dance-in-prisons-a-systematic-review-and-narrative-synthesis](../sources/fxa100-week13-dance-in-prisons-a-systematic-review-and-narrative-synthesis.md)
+- [fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression](../sources/fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression.md)
 - [fxa202-week03-can-photography-help-depression](../sources/fxa202-week03-can-photography-help-depression.md)
 - [fxa202-week03-what-is-therapeutic-photography](../sources/fxa202-week03-what-is-therapeutic-photography.md)
 - [fxa202-week08-photography-as-self-therapy-an-introduction-for-beginners](../sources/fxa202-week08-photography-as-self-therapy-an-introduction-for-beginners.md)
 - [fxa202-week09-expressive-writing-therapy-exercises-examples](../sources/fxa202-week09-expressive-writing-therapy-exercises-examples.md)
+- [fxa202-week13-phototherapy-to-increase-self-compassion-in-college-students](../sources/fxa202-week13-phototherapy-to-increase-self-compassion-in-college-students.md)
+- [fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2)](../sources/fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2).md)
 - [fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6](../sources/fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6.md)
 - [fxa301-week01-arts-on-prescription-in-sefton-programme-report](../sources/fxa301-week01-arts-on-prescription-in-sefton-programme-report.md)
 - [fxa301-week01-guidelines-for-arts-and-mental-health-projects](../sources/fxa301-week01-guidelines-for-arts-and-mental-health-projects.md)
@@ -102,3 +112,5 @@ The exploration of creative therapies such as photography and play offers unique
 - [fxa303-week08-therapeutic-clowns-in-pediatrics-a-systematic-review-and](../sources/fxa303-week08-therapeutic-clowns-in-pediatrics-a-systematic-review-and.md)
 - [fxa303-week10-indigenous-and-traditional-visual-artistic-practices](../sources/fxa303-week10-indigenous-and-traditional-visual-artistic-practices.md)
 - [fxa303-week11-creative-arts-therapies-for-the-mental-health-of-emerging](../sources/fxa303-week11-creative-arts-therapies-for-the-mental-health-of-emerging.md)
+- [fxa303-week13-evaluation-of-a-standardized-humor-group-in-a-clinical](../sources/fxa303-week13-evaluation-of-a-standardized-humor-group-in-a-clinical.md)
+- [fxa303-week13-social-ties-and-mental-health](../sources/fxa303-week13-social-ties-and-mental-health.md)

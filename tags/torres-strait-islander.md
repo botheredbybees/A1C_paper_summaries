@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: torres-strait-islander
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Torres Strait Islander

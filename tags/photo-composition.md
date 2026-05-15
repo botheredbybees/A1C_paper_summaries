@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: photo-composition
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Photo Composition

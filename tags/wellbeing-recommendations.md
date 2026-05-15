@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: wellbeing-recommendations
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Wellbeing Recommendations

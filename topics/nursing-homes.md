@@ -4,8 +4,12 @@ domain: intervention
 slug: interventions-for-dementia-in-nursing-homes
 sources:
   - fxa100-week03-final-report-wisconsin-music-memory-program-student
+  - fxa100-week13-a-snapshot-of-italian-nursing-homes-for-people-with
   - fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a
   - fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
+  - fxa303-week13-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
+  - fxa303-week13-the-complexities-of-implementing-an-lgbt-inclusion-scheme
+  - fxa303-week13-the-sydney-multisite-intervention-of-laughterbosses-and
 - fxa100-week03-final-report-wisconsin-music-memory-program-student
 - fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a
 - fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
@@ -13,7 +17,7 @@ tags:
 - nursing-homes
 title: Interventions for Dementia in Nursing Homes
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Interventions for Dementia in Nursing Homes
@@ -33,5 +37,9 @@ The provided sources highlight two distinct but complementary approaches to impr
 ## Sources
 
 - [fxa100-week03-final-report-wisconsin-music-memory-program-student](../sources/fxa100-week03-final-report-wisconsin-music-memory-program-student.md)
+- [fxa100-week13-a-snapshot-of-italian-nursing-homes-for-people-with](../sources/fxa100-week13-a-snapshot-of-italian-nursing-homes-for-people-with.md)
 - [fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a](../sources/fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a.md)
 - [fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns](../sources/fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns.md)
+- [fxa303-week13-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns](../sources/fxa303-week13-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns.md)
+- [fxa303-week13-the-complexities-of-implementing-an-lgbt-inclusion-scheme](../sources/fxa303-week13-the-complexities-of-implementing-an-lgbt-inclusion-scheme.md)
+- [fxa303-week13-the-sydney-multisite-intervention-of-laughterbosses-and](../sources/fxa303-week13-the-sydney-multisite-intervention-of-laughterbosses-and.md)

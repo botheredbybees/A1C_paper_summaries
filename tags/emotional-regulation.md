@@ -1,11 +1,12 @@
 ---
 type: tag
 tag: emotional-regulation
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Emotional Regulation
 
+- [DANCE MOVEMENT THERAPY IMPROVES EMOTIONAL RESPONSES AND MODULATES NEUROHORMONES IN ADOLESCENTS WITH MILD DEPRESSION](../sources/fxa100-week13-dance-movement-therapy-improves-emotional-responses-and.md)
 - [The brain and how we perceive information](../sources/fxa301-week02-the-brain-and-how-we-perceive-information.md)
 - [Humor and Resiliency: Towards a Process Model of Coping and Growth](../sources/fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and.md)
 - [Creative, Artistic, and Expressive Therapies for PTSD](../sources/fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd.md)

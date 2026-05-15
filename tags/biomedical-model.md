@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: biomedical-model
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Biomedical Model

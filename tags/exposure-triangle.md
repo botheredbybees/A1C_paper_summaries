@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: exposure-triangle
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Exposure Triangle

@@ -4,6 +4,7 @@ domain: intervention
 slug: puppet-therapy
 sources:
   - fxa303-puppet-play-therapy-ch08-6-posture-keep-your-arm-holding-the-puppet-at-a-right-angle
+  - fxa303-puppet-play-therapy-ch09-458-woltmann
   - fxa303-week05-puppets-and-self-care-for-task-2
   - fxa303-week06-lesson-fxa303-week06-page-2-puppets-and-expression
   - fxa303-week06-lesson-fxa303-week06-page-4-week-6-activities
@@ -27,7 +28,7 @@ tags:
 - puppet-therapy
 title: Puppet Therapy
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Puppet Therapy
@@ -47,6 +48,7 @@ Puppet therapy emerges as a versatile intervention strategy in therapeutic setti
 ## Sources
 
 - [fxa303-puppet-play-therapy-ch08-6-posture-keep-your-arm-holding-the-puppet-at-a-right-angle](../sources/fxa303-puppet-play-therapy-ch08-6-posture-keep-your-arm-holding-the-puppet-at-a-right-angle.md)
+- [fxa303-puppet-play-therapy-ch09-458-woltmann](../sources/fxa303-puppet-play-therapy-ch09-458-woltmann.md)
 - [fxa303-week05-puppets-and-self-care-for-task-2](../sources/fxa303-week05-puppets-and-self-care-for-task-2.md)
 - [fxa303-week06-lesson-fxa303-week06-page-2-puppets-and-expression](../sources/fxa303-week06-lesson-fxa303-week06-page-2-puppets-and-expression.md)
 - [fxa303-week06-lesson-fxa303-week06-page-4-week-6-activities](../sources/fxa303-week06-lesson-fxa303-week06-page-4-week-6-activities.md)

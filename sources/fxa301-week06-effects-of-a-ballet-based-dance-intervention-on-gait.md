@@ -11,7 +11,7 @@ tags: ["parkinsons-disease", "dance-intervention", "gait-variability", "balance-
 key_concepts: ["Parkinson's disease", "gait variability", "balance confidence"]
 methods: ["case-control study"]
 slug: fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait
-related: ["dance-intervention", "neurorehabilitation", "parkinsons-disease"]
+related: ["balance-confidence", "dance-intervention", "neurorehabilitation", "parkinsons-disease"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,6 +44,7 @@ This study investigates the impact of weekly ballet dance classes on gait variab
 
 ## See Also
 
+- [balance-confidence](../topics/balance-confidence.md)
 - [dance-intervention](../topics/dance-intervention.md)
 - [neurorehabilitation](../topics/neurorehabilitation.md)
 - [parkinsons-disease](../topics/parkinsons-disease.md)

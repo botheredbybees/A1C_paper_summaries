@@ -11,7 +11,7 @@ tags: ["neurocognitive-disorders", "alzheimer-disease", "frontotemporal-degenera
 key_concepts: ["Diagnostic Criteria", "Clinical Judgment", "Medical Etiologies"]
 methods: ["Guideline Development"]
 slug: fxa303-week04-dsm-5-tr-neurocognitive-disorders-supplement
-related: ["alzheimer-disease"]
+related: ["alzheimer-disease", "frontotemporal-degeneration"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,3 +42,4 @@ The document is a supplement to the Diagnostic and Statistical Manual of Mental 
 ## See Also
 
 - [alzheimer-disease](../topics/alzheimer-disease.md)
+- [frontotemporal-degeneration](../topics/frontotemporal-degeneration.md)

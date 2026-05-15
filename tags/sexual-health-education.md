@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sexual-health-education
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Sexual Health Education

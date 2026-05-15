@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurodegeneration-risk-factors
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Neurodegeneration Risk Factors

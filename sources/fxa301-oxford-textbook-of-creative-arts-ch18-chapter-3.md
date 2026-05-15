@@ -11,7 +11,7 @@ tags: ["public-health", "art-and-health", "social-welfare", "fxa301"]
 key_concepts: ["public health waves", "emergent societal problems"]
 methods: []
 slug: fxa301-oxford-textbook-of-creative-arts-ch18-chapter-3
-related: ["public-health"]
+related: ["art-and-health", "public-health"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -40,4 +40,5 @@ This chapter explores the evolution of public health waves in the UK since the I
 
 ## See Also
 
+- [art-and-health](../topics/art-and-health.md)
 - [public-health](../topics/public-health.md)

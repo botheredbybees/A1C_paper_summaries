@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: adaptive-instruments
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Adaptive Instruments

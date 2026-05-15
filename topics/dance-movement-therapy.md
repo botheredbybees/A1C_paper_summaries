@@ -6,13 +6,18 @@ sources:
   - fxa100-week09-dance-movement-therapy-for-dementia
   - fxa100-week09-transcript-youtube-lq0ko6-w4uc
   - fxa100-week11-transcript-youtube-tyf9-zkdrc8
+  - fxa100-week13-dance-movement-therapy-improves-emotional-responses-and
+  - fxa100-week13-editorial-the-state-of-the-art-in-creative-arts-therapies
+  - fxa100-week13-psychophysiological-effects-of-dance-movement-therapy-and
+  - fxa100-week13-tracing-the-invisible-quantifying-mirroring-and-embodied
+  - fxa303-week13-dance-movement-therapy-for-neurodegenerative-diseases-a
 - fxa100-week09-dance-movement-therapy-for-dementia
 - fxa100-week09-transcript-youtube-lq0ko6-w4uc
 tags:
 - dance-movement-therapy
 title: Dance-Movement Therapy
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Dance-Movement Therapy
@@ -33,3 +38,8 @@ Dance-movement therapy (DMT) emerges as an effective intervention across diverse
 - [fxa100-week09-dance-movement-therapy-for-dementia](../sources/fxa100-week09-dance-movement-therapy-for-dementia.md)
 - [fxa100-week09-transcript-youtube-lq0ko6-w4uc](../sources/fxa100-week09-transcript-youtube-lq0ko6-w4uc.md)
 - [fxa100-week11-transcript-youtube-tyf9-zkdrc8](../sources/fxa100-week11-transcript-youtube-tyf9-zkdrc8.md)
+- [fxa100-week13-dance-movement-therapy-improves-emotional-responses-and](../sources/fxa100-week13-dance-movement-therapy-improves-emotional-responses-and.md)
+- [fxa100-week13-editorial-the-state-of-the-art-in-creative-arts-therapies](../sources/fxa100-week13-editorial-the-state-of-the-art-in-creative-arts-therapies.md)
+- [fxa100-week13-psychophysiological-effects-of-dance-movement-therapy-and](../sources/fxa100-week13-psychophysiological-effects-of-dance-movement-therapy-and.md)
+- [fxa100-week13-tracing-the-invisible-quantifying-mirroring-and-embodied](../sources/fxa100-week13-tracing-the-invisible-quantifying-mirroring-and-embodied.md)
+- [fxa303-week13-dance-movement-therapy-for-neurodegenerative-diseases-a](../sources/fxa303-week13-dance-movement-therapy-for-neurodegenerative-diseases-a.md)

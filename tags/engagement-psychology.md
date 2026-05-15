@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: engagement-psychology
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Engagement Psychology

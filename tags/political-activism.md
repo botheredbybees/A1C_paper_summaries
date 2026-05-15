@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: political-activism
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Political Activism

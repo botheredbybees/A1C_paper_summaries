@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: narrative-therapy
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Narrative Therapy

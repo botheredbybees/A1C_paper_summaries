@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ethics-in-health
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Ethics In Health

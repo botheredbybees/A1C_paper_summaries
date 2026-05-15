@@ -11,7 +11,7 @@ tags: ["dementia-statistics", "australian-healthcare", "elder-care", "fxa100"]
 key_concepts: ["prevalence rates", "young onset dementia"]
 methods: ["epidemiological study"]
 slug: fxa100-week01-dementia-facts-and-figures
-related: ["elder-care"]
+related: ["dementia-statistics", "elder-care"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,4 +40,5 @@ The document 'Dementia facts and figures' by Dementia Australia provides an over
 
 ## See Also
 
+- [dementia-statistics](../topics/dementia-statistics.md)
 - [elder-care](../topics/elder-care.md)

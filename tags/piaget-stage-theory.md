@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: piaget-stage-theory
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Piaget Stage Theory

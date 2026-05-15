@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: climate-change-and-environment
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Climate Change And Environment

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: teen-brain-development
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Teen Brain Development

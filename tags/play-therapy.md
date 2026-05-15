@@ -1,11 +1,12 @@
 ---
 type: tag
 tag: play-therapy
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Play Therapy
 
+- [Puppet Play Therapy with Children of All Ages](../sources/fxa303-puppet-play-therapy-ch09-458-woltmann.md)
 - [Puppet Play Therapy: A Practical Guidebook - Chapter on Adlerian Theory](../sources/fxa303-puppet-play-therapy-ch10-chapter-2.md)
 - [An Overview of Play Therapy](../sources/fxa303-week01-an-overview-of-play-therapy.md)
 - [Play Therapy: An Analytical Mode of Therapy in Children](../sources/fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children.md)

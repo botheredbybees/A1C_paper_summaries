@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: puppetry-symbolism
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Puppetry Symbolism

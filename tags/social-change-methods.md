@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-change-methods
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Social Change Methods

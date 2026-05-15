@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: career-pathways
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Career Pathways

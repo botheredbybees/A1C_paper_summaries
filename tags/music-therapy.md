@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-therapy
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Music Therapy
@@ -77,8 +77,12 @@ updated: 2026-05-11
 - [Welcome to Week 4 - FXA100 The Arts and Dementia Care](../sources/fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care.md)
 - [What is Music, Health, and Wellbeing?](../sources/fxa100-week04-what-is-music-health-and-wellbeing.md)
 - [Test Paper Title](../sources/fxa100-week06-test-paper-title.md)
+- [Editorial: The State of the Art in Creative Arts Therapies](../sources/fxa100-week13-editorial-the-state-of-the-art-in-creative-arts-therapies.md)
+- [Music Interventions for People with Dementia: A Review of the Literature](../sources/fxa100-week13-music-interventions-for-people-with-dementia-a-review-of.md)
+- [The Effect from Music Therapy Upon Alzheimer's Illness](../sources/fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness.md)
 - [Arts in Health: Designing and researching interventions - Neurology](../sources/fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the.md)
 - [Projects Using Music for Social, Health and Economic Issues](../sources/fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music.md)
+- [Weapons of Mass Happiness: Social Justice and Health Equity in the Context of the Arts](../sources/fxa301-music-healt-and-wellbeing-ch05-10680-meymandi.md)
 - [The value of music for public health](../sources/fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26.md)
 - [Bringing Music to Life: a Study of Music Therapy and Palliative Care Experiences in a Cancer Hospital](../sources/fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and.md)
 - [Case Studies of Music and Dance for Health and Wellbeing](../sources/fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing.md)
@@ -106,3 +110,5 @@ updated: 2026-05-11
 - [Music-making for health and wellbeing in youth justice settings](../sources/fxa303-week11-music-making-for-health-and-wellbeing-in-youth-justice.md)
 - [Music Therapy for Delinquency Involved Juveniles Through Tripartite Collaboration: A Mixed Method Study](../sources/fxa303-week11-music-therapy-for-delinquency-involved-juveniles-through.md)
 - [Queering Queer Spaces: Journey of a Creative Arts Program for Trans, Non-Binary, and Gender Creative Youth](../sources/fxa303-week11-web-article-hardy-2019.md)
+- [Rethinking musicality in dementia as embodied and relational](../sources/fxa303-week13-rethinking-musicality-in-dementia-as-embodied-and-relational.md)
+- [The MINWii Project: Renarcissization of Patients Suffering from Alzheimer\u2019s Disease Through Video Game-Based Music Therapy](../sources/fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering.md)

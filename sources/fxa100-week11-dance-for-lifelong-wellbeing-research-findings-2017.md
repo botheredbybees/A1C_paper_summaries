@@ -11,7 +11,7 @@ tags: ["dance-therapy", "aging-population", "wellbeing-research", "physical-fitn
 key_concepts: ["quality-of-life", "balance-improvement", "self-direction"]
 methods: ["observational-study", "qualitative-analysis"]
 slug: fxa100-week11-dance-for-lifelong-wellbeing-research-findings-2017
-related: ["aging-population", "dance-therapy", "wellbeing-research"]
+related: ["aging-population", "dance-therapy", "physical-fitness", "wellbeing-research"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -45,4 +45,5 @@ The 'Dance for Lifelong Wellbeing' project, led by the Royal Academy of Dance (R
 
 - [aging-population](../topics/aging-population.md)
 - [dance-therapy](../topics/dance-therapy.md)
+- [physical-fitness](../topics/physical-fitness.md)
 - [wellbeing-research](../topics/wellbeing-research.md)

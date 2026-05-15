@@ -11,7 +11,7 @@ tags: ["mental-health", "wellbeing", "singing-groups", "community-initiatives", 
 key_concepts: ["mental health outcomes", "choral singing therapy", "community network support"]
 methods: ["case study"]
 slug: fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings
-related: ["mental-health", "social-inclusion", "wellbeing"]
+related: ["community-initiatives", "mental-health", "social-inclusion", "wellbeing"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,6 +44,7 @@ This paper describes an innovative community singing initiative in East Kent, UK
 
 ## See Also
 
+- [community-initiatives](../topics/community-initiatives.md)
 - [mental-health](../topics/mental-health.md)
 - [social-inclusion](../topics/social-inclusion.md)
 - [wellbeing](../topics/wellbeing.md)

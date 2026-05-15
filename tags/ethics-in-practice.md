@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ethics-in-practice
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Ethics In Practice

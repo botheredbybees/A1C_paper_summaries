@@ -11,7 +11,7 @@ tags: ["art-therapy", "refugee-support", "community-mural", "psychosocial-interv
 key_concepts: ["art therapy", "community mural", "psychological well-being"]
 methods: ["case study"]
 slug: fxa301-week11-tomorrow-we-make-it-better-an-art-therapists-reflection-on
-related: ["art-therapy", "refugee-support"]
+related: ["art-therapy", "psychosocial-interventions", "refugee-support"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -44,4 +44,5 @@ Emily Hollingsbee's article reflects on the creation of a community mural in a r
 ## See Also
 
 - [art-therapy](../topics/art-therapy.md)
+- [psychosocial-interventions](../topics/psychosocial-interventions.md)
 - [refugee-support](../topics/refugee-support.md)

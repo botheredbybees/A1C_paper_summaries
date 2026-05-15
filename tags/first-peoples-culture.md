@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: first-peoples-culture
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## First Peoples Culture

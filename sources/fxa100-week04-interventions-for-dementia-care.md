@@ -11,7 +11,7 @@ tags: ["dementia-care", "pharmacological-interventions", "non-pharmacological-th
 key_concepts: ["acetylcholinesterase-inhibitors", "cognitive-stimulation-therapy", "reminiscence-therapy"]
 methods: ["systematic-review"]
 slug: fxa100-week04-interventions-for-dementia-care
-related: ["cognitive-stimulation", "dementia-care"]
+related: ["cognitive-stimulation", "dementia-care", "non-pharmacological-therapy"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,3 +44,4 @@ This document outlines various pharmacological and non-pharmacological intervent
 
 - [cognitive-stimulation](../topics/cognitive-stimulation.md)
 - [dementia-care](../topics/dementia-care.md)
+- [non-pharmacological-therapy](../topics/non-pharmacological-therapy.md)

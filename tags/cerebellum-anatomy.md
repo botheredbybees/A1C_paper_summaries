@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cerebellum-anatomy
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Cerebellum Anatomy

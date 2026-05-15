@@ -18,6 +18,10 @@ sources:
   - fxa202-week08-week-8-lecture-notes-editing-your-images
   - fxa202-week08-week-8-lecture-notes-editing-your-images-(2)
   - fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture
+  - fxa202-week13-it-fostered-a-greater-appreciation-for-my-little-corner-of
+  - fxa202-week13-taking-pictures-is-like-treasure-hunting-exploring-the
+  - fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography
+  - fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2)
 - fxa202-therapeutic-photography-ch01-chapter-10
 - fxa202-therapeutic-photography-ch02-chapter-11
 - fxa202-therapeutic-photography-ch04-2-reflexive-photography
@@ -37,7 +41,7 @@ tags:
 - therapeutic-photography
 title: Therapeutic Photography
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Therapeutic Photography
@@ -71,3 +75,7 @@ Therapeutic photography is a practice involving the use of photographs to enhanc
 - [fxa202-week08-week-8-lecture-notes-editing-your-images](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images.md)
 - [fxa202-week08-week-8-lecture-notes-editing-your-images-(2)](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images-(2).md)
 - [fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture](../sources/fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture.md)
+- [fxa202-week13-it-fostered-a-greater-appreciation-for-my-little-corner-of](../sources/fxa202-week13-it-fostered-a-greater-appreciation-for-my-little-corner-of.md)
+- [fxa202-week13-taking-pictures-is-like-treasure-hunting-exploring-the](../sources/fxa202-week13-taking-pictures-is-like-treasure-hunting-exploring-the.md)
+- [fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography](../sources/fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography.md)
+- [fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2)](../sources/fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2).md)

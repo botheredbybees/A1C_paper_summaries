@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-writing-for-wellbeing
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Creative Writing For Wellbeing

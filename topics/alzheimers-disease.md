@@ -13,6 +13,9 @@ sources:
   - fxa100-week07-dementia-in-our-mob-and-around-the-world
   - fxa100-week07-transcript-artz-museum-program-for-alzheimers-url-only
   - fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of
+  - fxa100-week13-exercise-benefits-on-alzheimers-disease-state-of-the-science
+  - fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to
+  - fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering
 - fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a
 - fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy
 - fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical
@@ -29,7 +32,7 @@ tags:
 - alzheimers-disease
 title: Alzheimer's Disease Management and Prevention
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Alzheimer's Disease Management and Prevention
@@ -66,3 +69,6 @@ Lastly, Source 5 provides foundational knowledge about AD mechanisms, including 
 - [fxa100-week07-dementia-in-our-mob-and-around-the-world](../sources/fxa100-week07-dementia-in-our-mob-and-around-the-world.md)
 - [fxa100-week07-transcript-artz-museum-program-for-alzheimers-url-only](../sources/fxa100-week07-transcript-artz-museum-program-for-alzheimers-url-only.md)
 - [fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of](../sources/fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of.md)
+- [fxa100-week13-exercise-benefits-on-alzheimers-disease-state-of-the-science](../sources/fxa100-week13-exercise-benefits-on-alzheimers-disease-state-of-the-science.md)
+- [fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to](../sources/fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to.md)
+- [fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering](../sources/fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering.md)

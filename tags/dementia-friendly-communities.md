@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dementia-friendly-communities
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Dementia Friendly Communities

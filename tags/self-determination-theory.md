@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: self-determination-theory
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Self Determination Theory

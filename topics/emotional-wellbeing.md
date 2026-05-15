@@ -8,6 +8,7 @@ sources:
   - fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care
   - fxa100-week04-music-therapy-and-dementia-video-transcript
   - fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of
+  - fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness
   - fxa202-week06-winding-paths-a-photo-essay-on-emotional-health-during
   - fxa202-week09-5-benefits-of-journaling-for-mental-health
   - fxa202-week09-noticing-a-photo-essay
@@ -42,7 +43,7 @@ tags:
 - emotional-wellbeing
 title: Music Therapy for Emotional Wellbeing
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Music Therapy for Emotional Wellbeing
@@ -66,6 +67,7 @@ The integration of music therapy in enhancing emotional wellbeing is a recurring
 - [fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care](../sources/fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care.md)
 - [fxa100-week04-music-therapy-and-dementia-video-transcript](../sources/fxa100-week04-music-therapy-and-dementia-video-transcript.md)
 - [fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of](../sources/fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of.md)
+- [fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness](../sources/fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness.md)
 - [fxa202-week06-winding-paths-a-photo-essay-on-emotional-health-during](../sources/fxa202-week06-winding-paths-a-photo-essay-on-emotional-health-during.md)
 - [fxa202-week09-5-benefits-of-journaling-for-mental-health](../sources/fxa202-week09-5-benefits-of-journaling-for-mental-health.md)
 - [fxa202-week09-noticing-a-photo-essay](../sources/fxa202-week09-noticing-a-photo-essay.md)

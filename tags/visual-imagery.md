@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-imagery
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Visual Imagery

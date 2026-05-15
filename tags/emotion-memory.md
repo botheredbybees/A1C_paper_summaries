@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotion-memory
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Emotion Memory

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: community-engagement
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Community Engagement
@@ -14,6 +14,7 @@ updated: 2026-05-11
 - [Stimulating Engagement Through Participation in Visual Arts Projects](../sources/fxa100-week08-lesson-fxa100-week07-page-3-stimulating-engagement.md)
 - [Dancer Not Dementia | Canada's National Ballet School](../sources/fxa100-week11-dancer-not-dementia-canadas-national-ballet-school.md)
 - [The daily digital practice as a form of self-care: Using photography for everyday well-being](../sources/fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using.md)
+- [Using Photovoice as a Tool to Engage Social Work Students in Social Justice](../sources/fxa202-week13-using-photovoice-as-a-tool-to-engage-social-work-students.md)
 - [Meeting Community Needs Through Ethnomusicology](../sources/fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts.md)
 - [Ethnomusicology and Applied Arts: A Guide to Community Engagement](../sources/fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts-(2).md)
 - [Step 2: Choose a Goal in Arts for Social Change](../sources/fxa301-make-arts-for-a-better-life-ch09-5-choose-a-goal-needs-may-be-linked-within-communities.md)

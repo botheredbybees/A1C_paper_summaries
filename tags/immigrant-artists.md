@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: immigrant-artists
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Immigrant Artists

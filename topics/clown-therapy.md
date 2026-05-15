@@ -5,13 +5,16 @@ slug: clown-therapy
 sources:
   - fxa303-week08-clown-therapy-a-drama-therapy-approach-to-addiction-and
   - fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic
+  - fxa303-week13-effects-of-clown-activities-on-patients-eligible-for
+  - fxa303-week13-intervention-of-companion-clowns-in-a-special-care-unit-a-1
+  - fxa303-week13-seriously-foolish-and-foolishly-serious-the-art-and
 - fxa303-week08-clown-therapy-a-drama-therapy-approach-to-addiction-and
 - fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic
 tags:
 - clown-therapy
 title: Clown Therapy
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Clown Therapy
@@ -31,3 +34,6 @@ Clown therapy emerges as an innovative intervention with broad applications acro
 
 - [fxa303-week08-clown-therapy-a-drama-therapy-approach-to-addiction-and](../sources/fxa303-week08-clown-therapy-a-drama-therapy-approach-to-addiction-and.md)
 - [fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic](../sources/fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic.md)
+- [fxa303-week13-effects-of-clown-activities-on-patients-eligible-for](../sources/fxa303-week13-effects-of-clown-activities-on-patients-eligible-for.md)
+- [fxa303-week13-intervention-of-companion-clowns-in-a-special-care-unit-a-1](../sources/fxa303-week13-intervention-of-companion-clowns-in-a-special-care-unit-a-1.md)
+- [fxa303-week13-seriously-foolish-and-foolishly-serious-the-art-and](../sources/fxa303-week13-seriously-foolish-and-foolishly-serious-the-art-and.md)

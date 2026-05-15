@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: auditory-processing
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Auditory Processing

@@ -1,11 +1,12 @@
 ---
 type: tag
 tag: autism-spectrum-disorders
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Autism Spectrum Disorders
 
+- [Different but Connected: Participatory Action Research Using Photovoice to Explore Well-being in Autistic Young Adults](../sources/fxa202-week13-different-but-connected-participatory-action-research-using.md)
 - [Evaluation of Differences in Temporal Synchrony Between Brain Regions in Individuals With Autism and Typical Development](../sources/fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between.md)
 - [Evaluation of 'Images of Self,' an Art Therapy Program for Children Diagnosed with Autism Spectrum Disorders (ASD)](../sources/fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for.md)
 - [Exploring Change in Children\u2019s and Art Therapists\u2019 Behavior during \u2018Images of Self\u2019, an Art Therapy Program for Children Diagnosed with Autism Spectrum Disorders: A Repeated Case Study Design](../sources/fxa303-week04-exploring-change-in-childrens-and-art-therapists-behavior.md)

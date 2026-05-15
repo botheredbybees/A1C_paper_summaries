@@ -10,6 +10,10 @@ sources:
   - fxa100-week08-art-and-alzheimer-type-dementia-a-longitudinal-study
   - fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of
   - fxa100-week11-week-11-lecture-benefits-of-dance-and-movement-for-people
+  - fxa100-week13-a-1-year-randomized-controlled-trial-comparing-mind-body
+  - fxa100-week13-exercise-benefits-on-alzheimers-disease-state-of-the-science
+  - fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness
+  - fxa303-week13-causes-of-nursing-home-placement-for-older-people-with
 - fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a
 - fxa100-week01-transcript-alzheimers-society
 - fxa100-week01-what-is-alzheimers-disease-video-transcript
@@ -21,7 +25,7 @@ tags:
 - cognitive-decline
 title: Cognitive Decline
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Cognitive Decline
@@ -47,3 +51,7 @@ This synthesis examines interventions targeting cognitive decline, focusing on a
 - [fxa100-week08-art-and-alzheimer-type-dementia-a-longitudinal-study](../sources/fxa100-week08-art-and-alzheimer-type-dementia-a-longitudinal-study.md)
 - [fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of](../sources/fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of.md)
 - [fxa100-week11-week-11-lecture-benefits-of-dance-and-movement-for-people](../sources/fxa100-week11-week-11-lecture-benefits-of-dance-and-movement-for-people.md)
+- [fxa100-week13-a-1-year-randomized-controlled-trial-comparing-mind-body](../sources/fxa100-week13-a-1-year-randomized-controlled-trial-comparing-mind-body.md)
+- [fxa100-week13-exercise-benefits-on-alzheimers-disease-state-of-the-science](../sources/fxa100-week13-exercise-benefits-on-alzheimers-disease-state-of-the-science.md)
+- [fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness](../sources/fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness.md)
+- [fxa303-week13-causes-of-nursing-home-placement-for-older-people-with](../sources/fxa303-week13-causes-of-nursing-home-placement-for-older-people-with.md)

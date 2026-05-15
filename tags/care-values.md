@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: care-values
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Care Values

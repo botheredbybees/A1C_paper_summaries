@@ -11,7 +11,7 @@ tags: ["frontotemporal-dementia", "neurodegenerative-disorders", "brain-aging", 
 key_concepts: ["protein-aggregation", "inhibitory-control", "language-function"]
 methods: ["case-study"]
 slug: fxa100-week01-what-is-frontotemporal-dementia
-related: ["frontotemporal-dementia", "neurodegenerative-disorders"]
+related: ["brain-aging", "frontotemporal-dementia", "neurodegenerative-disorders"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,5 +41,6 @@ Frontotemporal dementia (FTD) refers to a group of conditions characterized by d
 
 ## See Also
 
+- [brain-aging](../topics/brain-aging.md)
 - [frontotemporal-dementia](../topics/frontotemporal-dementia.md)
 - [neurodegenerative-disorders](../topics/neurodegenerative-disorders.md)

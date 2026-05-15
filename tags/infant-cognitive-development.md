@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: infant-cognitive-development
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Infant Cognitive Development

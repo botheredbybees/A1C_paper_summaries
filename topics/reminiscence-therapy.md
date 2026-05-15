@@ -7,6 +7,9 @@ sources:
   - fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care
   - fxa100-week08-creativity-and-communication-in-persons-with-dementia-a
   - fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family
+  - fxa303-week13-remembering-yesterday-caring-today-reminiscence-in-dementia
+  - fxa303-week13-reminiscence-therapy-for-dementia
+  - fxa303-week13-the-effects-of-reminiscence-therapy-on-psychological-well
 - fxa100-creativity-and-communication-ch02-15-putting-the-it-into-creativity-exploring-the-creative
 - fxa100-excellence-in-dementia-care--ch12-chapter-14
 - fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care
@@ -16,7 +19,7 @@ tags:
 - reminiscence-therapy
 title: Reminiscence Therapy
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Reminiscence Therapy
@@ -39,3 +42,6 @@ The synthesis integrates the use of technology and music in reminiscence therapy
 - [fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care](../sources/fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care.md)
 - [fxa100-week08-creativity-and-communication-in-persons-with-dementia-a](../sources/fxa100-week08-creativity-and-communication-in-persons-with-dementia-a.md)
 - [fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family](../sources/fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family.md)
+- [fxa303-week13-remembering-yesterday-caring-today-reminiscence-in-dementia](../sources/fxa303-week13-remembering-yesterday-caring-today-reminiscence-in-dementia.md)
+- [fxa303-week13-reminiscence-therapy-for-dementia](../sources/fxa303-week13-reminiscence-therapy-for-dementia.md)
+- [fxa303-week13-the-effects-of-reminiscence-therapy-on-psychological-well](../sources/fxa303-week13-the-effects-of-reminiscence-therapy-on-psychological-well.md)

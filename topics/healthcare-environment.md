@@ -3,6 +3,7 @@ confidence: high
 domain: intervention
 slug: arts-in-healthcare-environments
 sources:
+  - fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative
   - fxa301-arts-in-health-ch19-36-abc-national-cultural-policy-submission
   - fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment
   - fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2)
@@ -16,7 +17,7 @@ tags:
 - healthcare-environment
 title: Arts in Healthcare Environments
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Arts in Healthcare Environments
@@ -35,6 +36,7 @@ The integration of arts into healthcare settings is an evolving field that aims 
 
 ## Sources
 
+- [fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative](../sources/fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative.md)
 - [fxa301-arts-in-health-ch19-36-abc-national-cultural-policy-submission](../sources/fxa301-arts-in-health-ch19-36-abc-national-cultural-policy-submission.md)
 - [fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment.md)
 - [fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2)](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2).md)

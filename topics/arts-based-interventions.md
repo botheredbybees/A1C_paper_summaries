@@ -3,6 +3,7 @@ confidence: low
 domain: intervention
 slug: arts-based-interventions
 sources:
+  - fxa100-week13-can-arts-based-interventions-improve-health-a-conceptual
   - fxa303-week09-national-taskforce-for-creative-recovery-recommendations
   - fxa303-week10-fxa303-web-lecture-week-10
 - fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care
@@ -12,7 +13,7 @@ tags:
 - arts-based-interventions
 title: Arts-Based Interventions
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Arts-Based Interventions
@@ -31,5 +32,6 @@ The integration of arts-based interventions in the realm of dementia care highli
 
 ## Sources
 
+- [fxa100-week13-can-arts-based-interventions-improve-health-a-conceptual](../sources/fxa100-week13-can-arts-based-interventions-improve-health-a-conceptual.md)
 - [fxa303-week09-national-taskforce-for-creative-recovery-recommendations](../sources/fxa303-week09-national-taskforce-for-creative-recovery-recommendations.md)
 - [fxa303-week10-fxa303-web-lecture-week-10](../sources/fxa303-week10-fxa303-web-lecture-week-10.md)

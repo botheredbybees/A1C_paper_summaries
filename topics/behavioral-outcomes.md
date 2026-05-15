@@ -3,6 +3,7 @@ confidence: medium
 domain: intervention
 slug: behavioral-outcomes-in-therapeutic-interventions
 sources:
+  - fxa100-week13-music-interventions-for-people-with-dementia-a-review-of
   - fxa303-week04-impact-of-child-centered-play-therapy-intervention-on
   - fxa303-week08-exploring-the-usefulness-of-medical-clowns-in-elevating
 - fxa303-week04-impact-of-child-centered-play-therapy-intervention-on
@@ -11,7 +12,7 @@ tags:
 - behavioral-outcomes
 title: Behavioral Outcomes in Therapeutic Interventions
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Behavioral Outcomes in Therapeutic Interventions
@@ -30,5 +31,6 @@ The synthesis of the provided sources highlights diverse behavioral outcomes fro
 
 ## Sources
 
+- [fxa100-week13-music-interventions-for-people-with-dementia-a-review-of](../sources/fxa100-week13-music-interventions-for-people-with-dementia-a-review-of.md)
 - [fxa303-week04-impact-of-child-centered-play-therapy-intervention-on](../sources/fxa303-week04-impact-of-child-centered-play-therapy-intervention-on.md)
 - [fxa303-week08-exploring-the-usefulness-of-medical-clowns-in-elevating](../sources/fxa303-week08-exploring-the-usefulness-of-medical-clowns-in-elevating.md)

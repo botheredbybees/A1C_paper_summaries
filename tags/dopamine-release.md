@@ -1,9 +1,10 @@
 ---
 type: tag
 tag: dopamine-release
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Dopamine Release
 
 - [Visual Arts and the Brain](../sources/fxa100-week06-visual-arts-and-the-brain.md)
+- [Anatomically distinct dopamine release during anticipation and experience of peak emotion to music](../sources/fxa100-week13-anatomically-distinct-dopamine-release-during-anticipation.md)

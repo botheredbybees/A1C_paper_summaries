@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: presentation-skills
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Presentation Skills

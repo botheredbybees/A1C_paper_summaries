@@ -1,10 +1,11 @@
 ---
 type: tag
 tag: cognitive-psychology
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Cognitive Psychology
 
 - [Ten years of a model of aesthetic appreciation and aesthetic judgments: The aesthetic episode \u2013 Developments and challenges in empirical aesthetics](../sources/fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and.md)
 - [Adolescent Development and Brain Changes](../sources/fxa303-week02-lesson-fxa303-week02-introduction-copy.md)
+- [The neural basis of humour processing](../sources/fxa303-week13-the-neural-basis-of-humour-processing.md)

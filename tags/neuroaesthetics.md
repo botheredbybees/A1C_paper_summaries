@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuroaesthetics
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Neuroaesthetics
@@ -14,6 +14,7 @@ updated: 2026-05-11
 - [Visual Arts and the Brain](../sources/fxa100-week06-visual-arts-and-the-brain.md)
 - [How Does the Brain Process Art?](../sources/fxa100-week06-web-article-tucker-2012.md)
 - [When Words Fade, the Canvas Speaks: Revelations from the Science of Art and the Brain](../sources/fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the.md)
+- [Anatomically distinct dopamine release during anticipation and experience of peak emotion to music](../sources/fxa100-week13-anatomically-distinct-dopamine-release-during-anticipation.md)
 - [Innovations in Aesthetic Spaces for Health and Well-Being](../sources/fxa301-bridging-the-creative-arts-therapies-ch01-1-essential.md)
 - [Week 2 Introduction - FXA301 Arts in the Community](../sources/fxa301-week01-week-2-introduction-fxa301-arts-in-the-community.md)
 - [Lecture on Perception of the Arts](../sources/fxa301-week02-lecture-on-perception-of-the-arts.md)

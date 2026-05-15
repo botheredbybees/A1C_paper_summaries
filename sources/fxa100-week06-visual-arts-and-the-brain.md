@@ -15,7 +15,7 @@ tags: ["neuroaesthetics", "brain-arts-interaction", "dopamine-release", "embodie
 key_concepts: ["neuroaesthetics", "functional-magnetic-resonance-imaging-fmri", "mirror-neurons", "empathy-in-art-appreciation"]
 methods: ["case-study", "fMRI"]
 slug: fxa100-week06-visual-arts-and-the-brain
-related: ["embodied-cognition", "neuroaesthetics"]
+related: ["dopamine-release", "embodied-cognition", "neuroaesthetics"]
 created: 2026-05-03
 updated: 2026-05-05
 ---
@@ -51,5 +51,6 @@ The document also discusses embodied cognition in art appreciation, where mirror
 
 ## See Also
 
+- [dopamine-release](../topics/dopamine-release.md)
 - [embodied-cognition](../topics/embodied-cognition.md)
 - [neuroaesthetics](../topics/neuroaesthetics.md)

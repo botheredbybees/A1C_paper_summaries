@@ -5,13 +5,14 @@ slug: cognitive-psychology-in-aesthetic-appreciation-and-adolescent-development
 sources:
   - fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and
   - fxa303-week02-lesson-fxa303-week02-introduction-copy
+  - fxa303-week13-the-neural-basis-of-humour-processing
 - fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and
 - fxa303-week02-lesson-fxa303-week02-introduction-copy
 tags:
 - cognitive-psychology
 title: Cognitive Psychology in Aesthetic Appreciation and Adolescent Development
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Cognitive Psychology in Aesthetic Appreciation and Adolescent Development
@@ -32,3 +33,4 @@ The synthesis of the cognitive psychology theories from both sources reveals a n
 
 - [fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and](../sources/fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and.md)
 - [fxa303-week02-lesson-fxa303-week02-introduction-copy](../sources/fxa303-week02-lesson-fxa303-week02-introduction-copy.md)
+- [fxa303-week13-the-neural-basis-of-humour-processing](../sources/fxa303-week13-the-neural-basis-of-humour-processing.md)

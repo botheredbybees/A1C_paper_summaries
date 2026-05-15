@@ -3,12 +3,14 @@ confidence: low
 domain: intervention
 slug: physical-exercise-for-older-adults-with-mild-dementia
 sources:
+  - fxa100-week13-applicability-and-effects-of-physical-exercise-on-physical
+  - fxa100-week13-psychophysiological-effects-of-dance-movement-therapy-and
 - fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and
 tags:
 - physical-exercise
 title: Physical Exercise for Older Adults with Mild Dementia
 type: topic
-updated: 2026-05-04
+updated: 2026-05-15
 ---
 
 ## Physical Exercise for Older Adults with Mild Dementia
@@ -27,4 +29,5 @@ The integration of findings from the provided sources highlights the beneficial 
 
 ## Sources
 
-- [fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and](../sources/fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and.md)
+- [fxa100-week13-applicability-and-effects-of-physical-exercise-on-physical](../sources/fxa100-week13-applicability-and-effects-of-physical-exercise-on-physical.md)
+- [fxa100-week13-psychophysiological-effects-of-dance-movement-therapy-and](../sources/fxa100-week13-psychophysiological-effects-of-dance-movement-therapy-and.md)

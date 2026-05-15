@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-techniques-in-photography
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Creative Techniques In Photography

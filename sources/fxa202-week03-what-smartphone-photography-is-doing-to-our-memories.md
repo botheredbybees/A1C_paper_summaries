@@ -11,7 +11,7 @@ tags: ["smartphone-photography", "memory-retention", "cognitive-offloading", "at
 key_concepts: ["cognitive offloading", "visual memory retention"]
 methods: ["case study"]
 slug: fxa202-week03-what-smartphone-photography-is-doing-to-our-memories
-related: ["cognitive-offloading", "memory-retention"]
+related: ["cognitive-offloading", "memory-retention", "smartphone-photography"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,3 +44,4 @@ This article explores the impact of smartphone photography on human memory. The 
 
 - [cognitive-offloading](../topics/cognitive-offloading.md)
 - [memory-retention](../topics/memory-retention.md)
+- [smartphone-photography](../topics/smartphone-photography.md)

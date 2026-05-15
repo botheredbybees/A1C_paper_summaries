@@ -3,6 +3,7 @@ confidence: high
 domain: intervention
 slug: youth-development-through-arts-activities
 sources:
+  - fxa202-week13-it-fostered-a-greater-appreciation-for-my-little-corner-of
   - fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and
   - fxa301-week06-lesson-fxa301-week06-page-2
   - fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation
@@ -24,7 +25,7 @@ tags:
 - youth-development
 title: Youth Development Through Arts Activities
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Youth Development Through Arts Activities
@@ -43,6 +44,7 @@ The integration of arts activities into youth development programs is shown to h
 
 ## Sources
 
+- [fxa202-week13-it-fostered-a-greater-appreciation-for-my-little-corner-of](../sources/fxa202-week13-it-fostered-a-greater-appreciation-for-my-little-corner-of.md)
 - [fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and](../sources/fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and.md)
 - [fxa301-week06-lesson-fxa301-week06-page-2](../sources/fxa301-week06-lesson-fxa301-week06-page-2.md)
 - [fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation](../sources/fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation.md)

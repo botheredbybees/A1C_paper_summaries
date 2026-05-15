@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: participatory-art-methods
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Participatory Art Methods

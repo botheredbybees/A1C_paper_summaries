@@ -6,6 +6,9 @@ sources:
   - fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and
   - fxa301-week06-song-of-life-sol-study-protocol-a-multicenter-randomized
   - fxa301-week06-the-art-and-science-of-dancemovement-therapy
+  - fxa303-week13-effects-of-clown-activities-on-patients-eligible-for
+  - fxa303-week13-humor-assessment-and-interventions-in-palliative-care-a
+  - fxa303-week13-humour-interventions-for-patients-in-palliative-carea
 - fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and
 - fxa301-week06-song-of-life-sol-study-protocol-a-multicenter-randomized
 - fxa301-week06-the-art-and-science-of-dancemovement-therapy
@@ -13,7 +16,7 @@ tags:
 - palliative-care
 title: Music Therapy in Palliative Care
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Music Therapy in Palliative Care
@@ -35,3 +38,6 @@ The integration of music therapy into palliative care settings aims to enhance t
 - [fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and](../sources/fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and.md)
 - [fxa301-week06-song-of-life-sol-study-protocol-a-multicenter-randomized](../sources/fxa301-week06-song-of-life-sol-study-protocol-a-multicenter-randomized.md)
 - [fxa301-week06-the-art-and-science-of-dancemovement-therapy](../sources/fxa301-week06-the-art-and-science-of-dancemovement-therapy.md)
+- [fxa303-week13-effects-of-clown-activities-on-patients-eligible-for](../sources/fxa303-week13-effects-of-clown-activities-on-patients-eligible-for.md)
+- [fxa303-week13-humor-assessment-and-interventions-in-palliative-care-a](../sources/fxa303-week13-humor-assessment-and-interventions-in-palliative-care-a.md)
+- [fxa303-week13-humour-interventions-for-patients-in-palliative-carea](../sources/fxa303-week13-humour-interventions-for-patients-in-palliative-carea.md)

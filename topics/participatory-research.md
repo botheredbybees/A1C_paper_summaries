@@ -7,7 +7,8 @@ tags: ["participatory-research"]
 sources:
   - fxa100-week11-the-benefits-of-community-based-participatory-arts
   - fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-(2)
-updated: 2026-05-11
+  - fxa303-week13-improving-collaboration-between-staff-family-members-and
+updated: 2026-05-15
 ---
 
 ## Community-Based Participatory Arts
@@ -28,3 +29,4 @@ The integration of community-based participatory arts activities offers a robust
 
 - [fxa100-week11-the-benefits-of-community-based-participatory-arts](../sources/fxa100-week11-the-benefits-of-community-based-participatory-arts.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-(2).md)
+- [fxa303-week13-improving-collaboration-between-staff-family-members-and](../sources/fxa303-week13-improving-collaboration-between-staff-family-members-and.md)

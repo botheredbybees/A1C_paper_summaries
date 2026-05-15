@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: art-therapy
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Art Therapy
@@ -30,11 +30,15 @@ updated: 2026-05-11
 - [Art Therapy for Alzheimer's Patients: The Memories in the Making Program](../sources/fxa100-week08-transcript-youtube-l3cci-2kwkk.md)
 - [I Remember Better When I Paint - Film Clips](../sources/fxa100-week08-web-article-huebner-2012.md)
 - [Week 8 Lecture: Art Therapy in Dementia Care](../sources/fxa100-week08-week-8-lecture-art-therapy-in-dementia-care.md)
+- [Exploring Ethical Considerations in Art Therapy](../sources/fxa100-week13-exploring-ethical-considerations-in-art-therapy.md)
+- [The Future of Art Therapy in Mental Health Treatment](../sources/fxa100-week13-the-future-of-art-therapy-in-mental-health-treatment.md)
 - [Donna: A Photo Essay](../sources/fxa202-week06-donna-a-photo-essay.md)
 - [My Photo Essay: Storytelling Through Art and Mental Health](../sources/fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health.md)
 - [Identity, Connection, and Motivation](../sources/fxa202-week10-identity-connection-and-motivation.md)
 - [Introduction: Art Therapy and Creative Aging](../sources/fxa202-week10-introduction-art-therapy-and-creative-aging.md)
 - [The Reciprocal Influence of Art and Aging](../sources/fxa202-week10-the-reciprocal-influence-of-art-and-aging.md)
+- [Revisioning self-identity: The role of portraits, neuroscience and the art therapist's \u2018third hand\u2019](../sources/fxa202-week13-revisioning-self-identity-the-role-of-portraits.md)
+- [Art Is the Evidence: Convincing Public Communication of Art-Based Research and Its Outcomes](../sources/fxa301-applied-artes-and-health-ch01-2021-graff.md)
 - [Arts in Health: Designing and researching interventions - Neurology](../sources/fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the.md)
 - [Art Therapy and Its Impact on Mood and Emotional States in Pediatric Hematology Oncology Units](../sources/fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in.md)
 - [Art as Therapy](../sources/fxa301-week05-art-as-therapy.md)
@@ -72,3 +76,4 @@ updated: 2026-05-11
 - [The one thing that actually helps: Art creation as a self-care and health-promoting practice amongst youth experiencing homelessness](../sources/fxa303-week11-the-one-thing-that-actually-helps-art-creation-as-a-self.md)
 - [The Power of Art to Transform and Restore](../sources/fxa303-week11-the-power-of-art-to-transform-and-restore.md)
 - [Queering Queer Spaces: Journey of a Creative Arts Program for Trans, Non-Binary, and Gender Creative Youth](../sources/fxa303-week11-web-article-hardy-2019.md)
+- [\u201cPlay\u201d and People Living With Dementia: A Humanities-Based Inquiry of TimeSlips and the Alzheimer\u2019s Poetry Project](../sources/fxa303-week13-play-and-people-living-with-dementia-a-humanities-based.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotional-vitality
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Emotional Vitality

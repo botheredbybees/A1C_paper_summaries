@@ -4,7 +4,9 @@ domain: intervention
 slug: puppet-assisted-play-therapy-for-children
 sources:
   - fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the
+  - fxa303-puppet-assisted-play-therapy-ch06-139-weedn
   - fxa303-puppet-play-therapy-ch08-6-posture-keep-your-arm-holding-the-puppet-at-a-right-angle
+  - fxa303-puppet-play-therapy-ch09-458-woltmann
   - fxa303-week01-play-therapy-considerations-and-applications-for-the
   - fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism
   - fxa303-week04-transcript-duration-3-03
@@ -33,7 +35,7 @@ tags:
 - child-psychology
 title: Puppet-Assisted Play Therapy for Children
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Puppet-Assisted Play Therapy for Children
@@ -53,7 +55,9 @@ Puppet-assisted play therapy emerges as a versatile intervention in child psycho
 ## Sources
 
 - [fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the](../sources/fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the.md)
+- [fxa303-puppet-assisted-play-therapy-ch06-139-weedn](../sources/fxa303-puppet-assisted-play-therapy-ch06-139-weedn.md)
 - [fxa303-puppet-play-therapy-ch08-6-posture-keep-your-arm-holding-the-puppet-at-a-right-angle](../sources/fxa303-puppet-play-therapy-ch08-6-posture-keep-your-arm-holding-the-puppet-at-a-right-angle.md)
+- [fxa303-puppet-play-therapy-ch09-458-woltmann](../sources/fxa303-puppet-play-therapy-ch09-458-woltmann.md)
 - [fxa303-week01-play-therapy-considerations-and-applications-for-the](../sources/fxa303-week01-play-therapy-considerations-and-applications-for-the.md)
 - [fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism](../sources/fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism.md)
 - [fxa303-week04-transcript-duration-3-03](../sources/fxa303-week04-transcript-duration-3-03.md)

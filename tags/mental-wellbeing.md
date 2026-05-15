@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-wellbeing
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Mental Wellbeing
@@ -47,3 +47,4 @@ updated: 2026-05-11
 - [Hidden Identities and Concealed Dangers: Visual Art, Transgender Health, and Wellbeing](../sources/fxa303-week11-hidden-identities-and-concealed-dangers-visual-art.md)
 - [Week 11 Overview - FXA303 Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week11-lesson-fxa303-week11-page-1-overview.md)
 - [Creative Arts and Disadvantaged Youth](../sources/fxa303-week11-lesson-fxa303-week11-page-3.md)
+- [The effect of humor on elder mental and physical health](../sources/fxa303-week13-the-effect-of-humor-on-elder-mental-and-physical-health.md)

@@ -3,6 +3,7 @@ confidence: medium
 domain: intervention
 slug: creative-arts-in-health-education
 sources:
+  - fxa301-applied-artes-and-health-ch03-85-ulrich
   - fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37
   - fxa301-week08-school-based-drama-interventions-in-health-promotion-for
 - fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37
@@ -11,7 +12,7 @@ tags:
 - health-education
 title: Creative Arts in Health Education
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Creative Arts in Health Education
@@ -30,5 +31,6 @@ The integration of creative arts into health education and practice presents a n
 
 ## Sources
 
+- [fxa301-applied-artes-and-health-ch03-85-ulrich](../sources/fxa301-applied-artes-and-health-ch03-85-ulrich.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37](../sources/fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37.md)
 - [fxa301-week08-school-based-drama-interventions-in-health-promotion-for](../sources/fxa301-week08-school-based-drama-interventions-in-health-promotion-for.md)

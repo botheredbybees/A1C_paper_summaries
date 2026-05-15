@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: knowledge-translation
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Knowledge Translation

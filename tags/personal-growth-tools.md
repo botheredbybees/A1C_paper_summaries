@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: personal-growth-tools
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Personal Growth Tools

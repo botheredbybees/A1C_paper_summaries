@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hospital-settings
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Hospital Settings

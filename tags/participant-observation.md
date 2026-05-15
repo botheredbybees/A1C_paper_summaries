@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: participant-observation
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Participant Observation

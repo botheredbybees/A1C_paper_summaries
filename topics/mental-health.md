@@ -6,6 +6,8 @@ sources:
   - fxa100-week04-music-therapy-flyer
   - fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and
   - fxa100-week11-movement-therapy-and-mental-health
+  - fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric
+  - fxa100-week13-mini-mental-state-a-practical-method-for-grading-the
   - fxa202-week03-lesson-fxa202-week03-page-2
   - fxa202-week03-lesson-fxa202-week03-week-3
   - fxa202-week03-week-three-lecture-transcript-photography-and-health
@@ -16,6 +18,8 @@ sources:
   - fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health
   - fxa202-week09-noticing-a-photo-essay
   - fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay
+  - fxa202-week13-therapeutic-benefits-and-limitations-of-participatory
+  - fxa301-oxford-handbook-of-dance-and-wellbeing
   - fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract
   - fxa301-week05-art-as-therapy
   - fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes
@@ -41,6 +45,11 @@ sources:
   - fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through
   - fxa303-week11-mental-health-in-lesbian-gay-bisexual-and-transgender-lgbt
   - fxa303-week11-the-power-of-recognition-a-qualitative-study-of-social
+  - fxa303-week13-a-meta-analysis-of-randomized-controlled-trials-of-laughter
+  - fxa303-week13-effects-of-clown-activities-on-patients-eligible-for
+  - fxa303-week13-engagement-in-persons-with-dementia-the-concept-and-its
+  - fxa303-week13-laughter-and-humour-interventions-for-well-being-in-older
+  - fxa303-week13-the-effects-of-reminiscence-therapy-on-psychological-well
 - fxa100-week04-music-therapy-flyer
 - fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and
 - fxa202-week03-lesson-fxa202-week03-page-2
@@ -76,7 +85,7 @@ tags:
 - mental-health
 title: Creative Therapies for Mental Health
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Creative Therapies for Mental Health
@@ -100,6 +109,8 @@ The sources illustrate a variety of creative therapies that have been developed 
 - [fxa100-week04-music-therapy-flyer](../sources/fxa100-week04-music-therapy-flyer.md)
 - [fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and](../sources/fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and.md)
 - [fxa100-week11-movement-therapy-and-mental-health](../sources/fxa100-week11-movement-therapy-and-mental-health.md)
+- [fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric](../sources/fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric.md)
+- [fxa100-week13-mini-mental-state-a-practical-method-for-grading-the](../sources/fxa100-week13-mini-mental-state-a-practical-method-for-grading-the.md)
 - [fxa202-week03-lesson-fxa202-week03-page-2](../sources/fxa202-week03-lesson-fxa202-week03-page-2.md)
 - [fxa202-week03-lesson-fxa202-week03-week-3](../sources/fxa202-week03-lesson-fxa202-week03-week-3.md)
 - [fxa202-week03-week-three-lecture-transcript-photography-and-health](../sources/fxa202-week03-week-three-lecture-transcript-photography-and-health.md)
@@ -110,6 +121,8 @@ The sources illustrate a variety of creative therapies that have been developed 
 - [fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health](../sources/fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health.md)
 - [fxa202-week09-noticing-a-photo-essay](../sources/fxa202-week09-noticing-a-photo-essay.md)
 - [fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay](../sources/fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay.md)
+- [fxa202-week13-therapeutic-benefits-and-limitations-of-participatory](../sources/fxa202-week13-therapeutic-benefits-and-limitations-of-participatory.md)
+- [fxa301-oxford-handbook-of-dance-and-wellbeing](../sources/fxa301-oxford-handbook-of-dance-and-wellbeing.md)
 - [fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract](../sources/fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract.md)
 - [fxa301-week05-art-as-therapy](../sources/fxa301-week05-art-as-therapy.md)
 - [fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes](../sources/fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes.md)
@@ -135,3 +148,8 @@ The sources illustrate a variety of creative therapies that have been developed 
 - [fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through](../sources/fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through.md)
 - [fxa303-week11-mental-health-in-lesbian-gay-bisexual-and-transgender-lgbt](../sources/fxa303-week11-mental-health-in-lesbian-gay-bisexual-and-transgender-lgbt.md)
 - [fxa303-week11-the-power-of-recognition-a-qualitative-study-of-social](../sources/fxa303-week11-the-power-of-recognition-a-qualitative-study-of-social.md)
+- [fxa303-week13-a-meta-analysis-of-randomized-controlled-trials-of-laughter](../sources/fxa303-week13-a-meta-analysis-of-randomized-controlled-trials-of-laughter.md)
+- [fxa303-week13-effects-of-clown-activities-on-patients-eligible-for](../sources/fxa303-week13-effects-of-clown-activities-on-patients-eligible-for.md)
+- [fxa303-week13-engagement-in-persons-with-dementia-the-concept-and-its](../sources/fxa303-week13-engagement-in-persons-with-dementia-the-concept-and-its.md)
+- [fxa303-week13-laughter-and-humour-interventions-for-well-being-in-older](../sources/fxa303-week13-laughter-and-humour-interventions-for-well-being-in-older.md)
+- [fxa303-week13-the-effects-of-reminiscence-therapy-on-psychological-well](../sources/fxa303-week13-the-effects-of-reminiscence-therapy-on-psychological-well.md)

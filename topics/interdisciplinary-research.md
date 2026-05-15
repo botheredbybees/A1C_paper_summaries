@@ -4,6 +4,9 @@ domain: intervention
 slug: interdisciplinary-approaches-to-quality-of-life-improvement
 sources:
   - fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of
+  - fxa100-week13-internet-science-6th-international-conference-insci-2019
+  - fxa100-week13-mechanisms-of-change-in-dancemovement-therapy-and-their
+  - fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2)
   - fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(2)
   - fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(3)
   - fxa301-week01-an-introduction-to-research
@@ -11,6 +14,7 @@ sources:
   - fxa301-week02-the-emerging-field-of-affective-science
   - fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)
   - fxa303-week11-future-directions-in-understanding-and-addressing-mental
+  - fxa303-week13-good-health-and-well-being
 - fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of
 - fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(2)
 - fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(3)
@@ -22,7 +26,7 @@ tags:
 - interdisciplinary-research
 title: Interdisciplinary Approaches to Quality of Life Improvement
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Interdisciplinary Approaches to Quality of Life Improvement
@@ -41,6 +45,9 @@ This synthesis focuses on interdisciplinary research aimed at enhancing the qual
 ## Sources
 
 - [fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of](../sources/fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of.md)
+- [fxa100-week13-internet-science-6th-international-conference-insci-2019](../sources/fxa100-week13-internet-science-6th-international-conference-insci-2019.md)
+- [fxa100-week13-mechanisms-of-change-in-dancemovement-therapy-and-their](../sources/fxa100-week13-mechanisms-of-change-in-dancemovement-therapy-and-their.md)
+- [fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2)](../sources/fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2).md)
 - [fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(2)](../sources/fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(2).md)
 - [fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(3)](../sources/fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(3).md)
 - [fxa301-week01-an-introduction-to-research](../sources/fxa301-week01-an-introduction-to-research.md)
@@ -48,3 +55,4 @@ This synthesis focuses on interdisciplinary research aimed at enhancing the qual
 - [fxa301-week02-the-emerging-field-of-affective-science](../sources/fxa301-week02-the-emerging-field-of-affective-science.md)
 - [fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3).md)
 - [fxa303-week11-future-directions-in-understanding-and-addressing-mental](../sources/fxa303-week11-future-directions-in-understanding-and-addressing-mental.md)
+- [fxa303-week13-good-health-and-well-being](../sources/fxa303-week13-good-health-and-well-being.md)

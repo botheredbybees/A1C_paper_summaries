@@ -11,7 +11,7 @@ tags: ["autism-assessment", "pervasive-developmental-disorders", "evidence-based
 key_concepts: ["autism-spectrum-disorder", "psychopathologies-in-asd", "ethical-considerations-in-clinical-practice"]
 methods: ["systematic-review", "case-study"]
 slug: fxa303-week04-handbook-of-autism-and-pervasive-developmental-disorder
-related: ["evidence-based-practices"]
+related: ["educational-interventions", "evidence-based-practices"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,4 +44,5 @@ The 'Handbook of Autism and Pervasive Developmental Disorder' is an edited volum
 
 ## See Also
 
+- [educational-interventions](../topics/educational-interventions.md)
 - [evidence-based-practices](../topics/evidence-based-practices.md)

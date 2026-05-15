@@ -11,7 +11,7 @@ tags: ["dementia-and-art", "neurology-in-art-therapy", "brain-damage-effects", "
 key_concepts: ["artistic-expression-changes", "localization-of-brain-functions", "therapeutic-interventions-neurological-disorders"]
 methods: ["case-study"]
 slug: fxa100-week08-art-and-the-brain-effects-of-dementia-on-art-production-in
-related: []
+related: ["brain-damage-effects"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,4 +41,4 @@ The article explores the impact of various types of dementia on art production i
 
 ## See Also
 
-*(none yet)*
+- [brain-damage-effects](../topics/brain-damage-effects.md)

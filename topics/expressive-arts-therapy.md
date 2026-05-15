@@ -5,13 +5,14 @@ slug: expressive-arts-therapy
 sources:
   - fxa100-week09-transcript-youtube-lq0ko6-w4uc
   - fxa303-trauma-and-expressive-arts-ch04-1-slowly-exhale-through-your-mouth
+  - fxa303-trauma-and-expressive-arts-ch05-chapter-9
 - fxa100-week09-transcript-youtube-lq0ko6-w4uc
 - fxa303-trauma-and-expressive-arts-ch04-1-slowly-exhale-through-your-mouth
 tags:
 - expressive-arts-therapy
 title: Expressive Arts Therapy
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## Expressive Arts Therapy
@@ -32,3 +33,4 @@ Expressive Arts Therapy encompasses a range of creative modalities including dan
 
 - [fxa100-week09-transcript-youtube-lq0ko6-w4uc](../sources/fxa100-week09-transcript-youtube-lq0ko6-w4uc.md)
 - [fxa303-trauma-and-expressive-arts-ch04-1-slowly-exhale-through-your-mouth](../sources/fxa303-trauma-and-expressive-arts-ch04-1-slowly-exhale-through-your-mouth.md)
+- [fxa303-trauma-and-expressive-arts-ch05-chapter-9](../sources/fxa303-trauma-and-expressive-arts-ch05-chapter-9.md)

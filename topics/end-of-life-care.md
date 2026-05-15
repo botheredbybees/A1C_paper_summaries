@@ -5,13 +5,14 @@ slug: end-of-life-care
 sources:
   - fxa202-week10-thinking-differently-about-aged-care
   - fxa301-week03-challenges-in-end-of-life-care-and-bereavement
+  - fxa303-week13-humour-interventions-for-patients-in-palliative-carea
 - fxa202-week10-thinking-differently-about-aged-care
 - fxa301-week03-challenges-in-end-of-life-care-and-bereavement
 tags:
 - end-of-life-care
 title: End-of-Life Care
 type: topic
-updated: 2026-05-11
+updated: 2026-05-15
 ---
 
 ## End-of-Life Care
@@ -32,3 +33,4 @@ The synthesis of end-of-life care interventions reveals a multifaceted approach 
 
 - [fxa202-week10-thinking-differently-about-aged-care](../sources/fxa202-week10-thinking-differently-about-aged-care.md)
 - [fxa301-week03-challenges-in-end-of-life-care-and-bereavement](../sources/fxa301-week03-challenges-in-end-of-life-care-and-bereavement.md)
+- [fxa303-week13-humour-interventions-for-patients-in-palliative-carea](../sources/fxa303-week13-humour-interventions-for-patients-in-palliative-carea.md)
