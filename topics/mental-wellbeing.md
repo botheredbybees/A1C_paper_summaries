@@ -31,6 +31,7 @@ sources:
   - fxa303-week06-overview-fxa303-creative-arts-play-and-mental-wellbeing
   - fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental
   - fxa303-week08-lesson-fxa303-week08-page-3-therapeutic-clowning
+  - fxa303-week08-lesson-fxa303-week08-page-4-activities
   - fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts
   - fxa303-week09-lesson-fxa303-week09-page-1-overview
   - fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design
@@ -42,6 +43,7 @@ sources:
   - fxa303-week11-artsmark-and-sandwell-youth-offending-service-follow-up
   - fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic
   - fxa303-week11-hidden-identities-and-concealed-dangers-visual-art
+  - fxa303-week11-lesson-fxa303-week11-overview
   - fxa303-week11-lesson-fxa303-week11-page-1-overview
   - fxa303-week11-lesson-fxa303-week11-page-3
   - fxa303-week13-the-effect-of-humor-on-elder-mental-and-physical-health
@@ -85,7 +87,7 @@ tags:
 - mental-wellbeing
 title: Photography as a Tool for Mental Wellbeing
 type: topic
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Photography as a Tool for Mental Wellbeing
@@ -132,6 +134,7 @@ Both sources explore photography's role in enhancing mental health through mindf
 - [fxa303-week06-overview-fxa303-creative-arts-play-and-mental-wellbeing](../sources/fxa303-week06-overview-fxa303-creative-arts-play-and-mental-wellbeing.md)
 - [fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental](../sources/fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental.md)
 - [fxa303-week08-lesson-fxa303-week08-page-3-therapeutic-clowning](../sources/fxa303-week08-lesson-fxa303-week08-page-3-therapeutic-clowning.md)
+- [fxa303-week08-lesson-fxa303-week08-page-4-activities](../sources/fxa303-week08-lesson-fxa303-week08-page-4-activities.md)
 - [fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts](../sources/fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts.md)
 - [fxa303-week09-lesson-fxa303-week09-page-1-overview](../sources/fxa303-week09-lesson-fxa303-week09-page-1-overview.md)
 - [fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design](../sources/fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design.md)
@@ -143,6 +146,7 @@ Both sources explore photography's role in enhancing mental health through mindf
 - [fxa303-week11-artsmark-and-sandwell-youth-offending-service-follow-up](../sources/fxa303-week11-artsmark-and-sandwell-youth-offending-service-follow-up.md)
 - [fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic](../sources/fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic.md)
 - [fxa303-week11-hidden-identities-and-concealed-dangers-visual-art](../sources/fxa303-week11-hidden-identities-and-concealed-dangers-visual-art.md)
+- [fxa303-week11-lesson-fxa303-week11-overview](../sources/fxa303-week11-lesson-fxa303-week11-overview.md)
 - [fxa303-week11-lesson-fxa303-week11-page-1-overview](../sources/fxa303-week11-lesson-fxa303-week11-page-1-overview.md)
 - [fxa303-week11-lesson-fxa303-week11-page-3](../sources/fxa303-week11-lesson-fxa303-week11-page-3.md)
 - [fxa303-week13-the-effect-of-humor-on-elder-mental-and-physical-health](../sources/fxa303-week13-the-effect-of-humor-on-elder-mental-and-physical-health.md)

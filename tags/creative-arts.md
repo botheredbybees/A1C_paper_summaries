@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-arts
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Creative Arts
@@ -43,6 +43,7 @@ updated: 2026-05-15
 - [Trauma-Informed Design for Creative Arts and Play Projects](../sources/fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design.md)
 - [Creative Arts, Play and Mental Wellbeing: Case Studies on Trauma Recovery](../sources/fxa303-week09-lesson-fxa303-week09-page-3-case-studies.md)
 - [Week 10 Overview: Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week10-lesson-fxa303-week10-page-1-overview.md)
+- [FXA303 Creative Arts, Play and Mental Wellbeing - Week 11](../sources/fxa303-week11-lesson-fxa303-week11-overview.md)
 - [Creative Arts, Gender Diversity and Mental Wellbeing](../sources/fxa303-week11-lesson-fxa303-week11-page-2.md)
 - [Creative Arts and Disadvantaged Youth](../sources/fxa303-week11-lesson-fxa303-week11-page-3.md)
 - [Queering Queer Spaces: Journey of a Creative Arts Program for Trans, Non-Binary, and Gender Creative Youth](../sources/fxa303-week11-web-article-hardy-2019.md)

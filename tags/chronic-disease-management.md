@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: chronic-disease-management
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Chronic Disease Management

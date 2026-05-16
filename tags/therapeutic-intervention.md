@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-intervention
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Therapeutic Intervention

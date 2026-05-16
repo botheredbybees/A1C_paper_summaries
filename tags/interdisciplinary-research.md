@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: interdisciplinary-research
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Interdisciplinary Research
@@ -15,6 +15,7 @@ updated: 2026-05-15
 - [An introduction to research](../sources/fxa301-week01-an-introduction-to-research.md)
 - [Arts in Health: Designing and researching interventions](../sources/fxa301-week01-arts-in-health-designing-and-researching-interventions.md)
 - [The Emerging Field of Affective Science](../sources/fxa301-week02-the-emerging-field-of-affective-science.md)
+- [Ages and Stages: the place of theatre in the lives of older people](../sources/fxa301-week08-web-article-bernard-2015.md)
 - [Researching arts, culture, migration and change: a multi (trans)disciplinary challenge for international migration studies](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3).md)
 - [Future Directions in Understanding and Addressing Mental Health among LGBTQ Youth](../sources/fxa303-week11-future-directions-in-understanding-and-addressing-mental.md)
 - [Good Health and Well-Being](../sources/fxa303-week13-good-health-and-well-being.md)

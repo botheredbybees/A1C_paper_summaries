@@ -3,12 +3,12 @@ confidence: low
 domain: theory
 slug: connection-to-culture
 sources:
-- fxa303-week10-cultural-determinants-of-health-for-aboriginal-and-torres
+  - fxa303-week10-cultural-determinants-of-health-for-aboriginal-and-torres
 tags:
 - connection-to-culture
 title: Connection To Culture
 type: topic
-updated: 2026-05-04
+updated: 2026-05-16
 ---
 
 ## Connection To Culture

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: image-clarity
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Image Clarity

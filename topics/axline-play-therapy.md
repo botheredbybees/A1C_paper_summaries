@@ -1,29 +1,27 @@
 ---
-confidence: low
-domain: intervention
-slug: axline-play-therapy
-sources:
-- fxa303-week01-play-therapy-considerations-and-applications-for-the
-tags:
-- axline-play-therapy
-title: Axline Play Therapy
 type: topic
-updated: 2026-05-04
+domain: "intervention"
+title: "Axline Play Therapy"
+confidence: medium
+tags: ["axline-play-therapy"]
+sources:
+  - fxa303-week01-play-therapy-considerations-and-applications-for-the
+updated: 2026-05-16
 ---
 
 ## Axline Play Therapy
 
-Axline play therapy is a therapeutic approach that emphasizes the importance of symbolic play in facilitating communication between the therapist and child. It aligns with Piaget's stages of cognitive development, underscoring the necessity for therapists to adapt their interventions according to the developmental stage of the child. This method prioritizes non-directive techniques, allowing children to lead sessions and express themselves through play materials.
+The practice of Axline play therapy is deeply rooted in the understanding that children express their thoughts and feelings through symbolic play, a concept closely aligned with Jean Piaget's cognitive stages theory. This method emphasizes non-directive techniques where the therapist provides a safe environment for the child to explore and resolve personal issues autonomously. Sources highlight the importance of recognizing the developmental stage of each child as per Piaget’s framework to tailor therapeutic approaches effectively. However, there is variability in how practitioners apply these principles, reflecting diverse interpretations of Axline's original directives.
 
 ## Key Findings
 
-- Axline play therapy focuses on facilitating communication through symbolic play.
-- The approach is grounded in Piaget's stages of cognitive development.
-- Non-directive techniques are central to the therapeutic process.
+- Play therapy utilizes symbolic play as a medium for children to express themselves and process emotional issues.
+- The efficacy of axline play therapy hinges on the therapist’s ability to create a non-directive, supportive environment that respects the child’s developmental stage.
+- Piaget's stages of cognitive development provide essential context for tailoring therapeutic interventions in axline play therapy.
 
 ## Open Questions
 
-- How can Axline play therapy be effectively adapted for children at different developmental stages?
+- How do variations in practitioner interpretations and applications of Axline's non-directive principles impact the effectiveness of play therapy?
 
 ## Sources
 

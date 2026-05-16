@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-relations
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Therapeutic Relations

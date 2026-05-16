@@ -3,12 +3,12 @@ confidence: low
 domain: intervention
 slug: memory-boxes
 sources:
-- fxa100-week07-creating-resources-memory-trees-and-boxes
+  - fxa100-week07-creating-resources-memory-trees-and-boxes
 tags:
 - memory-boxes
 title: Memory Boxes
 type: topic
-updated: 2026-05-04
+updated: 2026-05-16
 ---
 
 ## Memory Boxes

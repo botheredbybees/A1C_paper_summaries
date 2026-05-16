@@ -3,12 +3,12 @@ confidence: low
 domain: theory
 slug: left-right-brain-dominance-myth
 sources:
-- fxa100-week02-hearing-and-music
+  - fxa100-week02-hearing-and-music
 tags:
 - left-right-brain-dominance-myth
 title: Left-Right Brain Dominance Myth
 type: topic
-updated: 2026-05-04
+updated: 2026-05-16
 ---
 
 ## Left-Right Brain Dominance Myth

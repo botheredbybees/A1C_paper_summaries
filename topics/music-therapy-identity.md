@@ -3,12 +3,12 @@ confidence: low
 domain: intervention
 slug: music-therapy-identity
 sources:
-- fxa100-week04-the-role-function-and-identity-of-music-therapists-in-the
+  - fxa100-week04-the-role-function-and-identity-of-music-therapists-in-the
 tags:
 - music-therapy-identity
 title: Music Therapy Identity
 type: topic
-updated: 2026-05-04
+updated: 2026-05-16
 ---
 
 ## Music Therapy Identity

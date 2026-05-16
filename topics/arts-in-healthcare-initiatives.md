@@ -1,29 +1,27 @@
 ---
-confidence: low
-domain: intervention
-slug: arts-in-healthcare-initiatives
-sources:
-- fxa301-week03-executive-summary-creative-health-review
-tags:
-- arts-in-healthcare-initiatives
-title: Arts In Healthcare Initiatives
 type: topic
-updated: 2026-05-04
+domain: "intervention"
+title: "Arts In Healthcare Initiatives"
+confidence: medium
+tags: ["arts-in-healthcare-initiatives"]
+sources:
+  - fxa301-week03-executive-summary-creative-health-review
+updated: 2026-05-16
 ---
 
 ## Arts In Healthcare Initiatives
 
-The integration of arts into healthcare settings is increasingly recognized as a valuable intervention with the potential to enhance patient experiences and outcomes. Sources highlight the importance of creativity in health determinants, suggesting that creative activities can contribute significantly to holistic well-being. Integrated care systems are encouraged to incorporate arts initiatives not only for their therapeutic benefits but also to foster community engagement and improve healthcare delivery efficiency. However, there is a need to balance artistic expression with clinical effectiveness, ensuring that these initiatives do not detract from primary medical responsibilities. The role of such programs in diverse patient populations remains an area needing further exploration.
+The integration of the arts into healthcare settings is highlighted across various sources as a vital component of holistic patient care and therapeutic intervention. The Creative Health Review's executive summary underscores the role of creativity in health determinants, advocating for its inclusion in integrated care systems. This initiative reflects broader trends where artistic interventions are seen not just as recreational activities but as essential elements that can significantly enhance both physical and mental well-being.
 
 ## Key Findings
 
-- Arts in healthcare initiatives are seen as valuable interventions for enhancing patient experiences and outcomes.
-- The integration of creativity into health determinants contributes to holistic well-being, supporting mental and physical health.
-- Creative arts activities can improve efficiency and effectiveness in integrated care systems.
+- Arts in healthcare initiatives are increasingly recognized as integral components of holistic patient care.
+- The integration of creativity into health systems is linked to improved overall health outcomes.
+- There is a growing emphasis on the role of arts-based interventions in promoting mental wellness.
 
 ## Open Questions
 
-- How can the balance between artistic expression and clinical responsibilities be effectively managed within healthcare settings?
+- What specific metrics and methodologies can be developed to effectively measure the impact of arts-based initiatives on patient health outcomes?
 
 ## Sources
 

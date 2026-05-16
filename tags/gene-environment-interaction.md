@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: gene-environment-interaction
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Gene Environment Interaction

@@ -1,32 +1,28 @@
 ---
-confidence: medium
-domain: intervention
-slug: preserved-creativity
-sources:
-- fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities
-- fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers
-tags:
-- preserved-creativity
-title: Preserved Creativity
 type: topic
-updated: 2026-05-04
+domain: "intervention"
+title: "Preserved Creativity in Dementia"
+confidence: medium
+tags: ["preserved-creativity"]
+sources:
+  - fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities
+updated: 2026-05-16
 ---
 
-## Preserved Creativity
+## Preserved Creativity in Dementia
 
-The notion of preserved creativity in individuals with dementia is explored across these sources. Both emphasize the importance of artistic interventions, particularly visual arts therapy, as a means to maintain and enhance creative expression despite cognitive decline. Source 1 discusses how frontotemporal dementia affects different aspects of cognition while preserving elements of creative activity like painting or drawing. This contrasts sharply with the traditional understanding that Alzheimer's disease uniformly impairs both cognitive functions and artistic abilities. However, Source 2 challenges this view by presenting a case study of an artist who continued to produce innovative paintings despite having Alzheimer’s disease, suggesting a dissociation between cognitive deterioration and sustained creative output. The persistence of creativity in these individuals points towards the existence of neural pathways that remain intact or active even when other areas are compromised.
+The concept of preserved creativity in individuals with dementia, particularly those suffering from frontotemporal dementia (FTD), is highlighted across various sources. Visual arts therapy is suggested as an effective intervention to engage and support the creative capabilities that remain intact even when other cognitive functions are impaired by dementia. Sources emphasize the importance of tailored interventions that recognize individual strengths and preserve personal identity through artistic expression, providing therapeutic benefits and enhancing quality of life for those affected by dementia.
 
 ## Key Findings
 
-- Artistic interventions can preserve creative expression in people with dementia
-- There is evidence supporting preserved creativity despite Alzheimer's disease progression
-- Dissociation between cognitive decline and artistic ability highlights specific neural resilience
+- Visual arts therapy can be a beneficial intervention for individuals with preserved creativity in dementia.
+- Frontotemporal dementia is associated with maintained creative abilities despite cognitive decline.
+- Tailored interventions recognizing individual strengths enhance the therapeutic benefits and personal identity of patients.
 
 ## Open Questions
 
-- What underlying neural mechanisms explain the preservation of creativity in affected individuals?
+- How do different types of dementia impact the preservation and expression of creativity?
 
 ## Sources
 
 - [fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities](../sources/fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities.md)
-- [fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers](../sources/fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers.md)

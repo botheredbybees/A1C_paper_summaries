@@ -8,13 +8,14 @@ doi: null
 appearances:
   - unit: FXA301
   - unit: FXA301
+  - unit: FXA301
 tags: ["dance-therapy", "wellbeing-research", "embodied-psychology", "mental-health", "fxa301"]
 key_concepts: ["Embodied spirituality", "Therapeutic performance", "Dis-embodiment and self-experience"]
 methods: []
 slug: fxa301-oxford-handbook-of-dance-and-wellbeing
 related: ["dance-therapy", "mental-health", "wellbeing-research"]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-oxford-handbook-of-dance-and-wellbeing.md_

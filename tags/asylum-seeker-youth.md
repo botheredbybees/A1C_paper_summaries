@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: asylum-seeker-youth
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Asylum Seeker Youth

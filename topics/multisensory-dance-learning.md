@@ -3,12 +3,12 @@ confidence: low
 domain: intervention
 slug: multisensory-dance-learning
 sources:
-- fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with
+  - fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with
 tags:
 - multisensory-dance-learning
 title: Multisensory Dance Learning
 type: topic
-updated: 2026-05-04
+updated: 2026-05-16
 ---
 
 ## Multisensory Dance Learning

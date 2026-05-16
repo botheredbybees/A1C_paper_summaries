@@ -11,7 +11,7 @@ tags: ["dementia-symptoms", "patient-care", "behavioral-psychology", "neurologic
 key_concepts: ["Behavioral and Psychological Symptoms of Dementia (BPSD)", "multifactorial etiology", "non-cognitive symptoms"]
 methods: ["systematic review"]
 slug: fxa303-week13-behavioral-and-psychological-symptoms-of-dementia
-related: ["neurological-disorders", "patient-care"]
+related: ["lewy-body-dementia", "patient-care"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -45,5 +45,5 @@ The review highlights the complexity of BPSD in terms of symptom presentation an
 
 ## See Also
 
-- [neurological-disorders](../topics/neurological-disorders.md)
+- [lewy-body-dementia](../topics/lewy-body-dementia.md)
 - [patient-care](../topics/patient-care.md)

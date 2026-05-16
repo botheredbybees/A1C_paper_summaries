@@ -11,7 +11,7 @@ tags: ["visual-arts", "community-engagement", "therapeutic-art", "fxa301"]
 key_concepts: ["color-therapy", "artistic-genius", "wellbeing-improvement"]
 methods: []
 slug: fxa301-week05-lesson-fxa301-week05-page-1
-related: ["community-engagement", "therapeutic-art", "visual-arts"]
+related: ["community-engagement", "creative-interventions-in-dementia-care", "visual-arts"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,5 +42,5 @@ This week's lesson explores community-based visual arts projects that aim to fos
 ## See Also
 
 - [community-engagement](../topics/community-engagement.md)
-- [therapeutic-art](../topics/therapeutic-art.md)
+- [creative-interventions-in-dementia-care](../topics/creative-interventions-in-dementia-care.md)
 - [visual-arts](../topics/visual-arts.md)

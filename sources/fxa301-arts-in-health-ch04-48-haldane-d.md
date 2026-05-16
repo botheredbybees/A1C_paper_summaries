@@ -14,13 +14,14 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
+  - unit: FXA301
 tags: ["biomedical-model", "psychosomatic-medicine", "public-health", "arts-in-healthcare", "historical-evolution-of-health", "fxa301"]
 key_concepts: ["biopsychosocial model", "Cartesian dualism", "Sigmund Freud's psychoanalysis"]
 methods: []
 slug: fxa301-arts-in-health-ch04-48-haldane-d
 related: ["arts-in-healthcare", "public-health"]
 created: 2026-05-03
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-arts-in-health-ch04-48-haldane-d.md_

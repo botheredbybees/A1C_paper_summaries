@@ -11,7 +11,7 @@ tags: ["dementia-care", "agitation-management", "person-centered-care", "randomi
 key_concepts: ["person-centered care", "communication skills training", "adapted dementia care mapping"]
 methods: ["systematic review", "RCT"]
 slug: fxa303-week13-non-pharmacological-interventions-for-agitation-in-dementia
-related: ["agitation-management", "dementia-care", "non-pharmacological-interventions", "person-centered-care", "randomized-controlled-trials"]
+related: ["agitation-management", "cognitive-stimulation-therapy", "dementia-care", "person-centered-care", "randomized-controlled-trials"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -45,7 +45,7 @@ The article presents a systematic review of non-pharmacological interventions fo
 ## See Also
 
 - [agitation-management](../topics/agitation-management.md)
+- [cognitive-stimulation-therapy](../topics/cognitive-stimulation-therapy.md)
 - [dementia-care](../topics/dementia-care.md)
-- [non-pharmacological-interventions](../topics/non-pharmacological-interventions.md)
 - [person-centered-care](../topics/person-centered-care.md)
 - [randomized-controlled-trials](../topics/randomized-controlled-trials.md)

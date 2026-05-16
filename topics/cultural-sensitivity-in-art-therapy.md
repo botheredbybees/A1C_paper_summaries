@@ -3,12 +3,12 @@ confidence: low
 domain: intervention
 slug: cultural-sensitivity-in-art-therapy
 sources:
-- fxa303-week10-indigenous-and-traditional-visual-artistic-practices
+  - fxa303-week10-indigenous-and-traditional-visual-artistic-practices
 tags:
 - cultural-sensitivity-in-art-therapy
 title: Cultural Sensitivity in Art Therapy
 type: topic
-updated: 2026-05-04
+updated: 2026-05-16
 ---
 
 ## Cultural Sensitivity in Art Therapy

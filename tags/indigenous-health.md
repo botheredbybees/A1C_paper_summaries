@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: indigenous-health
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Indigenous Health

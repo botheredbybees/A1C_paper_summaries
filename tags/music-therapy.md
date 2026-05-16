@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-therapy
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Music Therapy
@@ -96,6 +96,7 @@ updated: 2026-05-15
 - [Your Tube Standard Licence - Choir of Hard Knocks](../sources/fxa301-week10-transcript-your-tube-standard-licence.md)
 - [\u2018Anything is Possible\u2019: the Arts and Social Inclusion](../sources/fxa301-week11-anything-is-possible-the-arts-and-social-inclusion.md)
 - [Music Engagement and Disability](../sources/fxa301-week11-lesson-fxa301-week11-page-2.md)
+- [Long term music therapy for people with intellectual disabilities and the National Disability Insurance Scheme (NDIS)](../sources/fxa301-week11-web-article-cameron-2017.md)
 - [Music and Mental Health Practice](../sources/fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam.md)
 - ['Autism is a way of being': An \u2018insider perspective\u2019 on neurodiversity, music therapy and social justice](../sources/fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on.md)
 - [Community Services \u2013 The Music Therapy Center of California](../sources/fxa303-week04-community-services-the-music-therapy-center-of-california.md)

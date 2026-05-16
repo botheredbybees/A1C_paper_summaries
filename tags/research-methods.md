@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: research-methods
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Research Methods

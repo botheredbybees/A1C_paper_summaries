@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-decline-therapy
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Cognitive Decline Therapy

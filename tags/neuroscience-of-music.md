@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuroscience-of-music
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Neuroscience Of Music

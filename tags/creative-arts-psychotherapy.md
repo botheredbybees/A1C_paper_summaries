@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-arts-psychotherapy
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Creative Arts Psychotherapy

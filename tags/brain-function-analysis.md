@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-function-analysis
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Brain Function Analysis

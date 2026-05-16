@@ -11,7 +11,7 @@ tags: ["music-education", "social-change", "community-development", "youth-progr
 key_concepts: ["El Sistema movement", "social inclusion", "cooperative learning"]
 methods: ["book review"]
 slug: fxa301-week06-playing-for-their-lives-the-global-el-sistema-movement-for
-related: ["community-development", "music-education", "social-change"]
+related: ["community-development", "music-education", "social-change", "youth-programming"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,3 +46,4 @@ Jessica Grimmer reviews the book 'Playing for Their Lives: The Global El Sistema
 - [community-development](../topics/community-development.md)
 - [music-education](../topics/music-education.md)
 - [social-change](../topics/social-change.md)
+- [youth-programming](../topics/youth-programming.md)

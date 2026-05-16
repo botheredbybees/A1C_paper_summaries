@@ -4,6 +4,7 @@ domain: intervention
 slug: emotional-expression-through-therapeutic-interventions
 sources:
   - fxa100-how-we-thnk-about-dementia-ch15-chapter-9
+  - fxa100-the-creative-arts-in-dementia-care
   - fxa100-week04-singing-and-participation
   - fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography
   - fxa301-week02-current-emotion-research-in-music-psychology
@@ -26,7 +27,7 @@ tags:
 - emotional-expression
 title: Emotional Expression Through Therapeutic Interventions
 type: topic
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Emotional Expression Through Therapeutic Interventions
@@ -46,6 +47,7 @@ The integration of emotional expression through various therapeutic intervention
 ## Sources
 
 - [fxa100-how-we-thnk-about-dementia-ch15-chapter-9](../sources/fxa100-how-we-thnk-about-dementia-ch15-chapter-9.md)
+- [fxa100-the-creative-arts-in-dementia-care](../sources/fxa100-the-creative-arts-in-dementia-care.md)
 - [fxa100-week04-singing-and-participation](../sources/fxa100-week04-singing-and-participation.md)
 - [fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography](../sources/fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography.md)
 - [fxa301-week02-current-emotion-research-in-music-psychology](../sources/fxa301-week02-current-emotion-research-in-music-psychology.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: historical-exhibition
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Historical Exhibition

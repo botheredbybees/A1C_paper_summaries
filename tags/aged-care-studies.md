@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: aged-care-studies
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Aged Care Studies

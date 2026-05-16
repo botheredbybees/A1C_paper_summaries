@@ -12,7 +12,7 @@ tags: ["dementia-care", "reminiscence-therapy", "person-centered-practice", "fxa
 key_concepts: ["creative communication-based approach", "person-centred practice"]
 methods: []
 slug: fxa100-excellence-in-dementia-care--ch12-chapter-14
-related: ["dementia-care", "person-centered-practice", "reminiscence-therapy"]
+related: ["dementia-care", "person-centered-dementia-support", "reminiscence-therapy"]
 created: 2026-05-03
 updated: 2026-05-04
 ---
@@ -42,5 +42,5 @@ This chapter discusses the principles of good practice in creative communication
 ## See Also
 
 - [dementia-care](../topics/dementia-care.md)
-- [person-centered-practice](../topics/person-centered-practice.md)
+- [person-centered-dementia-support](../topics/person-centered-dementia-support.md)
 - [reminiscence-therapy](../topics/reminiscence-therapy.md)

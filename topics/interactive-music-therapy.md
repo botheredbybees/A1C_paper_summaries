@@ -3,12 +3,12 @@ confidence: low
 domain: intervention
 slug: interactive-music-therapy
 sources:
-- fxa100-week03-music-therapy-for-depression-it-seems-to-work-but-how
+  - fxa100-week03-music-therapy-for-depression-it-seems-to-work-but-how
 tags:
 - interactive-music-therapy
 title: Interactive Music Therapy
 type: topic
-updated: 2026-05-04
+updated: 2026-05-16
 ---
 
 ## Interactive Music Therapy

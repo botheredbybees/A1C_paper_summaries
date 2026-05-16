@@ -13,13 +13,15 @@ appearances:
     week: "08"
   - unit: FXA100
     week: "08"
+  - unit: FXA100
+    week: "08"
 tags: ["art-therapy", "dementia-care", "visual-art-and-dementia", "fxa100"]
 key_concepts: ["Art Therapy", "Participatory Arts Programs"]
 methods: []
 slug: fxa100-week06-lesson-fxa100-week06-page-3-the-arts-and-art-therapy
 related: ["art-therapy", "dementia-care"]
 created: 2026-05-03
-updated: 2026-05-05
+updated: 2026-05-16
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-week06-lesson-fxa100-week06-page-3-the-arts-and-art-therapy.md_

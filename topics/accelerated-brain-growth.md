@@ -3,12 +3,13 @@ confidence: low
 domain: theory
 slug: accelerated-brain-growth
 sources:
+
 - fxa303-week04-characteristics-of-brains-in-autism-spectrum-disorder
 tags:
 - accelerated-brain-growth
 title: Accelerated Brain Growth
 type: topic
-updated: 2026-05-04
+updated: 2026-05-16
 ---
 
 ## Accelerated Brain Growth
@@ -27,4 +28,4 @@ Research on the characteristics of brains in Autism Spectrum Disorder (ASD) sugg
 
 ## Sources
 
-- [fxa303-week04-characteristics-of-brains-in-autism-spectrum-disorder](../sources/fxa303-week04-characteristics-of-brains-in-autism-spectrum-disorder.md)
+

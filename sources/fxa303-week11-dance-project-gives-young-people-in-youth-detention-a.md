@@ -7,13 +7,15 @@ doi: null
 appearances:
   - unit: FXA303
     week: "11"
+  - unit: FXA303
+    week: "11"
 tags: ["youth-detention", "creative-expression", "cultural-healing", "empowerment-through-art", "aboriginal-youth", "fxa303"]
 key_concepts: ["self-expression", "trauma-healing", "cultural-representation"]
 methods: ["case-study"]
 slug: fxa303-week11-dance-project-gives-young-people-in-youth-detention-a
 related: ["creative-expression", "cultural-healing"]
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-05-16
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week11-dance-project-gives-young-people-in-youth-detention-a.md_

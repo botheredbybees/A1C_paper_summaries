@@ -1,12 +1,13 @@
 ---
 type: tag
 tag: photo-essay
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Photo Essay
 
 - [The Photo Essay: Storytelling with Image and Text](../sources/fxa202-week01-lesson-fxa202-week01-chapter-3-what-is-a-photo-essay.md)
+- [Using Quotes Effectively in Photo Essays](../sources/fxa202-week02-lesson-fxa202-week02-chapter-3-using-quotes-as-captions.md)
 - [Welcome to Week 2: Using Your Camera](../sources/fxa202-week02-welcome-to-week-2-using-your-camera.md)
 - [Week 5 Introduction - FXA202 The Photo Essay: Storytelling with image and text](../sources/fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling.md)
 - [Critical reflection of the development of the Finding Joy photo essay](../sources/fxa202-week06-critical-reflection-of-the-development-of-the-finding-joy.md)

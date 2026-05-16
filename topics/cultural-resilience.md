@@ -1,29 +1,27 @@
 ---
-confidence: low
-domain: theory
-slug: cultural-resilience
-sources:
-- fxa303-week10-indigenous-methodology-an-ethical-systems-approach-to-arts
-tags:
-- cultural-resilience
-title: Cultural Resilience
 type: topic
-updated: 2026-05-04
+domain: "theory"
+title: "Cultural Resilience"
+confidence: medium
+tags: ["cultural-resilience"]
+sources:
+  - fxa303-week10-indigenous-methodology-an-ethical-systems-approach-to-arts
+updated: 2026-05-16
 ---
 
 ## Cultural Resilience
 
-The concept of cultural resilience is explored through the lens of Indigenous Methodology and its application in arts-based work within Native American communities. The central theme revolves around decolonization as a pathway towards revitalizing traditional knowledge systems, thereby enhancing community resilience against external pressures that threaten their cultural integrity. This approach underscores the ethical framework necessary for sustaining indigenous practices while engaging with modern societal challenges.
+The concept of cultural resilience emerges as a critical framework for understanding how indigenous communities maintain and revive their traditions in the face of adversity. The source underscores the importance of decolonization efforts that are grounded in traditional knowledge, highlighting that resilience is not merely survival but an active engagement with cultural heritage to foster community strength and identity. However, there's a tension between the passive preservation of culture versus its dynamic revitalization through contemporary practices.
 
 ## Key Findings
 
-- Decolonization is essential for strengthening cultural resilience in Native communities.
-- Traditional knowledge plays a critical role in building resistance to external influences.
-- Ethical systems and methodologies are vital for authentic arts-based work within indigenous contexts.
+- Cultural resilience involves maintaining indigenous traditions despite external pressures.
+- Decolonization efforts are essential for reinforcing cultural identity and resilience among native communities.
+- Traditional knowledge plays a pivotal role in fostering cultural resilience by providing a foundation for community strength.
 
 ## Open Questions
 
-- What are the specific mechanisms by which traditional knowledge contributes to community resilience?
+- How can contemporary practices be integrated with traditional knowledge to sustainably promote cultural resilience?
 
 ## Sources
 

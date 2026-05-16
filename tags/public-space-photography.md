@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: public-space-photography
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Public Space Photography

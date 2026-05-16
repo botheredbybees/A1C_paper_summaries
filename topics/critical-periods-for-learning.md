@@ -3,12 +3,12 @@ confidence: low
 domain: theory
 slug: critical-periods-for-learning
 sources:
-- fxa303-week04-developmental-psychology-from-infancy-to-adulthood-chapter
+  - fxa303-week04-developmental-psychology-from-infancy-to-adulthood-chapter
 tags:
 - critical-periods-for-learning
 title: Critical Periods for Learning
 type: topic
-updated: 2026-05-04
+updated: 2026-05-16
 ---
 
 ## Critical Periods for Learning

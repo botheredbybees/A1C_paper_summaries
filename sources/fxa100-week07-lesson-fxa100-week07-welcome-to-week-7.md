@@ -11,7 +11,7 @@ tags: ["arts-and-dementia-care", "gallery-museum-outreach", "dementia-carer-supp
 key_concepts: ["ARTZ (Artists for Alzheimer's)", "reminiscence therapy"]
 methods: []
 slug: fxa100-week07-lesson-fxa100-week07-welcome-to-week-7
-related: ["arts-and-dementia-care"]
+related: ["museum-programs-for-people-with-dementia"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,4 +40,4 @@ In Week 7 of the FXA100 course on 'The Arts and Dementia Care,' students explore
 
 ## See Also
 
-- [arts-and-dementia-care](../topics/arts-and-dementia-care.md)
+- [museum-programs-for-people-with-dementia](../topics/museum-programs-for-people-with-dementia.md)

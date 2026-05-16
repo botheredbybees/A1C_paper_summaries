@@ -1,29 +1,27 @@
 ---
-confidence: low
-domain: intervention
-slug: choral-singing
-sources:
-- fxa100-week04-the-perceived-benefits-of-singing-findings-from-preliminary
-tags:
-- choral-singing
-title: Choral Singing
 type: topic
-updated: 2026-05-04
+domain: "intervention"
+title: "Choral Singing"
+confidence: medium
+tags: ["choral-singing"]
+sources:
+  - fxa100-week04-the-perceived-benefits-of-singing-findings-from-preliminary
+updated: 2026-05-16
 ---
 
 ## Choral Singing
 
-The study of the perceived benefits of choral singing highlights a variety of positive impacts on individuals' well-being. Across multiple sources, participants in choirs report enhanced quality of life and improved mental health as key outcomes. While preliminary surveys indicate that group singing can reduce stress and increase social connections, there is variability in how these benefits are experienced across different populations. The research suggests that choral singing not only offers emotional support but also provides a sense of community and belonging which contributes to physical and psychological well-being.
+The preliminary surveys highlighted the positive perceptions individuals have towards choral singing, noting its impact on both mental and physical health. The study revealed that participants perceived an improvement in their quality of life through social interaction, emotional expression, and stress reduction. Choral singing is seen as a communal activity that fosters connections among members and enhances well-being.
 
 ## Key Findings
 
-- Choral singing has perceived health benefits including mental and physical well-being improvements.
-- Participants report enhanced quality of life through engagement in group singing activities.
-- There is variability in the reported benefits among different demographic groups.
+- Choral singing is associated with improved mental health.
+- Participants reported enhanced social interactions from engaging in choral activities.
+- Perceived benefits of choral singing include stress reduction.
 
 ## Open Questions
 
-- How do the specific contexts and settings of choral singing impact its effectiveness as an intervention?
+- What are the long-term effects of regular participation in choral groups on physical and mental health?
 
 ## Sources
 

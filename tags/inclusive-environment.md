@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: inclusive-environment
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Inclusive Environment

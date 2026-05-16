@@ -3,13 +3,15 @@ confidence: medium
 domain: intervention
 slug: arts-integration-in-healthcare
 sources:
+  - fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative
+  - fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative-(2)
 - fxa301-week03-the-role-of-the-arts-in-healthcare-transforming-lives
 - fxa303-week10-importance-of-cultural-context-in-designing-arts-programs
 tags:
 - arts-integration
 title: Arts Integration in Healthcare
 type: topic
-updated: 2026-05-04
+updated: 2026-05-16
 ---
 
 ## Arts Integration in Healthcare
@@ -28,5 +30,5 @@ The role of arts integration as a therapeutic intervention within healthcare set
 
 ## Sources
 
-- [fxa301-week03-the-role-of-the-arts-in-healthcare-transforming-lives](../sources/fxa301-week03-the-role-of-the-arts-in-healthcare-transforming-lives.md)
-- [fxa303-week10-importance-of-cultural-context-in-designing-arts-programs](../sources/fxa303-week10-importance-of-cultural-context-in-designing-arts-programs.md)
+- [fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative](../sources/fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative.md)
+- [fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative-(2)](../sources/fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative-(2).md)

@@ -8,7 +8,9 @@ sources:
   - fxa100-week09-lesson-fxa100-week09-page-2-dance-therapy-drama-therapy
   - fxa100-week09-transcript-applied-theatre-tdfs-theatre-dictionary-defining
   - fxa301-applied-artes-and-health-ch03-85-ulrich
+  - fxa301-applied-artes-and-health-ch03-85-ulrich-(2)
   - fxa301-week08-lesson-fxa301-week07-page-1
+  - fxa301-week08-web-article-sextou-2017
   - fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare
   - fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental
 - fxa100-week09-applied-theatre-problems-and-possibilities
@@ -22,7 +24,7 @@ tags:
 - applied-theatre
 title: Applied Theatre
 type: topic
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Applied Theatre
@@ -46,6 +48,8 @@ Applied theatre emerges as an intervention that leverages the transformative pow
 - [fxa100-week09-lesson-fxa100-week09-page-2-dance-therapy-drama-therapy](../sources/fxa100-week09-lesson-fxa100-week09-page-2-dance-therapy-drama-therapy.md)
 - [fxa100-week09-transcript-applied-theatre-tdfs-theatre-dictionary-defining](../sources/fxa100-week09-transcript-applied-theatre-tdfs-theatre-dictionary-defining.md)
 - [fxa301-applied-artes-and-health-ch03-85-ulrich](../sources/fxa301-applied-artes-and-health-ch03-85-ulrich.md)
+- [fxa301-applied-artes-and-health-ch03-85-ulrich-(2)](../sources/fxa301-applied-artes-and-health-ch03-85-ulrich-(2).md)
 - [fxa301-week08-lesson-fxa301-week07-page-1](../sources/fxa301-week08-lesson-fxa301-week07-page-1.md)
+- [fxa301-week08-web-article-sextou-2017](../sources/fxa301-week08-web-article-sextou-2017.md)
 - [fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare](../sources/fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare.md)
 - [fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental](../sources/fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental.md)

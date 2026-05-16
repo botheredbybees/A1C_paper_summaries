@@ -1,29 +1,27 @@
 ---
-confidence: low
-domain: intervention
-slug: holistic-patient-care
-sources:
-- fxa301-week05-support-programs-ut-md-anderson
-tags:
-- holistic-patient-care
-title: Holistic Patient Care
 type: topic
-updated: 2026-05-04
+domain: "intervention"
+title: "Holistic Patient Care"
+confidence: medium
+tags: ["holistic-patient-care"]
+sources:
+  - fxa301-week05-support-programs-ut-md-anderson
+updated: 2026-05-16
 ---
 
 ## Holistic Patient Care
 
-Support programs at institutions like UT MD Anderson emphasize the importance of a holistic approach to patient care that integrates various forms of therapy and support beyond traditional medical treatments. These programs often highlight the therapeutic benefits derived from non-conventional methods such as art therapy, aiming to address not just physical ailments but also emotional and psychological well-being. The integration of integrative medicine into standard treatment plans underscores an evolving paradigm in healthcare that prioritizes comprehensive patient care.
+Support programs at UT MD Anderson Cancer Center emphasize the importance of integrating holistic and integrative medicine into patient care. These programs aim to address not only the physical health needs but also the psychological, emotional, social, and spiritual dimensions of patients' lives, which collectively contribute to a more comprehensive approach known as holistic patient care. The therapeutic benefits derived from art are one such example within this broader framework, highlighting how creative activities can enhance mental well-being and provide a sense of normalcy during challenging times. This initiative underscores the growing recognition that effective healthcare must encompass multiple aspects beyond traditional medical treatments.
 
 ## Key Findings
 
-- Holistic patient care integrates various therapeutic modalities beyond traditional medical treatments.
-- Support programs at major hospitals like UT MD Anderson include art therapy to address patients' emotional and psychological needs.
-- Integrative medicine is increasingly recognized as an essential component of holistic patient care.
+- Holistic patient care involves addressing the physical, psychological, emotional, social, and spiritual needs of patients.
+- Integrative medicine is an integral part of holistic care strategies in support programs at UT MD Anderson Cancer Center.
+- Creative activities like art therapy offer therapeutic benefits to patients in various dimensions beyond direct medical treatment.
 
 ## Open Questions
 
-- What are the long-term effects of incorporating non-conventional therapies such as art therapy into standard medical treatment plans?
+- What are the long-term impacts and sustainability of integrating creative therapies such as art into standard patient care models?
 
 ## Sources
 

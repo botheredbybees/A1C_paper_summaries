@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: clinical-dementia-rating
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Clinical Dementia Rating

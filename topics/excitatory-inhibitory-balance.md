@@ -3,12 +3,12 @@ confidence: low
 domain: theory
 slug: excitatory-inhibitory-balance
 sources:
-- fxa303-week04-the-neurochemistry-of-autism
+  - fxa303-week04-the-neurochemistry-of-autism
 tags:
 - excitatory-inhibitory-balance
 title: Excitatory-Inhibitory Balance
 type: topic
-updated: 2026-05-04
+updated: 2026-05-16
 ---
 
 ## Excitatory-Inhibitory Balance

@@ -12,6 +12,7 @@ sources:
   - fxa303-week04-play-interventions-for-neurodivergent-children-and
   - fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand
   - fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon
+  - fxa303-week09-web-article-puddy-2020
   - fxa303-week11-mapping-q-the-university-of-arizona-museum-of-art
 - fxa202-week06-reflection-on-the-therapeutic-and-artistic-process-of
 - fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2)
@@ -26,7 +27,7 @@ tags:
 - mental-health-support
 title: Mental Health Support Through Creative Interventions
 type: topic
-updated: 2026-05-11
+updated: 2026-05-16
 ---
 
 ## Mental Health Support Through Creative Interventions
@@ -54,4 +55,5 @@ The integration of various forms of artistic and creative practices as intervent
 - [fxa303-week04-play-interventions-for-neurodivergent-children-and](../sources/fxa303-week04-play-interventions-for-neurodivergent-children-and.md)
 - [fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand](../sources/fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand.md)
 - [fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon](../sources/fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon.md)
+- [fxa303-week09-web-article-puddy-2020](../sources/fxa303-week09-web-article-puddy-2020.md)
 - [fxa303-week11-mapping-q-the-university-of-arizona-museum-of-art](../sources/fxa303-week11-mapping-q-the-university-of-arizona-museum-of-art.md)

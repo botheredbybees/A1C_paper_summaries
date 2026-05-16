@@ -11,13 +11,15 @@ appearances:
     week: "06"
   - unit: FXA202
     week: "06"
+  - unit: FXA202
+    week: "06"
 tags: ["visual-storytelling", "photo-essays", "linear-stories", "non-linear-stories", "fxa202"]
 key_concepts: ["lead photo", "establishing shot", "closing shot", "story structure"]
 methods: []
 slug: fxa202-week05-lesson-fxa202-week05-chapter-2-beginnings-and-endings
 related: ["photo-essays", "visual-storytelling"]
 created: 2026-05-03
-updated: 2026-05-05
+updated: 2026-05-16
 ---
 
 _All claims sourced from ../raw/pdf/fxa202-week05-lesson-fxa202-week05-chapter-2-beginnings-and-endings.md_

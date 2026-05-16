@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: empathy-systemizing-spectrum
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Empathy Systemizing Spectrum

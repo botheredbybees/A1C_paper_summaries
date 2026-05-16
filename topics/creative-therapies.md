@@ -3,6 +3,7 @@ confidence: high
 domain: intervention
 slug: creative-therapies
 sources:
+  - fxa100-the-creative-arts-in-dementia-care
   - fxa100-week08-why-the-arts
   - fxa100-week09-web-article-north-2021
   - fxa202-week03-can-photography-help-depression
@@ -28,7 +29,7 @@ tags:
 - creative-therapies
 title: Creative Therapies
 type: topic
-updated: 2026-05-11
+updated: 2026-05-16
 ---
 
 ## Creative Therapies
@@ -47,6 +48,7 @@ Creative therapies encompass various interventions that use the arts to enhance 
 
 ## Sources
 
+- [fxa100-the-creative-arts-in-dementia-care](../sources/fxa100-the-creative-arts-in-dementia-care.md)
 - [fxa100-week08-why-the-arts](../sources/fxa100-week08-why-the-arts.md)
 - [fxa100-week09-web-article-north-2021](../sources/fxa100-week09-web-article-north-2021.md)
 - [fxa202-week03-can-photography-help-depression](../sources/fxa202-week03-can-photography-help-depression.md)

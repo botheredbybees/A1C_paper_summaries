@@ -12,6 +12,7 @@ sources:
   - fxa301-week01-an-introduction-to-research
   - fxa301-week01-arts-in-health-designing-and-researching-interventions
   - fxa301-week02-the-emerging-field-of-affective-science
+  - fxa301-week08-web-article-bernard-2015
   - fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)
   - fxa303-week11-future-directions-in-understanding-and-addressing-mental
   - fxa303-week13-good-health-and-well-being
@@ -26,7 +27,7 @@ tags:
 - interdisciplinary-research
 title: Interdisciplinary Approaches to Quality of Life Improvement
 type: topic
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Interdisciplinary Approaches to Quality of Life Improvement
@@ -53,6 +54,7 @@ This synthesis focuses on interdisciplinary research aimed at enhancing the qual
 - [fxa301-week01-an-introduction-to-research](../sources/fxa301-week01-an-introduction-to-research.md)
 - [fxa301-week01-arts-in-health-designing-and-researching-interventions](../sources/fxa301-week01-arts-in-health-designing-and-researching-interventions.md)
 - [fxa301-week02-the-emerging-field-of-affective-science](../sources/fxa301-week02-the-emerging-field-of-affective-science.md)
+- [fxa301-week08-web-article-bernard-2015](../sources/fxa301-week08-web-article-bernard-2015.md)
 - [fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3).md)
 - [fxa303-week11-future-directions-in-understanding-and-addressing-mental](../sources/fxa303-week11-future-directions-in-understanding-and-addressing-mental.md)
 - [fxa303-week13-good-health-and-well-being](../sources/fxa303-week13-good-health-and-well-being.md)

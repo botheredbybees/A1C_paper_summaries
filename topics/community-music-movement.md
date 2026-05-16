@@ -3,12 +3,12 @@ confidence: low
 domain: intervention
 slug: community-music-movement
 sources:
-- fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam
+  - fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam
 tags:
 - community-music-movement
 title: Community-Music Movement
 type: topic
-updated: 2026-05-04
+updated: 2026-05-16
 ---
 
 ## Community-Music Movement

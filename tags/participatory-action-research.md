@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: participatory-action-research
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Participatory Action Research

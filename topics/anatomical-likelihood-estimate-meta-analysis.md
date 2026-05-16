@@ -3,12 +3,12 @@ confidence: low
 domain: method
 slug: anatomical-likelihood-estimate-meta-analysis
 sources:
-- fxa303-week04-distinct-regions-of-the-cerebellum-show-gray-matter
+  - fxa303-week04-distinct-regions-of-the-cerebellum-show-gray-matter
 tags:
 - anatomical-likelihood-estimate-meta-analysis
 title: Anatomical Likelihood Estimate Meta-Analysis
 type: topic
-updated: 2026-05-04
+updated: 2026-05-16
 ---
 
 ## Anatomical Likelihood Estimate Meta-Analysis

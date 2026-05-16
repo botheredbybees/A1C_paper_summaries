@@ -3,12 +3,12 @@ confidence: low
 domain: intervention
 slug: freezing-of-gait
 sources:
-- fxa301-week06-therapeutic-dancing-for-parkinsons-disease
+  - fxa301-week06-therapeutic-dancing-for-parkinsons-disease
 tags:
 - freezing-of-gait
 title: Freezing Of Gait
 type: topic
-updated: 2026-05-04
+updated: 2026-05-16
 ---
 
 ## Freezing Of Gait

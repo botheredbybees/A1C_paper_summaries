@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychological-insights
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Psychological Insights

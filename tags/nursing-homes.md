@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: nursing-homes
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Nursing Homes

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: student-life
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Student Life

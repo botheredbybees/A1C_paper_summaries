@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: recreational-therapy
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Recreational Therapy

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-therapy
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Arts Therapy
@@ -11,6 +11,7 @@ updated: 2026-05-15
 - [Guidelines for Arts and Mental Health Projects](../sources/fxa100-week04-guidelines-for-arts-and-mental-health-projects.md)
 - [Is a Visual Arts Programme Beneficial for the Quality of Life of People Living with Dementia?](../sources/fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of.md)
 - [Art and Dementia | Art Gallery of New South Wales](../sources/fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales.md)
+- [Building Bridges Across Arts and Health](../sources/fxa301-applied-artes-and-health-ch03-85-ulrich-(2).md)
 - [Arts on Prescription in Sefton: Programme Report](../sources/fxa301-week01-arts-on-prescription-in-sefton-programme-report.md)
 - [The role of arts activities in developing resilience and mental wellbeing in children and young people: A rapid review of the literature](../sources/fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and.md)
 - [Arts-Based Therapies in the Treatment of Eating Disorders](../sources/fxa301-week10-arts-based-therapies-in-the-treatment-of-eating-disorders.md)

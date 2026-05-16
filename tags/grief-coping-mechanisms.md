@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: grief-coping-mechanisms
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Grief Coping Mechanisms

@@ -11,7 +11,7 @@ tags: ["clown-therapy", "procedural-pain-management", "pediatric-care", "non-pha
 key_concepts: ["clown therapy", "procedural pain", "anxiety reduction"]
 methods: ["systematic review", "meta-analysis"]
 slug: fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic
-related: ["clown-therapy", "non-pharmacological-interventions", "pediatric-care", "systematic-review"]
+related: ["clown-therapy", "cognitive-stimulation-therapy", "pediatric-care", "systematic-review"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,6 +45,6 @@ This systematic review and meta-analysis evaluates the effectiveness of clown th
 ## See Also
 
 - [clown-therapy](../topics/clown-therapy.md)
-- [non-pharmacological-interventions](../topics/non-pharmacological-interventions.md)
+- [cognitive-stimulation-therapy](../topics/cognitive-stimulation-therapy.md)
 - [pediatric-care](../topics/pediatric-care.md)
 - [systematic-review](../topics/systematic-review.md)

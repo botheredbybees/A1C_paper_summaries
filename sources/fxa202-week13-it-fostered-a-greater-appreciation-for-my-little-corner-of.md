@@ -11,7 +11,7 @@ tags: ["therapeutic-photography", "autism-interventions", "well-being-enhancemen
 key_concepts: ["hedonic well-being", "eudaimonic well-being", "reflective practice"]
 methods: ["feasibility study"]
 slug: fxa202-week13-it-fostered-a-greater-appreciation-for-my-little-corner-of
-related: ["autism-interventions", "therapeutic-photography", "well-being-enhancement", "youth-development"]
+related: ["autism-interventions", "creative-interventions-in-dementia-care", "therapeutic-photography", "youth-development"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -43,6 +43,6 @@ The study examines the feasibility of a therapeutic photography intervention for
 ## See Also
 
 - [autism-interventions](../topics/autism-interventions.md)
+- [creative-interventions-in-dementia-care](../topics/creative-interventions-in-dementia-care.md)
 - [therapeutic-photography](../topics/therapeutic-photography.md)
-- [well-being-enhancement](../topics/well-being-enhancement.md)
 - [youth-development](../topics/youth-development.md)

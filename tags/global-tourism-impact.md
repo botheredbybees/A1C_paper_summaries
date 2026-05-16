@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: global-tourism-impact
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Global Tourism Impact

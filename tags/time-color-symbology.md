@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: time-color-symbology
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Time Color Symbology

@@ -3,12 +3,12 @@ confidence: low
 domain: intervention
 slug: choral-singing-therapy
 sources:
-- fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings
+  - fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings
 tags:
 - choral-singing-therapy
 title: Choral Singing Therapy
 type: topic
-updated: 2026-05-04
+updated: 2026-05-16
 ---
 
 ## Choral Singing Therapy

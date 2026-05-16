@@ -14,13 +14,14 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
+  - unit: FXA301
 tags: ["neuroaesthetics", "therapeutic-environments", "interdisciplinary-collaboration", "fxa301"]
 key_concepts: ["neuroaesthetic principles", "sensory experiences"]
 methods: []
 slug: fxa301-bridging-the-creative-arts-therapies-ch01-1-essential
 related: ["interdisciplinary-collaboration", "neuroaesthetics", "therapeutic-environments"]
 created: 2026-05-03
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-bridging-the-creative-arts-therapies-ch01-1-essential.md_

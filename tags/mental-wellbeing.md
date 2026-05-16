@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-wellbeing
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Mental Wellbeing
@@ -34,6 +34,7 @@ updated: 2026-05-15
 - [Overview - FXA303 Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week06-overview-fxa303-creative-arts-play-and-mental-wellbeing.md)
 - [Week 6 Activities - FXA303 Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental.md)
 - [Therapeutic Clowning: Benefits and Applications](../sources/fxa303-week08-lesson-fxa303-week08-page-3-therapeutic-clowning.md)
+- [FXA303 Creative Arts, Play and Mental Wellbeing - Week 8 Activities](../sources/fxa303-week08-lesson-fxa303-week08-page-4-activities.md)
 - [FXA303 Week 9: Design and Applications of Creative Arts Projects for Mental Wellbeing](../sources/fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts.md)
 - [FXA303 Creative Arts, Play and Mental Wellbeing - Week 9 Overview](../sources/fxa303-week09-lesson-fxa303-week09-page-1-overview.md)
 - [Trauma-Informed Design for Creative Arts and Play Projects](../sources/fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design.md)
@@ -45,6 +46,7 @@ updated: 2026-05-15
 - [Artsmark and Sandwell Youth Offending Service Follow-Up](../sources/fxa303-week11-artsmark-and-sandwell-youth-offending-service-follow-up.md)
 - [FXA303 Week 11: Creative Arts Projects and Therapeutic Programs for Gender Diverse Youth](../sources/fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic.md)
 - [Hidden Identities and Concealed Dangers: Visual Art, Transgender Health, and Wellbeing](../sources/fxa303-week11-hidden-identities-and-concealed-dangers-visual-art.md)
+- [FXA303 Creative Arts, Play and Mental Wellbeing - Week 11](../sources/fxa303-week11-lesson-fxa303-week11-overview.md)
 - [Week 11 Overview - FXA303 Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week11-lesson-fxa303-week11-page-1-overview.md)
 - [Creative Arts and Disadvantaged Youth](../sources/fxa303-week11-lesson-fxa303-week11-page-3.md)
 - [The effect of humor on elder mental and physical health](../sources/fxa303-week13-the-effect-of-humor-on-elder-mental-and-physical-health.md)

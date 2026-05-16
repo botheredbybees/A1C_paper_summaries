@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cultural-identity
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Cultural Identity

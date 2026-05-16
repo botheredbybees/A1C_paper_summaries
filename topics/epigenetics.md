@@ -1,28 +1,27 @@
 ---
-confidence: low
-domain: theory
-slug: epigenetics
-sources:
-- fxa303-week03-chapter-11-human-development-how-and-why-we-change
-tags:
-- epigenetics
-title: Epigenetics
 type: topic
-updated: 2026-05-04
+domain: "theory"
+title: "Epigenetics"
+confidence: medium
+tags: ["epigenetics"]
+sources:
+  - fxa303-week03-chapter-11-human-development-how-and-why-we-change
+updated: 2026-05-16
 ---
 
 ## Epigenetics
 
-The concept of epigenetics is explored in the context of human development and how it influences changes over an individual's lifespan. The chapter highlights that while traditional views might focus on genetic determinism, epigenetic mechanisms offer a more nuanced understanding where environmental factors can modify gene expression without altering the DNA sequence itself. This has implications for cognitive and social-moral development theories, suggesting that developmental trajectories are not solely determined by genetics but also influenced by external conditions. However, there is variability in how different sources within this chapter integrate these epigenetic insights into their broader theoretical frameworks regarding human development.
+The chapter on human development highlights the multifaceted nature of individual change over time, integrating both genetic and environmental influences through the concept of epigenetics. This theory emphasizes that while our genes provide a biological blueprint for development, external factors such as social interactions, experiences, and environment can influence how these genes are expressed or silenced, thus shaping developmental trajectories differently among individuals. Integrating findings from various perspectives, including cognitive-development-theory and social-moral-development, epigenetics bridges the gap between nature and nurture by illustrating that environmental stimuli play a crucial role in gene expression patterns.
 
 ## Key Findings
 
-- Epigenetics provides a mechanism through which environmental factors can influence gene expression without changing the underlying DNA sequence.
-- This dynamic interaction between genes and environment challenges deterministic views of cognitive and social-moral development.
+- Epigenetics explains how external factors can alter gene expression without changing the underlying DNA sequence.
+- Social interactions and experiences significantly influence developmental processes through epigenetic modifications.
+- Cognitive development theories benefit from incorporating epigenetic perspectives to understand individual variability in learning and behavior.
 
 ## Open Questions
 
-- How do specific epigenetic changes relate to distinct stages or aspects of human development such as cognition, morality, or other developmental milestones?
+- How do specific environmental factors interact with genetic predispositions to produce measurable changes in cognitive or social development?
 
 ## Sources
 

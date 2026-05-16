@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ethical-practices
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Ethical Practices

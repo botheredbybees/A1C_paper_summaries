@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: decision-making-clarity
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Decision Making Clarity

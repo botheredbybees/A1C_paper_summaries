@@ -11,7 +11,7 @@ tags: ["arts-based-interventions", "health-outcomes", "methodological-critique",
 key_concepts: ["randomization", "confounding-factors", "definition-of-art"]
 methods: ["systematic-review"]
 slug: fxa100-week13-can-arts-based-interventions-improve-health-a-conceptual
-related: ["arts-based-interventions", "health-outcomes"]
+related: ["creative-interventions-in-dementia-care", "health-outcomes"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -41,5 +41,5 @@ The article critiques the claim that engaging with art improves mental and physi
 
 ## See Also
 
-- [arts-based-interventions](../topics/arts-based-interventions.md)
+- [creative-interventions-in-dementia-care](../topics/creative-interventions-in-dementia-care.md)
 - [health-outcomes](../topics/health-outcomes.md)

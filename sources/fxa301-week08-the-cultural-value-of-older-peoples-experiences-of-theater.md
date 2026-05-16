@@ -11,7 +11,7 @@ tags: ["older-people", "theater-making", "cultural-value", "well-being", "social
 key_concepts: ["health-benefits", "intrinsic-cultural-value"]
 methods: ["systematic-review"]
 slug: fxa301-week08-the-cultural-value-of-older-peoples-experiences-of-theater
-related: ["social-interaction", "well-being"]
+related: ["older-people", "social-interaction", "well-being"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,5 +43,6 @@ The article by Bernard and Rickett (2017) explores the cultural value of older p
 
 ## See Also
 
+- [older-people](../topics/older-people.md)
 - [social-interaction](../topics/social-interaction.md)
 - [well-being](../topics/well-being.md)

@@ -7,13 +7,15 @@ doi: null
 appearances:
   - unit: FXA100
     week: "04"
+  - unit: FXA100
+    week: "04"
 tags: ["arts-in-dementia-care", "community-engagement", "health-wellbeing", "fxa100"]
 key_concepts: ["dementia-discourse", "music-therapy", "singing-interventions"]
 methods: []
 slug: fxa100-week04-week-4-activities-fxa100-the-arts-and-dementia-care
 related: ["arts-in-dementia-care", "community-engagement", "health-wellbeing"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-16
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-week04-week-4-activities-fxa100-the-arts-and-dementia-care.md_

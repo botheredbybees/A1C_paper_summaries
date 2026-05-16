@@ -5,13 +5,14 @@ slug: elderly-wellbeing-through-creative-arts
 sources:
   - fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2)
   - fxa301-week06-lesson-fxa301-week06-page-2
+  - fxa301-week08-web-article-sextou-2017
 - fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2)
 - fxa301-week06-lesson-fxa301-week06-page-2
 tags:
 - elderly-wellbeing
 title: Elderly Wellbeing Through Creative Arts
 type: topic
-updated: 2026-05-11
+updated: 2026-05-16
 ---
 
 ## Elderly Wellbeing Through Creative Arts
@@ -32,3 +33,4 @@ The integration of creative arts interventions for elderly wellbeing highlights 
 
 - [fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2).md)
 - [fxa301-week06-lesson-fxa301-week06-page-2](../sources/fxa301-week06-lesson-fxa301-week06-page-2.md)
+- [fxa301-week08-web-article-sextou-2017](../sources/fxa301-week08-web-article-sextou-2017.md)

@@ -93,6 +93,7 @@ sources:
   - fxa301-week10-transcript-your-tube-standard-licence
   - fxa301-week11-anything-is-possible-the-arts-and-social-inclusion
   - fxa301-week11-lesson-fxa301-week11-page-2
+  - fxa301-week11-web-article-cameron-2017
   - fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam
   - fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on
   - fxa303-week04-community-services-the-music-therapy-center-of-california
@@ -207,7 +208,7 @@ tags:
 - music-therapy
 title: Music Therapy
 type: topic
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Music Therapy
@@ -316,6 +317,7 @@ The integration of music therapy across various neurological conditions undersco
 - [fxa301-week10-transcript-your-tube-standard-licence](../sources/fxa301-week10-transcript-your-tube-standard-licence.md)
 - [fxa301-week11-anything-is-possible-the-arts-and-social-inclusion](../sources/fxa301-week11-anything-is-possible-the-arts-and-social-inclusion.md)
 - [fxa301-week11-lesson-fxa301-week11-page-2](../sources/fxa301-week11-lesson-fxa301-week11-page-2.md)
+- [fxa301-week11-web-article-cameron-2017](../sources/fxa301-week11-web-article-cameron-2017.md)
 - [fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam.md)
 - [fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on](../sources/fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on.md)
 - [fxa303-week04-community-services-the-music-therapy-center-of-california](../sources/fxa303-week04-community-services-the-music-therapy-center-of-california.md)

@@ -1,29 +1,27 @@
 ---
-confidence: low
-domain: theory
-slug: continuity-and-adaptation-theory
-sources:
-- fxa202-week10-the-reciprocal-influence-of-art-and-aging
-tags:
-- continuity-and-adaptation-theory
-title: Continuity and Adaptation Theory
 type: topic
-updated: 2026-05-04
+domain: "theory"
+title: "Continuity and Adaptation Theory"
+confidence: medium
+tags: ["continuity-and-adaptation-theory"]
+sources:
+  - fxa202-week10-the-reciprocal-influence-of-art-and-aging
+updated: 2026-05-16
 ---
 
 ## Continuity and Adaptation Theory
 
-The Continuity and Adaptation theory posits that aging involves both the maintenance of continuity with one's past self and adaptation to new circumstances. This concept is explored in depth within various contexts, including art engagement among older adults (Source 1). Source 1 highlights how this theoretical framework applies to understanding the relationship between creative expression and cognitive functioning as people age. It notes that while some individuals may experience a decline in certain aspects of their abilities, they often find new ways to engage creatively, thus maintaining continuity through adaptation. The integration of Continuity and Adaptation Theory with other theories such as gerotranscendence suggests that older adults can achieve a sense of peace and fulfillment by transcending traditional views of aging, finding new meanings in life's changes.
+The Continuity and Adaptation theory explores how individuals maintain a sense of self throughout aging by adapting to life changes. This theory is often discussed in tandem with the concept of gerotranscendence, which posits that older adults achieve spiritual growth through disengagement from societal norms. The relationship between these concepts and creativity suggests that as people age, their creative expression expands beyond traditional boundaries, contributing to personal identity continuity. Despite shared interest in aging and personal development, different theoretical frameworks highlight unique aspects of the aging process.
 
 ## Key Findings
 
-- Continuity and Adaptation theory helps explain how individuals maintain psychological stability during aging through both continuity with their past and adaptation to present realities.
-- Creative expansion among older adults is a manifestation of the Continuity and Adaptation Theory, showing how engagement with art can help in adapting while maintaining personal identity.
-- Combining Continuity and Adaptation Theory with gerotranscendence offers a holistic understanding of aging processes.
+- Continuity and Adaptation Theory supports individuals' ability to maintain a sense of self through adaptation to life changes during aging.
+- Creative expression tends to expand with age, contributing to identity continuity.
+- The theory is often discussed alongside gerotranscendence, which focuses on spiritual growth in older adults.
 
 ## Open Questions
 
-- How does cultural context influence the application and manifestation of Continuity and Adaptation theory among diverse older populations?
+- How does the expansion of creative expression with age relate to other aspects of personal development such as social engagement and cognitive function?
 
 ## Sources
 

@@ -1,29 +1,27 @@
 ---
-confidence: low
-domain: intervention
-slug: art-as-therapy
-sources:
-- fxa301-week05-lesson-fxa301-week05-page-4-week-3-activities
-tags:
-- art-as-therapy
-title: Art as Therapy
 type: topic
-updated: 2026-05-04
+domain: "intervention"
+title: "Art as Therapy"
+confidence: medium
+tags: ["art-as-therapy"]
+sources:
+  - fxa301-week05-lesson-fxa301-week05-page-4-week-3-activities
+updated: 2026-05-16
 ---
 
 ## Art as Therapy
 
-The concept of 'art as therapy' encompasses a variety of practices where the creation or engagement with art serves therapeutic purposes. Sources indicate that this intervention can take many forms, including visual arts for wellbeing and activities aimed at social bonding through artistic expression. Across these sources, there is an agreement on the potential of art to improve mental health and foster community connections. However, while the benefits are evident in certain contexts, questions remain about its efficacy across diverse populations and specific therapeutic goals.
+The use of art as a therapeutic intervention is explored across multiple sources, each highlighting its unique benefits in fostering personal growth and community engagement. Sources discuss the visual arts as a means to enhance wellbeing and social connections among participants. Art therapy offers individuals a creative outlet for self-expression and emotional healing, with communal activities facilitating bonding and shared understanding between participants. While there is consensus on the positive impacts of art-as-therapy interventions, variations in approaches and methodologies remain, raising questions about optimal practices.
 
 ## Key Findings
 
-- Art as therapy can enhance wellbeing
-- It fosters social bonding among participants
-- Visual arts are a prominent medium for this intervention
+- Art therapy enhances individual wellbeing through visual expression
+- Community-based art projects promote social bonding among participants
+- Visual arts serve as an effective medium for emotional healing
 
 ## Open Questions
 
-- What is the extent of art's effectiveness in achieving specific mental health outcomes?
+- What are the most effective methodologies for delivering art-as-therapy interventions?
 
 ## Sources
 

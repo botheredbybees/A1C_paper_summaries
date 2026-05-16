@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: non-verbal-communication
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Non Verbal Communication

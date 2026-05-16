@@ -11,7 +11,7 @@ tags: ["lewy-body-dementia", "parkinsons-disease", "alzheimers-disease", "neurod
 key_concepts: ["Lewy bodies", "alpha-synuclein", "cognitive impairment"]
 methods: []
 slug: fxa100-week01-the-science-of-lewy-body-dementia-video-transcript
-related: ["alzheimers-disease", "brain-anatomy", "neurodegenerative-disorders", "parkinsons-disease"]
+related: ["alzheimers-disease", "brain-anatomy", "lewy-body-dementia", "neurodegenerative-disorders", "parkinsons-disease"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,5 +45,6 @@ This video transcript discusses the condition known as Lewy Body Dementia (LBD),
 
 - [alzheimers-disease](../topics/alzheimers-disease.md)
 - [brain-anatomy](../topics/brain-anatomy.md)
+- [lewy-body-dementia](../topics/lewy-body-dementia.md)
 - [neurodegenerative-disorders](../topics/neurodegenerative-disorders.md)
 - [parkinsons-disease](../topics/parkinsons-disease.md)

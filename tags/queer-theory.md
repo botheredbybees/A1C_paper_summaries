@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: queer-theory
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Queer Theory

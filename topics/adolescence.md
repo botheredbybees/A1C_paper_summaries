@@ -3,6 +3,7 @@ confidence: medium
 domain: theory
 slug: brain-development-during-adolescence
 sources:
+  - fxa303-week02-web-article-orenstein-2022
   - fxa303-week03-brain-development-during-adolescence
   - fxa303-week03-media-use-and-brain-development-during-adolescence
 - fxa303-week03-brain-development-during-adolescence
@@ -11,7 +12,7 @@ tags:
 - adolescence
 title: Brain Development During Adolescence
 type: topic
-updated: 2026-05-11
+updated: 2026-05-16
 ---
 
 ## Brain Development During Adolescence
@@ -30,5 +31,6 @@ The synthesis of research on brain development during adolescence highlights a c
 
 ## Sources
 
+- [fxa303-week02-web-article-orenstein-2022](../sources/fxa303-week02-web-article-orenstein-2022.md)
 - [fxa303-week03-brain-development-during-adolescence](../sources/fxa303-week03-brain-development-during-adolescence.md)
 - [fxa303-week03-media-use-and-brain-development-during-adolescence](../sources/fxa303-week03-media-use-and-brain-development-during-adolescence.md)

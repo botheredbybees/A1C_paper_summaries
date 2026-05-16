@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: auditory-system
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Auditory System

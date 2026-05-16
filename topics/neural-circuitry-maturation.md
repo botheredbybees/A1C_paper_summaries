@@ -1,29 +1,26 @@
 ---
-confidence: low
-domain: intervention
-slug: neural-circuitry-maturation
-sources:
-- fxa303-week03-hormones-and-the-adolescent-brain
-tags:
-- neural-circuitry-maturation
-title: Neural Circuitry Maturation
 type: topic
-updated: 2026-05-04
+domain: "theory"
+title: "Neural Circuitry Maturation During Puberty"
+confidence: medium
+tags: ["neural-circuitry-maturation"]
+sources:
+  - fxa303-week03-hormones-and-the-adolescent-brain
+updated: 2026-05-16
 ---
 
-## Neural Circuitry Maturation
+## Neural Circuitry Maturation During Puberty
 
-The process of neural circuitry maturation during adolescence is heavily influenced by hormonal changes. This period involves significant shifts in cognitive functions and brain development as the body transitions through puberty. Sources highlight the intricate relationship between hormones, particularly those associated with puberty, and their impact on the adolescent brain's structure and function. While there is consensus on the broad strokes of how these elements interact during maturation, specific mechanisms remain areas for further inquiry.
+The synthesis integrates findings from the source material on hormones and their impact on adolescent brain development. The discussion revolves around how hormonal changes during puberty influence neural circuitry maturation, affecting cognitive functions such as decision-making and social interaction. There is a consistent agreement among sources about the pivotal role of hormones in shaping brain architecture during adolescence, yet there are open questions regarding the specific mechanisms by which these effects occur.
 
 ## Key Findings
 
-- Neural circuitry undergoes significant development during adolescence.
-- Hormonal changes play a critical role in shaping neural circuitry maturation.
-- Puberty triggers changes in cognitive functions related to brain development.
+- Hormonal changes during puberty significantly influence neural circuitry maturation.
+- Puberty affects cognitive functions such as decision-making and social behavior through changes in neural circuitry.
 
 ## Open Questions
 
-- What are the specific mechanisms through which hormones influence neural circuitry maturation?
+- What are the specific molecular mechanisms through which hormones impact neural circuitry maturation?
 
 ## Sources
 

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: university-of-adelaide
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## University Of Adelaide

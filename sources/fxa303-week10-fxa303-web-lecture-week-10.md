@@ -11,7 +11,7 @@ tags: ["mental-wellbeing-children", "arts-based-interventions", "play-based-prog
 key_concepts: ["cultural-appropriateness", "interdisciplinary-knowledge-synthesis"]
 methods: ["case-study"]
 slug: fxa303-week10-fxa303-web-lecture-week-10
-related: ["arts-based-interventions", "trauma-informed-practices"]
+related: ["creative-interventions-in-dementia-care", "trauma-informed-practices"]
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -41,5 +41,5 @@ This document provides guidance and criteria for Assessment Task 4 in the course
 
 ## See Also
 
-- [arts-based-interventions](../topics/arts-based-interventions.md)
+- [creative-interventions-in-dementia-care](../topics/creative-interventions-in-dementia-care.md)
 - [trauma-informed-practices](../topics/trauma-informed-practices.md)

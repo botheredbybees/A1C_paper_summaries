@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mirror-neurons-in-arts
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Mirror Neurons In Arts

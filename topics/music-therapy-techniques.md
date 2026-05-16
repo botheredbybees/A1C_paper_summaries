@@ -1,29 +1,27 @@
 ---
-confidence: low
-domain: intervention
-slug: music-therapy-techniques
-sources:
-- fxa100-week04-music-therapy-disability-evidence-summary-2024
-tags:
-- music-therapy-techniques
-title: Music Therapy Techniques
 type: topic
-updated: 2026-05-04
+domain: "intervention"
+title: "Music Therapy Techniques"
+confidence: medium
+tags: ["music-therapy-techniques"]
+sources:
+  - fxa100-week04-music-therapy-disability-evidence-summary-2024
+updated: 2026-05-16
 ---
 
 ## Music Therapy Techniques
 
-The evidence summary outlines the efficacy of various music therapy techniques in enhancing the quality of life for individuals with disabilities. It highlights the importance of engaging registered music therapists who are trained to customize therapeutic approaches based on individual needs and goals. Key themes include the use of personalized musical interventions to promote emotional expression, social interaction, and physical rehabilitation. Community participation is emphasized as a critical component in sustaining long-term benefits of music therapy for individuals with disabilities.
+The evidence summary from 2024 highlights the effectiveness of various music therapy techniques in enhancing outcomes for individuals with disabilities. These interventions are facilitated by registered music therapists and focus on improving community participation. The integration of music-based activities within therapeutic settings underscores a shift towards more participatory and holistic approaches, aligning with contemporary trends in rehabilitation and wellness practices.
 
 ## Key Findings
 
-- Music therapy techniques are effective in improving quality of life for people with disabilities
-- Engaging registered music therapists ensures personalized therapeutic approaches
-- Community involvement enhances the sustainability of music therapy benefits
+- Music therapy enhances community participation among individuals with disabilities
+- Registered music therapists use a range of evidence-backed techniques
+- Interventions are tailored to individual needs and goals
 
 ## Open Questions
 
-- What are the optimal community settings and activities to maximize participation?
+- What specific training is necessary for effective implementation of music therapy interventions?
 
 ## Sources
 

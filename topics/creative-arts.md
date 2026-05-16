@@ -40,6 +40,7 @@ sources:
   - fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design
   - fxa303-week09-lesson-fxa303-week09-page-3-case-studies
   - fxa303-week10-lesson-fxa303-week10-page-1-overview
+  - fxa303-week11-lesson-fxa303-week11-overview
   - fxa303-week11-lesson-fxa303-week11-page-2
   - fxa303-week11-lesson-fxa303-week11-page-3
   - fxa303-week11-web-article-hardy-2019
@@ -85,7 +86,7 @@ tags:
 - creative-arts
 title: Music Interventions and Cognitive Health
 type: topic
-updated: 2026-05-11
+updated: 2026-05-16
 ---
 
 ## Music Interventions and Cognitive Health
@@ -140,6 +141,7 @@ The integration of findings from both sources highlights the multifaceted benefi
 - [fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design](../sources/fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design.md)
 - [fxa303-week09-lesson-fxa303-week09-page-3-case-studies](../sources/fxa303-week09-lesson-fxa303-week09-page-3-case-studies.md)
 - [fxa303-week10-lesson-fxa303-week10-page-1-overview](../sources/fxa303-week10-lesson-fxa303-week10-page-1-overview.md)
+- [fxa303-week11-lesson-fxa303-week11-overview](../sources/fxa303-week11-lesson-fxa303-week11-overview.md)
 - [fxa303-week11-lesson-fxa303-week11-page-2](../sources/fxa303-week11-lesson-fxa303-week11-page-2.md)
 - [fxa303-week11-lesson-fxa303-week11-page-3](../sources/fxa303-week11-lesson-fxa303-week11-page-3.md)
 - [fxa303-week11-web-article-hardy-2019](../sources/fxa303-week11-web-article-hardy-2019.md)

@@ -3,12 +3,12 @@ confidence: low
 domain: theory
 slug: early-brain-overgrowth-hypothesis
 sources:
-- fxa303-week04-evidence-against-the-normalization-prediction-of-the-early
+  - fxa303-week04-evidence-against-the-normalization-prediction-of-the-early
 tags:
 - early-brain-overgrowth-hypothesis
 title: Early Brain Overgrowth Hypothesis
 type: topic
-updated: 2026-05-04
+updated: 2026-05-16
 ---
 
 ## Early Brain Overgrowth Hypothesis

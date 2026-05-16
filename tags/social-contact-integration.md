@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-contact-integration
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Social Contact Integration

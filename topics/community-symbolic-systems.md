@@ -3,12 +3,12 @@ confidence: low
 domain: theory
 slug: community-symbolic-systems
 sources:
-- fxa301-make-arts-for-a-better-life-ch16-1-create-an-inventory-of-the-content-elements-(2)
+  - fxa301-make-arts-for-a-better-life-ch16-1-create-an-inventory-of-the-content-elements-(2)
 tags:
 - community-symbolic-systems
 title: Community Symbolic Systems
 type: topic
-updated: 2026-05-04
+updated: 2026-05-16
 ---
 
 ## Community Symbolic Systems

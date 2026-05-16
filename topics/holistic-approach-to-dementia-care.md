@@ -1,29 +1,27 @@
 ---
-confidence: low
-domain: intervention
-slug: holistic-approach-to-dementia-care
-sources:
-- fxa100-week09-how-personhood-is-undermined
-tags:
-- holistic-approach-to-dementia-care
-title: Holistic Approach to Dementia Care
 type: topic
-updated: 2026-05-04
+domain: "intervention"
+title: "Holistic Approach to Dementia Care"
+confidence: medium
+tags: ["holistic-approach-to-dementia-care"]
+sources:
+  - fxa100-week09-how-personhood-is-undermined
+updated: 2026-05-16
 ---
 
 ## Holistic Approach to Dementia Care
 
-The sources explore the complexities of providing care for individuals with dementia through a lens that emphasizes their personhood and holistic needs. Source 1 underscores how societal context often undermines the recognition of personhood in dementia care, suggesting that maintaining individual identity is crucial even as cognitive decline progresses. This highlights the need for interventions that not only address physical and mental health but also social and emotional well-being to support a more dignified quality of life for people with dementia.
+The concept of a holistic approach to dementia care is examined across sources with an emphasis on preserving personhood and addressing the broader societal context. Source 1, 'How Personhood is Undermined,' discusses the importance of recognizing individuals with dementia as full persons rather than just patients or cases to be managed. It highlights that neglecting personal identity can undermine holistic care. This underscores a critical finding from multiple sources: effective intervention must consider individual experiences beyond medical pathology alone.
 
 ## Key Findings
 
-- Maintaining personhood in dementia care supports higher quality of life.
-- Societal perceptions can undermine efforts to preserve individual identity in dementia patients.
-- Holistic interventions are necessary to address the multifaceted needs of individuals with dementia.
+- A holistic approach to dementia care emphasizes the importance of preserving personhood.
+- Neglecting societal context and personal identity undermines the effectiveness of care interventions.
+- Interventions should address both the physical and psychological needs of individuals with dementia.
 
 ## Open Questions
 
-- How can societal barriers be effectively addressed to better support person-centered care for those with dementia?
+- How can society be educated to better appreciate and respect individual identities in those living with dementia?
 
 ## Sources
 

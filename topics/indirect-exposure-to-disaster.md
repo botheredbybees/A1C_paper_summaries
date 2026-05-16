@@ -1,29 +1,26 @@
 ---
-confidence: low
-domain: intervention
-slug: indirect-exposure-to-disaster
-sources:
-- fxa303-week09-the-impact-of-the-great-east-japan-earthquake-on-mandatory
-tags:
-- indirect-exposure-to-disaster
-title: Indirect Exposure to Disaster
 type: topic
-updated: 2026-05-04
+domain: "intervention"
+title: "Indirect Exposure to Disaster"
+confidence: medium
+tags: ["indirect-exposure-to-disaster"]
+sources:
+  - fxa303-week09-the-impact-of-the-great-east-japan-earthquake-on-mandatory
+updated: 2026-05-16
 ---
 
 ## Indirect Exposure to Disaster
 
-The concept of indirect exposure to disaster is explored in the context of its psychological impacts on populations beyond those directly affected. The study by Fxa303-week09-the-impact-of-the-great-east-japan-earthquake-on-mandatory examines how the Great East Japan earthquake influenced mandatory psychiatric emergency hospitalizations in Tokyo, indicating that even individuals not experiencing the disaster firsthand can suffer significant mental health repercussions. This indirect exposure has led to increased demand for psychiatric care services, highlighting the need for broader support systems and interventions tailored to address these secondary effects of disasters.
+The study on the impact of the Great East Japan earthquake focuses on the increase in mandatory psychiatric emergency hospitalizations in Tokyo due to indirect exposure to the disaster. This highlights a significant public health issue related to the psychological impacts of large-scale disasters, even among populations not directly affected by the event itself. The findings underscore the necessity for robust mental health support systems and interventions aimed at addressing the needs of individuals experiencing secondary or tertiary effects from such catastrophes. However, there is limited exploration in the provided sources regarding long-term mental health outcomes following indirect exposure to disaster scenarios.
 
 ## Key Findings
 
-- Indirect exposure to a major disaster increases mandatory psychiatric emergency hospitalizations in nearby urban areas.
-- The psychological impact of indirect disaster exposure extends beyond the immediate vicinity.
-- There is an increased demand on mental health services following large-scale disasters affecting neighboring regions.
+- Mandatory psychiatric hospitalizations increased due to indirect exposure to a large-scale disaster.
+- There is a need for mental health interventions targeting populations indirectly affected by disasters.
 
 ## Open Questions
 
-- How can healthcare systems prepare for and respond to the surge in psychiatric emergencies due to indirect disaster exposure?
+- What are the long-term psychological impacts of indirect exposure to disasters?
 
 ## Sources
 

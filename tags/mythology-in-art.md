@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mythology-in-art
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Mythology In Art

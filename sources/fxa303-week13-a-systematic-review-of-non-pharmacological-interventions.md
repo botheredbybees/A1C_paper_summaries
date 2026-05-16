@@ -11,7 +11,7 @@ tags: ["non-pharmacological-interventions", "bpsi-in-nursing-homes", "dementia-c
 key_concepts: ["Behavioral and Psychological Symptoms of Dementia (BPSD)", "Ergonomic Interventions", "Capability Considerations"]
 methods: ["systematic review"]
 slug: fxa303-week13-a-systematic-review-of-non-pharmacological-interventions
-related: ["non-pharmacological-interventions"]
+related: ["cognitive-stimulation-therapy"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -41,4 +41,4 @@ This systematic review evaluates non-pharmacological interventions for Behaviora
 
 ## See Also
 
-- [non-pharmacological-interventions](../topics/non-pharmacological-interventions.md)
+- [cognitive-stimulation-therapy](../topics/cognitive-stimulation-therapy.md)

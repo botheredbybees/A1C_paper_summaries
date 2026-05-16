@@ -15,13 +15,15 @@ appearances:
     week: "02"
   - unit: FXA100
     week: "02"
+  - unit: FXA100
+    week: "02"
 tags: ["music-therapy", "brain-damage", "cognitive-rehabilitation", "neuroplasticity", "therapeutic-benefits", "fxa100"]
 key_concepts: ["music therapy", "neuroplasticity", "therapeutic benefits of music"]
 methods: ["case study", "systematic review"]
 slug: fxa100-week02-music-and-the-damaged-brain
 related: ["cognitive-rehabilitation", "music-therapy", "neuroplasticity", "therapeutic-benefits"]
 created: 2026-05-03
-updated: 2026-05-05
+updated: 2026-05-16
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-week02-music-and-the-damaged-brain.md_

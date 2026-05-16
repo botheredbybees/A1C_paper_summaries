@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: role-strain
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Role Strain

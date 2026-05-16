@@ -7,13 +7,15 @@ doi: null
 appearances:
   - unit: FXA303
     week: "03"
+  - unit: FXA303
+    week: "02"
 tags: ["brain-structure", "limbic-system-functions", "neuroanatomy-overview", "fxa303"]
 key_concepts: ["hippocampus-memory-function", "amygdala-emotional-processing", "cingulate-gyrus-cognitive-motivation"]
 methods: ["literature-review"]
 slug: fxa303-week03-neuroanatomy-limbic-system
 related: ["brain-structure"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-16
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week03-neuroanatomy-limbic-system.md_

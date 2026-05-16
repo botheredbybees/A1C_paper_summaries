@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cultural-impact
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Cultural Impact

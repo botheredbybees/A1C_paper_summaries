@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: health-promotion
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Health Promotion

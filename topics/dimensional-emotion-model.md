@@ -3,12 +3,12 @@ confidence: low
 domain: theory
 slug: dimensional-emotion-model
 sources:
-- fxa301-week02-measuring-music-induced-emotion-a-comparison-of-emotion
+  - fxa301-week02-measuring-music-induced-emotion-a-comparison-of-emotion
 tags:
 - dimensional-emotion-model
 title: Dimensional Emotion Model
 type: topic
-updated: 2026-05-04
+updated: 2026-05-16
 ---
 
 ## Dimensional Emotion Model

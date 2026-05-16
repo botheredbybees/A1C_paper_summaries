@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: spiritual-wellbeing
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Spiritual Wellbeing

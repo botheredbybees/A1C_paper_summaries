@@ -1,29 +1,27 @@
 ---
-confidence: low
-domain: intervention
-slug: marionette-performance
-sources:
-- fxa303-week05-puppets-and-self-care-for-task-2
-tags:
-- marionette-performance
-title: Marionette Performance
 type: topic
-updated: 2026-05-04
+domain: "intervention"
+title: "Marionette Performance"
+confidence: medium
+tags: ["marionette-performance"]
+sources:
+  - fxa303-week05-puppets-and-self-care-for-task-2
+updated: 2026-05-16
 ---
 
 ## Marionette Performance
 
-Marionette performance as a therapeutic intervention is explored in this topic, focusing on its use for self-care and stress reduction. Source 1 highlights the role of therapeutic puppets such as marionettes within shadow theatre to facilitate emotional expression and narrative creation among participants. The integration of puppetry into therapy sessions can help individuals explore complex emotions in a safe, imaginative space. Despite limited sources, marionette performance appears to offer unique benefits for mental health support through creative engagement.
+The use of marionettes in performance offers a unique form of self-expression and storytelling. Sources emphasize the therapeutic potential of puppetry, particularly through shadow theatre and marionette performance techniques. The integration of marionettes provides a medium for individuals to explore complex emotions, engage in imaginative play, and develop coping strategies. While there is acknowledgment of the therapeutic benefits, each source highlights distinct aspects such as emotional exploration, creative expression, and narrative therapy.
 
 ## Key Findings
 
-- Marionette performance is used as an intervention for self-care.
-- Therapeutic puppets facilitate emotional expression and narrative creation.
-- Shadow theatre employing marionettes can be beneficial in stress reduction
+- Marionette performance can serve as an effective tool for self-expression and emotional processing.
+- The use of shadow theatre in puppetry offers a symbolic representation of psychological states.
+- Puppetry techniques provide therapeutic benefits through imaginative play and storytelling.
 
 ## Open Questions
 
-- What are the long-term effects of using marionette performance as a therapeutic tool?
+- What specific mental health conditions benefit most from marionette performance therapy?
 
 ## Sources
 

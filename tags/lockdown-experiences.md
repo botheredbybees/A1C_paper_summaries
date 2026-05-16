@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: lockdown-experiences
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Lockdown Experiences

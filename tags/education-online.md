@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: education-online
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Education Online

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-determinants
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Social Determinants

@@ -21,7 +21,7 @@ tags:
 - creative-health
 title: Creative Health
 type: topic
-updated: 2026-05-11
+updated: 2026-05-16
 ---
 
 ## Creative Health

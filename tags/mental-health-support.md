@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-health-support
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Mental Health Support
@@ -15,4 +15,5 @@ updated: 2026-05-15
 - [Play Interventions for Neurodivergent Children and Adolescents: Promoting Growth, Empowerment, and Affirming Practices](../sources/fxa303-week04-play-interventions-for-neurodivergent-children-and.md)
 - [Time for Tony the Turtle: Experiences with the use of a hand puppet in a program for young children in domestic violence shelters](../sources/fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand.md)
 - [Arts-based psychosocial training after the Yolanda typhoon in the Philippines](../sources/fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon.md)
+- [This year's Australian bushfires prompt calls to heed lessons learnt after Ash Wednesday trauma](../sources/fxa303-week09-web-article-puddy-2020.md)
 - [Mapping Q | The University of Arizona Museum of Art](../sources/fxa303-week11-mapping-q-the-university-of-arizona-museum-of-art.md)

@@ -13,13 +13,15 @@ appearances:
     week: "09"
   - unit: FXA202
     week: "09"
+  - unit: FXA202
+    week: "06"
 tags: ["photo-essays", "captions", "storytelling-with-images", "fxa202"]
 key_concepts: ["five-ws", "active-voice", "creative-captions"]
 methods: []
 slug: fxa202-week02-lesson-fxa202-week02-creative-writing
-related: ["photo-essays"]
+related: ["photo-essays", "storytelling-with-images"]
 created: 2026-05-03
-updated: 2026-05-05
+updated: 2026-05-16
 ---
 
 _All claims sourced from ../raw/pdf/fxa202-week02-lesson-fxa202-week02-creative-writing.md_
@@ -48,3 +50,4 @@ This lesson on photo essays explains the role of captions in enhancing visual st
 ## See Also
 
 - [photo-essays](../topics/photo-essays.md)
+- [storytelling-with-images](../topics/storytelling-with-images.md)

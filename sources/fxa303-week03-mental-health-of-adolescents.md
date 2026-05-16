@@ -11,13 +11,15 @@ appearances:
     week: "02"
   - unit: FXA303
     week: "02"
+  - unit: FXA303
+    week: "02"
 tags: ["adolescent-mental-health", "global-disease-burden", "suicide-prevention", "behavioral-disorders", "public-health-initiatives", "risk-factors", "fxa303"]
 key_concepts: ["depression", "anxiety", "identity-exploration", "protective-environments", "intervention-strategies"]
 methods: ["fact-sheet"]
 slug: fxa303-week03-mental-health-of-adolescents
 related: ["public-health-initiatives", "risk-factors", "suicide-prevention"]
 created: 2026-05-03
-updated: 2026-05-05
+updated: 2026-05-16
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week03-mental-health-of-adolescents.md_

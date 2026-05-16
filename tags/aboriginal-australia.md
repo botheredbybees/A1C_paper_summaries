@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: aboriginal-australia
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Aboriginal Australia

@@ -33,6 +33,7 @@ sources:
   - fxa100-how-we-thnk-about-dementia-ch12-chapter-4
   - fxa100-how-we-thnk-about-dementia-ch15-chapter-9
   - fxa100-how-we-thnk-about-dementia-ch16-chapter-14
+  - fxa100-the-creative-arts-in-dementia-care
   - fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia
   - fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes
   - fxa100-week01-lesson-fxa100-week01-page-1-welcome-to-week-1
@@ -120,6 +121,7 @@ sources:
   - fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people
   - fxa100-week07-two-art-museum-programs-for-people-with-dementia
   - fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery
+  - fxa100-week07-web-article-dalzell-2016
   - fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of
   - fxa100-week08-creativity-and-communication-in-persons-with-dementia
   - fxa100-week08-creativity-and-communication-in-persons-with-dementia-a
@@ -376,7 +378,7 @@ tags:
 - dementia-care
 title: Dementia Care Interventions
 type: topic
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Dementia Care Interventions
@@ -425,6 +427,7 @@ The integration of creative arts and technology in dementia care reveals diverse
 - [fxa100-how-we-thnk-about-dementia-ch12-chapter-4](../sources/fxa100-how-we-thnk-about-dementia-ch12-chapter-4.md)
 - [fxa100-how-we-thnk-about-dementia-ch15-chapter-9](../sources/fxa100-how-we-thnk-about-dementia-ch15-chapter-9.md)
 - [fxa100-how-we-thnk-about-dementia-ch16-chapter-14](../sources/fxa100-how-we-thnk-about-dementia-ch16-chapter-14.md)
+- [fxa100-the-creative-arts-in-dementia-care](../sources/fxa100-the-creative-arts-in-dementia-care.md)
 - [fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia](../sources/fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia.md)
 - [fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes](../sources/fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes.md)
 - [fxa100-week01-lesson-fxa100-week01-page-1-welcome-to-week-1](../sources/fxa100-week01-lesson-fxa100-week01-page-1-welcome-to-week-1.md)
@@ -512,6 +515,7 @@ The integration of creative arts and technology in dementia care reveals diverse
 - [fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people](../sources/fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people.md)
 - [fxa100-week07-two-art-museum-programs-for-people-with-dementia](../sources/fxa100-week07-two-art-museum-programs-for-people-with-dementia.md)
 - [fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery](../sources/fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery.md)
+- [fxa100-week07-web-article-dalzell-2016](../sources/fxa100-week07-web-article-dalzell-2016.md)
 - [fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of](../sources/fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of.md)
 - [fxa100-week08-creativity-and-communication-in-persons-with-dementia](../sources/fxa100-week08-creativity-and-communication-in-persons-with-dementia.md)
 - [fxa100-week08-creativity-and-communication-in-persons-with-dementia-a](../sources/fxa100-week08-creativity-and-communication-in-persons-with-dementia-a.md)

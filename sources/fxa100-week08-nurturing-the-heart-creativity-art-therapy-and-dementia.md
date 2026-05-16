@@ -13,13 +13,15 @@ appearances:
     week: "06"
   - unit: FXA100
     week: "06"
+  - unit: FXA100
+    week: "06"
 tags: ["dementia-care", "art-therapy", "creative-expression", "mental-well-being", "cognitive-enhancement", "fxa100"]
 key_concepts: ["creativity", "art therapy", "quality of life"]
 methods: ["case study"]
 slug: fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia
 related: ["art-therapy", "cognitive-enhancement", "creative-expression", "dementia-care", "mental-well-being"]
 created: 2026-05-03
-updated: 2026-05-05
+updated: 2026-05-16
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia.md_

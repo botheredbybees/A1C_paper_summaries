@@ -3,12 +3,12 @@ confidence: low
 domain: intervention
 slug: activities-of-daily-living
 sources:
-- fxa100-week03-alzheimers-disease-music-engagement-quality-of-life
+  - fxa100-week03-alzheimers-disease-music-engagement-quality-of-life
 tags:
 - activities-of-daily-living
 title: Activities of Daily Living
 type: topic
-updated: 2026-05-04
+updated: 2026-05-16
 ---
 
 ## Activities of Daily Living

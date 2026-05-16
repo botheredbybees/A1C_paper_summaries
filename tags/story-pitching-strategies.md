@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: story-pitching-strategies
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Story Pitching Strategies

@@ -11,7 +11,7 @@ tags: ["dementia-care", "non-pharmacological-interventions", "behavioral-symptom
 key_concepts: ["behavioral and psychological symptoms of dementia (BPSD)", "person-centered care"]
 methods: ["systematic review"]
 slug: fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and
-related: ["behavioral-symptoms", "dementia-care", "non-pharmacological-interventions"]
+related: ["behavioral-symptoms", "cognitive-stimulation-therapy", "dementia-care"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -41,5 +41,5 @@ This article explores the prevalence and impact of behavioral and psychological 
 ## See Also
 
 - [behavioral-symptoms](../topics/behavioral-symptoms.md)
+- [cognitive-stimulation-therapy](../topics/cognitive-stimulation-therapy.md)
 - [dementia-care](../topics/dementia-care.md)
-- [non-pharmacological-interventions](../topics/non-pharmacological-interventions.md)

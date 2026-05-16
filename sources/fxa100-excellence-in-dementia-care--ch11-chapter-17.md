@@ -11,7 +11,7 @@ tags: ["dementia-care", "person-centered-practice", "life-history", "fxa100"]
 key_concepts: ["reminiscence therapy", "individualized care", "identity reinforcement"]
 methods: []
 slug: fxa100-excellence-in-dementia-care--ch11-chapter-17
-related: ["dementia-care", "life-history", "person-centered-practice"]
+related: ["dementia-care", "life-history", "person-centered-dementia-support"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,4 +43,4 @@ This chapter explores how understanding a patient's life history is crucial for 
 
 - [dementia-care](../topics/dementia-care.md)
 - [life-history](../topics/life-history.md)
-- [person-centered-practice](../topics/person-centered-practice.md)
+- [person-centered-dementia-support](../topics/person-centered-dementia-support.md)

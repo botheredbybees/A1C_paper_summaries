@@ -1,28 +1,26 @@
 ---
-confidence: low
-domain: intervention
-slug: decision-making-capacity
-sources:
-- fxa100-excellence-in-dementia-care--ch04-chapter-14
-tags:
-- decision-making-capacity
-title: Decision-Making Capacity
 type: topic
-updated: 2026-05-04
+domain: "intervention"
+title: "Decision-Making Capacity"
+confidence: medium
+tags: ["decision-making-capacity"]
+sources:
+  - fxa100-excellence-in-dementia-care--ch04-chapter-14
+updated: 2026-05-16
 ---
 
 ## Decision-Making Capacity
 
-The concept of decision-making capacity is crucial in contexts where individuals may experience cognitive decline, such as early-stage dementia. The emphasis on maximizing personhood underscores the importance of preserving an individual's autonomy and sense of self even when their ability to make decisions independently diminishes. Across different sources, there is a consistent acknowledgment that effective interventions should not only focus on medical or cognitive aspects but also uphold ethical standards concerning respect for patient autonomy and dignity. However, tensions arise regarding how far personal agency can be extended in individuals with compromised decision-making abilities without leading to potential harm or exploitation.
+The concept of decision-making capacity in individuals with early-stage dementia is explored through the lens of personhood maximization. This approach emphasizes preserving individual autonomy and dignity while recognizing the challenges posed by cognitive decline. Across the provided sources, there's a common thread regarding the ethical imperative to support patients' ability to make decisions aligned with their values and preferences. However, tensions arise between maintaining patient autonomy and ensuring safety in scenarios where decision-making capacity is compromised. The integration of personhood maximization strategies offers potential benefits but also raises questions about practical implementation and balance.
 
 ## Key Findings
 
-- Decision-making capacity is a critical factor in dementia care
-- Maximizing personhood involves supporting patients' autonomy despite cognitive decline
+- Decision-making capacity interventions aim to preserve patient autonomy while accommodating cognitive limitations.
+- Personhood maximization approaches seek to enhance quality of life for individuals with early-stage dementia.
 
 ## Open Questions
 
-- How to balance respect for autonomy with the need to protect vulnerable individuals
+- How can the principles of personhood maximization be effectively implemented in clinical settings without compromising patient safety?
 
 ## Sources
 

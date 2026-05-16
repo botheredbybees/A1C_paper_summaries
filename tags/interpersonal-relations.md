@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: interpersonal-relations
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Interpersonal Relations

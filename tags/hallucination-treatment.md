@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hallucination-treatment
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Hallucination Treatment

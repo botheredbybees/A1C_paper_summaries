@@ -3,12 +3,12 @@ confidence: low
 domain: intervention
 slug: personalized-music-intervention
 sources:
-- fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers
+  - fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers
 tags:
 - personalized-music-intervention
 title: Personalized Music Intervention
 type: topic
-updated: 2026-05-04
+updated: 2026-05-16
 ---
 
 ## Personalized Music Intervention

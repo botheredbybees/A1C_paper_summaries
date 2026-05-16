@@ -38,6 +38,7 @@ sources:
   - fxa301-week05-lesson-fxa301-week05-page-4-week-3-activities
   - fxa301-week05-naidoc-week-aboriginal-mural-brings-community-together-in
   - fxa301-week05-transcript-aprof-anne-marie-forbes-interview-with-dr
+  - fxa301-week05-web-article-butler-2019
   - fxa301-week06-brisbanes-pub-choir-movement-marks-first-year
   - fxa301-week06-engaging-with-music-and-dance
   - fxa301-week06-evaluation-of-big-noise-douglas
@@ -148,7 +149,7 @@ tags:
 - community-engagement
 title: Community Engagement
 type: topic
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Community Engagement
@@ -202,6 +203,7 @@ Community engagement is a multifaceted intervention aimed at fostering participa
 - [fxa301-week05-lesson-fxa301-week05-page-4-week-3-activities](../sources/fxa301-week05-lesson-fxa301-week05-page-4-week-3-activities.md)
 - [fxa301-week05-naidoc-week-aboriginal-mural-brings-community-together-in](../sources/fxa301-week05-naidoc-week-aboriginal-mural-brings-community-together-in.md)
 - [fxa301-week05-transcript-aprof-anne-marie-forbes-interview-with-dr](../sources/fxa301-week05-transcript-aprof-anne-marie-forbes-interview-with-dr.md)
+- [fxa301-week05-web-article-butler-2019](../sources/fxa301-week05-web-article-butler-2019.md)
 - [fxa301-week06-brisbanes-pub-choir-movement-marks-first-year](../sources/fxa301-week06-brisbanes-pub-choir-movement-marks-first-year.md)
 - [fxa301-week06-engaging-with-music-and-dance](../sources/fxa301-week06-engaging-with-music-and-dance.md)
 - [fxa301-week06-evaluation-of-big-noise-douglas](../sources/fxa301-week06-evaluation-of-big-noise-douglas.md)

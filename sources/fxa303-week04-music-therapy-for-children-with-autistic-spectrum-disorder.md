@@ -7,13 +7,15 @@ doi: https://doi.org/10.3389/fpsyt.2021.643234
 appearances:
   - unit: FXA303
     week: "04"
+  - unit: FXA303
+    week: "04"
 tags: ["music-therapy", "autism-spectrum-disorder", "neurodevelopmental-disorders", "systematic-review", "fxa303"]
 key_concepts: ["educational-music-therapy", "improvisational-music-therapy"]
 methods: ["systematic review"]
 slug: fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder
 related: ["autism-spectrum-disorder", "music-therapy", "neurodevelopmental-disorders", "systematic-review"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-16
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder.md_

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: quality-of-life-assessment
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Quality Of Life Assessment

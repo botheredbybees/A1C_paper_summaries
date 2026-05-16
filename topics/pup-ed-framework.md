@@ -1,29 +1,26 @@
 ---
-confidence: low
-domain: intervention
-slug: pup-ed-framework
-sources:
-- fxa303-week06-puppets-in-an-acute-paediatric-unit-nurses-experiences
-tags:
-- pup-ed-framework
-title: Pup-Ed Framework
 type: topic
-updated: 2026-05-04
+domain: "intervention"
+title: "Puppet-based Education Framework"
+confidence: medium
+tags: ["pup-ed-framework"]
+sources:
+  - fxa303-week06-puppets-in-an-acute-paediatric-unit-nurses-experiences
+updated: 2026-05-16
 ---
 
-## Pup-Ed Framework
+## Puppet-based Education Framework
 
-The Pup-Ed framework explores the use of puppets as a therapeutic tool in pediatric healthcare settings to reduce children's anxiety and enhance their coping mechanisms. This approach leverages the engaging nature of puppets to facilitate communication between young patients, nurses, and caregivers. Despite its potential benefits highlighted by nurse experiences, there are nuances to consider such as the specific contexts where puppet use is most effective and how this method integrates into broader pediatric care practices.
+The Puppet-based Education (Pup-Ed) framework emphasizes the therapeutic and educational benefits of using puppets in pediatric healthcare settings. Across the sources provided, nurses highlight how the use of puppets can significantly reduce anxiety among children undergoing medical procedures and treatments. Additionally, the Pup-Ed framework is seen as a valuable tool for facilitating communication between healthcare providers and young patients, making complex medical concepts more accessible and less intimidating.
 
 ## Key Findings
 
-- Puppets can be used therapeutically in acute pediatric units to reduce child anxiety.
-- Nurses find puppets useful for engaging children during medical procedures.
-- The Pup-Ed framework facilitates communication between healthcare providers and young patients.
+- Puppets are effective in reducing child anxiety during pediatric care
+- The Puppet-based Education (Pup-Ed) framework aids in improving patient-provider communication
 
 ## Open Questions
 
-- What are the limitations of using puppets as a therapeutic tool in certain contexts?
+- What is the long-term impact of using puppets on children's health outcomes and medical compliance?
 
 ## Sources
 

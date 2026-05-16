@@ -4,6 +4,7 @@ domain: method
 slug: photo-essays
 sources:
   - fxa202-week01-lesson-fxa202-week01-chapter-3-what-is-a-photo-essay
+  - fxa202-week02-lesson-fxa202-week02-chapter-3-using-quotes-as-captions
   - fxa202-week02-welcome-to-week-2-using-your-camera
   - fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling
   - fxa202-week06-critical-reflection-of-the-development-of-the-finding-joy
@@ -37,7 +38,7 @@ tags:
 - photo-essay
 title: Photo Essays
 type: topic
-updated: 2026-05-11
+updated: 2026-05-16
 ---
 
 ## Photo Essays
@@ -57,6 +58,7 @@ The photo essay is a method of visual storytelling that integrates images and te
 ## Sources
 
 - [fxa202-week01-lesson-fxa202-week01-chapter-3-what-is-a-photo-essay](../sources/fxa202-week01-lesson-fxa202-week01-chapter-3-what-is-a-photo-essay.md)
+- [fxa202-week02-lesson-fxa202-week02-chapter-3-using-quotes-as-captions](../sources/fxa202-week02-lesson-fxa202-week02-chapter-3-using-quotes-as-captions.md)
 - [fxa202-week02-welcome-to-week-2-using-your-camera](../sources/fxa202-week02-welcome-to-week-2-using-your-camera.md)
 - [fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling](../sources/fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling.md)
 - [fxa202-week06-critical-reflection-of-the-development-of-the-finding-joy](../sources/fxa202-week06-critical-reflection-of-the-development-of-the-finding-joy.md)

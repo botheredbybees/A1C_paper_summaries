@@ -1,29 +1,27 @@
 ---
-confidence: low
-domain: intervention
-slug: catchment-restoration
-sources:
-- fxa303-week09-capertee-valley-hydrology-project-ksca
-tags:
-- catchment-restoration
-title: Catchment Restoration
 type: topic
-updated: 2026-05-04
+domain: "intervention"
+title: "Catchment Restoration"
+confidence: medium
+tags: ["catchment-restoration"]
+sources:
+  - fxa303-week09-capertee-valley-hydrology-project-ksca
+updated: 2026-05-16
 ---
 
 ## Catchment Restoration
 
-The Capertee Valley Hydrology Project emphasizes the critical role of landscape rehydration and community participation in achieving successful catchment restoration. The project's approach underscores the importance of sustainable land use practices that support long-term ecological health and water resource management. Across sources, there is agreement on the necessity of involving local communities and stakeholders to ensure the effectiveness and sustainability of restoration efforts. However, a tension arises regarding the extent to which traditional versus innovative methods should be employed in these interventions.
+The Capertee Valley Hydrology Project exemplifies a comprehensive approach to catchment restoration that integrates landscape rehydration, sustainable land use practices, and community participation. This project underscores the importance of multifaceted interventions in addressing degraded water systems within agricultural landscapes. Across various sources, there is a consensus on the necessity for collaborative efforts between local communities and environmental scientists to achieve effective catchment management. However, tensions arise regarding the scalability and adaptability of such localized projects to broader regional or national contexts. The integration of technological solutions alongside traditional ecological knowledge presents both opportunities and challenges in enhancing water resource sustainability.
 
 ## Key Findings
 
-- Landscape rehydration is essential for catchment restoration.
-- Community participation enhances the success and sustainability of restoration projects.
-- Sustainable land use practices are fundamental to maintaining ecological health within restored catchments.
+- Catchment restoration requires a combination of landscape rehydration and sustainable land use practices
+- Community participation is crucial for the success of catchment restoration projects
+- Collaboration between local communities and environmental scientists enhances project effectiveness
 
 ## Open Questions
 
-- What is the optimal balance between traditional knowledge and modern techniques in catchment restoration efforts?
+- How can localized catchment restoration strategies be scaled up to address larger regional water management challenges?
 
 ## Sources
 

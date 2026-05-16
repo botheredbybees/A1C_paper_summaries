@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: diversity-data
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Diversity Data

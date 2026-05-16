@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: research-tool
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Research Tool

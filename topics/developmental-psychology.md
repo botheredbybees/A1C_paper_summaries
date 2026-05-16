@@ -3,6 +3,7 @@ confidence: medium
 domain: intervention
 slug: developmental-trauma-and-healing-through-creative-arts
 sources:
+  - fxa303-week02-web-article-orenstein-2022
   - fxa303-week04-developmental-psychology-from-infancy-to-adulthood-chapter
   - fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies
   - fxa303-week09-using-creative-techniques-with-children-who-have
@@ -13,7 +14,7 @@ tags:
 - developmental-psychology
 title: Developmental Trauma and Healing Through Creative Arts
 type: topic
-updated: 2026-05-11
+updated: 2026-05-16
 ---
 
 ## Developmental Trauma and Healing Through Creative Arts
@@ -32,6 +33,7 @@ The integration of developmental psychology with therapeutic practices highlight
 
 ## Sources
 
+- [fxa303-week02-web-article-orenstein-2022](../sources/fxa303-week02-web-article-orenstein-2022.md)
 - [fxa303-week04-developmental-psychology-from-infancy-to-adulthood-chapter](../sources/fxa303-week04-developmental-psychology-from-infancy-to-adulthood-chapter.md)
 - [fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies](../sources/fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies.md)
 - [fxa303-week09-using-creative-techniques-with-children-who-have](../sources/fxa303-week09-using-creative-techniques-with-children-who-have.md)

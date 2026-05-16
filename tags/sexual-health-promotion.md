@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sexual-health-promotion
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Sexual Health Promotion

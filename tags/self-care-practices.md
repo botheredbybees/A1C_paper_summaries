@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: self-care-practices
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Self Care Practices

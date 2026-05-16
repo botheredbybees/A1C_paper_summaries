@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-outcomes
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Therapeutic Outcomes

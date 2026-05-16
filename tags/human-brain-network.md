@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: human-brain-network
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Human Brain Network

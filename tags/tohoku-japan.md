@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: tohoku-japan
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Tohoku Japan

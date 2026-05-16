@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: community-arts-practice
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Community Arts Practice

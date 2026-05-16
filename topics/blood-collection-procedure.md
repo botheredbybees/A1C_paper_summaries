@@ -1,29 +1,27 @@
 ---
-confidence: low
-domain: intervention
-slug: blood-collection-procedure
-sources:
-- fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for
-tags:
-- blood-collection-procedure
-title: Blood Collection Procedure
 type: topic
-updated: 2026-05-04
+domain: "intervention"
+title: "Blood Collection Procedure"
+confidence: medium
+tags: ["blood-collection-procedure"]
+sources:
+  - fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for
+updated: 2026-05-16
 ---
 
 ## Blood Collection Procedure
 
-The provided sources focus on the use of a hand puppet-based therapeutic play as an intervention to reduce fear and pain associated with blood collection procedures in preschool children. This non-pharmacological approach aims at minimizing distress often experienced by young patients during medical procedures, thereby enhancing their overall experience and cooperation. The key finding is that such interventions can have significant positive effects on reducing psychological distress, as measured through scales like the Multidimensional Pain Inventory (MPI). However, there are gaps in understanding how these benefits may vary across different demographic groups or settings, suggesting a need for further research.
+The study examines the efficacy of a hand puppet-based therapeutic play intervention to reduce fear and pain associated with blood collection procedures in preschool-aged children. The research highlights that such an intervention can be particularly beneficial for young patients who are anxious about medical procedures, providing a distraction and emotional support during the process. Across various sources, there is a consistent recognition of the need for interventions aimed at making blood collection less traumatic for pediatric populations. However, there is also a tension between the effectiveness of such playful interventions in short-term pain reduction versus their impact on long-term coping strategies and medical anxiety.
 
 ## Key Findings
 
-- Interventions such as hand puppet-based therapeutic play can reduce fear and pain associated with blood collection procedures in young children.
-- Non-pharmacological interventions like the use of puppets are effective alternatives to traditional methods.
-- Psychological distress is a significant concern for young patients undergoing medical procedures.
+- Hand puppet-based therapeutic play significantly reduces fear and pain associated with blood collection procedures in young children.
+- There is a need for innovative methods to alleviate distress during pediatric healthcare procedures.
+- Interventions like hand puppet therapy are effective distractions but their long-term impact on medical anxiety remains unclear.
 
 ## Open Questions
 
-- How do cultural differences impact the effectiveness of therapeutic play interventions during blood collection procedures?
+- How do short-term interventions such as hand puppet-based play affect long-term attitudes towards and fears of medical procedures in children?
 
 ## Sources
 

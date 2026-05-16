@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dementia-care
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Dementia Care
@@ -36,6 +36,7 @@ updated: 2026-05-15
 - [How We Think about Dementia: Personhood, Rights, Ethics, the Arts and What They Mean for Care](../sources/fxa100-how-we-thnk-about-dementia-ch12-chapter-4.md)
 - [The Body as the Articulation of Meaning in Dementia Care](../sources/fxa100-how-we-thnk-about-dementia-ch15-chapter-9.md)
 - [In Praise of \u2018Negative Capability\u2019](../sources/fxa100-how-we-thnk-about-dementia-ch16-chapter-14.md)
+- [Creative Arts in Dementia Care](../sources/fxa100-the-creative-arts-in-dementia-care.md)
 - [First Hospitalised Falls Among People Living With Dementia: Risk Factors and Outcomes](../sources/fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia.md)
 - [FXA100: The Arts and Dementia Care - Week 1 Lecture Notes](../sources/fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes.md)
 - [Week 1: Introduction to FXA100 The Arts and Dementia Care](../sources/fxa100-week01-lesson-fxa100-week01-page-1-welcome-to-week-1.md)
@@ -123,6 +124,7 @@ updated: 2026-05-15
 - [The MoMA Alzheimer\u2019s Project: Making Art Accessible to People with Dementia](../sources/fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people.md)
 - [Two Art Museum Programs for People with Dementia](../sources/fxa100-week07-two-art-museum-programs-for-people-with-dementia.md)
 - [Viewing and making art together: a multi-session art-gallery-based intervention for people with dementia and their carers](../sources/fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery.md)
+- [Art Alleviates Anxiety for People with Dementia, New Research Finds](../sources/fxa100-week07-web-article-dalzell-2016.md)
 - [Arts in Dementia Care: This is not the end... if it's the end of this chapter](../sources/fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of.md)
 - [Creativity and Communication in Persons with Dementia](../sources/fxa100-week08-creativity-and-communication-in-persons-with-dementia.md)
 - [Creativity and Communication in Persons with Dementia : A Practical Guide](../sources/fxa100-week08-creativity-and-communication-in-persons-with-dementia-a.md)

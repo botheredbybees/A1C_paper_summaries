@@ -6,8 +6,9 @@ confidence: medium
 tags: ["intellectual-disabilities"]
 sources:
   - fxa301-week11-lesson-fxa301-week11-page-4-week-3-activities
+  - fxa301-week11-web-article-cameron-2017
   - fxa303-week08-the-effect-of-medicaltherapeutic-clowns-on-the-playfulness
-updated: 2026-05-11
+updated: 2026-05-16
 ---
 
 ## Intellectual Disabilities
@@ -26,4 +27,5 @@ The study of individuals with intellectual disabilities encompasses various aspe
 ## Sources
 
 - [fxa301-week11-lesson-fxa301-week11-page-4-week-3-activities](../sources/fxa301-week11-lesson-fxa301-week11-page-4-week-3-activities.md)
+- [fxa301-week11-web-article-cameron-2017](../sources/fxa301-week11-web-article-cameron-2017.md)
 - [fxa303-week08-the-effect-of-medicaltherapeutic-clowns-on-the-playfulness](../sources/fxa303-week08-the-effect-of-medicaltherapeutic-clowns-on-the-playfulness.md)

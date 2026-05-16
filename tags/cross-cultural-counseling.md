@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cross-cultural-counseling
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Cross Cultural Counseling

@@ -11,7 +11,7 @@ tags: ["dementia-care", "therapeutic-art", "inclusive-education", "fxa100"]
 key_concepts: ["contemporary-art", "engagement-through-art", "cultural-inclusivity"]
 methods: ["program-design"]
 slug: fxa100-week07-for-visitors-with-dementia
-related: ["dementia-care", "inclusive-education", "therapeutic-art"]
+related: ["creative-interventions-in-dementia-care", "dementia-care", "inclusive-education"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -47,6 +47,6 @@ Overall, the document underscores the significant role that contemporary art can
 
 ## See Also
 
+- [creative-interventions-in-dementia-care](../topics/creative-interventions-in-dementia-care.md)
 - [dementia-care](../topics/dementia-care.md)
 - [inclusive-education](../topics/inclusive-education.md)
-- [therapeutic-art](../topics/therapeutic-art.md)

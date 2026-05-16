@@ -11,7 +11,7 @@ tags: ["alzheimer-disease", "neuropsychiatric-disorders", "non-pharmacological-i
 key_concepts: ["neuropsychiatric disorders", "memantine therapy", "pharmacological treatment"]
 methods: ["case study"]
 slug: fxa303-week13-
-related: ["alzheimer-disease", "non-pharmacological-interventions"]
+related: ["alzheimer-disease", "cognitive-stimulation-therapy"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -43,4 +43,4 @@ The article discusses the prevalence and impact of neuropsychiatric disorders (N
 ## See Also
 
 - [alzheimer-disease](../topics/alzheimer-disease.md)
-- [non-pharmacological-interventions](../topics/non-pharmacological-interventions.md)
+- [cognitive-stimulation-therapy](../topics/cognitive-stimulation-therapy.md)

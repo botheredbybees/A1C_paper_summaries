@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuroscience-and-art
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Neuroscience And Art

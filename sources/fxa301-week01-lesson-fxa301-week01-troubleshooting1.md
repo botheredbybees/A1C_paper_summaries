@@ -13,13 +13,15 @@ appearances:
     week: "01"
   - unit: FXA301
     week: "01"
+  - unit: FXA301
+    week: "01"
 tags: ["creative-arts", "community-health", "wellbeing", "education-outcomes", "fxa301"]
 key_concepts: ["arts-on-prescription", "social-cohesion", "health-and-wellbeing-outcomes"]
 methods: []
 slug: fxa301-week01-lesson-fxa301-week01-troubleshooting1
 related: ["community-health", "creative-arts", "wellbeing"]
 created: 2026-05-03
-updated: 2026-05-05
+updated: 2026-05-16
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-week01-lesson-fxa301-week01-troubleshooting1.md_

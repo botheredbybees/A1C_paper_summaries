@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: poetry-in-research
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Poetry In Research

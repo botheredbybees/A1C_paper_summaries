@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: narrative-voice
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Narrative Voice

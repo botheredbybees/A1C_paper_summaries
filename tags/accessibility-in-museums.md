@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: accessibility-in-museums
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Accessibility In Museums

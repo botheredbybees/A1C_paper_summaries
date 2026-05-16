@@ -12,7 +12,7 @@ tags: ["arts-integration", "healthcare-environment", "patient-experience", "fxa3
 key_concepts: ["holistic healthcare", "therapeutic potential of arts"]
 methods: []
 slug: fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative
-related: ["healthcare-environment", "patient-experience"]
+related: ["arts-integration", "healthcare-environment", "patient-experience"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -41,5 +41,6 @@ This chapter explores the integration of arts into healthcare environments to im
 
 ## See Also
 
+- [arts-integration](../topics/arts-integration.md)
 - [healthcare-environment](../topics/healthcare-environment.md)
 - [patient-experience](../topics/patient-experience.md)

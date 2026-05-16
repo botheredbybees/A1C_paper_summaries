@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ancient-greek-philosophy
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Ancient Greek Philosophy

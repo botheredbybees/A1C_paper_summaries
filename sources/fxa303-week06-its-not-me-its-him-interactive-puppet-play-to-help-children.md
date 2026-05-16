@@ -11,7 +11,7 @@ tags: ["therapeutic-puppetry", "child-therapy", "psychodynamic-theory", "object-
 key_concepts: ["object relations theory", "projection in therapy", "supportive environment", "coping strategies"]
 methods: ["case study"]
 slug: fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children
-related: ["child-therapy", "emotional-coping", "therapeutic-puppetry"]
+related: ["child-therapy", "emotional-coping", "puppet-therapy"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -47,4 +47,4 @@ Susan Linn explores the therapeutic benefits of puppetry in play therapy for chi
 
 - [child-therapy](../topics/child-therapy.md)
 - [emotional-coping](../topics/emotional-coping.md)
-- [therapeutic-puppetry](../topics/therapeutic-puppetry.md)
+- [puppet-therapy](../topics/puppet-therapy.md)

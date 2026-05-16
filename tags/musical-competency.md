@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: musical-competency
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Musical Competency

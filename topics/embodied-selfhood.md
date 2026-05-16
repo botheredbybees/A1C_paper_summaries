@@ -11,7 +11,7 @@ tags:
 - embodied-selfhood
 title: Embodied Selfhood
 type: topic
-updated: 2026-05-11
+updated: 2026-05-16
 ---
 
 ## Embodied Selfhood

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: video-games
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Video Games

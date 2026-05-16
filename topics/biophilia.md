@@ -1,31 +1,28 @@
 ---
-confidence: medium
-domain: theory
-slug: biophilia
-sources:
-- fxa202-week08-reading-notes-from-biophilia-by-edward-o-wilson
-- fxa202-week08-week-8-lecture-notes-editing-your-images
-tags:
-- biophilia
-title: Biophilia
 type: topic
-updated: 2026-05-04
+domain: "theory"
+title: "Biophilia"
+confidence: medium
+tags: ["biophilia"]
+sources:
+  - fxa202-week08-reading-notes-from-biophilia-by-edward-o-wilson
+updated: 2026-05-16
 ---
 
 ## Biophilia
 
-Edward O. Wilson's concept of biophilia explores the innate human tendency to seek connections with nature and other forms of life. This theory posits that humans have an inherent affection for living systems and creatures, stemming from evolutionary ties. It connects deeply with ideas about biodiversity and ecological systems, emphasizing the importance of a symbiotic relationship between humans and their natural environment. In therapeutic contexts, such as photo therapy or therapeutic photography, biophilia is used to enhance mental health by fostering an appreciation and interaction with nature through visual artistry. This integration suggests that visual representations of natural scenes can serve as powerful tools for emotional healing and cognitive engagement.
+The theory of biophilia posits an innate human tendency to focus on life and nature. Edward O. Wilson's exploration delves into how this inherent connection with the natural world is deeply embedded in our evolutionary history, influencing biodiversity conservation efforts and the psychological well-being derived from contact with nature. The concept bridges the gap between environmental psychology and evolutionary biology by suggesting that humans have a genetic predisposition to seek out natural environments for survival and flourishing. This theory highlights the importance of preserving ecological systems not just for their intrinsic value but also for human health and happiness.
 
 ## Key Findings
 
-- Biophilia underpins the human need to connect with nature and living systems, reflecting evolutionary adaptations.
-- The application of biophilic concepts in photography therapy highlights its relevance across various mental health interventions.
+- Humans possess an innate tendency towards biophilia, rooted in our evolution.
+- The theory links psychological well-being with exposure to nature.
+- Biodiversity conservation is vital due to its impact on human welfare
 
 ## Open Questions
 
-- What are the mechanisms by which exposure to natural imagery through therapeutic photography influences psychological well-being?
+- How does the intensity of biophilic tendencies vary across different cultures and environments?
 
 ## Sources
 
 - [fxa202-week08-reading-notes-from-biophilia-by-edward-o-wilson](../sources/fxa202-week08-reading-notes-from-biophilia-by-edward-o-wilson.md)
-- [fxa202-week08-week-8-lecture-notes-editing-your-images](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images.md)

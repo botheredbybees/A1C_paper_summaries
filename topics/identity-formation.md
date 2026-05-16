@@ -4,6 +4,7 @@ domain: intervention
 slug: identity-formation-through-music-and-trauma
 sources:
   - fxa301-week01-music-and-meaning-in-community-contexts
+  - fxa303-week02-web-article-orenstein-2022
   - fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than
   - fxa303-week09-treating-the-trauma-survivor-an-essential-guide-to-trauma
 - fxa301-week01-music-and-meaning-in-community-contexts
@@ -13,7 +14,7 @@ tags:
 - identity-formation
 title: Identity Formation Through Music and Trauma
 type: topic
-updated: 2026-05-11
+updated: 2026-05-16
 ---
 
 ## Identity Formation Through Music and Trauma
@@ -32,5 +33,6 @@ Music's profound impact on adolescent identity formation is highlighted in the f
 ## Sources
 
 - [fxa301-week01-music-and-meaning-in-community-contexts](../sources/fxa301-week01-music-and-meaning-in-community-contexts.md)
+- [fxa303-week02-web-article-orenstein-2022](../sources/fxa303-week02-web-article-orenstein-2022.md)
 - [fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than](../sources/fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than.md)
 - [fxa303-week09-treating-the-trauma-survivor-an-essential-guide-to-trauma](../sources/fxa303-week09-treating-the-trauma-survivor-an-essential-guide-to-trauma.md)

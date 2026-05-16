@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mourning-process
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Mourning Process

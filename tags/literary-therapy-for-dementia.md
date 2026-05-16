@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: literary-therapy-for-dementia
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Literary Therapy For Dementia

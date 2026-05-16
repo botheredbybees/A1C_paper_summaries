@@ -3,12 +3,12 @@ confidence: low
 domain: theory
 slug: musical-reminiscence-bump
 sources:
-- fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and
+  - fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and
 tags:
 - musical-reminiscence-bump
 title: Musical Reminiscence Bump
 type: topic
-updated: 2026-05-04
+updated: 2026-05-16
 ---
 
 ## Musical Reminiscence Bump

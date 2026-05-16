@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: disaster-resilience
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Disaster Resilience

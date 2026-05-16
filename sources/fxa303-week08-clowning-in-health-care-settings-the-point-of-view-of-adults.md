@@ -11,7 +11,7 @@ tags: ["medical-clowning", "healthcare-environment", "patient-experience", "adul
 key_concepts: ["psychological-symptoms", "positive-emotions", "professional-recognition"]
 methods: ["literature-review"]
 slug: fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults
-related: ["healthcare-environment", "patient-experience", "stress-reduction"]
+related: ["healthcare-environment", "patient-experience", "stress-reduction", "therapeutic-clowning"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -47,3 +47,4 @@ This paper explores the concept and effects of medical clowning on adults within
 - [healthcare-environment](../topics/healthcare-environment.md)
 - [patient-experience](../topics/patient-experience.md)
 - [stress-reduction](../topics/stress-reduction.md)
+- [therapeutic-clowning](../topics/therapeutic-clowning.md)

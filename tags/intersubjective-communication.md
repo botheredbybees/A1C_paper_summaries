@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: intersubjective-communication
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Intersubjective Communication

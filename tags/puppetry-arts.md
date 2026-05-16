@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: puppetry-arts
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Puppetry Arts

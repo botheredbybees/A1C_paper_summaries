@@ -11,7 +11,7 @@ tags: ["youth-theatre-ireland", "community-engagement", "theatre-for-wellbeing",
 key_concepts: ["real-interaction", "active-engagement", "underpayment-challenges"]
 methods: ["case-study"]
 slug: fxa303-week03-centre-stage-20-a-report-on-youth-theatre-in-ireland
-related: ["community-engagement"]
+related: ["community-engagement", "youth-theatre-ireland"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,3 +42,4 @@ The document 'Centre Stage +20' is a comprehensive research report by Rhona Dunn
 ## See Also
 
 - [community-engagement](../topics/community-engagement.md)
+- [youth-theatre-ireland](../topics/youth-theatre-ireland.md)

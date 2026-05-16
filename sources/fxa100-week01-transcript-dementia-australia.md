@@ -11,7 +11,7 @@ tags: ["vascular-cognitive-impairment", "dementia-types", "small-vessel-disease"
 key_concepts: ["Vascular Cognitive Impairment", "Mixed Dementia", "Small Vessel Disease"]
 methods: []
 slug: fxa100-week01-transcript-dementia-australia
-related: ["brain-health", "dementia-types"]
+related: ["brain-health", "dementia-types", "small-vessel-disease"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,3 +44,4 @@ The transcript discusses vascular cognitive impairment (VCI), which occurs due t
 
 - [brain-health](../topics/brain-health.md)
 - [dementia-types](../topics/dementia-types.md)
+- [small-vessel-disease](../topics/small-vessel-disease.md)

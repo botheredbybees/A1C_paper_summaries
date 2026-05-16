@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: non-pharmacological-intervention
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Non Pharmacological Intervention

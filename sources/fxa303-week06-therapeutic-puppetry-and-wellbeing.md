@@ -11,13 +11,15 @@ appearances:
     week: "06"
   - unit: FXA303
     week: "06"
+  - unit: FXA303
+    week: "06"
 tags: ["therapeutic-puppetry", "mental-health-interventions", "clinical-therapy", "emotional-expression", "self-reflection", "fxa303"]
 key_concepts: ["puppets as diagnostic tools", "non-verbal expression", "psychological catharsis"]
 methods: ["systematic review"]
 slug: fxa303-week06-therapeutic-puppetry-and-wellbeing
-related: ["emotional-expression", "mental-health-interventions", "self-reflection", "therapeutic-puppetry"]
+related: ["emotional-expression", "mental-health-interventions", "puppet-therapy", "self-reflection"]
 created: 2026-05-03
-updated: 2026-05-05
+updated: 2026-05-16
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week06-therapeutic-puppetry-and-wellbeing.md_
@@ -49,5 +51,5 @@ Therapeutic Puppetry and Wellbeing explores how puppets can be used as tools for
 
 - [emotional-expression](../topics/emotional-expression.md)
 - [mental-health-interventions](../topics/mental-health-interventions.md)
+- [puppet-therapy](../topics/puppet-therapy.md)
 - [self-reflection](../topics/self-reflection.md)
-- [therapeutic-puppetry](../topics/therapeutic-puppetry.md)

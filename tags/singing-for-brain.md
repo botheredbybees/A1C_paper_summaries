@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: singing-for-brain
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Singing For Brain

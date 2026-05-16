@@ -14,13 +14,14 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
+  - unit: FXA301
 tags: ["community-arts", "education-curriculum-integration", "evaluation-methods", "fxa301"]
 key_concepts: ["cultural integration in education", "educational storytelling", "evaluation process"]
 methods: []
 slug: fxa301-make-arts-for-a-better-life-ch38-1-look-together-at-the-local-school-curriculum
 related: ["community-arts", "evaluation-methods"]
 created: 2026-05-03
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-make-arts-for-a-better-life-ch38-1-look-together-at-the-local-school-curriculum.md_

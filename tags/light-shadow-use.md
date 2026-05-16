@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: light-shadow-use
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Light Shadow Use

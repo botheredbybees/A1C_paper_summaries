@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sense-of-agency
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Sense Of Agency

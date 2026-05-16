@@ -15,6 +15,7 @@ sources:
   - fxa301-week06-further-evidence-that-singing-fosters-mental-health-and
   - fxa301-week11-arts-and-refugees-multidisciplinary-perspectives-vol-2
   - fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact
+  - fxa303-week11-lesson-fxa303-week11-overview
   - fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through
 - fxa100-week02-music-and-the-damaged-brain
 - fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind
@@ -31,7 +32,7 @@ tags:
 - therapeutic-benefits
 title: Music Therapy
 type: topic
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Music Therapy
@@ -62,4 +63,5 @@ The documents collectively emphasize the profound therapeutic potential of music
 - [fxa301-week06-further-evidence-that-singing-fosters-mental-health-and](../sources/fxa301-week06-further-evidence-that-singing-fosters-mental-health-and.md)
 - [fxa301-week11-arts-and-refugees-multidisciplinary-perspectives-vol-2](../sources/fxa301-week11-arts-and-refugees-multidisciplinary-perspectives-vol-2.md)
 - [fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact](../sources/fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact.md)
+- [fxa303-week11-lesson-fxa303-week11-overview](../sources/fxa303-week11-lesson-fxa303-week11-overview.md)
 - [fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through](../sources/fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through.md)

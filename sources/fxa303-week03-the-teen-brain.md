@@ -11,13 +11,15 @@ appearances:
     week: "02"
   - unit: FXA303
     week: "02"
+  - unit: FXA303
+    week: "02"
 tags: ["teen-brain-development", "adolescent-psychology", "cognitive-neuroscience", "substance-use-effects", "brain-plasticity", "fxa303"]
 key_concepts: ["neural-connections", "impulsivity", "substance-use-vulnerability", "gender-differences-in-development"]
 methods: ["case-study"]
 slug: fxa303-week03-the-teen-brain
 related: ["brain-plasticity", "cognitive-neuroscience"]
 created: 2026-05-03
-updated: 2026-05-05
+updated: 2026-05-16
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week03-the-teen-brain.md_
