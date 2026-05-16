@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Pharmacotherapy of Behavioral and Psychological Symptoms of Dementia: State of the Art and Future Progress"
@@ -26,7 +26,7 @@ The article reviews the current knowledge and management strategies for behavior
 
 - [behavioral-and-psychological-symptoms-of-dementia](../topics/behavioral-and-psychological-symptoms-of-dementia.md)
 - [person-centered-care](../topics/person-centered-care.md)
-- [non-pharmacological-interventions](../topics/non-pharmacological-interventions.md)
+- [cognitive-stimulation-therapy](../topics/cognitive-stimulation-therapy.md)
 
 ## Tags
 

@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Reflections on Grieving at a Seaside Pier"
@@ -20,13 +20,13 @@ _All claims sourced from ../raw/pdf/fxa202-week09-reflections-on-grieving-at-a-s
 
 ## Reflections on Grieving at a Seaside Pier
 
-The document is a poignant narrative by Alison Higgins reflecting on the emotional journey of grief experienced while visiting a seaside pier. The author shares how this location holds significant memories tied to her mother's ashes being scattered there and serves as a place where she can process her emotions deeply. Central to the narrative is the acknowledgment that the ocean reflects and validates the author’s feelings, providing solace and a sense of connection with her deceased loved one. The text also touches on how grief affects the individual over time, leading to both strength and discovery of self. This piece highlights the therapeutic role of natural landscapes in coping with loss.
+The document is a poignant narrative by Alison Higgins reflecting on the emotional journey of grief experienced while visiting a seaside pier. The author shares how this location holds significant memories tied to her mother's ashes being scattered there and serves as a place where she can process her emotions deeply. Central to the narrative is the acknowledgment that the ocean reflects and validates the authorâ€™s feelings, providing solace and a sense of connection with her deceased loved one. The text also touches on how grief affects the individual over time, leading to both strength and discovery of self. This piece highlights the therapeutic role of natural landscapes in coping with loss.
 
 ## Key Concepts
 
 - [emotional-journey](../topics/emotional-journey.md)
 - [ocean-as-a-symbol-of-grief](../topics/ocean-as-a-symbol-of-grief.md)
-- [strength-and-self-discovery-in-loss](../topics/strength-and-self-discovery-in-loss.md)
+- [emotional-journey-through-grief](../topics/emotional-journey-through-grief.md)
 
 ## Tags
 

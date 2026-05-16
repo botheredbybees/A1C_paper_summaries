@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Music Therapy Increases Social and Emotional Well-Being in Persons With Dementia: A Randomized Clinical Crossover Trial Comparing Singing to Verbal Discussion"
@@ -20,12 +20,12 @@ _All claims sourced from ../raw/pdf/fxa100-week03-music-therapy-increases-social
 
 ## Music Therapy Increases Social and Emotional Well-Being in Persons With Dementia: A Randomized Clinical Crossover Trial Comparing Singing to Verbal Discussion
 
-This study investigates the impact of a singing-based music therapy intervention on social and emotional well-being in individuals with Alzheimer’s disease and related dementias (ADRD). The research is conducted through a randomized clinical crossover trial involving 32 care facility residents with ADRD, comparing a singing intervention to verbal discussion sessions. Participants were observed over six sessions of 25 minutes each per week for two weeks, followed by a washout period before the crossover to the alternative condition. Key findings indicate that the music therapy significantly improved feelings, positive emotions, and social engagement, particularly in those with moderate dementia. The study underscores the importance of considering patient characteristics when designing interventions and highlights practical implications for music selection within therapeutic contexts for ADRD patients.
+This study investigates the impact of a singing-based music therapy intervention on social and emotional well-being in individuals with Alzheimerâ€™s disease and related dementias (ADRD). The research is conducted through a randomized clinical crossover trial involving 32 care facility residents with ADRD, comparing a singing intervention to verbal discussion sessions. Participants were observed over six sessions of 25 minutes each per week for two weeks, followed by a washout period before the crossover to the alternative condition. Key findings indicate that the music therapy significantly improved feelings, positive emotions, and social engagement, particularly in those with moderate dementia. The study underscores the importance of considering patient characteristics when designing interventions and highlights practical implications for music selection within therapeutic contexts for ADRD patients.
 
 ## Key Concepts
 
 - [randomized-clinical-trial](../topics/randomized-clinical-trial.md)
-- [singing-intervention](../topics/singing-intervention.md)
+- [patient-characteristics-in-music-therapy](../topics/patient-characteristics-in-music-therapy.md)
 - [verbal-discussion](../topics/verbal-discussion.md)
 - [patient-characteristics](../topics/patient-characteristics.md)
 

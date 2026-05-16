@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: book-chapter
 book_title: "Arts In Health"
@@ -27,13 +27,13 @@ _All claims sourced from ../raw/pdf/fxa301-arts-in-health-ch90-1-listening-to-mu
 
 ## Arts in Health: Designing and researching interventions - Neurology
 
-This chapter explores the role of arts in therapeutic interventions for neurology, focusing on various conditions such as stroke, Parkinson's disease, Alzheimer's, and autism. Key findings include music’s beneficial effects on sensory processing and cognitive recovery post-stroke, improved walking abilities through movement therapy for brain injuries, enhanced social responsiveness in autistic children with music-based therapy, and increased wellbeing among Alzheimer's patients participating in museum experiences. The text highlights projects like occupational arts therapies for daily tasks, speech and language support, and expressions of lived experience through the arts. It also suggests further reading on neurologic music therapy, art therapy applications, and relevant lectures and organizations dedicated to integrating arts with neurological treatments.
+This chapter explores the role of arts in therapeutic interventions for neurology, focusing on various conditions such as stroke, Parkinson's disease, Alzheimer's, and autism. Key findings include musicâ€™s beneficial effects on sensory processing and cognitive recovery post-stroke, improved walking abilities through movement therapy for brain injuries, enhanced social responsiveness in autistic children with music-based therapy, and increased wellbeing among Alzheimer's patients participating in museum experiences. The text highlights projects like occupational arts therapies for daily tasks, speech and language support, and expressions of lived experience through the arts. It also suggests further reading on neurologic music therapy, art therapy applications, and relevant lectures and organizations dedicated to integrating arts with neurological treatments.
 
 ## Key Concepts
 
 - [sensory-processing-recovery](../topics/sensory-processing-recovery.md)
 - [cognitive-recovery-post-stroke](../topics/cognitive-recovery-post-stroke.md)
-- [social-responsiveness-in-autism](../topics/social-responsiveness-in-autism.md)
+- [sensory-processing-recovery](../topics/sensory-processing-recovery.md)
 
 ## Tags
 

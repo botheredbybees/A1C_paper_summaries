@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "The Concept of Neurodiversity Is Dividing the Autism Community"
@@ -36,7 +36,7 @@ Baron-Cohen suggests that these viewpoints are not necessarily mutually exclusiv
 
 - [neurodiversity](../topics/neurodiversity.md)
 - [pathologization](../topics/pathologization.md)
-- [heterogeneity-of-autism](../topics/heterogeneity-of-autism.md)
+- [neurodiversity](../topics/neurodiversity.md)
 
 ## Tags
 

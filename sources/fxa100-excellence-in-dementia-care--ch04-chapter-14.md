@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: book-chapter
 book_title: "Excellence In Dementia Care "
@@ -24,7 +24,7 @@ This chapter discusses the unique challenges faced by young-onset families deali
 
 ## Key Concepts
 
-- [personhood maximization](../topics/personhood-maximization.md)
+- [personhood maximization](../topics/decision-making-capacity.md)
 - [decision-making capacity](../topics/decision-making-capacity.md)
 
 ## Tags

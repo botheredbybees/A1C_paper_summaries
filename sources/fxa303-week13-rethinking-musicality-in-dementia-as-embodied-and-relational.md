@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Rethinking musicality in dementia as embodied and relational"
@@ -34,7 +34,7 @@ This article challenges the biomedical and pharmaceutical approaches to dementia
 - [music-therapy](../tags/music-therapy.md)
 - [embodied-experience](../tags/embodied-experience.md)
 - [relational-citizenship](../tags/relational-citizenship.md)
-- [non-pharmacological-interventions](../tags/non-pharmacological-interventions.md)
+- [cognitive-stimulation-therapy](../tags/non-pharmacological-interventions.md)
 - [fxa303](../tags/fxa303.md)
 
 ## Methods

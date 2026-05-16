@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: lesson
 title: "LAW122 Legal Systems - Week 8: Editing and Selecting Images"
@@ -25,7 +25,7 @@ This lesson in LAW122 focuses on enhancing photo essays through image editing. I
 ## Key Concepts
 
 - [therapeutic photography](../topics/therapeutic-photography.md)
-- [biophilia hypothesis](../topics/biophilia-hypothesis.md)
+- [biophilia hypothesis](../topics/biophilia.md)
 
 ## Tags
 

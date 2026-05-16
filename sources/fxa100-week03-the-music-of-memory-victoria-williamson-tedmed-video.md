@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "The Music of Memory: Victoria Williamson TEDMED \u2013 Video transcript"
@@ -18,7 +18,7 @@ updated: 2026-05-03
 
 _All claims sourced from ../raw/pdf/fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video.md_
 
-## The Music of Memory: Victoria Williamson TEDMED – Video transcript
+## The Music of Memory: Victoria Williamson TEDMED â€“ Video transcript
 
 Victoria Williamson's TEDMED talk explores the intriguing aspect of musical memory and its implications for learning and therapy. She begins by illustrating how memory can fail us in everyday situations and emphasizes that memory is not just about recalling facts but also plays a crucial role in our sense of self and future planning. Williamson introduces three narratives to highlight the power of musical memory: Arturo Toscanini's exceptional ability to recall complex music, Clive Wearing's case where only his musical memories survive severe amnesia, and common experiences like earworms that illustrate the involuntary nature of musical recall. These examples demonstrate how structured and emotionally engaging music can enhance memory capabilities and provide therapeutic benefits in cases of brain injury or neurological conditions.
 
@@ -26,7 +26,7 @@ Victoria Williamson's TEDMED talk explores the intriguing aspect of musical memo
 
 - [musical-recall](../topics/musical-recall.md)
 - [therapeutic-benefits-of-music](../topics/therapeutic-benefits-of-music.md)
-- [neurological-recovery](../topics/neurological-recovery.md)
+- [musical-recall](../topics/musical-recall.md)
 
 ## Tags
 

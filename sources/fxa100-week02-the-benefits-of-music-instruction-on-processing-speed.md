@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "The Benefits of Music Instruction on Processing Speed, Verbal Fluency, and Cognitive Control in Aging"
@@ -26,7 +26,7 @@ This study investigates the effects of active versus passive music instruction o
 
 - [cognitive-control](../topics/cognitive-control.md)
 - [processing-speed](../topics/processing-speed.md)
-- [verbal-fluency](../topics/verbal-fluency.md)
+- [processing-speed](../topics/processing-speed.md)
 
 ## Tags
 

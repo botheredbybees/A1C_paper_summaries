@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Introduction to Week 2: Music and the Brain"
@@ -26,13 +26,13 @@ This document introduces Week 2 of a course on arts and dementia care, focusing 
 
 - [brain-function](../topics/brain-function.md)
 - [cognitive-impairments](../topics/cognitive-impairments.md)
-- [musical-memories](../topics/musical-memories.md)
+- [cognitive-impairments-and-music-therapy](../topics/cognitive-impairments-and-music-therapy.md)
 
 ## Tags
 
 - [music-and-brain](../tags/music-and-brain.md)
 - [dementia-care](../tags/dementia-care.md)
-- [musical-memories](../tags/musical-memories.md)
+- [cognitive-impairments-and-music-therapy](../tags/musical-memories.md)
 - [reminiscence-bump](../tags/reminiscence-bump.md)
 - [fxa100](../tags/fxa100.md)
 

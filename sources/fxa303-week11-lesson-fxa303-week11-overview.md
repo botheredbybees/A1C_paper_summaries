@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: lesson
 title: "FXA303 Creative Arts, Play and Mental Wellbeing - Week 11"
@@ -24,7 +24,7 @@ This week's content in FXA303 focuses on the role of arts-based programs in supp
 
 ## Key Concepts
 
-- [arts-based interventions](../topics/arts-based-interventions.md)
+- [arts-based interventions](../topics/creative-interventions-in-dementia-care.md)
 - [disadvantaged youth](../topics/disadvantaged-youth.md)
 - [mental health support](../topics/mental-health-support.md)
 

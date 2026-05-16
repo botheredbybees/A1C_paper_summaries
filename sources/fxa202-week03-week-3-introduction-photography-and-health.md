@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Week 3 Introduction - Photography and Health"
@@ -30,7 +30,7 @@ The Week 3 lecture of the course 'FXA202 The Photo Essay: Storytelling with Imag
 
 ## Tags
 
-- [photography-therapy](../tags/photography-therapy.md)
+- [mindfulness-and-therapeutic-photography](../tags/photography-therapy.md)
 - [social-media-health](../tags/social-media-health.md)
 - [mental-wellbeing](../tags/mental-wellbeing.md)
 - [fxa202](../tags/fxa202.md)

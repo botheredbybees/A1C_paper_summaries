@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: transcript
 title: "Transcript: 15 May 2012"
@@ -25,7 +25,7 @@ The transcript documents a speech by Dr. Patch Adams on his journey from suicida
 ## Key Concepts
 
 - [free healthcare](../topics/free-healthcare.md)
-- [medical clowning](../topics/medical-clowning.md)
+- [medical clowning](../topics/therapeutic-clowning.md)
 
 ## Tags
 

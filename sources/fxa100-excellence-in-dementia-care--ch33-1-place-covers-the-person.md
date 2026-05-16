@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: book-chapter
 book_title: "Excellence In Dementia Care "
@@ -24,7 +24,7 @@ This chapter provides guidance on building dementia-friendly communities based o
 
 ## Key Concepts
 
-- [Healthy Cities](../topics/healthy-cities.md)
+- [Healthy Cities](../topics/compassionate-cities.md)
 - [Compassionate Cities](../topics/compassionate-cities.md)
 - [Social Model of Disability](../topics/social-model-of-disability.md)
 

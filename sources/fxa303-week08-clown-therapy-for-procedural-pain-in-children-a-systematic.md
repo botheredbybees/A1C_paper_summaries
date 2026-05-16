@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Clown therapy for procedural pain in children: a systematic review and meta-analysis"
@@ -33,7 +33,7 @@ This systematic review and meta-analysis evaluates the effectiveness of clown th
 - [clown-therapy](../tags/clown-therapy.md)
 - [procedural-pain-management](../tags/procedural-pain-management.md)
 - [pediatric-care](../tags/pediatric-care.md)
-- [non-pharmacological-interventions](../tags/non-pharmacological-interventions.md)
+- [cognitive-stimulation-therapy](../tags/non-pharmacological-interventions.md)
 - [systematic-review](../tags/systematic-review.md)
 - [fxa303](../tags/fxa303.md)
 

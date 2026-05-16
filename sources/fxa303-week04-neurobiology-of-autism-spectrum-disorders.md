@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Neurobiology of Autism Spectrum Disorders"
@@ -24,7 +24,7 @@ This book, edited by Abdeslem El Idrissi and Dan McCloskey, delves into the comp
 
 ## Key Concepts
 
-- [mitochondrial-dysfunction](../topics/mitochondrial-dysfunction.md)
+- [lipid-related-pathophysiology](../topics/lipid-related-pathophysiology.md)
 - [lipid-related-pathophysiology](../topics/lipid-related-pathophysiology.md)
 - [dysfunctional-circuit-mechanisms](../topics/dysfunctional-circuit-mechanisms.md)
 

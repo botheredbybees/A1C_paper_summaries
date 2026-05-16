@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Preserved Drawing in a Sculptor with Dementia"
@@ -25,8 +25,8 @@ This clinical report documents the case of Mary Hecht, a renowned sculptor diagn
 ## Key Concepts
 
 - [vascular-dementia](../topics/vascular-dementia.md)
-- [preserved-artistic-ability](../topics/preserved-artistic-ability.md)
-- [distinct-neural-pathways](../topics/distinct-neural-pathways.md)
+- [preserved-creativity](../topics/preserved-creativity.md)
+- [preserved-creativity](../topics/preserved-creativity.md)
 
 ## Tags
 

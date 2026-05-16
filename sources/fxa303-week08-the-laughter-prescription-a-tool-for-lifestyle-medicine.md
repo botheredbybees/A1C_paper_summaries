@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "The Laughter Prescription: A Tool for Lifestyle Medicine"
@@ -25,7 +25,7 @@ This article explores the physiological and psychological benefits of laughter, 
 ## Key Concepts
 
 - [spontaneous-laughter](../topics/spontaneous-laughter.md)
-- [self-induced-laughter](../topics/self-induced-laughter.md)
+- [laughter-as-a-therapeutic-tool](../topics/laughter-as-a-therapeutic-tool.md)
 - [therapeutic-tool](../topics/therapeutic-tool.md)
 
 ## Tags

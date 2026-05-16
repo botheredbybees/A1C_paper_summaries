@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Behavioral and psychological symptoms of dementia"
@@ -35,7 +35,7 @@ The review highlights the complexity of BPSD in terms of symptom presentation an
 - [dementia-symptoms](../tags/dementia-symptoms.md)
 - [patient-care](../tags/patient-care.md)
 - [behavioral-psychology](../tags/behavioral-psychology.md)
-- [neurological-disorders](../tags/neurological-disorders.md)
+- [lewy-body-dementia](../tags/neurological-disorders.md)
 - [caregiver-stress](../tags/caregiver-stress.md)
 - [fxa303](../tags/fxa303.md)
 

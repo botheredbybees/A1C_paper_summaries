@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "topics/visual-literacy.md",
+                "file": "bundles/2026-05-06-aboriginal-community.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "visual-literacy"
+              "title": "2026-05-06-aboriginal-community"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "music therapy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "topics/visual-literacy.md",
+                "file": "bundles/2026-05-06-aboriginal-community.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for visual-literacy"
+              "title": "Backlinks for 2026-05-06-aboriginal-community"
             }
           },
           {
@@ -183,8 +183,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "fb9ede53539f2de4",
+  "active": "50ec309f0b3d2f5d",
   "lastOpenFiles": [
+    "sources/fxa100-creativity-and-communication-ch01-10-playing-with-mud-ceramics-and-clay-claire-craig-clay-is.md.tmp.18744.11c6b27be537",
+    "topics/visual-literacy.md",
     "tags/youth-disadvantage.md",
     "tags/theatre-in-community.md",
     "tags/social-clowning.md",
@@ -209,8 +211,6 @@
     "tags/long-term-effects-trauma.md",
     "tags/healthcare-humanization.md",
     "tags/group-music-therapy-for-dementia-patients.md",
-    "tags/folklore.md",
-    "tags/cultural-identity-negotiation-through-hip-hop.md",
     "tag_aliases.json",
     "bundles",
     "context"

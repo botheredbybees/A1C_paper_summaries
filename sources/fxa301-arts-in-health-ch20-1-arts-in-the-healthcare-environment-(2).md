@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: book-chapter
 book_title: "Arts In Health"
@@ -20,12 +20,12 @@ _All claims sourced from ../raw/pdf/fxa301-arts-in-health-ch20-1-arts-in-the-hea
 
 ## Does a Model Exist? Arts in Health Activity
 
-This chapter explores the categorization of arts in health activities and their impact on patient care. It questions whether a model exists for classifying these activities into distinct categories, noting that while models can be helpful, they may not fully capture the diversity and bespoke nature of arts interventions. The text outlines seven key areas of activity: Arts in healthcare environment, Participatory arts programs, General arts activities, Arts in psychotherapy, Arts in health technology, Staff training through arts-based methods, and Arts in health education. It highlights the historical development of these practices, emphasizing the role of specific organizations like Paintings in Hospitals and King’s Fund in shaping the field. Case studies such as De Hogeweyk Dementia Village demonstrate how tailored environments can improve patient well-being and reduce healthcare challenges.
+This chapter explores the categorization of arts in health activities and their impact on patient care. It questions whether a model exists for classifying these activities into distinct categories, noting that while models can be helpful, they may not fully capture the diversity and bespoke nature of arts interventions. The text outlines seven key areas of activity: Arts in healthcare environment, Participatory arts programs, General arts activities, Arts in psychotherapy, Arts in health technology, Staff training through arts-based methods, and Arts in health education. It highlights the historical development of these practices, emphasizing the role of specific organizations like Paintings in Hospitals and Kingâ€™s Fund in shaping the field. Case studies such as De Hogeweyk Dementia Village demonstrate how tailored environments can improve patient well-being and reduce healthcare challenges.
 
 ## Key Concepts
 
 - [Arts in health model](../topics/arts-in-health-model.md)
-- [Historical development of arts interventions](../topics/historical-development-of-arts-interventions.md)
+- [Historical development of arts interventions](../topics/arts-in-health-model.md)
 - [Tailored therapeutic environments](../topics/tailored-therapeutic-environments.md)
 
 ## Tags

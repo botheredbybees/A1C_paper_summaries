@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: book-chapter
 book_title: "Excellence In Dementia Care "
@@ -31,7 +31,7 @@ This chapter explores how understanding a patient's life history is crucial for 
 ## Tags
 
 - [dementia-care](../tags/dementia-care.md)
-- [person-centered-practice](../tags/person-centered-practice.md)
+- [person-centered-dementia-support](../tags/person-centered-practice.md)
 - [life-history](../tags/life-history.md)
 - [fxa100](../tags/fxa100.md)
 

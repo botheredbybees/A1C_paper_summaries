@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Ten years of a model of aesthetic appreciation and aesthetic judgments: The aesthetic episode \u2013 Developments and challenges in empirical aesthetics"
@@ -18,13 +18,13 @@ updated: 2026-05-03
 
 _All claims sourced from ../raw/pdf/fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and.md_
 
-## Ten years of a model of aesthetic appreciation and aesthetic judgments: The aesthetic episode – Developments and challenges in empirical aesthetics
+## Ten years of a model of aesthetic appreciation and aesthetic judgments: The aesthetic episode â€“ Developments and challenges in empirical aesthetics
 
 This article reviews the development and impact of a model proposed by Leder et al. (2004) for understanding aesthetic appreciation and judgments in art, marking ten years since its introduction. The model integrates psychological processes involved in experiencing art aesthetically, including perceptual, cognitive, and emotional components over time. Historical context is provided, highlighting the resurgence of interest in empirical aesthetics due to technological advancements, neuroscience discoveries, and theoretical frameworks like Berlyne's psycho-biological aesthetics. Key topics discussed include aesthetic emotions, contextual influences, and neural foundations of art appreciation. The authors emphasize the distinction between 'art' and 'aesthetics,' noting that while they overlap, understanding the mechanisms behind appreciating both is crucial for psychological research.
 
 ## Key Concepts
 
-- [model of aesthetic appreciation](../topics/model-of-aesthetic-appreciation.md)
+- [model of aesthetic appreciation](../topics/berlynes-psycho-biological-aesthetics.md)
 - [Berlyne's psycho-biological aesthetics](../topics/berlynes-psycho-biological-aesthetics.md)
 - [aesthetic emotions](../topics/aesthetic-emotions.md)
 

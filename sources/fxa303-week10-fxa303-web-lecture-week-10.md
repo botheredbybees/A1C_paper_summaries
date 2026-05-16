@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "FXA303 Web Lecture Week 10"
@@ -30,7 +30,7 @@ This document provides guidance and criteria for Assessment Task 4 in the course
 ## Tags
 
 - [mental-wellbeing-children](../tags/mental-wellbeing-children.md)
-- [arts-based-interventions](../tags/arts-based-interventions.md)
+- [creative-interventions-in-dementia-care](../tags/arts-based-interventions.md)
 - [play-based-programs](../tags/play-based-programs.md)
 - [trauma-informed-practices](../tags/trauma-informed-practices.md)
 - [fxa303](../tags/fxa303.md)

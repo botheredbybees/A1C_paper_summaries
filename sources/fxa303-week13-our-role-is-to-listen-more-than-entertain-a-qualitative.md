@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "'Our role is to listen more than entertain': A qualitative study of techniques used by Laughter Care Specialists with people who have dementia in long-term care"
@@ -25,7 +25,7 @@ This study explores the techniques used by Laughter Care Specialists (LCSs) to e
 ## Key Concepts
 
 - [person-centered-care](../topics/person-centered-care.md)
-- [non-pharmacological-interventions](../topics/non-pharmacological-interventions.md)
+- [cognitive-stimulation-therapy](../topics/cognitive-stimulation-therapy.md)
 - [reminiscence-techniques](../topics/reminiscence-techniques.md)
 
 ## Tags

@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: lesson
 title: "ARTZ Artists for Alzheimer's Program"
@@ -20,7 +20,7 @@ _All claims sourced from ../raw/pdf/fxa100-week07-lesson-fxa100-week07-page-2-ar
 
 ## ARTZ Artists for Alzheimer's Program
 
-The ARTZ program, founded by John Zeisel and Sean Caulfield, aims to provide art experiences for people living with Alzheimer’s through volunteer professional artists in care facilities and community settings. It emphasizes the importance of recognizing individuals as people first, not just patients. The program includes guided gallery tours and creative workshops at museums like MOMA and the Louvre. MoMA's 'Meet Me' initiative involves pre-visit art projections, museum visits, and post-visit drawing sessions to enhance participant engagement and personal expression. Evaluations indicate positive impacts on self-worth and quality of life for both participants and caregivers.
+The ARTZ program, founded by John Zeisel and Sean Caulfield, aims to provide art experiences for people living with Alzheimerâ€™s through volunteer professional artists in care facilities and community settings. It emphasizes the importance of recognizing individuals as people first, not just patients. The program includes guided gallery tours and creative workshops at museums like MOMA and the Louvre. MoMA's 'Meet Me' initiative involves pre-visit art projections, museum visits, and post-visit drawing sessions to enhance participant engagement and personal expression. Evaluations indicate positive impacts on self-worth and quality of life for both participants and caregivers.
 
 ## Key Concepts
 
@@ -30,7 +30,7 @@ The ARTZ program, founded by John Zeisel and Sean Caulfield, aims to provide art
 
 ## Tags
 
-- [arts-and-dementia-care](../tags/arts-and-dementia-care.md)
+- [museum-programs-for-people-with-dementia](../tags/arts-and-dementia-care.md)
 - [alzheimer-programs](../tags/alzheimer-programs.md)
 - [museum-experiences](../tags/museum-experiences.md)
 - [fxa100](../tags/fxa100.md)

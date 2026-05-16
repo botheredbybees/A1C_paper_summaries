@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "The Impact of TimeSlips, a Creative Expression Intervention Program, on Nursing Home Residents With Dementia and their Caregivers"
@@ -24,7 +24,7 @@ This study evaluates the impact of TimeSlips, a group storytelling program desig
 
 ## Key Concepts
 
-- [TimeSlips intervention program](../topics/timeslips-intervention-program.md)
+- [TimeSlips intervention program](../topics/resident-engagement-in-dementia-care.md)
 - [resident engagement](../topics/resident-engagement.md)
 - [staff attitudes](../topics/staff-attitudes.md)
 

@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "The Perceived Benefits of Singing: Findings from Preliminary Surveys"
@@ -24,7 +24,7 @@ This study explores the perceived health and well-being benefits associated with
 
 ## Key Concepts
 
-- [perceived health benefits](../topics/perceived-health-benefits.md)
+- [perceived health benefits](../topics/choral-singing.md)
 - [choral singing](../topics/choral-singing.md)
 - [quality of life](../topics/quality-of-life.md)
 

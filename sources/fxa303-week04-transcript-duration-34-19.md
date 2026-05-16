@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: transcript
 title: "Music Therapy Sessions: Non-Verbal Communication"
@@ -26,7 +26,7 @@ The transcript describes music therapy sessions involving children with autism a
 
 - [improvised sound exchanges](../topics/improvised-sound-exchanges.md)
 - [structured music sessions](../topics/structured-music-sessions.md)
-- [therapeutic nonverbal communication](../topics/therapeutic-nonverbal-communication.md)
+- [therapeutic nonverbal communication](../topics/structured-music-sessions.md)
 
 ## Tags
 

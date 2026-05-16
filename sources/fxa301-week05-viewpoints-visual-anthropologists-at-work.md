@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Viewpoints: Visual Anthropologists at Work"
@@ -24,7 +24,7 @@ The review discusses the book 'Viewpoints: Visual Anthropologists at Work' edite
 
 ## Key Concepts
 
-- [visual-ethnography](../topics/visual-ethnography.md)
+- [methodological-diversity-in-visual-anthropology](../topics/methodological-diversity-in-visual-anthropology.md)
 - [methodological-diversity](../topics/methodological-diversity.md)
 - [theoretical-applications](../topics/theoretical-applications.md)
 

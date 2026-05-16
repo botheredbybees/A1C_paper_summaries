@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Beyond the Fence: Constructed and Found Spaces for Children's Outdoor Play in Natural and Human-Induced Disaster Contexts"
@@ -20,13 +20,13 @@ _All claims sourced from ../raw/pdf/fxa303-week09-beyond-the-fence-constructed-a
 
 ## Beyond the Fence: Constructed and Found Spaces for Children's Outdoor Play in Natural and Human-Induced Disaster Contexts
 
-Helen Woolley's article 'Beyond the Fence' explores how children’s play is affected in disaster-stricken areas, highlighting its importance as a human right often neglected in humanitarian aid contexts. The study focuses on two distinct scenarios: post-disaster Japan and Za’atari refugee camp in Jordan. Woolley argues that despite the universal recognition of play as an essential part of childhood development, it remains an overlooked pillar in disaster recovery efforts. She identifies differences in how children use both constructed and found spaces for outdoor play in these environments, noting that while found spaces are often proximal to living areas, structured playgrounds tend to be more prevalent in refugee camps than in geographically dispersed post-disaster communities like those in Japan. The paper underscores the psychological benefits of play in aiding children's resilience and mental well-being during traumatic situations, thus contributing positively towards global health goals SDG3 and SDG4. Additionally, it highlights the disproportionate impact disasters have on child populations, emphasizing a critical need for integrating play spaces into disaster risk reduction plans to uphold children’s rights.
+Helen Woolley's article 'Beyond the Fence' explores how childrenâ€™s play is affected in disaster-stricken areas, highlighting its importance as a human right often neglected in humanitarian aid contexts. The study focuses on two distinct scenarios: post-disaster Japan and Zaâ€™atari refugee camp in Jordan. Woolley argues that despite the universal recognition of play as an essential part of childhood development, it remains an overlooked pillar in disaster recovery efforts. She identifies differences in how children use both constructed and found spaces for outdoor play in these environments, noting that while found spaces are often proximal to living areas, structured playgrounds tend to be more prevalent in refugee camps than in geographically dispersed post-disaster communities like those in Japan. The paper underscores the psychological benefits of play in aiding children's resilience and mental well-being during traumatic situations, thus contributing positively towards global health goals SDG3 and SDG4. Additionally, it highlights the disproportionate impact disasters have on child populations, emphasizing a critical need for integrating play spaces into disaster risk reduction plans to uphold childrenâ€™s rights.
 
 ## Key Concepts
 
 - [children's outdoor play](../topics/childrens-outdoor-play.md)
 - [disaster resilience](../topics/disaster-resilience.md)
-- [found spaces vs constructed spaces](../topics/found-spaces-vs-constructed-spaces.md)
+- [found spaces vs constructed spaces](../topics/children-s-outdoor-play.md)
 
 ## Tags
 

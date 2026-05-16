@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Puppets Facilitate Attention to Social Cues in Children with ASD"
@@ -31,7 +31,7 @@ This research article explores the effectiveness of using puppets as social agen
 ## Key Concepts
 
 - [attention-to-social-cues](../topics/attention-to-social-cues.md)
-- [reciprocal-interactions](../topics/reciprocal-interactions.md)
+- [attention-to-social-cues](../topics/attention-to-social-cues.md)
 - [simplified-social-stimuli](../topics/simplified-social-stimuli.md)
 
 ## Tags

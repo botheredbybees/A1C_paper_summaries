@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Improving Collaboration Between Staff, Family Members, and Artists in Long-Term Dementia Care: A Participatory Action Research Project Into Health Care Clowning"
@@ -25,7 +25,7 @@ The study explores the impact of participatory action research (PAR) on health c
 ## Key Concepts
 
 - [participatory action research](../topics/participatory-action-research.md)
-- [arts-based interventions](../topics/arts-based-interventions.md)
+- [arts-based interventions](../topics/creative-interventions-in-dementia-care.md)
 - [facilitative communication](../topics/facilitative-communication.md)
 
 ## Tags

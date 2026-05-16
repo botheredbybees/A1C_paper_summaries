@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: lesson
 title: "Week 7: Galleries and Museums"
@@ -29,7 +29,7 @@ In Week 7 of the FXA100 course on 'The Arts and Dementia Care,' students explore
 
 ## Tags
 
-- [arts-and-dementia-care](../tags/arts-and-dementia-care.md)
+- [museum-programs-for-people-with-dementia](../tags/arts-and-dementia-care.md)
 - [gallery-museum-outreach](../tags/gallery-museum-outreach.md)
 - [dementia-carer-support](../tags/dementia-carer-support.md)
 - [fxa100](../tags/fxa100.md)

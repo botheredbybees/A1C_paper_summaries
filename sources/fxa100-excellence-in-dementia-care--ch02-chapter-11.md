@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: book-chapter
 book_title: "Excellence In Dementia Care "
@@ -20,13 +20,13 @@ _All claims sourced from ../raw/pdf/fxa100-excellence-in-dementia-care--ch02-cha
 
 ## Design Matters in Dementia Care: The Role of the Physical Environment
 
-This chapter explores the critical importance of physical design in enhancing quality of life for individuals with dementia, emphasizing its role in fostering positive behaviors and reducing challenging ones such as agitation and social withdrawal. It reviews key theories like Lawton and Nahemow's individual competence and environmental press model, Weisman’s model of place, and Hall and Buckwalter’s progressively lowered threshold model to understand the interactions between environment and behavior. The chapter also discusses empirical studies showing how physical design features impact residents' quality of life in long-term care facilities, including the significance of wide corridors, accessible gardens, well-lit spaces, and other therapeutic environmental elements.
+This chapter explores the critical importance of physical design in enhancing quality of life for individuals with dementia, emphasizing its role in fostering positive behaviors and reducing challenging ones such as agitation and social withdrawal. It reviews key theories like Lawton and Nahemow's individual competence and environmental press model, Weismanâ€™s model of place, and Hall and Buckwalterâ€™s progressively lowered threshold model to understand the interactions between environment and behavior. The chapter also discusses empirical studies showing how physical design features impact residents' quality of life in long-term care facilities, including the significance of wide corridors, accessible gardens, well-lit spaces, and other therapeutic environmental elements.
 
 ## Key Concepts
 
 - [individual competence and environmental press model](../topics/individual-competence-and-environmental-press-model.md)
 - [model of place](../topics/model-of-place.md)
-- [progressively lowered threshold model](../topics/progressively-lowered-threshold-model.md)
+- [progressively lowered threshold model](../topics/individual-competence-and-environmental-press-model.md)
 
 ## Tags
 

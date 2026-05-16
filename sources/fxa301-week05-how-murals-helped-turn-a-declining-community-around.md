@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "How Murals Helped Turn a Declining Community Around"
@@ -24,7 +24,7 @@ This article discusses the impact of community mural projects on revitalizing th
 
 ## Key Concepts
 
-- [reverse-graffiti](../topics/reverse-graffiti.md)
+- [community-vitality-through-murals](../topics/community-vitality-through-murals.md)
 - [sense-of-place](../topics/sense-of-place.md)
 - [community-vitality](../topics/community-vitality.md)
 

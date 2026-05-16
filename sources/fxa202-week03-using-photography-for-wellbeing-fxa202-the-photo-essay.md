@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Using photography for wellbeing - FXA202 The Photo Essay: Storytelling with image and text"
@@ -29,7 +29,7 @@ The document discusses how photography encourages physical activity by motivatin
 ## Key Concepts
 
 - [mindfulness](../topics/mindfulness.md)
-- [photo therapy](../topics/photo-therapy.md)
+- [photo therapy](../topics/therapeutic-photography.md)
 - [well-being](../topics/well-being.md)
 - [mental health](../topics/mental-health.md)
 

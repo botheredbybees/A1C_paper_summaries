@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Music Listening Motivation Is Associated With Global Happiness in Canadian Late Adolescents"
@@ -25,7 +25,7 @@ This study explores the relationship between self-determined motivation for list
 ## Key Concepts
 
 - [self-determined-motivation](../topics/self-determined-motivation.md)
-- [subjective-well-being](../topics/subjective-well-being.md)
+- [self-determined-motivation-in-music-listening](../topics/self-determined-motivation-in-music-listening.md)
 
 ## Tags
 

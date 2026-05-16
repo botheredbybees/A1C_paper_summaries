@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Where do you get your ideas?"
@@ -25,7 +25,7 @@ In his essay 'Where do you get your ideas?', Neil Gaiman explores the common que
 ## Key Concepts
 
 - [daydreaming](../topics/daydreaming.md)
-- [hypothetical-scenarios](../topics/hypothetical-scenarios.md)
+- [daydreaming](../topics/daydreaming.md)
 - [creative-curiosity](../topics/creative-curiosity.md)
 
 ## Tags

@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "The Effects of Recreational Dance Interventions on the Health and Well-being of Children and Young People: A Systematic Review"
@@ -28,7 +28,7 @@ The review highlights the importance of incorporating recreational dance program
 
 ## Key Concepts
 
-- [cardiovascular-fitness](../topics/cardiovascular-fitness.md)
+- [body-image](../topics/body-image.md)
 - [bone-health](../topics/bone-health.md)
 - [body-image](../topics/body-image.md)
 - [anxiety-reduction](../topics/anxiety-reduction.md)

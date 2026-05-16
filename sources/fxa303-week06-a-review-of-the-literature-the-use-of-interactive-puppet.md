@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "A Review of the Literature: The Use of Interactive Puppet Simulation in Nursing Education and Children's Healthcare"
@@ -24,9 +24,9 @@ This review explores the use of puppets in health care and nursing education, fo
 
 ## Key Concepts
 
-- [puppet-simulation](../topics/puppet-simulation.md)
+- [interactive-puppet-simulation-in-child-healthcare](../topics/interactive-puppet-simulation-in-child-healthcare.md)
 - [three-way-communication-tool](../topics/three-way-communication-tool.md)
-- [expressive-therapeutics](../topics/expressive-therapeutics.md)
+- [interactive-puppet-simulation-in-child-healthcare](../topics/interactive-puppet-simulation-in-child-healthcare.md)
 
 ## Tags
 

@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "The impact of the Great East Japan earthquake on mandatory psychiatric emergency hospitalizations in Tokyo: a retrospective observational study"
@@ -24,7 +24,7 @@ This study evaluates the impact of the Great East Japan earthquake and subsequen
 
 ## Key Concepts
 
-- [mandatory psychiatric emergency hospitalizations](../topics/mandatory-psychiatric-emergency-hospitalizations.md)
+- [mandatory psychiatric emergency hospitalizations](../topics/indirect-exposure-to-disaster.md)
 - [indirect exposure to disaster](../topics/indirect-exposure-to-disaster.md)
 
 ## Tags

@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "The Fundamentals of Person-Centered Care for Individuals With Dementia"
@@ -25,7 +25,7 @@ This article discusses the philosophy of person-centered care in dementia manage
 ## Key Concepts
 
 - [person-centered care](../topics/person-centered-care.md)
-- [neurological impairment and psychosocial factors](../topics/neurological-impairment-and-psychosocial-factors.md)
+- [neurological impairment and psychosocial factors](../topics/high-quality-interpersonal-relationships.md)
 - [high-quality interpersonal relationships](../topics/high-quality-interpersonal-relationships.md)
 - [maintaining selfhood](../topics/maintaining-selfhood.md)
 

@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Week Six Lecture: Components of Visual Storytelling"
@@ -20,12 +20,12 @@ _All claims sourced from ../raw/pdf/fxa202-week06-week-six-lecture-components-of
 
 ## Week Six Lecture: Components of Visual Storytelling
 
-This Week Six lecture in the Photo Essay course emphasizes visual storytelling techniques and narrative structures. The lecturer encourages students to consider linear and non-linear story sequences, establishing shots, character development through detail shots, and closing shots. Examples from previous student work, such as Lisa Hathaway’s creative dioramas, inspire creativity in approaching Assessment Task 2: Image and Caption. Students are prompted to create a 'Day in your life' collage using three pictures and a caption, practicing the skills learned throughout the week.
+This Week Six lecture in the Photo Essay course emphasizes visual storytelling techniques and narrative structures. The lecturer encourages students to consider linear and non-linear story sequences, establishing shots, character development through detail shots, and closing shots. Examples from previous student work, such as Lisa Hathawayâ€™s creative dioramas, inspire creativity in approaching Assessment Task 2: Image and Caption. Students are prompted to create a 'Day in your life' collage using three pictures and a caption, practicing the skills learned throughout the week.
 
 ## Key Concepts
 
 - [linear-narrative](../topics/linear-narrative.md)
-- [non-linear-narrative](../topics/non-linear-narrative.md)
+- [linear-narrative-in-visual-storytelling](../topics/linear-narrative-in-visual-storytelling.md)
 
 ## Tags
 

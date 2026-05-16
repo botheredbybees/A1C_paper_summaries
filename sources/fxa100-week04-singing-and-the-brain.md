@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Singing and the Brain"
@@ -20,13 +20,13 @@ _All claims sourced from ../raw/pdf/fxa100-week04-singing-and-the-brain.md_
 
 ## Singing and the Brain
 
-The document discusses various benefits of singing for individuals with dementia, emphasizing its holistic advantages and broad accessibility. It highlights that singing can improve mood, foster a sense of community, develop musical skills, enhance self-esteem, and contribute to better breathing and posture. The research by Clair (2000) underscores the significant role of singing in enhancing life quality for those with progressive dementia and their caregivers, providing ‘islands of arousal, awareness, familiarity, comfort, community and success’ that are uniquely beneficial due to its inclusivity across cultural and socioeconomic backgrounds. Perry et al., 1999, describe how singing activates multiple brain regions such as the visual cortex, auditory cortex, hippocampus, and cerebellum, illustrating the neural complexity involved in this activity. Jane Flinn's study (2013) found that participants who sang scored higher on cognitive and drawing tests compared to those who merely listened to music. The document also mentions specific research programs like 'Singing for Better Breathing' and the CALE Research Aged Care Deloraine Partnership Pilot, which aim to measure respiratory function improvements and overall wellbeing benefits through singing interventions. These initiatives include innovative methods such as using kazoos as tools for measuring respiratory impact during singing sessions.
+The document discusses various benefits of singing for individuals with dementia, emphasizing its holistic advantages and broad accessibility. It highlights that singing can improve mood, foster a sense of community, develop musical skills, enhance self-esteem, and contribute to better breathing and posture. The research by Clair (2000) underscores the significant role of singing in enhancing life quality for those with progressive dementia and their caregivers, providing â€˜islands of arousal, awareness, familiarity, comfort, community and successâ€™ that are uniquely beneficial due to its inclusivity across cultural and socioeconomic backgrounds. Perry et al., 1999, describe how singing activates multiple brain regions such as the visual cortex, auditory cortex, hippocampus, and cerebellum, illustrating the neural complexity involved in this activity. Jane Flinn's study (2013) found that participants who sang scored higher on cognitive and drawing tests compared to those who merely listened to music. The document also mentions specific research programs like 'Singing for Better Breathing' and the CALE Research Aged Care Deloraine Partnership Pilot, which aim to measure respiratory function improvements and overall wellbeing benefits through singing interventions. These initiatives include innovative methods such as using kazoos as tools for measuring respiratory impact during singing sessions.
 
 ## Key Concepts
 
 - [life-quality-improvement](../topics/life-quality-improvement.md)
-- [brain-stimulation-through-singing](../topics/brain-stimulation-through-singing.md)
-- [respiratory-health-benefits](../topics/respiratory-health-benefits.md)
+- [group-music-therapy-for-dementia-patients](../topics/group-music-therapy-for-dementia-patients.md)
+- [group-music-therapy-for-dementia-patients](../topics/group-music-therapy-for-dementia-patients.md)
 
 ## Tags
 

@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: book-chapter
 book_title: "Arts In Health"
@@ -25,7 +25,7 @@ This chapter discusses the importance of evaluating processes within healthcare 
 ## Key Concepts
 
 - [process evaluations](../topics/process-evaluations.md)
-- [ethnographic studies](../topics/ethnographic-studies.md)
+- [ethnographic studies](../topics/ethnographic-process-evaluations.md)
 - [outcome research](../topics/outcome-research.md)
 
 ## Tags

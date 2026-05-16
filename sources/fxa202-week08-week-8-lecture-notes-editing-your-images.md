@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Week 8 Lecture Notes: Editing Your Images"
@@ -20,13 +20,13 @@ _All claims sourced from ../raw/pdf/fxa202-week08-week-8-lecture-notes-editing-y
 
 ## Week 8 Lecture Notes: Editing Your Images
 
-This week’s lecture emphasizes the importance of editing techniques and mindfulness practices in enhancing the therapeutic value of photography for mental health. The lecturer highlights activities such as nature walks, photo-a-day challenges, and the concept of biophilia to encourage students to connect with their environment. Additionally, the use of digital compositing and mixed media is suggested as creative approaches to explore themes that are difficult to capture through conventional photography. The lecture also recommends readings on therapeutic photography and phototherapy for further understanding and reflection. Students are encouraged to experiment with editing software and techniques, sharing before-and-after images in a discussion forum.
+This weekâ€™s lecture emphasizes the importance of editing techniques and mindfulness practices in enhancing the therapeutic value of photography for mental health. The lecturer highlights activities such as nature walks, photo-a-day challenges, and the concept of biophilia to encourage students to connect with their environment. Additionally, the use of digital compositing and mixed media is suggested as creative approaches to explore themes that are difficult to capture through conventional photography. The lecture also recommends readings on therapeutic photography and phototherapy for further understanding and reflection. Students are encouraged to experiment with editing software and techniques, sharing before-and-after images in a discussion forum.
 
 ## Key Concepts
 
 - [biophilia](../topics/biophilia.md)
 - [therapeutic photography](../topics/therapeutic-photography.md)
-- [photo therapy](../topics/photo-therapy.md)
+- [photo therapy](../topics/therapeutic-photography.md)
 
 ## Tags
 

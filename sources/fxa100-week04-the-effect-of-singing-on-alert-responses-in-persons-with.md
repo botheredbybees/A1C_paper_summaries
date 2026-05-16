@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "The Effect of Singing on Alert Responses in Persons with Late Stage Dementia"
@@ -33,7 +33,7 @@ The study investigates the impact of singing on alert responses in individuals w
 - [dementia-care](../tags/dementia-care.md)
 - [music-therapy](../tags/music-therapy.md)
 - [alert-responses](../tags/alert-responses.md)
-- [singing-interventions](../tags/singing-interventions.md)
+- [group-music-therapy-for-dementia-patients](../tags/singing-interventions.md)
 - [fxa100](../tags/fxa100.md)
 
 ## Methods

@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "How music opens the doors of memory and the mind"
@@ -26,7 +26,7 @@ The preservation of musical abilities in individuals with dementia offers a wind
 
 ## Key Concepts
 
-- [musical cognition](../topics/musical-cognition.md)
+- [musical cognition](../topics/memory-impact-of-music.md)
 - [semantic dementia](../topics/semantic-dementia.md)
 - [cognitive rehabilitation](../topics/cognitive-rehabilitation.md)
 

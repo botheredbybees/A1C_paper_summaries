@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Can Traumatic Stress Alter the Brain? Understanding the Implications of Early Trauma on Brain Development and Learning"
@@ -24,7 +24,7 @@ This review article discusses the potential impact of traumatic stress on brain 
 
 ## Key Concepts
 
-- [post-traumatic-stress-symptoms](../topics/post-traumatic-stress-symptoms.md)
+- [neural-circuitry-changes](../topics/neural-circuitry-changes.md)
 - [neural-circuitry-changes](../topics/neural-circuitry-changes.md)
 
 ## Tags

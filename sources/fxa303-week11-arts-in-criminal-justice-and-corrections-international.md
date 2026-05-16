@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Arts in Criminal Justice and Corrections: International Perspectives on Methods"
@@ -28,7 +28,7 @@ The relevance to creative arts and health is profound, as the volume underscores
 
 ## Key Concepts
 
-- [arts-based-interventions](../topics/arts-based-interventions.md)
+- [creative-interventions-in-dementia-care](../topics/creative-interventions-in-dementia-care.md)
 - [participatory-research](../topics/participatory-research.md)
 - [theoretical-frameworks-for-evaluation](../topics/theoretical-frameworks-for-evaluation.md)
 

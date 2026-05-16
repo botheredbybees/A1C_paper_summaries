@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Week 5 Overview - FXA303 Creative Arts, Play and Mental Wellbeing"
@@ -20,13 +20,13 @@ _All claims sourced from ../raw/pdf/fxa303-week05-week-5-overview-fxa303-creativ
 
 ## Week 5 Overview - FXA303 Creative Arts, Play and Mental Wellbeing
 
-This week's overview for the Creative Arts, Play and Mental Wellbeing module shifts focus to Module 2, which emphasizes practical approaches using creativity, playfulness, and puppetry. The document highlights how puppets can engage children in learning about challenging topics, explore scenarios, and improve communication skills while fostering emotional development (Krögera & Nupponen, 2019). It also underscores the importance of understanding various mechanisms for achieving expressive capabilities with puppets and offers guidance on managing stress related to vicarious trauma experienced when dealing with others' traumatic stories. Additionally, it outlines specific learning objectives concerning the history and technical aspects of puppetry.
+This week's overview for the Creative Arts, Play and Mental Wellbeing module shifts focus to Module 2, which emphasizes practical approaches using creativity, playfulness, and puppetry. The document highlights how puppets can engage children in learning about challenging topics, explore scenarios, and improve communication skills while fostering emotional development (KrÃ¶gera & Nupponen, 2019). It also underscores the importance of understanding various mechanisms for achieving expressive capabilities with puppets and offers guidance on managing stress related to vicarious trauma experienced when dealing with others' traumatic stories. Additionally, it outlines specific learning objectives concerning the history and technical aspects of puppetry.
 
 ## Key Concepts
 
 - [creativity-in-therapy](../topics/creativity-in-therapy.md)
 - [vicarious-trauma-management](../topics/vicarious-trauma-management.md)
-- [emotional-development-through-play](../topics/emotional-development-through-play.md)
+- [creativity-in-therapy](../topics/creativity-in-therapy.md)
 
 ## Tags
 

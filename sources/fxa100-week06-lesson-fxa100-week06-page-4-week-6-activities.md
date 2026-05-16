@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: lesson
 title: "Week 6 Activities - FXA100 The Arts and Dementia Care"
@@ -26,7 +26,7 @@ The lesson for Week 6 of FXA100 The Arts and Dementia Care focuses on the impact
 
 - [preserved creativity](../topics/preserved-creativity.md)
 - [frontotemporal dementia](../topics/frontotemporal-dementia.md)
-- [visual arts as therapy](../topics/visual-arts-as-therapy.md)
+- [visual arts as therapy](../topics/art-therapies-in-dementia-care.md)
 
 ## Tags
 

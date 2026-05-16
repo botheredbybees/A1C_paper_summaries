@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: book-chapter
 book_title: "Oxford Textbook Of Creative Arts"
@@ -20,12 +20,12 @@ _All claims sourced from ../raw/pdf/fxa301-oxford-textbook-of-creative-arts-ch15
 
 ## Active Energy Project and Its Impact on Elderly Wellbeing
 
-The chapter discusses the Active Energy project, an initiative aimed at enhancing elderly wellbeing through community engagement and art-based activities. The project involved working with senior groups to address contemporary issues such as renewable energy and dementia care. Researchers from the Alzheimer’s Disease Research Centre collaborated by valuing personal narratives provided by participants. Large-scale video installations were created to bring these issues to public attention, encouraging dialogue and feedback from visitors. The chapter emphasizes the importance of recognizing the value of older people's experiences in society and highlights how art can facilitate meaningful engagement that contributes to their quality of life.
+The chapter discusses the Active Energy project, an initiative aimed at enhancing elderly wellbeing through community engagement and art-based activities. The project involved working with senior groups to address contemporary issues such as renewable energy and dementia care. Researchers from the Alzheimerâ€™s Disease Research Centre collaborated by valuing personal narratives provided by participants. Large-scale video installations were created to bring these issues to public attention, encouraging dialogue and feedback from visitors. The chapter emphasizes the importance of recognizing the value of older people's experiences in society and highlights how art can facilitate meaningful engagement that contributes to their quality of life.
 
 ## Key Concepts
 
 - [quality-of-life](../topics/quality-of-life.md)
-- [participatory-art](../topics/participatory-art.md)
+- [community-value-through-participatory-art](../topics/community-value-through-participatory-art.md)
 - [community-value](../topics/community-value.md)
 
 ## Tags

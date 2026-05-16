@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Singing and Participation"
@@ -24,9 +24,9 @@ The document discusses the social benefits of singing for individuals with demen
 
 ## Key Concepts
 
-- [stress-hormone-reduction](../topics/stress-hormone-reduction.md)
+- [melatonin-levels-increase-through-singing](../topics/melatonin-levels-increase-through-singing.md)
 - [melatonin-levels-increase](../topics/melatonin-levels-increase.md)
-- [music-based-interventions](../topics/music-based-interventions.md)
+- [group-music-therapy-for-dementia-patients](../topics/group-music-therapy-for-dementia-patients.md)
 - [community-support-networks](../topics/community-support-networks.md)
 
 ## Tags

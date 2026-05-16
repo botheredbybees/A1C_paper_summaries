@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Painting for a Purpose: A Visual Arts Program as a Method to Promote Engagement, Communication, Cognition, and Quality of Life for Individuals With Dementia"
@@ -25,7 +25,7 @@ This research article evaluates the efficacy of a visual arts program, specifica
 ## Key Concepts
 
 - [engagement enhancement](../topics/engagement-enhancement.md)
-- [self-reported quality of life](../topics/self-reported-quality-of-life.md)
+- [self-reported quality of life](../topics/art-therapies-in-dementia-care.md)
 - [visual arts intervention](../topics/visual-arts-intervention.md)
 
 ## Tags

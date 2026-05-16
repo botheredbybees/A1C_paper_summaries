@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: transcript
 title: "The Music of Memory: Victoria Williamson at TED MED Live"
@@ -24,7 +24,7 @@ Victoria Williamson discusses the power and intricacies of musical memory in her
 
 ## Key Concepts
 
-- [involuntary musical imagery](../topics/involuntary-musical-imagery.md)
+- [involuntary musical imagery](../topics/deep-memory-structures.md)
 - [deep memory structures](../topics/deep-memory-structures.md)
 - [musical amnesia survival](../topics/musical-amnesia-survival.md)
 

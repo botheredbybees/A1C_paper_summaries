@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Musical Preferences May Reflect Cognitive Style"
@@ -26,7 +26,7 @@ Recent research indicates a correlation between an individual's cognitive style 
 
 - [cognitive-style](../topics/cognitive-style.md)
 - [empathizer-systemizer-theory](../topics/empathizer-systemizer-theory.md)
-- [musical-preference-patterns](../topics/musical-preference-patterns.md)
+- [empathizer-systemizer-theory](../topics/empathizer-systemizer-theory.md)
 
 ## Tags
 

@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "How to talk about dementia"
@@ -20,12 +20,12 @@ _All claims sourced from ../raw/pdf/fxa100-week04-how-to-talk-about-dementia.md_
 
 ## How to talk about dementia
 
-The document 'How to Talk About Dementia' by Dementia Australia provides guidelines on the appropriate language and terminology for discussing dementia. It emphasizes the importance of respectful, accurate, inclusive, empowering, and non-stigmatizing language when referring to individuals with dementia, their families, and caregivers. The text highlights that using positive or overly negative terms can be detrimental, suggesting a balanced approach instead. Key recommendations include avoiding derogatory labels like 'demented' and emphasizing the personhood of those affected, such as using phrases like 'a person with dementia.' Additionally, it advises on appropriate language when discussing carers, younger onset dementia, and the impacts and symptoms of dementia. The guide underscores that every individual’s experience is unique, advocating for listening to personal preferences regarding how they wish their condition be described.
+The document 'How to Talk About Dementia' by Dementia Australia provides guidelines on the appropriate language and terminology for discussing dementia. It emphasizes the importance of respectful, accurate, inclusive, empowering, and non-stigmatizing language when referring to individuals with dementia, their families, and caregivers. The text highlights that using positive or overly negative terms can be detrimental, suggesting a balanced approach instead. Key recommendations include avoiding derogatory labels like 'demented' and emphasizing the personhood of those affected, such as using phrases like 'a person with dementia.' Additionally, it advises on appropriate language when discussing carers, younger onset dementia, and the impacts and symptoms of dementia. The guide underscores that every individualâ€™s experience is unique, advocating for listening to personal preferences regarding how they wish their condition be described.
 
 ## Key Concepts
 
 - [respectful-language](../topics/respectful-language.md)
-- [empowerment-through-terminology](../topics/empowerment-through-terminology.md)
+- [inclusive-terminology-for-dementia](../topics/inclusive-terminology-for-dementia.md)
 
 ## Tags
 

@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Week 3 Activities - FXA100 The Arts and Dementia Care"
@@ -24,7 +24,7 @@ This document outlines the activities for Week 3 of the FXA100 The Arts and Deme
 
 ## Key Concepts
 
-- [impact-of-music-on-dementia](../topics/impact-of-music-on-dementia.md)
+- [music-therapy-and-cognitive-stimulation-for-dementia-patients](../topics/music-therapy-and-cognitive-stimulation-for-dementia-patients.md)
 - [neuroaesthetics](../topics/neuroaesthetics.md)
 - [cultural-nuances-in-dementia-care](../topics/cultural-nuances-in-dementia-care.md)
 

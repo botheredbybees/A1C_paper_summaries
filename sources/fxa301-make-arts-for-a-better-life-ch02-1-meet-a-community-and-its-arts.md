@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: book-chapter
 book_title: "Make Arts For A Better Life"
@@ -24,7 +24,7 @@ This chapter introduces a community arts process that emphasizes collaboration b
 
 ## Key Concepts
 
-- [Make Arts process](../topics/make-arts-process.md)
+- [Make Arts process](../topics/cultural-identity-recovery.md)
 - [cultural-identity-recovery](../topics/cultural-identity-recovery.md)
 
 ## Tags

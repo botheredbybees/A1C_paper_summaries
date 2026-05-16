@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "National Taskforce for Creative Recovery Recommendations"
@@ -20,14 +20,14 @@ _All claims sourced from ../raw/pdf/fxa303-week09-national-taskforce-for-creativ
 
 ## National Taskforce for Creative Recovery Recommendations
 
-The National Taskforce for Creative Recovery, comprising leaders from disaster management, mental health, government, and the arts, has issued a set of recommendations to integrate creative practices into Australia’s disaster management systems. The report acknowledges the importance of First Peoples’ cultural heritage and protocols in community-led practices and emphasizes the role of creative recovery in fostering resilience, identity rebuilding, and inclusive community engagement. Key areas addressed include embedding creative practice in disaster planning, investing in research to demonstrate its value, recognizing creative practitioners as essential components of disaster response, and promoting safe spaces for trauma processing through arts-based activities. The recommendations advocate for a collaborative approach among various stakeholders to enhance the social fabric and economic recovery post-disaster.
+The National Taskforce for Creative Recovery, comprising leaders from disaster management, mental health, government, and the arts, has issued a set of recommendations to integrate creative practices into Australiaâ€™s disaster management systems. The report acknowledges the importance of First Peoplesâ€™ cultural heritage and protocols in community-led practices and emphasizes the role of creative recovery in fostering resilience, identity rebuilding, and inclusive community engagement. Key areas addressed include embedding creative practice in disaster planning, investing in research to demonstrate its value, recognizing creative practitioners as essential components of disaster response, and promoting safe spaces for trauma processing through arts-based activities. The recommendations advocate for a collaborative approach among various stakeholders to enhance the social fabric and economic recovery post-disaster.
 
 ## Key Concepts
 
 - [creative practices in disaster management](../topics/creative-practices-in-disaster-management.md)
 - [resilience building](../topics/resilience-building.md)
 - [inclusive community engagement](../topics/inclusive-community-engagement.md)
-- [trauma processing through arts](../topics/trauma-processing-through-arts.md)
+- [trauma processing through arts](../topics/creative-practices-in-disaster-management.md)
 
 ## Tags
 
@@ -36,7 +36,7 @@ The National Taskforce for Creative Recovery, comprising leaders from disaster m
 - [community-engagement](../tags/community-engagement.md)
 - [mental-health](../tags/mental-health.md)
 - [first-peoples-culture](../tags/first-peoples-culture.md)
-- [arts-based-interventions](../tags/arts-based-interventions.md)
+- [creative-interventions-in-dementia-care](../tags/arts-based-interventions.md)
 - [fxa303](../tags/fxa303.md)
 
 ## Methods

@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "The art of being mentally healthy: a study to quantify the relationship between recreational arts engagement and mental well-being in the general population"
@@ -24,7 +24,7 @@ The study explores the relationship between recreational arts engagement and men
 
 ## Key Concepts
 
-- [recreational arts engagement](../topics/recreational-arts-engagement.md)
+- [recreational arts engagement](../topics/dose-response-relationship-in-mental-health-interventions.md)
 - [mental well-being](../topics/mental-well-being.md)
 - [dose-response relationship](../topics/dose-response-relationship.md)
 

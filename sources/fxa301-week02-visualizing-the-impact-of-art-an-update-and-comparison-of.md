@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Visualizing the Impact of Art: An Update and Comparison of Current Psychological Models of Art Experience"
@@ -25,7 +25,7 @@ This paper presents a comprehensive review and comparison of six influential cog
 ## Key Concepts
 
 - [emotional-responses-to-art](../topics/emotional-responses-to-art.md)
-- [physiological-reactions-to-art](../topics/physiological-reactions-to-art.md)
+- [emotional-responses-to-art](../topics/emotional-responses-to-art.md)
 - [unified-visual-framework-for-comparison](../topics/unified-visual-framework-for-comparison.md)
 
 ## Tags

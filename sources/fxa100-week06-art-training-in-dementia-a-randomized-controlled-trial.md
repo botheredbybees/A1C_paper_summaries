@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Art Training in Dementia: A Randomized Controlled Trial"
@@ -22,15 +22,15 @@ _All claims sourced from ../raw/pdf/fxa100-week06-art-training-in-dementia-a-ran
 
 This study investigates the impact of an eight-week visual art training program on cognitive functions in individuals with dementia, using a randomized controlled trial (RCT) design. The primary objective is to assess whether such interventions can mitigate cognitive decline typically associated with dementia. Participants were randomly assigned into either an art training group or a waitlist control group engaging in usual activities. Cognitive assessments included overall cognition, delayed recall, and working memory.
 
-Results showed no significant differences between the groups for overall cognition and working memory. The analysis of delayed recall was inconclusive due to variability in post-test—pre-test difference scores. Participants were comparable at baseline on all measures, indicating that the lack of significant effect might not be attributed to initial disparities.
+Results showed no significant differences between the groups for overall cognition and working memory. The analysis of delayed recall was inconclusive due to variability in post-testâ€”pre-test difference scores. Participants were comparable at baseline on all measures, indicating that the lack of significant effect might not be attributed to initial disparities.
 
 The findings contribute to the ongoing debate about whether art-based interventions can enhance cognitive function in dementia patients. Despite previous qualitative studies suggesting positive outcomes, this RCT aligns with others revealing no measurable improvements in cognition from such activities. The study underscores the need for rigorous evaluation methods when assessing non-pharmacological treatments for dementia.
 
 ## Key Concepts
 
-- [visual art training](../topics/visual-art-training.md)
+- [visual art training](../topics/delayed-recall-in-dementia.md)
 - [delayed recall](../topics/delayed-recall.md)
-- [working memory](../topics/working-memory.md)
+- [working memory](../topics/delayed-recall-in-dementia.md)
 
 ## Tags
 

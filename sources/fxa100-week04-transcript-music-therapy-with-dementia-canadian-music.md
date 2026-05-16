@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: transcript
 title: "Transcript: Music Therapy with Dementia"
@@ -25,8 +25,8 @@ A transcript from a session at Evergreen residential nursing home discussing the
 ## Key Concepts
 
 - [meaningful-music](../topics/meaningful-music.md)
-- [self-esteem-through-art](../topics/self-esteem-through-art.md)
-- [therapeutic-self-expression](../topics/therapeutic-self-expression.md)
+- [music-therapy-for-dementia-patients](../topics/music-therapy-for-dementia-patients.md)
+- [music-therapy-for-dementia-patients](../topics/music-therapy-for-dementia-patients.md)
 
 ## Tags
 

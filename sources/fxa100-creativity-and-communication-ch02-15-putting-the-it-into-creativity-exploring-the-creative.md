@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: book-chapter
 book_title: "Creativity And Communication"
@@ -24,7 +24,7 @@ This chapter discusses how technology can serve as a catalyst for creativity amo
 
 ## Key Concepts
 
-- [technological facilitation of creativity](../topics/technological-facilitation-of-creativity.md)
+- [technological facilitation of creativity](../topics/ethical-considerations-in-digital-sharing.md)
 - [ethical considerations in digital sharing](../topics/ethical-considerations-in-digital-sharing.md)
 
 ## Tags

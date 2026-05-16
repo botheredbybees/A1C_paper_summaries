@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Misery Loves Company: Mood-Congruent Emotional Responding to Music"
@@ -26,7 +26,7 @@ The study explores how mood influences emotional responses to music, specificall
 
 - [mood-congruent emotional responding](../topics/mood-congruent-emotional-responding.md)
 - [aesthetic appreciation](../topics/aesthetic-appreciation.md)
-- [sadness detection in music](../topics/sadness-detection-in-music.md)
+- [sadness detection in music](../topics/mood-congruent-emotional-responding.md)
 
 ## Tags
 

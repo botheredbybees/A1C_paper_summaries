@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "The Art and Science of Dance/Movement Therapy"
@@ -25,7 +25,7 @@ The second edition of 'The Art and Science of Dance/Movement Therapy' provides a
 ## Key Concepts
 
 - [movement therapy](dance/movement therapy.md)
-- [therapeutic use of movement](../topics/therapeutic-use-of-movement.md)
+- [therapeutic use of movement](../topics/dance-movement-therapy.md)
 - [psychological intervention](../topics/psychological-intervention.md)
 
 ## Tags

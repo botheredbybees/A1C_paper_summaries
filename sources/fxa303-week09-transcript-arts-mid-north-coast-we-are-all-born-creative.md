@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: transcript
 title: "We Are All Born Creative: Art Workshops for Resilience"
@@ -24,7 +24,7 @@ The transcript captures a project titled 'We Are All Born Creative' led by Linda
 
 ## Key Concepts
 
-- [Resilience in Children](../topics/resilience-in-children.md)
+- [Resilience in Children](../topics/creative-expression-as-therapy.md)
 - [Creative Expression as Therapy](../topics/creative-expression-as-therapy.md)
 
 ## Tags

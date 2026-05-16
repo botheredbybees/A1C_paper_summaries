@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Psychological First Aid: Supporting People Affected by Disaster in Australia"
@@ -25,7 +25,7 @@ The document 'Psychological First Aid: Supporting People Affected by Disaster in
 ## Key Concepts
 
 - [psychological first aid](../topics/psychological-first-aid.md)
-- [timely psychosocial support](../topics/timely-psychosocial-support.md)
+- [timely psychosocial support](../topics/emotional-and-physical-reactions-to-disaster.md)
 - [emotional and physical reactions to disaster](../topics/emotional-and-physical-reactions-to-disaster.md)
 
 ## Tags

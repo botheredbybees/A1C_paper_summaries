@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Dementia and Imagination: a mixed-methods protocol for arts and science research"
@@ -24,7 +24,7 @@ The article 'Dementia and Imagination' is a mixed-methods study protocol designe
 
 ## Key Concepts
 
-- [visual-art-activities](../topics/visual-art-activities.md)
+- [art-therapies-in-dementia-care](../topics/art-therapies-in-dementia-care.md)
 - [quality-of-life-improvement](../topics/quality-of-life-improvement.md)
 - [social-and-community-benefits](../topics/social-and-community-benefits.md)
 

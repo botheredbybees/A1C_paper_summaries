@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "The Beaney Health and Wellbeing Toolkit"
@@ -24,7 +24,7 @@ The document titled 'The Beaney Health and Wellbeing Toolkit' explores the integ
 
 ## Key Concepts
 
-- [therapeutic-value-of-museums](../topics/therapeutic-value-of-museums.md)
+- [health-and-wellbeing-toolkit](../topics/health-and-wellbeing-toolkit.md)
 - [health-and-wellbeing-toolkit](../topics/health-and-wellbeing-toolkit.md)
 
 ## Tags

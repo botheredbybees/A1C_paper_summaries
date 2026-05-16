@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "How to Pitch Articles to Editors"
@@ -20,12 +20,12 @@ _All claims sourced from ../raw/pdf/fxa202-week10-how-to-pitch-articles-to-edito
 
 ## How to Pitch Articles to Editors
 
-This article by James Randerson, the science and environment news editor of the Guardian, provides advice for freelance writers on how to effectively pitch their stories to editors. The author emphasizes the importance of understanding a publication's interests and format before pitching an idea. Key strategies include sending clear top lines summarizing story ideas, providing context and background information in 100 words or less, and including a brief writer’s bio with previous work experience. Randerson also suggests that writers can demonstrate their skill by submitting completed pieces directly to editors. The article advises persistence and follow-up communication if no response is received after pitching. It warns against idea theft but provides strategies to protect hot ideas while still engaging the editor. This guidance is particularly relevant for creative arts and health fields where timely and unique content creation is crucial.
+This article by James Randerson, the science and environment news editor of the Guardian, provides advice for freelance writers on how to effectively pitch their stories to editors. The author emphasizes the importance of understanding a publication's interests and format before pitching an idea. Key strategies include sending clear top lines summarizing story ideas, providing context and background information in 100 words or less, and including a brief writerâ€™s bio with previous work experience. Randerson also suggests that writers can demonstrate their skill by submitting completed pieces directly to editors. The article advises persistence and follow-up communication if no response is received after pitching. It warns against idea theft but provides strategies to protect hot ideas while still engaging the editor. This guidance is particularly relevant for creative arts and health fields where timely and unique content creation is crucial.
 
 ## Key Concepts
 
 - [publication-interests](../topics/publication-interests.md)
-- [story-pitching](../topics/story-pitching.md)
+- [publication-interests](../topics/publication-interests.md)
 - [writer-profile](../topics/writer-profile.md)
 
 ## Tags

@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: book-chapter
 book_title: "Excellence In Dementia Care "
@@ -26,13 +26,13 @@ This chapter discusses the principles of good practice in creative communication
 ## Key Concepts
 
 - [creative communication-based approach](../topics/creative-communication-based-approach.md)
-- [person-centred practice](../topics/person-centred-practice.md)
+- [person-centred practice](../topics/person-centered-dementia-support.md)
 
 ## Tags
 
 - [dementia-care](../tags/dementia-care.md)
 - [reminiscence-therapy](../tags/reminiscence-therapy.md)
-- [person-centered-practice](../tags/person-centered-practice.md)
+- [person-centered-dementia-support](../tags/person-centered-practice.md)
 - [fxa100](../tags/fxa100.md)
 
 ## Methods

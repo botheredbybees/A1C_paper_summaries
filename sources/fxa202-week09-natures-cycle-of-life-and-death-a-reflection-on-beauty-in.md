@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Nature's Cycle of Life and Death: A Reflection on Beauty in Decomposition"
@@ -31,7 +31,7 @@ The text explores the author's contemplation on nature's cycles of life and deat
 ## Tags
 
 - [nature-and-death](../tags/nature-and-death.md)
-- [ecological-systems](../tags/ecological-systems.md)
+- [biodiversity](../tags/ecological-systems.md)
 - [beauty-in-decay](../tags/beauty-in-decay.md)
 - [memento-mori](../tags/memento-mori.md)
 - [natural-cycles](../tags/natural-cycles.md)

@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Musical Preferences are Linked to Cognitive Styles"
@@ -25,7 +25,7 @@ The research article explores the relationship between cognitive styles, specifi
 ## Key Concepts
 
 - [empathizing](../topics/empathizing.md)
-- [systemizing](../topics/systemizing.md)
+- [empathizer-systemizer-theory](../topics/empathizer-systemizer-theory.md)
 
 ## Tags
 

@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Emotional expression through puppetry"
@@ -20,13 +20,13 @@ _All claims sourced from ../raw/pdf/fxa303-week06-emotional-expression-through-p
 
 ## Emotional expression through puppetry
 
-This week’s content of FXA303 Creative Arts, Play and Mental Wellbeing focuses on the use of puppets in a therapeutic context. Puppetry is highlighted as a tool for enabling non-verbal communication and mediated expression, especially beneficial when discussing sensitive topics. The module explores how puppets can facilitate joy and communication among both children and adults, fostering engagement through play. An example provided includes interactions between aged care residents and a puppet named Scaredy Cat from the Terrapin Puppet Theatre in Hobart, showcasing therapeutic applications of puppetry. Additional materials offer insights into sustainable practices for creating puppets and refining their expressive capabilities. The week also covers practical guidance on puppet design and movement mechanics, encouraging creative use of recycled materials. Emphasizing sustainability and environmental consciousness, these activities aim to enhance students' understanding and skills in using puppets therapeutically.
+This weekâ€™s content of FXA303 Creative Arts, Play and Mental Wellbeing focuses on the use of puppets in a therapeutic context. Puppetry is highlighted as a tool for enabling non-verbal communication and mediated expression, especially beneficial when discussing sensitive topics. The module explores how puppets can facilitate joy and communication among both children and adults, fostering engagement through play. An example provided includes interactions between aged care residents and a puppet named Scaredy Cat from the Terrapin Puppet Theatre in Hobart, showcasing therapeutic applications of puppetry. Additional materials offer insights into sustainable practices for creating puppets and refining their expressive capabilities. The week also covers practical guidance on puppet design and movement mechanics, encouraging creative use of recycled materials. Emphasizing sustainability and environmental consciousness, these activities aim to enhance students' understanding and skills in using puppets therapeutically.
 
 ## Key Concepts
 
 - [non-verbal-communication](../topics/non-verbal-communication.md)
 - [mediated-expression](../topics/mediated-expression.md)
-- [sustainable-practices](../topics/sustainable-practices.md)
+- [emotional-expression-through-puppetry](../topics/emotional-expression-through-puppetry.md)
 
 ## Tags
 

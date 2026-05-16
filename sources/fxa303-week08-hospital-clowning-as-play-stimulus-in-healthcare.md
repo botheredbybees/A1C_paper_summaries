@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Hospital Clowning as Play Stimulus in Healthcare"
@@ -20,13 +20,13 @@ _All claims sourced from ../raw/pdf/fxa303-week08-hospital-clowning-as-play-stim
 
 ## Hospital Clowning as Play Stimulus in Healthcare
 
-This article explores the role of hospital clowning in enhancing the well-being and recovery process for ill and hospitalized children. The authors, Laura Anes and Marianne Obi from RED NOSES Clowndoctors International, emphasize that play is a fundamental right essential to children's development and should not be denied due to illness or hospitalization. Through interactive play and humor provided by clowndoctors, an enabling environment can be created that supports children’s adaptation to the hospital setting and enhances their acceptance of medical procedures. The RED NOSES program uses culturally appropriate methods tailored to the unique needs of different target groups, including chronically ill children with cancer. By stimulating children's senses and encouraging active participation, clowndoctors provide crucial stimulus and support for emotional expression, promoting resilience and reducing vulnerability in stressful hospital environments.
+This article explores the role of hospital clowning in enhancing the well-being and recovery process for ill and hospitalized children. The authors, Laura Anes and Marianne Obi from RED NOSES Clowndoctors International, emphasize that play is a fundamental right essential to children's development and should not be denied due to illness or hospitalization. Through interactive play and humor provided by clowndoctors, an enabling environment can be created that supports childrenâ€™s adaptation to the hospital setting and enhances their acceptance of medical procedures. The RED NOSES program uses culturally appropriate methods tailored to the unique needs of different target groups, including chronically ill children with cancer. By stimulating children's senses and encouraging active participation, clowndoctors provide crucial stimulus and support for emotional expression, promoting resilience and reducing vulnerability in stressful hospital environments.
 
 ## Key Concepts
 
 - [play-as-fundamental-right](../topics/play-as-fundamental-right.md)
-- [interactive-play-humor](../topics/interactive-play-humor.md)
-- [emotional-expression-promotion](../topics/emotional-expression-promotion.md)
+- [therapeutic-clowning](../topics/therapeutic-clowning.md)
+- [therapeutic-clowning](../topics/therapeutic-clowning.md)
 - [resilience-building](../topics/resilience-building.md)
 
 ## Tags

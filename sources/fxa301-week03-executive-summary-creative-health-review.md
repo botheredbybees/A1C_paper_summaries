@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Executive Summary: Creative Health Review"
@@ -25,7 +25,7 @@ The document emphasizes the fundamental role of creativity in health and wellbei
 ## Key Concepts
 
 - [creativity as determinant of health](../topics/creativity-as-determinant-of-health.md)
-- [integrated care systems](../topics/integrated-care-systems.md)
+- [integrated care systems](../topics/arts-in-healthcare-initiatives.md)
 - [arts in healthcare initiatives](../topics/arts-in-healthcare-initiatives.md)
 
 ## Tags

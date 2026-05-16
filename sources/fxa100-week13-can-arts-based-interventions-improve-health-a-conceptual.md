@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Can arts-based interventions improve health? A conceptual and methodological critique"
@@ -30,7 +30,7 @@ The article critiques the claim that engaging with art improves mental and physi
 
 ## Tags
 
-- [arts-based-interventions](../tags/arts-based-interventions.md)
+- [creative-interventions-in-dementia-care](../tags/arts-based-interventions.md)
 - [health-outcomes](../tags/health-outcomes.md)
 - [methodological-critique](../tags/methodological-critique.md)
 - [fxa100](../tags/fxa100.md)

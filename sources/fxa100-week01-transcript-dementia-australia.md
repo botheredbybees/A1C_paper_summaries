@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: transcript
 title: "Transcript: Dementia Australia - Vascular Cognitive Impairment"
@@ -24,13 +24,13 @@ The transcript discusses vascular cognitive impairment (VCI), which occurs due t
 
 ## Key Concepts
 
-- [Vascular Cognitive Impairment](../topics/vascular-cognitive-impairment.md)
+- [Vascular Cognitive Impairment](../topics/small-vessel-disease.md)
 - [Mixed Dementia](../topics/mixed-dementia.md)
 - [Small Vessel Disease](../topics/small-vessel-disease.md)
 
 ## Tags
 
-- [vascular-cognitive-impairment](../tags/vascular-cognitive-impairment.md)
+- [small-vessel-disease](../tags/vascular-cognitive-impairment.md)
 - [dementia-types](../tags/dementia-types.md)
 - [small-vessel-disease](../tags/small-vessel-disease.md)
 - [brain-health](../tags/brain-health.md)

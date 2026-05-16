@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: lesson
 title: "Listening-based Interventions in Dementia Care"
@@ -24,7 +24,7 @@ This lesson explores the therapeutic value of music for dementia care through ca
 
 ## Key Concepts
 
-- [musical-memory-theory](../topics/musical-memory-theory.md)
+- [memory-impact-of-music](../topics/memory-impact-of-music.md)
 - [mesolimbic-pathway](../topics/mesolimbic-pathway.md)
 
 ## Tags

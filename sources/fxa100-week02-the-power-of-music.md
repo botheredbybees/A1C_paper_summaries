@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "The power of music"
@@ -20,13 +20,13 @@ _All claims sourced from ../raw/pdf/fxa100-week02-the-power-of-music.md_
 
 ## The power of music
 
-Oliver Sacks explores the profound impact of music on human beings, questioning its peculiar power and effects from a philosophical and neurological perspective. He discusses how music can evoke emotions, facilitate motor control in individuals with conditions such as Parkinson's disease and Tourette’s syndrome, and enhance cognitive function in people suffering from dementia or Alzheimer's disease. The author also delves into the cultural significance of music, highlighting its role in communal bonding and inducing altered states of consciousness through trance-like experiences. Sacks posits that while music lacks propositional content, it resonates deeply with human emotions and motor systems, offering therapeutic benefits for various neurological disorders.
+Oliver Sacks explores the profound impact of music on human beings, questioning its peculiar power and effects from a philosophical and neurological perspective. He discusses how music can evoke emotions, facilitate motor control in individuals with conditions such as Parkinson's disease and Touretteâ€™s syndrome, and enhance cognitive function in people suffering from dementia or Alzheimer's disease. The author also delves into the cultural significance of music, highlighting its role in communal bonding and inducing altered states of consciousness through trance-like experiences. Sacks posits that while music lacks propositional content, it resonates deeply with human emotions and motor systems, offering therapeutic benefits for various neurological disorders.
 
 ## Key Concepts
 
 - [therapeutic-benefits-of-music](../topics/therapeutic-benefits-of-music.md)
-- [emotional-evocation-by-music](../topics/emotional-evocation-by-music.md)
-- [neural-correlates-of-musical-experience](../topics/neural-correlates-of-musical-experience.md)
+- [the-power-of-music-on-emotional-cognition](../topics/the-power-of-music-on-emotional-cognition.md)
+- [the-power-of-music-on-emotional-cognition](../topics/the-power-of-music-on-emotional-cognition.md)
 
 ## Tags
 

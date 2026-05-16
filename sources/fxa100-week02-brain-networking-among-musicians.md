@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Brain Networking among Musicians"
@@ -34,7 +34,7 @@ The video transcript discusses the phenomenon of brain synchronization among mus
 
 ## Key Concepts
 
-- [neurosynchronicity](../topics/neurosynchronicity.md)
+- [brain-networking-among-musicians](../topics/brain-networking-among-musicians.md)
 - [communal-brain-function](../topics/communal-brain-function.md)
 - [therapeutic-implications-for-cognitive-disorders](../topics/therapeutic-implications-for-cognitive-disorders.md)
 

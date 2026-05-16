@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Supporting youth mental health with arts-based strategies: a global perspective"
@@ -28,7 +28,7 @@ Furthermore, the article explores mechanisms behind the effectiveness of arts-ba
 
 ## Key Concepts
 
-- [mental health disorders in youth](../topics/mental-health-disorders-in-youth.md)
+- [mental health disorders in youth](../topics/arts-and-culture-based-interventions.md)
 - [arts-and-culture-based interventions](../topics/arts-and-culture-based-interventions.md)
 - [elevating youth voice](../topics/elevating-youth-voice.md)
 

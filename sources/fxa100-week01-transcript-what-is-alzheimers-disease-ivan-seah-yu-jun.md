@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: transcript
 title: "What Is Alzheimer's Disease"
@@ -25,7 +25,7 @@ This transcript provides an overview of Alzheimer's disease as described by Dr. 
 ## Key Concepts
 
 - [beta-amyloid plaques](../topics/beta-amyloid-plaques.md)
-- [tau protein neurofibrillary tangles](../topics/tau-protein-neurofibrillary-tangles.md)
+- [tau protein neurofibrillary tangles](../topics/beta-amyloid-plaques-in-alzheimer-s-disease.md)
 
 ## Tags
 

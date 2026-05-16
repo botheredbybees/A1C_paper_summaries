@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Fear of clowns in hospitalized children: prospective experience"
@@ -26,7 +26,7 @@ This study investigates the prevalence and characteristics of fear of clowns (co
 
 - [fear of clowns](../topics/fear-of-clowns.md)
 - [psychological well-being](../topics/psychological-well-being.md)
-- [medical clown intervention](../topics/medical-clown-intervention.md)
+- [medical clown intervention](../topics/fear-of-clowns-in-hospitalized-children.md)
 
 ## Tags
 

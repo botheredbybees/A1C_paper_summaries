@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Exporting to PDF from PowerPoint and Word"
@@ -24,7 +24,7 @@ This document provides instructions on how to export documents created in Micros
 
 ## Key Concepts
 
-- [PDF format](../topics/pdf-format.md)
+- [PDF format](../topics/microsoft-office-document-conversion.md)
 - [Microsoft Office](../topics/microsoft-office.md)
 
 ## Tags

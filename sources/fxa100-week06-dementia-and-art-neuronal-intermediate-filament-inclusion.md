@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Dementia and Art: Neuronal Intermediate Filament Inclusion Disease and Dissolution of Artistic Creativity"
@@ -20,11 +20,11 @@ _All claims sourced from ../raw/pdf/fxa100-week06-dementia-and-art-neuronal-inte
 
 ## Dementia and Art: Neuronal Intermediate Filament Inclusion Disease and Dissolution of Artistic Creativity
 
-This paper presents a case of neuronal intermediate filament inclusion disease (NIFID), a variant of early-onset frontotemporal dementia, and its impact on artistic creativity in an accomplished artist. The study documents the rapid deterioration of cognitive abilities, motor functions, and personality changes over four years due to NIFID. The patient’s ability to engage in her artistic pursuits diminished significantly during this period, highlighting the specific brain regions affected by the disease that correlate with artistic talent and perception. This case provides insight into the neurological underpinnings of creativity and the potential for neurodegenerative diseases to alter creative processes. Understanding such relationships is crucial for artists living with dementia and can inform therapeutic approaches in arts and health care.
+This paper presents a case of neuronal intermediate filament inclusion disease (NIFID), a variant of early-onset frontotemporal dementia, and its impact on artistic creativity in an accomplished artist. The study documents the rapid deterioration of cognitive abilities, motor functions, and personality changes over four years due to NIFID. The patientâ€™s ability to engage in her artistic pursuits diminished significantly during this period, highlighting the specific brain regions affected by the disease that correlate with artistic talent and perception. This case provides insight into the neurological underpinnings of creativity and the potential for neurodegenerative diseases to alter creative processes. Understanding such relationships is crucial for artists living with dementia and can inform therapeutic approaches in arts and health care.
 
 ## Key Concepts
 
-- [neuronal-intermediate-filament-inclusion-disease](../topics/neuronal-intermediate-filament-inclusion-disease.md)
+- [artistic-expression-as-cognition](../topics/artistic-expression-as-cognition.md)
 - [frontotemporal-dementia](../topics/frontotemporal-dementia.md)
 - [creative-processes](../topics/creative-processes.md)
 

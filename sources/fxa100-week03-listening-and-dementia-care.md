@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Listening and Dementia Care"
@@ -24,15 +24,15 @@ The document discusses the therapeutic benefits of listening to music for indivi
 
 The Music and Memory project, initiated by Dan Cohen, exemplifies how personal music interventions have been successfully implemented in care settings worldwide since 2010, leading to significant improvements in patient engagement and emotional health. The documentary 'Alive Inside' further demonstrates these effects through poignant examples of cognitive and behavioral changes in patients after exposure to their favorite songs.
 
-The text also references the theoretical framework provided by Dr. Victoria Williamson, suggesting that music’s structure allows it to be more easily processed and remembered compared to other forms of information. This aligns with neuroscientific insights into how musical stimuli can activate reward pathways in the brain, triggering dopamine release which enhances memory recall and emotional responses.
+The text also references the theoretical framework provided by Dr. Victoria Williamson, suggesting that musicâ€™s structure allows it to be more easily processed and remembered compared to other forms of information. This aligns with neuroscientific insights into how musical stimuli can activate reward pathways in the brain, triggering dopamine release which enhances memory recall and emotional responses.
 
 Overall, these interventions underscore the significant role music plays in dementia care by fostering cognitive engagement and emotional connection.
 
 ## Key Concepts
 
-- [music-based-interventions](../topics/music-based-interventions.md)
+- [group-music-therapy-for-dementia-patients](../topics/group-music-therapy-for-dementia-patients.md)
 - [dopamine-release](../topics/dopamine-release.md)
-- [musical-memories](../topics/musical-memories.md)
+- [cognitive-impairments-and-music-therapy](../topics/cognitive-impairments-and-music-therapy.md)
 
 ## Tags
 

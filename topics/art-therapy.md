@@ -41,6 +41,7 @@ sources:
   - fxa301-week05-art-as-therapy
   - fxa301-week05-art-making-and-illness-two-case-studies
   - fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our
+  - fxa301-week05-lesson-fxa301-week05-page-4-week-3-activities
   - fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at
   - fxa301-week05-web-article-reynolds-2006
   - fxa301-week05-week-5-activities-fxa301-arts-in-the-community
@@ -140,7 +141,7 @@ tags:
 - art-therapy
 title: Art Therapy
 type: topic
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 ## Art Therapy
@@ -197,6 +198,7 @@ The sources emphasize the broad application and benefits of Art Therapy across v
 - [fxa301-week05-art-as-therapy](../sources/fxa301-week05-art-as-therapy.md)
 - [fxa301-week05-art-making-and-illness-two-case-studies](../sources/fxa301-week05-art-making-and-illness-two-case-studies.md)
 - [fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our](../sources/fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our.md)
+- [fxa301-week05-lesson-fxa301-week05-page-4-week-3-activities](../sources/fxa301-week05-lesson-fxa301-week05-page-4-week-3-activities.md)
 - [fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at](../sources/fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at.md)
 - [fxa301-week05-web-article-reynolds-2006](../sources/fxa301-week05-web-article-reynolds-2006.md)
 - [fxa301-week05-week-5-activities-fxa301-arts-in-the-community](../sources/fxa301-week05-week-5-activities-fxa301-arts-in-the-community.md)

@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Hearing What the Body Feels: Auditory Encoding of Rhythmic Movement"
@@ -32,7 +32,7 @@ This study investigates the relationship between body movement and auditory perc
 
 - [cross-modal-interaction](../tags/cross-modal-interaction.md)
 - [auditory-perception](../tags/auditory-perception.md)
-- [rhythmic-movement](../tags/rhythmic-movement.md)
+- [beat-synchronization](../tags/rhythmic-movement.md)
 - [music-cognition](../tags/music-cognition.md)
 - [embodied-cognition](../tags/embodied-cognition.md)
 - [fxa100](../tags/fxa100.md)

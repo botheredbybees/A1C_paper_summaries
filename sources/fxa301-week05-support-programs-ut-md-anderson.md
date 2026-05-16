@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Support Programs - UT MD Anderson"
@@ -24,14 +24,14 @@ The document 'Support Programs' outlines several initiatives by the University o
 
 Additionally, the Arts in Medicine program integrates visual arts, music, theater, dance, and other creative activities to help pediatric patients cope with their condition. This program aims to reduce anxiety, build community among patients, and provide therapeutic benefits through art-based interventions. Music therapy is also offered as part of this initiative, which can alleviate stress, pain, and foster positive social experiences.
 
-Other support programs highlighted include the Children’s Cancer Hospital Camps, Candlelighters Childhood Cancer Family Alliance, Career and Vocational Counseling, Child Adolescent and Young Adult Life Specialists Program, myCancerConnection, and the Pediatric Education and Creative Arts Program. Each of these programs offers unique services designed to cater to various aspects of a patient's life during cancer treatment and beyond.
+Other support programs highlighted include the Childrenâ€™s Cancer Hospital Camps, Candlelighters Childhood Cancer Family Alliance, Career and Vocational Counseling, Child Adolescent and Young Adult Life Specialists Program, myCancerConnection, and the Pediatric Education and Creative Arts Program. Each of these programs offers unique services designed to cater to various aspects of a patient's life during cancer treatment and beyond.
 
 These initiatives underscore the importance of integrating creative arts into health care settings as a means to enhance patient well-being, providing therapeutic benefits and fostering resilience among young patients navigating challenging medical treatments.
 
 ## Key Concepts
 
 - [holistic-patient-care](../topics/holistic-patient-care.md)
-- [integrative-medicine](../topics/integrative-medicine.md)
+- [holistic-patient-care](../topics/holistic-patient-care.md)
 - [therapeutic-benefits-of-art](../topics/therapeutic-benefits-of-art.md)
 
 ## Tags

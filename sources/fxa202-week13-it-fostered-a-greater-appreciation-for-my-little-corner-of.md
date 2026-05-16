@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "It fostered a greater appreciation for my little corner of the world"
@@ -32,7 +32,7 @@ The study examines the feasibility of a therapeutic photography intervention for
 
 - [therapeutic-photography](../tags/therapeutic-photography.md)
 - [autism-interventions](../tags/autism-interventions.md)
-- [well-being-enhancement](../tags/well-being-enhancement.md)
+- [creative-interventions-in-dementia-care](../tags/well-being-enhancement.md)
 - [youth-development](../tags/youth-development.md)
 - [fxa202](../tags/fxa202.md)
 

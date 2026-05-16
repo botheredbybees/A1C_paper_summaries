@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Using Creative Techniques With Children Who Have Experienced Trauma"
@@ -26,7 +26,7 @@ This article explores the use of creative techniques in counseling children who 
 
 - [trauma-exposure](../topics/trauma-exposure.md)
 - [abstract-thinking-skills](../topics/abstract-thinking-skills.md)
-- [expressive-therapy](../topics/expressive-therapy.md)
+- [abstract-thinking-skills](../topics/abstract-thinking-skills.md)
 - [emotional-healing](../topics/emotional-healing.md)
 
 ## Tags

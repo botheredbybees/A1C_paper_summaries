@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Indigenous Methodology: An Ethical Systems Approach to Arts-Based Work with Native Communities in the U.S."
@@ -25,7 +25,7 @@ Michelle Napoli's article discusses the importance of Indigenous methodology in 
 ## Key Concepts
 
 - [cultural-resilience](../topics/cultural-resilience.md)
-- [decolonization](../topics/decolonization.md)
+- [cultural-resilience](../topics/cultural-resilience.md)
 - [traditional-knowledge](../topics/traditional-knowledge.md)
 
 ## Tags

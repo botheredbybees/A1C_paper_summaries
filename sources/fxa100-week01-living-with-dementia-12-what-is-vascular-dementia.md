@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Living with Dementia 12 \u2013 What is Vascular Dementia?"
@@ -18,13 +18,13 @@ updated: 2026-05-03
 
 _All claims sourced from ../raw/pdf/fxa100-week01-living-with-dementia-12-what-is-vascular-dementia.md_
 
-## Living with Dementia 12 – What is Vascular Dementia?
+## Living with Dementia 12 â€“ What is Vascular Dementia?
 
 This video transcript discusses vascular cognitive impairment and its progression to vascular dementia. It explains that vascular cognitive impairment occurs due to damage or blockage of blood vessels in the brain, which disrupts oxygen and nutrient supply to brain cells. This condition can lead to changes in various functions such as language, attention, reasoning, and memory. The most severe form is vascular dementia, often occurring alongside Alzheimer's disease or Lewy body disease, referred to as mixed dementia. A major cause of vascular dementia is small vessel disease, where blood vessel walls deep within the brain are damaged. Vascular dementia can also develop after a stroke, either from a single event or multiple smaller strokes over time. The symptoms vary depending on the affected area of the brain and other health factors but commonly include deterioration in planning, reasoning, thinking skills, confusion, impaired attention, mild memory problems, difficulty finding words, slurred speech, changes in walking and movement, agitation, lack of bladder control, and depression.
 
 ## Key Concepts
 
-- [vascular cognitive impairment](../topics/vascular-cognitive-impairment.md)
+- [vascular cognitive impairment](../topics/small-vessel-disease.md)
 - [small vessel disease](../topics/small-vessel-disease.md)
 - [mixed dementia](../topics/mixed-dementia.md)
 

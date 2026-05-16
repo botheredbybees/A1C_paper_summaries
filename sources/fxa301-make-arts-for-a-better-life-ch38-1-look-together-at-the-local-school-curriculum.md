@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: book-chapter
 book_title: "Make Arts For A Better Life"
@@ -34,7 +34,7 @@ This chapter discusses integrating local arts into educational curricula, emphas
 
 - [cultural integration in education](../topics/cultural-integration-in-education.md)
 - [educational storytelling](../topics/educational-storytelling.md)
-- [evaluation process](../topics/evaluation-process.md)
+- [evaluation process](../topics/educational-storytelling.md)
 
 ## Tags
 

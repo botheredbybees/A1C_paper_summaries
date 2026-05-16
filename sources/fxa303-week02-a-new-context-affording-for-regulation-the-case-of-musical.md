@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "A New Context Affording for Regulation: The Case of Musical Play"
@@ -26,7 +26,7 @@ This article explores the relationship between regulation and musical play, prop
 
 - [regulatory-behaviors](../topics/regulatory-behaviors.md)
 - [cognitive-monitoring](../topics/cognitive-monitoring.md)
-- [emotionally-motivational-monitoring](../topics/emotionally-motivational-monitoring.md)
+- [cognitive-monitoring](../topics/cognitive-monitoring.md)
 - [socially-shared-regulation](../topics/socially-shared-regulation.md)
 
 ## Tags

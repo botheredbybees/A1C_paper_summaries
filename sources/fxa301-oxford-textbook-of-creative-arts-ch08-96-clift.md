@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: book-chapter
 book_title: "Oxford Textbook Of Creative Arts"
@@ -32,7 +32,7 @@ This chapter explores the physiological responses to music and sound stimuli, em
 
 ## Key Concepts
 
-- [immune system changes](../topics/immune-system-changes.md)
+- [immune system changes](../topics/emotional-foundations-of-music.md)
 - [emotional foundations of music](../topics/emotional-foundations-of-music.md)
 
 ## Tags

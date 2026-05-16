@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Research Overview: Arts and Disability in Australia"
@@ -24,8 +24,8 @@ This document, titled 'Research Overview: Arts and Disability in Australia,' pro
 
 ## Key Concepts
 
-- [underrepresentation-of-artists-with-disabilities](../topics/underrepresentation-of-artists-with-disabilities.md)
-- [recreational-participation-in-the-arts](../topics/recreational-participation-in-the-arts.md)
+- [negative-attitudes-and-barriers-in-arts-participation](../topics/negative-attitudes-and-barriers-in-arts-participation.md)
+- [negative-attitudes-and-barriers-in-arts-participation](../topics/negative-attitudes-and-barriers-in-arts-participation.md)
 - [negative-attitudes-and-barriers](../topics/negative-attitudes-and-barriers.md)
 
 ## Tags

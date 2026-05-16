@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "The effect of a hand puppet-based therapeutic play for preschool children on the fear and pain associated with blood collection procedure"
@@ -20,11 +20,11 @@ _All claims sourced from ../raw/pdf/fxa303-week06-the-effect-of-a-hand-puppet-ba
 
 ## The effect of a hand puppet-based therapeutic play for preschool children on the fear and pain associated with blood collection procedure
 
-This study aimed to determine the effects of a hand puppet-based therapeutic play on reducing fear and pain in preschool children undergoing blood collection procedures. The research was conducted as a randomized controlled experiment involving 120 children aged between 3-6 years, equally divided into two groups. One group received a therapeutic intervention with a hand puppet while the other served as a control group. Data were collected using questionnaires, the Child Fear Scale, and the Wong–Baker Faces Pain Rating Scale. The study found statistically significant differences in mean fear and pain level scores between the experimental and control groups (p < 0.05). This indicates that therapeutic play with hand puppets can effectively reduce children's fear and pain during blood collection processes. Such interventions are inexpensive, easy to implement, and could be widely adopted by healthcare professionals working with pediatric patients.
+This study aimed to determine the effects of a hand puppet-based therapeutic play on reducing fear and pain in preschool children undergoing blood collection procedures. The research was conducted as a randomized controlled experiment involving 120 children aged between 3-6 years, equally divided into two groups. One group received a therapeutic intervention with a hand puppet while the other served as a control group. Data were collected using questionnaires, the Child Fear Scale, and the Wongâ€“Baker Faces Pain Rating Scale. The study found statistically significant differences in mean fear and pain level scores between the experimental and control groups (p < 0.05). This indicates that therapeutic play with hand puppets can effectively reduce children's fear and pain during blood collection processes. Such interventions are inexpensive, easy to implement, and could be widely adopted by healthcare professionals working with pediatric patients.
 
 ## Key Concepts
 
-- [hand puppet-based therapeutic play](../topics/hand-puppet-based-therapeutic-play.md)
+- [hand puppet-based therapeutic play](../topics/blood-collection-procedure.md)
 - [preschool children](../topics/preschool-children.md)
 - [blood collection procedure](../topics/blood-collection-procedure.md)
 - [fear and pain reduction](../topics/fear-and-pain-reduction.md)

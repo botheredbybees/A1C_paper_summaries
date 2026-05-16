@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Arts, Health, and Well-Being in America"
@@ -24,7 +24,7 @@ The white paper 'Arts, Health, and Well-Being in America,' commissioned by the N
 
 ## Key Concepts
 
-- [healthcare-enrichment-through-arts](../topics/healthcare-enrichment-through-arts.md)
+- [community-well-being-via-artistic-interventions](../topics/community-well-being-via-artistic-interventions.md)
 - [community-well-being-via-artistic-interventions](../topics/community-well-being-via-artistic-interventions.md)
 
 ## Tags

@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: lesson
 title: "Singing and the Brain in Dementia Care"
@@ -24,8 +24,8 @@ This course material discusses the benefits of singing for individuals with deme
 
 ## Key Concepts
 
-- [neurological benefits of singing](../topics/neurological-benefits-of-singing.md)
-- [respiratory health improvement through singing](../topics/respiratory-health-improvement-through-singing.md)
+- [neurological benefits of singing](../topics/group-music-therapy-for-dementia-patients.md)
+- [respiratory health improvement through singing](../topics/group-music-therapy-for-dementia-patients.md)
 - [therapeutic interventions in dementia care](../topics/therapeutic-interventions-in-dementia-care.md)
 
 ## Tags

@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "The evolution of human artistic creativity"
@@ -22,17 +22,17 @@ _All claims sourced from ../raw/pdf/fxa100-week04-the-evolution-of-human-artisti
 
 This review article by Gillian M. Morriss-Kay explores the evolution of human artistic creativity, emphasizing its roots in Africa and the complex cognitive abilities required for art production. The author argues that while Upper Paleolithic European artifacts are well-known, earlier evidence suggests that humans had developed a capacity for art much earlier, possibly as early as 300,000 years ago in Africa. Key elements of art include color, pattern, and likeness reproduction, which were already present in Upper Paleolithic Europe around 30,000 years ago, indicating fully modern cognitive abilities at that time.
 
-Morriss-Kay posits that the earliest forms of artistic behavior may have been body decoration with ochre and beads, possibly for functional rather than aesthetic purposes. Simple patterns like zig-zag designs, criss-cross patterns, and parallel lines emerged next, potentially influenced by entoptic phenomena—the involuntary visual experiences often reported during altered states of consciousness.
+Morriss-Kay posits that the earliest forms of artistic behavior may have been body decoration with ochre and beads, possibly for functional rather than aesthetic purposes. Simple patterns like zig-zag designs, criss-cross patterns, and parallel lines emerged next, potentially influenced by entoptic phenomenaâ€”the involuntary visual experiences often reported during altered states of consciousness.
 
-The creation of three-dimensional art likely began with the recognition of human likenesses in natural objects and their subsequent modification to enhance this resemblance. Two-dimensional art has also been influenced by suggestive features on uneven surfaces. The ability to create images from imagination, or 'the mind’s eye,' required a significant evolutionary change in neural structures, which provided advantages in tool-making and hunting.
+The creation of three-dimensional art likely began with the recognition of human likenesses in natural objects and their subsequent modification to enhance this resemblance. Two-dimensional art has also been influenced by suggestive features on uneven surfaces. The ability to create images from imagination, or 'the mindâ€™s eye,' required a significant evolutionary change in neural structures, which provided advantages in tool-making and hunting.
 
 The author suggests that the cognitive capability to separate artistic creation from bodily decoration originated in Africa but may have developed at different times among genetically and culturally distinct groups both within Africa and during global dispersal. This evolution led to regional diversity seen in ancient and modern art. Throughout history, stylistic changes must have been driven by rare, highly gifted individuals.
 
 ## Key Concepts
 
 - [entoptic phenomena](../topics/entoptic-phenomena.md)
-- [neural structures for art creation](../topics/neural-structures-for-art-creation.md)
-- [regional artistic diversity](../topics/regional-artistic-diversity.md)
+- [neural structures for art creation](../topics/entoptic-phenomena-in-art.md)
+- [regional artistic diversity](../topics/entoptic-phenomena-in-art.md)
 
 ## Tags
 

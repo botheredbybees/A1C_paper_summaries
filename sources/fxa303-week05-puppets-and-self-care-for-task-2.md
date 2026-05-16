@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Puppets and Self-Care for Task 2"
@@ -30,8 +30,8 @@ This document provides an overview of various types of puppets including glove, 
 
 ## Key Concepts
 
-- [therapeutic-puppets](../topics/therapeutic-puppets.md)
-- [shadow-theatre](../topics/shadow-theatre.md)
+- [marionette-performance](../topics/marionette-performance.md)
+- [marionette-performance](../topics/marionette-performance.md)
 - [marionette-performance](../topics/marionette-performance.md)
 
 ## Tags

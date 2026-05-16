@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Evaluating the Sharing Stories youth theatre program: an interactive theatre and drama-based strategy for sexual health promotion among multicultural youth"
@@ -24,7 +24,7 @@ This study evaluates the effectiveness of the Sharing Stories youth theatre prog
 
 ## Key Concepts
 
-- [interactive-theatre-strategy](../topics/interactive-theatre-strategy.md)
+- [cultural-diversity-in-education](../topics/cultural-diversity-in-education.md)
 - [sexual-health-knowledge](../topics/sexual-health-knowledge.md)
 - [cultural-diversity-in-education](../topics/cultural-diversity-in-education.md)
 

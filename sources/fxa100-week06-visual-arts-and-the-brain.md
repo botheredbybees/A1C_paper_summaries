@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Visual Arts and the Brain"
@@ -26,14 +26,14 @@ _All claims sourced from ../raw/pdf/fxa100-week06-visual-arts-and-the-brain.md_
 
 The document 'Visual Arts and the Brain' explores how art impacts the brain through neuroaesthetics, a field of study that examines neural responses to art. Professor Semir Zeki's research highlights that beautiful artworks trigger dopamine release in the orbito-frontal cortex, inducing pleasure akin to being in love. The use of functional Magnetic Resonance Imaging (fMRI) in this context reveals increased blood flow to reward centers when viewing art, emphasizing its significance for health and wellbeing. An interactive light sculpture named Affinity was created to raise awareness about dementia; it responds to touch with visual and auditory feedback, representing neural communication disrupted by the disease. This artwork exemplifies how neuroaesthetics can be applied to enhance public understanding of complex conditions like dementia through sensory engagement.
 
-The document also discusses embodied cognition in art appreciation, where mirror neurons simulate actions depicted in artworks, making viewers experience these actions physically. For example, observing a painting of Adam's hand movement activates the motor cortex as if the viewer were performing the action themselves. Additionally, studies reveal that emotional responses to depictions of human suffering or joy are similar to those experienced when encountering actual people, indicating art’s profound impact on empathy and subjective engagement with life experiences.
+The document also discusses embodied cognition in art appreciation, where mirror neurons simulate actions depicted in artworks, making viewers experience these actions physically. For example, observing a painting of Adam's hand movement activates the motor cortex as if the viewer were performing the action themselves. Additionally, studies reveal that emotional responses to depictions of human suffering or joy are similar to those experienced when encountering actual people, indicating artâ€™s profound impact on empathy and subjective engagement with life experiences.
 
 ## Key Concepts
 
 - [neuroaesthetics](../topics/neuroaesthetics.md)
 - [functional-magnetic-resonance-imaging-fmri](../topics/functional-magnetic-resonance-imaging-fmri.md)
 - [mirror-neurons](../topics/mirror-neurons.md)
-- [empathy-in-art-appreciation](../topics/empathy-in-art-appreciation.md)
+- [neural-processing-of-art](../topics/neural-processing-of-art.md)
 
 ## Tags
 

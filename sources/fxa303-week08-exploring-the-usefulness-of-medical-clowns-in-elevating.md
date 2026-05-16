@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Exploring the usefulness of medical clowns in elevating satisfaction and reducing aggressive tendencies in pediatric and adult hospital wards"
@@ -25,14 +25,14 @@ This research article investigates the effectiveness of medical clowns in enhanc
 ## Key Concepts
 
 - [satisfaction](../topics/satisfaction.md)
-- [aggressive-tendencies](../topics/aggressive-tendencies.md)
+- [therapeutic-clowning](../topics/therapeutic-clowning.md)
 - [therapeutic-benefits](../topics/therapeutic-benefits.md)
 
 ## Tags
 
 - [medical-clowns](../tags/medical-clowns.md)
 - [hospital-environment](../tags/hospital-environment.md)
-- [patient-satisfaction](../tags/patient-satisfaction.md)
+- [body-image-concerns](../tags/patient-satisfaction.md)
 - [behavioral-outcomes](../tags/behavioral-outcomes.md)
 - [fxa303](../tags/fxa303.md)
 

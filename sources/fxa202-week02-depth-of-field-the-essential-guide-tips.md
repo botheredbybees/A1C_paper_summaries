@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Depth of Field: The Essential Guide (Tips)"
@@ -26,7 +26,7 @@ The article 'Depth of Field: The Essential Guide' by Bruce Wunderlich provides a
 
 - [aperture-settings](../topics/aperture-settings.md)
 - [focal-length](../topics/focal-length.md)
-- [shallow-depth-of-field](../topics/shallow-depth-of-field.md)
+- [depth-of-field](../topics/depth-of-field.md)
 
 ## Tags
 

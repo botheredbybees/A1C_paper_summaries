@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "The Reciprocal Influence of Art and Aging"
@@ -26,7 +26,7 @@ This chapter explores the creative potential of older adults, particularly focus
 
 - [continuity-and-adaptation-theory](../topics/continuity-and-adaptation-theory.md)
 - [gerotranscendence](../topics/gerotranscendence.md)
-- [creative-expansion-with-age](../topics/creative-expansion-with-age.md)
+- [continuity-and-adaptation-theory](../topics/continuity-and-adaptation-theory.md)
 
 ## Tags
 

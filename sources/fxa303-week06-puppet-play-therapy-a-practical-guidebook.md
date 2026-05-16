@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Puppet Play Therapy: A Practical Guidebook"
@@ -25,9 +25,9 @@ Puppet Play Therapy: A Practical Guidebook is a comprehensive resource written b
 
 ## Key Concepts
 
-- [child-centered-therapy](../topics/child-centered-therapy.md)
-- [solution-focused-brief-therapy](../topics/solution-focused-brief-therapy.md)
-- [berkeley-puppet-interview](../topics/berkeley-puppet-interview.md)
+- [puppet-therapy](../topics/puppet-therapy.md)
+- [puppet-therapy](../topics/puppet-therapy.md)
+- [puppet-therapy](../topics/puppet-therapy.md)
 
 ## Tags
 

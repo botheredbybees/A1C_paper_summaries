@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Beyond Expressive Writing: Evolving Models of Developmental Creative Writing"
@@ -20,13 +20,13 @@ _All claims sourced from ../raw/pdf/fxa301-week08-beyond-expressive-writing-evol
 
 ## Beyond Expressive Writing: Evolving Models of Developmental Creative Writing
 
-The article by Sophie Nicholls critiques the expressive writing paradigm, which has been influential in introducing the benefits of writing to health care. While Pennebaker's approach highlights the therapeutic value of disclosing thoughts and feelings about traumatic experiences through writing, it is predominantly experimental and quantitative. Nicholls argues that this model overlooks critical methodologies and approaches in health psychology and does not account for recent developments in creative writing’s role in personal development and well-being. She contrasts expressive writing theories with those emerging in developmental creative writing, emphasizing a need for more qualitative research to better understand the mechanisms behind positive outcomes. Nicholls proposes that certain techniques may help participants reconnect with their 'core' sense of self, grounded in bodily feelings, rather than just narrative self-conceptions. This article highlights the importance of moving beyond traditional expressive writing paradigms to explore richer frameworks that can enhance our understanding of how creative writing contributes to health and personal growth.
+The article by Sophie Nicholls critiques the expressive writing paradigm, which has been influential in introducing the benefits of writing to health care. While Pennebaker's approach highlights the therapeutic value of disclosing thoughts and feelings about traumatic experiences through writing, it is predominantly experimental and quantitative. Nicholls argues that this model overlooks critical methodologies and approaches in health psychology and does not account for recent developments in creative writingâ€™s role in personal development and well-being. She contrasts expressive writing theories with those emerging in developmental creative writing, emphasizing a need for more qualitative research to better understand the mechanisms behind positive outcomes. Nicholls proposes that certain techniques may help participants reconnect with their 'core' sense of self, grounded in bodily feelings, rather than just narrative self-conceptions. This article highlights the importance of moving beyond traditional expressive writing paradigms to explore richer frameworks that can enhance our understanding of how creative writing contributes to health and personal growth.
 
 ## Key Concepts
 
 - [expressive writing paradigm](../topics/expressive-writing-paradigm.md)
 - [developmental creative writing](../topics/developmental-creative-writing.md)
-- [therapeutic value of writing](../topics/therapeutic-value-of-writing.md)
+- [therapeutic value of writing](../topics/expressive-writing-paradigm.md)
 
 ## Tags
 

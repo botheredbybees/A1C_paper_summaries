@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Remembrance"
@@ -25,7 +25,7 @@ In Emma Barratt's poignant photo essay, 'Remembrance,' the author reflects on li
 ## Key Concepts
 
 - [memory loss due to illness](../topics/memory-loss-due-to-illness.md)
-- [transient human connection](../topics/transient-human-connection.md)
+- [transient human connection](../topics/memory-loss-due-to-illness.md)
 - [reclaiming fragmented memories](../topics/reclaiming-fragmented-memories.md)
 
 ## Tags

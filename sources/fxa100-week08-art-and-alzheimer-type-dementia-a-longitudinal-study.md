@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Art and Alzheimer-Type Dementia: A Longitudinal Study"
@@ -25,7 +25,7 @@ The study explores the impact of art activities on individuals with Alzheimer-ty
 ## Key Concepts
 
 - [compositional-complexity](../topics/compositional-complexity.md)
-- [pictorial-complexity](../topics/pictorial-complexity.md)
+- [cognitive-fluctuations](../topics/cognitive-fluctuations.md)
 - [cognitive-fluctuations](../topics/cognitive-fluctuations.md)
 
 ## Tags

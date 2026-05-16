@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Plato\u2019s Puppets of the Gods: Representing the Magical, the Mystical and the Metaphysical"
@@ -18,15 +18,15 @@ updated: 2026-05-03
 
 _All claims sourced from ../raw/pdf/fxa303-week05-platos-puppets-of-the-gods-representing-the-magical-the.md_
 
-## Plato’s Puppets of the Gods: Representing the Magical, the Mystical and the Metaphysical
+## Platoâ€™s Puppets of the Gods: Representing the Magical, the Mystical and the Metaphysical
 
-The article explores Plato’s metaphorical use of “puppets of the gods” in his work 'Laws'. This metaphor is central to understanding the controlled drinking party and issues surrounding sexual desire as part of a broader discussion on human psychology, law-making, and metaphysical representation. It connects Platonic philosophy with ancient Greek traditions concerning puppetry in religious and mystical contexts, illustrating concepts like self-mastery and divine inspiration inherent in Platonic thought. The metaphor also integrates Pythagorean elements, reflecting the complex interplay between reason (logismos) and emotional affections that guide human behavior.
+The article explores Platoâ€™s metaphorical use of â€œpuppets of the godsâ€ in his work 'Laws'. This metaphor is central to understanding the controlled drinking party and issues surrounding sexual desire as part of a broader discussion on human psychology, law-making, and metaphysical representation. It connects Platonic philosophy with ancient Greek traditions concerning puppetry in religious and mystical contexts, illustrating concepts like self-mastery and divine inspiration inherent in Platonic thought. The metaphor also integrates Pythagorean elements, reflecting the complex interplay between reason (logismos) and emotional affections that guide human behavior.
 
 ## Key Concepts
 
 - [self-mastery](../topics/self-mastery.md)
 - [divine-inspiration](../topics/divine-inspiration.md)
-- [reason-and-emotion-interplay](../topics/reason-and-emotion-interplay.md)
+- [divine-inspiration](../topics/divine-inspiration.md)
 
 ## Tags
 

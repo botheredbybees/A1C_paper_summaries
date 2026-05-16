@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "The impact of a visual arts program on quality of life, communication, and well-being of people living with dementia: a mixed-methods longitudinal investigation"
@@ -34,7 +34,7 @@ This study evaluates the impact of a visual arts program on quality of life, com
 - [visual-arts-program](../tags/visual-arts-program.md)
 - [quality-of-life](../tags/quality-of-life.md)
 - [communication-skills](../tags/communication-skills.md)
-- [well-being-enhancement](../tags/well-being-enhancement.md)
+- [creative-interventions-in-dementia-care](../tags/well-being-enhancement.md)
 - [longitudinal-study](../tags/longitudinal-study.md)
 - [fxa100](../tags/fxa100.md)
 

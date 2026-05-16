@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Arts-based research in aged care: Photovoice, documentary photography, and poetry"
@@ -26,7 +26,7 @@ This chapter details a unique arts-based research methodology that combines phot
 
 - [hermeneutic-phenomenology](../topics/hermeneutic-phenomenology.md)
 - [creative-arts-interventions](../topics/creative-arts-interventions.md)
-- [lived-experiences-of-aging](../topics/lived-experiences-of-aging.md)
+- [aging-experiences](../topics/aging-experiences.md)
 
 ## Tags
 

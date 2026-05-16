@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Music Therapy Disability Evidence Summary 2024"
@@ -25,7 +25,7 @@ The Australian Music Therapy Association's Disability Evidence Summary 2024 prov
 ## Key Concepts
 
 - [music therapy techniques](../topics/music-therapy-techniques.md)
-- [registered music therapists](../topics/registered-music-therapists.md)
+- [registered music therapists](../topics/music-therapy-techniques.md)
 - [community participation](../topics/community-participation.md)
 
 ## Tags

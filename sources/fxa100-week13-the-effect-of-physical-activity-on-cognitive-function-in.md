@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "The effect of physical activity on cognitive function in patients with dementia: A meta-analysis of randomized control trials"
@@ -35,7 +35,7 @@ This study, a meta-analysis of randomized control trials, investigates the impac
 - [dementia-management](../tags/dementia-management.md)
 - [meta-analysis](../tags/meta-analysis.md)
 - [patient-outcomes](../tags/patient-outcomes.md)
-- [non-pharmacological-interventions](../tags/non-pharmacological-interventions.md)
+- [cognitive-stimulation-therapy](../tags/non-pharmacological-interventions.md)
 - [fxa100](../tags/fxa100.md)
 
 ## Methods

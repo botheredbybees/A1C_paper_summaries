@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Week 4 Activities - FXA100 The Arts and Dementia Care"
@@ -22,13 +22,13 @@ _All claims sourced from ../raw/pdf/fxa100-week04-week-4-activities-fxa100-the-a
 
 ## Week 4 Activities - FXA100 The Arts and Dementia Care
 
-The document titled 'Week 4 Activities' for the course FXA100 – The Arts and Dementia Care is an instructional guide detailing week-specific activities, readings, quizzes, and discussion topics. It emphasizes the importance of checking enrollment status before the census date to avoid financial liability. Key reading materials include guidelines on community engagement from Arts Victoria and Victorian State Government publications as well as a research article by McIreney (2017) discussing dementia discourse. The document also lists several academic references focusing on singing, music therapy, and arts in health and wellbeing. No central argument is presented, but the relevance to creative arts and health lies in the provision of resources that support the integration of artistic practices in dementia care settings.
+The document titled 'Week 4 Activities' for the course FXA100 â€“ The Arts and Dementia Care is an instructional guide detailing week-specific activities, readings, quizzes, and discussion topics. It emphasizes the importance of checking enrollment status before the census date to avoid financial liability. Key reading materials include guidelines on community engagement from Arts Victoria and Victorian State Government publications as well as a research article by McIreney (2017) discussing dementia discourse. The document also lists several academic references focusing on singing, music therapy, and arts in health and wellbeing. No central argument is presented, but the relevance to creative arts and health lies in the provision of resources that support the integration of artistic practices in dementia care settings.
 
 ## Key Concepts
 
 - [dementia-discourse](../topics/dementia-discourse.md)
 - [music-therapy](../topics/music-therapy.md)
-- [singing-interventions](../topics/singing-interventions.md)
+- [group-music-therapy-for-dementia-patients](../topics/group-music-therapy-for-dementia-patients.md)
 
 ## Tags
 

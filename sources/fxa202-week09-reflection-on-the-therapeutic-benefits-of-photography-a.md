@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Reflection on the Therapeutic Benefits of Photography: A Personal Photo Essay Project"
@@ -31,7 +31,7 @@ Louise Raftery reflects on her experience using photography as a means to promot
 ## Tags
 
 - [therapeutic-benefits](../tags/therapeutic-benefits.md)
-- [photography-therapy](../tags/photography-therapy.md)
+- [mindfulness-and-therapeutic-photography](../tags/photography-therapy.md)
 - [mindfulness-practice](../tags/mindfulness-practice.md)
 - [emotional-healing](../tags/emotional-healing.md)
 - [self-reflection](../tags/self-reflection.md)

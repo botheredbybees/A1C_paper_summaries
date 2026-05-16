@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "NAIDOC Week: Aboriginal mural brings community together in Shortland"
@@ -24,7 +24,7 @@ This article highlights the positive impact of a large mural painting project in
 
 ## Key Concepts
 
-- [cultural-connection](../topics/cultural-connection.md)
+- [cross-cultural-understanding](../topics/cross-cultural-understanding.md)
 - [cross-cultural-understanding](../topics/cross-cultural-understanding.md)
 
 ## Tags

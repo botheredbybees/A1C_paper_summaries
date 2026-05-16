@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Chapter 11 Human development: how and why we change"
@@ -26,7 +26,7 @@ Chapter 11 of 'Psychology: From Inquiry to Understanding,' edited by Pat Dudgeon
 
 - [cognitive-development-theory](../topics/cognitive-development-theory.md)
 - [epigenetics](../topics/epigenetics.md)
-- [social-moral-development](../topics/social-moral-development.md)
+- [epigenetics](../topics/epigenetics.md)
 
 ## Tags
 

@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Recovery Oriented Language Guide"
@@ -26,7 +26,7 @@ The Recovery Oriented Language Guide, published by the Mental Health Coordinatin
 
 - [language-choice](../topics/language-choice.md)
 - [recovery-promotion](../topics/recovery-promotion.md)
-- [stigma-prevention](../topics/stigma-prevention.md)
+- [language-choice-in-mental-health-recovery](../topics/language-choice-in-mental-health-recovery.md)
 
 ## Tags
 

@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "A Systematic Review of Non-pharmacological Interventions for BPSD in Nursing Home Residents with Dementia"
@@ -30,7 +30,7 @@ This systematic review evaluates non-pharmacological interventions for Behaviora
 
 ## Tags
 
-- [non-pharmacological-interventions](../tags/non-pharmacological-interventions.md)
+- [cognitive-stimulation-therapy](../tags/non-pharmacological-interventions.md)
 - [bpsi-in-nursing-homes](../tags/bpsi-in-nursing-homes.md)
 - [dementia-care-ergonomics](../tags/dementia-care-ergonomics.md)
 - [fxa303](../tags/fxa303.md)

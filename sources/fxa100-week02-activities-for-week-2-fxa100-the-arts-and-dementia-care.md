@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Activities for Week 2 - FXA100 The Arts and Dementia Care"
@@ -27,13 +27,13 @@ The document also includes a discussion prompt that encourages reflection on per
 ## Key Concepts
 
 - [dementia-care](../topics/dementia-care.md)
-- [musical-engagement](../topics/musical-engagement.md)
+- [music-therapy-and-cognitive-stimulation-for-dementia-patients](../topics/music-therapy-and-cognitive-stimulation-for-dementia-patients.md)
 - [emotional-memory](../topics/emotional-memory.md)
 
 ## Tags
 
 - [music-therapy](../tags/music-therapy.md)
-- [neurological-disorders](../tags/neurological-disorders.md)
+- [lewy-body-dementia](../tags/neurological-disorders.md)
 - [memory-retrieval](../tags/memory-retrieval.md)
 - [cognitive-functioning](../tags/cognitive-functioning.md)
 - [reminiscence-therapy](../tags/reminiscence-therapy.md)

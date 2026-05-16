@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "What are the Required Elements Needed to Create an Effective Visual Art Intervention for People with Dementia? A Qualitative Exploration"
@@ -26,7 +26,7 @@ This paper explores the essential components necessary for an effective visual a
 
 - [effective-intervention-elements](../topics/effective-intervention-elements.md)
 - [participant-choice](../topics/participant-choice.md)
-- [skilled-facilitation](../topics/skilled-facilitation.md)
+- [elements-of-effective-visual-art-intervention](../topics/elements-of-effective-visual-art-intervention.md)
 
 ## Tags
 

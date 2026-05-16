@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Art and the Brain: the influence of frontotemporal dementia on an accomplished artist"
@@ -20,11 +20,11 @@ _All claims sourced from ../raw/pdf/fxa100-week06-art-and-the-brain-the-influenc
 
 ## Art and the Brain: the influence of frontotemporal dementia on an accomplished artist
 
-This article explores the case of an accomplished artist who developed frontotemporal dementia and was still able to paint despite significant declines in language and decision-making abilities. The study underscores the preservation of artistic capabilities even when other cognitive functions deteriorate due to dementia. Mell, Howard, and Miller’s research highlights that art creation can remain intact as a form of expression, providing valuable insights into how individuals with dementia perceive and experience their surroundings. This has significant implications for dementia care practices, suggesting that engagement in arts activities can enhance the quality of life for those living with dementia by maintaining cognitive pathways related to creativity.
+This article explores the case of an accomplished artist who developed frontotemporal dementia and was still able to paint despite significant declines in language and decision-making abilities. The study underscores the preservation of artistic capabilities even when other cognitive functions deteriorate due to dementia. Mell, Howard, and Millerâ€™s research highlights that art creation can remain intact as a form of expression, providing valuable insights into how individuals with dementia perceive and experience their surroundings. This has significant implications for dementia care practices, suggesting that engagement in arts activities can enhance the quality of life for those living with dementia by maintaining cognitive pathways related to creativity.
 
 ## Key Concepts
 
-- [preservation-of-creativity-in-dementia](../topics/preservation-of-creativity-in-dementia.md)
+- [preserved-creativity](../topics/preserved-creativity.md)
 - [artistic-expression-as-cognition](../topics/artistic-expression-as-cognition.md)
 
 ## Tags

@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "An adjunctive, museum-based art therapy experience in the treatment of women with severe eating disorders"
@@ -26,7 +26,7 @@ This study examines the feasibility and short-term impact of a museum-based art 
 
 - [body-image-concerns](../topics/body-image-concerns.md)
 - [self-expression](../topics/self-expression.md)
-- [patient-satisfaction](../topics/patient-satisfaction.md)
+- [body-image-concerns](../topics/body-image-concerns.md)
 
 ## Tags
 

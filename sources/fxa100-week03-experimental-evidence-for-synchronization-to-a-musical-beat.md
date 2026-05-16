@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Experimental Evidence for Synchronization to a Musical Beat in a Nonhuman Animal"
@@ -24,7 +24,7 @@ This study presents experimental evidence for synchronization to a musical beat 
 
 ## Key Concepts
 
-- [rhythmic-movement](../topics/rhythmic-movement.md)
+- [beat-synchronization](../topics/beat-synchronization.md)
 - [vocal-learning](../topics/vocal-learning.md)
 - [beat-synchronization](../topics/beat-synchronization.md)
 

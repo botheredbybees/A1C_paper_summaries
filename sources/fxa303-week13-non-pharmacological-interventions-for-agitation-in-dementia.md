@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Non-pharmacological interventions for agitation in dementia: systematic review of randomised controlled trials"
@@ -34,7 +34,7 @@ The article presents a systematic review of non-pharmacological interventions fo
 - [agitation-management](../tags/agitation-management.md)
 - [person-centered-care](../tags/person-centered-care.md)
 - [randomized-controlled-trials](../tags/randomized-controlled-trials.md)
-- [non-pharmacological-interventions](../tags/non-pharmacological-interventions.md)
+- [cognitive-stimulation-therapy](../tags/non-pharmacological-interventions.md)
 - [fxa303](../tags/fxa303.md)
 
 ## Methods

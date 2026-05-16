@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Therapeutic Puppetry and Wellbeing"
@@ -30,13 +30,13 @@ Therapeutic Puppetry and Wellbeing explores how puppets can be used as tools for
 
 ## Key Concepts
 
-- [puppets as diagnostic tools](../topics/puppets-as-diagnostic-tools.md)
+- [puppets as diagnostic tools](../topics/puppet-therapy.md)
 - [non-verbal expression](../topics/non-verbal-expression.md)
-- [psychological catharsis](../topics/psychological-catharsis.md)
+- [psychological catharsis](../topics/puppet-therapy.md)
 
 ## Tags
 
-- [therapeutic-puppetry](../tags/therapeutic-puppetry.md)
+- [puppet-therapy](../tags/therapeutic-puppetry.md)
 - [mental-health-interventions](../tags/mental-health-interventions.md)
 - [clinical-therapy](../tags/clinical-therapy.md)
 - [emotional-expression](../tags/emotional-expression.md)

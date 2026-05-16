@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Hormones and the Adolescent Brain"
@@ -24,7 +24,7 @@ The article explores the impact of hormones on adolescent brain development. Dur
 
 ## Key Concepts
 
-- [puberty](../topics/puberty.md)
+- [neural-circuitry-maturation](../topics/neural-circuitry-maturation.md)
 - [neural-circuitry-maturation](../topics/neural-circuitry-maturation.md)
 - [cognitive-functions](../topics/cognitive-functions.md)
 

@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: web-article
 title: "Creating Pathways: Insights on Support for Artists with Disability"
@@ -26,7 +26,7 @@ The Australia Council report 'Creating Pathways: Insights on Support for Artists
 
 - [accessibility](../topics/accessibility.md)
 - [representation](../topics/representation.md)
-- [diversity in arts](../topics/diversity-in-arts.md)
+- [diversity in arts](../topics/accessibility-in-the-arts.md)
 
 ## Tags
 

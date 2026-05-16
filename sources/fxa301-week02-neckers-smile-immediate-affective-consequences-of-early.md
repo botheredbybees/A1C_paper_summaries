@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Necker\u2019s smile: Immediate affective consequences of early perceptual processes"
@@ -18,15 +18,15 @@ updated: 2026-05-03
 
 _All claims sourced from ../raw/pdf/fxa301-week02-neckers-smile-immediate-affective-consequences-of-early.md_
 
-## Necker’s smile: Immediate affective consequences of early perceptual processes
+## Neckerâ€™s smile: Immediate affective consequences of early perceptual processes
 
 The study investigates the relationship between perceptual processes and affective responses, challenging the notion that perception and emotion are separate mental realms. The researchers propose a theory wherein affect is an integral component of perception, reflecting the success or failure of early visual processing stages instantaneously. Through five experiments involving brief presentations (ranging from 25 to 100 milliseconds) of stimuli with or without contours, they found that participants exhibited more positive affective responses towards stimuli that allowed Gestalt completion and disambiguation compared to those obstructing these processes. The study utilized both verbal preference ratings and facial electromyography to measure affective reactions, demonstrating the rapidity and subtlety of these responses. These findings suggest a direct link between successful early perceptual processing and positive affect, supporting the idea that perception and emotion are intricately connected.
 
 ## Key Concepts
 
-- [early-perceptual-processes](../topics/early-perceptual-processes.md)
 - [affect-as-component-of-perception](../topics/affect-as-component-of-perception.md)
-- [gestalt-theory](../topics/gestalt-theory.md)
+- [affect-as-component-of-perception](../topics/affect-as-component-of-perception.md)
+- [affect-as-component-of-perception](../topics/affect-as-component-of-perception.md)
 
 ## Tags
 

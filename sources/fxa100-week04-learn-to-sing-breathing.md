@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Learn to Sing: Breathing"
@@ -29,7 +29,7 @@ These breathing techniques are relevant to creative arts and health, especially 
 ## Key Concepts
 
 - [diaphragmatic-breathing](../topics/diaphragmatic-breathing.md)
-- [lung-capacity](../topics/lung-capacity.md)
+- [diaphragmatic-breathing](../topics/diaphragmatic-breathing.md)
 
 ## Tags
 

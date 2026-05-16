@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Imaging structural and functional brain development in early childhood"
@@ -24,7 +24,7 @@ This review discusses recent imaging studies that have started to elucidate the 
 
 ## Key Concepts
 
-- [structural-and-functional-brain-development](../topics/structural-and-functional-brain-development.md)
+- [early-childhood-neuropsychiatric-health](../topics/early-childhood-neuropsychiatric-health.md)
 - [early-childhood-neuropsychiatric-health](../topics/early-childhood-neuropsychiatric-health.md)
 - [genetic-environmental-influences](../topics/genetic-environmental-influences.md)
 

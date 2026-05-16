@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Neuroanatomy, Limbic System"
@@ -26,8 +26,8 @@ The document provides an overview of the limbic system's structure and function 
 
 ## Key Concepts
 
-- [hippocampus-memory-function](../topics/hippocampus-memory-function.md)
-- [amygdala-emotional-processing](../topics/amygdala-emotional-processing.md)
+- [the-hippocampus-in-brain-function](../topics/the-hippocampus-in-brain-function.md)
+- [the-limbic-system-in-brain-function-and-perception](../topics/the-limbic-system-in-brain-function-and-perception.md)
 - [cingulate-gyrus-cognitive-motivation](../topics/cingulate-gyrus-cognitive-motivation.md)
 
 ## Tags

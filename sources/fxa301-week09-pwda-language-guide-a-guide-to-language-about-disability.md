@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "PWDA Language Guide: A guide to language about disability"
@@ -27,7 +27,7 @@ The document also addresses the importance of the social model of disability ove
 ## Key Concepts
 
 - [person-first-language](../topics/person-first-language.md)
-- [identity-first-language](../topics/identity-first-language.md)
+- [ableist-language-in-communication-about-disability](../topics/ableist-language-in-communication-about-disability.md)
 - [ableist-language](../topics/ableist-language.md)
 
 ## Tags

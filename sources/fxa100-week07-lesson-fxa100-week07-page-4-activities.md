@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: lesson
 title: "Activities for Week 7"
@@ -25,7 +25,7 @@ The content outlines activities and readings for students to engage with the ben
 ## Key Concepts
 
 - [creativity in dementia care](../topics/creativity-in-dementia-care.md)
-- [non-pharmacological interventions](../topics/non-pharmacological-interventions.md)
+- [non-pharmacological interventions](../topics/cognitive-stimulation-therapy.md)
 
 ## Tags
 

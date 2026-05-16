@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Week 10 Lecture: Theatre and Play in Dementia Care"
@@ -22,13 +22,13 @@ _All claims sourced from ../raw/pdf/fxa100-week10-week-10-lecture-theatre-and-pl
 
 The Week 10 lecture on Theatre and Play in Dementia Care explores several initiatives designed to improve the quality of life for individuals suffering from dementia. Key among these is the Playful Engagement Project, a collaborative effort between Wesley Mission Brisbane, Griffith University researchers, and elderclowns. This project aims to address isolation, loneliness, disorientation, and disempowerment through playful engagement techniques that trigger long-term memory recall in participants with mid-to-late stage dementia. Elderclowns are specifically trained to elicit playful communication and pass on their knowledge to staff and carers, leading to observed positive changes such as increased laughter, comfort, and enjoyment among patients.
 
-The lecture also discusses Sundowner, a theatrical production developed by KAGE and Alzheimer’s Australia that aims to raise public awareness about dementia and the challenges faced by caregivers. The production emerged from collaborative workshops with carer groups and individuals experiencing younger-onset dementia and includes post-performance forums for reflection. These forums highlight the importance of non-verbal communication in conveying the lived experiences of dementia.
+The lecture also discusses Sundowner, a theatrical production developed by KAGE and Alzheimerâ€™s Australia that aims to raise public awareness about dementia and the challenges faced by caregivers. The production emerged from collaborative workshops with carer groups and individuals experiencing younger-onset dementia and includes post-performance forums for reflection. These forums highlight the importance of non-verbal communication in conveying the lived experiences of dementia.
 
-Additionally, the lecture touches upon other arts programs like Timeslips and Alzheimer’s Poetry Project, which use creative storytelling and poetry to engage people with dementia in meaningful ways, shifting focus from memory recollection to imagination and emotional expression. The discussion concludes with reflections on how drama and theatre can raise awareness about mental illness, promoting empathy and understanding within society.
+Additionally, the lecture touches upon other arts programs like Timeslips and Alzheimerâ€™s Poetry Project, which use creative storytelling and poetry to engage people with dementia in meaningful ways, shifting focus from memory recollection to imagination and emotional expression. The discussion concludes with reflections on how drama and theatre can raise awareness about mental illness, promoting empathy and understanding within society.
 
 ## Key Concepts
 
-- [Playful Engagement Project](../topics/playful-engagement-project.md)
+- [Playful Engagement Project](../topics/alzheimer-s-poetry-project.md)
 - [Sundowner Theatre Production](../topics/sundowner-theatre-production.md)
 - [Timeslips Program](../topics/timeslips-program.md)
 - [Alzheimer's Poetry Project](../topics/alzheimers-poetry-project.md)

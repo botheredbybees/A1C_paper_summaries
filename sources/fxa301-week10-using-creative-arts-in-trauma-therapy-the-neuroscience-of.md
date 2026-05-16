@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Using Creative Arts in Trauma Therapy: The Neuroscience of Healing"
@@ -24,8 +24,8 @@ This article examines the role of creative arts therapies in trauma treatment, e
 
 ## Key Concepts
 
-- [perceptual-biases-in-trauma](../topics/perceptual-biases-in-trauma.md)
-- [neural-rehabilitation-through-therapeutic-intervention](../topics/neural-rehabilitation-through-therapeutic-intervention.md)
+- [emotional-expression-and-body-movement](../topics/emotional-expression-and-body-movement.md)
+- [emotional-expression-and-body-movement](../topics/emotional-expression-and-body-movement.md)
 - [emotional-expression-and-body-movement](../topics/emotional-expression-and-body-movement.md)
 
 ## Tags

@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "The early adolescent brain on music: Analysis of functional dynamics reveals engagement of orbitofrontal cortex reward system"
@@ -26,7 +26,7 @@ This research article investigates how music listening modulates brain activity 
 
 - [medial-orbitofrontal-cortex](../topics/medial-orbitofrontal-cortex.md)
 - [ventromedial-prefrontal-cortex](../topics/ventromedial-prefrontal-cortex.md)
-- [musical-reward-sensitivity](../topics/musical-reward-sensitivity.md)
+- [medial-orbitofrontal-cortex-in-adolescent-music-processing](../topics/medial-orbitofrontal-cortex-in-adolescent-music-processing.md)
 
 ## Tags
 

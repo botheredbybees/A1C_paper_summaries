@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Creative Pathways for Juvenile Justice: An Overview of Current Evidence and Literature"
@@ -20,11 +20,11 @@ _All claims sourced from ../raw/pdf/fxa303-week11-creative-pathways-for-juvenile
 
 ## Creative Pathways for Juvenile Justice: An Overview of Current Evidence and Literature
 
-This report, prepared by the Creative Arts Research Institute at Griffith University for Big hART in August 2023, examines the potential of music programs to address challenges within juvenile justice systems. It identifies a need for innovative solutions that prioritize prevention and rehabilitation over punitive measures. Music-based interventions are highlighted as effective tools for reducing aggression, self-harm, and violence among justice-involved youth while promoting self-esteem, confidence, and cultural identity. The report draws on 66 major studies and includes case studies from Big hART’s work in Western Australia's Pilbara region. It advocates for a whole-person approach to support young people through adolescence towards healthier futures.
+This report, prepared by the Creative Arts Research Institute at Griffith University for Big hART in August 2023, examines the potential of music programs to address challenges within juvenile justice systems. It identifies a need for innovative solutions that prioritize prevention and rehabilitation over punitive measures. Music-based interventions are highlighted as effective tools for reducing aggression, self-harm, and violence among justice-involved youth while promoting self-esteem, confidence, and cultural identity. The report draws on 66 major studies and includes case studies from Big hARTâ€™s work in Western Australia's Pilbara region. It advocates for a whole-person approach to support young people through adolescence towards healthier futures.
 
 ## Key Concepts
 
-- [music-based interventions](../topics/music-based-interventions.md)
+- [music-based interventions](../topics/group-music-therapy-for-dementia-patients.md)
 - [whole-person approach](../topics/whole-person-approach.md)
 
 ## Tags

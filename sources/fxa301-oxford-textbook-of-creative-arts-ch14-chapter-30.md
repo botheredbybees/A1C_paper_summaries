@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: book-chapter
 book_title: "Oxford Textbook Of Creative Arts"
@@ -19,14 +19,14 @@ updated: 2026-05-03
 
 _All claims sourced from ../raw/pdf/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30.md_
 
-## Case study: engaging older people in creative thinking—the Active Energy project
+## Case study: engaging older people in creative thinkingâ€”the Active Energy project
 
 This chapter details the Active Energy project, initiated through an art commission by SPACE Studios London in response to a Queen Mary University of London study on older people's engagement with clubs and classes in Tower Hamlets. The project aimed to address social isolation among retired men over 50 by encouraging them to participate in community activities and contribute their ideas and expertise. Through a series of sessions, the Geezers Club members explored tidal power as an alternative energy source for London, leveraging local knowledge and skills with academic support from experts at University of East London. The project resulted in public art installations and intergenerational workshops that fostered renewable energy education among youth while empowering elderly participants through creative problem-solving.
 
 ## Key Concepts
 
 - [democratization-of-technology](../topics/democratization-of-technology.md)
-- [intergenerational-partnerships](../topics/intergenerational-partnerships.md)
+- [democratization-of-technology](../topics/democratization-of-technology.md)
 - [social-innovation](../topics/social-innovation.md)
 
 ## Tags

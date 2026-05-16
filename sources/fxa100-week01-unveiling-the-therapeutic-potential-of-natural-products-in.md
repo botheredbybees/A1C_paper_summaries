@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Unveiling the therapeutic potential of natural products in Alzheimer\u2019s disease: insights from in vitro, in vivo, and clinical studies"
@@ -18,15 +18,15 @@ updated: 2026-05-03
 
 _All claims sourced from ../raw/pdf/fxa100-week01-unveiling-the-therapeutic-potential-of-natural-products-in.md_
 
-## Unveiling the therapeutic potential of natural products in Alzheimer’s disease: insights from in vitro, in vivo, and clinical studies
+## Unveiling the therapeutic potential of natural products in Alzheimerâ€™s disease: insights from in vitro, in vivo, and clinical studies
 
-This review article investigates the therapeutic potential of natural products in treating Alzheimer’s disease (AD), a multifactorial neurodegenerative disorder characterized by progressive cognitive decline and neuronal dysfunction. Current pharmacological treatments provide limited symptomatic relief without addressing underlying pathophysiological mechanisms, highlighting the need for innovative, multi-targeted therapies. The study synthesizes findings from network pharmacology, in vitro, in vivo, and clinical studies to evaluate the role of herbal medicines and plant-derived compounds in AD treatment. These natural products exert neuroprotective effects by mitigating oxidative stress, suppressing neuroinflammation, inhibiting tau hyperphosphorylation, reducing amyloid-beta aggregation, and enhancing synaptic plasticity. Notably, compounds like curcumin, resveratrol, and ginsenosides show promising benefits in clinical trials when integrated with conventional AD medications. The review also highlights advancements in experimental models such as brain organoids and transgenic animals that aid in mechanistic studies and therapeutic validation. By advocating a multidisciplinary approach that merges traditional medicine, modern pharmacology, and precision medicine, this work contributes to reshaping the landscape of AD therapy, providing a roadmap for future research and fostering novel treatment paradigms.
+This review article investigates the therapeutic potential of natural products in treating Alzheimerâ€™s disease (AD), a multifactorial neurodegenerative disorder characterized by progressive cognitive decline and neuronal dysfunction. Current pharmacological treatments provide limited symptomatic relief without addressing underlying pathophysiological mechanisms, highlighting the need for innovative, multi-targeted therapies. The study synthesizes findings from network pharmacology, in vitro, in vivo, and clinical studies to evaluate the role of herbal medicines and plant-derived compounds in AD treatment. These natural products exert neuroprotective effects by mitigating oxidative stress, suppressing neuroinflammation, inhibiting tau hyperphosphorylation, reducing amyloid-beta aggregation, and enhancing synaptic plasticity. Notably, compounds like curcumin, resveratrol, and ginsenosides show promising benefits in clinical trials when integrated with conventional AD medications. The review also highlights advancements in experimental models such as brain organoids and transgenic animals that aid in mechanistic studies and therapeutic validation. By advocating a multidisciplinary approach that merges traditional medicine, modern pharmacology, and precision medicine, this work contributes to reshaping the landscape of AD therapy, providing a roadmap for future research and fostering novel treatment paradigms.
 
 ## Key Concepts
 
-- [oxidative-stress-mitigation](../topics/oxidative-stress-mitigation.md)
 - [amyloid-beta-aggregation-suppression](../topics/amyloid-beta-aggregation-suppression.md)
-- [neuroprotective-effects](../topics/neuroprotective-effects.md)
+- [amyloid-beta-aggregation-suppression](../topics/amyloid-beta-aggregation-suppression.md)
+- [amyloid-beta-aggregation-suppression](../topics/amyloid-beta-aggregation-suppression.md)
 
 ## Tags
 

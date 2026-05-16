@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Personalized Music for Persons with Dementia and Their Life Quality: Report on a Pilot Study of In-Home Use"
@@ -26,7 +26,7 @@ This paper discusses the impact of personalized music on individuals with dement
 
 - [customized playlists](../topics/customized-playlists.md)
 - [therapeutic benefits of music](../topics/therapeutic-benefits-of-music.md)
-- [social interaction and emotional well-being](../topics/social-interaction-and-emotional-well-being.md)
+- [social interaction and emotional well-being](../topics/customized-playlists.md)
 
 ## Tags
 

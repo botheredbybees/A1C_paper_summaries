@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "The 2024 Happy Planet Index"
@@ -30,7 +30,7 @@ Key lessons from the report emphasize the importance of moving beyond GDP-centri
 
 ## Key Concepts
 
-- [life-expectancy](../topics/life-expectancy.md)
+- [carbon-footprint-and-sustainable-well-being](../topics/carbon-footprint-and-sustainable-well-being.md)
 - [self-reported-wellbeing](../topics/self-reported-wellbeing.md)
 - [carbon-footprint](../topics/carbon-footprint.md)
 

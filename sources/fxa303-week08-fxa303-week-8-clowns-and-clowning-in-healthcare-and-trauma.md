@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "FXA303 Week 8: Clowns and Clowning in Healthcare and Trauma Relief"
@@ -24,9 +24,9 @@ This week of FXA303 Creative Arts, Play and Mental Wellbeing focuses on the role
 
 ## Key Concepts
 
-- [hospital-clowns](../topics/hospital-clowns.md)
-- [physical-comedy-healing](../topics/physical-comedy-healing.md)
-- [social-barriers-transcendence](../topics/social-barriers-transcendence.md)
+- [therapeutic-clowning](../topics/therapeutic-clowning.md)
+- [therapeutic-clowning](../topics/therapeutic-clowning.md)
+- [therapeutic-clowning](../topics/therapeutic-clowning.md)
 
 ## Tags
 

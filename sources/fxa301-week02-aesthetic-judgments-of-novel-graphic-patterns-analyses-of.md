@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Aesthetic Judgments of Novel Graphic Patterns: Analyses of Individual Judgments"
@@ -20,13 +20,13 @@ _All claims sourced from ../raw/pdf/fxa301-week02-aesthetic-judgments-of-novel-g
 
 ## Aesthetic Judgments of Novel Graphic Patterns: Analyses of Individual Judgments
 
-The study by Jacobsen-Höfel and Höfel explores aesthetic judgments made on novel graphic patterns, focusing on symmetry and complexity as primary factors influencing such evaluations. The authors utilized a combination of nomothetic (group-level) and idiographic (individual-level) approaches to analyze the judgment strategies employed by participants in evaluating these patterns based on their personal definitions of 'beauty'. They found that symmetry had the strongest correlation with aesthetic judgments, followed closely by complexity. Despite this general agreement at the group level, individual differences were significant, with some participants finding asymmetrical patterns more aesthetically pleasing than symmetric ones. The study underscores the importance of considering both group-level and individual-level analyses in empirical aesthetics research to avoid oversimplification or misrepresentation of aesthetic judgments.
+The study by Jacobsen-HÃ¶fel and HÃ¶fel explores aesthetic judgments made on novel graphic patterns, focusing on symmetry and complexity as primary factors influencing such evaluations. The authors utilized a combination of nomothetic (group-level) and idiographic (individual-level) approaches to analyze the judgment strategies employed by participants in evaluating these patterns based on their personal definitions of 'beauty'. They found that symmetry had the strongest correlation with aesthetic judgments, followed closely by complexity. Despite this general agreement at the group level, individual differences were significant, with some participants finding asymmetrical patterns more aesthetically pleasing than symmetric ones. The study underscores the importance of considering both group-level and individual-level analyses in empirical aesthetics research to avoid oversimplification or misrepresentation of aesthetic judgments.
 
 ## Key Concepts
 
 - [symmetry](../topics/symmetry.md)
 - [complexity](../topics/complexity.md)
-- [personal-definition-of-beauty](../topics/personal-definition-of-beauty.md)
+- [complexity-in-aesthetics](../topics/complexity-in-aesthetics.md)
 
 ## Tags
 

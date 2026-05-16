@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Age-related differences in white matter diffusion measures in autism spectrum condition"
@@ -24,7 +24,7 @@ This study examines age-related differences in white matter diffusion measures a
 
 ## Key Concepts
 
-- [white matter diffusion measures](../topics/white-matter-diffusion-measures.md)
+- [white matter diffusion measures](../topics/fractional-anisotropy-in-white-matter-diffusion.md)
 - [fractional anisotropy (FA)](../topics/fractional anisotropy (FA).md)
 - [radial diffusivity (RD)](../topics/radial diffusivity (RD).md)
 

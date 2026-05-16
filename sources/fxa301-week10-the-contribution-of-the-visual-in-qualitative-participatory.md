@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "The Contribution of the Visual in Qualitative Participatory Art-Based Research Methods within the Mental Health Field"
@@ -32,7 +32,7 @@ Maria Fjellfeldt's study aims to advance understanding of the visual element in 
 
 - [mental-health-research](../tags/mental-health-research.md)
 - [participatory-arts-methods](../tags/participatory-arts-methods.md)
-- [visual-ethnography](../tags/visual-ethnography.md)
+- [methodological-diversity-in-visual-anthropology](../tags/visual-ethnography.md)
 - [fxa301](../tags/fxa301.md)
 
 ## Methods

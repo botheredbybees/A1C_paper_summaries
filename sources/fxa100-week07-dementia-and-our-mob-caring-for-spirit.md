@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Dementia and Our Mob: Caring for Spirit"
@@ -20,7 +20,7 @@ _All claims sourced from ../raw/pdf/fxa100-week07-dementia-and-our-mob-caring-fo
 
 ## Dementia and Our Mob: Caring for Spirit
 
-The document 'Dementia and Our Mob' discusses dementia within the context of Aboriginal and Torres Strait Islander communities in Australia. It clarifies that dementia, contrary to popular belief, is not a normal part of aging but affects more older individuals than younger ones. The text highlights that while genes can increase risk, other factors such as earlier life experiences, social and emotional wellbeing, health decisions, and environmental influences also play significant roles. Notably, the prevalence rates are higher in Aboriginal communities compared to non-Aboriginal populations. Mr Eric Deeral’s statement emphasizes a cultural perspective that dementia is not merely a physical condition but involves a ‘sick spirit’ or lost spirit seeking help (Wawu Warra), indicating an interplay between spiritual and physiological aspects of health.
+The document 'Dementia and Our Mob' discusses dementia within the context of Aboriginal and Torres Strait Islander communities in Australia. It clarifies that dementia, contrary to popular belief, is not a normal part of aging but affects more older individuals than younger ones. The text highlights that while genes can increase risk, other factors such as earlier life experiences, social and emotional wellbeing, health decisions, and environmental influences also play significant roles. Notably, the prevalence rates are higher in Aboriginal communities compared to non-Aboriginal populations. Mr Eric Deeralâ€™s statement emphasizes a cultural perspective that dementia is not merely a physical condition but involves a â€˜sick spiritâ€™ or lost spirit seeking help (Wawu Warra), indicating an interplay between spiritual and physiological aspects of health.
 
 The document underscores the importance of understanding dementia within the unique socio-cultural context of Indigenous Australians, recognizing its impacts on community life and individual spirituality. It advocates for holistic approaches to care that consider not just medical interventions but also cultural and spiritual support systems.
 
@@ -28,7 +28,7 @@ The document underscores the importance of understanding dementia within the uni
 
 - [socio-cultural context](../topics/socio-cultural-context.md)
 - [holistic care approach](../topics/holistic-care-approach.md)
-- [spiritual health](../topics/spiritual-health.md)
+- [spiritual health](../topics/holistic-care-approach.md)
 
 ## Tags
 

@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Preserved painting creativity in an artist with Alzheimer\u2019s disease"
@@ -18,14 +18,14 @@ updated: 2026-05-03
 
 _All claims sourced from ../raw/pdf/fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers.md_
 
-## Preserved painting creativity in an artist with Alzheimer’s disease
+## Preserved painting creativity in an artist with Alzheimerâ€™s disease
 
-This article explores the preserved painting creativity of a talented artist diagnosed with early-onset Alzheimer’s disease (AD). The study presents a case report of Ms Danae Chambers, an accomplished Canadian painter who experienced significant cognitive decline but maintained her artistic skills until late in the progression of AD. Despite severe impairments in verbal episodic memory and executive functions, Chambers retained her visual attention capacity and short-term recall abilities. Neuroimaging findings indicated hypoperfusion in specific brain areas and mild atrophy. The research underscores the dissociation between cognitive deterioration and preserved creativity, suggesting that artistic talent may be supported by distinct neural pathways even as other cognitive functions decline.
+This article explores the preserved painting creativity of a talented artist diagnosed with early-onset Alzheimerâ€™s disease (AD). The study presents a case report of Ms Danae Chambers, an accomplished Canadian painter who experienced significant cognitive decline but maintained her artistic skills until late in the progression of AD. Despite severe impairments in verbal episodic memory and executive functions, Chambers retained her visual attention capacity and short-term recall abilities. Neuroimaging findings indicated hypoperfusion in specific brain areas and mild atrophy. The research underscores the dissociation between cognitive deterioration and preserved creativity, suggesting that artistic talent may be supported by distinct neural pathways even as other cognitive functions decline.
 
 ## Key Concepts
 
 - [preserved creativity](../topics/preserved-creativity.md)
-- [dissociation between cognition and art](../topics/dissociation-between-cognition-and-art.md)
+- [dissociation between cognition and art](../topics/preserved-creativity.md)
 - [neural pathways](../topics/neural-pathways.md)
 
 ## Tags

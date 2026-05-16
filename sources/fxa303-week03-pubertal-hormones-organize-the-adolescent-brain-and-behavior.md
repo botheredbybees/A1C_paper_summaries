@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Pubertal hormones organize the adolescent brain and behavior"
@@ -24,7 +24,7 @@ This review paper explores the relationship between pubertal hormones and their 
 
 ## Key Concepts
 
-- [pubertal hormones](../topics/pubertal-hormones.md)
+- [pubertal hormones](../topics/neuroendocrinological-effects-of-pubertal-hormones.md)
 - [organizational effects](../topics/organizational-effects.md)
 - [neuroendocrinology](../topics/neuroendocrinology.md)
 

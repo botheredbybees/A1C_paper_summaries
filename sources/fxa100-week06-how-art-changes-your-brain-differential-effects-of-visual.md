@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "How Art Changes Your Brain: Differential Effects of Visual Art Production and Cognitive Art Evaluation on Functional Brain Connectivity"
@@ -25,7 +25,7 @@ This study investigates the impact of visual art production and cognitive evalua
 ## Key Concepts
 
 - [default-mode-network](../topics/default-mode-network.md)
-- [functional-brain-connectivity](../topics/functional-brain-connectivity.md)
+- [brain-connectivity-in-autism-and-art-production](../topics/brain-connectivity-in-autism-and-art-production.md)
 - [resilience-to-stress](../topics/resilience-to-stress.md)
 
 ## Tags

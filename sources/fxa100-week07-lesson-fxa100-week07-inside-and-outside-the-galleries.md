@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: lesson
 title: "Other Programs Inside and Outside of Galleries"
@@ -26,7 +26,7 @@ This lesson explores various programs designed to engage individuals with dement
 
 - [dementia engagement programs](../topics/dementia-engagement-programs.md)
 - [photographic images in therapy](../topics/photographic-images-in-therapy.md)
-- [indigenous dementia care](../topics/indigenous-dementia-care.md)
+- [indigenous dementia care](../topics/dementia-engagement-programs.md)
 
 ## Tags
 

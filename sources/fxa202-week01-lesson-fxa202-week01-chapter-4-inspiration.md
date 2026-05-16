@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: lesson
 title: "Planning Your Photo Essay: Arts and Health Themes"
@@ -25,7 +25,7 @@ This lesson focuses on the theme of 'Arts and Health' for creating a photo essay
 ## Key Concepts
 
 - [Arts and Health theme](../topics/arts-and-health-theme.md)
-- [Critical Reflection in Photo Essays](../topics/critical-reflection-in-photo-essays.md)
+- [Critical Reflection in Photo Essays](../topics/arts-and-health-themes.md)
 
 ## Tags
 

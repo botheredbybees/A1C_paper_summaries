@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Photography tips: Point of View Composition"
@@ -24,7 +24,7 @@ Bill Hatcher discusses the application of point of view (POV) composition in pho
 
 ## Key Concepts
 
-- [point-of-view-composition](../topics/point-of-view-composition.md)
+- [dynamic-perspectives-in-photography](../topics/dynamic-perspectives-in-photography.md)
 - [dynamic-perspectives](../topics/dynamic-perspectives.md)
 - [unique-vantage-points](../topics/unique-vantage-points.md)
 

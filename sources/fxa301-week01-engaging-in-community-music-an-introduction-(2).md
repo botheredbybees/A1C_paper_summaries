@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Engaging in Community Music: An Introduction"
@@ -32,7 +32,7 @@ This introductory text explores the growing field of community music, emphasizin
 - [community-music](../tags/community-music.md)
 - [non-formal-education](../tags/non-formal-education.md)
 - [social-transformation](../tags/social-transformation.md)
-- [musical-engagement](../tags/musical-engagement.md)
+- [music-therapy-and-cognitive-stimulation-for-dementia-patients](../tags/musical-engagement.md)
 - [inclusive-practices](../tags/inclusive-practices.md)
 - [fxa301](../tags/fxa301.md)
 

@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "For visitors with dementia"
@@ -37,7 +37,7 @@ Overall, the document underscores the significant role that contemporary art can
 ## Tags
 
 - [dementia-care](../tags/dementia-care.md)
-- [therapeutic-art](../tags/therapeutic-art.md)
+- [creative-interventions-in-dementia-care](../tags/therapeutic-art.md)
 - [inclusive-education](../tags/inclusive-education.md)
 - [fxa100](../tags/fxa100.md)
 

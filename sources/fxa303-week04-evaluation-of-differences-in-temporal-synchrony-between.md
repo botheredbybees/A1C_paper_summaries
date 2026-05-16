@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Evaluation of Differences in Temporal Synchrony Between Brain Regions in Individuals With Autism and Typical Development"
@@ -24,10 +24,10 @@ This study investigates the temporal dynamics of functional brain connectivity i
 
 ## Key Concepts
 
-- [functional brain connectivity](../topics/functional-brain-connectivity.md)
+- [functional brain connectivity](../topics/brain-connectivity-in-autism-and-art-production.md)
 - [temporal synchrony](../topics/temporal-synchrony.md)
-- [cognitive processing speed](../topics/cognitive-processing-speed.md)
-- [neural network dynamics](../topics/neural-network-dynamics.md)
+- [cognitive processing speed](../topics/autism-symptom-severity.md)
+- [neural network dynamics](../topics/autism-symptom-severity.md)
 - [autism symptom severity](../topics/autism-symptom-severity.md)
 
 ## Tags

@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Trauma-informed care in the creative arts therapies"
@@ -25,7 +25,7 @@ This editorial discusses the importance of trauma-informed care in creative arts
 ## Key Concepts
 
 - [trauma-informed care](../topics/trauma-informed-care.md)
-- [sensory-based interventions](../topics/sensory-based-interventions.md)
+- [sensory-based interventions](../topics/developmental-trauma-disorder.md)
 - [developmental trauma disorder](../topics/developmental-trauma-disorder.md)
 
 ## Tags

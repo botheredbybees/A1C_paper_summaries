@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Non-pharmacological Interventions to Reduce Behavioral and Psychological Symptoms of Dementia"
@@ -30,7 +30,7 @@ This article explores the prevalence and impact of behavioral and psychological 
 ## Tags
 
 - [dementia-care](../tags/dementia-care.md)
-- [non-pharmacological-interventions](../tags/non-pharmacological-interventions.md)
+- [cognitive-stimulation-therapy](../tags/non-pharmacological-interventions.md)
 - [behavioral-symptoms](../tags/behavioral-symptoms.md)
 - [fxa100](../tags/fxa100.md)
 

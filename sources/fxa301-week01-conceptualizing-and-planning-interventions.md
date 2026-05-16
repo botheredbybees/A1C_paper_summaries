@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Conceptualizing and planning interventions"
@@ -35,7 +35,7 @@ Chapter 5 of 'Arts in Health: Designing and researching interventions' by Daisy 
 ## Key Concepts
 
 - [PESTLE analysis](../topics/pestle-analysis.md)
-- [arts-based interventions](../topics/arts-based-interventions.md)
+- [arts-based interventions](../topics/creative-interventions-in-dementia-care.md)
 - [stakeholder support](../topics/stakeholder-support.md)
 
 ## Tags

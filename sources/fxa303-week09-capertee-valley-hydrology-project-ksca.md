@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Capertee Valley Hydrology Project \u2014 KSCA"
@@ -18,16 +18,16 @@ updated: 2026-05-03
 
 _All claims sourced from ../raw/pdf/fxa303-week09-capertee-valley-hydrology-project-ksca.md_
 
-## Capertee Valley Hydrology Project — KSCA
+## Capertee Valley Hydrology Project â€” KSCA
 
 The Capertee Valley Hydrology Project, initiated by Kandos School of Cultural Adaptation (KSCA) in Spring 2019, aims to restore the hydrological balance and ecological health of the Capertee Valley. The valley has faced challenges due to prolonged drought conditions, extensive bushfires, and historical land management practices that have led to significant environmental degradation. Key stakeholders involved include CV Landcare, KSCA artists, traditional custodians, and the Mulloon Institute. The project focuses on slowing water flow across various landscape features such as creeks, tributaries, and eroded gullies to promote natural regeneration processes and enhance ecosystem resilience. This initiative draws inspiration from the successful Mulloon Community Landscape Rehydration Project near Canberra, which has set a precedent for large-scale catchment restoration projects. The Capertee Valley Hydrology Project not only addresses environmental issues but also aims to boost community morale through collaborative efforts and educational activities.
 
 ## Key Concepts
 
-- [landscape-rehydration](../topics/landscape-rehydration.md)
+- [catchment-restoration](../topics/catchment-restoration.md)
 - [catchment-restoration](../topics/catchment-restoration.md)
 - [community-participation](../topics/community-participation.md)
-- [sustainable-land-use](../topics/sustainable-land-use.md)
+- [catchment-restoration](../topics/catchment-restoration.md)
 
 ## Tags
 

@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Art as Therapy"
@@ -20,12 +20,12 @@ _All claims sourced from ../raw/pdf/fxa301-week05-art-as-therapy.md_
 
 ## Art as Therapy
 
-The article 'Art as Therapy' by James Haywood Rolling Jr., in the role of Editor, discusses how art can serve therapeutic functions beyond mere aesthetic or self-expression purposes. The author draws from personal experience to illustrate how engaging in artistic creation during times of emotional turmoil—such as after a romantic disappointment—can provide healing and self-recovery. He emphasizes that art therapy involves resolving internal conflicts through creative processes, leading to increased well-being. The article highlights various aspects of integrating therapeutic benefits into educational practices across different contexts, including elementary school classrooms, autism spectrum disorder student support, adolescent stress management, and inclusive teaching methods for special education. It underscores the importance of fostering safe environments where students can take risks creatively and emphasizes collaborative approaches between art educators and therapists to address trauma and enhance learning experiences.
+The article 'Art as Therapy' by James Haywood Rolling Jr., in the role of Editor, discusses how art can serve therapeutic functions beyond mere aesthetic or self-expression purposes. The author draws from personal experience to illustrate how engaging in artistic creation during times of emotional turmoilâ€”such as after a romantic disappointmentâ€”can provide healing and self-recovery. He emphasizes that art therapy involves resolving internal conflicts through creative processes, leading to increased well-being. The article highlights various aspects of integrating therapeutic benefits into educational practices across different contexts, including elementary school classrooms, autism spectrum disorder student support, adolescent stress management, and inclusive teaching methods for special education. It underscores the importance of fostering safe environments where students can take risks creatively and emphasizes collaborative approaches between art educators and therapists to address trauma and enhance learning experiences.
 
 ## Key Concepts
 
-- [therapeutic functions of art](../topics/therapeutic-functions-of-art.md)
-- [emotional healing through creativity](../topics/emotional-healing-through-creativity.md)
+- [therapeutic functions of art](../topics/art-as-therapy.md)
+- [emotional healing through creativity](../topics/art-as-therapy.md)
 - [collaborative teaching approaches](../topics/collaborative-teaching-approaches.md)
 
 ## Tags

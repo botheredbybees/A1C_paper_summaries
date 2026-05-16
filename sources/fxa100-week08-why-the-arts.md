@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Why the Arts?"
@@ -25,7 +25,7 @@ The text explores the concept of creativity in the context of dementia care, arg
 ## Key Concepts
 
 - [creativity in dementia](../topics/creativity-in-dementia.md)
-- [self-expression through arts](../topics/self-expression-through-arts.md)
+- [self-expression through arts](../topics/enhancing-well-being-through-the-arts.md)
 - [enhancing well-being](../topics/enhancing-well-being.md)
 
 ## Tags

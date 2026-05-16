@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: book-chapter
 book_title: "Arts In Health"
@@ -25,7 +25,7 @@ This chapter discusses the development of partnerships between arts organization
 ## Key Concepts
 
 - [case-for-support-document](../topics/case-for-support-document.md)
-- [project-brief-components](../topics/project-brief-components.md)
+- [case-for-support-document](../topics/case-for-support-document.md)
 
 ## Tags
 

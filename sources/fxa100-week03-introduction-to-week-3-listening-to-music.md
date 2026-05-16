@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Introduction to Week 3: Listening to Music"
@@ -24,7 +24,7 @@ This document introduces Week 3 of a course on arts and dementia care, focusing 
 
 ## Key Concepts
 
-- [Music and Memory project](../topics/music-and-memory-project.md)
+- [Music and Memory project](../topics/rhythmic-entrainment.md)
 - [Power of Music and Dementia Study](../topics/power-of-music-and-dementia-study.md)
 - [rhythmic entrainment](../topics/rhythmic-entrainment.md)
 

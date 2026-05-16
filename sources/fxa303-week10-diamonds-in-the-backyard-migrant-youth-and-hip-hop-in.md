@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Diamonds in the Backyard: Migrant Youth and Hip Hop in Australian Regional Towns"
@@ -24,14 +24,14 @@ This chapter explores the role of hip hop among migrant youth in Australia's reg
 
 ## Key Concepts
 
-- [Hip hop culture](../topics/hip-hop-culture.md)
-- [Migrant youth experiences](../topics/migrant-youth-experiences.md)
+- [Hip hop culture](../topics/cultural-identity-negotiation-through-hip-hop.md)
+- [Migrant youth experiences](../topics/cultural-identity-negotiation-through-hip-hop.md)
 - [Cultural identity negotiation](../topics/cultural-identity-negotiation.md)
 
 ## Tags
 
 - [migrant-youth](../tags/migrant-youth.md)
-- [hip-hop-culture](../tags/hip-hop-culture.md)
+- [cultural-identity-negotiation-through-hip-hop](../tags/hip-hop-culture.md)
 - [regional-australia](../tags/regional-australia.md)
 - [cultural-expression](../tags/cultural-expression.md)
 - [identity-negotiation](../tags/identity-negotiation.md)

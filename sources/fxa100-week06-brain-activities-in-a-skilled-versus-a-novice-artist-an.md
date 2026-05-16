@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Brain Activities in a Skilled versus a Novice Artist: An fMRI Study"
@@ -26,7 +26,7 @@ The study by Solso investigates the brain activity of a skilled portrait artist,
 
 - [functional-magnetic-resonance-imaging](../topics/functional-magnetic-resonance-imaging.md)
 - [neurological-basis-of-expertise](../topics/neurological-basis-of-expertise.md)
-- [visual-information-processing](../topics/visual-information-processing.md)
+- [neurological-basis-of-expertise](../topics/neurological-basis-of-expertise.md)
 
 ## Tags
 

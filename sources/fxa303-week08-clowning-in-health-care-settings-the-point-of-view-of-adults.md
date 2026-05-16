@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Clowning in Health Care Settings: The Point of View of Adults"
@@ -30,7 +30,7 @@ This paper explores the concept and effects of medical clowning on adults within
 
 ## Tags
 
-- [medical-clowning](../tags/medical-clowning.md)
+- [therapeutic-clowning](../tags/medical-clowning.md)
 - [healthcare-environment](../tags/healthcare-environment.md)
 - [patient-experience](../tags/patient-experience.md)
 - [adult-patients](../tags/adult-patients.md)

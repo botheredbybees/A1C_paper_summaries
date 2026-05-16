@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "An Art Gallery Access Programme for people with dementia: \u2018You do it for the moment\u2019"
@@ -18,14 +18,14 @@ updated: 2026-05-03
 
 _All claims sourced from ../raw/pdf/fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia.md_
 
-## An Art Gallery Access Programme for people with dementia: ‘You do it for the moment’
+## An Art Gallery Access Programme for people with dementia: â€˜You do it for the momentâ€™
 
 This study examines an art gallery access program designed for individuals with dementia, focusing on its impact and engagement levels. The research involved 15 community participants and 8 from residential care who visited the National Gallery of Australia (NGA) weekly for six weeks to discuss artworks with trained educators. Observations indicated high levels of participant engagement, animated behavior, and confidence during sessions. Notably, even those with severe dementia exhibited positive outcomes, suggesting a reduction in excess disability. Focus groups revealed mixed memory retention among participants but unanimous enthusiasm for the program's continuation. Although no long-term effects were observed, carers noted immediate benefits such as reduced agitation. The study underscores the importance of providing intellectually stimulating activities that recognize and utilize residual strengths in individuals with dementia.
 
 ## Key Concepts
 
 - [excess disability reduction](../topics/excess-disability-reduction.md)
-- [participant engagement](../topics/participant-engagement.md)
+- [participant engagement](../topics/memory-retention-impact.md)
 - [memory retention impact](../topics/memory-retention-impact.md)
 
 ## Tags

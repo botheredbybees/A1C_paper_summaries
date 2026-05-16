@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Singing boosts brain activity in Alzheimer\u2019s patients, scientists say"
@@ -18,14 +18,14 @@ updated: 2026-05-03
 
 _All claims sourced from ../raw/pdf/fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients.md_
 
-## Singing boosts brain activity in Alzheimer’s patients, scientists say
+## Singing boosts brain activity in Alzheimerâ€™s patients, scientists say
 
 A study conducted in a care home found that singing in group music sessions significantly improves cognitive abilities and life satisfaction among patients with moderate to severe dementia. Participants were divided into two groups: one sang songs from their young adult years, while the other listened. After four months, the singing group showed markedly improved cognition compared to those who only listened. The study emphasizes the importance of engaging activities like singing for dementia patients, as it is inexpensive and can be effective even in advanced stages of the disease.
 
 ## Key Concepts
 
 - [group music therapy](../topics/group-music-therapy.md)
-- [cognitive decline reversal](../topics/cognitive-decline-reversal.md)
+- [cognitive decline reversal](../topics/group-music-therapy-for-dementia-patients.md)
 - [life satisfaction enhancement](../topics/life-satisfaction-enhancement.md)
 
 ## Tags

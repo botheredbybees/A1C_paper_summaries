@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "'Autism is a way of being': An \u2018insider perspective\u2019 on neurodiversity, music therapy and social justice"
@@ -18,13 +18,13 @@ updated: 2026-05-03
 
 _All claims sourced from ../raw/pdf/fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on.md_
 
-## 'Autism is a way of being': An ‘insider perspective’ on neurodiversity, music therapy and social justice
+## 'Autism is a way of being': An â€˜insider perspectiveâ€™ on neurodiversity, music therapy and social justice
 
 Hilary Davies, an autistic music therapist and researcher, explores the concept of neurodiversity from an 'insider perspective.' The article highlights that neurodiversity views autism as a natural part of human diversity rather than a pathology to be cured. It delves into the historical context and theories of neurodiversity, emphasizing its potential influence on music therapy practice and discourse. Davies argues for re-framing autistic characteristics such as stimming within an autistic culture framework and identifies a need for more research in this area. The article also underscores the importance of recognizing power dynamics, unconscious bias, and privilege within therapeutic relationships to ensure social justice.
 
 ## Key Concepts
 
-- [neurodiversity-theory](../topics/neurodiversity-theory.md)
+- [neurodiversity](../topics/neurodiversity.md)
 - [power-dynamics-in-therapy](../topics/power-dynamics-in-therapy.md)
 - [stimming-as-cultural-practice](../topics/stimming-as-cultural-practice.md)
 

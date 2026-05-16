@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: lesson
 title: "Scenarios of Inclusive Arts and Project Planning"
@@ -31,7 +31,7 @@ This lesson explores two inclusive arts project scenarios: Singing to Health for
 
 - [inclusive-arts](../tags/inclusive-arts.md)
 - [health-wellbeing-outcomes](../tags/health-wellbeing-outcomes.md)
-- [participant-engagement](../tags/participant-engagement.md)
+- [memory-retention-impact](../tags/participant-engagement.md)
 - [fxa301](../tags/fxa301.md)
 
 ## Methods

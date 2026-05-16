@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "The Global Refugee Crisis: Empirical Evidence and Policy Implications for Improving Public Attitudes and Facilitating Refugee Resettlement"
@@ -25,7 +25,7 @@ The article explores the global refugee crisis, examining empirical evidence and
 ## Key Concepts
 
 - [public attitudes towards refugees](../topics/public-attitudes-towards-refugees.md)
-- [refugee resettlement policies](../topics/refugee-resettlement-policies.md)
+- [refugee resettlement policies](../topics/mental-health-impacts-on-refugees.md)
 - [media representation of refugees](../topics/media-representation-of-refugees.md)
 - [mental health impacts on refugees](../topics/mental-health-impacts-on-refugees.md)
 - [successful integration strategies](../topics/successful-integration-strategies.md)

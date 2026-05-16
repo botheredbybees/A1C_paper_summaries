@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Current Emotion Research in Music Psychology"
@@ -26,7 +26,7 @@ This article reviews recent research in music psychology focusing on the connect
 
 - [emotional-expressiveness](../topics/emotional-expressiveness.md)
 - [affective-responses](../topics/affective-responses.md)
-- [culturally-specific-musical-expectations](../topics/culturally-specific-musical-expectations.md)
+- [affective-responses-in-music-psychology](../topics/affective-responses-in-music-psychology.md)
 
 ## Tags
 

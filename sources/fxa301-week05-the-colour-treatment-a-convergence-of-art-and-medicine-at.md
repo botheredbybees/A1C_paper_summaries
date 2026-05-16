@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "The Colour Treatment: A Convergence of Art and Medicine at the Red Cross Russell Lea Nerve Home"
@@ -20,11 +20,11 @@ _All claims sourced from ../raw/pdf/fxa301-week05-the-colour-treatment-a-converg
 
 ## The Colour Treatment: A Convergence of Art and Medicine at the Red Cross Russell Lea Nerve Home
 
-This article explores the historical context of a 'colour treatment' experiment at the Red Cross Russell Lea Nerve Home in Sydney, Australia, from 1919 to 1923, focusing on the role of Roy de Maistre and Howard Kemp Prossor. The room was painted using specially selected colors designed for treating soldiers suffering from nervous disorders caused by shell shock during World War I. Although widely reported in the popular press at the time, this therapeutic color scheme was largely ignored by the medical profession. The paper highlights the convergence of art and medicine through de Maistre's work, which influenced his subsequent artistic experiments with abstract color theory. It emphasizes how historical narratives have often focused on de Maistre’s contributions to modern Australian art rather than his involvement in pioneering medical practices using color therapy.
+This article explores the historical context of a 'colour treatment' experiment at the Red Cross Russell Lea Nerve Home in Sydney, Australia, from 1919 to 1923, focusing on the role of Roy de Maistre and Howard Kemp Prossor. The room was painted using specially selected colors designed for treating soldiers suffering from nervous disorders caused by shell shock during World War I. Although widely reported in the popular press at the time, this therapeutic color scheme was largely ignored by the medical profession. The paper highlights the convergence of art and medicine through de Maistre's work, which influenced his subsequent artistic experiments with abstract color theory. It emphasizes how historical narratives have often focused on de Maistreâ€™s contributions to modern Australian art rather than his involvement in pioneering medical practices using color therapy.
 
 ## Key Concepts
 
-- [colour treatment](../topics/colour-treatment.md)
+- [colour treatment](../topics/color-therapy-for-nervous-disorders.md)
 - [nervous disorders](../topics/nervous-disorders.md)
 - [abstract color theory](../topics/abstract-color-theory.md)
 

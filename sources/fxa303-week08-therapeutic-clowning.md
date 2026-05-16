@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Therapeutic Clowning"
@@ -24,9 +24,9 @@ This document discusses the history and contemporary application of therapeutic 
 
 ## Key Concepts
 
-- [clown-doctor-sessions](../topics/clown-doctor-sessions.md)
+- [therapeutic-clowning](../topics/therapeutic-clowning.md)
 - [reduced-fear-and-anxiety](../topics/reduced-fear-and-anxiety.md)
-- [communication-improvement](../topics/communication-improvement.md)
+- [therapeutic-clowning](../topics/therapeutic-clowning.md)
 
 ## Tags
 

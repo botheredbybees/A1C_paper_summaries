@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Sundown Syndrome in Persons with Dementia: An Update"
@@ -25,7 +25,7 @@ Sundown syndrome, a common clinical phenomenon among demented individuals, invol
 ## Key Concepts
 
 - [circadian-rhythmicity](../topics/circadian-rhythmicity.md)
-- [suprachiasmatic-nucleus-degeneration](../topics/suprachiasmatic-nucleus-degeneration.md)
+- [circadian-rhythmicity](../topics/circadian-rhythmicity.md)
 - [melatonin-production](../topics/melatonin-production.md)
 
 ## Tags

@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "FXA303 Week 5 Welcome"
@@ -32,7 +32,7 @@ This document introduces the fifth week of the FXA303 course, marking a transiti
 
 - [mental-wellbeing](../tags/mental-wellbeing.md)
 - [creative-play](../tags/creative-play.md)
-- [puppetry-therapy](../tags/puppetry-therapy.md)
+- [puppet-therapy](../tags/puppetry-therapy.md)
 - [trauma-narratives](../tags/trauma-narratives.md)
 - [cultural-storytelling](../tags/cultural-storytelling.md)
 - [emotional-support](../tags/emotional-support.md)

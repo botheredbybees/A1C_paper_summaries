@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Puppet-Assisted Play Therapy: Theory, Research, and Practice"
@@ -25,8 +25,8 @@ Cheryl Hulburd's book 'Puppet-Assisted Play Therapy' offers an innovative approa
 
 ## Key Concepts
 
-- [theoretical-underpinnings-of-play-therapy](../topics/theoretical-underpinnings-of-play-therapy.md)
-- [therapeutic-engagement-through-puppets](../topics/therapeutic-engagement-through-puppets.md)
+- [puppet-therapy](../topics/puppet-therapy.md)
+- [puppet-therapy](../topics/puppet-therapy.md)
 
 ## Tags
 

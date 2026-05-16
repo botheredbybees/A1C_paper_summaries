@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Critical Reflection: My Photo Essay"
@@ -24,13 +24,13 @@ This critical reflection by Melanie Hall explores the creation and therapeutic b
 
 ## Key Concepts
 
-- [postnatal depression](../topics/postnatal-depression.md)
-- [therapeutic benefits of photography](../topics/therapeutic-benefits-of-photography.md)
+- [postnatal depression](../topics/mindfulness-and-coping-mechanisms.md)
+- [therapeutic benefits of photography](../topics/emotional-expression-through-art.md)
 - [mindfulness and coping mechanisms](../topics/mindfulness-and-coping-mechanisms.md)
 
 ## Tags
 
-- [postnatal-depression](../tags/postnatal-depression.md)
+- [mindfulness-and-coping-mechanisms](../tags/postnatal-depression.md)
 - [creative-therapy](../tags/creative-therapy.md)
 - [photo-journalism](../tags/photo-journalism.md)
 - [mental-health-recovery](../tags/mental-health-recovery.md)

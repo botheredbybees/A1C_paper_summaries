@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Developmental Psychology: From Infancy to Adulthood (Chapter 13 Conclusions)"
@@ -22,13 +22,13 @@ _All claims sourced from ../raw/pdf/fxa303-week04-developmental-psychology-from-
 
 This chapter from 'Developmental Psychology: From Infancy to Adulthood' by Livesey et al., provides an overview of key themes and challenges in the field of developmental psychology. It highlights the importance of understanding both genetic (nature) and environmental (nurture) factors in shaping human development across the lifespan. The text emphasizes that development is a result of continuous interaction between these two elements rather than one being superior to the other at different stages of life. Key examples are discussed, such as the prenatal influence on auditory system development and the role of critical periods for learning specific skills like language syntax.
 
-The chapter also addresses the distinction between theories advocating continuity versus discontinuity in developmental processes. It concludes that many developments do not follow a strictly continuous or discontinuous pattern but rather exhibit a blend of both, often depending on the focus of observation—underlying cognitive processes vs. observable behaviors. This nuanced view challenges simplistic dichotomies and calls for a more integrative approach to studying human development.
+The chapter also addresses the distinction between theories advocating continuity versus discontinuity in developmental processes. It concludes that many developments do not follow a strictly continuous or discontinuous pattern but rather exhibit a blend of both, often depending on the focus of observationâ€”underlying cognitive processes vs. observable behaviors. This nuanced view challenges simplistic dichotomies and calls for a more integrative approach to studying human development.
 
 ## Key Concepts
 
 - [nature-and-nurture-interaction](../topics/nature-and-nurture-interaction.md)
 - [critical-periods-for-learning](../topics/critical-periods-for-learning.md)
-- [continuity-versus-discontinuity-in-development](../topics/continuity-versus-discontinuity-in-development.md)
+- [continuity-and-discontinuity-in-developmental-psychology](../topics/continuity-and-discontinuity-in-developmental-psychology.md)
 
 ## Tags
 

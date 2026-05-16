@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Puppet as a Pedagogical Tool: A Literature Review"
@@ -25,7 +25,7 @@ The article presents a literature review of the use of puppets as pedagogical to
 ## Key Concepts
 
 - [communication-generation](../topics/communication-generation.md)
-- [positive-classroom-climate](../topics/positive-classroom-climate.md)
+- [attitude-change](../topics/attitude-change.md)
 - [cooperative-learning](../topics/cooperative-learning.md)
 - [attitude-change](../topics/attitude-change.md)
 

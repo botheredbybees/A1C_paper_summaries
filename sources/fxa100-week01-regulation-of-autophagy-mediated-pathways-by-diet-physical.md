@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 source_type: paper
 title: "Regulation of autophagy-mediated pathways by diet, physical activity, and sleep in Alzheimer\u2019s disease"
@@ -18,7 +18,7 @@ updated: 2026-05-03
 
 _All claims sourced from ../raw/pdf/fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical.md_
 
-## Regulation of autophagy-mediated pathways by diet, physical activity, and sleep in Alzheimer’s disease
+## Regulation of autophagy-mediated pathways by diet, physical activity, and sleep in Alzheimerâ€™s disease
 
 This review article discusses the regulation of autophagy-mediated pathways in Alzheimer's disease (AD) influenced by lifestyle factors such as diet, physical activity, and sleep. Autophagy is a cellular degradation process critical for maintaining neuronal health; its dysfunction contributes to protein aggregation, which is central to AD pathology. The study highlights how intermittent fasting, calorie restriction, regular exercise, and adequate sleep can positively influence autophagic processes and support cognitive function. Conversely, excessive or impaired autophagy may exacerbate neurodegeneration. The review underscores the need for a balanced autophagic response and emphasizes the importance of developing non-pharmacological strategies to delay or prevent AD by modulating lifestyle factors. It also points out limitations in current models and markers for measuring brain-specific autophagy, calling for further research to identify reliable biomarkers and establish safe thresholds for intervention effectiveness.
 
@@ -27,7 +27,7 @@ This review article discusses the regulation of autophagy-mediated pathways in A
 - [autophagy-mediated pathways](../topics/autophagy-mediated-pathways.md)
 - [protein aggregation](../topics/protein-aggregation.md)
 - [non-pharmacological strategies](../topics/non-pharmacological-strategies.md)
-- [brain-specific autophagy markers](../topics/brain-specific-autophagy-markers.md)
+- [brain-specific autophagy markers](../topics/autophagy-mediated-pathways.md)
 
 ## Tags
 
