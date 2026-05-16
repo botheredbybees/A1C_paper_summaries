@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "A Review of the Literature: The Use of Interactive Puppet Simulation in Nursing Education and Children's Healthcare"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.1016/j.nepr.2016.12.001
 appearances:
   - unit: FXA303
     week: "06"
-tags: ["nursing-education", "interactive-puppets", "child-healthcare", "play-therapy", "simulation-methods", "diabetes-management", "fxa303"]
+tags: ["child-healthcare", "diabetes-management", "fxa303", "interactive-puppet-simulation-in-child-healthcare", "interactive-puppets", "nursing-education", "play-therapy", "simulation-methods"]
 key_concepts: ["puppet-simulation", "three-way-communication-tool", "expressive-therapeutics"]
 methods: ["systematic-review"]
 slug: fxa303-week06-a-review-of-the-literature-the-use-of-interactive-puppet
@@ -24,9 +24,7 @@ This review explores the use of puppets in health care and nursing education, fo
 
 ## Key Concepts
 
-- [interactive-puppet-simulation-in-child-healthcare](../topics/interactive-puppet-simulation-in-child-healthcare.md)
 - [three-way-communication-tool](../topics/three-way-communication-tool.md)
-- [interactive-puppet-simulation-in-child-healthcare](../topics/interactive-puppet-simulation-in-child-healthcare.md)
 
 ## Tags
 

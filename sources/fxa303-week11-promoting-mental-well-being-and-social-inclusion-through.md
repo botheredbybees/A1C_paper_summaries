@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/17533015.2010.541267
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["mental-health-art", "social-inclusion", "arts-therapy", "well-being-measurement", "focus-groups", "fxa303"]
+tags: ["arts-therapy", "focus-groups", "fxa303", "mental-health-art", "participant-satisfaction", "social-inclusion", "well-being-measurement"]
 key_concepts: ["mental well-being", "social inclusion", "art therapy", "participant satisfaction"]
 methods: ["formative evaluation", "outcome evaluation"]
 slug: fxa303-week11-promoting-mental-well-being-and-social-inclusion-through
@@ -27,7 +27,6 @@ This study evaluates the impact of introductory art courses provided by an arts 
 - [mental well-being](../topics/mental-well-being.md)
 - [social inclusion](../topics/social-inclusion.md)
 - [art therapy](../topics/art-therapy.md)
-- [participant satisfaction](../topics/participant-satisfaction.md)
 
 ## Tags
 

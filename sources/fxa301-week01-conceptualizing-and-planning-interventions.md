@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Conceptualizing and planning interventions"
@@ -17,7 +17,7 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
-tags: ["arts-in-health", "intervention-planning", "pestle-analysis", "healthcare-interventions", "management-principles", "fxa301"]
+tags: ["arts-in-health", "fxa301", "healthcare-interventions", "intervention-planning", "management-principles", "pestle-analysis", "stakeholder-support"]
 key_concepts: ["PESTLE analysis", "arts-based interventions", "stakeholder support"]
 methods: ["systematic approach"]
 slug: fxa301-week01-conceptualizing-and-planning-interventions
@@ -36,7 +36,6 @@ Chapter 5 of 'Arts in Health: Designing and researching interventions' by Daisy 
 
 - [PESTLE analysis](../topics/pestle-analysis.md)
 - [arts-based interventions](../topics/creative-interventions-in-dementia-care.md)
-- [stakeholder support](../topics/stakeholder-support.md)
 
 ## Tags
 

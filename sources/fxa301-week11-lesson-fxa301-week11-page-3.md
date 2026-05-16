@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["arts-and-refugees", "community-art-projects", "cross-cultural-dialogue", "fxa301"]
+tags: ["art-for-healing", "arts-and-refugees", "community-art-projects", "cross-cultural-dialogue", "cultural-identity-preservation", "fxa301", "intercultural-understanding"]
 key_concepts: ["cultural-identity-preservation", "intercultural-understanding", "art-for-healing"]
 methods: []
 slug: fxa301-week11-lesson-fxa301-week11-page-3
@@ -24,9 +24,7 @@ This lesson explores how arts and creative projects can support refugees in thei
 
 ## Key Concepts
 
-- [cultural-identity-preservation](../topics/cultural-identity-preservation.md)
-- [intercultural-understanding](../topics/intercultural-understanding.md)
-- [art-for-healing](../topics/art-for-healing.md)
+- *(none identified)*
 
 ## Tags
 

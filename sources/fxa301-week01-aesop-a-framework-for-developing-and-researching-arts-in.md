@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/17533015.2014.924974
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["arts-in-health", "research-framework", "interdisciplinary-studies", "methodological-guidelines", "fxa301"]
+tags: ["aesop-framework", "arts-in-health", "fxa301", "interdisciplinary-studies", "methodological-guidelines", "research-framework", "standardized-approach"]
 key_concepts: ["Aesop framework", "standardized approach"]
 methods: ["framework development"]
 slug: fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in
@@ -24,8 +24,7 @@ The article introduces Aesop, a framework designed to address the challenges fac
 
 ## Key Concepts
 
-- [Aesop framework](../topics/aesop-framework.md)
-- [standardized approach](../topics/standardized-approach.md)
+- *(none identified)*
 
 ## Tags
 

@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["ethical-conduct-human-research", "human-participants-rights", "research-ethics-guidelines", "fxa301"]
+tags: ["ethical-conduct-guidelines", "ethical-conduct-human-research", "fxa301", "human-participants-rights", "human-research-ethics-committees-hrecs", "research-ethics-guidelines"]
 key_concepts: ["Human Research Ethics Committees (HRECs)", "Ethical Conduct Guidelines"]
 methods: []
 slug: fxa301-week01-national-statement-on-ethical-conduct-in-human-research
@@ -24,8 +24,7 @@ This document is the rescinded 'National Statement on Ethical Conduct in Human R
 
 ## Key Concepts
 
-- [Human Research Ethics Committees (HRECs)](../topics/human-research-ethics-committees-hrecs.md)
-- [Ethical Conduct Guidelines](../topics/ethical-conduct-guidelines.md)
+- *(none identified)*
 
 ## Tags
 

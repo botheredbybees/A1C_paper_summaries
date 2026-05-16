@@ -7,7 +7,7 @@ doi: https://doi.org/10.1017/S0144686X14000038
 appearances:
   - unit: FXA301
     week: "08"
-tags: ["older-people", "theatre-in-community", "interdisciplinary-research", "fxa301"]
+tags: ["creative-participation", "fxa301", "interdisciplinary-research", "older-people", "stereotypes-of-ageing", "theatre-in-community"]
 key_concepts: ["creative-participation", "stereotypes-of-ageing"]
 methods: []
 slug: fxa301-week08-web-article-bernard-2015
@@ -24,8 +24,7 @@ This paper examines the role of theatre in the lives of older people through a c
 
 ## Key Concepts
 
-- [creative-participation](../topics/creative-participation.md)
-- [stereotypes-of-ageing](../topics/stereotypes-of-ageing.md)
+- *(none identified)*
 
 ## Tags
 

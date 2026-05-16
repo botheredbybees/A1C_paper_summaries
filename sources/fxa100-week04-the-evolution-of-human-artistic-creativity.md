@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "The evolution of human artistic creativity"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.1111/j.1469-7580.2009.01160.x
 appearances:
   - unit: FXA100
     week: "04"
-tags: ["art-evolution", "cognitive-abilities", "human-behavior", "paleolithic-artifacts", "african-origin", "visual-cognition", "fxa100"]
+tags: ["african-origin", "art-evolution", "cognitive-abilities", "entoptic-phenomena-in-art", "fxa100", "human-behavior", "paleolithic-artifacts", "visual-cognition"]
 key_concepts: ["entoptic phenomena", "neural structures for art creation", "regional artistic diversity"]
 methods: ["review article"]
 slug: fxa100-week04-the-evolution-of-human-artistic-creativity
@@ -31,8 +31,6 @@ The author suggests that the cognitive capability to separate artistic creation 
 ## Key Concepts
 
 - [entoptic phenomena](../topics/entoptic-phenomena.md)
-- [neural structures for art creation](../topics/entoptic-phenomena-in-art.md)
-- [regional artistic diversity](../topics/entoptic-phenomena-in-art.md)
 
 ## Tags
 

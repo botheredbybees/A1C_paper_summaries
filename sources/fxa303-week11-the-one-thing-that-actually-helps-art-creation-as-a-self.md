@@ -7,7 +7,7 @@ doi: https://doi.org/10.1016/j.childyouth.2018.08.002
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["youth-homelessness", "self-care-practices", "art-therapy", "mental-health-challenges", "trauma-recovery", "fxa303"]
+tags: ["art-therapy", "arts-creation", "fxa303", "mental-health-challenges", "mental-health-management", "self-care-practices", "trauma-recovery", "youth-homelessness"]
 key_concepts: ["arts creation", "self-care practices", "mental health management"]
 methods: ["qualitative interviews"]
 slug: fxa303-week11-the-one-thing-that-actually-helps-art-creation-as-a-self
@@ -24,9 +24,7 @@ This study explores the significance and impact of arts creation for youth exper
 
 ## Key Concepts
 
-- [arts creation](../topics/arts-creation.md)
 - [self-care practices](../topics/self-care-practices.md)
-- [mental health management](../topics/mental-health-management.md)
 
 ## Tags
 

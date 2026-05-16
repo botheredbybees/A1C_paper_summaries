@@ -7,7 +7,7 @@ doi: https://doi.org/10.1056/NEJMoa022252
 appearances:
   - unit: FXA100
     week: "11"
-tags: ["dementia-prevention", "cognitive-activities", "elderly-health", "brain-stimulation", "neurodegeneration-risk-factors", "fxa100"]
+tags: ["brain-stimulation", "cognitive-activities", "dementia-prevention", "dementia-risk-reduction", "elderly-health", "fxa100", "leisure-activity-engagement", "neurodegeneration-risk-factors"]
 key_concepts: ["cognitive-reserve", "dementia-risk-reduction", "leisure-activity-engagement"]
 methods: ["longitudinal-study", "cohort-analysis"]
 slug: fxa100-week11-leisure-activities-and-the-risk-of-dementia-in-the-elderly
@@ -25,8 +25,6 @@ The study investigates the relationship between participation in leisure activit
 ## Key Concepts
 
 - [cognitive-reserve](../topics/cognitive-reserve.md)
-- [dementia-risk-reduction](../topics/dementia-risk-reduction.md)
-- [leisure-activity-engagement](../topics/leisure-activity-engagement.md)
 
 ## Tags
 

@@ -7,7 +7,7 @@ doi: https://doi.org/10.59298/ROJPHM/2024/416871
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["art-therapy", "mental-health-treatment", "digital-innovation", "trauma-care", "therapeutic-modality", "fxa100"]
+tags: ["art-therapy", "digital-innovation", "emotional-addressing", "fxa100", "mental-health-treatment", "therapeutic-modality", "trauma-care"]
 key_concepts: ["non-verbal-expression", "emotional-addressing", "trauma-informed-care"]
 methods: ["systematic-review"]
 slug: fxa100-week13-the-future-of-art-therapy-in-mental-health-treatment
@@ -25,7 +25,6 @@ This paper explores the historical roots, current applications, and future poten
 ## Key Concepts
 
 - [non-verbal-expression](../topics/non-verbal-expression.md)
-- [emotional-addressing](../topics/emotional-addressing.md)
 - [trauma-informed-care](../topics/trauma-informed-care.md)
 
 ## Tags

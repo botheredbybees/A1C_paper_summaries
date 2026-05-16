@@ -7,7 +7,7 @@ doi: https://doi.org/10.1017/S1041610216001654
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["dementia-care", "nursing-home-placement", "elderly-healthcare", "cognitive-decline", "behavioral-symptoms", "fxa303"]
+tags: ["activities-of-daily-living-adl-impairments", "behavioral-symptoms", "cognitive-decline", "dementia-care", "elderly-healthcare", "fxa303", "nursing-home-placement"]
 key_concepts: ["modifiable risk factors", "behavioral and psychological symptoms of dementia (BPSD)", "activities of daily living (ADL) impairments"]
 methods: ["systematic review", "meta-analysis"]
 slug: fxa303-week13-causes-of-nursing-home-placement-for-older-people-with
@@ -26,7 +26,6 @@ This systematic review and meta-analysis examines the factors contributing to nu
 
 - [modifiable risk factors](../topics/modifiable-risk-factors.md)
 - [behavioral and psychological symptoms of dementia (BPSD)](../topics/behavioral-and-psychological-symptoms-of-dementia-bpsd.md)
-- [activities of daily living (ADL) impairments](../topics/activities-of-daily-living-adl-impairments.md)
 
 ## Tags
 

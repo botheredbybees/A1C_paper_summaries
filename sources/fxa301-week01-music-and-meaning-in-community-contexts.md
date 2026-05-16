@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["music-and-meaning", "community-music", "ethnographic-research", "identity-formation", "social-cohesion", "authentic-engagement", "fxa301"]
+tags: ["authentic-engagement", "community-music", "constructivist-theory", "ethnographic-research", "fxa301", "identity-formation", "music-and-meaning", "social-cohesion"]
 key_concepts: ["personal-identity", "constructivist-theory"]
 methods: ["ethnographic-research"]
 slug: fxa301-week01-music-and-meaning-in-community-contexts
@@ -29,7 +29,6 @@ Overall, the chapter underscores the importance of understanding how music contr
 ## Key Concepts
 
 - [personal-identity](../topics/personal-identity.md)
-- [constructivist-theory](../topics/constructivist-theory.md)
 
 ## Tags
 

@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/14790726.2024.2388316
 appearances:
   - unit: FXA202
     week: "13"
-tags: ["phenomenology-applied", "creative-practices", "street-photography", "poetry", "fxa202"]
+tags: ["applied-phenomenology", "creative-practices", "fxa202", "phenomenology-applied", "poetry", "street-photography", "suspension-of-preconceptions"]
 key_concepts: ["applied phenomenology", "lived experience", "suspension of preconceptions"]
 methods: ["case study"]
 slug: fxa202-week13-an-applied-phenomenology-the-inner-life-of-writing-poetry
@@ -24,9 +24,7 @@ Eddie Tay's paper 'An applied phenomenology: the inner life of writing poetry wi
 
 ## Key Concepts
 
-- [applied phenomenology](../topics/applied-phenomenology.md)
 - [lived experience](../topics/lived-experience.md)
-- [suspension of preconceptions](../topics/suspension-of-preconceptions.md)
 
 ## Tags
 

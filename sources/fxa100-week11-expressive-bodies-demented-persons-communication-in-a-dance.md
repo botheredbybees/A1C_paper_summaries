@@ -7,7 +7,7 @@ doi: https://doi.org/10.1177/1363459305052902
 appearances:
   - unit: FXA100
     week: "11"
-tags: ["dementia-communication", "dance-therapy", "expressive-bodies", "quality-of-life", "fxa100"]
+tags: ["dance-therapy", "dementia-communication", "expressive-bodies", "fxa100", "multi-modal-expression", "quality-of-life"]
 key_concepts: ["dance therapy", "non-verbal communication", "multi-modal expression"]
 methods: ["qualitative study"]
 slug: fxa100-week11-expressive-bodies-demented-persons-communication-in-a-dance
@@ -26,7 +26,6 @@ This study explores the communication abilities of individuals with dementia thr
 
 - [dance therapy](../topics/dance-therapy.md)
 - [non-verbal communication](../topics/non-verbal-communication.md)
-- [multi-modal expression](../topics/multi-modal-expression.md)
 
 ## Tags
 

@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA303
     week: "10"
-tags: ["arts-based-therapy", "mental-wellbeing", "play-based-learning", "child-development", "trauma-intervention", "fxa303"]
+tags: ["arts-based-therapy", "child-development", "cultural-appropriateness", "fxa303", "mental-wellbeing", "play-based-learning", "program-design-analysis", "trauma-intervention"]
 key_concepts: ["cultural-appropriateness", "program-design-analysis", "critical-reflection"]
 methods: ["case-study"]
 slug: fxa303-week10-fxa303-web-lecture-week-10-guidance-on-assessment-task-4
@@ -24,8 +24,6 @@ The document provides guidance for Assessment Task 4 in the course FXA303, which
 
 ## Key Concepts
 
-- [cultural-appropriateness](../topics/cultural-appropriateness.md)
-- [program-design-analysis](../topics/program-design-analysis.md)
 - [critical-reflection](../topics/critical-reflection.md)
 
 ## Tags

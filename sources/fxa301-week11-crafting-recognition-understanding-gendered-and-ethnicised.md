@@ -7,7 +7,7 @@ doi: https://doi.org/10.3390/arts12060227
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["gendered-experiences", "ethnicised-practices", "arts-based-integration", "social-recognition", "cultural-backgrounds", "handicraft-empowerment", "fxa301"]
+tags: ["arts-based-integration", "cultural-backgrounds", "ethnicised-practices", "fxa301", "gender-and-ethnicity", "gendered-experiences", "handicraft-empowerment", "integration-discourses", "social-recognition"]
 key_concepts: ["social recognition", "gender and ethnicity", "integration discourses"]
 methods: ["qualitative study"]
 slug: fxa301-week11-crafting-recognition-understanding-gendered-and-ethnicised
@@ -24,9 +24,7 @@ This study explores the experiences of women participating in an arts-based inte
 
 ## Key Concepts
 
-- [social recognition](../topics/social-recognition.md)
-- [gender and ethnicity](../topics/gender-and-ethnicity.md)
-- [integration discourses](../topics/integration-discourses.md)
+- *(none identified)*
 
 ## Tags
 

@@ -7,7 +7,7 @@ doi: https://doi.org/10.1136/bmj.i4919
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["risk-of-bias", "non-randomized-studies", "healthcare-evaluation", "systematic-review-methods", "pragmatic-trials", "fxa301"]
+tags: ["fxa301", "healthcare-evaluation", "methodological-rigor", "non-randomized-studies", "pragmatic-trials", "risk-of-bias", "systematic-review-methods"]
 key_concepts: ["risk of bias", "non-randomized studies", "methodological rigor"]
 methods: ["expert consensus"]
 slug: fxa301-week01-robins-i-a-tool-for-assessing-risk-of-bias-in-non
@@ -26,7 +26,6 @@ This paper introduces ROBINS-I (Risk Of Bias In Non-Randomized Studies - of Inte
 
 - [risk of bias](../topics/risk-of-bias.md)
 - [non-randomized studies](../topics/non-randomized-studies.md)
-- [methodological rigor](../topics/methodological-rigor.md)
 
 ## Tags
 

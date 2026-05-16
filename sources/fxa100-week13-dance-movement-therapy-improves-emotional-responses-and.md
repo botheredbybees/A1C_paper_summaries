@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/00207450590958574
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["dance-movement-therapy", "adolescent-depression", "neurohormones", "emotional-regulation", "fxa100"]
+tags: ["adolescent-depression", "dance-movement-therapy", "emotional-regulation", "fxa100", "neurohormones", "plasma-serotonin-levels", "psychological-distress-scores"]
 key_concepts: ["dance movement therapy", "plasma serotonin levels", "psychological distress scores"]
 methods: ["randomized controlled trial"]
 slug: fxa100-week13-dance-movement-therapy-improves-emotional-responses-and
@@ -25,8 +25,6 @@ This study evaluated the impact of dance movement therapy (DMT) on emotional res
 ## Key Concepts
 
 - [dance movement therapy](../topics/dance-movement-therapy.md)
-- [plasma serotonin levels](../topics/plasma-serotonin-levels.md)
-- [psychological distress scores](../topics/psychological-distress-scores.md)
 
 ## Tags
 

@@ -7,7 +7,7 @@ doi: https://doi.org/10.1093/oso/9780198792079.003.0009
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["arts-in-health", "research-methodologies", "interdisciplinary-research", "randomized-controlled-trials", "fxa301"]
+tags: ["arts-in-health", "fxa301", "interdisciplinary-research", "randomized-controlled-trials", "research-methodologies", "unique-research-methods"]
 key_concepts: ["unique-research-methods", "interdisciplinary-approaches"]
 methods: ["case-study"]
 slug: fxa301-week01-an-introduction-to-research
@@ -24,7 +24,6 @@ This chapter explores the concept of research in arts in health and contrasts it
 
 ## Key Concepts
 
-- [unique-research-methods](../topics/unique-research-methods.md)
 - [interdisciplinary-approaches](../topics/interdisciplinary-approaches.md)
 
 ## Tags

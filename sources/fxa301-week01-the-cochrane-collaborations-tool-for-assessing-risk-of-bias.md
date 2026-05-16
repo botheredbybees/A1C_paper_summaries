@@ -7,7 +7,7 @@ doi: https://doi.org/10.1136/bmj.d5928
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["risk-of-bias-assessment", "cochrane-collaboration", "randomized-trials", "fxa301"]
+tags: ["bias-assessment-criteria", "cochrane-collaboration", "fxa301", "randomized-trials", "risk-of-bias-assessment", "systematic-approach"]
 key_concepts: ["risk of bias", "systematic approach", "bias assessment criteria"]
 methods: ["systematic review"]
 slug: fxa301-week01-the-cochrane-collaborations-tool-for-assessing-risk-of-bias
@@ -25,8 +25,6 @@ The Cochrane Collaboration’s tool for assessing risk of bias in randomized tri
 ## Key Concepts
 
 - [risk of bias](../topics/risk-of-bias.md)
-- [systematic approach](../topics/systematic-approach.md)
-- [bias assessment criteria](../topics/bias-assessment-criteria.md)
 
 ## Tags
 

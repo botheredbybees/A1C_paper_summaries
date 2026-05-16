@@ -7,7 +7,7 @@ doi: https://doi.org/10.1371/journal.pone.0116538
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["dementia-care", "quality-improvement", "registry-studies", "clinical-practice", "patient-outcomes", "health-policy", "fxa303"]
+tags: ["clinical-practice", "dementia-care", "diagnostic-process-improvement", "fxa303", "health-policy", "longitudinal-data-analysis", "multi-level-care-integration", "patient-outcomes", "quality-improvement", "registry-studies", "swedish-dementia-registry-svedem"]
 key_concepts: ["Swedish Dementia Registry (SveDem)", "diagnostic process improvement", "longitudinal data analysis", "multi-level care integration"]
 methods: ["quality registry", "internet-based database"]
 slug: fxa303-week13-svedem-the-swedish-dementia-registry-a-tool-for-improving
@@ -24,10 +24,7 @@ The Swedish Dementia Registry (SveDem) is an internet-based quality registry aim
 
 ## Key Concepts
 
-- [Swedish Dementia Registry (SveDem)](../topics/swedish-dementia-registry-svedem.md)
-- [diagnostic process improvement](../topics/diagnostic-process-improvement.md)
-- [longitudinal data analysis](../topics/longitudinal-data-analysis.md)
-- [multi-level care integration](../topics/multi-level-care-integration.md)
+- *(none identified)*
 
 ## Tags
 

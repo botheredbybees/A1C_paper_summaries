@@ -7,7 +7,7 @@ doi: https://doi.org/10.1007/s10912-019-09570-0
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["child-rehabilitation", "clown-therapy", "emotional-resilience", "holistic-healthcare", "therapeutic-relations", "fxa303"]
+tags: ["child-rehabilitation", "clown-therapy", "emotional-resilience", "foolishness-as-bravery", "fxa303", "holistic-healthcare", "humor-in-healing", "relational-model-of-care", "therapeutic-relations"]
 key_concepts: ["foolishness-as-bravery", "humor-in-healing", "relational-model-of-care"]
 methods: ["qualitative-analysis"]
 slug: fxa303-week13-seriously-foolish-and-foolishly-serious-the-art-and
@@ -24,9 +24,7 @@ This paper explores the role of clowning in children's rehabilitation, challengi
 
 ## Key Concepts
 
-- [foolishness-as-bravery](../topics/foolishness-as-bravery.md)
-- [humor-in-healing](../topics/humor-in-healing.md)
-- [relational-model-of-care](../topics/relational-model-of-care.md)
+- *(none identified)*
 
 ## Tags
 

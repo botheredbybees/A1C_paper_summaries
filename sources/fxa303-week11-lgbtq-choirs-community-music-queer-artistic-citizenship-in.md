@@ -7,7 +7,7 @@ doi: https://doi.org/10.1007/978-3-031-03792-4_39
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["lgbtq-communities", "community-music", "artistic-citizenship", "fxa303"]
+tags: ["artistic-citizenship", "community-music", "fxa303", "homonationalism", "lgbtq-communities", "musical-asylums", "queer-national-repertoires"]
 key_concepts: ["musical-asylums", "queer-national-repertoires", "homonationalism"]
 methods: ["case-study"]
 slug: fxa303-week11-lgbtq-choirs-community-music-queer-artistic-citizenship-in
@@ -24,9 +24,7 @@ Thomas Hilder’s chapter examines the role of LGBTQ+ choirs in fostering commun
 
 ## Key Concepts
 
-- [musical-asylums](../topics/musical-asylums.md)
-- [queer-national-repertoires](../topics/queer-national-repertoires.md)
-- [homonationalism](../topics/homonationalism.md)
+- *(none identified)*
 
 ## Tags
 

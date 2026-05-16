@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["arts-and-culture", "societal-benefits", "economic-impact", "health-outcomes", "educational-value", "fxa301"]
+tags: ["arts-and-culture", "economic-impact", "educational-value", "extrinsic-benefits", "fxa301", "health-outcomes", "intrinsic-value-of-arts", "societal-benefits"]
 key_concepts: ["intrinsic value of arts", "extrinsic benefits", "cultural engagement"]
 methods: ["systematic review"]
 slug: fxa301-week01-the-value-of-arts-and-culture-to-people-and-society-an
@@ -28,8 +28,6 @@ Overall, this report underscores the multifaceted ways in which arts and culture
 
 ## Key Concepts
 
-- [intrinsic value of arts](../topics/intrinsic-value-of-arts.md)
-- [extrinsic benefits](../topics/extrinsic-benefits.md)
 - [cultural engagement](../topics/cultural-engagement.md)
 
 ## Tags

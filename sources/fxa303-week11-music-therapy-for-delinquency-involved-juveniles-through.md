@@ -7,7 +7,7 @@ doi: https://doi.org/10.3389/fpsyg.2020.589431
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["music-therapy", "juvenile-delinquency", "collaborative-intervention", "arts-rehabilitation", "positive-resources", "fxa303"]
+tags: ["arts-rehabilitation", "collaborative-intervention", "fxa303", "juvenile-delinquency", "juvenile-delinquents", "music-therapy", "positive-resources", "self-concept-improvement", "stress-coping-skills", "tripartite-collaboration"]
 key_concepts: ["music therapy", "juvenile delinquents", "tripartite collaboration", "self-concept improvement", "stress coping skills"]
 methods: ["mixed method study", "paired t-tests", "qualitative interviews"]
 slug: fxa303-week11-music-therapy-for-delinquency-involved-juveniles-through
@@ -25,10 +25,6 @@ This study explores the efficacy of a music therapy program for juveniles involv
 ## Key Concepts
 
 - [music therapy](../topics/music-therapy.md)
-- [juvenile delinquents](../topics/juvenile-delinquents.md)
-- [tripartite collaboration](../topics/tripartite-collaboration.md)
-- [self-concept improvement](../topics/self-concept-improvement.md)
-- [stress coping skills](../topics/stress-coping-skills.md)
 
 ## Tags
 

@@ -7,7 +7,7 @@ doi: https://doi.org/10.3389/fpsyg.2020.00068
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["creative-arts-therapies", "dance-movement-therapy", "drama-therapy", "psychodrama", "film-therapy", "music-therapy", "fxa100"]
+tags: ["creative-arts-therapies", "dance-movement-therapy", "dance-movement-therapy-dmt", "drama-therapy", "emotional-recognition", "film-therapy", "fxa100", "methodological-advancements", "music-therapy", "psychodrama"]
 key_concepts: ["dance movement therapy (DMT)", "methodological advancements", "emotional recognition"]
 methods: ["review", "editorial"]
 slug: fxa100-week13-editorial-the-state-of-the-art-in-creative-arts-therapies
@@ -24,9 +24,7 @@ The article serves as an editorial for a special Research Topic on the state of 
 
 ## Key Concepts
 
-- [dance movement therapy (DMT)](../topics/dance-movement-therapy-dmt.md)
-- [methodological advancements](../topics/methodological-advancements.md)
-- [emotional recognition](../topics/emotional-recognition.md)
+- *(none identified)*
 
 ## Tags
 

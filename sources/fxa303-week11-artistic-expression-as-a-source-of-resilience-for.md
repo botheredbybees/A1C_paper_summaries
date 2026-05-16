@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/19361653.2021.2009080
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["transgender-youth", "artistic-expression", "resilience-building", "marginalized-communities", "qualitative-research", "self-expression", "fxa303"]
+tags: ["artistic-expression", "authentic-self-expression", "coping-mechanism", "fxa303", "marginalized-communities", "personal-agency", "qualitative-research", "resilience-building", "self-expression", "transgender-youth"]
 key_concepts: ["authentic-self-expression", "personal-agency", "coping-mechanism"]
 methods: ["photo-elicitation", "grounded-theory"]
 slug: fxa303-week11-artistic-expression-as-a-source-of-resilience-for
@@ -24,9 +24,7 @@ The study examines the role of artistic expression in enhancing resilience among
 
 ## Key Concepts
 
-- [authentic-self-expression](../topics/authentic-self-expression.md)
-- [personal-agency](../topics/personal-agency.md)
-- [coping-mechanism](../topics/coping-mechanism.md)
+- *(none identified)*
 
 ## Tags
 

@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Why the Arts?"
@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "08"
-tags: ["dementia-care", "creative-therapies", "self-expression", "well-being-through-art", "identity-recovery", "neurodegenerative-health", "fxa100"]
+tags: ["creative-therapies", "dementia-care", "enhancing-well-being-through-the-arts", "fxa100", "identity-recovery", "neurodegenerative-health", "self-expression", "well-being-through-art"]
 key_concepts: ["creativity in dementia", "self-expression through arts", "enhancing well-being"]
 methods: ["practical guide"]
 slug: fxa100-week08-why-the-arts
@@ -25,7 +25,6 @@ The text explores the concept of creativity in the context of dementia care, arg
 ## Key Concepts
 
 - [creativity in dementia](../topics/creativity-in-dementia.md)
-- [self-expression through arts](../topics/enhancing-well-being-through-the-arts.md)
 - [enhancing well-being](../topics/enhancing-well-being.md)
 
 ## Tags

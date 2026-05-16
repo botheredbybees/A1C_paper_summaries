@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA303
     week: "05"
-tags: ["puppet-show", "cultural-history", "folklore", "fxa303"]
+tags: ["commedia-dellarte", "cultural-history", "folklore", "fxa303", "pulcinella", "puppet-show"]
 key_concepts: ["Pulcinella", "commedia dell'arte"]
 methods: []
 slug: fxa303-week05-web-article-victoria-2025
@@ -24,8 +24,7 @@ This article traces the history of Punch and Judy, a traditional British puppet 
 
 ## Key Concepts
 
-- [Pulcinella](../topics/pulcinella.md)
-- [commedia dell'arte](../topics/commedia-dellarte.md)
+- *(none identified)*
 
 ## Tags
 

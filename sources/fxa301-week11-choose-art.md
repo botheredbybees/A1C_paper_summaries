@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["deaf-and-disabled-inclusion", "arts-education", "ndis-support", "cultural-accessibility", "community-engagement", "creative-expression", "fxa301"]
+tags: ["accessibility-in-arts", "arts-education", "community-engagement", "creative-expression", "cultural-accessibility", "deaf-and-disabled-inclusion", "fxa301", "inclusivity", "ndis-support", "skills-development"]
 key_concepts: ["inclusivity", "accessibility in arts", "skills development", "social interaction"]
 methods: ["case study"]
 slug: fxa301-week11-choose-art
@@ -24,9 +24,6 @@ Choose Art is an online platform designed to promote arts and cultural activitie
 
 ## Key Concepts
 
-- [inclusivity](../topics/inclusivity.md)
-- [accessibility in arts](../topics/accessibility-in-arts.md)
-- [skills development](../topics/skills-development.md)
 - [social interaction](../topics/social-interaction.md)
 
 ## Tags

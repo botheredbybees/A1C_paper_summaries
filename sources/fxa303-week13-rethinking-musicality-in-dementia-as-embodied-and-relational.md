@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Rethinking musicality in dementia as embodied and relational"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.1016/j.jaging.2018.01.006
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["dementia-care", "music-therapy", "embodied-experience", "relational-citizenship", "non-pharmacological-interventions", "fxa303"]
+tags: ["dementia-care", "embodied-experience", "embodiment-and-interdependence", "fxa303", "music-therapy", "musicality-in-dementia", "non-pharmacological-interventions", "relational-citizenship", "relational-citizenship-model"]
 key_concepts: ["relational citizenship model", "musicality in dementia", "embodiment and interdependence"]
 methods: ["case studies", "ethnographic research"]
 slug: fxa303-week13-rethinking-musicality-in-dementia-as-embodied-and-relational
@@ -24,9 +24,7 @@ This article challenges the biomedical and pharmaceutical approaches to dementia
 
 ## Key Concepts
 
-- [relational citizenship model](../topics/relational-citizenship-model.md)
-- [musicality in dementia](../topics/musicality-in-dementia.md)
-- [embodiment and interdependence](../topics/embodiment-and-interdependence.md)
+- *(none identified)*
 
 ## Tags
 

@@ -7,7 +7,7 @@ doi: https://doi.org/10.1002/14651858.CD003260.pub2
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["cognitive-rehabilitation", "alzheimers-disease", "vascular-dementia", "systematic-review", "cognitive-training", "fxa303"]
+tags: ["alzheimers-disease", "carer-reported-burden", "cognitive-rehabilitation", "cognitive-training", "fxa303", "systematic-review", "vascular-dementia"]
 key_concepts: ["cognitive-functions", "activities-of-daily-living", "carer-reported-burden"]
 methods: ["systematic review"]
 slug: fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to
@@ -32,7 +32,6 @@ This review underscores the potential benefits of tailored cognitive training pr
 
 - [cognitive-functions](../topics/cognitive-functions.md)
 - [activities-of-daily-living](../topics/activities-of-daily-living.md)
-- [carer-reported-burden](../topics/carer-reported-burden.md)
 
 ## Tags
 

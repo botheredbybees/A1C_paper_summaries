@@ -7,7 +7,7 @@ doi: https://doi.org/10.1126/science.257.5068.106
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["musical-sight-reading", "keyboard-performance", "neuroanatomy-music", "brain-damage-effects", "cognitive-neuroscience", "fxa100"]
+tags: ["brain-damage-effects", "cognitive-neuroscience", "functional-neuroanatomy", "fxa100", "keyboard-performance", "mri", "musical-sight-reading", "neuroanatomy-music", "pet-imaging", "verbal-versus-musical-cognition"]
 key_concepts: ["PET-imaging", "MRI", "functional-neuroanatomy", "verbal-versus-musical-cognition"]
 methods: ["positron-emission-tomography", "magnetic-resonance-imaging"]
 slug: fxa100-week13-distributed-neural-network-underlying-musical-sight-reading
@@ -24,10 +24,7 @@ This study investigates the functional neuroanatomy of musical sight-reading and
 
 ## Key Concepts
 
-- [PET-imaging](../topics/pet-imaging.md)
-- [MRI](../topics/mri.md)
-- [functional-neuroanatomy](../topics/functional-neuroanatomy.md)
-- [verbal-versus-musical-cognition](../topics/verbal-versus-musical-cognition.md)
+- *(none identified)*
 
 ## Tags
 

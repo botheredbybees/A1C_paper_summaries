@@ -7,7 +7,7 @@ doi: https://doi.org/10.1353/mfs.2015.0034
 appearances:
   - unit: FXA202
     week: "13"
-tags: ["literary-analysis", "photography-history", "child-perspective", "fxa202"]
+tags: ["child-perspective", "fxa202", "literary-analysis", "material-knowledge", "narrative-technique", "photography-history", "snapshot-photography"]
 key_concepts: ["snapshot photography", "material knowledge", "narrative technique"]
 methods: ["close reading"]
 slug: fxa202-week13-snapshot-seeing-kodak-fiends-child-photographers-and-henry
@@ -24,9 +24,7 @@ In 'Snapshot Seeing,' Angela Berkley explores the visual and narrative technique
 
 ## Key Concepts
 
-- [snapshot photography](../topics/snapshot-photography.md)
-- [material knowledge](../topics/material-knowledge.md)
-- [narrative technique](../topics/narrative-technique.md)
+- *(none identified)*
 
 ## Tags
 

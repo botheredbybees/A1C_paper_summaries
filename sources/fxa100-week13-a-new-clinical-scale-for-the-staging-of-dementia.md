@@ -7,7 +7,7 @@ doi: https://doi.org/10.1192/bjp.140.6.566
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["clinical-dementia-rating", "dementia-staging", "alzheimer-type-dementia", "mild-cognitive-impairment", "behavioral-assessment", "prospective-research", "fxa100"]
+tags: ["alzheimer-type-dementia", "behavioral-assessment", "clinical-dementia-rating", "clinical-dementia-rating-cdr-scale", "cognitive-impairment-assessment", "dementia-staging", "fxa100", "mild-cognitive-impairment", "prospective-research", "staging-dementia"]
 key_concepts: ["Clinical Dementia Rating (CDR) scale", "staging dementia", "cognitive impairment assessment"]
 methods: ["prospective study"]
 slug: fxa100-week13-a-new-clinical-scale-for-the-staging-of-dementia
@@ -28,9 +28,7 @@ The authors conducted a study involving subjects aged between 65 and 80 years, i
 
 ## Key Concepts
 
-- [Clinical Dementia Rating (CDR) scale](../topics/clinical-dementia-rating-cdr-scale.md)
-- [staging dementia](../topics/staging-dementia.md)
-- [cognitive impairment assessment](../topics/cognitive-impairment-assessment.md)
+- *(none identified)*
 
 ## Tags
 

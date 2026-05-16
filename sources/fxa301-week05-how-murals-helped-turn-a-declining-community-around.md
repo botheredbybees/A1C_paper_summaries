@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "How Murals Helped Turn a Declining Community Around"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.64628/AA.cu566fgn5
 appearances:
   - unit: FXA301
     week: "05"
-tags: ["community-engagement", "urban-renewal", "social-cohesion", "cultural-identity", "public-art", "participatory-design", "fxa301"]
+tags: ["community-engagement", "community-vitality-through-murals", "cultural-identity", "fxa301", "participatory-design", "public-art", "social-cohesion", "urban-renewal"]
 key_concepts: ["reverse-graffiti", "sense-of-place", "community-vitality"]
 methods: ["case-study"]
 slug: fxa301-week05-how-murals-helped-turn-a-declining-community-around
@@ -24,7 +24,6 @@ This article discusses the impact of community mural projects on revitalizing th
 
 ## Key Concepts
 
-- [community-vitality-through-murals](../topics/community-vitality-through-murals.md)
 - [sense-of-place](../topics/sense-of-place.md)
 - [community-vitality](../topics/community-vitality.md)
 

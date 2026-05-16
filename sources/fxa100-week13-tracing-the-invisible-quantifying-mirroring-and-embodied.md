@@ -7,7 +7,7 @@ doi: https://doi.org/10.64898/2026.03.05.707373
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["dance-movement-therapy", "mirroring-exercise", "embodied-attunement", "motion-capture", "fxa100"]
+tags: ["dance-movement-therapy", "embodied-attunement", "fxa100", "mirroring-exercise", "motion-capture", "movement-coordination", "synchrony", "temporal-alignment"]
 key_concepts: ["movement-coordination", "temporal-alignment", "synchrony"]
 methods: ["optical-motion-capture", "time-series-modeling"]
 slug: fxa100-week13-tracing-the-invisible-quantifying-mirroring-and-embodied
@@ -24,9 +24,7 @@ This paper presents the first quantitative exploration of mirroring in Dance Mov
 
 ## Key Concepts
 
-- [movement-coordination](../topics/movement-coordination.md)
-- [temporal-alignment](../topics/temporal-alignment.md)
-- [synchrony](../topics/synchrony.md)
+- *(none identified)*
 
 ## Tags
 

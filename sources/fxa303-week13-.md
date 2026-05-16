@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "\u041a\u043e\u0440\u0440\u0435\u043a\u0446\u0438\u044f \u043d\u0435\u0439\u0440\u043e\u043f\u0441\u0438\u0445\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043d\u0430\u0440\u0443\u0448\u0435\u043d\u0438\u0439 \u043f\u0440\u0438 \u0431\u043e\u043b\u0435\u0437\u043d\u0438 \u0410\u043b\u044c\u0446\u0433\u0435\u0439\u043c\u0435\u0440\u0430"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.14412/2074-2711-2022-3-54-61
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["alzheimer-disease", "neuropsychiatric-disorders", "non-pharmacological-interventions", "memantine-therapy", "fxa303"]
+tags: ["alzheimer-disease", "fxa303", "memantine-therapy", "neuropsychiatric-disorders", "non-pharmacological-interventions", "pharmacological-treatment"]
 key_concepts: ["neuropsychiatric disorders", "memantine therapy", "pharmacological treatment"]
 methods: ["case study"]
 slug: fxa303-week13-
@@ -24,9 +24,7 @@ The article discusses the prevalence and impact of neuropsychiatric disorders (N
 
 ## Key Concepts
 
-- [neuropsychiatric disorders](../topics/neuropsychiatric-disorders.md)
-- [memantine therapy](../topics/memantine-therapy.md)
-- [pharmacological treatment](../topics/pharmacological-treatment.md)
+- *(none identified)*
 
 ## Tags
 

@@ -7,7 +7,7 @@ doi: https://doi.org/10.1002/jrsm.1290
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["evidence-quality", "systematic-review", "intervention-effectiveness", "health-policy", "fxa301"]
+tags: ["evidence-quality", "fxa301", "grace-assessment", "health-policy", "intervention-effectiveness", "study-design", "systematic-review"]
 key_concepts: ["study-design", "grace-assessment", "complex-interventions"]
 methods: ["systematic-review"]
 slug: fxa301-week01-rating-the-quality-of-a-body-of-evidence-on-the
@@ -24,8 +24,6 @@ This article presents a systematic review and mapping of evidence domains for ra
 
 ## Key Concepts
 
-- [study-design](../topics/study-design.md)
-- [grace-assessment](../topics/grace-assessment.md)
 - [complex-interventions](../topics/complex-interventions.md)
 
 ## Tags

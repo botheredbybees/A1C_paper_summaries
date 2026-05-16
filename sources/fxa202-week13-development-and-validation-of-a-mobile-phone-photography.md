@@ -7,7 +7,7 @@ doi: https://doi.org/10.34172/jqr.1605
 appearances:
   - unit: FXA202
     week: "13"
-tags: ["specific-learning-disabilities", "mobile-photography-training", "visual-perception-skills", "educational-interventions", "cognitive-development", "fxa202"]
+tags: ["cognitive-development", "educational-interventions", "fxa202", "mobile-photography-training", "reflective-thinking", "specific-learning-disabilities", "visual-perception-skills"]
 key_concepts: ["visual perception skills", "specific learning disabilities", "reflective thinking"]
 methods: ["mixed-methods", "pre-test/post-test assessments"]
 slug: fxa202-week13-development-and-validation-of-a-mobile-phone-photography
@@ -24,9 +24,7 @@ The study by Bahreini Motlagh et al., published in the Journal of Qualitative Re
 
 ## Key Concepts
 
-- [visual perception skills](../topics/visual-perception-skills.md)
-- [specific learning disabilities](../topics/specific-learning-disabilities.md)
-- [reflective thinking](../topics/reflective-thinking.md)
+- *(none identified)*
 
 ## Tags
 

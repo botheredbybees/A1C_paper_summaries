@@ -7,7 +7,7 @@ doi: https://doi.org/10.1038/450478c
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["public-involvement", "human-genetics-research", "biomedical-studies", "community-initiatives", "societal-impact", "fxa303"]
+tags: ["biomedical-studies", "community-initiatives", "ethical-imlications", "fxa303", "human-genetics-research", "lay-participation", "public-involvement", "societal-impact"]
 key_concepts: ["lay-participation", "ethical-imlications"]
 methods: ["correspondence"]
 slug: fxa303-week13-research-in-the-wild
@@ -24,8 +24,7 @@ In their correspondence piece published in Nature, Van Hoyweghen and Penders dis
 
 ## Key Concepts
 
-- [lay-participation](../topics/lay-participation.md)
-- [ethical-imlications](../topics/ethical-imlications.md)
+- *(none identified)*
 
 ## Tags
 

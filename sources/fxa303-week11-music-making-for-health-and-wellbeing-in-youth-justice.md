@@ -7,7 +7,7 @@ doi: https://doi.org/10.1111/1467-9566.12549
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["music-therapy", "youth-welfare", "health-interventions", "social-reintegration", "wellbeing-support", "cultural-studies", "fxa303"]
+tags: ["contextual-factors", "cultural-studies", "fxa303", "health-interventions", "institutional-rules", "music-therapy", "musical-affordances", "power-and-identity", "social-reintegration", "wellbeing-support", "youth-welfare"]
 key_concepts: ["musical affordances", "contextual factors", "institutional rules", "power and identity"]
 methods: ["mixed-methods"]
 slug: fxa303-week11-music-making-for-health-and-wellbeing-in-youth-justice
@@ -24,10 +24,7 @@ This study explores the impact of participatory music programs on young people i
 
 ## Key Concepts
 
-- [musical affordances](../topics/musical-affordances.md)
-- [contextual factors](../topics/contextual-factors.md)
-- [institutional rules](../topics/institutional-rules.md)
-- [power and identity](../topics/power-and-identity.md)
+- *(none identified)*
 
 ## Tags
 

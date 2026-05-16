@@ -7,7 +7,7 @@ apa7: "Hayes, J. (2010). The Creative Arts in Dementia Care: Practical Person-Ce
 doi: null
 appearances:
   - unit: FXA100
-tags: ["creative-therapies", "dementia-care", "emotional-expression", "fxa100"]
+tags: ["creative-therapies", "dementia-care", "emotional-expression", "expression-of-emotions", "fxa100", "non-judgmental-artistic-expression", "personal-storytelling-through-art"]
 key_concepts: ["expression of emotions", "personal storytelling through art", "non-judgmental artistic expression"]
 methods: []
 slug: fxa100-the-creative-arts-in-dementia-care
@@ -24,9 +24,7 @@ This excerpt discusses the importance of acknowledging and expressing all emotio
 
 ## Key Concepts
 
-- [expression of emotions](../topics/expression-of-emotions.md)
-- [personal storytelling through art](../topics/personal-storytelling-through-art.md)
-- [non-judgmental artistic expression](../topics/non-judgmental-artistic-expression.md)
+- *(none identified)*
 
 ## Tags
 

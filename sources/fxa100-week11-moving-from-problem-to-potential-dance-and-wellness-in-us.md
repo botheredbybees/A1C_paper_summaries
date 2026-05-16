@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "11"
-tags: ["dance-therapy", "hospital-wellness", "arts-in-medicine", "patient-care", "fxa100"]
+tags: ["arts-in-medicine", "dance-therapy", "fxa100", "hospital-wellness", "patient-care", "therapeutic-dance"]
 key_concepts: ["therapeutic-dance", "holistic-healing", "community-engagement"]
 methods: ["case-study"]
 slug: fxa100-week11-moving-from-problem-to-potential-dance-and-wellness-in-us
@@ -24,7 +24,6 @@ Filipa Pereira-Stubbs explores the role of dance as a therapeutic practice withi
 
 ## Key Concepts
 
-- [therapeutic-dance](../topics/therapeutic-dance.md)
 - [holistic-healing](../topics/holistic-healing.md)
 - [community-engagement](../topics/community-engagement.md)
 

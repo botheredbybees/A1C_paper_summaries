@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["arts-in-health", "mental-health-care", "community-engagement", "fxa301"]
+tags: ["arts-in-health", "collaboration-between-artists-and-mental-health", "community-engagement", "fxa301", "mental-health-care", "social-inclusion-and-community-engagement"]
 key_concepts: ["collaboration between artists and mental health practitioners", "social inclusion and community engagement"]
 methods: ["guideline development"]
 slug: fxa301-week01-guidelines-for-arts-and-mental-health-projects-(2)
@@ -24,8 +24,7 @@ The document 'Guidelines for Arts and Mental Health Projects' provides a compreh
 
 ## Key Concepts
 
-- [collaboration between artists and mental health practitioners](../topics/collaboration-between-artists-and-mental-health.md)
-- [social inclusion and community engagement](../topics/social-inclusion-and-community-engagement.md)
+- *(none identified)*
 
 ## Tags
 

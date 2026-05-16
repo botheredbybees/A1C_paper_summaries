@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["music-therapy", "alzheimers-disease", "video-games", "rehabilitation-tech", "patient-care", "fxa303"]
+tags: ["alzheimers-disease", "behavioral-symptoms-management", "fxa303", "music-therapy", "patient-care", "rehabilitation-tech", "renarcissization", "video-games"]
 key_concepts: ["renarcissization", "interactive-music-therapy", "behavioral-symptoms-management"]
 methods: ["case-study"]
 slug: fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering
@@ -24,9 +24,7 @@ The document discusses the MINWii project, a serious video game designed as a mu
 
 ## Key Concepts
 
-- [renarcissization](../topics/renarcissization.md)
 - [interactive-music-therapy](../topics/interactive-music-therapy.md)
-- [behavioral-symptoms-management](../topics/behavioral-symptoms-management.md)
 
 ## Tags
 

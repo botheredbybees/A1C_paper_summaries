@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/17441692.2019.1682028
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["social-isolation", "lgbtq-youth", "well-being", "connectedness", "minority-stress-theory", "global-evidence-mapping", "fxa303"]
+tags: ["bullying-and-violence", "connectedness", "family-rejection", "fxa303", "global-evidence-mapping", "lgbtq-youth", "minority-stress-theory", "social-isolation", "well-being"]
 key_concepts: ["minority stress theory", "family rejection", "bullying and violence", "mental health issues"]
 methods: ["systematic review"]
 slug: fxa303-week11-social-isolation-and-connectedness-as-determinants-of-well
@@ -25,8 +25,6 @@ This article explores the impact of social isolation and connectedness on the we
 ## Key Concepts
 
 - [minority stress theory](../topics/minority-stress-theory.md)
-- [family rejection](../topics/family-rejection.md)
-- [bullying and violence](../topics/bullying-and-violence.md)
 - [mental health issues](../topics/mental-health-issues.md)
 
 ## Tags

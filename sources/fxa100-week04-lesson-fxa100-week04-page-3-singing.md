@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: lesson
 title: "Singing and the Brain in Dementia Care"
@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "04"
-tags: ["dementia-care", "music-therapy", "singing-benefits", "fxa100"]
+tags: ["dementia-care", "fxa100", "group-music-therapy-for-dementia-patients", "music-therapy", "singing-benefits"]
 key_concepts: ["neurological benefits of singing", "respiratory health improvement through singing", "therapeutic interventions in dementia care"]
 methods: []
 slug: fxa100-week04-lesson-fxa100-week04-page-3-singing
@@ -24,8 +24,6 @@ This course material discusses the benefits of singing for individuals with deme
 
 ## Key Concepts
 
-- [neurological benefits of singing](../topics/group-music-therapy-for-dementia-patients.md)
-- [respiratory health improvement through singing](../topics/group-music-therapy-for-dementia-patients.md)
 - [therapeutic interventions in dementia care](../topics/therapeutic-interventions-in-dementia-care.md)
 
 ## Tags

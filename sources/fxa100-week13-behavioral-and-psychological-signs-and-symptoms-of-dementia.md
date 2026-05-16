@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["dementia-research", "behavioral-symptoms", "psychological-signs", "consensus-statements", "patient-care", "fxa100"]
+tags: ["behavioral-and-psychological-signs-and-symptoms-of-dementia", "behavioral-symptoms", "cognitive-deficits", "consensus-statements", "dementia-research", "fxa100", "patient-care", "psychological-signs"]
 key_concepts: ["Behavioral and Psychological Signs and Symptoms of Dementia (BPSD)", "cognitive-deficits", "longitudinal-studies"]
 methods: ["consensus statement"]
 slug: fxa100-week13-behavioral-and-psychological-signs-and-symptoms-of-dementia
@@ -24,8 +24,6 @@ This paper presents a consensus statement by experts from various institutions r
 
 ## Key Concepts
 
-- [Behavioral and Psychological Signs and Symptoms of Dementia (BPSD)](../topics/behavioral-and-psychological-signs-and-symptoms-of-dementia.md)
-- [cognitive-deficits](../topics/cognitive-deficits.md)
 - [longitudinal-studies](../topics/longitudinal-studies.md)
 
 ## Tags

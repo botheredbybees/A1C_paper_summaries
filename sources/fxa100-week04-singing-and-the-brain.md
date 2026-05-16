@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Singing and the Brain"
@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "04"
-tags: ["dementia-care", "music-therapy", "neuroplasticity", "quality-of-life", "cultural-inclusivity", "fxa100"]
+tags: ["cultural-inclusivity", "dementia-care", "fxa100", "group-music-therapy-for-dementia-patients", "music-therapy", "neuroplasticity", "quality-of-life"]
 key_concepts: ["life-quality-improvement", "brain-stimulation-through-singing", "respiratory-health-benefits"]
 methods: ["case-study", "qualitative-research"]
 slug: fxa100-week04-singing-and-the-brain
@@ -25,8 +25,6 @@ The document discusses various benefits of singing for individuals with dementia
 ## Key Concepts
 
 - [life-quality-improvement](../topics/life-quality-improvement.md)
-- [group-music-therapy-for-dementia-patients](../topics/group-music-therapy-for-dementia-patients.md)
-- [group-music-therapy-for-dementia-patients](../topics/group-music-therapy-for-dementia-patients.md)
 
 ## Tags
 

@@ -7,7 +7,7 @@ doi: https://doi.org/10.64628/AB.3mvam9uqg
 appearances:
   - unit: FXA303
     week: "08"
-tags: ["performance", "clowns", "creepy-clowns", "fxa303"]
+tags: ["clowns", "creepy-clowns", "feast-of-fools", "fxa303", "performance"]
 key_concepts: ["Feast of Fools", "Hospital Clowning"]
 methods: []
 slug: fxa303-week08-web-article-king-2016
@@ -24,7 +24,6 @@ This article discusses the global phenomenon of 'creepy clowns' and its reflecti
 
 ## Key Concepts
 
-- [Feast of Fools](../topics/feast-of-fools.md)
 - [Hospital Clowning](../topics/hospital-clowning.md)
 
 ## Tags

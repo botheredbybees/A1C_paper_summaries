@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/13642530902723074
 appearances:
   - unit: FXA202
     week: "13"
-tags: ["phototherapy", "therapeutic-arts", "visual-culture", "re-enactment-therapy", "identity-formations", "fxa202"]
+tags: ["embodiment-and-transformation", "fxa202", "gaze-theory", "identity-formations", "phototherapy", "re-enactment-phototherapy", "re-enactment-therapy", "therapeutic-arts", "visual-culture"]
 key_concepts: ["re-enactment phototherapy", "gaze theory", "embodiment and transformation"]
 methods: ["case study"]
 slug: fxa202-week13-inhabiting-the-image-photography-therapy-and-re-enactment
@@ -24,9 +24,7 @@ Rosy Martin's paper 'Inhabiting the Image: Photography, Therapy and Re-enactment
 
 ## Key Concepts
 
-- [re-enactment phototherapy](../topics/re-enactment-phototherapy.md)
-- [gaze theory](../topics/gaze-theory.md)
-- [embodiment and transformation](../topics/embodiment-and-transformation.md)
+- *(none identified)*
 
 ## Tags
 

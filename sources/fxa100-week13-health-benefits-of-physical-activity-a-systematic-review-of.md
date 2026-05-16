@@ -7,7 +7,7 @@ doi: https://doi.org/10.1097/HCO.0000000000000437
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["physical-activity-benefits", "health-outcomes", "systematic-review", "fxa100"]
+tags: ["fxa100", "health-outcomes", "personalized-approaches", "physical-activity-benefits", "systematic-review"]
 key_concepts: ["dose-response relationship", "personalized approaches"]
 methods: ["systematic review"]
 slug: fxa100-week13-health-benefits-of-physical-activity-a-systematic-review-of
@@ -25,7 +25,6 @@ The article presents a systematic review of recent systematic reviews to evaluat
 ## Key Concepts
 
 - [dose-response relationship](../topics/dose-response-relationship.md)
-- [personalized approaches](../topics/personalized-approaches.md)
 
 ## Tags
 

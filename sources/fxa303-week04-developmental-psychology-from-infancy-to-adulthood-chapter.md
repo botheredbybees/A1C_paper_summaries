@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Developmental Psychology: From Infancy to Adulthood (Chapter 13 Conclusions)"
@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA303
     week: "04"
-tags: ["developmental-psychology", "nature-vs-nurture", "continuous-discontinuous-theories", "fxa303"]
+tags: ["continuity-and-discontinuity-in-developmental-psychology", "continuous-discontinuous-theories", "developmental-psychology", "fxa303", "nature-vs-nurture"]
 key_concepts: ["nature-and-nurture-interaction", "critical-periods-for-learning", "continuity-versus-discontinuity-in-development"]
 methods: ["literature-review"]
 slug: fxa303-week04-developmental-psychology-from-infancy-to-adulthood-chapter
@@ -28,7 +28,6 @@ The chapter also addresses the distinction between theories advocating continuit
 
 - [nature-and-nurture-interaction](../topics/nature-and-nurture-interaction.md)
 - [critical-periods-for-learning](../topics/critical-periods-for-learning.md)
-- [continuity-and-discontinuity-in-developmental-psychology](../topics/continuity-and-discontinuity-in-developmental-psychology.md)
 
 ## Tags
 

@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Current Emotion Research in Music Psychology"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.1177/1754073914558282
 appearances:
   - unit: FXA301
     week: "02"
-tags: ["music-psychology", "emotional-expression", "cultural-impact", "universal-acoustic-cues", "musical-development", "fxa301"]
+tags: ["affective-responses-in-music-psychology", "cultural-impact", "emotional-expression", "fxa301", "music-psychology", "musical-development", "universal-acoustic-cues"]
 key_concepts: ["emotional-expressiveness", "affective-responses", "culturally-specific-musical-expectations"]
 methods: ["systematic-review"]
 slug: fxa301-week02-current-emotion-research-in-music-psychology
@@ -26,7 +26,6 @@ This article reviews recent research in music psychology focusing on the connect
 
 - [emotional-expressiveness](../topics/emotional-expressiveness.md)
 - [affective-responses](../topics/affective-responses.md)
-- [affective-responses-in-music-psychology](../topics/affective-responses-in-music-psychology.md)
 
 ## Tags
 

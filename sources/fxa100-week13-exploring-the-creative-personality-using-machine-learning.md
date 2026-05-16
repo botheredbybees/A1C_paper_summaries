@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/10400419.2024.2371725
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["creative-personality", "machine-learning", "divergent-thinking", "personality-traits", "creativity-measurement", "fxa100"]
+tags: ["creative-personality", "creativity-measurement", "divergent-thinking", "fxa100", "ideational-fluency", "machine-learning", "originality-in-divergent-thinking", "personality-traits"]
 key_concepts: ["ideational fluency", "originality in divergent thinking", "big five personality traits"]
 methods: ["machine learning", "systematic review"]
 slug: fxa100-week13-exploring-the-creative-personality-using-machine-learning
@@ -24,8 +24,6 @@ This study explores the personality attributes that predict ideational fluency a
 
 ## Key Concepts
 
-- [ideational fluency](../topics/ideational-fluency.md)
-- [originality in divergent thinking](../topics/originality-in-divergent-thinking.md)
 - [big five personality traits](../topics/big-five-personality-traits.md)
 
 ## Tags

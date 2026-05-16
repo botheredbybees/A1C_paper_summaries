@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "PWDA Language Guide: A guide to language about disability"
@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "09"
-tags: ["disability-advocacy", "language-use-in-media", "social-model-of-disability", "fxa301"]
+tags: ["ableist-language-in-communication-about-disability", "disability-advocacy", "fxa301", "language-use-in-media", "social-model-of-disability"]
 key_concepts: ["person-first-language", "identity-first-language", "ableist-language"]
 methods: []
 slug: fxa301-week09-pwda-language-guide-a-guide-to-language-about-disability
@@ -27,7 +27,6 @@ The document also addresses the importance of the social model of disability ove
 ## Key Concepts
 
 - [person-first-language](../topics/person-first-language.md)
-- [ableist-language-in-communication-about-disability](../topics/ableist-language-in-communication-about-disability.md)
 - [ableist-language](../topics/ableist-language.md)
 
 ## Tags

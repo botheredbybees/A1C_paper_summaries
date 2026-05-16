@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["community-music", "cultural-studies", "music-education", "reflective-practice", "schon-thinking-in-action", "fxa301"]
+tags: ["community-music", "cultural-studies", "culture-of-inquiry", "fxa301", "informed-practice", "music-education", "reflective-practice", "schon-thinking-in-action", "thinking-in-action"]
 key_concepts: ["culture-of-inquiry", "thinking-in-action", "informed-practice"]
 methods: ["case-study"]
 slug: fxa301-week01-culture-of-inquiry
@@ -24,9 +24,7 @@ The chapter explores the role of research in the field of community music and it
 
 ## Key Concepts
 
-- [culture-of-inquiry](../topics/culture-of-inquiry.md)
-- [thinking-in-action](../topics/thinking-in-action.md)
-- [informed-practice](../topics/informed-practice.md)
+- *(none identified)*
 
 ## Tags
 

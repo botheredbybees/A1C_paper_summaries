@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/17533015.2023.2242390
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["dementia-treatment", "creative-arts-intervention", "dance-therapy", "behavioral-symptoms", "qualitative-research", "residential-care", "fxa100"]
+tags: ["agitation-and-aggression", "behavioral-symptoms", "creative-arts-intervention", "dance-therapy", "dementia-treatment", "fxa100", "qualitative-research", "residential-care", "symptoms-of-dementia"]
 key_concepts: ["dance interventions", "symptoms of dementia", "agitation and aggression", "emotional expression"]
 methods: ["systematic review", "mixed-methods"]
 slug: fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a
@@ -25,8 +25,6 @@ This systematic review investigates the impact of dance interventions on symptom
 ## Key Concepts
 
 - [dance interventions](../topics/dance-interventions.md)
-- [symptoms of dementia](../topics/symptoms-of-dementia.md)
-- [agitation and aggression](../topics/agitation-and-aggression.md)
 - [emotional expression](../topics/emotional-expression.md)
 
 ## Tags

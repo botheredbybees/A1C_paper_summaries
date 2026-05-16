@@ -7,7 +7,7 @@ doi: https://doi.org/10.52058/2695-1592-2025-3(46)-174-182
 appearances:
   - unit: FXA202
     week: "13"
-tags: ["visual-storytelling", "audience-engagement", "narrative-photography", "emotional-connectivity", "fxa202"]
+tags: ["audience-engagement", "composition-in-narrative-photography", "emotional-connectivity", "fxa202", "lighting-effects-on-emotion", "narrative-photography", "visual-storytelling"]
 key_concepts: ["composition-in-narrative-photography", "lighting-effects-on-emotion"]
 methods: ["case-study"]
 slug: fxa202-week13-exploring-the-psychological-impact-of-narrative-photography
@@ -24,8 +24,7 @@ The article explores the psychological impact of narrative photography on audien
 
 ## Key Concepts
 
-- [composition-in-narrative-photography](../topics/composition-in-narrative-photography.md)
-- [lighting-effects-on-emotion](../topics/lighting-effects-on-emotion.md)
+- *(none identified)*
 
 ## Tags
 

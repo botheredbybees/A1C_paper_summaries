@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["psychotherapy-research", "therapeutic-efficacy", "individual-differences", "fxa100"]
+tags: ["contextual-intervention", "effect-size", "fxa100", "individual-differences", "personalized-treatment", "psychotherapy-research", "therapeutic-efficacy"]
 key_concepts: ["effect-size", "contextual-intervention", "personalized-treatment"]
 methods: ["critical-review"]
 slug: fxa100-week13-what-works-for-whom-a-critical-review-of-psychotherapy
@@ -24,9 +24,7 @@ The book 'What Works for Whom? A Critical Review of Psychotherapy Research' by A
 
 ## Key Concepts
 
-- [effect-size](../topics/effect-size.md)
-- [contextual-intervention](../topics/contextual-intervention.md)
-- [personalized-treatment](../topics/personalized-treatment.md)
+- *(none identified)*
 
 ## Tags
 

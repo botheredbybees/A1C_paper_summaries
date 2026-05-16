@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Singing boosts brain activity in Alzheimer\u2019s patients, scientists say"
@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "04"
-tags: ["dementia-care", "music-therapy", "cognitive-enhancement", "neuroplasticity-in-dementia", "quality-of-life-improvement", "alzheimers-research", "fxa100"]
+tags: ["alzheimers-research", "cognitive-enhancement", "dementia-care", "fxa100", "group-music-therapy-for-dementia-patients", "music-therapy", "neuroplasticity-in-dementia", "quality-of-life-improvement"]
 key_concepts: ["group music therapy", "cognitive decline reversal", "life satisfaction enhancement"]
 methods: ["observational study", "randomized group comparison"]
 slug: fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients
@@ -25,7 +25,6 @@ A study conducted in a care home found that singing in group music sessions sign
 ## Key Concepts
 
 - [group music therapy](../topics/group-music-therapy.md)
-- [cognitive decline reversal](../topics/group-music-therapy-for-dementia-patients.md)
 - [life satisfaction enhancement](../topics/life-satisfaction-enhancement.md)
 
 ## Tags

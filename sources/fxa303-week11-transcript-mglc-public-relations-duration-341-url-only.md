@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["public-relations-strategies", "communication-theories", "media-impact", "fxa303"]
+tags: ["communication-theories", "fxa303", "media-impact", "public-relations", "public-relations-strategies", "strategic-communication"]
 key_concepts: ["Public Relations", "Strategic Communication"]
 methods: []
 slug: fxa303-week11-transcript-mglc-public-relations-duration-341-url-only
@@ -24,8 +24,7 @@ This is a short public relations video produced by MGLC that discusses key strat
 
 ## Key Concepts
 
-- [Public Relations](../topics/public-relations.md)
-- [Strategic Communication](../topics/strategic-communication.md)
+- *(none identified)*
 
 ## Tags
 

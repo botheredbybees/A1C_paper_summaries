@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "11"
-tags: ["dementia-care", "dance-therapy", "neural-pathways", "laban-movement-analysis", "chacian-dmt", "cognitive-decline", "fxa100"]
+tags: ["chacian-dmt", "cognitive-decline", "dance-movement-therapy-dmt", "dance-therapy", "dementia-care", "fxa100", "laban-movement-analysis", "neural-pathways", "neurocognitive-benefits"]
 key_concepts: ["dance movement therapy (DMT)", "Laban Movement Analysis", "neurocognitive benefits"]
 methods: ["lecture"]
 slug: fxa100-week11-week-11-lecture-benefits-of-dance-and-movement-for-people
@@ -24,9 +24,7 @@ In this week's lecture, Dr Brendan Lamb discusses the benefits of dance movement
 
 ## Key Concepts
 
-- [dance movement therapy (DMT)](../topics/dance-movement-therapy-dmt.md)
-- [Laban Movement Analysis](../topics/laban-movement-analysis.md)
-- [neurocognitive benefits](../topics/neurocognitive-benefits.md)
+- *(none identified)*
 
 ## Tags
 

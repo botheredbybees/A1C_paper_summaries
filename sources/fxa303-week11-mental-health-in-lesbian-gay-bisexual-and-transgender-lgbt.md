@@ -7,7 +7,7 @@ doi: https://doi.org/10.1146/annurev-clinpsy-021815-093153
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["mental-health", "lgbt-youth", "discrimination-effects", "family-rejection", "peer-networks", "school-environment", "fxa303"]
+tags: ["discrimination-effects", "family-rejection", "fxa303", "interventions", "lgbt-youth", "mental-health", "peer-networks", "protective-factors", "school-environment", "suicidality"]
 key_concepts: ["depression", "anxiety", "suicidality", "risk-factors", "protective-factors", "interventions"]
 methods: ["systematic review"]
 slug: fxa303-week11-mental-health-in-lesbian-gay-bisexual-and-transgender-lgbt
@@ -26,10 +26,7 @@ This review article discusses the mental health issues faced by lesbian, gay, bi
 
 - [depression](../topics/depression.md)
 - [anxiety](../topics/anxiety.md)
-- [suicidality](../topics/suicidality.md)
 - [risk-factors](../topics/risk-factors.md)
-- [protective-factors](../topics/protective-factors.md)
-- [interventions](../topics/interventions.md)
 
 ## Tags
 

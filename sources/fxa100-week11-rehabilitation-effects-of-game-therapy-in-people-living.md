@@ -7,7 +7,7 @@ doi: https://doi.org/10.1111/wvn.12648
 appearances:
   - unit: FXA100
     week: "11"
-tags: ["game-therapy", "dementia-treatment", "cognitive-functioning", "mental-health-interventions", "quality-of-life", "fxa100"]
+tags: ["cognitive-functioning", "cornell-scale-for-depression-in-dementia", "dementia-treatment", "fxa100", "game-therapy", "mental-health-interventions", "mini-mental-state-examination-mmse", "quality-of-life"]
 key_concepts: ["game therapy", "Mini Mental State Examination (MMSE)", "Cornell Scale for Depression in Dementia"]
 methods: ["systematic review", "meta-analysis"]
 slug: fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living
@@ -24,9 +24,7 @@ The study evaluates the effects of game therapy on people living with dementia (
 
 ## Key Concepts
 
-- [game therapy](../topics/game-therapy.md)
-- [Mini Mental State Examination (MMSE)](../topics/mini-mental-state-examination-mmse.md)
-- [Cornell Scale for Depression in Dementia](../topics/cornell-scale-for-depression-in-dementia.md)
+- *(none identified)*
 
 ## Tags
 

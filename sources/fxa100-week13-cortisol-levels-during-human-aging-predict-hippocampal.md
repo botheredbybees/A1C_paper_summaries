@@ -7,7 +7,7 @@ doi: https://doi.org/10.1038/529
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["cortisol-levels", "aging-process", "hippocampal-atrophy", "memory-deficits", "neuroendocrinology", "brain-aging", "fxa100"]
+tags: ["aging-process", "brain-aging", "cortisol-levels", "delayed-recall-memory", "fxa100", "glucocorticoids", "hippocampal-atrophy", "hippocampal-volume", "memory-deficits", "neuroendocrinology"]
 key_concepts: ["glucocorticoids", "hippocampal-volume", "delayed-recall-memory"]
 methods: ["longitudinal-study", "mri-scans"]
 slug: fxa100-week13-cortisol-levels-during-human-aging-predict-hippocampal
@@ -24,9 +24,7 @@ The study investigates the relationship between cortisol levels and hippocampal 
 
 ## Key Concepts
 
-- [glucocorticoids](../topics/glucocorticoids.md)
-- [hippocampal-volume](../topics/hippocampal-volume.md)
-- [delayed-recall-memory](../topics/delayed-recall-memory.md)
+- *(none identified)*
 
 ## Tags
 

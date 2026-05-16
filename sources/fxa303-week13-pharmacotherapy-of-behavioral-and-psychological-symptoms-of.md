@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Pharmacotherapy of Behavioral and Psychological Symptoms of Dementia: State of the Art and Future Progress"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.3389/fphar.2020.01168
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["behavioral-symptoms-dementia", "psychological-symptoms-dementia", "pharmacotherapy-interventions", "fxa303"]
+tags: ["behavioral-and-psychological-symptoms-of-dementia", "behavioral-symptoms-dementia", "fxa303", "pharmacotherapy-interventions", "psychological-symptoms-dementia"]
 key_concepts: ["behavioral-and-psychological-symptoms-of-dementia", "person-centered-care", "non-pharmacological-interventions"]
 methods: ["systematic-review"]
 slug: fxa303-week13-pharmacotherapy-of-behavioral-and-psychological-symptoms-of
@@ -24,7 +24,6 @@ The article reviews the current knowledge and management strategies for behavior
 
 ## Key Concepts
 
-- [behavioral-and-psychological-symptoms-of-dementia](../topics/behavioral-and-psychological-symptoms-of-dementia.md)
 - [person-centered-care](../topics/person-centered-care.md)
 - [cognitive-stimulation-therapy](../topics/cognitive-stimulation-therapy.md)
 

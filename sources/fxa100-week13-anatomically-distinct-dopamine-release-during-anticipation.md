@@ -7,7 +7,7 @@ doi: https://doi.org/10.1038/nn.2726
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["music-pleasure", "dopamine-release", "brain-imaging-studies", "neuroaesthetics", "emotional-processing", "fxa100"]
+tags: ["brain-imaging-studies", "dopamine-release", "dopaminergic-activity", "emotional-processing", "fxa100", "music-pleasure", "neuroaesthetics", "peak-emotional-response", "striatum-pathways"]
 key_concepts: ["dopaminergic activity", "striatum pathways", "peak emotional response"]
 methods: ["PET scan", "fMRI"]
 slug: fxa100-week13-anatomically-distinct-dopamine-release-during-anticipation
@@ -24,9 +24,7 @@ This study explores the role of dopamine in experiencing pleasure from music, a 
 
 ## Key Concepts
 
-- [dopaminergic activity](../topics/dopaminergic-activity.md)
-- [striatum pathways](../topics/striatum-pathways.md)
-- [peak emotional response](../topics/peak-emotional-response.md)
+- *(none identified)*
 
 ## Tags
 

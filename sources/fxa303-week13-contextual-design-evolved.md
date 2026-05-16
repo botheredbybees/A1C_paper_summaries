@@ -7,7 +7,7 @@ doi: https://doi.org/10.1007/978-3-031-02207-4
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["user-centered-design", "contextual-inquiry", "product-development", "human-computer-interaction", "ux-research", "fxa303"]
+tags: ["contextual-design", "contextual-inquiry", "fxa303", "human-computer-interaction", "product-development", "user-centered-design", "ux-research"]
 key_concepts: ["Contextual Design", "Contextual Inquiry"]
 methods: ["systematic review", "case study"]
 slug: fxa303-week13-contextual-design-evolved
@@ -24,8 +24,7 @@ The book 'Contextual Design Evolved' by Karen Holtzblatt and Hugh Beyer presents
 
 ## Key Concepts
 
-- [Contextual Design](../topics/contextual-design.md)
-- [Contextual Inquiry](../topics/contextual-inquiry.md)
+- *(none identified)*
 
 ## Tags
 

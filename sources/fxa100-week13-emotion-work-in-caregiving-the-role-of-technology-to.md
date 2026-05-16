@@ -7,7 +7,7 @@ doi: https://doi.org/10.1145/3637325
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["caregiver-support", "dementia-care", "emotion-work", "technology-assistance", "informal-caregiving", "fxa100"]
+tags: ["caregiver-support", "dementia-care", "emotion-work", "fxa100", "informal-caregiving", "personal-connections", "technology-assistance", "utilitarian-tasks"]
 key_concepts: ["emotional well-being", "personal connections", "utilitarian tasks"]
 methods: ["interviews"]
 slug: fxa100-week13-emotion-work-in-caregiving-the-role-of-technology-to
@@ -25,8 +25,6 @@ The paper explores the role of technology in supporting informal caregivers of p
 ## Key Concepts
 
 - [emotional well-being](../topics/emotional-well-being.md)
-- [personal connections](../topics/personal-connections.md)
-- [utilitarian tasks](../topics/utilitarian-tasks.md)
 
 ## Tags
 

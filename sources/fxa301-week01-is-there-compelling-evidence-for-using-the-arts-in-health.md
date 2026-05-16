@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["arts-in-healthcare", "patient-outcomes", "cost-effectiveness", "fxa301"]
+tags: ["arts-in-healthcare", "cost-effectiveness", "fxa301", "patient-outcomes", "symptom-management"]
 key_concepts: ["symptom-management", "self-efficacy", "interdisciplinary-collaboration"]
 methods: ["systematic-review", "case-study"]
 slug: fxa301-week01-is-there-compelling-evidence-for-using-the-arts-in-health
@@ -24,7 +24,6 @@ This document provides a comprehensive review of existing literature on the use 
 
 ## Key Concepts
 
-- [symptom-management](../topics/symptom-management.md)
 - [self-efficacy](../topics/self-efficacy.md)
 - [interdisciplinary-collaboration](../topics/interdisciplinary-collaboration.md)
 

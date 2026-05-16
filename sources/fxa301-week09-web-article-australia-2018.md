@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: web-article
 title: "Creating Pathways: Insights on Support for Artists with Disability"
@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "09"
-tags: ["arts-and-disability", "inclusion-in-arts", "cultural-diversity", "fxa301"]
+tags: ["accessibility-in-the-arts", "arts-and-disability", "cultural-diversity", "fxa301", "inclusion-in-arts"]
 key_concepts: ["accessibility", "representation", "diversity in arts"]
 methods: []
 slug: fxa301-week09-web-article-australia-2018
@@ -26,7 +26,6 @@ The Australia Council report 'Creating Pathways: Insights on Support for Artists
 
 - [accessibility](../topics/accessibility.md)
 - [representation](../topics/representation.md)
-- [diversity in arts](../topics/accessibility-in-the-arts.md)
 
 ## Tags
 

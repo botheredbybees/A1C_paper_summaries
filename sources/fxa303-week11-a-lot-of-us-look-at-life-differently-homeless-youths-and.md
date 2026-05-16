@@ -7,7 +7,7 @@ doi: https://doi.org/10.1177/1532708608321402
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["homeless-youths", "art-therapy", "outsider-art", "identity-exploration", "creative-expression", "fxa303"]
+tags: ["art-therapy", "creative-expression", "fxa303", "homeless-youths", "identity-exploration", "lart-brut", "outsider-art"]
 key_concepts: ["L'Art Brut", "Outsider Art", "therapeutic-benefits-of-art"]
 methods: ["qualitative-analysis"]
 slug: fxa303-week11-a-lot-of-us-look-at-life-differently-homeless-youths-and
@@ -24,8 +24,6 @@ This article presents a qualitative analysis of the artistic expression of homel
 
 ## Key Concepts
 
-- [L'Art Brut](../topics/lart-brut.md)
-- [Outsider Art](../topics/outsider-art.md)
 - [therapeutic-benefits-of-art](../topics/therapeutic-benefits-of-art.md)
 
 ## Tags

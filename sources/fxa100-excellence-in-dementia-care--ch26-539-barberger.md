@@ -7,7 +7,7 @@ apa7: "Downs, M. & Bowers, B. (2014). Excellence in dementia care: Research into
 doi: null
 appearances:
   - unit: FXA100
-tags: ["dementia-prevalence", "alzheimer-studies", "public-health-impact", "fxa100"]
+tags: ["alzheimer-studies", "cognitive-function-and-ageing-study", "dementia-prevalence", "fxa100", "public-health-impact", "world-population-ageing"]
 key_concepts: ["cognitive-function-and-ageing-study", "world-population-ageing"]
 methods: []
 slug: fxa100-excellence-in-dementia-care--ch26-539-barberger
@@ -24,8 +24,7 @@ This chapter discusses the prevalence of dementia and Alzheimer's disease global
 
 ## Key Concepts
 
-- [cognitive-function-and-ageing-study](../topics/cognitive-function-and-ageing-study.md)
-- [world-population-ageing](../topics/world-population-ageing.md)
+- *(none identified)*
 
 ## Tags
 

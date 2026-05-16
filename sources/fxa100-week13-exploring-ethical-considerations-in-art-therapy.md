@@ -7,7 +7,7 @@ doi: https://doi.org/10.59298/RIJRE/2024/411115
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["art-therapy", "ethical-practices", "confidentiality-consent", "cultural-competence", "fxa100"]
+tags: ["art-therapy", "confidentiality-consent", "cultural-competence", "deontology", "dual-relationships", "ethical-practices", "fxa100", "utilitarianism"]
 key_concepts: ["informed-consent", "dual-relationships", "utilitarianism", "deontology"]
 methods: []
 slug: fxa100-week13-exploring-ethical-considerations-in-art-therapy
@@ -25,9 +25,6 @@ This study examines the ethical considerations in art therapy, emphasizing the i
 ## Key Concepts
 
 - [informed-consent](../topics/informed-consent.md)
-- [dual-relationships](../topics/dual-relationships.md)
-- [utilitarianism](../topics/utilitarianism.md)
-- [deontology](../topics/deontology.md)
 
 ## Tags
 

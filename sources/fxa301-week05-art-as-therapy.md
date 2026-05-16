@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Art as Therapy"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/00043125.2017.1335521
 appearances:
   - unit: FXA301
     week: "05"
-tags: ["art-therapy", "creative-expression", "educational-practices", "mental-health", "student-wellbeing", "fxa301"]
+tags: ["art-as-therapy", "art-therapy", "creative-expression", "educational-practices", "fxa301", "mental-health", "student-wellbeing"]
 key_concepts: ["therapeutic functions of art", "emotional healing through creativity", "collaborative teaching approaches"]
 methods: ["case study"]
 slug: fxa301-week05-art-as-therapy
@@ -24,8 +24,6 @@ The article 'Art as Therapy' by James Haywood Rolling Jr., in the role of Editor
 
 ## Key Concepts
 
-- [therapeutic functions of art](../topics/art-as-therapy.md)
-- [emotional healing through creativity](../topics/art-as-therapy.md)
 - [collaborative teaching approaches](../topics/collaborative-teaching-approaches.md)
 
 ## Tags

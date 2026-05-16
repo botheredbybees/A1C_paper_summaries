@@ -7,7 +7,7 @@ doi: https://doi.org/10.1093/oso/9780198792079.003.0011
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["research-protocol", "arts-interventions", "ethical-approval", "transparency", "fxa301"]
+tags: ["arts-interventions", "ethical-approval", "external-validity", "fxa301", "internal-consistency", "research-protocol", "transparency"]
 key_concepts: ["internal-consistency", "external-validity", "ethical-considerations"]
 methods: ["template-proposal"]
 slug: fxa301-week01-writing-a-research-protocol
@@ -24,8 +24,6 @@ This chapter discusses the importance and structure of research protocols in art
 
 ## Key Concepts
 
-- [internal-consistency](../topics/internal-consistency.md)
-- [external-validity](../topics/external-validity.md)
 - [ethical-considerations](../topics/ethical-considerations.md)
 
 ## Tags

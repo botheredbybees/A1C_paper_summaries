@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["art-as-expression", "refugee-issues", "community-engagement", "fxa301"]
+tags: ["art-as-expression", "community-engagement", "detention-center-art", "fxa301", "refugee-issues"]
 key_concepts: ["self-expression", "detention-center-art"]
 methods: []
 slug: fxa301-week11-transcript-if-you-are-interested-and-want-to-know-more-about
@@ -25,7 +25,6 @@ Syed Sadfar Ahmed discusses the role of art in opening minds, fostering diversit
 ## Key Concepts
 
 - [self-expression](../topics/self-expression.md)
-- [detention-center-art](../topics/detention-center-art.md)
 
 ## Tags
 

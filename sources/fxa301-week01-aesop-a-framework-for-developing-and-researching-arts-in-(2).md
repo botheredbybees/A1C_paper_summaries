@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/17533015.2014.924974
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["arts-in-health", "research-framework", "interdisciplinary-research", "health-programmes", "fxa301"]
+tags: ["arts-in-health", "fxa301", "health-programmes", "interdisciplinary-research", "medical-research-council-guidelines", "research-framework"]
 key_concepts: ["Medical Research Council guidelines", "Participatory Action Research", "ethnography", "grounded theory"]
 methods: ["framework development"]
 slug: fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(2)
@@ -24,7 +24,6 @@ The article introduces Aesop, a framework designed to address the complexities o
 
 ## Key Concepts
 
-- [Medical Research Council guidelines](../topics/medical-research-council-guidelines.md)
 - [Participatory Action Research](../topics/participatory-action-research.md)
 - [ethnography](../topics/ethnography.md)
 - [grounded theory](../topics/grounded-theory.md)

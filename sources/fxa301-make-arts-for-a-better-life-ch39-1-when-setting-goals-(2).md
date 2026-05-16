@@ -11,7 +11,7 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
-tags: ["community-development", "results-based-management", "arts-education", "fxa301"]
+tags: ["arts-education", "community-development", "fxa301", "realistic-goal-setting", "results-based-management", "results-chain", "social-exclusion"]
 key_concepts: ["realistic goal-setting", "social exclusion", "results chain"]
 methods: []
 slug: fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals-(2)
@@ -28,9 +28,7 @@ This chapter from 'Make Arts for a Better Life' discusses the challenges faced b
 
 ## Key Concepts
 
-- [realistic goal-setting](../topics/realistic-goal-setting.md)
-- [social exclusion](../topics/social-exclusion.md)
-- [results chain](../topics/results-chain.md)
+- *(none identified)*
 
 ## Tags
 

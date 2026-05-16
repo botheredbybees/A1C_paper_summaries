@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["arts-for-health", "wellbeing-interventions", "public-health-strategies", "evaluation-frameworks", "fxa301"]
+tags: ["arts-for-health", "evaluation-frameworks", "fxa301", "logic-models", "public-health-strategies", "robust-evidence-gathering", "theories-of-change", "wellbeing-interventions"]
 key_concepts: ["theories-of-change", "logic-models", "robust-evidence-gathering"]
 methods: ["systematic-review"]
 slug: fxa301-week01-arts-for-health-and-wellbeing-an-evaluation-framework
@@ -28,9 +28,7 @@ This document is intended for various stakeholders including health commissioner
 
 ## Key Concepts
 
-- [theories-of-change](../topics/theories-of-change.md)
-- [logic-models](../topics/logic-models.md)
-- [robust-evidence-gathering](../topics/robust-evidence-gathering.md)
+- *(none identified)*
 
 ## Tags
 

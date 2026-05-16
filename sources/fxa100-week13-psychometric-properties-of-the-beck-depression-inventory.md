@@ -7,7 +7,7 @@ doi: https://doi.org/10.1016/S0272-7358(88)80007-X
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["beck-depression-inventory", "psychometric-properties", "clinical-psychology", "depression-assessment", "mental-health-measurement", "fxa100"]
+tags: ["beck-depression-inventory", "beck-depression-inventory-bdi", "clinical-psychology", "concurrent-validity", "depression-assessment", "fxa100", "internal-consistency", "mental-health-measurement", "psychometric-properties"]
 key_concepts: ["Beck Depression Inventory (BDI)", "internal consistency", "concurrent validity"]
 methods: ["systematic review"]
 slug: fxa100-week13-psychometric-properties-of-the-beck-depression-inventory
@@ -24,9 +24,7 @@ This paper provides a comprehensive review of the psychometric properties of the
 
 ## Key Concepts
 
-- [Beck Depression Inventory (BDI)](../topics/beck-depression-inventory-bdi.md)
-- [internal consistency](../topics/internal-consistency.md)
-- [concurrent validity](../topics/concurrent-validity.md)
+- *(none identified)*
 
 ## Tags
 

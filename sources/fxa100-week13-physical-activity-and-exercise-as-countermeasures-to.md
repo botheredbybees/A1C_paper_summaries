@@ -7,7 +7,7 @@ doi: https://doi.org/10.1007/s40520-016-0705-4
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["physical-activity", "exercise-interventions", "aging-research", "muscle-health", "frailty-mitigation", "fxa100"]
+tags: ["aging-research", "exercise-interventions", "frailty-mitigation", "fxa100", "muscle-health", "physical-activity", "physical-frailty", "resistance-training", "sarcopenia"]
 key_concepts: ["sarcopenia", "physical-frailty", "resistance-training"]
 methods: ["systematic-review", "randomized-controlled-trial"]
 slug: fxa100-week13-physical-activity-and-exercise-as-countermeasures-to
@@ -26,9 +26,7 @@ The article presents evidence from several randomized controlled trials that dem
 
 ## Key Concepts
 
-- [sarcopenia](../topics/sarcopenia.md)
-- [physical-frailty](../topics/physical-frailty.md)
-- [resistance-training](../topics/resistance-training.md)
+- *(none identified)*
 
 ## Tags
 

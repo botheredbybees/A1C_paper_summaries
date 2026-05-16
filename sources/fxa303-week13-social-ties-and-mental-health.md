@@ -7,7 +7,7 @@ doi: https://doi.org/10.1093/jurban/78.3.458
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["social-capital", "mental-health-interventions", "gender-disparities", "stress-buffering-model", "urban-health", "role-strain", "fxa303"]
+tags: ["fxa303", "gender-disparities", "main-effect-model", "mental-health-interventions", "mental-health-support-interventions", "role-strain", "social-capital", "stress-buffering-model", "urban-health", "women-with-low-resources"]
 key_concepts: ["main-effect-model", "stress-buffering-model", "social-capital", "women-with-low-resources", "mental-health-support-interventions"]
 methods: ["systematic-review"]
 slug: fxa303-week13-social-ties-and-mental-health
@@ -24,11 +24,7 @@ This article reviews the role of social ties in maintaining psychological well-b
 
 ## Key Concepts
 
-- [main-effect-model](../topics/main-effect-model.md)
-- [stress-buffering-model](../topics/stress-buffering-model.md)
 - [social-capital](../topics/social-capital.md)
-- [women-with-low-resources](../topics/women-with-low-resources.md)
-- [mental-health-support-interventions](../topics/mental-health-support-interventions.md)
 
 ## Tags
 

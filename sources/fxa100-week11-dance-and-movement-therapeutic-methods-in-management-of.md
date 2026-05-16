@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "11"
-tags: ["dementia-management", "dance-therapy", "movement-therapy", "cognitive-functioning", "behavioral-symptoms", "nonpharmacological-intervention", "fxa100"]
+tags: ["behavioral-symptoms", "cognitive-functioning", "dance-therapy", "dementia-management", "fxa100", "mini-mental-state-examination-mmse", "movement-therapy", "nonpharmacological-intervention", "planning-skills", "self-care-ability", "visuospatial-abilities"]
 key_concepts: ["Mini-Mental State Examination (MMSE)", "visuospatial abilities", "planning skills", "self-care ability"]
 methods: ["randomized controlled trial"]
 slug: fxa100-week11-dance-and-movement-therapeutic-methods-in-management-of
@@ -28,10 +28,7 @@ These findings suggest that DMT may offer a viable nonpharmacological interventi
 
 ## Key Concepts
 
-- [Mini-Mental State Examination (MMSE)](../topics/mini-mental-state-examination-mmse.md)
-- [visuospatial abilities](../topics/visuospatial-abilities.md)
-- [planning skills](../topics/planning-skills.md)
-- [self-care ability](../topics/self-care-ability.md)
+- *(none identified)*
 
 ## Tags
 

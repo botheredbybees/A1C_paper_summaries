@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/17482631.2023.2238989
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["therapeutic-clowns", "elder-care", "nursing-homes", "quality-of-life", "qualitative-research", "fxa303"]
+tags: ["elder-care", "fxa303", "needs-of-older-adults", "nursing-homes", "qualitative-research", "quality-of-life", "therapeutic-clowns"]
 key_concepts: ["therapeutic clowning", "needs of older adults", "social interaction", "cultural relevance", "sense of belonging"]
 methods: ["interpretivist descriptive methodology"]
 slug: fxa303-week13-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
@@ -25,7 +25,6 @@ The article explores how therapeutic clowns, often referred to as elder-clowns i
 ## Key Concepts
 
 - [therapeutic clowning](../topics/therapeutic-clowning.md)
-- [needs of older adults](../topics/needs-of-older-adults.md)
 - [social interaction](../topics/social-interaction.md)
 - [cultural relevance](../topics/cultural-relevance.md)
 - [sense of belonging](../topics/sense-of-belonging.md)

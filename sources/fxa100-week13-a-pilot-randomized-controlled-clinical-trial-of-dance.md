@@ -7,7 +7,7 @@ doi: https://doi.org/10.1016/j.ctcp.2022.101650
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["autism-research", "dance-therapy", "clinical-trials", "pediatric-neurodevelopment", "fxa100"]
+tags: ["autism-research", "clinical-trials", "dance-therapy", "functional-independence", "fxa100", "non-verbal-communication-skills", "pediatric-neurodevelopment", "social-behavior-improvement"]
 key_concepts: ["functional-independence", "social-behavior-improvement", "non-verbal-communication-skills"]
 methods: ["randomized-controlled-trial"]
 slug: fxa100-week13-a-pilot-randomized-controlled-clinical-trial-of-dance
@@ -24,9 +24,7 @@ This study investigates the impact of dance practice on communication, functiona
 
 ## Key Concepts
 
-- [functional-independence](../topics/functional-independence.md)
-- [social-behavior-improvement](../topics/social-behavior-improvement.md)
-- [non-verbal-communication-skills](../topics/non-verbal-communication-skills.md)
+- *(none identified)*
 
 ## Tags
 

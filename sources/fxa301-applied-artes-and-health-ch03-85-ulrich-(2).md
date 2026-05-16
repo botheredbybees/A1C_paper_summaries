@@ -7,7 +7,7 @@ apa7: "Applied Arts and Health : Building Bridges Across Arts, Therapy, Health, 
 doi: null
 appearances:
   - unit: FXA301
-tags: ["applied-theatre", "elder-care", "arts-therapy", "healthcare-humanization", "sensory-intervention", "fxa301"]
+tags: ["applied-theatre", "arts-therapy", "ecology-of-process", "elder-care", "emergent-design", "fxa301", "healthcare-humanization", "sensory-intervention"]
 key_concepts: ["emergent design", "servant leadership", "ecology of process"]
 methods: []
 slug: fxa301-applied-artes-and-health-ch03-85-ulrich-(2)
@@ -24,9 +24,7 @@ This chapter explores the integration of arts into healthcare settings to enhanc
 
 ## Key Concepts
 
-- [emergent design](../topics/emergent-design.md)
 - [servant leadership](../topics/servant-leadership.md)
-- [ecology of process](../topics/ecology-of-process.md)
 
 ## Tags
 

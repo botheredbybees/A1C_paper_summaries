@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/17533015.2016.1206948
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["arts-and-health", "evaluation-practices", "co-production", "stakeholder-engagement", "health-policy", "fxa301"]
+tags: ["arts-and-health", "co-production", "evaluation-practices", "fxa301", "health-policy", "stakeholder-engagement", "standardized-evaluation-frameworks"]
 key_concepts: ["co-production", "standardized-evaluation-frameworks"]
 methods: ["survey", "interview", "focus-group"]
 slug: fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well
@@ -25,7 +25,6 @@ This article presents findings from a UK knowledge exchange project that aimed t
 ## Key Concepts
 
 - [co-production](../topics/co-production.md)
-- [standardized-evaluation-frameworks](../topics/standardized-evaluation-frameworks.md)
 
 ## Tags
 

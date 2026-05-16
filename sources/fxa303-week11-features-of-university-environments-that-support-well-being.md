@@ -7,7 +7,7 @@ doi: https://doi.org/10.1177/0022429418825146
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["lgbq-students", "university-environments", "student-wellbeing", "music-art-education", "college-life", "fxa303"]
+tags: ["college-life", "fxa303", "lgbq-students", "music-art-education", "perceived-meaning-and-achievement", "seligmans-theory-dimensions", "student-wellbeing", "university-environments"]
 key_concepts: ["Seligman's theory dimensions", "positive emotions", "perceived meaning and achievement"]
 methods: ["survey analysis"]
 slug: fxa303-week11-features-of-university-environments-that-support-well-being
@@ -24,9 +24,7 @@ Nicholas E. Roseth's study explores the well-being of lesbian, gay, bisexual, an
 
 ## Key Concepts
 
-- [Seligman's theory dimensions](../topics/seligmans-theory-dimensions.md)
 - [positive emotions](../topics/positive-emotions.md)
-- [perceived meaning and achievement](../topics/perceived-meaning-and-achievement.md)
 
 ## Tags
 

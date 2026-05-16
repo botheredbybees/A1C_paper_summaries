@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Fear of clowns in hospitalized children: prospective experience"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.1007/s00431-016-2826-3
 appearances:
   - unit: FXA303
     week: "08"
-tags: ["hospitalized-children", "coulrophobia", "medical-clowns", "pediatric-psychology", "anxiety-reactions", "fxa303"]
+tags: ["anxiety-reactions", "coulrophobia", "fear-of-clowns-in-hospitalized-children", "fxa303", "hospitalized-children", "medical-clowns", "pediatric-psychology"]
 key_concepts: ["fear of clowns", "psychological well-being", "medical clown intervention"]
 methods: ["prospective study"]
 slug: fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective
@@ -26,7 +26,6 @@ This study investigates the prevalence and characteristics of fear of clowns (co
 
 - [fear of clowns](../topics/fear-of-clowns.md)
 - [psychological well-being](../topics/psychological-well-being.md)
-- [medical clown intervention](../topics/fear-of-clowns-in-hospitalized-children.md)
 
 ## Tags
 

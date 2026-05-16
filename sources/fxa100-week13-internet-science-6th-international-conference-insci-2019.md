@@ -7,7 +7,7 @@ doi: https://doi.org/10.1007/978-3-030-34770-3
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["internet-sociology", "interdisciplinary-research", "digital-humanities", "fxa100"]
+tags: ["collective-intelligence", "digital-humanities", "fxa100", "global-issues", "interdisciplinary-research", "internet-sociology"]
 key_concepts: ["collective-intelligence", "global-issues"]
 methods: ["conference-proceedings"]
 slug: fxa100-week13-internet-science-6th-international-conference-insci-2019
@@ -24,8 +24,7 @@ The document provides the proceedings of the 6th International Conference on Int
 
 ## Key Concepts
 
-- [collective-intelligence](../topics/collective-intelligence.md)
-- [global-issues](../topics/global-issues.md)
+- *(none identified)*
 
 ## Tags
 

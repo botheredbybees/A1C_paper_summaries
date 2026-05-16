@@ -7,7 +7,7 @@ doi: https://doi.org/10.1093/oso/9780198792079.003.0012
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["research-ethics", "arts-in-health", "vulnerable-populations", "informed-consent", "public-health", "fxa301"]
+tags: ["arts-in-health", "ethical-scrutiny", "fxa301", "informed-consent", "principles-of-conduct", "public-health", "research-ethics", "vulnerable-populations"]
 key_concepts: ["ethical-scrutiny", "informed-consent", "principles-of-conduct"]
 methods: []
 slug: fxa301-week01-research-ethics
@@ -24,9 +24,7 @@ The chapter 'Research ethics' by Daisy Fancourt discusses the importance of ethi
 
 ## Key Concepts
 
-- [ethical-scrutiny](../topics/ethical-scrutiny.md)
 - [informed-consent](../topics/informed-consent.md)
-- [principles-of-conduct](../topics/principles-of-conduct.md)
 
 ## Tags
 

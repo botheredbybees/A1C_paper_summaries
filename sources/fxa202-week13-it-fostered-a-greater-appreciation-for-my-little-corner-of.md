@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "It fostered a greater appreciation for my little corner of the world"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.1177/13623613251359196
 appearances:
   - unit: FXA202
     week: "13"
-tags: ["therapeutic-photography", "autism-interventions", "well-being-enhancement", "youth-development", "fxa202"]
+tags: ["autism-interventions", "eudaimonic-well-being", "fxa202", "hedonic-well-being", "therapeutic-photography", "well-being-enhancement", "youth-development"]
 key_concepts: ["hedonic well-being", "eudaimonic well-being", "reflective practice"]
 methods: ["feasibility study"]
 slug: fxa202-week13-it-fostered-a-greater-appreciation-for-my-little-corner-of
@@ -24,8 +24,6 @@ The study examines the feasibility of a therapeutic photography intervention for
 
 ## Key Concepts
 
-- [hedonic well-being](../topics/hedonic-well-being.md)
-- [eudaimonic well-being](../topics/eudaimonic-well-being.md)
 - [reflective practice](../topics/reflective-practice.md)
 
 ## Tags

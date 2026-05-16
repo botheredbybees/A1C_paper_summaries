@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "FXA303 Web Lecture Week 10"
@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA303
     week: "10"
-tags: ["mental-wellbeing-children", "arts-based-interventions", "play-based-programs", "trauma-informed-practices", "fxa303"]
+tags: ["arts-based-interventions", "cultural-appropriateness", "fxa303", "interdisciplinary-knowledge-synthesis", "mental-wellbeing-children", "play-based-programs", "trauma-informed-practices"]
 key_concepts: ["cultural-appropriateness", "interdisciplinary-knowledge-synthesis"]
 methods: ["case-study"]
 slug: fxa303-week10-fxa303-web-lecture-week-10
@@ -24,8 +24,7 @@ This document provides guidance and criteria for Assessment Task 4 in the course
 
 ## Key Concepts
 
-- [cultural-appropriateness](../topics/cultural-appropriateness.md)
-- [interdisciplinary-knowledge-synthesis](../topics/interdisciplinary-knowledge-synthesis.md)
+- *(none identified)*
 
 ## Tags
 

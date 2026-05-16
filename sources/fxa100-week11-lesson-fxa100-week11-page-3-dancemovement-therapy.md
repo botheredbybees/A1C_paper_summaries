@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "11"
-tags: ["dance-therapy", "dementia-care", "movement-therapy", "fxa100"]
+tags: ["cognitive-stimulation-through-movement", "dance-therapy", "dementia-care", "fxa100", "movement-therapy"]
 key_concepts: ["social engagement", "cognitive stimulation through movement"]
 methods: []
 slug: fxa100-week11-lesson-fxa100-week11-page-3-dancemovement-therapy
@@ -25,7 +25,6 @@ This content discusses several dance/movement therapy initiatives aimed at enhan
 ## Key Concepts
 
 - [social engagement](../topics/social-engagement.md)
-- [cognitive stimulation through movement](../topics/cognitive-stimulation-through-movement.md)
 
 ## Tags
 

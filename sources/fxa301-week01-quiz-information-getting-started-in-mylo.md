@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["online-learning", "quiz-submission", "mylo-system", "fxa301"]
+tags: ["fxa301", "learning-management-system", "mylo-system", "online-learning", "quiz-submission", "respondus-lockdown-browser"]
 key_concepts: ["learning-management-system", "respondus-lockdown-browser"]
 methods: []
 slug: fxa301-week01-quiz-information-getting-started-in-mylo
@@ -24,8 +24,7 @@ The document provides an interactive guide for students on how to submit quizzes
 
 ## Key Concepts
 
-- [learning-management-system](../topics/learning-management-system.md)
-- [respondus-lockdown-browser](../topics/respondus-lockdown-browser.md)
+- *(none identified)*
 
 ## Tags
 

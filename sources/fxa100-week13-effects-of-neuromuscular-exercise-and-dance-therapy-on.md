@@ -7,7 +7,7 @@ doi: https://doi.org/10.1016/j.jbmt.2025.09.009
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["geriatric-health", "physical-therapy", "rehabilitation-strategies", "dance-therapy", "fxa100"]
+tags: ["dance-therapy", "fxa100", "geriatric-health", "kinesiophobia", "neuromuscular-exercise", "physical-therapy", "rehabilitation-strategies"]
 key_concepts: ["neuromuscular-exercise", "kinesiophobia"]
 methods: ["randomized-controlled-study"]
 slug: fxa100-week13-effects-of-neuromuscular-exercise-and-dance-therapy-on
@@ -24,8 +24,7 @@ This study evaluates the comparative effects of neuromuscular exercise and dance
 
 ## Key Concepts
 
-- [neuromuscular-exercise](../topics/neuromuscular-exercise.md)
-- [kinesiophobia](../topics/kinesiophobia.md)
+- *(none identified)*
 
 ## Tags
 

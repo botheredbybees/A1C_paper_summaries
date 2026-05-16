@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: transcript
 title: "Transcript: Music Therapy with Dementia"
@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "04"
-tags: ["music-therapy", "dementia-care", "self-expression", "memory-reconnection", "fxa100"]
+tags: ["dementia-care", "fxa100", "memory-reconnection", "music-therapy", "music-therapy-for-dementia-patients", "self-expression"]
 key_concepts: ["meaningful-music", "self-esteem-through-art", "therapeutic-self-expression"]
 methods: []
 slug: fxa100-week04-transcript-music-therapy-with-dementia-canadian-music
@@ -25,8 +25,6 @@ A transcript from a session at Evergreen residential nursing home discussing the
 ## Key Concepts
 
 - [meaningful-music](../topics/meaningful-music.md)
-- [music-therapy-for-dementia-patients](../topics/music-therapy-for-dementia-patients.md)
-- [music-therapy-for-dementia-patients](../topics/music-therapy-for-dementia-patients.md)
 
 ## Tags
 

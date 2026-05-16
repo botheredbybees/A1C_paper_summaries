@@ -7,7 +7,7 @@ doi: https://doi.org/10.1002/14651858.CD012662
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["workplace-aggression", "healthcare-workers", "patient-advocates", "organizational-interventions", "systematic-review", "fxa303"]
+tags: ["communication-issues", "fxa303", "healthcare-workers", "mental-health-conditions", "occupational-hazards", "organizational-interventions", "patient-advocates", "systematic-review", "workplace-aggression"]
 key_concepts: ["occupational-hazards", "communication-issues", "mental-health-conditions"]
 methods: ["systematic review"]
 slug: fxa303-week13-organisational-interventions-for-preventing-and-minimising
@@ -24,9 +24,7 @@ This Cochrane Review protocol assesses the effectiveness of organizational inter
 
 ## Key Concepts
 
-- [occupational-hazards](../topics/occupational-hazards.md)
-- [communication-issues](../topics/communication-issues.md)
-- [mental-health-conditions](../topics/mental-health-conditions.md)
+- *(none identified)*
 
 ## Tags
 

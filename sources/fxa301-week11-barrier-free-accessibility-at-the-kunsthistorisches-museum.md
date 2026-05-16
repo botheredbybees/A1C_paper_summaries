@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["barrier-free-accessibility", "inclusive-design", "cultural-heritage", "visually-impaired", "museum-education", "fxa301"]
+tags: ["accessibility-for-disabilities", "barrier-free-accessibility", "cultural-heritage", "fxa301", "inclusion-in-cultural-venues", "inclusive-design", "museum-education", "visually-impaired"]
 key_concepts: ["accessibility-for-disabilities", "inclusion-in-cultural-venues"]
 methods: ["case-study"]
 slug: fxa301-week11-barrier-free-accessibility-at-the-kunsthistorisches-museum
@@ -24,8 +24,7 @@ The webpage outlines the Kunsthistorisches Museum's commitment to providing barr
 
 ## Key Concepts
 
-- [accessibility-for-disabilities](../topics/accessibility-for-disabilities.md)
-- [inclusion-in-cultural-venues](../topics/inclusion-in-cultural-venues.md)
+- *(none identified)*
 
 ## Tags
 

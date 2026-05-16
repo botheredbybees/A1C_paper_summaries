@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Art Training in Dementia: A Randomized Controlled Trial"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.3389/fpsyg.2020.585508
 appearances:
   - unit: FXA100
     week: "06"
-tags: ["dementia-research", "art-therapy", "cognitive-interventions", "randomized-trials", "fxa100"]
+tags: ["art-therapy", "cognitive-interventions", "delayed-recall-in-dementia", "dementia-research", "fxa100", "randomized-trials"]
 key_concepts: ["visual art training", "delayed recall", "working memory"]
 methods: ["randomized controlled trial"]
 slug: fxa100-week06-art-training-in-dementia-a-randomized-controlled-trial
@@ -28,9 +28,7 @@ The findings contribute to the ongoing debate about whether art-based interventi
 
 ## Key Concepts
 
-- [visual art training](../topics/delayed-recall-in-dementia.md)
 - [delayed recall](../topics/delayed-recall.md)
-- [working memory](../topics/delayed-recall-in-dementia.md)
 
 ## Tags
 

@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "11"
-tags: ["dementia-care", "dance-therapy", "person-centered-care", "ethnographic-evaluation", "fxa100"]
+tags: ["dance-therapy", "dementia-care", "ethnographic-evaluation", "fxa100", "person-centered-care", "reducing-challenging-behaviors"]
 key_concepts: ["person-centered-care", "reducing-challenging-behaviors", "group-identity"]
 methods: ["ethnographic-evaluation", "case-study"]
 slug: fxa100-week11-danceminds-moving-memories-evaluation-and-analysis-a-uk
@@ -25,7 +25,6 @@ This paper discusses a year-long dance and health project named 'Moving Memories
 ## Key Concepts
 
 - [person-centered-care](../topics/person-centered-care.md)
-- [reducing-challenging-behaviors](../topics/reducing-challenging-behaviors.md)
 - [group-identity](../topics/group-identity.md)
 
 ## Tags

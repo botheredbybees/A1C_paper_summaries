@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Age-related differences in white matter diffusion measures in autism spectrum condition"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.1186/s13229-020-00325-6
 appearances:
   - unit: FXA303
     week: "04"
-tags: ["autism-spectrum-condition", "white-matter-diffusion", "aging-effects", "neurodevelopment", "brain-connectivity", "fxa303"]
+tags: ["aging-effects", "autism-spectrum-condition", "brain-connectivity", "fractional-anisotropy-in-white-matter-diffusion", "fxa303", "neurodevelopment", "white-matter-diffusion"]
 key_concepts: ["white matter diffusion measures", "fractional anisotropy (FA)", "radial diffusivity (RD)"]
 methods: ["tract-based spatial statistics (TBSS)", "case-control study"]
 slug: fxa303-week04-age-related-differences-in-white-matter-diffusion-measures
@@ -24,9 +24,7 @@ This study examines age-related differences in white matter diffusion measures a
 
 ## Key Concepts
 
-- [white matter diffusion measures](../topics/fractional-anisotropy-in-white-matter-diffusion.md)
-- [fractional anisotropy (FA)](../topics/fractional anisotropy (FA).md)
-- [radial diffusivity (RD)](../topics/radial diffusivity (RD).md)
+- *(none identified)*
 
 ## Tags
 

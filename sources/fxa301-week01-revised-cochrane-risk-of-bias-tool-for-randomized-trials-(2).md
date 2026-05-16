@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["clinical-trials", "bias-assessment", "systematic-review", "fxa301"]
+tags: ["bias-assessment", "clinical-trials", "crossover-trials", "fxa301", "revised-ro-b-2", "systematic-review"]
 key_concepts: ["revised-ro-b-2", "crossover-trials", "risk-of-bias"]
 methods: ["systematic-review"]
 slug: fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-(2)
@@ -24,8 +24,6 @@ The document discusses the revised Cochrane Risk of Bias (RoB) tool version 2, s
 
 ## Key Concepts
 
-- [revised-ro-b-2](../topics/revised-ro-b-2.md)
-- [crossover-trials](../topics/crossover-trials.md)
 - [risk-of-bias](../topics/risk-of-bias.md)
 
 ## Tags

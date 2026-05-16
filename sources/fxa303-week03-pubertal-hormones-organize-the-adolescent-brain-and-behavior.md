@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Pubertal hormones organize the adolescent brain and behavior"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.1016/j.yfrne.2005.10.003
 appearances:
   - unit: FXA303
     week: "03"
-tags: ["puberty-development", "brain-organization", "hormonal-effects", "adolescent-behavior", "neural-circuits", "psychopathology-risk", "fxa303"]
+tags: ["adolescent-behavior", "brain-organization", "fxa303", "hormonal-effects", "neural-circuits", "neuroendocrinological-effects-of-pubertal-hormones", "psychopathology-risk", "puberty-development"]
 key_concepts: ["pubertal hormones", "organizational effects", "neuroendocrinology"]
 methods: ["systematic review"]
 slug: fxa303-week03-pubertal-hormones-organize-the-adolescent-brain-and-behavior
@@ -24,7 +24,6 @@ This review paper explores the relationship between pubertal hormones and their 
 
 ## Key Concepts
 
-- [pubertal hormones](../topics/neuroendocrinological-effects-of-pubertal-hormones.md)
 - [organizational effects](../topics/organizational-effects.md)
 - [neuroendocrinology](../topics/neuroendocrinology.md)
 

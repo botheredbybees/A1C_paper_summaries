@@ -7,7 +7,7 @@ doi: https://doi.org/10.1007/s40520-021-01916-w
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["dementia-care", "clown-therapy", "patient-wellbeing", "psychological-interventions", "behavioral-symptoms", "fxa303"]
+tags: ["behavioral-and-psychological-symptoms-of-dementia-bpsds", "behavioral-symptoms", "clown-therapy", "companion-clowns", "dementia-care", "fxa303", "patient-wellbeing", "psychological-interventions"]
 key_concepts: ["Behavioral and Psychological Symptoms of Dementia (BPSDs)", "Companion Clowns"]
 methods: ["pilot study"]
 slug: fxa303-week13-intervention-of-companion-clowns-in-a-special-care-unit-a-1
@@ -24,8 +24,7 @@ This study examines the impact of clown intervention in a special care unit (SCU
 
 ## Key Concepts
 
-- [Behavioral and Psychological Symptoms of Dementia (BPSDs)](../topics/behavioral-and-psychological-symptoms-of-dementia-bpsds.md)
-- [Companion Clowns](../topics/companion-clowns.md)
+- *(none identified)*
 
 ## Tags
 

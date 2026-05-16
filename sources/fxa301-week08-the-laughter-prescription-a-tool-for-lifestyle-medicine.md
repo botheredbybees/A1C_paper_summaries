@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "The Laughter Prescription: A Tool for Lifestyle Medicine"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.1177/1559827614550279
 appearances:
   - unit: FXA301
     week: "08"
-tags: ["laughter-health-benefits", "lifestyle-medicine", "humor-therapy", "fxa301"]
+tags: ["fxa301", "humor-therapy", "laughter-as-a-therapeutic-tool", "laughter-health-benefits", "lifestyle-medicine"]
 key_concepts: ["spontaneous-laughter", "simulated-laughter", "motion-creates-emotion-theory"]
 methods: ["literature-review"]
 slug: fxa301-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
@@ -25,7 +25,6 @@ The article discusses the physiological and psychological benefits of laughter, 
 ## Key Concepts
 
 - [spontaneous-laughter](../topics/spontaneous-laughter.md)
-- [laughter-as-a-therapeutic-tool](../topics/laughter-as-a-therapeutic-tool.md)
 - [motion-creates-emotion-theory](../topics/motion-creates-emotion-theory.md)
 
 ## Tags

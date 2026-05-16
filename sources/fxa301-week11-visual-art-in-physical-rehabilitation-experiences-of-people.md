@@ -7,7 +7,7 @@ doi: https://doi.org/10.4276/030802211X12947686093729
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["neurological-rehabilitation", "art-therapy", "occupational-therapy", "qualitative-study", "fxa301"]
+tags: ["art-therapy", "client-perspectives", "fxa301", "neurological-rehabilitation", "occupational-therapy", "qualitative-study", "rehabilitation-goals"]
 key_concepts: ["rehabilitation goals", "client perspectives", "self-esteem enhancement"]
 methods: ["qualitative study", "interviews"]
 slug: fxa301-week11-visual-art-in-physical-rehabilitation-experiences-of-people
@@ -24,8 +24,6 @@ This qualitative study explores the experiences of adults participating in a vis
 
 ## Key Concepts
 
-- [rehabilitation goals](../topics/rehabilitation-goals.md)
-- [client perspectives](../topics/client-perspectives.md)
 - [self-esteem enhancement](../topics/self-esteem-enhancement.md)
 
 ## Tags

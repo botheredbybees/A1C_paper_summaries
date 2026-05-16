@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["community-art", "collaborative-projects", "inclusive-practices", "ethical-collaboration", "public-health", "fxa301"]
+tags: ["collaborative-projects", "community-art", "ethical-collaboration", "fxa301", "inclusive-practices", "inclusivity", "public-health", "social-benefits"]
 key_concepts: ["inclusivity", "cultural-sensitivity", "social-benefits"]
 methods: ["case-study"]
 slug: fxa301-week01-making-art-with-communities-a-work-guide-(3)
@@ -24,9 +24,7 @@ The document 'Making Art With Communities: A Work Guide' serves as an extensive 
 
 ## Key Concepts
 
-- [inclusivity](../topics/inclusivity.md)
 - [cultural-sensitivity](../topics/cultural-sensitivity.md)
-- [social-benefits](../topics/social-benefits.md)
 
 ## Tags
 

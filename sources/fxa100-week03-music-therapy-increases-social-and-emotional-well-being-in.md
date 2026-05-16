@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Music Therapy Increases Social and Emotional Well-Being in Persons With Dementia: A Randomized Clinical Crossover Trial Comparing Singing to Verbal Discussion"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.1093/jmt/thad015
 appearances:
   - unit: FXA100
     week: "03"
-tags: ["music-therapy", "dementia-care", "emotional-well-being", "social-engagement", "fxa100"]
+tags: ["dementia-care", "emotional-well-being", "fxa100", "music-therapy", "patient-characteristics-in-music-therapy", "social-engagement"]
 key_concepts: ["randomized-clinical-trial", "singing-intervention", "verbal-discussion", "patient-characteristics"]
 methods: ["randomized clinical crossover trial"]
 slug: fxa100-week03-music-therapy-increases-social-and-emotional-well-being-in
@@ -25,7 +25,6 @@ This study investigates the impact of a singing-based music therapy intervention
 ## Key Concepts
 
 - [randomized-clinical-trial](../topics/randomized-clinical-trial.md)
-- [patient-characteristics-in-music-therapy](../topics/patient-characteristics-in-music-therapy.md)
 - [verbal-discussion](../topics/verbal-discussion.md)
 - [patient-characteristics](../topics/patient-characteristics.md)
 

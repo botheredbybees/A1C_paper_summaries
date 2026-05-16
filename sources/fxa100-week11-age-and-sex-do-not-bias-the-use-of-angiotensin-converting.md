@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "11"
-tags: ["age-bias", "heart-failure-treatment", "cardiovascular-mortality", "clinical-practice", "fxa100"]
+tags: ["acute-myocardial-infarction", "age-bias", "angiotensin-converting-enzyme-inhibitors", "cardiovascular-mortality", "clinical-practice", "congestive-heart-failure", "fxa100", "heart-failure-treatment"]
 key_concepts: ["angiotensin-converting-enzyme-inhibitors", "acute-myocardial-infarction", "congestive-heart-failure"]
 methods: ["retrospective-cohort-study"]
 slug: fxa100-week11-age-and-sex-do-not-bias-the-use-of-angiotensin-converting
@@ -24,9 +24,7 @@ The study investigates whether age and sex biases influence the use of angiotens
 
 ## Key Concepts
 
-- [angiotensin-converting-enzyme-inhibitors](../topics/angiotensin-converting-enzyme-inhibitors.md)
-- [acute-myocardial-infarction](../topics/acute-myocardial-infarction.md)
-- [congestive-heart-failure](../topics/congestive-heart-failure.md)
+- *(none identified)*
 
 ## Tags
 

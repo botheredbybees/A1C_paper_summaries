@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "'Our role is to listen more than entertain': A qualitative study of techniques used by Laughter Care Specialists with people who have dementia in long-term care"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.1111/ajag.70002
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["dementia-care", "laughter-therapy", "qualitative-research", "personhood-respect", "aged-care-studies", "fxa303"]
+tags: ["aged-care-studies", "dementia-care", "fxa303", "laughter-therapy", "personhood-respect", "qualitative-research", "reminiscence-techniques"]
 key_concepts: ["person-centered-care", "non-pharmacological-interventions", "reminiscence-techniques"]
 methods: ["qualitative study"]
 slug: fxa303-week13-our-role-is-to-listen-more-than-entertain-a-qualitative
@@ -26,7 +26,6 @@ This study explores the techniques used by Laughter Care Specialists (LCSs) to e
 
 - [person-centered-care](../topics/person-centered-care.md)
 - [cognitive-stimulation-therapy](../topics/cognitive-stimulation-therapy.md)
-- [reminiscence-techniques](../topics/reminiscence-techniques.md)
 
 ## Tags
 

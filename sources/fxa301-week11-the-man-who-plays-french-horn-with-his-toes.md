@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["music-performance", "disability-advocacy", "adapted-instruments", "fxa301"]
+tags: ["adapted-instruments", "creativity-in-challenges", "disability-advocacy", "fxa301", "music-performance"]
 key_concepts: ["resilience", "creativity-in-challenges"]
 methods: ["case-study"]
 slug: fxa301-week11-the-man-who-plays-french-horn-with-his-toes
@@ -25,7 +25,6 @@ This article from the BBC Ouch blog features Felix Klieser, a professional Frenc
 ## Key Concepts
 
 - [resilience](../topics/resilience.md)
-- [creativity-in-challenges](../topics/creativity-in-challenges.md)
 
 ## Tags
 

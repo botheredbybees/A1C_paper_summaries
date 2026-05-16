@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/01924788.2014.966547
 appearances:
   - unit: FXA100
     week: "11"
-tags: ["creative-arts-therapy", "alzheimers-disease", "dementia-management", "behavioral-symptoms", "emotional-wellbeing", "fxa100"]
+tags: ["alzheimers-disease", "behavioral-symptoms", "creative-arts-therapy", "dementia-management", "emotional-wellbeing", "fxa100", "nonpharmacological-interventions"]
 key_concepts: ["nonpharmacological-interventions", "quality-of-life-improvement"]
 methods: ["systematic-review"]
 slug: fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of
@@ -24,7 +24,6 @@ This systematic literature review evaluates the effectiveness of creative arts t
 
 ## Key Concepts
 
-- [nonpharmacological-interventions](../topics/nonpharmacological-interventions.md)
 - [quality-of-life-improvement](../topics/quality-of-life-improvement.md)
 
 ## Tags

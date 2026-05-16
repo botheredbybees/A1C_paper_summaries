@@ -7,7 +7,7 @@ doi: https://doi.org/10.1017/S0033291700054283
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["mood-assessment", "psychiatric-measurement", "clinical-reliability", "fxa100"]
+tags: ["clinical-reliability", "fxa100", "mood-assessment", "psychiatric-measurement", "quantitative-psychological-tests", "reliability-and-validity", "visual-analogue-mood-scale-vams"]
 key_concepts: ["Visual Analogue Mood Scale (VAMS)", "reliability and validity", "quantitative psychological tests"]
 methods: ["systematic review"]
 slug: fxa100-week13-reliability-validity-and-clinical-application-of-the-visual
@@ -24,9 +24,7 @@ This paper evaluates the reliability and validity of the Visual Analogue Mood Sc
 
 ## Key Concepts
 
-- [Visual Analogue Mood Scale (VAMS)](../topics/visual-analogue-mood-scale-vams.md)
-- [reliability and validity](../topics/reliability-and-validity.md)
-- [quantitative psychological tests](../topics/quantitative-psychological-tests.md)
+- *(none identified)*
 
 ## Tags
 

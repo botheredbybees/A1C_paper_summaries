@@ -7,7 +7,7 @@ doi: https://doi.org/10.4017/gt.2020.20.007.09
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["social-robotics", "dementia-care", "resilience-building", "case-study-research", "technology-assisted-interventions", "fxa303"]
+tags: ["case-study-research", "dementia-care", "facilitated-sessions", "fxa303", "resilience-building", "social-robot-interaction", "social-robotics", "technology-assisted-interventions"]
 key_concepts: ["resilience", "social-robot-interaction", "facilitated-sessions"]
 methods: ["multiple-case-study"]
 slug: fxa303-week13-the-effects-of-mario-a-social-robot-on-the-resilience-of
@@ -25,8 +25,6 @@ This study investigates the impact of MARIO, a social robot designed to enhance 
 ## Key Concepts
 
 - [resilience](../topics/resilience.md)
-- [social-robot-interaction](../topics/social-robot-interaction.md)
-- [facilitated-sessions](../topics/facilitated-sessions.md)
 
 ## Tags
 

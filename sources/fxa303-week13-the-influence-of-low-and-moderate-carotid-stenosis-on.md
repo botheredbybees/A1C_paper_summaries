@@ -7,7 +7,7 @@ doi: https://doi.org/10.3389/fneur.2012.00001
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["cardiovascular-surgery", "neurophysiology", "cerebral-complications", "coronary-artery-bypass-grafting", "carotid-stenosis", "fxa303"]
+tags: ["cardiovascular-disease-surgery-outcomes", "cardiovascular-surgery", "carotid-stenosis", "cerebral-complications", "coronary-artery-bypass-grafting", "fxa303", "internal-carotid-artery-stenosis", "neurophysiologic-status", "neurophysiology"]
 key_concepts: ["internal-carotid-artery-stenosis", "neurophysiologic-status", "cardiovascular-disease-surgery-outcomes"]
 methods: ["case-control-study"]
 slug: fxa303-week13-the-influence-of-low-and-moderate-carotid-stenosis-on
@@ -24,9 +24,7 @@ This study examines the impact of low and moderate internal carotid artery (ICA)
 
 ## Key Concepts
 
-- [internal-carotid-artery-stenosis](../topics/internal-carotid-artery-stenosis.md)
-- [neurophysiologic-status](../topics/neurophysiologic-status.md)
-- [cardiovascular-disease-surgery-outcomes](../topics/cardiovascular-disease-surgery-outcomes.md)
+- *(none identified)*
 
 ## Tags
 

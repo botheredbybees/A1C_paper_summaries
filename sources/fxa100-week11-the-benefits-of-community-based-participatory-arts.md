@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/17533015.2020.1781217
 appearances:
   - unit: FXA100
     week: "11"
-tags: ["community-arts", "dementia-care", "participatory-research", "quality-of-life", "social-well-being", "fxa100"]
+tags: ["community-arts", "dementia-care", "fxa100", "in-the-moment-experiences", "participation-and-communication", "participatory-research", "quality-of-life", "social-well-being"]
 key_concepts: ["person-centered care", "participation and communication", "in-the-moment experiences"]
 methods: ["thematic scoping review"]
 slug: fxa100-week11-the-benefits-of-community-based-participatory-arts
@@ -25,8 +25,6 @@ This thematic scoping review explores the impact of community-based participator
 ## Key Concepts
 
 - [person-centered care](../topics/person-centered-care.md)
-- [participation and communication](../topics/participation-and-communication.md)
-- [in-the-moment experiences](../topics/in-the-moment-experiences.md)
 
 ## Tags
 

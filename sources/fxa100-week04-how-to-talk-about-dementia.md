@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "How to talk about dementia"
@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "04"
-tags: ["dementia-awareness", "person-centered-care", "language-use-in-healthcare", "fxa100"]
+tags: ["dementia-awareness", "fxa100", "inclusive-terminology-for-dementia", "language-use-in-healthcare", "person-centered-care"]
 key_concepts: ["respectful-language", "empowerment-through-terminology"]
 methods: ["guideline-development"]
 slug: fxa100-week04-how-to-talk-about-dementia
@@ -25,7 +25,6 @@ The document 'How to Talk About Dementia' by Dementia Australia provides guideli
 ## Key Concepts
 
 - [respectful-language](../topics/respectful-language.md)
-- [inclusive-terminology-for-dementia](../topics/inclusive-terminology-for-dementia.md)
 
 ## Tags
 

@@ -7,7 +7,7 @@ doi: https://doi.org/10.1007/s40279-017-0853-5
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["dance-interventions", "physical-health-outcomes", "structured-exercise-programs", "meta-analysis", "fxa100"]
+tags: ["blood-biomarkers", "body-composition-improvement", "cardiovascular-function", "dance-interventions", "fxa100", "meta-analysis", "musculoskeletal-function", "physical-health-outcomes", "structured-exercise-programs"]
 key_concepts: ["body-composition-improvement", "blood-biomarkers", "musculoskeletal-function", "cardiovascular-function"]
 methods: ["systematic-review", "meta-analysis"]
 slug: fxa100-week13-the-effectiveness-of-dance-interventions-on-physical-health
@@ -24,10 +24,7 @@ This systematic review and meta-analysis examines the effectiveness of structure
 
 ## Key Concepts
 
-- [body-composition-improvement](../topics/body-composition-improvement.md)
-- [blood-biomarkers](../topics/blood-biomarkers.md)
-- [musculoskeletal-function](../topics/musculoskeletal-function.md)
-- [cardiovascular-function](../topics/cardiovascular-function.md)
+- *(none identified)*
 
 ## Tags
 

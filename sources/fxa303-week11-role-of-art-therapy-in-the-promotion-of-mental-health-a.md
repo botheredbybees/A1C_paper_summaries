@@ -7,7 +7,7 @@ doi: https://doi.org/10.7759/cureus.28026
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["mental-health-promotion", "art-therapy-interventions", "creative-expression", "therapeutic-practices", "rehabilitation-strategies", "fxa303"]
+tags: ["art-therapy-interventions", "creative-expression", "fxa303", "mental-health-promotion", "mental-health-rehabilitation", "rehabilitation-strategies", "therapeutic-practices"]
 key_concepts: ["art therapy", "mental health rehabilitation", "creative expression"]
 methods: ["critical review"]
 slug: fxa303-week11-role-of-art-therapy-in-the-promotion-of-mental-health-a
@@ -29,7 +29,6 @@ Shukla et al. also discuss the historical context of using arts for healing purp
 ## Key Concepts
 
 - [art therapy](../topics/art-therapy.md)
-- [mental health rehabilitation](../topics/mental-health-rehabilitation.md)
 - [creative expression](../topics/creative-expression.md)
 
 ## Tags

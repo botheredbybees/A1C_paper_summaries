@@ -7,7 +7,7 @@ doi: https://doi.org/10.1002/14651858.CD009178.pub4
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["dementia-treatment", "sleep-disorders", "pharmacotherapy-efficacy", "clinical-trials", "fxa303"]
+tags: ["clinical-trials", "dementia-treatment", "fxa303", "melatonin", "orexin-antagonists", "pharmacotherapy-efficacy", "ramelteon", "sleep-disorders", "trazodone"]
 key_concepts: ["melatonin", "orexin-antagonists", "trazodone", "ramelteon"]
 methods: ["systematic-review"]
 slug: fxa303-week13-pharmacotherapies-for-sleep-disturbances-in-dementia
@@ -24,10 +24,7 @@ The review assesses the efficacy and adverse effects of various drug treatments 
 
 ## Key Concepts
 
-- [melatonin](../topics/melatonin.md)
-- [orexin-antagonists](../topics/orexin-antagonists.md)
-- [trazodone](../topics/trazodone.md)
-- [ramelteon](../topics/ramelteon.md)
+- *(none identified)*
 
 ## Tags
 

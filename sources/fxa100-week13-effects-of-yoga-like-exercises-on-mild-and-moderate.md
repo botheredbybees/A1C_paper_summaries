@@ -7,7 +7,7 @@ doi: https://doi.org/10.62438/tunismed.v103i1.5341
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["alzheimer-disease", "yoga-exercises", "randomized-controlled-trial", "cognitive-function", "fxa100"]
+tags: ["alzheimer-disease", "cognitive-function", "fxa100", "modified-yoga-like-exercises", "neurocognitive-assessments", "randomized-controlled-trial", "yoga-exercises"]
 key_concepts: ["Alzheimer's disease", "neurocognitive assessments", "modified yoga-like exercises"]
 methods: ["randomized controlled trial"]
 slug: fxa100-week13-effects-of-yoga-like-exercises-on-mild-and-moderate
@@ -25,8 +25,6 @@ This research protocol outlines a randomized controlled trial designed to assess
 ## Key Concepts
 
 - [Alzheimer's disease](../topics/alzheimers-disease.md)
-- [neurocognitive assessments](../topics/neurocognitive-assessments.md)
-- [modified yoga-like exercises](../topics/modified-yoga-like-exercises.md)
 
 ## Tags
 

@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/13607860310001613275
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["music-therapy", "dementia-care", "qualitative-research", "behavioral-outcomes", "person-centered-care", "fxa100"]
+tags: ["behavioral-outcomes", "dementia-care", "fxa100", "kitwoods-theory-of-personhood", "music-therapy", "observational-methods", "person-centered-care", "qualitative-research"]
 key_concepts: ["Kitwood\u2019s theory of personhood", "observational methods"]
 methods: ["systematic review"]
 slug: fxa100-week13-music-interventions-for-people-with-dementia-a-review-of
@@ -24,8 +24,7 @@ This paper presents a qualitative review of 21 empirical studies on the effects 
 
 ## Key Concepts
 
-- [Kitwood’s theory of personhood](../topics/kitwoods-theory-of-personhood.md)
-- [observational methods](../topics/observational-methods.md)
+- *(none identified)*
 
 ## Tags
 

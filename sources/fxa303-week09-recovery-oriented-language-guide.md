@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Recovery Oriented Language Guide"
@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA303
     week: "09"
-tags: ["mental-health-discourse", "recovery-language", "stigma-reduction", "trauma-informed-care", "strengths-based-approach", "fxa303"]
+tags: ["fxa303", "language-choice-in-mental-health-recovery", "mental-health-discourse", "recovery-language", "stigma-reduction", "strengths-based-approach", "trauma-informed-care"]
 key_concepts: ["language-choice", "recovery-promotion", "stigma-prevention"]
 methods: ["guide"]
 slug: fxa303-week09-recovery-oriented-language-guide
@@ -26,7 +26,6 @@ The Recovery Oriented Language Guide, published by the Mental Health Coordinatin
 
 - [language-choice](../topics/language-choice.md)
 - [recovery-promotion](../topics/recovery-promotion.md)
-- [language-choice-in-mental-health-recovery](../topics/language-choice-in-mental-health-recovery.md)
 
 ## Tags
 

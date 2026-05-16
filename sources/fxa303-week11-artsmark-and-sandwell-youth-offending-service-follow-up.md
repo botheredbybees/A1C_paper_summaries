@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["creative-arts-intervention", "youth-offending-service", "self-expression-methods", "educational-re-engagement", "mental-wellbeing", "fxa303"]
+tags: ["artsmark", "creative-arts-intervention", "creative-arts-programs", "educational-re-engagement", "fxa303", "mental-wellbeing", "self-expression-methods", "youth-offending-service"]
 key_concepts: ["Artsmark", "Creative Arts Programs", "Self-expression", "Mental Well-being"]
 methods: ["case study"]
 slug: fxa303-week11-artsmark-and-sandwell-youth-offending-service-follow-up
@@ -24,8 +24,6 @@ The document discusses the integration of creative arts into the Sandwell Youth 
 
 ## Key Concepts
 
-- [Artsmark](../topics/artsmark.md)
-- [Creative Arts Programs](../topics/creative-arts-programs.md)
 - [Self-expression](../topics/self-expression.md)
 - [Mental Well-being](../topics/mental-well-being.md)
 

@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/17533015.2016.1247900
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["fine-arts-participation", "self-determination-theory", "locus-of-control", "developmental-disabilities", "qualitative-research", "psychological-wellbeing", "fxa301"]
+tags: ["developmental-disabilities", "fine-arts-participation", "fxa301", "internal-locus-of-control", "locus-of-control", "psychological-wellbeing", "qualitative-research", "self-determination-theory"]
 key_concepts: ["self-determination theory", "internal locus of control", "fine arts participation"]
 methods: ["quantitative study", "qualitative analysis"]
 slug: fxa301-week11-fine-arts-participation-self-determination-and-locus-of
@@ -25,8 +25,6 @@ The study by Robey et al. (2018) explores the relationship between fine arts par
 ## Key Concepts
 
 - [self-determination theory](../topics/self-determination-theory.md)
-- [internal locus of control](../topics/internal-locus-of-control.md)
-- [fine arts participation](../topics/fine-arts-participation.md)
 
 ## Tags
 

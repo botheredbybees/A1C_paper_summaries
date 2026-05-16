@@ -7,7 +7,7 @@ doi: https://doi.org/10.1177/2277436X241242525
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["dance-and-body-type", "anthropometric-assessments", "bengalee-females", "physical-activity-benefits", "kathak-dance", "fxa100"]
+tags: ["anthropometric-assessments", "bengalee-females", "body-composition", "dance-and-body-type", "fxa100", "heath-carter-somatotyping-method", "kathak-dance", "mesomorphy-endomorphy-balance", "physical-activity-benefits"]
 key_concepts: ["Heath-Carter somatotyping method", "body composition", "mesomorphy-endomorphy balance"]
 methods: ["anthropometric assessments"]
 slug: fxa100-week13-effect-of-dance-on-body-type-a-study-on-adult-bengalee
@@ -24,9 +24,7 @@ The study explores the impact of dance on body type and composition among adult 
 
 ## Key Concepts
 
-- [Heath-Carter somatotyping method](../topics/heath-carter-somatotyping-method.md)
-- [body composition](../topics/body-composition.md)
-- [mesomorphy-endomorphy balance](../topics/mesomorphy-endomorphy-balance.md)
+- *(none identified)*
 
 ## Tags
 

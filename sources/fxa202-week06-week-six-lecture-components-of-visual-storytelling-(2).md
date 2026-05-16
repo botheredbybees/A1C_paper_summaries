@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Week Six Lecture: Components of Visual Storytelling"
@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA202
     week: "06"
-tags: ["visual-storytelling", "narrative-structure", "photo-journalism", "fxa202"]
+tags: ["fxa202", "linear-narrative-in-visual-storytelling", "narrative-structure", "photo-journalism", "visual-storytelling"]
 key_concepts: ["linear-narrative", "non-linear-narrative"]
 methods: ["case-study"]
 slug: fxa202-week06-week-six-lecture-components-of-visual-storytelling-(2)
@@ -25,7 +25,6 @@ This Week Six lecture in the Photo Essay course emphasizes visual storytelling t
 ## Key Concepts
 
 - [linear-narrative](../topics/linear-narrative.md)
-- [linear-narrative-in-visual-storytelling](../topics/linear-narrative-in-visual-storytelling.md)
 
 ## Tags
 

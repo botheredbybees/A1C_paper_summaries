@@ -7,7 +7,7 @@ doi: https://doi.org/10.1177/13623613198961
 appearances:
   - unit: FXA202
     week: "13"
-tags: ["autism-spectrum-disorders", "well-being-research", "participatory-action-research", "photovoice-method", "fxa202"]
+tags: ["autism-spectrum-disorders", "fxa202", "participatory-action-research", "participatory-action-research-par", "photovoice-method", "well-being-research"]
 key_concepts: ["participatory action research (PAR)", "photovoice method", "quality of life"]
 methods: ["participatory action research", "photovoice"]
 slug: fxa202-week13-different-but-connected-participatory-action-research-using
@@ -24,8 +24,6 @@ The study explores the well-being of autistic young adults through a participato
 
 ## Key Concepts
 
-- [participatory action research (PAR)](../topics/participatory-action-research-par.md)
-- [photovoice method](../topics/photovoice-method.md)
 - [quality of life](../topics/quality-of-life.md)
 
 ## Tags

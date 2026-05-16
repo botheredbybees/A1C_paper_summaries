@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Evaluation of Differences in Temporal Synchrony Between Brain Regions in Individuals With Autism and Typical Development"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.1001/jamanetworkopen.2018.4777
 appearances:
   - unit: FXA303
     week: "04"
-tags: ["autism-spectrum-disorders", "brain-connectivity", "f-mri", "temporal-dynamics", "neural-networks", "symptom-severity", "fxa303"]
+tags: ["autism-spectrum-disorders", "brain-connectivity", "brain-connectivity-in-autism-and-art-production", "f-mri", "fxa303", "neural-networks", "symptom-severity", "temporal-dynamics"]
 key_concepts: ["functional brain connectivity", "temporal synchrony", "cognitive processing speed", "neural network dynamics", "autism symptom severity"]
 methods: ["multiband multiecho fMRI", "replication sample analysis"]
 slug: fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between
@@ -24,7 +24,6 @@ This study investigates the temporal dynamics of functional brain connectivity i
 
 ## Key Concepts
 
-- [functional brain connectivity](../topics/brain-connectivity-in-autism-and-art-production.md)
 - [temporal synchrony](../topics/temporal-synchrony.md)
 - [cognitive processing speed](../topics/autism-symptom-severity.md)
 - [neural network dynamics](../topics/autism-symptom-severity.md)

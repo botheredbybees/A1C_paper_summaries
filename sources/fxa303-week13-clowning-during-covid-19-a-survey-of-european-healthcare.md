@@ -7,7 +7,7 @@ doi: https://doi.org/10.1016/j.puhe.2021.05.016
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["healthcare-clowning", "covid-19-adaptation", "psychosocial-support", "fxa303"]
+tags: ["artistic-interventions", "covid-19-adaptation", "fxa303", "healthcare-clowning", "humour-in-healthcare", "psychosocial-support"]
 key_concepts: ["humour-in-healthcare", "artistic-interventions", "medical-clowns"]
 methods: ["survey"]
 slug: fxa303-week13-clowning-during-covid-19-a-survey-of-european-healthcare
@@ -24,8 +24,6 @@ This paper presents the findings of a Europe-wide survey investigating the impac
 
 ## Key Concepts
 
-- [humour-in-healthcare](../topics/humour-in-healthcare.md)
-- [artistic-interventions](../topics/artistic-interventions.md)
 - [medical-clowns](../topics/medical-clowns.md)
 
 ## Tags

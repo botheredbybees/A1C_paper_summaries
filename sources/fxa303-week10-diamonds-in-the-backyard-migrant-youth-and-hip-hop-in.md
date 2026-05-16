@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Diamonds in the Backyard: Migrant Youth and Hip Hop in Australian Regional Towns"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.1007/978-3-031-08615-1_2
 appearances:
   - unit: FXA303
     week: "10"
-tags: ["migrant-youth", "hip-hop-culture", "regional-australia", "cultural-expression", "identity-negotiation", "social-isolation", "fxa303"]
+tags: ["cultural-expression", "cultural-identity-negotiation-through-hip-hop", "fxa303", "hip-hop-culture", "identity-negotiation", "migrant-youth", "regional-australia", "social-isolation"]
 key_concepts: ["Hip hop culture", "Migrant youth experiences", "Cultural identity negotiation"]
 methods: ["case study"]
 slug: fxa303-week10-diamonds-in-the-backyard-migrant-youth-and-hip-hop-in
@@ -24,8 +24,6 @@ This chapter explores the role of hip hop among migrant youth in Australia's reg
 
 ## Key Concepts
 
-- [Hip hop culture](../topics/cultural-identity-negotiation-through-hip-hop.md)
-- [Migrant youth experiences](../topics/cultural-identity-negotiation-through-hip-hop.md)
 - [Cultural identity negotiation](../topics/cultural-identity-negotiation.md)
 
 ## Tags

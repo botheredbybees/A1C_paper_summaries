@@ -7,7 +7,7 @@ doi: https://doi.org/10.9789/2175-5361.rpcfo.v13.9898
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["cognitive-stimulation", "dementia-care", "institutionalized-elderly", "quality-of-life", "physical-activities", "fxa303"]
+tags: ["cognitive-stimulation", "dementia-care", "fxa303", "institutionalized-elderly", "multi-professional-care", "pharmacological-treatment-complement", "physical-activities", "quality-of-life"]
 key_concepts: ["cognitive stimulation", "multi-professional care", "pharmacological treatment complement"]
 methods: ["literature review"]
 slug: fxa303-week13-application-of-cognitive-stimulation-in-the-care-of
@@ -25,8 +25,6 @@ This study, a literature review focusing on nursing care for institutionalized e
 ## Key Concepts
 
 - [cognitive stimulation](../topics/cognitive-stimulation.md)
-- [multi-professional care](../topics/multi-professional-care.md)
-- [pharmacological treatment complement](../topics/pharmacological-treatment-complement.md)
 
 ## Tags
 

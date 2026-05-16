@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Engaging in Community Music: An Introduction"
@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["community-music", "non-formal-education", "social-transformation", "musical-engagement", "inclusive-practices", "fxa301"]
+tags: ["community-music", "context-specific-practices", "fxa301", "inclusive-practices", "musical-engagement", "non-formal-education", "social-transformation"]
 key_concepts: ["participatory-action-research", "context-specific-practices"]
 methods: ["case-study"]
 slug: fxa301-week01-engaging-in-community-music-an-introduction-(2)
@@ -25,7 +25,6 @@ This introductory text explores the growing field of community music, emphasizin
 ## Key Concepts
 
 - [participatory-action-research](../topics/participatory-action-research.md)
-- [context-specific-practices](../topics/context-specific-practices.md)
 
 ## Tags
 

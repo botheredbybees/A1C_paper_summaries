@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["refugee-camps", "art-therapy", "community-building", "peace-promotion", "creative-expression", "fxa301"]
+tags: ["art-therapy", "community-building", "creative-expression", "creative-expression-in-refugee-settings", "fxa301", "paint-outside-the-lines-project", "peace-promotion", "refugee-camps"]
 key_concepts: ["Paint Outside the Lines project", "Creative expression in refugee settings"]
 methods: ["case study"]
 slug: fxa301-week11-colouring-it-beautiful-artists-on-the-loose-in-a-refugee
@@ -24,8 +24,7 @@ The article 'Colouring it beautiful: artists on the loose in a refugee camp - in
 
 ## Key Concepts
 
-- [Paint Outside the Lines project](../topics/paint-outside-the-lines-project.md)
-- [Creative expression in refugee settings](../topics/creative-expression-in-refugee-settings.md)
+- *(none identified)*
 
 ## Tags
 

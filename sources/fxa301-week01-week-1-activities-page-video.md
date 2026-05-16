@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["online-learning", "student-engagement", "discussion-forums", "fxa301"]
+tags: ["discussion-forums", "fxa301", "online-learning", "peer-interaction", "student-engagement", "tutor-moderation"]
 key_concepts: ["tutor-moderation", "peer-interaction"]
 methods: []
 slug: fxa301-week01-week-1-activities-page-video
@@ -24,8 +24,7 @@ This document is a video transcript for explaining weekly activities and expecta
 
 ## Key Concepts
 
-- [tutor-moderation](../topics/tutor-moderation.md)
-- [peer-interaction](../topics/peer-interaction.md)
+- *(none identified)*
 
 ## Tags
 

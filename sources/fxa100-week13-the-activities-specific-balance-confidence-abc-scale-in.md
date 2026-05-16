@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/1091367X.2021.1949321
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["visual-impairment", "balance-confidence", "self-efficacy-theory", "psychometrics", "youth-health", "fxa100"]
+tags: ["activities-specific-balance-confidence-abc-scale", "balance-confidence", "fxa100", "psychometrics", "self-efficacy-theory", "visual-impairment", "youth-health"]
 key_concepts: ["Activities-specific Balance Confidence (ABC) Scale", "self-efficacy theory"]
 methods: ["psychometric analysis"]
 slug: fxa100-week13-the-activities-specific-balance-confidence-abc-scale-in
@@ -28,8 +28,7 @@ The study highlights the importance of psychometric validation for specific popu
 
 ## Key Concepts
 
-- [Activities-specific Balance Confidence (ABC) Scale](../topics/activities-specific-balance-confidence-abc-scale.md)
-- [self-efficacy theory](../topics/self-efficacy-theory.md)
+- *(none identified)*
 
 ## Tags
 

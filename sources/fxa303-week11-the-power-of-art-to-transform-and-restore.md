@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["art-therapy", "incarcerated-youth", "rehabilitation-programmes", "restorative-justice", "self-esteem-enhancement", "fxa303"]
+tags: ["art-therapy", "fxa303", "incarcerated-youth", "rehabilitation-programmes", "restorative-justice", "self-esteem-enhancement", "social-bonds"]
 key_concepts: ["art therapy", "rehabilitation", "restorative justice", "social bonds"]
 methods: ["case study"]
 slug: fxa303-week11-the-power-of-art-to-transform-and-restore
@@ -26,8 +26,6 @@ Karen Miner-Romanoff's paper 'Voices from Inside: The Power of Art to Transform 
 
 - [art therapy](../topics/art-therapy.md)
 - [rehabilitation](../topics/rehabilitation.md)
-- [restorative justice](../topics/restorative-justice.md)
-- [social bonds](../topics/social-bonds.md)
 
 ## Tags
 

@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["queer-stories", "gender-diversity", "theatre-performances", "fxa303"]
+tags: ["fxa303", "gender-diversity", "queer-stories", "societal-norms-challenge", "theatre-performances"]
 key_concepts: ["inclusive-art", "societal-norms-challenge"]
 methods: []
 slug: fxa303-week11-your-guide-to-celebrating-queer-and-gender-diverse-stories
@@ -25,7 +25,6 @@ The Geelong Arts Centre presents a guide to celebrating queer and gender-diverse
 ## Key Concepts
 
 - [inclusive-art](../topics/inclusive-art.md)
-- [societal-norms-challenge](../topics/societal-norms-challenge.md)
 
 ## Tags
 

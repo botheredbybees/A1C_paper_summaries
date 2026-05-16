@@ -7,7 +7,7 @@ doi: https://doi.org/10.1016/j.jval.2022.09.003
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["quality-of-life", "elderly-health", "health-measures", "content-validation", "think-aloud-method", "fxa301"]
+tags: ["content-validation", "content-validity", "elderly-health", "fxa301", "health-measures", "health-related-quality-of-life-measures", "quality-of-life", "think-aloud-method"]
 key_concepts: ["quality of life", "health-related quality of life measures", "content validity"]
 methods: ["qualitative think-aloud interviews"]
 slug: fxa301-week01-a-qualitative-investigation-of-older-adults
@@ -25,8 +25,6 @@ This study explores older adults’ understanding of quality of life (QoL) and t
 ## Key Concepts
 
 - [quality of life](../topics/quality-of-life.md)
-- [health-related quality of life measures](../topics/health-related-quality-of-life-measures.md)
-- [content validity](../topics/content-validity.md)
 
 ## Tags
 

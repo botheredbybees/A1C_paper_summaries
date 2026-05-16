@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Welcome to Week 4 - FXA100 The Arts and Dementia Care"
@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "04"
-tags: ["dementia-care", "music-therapy", "participatory-music", "quality-of-life", "caregiver-wellbeing", "fxa100"]
+tags: ["caregiver-wellbeing", "dementia-care", "fxa100", "music-therapy", "music-therapy-and-cognitive-stimulation-for-dementia-patients", "participatory-music", "quality-of-life"]
 key_concepts: ["musical-interventions", "emotional-activation", "speech-recovery", "professional-registration"]
 methods: ["case-study"]
 slug: fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care
@@ -24,8 +24,6 @@ This document introduces the fourth week of FXA100 The Arts and Dementia Care, f
 
 ## Key Concepts
 
-- [music-therapy-and-cognitive-stimulation-for-dementia-patients](../topics/music-therapy-and-cognitive-stimulation-for-dementia-patients.md)
-- [music-therapy-and-cognitive-stimulation-for-dementia-patients](../topics/music-therapy-and-cognitive-stimulation-for-dementia-patients.md)
 - [speech-recovery](../topics/speech-recovery.md)
 - [professional-registration](../topics/professional-registration.md)
 

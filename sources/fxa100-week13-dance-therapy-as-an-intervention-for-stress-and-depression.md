@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/17432979.2024.2377389
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["dance-therapy", "mental-health-interventions", "stress-management", "depression-treatment", "systematic-review", "fxa100"]
+tags: ["dance-therapy", "depression-treatment", "fxa100", "mental-health-interventions", "psychological-flexibility", "stress-management", "systematic-review", "treatment-resistant-depression"]
 key_concepts: ["treatment-resistant-depression", "psychological-flexibility", "emotional-resilience"]
 methods: ["systematic-review", "meta-analysis"]
 slug: fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression
@@ -24,8 +24,6 @@ This systematic review and meta-analysis evaluates the efficacy of dance therapy
 
 ## Key Concepts
 
-- [treatment-resistant-depression](../topics/treatment-resistant-depression.md)
-- [psychological-flexibility](../topics/psychological-flexibility.md)
 - [emotional-resilience](../topics/emotional-resilience.md)
 
 ## Tags

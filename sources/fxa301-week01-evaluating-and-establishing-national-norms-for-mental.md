@@ -7,7 +7,7 @@ doi: https://doi.org/10.1007/s11136-016-1454-8
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["mental-wellbeing", "health-survey-england", "norm-establishment", "fxa301"]
+tags: ["fxa301", "health-survey-england", "mental-wellbeing", "national-norms", "norm-establishment", "short-warwickedinburgh-mental-well-being-scale-swemwbs"]
 key_concepts: ["Short Warwick\u2013Edinburgh Mental Well-being Scale (SWEMWBS)", "national norms"]
 methods: ["Health Survey for England"]
 slug: fxa301-week01-evaluating-and-establishing-national-norms-for-mental
@@ -24,8 +24,7 @@ The study evaluates the Short Warwick–Edinburgh Mental Well-being Scale (SWEMW
 
 ## Key Concepts
 
-- [Short Warwick–Edinburgh Mental Well-being Scale (SWEMWBS)](../topics/short-warwickedinburgh-mental-well-being-scale-swemwbs.md)
-- [national norms](../topics/national-norms.md)
+- *(none identified)*
 
 ## Tags
 

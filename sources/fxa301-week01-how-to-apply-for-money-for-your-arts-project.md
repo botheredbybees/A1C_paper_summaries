@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["arts-funding", "grant-application-process", "creative-projects", "fxa301"]
+tags: ["arts-funding", "arts-project-assessment", "creative-projects", "fxa301", "grant-application-process", "grant-eligibility-criteria", "online-application-form"]
 key_concepts: ["grant eligibility criteria", "online application form", "arts project assessment"]
 methods: ["guidance document"]
 slug: fxa301-week01-how-to-apply-for-money-for-your-arts-project
@@ -24,9 +24,7 @@ This document, 'How to Apply for Money for Your Arts Project,' provides guidance
 
 ## Key Concepts
 
-- [grant eligibility criteria](../topics/grant-eligibility-criteria.md)
-- [online application form](../topics/online-application-form.md)
-- [arts project assessment](../topics/arts-project-assessment.md)
+- *(none identified)*
 
 ## Tags
 

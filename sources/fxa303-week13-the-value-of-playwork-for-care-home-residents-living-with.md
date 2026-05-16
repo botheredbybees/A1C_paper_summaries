@@ -7,7 +7,7 @@ doi: https://doi.org/10.1177/1471301225136227
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["dementia-care", "playwork-therapy", "resident-engagement", "care-home-staff", "fxa303"]
+tags: ["autonomy-respect", "care-home-staff", "dementia-care", "fxa303", "playwork-therapy", "relational-approach", "resident-engagement"]
 key_concepts: ["autonomy-respect", "emotional-well-being", "relational-approach"]
 methods: ["pilot-study"]
 slug: fxa303-week13-the-value-of-playwork-for-care-home-residents-living-with
@@ -24,9 +24,7 @@ This study explores the application of playwork principles in dementia care, aim
 
 ## Key Concepts
 
-- [autonomy-respect](../topics/autonomy-respect.md)
 - [emotional-well-being](../topics/emotional-well-being.md)
-- [relational-approach](../topics/relational-approach.md)
 
 ## Tags
 

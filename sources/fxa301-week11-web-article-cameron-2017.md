@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["music-therapy", "intellectual-disabilities", "national-disability-insurance-scheme", "ndis", "australian-healthcare", "fxa301"]
+tags: ["australian-healthcare", "fxa301", "intellectual-disabilities", "music-therapy", "music-therapy-services", "national-disability-insurance-scheme", "national-disability-insurance-scheme-ndis", "ndis"]
 key_concepts: ["National Disability Insurance Scheme (NDIS)", "Music Therapy Services"]
 methods: []
 slug: fxa301-week11-web-article-cameron-2017
@@ -24,8 +24,7 @@ The article discusses the role of long-term music therapy for individuals with s
 
 ## Key Concepts
 
-- [National Disability Insurance Scheme (NDIS)](../topics/national-disability-insurance-scheme-ndis.md)
-- [Music Therapy Services](../topics/music-therapy-services.md)
+- *(none identified)*
 
 ## Tags
 

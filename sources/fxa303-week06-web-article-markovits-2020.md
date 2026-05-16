@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA303
     week: "06"
-tags: ["authentication", "shibboleth", "security", "fxa303"]
+tags: ["access-control-mechanism", "authentication", "fxa303", "security", "shibboleth", "shibboleth-authentication"]
 key_concepts: ["Shibboleth Authentication", "Access Control Mechanism"]
 methods: []
 slug: fxa303-week06-web-article-markovits-2020
@@ -24,8 +24,7 @@ The provided content links to a Shibboleth Authentication Request page which is 
 
 ## Key Concepts
 
-- [Shibboleth Authentication](../topics/shibboleth-authentication.md)
-- [Access Control Mechanism](../topics/access-control-mechanism.md)
+- *(none identified)*
 
 ## Tags
 

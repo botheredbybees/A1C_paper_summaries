@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["music-education", "youth-leadership", "inclusive-practices", "community-engagement", "fxa303"]
+tags: ["co-created-content", "community-engagement", "empowerment-of-youth", "fxa303", "inclusive-practices", "music-education", "systemic-change-in-music-education", "youth-leadership"]
 key_concepts: ["empowerment of youth", "systemic change in music education", "co-created content"]
 methods: ["case study"]
 slug: fxa303-week11-orchestras-for-all-impact-report-2023-2024
@@ -24,9 +24,7 @@ The Orchestras for All Impact Report 2023-2024 documents the organization's miss
 
 ## Key Concepts
 
-- [empowerment of youth](../topics/empowerment-of-youth.md)
-- [systemic change in music education](../topics/systemic-change-in-music-education.md)
-- [co-created content](../topics/co-created-content.md)
+- *(none identified)*
 
 ## Tags
 

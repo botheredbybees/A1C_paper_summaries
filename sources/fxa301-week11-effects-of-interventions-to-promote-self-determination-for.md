@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["self-determination-disabilities", "meta-analysis-education", "special-education-interventions", "fxa301"]
+tags: ["disability-groups", "fxa301", "meta-analysis-education", "self-determination-disabilities", "special-education-interventions"]
 key_concepts: ["self-determination", "meta-analysis", "disability-groups"]
 methods: ["systematic-review", "meta-analysis"]
 slug: fxa301-week11-effects-of-interventions-to-promote-self-determination-for
@@ -26,7 +26,6 @@ The article reviews research on the effects of interventions designed to enhance
 
 - [self-determination](../topics/self-determination.md)
 - [meta-analysis](../topics/meta-analysis.md)
-- [disability-groups](../topics/disability-groups.md)
 
 ## Tags
 

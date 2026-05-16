@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/17533015.2015.1048695
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["arts-in-healthcare", "observational-scale-validation", "performing-arts-evaluation", "fxa301"]
+tags: ["arts-in-healthcare", "arts-observational-scale-artsobs", "construct-validity", "fxa301", "inter-rater-reliability", "observational-scale-validation", "performing-arts-evaluation"]
 key_concepts: ["Arts Observational Scale (ArtsObS)", "construct validity", "inter-rater reliability"]
 methods: ["validation study", "mixed-methods"]
 slug: fxa301-week01-validation-of-the-arts-observational-scale-for-the
@@ -24,9 +24,7 @@ This article introduces the Arts Observational Scale (ArtsObS), a tool designed 
 
 ## Key Concepts
 
-- [Arts Observational Scale (ArtsObS)](../topics/arts-observational-scale-artsobs.md)
-- [construct validity](../topics/construct-validity.md)
-- [inter-rater reliability](../topics/inter-rater-reliability.md)
+- *(none identified)*
 
 ## Tags
 

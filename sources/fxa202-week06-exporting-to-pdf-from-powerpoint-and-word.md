@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Exporting to PDF from PowerPoint and Word"
@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA202
     week: "06"
-tags: ["file-export", "pdf-creation", "document-sharing", "fxa202"]
+tags: ["document-sharing", "file-export", "fxa202", "microsoft-office-document-conversion", "pdf-creation"]
 key_concepts: ["PDF format", "Microsoft Office"]
 methods: ["instruction guide"]
 slug: fxa202-week06-exporting-to-pdf-from-powerpoint-and-word
@@ -24,7 +24,6 @@ This document provides instructions on how to export documents created in Micros
 
 ## Key Concepts
 
-- [PDF format](../topics/microsoft-office-document-conversion.md)
 - [Microsoft Office](../topics/microsoft-office.md)
 
 ## Tags

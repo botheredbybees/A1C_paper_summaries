@@ -7,7 +7,7 @@ doi: https://doi.org/10.1093/mind/fzs080
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["memory-and-identity", "personal-continuity", "episodic-memory", "self-reference", "neurological-studies", "philosophical-psychology", "fxa303"]
+tags: ["episodic-memory", "fxa303", "memory-and-identity", "neurological-studies", "personal-continuity", "philosophical-psychology", "quasi-memory", "self-reference", "sense-of-mineness", "two-component-model"]
 key_concepts: ["sense-of-mineness", "two-component-model", "quasi-memory"]
 methods: ["case-study"]
 slug: fxa303-week13-memory-and-the-sense-of-personal-identity
@@ -24,9 +24,7 @@ The article 'Memory and the Sense of Personal Identity' by Stanley B. Klein and 
 
 ## Key Concepts
 
-- [sense-of-mineness](../topics/sense-of-mineness.md)
-- [two-component-model](../topics/two-component-model.md)
-- [quasi-memory](../topics/quasi-memory.md)
+- *(none identified)*
 
 ## Tags
 

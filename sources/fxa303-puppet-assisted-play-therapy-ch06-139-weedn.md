@@ -7,7 +7,7 @@ apa7: "Hulburd, C. (2020). Puppet-assisted play therapy: Theory, research, and p
 doi: null
 appearances:
   - unit: FXA303
-tags: ["puppet-assisted-play-therapy", "child-psychology", "therapeutic-interventions", "fxa303"]
+tags: ["child-psychology", "fxa303", "mindsight", "puppet-assisted-play-therapy", "sift-process", "therapeutic-interventions"]
 key_concepts: ["puppet therapy", "sift process", "mindsight"]
 methods: []
 slug: fxa303-puppet-assisted-play-therapy-ch06-139-weedn
@@ -25,8 +25,6 @@ Cheryl Hulburd's book introduces the concept of puppet-assisted play therapy (PA
 ## Key Concepts
 
 - [puppet therapy](../topics/puppet-therapy.md)
-- [sift process](../topics/sift-process.md)
-- [mindsight](../topics/mindsight.md)
 
 ## Tags
 

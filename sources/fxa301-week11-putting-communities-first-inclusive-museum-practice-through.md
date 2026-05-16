@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["inclusive-museum-practice", "community-engagement", "accessibility-for-neurodivergent-individuals", "museum-education", "fxa301"]
+tags: ["accessibility-for-neurodivergent-individuals", "advocacy", "capability-building", "cares-framework", "community-engagement", "fxa301", "inclusive-museum-practice", "museum-education"]
 key_concepts: ["CARES framework", "Capability Building", "Advocacy"]
 methods: ["case study"]
 slug: fxa301-week11-putting-communities-first-inclusive-museum-practice-through
@@ -24,9 +24,7 @@ This article discusses how the National Gallery Singapore shifted its approach t
 
 ## Key Concepts
 
-- [CARES framework](../topics/cares-framework.md)
-- [Capability Building](../topics/capability-building.md)
-- [Advocacy](../topics/advocacy.md)
+- *(none identified)*
 
 ## Tags
 

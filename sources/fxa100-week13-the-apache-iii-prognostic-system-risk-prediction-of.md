@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["apache-iii", "hospital-mortality-prediction", "intensive-care-units", "risk-assessment-systems", "clinical-decision-making", "fxa100"]
+tags: ["apache-iii", "apache-iii-scoring-system", "clinical-decision-making", "fxa100", "hospital-mortality-prediction", "icu-admission-criteria", "intensive-care-units", "mortality-prediction", "risk-assessment-systems"]
 key_concepts: ["APACHE III scoring system", "mortality prediction", "ICU admission criteria"]
 methods: ["systematic review"]
 slug: fxa100-week13-the-apache-iii-prognostic-system-risk-prediction-of
@@ -24,9 +24,7 @@ The paper introduces the APACHE III system designed to predict hospital mortalit
 
 ## Key Concepts
 
-- [APACHE III scoring system](../topics/apache-iii-scoring-system.md)
-- [mortality prediction](../topics/mortality-prediction.md)
-- [ICU admission criteria](../topics/icu-admission-criteria.md)
+- *(none identified)*
 
 ## Tags
 

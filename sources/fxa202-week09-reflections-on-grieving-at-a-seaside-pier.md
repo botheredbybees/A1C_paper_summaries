@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Reflections on Grieving at a Seaside Pier"
@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA202
     week: "09"
-tags: ["personal-reflection", "grief-coping-mechanisms", "natural-therapies", "mourning-process", "memorial-sites", "fxa202"]
+tags: ["emotional-journey-through-grief", "fxa202", "grief-coping-mechanisms", "memorial-sites", "mourning-process", "natural-therapies", "personal-reflection"]
 key_concepts: ["emotional-journey", "ocean-as-a-symbol-of-grief", "strength-and-self-discovery-in-loss"]
 methods: ["personal-narrative"]
 slug: fxa202-week09-reflections-on-grieving-at-a-seaside-pier
@@ -26,7 +26,6 @@ The document is a poignant narrative by Alison Higgins reflecting on the emotion
 
 - [emotional-journey](../topics/emotional-journey.md)
 - [ocean-as-a-symbol-of-grief](../topics/ocean-as-a-symbol-of-grief.md)
-- [emotional-journey-through-grief](../topics/emotional-journey-through-grief.md)
 
 ## Tags
 

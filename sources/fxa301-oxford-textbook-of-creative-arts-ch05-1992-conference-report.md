@@ -9,7 +9,7 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
-tags: ["art-and-health", "public-art", "healing-environments", "fxa301"]
+tags: ["art-and-health", "fxa301", "healing-environments", "public-art", "therapeutic-design"]
 key_concepts: ["arts-in-healthcare", "therapeutic-design"]
 methods: []
 slug: fxa301-oxford-textbook-of-creative-arts-ch05-1992-conference-report
@@ -27,7 +27,6 @@ This chapter explores the intersection between contemporary art and healthcare s
 ## Key Concepts
 
 - [arts-in-healthcare](../topics/arts-in-healthcare.md)
-- [therapeutic-design](../topics/therapeutic-design.md)
 
 ## Tags
 

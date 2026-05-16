@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Can arts-based interventions improve health? A conceptual and methodological critique"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.1016/j.plrev.2025.03.003
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["arts-based-interventions", "health-outcomes", "methodological-critique", "fxa100"]
+tags: ["arts-based-interventions", "confounding-factors", "definition-of-art", "fxa100", "health-outcomes", "methodological-critique", "randomization"]
 key_concepts: ["randomization", "confounding-factors", "definition-of-art"]
 methods: ["systematic-review"]
 slug: fxa100-week13-can-arts-based-interventions-improve-health-a-conceptual
@@ -24,9 +24,7 @@ The article critiques the claim that engaging with art improves mental and physi
 
 ## Key Concepts
 
-- [randomization](../topics/randomization.md)
-- [confounding-factors](../topics/confounding-factors.md)
-- [definition-of-art](../topics/definition-of-art.md)
+- *(none identified)*
 
 ## Tags
 

@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["refugee-experience", "art-and-migration", "cultural-impact", "fxa301"]
+tags: ["art-and-migration", "cultural-impact", "displacement-and-culture", "fxa301", "migration-influence-on-art", "philosophy-of-refugee-studies", "refugee-experience"]
 key_concepts: ["migration-influence-on-art", "displacement-and-culture", "philosophy-of-refugee-studies"]
 methods: ["exhibition-analysis"]
 slug: fxa301-week11-the-museum-is-the-refugees-home
@@ -24,9 +24,7 @@ This article discusses a significant exhibition at the Phillips Collection in Wa
 
 ## Key Concepts
 
-- [migration-influence-on-art](../topics/migration-influence-on-art.md)
-- [displacement-and-culture](../topics/displacement-and-culture.md)
-- [philosophy-of-refugee-studies](../topics/philosophy-of-refugee-studies.md)
+- *(none identified)*
 
 ## Tags
 

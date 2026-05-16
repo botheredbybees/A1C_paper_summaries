@@ -7,7 +7,7 @@ doi: https://doi.org/10.3389/fpsyg.2025.1595856
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["arts-on-prescription", "sensory-engagement", "emotional-arousal-mechanisms", "multisensory-experience", "cultural-cognition", "fxa100"]
+tags: ["arts-on-prescription", "cultural-cognition", "emotional-arousal-mechanisms", "fxa100", "multisensory-experience", "personality-types-and-color-emotion-associations", "sensory-engagement"]
 key_concepts: ["Arts on Prescription", "Emotional Arousal Mechanisms", "Cultural Cognition", "Personality Types and Color-Emotion Associations"]
 methods: ["cross-cultural workshop", "pre-post intervention measurement"]
 slug: fxa100-week13-sensory-mediated-arts-on-prescription-emotional-arousal
@@ -25,9 +25,6 @@ This study investigates the therapeutic potential of Portuguese Azulejo craft wo
 ## Key Concepts
 
 - [Arts on Prescription](../topics/arts-on-prescription.md)
-- [Emotional Arousal Mechanisms](../topics/emotional-arousal-mechanisms.md)
-- [Cultural Cognition](../topics/cultural-cognition.md)
-- [Personality Types and Color-Emotion Associations](../topics/personality-types-and-color-emotion-associations.md)
 
 ## Tags
 

@@ -7,7 +7,7 @@ doi: https://doi.org/10.15845/voices.v19i3.2687
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["creative-arts", "music-therapy", "art-therapy", "gender-diversity", "queer-theory", "youth-development", "fxa303"]
+tags: ["anti-oppressive-practices", "art-therapy", "co-tinkering", "creative-arts", "fxa303", "gender-diversity", "intersectionality", "music-therapy", "queer-theory", "youth-development"]
 key_concepts: ["co-tinkering", "anti-oppressive practices", "intersectionality"]
 methods: []
 slug: fxa303-week11-web-article-hardy-2019
@@ -24,9 +24,7 @@ This article explores the development and implementation of a creative arts prog
 
 ## Key Concepts
 
-- [co-tinkering](../topics/co-tinkering.md)
-- [anti-oppressive practices](../topics/anti-oppressive-practices.md)
-- [intersectionality](../topics/intersectionality.md)
+- *(none identified)*
 
 ## Tags
 

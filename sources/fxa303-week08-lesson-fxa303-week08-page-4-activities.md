@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA303
     week: "08"
-tags: ["social-clowning", "mental-wellbeing", "therapeutic-clowning", "fxa303"]
+tags: ["clown-doctor-rounds", "fxa303", "mental-wellbeing", "social-clowning", "therapeutic-clowning"]
 key_concepts: ["Clown Doctor Rounds", "Therapeutic Clowns"]
 methods: []
 slug: fxa303-week08-lesson-fxa303-week08-page-4-activities
@@ -24,7 +24,6 @@ Week 8 of the FXA303 Creative Arts course focuses on social clowning's impact on
 
 ## Key Concepts
 
-- [Clown Doctor Rounds](../topics/clown-doctor-rounds.md)
 - [Therapeutic Clowns](../topics/therapeutic-clowns.md)
 
 ## Tags

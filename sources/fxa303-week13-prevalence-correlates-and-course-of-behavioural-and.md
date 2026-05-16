@@ -7,7 +7,7 @@ doi: https://doi.org/10.1192/bjp.bp.108.049619
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["behavioral-symptoms-dementia", "psychological-symptoms-dementia", "prevalence-correlates", "population-study", "fxa303"]
+tags: ["behavioral-symptoms-dementia", "four-factor-solution-for-symptom-co-occurrence", "fxa303", "population-study", "prevalence-correlates", "psychological-symptoms-dementia"]
 key_concepts: ["Behavioral and Psychological Symptoms of Dementia (BPSD)", "Four-Factor Solution for Symptom Co-occurrence"]
 methods: ["longitudinal study", "systematic review"]
 slug: fxa303-week13-prevalence-correlates-and-course-of-behavioural-and
@@ -25,7 +25,6 @@ This study explores the behavioral and psychological symptoms of dementia (BPSD)
 ## Key Concepts
 
 - [Behavioral and Psychological Symptoms of Dementia (BPSD)](../topics/behavioral-and-psychological-symptoms-of-dementia-bpsd.md)
-- [Four-Factor Solution for Symptom Co-occurrence](../topics/four-factor-solution-for-symptom-co-occurrence.md)
 
 ## Tags
 

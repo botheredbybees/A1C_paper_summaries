@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "The art of being mentally healthy: a study to quantify the relationship between recreational arts engagement and mental well-being in the general population"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.1186/s12889-015-2672-7
 appearances:
   - unit: FXA301
     week: "03"
-tags: ["mental-well-being", "recreational-arts", "population-health", "social-epidemiology", "biopsychosocial-model", "fxa301"]
+tags: ["biopsychosocial-model", "dose-response-relationship-in-mental-health-interventions", "fxa301", "mental-well-being", "population-health", "recreational-arts", "social-epidemiology"]
 key_concepts: ["recreational arts engagement", "mental well-being", "dose-response relationship"]
 methods: ["telephone survey"]
 slug: fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the
@@ -24,7 +24,6 @@ The study explores the relationship between recreational arts engagement and men
 
 ## Key Concepts
 
-- [recreational arts engagement](../topics/dose-response-relationship-in-mental-health-interventions.md)
 - [mental well-being](../topics/mental-well-being.md)
 - [dose-response relationship](../topics/dose-response-relationship.md)
 

@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["community-arts", "collaborative-practices", "inclusive-art", "ethical-considerations", "marginalized-groups", "fxa301"]
+tags: ["collaborative-practices", "community-arts", "ethical-considerations", "fxa301", "inclusive-art", "marginalized-groups", "transformative-power-of-art"]
 key_concepts: ["transformative-power-of-art", "cultural-sensitivity", "community-well-being"]
 methods: ["guideline-development"]
 slug: fxa301-week01-making-art-with-communities-a-work-guide-(2)
@@ -24,7 +24,6 @@ The document 'Making Art with Communities: A Work Guide' serves as a comprehensi
 
 ## Key Concepts
 
-- [transformative-power-of-art](../topics/transformative-power-of-art.md)
 - [cultural-sensitivity](../topics/cultural-sensitivity.md)
 - [community-well-being](../topics/community-well-being.md)
 

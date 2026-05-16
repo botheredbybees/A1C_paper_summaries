@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "What are the Required Elements Needed to Create an Effective Visual Art Intervention for People with Dementia? A Qualitative Exploration"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.1177/1471301220938481
 appearances:
   - unit: FXA100
     week: "08"
-tags: ["dementia-care", "visual-art-therapy", "qualitative-research", "group-interventions", "facilitator-role", "fxa100"]
+tags: ["dementia-care", "elements-of-effective-visual-art-intervention", "facilitator-role", "fxa100", "group-interventions", "qualitative-research", "visual-art-therapy"]
 key_concepts: ["effective-intervention-elements", "participant-choice", "skilled-facilitation"]
 methods: ["qualitative-exploration"]
 slug: fxa100-week08-what-are-the-required-elements-needed-to-create-an
@@ -26,7 +26,6 @@ This paper explores the essential components necessary for an effective visual a
 
 - [effective-intervention-elements](../topics/effective-intervention-elements.md)
 - [participant-choice](../topics/participant-choice.md)
-- [elements-of-effective-visual-art-intervention](../topics/elements-of-effective-visual-art-intervention.md)
 
 ## Tags
 

@@ -7,7 +7,7 @@ doi: https://doi.org/10.1007/s43151-022-00073-9
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["arts-education", "youth-development", "social-inequality", "ethnographic-research", "fxa303"]
+tags: ["arts-education", "arts-programming", "at-risk-youth", "deficit-thinking", "ethnographic-research", "fxa303", "social-inequality", "youth-development"]
 key_concepts: ["at-risk-youth", "arts-programming", "deficit-thinking"]
 methods: ["multisited-ethnography"]
 slug: fxa303-week11-using-and-abusing-the-arts-with-at-risk-youth
@@ -24,9 +24,7 @@ Frances Howard's article explores the differential quality of arts programs offe
 
 ## Key Concepts
 
-- [at-risk-youth](../topics/at-risk-youth.md)
-- [arts-programming](../topics/arts-programming.md)
-- [deficit-thinking](../topics/deficit-thinking.md)
+- *(none identified)*
 
 ## Tags
 

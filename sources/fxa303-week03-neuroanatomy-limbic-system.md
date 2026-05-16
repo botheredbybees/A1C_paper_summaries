@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Neuroanatomy, Limbic System"
@@ -9,7 +9,7 @@ appearances:
     week: "03"
   - unit: FXA303
     week: "02"
-tags: ["brain-structure", "limbic-system-functions", "neuroanatomy-overview", "fxa303"]
+tags: ["brain-structure", "fxa303", "limbic-system-functions", "neuroanatomy-overview", "the-hippocampus-in-brain-function", "the-limbic-system-in-brain-function-and-perception"]
 key_concepts: ["hippocampus-memory-function", "amygdala-emotional-processing", "cingulate-gyrus-cognitive-motivation"]
 methods: ["literature-review"]
 slug: fxa303-week03-neuroanatomy-limbic-system
@@ -26,8 +26,6 @@ The document provides an overview of the limbic system's structure and function 
 
 ## Key Concepts
 
-- [the-hippocampus-in-brain-function](../topics/the-hippocampus-in-brain-function.md)
-- [the-limbic-system-in-brain-function-and-perception](../topics/the-limbic-system-in-brain-function-and-perception.md)
 - [cingulate-gyrus-cognitive-motivation](../topics/cingulate-gyrus-cognitive-motivation.md)
 
 ## Tags

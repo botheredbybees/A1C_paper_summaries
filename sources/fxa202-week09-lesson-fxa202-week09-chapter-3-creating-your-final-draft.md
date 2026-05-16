@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA202
     week: "09"
-tags: ["photo-essay", "visual-storytelling", "image-editing", "fxa202"]
+tags: ["fxa202", "image-editing", "photo-essay", "three-picture-story", "visual-storytelling", "visual-storytelling-elements"]
 key_concepts: ["Three Picture Story", "Visual Storytelling Elements"]
 methods: []
 slug: fxa202-week09-lesson-fxa202-week09-chapter-3-creating-your-final-draft
@@ -24,8 +24,7 @@ This lesson focuses on the editing process of a photo essay, emphasizing the imp
 
 ## Key Concepts
 
-- [Three Picture Story](../topics/three-picture-story.md)
-- [Visual Storytelling Elements](../topics/visual-storytelling-elements.md)
+- *(none identified)*
 
 ## Tags
 

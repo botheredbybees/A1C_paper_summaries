@@ -7,7 +7,7 @@ doi: https://doi.org/10.1111/hojo.12154
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["arts-based-programmes", "desistance-from-crime", "reoffending-reduction", "criminal-justice-systems", "secondary-desistance-mechanisms", "fxa303"]
+tags: ["arts-based-programmes", "criminal-justice-systems", "desistance-from-crime", "fxa303", "reoffending-reduction", "secondary-desistance-mechanisms"]
 key_concepts: ["desistance from crime", "secondary desistance mechanisms"]
 methods: ["systematic review"]
 slug: fxa303-week11-the-arts-of-desistance-assessing-the-role-of-arts-based
@@ -24,8 +24,7 @@ The article examines the role of arts-based programs in reducing reoffending wit
 
 ## Key Concepts
 
-- [desistance from crime](../topics/desistance-from-crime.md)
-- [secondary desistance mechanisms](../topics/secondary-desistance-mechanisms.md)
+- *(none identified)*
 
 ## Tags
 

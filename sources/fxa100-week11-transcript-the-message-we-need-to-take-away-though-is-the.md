@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "11"
-tags: ["eurovision-song-contest", "cultural-performance", "elderly-entertainment", "fxa100"]
+tags: ["celebration-through-dance", "cultural-performance", "elderly-entertainment", "eurovision-song-contest", "fxa100"]
 key_concepts: ["community-engagement", "celebration-through-dance"]
 methods: []
 slug: fxa100-week11-transcript-the-message-we-need-to-take-away-though-is-the
@@ -25,7 +25,6 @@ This content highlights the message conveyed by a group of elderly women known a
 ## Key Concepts
 
 - [community-engagement](../topics/community-engagement.md)
-- [celebration-through-dance](../topics/celebration-through-dance.md)
 
 ## Tags
 

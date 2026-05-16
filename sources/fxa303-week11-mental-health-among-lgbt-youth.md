@@ -7,7 +7,7 @@ doi: https://doi.org/10.1007/978-3-030-84273-4_18
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["lgbt-youth", "mental-health-disparities", "minority-stress-theory", "suicidality-among-teens", "resilience-factors", "fxa303"]
+tags: ["distal-and-proximal-stressors", "fxa303", "internalized-homonegativity", "lgbt-youth", "mental-health-disparities", "minority-stress-theory", "resilience-factors", "suicidality-among-teens"]
 key_concepts: ["minority stress theory", "distal and proximal stressors", "internalized homonegativity"]
 methods: ["systematic review"]
 slug: fxa303-week11-mental-health-among-lgbt-youth
@@ -25,8 +25,6 @@ The chapter examines the mental health disparities among lesbian, gay, bisexual,
 ## Key Concepts
 
 - [minority stress theory](../topics/minority-stress-theory.md)
-- [distal and proximal stressors](../topics/distal-and-proximal-stressors.md)
-- [internalized homonegativity](../topics/internalized-homonegativity.md)
 
 ## Tags
 

@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["cochrane-risk-of-bias", "cluster-randomized-trials", "research-methodology", "fxa301"]
+tags: ["cluster-randomized-trials", "cochrane-risk-of-bias", "fxa301", "identificationrecruitment-bias", "research-methodology", "unit-of-analysis-error"]
 key_concepts: ["identification/recruitment bias", "unit-of-analysis error"]
 methods: ["systematic review"]
 slug: fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials
@@ -24,8 +24,7 @@ This document supplements the main guidance on the Cochrane Risk of Bias (RoB) t
 
 ## Key Concepts
 
-- [identification/recruitment bias](../topics/identificationrecruitment-bias.md)
-- [unit-of-analysis error](../topics/unit-of-analysis-error.md)
+- *(none identified)*
 
 ## Tags
 

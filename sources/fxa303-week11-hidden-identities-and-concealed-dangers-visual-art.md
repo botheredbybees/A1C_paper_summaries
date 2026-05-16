@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["transgender-health", "visual-art", "social-discrimination", "cultural-representation", "mental-wellbeing", "fxa303"]
+tags: ["cultural-representation", "fxa303", "hidden-identities", "incremental-invisibility", "mental-wellbeing", "social-discrimination", "transgender-health", "visual-art", "visual-art-as-tool-for-change"]
 key_concepts: ["hidden-identities", "incremental-invisibility", "visual-art-as-tool-for-change"]
 methods: ["qualitative-analysis"]
 slug: fxa303-week11-hidden-identities-and-concealed-dangers-visual-art
@@ -28,9 +28,7 @@ The paper further explores how visual art can serve as a tool for revealing thes
 
 ## Key Concepts
 
-- [hidden-identities](../topics/hidden-identities.md)
-- [incremental-invisibility](../topics/incremental-invisibility.md)
-- [visual-art-as-tool-for-change](../topics/visual-art-as-tool-for-change.md)
+- *(none identified)*
 
 ## Tags
 

@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["creative-funding", "arts-projects", "professional-development", "fxa301"]
+tags: ["arts-projects", "creative-funding", "eligibility-criteria", "funding-grants", "fxa301", "professional-development"]
 key_concepts: ["funding-grants", "eligibility-criteria"]
 methods: []
 slug: fxa301-week01-arts-projects-for-individuals-and-groups
@@ -24,8 +24,7 @@ The document 'Arts Projects for Individuals and Groups' outlines funding opportu
 
 ## Key Concepts
 
-- [funding-grants](../topics/funding-grants.md)
-- [eligibility-criteria](../topics/eligibility-criteria.md)
+- *(none identified)*
 
 ## Tags
 

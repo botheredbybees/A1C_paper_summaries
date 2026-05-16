@@ -7,7 +7,7 @@ doi: https://doi.org/10.1177/10538259241260638
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["creative-arts-therapy", "academic-success", "postsecondary-education", "narrative-review", "fxa100"]
+tags: ["academic-success", "affective-awareness", "creative-arts-therapy", "fxa100", "group-processes", "narrative-review", "postsecondary-education", "socioemotional-competencies"]
 key_concepts: ["socioemotional competencies", "affective awareness", "group processes"]
 methods: ["systematic review", "narrative review"]
 slug: fxa100-week13-using-creative-arts-therapy-to-promote-academic-success-in
@@ -24,9 +24,7 @@ This article presents a secondary narrative review of creative arts therapy (CAT
 
 ## Key Concepts
 
-- [socioemotional competencies](../topics/socioemotional-competencies.md)
-- [affective awareness](../topics/affective-awareness.md)
-- [group processes](../topics/group-processes.md)
+- *(none identified)*
 
 ## Tags
 

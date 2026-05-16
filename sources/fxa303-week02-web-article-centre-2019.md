@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA303
     week: "02"
-tags: ["youth-theatre-ireland", "research-report", "youth-programming", "fxa303"]
+tags: ["fxa303", "impact-evaluation", "research-report", "youth-programming", "youth-theatre-ireland", "youth-theatre-practice"]
 key_concepts: ["Youth Theatre Practice", "Impact Evaluation"]
 methods: []
 slug: fxa303-week02-web-article-centre-2019
@@ -24,8 +24,7 @@ The Centre Stage +20 Report, published by Youth Theatre Ireland in November 2019
 
 ## Key Concepts
 
-- [Youth Theatre Practice](../topics/youth-theatre-practice.md)
-- [Impact Evaluation](../topics/impact-evaluation.md)
+- *(none identified)*
 
 ## Tags
 

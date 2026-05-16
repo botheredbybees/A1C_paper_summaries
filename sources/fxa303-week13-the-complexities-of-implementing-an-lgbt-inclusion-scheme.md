@@ -7,7 +7,7 @@ doi: https://doi.org/10.1017/S0144686X23000624
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["lgbt-inclusion", "residential-care", "nursing-homes", "diversity-management", "sexual-minorities", "fxa303"]
+tags: ["critical-organizational-diversity-studies", "diversity-management", "fxa303", "involuntary-same-sex-expressions", "lgbt-inclusion", "lgbt-inclusion-scheme", "nursing-homes", "residential-care", "sexual-minorities"]
 key_concepts: ["LGBT inclusion scheme", "critical organizational diversity studies", "involuntary same-sex expressions"]
 methods: ["case study"]
 slug: fxa303-week13-the-complexities-of-implementing-an-lgbt-inclusion-scheme
@@ -24,9 +24,7 @@ The article explores the implementation of an LGBT inclusion scheme, 'Pink Passk
 
 ## Key Concepts
 
-- [LGBT inclusion scheme](../topics/lgbt-inclusion-scheme.md)
-- [critical organizational diversity studies](../topics/critical-organizational-diversity-studies.md)
-- [involuntary same-sex expressions](../topics/involuntary-same-sex-expressions.md)
+- *(none identified)*
 
 ## Tags
 

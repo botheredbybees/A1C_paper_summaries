@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Emotional expression through puppetry"
@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA303
     week: "06"
-tags: ["emotional-expression", "therapeutic-arts", "puppetry-in-therapy", "mental-wellbeing-through-play", "aged-care-interventions", "fxa303"]
+tags: ["aged-care-interventions", "emotional-expression", "emotional-expression-through-puppetry", "fxa303", "mental-wellbeing-through-play", "puppetry-in-therapy", "therapeutic-arts"]
 key_concepts: ["non-verbal-communication", "mediated-expression", "sustainable-practices"]
 methods: ["case-study"]
 slug: fxa303-week06-emotional-expression-through-puppetry
@@ -26,7 +26,6 @@ This weekâ€™s content of FXA303 Creative Arts, Play and Mental Wellbeing fo
 
 - [non-verbal-communication](../topics/non-verbal-communication.md)
 - [mediated-expression](../topics/mediated-expression.md)
-- [emotional-expression-through-puppetry](../topics/emotional-expression-through-puppetry.md)
 
 ## Tags
 

@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "11"
-tags: ["dementia-care", "dance-therapy", "non-verbal-communication", "fxa100"]
+tags: ["cognitive-benefits-of-movement-therapy", "dance-therapy", "dementia-care", "fxa100", "interactive-therapy-approaches", "neural-pathways-development", "non-verbal-communication"]
 key_concepts: ["neural pathways development", "interactive therapy approaches", "cognitive benefits of movement therapy"]
 methods: []
 slug: fxa100-week11-lesson-fxa100-week11-page-2-dance-movement-therapy-and
@@ -24,9 +24,7 @@ This lesson explores the use of dance movement therapy (DMT) in dementia care. I
 
 ## Key Concepts
 
-- [neural pathways development](../topics/neural-pathways-development.md)
-- [interactive therapy approaches](../topics/interactive-therapy-approaches.md)
-- [cognitive benefits of movement therapy](../topics/cognitive-benefits-of-movement-therapy.md)
+- *(none identified)*
 
 ## Tags
 

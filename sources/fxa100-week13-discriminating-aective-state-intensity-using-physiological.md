@@ -7,7 +7,7 @@ doi: https://doi.org/10.1007/s11042-020-09114-y
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["affective-computing", "wearable-sensors", "emotion-recognition", "fxa100"]
+tags: ["affective-computing", "emotion-recognition", "emotional-intensity", "fxa100", "galvanic-skin-response", "photoplethysmography", "wearable-sensors"]
 key_concepts: ["galvanic-skin-response", "photoplethysmography", "emotional-intensity"]
 methods: ["experimental-design"]
 slug: fxa100-week13-discriminating-aective-state-intensity-using-physiological
@@ -24,9 +24,7 @@ The paper explores the use of physiological signals, obtained through wearable s
 
 ## Key Concepts
 
-- [galvanic-skin-response](../topics/galvanic-skin-response.md)
-- [photoplethysmography](../topics/photoplethysmography.md)
-- [emotional-intensity](../topics/emotional-intensity.md)
+- *(none identified)*
 
 ## Tags
 

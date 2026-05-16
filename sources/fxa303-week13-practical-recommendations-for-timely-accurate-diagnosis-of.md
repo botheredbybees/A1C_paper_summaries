@@ -7,7 +7,7 @@ doi: https://doi.org/10.1111/joim.13244
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["alzheimer-diagnosis", "primary-care-strategy", "dementia-prevention", "early-intervention", "clinical-guidelines", "fxa303"]
+tags: ["alzheimer-diagnosis", "biomarker-detection", "clinical-guidelines", "dementia-prevention", "early-intervention", "fxa303", "mild-cognitive-impairment", "primary-care-strategy", "timely-diagnosis"]
 key_concepts: ["mild-cognitive-impairment", "biomarker-detection", "timely-diagnosis"]
 methods: ["systematic-review"]
 slug: fxa303-week13-practical-recommendations-for-timely-accurate-diagnosis-of
@@ -24,9 +24,7 @@ This review synthesizes practical recommendations for the timely and accurate di
 
 ## Key Concepts
 
-- [mild-cognitive-impairment](../topics/mild-cognitive-impairment.md)
-- [biomarker-detection](../topics/biomarker-detection.md)
-- [timely-diagnosis](../topics/timely-diagnosis.md)
+- *(none identified)*
 
 ## Tags
 

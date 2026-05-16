@@ -7,7 +7,7 @@ doi: https://doi.org/10.1016/j.aip.2021.101861
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["creative-arts-therapies", "mental-health-interventions", "emerging-adults", "systematic-review", "fxa303"]
+tags: ["creative-arts-therapies", "emerging-adults", "fxa303", "mental-health-interventions", "systematic-review"]
 key_concepts: ["creative arts therapies", "emerging adults", "mental health stigma"]
 methods: ["systematic review"]
 slug: fxa303-week11-creative-arts-therapies-for-the-mental-health-of-emerging
@@ -25,7 +25,6 @@ This systematic review examines the efficacy of creative and expressive arts the
 ## Key Concepts
 
 - [creative arts therapies](../topics/creative-arts-therapies.md)
-- [emerging adults](../topics/emerging-adults.md)
 - [mental health stigma](../topics/mental-health-stigma.md)
 
 ## Tags

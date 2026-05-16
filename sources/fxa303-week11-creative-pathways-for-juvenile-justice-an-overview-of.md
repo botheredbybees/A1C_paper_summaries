@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Creative Pathways for Juvenile Justice: An Overview of Current Evidence and Literature"
@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["juvenile-justice", "creative-interventions", "music-therapy", "youth-development", "rehabilitation-strategies", "fxa303"]
+tags: ["creative-interventions", "fxa303", "group-music-therapy-for-dementia-patients", "juvenile-justice", "music-therapy", "rehabilitation-strategies", "whole-person-approach", "youth-development"]
 key_concepts: ["music-based interventions", "whole-person approach"]
 methods: ["systematic review"]
 slug: fxa303-week11-creative-pathways-for-juvenile-justice-an-overview-of
@@ -24,8 +24,7 @@ This report, prepared by the Creative Arts Research Institute at Griffith Univer
 
 ## Key Concepts
 
-- [music-based interventions](../topics/group-music-therapy-for-dementia-patients.md)
-- [whole-person approach](../topics/whole-person-approach.md)
+- *(none identified)*
 
 ## Tags
 

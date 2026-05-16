@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["care-home-interventions", "arts-therapy-research", "resident-wellbeing", "music-session-assessment", "emotional-response-measurement", "fxa301"]
+tags: ["arts-therapy-research", "care-home-interventions", "emotional-response-measurement", "fxa301", "informal-music-making-activities", "music-session-assessment", "resident-mood-assessment", "resident-wellbeing", "structured-observation"]
 key_concepts: ["resident mood assessment", "structured observation", "informal music-making activities"]
 methods: ["observation scale"]
 slug: fxa301-week01-appendix-1-arts-observation-scale-and-manual
@@ -24,9 +24,7 @@ The document contains an observation scale and manual for assessing the impact o
 
 ## Key Concepts
 
-- [resident mood assessment](../topics/resident-mood-assessment.md)
-- [structured observation](../topics/structured-observation.md)
-- [informal music-making activities](../topics/informal-music-making-activities.md)
+- *(none identified)*
 
 ## Tags
 

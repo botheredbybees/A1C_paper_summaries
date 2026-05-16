@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["inclusive-arts", "disability-studies", "accessibility-research", "professional-development", "fxa301"]
+tags: ["accessibility-research", "art-and-disability-institute-adi", "disability-studies", "fxa301", "inclusive-arts", "lab-for-learning-l4l-program", "professional-development"]
 key_concepts: ["Art and Disability Institute (ADI)", "Lab For Learning (L4L) program"]
 methods: ["case study"]
 slug: fxa301-week11-projects-art-beyond-sight
@@ -24,8 +24,7 @@ The document 'Projects – Art Beyond Sight' outlines various initiatives and pr
 
 ## Key Concepts
 
-- [Art and Disability Institute (ADI)](../topics/art-and-disability-institute-adi.md)
-- [Lab For Learning (L4L) program](../topics/lab-for-learning-l4l-program.md)
+- *(none identified)*
 
 ## Tags
 

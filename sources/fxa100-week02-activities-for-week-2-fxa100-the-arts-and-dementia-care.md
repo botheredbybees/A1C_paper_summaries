@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Activities for Week 2 - FXA100 The Arts and Dementia Care"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.1093/brain/awl234
 appearances:
   - unit: FXA100
     week: "02"
-tags: ["music-therapy", "neurological-disorders", "memory-retrieval", "cognitive-functioning", "reminiscence-therapy", "fxa100"]
+tags: ["cognitive-functioning", "fxa100", "memory-retrieval", "music-therapy", "music-therapy-and-cognitive-stimulation-for-dementia-patients", "neurological-disorders", "reminiscence-therapy"]
 key_concepts: ["dementia-care", "musical-engagement", "emotional-memory"]
 methods: ["case-study"]
 slug: fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care
@@ -27,7 +27,6 @@ The document also includes a discussion prompt that encourages reflection on per
 ## Key Concepts
 
 - [dementia-care](../topics/dementia-care.md)
-- [music-therapy-and-cognitive-stimulation-for-dementia-patients](../topics/music-therapy-and-cognitive-stimulation-for-dementia-patients.md)
 - [emotional-memory](../topics/emotional-memory.md)
 
 ## Tags

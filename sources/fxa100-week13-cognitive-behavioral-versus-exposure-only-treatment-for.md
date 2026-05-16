@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["social-phobia", "cognitive-behavioral-therapy", "exposure-therapy", "meta-analysis", "fxa100"]
+tags: ["cognitive-behavioral-therapy", "exposure-only-treatment", "exposure-therapy", "fxa100", "meta-analysis", "social-phobia"]
 key_concepts: ["cognitive-behavioral-therapy", "exposure-only-treatment", "evidence-based-practice"]
 methods: ["meta-analysis"]
 slug: fxa100-week13-cognitive-behavioral-versus-exposure-only-treatment-for
@@ -25,7 +25,6 @@ This study provides a comprehensive analysis comparing cognitive-behavioral ther
 ## Key Concepts
 
 - [cognitive-behavioral-therapy](../topics/cognitive-behavioral-therapy.md)
-- [exposure-only-treatment](../topics/exposure-only-treatment.md)
 - [evidence-based-practice](../topics/evidence-based-practice.md)
 
 ## Tags

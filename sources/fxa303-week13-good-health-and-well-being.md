@@ -7,7 +7,7 @@ doi: https://doi.org/10.1007/978-3-319-95681-7
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["global-health", "sustainable-development-goals", "health-equity", "public-policy", "environmental-justice", "interdisciplinary-research", "fxa303"]
+tags: ["disease-prevention", "environmental-justice", "fxa303", "global-health", "health-as-a-human-right", "health-equity", "interdisciplinary-research", "public-policy", "sustainable-development-goals", "sustainable-development-goals-sdgs"]
 key_concepts: ["sustainable development goals (SDGs)", "health as a human right", "disease prevention"]
 methods: ["case study"]
 slug: fxa303-week13-good-health-and-well-being
@@ -24,9 +24,7 @@ The document discusses the importance of sustainable development goals (SDGs) fo
 
 ## Key Concepts
 
-- [sustainable development goals (SDGs)](../topics/sustainable-development-goals-sdgs.md)
-- [health as a human right](../topics/health-as-a-human-right.md)
-- [disease prevention](../topics/disease-prevention.md)
+- *(none identified)*
 
 ## Tags
 

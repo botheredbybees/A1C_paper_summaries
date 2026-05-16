@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["creative-arts", "social-inclusion", "disabilities", "fxa301"]
+tags: ["creative-arts", "disabilities", "fxa301", "social-inclusion", "therapeutic-uses-of-creative-arts"]
 key_concepts: ["self-determination", "therapeutic uses of creative arts"]
 methods: []
 slug: fxa301-week11-lesson-fxa301-week11-page-1
@@ -25,7 +25,6 @@ This lesson from the FXA301 Arts in the Community course focuses on using creati
 ## Key Concepts
 
 - [self-determination](../topics/self-determination.md)
-- [therapeutic uses of creative arts](../topics/therapeutic-uses-of-creative-arts.md)
 
 ## Tags
 

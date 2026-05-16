@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Photography tips: Point of View Composition"
@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA202
     week: "02"
-tags: ["photography-tips", "composition-techniques", "visual-storytelling", "camera-angles", "fxa202"]
+tags: ["camera-angles", "composition-techniques", "dynamic-perspectives-in-photography", "fxa202", "photography-tips", "visual-storytelling"]
 key_concepts: ["point-of-view-composition", "dynamic-perspectives", "unique-vantage-points"]
 methods: ["case-study"]
 slug: fxa202-week02-photography-tips-point-of-view-composition
@@ -24,7 +24,6 @@ Bill Hatcher discusses the application of point of view (POV) composition in pho
 
 ## Key Concepts
 
-- [dynamic-perspectives-in-photography](../topics/dynamic-perspectives-in-photography.md)
 - [dynamic-perspectives](../topics/dynamic-perspectives.md)
 - [unique-vantage-points](../topics/unique-vantage-points.md)
 

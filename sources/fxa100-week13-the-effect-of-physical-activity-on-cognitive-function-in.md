@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "The effect of physical activity on cognitive function in patients with dementia: A meta-analysis of randomized control trials"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.1016/j.arr.2015.11.005
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["physical-activity", "cognitive-function", "dementia-management", "meta-analysis", "patient-outcomes", "non-pharmacological-interventions", "fxa100"]
+tags: ["aerobic-exercise", "cognitive-function", "dementia-management", "fxa100", "meta-analysis", "non-pharmacological-interventions", "patient-outcomes", "physical-activity", "randomized-control-trials"]
 key_concepts: ["cognitive function", "randomized control trials", "aerobic exercise"]
 methods: ["meta-analysis"]
 slug: fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in
@@ -25,8 +25,6 @@ This study, a meta-analysis of randomized control trials, investigates the impac
 ## Key Concepts
 
 - [cognitive function](../topics/cognitive-function.md)
-- [randomized control trials](../topics/randomized-control-trials.md)
-- [aerobic exercise](../topics/aerobic-exercise.md)
 
 ## Tags
 

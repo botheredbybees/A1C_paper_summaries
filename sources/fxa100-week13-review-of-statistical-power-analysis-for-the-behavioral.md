@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["statistical-power-analysis", "behavioral-sciences", "sample-size-determination", "review-article", "fxa100"]
+tags: ["behavioral-sciences", "fxa100", "intraclass-correlation-coefficient", "review-article", "sample-size-determination", "statistical-power-analysis"]
 key_concepts: ["statistical power analysis", "intraclass correlation coefficient"]
 methods: ["review"]
 slug: fxa100-week13-review-of-statistical-power-analysis-for-the-behavioral
@@ -25,7 +25,6 @@ The review discusses Jacob Cohen's second edition of 'Statistical Power Analysis
 ## Key Concepts
 
 - [statistical power analysis](../topics/statistical-power-analysis.md)
-- [intraclass correlation coefficient](../topics/intraclass-correlation-coefficient.md)
 
 ## Tags
 

@@ -7,7 +7,7 @@ doi: https://doi.org/10.1016/j.jvoice.2022.06.003
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["mental-health", "choir-singing", "well-being", "online-study", "cross-sectional", "fxa303"]
+tags: ["choir-singing", "choral-engagement", "cross-sectional", "fxa303", "mental-health", "mental-health-improvement", "online-study", "vocal-pathology-impact", "well-being"]
 key_concepts: ["mental health improvement", "choral engagement", "vocal pathology impact"]
 methods: ["cross-sectional study", "online questionnaire"]
 slug: fxa303-week11-effects-of-choir-singing-on-mental-health-results-of-an
@@ -24,9 +24,7 @@ The study investigates the impact of choir singing on mental health and well-bei
 
 ## Key Concepts
 
-- [mental health improvement](../topics/mental-health-improvement.md)
-- [choral engagement](../topics/choral-engagement.md)
-- [vocal pathology impact](../topics/vocal-pathology-impact.md)
+- *(none identified)*
 
 ## Tags
 

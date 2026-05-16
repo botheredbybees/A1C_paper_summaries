@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["arts-therapy", "mental-health-interventions", "social-prescribing", "community-wellness", "depression-treatment", "fxa301"]
+tags: ["arts-therapy", "community-wellness", "depression-treatment", "fxa301", "hospital-anxiety-and-depression-scale-hads", "mental-health-interventions", "social-prescribing"]
 key_concepts: ["Hospital Anxiety and Depression Scale (HADS)", "Social Prescribing"]
 methods: ["program-evaluation"]
 slug: fxa301-week01-arts-on-prescription-in-sefton-programme-report
@@ -28,7 +28,6 @@ Despite these positive outcomes, the program faced logistical challenges includi
 
 ## Key Concepts
 
-- [Hospital Anxiety and Depression Scale (HADS)](../topics/hospital-anxiety-and-depression-scale-hads.md)
 - [Social Prescribing](../topics/social-prescribing.md)
 
 ## Tags

@@ -7,7 +7,7 @@ doi: https://doi.org/10.1097/PHM.0b013e318214de26
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["dementia-research", "physical-exercise", "cognitive-function", "daily-living-skills", "systematic-review", "fxa100"]
+tags: ["cognitive-function", "daily-living-skills", "dementia-research", "fxa100", "physical-exercise", "systematic-review", "walking-performance"]
 key_concepts: ["activities-of-daily-living", "randomized-controlled-trials", "walking-performance"]
 methods: ["systematic review"]
 slug: fxa100-week13-applicability-and-effects-of-physical-exercise-on-physical
@@ -26,7 +26,6 @@ The study conducted a systematic review to evaluate the applicability and effect
 
 - [activities-of-daily-living](../topics/activities-of-daily-living.md)
 - [randomized-controlled-trials](../topics/randomized-controlled-trials.md)
-- [walking-performance](../topics/walking-performance.md)
 
 ## Tags
 

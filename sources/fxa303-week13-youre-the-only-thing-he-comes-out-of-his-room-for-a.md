@@ -7,7 +7,7 @@ doi: https://doi.org/10.1017/S1478951524000579
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["dementia-care", "long-term-care", "qualitative-research", "laugh-therapy", "family-engagement", "fxa303"]
+tags: ["dementia-care", "end-of-life-interactions", "family-engagement", "fxa303", "laugh-therapy", "laughter-care-specialists", "long-term-care", "novel-communication-methods", "qualitative-research"]
 key_concepts: ["Laughter Care Specialists", "novel communication methods", "end-of-life interactions"]
 methods: ["qualitative study"]
 slug: fxa303-week13-youre-the-only-thing-he-comes-out-of-his-room-for-a
@@ -24,9 +24,7 @@ The study examines the engagement between Laughter Care Specialists (LCSs) and f
 
 ## Key Concepts
 
-- [Laughter Care Specialists](../topics/laughter-care-specialists.md)
-- [novel communication methods](../topics/novel-communication-methods.md)
-- [end-of-life interactions](../topics/end-of-life-interactions.md)
+- *(none identified)*
 
 ## Tags
 

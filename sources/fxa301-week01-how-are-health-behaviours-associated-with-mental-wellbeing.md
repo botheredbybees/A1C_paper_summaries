@@ -7,7 +7,7 @@ doi: https://doi.org/10.1136/jech-2016-208064.211
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["mental-wellbeing", "health-behaviours", "swemwbs-evaluation", "population-health", "mental-health-measurement", "fxa301"]
+tags: ["criterion-and-relative-validity", "fxa301", "health-behaviours", "health-survey-for-england", "mental-health-measurement", "mental-wellbeing", "population-health", "short-warwick-edinburgh-mental-wellbeing-scale-swemwbs", "swemwbs-evaluation"]
 key_concepts: ["Short Warwick Edinburgh Mental Wellbeing Scale (SWEMWBS)", "Health Survey for England", "Criterion and Relative Validity"]
 methods: ["survey-research", "statistical-analysis"]
 slug: fxa301-week01-how-are-health-behaviours-associated-with-mental-wellbeing
@@ -28,9 +28,7 @@ The research concluded that SWEMWBS distinguishes mental wellbeing between group
 
 ## Key Concepts
 
-- [Short Warwick Edinburgh Mental Wellbeing Scale (SWEMWBS)](../topics/short-warwick-edinburgh-mental-wellbeing-scale-swemwbs.md)
-- [Health Survey for England](../topics/health-survey-for-england.md)
-- [Criterion and Relative Validity](../topics/criterion-and-relative-validity.md)
+- *(none identified)*
 
 ## Tags
 

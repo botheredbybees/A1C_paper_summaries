@@ -7,7 +7,7 @@ doi: https://doi.org/10.1177/07334648231214946
 appearances:
   - unit: FXA100
     week: "11"
-tags: ["aged-care-communities", "embodied-group-synchrony", "seated-dance", "cognitive-impairments", "well-being", "fxa100"]
+tags: ["aged-care-communities", "cognitive-impairments", "embodied-group-synchrony", "fxa100", "residential-aged-care-communities-raccs", "seated-dance", "well-being"]
 key_concepts: ["embodied group synchrony", "older adults", "residential aged care communities (RACCs)"]
 methods: ["mixed-methods approach"]
 slug: fxa100-week11-more-than-just-movement-exploring-embodied-group-synchrony
@@ -24,9 +24,7 @@ This study explores the concept of embodied group synchrony during seated dance 
 
 ## Key Concepts
 
-- [embodied group synchrony](../topics/embodied-group-synchrony.md)
 - [older adults](../topics/older-adults.md)
-- [residential aged care communities (RACCs)](../topics/residential-aged-care-communities-raccs.md)
 
 ## Tags
 

@@ -11,7 +11,7 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
-tags: ["arts-in-health", "research-methods", "intervention-research", "health-outcomes", "creative-practices", "fxa301"]
+tags: ["arts-in-health", "creative-practices", "feasibility-assessment", "fxa301", "health-outcomes", "intervention-research", "methodology-choice", "research-design", "research-methods"]
 key_concepts: ["research-design", "methodology-choice", "feasibility-assessment"]
 methods: ["qualitative-study", "quantitative-study", "mixed-methods"]
 slug: fxa301-week01-a-step-by-step-approach-to-the-research-process
@@ -28,9 +28,7 @@ Daisy Fancourt's chapter in 'Arts in Health: Designing and researching intervent
 
 ## Key Concepts
 
-- [research-design](../topics/research-design.md)
-- [methodology-choice](../topics/methodology-choice.md)
-- [feasibility-assessment](../topics/feasibility-assessment.md)
+- *(none identified)*
 
 ## Tags
 

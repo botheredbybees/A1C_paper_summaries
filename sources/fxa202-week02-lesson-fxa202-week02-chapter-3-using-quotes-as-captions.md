@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA202
     week: "02"
-tags: ["photo-essay", "quotes-in-photoessays", "storytelling-with-images", "fxa202"]
+tags: ["attribution", "direct-quote", "fxa202", "indirect-quote", "photo-essay", "quotes-in-photoessays", "storytelling-with-images"]
 key_concepts: ["direct-quote", "indirect-quote", "attribution"]
 methods: []
 slug: fxa202-week02-lesson-fxa202-week02-chapter-3-using-quotes-as-captions
@@ -24,9 +24,7 @@ This lesson focuses on the use of quotes as captions in photo essays. It highlig
 
 ## Key Concepts
 
-- [direct-quote](../topics/direct-quote.md)
-- [indirect-quote](../topics/indirect-quote.md)
-- [attribution](../topics/attribution.md)
+- *(none identified)*
 
 ## Tags
 

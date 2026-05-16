@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Refugee Art \u2013 Expressing Experience Through Creativity"
@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["creative-expression", "refugee-experience", "therapeutic-art", "fxa301"]
+tags: ["creative-expression", "fxa301", "refugee-experience", "self-empowerment", "therapeutic-art"]
 key_concepts: ["resilience", "self-empowerment", "community-arts"]
 methods: ["case-study"]
 slug: fxa301-week11-refugee-art-expressing-experience-through-creativity
@@ -25,7 +25,6 @@ This webpage highlights the profound impact of refugee artists who transform the
 ## Key Concepts
 
 - [resilience](../topics/resilience.md)
-- [self-empowerment](../topics/self-empowerment.md)
 - [community-arts](../topics/community-arts.md)
 
 ## Tags

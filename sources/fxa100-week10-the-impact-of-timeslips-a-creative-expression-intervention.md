@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "The Impact of TimeSlips, a Creative Expression Intervention Program, on Nursing Home Residents With Dementia and their Caregivers"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.1093/geront/gnp008
 appearances:
   - unit: FXA100
     week: "10"
-tags: ["dementia-care", "creative-expression", "quality-of-life", "nursing-home-intervention", "fxa100"]
+tags: ["creative-expression", "dementia-care", "fxa100", "nursing-home-intervention", "quality-of-life", "resident-engagement-in-dementia-care"]
 key_concepts: ["TimeSlips intervention program", "resident engagement", "staff attitudes"]
 methods: ["observational study", "group storytelling"]
 slug: fxa100-week10-the-impact-of-timeslips-a-creative-expression-intervention
@@ -24,7 +24,6 @@ This study evaluates the impact of TimeSlips, a group storytelling program desig
 
 ## Key Concepts
 
-- [TimeSlips intervention program](../topics/resident-engagement-in-dementia-care.md)
 - [resident engagement](../topics/resident-engagement.md)
 - [staff attitudes](../topics/staff-attitudes.md)
 

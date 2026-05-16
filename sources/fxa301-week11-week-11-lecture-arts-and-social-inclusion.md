@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["arts-and-social-inclusion", "music-therapy-for-asd", "visual-arts-accessibility", "refugee-integration", "fxa301"]
+tags: ["art-therapies", "arts-and-social-inclusion", "cultural-identity-preservation", "fxa301", "music-therapy-for-asd", "refugee-integration", "visual-arts-accessibility"]
 key_concepts: ["social-inclusion", "art-therapies", "cultural-identity-preservation"]
 methods: ["case-study"]
 slug: fxa301-week11-week-11-lecture-arts-and-social-inclusion
@@ -25,8 +25,6 @@ This document provides an overview of Week 11's lecture on arts and social inclu
 ## Key Concepts
 
 - [social-inclusion](../topics/social-inclusion.md)
-- [art-therapies](../topics/art-therapies.md)
-- [cultural-identity-preservation](../topics/cultural-identity-preservation.md)
 
 ## Tags
 

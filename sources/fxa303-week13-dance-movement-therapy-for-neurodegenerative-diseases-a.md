@@ -7,7 +7,7 @@ doi: https://doi.org/10.3389/fnagi.2022.975711
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["dance-movement-therapy", "neurodegenerative-diseases", "systematic-review", "fxa303"]
+tags: ["dance-movement-therapy", "fxa303", "mild-cognitive-impairment", "neurodegenerative-diseases", "systematic-review"]
 key_concepts: ["parkinsons-disease", "mild-cognitive-impairment", "alzheimers-disease"]
 methods: ["systematic review"]
 slug: fxa303-week13-dance-movement-therapy-for-neurodegenerative-diseases-a
@@ -25,7 +25,6 @@ This systematic review examines the impact of dance movement therapy (DMT) on ne
 ## Key Concepts
 
 - [parkinsons-disease](../topics/parkinsons-disease.md)
-- [mild-cognitive-impairment](../topics/mild-cognitive-impairment.md)
 - [alzheimers-disease](../topics/alzheimers-disease.md)
 
 ## Tags

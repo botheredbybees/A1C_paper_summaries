@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "11"
-tags: ["dementia-care", "non-verbal-communication", "dance-movement-therapy", "fxa100"]
+tags: ["dance-movement-therapy", "dementia-care", "fxa100", "healing-relationship", "non-verbal-communication"]
 key_concepts: ["emotional safety", "non-verbal communication", "healing relationship"]
 methods: []
 slug: fxa100-week11-transcript-youtube-tyf9-zkdrc8
@@ -26,7 +26,6 @@ This transcript discusses the importance of the social and emotional environment
 
 - [emotional safety](../topics/emotional-safety.md)
 - [non-verbal communication](../topics/non-verbal-communication.md)
-- [healing relationship](../topics/healing-relationship.md)
 
 ## Tags
 

@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["reflexion-docente", "practica-educativa", "resolucion-problemas", "investigacion-accion", "teoria-rowland", "fxa303"]
+tags: ["fxa303", "investigacin-accin-educativa", "investigacion-accion", "practica-educativa", "reflexin-en-la-prctica", "reflexin-para-la-prctica", "reflexin-sobre-la-prctica", "reflexion-docente", "resolucion-problemas", "teoria-rowland"]
 key_concepts: ["reflexi\u00f3n para la pr\u00e1ctica", "reflexi\u00f3n en la pr\u00e1ctica", "reflexi\u00f3n sobre la pr\u00e1ctica", "investigaci\u00f3n acci\u00f3n educativa"]
 methods: ["case study"]
 slug: fxa303-week13-resolver-problemas-no-es-el-problema-una-reflexin-sobre-la
@@ -24,10 +24,7 @@ El documento 'Resolver problemas no es el problema: una reflexión sobre la prá
 
 ## Key Concepts
 
-- [reflexión para la práctica](../topics/reflexin-para-la-prctica.md)
-- [reflexión en la práctica](../topics/reflexin-en-la-prctica.md)
-- [reflexión sobre la práctica](../topics/reflexin-sobre-la-prctica.md)
-- [investigación acción educativa](../topics/investigacin-accin-educativa.md)
+- *(none identified)*
 
 ## Tags
 

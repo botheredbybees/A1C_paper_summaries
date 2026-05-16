@@ -7,7 +7,7 @@ doi: https://doi.org/10.1016/j.jalz.2018.02.001
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["alzheimer-disease", "public-health-impact", "dementia-statistics", "aging-population", "healthcare-costs", "fxa100"]
+tags: ["aging-population", "alzheimer-disease", "dementia-statistics", "economic-burden", "fxa100", "healthcare-costs", "public-health-impact"]
 key_concepts: ["Alzheimer's disease", "demographic changes", "economic burden"]
 methods: ["systematic review"]
 slug: fxa100-week13-2018-alzheimers-disease-facts-and-figures
@@ -26,7 +26,6 @@ The 2018 Alzheimer’s disease facts and figures report, published by the Alzhei
 
 - [Alzheimer's disease](../topics/alzheimers-disease.md)
 - [demographic changes](../topics/demographic-changes.md)
-- [economic burden](../topics/economic-burden.md)
 
 ## Tags
 

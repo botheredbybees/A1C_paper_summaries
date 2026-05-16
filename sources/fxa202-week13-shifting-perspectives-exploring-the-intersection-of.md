@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/1472586X.2024.2381101
 appearances:
   - unit: FXA202
     week: "13"
-tags: ["traditional-photography", "digital-photography", "artistic-expression", "philosophy-of-art", "contemporary-culture", "fxa202"]
+tags: ["artistic-expression", "contemporary-culture", "digital-photography", "fxa202", "phenomenology", "philosophy-of-art", "technological-innovation", "traditional-photography"]
 key_concepts: ["phenomenology", "interdisciplinary-research", "technological-innovation"]
 methods: ["case-study"]
 slug: fxa202-week13-shifting-perspectives-exploring-the-intersection-of
@@ -24,9 +24,7 @@ Hanan Muneer Al Sheikh's article explores the interplay between traditional and 
 
 ## Key Concepts
 
-- [phenomenology](../topics/phenomenology.md)
 - [interdisciplinary-research](../topics/interdisciplinary-research.md)
-- [technological-innovation](../topics/technological-innovation.md)
 
 ## Tags
 

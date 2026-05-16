@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/17454832.2019.1666155
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["art-therapy", "refugee-support", "community-mural", "psychosocial-interventions", "cross-cultural-practice", "fxa301"]
+tags: ["art-therapy", "community-mural", "cross-cultural-practice", "fxa301", "psychosocial-interventions", "refugee-support"]
 key_concepts: ["art therapy", "community mural", "psychological well-being"]
 methods: ["case study"]
 slug: fxa301-week11-tomorrow-we-make-it-better-an-art-therapists-reflection-on
@@ -25,7 +25,6 @@ Emily Hollingsbee's article reflects on the creation of a community mural in a r
 ## Key Concepts
 
 - [art therapy](../topics/art-therapy.md)
-- [community mural](../topics/community-mural.md)
 - [psychological well-being](../topics/psychological-well-being.md)
 
 ## Tags

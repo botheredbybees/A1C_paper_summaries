@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["dementia-care", "reminiscence-therapy", "sensory-stimulation", "memory-recovery", "quality-of-life", "fxa303"]
+tags: ["dementia-care", "fxa303", "memory-recovery", "quality-of-life", "reminiscence-therapy", "reminiscence-work", "sensory-stimulation", "sensory-stimuli"]
 key_concepts: ["reminiscence work", "sensory stimuli", "supportive environment"]
 methods: ["case study"]
 slug: fxa303-week13-remembering-yesterday-caring-today-reminiscence-in-dementia
@@ -24,8 +24,6 @@ The document discusses the essential skills and methods required for effective r
 
 ## Key Concepts
 
-- [reminiscence work](../topics/reminiscence-work.md)
-- [sensory stimuli](../topics/sensory-stimuli.md)
 - [supportive environment](../topics/supportive-environment.md)
 
 ## Tags

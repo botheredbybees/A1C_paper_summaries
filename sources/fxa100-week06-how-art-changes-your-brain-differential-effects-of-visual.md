@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "How Art Changes Your Brain: Differential Effects of Visual Art Production and Cognitive Art Evaluation on Functional Brain Connectivity"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.1371/journal.pone.0101035
 appearances:
   - unit: FXA100
     week: "06"
-tags: ["brain-connectivity", "art-therapy", "f-mri-study", "fxa100"]
+tags: ["art-therapy", "brain-connectivity", "brain-connectivity-in-autism-and-art-production", "f-mri-study", "fxa100"]
 key_concepts: ["default-mode-network", "functional-brain-connectivity", "resilience-to-stress"]
 methods: ["fMRI", "systematic-intervention"]
 slug: fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual
@@ -25,7 +25,6 @@ This study investigates the impact of visual art production and cognitive evalua
 ## Key Concepts
 
 - [default-mode-network](../topics/default-mode-network.md)
-- [brain-connectivity-in-autism-and-art-production](../topics/brain-connectivity-in-autism-and-art-production.md)
 - [resilience-to-stress](../topics/resilience-to-stress.md)
 
 ## Tags

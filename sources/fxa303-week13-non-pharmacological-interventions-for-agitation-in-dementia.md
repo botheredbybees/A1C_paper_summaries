@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Non-pharmacological interventions for agitation in dementia: systematic review of randomised controlled trials"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.1192/bjp.bp.113.141119
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["dementia-care", "agitation-management", "person-centered-care", "randomized-controlled-trials", "non-pharmacological-interventions", "fxa303"]
+tags: ["adapted-dementia-care-mapping", "agitation-management", "communication-skills-training", "dementia-care", "fxa303", "non-pharmacological-interventions", "person-centered-care", "randomized-controlled-trials"]
 key_concepts: ["person-centered care", "communication skills training", "adapted dementia care mapping"]
 methods: ["systematic review", "RCT"]
 slug: fxa303-week13-non-pharmacological-interventions-for-agitation-in-dementia
@@ -25,8 +25,6 @@ The article presents a systematic review of non-pharmacological interventions fo
 ## Key Concepts
 
 - [person-centered care](../topics/person-centered-care.md)
-- [communication skills training](../topics/communication-skills-training.md)
-- [adapted dementia care mapping](../topics/adapted-dementia-care-mapping.md)
 
 ## Tags
 

@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["social-inclusion", "arts-education", "disability-studies", "community-engagement", "music-therapy", "fxa301"]
+tags: ["arts-education", "community-engagement", "creative-empowerment", "disability-studies", "fxa301", "music-therapy", "social-inclusion"]
 key_concepts: ["social inclusion", "inclusive practices", "creative empowerment"]
 methods: ["case study"]
 slug: fxa301-week11-anything-is-possible-the-arts-and-social-inclusion
@@ -26,7 +26,6 @@ Pat Rix's article '‘Anything is Possible’: the Arts and Social Inclusion' de
 
 - [social inclusion](../topics/social-inclusion.md)
 - [inclusive practices](../topics/inclusive-practices.md)
-- [creative empowerment](../topics/creative-empowerment.md)
 
 ## Tags
 

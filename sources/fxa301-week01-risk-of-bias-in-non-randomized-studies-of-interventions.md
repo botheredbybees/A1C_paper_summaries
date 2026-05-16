@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["risk-of-bias-assessment", "non-randomized-studies", "intervention-comparisons", "robins-i-tool", "bias-domains", "fxa301"]
+tags: ["bias-domains", "confounding-factors", "fxa301", "intervention-comparisons", "non-randomized-studies", "per-protocol-effect-analyses", "risk-of-bias-assessment", "robins-i-tool", "target-trial"]
 key_concepts: ["target trial", "confounding factors", "per-protocol effect analyses"]
 methods: ["systematic review"]
 slug: fxa301-week01-risk-of-bias-in-non-randomized-studies-of-interventions
@@ -24,9 +24,7 @@ The document outlines the ROBINS-I Version 2 (V2) risk-of-bias assessment tool f
 
 ## Key Concepts
 
-- [target trial](../topics/target-trial.md)
-- [confounding factors](../topics/confounding-factors.md)
-- [per-protocol effect analyses](../topics/per-protocol-effect-analyses.md)
+- *(none identified)*
 
 ## Tags
 

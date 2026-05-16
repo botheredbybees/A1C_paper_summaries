@@ -7,7 +7,7 @@ doi: https://doi.org/10.1093/geront/gnw196
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["dementia-care", "humanities-research", "art-therapy", "play-framework", "quality-of-life", "fxa303"]
+tags: ["art-therapy", "dementia-care", "fxa303", "humanities-research", "play-framework", "quality-of-life", "timeslips"]
 key_concepts: ["homo ludens", "TimeSlips", "Alzheimer\u2019s Poetry Project"]
 methods: ["qualitative study", "case study"]
 slug: fxa303-week13-play-and-people-living-with-dementia-a-humanities-based
@@ -25,7 +25,6 @@ This paper presents a humanities-based inquiry into the concept of 'play' in dem
 ## Key Concepts
 
 - [homo ludens](../topics/homo-ludens.md)
-- [TimeSlips](../topics/timeslips.md)
 - [Alzheimer’s Poetry Project](../topics/alzheimers-poetry-project.md)
 
 ## Tags

@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "A Systematic Review of Non-pharmacological Interventions for BPSD in Nursing Home Residents with Dementia"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.1017/S1041610218001679
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["non-pharmacological-interventions", "bpsi-in-nursing-homes", "dementia-care-ergonomics", "fxa303"]
+tags: ["bpsi-in-nursing-homes", "capability-considerations", "dementia-care-ergonomics", "ergonomic-interventions", "fxa303", "non-pharmacological-interventions"]
 key_concepts: ["Behavioral and Psychological Symptoms of Dementia (BPSD)", "Ergonomic Interventions", "Capability Considerations"]
 methods: ["systematic review"]
 slug: fxa303-week13-a-systematic-review-of-non-pharmacological-interventions
@@ -25,8 +25,6 @@ This systematic review evaluates non-pharmacological interventions for Behaviora
 ## Key Concepts
 
 - [Behavioral and Psychological Symptoms of Dementia (BPSD)](../topics/behavioral-and-psychological-symptoms-of-dementia-bpsd.md)
-- [Ergonomic Interventions](../topics/ergonomic-interventions.md)
-- [Capability Considerations](../topics/capability-considerations.md)
 
 ## Tags
 

@@ -7,7 +7,7 @@ doi: https://doi.org/10.1177/1533317507308779
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["alzheimer-disease", "frontotemporal-degeneration", "mri-atrophy-patterns", "neurodegenerative-disorders", "voxel-based-morphometry", "fxa303"]
+tags: ["alzheimer-disease", "frontotemporal-degeneration", "frontotemporal-lobar-degeneration", "fxa303", "mri-atrophy-patterns", "neurodegenerative-disorders", "voxel-based-morphometry"]
 key_concepts: ["Alzheimer's disease", "Frontotemporal lobar degeneration", "Voxel-based morphometry"]
 methods: ["systematic review", "case-control study"]
 slug: fxa303-week13-distinct-mri-atrophy-patterns-in-autopsy-proven-alzheimers
@@ -25,7 +25,6 @@ The article by Rabinovici et al. (2007) investigates the anatomical distinctions
 ## Key Concepts
 
 - [Alzheimer's disease](../topics/alzheimers-disease.md)
-- [Frontotemporal lobar degeneration](../topics/frontotemporal-lobar-degeneration.md)
 - [Voxel-based morphometry](../topics/voxel-based-morphometry.md)
 
 ## Tags

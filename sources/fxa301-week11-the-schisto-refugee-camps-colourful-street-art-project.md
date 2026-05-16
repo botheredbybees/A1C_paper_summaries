@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["community-cohesion", "refugee-support", "street-art-intervention", "creative-outlets", "fxa301"]
+tags: ["community-cohesion", "creative-outlets", "fxa301", "refugee-support", "street-art-intervention", "vibrant-colors"]
 key_concepts: ["community cohesion", "self-expression", "vibrant colors"]
 methods: ["case study"]
 slug: fxa301-week11-the-schisto-refugee-camps-colourful-street-art-project
@@ -26,7 +26,6 @@ The article discusses a street art project called 'Coexisting in colour' initiat
 
 - [community cohesion](../topics/community-cohesion.md)
 - [self-expression](../topics/self-expression.md)
-- [vibrant colors](../topics/vibrant-colors.md)
 
 ## Tags
 

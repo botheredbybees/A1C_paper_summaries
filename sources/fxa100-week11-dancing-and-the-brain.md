@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "11"
-tags: ["neurological-benefits", "dance-therapy", "cognitive-enhancement", "motor-symptoms", "brain-health", "fxa100"]
+tags: ["brain-health", "cognitive-enhancement", "dance-therapy", "fxa100", "memory-improvement", "motor-symptoms", "neurological-benefits"]
 key_concepts: ["executive-function", "memory-improvement", "creative-arts-therapies"]
 methods: ["case-study"]
 slug: fxa100-week11-dancing-and-the-brain
@@ -25,7 +25,6 @@ The article 'Dancing and the Brain' by Scott Edwards, published on the Harvard M
 ## Key Concepts
 
 - [executive-function](../topics/executive-function.md)
-- [memory-improvement](../topics/memory-improvement.md)
 - [creative-arts-therapies](../topics/creative-arts-therapies.md)
 
 ## Tags

@@ -7,7 +7,7 @@ doi: https://doi.org/10.1016/j.jbmt.2024.10.054
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["biodanza", "resilience-building", "war-time-coping", "movement-therapy", "vivencia-experience", "fxa100"]
+tags: ["biodanza", "fxa100", "movement-therapy", "resilience-building", "vivencia", "vivencia-experience", "war-time-coping"]
 key_concepts: ["Biodanza", "resilience", "vivencia"]
 methods: ["case study"]
 slug: fxa100-week13-biodanza-and-a-sense-of-resilience-in-times-of-war
@@ -24,9 +24,7 @@ The study explores the impact of Biodanza on resilience, affectivity, vitality, 
 
 ## Key Concepts
 
-- [Biodanza](../topics/biodanza.md)
 - [resilience](../topics/resilience.md)
-- [vivencia](../topics/vivencia.md)
 
 ## Tags
 

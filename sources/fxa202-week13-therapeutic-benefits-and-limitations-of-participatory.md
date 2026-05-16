@@ -7,7 +7,7 @@ doi: https://doi.org/10.1111/jpm.12606
 appearances:
   - unit: FXA202
     week: "13"
-tags: ["mental-health", "participatory-photography", "therapeutic-benefits", "systematic-review", "fxa202"]
+tags: ["empowerment", "ethical-issues", "fxa202", "mental-health", "participatory-photography", "systematic-review", "therapeutic-benefits"]
 key_concepts: ["empowerment", "self-reflection", "ethical-issues"]
 methods: ["systematic review"]
 slug: fxa202-week13-therapeutic-benefits-and-limitations-of-participatory
@@ -24,9 +24,7 @@ This review explores the therapeutic benefits and limitations of participatory p
 
 ## Key Concepts
 
-- [empowerment](../topics/empowerment.md)
 - [self-reflection](../topics/self-reflection.md)
-- [ethical-issues](../topics/ethical-issues.md)
 
 ## Tags
 

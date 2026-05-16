@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/13691830802364874
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["immigrant-artists", "cultural-inclusion", "amsterdam-arts", "ethnic-studies", "migration-policy", "fxa301"]
+tags: ["amsterdam-arts", "artistic-gatekeeping", "cultural-inclusion", "ethnic-studies", "fxa301", "immigrant-artists", "inclusive-exclusion", "migration-policy"]
 key_concepts: ["inclusive-exclusion", "cultural-policy", "artistic-gatekeeping"]
 methods: ["case-study"]
 slug: fxa301-week11-immigrants-artistic-practices-in-amsterdam-19702007-a
@@ -24,9 +24,7 @@ Christine Delhaye's article explores the political dynamics surrounding immigran
 
 ## Key Concepts
 
-- [inclusive-exclusion](../topics/inclusive-exclusion.md)
 - [cultural-policy](../topics/cultural-policy.md)
-- [artistic-gatekeeping](../topics/artistic-gatekeeping.md)
 
 ## Tags
 

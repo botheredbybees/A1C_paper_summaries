@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["accessibility-in-arts", "inclusive-practices", "disability-support", "fxa301"]
+tags: ["accessibility-in-arts", "disability-support", "fxa301", "inclusive-practices", "inclusivity"]
 key_concepts: ["accessibility", "inclusivity"]
 methods: []
 slug: fxa301-week11-glossary-choose-art
@@ -25,7 +25,6 @@ The document provides a glossary of terms related to accessibility and inclusivi
 ## Key Concepts
 
 - [accessibility](../topics/accessibility.md)
-- [inclusivity](../topics/inclusivity.md)
 
 ## Tags
 

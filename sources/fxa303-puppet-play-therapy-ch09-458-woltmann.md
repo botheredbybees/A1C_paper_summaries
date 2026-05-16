@@ -7,7 +7,7 @@ apa7: "A Practical Guidebook: Puppet Play Therapy With Children of All Ages by E
 doi: null
 appearances:
   - unit: FXA303
-tags: ["puppet-therapy", "child-psychology", "play-therapy", "fxa303"]
+tags: ["child-psychology", "displacement", "fxa303", "play-therapy", "projection", "puppet-therapy", "symbolism"]
 key_concepts: ["symbolism", "projection", "displacement"]
 methods: []
 slug: fxa303-puppet-play-therapy-ch09-458-woltmann
@@ -24,9 +24,7 @@ This chapter discusses the use of puppet play therapy in psychotherapeutic setti
 
 ## Key Concepts
 
-- [symbolism](../topics/symbolism.md)
-- [projection](../topics/projection.md)
-- [displacement](../topics/displacement.md)
+- *(none identified)*
 
 ## Tags
 

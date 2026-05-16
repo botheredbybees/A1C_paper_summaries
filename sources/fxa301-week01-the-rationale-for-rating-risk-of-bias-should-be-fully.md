@@ -7,7 +7,7 @@ doi: http://dx.doi.org/10.1016/j.jclinepi.2015.06.007
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["risk-of-bias", "meta-analysis", "clinical-trials", "methodology", "research-quality", "fxa301"]
+tags: ["clinical-trials", "domain-based-tools", "fxa301", "meta-analysis", "methodology", "research-quality", "risk-of-bias"]
 key_concepts: ["risk of bias", "domain-based tools", "transparency in reporting"]
 methods: ["case study"]
 slug: fxa301-week01-the-rationale-for-rating-risk-of-bias-should-be-fully
@@ -25,7 +25,6 @@ The letter discusses the importance of transparently reporting the rationale beh
 ## Key Concepts
 
 - [risk of bias](../topics/risk-of-bias.md)
-- [domain-based tools](../topics/domain-based-tools.md)
 - [transparency in reporting](../topics/transparency-in-reporting.md)
 
 ## Tags

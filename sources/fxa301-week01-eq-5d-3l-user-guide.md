@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["health-measurement", "quality-of-life-assessment", "patient-outcome-measures", "fxa301"]
+tags: ["eq-5d-3l", "fxa301", "health-measurement", "health-related-quality-of-life", "patient-outcome-measures", "quality-of-life-assessment"]
 key_concepts: ["EQ-5D-3L", "health-related-quality-of-life"]
 methods: ["user-guide"]
 slug: fxa301-week01-eq-5d-3l-user-guide
@@ -24,8 +24,7 @@ The document provides an overview of the EQ-5D-3L, a widely used tool for measur
 
 ## Key Concepts
 
-- [EQ-5D-3L](../topics/eq-5d-3l.md)
-- [health-related-quality-of-life](../topics/health-related-quality-of-life.md)
+- *(none identified)*
 
 ## Tags
 

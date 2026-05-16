@@ -7,7 +7,7 @@ doi: https://doi.org/10.1093/geronb/gby145
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["dementia-intervention", "dance-movement-therapy", "physical-exercise", "psychophysiological-effects", "older-adults-health", "fxa100"]
+tags: ["dance-movement-therapy", "dementia-intervention", "diurnal-cortisol-slope", "fxa100", "nonpharmacological-interventions", "older-adults-health", "physical-exercise", "psychophysiological-effects"]
 key_concepts: ["mild-dementia", "diurnal-cortisol-slope", "nonpharmacological-interventions"]
 methods: ["randomized-controlled-trial"]
 slug: fxa100-week13-psychophysiological-effects-of-dance-movement-therapy-and
@@ -25,8 +25,6 @@ This study evaluates the psychophysiological effects of dance movement therapy (
 ## Key Concepts
 
 - [mild-dementia](../topics/mild-dementia.md)
-- [diurnal-cortisol-slope](../topics/diurnal-cortisol-slope.md)
-- [nonpharmacological-interventions](../topics/nonpharmacological-interventions.md)
 
 ## Tags
 

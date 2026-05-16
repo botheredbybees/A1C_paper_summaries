@@ -7,7 +7,7 @@ doi: https://doi.org/10.1300/J194v05n01_07
 appearances:
   - unit: FXA100
     week: "11"
-tags: ["intergenerational-interaction", "dance-therapy", "collaborative-learning", "aging-and-youth", "fxa100"]
+tags: ["aging-and-youth", "collaborative-learning", "creative-movement", "dance-therapy", "fxa100", "generativity", "intergenerational-engagement", "intergenerational-interaction"]
 key_concepts: ["creative-movement", "generativity", "intergenerational-engagement"]
 methods: ["case-study"]
 slug: fxa100-week11-intergenerational-dancemovement-program-in-melbourne
@@ -24,9 +24,7 @@ Heather Hill, a dance therapist in Victoria, Australia, developed an intergenera
 
 ## Key Concepts
 
-- [creative-movement](../topics/creative-movement.md)
-- [generativity](../topics/generativity.md)
-- [intergenerational-engagement](../topics/intergenerational-engagement.md)
+- *(none identified)*
 
 ## Tags
 

@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["clinical-significance", "psychotherapy-outcomes", "beck-depression-inventory", "statistical-methods", "research-standards", "fxa100"]
+tags: ["beck-depression-inventory", "clinical-significance", "fxa100", "normative-samples", "psychotherapy-outcomes", "research-standards", "statistical-methods"]
 key_concepts: ["clinical significance", "Beck Depression Inventory", "normative samples"]
 methods: ["systematic review"]
 slug: fxa100-week13-assessing-clinical-significance-application-to-the-beck
@@ -24,9 +24,7 @@ The study by Seggar, Lambert, and Hansen evaluates methods for assessing clinica
 
 ## Key Concepts
 
-- [clinical significance](../topics/clinical-significance.md)
 - [Beck Depression Inventory](../topics/beck-depression-inventory.md)
-- [normative samples](../topics/normative-samples.md)
 
 ## Tags
 

@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "The early adolescent brain on music: Analysis of functional dynamics reveals engagement of orbitofrontal cortex reward system"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.1002/hbm.26060
 appearances:
   - unit: FXA303
     week: "03"
-tags: ["brain-mapping", "adolescent-neuroscience", "music-reward-system", "functional-connectivity", "fxa303"]
+tags: ["adolescent-neuroscience", "brain-mapping", "functional-connectivity", "fxa303", "medial-orbitofrontal-cortex-in-adolescent-music-processing", "music-reward-system"]
 key_concepts: ["medial-orbitofrontal-cortex", "ventromedial-prefrontal-cortex", "musical-reward-sensitivity"]
 methods: ["fMRI", "LEiDA"]
 slug: fxa303-week03-the-early-adolescent-brain-on-music-analysis-of-functional
@@ -26,7 +26,6 @@ This research article investigates how music listening modulates brain activity 
 
 - [medial-orbitofrontal-cortex](../topics/medial-orbitofrontal-cortex.md)
 - [ventromedial-prefrontal-cortex](../topics/ventromedial-prefrontal-cortex.md)
-- [medial-orbitofrontal-cortex-in-adolescent-music-processing](../topics/medial-orbitofrontal-cortex-in-adolescent-music-processing.md)
 
 ## Tags
 

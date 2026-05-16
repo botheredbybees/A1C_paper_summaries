@@ -7,7 +7,7 @@ doi: https://doi.org/10.1186/s12889-019-6868-0
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["dementia-caregivers", "bpsd-effects", "caregiver-burden", "personality-coping-strategies", "public-health", "fxa303"]
+tags: ["behavioral-psychological-symptoms-of-dementia-bpsd", "bpsd-effects", "caregiver-burden", "dementia-caregivers", "fxa303", "personality-coping-strategies", "public-health"]
 key_concepts: ["behavioral-psychological symptoms of dementia (BPSD)", "caregiver burden", "coping strategies", "personality traits"]
 methods: ["cross-sectional study"]
 slug: fxa303-week13-the-associations-between-behavioral-psychological-symptoms
@@ -28,7 +28,6 @@ The study highlights the importance of understanding the interplay between BPSD,
 
 ## Key Concepts
 
-- [behavioral-psychological symptoms of dementia (BPSD)](../topics/behavioral-psychological-symptoms-of-dementia-bpsd.md)
 - [caregiver burden](../topics/caregiver-burden.md)
 - [coping strategies](../topics/coping-strategies.md)
 - [personality traits](../topics/personality-traits.md)

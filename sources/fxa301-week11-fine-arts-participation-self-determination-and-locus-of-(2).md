@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/17533015.2016.1247900
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["fine-arts", "self-determination-theory", "developmental-disabilities", "locus-of-control", "fxa301"]
+tags: ["developmental-disabilities", "fine-arts", "fine-arts-participation", "fxa301", "locus-of-control", "self-determination-theory"]
 key_concepts: ["self-determination", "locus of control", "fine arts participation"]
 methods: ["qualitative study"]
 slug: fxa301-week11-fine-arts-participation-self-determination-and-locus-of-(2)
@@ -26,7 +26,6 @@ This study explores the relationship between fine arts participation and self-de
 
 - [self-determination](../topics/self-determination.md)
 - [locus of control](../topics/locus-of-control.md)
-- [fine arts participation](../topics/fine-arts-participation.md)
 
 ## Tags
 

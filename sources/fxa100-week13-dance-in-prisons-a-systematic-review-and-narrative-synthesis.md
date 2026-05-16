@@ -7,7 +7,7 @@ doi: https://doi.org/10.1016/j.aip.2025.102403
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["dance-therapy-prisons", "forensic-psychology", "mental-health-interventions", "fxa100"]
+tags: ["dance-therapy-prisons", "dunphy-outcomes-framework", "forensic-psychology", "fxa100", "mental-health-interventions"]
 key_concepts: ["dance-movement-therapy", "dunphy-outcomes-framework"]
 methods: ["systematic-review", "narrative-synthesis"]
 slug: fxa100-week13-dance-in-prisons-a-systematic-review-and-narrative-synthesis
@@ -25,7 +25,6 @@ This systematic review assesses the application of dance and dance movement ther
 ## Key Concepts
 
 - [dance-movement-therapy](../topics/dance-movement-therapy.md)
-- [dunphy-outcomes-framework](../topics/dunphy-outcomes-framework.md)
 
 ## Tags
 

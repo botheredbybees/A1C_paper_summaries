@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Behavioral and psychological symptoms of dementia"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.3389/fneur.2012.00073
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["dementia-symptoms", "patient-care", "behavioral-psychology", "neurological-disorders", "caregiver-stress", "fxa303"]
+tags: ["behavioral-psychology", "caregiver-stress", "dementia-symptoms", "fxa303", "multifactorial-etiology", "neurological-disorders", "non-cognitive-symptoms", "patient-care"]
 key_concepts: ["Behavioral and Psychological Symptoms of Dementia (BPSD)", "multifactorial etiology", "non-cognitive symptoms"]
 methods: ["systematic review"]
 slug: fxa303-week13-behavioral-and-psychological-symptoms-of-dementia
@@ -27,8 +27,6 @@ The review highlights the complexity of BPSD in terms of symptom presentation an
 ## Key Concepts
 
 - [Behavioral and Psychological Symptoms of Dementia (BPSD)](../topics/behavioral-and-psychological-symptoms-of-dementia-bpsd.md)
-- [multifactorial etiology](../topics/multifactorial-etiology.md)
-- [non-cognitive symptoms](../topics/non-cognitive-symptoms.md)
 
 ## Tags
 

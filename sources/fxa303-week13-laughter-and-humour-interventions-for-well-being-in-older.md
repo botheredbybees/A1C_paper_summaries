@@ -7,7 +7,7 @@ doi: https://doi.org/10.1016/j.ctim.2018.04.009
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["older-adults-wellbeing", "laughter-interventions", "humor-therapy", "systematic-review", "mental-health", "fxa303"]
+tags: ["fxa303", "humor-therapy", "laughter-interventions", "mental-health", "methodological-limitations", "older-adults-wellbeing", "systematic-review"]
 key_concepts: ["well-being", "laughter interventions", "methodological limitations"]
 methods: ["systematic review"]
 slug: fxa303-week13-laughter-and-humour-interventions-for-well-being-in-older
@@ -26,7 +26,6 @@ This systematic review assesses the potential of laughter and humor intervention
 
 - [well-being](../topics/well-being.md)
 - [laughter interventions](../topics/laughter-interventions.md)
-- [methodological limitations](../topics/methodological-limitations.md)
 
 ## Tags
 

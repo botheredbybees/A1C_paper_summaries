@@ -9,7 +9,7 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
-tags: ["art-therapy", "public-health", "research-methods", "fxa301"]
+tags: ["art-evidence", "art-therapy", "direct-impact-on-audience", "fxa301", "public-health", "research-methods", "therapeutic-value-of-art"]
 key_concepts: ["art evidence", "therapeutic value of art", "direct impact on audience"]
 methods: []
 slug: fxa301-applied-artes-and-health-ch01-2021-graff
@@ -26,9 +26,7 @@ This chapter discusses the presentation of art as evidence for improving well-be
 
 ## Key Concepts
 
-- [art evidence](../topics/art-evidence.md)
-- [therapeutic value of art](../topics/therapeutic-value-of-art.md)
-- [direct impact on audience](../topics/direct-impact-on-audience.md)
+- *(none identified)*
 
 ## Tags
 

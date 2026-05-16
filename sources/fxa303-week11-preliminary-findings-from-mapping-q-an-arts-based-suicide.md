@@ -7,7 +7,7 @@ doi: https://doi.org/10.1037/sgd0000664
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["suicide-prevention", "sexual-and-gender-minority-youth", "arts-based-intervention", "mental-health-disparities", "social-support", "fxa303"]
+tags: ["arts-based-intervention", "emotional-regulation-skills", "fxa303", "mental-health-disparities", "sexual-and-gender-minority-youth", "social-support", "suicide-prevention", "thwarted-belongingness"]
 key_concepts: ["depressive-symptoms", "thwarted-belongingness", "emotional-regulation-skills"]
 methods: ["pre-posttest-design"]
 slug: fxa303-week11-preliminary-findings-from-mapping-q-an-arts-based-suicide
@@ -25,8 +25,6 @@ This study evaluates the preliminary effectiveness of an arts-based suicide prev
 ## Key Concepts
 
 - [depressive-symptoms](../topics/depressive-symptoms.md)
-- [thwarted-belongingness](../topics/thwarted-belongingness.md)
-- [emotional-regulation-skills](../topics/emotional-regulation-skills.md)
 
 ## Tags
 

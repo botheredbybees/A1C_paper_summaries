@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Music Listening Motivation Is Associated With Global Happiness in Canadian Late Adolescents"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.1037/a0034495
 appearances:
   - unit: FXA303
     week: "03"
-tags: ["music-listening-motivation", "global-happiness", "adolescent-development", "fxa303"]
+tags: ["adolescent-development", "fxa303", "global-happiness", "music-listening-motivation", "self-determined-motivation-in-music-listening"]
 key_concepts: ["self-determined-motivation", "subjective-well-being"]
 methods: ["structural-equation-modeling"]
 slug: fxa303-week03-music-listening-motivation-is-associated-with-global
@@ -25,7 +25,6 @@ This study explores the relationship between self-determined motivation for list
 ## Key Concepts
 
 - [self-determined-motivation](../topics/self-determined-motivation.md)
-- [self-determined-motivation-in-music-listening](../topics/self-determined-motivation-in-music-listening.md)
 
 ## Tags
 

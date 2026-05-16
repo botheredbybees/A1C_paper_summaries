@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/17454832.2014.906476
 appearances:
   - unit: FXA202
     week: "13"
-tags: ["art-therapy", "self-identity-revision", "neuroscience-in-art", "creative-intervention", "quality-of-life", "fxa202"]
+tags: ["art-therapy", "creative-intervention", "fxa202", "neuroscience-in-art", "portrait-intervention", "quality-of-life", "self-identity-revision", "third-hand-concept", "visual-imagination-neuroscience"]
 key_concepts: ["third-hand-concept", "portrait-intervention", "visual-imagination-neuroscience"]
 methods: ["case-study"]
 slug: fxa202-week13-revisioning-self-identity-the-role-of-portraits
@@ -24,9 +24,7 @@ The article explores an art therapy intervention designed to help patients with 
 
 ## Key Concepts
 
-- [third-hand-concept](../topics/third-hand-concept.md)
-- [portrait-intervention](../topics/portrait-intervention.md)
-- [visual-imagination-neuroscience](../topics/visual-imagination-neuroscience.md)
+- *(none identified)*
 
 ## Tags
 

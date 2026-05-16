@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Visual Arts and the Brain"
@@ -11,7 +11,7 @@ appearances:
     week: "06"
   - unit: FXA100
     week: "06"
-tags: ["neuroaesthetics", "brain-arts-interaction", "dopamine-release", "embodied-cognition", "public-health-through-art", "fxa100"]
+tags: ["brain-arts-interaction", "dopamine-release", "embodied-cognition", "fxa100", "neural-processing-of-art", "neuroaesthetics", "public-health-through-art"]
 key_concepts: ["neuroaesthetics", "functional-magnetic-resonance-imaging-fmri", "mirror-neurons", "empathy-in-art-appreciation"]
 methods: ["case-study", "fMRI"]
 slug: fxa100-week06-visual-arts-and-the-brain
@@ -33,7 +33,6 @@ The document also discusses embodied cognition in art appreciation, where mirror
 - [neuroaesthetics](../topics/neuroaesthetics.md)
 - [functional-magnetic-resonance-imaging-fmri](../topics/functional-magnetic-resonance-imaging-fmri.md)
 - [mirror-neurons](../topics/mirror-neurons.md)
-- [neural-processing-of-art](../topics/neural-processing-of-art.md)
 
 ## Tags
 

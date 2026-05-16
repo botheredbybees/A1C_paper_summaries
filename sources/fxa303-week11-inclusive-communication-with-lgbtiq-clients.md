@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["inclusive-communication", "lgbtiq-rights", "service-delivery", "health-outcomes", "professional-practice", "fxa303"]
+tags: ["affirmative-approach", "fxa303", "gender-identity", "health-outcomes", "inclusive-communication", "inclusivity", "lgbtiq-rights", "professional-practice", "service-delivery"]
 key_concepts: ["inclusivity", "affirmative-approach", "gender-identity"]
 methods: ["practice-guide"]
 slug: fxa303-week11-inclusive-communication-with-lgbtiq-clients
@@ -26,9 +26,7 @@ The guide identifies three key strategies for ensuring inclusive communication: 
 
 ## Key Concepts
 
-- [inclusivity](../topics/inclusivity.md)
-- [affirmative-approach](../topics/affirmative-approach.md)
-- [gender-identity](../topics/gender-identity.md)
+- *(none identified)*
 
 ## Tags
 

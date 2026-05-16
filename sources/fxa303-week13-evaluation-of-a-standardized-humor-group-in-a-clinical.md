@@ -7,7 +7,7 @@ doi: https://doi.org/10.1002/gps.3893
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["clinical-depression", "humor-therapy", "patient-outcomes", "aging-research", "mental-health-interventions", "fxa303"]
+tags: ["aging-research", "cheerfulness", "clinical-depression", "fxa303", "humor-therapy", "life-satisfaction", "mental-health-interventions", "patient-outcomes"]
 key_concepts: ["depressive-symptoms", "life-satisfaction", "cheerfulness"]
 methods: ["feasibility-study", "randomized-control-trial"]
 slug: fxa303-week13-evaluation-of-a-standardized-humor-group-in-a-clinical
@@ -25,8 +25,6 @@ The study evaluates the efficacy of a standardized humor therapy group in a clin
 ## Key Concepts
 
 - [depressive-symptoms](../topics/depressive-symptoms.md)
-- [life-satisfaction](../topics/life-satisfaction.md)
-- [cheerfulness](../topics/cheerfulness.md)
 
 ## Tags
 

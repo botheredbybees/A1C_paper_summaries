@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA202
     week: "13"
-tags: ["phototherapy-techniques", "therapeutic-photography", "emotional-expression", "psychological-development", "self-understanding", "creative-therapy", "fxa202"]
+tags: ["creative-therapy", "digital-age-relevance", "emotional-expression", "fxa202", "phototherapy-techniques", "psychological-development", "self-understanding", "therapeutic-photography"]
 key_concepts: ["phototherapy", "therapeutic photography", "digital age relevance"]
 methods: ["case study", "practical techniques"]
 slug: fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography
@@ -26,7 +26,6 @@ The Handbook of Phototherapy and Therapeutic Photography is a comprehensive reso
 
 - [phototherapy](../topics/phototherapy.md)
 - [therapeutic photography](../topics/therapeutic-photography.md)
-- [digital age relevance](../topics/digital-age-relevance.md)
 
 ## Tags
 

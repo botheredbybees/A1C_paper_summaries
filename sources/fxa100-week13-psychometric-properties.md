@@ -7,7 +7,7 @@ doi: https://doi.org/10.1007/978-1-4614-6439-6_480-2
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["psychometrics", "measurement-instruments", "behavioral-medicine", "reliability", "validity", "fxa100"]
+tags: ["behavioral-medicine", "fxa100", "instrument-validation", "measurement-instruments", "psychometric-properties", "psychometrics", "reliability", "validity"]
 key_concepts: ["reliability", "validity", "psychometric-properties", "instrument-validation"]
 methods: ["case-study"]
 slug: fxa100-week13-psychometric-properties
@@ -24,10 +24,7 @@ The document 'Psychometric Properties' by Annie T. Ginty discusses the fundament
 
 ## Key Concepts
 
-- [reliability](../topics/reliability.md)
-- [validity](../topics/validity.md)
-- [psychometric-properties](../topics/psychometric-properties.md)
-- [instrument-validation](../topics/instrument-validation.md)
+- *(none identified)*
 
 ## Tags
 

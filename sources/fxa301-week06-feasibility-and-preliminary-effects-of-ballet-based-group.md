@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Feasibility and Preliminary Effects of Ballet-Based Group Dance Intervention in Relapsing\u2013Remitting Multiple Sclerosis: A Pilot Study"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.3390/jcm14238612
 appearances:
   - unit: FXA301
     week: "06"
-tags: ["multiple-sclerosis-research", "dance-therapy-intervention", "pilot-study-methods", "physical-function-improvement", "cognitive-enhancement", "fxa301"]
+tags: ["ballet-based-dance-intervention-for-relapsing-reitering-multiple-sclerosis", "cognitive-enhancement", "dance-therapy-intervention", "fxa301", "multiple-sclerosis-research", "physical-function-improvement", "pilot-study-methods"]
 key_concepts: ["relapsing\u2013remitting multiple sclerosis (RRMS)", "ballet-based group dance intervention"]
 methods: ["pilot study"]
 slug: fxa301-week06-feasibility-and-preliminary-effects-of-ballet-based-group
@@ -24,8 +24,7 @@ This pilot study explores the feasibility and preliminary effects of a ballet-ba
 
 ## Key Concepts
 
-- [relapsingâ€“remitting multiple sclerosis (RRMS)](../topics/relapsingâ€“remitting multiple sclerosis (RRMS).md)
-- [ballet-based group dance intervention](../topics/ballet-based-dance-intervention-for-relapsing-reitering-multiple-sclerosis.md)
+- *(none identified)*
 
 ## Tags
 

@@ -7,7 +7,7 @@ doi: https://doi.org/10.1177/1359183513492080
 appearances:
   - unit: FXA202
     week: "13"
-tags: ["digital-storytelling", "personal-photography", "self-representation", "privacy-concerns", "queer-studies", "social-media", "fxa202"]
+tags: ["digital-storytelling", "ethics-in-digital-age", "fxa202", "personal-photography", "privacy-concerns", "queer-studies", "remediation", "self-representation", "social-media"]
 key_concepts: ["remediation", "self-representation", "ethics-in-digital-age"]
 methods: ["historical-analysis", "qualitative-analysis"]
 slug: fxa202-week13-the-remediation-of-the-personal-photograph-and-the-politics
@@ -24,9 +24,7 @@ This article explores the transformation of personal photography in the era of s
 
 ## Key Concepts
 
-- [remediation](../topics/remediation.md)
-- [self-representation](../topics/self-representation.md)
-- [ethics-in-digital-age](../topics/ethics-in-digital-age.md)
+- *(none identified)*
 
 ## Tags
 

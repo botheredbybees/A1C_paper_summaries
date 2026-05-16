@@ -7,7 +7,7 @@ doi: https://doi.org/10.1016/0022-3956(75)90026-6
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["cognitive-assessment", "mental-health", "neuropsychology", "fxa100"]
+tags: ["cognitive-assessment", "cognitive-function-assessment", "fxa100", "mental-health", "mini-mental-state-mms", "neuropsychology"]
 key_concepts: ["Mini-Mental State (MMS)", "cognitive function assessment"]
 methods: ["clinical evaluation"]
 slug: fxa100-week13-mini-mental-state-a-practical-method-for-grading-the
@@ -24,8 +24,7 @@ This paper introduces the Mini-Mental State (MMS), a simplified and practical me
 
 ## Key Concepts
 
-- [Mini-Mental State (MMS)](../topics/mini-mental-state-mms.md)
-- [cognitive function assessment](../topics/cognitive-function-assessment.md)
+- *(none identified)*
 
 ## Tags
 

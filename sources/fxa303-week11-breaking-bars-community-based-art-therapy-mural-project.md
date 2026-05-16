@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/07421656.2020.1824561
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["community-based-art-therapy", "justice-system-youth-engagement", "racial-equality-through-art", "fxa303"]
+tags: ["community-based-art-therapy", "fxa303", "justice-system-youth-engagement", "power-shifts", "racial-equality-through-art", "white-supremacy-dismantling"]
 key_concepts: ["social-bonding", "power-shifts", "white-supremacy-dismantling"]
 methods: ["case-study"]
 slug: fxa303-week11-breaking-bars-community-based-art-therapy-mural-project
@@ -25,8 +25,6 @@ The article by Elizabeth DelliCarpini discusses a community-based art therapy mu
 ## Key Concepts
 
 - [social-bonding](../topics/social-bonding.md)
-- [power-shifts](../topics/power-shifts.md)
-- [white-supremacy-dismantling](../topics/white-supremacy-dismantling.md)
 
 ## Tags
 

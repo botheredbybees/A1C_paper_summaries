@@ -7,7 +7,7 @@ doi: https://doi.org/10.1017/S0265051716000371
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["music-education-research", "academic-outcomes", "instrumental-music-learning", "fxa303"]
+tags: ["academic-attainment", "academic-outcomes", "fxa303", "instrumental-music-education", "instrumental-music-learning", "music-education-research"]
 key_concepts: ["academic attainment", "instrumental music education"]
 methods: ["pilot study"]
 slug: fxa303-week11-the-impact-of-instrumental-music-learning-on-attainment-at
@@ -24,8 +24,7 @@ The study examines the impact of instrumental music learning on academic attainm
 
 ## Key Concepts
 
-- [academic attainment](../topics/academic-attainment.md)
-- [instrumental music education](../topics/instrumental-music-education.md)
+- *(none identified)*
 
 ## Tags
 

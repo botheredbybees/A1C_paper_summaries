@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Brain Networking among Musicians"
@@ -17,7 +17,7 @@ appearances:
     week: "02"
   - unit: FXA100
     week: "02"
-tags: ["brain-synchronization", "musicians-networking", "neurological-research", "music-therapy", "cognitive-disorders", "fxa100"]
+tags: ["brain-networking-among-musicians", "brain-synchronization", "cognitive-disorders", "fxa100", "music-therapy", "musicians-networking", "neurological-research"]
 key_concepts: ["neurosynchronicity", "communal-brain-function", "therapeutic-implications-for-cognitive-disorders"]
 methods: ["case-study"]
 slug: fxa100-week02-brain-networking-among-musicians
@@ -34,7 +34,6 @@ The video transcript discusses the phenomenon of brain synchronization among mus
 
 ## Key Concepts
 
-- [brain-networking-among-musicians](../topics/brain-networking-among-musicians.md)
 - [communal-brain-function](../topics/communal-brain-function.md)
 - [therapeutic-implications-for-cognitive-disorders](../topics/therapeutic-implications-for-cognitive-disorders.md)
 

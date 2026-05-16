@@ -7,7 +7,7 @@ doi: https://doi.org/10.1016/j.jamda.2012.03.008
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["cognitive-decline", "tai-chi", "senior-health", "exercise-benefits", "neurodegeneration-risk", "fxa100"]
+tags: ["cognitive-decline", "exercise-benefits", "fxa100", "neurodegeneration-risk", "senior-health", "tai-chi"]
 key_concepts: ["Tai Chi", "cognitive function", "randomized controlled trial"]
 methods: ["randomized controlled trial"]
 slug: fxa100-week13-a-1-year-randomized-controlled-trial-comparing-mind-body
@@ -24,7 +24,6 @@ The study examines the effectiveness of Tai Chi versus stretching and toning exe
 
 ## Key Concepts
 
-- [Tai Chi](../topics/tai-chi.md)
 - [cognitive function](../topics/cognitive-function.md)
 - [randomized controlled trial](../topics/randomized-controlled-trial.md)
 

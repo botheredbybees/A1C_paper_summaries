@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Research Overview: Arts and Disability in Australia"
@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "09"
-tags: ["arts-and-disability", "aboriginal-people", "accessibility-studies", "fxa301"]
+tags: ["aboriginal-people", "accessibility-studies", "arts-and-disability", "fxa301", "negative-attitudes-and-barriers-in-arts-participation"]
 key_concepts: ["underrepresentation-of-artists-with-disabilities", "recreational-participation-in-the-arts", "negative-attitudes-and-barriers"]
 methods: ["case-study"]
 slug: fxa301-week09-research-overview-arts-and-disability-in-australia
@@ -24,8 +24,6 @@ This document, titled 'Research Overview: Arts and Disability in Australia,' pro
 
 ## Key Concepts
 
-- [negative-attitudes-and-barriers-in-arts-participation](../topics/negative-attitudes-and-barriers-in-arts-participation.md)
-- [negative-attitudes-and-barriers-in-arts-participation](../topics/negative-attitudes-and-barriers-in-arts-participation.md)
 - [negative-attitudes-and-barriers](../topics/negative-attitudes-and-barriers.md)
 
 ## Tags

@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["cultural-adaptation", "mental-health-evaluation", "cross-cultural-research", "psychometric-validation", "geriatric-psychiatry", "fxa100"]
+tags: ["cross-cultural-research", "cultural-adaptation", "cultural-translation", "fxa100", "geriatric-psychiatry", "mental-health-evaluation", "psychometric-validation", "reliability", "statistical-properties", "validity"]
 key_concepts: ["reliability", "validity", "cultural-translation", "statistical-properties"]
 methods: ["validation study"]
 slug: fxa100-week13-validation-study-of-the-chinese-version
@@ -24,10 +24,7 @@ This document is a validation study examining the Chinese version of an unspecif
 
 ## Key Concepts
 
-- [reliability](../topics/reliability.md)
-- [validity](../topics/validity.md)
-- [cultural-translation](../topics/cultural-translation.md)
-- [statistical-properties](../topics/statistical-properties.md)
+- *(none identified)*
 
 ## Tags
 

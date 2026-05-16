@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["arts-inclusion", "intellectual-disabilities", "cultural-participation", "fxa301"]
+tags: ["arts-inclusion", "community-art-interventions", "cultural-participation", "fxa301", "intellectual-disabilities"]
 key_concepts: ["self-determination", "social-inclusion", "community-art-interventions"]
 methods: []
 slug: fxa301-week11-lesson-fxa301-week11-page-4-week-3-activities
@@ -26,7 +26,6 @@ This week's lesson focuses on the final required reading from an ABC news articl
 
 - [self-determination](../topics/self-determination.md)
 - [social-inclusion](../topics/social-inclusion.md)
-- [community-art-interventions](../topics/community-art-interventions.md)
 
 ## Tags
 

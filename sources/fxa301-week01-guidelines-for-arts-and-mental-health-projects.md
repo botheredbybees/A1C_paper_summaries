@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["arts-and-health", "mental-health-interventions", "collaborative-practice", "participant-autonomy", "ethical-standards", "fxa301"]
+tags: ["arts-and-health", "collaborative-practice", "creative-recovery-tools", "ethical-standards", "fxa301", "mental-health-interventions", "participant-autonomy"]
 key_concepts: ["social-inclusion", "well-being-promotion", "creative-recovery-tools"]
 methods: ["guidelines-development"]
 slug: fxa301-week01-guidelines-for-arts-and-mental-health-projects
@@ -26,7 +26,6 @@ The document 'Guidelines for Arts and Mental Health Projects' provides comprehen
 
 - [social-inclusion](../topics/social-inclusion.md)
 - [well-being-promotion](../topics/well-being-promotion.md)
-- [creative-recovery-tools](../topics/creative-recovery-tools.md)
 
 ## Tags
 

@@ -7,7 +7,7 @@ doi: https://doi.org/10.1177/1321103X17734973
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["lgbtq-students", "safe-space-education", "choral-programs", "fxa303"]
+tags: ["choral-programs", "fxa303", "lgbtq-students", "non-discrimination-policies", "safe-space-education"]
 key_concepts: ["non-discrimination-policies", "inclusive-environments"]
 methods: ["survey-research"]
 slug: fxa303-week11-we-are-often-invisible-a-survey-on-safe-space-for-lgbtq
@@ -24,7 +24,6 @@ This article presents a comprehensive survey of LGBTQ college students reflectin
 
 ## Key Concepts
 
-- [non-discrimination-policies](../topics/non-discrimination-policies.md)
 - [inclusive-environments](../topics/inclusive-environments.md)
 
 ## Tags

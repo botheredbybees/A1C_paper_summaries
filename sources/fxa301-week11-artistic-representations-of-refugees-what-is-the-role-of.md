@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/07256868.2018.1459517
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["art-and-refugees", "ethical-art-practice", "collaborative-projects", "fxa301"]
+tags: ["art-and-refugees", "collaborative-projects", "ethical-art-practice", "fxa301", "othering-narratives", "reflexivity-in-art"]
 key_concepts: ["informed-consent", "reflexivity-in-art", "othering-narratives"]
 methods: ["autoethnography", "case-study"]
 slug: fxa301-week11-artistic-representations-of-refugees-what-is-the-role-of
@@ -29,8 +29,6 @@ Through an autoethnographic reflection, Blomfield shares her insights from co-cr
 ## Key Concepts
 
 - [informed-consent](../topics/informed-consent.md)
-- [reflexivity-in-art](../topics/reflexivity-in-art.md)
-- [othering-narratives](../topics/othering-narratives.md)
 
 ## Tags
 

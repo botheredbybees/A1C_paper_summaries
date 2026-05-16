@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA303
     week: "09"
-tags: ["bushfire-ptsd", "long-term-effects-trauma", "mental-health-support", "fxa303"]
+tags: ["bushfire-ptsd", "fxa303", "long-term-effects-trauma", "mental-health-support", "trauma-recovery-long-term"]
 key_concepts: ["post-traumatic-stress-disorder (PTSD)", "trauma-recovery-long-term"]
 methods: []
 slug: fxa303-week09-web-article-puddy-2020
@@ -25,7 +25,6 @@ The article examines the long-term psychological impact of bushfires, focusing o
 ## Key Concepts
 
 - [post-traumatic-stress-disorder (PTSD)](../topics/post-traumatic-stress-disorder-ptsd.md)
-- [trauma-recovery-long-term](../topics/trauma-recovery-long-term.md)
 
 ## Tags
 

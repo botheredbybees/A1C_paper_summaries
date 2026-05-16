@@ -7,7 +7,7 @@ doi: https://doi.org/10.3399/bjgp18X694841
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["sexual-orientation-disclosure", "healthcare-environment", "lgbt-health", "fxa303"]
+tags: ["barriers-to-disclosure", "fxa303", "healthcare-environment", "inclusive-care-practices", "lgbt-health", "sexual-orientation-disclosure"]
 key_concepts: ["barriers-to-disclosure", "inclusive-care-practices", "communication-skills"]
 methods: ["systematic-review"]
 slug: fxa303-week11-sexual-orientation-disclosure-in-health-care-a-systematic
@@ -24,8 +24,6 @@ The article presents a systematic review investigating barriers and facilitators
 
 ## Key Concepts
 
-- [barriers-to-disclosure](../topics/barriers-to-disclosure.md)
-- [inclusive-care-practices](../topics/inclusive-care-practices.md)
 - [communication-skills](../topics/communication-skills.md)
 
 ## Tags

@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["community-music", "inclusive-education", "social-emotional-learning", "fxa301"]
+tags: ["community-music", "fxa301", "inclusive-education", "participatory-music-making", "social-emotional-learning", "strategic-leadership"]
 key_concepts: ["participatory-music-making", "strategic-leadership"]
 methods: ["case-study"]
 slug: fxa301-week01-engaging-in-community-music-an-introduction
@@ -24,8 +24,7 @@ The chapter 'Ways Forward' from the book 'Engaging in Community Music: An Introd
 
 ## Key Concepts
 
-- [participatory-music-making](../topics/participatory-music-making.md)
-- [strategic-leadership](../topics/strategic-leadership.md)
+- *(none identified)*
 
 ## Tags
 

@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["tactile-gallery", "blind-accessibility", "museum-experience", "fxa301"]
+tags: ["blind-accessibility", "educational-benefit", "fxa301", "multisensory-engagement", "museum-experience", "tactile-gallery", "touch-as-sight-substitute"]
 key_concepts: ["touch-as-sight-substitute", "multisensory-engagement", "educational-benefit"]
 methods: []
 slug: fxa301-week11-transcript-smaller-replicas-of-sculptures-from-the-gallery
@@ -24,9 +24,7 @@ This transcript discusses the tactile gallery within the Louvre Museum's sculptu
 
 ## Key Concepts
 
-- [touch-as-sight-substitute](../topics/touch-as-sight-substitute.md)
-- [multisensory-engagement](../topics/multisensory-engagement.md)
-- [educational-benefit](../topics/educational-benefit.md)
+- *(none identified)*
 
 ## Tags
 

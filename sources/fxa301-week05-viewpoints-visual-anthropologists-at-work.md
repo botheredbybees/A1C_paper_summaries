@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Viewpoints: Visual Anthropologists at Work"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.1111/j.1548-1433.2011.01380.x
 appearances:
   - unit: FXA301
     week: "05"
-tags: ["visual-anthropology", "ethnography-films", "photography-methods", "dance-studies", "primate-research", "fxa301"]
+tags: ["dance-studies", "ethnography-films", "fxa301", "methodological-diversity-in-visual-anthropology", "photography-methods", "primate-research", "visual-anthropology"]
 key_concepts: ["visual-ethnography", "methodological-diversity", "theoretical-applications"]
 methods: ["book-review"]
 slug: fxa301-week05-viewpoints-visual-anthropologists-at-work
@@ -24,7 +24,6 @@ The review discusses the book 'Viewpoints: Visual Anthropologists at Work' edite
 
 ## Key Concepts
 
-- [methodological-diversity-in-visual-anthropology](../topics/methodological-diversity-in-visual-anthropology.md)
 - [methodological-diversity](../topics/methodological-diversity.md)
 - [theoretical-applications](../topics/theoretical-applications.md)
 

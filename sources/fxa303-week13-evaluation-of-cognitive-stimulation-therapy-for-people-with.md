@@ -7,7 +7,7 @@ doi: https://doi.org/10.1002/gps.859
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["dementia-care", "cognitive-stimulation", "randomized-controlled-trial", "elderly-health", "quality-of-life", "fxa303"]
+tags: ["alzheimers-disease-assessment-scale-cognition", "cognitive-stimulation", "dementia-care", "elderly-health", "fxa303", "mini-mental-state-examination", "quality-of-life", "randomized-controlled-trial"]
 key_concepts: ["cognitive stimulation therapy", "mini-mental state examination", "alzheimer's disease assessment scale-cognition"]
 methods: ["single-blind randomized controlled trial"]
 slug: fxa303-week13-evaluation-of-cognitive-stimulation-therapy-for-people-with
@@ -31,8 +31,6 @@ The study underscores the importance of evidence-based practices in addressing t
 ## Key Concepts
 
 - [cognitive stimulation therapy](../topics/cognitive-stimulation-therapy.md)
-- [mini-mental state examination](../topics/mini-mental-state-examination.md)
-- [alzheimer's disease assessment scale-cognition](../topics/alzheimers-disease-assessment-scale-cognition.md)
 
 ## Tags
 

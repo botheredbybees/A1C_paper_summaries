@@ -7,7 +7,7 @@ doi: https://doi.org/10.4324/9781003401582
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["arts-in-prisons", "criminal-justice-rehabilitation", "international-perspectives", "reentry-programs", "prison-reform", "fxa303"]
+tags: ["arts-in-prisons", "criminal-justice-rehabilitation", "evidence-based-approaches", "fxa303", "incarcerated-individuals-rehabilitation", "international-perspectives", "prison-reform", "reentry-programs"]
 key_concepts: ["evidence-based-approaches", "incarcerated-individuals-rehabilitation"]
 methods: ["qualitative-research", "case-studies"]
 slug: fxa303-week11-arts-in-criminal-justice-and-corrections
@@ -24,8 +24,7 @@ Arts in Criminal Justice and Corrections is an interdisciplinary volume that exp
 
 ## Key Concepts
 
-- [evidence-based-approaches](../topics/evidence-based-approaches.md)
-- [incarcerated-individuals-rehabilitation](../topics/incarcerated-individuals-rehabilitation.md)
+- *(none identified)*
 
 ## Tags
 

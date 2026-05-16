@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: lesson
 title: "FXA303 Creative Arts, Play and Mental Wellbeing - Week 11"
@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["creative-arts", "mental-wellbeing", "youth-disadvantage", "arts-based-strategies", "therapeutic-benefits", "fxa303"]
+tags: ["arts-based-strategies", "creative-arts", "disadvantaged-youth", "fxa303", "mental-wellbeing", "therapeutic-benefits", "youth-disadvantage"]
 key_concepts: ["arts-based interventions", "disadvantaged youth", "mental health support"]
 methods: []
 slug: fxa303-week11-lesson-fxa303-week11-overview
@@ -25,7 +25,6 @@ This week's content in FXA303 focuses on the role of arts-based programs in supp
 ## Key Concepts
 
 - [arts-based interventions](../topics/creative-interventions-in-dementia-care.md)
-- [disadvantaged youth](../topics/disadvantaged-youth.md)
 - [mental health support](../topics/mental-health-support.md)
 
 ## Tags

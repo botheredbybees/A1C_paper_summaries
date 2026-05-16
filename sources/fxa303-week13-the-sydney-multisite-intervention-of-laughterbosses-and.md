@@ -7,7 +7,7 @@ doi: https://doi.org/10.1136/bmjopen-2012-002072
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["humor-therapy", "elder-care", "agitation-management", "cluster-randomized-trial", "nursing-homes", "fxa303"]
+tags: ["agitation-management", "behavioral-disturbances", "cluster-randomized-trial", "elder-care", "fxa303", "humor-therapy", "nursing-homes"]
 key_concepts: ["depression", "behavioral-disturbances", "quality-of-life", "social-engagement"]
 methods: ["cluster randomised trial"]
 slug: fxa303-week13-the-sydney-multisite-intervention-of-laughterbosses-and
@@ -25,7 +25,6 @@ The study examines the impact of humour therapy on depression, agitation, behavi
 ## Key Concepts
 
 - [depression](../topics/depression.md)
-- [behavioral-disturbances](../topics/behavioral-disturbances.md)
 - [quality-of-life](../topics/quality-of-life.md)
 - [social-engagement](../topics/social-engagement.md)
 

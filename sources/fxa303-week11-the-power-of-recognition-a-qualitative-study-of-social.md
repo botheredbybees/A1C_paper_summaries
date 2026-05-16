@@ -7,7 +7,7 @@ doi: https://doi.org/10.3390/ijerph16193636
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["lgbt-communities", "social-wellbeing", "mental-health", "qualitative-research", "community-identity", "fxa303"]
+tags: ["community-identity", "fxa303", "honneths-theory-of-recognition", "lgbt-communities", "mental-health", "ottawa-charter-for-health-promotion", "qualitative-research", "social-wellbeing"]
 key_concepts: ["honneth's theory of recognition", "ottawa charter for health promotion", "social connectedness"]
 methods: ["qualitative interviews"]
 slug: fxa303-week11-the-power-of-recognition-a-qualitative-study-of-social
@@ -24,8 +24,6 @@ The study examines the role of LGBT communities in promoting mental health and s
 
 ## Key Concepts
 
-- [honneth's theory of recognition](../topics/honneths-theory-of-recognition.md)
-- [ottawa charter for health promotion](../topics/ottawa-charter-for-health-promotion.md)
 - [social connectedness](../topics/social-connectedness.md)
 
 ## Tags

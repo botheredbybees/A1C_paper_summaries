@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["learning-management-system", "student-guide", "quiz-results", "fxa301"]
+tags: ["assessment-feedback", "fxa301", "learning-management-system", "navigation", "quiz-results", "student-guide"]
 key_concepts: ["navigation", "assessment-feedback"]
 methods: []
 slug: fxa301-week01-viewing-your-quiz-results
@@ -24,8 +24,7 @@ The document provides a step-by-step guide for students on how to navigate throu
 
 ## Key Concepts
 
-- [navigation](../topics/navigation.md)
-- [assessment-feedback](../topics/assessment-feedback.md)
+- *(none identified)*
 
 ## Tags
 

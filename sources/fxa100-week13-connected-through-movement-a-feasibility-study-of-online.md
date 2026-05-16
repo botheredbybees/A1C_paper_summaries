@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/13607863.2024.2364754
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["mindfulness-based-intervention", "telehealth-for-aging", "cognitive-decline-treatment", "social-connectedness-in-aging", "movement-therapy-research", "fxa100"]
+tags: ["cognitive-decline-treatment", "fxa100", "loneliness-reduction", "mental-health-improvement", "mindfulness-based-intervention", "movement-therapy-research", "physical-activity-promotion", "social-connectedness-in-aging", "telehealth-for-aging"]
 key_concepts: ["loneliness reduction", "mental health improvement", "physical activity promotion"]
 methods: ["feasibility study", "qualitative feedback"]
 slug: fxa100-week13-connected-through-movement-a-feasibility-study-of-online
@@ -24,9 +24,7 @@ This study investigates the feasibility of an online mindfulness-based dance/mov
 
 ## Key Concepts
 
-- [loneliness reduction](../topics/loneliness-reduction.md)
-- [mental health improvement](../topics/mental-health-improvement.md)
-- [physical activity promotion](../topics/physical-activity-promotion.md)
+- *(none identified)*
 
 ## Tags
 

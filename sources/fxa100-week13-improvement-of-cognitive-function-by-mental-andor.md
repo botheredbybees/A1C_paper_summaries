@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["cognitive-function", "elderly-health", "brain-exercise", "aerobic-training", "memory-improvement", "combined-interventions", "fxa100"]
+tags: ["aerobic-exercise", "aerobic-training", "brain-exercise", "cognitive-function", "combined-interventions", "elderly-health", "fxa100", "healthy-aging", "memory-improvement", "mental-training"]
 key_concepts: ["mental training", "aerobic exercise", "cognitive function", "healthy aging"]
 methods: ["randomized controlled trial", "pre-post intervention study"]
 slug: fxa100-week13-improvement-of-cognitive-function-by-mental-andor
@@ -28,10 +28,7 @@ The study underscores the potential for integrated cognitive exercises and physi
 
 ## Key Concepts
 
-- [mental training](../topics/mental-training.md)
-- [aerobic exercise](../topics/aerobic-exercise.md)
 - [cognitive function](../topics/cognitive-function.md)
-- [healthy aging](../topics/healthy-aging.md)
 
 ## Tags
 

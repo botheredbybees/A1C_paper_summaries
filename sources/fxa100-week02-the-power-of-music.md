@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "The power of music"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.1093/brain/awl234
 appearances:
   - unit: FXA100
     week: "02"
-tags: ["neurology", "music-therapy", "emotional-cognition", "cultural-psychology", "motor-neurons", "fxa100"]
+tags: ["cultural-psychology", "emotional-cognition", "fxa100", "motor-neurons", "music-therapy", "neurology", "the-power-of-music-on-emotional-cognition"]
 key_concepts: ["therapeutic-benefits-of-music", "emotional-evocation-by-music", "neural-correlates-of-musical-experience"]
 methods: ["case-study"]
 slug: fxa100-week02-the-power-of-music
@@ -25,8 +25,6 @@ Oliver Sacks explores the profound impact of music on human beings, questioning 
 ## Key Concepts
 
 - [therapeutic-benefits-of-music](../topics/therapeutic-benefits-of-music.md)
-- [the-power-of-music-on-emotional-cognition](../topics/the-power-of-music-on-emotional-cognition.md)
-- [the-power-of-music-on-emotional-cognition](../topics/the-power-of-music-on-emotional-cognition.md)
 
 ## Tags
 

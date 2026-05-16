@@ -7,7 +7,7 @@ doi: https://doi.org/10.1007/978-3-030-89289-0
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["health-economics", "quality-of-life-measurement", "health-assessment-tools", "economic-evaluations", "fxa301"]
+tags: ["economic-evaluations", "eq-5d-5l", "fxa301", "health-assessment-tools", "health-economics", "health-technology-assessments", "quality-of-life-measurement", "value-sets"]
 key_concepts: ["EQ-5D-5L", "value sets", "health technology assessments"]
 methods: ["comparative analysis"]
 slug: fxa301-week01-value-sets-for-eq-5d-5l
@@ -24,9 +24,7 @@ This book offers a comprehensive overview and detailed examination of the value 
 
 ## Key Concepts
 
-- [EQ-5D-5L](../topics/eq-5d-5l.md)
-- [value sets](../topics/value-sets.md)
-- [health technology assessments](../topics/health-technology-assessments.md)
+- *(none identified)*
 
 ## Tags
 

@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Listening and Dementia Care"
@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "03"
-tags: ["music-therapy", "dementia-care", "neural-pathways", "personalized-music", "emotional-memory", "fxa100"]
+tags: ["cognitive-impairments-and-music-therapy", "dementia-care", "emotional-memory", "fxa100", "group-music-therapy-for-dementia-patients", "music-therapy", "neural-pathways", "personalized-music"]
 key_concepts: ["music-based-interventions", "dopamine-release", "musical-memories"]
 methods: ["systematic-review"]
 slug: fxa100-week03-listening-and-dementia-care
@@ -30,9 +30,7 @@ Overall, these interventions underscore the significant role music plays in deme
 
 ## Key Concepts
 
-- [group-music-therapy-for-dementia-patients](../topics/group-music-therapy-for-dementia-patients.md)
 - [dopamine-release](../topics/dopamine-release.md)
-- [cognitive-impairments-and-music-therapy](../topics/cognitive-impairments-and-music-therapy.md)
 
 ## Tags
 

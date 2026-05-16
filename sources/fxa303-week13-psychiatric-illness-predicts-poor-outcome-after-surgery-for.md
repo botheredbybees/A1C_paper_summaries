@@ -7,7 +7,7 @@ doi: https://doi.org/10.1017/S0033291799002548
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["hip-fracture-rehabilitation", "elderly-psychiatric-care", "postoperative-outcomes", "cognitive-impairment", "mental-health-services", "fxa303"]
+tags: ["cognitive-impairment", "elderly-psychiatric-care", "fxa303", "hip-fracture-rehabilitation", "hospital-stays", "mental-health-services", "mortality-rates", "postoperative-outcomes", "prospective-cohort-study", "psychiatric-illness", "targeted-interventions"]
 key_concepts: ["psychiatric illness", "prospective cohort study", "mortality rates", "hospital stays", "targeted interventions"]
 methods: ["prospective cohort study"]
 slug: fxa303-week13-psychiatric-illness-predicts-poor-outcome-after-surgery-for
@@ -28,11 +28,7 @@ Patients diagnosed with dementia or delirium faced notably higher risks of death
 
 ## Key Concepts
 
-- [psychiatric illness](../topics/psychiatric-illness.md)
-- [prospective cohort study](../topics/prospective-cohort-study.md)
-- [mortality rates](../topics/mortality-rates.md)
-- [hospital stays](../topics/hospital-stays.md)
-- [targeted interventions](../topics/targeted-interventions.md)
+- *(none identified)*
 
 ## Tags
 

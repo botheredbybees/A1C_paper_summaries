@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA202
     week: "08"
-tags: ["photo-essay", "image-editing", "storytelling", "fxa202"]
+tags: ["editing-as-selection", "ethical-editing-practices", "fxa202", "image-editing", "photo-essay", "storytelling"]
 key_concepts: ["Editing as selection", "Ethical editing practices"]
 methods: []
 slug: fxa202-week08-lesson-fxa202-week08-page-2-editing-your-images
@@ -24,8 +24,7 @@ This lesson covers the concept of editing in photography, emphasizing its import
 
 ## Key Concepts
 
-- [Editing as selection](../topics/editing-as-selection.md)
-- [Ethical editing practices](../topics/ethical-editing-practices.md)
+- *(none identified)*
 
 ## Tags
 

@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["refugee-wellness", "art-therapy", "community-outreach", "creative-expression", "human-rights", "fxa301"]
+tags: ["art-therapy", "community-outreach", "creative-expression", "fxa301", "human-rights", "refugee-wellness", "therapeutic-art-interventions"]
 key_concepts: ["self-expression", "therapeutic-art-interventions"]
 methods: ["case-study"]
 slug: fxa301-week11-7-art-initiatives-that-are-transforming-the-lives-of
@@ -25,7 +25,6 @@ This web article by Lauren Parater, an Associate Innovation Engagement Officer a
 ## Key Concepts
 
 - [self-expression](../topics/self-expression.md)
-- [therapeutic-art-interventions](../topics/therapeutic-art-interventions.md)
 
 ## Tags
 

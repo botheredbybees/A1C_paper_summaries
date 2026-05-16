@@ -7,7 +7,7 @@ doi: https://doi.org/10.1111/scs.13078
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["mental-health", "choir-singing", "social-emotional-wellbeing", "qualitative-research", "therapeutic-benefits", "personal-growth", "fxa303"]
+tags: ["choir-singing", "fxa303", "mental-health", "personal-growth", "presence", "qualitative-research", "relational-solidarity", "social-emotional-wellbeing", "therapeutic-benefits"]
 key_concepts: ["presence", "emotional-connection", "self-awareness", "relational-solidarity"]
 methods: ["qualitative research"]
 slug: fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through
@@ -24,10 +24,8 @@ This article explores the impact of choir singing on mental health and social-em
 
 ## Key Concepts
 
-- [presence](../topics/presence.md)
 - [emotional-connection](../topics/emotional-connection.md)
 - [self-awareness](../topics/self-awareness.md)
-- [relational-solidarity](../topics/relational-solidarity.md)
 
 ## Tags
 

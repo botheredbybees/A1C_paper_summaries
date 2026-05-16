@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/17533015.2014.924974
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["arts-in-health", "framework-development", "interdisciplinary-research", "fxa301"]
+tags: ["arts-in-health", "complex-interventions-guidelines", "framework-development", "fxa301", "interdisciplinary-research"]
 key_concepts: ["participatory-action-research", "complex-interventions-guidelines"]
 methods: ["integrative-framework"]
 slug: fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(3)
@@ -25,7 +25,6 @@ The article presents Aesop, a framework designed to address the challenges in ar
 ## Key Concepts
 
 - [participatory-action-research](../topics/participatory-action-research.md)
-- [complex-interventions-guidelines](../topics/complex-interventions-guidelines.md)
 
 ## Tags
 

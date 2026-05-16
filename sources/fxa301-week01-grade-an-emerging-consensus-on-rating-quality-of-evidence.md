@@ -7,7 +7,7 @@ doi: https://doi.org/10.1136/bmj.a1177
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["clinical-guidelines", "evidence-based-medicine", "healthcare-quality-improvement", "recommendation-strength", "fxa301"]
+tags: ["clinical-guidelines", "evidence-based-medicine", "fxa301", "grade-system", "healthcare-quality-improvement", "quality-of-evidence", "recommendation-strength", "strength-of-recommendations"]
 key_concepts: ["GRADE system", "quality of evidence", "strength of recommendations"]
 methods: ["systematic review"]
 slug: fxa301-week01-grade-an-emerging-consensus-on-rating-quality-of-evidence
@@ -24,9 +24,7 @@ This article introduces the GRADE system, which is designed to provide a consist
 
 ## Key Concepts
 
-- [GRADE system](../topics/grade-system.md)
-- [quality of evidence](../topics/quality-of-evidence.md)
-- [strength of recommendations](../topics/strength-of-recommendations.md)
+- *(none identified)*
 
 ## Tags
 

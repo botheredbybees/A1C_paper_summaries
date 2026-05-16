@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["arts-funding", "peer-assessment", "grant-review", "diversity-inclusion", "cultural-policy", "fxa301"]
+tags: ["artistic-integrity", "arts-funding", "code-of-conduct", "conflict-of-interest-management", "cultural-policy", "diversity-inclusion", "fxa301", "grant-review", "peer-assessment"]
 key_concepts: ["conflict-of-interest-management", "code-of-conduct", "artistic-integrity"]
 methods: []
 slug: fxa301-week01-peer-handbook-for-assessment-panels
@@ -24,9 +24,7 @@ The 'Peer Handbook for Assessment Panels' by Creative Australia is a comprehensi
 
 ## Key Concepts
 
-- [conflict-of-interest-management](../topics/conflict-of-interest-management.md)
-- [code-of-conduct](../topics/code-of-conduct.md)
-- [artistic-integrity](../topics/artistic-integrity.md)
+- *(none identified)*
 
 ## Tags
 

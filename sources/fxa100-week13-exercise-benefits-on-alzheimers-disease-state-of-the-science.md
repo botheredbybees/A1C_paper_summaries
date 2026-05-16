@@ -7,7 +7,7 @@ doi: https://doi.org/10.1016/j.arr.2020.101108
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["alzheimers-disease", "exercise-benefits", "neurogenesis", "cognitive-decline", "brain-health", "fxa100"]
+tags: ["alzheimers-disease", "bdnf-production", "brain-health", "cognitive-decline", "exercise-benefits", "fxa100", "hippocampal-volume", "neurogenesis"]
 key_concepts: ["Alzheimer's disease", "physical activity", "BDNF production", "hippocampal volume"]
 methods: ["systematic review"]
 slug: fxa100-week13-exercise-benefits-on-alzheimers-disease-state-of-the-science
@@ -26,8 +26,6 @@ This review article examines the potential benefits of regular physical exercise
 
 - [Alzheimer's disease](../topics/alzheimers-disease.md)
 - [physical activity](../topics/physical-activity.md)
-- [BDNF production](../topics/bdnf-production.md)
-- [hippocampal volume](../topics/hippocampal-volume.md)
 
 ## Tags
 

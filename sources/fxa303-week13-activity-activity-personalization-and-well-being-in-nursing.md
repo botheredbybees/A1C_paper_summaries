@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/07317115.2020.1844356
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["nursing-home-care", "cognitive-impairment", "personalization-strategies", "well-being-interventions", "activity-based-research", "fxa303"]
+tags: ["activity-based-research", "activity-personalization", "cognitive-impairment", "fxa303", "nursing-home-care", "personalization-strategies", "residents-well-being", "tailored-activities", "well-being-interventions"]
 key_concepts: ["activity personalization", "residents' well-being", "cognitive impairment", "tailored activities"]
 methods: ["integrative review"]
 slug: fxa303-week13-activity-activity-personalization-and-well-being-in-nursing
@@ -24,10 +24,7 @@ This integrative review examines the impact of activities on well-being among nu
 
 ## Key Concepts
 
-- [activity personalization](../topics/activity-personalization.md)
-- [residents' well-being](../topics/residents-well-being.md)
 - [cognitive impairment](../topics/cognitive-impairment.md)
-- [tailored activities](../topics/tailored-activities.md)
 
 ## Tags
 

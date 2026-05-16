@@ -13,7 +13,7 @@ appearances:
     week: "11"
   - unit: FXA303
     week: "11"
-tags: ["youth-justice", "creative-interventions", "arts-in-therapy", "community-engagement", "evidence-based-practice", "fxa303"]
+tags: ["arts-in-therapy", "community-engagement", "creative-arts-programs", "creative-interventions", "evidence-based-practice", "fxa303", "participant-feedback-integration", "service-design-and-delivery", "youth-justice"]
 key_concepts: ["creative arts programs", "service design and delivery", "participant feedback integration"]
 methods: ["case study"]
 slug: fxa303-week11-developing-creative-approaches-in-youth-justice-a-guide-for
@@ -34,9 +34,7 @@ The guide offers practical tips for professionals looking to integrate creativit
 
 ## Key Concepts
 
-- [creative arts programs](../topics/creative-arts-programs.md)
-- [service design and delivery](../topics/service-design-and-delivery.md)
-- [participant feedback integration](../topics/participant-feedback-integration.md)
+- *(none identified)*
 
 ## Tags
 

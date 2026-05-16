@@ -7,7 +7,7 @@ doi: https://doi.org/10.1093/oso/9780198792079.003.0006
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["arts-in-health", "intervention-design", "health-interventions", "evaluation-methods", "fxa301"]
+tags: ["arts-in-health", "evaluation-methods", "feasibility-testing", "fxa301", "health-interventions", "intervention-design", "pilot-studies"]
 key_concepts: ["pilot-studies", "feasibility-testing", "stakeholder-engagement"]
 methods: ["case-study"]
 slug: fxa301-week01-implementing-and-evaluating-interventions
@@ -24,8 +24,6 @@ The chapter 'Implementing and Evaluating Interventions' by Daisy Fancourt outlin
 
 ## Key Concepts
 
-- [pilot-studies](../topics/pilot-studies.md)
-- [feasibility-testing](../topics/feasibility-testing.md)
 - [stakeholder-engagement](../topics/stakeholder-engagement.md)
 
 ## Tags

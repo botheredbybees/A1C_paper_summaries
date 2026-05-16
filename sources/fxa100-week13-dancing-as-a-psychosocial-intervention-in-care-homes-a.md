@@ -7,7 +7,7 @@ doi: https://doi.org/10.1002/gps.3913
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["dementia-care", "psychosocial-interventions", "systematic-review", "care-homes", "quality-of-life", "therapeutic-dance", "fxa100"]
+tags: ["care-homes", "dancing-as-therapy", "dementia-care", "fxa100", "mood-enhancement", "psychosocial-interventions", "quality-of-life", "systematic-review", "therapeutic-dance"]
 key_concepts: ["dancing-as-therapy", "mood-enhancement", "social-interaction"]
 methods: ["systematic review"]
 slug: fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a
@@ -24,8 +24,6 @@ This systematic review evaluates the role of dancing as a psychosocial intervent
 
 ## Key Concepts
 
-- [dancing-as-therapy](../topics/dancing-as-therapy.md)
-- [mood-enhancement](../topics/mood-enhancement.md)
 - [social-interaction](../topics/social-interaction.md)
 
 ## Tags

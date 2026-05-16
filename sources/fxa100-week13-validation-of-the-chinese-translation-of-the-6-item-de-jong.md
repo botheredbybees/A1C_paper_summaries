@@ -7,7 +7,7 @@ doi: https://doi.org/10.1017/S1041610208007552
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["cross-cultural-research", "elderly-health", "loneliness-measurement", "fxa100"]
+tags: ["cronbachs-alpha", "cross-cultural-research", "de-jong-gierveld-loneliness-scale", "elderly-health", "fxa100", "loneliness-measurement", "weisss-distinction"]
 key_concepts: ["De Jong Gierveld Loneliness Scale", "Weiss\u2019s distinction", "Cronbach's alpha"]
 methods: ["validation study", "community-dwelling sample"]
 slug: fxa100-week13-validation-of-the-chinese-translation-of-the-6-item-de-jong
@@ -24,9 +24,7 @@ This study validates the Chinese translation of the 6-item De Jong Gierveld Lone
 
 ## Key Concepts
 
-- [De Jong Gierveld Loneliness Scale](../topics/de-jong-gierveld-loneliness-scale.md)
-- [Weiss’s distinction](../topics/weisss-distinction.md)
-- [Cronbach's alpha](../topics/cronbachs-alpha.md)
+- *(none identified)*
 
 ## Tags
 

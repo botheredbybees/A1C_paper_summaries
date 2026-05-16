@@ -7,7 +7,7 @@ doi: https://doi.org/10.1007/s10964-022-01591-8
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["arts-engagement", "antisocial-behaviors", "adolescent-development", "cultural-activities", "longitudinal-study", "self-control", "fxa303"]
+tags: ["adolescent-development", "antisocial-behaviors", "antisocial-or-criminalized-behaviors", "arts-and-cultural-engagement", "arts-engagement", "cultural-activities", "fxa303", "longitudinal-study", "mediating-factors", "self-control"]
 key_concepts: ["arts and cultural engagement", "antisocial or criminalized behaviors", "mediating factors"]
 methods: ["longitudinal cohort study"]
 slug: fxa303-week11-arts-and-cultural-engagement-reportedly-antisocial-or
@@ -24,9 +24,7 @@ The study by Bone et al. (2022) explores the impact of arts and cultural engagem
 
 ## Key Concepts
 
-- [arts and cultural engagement](../topics/arts-and-cultural-engagement.md)
-- [antisocial or criminalized behaviors](../topics/antisocial-or-criminalized-behaviors.md)
-- [mediating factors](../topics/mediating-factors.md)
+- *(none identified)*
 
 ## Tags
 

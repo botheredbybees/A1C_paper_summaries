@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["dementia-care", "humor-intervention", "elderly-healthcare", "quality-of-life", "non-pharmacological-therapy", "fxa303"]
+tags: ["dementia-care", "demenz-clown", "elderly-healthcare", "fxa303", "humor-intervention", "non-pharmacological-therapy", "quality-of-life"]
 key_concepts: ["Demenz-Clown", "humor therapy", "patient engagement"]
 methods: ["case study"]
 slug: fxa303-week13-der-demenz-clown-ein-konzept-zur-kultivierung-von-humor-und
@@ -24,7 +24,6 @@ The document discusses the concept of a 'Demenz-Clown' (dementia clown) and its 
 
 ## Key Concepts
 
-- [Demenz-Clown](../topics/demenz-clown.md)
 - [humor therapy](../topics/humor-therapy.md)
 - [patient engagement](../topics/patient-engagement.md)
 

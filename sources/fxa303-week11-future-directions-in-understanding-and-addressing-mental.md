@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/15374416.2020.1815207
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["mental-health", "lgbtq-youth", "minority-stress", "societal-attitudes", "interdisciplinary-research", "fxa303"]
+tags: ["discrimination", "fxa303", "interdisciplinary-research", "lgbtq-youth", "life-course-perspective", "mental-health", "minority-stress", "societal-attitudes", "stigma"]
 key_concepts: ["stigma", "discrimination", "minority-stress-theory", "life-course-perspective"]
 methods: ["literature-review"]
 slug: fxa303-week11-future-directions-in-understanding-and-addressing-mental
@@ -24,10 +24,7 @@ Jessica N. Fish's article in the Journal of Clinical Child & Adolescent Psycholo
 
 ## Key Concepts
 
-- [stigma](../topics/stigma.md)
-- [discrimination](../topics/discrimination.md)
 - [minority-stress-theory](../topics/minority-stress-theory.md)
-- [life-course-perspective](../topics/life-course-perspective.md)
 
 ## Tags
 

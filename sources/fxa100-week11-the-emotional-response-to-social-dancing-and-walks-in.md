@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "11"
-tags: ["dementia-care", "emotional-well-being", "social-interaction", "phenomenological-research", "caregiver-relationship", "recreational-therapy", "fxa100"]
+tags: ["caregiver-relationship", "dementia-care", "emotional-well-being", "environmental-influence-on-emotion", "fxa100", "husserls-philosophy", "phenomenological-research", "positive-emotions-in-dementia", "recreational-therapy", "social-interaction"]
 key_concepts: ["Husserl's philosophy", "positive emotions in dementia", "environmental influence on emotion"]
 methods: ["phenomenological study"]
 slug: fxa100-week11-the-emotional-response-to-social-dancing-and-walks-in
@@ -24,9 +24,7 @@ This study investigates the emotional responses of individuals with dementia dur
 
 ## Key Concepts
 
-- [Husserl's philosophy](../topics/husserls-philosophy.md)
-- [positive emotions in dementia](../topics/positive-emotions-in-dementia.md)
-- [environmental influence on emotion](../topics/environmental-influence-on-emotion.md)
+- *(none identified)*
 
 ## Tags
 

@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Arts in Criminal Justice and Corrections: International Perspectives on Methods"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.4324/9781003401582
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["arts-in-criminal-justice", "corrections-interventions", "international-perspectives", "rehabilitation-methods", "creative-therapies", "cultural-context", "fxa303"]
+tags: ["arts-in-criminal-justice", "corrections-interventions", "creative-therapies", "cultural-context", "fxa303", "international-perspectives", "rehabilitation-methods", "theoretical-frameworks-for-evaluation"]
 key_concepts: ["arts-based-interventions", "participatory-research", "theoretical-frameworks-for-evaluation"]
 methods: ["systematic-review", "case-study"]
 slug: fxa303-week11-arts-in-criminal-justice-and-corrections-international
@@ -30,7 +30,6 @@ The relevance to creative arts and health is profound, as the volume underscores
 
 - [creative-interventions-in-dementia-care](../topics/creative-interventions-in-dementia-care.md)
 - [participatory-research](../topics/participatory-research.md)
-- [theoretical-frameworks-for-evaluation](../topics/theoretical-frameworks-for-evaluation.md)
 
 ## Tags
 

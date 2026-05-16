@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["community-arts", "well-being", "evaluation-methods", "social-outcomes", "fxa301"]
+tags: ["community-arts", "evaluation-methods", "fxa301", "social-outcomes", "systematic-evaluation", "well-being"]
 key_concepts: ["community-well-being", "systematic-evaluation"]
 methods: ["evaluation-guide"]
 slug: fxa301-week01-evaluating-community-arts-community-well-being
@@ -29,7 +29,6 @@ Keating’s guide acknowledges the often overlooked aspect of evaluation within 
 ## Key Concepts
 
 - [community-well-being](../topics/community-well-being.md)
-- [systematic-evaluation](../topics/systematic-evaluation.md)
 
 ## Tags
 

@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: book-chapter
 book_title: "Oxford Textbook Of Creative Arts"
@@ -7,7 +7,7 @@ apa7: "Leeson, L. (2016). Active energy project and its impact on elderly wellbe
 doi: null
 appearances:
   - unit: FXA301
-tags: ["creative-arts", "elderly-wellbeing", "community-engagement", "renewable-energy", "fxa301"]
+tags: ["community-engagement", "community-value-through-participatory-art", "creative-arts", "elderly-wellbeing", "fxa301", "renewable-energy"]
 key_concepts: ["quality-of-life", "participatory-art", "community-value"]
 methods: []
 slug: fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2)
@@ -25,7 +25,6 @@ The chapter discusses the Active Energy project, an initiative aimed at enhancin
 ## Key Concepts
 
 - [quality-of-life](../topics/quality-of-life.md)
-- [community-value-through-participatory-art](../topics/community-value-through-participatory-art.md)
 - [community-value](../topics/community-value.md)
 
 ## Tags

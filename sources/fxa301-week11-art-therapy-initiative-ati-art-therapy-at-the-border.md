@@ -7,7 +7,7 @@ doi: https://doi.org/10.1386/jaah.7.2.143_1
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["refugee-support", "art-therapy", "border-camps", "cultural-reaffirmation", "creative-interventions", "fxa301"]
+tags: ["art-therapy", "border-camps", "creative-interventions", "cultural-reaffirmation", "fxa301", "protective-factors", "psychological-relief", "refugee-support"]
 key_concepts: ["resilience-building", "psychological-relief", "protective-factors"]
 methods: ["case-study"]
 slug: fxa301-week11-art-therapy-initiative-ati-art-therapy-at-the-border
@@ -25,8 +25,6 @@ This article explores the use of kite making and flying in art therapy sessions 
 ## Key Concepts
 
 - [resilience-building](../topics/resilience-building.md)
-- [psychological-relief](../topics/psychological-relief.md)
-- [protective-factors](../topics/protective-factors.md)
 
 ## Tags
 

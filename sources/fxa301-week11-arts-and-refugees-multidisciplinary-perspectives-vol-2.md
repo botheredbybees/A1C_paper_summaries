@@ -7,7 +7,7 @@ doi: https://doi.org/10.3390/arts13010040
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["arts-and-refugees", "multidisciplinary-perspectives", "urban-integration", "therapeutic-benefits", "gender-dynamics", "fxa301"]
+tags: ["arts-and-refugees", "cultural-representation", "fxa301", "gender-dynamics", "multidisciplinary-perspectives", "therapeutic-benefits", "urban-integration"]
 key_concepts: ["refugee integration", "artistic practices", "therapeutic benefits", "gender dynamics", "cultural representation"]
 methods: ["qualitative study"]
 slug: fxa301-week11-arts-and-refugees-multidisciplinary-perspectives-vol-2
@@ -28,7 +28,6 @@ The article 'Arts and Refugees: Multidisciplinary Perspectives (Vol. 2)' by Marc
 - [artistic practices](../topics/artistic-practices.md)
 - [therapeutic benefits](../topics/therapeutic-benefits.md)
 - [gender dynamics](../topics/gender-dynamics.md)
-- [cultural representation](../topics/cultural-representation.md)
 
 ## Tags
 

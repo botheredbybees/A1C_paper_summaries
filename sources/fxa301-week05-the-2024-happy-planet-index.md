@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "The 2024 Happy Planet Index"
@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "05"
-tags: ["sustainable-wellbeing", "environmental-impact", "quality-of-life", "fxa301"]
+tags: ["carbon-footprint-and-sustainable-well-being", "environmental-impact", "fxa301", "quality-of-life", "sustainable-wellbeing"]
 key_concepts: ["life-expectancy", "self-reported-wellbeing", "carbon-footprint"]
 methods: ["report"]
 slug: fxa301-week05-the-2024-happy-planet-index
@@ -30,7 +30,6 @@ Key lessons from the report emphasize the importance of moving beyond GDP-centri
 
 ## Key Concepts
 
-- [carbon-footprint-and-sustainable-well-being](../topics/carbon-footprint-and-sustainable-well-being.md)
 - [self-reported-wellbeing](../topics/self-reported-wellbeing.md)
 - [carbon-footprint](../topics/carbon-footprint.md)
 

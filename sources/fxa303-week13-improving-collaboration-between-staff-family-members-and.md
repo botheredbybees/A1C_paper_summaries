@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Improving Collaboration Between Staff, Family Members, and Artists in Long-Term Dementia Care: A Participatory Action Research Project Into Health Care Clowning"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.1177/10497323251316426
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["dementia-care", "healthcare-clowning", "participatory-research", "collaboration-in-healthcare", "boundary-work", "fxa303"]
+tags: ["boundary-work", "collaboration-in-healthcare", "dementia-care", "facilitative-communication", "fxa303", "healthcare-clowning", "participatory-research"]
 key_concepts: ["participatory action research", "arts-based interventions", "facilitative communication"]
 methods: ["participatory action research"]
 slug: fxa303-week13-improving-collaboration-between-staff-family-members-and
@@ -26,7 +26,6 @@ The study explores the impact of participatory action research (PAR) on health c
 
 - [participatory action research](../topics/participatory-action-research.md)
 - [arts-based interventions](../topics/creative-interventions-in-dementia-care.md)
-- [facilitative communication](../topics/facilitative-communication.md)
 
 ## Tags
 

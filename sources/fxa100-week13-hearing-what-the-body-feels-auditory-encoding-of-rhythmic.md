@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Hearing What the Body Feels: Auditory Encoding of Rhythmic Movement"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.1016/j.cognition.2006.11.006
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["cross-modal-interaction", "auditory-perception", "rhythmic-movement", "music-cognition", "embodied-cognition", "fxa100"]
+tags: ["auditory-perception", "cross-modal-interaction", "embodied-cognition", "fxa100", "metrical-structure-perception", "music-cognition", "rhythmic-movement"]
 key_concepts: ["cross-modal interaction", "embodied cognition", "metrical structure perception"]
 methods: ["experiment"]
 slug: fxa100-week13-hearing-what-the-body-feels-auditory-encoding-of-rhythmic
@@ -24,9 +24,7 @@ This study investigates the relationship between body movement and auditory perc
 
 ## Key Concepts
 
-- [cross-modal interaction](../topics/cross-modal-interaction.md)
 - [embodied cognition](../topics/embodied-cognition.md)
-- [metrical structure perception](../topics/metrical-structure-perception.md)
 
 ## Tags
 

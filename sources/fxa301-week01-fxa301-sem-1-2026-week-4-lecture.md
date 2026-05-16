@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/17533015.2016.1206948
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["arts-health", "community-engagement", "evaluation-methods", "fxa301"]
+tags: ["aesop-framework", "arts-health", "community-engagement", "evaluation-methods", "fxa301"]
 key_concepts: ["co-production", "AESOP framework"]
 methods: ["systematic review"]
 slug: fxa301-week01-fxa301-sem-1-2026-week-4-lecture
@@ -25,7 +25,6 @@ The lecture focuses on the principles and practicalities of designing arts-based
 ## Key Concepts
 
 - [co-production](../topics/co-production.md)
-- [AESOP framework](../topics/aesop-framework.md)
 
 ## Tags
 

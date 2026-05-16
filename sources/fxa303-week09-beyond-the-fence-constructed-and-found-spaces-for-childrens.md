@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Beyond the Fence: Constructed and Found Spaces for Children's Outdoor Play in Natural and Human-Induced Disaster Contexts"
@@ -7,7 +7,7 @@ doi: https://doi.org/10.1016/j.ijdrr.2021.102155
 appearances:
   - unit: FXA303
     week: "09"
-tags: ["disaster-recovery", "child-rights", "play-spaces", "refugee-camps", "mental-health", "fxa303"]
+tags: ["child-rights", "children-s-outdoor-play", "disaster-recovery", "fxa303", "mental-health", "play-spaces", "refugee-camps"]
 key_concepts: ["children's outdoor play", "disaster resilience", "found spaces vs constructed spaces"]
 methods: ["case study"]
 slug: fxa303-week09-beyond-the-fence-constructed-and-found-spaces-for-childrens
@@ -26,7 +26,6 @@ Helen Woolley's article 'Beyond the Fence' explores how childrenâ€™s play i
 
 - [children's outdoor play](../topics/childrens-outdoor-play.md)
 - [disaster resilience](../topics/disaster-resilience.md)
-- [found spaces vs constructed spaces](../topics/children-s-outdoor-play.md)
 
 ## Tags
 

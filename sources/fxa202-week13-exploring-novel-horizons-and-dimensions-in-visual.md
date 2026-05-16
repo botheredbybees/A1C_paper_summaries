@@ -7,7 +7,7 @@ doi: https://doi.org/10.1109/ICISCT64202.2024.10956432
 appearances:
   - unit: FXA202
     week: "13"
-tags: ["visual-representation", "transmedia-storytelling", "ai-in-art", "photography-ethics", "creative-industry", "fxa202"]
+tags: ["ai-generated-imagery", "ai-in-art", "authorship-and-ownership", "creative-industry", "fxa202", "hybrid-visuals", "photography-ethics", "transmedia-storytelling", "visual-representation"]
 key_concepts: ["AI-generated imagery", "hybrid visuals", "authorship and ownership"]
 methods: ["case study", "content analysis"]
 slug: fxa202-week13-exploring-novel-horizons-and-dimensions-in-visual
@@ -24,9 +24,7 @@ This research explores the integration of photography with AI-generated images i
 
 ## Key Concepts
 
-- [AI-generated imagery](../topics/ai-generated-imagery.md)
-- [hybrid visuals](../topics/hybrid-visuals.md)
-- [authorship and ownership](../topics/authorship-and-ownership.md)
+- *(none identified)*
 
 ## Tags
 

@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "07"
-tags: ["art-and-therapy", "dementia-care", "mental-health-innovation", "fxa100"]
+tags: ["art-and-therapy", "dementia-care", "fxa100", "joy-induction", "mental-health-innovation"]
 key_concepts: ["joy induction", "anxiety reduction"]
 methods: []
 slug: fxa100-week07-web-article-dalzell-2016
@@ -24,7 +24,6 @@ A study commissioned by the Art Gallery of New South Wales has found that viewin
 
 ## Key Concepts
 
-- [joy induction](../topics/joy-induction.md)
 - [anxiety reduction](../topics/anxiety-reduction.md)
 
 ## Tags

@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["gender-diverse-youth", "creative-arts-therapy", "mental-wellbeing", "resilience-building", "trauma-informed-care", "community-support", "fxa303"]
+tags: ["community-support", "creative-arts-therapy", "fxa303", "gender-diverse-youth", "mental-health-improvement", "mental-wellbeing", "resilience-building", "supportive-communities", "trauma-informed-care"]
 key_concepts: ["mental health improvement", "supportive communities", "self-esteem enhancement"]
 methods: ["case study"]
 slug: fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic
@@ -24,8 +24,6 @@ This document outlines the content of Week 11 in FXA303, a course focused on cre
 
 ## Key Concepts
 
-- [mental health improvement](../topics/mental-health-improvement.md)
-- [supportive communities](../topics/supportive-communities.md)
 - [self-esteem enhancement](../topics/self-esteem-enhancement.md)
 
 ## Tags

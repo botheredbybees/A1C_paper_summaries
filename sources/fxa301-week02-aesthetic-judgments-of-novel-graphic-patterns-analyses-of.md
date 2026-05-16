@@ -1,4 +1,4 @@
-﻿---
+---
 type: source
 source_type: paper
 title: "Aesthetic Judgments of Novel Graphic Patterns: Analyses of Individual Judgments"
@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "02"
-tags: ["aesthetic-judgments", "graphic-patterns", "individual-differences", "empirical-aesthetics", "beauty-perception", "fxa301"]
+tags: ["aesthetic-judgments", "beauty-perception", "complexity-in-aesthetics", "empirical-aesthetics", "fxa301", "graphic-patterns", "individual-differences"]
 key_concepts: ["symmetry", "complexity", "personal-definition-of-beauty"]
 methods: ["nomothetic-analysis", "idiographic-analysis"]
 slug: fxa301-week02-aesthetic-judgments-of-novel-graphic-patterns-analyses-of
@@ -26,7 +26,6 @@ The study by Jacobsen-HÃ¶fel and HÃ¶fel explores aesthetic judgments made on
 
 - [symmetry](../topics/symmetry.md)
 - [complexity](../topics/complexity.md)
-- [complexity-in-aesthetics](../topics/complexity-in-aesthetics.md)
 
 ## Tags
 

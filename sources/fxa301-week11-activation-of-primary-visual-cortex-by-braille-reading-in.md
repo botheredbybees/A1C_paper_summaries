@@ -7,7 +7,7 @@ doi: https://doi.org/10.1038/380526a0
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["neuroplasticity", "brain-mapping", "cross-modal-representation", "visual-cortex", "tactile-perception", "blindness", "fxa301"]
+tags: ["blindness", "brain-mapping", "cortical-plasticity", "cross-modal-representation", "functional-reorganization", "fxa301", "neuroplasticity", "sensory-deprivation", "tactile-perception", "visual-cortex"]
 key_concepts: ["sensory-deprivation", "cortical-plasticity", "functional-reorganization"]
 methods: ["positron-emission-tomography", "case-control-study"]
 slug: fxa301-week11-activation-of-primary-visual-cortex-by-braille-reading-in
@@ -24,9 +24,7 @@ This study investigates the neural activity in the visual cortex of blind indivi
 
 ## Key Concepts
 
-- [sensory-deprivation](../topics/sensory-deprivation.md)
-- [cortical-plasticity](../topics/cortical-plasticity.md)
-- [functional-reorganization](../topics/functional-reorganization.md)
+- *(none identified)*
 
 ## Tags
 

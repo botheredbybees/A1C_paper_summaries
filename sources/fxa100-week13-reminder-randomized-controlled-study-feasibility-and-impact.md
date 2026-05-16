@@ -7,7 +7,7 @@ doi: https://doi.org/10.1002/bsa3.70032
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["online-intervention", "aging-well-being", "mindfulness-music-dance", "fxa100"]
+tags: ["aging-well-being", "fxa100", "healthy-aging", "mindfulness-music-dance", "multimodal-intervention", "online-intervention"]
 key_concepts: ["multimodal-intervention", "healthy-aging", "dementia-prevention"]
 methods: ["randomized-controlled-trial"]
 slug: fxa100-week13-reminder-randomized-controlled-study-feasibility-and-impact
@@ -24,8 +24,6 @@ The article presents the REMINDer randomized controlled study, which evaluates a
 
 ## Key Concepts
 
-- [multimodal-intervention](../topics/multimodal-intervention.md)
-- [healthy-aging](../topics/healthy-aging.md)
 - [dementia-prevention](../topics/dementia-prevention.md)
 
 ## Tags

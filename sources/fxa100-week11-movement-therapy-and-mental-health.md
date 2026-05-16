@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "11"
-tags: ["mental-health", "dance-therapy", "movement-psychology", "non-verbal-expression", "fxa100"]
+tags: ["adaptive-movement-patterns", "dance-movement-psychotherapy-dmp", "dance-therapy", "emotional-expressions", "fxa100", "mental-health", "movement-psychology", "non-verbal-expression"]
 key_concepts: ["Dance Movement Psychotherapy (DMP)", "emotional-expressions", "adaptive-movement-patterns"]
 methods: ["case-study"]
 slug: fxa100-week11-movement-therapy-and-mental-health
@@ -28,9 +28,7 @@ Sami Goulding, a registered DMP therapist based in South West England, explains 
 
 ## Key Concepts
 
-- [Dance Movement Psychotherapy (DMP)](../topics/dance-movement-psychotherapy-dmp.md)
-- [emotional-expressions](../topics/emotional-expressions.md)
-- [adaptive-movement-patterns](../topics/adaptive-movement-patterns.md)
+- *(none identified)*
 
 ## Tags
 

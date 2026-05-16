@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["digital-accessibility", "physical-accessibility", "disability-accommodations", "fxa301"]
+tags: ["digital-accessibility", "disability-accommodations", "fxa301", "physical-accessibility", "w3c-best-practices", "web-content-accessibility-guidelines"]
 key_concepts: ["Web Content Accessibility Guidelines", "W3C Best Practices"]
 methods: ["case study"]
 slug: fxa301-week11-getty-accessibility
@@ -24,8 +24,7 @@ The document outlines the Getty's commitment to accessibility and provides detai
 
 ## Key Concepts
 
-- [Web Content Accessibility Guidelines](../topics/web-content-accessibility-guidelines.md)
-- [W3C Best Practices](../topics/w3c-best-practices.md)
+- *(none identified)*
 
 ## Tags
 

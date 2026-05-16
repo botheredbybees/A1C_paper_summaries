@@ -8,7 +8,7 @@ doi: null
 appearances:
   - unit: FXA100
   - unit: FXA100
-tags: ["dementia-therapy", "clay-art", "therapeutic-materials", "self-expression-through-art", "fxa100"]
+tags: ["clay-art", "dementia-therapy", "fxa100", "personal-expression-through-crafting", "self-expression-through-art", "therapeutic-materials"]
 key_concepts: ["tactile-experience", "creative-outlet-for-emotions", "personal-expression-through-crafting"]
 methods: []
 slug: fxa100-creativity-and-communication-ch01-10-playing-with-mud-ceramics-and-clay-claire-craig-clay-is
@@ -27,7 +27,6 @@ This chapter explores the use of ceramics and clay as therapeutic materials for 
 
 - [tactile-experience](../topics/tactile-experience.md)
 - [creative-outlet-for-emotions](../topics/creative-outlet-for-emotions.md)
-- [personal-expression-through-crafting](../topics/personal-expression-through-crafting.md)
 
 ## Tags
 

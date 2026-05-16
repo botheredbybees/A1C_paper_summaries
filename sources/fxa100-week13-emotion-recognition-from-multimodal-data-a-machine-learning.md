@@ -7,7 +7,7 @@ doi: https://doi.org/10.1007/s42600-023-00293-9
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["emotion-recognition", "machine-learning", "multimodal-data", "elderly-care", "dementia-therapy", "fxa100"]
+tags: ["dementia-therapy", "elderly-care", "emotion-recognition", "fxa100", "hybrid-deep-architectures", "machine-learning", "multimodal-data", "random-forest"]
 key_concepts: ["random-forest", "hybrid-deep-architectures", "therapeutic-outcomes"]
 methods: ["systematic-review", "experimental-evaluation"]
 slug: fxa100-week13-emotion-recognition-from-multimodal-data-a-machine-learning
@@ -24,8 +24,6 @@ The paper explores the application of machine learning algorithms to recognize e
 
 ## Key Concepts
 
-- [random-forest](../topics/random-forest.md)
-- [hybrid-deep-architectures](../topics/hybrid-deep-architectures.md)
 - [therapeutic-outcomes](../topics/therapeutic-outcomes.md)
 
 ## Tags

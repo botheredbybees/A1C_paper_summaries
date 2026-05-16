@@ -7,7 +7,7 @@ doi: https://doi.org/10.1177/10497323251324127
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["dementia-prevention", "cultural-factors", "health-beliefs", "older-adults", "qualitative-research", "fxa100"]
+tags: ["cultural-factors", "dementia-prevention", "digital-technology-acceptance", "fxa100", "health-belief-model", "health-beliefs", "older-adults", "qualitative-research", "traditional-superstitions"]
 key_concepts: ["Health Belief Model", "traditional superstitions", "digital technology acceptance"]
 methods: ["qualitative study", "semi-structured interviews"]
 slug: fxa100-week13-knowledge-and-health-beliefs-about-dementia-prevention
@@ -24,9 +24,7 @@ This qualitative study explores the knowledge and health beliefs of Chinese olde
 
 ## Key Concepts
 
-- [Health Belief Model](../topics/health-belief-model.md)
-- [traditional superstitions](../topics/traditional-superstitions.md)
-- [digital technology acceptance](../topics/digital-technology-acceptance.md)
+- *(none identified)*
 
 ## Tags
 

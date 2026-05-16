@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "11"
-tags: ["dementia-care", "dance-therapy", "brain-stimulation", "movement-interventions", "fxa100"]
+tags: ["brain-stimulation", "cognitive-effects-of-dance", "dance-therapy", "dementia-care", "fmri-study-brown-et-al", "fxa100", "movement-interventions"]
 key_concepts: ["non-verbal-communication", "fMRI-study-brown-et-al.", "cognitive-effects-of-dance"]
 methods: []
 slug: fxa100-week11-lesson-fxa100-week11-page-1-welcome-to-week-10
@@ -25,8 +25,6 @@ This lesson explores the benefits of dance and movement therapies for people wit
 ## Key Concepts
 
 - [non-verbal-communication](../topics/non-verbal-communication.md)
-- [fMRI-study-brown-et-al.](../topics/fmri-study-brown-et-al.md)
-- [cognitive-effects-of-dance](../topics/cognitive-effects-of-dance.md)
 
 ## Tags
 

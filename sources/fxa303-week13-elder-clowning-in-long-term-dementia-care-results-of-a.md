@@ -7,7 +7,7 @@ doi: https://doi.org/10.1111/jgs.13941
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["elder-clowning", "dementia-care", "psychological-symptoms", "quality-of-life", "person-centered-care", "fxa303"]
+tags: ["behavioral-and-psychological-symptoms-of-dementia", "dementia-care", "dementia-care-mapping", "elder-clowning", "fxa303", "neuropsychiatric-inventory-nursing-home-version", "person-centered-care", "person-centered-care-principles", "psychological-symptoms", "quality-of-life"]
 key_concepts: ["behavioral-and-psychological-symptoms-of-dementia", "neuropsychiatric-inventory-nursing-home-version", "dementia-care-mapping", "person-centered-care-principles"]
 methods: ["pilot-study"]
 slug: fxa303-week13-elder-clowning-in-long-term-dementia-care-results-of-a
@@ -24,10 +24,7 @@ The study evaluates the impact of elder-clowning on nursing home residents with 
 
 ## Key Concepts
 
-- [behavioral-and-psychological-symptoms-of-dementia](../topics/behavioral-and-psychological-symptoms-of-dementia.md)
-- [neuropsychiatric-inventory-nursing-home-version](../topics/neuropsychiatric-inventory-nursing-home-version.md)
-- [dementia-care-mapping](../topics/dementia-care-mapping.md)
-- [person-centered-care-principles](../topics/person-centered-care-principles.md)
+- *(none identified)*
 
 ## Tags
 

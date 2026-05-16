@@ -7,7 +7,7 @@ doi: https://doi.org/10.1111/sdi.12194
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["laugh-therapy", "dialysis-care", "quality-of-life", "patient-resilience", "chronic-kidney-disease", "fxa303"]
+tags: ["chronic-kidney-disease", "dialysis-care", "fxa303", "laugh-therapy", "laughter-yoga", "patient-resilience", "quality-of-life"]
 key_concepts: ["laughter-yoga", "humor-therapy", "chronic-kidney-disease"]
 methods: ["systematic-review"]
 slug: fxa303-week13-laughter-and-humor-therapy-in-dialysis
@@ -24,9 +24,7 @@ This paper reviews the evidence for laughter and humor therapy as a medical inte
 
 ## Key Concepts
 
-- [laughter-yoga](../topics/laughter-yoga.md)
 - [humor-therapy](../topics/humor-therapy.md)
-- [chronic-kidney-disease](../topics/chronic-kidney-disease.md)
 
 ## Tags
 

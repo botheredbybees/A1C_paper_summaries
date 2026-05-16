@@ -7,7 +7,7 @@ apa7: "Whitaker, J., & Tonkin, A. (2021). Play for health across the lifespan: S
 doi: null
 appearances:
   - unit: FXA303
-tags: ["super-aging", "personal-resilience", "longevity-research", "fxa303"]
+tags: ["chronological-aging", "fxa303", "longevity-research", "personal-resilience", "super-aging"]
 key_concepts: ["personal resilience", "chronological aging"]
 methods: []
 slug: fxa303-play-for-health-across-the-lifespan-ch01-55-morris
@@ -25,7 +25,6 @@ This excerpt explores the evolution of longevity and the concept of super-aging 
 ## Key Concepts
 
 - [personal resilience](../topics/personal-resilience.md)
-- [chronological aging](../topics/chronological-aging.md)
 
 ## Tags
 

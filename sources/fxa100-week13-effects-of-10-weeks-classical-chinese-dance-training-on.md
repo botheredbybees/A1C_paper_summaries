@@ -7,7 +7,7 @@ doi: https://doi.org/10.1007/s40846-025-00964-1
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["physical-fitness", "elderly-health", "mindfulness-practice", "fxa100"]
+tags: ["cardiorespiratory-endurance", "elderly-health", "flexibility-improvement", "fxa100", "mindfulness-practice", "physical-fitness"]
 key_concepts: ["cardiorespiratory-endurance", "cognitive-function", "flexibility-improvement"]
 methods: ["RCT"]
 slug: fxa100-week13-effects-of-10-weeks-classical-chinese-dance-training-on
@@ -24,9 +24,7 @@ This study investigates the effectiveness of Classical Chinese Dance as a sports
 
 ## Key Concepts
 
-- [cardiorespiratory-endurance](../topics/cardiorespiratory-endurance.md)
 - [cognitive-function](../topics/cognitive-function.md)
-- [flexibility-improvement](../topics/flexibility-improvement.md)
 
 ## Tags
 

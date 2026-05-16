@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["social-policy", "evidence-based-practice", "research-evaluation", "knowledge-translation", "policy-making", "fxa301"]
+tags: ["evidence-based-practice", "fxa301", "grading-of-recommendations-assessment-development-and", "knowledge-translation", "policy-making", "research-evaluation", "risk-of-bias-rob", "social-policy"]
 key_concepts: ["Risk of Bias (RoB)", "Grading of Recommendations Assessment, Development and Evaluation (GRADE)"]
 methods: ["systematic review"]
 slug: fxa301-week01-assessing-confidence-in-what-works-in-social-policy
@@ -24,8 +24,7 @@ This commentary by Yulia Shenderovich, Alex Sutherland, and Sean Grant discusses
 
 ## Key Concepts
 
-- [Risk of Bias (RoB)](../topics/risk-of-bias-rob.md)
-- [Grading of Recommendations Assessment, Development and Evaluation (GRADE)](../topics/grading-of-recommendations-assessment-development-and.md)
+- *(none identified)*
 
 ## Tags
 

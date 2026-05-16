@@ -7,7 +7,7 @@ doi: https://doi.org/10.1093/cercor/bhj057
 appearances:
   - unit: FXA100
     week: "11"
-tags: ["neural-basis", "dance-movement", "brain-imaging", "fxa100"]
+tags: ["brain-imaging", "dance-movement", "fxa100", "neural-basis", "rhythmic-synchronization", "spatial-navigation", "voluntary-control"]
 key_concepts: ["rhythmic-synchronization", "voluntary-control", "spatial-navigation"]
 methods: ["positron-emission-tomography"]
 slug: fxa100-week11-the-neural-basis-of-human-dance
@@ -24,9 +24,7 @@ This study explores the neural basis of human dance by examining three core aspe
 
 ## Key Concepts
 
-- [rhythmic-synchronization](../topics/rhythmic-synchronization.md)
-- [voluntary-control](../topics/voluntary-control.md)
-- [spatial-navigation](../topics/spatial-navigation.md)
+- *(none identified)*
 
 ## Tags
 

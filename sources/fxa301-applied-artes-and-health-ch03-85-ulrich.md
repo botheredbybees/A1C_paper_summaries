@@ -8,7 +8,7 @@ doi: null
 appearances:
   - unit: FXA301
   - unit: FXA301
-tags: ["applied-theatre", "elder-care", "health-education", "cognitive-stimulation", "fxa301"]
+tags: ["applied-theatre", "cognitive-stimulation", "educational-case-study", "elder-care", "emergent-design", "fxa301", "health-education", "person-in-role"]
 key_concepts: ["emergent-design", "person-in-role", "educational-case-study"]
 methods: []
 slug: fxa301-applied-artes-and-health-ch03-85-ulrich
@@ -25,9 +25,7 @@ This chapter discusses the evolution of applied theatre and its implications for
 
 ## Key Concepts
 
-- [emergent-design](../topics/emergent-design.md)
-- [person-in-role](../topics/person-in-role.md)
-- [educational-case-study](../topics/educational-case-study.md)
+- *(none identified)*
 
 ## Tags
 

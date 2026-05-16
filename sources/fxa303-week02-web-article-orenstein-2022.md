@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA303
     week: "02"
-tags: ["psychology", "developmental-psychology", "identity-formation", "adolescence", "adult-development", "fxa303"]
+tags: ["adolescence", "adult-development", "bio-psychosocial-approach", "developmental-psychology", "fxa303", "identity-formation", "psychology"]
 key_concepts: ["Erikson's Stages of Psychosocial Development", "Bio-Psychosocial Approach"]
 methods: []
 slug: fxa303-week02-web-article-orenstein-2022
@@ -25,7 +25,6 @@ Erikson's Stages of Psychosocial Development is a theory by psychologist and psy
 ## Key Concepts
 
 - [Erikson's Stages of Psychosocial Development](../topics/eriksons-stages-of-psychosocial-development.md)
-- [Bio-Psychosocial Approach](../topics/bio-psychosocial-approach.md)
 
 ## Tags
 

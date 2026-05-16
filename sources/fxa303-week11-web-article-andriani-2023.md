@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["queer-choir", "community-belonging", "social-justice", "fxa303"]
+tags: ["community-belonging", "fxa303", "queer-choir", "safe-space-theory", "social-justice", "visibility-and-acceptance"]
 key_concepts: ["safe-space-theory", "visibility-and-acceptance"]
 methods: []
 slug: fxa303-week11-web-article-andriani-2023
@@ -24,8 +24,7 @@ This article discusses the role of queer choirs in providing safe spaces and fos
 
 ## Key Concepts
 
-- [safe-space-theory](../topics/safe-space-theory.md)
-- [visibility-and-acceptance](../topics/visibility-and-acceptance.md)
+- *(none identified)*
 
 ## Tags
 

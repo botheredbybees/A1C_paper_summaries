@@ -7,7 +7,7 @@ doi: https://doi.org/10.15649/cuidarte.4375
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["laughter-therapy", "hospitalized-adults", "healthcare-clowns", "psychological-wellbeing", "mood-improvement", "fxa303"]
+tags: ["emotional-state", "fxa303", "healthcare-clowns", "hospitalized-adults", "hostility-reduction", "laughing-therapy", "laughter-therapy", "mood-improvement", "psychological-wellbeing"]
 key_concepts: ["laughing therapy", "emotional state", "hostility reduction"]
 methods: ["quasi-experimental design"]
 slug: fxa303-week13-eficacia-de-la-risoterapia-con-payasos-sociosanitarios-en
@@ -24,9 +24,7 @@ This study evaluates the impact of laughter therapy conducted by healthcare clow
 
 ## Key Concepts
 
-- [laughing therapy](../topics/laughing-therapy.md)
-- [emotional state](../topics/emotional-state.md)
-- [hostility reduction](../topics/hostility-reduction.md)
+- *(none identified)*
 
 ## Tags
 

@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/19368623.2014.911714
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["social-inclusion", "ethnic-communities", "cultural-engagement", "arts-marketing", "fxa301"]
+tags: ["acculturation", "arts-marketing", "cultural-engagement", "ethnic-communities", "fxa301", "inclusive-initiatives", "social-inclusion"]
 key_concepts: ["social-connection", "acculturation", "inclusive-initiatives"]
 methods: ["qualitative-research", "focus-groups"]
 slug: fxa301-week11-social-inclusion-through-cultural-engagement-among-ethnic
@@ -25,8 +25,6 @@ This article investigates the factors influencing arts attendance among differen
 ## Key Concepts
 
 - [social-connection](../topics/social-connection.md)
-- [acculturation](../topics/acculturation.md)
-- [inclusive-initiatives](../topics/inclusive-initiatives.md)
 
 ## Tags
 

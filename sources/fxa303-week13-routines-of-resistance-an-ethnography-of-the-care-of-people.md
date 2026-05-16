@@ -7,7 +7,7 @@ doi: https://doi.org/10.1111/jan.13982
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["dementia-care", "hospital-routines", "patient-resistance", "ethnographic-research", "nhs-healthcare", "fxa303"]
+tags: ["dementia-care", "ethnographic-research", "fxa303", "hospital-routines", "institutional-routines", "nhs-healthcare", "patient-centered-approach", "patient-resistance", "resistance-to-care"]
 key_concepts: ["institutional routines", "resistance to care", "patient-centered approach"]
 methods: ["ethnography"]
 slug: fxa303-week13-routines-of-resistance-an-ethnography-of-the-care-of-people
@@ -24,9 +24,7 @@ The paper explores the routine resistance to care by people living with dementia
 
 ## Key Concepts
 
-- [institutional routines](../topics/institutional-routines.md)
-- [resistance to care](../topics/resistance-to-care.md)
-- [patient-centered approach](../topics/patient-centered-approach.md)
+- *(none identified)*
 
 ## Tags
 

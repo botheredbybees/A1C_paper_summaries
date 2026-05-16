@@ -7,7 +7,7 @@ doi: https://doi.org/10.1192/S147673571800001X
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["american-psychiatric-association", "international-psychiatry", "mental-health-research", "psychiatric-practice", "education-and-training", "global-collaboration", "fxa303"]
+tags: ["advocacy-for-mental-health", "american-psychiatric-association", "cross-cultural-understanding-in-clinical-practice", "education-and-training", "fxa303", "global-collaboration", "international-psychiatry", "mental-health-research", "psychiatric-practice", "scientific-knowledge-advance"]
 key_concepts: ["advocacy-for-mental-health", "cross-cultural-understanding-in-clinical-practice", "scientific-knowledge-advance"]
 methods: ["literature-review"]
 slug: fxa303-week13-the-american-psychiatric-association
@@ -24,9 +24,7 @@ The document discusses the role and contributions of the American Psychiatric As
 
 ## Key Concepts
 
-- [advocacy-for-mental-health](../topics/advocacy-for-mental-health.md)
-- [cross-cultural-understanding-in-clinical-practice](../topics/cross-cultural-understanding-in-clinical-practice.md)
-- [scientific-knowledge-advance](../topics/scientific-knowledge-advance.md)
+- *(none identified)*
 
 ## Tags
 

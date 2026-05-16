@@ -7,7 +7,7 @@ doi: https://doi.org/10.18637/jss.v045.i03
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["data-imputation", "statistical-software", "chained-equations", "fxa303"]
+tags: ["chained-equations", "data-imputation", "fxa303", "mice-package", "multivariate-imputation", "statistical-software"]
 key_concepts: ["mice-package", "multivariate-imputation"]
 methods: ["software-development"]
 slug: fxa303-week13-mice-multivariate-imputation-by-chained-equations-in-r
@@ -24,8 +24,7 @@ The article introduces the R package mice, which is used for imputing incomplete
 
 ## Key Concepts
 
-- [mice-package](../topics/mice-package.md)
-- [multivariate-imputation](../topics/multivariate-imputation.md)
+- *(none identified)*
 
 ## Tags
 

@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["refugee-welfare", "community-art", "detention-centers", "self-expression", "social-justice", "fxa301"]
+tags: ["community-art", "cultural-representation", "detention-centers", "fxa301", "refugee-welfare", "self-expression", "social-justice"]
 key_concepts: ["art therapy", "creative expression", "cultural representation"]
 methods: ["case study"]
 slug: fxa301-week11-refugee-art-project
@@ -26,7 +26,6 @@ The Refugee Art Project is an initiative founded by a collective of academics an
 
 - [art therapy](../topics/art-therapy.md)
 - [creative expression](../topics/creative-expression.md)
-- [cultural representation](../topics/cultural-representation.md)
 
 ## Tags
 

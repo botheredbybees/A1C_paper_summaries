@@ -7,7 +7,7 @@ doi: https://doi.org/10.1080/08841233.2013.795922
 appearances:
   - unit: FXA202
     week: "13"
-tags: ["social-work-education", "community-engagement", "participatory-action-research", "fxa202"]
+tags: ["community-engagement", "critical-consciousness", "fxa202", "participatory-action-research", "social-work-education"]
 key_concepts: ["photovoice", "critical-consciousness"]
 methods: ["participatory action research"]
 slug: fxa202-week13-using-photovoice-as-a-tool-to-engage-social-work-students
@@ -25,7 +25,6 @@ This article explores the use of Photovoice, a participatory action research app
 ## Key Concepts
 
 - [photovoice](../topics/photovoice.md)
-- [critical-consciousness](../topics/critical-consciousness.md)
 
 ## Tags
 

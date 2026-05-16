@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["museum-accessibility", "visual-impairment", "inclusive-design", "cultural-participation", "visitor-engagement", "tactile-exhibits", "fxa301"]
+tags: ["3d-printing-vr", "audio-guides", "cultural-participation", "fxa301", "inclusive-design", "museum-accessibility", "tactile-exhibits", "visitor-engagement", "visual-impairment"]
 key_concepts: ["audio-guides", "multisensory-experience", "3d-printing-vr"]
 methods: ["case-study"]
 slug: fxa301-week11-best-practice-in-making-museums-more-accessible-to-visually
@@ -31,9 +31,7 @@ The article also underscores the role of human guides and docents who provide in
 
 ## Key Concepts
 
-- [audio-guides](../topics/audio-guides.md)
 - [multisensory-experience](../topics/multisensory-experience.md)
-- [3d-printing-vr](../topics/3d-printing-vr.md)
 
 ## Tags
 

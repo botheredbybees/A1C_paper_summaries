@@ -7,7 +7,7 @@ apa7: "Malchiodi, C. A. (2020). Trauma and expressive arts therapy: Brain, body,
 doi: null
 appearances:
   - unit: FXA303
-tags: ["expressive-arts-therapy", "trauma-recovery", "brain-body-integration", "fxa303"]
+tags: ["body-mind-connection", "brain-body-integration", "expressive-arts-therapy", "fxa303", "trauma-recovery"]
 key_concepts: ["trauma-informed care", "body-mind connection", "resilience-building"]
 methods: []
 slug: fxa303-trauma-and-expressive-arts-ch05-chapter-9
@@ -25,7 +25,6 @@ Cathy Malchiodi's book 'Trauma and Expressive Arts Therapy' discusses integratin
 ## Key Concepts
 
 - [trauma-informed care](../topics/trauma-informed-care.md)
-- [body-mind connection](../topics/body-mind-connection.md)
 - [resilience-building](../topics/resilience-building.md)
 
 ## Tags

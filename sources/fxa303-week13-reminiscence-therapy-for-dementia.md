@@ -7,7 +7,7 @@ doi: https://doi.org/10.1002/14651858.CD001120.pub3
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["dementia-treatment", "reminiscence-therapy", "quality-of-life", "caregiver-support", "fxa303"]
+tags: ["caregiver-support", "dementia-treatment", "fxa303", "mood-symptoms", "quality-of-life", "reminiscence-therapy"]
 key_concepts: ["reminiscence therapy", "cognitive function", "mood symptoms"]
 methods: ["systematic review"]
 slug: fxa303-week13-reminiscence-therapy-for-dementia
@@ -32,7 +32,6 @@ This research is highly relevant to the creative arts and health sector as it un
 
 - [reminiscence therapy](../topics/reminiscence-therapy.md)
 - [cognitive function](../topics/cognitive-function.md)
-- [mood symptoms](../topics/mood-symptoms.md)
 
 ## Tags
 

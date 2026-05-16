@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["paralympics", "athletes", "inspiration", "confidence", "overcoming-fears", "fxa301"]
+tags: ["athletes", "celebration-of-diversity", "confidence", "defiance-of-expectations", "fxa301", "inspiration", "overcoming-fears", "paralympics"]
 key_concepts: ["self-efficacy", "defiance-of-expectations", "celebration-of-diversity"]
 methods: []
 slug: fxa301-week11-transcript-were-the-superhumans-rio-paralympics-2016
@@ -25,8 +25,6 @@ This is a transcript of the trailer for the documentary series 'We're the Superh
 ## Key Concepts
 
 - [self-efficacy](../topics/self-efficacy.md)
-- [defiance-of-expectations](../topics/defiance-of-expectations.md)
-- [celebration-of-diversity](../topics/celebration-of-diversity.md)
 
 ## Tags
 

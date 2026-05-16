@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["great-migration", "african-american-history", "demographic-shifts", "racial-tensions", "housing-discrimination", "fxa301"]
+tags: ["african-american-history", "defense-industry-jobs", "demographic-shifts", "fxa301", "great-migration", "housing-discrimination", "jim-crow-laws", "racial-tensions", "redlining-policies"]
 key_concepts: ["Jim Crow laws", "redlining policies", "defense industry jobs"]
 methods: ["historical-overview"]
 slug: fxa301-week11-the-great-migration-1910-1970
@@ -24,9 +24,7 @@ The document provides an overview of the Great Migration, a significant demograp
 
 ## Key Concepts
 
-- [Jim Crow laws](../topics/jim-crow-laws.md)
-- [redlining policies](../topics/redlining-policies.md)
-- [defense industry jobs](../topics/defense-industry-jobs.md)
+- *(none identified)*
 
 ## Tags
 

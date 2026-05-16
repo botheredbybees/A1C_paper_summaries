@@ -7,7 +7,7 @@ doi: https://doi.org/10.1007/s40520-023-02376-0
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["clown-care-intervention", "elderly-wellness", "nursing-home-care", "qualitative-research", "holistic-health", "aging-population", "fxa303"]
+tags: ["aging-population", "clown-care", "clown-care-intervention", "elderly-wellness", "fxa303", "holistic-health", "nursing-home-care", "qualitative-research"]
 key_concepts: ["clown care", "quality of life", "emotional well-being", "cognitive impairment"]
 methods: ["scoping review"]
 slug: fxa303-week13-intervention-and-application-of-clown-care-in-nursing-homes
@@ -24,7 +24,6 @@ This scoping review aimed to summarize and describe the literature on clown care
 
 ## Key Concepts
 
-- [clown care](../topics/clown-care.md)
 - [quality of life](../topics/quality-of-life.md)
 - [emotional well-being](../topics/emotional-well-being.md)
 - [cognitive impairment](../topics/cognitive-impairment.md)

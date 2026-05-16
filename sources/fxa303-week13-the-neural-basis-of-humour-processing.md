@@ -7,7 +7,7 @@ doi: https://doi.org/10.1038/nrn3594
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["neural-basis-humor", "brain-networks", "reward-processing", "social-functioning", "cognitive-psychology", "fxa303"]
+tags: ["brain-networks", "cognitive-psychology", "fxa303", "humor-perception", "incongruity-resolution", "neural-basis-humor", "reward-processing", "reward-system", "social-functioning"]
 key_concepts: ["humor-perception", "incongruity-resolution", "reward-system"]
 methods: ["literature-review"]
 slug: fxa303-week13-the-neural-basis-of-humour-processing
@@ -24,9 +24,7 @@ This article explores the neural basis of humour in humans and its role in socio
 
 ## Key Concepts
 
-- [humor-perception](../topics/humor-perception.md)
-- [incongruity-resolution](../topics/incongruity-resolution.md)
-- [reward-system](../topics/reward-system.md)
+- *(none identified)*
 
 ## Tags
 

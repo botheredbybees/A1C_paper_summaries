@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["drama-education", "english-literacy", "refugee-support", "fxa301"]
+tags: ["drama-based-learning", "drama-education", "english-as-an-additional-language-eal", "english-literacy", "fxa301", "refugee-support"]
 key_concepts: ["English as an Additional Language (EAL)", "Drama-based Learning"]
 methods: []
 slug: fxa301-week11-transcript-connecting-refugees-through-creativity-sydney
@@ -24,8 +24,7 @@ This transcript captures a conversation at the Sydney Theatre Company on October
 
 ## Key Concepts
 
-- [English as an Additional Language (EAL)](../topics/english-as-an-additional-language-eal.md)
-- [Drama-based Learning](../topics/drama-based-learning.md)
+- *(none identified)*
 
 ## Tags
 

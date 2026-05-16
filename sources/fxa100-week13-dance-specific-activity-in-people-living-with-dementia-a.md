@@ -7,7 +7,7 @@ doi: https://doi.org/10.1177/08919887221130268
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["dementia-care", "non-pharmacological-intervention", "neuropsychiatric-symptoms", "dance-therapy", "fxa100"]
+tags: ["dance-specific-activity-dsa", "dance-therapy", "dementia-care", "fxa100", "neuropsychiatric-symptoms", "neuropsychiatric-symptoms-nps", "non-pharmacological-intervention"]
 key_concepts: ["Dance-Specific Activity (DSA)", "Neuropsychiatric Symptoms (NPS)"]
 methods: ["systematic review"]
 slug: fxa100-week13-dance-specific-activity-in-people-living-with-dementia-a
@@ -24,8 +24,7 @@ This study systematically reviews the effects of dance as a non-pharmacological 
 
 ## Key Concepts
 
-- [Dance-Specific Activity (DSA)](../topics/dance-specific-activity-dsa.md)
-- [Neuropsychiatric Symptoms (NPS)](../topics/neuropsychiatric-symptoms-nps.md)
+- *(none identified)*
 
 ## Tags
 
