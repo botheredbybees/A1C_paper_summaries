@@ -6,9 +6,6 @@ sources:
   - fxa303-week09-lesson-fxa303-week09-page-3-case-studies
   - fxa303-week09-psychological-first-aid-supporting-people-affected-by
   - fxa303-week09-transcript-duration-1-50
-- fxa303-week09-lesson-fxa303-week09-page-3-case-studies
-- fxa303-week09-psychological-first-aid-supporting-people-affected-by
-- fxa303-week09-transcript-duration-1-50
 tags:
 - disaster-response
 title: Disaster Response and Trauma Recovery

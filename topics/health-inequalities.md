@@ -6,9 +6,6 @@ sources:
   - fxa301-week03-health-inequalities-and-the-role-of-creative-health
   - fxa301-week03-implementing-creative-health
   - fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation
-- fxa301-week03-health-inequalities-and-the-role-of-creative-health
-- fxa301-week03-implementing-creative-health
-- fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation
 tags:
 - health-inequalities
 title: Health Inequalities and Creative Health Interventions

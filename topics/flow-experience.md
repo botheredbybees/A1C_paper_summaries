@@ -6,9 +6,6 @@ sources:
   - fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow
   - fxa301-week10-advances-in-flow-research
   - fxa301-week10-fxa301-week-10-lecture
-- fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow
-- fxa301-week10-advances-in-flow-research
-- fxa301-week10-fxa301-week-10-lecture
 tags:
 - flow-experience
 title: Flow Experience

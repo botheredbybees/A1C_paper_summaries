@@ -5,8 +5,6 @@ slug: narrative-tense
 sources:
   - fxa202-week05-introduction-to-visual-storytelling
   - fxa202-week05-narrative-tense-right-now-or-way-back-then
-- fxa202-week05-introduction-to-visual-storytelling
-- fxa202-week05-narrative-tense-right-now-or-way-back-then
 tags:
 - narrative-tense
 title: Narrative Tense

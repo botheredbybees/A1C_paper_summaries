@@ -7,9 +7,6 @@ sources:
   - fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the
   - fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the-(2)
   - fxa303-week04-art-interventions-for-children-with-autism-spectrum
-- fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the
-- fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the-(2)
-- fxa303-week04-art-interventions-for-children-with-autism-spectrum
 tags:
 - scoping-review
 title: Scoping Reviews of Arts Therapies

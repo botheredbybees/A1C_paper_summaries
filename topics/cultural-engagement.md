@@ -6,10 +6,6 @@ sources:
   - fxa100-week04-arts-in-health-designing-and-researching-interventions
   - fxa301-week01-arts-in-health-designing-and-researching-interventions
   - fxa301-week11-social-inclusion-through-cultural-engagement-among-ethnic
-- fxa100-week04-arts-in-health-designing-and-researching-interventions
-- fxa202-week10-research-and-evidence-in-arts-health-and-well-being
-- fxa301-week01-arts-in-health-designing-and-researching-interventions
-- fxa303-week10-evidence-review-of-indigenous-culture-for-health-and
 tags:
 - cultural-engagement
 title: Cultural Engagement in Health and Well-Being

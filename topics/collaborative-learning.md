@@ -6,8 +6,6 @@ sources:
   - fxa100-week09-people-with-dementia-as-spect-actors-in-a-musical-theatre
   - fxa100-week11-intergenerational-dancemovement-program-in-melbourne
   - fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37
-- fxa100-week09-people-with-dementia-as-spect-actors-in-a-musical-theatre
-- fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37
 tags:
 - collaborative-learning
 title: Collaborative Learning Through Creative Arts

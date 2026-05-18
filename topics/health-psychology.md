@@ -5,8 +5,6 @@ slug: music-and-health-interventions
 sources:
   - fxa100-week04-what-is-music-health-and-wellbeing
   - fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental
-- fxa100-week04-what-is-music-health-and-wellbeing
-- fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental
 tags:
 - health-psychology
 title: Music and Health Interventions

@@ -6,9 +6,6 @@ sources:
   - fxa303-week05-transcript-introduction-to-rod-puppets-spare-parts-puppet
   - fxa303-week06-lesson-fxa303-week06-page-1-overview
   - fxa303-week06-miss-lilys-fabulous-feather-boa
-- fxa303-week05-transcript-introduction-to-rod-puppets-spare-parts-puppet
-- fxa303-week06-lesson-fxa303-week06-page-1-overview
-- fxa303-week06-miss-lilys-fabulous-feather-boa
 tags:
 - puppet-theatre
 title: Puppet Theatre

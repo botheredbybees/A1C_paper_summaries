@@ -6,9 +6,6 @@ sources:
   - fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35-(2)
   - fxa301-week05-museums-and-health-emerging-spatial-practices
   - fxa303-week10-music-and-refugees-wellbeing-in-contexts-of-protracted
-- fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35-(2)
-- fxa301-week05-museums-and-health-emerging-spatial-practices
-- fxa303-week10-music-and-refugees-wellbeing-in-contexts-of-protracted
 tags:
 - health-promotion
 title: Health Promotion Through Cultural Activities

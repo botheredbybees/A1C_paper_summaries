@@ -5,8 +5,6 @@ slug: mood-congruent-emotional-responding
 sources:
   - fxa202-week01-week-1-lecture-transcript
   - fxa301-week02-misery-loves-company-mood-congruent-emotional-responding-to
-- fxa202-week01-week-1-lecture-transcript
-- fxa301-week02-misery-loves-company-mood-congruent-emotional-responding-to
 tags:
 - emotional-responses
 title: Mood-Congruent Emotional Responding

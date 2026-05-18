@@ -14,14 +14,6 @@ sources:
   - fxa303-week02-child-development-fxa303-creative-arts-play-and-mental
   - fxa303-week13-application-of-cognitive-stimulation-in-the-care-of
   - fxa303-week13-evaluation-of-cognitive-stimulation-therapy-for-people-with
-- fxa100-excellence-in-dementia-care--ch09-chapter-15
-- fxa100-week03-lesson-fxa100-week03-page-1-welcome-to-week-3
-- fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care
-- fxa100-week04-intergenerational-choir-transcript
-- fxa100-week04-interventions-for-dementia-care
-- fxa100-week07-aged-care-outreach
-- fxa100-week07-turning-back-the-hands-of-time-autobiographical-memories-in
-- fxa303-week02-child-development-fxa303-creative-arts-play-and-mental
 tags:
 - cognitive-stimulation
 title: Cognitive Stimulation in Dementia Care

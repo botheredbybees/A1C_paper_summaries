@@ -9,11 +9,6 @@ sources:
   - fxa301-week02-the-influence-of-stress-optimism-and-music-training-on
   - fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and
   - fxa303-week03-creative-arts-interventions-for-stress-management-and
-- fxa100-week03-the-short-term-impact-of-music-interventions-on-stress
-- fxa202-week09-5-benefits-of-journaling-for-mental-health
-- fxa301-week02-the-influence-of-stress-optimism-and-music-training-on
-- fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and
-- fxa303-week03-creative-arts-interventions-for-stress-management-and
 tags:
 - stress-management
 title: Stress Management Interventions

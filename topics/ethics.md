@@ -6,8 +6,6 @@ sources:
   - fxa100-how-we-thnk-about-dementia-ch08-chapter-4
   - fxa301-arts-in-health-ch76-3-responsibility
   - fxa301-music-healt-and-wellbeing-ch05-10680-meymandi
-- fxa100-how-we-thnk-about-dementia-ch08-chapter-4
-- fxa301-arts-in-health-ch76-3-responsibility
 tags:
 - ethics
 title: Ethics In Healthcare And Research

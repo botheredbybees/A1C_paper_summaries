@@ -5,8 +5,6 @@ slug: cognitive-offloading
 sources:
   - fxa100-week01-ai-tools-in-society-impacts-on-cognitive-offloading-and-the
   - fxa202-week03-what-smartphone-photography-is-doing-to-our-memories
-- fxa100-week01-ai-tools-in-society-impacts-on-cognitive-offloading-and-the
-- fxa202-week03-what-smartphone-photography-is-doing-to-our-memories
 tags:
 - cognitive-offloading
 title: Cognitive Offloading

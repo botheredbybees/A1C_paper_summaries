@@ -13,10 +13,6 @@ sources:
   - fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older
   - fxa303-week13-evaluation-of-cognitive-stimulation-therapy-for-people-with
   - fxa303-week13-the-effect-of-humor-on-elder-mental-and-physical-health
-- fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia
-- fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35
-- fxa301-week01-a-qualitative-investigation-of-older-adults
-- fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older
 tags:
 - elderly-health
 title: Health Interventions for Elderly Adults

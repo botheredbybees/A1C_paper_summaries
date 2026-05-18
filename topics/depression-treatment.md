@@ -10,10 +10,6 @@ sources:
   - fxa301-week01-arts-on-prescription-in-sefton-programme-report
   - fxa303-week13-a-meta-analysis-of-randomized-controlled-trials-of-laughter
   - fxa303-week13-the-effect-of-humor-on-elder-mental-and-physical-health
-- fxa100-week03-music-therapy-for-depression-it-seems-to-work-but-how
-- fxa100-week04-the-day-the-music-died
-- fxa202-week03-can-photography-help-depression
-- fxa301-week01-arts-on-prescription-in-sefton-programme-report
 tags:
 - depression-treatment
 title: Therapeutic Benefits Of Art In Depression Treatment

@@ -6,9 +6,6 @@ sources:
   - fxa202-week02-lesson-fxa202-week02-page-2
   - fxa202-week09-do-you-struggle-with-constructing-a-photo-story-try-this-3
   - fxa303-week09-using-creative-techniques-with-children-who-have
-- fxa202-week02-lesson-fxa202-week02-page-2
-- fxa202-week09-do-you-struggle-with-constructing-a-photo-story-try-this-3
-- fxa303-week09-using-creative-techniques-with-children-who-have
 tags:
 - creative-techniques
 title: Creative Techniques in Photography and Therapy

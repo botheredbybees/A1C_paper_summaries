@@ -6,9 +6,6 @@ sources:
   - fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining
   - fxa301-week01-lesson-fxa301-week01-page-2
   - fxa301-week02-the-brain-and-how-we-perceive-information
-- fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining
-- fxa301-week01-lesson-fxa301-week01-page-2
-- fxa301-week02-the-brain-and-how-we-perceive-information
 tags:
 - cognitive-functions
 title: Cognitive Functions

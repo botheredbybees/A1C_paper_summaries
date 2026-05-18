@@ -12,13 +12,6 @@ sources:
   - fxa301-week05-social-cohesion-and-pro-social-responses-to-perceptions-of
   - fxa301-week11-the-syrian-refugee-art-initiative
   - fxa303-week11-web-article-fancourt-2019
-- fxa301-week01-music-and-meaning-in-community-contexts
-- fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report
-- fxa301-week03-creating-our-future-results-of-the-national-arts
-- fxa301-week05-case-studies-of-visual-arts-with-and-for-communities
-- fxa301-week05-engaging-with-visual-arts-week-5-introduction
-- fxa301-week05-how-murals-helped-turn-a-declining-community-around
-- fxa301-week05-social-cohesion-and-pro-social-responses-to-perceptions-of
 tags:
 - social-cohesion
 title: Social Cohesion Through Arts Programs

@@ -6,7 +6,6 @@ sources:
   - fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
   - fxa303-week13-eficacia-de-la-risoterapia-con-payasos-sociosanitarios-en
   - fxa303-week13-our-role-is-to-listen-more-than-entertain-a-qualitative
-- fxa301-week08-lesson-fxa301-week07-page-2-hm-copy
 tags:
 - laughter-therapy
 title: Laughter Therapy

@@ -5,8 +5,6 @@ slug: health-disparities-in-end-of-life-care-and-migration
 sources:
   - fxa301-week03-challenges-in-end-of-life-care-and-bereavement
   - fxa303-week10-health-and-well-being-of-male-international-migrants-and
-- fxa301-week03-challenges-in-end-of-life-care-and-bereavement
-- fxa303-week10-health-and-well-being-of-male-international-migrants-and
 tags:
 - health-disparities
 title: Health Disparities in End-of-Life Care and Migration

@@ -5,8 +5,6 @@ slug: poetry-in-research
 sources:
   - fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary
   - fxa202-week10-creative-arts-based-research-in-aged-care-photovoice
-- fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary
-- fxa202-week10-creative-arts-based-research-in-aged-care-photovoice
 tags:
 - poetry-in-research
 title: Poetry in Research

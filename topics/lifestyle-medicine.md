@@ -5,8 +5,6 @@ slug: laughter-prescription-in-lifestyle-medicine
 sources:
   - fxa301-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
   - fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
-- fxa301-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
-- fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
 tags:
 - lifestyle-medicine
 title: Laughter Prescription in Lifestyle Medicine

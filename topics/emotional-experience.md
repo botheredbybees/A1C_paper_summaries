@@ -5,8 +5,6 @@ slug: music-induced-emotions
 sources:
   - fxa301-week01-lesson-fxa301-week01-chapter-3-music-and-the-damaged
   - fxa301-week02-empathy-manipulation-impacts-music-induced-emotions-a
-- fxa301-week01-lesson-fxa301-week01-chapter-3-music-and-the-damaged
-- fxa301-week02-empathy-manipulation-impacts-music-induced-emotions-a
 tags:
 - emotional-experience
 title: Music-Induced Emotions

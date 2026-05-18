@@ -6,9 +6,6 @@ sources:
   - fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-(2)
   - fxa301-arts-in-health-ch44-1-the-artist
   - fxa303-week08-therapeutic-clowning
-- fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-(2)
-- fxa301-arts-in-health-ch44-1-the-artist
-- fxa303-week08-therapeutic-clowning
 tags:
 - healthcare-settings
 title: Integrating Art and Play in Healthcare Settings

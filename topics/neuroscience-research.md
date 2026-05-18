@@ -6,9 +6,6 @@ sources:
   - fxa100-week02-are-the-brains-of-musicians-physically-different
   - fxa100-week04-music-as-therapy-and-health-promotion
   - fxa301-week03-transcript-youtube-5utv1ergbs8
-- fxa100-week02-are-the-brains-of-musicians-physically-different
-- fxa100-week04-music-as-therapy-and-health-promotion
-- fxa301-week03-transcript-youtube-5utv1ergbs8
 tags:
 - neuroscience-research
 title: Neuroscience Research in Music and Movement

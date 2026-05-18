@@ -5,8 +5,6 @@ slug: school-based-creative-arts-therapy-programs
 sources:
   - fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the
   - fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy
-- fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the
-- fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy
 tags:
 - school-based-programming
 title: School-Based Creative Arts Therapy Programs

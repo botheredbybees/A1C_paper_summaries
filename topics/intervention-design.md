@@ -7,10 +7,6 @@ sources:
   - fxa100-week04-implementing-and-evaluating-interventions
   - fxa301-arts-in-health-ch29-4-invite-open-responses
   - fxa301-week01-implementing-and-evaluating-interventions
-- fxa100-week04-conceptualizing-and-planning-interventions
-- fxa100-week04-implementing-and-evaluating-interventions
-- fxa301-arts-in-health-ch29-4-invite-open-responses
-- fxa301-week01-implementing-and-evaluating-interventions
 tags:
 - intervention-design
 title: Intervention Design in Health Care

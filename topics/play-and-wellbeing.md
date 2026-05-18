@@ -5,8 +5,6 @@ slug: play-and-wellbeing
 sources:
   - fxa303-play-for-health-across-the-lifespan-ch06-chapter-7
   - fxa303-week04-lesson-fxa303-week04-page-1-week-4-overview
-- fxa303-play-for-health-across-the-lifespan-ch06-chapter-7
-- fxa303-week04-lesson-fxa303-week04-page-1-week-4-overview
 tags:
 - play-and-wellbeing
 title: Play and Wellbeing

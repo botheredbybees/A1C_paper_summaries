@@ -6,9 +6,6 @@ sources:
   - fxa301-week06-dance-4-your-life-exploring-the-health-and-well-being
   - fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older
   - fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait
-- fxa301-week06-dance-4-your-life-exploring-the-health-and-well-being
-- fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older
-- fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait
 tags:
 - dance-intervention
 title: Dance as an Intervention

@@ -6,8 +6,6 @@ sources:
   - fxa100-week09-transcript-youtube-lq0ko6-w4uc
   - fxa303-trauma-and-expressive-arts-ch04-1-slowly-exhale-through-your-mouth
   - fxa303-trauma-and-expressive-arts-ch05-chapter-9
-- fxa100-week09-transcript-youtube-lq0ko6-w4uc
-- fxa303-trauma-and-expressive-arts-ch04-1-slowly-exhale-through-your-mouth
 tags:
 - expressive-arts-therapy
 title: Expressive Arts Therapy

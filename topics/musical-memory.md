@@ -6,9 +6,6 @@ sources:
   - fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and
   - fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video
   - fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted
-- fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and
-- fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video
-- fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted
 tags:
 - musical-memory
 title: Musical Memory

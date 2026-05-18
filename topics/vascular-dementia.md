@@ -5,9 +5,6 @@ slug: vascular-dementia
 sources:
   - fxa100-week01-living-with-dementia-12-what-is-vascular-dementia
   - fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to
-- fxa100-excellence-in-dementia-care--ch24-chapter-1
-- fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms
-- fxa100-week06-preserved-drawing-in-a-sculptor-with-dementia
 tags:
 - vascular-dementia
 title: Vascular Dementia

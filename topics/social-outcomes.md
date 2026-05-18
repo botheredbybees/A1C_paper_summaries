@@ -5,9 +5,6 @@ slug: social-outcomes-of-community-arts
 sources:
   - fxa301-week01-evaluating-community-arts-community-well-being
   - fxa301-week01-evaluating-community-arts-community-well-being-an
-- fxa100-week04-evaluating-community-arts-community-well-being-an
-- fxa301-week01-evaluating-community-arts-community-well-being
-- fxa301-week01-evaluating-community-arts-community-well-being-an
 tags:
 - social-outcomes
 title: Social Outcomes of Community Arts

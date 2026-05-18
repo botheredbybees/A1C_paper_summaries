@@ -9,12 +9,6 @@ sources:
   - fxa303-week03-arts-on-prescription-observed-changes-in-anxiety-depression
   - fxa303-week03-social-prescribing-roundtable-november-2019-report
   - fxa303-week03-the-impact-of-arts-on-prescription-on-individual-health-and
-- fxa202-week06-critical-reflection-of-the-development-of-the-finding-joy
-- fxa301-week01-arts-on-prescription-in-sefton-programme-report
-- fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and
-- fxa303-week03-arts-on-prescription-observed-changes-in-anxiety-depression
-- fxa303-week03-social-prescribing-roundtable-november-2019-report
-- fxa303-week03-the-impact-of-arts-on-prescription-on-individual-health-and
 tags:
 - social-prescribing
 title: Social Prescribing

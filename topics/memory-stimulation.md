@@ -7,10 +7,6 @@ sources:
   - fxa100-week07-house-of-memories-national-museums-liverpool
   - fxa100-week07-iremember-loan-resource-flyer
   - fxa100-week09-transcript-youtube-lq0ko6-w4uc
-- fxa100-week04-music-therapy-benefits-fxa100-the-arts-and-dementia-care
-- fxa100-week07-house-of-memories-national-museums-liverpool
-- fxa100-week07-iremember-loan-resource-flyer
-- fxa100-week09-transcript-youtube-lq0ko6-w4uc
 tags:
 - memory-stimulation
 title: Memory Stimulation Interventions

@@ -9,11 +9,6 @@ sources:
   - fxa303-week04-exploring-change-in-childrens-and-art-therapists-behavior
   - fxa303-week04-transcript-duration-3-03
   - fxa303-week04-transcript-duration-34-19
-- fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between
-- fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for
-- fxa303-week04-exploring-change-in-childrens-and-art-therapists-behavior
-- fxa303-week04-transcript-duration-3-03
-- fxa303-week04-transcript-duration-34-19
 tags:
 - autism-spectrum-disorders
 title: Therapeutic Interventions for Autism Spectrum Disorders

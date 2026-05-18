@@ -8,11 +8,6 @@ sources:
   - fxa301-week01-lesson-fxa301-week01-page-2
   - fxa301-week01-web-article-zuckerman-2009
   - fxa303-week04-unraveling-neurodiversity-insights-from-neuroscientic
-- fxa100-week01-the-science-of-lewy-body-dementia-video-transcript
-- fxa100-week01-what-is-alzheimers-disease-video-transcript
-- fxa301-week01-lesson-fxa301-week01-page-2
-- fxa301-week01-web-article-zuckerman-2009
-- fxa303-week04-unraveling-neurodiversity-insights-from-neuroscientic
 tags:
 - brain-anatomy
 title: Brain Anatomy in Neurodegenerative Diseases

@@ -6,8 +6,6 @@ sources:
   - fxa100-week13-anatomically-distinct-dopamine-release-during-anticipation
   - fxa202-week09-guide-to-journaling
   - fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the
-- fxa202-week09-guide-to-journaling
-- fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the
 tags:
 - emotional-processing
 title: Emotional Processing Through Writing

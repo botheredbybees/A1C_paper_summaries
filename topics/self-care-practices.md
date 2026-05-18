@@ -6,8 +6,6 @@ sources:
   - fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using
   - fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare
   - fxa303-week11-the-one-thing-that-actually-helps-art-creation-as-a-self
-- fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using
-- fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare
 tags:
 - self-care-practices
 title: Self-Care Practices

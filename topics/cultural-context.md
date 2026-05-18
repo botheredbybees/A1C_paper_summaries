@@ -6,8 +6,6 @@ sources:
   - fxa100-week07-dementia-and-our-mob-caring-for-spirit
   - fxa303-week10-importance-of-cultural-context-in-designing-arts-programs
   - fxa303-week11-arts-in-criminal-justice-and-corrections-international
-- fxa100-week07-dementia-and-our-mob-caring-for-spirit
-- fxa303-week10-importance-of-cultural-context-in-designing-arts-programs
 tags:
 - cultural-context
 title: Cultural Context in Healthcare and Arts Programs

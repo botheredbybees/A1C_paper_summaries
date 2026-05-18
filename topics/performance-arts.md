@@ -5,8 +5,6 @@ slug: theatrical-performances-and-audience-feedback
 sources:
   - fxa100-week10-transcript-inside-out-of-mind-audience-feedback-lakeside-arts
   - fxa303-week05-transcript-introduction-to-rod-puppets-spare-parts-puppet
-- fxa100-week10-transcript-inside-out-of-mind-audience-feedback-lakeside-arts
-- fxa303-week05-transcript-introduction-to-rod-puppets-spare-parts-puppet
 tags:
 - performance-arts
 title: Theatrical Performances and Audience Feedback

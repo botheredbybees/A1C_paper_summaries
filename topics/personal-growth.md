@@ -7,7 +7,6 @@ sources:
   - fxa202-week13-taking-pictures-is-like-treasure-hunting-exploring-the
   - fxa202-week13-through-creative-lenses-investigating-the-personal-growth
   - fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through
-- fxa301-week10-lesson-fxa301-week10-page-2
 tags:
 - personal-growth
 title: Therapeutic Creative Arts for Mental Health

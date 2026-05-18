@@ -5,8 +5,6 @@ slug: empirical-aesthetics
 sources:
   - fxa301-week02-aesthetic-judgments-of-novel-graphic-patterns-analyses-of
   - fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and
-- fxa301-week02-aesthetic-judgments-of-novel-graphic-patterns-analyses-of
-- fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and
 tags:
 - empirical-aesthetics
 title: Empirical Aesthetics

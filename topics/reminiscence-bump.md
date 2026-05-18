@@ -5,8 +5,6 @@ slug: musical-reminiscence-bump
 sources:
   - fxa100-week02-introduction-to-week-2-music-and-the-brain
   - fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and
-- fxa100-week02-introduction-to-week-2-music-and-the-brain
-- fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and
 tags:
 - reminiscence-bump
 title: Musical Reminiscence Bump

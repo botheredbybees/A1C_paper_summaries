@@ -5,8 +5,6 @@ slug: social-media-use-effects-on-adolescent-mental-health
 sources:
   - fxa202-week03-week-three-lecture-transcript-photography-and-health
   - fxa303-week03-media-use-and-brain-development-during-adolescence
-- fxa202-week03-week-three-lecture-transcript-photography-and-health
-- fxa303-week03-media-use-and-brain-development-during-adolescence
 tags:
 - social-media-effects
 title: Social Media Use Effects on Adolescent Mental Health

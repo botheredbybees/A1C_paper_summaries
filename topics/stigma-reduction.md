@@ -6,9 +6,6 @@ sources:
   - fxa100-week04-a-guide-to-dementia-friendly-language
   - fxa100-week04-dementia-language-guidelines
   - fxa303-week09-recovery-oriented-language-guide
-- fxa100-week04-a-guide-to-dementia-friendly-language
-- fxa100-week04-dementia-language-guidelines
-- fxa303-week09-recovery-oriented-language-guide
 tags:
 - stigma-reduction
 title: Stigma Reduction Through Language

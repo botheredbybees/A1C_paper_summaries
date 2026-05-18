@@ -12,14 +12,6 @@ sources:
   - fxa303-week08-the-life-threatened-child-and-the-life-enhancing-clown
   - fxa303-week08-therapeutic-clowning-in-paediatric-practice
   - fxa303-week13-therapeutic-clowns-in-pediatrics-a-systematic-review-and
-- fxa303-week04-community-services-the-music-therapy-center-of-california
-- fxa303-week06-puppets-in-an-acute-paediatric-unit-nurses-experiences
-- fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic
-- fxa303-week08-effectiveness-of-hospital-clowning-on-pediatric-anxiety-and
-- fxa303-week08-more-than-just-an-entertainment-show-identification-of
-- fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact
-- fxa303-week08-the-life-threatened-child-and-the-life-enhancing-clown
-- fxa303-week08-therapeutic-clowning-in-paediatric-practice
 tags:
 - pediatric-care
 title: Therapeutic Interventions in Pediatric Care

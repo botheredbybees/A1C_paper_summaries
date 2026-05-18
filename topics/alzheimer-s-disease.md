@@ -7,10 +7,6 @@ sources:
   - fxa100-week06-some-workmen-can-blame-their-tools-artistic-change-in-an
   - fxa100-week08-transcript-youtube-l3cci-2kwkk
   - fxa100-week08-web-article-huebner-2012
-- fxa100-week01-transcript-alzheimers-society
-- fxa100-week06-some-workmen-can-blame-their-tools-artistic-change-in-an
-- fxa100-week08-transcript-youtube-l3cci-2kwkk
-- fxa100-week08-web-article-huebner-2012
 tags:
 - alzheimer-s-disease
 title: Art Therapy for Alzheimer's Patients

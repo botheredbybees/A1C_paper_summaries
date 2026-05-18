@@ -16,13 +16,6 @@ sources:
   - fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)
   - fxa303-week11-future-directions-in-understanding-and-addressing-mental
   - fxa303-week13-good-health-and-well-being
-- fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of
-- fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(2)
-- fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(3)
-- fxa301-week01-an-introduction-to-research
-- fxa301-week01-arts-in-health-designing-and-researching-interventions
-- fxa301-week02-the-emerging-field-of-affective-science
-- fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)
 tags:
 - interdisciplinary-research
 title: Interdisciplinary Approaches to Quality of Life Improvement

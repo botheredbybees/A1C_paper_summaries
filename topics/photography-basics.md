@@ -7,10 +7,6 @@ sources:
   - fxa202-week02-getting-to-know-your-camera
   - fxa202-week02-lesson-fxa202-week02-week-2
   - fxa202-week08-making-basic-adjustments-tutorial-at-gcflearnfree
-- fxa202-week01-lesson-fxa202-week01-week-1
-- fxa202-week02-getting-to-know-your-camera
-- fxa202-week02-lesson-fxa202-week02-week-2
-- fxa202-week08-making-basic-adjustments-tutorial-at-gcflearnfree
 tags:
 - photography-basics
 title: Photography Basics

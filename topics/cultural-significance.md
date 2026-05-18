@@ -5,8 +5,6 @@ slug: cultural-significance
 sources:
   - fxa301-week05-naidoc-week-aboriginal-mural-brings-community-together-in
   - fxa303-week05-forms-of-puppets-and-puppetry
-- fxa301-week05-naidoc-week-aboriginal-mural-brings-community-together-in
-- fxa303-week05-forms-of-puppets-and-puppetry
 tags:
 - cultural-significance
 title: Cultural Significance

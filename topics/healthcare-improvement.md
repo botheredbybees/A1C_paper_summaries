@@ -6,9 +6,6 @@ sources:
   - fxa100-week04-conceptualizing-and-planning-interventions
   - fxa301-week08-impact-summary-clown-doctors-australia
   - fxa301-week08-social-impact-report-year-to-30-june-2025
-- fxa100-week04-conceptualizing-and-planning-interventions
-- fxa301-week08-impact-summary-clown-doctors-australia
-- fxa301-week08-social-impact-report-year-to-30-june-2025
 tags:
 - healthcare-improvement
 title: Healthcare Improvement Strategies

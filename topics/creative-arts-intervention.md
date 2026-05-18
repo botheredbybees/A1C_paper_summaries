@@ -6,7 +6,6 @@ sources:
   - fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a
   - fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental
   - fxa303-week11-artsmark-and-sandwell-youth-offending-service-follow-up
-- fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental
 tags:
 - creative-arts-intervention
 title: Creative Arts Intervention

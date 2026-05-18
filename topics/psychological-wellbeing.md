@@ -7,8 +7,6 @@ sources:
   - fxa301-week11-fine-arts-participation-self-determination-and-locus-of
   - fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
   - fxa303-week13-eficacia-de-la-risoterapia-con-payasos-sociosanitarios-en
-- fxa301-week06-a-study-of-the-experience-of-working-adults-on-regular
-- fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
 tags:
 - psychological-wellbeing
 title: Psychological Wellbeing Interventions

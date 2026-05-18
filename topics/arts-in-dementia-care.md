@@ -6,8 +6,6 @@ sources:
   - fxa100-week04-lecture-notes-for-fxa100-the-arts-and-dementia-care
   - fxa100-week04-week-4-activities-fxa100-the-arts-and-dementia-care
   - fxa100-week12-lesson-fxa100-week12-take-a-bow
-- fxa100-week04-lecture-notes-for-fxa100-the-arts-and-dementia-care
-- fxa100-week04-week-4-activities-fxa100-the-arts-and-dementia-care
 tags:
 - arts-in-dementia-care
 title: Arts in Dementia Care

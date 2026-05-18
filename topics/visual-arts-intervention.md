@@ -8,11 +8,6 @@ sources:
   - fxa100-week08-lesson-fxa100-week07-page-1-welcome-to-week-7
   - fxa100-week08-lesson-fxa100-week07-page-2-communication-and-creativity
   - fxa100-week08-research-informed-approaches-to-visual-arts-programmes
-- fxa100-week06-the-role-of-the-visual-arts-in-the-resilience-of-people
-- fxa100-week07-lesson-fxa100-week07-page-4-activities
-- fxa100-week08-lesson-fxa100-week07-page-1-welcome-to-week-7
-- fxa100-week08-lesson-fxa100-week07-page-2-communication-and-creativity
-- fxa100-week08-research-informed-approaches-to-visual-arts-programmes
 tags:
 - visual-arts-intervention
 title: Visual Arts Intervention for Dementia Care

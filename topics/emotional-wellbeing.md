@@ -22,23 +22,6 @@ sources:
   - fxa303-week08-physiological-and-emotional-responses-of-disabled-children
   - fxa303-week08-the-effect-of-medicaltherapeutic-clowns-on-the-playfulness
   - fxa303-week10-arts-education-and-society-the-role-of-the-arts-in
-- fxa100-week03-lesson-fxa100-week03-page-1-welcome-to-week-3
-- fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care
-- fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care
-- fxa100-week04-music-therapy-and-dementia-video-transcript
-- fxa202-week06-winding-paths-a-photo-essay-on-emotional-health-during
-- fxa202-week09-5-benefits-of-journaling-for-mental-health
-- fxa202-week09-noticing-a-photo-essay
-- fxa202-week10-chromophilia
-- fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay
-- fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in
-- fxa301-week05-art-making-and-illness-two-case-studies
-- fxa301-week06-the-dance-of-wellbeing-defining-the-musical-therapeutic
-- fxa303-week02-developmental-role-of-creative-arts-and-play
-- fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview
-- fxa303-week08-physiological-and-emotional-responses-of-disabled-children
-- fxa303-week08-the-effect-of-medicaltherapeutic-clowns-on-the-playfulness
-- fxa303-week10-arts-education-and-society-the-role-of-the-arts-in
 tags:
 - emotional-wellbeing
 title: Music Therapy for Emotional Wellbeing

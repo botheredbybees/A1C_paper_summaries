@@ -5,8 +5,6 @@ slug: wellbeing-promotion-through-arts-and-drama
 sources:
   - fxa301-week03-how-do-we-realize-the-potential-of-the-arts-to-support
   - fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using
-- fxa301-week03-how-do-we-realize-the-potential-of-the-arts-to-support
-- fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using
 tags:
 - wellbeing-promotion
 title: Wellbeing Promotion Through Arts and Drama

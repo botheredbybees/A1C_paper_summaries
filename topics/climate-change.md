@@ -5,8 +5,6 @@ slug: youth-mental-health-and-climate-change
 sources:
   - fxa303-week03-mission-australia-youth-survey-information
   - fxa303-week03-youth-survey-report-2025
-- fxa303-week03-mission-australia-youth-survey-information
-- fxa303-week03-youth-survey-report-2025
 tags:
 - climate-change
 title: Youth Mental Health and Climate Change

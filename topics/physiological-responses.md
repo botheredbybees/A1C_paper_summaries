@@ -6,9 +6,6 @@ sources:
   - fxa301-oxford-textbook-of-creative-arts-ch08-96-clift
   - fxa301-week02-empathy-manipulation-impacts-music-induced-emotions-a
   - fxa303-week08-physiological-and-emotional-responses-of-disabled-children
-- fxa301-oxford-textbook-of-creative-arts-ch08-96-clift
-- fxa301-week02-empathy-manipulation-impacts-music-induced-emotions-a
-- fxa303-week08-physiological-and-emotional-responses-of-disabled-children
 tags:
 - physiological-responses
 title: Physiological Responses to Music and Sound

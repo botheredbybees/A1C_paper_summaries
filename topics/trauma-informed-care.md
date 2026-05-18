@@ -8,10 +8,6 @@ sources:
   - fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit
   - fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies
   - fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic
-- fxa303-week09-recovery-oriented-language-guide
-- fxa303-week09-the-trauma-informed-care-and-practice-organisational
-- fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit
-- fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies
 tags:
 - trauma-informed-care
 title: Trauma-Informed Care

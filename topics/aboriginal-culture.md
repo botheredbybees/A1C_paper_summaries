@@ -5,8 +5,6 @@ slug: aboriginal-culture-and-well-being
 sources:
   - fxa303-week10-transcript-duration-2-36
   - fxa303-week10-web-article-russ-smith-2023
-- fxa303-week10-transcript-duration-2-36
-- fxa303-week10-web-article-russ-smith-2023
 tags:
 - aboriginal-culture
 title: Aboriginal Culture and Well-being

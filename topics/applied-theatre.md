@@ -13,13 +13,6 @@ sources:
   - fxa301-week08-web-article-sextou-2017
   - fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare
   - fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental
-- fxa100-week09-applied-theatre-problems-and-possibilities
-- fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags
-- fxa100-week09-lesson-fxa100-week09-page-2-dance-therapy-drama-therapy
-- fxa100-week09-transcript-applied-theatre-tdfs-theatre-dictionary-defining
-- fxa301-week08-lesson-fxa301-week07-page-1
-- fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare
-- fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental
 tags:
 - applied-theatre
 title: Applied Theatre

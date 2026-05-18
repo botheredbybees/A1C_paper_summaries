@@ -9,11 +9,6 @@ sources:
   - fxa301-week05-how-murals-helped-turn-a-declining-community-around
   - fxa301-week05-lesson-fxa301-week05-page-2-hm-take-2-with-newer-content
   - fxa301-week05-the-history-of-the-quilt-the-national-aids-memorial
-- fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6
-- fxa301-week05-cork-as-canvas-exploring-intersections-of-citizenship-and
-- fxa301-week05-how-murals-helped-turn-a-declining-community-around
-- fxa301-week05-lesson-fxa301-week05-page-2-hm-take-2-with-newer-content
-- fxa301-week05-the-history-of-the-quilt-the-national-aids-memorial
 tags:
 - public-art
 title: Public Art and Community Well-Being

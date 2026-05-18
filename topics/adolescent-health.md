@@ -6,9 +6,6 @@ sources:
   - fxa301-week06-dance-4-your-life-exploring-the-health-and-well-being
   - fxa303-week03-adolescent-and-young-adult-health
   - fxa303-week03-adolescent-health
-- fxa301-week06-dance-4-your-life-exploring-the-health-and-well-being
-- fxa303-week03-adolescent-and-young-adult-health
-- fxa303-week03-adolescent-health
 tags:
 - adolescent-health
 title: Adolescent Health

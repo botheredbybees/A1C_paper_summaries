@@ -5,8 +5,6 @@ slug: arts-activities-for-youth-resilience
 sources:
   - fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and
   - fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and
-- fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and
-- fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and
 tags:
 - community-interventions
 title: Arts Activities for Youth Resilience

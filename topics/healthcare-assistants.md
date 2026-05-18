@@ -5,8 +5,6 @@ slug: healthcare-assistants-in-dementia-care
 sources:
   - fxa100-week10-transcript-this-trailer-gives-an-overview-of-the-play-and
   - fxa100-week10-transforming-dementia-care-through-theatre
-- fxa100-week10-transcript-this-trailer-gives-an-overview-of-the-play-and
-- fxa100-week10-transforming-dementia-care-through-theatre
 tags:
 - healthcare-assistants
 title: Healthcare Assistants in Dementia Care

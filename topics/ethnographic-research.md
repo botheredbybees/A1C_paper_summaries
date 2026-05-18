@@ -9,10 +9,6 @@ sources:
   - fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an
   - fxa303-week11-using-and-abusing-the-arts-with-at-risk-youth
   - fxa303-week13-routines-of-resistance-an-ethnography-of-the-care-of-people
-- fxa301-make-arts-for-a-better-life-ch11-4-you-and-the-community-have-stepped-through
-- fxa301-week01-music-and-meaning-in-community-contexts
-- fxa301-week06-san-trance-dance-embodied-experience-and-neurological
-- fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an
 tags:
 - ethnographic-research
 title: Ethnographic Research Methods

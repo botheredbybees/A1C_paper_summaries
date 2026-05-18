@@ -7,10 +7,6 @@ sources:
   - fxa100-week04-how-to-talk-about-dementia
   - fxa100-week06-transcript-affinity-interactive-light-sculpture-for-dementia
   - fxa100-week10-transcript-helen-morse-also-brought-her-personal-experience
-- fxa100-week04-a-guide-to-dementia-friendly-language
-- fxa100-week04-how-to-talk-about-dementia
-- fxa100-week06-transcript-affinity-interactive-light-sculpture-for-dementia
-- fxa100-week10-transcript-helen-morse-also-brought-her-personal-experience
 tags:
 - dementia-awareness
 title: Dementia-Awareness Communication Strategies

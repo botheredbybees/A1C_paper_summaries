@@ -10,10 +10,6 @@ sources:
   - fxa303-week03-arts-in-adolescence
   - fxa303-week10-arts-education-and-society-the-role-of-the-arts-in
   - fxa303-week11-using-and-abusing-the-arts-with-at-risk-youth
-- fxa301-make-arts-for-a-better-life-ch06-1-see-also-closing
-- fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals-(2)
-- fxa303-week03-arts-in-adolescence
-- fxa303-week10-arts-education-and-society-the-role-of-the-arts-in
 tags:
 - arts-education
 title: Arts Education and Adolescent Development

@@ -8,9 +8,6 @@ sources:
   - fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to
   - fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth
   - fxa303-week10-transcript-younger-stories-culminated-in-an-exhibition-of
-- fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to
-- fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth
-- fxa303-week10-transcript-younger-stories-culminated-in-an-exhibition-of
 tags:
 - refugee-experience
 title: Refugee Youth and Their Role Changes

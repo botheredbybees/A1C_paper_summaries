@@ -5,8 +5,6 @@ slug: puppet-play-therapy
 sources:
   - fxa303-week06-mr-fox-is-sad
   - fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental
-- fxa303-week06-mr-fox-is-sad
-- fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental
 tags:
 - puppet-play-therapy
 title: Puppet Play Therapy

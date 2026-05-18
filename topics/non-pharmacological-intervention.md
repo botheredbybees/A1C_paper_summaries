@@ -6,8 +6,6 @@ sources:
   - fxa100-week03-implementation-survey-results-wisconsin-music-memory-program
   - fxa100-week13-dance-specific-activity-in-people-living-with-dementia-a
   - fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a
-- fxa100-week03-implementation-survey-results-wisconsin-music-memory-program
-- fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a
 tags:
 - non-pharmacological-intervention
 title: Non-pharmacological Interventions for Dementia Care

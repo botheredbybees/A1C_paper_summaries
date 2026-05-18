@@ -7,10 +7,6 @@ sources:
   - fxa301-week01-lesson-fxa301-week01-troubleshooting1
   - fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using
   - fxa301-week08-week-8-lecture-applying-theatre-and-literature-for-health
-- fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6
-- fxa301-week01-lesson-fxa301-week01-troubleshooting1
-- fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using
-- fxa301-week08-week-8-lecture-applying-theatre-and-literature-for-health
 tags:
 - community-health
 title: Creative Arts in Community Health

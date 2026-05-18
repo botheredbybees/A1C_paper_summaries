@@ -5,8 +5,6 @@ slug: memory-therapy-in-dementia
 sources:
   - fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum
   - fxa100-week07-turning-back-the-hands-of-time-autobiographical-memories-in
-- fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum
-- fxa100-week07-turning-back-the-hands-of-time-autobiographical-memories-in
 tags:
 - memory-therapy
 title: Memory Therapy in Dementia

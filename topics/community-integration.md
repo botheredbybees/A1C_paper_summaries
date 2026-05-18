@@ -5,8 +5,6 @@ slug: community-integration-through-creative-outlets
 sources:
   - fxa100-week03-pearl-85-and-living-with-dementia-adds-another-string-to
   - fxa301-week03-how-do-we-realize-the-potential-of-the-arts-to-support
-- fxa100-week03-pearl-85-and-living-with-dementia-adds-another-string-to
-- fxa301-week03-how-do-we-realize-the-potential-of-the-arts-to-support
 tags:
 - community-integration
 title: Community Integration Through Creative Outlets

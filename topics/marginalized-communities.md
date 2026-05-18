@@ -5,7 +5,6 @@ slug: marginalized-communities-through-an-arts-informed-lens
 sources:
   - fxa301-week01-making-art-with-communities-a-work-guide
   - fxa303-week11-artistic-expression-as-a-source-of-resilience-for
-- fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to
 tags:
 - marginalized-communities
 title: Marginalized Communities Through an Arts-Informed Lens

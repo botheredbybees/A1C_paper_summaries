@@ -6,9 +6,6 @@ sources:
   - fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay
   - fxa202-week03-can-photography-help-depression
   - fxa202-week09-the-largs-pier-a-visual-story-of-grief-and-healing
-- fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay
-- fxa202-week03-can-photography-help-depression
-- fxa202-week09-the-largs-pier-a-visual-story-of-grief-and-healing
 tags:
 - photography-as-therapy
 title: Photography as Therapy

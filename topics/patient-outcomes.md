@@ -10,10 +10,6 @@ sources:
   - fxa301-week01-is-there-compelling-evidence-for-using-the-arts-in-health
   - fxa303-week13-evaluation-of-a-standardized-humor-group-in-a-clinical
   - fxa303-week13-svedem-the-swedish-dementia-registry-a-tool-for-improving
-- fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia
-- fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for
-- fxa100-week04-music-therapy-and-music-assisted-caregiving-for-dementia
-- fxa301-week01-is-there-compelling-evidence-for-using-the-arts-in-health
 tags:
 - patient-outcomes
 title: Patient Outcomes in Dementia Care

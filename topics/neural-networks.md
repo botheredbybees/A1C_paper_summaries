@@ -7,10 +7,6 @@ sources:
   - fxa303-week02-fxa303-week-2-child-development-and-creative-arts
   - fxa303-week03-limbic-systems-for-emotion-and-for-memory-but-no-single
   - fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between
-- fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers
-- fxa303-week02-fxa303-week-2-child-development-and-creative-arts
-- fxa303-week03-limbic-systems-for-emotion-and-for-memory-but-no-single
-- fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between
 tags:
 - neural-networks
 title: Neural Networks in Cognitive Processing

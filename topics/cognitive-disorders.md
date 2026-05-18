@@ -5,8 +5,6 @@ slug: cognitive-disorders
 sources:
   - fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms
   - fxa100-week02-brain-networking-among-musicians
-- fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms
-- fxa100-week02-brain-networking-among-musicians
 tags:
 - cognitive-disorders
 title: Cognitive Disorders

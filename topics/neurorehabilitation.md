@@ -6,8 +6,6 @@ sources:
   - fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait
   - fxa301-week09-stroke-choirs-stroke-recovery-association-nsw
   - fxa301-week11-art-therapy-for-individuals-with-traumatic-brain-injury-a
-- fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait
-- fxa301-week09-stroke-choirs-stroke-recovery-association-nsw
 tags:
 - neurorehabilitation
 title: Neurorehabilitation Through Dance and Music

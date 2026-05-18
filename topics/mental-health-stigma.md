@@ -6,9 +6,6 @@ sources:
   - fxa301-week01-the-five-projectaddressing-the-stigma-of-mental-health
   - fxa301-week03-four-big-ways-to-improve-health-through-the-arts
   - fxa301-week03-the-role-of-the-arts-in-healthcare-transforming-lives
-- fxa301-week01-the-five-projectaddressing-the-stigma-of-mental-health
-- fxa301-week03-four-big-ways-to-improve-health-through-the-arts
-- fxa301-week03-the-role-of-the-arts-in-healthcare-transforming-lives
 tags:
 - mental-health-stigma
 title: Role of Arts in Reducing Mental Health Stigma

@@ -7,8 +7,6 @@ sources:
   - fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our
   - fxa301-week11-colouring-it-beautiful-artists-on-the-loose-in-a-refugee
   - fxa303-week11-mapping-q-the-university-of-arizona-museum-of-art
-- fxa100-week04-the-ripple-effect-towards-researching-improvisational-music
-- fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our
 tags:
 - community-building
 title: Community-Building Through Creative Practices

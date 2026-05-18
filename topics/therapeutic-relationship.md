@@ -5,8 +5,6 @@ slug: therapeutic-relationship-in-person-centered-and-play-therapies
 sources:
   - fxa303-week01-person-centered-therapy-rogerian-therapy
   - fxa303-week04-child-centered-play-therapy-as-an-intervention-for-children
-- fxa303-week01-person-centered-therapy-rogerian-therapy
-- fxa303-week04-child-centered-play-therapy-as-an-intervention-for-children
 tags:
 - therapeutic-relationship
 title: Therapeutic Relationship in Person-Centered and Play Therapies

@@ -5,8 +5,6 @@ slug: dementia-discourse
 sources:
   - fxa100-week04-dementia-discourse-a-rethink
   - fxa100-week04-dementia-discourse-a-rethink-(2)
-- fxa100-week04-dementia-discourse-a-rethink
-- fxa100-week04-dementia-discourse-a-rethink-(2)
 tags:
 - dementia-discourse
 title: Dementia Discourse

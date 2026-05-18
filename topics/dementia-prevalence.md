@@ -10,11 +10,6 @@ sources:
   - fxa100-week07-high-prevalence-of-dementia-and-cognitive-impairment-in
   - fxa100-week07-prevalence-of-dementia-in-urban-and-regional-aboriginal
   - fxa100-week13-prevalence-of-very-mild-and-mild-dementia-in-community
-- fxa100-excellence-in-dementia-care--ch24-chapter-1
-- fxa100-week01-dementia-in-australia
-- fxa100-week07-dementia-in-our-mob-and-around-the-world
-- fxa100-week07-high-prevalence-of-dementia-and-cognitive-impairment-in
-- fxa100-week07-prevalence-of-dementia-in-urban-and-regional-aboriginal
 tags:
 - dementia-prevalence
 title: Prevalence and Risk Factors for Dementia

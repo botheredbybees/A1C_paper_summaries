@@ -9,12 +9,6 @@ sources:
   - fxa202-week10-2022-week-10-lecture-transcript
   - fxa301-week01-quiz-information-getting-started-in-mylo
   - fxa301-week01-week-1-activities-page-video
-- fxa100-week01-lesson-fxa100-week01-page-3-week-1-activities
-- fxa100-week10-web-article-brooker-2013
-- fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling
-- fxa202-week10-2022-week-10-lecture-transcript
-- fxa301-week01-quiz-information-getting-started-in-mylo
-- fxa301-week01-week-1-activities-page-video
 tags:
 - online-learning
 title: Online Learning in Arts and Dementia Care

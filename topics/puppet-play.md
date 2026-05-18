@@ -5,8 +5,6 @@ slug: puppet-play-therapy
 sources:
   - fxa303-puppet-play-therapy-ch10-chapter-2
   - fxa303-week06-virtual-puppet-play-therapy
-- fxa303-puppet-play-therapy-ch10-chapter-2
-- fxa303-week06-virtual-puppet-play-therapy
 tags:
 - puppet-play
 title: Puppet Play Therapy

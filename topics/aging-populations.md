@@ -5,8 +5,6 @@ slug: creative-arts-engagement-for-aging-populations
 sources:
   - fxa301-week03-lesson-fxa301-week03-page-1
   - fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community
-- fxa301-week03-lesson-fxa301-week03-page-1
-- fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community
 tags:
 - aging-populations
 title: Creative Arts Engagement for Aging Populations

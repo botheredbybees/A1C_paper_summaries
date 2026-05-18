@@ -8,8 +8,6 @@ sources:
   - fxa303-week13-humor-assessment-and-interventions-in-palliative-care-a
   - fxa303-week13-humour-interventions-for-patients-in-palliative-carea
   - fxa303-week13-intervention-of-companion-clowns-in-a-special-care-unit-a-1
-- fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a
-- fxa303-week08-more-than-just-an-entertainment-show-identification-of
 tags:
 - patient-wellbeing
 title: Patient Wellbeing Interventions

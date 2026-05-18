@@ -7,10 +7,6 @@ sources:
   - fxa301-week05-how-murals-helped-turn-a-declining-community-around
   - fxa303-week10-how-country-spirituality-music-and-arts-contribute-to
   - fxa303-week10-lesson-fxa303-week10-page-1-overview
-- fxa100-week09-in-my-fathers-words-review-sophisticated-dementia-drama
-- fxa301-week05-how-murals-helped-turn-a-declining-community-around
-- fxa303-week10-how-country-spirituality-music-and-arts-contribute-to
-- fxa303-week10-lesson-fxa303-week10-page-1-overview
 tags:
 - cultural-identity
 title: Cultural Identity Through Art and Intergenerational Relationships

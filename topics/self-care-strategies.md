@@ -6,8 +6,6 @@ sources:
   - fxa100-creativity-and-communication-ch13-23-making-space-for-your-own-creativity-making-space-for
   - fxa303-week05-puppets-and-self-care-for-task-2
   - fxa303-week11-mapping-q-the-university-of-arizona-museum-of-art
-- fxa100-creativity-and-communication-ch13-23-making-space-for-your-own-creativity-making-space-for
-- fxa303-week05-puppets-and-self-care-for-task-2
 tags:
 - self-care-strategies
 title: Self-Care Strategies

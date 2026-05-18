@@ -5,8 +5,6 @@ slug: art-and-play-in-chronic-illness-coping
 sources:
   - fxa301-week05-web-article-reynolds-2006
   - fxa303-week08-hospital-clowning-as-play-stimulus-in-healthcare
-- fxa301-week05-web-article-reynolds-2006
-- fxa303-week08-hospital-clowning-as-play-stimulus-in-healthcare
 tags:
 - chronic-illness
 title: Art and Play in Chronic Illness Coping

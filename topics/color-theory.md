@@ -6,9 +6,6 @@ sources:
   - fxa202-week02-lesson-fxa202-week02-page-3
   - fxa202-week02-street-photography-composition-lesson-12-color-theory
   - fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at
-- fxa202-week02-lesson-fxa202-week02-page-3
-- fxa202-week02-street-photography-composition-lesson-12-color-theory
-- fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at
 tags:
 - color-theory
 title: Color Theory

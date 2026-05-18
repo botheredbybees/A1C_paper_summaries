@@ -8,11 +8,6 @@ sources:
   - fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining
   - fxa100-week11-dancing-and-the-brain
   - fxa100-week13-exercise-benefits-on-alzheimers-disease-state-of-the-science
-- fxa100-week01-living-with-dementia-12-what-is-vascular-dementia
-- fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy
-- fxa100-week01-transcript-dementia-australia
-- fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining
-- fxa100-week01-what-is-alzheimers-disease-video-transcript
 tags:
 - brain-health
 title: Brain Health and Cognitive Decline

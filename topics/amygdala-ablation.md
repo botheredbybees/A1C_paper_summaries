@@ -5,8 +5,6 @@ slug: amygdala-ablation
 sources:
   - fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and
   - fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2)
-- fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and
-- fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2)
 tags:
 - amygdala-ablation
 title: Amygdala Ablation

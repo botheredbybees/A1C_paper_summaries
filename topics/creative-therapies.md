@@ -16,16 +16,6 @@ sources:
   - fxa301-week10-lesson-fxa301-week10-page-3
   - fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods
   - fxa303-week11-arts-in-criminal-justice-and-corrections-international
-- fxa100-week08-why-the-arts
-- fxa100-week09-web-article-north-2021
-- fxa202-week03-can-photography-help-depression
-- fxa202-week09-noticing-a-photo-essay
-- fxa202-week10-research-and-evidence-in-arts-health-and-well-being
-- fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community
-- fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd
-- fxa301-week10-fxa301-week-10-lecture
-- fxa301-week10-lesson-fxa301-week10-page-3
-- fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods
 tags:
 - creative-therapies
 title: Creative Therapies

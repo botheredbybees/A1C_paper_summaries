@@ -8,11 +8,6 @@ sources:
   - fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)
   - fxa303-week04-intensive-child-centered-play-therapy-for-children-on-the
   - fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children
-- fxa303-week04-brief-report-emotion-regulation-in-autism-is-improved-in-a
-- fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves
-- fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)
-- fxa303-week04-intensive-child-centered-play-therapy-for-children-on-the
-- fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children
 tags:
 - child-therapy
 title: Child-Centered Play Therapy for Autism

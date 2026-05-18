@@ -5,8 +5,6 @@ slug: intervention-planning-in-arts-based-interventions
 sources:
   - fxa301-arts-in-health-ch26-4-technological
   - fxa301-week01-conceptualizing-and-planning-interventions
-- fxa301-arts-in-health-ch26-4-technological
-- fxa301-week01-conceptualizing-and-planning-interventions
 tags:
 - intervention-planning
 title: Intervention Planning in Arts-Based Interventions

@@ -5,9 +5,6 @@ slug: refugee-youth-in-vulnerable-populations
 sources:
   - fxa100-week04-research-ethics-in-arts-in-health-interventions
   - fxa301-week01-research-ethics
-- fxa100-week04-research-ethics-in-arts-in-health-interventions
-- fxa301-week01-research-ethics
-- fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to-(2)
 tags:
 - vulnerable-populations
 title: Refugee Youth in Vulnerable Populations

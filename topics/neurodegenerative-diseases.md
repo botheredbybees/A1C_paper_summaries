@@ -7,8 +7,6 @@ sources:
   - fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities
   - fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric
   - fxa303-week13-dance-movement-therapy-for-neurodegenerative-diseases-a
-- fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms
-- fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities
 tags:
 - neurodegenerative-diseases
 title: Dementia and Its Forms

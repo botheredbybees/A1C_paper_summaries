@@ -5,8 +5,6 @@ slug: emotional-response-to-music
 sources:
   - fxa100-week03-introduction-to-week-3-listening-to-music
   - fxa301-week02-lecture-on-perception-of-the-arts
-- fxa100-week03-introduction-to-week-3-listening-to-music
-- fxa301-week02-lecture-on-perception-of-the-arts
 tags:
 - emotional-response
 title: Emotional Response to Music

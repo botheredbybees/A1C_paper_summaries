@@ -13,14 +13,6 @@ sources:
   - fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping
   - fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental
   - fxa303-week11-lesson-fxa303-week11-page-1-overview
-- fxa301-week02-the-brain-and-how-we-perceive-information
-- fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and
-- fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd
-- fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children
-- fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental
-- fxa303-week06-lesson-fxa303-week06-page-4-week-6-activities
-- fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping
-- fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental
 tags:
 - emotional-regulation
 title: Emotional Regulation

@@ -5,7 +5,6 @@ slug: participatory-action-research
 sources:
   - fxa202-week13-different-but-connected-participatory-action-research-using
   - fxa202-week13-using-photovoice-as-a-tool-to-engage-social-work-students
-- fxa100-how-we-thnk-about-dementia-ch05-chapter-11
 tags:
 - participatory-action-research
 title: Participatory Action Research

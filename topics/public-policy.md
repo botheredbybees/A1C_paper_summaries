@@ -11,13 +11,6 @@ sources:
   - fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing
   - fxa303-week04-missed-early-intervention-opportunities-for-children-with
   - fxa303-week13-good-health-and-well-being
-- fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2
-- fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions
-- fxa301-week03-creative-health-review-report
-- fxa301-week03-executive-summary-creative-health-review
-- fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract
-- fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing
-- fxa303-week04-missed-early-intervention-opportunities-for-children-with
 tags:
 - public-policy
 title: Creative Arts in Public Policy for Health

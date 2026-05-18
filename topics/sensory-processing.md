@@ -5,7 +5,6 @@ slug: sensory-processing
 sources:
   - fxa100-week12-inner-vision-an-exploration-of-art-and-the-brain
   - fxa303-week04-neurobiology-of-autism-spectrum-disorders
-- fxa301-week02-the-brain-and-how-we-perceive-information
 tags:
 - sensory-processing
 title: Sensory Processing

@@ -7,10 +7,6 @@ sources:
   - fxa303-week04-age-related-differences-in-white-matter-diffusion-measures
   - fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between
   - fxa303-week04-what-does-autism-look-like-in-the-brain
-- fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual
-- fxa303-week04-age-related-differences-in-white-matter-diffusion-measures
-- fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between
-- fxa303-week04-what-does-autism-look-like-in-the-brain
 tags:
 - brain-connectivity
 title: Brain Connectivity in Autism and Art Production

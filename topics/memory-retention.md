@@ -5,8 +5,6 @@ slug: memory-retention
 sources:
   - fxa202-week03-lesson-fxa202-week03-page-2
   - fxa202-week03-what-smartphone-photography-is-doing-to-our-memories
-- fxa202-week03-lesson-fxa202-week03-page-2
-- fxa202-week03-what-smartphone-photography-is-doing-to-our-memories
 tags:
 - memory-retention
 title: Memory Retention

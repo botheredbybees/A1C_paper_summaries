@@ -5,8 +5,6 @@ slug: emotional-coping-strategies
 sources:
   - fxa202-week03-therapeutic-photography
   - fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children
-- fxa202-week03-therapeutic-photography
-- fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children
 tags:
 - emotional-coping
 title: Emotional Coping Strategies

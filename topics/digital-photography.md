@@ -7,9 +7,6 @@ sources:
   - fxa202-week02-aperture-and-shutter-priority-modes
   - fxa202-week02-welcome-to-week-2-using-your-camera
   - fxa202-week13-shifting-perspectives-exploring-the-intersection-of
-- fxa202-week02-a-beginners-guide-to-photo-editing-with-snapseed
-- fxa202-week02-aperture-and-shutter-priority-modes
-- fxa202-week02-welcome-to-week-2-using-your-camera
 tags:
 - digital-photography
 title: Digital Photography Techniques

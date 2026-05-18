@@ -7,10 +7,6 @@ sources:
   - fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health
   - fxa202-week09-the-largs-pier-a-visual-story-of-grief-and-healing
   - fxa202-week09-you-are-the-best-dancer
-- fxa202-week09-healing-through-art-and-music
-- fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health
-- fxa202-week09-the-largs-pier-a-visual-story-of-grief-and-healing
-- fxa202-week09-you-are-the-best-dancer
 tags:
 - personal-narrative
 title: Healing Through Personal Narratives

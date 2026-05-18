@@ -6,9 +6,6 @@ sources:
   - fxa202-week03-lesson-fxa202-week03-page-4
   - fxa202-week03-lesson-fxa202-week03-week-3
   - fxa202-week06-critical-reflection-on-visual-storytelling-through
-- fxa202-week03-lesson-fxa202-week03-page-4
-- fxa202-week03-lesson-fxa202-week03-week-3
-- fxa202-week06-critical-reflection-on-visual-storytelling-through
 tags:
 - mindfulness
 title: Mindfulness and Therapeutic Photography

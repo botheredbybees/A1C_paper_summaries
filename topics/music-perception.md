@@ -5,8 +5,6 @@ slug: music-perception
 sources:
   - fxa100-week02-hearing-and-music
   - fxa301-week02-are-we-experienced-listeners-a-review-of-the-musical
-- fxa100-week02-hearing-and-music
-- fxa301-week02-are-we-experienced-listeners-a-review-of-the-musical
 tags:
 - music-perception
 title: Music Perception

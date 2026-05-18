@@ -11,14 +11,6 @@ sources:
   - fxa301-week11-activation-of-primary-visual-cortex-by-braille-reading-in
   - fxa303-week02-child-development-fxa303-creative-arts-play-and-mental
   - fxa303-week03-adolescent-development
-- fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining
-- fxa100-week02-music-and-the-damaged-brain
-- fxa100-week02-neuroplastic-effects-in-patients-with-traumatic-brain
-- fxa100-week02-transcript-duration-949
-- fxa100-week02-web-article-thaut-2010
-- fxa100-week04-singing-and-the-brain
-- fxa303-week02-child-development-fxa303-creative-arts-play-and-mental
-- fxa303-week03-adolescent-development
 tags:
 - neuroplasticity
 title: Neuroplasticity in Brain Rehabilitation

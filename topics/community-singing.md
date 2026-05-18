@@ -5,8 +5,6 @@ slug: community-singing
 sources:
   - fxa301-week06-further-evidence-that-singing-fosters-mental-health-and
   - fxa301-week10-sing-your-heart-out-community-singing-as-part-of-mental
-- fxa301-week06-further-evidence-that-singing-fosters-mental-health-and
-- fxa301-week10-sing-your-heart-out-community-singing-as-part-of-mental
 tags:
 - community-singing
 title: Community Singing

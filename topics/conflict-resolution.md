@@ -5,8 +5,6 @@ slug: conflict-resolution-through-arts
 sources:
   - fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts
   - fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts-(2)
-- fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts
-- fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts-(2)
 tags:
 - conflict-resolution
 title: Conflict Resolution Through Arts

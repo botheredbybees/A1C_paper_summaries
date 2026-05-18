@@ -5,8 +5,6 @@ slug: music-therapy-in-dementia-care
 sources:
   - fxa100-week02-lesson-fxa100-week02-page-4-week-2-activities
   - fxa100-week04-lesson-fxa100-week04-page-4-singing-and-participation1
-- fxa100-week02-lesson-fxa100-week02-page-4-week-2-activities
-- fxa100-week04-lesson-fxa100-week04-page-4-singing-and-participation1
 tags:
 - dementia-care-interventions
 title: Music Therapy in Dementia Care

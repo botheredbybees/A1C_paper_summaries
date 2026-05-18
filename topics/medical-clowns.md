@@ -7,10 +7,6 @@ sources:
   - fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective
   - fxa303-week08-more-than-just-an-entertainment-show-identification-of
   - fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an
-- fxa303-week08-exploring-the-usefulness-of-medical-clowns-in-elevating
-- fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective
-- fxa303-week08-more-than-just-an-entertainment-show-identification-of
-- fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an
 tags:
 - medical-clowns
 title: Medical Clowns in Healthcare

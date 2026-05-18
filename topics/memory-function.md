@@ -5,8 +5,6 @@ slug: memory-function-in-dementia
 sources:
   - fxa100-excellence-in-dementia-care--ch40-chapter-14
   - fxa100-week08-web-article-huebner-2012
-- fxa100-excellence-in-dementia-care--ch40-chapter-14
-- fxa100-week08-web-article-huebner-2012
 tags:
 - memory-function
 title: Memory Function in Dementia

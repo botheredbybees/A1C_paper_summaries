@@ -5,9 +5,6 @@ slug: emotional-well-being-through-creative-interventions
 sources:
   - fxa100-week03-music-therapy-increases-social-and-emotional-well-being-in
   - fxa100-week11-the-emotional-response-to-social-dancing-and-walks-in
-- fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple
-- fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the
-- fxa303-week08-the-life-threatened-child-and-the-life-enhancing-clown
 tags:
 - emotional-well-being
 title: Emotional Well-Being Through Creative Interventions

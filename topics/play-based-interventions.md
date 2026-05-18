@@ -5,8 +5,6 @@ slug: play-based-interventions
 sources:
   - fxa303-week04-play-based-interventions-for-mental-health-a-systematic
   - fxa303-week09-lesson-fxa303-week09-page-3-case-studies
-- fxa303-week04-play-based-interventions-for-mental-health-a-systematic
-- fxa303-week09-lesson-fxa303-week09-page-3-case-studies
 tags:
 - play-based-interventions
 title: Play-Based Interventions

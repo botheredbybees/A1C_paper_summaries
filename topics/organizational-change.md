@@ -5,8 +5,6 @@ slug: organizational-change-in-trauma-informed-care
 sources:
   - fxa303-week09-the-trauma-informed-care-and-practice-organisational
   - fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit
-- fxa303-week09-the-trauma-informed-care-and-practice-organisational
-- fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit
 tags:
 - organizational-change
 title: Organizational Change in Trauma-Informed Care

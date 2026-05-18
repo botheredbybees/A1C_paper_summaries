@@ -14,15 +14,6 @@ sources:
   - fxa301-arts-in-health-ch76-3-responsibility
   - fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts
   - fxa301-week01-a-step-by-step-approach-to-the-research-process
-- fxa100-week04-an-introduction-to-research
-- fxa301-arts-in-health-ch29-4-invite-open-responses
-- fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision
-- fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision-(2)
-- fxa301-arts-in-health-ch67-chapter-6
-- fxa301-arts-in-health-ch67-chapter-6-(2)
-- fxa301-arts-in-health-ch76-3-responsibility
-- fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts
-- fxa301-week01-a-step-by-step-approach-to-the-research-process
 tags:
 - research-methods
 title: Research Methods in Healthcare Evaluation

@@ -5,8 +5,6 @@ slug: disability-rights-and-inclusion
 sources:
   - fxa301-week09-lesson-fxa301-week09-page-2
   - fxa303-week04-exploring-the-critiques-of-the-social-model-of-disability
-- fxa301-week09-lesson-fxa301-week09-page-2
-- fxa303-week04-exploring-the-critiques-of-the-social-model-of-disability
 tags:
 - disability-rights
 title: Disability Rights and Inclusion

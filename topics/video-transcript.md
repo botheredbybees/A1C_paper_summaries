@@ -5,8 +5,6 @@ slug: video-transcript-unavailability
 sources:
   - fxa100-week02-transcript-duration-5-50-url-only
   - fxa303-week10-transcript-duration-9-54-url-only
-- fxa100-week02-transcript-duration-5-50-url-only
-- fxa303-week10-transcript-duration-9-54-url-only
 tags:
 - video-transcript
 title: Video Transcript Unavailability

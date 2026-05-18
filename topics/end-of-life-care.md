@@ -6,8 +6,6 @@ sources:
   - fxa202-week10-thinking-differently-about-aged-care
   - fxa301-week03-challenges-in-end-of-life-care-and-bereavement
   - fxa303-week13-humour-interventions-for-patients-in-palliative-carea
-- fxa202-week10-thinking-differently-about-aged-care
-- fxa301-week03-challenges-in-end-of-life-care-and-bereavement
 tags:
 - end-of-life-care
 title: End-of-Life Care

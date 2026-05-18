@@ -8,8 +8,6 @@ sources:
   - fxa100-week11-dance-and-movement-therapeutic-methods-in-management-of
   - fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of
   - fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in
-- fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers
-- fxa100-week09-the-fundamentals-of-person-centered-care-for-individuals
 tags:
 - dementia-management
 title: Dementia Management Through Music Therapy

@@ -11,9 +11,6 @@ sources:
   - fxa303-week04-dsm-5-tr-neurocognitive-disorders-supplement
   - fxa303-week13-
   - fxa303-week13-distinct-mri-atrophy-patterns-in-autopsy-proven-alzheimers
-- fxa100-week01-what-is-alzheimers-disease-video-transcript
-- fxa100-week08-transcript-hayes-j-2011-the-creative-arts-in-dementia-care
-- fxa303-week04-dsm-5-tr-neurocognitive-disorders-supplement
 tags:
 - alzheimer-disease
 title: Alzheimer's Disease

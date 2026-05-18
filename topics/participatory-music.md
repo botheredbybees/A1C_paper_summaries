@@ -5,8 +5,6 @@ slug: participatory-music-for-dementia-care
 sources:
   - fxa100-week04-lesson-fxa100-week04-page-1-welcome-to-week-4
   - fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care
-- fxa100-week04-lesson-fxa100-week04-page-1-welcome-to-week-4
-- fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care
 tags:
 - participatory-music
 title: Participatory Music for Dementia Care

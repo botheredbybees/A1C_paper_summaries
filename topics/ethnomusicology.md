@@ -9,12 +9,6 @@ sources:
   - fxa301-make-arts-for-a-better-life-ch06-1-see-also-closing
   - fxa301-make-arts-for-a-better-life-ch42-156-oxford
   - fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2)
-- fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts
-- fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts-(2)
-- fxa301-make-arts-for-a-better-life-ch05-1-read-your-(2)
-- fxa301-make-arts-for-a-better-life-ch06-1-see-also-closing
-- fxa301-make-arts-for-a-better-life-ch42-156-oxford
-- fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2)
 tags:
 - ethnomusicology
 title: Ethnomusicology

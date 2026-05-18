@@ -7,8 +7,6 @@ sources:
   - fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary
   - fxa303-week11-arts-based-methods-improve-research-data-trauma
   - fxa303-week11-reimagining-wellbeing-using-arts-based-methods-to-address
-- fxa100-week04-writing-a-research-protocol
-- fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary
 tags:
 - arts-based-research
 title: Arts-Based Research

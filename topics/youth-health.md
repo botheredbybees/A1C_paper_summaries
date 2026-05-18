@@ -6,8 +6,6 @@ sources:
   - fxa100-week13-the-activities-specific-balance-confidence-abc-scale-in
   - fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and
   - fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and
-- fxa303-week03-the-physiological-and-psychological-benefits-of-dance-and
-- fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and
 tags:
 - youth-health
 title: Youth Health Through Arts and Dance

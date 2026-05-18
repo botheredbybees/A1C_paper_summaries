@@ -5,9 +5,6 @@ slug: risk-factors-for-dementia
 sources:
   - fxa100-week01-dementia-in-australia
   - fxa303-week03-mental-health-of-adolescents
-- fxa100-week01-dementia-in-australia
-- fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy
-- fxa303-week03-mental-health-of-adolescents
 tags:
 - risk-factors
 title: Risk Factors for Dementia

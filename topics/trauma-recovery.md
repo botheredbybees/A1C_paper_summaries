@@ -16,16 +16,6 @@ sources:
   - fxa303-week09-lesson-fxa303-week09-page-3-case-studies
   - fxa303-week11-healing-arts-safe-place-for-youth
   - fxa303-week11-the-one-thing-that-actually-helps-art-creation-as-a-self
-- fxa202-week06-donna-a-photo-essay
-- fxa202-week09-healing-through-art-and-music
-- fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture
-- fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music
-- fxa301-week10-lesson-fxa301-week10-page-1
-- fxa301-week10-social-action-in-art-therapy-with-veterans
-- fxa303-week01-trauma-aps
-- fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon
-- fxa303-week09-lesson-fxa303-week09-page-1-overview
-- fxa303-week09-lesson-fxa303-week09-page-3-case-studies
 tags:
 - trauma-recovery
 title: Trauma Recovery Through Creative Arts and Therapies

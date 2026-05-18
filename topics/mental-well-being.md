@@ -8,11 +8,6 @@ sources:
   - fxa301-week03-arts-public-health-and-the-national-arts-and-health
   - fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the
   - fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth
-- fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia
-- fxa202-week09-journaling-books-review
-- fxa301-week03-arts-public-health-and-the-national-arts-and-health
-- fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the
-- fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth
 tags:
 - mental-well-being
 title: Mental Well-being Through Creative Practices

@@ -5,8 +5,6 @@ slug: photovoice-methods-in-aged-care
 sources:
   - fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary
   - fxa202-week10-creative-arts-based-research-in-aged-care-photovoice
-- fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary
-- fxa202-week10-creative-arts-based-research-in-aged-care-photovoice
 tags:
 - photovoice-methods
 title: Photovoice Methods in Aged Care

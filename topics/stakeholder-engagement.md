@@ -6,11 +6,6 @@ sources:
   - fxa100-week04-conceptualizing-and-planning-interventions
   - fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well
   - fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well-(2)
-- fxa100-week04-a-step-by-step-approach-to-the-research-process
-- fxa100-week04-conceptualizing-and-planning-interventions
-- fxa100-week04-creative-and-credible-evaluation-for-arts-health-and-well
-- fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well
-- fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well-(2)
 tags:
 - stakeholder-engagement
 title: Stakeholder Engagement

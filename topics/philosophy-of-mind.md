@@ -6,9 +6,6 @@ sources:
   - fxa100-how-we-thnk-about-dementia-ch06-chapter-3
   - fxa100-how-we-thnk-about-dementia-ch12-chapter-4
   - fxa100-how-we-thnk-about-dementia-ch13-chapter-13
-- fxa100-how-we-thnk-about-dementia-ch06-chapter-3
-- fxa100-how-we-thnk-about-dementia-ch12-chapter-4
-- fxa100-how-we-thnk-about-dementia-ch13-chapter-13
 tags:
 - philosophy-of-mind
 title: Philosophy of Mind

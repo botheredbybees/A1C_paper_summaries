@@ -5,8 +5,6 @@ slug: economic-evaluation-of-arts-and-creativity-interventions
 sources:
   - fxa100-week04-arts-and-creativity-interventions-for-improving-health-and
   - fxa100-week06-dementia-and-imagination-a-mixed-methods-protocol-for-arts
-- fxa100-week04-arts-and-creativity-interventions-for-improving-health-and
-- fxa100-week06-dementia-and-imagination-a-mixed-methods-protocol-for-arts
 tags:
 - economic-evaluation
 title: Economic Evaluation of Arts and Creativity Interventions

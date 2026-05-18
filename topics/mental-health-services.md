@@ -6,8 +6,6 @@ sources:
   - fxa301-week03-statement-on-lived-experience
   - fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit
   - fxa303-week13-psychiatric-illness-predicts-poor-outcome-after-surgery-for
-- fxa301-week03-statement-on-lived-experience
-- fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit
 tags:
 - mental-health-services
 title: Mental Health Services

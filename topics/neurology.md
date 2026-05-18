@@ -9,12 +9,6 @@ sources:
   - fxa100-week02-the-power-of-music
   - fxa100-week03-transcript-the-effects-of-music-on-the-brain
   - fxa301-week01-web-article-zuckerman-2009
-- fxa100-week01-living-with-dementia-12-what-is-vascular-dementia
-- fxa100-week01-transcript-alzheimers-society
-- fxa100-week01-transcript-the-science-of-lewy-body-dementia
-- fxa100-week02-the-power-of-music
-- fxa100-week03-transcript-the-effects-of-music-on-the-brain
-- fxa301-week01-web-article-zuckerman-2009
 tags:
 - neurology
 title: Types Of Neurological Dementias

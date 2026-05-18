@@ -5,8 +5,6 @@ slug: laughter-therapy
 sources:
   - fxa301-week08-impact-summary-clown-doctors-australia
   - fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january
-- fxa301-week08-impact-summary-clown-doctors-australia
-- fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january
 tags:
 - laughter-care
 title: Laughter Therapy

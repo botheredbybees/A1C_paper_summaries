@@ -6,9 +6,6 @@ sources:
   - fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing
   - fxa301-week01-robins-i-a-tool-for-assessing-risk-of-bias-in-non
   - fxa301-week01-the-rationale-for-rating-risk-of-bias-should-be-fully
-- fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing
-- fxa301-week01-robins-i-a-tool-for-assessing-risk-of-bias-in-non
-- fxa301-week01-the-rationale-for-rating-risk-of-bias-should-be-fully
 tags:
 - risk-of-bias
 title: Risk Of Bias Assessment

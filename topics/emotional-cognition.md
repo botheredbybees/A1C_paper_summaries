@@ -5,8 +5,6 @@ slug: the-power-of-music-on-emotional-cognition
 sources:
   - fxa100-week02-the-power-of-music
   - fxa100-week03-the-effects-of-music-on-the-brain-video-transcript
-- fxa100-week02-the-power-of-music
-- fxa100-week03-the-effects-of-music-on-the-brain-video-transcript
 tags:
 - emotional-cognition
 title: The Power of Music on Emotional Cognition

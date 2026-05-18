@@ -13,12 +13,6 @@ sources:
   - fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism
   - fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism
   - fxa303-week13-the-delivery-of-person-centered-care-for-people-living-with
-- fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing
-- fxa301-week01-the-rationale-for-rating-risk-of-bias-should-be-fully
-- fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention
-- fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic
-- fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism
-- fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism
 tags:
 - meta-analysis
 title: Effectiveness of Therapeutic Interventions in Specific Populations

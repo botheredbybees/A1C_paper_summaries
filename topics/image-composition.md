@@ -6,9 +6,6 @@ sources:
   - fxa202-week02-negative-space-in-photography-and-positive-space
   - fxa202-week08-how-to-merge-and-combine-images-in-photoshop-(2)
   - fxa202-week09-do-you-struggle-with-constructing-a-photo-story-try-this-3
-- fxa202-week02-negative-space-in-photography-and-positive-space
-- fxa202-week08-how-to-merge-and-combine-images-in-photoshop-(2)
-- fxa202-week09-do-you-struggle-with-constructing-a-photo-story-try-this-3
 tags:
 - image-composition
 title: Image Composition

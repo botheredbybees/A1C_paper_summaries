@@ -18,18 +18,6 @@ sources:
   - fxa303-week10-importance-of-cultural-context-in-designing-arts-programs
   - fxa303-week11-mapping-q-the-university-of-arizona-museum-of-art
   - fxa303-week11-promoting-mental-well-being-and-social-inclusion-through
-- fxa100-creativity-and-communication-ch09-19-starting-out-in-any-creative-endeavour-of-this-nature
-- fxa100-week01-lesson-fxa100-week01-page-3-week-1-activities
-- fxa100-week04-guidelines-for-arts-and-mental-health-projects
-- fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of
-- fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales
-- fxa301-week01-arts-on-prescription-in-sefton-programme-report
-- fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and
-- fxa301-week10-arts-based-therapies-in-the-treatment-of-eating-disorders
-- fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the
-- fxa303-week02-lesson-fxa303-week02-topic-20-20activities-202-copy
-- fxa303-week06-arts-therapies-and-the-mental-health-of-children-and-young
-- fxa303-week10-importance-of-cultural-context-in-designing-arts-programs
 tags:
 - arts-therapy
 title: Arts Therapy

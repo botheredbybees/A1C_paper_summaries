@@ -7,10 +7,6 @@ sources:
   - fxa100-week02-playing-a-musical-instrument-as-a-protective-factor-against
   - fxa100-week08-web-article-huebner-2012
   - fxa100-week09-dance-movement-therapy-for-dementia
-- fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical
-- fxa100-week02-playing-a-musical-instrument-as-a-protective-factor-against
-- fxa100-week08-web-article-huebner-2012
-- fxa100-week09-dance-movement-therapy-for-dementia
 tags:
 - cognitive-health
 title: Cognitive Health and Protective Factors

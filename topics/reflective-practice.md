@@ -5,11 +5,6 @@ slug: reflective-practice-in-creative-and-therapeutic-contexts
 sources:
   - fxa202-week08-week-8-lecture-notes-editing-your-images
   - fxa301-week01-culture-of-inquiry
-- fxa202-week08-week-8-lecture-notes-editing-your-images
-- fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2)
-- fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6
-- fxa301-week01-culture-of-inquiry
-- fxa303-week04-play-interventions-for-neurodivergent-children-and
 tags:
 - reflective-practice
 title: Reflective Practice in Creative and Therapeutic Contexts

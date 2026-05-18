@@ -5,8 +5,6 @@ slug: homelessness
 sources:
   - fxa202-week06-donna-a-photo-essay
   - fxa301-week10-transcript-your-tube-standard-licence
-- fxa202-week06-donna-a-photo-essay
-- fxa301-week10-transcript-your-tube-standard-licence
 tags:
 - homelessness
 title: Homelessness

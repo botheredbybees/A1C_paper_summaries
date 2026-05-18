@@ -7,9 +7,6 @@ sources:
   - fxa301-oxford-textbook-of-creative-arts-ch24-chapter-8
   - fxa301-week11-best-practice-in-making-museums-more-accessible-to-visually
   - fxa301-week11-lesson-fxa301-week11-page-4-week-3-activities
-- fxa100-week07-access-programs-at-the-art-gallery-of-new-south-wales
-- fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26
-- fxa301-oxford-textbook-of-creative-arts-ch24-chapter-8
 tags:
 - cultural-participation
 title: Cultural Participation

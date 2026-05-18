@@ -5,8 +5,6 @@ slug: music-and-health
 sources:
   - fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness
   - fxa301-week06-week-6-activities-fxa301-arts-in-the-community
-- fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness
-- fxa301-week06-week-6-activities-fxa301-arts-in-the-community
 tags:
 - music-health
 title: Music And Health

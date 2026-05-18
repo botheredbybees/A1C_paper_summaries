@@ -6,9 +6,6 @@ sources:
   - fxa100-week03-association-of-music-interventions-with-health-related
   - fxa303-week04-play-based-interventions-for-mental-health-a-systematic
   - fxa303-week09-effectiveness-of-creative-arts-based-interventions-for
-- fxa100-week03-association-of-music-interventions-with-health-related
-- fxa303-week04-play-based-interventions-for-mental-health-a-systematic
-- fxa303-week09-effectiveness-of-creative-arts-based-interventions-for
 tags:
 - systematic-review-meta-analysis
 title: Systematic Reviews and Meta-Analyses of Creative Interventions

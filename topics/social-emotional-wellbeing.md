@@ -5,7 +5,6 @@ slug: social-emotional-wellbeing-in-indigenous-communities
 sources:
   - fxa303-week10-healing-through-culture-aboriginal-young-peoples
   - fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through
-- fxa303-week10-how-country-spirituality-music-and-arts-contribute-to
 tags:
 - social-emotional-wellbeing
 title: Social-Emotional Wellbeing in Indigenous Communities

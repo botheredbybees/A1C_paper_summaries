@@ -6,9 +6,6 @@ sources:
   - fxa303-week04-brief-report-emotion-regulation-in-autism-is-improved-in-a
   - fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves
   - fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)
-- fxa303-week04-brief-report-emotion-regulation-in-autism-is-improved-in-a
-- fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves
-- fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)
 tags:
 - emotion-regulation
 title: Emotion Regulation in Autism

@@ -5,8 +5,6 @@ slug: digital-manipulation-techniques
 sources:
   - fxa202-week08-how-to-merge-and-combine-images-in-photoshop
   - fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture
-- fxa202-week08-how-to-merge-and-combine-images-in-photoshop
-- fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture
 tags:
 - digital-manipulation
 title: Digital Manipulation Techniques

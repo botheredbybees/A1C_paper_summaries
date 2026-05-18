@@ -6,9 +6,6 @@ sources:
   - fxa202-week09-critical-reflection-the-photo-essay
   - fxa202-week10-lesson-fxa202-week10-page-2
   - fxa202-week10-lesson-fxa202-week10-week-10
-- fxa202-week09-critical-reflection-the-photo-essay
-- fxa202-week10-lesson-fxa202-week10-page-2
-- fxa202-week10-lesson-fxa202-week10-week-10
 tags:
 - critical-reflection
 title: Critical Reflection Models

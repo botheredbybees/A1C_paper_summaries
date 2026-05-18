@@ -5,8 +5,6 @@ slug: arts-and-disability
 sources:
   - fxa301-week09-research-overview-arts-and-disability-in-australia
   - fxa301-week09-web-article-australia-2018
-- fxa301-week09-research-overview-arts-and-disability-in-australia
-- fxa301-week09-web-article-australia-2018
 tags:
 - arts-and-disability
 title: Arts and Disability

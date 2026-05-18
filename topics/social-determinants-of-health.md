@@ -7,10 +7,6 @@ sources:
   - fxa301-week03-health-inequalities-and-the-role-of-creative-health
   - fxa301-week03-introduction-to-creative-health-extract
   - fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the
-- fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions-(2)
-- fxa301-week03-health-inequalities-and-the-role-of-creative-health
-- fxa301-week03-introduction-to-creative-health-extract
-- fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the
 tags:
 - social-determinants-of-health
 title: Social Determinants Of Health

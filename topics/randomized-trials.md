@@ -5,8 +5,6 @@ slug: randomized-controlled-trials
 sources:
   - fxa100-week06-art-training-in-dementia-a-randomized-controlled-trial
   - fxa301-week01-the-cochrane-collaborations-tool-for-assessing-risk-of-bias
-- fxa100-week06-art-training-in-dementia-a-randomized-controlled-trial
-- fxa301-week01-the-cochrane-collaborations-tool-for-assessing-risk-of-bias
 tags:
 - randomized-trials
 title: Randomized Controlled Trials

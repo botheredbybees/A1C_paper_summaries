@@ -5,8 +5,6 @@ slug: therapeutic-dancing
 sources:
   - fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons
   - fxa301-week06-therapeutic-dancing-for-parkinsons-disease
-- fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons
-- fxa301-week06-therapeutic-dancing-for-parkinsons-disease
 tags:
 - therapeutic-dancing
 title: Therapeutic Dancing

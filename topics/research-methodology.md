@@ -5,8 +5,6 @@ slug: research-methodology
 sources:
   - fxa100-week04-a-step-by-step-approach-to-the-research-process
   - fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials
-- fxa100-week04-a-step-by-step-approach-to-the-research-process
-- fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials
 tags:
 - research-methodology
 title: Research Methodology

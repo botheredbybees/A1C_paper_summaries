@@ -5,7 +5,6 @@ slug: trauma-informed-practices
 sources:
   - fxa303-week10-fxa303-web-lecture-week-10
   - fxa303-week11-arts-based-methods-improve-research-data-trauma
-- fxa303-week02-lesson-fxa303-week02-topic-activities-2
 tags:
 - trauma-informed-practices
 title: Trauma-Informed Practices

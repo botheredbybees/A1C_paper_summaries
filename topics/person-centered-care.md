@@ -28,25 +28,6 @@ sources:
   - fxa303-week13-elder-clowning-in-long-term-dementia-care-results-of-a
   - fxa303-week13-non-pharmacological-interventions-for-agitation-in-dementia
   - fxa303-week13-the-delivery-of-person-centered-care-for-people-living-with
-- fxa100-creativity-and-communication-ch11-21-giving-creativity-a-shape-creativity-takes-many-forms
-- fxa100-excellence-in-dementia-care--ch10-chapter-15
-- fxa100-week03-transcript-interview-with-alexa-transcript
-- fxa100-week03-transcript-music-memory-the-ipod-project
-- fxa100-week04-dementia-discourse-a-rethink
-- fxa100-week04-dementia-discourse-a-rethink-(2)
-- fxa100-week04-how-to-talk-about-dementia
-- fxa100-week07-house-of-memories-national-museums-liverpool
-- fxa100-week08-transcript-youtube-uk9nnjw4xuuduration
-- fxa100-week09-how-personhood-is-undermined
-- fxa100-week09-implementing-living-room-theatre-activities-for-people-with
-- fxa100-week09-implementing-living-room-theatre-activities-for-people-with-(2)
-- fxa100-week09-key-components-of-person-centered-care-for-people-with
-- fxa100-week09-key-intervention-categories-to-provide-person-centered
-- fxa100-week09-requirements-of-a-caregiver
-- fxa100-week09-testing-the-implementation-of-the-veder-contact-method-a
-- fxa100-week09-the-experience-of-dementia
-- fxa100-week09-the-fundamentals-of-person-centered-care-for-individuals
-- fxa100-week10-transforming-dementia-care-through-theatre
 tags:
 - person-centered-care
 title: Person-Centered Care

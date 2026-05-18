@@ -14,13 +14,6 @@ sources:
   - fxa100-week13-exercise-benefits-on-alzheimers-disease-state-of-the-science
   - fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness
   - fxa303-week13-causes-of-nursing-home-placement-for-older-people-with
-- fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a
-- fxa100-week01-transcript-alzheimers-society
-- fxa100-week01-what-is-alzheimers-disease-video-transcript
-- fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia
-- fxa100-week07-high-prevalence-of-dementia-and-cognitive-impairment-in
-- fxa100-week08-art-and-alzheimer-type-dementia-a-longitudinal-study
-- fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of
 tags:
 - cognitive-decline
 title: Cognitive Decline

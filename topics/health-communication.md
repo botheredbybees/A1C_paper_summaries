@@ -5,8 +5,6 @@ slug: health-communication-in-dementia-care
 sources:
   - fxa100-week04-dementia-discourse-a-rethink-(2)
   - fxa202-week10-fxa202-week-10-web-lecture
-- fxa100-week04-dementia-discourse-a-rethink-(2)
-- fxa202-week10-fxa202-week-10-web-lecture
 tags:
 - health-communication
 title: Health Communication in Dementia Care

@@ -5,8 +5,6 @@ slug: arts-informed-research
 sources:
   - fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to
   - fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to-(2)
-- fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to
-- fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to-(2)
 tags:
 - arts-informed-research
 title: Arts-Informed Research

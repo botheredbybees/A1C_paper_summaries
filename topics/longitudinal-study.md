@@ -7,9 +7,6 @@ sources:
   - fxa100-week08-development-of-a-novel-benchmark-method-to-identify-and
   - fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with
   - fxa303-week11-arts-and-cultural-engagement-reportedly-antisocial-or
-- fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life
-- fxa100-week08-development-of-a-novel-benchmark-method-to-identify-and
-- fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with
 tags:
 - longitudinal-study
 title: Longitudinal Studies in Health Interventions

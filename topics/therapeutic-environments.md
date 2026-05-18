@@ -5,8 +5,6 @@ slug: therapeutic-environments
 sources:
   - fxa202-week10-the-storm-shifting-south-reflections-on-public-baths-in
   - fxa301-bridging-the-creative-arts-therapies-ch01-1-essential
-- fxa202-week10-the-storm-shifting-south-reflections-on-public-baths-in
-- fxa301-bridging-the-creative-arts-therapies-ch01-1-essential
 tags:
 - therapeutic-environments
 title: Therapeutic Environments

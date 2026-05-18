@@ -8,10 +8,6 @@ sources:
   - fxa100-week11-week-11-lecture-benefits-of-dance-and-movement-for-people
   - fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography
   - fxa303-week03-fxa303-week-3-introduction
-- fxa100-week03-listening-and-dementia-care
-- fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care
-- fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography
-- fxa303-week03-fxa303-week-3-introduction
 tags:
 - neural-pathways
 title: Neural Pathways in Dementia and Photography

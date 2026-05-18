@@ -5,8 +5,6 @@ slug: social-participation-through-art
 sources:
   - fxa202-week10-the-reciprocal-influence-of-art-and-aging
   - fxa303-week10-arts-and-refugees-multidisciplinary-perspectives-vol-2
-- fxa202-week10-the-reciprocal-influence-of-art-and-aging
-- fxa303-week10-arts-and-refugees-multidisciplinary-perspectives-vol-2
 tags:
 - social-participation
 title: Social Participation Through Art

@@ -5,8 +5,6 @@ slug: adolescent-brain-maturation
 sources:
   - fxa303-week02-lesson-fxa303-week02-introduction-copy
   - fxa303-week03-adolescent-development
-- fxa303-week02-lesson-fxa303-week02-introduction-copy
-- fxa303-week03-adolescent-development
 tags:
 - brain-maturation
 title: Adolescent Brain Maturation

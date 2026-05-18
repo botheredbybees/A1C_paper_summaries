@@ -8,7 +8,6 @@ sources:
   - fxa301-week11-best-practice-in-making-museums-more-accessible-to-visually
   - fxa301-week11-louvre-abu-dhabi-tactile-studio-inclusive-design-agency
   - fxa301-week11-transcript-youtube-cnjl-fsurmduration
-- fxa100-week07-access-programs-at-the-art-gallery-of-new-south-wales
 tags:
 - inclusive-design
 title: Inclusive Design

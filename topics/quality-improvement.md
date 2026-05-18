@@ -6,8 +6,6 @@ sources:
   - fxa100-week03-implementation-survey-results-phase-iii-music-memory-program
   - fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit
   - fxa303-week13-svedem-the-swedish-dementia-registry-a-tool-for-improving
-- fxa100-week03-implementation-survey-results-phase-iii-music-memory-program
-- fxa303-week09-trauma-informed-care-and-practice-organisational-toolkit
 tags:
 - quality-improvement
 title: Quality Improvement in Healthcare Settings

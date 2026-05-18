@@ -6,8 +6,6 @@ sources:
   - fxa303-week03-supporting-youth-mental-health-with-arts-based-strategies-a
   - fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a
   - fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a-(2)
-- fxa303-week03-supporting-youth-mental-health-with-arts-based-strategies-a
-- fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a
 tags:
 - youth-mental-health
 title: Supporting Youth Mental Health Through Arts-Based Strategies

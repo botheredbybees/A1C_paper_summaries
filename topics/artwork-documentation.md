@@ -5,8 +5,6 @@ slug: artwork-documentation-practices
 sources:
   - fxa202-week08-home-hints-for-artwork-and-object-documentation
   - fxa202-week08-home-hints-for-artwork-and-object-documentation-(2)
-- fxa202-week08-home-hints-for-artwork-and-object-documentation
-- fxa202-week08-home-hints-for-artwork-and-object-documentation-(2)
 tags:
 - artwork-documentation
 title: Artwork Documentation Practices

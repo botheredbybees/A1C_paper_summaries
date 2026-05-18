@@ -9,12 +9,6 @@ sources:
   - fxa303-week10-researching-arts-culture-migration-and-change-a-multi
   - fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)
   - fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)
-- fxa301-week01-the-value-of-arts-and-culture-to-people-and-society-an
-- fxa301-week01-web-article-australia-2022
-- fxa301-week08-transcript-arts-gymnasium-at-belgrade-theatre-coventry
-- fxa303-week10-researching-arts-culture-migration-and-change-a-multi
-- fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)
-- fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)
 tags:
 - arts-and-culture
 title: Arts and Cultural Value

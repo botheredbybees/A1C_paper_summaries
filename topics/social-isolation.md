@@ -6,8 +6,6 @@ sources:
   - fxa100-week07-connecting-with-and-through-art-arts-engagement-for
   - fxa303-week10-diamonds-in-the-backyard-migrant-youth-and-hip-hop-in
   - fxa303-week11-social-isolation-and-connectedness-as-determinants-of-well
-- fxa100-week07-connecting-with-and-through-art-arts-engagement-for
-- fxa303-week10-diamonds-in-the-backyard-migrant-youth-and-hip-hop-in
 tags:
 - social-isolation
 title: Social Isolation Among Marginalized Youth

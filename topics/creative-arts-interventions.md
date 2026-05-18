@@ -10,12 +10,6 @@ sources:
   - fxa303-week04-fxa303-week-4-introduction
   - fxa303-week09-effectiveness-of-creative-arts-based-interventions-for
   - fxa303-week09-the-afloat-project-(2)
-- fxa301-week05-support-programs-ut-md-anderson
-- fxa303-week02-play-creative-arts-and-wellbeing
-- fxa303-week03-creative-arts-interventions-for-stress-management-and
-- fxa303-week04-fxa303-week-4-introduction
-- fxa303-week09-effectiveness-of-creative-arts-based-interventions-for
-- fxa303-week09-the-afloat-project-(2)
 tags:
 - creative-arts-interventions
 title: Creative Arts Interventions

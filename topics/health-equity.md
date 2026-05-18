@@ -9,9 +9,6 @@ sources:
   - fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing
   - fxa303-week11-reimagining-wellbeing-using-arts-based-methods-to-address
   - fxa303-week13-good-health-and-well-being
-- fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions-(2)
-- fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report
-- fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing
 tags:
 - health-equity
 title: Health Equity Through Cultural Programs

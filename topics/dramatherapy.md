@@ -7,10 +7,6 @@ sources:
   - fxa100-week09-lesson-fxa100-week09-page-2-dance-therapy-drama-therapy
   - fxa100-week09-lesson-fxa100-week09-page-4-week-8-activities
   - fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism
-- fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags
-- fxa100-week09-lesson-fxa100-week09-page-2-dance-therapy-drama-therapy
-- fxa100-week09-lesson-fxa100-week09-page-4-week-8-activities
-- fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism
 tags:
 - dramatherapy
 title: Dramatherapy

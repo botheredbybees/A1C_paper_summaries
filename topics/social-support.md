@@ -9,11 +9,6 @@ sources:
   - fxa301-week10-sing-your-heart-out-community-singing-as-part-of-mental
   - fxa303-week09-childrens-play-environment-after-a-disaster-the-great-east
   - fxa303-week11-preliminary-findings-from-mapping-q-an-arts-based-suicide
-- fxa100-week07-house-of-memories-national-museums-liverpool
-- fxa301-week09-stroke-choirs-stroke-recovery-association-nsw
-- fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope
-- fxa301-week10-sing-your-heart-out-community-singing-as-part-of-mental
-- fxa303-week09-childrens-play-environment-after-a-disaster-the-great-east
 tags:
 - social-support
 title: Social Support in Healthcare and Recovery

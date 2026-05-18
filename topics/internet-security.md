@@ -5,8 +5,6 @@ slug: internet-security-and-authentication
 sources:
   - fxa303-week06-web-article-butler-2009
   - fxa303-week06-web-article-linn-2020
-- fxa303-week06-web-article-butler-2009
-- fxa303-week06-web-article-linn-2020
 tags:
 - internet-security
 title: Internet Security and Authentication

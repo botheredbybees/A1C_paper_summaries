@@ -6,9 +6,6 @@ sources:
   - fxa100-week10-lesson-fxa100-week10-page-2-play-and-its-applications-in
   - fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2)
   - fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6
-- fxa100-week10-lesson-fxa100-week10-page-2-play-and-its-applications-in
-- fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2)
-- fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6
 tags:
 - participatory-arts
 title: Participatory Arts in Health and Community

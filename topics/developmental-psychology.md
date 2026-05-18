@@ -7,9 +7,6 @@ sources:
   - fxa303-week04-developmental-psychology-from-infancy-to-adulthood-chapter
   - fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies
   - fxa303-week09-using-creative-techniques-with-children-who-have
-- fxa303-week04-developmental-psychology-from-infancy-to-adulthood-chapter
-- fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies
-- fxa303-week09-using-creative-techniques-with-children-who-have
 tags:
 - developmental-psychology
 title: Developmental Trauma and Healing Through Creative Arts

@@ -20,19 +20,6 @@ sources:
   - fxa303-week10-arts-education-and-society-the-role-of-the-arts-in
   - fxa303-week10-yesterday-i-couldnt-see-tomorrows-sun-shines-now-sharing
   - fxa303-week11-promoting-mental-well-being-and-social-inclusion-through
-- fxa100-week04-engaging-in-community-music-an-introduction
-- fxa100-week04-guidelines-for-arts-and-mental-health-projects
-- fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the
-- fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales
-- fxa100-week07-arts-engagement-for-people-with-dementia-independent
-- fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery
-- fxa100-week08-unlocking-the-door-to-being-there-the-contribution-of
-- fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2
-- fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings
-- fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions
-- fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam
-- fxa303-week10-arts-education-and-society-the-role-of-the-arts-in
-- fxa303-week10-yesterday-i-couldnt-see-tomorrows-sun-shines-now-sharing
 tags:
 - social-inclusion
 title: Social Inclusion Through Arts and Music

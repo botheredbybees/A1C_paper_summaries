@@ -5,8 +5,6 @@ slug: lived-experience-in-service-design
 sources:
   - fxa202-week06-critical-reflection-of-the-development-of-the-finding-joy
   - fxa301-week03-statement-on-lived-experience
-- fxa202-week06-critical-reflection-of-the-development-of-the-finding-joy
-- fxa301-week03-statement-on-lived-experience
 tags:
 - lived-experience
 title: Lived Experience in Service Design

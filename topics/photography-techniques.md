@@ -8,11 +8,6 @@ sources:
   - fxa202-week02-taking-out-of-focus-pictures
   - fxa202-week08-how-to-merge-and-combine-images-in-photoshop-(2)
   - fxa202-week08-lesson-fxa202-week08-page-3
-- fxa202-week02-depth-of-field-the-essential-guide-tips
-- fxa202-week02-negative-space-in-photography-and-positive-space
-- fxa202-week02-taking-out-of-focus-pictures
-- fxa202-week08-how-to-merge-and-combine-images-in-photoshop-(2)
-- fxa202-week08-lesson-fxa202-week08-page-3
 tags:
 - photography-techniques
 title: Photography Techniques

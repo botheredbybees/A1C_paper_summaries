@@ -5,8 +5,6 @@ slug: indigenous-wellbeing-in-australia
 sources:
   - fxa303-week10-cultural-determinants-of-health-for-aboriginal-and-torres
   - fxa303-week10-how-country-spirituality-music-and-arts-contribute-to
-- fxa303-week10-cultural-determinants-of-health-for-aboriginal-and-torres
-- fxa303-week10-how-country-spirituality-music-and-arts-contribute-to
 tags:
 - indigenous-wellbeing
 title: Indigenous Wellbeing in Australia

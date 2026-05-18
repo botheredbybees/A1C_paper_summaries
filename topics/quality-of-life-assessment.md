@@ -5,8 +5,6 @@ slug: quality-of-life-assessment
 sources:
   - fxa301-week01-eq-5d-3l-user-guide
   - fxa301-week01-quality-of-life-assessment-key-issues-in-the-1990s
-- fxa301-week01-eq-5d-3l-user-guide
-- fxa301-week01-quality-of-life-assessment-key-issues-in-the-1990s
 tags:
 - quality-of-life-assessment
 title: Quality Of Life Assessment

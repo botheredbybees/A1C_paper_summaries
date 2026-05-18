@@ -5,8 +5,6 @@ slug: community-cultural-development
 sources:
   - fxa301-oxford-textbook-of-creative-arts-ch22-chapter-7
   - fxa301-oxford-textbook-of-creative-arts-ch23-1-a-research-project-that-examined-how-participation-can-be
-- fxa301-oxford-textbook-of-creative-arts-ch22-chapter-7
-- fxa301-oxford-textbook-of-creative-arts-ch23-1-a-research-project-that-examined-how-participation-can-be
 tags:
 - community-cultural-development
 title: Community-Cultural Development

@@ -5,8 +5,6 @@ slug: museum-collections-in-healthcare
 sources:
   - fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-(2)
   - fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a
-- fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-(2)
-- fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a
 tags:
 - museum-collections
 title: Museum Collections in Healthcare

@@ -6,9 +6,6 @@ sources:
   - fxa100-week07-creating-resources-memory-trees-and-boxes
   - fxa202-therapeutic-photography-ch05-1-photographs-are-used-to-record-inventories-such-as-objects
   - fxa303-week06-using-puppets-with-children-in-narrative-therapy-to
-- fxa100-week07-creating-resources-memory-trees-and-boxes
-- fxa202-therapeutic-photography-ch05-1-photographs-are-used-to-record-inventories-such-as-objects
-- fxa303-week06-using-puppets-with-children-in-narrative-therapy-to
 tags:
 - narrative-therapy
 title: Narrative Therapy

@@ -5,8 +5,6 @@ slug: arts-and-humor-interventions-in-mental-health-care
 sources:
   - fxa301-week01-guidelines-for-arts-and-mental-health-projects-(2)
   - fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent
-- fxa301-week01-guidelines-for-arts-and-mental-health-projects-(2)
-- fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent
 tags:
 - mental-health-care
 title: Arts and Humor Interventions in Mental Health Care

@@ -5,8 +5,6 @@ slug: choir-benefits
 sources:
   - fxa301-week06-sing-while-you-work-the-well-being-benefits-of-workplace
   - fxa301-week09-stroke-choirs-stroke-recovery-association-nsw
-- fxa301-week06-sing-while-you-work-the-well-being-benefits-of-workplace
-- fxa301-week09-stroke-choirs-stroke-recovery-association-nsw
 tags:
 - choir-benefits
 title: Choir Benefits

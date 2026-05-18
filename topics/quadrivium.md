@@ -5,8 +5,6 @@ slug: quadrivium
 sources:
   - fxa301-week06-from-the-quadrivium-to-modern-science
   - fxa301-week06-quadrivium-the-noble-fourfold-way-to-an-understanding-of
-- fxa301-week06-from-the-quadrivium-to-modern-science
-- fxa301-week06-quadrivium-the-noble-fourfold-way-to-an-understanding-of
 tags:
 - quadrivium
 title: Quadrivium

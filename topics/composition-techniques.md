@@ -5,8 +5,6 @@ slug: photographic-composition-techniques
 sources:
   - fxa202-week02-getting-to-know-your-camera
   - fxa202-week02-photography-tips-point-of-view-composition
-- fxa202-week02-getting-to-know-your-camera
-- fxa202-week02-photography-tips-point-of-view-composition
 tags:
 - composition-techniques
 title: Photographic Composition Techniques

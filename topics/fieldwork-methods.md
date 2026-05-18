@@ -5,8 +5,6 @@ slug: ethnographic-fieldwork-methods
 sources:
   - fxa301-make-arts-for-a-better-life-ch05-1-read-your
   - fxa301-make-arts-for-a-better-life-ch05-1-read-your-(2)
-- fxa301-make-arts-for-a-better-life-ch05-1-read-your
-- fxa301-make-arts-for-a-better-life-ch05-1-read-your-(2)
 tags:
 - fieldwork-methods
 title: Ethnographic Fieldwork Methods

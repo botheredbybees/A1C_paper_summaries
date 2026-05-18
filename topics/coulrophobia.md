@@ -5,8 +5,6 @@ slug: coulrophobia-the-fear-of-clowns
 sources:
   - fxa303-week08-fear-of-clowns-an-investigation-into-the-aetiology-of
   - fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective
-- fxa303-week08-fear-of-clowns-an-investigation-into-the-aetiology-of
-- fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective
 tags:
 - coulrophobia
 title: 'Coulrophobia: The Fear of Clowns'

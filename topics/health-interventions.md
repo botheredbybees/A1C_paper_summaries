@@ -10,12 +10,6 @@ sources:
   - fxa301-week05-the-health-and-well-being-potential-of-museums-and-art
   - fxa303-week03-adolescent-health
   - fxa303-week11-music-making-for-health-and-wellbeing-in-youth-justice
-- fxa100-week04-a-step-by-step-approach-to-the-research-process
-- fxa100-week04-an-introduction-to-research
-- fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the
-- fxa301-week01-implementing-and-evaluating-interventions
-- fxa301-week05-the-health-and-well-being-potential-of-museums-and-art
-- fxa303-week03-adolescent-health
 tags:
 - health-interventions
 title: Health Interventions

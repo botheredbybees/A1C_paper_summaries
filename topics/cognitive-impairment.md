@@ -7,8 +7,6 @@ sources:
   - fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers
   - fxa303-week13-activity-activity-personalization-and-well-being-in-nursing
   - fxa303-week13-psychiatric-illness-predicts-poor-outcome-after-surgery-for
-- fxa100-week01-living-with-dementia-12-what-is-vascular-dementia
-- fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers
 tags:
 - cognitive-impairment
 title: Cognitive Impairment in Dementia

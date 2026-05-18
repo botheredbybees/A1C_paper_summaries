@@ -6,9 +6,6 @@ sources:
   - fxa303-week10-health-and-well-being-of-male-international-migrants-and
   - fxa303-week10-researching-arts-culture-migration-and-change-a-multi
   - fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)
-- fxa303-week10-health-and-well-being-of-male-international-migrants-and
-- fxa303-week10-researching-arts-culture-migration-and-change-a-multi
-- fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)
 tags:
 - international-migration
 title: International Migration Studies

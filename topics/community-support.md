@@ -7,8 +7,6 @@ sources:
   - fxa303-week03-5-ways-to-standbyteens-in-support-of-teen-mental-health
   - fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic
   - fxa303-week11-lesson-fxa303-week11-page-2
-- fxa301-week05-museums-for-health-and-wellbeing
-- fxa303-week03-5-ways-to-standbyteens-in-support-of-teen-mental-health
 tags:
 - community-support
 title: Community Support Programs

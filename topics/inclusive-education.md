@@ -8,11 +8,6 @@ sources:
   - fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions
   - fxa303-week04-week-4-activities-neurodiversity-arts-and-play
   - fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental
-- fxa100-week07-for-visitors-with-dementia
-- fxa301-week01-engaging-in-community-music-an-introduction
-- fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions
-- fxa303-week04-week-4-activities-neurodiversity-arts-and-play
-- fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental
 tags:
 - inclusive-education
 title: Inclusive Education

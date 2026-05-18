@@ -6,8 +6,6 @@ sources:
   - fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and
   - fxa303-week02-lesson-fxa303-week02-introduction-copy
   - fxa303-week13-the-neural-basis-of-humour-processing
-- fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and
-- fxa303-week02-lesson-fxa303-week02-introduction-copy
 tags:
 - cognitive-psychology
 title: Cognitive Psychology in Aesthetic Appreciation and Adolescent Development

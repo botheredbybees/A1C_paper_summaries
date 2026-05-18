@@ -5,8 +5,6 @@ slug: environmental-connectivity-in-therapy
 sources:
   - fxa202-week08-week-8-lecture-notes-editing-your-images
   - fxa303-week09-the-afloat-project-(2)
-- fxa202-week08-week-8-lecture-notes-editing-your-images
-- fxa303-week09-the-afloat-project-(2)
 tags:
 - environmental-connectivity
 title: Environmental Connectivity in Therapy

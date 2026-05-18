@@ -6,10 +6,6 @@ sources:
   - fxa202-week13-inhabiting-the-image-photography-therapy-and-re-enactment
   - fxa202-week13-phototherapy-to-increase-self-compassion-in-college-students
   - fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2)
-- fxa202-week03-lesson-fxa202-week03-week-3
-- fxa202-week08-photography-as-self-therapy-an-introduction-for-beginners
-- fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography
-- fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay
 tags:
 - phototherapy
 title: Phototherapy and Therapeutic Photography

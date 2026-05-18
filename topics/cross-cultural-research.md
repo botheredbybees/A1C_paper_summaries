@@ -9,10 +9,6 @@ sources:
   - fxa100-week13-validation-study-of-the-chinese-version
   - fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in
   - fxa303-week10-indigenous-and-traditional-visual-artistic-practices
-- fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and
-- fxa100-week08-development-of-a-novel-benchmark-method-to-identify-and
-- fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in
-- fxa303-week10-indigenous-and-traditional-visual-artistic-practices
 tags:
 - cross-cultural-research
 title: Cross-Cultural Research Invariants

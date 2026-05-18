@@ -5,8 +5,6 @@ slug: well-being-initiatives-through-arts-and-museums
 sources:
   - fxa301-week03-arts-health-and-well-being-in-america
   - fxa301-week05-the-health-and-well-being-potential-of-museums-and-art
-- fxa301-week03-arts-health-and-well-being-in-america
-- fxa301-week05-the-health-and-well-being-potential-of-museums-and-art
 tags:
 - well-being-initiatives
 title: Well-Being Initiatives Through Arts and Museums

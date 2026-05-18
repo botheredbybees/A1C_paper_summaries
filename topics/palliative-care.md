@@ -9,9 +9,6 @@ sources:
   - fxa303-week13-effects-of-clown-activities-on-patients-eligible-for
   - fxa303-week13-humor-assessment-and-interventions-in-palliative-care-a
   - fxa303-week13-humour-interventions-for-patients-in-palliative-carea
-- fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and
-- fxa301-week06-song-of-life-sol-study-protocol-a-multicenter-randomized
-- fxa301-week06-the-art-and-science-of-dancemovement-therapy
 tags:
 - palliative-care
 title: Music Therapy in Palliative Care

@@ -11,14 +11,6 @@ sources:
   - fxa301-week03-the-thrive-toolkit-tools-for-health-research-and-evaluation
   - fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using
   - fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a
-- fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes
-- fxa100-week04-arts-and-creativity-interventions-for-improving-health-and
-- fxa100-week06-dementia-and-imagination-a-mixed-methods-protocol-for-arts
-- fxa100-week10-play-and-people-living-with-dementia-a-humanities-based
-- fxa301-week01-writing-a-research-protocol
-- fxa301-week03-the-thrive-toolkit-tools-for-health-research-and-evaluation
-- fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using
-- fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a
 tags:
 - arts-interventions
 title: Arts Interventions in Healthcare

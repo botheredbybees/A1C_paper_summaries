@@ -5,8 +5,6 @@ slug: authentication
 sources:
   - fxa303-week06-web-article-butler-2009
   - fxa303-week06-web-article-markovits-2020
-- fxa303-week06-web-article-butler-2009
-- fxa303-week06-web-article-markovits-2020
 tags:
 - authentication
 title: Authentication

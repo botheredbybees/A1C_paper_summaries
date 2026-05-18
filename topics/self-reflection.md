@@ -11,13 +11,6 @@ sources:
   - fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a
   - fxa303-week06-therapeutic-puppetry-and-wellbeing
   - fxa303-week11-youth-justice-program-bell-shakespeare
-- fxa100-week08-week-8-lecture-art-therapy-in-dementia-care
-- fxa202-week06-critical-reflection-on-visual-storytelling-through
-- fxa202-week06-winding-paths
-- fxa202-week09-healing-through-art-and-music
-- fxa202-week09-journaling-books-review
-- fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a
-- fxa303-week06-therapeutic-puppetry-and-wellbeing
 tags:
 - self-reflection
 title: Self-Reflection Through Creative Therapies

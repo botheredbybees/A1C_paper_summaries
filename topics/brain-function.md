@@ -16,21 +16,6 @@ sources:
   - fxa301-week01-transcript-it-also-includes-discussion-of-what-can-be
   - fxa301-week02-lecture-on-perception-of-the-arts
   - fxa301-week06-singing-and-wellbeing-ancient-wisdom-modern-proof
-- fxa100-week01-lesson-fxa100-week01-page-1-welcome-to-week-1
-- fxa100-week02-are-people-really-left-brained-or-right-brain
-- fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there
-- fxa100-week02-fxa100-week-2-lecture-music-and-the-brain
-- fxa100-week02-hearing-and-music
-- fxa100-week02-introduction-to-week-2-music-and-the-brain
-- fxa100-week02-lesson-fxa100-week02-page-1-welcome-to-week2
-- fxa100-week02-lesson-fxa100-week02-page-2-hearing-and-music
-- fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind
-- fxa100-week03-transcript-the-effects-of-music-on-the-brain
-- fxa100-week04-transcript-new-super-fast-mri-technique-singing-if-i-only
-- fxa301-week01-lesson-fxa301-week01-page-3-how-do-we-respond-to
-- fxa301-week01-transcript-it-also-includes-discussion-of-what-can-be
-- fxa301-week02-lecture-on-perception-of-the-arts
-- fxa301-week06-singing-and-wellbeing-ancient-wisdom-modern-proof
 tags:
 - brain-function
 title: Music's Impact on Brain Function

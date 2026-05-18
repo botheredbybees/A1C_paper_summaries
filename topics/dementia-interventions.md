@@ -6,9 +6,6 @@ sources:
   - fxa100-week07-im-still-here-a-breakthrough-approach-to-understanding
   - fxa100-week09-key-components-of-person-centered-care-for-people-with
   - fxa100-week09-key-intervention-categories-to-provide-person-centered
-- fxa100-week07-im-still-here-a-breakthrough-approach-to-understanding
-- fxa100-week09-key-components-of-person-centered-care-for-people-with
-- fxa100-week09-key-intervention-categories-to-provide-person-centered
 tags:
 - dementia-interventions
 title: Person-Centered Care in Dementia Interventions

@@ -5,7 +5,6 @@ slug: voxel-based-morphometry-in-neurodevelopmental-disorders
 sources:
   - fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians
   - fxa303-week13-distinct-mri-atrophy-patterns-in-autopsy-proven-alzheimers
-- fxa303-week04-distinct-regions-of-the-cerebellum-show-gray-matter
 tags:
 - voxel-based-morphometry
 title: Voxel-Based Morphometry in Neurodevelopmental Disorders

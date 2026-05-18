@@ -6,8 +6,6 @@ sources:
   - fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what
   - fxa100-week06-visual-arts-and-the-brain
   - fxa100-week13-hearing-what-the-body-feels-auditory-encoding-of-rhythmic
-- fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what
-- fxa100-week06-visual-arts-and-the-brain
 tags:
 - embodied-cognition
 title: Embodied Cognition

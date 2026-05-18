@@ -8,10 +8,6 @@ sources:
   - fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project
   - fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community
   - fxa303-week11-the-power-of-recognition-a-qualitative-study-of-social
-- fxa100-week04-singing-and-participation
-- fxa301-week06-engaging-with-music-and-dance
-- fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project
-- fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community
 tags:
 - social-wellbeing
 title: Arts Participation and Social Wellbeing

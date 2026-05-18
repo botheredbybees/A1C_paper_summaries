@@ -7,10 +7,6 @@ sources:
   - fxa303-week04-play-based-interventions-for-mental-health-a-systematic
   - fxa303-week09-effectiveness-of-creative-arts-based-interventions-for
   - fxa303-week09-exploring-child-centered-play-therapy-and-trauma-a
-- fxa100-week04-arts-in-health-designing-and-researching-interventions
-- fxa303-week04-play-based-interventions-for-mental-health-a-systematic
-- fxa303-week09-effectiveness-of-creative-arts-based-interventions-for
-- fxa303-week09-exploring-child-centered-play-therapy-and-trauma-a
 tags:
 - mental-health-outcomes
 title: Creative Arts and Play-Based Interventions for Mental Health

@@ -11,14 +11,6 @@ sources:
   - fxa301-week08-health-related-effects-of-creative-and-expressive-writing
   - fxa301-week08-transcript-the-video-below-relates-the-experiences-of
   - fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the
-- fxa202-week05-images-as-writing-prompts
-- fxa202-week05-stream-of-consciousness
-- fxa202-week05-week-5-introduction-to-storytelling
-- fxa202-week09-personal-storytelling-and-memoir-writing
-- fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental
-- fxa301-week08-health-related-effects-of-creative-and-expressive-writing
-- fxa301-week08-transcript-the-video-below-relates-the-experiences-of
-- fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the
 tags:
 - creative-writing
 title: Creative Writing as a Therapeutic Tool

@@ -5,8 +5,6 @@ slug: arts-integration-in-healthcare
 sources:
   - fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative
   - fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative-(2)
-- fxa301-week03-the-role-of-the-arts-in-healthcare-transforming-lives
-- fxa303-week10-importance-of-cultural-context-in-designing-arts-programs
 tags:
 - arts-integration
 title: Arts Integration in Healthcare

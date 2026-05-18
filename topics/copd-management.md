@@ -5,8 +5,6 @@ slug: singing-as-a-copd-management-tool
 sources:
   - fxa100-week04-singing-for-better-breathing-transcript
   - fxa100-week04-transcript-singing-for-better-breathing
-- fxa100-week04-singing-for-better-breathing-transcript
-- fxa100-week04-transcript-singing-for-better-breathing
 tags:
 - copd-management
 title: Singing as a COPD Management Tool

@@ -10,9 +10,6 @@ sources:
   - fxa303-week13-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
   - fxa303-week13-the-complexities-of-implementing-an-lgbt-inclusion-scheme
   - fxa303-week13-the-sydney-multisite-intervention-of-laughterbosses-and
-- fxa100-week03-final-report-wisconsin-music-memory-program-student
-- fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a
-- fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
 tags:
 - nursing-homes
 title: Interventions for Dementia in Nursing Homes

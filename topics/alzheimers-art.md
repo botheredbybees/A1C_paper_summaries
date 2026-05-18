@@ -5,8 +5,6 @@ slug: art-as-a-window-into-the-experience-of-alzheimer-s-disease
 sources:
   - fxa100-week06-paintings-of-an-artist-with-alzheimers-disease
   - fxa100-week06-powerful-self-portraits-reveal-artists-descent-into
-- fxa100-week06-paintings-of-an-artist-with-alzheimers-disease
-- fxa100-week06-powerful-self-portraits-reveal-artists-descent-into
 tags:
 - alzheimers-art
 title: Art as a Window into the Experience of Alzheimer's Disease

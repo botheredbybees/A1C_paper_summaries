@@ -10,13 +10,6 @@ sources:
   - fxa301-week01-transcript-for-this-weeks-e-tivity-you-should-watch-the
   - fxa301-week06-case-studies-of-community-projects-big-noise-sistema
   - fxa301-week06-playing-for-their-lives-the-global-el-sistema-movement-for
-- fxa100-week09-applied-theatre-problems-and-possibilities
-- fxa301-make-arts-for-a-better-life-ch06-1-see-also-closing
-- fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals-(2)
-- fxa301-make-arts-for-a-better-life-ch42-156-oxford
-- fxa301-week01-transcript-for-this-weeks-e-tivity-you-should-watch-the
-- fxa301-week06-case-studies-of-community-projects-big-noise-sistema
-- fxa301-week06-playing-for-their-lives-the-global-el-sistema-movement-for
 tags:
 - community-development
 title: Community Development through Arts and Music

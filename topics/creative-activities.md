@@ -6,9 +6,6 @@ sources:
   - fxa100-creativity-and-communication-ch09-19-starting-out-in-any-creative-endeavour-of-this-nature
   - fxa100-week08-creativity-and-communication-in-persons-with-dementia-a
   - fxa100-week08-the-use-of-creative-activities-in-dementia-in-residential
-- fxa100-creativity-and-communication-ch09-19-starting-out-in-any-creative-endeavour-of-this-nature
-- fxa100-week08-creativity-and-communication-in-persons-with-dementia-a
-- fxa100-week08-the-use-of-creative-activities-in-dementia-in-residential
 tags:
 - creative-activities
 title: Creative Activities for Persons with Dementia

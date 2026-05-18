@@ -5,8 +5,6 @@ slug: cognitive-growth-across-developmental-stages
 sources:
   - fxa303-week02-infancy-and-the-early-years
   - fxa303-week03-adolescent-health
-- fxa303-week02-infancy-and-the-early-years
-- fxa303-week03-adolescent-health
 tags:
 - cognitive-growth
 title: Cognitive Growth Across Developmental Stages

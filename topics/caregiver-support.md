@@ -9,10 +9,6 @@ sources:
   - fxa100-week07-transcript-artz-museum-program-for-alzheimers-url-only
   - fxa100-week13-emotion-work-in-caregiving-the-role-of-technology-to
   - fxa303-week13-reminiscence-therapy-for-dementia
-- fxa100-week03-alzheimers-disease-music-engagement-quality-of-life
-- fxa100-week04-dementia-language-guidelines
-- fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-(2)
-- fxa100-week07-transcript-artz-museum-program-for-alzheimers-url-only
 tags:
 - caregiver-support
 title: Caregiver Support in Dementia Management

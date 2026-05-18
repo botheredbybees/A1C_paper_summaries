@@ -6,9 +6,6 @@ sources:
   - fxa100-week04-singing-and-participation
   - fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes
   - fxa301-week10-a-systematic-review-of-mental-health-and-wellbeing-outcomes
-- fxa100-week04-singing-and-participation
-- fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes
-- fxa301-week10-a-systematic-review-of-mental-health-and-wellbeing-outcomes
 tags:
 - group-singing
 title: Group Singing

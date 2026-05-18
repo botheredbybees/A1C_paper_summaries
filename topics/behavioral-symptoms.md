@@ -12,8 +12,6 @@ sources:
   - fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a
   - fxa303-week13-causes-of-nursing-home-placement-for-older-people-with
   - fxa303-week13-intervention-of-companion-clowns-in-a-special-care-unit-a-1
-- fxa100-week09-dance-movement-therapy-for-dementia
-- fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a
 tags:
 - behavioral-symptoms
 title: Behavioral and Psychological Symptoms in Dementia Care

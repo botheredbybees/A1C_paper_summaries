@@ -6,8 +6,6 @@ sources:
   - fxa301-week01-web-article-australia-2023
   - fxa301-week02-current-emotion-research-in-music-psychology
   - fxa301-week11-the-museum-is-the-refugees-home
-- fxa301-week01-web-article-australia-2023
-- fxa301-week02-current-emotion-research-in-music-psychology
 tags:
 - cultural-impact
 title: Cultural Impact of Artistic Wellbeing

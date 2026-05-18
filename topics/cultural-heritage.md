@@ -6,8 +6,6 @@ sources:
   - fxa301-week05-cork-as-canvas-exploring-intersections-of-citizenship-and
   - fxa301-week05-the-health-and-well-being-potential-of-museums-and-art
   - fxa301-week11-barrier-free-accessibility-at-the-kunsthistorisches-museum
-- fxa301-week05-cork-as-canvas-exploring-intersections-of-citizenship-and
-- fxa301-week05-the-health-and-well-being-potential-of-museums-and-art
 tags:
 - cultural-heritage
 title: Cultural Heritage and Community Well-Being

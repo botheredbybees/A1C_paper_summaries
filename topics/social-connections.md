@@ -5,8 +5,6 @@ slug: social-connections-through-arts-and-therapy
 sources:
   - fxa301-week03-arts-public-health-and-the-national-arts-and-health
   - fxa303-week04-arts-therapies-research-and-practice-with-persons-on-the
-- fxa301-week03-arts-public-health-and-the-national-arts-and-health
-- fxa303-week04-arts-therapies-research-and-practice-with-persons-on-the
 tags:
 - social-connections
 title: Social Connections Through Arts and Therapy

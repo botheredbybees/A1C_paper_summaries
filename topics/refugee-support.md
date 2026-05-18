@@ -10,8 +10,6 @@ sources:
   - fxa301-week11-transcript-connecting-refugees-through-creativity-sydney
   - fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the
   - fxa303-week10-importance-of-cultural-context-in-designing-arts-programs
-- fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the
-- fxa303-week10-importance-of-cultural-context-in-designing-arts-programs
 tags:
 - refugee-support
 title: Refugee Support through Creative Arts Programs

@@ -7,9 +7,6 @@ sources:
   - fxa100-week01-what-is-alzheimers-disease-video-transcript
   - fxa100-week01-what-is-frontotemporal-dementia
   - fxa303-week13-distinct-mri-atrophy-patterns-in-autopsy-proven-alzheimers
-- fxa100-week01-the-science-of-lewy-body-dementia-video-transcript
-- fxa100-week01-what-is-alzheimers-disease-video-transcript
-- fxa100-week01-what-is-frontotemporal-dementia
 tags:
 - neurodegenerative-disorders
 title: Neurodegenerative Disorders

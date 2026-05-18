@@ -5,8 +5,6 @@ slug: dementia-friendly-communities
 sources:
   - fxa100-excellence-in-dementia-care--ch33-1-place-covers-the-person
   - fxa100-excellence-in-dementia-care--ch35-1-understand-that-any-business
-- fxa100-excellence-in-dementia-care--ch33-1-place-covers-the-person
-- fxa100-excellence-in-dementia-care--ch35-1-understand-that-any-business
 tags:
 - dementia-friendly-communities
 title: Dementia-Friendly Communities

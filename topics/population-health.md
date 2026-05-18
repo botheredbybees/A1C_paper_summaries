@@ -5,8 +5,6 @@ slug: recreational-arts-engagement-and-mental-wellbeing
 sources:
   - fxa301-week01-how-are-health-behaviours-associated-with-mental-wellbeing
   - fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the
-- fxa301-week01-how-are-health-behaviours-associated-with-mental-wellbeing
-- fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the
 tags:
 - population-health
 title: Recreational Arts Engagement and Mental Wellbeing

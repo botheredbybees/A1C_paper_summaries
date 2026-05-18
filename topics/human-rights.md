@@ -5,8 +5,6 @@ slug: human-rights-in-arts-and-community-well-being
 sources:
   - fxa301-week09-rights-of-people-with-disability
   - fxa301-week11-7-art-initiatives-that-are-transforming-the-lives-of
-- fxa301-make-arts-for-a-better-life-ch06-1-see-also-closing
-- fxa301-make-arts-for-a-better-life-ch17-1-for-further-study-on-communication-channels
 tags:
 - human-rights
 title: Human Rights in Arts and Community Well-being

@@ -5,8 +5,6 @@ slug: research-protocols
 sources:
   - fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production
   - fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production-(2)
-- fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production
-- fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production-(2)
 tags:
 - research-protocols
 title: Research Protocols

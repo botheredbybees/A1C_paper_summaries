@@ -5,8 +5,6 @@ slug: collective-behavior-in-mosh-pits
 sources:
   - fxa100-week02-moshing-with-physics-jesse-silverberg-tedxyale-video
   - fxa100-week02-transcript-moshing-with-physics-jesse-silverberg-tedxyale
-- fxa100-week02-moshing-with-physics-jesse-silverberg-tedxyale-video
-- fxa100-week02-transcript-moshing-with-physics-jesse-silverberg-tedxyale
 tags:
 - collective-behavior
 title: Collective Behavior in Mosh Pits

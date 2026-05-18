@@ -5,10 +5,6 @@ slug: co-production-in-arts-and-health
 sources:
   - fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well
   - fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well-(2)
-- fxa100-week04-creative-and-credible-evaluation-for-arts-health-and-well
-- fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well
-- fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well-(2)
-- fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2
 tags:
 - co-production
 title: Co-production in Arts and Health

@@ -5,8 +5,6 @@ slug: social-emotional-learning
 sources:
   - fxa301-week01-engaging-in-community-music-an-introduction
   - fxa303-week02-lesson-fxa303-week02-introduction-copy
-- fxa301-week01-engaging-in-community-music-an-introduction
-- fxa303-week02-lesson-fxa303-week02-introduction-copy
 tags:
 - social-emotional-learning
 title: Social-Emotional Learning

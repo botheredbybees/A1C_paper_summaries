@@ -7,9 +7,6 @@ sources:
   - fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake
   - fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2)
   - fxa303-week11-arts-and-cultural-engagement-reportedly-antisocial-or
-- fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35-(2)
-- fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake
-- fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2)
 tags:
 - cultural-activities
 title: The Impact of Cultural Activities on Health and Well-being

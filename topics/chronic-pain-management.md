@@ -5,8 +5,6 @@ slug: chronic-pain-management-through-creative-therapies
 sources:
   - fxa202-week09-healing-through-art-and-music
   - fxa301-week08-lesson-fxa301-week07-page-3-hm
-- fxa202-week09-healing-through-art-and-music
-- fxa301-week08-lesson-fxa301-week07-page-3-hm
 tags:
 - chronic-pain-management
 title: Chronic Pain Management Through Creative Therapies

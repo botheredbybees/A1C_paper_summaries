@@ -6,9 +6,6 @@ sources:
   - fxa100-week10-web-article-brooker-2013
   - fxa202-week10-week-10-lecture
   - fxa301-week01-week-1-activities-page-video
-- fxa100-week10-web-article-brooker-2013
-- fxa202-week10-week-10-lecture
-- fxa301-week01-week-1-activities-page-video
 tags:
 - student-engagement
 title: Student Engagement in Online Learning

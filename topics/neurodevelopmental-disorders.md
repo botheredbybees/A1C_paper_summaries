@@ -7,10 +7,6 @@ sources:
   - fxa303-week04-lesson-fxa303-week04-page-1-week-4-overview
   - fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder
   - fxa303-week04-neurobiology-of-autism-spectrum-disorders
-- fxa303-week04-distinct-regions-of-the-cerebellum-show-gray-matter
-- fxa303-week04-lesson-fxa303-week04-page-1-week-4-overview
-- fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder
-- fxa303-week04-neurobiology-of-autism-spectrum-disorders
 tags:
 - neurodevelopmental-disorders
 title: Neurodevelopmental Disorders

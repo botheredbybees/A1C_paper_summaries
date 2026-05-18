@@ -7,8 +7,6 @@ sources:
   - fxa100-week13-measuring-the-care-risk-in-older-adults-with-dementia-a
   - fxa301-week01-missing-out-creative-ageing-and-men
   - fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention
-- fxa301-week01-missing-out-creative-ageing-and-men
-- fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention
 tags:
 - older-adults
 title: Falls Prevention in Older Adults

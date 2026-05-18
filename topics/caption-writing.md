@@ -7,10 +7,6 @@ sources:
   - fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling
   - fxa202-week05-week-5-introduction-to-storytelling
   - fxa202-week06-lesson-fxa202-week06-page-4
-- fxa202-week05-introduction-to-visual-storytelling
-- fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling
-- fxa202-week05-week-5-introduction-to-storytelling
-- fxa202-week06-lesson-fxa202-week06-page-4
 tags:
 - caption-writing
 title: Visual Storytelling Through Caption Writing

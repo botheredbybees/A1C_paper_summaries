@@ -5,8 +5,6 @@ slug: identity-crisis-through-art-and-psychosocial-development
 sources:
   - fxa100-week06-transcript-art-therapy-has-many-faces
   - fxa303-week02-the-psychosocial-development-theory-of-erik-erikson
-- fxa100-week06-transcript-art-therapy-has-many-faces
-- fxa303-week02-the-psychosocial-development-theory-of-erik-erikson
 tags:
 - identity-crisis
 title: Identity Crisis Through Art and Psychosocial Development

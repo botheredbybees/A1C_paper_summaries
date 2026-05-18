@@ -8,8 +8,6 @@ sources:
   - fxa303-week13-effects-of-clown-activities-on-patients-eligible-for
   - fxa303-week13-intervention-of-companion-clowns-in-a-special-care-unit-a-1
   - fxa303-week13-seriously-foolish-and-foolishly-serious-the-art-and
-- fxa303-week08-clown-therapy-a-drama-therapy-approach-to-addiction-and
-- fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic
 tags:
 - clown-therapy
 title: Clown Therapy

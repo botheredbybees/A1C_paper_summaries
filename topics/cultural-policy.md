@@ -5,8 +5,6 @@ slug: cultural-policy
 sources:
   - fxa301-week01-peer-handbook-for-assessment-panels
   - fxa301-week03-revive-a-place-for-every-story-a-story-for-every-place
-- fxa301-week01-peer-handbook-for-assessment-panels
-- fxa301-week03-revive-a-place-for-every-story-a-story-for-every-place
 tags:
 - cultural-policy
 title: Cultural Policy

@@ -8,9 +8,6 @@ sources:
   - fxa303-week13-laughter-and-humour-interventions-for-well-being-in-older
   - fxa303-week13-the-effect-of-humor-on-elder-mental-and-physical-health
   - fxa303-week13-the-sydney-multisite-intervention-of-laughterbosses-and
-- fxa100-creativity-and-communication-ch07-7-making-it-all-up-improvisation-and-other-dramas-john
-- fxa303-play-for-health-across-the-lifespan-ch02-chapter-8
-- fxa303-week08-lesson-fxa303-week08-page-3-therapeutic-clowning
 tags:
 - humor-therapy
 title: Humor Therapy

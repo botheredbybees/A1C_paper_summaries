@@ -5,8 +5,6 @@ slug: puppetry-in-creative-arts-therapy
 sources:
   - fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental
   - fxa303-week06-overview-fxa303-creative-arts-play-and-mental-wellbeing
-- fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental
-- fxa303-week06-overview-fxa303-creative-arts-play-and-mental-wellbeing
 tags:
 - puppetry
 title: Puppetry In Creative Arts Therapy

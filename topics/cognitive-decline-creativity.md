@@ -5,8 +5,6 @@ slug: cognitive-decline-and-creativity
 sources:
   - fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia-(2)
   - fxa100-week06-paintings-of-an-artist-with-alzheimers-disease
-- fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia-(2)
-- fxa100-week06-paintings-of-an-artist-with-alzheimers-disease
 tags:
 - cognitive-decline-creativity
 title: Cognitive Decline and Creativity

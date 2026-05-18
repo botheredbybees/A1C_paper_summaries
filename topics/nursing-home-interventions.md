@@ -5,8 +5,6 @@ slug: living-room-theatre-activities-for-dementia-patients
 sources:
   - fxa100-week09-implementing-living-room-theatre-activities-for-people-with
   - fxa100-week09-implementing-living-room-theatre-activities-for-people-with-(2)
-- fxa100-week09-implementing-living-room-theatre-activities-for-people-with
-- fxa100-week09-implementing-living-room-theatre-activities-for-people-with-(2)
 tags:
 - nursing-home-interventions
 title: Living Room Theatre Activities for Dementia Patients

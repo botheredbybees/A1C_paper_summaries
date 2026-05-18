@@ -5,8 +5,6 @@ slug: visual-storytelling-in-legal-education
 sources:
   - fxa202-week01-lesson-fxa202-week01-page-4
   - fxa202-week02-lesson-fxa202-week02-page-4
-- fxa202-week01-lesson-fxa202-week01-page-4
-- fxa202-week02-lesson-fxa202-week02-page-4
 tags:
 - discussion-board
 title: Visual Storytelling in Legal Education

@@ -6,8 +6,6 @@ sources:
   - fxa100-week13-effects-of-neuromuscular-exercise-and-dance-therapy-on
   - fxa301-week06-therapeutic-dancing-for-parkinsons-disease
   - fxa301-week06-transcript-gait-training-for-parkinsons-patient-using-music
-- fxa301-week06-therapeutic-dancing-for-parkinsons-disease
-- fxa301-week06-transcript-gait-training-for-parkinsons-patient-using-music
 tags:
 - physical-therapy
 title: Physical Therapy for Parkinson's Disease

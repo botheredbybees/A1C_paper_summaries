@@ -34,16 +34,6 @@ sources:
   - fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with
   - fxa301-week06-promoting-wellbeing-and-health-through-active-participation
   - fxa301-week06-the-art-and-science-of-dancemovement-therapy
-- fxa100-creativity-and-communication-ch06-5-moving-in-the-moment-dance-john-killick-in-the-previous
-- fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags
-- fxa100-week09-lesson-fxa100-week09-page-2-dance-therapy-drama-therapy
-- fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and
-- fxa100-week09-transcript-this-video-clip-from-the-american-dance-therapy
-- fxa301-week03-transcript-youtube-5utv1ergbs8
-- fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing
-- fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with
-- fxa301-week06-promoting-wellbeing-and-health-through-active-participation
-- fxa301-week06-the-art-and-science-of-dancemovement-therapy
 tags:
 - dance-therapy
 title: Dance Therapy

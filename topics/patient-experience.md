@@ -8,9 +8,6 @@ sources:
   - fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and
   - fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults
   - fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent
-- fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and
-- fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults
-- fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent
 tags:
 - patient-experience
 title: Patient Experience in Healthcare Interventions

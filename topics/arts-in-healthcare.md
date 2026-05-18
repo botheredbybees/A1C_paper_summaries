@@ -11,14 +11,6 @@ sources:
   - fxa301-week01-is-there-compelling-evidence-for-using-the-arts-in-health
   - fxa301-week01-validation-of-the-arts-observational-scale-for-the
   - fxa301-week03-implementing-creative-health
-- fxa100-week04-mindsong-transcript
-- fxa100-week10-lesson-fxa100-week10-page-4-week-9-activities
-- fxa100-week10-week-10-lecture-theatre-and-play-in-dementia-care
-- fxa301-arts-in-health-ch04-48-haldane-d
-- fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment
-- fxa301-week01-is-there-compelling-evidence-for-using-the-arts-in-health
-- fxa301-week01-validation-of-the-arts-observational-scale-for-the
-- fxa301-week03-implementing-creative-health
 tags:
 - arts-in-healthcare
 title: Arts in Healthcare

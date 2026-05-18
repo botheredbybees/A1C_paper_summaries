@@ -7,9 +7,6 @@ sources:
   - fxa202-week08-journal-and-visual-research-guidelines
   - fxa301-week01-arts-projects-for-individuals-and-groups
   - fxa301-week11-projects-art-beyond-sight
-- fxa100-week02-history-of-music-therapy
-- fxa202-week08-journal-and-visual-research-guidelines
-- fxa301-week01-arts-projects-for-individuals-and-groups
 tags:
 - professional-development
 title: Professional Development in Music Therapy

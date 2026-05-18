@@ -12,14 +12,6 @@ sources:
   - fxa303-week06-puppets-facilitate-attention-to-social-cues-in-children
   - fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for
   - fxa303-week09-using-creative-techniques-with-children-who-have
-- fxa100-week04-music-as-therapy-and-health-promotion
-- fxa100-week04-the-ripple-effect-towards-researching-improvisational-music
-- fxa100-week09-personhood-maintained
-- fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1
-- fxa303-week04-play-therapy-in-children-with-autism-its-role-implications
-- fxa303-week06-puppets-facilitate-attention-to-social-cues-in-children
-- fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for
-- fxa303-week09-using-creative-techniques-with-children-who-have
 tags:
 - therapeutic-interventions
 title: Music Therapy and Creative Arts Interventions

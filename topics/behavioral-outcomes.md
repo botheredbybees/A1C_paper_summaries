@@ -6,8 +6,6 @@ sources:
   - fxa100-week13-music-interventions-for-people-with-dementia-a-review-of
   - fxa303-week04-impact-of-child-centered-play-therapy-intervention-on
   - fxa303-week08-exploring-the-usefulness-of-medical-clowns-in-elevating
-- fxa303-week04-impact-of-child-centered-play-therapy-intervention-on
-- fxa303-week08-exploring-the-usefulness-of-medical-clowns-in-elevating
 tags:
 - behavioral-outcomes
 title: Behavioral Outcomes in Therapeutic Interventions

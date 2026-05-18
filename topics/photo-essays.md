@@ -8,11 +8,6 @@ sources:
   - fxa202-week05-lesson-fxa202-week05-chapter-2-beginnings-and-endings
   - fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays
   - fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2)
-- fxa202-week01-week-1-lecture-transcript
-- fxa202-week02-lesson-fxa202-week02-creative-writing
-- fxa202-week05-lesson-fxa202-week05-chapter-2-beginnings-and-endings
-- fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays
-- fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2)
 tags:
 - photo-essays
 title: Photo Essays

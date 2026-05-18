@@ -5,8 +5,6 @@ slug: risk-of-bias-in-non-randomized-studies
 sources:
   - fxa301-week01-risk-of-bias-in-non-randomized-studies-of-interventions
   - fxa301-week01-robins-i-a-tool-for-assessing-risk-of-bias-in-non
-- fxa301-week01-risk-of-bias-in-non-randomized-studies-of-interventions
-- fxa301-week01-robins-i-a-tool-for-assessing-risk-of-bias-in-non
 tags:
 - non-randomized-studies
 title: Risk Of Bias In Non-Randomized Studies

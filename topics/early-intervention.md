@@ -7,9 +7,6 @@ sources:
   - fxa303-week04-missed-early-intervention-opportunities-for-children-with
   - fxa303-week04-neurodiversity-and-the-autism-spectrum
   - fxa303-week13-practical-recommendations-for-timely-accurate-diagnosis-of
-- fxa303-week02-fxa303-week-2-child-development-and-creative-arts
-- fxa303-week04-missed-early-intervention-opportunities-for-children-with
-- fxa303-week04-neurodiversity-and-the-autism-spectrum
 tags:
 - early-intervention
 title: Early Intervention Strategies

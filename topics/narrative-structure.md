@@ -5,8 +5,6 @@ slug: components-of-visual-storytelling
 sources:
   - fxa202-week06-week-six-lecture-components-of-visual-storytelling
   - fxa202-week06-week-six-lecture-components-of-visual-storytelling-(2)
-- fxa202-week06-week-six-lecture-components-of-visual-storytelling
-- fxa202-week06-week-six-lecture-components-of-visual-storytelling-(2)
 tags:
 - narrative-structure
 title: Components Of Visual Storytelling

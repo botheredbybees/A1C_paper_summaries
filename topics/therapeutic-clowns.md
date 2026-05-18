@@ -8,9 +8,6 @@ sources:
   - fxa303-week08-therapeutic-clowns-in-pediatrics-a-systematic-review-and
   - fxa303-week13-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
   - fxa303-week13-therapeutic-clowns-in-pediatrics-a-systematic-review-and
-- fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
-- fxa303-week08-physiological-and-emotional-responses-of-disabled-children
-- fxa303-week08-therapeutic-clowns-in-pediatrics-a-systematic-review-and
 tags:
 - therapeutic-clowns
 title: Therapeutic Clowns

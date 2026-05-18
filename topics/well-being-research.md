@@ -9,11 +9,6 @@ sources:
   - fxa202-week10-research-and-evidence-in-arts-health-and-well-being
   - fxa202-week13-different-but-connected-participatory-action-research-using
   - fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness
-- fxa202-week10-arts-health-and-well-being-a-critical-perspective-on
-- fxa202-week10-conclusions-and-implications-for-future-research
-- fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow
-- fxa202-week10-research-and-evidence-in-arts-health-and-well-being
-- fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness
 tags:
 - well-being-research
 title: Well-Being Research

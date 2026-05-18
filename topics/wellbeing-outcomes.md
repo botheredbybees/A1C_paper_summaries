@@ -6,9 +6,6 @@ sources:
   - fxa301-week01-lesson-fxa301-week01-page-3-hm-evaluating-a-project
   - fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes
   - fxa301-week10-a-systematic-review-of-mental-health-and-wellbeing-outcomes
-- fxa301-week01-lesson-fxa301-week01-page-3-hm-evaluating-a-project
-- fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes
-- fxa301-week10-a-systematic-review-of-mental-health-and-wellbeing-outcomes
 tags:
 - wellbeing-outcomes
 title: Well-being Outcomes

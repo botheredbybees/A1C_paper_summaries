@@ -5,8 +5,6 @@ slug: hospital-clowning-as-an-intervention
 sources:
   - fxa303-week08-effectiveness-of-hospital-clowning-on-pediatric-anxiety-and
   - fxa303-week08-hospital-clowning-as-play-stimulus-in-healthcare
-- fxa303-week08-effectiveness-of-hospital-clowning-on-pediatric-anxiety-and
-- fxa303-week08-hospital-clowning-as-play-stimulus-in-healthcare
 tags:
 - hospital-clowning
 title: Hospital Clowning as an Intervention

@@ -5,8 +5,6 @@ slug: art-science-collaboration
 sources:
   - fxa100-how-we-thnk-about-dementia-ch13-chapter-13
   - fxa301-week05-transcript-aprof-anne-marie-forbes-interview-with-dr
-- fxa100-how-we-thnk-about-dementia-ch13-chapter-13
-- fxa301-week05-transcript-aprof-anne-marie-forbes-interview-with-dr
 tags:
 - art-science-collaboration
 title: Art-Science Collaboration

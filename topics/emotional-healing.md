@@ -8,11 +8,6 @@ sources:
   - fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a
   - fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture
   - fxa303-week01-trauma-aps
-- fxa202-week09-expressive-writing-therapy-exercises-examples
-- fxa202-week09-healing-through-art-and-music
-- fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a
-- fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture
-- fxa303-week01-trauma-aps
 tags:
 - emotional-healing
 title: Emotional Healing Through Therapeutic Modalities

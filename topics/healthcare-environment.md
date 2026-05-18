@@ -9,10 +9,6 @@ sources:
   - fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2)
   - fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults
   - fxa303-week11-sexual-orientation-disclosure-in-health-care-a-systematic
-- fxa301-arts-in-health-ch19-36-abc-national-cultural-policy-submission
-- fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment
-- fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2)
-- fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults
 tags:
 - healthcare-environment
 title: Arts in Healthcare Environments

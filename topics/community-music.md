@@ -11,12 +11,6 @@ sources:
   - fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam
   - fxa303-week11-lgbtq-choirs-community-music-queer-artistic-citizenship-in
   - fxa303-week11-the-story-of-ghetto-classics-an-orchestra-born-from-a-kenya
-- fxa100-week04-engaging-in-community-music-an-introduction
-- fxa301-week01-culture-of-inquiry
-- fxa301-week01-engaging-in-community-music-an-introduction
-- fxa301-week01-engaging-in-community-music-an-introduction-(2)
-- fxa301-week01-music-and-meaning-in-community-contexts
-- fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam
 tags:
 - community-music
 title: Community Music

@@ -5,8 +5,6 @@ slug: disability-awareness-and-etiquette
 sources:
   - fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions
   - fxa301-week09-lesson-fxa301-week09-page-4-week-3-activities
-- fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions
-- fxa301-week09-lesson-fxa301-week09-page-4-week-3-activities
 tags:
 - disability-awareness
 title: Disability Awareness and Etiquette

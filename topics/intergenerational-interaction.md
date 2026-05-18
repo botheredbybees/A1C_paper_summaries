@@ -5,7 +5,6 @@ slug: intergenerational-interaction
 sources:
   - fxa100-week04-intergenerational-choir-transcript
   - fxa100-week11-intergenerational-dancemovement-program-in-melbourne
-- fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january
 tags:
 - intergenerational-interaction
 title: Intergenerational Interaction

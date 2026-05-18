@@ -6,9 +6,6 @@ sources:
   - fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and
   - fxa301-oxford-textbook-of-creative-arts-ch27-chapter-9
   - fxa301-week08-the-emotional-power-of-poetry-neural-circuitry
-- fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and
-- fxa301-oxford-textbook-of-creative-arts-ch27-chapter-9
-- fxa301-week08-the-emotional-power-of-poetry-neural-circuitry
 tags:
 - psychophysiology
 title: Psychophysiological Effects of Creative Arts

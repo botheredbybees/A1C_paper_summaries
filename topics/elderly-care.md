@@ -9,10 +9,6 @@ sources:
   - fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it
   - fxa100-week13-emotion-recognition-from-multimodal-data-a-machine-learning
   - fxa303-week13-the-effects-of-reminiscence-therapy-on-psychological-well
-- fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy
-- fxa100-week04-research-in-aged-care-deloraine-partnership-transcript
-- fxa100-week04-the-day-the-music-died
-- fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it
 tags:
 - elderly-care
 title: Elderly Care Interventions

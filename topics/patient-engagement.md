@@ -5,7 +5,6 @@ slug: patient-engagement-through-humor-based-interventions
 sources:
   - fxa100-week08-creativity-and-communication-in-persons-with-dementia
   - fxa303-week13-engagement-in-persons-with-dementia-the-concept-and-its
-- fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent
 tags:
 - patient-engagement
 title: Patient Engagement Through Humor-Based Interventions

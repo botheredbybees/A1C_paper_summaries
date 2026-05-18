@@ -5,8 +5,6 @@ slug: interdisciplinary-collaboration-in-neuroaesthetic-and-educational-approach
 sources:
   - fxa301-bridging-the-creative-arts-therapies-ch01-1-essential
   - fxa303-week04-educating-students-with-autism-spectrum-disorders
-- fxa301-bridging-the-creative-arts-therapies-ch01-1-essential
-- fxa303-week04-educating-students-with-autism-spectrum-disorders
 tags:
 - interdisciplinary-collaboration
 title: Interdisciplinary Collaboration in Neuroaesthetic and Educational Approaches

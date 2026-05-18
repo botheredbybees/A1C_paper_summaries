@@ -9,11 +9,6 @@ sources:
   - fxa303-puppet-assisted-play-therapy-ch02-1-we-must-encourage-children-to-use-their-imagination-and
   - fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the
   - fxa303-week01-trauma-aps
-- fxa301-week10-using-creative-arts-in-trauma-therapy-the-neuroscience-of
-- fxa301-week10-web-article-ramirez-2016
-- fxa303-puppet-assisted-play-therapy-ch02-1-we-must-encourage-children-to-use-their-imagination-and
-- fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the
-- fxa303-week01-trauma-aps
 tags:
 - cognitive-behavioral-therapy
 title: Cognitive-Behavioral Therapy

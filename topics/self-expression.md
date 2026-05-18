@@ -13,14 +13,6 @@ sources:
   - fxa301-week11-refugee-art-project
   - fxa303-week06-art-therapy-with-puppet-making-to-promote-emotional-empathy
   - fxa303-week11-artistic-expression-as-a-source-of-resilience-for
-- fxa100-week02-transcript-duration-949
-- fxa100-week04-transcript-music-therapy-with-dementia-canadian-music
-- fxa100-week06-transcript-art-therapy-has-many-faces
-- fxa100-week08-transcript-youtube-cilh21tfqem
-- fxa100-week08-transcript-youtube-l3cci-2kwkk
-- fxa100-week08-why-the-arts
-- fxa202-week09-personal-storytelling-and-memoir-writing
-- fxa303-week06-art-therapy-with-puppet-making-to-promote-emotional-empathy
 tags:
 - self-expression
 title: Self-expression in Dementia and Autism

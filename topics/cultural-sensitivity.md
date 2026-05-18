@@ -7,10 +7,6 @@ sources:
   - fxa100-week04-making-art-with-communities-a-work-guide
   - fxa303-art-therapy-in-response-to-natural-disasters-ch06-1-i-envisioned-an-opportunity-to-assert-lasalle
   - fxa303-week06-the-wonder-continues-captivating-and-engaging-adults
-- fxa100-week03-5-tips-for-cultural-and-religious-appropriate-dementia-care
-- fxa100-week04-making-art-with-communities-a-work-guide
-- fxa303-art-therapy-in-response-to-natural-disasters-ch06-1-i-envisioned-an-opportunity-to-assert-lasalle
-- fxa303-week06-the-wonder-continues-captivating-and-engaging-adults
 tags:
 - cultural-sensitivity
 title: Cultural Sensitivity in Therapeutic Practices

@@ -7,9 +7,6 @@ sources:
   - fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas
   - fxa301-week08-wisdom-poetry-trialogue
   - fxa303-week13-therapeutic-clowns-in-pediatrics-a-systematic-review-and
-- fxa100-week03-association-of-music-interventions-with-health-related
-- fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas
-- fxa301-week08-wisdom-poetry-trialogue
 tags:
 - creative-arts-health
 title: Creative Arts in Health Interventions

@@ -14,15 +14,6 @@ sources:
   - fxa303-week06-the-wonder-continues-captivating-and-engaging-adults
   - fxa303-week06-therapeutic-puppetry-and-wellbeing
   - fxa303-week06-virtual-puppet-play-therapy
-- fxa100-how-we-thnk-about-dementia-ch15-chapter-9
-- fxa100-week04-singing-and-participation
-- fxa301-week02-current-emotion-research-in-music-psychology
-- fxa303-week06-emotional-expression-through-puppetry
-- fxa303-week06-mr-fox-is-sad
-- fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice
-- fxa303-week06-the-wonder-continues-captivating-and-engaging-adults
-- fxa303-week06-therapeutic-puppetry-and-wellbeing
-- fxa303-week06-virtual-puppet-play-therapy
 tags:
 - emotional-expression
 title: Emotional Expression Through Therapeutic Interventions

@@ -6,9 +6,6 @@ sources:
   - fxa100-week03-music-therapy-increases-social-and-emotional-well-being-in
   - fxa100-week07-two-art-museum-programs-for-people-with-dementia
   - fxa301-week01-making-art-with-communities-a-work-guide
-- fxa100-week03-music-therapy-increases-social-and-emotional-well-being-in
-- fxa100-week07-two-art-museum-programs-for-people-with-dementia
-- fxa301-week01-making-art-with-communities-a-work-guide
 tags:
 - social-engagement
 title: Social Engagement Interventions for People with Dementia

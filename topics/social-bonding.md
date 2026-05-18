@@ -5,8 +5,6 @@ slug: singing-and-social-bonding
 sources:
   - fxa100-week04-transcript-what-is-singing-for-the-brain
   - fxa301-week06-the-ice-breaker-effect-singing-mediates-fast-social-bonding
-- fxa100-week04-transcript-what-is-singing-for-the-brain
-- fxa301-week06-the-ice-breaker-effect-singing-mediates-fast-social-bonding
 tags:
 - social-bonding
 title: Singing and Social Bonding

@@ -6,10 +6,6 @@ sources:
   - fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care
   - fxa100-week01-transcript-dementia-australia
   - fxa100-week04-lecture-notes-for-fxa100-the-arts-and-dementia-care
-- fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes
-- fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care
-- fxa100-week01-transcript-dementia-australia
-- fxa100-week04-lecture-notes-for-fxa100-the-arts-and-dementia-care
 tags:
 - dementia-types
 title: Types of Dementia

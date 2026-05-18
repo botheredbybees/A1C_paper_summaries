@@ -5,8 +5,6 @@ slug: temporal-dynamics-in-emotional-responses-and-brain-function
 sources:
   - fxa301-week02-the-time-course-of-emotional-responses-to-music
   - fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between
-- fxa301-week02-the-time-course-of-emotional-responses-to-music
-- fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between
 tags:
 - temporal-dynamics
 title: Temporal Dynamics in Emotional Responses and Brain Function

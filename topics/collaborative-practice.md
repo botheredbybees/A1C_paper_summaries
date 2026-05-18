@@ -6,8 +6,6 @@ sources:
   - fxa100-week04-guidelines-for-arts-and-mental-health-projects
   - fxa301-week01-guidelines-for-arts-and-mental-health-projects
   - fxa301-week11-firstdraft-exhibition-brings-artists-together-to-better
-- fxa100-week04-guidelines-for-arts-and-mental-health-projects
-- fxa301-week01-guidelines-for-arts-and-mental-health-projects
 tags:
 - collaborative-practice
 title: Collaborative Practice in Arts and Mental Health

@@ -5,8 +5,6 @@ slug: creative-health-in-social-care
 sources:
   - fxa301-week03-implementing-creative-health
   - fxa301-week03-web-article-national-2024
-- fxa301-week03-implementing-creative-health
-- fxa301-week03-web-article-national-2024
 tags:
 - social-care
 title: Creative Health in Social Care

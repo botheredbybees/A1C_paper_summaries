@@ -6,9 +6,6 @@ sources:
   - fxa202-week10-critical-reflection-my-photo-essay
   - fxa301-week10-fxa301-week-10-lecture
   - fxa301-week10-sing-your-heart-out-community-singing-as-part-of-mental
-- fxa202-week10-critical-reflection-my-photo-essay
-- fxa301-week10-fxa301-week-10-lecture
-- fxa301-week10-sing-your-heart-out-community-singing-as-part-of-mental
 tags:
 - mental-health-recovery
 title: Mental Health Recovery

@@ -7,10 +7,6 @@ sources:
   - fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2)
   - fxa303-week01-post-traumatic-stress-disorder-the-neurobiological-impact
   - fxa303-week09-after-the-fires-looking-to-the-future-using-the-lessons
-- fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and
-- fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2)
-- fxa303-week01-post-traumatic-stress-disorder-the-neurobiological-impact
-- fxa303-week09-after-the-fires-looking-to-the-future-using-the-lessons
 tags:
 - post-traumatic-stress-disorder
 title: Post-Traumatic Stress Disorder Treatments

@@ -5,8 +5,6 @@ slug: transdisciplinary-research
 sources:
   - fxa303-week10-researching-arts-culture-migration-and-change-a-multi
   - fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)
-- fxa303-week10-researching-arts-culture-migration-and-change-a-multi
-- fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)
 tags:
 - transdisciplinary-research
 title: Transdisciplinary Research

@@ -7,10 +7,6 @@ sources:
   - fxa303-week06-puppet-theatre-a-way-to-tell-what-cannot-be-told-and-to
   - fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of
   - fxa303-week09-working-with-trauma-expanding-examining-and-evidencing-the
-- fxa303-trauma-and-expressive-arts-ch04-1-slowly-exhale-through-your-mouth
-- fxa303-week06-puppet-theatre-a-way-to-tell-what-cannot-be-told-and-to
-- fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of
-- fxa303-week09-working-with-trauma-expanding-examining-and-evidencing-the
 tags:
 - trauma-treatment
 title: Trauma Treatment through Expressive Arts

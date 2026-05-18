@@ -7,9 +7,6 @@ sources:
   - fxa100-creativity-and-communication-ch06-5-moving-in-the-moment-dance-john-killick-in-the-previous
   - fxa100-week08-web-article-gross-2016
   - fxa100-week13-emotion-recognition-from-multimodal-data-a-machine-learning
-- fxa100-creativity-and-communication-ch01-10-playing-with-mud-ceramics-and-clay-claire-craig-clay-is
-- fxa100-creativity-and-communication-ch06-5-moving-in-the-moment-dance-john-killick-in-the-previous
-- fxa100-week08-web-article-gross-2016
 tags:
 - dementia-therapy
 title: Dementia Therapy Through Creative Arts

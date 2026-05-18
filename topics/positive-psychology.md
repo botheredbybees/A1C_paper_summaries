@@ -6,9 +6,6 @@ sources:
   - fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow
   - fxa301-week02-university-students-strong-experiences-of-music-pleasure
   - fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and
-- fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow
-- fxa301-week02-university-students-strong-experiences-of-music-pleasure
-- fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and
 tags:
 - positive-psychology
 title: Positive Psychology and Resilience

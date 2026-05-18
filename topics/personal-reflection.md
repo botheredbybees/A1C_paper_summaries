@@ -7,10 +7,6 @@ sources:
   - fxa202-week06-reflection-on-the-therapeutic-and-artistic-process-of
   - fxa202-week09-reflection-on-creating-a-photo-essay-about-breast-cancer
   - fxa202-week09-reflections-on-grieving-at-a-seaside-pier
-- fxa100-week02-lesson-fxa100-week02-page-4-week-2-activities
-- fxa202-week06-reflection-on-the-therapeutic-and-artistic-process-of
-- fxa202-week09-reflection-on-creating-a-photo-essay-about-breast-cancer
-- fxa202-week09-reflections-on-grieving-at-a-seaside-pier
 tags:
 - personal-reflection
 title: Personal Reflection Through Artistic and Therapeutic Processes

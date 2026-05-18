@@ -10,11 +10,6 @@ sources:
   - fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1-(2)
   - fxa301-week03-arts-health-and-wellbeing-evidence-and-implications
   - fxa301-week06-further-evidence-that-singing-fosters-mental-health-and
-- fxa100-week04-the-ripple-effect-towards-researching-improvisational-music
-- fxa100-week04-what-is-music-health-and-wellbeing
-- fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1-(2)
-- fxa301-week03-arts-health-and-wellbeing-evidence-and-implications
-- fxa301-week06-further-evidence-that-singing-fosters-mental-health-and
 tags:
 - wellbeing-research
 title: Music Therapy and Wellbeing

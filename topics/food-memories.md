@@ -5,8 +5,6 @@ slug: food-memories
 sources:
   - fxa202-week06-apples-never-fall
   - fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family
-- fxa202-week06-apples-never-fall
-- fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family
 tags:
 - food-memories
 title: Food Memories

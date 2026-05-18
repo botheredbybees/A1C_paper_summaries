@@ -6,8 +6,6 @@ sources:
   - fxa202-week06-rediscovering-joy-during-lockdown
   - fxa202-week06-remembrance
   - fxa303-play-for-health-across-the-lifespan-ch01-55-morris
-- fxa202-week06-rediscovering-joy-during-lockdown
-- fxa202-week06-remembrance
 tags:
 - personal-resilience
 title: Personal Resilience

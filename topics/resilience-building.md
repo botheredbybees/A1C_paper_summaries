@@ -16,14 +16,6 @@ sources:
   - fxa303-week11-artistic-expression-as-a-source-of-resilience-for
   - fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic
   - fxa303-week13-the-effects-of-mario-a-social-robot-on-the-resilience-of
-- fxa100-week06-the-role-of-the-visual-arts-in-the-resilience-of-people
-- fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and
-- fxa301-week10-to-be-heard-the-social-and-mental-health-benefits-of-choir
-- fxa303-art-therapy-in-response-to-natural-disasters-ch04-chapter-9
-- fxa303-week03-5-ways-to-standbyteens-in-support-of-teen-mental-health
-- fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot
-- fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts
-- fxa303-week09-transcript-arts-mid-north-coast-we-are-all-born-creative
 tags:
 - resilience-building
 title: Resilience-building Through Arts Activities

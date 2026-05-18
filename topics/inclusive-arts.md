@@ -9,10 +9,6 @@ sources:
   - fxa301-week09-week-9-lecture-dr-brendan-lamb
   - fxa301-week11-firstdraft-exhibition-brings-artists-together-to-better
   - fxa301-week11-projects-art-beyond-sight
-- fxa301-week09-lesson-fxa301-week09-page-1
-- fxa301-week09-lesson-fxa301-week09-page-2
-- fxa301-week09-lesson-fxa301-week09-page-3
-- fxa301-week09-week-9-lecture-dr-brendan-lamb
 tags:
 - inclusive-arts
 title: Inclusive Arts

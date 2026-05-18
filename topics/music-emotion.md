@@ -6,9 +6,6 @@ sources:
   - fxa301-week02-measuring-music-induced-emotion-a-comparison-of-emotion
   - fxa301-week02-relationships-between-musical-structure-and
   - fxa301-week02-the-time-course-of-emotional-responses-to-music
-- fxa301-week02-measuring-music-induced-emotion-a-comparison-of-emotion
-- fxa301-week02-relationships-between-musical-structure-and
-- fxa301-week02-the-time-course-of-emotional-responses-to-music
 tags:
 - music-emotion
 title: Music and Induced Emotion

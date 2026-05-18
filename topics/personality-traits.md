@@ -6,8 +6,6 @@ sources:
   - fxa100-week13-exploring-the-creative-personality-using-machine-learning
   - fxa301-week02-experimental-evidence-of-the-roles-of-music-choice-social
   - fxa301-week02-music-evoked-nostalgia-affect-memory-and-personality
-- fxa301-week02-experimental-evidence-of-the-roles-of-music-choice-social
-- fxa301-week02-music-evoked-nostalgia-affect-memory-and-personality
 tags:
 - personality-traits
 title: Personality Traits and Music

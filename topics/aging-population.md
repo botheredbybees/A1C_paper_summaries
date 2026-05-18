@@ -8,8 +8,6 @@ sources:
   - fxa100-week11-dance-for-lifelong-wellbeing-research-findings-2017
   - fxa100-week13-2018-alzheimers-disease-facts-and-figures
   - fxa303-week13-intervention-and-application-of-clown-care-in-nursing-homes
-- fxa100-week04-arts-and-creativity-interventions-for-improving-health-and
-- fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2)
 tags:
 - aging-population
 title: Arts and Creativity Interventions for Older Adults

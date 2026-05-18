@@ -5,8 +5,6 @@ slug: process-evaluation-in-arts-based-interventions
 sources:
   - fxa100-week09-implementing-living-room-theatre-activities-for-people-with
   - fxa301-arts-in-health-ch67-chapter-6-(2)
-- fxa100-week09-implementing-living-room-theatre-activities-for-people-with
-- fxa301-arts-in-health-ch67-chapter-6-(2)
 tags:
 - process-evaluation
 title: Process Evaluation in Arts-Based Interventions

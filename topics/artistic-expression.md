@@ -6,10 +6,6 @@ sources:
   - fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers
   - fxa202-week13-shifting-perspectives-exploring-the-intersection-of
   - fxa303-week11-artistic-expression-as-a-source-of-resilience-for
-- fxa100-excellence-in-dementia-care--ch01-chapter-10
-- fxa100-week08-transcript-hayes-j-2011-the-creative-arts-in-dementia-care
-- fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas
-- fxa303-week02-lesson-fxa303-week02-topic-20-20activities-202-copy
 tags:
 - artistic-expression
 title: Artistic Expression in Dementia Care

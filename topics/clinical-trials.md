@@ -7,8 +7,6 @@ sources:
   - fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-(2)
   - fxa301-week01-the-rationale-for-rating-risk-of-bias-should-be-fully
   - fxa303-week13-pharmacotherapies-for-sleep-disturbances-in-dementia
-- fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-(2)
-- fxa301-week01-the-rationale-for-rating-risk-of-bias-should-be-fully
 tags:
 - clinical-trials
 title: Risk Of Bias In Clinical Trials

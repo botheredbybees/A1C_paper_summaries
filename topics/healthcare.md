@@ -7,9 +7,6 @@ sources:
   - fxa301-arts-in-health-ch44-1-the-artist-(2)
   - fxa301-oxford-textbook-of-creative-arts-ch04-chapter-17
   - fxa303-week08-transcript-15-may-2012
-- fxa301-arts-in-health-ch44-1-the-artist-(2)
-- fxa301-oxford-textbook-of-creative-arts-ch04-chapter-17
-- fxa303-week08-transcript-15-may-2012
 tags:
 - healthcare
 title: Arts in Healthcare

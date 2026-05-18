@@ -5,8 +5,6 @@ slug: early-childhood-education-pedagogies
 sources:
   - fxa303-week02-in-rememberance-of-david-whitebread-a-tribute-to-david
   - fxa303-week05-puppet-as-a-pedagogical-tool-a-literature-review
-- fxa303-week02-in-rememberance-of-david-whitebread-a-tribute-to-david
-- fxa303-week05-puppet-as-a-pedagogical-tool-a-literature-review
 tags:
 - early-childhood-education
 title: Early Childhood Education Pedagogies

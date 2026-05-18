@@ -7,10 +7,6 @@ sources:
   - fxa202-week05-making-metaphors-from-photos
   - fxa202-week06-tips-for-making-your-powerpoint-presentation-(2)
   - fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography
-- fxa202-week02-improve-your-photography-skills-with-these-9-photo
-- fxa202-week05-making-metaphors-from-photos
-- fxa202-week06-tips-for-making-your-powerpoint-presentation-(2)
-- fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography
 tags:
 - visual-communication
 title: Visual Communication Techniques

@@ -5,8 +5,6 @@ slug: health-and-wellbeing-of-aboriginal-people-through-cultural-engagement
 sources:
   - fxa301-week09-research-overview-arts-and-disability-in-australia
   - fxa303-week10-evidence-review-of-indigenous-culture-for-health-and
-- fxa301-week09-research-overview-arts-and-disability-in-australia
-- fxa303-week10-evidence-review-of-indigenous-culture-for-health-and
 tags:
 - aboriginal-people
 title: Health and Wellbeing of Aboriginal People Through Cultural Engagement

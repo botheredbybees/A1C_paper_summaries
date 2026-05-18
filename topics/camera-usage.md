@@ -6,9 +6,6 @@ sources:
   - fxa202-week02-getting-to-know-your-camera
   - fxa202-week02-lesson-fxa202-week02-week-2
   - fxa202-week02-week-2-making-pictures
-- fxa202-week02-getting-to-know-your-camera
-- fxa202-week02-lesson-fxa202-week02-week-2
-- fxa202-week02-week-2-making-pictures
 tags:
 - camera-usage
 title: Camera Usage in Photography

@@ -5,8 +5,6 @@ slug: writing-a-research-protocol
 sources:
   - fxa100-week04-writing-a-research-protocol
   - fxa301-week01-writing-a-research-protocol
-- fxa100-week04-writing-a-research-protocol
-- fxa301-week01-writing-a-research-protocol
 tags:
 - research-protocol
 title: Writing A Research Protocol

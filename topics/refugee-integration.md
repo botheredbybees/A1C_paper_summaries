@@ -5,7 +5,6 @@ slug: refugee-integration
 sources:
   - fxa301-week11-week-11-lecture-arts-and-social-inclusion
   - fxa303-week10-yesterday-i-couldnt-see-tomorrows-sun-shines-now-sharing
-- fxa303-week10-arts-and-refugees-multidisciplinary-perspectives-vol-2
 tags:
 - refugee-integration
 title: Refugee Integration

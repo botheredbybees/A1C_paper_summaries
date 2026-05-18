@@ -12,16 +12,6 @@ sources:
   - fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community
   - fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community
   - fxa303-week02-lesson-fxa303-week02-introduction
-- fxa100-week01-transcript-what-is-alzheimers-disease-ivan-seah-yu-jun
-- fxa100-week02-are-people-really-left-brained-or-right-brain
-- fxa100-week02-transcript-in-the-video-hank-green-from-the-scishow-explains
-- fxa100-week03-experimental-evidence-for-synchronization-to-a-musical-beat
-- fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted
-- fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what
-- fxa301-week01-transcript-two-minute-neuroscience-reward-system
-- fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community
-- fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community
-- fxa303-week02-lesson-fxa303-week02-introduction
 tags:
 - neuroscience
 title: Neuroscience Of Cognitive Disorders And Rhythmic Behavior

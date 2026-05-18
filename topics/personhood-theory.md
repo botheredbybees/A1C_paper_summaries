@@ -6,9 +6,6 @@ sources:
   - fxa100-excellence-in-dementia-care--ch23-2-there-is-no-doubt-that-one-of-the-major-changes-we-see-in
   - fxa100-how-we-thnk-about-dementia-ch08-chapter-4
   - fxa100-how-we-thnk-about-dementia-ch12-chapter-4
-- fxa100-excellence-in-dementia-care--ch23-2-there-is-no-doubt-that-one-of-the-major-changes-we-see-in
-- fxa100-how-we-thnk-about-dementia-ch08-chapter-4
-- fxa100-how-we-thnk-about-dementia-ch12-chapter-4
 tags:
 - personhood-theory
 title: Personhood in Dementia Care

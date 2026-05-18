@@ -5,8 +5,6 @@ slug: language-use-in-dementia-care
 sources:
   - fxa100-week04-dementia-language-guidelines
   - fxa100-week04-dementia-words-matter-guidelines-on-language-about-dementia
-- fxa100-week04-dementia-language-guidelines
-- fxa100-week04-dementia-words-matter-guidelines-on-language-about-dementia
 tags:
 - dementia-language
 title: Language Use in Dementia Care

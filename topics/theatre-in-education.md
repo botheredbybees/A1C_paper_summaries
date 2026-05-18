@@ -6,9 +6,6 @@ sources:
   - fxa100-week09-lesson-fxa100-week09-page-3-theatre-play-and-dementia
   - fxa100-week10-brightness-in-the-theatre
   - fxa100-week10-transforming-dementia-care-through-theatre
-- fxa100-week09-lesson-fxa100-week09-page-3-theatre-play-and-dementia
-- fxa100-week10-brightness-in-the-theatre
-- fxa100-week10-transforming-dementia-care-through-theatre
 tags:
 - theatre-in-education
 title: Theatre-in-Education

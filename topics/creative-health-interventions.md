@@ -5,8 +5,6 @@ slug: creative-arts-therapy-in-healthcare
 sources:
   - fxa301-week03-challenges-in-end-of-life-care-and-bereavement
   - fxa301-week03-creative-health-and-care-experienced-children-and-young
-- fxa301-week03-challenges-in-end-of-life-care-and-bereavement
-- fxa301-week03-creative-health-and-care-experienced-children-and-young
 tags:
 - creative-health-interventions
 title: Creative Arts Therapy in Healthcare

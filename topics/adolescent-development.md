@@ -17,19 +17,6 @@ sources:
   - fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental
   - fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy
   - fxa303-week11-arts-and-cultural-engagement-reportedly-antisocial-or
-- fxa100-week04-intergenerational-choir-transcript
-- fxa301-week03-music-listening-for-supporting-adolescents-sense-of-agency
-- fxa301-week08-school-based-drama-interventions-in-health-promotion-for
-- fxa303-week02-lesson-fxa303-week02-introduction-copy
-- fxa303-week03-adolescent-development
-- fxa303-week03-adolescent-neurodevelopment
-- fxa303-week03-arts-in-adolescence
-- fxa303-week03-fxa303-week-3-introduction
-- fxa303-week03-hormones-and-the-adolescent-brain
-- fxa303-week03-music-listening-motivation-is-associated-with-global
-- fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than
-- fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental
-- fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy
 tags:
 - adolescent-development
 title: Adolescent Development and Arts Integration

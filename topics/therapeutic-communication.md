@@ -5,8 +5,6 @@ slug: therapeutic-communication
 sources:
   - fxa303-week06-puppets-in-an-acute-paediatric-unit-nurses-experiences
   - fxa303-week08-more-than-just-an-entertainment-show-identification-of
-- fxa303-week06-puppets-in-an-acute-paediatric-unit-nurses-experiences
-- fxa303-week08-more-than-just-an-entertainment-show-identification-of
 tags:
 - therapeutic-communication
 title: Therapeutic Communication

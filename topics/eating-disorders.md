@@ -9,12 +9,6 @@ sources:
   - fxa301-week10-body-talk-examining-a-collaborative-multiple-visit-program
   - fxa301-week10-eating-disorders-and-art-therapy
   - fxa301-week10-lesson-fxa301-week10-page-3
-- fxa301-week10-an-adjunctive-museum-based-art-therapy-experience-in-the
-- fxa301-week10-arts-based-therapies-in-the-treatment-of-eating-disorders
-- fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the
-- fxa301-week10-body-talk-examining-a-collaborative-multiple-visit-program
-- fxa301-week10-eating-disorders-and-art-therapy
-- fxa301-week10-lesson-fxa301-week10-page-3
 tags:
 - eating-disorders
 title: Arts Therapies for Eating Disorders

@@ -7,8 +7,6 @@ sources:
   - fxa202-week13-taking-pictures-is-like-treasure-hunting-exploring-the
   - fxa301-week10-the-contribution-of-the-visual-in-qualitative-participatory
   - fxa303-week13-the-american-psychiatric-association
-- fxa202-therapeutic-photography-ch04-2-reflexive-photography
-- fxa301-week10-the-contribution-of-the-visual-in-qualitative-participatory
 tags:
 - mental-health-research
 title: Visual Art Therapies in Mental Health

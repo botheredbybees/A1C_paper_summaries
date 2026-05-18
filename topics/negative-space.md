@@ -5,8 +5,6 @@ slug: negative-space-in-photography
 sources:
   - fxa202-week02-negative-space-for-photographers-the-ultimate-guide
   - fxa202-week02-negative-space-in-photography-and-positive-space
-- fxa202-week02-negative-space-for-photographers-the-ultimate-guide
-- fxa202-week02-negative-space-in-photography-and-positive-space
 tags:
 - negative-space
 title: Negative Space in Photography

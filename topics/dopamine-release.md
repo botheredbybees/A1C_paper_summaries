@@ -5,9 +5,6 @@ slug: dopamine-release-and-its-impact-on-wellbeing
 sources:
   - fxa100-week06-visual-arts-and-the-brain
   - fxa100-week13-anatomically-distinct-dopamine-release-during-anticipation
-- fxa100-week03-listening-and-dementia-care
-- fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care
-- fxa100-week06-transcript-art-gives-same-level-of-pleasure-as-being-in-love
 tags:
 - dopamine-release
 title: Dopamine Release and Its Impact on Wellbeing

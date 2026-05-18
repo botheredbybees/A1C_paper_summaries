@@ -20,21 +20,6 @@ sources:
   - fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot
   - fxa303-week11-orchestras-for-all-impact-report-2023-2024
   - fxa303-week11-the-story-of-ghetto-classics-an-orchestra-born-from-a-kenya
-- fxa100-week04-engaging-in-community-music-an-introduction
-- fxa301-week01-culture-of-inquiry
-- fxa301-week05-an-education-in-music-makes-you-a-better-employee-are
-- fxa301-week05-fading-notes-music-education-for-the-next-generation-of
-- fxa301-week05-week-5-activities-fxa301-arts-in-the-community
-- fxa301-week06-case-studies-of-community-projects-big-noise-sistema
-- fxa301-week06-evaluation-of-big-noise-douglas
-- fxa301-week06-lesson-fxa301-week06-page-2
-- fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation
-- fxa301-week06-playing-for-their-lives-the-global-el-sistema-movement-for
-- fxa301-week06-recontextualizing-music-for-social-change
-- fxa301-week06-transcript-el-sistema-trailer-for-film-2008-url-only
-- fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain
-- fxa303-week03-music-instruction-can-make-for-a-smarter-teen
-- fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot
 tags:
 - music-education
 title: Music Education and Its Broader Impacts

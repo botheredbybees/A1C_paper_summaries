@@ -5,8 +5,6 @@ slug: visual-literacy
 sources:
   - fxa301-make-arts-for-a-better-life-ch16-1-create-an-inventory-of-the-content-elements
   - fxa301-make-arts-for-a-better-life-ch16-1-create-an-inventory-of-the-content-elements-(2)
-- fxa301-make-arts-for-a-better-life-ch16-1-create-an-inventory-of-the-content-elements
-- fxa301-make-arts-for-a-better-life-ch16-1-create-an-inventory-of-the-content-elements-(2)
 tags:
 - visual-literacy
 title: Visual Literacy

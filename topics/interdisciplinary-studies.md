@@ -5,8 +5,6 @@ slug: music-and-health-interdisciplinary-studies
 sources:
   - fxa100-week04-what-is-music-health-and-wellbeing
   - fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in
-- fxa100-week04-what-is-music-health-and-wellbeing
-- fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in
 tags:
 - interdisciplinary-studies
 title: Music and Health Interdisciplinary Studies

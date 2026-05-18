@@ -6,9 +6,6 @@ sources:
   - fxa100-week09-augusto-boals-forum-theatre-for-teachers
   - fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags
   - fxa100-week09-transcript-augusto-boal-1931-2009-was-a-brazilian-theatre
-- fxa100-week09-augusto-boals-forum-theatre-for-teachers
-- fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags
-- fxa100-week09-transcript-augusto-boal-1931-2009-was-a-brazilian-theatre
 tags:
 - theatre-of-the-oppressed
 title: Theatre of the Oppressed

@@ -6,9 +6,6 @@ sources:
   - fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to
   - fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life
   - fxa202-week03-what-is-therapeutic-photography
-- fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to
-- fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life
-- fxa202-week03-what-is-therapeutic-photography
 tags:
 - communication-skills
 title: Communication Skills in Dementia Care

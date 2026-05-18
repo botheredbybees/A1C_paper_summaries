@@ -5,8 +5,6 @@ slug: inclusive-terminology-for-dementia
 sources:
   - fxa100-week04-dementia-language-guidelines
   - fxa100-week04-dementia-words-matter-guidelines-on-language-about-dementia
-- fxa100-week04-dementia-language-guidelines
-- fxa100-week04-dementia-words-matter-guidelines-on-language-about-dementia
 tags:
 - inclusive-terminology
 title: Inclusive Terminology for Dementia

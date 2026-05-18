@@ -5,8 +5,6 @@ slug: functional-connectivity-in-neurodevelopment
 sources:
   - fxa303-week02-functional-connectivity-in-the-first-year-of-life-in
   - fxa303-week03-the-early-adolescent-brain-on-music-analysis-of-functional
-- fxa303-week02-functional-connectivity-in-the-first-year-of-life-in
-- fxa303-week03-the-early-adolescent-brain-on-music-analysis-of-functional
 tags:
 - functional-connectivity
 title: Functional Connectivity In Neurodevelopment

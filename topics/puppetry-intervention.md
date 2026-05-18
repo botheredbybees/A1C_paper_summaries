@@ -5,8 +5,6 @@ slug: puppetry-therapy
 sources:
   - fxa303-week05-week-5-overview-fxa303-creative-arts-play-and-mental
   - fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the
-- fxa303-week05-week-5-overview-fxa303-creative-arts-play-and-mental
-- fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the
 tags:
 - puppetry-intervention
 title: Puppetry Therapy

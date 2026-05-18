@@ -15,18 +15,6 @@ sources:
   - fxa303-week02-scientific-thinking-in-young-children-theoretical-advances
   - fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain
   - fxa303-week03-the-teen-brain
-- fxa100-week02-are-people-really-left-brained-or-right-brain
-- fxa100-week02-are-the-brains-of-musicians-physically-different
-- fxa100-week02-how-music-helps-to-heal-the-injured-brain-therapeutic-use
-- fxa100-week06-art-and-the-brain-a-view-from-dementia
-- fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities
-- fxa100-week06-web-article-tucker-2012
-- fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care
-- fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with
-- fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community
-- fxa303-week02-scientific-thinking-in-young-children-theoretical-advances
-- fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain
-- fxa303-week03-the-teen-brain
 tags:
 - cognitive-neuroscience
 title: Cognitive Neuroscience and Brain Plasticity

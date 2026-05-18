@@ -14,17 +14,6 @@ sources:
   - fxa202-week10-lesson-fxa202-week10-page-2
   - fxa202-week10-lesson-fxa202-week10-page-4
   - fxa202-week10-lesson-fxa202-week10-week-10
-- fxa202-week01-lesson-fxa202-week01-page-4
-- fxa202-week02-lesson-fxa202-week02-page-4
-- fxa202-week02-lesson-fxa202-week02-week-2
-- fxa202-week06-lesson-fxa202-week06-page-4
-- fxa202-week08-lesson-fxa202-week08-page-4
-- fxa202-week08-lesson-fxa202-week08-week-8
-- fxa202-week09-lesson-fxa202-week09-page-4
-- fxa202-week09-lesson-fxa202-week09-week-9
-- fxa202-week10-lesson-fxa202-week10-page-2
-- fxa202-week10-lesson-fxa202-week10-page-4
-- fxa202-week10-lesson-fxa202-week10-week-10
 tags:
 - legal-systems
 title: Legal Systems Through Visual Storytelling

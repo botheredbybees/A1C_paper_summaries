@@ -5,8 +5,6 @@ slug: emotional-reactions-in-aesthetic-appreciation
 sources:
   - fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and
   - fxa301-week08-the-emotional-power-of-poetry-neural-circuitry
-- fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and
-- fxa301-week08-the-emotional-power-of-poetry-neural-circuitry
 tags:
 - emotional-reaction
 title: Emotional Reactions in Aesthetic Appreciation

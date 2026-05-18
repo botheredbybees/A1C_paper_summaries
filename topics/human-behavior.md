@@ -5,8 +5,6 @@ slug: the-impact-of-music-on-human-behavior
 sources:
   - fxa100-week03-the-power-of-music
   - fxa100-week04-the-evolution-of-human-artistic-creativity
-- fxa100-week03-the-power-of-music
-- fxa100-week04-the-evolution-of-human-artistic-creativity
 tags:
 - human-behavior
 title: The Impact of Music on Human Behavior

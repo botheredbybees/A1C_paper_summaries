@@ -6,8 +6,6 @@ sources:
   - fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro
   - fxa303-week03-adolescent-neurodevelopment
   - fxa303-week13-the-neural-basis-of-humour-processing
-- fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro
-- fxa303-week03-adolescent-neurodevelopment
 tags:
 - reward-processing
 title: Reward Processing in the Brain

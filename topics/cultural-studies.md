@@ -7,9 +7,6 @@ sources:
   - fxa301-week01-culture-of-inquiry
   - fxa301-week10-advances-in-flow-research
   - fxa303-week11-music-making-for-health-and-wellbeing-in-youth-justice
-- fxa301-make-arts-for-a-better-life-ch42-156-oxford
-- fxa301-week01-culture-of-inquiry
-- fxa301-week10-advances-in-flow-research
 tags:
 - cultural-studies
 title: Cultural Studies and Applied Music

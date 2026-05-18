@@ -10,11 +10,6 @@ sources:
   - fxa303-week13-remembering-yesterday-caring-today-reminiscence-in-dementia
   - fxa303-week13-reminiscence-therapy-for-dementia
   - fxa303-week13-the-effects-of-reminiscence-therapy-on-psychological-well
-- fxa100-creativity-and-communication-ch02-15-putting-the-it-into-creativity-exploring-the-creative
-- fxa100-excellence-in-dementia-care--ch12-chapter-14
-- fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care
-- fxa100-week08-creativity-and-communication-in-persons-with-dementia-a
-- fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family
 tags:
 - reminiscence-therapy
 title: Reminiscence Therapy

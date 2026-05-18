@@ -7,8 +7,6 @@ sources:
   - fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic
   - fxa303-week13-a-meta-analysis-of-randomized-controlled-trials-of-laughter
   - fxa303-week13-the-effect-of-humor-on-elder-mental-and-physical-health
-- fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy
-- fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic
 tags:
 - anxiety-reduction
 title: Anxiety Reduction Through Puppet Play Therapy

@@ -7,9 +7,6 @@ sources:
   - fxa100-week06-how-creating-sculpture-benefits-people-with-dementia
   - fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january
   - fxa303-week13-intervention-and-application-of-clown-care-in-nursing-homes
-- fxa100-week04-transcript-mind-song-music-for-dementia
-- fxa100-week06-how-creating-sculpture-benefits-people-with-dementia
-- fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january
 tags:
 - elderly-wellness
 title: Creative Interventions for Elderly Wellness

@@ -7,9 +7,6 @@ sources:
   - fxa301-week01-assessing-confidence-in-what-works-in-social-policy
   - fxa301-week03-evidence-requirements-for-the-development-of-the-national
   - fxa303-week11-developing-creative-approaches-in-youth-justice-a-guide-for
-- fxa100-week04-music-therapy-disability-evidence-summary-2024
-- fxa301-week01-assessing-confidence-in-what-works-in-social-policy
-- fxa301-week03-evidence-requirements-for-the-development-of-the-national
 tags:
 - evidence-based-practice
 title: Evidence-Based Practice in Music Therapy

@@ -9,12 +9,6 @@ sources:
   - fxa100-week03-the-effects-of-music-on-the-brain-video-transcript
   - fxa100-week03-the-power-of-music
   - fxa301-week06-music-and-medicine
-- fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there
-- fxa100-week02-transcript-duration-631
-- fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind
-- fxa100-week03-the-effects-of-music-on-the-brain-video-transcript
-- fxa100-week03-the-power-of-music
-- fxa301-week06-music-and-medicine
 tags:
 - neuroscience-of-music
 title: The Neuroscience of Music

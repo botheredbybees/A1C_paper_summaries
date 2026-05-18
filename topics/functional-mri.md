@@ -5,8 +5,6 @@ slug: functional-magnetic-resonance-imaging-in-neuroplasticity-and-brain-disorde
 sources:
   - fxa100-week02-neuroplastic-effects-in-patients-with-traumatic-brain
   - fxa303-week04-characteristics-of-brains-in-autism-spectrum-disorder
-- fxa100-week02-neuroplastic-effects-in-patients-with-traumatic-brain
-- fxa303-week04-characteristics-of-brains-in-autism-spectrum-disorder
 tags:
 - functional-mri
 title: Functional Magnetic Resonance Imaging in Neuroplasticity and Brain Disorders

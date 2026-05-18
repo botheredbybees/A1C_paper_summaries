@@ -5,8 +5,6 @@ slug: randomized-controlled-trials
 sources:
   - fxa100-week13-effects-of-yoga-like-exercises-on-mild-and-moderate
   - fxa303-week13-evaluation-of-cognitive-stimulation-therapy-for-people-with
-- fxa100-week09-dance-movement-therapy-for-dementia
-- fxa301-week01-lesson-fxa301-week01-page-1-hm
 tags:
 - randomized-controlled-trial
 title: Randomized Controlled Trials

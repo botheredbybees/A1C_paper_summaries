@@ -10,11 +10,6 @@ sources:
   - fxa301-week05-week-5-activities-fxa301-arts-in-the-community
   - fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings
   - fxa303-week11-lesson-fxa303-week11-page-2
-- fxa100-week03-association-of-music-interventions-with-health-related
-- fxa301-week01-lesson-fxa301-week01-troubleshooting1
-- fxa301-week03-executive-summary-creative-health-review
-- fxa301-week05-week-5-activities-fxa301-arts-in-the-community
-- fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings
 tags:
 - wellbeing
 title: Wellbeing Through Creative Arts

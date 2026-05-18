@@ -5,8 +5,6 @@ slug: flood-recovery-through-community-based-initiatives
 sources:
   - fxa303-week09-the-afloat-project-(2)
   - fxa303-week09-web-article-creative-2023
-- fxa303-week09-the-afloat-project-(2)
-- fxa303-week09-web-article-creative-2023
 tags:
 - flood-recovery
 title: Flood-Recovery through Community-Based Initiatives

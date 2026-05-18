@@ -6,9 +6,6 @@ sources:
   - fxa100-week06-lesson-fxa100-week06-page-1-welcome-to-week-6
   - fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care
   - fxa301-week05-lesson-fxa301-week05-page-1
-- fxa100-week06-lesson-fxa100-week06-page-1-welcome-to-week-6
-- fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care
-- fxa301-week05-lesson-fxa301-week05-page-1
 tags:
 - visual-arts
 title: Visual Arts in Dementia Care

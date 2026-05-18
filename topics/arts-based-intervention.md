@@ -6,8 +6,6 @@ sources:
   - fxa100-creativity-and-communication-ch12-22-measuring-success-evaluation-is-an-ongoing-process-that
   - fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon
   - fxa303-week11-preliminary-findings-from-mapping-q-an-arts-based-suicide
-- fxa100-creativity-and-communication-ch12-22-measuring-success-evaluation-is-an-ongoing-process-that
-- fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon
 tags:
 - arts-based-intervention
 title: Arts-Based Intervention

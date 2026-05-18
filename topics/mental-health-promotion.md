@@ -7,9 +7,6 @@ sources:
   - fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping
   - fxa303-week10-how-country-spirituality-music-and-arts-contribute-to
   - fxa303-week11-role-of-art-therapy-in-the-promotion-of-mental-health-a
-- fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the
-- fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping
-- fxa303-week10-how-country-spirituality-music-and-arts-contribute-to
 tags:
 - mental-health-promotion
 title: Puppetry in Mental Health Promotion

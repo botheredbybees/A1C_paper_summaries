@@ -6,8 +6,6 @@ sources:
   - fxa100-week13-a-pilot-randomized-controlled-clinical-trial-of-dance
   - fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on
   - fxa303-week04-neurobiology-of-autism-spectrum-disorders
-- fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on
-- fxa303-week04-neurobiology-of-autism-spectrum-disorders
 tags:
 - autism-research
 title: Autism Spectrum Disorders

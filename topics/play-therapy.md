@@ -23,25 +23,6 @@ sources:
   - fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic
   - fxa303-week06-virtual-puppet-play-therapy
   - fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms
-- fxa303-puppet-play-therapy-ch10-chapter-2
-- fxa303-week01-an-overview-of-play-therapy
-- fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children
-- fxa303-week02-in-rememberance-of-david-whitebread-a-tribute-to-david
-- fxa303-week02-infancy-and-the-early-years
-- fxa303-week04-brief-report-emotion-regulation-in-autism-is-improved-in-a
-- fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves
-- fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)
-- fxa303-week04-intensive-child-centered-play-therapy-for-children-on-the
-- fxa303-week04-lesson-fxa303-week04-page-3-arts-and-play
-- fxa303-week04-lesson-fxa303-week04-week-4-activities
-- fxa303-week04-play-and-arts-based-therapies
-- fxa303-week04-play-therapy-in-children-with-autism-its-role-implications
-- fxa303-week06-a-review-of-the-literature-the-use-of-interactive-puppet
-- fxa303-week06-overview-fxa303-creative-arts-play-and-mental-wellbeing
-- fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice
-- fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic
-- fxa303-week06-virtual-puppet-play-therapy
-- fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms
 tags:
 - play-therapy
 title: Play Therapy

@@ -5,8 +5,6 @@ slug: arts-for-health
 sources:
   - fxa301-oxford-textbook-of-creative-arts-ch03-chapter-13
   - fxa301-week01-arts-for-health-and-wellbeing-an-evaluation-framework
-- fxa301-oxford-textbook-of-creative-arts-ch03-chapter-13
-- fxa301-week01-arts-for-health-and-wellbeing-an-evaluation-framework
 tags:
 - arts-for-health
 title: Arts for Health

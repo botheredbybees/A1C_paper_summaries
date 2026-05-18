@@ -10,13 +10,6 @@ sources:
   - fxa100-week08-transcript-youtube-l3cci-2kwkk
   - fxa100-week10-transcript-youtube-vwkammz898duration
   - fxa202-week06-remembrance
-- fxa100-how-we-thnk-about-dementia-ch06-chapter-3
-- fxa100-week01-what-is-alzheimers-disease-video-transcript
-- fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video
-- fxa100-week07-transcript-youtube-qvnfj1otdyc
-- fxa100-week08-transcript-youtube-l3cci-2kwkk
-- fxa100-week10-transcript-youtube-vwkammz898duration
-- fxa202-week06-remembrance
 tags:
 - memory-loss
 title: Memory Loss Interventions

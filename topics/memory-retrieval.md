@@ -5,8 +5,6 @@ slug: memory-retrieval-in-dementia-care
 sources:
   - fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care
   - fxa100-week03-lesson-fxa100-week03-page-2-listening-and-dementia-care
-- fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care
-- fxa100-week03-lesson-fxa100-week03-page-2-listening-and-dementia-care
 tags:
 - memory-retrieval
 title: Memory Retrieval in Dementia Care

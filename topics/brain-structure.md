@@ -6,9 +6,6 @@ sources:
   - fxa301-week02-the-brain-and-how-we-perceive-information
   - fxa303-week03-limbic-systems-for-emotion-and-for-memory-but-no-single
   - fxa303-week03-neuroanatomy-limbic-system
-- fxa301-week02-the-brain-and-how-we-perceive-information
-- fxa303-week03-limbic-systems-for-emotion-and-for-memory-but-no-single
-- fxa303-week03-neuroanatomy-limbic-system
 tags:
 - brain-structure
 title: Brain Structure and Function

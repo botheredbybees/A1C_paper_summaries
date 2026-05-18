@@ -5,8 +5,6 @@ slug: puppetry-in-healthcare
 sources:
   - fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare
   - fxa303-week05-lesson-fxa303-week05-page-4-week-5-activities
-- fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare
-- fxa303-week05-lesson-fxa303-week05-page-4-week-5-activities
 tags:
 - puppetry-in-healthcare
 title: Puppetry In Healthcare

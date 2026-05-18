@@ -22,23 +22,6 @@ sources:
   - fxa301-week08-the-connection-between-art-healing-and-public-health-a
   - fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the
   - fxa303-week13-the-associations-between-behavioral-psychological-symptoms
-- fxa100-excellence-in-dementia-care--ch24-chapter-1
-- fxa301-arts-in-health-ch04-48-haldane-d
-- fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26
-- fxa301-oxford-textbook-of-creative-arts-ch18-chapter-3
-- fxa301-oxford-textbook-of-creative-arts-ch18-chapter-3-(2)
-- fxa301-oxford-textbook-of-creative-arts-ch23-1-a-research-project-that-examined-how-participation-can-be-(2)
-- fxa301-oxford-textbook-of-creative-arts-ch24-chapter-8
-- fxa301-week01-making-art-with-communities-a-work-guide-(3)
-- fxa301-week01-research-ethics
-- fxa301-week03-lesson-fxa301-week03-page-3
-- fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing
-- fxa301-week05-museums-for-health-and-wellbeing
-- fxa301-week05-the-health-and-well-being-potential-of-museums-and-art
-- fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster
-- fxa301-week06-statistical-analysis-of-educational-outcomes-among-big
-- fxa301-week08-the-connection-between-art-healing-and-public-health-a
-- fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the
 tags:
 - public-health
 title: Creative Arts in Public Health

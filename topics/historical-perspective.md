@@ -5,8 +5,6 @@ slug: engagement-with-music-and-dance-in-historical-contexts
 sources:
   - fxa301-week06-lesson-fxa301-week06-page-1
   - fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community
-- fxa301-week06-lesson-fxa301-week06-page-1
-- fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community
 tags:
 - historical-perspective
 title: Engagement with Music and Dance in Historical Contexts

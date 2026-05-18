@@ -5,8 +5,6 @@ slug: chronic-disease-management
 sources:
   - fxa202-week10-type1-diabetes-story-a-familys-journey
   - fxa301-week03-executive-summary-creative-health-review
-- fxa202-week10-type1-diabetes-story-a-familys-journey
-- fxa301-week03-executive-summary-creative-health-review
 tags:
 - chronic-disease-management
 title: Chronic Disease Management

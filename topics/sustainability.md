@@ -5,8 +5,6 @@ slug: sustainable-cultural-practices
 sources:
   - fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2)
   - fxa301-week05-happy-museum-learning-evaluation-report
-- fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2)
-- fxa301-week05-happy-museum-learning-evaluation-report
 tags:
 - sustainability
 title: Sustainable Cultural Practices

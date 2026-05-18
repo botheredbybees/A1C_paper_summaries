@@ -5,8 +5,6 @@ slug: results-based-management
 sources:
   - fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals
   - fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals-(2)
-- fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals
-- fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals-(2)
 tags:
 - results-based-management
 title: Results-Based Management

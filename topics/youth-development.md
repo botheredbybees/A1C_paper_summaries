@@ -14,13 +14,6 @@ sources:
   - fxa303-week11-creative-pathways-for-juvenile-justice-an-overview-of
   - fxa303-week11-using-and-abusing-the-arts-with-at-risk-youth
   - fxa303-week11-web-article-hardy-2019
-- fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and
-- fxa301-week06-lesson-fxa301-week06-page-2
-- fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation
-- fxa301-week06-statistical-analysis-of-educational-outcomes-among-big
-- fxa303-week03-the-impact-of-art-education-on-human-capital-an-empirical
-- fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot
-- fxa303-week10-arts-education-and-society-the-role-of-the-arts-in
 tags:
 - youth-development
 title: Youth Development Through Arts Activities

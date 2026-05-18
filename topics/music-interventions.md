@@ -5,8 +5,6 @@ slug: music-interventions
 sources:
   - fxa100-week03-association-of-music-interventions-with-health-related
   - fxa100-week03-the-short-term-impact-of-music-interventions-on-stress
-- fxa100-week03-association-of-music-interventions-with-health-related
-- fxa100-week03-the-short-term-impact-of-music-interventions-on-stress
 tags:
 - music-interventions
 title: Music Interventions

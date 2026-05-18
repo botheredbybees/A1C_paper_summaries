@@ -7,10 +7,6 @@ sources:
   - fxa100-week03-listening-and-dementia-care
   - fxa100-week03-music-and-memories-ipod-eau-claire-community-project-results
   - fxa100-week03-personalized-music-for-persons-with-dementia-and-their-life
-- fxa100-week03-evaluation-of-the-music-and-memory-program-among-nursing
-- fxa100-week03-listening-and-dementia-care
-- fxa100-week03-music-and-memories-ipod-eau-claire-community-project-results
-- fxa100-week03-personalized-music-for-persons-with-dementia-and-their-life
 tags:
 - personalized-music
 title: Personalized Music Interventions for Dementia Care

@@ -5,8 +5,6 @@ slug: informed-consent
 sources:
   - fxa100-week04-research-ethics-in-arts-in-health-interventions
   - fxa301-week01-research-ethics
-- fxa100-week04-research-ethics-in-arts-in-health-interventions
-- fxa301-week01-research-ethics
 tags:
 - informed-consent
 title: Informed Consent

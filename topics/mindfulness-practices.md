@@ -5,8 +5,6 @@ slug: mindfulness-practices
 sources:
   - fxa202-week06-winding-paths-a-photo-essay-on-emotional-health-during
   - fxa303-week11-healing-arts-safe-place-for-youth
-- fxa202-week08-week-8-lecture-notes-editing-your-images-(2)
-- fxa202-week10-brain-research-shows-the-arts-promote-mental-health
 tags:
 - mindfulness-practices
 title: Mindfulness Practices

@@ -5,8 +5,6 @@ slug: singing-therapy
 sources:
   - fxa301-week06-the-ice-breaker-effect-singing-mediates-fast-social-bonding
   - fxa301-week09-facing-the-music-three-issues-in-current-research-on
-- fxa301-week06-the-ice-breaker-effect-singing-mediates-fast-social-bonding
-- fxa301-week09-facing-the-music-three-issues-in-current-research-on
 tags:
 - singing-therapy
 title: Singing Therapy

@@ -5,8 +5,6 @@ slug: gallery-programs-for-dementia-patients
 sources:
   - fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales
   - fxa100-week07-fxa100-week-7-lecture
-- fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales
-- fxa100-week07-fxa100-week-7-lecture
 tags:
 - gallery-programs
 title: Gallery Programs for Dementia Patients

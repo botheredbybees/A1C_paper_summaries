@@ -5,10 +5,6 @@ slug: pestle-analysis
 sources:
   - fxa301-arts-in-health-ch26-4-technological-(2)
   - fxa301-week01-conceptualizing-and-planning-interventions
-- fxa100-week04-conceptualizing-and-planning-interventions
-- fxa301-arts-in-health-ch26-4-technological
-- fxa301-arts-in-health-ch26-4-technological-(2)
-- fxa301-week01-conceptualizing-and-planning-interventions
 tags:
 - pestle-analysis
 title: Pestle Analysis

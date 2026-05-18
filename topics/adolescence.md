@@ -6,8 +6,6 @@ sources:
   - fxa303-week02-web-article-orenstein-2022
   - fxa303-week03-brain-development-during-adolescence
   - fxa303-week03-media-use-and-brain-development-during-adolescence
-- fxa303-week03-brain-development-during-adolescence
-- fxa303-week03-media-use-and-brain-development-during-adolescence
 tags:
 - adolescence
 title: Brain Development During Adolescence

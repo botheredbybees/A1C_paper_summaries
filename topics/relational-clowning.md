@@ -5,7 +5,6 @@ slug: relational-clowning
 sources:
   - fxa100-week10-playfully-engaging-people-living-with-dementia-searching
   - fxa100-week12-playfully-engaging-people-living-with-dementia-searching
-- fxa100-week10-playfully-engaging-people-living-with-dementia-searching
 tags:
 - relational-clowning
 title: Relational Clowning

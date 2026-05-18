@@ -6,8 +6,6 @@ sources:
   - fxa100-week13-what-works-for-whom-a-critical-review-of-psychotherapy
   - fxa301-week02-aesthetic-judgments-of-novel-graphic-patterns-analyses-of
   - fxa301-week02-emotions-during-live-music-performance-links-with
-- fxa301-week02-aesthetic-judgments-of-novel-graphic-patterns-analyses-of
-- fxa301-week02-emotions-during-live-music-performance-links-with
 tags:
 - individual-differences
 title: Individual Differences in Aesthetic and Emotional Experiences

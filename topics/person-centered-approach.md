@@ -6,8 +6,6 @@ sources:
   - fxa100-week04-person-centred-language-guidelines
   - fxa100-week09-personhood-maintained
   - fxa100-week12-lesson-fxa100-week12-page-1-welcome-to-week-12
-- fxa100-week04-person-centred-language-guidelines
-- fxa100-week09-personhood-maintained
 tags:
 - person-centered-approach
 title: Person-Centered Approach

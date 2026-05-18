@@ -8,11 +8,6 @@ sources:
   - fxa301-week05-art-making-and-illness-two-case-studies
   - fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our
   - fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and
-- fxa100-week06-transcript-art-therapy-has-many-faces
-- fxa202-week09-reflection-on-creating-a-photo-essay-about-breast-cancer
-- fxa301-week05-art-making-and-illness-two-case-studies
-- fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our
-- fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and
 tags:
 - cancer-treatment
 title: Creative Therapies in Cancer Treatment

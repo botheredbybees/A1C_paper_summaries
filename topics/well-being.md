@@ -16,16 +16,6 @@ sources:
   - fxa301-week10-lesson-fxa301-week10-page-1
   - fxa303-week11-effects-of-choir-singing-on-mental-health-results-of-an
   - fxa303-week11-social-isolation-and-connectedness-as-determinants-of-well
-- fxa100-week04-transcript-cale-research-aged-care-deloraine-partnership
-- fxa301-make-arts-for-a-better-life-ch17-1-for-further-study-on-communication-channels
-- fxa301-week01-evaluating-community-arts-community-well-being
-- fxa301-week01-evaluating-community-arts-community-well-being-an
-- fxa301-week03-implementing-creative-health
-- fxa301-week03-music-listening-for-supporting-adolescents-sense-of-agency
-- fxa301-week05-happy-museum-learning-evaluation-report
-- fxa301-week08-the-cultural-value-of-older-peoples-experiences-of-theater
-- fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the
-- fxa301-week10-lesson-fxa301-week10-page-1
 tags:
 - well-being
 title: Well-Being Through Creative Arts

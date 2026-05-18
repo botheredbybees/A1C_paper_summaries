@@ -5,8 +5,6 @@ slug: environmental-design-in-dementia-care
 sources:
   - fxa100-excellence-in-dementia-care--ch02-chapter-11
   - fxa100-excellence-in-dementia-care--ch60-chapter-11
-- fxa100-excellence-in-dementia-care--ch02-chapter-11
-- fxa100-excellence-in-dementia-care--ch60-chapter-11
 tags:
 - environmental-design
 title: Environmental Design in Dementia Care

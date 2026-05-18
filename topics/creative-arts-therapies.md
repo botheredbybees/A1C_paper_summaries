@@ -7,8 +7,6 @@ sources:
   - fxa303-week04-arts-therapies-research-and-practice-with-persons-on-the
   - fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies
   - fxa303-week11-creative-arts-therapies-for-the-mental-health-of-emerging
-- fxa303-week04-arts-therapies-research-and-practice-with-persons-on-the
-- fxa303-week09-trauma-informed-care-in-the-creative-arts-therapies
 tags:
 - creative-arts-therapies
 title: Creative Arts Therapies

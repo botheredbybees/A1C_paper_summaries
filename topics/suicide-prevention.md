@@ -6,8 +6,6 @@ sources:
   - fxa303-week03-mental-health-of-adolescents
   - fxa303-week10-web-article-russ-smith-2023
   - fxa303-week11-preliminary-findings-from-mapping-q-an-arts-based-suicide
-- fxa303-week03-mental-health-of-adolescents
-- fxa303-week10-web-article-russ-smith-2023
 tags:
 - suicide-prevention
 title: Suicide Prevention

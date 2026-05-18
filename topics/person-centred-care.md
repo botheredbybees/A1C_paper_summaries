@@ -5,8 +5,6 @@ slug: person-centred-dementia-care
 sources:
   - fxa100-excellence-in-dementia-care--ch47-chapter-17
   - fxa100-week10-person-centred-dementia-care
-- fxa100-excellence-in-dementia-care--ch47-chapter-17
-- fxa100-week10-person-centred-dementia-care
 tags:
 - person-centred-care
 title: Person-Centred Dementia Care

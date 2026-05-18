@@ -5,8 +5,6 @@ slug: symbolic-expression-in-therapy
 sources:
   - fxa303-week01-an-overview-of-play-therapy
   - fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy
-- fxa303-week01-an-overview-of-play-therapy
-- fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy
 tags:
 - symbolic-expression
 title: Symbolic Expression in Therapy

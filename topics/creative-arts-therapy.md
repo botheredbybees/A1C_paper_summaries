@@ -13,12 +13,6 @@ sources:
   - fxa303-week06-puppet-play-therapy-a-practical-guidebook
   - fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy
   - fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic
-- fxa100-week08-transcript-hayes-j-2011-the-creative-arts-in-dementia-care
-- fxa301-week06-the-art-and-science-of-dancemovement-therapy
-- fxa301-week10-a-systematic-review-of-the-efficacy-of-creative-arts
-- fxa301-week10-using-creative-arts-in-trauma-therapy-the-neuroscience-of
-- fxa303-week06-puppet-play-therapy-a-practical-guidebook
-- fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy
 tags:
 - creative-arts-therapy
 title: Creative Arts Therapy

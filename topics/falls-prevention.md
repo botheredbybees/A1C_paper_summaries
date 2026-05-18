@@ -5,8 +5,6 @@ slug: dance-interventions-for-falls-prevention
 sources:
   - fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention
   - fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster
-- fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention
-- fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster
 tags:
 - falls-prevention
 title: Dance Interventions for Falls Prevention

@@ -5,8 +5,6 @@ slug: a-framework-for-arts-in-health-programmes
 sources:
   - fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in
   - fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(2)
-- fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in
-- fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(2)
 tags:
 - research-framework
 title: A Framework for Arts in Health Programmes

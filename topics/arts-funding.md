@@ -6,9 +6,6 @@ sources:
   - fxa301-week01-how-to-apply-for-money-for-your-arts-project
   - fxa301-week01-peer-handbook-for-assessment-panels
   - fxa301-week01-web-article-mcgann-2024
-- fxa301-week01-how-to-apply-for-money-for-your-arts-project
-- fxa301-week01-peer-handbook-for-assessment-panels
-- fxa301-week01-web-article-mcgann-2024
 tags:
 - arts-funding
 title: Arts Funding

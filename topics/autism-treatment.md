@@ -6,9 +6,6 @@ sources:
   - fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)
   - fxa303-week04-play-interventions-for-neurodivergent-children-and
   - fxa303-week04-play-therapy-in-children-with-autism-its-role-implications
-- fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)
-- fxa303-week04-play-interventions-for-neurodivergent-children-and
-- fxa303-week04-play-therapy-in-children-with-autism-its-role-implications
 tags:
 - autism-treatment
 title: Play Therapy in Autism Treatment

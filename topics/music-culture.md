@@ -5,8 +5,6 @@ slug: music-and-emergent-social-phenomena
 sources:
   - fxa100-week02-transcript-moshing-with-physics-jesse-silverberg-tedxyale
   - fxa301-week06-brisbanes-pub-choir-movement-marks-first-year
-- fxa100-week02-transcript-moshing-with-physics-jesse-silverberg-tedxyale
-- fxa301-week06-brisbanes-pub-choir-movement-marks-first-year
 tags:
 - music-culture
 title: Music and Emergent Social Phenomena

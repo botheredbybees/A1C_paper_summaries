@@ -5,8 +5,6 @@ slug: workforce-development-in-healthcare-and-arts-integration
 sources:
   - fxa301-week03-advancing-practice-in-arts-in-health-artist-workforce
   - fxa303-week09-the-trauma-informed-care-and-practice-organisational
-- fxa301-week03-advancing-practice-in-arts-in-health-artist-workforce
-- fxa303-week09-the-trauma-informed-care-and-practice-organisational
 tags:
 - workforce-development
 title: Workforce Development in Healthcare and Arts Integration

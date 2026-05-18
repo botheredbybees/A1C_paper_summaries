@@ -5,9 +5,6 @@ slug: evaluation-frameworks-for-creative-arts-projects
 sources:
   - fxa100-week04-creative-and-credible-evaluation-for-arts-health-and-well
   - fxa301-week01-arts-for-health-and-wellbeing-an-evaluation-framework
-- fxa100-week04-creative-and-credible-evaluation-for-arts-health-and-well
-- fxa301-week01-arts-for-health-and-wellbeing-an-evaluation-framework
-- fxa301-week01-lesson-fxa301-week01-page-3-hm-evaluating-a-project
 tags:
 - evaluation-frameworks
 title: Evaluation Frameworks for Creative Arts Projects

@@ -5,8 +5,6 @@ slug: cultural-storytelling-through-puppetry
 sources:
   - fxa303-week05-fxa303-week-5-welcome
   - fxa303-week05-puppets-and-self-care-for-task-2
-- fxa303-week05-fxa303-week-5-welcome
-- fxa303-week05-puppets-and-self-care-for-task-2
 tags:
 - cultural-storytelling
 title: Cultural Storytelling Through Puppetry

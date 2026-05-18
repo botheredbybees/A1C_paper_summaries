@@ -5,8 +5,6 @@ slug: stream-of-consciousness
 sources:
   - fxa202-week05-stream-of-consciousness
   - fxa202-week06-lesson-fxa202-week06-week-6
-- fxa202-week05-stream-of-consciousness
-- fxa202-week06-lesson-fxa202-week06-week-6
 tags:
 - stream-of-consciousness
 title: Stream Of Consciousness

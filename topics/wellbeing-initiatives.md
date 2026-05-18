@@ -12,15 +12,6 @@ sources:
   - fxa301-week05-the-beaney-health-and-wellbeing-toolkit
   - fxa301-week09-week-9-lecture-dr-brendan-lamb
   - fxa301-week10-sing-your-heart-out-community-singing-as-part-of-mental
-- fxa301-week01-arts-in-health-designing-and-researching-interventions
-- fxa301-week05-case-studies-of-visual-arts-with-and-for-communities
-- fxa301-week05-happy-museum-project-principles
-- fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing
-- fxa301-week05-museums-and-health-emerging-spatial-practices
-- fxa301-week05-museums-for-health-and-wellbeing
-- fxa301-week05-the-beaney-health-and-wellbeing-toolkit
-- fxa301-week09-week-9-lecture-dr-brendan-lamb
-- fxa301-week10-sing-your-heart-out-community-singing-as-part-of-mental
 tags:
 - wellbeing-initiatives
 title: Museums and Wellbeing Initiatives

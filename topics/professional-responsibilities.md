@@ -5,8 +5,6 @@ slug: professional-responsibilities-and-ethical-considerations
 sources:
   - fxa301-arts-in-health-ch76-3-responsibility
   - fxa301-arts-in-health-ch76-3-responsibility-(2)
-- fxa301-arts-in-health-ch76-3-responsibility
-- fxa301-arts-in-health-ch76-3-responsibility-(2)
 tags:
 - professional-responsibilities
 title: Professional Responsibilities and Ethical Considerations

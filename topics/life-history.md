@@ -5,8 +5,6 @@ slug: life-history-in-dementia-care
 sources:
   - fxa100-excellence-in-dementia-care--ch10-chapter-15
   - fxa100-excellence-in-dementia-care--ch11-chapter-17
-- fxa100-excellence-in-dementia-care--ch10-chapter-15
-- fxa100-excellence-in-dementia-care--ch11-chapter-17
 tags:
 - life-history
 title: Life History in Dementia Care

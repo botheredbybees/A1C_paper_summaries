@@ -5,8 +5,6 @@ slug: personal-storytelling
 sources:
   - fxa202-week09-personal-storytelling-and-memoir-writing
   - fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay
-- fxa202-week09-personal-storytelling-and-memoir-writing
-- fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay
 tags:
 - personal-storytelling
 title: Personal Storytelling

@@ -10,13 +10,6 @@ sources:
   - fxa301-week05-week-5-activities-fxa301-arts-in-the-community
   - fxa301-week08-lesson-fxa301-week07-page-4-week-3-activities
   - fxa301-week09-lesson-fxa301-week09-page-4-week-3-activities
-- fxa301-week01-lesson-fxa301-week01-chapter-3-music-and-the-damaged
-- fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community
-- fxa301-week03-lesson-fxa301-week03-page-4-week-3-activities
-- fxa301-week05-lesson-fxa301-week05-page-4-week-3-activities
-- fxa301-week05-week-5-activities-fxa301-arts-in-the-community
-- fxa301-week08-lesson-fxa301-week07-page-4-week-3-activities
-- fxa301-week09-lesson-fxa301-week09-page-4-week-3-activities
 tags:
 - arts-in-community
 title: Arts in the Community

@@ -5,9 +5,6 @@ slug: music-cognition
 sources:
   - fxa100-week13-hearing-what-the-body-feels-auditory-encoding-of-rhythmic
   - fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2)
-- fxa100-week02-hearing-and-music
-- fxa100-week03-experimental-evidence-for-synchronization-to-a-musical-beat
-- fxa100-week03-the-effects-of-music-on-the-brain-video-transcript
 tags:
 - music-cognition
 title: Music Cognition

@@ -6,9 +6,6 @@ sources:
   - fxa303-week01-teachers-perspectives-on-providing-support-to-children
   - fxa303-week02-a-new-context-affording-for-regulation-the-case-of-musical
   - fxa303-week02-accessing-the-inaccessible-redefining-play-as-a-spectrum
-- fxa303-week01-teachers-perspectives-on-providing-support-to-children
-- fxa303-week02-a-new-context-affording-for-regulation-the-case-of-musical
-- fxa303-week02-accessing-the-inaccessible-redefining-play-as-a-spectrum
 tags:
 - educational-psychology
 title: Educational Psychology in Trauma-Informed Care

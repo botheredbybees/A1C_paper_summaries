@@ -8,10 +8,6 @@ sources:
   - fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia
   - fxa100-week11-dancing-and-the-brain
   - fxa301-week06-feasibility-and-preliminary-effects-of-ballet-based-group
-- fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients
-- fxa100-week06-how-creating-sculpture-benefits-people-with-dementia
-- fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia
-- fxa301-week06-feasibility-and-preliminary-effects-of-ballet-based-group
 tags:
 - cognitive-enhancement
 title: Cognitive Enhancement Through Creative and Physical Activities

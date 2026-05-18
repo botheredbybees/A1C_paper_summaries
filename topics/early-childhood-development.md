@@ -6,9 +6,6 @@ sources:
   - fxa303-week02-infancy-and-the-early-years
   - fxa303-week02-lesson-fxa303-week02-topic-activities-2
   - fxa303-week02-scientific-thinking-in-young-children-theoretical-advances
-- fxa303-week02-infancy-and-the-early-years
-- fxa303-week02-lesson-fxa303-week02-topic-activities-2
-- fxa303-week02-scientific-thinking-in-young-children-theoretical-advances
 tags:
 - early-childhood-development
 title: Early Childhood Development

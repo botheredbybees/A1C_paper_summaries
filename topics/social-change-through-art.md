@@ -6,9 +6,6 @@ sources:
   - fxa100-week09-applied-theatre-problems-and-possibilities
   - fxa100-week09-augusto-boals-forum-theatre-for-teachers
   - fxa301-week06-recontextualizing-music-for-social-change
-- fxa100-week09-applied-theatre-problems-and-possibilities
-- fxa100-week09-augusto-boals-forum-theatre-for-teachers
-- fxa301-week06-recontextualizing-music-for-social-change
 tags:
 - social-change-through-art
 title: Social Change Through Art

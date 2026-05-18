@@ -6,8 +6,6 @@ sources:
   - fxa202-week13-an-applied-phenomenology-the-inner-life-of-writing-poetry
   - fxa301-week01-a-step-by-step-approach-to-the-research-process
   - fxa303-week10-yesterday-i-couldnt-see-tomorrows-sun-shines-now-sharing
-- fxa301-week01-a-step-by-step-approach-to-the-research-process
-- fxa303-week10-yesterday-i-couldnt-see-tomorrows-sun-shines-now-sharing
 tags:
 - creative-practices
 title: Creative Arts for Community Wellbeing

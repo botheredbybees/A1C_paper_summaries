@@ -5,8 +5,6 @@ slug: risk-of-bias-assessment
 sources:
   - fxa301-week01-risk-of-bias-in-non-randomized-studies-of-interventions
   - fxa301-week01-the-cochrane-collaborations-tool-for-assessing-risk-of-bias
-- fxa301-week01-risk-of-bias-in-non-randomized-studies-of-interventions
-- fxa301-week01-the-cochrane-collaborations-tool-for-assessing-risk-of-bias
 tags:
 - risk-of-bias-assessment
 title: Risk Of Bias Assessment

@@ -6,8 +6,6 @@ sources:
   - fxa301-week01-making-art-with-communities-a-work-guide
   - fxa301-week01-making-art-with-communities-a-work-guide-(3)
   - fxa301-week11-artistic-representations-of-refugees-what-is-the-role-of
-- fxa301-week01-making-art-with-communities-a-work-guide
-- fxa301-week01-making-art-with-communities-a-work-guide-(3)
 tags:
 - collaborative-projects
 title: Collaborative Art Projects

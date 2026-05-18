@@ -7,9 +7,6 @@ sources:
   - fxa202-week10-poetic-expressions-of-internal-struggle
   - fxa202-week13-an-applied-phenomenology-the-inner-life-of-writing-poetry
   - fxa301-week08-transcript-youtube-q7-axxnucfq
-- fxa100-week08-transcript-youtube-cilh21tfqem
-- fxa202-week10-poetic-expressions-of-internal-struggle
-- fxa301-week08-transcript-youtube-q7-axxnucfq
 tags:
 - poetry
 title: Appreciation Of Nature And Self-expression Through Poetry

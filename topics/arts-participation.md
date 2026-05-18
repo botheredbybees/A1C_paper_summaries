@@ -5,8 +5,6 @@ slug: arts-participation
 sources:
   - fxa301-week01-lesson-fxa301-week01-page-3-arts-participation
   - fxa301-week03-creating-our-future-results-of-the-national-arts
-- fxa301-week01-lesson-fxa301-week01-page-3-arts-participation
-- fxa301-week03-creating-our-future-results-of-the-national-arts
 tags:
 - arts-participation
 title: Arts Participation

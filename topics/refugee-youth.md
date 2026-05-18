@@ -5,8 +5,6 @@ slug: refugee-youth
 sources:
   - fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy
   - fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to-(2)
-- fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy
-- fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to-(2)
 tags:
 - refugee-youth
 title: Refugee Youth

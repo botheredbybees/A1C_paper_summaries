@@ -12,14 +12,6 @@ sources:
   - fxa303-week09-psychological-first-aid-supporting-people-affected-by
   - fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy
   - fxa303-week10-transcript-duration-2-36
-- fxa100-week04-music-therapy-promotes-mental-health-in-schools
-- fxa301-week10-body-talk-examining-a-collaborative-multiple-visit-program
-- fxa301-week10-eating-disorders-and-art-therapy
-- fxa301-week10-social-action-in-art-therapy-with-veterans
-- fxa303-week01-an-overview-of-play-therapy
-- fxa303-week09-psychological-first-aid-supporting-people-affected-by
-- fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy
-- fxa303-week10-transcript-duration-2-36
 tags:
 - mental-health-intervention
 title: Mental Health Interventions in Educational and Disaster Settings

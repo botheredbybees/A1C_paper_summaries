@@ -5,8 +5,6 @@ slug: creative-recovery
 sources:
   - fxa303-week09-national-taskforce-for-creative-recovery-recommendations
   - fxa303-week09-web-article-creative-2023
-- fxa303-week09-national-taskforce-for-creative-recovery-recommendations
-- fxa303-week09-web-article-creative-2023
 tags:
 - creative-recovery
 title: Creative Recovery

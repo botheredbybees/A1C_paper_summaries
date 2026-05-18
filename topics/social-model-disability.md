@@ -7,10 +7,6 @@ sources:
   - fxa303-week04-exploring-the-critiques-of-the-social-model-of-disability
   - fxa303-week04-unconscious-bias-and-the-medical-model-how-the-social-model
   - fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental
-- fxa301-week09-lesson-fxa301-week09-page-2
-- fxa303-week04-exploring-the-critiques-of-the-social-model-of-disability
-- fxa303-week04-unconscious-bias-and-the-medical-model-how-the-social-model
-- fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental
 tags:
 - social-model-disability
 title: Social Model Of Disability

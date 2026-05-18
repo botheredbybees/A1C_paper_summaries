@@ -5,8 +5,6 @@ slug: well-being-through-art
 sources:
   - fxa100-week04-what-is-singing-for-the-brain
   - fxa100-week08-why-the-arts
-- fxa100-week04-what-is-singing-for-the-brain
-- fxa100-week08-why-the-arts
 tags:
 - well-being-through-art
 title: Well-being Through Art

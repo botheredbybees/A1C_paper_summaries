@@ -5,8 +5,6 @@ slug: aesthetic-preferences
 sources:
   - fxa301-week02-can-science-account-for-taste-psychological-insights-into
   - fxa301-week02-personality-correlates-of-aesthetic-preferences-for-art
-- fxa301-week02-can-science-account-for-taste-psychological-insights-into
-- fxa301-week02-personality-correlates-of-aesthetic-preferences-for-art
 tags:
 - aesthetic-preferences
 title: Aesthetic Preferences

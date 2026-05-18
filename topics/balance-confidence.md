@@ -5,7 +5,6 @@ slug: balance-confidence-in-parkinson-s-disease
 sources:
   - fxa100-week13-the-activities-specific-balance-confidence-abc-scale-in
   - fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait
-- fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait
 tags:
 - balance-confidence
 title: Balance Confidence in Parkinson's Disease

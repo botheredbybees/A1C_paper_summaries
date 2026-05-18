@@ -6,8 +6,6 @@ sources:
   - fxa100-week07-iremember-loan-resource-flyer
   - fxa100-week10-person-centred-dementia-care
   - fxa100-week11-about-the-octaband-dance-for-connection
-- fxa100-week07-iremember-loan-resource-flyer
-- fxa100-week10-person-centred-dementia-care
 tags:
 - dementia-support
 title: Person-Centered Dementia Support

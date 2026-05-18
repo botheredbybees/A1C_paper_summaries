@@ -5,8 +5,6 @@ slug: cognitive-engagement-through-creative-activities
 sources:
   - fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care
   - fxa100-week06-art-creativity
-- fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care
-- fxa100-week06-art-creativity
 tags:
 - cognitive-engagement
 title: Cognitive Engagement Through Creative Activities

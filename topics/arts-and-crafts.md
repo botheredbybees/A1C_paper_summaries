@@ -5,8 +5,6 @@ slug: arts-and-crafts-therapy
 sources:
   - fxa100-week07-transcript-youtube-qvnfj1otdyc
   - fxa100-week08-web-article-reyner-2006
-- fxa100-week07-transcript-youtube-qvnfj1otdyc
-- fxa100-week08-web-article-reyner-2006
 tags:
 - arts-and-crafts
 title: Arts and Crafts Therapy

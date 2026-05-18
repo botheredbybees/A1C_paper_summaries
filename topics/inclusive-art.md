@@ -5,8 +5,6 @@ slug: inclusive-art
 sources:
   - fxa301-week01-making-art-with-communities-a-work-guide-(2)
   - fxa301-week09-how-josie-webster-is-conquering-the-art-world-with
-- fxa301-week01-making-art-with-communities-a-work-guide-(2)
-- fxa301-week09-how-josie-webster-is-conquering-the-art-world-with
 tags:
 - inclusive-art
 title: Inclusive Art

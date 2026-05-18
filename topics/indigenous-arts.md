@@ -5,8 +5,6 @@ slug: indigenous-arts-in-therapy-and-mental-health
 sources:
   - fxa303-week10-indigenous-and-traditional-arts-in-art-therapy-value
   - fxa303-week10-lesson-fxa303-week10-page-2-indigenous-arts-and-mental
-- fxa303-week10-indigenous-and-traditional-arts-in-art-therapy-value
-- fxa303-week10-lesson-fxa303-week10-page-2-indigenous-arts-and-mental
 tags:
 - indigenous-arts
 title: Indigenous Arts in Therapy and Mental Health

@@ -5,9 +5,6 @@ slug: improvisational-music-therapy
 sources:
   - fxa100-week09-transcript-youtube-y1uwix2fnv4
   - fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam
-- fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-(2)
-- fxa100-week09-transcript-youtube-y1uwix2fnv4
-- fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam
 tags:
 - improvisation
 title: Improvisational Music Therapy

@@ -6,8 +6,6 @@ sources:
   - fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2)
   - fxa301-week06-lesson-fxa301-week06-page-2
   - fxa301-week08-web-article-sextou-2017
-- fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2)
-- fxa301-week06-lesson-fxa301-week06-page-2
 tags:
 - elderly-wellbeing
 title: Elderly Wellbeing Through Creative Arts

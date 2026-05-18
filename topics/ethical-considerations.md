@@ -6,9 +6,6 @@ sources:
   - fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography
   - fxa301-week01-making-art-with-communities-a-work-guide-(2)
   - fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness
-- fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography
-- fxa301-week01-making-art-with-communities-a-work-guide-(2)
-- fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness
 tags:
 - ethical-considerations
 title: Ethical Considerations in Therapeutic Practices

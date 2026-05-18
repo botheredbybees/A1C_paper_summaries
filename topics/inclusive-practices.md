@@ -7,9 +7,6 @@ sources:
   - fxa301-week01-making-art-with-communities-a-work-guide-(3)
   - fxa301-week11-glossary-choose-art
   - fxa303-week11-orchestras-for-all-impact-report-2023-2024
-- fxa301-week01-engaging-in-community-music-an-introduction-(2)
-- fxa301-week01-lesson-fxa301-week01-page-2-hm
-- fxa301-week01-making-art-with-communities-a-work-guide-(3)
 tags:
 - inclusive-practices
 title: Inclusive Practices

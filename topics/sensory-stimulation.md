@@ -5,9 +5,6 @@ slug: sensory-stimulation
 sources:
   - fxa100-week12-in-the-moment-with-music-an-exploration-of-the-embodied-and
   - fxa303-week13-remembering-yesterday-caring-today-reminiscence-in-dementia
-- fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales
-- fxa100-week07-creating-resources-memory-trees-and-boxes
-- fxa100-week08-unlocking-the-door-to-being-there-the-contribution-of
 tags:
 - sensory-stimulation
 title: Sensory Stimulation

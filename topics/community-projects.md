@@ -5,8 +5,6 @@ slug: arts-and-health-community-projects
 sources:
   - fxa301-oxford-textbook-of-creative-arts-ch04-chapter-17
   - fxa301-week01-lesson-fxa301-week01-page-1-hm
-- fxa301-oxford-textbook-of-creative-arts-ch04-chapter-17
-- fxa301-week01-lesson-fxa301-week01-page-1-hm
 tags:
 - community-projects
 title: Arts and Health Community Projects

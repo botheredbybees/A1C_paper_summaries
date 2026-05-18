@@ -7,8 +7,6 @@ sources:
   - fxa100-week03-personalized-music-for-persons-with-dementia-and-their-life
   - fxa100-week11-dance-and-movement-therapeutic-methods-in-management-of
   - fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living
-- fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care
-- fxa100-week03-personalized-music-for-persons-with-dementia-and-their-life
 tags:
 - cognitive-functioning
 title: Music Therapy for Cognitive Functioning

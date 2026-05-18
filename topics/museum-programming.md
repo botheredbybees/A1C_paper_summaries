@@ -6,9 +6,6 @@ sources:
   - fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum
   - fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people
   - fxa301-week10-body-talk-examining-a-collaborative-multiple-visit-program
-- fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum
-- fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people
-- fxa301-week10-body-talk-examining-a-collaborative-multiple-visit-program
 tags:
 - museum-programming
 title: Museum Programs for People with Dementia

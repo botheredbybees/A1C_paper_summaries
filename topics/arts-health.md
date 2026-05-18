@@ -12,14 +12,6 @@ sources:
   - fxa301-week03-cross-sector-strategies-for-health-and-community-well-being
   - fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing
   - fxa303-week11-web-article-fancourt-2019
-- fxa202-week10-conclusions-and-implications-for-future-research
-- fxa202-week10-research-and-evidence-in-arts-health-and-well-being
-- fxa301-week01-arts-in-health-designing-and-researching-interventions
-- fxa301-week01-fxa301-sem-1-2026-week-4-lecture
-- fxa301-week03-arts-and-health-evaluation-toolkit-a-how-to-guide-to
-- fxa301-week03-arts-health-and-wellbeing-evidence-and-implications
-- fxa301-week03-cross-sector-strategies-for-health-and-community-well-being
-- fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing
 tags:
 - arts-health
 title: Arts and Health

@@ -5,8 +5,6 @@ slug: creative-arts-and-disaster-management
 sources:
   - fxa303-week09-lesson-fxa303-week09-page-1-overview
   - fxa303-week09-national-taskforce-for-creative-recovery-recommendations
-- fxa303-week09-lesson-fxa303-week09-page-1-overview
-- fxa303-week09-national-taskforce-for-creative-recovery-recommendations
 tags:
 - disaster-management
 title: Creative Arts and Disaster Management

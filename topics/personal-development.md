@@ -5,8 +5,6 @@ slug: journaling-and-personal-development
 sources:
   - fxa202-week09-journaling-books-review
   - fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental
-- fxa202-week09-journaling-books-review
-- fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental
 tags:
 - personal-development
 title: Journaling and Personal Development

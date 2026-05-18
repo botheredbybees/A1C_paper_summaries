@@ -5,8 +5,6 @@ slug: photojournalism-in-therapeutic-applications
 sources:
   - fxa202-week06-week-six-lecture-components-of-visual-storytelling-(2)
   - fxa202-week10-critical-reflection-my-photo-essay
-- fxa202-week06-week-six-lecture-components-of-visual-storytelling-(2)
-- fxa202-week10-critical-reflection-my-photo-essay
 tags:
 - photo-journalism
 title: Photojournalism in Therapeutic Applications

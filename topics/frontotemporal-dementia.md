@@ -6,9 +6,6 @@ sources:
   - fxa100-week01-what-is-frontotemporal-dementia
   - fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia
   - fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia-(2)
-- fxa100-week01-what-is-frontotemporal-dementia
-- fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia
-- fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia-(2)
 tags:
 - frontotemporal-dementia
 title: Frontotemporal Dementia

@@ -5,8 +5,6 @@ slug: community-arts-engagement-for-mental-health-and-dementia-care-in-remote-co
 sources:
   - fxa301-week01-the-five-projectaddressing-the-stigma-of-mental-health
   - fxa303-week10-role-of-art-centres-for-aboriginal-australians-living-with
-- fxa301-week01-the-five-projectaddressing-the-stigma-of-mental-health
-- fxa303-week10-role-of-art-centres-for-aboriginal-australians-living-with
 tags:
 - remote-communities
 title: Community Arts Engagement for Mental Health and Dementia Care in Remote Communities

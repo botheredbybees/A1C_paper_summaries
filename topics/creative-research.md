@@ -5,8 +5,6 @@ slug: creative-research-methodologies
 sources:
   - fxa100-week04-a-step-by-step-approach-to-the-research-process
   - fxa301-week01-web-article-mcgann-2024
-- fxa100-week04-a-step-by-step-approach-to-the-research-process
-- fxa301-week01-web-article-mcgann-2024
 tags:
 - creative-research
 title: Creative Research Methodologies

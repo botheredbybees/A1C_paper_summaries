@@ -9,11 +9,6 @@ sources:
   - fxa301-week01-making-art-with-communities-a-work-guide
   - fxa301-week01-making-art-with-communities-a-work-guide-(3)
   - fxa301-week11-refugee-art-project
-- fxa100-week07-milpara-art-mob-2012-transcript
-- fxa100-week08-web-article-gross-2016
-- fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts
-- fxa301-week01-making-art-with-communities-a-work-guide
-- fxa301-week01-making-art-with-communities-a-work-guide-(3)
 tags:
 - community-art
 title: Community Art Programs

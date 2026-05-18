@@ -7,8 +7,6 @@ sources:
   - fxa100-week06-transcript-art-gives-same-level-of-pleasure-as-being-in-love
   - fxa100-week11-leisure-activities-and-the-risk-of-dementia-in-the-elderly
   - fxa100-week11-lesson-fxa100-week11-page-1-welcome-to-week-10
-- fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees
-- fxa100-week06-transcript-art-gives-same-level-of-pleasure-as-being-in-love
 tags:
 - brain-stimulation
 title: Brain Stimulation Through Arts

@@ -7,10 +7,6 @@ sources:
   - fxa202-week09-lesson-fxa202-week09-page-4
   - fxa301-week08-transcript-youtube-channel-school-of-education-and
   - fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods
-- fxa202-week08-lesson-fxa202-week08-page-2-editing-your-images
-- fxa202-week09-lesson-fxa202-week09-page-4
-- fxa301-week08-transcript-youtube-channel-school-of-education-and
-- fxa303-week06-effectiveness-of-the-puppet-show-and-storytelling-methods
 tags:
 - storytelling
 title: Storytelling Across Domains

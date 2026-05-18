@@ -6,8 +6,6 @@ sources:
   - fxa301-applied-artes-and-health-ch03-85-ulrich
   - fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37
   - fxa301-week08-school-based-drama-interventions-in-health-promotion-for
-- fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37
-- fxa301-week08-school-based-drama-interventions-in-health-promotion-for
 tags:
 - health-education
 title: Creative Arts in Health Education

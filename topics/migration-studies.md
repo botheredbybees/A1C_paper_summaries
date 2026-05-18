@@ -6,9 +6,6 @@ sources:
   - fxa303-week10-researching-arts-culture-migration-and-change-a-multi
   - fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)
   - fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)
-- fxa303-week10-researching-arts-culture-migration-and-change-a-multi
-- fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)
-- fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)
 tags:
 - migration-studies
 title: Multidisciplinary Approaches to Migration Studies

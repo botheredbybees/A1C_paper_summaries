@@ -5,8 +5,6 @@ slug: mindfulness-techniques
 sources:
   - fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using
   - fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay
-- fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using
-- fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay
 tags:
 - mindfulness-techniques
 title: Mindfulness Techniques

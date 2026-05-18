@@ -11,10 +11,6 @@ sources:
   - fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
   - fxa303-week13-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
   - fxa303-week13-the-sydney-multisite-intervention-of-laughterbosses-and
-- fxa100-week01-dementia-facts-and-figures
-- fxa100-week09-in-my-fathers-words-review-sophisticated-dementia-drama
-- fxa301-week06-engaging-with-music-and-dance
-- fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
 tags:
 - elder-care
 title: Elder Care Interventions

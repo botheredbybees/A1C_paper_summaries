@@ -6,9 +6,6 @@ sources:
   - fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration
   - fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration-(2)
   - fxa303-week10-arts-and-refugees-multidisciplinary-perspectives-vol-2
-- fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration
-- fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration-(2)
-- fxa303-week10-arts-and-refugees-multidisciplinary-perspectives-vol-2
 tags:
 - cultural-integration
 title: Cultural Integration in Musical Production

@@ -5,8 +5,6 @@ slug: visual-arts-interventions
 sources:
   - fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery
   - fxa301-week05-case-studies-of-visual-arts-with-and-for-communities
-- fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery
-- fxa301-week05-case-studies-of-visual-arts-with-and-for-communities
 tags:
 - visual-arts-interventions
 title: Visual Arts Interventions

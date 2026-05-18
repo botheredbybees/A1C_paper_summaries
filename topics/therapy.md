@@ -5,8 +5,6 @@ slug: creative-arts-therapy
 sources:
   - fxa301-oxford-textbook-of-creative-arts-ch04-chapter-17
   - fxa301-week10-lesson-fxa301-week10-page-1
-- fxa301-oxford-textbook-of-creative-arts-ch04-chapter-17
-- fxa301-week10-lesson-fxa301-week10-page-1
 tags:
 - therapy
 title: Creative Arts Therapy

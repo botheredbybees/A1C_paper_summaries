@@ -6,8 +6,6 @@ sources:
   - fxa202-week02-street-photographers-rights
   - fxa202-week02-street-photography-composition-lesson-12-color-theory
   - fxa202-week13-an-applied-phenomenology-the-inner-life-of-writing-poetry
-- fxa202-week02-street-photographers-rights
-- fxa202-week02-street-photography-composition-lesson-12-color-theory
 tags:
 - street-photography
 title: Street Photography

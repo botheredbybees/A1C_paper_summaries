@@ -8,11 +8,6 @@ sources:
   - fxa202-week02-lesson-fxa202-week02-page-3
   - fxa202-week03-lesson-fxa202-week03-page-2
   - fxa202-week06-lesson-fxa202-week06-page-2
-- fxa100-week07-transcript-youtube-qvnfj1otdyc
-- fxa202-week02-lesson-fxa202-week02-page-2
-- fxa202-week02-lesson-fxa202-week02-page-3
-- fxa202-week03-lesson-fxa202-week03-page-2
-- fxa202-week06-lesson-fxa202-week06-page-2
 tags:
 - photography
 title: Photography Techniques and Impact

@@ -5,8 +5,6 @@ slug: cost-effectiveness-of-art-based-interventions-in-healthcare
 sources:
   - fxa301-week01-is-there-compelling-evidence-for-using-the-arts-in-health
   - fxa301-week03-implementing-creative-health
-- fxa301-week01-is-there-compelling-evidence-for-using-the-arts-in-health
-- fxa301-week03-implementing-creative-health
 tags:
 - cost-effectiveness
 title: Cost-effectiveness of Art-based Interventions in Healthcare

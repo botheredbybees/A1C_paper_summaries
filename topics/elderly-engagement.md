@@ -5,8 +5,6 @@ slug: elderly-engagement
 sources:
   - fxa100-week07-aged-care-outreach
   - fxa100-week07-creating-resources-memory-trees-and-boxes
-- fxa100-week07-aged-care-outreach
-- fxa100-week07-creating-resources-memory-trees-and-boxes
 tags:
 - elderly-engagement
 title: Elderly Engagement

@@ -6,9 +6,6 @@ sources:
   - fxa303-week02-fxa303-week-2-child-development-and-creative-arts
   - fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental
   - fxa303-week10-fxa303-web-lecture-week-10-guidance-on-assessment-task-4
-- fxa303-week02-fxa303-week-2-child-development-and-creative-arts
-- fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental
-- fxa303-week10-fxa303-web-lecture-week-10-guidance-on-assessment-task-4
 tags:
 - play-based-learning
 title: Play-Based Learning

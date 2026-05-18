@@ -17,18 +17,6 @@ sources:
   - fxa100-week13-exercise-benefits-on-alzheimers-disease-state-of-the-science
   - fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to
   - fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering
-- fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a
-- fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy
-- fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical
-- fxa100-week01-the-science-of-lewy-body-dementia-video-transcript
-- fxa100-week01-transcript-what-is-alzheimers-disease-ivan-seah-yu-jun
-- fxa100-week01-unveiling-the-therapeutic-potential-of-natural-products-in
-- fxa100-week01-what-is-alzheimers-disease-video-transcript
-- fxa100-week03-alzheimers-disease-music-engagement-quality-of-life
-- fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers
-- fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers
-- fxa100-week07-dementia-in-our-mob-and-around-the-world
-- fxa100-week07-transcript-artz-museum-program-for-alzheimers-url-only
 tags:
 - alzheimers-disease
 title: Alzheimer's Disease Management and Prevention

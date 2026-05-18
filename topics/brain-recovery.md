@@ -5,8 +5,6 @@ slug: music-therapy-for-brain-recovery
 sources:
   - fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there
   - fxa100-week02-transcript-duration-631
-- fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there
-- fxa100-week02-transcript-duration-631
 tags:
 - brain-recovery
 title: Music Therapy for Brain Recovery

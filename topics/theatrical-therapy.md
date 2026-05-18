@@ -6,8 +6,6 @@ sources:
   - fxa100-week09-applied-theatre-problems-and-possibilities
   - fxa100-week09-implementing-living-room-theatre-activities-for-people-with
   - fxa100-week12-testing-the-implementation-of-the-veder-contact-method-a
-- fxa100-week09-applied-theatre-problems-and-possibilities
-- fxa100-week09-implementing-living-room-theatre-activities-for-people-with
 tags:
 - theatrical-therapy
 title: Theatrical Therapy

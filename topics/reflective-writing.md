@@ -5,8 +5,6 @@ slug: reflective-writing
 sources:
   - fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays
   - fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2)
-- fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays
-- fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2)
 tags:
 - reflective-writing
 title: Reflective Writing

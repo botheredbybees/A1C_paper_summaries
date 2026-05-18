@@ -6,9 +6,6 @@ sources:
   - fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision
   - fxa301-arts-in-health-ch67-chapter-6
   - fxa301-week01-robins-i-a-tool-for-assessing-risk-of-bias-in-non
-- fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision
-- fxa301-arts-in-health-ch67-chapter-6
-- fxa301-week01-robins-i-a-tool-for-assessing-risk-of-bias-in-non
 tags:
 - healthcare-evaluation
 title: Healthcare Evaluation

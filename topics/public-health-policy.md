@@ -7,10 +7,6 @@ sources:
   - fxa301-week03-arts-public-health-and-the-national-arts-and-health
   - fxa301-week03-national-arts-and-health-framework
   - fxa303-week09-after-the-fires-looking-to-the-future-using-the-lessons
-- fxa100-week01-national-dementia-action-plan-indicators-dashboard
-- fxa301-week03-arts-public-health-and-the-national-arts-and-health
-- fxa301-week03-national-arts-and-health-framework
-- fxa303-week09-after-the-fires-looking-to-the-future-using-the-lessons
 tags:
 - public-health-policy
 title: Public Health Policy Frameworks

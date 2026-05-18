@@ -5,8 +5,6 @@ slug: rules-of-composition-in-photography
 sources:
   - fxa202-week02-10-tips-for-better-composition
   - fxa202-week02-improve-your-photography-skills-with-these-9-photo
-- fxa202-week02-10-tips-for-better-composition
-- fxa202-week02-improve-your-photography-skills-with-these-9-photo
 tags:
 - composition-rules
 title: Rules of Composition in Photography

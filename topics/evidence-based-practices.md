@@ -5,8 +5,6 @@ slug: evidence-based-practices-in-autism-spectrum-disorders
 sources:
   - fxa303-week04-educating-students-with-autism-spectrum-disorders
   - fxa303-week04-handbook-of-autism-and-pervasive-developmental-disorder
-- fxa303-week04-educating-students-with-autism-spectrum-disorders
-- fxa303-week04-handbook-of-autism-and-pervasive-developmental-disorder
 tags:
 - evidence-based-practices
 title: Evidence-Based Practices in Autism Spectrum Disorders

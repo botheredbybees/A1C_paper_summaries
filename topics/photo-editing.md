@@ -5,8 +5,6 @@ slug: photo-editing-techniques
 sources:
   - fxa202-week02-a-beginners-guide-to-photo-editing-with-snapseed
   - fxa202-week08-lesson-fxa202-week08-page-3
-- fxa202-week02-a-beginners-guide-to-photo-editing-with-snapseed
-- fxa202-week08-lesson-fxa202-week08-page-3
 tags:
 - photo-editing
 title: Photo Editing Techniques

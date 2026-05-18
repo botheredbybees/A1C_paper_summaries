@@ -5,8 +5,6 @@ slug: inclusive-theatre
 sources:
   - fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2
   - fxa301-week09-the-importance-of-disability-led-theatre
-- fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2
-- fxa301-week09-the-importance-of-disability-led-theatre
 tags:
 - inclusive-theatre
 title: Inclusive Theatre

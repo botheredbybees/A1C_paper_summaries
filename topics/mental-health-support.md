@@ -14,15 +14,6 @@ sources:
   - fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon
   - fxa303-week09-web-article-puddy-2020
   - fxa303-week11-mapping-q-the-university-of-arizona-museum-of-art
-- fxa202-week06-reflection-on-the-therapeutic-and-artistic-process-of
-- fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2)
-- fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing
-- fxa301-week08-transcript-youtube-i1dnrn0cj20
-- fxa301-week10-lesson-fxa301-week10-page-2
-- fxa303-week03-social-prescribing-roundtable-november-2019-report
-- fxa303-week04-play-interventions-for-neurodivergent-children-and
-- fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand
-- fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon
 tags:
 - mental-health-support
 title: Mental Health Support Through Creative Interventions

@@ -6,9 +6,6 @@ sources:
   - fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts
   - fxa303-week09-lesson-fxa303-week09-activities
   - fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design
-- fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts
-- fxa303-week09-lesson-fxa303-week09-activities
-- fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design
 tags:
 - trauma-informed-practice
 title: Trauma-Informed Practice

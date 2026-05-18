@@ -6,9 +6,6 @@ sources:
   - fxa303-week04-child-centered-play-therapy-as-an-intervention-for-children
   - fxa303-week04-impact-of-child-centered-play-therapy-intervention-on
   - fxa303-week09-exploring-child-centered-play-therapy-and-trauma-a
-- fxa303-week04-child-centered-play-therapy-as-an-intervention-for-children
-- fxa303-week04-impact-of-child-centered-play-therapy-intervention-on
-- fxa303-week09-exploring-child-centered-play-therapy-and-trauma-a
 tags:
 - child-centered-play-therapy
 title: Child-Centered Play Therapy

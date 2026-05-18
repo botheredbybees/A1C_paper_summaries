@@ -5,8 +5,6 @@ slug: supporting-children-experiencing-trauma
 sources:
   - fxa303-week01-teachers-perspectives-on-providing-support-to-children
   - fxa303-week09-using-creative-techniques-with-children-who-have
-- fxa303-week01-teachers-perspectives-on-providing-support-to-children
-- fxa303-week09-using-creative-techniques-with-children-who-have
 tags:
 - child-trauma
 title: Supporting Children Experiencing Trauma

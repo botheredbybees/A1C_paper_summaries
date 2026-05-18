@@ -7,10 +7,6 @@ sources:
   - fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of
   - fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of-(2)
   - fxa301-week01-research-ethics
-- fxa100-week04-research-ethics-in-arts-in-health-interventions
-- fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of
-- fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of-(2)
-- fxa301-week01-research-ethics
 tags:
 - research-ethics
 title: Research Ethics in Arts in Health Interventions

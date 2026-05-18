@@ -15,15 +15,6 @@ sources:
   - fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice
   - fxa303-week11-creative-pathways-for-juvenile-justice-an-overview-of
   - fxa303-week11-developing-creative-approaches-in-youth-justice-a-guide-for
-- fxa100-excellence-in-dementia-care--ch01-chapter-10
-- fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care
-- fxa100-week04-mindsong-transcript
-- fxa100-week10-playfully-engaging-people-living-with-dementia-searching
-- fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay
-- fxa301-make-arts-for-a-better-life-ch17-1-for-further-study-on-communication-channels
-- fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing
-- fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract
-- fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice
 tags:
 - creative-interventions
 title: Creative Interventions in Dementia Care

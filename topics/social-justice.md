@@ -7,7 +7,6 @@ sources:
   - fxa301-week11-refugee-art-project
   - fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on
   - fxa303-week11-web-article-andriani-2023
-- fxa303-week04-week-4-activities-neurodiversity-arts-and-play
 tags:
 - social-justice
 title: Neurodiversity and Social Justice in Music Therapy

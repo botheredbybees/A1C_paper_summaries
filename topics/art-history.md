@@ -5,8 +5,6 @@ slug: neural-processing-of-art
 sources:
   - fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what
   - fxa100-week06-web-article-tucker-2012
-- fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what
-- fxa100-week06-web-article-tucker-2012
 tags:
 - art-history
 title: Neural Processing of Art

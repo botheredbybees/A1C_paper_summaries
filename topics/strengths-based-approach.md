@@ -5,8 +5,6 @@ slug: strengths-based-approach
 sources:
   - fxa303-week09-recovery-oriented-language-guide
   - fxa303-week10-cultural-determinants-of-health-for-aboriginal-and-torres
-- fxa303-week09-recovery-oriented-language-guide
-- fxa303-week10-cultural-determinants-of-health-for-aboriginal-and-torres
 tags:
 - strengths-based-approach
 title: Strengths-Based Approach

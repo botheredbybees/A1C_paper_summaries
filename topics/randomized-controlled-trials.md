@@ -5,7 +5,6 @@ slug: randomized-controlled-trials
 sources:
   - fxa301-week01-an-introduction-to-research
   - fxa303-week13-non-pharmacological-interventions-for-agitation-in-dementia
-- fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism
 tags:
 - randomized-controlled-trials
 title: Randomized Controlled Trials

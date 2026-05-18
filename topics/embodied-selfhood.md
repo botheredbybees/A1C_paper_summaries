@@ -5,8 +5,6 @@ slug: embodied-selfhood
 sources:
   - fxa100-excellence-in-dementia-care--ch47-chapter-17
   - fxa100-excellence-in-dementia-care--ch57-chapter-17
-- fxa100-excellence-in-dementia-care--ch47-chapter-17
-- fxa100-excellence-in-dementia-care--ch57-chapter-17
 tags:
 - embodied-selfhood
 title: Embodied Selfhood

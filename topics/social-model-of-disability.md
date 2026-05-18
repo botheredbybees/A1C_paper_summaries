@@ -7,10 +7,6 @@ sources:
   - fxa301-week09-pwda-language-guide-a-guide-to-language-about-disability
   - fxa301-week09-transcript-the-following-video-from-people-with-disability
   - fxa301-week09-week-9-lecture-dr-brendan-lamb
-- fxa100-excellence-in-dementia-care--ch33-1-place-covers-the-person
-- fxa301-week09-pwda-language-guide-a-guide-to-language-about-disability
-- fxa301-week09-transcript-the-following-video-from-people-with-disability
-- fxa301-week09-week-9-lecture-dr-brendan-lamb
 tags:
 - social-model-of-disability
 title: Social Model Of Disability

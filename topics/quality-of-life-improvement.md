@@ -7,9 +7,6 @@ sources:
   - fxa100-week03-music-memory-the-ipod-project-video-transcript
   - fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients
   - fxa100-week12-comparative-efficacy-of-various-art-therapies-for-patients
-- fxa100-week03-implementation-survey-results-wisconsin-music-memory-program
-- fxa100-week03-music-memory-the-ipod-project-video-transcript
-- fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients
 tags:
 - quality-of-life-improvement
 title: Quality Of Life Improvement Through Music Therapy

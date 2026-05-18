@@ -10,8 +10,6 @@ sources:
   - fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a
   - fxa303-week13-pharmacotherapies-for-sleep-disturbances-in-dementia
   - fxa303-week13-reminiscence-therapy-for-dementia
-- fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it
-- fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and
 tags:
 - dementia-treatment
 title: Therapeutic Interventions for Dementia

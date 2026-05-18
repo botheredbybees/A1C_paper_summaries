@@ -10,9 +10,6 @@ sources:
   - fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple
   - fxa303-week13-behavioral-and-psychological-symptoms-of-dementia
   - fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering
-- fxa301-week03-art-for-better-health-and-wellbeing
-- fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our
-- fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple
 tags:
 - patient-care
 title: Art Therapy in Patient Care

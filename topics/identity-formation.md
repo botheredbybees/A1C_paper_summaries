@@ -7,9 +7,6 @@ sources:
   - fxa303-week02-web-article-orenstein-2022
   - fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than
   - fxa303-week09-treating-the-trauma-survivor-an-essential-guide-to-trauma
-- fxa301-week01-music-and-meaning-in-community-contexts
-- fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than
-- fxa303-week09-treating-the-trauma-survivor-an-essential-guide-to-trauma
 tags:
 - identity-formation
 title: Identity Formation Through Music and Trauma
