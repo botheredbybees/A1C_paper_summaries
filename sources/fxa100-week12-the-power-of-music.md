@@ -11,7 +11,7 @@ tags: ["neurology-of-music", "philosophy-of-music", "therapeutic-benefits", "fxa
 key_concepts: ["music-evocation-emotion-memory", "neurological-disorders-treatment"]
 methods: ["literature-review"]
 slug: fxa100-week12-the-power-of-music
-related: []
+related: ["therapeutic-benefits"]
 created: 2026-05-18
 updated: 2026-05-18
 ---
@@ -41,4 +41,4 @@ Oliver Sacks explores the profound impact of music on human beings, addressing i
 
 ## See Also
 
-*(none yet)*
+- [therapeutic-benefits](../topics/therapeutic-benefits.md)

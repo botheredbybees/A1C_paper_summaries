@@ -11,7 +11,7 @@ tags: ["dementia-treatment", "art-therapy-comparison", "mental-health-interventi
 key_concepts: ["cognitive-function", "agitation-behavior", "quality-of-life", "randomized-controlled-trials", "network-meta-analysis"]
 methods: ["network meta-analysis", "systematic review", "RCT"]
 slug: fxa100-week12-comparative-efficacy-of-various-art-therapies-for-patients
-related: []
+related: ["dementia-treatment", "mental-health-intervention", "network-meta-analysis", "neurological-rehabilitation", "quality-of-life-improvement"]
 created: 2026-05-18
 updated: 2026-05-18
 ---
@@ -48,4 +48,8 @@ This study conducted a network meta-analysis to compare the efficacy of various 
 
 ## See Also
 
-*(none yet)*
+- [dementia-treatment](../topics/dementia-treatment.md)
+- [mental-health-intervention](../topics/mental-health-intervention.md)
+- [network-meta-analysis](../topics/network-meta-analysis.md)
+- [neurological-rehabilitation](../topics/neurological-rehabilitation.md)
+- [quality-of-life-improvement](../topics/quality-of-life-improvement.md)

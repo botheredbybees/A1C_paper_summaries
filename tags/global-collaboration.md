@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: global-collaboration
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Global Collaboration

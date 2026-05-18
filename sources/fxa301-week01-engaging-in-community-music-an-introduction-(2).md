@@ -11,7 +11,7 @@ tags: ["community-music", "context-specific-practices", "fxa301", "inclusive-pra
 key_concepts: ["participatory-action-research", "context-specific-practices"]
 methods: ["case-study"]
 slug: fxa301-week01-engaging-in-community-music-an-introduction-(2)
-related: ["community-music", "inclusive-practices"]
+related: ["community-music", "inclusive-practices", "music-therapy-and-cognitive-stimulation-for-dementia"]
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -43,3 +43,4 @@ This introductory text explores the growing field of community music, emphasizin
 
 - [community-music](../topics/community-music.md)
 - [inclusive-practices](../topics/inclusive-practices.md)
+- [music-therapy-and-cognitive-stimulation-for-dementia](../topics/music-therapy-and-cognitive-stimulation-for-dementia.md)

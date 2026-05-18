@@ -11,7 +11,7 @@ tags: ["dance-movement-therapy", "fxa303", "mild-cognitive-impairment", "neurode
 key_concepts: ["parkinsons-disease", "mild-cognitive-impairment", "alzheimers-disease"]
 methods: ["systematic review"]
 slug: fxa303-week13-dance-movement-therapy-for-neurodegenerative-diseases-a
-related: ["dance-movement-therapy", "neurodegenerative-diseases", "systematic-review"]
+related: ["dance-movement-therapy", "mild-cognitive-impairment", "neurodegenerative-diseases", "systematic-review"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -41,5 +41,6 @@ This systematic review examines the impact of dance movement therapy (DMT) on ne
 ## See Also
 
 - [dance-movement-therapy](../topics/dance-movement-therapy.md)
+- [mild-cognitive-impairment](../topics/mild-cognitive-impairment.md)
 - [neurodegenerative-diseases](../topics/neurodegenerative-diseases.md)
 - [systematic-review](../topics/systematic-review.md)

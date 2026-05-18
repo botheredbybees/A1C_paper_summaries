@@ -11,7 +11,7 @@ tags: ["content-validation", "content-validity", "elderly-health", "fxa301", "he
 key_concepts: ["quality of life", "health-related quality of life measures", "content validity"]
 methods: ["qualitative think-aloud interviews"]
 slug: fxa301-week01-a-qualitative-investigation-of-older-adults
-related: ["elderly-health", "quality-of-life"]
+related: ["content-validity", "elderly-health", "quality-of-life"]
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -41,5 +41,6 @@ This study explores older adults’ understanding of quality of life (QoL) and t
 
 ## See Also
 
+- [content-validity](../topics/content-validity.md)
 - [elderly-health](../topics/elderly-health.md)
 - [quality-of-life](../topics/quality-of-life.md)

@@ -11,7 +11,7 @@ tags: ["artsmark", "creative-arts-intervention", "creative-arts-programs", "educ
 key_concepts: ["Artsmark", "Creative Arts Programs", "Self-expression", "Mental Well-being"]
 methods: ["case study"]
 slug: fxa303-week11-artsmark-and-sandwell-youth-offending-service-follow-up
-related: ["creative-arts-intervention", "mental-wellbeing"]
+related: ["creative-arts-intervention", "creative-arts-programs", "mental-wellbeing"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -43,4 +43,5 @@ The document discusses the integration of creative arts into the Sandwell Youth 
 ## See Also
 
 - [creative-arts-intervention](../topics/creative-arts-intervention.md)
+- [creative-arts-programs](../topics/creative-arts-programs.md)
 - [mental-wellbeing](../topics/mental-wellbeing.md)

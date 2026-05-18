@@ -11,6 +11,7 @@ sources:
   - fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of
   - fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia
   - fxa100-week10-the-impact-of-timeslips-a-creative-expression-intervention
+  - fxa100-week12-exploring-nature-based-art-therapy-a-scoping-review
   - fxa202-week02-improve-your-photography-skills-with-these-9-photo
   - fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay
   - fxa202-week06-critical-reflection-on-visual-storytelling-through
@@ -71,7 +72,7 @@ tags:
 - creative-expression
 title: Creative Expression
 type: topic
-updated: 2026-05-11
+updated: 2026-05-18
 ---
 
 ## Creative Expression
@@ -98,6 +99,7 @@ The concept of creative expression encompasses a variety of therapeutic interven
 - [fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of](../sources/fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of.md)
 - [fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia](../sources/fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia.md)
 - [fxa100-week10-the-impact-of-timeslips-a-creative-expression-intervention](../sources/fxa100-week10-the-impact-of-timeslips-a-creative-expression-intervention.md)
+- [fxa100-week12-exploring-nature-based-art-therapy-a-scoping-review](../sources/fxa100-week12-exploring-nature-based-art-therapy-a-scoping-review.md)
 - [fxa202-week02-improve-your-photography-skills-with-these-9-photo](../sources/fxa202-week02-improve-your-photography-skills-with-these-9-photo.md)
 - [fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay](../sources/fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay.md)
 - [fxa202-week06-critical-reflection-on-visual-storytelling-through](../sources/fxa202-week06-critical-reflection-on-visual-storytelling-through.md)

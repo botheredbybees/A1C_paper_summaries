@@ -3,6 +3,7 @@ confidence: medium
 domain: intervention
 slug: scoping-reviews-of-arts-therapies
 sources:
+  - fxa100-week12-exploring-nature-based-art-therapy-a-scoping-review
   - fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the
   - fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the-(2)
   - fxa303-week04-art-interventions-for-children-with-autism-spectrum
@@ -13,7 +14,7 @@ tags:
 - scoping-review
 title: Scoping Reviews of Arts Therapies
 type: topic
-updated: 2026-05-11
+updated: 2026-05-18
 ---
 
 ## Scoping Reviews of Arts Therapies
@@ -32,6 +33,7 @@ This cross-source synthesis focuses on the application of arts therapies as an i
 
 ## Sources
 
+- [fxa100-week12-exploring-nature-based-art-therapy-a-scoping-review](../sources/fxa100-week12-exploring-nature-based-art-therapy-a-scoping-review.md)
 - [fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the](../sources/fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the.md)
 - [fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the-(2)](../sources/fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the-(2).md)
 - [fxa303-week04-art-interventions-for-children-with-autism-spectrum](../sources/fxa303-week04-art-interventions-for-children-with-autism-spectrum.md)

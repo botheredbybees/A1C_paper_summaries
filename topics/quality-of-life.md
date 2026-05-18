@@ -48,6 +48,7 @@ sources:
   - fxa100-week11-expressive-bodies-demented-persons-communication-in-a-dance
   - fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living
   - fxa100-week11-the-benefits-of-community-based-participatory-arts
+  - fxa100-week12-playfully-engaging-people-living-with-dementia-searching
   - fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a
   - fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness
   - fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow
@@ -129,7 +130,7 @@ tags:
 - quality-of-life
 title: Music Therapy in Dementia Care
 type: topic
-updated: 2026-05-15
+updated: 2026-05-18
 ---
 
 ## Music Therapy in Dementia Care
@@ -193,6 +194,7 @@ The Music and Memory (M&M) program stands out as a non-pharmacological intervent
 - [fxa100-week11-expressive-bodies-demented-persons-communication-in-a-dance](../sources/fxa100-week11-expressive-bodies-demented-persons-communication-in-a-dance.md)
 - [fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living](../sources/fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living.md)
 - [fxa100-week11-the-benefits-of-community-based-participatory-arts](../sources/fxa100-week11-the-benefits-of-community-based-participatory-arts.md)
+- [fxa100-week12-playfully-engaging-people-living-with-dementia-searching](../sources/fxa100-week12-playfully-engaging-people-living-with-dementia-searching.md)
 - [fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a](../sources/fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a.md)
 - [fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness](../sources/fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness.md)
 - [fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow](../sources/fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow.md)

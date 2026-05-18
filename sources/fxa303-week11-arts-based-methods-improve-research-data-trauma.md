@@ -11,7 +11,7 @@ tags: ["arts-based-research", "fxa303", "gender-equity", "research-data-improvem
 key_concepts: ["research-data-improvement", "gender-equity", "community-engagement"]
 methods: ["mixed-methods", "expressive-writing", "photovoice"]
 slug: fxa303-week11-arts-based-methods-improve-research-data-trauma
-related: ["arts-based-research", "trauma-informed-practices"]
+related: ["arts-based-research", "gender-equity", "trauma-informed-practices"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -42,4 +42,5 @@ This article explores the use of arts-based methods in improving research data q
 ## See Also
 
 - [arts-based-research](../topics/arts-based-research.md)
+- [gender-equity](../topics/gender-equity.md)
 - [trauma-informed-practices](../topics/trauma-informed-practices.md)

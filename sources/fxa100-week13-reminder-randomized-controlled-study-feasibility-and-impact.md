@@ -11,7 +11,7 @@ tags: ["aging-well-being", "fxa100", "healthy-aging", "mindfulness-music-dance",
 key_concepts: ["multimodal-intervention", "healthy-aging", "dementia-prevention"]
 methods: ["randomized-controlled-trial"]
 slug: fxa100-week13-reminder-randomized-controlled-study-feasibility-and-impact
-related: []
+related: ["healthy-aging"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -39,4 +39,4 @@ The article presents the REMINDer randomized controlled study, which evaluates a
 
 ## See Also
 
-*(none yet)*
+- [healthy-aging](../topics/healthy-aging.md)

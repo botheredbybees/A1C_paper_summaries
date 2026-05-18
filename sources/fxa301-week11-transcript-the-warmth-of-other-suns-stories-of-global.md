@@ -11,7 +11,7 @@ tags: ["displacement", "fxa301", "global-displacement", "migration-stories", "pe
 key_concepts: ["displacement", "refugee-experience"]
 methods: []
 slug: fxa301-week11-transcript-the-warmth-of-other-suns-stories-of-global
-related: []
+related: ["displacement"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -39,4 +39,4 @@ This transcript captures a narrative about global displacement and personal jour
 
 ## See Also
 
-*(none yet)*
+- [displacement](../topics/displacement.md)

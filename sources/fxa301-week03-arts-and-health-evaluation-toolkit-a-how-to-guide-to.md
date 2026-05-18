@@ -11,7 +11,7 @@ tags: ["arts-health", "evaluation-toolkit", "community-programmes", "health-outc
 key_concepts: ["mental-health-outcomes", "quality-of-life-measures"]
 methods: ["systematic-review", "case-study"]
 slug: fxa301-week03-arts-and-health-evaluation-toolkit-a-how-to-guide-to
-related: ["arts-health", "health-outcomes"]
+related: ["arts-health", "health-outcomes", "methodological-rigor"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,3 +45,4 @@ The Arts and Health Evaluation Toolkit (AHET) is a preliminary guide designed to
 
 - [arts-health](../topics/arts-health.md)
 - [health-outcomes](../topics/health-outcomes.md)
+- [methodological-rigor](../topics/methodological-rigor.md)

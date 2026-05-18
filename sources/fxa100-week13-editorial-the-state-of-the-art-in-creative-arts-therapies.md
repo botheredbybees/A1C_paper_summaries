@@ -11,7 +11,7 @@ tags: ["creative-arts-therapies", "dance-movement-therapy", "dance-movement-ther
 key_concepts: ["dance movement therapy (DMT)", "methodological advancements", "emotional recognition"]
 methods: ["review", "editorial"]
 slug: fxa100-week13-editorial-the-state-of-the-art-in-creative-arts-therapies
-related: ["creative-arts-therapies", "dance-movement-therapy", "drama-therapy", "music-therapy"]
+related: ["creative-arts-therapies", "dance-movement-therapy", "dance-movement-therapy-dmt", "drama-therapy", "music-therapy"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -45,5 +45,6 @@ The article serves as an editorial for a special Research Topic on the state of 
 
 - [creative-arts-therapies](../topics/creative-arts-therapies.md)
 - [dance-movement-therapy](../topics/dance-movement-therapy.md)
+- [dance-movement-therapy-dmt](../topics/dance-movement-therapy-dmt.md)
 - [drama-therapy](../topics/drama-therapy.md)
 - [music-therapy](../topics/music-therapy.md)

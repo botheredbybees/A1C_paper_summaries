@@ -11,7 +11,7 @@ tags: ["aesthetic-experience", "empathy-in-art", "motion-emotion", "fxa100"]
 key_concepts: ["embodied-simulation", "mirror-neurons", "universal-embodied-mechanisms"]
 methods: ["case-study"]
 slug: fxa100-week06-motion-emotion-and-empathy-in-aesthetic-experience
-related: ["aesthetic-experience"]
+related: ["aesthetic-experience", "empathy-in-art"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,3 +42,4 @@ This paper by Freedberg and Gallese explores the role of embodied simulation in 
 ## See Also
 
 - [aesthetic-experience](../topics/aesthetic-experience.md)
+- [empathy-in-art](../topics/empathy-in-art.md)

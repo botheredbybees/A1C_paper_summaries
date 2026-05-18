@@ -11,7 +11,7 @@ tags: ["autism-research", "clinical-trials", "dance-therapy", "functional-indepe
 key_concepts: ["functional-independence", "social-behavior-improvement", "non-verbal-communication-skills"]
 methods: ["randomized-controlled-trial"]
 slug: fxa100-week13-a-pilot-randomized-controlled-clinical-trial-of-dance
-related: ["autism-research", "clinical-trials", "dance-therapy"]
+related: ["autism-research", "clinical-trials", "dance-therapy", "social-behavior-improvement"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -43,3 +43,4 @@ This study investigates the impact of dance practice on communication, functiona
 - [autism-research](../topics/autism-research.md)
 - [clinical-trials](../topics/clinical-trials.md)
 - [dance-therapy](../topics/dance-therapy.md)
+- [social-behavior-improvement](../topics/social-behavior-improvement.md)

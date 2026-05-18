@@ -11,7 +11,7 @@ tags: ["dementia-care", "social-constructionism", "patient-centered-approach", "
 key_concepts: ["negative positioning", "diagnostic overshadowing", "social constructionist theory"]
 methods: []
 slug: fxa100-excellence-in-dementia-care--ch52-1-there-is-a-stereotypic-view
-related: ["dementia-care"]
+related: ["dementia-care", "patient-centered-approach"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,3 +42,4 @@ This chapter discusses how societal perceptions and treatment of individuals dia
 ## See Also
 
 - [dementia-care](../topics/dementia-care.md)
+- [patient-centered-approach](../topics/patient-centered-approach.md)

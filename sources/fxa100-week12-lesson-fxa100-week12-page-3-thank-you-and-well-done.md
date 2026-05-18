@@ -11,7 +11,7 @@ tags: ["dementia-care", "creative-therapies", "teaching-feedback", "fxa100", "co
 key_concepts: ["music-therapy", "art-therapy", "communication-methods"]
 methods: []
 slug: fxa100-week12-lesson-fxa100-week12-page-3-thank-you-and-well-done
-related: []
+related: ["communication-methods", "creative-therapies", "dementia-care"]
 created: 2026-05-18
 updated: 2026-05-18
 ---
@@ -41,4 +41,6 @@ This week's lesson in FXA100 The Arts and Dementia Care acknowledges the complet
 
 ## See Also
 
-*(none yet)*
+- [communication-methods](../topics/communication-methods.md)
+- [creative-therapies](../topics/creative-therapies.md)
+- [dementia-care](../topics/dementia-care.md)

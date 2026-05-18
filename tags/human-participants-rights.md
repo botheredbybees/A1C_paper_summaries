@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: human-participants-rights
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Human Participants Rights

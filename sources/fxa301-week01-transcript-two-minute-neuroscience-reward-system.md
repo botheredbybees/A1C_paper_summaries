@@ -11,7 +11,7 @@ tags: ["neuroscience", "reward-system", "dopamine-pathways", "brain-stem", "nucl
 key_concepts: ["mesolimbic dopamine pathway", "ventral tegmental area (VTA)", "nucleus accumbens"]
 methods: []
 slug: fxa301-week01-transcript-two-minute-neuroscience-reward-system
-related: ["neuroscience"]
+related: ["neuroscience", "reward-system"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,3 +44,4 @@ This transcript from Two-Minute Neuroscience introduces the concept of the brain
 ## See Also
 
 - [neuroscience](../topics/neuroscience.md)
+- [reward-system](../topics/reward-system.md)

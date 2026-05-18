@@ -11,7 +11,7 @@ tags: ["museums-and-secularization", "art-as-therapy", "historical-exhibition", 
 key_concepts: ["secularization theory", "therapeutic role of art", "didactic purpose in art"]
 methods: ["case study"]
 slug: fxa301-week05-de-botton-art-is-therapy-at-the-rijksmuseum
-related: []
+related: ["art-therapy"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,4 +41,4 @@ In this transcript of Alain de Botton's talk at the Rijksmuseum, he discusses th
 
 ## See Also
 
-*(none yet)*
+- [art-therapy](../topics/art-therapy.md)

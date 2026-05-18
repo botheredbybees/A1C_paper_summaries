@@ -23,6 +23,7 @@ sources:
   - fxa100-week09-the-fundamentals-of-person-centered-care-for-individuals
   - fxa100-week10-transforming-dementia-care-through-theatre
   - fxa100-week11-danceminds-moving-memories-evaluation-and-analysis-a-uk
+  - fxa100-week12-testing-the-implementation-of-the-veder-contact-method-a
   - fxa100-week13-music-interventions-for-people-with-dementia-a-review-of
   - fxa303-week13-elder-clowning-in-long-term-dementia-care-results-of-a
   - fxa303-week13-non-pharmacological-interventions-for-agitation-in-dementia
@@ -50,7 +51,7 @@ tags:
 - person-centered-care
 title: Person-Centered Care
 type: topic
-updated: 2026-05-15
+updated: 2026-05-18
 ---
 
 ## Person-Centered Care
@@ -89,6 +90,7 @@ Person-centered care emphasizes tailoring healthcare approaches to the unique ne
 - [fxa100-week09-the-fundamentals-of-person-centered-care-for-individuals](../sources/fxa100-week09-the-fundamentals-of-person-centered-care-for-individuals.md)
 - [fxa100-week10-transforming-dementia-care-through-theatre](../sources/fxa100-week10-transforming-dementia-care-through-theatre.md)
 - [fxa100-week11-danceminds-moving-memories-evaluation-and-analysis-a-uk](../sources/fxa100-week11-danceminds-moving-memories-evaluation-and-analysis-a-uk.md)
+- [fxa100-week12-testing-the-implementation-of-the-veder-contact-method-a](../sources/fxa100-week12-testing-the-implementation-of-the-veder-contact-method-a.md)
 - [fxa100-week13-music-interventions-for-people-with-dementia-a-review-of](../sources/fxa100-week13-music-interventions-for-people-with-dementia-a-review-of.md)
 - [fxa303-week13-elder-clowning-in-long-term-dementia-care-results-of-a](../sources/fxa303-week13-elder-clowning-in-long-term-dementia-care-results-of-a.md)
 - [fxa303-week13-non-pharmacological-interventions-for-agitation-in-dementia](../sources/fxa303-week13-non-pharmacological-interventions-for-agitation-in-dementia.md)

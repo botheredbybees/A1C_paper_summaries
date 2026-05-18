@@ -11,7 +11,7 @@ tags: ["alzheimer-type-dementia", "behavioral-assessment", "clinical-dementia-ra
 key_concepts: ["Clinical Dementia Rating (CDR) scale", "staging dementia", "cognitive impairment assessment"]
 methods: ["prospective study"]
 slug: fxa100-week13-a-new-clinical-scale-for-the-staging-of-dementia
-related: []
+related: ["mild-cognitive-impairment"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -46,4 +46,4 @@ The authors conducted a study involving subjects aged between 65 and 80 years, i
 
 ## See Also
 
-*(none yet)*
+- [mild-cognitive-impairment](../topics/mild-cognitive-impairment.md)

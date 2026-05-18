@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: alzheimers-disease
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Alzheimers Disease
@@ -16,6 +16,7 @@ updated: 2026-05-16
 - [Dementia in Our Mob and around the World](../sources/fxa100-week07-dementia-in-our-mob-and-around-the-world.md)
 - [ARTZ Museum Program for Alzheimer's](../sources/fxa100-week07-transcript-artz-museum-program-for-alzheimers-url-only.md)
 - [Efficacy of Creative Arts Therapy in Treatment of Alzheimer\u2019s Disease and Dementia: A Systematic Literature Review](../sources/fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of.md)
+- [Efficacy of Creative Arts Therapy in Treatment of Alzheimer\u2019s Disease and Dementia: A Systematic Literature Review](../sources/fxa100-week12-efficacy-of-creative-arts-therapy-in-treatment-of.md)
 - [Exercise Benefits on Alzheimer\u2019s Disease: State-of-the-Science](../sources/fxa100-week13-exercise-benefits-on-alzheimers-disease-state-of-the-science.md)
 - [Cognitive training and cognitive rehabilitation for mild to moderate Alzheimer's disease and vascular dementia](../sources/fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to.md)
 - [The MINWii Project: Renarcissization of Patients Suffering from Alzheimer\u2019s Disease Through Video Game-Based Music Therapy](../sources/fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering.md)

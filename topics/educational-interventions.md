@@ -5,9 +5,10 @@ title: "Mobile Phone Photography Training for Visual Perception"
 confidence: medium
 tags: ["educational-interventions"]
 sources:
+  - fxa100-week12-the-power-of-music-an-exploration-of-the-evidence
   - fxa202-week13-development-and-validation-of-a-mobile-phone-photography
   - fxa303-week04-handbook-of-autism-and-pervasive-developmental-disorder
-updated: 2026-05-15
+updated: 2026-05-18
 ---
 
 ## Mobile Phone Photography Training for Visual Perception
@@ -26,5 +27,6 @@ This synthesis focuses on an innovative intervention using mobile phone photogra
 
 ## Sources
 
+- [fxa100-week12-the-power-of-music-an-exploration-of-the-evidence](../sources/fxa100-week12-the-power-of-music-an-exploration-of-the-evidence.md)
 - [fxa202-week13-development-and-validation-of-a-mobile-phone-photography](../sources/fxa202-week13-development-and-validation-of-a-mobile-phone-photography.md)
 - [fxa303-week04-handbook-of-autism-and-pervasive-developmental-disorder](../sources/fxa303-week04-handbook-of-autism-and-pervasive-developmental-disorder.md)

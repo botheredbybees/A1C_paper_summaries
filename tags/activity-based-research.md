@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: activity-based-research
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Activity Based Research

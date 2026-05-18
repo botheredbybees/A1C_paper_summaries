@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: history-of-science
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## History Of Science

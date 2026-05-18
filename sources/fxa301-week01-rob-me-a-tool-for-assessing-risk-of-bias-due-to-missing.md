@@ -11,7 +11,7 @@ tags: ["evidence-synthesis", "fxa301", "meta-analysis", "missing-evidence", "ris
 key_concepts: ["ROB-ME tool", "selective non-publication", "risk assessment"]
 methods: ["case study", "tool development"]
 slug: fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing
-related: ["meta-analysis", "risk-of-bias", "systematic-review"]
+related: ["meta-analysis", "risk-assessment", "risk-of-bias", "systematic-review"]
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -43,5 +43,6 @@ The article introduces the ROB-ME (risk of bias due to missing evidence) tool, w
 ## See Also
 
 - [meta-analysis](../topics/meta-analysis.md)
+- [risk-assessment](../topics/risk-assessment.md)
 - [risk-of-bias](../topics/risk-of-bias.md)
 - [systematic-review](../topics/systematic-review.md)

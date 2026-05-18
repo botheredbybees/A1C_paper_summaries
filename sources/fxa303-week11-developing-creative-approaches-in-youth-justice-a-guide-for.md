@@ -17,7 +17,7 @@ tags: ["arts-in-therapy", "community-engagement", "creative-arts-programs", "cre
 key_concepts: ["creative arts programs", "service design and delivery", "participant feedback integration"]
 methods: ["case study"]
 slug: fxa303-week11-developing-creative-approaches-in-youth-justice-a-guide-for
-related: ["arts-in-therapy", "community-engagement", "creative-interventions", "evidence-based-practice", "youth-justice"]
+related: ["arts-in-therapy", "community-engagement", "creative-arts-programs", "creative-interventions", "evidence-based-practice", "youth-justice"]
 created: 2026-05-11
 updated: 2026-05-16
 ---
@@ -53,6 +53,7 @@ The guide offers practical tips for professionals looking to integrate creativit
 
 - [arts-in-therapy](../topics/arts-in-therapy.md)
 - [community-engagement](../topics/community-engagement.md)
+- [creative-arts-programs](../topics/creative-arts-programs.md)
 - [creative-interventions](../topics/creative-interventions.md)
 - [evidence-based-practice](../topics/evidence-based-practice.md)
 - [youth-justice](../topics/youth-justice.md)

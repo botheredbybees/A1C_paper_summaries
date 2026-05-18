@@ -11,7 +11,7 @@ tags: ["cognitive-impairments-and-music-therapy", "dementia-care", "fxa100", "mu
 key_concepts: ["brain-function", "cognitive-impairments", "musical-memories"]
 methods: []
 slug: fxa100-week02-introduction-to-week-2-music-and-the-brain
-related: ["dementia-care", "reminiscence-bump"]
+related: ["cognitive-impairments-and-music-therapy", "dementia-care", "reminiscence-bump"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,5 +41,6 @@ This document introduces Week 2 of a course on arts and dementia care, focusing 
 
 ## See Also
 
+- [cognitive-impairments-and-music-therapy](../topics/cognitive-impairments-and-music-therapy.md)
 - [dementia-care](../topics/dementia-care.md)
 - [reminiscence-bump](../topics/reminiscence-bump.md)

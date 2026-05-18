@@ -11,7 +11,7 @@ tags: ["creative-participation", "fxa301", "interdisciplinary-research", "older-
 key_concepts: ["creative-participation", "stereotypes-of-ageing"]
 methods: []
 slug: fxa301-week08-web-article-bernard-2015
-related: ["interdisciplinary-research", "older-people"]
+related: ["creative-participation", "interdisciplinary-research", "older-people"]
 created: 2026-05-16
 updated: 2026-05-16
 ---
@@ -39,5 +39,6 @@ This paper examines the role of theatre in the lives of older people through a c
 
 ## See Also
 
+- [creative-participation](../topics/creative-participation.md)
 - [interdisciplinary-research](../topics/interdisciplinary-research.md)
 - [older-people](../topics/older-people.md)

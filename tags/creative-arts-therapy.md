@@ -1,13 +1,14 @@
 ---
 type: tag
 tag: creative-arts-therapy
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Creative Arts Therapy
 
 - [The Creative Arts in Dementia Care](../sources/fxa100-week08-transcript-hayes-j-2011-the-creative-arts-in-dementia-care.md)
 - [Efficacy of Creative Arts Therapy in Treatment of Alzheimer\u2019s Disease and Dementia: A Systematic Literature Review](../sources/fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of.md)
+- [Efficacy of Creative Arts Therapy in Treatment of Alzheimer\u2019s Disease and Dementia: A Systematic Literature Review](../sources/fxa100-week12-efficacy-of-creative-arts-therapy-in-treatment-of.md)
 - [Using Creative Arts Therapy to Promote Academic Success in the Postsecondary Setting: A Secondary Narrative Review of Preliminary Findings from 2009 to 2019](../sources/fxa100-week13-using-creative-arts-therapy-to-promote-academic-success-in.md)
 - [The Art and Science of Dance/Movement Therapy](../sources/fxa301-week06-the-art-and-science-of-dancemovement-therapy.md)
 - [A Systematic Review of the Efficacy of Creative Arts Therapies in the Treatment of Adults With PTSD](../sources/fxa301-week10-a-systematic-review-of-the-efficacy-of-creative-arts.md)

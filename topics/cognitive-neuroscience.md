@@ -8,6 +8,7 @@ sources:
   - fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities
   - fxa100-week06-web-article-tucker-2012
   - fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care
+  - fxa100-week12-inner-vision-an-exploration-of-art-and-the-brain
   - fxa100-week13-distributed-neural-network-underlying-musical-sight-reading
   - fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with
   - fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community
@@ -30,7 +31,7 @@ tags:
 - cognitive-neuroscience
 title: Cognitive Neuroscience and Brain Plasticity
 type: topic
-updated: 2026-05-15
+updated: 2026-05-18
 ---
 
 ## Cognitive Neuroscience and Brain Plasticity
@@ -54,6 +55,7 @@ The exploration of brain lateralization and individual differences in cognitive 
 - [fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities](../sources/fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities.md)
 - [fxa100-week06-web-article-tucker-2012](../sources/fxa100-week06-web-article-tucker-2012.md)
 - [fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care](../sources/fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care.md)
+- [fxa100-week12-inner-vision-an-exploration-of-art-and-the-brain](../sources/fxa100-week12-inner-vision-an-exploration-of-art-and-the-brain.md)
 - [fxa100-week13-distributed-neural-network-underlying-musical-sight-reading](../sources/fxa100-week13-distributed-neural-network-underlying-musical-sight-reading.md)
 - [fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with](../sources/fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with.md)
 - [fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community](../sources/fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-expression
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Creative Expression
@@ -14,6 +14,7 @@ updated: 2026-05-16
 - [Arts in Dementia Care: This is not the end... if it's the end of this chapter](../sources/fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of.md)
 - [Nurturing the Heart: Creativity, Art Therapy and Dementia](../sources/fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia.md)
 - [The Impact of TimeSlips, a Creative Expression Intervention Program, on Nursing Home Residents With Dementia and their Caregivers](../sources/fxa100-week10-the-impact-of-timeslips-a-creative-expression-intervention.md)
+- [Exploring nature-based art therapy: a scoping review](../sources/fxa100-week12-exploring-nature-based-art-therapy-a-scoping-review.md)
 - [Improve Your Photography Skills with These 9 Photo Composition Tips by Steve McCurry](../sources/fxa202-week02-improve-your-photography-skills-with-these-9-photo.md)
 - [Using photography for wellbeing - FXA202 The Photo Essay: Storytelling with image and text](../sources/fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay.md)
 - [Critical Reflection on Visual Storytelling Through Photography](../sources/fxa202-week06-critical-reflection-on-visual-storytelling-through.md)

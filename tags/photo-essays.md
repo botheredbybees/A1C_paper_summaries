@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: photo-essays
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Photo Essays

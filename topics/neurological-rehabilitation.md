@@ -5,9 +5,10 @@ title: "Neurological Rehabilitation Interventions"
 confidence: medium
 tags: ["neurological-rehabilitation"]
 sources:
+  - fxa100-week12-comparative-efficacy-of-various-art-therapies-for-patients
   - fxa301-week11-visual-art-in-physical-rehabilitation-experiences-of-people
   - fxa303-week04-community-services-the-music-therapy-center-of-california
-updated: 2026-05-11
+updated: 2026-05-18
 ---
 
 ## Neurological Rehabilitation Interventions
@@ -26,5 +27,6 @@ This synthesis focuses on neurological rehabilitation interventions such as visu
 
 ## Sources
 
+- [fxa100-week12-comparative-efficacy-of-various-art-therapies-for-patients](../sources/fxa100-week12-comparative-efficacy-of-various-art-therapies-for-patients.md)
 - [fxa301-week11-visual-art-in-physical-rehabilitation-experiences-of-people](../sources/fxa301-week11-visual-art-in-physical-rehabilitation-experiences-of-people.md)
 - [fxa303-week04-community-services-the-music-therapy-center-of-california](../sources/fxa303-week04-community-services-the-music-therapy-center-of-california.md)

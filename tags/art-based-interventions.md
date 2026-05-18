@@ -1,0 +1,9 @@
+---
+type: tag
+tag: art-based-interventions
+updated: 2026-05-18
+---
+
+## Art Based Interventions
+
+- [FXA100 The Arts and Dementia Care: Final Reflections](../sources/fxa100-week12-lesson-fxa100-week12-take-a-bow.md)

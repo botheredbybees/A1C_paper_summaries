@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: internet-sociology
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Internet Sociology

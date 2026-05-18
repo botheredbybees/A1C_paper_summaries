@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: art-as-expression
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Art As Expression

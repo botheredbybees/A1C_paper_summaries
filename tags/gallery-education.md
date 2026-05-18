@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: gallery-education
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Gallery Education

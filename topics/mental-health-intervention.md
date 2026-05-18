@@ -4,6 +4,7 @@ domain: intervention
 slug: mental-health-interventions-in-educational-and-disaster-settings
 sources:
   - fxa100-week04-music-therapy-promotes-mental-health-in-schools
+  - fxa100-week12-comparative-efficacy-of-various-art-therapies-for-patients
   - fxa301-week10-body-talk-examining-a-collaborative-multiple-visit-program
   - fxa301-week10-eating-disorders-and-art-therapy
   - fxa301-week10-social-action-in-art-therapy-with-veterans
@@ -23,7 +24,7 @@ tags:
 - mental-health-intervention
 title: Mental Health Interventions in Educational and Disaster Settings
 type: topic
-updated: 2026-05-11
+updated: 2026-05-18
 ---
 
 ## Mental Health Interventions in Educational and Disaster Settings
@@ -43,6 +44,7 @@ The provided sources highlight different approaches to mental health interventio
 ## Sources
 
 - [fxa100-week04-music-therapy-promotes-mental-health-in-schools](../sources/fxa100-week04-music-therapy-promotes-mental-health-in-schools.md)
+- [fxa100-week12-comparative-efficacy-of-various-art-therapies-for-patients](../sources/fxa100-week12-comparative-efficacy-of-various-art-therapies-for-patients.md)
 - [fxa301-week10-body-talk-examining-a-collaborative-multiple-visit-program](../sources/fxa301-week10-body-talk-examining-a-collaborative-multiple-visit-program.md)
 - [fxa301-week10-eating-disorders-and-art-therapy](../sources/fxa301-week10-eating-disorders-and-art-therapy.md)
 - [fxa301-week10-social-action-in-art-therapy-with-veterans](../sources/fxa301-week10-social-action-in-art-therapy-with-veterans.md)

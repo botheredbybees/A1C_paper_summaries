@@ -11,7 +11,7 @@ tags: ["aerobic-exercise", "cognitive-function", "dementia-management", "fxa100"
 key_concepts: ["cognitive function", "randomized control trials", "aerobic exercise"]
 methods: ["meta-analysis"]
 slug: fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in
-related: ["cognitive-function", "cognitive-stimulation-therapy", "dementia-management", "meta-analysis", "patient-outcomes", "physical-activity"]
+related: ["aerobic-exercise", "cognitive-function", "cognitive-stimulation-therapy", "dementia-management", "meta-analysis", "patient-outcomes", "physical-activity"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -42,6 +42,7 @@ This study, a meta-analysis of randomized control trials, investigates the impac
 
 ## See Also
 
+- [aerobic-exercise](../topics/aerobic-exercise.md)
 - [cognitive-function](../topics/cognitive-function.md)
 - [cognitive-stimulation-therapy](../topics/cognitive-stimulation-therapy.md)
 - [dementia-management](../topics/dementia-management.md)

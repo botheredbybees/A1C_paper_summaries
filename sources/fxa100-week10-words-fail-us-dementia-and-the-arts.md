@@ -11,7 +11,7 @@ tags: ["dementia-arts", "empathy-in-art", "existential-struggles", "fxa100", "hu
 key_concepts: ["empathy-in-art", "memory-loss-representation", "existential-struggles"]
 methods: ["case-study"]
 slug: fxa100-week10-words-fail-us-dementia-and-the-arts
-related: []
+related: ["empathy-in-art"]
 created: 2026-05-06
 updated: 2026-05-06
 ---
@@ -39,4 +39,4 @@ Nicci Gerrard's article in The Guardian explores how dementia is increasingly be
 
 ## See Also
 
-*(none yet)*
+- [empathy-in-art](../topics/empathy-in-art.md)

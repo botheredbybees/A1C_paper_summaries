@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: isle-of-man
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Isle Of Man

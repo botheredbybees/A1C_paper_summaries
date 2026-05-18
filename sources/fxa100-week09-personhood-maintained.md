@@ -11,7 +11,7 @@ tags: ["dementia-care", "person-centered-approach", "therapeutic-interventions",
 key_concepts: ["personhood", "therapeutic interventions", "biographical knowledge"]
 methods: ["case study"]
 slug: fxa100-week09-personhood-maintained
-related: ["dementia-care", "person-centered-approach", "therapeutic-interventions"]
+related: ["dementia-care", "person-centered-approach", "reminiscence-work", "therapeutic-interventions"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,4 +45,5 @@ The chapter 'Personhood Maintained' by Tom Kitwood addresses the evolving approa
 
 - [dementia-care](../topics/dementia-care.md)
 - [person-centered-approach](../topics/person-centered-approach.md)
+- [reminiscence-work](../topics/reminiscence-work.md)
 - [therapeutic-interventions](../topics/therapeutic-interventions.md)

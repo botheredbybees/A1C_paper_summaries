@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: alzheimer-risk-factors
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Alzheimer Risk Factors

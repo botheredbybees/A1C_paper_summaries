@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: elderly-healthcare
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Elderly Healthcare

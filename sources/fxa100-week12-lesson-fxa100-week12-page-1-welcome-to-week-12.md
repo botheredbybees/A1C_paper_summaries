@@ -11,7 +11,7 @@ tags: ["arts-and-dementia-care", "creative-therapies-for-dementia", "person-cent
 key_concepts: ["Person-Centered Care", "Creative Arts Therapies"]
 methods: []
 slug: fxa100-week12-lesson-fxa100-week12-page-1-welcome-to-week-12
-related: []
+related: ["museum-programs-for-people-with-dementia", "person-centered-approach"]
 created: 2026-05-18
 updated: 2026-05-18
 ---
@@ -40,4 +40,5 @@ In this concluding lesson of the FXA100 course on the arts and dementia care, Dr
 
 ## See Also
 
-*(none yet)*
+- [museum-programs-for-people-with-dementia](../topics/museum-programs-for-people-with-dementia.md)
+- [person-centered-approach](../topics/person-centered-approach.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dance-for-parkinsons
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Dance For Parkinsons

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: product-development
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Product Development

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-benefits
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Therapeutic Benefits
@@ -9,6 +9,7 @@ updated: 2026-05-16
 - [Music and the Damaged Brain](../sources/fxa100-week02-music-and-the-damaged-brain.md)
 - [How music opens the doors of memory and the mind](../sources/fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind.md)
 - [What is Singing for the Brain?](../sources/fxa100-week04-what-is-singing-for-the-brain.md)
+- [The power of music](../sources/fxa100-week12-the-power-of-music.md)
 - [Storytelling with Image and Text: A Photo Essay on Donna's Journey](../sources/fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas.md)
 - [Expressive Writing Therapy Exercises & Examples](../sources/fxa202-week09-expressive-writing-therapy-exercises-examples.md)
 - [Reflection on the Therapeutic Benefits of Photography: A Personal Photo Essay Project](../sources/fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a.md)

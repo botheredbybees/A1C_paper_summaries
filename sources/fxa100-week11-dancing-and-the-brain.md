@@ -11,7 +11,7 @@ tags: ["brain-health", "cognitive-enhancement", "dance-therapy", "fxa100", "memo
 key_concepts: ["executive-function", "memory-improvement", "creative-arts-therapies"]
 methods: ["case-study"]
 slug: fxa100-week11-dancing-and-the-brain
-related: ["brain-health", "cognitive-enhancement", "dance-therapy", "motor-symptoms"]
+related: ["brain-health", "cognitive-enhancement", "dance-therapy", "memory-improvement", "motor-symptoms"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -45,4 +45,5 @@ The article 'Dancing and the Brain' by Scott Edwards, published on the Harvard M
 - [brain-health](../topics/brain-health.md)
 - [cognitive-enhancement](../topics/cognitive-enhancement.md)
 - [dance-therapy](../topics/dance-therapy.md)
+- [memory-improvement](../topics/memory-improvement.md)
 - [motor-symptoms](../topics/motor-symptoms.md)

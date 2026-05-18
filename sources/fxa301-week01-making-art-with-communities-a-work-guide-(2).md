@@ -11,7 +11,7 @@ tags: ["collaborative-practices", "community-arts", "ethical-considerations", "f
 key_concepts: ["transformative-power-of-art", "cultural-sensitivity", "community-well-being"]
 methods: ["guideline-development"]
 slug: fxa301-week01-making-art-with-communities-a-work-guide-(2)
-related: ["community-arts", "ethical-considerations", "inclusive-art"]
+related: ["community-arts", "ethical-considerations", "inclusive-art", "marginalized-groups", "transformative-power-of-art"]
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -45,3 +45,5 @@ The document 'Making Art with Communities: A Work Guide' serves as a comprehensi
 - [community-arts](../topics/community-arts.md)
 - [ethical-considerations](../topics/ethical-considerations.md)
 - [inclusive-art](../topics/inclusive-art.md)
+- [marginalized-groups](../topics/marginalized-groups.md)
+- [transformative-power-of-art](../topics/transformative-power-of-art.md)

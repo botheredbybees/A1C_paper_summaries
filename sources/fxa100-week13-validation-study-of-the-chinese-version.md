@@ -11,7 +11,7 @@ tags: ["cross-cultural-research", "cultural-adaptation", "cultural-translation",
 key_concepts: ["reliability", "validity", "cultural-translation", "statistical-properties"]
 methods: ["validation study"]
 slug: fxa100-week13-validation-study-of-the-chinese-version
-related: ["cross-cultural-research", "cultural-adaptation", "geriatric-psychiatry"]
+related: ["cross-cultural-research", "cultural-adaptation", "geriatric-psychiatry", "psychometric-validation", "reliability", "validity"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -44,3 +44,6 @@ This document is a validation study examining the Chinese version of an unspecif
 - [cross-cultural-research](../topics/cross-cultural-research.md)
 - [cultural-adaptation](../topics/cultural-adaptation.md)
 - [geriatric-psychiatry](../topics/geriatric-psychiatry.md)
+- [psychometric-validation](../topics/psychometric-validation.md)
+- [reliability](../topics/reliability.md)
+- [validity](../topics/validity.md)

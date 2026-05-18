@@ -170,6 +170,14 @@ sources:
   - fxa100-week11-the-emotional-response-to-social-dancing-and-walks-in
   - fxa100-week11-transcript-youtube-tyf9-zkdrc8
   - fxa100-week11-week-11-lecture-benefits-of-dance-and-movement-for-people
+  - fxa100-week12-efficacy-of-creative-arts-therapy-in-treatment-of
+  - fxa100-week12-in-the-moment-with-music-an-exploration-of-the-embodied-and
+  - fxa100-week12-lesson-fxa100-week12-page-2-so-what-have-we-learned
+  - fxa100-week12-lesson-fxa100-week12-page-3-thank-you-and-well-done
+  - fxa100-week12-playfully-engaging-people-living-with-dementia-searching
+  - fxa100-week12-testing-the-implementation-of-the-veder-contact-method-a
+  - fxa100-week12-using-music-to-develop-a-multisensory-communicative
+  - fxa100-week12-web-article-ageuk-2025
   - fxa100-week13-a-snapshot-of-italian-nursing-homes-for-people-with
   - fxa100-week13-dance-specific-activity-in-people-living-with-dementia-a
   - fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a
@@ -378,7 +386,7 @@ tags:
 - dementia-care
 title: Dementia Care Interventions
 type: topic
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Dementia Care Interventions
@@ -564,6 +572,14 @@ The integration of creative arts and technology in dementia care reveals diverse
 - [fxa100-week11-the-emotional-response-to-social-dancing-and-walks-in](../sources/fxa100-week11-the-emotional-response-to-social-dancing-and-walks-in.md)
 - [fxa100-week11-transcript-youtube-tyf9-zkdrc8](../sources/fxa100-week11-transcript-youtube-tyf9-zkdrc8.md)
 - [fxa100-week11-week-11-lecture-benefits-of-dance-and-movement-for-people](../sources/fxa100-week11-week-11-lecture-benefits-of-dance-and-movement-for-people.md)
+- [fxa100-week12-efficacy-of-creative-arts-therapy-in-treatment-of](../sources/fxa100-week12-efficacy-of-creative-arts-therapy-in-treatment-of.md)
+- [fxa100-week12-in-the-moment-with-music-an-exploration-of-the-embodied-and](../sources/fxa100-week12-in-the-moment-with-music-an-exploration-of-the-embodied-and.md)
+- [fxa100-week12-lesson-fxa100-week12-page-2-so-what-have-we-learned](../sources/fxa100-week12-lesson-fxa100-week12-page-2-so-what-have-we-learned.md)
+- [fxa100-week12-lesson-fxa100-week12-page-3-thank-you-and-well-done](../sources/fxa100-week12-lesson-fxa100-week12-page-3-thank-you-and-well-done.md)
+- [fxa100-week12-playfully-engaging-people-living-with-dementia-searching](../sources/fxa100-week12-playfully-engaging-people-living-with-dementia-searching.md)
+- [fxa100-week12-testing-the-implementation-of-the-veder-contact-method-a](../sources/fxa100-week12-testing-the-implementation-of-the-veder-contact-method-a.md)
+- [fxa100-week12-using-music-to-develop-a-multisensory-communicative](../sources/fxa100-week12-using-music-to-develop-a-multisensory-communicative.md)
+- [fxa100-week12-web-article-ageuk-2025](../sources/fxa100-week12-web-article-ageuk-2025.md)
 - [fxa100-week13-a-snapshot-of-italian-nursing-homes-for-people-with](../sources/fxa100-week13-a-snapshot-of-italian-nursing-homes-for-people-with.md)
 - [fxa100-week13-dance-specific-activity-in-people-living-with-dementia-a](../sources/fxa100-week13-dance-specific-activity-in-people-living-with-dementia-a.md)
 - [fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a](../sources/fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a.md)

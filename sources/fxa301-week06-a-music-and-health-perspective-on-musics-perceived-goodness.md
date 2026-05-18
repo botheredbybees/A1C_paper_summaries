@@ -11,7 +11,7 @@ tags: ["music-health", "cultural-contexts", "well-being-research", "social-benef
 key_concepts: ["perceived goodness", "intrinsic value of music", "commodification of music"]
 methods: ["literature review"]
 slug: fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness
-related: ["ethical-considerations", "music-health", "well-being-research"]
+related: ["ethical-considerations", "music-health", "social-benefits", "well-being-research"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,4 +46,5 @@ Jane Edwards' article explores the concept of music's perceived 'goodness' from 
 
 - [ethical-considerations](../topics/ethical-considerations.md)
 - [music-health](../topics/music-health.md)
+- [social-benefits](../topics/social-benefits.md)
 - [well-being-research](../topics/well-being-research.md)

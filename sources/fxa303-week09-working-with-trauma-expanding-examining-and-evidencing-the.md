@@ -11,7 +11,7 @@ tags: ["art-therapy", "trauma-treatment", "creative-participation", "therapeutic
 key_concepts: ["value-evidence-art-therapy", "diverse-approaches-trauma", "structured-interventions-art-therapy"]
 methods: ["editorial-reflection"]
 slug: fxa303-week09-working-with-trauma-expanding-examining-and-evidencing-the
-related: ["art-therapy", "trauma-treatment"]
+related: ["art-therapy", "creative-participation", "trauma-treatment"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,4 +45,5 @@ The editorial by Coles, Murphy, and Winter discusses the importance of expanding
 ## See Also
 
 - [art-therapy](../topics/art-therapy.md)
+- [creative-participation](../topics/creative-participation.md)
 - [trauma-treatment](../topics/trauma-treatment.md)

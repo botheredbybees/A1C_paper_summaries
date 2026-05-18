@@ -11,7 +11,7 @@ tags: ["fxa301", "healthcare-evaluation", "methodological-rigor", "non-randomize
 key_concepts: ["risk of bias", "non-randomized studies", "methodological rigor"]
 methods: ["expert consensus"]
 slug: fxa301-week01-robins-i-a-tool-for-assessing-risk-of-bias-in-non
-related: ["healthcare-evaluation", "non-randomized-studies", "risk-of-bias"]
+related: ["healthcare-evaluation", "methodological-rigor", "non-randomized-studies", "risk-of-bias"]
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -43,5 +43,6 @@ This paper introduces ROBINS-I (Risk Of Bias In Non-Randomized Studies - of Inte
 ## See Also
 
 - [healthcare-evaluation](../topics/healthcare-evaluation.md)
+- [methodological-rigor](../topics/methodological-rigor.md)
 - [non-randomized-studies](../topics/non-randomized-studies.md)
 - [risk-of-bias](../topics/risk-of-bias.md)

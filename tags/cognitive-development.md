@@ -1,11 +1,12 @@
 ---
 type: tag
 tag: cognitive-development
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Cognitive Development
 
+- [The Power of Music: An Exploration of the Evidence](../sources/fxa100-week12-the-power-of-music-an-exploration-of-the-evidence.md)
 - [Brain research shows the arts promote mental health](../sources/fxa202-week10-brain-research-shows-the-arts-promote-mental-health.md)
 - [Development and Validation of a Mobile Phone Photography Training Program (MobileGraphy) to Enhance Visual Perception Skills in Children with Specific Learning Disabilities](../sources/fxa202-week13-development-and-validation-of-a-mobile-phone-photography.md)
 - [Developmental Role of Creative Arts and Play](../sources/fxa303-week02-developmental-role-of-creative-arts-and-play.md)

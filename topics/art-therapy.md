@@ -27,6 +27,7 @@ sources:
   - fxa100-week08-transcript-youtube-l3cci-2kwkk
   - fxa100-week08-web-article-huebner-2012
   - fxa100-week08-week-8-lecture-art-therapy-in-dementia-care
+  - fxa100-week12-exploring-nature-based-art-therapy-a-scoping-review
   - fxa100-week13-exploring-ethical-considerations-in-art-therapy
   - fxa100-week13-the-future-of-art-therapy-in-mental-health-treatment
   - fxa202-week06-donna-a-photo-essay
@@ -40,6 +41,7 @@ sources:
   - fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in
   - fxa301-week05-art-as-therapy
   - fxa301-week05-art-making-and-illness-two-case-studies
+  - fxa301-week05-de-botton-art-is-therapy-at-the-rijksmuseum
   - fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our
   - fxa301-week05-lesson-fxa301-week05-page-4-week-3-activities
   - fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at
@@ -141,7 +143,7 @@ tags:
 - art-therapy
 title: Art Therapy
 type: topic
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Art Therapy
@@ -184,6 +186,7 @@ The sources emphasize the broad application and benefits of Art Therapy across v
 - [fxa100-week08-transcript-youtube-l3cci-2kwkk](../sources/fxa100-week08-transcript-youtube-l3cci-2kwkk.md)
 - [fxa100-week08-web-article-huebner-2012](../sources/fxa100-week08-web-article-huebner-2012.md)
 - [fxa100-week08-week-8-lecture-art-therapy-in-dementia-care](../sources/fxa100-week08-week-8-lecture-art-therapy-in-dementia-care.md)
+- [fxa100-week12-exploring-nature-based-art-therapy-a-scoping-review](../sources/fxa100-week12-exploring-nature-based-art-therapy-a-scoping-review.md)
 - [fxa100-week13-exploring-ethical-considerations-in-art-therapy](../sources/fxa100-week13-exploring-ethical-considerations-in-art-therapy.md)
 - [fxa100-week13-the-future-of-art-therapy-in-mental-health-treatment](../sources/fxa100-week13-the-future-of-art-therapy-in-mental-health-treatment.md)
 - [fxa202-week06-donna-a-photo-essay](../sources/fxa202-week06-donna-a-photo-essay.md)
@@ -197,6 +200,7 @@ The sources emphasize the broad application and benefits of Art Therapy across v
 - [fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in](../sources/fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in.md)
 - [fxa301-week05-art-as-therapy](../sources/fxa301-week05-art-as-therapy.md)
 - [fxa301-week05-art-making-and-illness-two-case-studies](../sources/fxa301-week05-art-making-and-illness-two-case-studies.md)
+- [fxa301-week05-de-botton-art-is-therapy-at-the-rijksmuseum](../sources/fxa301-week05-de-botton-art-is-therapy-at-the-rijksmuseum.md)
 - [fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our](../sources/fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our.md)
 - [fxa301-week05-lesson-fxa301-week05-page-4-week-3-activities](../sources/fxa301-week05-lesson-fxa301-week05-page-4-week-3-activities.md)
 - [fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at](../sources/fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at.md)

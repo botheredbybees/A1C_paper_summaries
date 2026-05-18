@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: philosophy-of-death
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Philosophy Of Death

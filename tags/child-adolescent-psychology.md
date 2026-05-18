@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: child-adolescent-psychology
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Child Adolescent Psychology

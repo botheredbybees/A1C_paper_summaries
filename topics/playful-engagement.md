@@ -5,13 +5,14 @@ slug: playful-engagement-in-dementia-care
 sources:
   - fxa100-week10-lesson-fxa100-week10-page-1-welcome-to-week-9
   - fxa100-week10-week-10-lecture-theatre-and-play-in-dementia-care
+  - fxa100-week12-playfully-engaging-people-living-with-dementia-searching
 - fxa100-week10-lesson-fxa100-week10-page-1-welcome-to-week-9
 - fxa100-week10-week-10-lecture-theatre-and-play-in-dementia-care
 tags:
 - playful-engagement
 title: Playful Engagement in Dementia Care
 type: topic
-updated: 2026-05-11
+updated: 2026-05-18
 ---
 
 ## Playful Engagement in Dementia Care
@@ -32,3 +33,4 @@ Sources indicate that playful engagement is a valuable approach in dementia care
 
 - [fxa100-week10-lesson-fxa100-week10-page-1-welcome-to-week-9](../sources/fxa100-week10-lesson-fxa100-week10-page-1-welcome-to-week-9.md)
 - [fxa100-week10-week-10-lecture-theatre-and-play-in-dementia-care](../sources/fxa100-week10-week-10-lecture-theatre-and-play-in-dementia-care.md)
+- [fxa100-week12-playfully-engaging-people-living-with-dementia-searching](../sources/fxa100-week12-playfully-engaging-people-living-with-dementia-searching.md)

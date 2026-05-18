@@ -11,7 +11,7 @@ tags: ["agency-in-creative-process", "creative-arts", "disadvantaged-youth", "fx
 key_concepts: ["trauma-informed practices", "agency in creative process"]
 methods: []
 slug: fxa303-week11-lesson-fxa303-week11-page-3
-related: ["creative-arts", "mental-wellbeing"]
+related: ["creative-arts", "disadvantaged-youth", "mental-wellbeing"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -40,4 +40,5 @@ The lesson discusses the benefits of creative arts programs for disadvantaged yo
 ## See Also
 
 - [creative-arts](../topics/creative-arts.md)
+- [disadvantaged-youth](../topics/disadvantaged-youth.md)
 - [mental-wellbeing](../topics/mental-wellbeing.md)

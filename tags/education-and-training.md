@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: education-and-training
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Education And Training

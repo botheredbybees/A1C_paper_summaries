@@ -11,7 +11,7 @@ tags: ["music-therapy", "dementia-care", "memory-stimulation", "non-verbal-commu
 key_concepts: ["RESCTUE-Alzheimer trial", "reduced-agitation", "creative-music-making"]
 methods: ["randomised-controlled-trial", "case-study"]
 slug: fxa100-week04-music-therapy-benefits-fxa100-the-arts-and-dementia-care
-related: ["dementia-care", "memory-stimulation", "music-therapy", "non-verbal-communication"]
+related: ["dementia-care", "memory-stimulation", "music-therapy", "non-verbal-communication", "personalized-interventions"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -48,3 +48,4 @@ The document discusses the benefits of music therapy in enhancing creativity and
 - [memory-stimulation](../topics/memory-stimulation.md)
 - [music-therapy](../topics/music-therapy.md)
 - [non-verbal-communication](../topics/non-verbal-communication.md)
+- [personalized-interventions](../topics/personalized-interventions.md)

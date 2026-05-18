@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: community-health-study
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Community Health Study

@@ -11,7 +11,7 @@ tags: ["creative-therapy", "digital-age-relevance", "emotional-expression", "fxa
 key_concepts: ["phototherapy", "therapeutic photography", "digital age relevance"]
 methods: ["case study", "practical techniques"]
 slug: fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography
-related: ["creative-therapy", "emotional-expression", "therapeutic-photography"]
+related: ["creative-therapy", "emotional-expression", "phototherapy-techniques", "therapeutic-photography"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -46,4 +46,5 @@ The Handbook of Phototherapy and Therapeutic Photography is a comprehensive reso
 
 - [creative-therapy](../topics/creative-therapy.md)
 - [emotional-expression](../topics/emotional-expression.md)
+- [phototherapy-techniques](../topics/phototherapy-techniques.md)
 - [therapeutic-photography](../topics/therapeutic-photography.md)

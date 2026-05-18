@@ -11,7 +11,7 @@ tags: ["arts-and-refugees", "cultural-representation", "fxa301", "gender-dynamic
 key_concepts: ["refugee integration", "artistic practices", "therapeutic benefits", "gender dynamics", "cultural representation"]
 methods: ["qualitative study"]
 slug: fxa301-week11-arts-and-refugees-multidisciplinary-perspectives-vol-2
-related: ["arts-and-refugees", "gender-dynamics", "therapeutic-benefits"]
+related: ["arts-and-refugees", "cultural-representation", "gender-dynamics", "therapeutic-benefits"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -45,5 +45,6 @@ The article 'Arts and Refugees: Multidisciplinary Perspectives (Vol. 2)' by Marc
 ## See Also
 
 - [arts-and-refugees](../topics/arts-and-refugees.md)
+- [cultural-representation](../topics/cultural-representation.md)
 - [gender-dynamics](../topics/gender-dynamics.md)
 - [therapeutic-benefits](../topics/therapeutic-benefits.md)

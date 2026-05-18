@@ -11,7 +11,7 @@ tags: ["arts-based-research", "community-engagement", "creative-change-laborator
 key_concepts: ["Creative Change Laboratory (CCoLAB)", "critical-thinking", "marginalized-groups"]
 methods: ["case-study"]
 slug: fxa303-week11-reimagining-wellbeing-using-arts-based-methods-to-address
-related: ["arts-based-research", "community-engagement", "health-equity", "social-change"]
+related: ["arts-based-research", "community-engagement", "health-equity", "marginalized-groups", "social-change"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -44,4 +44,5 @@ The article explores the Creative Change Laboratory (CCoLAB), an immersive learn
 - [arts-based-research](../topics/arts-based-research.md)
 - [community-engagement](../topics/community-engagement.md)
 - [health-equity](../topics/health-equity.md)
+- [marginalized-groups](../topics/marginalized-groups.md)
 - [social-change](../topics/social-change.md)

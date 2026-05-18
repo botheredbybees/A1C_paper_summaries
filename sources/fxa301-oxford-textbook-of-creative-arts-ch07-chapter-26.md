@@ -15,13 +15,14 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
+  - unit: FXA301
 tags: ["public-health", "music-therapy", "cultural-participation", "fxa301"]
 key_concepts: ["salutogenic approach", "emotional-and-cognitive-resources"]
 methods: []
 slug: fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26
 related: ["cultural-participation", "music-therapy", "public-health"]
 created: 2026-05-03
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26.md_

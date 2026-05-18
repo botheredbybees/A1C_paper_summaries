@@ -11,7 +11,7 @@ tags: ["dementia-stigma", "creative-movement", "community-engagement", "fxa100"]
 key_concepts: ["stigma reduction", "dance therapy"]
 methods: ["case study"]
 slug: fxa100-week11-dancer-not-dementia-canadas-national-ballet-school
-related: ["community-engagement"]
+related: ["community-engagement", "creative-movement"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -41,3 +41,4 @@ The webpage 'Dancer Not Dementia' by Canada’s National Ballet School addresses
 ## See Also
 
 - [community-engagement](../topics/community-engagement.md)
+- [creative-movement](../topics/creative-movement.md)

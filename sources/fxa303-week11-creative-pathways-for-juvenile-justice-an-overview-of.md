@@ -11,7 +11,7 @@ tags: ["creative-interventions", "fxa303", "group-music-therapy-for-dementia-pat
 key_concepts: ["music-based interventions", "whole-person approach"]
 methods: ["systematic review"]
 slug: fxa303-week11-creative-pathways-for-juvenile-justice-an-overview-of
-related: ["creative-interventions", "music-therapy", "rehabilitation-strategies", "youth-development"]
+related: ["creative-interventions", "group-music-therapy-for-dementia-patients", "music-therapy", "rehabilitation-strategies", "youth-development"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -42,6 +42,7 @@ This report, prepared by the Creative Arts Research Institute at Griffith Univer
 ## See Also
 
 - [creative-interventions](../topics/creative-interventions.md)
+- [group-music-therapy-for-dementia-patients](../topics/group-music-therapy-for-dementia-patients.md)
 - [music-therapy](../topics/music-therapy.md)
 - [rehabilitation-strategies](../topics/rehabilitation-strategies.md)
 - [youth-development](../topics/youth-development.md)

@@ -11,7 +11,7 @@ tags: ["creative-lenses", "fxa202", "mental-health-improvement", "personal-growt
 key_concepts: ["flow-theory", "self-determination-theory", "skill-development", "mental-health-improvement"]
 methods: ["thematic-analysis", "qualitative-study"]
 slug: fxa202-week13-through-creative-lenses-investigating-the-personal-growth
-related: ["personal-growth"]
+related: ["mental-health-improvement", "personal-growth"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -41,4 +41,5 @@ This study explores the impact of photography and videography on individual well
 
 ## See Also
 
+- [mental-health-improvement](../topics/mental-health-improvement.md)
 - [personal-growth](../topics/personal-growth.md)

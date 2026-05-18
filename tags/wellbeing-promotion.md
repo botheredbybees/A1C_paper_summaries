@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: wellbeing-promotion
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Wellbeing Promotion

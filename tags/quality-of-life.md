@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: quality-of-life
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Quality Of Life
@@ -51,6 +51,7 @@ updated: 2026-05-16
 - [Expressive bodies: demented persons\u2019 communication in a dance therapy context](../sources/fxa100-week11-expressive-bodies-demented-persons-communication-in-a-dance.md)
 - [Rehabilitation effects of game therapy in people living with dementia: A systematic review and meta-analysis](../sources/fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living.md)
 - [The benefits of community-based participatory arts activities for people living with dementia: a thematic scoping review](../sources/fxa100-week11-the-benefits-of-community-based-participatory-arts.md)
+- [Playfully engaging people living with dementia: searching for Yum Cha moments](../sources/fxa100-week12-playfully-engaging-people-living-with-dementia-searching.md)
 - [Dancing as a psychosocial intervention in care homes: a systematic review of the literature](../sources/fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a.md)
 - [The Effect from Music Therapy Upon Alzheimer's Illness](../sources/fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness.md)
 - [Mih\u00e1ly Cs\u00edkszentmih\u00e1lyi: The Father of Flow](../sources/fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow.md)

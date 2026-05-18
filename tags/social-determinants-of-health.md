@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-determinants-of-health
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Social Determinants Of Health

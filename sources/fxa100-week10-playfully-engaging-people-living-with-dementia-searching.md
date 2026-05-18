@@ -11,7 +11,7 @@ tags: ["dementia-care", "creative-interventions", "relational-clowning", "qualit
 key_concepts: ["relational clowning", "playful engagement", "cognitive impairments"]
 methods: ["pilot study", "qualitative research"]
 slug: fxa100-week10-playfully-engaging-people-living-with-dementia-searching
-related: ["creative-interventions", "dementia-care", "quality-of-life"]
+related: ["creative-interventions", "dementia-care", "quality-of-life", "relational-clowning"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -46,3 +46,4 @@ The article explores the use of relational clowning as a method to engage indivi
 - [creative-interventions](../topics/creative-interventions.md)
 - [dementia-care](../topics/dementia-care.md)
 - [quality-of-life](../topics/quality-of-life.md)
+- [relational-clowning](../topics/relational-clowning.md)

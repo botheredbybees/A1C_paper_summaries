@@ -11,7 +11,7 @@ tags: ["behavioral-and-psychological-symptoms-of-dementia", "dementia-care", "de
 key_concepts: ["behavioral-and-psychological-symptoms-of-dementia", "neuropsychiatric-inventory-nursing-home-version", "dementia-care-mapping", "person-centered-care-principles"]
 methods: ["pilot-study"]
 slug: fxa303-week13-elder-clowning-in-long-term-dementia-care-results-of-a
-related: ["dementia-care", "elder-clowning", "person-centered-care", "quality-of-life"]
+related: ["behavioral-and-psychological-symptoms-of-dementia", "dementia-care", "elder-clowning", "person-centered-care", "quality-of-life"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -41,6 +41,7 @@ The study evaluates the impact of elder-clowning on nursing home residents with 
 
 ## See Also
 
+- [behavioral-and-psychological-symptoms-of-dementia](../topics/behavioral-and-psychological-symptoms-of-dementia.md)
 - [dementia-care](../topics/dementia-care.md)
 - [elder-clowning](../topics/elder-clowning.md)
 - [person-centered-care](../topics/person-centered-care.md)

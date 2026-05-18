@@ -1,9 +1,10 @@
 ---
 type: tag
 tag: psychometric-properties
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Psychometric Properties
 
+- [Psychometric Properties](../sources/fxa100-week13-psychometric-properties.md)
 - [Psychometric Properties of the Beck Depression Inventory: Twenty-Five Years of Evaluation](../sources/fxa100-week13-psychometric-properties-of-the-beck-depression-inventory.md)

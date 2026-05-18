@@ -11,7 +11,7 @@ tags: ["philosophical-perspective", "dementia-care", "body-mind-connection", "fx
 key_concepts: ["body-subject", "phenomenal-experience"]
 methods: []
 slug: fxa100-how-we-thnk-about-dementia-ch10-chapter-5
-related: ["dementia-care"]
+related: ["body-mind-connection", "dementia-care"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,4 +40,5 @@ This chapter explores the relevance of Merleau-Ponty's philosophy to understandi
 
 ## See Also
 
+- [body-mind-connection](../topics/body-mind-connection.md)
 - [dementia-care](../topics/dementia-care.md)

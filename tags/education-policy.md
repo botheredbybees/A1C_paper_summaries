@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: education-policy
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Education Policy

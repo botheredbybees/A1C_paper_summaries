@@ -11,7 +11,7 @@ tags: ["arts-based-strategies", "creative-arts", "disadvantaged-youth", "fxa303"
 key_concepts: ["arts-based interventions", "disadvantaged youth", "mental health support"]
 methods: []
 slug: fxa303-week11-lesson-fxa303-week11-overview
-related: ["arts-based-strategies", "creative-arts", "mental-wellbeing", "therapeutic-benefits"]
+related: ["arts-based-strategies", "creative-arts", "disadvantaged-youth", "mental-wellbeing", "therapeutic-benefits"]
 created: 2026-05-16
 updated: 2026-05-16
 ---
@@ -44,5 +44,6 @@ This week's content in FXA303 focuses on the role of arts-based programs in supp
 
 - [arts-based-strategies](../topics/arts-based-strategies.md)
 - [creative-arts](../topics/creative-arts.md)
+- [disadvantaged-youth](../topics/disadvantaged-youth.md)
 - [mental-wellbeing](../topics/mental-wellbeing.md)
 - [therapeutic-benefits](../topics/therapeutic-benefits.md)

@@ -11,7 +11,7 @@ tags: ["dementia-care", "music-therapy", "qualitative-research", "embodied-exper
 key_concepts: ["in-the-moment experience", "musical agency", "personal identity enhancement"]
 methods: ["video-observation", "interviews"]
 slug: fxa100-week12-in-the-moment-with-music-an-exploration-of-the-embodied-and
-related: []
+related: ["dementia-care", "embodied-experience", "music-therapy", "qualitative-research", "sensory-stimulation"]
 created: 2026-05-18
 updated: 2026-05-18
 ---
@@ -45,4 +45,8 @@ This article explores the concept of 'in the moment' musical experiences in deme
 
 ## See Also
 
-*(none yet)*
+- [dementia-care](../topics/dementia-care.md)
+- [embodied-experience](../topics/embodied-experience.md)
+- [music-therapy](../topics/music-therapy.md)
+- [qualitative-research](../topics/qualitative-research.md)
+- [sensory-stimulation](../topics/sensory-stimulation.md)

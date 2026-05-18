@@ -11,7 +11,7 @@ tags: ["cultural-representation", "fxa303", "hidden-identities", "incremental-in
 key_concepts: ["hidden-identities", "incremental-invisibility", "visual-art-as-tool-for-change"]
 methods: ["qualitative-analysis"]
 slug: fxa303-week11-hidden-identities-and-concealed-dangers-visual-art
-related: ["mental-wellbeing", "visual-art"]
+related: ["cultural-representation", "mental-wellbeing", "visual-art"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -45,5 +45,6 @@ The paper further explores how visual art can serve as a tool for revealing thes
 
 ## See Also
 
+- [cultural-representation](../topics/cultural-representation.md)
 - [mental-wellbeing](../topics/mental-wellbeing.md)
 - [visual-art](../topics/visual-art.md)

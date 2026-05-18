@@ -11,7 +11,7 @@ tags: ["social-bonding", "group-dynamics", "singing-therapy", "emotional-synchro
 key_concepts: ["social-cohesion", "positive-affect", "endorphin-release"]
 methods: ["longitudinal-study", "qualitative-analysis"]
 slug: fxa301-week06-the-ice-breaker-effect-singing-mediates-fast-social-bonding
-related: ["singing-therapy", "social-bonding"]
+related: ["group-dynamics", "singing-therapy", "social-bonding"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,5 +44,6 @@ The study explores the role of group singing in facilitating social cohesion amo
 
 ## See Also
 
+- [group-dynamics](../topics/group-dynamics.md)
 - [singing-therapy](../topics/singing-therapy.md)
 - [social-bonding](../topics/social-bonding.md)

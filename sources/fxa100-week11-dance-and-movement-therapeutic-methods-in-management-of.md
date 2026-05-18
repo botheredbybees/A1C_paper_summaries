@@ -11,7 +11,7 @@ tags: ["behavioral-symptoms", "cognitive-functioning", "dance-therapy", "dementi
 key_concepts: ["Mini-Mental State Examination (MMSE)", "visuospatial abilities", "planning skills", "self-care ability"]
 methods: ["randomized controlled trial"]
 slug: fxa100-week11-dance-and-movement-therapeutic-methods-in-management-of
-related: ["behavioral-symptoms", "cognitive-functioning", "dance-therapy", "dementia-management", "movement-therapy"]
+related: ["behavioral-symptoms", "cognitive-functioning", "dance-therapy", "dementia-management", "mini-mental-state-examination-mmse", "movement-therapy"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -50,4 +50,5 @@ These findings suggest that DMT may offer a viable nonpharmacological interventi
 - [cognitive-functioning](../topics/cognitive-functioning.md)
 - [dance-therapy](../topics/dance-therapy.md)
 - [dementia-management](../topics/dementia-management.md)
+- [mini-mental-state-examination-mmse](../topics/mini-mental-state-examination-mmse.md)
 - [movement-therapy](../topics/movement-therapy.md)

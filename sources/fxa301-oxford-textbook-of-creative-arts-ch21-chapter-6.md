@@ -15,13 +15,14 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
+  - unit: FXA301
 tags: ["community-health", "participatory-arts", "mental-health-interventions", "health-promotion-strategies", "public-art", "fxa301"]
 key_concepts: ["unconditional positive regard", "reflective practice", "social inclusion", "emotional health"]
 methods: []
 slug: fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6
-related: ["community-health", "mental-health-interventions", "participatory-arts", "public-art"]
+related: ["community-health", "health-promotion-strategies", "mental-health-interventions", "participatory-arts", "public-art"]
 created: 2026-05-03
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6.md_
@@ -53,6 +54,7 @@ The chapter discusses the emergence and impact of community-based arts projects 
 ## See Also
 
 - [community-health](../topics/community-health.md)
+- [health-promotion-strategies](../topics/health-promotion-strategies.md)
 - [mental-health-interventions](../topics/mental-health-interventions.md)
 - [participatory-arts](../topics/participatory-arts.md)
 - [public-art](../topics/public-art.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-and-meaning
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Music And Meaning

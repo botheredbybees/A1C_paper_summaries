@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: accessibility-for-neurodivergent-individuals
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Accessibility For Neurodivergent Individuals

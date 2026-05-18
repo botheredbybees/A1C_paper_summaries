@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: pmc-access
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Pmc Access

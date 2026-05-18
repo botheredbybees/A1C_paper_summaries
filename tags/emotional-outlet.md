@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotional-outlet
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Emotional Outlet

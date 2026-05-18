@@ -11,7 +11,7 @@ tags: ["body-mind-connection", "brain-body-integration", "expressive-arts-therap
 key_concepts: ["trauma-informed care", "body-mind connection", "resilience-building"]
 methods: []
 slug: fxa303-trauma-and-expressive-arts-ch05-chapter-9
-related: ["expressive-arts-therapy", "trauma-recovery"]
+related: ["body-mind-connection", "expressive-arts-therapy", "trauma-recovery"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -40,5 +40,6 @@ Cathy Malchiodi's book 'Trauma and Expressive Arts Therapy' discusses integratin
 
 ## See Also
 
+- [body-mind-connection](../topics/body-mind-connection.md)
 - [expressive-arts-therapy](../topics/expressive-arts-therapy.md)
 - [trauma-recovery](../topics/trauma-recovery.md)

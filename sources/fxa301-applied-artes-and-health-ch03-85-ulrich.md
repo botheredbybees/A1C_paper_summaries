@@ -12,7 +12,7 @@ tags: ["applied-theatre", "cognitive-stimulation", "educational-case-study", "el
 key_concepts: ["emergent-design", "person-in-role", "educational-case-study"]
 methods: []
 slug: fxa301-applied-artes-and-health-ch03-85-ulrich
-related: ["applied-theatre", "cognitive-stimulation", "elder-care", "health-education"]
+related: ["applied-theatre", "cognitive-stimulation", "elder-care", "emergent-design", "health-education"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -44,4 +44,5 @@ This chapter discusses the evolution of applied theatre and its implications for
 - [applied-theatre](../topics/applied-theatre.md)
 - [cognitive-stimulation](../topics/cognitive-stimulation.md)
 - [elder-care](../topics/elder-care.md)
+- [emergent-design](../topics/emergent-design.md)
 - [health-education](../topics/health-education.md)

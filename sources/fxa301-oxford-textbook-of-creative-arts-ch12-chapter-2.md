@@ -15,13 +15,14 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
+  - unit: FXA301
 tags: ["arts-and-health", "public-policy", "social-inclusion", "fxa301"]
 key_concepts: ["art-therapy", "participatory-art-programmes", "health-wellbeing"]
 methods: []
 slug: fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2
 related: ["arts-and-health", "public-policy", "social-inclusion"]
 created: 2026-05-03
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2.md_

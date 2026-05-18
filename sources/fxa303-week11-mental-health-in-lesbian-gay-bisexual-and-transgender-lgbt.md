@@ -11,7 +11,7 @@ tags: ["discrimination-effects", "family-rejection", "fxa303", "interventions", 
 key_concepts: ["depression", "anxiety", "suicidality", "risk-factors", "protective-factors", "interventions"]
 methods: ["systematic review"]
 slug: fxa303-week11-mental-health-in-lesbian-gay-bisexual-and-transgender-lgbt
-related: ["lgbt-youth", "mental-health"]
+related: ["family-rejection", "lgbt-youth", "mental-health", "protective-factors"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -44,5 +44,7 @@ This review article discusses the mental health issues faced by lesbian, gay, bi
 
 ## See Also
 
+- [family-rejection](../topics/family-rejection.md)
 - [lgbt-youth](../topics/lgbt-youth.md)
 - [mental-health](../topics/mental-health.md)
+- [protective-factors](../topics/protective-factors.md)

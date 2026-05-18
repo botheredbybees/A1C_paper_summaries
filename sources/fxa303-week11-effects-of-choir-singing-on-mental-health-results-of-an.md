@@ -11,7 +11,7 @@ tags: ["choir-singing", "choral-engagement", "cross-sectional", "fxa303", "menta
 key_concepts: ["mental health improvement", "choral engagement", "vocal pathology impact"]
 methods: ["cross-sectional study", "online questionnaire"]
 slug: fxa303-week11-effects-of-choir-singing-on-mental-health-results-of-an
-related: ["choir-singing", "mental-health", "well-being"]
+related: ["choir-singing", "mental-health", "mental-health-improvement", "well-being"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -44,4 +44,5 @@ The study investigates the impact of choir singing on mental health and well-bei
 
 - [choir-singing](../topics/choir-singing.md)
 - [mental-health](../topics/mental-health.md)
+- [mental-health-improvement](../topics/mental-health-improvement.md)
 - [well-being](../topics/well-being.md)

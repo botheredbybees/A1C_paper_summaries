@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dementia-care
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Dementia Care
@@ -173,6 +173,14 @@ updated: 2026-05-16
 - [The Emotional Response to Social Dancing and Walks in Persons With Dementia](../sources/fxa100-week11-the-emotional-response-to-social-dancing-and-walks-in.md)
 - [The Social Emotional Context of Dementia Care](../sources/fxa100-week11-transcript-youtube-tyf9-zkdrc8.md)
 - [Week 11 Lecture: Benefits of Dance and Movement for People with Dementia](../sources/fxa100-week11-week-11-lecture-benefits-of-dance-and-movement-for-people.md)
+- [Efficacy of Creative Arts Therapy in Treatment of Alzheimer\u2019s Disease and Dementia: A Systematic Literature Review](../sources/fxa100-week12-efficacy-of-creative-arts-therapy-in-treatment-of.md)
+- [In the moment with music: an exploration of the embodied and sensory experiences of people living with dementia during improvised music-making](../sources/fxa100-week12-in-the-moment-with-music-an-exploration-of-the-embodied-and.md)
+- [FXA100 The Arts and Dementia Care](../sources/fxa100-week12-lesson-fxa100-week12-page-2-so-what-have-we-learned.md)
+- [Well Done for Completing This Semester](../sources/fxa100-week12-lesson-fxa100-week12-page-3-thank-you-and-well-done.md)
+- [Playfully engaging people living with dementia: searching for Yum Cha moments](../sources/fxa100-week12-playfully-engaging-people-living-with-dementia-searching.md)
+- [Testing the Implementation of the Veder Contact Method: A Theatre-Based Communication Method in Dementia Care](../sources/fxa100-week12-testing-the-implementation-of-the-veder-contact-method-a.md)
+- [Using Music to Develop a Multisensory Communicative Environment for People with Late-Stage Dementia](../sources/fxa100-week12-using-music-to-develop-a-multisensory-communicative.md)
+- [Power of Music - Music in Herts Dementia Care](../sources/fxa100-week12-web-article-ageuk-2025.md)
 - [A snapshot of Italian nursing homes for people with dementia: A national survey](../sources/fxa100-week13-a-snapshot-of-italian-nursing-homes-for-people-with.md)
 - [Dance-Specific Activity in People Living With Dementia: A Conceptual Framework and Systematic Review of Its Effects on Neuropsychiatric Symptoms](../sources/fxa100-week13-dance-specific-activity-in-people-living-with-dementia-a.md)
 - [Dancing as a psychosocial intervention in care homes: a systematic review of the literature](../sources/fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a.md)

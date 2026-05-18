@@ -11,7 +11,7 @@ tags: ["music-therapy", "cognitive-development", "mental-health", "educational-i
 key_concepts: ["neural-pathways", "music-therapy-benefits", "academic-performance-improvement"]
 methods: ["systematic-review"]
 slug: fxa100-week12-the-power-of-music-an-exploration-of-the-evidence
-related: []
+related: ["cognitive-development", "educational-interventions", "mental-health", "music-therapy"]
 created: 2026-05-18
 updated: 2026-05-18
 ---
@@ -42,4 +42,7 @@ The book 'The Power of Music: An Exploration of the Evidence' by Susan Hallam an
 
 ## See Also
 
-*(none yet)*
+- [cognitive-development](../topics/cognitive-development.md)
+- [educational-interventions](../topics/educational-interventions.md)
+- [mental-health](../topics/mental-health.md)
+- [music-therapy](../topics/music-therapy.md)

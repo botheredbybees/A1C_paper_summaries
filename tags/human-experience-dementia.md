@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: human-experience-dementia
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Human Experience Dementia

@@ -11,7 +11,7 @@ tags: ["camera-angles", "composition-techniques", "dynamic-perspectives-in-photo
 key_concepts: ["point-of-view-composition", "dynamic-perspectives", "unique-vantage-points"]
 methods: ["case-study"]
 slug: fxa202-week02-photography-tips-point-of-view-composition
-related: ["composition-techniques", "photography-tips", "visual-storytelling"]
+related: ["camera-angles", "composition-techniques", "photography-tips", "visual-storytelling"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,6 +41,7 @@ Bill Hatcher discusses the application of point of view (POV) composition in pho
 
 ## See Also
 
+- [camera-angles](../topics/camera-angles.md)
 - [composition-techniques](../topics/composition-techniques.md)
 - [photography-tips](../topics/photography-tips.md)
 - [visual-storytelling](../topics/visual-storytelling.md)

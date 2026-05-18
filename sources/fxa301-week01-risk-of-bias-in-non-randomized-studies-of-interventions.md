@@ -11,7 +11,7 @@ tags: ["bias-domains", "confounding-factors", "fxa301", "intervention-comparison
 key_concepts: ["target trial", "confounding factors", "per-protocol effect analyses"]
 methods: ["systematic review"]
 slug: fxa301-week01-risk-of-bias-in-non-randomized-studies-of-interventions
-related: ["non-randomized-studies", "risk-of-bias-assessment"]
+related: ["confounding-factors", "non-randomized-studies", "risk-of-bias-assessment"]
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -41,5 +41,6 @@ The document outlines the ROBINS-I Version 2 (V2) risk-of-bias assessment tool f
 
 ## See Also
 
+- [confounding-factors](../topics/confounding-factors.md)
 - [non-randomized-studies](../topics/non-randomized-studies.md)
 - [risk-of-bias-assessment](../topics/risk-of-bias-assessment.md)

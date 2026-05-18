@@ -18,6 +18,7 @@ appearances:
   - unit: FXA202
   - unit: FXA202
   - unit: FXA202
+  - unit: FXA202
 tags: ["therapeutic-photography", "photo-elicitation-methods", "mental-health-research", "fxa202"]
 key_concepts: ["power-dynamics-in-interviews", "visual-pedagogy", "emancipatory-research"]
 methods: []

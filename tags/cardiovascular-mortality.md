@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cardiovascular-mortality
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Cardiovascular Mortality

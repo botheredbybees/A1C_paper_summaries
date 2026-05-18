@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: facilitator-role
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Facilitator Role

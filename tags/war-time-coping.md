@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: war-time-coping
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## War Time Coping

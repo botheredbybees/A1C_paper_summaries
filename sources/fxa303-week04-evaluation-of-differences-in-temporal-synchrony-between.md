@@ -11,7 +11,7 @@ tags: ["autism-spectrum-disorders", "brain-connectivity", "brain-connectivity-in
 key_concepts: ["functional brain connectivity", "temporal synchrony", "cognitive processing speed", "neural network dynamics", "autism symptom severity"]
 methods: ["multiband multiecho fMRI", "replication sample analysis"]
 slug: fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between
-related: ["autism-spectrum-disorders", "brain-connectivity", "neural-networks", "temporal-dynamics"]
+related: ["autism-spectrum-disorders", "brain-connectivity", "brain-connectivity-in-autism-and-art-production", "neural-networks", "temporal-dynamics"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -48,5 +48,6 @@ This study investigates the temporal dynamics of functional brain connectivity i
 
 - [autism-spectrum-disorders](../topics/autism-spectrum-disorders.md)
 - [brain-connectivity](../topics/brain-connectivity.md)
+- [brain-connectivity-in-autism-and-art-production](../topics/brain-connectivity-in-autism-and-art-production.md)
 - [neural-networks](../topics/neural-networks.md)
 - [temporal-dynamics](../topics/temporal-dynamics.md)

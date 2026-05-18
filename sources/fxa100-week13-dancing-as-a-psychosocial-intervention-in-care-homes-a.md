@@ -11,7 +11,7 @@ tags: ["care-homes", "dancing-as-therapy", "dementia-care", "fxa100", "mood-enha
 key_concepts: ["dancing-as-therapy", "mood-enhancement", "social-interaction"]
 methods: ["systematic review"]
 slug: fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a
-related: ["dementia-care", "psychosocial-interventions", "quality-of-life", "systematic-review"]
+related: ["dementia-care", "psychosocial-interventions", "quality-of-life", "systematic-review", "therapeutic-dance"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -46,3 +46,4 @@ This systematic review evaluates the role of dancing as a psychosocial intervent
 - [psychosocial-interventions](../topics/psychosocial-interventions.md)
 - [quality-of-life](../topics/quality-of-life.md)
 - [systematic-review](../topics/systematic-review.md)
+- [therapeutic-dance](../topics/therapeutic-dance.md)

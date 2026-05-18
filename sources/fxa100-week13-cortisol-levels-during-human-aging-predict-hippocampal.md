@@ -11,7 +11,7 @@ tags: ["aging-process", "brain-aging", "cortisol-levels", "delayed-recall-memory
 key_concepts: ["glucocorticoids", "hippocampal-volume", "delayed-recall-memory"]
 methods: ["longitudinal-study", "mri-scans"]
 slug: fxa100-week13-cortisol-levels-during-human-aging-predict-hippocampal
-related: ["brain-aging"]
+related: ["brain-aging", "hippocampal-volume"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -44,3 +44,4 @@ The study investigates the relationship between cortisol levels and hippocampal 
 ## See Also
 
 - [brain-aging](../topics/brain-aging.md)
+- [hippocampal-volume](../topics/hippocampal-volume.md)

@@ -11,7 +11,7 @@ tags: ["chacian-dmt", "cognitive-decline", "dance-movement-therapy-dmt", "dance-
 key_concepts: ["dance movement therapy (DMT)", "Laban Movement Analysis", "neurocognitive benefits"]
 methods: ["lecture"]
 slug: fxa100-week11-week-11-lecture-benefits-of-dance-and-movement-for-people
-related: ["cognitive-decline", "dance-therapy", "dementia-care", "neural-pathways"]
+related: ["cognitive-decline", "dance-movement-therapy-dmt", "dance-therapy", "dementia-care", "neural-pathways"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -43,6 +43,7 @@ In this week's lecture, Dr Brendan Lamb discusses the benefits of dance movement
 ## See Also
 
 - [cognitive-decline](../topics/cognitive-decline.md)
+- [dance-movement-therapy-dmt](../topics/dance-movement-therapy-dmt.md)
 - [dance-therapy](../topics/dance-therapy.md)
 - [dementia-care](../topics/dementia-care.md)
 - [neural-pathways](../topics/neural-pathways.md)

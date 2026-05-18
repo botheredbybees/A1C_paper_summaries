@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: small-vessel-disease
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Small Vessel Disease

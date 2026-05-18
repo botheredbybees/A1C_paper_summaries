@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: art-therapy
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Art Therapy
@@ -30,6 +30,7 @@ updated: 2026-05-16
 - [Art Therapy for Alzheimer's Patients: The Memories in the Making Program](../sources/fxa100-week08-transcript-youtube-l3cci-2kwkk.md)
 - [I Remember Better When I Paint - Film Clips](../sources/fxa100-week08-web-article-huebner-2012.md)
 - [Week 8 Lecture: Art Therapy in Dementia Care](../sources/fxa100-week08-week-8-lecture-art-therapy-in-dementia-care.md)
+- [Exploring nature-based art therapy: a scoping review](../sources/fxa100-week12-exploring-nature-based-art-therapy-a-scoping-review.md)
 - [Exploring Ethical Considerations in Art Therapy](../sources/fxa100-week13-exploring-ethical-considerations-in-art-therapy.md)
 - [The Future of Art Therapy in Mental Health Treatment](../sources/fxa100-week13-the-future-of-art-therapy-in-mental-health-treatment.md)
 - [Donna: A Photo Essay](../sources/fxa202-week06-donna-a-photo-essay.md)
@@ -42,8 +43,11 @@ updated: 2026-05-16
 - [Arts in Health: Designing and researching interventions - Neurology](../sources/fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the.md)
 - [Art Therapy and Its Impact on Mood and Emotional States in Pediatric Hematology Oncology Units](../sources/fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in.md)
 - [Art as Therapy](../sources/fxa301-week05-art-as-therapy.md)
+- [Art as Therapy](../sources/fxa301-week05-art-as-therapy.md)
 - [Art-making and Illness - Two Case Studies](../sources/fxa301-week05-art-making-and-illness-two-case-studies.md)
+- [De Botton \u2013 Art is Therapy at the Rijksmuseum](../sources/fxa301-week05-de-botton-art-is-therapy-at-the-rijksmuseum.md)
 - [How a dragon sculpture fueled hope and community for our patients](../sources/fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our.md)
+- [FXA301 Arts in the Community - Week 5 Activities](../sources/fxa301-week05-lesson-fxa301-week05-page-4-week-3-activities.md)
 - [The Colour Treatment: A Convergence of Art and Medicine at the Red Cross Russell Lea Nerve Home](../sources/fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at.md)
 - [The role of art-making in identity maintenance: case studies of people living with cancer](../sources/fxa301-week05-web-article-reynolds-2006.md)
 - [Week 5 Activities - FXA301 Arts in the Community](../sources/fxa301-week05-week-5-activities-fxa301-arts-in-the-community.md)

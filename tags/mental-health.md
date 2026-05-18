@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-health
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Mental Health
@@ -9,6 +9,8 @@ updated: 2026-05-16
 - [Music Therapy Flyer](../sources/fxa100-week04-music-therapy-flyer.md)
 - [Psychophysiological Effects of Dance Movement Therapy and Physical Exercise on Older Adults With Mild Dementia: A Randomized Controlled Trial](../sources/fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and.md)
 - [Movement Therapy and Mental Health](../sources/fxa100-week11-movement-therapy-and-mental-health.md)
+- [Exploring nature-based art therapy: a scoping review](../sources/fxa100-week12-exploring-nature-based-art-therapy-a-scoping-review.md)
+- [The Power of Music: An Exploration of the Evidence](../sources/fxa100-week12-the-power-of-music-an-exploration-of-the-evidence.md)
 - [Dance therapy in rehabilitation: a two-decade bibliometric analysis (2000\u20132024)](../sources/fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric.md)
 - ['MINI-MENTAL STATE': A PRACTICAL METHOD FOR GRADING THE COGNITIVE STATE OF PATIENTS FOR THE CLINICIAN](../sources/fxa100-week13-mini-mental-state-a-practical-method-for-grading-the.md)
 - [How Can Photography Help Wellbeing?](../sources/fxa202-week03-lesson-fxa202-week03-page-2.md)

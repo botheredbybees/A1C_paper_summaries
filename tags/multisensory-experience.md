@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: multisensory-experience
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Multisensory Experience

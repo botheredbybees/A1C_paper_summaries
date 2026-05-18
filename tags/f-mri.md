@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: f-mri
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## F Mri

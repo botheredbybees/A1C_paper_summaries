@@ -11,7 +11,7 @@ tags: ["behavioral-and-psychological-symptoms-of-dementia", "behavioral-symptoms
 key_concepts: ["behavioral-and-psychological-symptoms-of-dementia", "person-centered-care", "non-pharmacological-interventions"]
 methods: ["systematic-review"]
 slug: fxa303-week13-pharmacotherapy-of-behavioral-and-psychological-symptoms-of
-related: ["behavioral-symptoms-dementia", "psychological-symptoms-dementia"]
+related: ["behavioral-and-psychological-symptoms-of-dementia", "behavioral-symptoms-dementia", "psychological-symptoms-dementia"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -40,5 +40,6 @@ The article reviews the current knowledge and management strategies for behavior
 
 ## See Also
 
+- [behavioral-and-psychological-symptoms-of-dementia](../topics/behavioral-and-psychological-symptoms-of-dementia.md)
 - [behavioral-symptoms-dementia](../topics/behavioral-symptoms-dementia.md)
 - [psychological-symptoms-dementia](../topics/psychological-symptoms-dementia.md)

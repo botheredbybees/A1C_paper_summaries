@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: public-health-impact
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Public Health Impact

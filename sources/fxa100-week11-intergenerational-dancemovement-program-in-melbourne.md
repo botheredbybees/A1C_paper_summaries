@@ -11,7 +11,7 @@ tags: ["aging-and-youth", "collaborative-learning", "creative-movement", "dance-
 key_concepts: ["creative-movement", "generativity", "intergenerational-engagement"]
 methods: ["case-study"]
 slug: fxa100-week11-intergenerational-dancemovement-program-in-melbourne
-related: ["collaborative-learning", "dance-therapy", "intergenerational-interaction"]
+related: ["collaborative-learning", "creative-movement", "dance-therapy", "intergenerational-interaction"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -41,5 +41,6 @@ Heather Hill, a dance therapist in Victoria, Australia, developed an intergenera
 ## See Also
 
 - [collaborative-learning](../topics/collaborative-learning.md)
+- [creative-movement](../topics/creative-movement.md)
 - [dance-therapy](../topics/dance-therapy.md)
 - [intergenerational-interaction](../topics/intergenerational-interaction.md)

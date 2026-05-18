@@ -11,7 +11,7 @@ tags: ["cheerfulness", "end-of-life-care", "fxa303", "humour-interventions", "mc
 key_concepts: ["McGhee's humour habits programme", "cheerfulness", "salivary oxytocin"]
 methods: ["randomized controlled trial"]
 slug: fxa303-week13-humour-interventions-for-patients-in-palliative-carea
-related: ["end-of-life-care", "palliative-care", "patient-wellbeing", "quality-of-life"]
+related: ["cheerfulness", "end-of-life-care", "palliative-care", "patient-wellbeing", "quality-of-life"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -41,6 +41,7 @@ This randomized controlled trial evaluates the effects of a humour intervention 
 
 ## See Also
 
+- [cheerfulness](../topics/cheerfulness.md)
 - [end-of-life-care](../topics/end-of-life-care.md)
 - [palliative-care](../topics/palliative-care.md)
 - [patient-wellbeing](../topics/patient-wellbeing.md)

@@ -11,7 +11,7 @@ tags: ["aesop-framework", "arts-health", "community-engagement", "evaluation-met
 key_concepts: ["co-production", "AESOP framework"]
 methods: ["systematic review"]
 slug: fxa301-week01-fxa301-sem-1-2026-week-4-lecture
-related: ["arts-health", "community-engagement", "evaluation-methods"]
+related: ["aesop-framework", "arts-health", "community-engagement", "evaluation-methods"]
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -39,6 +39,7 @@ The lecture focuses on the principles and practicalities of designing arts-based
 
 ## See Also
 
+- [aesop-framework](../topics/aesop-framework.md)
 - [arts-health](../topics/arts-health.md)
 - [community-engagement](../topics/community-engagement.md)
 - [evaluation-methods](../topics/evaluation-methods.md)

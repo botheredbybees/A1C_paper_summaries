@@ -3,12 +3,14 @@ confidence: low
 domain: theory
 slug: sensory-processing
 sources:
+  - fxa100-week12-inner-vision-an-exploration-of-art-and-the-brain
+  - fxa303-week04-neurobiology-of-autism-spectrum-disorders
 - fxa301-week02-the-brain-and-how-we-perceive-information
 tags:
 - sensory-processing
 title: Sensory Processing
 type: topic
-updated: 2026-05-04
+updated: 2026-05-18
 ---
 
 ## Sensory Processing
@@ -27,4 +29,5 @@ The concept of sensory processing is central to understanding how the brain inte
 
 ## Sources
 
-- [fxa301-week02-the-brain-and-how-we-perceive-information](../sources/fxa301-week02-the-brain-and-how-we-perceive-information.md)
+- [fxa100-week12-inner-vision-an-exploration-of-art-and-the-brain](../sources/fxa100-week12-inner-vision-an-exploration-of-art-and-the-brain.md)
+- [fxa303-week04-neurobiology-of-autism-spectrum-disorders](../sources/fxa303-week04-neurobiology-of-autism-spectrum-disorders.md)

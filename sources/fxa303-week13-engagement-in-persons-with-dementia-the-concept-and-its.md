@@ -11,7 +11,7 @@ tags: ["cognitive-state", "dementia-care", "fxa303", "mental-health", "nonpharma
 key_concepts: ["engagement", "cognitive-state", "nonpharmacological-interventions"]
 methods: ["preliminary-study"]
 slug: fxa303-week13-engagement-in-persons-with-dementia-the-concept-and-its
-related: ["dementia-care", "mental-health", "patient-engagement", "quality-of-life"]
+related: ["dementia-care", "mental-health", "nonpharmacological-interventions", "patient-engagement", "quality-of-life"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -42,5 +42,6 @@ This article defines and explores the concept of engagement in individuals with 
 
 - [dementia-care](../topics/dementia-care.md)
 - [mental-health](../topics/mental-health.md)
+- [nonpharmacological-interventions](../topics/nonpharmacological-interventions.md)
 - [patient-engagement](../topics/patient-engagement.md)
 - [quality-of-life](../topics/quality-of-life.md)

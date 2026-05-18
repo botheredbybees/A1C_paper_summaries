@@ -11,7 +11,7 @@ tags: ["cognitive-functioning", "cornell-scale-for-depression-in-dementia", "dem
 key_concepts: ["game therapy", "Mini Mental State Examination (MMSE)", "Cornell Scale for Depression in Dementia"]
 methods: ["systematic review", "meta-analysis"]
 slug: fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living
-related: ["cognitive-functioning", "dementia-treatment", "mental-health-interventions", "quality-of-life"]
+related: ["cognitive-functioning", "dementia-treatment", "mental-health-interventions", "mini-mental-state-examination-mmse", "quality-of-life"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -45,4 +45,5 @@ The study evaluates the effects of game therapy on people living with dementia (
 - [cognitive-functioning](../topics/cognitive-functioning.md)
 - [dementia-treatment](../topics/dementia-treatment.md)
 - [mental-health-interventions](../topics/mental-health-interventions.md)
+- [mini-mental-state-examination-mmse](../topics/mini-mental-state-examination-mmse.md)
 - [quality-of-life](../topics/quality-of-life.md)

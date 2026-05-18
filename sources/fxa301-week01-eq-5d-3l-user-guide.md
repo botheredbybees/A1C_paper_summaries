@@ -11,7 +11,7 @@ tags: ["eq-5d-3l", "fxa301", "health-measurement", "health-related-quality-of-li
 key_concepts: ["EQ-5D-3L", "health-related-quality-of-life"]
 methods: ["user-guide"]
 slug: fxa301-week01-eq-5d-3l-user-guide
-related: ["quality-of-life-assessment"]
+related: ["health-related-quality-of-life", "quality-of-life-assessment"]
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -39,4 +39,5 @@ The document provides an overview of the EQ-5D-3L, a widely used tool for measur
 
 ## See Also
 
+- [health-related-quality-of-life](../topics/health-related-quality-of-life.md)
 - [quality-of-life-assessment](../topics/quality-of-life-assessment.md)

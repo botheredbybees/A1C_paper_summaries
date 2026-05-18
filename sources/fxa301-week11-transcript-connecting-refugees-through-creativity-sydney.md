@@ -11,7 +11,7 @@ tags: ["drama-based-learning", "drama-education", "english-as-an-additional-lang
 key_concepts: ["English as an Additional Language (EAL)", "Drama-based Learning"]
 methods: []
 slug: fxa301-week11-transcript-connecting-refugees-through-creativity-sydney
-related: ["refugee-support"]
+related: ["drama-based-learning", "refugee-support"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -39,4 +39,5 @@ This transcript captures a conversation at the Sydney Theatre Company on October
 
 ## See Also
 
+- [drama-based-learning](../topics/drama-based-learning.md)
 - [refugee-support](../topics/refugee-support.md)

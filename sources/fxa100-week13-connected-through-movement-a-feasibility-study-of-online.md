@@ -11,7 +11,7 @@ tags: ["cognitive-decline-treatment", "fxa100", "loneliness-reduction", "mental-
 key_concepts: ["loneliness reduction", "mental health improvement", "physical activity promotion"]
 methods: ["feasibility study", "qualitative feedback"]
 slug: fxa100-week13-connected-through-movement-a-feasibility-study-of-online
-related: []
+related: ["mental-health-improvement"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -42,4 +42,4 @@ This study investigates the feasibility of an online mindfulness-based dance/mov
 
 ## See Also
 
-*(none yet)*
+- [mental-health-improvement](../topics/mental-health-improvement.md)

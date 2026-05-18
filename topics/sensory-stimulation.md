@@ -3,6 +3,8 @@ confidence: medium
 domain: intervention
 slug: sensory-stimulation
 sources:
+  - fxa100-week12-in-the-moment-with-music-an-exploration-of-the-embodied-and
+  - fxa303-week13-remembering-yesterday-caring-today-reminiscence-in-dementia
 - fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales
 - fxa100-week07-creating-resources-memory-trees-and-boxes
 - fxa100-week08-unlocking-the-door-to-being-there-the-contribution-of
@@ -10,7 +12,7 @@ tags:
 - sensory-stimulation
 title: Sensory Stimulation
 type: topic
-updated: 2026-05-04
+updated: 2026-05-18
 ---
 
 ## Sensory Stimulation
@@ -29,6 +31,5 @@ The integration of sensory stimulation in interventions for individuals with dem
 
 ## Sources
 
-- [fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales](../sources/fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales.md)
-- [fxa100-week07-creating-resources-memory-trees-and-boxes](../sources/fxa100-week07-creating-resources-memory-trees-and-boxes.md)
-- [fxa100-week08-unlocking-the-door-to-being-there-the-contribution-of](../sources/fxa100-week08-unlocking-the-door-to-being-there-the-contribution-of.md)
+- [fxa100-week12-in-the-moment-with-music-an-exploration-of-the-embodied-and](../sources/fxa100-week12-in-the-moment-with-music-an-exploration-of-the-embodied-and.md)
+- [fxa303-week13-remembering-yesterday-caring-today-reminiscence-in-dementia](../sources/fxa303-week13-remembering-yesterday-caring-today-reminiscence-in-dementia.md)

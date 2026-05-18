@@ -1,13 +1,14 @@
 ---
 type: tag
 tag: qualitative-research
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Qualitative Research
 
 - ['Singing for the Brain': A Qualitative Study Exploring the Health and Well-being Benefits of Singing for People with Dementia and Their Carers](../sources/fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the.md)
 - [What are the Required Elements Needed to Create an Effective Visual Art Intervention for People with Dementia? A Qualitative Exploration](../sources/fxa100-week08-what-are-the-required-elements-needed-to-create-an.md)
+- [In the moment with music: an exploration of the embodied and sensory experiences of people living with dementia during improvised music-making](../sources/fxa100-week12-in-the-moment-with-music-an-exploration-of-the-embodied-and.md)
 - [Impact of dance interventions on the symptoms of dementia: A mixed-methods systematic review](../sources/fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a.md)
 - [Knowledge and Health Beliefs About Dementia Prevention Among Chinese Older Adults: A Qualitative Study](../sources/fxa100-week13-knowledge-and-health-beliefs-about-dementia-prevention.md)
 - [Music Interventions for People with Dementia: A Review of the Literature](../sources/fxa100-week13-music-interventions-for-people-with-dementia-a-review-of.md)

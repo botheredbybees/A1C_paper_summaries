@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: indonesian-culture
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Indonesian Culture

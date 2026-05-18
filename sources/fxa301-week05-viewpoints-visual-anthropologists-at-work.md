@@ -11,7 +11,7 @@ tags: ["dance-studies", "ethnography-films", "fxa301", "methodological-diversity
 key_concepts: ["visual-ethnography", "methodological-diversity", "theoretical-applications"]
 methods: ["book-review"]
 slug: fxa301-week05-viewpoints-visual-anthropologists-at-work
-related: []
+related: ["methodological-diversity-in-visual-anthropology"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,4 +42,4 @@ The review discusses the book 'Viewpoints: Visual Anthropologists at Work' edite
 
 ## See Also
 
-*(none yet)*
+- [methodological-diversity-in-visual-anthropology](../topics/methodological-diversity-in-visual-anthropology.md)

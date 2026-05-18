@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hospital-mortality-prediction
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Hospital Mortality Prediction

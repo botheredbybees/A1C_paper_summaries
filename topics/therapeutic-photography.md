@@ -9,6 +9,7 @@ sources:
   - fxa202-therapeutic-photography-ch02-chapter-11
   - fxa202-therapeutic-photography-ch04-2-reflexive-photography
   - fxa202-therapeutic-photography-ch05-1-photographs-are-used-to-record-inventories-such-as-objects
+  - fxa202-therapeutic-photography-ch15-154-shakespeare
   - fxa202-week03-lesson-fxa202-week03-week-3
   - fxa202-week03-therapeutic-photography
   - fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay
@@ -24,7 +25,7 @@ sources:
   - fxa202-week13-taking-pictures-is-like-treasure-hunting-exploring-the
   - fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography
   - fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2)
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Therapeutic Photography
@@ -47,6 +48,7 @@ The integration of therapeutic photography across various contexts reveals a mul
 - [fxa202-therapeutic-photography-ch02-chapter-11](../sources/fxa202-therapeutic-photography-ch02-chapter-11.md)
 - [fxa202-therapeutic-photography-ch04-2-reflexive-photography](../sources/fxa202-therapeutic-photography-ch04-2-reflexive-photography.md)
 - [fxa202-therapeutic-photography-ch05-1-photographs-are-used-to-record-inventories-such-as-objects](../sources/fxa202-therapeutic-photography-ch05-1-photographs-are-used-to-record-inventories-such-as-objects.md)
+- [fxa202-therapeutic-photography-ch15-154-shakespeare](../sources/fxa202-therapeutic-photography-ch15-154-shakespeare.md)
 - [fxa202-week03-lesson-fxa202-week03-week-3](../sources/fxa202-week03-lesson-fxa202-week03-week-3.md)
 - [fxa202-week03-therapeutic-photography](../sources/fxa202-week03-therapeutic-photography.md)
 - [fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay](../sources/fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay.md)

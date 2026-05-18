@@ -1,12 +1,13 @@
 ---
 type: tag
 tag: mental-health-intervention
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Mental Health Intervention
 
 - [Music Therapy Promotes Mental Health in Schools](../sources/fxa100-week04-music-therapy-promotes-mental-health-in-schools.md)
+- [Comparative efficacy of various art therapies for patients with dementia: A network meta-analysis of randomized controlled trials](../sources/fxa100-week12-comparative-efficacy-of-various-art-therapies-for-patients.md)
 - [Body Talk: Examining a Collaborative Multiple-Visit Program for Visitors with Eating Disorders](../sources/fxa301-week10-body-talk-examining-a-collaborative-multiple-visit-program.md)
 - [Eating Disorders and Art Therapy](../sources/fxa301-week10-eating-disorders-and-art-therapy.md)
 - [Social Action in Art Therapy with Veterans](../sources/fxa301-week10-social-action-in-art-therapy-with-veterans.md)

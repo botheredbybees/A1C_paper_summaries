@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: australian-society
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Australian Society

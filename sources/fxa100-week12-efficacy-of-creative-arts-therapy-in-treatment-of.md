@@ -11,7 +11,7 @@ tags: ["alzheimers-disease", "dementia-care", "creative-arts-therapy", "fxa100",
 key_concepts: ["quality-of-life", "behavioral-challenges", "cognitive-decline"]
 methods: ["systematic-review"]
 slug: fxa100-week12-efficacy-of-creative-arts-therapy-in-treatment-of
-related: []
+related: ["alzheimers-disease", "creative-arts-therapy", "dementia-care"]
 created: 2026-05-18
 updated: 2026-05-18
 ---
@@ -41,4 +41,6 @@ This systematic literature review evaluates the effectiveness of creative arts t
 
 ## See Also
 
-*(none yet)*
+- [alzheimers-disease](../topics/alzheimers-disease.md)
+- [creative-arts-therapy](../topics/creative-arts-therapy.md)
+- [dementia-care](../topics/dementia-care.md)

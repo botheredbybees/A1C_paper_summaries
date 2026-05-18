@@ -12,6 +12,7 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
+  - unit: FXA301
 tags: ["arts-in-health", "creative-practices", "feasibility-assessment", "fxa301", "health-outcomes", "intervention-research", "methodology-choice", "research-design", "research-methods"]
 key_concepts: ["research-design", "methodology-choice", "feasibility-assessment"]
 methods: ["qualitative-study", "quantitative-study", "mixed-methods"]

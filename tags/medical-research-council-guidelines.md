@@ -1,0 +1,9 @@
+---
+type: tag
+tag: medical-research-council-guidelines
+updated: 2026-05-18
+---
+
+## Medical Research Council Guidelines
+
+- [Aesop: A Framework for Developing and Researching Arts in Health Programmes](../sources/fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(2).md)

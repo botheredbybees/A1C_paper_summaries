@@ -6,8 +6,9 @@ confidence: medium
 tags: ["aged-care-facilities"]
 sources:
   - fxa100-week08-the-use-of-creative-activities-in-dementia-in-residential
+  - fxa100-week12-playfully-engaging-people-living-with-dementia-searching
   - fxa303-week13-the-delivery-of-person-centered-care-for-people-living-with
-updated: 2026-05-15
+updated: 2026-05-18
 ---
 
 ## Person-Centered Care in Aged Care Facilities
@@ -26,4 +27,5 @@ The integration of creative activities and person-centered care approaches withi
 ## Sources
 
 - [fxa100-week08-the-use-of-creative-activities-in-dementia-in-residential](../sources/fxa100-week08-the-use-of-creative-activities-in-dementia-in-residential.md)
+- [fxa100-week12-playfully-engaging-people-living-with-dementia-searching](../sources/fxa100-week12-playfully-engaging-people-living-with-dementia-searching.md)
 - [fxa303-week13-the-delivery-of-person-centered-care-for-people-living-with](../sources/fxa303-week13-the-delivery-of-person-centered-care-for-people-living-with.md)

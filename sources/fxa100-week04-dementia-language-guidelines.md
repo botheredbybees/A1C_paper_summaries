@@ -11,7 +11,7 @@ tags: ["dementia-language", "stigma-reduction", "inclusive-terminology", "cultur
 key_concepts: ["person-first language", "non-stigmatizing communication", "cultural sensitivity"]
 methods: ["guidelines"]
 slug: fxa100-week04-dementia-language-guidelines
-related: ["caregiver-support", "dementia-language", "inclusive-terminology", "stigma-reduction"]
+related: ["caregiver-support", "communication-strategies", "dementia-language", "inclusive-terminology", "stigma-reduction"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -49,6 +49,7 @@ Furthermore, it provides guidance on how to talk about carers, family members, a
 ## See Also
 
 - [caregiver-support](../topics/caregiver-support.md)
+- [communication-strategies](../topics/communication-strategies.md)
 - [dementia-language](../topics/dementia-language.md)
 - [inclusive-terminology](../topics/inclusive-terminology.md)
 - [stigma-reduction](../topics/stigma-reduction.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: regional-australia
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Regional Australia

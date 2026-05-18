@@ -11,7 +11,7 @@ tags: ["alternative-communication-methods", "creative-expression", "fxa303", "mi
 key_concepts: ["emotional-healing", "self-esteem-building", "alternative-communication-methods"]
 methods: ["case-study"]
 slug: fxa303-week11-healing-arts-safe-place-for-youth
-related: ["creative-expression", "mindfulness-practices", "trauma-recovery"]
+related: ["creative-expression", "mindfulness-practices", "self-esteem-building", "trauma-recovery"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -42,4 +42,5 @@ The Healing Arts Program at Safe Place for Youth (SPY) offers a nurturing enviro
 
 - [creative-expression](../topics/creative-expression.md)
 - [mindfulness-practices](../topics/mindfulness-practices.md)
+- [self-esteem-building](../topics/self-esteem-building.md)
 - [trauma-recovery](../topics/trauma-recovery.md)

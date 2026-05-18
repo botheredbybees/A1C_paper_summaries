@@ -7,7 +7,8 @@ tags: ["museum-programs-for-people-with-dementia"]
 sources:
   - fxa100-week07-lesson-fxa100-week07-page-2-artz-artists-for-alzheimer-s
   - fxa100-week07-lesson-fxa100-week07-welcome-to-week-7
-updated: 2026-05-16
+  - fxa100-week12-lesson-fxa100-week12-page-1-welcome-to-week-12
+updated: 2026-05-18
 ---
 
 ## Museum Programs for People with Dementia
@@ -28,3 +29,4 @@ The integration of museum-based programs designed specifically for individuals w
 
 - [fxa100-week07-lesson-fxa100-week07-page-2-artz-artists-for-alzheimer-s](../sources/fxa100-week07-lesson-fxa100-week07-page-2-artz-artists-for-alzheimer-s.md)
 - [fxa100-week07-lesson-fxa100-week07-welcome-to-week-7](../sources/fxa100-week07-lesson-fxa100-week07-welcome-to-week-7.md)
+- [fxa100-week12-lesson-fxa100-week12-page-1-welcome-to-week-12](../sources/fxa100-week12-lesson-fxa100-week12-page-1-welcome-to-week-12.md)

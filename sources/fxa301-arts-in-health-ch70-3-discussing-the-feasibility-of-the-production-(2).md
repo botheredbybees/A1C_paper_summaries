@@ -11,7 +11,7 @@ tags: ["research-protocols", "ethics-committee", "study-design", "fxa301"]
 key_concepts: ["research rationale", "ethical approval process"]
 methods: []
 slug: fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production-(2)
-related: ["research-protocols"]
+related: ["research-protocols", "study-design"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,3 +41,4 @@ This chapter discusses the structure and purpose of research protocols in compar
 ## See Also
 
 - [research-protocols](../topics/research-protocols.md)
+- [study-design](../topics/study-design.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dopamine-reaction
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Dopamine Reaction

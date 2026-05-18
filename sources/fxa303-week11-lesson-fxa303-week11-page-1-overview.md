@@ -11,7 +11,7 @@ tags: ["cathartic-emotional-expression", "creative-arts-programmes", "emotional-
 key_concepts: ["cathartic emotional expression", "self-efficacy enhancement", "community-building through art"]
 methods: []
 slug: fxa303-week11-lesson-fxa303-week11-page-1-overview
-related: ["emotional-regulation", "gender-diverse-youth", "mental-wellbeing"]
+related: ["emotional-regulation", "gender-diverse-youth", "mental-wellbeing", "self-efficacy-enhancement"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -44,3 +44,4 @@ This week's lesson from the FXA303 course focuses on how creative arts can enhan
 - [emotional-regulation](../topics/emotional-regulation.md)
 - [gender-diverse-youth](../topics/gender-diverse-youth.md)
 - [mental-wellbeing](../topics/mental-wellbeing.md)
+- [self-efficacy-enhancement](../topics/self-efficacy-enhancement.md)

@@ -5,10 +5,11 @@ title: "Residential Care Interventions for Dementia Patients"
 confidence: medium
 tags: ["residential-care"]
 sources:
+  - fxa100-week12-using-music-to-develop-a-multisensory-communicative
   - fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a
   - fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an
   - fxa303-week13-the-complexities-of-implementing-an-lgbt-inclusion-scheme
-updated: 2026-05-15
+updated: 2026-05-18
 ---
 
 ## Residential Care Interventions for Dementia Patients
@@ -27,6 +28,7 @@ The provided sources highlight various intervention strategies aimed at improvin
 
 ## Sources
 
+- [fxa100-week12-using-music-to-develop-a-multisensory-communicative](../sources/fxa100-week12-using-music-to-develop-a-multisensory-communicative.md)
 - [fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a](../sources/fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a.md)
 - [fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an](../sources/fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an.md)
 - [fxa303-week13-the-complexities-of-implementing-an-lgbt-inclusion-scheme](../sources/fxa303-week13-the-complexities-of-implementing-an-lgbt-inclusion-scheme.md)

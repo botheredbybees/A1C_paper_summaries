@@ -11,7 +11,7 @@ tags: ["dementia-care", "emotional-expression", "fxa100", "group-music-therapy-f
 key_concepts: ["stress-hormone-reduction", "melatonin-levels-increase", "music-based-interventions", "community-support-networks"]
 methods: ["case-study", "observational-study"]
 slug: fxa100-week04-singing-and-participation
-related: ["dementia-care", "emotional-expression", "group-singing", "music-therapy", "social-wellbeing"]
+related: ["dementia-care", "emotional-expression", "group-music-therapy-for-dementia-patients", "group-singing", "music-therapy", "social-wellbeing"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,6 +45,7 @@ The document discusses the social benefits of singing for individuals with demen
 
 - [dementia-care](../topics/dementia-care.md)
 - [emotional-expression](../topics/emotional-expression.md)
+- [group-music-therapy-for-dementia-patients](../topics/group-music-therapy-for-dementia-patients.md)
 - [group-singing](../topics/group-singing.md)
 - [music-therapy](../topics/music-therapy.md)
 - [social-wellbeing](../topics/social-wellbeing.md)

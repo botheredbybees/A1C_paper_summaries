@@ -6,6 +6,7 @@ sources:
   - fxa100-week02-music-and-the-damaged-brain
   - fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind
   - fxa100-week04-what-is-singing-for-the-brain
+  - fxa100-week12-the-power-of-music
   - fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas
   - fxa202-week09-expressive-writing-therapy-exercises-examples
   - fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a
@@ -32,7 +33,7 @@ tags:
 - therapeutic-benefits
 title: Music Therapy
 type: topic
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Music Therapy
@@ -54,6 +55,7 @@ The documents collectively emphasize the profound therapeutic potential of music
 - [fxa100-week02-music-and-the-damaged-brain](../sources/fxa100-week02-music-and-the-damaged-brain.md)
 - [fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind](../sources/fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind.md)
 - [fxa100-week04-what-is-singing-for-the-brain](../sources/fxa100-week04-what-is-singing-for-the-brain.md)
+- [fxa100-week12-the-power-of-music](../sources/fxa100-week12-the-power-of-music.md)
 - [fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas](../sources/fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas.md)
 - [fxa202-week09-expressive-writing-therapy-exercises-examples](../sources/fxa202-week09-expressive-writing-therapy-exercises-examples.md)
 - [fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a](../sources/fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a.md)

@@ -18,6 +18,8 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
+  - unit: FXA301
+  - unit: FXA301
 tags: ["arts-in-health", "fxa301", "healthcare-interventions", "intervention-planning", "management-principles", "pestle-analysis", "stakeholder-support"]
 key_concepts: ["PESTLE analysis", "arts-based interventions", "stakeholder support"]
 methods: ["systematic approach"]

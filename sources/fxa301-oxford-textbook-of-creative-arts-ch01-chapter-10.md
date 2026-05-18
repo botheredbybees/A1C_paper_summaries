@@ -15,13 +15,14 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
+  - unit: FXA301
 tags: ["qualitative-research", "arts-and-health", "evaluation-methods", "fxa301"]
 key_concepts: ["grounded theory", "ethnography"]
 methods: []
 slug: fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10
 related: ["arts-and-health", "evaluation-methods", "qualitative-research"]
 created: 2026-05-03
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10.md_

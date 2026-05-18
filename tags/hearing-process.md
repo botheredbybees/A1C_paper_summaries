@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hearing-process
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Hearing Process

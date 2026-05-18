@@ -11,7 +11,7 @@ tags: ["construct-validity", "content-validity", "cultural-adaptation", "elderly
 key_concepts: ["content-validity", "internal-consistency-reliability", "construct-validity"]
 methods: ["validation-study", "factor-analysis"]
 slug: fxa100-week13-the-validation-of-the-hong-kong-chinese-version-of-the
-related: ["cultural-adaptation"]
+related: ["construct-validity", "content-validity", "cultural-adaptation"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -40,4 +40,6 @@ This study validates the Lawton Instrumental Activities of Daily Living (IADL) S
 
 ## See Also
 
+- [construct-validity](../topics/construct-validity.md)
+- [content-validity](../topics/content-validity.md)
 - [cultural-adaptation](../topics/cultural-adaptation.md)

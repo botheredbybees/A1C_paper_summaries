@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neural-function
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Neural Function

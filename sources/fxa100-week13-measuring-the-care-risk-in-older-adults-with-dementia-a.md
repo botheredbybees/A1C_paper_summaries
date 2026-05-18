@@ -11,7 +11,7 @@ tags: ["care-risk-dimensions", "caregivers-support", "dementia-care", "fxa100", 
 key_concepts: ["care risk dimensions", "patient-centered assessment", "longitudinal validation"]
 methods: ["scoping review"]
 slug: fxa100-week13-measuring-the-care-risk-in-older-adults-with-dementia-a
-related: ["dementia-care", "health-outcomes", "older-adults"]
+related: ["dementia-care", "health-outcomes", "older-adults", "risk-assessment"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -44,3 +44,4 @@ This scoping review aims to elucidate the concept of care risk in older adults w
 - [dementia-care](../topics/dementia-care.md)
 - [health-outcomes](../topics/health-outcomes.md)
 - [older-adults](../topics/older-adults.md)
+- [risk-assessment](../topics/risk-assessment.md)

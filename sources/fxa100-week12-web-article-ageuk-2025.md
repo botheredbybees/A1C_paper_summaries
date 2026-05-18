@@ -11,7 +11,7 @@ tags: ["dementia-care", "music-therapy", "personalized-experiences", "training-p
 key_concepts: ["wellbeing improvement through music", "co-produced training"]
 methods: []
 slug: fxa100-week12-web-article-ageuk-2025
-related: []
+related: ["dementia-care", "music-therapy"]
 created: 2026-05-18
 updated: 2026-05-18
 ---
@@ -42,4 +42,5 @@ Led by Age UK Hertfordshire, the 'Power of Music' initiative aims to integrate m
 
 ## See Also
 
-*(none yet)*
+- [dementia-care](../topics/dementia-care.md)
+- [music-therapy](../topics/music-therapy.md)

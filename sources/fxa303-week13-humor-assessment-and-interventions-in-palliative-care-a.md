@@ -11,7 +11,7 @@ tags: ["fxa303", "humor-in-healthcare", "intervention-effectiveness", "palliativ
 key_concepts: ["quality of life", "intervention effectiveness", "well-being"]
 methods: ["systematic review"]
 slug: fxa303-week13-humor-assessment-and-interventions-in-palliative-care-a
-related: ["palliative-care", "patient-wellbeing", "quality-of-life", "systematic-review"]
+related: ["intervention-effectiveness", "palliative-care", "patient-wellbeing", "quality-of-life", "systematic-review"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -42,6 +42,7 @@ This systematic review evaluates the effectiveness of humor interventions and as
 
 ## See Also
 
+- [intervention-effectiveness](../topics/intervention-effectiveness.md)
 - [palliative-care](../topics/palliative-care.md)
 - [patient-wellbeing](../topics/patient-wellbeing.md)
 - [quality-of-life](../topics/quality-of-life.md)

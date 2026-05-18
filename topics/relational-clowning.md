@@ -3,12 +3,14 @@ confidence: low
 domain: intervention
 slug: relational-clowning
 sources:
+  - fxa100-week10-playfully-engaging-people-living-with-dementia-searching
+  - fxa100-week12-playfully-engaging-people-living-with-dementia-searching
 - fxa100-week10-playfully-engaging-people-living-with-dementia-searching
 tags:
 - relational-clowning
 title: Relational Clowning
 type: topic
-updated: 2026-05-04
+updated: 2026-05-18
 ---
 
 ## Relational Clowning
@@ -28,3 +30,4 @@ Relational clowning is an innovative intervention that focuses on using humor an
 ## Sources
 
 - [fxa100-week10-playfully-engaging-people-living-with-dementia-searching](../sources/fxa100-week10-playfully-engaging-people-living-with-dementia-searching.md)
+- [fxa100-week12-playfully-engaging-people-living-with-dementia-searching](../sources/fxa100-week12-playfully-engaging-people-living-with-dementia-searching.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cross-cultural-practice
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Cross Cultural Practice

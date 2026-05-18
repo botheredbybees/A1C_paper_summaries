@@ -6,6 +6,8 @@ sources:
   - fxa100-week04-music-therapy-flyer
   - fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and
   - fxa100-week11-movement-therapy-and-mental-health
+  - fxa100-week12-exploring-nature-based-art-therapy-a-scoping-review
+  - fxa100-week12-the-power-of-music-an-exploration-of-the-evidence
   - fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric
   - fxa100-week13-mini-mental-state-a-practical-method-for-grading-the
   - fxa202-week03-lesson-fxa202-week03-page-2
@@ -85,7 +87,7 @@ tags:
 - mental-health
 title: Creative Therapies for Mental Health
 type: topic
-updated: 2026-05-15
+updated: 2026-05-18
 ---
 
 ## Creative Therapies for Mental Health
@@ -109,6 +111,8 @@ The sources illustrate a variety of creative therapies that have been developed 
 - [fxa100-week04-music-therapy-flyer](../sources/fxa100-week04-music-therapy-flyer.md)
 - [fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and](../sources/fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and.md)
 - [fxa100-week11-movement-therapy-and-mental-health](../sources/fxa100-week11-movement-therapy-and-mental-health.md)
+- [fxa100-week12-exploring-nature-based-art-therapy-a-scoping-review](../sources/fxa100-week12-exploring-nature-based-art-therapy-a-scoping-review.md)
+- [fxa100-week12-the-power-of-music-an-exploration-of-the-evidence](../sources/fxa100-week12-the-power-of-music-an-exploration-of-the-evidence.md)
 - [fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric](../sources/fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric.md)
 - [fxa100-week13-mini-mental-state-a-practical-method-for-grading-the](../sources/fxa100-week13-mini-mental-state-a-practical-method-for-grading-the.md)
 - [fxa202-week03-lesson-fxa202-week03-page-2](../sources/fxa202-week03-lesson-fxa202-week03-page-2.md)

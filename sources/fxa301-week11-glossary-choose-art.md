@@ -11,7 +11,7 @@ tags: ["accessibility-in-arts", "disability-support", "fxa301", "inclusive-pract
 key_concepts: ["accessibility", "inclusivity"]
 methods: []
 slug: fxa301-week11-glossary-choose-art
-related: ["disability-support", "inclusive-practices"]
+related: ["accessibility-in-arts", "disability-support", "inclusive-practices", "inclusivity"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -39,5 +39,7 @@ The document provides a glossary of terms related to accessibility and inclusivi
 
 ## See Also
 
+- [accessibility-in-arts](../topics/accessibility-in-arts.md)
 - [disability-support](../topics/disability-support.md)
 - [inclusive-practices](../topics/inclusive-practices.md)
+- [inclusivity](../topics/inclusivity.md)

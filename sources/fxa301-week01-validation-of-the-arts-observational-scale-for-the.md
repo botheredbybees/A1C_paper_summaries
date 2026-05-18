@@ -11,7 +11,7 @@ tags: ["arts-in-healthcare", "arts-observational-scale-artsobs", "construct-vali
 key_concepts: ["Arts Observational Scale (ArtsObS)", "construct validity", "inter-rater reliability"]
 methods: ["validation study", "mixed-methods"]
 slug: fxa301-week01-validation-of-the-arts-observational-scale-for-the
-related: ["arts-in-healthcare"]
+related: ["arts-in-healthcare", "arts-observational-scale-artsobs", "construct-validity"]
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -41,3 +41,5 @@ This article introduces the Arts Observational Scale (ArtsObS), a tool designed 
 ## See Also
 
 - [arts-in-healthcare](../topics/arts-in-healthcare.md)
+- [arts-observational-scale-artsobs](../topics/arts-observational-scale-artsobs.md)
+- [construct-validity](../topics/construct-validity.md)

@@ -11,7 +11,7 @@ tags: ["community-music", "fxa303", "kenya-society", "music-education", "slum-re
 key_concepts: ["transformative-power-of-art", "resilience-building", "socio-economic-challenges"]
 methods: ["case-study"]
 slug: fxa303-week11-the-story-of-ghetto-classics-an-orchestra-born-from-a-kenya
-related: ["community-music", "music-education", "youth-empowerment"]
+related: ["community-music", "music-education", "transformative-power-of-art", "youth-empowerment"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -43,4 +43,5 @@ Ghetto Classics is a youth orchestra based in Nairobi’s Korogocho neighborhood
 
 - [community-music](../topics/community-music.md)
 - [music-education](../topics/music-education.md)
+- [transformative-power-of-art](../topics/transformative-power-of-art.md)
 - [youth-empowerment](../topics/youth-empowerment.md)

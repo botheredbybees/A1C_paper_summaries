@@ -5,6 +5,7 @@ slug: qualitative-research-in-health-and-well-being-interventions
 sources:
   - fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the
   - fxa100-week08-what-are-the-required-elements-needed-to-create-an
+  - fxa100-week12-in-the-moment-with-music-an-exploration-of-the-embodied-and
   - fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a
   - fxa100-week13-knowledge-and-health-beliefs-about-dementia-prevention
   - fxa100-week13-music-interventions-for-people-with-dementia-a-review-of
@@ -36,7 +37,7 @@ tags:
 - qualitative-research
 title: Qualitative Research in Health and Well-being Interventions
 type: topic
-updated: 2026-05-15
+updated: 2026-05-18
 ---
 
 ## Qualitative Research in Health and Well-being Interventions
@@ -57,6 +58,7 @@ The sources collectively highlight the importance of qualitative research method
 
 - [fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the](../sources/fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the.md)
 - [fxa100-week08-what-are-the-required-elements-needed-to-create-an](../sources/fxa100-week08-what-are-the-required-elements-needed-to-create-an.md)
+- [fxa100-week12-in-the-moment-with-music-an-exploration-of-the-embodied-and](../sources/fxa100-week12-in-the-moment-with-music-an-exploration-of-the-embodied-and.md)
 - [fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a](../sources/fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a.md)
 - [fxa100-week13-knowledge-and-health-beliefs-about-dementia-prevention](../sources/fxa100-week13-knowledge-and-health-beliefs-about-dementia-prevention.md)
 - [fxa100-week13-music-interventions-for-people-with-dementia-a-review-of](../sources/fxa100-week13-music-interventions-for-people-with-dementia-a-review-of.md)

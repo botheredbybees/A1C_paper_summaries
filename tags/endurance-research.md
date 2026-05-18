@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: endurance-research
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Endurance Research

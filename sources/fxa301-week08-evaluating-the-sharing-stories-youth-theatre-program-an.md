@@ -11,7 +11,7 @@ tags: ["sexual-health-promotion", "multicultural-youth", "theatre-education", "p
 key_concepts: ["interactive-theatre-strategy", "sexual-health-knowledge", "cultural-diversity-in-education"]
 methods: ["mixed-methods-design", "workshop-evaluation"]
 slug: fxa301-week08-evaluating-the-sharing-stories-youth-theatre-program-an
-related: []
+related: ["drama-based-learning"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,4 +44,4 @@ This study evaluates the effectiveness of the Sharing Stories youth theatre prog
 
 ## See Also
 
-*(none yet)*
+- [drama-based-learning](../topics/drama-based-learning.md)

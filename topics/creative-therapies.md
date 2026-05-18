@@ -6,6 +6,7 @@ sources:
   - fxa100-the-creative-arts-in-dementia-care
   - fxa100-week08-why-the-arts
   - fxa100-week09-web-article-north-2021
+  - fxa100-week12-lesson-fxa100-week12-page-3-thank-you-and-well-done
   - fxa202-week03-can-photography-help-depression
   - fxa202-week09-noticing-a-photo-essay
   - fxa202-week10-research-and-evidence-in-arts-health-and-well-being
@@ -29,7 +30,7 @@ tags:
 - creative-therapies
 title: Creative Therapies
 type: topic
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Creative Therapies
@@ -51,6 +52,7 @@ Creative therapies encompass various interventions that use the arts to enhance 
 - [fxa100-the-creative-arts-in-dementia-care](../sources/fxa100-the-creative-arts-in-dementia-care.md)
 - [fxa100-week08-why-the-arts](../sources/fxa100-week08-why-the-arts.md)
 - [fxa100-week09-web-article-north-2021](../sources/fxa100-week09-web-article-north-2021.md)
+- [fxa100-week12-lesson-fxa100-week12-page-3-thank-you-and-well-done](../sources/fxa100-week12-lesson-fxa100-week12-page-3-thank-you-and-well-done.md)
 - [fxa202-week03-can-photography-help-depression](../sources/fxa202-week03-can-photography-help-depression.md)
 - [fxa202-week09-noticing-a-photo-essay](../sources/fxa202-week09-noticing-a-photo-essay.md)
 - [fxa202-week10-research-and-evidence-in-arts-health-and-well-being](../sources/fxa202-week10-research-and-evidence-in-arts-health-and-well-being.md)

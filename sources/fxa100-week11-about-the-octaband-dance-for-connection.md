@@ -11,7 +11,7 @@ tags: ["dementia-support", "fxa100", "group-dynamics", "interactive-tools", "soc
 key_concepts: ["sensory-stimulation", "group-dynamics"]
 methods: []
 slug: fxa100-week11-about-the-octaband-dance-for-connection
-related: ["dementia-support", "social-connection"]
+related: ["dementia-support", "group-dynamics", "social-connection"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -40,4 +40,5 @@ The document provides information about the Octaband®, a product created by Oct
 ## See Also
 
 - [dementia-support](../topics/dementia-support.md)
+- [group-dynamics](../topics/group-dynamics.md)
 - [social-connection](../topics/social-connection.md)

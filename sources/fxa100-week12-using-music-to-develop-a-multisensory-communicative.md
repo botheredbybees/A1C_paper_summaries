@@ -11,7 +11,7 @@ tags: ["dementia-care", "music-therapy", "social-interaction", "communication-st
 key_concepts: ["multisensory environment", "nonverbal communication", "visual grounded theory"]
 methods: ["case study", "qualitative analysis"]
 slug: fxa100-week12-using-music-to-develop-a-multisensory-communicative
-related: []
+related: ["communication-strategies", "dementia-care", "music-therapy", "residential-care", "social-interaction"]
 created: 2026-05-18
 updated: 2026-05-18
 ---
@@ -44,4 +44,8 @@ This article explores the role of music in facilitating communication and social
 
 ## See Also
 
-*(none yet)*
+- [communication-strategies](../topics/communication-strategies.md)
+- [dementia-care](../topics/dementia-care.md)
+- [music-therapy](../topics/music-therapy.md)
+- [residential-care](../topics/residential-care.md)
+- [social-interaction](../topics/social-interaction.md)

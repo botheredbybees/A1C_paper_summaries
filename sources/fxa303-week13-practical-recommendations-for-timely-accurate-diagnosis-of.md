@@ -11,7 +11,7 @@ tags: ["alzheimer-diagnosis", "biomarker-detection", "clinical-guidelines", "dem
 key_concepts: ["mild-cognitive-impairment", "biomarker-detection", "timely-diagnosis"]
 methods: ["systematic-review"]
 slug: fxa303-week13-practical-recommendations-for-timely-accurate-diagnosis-of
-related: ["clinical-guidelines", "dementia-prevention", "early-intervention"]
+related: ["clinical-guidelines", "dementia-prevention", "early-intervention", "mild-cognitive-impairment"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -44,3 +44,4 @@ This review synthesizes practical recommendations for the timely and accurate di
 - [clinical-guidelines](../topics/clinical-guidelines.md)
 - [dementia-prevention](../topics/dementia-prevention.md)
 - [early-intervention](../topics/early-intervention.md)
+- [mild-cognitive-impairment](../topics/mild-cognitive-impairment.md)

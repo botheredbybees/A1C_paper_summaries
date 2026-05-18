@@ -6,6 +6,7 @@ sources:
   - fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it
   - fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and
   - fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living
+  - fxa100-week12-comparative-efficacy-of-various-art-therapies-for-patients
   - fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a
   - fxa303-week13-pharmacotherapies-for-sleep-disturbances-in-dementia
   - fxa303-week13-reminiscence-therapy-for-dementia
@@ -15,7 +16,7 @@ tags:
 - dementia-treatment
 title: Therapeutic Interventions for Dementia
 type: topic
-updated: 2026-05-15
+updated: 2026-05-18
 ---
 
 ## Therapeutic Interventions for Dementia
@@ -39,6 +40,7 @@ Despite the positive outcomes reported in both studies, there is a need to furth
 - [fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it](../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it.md)
 - [fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and](../sources/fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and.md)
 - [fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living](../sources/fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living.md)
+- [fxa100-week12-comparative-efficacy-of-various-art-therapies-for-patients](../sources/fxa100-week12-comparative-efficacy-of-various-art-therapies-for-patients.md)
 - [fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a](../sources/fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a.md)
 - [fxa303-week13-pharmacotherapies-for-sleep-disturbances-in-dementia](../sources/fxa303-week13-pharmacotherapies-for-sleep-disturbances-in-dementia.md)
 - [fxa303-week13-reminiscence-therapy-for-dementia](../sources/fxa303-week13-reminiscence-therapy-for-dementia.md)

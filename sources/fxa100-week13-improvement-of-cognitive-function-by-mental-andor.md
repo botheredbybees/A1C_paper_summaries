@@ -11,7 +11,7 @@ tags: ["aerobic-exercise", "aerobic-training", "brain-exercise", "cognitive-func
 key_concepts: ["mental training", "aerobic exercise", "cognitive function", "healthy aging"]
 methods: ["randomized controlled trial", "pre-post intervention study"]
 slug: fxa100-week13-improvement-of-cognitive-function-by-mental-andor
-related: ["cognitive-function", "elderly-health"]
+related: ["aerobic-exercise", "cognitive-function", "elderly-health", "healthy-aging", "memory-improvement"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -47,5 +47,8 @@ The study underscores the potential for integrated cognitive exercises and physi
 
 ## See Also
 
+- [aerobic-exercise](../topics/aerobic-exercise.md)
 - [cognitive-function](../topics/cognitive-function.md)
 - [elderly-health](../topics/elderly-health.md)
+- [healthy-aging](../topics/healthy-aging.md)
+- [memory-improvement](../topics/memory-improvement.md)

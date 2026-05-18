@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-body-integration
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Brain Body Integration

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-photography
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Therapeutic Photography
@@ -10,6 +10,7 @@ updated: 2026-05-16
 - [Voices from Practice: Therapeutic Photography](../sources/fxa202-therapeutic-photography-ch02-chapter-11.md)
 - [Therapeutic Photography: Enhancing Self-Esteem, Self-Efficacy, and Resilience](../sources/fxa202-therapeutic-photography-ch04-2-reflexive-photography.md)
 - [Therapeutic Photography in Enhancing Self-Esteem and Resilience](../sources/fxa202-therapeutic-photography-ch05-1-photographs-are-used-to-record-inventories-such-as-objects.md)
+- [Therapeutic Photography and Related Techniques](../sources/fxa202-therapeutic-photography-ch15-154-shakespeare.md)
 - [Week 3 Lecture - Photography and Health](../sources/fxa202-week03-lesson-fxa202-week03-week-3.md)
 - [Therapeutic photography](../sources/fxa202-week03-therapeutic-photography.md)
 - [Using photography for wellbeing - FXA202 The Photo Essay: Storytelling with image and text](../sources/fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay.md)

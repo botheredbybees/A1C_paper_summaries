@@ -11,7 +11,7 @@ tags: ["visual-perception", "neuroscience-and-art", "brain-function", "fxa301"]
 key_concepts: ["vitamin A in vision", "neural networks", "eye movement studies"]
 methods: []
 slug: fxa301-week01-transcript-it-also-includes-discussion-of-what-can-be
-related: ["brain-function"]
+related: ["brain-function", "visual-perception"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,3 +42,4 @@ The transcript discusses a presentation on the intersection of art and neuroscie
 ## See Also
 
 - [brain-function](../topics/brain-function.md)
+- [visual-perception](../topics/visual-perception.md)

@@ -11,7 +11,7 @@ tags: ["dementia-care", "embodied-experience", "embodiment-and-interdependence",
 key_concepts: ["relational citizenship model", "musicality in dementia", "embodiment and interdependence"]
 methods: ["case studies", "ethnographic research"]
 slug: fxa303-week13-rethinking-musicality-in-dementia-as-embodied-and-relational
-related: ["cognitive-stimulation-therapy", "dementia-care", "music-therapy"]
+related: ["cognitive-stimulation-therapy", "dementia-care", "embodied-experience", "music-therapy"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -44,4 +44,5 @@ This article challenges the biomedical and pharmaceutical approaches to dementia
 
 - [cognitive-stimulation-therapy](../topics/cognitive-stimulation-therapy.md)
 - [dementia-care](../topics/dementia-care.md)
+- [embodied-experience](../topics/embodied-experience.md)
 - [music-therapy](../topics/music-therapy.md)

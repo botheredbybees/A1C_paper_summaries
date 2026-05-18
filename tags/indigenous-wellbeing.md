@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: indigenous-wellbeing
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Indigenous Wellbeing

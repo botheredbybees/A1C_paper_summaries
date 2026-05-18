@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: outsider-art
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Outsider Art

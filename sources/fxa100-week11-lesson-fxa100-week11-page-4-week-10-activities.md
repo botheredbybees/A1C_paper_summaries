@@ -11,7 +11,7 @@ tags: ["carer-support", "dance-therapy", "dementia-care", "fxa100", "reminiscenc
 key_concepts: ["scientific-evidence", "carer-support", "reminiscence-through-dance"]
 methods: []
 slug: fxa100-week11-lesson-fxa100-week11-page-4-week-10-activities
-related: ["dance-therapy", "dementia-care", "research-methods"]
+related: ["carer-support", "dance-therapy", "dementia-care", "research-methods"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -39,6 +39,7 @@ This week's activities in the course 'The Arts and Dementia Care' involve readin
 
 ## See Also
 
+- [carer-support](../topics/carer-support.md)
 - [dance-therapy](../topics/dance-therapy.md)
 - [dementia-care](../topics/dementia-care.md)
 - [research-methods](../topics/research-methods.md)

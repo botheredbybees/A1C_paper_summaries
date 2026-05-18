@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: early-childhood-education
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Early Childhood Education

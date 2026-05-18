@@ -11,7 +11,7 @@ tags: ["contextual-intervention", "effect-size", "fxa100", "individual-differenc
 key_concepts: ["effect-size", "contextual-intervention", "personalized-treatment"]
 methods: ["critical-review"]
 slug: fxa100-week13-what-works-for-whom-a-critical-review-of-psychotherapy
-related: ["individual-differences"]
+related: ["effect-size", "individual-differences", "personalized-treatment"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -39,4 +39,6 @@ The book 'What Works for Whom? A Critical Review of Psychotherapy Research' by A
 
 ## See Also
 
+- [effect-size](../topics/effect-size.md)
 - [individual-differences](../topics/individual-differences.md)
+- [personalized-treatment](../topics/personalized-treatment.md)

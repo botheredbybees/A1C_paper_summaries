@@ -11,7 +11,7 @@ tags: ["cognitive-functioning", "fxa100", "memory-retrieval", "music-therapy", "
 key_concepts: ["dementia-care", "musical-engagement", "emotional-memory"]
 methods: ["case-study"]
 slug: fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care
-related: ["cognitive-functioning", "lewy-body-dementia", "memory-retrieval", "music-therapy", "reminiscence-therapy"]
+related: ["cognitive-functioning", "lewy-body-dementia", "memory-retrieval", "music-therapy", "music-therapy-and-cognitive-stimulation-for-dementia", "reminiscence-therapy"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -48,4 +48,5 @@ The document also includes a discussion prompt that encourages reflection on per
 - [lewy-body-dementia](../topics/lewy-body-dementia.md)
 - [memory-retrieval](../topics/memory-retrieval.md)
 - [music-therapy](../topics/music-therapy.md)
+- [music-therapy-and-cognitive-stimulation-for-dementia](../topics/music-therapy-and-cognitive-stimulation-for-dementia.md)
 - [reminiscence-therapy](../topics/reminiscence-therapy.md)

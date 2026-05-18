@@ -14,13 +14,14 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
+  - unit: FXA301
 tags: ["genre-analysis", "community-art-workshops", "ethnographic-research", "fxa301"]
 key_concepts: ["artistic genre", "cultural context"]
 methods: []
 slug: fxa301-make-arts-for-a-better-life-ch11-4-you-and-the-community-have-stepped-through
 related: ["ethnographic-research"]
 created: 2026-05-03
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-make-arts-for-a-better-life-ch11-4-you-and-the-community-have-stepped-through.md_

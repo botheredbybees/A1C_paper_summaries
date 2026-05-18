@@ -11,7 +11,7 @@ tags: ["music-interventions", "health-related-quality-of-life", "creative-arts-h
 key_concepts: ["health-related quality of life (HRQOL)", "SF-36 and SF-12 surveys", "mental component score (MCS)", "physical component score (PCS)"]
 methods: ["systematic review", "meta-analysis"]
 slug: fxa100-week03-association-of-music-interventions-with-health-related
-related: ["creative-arts-health", "music-interventions", "systematic-review-meta-analysis", "wellbeing"]
+related: ["creative-arts-health", "health-related-quality-of-life", "music-interventions", "systematic-review-meta-analysis", "wellbeing"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,6 +46,7 @@ This systematic review and meta-analysis explores the impact of music interventi
 ## See Also
 
 - [creative-arts-health](../topics/creative-arts-health.md)
+- [health-related-quality-of-life](../topics/health-related-quality-of-life.md)
 - [music-interventions](../topics/music-interventions.md)
 - [systematic-review-meta-analysis](../topics/systematic-review-meta-analysis.md)
 - [wellbeing](../topics/wellbeing.md)

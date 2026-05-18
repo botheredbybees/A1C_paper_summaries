@@ -11,7 +11,7 @@ tags: ["child-centered-play-therapy", "autism-spectrum-disorder", "literature-re
 key_concepts: ["Child-Centered Play Therapy (CCPT)", "Autism Spectrum Disorder (ASD)"]
 methods: ["systematic review"]
 slug: fxa303-week04-child-centered-play-therapy-as-an-intervention-for-children
-related: ["autism-spectrum-disorder", "child-centered-play-therapy", "literature-review", "therapeutic-relationship"]
+related: ["autism-spectrum-disorder", "child-centered-play-therapy", "literature-review", "social-behavior-improvement", "therapeutic-relationship"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,4 +46,5 @@ This article presents a systematic review of the play therapy literature to eval
 - [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)
 - [child-centered-play-therapy](../topics/child-centered-play-therapy.md)
 - [literature-review](../topics/literature-review.md)
+- [social-behavior-improvement](../topics/social-behavior-improvement.md)
 - [therapeutic-relationship](../topics/therapeutic-relationship.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: art-therapy-interventions
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Art Therapy Interventions

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-therapy
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Music Therapy
@@ -77,6 +77,10 @@ updated: 2026-05-16
 - [Welcome to Week 4 - FXA100 The Arts and Dementia Care](../sources/fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care.md)
 - [What is Music, Health, and Wellbeing?](../sources/fxa100-week04-what-is-music-health-and-wellbeing.md)
 - [Test Paper Title](../sources/fxa100-week06-test-paper-title.md)
+- [In the moment with music: an exploration of the embodied and sensory experiences of people living with dementia during improvised music-making](../sources/fxa100-week12-in-the-moment-with-music-an-exploration-of-the-embodied-and.md)
+- [The Power of Music: An Exploration of the Evidence](../sources/fxa100-week12-the-power-of-music-an-exploration-of-the-evidence.md)
+- [Using Music to Develop a Multisensory Communicative Environment for People with Late-Stage Dementia](../sources/fxa100-week12-using-music-to-develop-a-multisensory-communicative.md)
+- [Power of Music - Music in Herts Dementia Care](../sources/fxa100-week12-web-article-ageuk-2025.md)
 - [Editorial: The State of the Art in Creative Arts Therapies](../sources/fxa100-week13-editorial-the-state-of-the-art-in-creative-arts-therapies.md)
 - [Music Interventions for People with Dementia: A Review of the Literature](../sources/fxa100-week13-music-interventions-for-people-with-dementia-a-review-of.md)
 - [The Effect from Music Therapy Upon Alzheimer's Illness](../sources/fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness.md)

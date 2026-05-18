@@ -1,0 +1,9 @@
+---
+type: tag
+tag: educational-case-study
+updated: 2026-05-18
+---
+
+## Educational Case Study
+
+- [Becoming Our Story: Emergent Design through Affect](../sources/fxa301-applied-artes-and-health-ch03-85-ulrich.md)

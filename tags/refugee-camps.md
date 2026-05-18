@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: refugee-camps
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Refugee Camps

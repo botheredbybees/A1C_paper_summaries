@@ -14,6 +14,7 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
+  - unit: FXA301
 tags: ["ethics-in-research", "arts-based-health-research", "health-wellbeing", "fxa301"]
 key_concepts: ["confidentiality", "meaningful involvement", "ethical challenges"]
 methods: []

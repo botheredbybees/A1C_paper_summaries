@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-and-culture
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Arts And Culture

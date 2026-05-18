@@ -11,7 +11,7 @@ tags: ["adaptive-instruments", "disability-inclusion", "fmri-research", "fxa301"
 key_concepts: ["National Disability Insurance Scheme (NDIS)", "functional magnetic resonance imaging (fMRI)"]
 methods: []
 slug: fxa301-week11-lesson-fxa301-week11-page-2
-related: ["disability-inclusion", "music-therapy"]
+related: ["disability-inclusion", "music-therapy", "national-disability-insurance-scheme-ndis"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -43,3 +43,4 @@ This lesson explores how music can enhance the lives of individuals with disabil
 
 - [disability-inclusion](../topics/disability-inclusion.md)
 - [music-therapy](../topics/music-therapy.md)
+- [national-disability-insurance-scheme-ndis](../topics/national-disability-insurance-scheme-ndis.md)

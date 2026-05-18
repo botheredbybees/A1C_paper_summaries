@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sexual-orientation-disclosure
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Sexual Orientation Disclosure

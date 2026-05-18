@@ -11,7 +11,7 @@ tags: ["arts-health", "cultural-engagement", "fxa301", "health-promotion-strateg
 key_concepts: ["cultural-participation", "health-promotion-strategies"]
 methods: ["literature-review"]
 slug: fxa301-week01-arts-in-health-designing-and-researching-interventions
-related: ["arts-health", "cultural-engagement", "interdisciplinary-research", "wellbeing-initiatives"]
+related: ["arts-health", "cultural-engagement", "health-promotion-strategies", "interdisciplinary-research", "wellbeing-initiatives"]
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -47,5 +47,6 @@ Overall, this text underscores the growing interest in integrating arts into pub
 
 - [arts-health](../topics/arts-health.md)
 - [cultural-engagement](../topics/cultural-engagement.md)
+- [health-promotion-strategies](../topics/health-promotion-strategies.md)
 - [interdisciplinary-research](../topics/interdisciplinary-research.md)
 - [wellbeing-initiatives](../topics/wellbeing-initiatives.md)

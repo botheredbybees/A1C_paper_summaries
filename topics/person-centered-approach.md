@@ -5,13 +5,14 @@ slug: person-centered-approach
 sources:
   - fxa100-week04-person-centred-language-guidelines
   - fxa100-week09-personhood-maintained
+  - fxa100-week12-lesson-fxa100-week12-page-1-welcome-to-week-12
 - fxa100-week04-person-centred-language-guidelines
 - fxa100-week09-personhood-maintained
 tags:
 - person-centered-approach
 title: Person-Centered Approach
 type: topic
-updated: 2026-05-11
+updated: 2026-05-18
 ---
 
 ## Person-Centered Approach
@@ -32,3 +33,4 @@ The synthesis of the provided sources highlights the foundational role of 'perso
 
 - [fxa100-week04-person-centred-language-guidelines](../sources/fxa100-week04-person-centred-language-guidelines.md)
 - [fxa100-week09-personhood-maintained](../sources/fxa100-week09-personhood-maintained.md)
+- [fxa100-week12-lesson-fxa100-week12-page-1-welcome-to-week-12](../sources/fxa100-week12-lesson-fxa100-week12-page-1-welcome-to-week-12.md)

@@ -11,7 +11,7 @@ tags: ["arts-based-interventions", "cultural-appropriateness", "fxa303", "interd
 key_concepts: ["cultural-appropriateness", "interdisciplinary-knowledge-synthesis"]
 methods: ["case-study"]
 slug: fxa303-week10-fxa303-web-lecture-week-10
-related: ["creative-interventions-in-dementia-care", "trauma-informed-practices"]
+related: ["creative-interventions-in-dementia-care", "cultural-appropriateness", "trauma-informed-practices"]
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -41,4 +41,5 @@ This document provides guidance and criteria for Assessment Task 4 in the course
 ## See Also
 
 - [creative-interventions-in-dementia-care](../topics/creative-interventions-in-dementia-care.md)
+- [cultural-appropriateness](../topics/cultural-appropriateness.md)
 - [trauma-informed-practices](../topics/trauma-informed-practices.md)

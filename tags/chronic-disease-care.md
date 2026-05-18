@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: chronic-disease-care
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Chronic Disease Care

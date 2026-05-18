@@ -74,6 +74,10 @@ sources:
   - fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care
   - fxa100-week04-what-is-music-health-and-wellbeing
   - fxa100-week06-test-paper-title
+  - fxa100-week12-in-the-moment-with-music-an-exploration-of-the-embodied-and
+  - fxa100-week12-the-power-of-music-an-exploration-of-the-evidence
+  - fxa100-week12-using-music-to-develop-a-multisensory-communicative
+  - fxa100-week12-web-article-ageuk-2025
   - fxa100-week13-editorial-the-state-of-the-art-in-creative-arts-therapies
   - fxa100-week13-music-interventions-for-people-with-dementia-a-review-of
   - fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness
@@ -208,7 +212,7 @@ tags:
 - music-therapy
 title: Music Therapy
 type: topic
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Music Therapy
@@ -298,6 +302,10 @@ The integration of music therapy across various neurological conditions undersco
 - [fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care](../sources/fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care.md)
 - [fxa100-week04-what-is-music-health-and-wellbeing](../sources/fxa100-week04-what-is-music-health-and-wellbeing.md)
 - [fxa100-week06-test-paper-title](../sources/fxa100-week06-test-paper-title.md)
+- [fxa100-week12-in-the-moment-with-music-an-exploration-of-the-embodied-and](../sources/fxa100-week12-in-the-moment-with-music-an-exploration-of-the-embodied-and.md)
+- [fxa100-week12-the-power-of-music-an-exploration-of-the-evidence](../sources/fxa100-week12-the-power-of-music-an-exploration-of-the-evidence.md)
+- [fxa100-week12-using-music-to-develop-a-multisensory-communicative](../sources/fxa100-week12-using-music-to-develop-a-multisensory-communicative.md)
+- [fxa100-week12-web-article-ageuk-2025](../sources/fxa100-week12-web-article-ageuk-2025.md)
 - [fxa100-week13-editorial-the-state-of-the-art-in-creative-arts-therapies](../sources/fxa100-week13-editorial-the-state-of-the-art-in-creative-arts-therapies.md)
 - [fxa100-week13-music-interventions-for-people-with-dementia-a-review-of](../sources/fxa100-week13-music-interventions-for-people-with-dementia-a-review-of.md)
 - [fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness](../sources/fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness.md)

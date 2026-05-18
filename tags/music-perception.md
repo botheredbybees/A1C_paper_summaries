@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-perception
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Music Perception

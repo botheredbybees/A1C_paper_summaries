@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: play-framework
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Play Framework

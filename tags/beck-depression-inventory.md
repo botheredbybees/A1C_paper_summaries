@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: beck-depression-inventory
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Beck Depression Inventory

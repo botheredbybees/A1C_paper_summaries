@@ -11,7 +11,7 @@ tags: ["dementia-care", "carer-support", "self-care-for-carers", "fxa100"]
 key_concepts: ["caring role", "self-care", "support services"]
 methods: []
 slug: fxa100-week04-web-article-dementia-2022
-related: ["dementia-care"]
+related: ["carer-support", "dementia-care"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,4 +41,5 @@ The article discusses the challenges and support available for individuals in a 
 
 ## See Also
 
+- [carer-support](../topics/carer-support.md)
 - [dementia-care](../topics/dementia-care.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-care-system
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Social Care System

@@ -11,7 +11,7 @@ tags: ["arts-in-dementia-care", "creative-interventions-for-health", "dementia-q
 key_concepts: ["art-based interventions", "cognitive decline management"]
 methods: []
 slug: fxa100-week12-lesson-fxa100-week12-take-a-bow
-related: []
+related: ["arts-in-dementia-care"]
 created: 2026-05-18
 updated: 2026-05-18
 ---
@@ -41,4 +41,4 @@ This unit concludes the FXA100 course on 'The Arts and Dementia Care,' acknowled
 
 ## See Also
 
-*(none yet)*
+- [arts-in-dementia-care](../topics/arts-in-dementia-care.md)

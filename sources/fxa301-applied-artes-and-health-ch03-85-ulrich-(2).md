@@ -11,7 +11,7 @@ tags: ["applied-theatre", "arts-therapy", "ecology-of-process", "elder-care", "e
 key_concepts: ["emergent design", "servant leadership", "ecology of process"]
 methods: []
 slug: fxa301-applied-artes-and-health-ch03-85-ulrich-(2)
-related: ["applied-theatre", "arts-therapy", "elder-care"]
+related: ["applied-theatre", "arts-therapy", "elder-care", "emergent-design"]
 created: 2026-05-16
 updated: 2026-05-16
 ---
@@ -44,3 +44,4 @@ This chapter explores the integration of arts into healthcare settings to enhanc
 - [applied-theatre](../topics/applied-theatre.md)
 - [arts-therapy](../topics/arts-therapy.md)
 - [elder-care](../topics/elder-care.md)
+- [emergent-design](../topics/emergent-design.md)

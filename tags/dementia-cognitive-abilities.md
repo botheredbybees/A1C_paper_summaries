@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dementia-cognitive-abilities
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Dementia Cognitive Abilities

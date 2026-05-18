@@ -11,7 +11,7 @@ tags: ["cultural-expression", "cultural-identity-negotiation-through-hip-hop", "
 key_concepts: ["Hip hop culture", "Migrant youth experiences", "Cultural identity negotiation"]
 methods: ["case study"]
 slug: fxa303-week10-diamonds-in-the-backyard-migrant-youth-and-hip-hop-in
-related: ["cultural-expression", "social-isolation"]
+related: ["cultural-expression", "cultural-identity-negotiation-through-hip-hop", "social-isolation"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -43,4 +43,5 @@ This chapter explores the role of hip hop among migrant youth in Australia's reg
 ## See Also
 
 - [cultural-expression](../topics/cultural-expression.md)
+- [cultural-identity-negotiation-through-hip-hop](../topics/cultural-identity-negotiation-through-hip-hop.md)
 - [social-isolation](../topics/social-isolation.md)

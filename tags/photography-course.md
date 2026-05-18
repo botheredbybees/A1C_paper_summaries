@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: photography-course
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Photography Course

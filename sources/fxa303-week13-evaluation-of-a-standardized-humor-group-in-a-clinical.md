@@ -11,7 +11,7 @@ tags: ["aging-research", "cheerfulness", "clinical-depression", "fxa303", "humor
 key_concepts: ["depressive-symptoms", "life-satisfaction", "cheerfulness"]
 methods: ["feasibility-study", "randomized-control-trial"]
 slug: fxa303-week13-evaluation-of-a-standardized-humor-group-in-a-clinical
-related: ["aging-research", "humor-therapy", "mental-health-interventions", "patient-outcomes"]
+related: ["aging-research", "cheerfulness", "humor-therapy", "mental-health-interventions", "patient-outcomes"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -43,6 +43,7 @@ The study evaluates the efficacy of a standardized humor therapy group in a clin
 ## See Also
 
 - [aging-research](../topics/aging-research.md)
+- [cheerfulness](../topics/cheerfulness.md)
 - [humor-therapy](../topics/humor-therapy.md)
 - [mental-health-interventions](../topics/mental-health-interventions.md)
 - [patient-outcomes](../topics/patient-outcomes.md)

@@ -11,7 +11,7 @@ tags: ["cognitive-impairments-and-music-therapy", "dementia-care", "emotional-me
 key_concepts: ["music-based-interventions", "dopamine-release", "musical-memories"]
 methods: ["systematic-review"]
 slug: fxa100-week03-listening-and-dementia-care
-related: ["dementia-care", "emotional-memory", "music-therapy", "neural-pathways", "personalized-music"]
+related: ["cognitive-impairments-and-music-therapy", "dementia-care", "emotional-memory", "group-music-therapy-for-dementia-patients", "music-therapy", "neural-pathways", "personalized-music"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -47,8 +47,10 @@ Overall, these interventions underscore the significant role music plays in deme
 
 ## See Also
 
+- [cognitive-impairments-and-music-therapy](../topics/cognitive-impairments-and-music-therapy.md)
 - [dementia-care](../topics/dementia-care.md)
 - [emotional-memory](../topics/emotional-memory.md)
+- [group-music-therapy-for-dementia-patients](../topics/group-music-therapy-for-dementia-patients.md)
 - [music-therapy](../topics/music-therapy.md)
 - [neural-pathways](../topics/neural-pathways.md)
 - [personalized-music](../topics/personalized-music.md)

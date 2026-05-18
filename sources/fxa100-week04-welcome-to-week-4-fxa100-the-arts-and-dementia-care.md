@@ -11,7 +11,7 @@ tags: ["caregiver-wellbeing", "dementia-care", "fxa100", "music-therapy", "music
 key_concepts: ["musical-interventions", "emotional-activation", "speech-recovery", "professional-registration"]
 methods: ["case-study"]
 slug: fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care
-related: ["dementia-care", "music-therapy", "participatory-music", "quality-of-life"]
+related: ["dementia-care", "music-therapy", "music-therapy-and-cognitive-stimulation-for-dementia", "participatory-music", "quality-of-life"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,5 +44,6 @@ This document introduces the fourth week of FXA100 The Arts and Dementia Care, f
 
 - [dementia-care](../topics/dementia-care.md)
 - [music-therapy](../topics/music-therapy.md)
+- [music-therapy-and-cognitive-stimulation-for-dementia](../topics/music-therapy-and-cognitive-stimulation-for-dementia.md)
 - [participatory-music](../topics/participatory-music.md)
 - [quality-of-life](../topics/quality-of-life.md)

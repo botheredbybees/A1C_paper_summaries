@@ -3,6 +3,7 @@ confidence: high
 domain: intervention
 slug: creative-arts-interventions
 sources:
+  - fxa100-week12-lesson-fxa100-week12-page-2-so-what-have-we-learned
   - fxa301-week05-support-programs-ut-md-anderson
   - fxa303-week02-play-creative-arts-and-wellbeing
   - fxa303-week03-creative-arts-interventions-for-stress-management-and
@@ -19,7 +20,7 @@ tags:
 - creative-arts-interventions
 title: Creative Arts Interventions
 type: topic
-updated: 2026-05-11
+updated: 2026-05-18
 ---
 
 ## Creative Arts Interventions
@@ -42,6 +43,7 @@ Neuroscience contributes another layer to this discussion, suggesting that these
 
 ## Sources
 
+- [fxa100-week12-lesson-fxa100-week12-page-2-so-what-have-we-learned](../sources/fxa100-week12-lesson-fxa100-week12-page-2-so-what-have-we-learned.md)
 - [fxa301-week05-support-programs-ut-md-anderson](../sources/fxa301-week05-support-programs-ut-md-anderson.md)
 - [fxa303-week02-play-creative-arts-and-wellbeing](../sources/fxa303-week02-play-creative-arts-and-wellbeing.md)
 - [fxa303-week03-creative-arts-interventions-for-stress-management-and](../sources/fxa303-week03-creative-arts-interventions-for-stress-management-and.md)

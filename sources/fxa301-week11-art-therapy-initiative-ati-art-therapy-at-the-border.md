@@ -11,7 +11,7 @@ tags: ["art-therapy", "border-camps", "creative-interventions", "cultural-reaffi
 key_concepts: ["resilience-building", "psychological-relief", "protective-factors"]
 methods: ["case-study"]
 slug: fxa301-week11-art-therapy-initiative-ati-art-therapy-at-the-border
-related: ["art-therapy", "creative-interventions", "refugee-support"]
+related: ["art-therapy", "creative-interventions", "protective-factors", "refugee-support"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -43,4 +43,5 @@ This article explores the use of kite making and flying in art therapy sessions 
 
 - [art-therapy](../topics/art-therapy.md)
 - [creative-interventions](../topics/creative-interventions.md)
+- [protective-factors](../topics/protective-factors.md)
 - [refugee-support](../topics/refugee-support.md)

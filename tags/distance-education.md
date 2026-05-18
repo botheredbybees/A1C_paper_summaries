@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: distance-education
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Distance Education

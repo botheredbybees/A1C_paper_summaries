@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: person-centered-care
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Person Centered Care
@@ -26,6 +26,7 @@ updated: 2026-05-16
 - [The Fundamentals of Person-Centered Care for Individuals With Dementia](../sources/fxa100-week09-the-fundamentals-of-person-centered-care-for-individuals.md)
 - [Transforming Dementia Care Through Theatre](../sources/fxa100-week10-transforming-dementia-care-through-theatre.md)
 - [Dancemind\u2019s \u2018Moving Memories\u2019 Evaluation and analysis; a UK based dance and health project for people living with dementia and their care-staff](../sources/fxa100-week11-danceminds-moving-memories-evaluation-and-analysis-a-uk.md)
+- [Testing the Implementation of the Veder Contact Method: A Theatre-Based Communication Method in Dementia Care](../sources/fxa100-week12-testing-the-implementation-of-the-veder-contact-method-a.md)
 - [Music Interventions for People with Dementia: A Review of the Literature](../sources/fxa100-week13-music-interventions-for-people-with-dementia-a-review-of.md)
 - [Elder-clowning in long-term dementia care: Results of a pilot study](../sources/fxa303-week13-elder-clowning-in-long-term-dementia-care-results-of-a.md)
 - [Non-pharmacological interventions for agitation in dementia: systematic review of randomised controlled trials](../sources/fxa303-week13-non-pharmacological-interventions-for-agitation-in-dementia.md)

@@ -3,6 +3,7 @@ confidence: medium
 domain: theory
 slug: cognitive-development
 sources:
+  - fxa100-week12-the-power-of-music-an-exploration-of-the-evidence
   - fxa202-week10-brain-research-shows-the-arts-promote-mental-health
   - fxa202-week13-development-and-validation-of-a-mobile-phone-photography
   - fxa303-week02-developmental-role-of-creative-arts-and-play
@@ -16,7 +17,7 @@ tags:
 - cognitive-development
 title: Cognitive Development
 type: topic
-updated: 2026-05-15
+updated: 2026-05-18
 ---
 
 ## Cognitive Development
@@ -35,6 +36,7 @@ The topic of cognitive development integrates several influential theoretical pe
 
 ## Sources
 
+- [fxa100-week12-the-power-of-music-an-exploration-of-the-evidence](../sources/fxa100-week12-the-power-of-music-an-exploration-of-the-evidence.md)
 - [fxa202-week10-brain-research-shows-the-arts-promote-mental-health](../sources/fxa202-week10-brain-research-shows-the-arts-promote-mental-health.md)
 - [fxa202-week13-development-and-validation-of-a-mobile-phone-photography](../sources/fxa202-week13-development-and-validation-of-a-mobile-phone-photography.md)
 - [fxa303-week02-developmental-role-of-creative-arts-and-play](../sources/fxa303-week02-developmental-role-of-creative-arts-and-play.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: medical-procedures
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Medical Procedures

@@ -11,7 +11,7 @@ tags: ["behavioral-medicine", "fxa100", "instrument-validation", "measurement-in
 key_concepts: ["reliability", "validity", "psychometric-properties", "instrument-validation"]
 methods: ["case-study"]
 slug: fxa100-week13-psychometric-properties
-related: ["psychometrics"]
+related: ["psychometric-properties", "psychometrics", "reliability", "validity"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -41,4 +41,7 @@ The document 'Psychometric Properties' by Annie T. Ginty discusses the fundament
 
 ## See Also
 
+- [psychometric-properties](../topics/psychometric-properties.md)
 - [psychometrics](../topics/psychometrics.md)
+- [reliability](../topics/reliability.md)
+- [validity](../topics/validity.md)

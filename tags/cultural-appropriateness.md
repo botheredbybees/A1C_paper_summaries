@@ -1,0 +1,10 @@
+---
+type: tag
+tag: cultural-appropriateness
+updated: 2026-05-18
+---
+
+## Cultural Appropriateness
+
+- [FXA303 Web Lecture Week 10](../sources/fxa303-week10-fxa303-web-lecture-week-10.md)
+- [FXA303 Web Lecture Week 10 - Guidance on Assessment Task 4](../sources/fxa303-week10-fxa303-web-lecture-week-10-guidance-on-assessment-task-4.md)

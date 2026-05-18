@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: life-history
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 ## Life History

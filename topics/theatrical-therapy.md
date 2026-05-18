@@ -5,13 +5,14 @@ slug: theatrical-therapy
 sources:
   - fxa100-week09-applied-theatre-problems-and-possibilities
   - fxa100-week09-implementing-living-room-theatre-activities-for-people-with
+  - fxa100-week12-testing-the-implementation-of-the-veder-contact-method-a
 - fxa100-week09-applied-theatre-problems-and-possibilities
 - fxa100-week09-implementing-living-room-theatre-activities-for-people-with
 tags:
 - theatrical-therapy
 title: Theatrical Therapy
 type: topic
-updated: 2026-05-11
+updated: 2026-05-18
 ---
 
 ## Theatrical Therapy
@@ -32,3 +33,4 @@ Theatrical therapy emerges as a versatile intervention with applications ranging
 
 - [fxa100-week09-applied-theatre-problems-and-possibilities](../sources/fxa100-week09-applied-theatre-problems-and-possibilities.md)
 - [fxa100-week09-implementing-living-room-theatre-activities-for-people-with](../sources/fxa100-week09-implementing-living-room-theatre-activities-for-people-with.md)
+- [fxa100-week12-testing-the-implementation-of-the-veder-contact-method-a](../sources/fxa100-week12-testing-the-implementation-of-the-veder-contact-method-a.md)

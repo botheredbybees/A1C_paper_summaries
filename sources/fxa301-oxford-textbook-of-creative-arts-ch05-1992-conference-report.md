@@ -9,13 +9,14 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
+  - unit: FXA301
 tags: ["art-and-health", "fxa301", "healing-environments", "public-art", "therapeutic-design"]
 key_concepts: ["arts-in-healthcare", "therapeutic-design"]
 methods: []
 slug: fxa301-oxford-textbook-of-creative-arts-ch05-1992-conference-report
 related: ["art-and-health", "public-art"]
 created: 2026-05-15
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-oxford-textbook-of-creative-arts-ch05-1992-conference-report.md_
