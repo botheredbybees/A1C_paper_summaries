@@ -17,13 +17,14 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
+  - unit: FXA301
 tags: ["arts-in-health", "fxa301", "healthcare-interventions", "intervention-planning", "management-principles", "pestle-analysis", "stakeholder-support"]
 key_concepts: ["PESTLE analysis", "arts-based interventions", "stakeholder support"]
 methods: ["systematic approach"]
 slug: fxa301-week01-conceptualizing-and-planning-interventions
 related: ["arts-in-health", "healthcare-interventions", "intervention-planning", "pestle-analysis"]
 created: 2026-05-05
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-week01-conceptualizing-and-planning-interventions.md_

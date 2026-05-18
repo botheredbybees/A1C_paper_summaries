@@ -11,13 +11,14 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
+  - unit: FXA301
 tags: ["arts-education", "community-development", "fxa301", "realistic-goal-setting", "results-based-management", "results-chain", "social-exclusion"]
 key_concepts: ["realistic goal-setting", "social exclusion", "results chain"]
 methods: []
 slug: fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals-(2)
 related: ["arts-education", "community-development", "results-based-management"]
 created: 2026-05-05
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals-(2).md_

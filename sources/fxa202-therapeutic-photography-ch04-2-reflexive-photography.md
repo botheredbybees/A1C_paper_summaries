@@ -17,13 +17,14 @@ appearances:
   - unit: FXA202
   - unit: FXA202
   - unit: FXA202
+  - unit: FXA202
 tags: ["therapeutic-photography", "photo-elicitation-methods", "mental-health-research", "fxa202"]
 key_concepts: ["power-dynamics-in-interviews", "visual-pedagogy", "emancipatory-research"]
 methods: []
 slug: fxa202-therapeutic-photography-ch04-2-reflexive-photography
 related: ["mental-health-research", "therapeutic-photography"]
 created: 2026-05-03
-updated: 2026-05-16
+updated: 2026-05-18
 ---
 
 _All claims sourced from ../raw/pdf/fxa202-therapeutic-photography-ch04-2-reflexive-photography.md_
