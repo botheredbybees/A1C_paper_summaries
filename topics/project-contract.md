@@ -27,4 +27,4 @@ The process of drawing up contracts for arts-in-health projects is crucial to en
 
 ## Sources
 
-- [fxa301-arts-in-health-ch44-1-the-artist-(2)](../sources/fxa301-arts-in-health-ch44-1-the-artist-(2).md)
+- [fxa301-arts-in-health-ch44-1-the-artist-(2)](../sources/fxa301-arts-in-health-ch44-1-the-artist-%282%29.md)

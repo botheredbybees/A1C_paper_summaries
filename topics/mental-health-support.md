@@ -38,7 +38,7 @@ The integration of various forms of artistic and creative practices as intervent
 ## Sources
 
 - [fxa202-week06-reflection-on-the-therapeutic-and-artistic-process-of](../sources/fxa202-week06-reflection-on-the-therapeutic-and-artistic-process-of.md)
-- [fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2)](../sources/fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2).md)
+- [fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2)](../sources/fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-%282%29.md)
 - [fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing](../sources/fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing.md)
 - [fxa301-week08-transcript-youtube-i1dnrn0cj20](../sources/fxa301-week08-transcript-youtube-i1dnrn0cj20.md)
 - [fxa301-week10-lesson-fxa301-week10-page-2](../sources/fxa301-week10-lesson-fxa301-week10-page-2.md)

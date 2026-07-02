@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dis-embodiment-and-self-experience
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Dis Embodiment And Self Experience

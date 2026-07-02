@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: quality-of-life
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Quality Of Life
@@ -16,7 +16,7 @@ updated: 2026-05-18
 - [Music & Memory: The iPod Project](../sources/fxa100-week03-transcript-music-memory-the-ipod-project.md)
 - [Welcome to Week 3 - FXA100 The Arts and Dementia Care](../sources/fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care.md)
 - [Embedding Music and Music Therapy in Care Pathways for People with Dementia in the 21st Century\u2014a Position Paper](../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for.md)
-- [Embedding Music and Music Therapy in Care Pathways for People with Dementia in the 21st Century](../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-(2).md)
+- [Embedding Music and Music Therapy in Care Pathways for People with Dementia in the 21st Century](../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-%282%29.md)
 - [Mindsong \u2013 transcript](../sources/fxa100-week04-mindsong-transcript.md)
 - [Music Therapy and Music-Assisted Caregiving for Dementia Patients](../sources/fxa100-week04-music-therapy-and-music-assisted-caregiving-for-dementia.md)
 - [Music Therapy Flyer](../sources/fxa100-week04-music-therapy-flyer.md)
@@ -43,7 +43,7 @@ updated: 2026-05-18
 - ['It makes me feel like myself': Person-centered versus traditional visual arts activities for people with dementia](../sources/fxa100-week08-it-makes-me-feel-like-myself-person-centered-versus.md)
 - [The Use of Creative Activities in Dementia in Residential Aged Care Facilities in Australia: A Cross-Sectional Descriptive Study](../sources/fxa100-week08-the-use-of-creative-activities-in-dementia-in-residential.md)
 - [Drama Therapy with Older People with Dementia\u2014Does it Improve Quality of Life?](../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it.md)
-- [Drama therapy with older people with dementia\u2014Does it improve quality of life?](../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2).md)
+- [Drama therapy with older people with dementia\u2014Does it improve quality of life?](../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-%282%29.md)
 - [Activities for Week 9 - FXA100 The Arts and Dementia Care](../sources/fxa100-week09-lesson-fxa100-week09-page-4-week-8-activities.md)
 - [Testing the Implementation of the Veder Contact Method: A Theatre-Based Communication Method in Dementia Care](../sources/fxa100-week09-testing-the-implementation-of-the-veder-contact-method-a.md)
 - [Playfully engaging people living with dementia: searching for Yum Cha moments](../sources/fxa100-week10-playfully-engaging-people-living-with-dementia-searching.md)

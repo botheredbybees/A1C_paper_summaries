@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: self-care-strategies
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Self Care Strategies

@@ -11,7 +11,7 @@ tags: ["alzheimers-disease", "autophagy-regulation", "lifestyle-interventions", 
 key_concepts: ["autophagy-mediated pathways", "protein aggregation", "non-pharmacological strategies", "brain-specific autophagy markers"]
 methods: ["systematic review"]
 slug: fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical
-related: ["alzheimers-disease", "cognitive-health"]
+related: ["alzheimers-disease", "cognitive-health", "lifestyle-interventions"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -47,3 +47,4 @@ This review article discusses the regulation of autophagy-mediated pathways in A
 
 - [alzheimers-disease](../topics/alzheimers-disease.md)
 - [cognitive-health](../topics/cognitive-health.md)
+- [lifestyle-interventions](../topics/lifestyle-interventions.md)

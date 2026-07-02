@@ -89,7 +89,7 @@ The sources illustrate a variety of creative therapies that have been developed 
 - [fxa202-week03-week-three-lecture-transcript-photography-and-health](../sources/fxa202-week03-week-three-lecture-transcript-photography-and-health.md)
 - [fxa202-week06-rediscovering-joy-during-lockdown](../sources/fxa202-week06-rediscovering-joy-during-lockdown.md)
 - [fxa202-week08-week-8-lecture-notes-editing-your-images](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images.md)
-- [fxa202-week08-week-8-lecture-notes-editing-your-images-(3)](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images-(3).md)
+- [fxa202-week08-week-8-lecture-notes-editing-your-images-(3)](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images-%283%29.md)
 - [fxa202-week09-5-benefits-of-journaling-for-mental-health](../sources/fxa202-week09-5-benefits-of-journaling-for-mental-health.md)
 - [fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health](../sources/fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health.md)
 - [fxa202-week09-noticing-a-photo-essay](../sources/fxa202-week09-noticing-a-photo-essay.md)

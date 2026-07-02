@@ -29,4 +29,4 @@ This synthesis focuses on the efficacy and outcomes of arts therapies in treatin
 ## Sources
 
 - [fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the](../sources/fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the.md)
-- [fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the-(2)](../sources/fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the-(2).md)
+- [fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the-(2)](../sources/fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the-%282%29.md)

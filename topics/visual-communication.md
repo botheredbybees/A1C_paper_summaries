@@ -3,6 +3,7 @@ confidence: high
 domain: method
 slug: visual-communication-techniques
 sources:
+  - fxa202-week00-understanding-comics-the-invisible-art
   - fxa202-week02-improve-your-photography-skills-with-these-9-photo
   - fxa202-week05-making-metaphors-from-photos
   - fxa202-week06-tips-for-making-your-powerpoint-presentation-(2)
@@ -11,7 +12,7 @@ tags:
 - visual-communication
 title: Visual Communication Techniques
 type: topic
-updated: 2026-05-11
+updated: 2026-07-03
 ---
 
 ## Visual Communication Techniques
@@ -30,7 +31,8 @@ The exploration of visual communication techniques across the provided sources h
 
 ## Sources
 
+- [fxa202-week00-understanding-comics-the-invisible-art](../sources/fxa202-week00-understanding-comics-the-invisible-art.md)
 - [fxa202-week02-improve-your-photography-skills-with-these-9-photo](../sources/fxa202-week02-improve-your-photography-skills-with-these-9-photo.md)
 - [fxa202-week05-making-metaphors-from-photos](../sources/fxa202-week05-making-metaphors-from-photos.md)
-- [fxa202-week06-tips-for-making-your-powerpoint-presentation-(2)](../sources/fxa202-week06-tips-for-making-your-powerpoint-presentation-(2).md)
+- [fxa202-week06-tips-for-making-your-powerpoint-presentation-(2)](../sources/fxa202-week06-tips-for-making-your-powerpoint-presentation-%282%29.md)
 - [fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography](../sources/fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography.md)

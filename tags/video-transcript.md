@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: video-transcript
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Video Transcript

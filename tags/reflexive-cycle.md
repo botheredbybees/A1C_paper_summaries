@@ -1,9 +1,9 @@
 ---
 type: tag
 tag: reflexive-cycle
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Reflexive Cycle
 
-- [Understanding the Environment Through PESTLE Analysis](../sources/fxa301-arts-in-health-ch26-4-technological-(2).md)
+- [Understanding the Environment Through PESTLE Analysis](../sources/fxa301-arts-in-health-ch26-4-technological-%282%29.md)

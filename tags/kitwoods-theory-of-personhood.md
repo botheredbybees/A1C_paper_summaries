@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: kitwoods-theory-of-personhood
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Kitwoods Theory Of Personhood

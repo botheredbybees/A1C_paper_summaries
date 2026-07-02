@@ -27,4 +27,4 @@ The concept of genre-defined roles emphasizes the structured and often culturall
 
 ## Sources
 
-- [fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration-(2)](../sources/fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration-(2).md)
+- [fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration-(2)](../sources/fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration-%282%29.md)

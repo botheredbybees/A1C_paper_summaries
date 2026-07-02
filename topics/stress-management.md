@@ -9,11 +9,13 @@ sources:
   - fxa301-week02-the-influence-of-stress-optimism-and-music-training-on
   - fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and
   - fxa303-week03-creative-arts-interventions-for-stress-management-and
+  - psy214-week00-creative-arts-interventions-for-stress-management-and
+  - psy214-week00-sleep-and-stress
 tags:
 - stress-management
 title: Stress Management Interventions
 type: topic
-updated: 2026-05-15
+updated: 2026-06-25
 ---
 
 ## Stress Management Interventions
@@ -38,3 +40,5 @@ The exploration of stress management interventions across multiple sources highl
 - [fxa301-week02-the-influence-of-stress-optimism-and-music-training-on](../sources/fxa301-week02-the-influence-of-stress-optimism-and-music-training-on.md)
 - [fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and](../sources/fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and.md)
 - [fxa303-week03-creative-arts-interventions-for-stress-management-and](../sources/fxa303-week03-creative-arts-interventions-for-stress-management-and.md)
+- [psy214-week00-creative-arts-interventions-for-stress-management-and](../sources/psy214-week00-creative-arts-interventions-for-stress-management-and.md)
+- [psy214-week00-sleep-and-stress](../sources/psy214-week00-sleep-and-stress.md)

@@ -27,4 +27,4 @@ The sources explore the pathophysiological aspects and current treatment options
 
 ## Sources
 
-- [fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2)](../sources/fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2).md)
+- [fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2)](../sources/fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-%282%29.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dementia-care
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Dementia Care
@@ -64,7 +64,7 @@ updated: 2026-05-18
 - [Week 3 Lecture: Listening to Music in Dementia Care](../sources/fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care.md)
 - [Welcome to Week 3 - FXA100 The Arts and Dementia Care](../sources/fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care.md)
 - [Embedding Music and Music Therapy in Care Pathways for People with Dementia in the 21st Century\u2014a Position Paper](../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for.md)
-- [Embedding Music and Music Therapy in Care Pathways for People with Dementia in the 21st Century](../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-(2).md)
+- [Embedding Music and Music Therapy in Care Pathways for People with Dementia in the 21st Century](../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-%282%29.md)
 - [Intergenerational Choir Transcript](../sources/fxa100-week04-intergenerational-choir-transcript.md)
 - [Interventions for Dementia Care](../sources/fxa100-week04-interventions-for-dementia-care.md)
 - [FXA100 The Arts and Dementia Care - Week 4: Participation and Singing](../sources/fxa100-week04-lesson-fxa100-week04-page-1-welcome-to-week-4.md)
@@ -142,7 +142,7 @@ updated: 2026-05-18
 - [What are the Required Elements Needed to Create an Effective Visual Art Intervention for People with Dementia? A Qualitative Exploration](../sources/fxa100-week08-what-are-the-required-elements-needed-to-create-an.md)
 - [Why the Arts?](../sources/fxa100-week08-why-the-arts.md)
 - [Implementing living room theatre activities for people with dementia on nursing home wards: a process evaluation study](../sources/fxa100-week09-implementing-living-room-theatre-activities-for-people-with.md)
-- [Implementing Living Room Theatre Activities for People with Dementia on Nursing Home Wards](../sources/fxa100-week09-implementing-living-room-theatre-activities-for-people-with-(2).md)
+- [Implementing Living Room Theatre Activities for People with Dementia on Nursing Home Wards](../sources/fxa100-week09-implementing-living-room-theatre-activities-for-people-with-%282%29.md)
 - [Improving care: The next step forward](../sources/fxa100-week09-improving-care-the-next-step-forward.md)
 - [Week 9: Dramatherapy, Dance Therapy and Applied Theatre in Dementia Care](../sources/fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags.md)
 - [Theatre, Play and Dementia Care](../sources/fxa100-week09-lesson-fxa100-week09-page-3-theatre-play-and-dementia.md)

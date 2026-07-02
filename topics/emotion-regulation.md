@@ -31,4 +31,4 @@ The provided sources explore the efficacy of an intervention combining Child-Cen
 
 - [fxa303-week04-brief-report-emotion-regulation-in-autism-is-improved-in-a](../sources/fxa303-week04-brief-report-emotion-regulation-in-autism-is-improved-in-a.md)
 - [fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves](../sources/fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves.md)
-- [fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)](../sources/fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2).md)
+- [fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)](../sources/fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-%282%29.md)

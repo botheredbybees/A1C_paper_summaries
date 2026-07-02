@@ -8,11 +8,12 @@ sources:
   - fxa301-week03-arts-public-health-and-the-national-arts-and-health
   - fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the
   - fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth
+  - psy214-week00-self-compassion-theory-method-research-and-intervention
 tags:
 - mental-well-being
 title: Mental Well-being Through Creative Practices
 type: topic
-updated: 2026-05-11
+updated: 2026-06-25
 ---
 
 ## Mental Well-being Through Creative Practices
@@ -36,3 +37,4 @@ The integration of creative practices such as art therapy and journaling into me
 - [fxa301-week03-arts-public-health-and-the-national-arts-and-health](../sources/fxa301-week03-arts-public-health-and-the-national-arts-and-health.md)
 - [fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the](../sources/fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the.md)
 - [fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth](../sources/fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth.md)
+- [psy214-week00-self-compassion-theory-method-research-and-intervention](../sources/psy214-week00-self-compassion-theory-method-research-and-intervention.md)

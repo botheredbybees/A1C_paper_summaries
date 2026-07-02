@@ -10,13 +10,14 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
+  - unit: FXA301
 tags: ["art-evidence", "art-therapy", "direct-impact-on-audience", "fxa301", "public-health", "research-methods", "therapeutic-value-of-art"]
 key_concepts: ["art evidence", "therapeutic value of art", "direct impact on audience"]
 methods: []
 slug: fxa301-applied-artes-and-health-ch01-2021-graff
 related: ["art-therapy", "public-health", "research-methods"]
 created: 2026-05-15
-updated: 2026-05-18
+updated: 2026-06-25
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-applied-artes-and-health-ch01-2021-graff.md_

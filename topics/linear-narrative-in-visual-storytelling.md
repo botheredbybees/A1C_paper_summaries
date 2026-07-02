@@ -27,4 +27,4 @@ The lectures on components of visual storytelling emphasize the distinction betw
 ## Sources
 
 - [fxa202-week06-week-six-lecture-components-of-visual-storytelling](../sources/fxa202-week06-week-six-lecture-components-of-visual-storytelling.md)
-- [fxa202-week06-week-six-lecture-components-of-visual-storytelling-(2)](../sources/fxa202-week06-week-six-lecture-components-of-visual-storytelling-(2).md)
+- [fxa202-week06-week-six-lecture-components-of-visual-storytelling-(2)](../sources/fxa202-week06-week-six-lecture-components-of-visual-storytelling-%282%29.md)

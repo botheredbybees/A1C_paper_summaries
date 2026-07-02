@@ -36,5 +36,5 @@ The integration of community art programs reveals a significant emphasis on comm
 - [fxa100-week08-web-article-gross-2016](../sources/fxa100-week08-web-article-gross-2016.md)
 - [fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts](../sources/fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts.md)
 - [fxa301-week01-making-art-with-communities-a-work-guide](../sources/fxa301-week01-making-art-with-communities-a-work-guide.md)
-- [fxa301-week01-making-art-with-communities-a-work-guide-(3)](../sources/fxa301-week01-making-art-with-communities-a-work-guide-(3).md)
+- [fxa301-week01-making-art-with-communities-a-work-guide-(3)](../sources/fxa301-week01-making-art-with-communities-a-work-guide-%283%29.md)
 - [fxa301-week11-refugee-art-project](../sources/fxa301-week11-refugee-art-project.md)

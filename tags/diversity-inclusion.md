@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: diversity-inclusion
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Diversity Inclusion

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-well-being
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Mental Well Being
@@ -11,3 +11,4 @@ updated: 2026-05-18
 - [Arts, public health and the National Arts and Health Framework: a lexicon for health professionals](../sources/fxa301-week03-arts-public-health-and-the-national-arts-and-health.md)
 - [The art of being mentally healthy: a study to quantify the relationship between recreational arts engagement and mental well-being in the general population](../sources/fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the.md)
 - [Resilience and Hope: Exploring Immigrant and Refugee Youth Experiences through Community-based Arts Practice](../sources/fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth.md)
+- [Self-Compassion: Theory, Method, Research, and Intervention](../sources/psy214-week00-self-compassion-theory-method-research-and-intervention.md)

@@ -27,4 +27,4 @@ The concept of rehumanizing migrants is explored through a multi/transdisciplina
 
 ## Sources
 
-- [fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2).md)
+- [fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi-%282%29.md)

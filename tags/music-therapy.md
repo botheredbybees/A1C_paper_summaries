@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-therapy
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Music Therapy
@@ -40,7 +40,7 @@ updated: 2026-05-18
 - [Week 3 Lecture: Listening to Music in Dementia Care](../sources/fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care.md)
 - [Welcome to Week 3 - FXA100 The Arts and Dementia Care](../sources/fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care.md)
 - [Embedding Music and Music Therapy in Care Pathways for People with Dementia in the 21st Century\u2014a Position Paper](../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for.md)
-- [Embedding Music and Music Therapy in Care Pathways for People with Dementia in the 21st Century](../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-(2).md)
+- [Embedding Music and Music Therapy in Care Pathways for People with Dementia in the 21st Century](../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-%282%29.md)
 - [Intergenerational Choir Transcript](../sources/fxa100-week04-intergenerational-choir-transcript.md)
 - [FXA100 The Arts and Dementia Care - Week 4: Participation and Singing](../sources/fxa100-week04-lesson-fxa100-week04-page-1-welcome-to-week-4.md)
 - [Music Therapy Benefits for Dementia Care](../sources/fxa100-week04-lesson-fxa100-week04-page-2-music-therapy-benefits.md)

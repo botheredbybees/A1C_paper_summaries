@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotional-regulation
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Emotional Regulation
@@ -16,3 +16,4 @@ updated: 2026-05-18
 - [The Role of Puppetry in Mental Health Promotion: A Scoping Review of Its Efficacy and Applications](../sources/fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping.md)
 - [Week 6 Activities - FXA303 Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental.md)
 - [Week 11 Overview - FXA303 Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week11-lesson-fxa303-week11-page-1-overview.md)
+- [Washing Dishes to Wash the Dishes: Brief Instruction in an Informal Mindfulness Practice](../sources/psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an.md)

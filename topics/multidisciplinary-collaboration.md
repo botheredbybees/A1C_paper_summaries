@@ -31,4 +31,4 @@ The concept of multidisciplinary collaboration emerges as a critical element in 
 
 - [fxa100-week04-the-role-function-and-identity-of-music-therapists-in-the](../sources/fxa100-week04-the-role-function-and-identity-of-music-therapists-in-the.md)
 - [fxa100-week10-transcript-helen-morse-also-brought-her-personal-experience](../sources/fxa100-week10-transcript-helen-morse-also-brought-her-personal-experience.md)
-- [fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2).md)
+- [fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi-%282%29.md)

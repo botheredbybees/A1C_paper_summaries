@@ -31,4 +31,4 @@ The integration of music therapy in dementia care highlights its multifaceted be
 - [fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care](../sources/fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care.md)
 - [fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care](../sources/fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care.md)
 - [fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care](../sources/fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care.md)
-- [fxa301-week01-engaging-in-community-music-an-introduction-(2)](../sources/fxa301-week01-engaging-in-community-music-an-introduction-(2).md)
+- [fxa301-week01-engaging-in-community-music-an-introduction-(2)](../sources/fxa301-week01-engaging-in-community-music-an-introduction-%282%29.md)

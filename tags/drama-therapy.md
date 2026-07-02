@@ -1,13 +1,13 @@
 ---
 type: tag
 tag: drama-therapy
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Drama Therapy
 
 - [Drama Therapy with Older People with Dementia\u2014Does it Improve Quality of Life?](../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it.md)
-- [Drama therapy with older people with dementia\u2014Does it improve quality of life?](../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2).md)
+- [Drama therapy with older people with dementia\u2014Does it improve quality of life?](../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-%282%29.md)
 - [People with dementia as 'spect-actors' in a musical theatre group with performing arts students from the community](../sources/fxa100-week09-people-with-dementia-as-spect-actors-in-a-musical-theatre.md)
 - [Interview with Sally Bailey on Drama Therapy](../sources/fxa100-week09-transcript-youtube-y1uwix2fnv4.md)
 - [What is Drama Therapy?](../sources/fxa100-week09-web-article-north-2021.md)

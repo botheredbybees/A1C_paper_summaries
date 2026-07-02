@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: expressive-writing-therapy
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Expressive Writing Therapy

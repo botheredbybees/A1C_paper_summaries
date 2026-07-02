@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: meta-analysis
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Meta Analysis
@@ -16,3 +16,5 @@ updated: 2026-05-18
 - [Effectiveness of music therapy for children with autism spectrum disorder: meta-analysis and potential biological mechanisms](../sources/fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism.md)
 - [Effectiveness of music therapy in children with autism spectrum disorder: A systematic review and meta-analysis](../sources/fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism.md)
 - [The Delivery of Person-Centered Care for People Living With Dementia in Residential Aged Care: A Systematic Review and Meta-Analysis](../sources/fxa303-week13-the-delivery-of-person-centered-care-for-people-living-with.md)
+- [Happy to help? A systematic review and meta-analysis of the effects of performing acts of kindness on the well-being of the actor](../sources/psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the.md)
+- [The Impact of Signature Character Strengths Interventions: A Meta-analysis](../sources/psy214-week00-the-impact-of-signature-character-strengths-interventions-a.md)

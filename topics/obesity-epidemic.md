@@ -27,4 +27,4 @@ The synthesis of the sources reveals a multifaceted approach to understanding an
 
 ## Sources
 
-- [fxa301-oxford-textbook-of-creative-arts-ch18-chapter-3-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch18-chapter-3-(2).md)
+- [fxa301-oxford-textbook-of-creative-arts-ch18-chapter-3-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch18-chapter-3-%282%29.md)

@@ -27,4 +27,4 @@ The use of masking and brushes in Photoshop provides a powerful set of tools for
 
 ## Sources
 
-- [fxa202-week08-how-to-merge-and-combine-images-in-photoshop-(2)](../sources/fxa202-week08-how-to-merge-and-combine-images-in-photoshop-(2).md)
+- [fxa202-week08-how-to-merge-and-combine-images-in-photoshop-(2)](../sources/fxa202-week08-how-to-merge-and-combine-images-in-photoshop-%282%29.md)

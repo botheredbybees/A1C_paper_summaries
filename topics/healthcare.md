@@ -30,7 +30,7 @@ The integration of arts into healthcare interventions demonstrates a multi-facet
 
 ## Sources
 
-- [fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative-(2)](../sources/fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative-(2).md)
-- [fxa301-arts-in-health-ch44-1-the-artist-(2)](../sources/fxa301-arts-in-health-ch44-1-the-artist-(2).md)
+- [fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative-(2)](../sources/fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative-%282%29.md)
+- [fxa301-arts-in-health-ch44-1-the-artist-(2)](../sources/fxa301-arts-in-health-ch44-1-the-artist-%282%29.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch04-chapter-17](../sources/fxa301-oxford-textbook-of-creative-arts-ch04-chapter-17.md)
 - [fxa303-week08-transcript-15-may-2012](../sources/fxa303-week08-transcript-15-may-2012.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-health
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Mental Health
@@ -18,7 +18,7 @@ updated: 2026-05-18
 - [Week Three Lecture Transcript: Photography and Health](../sources/fxa202-week03-week-three-lecture-transcript-photography-and-health.md)
 - [Rediscovering Joy During Lockdown](../sources/fxa202-week06-rediscovering-joy-during-lockdown.md)
 - [Week 8 Lecture Notes: Editing Your Images](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images.md)
-- [Week 8 Lecture Notes: Editing Your Images](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images-(3).md)
+- [Week 8 Lecture Notes: Editing Your Images](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images-%283%29.md)
 - [5 Benefits of Journaling for Mental Health](../sources/fxa202-week09-5-benefits-of-journaling-for-mental-health.md)
 - [My Photo Essay: Storytelling Through Art and Mental Health](../sources/fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health.md)
 - [Noticing: A Photo Essay](../sources/fxa202-week09-noticing-a-photo-essay.md)

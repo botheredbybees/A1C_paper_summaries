@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: history-of-psychiatry
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## History Of Psychiatry

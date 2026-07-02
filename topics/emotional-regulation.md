@@ -13,11 +13,12 @@ sources:
   - fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping
   - fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental
   - fxa303-week11-lesson-fxa303-week11-page-1-overview
+  - psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an
 tags:
 - emotional-regulation
 title: Emotional Regulation
 type: topic
-updated: 2026-05-15
+updated: 2026-06-25
 ---
 
 ## Emotional Regulation
@@ -46,3 +47,4 @@ The synthesis integrates various aspects of emotional regulation across diverse 
 - [fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping](../sources/fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping.md)
 - [fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental](../sources/fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental.md)
 - [fxa303-week11-lesson-fxa303-week11-page-1-overview](../sources/fxa303-week11-lesson-fxa303-week11-page-1-overview.md)
+- [psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an](../sources/psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an.md)

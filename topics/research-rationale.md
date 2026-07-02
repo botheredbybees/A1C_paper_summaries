@@ -26,4 +26,4 @@ The concept of research rationale is integral to structuring a comprehensive and
 
 ## Sources
 
-- [fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production-(2)](../sources/fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production-(2).md)
+- [fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production-(2)](../sources/fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production-%282%29.md)

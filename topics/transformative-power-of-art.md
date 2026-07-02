@@ -28,5 +28,5 @@ The sources collectively underscore the profound impact art can have on individu
 ## Sources
 
 - [fxa301-week01-making-art-with-communities-a-work-guide](../sources/fxa301-week01-making-art-with-communities-a-work-guide.md)
-- [fxa301-week01-making-art-with-communities-a-work-guide-(2)](../sources/fxa301-week01-making-art-with-communities-a-work-guide-(2).md)
+- [fxa301-week01-making-art-with-communities-a-work-guide-(2)](../sources/fxa301-week01-making-art-with-communities-a-work-guide-%282%29.md)
 - [fxa303-week11-the-story-of-ghetto-classics-an-orchestra-born-from-a-kenya](../sources/fxa303-week11-the-story-of-ghetto-classics-an-orchestra-born-from-a-kenya.md)

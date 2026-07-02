@@ -27,4 +27,4 @@ The Emotion Regulation Checklist (ERC) is a tool that assesses emotion regulatio
 
 ## Sources
 
-- [fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)](../sources/fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2).md)
+- [fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)](../sources/fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-%282%29.md)

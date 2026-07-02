@@ -29,4 +29,4 @@ The role of arts integration as a therapeutic intervention within healthcare set
 ## Sources
 
 - [fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative](../sources/fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative.md)
-- [fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative-(2)](../sources/fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative-(2).md)
+- [fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative-(2)](../sources/fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative-%282%29.md)

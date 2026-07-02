@@ -1,9 +1,9 @@
 ---
 type: tag
 tag: conflict-of-interest
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Conflict Of Interest
 
-- [Professional Responsibilities and Ethical Considerations in Research Design](../sources/fxa301-arts-in-health-ch76-3-responsibility-(2).md)
+- [Professional Responsibilities and Ethical Considerations in Research Design](../sources/fxa301-arts-in-health-ch76-3-responsibility-%282%29.md)

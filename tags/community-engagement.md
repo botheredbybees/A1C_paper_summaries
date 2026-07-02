@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: community-engagement
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Community Engagement
@@ -16,13 +16,13 @@ updated: 2026-05-18
 - [The daily digital practice as a form of self-care: Using photography for everyday well-being](../sources/fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using.md)
 - [Using Photovoice as a Tool to Engage Social Work Students in Social Justice](../sources/fxa202-week13-using-photovoice-as-a-tool-to-engage-social-work-students.md)
 - [Meeting Community Needs Through Ethnomusicology](../sources/fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts.md)
-- [Ethnomusicology and Applied Arts: A Guide to Community Engagement](../sources/fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts-(2).md)
+- [Ethnomusicology and Applied Arts: A Guide to Community Engagement](../sources/fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts-%282%29.md)
 - [Step 2: Choose a Goal in Arts for Social Change](../sources/fxa301-make-arts-for-a-better-life-ch09-5-choose-a-goal-needs-may-be-linked-within-communities.md)
 - [Case study: engaging older people in creative thinking\u2014the Active Energy project](../sources/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30.md)
-- [Case Study: Engaging Older People in Creative Thinking - The Active Energy Project](../sources/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-(2).md)
-- [Active Energy Project and Its Impact on Elderly Wellbeing](../sources/fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2).md)
+- [Case Study: Engaging Older People in Creative Thinking - The Active Energy Project](../sources/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-%282%29.md)
+- [Active Energy Project and Its Impact on Elderly Wellbeing](../sources/fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-%282%29.md)
 - [FXA301 Sem 1 2026 - Week 4 Lecture](../sources/fxa301-week01-fxa301-sem-1-2026-week-4-lecture.md)
-- [Guidelines for Arts and Mental Health Projects](../sources/fxa301-week01-guidelines-for-arts-and-mental-health-projects-(2).md)
+- [Guidelines for Arts and Mental Health Projects](../sources/fxa301-week01-guidelines-for-arts-and-mental-health-projects-%282%29.md)
 - [Week 1 Introduction - The Role of Creative Arts in Human Culture](../sources/fxa301-week01-week-1-introduction-the-role-of-creative-arts-in-human.md)
 - [Arts for EveryBody: The One Nation/One Project Impact Report](../sources/fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report.md)
 - [Developing a national arts and health policy framework](../sources/fxa301-week03-developing-a-national-arts-and-health-policy-framework.md)

@@ -26,5 +26,5 @@ The integration of themes across the provided sources highlights the critical ro
 
 ## Sources
 
-- [fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production-(2)](../sources/fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production-(2).md)
+- [fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production-(2)](../sources/fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production-%282%29.md)
 - [fxa301-week01-rating-the-quality-of-a-body-of-evidence-on-the](../sources/fxa301-week01-rating-the-quality-of-a-body-of-evidence-on-the.md)

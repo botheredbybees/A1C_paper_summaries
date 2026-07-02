@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: play-therapy
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Play Therapy
@@ -14,7 +14,7 @@ updated: 2026-05-18
 - [Infancy and the early years](../sources/fxa303-week02-infancy-and-the-early-years.md)
 - [Brief Report: Emotion Regulation in Autism Is Improved in a Single-N Pilot Intervention Study Combining Child-Centered Play Therapy and Rhythmic Relating](../sources/fxa303-week04-brief-report-emotion-regulation-in-autism-is-improved-in-a.md)
 - [Child-Centred Play Therapy and Rhythmic Relating improves emotion regulation in autism: A single-N pilot intervention study](../sources/fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves.md)
-- [Child-Centred Play Therapy and Rhythmic Relating improves emotion regulation in autism](../sources/fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2).md)
+- [Child-Centred Play Therapy and Rhythmic Relating improves emotion regulation in autism](../sources/fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-%282%29.md)
 - [Intensive Child-Centered Play Therapy for Children on the Autism Spectrum: A Pilot Study](../sources/fxa303-week04-intensive-child-centered-play-therapy-for-children-on-the.md)
 - [Play and Arts-based Therapies in Neurodevelopmental Disorders](../sources/fxa303-week04-lesson-fxa303-week04-page-3-arts-and-play.md)
 - [FXA303 Creative Arts, Play and Mental Wellbeing - Week 4 Activities](../sources/fxa303-week04-lesson-fxa303-week04-week-4-activities.md)

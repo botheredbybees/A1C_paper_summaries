@@ -7,11 +7,12 @@ sources:
   - fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography
   - fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a
   - fxa202-week10-critical-reflection-my-photo-essay
+  - psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an
 tags:
 - mindfulness-practice
 title: Mindfulness Practice Through Photography
 type: topic
-updated: 2026-05-15
+updated: 2026-06-25
 ---
 
 ## Mindfulness Practice Through Photography
@@ -34,3 +35,4 @@ The integration of mindfulness practices with the act of photography reveals a u
 - [fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography](../sources/fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography.md)
 - [fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a](../sources/fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a.md)
 - [fxa202-week10-critical-reflection-my-photo-essay](../sources/fxa202-week10-critical-reflection-my-photo-essay.md)
+- [psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an](../sources/psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an.md)

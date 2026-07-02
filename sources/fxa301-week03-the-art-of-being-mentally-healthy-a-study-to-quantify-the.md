@@ -11,7 +11,7 @@ tags: ["biopsychosocial-model", "dose-response-relationship-in-mental-health-int
 key_concepts: ["recreational arts engagement", "mental well-being", "dose-response relationship"]
 methods: ["telephone survey"]
 slug: fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the
-related: ["mental-well-being", "population-health"]
+related: ["biopsychosocial-model", "mental-well-being", "population-health"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,5 +42,6 @@ The study explores the relationship between recreational arts engagement and men
 
 ## See Also
 
+- [biopsychosocial-model](../topics/biopsychosocial-model.md)
 - [mental-well-being](../topics/mental-well-being.md)
 - [population-health](../topics/population-health.md)

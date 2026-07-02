@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: stress-management
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Stress Management
@@ -12,3 +12,5 @@ updated: 2026-05-18
 - [The Influence of Stress, Optimism, and Music Training on Music Uses and Preferences](../sources/fxa301-week02-the-influence-of-stress-optimism-and-music-training-on.md)
 - [Humor and Resiliency: Towards a Process Model of Coping and Growth](../sources/fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and.md)
 - [Creative Arts Interventions for Stress Management and Prevention\u2014A Systematic Review](../sources/fxa303-week03-creative-arts-interventions-for-stress-management-and.md)
+- [Creative Arts Interventions for Stress Management and Prevention\u2014A Systematic Review](../sources/psy214-week00-creative-arts-interventions-for-stress-management-and.md)
+- [Sleep and stress](../sources/psy214-week00-sleep-and-stress.md)

@@ -27,4 +27,4 @@ The sources collectively underscore the importance of considering specific imple
 
 ## Sources
 
-- [fxa100-week09-implementing-living-room-theatre-activities-for-people-with-(2)](../sources/fxa100-week09-implementing-living-room-theatre-activities-for-people-with-(2).md)
+- [fxa100-week09-implementing-living-room-theatre-activities-for-people-with-(2)](../sources/fxa100-week09-implementing-living-room-theatre-activities-for-people-with-%282%29.md)

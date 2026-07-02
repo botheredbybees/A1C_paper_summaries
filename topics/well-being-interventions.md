@@ -7,7 +7,9 @@ tags: ["well-being-interventions"]
 sources:
   - fxa301-week06-the-effects-of-recreational-dance-interventions-on-the
   - fxa303-week13-activity-activity-personalization-and-well-being-in-nursing
-updated: 2026-05-15
+  - psy214-week00-gratitude-and-health-an-updated-review
+  - psy214-week00-the-impact-of-signature-character-strengths-interventions-a
+updated: 2026-06-25
 ---
 
 ## Recreational Dance and Activity Personalization for Well-being
@@ -28,3 +30,5 @@ This synthesis explores interventions designed to improve the health and well-be
 
 - [fxa301-week06-the-effects-of-recreational-dance-interventions-on-the](../sources/fxa301-week06-the-effects-of-recreational-dance-interventions-on-the.md)
 - [fxa303-week13-activity-activity-personalization-and-well-being-in-nursing](../sources/fxa303-week13-activity-activity-personalization-and-well-being-in-nursing.md)
+- [psy214-week00-gratitude-and-health-an-updated-review](../sources/psy214-week00-gratitude-and-health-an-updated-review.md)
+- [psy214-week00-the-impact-of-signature-character-strengths-interventions-a](../sources/psy214-week00-the-impact-of-signature-character-strengths-interventions-a.md)

@@ -27,4 +27,4 @@ The integration of heritage collections into healthcare settings is an innovativ
 
 ## Sources
 
-- [fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-(2)](../sources/fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-(2).md)
+- [fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-(2)](../sources/fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-%282%29.md)

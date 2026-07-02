@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: art-therapy
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Art Therapy
@@ -42,7 +42,6 @@ updated: 2026-05-18
 - [Art Is the Evidence: Convincing Public Communication of Art-Based Research and Its Outcomes](../sources/fxa301-applied-artes-and-health-ch01-2021-graff.md)
 - [Arts in Health: Designing and researching interventions - Neurology](../sources/fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the.md)
 - [Art Therapy and Its Impact on Mood and Emotional States in Pediatric Hematology Oncology Units](../sources/fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in.md)
-- [Art as Therapy](../sources/fxa301-week05-art-as-therapy.md)
 - [Art as Therapy](../sources/fxa301-week05-art-as-therapy.md)
 - [Art-making and Illness - Two Case Studies](../sources/fxa301-week05-art-making-and-illness-two-case-studies.md)
 - [De Botton \u2013 Art is Therapy at the Rijksmuseum](../sources/fxa301-week05-de-botton-art-is-therapy-at-the-rijksmuseum.md)

@@ -29,4 +29,4 @@ The sources discuss the concept of narrative within visual storytelling, emphasi
 ## Sources
 
 - [fxa202-week05-lesson-fxa202-week05-page-4](../sources/fxa202-week05-lesson-fxa202-week05-page-4.md)
-- [fxa202-week06-week-six-lecture-components-of-visual-storytelling-(2)](../sources/fxa202-week06-week-six-lecture-components-of-visual-storytelling-(2).md)
+- [fxa202-week06-week-six-lecture-components-of-visual-storytelling-(2)](../sources/fxa202-week06-week-six-lecture-components-of-visual-storytelling-%282%29.md)

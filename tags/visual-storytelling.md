@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-storytelling
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Visual Storytelling
@@ -23,11 +23,11 @@ updated: 2026-05-18
 - [Becoming a Visual Storyteller](../sources/fxa202-week06-lesson-fxa202-week06-page-2.md)
 - [Visual Storytelling: Crafting Narratives Through Single Images](../sources/fxa202-week06-lesson-fxa202-week06-week-6.md)
 - [Week Six Lecture: Components of Visual Storytelling](../sources/fxa202-week06-week-six-lecture-components-of-visual-storytelling.md)
-- [Week Six Lecture: Components of Visual Storytelling](../sources/fxa202-week06-week-six-lecture-components-of-visual-storytelling-(2).md)
+- [Week Six Lecture: Components of Visual Storytelling](../sources/fxa202-week06-week-six-lecture-components-of-visual-storytelling-%282%29.md)
 - [Week 8 Web Lecture: Editing Your Images](../sources/fxa202-week08-week-8-web-lecture-editing-your-images.md)
 - [Editing Your Photo Essay](../sources/fxa202-week09-lesson-fxa202-week09-chapter-3-creating-your-final-draft.md)
 - [The Largs Pier: A Visual Story of Grief and Healing](../sources/fxa202-week09-the-largs-pier-a-visual-story-of-grief-and-healing.md)
-- [Week 9 Lecture: Editing and Selection for Photo Essays](../sources/fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2).md)
+- [Week 9 Lecture: Editing and Selection for Photo Essays](../sources/fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-%282%29.md)
 - [My daddy and me: Navigating the Japanese gardens at the Royal Tasmania Botanical Gardens](../sources/fxa202-week10-my-daddy-and-me-navigating-the-japanese-gardens-at-the.md)
 - [Exploring the Psychological Impact of Narrative Photography on Audience Engagement](../sources/fxa202-week13-exploring-the-psychological-impact-of-narrative-photography.md)
 - [Smartphone photography training for students of MA Aisyiyah Sungguminasa Gowa: Creating engaging visual content](../sources/fxa202-week13-smartphone-photography-training-for-students-of-ma-aisyiyah.md)

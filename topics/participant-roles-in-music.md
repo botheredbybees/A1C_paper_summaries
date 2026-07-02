@@ -27,4 +27,4 @@ The integration of cultural elements and roles within musical production highlig
 
 ## Sources
 
-- [fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration-(2)](../sources/fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration-(2).md)
+- [fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration-(2)](../sources/fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration-%282%29.md)

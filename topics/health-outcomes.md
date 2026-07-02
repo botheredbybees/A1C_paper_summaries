@@ -50,7 +50,7 @@ The provided sources illustrate the impact of arts-based interventions on health
 - [fxa100-week13-health-benefits-of-physical-activity-a-systematic-review-of](../sources/fxa100-week13-health-benefits-of-physical-activity-a-systematic-review-of.md)
 - [fxa100-week13-measuring-the-care-risk-in-older-adults-with-dementia-a](../sources/fxa100-week13-measuring-the-care-risk-in-older-adults-with-dementia-a.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake](../sources/fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake.md)
-- [fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2).md)
+- [fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-%282%29.md)
 - [fxa301-week01-a-step-by-step-approach-to-the-research-process](../sources/fxa301-week01-a-step-by-step-approach-to-the-research-process.md)
 - [fxa301-week01-lesson-fxa301-week01-page-4-week-3-activities](../sources/fxa301-week01-lesson-fxa301-week01-page-4-week-3-activities.md)
 - [fxa301-week01-the-value-of-arts-and-culture-to-people-and-society-an](../sources/fxa301-week01-the-value-of-arts-and-culture-to-people-and-society-an.md)

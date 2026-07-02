@@ -7,7 +7,8 @@ tags: ["clinical-psychology"]
 sources:
   - fxa100-how-we-thnk-about-dementia-ch06-chapter-3
   - fxa100-week13-psychometric-properties-of-the-beck-depression-inventory
-updated: 2026-05-15
+  - psy214-week00-mindfulness-interventions
+updated: 2026-06-25
 ---
 
 ## Clinical Psychology Assessment Tools
@@ -28,3 +29,4 @@ The provided sources focus on different aspects of clinical psychology assessmen
 
 - [fxa100-how-we-thnk-about-dementia-ch06-chapter-3](../sources/fxa100-how-we-thnk-about-dementia-ch06-chapter-3.md)
 - [fxa100-week13-psychometric-properties-of-the-beck-depression-inventory](../sources/fxa100-week13-psychometric-properties-of-the-beck-depression-inventory.md)
+- [psy214-week00-mindfulness-interventions](../sources/psy214-week00-mindfulness-interventions.md)

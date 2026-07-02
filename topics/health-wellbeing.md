@@ -37,7 +37,7 @@ The provided sources collectively underscore the role of music therapy as an int
 
 - [fxa100-week04-music-as-therapy-and-health-promotion](../sources/fxa100-week04-music-as-therapy-and-health-promotion.md)
 - [fxa100-week04-week-4-activities-fxa100-the-arts-and-dementia-care](../sources/fxa100-week04-week-4-activities-fxa100-the-arts-and-dementia-care.md)
-- [fxa301-oxford-textbook-of-creative-arts-ch02-chapter-11-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch02-chapter-11-(2).md)
+- [fxa301-oxford-textbook-of-creative-arts-ch02-chapter-11-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch02-chapter-11-%282%29.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch08-96-clift](../sources/fxa301-oxford-textbook-of-creative-arts-ch08-96-clift.md)
 - [fxa301-week01-lesson-fxa301-week01-page-2-hm](../sources/fxa301-week01-lesson-fxa301-week01-page-2-hm.md)
 - [fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community](../sources/fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community.md)

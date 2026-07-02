@@ -27,4 +27,4 @@ The sources collectively highlight the importance of community arts promotion as
 
 ## Sources
 
-- [fxa301-make-arts-for-a-better-life-ch22-2-choose-a-master-of-the-genre-(2)](../sources/fxa301-make-arts-for-a-better-life-ch22-2-choose-a-master-of-the-genre-(2).md)
+- [fxa301-make-arts-for-a-better-life-ch22-2-choose-a-master-of-the-genre-(2)](../sources/fxa301-make-arts-for-a-better-life-ch22-2-choose-a-master-of-the-genre-%282%29.md)

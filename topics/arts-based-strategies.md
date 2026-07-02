@@ -31,4 +31,4 @@ The integration of arts-based strategies into mental health support systems show
 
 - [fxa303-week03-supporting-youth-mental-health-with-arts-based-strategies-a](../sources/fxa303-week03-supporting-youth-mental-health-with-arts-based-strategies-a.md)
 - [fxa303-week11-lesson-fxa303-week11-overview](../sources/fxa303-week11-lesson-fxa303-week11-overview.md)
-- [fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a-(2)](../sources/fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a-(2).md)
+- [fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a-(2)](../sources/fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a-%282%29.md)

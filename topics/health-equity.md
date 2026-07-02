@@ -33,7 +33,7 @@ The synthesis of the provided sources underscores how cultural programs and inte
 ## Sources
 
 - [fxa301-music-healt-and-wellbeing-ch05-10680-meymandi](../sources/fxa301-music-healt-and-wellbeing-ch05-10680-meymandi.md)
-- [fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions-(2).md)
+- [fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions-%282%29.md)
 - [fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report](../sources/fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report.md)
 - [fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing](../sources/fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing.md)
 - [fxa303-week11-reimagining-wellbeing-using-arts-based-methods-to-address](../sources/fxa303-week11-reimagining-wellbeing-using-arts-based-methods-to-address.md)

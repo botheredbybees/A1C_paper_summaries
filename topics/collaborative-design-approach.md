@@ -27,4 +27,4 @@ The sources collectively highlight the collaborative design approach as a method
 
 ## Sources
 
-- [fxa301-arts-in-health-ch43-1-collaborative-design-(2)](../sources/fxa301-arts-in-health-ch43-1-collaborative-design-(2).md)
+- [fxa301-arts-in-health-ch43-1-collaborative-design-(2)](../sources/fxa301-arts-in-health-ch43-1-collaborative-design-%282%29.md)

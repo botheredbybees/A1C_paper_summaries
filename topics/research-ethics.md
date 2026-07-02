@@ -32,5 +32,5 @@ The integration of research ethics into arts in health interventions highlights 
 
 - [fxa100-week04-research-ethics-in-arts-in-health-interventions](../sources/fxa100-week04-research-ethics-in-arts-in-health-interventions.md)
 - [fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of](../sources/fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of.md)
-- [fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of-(2)](../sources/fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of-(2).md)
+- [fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of-(2)](../sources/fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of-%282%29.md)
 - [fxa301-week01-research-ethics](../sources/fxa301-week01-research-ethics.md)

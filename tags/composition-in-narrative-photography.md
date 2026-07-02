@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: composition-in-narrative-photography
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Composition In Narrative Photography

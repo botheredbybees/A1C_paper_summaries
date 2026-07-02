@@ -30,5 +30,5 @@ The ethical considerations in therapeutic practices are illuminated through the 
 ## Sources
 
 - [fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography](../sources/fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography.md)
-- [fxa301-week01-making-art-with-communities-a-work-guide-(2)](../sources/fxa301-week01-making-art-with-communities-a-work-guide-(2).md)
+- [fxa301-week01-making-art-with-communities-a-work-guide-(2)](../sources/fxa301-week01-making-art-with-communities-a-work-guide-%282%29.md)
 - [fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness](../sources/fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness.md)

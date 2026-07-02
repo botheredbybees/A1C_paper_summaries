@@ -28,5 +28,5 @@ The integration of photographic practices with health interventions offers a uni
 ## Sources
 
 - [fxa202-week03-week-3-introduction-photography-and-health](../sources/fxa202-week03-week-3-introduction-photography-and-health.md)
-- [fxa202-week08-week-8-lecture-notes-editing-your-images-(3)](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images-(3).md)
+- [fxa202-week08-week-8-lecture-notes-editing-your-images-(3)](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images-%283%29.md)
 - [fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a](../sources/fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a.md)

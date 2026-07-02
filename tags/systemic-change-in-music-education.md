@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: systemic-change-in-music-education
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Systemic Change In Music Education

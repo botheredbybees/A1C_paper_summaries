@@ -29,6 +29,6 @@ The integration of creative activities such as music, expressive writing, and th
 
 ## Sources
 
-- [fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2).md)
+- [fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-%282%29.md)
 - [fxa301-week08-health-related-effects-of-creative-and-expressive-writing](../sources/fxa301-week08-health-related-effects-of-creative-and-expressive-writing.md)
 - [fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective](../sources/fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective.md)

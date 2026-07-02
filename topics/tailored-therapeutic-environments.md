@@ -27,4 +27,4 @@ The concept of tailored therapeutic environments emphasizes the integration of a
 
 ## Sources
 
-- [fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2)](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2).md)
+- [fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2)](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-%282%29.md)

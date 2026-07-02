@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mild-cognitive-impairment
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Mild Cognitive Impairment

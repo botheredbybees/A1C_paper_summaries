@@ -30,5 +30,5 @@ The evaluation of complex interventions in healthcare is a multifaceted process 
 ## Sources
 
 - [fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision](../sources/fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision.md)
-- [fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision-(2)](../sources/fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision-(2).md)
-- [fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37-(2).md)
+- [fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision-(2)](../sources/fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision-%282%29.md)
+- [fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37-%282%29.md)

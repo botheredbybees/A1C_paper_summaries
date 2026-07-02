@@ -29,4 +29,4 @@ The provided sources emphasize the importance of process evaluation in assessing
 ## Sources
 
 - [fxa100-week09-implementing-living-room-theatre-activities-for-people-with](../sources/fxa100-week09-implementing-living-room-theatre-activities-for-people-with.md)
-- [fxa301-arts-in-health-ch67-chapter-6-(2)](../sources/fxa301-arts-in-health-ch67-chapter-6-(2).md)
+- [fxa301-arts-in-health-ch67-chapter-6-(2)](../sources/fxa301-arts-in-health-ch67-chapter-6-%282%29.md)

@@ -35,7 +35,7 @@ The sources collectively underscore drama therapy as a versatile intervention wi
 ## Sources
 
 - [fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it](../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it.md)
-- [fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2)](../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2).md)
+- [fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2)](../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-%282%29.md)
 - [fxa100-week09-people-with-dementia-as-spect-actors-in-a-musical-theatre](../sources/fxa100-week09-people-with-dementia-as-spect-actors-in-a-musical-theatre.md)
 - [fxa100-week09-transcript-youtube-y1uwix2fnv4](../sources/fxa100-week09-transcript-youtube-y1uwix2fnv4.md)
 - [fxa100-week09-web-article-north-2021](../sources/fxa100-week09-web-article-north-2021.md)

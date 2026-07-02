@@ -28,4 +28,4 @@ The provided sources focus on the best practices for creating effective slide la
 ## Sources
 
 - [fxa202-week06-tips-for-making-your-powerpoint-presentation](../sources/fxa202-week06-tips-for-making-your-powerpoint-presentation.md)
-- [fxa202-week06-tips-for-making-your-powerpoint-presentation-(2)](../sources/fxa202-week06-tips-for-making-your-powerpoint-presentation-(2).md)
+- [fxa202-week06-tips-for-making-your-powerpoint-presentation-(2)](../sources/fxa202-week06-tips-for-making-your-powerpoint-presentation-%282%29.md)

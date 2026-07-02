@@ -16,13 +16,14 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
+  - unit: FXA301
 tags: ["music-psychology", "physiological-responses", "health-wellbeing", "fxa301"]
 key_concepts: ["immune system changes", "emotional foundations of music"]
 methods: []
 slug: fxa301-oxford-textbook-of-creative-arts-ch08-96-clift
 related: ["health-wellbeing", "music-psychology", "physiological-responses"]
 created: 2026-05-03
-updated: 2026-05-18
+updated: 2026-06-25
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-oxford-textbook-of-creative-arts-ch08-96-clift.md_

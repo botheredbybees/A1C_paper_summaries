@@ -29,4 +29,4 @@ The provided sources emphasize the multifaceted nature of image editing techniqu
 ## Sources
 
 - [fxa202-week08-lesson-fxa202-week08-page-4](../sources/fxa202-week08-lesson-fxa202-week08-page-4.md)
-- [fxa202-week08-week-8-lecture-notes-editing-your-images-(2)](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images-(2).md)
+- [fxa202-week08-week-8-lecture-notes-editing-your-images-(2)](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images-%282%29.md)

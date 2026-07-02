@@ -32,7 +32,7 @@ This synthesis explores the efficacy and economic impact of arts and creativity 
 ## Sources
 
 - [fxa100-week04-arts-and-creativity-interventions-for-improving-health-and](../sources/fxa100-week04-arts-and-creativity-interventions-for-improving-health-and.md)
-- [fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2)](../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2).md)
+- [fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2)](../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-%282%29.md)
 - [fxa100-week11-dance-for-lifelong-wellbeing-research-findings-2017](../sources/fxa100-week11-dance-for-lifelong-wellbeing-research-findings-2017.md)
 - [fxa100-week13-2018-alzheimers-disease-facts-and-figures](../sources/fxa100-week13-2018-alzheimers-disease-facts-and-figures.md)
 - [fxa303-week13-intervention-and-application-of-clown-care-in-nursing-homes](../sources/fxa303-week13-intervention-and-application-of-clown-care-in-nursing-homes.md)

@@ -27,4 +27,4 @@ Emergent design is a fluid, responsive methodology within arts and health that e
 ## Sources
 
 - [fxa301-applied-artes-and-health-ch03-85-ulrich](../sources/fxa301-applied-artes-and-health-ch03-85-ulrich.md)
-- [fxa301-applied-artes-and-health-ch03-85-ulrich-(2)](../sources/fxa301-applied-artes-and-health-ch03-85-ulrich-(2).md)
+- [fxa301-applied-artes-and-health-ch03-85-ulrich-(2)](../sources/fxa301-applied-artes-and-health-ch03-85-ulrich-%282%29.md)

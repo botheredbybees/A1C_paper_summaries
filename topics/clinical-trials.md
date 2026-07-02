@@ -31,6 +31,6 @@ The analysis of risk of bias (RoB) is crucial for evaluating the validity and re
 ## Sources
 
 - [fxa100-week13-a-pilot-randomized-controlled-clinical-trial-of-dance](../sources/fxa100-week13-a-pilot-randomized-controlled-clinical-trial-of-dance.md)
-- [fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-(2)](../sources/fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-(2).md)
+- [fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-(2)](../sources/fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-%282%29.md)
 - [fxa301-week01-the-rationale-for-rating-risk-of-bias-should-be-fully](../sources/fxa301-week01-the-rationale-for-rating-risk-of-bias-should-be-fully.md)
 - [fxa303-week13-pharmacotherapies-for-sleep-disturbances-in-dementia](../sources/fxa303-week13-pharmacotherapies-for-sleep-disturbances-in-dementia.md)

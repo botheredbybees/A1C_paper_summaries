@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: human-research-ethics-committees-hrecs
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Human Research Ethics Committees Hrecs

@@ -6,11 +6,12 @@ sources:
   - fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow
   - fxa301-week02-university-students-strong-experiences-of-music-pleasure
   - fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and
+  - psy214-week00-gratitude-and-health-an-updated-review
 tags:
 - positive-psychology
 title: Positive Psychology and Resilience
 type: topic
-updated: 2026-05-11
+updated: 2026-06-25
 ---
 
 ## Positive Psychology and Resilience
@@ -32,3 +33,4 @@ Positive psychology focuses on fostering resilience and well-being through the d
 - [fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow](../sources/fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow.md)
 - [fxa301-week02-university-students-strong-experiences-of-music-pleasure](../sources/fxa301-week02-university-students-strong-experiences-of-music-pleasure.md)
 - [fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and](../sources/fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and.md)
+- [psy214-week00-gratitude-and-health-an-updated-review](../sources/psy214-week00-gratitude-and-health-an-updated-review.md)

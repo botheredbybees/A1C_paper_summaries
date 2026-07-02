@@ -26,5 +26,5 @@ Both sources emphasize the transformative power of arts-based interventions in a
 
 ## Sources
 
-- [fxa301-week01-making-art-with-communities-a-work-guide-(2)](../sources/fxa301-week01-making-art-with-communities-a-work-guide-(2).md)
+- [fxa301-week01-making-art-with-communities-a-work-guide-(2)](../sources/fxa301-week01-making-art-with-communities-a-work-guide-%282%29.md)
 - [fxa303-week11-reimagining-wellbeing-using-arts-based-methods-to-address](../sources/fxa303-week11-reimagining-wellbeing-using-arts-based-methods-to-address.md)

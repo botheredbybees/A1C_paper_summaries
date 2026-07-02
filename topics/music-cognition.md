@@ -29,4 +29,4 @@ The exploration of music cognition through various sources reveals the intricate
 ## Sources
 
 - [fxa100-week13-hearing-what-the-body-feels-auditory-encoding-of-rhythmic](../sources/fxa100-week13-hearing-what-the-body-feels-auditory-encoding-of-rhythmic.md)
-- [fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2).md)
+- [fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-%282%29.md)

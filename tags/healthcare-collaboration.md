@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: healthcare-collaboration
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Healthcare Collaboration

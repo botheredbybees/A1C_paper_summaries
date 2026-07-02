@@ -37,7 +37,7 @@ The field of elder care interventions encompasses a variety of approaches aimed 
 - [fxa100-week01-dementia-facts-and-figures](../sources/fxa100-week01-dementia-facts-and-figures.md)
 - [fxa100-week09-in-my-fathers-words-review-sophisticated-dementia-drama](../sources/fxa100-week09-in-my-fathers-words-review-sophisticated-dementia-drama.md)
 - [fxa301-applied-artes-and-health-ch03-85-ulrich](../sources/fxa301-applied-artes-and-health-ch03-85-ulrich.md)
-- [fxa301-applied-artes-and-health-ch03-85-ulrich-(2)](../sources/fxa301-applied-artes-and-health-ch03-85-ulrich-(2).md)
+- [fxa301-applied-artes-and-health-ch03-85-ulrich-(2)](../sources/fxa301-applied-artes-and-health-ch03-85-ulrich-%282%29.md)
 - [fxa301-week06-engaging-with-music-and-dance](../sources/fxa301-week06-engaging-with-music-and-dance.md)
 - [fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns](../sources/fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns.md)
 - [fxa303-week13-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns](../sources/fxa303-week13-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns.md)

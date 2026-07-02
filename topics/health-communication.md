@@ -27,5 +27,5 @@ The topic of health communication within dementia care involves various approach
 
 ## Sources
 
-- [fxa100-week04-dementia-discourse-a-rethink-(2)](../sources/fxa100-week04-dementia-discourse-a-rethink-(2).md)
+- [fxa100-week04-dementia-discourse-a-rethink-(2)](../sources/fxa100-week04-dementia-discourse-a-rethink-%282%29.md)
 - [fxa202-week10-fxa202-week-10-web-lecture](../sources/fxa202-week10-fxa202-week-10-web-lecture.md)

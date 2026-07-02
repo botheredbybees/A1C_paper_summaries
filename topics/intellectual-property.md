@@ -27,4 +27,4 @@ The integration of arts into healthcare projects necessitates a careful consider
 
 ## Sources
 
-- [fxa301-arts-in-health-ch44-1-the-artist-(2)](../sources/fxa301-arts-in-health-ch44-1-the-artist-(2).md)
+- [fxa301-arts-in-health-ch44-1-the-artist-(2)](../sources/fxa301-arts-in-health-ch44-1-the-artist-%282%29.md)

@@ -26,4 +26,4 @@ The studies highlight the significance of fine arts participation for individual
 ## Sources
 
 - [fxa301-week11-fine-arts-participation-self-determination-and-locus-of](../sources/fxa301-week11-fine-arts-participation-self-determination-and-locus-of.md)
-- [fxa301-week11-fine-arts-participation-self-determination-and-locus-of-(2)](../sources/fxa301-week11-fine-arts-participation-self-determination-and-locus-of-(2).md)
+- [fxa301-week11-fine-arts-participation-self-determination-and-locus-of-(2)](../sources/fxa301-week11-fine-arts-participation-self-determination-and-locus-of-%282%29.md)

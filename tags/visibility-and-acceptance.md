@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visibility-and-acceptance
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Visibility And Acceptance

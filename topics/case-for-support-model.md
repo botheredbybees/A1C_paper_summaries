@@ -27,4 +27,4 @@ The Case-for-Support Model and the Collaborative-Design Approach are pivotal fra
 
 ## Sources
 
-- [fxa301-arts-in-health-ch43-1-collaborative-design-(2)](../sources/fxa301-arts-in-health-ch43-1-collaborative-design-(2).md)
+- [fxa301-arts-in-health-ch43-1-collaborative-design-(2)](../sources/fxa301-arts-in-health-ch43-1-collaborative-design-%282%29.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: well-being-research
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Well Being Research
@@ -12,3 +12,4 @@ updated: 2026-05-18
 - [Research and Evidence in Arts, Health and Well-Being](../sources/fxa202-week10-research-and-evidence-in-arts-health-and-well-being.md)
 - [Different but Connected: Participatory Action Research Using Photovoice to Explore Well-being in Autistic Young Adults](../sources/fxa202-week13-different-but-connected-participatory-action-research-using.md)
 - [A Music and Health Perspective on Music's Perceived \u2018Goodness\u2019](../sources/fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness.md)
+- [Happy to help? A systematic review and meta-analysis of the effects of performing acts of kindness on the well-being of the actor](../sources/psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the.md)

@@ -29,6 +29,6 @@ Thematic analysis is a crucial methodological approach in arts and health resear
 
 ## Sources
 
-- [fxa301-arts-in-health-ch29-4-invite-open-responses-(2)](../sources/fxa301-arts-in-health-ch29-4-invite-open-responses-(2).md)
+- [fxa301-arts-in-health-ch29-4-invite-open-responses-(2)](../sources/fxa301-arts-in-health-ch29-4-invite-open-responses-%282%29.md)
 - [fxa301-week01-web-article-australia-2022](../sources/fxa301-week01-web-article-australia-2022.md)
 - [fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and](../sources/fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and.md)

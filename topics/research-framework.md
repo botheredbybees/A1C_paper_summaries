@@ -29,4 +29,4 @@ The Aesop framework presented across these sources aims to standardize the devel
 ## Sources
 
 - [fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in](../sources/fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in.md)
-- [fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(2)](../sources/fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(2).md)
+- [fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(2)](../sources/fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-%282%29.md)

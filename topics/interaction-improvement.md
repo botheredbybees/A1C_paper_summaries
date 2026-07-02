@@ -27,4 +27,4 @@ The study 'Implementing Living Room Theatre Activities for People with Dementia 
 
 ## Sources
 
-- [fxa100-week09-implementing-living-room-theatre-activities-for-people-with-(2)](../sources/fxa100-week09-implementing-living-room-theatre-activities-for-people-with-(2).md)
+- [fxa100-week09-implementing-living-room-theatre-activities-for-people-with-(2)](../sources/fxa100-week09-implementing-living-room-theatre-activities-for-people-with-%282%29.md)

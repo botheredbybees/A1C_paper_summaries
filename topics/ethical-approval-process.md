@@ -27,4 +27,4 @@ The ethical approval process is a critical component of any research protocol, e
 
 ## Sources
 
-- [fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production-(2)](../sources/fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production-(2).md)
+- [fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production-(2)](../sources/fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production-%282%29.md)

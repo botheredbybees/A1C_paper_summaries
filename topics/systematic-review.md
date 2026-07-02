@@ -39,11 +39,13 @@ sources:
   - fxa303-week13-organisational-interventions-for-preventing-and-minimising
   - fxa303-week13-the-delivery-of-person-centered-care-for-people-living-with
   - fxa303-week13-therapeutic-clowns-in-pediatrics-a-systematic-review-and
+  - psy214-week00-creative-arts-interventions-for-stress-management-and
+  - psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the
 tags:
 - systematic-review
 title: Systematic Reviews of Arts-Based Interventions
 type: topic
-updated: 2026-05-15
+updated: 2026-06-25
 ---
 
 ## Systematic Reviews of Arts-Based Interventions
@@ -73,7 +75,7 @@ The systematic reviews examined here cover a range of arts-based interventions a
 - [fxa100-week13-health-benefits-of-physical-activity-a-systematic-review-of](../sources/fxa100-week13-health-benefits-of-physical-activity-a-systematic-review-of.md)
 - [fxa202-week13-therapeutic-benefits-and-limitations-of-participatory](../sources/fxa202-week13-therapeutic-benefits-and-limitations-of-participatory.md)
 - [fxa301-week01-rating-the-quality-of-a-body-of-evidence-on-the](../sources/fxa301-week01-rating-the-quality-of-a-body-of-evidence-on-the.md)
-- [fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-(2)](../sources/fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-(2).md)
+- [fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-(2)](../sources/fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-%282%29.md)
 - [fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing](../sources/fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing.md)
 - [fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older](../sources/fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older.md)
 - [fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention](../sources/fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention.md)
@@ -98,3 +100,5 @@ The systematic reviews examined here cover a range of arts-based interventions a
 - [fxa303-week13-organisational-interventions-for-preventing-and-minimising](../sources/fxa303-week13-organisational-interventions-for-preventing-and-minimising.md)
 - [fxa303-week13-the-delivery-of-person-centered-care-for-people-living-with](../sources/fxa303-week13-the-delivery-of-person-centered-care-for-people-living-with.md)
 - [fxa303-week13-therapeutic-clowns-in-pediatrics-a-systematic-review-and](../sources/fxa303-week13-therapeutic-clowns-in-pediatrics-a-systematic-review-and.md)
+- [psy214-week00-creative-arts-interventions-for-stress-management-and](../sources/psy214-week00-creative-arts-interventions-for-stress-management-and.md)
+- [psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the](../sources/psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the.md)

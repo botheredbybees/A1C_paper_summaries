@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: health-outcomes
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Health Outcomes
@@ -12,7 +12,7 @@ updated: 2026-05-18
 - [Health benefits of physical activity: a systematic review of current systematic reviews](../sources/fxa100-week13-health-benefits-of-physical-activity-a-systematic-review-of.md)
 - [Measuring the care risk in older adults with dementia: a scoping review](../sources/fxa100-week13-measuring-the-care-risk-in-older-adults-with-dementia-a.md)
 - [The Impact of Cultural Activities on Health and Survival](../sources/fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake.md)
-- [The Influence of Cultural Activities and Music on Health](../sources/fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2).md)
+- [The Influence of Cultural Activities and Music on Health](../sources/fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-%282%29.md)
 - [A step-by-step approach to the research process](../sources/fxa301-week01-a-step-by-step-approach-to-the-research-process.md)
 - [FXA301 Arts in the Community Week 4 Activities](../sources/fxa301-week01-lesson-fxa301-week01-page-4-week-3-activities.md)
 - [The Value of Arts and Culture to People and Society: An Evidence Review](../sources/fxa301-week01-the-value-of-arts-and-culture-to-people-and-society-an.md)

@@ -11,7 +11,7 @@ tags: ["college-students", "fxa202", "mental-health-interventions", "phototherap
 key_concepts: ["self-compassion", "emotional-well-being"]
 methods: ["quasi-experimental-design"]
 slug: fxa202-week13-phototherapy-to-increase-self-compassion-in-college-students
-related: ["mental-health-interventions", "phototherapy"]
+related: ["mental-health-interventions", "phototherapy", "self-compassion"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -42,3 +42,4 @@ This study examines the effect of phototherapy on increasing self-compassion amo
 
 - [mental-health-interventions](../topics/mental-health-interventions.md)
 - [phototherapy](../topics/phototherapy.md)
+- [self-compassion](../topics/self-compassion.md)

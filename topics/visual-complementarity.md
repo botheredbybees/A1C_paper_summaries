@@ -26,4 +26,4 @@ The concept of visual complementarity is explored through the lens of editing an
 
 ## Sources
 
-- [fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2)](../sources/fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2).md)
+- [fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2)](../sources/fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-%282%29.md)

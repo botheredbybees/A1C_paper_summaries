@@ -27,4 +27,4 @@ The synthesis of the provided sources highlights the interdisciplinary nature of
 
 ## Sources
 
-- [fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2)](../sources/fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2).md)
+- [fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2)](../sources/fxa301-make-arts-for-a-better-life-ch42-156-oxford-%282%29.md)

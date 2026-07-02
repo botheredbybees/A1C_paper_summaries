@@ -27,4 +27,4 @@ The impact of frontotemporal dementia on visual creativity is a compelling topic
 
 ## Sources
 
-- [fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia-(2)](../sources/fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia-(2).md)
+- [fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia-(2)](../sources/fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia-%282%29.md)

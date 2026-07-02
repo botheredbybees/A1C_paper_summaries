@@ -28,4 +28,4 @@ Arts-informed research emerges as a valuable method for studying the experiences
 ## Sources
 
 - [fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to](../sources/fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to.md)
-- [fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to-(2)](../sources/fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to-(2).md)
+- [fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to-(2)](../sources/fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to-%282%29.md)

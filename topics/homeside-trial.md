@@ -29,4 +29,4 @@ The integration of music and music therapy within dementia care pathways is posi
 ## Sources
 
 - [fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for](../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for.md)
-- [fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-(2)](../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-(2).md)
+- [fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-(2)](../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-%282%29.md)

@@ -25,7 +25,7 @@ This document outlines the history and significance of the AIDS Memorial Quilt, 
 ## Key Concepts
 
 - [AIDS Memorial Quilt](../topics/aids-memorial-quilt.md)
-- [AIDS awareness](HIV/AIDS awareness.md)
+- [AIDS awareness](../topics/AIDS awareness.md)
 
 ## Tags
 

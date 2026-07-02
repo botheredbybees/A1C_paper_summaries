@@ -171,7 +171,7 @@ The integration of music therapy across various neurological conditions undersco
 - [fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care](../sources/fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care.md)
 - [fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care](../sources/fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care.md)
 - [fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for](../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for.md)
-- [fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-(2)](../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-(2).md)
+- [fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-(2)](../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-%282%29.md)
 - [fxa100-week04-intergenerational-choir-transcript](../sources/fxa100-week04-intergenerational-choir-transcript.md)
 - [fxa100-week04-lesson-fxa100-week04-page-1-welcome-to-week-4](../sources/fxa100-week04-lesson-fxa100-week04-page-1-welcome-to-week-4.md)
 - [fxa100-week04-lesson-fxa100-week04-page-2-music-therapy-benefits](../sources/fxa100-week04-lesson-fxa100-week04-page-2-music-therapy-benefits.md)

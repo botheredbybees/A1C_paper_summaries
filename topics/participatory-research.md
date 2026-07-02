@@ -28,5 +28,5 @@ The integration of community-based participatory arts activities offers a robust
 ## Sources
 
 - [fxa100-week11-the-benefits-of-community-based-participatory-arts](../sources/fxa100-week11-the-benefits-of-community-based-participatory-arts.md)
-- [fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-(2).md)
+- [fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-%282%29.md)
 - [fxa303-week13-improving-collaboration-between-staff-family-members-and](../sources/fxa303-week13-improving-collaboration-between-staff-family-members-and.md)

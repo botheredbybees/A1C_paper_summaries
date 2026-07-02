@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cross-cultural-dialogue
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Cross Cultural Dialogue

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: non-profit-strategy
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Non Profit Strategy

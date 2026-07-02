@@ -27,4 +27,4 @@ The concept of illness metaphors in dementia discourse highlights the importance
 
 ## Sources
 
-- [fxa100-week04-dementia-discourse-a-rethink-(2)](../sources/fxa100-week04-dementia-discourse-a-rethink-(2).md)
+- [fxa100-week04-dementia-discourse-a-rethink-(2)](../sources/fxa100-week04-dementia-discourse-a-rethink-%282%29.md)

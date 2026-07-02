@@ -28,7 +28,7 @@ The concept of inclusivity is examined across multiple contexts within the arts 
 
 ## Sources
 
-- [fxa301-week01-making-art-with-communities-a-work-guide-(3)](../sources/fxa301-week01-making-art-with-communities-a-work-guide-(3).md)
+- [fxa301-week01-making-art-with-communities-a-work-guide-(3)](../sources/fxa301-week01-making-art-with-communities-a-work-guide-%283%29.md)
 - [fxa301-week11-choose-art](../sources/fxa301-week11-choose-art.md)
 - [fxa301-week11-glossary-choose-art](../sources/fxa301-week11-glossary-choose-art.md)
 - [fxa303-week11-inclusive-communication-with-lgbtiq-clients](../sources/fxa303-week11-inclusive-communication-with-lgbtiq-clients.md)

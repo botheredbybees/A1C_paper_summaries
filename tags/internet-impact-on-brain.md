@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: internet-impact-on-brain
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Internet Impact On Brain

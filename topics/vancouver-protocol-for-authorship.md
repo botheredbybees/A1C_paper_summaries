@@ -27,4 +27,4 @@ The Vancouver Protocol for authorship provides a framework for the contribution 
 
 ## Sources
 
-- [fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of-(2)](../sources/fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of-(2).md)
+- [fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of-(2)](../sources/fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of-%282%29.md)

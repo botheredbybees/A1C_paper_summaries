@@ -30,7 +30,7 @@ Cultural activities have been shown to significantly impact health and well-bein
 
 ## Sources
 
-- [fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35-(2).md)
+- [fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35-%282%29.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake](../sources/fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake.md)
-- [fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2).md)
+- [fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-%282%29.md)
 - [fxa303-week11-arts-and-cultural-engagement-reportedly-antisocial-or](../sources/fxa303-week11-arts-and-cultural-engagement-reportedly-antisocial-or.md)

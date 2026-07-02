@@ -7,11 +7,15 @@ sources:
   - fxa303-week04-play-based-interventions-for-mental-health-a-systematic
   - fxa303-week09-effectiveness-of-creative-arts-based-interventions-for
   - fxa303-week09-exploring-child-centered-play-therapy-and-trauma-a
+  - psy214-week00-diet-and-depression-exploring-the-biological-mechanisms-of
+  - psy214-week00-gratitude-and-health-an-updated-review
+  - psy214-week00-physical-activity-and-depression-towards-understanding-the
+  - psy214-week00-the-effects-of-loving-kindness-interventions-on-positive
 tags:
 - mental-health-outcomes
 title: Creative Arts and Play-Based Interventions for Mental Health
 type: topic
-updated: 2026-05-11
+updated: 2026-06-25
 ---
 
 ## Creative Arts and Play-Based Interventions for Mental Health
@@ -34,3 +38,7 @@ The integration of creative arts and play-based interventions has shown promisin
 - [fxa303-week04-play-based-interventions-for-mental-health-a-systematic](../sources/fxa303-week04-play-based-interventions-for-mental-health-a-systematic.md)
 - [fxa303-week09-effectiveness-of-creative-arts-based-interventions-for](../sources/fxa303-week09-effectiveness-of-creative-arts-based-interventions-for.md)
 - [fxa303-week09-exploring-child-centered-play-therapy-and-trauma-a](../sources/fxa303-week09-exploring-child-centered-play-therapy-and-trauma-a.md)
+- [psy214-week00-diet-and-depression-exploring-the-biological-mechanisms-of](../sources/psy214-week00-diet-and-depression-exploring-the-biological-mechanisms-of.md)
+- [psy214-week00-gratitude-and-health-an-updated-review](../sources/psy214-week00-gratitude-and-health-an-updated-review.md)
+- [psy214-week00-physical-activity-and-depression-towards-understanding-the](../sources/psy214-week00-physical-activity-and-depression-towards-understanding-the.md)
+- [psy214-week00-the-effects-of-loving-kindness-interventions-on-positive](../sources/psy214-week00-the-effects-of-loving-kindness-interventions-on-positive.md)

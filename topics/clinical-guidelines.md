@@ -7,7 +7,8 @@ tags: ["clinical-guidelines"]
 sources:
   - fxa301-week01-grade-an-emerging-consensus-on-rating-quality-of-evidence
   - fxa303-week13-practical-recommendations-for-timely-accurate-diagnosis-of
-updated: 2026-05-15
+  - psy214-week00-clinical-guidelines-for-the-use-of-lifestyle-based-mental
+updated: 2026-06-25
 ---
 
 ## Clinical Guidelines
@@ -28,3 +29,4 @@ The development and implementation of clinical guidelines are critical in provid
 
 - [fxa301-week01-grade-an-emerging-consensus-on-rating-quality-of-evidence](../sources/fxa301-week01-grade-an-emerging-consensus-on-rating-quality-of-evidence.md)
 - [fxa303-week13-practical-recommendations-for-timely-accurate-diagnosis-of](../sources/fxa303-week13-practical-recommendations-for-timely-accurate-diagnosis-of.md)
+- [psy214-week00-clinical-guidelines-for-the-use-of-lifestyle-based-mental](../sources/psy214-week00-clinical-guidelines-for-the-use-of-lifestyle-based-mental.md)

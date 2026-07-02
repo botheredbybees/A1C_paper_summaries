@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: laughter-as-a-therapeutic-tool
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Laughter As A Therapeutic Tool

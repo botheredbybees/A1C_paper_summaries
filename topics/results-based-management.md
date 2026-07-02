@@ -28,4 +28,4 @@ The sources collectively discuss the application of Results-Based Management (RB
 ## Sources
 
 - [fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals](../sources/fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals.md)
-- [fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals-(2)](../sources/fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals-(2).md)
+- [fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals-(2)](../sources/fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals-%282%29.md)

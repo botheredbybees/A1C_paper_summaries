@@ -27,4 +27,4 @@ Arts-based health research presents a unique set of ethical issues that traditio
 
 ## Sources
 
-- [fxa301-oxford-textbook-of-creative-arts-ch02-chapter-11-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch02-chapter-11-(2).md)
+- [fxa301-oxford-textbook-of-creative-arts-ch02-chapter-11-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch02-chapter-11-%282%29.md)

@@ -41,7 +41,7 @@ Applied theatre emerges as an intervention that leverages the transformative pow
 - [fxa100-week09-lesson-fxa100-week09-page-2-dance-therapy-drama-therapy](../sources/fxa100-week09-lesson-fxa100-week09-page-2-dance-therapy-drama-therapy.md)
 - [fxa100-week09-transcript-applied-theatre-tdfs-theatre-dictionary-defining](../sources/fxa100-week09-transcript-applied-theatre-tdfs-theatre-dictionary-defining.md)
 - [fxa301-applied-artes-and-health-ch03-85-ulrich](../sources/fxa301-applied-artes-and-health-ch03-85-ulrich.md)
-- [fxa301-applied-artes-and-health-ch03-85-ulrich-(2)](../sources/fxa301-applied-artes-and-health-ch03-85-ulrich-(2).md)
+- [fxa301-applied-artes-and-health-ch03-85-ulrich-(2)](../sources/fxa301-applied-artes-and-health-ch03-85-ulrich-%282%29.md)
 - [fxa301-week08-lesson-fxa301-week07-page-1](../sources/fxa301-week08-lesson-fxa301-week07-page-1.md)
 - [fxa301-week08-web-article-sextou-2017](../sources/fxa301-week08-web-article-sextou-2017.md)
 - [fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare](../sources/fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: applied-theatre
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Applied Theatre
@@ -11,7 +11,7 @@ updated: 2026-05-18
 - [Dramatherapy, Dance Therapy and Applied Theatre](../sources/fxa100-week09-lesson-fxa100-week09-page-2-dance-therapy-drama-therapy.md)
 - [Transcript: Applied Theatre -- TDF's Theatre Dictionary -- Defining Theatre Terms](../sources/fxa100-week09-transcript-applied-theatre-tdfs-theatre-dictionary-defining.md)
 - [Becoming Our Story: Emergent Design through Affect](../sources/fxa301-applied-artes-and-health-ch03-85-ulrich.md)
-- [Building Bridges Across Arts and Health](../sources/fxa301-applied-artes-and-health-ch03-85-ulrich-(2).md)
+- [Building Bridges Across Arts and Health](../sources/fxa301-applied-artes-and-health-ch03-85-ulrich-%282%29.md)
 - [Engaging with Theatre and Creative Writing](../sources/fxa301-week08-lesson-fxa301-week07-page-1.md)
 - [Drama Is for Life! Recreational Drama Activities for the Elderly in the UK](../sources/fxa301-week08-web-article-sextou-2017.md)
 - [Applied theatre, puppetry and emotional skills in healthcare: A cross-disciplinary pedagogical framework](../sources/fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare.md)

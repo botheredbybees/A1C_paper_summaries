@@ -30,5 +30,5 @@ The integration of multidisciplinary approaches in the study of migration and cu
 ## Sources
 
 - [fxa303-week10-researching-arts-culture-migration-and-change-a-multi](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi.md)
-- [fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2).md)
-- [fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3).md)
+- [fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi-%282%29.md)
+- [fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi-%283%29.md)

@@ -46,7 +46,7 @@ The concept of arts therapy is explored across several sources, highlighting its
 - [fxa100-week04-guidelines-for-arts-and-mental-health-projects](../sources/fxa100-week04-guidelines-for-arts-and-mental-health-projects.md)
 - [fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of](../sources/fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of.md)
 - [fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales](../sources/fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales.md)
-- [fxa301-applied-artes-and-health-ch03-85-ulrich-(2)](../sources/fxa301-applied-artes-and-health-ch03-85-ulrich-(2).md)
+- [fxa301-applied-artes-and-health-ch03-85-ulrich-(2)](../sources/fxa301-applied-artes-and-health-ch03-85-ulrich-%282%29.md)
 - [fxa301-week01-arts-on-prescription-in-sefton-programme-report](../sources/fxa301-week01-arts-on-prescription-in-sefton-programme-report.md)
 - [fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and](../sources/fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and.md)
 - [fxa301-week10-arts-based-therapies-in-the-treatment-of-eating-disorders](../sources/fxa301-week10-arts-based-therapies-in-the-treatment-of-eating-disorders.md)

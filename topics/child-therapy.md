@@ -33,6 +33,6 @@ The synthesis of the provided sources highlights Child-Centered Play Therapy (CC
 
 - [fxa303-week04-brief-report-emotion-regulation-in-autism-is-improved-in-a](../sources/fxa303-week04-brief-report-emotion-regulation-in-autism-is-improved-in-a.md)
 - [fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves](../sources/fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves.md)
-- [fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)](../sources/fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2).md)
+- [fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)](../sources/fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-%282%29.md)
 - [fxa303-week04-intensive-child-centered-play-therapy-for-children-on-the](../sources/fxa303-week04-intensive-child-centered-play-therapy-for-children-on-the.md)
 - [fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children](../sources/fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children.md)

@@ -31,4 +31,4 @@ The discourse on international migration encompasses both health and social dime
 
 - [fxa303-week10-health-and-well-being-of-male-international-migrants-and](../sources/fxa303-week10-health-and-well-being-of-male-international-migrants-and.md)
 - [fxa303-week10-researching-arts-culture-migration-and-change-a-multi](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi.md)
-- [fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2).md)
+- [fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi-%282%29.md)

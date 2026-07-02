@@ -27,4 +27,4 @@ The provided source highlights the use of descriptive statistics in summarizing 
 
 ## Sources
 
-- [fxa301-arts-in-health-ch29-4-invite-open-responses-(2)](../sources/fxa301-arts-in-health-ch29-4-invite-open-responses-(2).md)
+- [fxa301-arts-in-health-ch29-4-invite-open-responses-(2)](../sources/fxa301-arts-in-health-ch29-4-invite-open-responses-%282%29.md)

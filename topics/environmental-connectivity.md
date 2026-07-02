@@ -29,4 +29,4 @@ The concept of environmental connectivity in therapy is explored through various
 ## Sources
 
 - [fxa202-week08-week-8-lecture-notes-editing-your-images](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images.md)
-- [fxa303-week09-the-afloat-project-(2)](../sources/fxa303-week09-the-afloat-project-(2).md)
+- [fxa303-week09-the-afloat-project-(2)](../sources/fxa303-week09-the-afloat-project-%282%29.md)

@@ -29,6 +29,6 @@ The application of play therapy in treating autism spectrum disorder (ASD) encom
 
 ## Sources
 
-- [fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)](../sources/fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2).md)
+- [fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)](../sources/fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-%282%29.md)
 - [fxa303-week04-play-interventions-for-neurodivergent-children-and](../sources/fxa303-week04-play-interventions-for-neurodivergent-children-and.md)
 - [fxa303-week04-play-therapy-in-children-with-autism-its-role-implications](../sources/fxa303-week04-play-therapy-in-children-with-autism-its-role-implications.md)

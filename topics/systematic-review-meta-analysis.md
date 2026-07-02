@@ -6,11 +6,12 @@ sources:
   - fxa100-week03-association-of-music-interventions-with-health-related
   - fxa303-week04-play-based-interventions-for-mental-health-a-systematic
   - fxa303-week09-effectiveness-of-creative-arts-based-interventions-for
+  - psy214-week00-the-effects-of-loving-kindness-interventions-on-positive
 tags:
 - systematic-review-meta-analysis
 title: Systematic Reviews and Meta-Analyses of Creative Interventions
 type: topic
-updated: 2026-05-11
+updated: 2026-06-25
 ---
 
 ## Systematic Reviews and Meta-Analyses of Creative Interventions
@@ -32,3 +33,4 @@ Three systematic reviews and meta-analyses highlight the effectiveness of creati
 - [fxa100-week03-association-of-music-interventions-with-health-related](../sources/fxa100-week03-association-of-music-interventions-with-health-related.md)
 - [fxa303-week04-play-based-interventions-for-mental-health-a-systematic](../sources/fxa303-week04-play-based-interventions-for-mental-health-a-systematic.md)
 - [fxa303-week09-effectiveness-of-creative-arts-based-interventions-for](../sources/fxa303-week09-effectiveness-of-creative-arts-based-interventions-for.md)
+- [psy214-week00-the-effects-of-loving-kindness-interventions-on-positive](../sources/psy214-week00-the-effects-of-loving-kindness-interventions-on-positive.md)

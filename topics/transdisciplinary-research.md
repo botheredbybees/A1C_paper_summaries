@@ -29,4 +29,4 @@ The sources highlight the challenges and opportunities inherent in conducting tr
 ## Sources
 
 - [fxa303-week10-researching-arts-culture-migration-and-change-a-multi](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi.md)
-- [fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2).md)
+- [fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi-%282%29.md)

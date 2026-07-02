@@ -29,4 +29,4 @@ The sources explore the efficacy of Child-Centered Play Therapy (CCPT) combined 
 ## Sources
 
 - [fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves](../sources/fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves.md)
-- [fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)](../sources/fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2).md)
+- [fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)](../sources/fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-%282%29.md)

@@ -27,4 +27,4 @@ The concept of self-therapy emerges from the notion that individuals can engage 
 
 ## Sources
 
-- [fxa202-week08-week-8-lecture-notes-editing-your-images-(3)](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images-(3).md)
+- [fxa202-week08-week-8-lecture-notes-editing-your-images-(3)](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images-%283%29.md)

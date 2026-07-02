@@ -27,4 +27,4 @@ The provided sources emphasize the importance of ethical guidelines in arts-in-h
 
 ## Sources
 
-- [fxa301-arts-in-health-ch44-1-the-artist-(2)](../sources/fxa301-arts-in-health-ch44-1-the-artist-(2).md)
+- [fxa301-arts-in-health-ch44-1-the-artist-(2)](../sources/fxa301-arts-in-health-ch44-1-the-artist-%282%29.md)

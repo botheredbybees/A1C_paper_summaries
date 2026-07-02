@@ -27,4 +27,4 @@ The provided sources emphasize the importance of ethical considerations in data 
 
 ## Sources
 
-- [fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of-(2)](../sources/fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of-(2).md)
+- [fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of-(2)](../sources/fxa301-arts-in-health-ch78-1-conception-and-design-or-analysis-and-interpretation-of-%282%29.md)

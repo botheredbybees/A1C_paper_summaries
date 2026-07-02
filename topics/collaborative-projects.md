@@ -30,5 +30,5 @@ The synthesis of collaborative art projects highlights the transformative power 
 ## Sources
 
 - [fxa301-week01-making-art-with-communities-a-work-guide](../sources/fxa301-week01-making-art-with-communities-a-work-guide.md)
-- [fxa301-week01-making-art-with-communities-a-work-guide-(3)](../sources/fxa301-week01-making-art-with-communities-a-work-guide-(3).md)
+- [fxa301-week01-making-art-with-communities-a-work-guide-(3)](../sources/fxa301-week01-making-art-with-communities-a-work-guide-%283%29.md)
 - [fxa301-week11-artistic-representations-of-refugees-what-is-the-role-of](../sources/fxa301-week11-artistic-representations-of-refugees-what-is-the-role-of.md)

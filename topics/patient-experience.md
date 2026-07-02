@@ -32,7 +32,7 @@ The exploration of various healthcare interventions aimed at enhancing the quali
 ## Sources
 
 - [fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative](../sources/fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative.md)
-- [fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative-(2)](../sources/fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative-(2).md)
+- [fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative-(2)](../sources/fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative-%282%29.md)
 - [fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and](../sources/fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and.md)
 - [fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults](../sources/fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults.md)
 - [fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent](../sources/fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent.md)

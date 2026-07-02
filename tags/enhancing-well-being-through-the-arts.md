@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: enhancing-well-being-through-the-arts
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Enhancing Well Being Through The Arts

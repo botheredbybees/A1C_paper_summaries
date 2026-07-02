@@ -36,7 +36,7 @@ Both sources discuss the role of evaluation in enhancing creative and educationa
 - [fxa100-creativity-and-communication-ch12-22-measuring-success-evaluation-is-an-ongoing-process-that](../sources/fxa100-creativity-and-communication-ch12-22-measuring-success-evaluation-is-an-ongoing-process-that.md)
 - [fxa301-make-arts-for-a-better-life-ch38-1-look-together-at-the-local-school-curriculum](../sources/fxa301-make-arts-for-a-better-life-ch38-1-look-together-at-the-local-school-curriculum.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10](../sources/fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10.md)
-- [fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well-(2)](../sources/fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well-(2).md)
+- [fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well-(2)](../sources/fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well-%282%29.md)
 - [fxa301-week01-evaluating-community-arts-community-well-being](../sources/fxa301-week01-evaluating-community-arts-community-well-being.md)
 - [fxa301-week01-evaluating-community-arts-community-well-being-an](../sources/fxa301-week01-evaluating-community-arts-community-well-being-an.md)
 - [fxa301-week01-fxa301-sem-1-2026-week-4-lecture](../sources/fxa301-week01-fxa301-sem-1-2026-week-4-lecture.md)

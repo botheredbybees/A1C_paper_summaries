@@ -11,7 +11,7 @@ tags: ["creative-arts", "professional-development", "visual-research", "fxa202"]
 key_concepts: ["journaling", "critical-thinking", "divergent-thinking"]
 methods: []
 slug: fxa202-week08-journal-and-visual-research-guidelines
-related: ["creative-arts", "professional-development"]
+related: ["creative-arts", "professional-development", "visual-research"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,3 +43,4 @@ The document provides guidelines for maintaining a journal in the context of cre
 
 - [creative-arts](../topics/creative-arts.md)
 - [professional-development](../topics/professional-development.md)
+- [visual-research](../topics/visual-research.md)

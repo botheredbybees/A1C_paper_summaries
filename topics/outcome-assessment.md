@@ -27,4 +27,4 @@ The integration of outcome assessment within arts in health initiatives highligh
 
 ## Sources
 
-- [fxa301-arts-in-health-ch67-chapter-6-(2)](../sources/fxa301-arts-in-health-ch67-chapter-6-(2).md)
+- [fxa301-arts-in-health-ch67-chapter-6-(2)](../sources/fxa301-arts-in-health-ch67-chapter-6-%282%29.md)

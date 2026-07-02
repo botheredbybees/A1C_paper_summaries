@@ -1,9 +1,9 @@
 ---
 type: tag
 tag: partnership-development
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Partnership Development
 
-- [Developing Partnerships and Briefs in Arts-Health Projects](../sources/fxa301-arts-in-health-ch43-1-collaborative-design-(2).md)
+- [Developing Partnerships and Briefs in Arts-Health Projects](../sources/fxa301-arts-in-health-ch43-1-collaborative-design-%282%29.md)

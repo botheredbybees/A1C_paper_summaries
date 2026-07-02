@@ -27,4 +27,4 @@ The synthesis of the sources indicates that the tender process is a critical mec
 
 ## Sources
 
-- [fxa301-arts-in-health-ch43-1-collaborative-design-(2)](../sources/fxa301-arts-in-health-ch43-1-collaborative-design-(2).md)
+- [fxa301-arts-in-health-ch43-1-collaborative-design-(2)](../sources/fxa301-arts-in-health-ch43-1-collaborative-design-%282%29.md)

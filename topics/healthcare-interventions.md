@@ -30,7 +30,7 @@ The evaluation and research of arts-based healthcare interventions highlight the
 
 ## Sources
 
-- [fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision-(2)](../sources/fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision-(2).md)
+- [fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision-(2)](../sources/fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision-%282%29.md)
 - [fxa301-week01-conceptualizing-and-planning-interventions](../sources/fxa301-week01-conceptualizing-and-planning-interventions.md)
 - [fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a](../sources/fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a.md)
 - [fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing](../sources/fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-arts
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Creative Arts
@@ -9,11 +9,11 @@ updated: 2026-05-18
 - [Transcript: Film Clips from 'I Remember Better When I Paint'](../sources/fxa100-week06-transcript-film-clips-from-i-remember-better-when-i-paint.md)
 - [Journal and Visual Research Guidelines](../sources/fxa202-week08-journal-and-visual-research-guidelines.md)
 - [Introduction to the field of creative arts, wellbeing, and health: achievements and current challenges](../sources/fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1.md)
-- [Case Study: Engaging Older People in Creative Thinking - The Active Energy Project](../sources/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-(2).md)
-- [Active Energy Project and Its Impact on Elderly Wellbeing](../sources/fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2).md)
+- [Case Study: Engaging Older People in Creative Thinking - The Active Energy Project](../sources/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-%282%29.md)
+- [Active Energy Project and Its Impact on Elderly Wellbeing](../sources/fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-%282%29.md)
 - [Creative Arts in Health Professional Education and Practice: A Case Study Reflection](../sources/fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37.md)
 - [Community Cultural Development: Enhancing Health and Wellbeing](../sources/fxa301-oxford-textbook-of-creative-arts-ch23-1-a-research-project-that-examined-how-participation-can-be.md)
-- [Creative Arts Initiatives for Cultural Development and Public Health](../sources/fxa301-oxford-textbook-of-creative-arts-ch23-1-a-research-project-that-examined-how-participation-can-be-(2).md)
+- [Creative Arts Initiatives for Cultural Development and Public Health](../sources/fxa301-oxford-textbook-of-creative-arts-ch23-1-a-research-project-that-examined-how-participation-can-be-%282%29.md)
 - [How does the brain help us to respond to creative art?](../sources/fxa301-week01-lesson-fxa301-week01-page-3-how-do-we-respond-to.md)
 - [The Role of Creative Arts in the Community](../sources/fxa301-week01-lesson-fxa301-week01-troubleshooting1.md)
 - [Week 1 Introduction - The Role of Creative Arts in Human Culture](../sources/fxa301-week01-week-1-introduction-the-role-of-creative-arts-in-human.md)

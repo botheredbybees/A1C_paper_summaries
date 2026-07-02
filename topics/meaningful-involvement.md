@@ -27,4 +27,4 @@ The concept of 'meaningful involvement' within the realm of arts-based health re
 
 ## Sources
 
-- [fxa301-oxford-textbook-of-creative-arts-ch02-chapter-11-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch02-chapter-11-(2).md)
+- [fxa301-oxford-textbook-of-creative-arts-ch02-chapter-11-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch02-chapter-11-%282%29.md)

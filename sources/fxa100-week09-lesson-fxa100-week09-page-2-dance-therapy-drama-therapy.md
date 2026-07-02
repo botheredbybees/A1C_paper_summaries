@@ -11,7 +11,7 @@ tags: ["dramatherapy", "dance-therapy", "applied-theatre", "psychological-therap
 key_concepts: ["psychotherapy practice", "therapeutic relationship", "nonverbal communication"]
 methods: []
 slug: fxa100-week09-lesson-fxa100-week09-page-2-dance-therapy-drama-therapy
-related: ["applied-theatre", "dance-therapy", "dramatherapy"]
+related: ["applied-theatre", "dance-therapy", "dramatherapy", "psychological-therapy"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,3 +46,4 @@ The lesson covers the therapeutic uses of dramatherapy, dance therapy, and appli
 - [applied-theatre](../topics/applied-theatre.md)
 - [dance-therapy](../topics/dance-therapy.md)
 - [dramatherapy](../topics/dramatherapy.md)
+- [psychological-therapy](../topics/psychological-therapy.md)

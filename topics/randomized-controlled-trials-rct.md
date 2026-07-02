@@ -27,4 +27,4 @@ The sources emphasize the role of Randomized Controlled Trials (RCTs) as a metho
 
 ## Sources
 
-- [fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision-(2)](../sources/fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision-(2).md)
+- [fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision-(2)](../sources/fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision-%282%29.md)

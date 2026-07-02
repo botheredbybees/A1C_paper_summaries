@@ -27,4 +27,4 @@ The concept of locus of control is explored across two sources which focus on th
 ## Sources
 
 - [fxa301-week11-fine-arts-participation-self-determination-and-locus-of](../sources/fxa301-week11-fine-arts-participation-self-determination-and-locus-of.md)
-- [fxa301-week11-fine-arts-participation-self-determination-and-locus-of-(2)](../sources/fxa301-week11-fine-arts-participation-self-determination-and-locus-of-(2).md)
+- [fxa301-week11-fine-arts-participation-self-determination-and-locus-of-(2)](../sources/fxa301-week11-fine-arts-participation-self-determination-and-locus-of-%282%29.md)

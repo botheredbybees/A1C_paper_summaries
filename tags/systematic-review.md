@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: systematic-review
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Systematic Review
@@ -17,7 +17,7 @@ updated: 2026-05-18
 - [Health benefits of physical activity: a systematic review of current systematic reviews](../sources/fxa100-week13-health-benefits-of-physical-activity-a-systematic-review-of.md)
 - [Therapeutic benefits and limitations of participatory photography for adults with mental health problems: A systematic search and literature review](../sources/fxa202-week13-therapeutic-benefits-and-limitations-of-participatory.md)
 - [Rating the Quality of a Body of Evidence on the Effectiveness of Health and Social Interventions: A Systematic Review and Mapping of Evidence Domains](../sources/fxa301-week01-rating-the-quality-of-a-body-of-evidence-on-the.md)
-- [Revised Cochrane risk of bias tool for randomized trials (RoB 2) \u2014 Additional considerations for crossover trials](../sources/fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-(2).md)
+- [Revised Cochrane risk of bias tool for randomized trials (RoB 2) \u2014 Additional considerations for crossover trials](../sources/fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-%282%29.md)
 - [ROB-ME: a tool for assessing risk of bias due to missing evidence in systematic reviews with meta-analysis](../sources/fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing.md)
 - [Dance as an Intervention to Reduce Fall Risk in Older Adults: A Systematic Review With a Meta-Analysis](../sources/fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older.md)
 - [Effectiveness of Dance Interventions for Falls Prevention in Older Adults: Systematic Review and Meta-analysis](../sources/fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention.md)
@@ -42,3 +42,5 @@ updated: 2026-05-18
 - [Organisational interventions for preventing and minimising aggression directed toward healthcare workers by patients and patient advocates](../sources/fxa303-week13-organisational-interventions-for-preventing-and-minimising.md)
 - [The Delivery of Person-Centered Care for People Living With Dementia in Residential Aged Care: A Systematic Review and Meta-Analysis](../sources/fxa303-week13-the-delivery-of-person-centered-care-for-people-living-with.md)
 - [Therapeutic clowns in pediatrics: a systematic review and meta-analysis of randomized controlled trials](../sources/fxa303-week13-therapeutic-clowns-in-pediatrics-a-systematic-review-and.md)
+- [Creative Arts Interventions for Stress Management and Prevention\u2014A Systematic Review](../sources/psy214-week00-creative-arts-interventions-for-stress-management-and.md)
+- [Happy to help? A systematic review and meta-analysis of the effects of performing acts of kindness on the well-being of the actor](../sources/psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the.md)

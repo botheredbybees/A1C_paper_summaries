@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-in-health
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Arts In Health
@@ -12,21 +12,21 @@ updated: 2026-05-18
 - [Research ethics in arts in health interventions](../sources/fxa100-week04-research-ethics-in-arts-in-health-interventions.md)
 - [Elderflowers Arts-in-Health Program Transcript](../sources/fxa100-week10-transcript-the-elderflowers-arts-in-health-program-uses.md)
 - [Defining Arts in Health](../sources/fxa301-arts-in-health-ch19-36-abc-national-cultural-policy-submission.md)
-- [Does a Model Exist? Arts in Health Activity](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2).md)
+- [Does a Model Exist? Arts in Health Activity](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-%282%29.md)
 - [PESTLE Analysis and Kolb\u2019s Reflective Cycle for Arts in Health Interventions](../sources/fxa301-arts-in-health-ch26-4-technological.md)
-- [Understanding the Environment Through PESTLE Analysis](../sources/fxa301-arts-in-health-ch26-4-technological-(2).md)
+- [Understanding the Environment Through PESTLE Analysis](../sources/fxa301-arts-in-health-ch26-4-technological-%282%29.md)
 - [Research Related Projects and Problem Tree Development](../sources/fxa301-arts-in-health-ch29-4-invite-open-responses.md)
-- [Research Related Projects](../sources/fxa301-arts-in-health-ch29-4-invite-open-responses-(2).md)
-- [Developing Partnerships and Briefs in Arts-Health Projects](../sources/fxa301-arts-in-health-ch43-1-collaborative-design-(2).md)
+- [Research Related Projects](../sources/fxa301-arts-in-health-ch29-4-invite-open-responses-%282%29.md)
+- [Developing Partnerships and Briefs in Arts-Health Projects](../sources/fxa301-arts-in-health-ch43-1-collaborative-design-%282%29.md)
 - [Professionalization of the Arts in Health Field](../sources/fxa301-bridging-the-creative-arts-therapies-ch09-5-collaboration.md)
-- [The Professionalization Agenda for Arts in Health](../sources/fxa301-bridging-the-creative-arts-therapies-ch09-5-collaboration-(2).md)
+- [The Professionalization Agenda for Arts in Health](../sources/fxa301-bridging-the-creative-arts-therapies-ch09-5-collaboration-%282%29.md)
 - [A step-by-step approach to the research process](../sources/fxa301-week01-a-step-by-step-approach-to-the-research-process.md)
 - [Aesop: A Framework for Developing and Researching Arts in Health Programmes](../sources/fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in.md)
-- [Aesop: A Framework for Developing and Researching Arts in Health Programmes](../sources/fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(2).md)
-- [Aesop: A Framework for Developing and Researching Arts in Health Programmes](../sources/fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(3).md)
+- [Aesop: A Framework for Developing and Researching Arts in Health Programmes](../sources/fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-%282%29.md)
+- [Aesop: A Framework for Developing and Researching Arts in Health Programmes](../sources/fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-%283%29.md)
 - [An introduction to research](../sources/fxa301-week01-an-introduction-to-research.md)
 - [Conceptualizing and planning interventions](../sources/fxa301-week01-conceptualizing-and-planning-interventions.md)
-- [Guidelines for Arts and Mental Health Projects](../sources/fxa301-week01-guidelines-for-arts-and-mental-health-projects-(2).md)
+- [Guidelines for Arts and Mental Health Projects](../sources/fxa301-week01-guidelines-for-arts-and-mental-health-projects-%282%29.md)
 - [Implementing and Evaluating Interventions](../sources/fxa301-week01-implementing-and-evaluating-interventions.md)
 - [Research ethics](../sources/fxa301-week01-research-ethics.md)
 - [Advancing Practice in Arts in Health: Artist Workforce Development and Certification](../sources/fxa301-week03-advancing-practice-in-arts-in-health-artist-workforce.md)

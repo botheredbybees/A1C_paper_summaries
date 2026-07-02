@@ -29,4 +29,4 @@ Both sources emphasize the utility of Kolb's Reflective Cycle in understanding a
 ## Sources
 
 - [fxa301-arts-in-health-ch26-4-technological](../sources/fxa301-arts-in-health-ch26-4-technological.md)
-- [fxa301-arts-in-health-ch26-4-technological-(2)](../sources/fxa301-arts-in-health-ch26-4-technological-(2).md)
+- [fxa301-arts-in-health-ch26-4-technological-(2)](../sources/fxa301-arts-in-health-ch26-4-technological-%282%29.md)

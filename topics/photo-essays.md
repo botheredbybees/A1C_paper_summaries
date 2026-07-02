@@ -35,4 +35,4 @@ Photo essays are a powerful form of visual storytelling that combine images and 
 - [fxa202-week02-lesson-fxa202-week02-creative-writing](../sources/fxa202-week02-lesson-fxa202-week02-creative-writing.md)
 - [fxa202-week05-lesson-fxa202-week05-chapter-2-beginnings-and-endings](../sources/fxa202-week05-lesson-fxa202-week05-chapter-2-beginnings-and-endings.md)
 - [fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays](../sources/fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays.md)
-- [fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2)](../sources/fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2).md)
+- [fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2)](../sources/fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-%282%29.md)

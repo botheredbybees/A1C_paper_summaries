@@ -34,7 +34,7 @@ The integration of various interventions aimed at supporting caregivers and impr
 
 - [fxa100-week03-alzheimers-disease-music-engagement-quality-of-life](../sources/fxa100-week03-alzheimers-disease-music-engagement-quality-of-life.md)
 - [fxa100-week04-dementia-language-guidelines](../sources/fxa100-week04-dementia-language-guidelines.md)
-- [fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-(2)](../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-(2).md)
+- [fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-(2)](../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-%282%29.md)
 - [fxa100-week07-transcript-artz-museum-program-for-alzheimers-url-only](../sources/fxa100-week07-transcript-artz-museum-program-for-alzheimers-url-only.md)
 - [fxa100-week13-emotion-work-in-caregiving-the-role-of-technology-to](../sources/fxa100-week13-emotion-work-in-caregiving-the-role-of-technology-to.md)
 - [fxa303-week13-reminiscence-therapy-for-dementia](../sources/fxa303-week13-reminiscence-therapy-for-dementia.md)

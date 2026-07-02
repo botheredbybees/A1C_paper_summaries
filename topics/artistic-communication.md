@@ -26,4 +26,4 @@ The sources collectively highlight the significance of artistic communication as
 
 ## Sources
 
-- [fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts-(2)](../sources/fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts-(2).md)
+- [fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts-(2)](../sources/fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts-%282%29.md)

@@ -34,5 +34,5 @@ The synthesis of photography techniques highlights the importance of both techni
 - [fxa202-week02-depth-of-field-the-essential-guide-tips](../sources/fxa202-week02-depth-of-field-the-essential-guide-tips.md)
 - [fxa202-week02-negative-space-in-photography-and-positive-space](../sources/fxa202-week02-negative-space-in-photography-and-positive-space.md)
 - [fxa202-week02-taking-out-of-focus-pictures](../sources/fxa202-week02-taking-out-of-focus-pictures.md)
-- [fxa202-week08-how-to-merge-and-combine-images-in-photoshop-(2)](../sources/fxa202-week08-how-to-merge-and-combine-images-in-photoshop-(2).md)
+- [fxa202-week08-how-to-merge-and-combine-images-in-photoshop-(2)](../sources/fxa202-week08-how-to-merge-and-combine-images-in-photoshop-%282%29.md)
 - [fxa202-week08-lesson-fxa202-week08-page-3](../sources/fxa202-week08-lesson-fxa202-week08-page-3.md)

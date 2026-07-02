@@ -29,4 +29,4 @@ Co-production is highlighted across both sources as a collaborative approach tha
 ## Sources
 
 - [fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well](../sources/fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well.md)
-- [fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well-(2)](../sources/fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well-(2).md)
+- [fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well-(2)](../sources/fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well-%282%29.md)

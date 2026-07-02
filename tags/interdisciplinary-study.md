@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: interdisciplinary-study
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Interdisciplinary Study

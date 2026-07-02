@@ -27,5 +27,5 @@ The exploration of sustainable practices within ethnomusicology and museum learn
 
 ## Sources
 
-- [fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2)](../sources/fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2).md)
+- [fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2)](../sources/fxa301-make-arts-for-a-better-life-ch42-156-oxford-%282%29.md)
 - [fxa301-week05-happy-museum-learning-evaluation-report](../sources/fxa301-week05-happy-museum-learning-evaluation-report.md)

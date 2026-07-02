@@ -29,4 +29,4 @@ Amygdala ablation emerges as a controversial but potentially revolutionary inter
 ## Sources
 
 - [fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and](../sources/fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and.md)
-- [fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2)](../sources/fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2).md)
+- [fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2)](../sources/fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-%282%29.md)

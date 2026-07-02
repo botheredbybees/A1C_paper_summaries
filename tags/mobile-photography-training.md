@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mobile-photography-training
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Mobile Photography Training

@@ -27,4 +27,4 @@ This synthesis focuses on Jean Piaget's cognitive development theory in contrast
 
 ## Sources
 
-- [fxa303-week03-developmental-psychology-from-infancy-to-adulthood-(2)](../sources/fxa303-week03-developmental-psychology-from-infancy-to-adulthood-(2).md)
+- [fxa303-week03-developmental-psychology-from-infancy-to-adulthood-(2)](../sources/fxa303-week03-developmental-psychology-from-infancy-to-adulthood-%282%29.md)

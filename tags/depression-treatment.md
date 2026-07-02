@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: depression-treatment
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Depression Treatment
@@ -13,3 +13,4 @@ updated: 2026-05-18
 - [Arts on Prescription in Sefton: Programme Report](../sources/fxa301-week01-arts-on-prescription-in-sefton-programme-report.md)
 - [A meta-analysis of randomized controlled trials of laughter and humour interventions on depression, anxiety and sleep quality in adults](../sources/fxa303-week13-a-meta-analysis-of-randomized-controlled-trials-of-laughter.md)
 - [The effect of humor on elder mental and physical health](../sources/fxa303-week13-the-effect-of-humor-on-elder-mental-and-physical-health.md)
+- [Physical activity and depression: Towards understanding the antidepressant mechanisms of physical activity](../sources/psy214-week00-physical-activity-and-depression-towards-understanding-the.md)

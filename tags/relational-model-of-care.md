@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: relational-model-of-care
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Relational Model Of Care

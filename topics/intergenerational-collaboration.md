@@ -26,4 +26,4 @@ The synthesis of the topic on intergenerational collaboration highlights its pot
 
 ## Sources
 
-- [fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-(2).md)
+- [fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-%282%29.md)

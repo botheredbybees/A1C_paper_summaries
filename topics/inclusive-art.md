@@ -28,5 +28,5 @@ The practice of inclusive art emphasizes the transformative power of creating ar
 
 ## Sources
 
-- [fxa301-week01-making-art-with-communities-a-work-guide-(2)](../sources/fxa301-week01-making-art-with-communities-a-work-guide-(2).md)
+- [fxa301-week01-making-art-with-communities-a-work-guide-(2)](../sources/fxa301-week01-making-art-with-communities-a-work-guide-%282%29.md)
 - [fxa301-week09-how-josie-webster-is-conquering-the-art-world-with](../sources/fxa301-week09-how-josie-webster-is-conquering-the-art-world-with.md)

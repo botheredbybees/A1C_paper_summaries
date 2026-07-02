@@ -28,4 +28,4 @@ The integration of images into presentations through software like Microsoft Pow
 ## Sources
 
 - [fxa202-week06-tips-for-making-your-powerpoint-presentation](../sources/fxa202-week06-tips-for-making-your-powerpoint-presentation.md)
-- [fxa202-week06-tips-for-making-your-powerpoint-presentation-(2)](../sources/fxa202-week06-tips-for-making-your-powerpoint-presentation-(2).md)
+- [fxa202-week06-tips-for-making-your-powerpoint-presentation-(2)](../sources/fxa202-week06-tips-for-making-your-powerpoint-presentation-%282%29.md)

@@ -16,13 +16,14 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
+  - unit: FXA301
 tags: ["community-cultural-development", "public-health-interventions", "arts-based-therapy", "fxa301"]
 key_concepts: ["Community Cultural Development (CCD)", "Social Inclusion"]
 methods: []
 slug: fxa301-oxford-textbook-of-creative-arts-ch22-chapter-7
 related: ["arts-based-therapy", "community-cultural-development", "public-health-interventions"]
 created: 2026-05-03
-updated: 2026-05-18
+updated: 2026-06-25
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-oxford-textbook-of-creative-arts-ch22-chapter-7.md_

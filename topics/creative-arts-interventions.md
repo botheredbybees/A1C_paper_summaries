@@ -10,11 +10,12 @@ sources:
   - fxa303-week04-fxa303-week-4-introduction
   - fxa303-week09-effectiveness-of-creative-arts-based-interventions-for
   - fxa303-week09-the-afloat-project-(2)
+  - psy214-week00-creative-arts-interventions-for-stress-management-and
 tags:
 - creative-arts-interventions
 title: Creative Arts Interventions
 type: topic
-updated: 2026-05-18
+updated: 2026-06-25
 ---
 
 ## Creative Arts Interventions
@@ -43,4 +44,5 @@ Neuroscience contributes another layer to this discussion, suggesting that these
 - [fxa303-week03-creative-arts-interventions-for-stress-management-and](../sources/fxa303-week03-creative-arts-interventions-for-stress-management-and.md)
 - [fxa303-week04-fxa303-week-4-introduction](../sources/fxa303-week04-fxa303-week-4-introduction.md)
 - [fxa303-week09-effectiveness-of-creative-arts-based-interventions-for](../sources/fxa303-week09-effectiveness-of-creative-arts-based-interventions-for.md)
-- [fxa303-week09-the-afloat-project-(2)](../sources/fxa303-week09-the-afloat-project-(2).md)
+- [fxa303-week09-the-afloat-project-(2)](../sources/fxa303-week09-the-afloat-project-%282%29.md)
+- [psy214-week00-creative-arts-interventions-for-stress-management-and](../sources/psy214-week00-creative-arts-interventions-for-stress-management-and.md)

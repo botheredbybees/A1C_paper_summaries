@@ -30,5 +30,5 @@ The Veder Method, an approach rooted in dramatherapy and applied theatre, is exa
 ## Sources
 
 - [fxa100-week09-implementing-living-room-theatre-activities-for-people-with](../sources/fxa100-week09-implementing-living-room-theatre-activities-for-people-with.md)
-- [fxa100-week09-implementing-living-room-theatre-activities-for-people-with-(2)](../sources/fxa100-week09-implementing-living-room-theatre-activities-for-people-with-(2).md)
+- [fxa100-week09-implementing-living-room-theatre-activities-for-people-with-(2)](../sources/fxa100-week09-implementing-living-room-theatre-activities-for-people-with-%282%29.md)
 - [fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags](../sources/fxa100-week09-lesson-fxa100-week09-html-lang-enhead-required-meta-tags.md)

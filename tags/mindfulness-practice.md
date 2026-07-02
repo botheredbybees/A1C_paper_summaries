@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mindfulness-practice
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Mindfulness Practice
@@ -10,3 +10,4 @@ updated: 2026-05-18
 - [How to Develop the Art of Seeing Through Mindful Photography](../sources/fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography.md)
 - [Reflection on the Therapeutic Benefits of Photography: A Personal Photo Essay Project](../sources/fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a.md)
 - [Critical Reflection: My Photo Essay](../sources/fxa202-week10-critical-reflection-my-photo-essay.md)
+- [Washing Dishes to Wash the Dishes: Brief Instruction in an Informal Mindfulness Practice](../sources/psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an.md)

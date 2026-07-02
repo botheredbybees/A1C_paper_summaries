@@ -27,4 +27,4 @@ The sources collectively highlight the role of creativity in arts as an interven
 
 ## Sources
 
-- [fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts-(2)](../sources/fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts-(2).md)
+- [fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts-(2)](../sources/fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts-%282%29.md)

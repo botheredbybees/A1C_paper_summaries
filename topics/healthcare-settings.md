@@ -29,6 +29,6 @@ The integration of non-traditional interventions such as museum collections and 
 
 ## Sources
 
-- [fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-(2)](../sources/fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-(2).md)
+- [fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-(2)](../sources/fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-%282%29.md)
 - [fxa301-arts-in-health-ch44-1-the-artist](../sources/fxa301-arts-in-health-ch44-1-the-artist.md)
 - [fxa303-week08-therapeutic-clowning](../sources/fxa303-week08-therapeutic-clowning.md)

@@ -28,4 +28,4 @@ The provided sources emphasize the importance of professional responsibilities i
 ## Sources
 
 - [fxa301-arts-in-health-ch76-3-responsibility](../sources/fxa301-arts-in-health-ch76-3-responsibility.md)
-- [fxa301-arts-in-health-ch76-3-responsibility-(2)](../sources/fxa301-arts-in-health-ch76-3-responsibility-(2).md)
+- [fxa301-arts-in-health-ch76-3-responsibility-(2)](../sources/fxa301-arts-in-health-ch76-3-responsibility-%282%29.md)

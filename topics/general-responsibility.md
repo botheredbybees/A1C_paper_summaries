@@ -26,4 +26,4 @@ The discussion on professional responsibilities and ethical considerations in re
 
 ## Sources
 
-- [fxa301-arts-in-health-ch76-3-responsibility-(2)](../sources/fxa301-arts-in-health-ch76-3-responsibility-(2).md)
+- [fxa301-arts-in-health-ch76-3-responsibility-(2)](../sources/fxa301-arts-in-health-ch76-3-responsibility-%282%29.md)

@@ -30,5 +30,5 @@ The synthesis of image composition techniques reveals a blend of artistic and te
 ## Sources
 
 - [fxa202-week02-negative-space-in-photography-and-positive-space](../sources/fxa202-week02-negative-space-in-photography-and-positive-space.md)
-- [fxa202-week08-how-to-merge-and-combine-images-in-photoshop-(2)](../sources/fxa202-week08-how-to-merge-and-combine-images-in-photoshop-(2).md)
+- [fxa202-week08-how-to-merge-and-combine-images-in-photoshop-(2)](../sources/fxa202-week08-how-to-merge-and-combine-images-in-photoshop-%282%29.md)
 - [fxa202-week09-do-you-struggle-with-constructing-a-photo-story-try-this-3](../sources/fxa202-week09-do-you-struggle-with-constructing-a-photo-story-try-this-3.md)

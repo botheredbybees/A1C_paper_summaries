@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotional-well-being
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Emotional Well Being

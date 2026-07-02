@@ -54,7 +54,7 @@ Play therapy is a therapeutic intervention specifically designed for children to
 - [fxa303-week02-infancy-and-the-early-years](../sources/fxa303-week02-infancy-and-the-early-years.md)
 - [fxa303-week04-brief-report-emotion-regulation-in-autism-is-improved-in-a](../sources/fxa303-week04-brief-report-emotion-regulation-in-autism-is-improved-in-a.md)
 - [fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves](../sources/fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves.md)
-- [fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)](../sources/fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2).md)
+- [fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)](../sources/fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-%282%29.md)
 - [fxa303-week04-intensive-child-centered-play-therapy-for-children-on-the](../sources/fxa303-week04-intensive-child-centered-play-therapy-for-children-on-the.md)
 - [fxa303-week04-lesson-fxa303-week04-page-3-arts-and-play](../sources/fxa303-week04-lesson-fxa303-week04-page-3-arts-and-play.md)
 - [fxa303-week04-lesson-fxa303-week04-week-4-activities](../sources/fxa303-week04-lesson-fxa303-week04-week-4-activities.md)

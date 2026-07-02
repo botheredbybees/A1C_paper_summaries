@@ -18,13 +18,14 @@ appearances:
   - unit: FXA100
   - unit: FXA100
   - unit: FXA100
+  - unit: FXA100
 tags: ["dementia-care", "creative-interventions", "quality-of-life", "fxa100"]
 key_concepts: ["person-centered care", "artistic expression"]
 methods: []
 slug: fxa100-excellence-in-dementia-care--ch01-chapter-10
 related: ["creative-interventions", "dementia-care", "quality-of-life"]
 created: 2026-05-03
-updated: 2026-05-18
+updated: 2026-06-25
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-excellence-in-dementia-care--ch01-chapter-10.md_

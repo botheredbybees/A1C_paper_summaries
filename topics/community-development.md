@@ -35,7 +35,7 @@ The integration of arts and music into community development initiatives is expl
 
 - [fxa100-week09-applied-theatre-problems-and-possibilities](../sources/fxa100-week09-applied-theatre-problems-and-possibilities.md)
 - [fxa301-make-arts-for-a-better-life-ch06-1-see-also-closing](../sources/fxa301-make-arts-for-a-better-life-ch06-1-see-also-closing.md)
-- [fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals-(2)](../sources/fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals-(2).md)
+- [fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals-(2)](../sources/fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals-%282%29.md)
 - [fxa301-make-arts-for-a-better-life-ch42-156-oxford](../sources/fxa301-make-arts-for-a-better-life-ch42-156-oxford.md)
 - [fxa301-week01-transcript-for-this-weeks-e-tivity-you-should-watch-the](../sources/fxa301-week01-transcript-for-this-weeks-e-tivity-you-should-watch-the.md)
 - [fxa301-week06-case-studies-of-community-projects-big-noise-sistema](../sources/fxa301-week06-case-studies-of-community-projects-big-noise-sistema.md)

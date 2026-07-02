@@ -27,4 +27,4 @@ The concept of non-normative ethics within healthcare is explored through its ap
 
 ## Sources
 
-- [fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37-(2).md)
+- [fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch16-chapter-37-%282%29.md)

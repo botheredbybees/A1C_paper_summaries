@@ -29,4 +29,4 @@ The concept of 'sense of place' emerges as a central theme in both the case stud
 ## Sources
 
 - [fxa301-week05-how-murals-helped-turn-a-declining-community-around](../sources/fxa301-week05-how-murals-helped-turn-a-declining-community-around.md)
-- [fxa303-week09-the-afloat-project-(2)](../sources/fxa303-week09-the-afloat-project-(2).md)
+- [fxa303-week09-the-afloat-project-(2)](../sources/fxa303-week09-the-afloat-project-%282%29.md)

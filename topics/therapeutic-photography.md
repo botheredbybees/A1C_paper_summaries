@@ -5,6 +5,9 @@ title: "Therapeutic Photography"
 confidence: high
 tags: ["therapeutic-photography"]
 sources:
+  - fxa202-the-handbook-of-phototherapy-ch02-12-the-earlier-stages
+  - fxa202-the-handbook-of-phototherapy-ch04-chapter-2
+  - fxa202-the-handbook-of-phototherapy-ch13-chapter-5
   - fxa202-therapeutic-photography-ch01-chapter-10
   - fxa202-therapeutic-photography-ch02-chapter-11
   - fxa202-therapeutic-photography-ch04-2-reflexive-photography
@@ -25,7 +28,7 @@ sources:
   - fxa202-week13-taking-pictures-is-like-treasure-hunting-exploring-the
   - fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography
   - fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2)
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Therapeutic Photography
@@ -44,6 +47,9 @@ The integration of therapeutic photography across various contexts reveals a mul
 
 ## Sources
 
+- [fxa202-the-handbook-of-phototherapy-ch02-12-the-earlier-stages](../sources/fxa202-the-handbook-of-phototherapy-ch02-12-the-earlier-stages.md)
+- [fxa202-the-handbook-of-phototherapy-ch04-chapter-2](../sources/fxa202-the-handbook-of-phototherapy-ch04-chapter-2.md)
+- [fxa202-the-handbook-of-phototherapy-ch13-chapter-5](../sources/fxa202-the-handbook-of-phototherapy-ch13-chapter-5.md)
 - [fxa202-therapeutic-photography-ch01-chapter-10](../sources/fxa202-therapeutic-photography-ch01-chapter-10.md)
 - [fxa202-therapeutic-photography-ch02-chapter-11](../sources/fxa202-therapeutic-photography-ch02-chapter-11.md)
 - [fxa202-therapeutic-photography-ch04-2-reflexive-photography](../sources/fxa202-therapeutic-photography-ch04-2-reflexive-photography.md)
@@ -58,9 +64,9 @@ The integration of therapeutic photography across various contexts reveals a mul
 - [fxa202-week06-critical-reflection-on-visual-storytelling-through](../sources/fxa202-week06-critical-reflection-on-visual-storytelling-through.md)
 - [fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography](../sources/fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography.md)
 - [fxa202-week08-week-8-lecture-notes-editing-your-images](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images.md)
-- [fxa202-week08-week-8-lecture-notes-editing-your-images-(2)](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images-(2).md)
+- [fxa202-week08-week-8-lecture-notes-editing-your-images-(2)](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images-%282%29.md)
 - [fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture](../sources/fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture.md)
 - [fxa202-week13-it-fostered-a-greater-appreciation-for-my-little-corner-of](../sources/fxa202-week13-it-fostered-a-greater-appreciation-for-my-little-corner-of.md)
 - [fxa202-week13-taking-pictures-is-like-treasure-hunting-exploring-the](../sources/fxa202-week13-taking-pictures-is-like-treasure-hunting-exploring-the.md)
 - [fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography](../sources/fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography.md)
-- [fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2)](../sources/fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2).md)
+- [fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2)](../sources/fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-%282%29.md)

@@ -10,11 +10,12 @@ sources:
   - fxa301-week01-arts-on-prescription-in-sefton-programme-report
   - fxa303-week13-a-meta-analysis-of-randomized-controlled-trials-of-laughter
   - fxa303-week13-the-effect-of-humor-on-elder-mental-and-physical-health
+  - psy214-week00-physical-activity-and-depression-towards-understanding-the
 tags:
 - depression-treatment
 title: Therapeutic Benefits Of Art In Depression Treatment
 type: topic
-updated: 2026-05-15
+updated: 2026-06-25
 ---
 
 ## Therapeutic Benefits Of Art In Depression Treatment
@@ -39,3 +40,4 @@ The synthesis integrates findings from three sources focusing on the use of arti
 - [fxa301-week01-arts-on-prescription-in-sefton-programme-report](../sources/fxa301-week01-arts-on-prescription-in-sefton-programme-report.md)
 - [fxa303-week13-a-meta-analysis-of-randomized-controlled-trials-of-laughter](../sources/fxa303-week13-a-meta-analysis-of-randomized-controlled-trials-of-laughter.md)
 - [fxa303-week13-the-effect-of-humor-on-elder-mental-and-physical-health](../sources/fxa303-week13-the-effect-of-humor-on-elder-mental-and-physical-health.md)
+- [psy214-week00-physical-activity-and-depression-towards-understanding-the](../sources/psy214-week00-physical-activity-and-depression-towards-understanding-the.md)

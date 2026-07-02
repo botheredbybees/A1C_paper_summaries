@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cerebrovascular-risk-factors
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Cerebrovascular Risk Factors

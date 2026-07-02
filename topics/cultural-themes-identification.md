@@ -27,4 +27,4 @@ The method of identifying cultural themes through fieldnotes and audio-visual do
 
 ## Sources
 
-- [fxa301-make-arts-for-a-better-life-ch05-1-read-your-(2)](../sources/fxa301-make-arts-for-a-better-life-ch05-1-read-your-(2).md)
+- [fxa301-make-arts-for-a-better-life-ch05-1-read-your-(2)](../sources/fxa301-make-arts-for-a-better-life-ch05-1-read-your-%282%29.md)

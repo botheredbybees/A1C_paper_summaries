@@ -1,9 +1,9 @@
 ---
 type: tag
 tag: home-studio-setup
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Home Studio Setup
 
-- [Home hints for artwork and object documentation](../sources/fxa202-week08-home-hints-for-artwork-and-object-documentation-(2).md)
+- [Home hints for artwork and object documentation](../sources/fxa202-week08-home-hints-for-artwork-and-object-documentation-%282%29.md)

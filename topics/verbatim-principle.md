@@ -28,4 +28,4 @@ The Verbatim Principle is a fundamental practice in ethnographic research and fi
 ## Sources
 
 - [fxa301-make-arts-for-a-better-life-ch05-1-read-your](../sources/fxa301-make-arts-for-a-better-life-ch05-1-read-your.md)
-- [fxa301-make-arts-for-a-better-life-ch05-1-read-your-(2)](../sources/fxa301-make-arts-for-a-better-life-ch05-1-read-your-(2).md)
+- [fxa301-make-arts-for-a-better-life-ch05-1-read-your-(2)](../sources/fxa301-make-arts-for-a-better-life-ch05-1-read-your-%282%29.md)

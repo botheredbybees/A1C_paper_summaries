@@ -29,4 +29,4 @@ The integration of arts into health professions has been a focus on professional
 ## Sources
 
 - [fxa301-bridging-the-creative-arts-therapies-ch09-5-collaboration](../sources/fxa301-bridging-the-creative-arts-therapies-ch09-5-collaboration.md)
-- [fxa301-bridging-the-creative-arts-therapies-ch09-5-collaboration-(2)](../sources/fxa301-bridging-the-creative-arts-therapies-ch09-5-collaboration-(2).md)
+- [fxa301-bridging-the-creative-arts-therapies-ch09-5-collaboration-(2)](../sources/fxa301-bridging-the-creative-arts-therapies-ch09-5-collaboration-%282%29.md)

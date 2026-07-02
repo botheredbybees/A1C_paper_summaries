@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: women-with-low-resources
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Women With Low Resources

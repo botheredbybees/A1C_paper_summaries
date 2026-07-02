@@ -28,4 +28,4 @@ The integration of arts in conflict resolution emphasizes the role of creative e
 ## Sources
 
 - [fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts](../sources/fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts.md)
-- [fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts-(2)](../sources/fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts-(2).md)
+- [fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts-(2)](../sources/fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts-%282%29.md)

@@ -28,5 +28,5 @@ The synthesis integrates themes from photojournalism's narrative styles and its 
 
 ## Sources
 
-- [fxa202-week06-week-six-lecture-components-of-visual-storytelling-(2)](../sources/fxa202-week06-week-six-lecture-components-of-visual-storytelling-(2).md)
+- [fxa202-week06-week-six-lecture-components-of-visual-storytelling-(2)](../sources/fxa202-week06-week-six-lecture-components-of-visual-storytelling-%282%29.md)
 - [fxa202-week10-critical-reflection-my-photo-essay](../sources/fxa202-week10-critical-reflection-my-photo-essay.md)

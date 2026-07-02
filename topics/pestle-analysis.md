@@ -28,5 +28,5 @@ The integration of the PESTLE analysis across various sources highlights its rol
 
 ## Sources
 
-- [fxa301-arts-in-health-ch26-4-technological-(2)](../sources/fxa301-arts-in-health-ch26-4-technological-(2).md)
+- [fxa301-arts-in-health-ch26-4-technological-(2)](../sources/fxa301-arts-in-health-ch26-4-technological-%282%29.md)
 - [fxa301-week01-conceptualizing-and-planning-interventions](../sources/fxa301-week01-conceptualizing-and-planning-interventions.md)

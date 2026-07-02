@@ -3,12 +3,14 @@ confidence: low
 domain: theory
 slug: biopsychosocial-model
 sources:
+  - fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the
+  - psy214-week00-clinical-guidelines-for-the-use-of-lifestyle-based-mental
 - fxa301-arts-in-health-ch04-48-haldane-d
 tags:
 - biopsychosocial-model
 title: Biopsychosocial Model
 type: topic
-updated: 2026-05-04
+updated: 2026-06-25
 ---
 
 ## Biopsychosocial Model
@@ -27,4 +29,5 @@ The biopsychosocial model is a theoretical framework that moves beyond the tradi
 
 ## Sources
 
-- [fxa301-arts-in-health-ch04-48-haldane-d](../sources/fxa301-arts-in-health-ch04-48-haldane-d.md)
+- [fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the](../sources/fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the.md)
+- [psy214-week00-clinical-guidelines-for-the-use-of-lifestyle-based-mental](../sources/psy214-week00-clinical-guidelines-for-the-use-of-lifestyle-based-mental.md)

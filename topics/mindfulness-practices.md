@@ -5,11 +5,12 @@ slug: mindfulness-practices
 sources:
   - fxa202-week06-winding-paths-a-photo-essay-on-emotional-health-during
   - fxa303-week11-healing-arts-safe-place-for-youth
+  - psy214-week00-mindfulness-interventions
 tags:
 - mindfulness-practices
 title: Mindfulness Practices
 type: topic
-updated: 2026-05-11
+updated: 2026-06-25
 ---
 
 ## Mindfulness Practices
@@ -30,3 +31,4 @@ The sources highlight the therapeutic benefits of incorporating mindfulness prac
 
 - [fxa202-week06-winding-paths-a-photo-essay-on-emotional-health-during](../sources/fxa202-week06-winding-paths-a-photo-essay-on-emotional-health-during.md)
 - [fxa303-week11-healing-arts-safe-place-for-youth](../sources/fxa303-week11-healing-arts-safe-place-for-youth.md)
+- [psy214-week00-mindfulness-interventions](../sources/psy214-week00-mindfulness-interventions.md)

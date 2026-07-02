@@ -29,4 +29,4 @@ The concept of musical production roles encompasses the intricate process of cre
 ## Sources
 
 - [fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration](../sources/fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration.md)
-- [fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration-(2)](../sources/fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration-(2).md)
+- [fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration-(2)](../sources/fxa301-make-arts-for-a-better-life-ch15-7-cultural-integration-%282%29.md)

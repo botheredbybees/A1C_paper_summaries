@@ -29,6 +29,6 @@ The integration of creative arts interventions for elderly wellbeing highlights 
 
 ## Sources
 
-- [fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2).md)
+- [fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-%282%29.md)
 - [fxa301-week06-lesson-fxa301-week06-page-2](../sources/fxa301-week06-lesson-fxa301-week06-page-2.md)
 - [fxa301-week08-web-article-sextou-2017](../sources/fxa301-week08-web-article-sextou-2017.md)

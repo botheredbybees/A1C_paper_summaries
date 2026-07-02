@@ -30,5 +30,5 @@ The integration of arts within healthcare and community environments reflects a 
 ## Sources
 
 - [fxa100-week10-lesson-fxa100-week10-page-2-play-and-its-applications-in](../sources/fxa100-week10-lesson-fxa100-week10-page-2-play-and-its-applications-in.md)
-- [fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2)](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2).md)
+- [fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2)](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-%282%29.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6](../sources/fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6.md)

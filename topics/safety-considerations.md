@@ -27,4 +27,4 @@ The documentation of artwork and objects involves meticulous attention to both t
 
 ## Sources
 
-- [fxa202-week08-home-hints-for-artwork-and-object-documentation-(2)](../sources/fxa202-week08-home-hints-for-artwork-and-object-documentation-(2).md)
+- [fxa202-week08-home-hints-for-artwork-and-object-documentation-(2)](../sources/fxa202-week08-home-hints-for-artwork-and-object-documentation-%282%29.md)

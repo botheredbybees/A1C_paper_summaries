@@ -30,7 +30,7 @@ The provided sources emphasize the role of social determinants in shaping health
 
 ## Sources
 
-- [fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions-(2).md)
+- [fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions-%282%29.md)
 - [fxa301-week03-health-inequalities-and-the-role-of-creative-health](../sources/fxa301-week03-health-inequalities-and-the-role-of-creative-health.md)
 - [fxa301-week03-introduction-to-creative-health-extract](../sources/fxa301-week03-introduction-to-creative-health-extract.md)
 - [fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the](../sources/fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the.md)

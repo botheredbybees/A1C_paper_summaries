@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: journalism-practices
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Journalism Practices

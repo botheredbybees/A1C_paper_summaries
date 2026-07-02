@@ -27,4 +27,4 @@ The Active Energy Project exemplifies the profound impact of participatory art o
 
 ## Sources
 
-- [fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2).md)
+- [fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-%282%29.md)

@@ -24,4 +24,4 @@ The provided sources collectively emphasize the importance of ethnographic proce
 
 ## Sources
 
-- [fxa301-arts-in-health-ch67-chapter-6-(2)](../sources/fxa301-arts-in-health-ch67-chapter-6-(2).md)
+- [fxa301-arts-in-health-ch67-chapter-6-(2)](../sources/fxa301-arts-in-health-ch67-chapter-6-%282%29.md)

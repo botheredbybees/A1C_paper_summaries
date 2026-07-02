@@ -9,11 +9,12 @@ sources:
   - fxa202-week10-research-and-evidence-in-arts-health-and-well-being
   - fxa202-week13-different-but-connected-participatory-action-research-using
   - fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness
+  - psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the
 tags:
 - well-being-research
 title: Well-Being Research
 type: topic
-updated: 2026-05-15
+updated: 2026-06-25
 ---
 
 ## Well-Being Research
@@ -38,3 +39,4 @@ Research on well-being through the lens of arts and health intersects social-pol
 - [fxa202-week10-research-and-evidence-in-arts-health-and-well-being](../sources/fxa202-week10-research-and-evidence-in-arts-health-and-well-being.md)
 - [fxa202-week13-different-but-connected-participatory-action-research-using](../sources/fxa202-week13-different-but-connected-participatory-action-research-using.md)
 - [fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness](../sources/fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness.md)
+- [psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the](../sources/psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the.md)

@@ -27,4 +27,4 @@ The field of International Migration Studies is increasingly recognized as a com
 
 ## Sources
 
-- [fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3).md)
+- [fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi-%283%29.md)

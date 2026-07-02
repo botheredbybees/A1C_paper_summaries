@@ -26,4 +26,4 @@ The synthesis explores the method of layer blending in digital image editing as 
 
 ## Sources
 
-- [fxa202-week08-how-to-merge-and-combine-images-in-photoshop-(2)](../sources/fxa202-week08-how-to-merge-and-combine-images-in-photoshop-(2).md)
+- [fxa202-week08-how-to-merge-and-combine-images-in-photoshop-(2)](../sources/fxa202-week08-how-to-merge-and-combine-images-in-photoshop-%282%29.md)

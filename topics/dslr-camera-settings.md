@@ -27,4 +27,4 @@ The use of DSLR cameras in documenting art and objects requires a nuanced unders
 
 ## Sources
 
-- [fxa202-week08-home-hints-for-artwork-and-object-documentation-(2)](../sources/fxa202-week08-home-hints-for-artwork-and-object-documentation-(2).md)
+- [fxa202-week08-home-hints-for-artwork-and-object-documentation-(2)](../sources/fxa202-week08-home-hints-for-artwork-and-object-documentation-%282%29.md)

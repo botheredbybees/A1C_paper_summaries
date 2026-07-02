@@ -34,7 +34,7 @@ The integration of arts into adolescent education emerges as a multifaceted inte
 ## Sources
 
 - [fxa301-make-arts-for-a-better-life-ch06-1-see-also-closing](../sources/fxa301-make-arts-for-a-better-life-ch06-1-see-also-closing.md)
-- [fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals-(2)](../sources/fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals-(2).md)
+- [fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals-(2)](../sources/fxa301-make-arts-for-a-better-life-ch39-1-when-setting-goals-%282%29.md)
 - [fxa301-week11-anything-is-possible-the-arts-and-social-inclusion](../sources/fxa301-week11-anything-is-possible-the-arts-and-social-inclusion.md)
 - [fxa301-week11-choose-art](../sources/fxa301-week11-choose-art.md)
 - [fxa303-week03-arts-in-adolescence](../sources/fxa303-week03-arts-in-adolescence.md)

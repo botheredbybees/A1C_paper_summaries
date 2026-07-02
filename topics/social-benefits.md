@@ -25,5 +25,5 @@ The social benefits derived from art and music interventions highlight their mul
 
 ## Sources
 
-- [fxa301-week01-making-art-with-communities-a-work-guide-(3)](../sources/fxa301-week01-making-art-with-communities-a-work-guide-(3).md)
+- [fxa301-week01-making-art-with-communities-a-work-guide-(3)](../sources/fxa301-week01-making-art-with-communities-a-work-guide-%283%29.md)
 - [fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness](../sources/fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness.md)

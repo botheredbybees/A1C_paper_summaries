@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: instrumental-activities-daily-living
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## Instrumental Activities Daily Living

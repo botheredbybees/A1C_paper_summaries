@@ -35,11 +35,13 @@ sources:
   - fxa303-week11-creative-arts-therapies-for-the-mental-health-of-emerging
   - fxa303-week13-evaluation-of-a-standardized-humor-group-in-a-clinical
   - fxa303-week13-social-ties-and-mental-health
+  - psy214-week00-mindfulness-interventions
+  - psy214-week00-mindfulness-meditation-and-psychopathology
 tags:
 - mental-health-interventions
 title: Creative Therapies in Mental Health
 type: topic
-updated: 2026-05-15
+updated: 2026-06-25
 ---
 
 ## Creative Therapies in Mental Health
@@ -61,7 +63,7 @@ The exploration of creative therapies such as photography and play offers unique
 - [fxa100-week03-music-therapy-for-depression-it-seems-to-work-but-how](../sources/fxa100-week03-music-therapy-for-depression-it-seems-to-work-but-how.md)
 - [fxa100-week04-guidelines-for-arts-and-mental-health-projects](../sources/fxa100-week04-guidelines-for-arts-and-mental-health-projects.md)
 - [fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery](../sources/fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery.md)
-- [fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2)](../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2).md)
+- [fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2)](../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-%282%29.md)
 - [fxa100-week09-week-9-lecture-dramatherapy-dance-therapy-and-applied](../sources/fxa100-week09-week-9-lecture-dramatherapy-dance-therapy-and-applied.md)
 - [fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living](../sources/fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living.md)
 - [fxa100-week13-dance-in-prisons-a-systematic-review-and-narrative-synthesis](../sources/fxa100-week13-dance-in-prisons-a-systematic-review-and-narrative-synthesis.md)
@@ -71,7 +73,7 @@ The exploration of creative therapies such as photography and play offers unique
 - [fxa202-week08-photography-as-self-therapy-an-introduction-for-beginners](../sources/fxa202-week08-photography-as-self-therapy-an-introduction-for-beginners.md)
 - [fxa202-week09-expressive-writing-therapy-exercises-examples](../sources/fxa202-week09-expressive-writing-therapy-exercises-examples.md)
 - [fxa202-week13-phototherapy-to-increase-self-compassion-in-college-students](../sources/fxa202-week13-phototherapy-to-increase-self-compassion-in-college-students.md)
-- [fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2)](../sources/fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2).md)
+- [fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2)](../sources/fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-%282%29.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6](../sources/fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6.md)
 - [fxa301-week01-arts-on-prescription-in-sefton-programme-report](../sources/fxa301-week01-arts-on-prescription-in-sefton-programme-report.md)
 - [fxa301-week01-guidelines-for-arts-and-mental-health-projects](../sources/fxa301-week01-guidelines-for-arts-and-mental-health-projects.md)
@@ -90,3 +92,5 @@ The exploration of creative therapies such as photography and play offers unique
 - [fxa303-week11-creative-arts-therapies-for-the-mental-health-of-emerging](../sources/fxa303-week11-creative-arts-therapies-for-the-mental-health-of-emerging.md)
 - [fxa303-week13-evaluation-of-a-standardized-humor-group-in-a-clinical](../sources/fxa303-week13-evaluation-of-a-standardized-humor-group-in-a-clinical.md)
 - [fxa303-week13-social-ties-and-mental-health](../sources/fxa303-week13-social-ties-and-mental-health.md)
+- [psy214-week00-mindfulness-interventions](../sources/psy214-week00-mindfulness-interventions.md)
+- [psy214-week00-mindfulness-meditation-and-psychopathology](../sources/psy214-week00-mindfulness-meditation-and-psychopathology.md)

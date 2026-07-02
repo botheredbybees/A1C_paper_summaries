@@ -27,4 +27,4 @@ The concept of 'creative traditions' emerges from the intersection of ethnomusic
 
 ## Sources
 
-- [fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2)](../sources/fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2).md)
+- [fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2)](../sources/fxa301-make-arts-for-a-better-life-ch42-156-oxford-%282%29.md)

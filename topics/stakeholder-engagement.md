@@ -31,4 +31,4 @@ Both sources emphasize the importance of stakeholder engagement in enhancing res
 
 - [fxa100-week04-conceptualizing-and-planning-interventions](../sources/fxa100-week04-conceptualizing-and-planning-interventions.md)
 - [fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well](../sources/fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well.md)
-- [fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well-(2)](../sources/fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well-(2).md)
+- [fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well-(2)](../sources/fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well-%282%29.md)

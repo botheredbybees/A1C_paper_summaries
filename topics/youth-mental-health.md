@@ -31,4 +31,4 @@ Arts-based strategies have emerged as a promising approach to supporting youth m
 
 - [fxa303-week03-supporting-youth-mental-health-with-arts-based-strategies-a](../sources/fxa303-week03-supporting-youth-mental-health-with-arts-based-strategies-a.md)
 - [fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a](../sources/fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a.md)
-- [fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a-(2)](../sources/fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a-(2).md)
+- [fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a-(2)](../sources/fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a-%282%29.md)

@@ -24,7 +24,7 @@ The second edition of 'The Art and Science of Dance/Movement Therapy' provides a
 
 ## Key Concepts
 
-- [movement therapy](dance/movement therapy.md)
+- [movement therapy](../topics/movement therapy.md)
 - [therapeutic use of movement](../topics/dance-movement-therapy.md)
 - [psychological intervention](../topics/psychological-intervention.md)
 

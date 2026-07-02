@@ -41,7 +41,7 @@ Neuroaesthetics explores the neural underpinnings of human engagement with art a
 ## Sources
 
 - [fxa100-week06-art-and-the-brain-a-view-from-dementia](../sources/fxa100-week06-art-and-the-brain-a-view-from-dementia.md)
-- [fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia-(2)](../sources/fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia-(2).md)
+- [fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia-(2)](../sources/fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia-%282%29.md)
 - [fxa100-week06-lesson-fxa100-week06-page-2-visual-arts-and-the-brain](../sources/fxa100-week06-lesson-fxa100-week06-page-2-visual-arts-and-the-brain.md)
 - [fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers](../sources/fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers.md)
 - [fxa100-week06-the-brain-on-art-intense-aesthetic-experience-activates-the](../sources/fxa100-week06-the-brain-on-art-intense-aesthetic-experience-activates-the.md)

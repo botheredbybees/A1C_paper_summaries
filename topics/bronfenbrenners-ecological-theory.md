@@ -27,4 +27,4 @@ Bronfenbrenner's ecological systems theory offers a comprehensive framework to u
 
 ## Sources
 
-- [fxa303-week03-developmental-psychology-from-infancy-to-adulthood-(2)](../sources/fxa303-week03-developmental-psychology-from-infancy-to-adulthood-(2).md)
+- [fxa303-week03-developmental-psychology-from-infancy-to-adulthood-(2)](../sources/fxa303-week03-developmental-psychology-from-infancy-to-adulthood-%282%29.md)

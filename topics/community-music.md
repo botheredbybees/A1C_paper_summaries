@@ -37,7 +37,7 @@ The integration of community music highlights its potential to foster life-long 
 - [fxa100-week04-engaging-in-community-music-an-introduction](../sources/fxa100-week04-engaging-in-community-music-an-introduction.md)
 - [fxa301-week01-culture-of-inquiry](../sources/fxa301-week01-culture-of-inquiry.md)
 - [fxa301-week01-engaging-in-community-music-an-introduction](../sources/fxa301-week01-engaging-in-community-music-an-introduction.md)
-- [fxa301-week01-engaging-in-community-music-an-introduction-(2)](../sources/fxa301-week01-engaging-in-community-music-an-introduction-(2).md)
+- [fxa301-week01-engaging-in-community-music-an-introduction-(2)](../sources/fxa301-week01-engaging-in-community-music-an-introduction-%282%29.md)
 - [fxa301-week01-music-and-meaning-in-community-contexts](../sources/fxa301-week01-music-and-meaning-in-community-contexts.md)
 - [fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam.md)
 - [fxa303-week11-lgbtq-choirs-community-music-queer-artistic-citizenship-in](../sources/fxa303-week11-lgbtq-choirs-community-music-queer-artistic-citizenship-in.md)

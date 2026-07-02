@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: first-nations-heritage
-updated: 2026-05-18
+updated: 2026-07-03
 ---
 
 ## First Nations Heritage
