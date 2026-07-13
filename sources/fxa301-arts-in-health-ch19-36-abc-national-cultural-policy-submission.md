@@ -21,7 +21,7 @@ tags: ["arts-in-health", "medical-humanities", "psychotherapy", "healthcare-envi
 key_concepts: ["Arts in Health Diamond", "continua model", "Venn diagram approach"]
 methods: []
 slug: fxa301-arts-in-health-ch19-36-abc-national-cultural-policy-submission
-related: ["arts-in-health", "healthcare-environment"]
+related: ["arts-in-health", "healthcare-environment", "medical-humanities"]
 created: 2026-05-03
 updated: 2026-06-25
 ---
@@ -54,3 +54,4 @@ The chapter explores the concept of 'arts in health', a field that lacks a stand
 
 - [arts-in-health](../topics/arts-in-health.md)
 - [healthcare-environment](../topics/healthcare-environment.md)
+- [medical-humanities](../topics/medical-humanities.md)

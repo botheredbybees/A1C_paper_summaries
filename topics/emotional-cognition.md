@@ -5,11 +5,13 @@ slug: the-power-of-music-on-emotional-cognition
 sources:
   - fxa100-week02-the-power-of-music
   - fxa100-week03-the-effects-of-music-on-the-brain-video-transcript
+  - fxa300-week01-web-article-guedes-2023
+  - fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession-(2)
 tags:
 - emotional-cognition
 title: The Power of Music on Emotional Cognition
 type: topic
-updated: 2026-05-11
+updated: 2026-07-13
 ---
 
 ## The Power of Music on Emotional Cognition
@@ -30,3 +32,5 @@ Music has been extensively studied for its profound impact on emotional cognitio
 
 - [fxa100-week02-the-power-of-music](../sources/fxa100-week02-the-power-of-music.md)
 - [fxa100-week03-the-effects-of-music-on-the-brain-video-transcript](../sources/fxa100-week03-the-effects-of-music-on-the-brain-video-transcript.md)
+- [fxa300-week01-web-article-guedes-2023](../sources/fxa300-week01-web-article-guedes-2023.md)
+- [fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession-(2)](../sources/fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession-%282%29.md)

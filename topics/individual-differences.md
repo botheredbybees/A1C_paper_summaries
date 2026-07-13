@@ -4,13 +4,14 @@ domain: population
 slug: individual-differences-in-aesthetic-and-emotional-experiences
 sources:
   - fxa100-week13-what-works-for-whom-a-critical-review-of-psychotherapy
+  - fxa300-week01-absorption-in-music-development-of-a-scale-to-identify
   - fxa301-week02-aesthetic-judgments-of-novel-graphic-patterns-analyses-of
   - fxa301-week02-emotions-during-live-music-performance-links-with
 tags:
 - individual-differences
 title: Individual Differences in Aesthetic and Emotional Experiences
 type: topic
-updated: 2026-05-15
+updated: 2026-07-06
 ---
 
 ## Individual Differences in Aesthetic and Emotional Experiences
@@ -30,5 +31,6 @@ The examination of individual differences reveals the diverse ways people percei
 ## Sources
 
 - [fxa100-week13-what-works-for-whom-a-critical-review-of-psychotherapy](../sources/fxa100-week13-what-works-for-whom-a-critical-review-of-psychotherapy.md)
+- [fxa300-week01-absorption-in-music-development-of-a-scale-to-identify](../sources/fxa300-week01-absorption-in-music-development-of-a-scale-to-identify.md)
 - [fxa301-week02-aesthetic-judgments-of-novel-graphic-patterns-analyses-of](../sources/fxa301-week02-aesthetic-judgments-of-novel-graphic-patterns-analyses-of.md)
 - [fxa301-week02-emotions-during-live-music-performance-links-with](../sources/fxa301-week02-emotions-during-live-music-performance-links-with.md)

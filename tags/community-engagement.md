@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: community-engagement
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Community Engagement
@@ -60,6 +60,7 @@ updated: 2026-07-03
 - [Choose Art](../sources/fxa301-week11-choose-art.md)
 - [Putting Communities First: Inclusive Museum Practice through the CARES Framework](../sources/fxa301-week11-putting-communities-first-inclusive-museum-practice-through.md)
 - [Art, Ingenuity and Refugees](../sources/fxa301-week11-transcript-if-you-are-interested-and-want-to-know-more-about.md)
+- [The Routledge Companion to Health Humanities: Part 2 - Applications](../sources/fxa302-week01-the-routledge-companion-to-health-humanities-part-2.md)
 - [Arts in Adolescence](../sources/fxa303-week03-arts-in-adolescence.md)
 - [Arts On Prescription Meets Sir Quentin Blake](../sources/fxa303-week03-arts-on-prescription-meets-sir-quentin-blake.md)
 - [Centre Stage +20: A Report on Youth Theatre in Ireland](../sources/fxa303-week03-centre-stage-20-a-report-on-youth-theatre-in-ireland.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: depth-of-field
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Depth Of Field

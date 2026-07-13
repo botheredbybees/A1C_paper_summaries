@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: autism-spectrum-disorder
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Autism Spectrum Disorder

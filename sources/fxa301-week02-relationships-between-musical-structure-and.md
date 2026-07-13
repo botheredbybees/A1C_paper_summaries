@@ -11,7 +11,7 @@ tags: ["music-emotion", "psychophysiology-measures", "musical-structure", "fxa30
 key_concepts: ["harmonic-complexity", "rhythmic-articulation", "physiological-responses"]
 methods: ["correlational-study"]
 slug: fxa301-week02-relationships-between-musical-structure-and
-related: ["music-emotion"]
+related: ["music-emotion", "musical-structure"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,3 +42,4 @@ This study explores the relationship between musical structure and psychophysiol
 ## See Also
 
 - [music-emotion](../topics/music-emotion.md)
+- [musical-structure](../topics/musical-structure.md)

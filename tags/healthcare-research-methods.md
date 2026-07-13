@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: healthcare-research-methods
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Healthcare Research Methods

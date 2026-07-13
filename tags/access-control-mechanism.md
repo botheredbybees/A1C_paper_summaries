@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: access-control-mechanism
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Access Control Mechanism

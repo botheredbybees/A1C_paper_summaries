@@ -5,12 +5,13 @@ slug: neuroscience-research-in-music-and-movement
 sources:
   - fxa100-week02-are-the-brains-of-musicians-physically-different
   - fxa100-week04-music-as-therapy-and-health-promotion
+  - fxa300-week02-biopsychology-as-a-neuroscience
   - fxa301-week03-transcript-youtube-5utv1ergbs8
 tags:
 - neuroscience-research
 title: Neuroscience Research in Music and Movement
 type: topic
-updated: 2026-05-11
+updated: 2026-07-13
 ---
 
 ## Neuroscience Research in Music and Movement
@@ -31,4 +32,5 @@ The integration of music and movement interventions into neuroscience research r
 
 - [fxa100-week02-are-the-brains-of-musicians-physically-different](../sources/fxa100-week02-are-the-brains-of-musicians-physically-different.md)
 - [fxa100-week04-music-as-therapy-and-health-promotion](../sources/fxa100-week04-music-as-therapy-and-health-promotion.md)
+- [fxa300-week02-biopsychology-as-a-neuroscience](../sources/fxa300-week02-biopsychology-as-a-neuroscience.md)
 - [fxa301-week03-transcript-youtube-5utv1ergbs8](../sources/fxa301-week03-transcript-youtube-5utv1ergbs8.md)

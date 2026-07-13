@@ -5,11 +5,12 @@ slug: spiritual-wellbeing-in-palliative-care-and-dementia
 sources:
   - fxa100-week07-dementia-and-our-mob-caring-for-spirit
   - fxa301-week06-song-of-life-sol-study-protocol-a-multicenter-randomized
+  - fxa302-week02-first-knowledges-health-spirit-country-and-culture
 tags:
 - spiritual-wellbeing
 title: Spiritual Wellbeing in Palliative Care and Dementia
 type: topic
-updated: 2026-05-11
+updated: 2026-07-13
 ---
 
 ## Spiritual Wellbeing in Palliative Care and Dementia
@@ -30,3 +31,4 @@ The integration of spiritual care into palliative care and dementia management h
 
 - [fxa100-week07-dementia-and-our-mob-caring-for-spirit](../sources/fxa100-week07-dementia-and-our-mob-caring-for-spirit.md)
 - [fxa301-week06-song-of-life-sol-study-protocol-a-multicenter-randomized](../sources/fxa301-week06-song-of-life-sol-study-protocol-a-multicenter-randomized.md)
+- [fxa302-week02-first-knowledges-health-spirit-country-and-culture](../sources/fxa302-week02-first-knowledges-health-spirit-country-and-culture.md)

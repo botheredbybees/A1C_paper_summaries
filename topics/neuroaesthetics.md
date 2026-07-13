@@ -13,6 +13,9 @@ sources:
   - fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the
   - fxa100-week12-inner-vision-an-exploration-of-art-and-the-brain
   - fxa100-week13-anatomically-distinct-dopamine-release-during-anticipation
+  - fxa101-week02-synaesthesia-creativity-and-art-what-is-the-link
+  - fxa300-week01-emotional-responses-to-music-the-need-to-consider
+  - fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession-(2)
   - fxa301-bridging-the-creative-arts-therapies-ch01-1-essential
   - fxa301-week01-week-2-introduction-fxa301-arts-in-the-community
   - fxa301-week02-lecture-on-perception-of-the-arts
@@ -21,7 +24,7 @@ tags:
 - neuroaesthetics
 title: Neuroaesthetics
 type: topic
-updated: 2026-05-18
+updated: 2026-07-13
 ---
 
 ## Neuroaesthetics
@@ -50,6 +53,9 @@ Neuroaesthetics explores the neural underpinnings of human engagement with art a
 - [fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the](../sources/fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the.md)
 - [fxa100-week12-inner-vision-an-exploration-of-art-and-the-brain](../sources/fxa100-week12-inner-vision-an-exploration-of-art-and-the-brain.md)
 - [fxa100-week13-anatomically-distinct-dopamine-release-during-anticipation](../sources/fxa100-week13-anatomically-distinct-dopamine-release-during-anticipation.md)
+- [fxa101-week02-synaesthesia-creativity-and-art-what-is-the-link](../sources/fxa101-week02-synaesthesia-creativity-and-art-what-is-the-link.md)
+- [fxa300-week01-emotional-responses-to-music-the-need-to-consider](../sources/fxa300-week01-emotional-responses-to-music-the-need-to-consider.md)
+- [fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession-(2)](../sources/fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession-%282%29.md)
 - [fxa301-bridging-the-creative-arts-therapies-ch01-1-essential](../sources/fxa301-bridging-the-creative-arts-therapies-ch01-1-essential.md)
 - [fxa301-week01-week-2-introduction-fxa301-arts-in-the-community](../sources/fxa301-week01-week-2-introduction-fxa301-arts-in-the-community.md)
 - [fxa301-week02-lecture-on-perception-of-the-arts](../sources/fxa301-week02-lecture-on-perception-of-the-arts.md)

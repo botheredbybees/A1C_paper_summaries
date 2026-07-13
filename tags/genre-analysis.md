@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: genre-analysis
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Genre Analysis

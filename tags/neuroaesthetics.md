@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuroaesthetics
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Neuroaesthetics
@@ -16,6 +16,9 @@ updated: 2026-07-03
 - [When Words Fade, the Canvas Speaks: Revelations from the Science of Art and the Brain](../sources/fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the.md)
 - [Inner Vision: An Exploration of Art and the Brain](../sources/fxa100-week12-inner-vision-an-exploration-of-art-and-the-brain.md)
 - [Anatomically distinct dopamine release during anticipation and experience of peak emotion to music](../sources/fxa100-week13-anatomically-distinct-dopamine-release-during-anticipation.md)
+- [Synaesthesia, creativity and art: What is the link?](../sources/fxa101-week02-synaesthesia-creativity-and-art-what-is-the-link.md)
+- [Emotional responses to music: The need to consider underlying mechanisms](../sources/fxa300-week01-emotional-responses-to-music-the-need-to-consider.md)
+- [This Is Your Brain On Music: Understanding a Human Obsession - Chapter 4](../sources/fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession-%282%29.md)
 - [Innovations in Aesthetic Spaces for Health and Well-Being](../sources/fxa301-bridging-the-creative-arts-therapies-ch01-1-essential.md)
 - [Week 2 Introduction - FXA301 Arts in the Community](../sources/fxa301-week01-week-2-introduction-fxa301-arts-in-the-community.md)
 - [Lecture on Perception of the Arts](../sources/fxa301-week02-lecture-on-perception-of-the-arts.md)

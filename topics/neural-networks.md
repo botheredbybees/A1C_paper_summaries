@@ -4,6 +4,7 @@ domain: method
 slug: neural-networks-in-cognitive-processing
 sources:
   - fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers
+  - fxa300-week02-music-and-the-brain
   - fxa303-week02-fxa303-week-2-child-development-and-creative-arts
   - fxa303-week03-limbic-systems-for-emotion-and-for-memory-but-no-single
   - fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between
@@ -11,7 +12,7 @@ tags:
 - neural-networks
 title: Neural Networks in Cognitive Processing
 type: topic
-updated: 2026-05-11
+updated: 2026-07-13
 ---
 
 ## Neural Networks in Cognitive Processing
@@ -31,6 +32,7 @@ The integration of findings from these sources highlights the complexity and var
 ## Sources
 
 - [fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers](../sources/fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers.md)
+- [fxa300-week02-music-and-the-brain](../sources/fxa300-week02-music-and-the-brain.md)
 - [fxa303-week02-fxa303-week-2-child-development-and-creative-arts](../sources/fxa303-week02-fxa303-week-2-child-development-and-creative-arts.md)
 - [fxa303-week03-limbic-systems-for-emotion-and-for-memory-but-no-single](../sources/fxa303-week03-limbic-systems-for-emotion-and-for-memory-but-no-single.md)
 - [fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between](../sources/fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between.md)

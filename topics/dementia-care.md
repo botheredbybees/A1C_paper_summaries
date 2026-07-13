@@ -190,6 +190,8 @@ sources:
   - fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment
   - fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1
   - fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2
+  - fxa302-week01-shared-music-listening
+  - fxa302-week01-visual-arts
   - fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a
   - fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an
   - fxa303-week08-therapeutic-clowning
@@ -217,7 +219,7 @@ tags:
 - dementia-care
 title: Dementia Care Interventions
 type: topic
-updated: 2026-05-18
+updated: 2026-07-06
 ---
 
 ## Dementia Care Interventions
@@ -423,6 +425,8 @@ The integration of creative arts and technology in dementia care reveals diverse
 - [fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment.md)
 - [fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1](../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1.md)
 - [fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2](../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2.md)
+- [fxa302-week01-shared-music-listening](../sources/fxa302-week01-shared-music-listening.md)
+- [fxa302-week01-visual-arts](../sources/fxa302-week01-visual-arts.md)
 - [fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a](../sources/fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a.md)
 - [fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an](../sources/fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an.md)
 - [fxa303-week08-therapeutic-clowning](../sources/fxa303-week08-therapeutic-clowning.md)

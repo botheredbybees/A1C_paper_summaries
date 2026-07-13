@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dietary-patterns
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Dietary Patterns

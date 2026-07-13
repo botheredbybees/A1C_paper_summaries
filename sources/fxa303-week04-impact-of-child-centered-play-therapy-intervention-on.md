@@ -11,7 +11,7 @@ tags: ["child-centered-play-therapy", "autism-interventions", "neurofeedback", "
 key_concepts: ["child-centered play therapy (CCPT)", "brain EEG activity", "randomized controlled trial (RCT)"]
 methods: ["randomized controlled trial", "electroencephalography (EEG)", "behavioral assessments"]
 slug: fxa303-week04-impact-of-child-centered-play-therapy-intervention-on
-related: ["autism-interventions", "behavioral-outcomes", "child-centered-play-therapy"]
+related: ["autism-interventions", "behavioral-outcomes", "child-centered-play-therapy", "electroencephalography-eeg"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -48,3 +48,4 @@ This study investigates the impact of child-centered play therapy (CCPT) on auti
 - [autism-interventions](../topics/autism-interventions.md)
 - [behavioral-outcomes](../topics/behavioral-outcomes.md)
 - [child-centered-play-therapy](../topics/child-centered-play-therapy.md)
+- [electroencephalography-eeg](../topics/electroencephalography-eeg.md)

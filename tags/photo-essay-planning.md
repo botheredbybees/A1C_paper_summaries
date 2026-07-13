@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: photo-essay-planning
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Photo Essay Planning

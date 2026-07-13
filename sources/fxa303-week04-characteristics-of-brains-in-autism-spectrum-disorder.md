@@ -11,7 +11,7 @@ tags: ["autism-spectrum-disorder", "neuroimaging-studies", "brain-development", 
 key_concepts: ["accelerated-brain-growth", "altered-connectivity-pattems", "gray-matter-abnormalities"]
 methods: ["systematic-review"]
 slug: fxa303-week04-characteristics-of-brains-in-autism-spectrum-disorder
-related: ["autism-spectrum-disorder", "brain-development", "functional-mri"]
+related: ["autism-spectrum-disorder", "brain-development", "functional-mri", "neuroimaging-studies"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -47,3 +47,4 @@ This paper reviews recent neuroimaging studies to characterize the brains of ind
 - [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)
 - [brain-development](../topics/brain-development.md)
 - [functional-mri](../topics/functional-mri.md)
+- [neuroimaging-studies](../topics/neuroimaging-studies.md)

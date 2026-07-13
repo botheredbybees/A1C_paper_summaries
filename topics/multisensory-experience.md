@@ -7,7 +7,8 @@ tags: ["multisensory-experience"]
 sources:
   - fxa100-week08-unlocking-the-door-to-being-there-the-contribution-of
   - fxa100-week13-sensory-mediated-arts-on-prescription-emotional-arousal
-updated: 2026-05-15
+  - fxa300-week01-effect-of-background-noise-on-food-perception
+updated: 2026-07-06
 ---
 
 ## Multisensory Experiences
@@ -28,3 +29,4 @@ The concept of multisensory experiences highlights the importance of engaging mu
 
 - [fxa100-week08-unlocking-the-door-to-being-there-the-contribution-of](../sources/fxa100-week08-unlocking-the-door-to-being-there-the-contribution-of.md)
 - [fxa100-week13-sensory-mediated-arts-on-prescription-emotional-arousal](../sources/fxa100-week13-sensory-mediated-arts-on-prescription-emotional-arousal.md)
+- [fxa300-week01-effect-of-background-noise-on-food-perception](../sources/fxa300-week01-effect-of-background-noise-on-food-perception.md)

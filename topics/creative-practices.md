@@ -5,12 +5,14 @@ slug: creative-arts-for-community-wellbeing
 sources:
   - fxa202-week13-an-applied-phenomenology-the-inner-life-of-writing-poetry
   - fxa301-week01-a-step-by-step-approach-to-the-research-process
+  - fxa302-week01-medicine-within-health-humanities
+  - fxa302-week01-the-routledge-companion-to-health-humanities-part-2
   - fxa303-week10-yesterday-i-couldnt-see-tomorrows-sun-shines-now-sharing
 tags:
 - creative-practices
 title: Creative Arts for Community Wellbeing
 type: topic
-updated: 2026-05-15
+updated: 2026-07-06
 ---
 
 ## Creative Arts for Community Wellbeing
@@ -31,4 +33,6 @@ The sources collectively emphasize the utility and importance of creative arts m
 
 - [fxa202-week13-an-applied-phenomenology-the-inner-life-of-writing-poetry](../sources/fxa202-week13-an-applied-phenomenology-the-inner-life-of-writing-poetry.md)
 - [fxa301-week01-a-step-by-step-approach-to-the-research-process](../sources/fxa301-week01-a-step-by-step-approach-to-the-research-process.md)
+- [fxa302-week01-medicine-within-health-humanities](../sources/fxa302-week01-medicine-within-health-humanities.md)
+- [fxa302-week01-the-routledge-companion-to-health-humanities-part-2](../sources/fxa302-week01-the-routledge-companion-to-health-humanities-part-2.md)
 - [fxa303-week10-yesterday-i-couldnt-see-tomorrows-sun-shines-now-sharing](../sources/fxa303-week10-yesterday-i-couldnt-see-tomorrows-sun-shines-now-sharing.md)

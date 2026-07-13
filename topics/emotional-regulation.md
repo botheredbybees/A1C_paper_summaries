@@ -4,6 +4,7 @@ domain: intervention
 slug: emotional-regulation
 sources:
   - fxa100-week13-dance-movement-therapy-improves-emotional-responses-and
+  - fxa300-week01-the-pleasures-of-sad-music-a-systematic-review
   - fxa301-week02-the-brain-and-how-we-perceive-information
   - fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and
   - fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd
@@ -14,11 +15,12 @@ sources:
   - fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental
   - fxa303-week11-lesson-fxa303-week11-page-1-overview
   - psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an
+  - psy214-week02-positive-emotions-as-a-path-to-well-being
 tags:
 - emotional-regulation
 title: Emotional Regulation
 type: topic
-updated: 2026-06-25
+updated: 2026-07-13
 ---
 
 ## Emotional Regulation
@@ -38,6 +40,7 @@ The synthesis integrates various aspects of emotional regulation across diverse 
 ## Sources
 
 - [fxa100-week13-dance-movement-therapy-improves-emotional-responses-and](../sources/fxa100-week13-dance-movement-therapy-improves-emotional-responses-and.md)
+- [fxa300-week01-the-pleasures-of-sad-music-a-systematic-review](../sources/fxa300-week01-the-pleasures-of-sad-music-a-systematic-review.md)
 - [fxa301-week02-the-brain-and-how-we-perceive-information](../sources/fxa301-week02-the-brain-and-how-we-perceive-information.md)
 - [fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and](../sources/fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and.md)
 - [fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd](../sources/fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd.md)
@@ -48,3 +51,4 @@ The synthesis integrates various aspects of emotional regulation across diverse 
 - [fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental](../sources/fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental.md)
 - [fxa303-week11-lesson-fxa303-week11-page-1-overview](../sources/fxa303-week11-lesson-fxa303-week11-page-1-overview.md)
 - [psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an](../sources/psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an.md)
+- [psy214-week02-positive-emotions-as-a-path-to-well-being](../sources/psy214-week02-positive-emotions-as-a-path-to-well-being.md)

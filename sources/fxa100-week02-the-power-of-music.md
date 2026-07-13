@@ -11,7 +11,7 @@ tags: ["cultural-psychology", "emotional-cognition", "fxa100", "motor-neurons", 
 key_concepts: ["therapeutic-benefits-of-music", "emotional-evocation-by-music", "neural-correlates-of-musical-experience"]
 methods: ["case-study"]
 slug: fxa100-week02-the-power-of-music
-related: ["emotional-cognition", "music-therapy", "neurology"]
+related: ["cultural-psychology", "emotional-cognition", "music-therapy", "neurology"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,6 +41,7 @@ Oliver Sacks explores the profound impact of music on human beings, questioning 
 
 ## See Also
 
+- [cultural-psychology](../topics/cultural-psychology.md)
 - [emotional-cognition](../topics/emotional-cognition.md)
 - [music-therapy](../topics/music-therapy.md)
 - [neurology](../topics/neurology.md)

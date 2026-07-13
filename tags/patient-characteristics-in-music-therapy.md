@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: patient-characteristics-in-music-therapy
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Patient Characteristics In Music Therapy

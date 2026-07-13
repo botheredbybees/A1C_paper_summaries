@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: health-wellbeing
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Health Wellbeing
@@ -15,3 +15,5 @@ updated: 2026-07-03
 - [Welcome to Week 3 - FXA301 Arts in the Community](../sources/fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community.md)
 - [Music and Medicine](../sources/fxa301-week06-music-and-medicine.md)
 - [Designing Inclusive Projects for Health and Wellbeing Outcomes](../sources/fxa301-week09-lesson-fxa301-week09-page-1.md)
+- [Musical Composition and Vocal Expression](../sources/fxa302-week01-musical-composition-and-vocal-expression.md)
+- [Papermaking: An Artistic Process for Health and Wellbeing](../sources/fxa302-week01-papermaking-an-artistic-process-for-health-and-wellbeing.md)

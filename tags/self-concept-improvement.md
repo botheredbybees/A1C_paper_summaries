@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: self-concept-improvement
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Self Concept Improvement

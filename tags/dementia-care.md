@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dementia-care
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Dementia Care
@@ -193,6 +193,8 @@ updated: 2026-07-03
 - [Does a Model Exist?](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment.md)
 - [Theatre of Wandering: Rehearsal and Devising Notes [Part 1]](../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1.md)
 - [Theatre of Wandering: Rehearsal and devising notes [Part 2]](../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2.md)
+- [Shared Music Listening](../sources/fxa302-week01-shared-music-listening.md)
+- [Visual Arts](../sources/fxa302-week01-visual-arts.md)
 - [Elder-Clowning in Long-Term Dementia Care: Results of a Pilot Study](../sources/fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a.md)
 - [Strategies for diversity: medical clowns in dementia care - an ethnographic study](../sources/fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an.md)
 - [Therapeutic Clowning](../sources/fxa303-week08-therapeutic-clowning.md)

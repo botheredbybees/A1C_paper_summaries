@@ -11,7 +11,7 @@ tags: ["fear-of-clowns", "coulrophobia", "media-influences", "psychological-fact
 key_concepts: ["uncertainty-harm-theory", "media-portrayals", "behavior-unpredictability"]
 methods: ["systematic-review", "pilot-study"]
 slug: fxa303-week08-fear-of-clowns-an-investigation-into-the-aetiology-of
-related: ["coulrophobia", "survey-research"]
+related: ["coulrophobia", "psychological-factors", "survey-research"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,4 +45,5 @@ This study explores the origins of coulrophobia, or fear of clowns, which is pre
 ## See Also
 
 - [coulrophobia](../topics/coulrophobia.md)
+- [psychological-factors](../topics/psychological-factors.md)
 - [survey-research](../topics/survey-research.md)

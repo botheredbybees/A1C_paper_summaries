@@ -3,12 +3,14 @@ confidence: low
 domain: intervention
 slug: musical-structure-in-dementia-care
 sources:
+  - fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession-(2)
+  - fxa301-week02-relationships-between-musical-structure-and
 - fxa100-week02-lesson-fxa100-week02-page-2-hearing-and-music
 tags:
 - musical-structure
 title: Musical Structure in Dementia Care
 type: topic
-updated: 2026-05-04
+updated: 2026-07-13
 ---
 
 ## Musical Structure in Dementia Care
@@ -27,4 +29,5 @@ The integration of musical structures into dementia care interventions showcases
 
 ## Sources
 
-- [fxa100-week02-lesson-fxa100-week02-page-2-hearing-and-music](../sources/fxa100-week02-lesson-fxa100-week02-page-2-hearing-and-music.md)
+- [fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession-(2)](../sources/fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession-%282%29.md)
+- [fxa301-week02-relationships-between-musical-structure-and](../sources/fxa301-week02-relationships-between-musical-structure-and.md)

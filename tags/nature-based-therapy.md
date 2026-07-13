@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: nature-based-therapy
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Nature Based Therapy

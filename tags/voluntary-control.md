@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: voluntary-control
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Voluntary Control

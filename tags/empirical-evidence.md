@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: empirical-evidence
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Empirical Evidence

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ethical-conduct-human-research
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Ethical Conduct Human Research

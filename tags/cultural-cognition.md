@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cultural-cognition
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Cultural Cognition

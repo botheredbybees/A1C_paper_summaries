@@ -11,7 +11,7 @@ tags: ["music-therapy", "autism-spectrum-disorder", "meta-analysis", "neural-con
 key_concepts: ["music therapy", "autism spectrum disorder", "biological mechanisms", "neural connectivity"]
 methods: ["meta-analysis"]
 slug: fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism
-related: ["autism-spectrum-disorder", "brain-plasticity", "meta-analysis", "music-therapy"]
+related: ["autism-spectrum-disorder", "brain-plasticity", "meta-analysis", "music-therapy", "neural-connectivity"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -48,3 +48,4 @@ This study examines the efficacy of music therapy (MT) as an intervention for ch
 - [brain-plasticity](../topics/brain-plasticity.md)
 - [meta-analysis](../topics/meta-analysis.md)
 - [music-therapy](../topics/music-therapy.md)
+- [neural-connectivity](../topics/neural-connectivity.md)

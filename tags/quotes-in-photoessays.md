@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: quotes-in-photoessays
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Quotes In Photoessays

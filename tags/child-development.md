@@ -1,11 +1,12 @@
 ---
 type: tag
 tag: child-development
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Child Development
 
+- [How music affects your baby\u2019s brain: Mini Parenting Master Class](../sources/fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master.md)
 - [Evaluation of Big Noise Douglas](../sources/fxa301-week06-evaluation-of-big-noise-douglas.md)
 - [An Overview of Play Therapy](../sources/fxa303-week01-an-overview-of-play-therapy.md)
 - [Play Therapy: An Analytical Mode of Therapy in Children](../sources/fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children.md)

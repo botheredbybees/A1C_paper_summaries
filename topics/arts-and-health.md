@@ -28,11 +28,12 @@ sources:
   - fxa301-week03-noah-code-of-ethics-2023
   - fxa301-week03-week-3-introduction-arts-in-the-community-for-health-and
   - fxa301-week05-submission-to-the-nsw-health-and-wellbeing-strategy
+  - fxa302-week01-fxa302-week-1-introduction
 tags:
 - arts-and-health
 title: Arts and Health
 type: topic
-updated: 2026-05-11
+updated: 2026-07-06
 ---
 
 ## Arts and Health
@@ -76,3 +77,4 @@ The integration of arts into health practices is a multifaceted intervention tha
 - [fxa301-week03-noah-code-of-ethics-2023](../sources/fxa301-week03-noah-code-of-ethics-2023.md)
 - [fxa301-week03-week-3-introduction-arts-in-the-community-for-health-and](../sources/fxa301-week03-week-3-introduction-arts-in-the-community-for-health-and.md)
 - [fxa301-week05-submission-to-the-nsw-health-and-wellbeing-strategy](../sources/fxa301-week05-submission-to-the-nsw-health-and-wellbeing-strategy.md)
+- [fxa302-week01-fxa302-week-1-introduction](../sources/fxa302-week01-fxa302-week-1-introduction.md)

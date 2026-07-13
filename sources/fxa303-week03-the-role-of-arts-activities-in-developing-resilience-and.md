@@ -11,7 +11,7 @@ tags: ["arts-activities", "mental-wellbeing", "resilience-development", "youth-h
 key_concepts: ["resilience", "self-efficacy", "mental wellbeing"]
 methods: ["rapid review"]
 slug: fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and
-related: ["community-interventions", "mental-wellbeing", "youth-health"]
+related: ["community-interventions", "mental-wellbeing", "resilience-development", "youth-health"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -49,4 +49,5 @@ The findings indicate that arts-based interventions can offer cost-effective met
 
 - [community-interventions](../topics/community-interventions.md)
 - [mental-wellbeing](../topics/mental-wellbeing.md)
+- [resilience-development](../topics/resilience-development.md)
 - [youth-health](../topics/youth-health.md)

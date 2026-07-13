@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: bullying-and-violence
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Bullying And Violence

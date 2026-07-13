@@ -11,7 +11,7 @@ tags: ["auditory-perception", "cross-modal-interaction", "embodied-cognition", "
 key_concepts: ["cross-modal interaction", "embodied cognition", "metrical structure perception"]
 methods: ["experiment"]
 slug: fxa100-week13-hearing-what-the-body-feels-auditory-encoding-of-rhythmic
-related: ["embodied-cognition", "music-cognition"]
+related: ["auditory-perception", "embodied-cognition", "music-cognition"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -41,5 +41,6 @@ This study investigates the relationship between body movement and auditory perc
 
 ## See Also
 
+- [auditory-perception](../topics/auditory-perception.md)
 - [embodied-cognition](../topics/embodied-cognition.md)
 - [music-cognition](../topics/music-cognition.md)

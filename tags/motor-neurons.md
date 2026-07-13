@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: motor-neurons
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Motor Neurons

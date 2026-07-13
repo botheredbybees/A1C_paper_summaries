@@ -11,7 +11,7 @@ tags: ["photography", "mental-health", "self-care", "memory-retention", "fxa202"
 key_concepts: ["daily digital practice", "mindfulness", "community interaction"]
 methods: []
 slug: fxa202-week03-lesson-fxa202-week03-page-2
-related: ["memory-retention", "mental-health", "photography"]
+related: ["memory-retention", "mental-health", "photography", "self-care"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,3 +45,4 @@ This lesson explores the therapeutic benefits of photography on mental health, f
 - [memory-retention](../topics/memory-retention.md)
 - [mental-health](../topics/mental-health.md)
 - [photography](../topics/photography.md)
+- [self-care](../topics/self-care.md)

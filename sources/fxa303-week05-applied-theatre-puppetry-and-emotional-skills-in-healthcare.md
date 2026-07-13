@@ -11,7 +11,7 @@ tags: ["applied-theatre", "emotional-skills", "healthcare-education", "puppetry-
 key_concepts: ["emotional-resilience", "active-listening", "cross-disciplinary-framework"]
 methods: ["case-study"]
 slug: fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare
-related: ["applied-theatre", "puppetry-in-healthcare", "self-care-practices"]
+related: ["applied-theatre", "healthcare-education", "puppetry-in-healthcare", "self-care-practices"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,5 +44,6 @@ This article explores the emotional competencies and skills required by artists,
 ## See Also
 
 - [applied-theatre](../topics/applied-theatre.md)
+- [healthcare-education](../topics/healthcare-education.md)
 - [puppetry-in-healthcare](../topics/puppetry-in-healthcare.md)
 - [self-care-practices](../topics/self-care-practices.md)

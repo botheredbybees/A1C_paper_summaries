@@ -11,7 +11,7 @@ tags: ["dementia-care", "personhood-dignity", "positive-person-work", "caregiver
 key_concepts: ["person-centered-care", "sustained-interaction", "transformative-approach"]
 methods: ["theoretical-framework"]
 slug: fxa100-week09-improving-care-the-next-step-forward
-related: ["dementia-care"]
+related: ["dementia-care", "holistic-understanding"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -48,3 +48,4 @@ The text underscores the necessity for caregivers to develop deeper interpersona
 ## See Also
 
 - [dementia-care](../topics/dementia-care.md)
+- [holistic-understanding](../topics/holistic-understanding.md)

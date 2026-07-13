@@ -6,11 +6,12 @@ sources:
   - fxa202-week03-lesson-fxa202-week03-page-4
   - fxa202-week03-lesson-fxa202-week03-week-3
   - fxa202-week06-critical-reflection-on-visual-storytelling-through
+  - psy214-week02-lesson-psy214-week02-multi-dimensional-models-of-well
 tags:
 - mindfulness
 title: Mindfulness and Therapeutic Photography
 type: topic
-updated: 2026-05-11
+updated: 2026-07-13
 ---
 
 ## Mindfulness and Therapeutic Photography
@@ -32,3 +33,4 @@ The integration of mindfulness with therapeutic photography emerges as a signifi
 - [fxa202-week03-lesson-fxa202-week03-page-4](../sources/fxa202-week03-lesson-fxa202-week03-page-4.md)
 - [fxa202-week03-lesson-fxa202-week03-week-3](../sources/fxa202-week03-lesson-fxa202-week03-week-3.md)
 - [fxa202-week06-critical-reflection-on-visual-storytelling-through](../sources/fxa202-week06-critical-reflection-on-visual-storytelling-through.md)
+- [psy214-week02-lesson-psy214-week02-multi-dimensional-models-of-well](../sources/psy214-week02-lesson-psy214-week02-multi-dimensional-models-of-well.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: intergenerational-trauma
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Intergenerational Trauma

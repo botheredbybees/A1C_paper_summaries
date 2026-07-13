@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: male-well-being
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Male Well Being

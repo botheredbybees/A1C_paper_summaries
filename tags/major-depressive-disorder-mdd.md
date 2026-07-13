@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: major-depressive-disorder-mdd
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Major Depressive Disorder Mdd

@@ -11,7 +11,7 @@ tags: ["social-psychology", "kindness-effects", "well-being-research", "systemat
 key_concepts: ["kin altruism", "reciprocal altruism", "subjective well-being", "mutualism"]
 methods: ["systematic review", "meta-analysis"]
 slug: psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the
-related: ["meta-analysis", "systematic-review", "well-being-research"]
+related: ["meta-analysis", "social-psychology", "systematic-review", "well-being-research"]
 created: 2026-06-25
 updated: 2026-06-25
 ---
@@ -46,5 +46,6 @@ The article conducts a systematic review and meta-analysis to investigate whethe
 ## See Also
 
 - [meta-analysis](../topics/meta-analysis.md)
+- [social-psychology](../topics/social-psychology.md)
 - [systematic-review](../topics/systematic-review.md)
 - [well-being-research](../topics/well-being-research.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: human-computer-interaction
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Human Computer Interaction

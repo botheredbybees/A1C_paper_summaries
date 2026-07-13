@@ -11,7 +11,7 @@ tags: ["discussion-forums", "fxa301", "online-learning", "peer-interaction", "st
 key_concepts: ["tutor-moderation", "peer-interaction"]
 methods: []
 slug: fxa301-week01-week-1-activities-page-video
-related: ["online-learning", "student-engagement"]
+related: ["discussion-forums", "online-learning", "student-engagement"]
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -39,5 +39,6 @@ This document is a video transcript for explaining weekly activities and expecta
 
 ## See Also
 
+- [discussion-forums](../topics/discussion-forums.md)
 - [online-learning](../topics/online-learning.md)
 - [student-engagement](../topics/student-engagement.md)

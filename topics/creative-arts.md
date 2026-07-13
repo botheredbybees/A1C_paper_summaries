@@ -4,6 +4,7 @@ domain: intervention
 slug: music-interventions-and-cognitive-health
 sources:
   - fxa100-week06-transcript-film-clips-from-i-remember-better-when-i-paint
+  - fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities
   - fxa202-week08-journal-and-visual-research-guidelines
   - fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1
   - fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-(2)
@@ -18,6 +19,9 @@ sources:
   - fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope
   - fxa301-week10-lesson-fxa301-week10-page-1
   - fxa301-week11-lesson-fxa301-week11-page-1
+  - fxa302-week01-creative-arts-adult-community-learning
+  - fxa302-week01-lesson-fxa302-week01-page-2
+  - fxa302-week01-lesson-fxa302-week01-page-4-activities
   - fxa303-week02-developmental-role-of-creative-arts-and-play
   - fxa303-week02-fxa303-week-2-child-development-and-creative-arts
   - fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview
@@ -48,7 +52,7 @@ tags:
 - creative-arts
 title: Music Interventions and Cognitive Health
 type: topic
-updated: 2026-05-16
+updated: 2026-07-13
 ---
 
 ## Music Interventions and Cognitive Health
@@ -67,6 +71,7 @@ The integration of findings from both sources highlights the multifaceted benefi
 ## Sources
 
 - [fxa100-week06-transcript-film-clips-from-i-remember-better-when-i-paint](../sources/fxa100-week06-transcript-film-clips-from-i-remember-better-when-i-paint.md)
+- [fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities](../sources/fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities.md)
 - [fxa202-week08-journal-and-visual-research-guidelines](../sources/fxa202-week08-journal-and-visual-research-guidelines.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1](../sources/fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-%282%29.md)
@@ -81,6 +86,9 @@ The integration of findings from both sources highlights the multifaceted benefi
 - [fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope](../sources/fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope.md)
 - [fxa301-week10-lesson-fxa301-week10-page-1](../sources/fxa301-week10-lesson-fxa301-week10-page-1.md)
 - [fxa301-week11-lesson-fxa301-week11-page-1](../sources/fxa301-week11-lesson-fxa301-week11-page-1.md)
+- [fxa302-week01-creative-arts-adult-community-learning](../sources/fxa302-week01-creative-arts-adult-community-learning.md)
+- [fxa302-week01-lesson-fxa302-week01-page-2](../sources/fxa302-week01-lesson-fxa302-week01-page-2.md)
+- [fxa302-week01-lesson-fxa302-week01-page-4-activities](../sources/fxa302-week01-lesson-fxa302-week01-page-4-activities.md)
 - [fxa303-week02-developmental-role-of-creative-arts-and-play](../sources/fxa303-week02-developmental-role-of-creative-arts-and-play.md)
 - [fxa303-week02-fxa303-week-2-child-development-and-creative-arts](../sources/fxa303-week02-fxa303-week-2-child-development-and-creative-arts.md)
 - [fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview](../sources/fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview.md)

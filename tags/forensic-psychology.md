@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: forensic-psychology
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Forensic Psychology

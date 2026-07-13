@@ -7,12 +7,16 @@ sources:
   - fxa100-week13-internet-science-6th-international-conference-insci-2019
   - fxa100-week13-mechanisms-of-change-in-dancemovement-therapy-and-their
   - fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2)
+  - fxa300-week02-epilogue-ruminations-on-music-psychology
   - fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(2)
   - fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(3)
   - fxa301-week01-an-introduction-to-research
   - fxa301-week01-arts-in-health-designing-and-researching-interventions
   - fxa301-week02-the-emerging-field-of-affective-science
   - fxa301-week08-web-article-bernard-2015
+  - fxa302-week01-health-humanities-the-future-of-medical-humanities
+  - fxa302-week01-the-routledge-handbook-of-spirituality-religion-and-the
+  - fxa302-week01-where-science-meets-stories-a-systematic-review-on
   - fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)
   - fxa303-week11-future-directions-in-understanding-and-addressing-mental
   - fxa303-week13-good-health-and-well-being
@@ -20,7 +24,7 @@ tags:
 - interdisciplinary-research
 title: Interdisciplinary Approaches to Quality of Life Improvement
 type: topic
-updated: 2026-05-16
+updated: 2026-07-13
 ---
 
 ## Interdisciplinary Approaches to Quality of Life Improvement
@@ -42,12 +46,16 @@ This synthesis focuses on interdisciplinary research aimed at enhancing the qual
 - [fxa100-week13-internet-science-6th-international-conference-insci-2019](../sources/fxa100-week13-internet-science-6th-international-conference-insci-2019.md)
 - [fxa100-week13-mechanisms-of-change-in-dancemovement-therapy-and-their](../sources/fxa100-week13-mechanisms-of-change-in-dancemovement-therapy-and-their.md)
 - [fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2)](../sources/fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-%282%29.md)
+- [fxa300-week02-epilogue-ruminations-on-music-psychology](../sources/fxa300-week02-epilogue-ruminations-on-music-psychology.md)
 - [fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(2)](../sources/fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-%282%29.md)
 - [fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(3)](../sources/fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-%283%29.md)
 - [fxa301-week01-an-introduction-to-research](../sources/fxa301-week01-an-introduction-to-research.md)
 - [fxa301-week01-arts-in-health-designing-and-researching-interventions](../sources/fxa301-week01-arts-in-health-designing-and-researching-interventions.md)
 - [fxa301-week02-the-emerging-field-of-affective-science](../sources/fxa301-week02-the-emerging-field-of-affective-science.md)
 - [fxa301-week08-web-article-bernard-2015](../sources/fxa301-week08-web-article-bernard-2015.md)
+- [fxa302-week01-health-humanities-the-future-of-medical-humanities](../sources/fxa302-week01-health-humanities-the-future-of-medical-humanities.md)
+- [fxa302-week01-the-routledge-handbook-of-spirituality-religion-and-the](../sources/fxa302-week01-the-routledge-handbook-of-spirituality-religion-and-the.md)
+- [fxa302-week01-where-science-meets-stories-a-systematic-review-on](../sources/fxa302-week01-where-science-meets-stories-a-systematic-review-on.md)
 - [fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi-%283%29.md)
 - [fxa303-week11-future-directions-in-understanding-and-addressing-mental](../sources/fxa303-week11-future-directions-in-understanding-and-addressing-mental.md)
 - [fxa303-week13-good-health-and-well-being](../sources/fxa303-week13-good-health-and-well-being.md)

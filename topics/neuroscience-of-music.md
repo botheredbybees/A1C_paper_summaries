@@ -8,12 +8,13 @@ sources:
   - fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind
   - fxa100-week03-the-effects-of-music-on-the-brain-video-transcript
   - fxa100-week03-the-power-of-music
+  - fxa300-week02-fxa300-week-2-lecture-sem-2-2026
   - fxa301-week06-music-and-medicine
 tags:
 - neuroscience-of-music
 title: The Neuroscience of Music
 type: topic
-updated: 2026-05-11
+updated: 2026-07-13
 ---
 
 ## The Neuroscience of Music
@@ -37,4 +38,5 @@ The integration of findings from three sources highlights the profound impact mu
 - [fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind](../sources/fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind.md)
 - [fxa100-week03-the-effects-of-music-on-the-brain-video-transcript](../sources/fxa100-week03-the-effects-of-music-on-the-brain-video-transcript.md)
 - [fxa100-week03-the-power-of-music](../sources/fxa100-week03-the-power-of-music.md)
+- [fxa300-week02-fxa300-week-2-lecture-sem-2-2026](../sources/fxa300-week02-fxa300-week-2-lecture-sem-2-2026.md)
 - [fxa301-week06-music-and-medicine](../sources/fxa301-week06-music-and-medicine.md)

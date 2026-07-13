@@ -11,6 +11,7 @@ sources:
   - fxa100-week13-music-interventions-for-people-with-dementia-a-review-of
   - fxa202-the-handbook-of-phototherapy-ch02-12-the-earlier-stages
   - fxa202-the-handbook-of-phototherapy-ch03-chapter-2
+  - fxa300-week01-negative-emotion-in-music-what-is-the-attraction-a
   - fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10
   - fxa301-week01-lesson-fxa301-week01-page-1-hm
   - fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and
@@ -30,7 +31,7 @@ tags:
 - qualitative-research
 title: Qualitative Research in Health and Well-being Interventions
 type: topic
-updated: 2026-07-03
+updated: 2026-07-06
 ---
 
 ## Qualitative Research in Health and Well-being Interventions
@@ -57,6 +58,7 @@ The sources collectively highlight the importance of qualitative research method
 - [fxa100-week13-music-interventions-for-people-with-dementia-a-review-of](../sources/fxa100-week13-music-interventions-for-people-with-dementia-a-review-of.md)
 - [fxa202-the-handbook-of-phototherapy-ch02-12-the-earlier-stages](../sources/fxa202-the-handbook-of-phototherapy-ch02-12-the-earlier-stages.md)
 - [fxa202-the-handbook-of-phototherapy-ch03-chapter-2](../sources/fxa202-the-handbook-of-phototherapy-ch03-chapter-2.md)
+- [fxa300-week01-negative-emotion-in-music-what-is-the-attraction-a](../sources/fxa300-week01-negative-emotion-in-music-what-is-the-attraction-a.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10](../sources/fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10.md)
 - [fxa301-week01-lesson-fxa301-week01-page-1-hm](../sources/fxa301-week01-lesson-fxa301-week01-page-1-hm.md)
 - [fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and](../sources/fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and.md)

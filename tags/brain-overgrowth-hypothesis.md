@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-overgrowth-hypothesis
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Brain Overgrowth Hypothesis

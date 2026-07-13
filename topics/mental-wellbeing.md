@@ -10,6 +10,7 @@ sources:
   - fxa301-week03-creative-health-and-care-experienced-children-and-young
   - fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and
   - fxa301-week05-submission-to-the-nsw-health-and-wellbeing-strategy
+  - fxa302-week01-the-routledge-companion-to-health-humanities-part-2
   - fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental
   - fxa303-week03-adolescence-as-a-sensitive-period-of-brain-development
   - fxa303-week03-fxa303-week-3-introduction
@@ -51,7 +52,7 @@ tags:
 - mental-wellbeing
 title: Photography as a Tool for Mental Wellbeing
 type: topic
-updated: 2026-05-16
+updated: 2026-07-06
 ---
 
 ## Photography as a Tool for Mental Wellbeing
@@ -77,6 +78,7 @@ Both sources explore photography's role in enhancing mental health through mindf
 - [fxa301-week03-creative-health-and-care-experienced-children-and-young](../sources/fxa301-week03-creative-health-and-care-experienced-children-and-young.md)
 - [fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and](../sources/fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and.md)
 - [fxa301-week05-submission-to-the-nsw-health-and-wellbeing-strategy](../sources/fxa301-week05-submission-to-the-nsw-health-and-wellbeing-strategy.md)
+- [fxa302-week01-the-routledge-companion-to-health-humanities-part-2](../sources/fxa302-week01-the-routledge-companion-to-health-humanities-part-2.md)
 - [fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental](../sources/fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental.md)
 - [fxa303-week03-adolescence-as-a-sensitive-period-of-brain-development](../sources/fxa303-week03-adolescence-as-a-sensitive-period-of-brain-development.md)
 - [fxa303-week03-fxa303-week-3-introduction](../sources/fxa303-week03-fxa303-week-3-introduction.md)

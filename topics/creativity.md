@@ -3,6 +3,10 @@ confidence: medium
 domain: theory
 slug: creativity
 sources:
+  - fxa101-week01-lesson-fxa101-week01-page-4-activities-for-week-1
+  - fxa101-week02-lesson-fxa101-week02-chapter-3
+  - fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities
+  - fxa101-week02-lesson-fxa101-week02-week-2
   - fxa301-week01-week-2-introduction-fxa301-arts-in-the-community
   - fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam
   - fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam
@@ -10,7 +14,7 @@ tags:
 - creativity
 title: Creativity
 type: topic
-updated: 2026-05-11
+updated: 2026-07-13
 ---
 
 ## Creativity
@@ -29,6 +33,10 @@ The concept of creativity is examined across multiple perspectives in these sour
 
 ## Sources
 
+- [fxa101-week01-lesson-fxa101-week01-page-4-activities-for-week-1](../sources/fxa101-week01-lesson-fxa101-week01-page-4-activities-for-week-1.md)
+- [fxa101-week02-lesson-fxa101-week02-chapter-3](../sources/fxa101-week02-lesson-fxa101-week02-chapter-3.md)
+- [fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities](../sources/fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities.md)
+- [fxa101-week02-lesson-fxa101-week02-week-2](../sources/fxa101-week02-lesson-fxa101-week02-week-2.md)
 - [fxa301-week01-week-2-introduction-fxa301-arts-in-the-community](../sources/fxa301-week01-week-2-introduction-fxa301-arts-in-the-community.md)
 - [fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam.md)
 - [fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam.md)

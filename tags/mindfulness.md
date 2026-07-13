@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mindfulness
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Mindfulness
@@ -9,3 +9,4 @@ updated: 2026-07-03
 - [Week 3 Activities: Mindfulness Photo Walk](../sources/fxa202-week03-lesson-fxa202-week03-page-4.md)
 - [Week 3 Lecture - Photography and Health](../sources/fxa202-week03-lesson-fxa202-week03-week-3.md)
 - [Critical Reflection on Visual Storytelling Through Photography](../sources/fxa202-week06-critical-reflection-on-visual-storytelling-through.md)
+- [PSY114 PSY214 Stress, Self-Care and Mindfulness: Early Humanistic Approaches](../sources/psy214-week02-lesson-psy214-week02-multi-dimensional-models-of-well.md)

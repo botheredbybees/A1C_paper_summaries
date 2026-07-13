@@ -4,13 +4,14 @@ domain: intervention
 slug: arts-and-humor-interventions-in-mental-health-care
 sources:
   - fxa301-week01-guidelines-for-arts-and-mental-health-projects-(2)
+  - fxa302-week01-health-humanities-the-future-of-medical-humanities
   - fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent
   - psy214-week00-clinical-guidelines-for-the-use-of-lifestyle-based-mental
 tags:
 - mental-health-care
 title: Arts and Humor Interventions in Mental Health Care
 type: topic
-updated: 2026-06-25
+updated: 2026-07-06
 ---
 
 ## Arts and Humor Interventions in Mental Health Care
@@ -30,5 +31,6 @@ The integration of arts and humor into mental health care has shown promising ou
 ## Sources
 
 - [fxa301-week01-guidelines-for-arts-and-mental-health-projects-(2)](../sources/fxa301-week01-guidelines-for-arts-and-mental-health-projects-%282%29.md)
+- [fxa302-week01-health-humanities-the-future-of-medical-humanities](../sources/fxa302-week01-health-humanities-the-future-of-medical-humanities.md)
 - [fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent](../sources/fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent.md)
 - [psy214-week00-clinical-guidelines-for-the-use-of-lifestyle-based-mental](../sources/psy214-week00-clinical-guidelines-for-the-use-of-lifestyle-based-mental.md)

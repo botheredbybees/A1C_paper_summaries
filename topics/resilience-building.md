@@ -8,6 +8,7 @@ sources:
   - fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and
   - fxa301-week10-to-be-heard-the-social-and-mental-health-benefits-of-choir
   - fxa301-week11-the-syrian-refugee-art-initiative
+  - fxa302-week01-papermaking-an-artistic-process-for-health-and-wellbeing
   - fxa303-art-therapy-in-response-to-natural-disasters-ch04-chapter-9
   - fxa303-week03-5-ways-to-standbyteens-in-support-of-teen-mental-health
   - fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot
@@ -16,11 +17,15 @@ sources:
   - fxa303-week11-artistic-expression-as-a-source-of-resilience-for
   - fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic
   - fxa303-week13-the-effects-of-mario-a-social-robot-on-the-resilience-of
+  - psy214-week02-positive-emotions-and-well-being
+  - psy214-week02-positive-psychology-the-basics
+  - psy214-week02-self-care-for-allied-health-professionals
+  - psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop
 tags:
 - resilience-building
 title: Resilience-building Through Arts Activities
 type: topic
-updated: 2026-05-15
+updated: 2026-07-13
 ---
 
 ## Resilience-building Through Arts Activities
@@ -44,6 +49,7 @@ The provided sources collectively explore the role of arts activities and creati
 - [fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and](../sources/fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and.md)
 - [fxa301-week10-to-be-heard-the-social-and-mental-health-benefits-of-choir](../sources/fxa301-week10-to-be-heard-the-social-and-mental-health-benefits-of-choir.md)
 - [fxa301-week11-the-syrian-refugee-art-initiative](../sources/fxa301-week11-the-syrian-refugee-art-initiative.md)
+- [fxa302-week01-papermaking-an-artistic-process-for-health-and-wellbeing](../sources/fxa302-week01-papermaking-an-artistic-process-for-health-and-wellbeing.md)
 - [fxa303-art-therapy-in-response-to-natural-disasters-ch04-chapter-9](../sources/fxa303-art-therapy-in-response-to-natural-disasters-ch04-chapter-9.md)
 - [fxa303-week03-5-ways-to-standbyteens-in-support-of-teen-mental-health](../sources/fxa303-week03-5-ways-to-standbyteens-in-support-of-teen-mental-health.md)
 - [fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot](../sources/fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot.md)
@@ -52,3 +58,7 @@ The provided sources collectively explore the role of arts activities and creati
 - [fxa303-week11-artistic-expression-as-a-source-of-resilience-for](../sources/fxa303-week11-artistic-expression-as-a-source-of-resilience-for.md)
 - [fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic](../sources/fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic.md)
 - [fxa303-week13-the-effects-of-mario-a-social-robot-on-the-resilience-of](../sources/fxa303-week13-the-effects-of-mario-a-social-robot-on-the-resilience-of.md)
+- [psy214-week02-positive-emotions-and-well-being](../sources/psy214-week02-positive-emotions-and-well-being.md)
+- [psy214-week02-positive-psychology-the-basics](../sources/psy214-week02-positive-psychology-the-basics.md)
+- [psy214-week02-self-care-for-allied-health-professionals](../sources/psy214-week02-self-care-for-allied-health-professionals.md)
+- [psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop](../sources/psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop.md)

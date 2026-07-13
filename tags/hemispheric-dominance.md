@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hemispheric-dominance
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Hemispheric Dominance

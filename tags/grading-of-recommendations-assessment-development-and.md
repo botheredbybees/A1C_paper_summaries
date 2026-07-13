@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: grading-of-recommendations-assessment-development-and
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Grading Of Recommendations Assessment Development And

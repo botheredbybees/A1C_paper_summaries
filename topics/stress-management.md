@@ -11,11 +11,21 @@ sources:
   - fxa303-week03-creative-arts-interventions-for-stress-management-and
   - psy214-week00-creative-arts-interventions-for-stress-management-and
   - psy214-week00-sleep-and-stress
+  - psy214-week01-coping-in-stress-self-care-and-mindfulness
+  - psy214-week01-coping-notes-slides
+  - psy214-week01-lesson-psy214-week01-is-stress-all-bad
+  - psy214-week01-lesson-psy214-week01-week-1-wrap-up
+  - psy214-week01-the-transactional-model-of-stress-and-coping
+  - psy214-week02-hedonia-and-eudaimonia
+  - psy214-week02-hedonia-and-eudaimonia-notes-slides
+  - psy214-week02-lesson-psy214-week02-wrap-up
+  - psy214-week02-positive-emotions-and-well-being
+  - psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop
 tags:
 - stress-management
 title: Stress Management Interventions
 type: topic
-updated: 2026-06-25
+updated: 2026-07-13
 ---
 
 ## Stress Management Interventions
@@ -42,3 +52,13 @@ The exploration of stress management interventions across multiple sources highl
 - [fxa303-week03-creative-arts-interventions-for-stress-management-and](../sources/fxa303-week03-creative-arts-interventions-for-stress-management-and.md)
 - [psy214-week00-creative-arts-interventions-for-stress-management-and](../sources/psy214-week00-creative-arts-interventions-for-stress-management-and.md)
 - [psy214-week00-sleep-and-stress](../sources/psy214-week00-sleep-and-stress.md)
+- [psy214-week01-coping-in-stress-self-care-and-mindfulness](../sources/psy214-week01-coping-in-stress-self-care-and-mindfulness.md)
+- [psy214-week01-coping-notes-slides](../sources/psy214-week01-coping-notes-slides.md)
+- [psy214-week01-lesson-psy214-week01-is-stress-all-bad](../sources/psy214-week01-lesson-psy214-week01-is-stress-all-bad.md)
+- [psy214-week01-lesson-psy214-week01-week-1-wrap-up](../sources/psy214-week01-lesson-psy214-week01-week-1-wrap-up.md)
+- [psy214-week01-the-transactional-model-of-stress-and-coping](../sources/psy214-week01-the-transactional-model-of-stress-and-coping.md)
+- [psy214-week02-hedonia-and-eudaimonia](../sources/psy214-week02-hedonia-and-eudaimonia.md)
+- [psy214-week02-hedonia-and-eudaimonia-notes-slides](../sources/psy214-week02-hedonia-and-eudaimonia-notes-slides.md)
+- [psy214-week02-lesson-psy214-week02-wrap-up](../sources/psy214-week02-lesson-psy214-week02-wrap-up.md)
+- [psy214-week02-positive-emotions-and-well-being](../sources/psy214-week02-positive-emotions-and-well-being.md)
+- [psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop](../sources/psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop.md)

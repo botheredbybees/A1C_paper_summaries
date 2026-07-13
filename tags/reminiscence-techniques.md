@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: reminiscence-techniques
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Reminiscence Techniques

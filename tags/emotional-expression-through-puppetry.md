@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotional-expression-through-puppetry
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Emotional Expression Through Puppetry

@@ -6,6 +6,7 @@ sources:
   - fxa100-week12-the-power-of-music-an-exploration-of-the-evidence
   - fxa202-week10-brain-research-shows-the-arts-promote-mental-health
   - fxa202-week13-development-and-validation-of-a-mobile-phone-photography
+  - fxa300-week01-how-music-affects-your-brain
   - fxa303-week02-developmental-role-of-creative-arts-and-play
   - fxa303-week02-theories-of-development-in-dialog-with-jean-piaget
   - fxa303-week03-developmental-psychology-from-infancy-to-adulthood
@@ -13,7 +14,7 @@ tags:
 - cognitive-development
 title: Cognitive Development
 type: topic
-updated: 2026-05-18
+updated: 2026-07-06
 ---
 
 ## Cognitive Development
@@ -35,6 +36,7 @@ The topic of cognitive development integrates several influential theoretical pe
 - [fxa100-week12-the-power-of-music-an-exploration-of-the-evidence](../sources/fxa100-week12-the-power-of-music-an-exploration-of-the-evidence.md)
 - [fxa202-week10-brain-research-shows-the-arts-promote-mental-health](../sources/fxa202-week10-brain-research-shows-the-arts-promote-mental-health.md)
 - [fxa202-week13-development-and-validation-of-a-mobile-phone-photography](../sources/fxa202-week13-development-and-validation-of-a-mobile-phone-photography.md)
+- [fxa300-week01-how-music-affects-your-brain](../sources/fxa300-week01-how-music-affects-your-brain.md)
 - [fxa303-week02-developmental-role-of-creative-arts-and-play](../sources/fxa303-week02-developmental-role-of-creative-arts-and-play.md)
 - [fxa303-week02-theories-of-development-in-dialog-with-jean-piaget](../sources/fxa303-week02-theories-of-development-in-dialog-with-jean-piaget.md)
 - [fxa303-week03-developmental-psychology-from-infancy-to-adulthood](../sources/fxa303-week03-developmental-psychology-from-infancy-to-adulthood.md)

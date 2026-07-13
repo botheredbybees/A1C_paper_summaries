@@ -3,6 +3,8 @@ confidence: medium
 domain: method
 slug: music-and-induced-emotion
 sources:
+  - fxa300-week01-lesson-fxa300-week01-page-3-introduction-to-how-the
+  - fxa300-week01-review-of-the-language-of-music-by-deryck-cooke
   - fxa301-week02-measuring-music-induced-emotion-a-comparison-of-emotion
   - fxa301-week02-relationships-between-musical-structure-and
   - fxa301-week02-the-time-course-of-emotional-responses-to-music
@@ -10,7 +12,7 @@ tags:
 - music-emotion
 title: Music and Induced Emotion
 type: topic
-updated: 2026-05-11
+updated: 2026-07-06
 ---
 
 ## Music and Induced Emotion
@@ -29,6 +31,8 @@ The investigation of how music influences emotion is a complex field that integr
 
 ## Sources
 
+- [fxa300-week01-lesson-fxa300-week01-page-3-introduction-to-how-the](../sources/fxa300-week01-lesson-fxa300-week01-page-3-introduction-to-how-the.md)
+- [fxa300-week01-review-of-the-language-of-music-by-deryck-cooke](../sources/fxa300-week01-review-of-the-language-of-music-by-deryck-cooke.md)
 - [fxa301-week02-measuring-music-induced-emotion-a-comparison-of-emotion](../sources/fxa301-week02-measuring-music-induced-emotion-a-comparison-of-emotion.md)
 - [fxa301-week02-relationships-between-musical-structure-and](../sources/fxa301-week02-relationships-between-musical-structure-and.md)
 - [fxa301-week02-the-time-course-of-emotional-responses-to-music](../sources/fxa301-week02-the-time-course-of-emotional-responses-to-music.md)

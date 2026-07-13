@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: color-therapy-for-nervous-disorders
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Color Therapy For Nervous Disorders

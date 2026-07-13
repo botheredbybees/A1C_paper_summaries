@@ -11,7 +11,7 @@ tags: ["neurological-disease", "dementia-research", "artistic-creativity", "fxa1
 key_concepts: ["neuronal-intermediate-filament-inclusion-disease", "frontotemporal-dementia", "creative-processes"]
 methods: ["case-study"]
 slug: fxa100-week06-dementia-and-art-neuronal-intermediate-filament-inclusion
-related: ["dementia-research"]
+related: ["artistic-creativity", "dementia-research"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,4 +41,5 @@ This paper presents a case of neuronal intermediate filament inclusion disease (
 
 ## See Also
 
+- [artistic-creativity](../topics/artistic-creativity.md)
 - [dementia-research](../topics/dementia-research.md)

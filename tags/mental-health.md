@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-health
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Mental Health
@@ -35,6 +35,7 @@ updated: 2026-07-03
 - [A systematic review of mental health and wellbeing outcomes of group singing for adults with a mental health condition](../sources/fxa301-week10-a-systematic-review-of-mental-health-and-wellbeing-outcomes.md)
 - [Creative Arts, Mental Health and Trauma](../sources/fxa301-week10-lesson-fxa301-week10-page-1.md)
 - [Activities for Week 10: FXA301 Arts in the Community](../sources/fxa301-week10-lesson-fxa301-week10-page-4-week-3-activities.md)
+- [Creative Arts Adult Community Learning](../sources/fxa302-week01-creative-arts-adult-community-learning.md)
 - [Creativity and Mental Health](../sources/fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam.md)
 - [Free Play and Children\u2019s Mental Health](../sources/fxa303-week02-free-play-and-childrens-mental-health.md)
 - [Mission Australia Youth Survey Information](../sources/fxa303-week03-mission-australia-youth-survey-information.md)
@@ -55,3 +56,4 @@ updated: 2026-07-03
 - [Engagement in Persons With Dementia: The Concept and Its Measurement](../sources/fxa303-week13-engagement-in-persons-with-dementia-the-concept-and-its.md)
 - [Laughter and Humour Interventions for Well-being in Older Adults: A Systematic Review and Intervention Classification](../sources/fxa303-week13-laughter-and-humour-interventions-for-well-being-in-older.md)
 - [The effects of reminiscence therapy on psychological well-being, depression, and loneliness among the institutionalized aged](../sources/fxa303-week13-the-effects-of-reminiscence-therapy-on-psychological-well.md)
+- [The Wellbeing Workout: How to Manage Stress and Develop Resilience](../sources/psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: common-types-of-dementia
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Common Types Of Dementia

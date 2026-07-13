@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dementia-quality-of-life
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Dementia Quality Of Life

@@ -12,11 +12,13 @@ sources:
   - fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community
   - fxa301-week06-music-and-medicine
   - fxa301-week09-lesson-fxa301-week09-page-1
+  - fxa302-week01-musical-composition-and-vocal-expression
+  - fxa302-week01-papermaking-an-artistic-process-for-health-and-wellbeing
 tags:
 - health-wellbeing
 title: Music Therapy in Dementia Care
 type: topic
-updated: 2026-05-11
+updated: 2026-07-06
 ---
 
 ## Music Therapy in Dementia Care
@@ -44,3 +46,5 @@ The provided sources collectively underscore the role of music therapy as an int
 - [fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community](../sources/fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community.md)
 - [fxa301-week06-music-and-medicine](../sources/fxa301-week06-music-and-medicine.md)
 - [fxa301-week09-lesson-fxa301-week09-page-1](../sources/fxa301-week09-lesson-fxa301-week09-page-1.md)
+- [fxa302-week01-musical-composition-and-vocal-expression](../sources/fxa302-week01-musical-composition-and-vocal-expression.md)
+- [fxa302-week01-papermaking-an-artistic-process-for-health-and-wellbeing](../sources/fxa302-week01-papermaking-an-artistic-process-for-health-and-wellbeing.md)

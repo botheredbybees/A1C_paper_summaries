@@ -11,7 +11,7 @@ tags: ["metacognitive-skills-development", "observational-analysis", "problem-so
 key_concepts: ["metacognitive skills", "monitoring processes", "control processes"]
 methods: ["observational analysis"]
 slug: fxa303-week02-the-development-of-metacognitive-skills-evidence-from
-related: []
+related: ["age-related-changes"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,4 +43,4 @@ This study explores the development of metacognitive skills in young children ag
 
 ## See Also
 
-*(none yet)*
+- [age-related-changes](../topics/age-related-changes.md)

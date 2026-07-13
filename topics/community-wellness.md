@@ -5,11 +5,12 @@ slug: arts-for-health-in-community-settings
 sources:
   - fxa301-oxford-textbook-of-creative-arts-ch03-chapter-13
   - fxa301-week01-arts-on-prescription-in-sefton-programme-report
+  - psy214-week02-decolonising-psychology-validating-social-and-emotional
 tags:
 - community-wellness
 title: Arts for Health in Community Settings
 type: topic
-updated: 2026-05-11
+updated: 2026-07-13
 ---
 
 ## Arts for Health in Community Settings
@@ -30,3 +31,4 @@ The integration of arts-based interventions into community health initiatives de
 
 - [fxa301-oxford-textbook-of-creative-arts-ch03-chapter-13](../sources/fxa301-oxford-textbook-of-creative-arts-ch03-chapter-13.md)
 - [fxa301-week01-arts-on-prescription-in-sefton-programme-report](../sources/fxa301-week01-arts-on-prescription-in-sefton-programme-report.md)
+- [psy214-week02-decolonising-psychology-validating-social-and-emotional](../sources/psy214-week02-decolonising-psychology-validating-social-and-emotional.md)

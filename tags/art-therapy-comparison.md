@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: art-therapy-comparison
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Art Therapy Comparison

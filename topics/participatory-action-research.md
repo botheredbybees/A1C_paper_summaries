@@ -5,11 +5,13 @@ slug: participatory-action-research
 sources:
   - fxa202-week13-different-but-connected-participatory-action-research-using
   - fxa202-week13-using-photovoice-as-a-tool-to-engage-social-work-students
+  - fxa302-week02-aboriginal-worldviews-in-mainstream-services
+  - psy214-week02-decolonising-psychology-validating-social-and-emotional
 tags:
 - participatory-action-research
 title: Participatory Action Research
 type: topic
-updated: 2026-05-15
+updated: 2026-07-13
 ---
 
 ## Participatory Action Research
@@ -30,3 +32,5 @@ Participatory action research (PAR) is highlighted as a method to engage with co
 
 - [fxa202-week13-different-but-connected-participatory-action-research-using](../sources/fxa202-week13-different-but-connected-participatory-action-research-using.md)
 - [fxa202-week13-using-photovoice-as-a-tool-to-engage-social-work-students](../sources/fxa202-week13-using-photovoice-as-a-tool-to-engage-social-work-students.md)
+- [fxa302-week02-aboriginal-worldviews-in-mainstream-services](../sources/fxa302-week02-aboriginal-worldviews-in-mainstream-services.md)
+- [psy214-week02-decolonising-psychology-validating-social-and-emotional](../sources/psy214-week02-decolonising-psychology-validating-social-and-emotional.md)

@@ -11,7 +11,7 @@ tags: ["adolescent-development", "fxa303", "global-happiness", "music-listening-
 key_concepts: ["self-determined-motivation", "subjective-well-being"]
 methods: ["structural-equation-modeling"]
 slug: fxa303-week03-music-listening-motivation-is-associated-with-global
-related: ["adolescent-development"]
+related: ["adolescent-development", "self-determined-motivation-in-music-listening"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,3 +40,4 @@ This study explores the relationship between self-determined motivation for list
 ## See Also
 
 - [adolescent-development](../topics/adolescent-development.md)
+- [self-determined-motivation-in-music-listening](../topics/self-determined-motivation-in-music-listening.md)

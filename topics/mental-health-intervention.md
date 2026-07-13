@@ -8,6 +8,7 @@ sources:
   - fxa301-week10-body-talk-examining-a-collaborative-multiple-visit-program
   - fxa301-week10-eating-disorders-and-art-therapy
   - fxa301-week10-social-action-in-art-therapy-with-veterans
+  - fxa302-week01-horticultural-arts
   - fxa303-week01-an-overview-of-play-therapy
   - fxa303-week09-psychological-first-aid-supporting-people-affected-by
   - fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy
@@ -16,7 +17,7 @@ tags:
 - mental-health-intervention
 title: Mental Health Interventions in Educational and Disaster Settings
 type: topic
-updated: 2026-05-18
+updated: 2026-07-06
 ---
 
 ## Mental Health Interventions in Educational and Disaster Settings
@@ -40,6 +41,7 @@ The provided sources highlight different approaches to mental health interventio
 - [fxa301-week10-body-talk-examining-a-collaborative-multiple-visit-program](../sources/fxa301-week10-body-talk-examining-a-collaborative-multiple-visit-program.md)
 - [fxa301-week10-eating-disorders-and-art-therapy](../sources/fxa301-week10-eating-disorders-and-art-therapy.md)
 - [fxa301-week10-social-action-in-art-therapy-with-veterans](../sources/fxa301-week10-social-action-in-art-therapy-with-veterans.md)
+- [fxa302-week01-horticultural-arts](../sources/fxa302-week01-horticultural-arts.md)
 - [fxa303-week01-an-overview-of-play-therapy](../sources/fxa303-week01-an-overview-of-play-therapy.md)
 - [fxa303-week09-psychological-first-aid-supporting-people-affected-by](../sources/fxa303-week09-psychological-first-aid-supporting-people-affected-by.md)
 - [fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy](../sources/fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy.md)

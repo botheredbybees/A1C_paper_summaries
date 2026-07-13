@@ -8,11 +8,14 @@ sources:
   - fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining
   - fxa100-week11-dancing-and-the-brain
   - fxa100-week13-exercise-benefits-on-alzheimers-disease-state-of-the-science
+  - fxa101-week01-creativity-is-good-for-the-brain-and-might-even-slow-down
+  - fxa101-week01-lesson-fxa101-week01-page-1-introduction
+  - fxa101-week01-lesson-fxa101-week01-page-4-activities-for-week-1
 tags:
 - brain-health
 title: Brain Health and Cognitive Decline
 type: topic
-updated: 2026-05-15
+updated: 2026-07-06
 ---
 
 ## Brain Health and Cognitive Decline
@@ -36,3 +39,6 @@ The sources collectively highlight the multifactorial nature of brain health and
 - [fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining](../sources/fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining.md)
 - [fxa100-week11-dancing-and-the-brain](../sources/fxa100-week11-dancing-and-the-brain.md)
 - [fxa100-week13-exercise-benefits-on-alzheimers-disease-state-of-the-science](../sources/fxa100-week13-exercise-benefits-on-alzheimers-disease-state-of-the-science.md)
+- [fxa101-week01-creativity-is-good-for-the-brain-and-might-even-slow-down](../sources/fxa101-week01-creativity-is-good-for-the-brain-and-might-even-slow-down.md)
+- [fxa101-week01-lesson-fxa101-week01-page-1-introduction](../sources/fxa101-week01-lesson-fxa101-week01-page-1-introduction.md)
+- [fxa101-week01-lesson-fxa101-week01-page-4-activities-for-week-1](../sources/fxa101-week01-lesson-fxa101-week01-page-4-activities-for-week-1.md)

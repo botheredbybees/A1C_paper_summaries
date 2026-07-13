@@ -4,12 +4,13 @@ domain: intervention
 slug: cognitive-rehabilitation
 sources:
   - fxa100-week02-music-and-the-damaged-brain
+  - fxa101-week02-rejuvenation-the-discovery-of-the-neuronal-stem-cell-and
   - fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to
 tags:
 - cognitive-rehabilitation
 title: Cognitive Rehabilitation
 type: topic
-updated: 2026-05-15
+updated: 2026-07-13
 ---
 
 ## Cognitive Rehabilitation
@@ -29,4 +30,5 @@ Cognitive rehabilitation is a multifaceted intervention aimed at improving or ma
 ## Sources
 
 - [fxa100-week02-music-and-the-damaged-brain](../sources/fxa100-week02-music-and-the-damaged-brain.md)
+- [fxa101-week02-rejuvenation-the-discovery-of-the-neuronal-stem-cell-and](../sources/fxa101-week02-rejuvenation-the-discovery-of-the-neuronal-stem-cell-and.md)
 - [fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to](../sources/fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to.md)

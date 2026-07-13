@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: well-being
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Well Being
@@ -17,5 +17,9 @@ updated: 2026-07-03
 - [The Cultural Value of Older People\u2019s Experiences of Theater-making: A Review](../sources/fxa301-week08-the-cultural-value-of-older-peoples-experiences-of-theater.md)
 - [Writing your way to well-being: An IPA analysis of the therapeutic effects of creative writing on mental health and the processing of emotional difficulties](../sources/fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the.md)
 - [Creative Arts, Mental Health and Trauma](../sources/fxa301-week10-lesson-fxa301-week10-page-1.md)
+- [Life-writing and its implications for health and well-being](../sources/fxa302-week01-life-writing-and-its-implications-for-health-and-well-being.md)
+- [Philosophy's Role in Health Humanities](../sources/fxa302-week01-philosophys-role-in-health-humanities.md)
 - [Effects of Choir Singing on Mental Health: Results of an Online Cross-sectional Study](../sources/fxa303-week11-effects-of-choir-singing-on-mental-health-results-of-an.md)
 - [Social isolation and connectedness as determinants of well-being: Global evidence mapping focused on LGBTQ youth](../sources/fxa303-week11-social-isolation-and-connectedness-as-determinants-of-well.md)
+- [PSY114 PSY214 Stress, Self-Care and Mindfulness - Well-being and Happiness](../sources/psy214-week02-lesson-psy214-week02-week-3-introduction.md)
+- [Positive Emotions and Well-being](../sources/psy214-week02-positive-emotions-and-well-being.md)

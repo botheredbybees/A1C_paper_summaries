@@ -11,7 +11,7 @@ tags: ["child-development", "neuroplasticity", "early-years-intervention", "brai
 key_concepts: ["critical-period-theory", "neural-architecture", "theories-of-child-development"]
 methods: ["literature-review"]
 slug: fxa303-week02-child-development-fxa303-creative-arts-play-and-mental
-related: ["child-development", "cognitive-stimulation", "neuroplasticity"]
+related: ["brain-architecture", "child-development", "cognitive-stimulation", "neuroplasticity"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,6 +45,7 @@ The text also delves into the neural architecture of the brain, detailing how sp
 
 ## See Also
 
+- [brain-architecture](../topics/brain-architecture.md)
 - [child-development](../topics/child-development.md)
 - [cognitive-stimulation](../topics/cognitive-stimulation.md)
 - [neuroplasticity](../topics/neuroplasticity.md)

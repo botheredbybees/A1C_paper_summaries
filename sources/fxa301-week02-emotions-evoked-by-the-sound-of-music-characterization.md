@@ -11,7 +11,7 @@ tags: ["music-emotions", "emotion-classification", "musical-genres", "fxa301"]
 key_concepts: ["emotional-responses-to-music", "geneva-emotional-music-scale"]
 methods: ["factor-analysis"]
 slug: fxa301-week02-emotions-evoked-by-the-sound-of-music-characterization
-related: []
+related: ["music-emotions"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,4 +40,4 @@ The article explores the emotional responses elicited by music, aiming to charac
 
 ## See Also
 
-*(none yet)*
+- [music-emotions](../topics/music-emotions.md)

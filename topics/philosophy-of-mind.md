@@ -6,11 +6,12 @@ sources:
   - fxa100-how-we-thnk-about-dementia-ch06-chapter-3
   - fxa100-how-we-thnk-about-dementia-ch12-chapter-4
   - fxa100-how-we-thnk-about-dementia-ch13-chapter-13
+  - fxa302-week02-the-imagination-of-the-mind-in-classical-athens
 tags:
 - philosophy-of-mind
 title: Philosophy of Mind
 type: topic
-updated: 2026-05-11
+updated: 2026-07-13
 ---
 
 ## Philosophy of Mind
@@ -32,3 +33,4 @@ The exploration of the philosophy of mind within the context of dementia care hi
 - [fxa100-how-we-thnk-about-dementia-ch06-chapter-3](../sources/fxa100-how-we-thnk-about-dementia-ch06-chapter-3.md)
 - [fxa100-how-we-thnk-about-dementia-ch12-chapter-4](../sources/fxa100-how-we-thnk-about-dementia-ch12-chapter-4.md)
 - [fxa100-how-we-thnk-about-dementia-ch13-chapter-13](../sources/fxa100-how-we-thnk-about-dementia-ch13-chapter-13.md)
+- [fxa302-week02-the-imagination-of-the-mind-in-classical-athens](../sources/fxa302-week02-the-imagination-of-the-mind-in-classical-athens.md)

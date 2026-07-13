@@ -1,12 +1,13 @@
 ---
 type: tag
 tag: creative-arts-interventions
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Creative Arts Interventions
 
 - [FXA100 The Arts and Dementia Care](../sources/fxa100-week12-lesson-fxa100-week12-page-2-so-what-have-we-learned.md)
+- [Good for the Heart, Good for the Soul: The Creative Arts and Brain Health in Later Life](../sources/fxa101-week02-good-for-the-heart-good-for-the-soul-the-creative-arts-and.md)
 - [Support Programs - UT MD Anderson](../sources/fxa301-week05-support-programs-ut-md-anderson.md)
 - [Play, Creative Arts and Wellbeing](../sources/fxa303-week02-play-creative-arts-and-wellbeing.md)
 - [Creative Arts Interventions for Stress Management and Prevention\u2014A Systematic Review](../sources/fxa303-week03-creative-arts-interventions-for-stress-management-and.md)

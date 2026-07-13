@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: demographic-impact
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Demographic Impact

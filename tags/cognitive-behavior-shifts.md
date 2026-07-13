@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-behavior-shifts
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Cognitive Behavior Shifts

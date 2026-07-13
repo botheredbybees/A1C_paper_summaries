@@ -21,7 +21,7 @@ tags: ["biomedical-model", "psychosomatic-medicine", "public-health", "arts-in-h
 key_concepts: ["biopsychosocial model", "Cartesian dualism", "Sigmund Freud's psychoanalysis"]
 methods: []
 slug: fxa301-arts-in-health-ch04-48-haldane-d
-related: ["arts-in-healthcare", "public-health"]
+related: ["arts-in-healthcare", "biomedical-model", "public-health"]
 created: 2026-05-03
 updated: 2026-06-25
 ---
@@ -54,4 +54,5 @@ This chapter discusses the evolution of health definitions over two centuries, f
 ## See Also
 
 - [arts-in-healthcare](../topics/arts-in-healthcare.md)
+- [biomedical-model](../topics/biomedical-model.md)
 - [public-health](../topics/public-health.md)

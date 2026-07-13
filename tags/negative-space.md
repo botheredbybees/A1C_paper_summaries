@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: negative-space
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Negative Space

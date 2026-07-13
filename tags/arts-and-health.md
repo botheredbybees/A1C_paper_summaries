@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-and-health
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Arts And Health
@@ -31,3 +31,4 @@ updated: 2026-07-03
 - [NOAH Code of Ethics 2023](../sources/fxa301-week03-noah-code-of-ethics-2023.md)
 - [Week 3 Introduction: Arts in the Community for Health and Wellbeing](../sources/fxa301-week03-week-3-introduction-arts-in-the-community-for-health-and.md)
 - [Submission to the NSW Health and Wellbeing Strategy](../sources/fxa301-week05-submission-to-the-nsw-health-and-wellbeing-strategy.md)
+- [FXA302 - Week 1 Introduction](../sources/fxa302-week01-fxa302-week-1-introduction.md)

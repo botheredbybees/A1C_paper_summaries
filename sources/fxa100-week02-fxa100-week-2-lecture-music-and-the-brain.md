@@ -11,7 +11,7 @@ tags: ["music-neuroscience", "brain-function", "auditory-processing", "rehabilit
 key_concepts: ["auditory-memory-encoding", "neural-predictive-functions", "reminiscence-bump"]
 methods: ["case-study"]
 slug: fxa100-week02-fxa100-week-2-lecture-music-and-the-brain
-related: ["brain-function"]
+related: ["auditory-processing", "brain-function", "music-neuroscience"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -47,4 +47,6 @@ Key readings such as Renwick & Woolhouse (2023) are suggested for further explor
 
 ## See Also
 
+- [auditory-processing](../topics/auditory-processing.md)
 - [brain-function](../topics/brain-function.md)
+- [music-neuroscience](../topics/music-neuroscience.md)

@@ -3,6 +3,7 @@ confidence: medium
 domain: theory
 slug: brain-structure-and-function
 sources:
+  - fxa101-week02-transcript-youtube-9uukcdu258a
   - fxa301-week02-the-brain-and-how-we-perceive-information
   - fxa303-week03-limbic-systems-for-emotion-and-for-memory-but-no-single
   - fxa303-week03-neuroanatomy-limbic-system
@@ -10,7 +11,7 @@ tags:
 - brain-structure
 title: Brain Structure and Function
 type: topic
-updated: 2026-05-11
+updated: 2026-07-13
 ---
 
 ## Brain Structure and Function
@@ -29,6 +30,7 @@ The exploration of brain structure reveals a complex network where various regio
 
 ## Sources
 
+- [fxa101-week02-transcript-youtube-9uukcdu258a](../sources/fxa101-week02-transcript-youtube-9uukcdu258a.md)
 - [fxa301-week02-the-brain-and-how-we-perceive-information](../sources/fxa301-week02-the-brain-and-how-we-perceive-information.md)
 - [fxa303-week03-limbic-systems-for-emotion-and-for-memory-but-no-single](../sources/fxa303-week03-limbic-systems-for-emotion-and-for-memory-but-no-single.md)
 - [fxa303-week03-neuroanatomy-limbic-system](../sources/fxa303-week03-neuroanatomy-limbic-system.md)

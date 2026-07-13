@@ -13,7 +13,7 @@ tags: ["punch-and-judy-history", "british-entertainment", "traditional-puppet-sh
 key_concepts: ["subversive-nature-of-punch", "evolution-of-costume-design", "integration-in-social-commentary"]
 methods: ["historical-overview"]
 slug: fxa303-week05-thats-the-way-to-do-it-a-history-of-punch-judy
-related: []
+related: ["cultural-evolution"]
 created: 2026-05-03
 updated: 2026-05-05
 ---
@@ -45,4 +45,4 @@ The document 'That's the Way to Do It! A History of Punch & Judy' provides an ex
 
 ## See Also
 
-*(none yet)*
+- [cultural-evolution](../topics/cultural-evolution.md)

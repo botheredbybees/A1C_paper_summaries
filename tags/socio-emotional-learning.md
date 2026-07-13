@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: socio-emotional-learning
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Socio Emotional Learning

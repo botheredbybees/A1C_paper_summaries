@@ -4,12 +4,15 @@ domain: theory
 slug: music-perception
 sources:
   - fxa100-week02-hearing-and-music
+  - fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music
+  - fxa300-week02-lesson-fxa300-week02-welcome-to-week-3
+  - fxa300-week02-music-in-the-brain
   - fxa301-week02-are-we-experienced-listeners-a-review-of-the-musical
 tags:
 - music-perception
 title: Music Perception
 type: topic
-updated: 2026-05-11
+updated: 2026-07-13
 ---
 
 ## Music Perception
@@ -29,4 +32,7 @@ The perception of music is a complex interplay of biological and cognitive facto
 ## Sources
 
 - [fxa100-week02-hearing-and-music](../sources/fxa100-week02-hearing-and-music.md)
+- [fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music](../sources/fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music.md)
+- [fxa300-week02-lesson-fxa300-week02-welcome-to-week-3](../sources/fxa300-week02-lesson-fxa300-week02-welcome-to-week-3.md)
+- [fxa300-week02-music-in-the-brain](../sources/fxa300-week02-music-in-the-brain.md)
 - [fxa301-week02-are-we-experienced-listeners-a-review-of-the-musical](../sources/fxa301-week02-are-we-experienced-listeners-a-review-of-the-musical.md)

@@ -7,12 +7,13 @@ sources:
   - fxa100-week06-how-creating-sculpture-benefits-people-with-dementia
   - fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia
   - fxa100-week11-dancing-and-the-brain
+  - fxa101-week02-redesigning-the-brain-a-scientist-changes-brains-to-sharpen
   - fxa301-week06-feasibility-and-preliminary-effects-of-ballet-based-group
 tags:
 - cognitive-enhancement
 title: Cognitive Enhancement Through Creative and Physical Activities
 type: topic
-updated: 2026-05-11
+updated: 2026-07-13
 ---
 
 ## Cognitive Enhancement Through Creative and Physical Activities
@@ -35,4 +36,5 @@ The integration of various creative and physical activities, such as singing in 
 - [fxa100-week06-how-creating-sculpture-benefits-people-with-dementia](../sources/fxa100-week06-how-creating-sculpture-benefits-people-with-dementia.md)
 - [fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia](../sources/fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia.md)
 - [fxa100-week11-dancing-and-the-brain](../sources/fxa100-week11-dancing-and-the-brain.md)
+- [fxa101-week02-redesigning-the-brain-a-scientist-changes-brains-to-sharpen](../sources/fxa101-week02-redesigning-the-brain-a-scientist-changes-brains-to-sharpen.md)
 - [fxa301-week06-feasibility-and-preliminary-effects-of-ballet-based-group](../sources/fxa301-week06-feasibility-and-preliminary-effects-of-ballet-based-group.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: microsoft-office-document-conversion
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Microsoft Office Document Conversion

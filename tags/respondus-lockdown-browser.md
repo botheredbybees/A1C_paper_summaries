@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: respondus-lockdown-browser
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Respondus Lockdown Browser

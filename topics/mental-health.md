@@ -32,6 +32,7 @@ sources:
   - fxa301-week10-a-systematic-review-of-mental-health-and-wellbeing-outcomes
   - fxa301-week10-lesson-fxa301-week10-page-1
   - fxa301-week10-lesson-fxa301-week10-page-4-week-3-activities
+  - fxa302-week01-creative-arts-adult-community-learning
   - fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam
   - fxa303-week02-free-play-and-childrens-mental-health
   - fxa303-week03-mission-australia-youth-survey-information
@@ -52,11 +53,12 @@ sources:
   - fxa303-week13-engagement-in-persons-with-dementia-the-concept-and-its
   - fxa303-week13-laughter-and-humour-interventions-for-well-being-in-older
   - fxa303-week13-the-effects-of-reminiscence-therapy-on-psychological-well
+  - psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop
 tags:
 - mental-health
 title: Creative Therapies for Mental Health
 type: topic
-updated: 2026-05-18
+updated: 2026-07-13
 ---
 
 ## Creative Therapies for Mental Health
@@ -106,6 +108,7 @@ The sources illustrate a variety of creative therapies that have been developed 
 - [fxa301-week10-a-systematic-review-of-mental-health-and-wellbeing-outcomes](../sources/fxa301-week10-a-systematic-review-of-mental-health-and-wellbeing-outcomes.md)
 - [fxa301-week10-lesson-fxa301-week10-page-1](../sources/fxa301-week10-lesson-fxa301-week10-page-1.md)
 - [fxa301-week10-lesson-fxa301-week10-page-4-week-3-activities](../sources/fxa301-week10-lesson-fxa301-week10-page-4-week-3-activities.md)
+- [fxa302-week01-creative-arts-adult-community-learning](../sources/fxa302-week01-creative-arts-adult-community-learning.md)
 - [fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam.md)
 - [fxa303-week02-free-play-and-childrens-mental-health](../sources/fxa303-week02-free-play-and-childrens-mental-health.md)
 - [fxa303-week03-mission-australia-youth-survey-information](../sources/fxa303-week03-mission-australia-youth-survey-information.md)
@@ -126,3 +129,4 @@ The sources illustrate a variety of creative therapies that have been developed 
 - [fxa303-week13-engagement-in-persons-with-dementia-the-concept-and-its](../sources/fxa303-week13-engagement-in-persons-with-dementia-the-concept-and-its.md)
 - [fxa303-week13-laughter-and-humour-interventions-for-well-being-in-older](../sources/fxa303-week13-laughter-and-humour-interventions-for-well-being-in-older.md)
 - [fxa303-week13-the-effects-of-reminiscence-therapy-on-psychological-well](../sources/fxa303-week13-the-effects-of-reminiscence-therapy-on-psychological-well.md)
+- [psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop](../sources/psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop.md)

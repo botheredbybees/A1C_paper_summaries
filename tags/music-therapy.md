@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-therapy
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Music Therapy
@@ -84,6 +84,7 @@ updated: 2026-07-03
 - [Editorial: The State of the Art in Creative Arts Therapies](../sources/fxa100-week13-editorial-the-state-of-the-art-in-creative-arts-therapies.md)
 - [Music Interventions for People with Dementia: A Review of the Literature](../sources/fxa100-week13-music-interventions-for-people-with-dementia-a-review-of.md)
 - [The Effect from Music Therapy Upon Alzheimer's Illness](../sources/fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness.md)
+- [How music affects your baby\u2019s brain: Mini Parenting Master Class](../sources/fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master.md)
 - [Arts in Health: Designing and researching interventions - Neurology](../sources/fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the.md)
 - [Projects Using Music for Social, Health and Economic Issues](../sources/fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music.md)
 - [Weapons of Mass Happiness: Social Justice and Health Equity in the Context of the Arts](../sources/fxa301-music-healt-and-wellbeing-ch05-10680-meymandi.md)
@@ -101,6 +102,10 @@ updated: 2026-07-03
 - [\u2018Anything is Possible\u2019: the Arts and Social Inclusion](../sources/fxa301-week11-anything-is-possible-the-arts-and-social-inclusion.md)
 - [Music Engagement and Disability](../sources/fxa301-week11-lesson-fxa301-week11-page-2.md)
 - [Long term music therapy for people with intellectual disabilities and the National Disability Insurance Scheme (NDIS)](../sources/fxa301-week11-web-article-cameron-2017.md)
+- [Choirs and Singing](../sources/fxa302-week01-choirs-and-singing.md)
+- [Making Music](../sources/fxa302-week01-making-music.md)
+- [Musical Composition and Vocal Expression](../sources/fxa302-week01-musical-composition-and-vocal-expression.md)
+- [Shared Music Listening](../sources/fxa302-week01-shared-music-listening.md)
 - [Music and Mental Health Practice](../sources/fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam.md)
 - ['Autism is a way of being': An \u2018insider perspective\u2019 on neurodiversity, music therapy and social justice](../sources/fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on.md)
 - [Community Services \u2013 The Music Therapy Center of California](../sources/fxa303-week04-community-services-the-music-therapy-center-of-california.md)

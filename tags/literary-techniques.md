@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: literary-techniques
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Literary Techniques

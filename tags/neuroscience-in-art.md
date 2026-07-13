@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuroscience-in-art
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Neuroscience In Art

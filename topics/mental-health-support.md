@@ -8,17 +8,21 @@ sources:
   - fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing
   - fxa301-week08-transcript-youtube-i1dnrn0cj20
   - fxa301-week10-lesson-fxa301-week10-page-2
+  - fxa302-week01-choirs-and-singing
+  - fxa302-week01-lesson-fxa302-week01-week-1-welcome-hm
+  - fxa302-week02-the-healing-power-of-greek-tragedy
   - fxa303-week03-social-prescribing-roundtable-november-2019-report
   - fxa303-week04-play-interventions-for-neurodivergent-children-and
   - fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand
   - fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon
   - fxa303-week09-web-article-puddy-2020
   - fxa303-week11-mapping-q-the-university-of-arizona-museum-of-art
+  - psy214-week02-self-care-for-allied-health-professionals
 tags:
 - mental-health-support
 title: Mental Health Support Through Creative Interventions
 type: topic
-updated: 2026-05-16
+updated: 2026-07-13
 ---
 
 ## Mental Health Support Through Creative Interventions
@@ -42,9 +46,13 @@ The integration of various forms of artistic and creative practices as intervent
 - [fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing](../sources/fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing.md)
 - [fxa301-week08-transcript-youtube-i1dnrn0cj20](../sources/fxa301-week08-transcript-youtube-i1dnrn0cj20.md)
 - [fxa301-week10-lesson-fxa301-week10-page-2](../sources/fxa301-week10-lesson-fxa301-week10-page-2.md)
+- [fxa302-week01-choirs-and-singing](../sources/fxa302-week01-choirs-and-singing.md)
+- [fxa302-week01-lesson-fxa302-week01-week-1-welcome-hm](../sources/fxa302-week01-lesson-fxa302-week01-week-1-welcome-hm.md)
+- [fxa302-week02-the-healing-power-of-greek-tragedy](../sources/fxa302-week02-the-healing-power-of-greek-tragedy.md)
 - [fxa303-week03-social-prescribing-roundtable-november-2019-report](../sources/fxa303-week03-social-prescribing-roundtable-november-2019-report.md)
 - [fxa303-week04-play-interventions-for-neurodivergent-children-and](../sources/fxa303-week04-play-interventions-for-neurodivergent-children-and.md)
 - [fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand](../sources/fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand.md)
 - [fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon](../sources/fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon.md)
 - [fxa303-week09-web-article-puddy-2020](../sources/fxa303-week09-web-article-puddy-2020.md)
 - [fxa303-week11-mapping-q-the-university-of-arizona-museum-of-art](../sources/fxa303-week11-mapping-q-the-university-of-arizona-museum-of-art.md)
+- [psy214-week02-self-care-for-allied-health-professionals](../sources/psy214-week02-self-care-for-allied-health-professionals.md)

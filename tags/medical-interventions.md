@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: medical-interventions
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Medical Interventions

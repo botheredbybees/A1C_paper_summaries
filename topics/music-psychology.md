@@ -5,6 +5,24 @@ slug: emotional-reactions-to-music
 sources:
   - fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and
   - fxa100-week03-transcript-the-effects-of-music-on-the-brain
+  - fxa300-week01-absorption-in-music-development-of-a-scale-to-identify
+  - fxa300-week01-being-moved-by-unfamiliar-sad-music-is-associated-with-high
+  - fxa300-week01-fxa300-sem-2-2026-week-1-lecture
+  - fxa300-week01-how-do-earworms-start-classifying-the-everyday
+  - fxa300-week01-lesson-fxa300-week01-page-2-introduction-to-music-and
+  - fxa300-week01-lesson-fxa300-week01-week-1-1
+  - fxa300-week01-musical-expectancy-and-thrills
+  - fxa300-week01-neurophysiological-effects-of-trait-empathy-in-music
+  - fxa300-week01-sweet-anticipation-of-music-review
+  - fxa300-week01-web-article-guedes-2023
+  - fxa300-week02-bodily-responses-to-music
+  - fxa300-week02-epilogue-ruminations-on-music-psychology
+  - fxa300-week02-fxa300-week-2-lecture-sem-2-2026
+  - fxa300-week02-music-and-the-brain
+  - fxa300-week02-music-in-the-human-experience-an-introduction-to-music
+  - fxa300-week02-psychoacoustics-and-the-perception-of-music
+  - fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession
+  - fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession-(2)
   - fxa301-oxford-textbook-of-creative-arts-ch08-96-clift
   - fxa301-week02-aesthetic-responses-to-music-a-questionnaire-study
   - fxa301-week02-an-experience-sampling-study-of-emotional-reactions-to
@@ -17,7 +35,7 @@ tags:
 - music-psychology
 title: Emotional Reactions to Music
 type: topic
-updated: 2026-05-11
+updated: 2026-07-13
 ---
 
 ## Emotional Reactions to Music
@@ -38,6 +56,24 @@ The literature highlights the profound impact of music on human emotion across v
 
 - [fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and](../sources/fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and.md)
 - [fxa100-week03-transcript-the-effects-of-music-on-the-brain](../sources/fxa100-week03-transcript-the-effects-of-music-on-the-brain.md)
+- [fxa300-week01-absorption-in-music-development-of-a-scale-to-identify](../sources/fxa300-week01-absorption-in-music-development-of-a-scale-to-identify.md)
+- [fxa300-week01-being-moved-by-unfamiliar-sad-music-is-associated-with-high](../sources/fxa300-week01-being-moved-by-unfamiliar-sad-music-is-associated-with-high.md)
+- [fxa300-week01-fxa300-sem-2-2026-week-1-lecture](../sources/fxa300-week01-fxa300-sem-2-2026-week-1-lecture.md)
+- [fxa300-week01-how-do-earworms-start-classifying-the-everyday](../sources/fxa300-week01-how-do-earworms-start-classifying-the-everyday.md)
+- [fxa300-week01-lesson-fxa300-week01-page-2-introduction-to-music-and](../sources/fxa300-week01-lesson-fxa300-week01-page-2-introduction-to-music-and.md)
+- [fxa300-week01-lesson-fxa300-week01-week-1-1](../sources/fxa300-week01-lesson-fxa300-week01-week-1-1.md)
+- [fxa300-week01-musical-expectancy-and-thrills](../sources/fxa300-week01-musical-expectancy-and-thrills.md)
+- [fxa300-week01-neurophysiological-effects-of-trait-empathy-in-music](../sources/fxa300-week01-neurophysiological-effects-of-trait-empathy-in-music.md)
+- [fxa300-week01-sweet-anticipation-of-music-review](../sources/fxa300-week01-sweet-anticipation-of-music-review.md)
+- [fxa300-week01-web-article-guedes-2023](../sources/fxa300-week01-web-article-guedes-2023.md)
+- [fxa300-week02-bodily-responses-to-music](../sources/fxa300-week02-bodily-responses-to-music.md)
+- [fxa300-week02-epilogue-ruminations-on-music-psychology](../sources/fxa300-week02-epilogue-ruminations-on-music-psychology.md)
+- [fxa300-week02-fxa300-week-2-lecture-sem-2-2026](../sources/fxa300-week02-fxa300-week-2-lecture-sem-2-2026.md)
+- [fxa300-week02-music-and-the-brain](../sources/fxa300-week02-music-and-the-brain.md)
+- [fxa300-week02-music-in-the-human-experience-an-introduction-to-music](../sources/fxa300-week02-music-in-the-human-experience-an-introduction-to-music.md)
+- [fxa300-week02-psychoacoustics-and-the-perception-of-music](../sources/fxa300-week02-psychoacoustics-and-the-perception-of-music.md)
+- [fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession](../sources/fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession.md)
+- [fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession-(2)](../sources/fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession-%282%29.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch08-96-clift](../sources/fxa301-oxford-textbook-of-creative-arts-ch08-96-clift.md)
 - [fxa301-week02-aesthetic-responses-to-music-a-questionnaire-study](../sources/fxa301-week02-aesthetic-responses-to-music-a-questionnaire-study.md)
 - [fxa301-week02-an-experience-sampling-study-of-emotional-reactions-to](../sources/fxa301-week02-an-experience-sampling-study-of-emotional-reactions-to.md)

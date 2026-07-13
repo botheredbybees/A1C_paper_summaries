@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuroscience
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Neuroscience
@@ -11,6 +11,9 @@ updated: 2026-07-03
 - [Experimental Evidence for Synchronization to a Musical Beat in a Nonhuman Animal](../sources/fxa100-week03-experimental-evidence-for-synchronization-to-a-musical-beat.md)
 - [The Music of Memory: Victoria Williamson at TED MED Live](../sources/fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted.md)
 - [The Arts and the Brain: What Does Your Brain See?](../sources/fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what.md)
+- [Cortical correlates of creative thinking assessed by the figural Torrance Test of Creative Thinking](../sources/fxa101-week02-cortical-correlates-of-creative-thinking-assessed-by-the.md)
+- [What We Know Currently about Mirror Neurons](../sources/fxa300-week01-what-we-know-currently-about-mirror-neurons.md)
+- [This Is Your Brain On Music: Understanding a Human Obsession](../sources/fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession.md)
 - [Two-Minute Neuroscience: Reward System](../sources/fxa301-week01-transcript-two-minute-neuroscience-reward-system.md)
 - [Week 2 Introduction to FXA301 Arts in the Community](../sources/fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community.md)
 - [Welcome to Week 6 - FXA301 Arts in the Community](../sources/fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community.md)

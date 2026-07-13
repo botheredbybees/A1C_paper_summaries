@@ -8,7 +8,9 @@ sources:
   - fxa301-week09-week-9-lecture-dr-brendan-lamb
   - fxa301-week11-anything-is-possible-the-arts-and-social-inclusion
   - fxa301-week11-projects-art-beyond-sight
-updated: 2026-05-11
+  - fxa302-week01-digital-storytelling
+  - fxa302-week02-lesson-fxa302-week02-page-3
+updated: 2026-07-13
 ---
 
 ## Inclusive Arts Practices in Disability Studies
@@ -30,3 +32,5 @@ The integration of inclusive arts practices within disability studies is charact
 - [fxa301-week09-week-9-lecture-dr-brendan-lamb](../sources/fxa301-week09-week-9-lecture-dr-brendan-lamb.md)
 - [fxa301-week11-anything-is-possible-the-arts-and-social-inclusion](../sources/fxa301-week11-anything-is-possible-the-arts-and-social-inclusion.md)
 - [fxa301-week11-projects-art-beyond-sight](../sources/fxa301-week11-projects-art-beyond-sight.md)
+- [fxa302-week01-digital-storytelling](../sources/fxa302-week01-digital-storytelling.md)
+- [fxa302-week02-lesson-fxa302-week02-page-3](../sources/fxa302-week02-lesson-fxa302-week02-page-3.md)

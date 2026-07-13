@@ -20,12 +20,13 @@ sources:
   - fxa301-week05-museums-for-health-and-wellbeing
   - fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community
   - fxa301-week09-week-9-lecture-dr-brendan-lamb
+  - fxa302-week01-where-science-meets-stories-a-systematic-review-on
   - fxa303-week11-inclusive-communication-with-lgbtiq-clients
 tags:
 - health-outcomes
 title: Health Outcomes of Arts Programs
 type: topic
-updated: 2026-05-15
+updated: 2026-07-06
 ---
 
 ## Health Outcomes of Arts Programs
@@ -61,4 +62,5 @@ The provided sources illustrate the impact of arts-based interventions on health
 - [fxa301-week05-museums-for-health-and-wellbeing](../sources/fxa301-week05-museums-for-health-and-wellbeing.md)
 - [fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community](../sources/fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community.md)
 - [fxa301-week09-week-9-lecture-dr-brendan-lamb](../sources/fxa301-week09-week-9-lecture-dr-brendan-lamb.md)
+- [fxa302-week01-where-science-meets-stories-a-systematic-review-on](../sources/fxa302-week01-where-science-meets-stories-a-systematic-review-on.md)
 - [fxa303-week11-inclusive-communication-with-lgbtiq-clients](../sources/fxa303-week11-inclusive-communication-with-lgbtiq-clients.md)

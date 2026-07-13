@@ -3,6 +3,9 @@ confidence: high
 domain: theory
 slug: brain-development-across-lifespan
 sources:
+  - fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master
+  - fxa300-week02-music-and-the-brain
+  - fxa300-week02-what-makes-a-musician
   - fxa303-week01-can-traumatic-stress-alter-the-brain-understanding-the
   - fxa303-week02-free-play-and-childrens-mental-health
   - fxa303-week02-imaging-structural-and-functional-brain-development-in
@@ -16,7 +19,7 @@ tags:
 - brain-development
 title: Brain Development Across Lifespan
 type: topic
-updated: 2026-05-11
+updated: 2026-07-13
 ---
 
 ## Brain Development Across Lifespan
@@ -35,6 +38,9 @@ The provided sources delve into the multifaceted process of brain development ac
 
 ## Sources
 
+- [fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master](../sources/fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master.md)
+- [fxa300-week02-music-and-the-brain](../sources/fxa300-week02-music-and-the-brain.md)
+- [fxa300-week02-what-makes-a-musician](../sources/fxa300-week02-what-makes-a-musician.md)
 - [fxa303-week01-can-traumatic-stress-alter-the-brain-understanding-the](../sources/fxa303-week01-can-traumatic-stress-alter-the-brain-understanding-the.md)
 - [fxa303-week02-free-play-and-childrens-mental-health](../sources/fxa303-week02-free-play-and-childrens-mental-health.md)
 - [fxa303-week02-imaging-structural-and-functional-brain-development-in](../sources/fxa303-week02-imaging-structural-and-functional-brain-development-in.md)

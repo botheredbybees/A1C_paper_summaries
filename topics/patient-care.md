@@ -8,13 +8,15 @@ sources:
   - fxa301-week03-art-for-better-health-and-wellbeing
   - fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our
   - fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple
+  - fxa302-week01-life-writing-and-its-implications-for-health-and-well-being
+  - fxa302-week01-medicine-within-health-humanities
   - fxa303-week13-behavioral-and-psychological-symptoms-of-dementia
   - fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering
 tags:
 - patient-care
 title: Art Therapy in Patient Care
 type: topic
-updated: 2026-05-15
+updated: 2026-07-06
 ---
 
 ## Art Therapy in Patient Care
@@ -38,5 +40,7 @@ The integration of art therapy into patient care emerges as a multifaceted inter
 - [fxa301-week03-art-for-better-health-and-wellbeing](../sources/fxa301-week03-art-for-better-health-and-wellbeing.md)
 - [fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our](../sources/fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our.md)
 - [fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple](../sources/fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple.md)
+- [fxa302-week01-life-writing-and-its-implications-for-health-and-well-being](../sources/fxa302-week01-life-writing-and-its-implications-for-health-and-well-being.md)
+- [fxa302-week01-medicine-within-health-humanities](../sources/fxa302-week01-medicine-within-health-humanities.md)
 - [fxa303-week13-behavioral-and-psychological-symptoms-of-dementia](../sources/fxa303-week13-behavioral-and-psychological-symptoms-of-dementia.md)
 - [fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering](../sources/fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering.md)

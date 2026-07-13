@@ -11,6 +11,7 @@ sources:
   - fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living
   - fxa100-week13-dance-in-prisons-a-systematic-review-and-narrative-synthesis
   - fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression
+  - fxa101-week02-brain-lock-unlocked-using-plasticity-to-stop-worries
   - fxa202-week03-can-photography-help-depression
   - fxa202-week03-what-is-therapeutic-photography
   - fxa202-week08-photography-as-self-therapy-an-introduction-for-beginners
@@ -23,6 +24,7 @@ sources:
   - fxa301-week08-health-related-effects-of-creative-and-expressive-writing
   - fxa301-week10-arts-based-therapies-in-the-treatment-of-eating-disorders
   - fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the
+  - fxa302-week01-making-music
   - fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children
   - fxa303-week03-arts-in-adolescence
   - fxa303-week03-arts-on-prescription-observed-changes-in-anxiety-depression
@@ -41,7 +43,7 @@ tags:
 - mental-health-interventions
 title: Creative Therapies in Mental Health
 type: topic
-updated: 2026-06-25
+updated: 2026-07-13
 ---
 
 ## Creative Therapies in Mental Health
@@ -68,6 +70,7 @@ The exploration of creative therapies such as photography and play offers unique
 - [fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living](../sources/fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living.md)
 - [fxa100-week13-dance-in-prisons-a-systematic-review-and-narrative-synthesis](../sources/fxa100-week13-dance-in-prisons-a-systematic-review-and-narrative-synthesis.md)
 - [fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression](../sources/fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression.md)
+- [fxa101-week02-brain-lock-unlocked-using-plasticity-to-stop-worries](../sources/fxa101-week02-brain-lock-unlocked-using-plasticity-to-stop-worries.md)
 - [fxa202-week03-can-photography-help-depression](../sources/fxa202-week03-can-photography-help-depression.md)
 - [fxa202-week03-what-is-therapeutic-photography](../sources/fxa202-week03-what-is-therapeutic-photography.md)
 - [fxa202-week08-photography-as-self-therapy-an-introduction-for-beginners](../sources/fxa202-week08-photography-as-self-therapy-an-introduction-for-beginners.md)
@@ -80,6 +83,7 @@ The exploration of creative therapies such as photography and play offers unique
 - [fxa301-week08-health-related-effects-of-creative-and-expressive-writing](../sources/fxa301-week08-health-related-effects-of-creative-and-expressive-writing.md)
 - [fxa301-week10-arts-based-therapies-in-the-treatment-of-eating-disorders](../sources/fxa301-week10-arts-based-therapies-in-the-treatment-of-eating-disorders.md)
 - [fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the](../sources/fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the.md)
+- [fxa302-week01-making-music](../sources/fxa302-week01-making-music.md)
 - [fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children](../sources/fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children.md)
 - [fxa303-week03-arts-in-adolescence](../sources/fxa303-week03-arts-in-adolescence.md)
 - [fxa303-week03-arts-on-prescription-observed-changes-in-anxiety-depression](../sources/fxa303-week03-arts-on-prescription-observed-changes-in-anxiety-depression.md)

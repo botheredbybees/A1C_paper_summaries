@@ -3,13 +3,15 @@ confidence: medium
 domain: theory
 slug: emotional-reactions-in-aesthetic-appreciation
 sources:
+  - fxa300-week01-being-moved-by-unfamiliar-sad-music-is-associated-with-high
+  - fxa300-week01-musical-expectancy-and-thrills
   - fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and
   - fxa301-week08-the-emotional-power-of-poetry-neural-circuitry
 tags:
 - emotional-reaction
 title: Emotional Reactions in Aesthetic Appreciation
 type: topic
-updated: 2026-05-11
+updated: 2026-07-06
 ---
 
 ## Emotional Reactions in Aesthetic Appreciation
@@ -28,5 +30,7 @@ The concept of emotional reactions within the framework of aesthetic appreciatio
 
 ## Sources
 
+- [fxa300-week01-being-moved-by-unfamiliar-sad-music-is-associated-with-high](../sources/fxa300-week01-being-moved-by-unfamiliar-sad-music-is-associated-with-high.md)
+- [fxa300-week01-musical-expectancy-and-thrills](../sources/fxa300-week01-musical-expectancy-and-thrills.md)
 - [fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and](../sources/fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and.md)
 - [fxa301-week08-the-emotional-power-of-poetry-neural-circuitry](../sources/fxa301-week08-the-emotional-power-of-poetry-neural-circuitry.md)

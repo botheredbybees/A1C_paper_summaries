@@ -3,6 +3,7 @@ confidence: medium
 domain: intervention
 slug: play-therapy-in-child-development
 sources:
+  - fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master
   - fxa301-week06-evaluation-of-big-noise-douglas
   - fxa303-week01-an-overview-of-play-therapy
   - fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children
@@ -31,7 +32,7 @@ tags:
 - child-development
 title: Play Therapy in Child Development
 type: topic
-updated: 2026-05-11
+updated: 2026-07-13
 ---
 
 ## Play Therapy in Child Development
@@ -50,6 +51,7 @@ Play therapy emerges as a significant intervention in facilitating the psycholog
 
 ## Sources
 
+- [fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master](../sources/fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master.md)
 - [fxa301-week06-evaluation-of-big-noise-douglas](../sources/fxa301-week06-evaluation-of-big-noise-douglas.md)
 - [fxa303-week01-an-overview-of-play-therapy](../sources/fxa303-week01-an-overview-of-play-therapy.md)
 - [fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children](../sources/fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children.md)

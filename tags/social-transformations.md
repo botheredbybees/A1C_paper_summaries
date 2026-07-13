@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-transformations
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Social Transformations

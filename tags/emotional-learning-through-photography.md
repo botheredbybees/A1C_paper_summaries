@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotional-learning-through-photography
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Emotional Learning Through Photography

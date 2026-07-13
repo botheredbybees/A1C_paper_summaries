@@ -11,7 +11,7 @@ tags: ["episodic-memory", "fxa303", "memory-and-identity", "neurological-studies
 key_concepts: ["sense-of-mineness", "two-component-model", "quasi-memory"]
 methods: ["case-study"]
 slug: fxa303-week13-memory-and-the-sense-of-personal-identity
-related: []
+related: ["episodic-memory"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -42,4 +42,4 @@ The article 'Memory and the Sense of Personal Identity' by Stanley B. Klein and 
 
 ## See Also
 
-*(none yet)*
+- [episodic-memory](../topics/episodic-memory.md)

@@ -3,13 +3,14 @@ confidence: medium
 domain: method
 slug: reflective-writing
 sources:
+  - fxa101-week01-lesson-fxa101-week01-creative-project-1
   - fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays
   - fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2)
 tags:
 - reflective-writing
 title: Reflective Writing
 type: topic
-updated: 2026-05-11
+updated: 2026-07-06
 ---
 
 ## Reflective Writing
@@ -28,5 +29,6 @@ Reflective writing is a method used in various contexts to promote self-reflecti
 
 ## Sources
 
+- [fxa101-week01-lesson-fxa101-week01-creative-project-1](../sources/fxa101-week01-lesson-fxa101-week01-creative-project-1.md)
 - [fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays](../sources/fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays.md)
 - [fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-(2)](../sources/fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays-%282%29.md)

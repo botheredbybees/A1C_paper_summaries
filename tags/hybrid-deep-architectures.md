@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hybrid-deep-architectures
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Hybrid Deep Architectures

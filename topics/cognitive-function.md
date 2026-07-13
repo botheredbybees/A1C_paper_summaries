@@ -11,11 +11,12 @@ sources:
   - fxa100-week13-effects-of-yoga-like-exercises-on-mild-and-moderate
   - fxa100-week13-improvement-of-cognitive-function-by-mental-andor
   - fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in
+  - fxa101-week02-building-herself-a-better-brain-a-woman-labeled-retarded
 tags:
 - cognitive-function
 title: Cognitive Function Enhancement Through Lifestyle Factors
 type: topic
-updated: 2026-05-15
+updated: 2026-07-13
 ---
 
 ## Cognitive Function Enhancement Through Lifestyle Factors
@@ -42,3 +43,4 @@ The integration of lifestyle factors such as diet, physical activity, and sleep 
 - [fxa100-week13-effects-of-yoga-like-exercises-on-mild-and-moderate](../sources/fxa100-week13-effects-of-yoga-like-exercises-on-mild-and-moderate.md)
 - [fxa100-week13-improvement-of-cognitive-function-by-mental-andor](../sources/fxa100-week13-improvement-of-cognitive-function-by-mental-andor.md)
 - [fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in](../sources/fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in.md)
+- [fxa101-week02-building-herself-a-better-brain-a-woman-labeled-retarded](../sources/fxa101-week02-building-herself-a-better-brain-a-woman-labeled-retarded.md)

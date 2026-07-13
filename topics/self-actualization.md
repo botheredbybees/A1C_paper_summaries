@@ -3,12 +3,15 @@ confidence: low
 domain: theory
 slug: self-actualization
 sources:
+  - psy214-week02-eudaimonic-well-being-early-humanistic-approaches
+  - psy214-week02-eudaimonic-well-being-early-humanistic-approaches-abraham
+  - psy214-week02-self-actualization-myths-what-did-maslow-really-say
 - fxa303-week01-person-centered-therapy-rogerian-therapy
 tags:
 - self-actualization
 title: Self-Actualization
 type: topic
-updated: 2026-05-04
+updated: 2026-07-13
 ---
 
 ## Self-Actualization
@@ -27,4 +30,6 @@ The concept of self-actualization is explored primarily within the framework of 
 
 ## Sources
 
-- [fxa303-week01-person-centered-therapy-rogerian-therapy](../sources/fxa303-week01-person-centered-therapy-rogerian-therapy.md)
+- [psy214-week02-eudaimonic-well-being-early-humanistic-approaches](../sources/psy214-week02-eudaimonic-well-being-early-humanistic-approaches.md)
+- [psy214-week02-eudaimonic-well-being-early-humanistic-approaches-abraham](../sources/psy214-week02-eudaimonic-well-being-early-humanistic-approaches-abraham.md)
+- [psy214-week02-self-actualization-myths-what-did-maslow-really-say](../sources/psy214-week02-self-actualization-myths-what-did-maslow-really-say.md)

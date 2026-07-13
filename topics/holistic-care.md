@@ -3,13 +3,15 @@ confidence: medium
 domain: intervention
 slug: holistic-care
 sources:
+  - fxa302-week01-making-music
+  - fxa302-week01-the-routledge-handbook-of-spirituality-religion-and-the
 - fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract
 - fxa301-week03-web-article-national-2024
 tags:
 - holistic-care
 title: Holistic Care
 type: topic
-updated: 2026-05-04
+updated: 2026-07-06
 ---
 
 ## Holistic Care
@@ -28,5 +30,5 @@ The concept of holistic care is a key focus in both sources, emphasizing the imp
 
 ## Sources
 
-- [fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract](../sources/fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract.md)
-- [fxa301-week03-web-article-national-2024](../sources/fxa301-week03-web-article-national-2024.md)
+- [fxa302-week01-making-music](../sources/fxa302-week01-making-music.md)
+- [fxa302-week01-the-routledge-handbook-of-spirituality-religion-and-the](../sources/fxa302-week01-the-routledge-handbook-of-spirituality-religion-and-the.md)

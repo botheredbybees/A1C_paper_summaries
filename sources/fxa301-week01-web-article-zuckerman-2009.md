@@ -11,7 +11,7 @@ tags: ["brain-anatomy", "neurology", "cognitive-science", "fxa301"]
 key_concepts: ["blood-brain barrier", "neurological diseases"]
 methods: []
 slug: fxa301-week01-web-article-zuckerman-2009
-related: ["brain-anatomy", "neurology"]
+related: ["brain-anatomy", "cognitive-science", "neurology"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,4 +41,5 @@ This article explores the complexities of the human brain, detailing its structu
 ## See Also
 
 - [brain-anatomy](../topics/brain-anatomy.md)
+- [cognitive-science](../topics/cognitive-science.md)
 - [neurology](../topics/neurology.md)

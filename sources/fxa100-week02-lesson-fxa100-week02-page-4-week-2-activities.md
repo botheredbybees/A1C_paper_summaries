@@ -7,13 +7,15 @@ doi: null
 appearances:
   - unit: FXA100
     week: "02"
-tags: ["music-and-memory", "dementia-care-interventions", "personal-reflection", "fxa100"]
+  - unit: FXA101
+    week: "02"
+tags: ["music-and-memory", "dementia-care-interventions", "personal-reflection", "fxa100", "fxa101"]
 key_concepts: ["musical memory", "reminiscence bump", "emotional wellbeing"]
 methods: []
 slug: fxa100-week02-lesson-fxa100-week02-page-4-week-2-activities
 related: ["dementia-care-interventions", "personal-reflection"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-07-13
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-week02-lesson-fxa100-week02-page-4-week-2-activities.md_

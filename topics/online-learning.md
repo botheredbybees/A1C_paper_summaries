@@ -5,6 +5,8 @@ slug: online-learning-in-arts-and-dementia-care
 sources:
   - fxa100-week01-lesson-fxa100-week01-page-3-week-1-activities
   - fxa100-week10-web-article-brooker-2013
+  - fxa101-week01-lesson-fxa101-week01-page-4-activities-for-week-1
+  - fxa101-week01-week-1-welcome
   - fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling
   - fxa202-week10-2022-week-10-lecture-transcript
   - fxa301-week01-quiz-information-getting-started-in-mylo
@@ -13,7 +15,7 @@ tags:
 - online-learning
 title: Online Learning in Arts and Dementia Care
 type: topic
-updated: 2026-05-11
+updated: 2026-07-06
 ---
 
 ## Online Learning in Arts and Dementia Care
@@ -34,6 +36,8 @@ The sources explore the use of online learning as an intervention to enhance eng
 
 - [fxa100-week01-lesson-fxa100-week01-page-3-week-1-activities](../sources/fxa100-week01-lesson-fxa100-week01-page-3-week-1-activities.md)
 - [fxa100-week10-web-article-brooker-2013](../sources/fxa100-week10-web-article-brooker-2013.md)
+- [fxa101-week01-lesson-fxa101-week01-page-4-activities-for-week-1](../sources/fxa101-week01-lesson-fxa101-week01-page-4-activities-for-week-1.md)
+- [fxa101-week01-week-1-welcome](../sources/fxa101-week01-week-1-welcome.md)
 - [fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling](../sources/fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling.md)
 - [fxa202-week10-2022-week-10-lecture-transcript](../sources/fxa202-week10-2022-week-10-lecture-transcript.md)
 - [fxa301-week01-quiz-information-getting-started-in-mylo](../sources/fxa301-week01-quiz-information-getting-started-in-mylo.md)

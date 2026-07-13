@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: post-traumatic-stress-disorder
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Post Traumatic Stress Disorder

@@ -6,11 +6,15 @@ sources:
   - fxa202-week06-winding-paths-a-photo-essay-on-emotional-health-during
   - fxa303-week11-healing-arts-safe-place-for-youth
   - psy214-week00-mindfulness-interventions
+  - psy214-week01-coping-in-stress-self-care-and-mindfulness
+  - psy214-week01-lesson-psy214-week01-week-1-introduction
+  - psy214-week01-lesson-psy214-week01-week-1-wrap-up
+  - psy214-week02-hedonia-and-eudaimonia-notes-slides
 tags:
 - mindfulness-practices
 title: Mindfulness Practices
 type: topic
-updated: 2026-06-25
+updated: 2026-07-13
 ---
 
 ## Mindfulness Practices
@@ -32,3 +36,7 @@ The sources highlight the therapeutic benefits of incorporating mindfulness prac
 - [fxa202-week06-winding-paths-a-photo-essay-on-emotional-health-during](../sources/fxa202-week06-winding-paths-a-photo-essay-on-emotional-health-during.md)
 - [fxa303-week11-healing-arts-safe-place-for-youth](../sources/fxa303-week11-healing-arts-safe-place-for-youth.md)
 - [psy214-week00-mindfulness-interventions](../sources/psy214-week00-mindfulness-interventions.md)
+- [psy214-week01-coping-in-stress-self-care-and-mindfulness](../sources/psy214-week01-coping-in-stress-self-care-and-mindfulness.md)
+- [psy214-week01-lesson-psy214-week01-week-1-introduction](../sources/psy214-week01-lesson-psy214-week01-week-1-introduction.md)
+- [psy214-week01-lesson-psy214-week01-week-1-wrap-up](../sources/psy214-week01-lesson-psy214-week01-week-1-wrap-up.md)
+- [psy214-week02-hedonia-and-eudaimonia-notes-slides](../sources/psy214-week02-hedonia-and-eudaimonia-notes-slides.md)

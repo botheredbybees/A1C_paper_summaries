@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: internet-security
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Internet Security

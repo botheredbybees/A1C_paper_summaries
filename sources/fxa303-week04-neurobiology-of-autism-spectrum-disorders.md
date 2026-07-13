@@ -11,7 +11,7 @@ tags: ["neurodevelopmental-disorders", "genetics-and-neurobiology", "sensory-pro
 key_concepts: ["mitochondrial-dysfunction", "lipid-related-pathophysiology", "dysfunctional-circuit-mechanisms"]
 methods: ["systematic-review"]
 slug: fxa303-week04-neurobiology-of-autism-spectrum-disorders
-related: ["autism-research", "neurodevelopmental-disorders", "sensory-processing"]
+related: ["autism-research", "environmental-factors", "neurodevelopmental-disorders", "sensory-processing"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,5 +44,6 @@ This book, edited by Abdeslem El Idrissi and Dan McCloskey, delves into the comp
 ## See Also
 
 - [autism-research](../topics/autism-research.md)
+- [environmental-factors](../topics/environmental-factors.md)
 - [neurodevelopmental-disorders](../topics/neurodevelopmental-disorders.md)
 - [sensory-processing](../topics/sensory-processing.md)

@@ -5,9 +5,11 @@ title: "Brain Mapping"
 confidence: medium
 tags: ["brain-mapping"]
 sources:
+  - fxa101-week02-cortical-correlates-of-creative-thinking-assessed-by-the
+  - fxa300-week01-what-we-know-currently-about-mirror-neurons
   - fxa301-week11-activation-of-primary-visual-cortex-by-braille-reading-in
   - fxa303-week03-the-early-adolescent-brain-on-music-analysis-of-functional
-updated: 2026-05-11
+updated: 2026-07-13
 ---
 
 ## Brain Mapping
@@ -25,5 +27,7 @@ The exploration of brain mapping through neuroimaging techniques reveals signifi
 
 ## Sources
 
+- [fxa101-week02-cortical-correlates-of-creative-thinking-assessed-by-the](../sources/fxa101-week02-cortical-correlates-of-creative-thinking-assessed-by-the.md)
+- [fxa300-week01-what-we-know-currently-about-mirror-neurons](../sources/fxa300-week01-what-we-know-currently-about-mirror-neurons.md)
 - [fxa301-week11-activation-of-primary-visual-cortex-by-braille-reading-in](../sources/fxa301-week11-activation-of-primary-visual-cortex-by-braille-reading-in.md)
 - [fxa303-week03-the-early-adolescent-brain-on-music-analysis-of-functional](../sources/fxa303-week03-the-early-adolescent-brain-on-music-analysis-of-functional.md)

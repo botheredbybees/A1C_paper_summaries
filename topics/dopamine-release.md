@@ -5,11 +5,12 @@ slug: dopamine-release-and-its-impact-on-wellbeing
 sources:
   - fxa100-week06-visual-arts-and-the-brain
   - fxa100-week13-anatomically-distinct-dopamine-release-during-anticipation
+  - fxa300-week01-how-music-affects-your-brain
 tags:
 - dopamine-release
 title: Dopamine Release and Its Impact on Wellbeing
 type: topic
-updated: 2026-05-15
+updated: 2026-07-06
 ---
 
 ## Dopamine Release and Its Impact on Wellbeing
@@ -30,3 +31,4 @@ The sources indicate that interventions such as listening to music and engaging 
 
 - [fxa100-week06-visual-arts-and-the-brain](../sources/fxa100-week06-visual-arts-and-the-brain.md)
 - [fxa100-week13-anatomically-distinct-dopamine-release-during-anticipation](../sources/fxa100-week13-anatomically-distinct-dopamine-release-during-anticipation.md)
+- [fxa300-week01-how-music-affects-your-brain](../sources/fxa300-week01-how-music-affects-your-brain.md)

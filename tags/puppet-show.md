@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: puppet-show
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Puppet Show

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: synaptic-density
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Synaptic Density

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: digital-technology-acceptance
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Digital Technology Acceptance

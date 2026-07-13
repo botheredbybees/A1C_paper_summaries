@@ -4,6 +4,7 @@ domain: intervention
 slug: self-reflection-through-creative-therapies
 sources:
   - fxa100-week08-week-8-lecture-art-therapy-in-dementia-care
+  - fxa101-week02-what-sort-of-creative-are-you
   - fxa202-week06-critical-reflection-on-visual-storytelling-through
   - fxa202-week06-winding-paths
   - fxa202-week09-healing-through-art-and-music
@@ -15,7 +16,7 @@ tags:
 - self-reflection
 title: Self-Reflection Through Creative Therapies
 type: topic
-updated: 2026-05-11
+updated: 2026-07-13
 ---
 
 ## Self-Reflection Through Creative Therapies
@@ -35,6 +36,7 @@ The synthesis of the provided sources highlights self-reflection through various
 ## Sources
 
 - [fxa100-week08-week-8-lecture-art-therapy-in-dementia-care](../sources/fxa100-week08-week-8-lecture-art-therapy-in-dementia-care.md)
+- [fxa101-week02-what-sort-of-creative-are-you](../sources/fxa101-week02-what-sort-of-creative-are-you.md)
 - [fxa202-week06-critical-reflection-on-visual-storytelling-through](../sources/fxa202-week06-critical-reflection-on-visual-storytelling-through.md)
 - [fxa202-week06-winding-paths](../sources/fxa202-week06-winding-paths.md)
 - [fxa202-week09-healing-through-art-and-music](../sources/fxa202-week09-healing-through-art-and-music.md)

@@ -8,11 +8,14 @@ sources:
   - fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a
   - fxa202-week10-critical-reflection-my-photo-essay
   - psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an
+  - psy214-week01-coping-notes-slides
+  - psy214-week02-hedonia-and-eudaimonia
+  - psy214-week02-lesson-psy214-week02-wrap-up
 tags:
 - mindfulness-practice
 title: Mindfulness Practice Through Photography
 type: topic
-updated: 2026-06-25
+updated: 2026-07-13
 ---
 
 ## Mindfulness Practice Through Photography
@@ -36,3 +39,6 @@ The integration of mindfulness practices with the act of photography reveals a u
 - [fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a](../sources/fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a.md)
 - [fxa202-week10-critical-reflection-my-photo-essay](../sources/fxa202-week10-critical-reflection-my-photo-essay.md)
 - [psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an](../sources/psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an.md)
+- [psy214-week01-coping-notes-slides](../sources/psy214-week01-coping-notes-slides.md)
+- [psy214-week02-hedonia-and-eudaimonia](../sources/psy214-week02-hedonia-and-eudaimonia.md)
+- [psy214-week02-lesson-psy214-week02-wrap-up](../sources/psy214-week02-lesson-psy214-week02-wrap-up.md)

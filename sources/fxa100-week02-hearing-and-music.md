@@ -11,7 +11,7 @@ tags: ["hearing-process", "music-perception", "auditory-system", "brain-function
 key_concepts: ["hair-cell-transduction", "left-right-brain-dominance-myth", "pitch-timbre-rhythm-processing"]
 methods: ["case-study"]
 slug: fxa100-week02-hearing-and-music
-related: ["brain-function", "hearing-process", "music-perception"]
+related: ["auditory-system", "brain-function", "hearing-process", "music-perception"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,6 +43,7 @@ This document explores the process of hearing music, detailing how sound vibrati
 
 ## See Also
 
+- [auditory-system](../topics/auditory-system.md)
 - [brain-function](../topics/brain-function.md)
 - [hearing-process](../topics/hearing-process.md)
 - [music-perception](../topics/music-perception.md)

@@ -13,6 +13,7 @@ sources:
   - fxa301-week08-week-8-lecture-applying-theatre-and-literature-for-health
   - fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple
   - fxa301-week10-lesson-fxa301-week10-page-2
+  - fxa302-week01-the-routledge-companion-to-health-humanities-part-2
   - fxa303-week03-arts-in-adolescence
   - fxa303-week06-emotional-expression-through-puppetry
   - fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping
@@ -21,7 +22,7 @@ tags:
 - therapeutic-arts
 title: Therapeutic Arts
 type: topic
-updated: 2026-05-15
+updated: 2026-07-06
 ---
 
 ## Therapeutic Arts
@@ -50,6 +51,7 @@ The therapeutic arts encompass a range of creative practices that promote well-b
 - [fxa301-week08-week-8-lecture-applying-theatre-and-literature-for-health](../sources/fxa301-week08-week-8-lecture-applying-theatre-and-literature-for-health.md)
 - [fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple](../sources/fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple.md)
 - [fxa301-week10-lesson-fxa301-week10-page-2](../sources/fxa301-week10-lesson-fxa301-week10-page-2.md)
+- [fxa302-week01-the-routledge-companion-to-health-humanities-part-2](../sources/fxa302-week01-the-routledge-companion-to-health-humanities-part-2.md)
 - [fxa303-week03-arts-in-adolescence](../sources/fxa303-week03-arts-in-adolescence.md)
 - [fxa303-week06-emotional-expression-through-puppetry](../sources/fxa303-week06-emotional-expression-through-puppetry.md)
 - [fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping](../sources/fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping.md)

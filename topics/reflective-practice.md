@@ -5,11 +5,12 @@ slug: reflective-practice-in-creative-and-therapeutic-contexts
 sources:
   - fxa202-week08-week-8-lecture-notes-editing-your-images
   - fxa301-week01-culture-of-inquiry
+  - fxa302-week01-medical-humanities-in-medical-education-and-practice
 tags:
 - reflective-practice
 title: Reflective Practice in Creative and Therapeutic Contexts
 type: topic
-updated: 2026-05-11
+updated: 2026-07-06
 ---
 
 ## Reflective Practice in Creative and Therapeutic Contexts
@@ -30,3 +31,4 @@ Reflective practice emerges as a pivotal intervention across creative arts educa
 
 - [fxa202-week08-week-8-lecture-notes-editing-your-images](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images.md)
 - [fxa301-week01-culture-of-inquiry](../sources/fxa301-week01-culture-of-inquiry.md)
+- [fxa302-week01-medical-humanities-in-medical-education-and-practice](../sources/fxa302-week01-medical-humanities-in-medical-education-and-practice.md)

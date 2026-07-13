@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: multifactorial-etiology
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Multifactorial Etiology

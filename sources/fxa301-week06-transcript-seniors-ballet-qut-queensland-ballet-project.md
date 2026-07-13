@@ -11,7 +11,7 @@ tags: ["seniors-ballet", "qut-research", "physical-activity", "social-wellbeing"
 key_concepts: ["community-engagement", "lifelong-learning"]
 methods: []
 slug: fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project
-related: ["physical-activity", "social-wellbeing"]
+related: ["emotional-health", "physical-activity", "social-wellbeing"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,5 +42,6 @@ This transcript captures the essence of a seniors ballet program initiated by Qu
 
 ## See Also
 
+- [emotional-health](../topics/emotional-health.md)
 - [physical-activity](../topics/physical-activity.md)
 - [social-wellbeing](../topics/social-wellbeing.md)

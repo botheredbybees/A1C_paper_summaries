@@ -11,7 +11,7 @@ tags: ["stroke-recovery", "music-therapy", "social-support", "choir-benefits", "
 key_concepts: ["speech-recovery", "aphasia-management", "emotional-wellbeing"]
 methods: ["case-study"]
 slug: fxa301-week09-stroke-choirs-stroke-recovery-association-nsw
-related: ["choir-benefits", "music-therapy", "neurorehabilitation", "social-support"]
+related: ["choir-benefits", "music-therapy", "neurorehabilitation", "social-support", "stroke-recovery"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -47,3 +47,4 @@ The Stroke Recovery Association NSW highlights the benefits of participating in 
 - [music-therapy](../topics/music-therapy.md)
 - [neurorehabilitation](../topics/neurorehabilitation.md)
 - [social-support](../topics/social-support.md)
+- [stroke-recovery](../topics/stroke-recovery.md)

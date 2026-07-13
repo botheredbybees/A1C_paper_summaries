@@ -6,12 +6,13 @@ sources:
   - fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes
   - fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care
   - fxa202-week09-5-benefits-of-journaling-for-mental-health
+  - fxa300-week02-musical-emotions
   - fxa303-week03-fxa303-week-3-introduction
 tags:
 - cognitive-processing
 title: Cognitive Processing Therapy
 type: topic
-updated: 2026-05-11
+updated: 2026-07-13
 ---
 
 ## Cognitive Processing Therapy
@@ -33,4 +34,5 @@ The sources discussed highlight the role of cognitive processing therapy in enha
 - [fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes](../sources/fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes.md)
 - [fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care](../sources/fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care.md)
 - [fxa202-week09-5-benefits-of-journaling-for-mental-health](../sources/fxa202-week09-5-benefits-of-journaling-for-mental-health.md)
+- [fxa300-week02-musical-emotions](../sources/fxa300-week02-musical-emotions.md)
 - [fxa303-week03-fxa303-week-3-introduction](../sources/fxa303-week03-fxa303-week-3-introduction.md)

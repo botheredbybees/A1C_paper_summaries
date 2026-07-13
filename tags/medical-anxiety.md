@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: medical-anxiety
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Medical Anxiety

@@ -11,7 +11,7 @@ tags: ["ancient-greek-philosophy", "plato-analysis", "puppetry-symbolism", "meta
 key_concepts: ["self-mastery", "divine-inspiration", "reason-and-emotion-interplay"]
 methods: ["historical-analysis"]
 slug: fxa303-week05-platos-puppets-of-the-gods-representing-the-magical-the
-related: []
+related: ["ancient-greek-philosophy"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,4 +43,4 @@ The article explores Platoâ€™s metaphorical use of â€œpuppets of the go
 
 ## See Also
 
-*(none yet)*
+- [ancient-greek-philosophy](../topics/ancient-greek-philosophy.md)

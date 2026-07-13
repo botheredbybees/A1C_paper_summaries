@@ -11,7 +11,7 @@ tags: ["alzheimers-disease", "bdnf-production", "brain-health", "cognitive-decli
 key_concepts: ["Alzheimer's disease", "physical activity", "BDNF production", "hippocampal volume"]
 methods: ["systematic review"]
 slug: fxa100-week13-exercise-benefits-on-alzheimers-disease-state-of-the-science
-related: ["alzheimers-disease", "brain-health", "cognitive-decline", "exercise-benefits", "hippocampal-volume"]
+related: ["alzheimers-disease", "brain-health", "cognitive-decline", "exercise-benefits", "hippocampal-volume", "neurogenesis"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -47,3 +47,4 @@ This review article examines the potential benefits of regular physical exercise
 - [cognitive-decline](../topics/cognitive-decline.md)
 - [exercise-benefits](../topics/exercise-benefits.md)
 - [hippocampal-volume](../topics/hippocampal-volume.md)
+- [neurogenesis](../topics/neurogenesis.md)

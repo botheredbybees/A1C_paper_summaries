@@ -14,13 +14,17 @@ sources:
   - fxa301-week08-the-cultural-value-of-older-peoples-experiences-of-theater
   - fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the
   - fxa301-week10-lesson-fxa301-week10-page-1
+  - fxa302-week01-life-writing-and-its-implications-for-health-and-well-being
+  - fxa302-week01-philosophys-role-in-health-humanities
   - fxa303-week11-effects-of-choir-singing-on-mental-health-results-of-an
   - fxa303-week11-social-isolation-and-connectedness-as-determinants-of-well
+  - psy214-week02-lesson-psy214-week02-week-3-introduction
+  - psy214-week02-positive-emotions-and-well-being
 tags:
 - well-being
 title: Well-Being Through Creative Arts
 type: topic
-updated: 2026-05-11
+updated: 2026-07-13
 ---
 
 ## Well-Being Through Creative Arts
@@ -50,5 +54,9 @@ The integration of creative arts as an intervention to improve well-being is a r
 - [fxa301-week08-the-cultural-value-of-older-peoples-experiences-of-theater](../sources/fxa301-week08-the-cultural-value-of-older-peoples-experiences-of-theater.md)
 - [fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the](../sources/fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the.md)
 - [fxa301-week10-lesson-fxa301-week10-page-1](../sources/fxa301-week10-lesson-fxa301-week10-page-1.md)
+- [fxa302-week01-life-writing-and-its-implications-for-health-and-well-being](../sources/fxa302-week01-life-writing-and-its-implications-for-health-and-well-being.md)
+- [fxa302-week01-philosophys-role-in-health-humanities](../sources/fxa302-week01-philosophys-role-in-health-humanities.md)
 - [fxa303-week11-effects-of-choir-singing-on-mental-health-results-of-an](../sources/fxa303-week11-effects-of-choir-singing-on-mental-health-results-of-an.md)
 - [fxa303-week11-social-isolation-and-connectedness-as-determinants-of-well](../sources/fxa303-week11-social-isolation-and-connectedness-as-determinants-of-well.md)
+- [psy214-week02-lesson-psy214-week02-week-3-introduction](../sources/psy214-week02-lesson-psy214-week02-week-3-introduction.md)
+- [psy214-week02-positive-emotions-and-well-being](../sources/psy214-week02-positive-emotions-and-well-being.md)

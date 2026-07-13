@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: inclusive-care-practices
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Inclusive Care Practices

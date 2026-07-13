@@ -3,13 +3,14 @@ confidence: medium
 domain: population
 slug: aboriginal-culture-and-well-being
 sources:
+  - fxa302-week02-first-knowledges-health-spirit-country-and-culture
   - fxa303-week10-transcript-duration-2-36
   - fxa303-week10-web-article-russ-smith-2023
 tags:
 - aboriginal-culture
 title: Aboriginal Culture and Well-being
 type: topic
-updated: 2026-05-11
+updated: 2026-07-13
 ---
 
 ## Aboriginal Culture and Well-being
@@ -28,5 +29,6 @@ The integration of Aboriginal culture with identity and well-being is a critical
 
 ## Sources
 
+- [fxa302-week02-first-knowledges-health-spirit-country-and-culture](../sources/fxa302-week02-first-knowledges-health-spirit-country-and-culture.md)
 - [fxa303-week10-transcript-duration-2-36](../sources/fxa303-week10-transcript-duration-2-36.md)
 - [fxa303-week10-web-article-russ-smith-2023](../sources/fxa303-week10-web-article-russ-smith-2023.md)

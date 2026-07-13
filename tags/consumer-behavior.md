@@ -1,0 +1,9 @@
+---
+type: tag
+tag: consumer-behavior
+updated: 2026-07-13
+---
+
+## Consumer Behavior
+
+- [Play That One Again: the Effect of Music Tempo on Consumer Behaviour in a Restaurant](../sources/fxa300-week01-play-that-one-again-the-effect-of-music-tempo-on-consumer.md)

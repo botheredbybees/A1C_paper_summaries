@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-function
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Brain Function
@@ -15,6 +15,11 @@ updated: 2026-07-03
 - [How music opens the doors of memory and the mind](../sources/fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind.md)
 - [The Effects of Music on the Brain](../sources/fxa100-week03-transcript-the-effects-of-music-on-the-brain.md)
 - [New Super-Fast MRI Technique: Singing 'If I Only Had A Brain'](../sources/fxa100-week04-transcript-new-super-fast-mri-technique-singing-if-i-only.md)
+- [Introduction to the Human Brain](../sources/fxa101-week02-lesson-fxa101-week02-chapter-2.md)
+- [Metacontrol of human creativity: The neurocognitive mechanisms of convergent and divergent thinking](../sources/fxa101-week02-metacontrol-of-human-creativity-the-neurocognitive.md)
+- [Week 1 Introduction: Music, Mind and Body](../sources/fxa300-week01-week-1-introduction-music-mind-and-body.md)
+- [Current Advances in the Cognitive Neuroscience of Music](../sources/fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music.md)
+- [This Is Your Brain On Music: Understanding a Human Obsession](../sources/fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession.md)
 - [How does the brain help us to respond to creative art?](../sources/fxa301-week01-lesson-fxa301-week01-page-3-how-do-we-respond-to.md)
 - [It also includes discussion of what can be perceived when the areas of the brain associated with visual processing do not function in the usual way](../sources/fxa301-week01-transcript-it-also-includes-discussion-of-what-can-be.md)
 - [Lecture on Perception of the Arts](../sources/fxa301-week02-lecture-on-perception-of-the-arts.md)

@@ -57,6 +57,7 @@ sources:
   - fxa301-week11-choose-art
   - fxa301-week11-putting-communities-first-inclusive-museum-practice-through
   - fxa301-week11-transcript-if-you-are-interested-and-want-to-know-more-about
+  - fxa302-week01-the-routledge-companion-to-health-humanities-part-2
   - fxa303-week03-arts-in-adolescence
   - fxa303-week03-arts-on-prescription-meets-sir-quentin-blake
   - fxa303-week03-centre-stage-20-a-report-on-youth-theatre-in-ireland
@@ -78,7 +79,7 @@ tags:
 - community-engagement
 title: Community Engagement
 type: topic
-updated: 2026-05-16
+updated: 2026-07-06
 ---
 
 ## Community Engagement
@@ -151,6 +152,7 @@ Community engagement is a multifaceted intervention aimed at fostering participa
 - [fxa301-week11-choose-art](../sources/fxa301-week11-choose-art.md)
 - [fxa301-week11-putting-communities-first-inclusive-museum-practice-through](../sources/fxa301-week11-putting-communities-first-inclusive-museum-practice-through.md)
 - [fxa301-week11-transcript-if-you-are-interested-and-want-to-know-more-about](../sources/fxa301-week11-transcript-if-you-are-interested-and-want-to-know-more-about.md)
+- [fxa302-week01-the-routledge-companion-to-health-humanities-part-2](../sources/fxa302-week01-the-routledge-companion-to-health-humanities-part-2.md)
 - [fxa303-week03-arts-in-adolescence](../sources/fxa303-week03-arts-in-adolescence.md)
 - [fxa303-week03-arts-on-prescription-meets-sir-quentin-blake](../sources/fxa303-week03-arts-on-prescription-meets-sir-quentin-blake.md)
 - [fxa303-week03-centre-stage-20-a-report-on-youth-theatre-in-ireland](../sources/fxa303-week03-centre-stage-20-a-report-on-youth-theatre-in-ireland.md)

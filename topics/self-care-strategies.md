@@ -6,11 +6,19 @@ sources:
   - fxa100-creativity-and-communication-ch13-23-making-space-for-your-own-creativity-making-space-for
   - fxa303-week05-puppets-and-self-care-for-task-2
   - fxa303-week11-mapping-q-the-university-of-arizona-museum-of-art
+  - psy214-week01-coping-in-stress-self-care-and-mindfulness
+  - psy214-week01-coping-notes-slides
+  - psy214-week01-lesson-psy214-week01-week-1-introduction
+  - psy214-week01-lesson-psy214-week01-week-1-wrap-up
+  - psy214-week02-hedonia-and-eudaimonia
+  - psy214-week02-hedonia-and-eudaimonia-notes-slides
+  - psy214-week02-lesson-psy214-week02-wrap-up
+  - psy214-week02-self-care-for-allied-health-professionals
 tags:
 - self-care-strategies
 title: Self-Care Strategies
 type: topic
-updated: 2026-05-11
+updated: 2026-07-13
 ---
 
 ## Self-Care Strategies
@@ -31,3 +39,11 @@ The sources explore different self-care strategies that individuals can adopt to
 - [fxa100-creativity-and-communication-ch13-23-making-space-for-your-own-creativity-making-space-for](../sources/fxa100-creativity-and-communication-ch13-23-making-space-for-your-own-creativity-making-space-for.md)
 - [fxa303-week05-puppets-and-self-care-for-task-2](../sources/fxa303-week05-puppets-and-self-care-for-task-2.md)
 - [fxa303-week11-mapping-q-the-university-of-arizona-museum-of-art](../sources/fxa303-week11-mapping-q-the-university-of-arizona-museum-of-art.md)
+- [psy214-week01-coping-in-stress-self-care-and-mindfulness](../sources/psy214-week01-coping-in-stress-self-care-and-mindfulness.md)
+- [psy214-week01-coping-notes-slides](../sources/psy214-week01-coping-notes-slides.md)
+- [psy214-week01-lesson-psy214-week01-week-1-introduction](../sources/psy214-week01-lesson-psy214-week01-week-1-introduction.md)
+- [psy214-week01-lesson-psy214-week01-week-1-wrap-up](../sources/psy214-week01-lesson-psy214-week01-week-1-wrap-up.md)
+- [psy214-week02-hedonia-and-eudaimonia](../sources/psy214-week02-hedonia-and-eudaimonia.md)
+- [psy214-week02-hedonia-and-eudaimonia-notes-slides](../sources/psy214-week02-hedonia-and-eudaimonia-notes-slides.md)
+- [psy214-week02-lesson-psy214-week02-wrap-up](../sources/psy214-week02-lesson-psy214-week02-wrap-up.md)
+- [psy214-week02-self-care-for-allied-health-professionals](../sources/psy214-week02-self-care-for-allied-health-professionals.md)

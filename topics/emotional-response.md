@@ -4,12 +4,14 @@ domain: intervention
 slug: emotional-response-to-music
 sources:
   - fxa100-week03-introduction-to-week-3-listening-to-music
+  - fxa300-week01-sweet-anticipation-of-music-review
+  - fxa300-week01-week-1-introduction-music-mind-and-body
   - fxa301-week02-lecture-on-perception-of-the-arts
 tags:
 - emotional-response
 title: Emotional Response to Music
 type: topic
-updated: 2026-05-11
+updated: 2026-07-06
 ---
 
 ## Emotional Response to Music
@@ -28,4 +30,6 @@ The emotional response to music is explored across two sources, each highlightin
 ## Sources
 
 - [fxa100-week03-introduction-to-week-3-listening-to-music](../sources/fxa100-week03-introduction-to-week-3-listening-to-music.md)
+- [fxa300-week01-sweet-anticipation-of-music-review](../sources/fxa300-week01-sweet-anticipation-of-music-review.md)
+- [fxa300-week01-week-1-introduction-music-mind-and-body](../sources/fxa300-week01-week-1-introduction-music-mind-and-body.md)
 - [fxa301-week02-lecture-on-perception-of-the-arts](../sources/fxa301-week02-lecture-on-perception-of-the-arts.md)

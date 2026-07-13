@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: minority-stress-theory
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Minority Stress Theory

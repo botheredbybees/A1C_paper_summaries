@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: healthcare-settings
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Healthcare Settings

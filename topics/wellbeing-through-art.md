@@ -14,11 +14,12 @@ sources:
   - fxa301-week03-lesson-fxa301-week03-page-4-week-3-activities
   - fxa301-week05-web-lecture-5-engaging-with-visual-arts
   - fxa301-week06-lesson-fxa301-week06-page-3
+  - fxa302-week01-fxa302-week-1-introduction
 tags:
 - wellbeing-through-art
 title: Wellbeing Through Art
 type: topic
-updated: 2026-05-11
+updated: 2026-07-06
 ---
 
 ## Wellbeing Through Art
@@ -47,3 +48,4 @@ The integration of art as a therapeutic intervention for mental health issues is
 - [fxa301-week03-lesson-fxa301-week03-page-4-week-3-activities](../sources/fxa301-week03-lesson-fxa301-week03-page-4-week-3-activities.md)
 - [fxa301-week05-web-lecture-5-engaging-with-visual-arts](../sources/fxa301-week05-web-lecture-5-engaging-with-visual-arts.md)
 - [fxa301-week06-lesson-fxa301-week06-page-3](../sources/fxa301-week06-lesson-fxa301-week06-page-3.md)
+- [fxa302-week01-fxa302-week-1-introduction](../sources/fxa302-week01-fxa302-week-1-introduction.md)

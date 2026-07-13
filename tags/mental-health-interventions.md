@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-health-interventions
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Mental Health Interventions
@@ -14,6 +14,7 @@ updated: 2026-07-03
 - [Rehabilitation effects of game therapy in people living with dementia: A systematic review and meta-analysis](../sources/fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living.md)
 - [Dance in Prisons: A Systematic Review and Narrative Synthesis](../sources/fxa100-week13-dance-in-prisons-a-systematic-review-and-narrative-synthesis.md)
 - [Dance therapy as an intervention for stress and depression: a systematic review and meta-analysis](../sources/fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression.md)
+- [Brain Lock Unlocked: Using Plasticity to Stop Worries, Obsessions, Compulsions, and Bad Habits](../sources/fxa101-week02-brain-lock-unlocked-using-plasticity-to-stop-worries.md)
 - [Can Photography Help Depression?](../sources/fxa202-week03-can-photography-help-depression.md)
 - [What is Therapeutic Photography?](../sources/fxa202-week03-what-is-therapeutic-photography.md)
 - [Photography as Self-Therapy: An Introduction for Beginners](../sources/fxa202-week08-photography-as-self-therapy-an-introduction-for-beginners.md)
@@ -26,6 +27,7 @@ updated: 2026-07-03
 - [Health-related effects of creative and expressive writing](../sources/fxa301-week08-health-related-effects-of-creative-and-expressive-writing.md)
 - [Arts-Based Therapies in the Treatment of Eating Disorders](../sources/fxa301-week10-arts-based-therapies-in-the-treatment-of-eating-disorders.md)
 - [Arts Therapies Interventions and Their Outcomes in the Treatment of Eating Disorders: Scoping Review Protocol](../sources/fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the.md)
+- [Making Music](../sources/fxa302-week01-making-music.md)
 - [Play Therapy: An Analytical Mode of Therapy in Children](../sources/fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children.md)
 - [Arts in Adolescence](../sources/fxa303-week03-arts-in-adolescence.md)
 - [Arts on prescription: observed changes in anxiety, depression, and well-being across referral cycles](../sources/fxa303-week03-arts-on-prescription-observed-changes-in-anxiety-depression.md)

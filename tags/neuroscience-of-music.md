@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuroscience-of-music
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Neuroscience Of Music
@@ -11,4 +11,5 @@ updated: 2026-07-03
 - [How music opens the doors of memory and the mind](../sources/fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind.md)
 - [The Effects of Music on the Brain \u2013 video transcript](../sources/fxa100-week03-the-effects-of-music-on-the-brain-video-transcript.md)
 - [The Power of Music](../sources/fxa100-week03-the-power-of-music.md)
+- [FXA300 Week 2 Lecture \u2013 Sem 2 2026](../sources/fxa300-week02-fxa300-week-2-lecture-sem-2-2026.md)
 - [Music and Medicine](../sources/fxa301-week06-music-and-medicine.md)

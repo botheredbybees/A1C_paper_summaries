@@ -7,12 +7,13 @@ sources:
   - fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd
   - fxa301-week10-fxa301-week-10-lecture
   - fxa301-week10-lesson-fxa301-week10-page-3
+  - fxa302-week02-lesson-fxa302-week02-page-3-activities
   - fxa303-week10-web-article-gulbay-2021
 tags:
 - ptsd-treatment
 title: Creative Arts Therapies for Ptsd
 type: topic
-updated: 2026-05-11
+updated: 2026-07-13
 ---
 
 ## Creative Arts Therapies for Ptsd
@@ -35,4 +36,5 @@ The integration of creative arts therapies in the treatment of PTSD reveals a di
 - [fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd](../sources/fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd.md)
 - [fxa301-week10-fxa301-week-10-lecture](../sources/fxa301-week10-fxa301-week-10-lecture.md)
 - [fxa301-week10-lesson-fxa301-week10-page-3](../sources/fxa301-week10-lesson-fxa301-week10-page-3.md)
+- [fxa302-week02-lesson-fxa302-week02-page-3-activities](../sources/fxa302-week02-lesson-fxa302-week02-page-3-activities.md)
 - [fxa303-week10-web-article-gulbay-2021](../sources/fxa303-week10-web-article-gulbay-2021.md)

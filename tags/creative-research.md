@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-research
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Creative Research

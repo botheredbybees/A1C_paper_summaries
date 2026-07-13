@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-benefits-of-movement-therapy
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Cognitive Benefits Of Movement Therapy

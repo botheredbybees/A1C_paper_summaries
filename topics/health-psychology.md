@@ -5,11 +5,13 @@ slug: music-and-health-interventions
 sources:
   - fxa100-week04-what-is-music-health-and-wellbeing
   - fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental
+  - psy214-week01-lesson-psy214-week01-stress-as-a-psychological-process
+  - psy214-week02-positive-emotions-and-well-being
 tags:
 - health-psychology
 title: Music and Health Interventions
 type: topic
-updated: 2026-05-11
+updated: 2026-07-13
 ---
 
 ## Music and Health Interventions
@@ -30,3 +32,5 @@ The integration of music in health interventions highlights its therapeutic pote
 
 - [fxa100-week04-what-is-music-health-and-wellbeing](../sources/fxa100-week04-what-is-music-health-and-wellbeing.md)
 - [fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental](../sources/fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental.md)
+- [psy214-week01-lesson-psy214-week01-stress-as-a-psychological-process](../sources/psy214-week01-lesson-psy214-week01-stress-as-a-psychological-process.md)
+- [psy214-week02-positive-emotions-and-well-being](../sources/psy214-week02-positive-emotions-and-well-being.md)

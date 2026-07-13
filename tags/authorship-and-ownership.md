@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: authorship-and-ownership
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Authorship And Ownership

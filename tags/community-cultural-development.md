@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: community-cultural-development
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Community Cultural Development

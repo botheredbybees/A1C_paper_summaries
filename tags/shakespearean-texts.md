@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: shakespearean-texts
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Shakespearean Texts

@@ -5,12 +5,13 @@ slug: engagement-with-music-and-dance-in-historical-contexts
 sources:
   - fxa301-week06-lesson-fxa301-week06-page-1
   - fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community
+  - fxa302-week01-life-writing-and-its-implications-for-health-and-well-being
   - psy214-week00-sleep-and-stress
 tags:
 - historical-perspective
 title: Engagement with Music and Dance in Historical Contexts
 type: topic
-updated: 2026-06-25
+updated: 2026-07-06
 ---
 
 ## Engagement with Music and Dance in Historical Contexts
@@ -31,4 +32,5 @@ The historical perspective on the use of music and dance as therapeutic interven
 
 - [fxa301-week06-lesson-fxa301-week06-page-1](../sources/fxa301-week06-lesson-fxa301-week06-page-1.md)
 - [fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community](../sources/fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community.md)
+- [fxa302-week01-life-writing-and-its-implications-for-health-and-well-being](../sources/fxa302-week01-life-writing-and-its-implications-for-health-and-well-being.md)
 - [psy214-week00-sleep-and-stress](../sources/psy214-week00-sleep-and-stress.md)

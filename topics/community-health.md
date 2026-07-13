@@ -7,11 +7,12 @@ sources:
   - fxa301-week01-lesson-fxa301-week01-troubleshooting1
   - fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using
   - fxa301-week08-week-8-lecture-applying-theatre-and-literature-for-health
+  - fxa302-week01-musical-composition-and-vocal-expression
 tags:
 - community-health
 title: Creative Arts in Community Health
 type: topic
-updated: 2026-05-11
+updated: 2026-07-06
 ---
 
 ## Creative Arts in Community Health
@@ -34,3 +35,4 @@ The integration of creative arts into community health interventions offers a mu
 - [fxa301-week01-lesson-fxa301-week01-troubleshooting1](../sources/fxa301-week01-lesson-fxa301-week01-troubleshooting1.md)
 - [fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using](../sources/fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using.md)
 - [fxa301-week08-week-8-lecture-applying-theatre-and-literature-for-health](../sources/fxa301-week08-week-8-lecture-applying-theatre-and-literature-for-health.md)
+- [fxa302-week01-musical-composition-and-vocal-expression](../sources/fxa302-week01-musical-composition-and-vocal-expression.md)

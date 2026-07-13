@@ -11,7 +11,7 @@ tags: ["arts-in-community", "neuroscience", "perception-and-engagement", "health
 key_concepts: ["human-brain-structure", "neurochemicals-hormones", "art-benefits-health"]
 methods: []
 slug: fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community
-related: ["arts-in-community", "cognitive-neuroscience", "health-wellbeing", "neuroscience"]
+related: ["arts-in-community", "brain-mechanisms", "cognitive-neuroscience", "health-wellbeing", "neuroscience"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,6 +45,7 @@ The document provides an introduction to Week 2 of the course FXA301 Arts in the
 ## See Also
 
 - [arts-in-community](../topics/arts-in-community.md)
+- [brain-mechanisms](../topics/brain-mechanisms.md)
 - [cognitive-neuroscience](../topics/cognitive-neuroscience.md)
 - [health-wellbeing](../topics/health-wellbeing.md)
 - [neuroscience](../topics/neuroscience.md)

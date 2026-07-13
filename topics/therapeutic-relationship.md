@@ -3,13 +3,14 @@ confidence: medium
 domain: intervention
 slug: therapeutic-relationship-in-person-centered-and-play-therapies
 sources:
+  - fxa302-week01-exploring-the-medical-humanities
   - fxa303-week01-person-centered-therapy-rogerian-therapy
   - fxa303-week04-child-centered-play-therapy-as-an-intervention-for-children
 tags:
 - therapeutic-relationship
 title: Therapeutic Relationship in Person-Centered and Play Therapies
 type: topic
-updated: 2026-05-11
+updated: 2026-07-06
 ---
 
 ## Therapeutic Relationship in Person-Centered and Play Therapies
@@ -27,5 +28,6 @@ The therapeutic relationship is a cornerstone of effective therapy, emphasizing 
 
 ## Sources
 
+- [fxa302-week01-exploring-the-medical-humanities](../sources/fxa302-week01-exploring-the-medical-humanities.md)
 - [fxa303-week01-person-centered-therapy-rogerian-therapy](../sources/fxa303-week01-person-centered-therapy-rogerian-therapy.md)
 - [fxa303-week04-child-centered-play-therapy-as-an-intervention-for-children](../sources/fxa303-week04-child-centered-play-therapy-as-an-intervention-for-children.md)

@@ -11,7 +11,7 @@ tags: ["physical-activity", "depression-treatment", "exercise-interventions", "m
 key_concepts: ["neuroplasticity", "inflammation", "self-esteem", "social-support", "endocrine-system-changes"]
 methods: ["systematic-review"]
 slug: psy214-week00-physical-activity-and-depression-towards-understanding-the
-related: ["depression-treatment", "exercise-interventions", "mental-health-outcomes", "physical-activity"]
+related: ["depression-treatment", "exercise-interventions", "inflammation", "mental-health-outcomes", "physical-activity"]
 created: 2026-06-25
 updated: 2026-06-25
 ---
@@ -47,5 +47,6 @@ This review examines the biological and psychosocial mechanisms through which ph
 
 - [depression-treatment](../topics/depression-treatment.md)
 - [exercise-interventions](../topics/exercise-interventions.md)
+- [inflammation](../topics/inflammation.md)
 - [mental-health-outcomes](../topics/mental-health-outcomes.md)
 - [physical-activity](../topics/physical-activity.md)

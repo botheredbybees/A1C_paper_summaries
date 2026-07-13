@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: young-adults
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Young Adults

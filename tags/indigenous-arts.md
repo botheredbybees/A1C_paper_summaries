@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: indigenous-arts
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Indigenous Arts

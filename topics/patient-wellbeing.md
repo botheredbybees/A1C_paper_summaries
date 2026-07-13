@@ -4,6 +4,8 @@ domain: intervention
 slug: patient-wellbeing-interventions
 sources:
   - fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a
+  - fxa302-week01-expanding-clinical-empathy-an-activist-perspective
+  - fxa302-week01-visual-arts
   - fxa303-week08-more-than-just-an-entertainment-show-identification-of
   - fxa303-week13-humor-assessment-and-interventions-in-palliative-care-a
   - fxa303-week13-humour-interventions-for-patients-in-palliative-carea
@@ -12,7 +14,7 @@ tags:
 - patient-wellbeing
 title: Patient Wellbeing Interventions
 type: topic
-updated: 2026-05-15
+updated: 2026-07-06
 ---
 
 ## Patient Wellbeing Interventions
@@ -32,6 +34,8 @@ The provided sources focus on two distinct yet complementary interventions desig
 ## Sources
 
 - [fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a](../sources/fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a.md)
+- [fxa302-week01-expanding-clinical-empathy-an-activist-perspective](../sources/fxa302-week01-expanding-clinical-empathy-an-activist-perspective.md)
+- [fxa302-week01-visual-arts](../sources/fxa302-week01-visual-arts.md)
 - [fxa303-week08-more-than-just-an-entertainment-show-identification-of](../sources/fxa303-week08-more-than-just-an-entertainment-show-identification-of.md)
 - [fxa303-week13-humor-assessment-and-interventions-in-palliative-care-a](../sources/fxa303-week13-humor-assessment-and-interventions-in-palliative-care-a.md)
 - [fxa303-week13-humour-interventions-for-patients-in-palliative-carea](../sources/fxa303-week13-humour-interventions-for-patients-in-palliative-carea.md)

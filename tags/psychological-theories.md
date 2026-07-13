@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychological-theories
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Psychological Theories

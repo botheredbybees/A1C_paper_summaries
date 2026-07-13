@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: short-warwick-edinburgh-mental-wellbeing-scale-swemwbs
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Short Warwick Edinburgh Mental Wellbeing Scale Swemwbs

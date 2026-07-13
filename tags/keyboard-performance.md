@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: keyboard-performance
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Keyboard Performance

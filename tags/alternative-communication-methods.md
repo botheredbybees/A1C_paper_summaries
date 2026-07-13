@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: alternative-communication-methods
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Alternative Communication Methods

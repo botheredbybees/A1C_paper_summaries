@@ -11,7 +11,7 @@ tags: ["adolescent-development", "brain-maturation", "neuroscience-education", "
 key_concepts: ["synaptic pruning", "neuroplasticity", "frontal lobe development"]
 methods: []
 slug: fxa303-week02-lesson-fxa303-week02-introduction-copy
-related: ["adolescent-development", "brain-maturation", "cognitive-psychology", "social-emotional-learning"]
+related: ["adolescent-development", "brain-maturation", "cognitive-psychology", "neuroscience-education", "social-emotional-learning"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,4 +46,5 @@ This lesson focuses on the developmental changes during adolescence. It describe
 - [adolescent-development](../topics/adolescent-development.md)
 - [brain-maturation](../topics/brain-maturation.md)
 - [cognitive-psychology](../topics/cognitive-psychology.md)
+- [neuroscience-education](../topics/neuroscience-education.md)
 - [social-emotional-learning](../topics/social-emotional-learning.md)

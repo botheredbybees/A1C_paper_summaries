@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: qualitative-study
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Qualitative Study

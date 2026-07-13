@@ -11,7 +11,7 @@ tags: ["medicine-and-art", "dopamine-therapy", "creative-expression", "patient-c
 key_concepts: ["dopaminergic medications", "therapeutic benefits of art", "personalized care"]
 methods: ["literature review"]
 slug: fxa301-week03-art-for-better-health-and-wellbeing
-related: ["creative-expression", "patient-care"]
+related: ["creative-expression", "medical-education", "patient-care"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -48,4 +48,5 @@ The authors propose that integrating arts into medical education could help stud
 ## See Also
 
 - [creative-expression](../topics/creative-expression.md)
+- [medical-education](../topics/medical-education.md)
 - [patient-care](../topics/patient-care.md)

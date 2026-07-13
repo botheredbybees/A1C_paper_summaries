@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: traditional-puppet-shows
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Traditional Puppet Shows

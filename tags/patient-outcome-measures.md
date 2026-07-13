@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: patient-outcome-measures
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Patient Outcome Measures

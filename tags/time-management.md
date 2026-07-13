@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: time-management
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Time Management

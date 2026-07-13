@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: recovery-language
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Recovery Language

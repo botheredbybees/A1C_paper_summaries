@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-function
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Cognitive Function
@@ -14,3 +14,4 @@ updated: 2026-07-03
 - [Effects of Yoga-Like Exercises on Mild and Moderate Alzheimer Disease: A Randomized Controlled Trial Protocol](../sources/fxa100-week13-effects-of-yoga-like-exercises-on-mild-and-moderate.md)
 - [Improvement of Cognitive Function by Mental and/or Individualized Aerobic Training in Healthy Elderly Subjects](../sources/fxa100-week13-improvement-of-cognitive-function-by-mental-andor.md)
 - [The effect of physical activity on cognitive function in patients with dementia: A meta-analysis of randomized control trials](../sources/fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in.md)
+- [Building Herself a Better Brain: A Woman Labeled \u201cRetarded\u201d Discovers How to Heal Herself](../sources/fxa101-week02-building-herself-a-better-brain-a-woman-labeled-retarded.md)

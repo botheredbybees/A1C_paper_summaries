@@ -11,7 +11,7 @@ tags: ["brain-development", "neuroimaging", "childhood-cognitive-abilities", "my
 key_concepts: ["structural-and-functional-brain-development", "early-childhood-neuropsychiatric-health", "genetic-environmental-influences"]
 methods: ["systematic-review"]
 slug: fxa303-week02-imaging-structural-and-functional-brain-development-in
-related: ["brain-development"]
+related: ["brain-development", "neuroimaging"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,3 +44,4 @@ This review discusses recent imaging studies that have started to elucidate the 
 ## See Also
 
 - [brain-development](../topics/brain-development.md)
+- [neuroimaging](../topics/neuroimaging.md)

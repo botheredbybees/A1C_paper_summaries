@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: qualitative-research
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Qualitative Research
@@ -14,6 +14,7 @@ updated: 2026-07-03
 - [Music Interventions for People with Dementia: A Review of the Literature](../sources/fxa100-week13-music-interventions-for-people-with-dementia-a-review-of.md)
 - [Researching Phototherapy and Therapeutic Photography](../sources/fxa202-the-handbook-of-phototherapy-ch02-12-the-earlier-stages.md)
 - [The Phototherapists\u2019 Experience and Research on Talking Pictures Therapy](../sources/fxa202-the-handbook-of-phototherapy-ch03-chapter-2.md)
+- [Negative Emotion in Music: What is the Attraction? A Qualitative Study](../sources/fxa300-week01-negative-emotion-in-music-what-is-the-attraction-a.md)
 - [The Role of Qualitative Research in Arts and Health](../sources/fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10.md)
 - [Evaluating benefits to health and wellbeing](../sources/fxa301-week01-lesson-fxa301-week01-page-1-hm.md)
 - [Bringing Music to Life: a Study of Music Therapy and Palliative Care Experiences in a Cancer Hospital](../sources/fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and.md)

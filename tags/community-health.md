@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: community-health
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Community Health
@@ -10,3 +10,4 @@ updated: 2026-07-03
 - [The Role of Creative Arts in the Community](../sources/fxa301-week01-lesson-fxa301-week01-troubleshooting1.md)
 - [Promoting the health and wellbeing of young Black men using community-based drama](../sources/fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using.md)
 - [Week 8 Lecture \u2013 Applying Theatre and Literature for Health and Wellbeing](../sources/fxa301-week08-week-8-lecture-applying-theatre-and-literature-for-health.md)
+- [Musical Composition and Vocal Expression](../sources/fxa302-week01-musical-composition-and-vocal-expression.md)

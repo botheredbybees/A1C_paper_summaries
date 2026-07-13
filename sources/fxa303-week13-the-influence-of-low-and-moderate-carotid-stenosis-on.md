@@ -11,7 +11,7 @@ tags: ["cardiovascular-disease-surgery-outcomes", "cardiovascular-surgery", "car
 key_concepts: ["internal-carotid-artery-stenosis", "neurophysiologic-status", "cardiovascular-disease-surgery-outcomes"]
 methods: ["case-control-study"]
 slug: fxa303-week13-the-influence-of-low-and-moderate-carotid-stenosis-on
-related: []
+related: ["neurophysiology"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -41,4 +41,4 @@ This study examines the impact of low and moderate internal carotid artery (ICA)
 
 ## See Also
 
-*(none yet)*
+- [neurophysiology](../topics/neurophysiology.md)

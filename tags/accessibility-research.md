@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: accessibility-research
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Accessibility Research

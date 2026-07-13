@@ -11,7 +11,7 @@ tags: ["apache-iii", "apache-iii-scoring-system", "clinical-decision-making", "f
 key_concepts: ["APACHE III scoring system", "mortality prediction", "ICU admission criteria"]
 methods: ["systematic review"]
 slug: fxa100-week13-the-apache-iii-prognostic-system-risk-prediction-of
-related: []
+related: ["clinical-decision-making"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -41,4 +41,4 @@ The paper introduces the APACHE III system designed to predict hospital mortalit
 
 ## See Also
 
-*(none yet)*
+- [clinical-decision-making](../topics/clinical-decision-making.md)

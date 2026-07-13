@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-wellbeing
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Mental Wellbeing
@@ -13,6 +13,7 @@ updated: 2026-07-03
 - [Creative Health and Care Experienced Children and Young People](../sources/fxa301-week03-creative-health-and-care-experienced-children-and-young.md)
 - [The role of arts activities in developing resilience and mental wellbeing in children and young people: A rapid review of the literature](../sources/fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and.md)
 - [Submission to the NSW Health and Wellbeing Strategy](../sources/fxa301-week05-submission-to-the-nsw-health-and-wellbeing-strategy.md)
+- [The Routledge Companion to Health Humanities: Part 2 - Applications](../sources/fxa302-week01-the-routledge-companion-to-health-humanities-part-2.md)
 - [Week 2 Overview - FXA303 Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental.md)
 - [Adolescence as a Sensitive Period of Brain Development](../sources/fxa303-week03-adolescence-as-a-sensitive-period-of-brain-development.md)
 - [FXA303 Week 3 Introduction](../sources/fxa303-week03-fxa303-week-3-introduction.md)

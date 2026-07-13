@@ -11,7 +11,7 @@ tags: ["quality-of-life-assessment", "patient-centered-care", "healthcare-policy
 key_concepts: ["Quality of Life Assessment", "Patient-Centered Care"]
 methods: ["case study", "systematic review"]
 slug: fxa301-week01-quality-of-life-assessment-key-issues-in-the-1990s
-related: ["quality-of-life-assessment", "well-being-measurement"]
+related: ["patient-centered-care", "quality-of-life-assessment", "well-being-measurement"]
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -43,5 +43,6 @@ This edited volume, published by Springer Science+Business Media in 1993, addres
 
 ## See Also
 
+- [patient-centered-care](../topics/patient-centered-care.md)
 - [quality-of-life-assessment](../topics/quality-of-life-assessment.md)
 - [well-being-measurement](../topics/well-being-measurement.md)

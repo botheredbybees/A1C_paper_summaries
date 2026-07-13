@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: early-intervention-therapy
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Early Intervention Therapy

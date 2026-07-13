@@ -11,7 +11,7 @@ tags: ["adolescent-development", "neurodevelopmental-changes", "brain-functional
 key_concepts: ["synaptic pruning", "myelination", "functional connectivity", "hormonal changes", "socioeconomic factors", "prefrontal cortex"]
 methods: ["review"]
 slug: fxa303-week03-adolescent-neurodevelopment
-related: ["adolescent-development", "reward-processing"]
+related: ["adolescent-development", "behavioral-neuroscience", "reward-processing"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -48,4 +48,5 @@ The article discusses notable alterations in the adolescent brain, focusing on b
 ## See Also
 
 - [adolescent-development](../topics/adolescent-development.md)
+- [behavioral-neuroscience](../topics/behavioral-neuroscience.md)
 - [reward-processing](../topics/reward-processing.md)

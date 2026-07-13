@@ -11,7 +11,7 @@ tags: ["neuroplasticity-research", "music-therapy-applications", "brain-injury-r
 key_concepts: ["neural-plasticity", "rhythmic-auditory-stimulation", "executive-functioning-improvement"]
 methods: ["clinical-trials", "systematic-review"]
 slug: fxa100-week02-how-music-helps-to-heal-the-injured-brain-therapeutic-use
-related: ["cognitive-neuroscience"]
+related: ["cognitive-neuroscience", "neuroplasticity-research"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,3 +44,4 @@ This article discusses how the role of music in therapy has evolved significantl
 ## See Also
 
 - [cognitive-neuroscience](../topics/cognitive-neuroscience.md)
+- [neuroplasticity-research](../topics/neuroplasticity-research.md)

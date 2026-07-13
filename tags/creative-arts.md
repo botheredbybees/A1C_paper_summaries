@@ -1,12 +1,13 @@
 ---
 type: tag
 tag: creative-arts
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Creative Arts
 
 - [Transcript: Film Clips from 'I Remember Better When I Paint'](../sources/fxa100-week06-transcript-film-clips-from-i-remember-better-when-i-paint.md)
+- [Activities for Week 2 - FXA101 Creativity and Ageing](../sources/fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities.md)
 - [Journal and Visual Research Guidelines](../sources/fxa202-week08-journal-and-visual-research-guidelines.md)
 - [Introduction to the field of creative arts, wellbeing, and health: achievements and current challenges](../sources/fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1.md)
 - [Case Study: Engaging Older People in Creative Thinking - The Active Energy Project](../sources/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-%282%29.md)
@@ -21,6 +22,9 @@ updated: 2026-07-03
 - [The Effect of a Creative Art Program on Self-Esteem, Hope, Perceived Social Support, and Self-Efficacy in Individuals With Multiple Sclerosis: A Pilot Study](../sources/fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope.md)
 - [Creative Arts, Mental Health and Trauma](../sources/fxa301-week10-lesson-fxa301-week10-page-1.md)
 - [Creative Arts and Social Inclusion](../sources/fxa301-week11-lesson-fxa301-week11-page-1.md)
+- [Creative Arts Adult Community Learning](../sources/fxa302-week01-creative-arts-adult-community-learning.md)
+- [FXA302 Perspectives of the Arts on Health and Wellbeing](../sources/fxa302-week01-lesson-fxa302-week01-page-2.md)
+- [FXA302 Perspectives of the Arts on Health and Wellbeing - Week 1 Activities](../sources/fxa302-week01-lesson-fxa302-week01-page-4-activities.md)
 - [Developmental Role of Creative Arts and Play](../sources/fxa303-week02-developmental-role-of-creative-arts-and-play.md)
 - [FXA303 Week 2: Child Development and Creative Arts](../sources/fxa303-week02-fxa303-week-2-child-development-and-creative-arts.md)
 - [FXA303 Creative Arts, Play and Mental Wellbeing - Week 2 Overview](../sources/fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview.md)

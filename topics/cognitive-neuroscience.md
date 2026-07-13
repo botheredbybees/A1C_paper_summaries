@@ -10,6 +10,12 @@ sources:
   - fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care
   - fxa100-week12-inner-vision-an-exploration-of-art-and-the-brain
   - fxa100-week13-distributed-neural-network-underlying-musical-sight-reading
+  - fxa101-week02-categorization-of-synaesthesia
+  - fxa101-week02-the-shape-of-things-unseen-a-new-science-of-imagination
+  - fxa101-week02-transcript-this-ted-talk-given-in-2016-by-jamie-ward
+  - fxa300-week01-lesson-fxa300-week01-week-1-1
+  - fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music
+  - fxa300-week02-epilogue-ruminations-on-music-psychology
   - fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with
   - fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community
   - fxa303-week02-scientific-thinking-in-young-children-theoretical-advances
@@ -19,7 +25,7 @@ tags:
 - cognitive-neuroscience
 title: Cognitive Neuroscience and Brain Plasticity
 type: topic
-updated: 2026-05-18
+updated: 2026-07-13
 ---
 
 ## Cognitive Neuroscience and Brain Plasticity
@@ -45,6 +51,12 @@ The exploration of brain lateralization and individual differences in cognitive 
 - [fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care](../sources/fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care.md)
 - [fxa100-week12-inner-vision-an-exploration-of-art-and-the-brain](../sources/fxa100-week12-inner-vision-an-exploration-of-art-and-the-brain.md)
 - [fxa100-week13-distributed-neural-network-underlying-musical-sight-reading](../sources/fxa100-week13-distributed-neural-network-underlying-musical-sight-reading.md)
+- [fxa101-week02-categorization-of-synaesthesia](../sources/fxa101-week02-categorization-of-synaesthesia.md)
+- [fxa101-week02-the-shape-of-things-unseen-a-new-science-of-imagination](../sources/fxa101-week02-the-shape-of-things-unseen-a-new-science-of-imagination.md)
+- [fxa101-week02-transcript-this-ted-talk-given-in-2016-by-jamie-ward](../sources/fxa101-week02-transcript-this-ted-talk-given-in-2016-by-jamie-ward.md)
+- [fxa300-week01-lesson-fxa300-week01-week-1-1](../sources/fxa300-week01-lesson-fxa300-week01-week-1-1.md)
+- [fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music](../sources/fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music.md)
+- [fxa300-week02-epilogue-ruminations-on-music-psychology](../sources/fxa300-week02-epilogue-ruminations-on-music-psychology.md)
 - [fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with](../sources/fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with.md)
 - [fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community](../sources/fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community.md)
 - [fxa303-week02-scientific-thinking-in-young-children-theoretical-advances](../sources/fxa303-week02-scientific-thinking-in-young-children-theoretical-advances.md)

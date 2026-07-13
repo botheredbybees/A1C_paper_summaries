@@ -81,6 +81,7 @@ sources:
   - fxa100-week13-editorial-the-state-of-the-art-in-creative-arts-therapies
   - fxa100-week13-music-interventions-for-people-with-dementia-a-review-of
   - fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness
+  - fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master
   - fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the
   - fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music
   - fxa301-music-healt-and-wellbeing-ch05-10680-meymandi
@@ -98,6 +99,10 @@ sources:
   - fxa301-week11-anything-is-possible-the-arts-and-social-inclusion
   - fxa301-week11-lesson-fxa301-week11-page-2
   - fxa301-week11-web-article-cameron-2017
+  - fxa302-week01-choirs-and-singing
+  - fxa302-week01-making-music
+  - fxa302-week01-musical-composition-and-vocal-expression
+  - fxa302-week01-shared-music-listening
   - fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam
   - fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on
   - fxa303-week04-community-services-the-music-therapy-center-of-california
@@ -118,7 +123,7 @@ tags:
 - music-therapy
 title: Music Therapy
 type: topic
-updated: 2026-05-18
+updated: 2026-07-13
 ---
 
 ## Music Therapy
@@ -215,6 +220,7 @@ The integration of music therapy across various neurological conditions undersco
 - [fxa100-week13-editorial-the-state-of-the-art-in-creative-arts-therapies](../sources/fxa100-week13-editorial-the-state-of-the-art-in-creative-arts-therapies.md)
 - [fxa100-week13-music-interventions-for-people-with-dementia-a-review-of](../sources/fxa100-week13-music-interventions-for-people-with-dementia-a-review-of.md)
 - [fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness](../sources/fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness.md)
+- [fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master](../sources/fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master.md)
 - [fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the](../sources/fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the.md)
 - [fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music](../sources/fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music.md)
 - [fxa301-music-healt-and-wellbeing-ch05-10680-meymandi](../sources/fxa301-music-healt-and-wellbeing-ch05-10680-meymandi.md)
@@ -232,6 +238,10 @@ The integration of music therapy across various neurological conditions undersco
 - [fxa301-week11-anything-is-possible-the-arts-and-social-inclusion](../sources/fxa301-week11-anything-is-possible-the-arts-and-social-inclusion.md)
 - [fxa301-week11-lesson-fxa301-week11-page-2](../sources/fxa301-week11-lesson-fxa301-week11-page-2.md)
 - [fxa301-week11-web-article-cameron-2017](../sources/fxa301-week11-web-article-cameron-2017.md)
+- [fxa302-week01-choirs-and-singing](../sources/fxa302-week01-choirs-and-singing.md)
+- [fxa302-week01-making-music](../sources/fxa302-week01-making-music.md)
+- [fxa302-week01-musical-composition-and-vocal-expression](../sources/fxa302-week01-musical-composition-and-vocal-expression.md)
+- [fxa302-week01-shared-music-listening](../sources/fxa302-week01-shared-music-listening.md)
 - [fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam.md)
 - [fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on](../sources/fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on.md)
 - [fxa303-week04-community-services-the-music-therapy-center-of-california](../sources/fxa303-week04-community-services-the-music-therapy-center-of-california.md)

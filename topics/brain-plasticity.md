@@ -6,6 +6,9 @@ sources:
   - fxa100-week02-are-the-brains-of-musicians-physically-different
   - fxa100-week04-music-as-therapy-and-health-promotion
   - fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the
+  - fxa101-week02-acquiring-tastes-and-loves-what-neuroplasticity-teaches-us
+  - fxa101-week02-redesigning-the-brain-a-scientist-changes-brains-to-sharpen
+  - fxa300-week02-understanding-the-brain-the-birth-of-a-learning-science
   - fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians
   - fxa303-week02-infancy-and-the-early-years
   - fxa303-week03-hormones-and-the-adolescent-brain
@@ -17,7 +20,7 @@ tags:
 - brain-plasticity
 title: Brain Plasticity
 type: topic
-updated: 2026-05-11
+updated: 2026-07-13
 ---
 
 ## Brain Plasticity
@@ -43,6 +46,9 @@ However, despite compelling evidence of morphological changes induced by musical
 - [fxa100-week02-are-the-brains-of-musicians-physically-different](../sources/fxa100-week02-are-the-brains-of-musicians-physically-different.md)
 - [fxa100-week04-music-as-therapy-and-health-promotion](../sources/fxa100-week04-music-as-therapy-and-health-promotion.md)
 - [fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the](../sources/fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the.md)
+- [fxa101-week02-acquiring-tastes-and-loves-what-neuroplasticity-teaches-us](../sources/fxa101-week02-acquiring-tastes-and-loves-what-neuroplasticity-teaches-us.md)
+- [fxa101-week02-redesigning-the-brain-a-scientist-changes-brains-to-sharpen](../sources/fxa101-week02-redesigning-the-brain-a-scientist-changes-brains-to-sharpen.md)
+- [fxa300-week02-understanding-the-brain-the-birth-of-a-learning-science](../sources/fxa300-week02-understanding-the-brain-the-birth-of-a-learning-science.md)
 - [fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians](../sources/fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians.md)
 - [fxa303-week02-infancy-and-the-early-years](../sources/fxa303-week02-infancy-and-the-early-years.md)
 - [fxa303-week03-hormones-and-the-adolescent-brain](../sources/fxa303-week03-hormones-and-the-adolescent-brain.md)

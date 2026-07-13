@@ -11,7 +11,7 @@ tags: ["autism-spectrum-disorder", "transcriptomics", "cerebral-cortex", "fxa303
 key_concepts: ["autism spectrum disorder", "gene expression", "dysregulation"]
 methods: ["transcriptomic analysis"]
 slug: fxa303-week04-broad-transcriptomic-dysregulation-occurs-across-the
-related: ["autism-spectrum-disorder"]
+related: ["autism-spectrum-disorder", "cerebral-cortex"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,3 +42,4 @@ _All claims sourced from ../raw/pdf/fxa303-week04-broad-transcriptomic-dysregula
 ## See Also
 
 - [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)
+- [cerebral-cortex](../topics/cerebral-cortex.md)

@@ -11,7 +11,7 @@ tags: ["aging-brain", "glucose-metabolism", "neurodegeneration", "hippocampus-fu
 key_concepts: ["N-glycosylation pathways", "glucose transport"]
 methods: ["review article"]
 slug: fxa100-week01-the-mechanisms-in-glucose-metabolism-of-aging-hippocampus
-related: []
+related: ["aging-brain", "hippocampus-function"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,4 +41,5 @@ This review article investigates the mechanisms of glucose metabolism in the agi
 
 ## See Also
 
-*(none yet)*
+- [aging-brain](../topics/aging-brain.md)
+- [hippocampus-function](../topics/hippocampus-function.md)

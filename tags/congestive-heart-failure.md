@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: congestive-heart-failure
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Congestive Heart Failure

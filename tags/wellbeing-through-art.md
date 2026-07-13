@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: wellbeing-through-art
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Wellbeing Through Art
@@ -17,3 +17,4 @@ updated: 2026-07-03
 - [Activities for Week 3 - FXA301 Arts in the Community](../sources/fxa301-week03-lesson-fxa301-week03-page-4-week-3-activities.md)
 - [Web Lecture 5 - Engaging with Visual Arts](../sources/fxa301-week05-web-lecture-5-engaging-with-visual-arts.md)
 - [Music and Dance for Health and Wellbeing](../sources/fxa301-week06-lesson-fxa301-week06-page-3.md)
+- [FXA302 - Week 1 Introduction](../sources/fxa302-week01-fxa302-week-1-introduction.md)

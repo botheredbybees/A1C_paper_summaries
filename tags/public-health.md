@@ -1,12 +1,13 @@
 ---
 type: tag
 tag: public-health
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Public Health
 
 - [Prevalence and Projections of Dementia](../sources/fxa100-excellence-in-dementia-care--ch24-chapter-1.md)
+- [Activities for Week 2 - FXA101 Creativity and Ageing](../sources/fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities.md)
 - [Art Is the Evidence: Convincing Public Communication of Art-Based Research and Its Outcomes](../sources/fxa301-applied-artes-and-health-ch01-2021-graff.md)
 - [Theoretical Background to Arts in Health](../sources/fxa301-arts-in-health-ch04-48-haldane-d.md)
 - [The value of music for public health](../sources/fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26.md)

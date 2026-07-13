@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: philosophy-of-mind
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Philosophy Of Mind
@@ -9,3 +9,4 @@ updated: 2026-07-03
 - [Memory: Inner or Outer?](../sources/fxa100-how-we-thnk-about-dementia-ch06-chapter-3.md)
 - [How We Think about Dementia: Personhood, Rights, Ethics, the Arts and What They Mean for Care](../sources/fxa100-how-we-thnk-about-dementia-ch12-chapter-4.md)
 - [The Art and Practice of Memory and Forgetting](../sources/fxa100-how-we-thnk-about-dementia-ch13-chapter-13.md)
+- [The Imagination of the Mind in Classical Athens](../sources/fxa302-week02-the-imagination-of-the-mind-in-classical-athens.md)

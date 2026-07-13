@@ -11,7 +11,7 @@ tags: ["visual-journaling", "creative-processes", "sketchnoting", "art-research"
 key_concepts: ["journal-as-tool", "pictorial-analysis", "source-documentation"]
 methods: ["guide-for-students"]
 slug: fxa202-week08-the-journal-and-visual-research
-related: []
+related: ["creative-processes"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,4 +42,4 @@ The document 'The Journal and Visual Research' by the University of Tasmania pro
 
 ## See Also
 
-*(none yet)*
+- [creative-processes](../topics/creative-processes.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: wabi-sabi
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Wabi Sabi

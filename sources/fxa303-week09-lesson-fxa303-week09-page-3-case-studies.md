@@ -11,7 +11,7 @@ tags: ["creative-arts", "mental-wellbeing", "trauma-recovery", "play-based-inter
 key_concepts: ["Trauma-Informed Design", "Creative Play", "Storytelling for Healing", "Adventure Playgrounds"]
 methods: []
 slug: fxa303-week09-lesson-fxa303-week09-page-3-case-studies
-related: ["creative-arts", "disaster-response", "mental-wellbeing", "play-based-interventions", "trauma-recovery"]
+related: ["community-healing", "creative-arts", "disaster-response", "mental-wellbeing", "play-based-interventions", "trauma-recovery"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,6 +45,7 @@ This lesson focuses on the role of creative arts and play in aiding mental wellb
 
 ## See Also
 
+- [community-healing](../topics/community-healing.md)
 - [creative-arts](../topics/creative-arts.md)
 - [disaster-response](../topics/disaster-response.md)
 - [mental-wellbeing](../topics/mental-wellbeing.md)

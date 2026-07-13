@@ -11,7 +11,7 @@ tags: ["dementia-research", "aging-concepts", "interdisciplinary-study", "fxa100
 key_concepts: ["paradigm of aging", "participatory action research"]
 methods: []
 slug: fxa100-how-we-thnk-about-dementia-ch05-chapter-11
-related: ["dementia-research"]
+related: ["dementia-research", "interdisciplinary-study"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,3 +41,4 @@ This chapter discusses the complexity of distinguishing between dementia and nor
 ## See Also
 
 - [dementia-research](../topics/dementia-research.md)
+- [interdisciplinary-study](../topics/interdisciplinary-study.md)

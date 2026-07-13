@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-in-dementia-care
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
 ## Arts In Dementia Care
