@@ -5,8 +5,6 @@ slug: person-centered-practice
 sources:
   - fxa100-excellence-in-dementia-care--ch11-chapter-17
   - fxa100-excellence-in-dementia-care--ch12-chapter-14
-- fxa100-excellence-in-dementia-care--ch11-chapter-17
-- fxa100-excellence-in-dementia-care--ch12-chapter-14
 tags:
 - person-centered-practice
 title: Person-Centered Practice

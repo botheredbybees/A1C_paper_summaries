@@ -3,10 +3,10 @@ confidence: low
 domain: intervention
 slug: patient-centered-care
 sources:
+  - fxa100-week04-conceptualizing-and-planning-interventions
   - fxa301-week01-quality-of-life-assessment-key-issues-in-the-1990s
   - fxa302-week01-lesson-fxa302-week01-page-3-medical-narratives-and
   - fxa302-week01-where-science-meets-stories-a-systematic-review-on
-- fxa100-week04-conceptualizing-and-planning-interventions
 tags:
 - patient-centered-care
 title: Patient-Centered Care
@@ -30,6 +30,7 @@ The concept of Patient-Centered Care (PCC) emphasizes the importance of consider
 
 ## Sources
 
+- [fxa100-week04-conceptualizing-and-planning-interventions](../sources/fxa100-week04-conceptualizing-and-planning-interventions.md)
 - [fxa301-week01-quality-of-life-assessment-key-issues-in-the-1990s](../sources/fxa301-week01-quality-of-life-assessment-key-issues-in-the-1990s.md)
 - [fxa302-week01-lesson-fxa302-week01-page-3-medical-narratives-and](../sources/fxa302-week01-lesson-fxa302-week01-page-3-medical-narratives-and.md)
 - [fxa302-week01-where-science-meets-stories-a-systematic-review-on](../sources/fxa302-week01-where-science-meets-stories-a-systematic-review-on.md)

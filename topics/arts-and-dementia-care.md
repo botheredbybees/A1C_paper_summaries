@@ -5,8 +5,6 @@ slug: arts-and-dementia-care
 sources:
   - fxa100-week07-lesson-fxa100-week07-page-2-artz-artists-for-alzheimer-s
   - fxa100-week07-lesson-fxa100-week07-welcome-to-week-7
-- fxa100-week07-lesson-fxa100-week07-page-2-artz-artists-for-alzheimer-s
-- fxa100-week07-lesson-fxa100-week07-welcome-to-week-7
 tags:
 - arts-and-dementia-care
 title: Arts and Dementia Care

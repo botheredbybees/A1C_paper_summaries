@@ -4,10 +4,9 @@ domain: method
 slug: auditory-processing
 sources:
   - fxa100-week02-fxa100-week-2-lecture-music-and-the-brain
+  - fxa100-week02-hearing-and-music
   - fxa101-week02-a-neural-link-between-feeling-and-hearing
   - fxa300-week02-the-brain-atlas-a-visual-guide-to-the-human-central-nervous
-- fxa100-week02-fxa100-week-2-lecture-music-and-the-brain
-- fxa100-week02-hearing-and-music
 tags:
 - auditory-processing
 title: Auditory Processing
@@ -32,5 +31,6 @@ The provided sources offer a comprehensive overview of auditory processing and i
 ## Sources
 
 - [fxa100-week02-fxa100-week-2-lecture-music-and-the-brain](../sources/fxa100-week02-fxa100-week-2-lecture-music-and-the-brain.md)
+- [fxa100-week02-hearing-and-music](../sources/fxa100-week02-hearing-and-music.md)
 - [fxa101-week02-a-neural-link-between-feeling-and-hearing](../sources/fxa101-week02-a-neural-link-between-feeling-and-hearing.md)
 - [fxa300-week02-the-brain-atlas-a-visual-guide-to-the-human-central-nervous](../sources/fxa300-week02-the-brain-atlas-a-visual-guide-to-the-human-central-nervous.md)

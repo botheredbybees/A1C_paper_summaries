@@ -6,9 +6,6 @@ sources:
   - fxa202-week03-week-3-introduction-photography-and-health
   - fxa202-week08-week-8-lecture-notes-editing-your-images-(3)
   - fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a
-- fxa202-week03-week-3-introduction-photography-and-health
-- fxa202-week08-week-8-lecture-notes-editing-your-images-(3)
-- fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a
 tags:
 - photography-therapy
 title: Photography Therapy

@@ -3,9 +3,9 @@ confidence: low
 domain: intervention
 slug: oxidative-stress
 sources:
+  - fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a
   - psy214-week01-biological-processes-associated-with-chronic-stress
   - psy214-week01-lesson-psy214-week01-stress-related-biological-processes
-- fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a
 tags:
 - oxidative-stress
 title: Oxidative Stress
@@ -29,5 +29,6 @@ The provided source highlights the role of oxidative stress in the progression o
 
 ## Sources
 
+- [fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a](../sources/fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a.md)
 - [psy214-week01-biological-processes-associated-with-chronic-stress](../sources/psy214-week01-biological-processes-associated-with-chronic-stress.md)
 - [psy214-week01-lesson-psy214-week01-stress-related-biological-processes](../sources/psy214-week01-lesson-psy214-week01-stress-related-biological-processes.md)

@@ -3,10 +3,10 @@ confidence: medium
 domain: intervention
 slug: arts-in-emotional-health
 sources:
+  - fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family
   - fxa300-week01-how-music-affects-your-brain
+  - fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6
   - fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project
-- fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family
-- fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6
 tags:
 - emotional-health
 title: Arts in Emotional Health
@@ -30,5 +30,7 @@ Sources highlight the arts as a therapeutic intervention for enhancing emotional
 
 ## Sources
 
+- [fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family](../sources/fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family.md)
 - [fxa300-week01-how-music-affects-your-brain](../sources/fxa300-week01-how-music-affects-your-brain.md)
+- [fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6](../sources/fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6.md)
 - [fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project](../sources/fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project.md)

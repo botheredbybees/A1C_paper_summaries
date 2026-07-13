@@ -3,11 +3,11 @@ confidence: medium
 domain: intervention
 slug: positive-emotions-in-healthcare
 sources:
+  - fxa100-week04-the-impact-of-caregivers-singing-on-expressions-of-emotion
+  - fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults
+  - fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january
   - psy214-week02-positive-emotions-and-well-being
   - psy214-week02-positive-emotions-as-a-path-to-well-being
-- fxa100-week04-the-impact-of-caregivers-singing-on-expressions-of-emotion
-- fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults
-- fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january
 tags:
 - positive-emotions
 title: Positive Emotions in Healthcare
@@ -31,5 +31,8 @@ The sources highlight the role of interventions aimed at eliciting positive emot
 
 ## Sources
 
+- [fxa100-week04-the-impact-of-caregivers-singing-on-expressions-of-emotion](../sources/fxa100-week04-the-impact-of-caregivers-singing-on-expressions-of-emotion.md)
+- [fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults](../sources/fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults.md)
+- [fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january](../sources/fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january.md)
 - [psy214-week02-positive-emotions-and-well-being](../sources/psy214-week02-positive-emotions-and-well-being.md)
 - [psy214-week02-positive-emotions-as-a-path-to-well-being](../sources/psy214-week02-positive-emotions-as-a-path-to-well-being.md)

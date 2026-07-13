@@ -5,8 +5,6 @@ slug: therapeutic-puppetry
 sources:
   - fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children
   - fxa303-week06-therapeutic-puppetry-and-wellbeing
-- fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children
-- fxa303-week06-therapeutic-puppetry-and-wellbeing
 tags:
 - therapeutic-puppetry
 title: Therapeutic Puppetry

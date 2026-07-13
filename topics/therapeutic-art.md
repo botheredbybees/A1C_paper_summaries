@@ -7,9 +7,6 @@ sources:
   - fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay
   - fxa301-week05-lesson-fxa301-week05-page-1
   - fxa301-week11-refugee-art-expressing-experience-through-creativity
-- fxa100-week07-for-visitors-with-dementia
-- fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay
-- fxa301-week05-lesson-fxa301-week05-page-1
 tags:
 - therapeutic-art
 title: Therapeutic Art

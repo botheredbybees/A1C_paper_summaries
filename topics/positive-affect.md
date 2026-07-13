@@ -3,9 +3,9 @@ confidence: low
 domain: intervention
 slug: singing-and-positive-affect
 sources:
+  - fxa301-week06-the-ice-breaker-effect-singing-mediates-fast-social-bonding
   - psy214-week00-the-impact-of-signature-character-strengths-interventions-a
   - psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an
-- fxa301-week06-the-ice-breaker-effect-singing-mediates-fast-social-bonding
 tags:
 - positive-affect
 title: Singing and Positive Affect
@@ -29,5 +29,6 @@ The provided sources collectively highlight singing as an intervention that faci
 
 ## Sources
 
+- [fxa301-week06-the-ice-breaker-effect-singing-mediates-fast-social-bonding](../sources/fxa301-week06-the-ice-breaker-effect-singing-mediates-fast-social-bonding.md)
 - [psy214-week00-the-impact-of-signature-character-strengths-interventions-a](../sources/psy214-week00-the-impact-of-signature-character-strengths-interventions-a.md)
 - [psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an](../sources/psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an.md)

@@ -23,7 +23,6 @@ sources:
   - fxa302-week01-storytelling
   - fxa302-week01-the-role-of-the-imagination-in-the-practices-of-the-health
   - fxa302-week01-the-routledge-companion-to-health-humanities-part-2
-- fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay
 tags:
 - health-humanities
 title: Health Humanities

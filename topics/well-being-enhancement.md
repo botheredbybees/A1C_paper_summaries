@@ -5,8 +5,6 @@ slug: well-being-enhancement
 sources:
   - fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care
   - fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life
-- fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care
-- fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life
 tags:
 - well-being-enhancement
 title: Well-Being Enhancement

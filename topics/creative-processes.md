@@ -3,9 +3,9 @@ confidence: low
 domain: intervention
 slug: creative-processes-in-dementia
 sources:
+  - fxa100-week06-dementia-and-art-neuronal-intermediate-filament-inclusion
   - fxa101-week02-beyond-big-and-little-the-four-c-model-of-creativity
   - fxa202-week08-the-journal-and-visual-research
-- fxa100-week06-dementia-and-art-neuronal-intermediate-filament-inclusion
 tags:
 - creative-processes
 title: Creative Processes in Dementia
@@ -29,5 +29,6 @@ The exploration of the relationship between dementia and artistic creativity hig
 
 ## Sources
 
+- [fxa100-week06-dementia-and-art-neuronal-intermediate-filament-inclusion](../sources/fxa100-week06-dementia-and-art-neuronal-intermediate-filament-inclusion.md)
 - [fxa101-week02-beyond-big-and-little-the-four-c-model-of-creativity](../sources/fxa101-week02-beyond-big-and-little-the-four-c-model-of-creativity.md)
 - [fxa202-week08-the-journal-and-visual-research](../sources/fxa202-week08-the-journal-and-visual-research.md)

@@ -5,7 +5,7 @@ slug: artificial-intelligence
 sources:
   - fxa100-week01-ai-tools-in-society-impacts-on-cognitive-offloading-and-the
   - fxa101-week02-generative-artificial-intelligence-human-creativity-and-art
-- fxa202-week10-the-transformative-potential-of-technology
+  - fxa202-week10-the-transformative-potential-of-technology
 tags:
 - artificial-intelligence
 title: Artificial Intelligence
@@ -31,3 +31,4 @@ The transformative potential of Artificial Intelligence (AI) in enhancing the qu
 
 - [fxa100-week01-ai-tools-in-society-impacts-on-cognitive-offloading-and-the](../sources/fxa100-week01-ai-tools-in-society-impacts-on-cognitive-offloading-and-the.md)
 - [fxa101-week02-generative-artificial-intelligence-human-creativity-and-art](../sources/fxa101-week02-generative-artificial-intelligence-human-creativity-and-art.md)
+- [fxa202-week10-the-transformative-potential-of-technology](../sources/fxa202-week10-the-transformative-potential-of-technology.md)

@@ -4,8 +4,8 @@ domain: population
 slug: environmental-factors-in-adolescent-and-young-adult-health
 sources:
   - fxa300-week01-play-that-one-again-the-effect-of-music-tempo-on-consumer
+  - fxa303-week03-adolescent-and-young-adult-health
   - fxa303-week04-neurobiology-of-autism-spectrum-disorders
-- fxa303-week03-adolescent-and-young-adult-health
 tags:
 - environmental-factors
 title: Environmental Factors in Adolescent and Young Adult Health
@@ -30,4 +30,5 @@ The study of adolescent and young adult health highlights the critical role of e
 ## Sources
 
 - [fxa300-week01-play-that-one-again-the-effect-of-music-tempo-on-consumer](../sources/fxa300-week01-play-that-one-again-the-effect-of-music-tempo-on-consumer.md)
+- [fxa303-week03-adolescent-and-young-adult-health](../sources/fxa303-week03-adolescent-and-young-adult-health.md)
 - [fxa303-week04-neurobiology-of-autism-spectrum-disorders](../sources/fxa303-week04-neurobiology-of-autism-spectrum-disorders.md)

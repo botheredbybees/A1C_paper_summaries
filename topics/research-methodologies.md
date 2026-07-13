@@ -4,8 +4,8 @@ domain: method
 slug: phototherapy-and-therapeutic-photography
 sources:
   - fxa202-the-handbook-of-phototherapy-ch02-12-the-earlier-stages
+  - fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography
   - fxa301-week01-an-introduction-to-research
-- fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography
 tags:
 - research-methodologies
 title: Phototherapy and Therapeutic Photography
@@ -30,4 +30,5 @@ The Handbook of Phototherapy and Therapeutic Photography explores the use of lig
 ## Sources
 
 - [fxa202-the-handbook-of-phototherapy-ch02-12-the-earlier-stages](../sources/fxa202-the-handbook-of-phototherapy-ch02-12-the-earlier-stages.md)
+- [fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography](../sources/fxa202-week08-the-handbook-of-phototherapy-and-therapeutic-photography.md)
 - [fxa301-week01-an-introduction-to-research](../sources/fxa301-week01-an-introduction-to-research.md)
