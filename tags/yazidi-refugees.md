@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: yazidi-refugees
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Yazidi Refugees

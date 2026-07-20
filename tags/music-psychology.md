@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-psychology
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Music Psychology

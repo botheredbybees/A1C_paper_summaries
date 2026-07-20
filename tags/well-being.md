@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: well-being
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Well Being
@@ -19,6 +19,7 @@ updated: 2026-07-13
 - [Creative Arts, Mental Health and Trauma](../sources/fxa301-week10-lesson-fxa301-week10-page-1.md)
 - [Life-writing and its implications for health and well-being](../sources/fxa302-week01-life-writing-and-its-implications-for-health-and-well-being.md)
 - [Philosophy's Role in Health Humanities](../sources/fxa302-week01-philosophys-role-in-health-humanities.md)
+- [How Art Museums Can Foster the Flourishing of Future Physicians](../sources/fxa302-week03-how-art-museums-can-foster-the-flourishing-of-future.md)
 - [Effects of Choir Singing on Mental Health: Results of an Online Cross-sectional Study](../sources/fxa303-week11-effects-of-choir-singing-on-mental-health-results-of-an.md)
 - [Social isolation and connectedness as determinants of well-being: Global evidence mapping focused on LGBTQ youth](../sources/fxa303-week11-social-isolation-and-connectedness-as-determinants-of-well.md)
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness - Well-being and Happiness](../sources/psy214-week02-lesson-psy214-week02-week-3-introduction.md)

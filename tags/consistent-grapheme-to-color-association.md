@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: consistent-grapheme-to-color-association
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Consistent Grapheme To Color Association

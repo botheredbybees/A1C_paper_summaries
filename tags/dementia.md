@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dementia
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Dementia
@@ -12,3 +12,4 @@ updated: 2026-07-13
 - [What is dementia and how might it present?](../sources/fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms.md)
 - [Transcript: Alzheimer's Society](../sources/fxa100-week01-transcript-alzheimers-society.md)
 - [The Science of Lewy Body Dementia](../sources/fxa100-week01-transcript-the-science-of-lewy-body-dementia.md)
+- [The neural basis of semantic memory](../sources/fxa101-week03-the-neural-basis-of-semantic-memory.md)

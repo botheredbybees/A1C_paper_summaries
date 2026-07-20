@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-structure-function
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Brain Structure Function

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: transgender-health
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Transgender Health

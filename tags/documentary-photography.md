@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: documentary-photography
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Documentary Photography

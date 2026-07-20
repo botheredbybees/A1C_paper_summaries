@@ -7,11 +7,13 @@ sources:
   - fxa100-week02-playing-a-musical-instrument-as-a-protective-factor-against
   - fxa100-week08-web-article-huebner-2012
   - fxa100-week09-dance-movement-therapy-for-dementia
+  - fxa101-week03-nonpharmacologic-treatment-and-prevention-strategies-for
+  - fxa101-week03-social-isolation-cognitive-reserve-and-cognition-in-healthy
 tags:
 - cognitive-health
 title: Cognitive Health and Protective Factors
 type: topic
-updated: 2026-05-11
+updated: 2026-07-20
 ---
 
 ## Cognitive Health and Protective Factors
@@ -38,3 +40,5 @@ Together, these studies underscore the multifaceted nature of interventions aime
 - [fxa100-week02-playing-a-musical-instrument-as-a-protective-factor-against](../sources/fxa100-week02-playing-a-musical-instrument-as-a-protective-factor-against.md)
 - [fxa100-week08-web-article-huebner-2012](../sources/fxa100-week08-web-article-huebner-2012.md)
 - [fxa100-week09-dance-movement-therapy-for-dementia](../sources/fxa100-week09-dance-movement-therapy-for-dementia.md)
+- [fxa101-week03-nonpharmacologic-treatment-and-prevention-strategies-for](../sources/fxa101-week03-nonpharmacologic-treatment-and-prevention-strategies-for.md)
+- [fxa101-week03-social-isolation-cognitive-reserve-and-cognition-in-healthy](../sources/fxa101-week03-social-isolation-cognitive-reserve-and-cognition-in-healthy.md)

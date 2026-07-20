@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: basal-ganglia
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Basal Ganglia

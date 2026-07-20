@@ -1,11 +1,12 @@
 ---
 type: tag
 tag: child-psychology
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Child Psychology
 
+- [How Music Teaches Children to Create and Innovate](../sources/fxa101-week03-how-music-teaches-children-to-create-and-innovate.md)
 - [Puppet-Assisted Play Therapy](../sources/fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the.md)
 - [Introduction to Puppet-Assisted Play Therapy: Theory, Research, and Practice](../sources/fxa303-puppet-assisted-play-therapy-ch06-139-weedn.md)
 - [Puppet Play Therapy Techniques and Practical Guide](../sources/fxa303-puppet-play-therapy-ch08-6-posture-keep-your-arm-holding-the-puppet-at-a-right-angle.md)

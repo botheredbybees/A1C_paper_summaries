@@ -7,11 +7,12 @@ sources:
   - fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life
   - fxa202-week03-what-is-therapeutic-photography
   - fxa302-week01-narrative-based-medicine
+  - fxa302-week03-the-art-of-medicine-penn-state-medical-students-learn-to
 tags:
 - communication-skills
 title: Communication Skills in Dementia Care
 type: topic
-updated: 2026-07-06
+updated: 2026-07-20
 ---
 
 ## Communication Skills in Dementia Care
@@ -34,3 +35,4 @@ The provided sources discuss interventions aimed at enhancing communication skil
 - [fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life](../sources/fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life.md)
 - [fxa202-week03-what-is-therapeutic-photography](../sources/fxa202-week03-what-is-therapeutic-photography.md)
 - [fxa302-week01-narrative-based-medicine](../sources/fxa302-week01-narrative-based-medicine.md)
+- [fxa302-week03-the-art-of-medicine-penn-state-medical-students-learn-to](../sources/fxa302-week03-the-art-of-medicine-penn-state-medical-students-learn-to.md)

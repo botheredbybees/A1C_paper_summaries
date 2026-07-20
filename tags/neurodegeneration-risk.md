@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurodegeneration-risk
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Neurodegeneration Risk

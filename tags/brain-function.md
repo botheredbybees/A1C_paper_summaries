@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-function
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Brain Function
@@ -17,6 +17,7 @@ updated: 2026-07-13
 - [New Super-Fast MRI Technique: Singing 'If I Only Had A Brain'](../sources/fxa100-week04-transcript-new-super-fast-mri-technique-singing-if-i-only.md)
 - [Introduction to the Human Brain](../sources/fxa101-week02-lesson-fxa101-week02-chapter-2.md)
 - [Metacontrol of human creativity: The neurocognitive mechanisms of convergent and divergent thinking](../sources/fxa101-week02-metacontrol-of-human-creativity-the-neurocognitive.md)
+- [The impact of cognitive reserve on neuropsychological measures in clinical trials](../sources/fxa101-week03-the-impact-of-cognitive-reserve-on-neuropsychological.md)
 - [Week 1 Introduction: Music, Mind and Body](../sources/fxa300-week01-week-1-introduction-music-mind-and-body.md)
 - [Current Advances in the Cognitive Neuroscience of Music](../sources/fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music.md)
 - [This Is Your Brain On Music: Understanding a Human Obsession](../sources/fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession.md)

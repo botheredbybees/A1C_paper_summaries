@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-horticulture
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Therapeutic Horticulture

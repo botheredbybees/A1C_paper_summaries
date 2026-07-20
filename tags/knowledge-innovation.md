@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: knowledge-innovation
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Knowledge Innovation

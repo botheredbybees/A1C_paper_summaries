@@ -11,7 +11,7 @@ tags: ["music-therapy", "brain-injury-recovery", "neuroplasticity", "fxa100"]
 key_concepts: ["neural plasticity", "therapeutic intervention"]
 methods: []
 slug: fxa100-week02-web-article-thaut-2010
-related: ["music-therapy", "neuroplasticity"]
+related: ["brain-injury-recovery", "music-therapy", "neuroplasticity"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,5 +40,6 @@ This article explores how music can aid in the recovery of individuals with brai
 
 ## See Also
 
+- [brain-injury-recovery](../topics/brain-injury-recovery.md)
 - [music-therapy](../topics/music-therapy.md)
 - [neuroplasticity](../topics/neuroplasticity.md)

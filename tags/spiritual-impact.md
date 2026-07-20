@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: spiritual-impact
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Spiritual Impact

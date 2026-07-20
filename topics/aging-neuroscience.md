@@ -7,7 +7,8 @@ tags: ["aging-neuroscience"]
 sources:
   - fxa100-week10-sundown-syndrome-in-persons-with-dementia-an-update
   - fxa101-week02-web-article-meier-2014
-updated: 2026-07-13
+  - fxa101-week03-10-lifestyle-activities-and-late-life-changes-in-cognitive
+updated: 2026-07-20
 ---
 
 ## Neurobiological Changes in Aging
@@ -28,3 +29,4 @@ This synthesis explores neurobiological changes in aging through the lenses of s
 
 - [fxa100-week10-sundown-syndrome-in-persons-with-dementia-an-update](../sources/fxa100-week10-sundown-syndrome-in-persons-with-dementia-an-update.md)
 - [fxa101-week02-web-article-meier-2014](../sources/fxa101-week02-web-article-meier-2014.md)
+- [fxa101-week03-10-lifestyle-activities-and-late-life-changes-in-cognitive](../sources/fxa101-week03-10-lifestyle-activities-and-late-life-changes-in-cognitive.md)

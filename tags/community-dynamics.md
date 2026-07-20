@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: community-dynamics
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Community Dynamics

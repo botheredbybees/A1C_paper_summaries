@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: egyptian-medical-practices
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Egyptian Medical Practices

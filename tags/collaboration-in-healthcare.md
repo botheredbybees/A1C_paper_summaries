@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: collaboration-in-healthcare
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Collaboration In Healthcare

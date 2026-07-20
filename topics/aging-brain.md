@@ -7,7 +7,8 @@ tags: ["aging-brain"]
 sources:
   - fxa100-week01-the-mechanisms-in-glucose-metabolism-of-aging-hippocampus
   - fxa101-week02-rejuvenation-the-discovery-of-the-neuronal-stem-cell-and
-updated: 2026-07-13
+  - fxa101-week03-environmental-and-cognitive-enrichment-in-childhood-as
+updated: 2026-07-20
 ---
 
 ## Aging Brain Mechanisms
@@ -28,3 +29,4 @@ The aging brain exhibits complex mechanisms that influence cognitive decline and
 
 - [fxa100-week01-the-mechanisms-in-glucose-metabolism-of-aging-hippocampus](../sources/fxa100-week01-the-mechanisms-in-glucose-metabolism-of-aging-hippocampus.md)
 - [fxa101-week02-rejuvenation-the-discovery-of-the-neuronal-stem-cell-and](../sources/fxa101-week02-rejuvenation-the-discovery-of-the-neuronal-stem-cell-and.md)
+- [fxa101-week03-environmental-and-cognitive-enrichment-in-childhood-as](../sources/fxa101-week03-environmental-and-cognitive-enrichment-in-childhood-as.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: critical-thinking-in-research
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Critical Thinking In Research

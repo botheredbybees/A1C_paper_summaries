@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: alzheimers-treatment
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Alzheimers Treatment

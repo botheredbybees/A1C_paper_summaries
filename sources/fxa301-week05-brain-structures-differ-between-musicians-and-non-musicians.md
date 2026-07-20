@@ -11,7 +11,7 @@ tags: ["brain-plasticity", "musical-training", "neural-adaptations", "voxel-base
 key_concepts: ["gray-matter-volume", "neural-plasticity", "skill-acquisition"]
 methods: ["voxel-based-morphometry"]
 slug: fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians
-related: ["brain-plasticity", "voxel-based-morphometry"]
+related: ["brain-plasticity", "musical-training", "voxel-based-morphometry"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,4 +45,5 @@ The study by Gaser and Schlaug investigates structural differences in the brains
 ## See Also
 
 - [brain-plasticity](../topics/brain-plasticity.md)
+- [musical-training](../topics/musical-training.md)
 - [voxel-based-morphometry](../topics/voxel-based-morphometry.md)

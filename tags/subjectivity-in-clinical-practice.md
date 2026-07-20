@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: subjectivity-in-clinical-practice
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Subjectivity In Clinical Practice

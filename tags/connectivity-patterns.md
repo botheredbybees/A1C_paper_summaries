@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: connectivity-patterns
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Connectivity Patterns

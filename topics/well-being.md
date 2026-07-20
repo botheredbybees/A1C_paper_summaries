@@ -16,6 +16,7 @@ sources:
   - fxa301-week10-lesson-fxa301-week10-page-1
   - fxa302-week01-life-writing-and-its-implications-for-health-and-well-being
   - fxa302-week01-philosophys-role-in-health-humanities
+  - fxa302-week03-how-art-museums-can-foster-the-flourishing-of-future
   - fxa303-week11-effects-of-choir-singing-on-mental-health-results-of-an
   - fxa303-week11-social-isolation-and-connectedness-as-determinants-of-well
   - psy214-week02-lesson-psy214-week02-week-3-introduction
@@ -24,7 +25,7 @@ tags:
 - well-being
 title: Well-Being Through Creative Arts
 type: topic
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Well-Being Through Creative Arts
@@ -56,6 +57,7 @@ The integration of creative arts as an intervention to improve well-being is a r
 - [fxa301-week10-lesson-fxa301-week10-page-1](../sources/fxa301-week10-lesson-fxa301-week10-page-1.md)
 - [fxa302-week01-life-writing-and-its-implications-for-health-and-well-being](../sources/fxa302-week01-life-writing-and-its-implications-for-health-and-well-being.md)
 - [fxa302-week01-philosophys-role-in-health-humanities](../sources/fxa302-week01-philosophys-role-in-health-humanities.md)
+- [fxa302-week03-how-art-museums-can-foster-the-flourishing-of-future](../sources/fxa302-week03-how-art-museums-can-foster-the-flourishing-of-future.md)
 - [fxa303-week11-effects-of-choir-singing-on-mental-health-results-of-an](../sources/fxa303-week11-effects-of-choir-singing-on-mental-health-results-of-an.md)
 - [fxa303-week11-social-isolation-and-connectedness-as-determinants-of-well](../sources/fxa303-week11-social-isolation-and-connectedness-as-determinants-of-well.md)
 - [psy214-week02-lesson-psy214-week02-week-3-introduction](../sources/psy214-week02-lesson-psy214-week02-week-3-introduction.md)

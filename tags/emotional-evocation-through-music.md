@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotional-evocation-through-music
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Emotional Evocation Through Music

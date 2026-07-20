@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: philosophy-of-art
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Philosophy Of Art

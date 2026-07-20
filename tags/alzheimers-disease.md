@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: alzheimers-disease
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Alzheimers Disease
@@ -18,5 +18,9 @@ updated: 2026-07-13
 - [Efficacy of Creative Arts Therapy in Treatment of Alzheimer\u2019s Disease and Dementia: A Systematic Literature Review](../sources/fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of.md)
 - [Efficacy of Creative Arts Therapy in Treatment of Alzheimer\u2019s Disease and Dementia: A Systematic Literature Review](../sources/fxa100-week12-efficacy-of-creative-arts-therapy-in-treatment-of.md)
 - [Exercise Benefits on Alzheimer\u2019s Disease: State-of-the-Science](../sources/fxa100-week13-exercise-benefits-on-alzheimers-disease-state-of-the-science.md)
+- [Assessment of lifetime participation in cognitively stimulating activities](../sources/fxa101-week03-assessment-of-lifetime-participation-in-cognitively.md)
+- [Cognitive Reserve and Alzheimer Disease](../sources/fxa101-week03-cognitive-reserve-and-alzheimer-disease.md)
+- [Cognitive Reserve in Healthy Aging and Alzheimer\u2019s Disease: A Meta-Analysis of fMRI Studies](../sources/fxa101-week03-cognitive-reserve-in-healthy-aging-and-alzheimers-disease-a.md)
+- [Lifestyle patterns and cognitive reserve](../sources/fxa101-week03-lifestyle-patterns-and-cognitive-reserve.md)
 - [Cognitive training and cognitive rehabilitation for mild to moderate Alzheimer's disease and vascular dementia](../sources/fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to.md)
 - [The MINWii Project: Renarcissization of Patients Suffering from Alzheimer\u2019s Disease Through Video Game-Based Music Therapy](../sources/fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering.md)

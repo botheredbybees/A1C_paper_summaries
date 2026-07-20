@@ -3,12 +3,14 @@ confidence: low
 domain: theory
 slug: executive-functions
 sources:
-- fxa301-week02-the-brain-and-how-we-perceive-information
+  - fxa101-week03-increased-engagement-of-the-cognitive-control-network
+  - fxa101-week03-longitudinal-analysis-of-music-education-on-executive
+  - fxa301-week02-the-brain-and-how-we-perceive-information
 tags:
 - executive-functions
 title: Executive Functions
 type: topic
-updated: 2026-05-04
+updated: 2026-07-20
 ---
 
 ## Executive Functions
@@ -27,4 +29,6 @@ The concept of executive functions is crucial in understanding how the brain pro
 
 ## Sources
 
+- [fxa101-week03-increased-engagement-of-the-cognitive-control-network](../sources/fxa101-week03-increased-engagement-of-the-cognitive-control-network.md)
+- [fxa101-week03-longitudinal-analysis-of-music-education-on-executive](../sources/fxa101-week03-longitudinal-analysis-of-music-education-on-executive.md)
 - [fxa301-week02-the-brain-and-how-we-perceive-information](../sources/fxa301-week02-the-brain-and-how-we-perceive-information.md)

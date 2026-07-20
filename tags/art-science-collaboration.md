@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: art-science-collaboration
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Art Science Collaboration

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: rational-medical-explanations
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Rational Medical Explanations

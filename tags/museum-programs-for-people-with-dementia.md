@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: museum-programs-for-people-with-dementia
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Museum Programs For People With Dementia

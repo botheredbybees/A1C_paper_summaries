@@ -20,11 +20,12 @@ sources:
   - fxa301-week01-week-2-introduction-fxa301-arts-in-the-community
   - fxa301-week02-lecture-on-perception-of-the-arts
   - fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and
+  - fxa302-week03-your-brain-on-art-the-emerging-science-of-neuroaesthetics
 tags:
 - neuroaesthetics
 title: Neuroaesthetics
 type: topic
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Neuroaesthetics
@@ -60,3 +61,4 @@ Neuroaesthetics explores the neural underpinnings of human engagement with art a
 - [fxa301-week01-week-2-introduction-fxa301-arts-in-the-community](../sources/fxa301-week01-week-2-introduction-fxa301-arts-in-the-community.md)
 - [fxa301-week02-lecture-on-perception-of-the-arts](../sources/fxa301-week02-lecture-on-perception-of-the-arts.md)
 - [fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and](../sources/fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and.md)
+- [fxa302-week03-your-brain-on-art-the-emerging-science-of-neuroaesthetics](../sources/fxa302-week03-your-brain-on-art-the-emerging-science-of-neuroaesthetics.md)

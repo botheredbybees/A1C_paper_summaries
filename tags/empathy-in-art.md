@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: empathy-in-art
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Empathy In Art

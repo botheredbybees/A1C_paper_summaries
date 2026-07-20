@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: laws-dialogue
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Laws Dialogue

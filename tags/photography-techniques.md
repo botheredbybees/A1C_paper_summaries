@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: photography-techniques
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Photography Techniques

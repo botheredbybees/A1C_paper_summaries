@@ -8,7 +8,9 @@ sources:
   - fxa302-week01-philosophys-role-in-health-humanities
   - fxa302-week01-transcript-duration-18-16
   - fxa302-week02-galens-reading-of-hippocratic-ethics
-updated: 2026-07-13
+  - fxa302-week03-transcript-duration-18-16
+  - fxa302-week03-web-article-bramstedt-2016
+updated: 2026-07-20
 ---
 
 ## Philosophy and Ethics in Medical Practice
@@ -30,3 +32,5 @@ Both sources explore the role of philosophical inquiry in understanding medical 
 - [fxa302-week01-philosophys-role-in-health-humanities](../sources/fxa302-week01-philosophys-role-in-health-humanities.md)
 - [fxa302-week01-transcript-duration-18-16](../sources/fxa302-week01-transcript-duration-18-16.md)
 - [fxa302-week02-galens-reading-of-hippocratic-ethics](../sources/fxa302-week02-galens-reading-of-hippocratic-ethics.md)
+- [fxa302-week03-transcript-duration-18-16](../sources/fxa302-week03-transcript-duration-18-16.md)
+- [fxa302-week03-web-article-bramstedt-2016](../sources/fxa302-week03-web-article-bramstedt-2016.md)

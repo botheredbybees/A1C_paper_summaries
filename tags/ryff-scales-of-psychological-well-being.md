@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ryff-scales-of-psychological-well-being
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Ryff Scales Of Psychological Well Being

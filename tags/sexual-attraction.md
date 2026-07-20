@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sexual-attraction
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Sexual Attraction

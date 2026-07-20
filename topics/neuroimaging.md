@@ -5,12 +5,13 @@ slug: neuroimaging-in-music-therapy
 sources:
   - fxa100-week04-music-as-therapy-and-health-promotion
   - fxa101-week02-web-article-grossenbacher-2001
+  - fxa101-week03-brain-development-during-childhood-and-adolescence-a
   - fxa303-week02-imaging-structural-and-functional-brain-development-in
 tags:
 - neuroimaging
 title: Neuroimaging in Music Therapy
 type: topic
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Neuroimaging in Music Therapy
@@ -31,4 +32,5 @@ The use of neuroimaging techniques to explore the mechanisms of music therapy an
 
 - [fxa100-week04-music-as-therapy-and-health-promotion](../sources/fxa100-week04-music-as-therapy-and-health-promotion.md)
 - [fxa101-week02-web-article-grossenbacher-2001](../sources/fxa101-week02-web-article-grossenbacher-2001.md)
+- [fxa101-week03-brain-development-during-childhood-and-adolescence-a](../sources/fxa101-week03-brain-development-during-childhood-and-adolescence-a.md)
 - [fxa303-week02-imaging-structural-and-functional-brain-development-in](../sources/fxa303-week02-imaging-structural-and-functional-brain-development-in.md)

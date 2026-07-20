@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-decline
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Cognitive Decline
@@ -16,4 +16,5 @@ updated: 2026-07-13
 - [A 1-Year Randomized Controlled Trial Comparing Mind Body Exercise (Tai Chi) With Stretching and Toning Exercise on Cognitive Function in Older Chinese Adults at Risk of Cognitive Decline](../sources/fxa100-week13-a-1-year-randomized-controlled-trial-comparing-mind-body.md)
 - [Exercise Benefits on Alzheimer\u2019s Disease: State-of-the-Science](../sources/fxa100-week13-exercise-benefits-on-alzheimers-disease-state-of-the-science.md)
 - [The Effect from Music Therapy Upon Alzheimer's Illness](../sources/fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness.md)
+- [Summary of the evidence on modifiable risk factors for cognitive decline and dementia: A population-based perspective](../sources/fxa101-week03-summary-of-the-evidence-on-modifiable-risk-factors-for.md)
 - [Causes of nursing home placement for older people with dementia: a systematic review and meta-analysis](../sources/fxa303-week13-causes-of-nursing-home-placement-for-older-people-with.md)

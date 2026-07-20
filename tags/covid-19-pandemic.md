@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: covid-19-pandemic
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Covid 19 Pandemic

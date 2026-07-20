@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: bias-assessment-criteria
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Bias Assessment Criteria

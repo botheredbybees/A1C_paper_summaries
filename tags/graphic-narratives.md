@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: graphic-narratives
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Graphic Narratives

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: medical-humanities
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Medical Humanities
@@ -15,3 +15,7 @@ updated: 2026-07-13
 - [Narrativity and medicine: some critical reflections](../sources/fxa302-week01-narrativity-and-medicine-some-critical-reflections.md)
 - [The Routledge Handbook of Spirituality, Religion, and the Medical Humanities](../sources/fxa302-week01-the-routledge-handbook-of-spirituality-religion-and-the.md)
 - [Assistant Professor of Comparative Literature and Medicine on Medical Humanities](../sources/fxa302-week01-transcript-assistant-professor-of-comparative-literature-and.md)
+- [Creating Alignment: How the Humanities Can Help Heal Physicians and Patients](../sources/fxa302-week03-creating-alignment-how-the-humanities-can-help-heal.md)
+- [Perspectives of the Arts on Health and Wellbeing](../sources/fxa302-week03-lesson-fxa302-week03-page-2.md)
+- [Portraits of care: medical research through portraiture](../sources/fxa302-week03-portraits-of-care-medical-research-through-portraiture.md)
+- [Transcript: Assistant Professor of Comparative Literature and Medicine Alvan Ikoku on Medical Humanities](../sources/fxa302-week03-transcript-assistant-professor-of-comparative-literature-and.md)

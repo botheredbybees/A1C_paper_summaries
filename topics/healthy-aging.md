@@ -7,7 +7,8 @@ tags: ["healthy-aging"]
 sources:
   - fxa100-week13-improvement-of-cognitive-function-by-mental-andor
   - fxa100-week13-reminder-randomized-controlled-study-feasibility-and-impact
-updated: 2026-05-18
+  - fxa101-week03-cognitive-reserve-in-healthy-aging-and-alzheimers-disease-a
+updated: 2026-07-20
 ---
 
 ## Healthy Aging Interventions
@@ -28,3 +29,4 @@ The study of interventions aimed at promoting cognitive health in the elderly re
 
 - [fxa100-week13-improvement-of-cognitive-function-by-mental-andor](../sources/fxa100-week13-improvement-of-cognitive-function-by-mental-andor.md)
 - [fxa100-week13-reminder-randomized-controlled-study-feasibility-and-impact](../sources/fxa100-week13-reminder-randomized-controlled-study-feasibility-and-impact.md)
+- [fxa101-week03-cognitive-reserve-in-healthy-aging-and-alzheimers-disease-a](../sources/fxa101-week03-cognitive-reserve-in-healthy-aging-and-alzheimers-disease-a.md)

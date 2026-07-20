@@ -8,6 +8,12 @@ sources:
   - fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the
   - fxa101-week02-acquiring-tastes-and-loves-what-neuroplasticity-teaches-us
   - fxa101-week02-redesigning-the-brain-a-scientist-changes-brains-to-sharpen
+  - fxa101-week03-a-preliminary-study-of-the-effects-of-an-arts-education
+  - fxa101-week03-childhood-music-training-induces-change-in-micro-and
+  - fxa101-week03-cognitive-reserve-and-alzheimer-disease
+  - fxa101-week03-cognitive-reserve-in-ageing-and-alzheimers-disease
+  - fxa101-week03-imagination-how-thinking-makes-it-so
+  - fxa101-week03-poverty-stress-and-brain-development-new-directions-for
   - fxa300-week02-understanding-the-brain-the-birth-of-a-learning-science
   - fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians
   - fxa303-week02-infancy-and-the-early-years
@@ -20,7 +26,7 @@ tags:
 - brain-plasticity
 title: Brain Plasticity
 type: topic
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Brain Plasticity
@@ -48,6 +54,12 @@ However, despite compelling evidence of morphological changes induced by musical
 - [fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the](../sources/fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the.md)
 - [fxa101-week02-acquiring-tastes-and-loves-what-neuroplasticity-teaches-us](../sources/fxa101-week02-acquiring-tastes-and-loves-what-neuroplasticity-teaches-us.md)
 - [fxa101-week02-redesigning-the-brain-a-scientist-changes-brains-to-sharpen](../sources/fxa101-week02-redesigning-the-brain-a-scientist-changes-brains-to-sharpen.md)
+- [fxa101-week03-a-preliminary-study-of-the-effects-of-an-arts-education](../sources/fxa101-week03-a-preliminary-study-of-the-effects-of-an-arts-education.md)
+- [fxa101-week03-childhood-music-training-induces-change-in-micro-and](../sources/fxa101-week03-childhood-music-training-induces-change-in-micro-and.md)
+- [fxa101-week03-cognitive-reserve-and-alzheimer-disease](../sources/fxa101-week03-cognitive-reserve-and-alzheimer-disease.md)
+- [fxa101-week03-cognitive-reserve-in-ageing-and-alzheimers-disease](../sources/fxa101-week03-cognitive-reserve-in-ageing-and-alzheimers-disease.md)
+- [fxa101-week03-imagination-how-thinking-makes-it-so](../sources/fxa101-week03-imagination-how-thinking-makes-it-so.md)
+- [fxa101-week03-poverty-stress-and-brain-development-new-directions-for](../sources/fxa101-week03-poverty-stress-and-brain-development-new-directions-for.md)
 - [fxa300-week02-understanding-the-brain-the-birth-of-a-learning-science](../sources/fxa300-week02-understanding-the-brain-the-birth-of-a-learning-science.md)
 - [fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians](../sources/fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians.md)
 - [fxa303-week02-infancy-and-the-early-years](../sources/fxa303-week02-infancy-and-the-early-years.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-arts-therapy
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Creative Arts Therapy
@@ -13,6 +13,7 @@ updated: 2026-07-13
 - [The Art and Science of Dance/Movement Therapy](../sources/fxa301-week06-the-art-and-science-of-dancemovement-therapy.md)
 - [A Systematic Review of the Efficacy of Creative Arts Therapies in the Treatment of Adults With PTSD](../sources/fxa301-week10-a-systematic-review-of-the-efficacy-of-creative-arts.md)
 - [Using Creative Arts in Trauma Therapy: The Neuroscience of Healing](../sources/fxa301-week10-using-creative-arts-in-trauma-therapy-the-neuroscience-of.md)
+- [Week 1 Introduction and Overview](../sources/fxa302-week03-lesson-fxa302-week03-week-1-welcome-hm.md)
 - [Puppet Play Therapy: A Practical Guidebook](../sources/fxa303-week06-puppet-play-therapy-a-practical-guidebook.md)
 - [Evaluation of a school-based creative arts therapy programme for adolescents from refugee backgrounds](../sources/fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy.md)
 - [FXA303 Week 11: Creative Arts Projects and Therapeutic Programs for Gender Diverse Youth](../sources/fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic.md)

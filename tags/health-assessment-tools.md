@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: health-assessment-tools
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Health Assessment Tools

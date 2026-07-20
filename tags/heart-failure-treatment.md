@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: heart-failure-treatment
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Heart Failure Treatment

@@ -3,6 +3,10 @@ confidence: medium
 domain: intervention
 slug: early-childhood-development
 sources:
+  - fxa101-week03-arts-based-educational-research-in-the-early-years
+  - fxa101-week03-arts-education-for-young-children-of-the-21st-century
+  - fxa101-week03-fxa101-week-3-introduction
+  - fxa101-week03-rhythm-perception-production-and-synchronization-during-the
   - fxa303-week02-infancy-and-the-early-years
   - fxa303-week02-lesson-fxa303-week02-topic-activities-2
   - fxa303-week02-scientific-thinking-in-young-children-theoretical-advances
@@ -10,7 +14,7 @@ tags:
 - early-childhood-development
 title: Early Childhood Development
 type: topic
-updated: 2026-05-11
+updated: 2026-07-20
 ---
 
 ## Early Childhood Development
@@ -29,6 +33,10 @@ The topic of early childhood development encompasses critical interventions and 
 
 ## Sources
 
+- [fxa101-week03-arts-based-educational-research-in-the-early-years](../sources/fxa101-week03-arts-based-educational-research-in-the-early-years.md)
+- [fxa101-week03-arts-education-for-young-children-of-the-21st-century](../sources/fxa101-week03-arts-education-for-young-children-of-the-21st-century.md)
+- [fxa101-week03-fxa101-week-3-introduction](../sources/fxa101-week03-fxa101-week-3-introduction.md)
+- [fxa101-week03-rhythm-perception-production-and-synchronization-during-the](../sources/fxa101-week03-rhythm-perception-production-and-synchronization-during-the.md)
 - [fxa303-week02-infancy-and-the-early-years](../sources/fxa303-week02-infancy-and-the-early-years.md)
 - [fxa303-week02-lesson-fxa303-week02-topic-activities-2](../sources/fxa303-week02-lesson-fxa303-week02-topic-activities-2.md)
 - [fxa303-week02-scientific-thinking-in-young-children-theoretical-advances](../sources/fxa303-week02-scientific-thinking-in-young-children-theoretical-advances.md)

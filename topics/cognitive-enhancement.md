@@ -8,12 +8,14 @@ sources:
   - fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia
   - fxa100-week11-dancing-and-the-brain
   - fxa101-week02-redesigning-the-brain-a-scientist-changes-brains-to-sharpen
+  - fxa101-week03-musical-training-enhances-information-processing-speed
+  - fxa101-week03-the-brain-that-changes-itself-stories-of-personal-triumph
   - fxa301-week06-feasibility-and-preliminary-effects-of-ballet-based-group
 tags:
 - cognitive-enhancement
 title: Cognitive Enhancement Through Creative and Physical Activities
 type: topic
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Cognitive Enhancement Through Creative and Physical Activities
@@ -37,4 +39,6 @@ The integration of various creative and physical activities, such as singing in 
 - [fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia](../sources/fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia.md)
 - [fxa100-week11-dancing-and-the-brain](../sources/fxa100-week11-dancing-and-the-brain.md)
 - [fxa101-week02-redesigning-the-brain-a-scientist-changes-brains-to-sharpen](../sources/fxa101-week02-redesigning-the-brain-a-scientist-changes-brains-to-sharpen.md)
+- [fxa101-week03-musical-training-enhances-information-processing-speed](../sources/fxa101-week03-musical-training-enhances-information-processing-speed.md)
+- [fxa101-week03-the-brain-that-changes-itself-stories-of-personal-triumph](../sources/fxa101-week03-the-brain-that-changes-itself-stories-of-personal-triumph.md)
 - [fxa301-week06-feasibility-and-preliminary-effects-of-ballet-based-group](../sources/fxa301-week06-feasibility-and-preliminary-effects-of-ballet-based-group.md)

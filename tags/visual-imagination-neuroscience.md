@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-imagination-neuroscience
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Visual Imagination Neuroscience

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: puppet-characters
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Puppet Characters

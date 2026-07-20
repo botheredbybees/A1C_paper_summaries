@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: behavioral-and-psychological-signs-and-symptoms-of-dementia
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Behavioral And Psychological Signs And Symptoms Of Dementia

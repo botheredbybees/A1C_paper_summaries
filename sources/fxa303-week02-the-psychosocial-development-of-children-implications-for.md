@@ -11,7 +11,7 @@ tags: ["child-development-theory", "erik-erikson-psychosocial-stages", "educatio
 key_concepts: ["Erik Erikson's theory", "psychosocial development", "holistic education"]
 methods: ["literature review"]
 slug: fxa303-week02-the-psychosocial-development-of-children-implications-for
-related: []
+related: ["education-methods"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,4 +41,4 @@ Sunil Batra's paper explores Erik H. Erikson’s theoretical framework for under
 
 ## See Also
 
-*(none yet)*
+- [education-methods](../topics/education-methods.md)

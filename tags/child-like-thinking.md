@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: child-like-thinking
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Child Like Thinking

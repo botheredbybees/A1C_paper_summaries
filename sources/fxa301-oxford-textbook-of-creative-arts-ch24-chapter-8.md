@@ -18,7 +18,7 @@ tags: ["cultural-participation", "public-health", "epidemiology", "socio-economi
 key_concepts: []
 methods: []
 slug: fxa301-oxford-textbook-of-creative-arts-ch24-chapter-8
-related: ["cultural-participation", "public-health"]
+related: ["cultural-participation", "epidemiology", "gender-differences", "public-health"]
 created: 2026-05-05
 updated: 2026-06-25
 ---
@@ -49,4 +49,6 @@ This chapter explores the epidemiological examination of cultural participation'
 ## See Also
 
 - [cultural-participation](../topics/cultural-participation.md)
+- [epidemiology](../topics/epidemiology.md)
+- [gender-differences](../topics/gender-differences.md)
 - [public-health](../topics/public-health.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cardiovascular-risk
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Cardiovascular Risk

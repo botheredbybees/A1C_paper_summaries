@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-value-of-art
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Therapeutic Value Of Art

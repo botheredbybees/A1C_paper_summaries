@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotional-bonding
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Emotional Bonding

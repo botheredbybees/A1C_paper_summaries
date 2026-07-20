@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotional-impact
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Emotional Impact

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: indigenous-methodology
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Indigenous Methodology

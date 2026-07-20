@@ -3,6 +3,10 @@ confidence: medium
 domain: intervention
 slug: play-therapy-in-child-development
 sources:
+  - fxa101-week03-a-preliminary-study-of-the-effects-of-an-arts-education
+  - fxa101-week03-effects-of-music-training-on-inhibitory-control-and
+  - fxa101-week03-poverty-stress-and-brain-development-new-directions-for
+  - fxa101-week03-seeking-out-the-new-how-music-teaches-children-to-create
   - fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master
   - fxa301-week06-evaluation-of-big-noise-douglas
   - fxa303-week01-an-overview-of-play-therapy
@@ -32,7 +36,7 @@ tags:
 - child-development
 title: Play Therapy in Child Development
 type: topic
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Play Therapy in Child Development
@@ -51,6 +55,10 @@ Play therapy emerges as a significant intervention in facilitating the psycholog
 
 ## Sources
 
+- [fxa101-week03-a-preliminary-study-of-the-effects-of-an-arts-education](../sources/fxa101-week03-a-preliminary-study-of-the-effects-of-an-arts-education.md)
+- [fxa101-week03-effects-of-music-training-on-inhibitory-control-and](../sources/fxa101-week03-effects-of-music-training-on-inhibitory-control-and.md)
+- [fxa101-week03-poverty-stress-and-brain-development-new-directions-for](../sources/fxa101-week03-poverty-stress-and-brain-development-new-directions-for.md)
+- [fxa101-week03-seeking-out-the-new-how-music-teaches-children-to-create](../sources/fxa101-week03-seeking-out-the-new-how-music-teaches-children-to-create.md)
 - [fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master](../sources/fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master.md)
 - [fxa301-week06-evaluation-of-big-noise-douglas](../sources/fxa301-week06-evaluation-of-big-noise-douglas.md)
 - [fxa303-week01-an-overview-of-play-therapy](../sources/fxa303-week01-an-overview-of-play-therapy.md)

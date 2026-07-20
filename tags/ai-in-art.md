@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ai-in-art
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Ai In Art

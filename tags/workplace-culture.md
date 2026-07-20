@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: workplace-culture
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Workplace Culture

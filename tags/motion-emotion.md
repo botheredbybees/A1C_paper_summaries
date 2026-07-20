@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: motion-emotion
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Motion Emotion

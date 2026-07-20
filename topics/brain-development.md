@@ -3,6 +3,13 @@ confidence: high
 domain: theory
 slug: brain-development-across-lifespan
 sources:
+  - fxa101-week03-age-related-effects-and-sex-differences-in-gray-matter
+  - fxa101-week03-brain-development-during-childhood-and-adolescence-a
+  - fxa101-week03-calendar-age-and-puberty-related-development-of-regional
+  - fxa101-week03-increased-engagement-of-the-cognitive-control-network
+  - fxa101-week03-lesson-fxa101-week03-page-1-week-3-introduction
+  - fxa101-week03-lesson-fxa101-week03-page-2-creativity-and-brain
+  - fxa101-week03-synergistic-effects-of-age-on-patterns-of-white-and-gray
   - fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master
   - fxa300-week02-music-and-the-brain
   - fxa300-week02-what-makes-a-musician
@@ -19,7 +26,7 @@ tags:
 - brain-development
 title: Brain Development Across Lifespan
 type: topic
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Brain Development Across Lifespan
@@ -38,6 +45,13 @@ The provided sources delve into the multifaceted process of brain development ac
 
 ## Sources
 
+- [fxa101-week03-age-related-effects-and-sex-differences-in-gray-matter](../sources/fxa101-week03-age-related-effects-and-sex-differences-in-gray-matter.md)
+- [fxa101-week03-brain-development-during-childhood-and-adolescence-a](../sources/fxa101-week03-brain-development-during-childhood-and-adolescence-a.md)
+- [fxa101-week03-calendar-age-and-puberty-related-development-of-regional](../sources/fxa101-week03-calendar-age-and-puberty-related-development-of-regional.md)
+- [fxa101-week03-increased-engagement-of-the-cognitive-control-network](../sources/fxa101-week03-increased-engagement-of-the-cognitive-control-network.md)
+- [fxa101-week03-lesson-fxa101-week03-page-1-week-3-introduction](../sources/fxa101-week03-lesson-fxa101-week03-page-1-week-3-introduction.md)
+- [fxa101-week03-lesson-fxa101-week03-page-2-creativity-and-brain](../sources/fxa101-week03-lesson-fxa101-week03-page-2-creativity-and-brain.md)
+- [fxa101-week03-synergistic-effects-of-age-on-patterns-of-white-and-gray](../sources/fxa101-week03-synergistic-effects-of-age-on-patterns-of-white-and-gray.md)
 - [fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master](../sources/fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master.md)
 - [fxa300-week02-music-and-the-brain](../sources/fxa300-week02-music-and-the-brain.md)
 - [fxa300-week02-what-makes-a-musician](../sources/fxa300-week02-what-makes-a-musician.md)

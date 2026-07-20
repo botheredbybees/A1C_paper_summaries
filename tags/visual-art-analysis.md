@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-art-analysis
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Visual Art Analysis

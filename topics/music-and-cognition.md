@@ -3,13 +3,14 @@ confidence: medium
 domain: intervention
 slug: music-and-cognition
 sources:
-- fxa100-week02-introduction-to-week-2-music-and-the-brain
-- fxa100-week02-the-benefits-of-music-instruction-on-processing-speed
+  - fxa100-week02-introduction-to-week-2-music-and-the-brain
+  - fxa100-week02-the-benefits-of-music-instruction-on-processing-speed
+  - fxa101-week03-music-and-spatial-task-performance
 tags:
 - music-and-cognition
 title: Music And Cognition
 type: topic
-updated: 2026-05-03
+updated: 2026-07-20
 ---
 
 ## Music And Cognition
@@ -30,3 +31,4 @@ The integration of music and cognition reveals a multifaceted interaction betwee
 
 - [fxa100-week02-introduction-to-week-2-music-and-the-brain](../sources/fxa100-week02-introduction-to-week-2-music-and-the-brain.md)
 - [fxa100-week02-the-benefits-of-music-instruction-on-processing-speed](../sources/fxa100-week02-the-benefits-of-music-instruction-on-processing-speed.md)
+- [fxa101-week03-music-and-spatial-task-performance](../sources/fxa101-week03-music-and-spatial-task-performance.md)

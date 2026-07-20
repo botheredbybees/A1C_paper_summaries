@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-function-study
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Brain Function Study

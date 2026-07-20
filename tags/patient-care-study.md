@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: patient-care-study
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Patient Care Study

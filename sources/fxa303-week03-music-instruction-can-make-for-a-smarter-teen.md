@@ -11,7 +11,7 @@ tags: ["music-education", "adolescent-brain-development", "cognitive-skills", "p
 key_concepts: ["auditory neural function", "phonological awareness", "brain plasticity"]
 methods: ["longitudinal study"]
 slug: fxa303-week03-music-instruction-can-make-for-a-smarter-teen
-related: ["adolescent-brain-development", "music-education"]
+related: ["adolescent-brain-development", "cognitive-skills", "music-education"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,4 +44,5 @@ New research by Nina Kraus and colleagues at Northwestern University shows that 
 ## See Also
 
 - [adolescent-brain-development](../topics/adolescent-brain-development.md)
+- [cognitive-skills](../topics/cognitive-skills.md)
 - [music-education](../topics/music-education.md)

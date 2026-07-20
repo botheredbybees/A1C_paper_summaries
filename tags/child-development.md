@@ -1,11 +1,15 @@
 ---
 type: tag
 tag: child-development
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Child Development
 
+- [A Preliminary Study of the Effects of an Arts Education Program on Executive Function, Behavior, and Brain Structure in a Sample of Nonclinical School-Aged Children](../sources/fxa101-week03-a-preliminary-study-of-the-effects-of-an-arts-education.md)
+- [Effects of Music Training on Inhibitory Control and Associated Neural Networks in School-Aged Children: A Longitudinal Study](../sources/fxa101-week03-effects-of-music-training-on-inhibitory-control-and.md)
+- [Poverty, Stress, and Brain Development: New Directions for Prevention and Intervention](../sources/fxa101-week03-poverty-stress-and-brain-development-new-directions-for.md)
+- [Seeking Out the New: How Music Teaches Children to Create and Innovate](../sources/fxa101-week03-seeking-out-the-new-how-music-teaches-children-to-create.md)
 - [How music affects your baby\u2019s brain: Mini Parenting Master Class](../sources/fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master.md)
 - [Evaluation of Big Noise Douglas](../sources/fxa301-week06-evaluation-of-big-noise-douglas.md)
 - [An Overview of Play Therapy](../sources/fxa303-week01-an-overview-of-play-therapy.md)

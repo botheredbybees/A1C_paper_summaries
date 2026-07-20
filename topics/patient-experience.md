@@ -8,13 +8,14 @@ sources:
   - fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and
   - fxa302-week01-exploring-the-medical-humanities
   - fxa302-week01-honoring-the-stories-of-illness
+  - fxa302-week03-introduction-to-fxa302-perspectives-of-the-arts-on-health
   - fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults
   - fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent
 tags:
 - patient-experience
 title: Patient Experience in Healthcare Interventions
 type: topic
-updated: 2026-07-06
+updated: 2026-07-20
 ---
 
 ## Patient Experience in Healthcare Interventions
@@ -38,5 +39,6 @@ The exploration of various healthcare interventions aimed at enhancing the quali
 - [fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and](../sources/fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and.md)
 - [fxa302-week01-exploring-the-medical-humanities](../sources/fxa302-week01-exploring-the-medical-humanities.md)
 - [fxa302-week01-honoring-the-stories-of-illness](../sources/fxa302-week01-honoring-the-stories-of-illness.md)
+- [fxa302-week03-introduction-to-fxa302-perspectives-of-the-arts-on-health](../sources/fxa302-week03-introduction-to-fxa302-perspectives-of-the-arts-on-health.md)
 - [fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults](../sources/fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults.md)
 - [fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent](../sources/fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent.md)

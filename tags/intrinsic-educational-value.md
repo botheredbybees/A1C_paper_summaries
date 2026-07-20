@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: intrinsic-educational-value
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Intrinsic Educational Value

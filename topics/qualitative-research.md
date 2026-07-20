@@ -9,6 +9,7 @@ sources:
   - fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a
   - fxa100-week13-knowledge-and-health-beliefs-about-dementia-prevention
   - fxa100-week13-music-interventions-for-people-with-dementia-a-review-of
+  - fxa101-week03-arts-based-educational-research-in-the-early-years
   - fxa202-the-handbook-of-phototherapy-ch02-12-the-earlier-stages
   - fxa202-the-handbook-of-phototherapy-ch03-chapter-2
   - fxa300-week01-negative-emotion-in-music-what-is-the-attraction-a
@@ -31,7 +32,7 @@ tags:
 - qualitative-research
 title: Qualitative Research in Health and Well-being Interventions
 type: topic
-updated: 2026-07-06
+updated: 2026-07-20
 ---
 
 ## Qualitative Research in Health and Well-being Interventions
@@ -56,6 +57,7 @@ The sources collectively highlight the importance of qualitative research method
 - [fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a](../sources/fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a.md)
 - [fxa100-week13-knowledge-and-health-beliefs-about-dementia-prevention](../sources/fxa100-week13-knowledge-and-health-beliefs-about-dementia-prevention.md)
 - [fxa100-week13-music-interventions-for-people-with-dementia-a-review-of](../sources/fxa100-week13-music-interventions-for-people-with-dementia-a-review-of.md)
+- [fxa101-week03-arts-based-educational-research-in-the-early-years](../sources/fxa101-week03-arts-based-educational-research-in-the-early-years.md)
 - [fxa202-the-handbook-of-phototherapy-ch02-12-the-earlier-stages](../sources/fxa202-the-handbook-of-phototherapy-ch02-12-the-earlier-stages.md)
 - [fxa202-the-handbook-of-phototherapy-ch03-chapter-2](../sources/fxa202-the-handbook-of-phototherapy-ch03-chapter-2.md)
 - [fxa300-week01-negative-emotion-in-music-what-is-the-attraction-a](../sources/fxa300-week01-negative-emotion-in-music-what-is-the-attraction-a.md)

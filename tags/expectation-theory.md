@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: expectation-theory
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Expectation Theory

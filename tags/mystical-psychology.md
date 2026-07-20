@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mystical-psychology
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Mystical Psychology

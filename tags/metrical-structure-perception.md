@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: metrical-structure-perception
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Metrical Structure Perception

@@ -4,13 +4,14 @@ domain: intervention
 slug: social-isolation-among-marginalized-youth
 sources:
   - fxa100-week07-connecting-with-and-through-art-arts-engagement-for
+  - fxa101-week03-social-isolation-cognitive-reserve-and-cognition-in-healthy
   - fxa303-week10-diamonds-in-the-backyard-migrant-youth-and-hip-hop-in
   - fxa303-week11-social-isolation-and-connectedness-as-determinants-of-well
 tags:
 - social-isolation
 title: Social Isolation Among Marginalized Youth
 type: topic
-updated: 2026-05-11
+updated: 2026-07-20
 ---
 
 ## Social Isolation Among Marginalized Youth
@@ -29,5 +30,6 @@ The sources explore how arts engagement and cultural practices can mitigate soci
 ## Sources
 
 - [fxa100-week07-connecting-with-and-through-art-arts-engagement-for](../sources/fxa100-week07-connecting-with-and-through-art-arts-engagement-for.md)
+- [fxa101-week03-social-isolation-cognitive-reserve-and-cognition-in-healthy](../sources/fxa101-week03-social-isolation-cognitive-reserve-and-cognition-in-healthy.md)
 - [fxa303-week10-diamonds-in-the-backyard-migrant-youth-and-hip-hop-in](../sources/fxa303-week10-diamonds-in-the-backyard-migrant-youth-and-hip-hop-in.md)
 - [fxa303-week11-social-isolation-and-connectedness-as-determinants-of-well](../sources/fxa303-week11-social-isolation-and-connectedness-as-determinants-of-well.md)

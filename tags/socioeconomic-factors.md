@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: socioeconomic-factors
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Socioeconomic Factors

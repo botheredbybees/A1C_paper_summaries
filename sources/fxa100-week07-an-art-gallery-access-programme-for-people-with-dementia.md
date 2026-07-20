@@ -11,7 +11,7 @@ tags: ["dementia-care", "intellectual-stimulation", "art-therapy", "quality-of-l
 key_concepts: ["excess disability reduction", "participant engagement", "memory retention impact"]
 methods: ["case study", "focus group"]
 slug: fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia
-related: ["art-therapy", "dementia-care", "quality-of-life"]
+related: ["art-therapy", "dementia-care", "intellectual-stimulation", "quality-of-life"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,4 +46,5 @@ This study examines an art gallery access program designed for individuals with 
 
 - [art-therapy](../topics/art-therapy.md)
 - [dementia-care](../topics/dementia-care.md)
+- [intellectual-stimulation](../topics/intellectual-stimulation.md)
 - [quality-of-life](../topics/quality-of-life.md)

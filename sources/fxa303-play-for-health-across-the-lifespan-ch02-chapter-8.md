@@ -11,7 +11,7 @@ tags: ["frailty", "aging", "cognitive-reserve", "fxa303"]
 key_concepts: ["cognitive reserve", "humor therapy", "playful interventions"]
 methods: []
 slug: fxa303-play-for-health-across-the-lifespan-ch02-chapter-8
-related: []
+related: ["aging", "cognitive-reserve"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,4 +41,5 @@ This chapter explores the concept of frailty and its impact on aging individuals
 
 ## See Also
 
-*(none yet)*
+- [aging](../topics/aging.md)
+- [cognitive-reserve](../topics/cognitive-reserve.md)

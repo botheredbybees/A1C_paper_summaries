@@ -1,11 +1,18 @@
 ---
 type: tag
 tag: brain-development
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Brain Development
 
+- [Age-Related Effects and Sex Differences in Gray Matter Density, Volume, Mass, and Cortical Thickness from Childhood to Young Adulthood](../sources/fxa101-week03-age-related-effects-and-sex-differences-in-gray-matter.md)
+- [Brain development during childhood and adolescence: a longitudinal MRI study](../sources/fxa101-week03-brain-development-during-childhood-and-adolescence-a.md)
+- [Calendar age and puberty-related development of regional gray matter volume and white matter tracts during adolescence](../sources/fxa101-week03-calendar-age-and-puberty-related-development-of-regional.md)
+- [Increased engagement of the cognitive control network associated with music training in children during an fMRI Stroop task](../sources/fxa101-week03-increased-engagement-of-the-cognitive-control-network.md)
+- [Creativity, the Arts and Brain Development](../sources/fxa101-week03-lesson-fxa101-week03-page-1-week-3-introduction.md)
+- [Brain Development and Cognitive Reserve](../sources/fxa101-week03-lesson-fxa101-week03-page-2-creativity-and-brain.md)
+- [Synergistic Effects of Age on Patterns of White and Gray Matter Volume across Childhood and Adolescence](../sources/fxa101-week03-synergistic-effects-of-age-on-patterns-of-white-and-gray.md)
 - [How music affects your baby\u2019s brain: Mini Parenting Master Class](../sources/fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master.md)
 - [Music and the Brain](../sources/fxa300-week02-music-and-the-brain.md)
 - [What Makes a Musician?](../sources/fxa300-week02-what-makes-a-musician.md)

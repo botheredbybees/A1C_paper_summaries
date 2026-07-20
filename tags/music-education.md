@@ -1,12 +1,19 @@
 ---
 type: tag
 tag: music-education
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Music Education
 
 - [Engaging in Community Music: An Introduction](../sources/fxa100-week04-engaging-in-community-music-an-introduction.md)
+- [Childhood Music Training Induces Change in Micro and Macroscopic Brain Structure: Results from a Longitudinal Study](../sources/fxa101-week03-childhood-music-training-induces-change-in-micro-and.md)
+- [How Music Teaches Children to Create and Innovate](../sources/fxa101-week03-how-music-teaches-children-to-create-and-innovate.md)
+- [Increased engagement of the cognitive control network associated with music training in children during an fMRI Stroop task](../sources/fxa101-week03-increased-engagement-of-the-cognitive-control-network.md)
+- [Longitudinal Analysis of Music Education on Executive Functions in Primary School Children](../sources/fxa101-week03-longitudinal-analysis-of-music-education-on-executive.md)
+- [Musical Training Enhances Information Processing Speed](../sources/fxa101-week03-musical-training-enhances-information-processing-speed.md)
+- [Seeking Out the New: How Music Teaches Children to Create and Innovate](../sources/fxa101-week03-seeking-out-the-new-how-music-teaches-children-to-create.md)
+- [The Mozart Effect: Music Listening is Not Music Instruction](../sources/fxa101-week03-the-mozart-effect-music-listening-is-not-music-instruction.md)
 - [Culture of Inquiry](../sources/fxa301-week01-culture-of-inquiry.md)
 - [An education in music makes you a better employee. Are recruiters in tune?](../sources/fxa301-week05-an-education-in-music-makes-you-a-better-employee-are.md)
 - [Fading Notes: Music Education for the Next Generation of Primary Teachers](../sources/fxa301-week05-fading-notes-music-education-for-the-next-generation-of.md)

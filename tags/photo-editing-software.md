@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: photo-editing-software
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Photo Editing Software

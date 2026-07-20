@@ -3,6 +3,7 @@ confidence: high
 domain: intervention
 slug: public-health-initiatives-through-arts-and-culture
 sources:
+  - fxa101-week03-fxa101-week-3-introduction
   - fxa301-oxford-textbook-of-creative-arts-ch23-1-a-research-project-that-examined-how-participation-can-be
   - fxa301-week03-cross-sector-strategies-for-health-and-community-well-being
   - fxa301-week03-how-do-we-realize-the-potential-of-the-arts-to-support
@@ -12,7 +13,7 @@ tags:
 - public-health-initiatives
 title: Public Health Initiatives through Arts and Culture
 type: topic
-updated: 2026-05-11
+updated: 2026-07-20
 ---
 
 ## Public Health Initiatives through Arts and Culture
@@ -31,6 +32,7 @@ The integration of arts and culture into public health initiatives aims to enhan
 
 ## Sources
 
+- [fxa101-week03-fxa101-week-3-introduction](../sources/fxa101-week03-fxa101-week-3-introduction.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch23-1-a-research-project-that-examined-how-participation-can-be](../sources/fxa301-oxford-textbook-of-creative-arts-ch23-1-a-research-project-that-examined-how-participation-can-be.md)
 - [fxa301-week03-cross-sector-strategies-for-health-and-community-well-being](../sources/fxa301-week03-cross-sector-strategies-for-health-and-community-well-being.md)
 - [fxa301-week03-how-do-we-realize-the-potential-of-the-arts-to-support](../sources/fxa301-week03-how-do-we-realize-the-potential-of-the-arts-to-support.md)

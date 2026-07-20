@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: six-factor-model-of-well-being
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Six Factor Model Of Well Being

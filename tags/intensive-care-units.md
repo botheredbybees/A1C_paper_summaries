@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: intensive-care-units
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Intensive Care Units

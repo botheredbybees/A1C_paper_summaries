@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: event-organization
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Event Organization

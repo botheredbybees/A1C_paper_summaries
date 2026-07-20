@@ -8,8 +8,10 @@ sources:
   - fxa100-week02-playing-a-musical-instrument-as-a-protective-factor-against
   - fxa100-week11-leisure-activities-and-the-risk-of-dementia-in-the-elderly
   - fxa100-week13-knowledge-and-health-beliefs-about-dementia-prevention
+  - fxa101-week03-nonpharmacologic-treatment-and-prevention-strategies-for
+  - fxa101-week03-summary-of-the-evidence-on-modifiable-risk-factors-for
   - fxa303-week13-practical-recommendations-for-timely-accurate-diagnosis-of
-updated: 2026-05-15
+updated: 2026-07-20
 ---
 
 ## Leisure Activities and Dementia Risk
@@ -31,4 +33,6 @@ The integration of findings from two studies highlights the potential role of en
 - [fxa100-week02-playing-a-musical-instrument-as-a-protective-factor-against](../sources/fxa100-week02-playing-a-musical-instrument-as-a-protective-factor-against.md)
 - [fxa100-week11-leisure-activities-and-the-risk-of-dementia-in-the-elderly](../sources/fxa100-week11-leisure-activities-and-the-risk-of-dementia-in-the-elderly.md)
 - [fxa100-week13-knowledge-and-health-beliefs-about-dementia-prevention](../sources/fxa100-week13-knowledge-and-health-beliefs-about-dementia-prevention.md)
+- [fxa101-week03-nonpharmacologic-treatment-and-prevention-strategies-for](../sources/fxa101-week03-nonpharmacologic-treatment-and-prevention-strategies-for.md)
+- [fxa101-week03-summary-of-the-evidence-on-modifiable-risk-factors-for](../sources/fxa101-week03-summary-of-the-evidence-on-modifiable-risk-factors-for.md)
 - [fxa303-week13-practical-recommendations-for-timely-accurate-diagnosis-of](../sources/fxa303-week13-practical-recommendations-for-timely-accurate-diagnosis-of.md)

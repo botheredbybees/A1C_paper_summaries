@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dementia-therapy
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Dementia Therapy

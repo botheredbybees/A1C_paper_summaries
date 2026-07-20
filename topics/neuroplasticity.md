@@ -13,6 +13,8 @@ sources:
   - fxa101-week02-building-herself-a-better-brain-a-woman-labeled-retarded
   - fxa101-week02-midnight-resurrections-stroke-victims-learn-to-move-and
   - fxa101-week02-rejuvenation-the-discovery-of-the-neuronal-stem-cell-and
+  - fxa101-week03-lesson-fxa101-week03-page-1-week-3-introduction
+  - fxa101-week03-training-creative-cognition-adolescence-as-a-flexible
   - fxa301-week11-activation-of-primary-visual-cortex-by-braille-reading-in
   - fxa303-week02-child-development-fxa303-creative-arts-play-and-mental
   - fxa303-week03-adolescent-development
@@ -20,7 +22,7 @@ tags:
 - neuroplasticity
 title: Neuroplasticity in Brain Rehabilitation
 type: topic
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Neuroplasticity in Brain Rehabilitation
@@ -49,6 +51,8 @@ The sources collectively highlight the potential of music therapy as a therapeut
 - [fxa101-week02-building-herself-a-better-brain-a-woman-labeled-retarded](../sources/fxa101-week02-building-herself-a-better-brain-a-woman-labeled-retarded.md)
 - [fxa101-week02-midnight-resurrections-stroke-victims-learn-to-move-and](../sources/fxa101-week02-midnight-resurrections-stroke-victims-learn-to-move-and.md)
 - [fxa101-week02-rejuvenation-the-discovery-of-the-neuronal-stem-cell-and](../sources/fxa101-week02-rejuvenation-the-discovery-of-the-neuronal-stem-cell-and.md)
+- [fxa101-week03-lesson-fxa101-week03-page-1-week-3-introduction](../sources/fxa101-week03-lesson-fxa101-week03-page-1-week-3-introduction.md)
+- [fxa101-week03-training-creative-cognition-adolescence-as-a-flexible](../sources/fxa101-week03-training-creative-cognition-adolescence-as-a-flexible.md)
 - [fxa301-week11-activation-of-primary-visual-cortex-by-braille-reading-in](../sources/fxa301-week11-activation-of-primary-visual-cortex-by-braille-reading-in.md)
 - [fxa303-week02-child-development-fxa303-creative-arts-play-and-mental](../sources/fxa303-week02-child-development-fxa303-creative-arts-play-and-mental.md)
 - [fxa303-week03-adolescent-development](../sources/fxa303-week03-adolescent-development.md)

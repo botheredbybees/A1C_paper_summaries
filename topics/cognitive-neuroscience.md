@@ -13,6 +13,9 @@ sources:
   - fxa101-week02-categorization-of-synaesthesia
   - fxa101-week02-the-shape-of-things-unseen-a-new-science-of-imagination
   - fxa101-week02-transcript-this-ted-talk-given-in-2016-by-jamie-ward
+  - fxa101-week03-insights-into-the-organisation-of-semantic-memory-and
+  - fxa101-week03-synergistic-effects-of-age-on-patterns-of-white-and-gray
+  - fxa101-week03-the-neural-basis-of-semantic-memory
   - fxa300-week01-lesson-fxa300-week01-week-1-1
   - fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music
   - fxa300-week02-epilogue-ruminations-on-music-psychology
@@ -25,7 +28,7 @@ tags:
 - cognitive-neuroscience
 title: Cognitive Neuroscience and Brain Plasticity
 type: topic
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Cognitive Neuroscience and Brain Plasticity
@@ -54,6 +57,9 @@ The exploration of brain lateralization and individual differences in cognitive 
 - [fxa101-week02-categorization-of-synaesthesia](../sources/fxa101-week02-categorization-of-synaesthesia.md)
 - [fxa101-week02-the-shape-of-things-unseen-a-new-science-of-imagination](../sources/fxa101-week02-the-shape-of-things-unseen-a-new-science-of-imagination.md)
 - [fxa101-week02-transcript-this-ted-talk-given-in-2016-by-jamie-ward](../sources/fxa101-week02-transcript-this-ted-talk-given-in-2016-by-jamie-ward.md)
+- [fxa101-week03-insights-into-the-organisation-of-semantic-memory-and](../sources/fxa101-week03-insights-into-the-organisation-of-semantic-memory-and.md)
+- [fxa101-week03-synergistic-effects-of-age-on-patterns-of-white-and-gray](../sources/fxa101-week03-synergistic-effects-of-age-on-patterns-of-white-and-gray.md)
+- [fxa101-week03-the-neural-basis-of-semantic-memory](../sources/fxa101-week03-the-neural-basis-of-semantic-memory.md)
 - [fxa300-week01-lesson-fxa300-week01-week-1-1](../sources/fxa300-week01-lesson-fxa300-week01-week-1-1.md)
 - [fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music](../sources/fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music.md)
 - [fxa300-week02-epilogue-ruminations-on-music-psychology](../sources/fxa300-week02-epilogue-ruminations-on-music-psychology.md)

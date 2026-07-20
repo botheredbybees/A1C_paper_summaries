@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-pictures
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Therapeutic Pictures

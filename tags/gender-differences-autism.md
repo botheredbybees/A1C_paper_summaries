@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: gender-differences-autism
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Gender Differences Autism

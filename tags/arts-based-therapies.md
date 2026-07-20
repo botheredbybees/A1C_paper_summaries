@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-based-therapies
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Arts Based Therapies

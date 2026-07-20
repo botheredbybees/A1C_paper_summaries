@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: pharmacological-treatment-complement
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Pharmacological Treatment Complement

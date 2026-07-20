@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: anatomy-and-physiology
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Anatomy And Physiology

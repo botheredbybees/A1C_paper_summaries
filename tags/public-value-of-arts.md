@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: public-value-of-arts
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Public Value Of Arts

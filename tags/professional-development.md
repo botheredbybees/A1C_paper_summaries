@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: professional-development
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Professional Development
@@ -10,3 +10,4 @@ updated: 2026-07-13
 - [Journal and Visual Research Guidelines](../sources/fxa202-week08-journal-and-visual-research-guidelines.md)
 - [Arts Projects for Individuals and Groups](../sources/fxa301-week01-arts-projects-for-individuals-and-groups.md)
 - [Projects \u2013 Art Beyond Sight](../sources/fxa301-week11-projects-art-beyond-sight.md)
+- [Visual art instruction in medical education: a narrative review](../sources/fxa302-week03-visual-art-instruction-in-medical-education-a-narrative.md)

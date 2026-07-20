@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: healthcare-intervention
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Healthcare Intervention

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mechanisms-of-change
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Mechanisms Of Change

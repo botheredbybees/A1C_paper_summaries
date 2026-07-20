@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: primary-schools
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Primary Schools

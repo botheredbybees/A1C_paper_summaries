@@ -1,11 +1,12 @@
 ---
 type: tag
 tag: public-policy
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Public Policy
 
+- [Poverty, Stress, and Brain Development: New Directions for Prevention and Intervention](../sources/fxa101-week03-poverty-stress-and-brain-development-new-directions-for.md)
 - [The Arts and Healing: The Power of an Idea](../sources/fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2.md)
 - [Social Determinants of Health](../sources/fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions.md)
 - [Creative Health Review Report](../sources/fxa301-week03-creative-health-review-report.md)

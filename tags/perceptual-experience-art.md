@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: perceptual-experience-art
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Perceptual Experience Art

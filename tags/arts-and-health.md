@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-and-health
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Arts And Health

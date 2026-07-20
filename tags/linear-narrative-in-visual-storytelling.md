@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: linear-narrative-in-visual-storytelling
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Linear Narrative In Visual Storytelling

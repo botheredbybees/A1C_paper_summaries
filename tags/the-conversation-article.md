@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: the-conversation-article
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## The Conversation Article

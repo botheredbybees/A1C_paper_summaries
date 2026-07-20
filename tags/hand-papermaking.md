@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hand-papermaking
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Hand Papermaking

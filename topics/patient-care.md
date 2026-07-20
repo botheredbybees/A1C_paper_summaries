@@ -10,13 +10,14 @@ sources:
   - fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple
   - fxa302-week01-life-writing-and-its-implications-for-health-and-well-being
   - fxa302-week01-medicine-within-health-humanities
+  - fxa302-week03-transcript-duration-18-16
   - fxa303-week13-behavioral-and-psychological-symptoms-of-dementia
   - fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering
 tags:
 - patient-care
 title: Art Therapy in Patient Care
 type: topic
-updated: 2026-07-06
+updated: 2026-07-20
 ---
 
 ## Art Therapy in Patient Care
@@ -42,5 +43,6 @@ The integration of art therapy into patient care emerges as a multifaceted inter
 - [fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple](../sources/fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple.md)
 - [fxa302-week01-life-writing-and-its-implications-for-health-and-well-being](../sources/fxa302-week01-life-writing-and-its-implications-for-health-and-well-being.md)
 - [fxa302-week01-medicine-within-health-humanities](../sources/fxa302-week01-medicine-within-health-humanities.md)
+- [fxa302-week03-transcript-duration-18-16](../sources/fxa302-week03-transcript-duration-18-16.md)
 - [fxa303-week13-behavioral-and-psychological-symptoms-of-dementia](../sources/fxa303-week13-behavioral-and-psychological-symptoms-of-dementia.md)
 - [fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering](../sources/fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering.md)

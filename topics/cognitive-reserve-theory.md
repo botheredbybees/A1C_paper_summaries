@@ -3,12 +3,16 @@ confidence: low
 domain: theory
 slug: cognitive-reserve-theory
 sources:
-- fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there
+  - fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there
+  - fxa101-week03-10-lifestyle-activities-and-late-life-changes-in-cognitive
+  - fxa101-week03-fxa101-week-3-introduction
+  - fxa101-week03-lesson-fxa101-week03-page-2-creativity-and-brain
+  - fxa101-week03-lifestyle-patterns-and-cognitive-reserve
 tags:
 - cognitive-reserve-theory
 title: Cognitive Reserve Theory
 type: topic
-updated: 2026-05-04
+updated: 2026-07-20
 ---
 
 ## Cognitive Reserve Theory
@@ -28,3 +32,7 @@ The concept of cognitive reserve theory has been increasingly recognized in the 
 ## Sources
 
 - [fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there](../sources/fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there.md)
+- [fxa101-week03-10-lifestyle-activities-and-late-life-changes-in-cognitive](../sources/fxa101-week03-10-lifestyle-activities-and-late-life-changes-in-cognitive.md)
+- [fxa101-week03-fxa101-week-3-introduction](../sources/fxa101-week03-fxa101-week-3-introduction.md)
+- [fxa101-week03-lesson-fxa101-week03-page-2-creativity-and-brain](../sources/fxa101-week03-lesson-fxa101-week03-page-2-creativity-and-brain.md)
+- [fxa101-week03-lifestyle-patterns-and-cognitive-reserve](../sources/fxa101-week03-lifestyle-patterns-and-cognitive-reserve.md)

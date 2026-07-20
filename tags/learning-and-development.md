@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: learning-and-development
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Learning And Development

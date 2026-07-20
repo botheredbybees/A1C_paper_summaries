@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: attention-deficit-hyperactivity-disorder
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Attention Deficit Hyperactivity Disorder

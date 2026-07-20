@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dementia-and-art
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Dementia And Art

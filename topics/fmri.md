@@ -3,13 +3,15 @@ confidence: medium
 domain: method
 slug: functional-magnetic-resonance-imaging-fmri
 sources:
-- fxa100-week02-transcript-in-the-video-hank-green-from-the-scishow-explains
-- fxa303-week04-what-does-autism-look-like-in-the-brain
+  - fxa100-week02-transcript-in-the-video-hank-green-from-the-scishow-explains
+  - fxa101-week03-cognitive-reserve-in-healthy-aging-and-alzheimers-disease-a
+  - fxa101-week03-increased-engagement-of-the-cognitive-control-network
+  - fxa303-week04-what-does-autism-look-like-in-the-brain
 tags:
 - fmri
 title: Functional Magnetic Resonance Imaging (Fmri)
 type: topic
-updated: 2026-05-04
+updated: 2026-07-20
 ---
 
 ## Functional Magnetic Resonance Imaging (Fmri)
@@ -28,4 +30,6 @@ The sources provided offer insights into the application and implications of fun
 ## Sources
 
 - [fxa100-week02-transcript-in-the-video-hank-green-from-the-scishow-explains](../sources/fxa100-week02-transcript-in-the-video-hank-green-from-the-scishow-explains.md)
+- [fxa101-week03-cognitive-reserve-in-healthy-aging-and-alzheimers-disease-a](../sources/fxa101-week03-cognitive-reserve-in-healthy-aging-and-alzheimers-disease-a.md)
+- [fxa101-week03-increased-engagement-of-the-cognitive-control-network](../sources/fxa101-week03-increased-engagement-of-the-cognitive-control-network.md)
 - [fxa303-week04-what-does-autism-look-like-in-the-brain](../sources/fxa303-week04-what-does-autism-look-like-in-the-brain.md)

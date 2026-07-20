@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: literacy-in-antiquity
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Literacy In Antiquity

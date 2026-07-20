@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: grief-process
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Grief Process

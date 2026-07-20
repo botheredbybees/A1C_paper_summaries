@@ -11,7 +11,7 @@ tags: ["human-development", "psychosocial-theory", "identity-crisis", "childhood
 key_concepts: ["erikson-psychosocial-stages", "identity-formation", "social-interaction"]
 methods: ["critical-overview"]
 slug: fxa303-week02-the-psychosocial-development-theory-of-erik-erikson
-related: ["human-development", "identity-crisis"]
+related: ["childhood-education", "human-development", "identity-crisis"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,5 +42,6 @@ This article provides a comprehensive review of Erik Erikson's psychosocial deve
 
 ## See Also
 
+- [childhood-education](../topics/childhood-education.md)
 - [human-development](../topics/human-development.md)
 - [identity-crisis](../topics/identity-crisis.md)

@@ -13,12 +13,13 @@ sources:
   - fxa100-week13-a-1-year-randomized-controlled-trial-comparing-mind-body
   - fxa100-week13-exercise-benefits-on-alzheimers-disease-state-of-the-science
   - fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness
+  - fxa101-week03-summary-of-the-evidence-on-modifiable-risk-factors-for
   - fxa303-week13-causes-of-nursing-home-placement-for-older-people-with
 tags:
 - cognitive-decline
 title: Cognitive Decline
 type: topic
-updated: 2026-05-15
+updated: 2026-07-20
 ---
 
 ## Cognitive Decline
@@ -47,4 +48,5 @@ This synthesis examines interventions targeting cognitive decline, focusing on a
 - [fxa100-week13-a-1-year-randomized-controlled-trial-comparing-mind-body](../sources/fxa100-week13-a-1-year-randomized-controlled-trial-comparing-mind-body.md)
 - [fxa100-week13-exercise-benefits-on-alzheimers-disease-state-of-the-science](../sources/fxa100-week13-exercise-benefits-on-alzheimers-disease-state-of-the-science.md)
 - [fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness](../sources/fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness.md)
+- [fxa101-week03-summary-of-the-evidence-on-modifiable-risk-factors-for](../sources/fxa101-week03-summary-of-the-evidence-on-modifiable-risk-factors-for.md)
 - [fxa303-week13-causes-of-nursing-home-placement-for-older-people-with](../sources/fxa303-week13-causes-of-nursing-home-placement-for-older-people-with.md)

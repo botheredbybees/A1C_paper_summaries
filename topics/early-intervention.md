@@ -3,6 +3,7 @@ confidence: medium
 domain: intervention
 slug: early-intervention-strategies
 sources:
+  - fxa101-week03-poverty-stress-and-brain-development-new-directions-for
   - fxa303-week02-fxa303-week-2-child-development-and-creative-arts
   - fxa303-week04-missed-early-intervention-opportunities-for-children-with
   - fxa303-week04-neurodiversity-and-the-autism-spectrum
@@ -11,7 +12,7 @@ tags:
 - early-intervention
 title: Early Intervention Strategies
 type: topic
-updated: 2026-05-15
+updated: 2026-07-20
 ---
 
 ## Early Intervention Strategies
@@ -30,6 +31,7 @@ The sources collectively emphasize the critical importance of timely and effecti
 
 ## Sources
 
+- [fxa101-week03-poverty-stress-and-brain-development-new-directions-for](../sources/fxa101-week03-poverty-stress-and-brain-development-new-directions-for.md)
 - [fxa303-week02-fxa303-week-2-child-development-and-creative-arts](../sources/fxa303-week02-fxa303-week-2-child-development-and-creative-arts.md)
 - [fxa303-week04-missed-early-intervention-opportunities-for-children-with](../sources/fxa303-week04-missed-early-intervention-opportunities-for-children-with.md)
 - [fxa303-week04-neurodiversity-and-the-autism-spectrum](../sources/fxa303-week04-neurodiversity-and-the-autism-spectrum.md)

@@ -5,9 +5,10 @@ title: "Episodic Memory in Emotional and Identity Contexts"
 confidence: medium
 tags: ["episodic-memory"]
 sources:
+  - fxa101-week03-anterograde-memory-in-frontotemporal-dementia
   - fxa300-week01-emotional-responses-to-music-the-need-to-consider
   - fxa303-week13-memory-and-the-sense-of-personal-identity
-updated: 2026-07-06
+updated: 2026-07-20
 ---
 
 ## Episodic Memory in Emotional and Identity Contexts
@@ -26,5 +27,6 @@ The concept of episodic memory is crucial for understanding both emotional respo
 
 ## Sources
 
+- [fxa101-week03-anterograde-memory-in-frontotemporal-dementia](../sources/fxa101-week03-anterograde-memory-in-frontotemporal-dementia.md)
 - [fxa300-week01-emotional-responses-to-music-the-need-to-consider](../sources/fxa300-week01-emotional-responses-to-music-the-need-to-consider.md)
 - [fxa303-week13-memory-and-the-sense-of-personal-identity](../sources/fxa303-week13-memory-and-the-sense-of-personal-identity.md)

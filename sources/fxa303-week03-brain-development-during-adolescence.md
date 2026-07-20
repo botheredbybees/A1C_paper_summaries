@@ -11,7 +11,7 @@ tags: ["brain-development", "adolescence", "neuroscience-insights", "gray-matter
 key_concepts: ["executive-function", "reward-processing", "cognitive-emotional-maturation"]
 methods: ["systematic-review"]
 slug: fxa303-week03-brain-development-during-adolescence
-related: ["adolescence", "brain-development"]
+related: ["adolescence", "brain-development", "gray-matter-density"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,3 +45,4 @@ This review article discusses the neuroscientific insights into brain developmen
 
 - [adolescence](../topics/adolescence.md)
 - [brain-development](../topics/brain-development.md)
+- [gray-matter-density](../topics/gray-matter-density.md)

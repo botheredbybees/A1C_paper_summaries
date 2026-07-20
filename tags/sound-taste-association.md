@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sound-taste-association
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Sound Taste Association

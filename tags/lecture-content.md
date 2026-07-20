@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: lecture-content
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Lecture Content

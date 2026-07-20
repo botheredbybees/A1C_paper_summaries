@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: individualism-collectivism
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Individualism Collectivism

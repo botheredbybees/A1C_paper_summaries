@@ -8,7 +8,8 @@ sources:
   - fxa100-how-we-thnk-about-dementia-ch05-chapter-11
   - fxa302-week01-fxa302-week-1-introduction
   - fxa302-week01-fxa302-week-1-introduction-(2)
-updated: 2026-07-06
+  - fxa302-week03-introduction-to-fxa302-perspectives-of-the-arts-on-health
+updated: 2026-07-20
 ---
 
 ## Interdisciplinary Study in Healthcare and Aging
@@ -30,3 +31,4 @@ The concept of interdisciplinary study emerges as a critical framework within he
 - [fxa100-how-we-thnk-about-dementia-ch05-chapter-11](../sources/fxa100-how-we-thnk-about-dementia-ch05-chapter-11.md)
 - [fxa302-week01-fxa302-week-1-introduction](../sources/fxa302-week01-fxa302-week-1-introduction.md)
 - [fxa302-week01-fxa302-week-1-introduction-(2)](../sources/fxa302-week01-fxa302-week-1-introduction-%282%29.md)
+- [fxa302-week03-introduction-to-fxa302-perspectives-of-the-arts-on-health](../sources/fxa302-week03-introduction-to-fxa302-perspectives-of-the-arts-on-health.md)

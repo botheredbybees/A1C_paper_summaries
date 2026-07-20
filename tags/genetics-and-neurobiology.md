@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: genetics-and-neurobiology
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Genetics And Neurobiology

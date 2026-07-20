@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: multi-modal-expression
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Multi Modal Expression

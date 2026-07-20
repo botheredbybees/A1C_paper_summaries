@@ -6,8 +6,9 @@ confidence: medium
 tags: ["healthcare-education"]
 sources:
   - fxa302-week01-expanding-clinical-empathy-an-activist-perspective
+  - fxa302-week03-creating-alignment-how-the-humanities-can-help-heal
   - fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare
-updated: 2026-07-06
+updated: 2026-07-20
 ---
 
 ## Healthcare Education and Emotional Skills
@@ -26,4 +27,5 @@ The integration of emotional engagement strategies in healthcare education highl
 ## Sources
 
 - [fxa302-week01-expanding-clinical-empathy-an-activist-perspective](../sources/fxa302-week01-expanding-clinical-empathy-an-activist-perspective.md)
+- [fxa302-week03-creating-alignment-how-the-humanities-can-help-heal](../sources/fxa302-week03-creating-alignment-how-the-humanities-can-help-heal.md)
 - [fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare](../sources/fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare.md)

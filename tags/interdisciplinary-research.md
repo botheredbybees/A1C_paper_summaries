@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: interdisciplinary-research
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Interdisciplinary Research
@@ -20,6 +20,7 @@ updated: 2026-07-13
 - [Health humanities: the future of medical humanities?](../sources/fxa302-week01-health-humanities-the-future-of-medical-humanities.md)
 - [The Routledge Handbook of Spirituality, Religion, and the Medical Humanities](../sources/fxa302-week01-the-routledge-handbook-of-spirituality-religion-and-the.md)
 - [Where Science Meets Stories: A Systematic Review on Narrative Medicine](../sources/fxa302-week01-where-science-meets-stories-a-systematic-review-on.md)
+- [Transcript: Assistant Professor of Comparative Literature and Medicine Alvan Ikoku on Medical Humanities](../sources/fxa302-week03-transcript-assistant-professor-of-comparative-literature-and.md)
 - [Researching arts, culture, migration and change: a multi (trans)disciplinary challenge for international migration studies](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi-%283%29.md)
 - [Future Directions in Understanding and Addressing Mental Health among LGBTQ Youth](../sources/fxa303-week11-future-directions-in-understanding-and-addressing-mental.md)
 - [Good Health and Well-Being](../sources/fxa303-week13-good-health-and-well-being.md)

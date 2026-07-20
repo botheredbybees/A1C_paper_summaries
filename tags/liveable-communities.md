@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: liveable-communities
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Liveable Communities

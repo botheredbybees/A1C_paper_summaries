@@ -7,13 +7,15 @@ doi: null
 appearances:
   - unit: FXA302
     week: "01"
+  - unit: FXA302
+    week: "03"
 tags: ["narrative-medicine", "patient-experience", "healthcare-communication", "empathy-in-practice", "doctor-patient-interaction", "fxa302", "empathetic-care"]
 key_concepts: ["narrative medicine", "storytelling techniques", "empathetic care"]
 methods: ["case study"]
 slug: fxa302-week01-honoring-the-stories-of-illness
-related: ["narrative-medicine", "patient-experience"]
+related: ["empathetic-care", "narrative-medicine", "patient-experience"]
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-20
 ---
 
 _All claims sourced from ../raw/pdf/fxa302-week01-honoring-the-stories-of-illness.md_
@@ -42,5 +44,6 @@ In her TEDx Atlanta talk, Rita Charon discusses the importance of narrative medi
 
 ## See Also
 
+- [empathetic-care](../topics/empathetic-care.md)
 - [narrative-medicine](../topics/narrative-medicine.md)
 - [patient-experience](../topics/patient-experience.md)

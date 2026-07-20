@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: film-vs-digital
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Film Vs Digital

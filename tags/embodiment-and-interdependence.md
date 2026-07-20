@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: embodiment-and-interdependence
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Embodiment And Interdependence

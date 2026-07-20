@@ -11,7 +11,7 @@ tags: ["human-anatomy", "hearing-process", "ear-structure", "fxa100"]
 key_concepts: ["cochlea", "hair-cells", "mechanical-to-electrical-conversion"]
 methods: []
 slug: fxa100-week02-transcript-how-the-ear-and-hearing-works-from-med-el-view
-related: ["hearing-process"]
+related: ["hearing-process", "human-anatomy"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,3 +42,4 @@ This transcript explains how sound is perceived by the human ear. It describes t
 ## See Also
 
 - [hearing-process](../topics/hearing-process.md)
+- [human-anatomy](../topics/human-anatomy.md)

@@ -7,13 +7,15 @@ doi: null
 appearances:
   - unit: FXA302
     week: "01"
+  - unit: FXA302
+    week: "03"
 tags: ["medical-narratives", "narrative-medicine", "health-humanities", "patient-centered-care", "literary-theory", "fxa302"]
 key_concepts: ["Narrative Medicine", "Patient Experience", "Clinical Practice"]
 methods: []
 slug: fxa302-week01-lesson-fxa302-week01-page-3-medical-narratives-and
 related: ["health-humanities", "narrative-medicine", "patient-centered-care"]
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-20
 ---
 
 _All claims sourced from ../raw/pdf/fxa302-week01-lesson-fxa302-week01-page-3-medical-narratives-and.md_

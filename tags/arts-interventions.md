@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-interventions
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Arts Interventions
@@ -13,4 +13,5 @@ updated: 2026-07-13
 - [Writing a Research Protocol](../sources/fxa301-week01-writing-a-research-protocol.md)
 - [The THRivE Toolkit: Tools for Health Research and Evaluation in Arts and Heritage](../sources/fxa301-week03-the-thrive-toolkit-tools-for-health-research-and-evaluation.md)
 - [Promoting the health and wellbeing of young Black men using community-based drama](../sources/fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using.md)
+- [The Art of Observation: A Qualitative Analysis of Medical Students\u2019 Experiences](../sources/fxa302-week03-the-art-of-observation-a-qualitative-analysis-of-medical.md)
 - [Supporting youth mental health with arts-based strategies: a global perspective](../sources/fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a.md)

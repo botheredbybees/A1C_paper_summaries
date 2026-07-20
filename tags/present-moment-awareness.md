@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: present-moment-awareness
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Present Moment Awareness

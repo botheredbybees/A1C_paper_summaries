@@ -11,7 +11,7 @@ tags: ["ancient-medicine", "medical-ethics", "hippocratic-oath", "galenic-medica
 key_concepts: ["Hippocratic ethics", "Galenic medical theory", "doctor-patient relationship"]
 methods: ["historical analysis"]
 slug: fxa302-week02-galens-reading-of-hippocratic-ethics
-related: ["ancient-medicine", "medical-ethics"]
+related: ["ancient-medicine", "historical-medical-texts", "medical-ethics"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -44,4 +44,5 @@ Jacques Jouanna's chapter explores Galen's interpretation and adaptation of Hipp
 ## See Also
 
 - [ancient-medicine](../topics/ancient-medicine.md)
+- [historical-medical-texts](../topics/historical-medical-texts.md)
 - [medical-ethics](../topics/medical-ethics.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-neuroscience
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Cognitive Neuroscience
@@ -16,6 +16,9 @@ updated: 2026-07-13
 - [Categorization of Synaesthesia](../sources/fxa101-week02-categorization-of-synaesthesia.md)
 - [The Shape of Things Unseen: A New Science of Imagination](../sources/fxa101-week02-the-shape-of-things-unseen-a-new-science-of-imagination.md)
 - [Synaesthesia: A Cognitive Neuroscientist's Perspective](../sources/fxa101-week02-transcript-this-ted-talk-given-in-2016-by-jamie-ward.md)
+- [Insights into the Organisation of Semantic Memory and Language in the Human Brain](../sources/fxa101-week03-insights-into-the-organisation-of-semantic-memory-and.md)
+- [Synergistic Effects of Age on Patterns of White and Gray Matter Volume across Childhood and Adolescence](../sources/fxa101-week03-synergistic-effects-of-age-on-patterns-of-white-and-gray.md)
+- [The neural basis of semantic memory](../sources/fxa101-week03-the-neural-basis-of-semantic-memory.md)
 - [Introduction to FXA300 Music, Mind and Body](../sources/fxa300-week01-lesson-fxa300-week01-week-1-1.md)
 - [Current Advances in the Cognitive Neuroscience of Music](../sources/fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music.md)
 - [Epilogue: Ruminations on Music Psychology](../sources/fxa300-week02-epilogue-ruminations-on-music-psychology.md)

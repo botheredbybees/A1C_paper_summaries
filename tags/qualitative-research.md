@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: qualitative-research
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Qualitative Research
@@ -12,6 +12,7 @@ updated: 2026-07-13
 - [Impact of dance interventions on the symptoms of dementia: A mixed-methods systematic review](../sources/fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a.md)
 - [Knowledge and Health Beliefs About Dementia Prevention Among Chinese Older Adults: A Qualitative Study](../sources/fxa100-week13-knowledge-and-health-beliefs-about-dementia-prevention.md)
 - [Music Interventions for People with Dementia: A Review of the Literature](../sources/fxa100-week13-music-interventions-for-people-with-dementia-a-review-of.md)
+- [Arts-based educational research in the early years](../sources/fxa101-week03-arts-based-educational-research-in-the-early-years.md)
 - [Researching Phototherapy and Therapeutic Photography](../sources/fxa202-the-handbook-of-phototherapy-ch02-12-the-earlier-stages.md)
 - [The Phototherapists\u2019 Experience and Research on Talking Pictures Therapy](../sources/fxa202-the-handbook-of-phototherapy-ch03-chapter-2.md)
 - [Negative Emotion in Music: What is the Attraction? A Qualitative Study](../sources/fxa300-week01-negative-emotion-in-music-what-is-the-attraction-a.md)

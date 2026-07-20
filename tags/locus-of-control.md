@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: locus-of-control
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Locus Of Control

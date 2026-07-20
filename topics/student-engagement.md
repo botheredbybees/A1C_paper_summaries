@@ -6,11 +6,12 @@ sources:
   - fxa100-week10-web-article-brooker-2013
   - fxa202-week10-week-10-lecture
   - fxa301-week01-week-1-activities-page-video
+  - fxa302-week03-evaluating-the-effectiveness-of-drawing-as-a-pedagogical
 tags:
 - student-engagement
 title: Student Engagement in Online Learning
 type: topic
-updated: 2026-05-11
+updated: 2026-07-20
 ---
 
 ## Student Engagement in Online Learning
@@ -32,3 +33,4 @@ The topic of student engagement in online learning environments emphasizes the i
 - [fxa100-week10-web-article-brooker-2013](../sources/fxa100-week10-web-article-brooker-2013.md)
 - [fxa202-week10-week-10-lecture](../sources/fxa202-week10-week-10-lecture.md)
 - [fxa301-week01-week-1-activities-page-video](../sources/fxa301-week01-week-1-activities-page-video.md)
+- [fxa302-week03-evaluating-the-effectiveness-of-drawing-as-a-pedagogical](../sources/fxa302-week03-evaluating-the-effectiveness-of-drawing-as-a-pedagogical.md)

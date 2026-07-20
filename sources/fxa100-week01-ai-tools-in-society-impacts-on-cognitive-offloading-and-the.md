@@ -11,7 +11,7 @@ tags: ["artificial-intelligence", "cognitive-offloading", "critical-thinking", "
 key_concepts: ["cognitive offloading", "critical thinking skills", "educational attainment impact"]
 methods: ["surveys", "in-depth interviews"]
 slug: fxa100-week01-ai-tools-in-society-impacts-on-cognitive-offloading-and-the
-related: ["artificial-intelligence", "cognitive-offloading", "mixed-methods-research"]
+related: ["artificial-intelligence", "cognitive-offloading", "critical-thinking", "mixed-methods-research"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,4 +46,5 @@ This study investigates the relationship between artificial intelligence (AI) to
 
 - [artificial-intelligence](../topics/artificial-intelligence.md)
 - [cognitive-offloading](../topics/cognitive-offloading.md)
+- [critical-thinking](../topics/critical-thinking.md)
 - [mixed-methods-research](../topics/mixed-methods-research.md)

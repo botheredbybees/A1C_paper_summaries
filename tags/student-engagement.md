@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: student-engagement
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Student Engagement
@@ -9,3 +9,4 @@ updated: 2026-07-13
 - [Enhancing Student Engagement in Online Learning Environments](../sources/fxa100-week10-web-article-brooker-2013.md)
 - [Week 10 Lecture](../sources/fxa202-week10-week-10-lecture.md)
 - [Week 1 Activities Page Video](../sources/fxa301-week01-week-1-activities-page-video.md)
+- [Evaluating the effectiveness of drawing as a pedagogical tool in teaching histology and human anatomy to dental and allied health sciences: a three-year observational study](../sources/fxa302-week03-evaluating-the-effectiveness-of-drawing-as-a-pedagogical.md)

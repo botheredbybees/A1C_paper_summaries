@@ -11,7 +11,7 @@ tags: ["music-and-cognition", "aging-and-memory", "executive-function-in-elderly
 key_concepts: ["cognitive-control", "processing-speed", "verbal-fluency"]
 methods: ["randomized-controlled-trial", "cognitive-assessments"]
 slug: fxa100-week02-the-benefits-of-music-instruction-on-processing-speed
-related: []
+related: ["music-and-cognition"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,4 +42,4 @@ This study investigates the effects of active versus passive music instruction o
 
 ## See Also
 
-*(none yet)*
+- [music-and-cognition](../topics/music-and-cognition.md)

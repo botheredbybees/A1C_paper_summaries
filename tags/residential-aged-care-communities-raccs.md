@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: residential-aged-care-communities-raccs
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Residential Aged Care Communities Raccs

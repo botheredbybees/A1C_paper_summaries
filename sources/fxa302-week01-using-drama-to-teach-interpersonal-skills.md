@@ -11,7 +11,7 @@ tags: ["drama-in-education", "nursing-students", "theatrical-methods", "interper
 key_concepts: ["communication skills", "empathy enhancement", "safe learning environment"]
 methods: ["workshop intervention"]
 slug: fxa302-week01-using-drama-to-teach-interpersonal-skills
-related: []
+related: ["nursing-students"]
 created: 2026-07-06
 updated: 2026-07-06
 ---
@@ -42,4 +42,4 @@ This article discusses an educational intervention that utilized a drama and the
 
 ## See Also
 
-*(none yet)*
+- [nursing-students](../topics/nursing-students.md)

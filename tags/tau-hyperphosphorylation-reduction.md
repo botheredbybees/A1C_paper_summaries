@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: tau-hyperphosphorylation-reduction
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Tau Hyperphosphorylation Reduction

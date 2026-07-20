@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: urban-renewal
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Urban Renewal

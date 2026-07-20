@@ -9,11 +9,12 @@ sources:
   - fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms
   - fxa100-week01-transcript-alzheimers-society
   - fxa100-week01-transcript-the-science-of-lewy-body-dementia
+  - fxa101-week03-the-neural-basis-of-semantic-memory
 tags:
 - dementia
 title: Dementia
 type: topic
-updated: 2026-05-11
+updated: 2026-07-20
 ---
 
 ## Dementia
@@ -38,3 +39,4 @@ The provided sources offer a comprehensive introduction to dementia and its vari
 - [fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms](../sources/fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms.md)
 - [fxa100-week01-transcript-alzheimers-society](../sources/fxa100-week01-transcript-alzheimers-society.md)
 - [fxa100-week01-transcript-the-science-of-lewy-body-dementia](../sources/fxa100-week01-transcript-the-science-of-lewy-body-dementia.md)
+- [fxa101-week03-the-neural-basis-of-semantic-memory](../sources/fxa101-week03-the-neural-basis-of-semantic-memory.md)

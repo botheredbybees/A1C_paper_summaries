@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: memory-involvement-in-creativity
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Memory Involvement In Creativity

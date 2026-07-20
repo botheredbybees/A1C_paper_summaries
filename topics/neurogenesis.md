@@ -7,7 +7,8 @@ tags: ["neurogenesis"]
 sources:
   - fxa100-week13-exercise-benefits-on-alzheimers-disease-state-of-the-science
   - fxa101-week02-adult-neuroplasticity-more-than-40-years-of-research
-updated: 2026-07-13
+  - fxa101-week03-lifestyle-patterns-and-cognitive-reserve
+updated: 2026-07-20
 ---
 
 ## Neurogenesis in Brain Health
@@ -27,3 +28,4 @@ Sources highlight the critical role of neurogenesis and associated brain plastic
 
 - [fxa100-week13-exercise-benefits-on-alzheimers-disease-state-of-the-science](../sources/fxa100-week13-exercise-benefits-on-alzheimers-disease-state-of-the-science.md)
 - [fxa101-week02-adult-neuroplasticity-more-than-40-years-of-research](../sources/fxa101-week02-adult-neuroplasticity-more-than-40-years-of-research.md)
+- [fxa101-week03-lifestyle-patterns-and-cognitive-reserve](../sources/fxa101-week03-lifestyle-patterns-and-cognitive-reserve.md)

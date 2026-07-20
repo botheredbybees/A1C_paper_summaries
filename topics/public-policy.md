@@ -3,6 +3,7 @@ confidence: high
 domain: intervention
 slug: creative-arts-in-public-policy-for-health
 sources:
+  - fxa101-week03-poverty-stress-and-brain-development-new-directions-for
   - fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2
   - fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions
   - fxa301-week03-creative-health-review-report
@@ -15,7 +16,7 @@ tags:
 - public-policy
 title: Creative Arts in Public Policy for Health
 type: topic
-updated: 2026-05-15
+updated: 2026-07-20
 ---
 
 ## Creative Arts in Public Policy for Health
@@ -34,6 +35,7 @@ The integration of creative arts into public health policy is emerging as a sign
 
 ## Sources
 
+- [fxa101-week03-poverty-stress-and-brain-development-new-directions-for](../sources/fxa101-week03-poverty-stress-and-brain-development-new-directions-for.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2](../sources/fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions](../sources/fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions.md)
 - [fxa301-week03-creative-health-review-report](../sources/fxa301-week03-creative-health-review-report.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: phenomenological-hermeneutic-method
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Phenomenological Hermeneutic Method

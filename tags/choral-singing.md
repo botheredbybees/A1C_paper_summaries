@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: choral-singing
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Choral Singing

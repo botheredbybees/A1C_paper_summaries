@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: laban-movement-analysis
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Laban Movement Analysis

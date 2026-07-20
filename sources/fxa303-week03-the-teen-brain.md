@@ -17,7 +17,7 @@ tags: ["teen-brain-development", "adolescent-psychology", "cognitive-neuroscienc
 key_concepts: ["neural-connections", "impulsivity", "substance-use-vulnerability", "gender-differences-in-development"]
 methods: ["case-study"]
 slug: fxa303-week03-the-teen-brain
-related: ["brain-plasticity", "cognitive-neuroscience"]
+related: ["adolescent-psychology", "brain-plasticity", "cognitive-neuroscience"]
 created: 2026-05-03
 updated: 2026-05-16
 ---
@@ -50,5 +50,6 @@ This article explores the paradoxical nature of adolescent brain development, hi
 
 ## See Also
 
+- [adolescent-psychology](../topics/adolescent-psychology.md)
 - [brain-plasticity](../topics/brain-plasticity.md)
 - [cognitive-neuroscience](../topics/cognitive-neuroscience.md)

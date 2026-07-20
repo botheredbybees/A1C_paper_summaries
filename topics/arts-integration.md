@@ -3,13 +3,14 @@ confidence: medium
 domain: intervention
 slug: arts-integration-in-healthcare
 sources:
+  - fxa101-week03-early-childhood-learning-through-visual-art
   - fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative
   - fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative-(2)
 tags:
 - arts-integration
 title: Arts Integration in Healthcare
 type: topic
-updated: 2026-05-16
+updated: 2026-07-20
 ---
 
 ## Arts Integration in Healthcare
@@ -28,5 +29,6 @@ The role of arts integration as a therapeutic intervention within healthcare set
 
 ## Sources
 
+- [fxa101-week03-early-childhood-learning-through-visual-art](../sources/fxa101-week03-early-childhood-learning-through-visual-art.md)
 - [fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative](../sources/fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative.md)
 - [fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative-(2)](../sources/fxa301-applied-artes-and-health-ch02-1-age-exchange-uses-reminiscence-arts-for-the-creative-%282%29.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: web-content-accessibility-guidelines
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Web Content Accessibility Guidelines

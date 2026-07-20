@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-health
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Brain Health
@@ -14,3 +14,6 @@ updated: 2026-07-13
 - [Creativity is good for the brain and might even slow down its ageing \u2013 new study](../sources/fxa101-week01-creativity-is-good-for-the-brain-and-might-even-slow-down.md)
 - [FXA101 Creativity and Ageing - Week 1 Introduction](../sources/fxa101-week01-lesson-fxa101-week01-page-1-introduction.md)
 - [Activities for Week 1](../sources/fxa101-week01-lesson-fxa101-week01-page-4-activities-for-week-1.md)
+- [Assessment of lifetime participation in cognitively stimulating activities](../sources/fxa101-week03-assessment-of-lifetime-participation-in-cognitively.md)
+- [Lifestyle patterns and cognitive reserve](../sources/fxa101-week03-lifestyle-patterns-and-cognitive-reserve.md)
+- [Nonpharmacologic Treatment and Prevention Strategies for Dementia](../sources/fxa101-week03-nonpharmacologic-treatment-and-prevention-strategies-for.md)

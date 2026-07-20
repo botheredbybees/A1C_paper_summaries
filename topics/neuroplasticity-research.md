@@ -8,7 +8,8 @@ sources:
   - fxa100-week02-how-music-helps-to-heal-the-injured-brain-therapeutic-use
   - fxa101-week02-adult-neuroplasticity-more-than-40-years-of-research
   - fxa101-week02-the-brain-that-changes-itself-stories-of-personal-triumph
-updated: 2026-07-13
+  - fxa101-week03-the-brain-that-changes-itself-stories-of-personal-triumph
+updated: 2026-07-20
 ---
 
 ## Neuroplasticity Research
@@ -30,3 +31,4 @@ Neuroplasticity research has significantly advanced over the past four decades, 
 - [fxa100-week02-how-music-helps-to-heal-the-injured-brain-therapeutic-use](../sources/fxa100-week02-how-music-helps-to-heal-the-injured-brain-therapeutic-use.md)
 - [fxa101-week02-adult-neuroplasticity-more-than-40-years-of-research](../sources/fxa101-week02-adult-neuroplasticity-more-than-40-years-of-research.md)
 - [fxa101-week02-the-brain-that-changes-itself-stories-of-personal-triumph](../sources/fxa101-week02-the-brain-that-changes-itself-stories-of-personal-triumph.md)
+- [fxa101-week03-the-brain-that-changes-itself-stories-of-personal-triumph](../sources/fxa101-week03-the-brain-that-changes-itself-stories-of-personal-triumph.md)

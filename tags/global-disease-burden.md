@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: global-disease-burden
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Global Disease Burden

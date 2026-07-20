@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: two-component-model
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Two Component Model

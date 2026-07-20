@@ -3,13 +3,14 @@ confidence: medium
 domain: population
 slug: recreational-arts-engagement-and-mental-wellbeing
 sources:
+  - fxa101-week03-summary-of-the-evidence-on-modifiable-risk-factors-for
   - fxa301-week01-how-are-health-behaviours-associated-with-mental-wellbeing
   - fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the
 tags:
 - population-health
 title: Recreational Arts Engagement and Mental Wellbeing
 type: topic
-updated: 2026-05-11
+updated: 2026-07-20
 ---
 
 ## Recreational Arts Engagement and Mental Wellbeing
@@ -28,5 +29,6 @@ This synthesis explores the impact of health behaviors on mental wellbeing, focu
 
 ## Sources
 
+- [fxa101-week03-summary-of-the-evidence-on-modifiable-risk-factors-for](../sources/fxa101-week03-summary-of-the-evidence-on-modifiable-risk-factors-for.md)
 - [fxa301-week01-how-are-health-behaviours-associated-with-mental-wellbeing](../sources/fxa301-week01-how-are-health-behaviours-associated-with-mental-wellbeing.md)
 - [fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the](../sources/fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the.md)

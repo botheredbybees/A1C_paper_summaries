@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hierarchy-of-needs
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Hierarchy Of Needs

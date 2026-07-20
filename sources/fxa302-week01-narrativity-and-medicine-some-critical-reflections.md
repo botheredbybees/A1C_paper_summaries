@@ -7,13 +7,15 @@ doi: https://doi.org/10.1186/s13010-019-0078-3
 appearances:
   - unit: FXA302
     week: "01"
+  - unit: FXA302
+    week: "03"
 tags: ["medical-humanities", "narrative-medicine", "ethics-in-medicine", "philosophy-of-medicine", "subjectivity-in-clinical-practice", "fxa302", "critical-reflections-on-narrative-theory"]
 key_concepts: ["narrative medicine", "patient-centered care", "critical reflections on narrative theory"]
 methods: ["literature review"]
 slug: fxa302-week01-narrativity-and-medicine-some-critical-reflections
 related: ["medical-humanities", "narrative-medicine"]
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-20
 ---
 
 _All claims sourced from ../raw/pdf/fxa302-week01-narrativity-and-medicine-some-critical-reflections.md_

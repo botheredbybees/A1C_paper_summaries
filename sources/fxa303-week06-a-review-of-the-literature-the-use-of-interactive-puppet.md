@@ -11,7 +11,7 @@ tags: ["child-healthcare", "diabetes-management", "fxa303", "interactive-puppet-
 key_concepts: ["puppet-simulation", "three-way-communication-tool", "expressive-therapeutics"]
 methods: ["systematic-review"]
 slug: fxa303-week06-a-review-of-the-literature-the-use-of-interactive-puppet
-related: ["child-healthcare", "play-therapy"]
+related: ["child-healthcare", "nursing-education", "play-therapy"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,4 +43,5 @@ This review explores the use of puppets in health care and nursing education, fo
 ## See Also
 
 - [child-healthcare](../topics/child-healthcare.md)
+- [nursing-education](../topics/nursing-education.md)
 - [play-therapy](../topics/play-therapy.md)

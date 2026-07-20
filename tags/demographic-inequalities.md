@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: demographic-inequalities
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Demographic Inequalities

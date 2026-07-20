@@ -11,7 +11,7 @@ tags: ["health-humanities", "graphic-narratives", "patient-education", "empathy-
 key_concepts: ["comics-in-healthcare", "community-building-through-comics", "graphic-medicine"]
 methods: ["case-study"]
 slug: fxa302-week01-graphic-medicine
-related: ["health-humanities"]
+related: ["empathy-training", "health-humanities"]
 created: 2026-07-06
 updated: 2026-07-06
 ---
@@ -43,4 +43,5 @@ The chapter on 'Graphic Medicine' explores the integration of comics into health
 
 ## See Also
 
+- [empathy-training](../topics/empathy-training.md)
 - [health-humanities](../topics/health-humanities.md)

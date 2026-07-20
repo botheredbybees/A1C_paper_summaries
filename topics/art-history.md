@@ -5,12 +5,13 @@ slug: neural-processing-of-art
 sources:
   - fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what
   - fxa100-week06-web-article-tucker-2012
+  - fxa101-week03-review-albrecht-drer-documentary-biography-by-jeffrey
   - fxa302-week02-the-imagination-of-the-mind-in-classical-athens
 tags:
 - art-history
 title: Neural Processing of Art
 type: topic
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Neural Processing of Art
@@ -30,4 +31,5 @@ The study of how the brain processes art reveals significant insights into cogni
 
 - [fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what](../sources/fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what.md)
 - [fxa100-week06-web-article-tucker-2012](../sources/fxa100-week06-web-article-tucker-2012.md)
+- [fxa101-week03-review-albrecht-drer-documentary-biography-by-jeffrey](../sources/fxa101-week03-review-albrecht-drer-documentary-biography-by-jeffrey.md)
 - [fxa302-week02-the-imagination-of-the-mind-in-classical-athens](../sources/fxa302-week02-the-imagination-of-the-mind-in-classical-athens.md)

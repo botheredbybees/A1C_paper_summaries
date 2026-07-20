@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: health-humanities
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Health Humanities
@@ -26,3 +26,10 @@ updated: 2026-07-13
 - [Storytelling](../sources/fxa302-week01-storytelling.md)
 - [The Role of the Imagination in the Practices of the Health Humanities](../sources/fxa302-week01-the-role-of-the-imagination-in-the-practices-of-the-health.md)
 - [The Routledge Companion to Health Humanities: Part 2 - Applications](../sources/fxa302-week01-the-routledge-companion-to-health-humanities-part-2.md)
+- [FXA302 Week 1 Introduction](../sources/fxa302-week03-fxa302-week-1-introduction.md)
+- [FXA302 Week 3 Welcome](../sources/fxa302-week03-fxa302-week-3-welcome.md)
+- [Introduction to FXA302: Perspectives of the Arts on Health and Wellbeing](../sources/fxa302-week03-introduction-to-fxa302-perspectives-of-the-arts-on-health.md)
+- [Week 3 Seeing more deeply - illustration and observation](../sources/fxa302-week03-lesson-fxa302-week03-page-1-overview.md)
+- [Perspectives of the Arts on Health and Wellbeing](../sources/fxa302-week03-lesson-fxa302-week03-page-2.md)
+- [Visual Arts to Develop Observational Skills](../sources/fxa302-week03-lesson-fxa302-week03-page-3.md)
+- [Week 1 Introduction and Overview](../sources/fxa302-week03-lesson-fxa302-week03-week-1-welcome-hm.md)

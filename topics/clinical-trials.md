@@ -4,6 +4,7 @@ domain: method
 slug: risk-of-bias-in-clinical-trials
 sources:
   - fxa100-week13-a-pilot-randomized-controlled-clinical-trial-of-dance
+  - fxa101-week03-the-impact-of-cognitive-reserve-on-neuropsychological
   - fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-(2)
   - fxa301-week01-the-rationale-for-rating-risk-of-bias-should-be-fully
   - fxa303-week13-pharmacotherapies-for-sleep-disturbances-in-dementia
@@ -11,7 +12,7 @@ tags:
 - clinical-trials
 title: Risk Of Bias In Clinical Trials
 type: topic
-updated: 2026-05-15
+updated: 2026-07-20
 ---
 
 ## Risk Of Bias In Clinical Trials
@@ -31,6 +32,7 @@ The analysis of risk of bias (RoB) is crucial for evaluating the validity and re
 ## Sources
 
 - [fxa100-week13-a-pilot-randomized-controlled-clinical-trial-of-dance](../sources/fxa100-week13-a-pilot-randomized-controlled-clinical-trial-of-dance.md)
+- [fxa101-week03-the-impact-of-cognitive-reserve-on-neuropsychological](../sources/fxa101-week03-the-impact-of-cognitive-reserve-on-neuropsychological.md)
 - [fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-(2)](../sources/fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-%282%29.md)
 - [fxa301-week01-the-rationale-for-rating-risk-of-bias-should-be-fully](../sources/fxa301-week01-the-rationale-for-rating-risk-of-bias-should-be-fully.md)
 - [fxa303-week13-pharmacotherapies-for-sleep-disturbances-in-dementia](../sources/fxa303-week13-pharmacotherapies-for-sleep-disturbances-in-dementia.md)

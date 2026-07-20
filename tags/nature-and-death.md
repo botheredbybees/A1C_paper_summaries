@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: nature-and-death
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Nature And Death

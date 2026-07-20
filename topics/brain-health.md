@@ -11,11 +11,14 @@ sources:
   - fxa101-week01-creativity-is-good-for-the-brain-and-might-even-slow-down
   - fxa101-week01-lesson-fxa101-week01-page-1-introduction
   - fxa101-week01-lesson-fxa101-week01-page-4-activities-for-week-1
+  - fxa101-week03-assessment-of-lifetime-participation-in-cognitively
+  - fxa101-week03-lifestyle-patterns-and-cognitive-reserve
+  - fxa101-week03-nonpharmacologic-treatment-and-prevention-strategies-for
 tags:
 - brain-health
 title: Brain Health and Cognitive Decline
 type: topic
-updated: 2026-07-06
+updated: 2026-07-20
 ---
 
 ## Brain Health and Cognitive Decline
@@ -42,3 +45,6 @@ The sources collectively highlight the multifactorial nature of brain health and
 - [fxa101-week01-creativity-is-good-for-the-brain-and-might-even-slow-down](../sources/fxa101-week01-creativity-is-good-for-the-brain-and-might-even-slow-down.md)
 - [fxa101-week01-lesson-fxa101-week01-page-1-introduction](../sources/fxa101-week01-lesson-fxa101-week01-page-1-introduction.md)
 - [fxa101-week01-lesson-fxa101-week01-page-4-activities-for-week-1](../sources/fxa101-week01-lesson-fxa101-week01-page-4-activities-for-week-1.md)
+- [fxa101-week03-assessment-of-lifetime-participation-in-cognitively](../sources/fxa101-week03-assessment-of-lifetime-participation-in-cognitively.md)
+- [fxa101-week03-lifestyle-patterns-and-cognitive-reserve](../sources/fxa101-week03-lifestyle-patterns-and-cognitive-reserve.md)
+- [fxa101-week03-nonpharmacologic-treatment-and-prevention-strategies-for](../sources/fxa101-week03-nonpharmacologic-treatment-and-prevention-strategies-for.md)

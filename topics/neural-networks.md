@@ -4,6 +4,8 @@ domain: method
 slug: neural-networks-in-cognitive-processing
 sources:
   - fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers
+  - fxa101-week03-cognitive-reserve-in-healthy-aging-and-alzheimers-disease-a
+  - fxa101-week03-effects-of-music-training-on-inhibitory-control-and
   - fxa300-week02-music-and-the-brain
   - fxa303-week02-fxa303-week-2-child-development-and-creative-arts
   - fxa303-week03-limbic-systems-for-emotion-and-for-memory-but-no-single
@@ -12,7 +14,7 @@ tags:
 - neural-networks
 title: Neural Networks in Cognitive Processing
 type: topic
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Neural Networks in Cognitive Processing
@@ -32,6 +34,8 @@ The integration of findings from these sources highlights the complexity and var
 ## Sources
 
 - [fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers](../sources/fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers.md)
+- [fxa101-week03-cognitive-reserve-in-healthy-aging-and-alzheimers-disease-a](../sources/fxa101-week03-cognitive-reserve-in-healthy-aging-and-alzheimers-disease-a.md)
+- [fxa101-week03-effects-of-music-training-on-inhibitory-control-and](../sources/fxa101-week03-effects-of-music-training-on-inhibitory-control-and.md)
 - [fxa300-week02-music-and-the-brain](../sources/fxa300-week02-music-and-the-brain.md)
 - [fxa303-week02-fxa303-week-2-child-development-and-creative-arts](../sources/fxa303-week02-fxa303-week-2-child-development-and-creative-arts.md)
 - [fxa303-week03-limbic-systems-for-emotion-and-for-memory-but-no-single](../sources/fxa303-week03-limbic-systems-for-emotion-and-for-memory-but-no-single.md)

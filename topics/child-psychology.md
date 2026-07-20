@@ -3,6 +3,7 @@ confidence: high
 domain: intervention
 slug: puppet-assisted-play-therapy-for-children
 sources:
+  - fxa101-week03-how-music-teaches-children-to-create-and-innovate
   - fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the
   - fxa303-puppet-assisted-play-therapy-ch06-139-weedn
   - fxa303-puppet-play-therapy-ch08-6-posture-keep-your-arm-holding-the-puppet-at-a-right-angle
@@ -22,7 +23,7 @@ tags:
 - child-psychology
 title: Puppet-Assisted Play Therapy for Children
 type: topic
-updated: 2026-05-15
+updated: 2026-07-20
 ---
 
 ## Puppet-Assisted Play Therapy for Children
@@ -41,6 +42,7 @@ Puppet-assisted play therapy emerges as a versatile intervention in child psycho
 
 ## Sources
 
+- [fxa101-week03-how-music-teaches-children-to-create-and-innovate](../sources/fxa101-week03-how-music-teaches-children-to-create-and-innovate.md)
 - [fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the](../sources/fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the.md)
 - [fxa303-puppet-assisted-play-therapy-ch06-139-weedn](../sources/fxa303-puppet-assisted-play-therapy-ch06-139-weedn.md)
 - [fxa303-puppet-play-therapy-ch08-6-posture-keep-your-arm-holding-the-puppet-at-a-right-angle](../sources/fxa303-puppet-play-therapy-ch08-6-posture-keep-your-arm-holding-the-puppet-at-a-right-angle.md)

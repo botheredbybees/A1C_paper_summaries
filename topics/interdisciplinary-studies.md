@@ -5,11 +5,12 @@ slug: music-and-health-interdisciplinary-studies
 sources:
   - fxa100-week04-what-is-music-health-and-wellbeing
   - fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in
+  - fxa302-week03-creating-alignment-how-the-humanities-can-help-heal
 tags:
 - interdisciplinary-studies
 title: Music and Health Interdisciplinary Studies
 type: topic
-updated: 2026-05-11
+updated: 2026-07-20
 ---
 
 ## Music and Health Interdisciplinary Studies
@@ -30,3 +31,4 @@ The integration of music within health interventions demonstrates a significant 
 
 - [fxa100-week04-what-is-music-health-and-wellbeing](../sources/fxa100-week04-what-is-music-health-and-wellbeing.md)
 - [fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in](../sources/fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in.md)
+- [fxa302-week03-creating-alignment-how-the-humanities-can-help-heal](../sources/fxa302-week03-creating-alignment-how-the-humanities-can-help-heal.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cost-of-living
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Cost Of Living

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: humanitarian-efforts
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Humanitarian Efforts

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: oral-vs-written-culture
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Oral Vs Written Culture

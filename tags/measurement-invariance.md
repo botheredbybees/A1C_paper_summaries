@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: measurement-invariance
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Measurement Invariance

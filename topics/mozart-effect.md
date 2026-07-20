@@ -3,12 +3,15 @@ confidence: low
 domain: intervention
 slug: the-mozart-effect
 sources:
-- fxa301-week06-does-music-help-us-work-better-it-depends
+  - fxa101-week03-mozart-effectshmozart-effect-a-meta-analysis
+  - fxa101-week03-music-and-spatial-task-performance
+  - fxa101-week03-the-mozart-effect-music-listening-is-not-music-instruction
+  - fxa301-week06-does-music-help-us-work-better-it-depends
 tags:
 - mozart-effect
 title: The Mozart Effect
 type: topic
-updated: 2026-05-04
+updated: 2026-07-20
 ---
 
 ## The Mozart Effect
@@ -27,4 +30,7 @@ The concept of the 'Mozart effect' has been widely debated and analyzed for its 
 
 ## Sources
 
+- [fxa101-week03-mozart-effectshmozart-effect-a-meta-analysis](../sources/fxa101-week03-mozart-effectshmozart-effect-a-meta-analysis.md)
+- [fxa101-week03-music-and-spatial-task-performance](../sources/fxa101-week03-music-and-spatial-task-performance.md)
+- [fxa101-week03-the-mozart-effect-music-listening-is-not-music-instruction](../sources/fxa101-week03-the-mozart-effect-music-listening-is-not-music-instruction.md)
 - [fxa301-week06-does-music-help-us-work-better-it-depends](../sources/fxa301-week06-does-music-help-us-work-better-it-depends.md)

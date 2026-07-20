@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychological-well-being
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Psychological Well Being

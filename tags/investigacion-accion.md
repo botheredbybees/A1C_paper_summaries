@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: investigacion-accion
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Investigacion Accion

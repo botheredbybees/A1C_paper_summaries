@@ -7,13 +7,15 @@ doi: null
 appearances:
   - unit: FXA101
     week: "02"
+  - unit: FXA101
+    week: "03"
 tags: ["brain-plasticity", "neural-rehabilitation", "cognitive-enhancement", "learning-disabilities", "fxa101", "brain-map-plasticity", "targeted-brain-training"]
 key_concepts: ["brain-map-plasticity", "targeted-brain-training"]
 methods: ["case-study"]
 slug: fxa101-week02-redesigning-the-brain-a-scientist-changes-brains-to-sharpen
-related: ["brain-plasticity", "cognitive-enhancement", "learning-disabilities"]
+related: ["brain-plasticity", "cognitive-enhancement", "learning-disabilities", "neural-rehabilitation"]
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 _All claims sourced from ../raw/pdf/fxa101-week02-redesigning-the-brain-a-scientist-changes-brains-to-sharpen.md_
@@ -45,3 +47,4 @@ The chapter 'Redesigning the Brain' by Norman Doidge discusses the work and cont
 - [brain-plasticity](../topics/brain-plasticity.md)
 - [cognitive-enhancement](../topics/cognitive-enhancement.md)
 - [learning-disabilities](../topics/learning-disabilities.md)
+- [neural-rehabilitation](../topics/neural-rehabilitation.md)

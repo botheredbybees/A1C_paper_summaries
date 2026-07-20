@@ -6,12 +6,13 @@ sources:
   - fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms
   - fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities
   - fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric
+  - fxa101-week03-environmental-and-cognitive-enrichment-in-childhood-as
   - fxa303-week13-dance-movement-therapy-for-neurodegenerative-diseases-a
 tags:
 - neurodegenerative-diseases
 title: Dementia and Its Forms
 type: topic
-updated: 2026-05-15
+updated: 2026-07-20
 ---
 
 ## Dementia and Its Forms
@@ -33,4 +34,5 @@ The provided sources delve into the diverse forms of dementia, highlighting thei
 - [fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms](../sources/fxa100-week01-lesson-fxa100-week01-page-2-dementia-and-its-forms.md)
 - [fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities](../sources/fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities.md)
 - [fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric](../sources/fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric.md)
+- [fxa101-week03-environmental-and-cognitive-enrichment-in-childhood-as](../sources/fxa101-week03-environmental-and-cognitive-enrichment-in-childhood-as.md)
 - [fxa303-week13-dance-movement-therapy-for-neurodegenerative-diseases-a](../sources/fxa303-week13-dance-movement-therapy-for-neurodegenerative-diseases-a.md)

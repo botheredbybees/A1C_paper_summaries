@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: healthcare-quality-improvement
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Healthcare Quality Improvement

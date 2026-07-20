@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-change-laboratory-ccolab
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Creative Change Laboratory Ccolab

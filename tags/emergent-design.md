@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emergent-design
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Emergent Design

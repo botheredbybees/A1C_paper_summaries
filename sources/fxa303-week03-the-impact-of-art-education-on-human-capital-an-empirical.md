@@ -11,7 +11,7 @@ tags: ["art-education", "youth-development", "human-capital", "socio-emotional-l
 key_concepts: ["cognitive development", "extracurricular activities", "socio-emotional skills"]
 methods: ["empirical assessment", "longitudinal study"]
 slug: fxa303-week03-the-impact-of-art-education-on-human-capital-an-empirical
-related: ["youth-development"]
+related: ["art-education", "youth-development"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,4 +44,5 @@ This paper explores the impact of participating in a youth orchestra on cognitiv
 
 ## See Also
 
+- [art-education](../topics/art-education.md)
 - [youth-development](../topics/youth-development.md)

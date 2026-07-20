@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuroplasticity
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Neuroplasticity
@@ -16,6 +16,8 @@ updated: 2026-07-13
 - [Building Herself a Better Brain: A Woman Labeled \u201cRetarded\u201d Discovers How to Heal Herself](../sources/fxa101-week02-building-herself-a-better-brain-a-woman-labeled-retarded.md)
 - [Midnight Resurrections: Stroke Victims Learn to Move and Speak Again](../sources/fxa101-week02-midnight-resurrections-stroke-victims-learn-to-move-and.md)
 - [Rejuvenation: The Discovery of the Neuronal Stem Cell and Lessons for Preserving Our Brains](../sources/fxa101-week02-rejuvenation-the-discovery-of-the-neuronal-stem-cell-and.md)
+- [Creativity, the Arts and Brain Development](../sources/fxa101-week03-lesson-fxa101-week03-page-1-week-3-introduction.md)
+- [Training creative cognition: adolescence as a flexible period for improving creativity](../sources/fxa101-week03-training-creative-cognition-adolescence-as-a-flexible.md)
 - [Activation of Primary Visual Cortex by Braille Reading in Blind Subjects](../sources/fxa301-week11-activation-of-primary-visual-cortex-by-braille-reading-in.md)
 - [Child Development - FXA303 Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week02-child-development-fxa303-creative-arts-play-and-mental.md)
 - [Adolescent Development](../sources/fxa303-week03-adolescent-development.md)

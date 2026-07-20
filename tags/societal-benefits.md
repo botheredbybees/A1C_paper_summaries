@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: societal-benefits
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Societal Benefits

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dining-duration
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Dining Duration

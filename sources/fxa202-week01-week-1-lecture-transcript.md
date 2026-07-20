@@ -11,7 +11,7 @@ tags: ["visual-storytelling", "photo-essays", "digital-age-media", "emotional-re
 key_concepts: ["visual storytelling", "photo essays", "narrative depth", "historical roots of photo journalism"]
 methods: []
 slug: fxa202-week01-week-1-lecture-transcript
-related: ["emotional-responses", "photo-essays", "visual-storytelling"]
+related: ["emotional-responses", "historical-context", "photo-essays", "visual-storytelling"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,5 +46,6 @@ This week’s lecture explores the concept of a photo essay as a powerful form o
 ## See Also
 
 - [emotional-responses](../topics/emotional-responses.md)
+- [historical-context](../topics/historical-context.md)
 - [photo-essays](../topics/photo-essays.md)
 - [visual-storytelling](../topics/visual-storytelling.md)

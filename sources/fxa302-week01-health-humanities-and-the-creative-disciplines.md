@@ -7,13 +7,15 @@ doi: null
 appearances:
   - unit: FXA302
     week: "01"
+  - unit: FXA302
+    week: "03"
 tags: ["health-humanities", "creativity-in-healthcare", "biomedicine-dominance", "therapeutic-interventions", "fxa302", "self-actualization-through-art", "societal-benefits-of-arts"]
 key_concepts: ["self-actualization-through-art", "societal-benefits-of-arts"]
 methods: ["historical-analysis"]
 slug: fxa302-week01-health-humanities-and-the-creative-disciplines
 related: ["creativity-in-healthcare", "health-humanities", "therapeutic-interventions"]
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-20
 ---
 
 _All claims sourced from ../raw/pdf/fxa302-week01-health-humanities-and-the-creative-disciplines.md_

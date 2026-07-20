@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ancient-dentistry
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Ancient Dentistry

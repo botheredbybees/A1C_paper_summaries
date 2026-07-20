@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotional-resonance-in-theatre
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Emotional Resonance In Theatre

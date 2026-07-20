@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: parkinsons-disease
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Parkinsons Disease

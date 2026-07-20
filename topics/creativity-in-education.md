@@ -5,9 +5,10 @@ title: "Creativity in Education"
 confidence: medium
 tags: ["creativity-in-education"]
 sources:
+  - fxa101-week03-lesson-fxa101-week03-page-1-week-3-introduction
   - fxa302-week01-can-creativity-be-taught
   - fxa303-week05-puppet-as-a-pedagogical-tool-a-literature-review
-updated: 2026-07-06
+updated: 2026-07-20
 ---
 
 ## Creativity in Education
@@ -26,5 +27,6 @@ The integration of creative interventions within educational settings is explore
 
 ## Sources
 
+- [fxa101-week03-lesson-fxa101-week03-page-1-week-3-introduction](../sources/fxa101-week03-lesson-fxa101-week03-page-1-week-3-introduction.md)
 - [fxa302-week01-can-creativity-be-taught](../sources/fxa302-week01-can-creativity-be-taught.md)
 - [fxa303-week05-puppet-as-a-pedagogical-tool-a-literature-review](../sources/fxa303-week05-puppet-as-a-pedagogical-tool-a-literature-review.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mindfulness-based-intervention
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Mindfulness Based Intervention

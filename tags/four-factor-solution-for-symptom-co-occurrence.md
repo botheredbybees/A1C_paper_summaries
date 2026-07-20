@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: four-factor-solution-for-symptom-co-occurrence
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Four Factor Solution For Symptom Co Occurrence

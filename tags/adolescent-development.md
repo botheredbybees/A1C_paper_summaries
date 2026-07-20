@@ -1,12 +1,13 @@
 ---
 type: tag
 tag: adolescent-development
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Adolescent Development
 
 - [Intergenerational Choir Transcript](../sources/fxa100-week04-intergenerational-choir-transcript.md)
+- [Training creative cognition: adolescence as a flexible period for improving creativity](../sources/fxa101-week03-training-creative-cognition-adolescence-as-a-flexible.md)
 - [Music Listening for Supporting Adolescents\u2019 Sense of Agency in Daily Life](../sources/fxa301-week03-music-listening-for-supporting-adolescents-sense-of-agency.md)
 - [School-based drama interventions in health promotion for children and adolescents: systematic review](../sources/fxa301-week08-school-based-drama-interventions-in-health-promotion-for.md)
 - [Adolescent Development and Brain Changes](../sources/fxa303-week02-lesson-fxa303-week02-introduction-copy.md)

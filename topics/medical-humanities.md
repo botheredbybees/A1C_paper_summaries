@@ -14,7 +14,11 @@ sources:
   - fxa302-week01-narrativity-and-medicine-some-critical-reflections
   - fxa302-week01-the-routledge-handbook-of-spirituality-religion-and-the
   - fxa302-week01-transcript-assistant-professor-of-comparative-literature-and
-updated: 2026-07-06
+  - fxa302-week03-creating-alignment-how-the-humanities-can-help-heal
+  - fxa302-week03-lesson-fxa302-week03-page-2
+  - fxa302-week03-portraits-of-care-medical-research-through-portraiture
+  - fxa302-week03-transcript-assistant-professor-of-comparative-literature-and
+updated: 2026-07-20
 ---
 
 ## Medical Humanities
@@ -42,3 +46,7 @@ The field of medical humanities is characterized by its integrative approach to 
 - [fxa302-week01-narrativity-and-medicine-some-critical-reflections](../sources/fxa302-week01-narrativity-and-medicine-some-critical-reflections.md)
 - [fxa302-week01-the-routledge-handbook-of-spirituality-religion-and-the](../sources/fxa302-week01-the-routledge-handbook-of-spirituality-religion-and-the.md)
 - [fxa302-week01-transcript-assistant-professor-of-comparative-literature-and](../sources/fxa302-week01-transcript-assistant-professor-of-comparative-literature-and.md)
+- [fxa302-week03-creating-alignment-how-the-humanities-can-help-heal](../sources/fxa302-week03-creating-alignment-how-the-humanities-can-help-heal.md)
+- [fxa302-week03-lesson-fxa302-week03-page-2](../sources/fxa302-week03-lesson-fxa302-week03-page-2.md)
+- [fxa302-week03-portraits-of-care-medical-research-through-portraiture](../sources/fxa302-week03-portraits-of-care-medical-research-through-portraiture.md)
+- [fxa302-week03-transcript-assistant-professor-of-comparative-literature-and](../sources/fxa302-week03-transcript-assistant-professor-of-comparative-literature-and.md)

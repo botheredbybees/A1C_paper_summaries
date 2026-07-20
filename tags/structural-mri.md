@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: structural-mri
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Structural Mri

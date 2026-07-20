@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: racial-equality-through-art
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Racial Equality Through Art

@@ -3,12 +3,16 @@ confidence: low
 domain: theory
 slug: critical-thinking
 sources:
-- fxa202-week08-journal-and-visual-research-guidelines
+  - fxa100-week01-ai-tools-in-society-impacts-on-cognitive-offloading-and-the
+  - fxa202-week08-journal-and-visual-research-guidelines
+  - fxa302-week03-formal-art-observation-training-improves-medical-students
+  - fxa302-week03-visual-thinking-strategy
+  - fxa302-week03-why-med-schools-are-requiring-art-classes
 tags:
 - critical-thinking
 title: Critical Thinking
 type: topic
-updated: 2026-05-04
+updated: 2026-07-20
 ---
 
 ## Critical Thinking
@@ -27,4 +31,8 @@ The provided source emphasizes the importance of journaling and visual research 
 
 ## Sources
 
+- [fxa100-week01-ai-tools-in-society-impacts-on-cognitive-offloading-and-the](../sources/fxa100-week01-ai-tools-in-society-impacts-on-cognitive-offloading-and-the.md)
 - [fxa202-week08-journal-and-visual-research-guidelines](../sources/fxa202-week08-journal-and-visual-research-guidelines.md)
+- [fxa302-week03-formal-art-observation-training-improves-medical-students](../sources/fxa302-week03-formal-art-observation-training-improves-medical-students.md)
+- [fxa302-week03-visual-thinking-strategy](../sources/fxa302-week03-visual-thinking-strategy.md)
+- [fxa302-week03-why-med-schools-are-requiring-art-classes](../sources/fxa302-week03-why-med-schools-are-requiring-art-classes.md)

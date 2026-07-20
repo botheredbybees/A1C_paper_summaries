@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: community-based-art-therapy
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Community Based Art Therapy

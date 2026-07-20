@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: regional-specificity-theory
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Regional Specificity Theory

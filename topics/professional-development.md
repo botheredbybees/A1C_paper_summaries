@@ -7,11 +7,12 @@ sources:
   - fxa202-week08-journal-and-visual-research-guidelines
   - fxa301-week01-arts-projects-for-individuals-and-groups
   - fxa301-week11-projects-art-beyond-sight
+  - fxa302-week03-visual-art-instruction-in-medical-education-a-narrative
 tags:
 - professional-development
 title: Professional Development in Music Therapy
 type: topic
-updated: 2026-05-11
+updated: 2026-07-20
 ---
 
 ## Professional Development in Music Therapy
@@ -33,3 +34,4 @@ The integration of professional development within the framework of music therap
 - [fxa202-week08-journal-and-visual-research-guidelines](../sources/fxa202-week08-journal-and-visual-research-guidelines.md)
 - [fxa301-week01-arts-projects-for-individuals-and-groups](../sources/fxa301-week01-arts-projects-for-individuals-and-groups.md)
 - [fxa301-week11-projects-art-beyond-sight](../sources/fxa301-week11-projects-art-beyond-sight.md)
+- [fxa302-week03-visual-art-instruction-in-medical-education-a-narrative](../sources/fxa302-week03-visual-art-instruction-in-medical-education-a-narrative.md)

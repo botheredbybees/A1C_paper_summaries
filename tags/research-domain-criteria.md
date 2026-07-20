@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: research-domain-criteria
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Research Domain Criteria

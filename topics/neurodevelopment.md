@@ -3,13 +3,14 @@ confidence: medium
 domain: intervention
 slug: neurodevelopmental-differences-in-autism-and-trauma
 sources:
+  - fxa101-week03-a-life-course-study-of-cognitive-reserve-in-dementiafrom
   - fxa303-week04-age-related-differences-in-white-matter-diffusion-measures
   - fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms
 tags:
 - neurodevelopment
 title: Neurodevelopmental Differences in Autism and Trauma
 type: topic
-updated: 2026-05-11
+updated: 2026-07-20
 ---
 
 ## Neurodevelopmental Differences in Autism and Trauma
@@ -27,5 +28,6 @@ The neurodevelopmental differences discussed in both sources underscore the comp
 
 ## Sources
 
+- [fxa101-week03-a-life-course-study-of-cognitive-reserve-in-dementiafrom](../sources/fxa101-week03-a-life-course-study-of-cognitive-reserve-in-dementiafrom.md)
 - [fxa303-week04-age-related-differences-in-white-matter-diffusion-measures](../sources/fxa303-week04-age-related-differences-in-white-matter-diffusion-measures.md)
 - [fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms](../sources/fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms.md)

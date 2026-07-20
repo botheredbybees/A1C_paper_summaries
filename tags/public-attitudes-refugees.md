@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: public-attitudes-refugees
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Public Attitudes Refugees

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: short-warwickedinburgh-mental-well-being-scale-swemwbs
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Short Warwickedinburgh Mental Well Being Scale Swemwbs

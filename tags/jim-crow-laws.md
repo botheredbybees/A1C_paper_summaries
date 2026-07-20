@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: jim-crow-laws
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Jim Crow Laws

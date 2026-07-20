@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ballet-based-dance-intervention-for-relapsing-reitering-multiple-sclerosis
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Ballet Based Dance Intervention For Relapsing Reitering Multiple Sclerosis

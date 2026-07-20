@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: medieval-medical-practice
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Medieval Medical Practice

@@ -4,6 +4,7 @@ domain: intervention
 slug: adolescent-development-and-arts-integration
 sources:
   - fxa100-week04-intergenerational-choir-transcript
+  - fxa101-week03-training-creative-cognition-adolescence-as-a-flexible
   - fxa301-week03-music-listening-for-supporting-adolescents-sense-of-agency
   - fxa301-week08-school-based-drama-interventions-in-health-promotion-for
   - fxa303-week02-lesson-fxa303-week02-introduction-copy
@@ -21,7 +22,7 @@ tags:
 - adolescent-development
 title: Adolescent Development and Arts Integration
 type: topic
-updated: 2026-05-11
+updated: 2026-07-20
 ---
 
 ## Adolescent Development and Arts Integration
@@ -41,6 +42,7 @@ The integration of arts in adolescent development showcases a multifaceted appro
 ## Sources
 
 - [fxa100-week04-intergenerational-choir-transcript](../sources/fxa100-week04-intergenerational-choir-transcript.md)
+- [fxa101-week03-training-creative-cognition-adolescence-as-a-flexible](../sources/fxa101-week03-training-creative-cognition-adolescence-as-a-flexible.md)
 - [fxa301-week03-music-listening-for-supporting-adolescents-sense-of-agency](../sources/fxa301-week03-music-listening-for-supporting-adolescents-sense-of-agency.md)
 - [fxa301-week08-school-based-drama-interventions-in-health-promotion-for](../sources/fxa301-week08-school-based-drama-interventions-in-health-promotion-for.md)
 - [fxa303-week02-lesson-fxa303-week02-introduction-copy](../sources/fxa303-week02-lesson-fxa303-week02-introduction-copy.md)

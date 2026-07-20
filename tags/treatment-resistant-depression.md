@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: treatment-resistant-depression
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Treatment Resistant Depression

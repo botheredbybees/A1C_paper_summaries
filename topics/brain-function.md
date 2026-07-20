@@ -14,6 +14,7 @@ sources:
   - fxa100-week04-transcript-new-super-fast-mri-technique-singing-if-i-only
   - fxa101-week02-lesson-fxa101-week02-chapter-2
   - fxa101-week02-metacontrol-of-human-creativity-the-neurocognitive
+  - fxa101-week03-the-impact-of-cognitive-reserve-on-neuropsychological
   - fxa300-week01-week-1-introduction-music-mind-and-body
   - fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music
   - fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession
@@ -25,7 +26,7 @@ tags:
 - brain-function
 title: Music's Impact on Brain Function
 type: topic
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Music's Impact on Brain Function
@@ -55,6 +56,7 @@ The sources collectively emphasize the profound impact of music on various aspec
 - [fxa100-week04-transcript-new-super-fast-mri-technique-singing-if-i-only](../sources/fxa100-week04-transcript-new-super-fast-mri-technique-singing-if-i-only.md)
 - [fxa101-week02-lesson-fxa101-week02-chapter-2](../sources/fxa101-week02-lesson-fxa101-week02-chapter-2.md)
 - [fxa101-week02-metacontrol-of-human-creativity-the-neurocognitive](../sources/fxa101-week02-metacontrol-of-human-creativity-the-neurocognitive.md)
+- [fxa101-week03-the-impact-of-cognitive-reserve-on-neuropsychological](../sources/fxa101-week03-the-impact-of-cognitive-reserve-on-neuropsychological.md)
 - [fxa300-week01-week-1-introduction-music-mind-and-body](../sources/fxa300-week01-week-1-introduction-music-mind-and-body.md)
 - [fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music](../sources/fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music.md)
 - [fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession](../sources/fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession.md)

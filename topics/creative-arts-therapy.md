@@ -10,6 +10,7 @@ sources:
   - fxa301-week06-the-art-and-science-of-dancemovement-therapy
   - fxa301-week10-a-systematic-review-of-the-efficacy-of-creative-arts
   - fxa301-week10-using-creative-arts-in-trauma-therapy-the-neuroscience-of
+  - fxa302-week03-lesson-fxa302-week03-week-1-welcome-hm
   - fxa303-week06-puppet-play-therapy-a-practical-guidebook
   - fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy
   - fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic
@@ -17,7 +18,7 @@ tags:
 - creative-arts-therapy
 title: Creative Arts Therapy
 type: topic
-updated: 2026-05-18
+updated: 2026-07-20
 ---
 
 ## Creative Arts Therapy
@@ -43,6 +44,7 @@ Creative arts therapy encompasses various modalities such as puppet play, dance/
 - [fxa301-week06-the-art-and-science-of-dancemovement-therapy](../sources/fxa301-week06-the-art-and-science-of-dancemovement-therapy.md)
 - [fxa301-week10-a-systematic-review-of-the-efficacy-of-creative-arts](../sources/fxa301-week10-a-systematic-review-of-the-efficacy-of-creative-arts.md)
 - [fxa301-week10-using-creative-arts-in-trauma-therapy-the-neuroscience-of](../sources/fxa301-week10-using-creative-arts-in-trauma-therapy-the-neuroscience-of.md)
+- [fxa302-week03-lesson-fxa302-week03-week-1-welcome-hm](../sources/fxa302-week03-lesson-fxa302-week03-week-1-welcome-hm.md)
 - [fxa303-week06-puppet-play-therapy-a-practical-guidebook](../sources/fxa303-week06-puppet-play-therapy-a-practical-guidebook.md)
 - [fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy](../sources/fxa303-week10-evaluation-of-a-school-based-creative-arts-therapy.md)
 - [fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic](../sources/fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic.md)

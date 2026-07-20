@@ -11,7 +11,7 @@ tags: ["creative-process", "writing-inspiration", "storytelling-techniques", "fx
 key_concepts: ["daydreaming", "hypothetical-scenarios", "creative-curiosity"]
 methods: ["essay"]
 slug: fxa202-week05-where-do-you-get-your-ideas
-related: ["storytelling-techniques"]
+related: ["creative-process", "storytelling-techniques"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,4 +41,5 @@ In his essay 'Where do you get your ideas?', Neil Gaiman explores the common que
 
 ## See Also
 
+- [creative-process](../topics/creative-process.md)
 - [storytelling-techniques](../topics/storytelling-techniques.md)

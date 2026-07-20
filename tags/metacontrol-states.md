@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: metacontrol-states
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Metacontrol States

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: risk-prevention
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Risk Prevention

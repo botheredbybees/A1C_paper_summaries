@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: homer-epic-poetry
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Homer Epic Poetry

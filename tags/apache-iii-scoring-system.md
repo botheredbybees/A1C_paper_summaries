@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: apache-iii-scoring-system
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Apache Iii Scoring System

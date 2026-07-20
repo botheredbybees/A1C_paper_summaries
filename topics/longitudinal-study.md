@@ -5,13 +5,18 @@ slug: longitudinal-studies-in-health-interventions
 sources:
   - fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life
   - fxa100-week08-development-of-a-novel-benchmark-method-to-identify-and
+  - fxa101-week03-a-life-course-study-of-cognitive-reserve-in-dementiafrom
+  - fxa101-week03-brain-development-during-childhood-and-adolescence-a
+  - fxa101-week03-calendar-age-and-puberty-related-development-of-regional
+  - fxa101-week03-effects-of-music-training-on-inhibitory-control-and
+  - fxa101-week03-longitudinal-analysis-of-music-education-on-executive
   - fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with
   - fxa303-week11-arts-and-cultural-engagement-reportedly-antisocial-or
 tags:
 - longitudinal-study
 title: Longitudinal Studies in Health Interventions
 type: topic
-updated: 2026-05-11
+updated: 2026-07-20
 ---
 
 ## Longitudinal Studies in Health Interventions
@@ -32,5 +37,10 @@ This synthesis integrates findings from longitudinal studies across various heal
 
 - [fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life](../sources/fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life.md)
 - [fxa100-week08-development-of-a-novel-benchmark-method-to-identify-and](../sources/fxa100-week08-development-of-a-novel-benchmark-method-to-identify-and.md)
+- [fxa101-week03-a-life-course-study-of-cognitive-reserve-in-dementiafrom](../sources/fxa101-week03-a-life-course-study-of-cognitive-reserve-in-dementiafrom.md)
+- [fxa101-week03-brain-development-during-childhood-and-adolescence-a](../sources/fxa101-week03-brain-development-during-childhood-and-adolescence-a.md)
+- [fxa101-week03-calendar-age-and-puberty-related-development-of-regional](../sources/fxa101-week03-calendar-age-and-puberty-related-development-of-regional.md)
+- [fxa101-week03-effects-of-music-training-on-inhibitory-control-and](../sources/fxa101-week03-effects-of-music-training-on-inhibitory-control-and.md)
+- [fxa101-week03-longitudinal-analysis-of-music-education-on-executive](../sources/fxa101-week03-longitudinal-analysis-of-music-education-on-executive.md)
 - [fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with](../sources/fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with.md)
 - [fxa303-week11-arts-and-cultural-engagement-reportedly-antisocial-or](../sources/fxa303-week11-arts-and-cultural-engagement-reportedly-antisocial-or.md)

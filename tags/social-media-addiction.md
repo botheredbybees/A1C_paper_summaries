@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-media-addiction
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Social Media Addiction

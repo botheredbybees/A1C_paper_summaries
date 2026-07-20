@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-arts-in-healthcare
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Visual Arts In Healthcare

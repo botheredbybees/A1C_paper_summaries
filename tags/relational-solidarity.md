@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: relational-solidarity
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Relational Solidarity

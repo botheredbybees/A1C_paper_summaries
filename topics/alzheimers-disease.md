@@ -15,13 +15,17 @@ sources:
   - fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of
   - fxa100-week12-efficacy-of-creative-arts-therapy-in-treatment-of
   - fxa100-week13-exercise-benefits-on-alzheimers-disease-state-of-the-science
+  - fxa101-week03-assessment-of-lifetime-participation-in-cognitively
+  - fxa101-week03-cognitive-reserve-and-alzheimer-disease
+  - fxa101-week03-cognitive-reserve-in-healthy-aging-and-alzheimers-disease-a
+  - fxa101-week03-lifestyle-patterns-and-cognitive-reserve
   - fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to
   - fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering
 tags:
 - alzheimers-disease
 title: Alzheimer's Disease Management and Prevention
 type: topic
-updated: 2026-05-18
+updated: 2026-07-20
 ---
 
 ## Alzheimer's Disease Management and Prevention
@@ -60,5 +64,9 @@ Lastly, Source 5 provides foundational knowledge about AD mechanisms, including 
 - [fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of](../sources/fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of.md)
 - [fxa100-week12-efficacy-of-creative-arts-therapy-in-treatment-of](../sources/fxa100-week12-efficacy-of-creative-arts-therapy-in-treatment-of.md)
 - [fxa100-week13-exercise-benefits-on-alzheimers-disease-state-of-the-science](../sources/fxa100-week13-exercise-benefits-on-alzheimers-disease-state-of-the-science.md)
+- [fxa101-week03-assessment-of-lifetime-participation-in-cognitively](../sources/fxa101-week03-assessment-of-lifetime-participation-in-cognitively.md)
+- [fxa101-week03-cognitive-reserve-and-alzheimer-disease](../sources/fxa101-week03-cognitive-reserve-and-alzheimer-disease.md)
+- [fxa101-week03-cognitive-reserve-in-healthy-aging-and-alzheimers-disease-a](../sources/fxa101-week03-cognitive-reserve-in-healthy-aging-and-alzheimers-disease-a.md)
+- [fxa101-week03-lifestyle-patterns-and-cognitive-reserve](../sources/fxa101-week03-lifestyle-patterns-and-cognitive-reserve.md)
 - [fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to](../sources/fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to.md)
 - [fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering](../sources/fxa303-week13-the-minwii-project-renarcissization-of-patients-suffering.md)

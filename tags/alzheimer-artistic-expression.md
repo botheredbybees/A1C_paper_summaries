@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: alzheimer-artistic-expression
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Alzheimer Artistic Expression

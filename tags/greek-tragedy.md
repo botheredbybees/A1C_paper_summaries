@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: greek-tragedy
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Greek Tragedy

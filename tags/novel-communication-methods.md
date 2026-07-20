@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: novel-communication-methods
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Novel Communication Methods

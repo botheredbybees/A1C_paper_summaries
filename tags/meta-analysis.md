@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: meta-analysis
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Meta Analysis
@@ -9,6 +9,7 @@ updated: 2026-07-13
 - [Cognitive Behavioral Versus Exposure Only Treatment for Social Phobia: A Meta-Analysis](../sources/fxa100-week13-cognitive-behavioral-versus-exposure-only-treatment-for.md)
 - [The effect of physical activity on cognitive function in patients with dementia: A meta-analysis of randomized control trials](../sources/fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in.md)
 - [The Effectiveness of Dance Interventions on Physical Health Outcomes Compared to Other Forms of Physical Activity](../sources/fxa100-week13-the-effectiveness-of-dance-interventions-on-physical-health.md)
+- [Mozart effect\u2013Shmozart effect: A meta-analysis](../sources/fxa101-week03-mozart-effectshmozart-effect-a-meta-analysis.md)
 - [ROB-ME: a tool for assessing risk of bias due to missing evidence in systematic reviews with meta-analysis](../sources/fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing.md)
 - [The rationale for rating risk of bias should be fully reported](../sources/fxa301-week01-the-rationale-for-rating-risk-of-bias-should-be-fully.md)
 - [Effectiveness of Dance Interventions for Falls Prevention in Older Adults: Systematic Review and Meta-analysis](../sources/fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention.md)

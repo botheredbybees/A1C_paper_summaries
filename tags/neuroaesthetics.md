@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuroaesthetics
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Neuroaesthetics
@@ -23,3 +23,4 @@ updated: 2026-07-13
 - [Week 2 Introduction - FXA301 Arts in the Community](../sources/fxa301-week01-week-2-introduction-fxa301-arts-in-the-community.md)
 - [Lecture on Perception of the Arts](../sources/fxa301-week02-lecture-on-perception-of-the-arts.md)
 - [Ten years of a model of aesthetic appreciation and aesthetic judgments: The aesthetic episode \u2013 Developments and challenges in empirical aesthetics](../sources/fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and.md)
+- [Your Brain on Art: The Emerging Science of Neuroaesthetics Probes What Art Does to Our Brains](../sources/fxa302-week03-your-brain-on-art-the-emerging-science-of-neuroaesthetics.md)

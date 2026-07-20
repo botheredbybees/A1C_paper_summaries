@@ -11,7 +11,7 @@ tags: ["medieval-education", "history-of-science", "quadrivium", "fxa301"]
 key_concepts: ["quadrivium", "emergence-of-modern-science"]
 methods: ["historical-analysis"]
 slug: fxa301-week06-from-the-quadrivium-to-modern-science
-related: ["quadrivium"]
+related: ["history-of-science", "quadrivium"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,4 +40,5 @@ Matteo Valleriani's article, 'From the Quadrivium to Modern Science,' explores t
 
 ## See Also
 
+- [history-of-science](../topics/history-of-science.md)
 - [quadrivium](../topics/quadrivium.md)

@@ -11,7 +11,7 @@ tags: ["neuroscience-education", "brain-plasticity", "learning-strategies", "edu
 key_concepts: ["brain plasticity", "teaching strategies", "interdisciplinary collaboration"]
 methods: ["case study"]
 slug: fxa300-week02-understanding-the-brain-the-birth-of-a-learning-science
-related: ["brain-plasticity", "neuroscience-education"]
+related: ["brain-plasticity", "lifelong-learning", "neuroscience-education"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -44,4 +44,5 @@ The document 'Understanding the Brain: The Birth of a Learning Science' by the O
 ## See Also
 
 - [brain-plasticity](../topics/brain-plasticity.md)
+- [lifelong-learning](../topics/lifelong-learning.md)
 - [neuroscience-education](../topics/neuroscience-education.md)

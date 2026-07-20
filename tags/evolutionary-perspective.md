@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: evolutionary-perspective
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Evolutionary Perspective

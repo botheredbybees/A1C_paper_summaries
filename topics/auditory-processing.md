@@ -6,12 +6,13 @@ sources:
   - fxa100-week02-fxa100-week-2-lecture-music-and-the-brain
   - fxa100-week02-hearing-and-music
   - fxa101-week02-a-neural-link-between-feeling-and-hearing
+  - fxa101-week03-revisiting-the-enigma-of-musicians-with-dyslexia-auditory
   - fxa300-week02-the-brain-atlas-a-visual-guide-to-the-human-central-nervous
 tags:
 - auditory-processing
 title: Auditory Processing
 type: topic
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Auditory Processing
@@ -33,4 +34,5 @@ The provided sources offer a comprehensive overview of auditory processing and i
 - [fxa100-week02-fxa100-week-2-lecture-music-and-the-brain](../sources/fxa100-week02-fxa100-week-2-lecture-music-and-the-brain.md)
 - [fxa100-week02-hearing-and-music](../sources/fxa100-week02-hearing-and-music.md)
 - [fxa101-week02-a-neural-link-between-feeling-and-hearing](../sources/fxa101-week02-a-neural-link-between-feeling-and-hearing.md)
+- [fxa101-week03-revisiting-the-enigma-of-musicians-with-dyslexia-auditory](../sources/fxa101-week03-revisiting-the-enigma-of-musicians-with-dyslexia-auditory.md)
 - [fxa300-week02-the-brain-atlas-a-visual-guide-to-the-human-central-nervous](../sources/fxa300-week02-the-brain-atlas-a-visual-guide-to-the-human-central-nervous.md)

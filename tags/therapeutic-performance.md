@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-performance
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Therapeutic Performance

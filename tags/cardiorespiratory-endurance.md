@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cardiorespiratory-endurance
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Cardiorespiratory Endurance

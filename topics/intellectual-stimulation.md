@@ -3,12 +3,14 @@ confidence: low
 domain: intervention
 slug: intellectual-stimulation-through-art
 sources:
-- fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery
+  - fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia
+  - fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery
+  - fxa101-week03-10-lifestyle-activities-and-late-life-changes-in-cognitive
 tags:
 - intellectual-stimulation
 title: Intellectual Stimulation through Art
 type: topic
-updated: 2026-05-04
+updated: 2026-07-20
 ---
 
 ## Intellectual Stimulation through Art
@@ -27,4 +29,6 @@ The sources collectively emphasize the benefits of engaging with visual arts for
 
 ## Sources
 
+- [fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia](../sources/fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia.md)
 - [fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery](../sources/fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery.md)
+- [fxa101-week03-10-lifestyle-activities-and-late-life-changes-in-cognitive](../sources/fxa101-week03-10-lifestyle-activities-and-late-life-changes-in-cognitive.md)

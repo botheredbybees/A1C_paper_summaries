@@ -6,6 +6,7 @@ sources:
   - fxa100-week13-cognitive-behavioral-versus-exposure-only-treatment-for
   - fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in
   - fxa100-week13-the-effectiveness-of-dance-interventions-on-physical-health
+  - fxa101-week03-mozart-effectshmozart-effect-a-meta-analysis
   - fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing
   - fxa301-week01-the-rationale-for-rating-risk-of-bias-should-be-fully
   - fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention
@@ -19,7 +20,7 @@ tags:
 - meta-analysis
 title: Effectiveness of Therapeutic Interventions in Specific Populations
 type: topic
-updated: 2026-06-25
+updated: 2026-07-20
 ---
 
 ## Effectiveness of Therapeutic Interventions in Specific Populations
@@ -41,6 +42,7 @@ The meta-analyses explore the effectiveness of dance and music interventions for
 - [fxa100-week13-cognitive-behavioral-versus-exposure-only-treatment-for](../sources/fxa100-week13-cognitive-behavioral-versus-exposure-only-treatment-for.md)
 - [fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in](../sources/fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in.md)
 - [fxa100-week13-the-effectiveness-of-dance-interventions-on-physical-health](../sources/fxa100-week13-the-effectiveness-of-dance-interventions-on-physical-health.md)
+- [fxa101-week03-mozart-effectshmozart-effect-a-meta-analysis](../sources/fxa101-week03-mozart-effectshmozart-effect-a-meta-analysis.md)
 - [fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing](../sources/fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing.md)
 - [fxa301-week01-the-rationale-for-rating-risk-of-bias-should-be-fully](../sources/fxa301-week01-the-rationale-for-rating-risk-of-bias-should-be-fully.md)
 - [fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention](../sources/fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention.md)

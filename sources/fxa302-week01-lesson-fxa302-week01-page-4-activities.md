@@ -7,13 +7,15 @@ doi: null
 appearances:
   - unit: FXA302
     week: "01"
+  - unit: FXA302
+    week: "03"
 tags: ["health-humanities", "creative-arts", "discussion-forums", "fxa302", "creative-disciplines"]
 key_concepts: ["Health Humanities", "Creative Disciplines"]
 methods: []
 slug: fxa302-week01-lesson-fxa302-week01-page-4-activities
 related: ["creative-arts", "discussion-forums", "health-humanities"]
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-20
 ---
 
 _All claims sourced from ../raw/pdf/fxa302-week01-lesson-fxa302-week01-page-4-activities.md_

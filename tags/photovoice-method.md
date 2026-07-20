@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: photovoice-method
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Photovoice Method

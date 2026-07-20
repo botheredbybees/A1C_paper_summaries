@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-arts-intervention
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Visual Arts Intervention

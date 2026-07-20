@@ -7,7 +7,8 @@ tags: ["creativity-development"]
 sources:
   - fxa101-week01-lesson-fxa101-week01-journalling-your-creative-process
   - fxa101-week02-week-2-welcome
-updated: 2026-07-13
+  - fxa101-week03-how-music-teaches-children-to-create-and-innovate
+updated: 2026-07-20
 ---
 
 ## Creativity Development
@@ -27,3 +28,4 @@ The development of creativity is a multifaceted process that involves both pract
 
 - [fxa101-week01-lesson-fxa101-week01-journalling-your-creative-process](../sources/fxa101-week01-lesson-fxa101-week01-journalling-your-creative-process.md)
 - [fxa101-week02-week-2-welcome](../sources/fxa101-week02-week-2-welcome.md)
+- [fxa101-week03-how-music-teaches-children-to-create-and-innovate](../sources/fxa101-week03-how-music-teaches-children-to-create-and-innovate.md)

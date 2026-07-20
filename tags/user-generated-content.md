@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: user-generated-content
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## User Generated Content

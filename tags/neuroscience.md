@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuroscience
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Neuroscience
@@ -12,6 +12,7 @@ updated: 2026-07-13
 - [The Music of Memory: Victoria Williamson at TED MED Live](../sources/fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted.md)
 - [The Arts and the Brain: What Does Your Brain See?](../sources/fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what.md)
 - [Cortical correlates of creative thinking assessed by the figural Torrance Test of Creative Thinking](../sources/fxa101-week02-cortical-correlates-of-creative-thinking-assessed-by-the.md)
+- [Increased engagement of the cognitive control network associated with music training in children during an fMRI Stroop task](../sources/fxa101-week03-increased-engagement-of-the-cognitive-control-network.md)
 - [What We Know Currently about Mirror Neurons](../sources/fxa300-week01-what-we-know-currently-about-mirror-neurons.md)
 - [This Is Your Brain On Music: Understanding a Human Obsession](../sources/fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession.md)
 - [Two-Minute Neuroscience: Reward System](../sources/fxa301-week01-transcript-two-minute-neuroscience-reward-system.md)

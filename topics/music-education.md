@@ -4,6 +4,13 @@ domain: intervention
 slug: music-education-and-its-broader-impacts
 sources:
   - fxa100-week04-engaging-in-community-music-an-introduction
+  - fxa101-week03-childhood-music-training-induces-change-in-micro-and
+  - fxa101-week03-how-music-teaches-children-to-create-and-innovate
+  - fxa101-week03-increased-engagement-of-the-cognitive-control-network
+  - fxa101-week03-longitudinal-analysis-of-music-education-on-executive
+  - fxa101-week03-musical-training-enhances-information-processing-speed
+  - fxa101-week03-seeking-out-the-new-how-music-teaches-children-to-create
+  - fxa101-week03-the-mozart-effect-music-listening-is-not-music-instruction
   - fxa301-week01-culture-of-inquiry
   - fxa301-week05-an-education-in-music-makes-you-a-better-employee-are
   - fxa301-week05-fading-notes-music-education-for-the-next-generation-of
@@ -24,7 +31,7 @@ tags:
 - music-education
 title: Music Education and Its Broader Impacts
 type: topic
-updated: 2026-05-11
+updated: 2026-07-20
 ---
 
 ## Music Education and Its Broader Impacts
@@ -44,6 +51,13 @@ The provided sources highlight the multifaceted benefits of music education in f
 ## Sources
 
 - [fxa100-week04-engaging-in-community-music-an-introduction](../sources/fxa100-week04-engaging-in-community-music-an-introduction.md)
+- [fxa101-week03-childhood-music-training-induces-change-in-micro-and](../sources/fxa101-week03-childhood-music-training-induces-change-in-micro-and.md)
+- [fxa101-week03-how-music-teaches-children-to-create-and-innovate](../sources/fxa101-week03-how-music-teaches-children-to-create-and-innovate.md)
+- [fxa101-week03-increased-engagement-of-the-cognitive-control-network](../sources/fxa101-week03-increased-engagement-of-the-cognitive-control-network.md)
+- [fxa101-week03-longitudinal-analysis-of-music-education-on-executive](../sources/fxa101-week03-longitudinal-analysis-of-music-education-on-executive.md)
+- [fxa101-week03-musical-training-enhances-information-processing-speed](../sources/fxa101-week03-musical-training-enhances-information-processing-speed.md)
+- [fxa101-week03-seeking-out-the-new-how-music-teaches-children-to-create](../sources/fxa101-week03-seeking-out-the-new-how-music-teaches-children-to-create.md)
+- [fxa101-week03-the-mozart-effect-music-listening-is-not-music-instruction](../sources/fxa101-week03-the-mozart-effect-music-listening-is-not-music-instruction.md)
 - [fxa301-week01-culture-of-inquiry](../sources/fxa301-week01-culture-of-inquiry.md)
 - [fxa301-week05-an-education-in-music-makes-you-a-better-employee-are](../sources/fxa301-week05-an-education-in-music-makes-you-a-better-employee-are.md)
 - [fxa301-week05-fading-notes-music-education-for-the-next-generation-of](../sources/fxa301-week05-fading-notes-music-education-for-the-next-generation-of.md)

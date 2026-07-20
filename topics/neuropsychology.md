@@ -7,7 +7,9 @@ tags: ["neuropsychology"]
 sources:
   - fxa100-excellence-in-dementia-care--ch50-chapter-14
   - fxa100-week13-mini-mental-state-a-practical-method-for-grading-the
-updated: 2026-05-15
+  - fxa101-week03-anterograde-memory-in-frontotemporal-dementia
+  - fxa101-week03-the-impact-of-cognitive-reserve-on-neuropsychological
+updated: 2026-07-20
 ---
 
 ## Neuropsychological Assessment in Dementia Care
@@ -28,3 +30,5 @@ The documents provided highlight key aspects of neuropsychological assessment an
 
 - [fxa100-excellence-in-dementia-care--ch50-chapter-14](../sources/fxa100-excellence-in-dementia-care--ch50-chapter-14.md)
 - [fxa100-week13-mini-mental-state-a-practical-method-for-grading-the](../sources/fxa100-week13-mini-mental-state-a-practical-method-for-grading-the.md)
+- [fxa101-week03-anterograde-memory-in-frontotemporal-dementia](../sources/fxa101-week03-anterograde-memory-in-frontotemporal-dementia.md)
+- [fxa101-week03-the-impact-of-cognitive-reserve-on-neuropsychological](../sources/fxa101-week03-the-impact-of-cognitive-reserve-on-neuropsychological.md)

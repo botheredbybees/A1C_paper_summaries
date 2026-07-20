@@ -10,12 +10,13 @@ sources:
   - fxa301-week01-writing-a-research-protocol
   - fxa301-week03-the-thrive-toolkit-tools-for-health-research-and-evaluation
   - fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using
+  - fxa302-week03-the-art-of-observation-a-qualitative-analysis-of-medical
   - fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a
 tags:
 - arts-interventions
 title: Arts Interventions in Healthcare
 type: topic
-updated: 2026-05-11
+updated: 2026-07-20
 ---
 
 ## Arts Interventions in Healthcare
@@ -41,4 +42,5 @@ The exploration of arts interventions as a means to improve health and wellbeing
 - [fxa301-week01-writing-a-research-protocol](../sources/fxa301-week01-writing-a-research-protocol.md)
 - [fxa301-week03-the-thrive-toolkit-tools-for-health-research-and-evaluation](../sources/fxa301-week03-the-thrive-toolkit-tools-for-health-research-and-evaluation.md)
 - [fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using](../sources/fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using.md)
+- [fxa302-week03-the-art-of-observation-a-qualitative-analysis-of-medical](../sources/fxa302-week03-the-art-of-observation-a-qualitative-analysis-of-medical.md)
 - [fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a](../sources/fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a.md)

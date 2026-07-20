@@ -1,9 +1,10 @@
 ---
 type: tag
 tag: gender-differences
-updated: 2026-07-13
+updated: 2026-07-20
 ---
 
 ## Gender Differences
 
+- [Age-Related Effects and Sex Differences in Gray Matter Density, Volume, Mass, and Cortical Thickness from Childhood to Young Adulthood](../sources/fxa101-week03-age-related-effects-and-sex-differences-in-gray-matter.md)
 - [Epidemiological studies of the relationship between cultural experiences and public health](../sources/fxa301-oxford-textbook-of-creative-arts-ch24-chapter-8.md)
