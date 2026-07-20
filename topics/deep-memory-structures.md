@@ -6,7 +6,9 @@ confidence: medium
 tags: ["deep-memory-structures"]
 sources:
   - fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted
-updated: 2026-05-16
+  - fxa300-week01-how-do-earworms-start-classifying-the-everyday
+  - fxa300-week03-environmental-and-mental-conditions-predicting-the
+updated: 2026-07-21
 ---
 
 ## Deep Memory Structures in Music
@@ -26,3 +28,5 @@ Victoria Williamson's TED talk on 'The Music of Memory' explores the concept of 
 ## Sources
 
 - [fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted](../sources/fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted.md)
+- [fxa300-week01-how-do-earworms-start-classifying-the-everyday](../sources/fxa300-week01-how-do-earworms-start-classifying-the-everyday.md)
+- [fxa300-week03-environmental-and-mental-conditions-predicting-the](../sources/fxa300-week03-environmental-and-mental-conditions-predicting-the.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: self-help-strategies
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Self Help Strategies

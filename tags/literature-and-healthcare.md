@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: literature-and-healthcare
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Literature And Healthcare

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: aesthetic-theory
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Aesthetic Theory

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: journaling-books
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Journaling Books

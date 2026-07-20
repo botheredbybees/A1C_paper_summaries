@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: predictive-coding-of-music-pcm-model
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Predictive Coding Of Music Pcm Model

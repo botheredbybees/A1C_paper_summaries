@@ -6,8 +6,9 @@ confidence: medium
 tags: ["brain-networks"]
 sources:
   - fxa100-week06-the-brain-on-art-intense-aesthetic-experience-activates-the
+  - fxa300-week03-musical-imagery-involves-wernickes-area-in-bilateral-and
   - fxa303-week13-the-neural-basis-of-humour-processing
-updated: 2026-05-15
+updated: 2026-07-21
 ---
 
 ## Neural Networks in Aesthetic and Humorous Experiences
@@ -27,4 +28,5 @@ The exploration of neural networks involved in aesthetic and humorous experience
 ## Sources
 
 - [fxa100-week06-the-brain-on-art-intense-aesthetic-experience-activates-the](../sources/fxa100-week06-the-brain-on-art-intense-aesthetic-experience-activates-the.md)
+- [fxa300-week03-musical-imagery-involves-wernickes-area-in-bilateral-and](../sources/fxa300-week03-musical-imagery-involves-wernickes-area-in-bilateral-and.md)
 - [fxa303-week13-the-neural-basis-of-humour-processing](../sources/fxa303-week13-the-neural-basis-of-humour-processing.md)

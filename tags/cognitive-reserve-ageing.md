@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-reserve-ageing
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Cognitive Reserve Ageing

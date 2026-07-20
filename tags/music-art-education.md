@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-art-education
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Music Art Education

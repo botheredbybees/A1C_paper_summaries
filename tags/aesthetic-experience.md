@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: aesthetic-experience
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Aesthetic Experience

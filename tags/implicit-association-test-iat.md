@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: implicit-association-test-iat
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Implicit Association Test Iat

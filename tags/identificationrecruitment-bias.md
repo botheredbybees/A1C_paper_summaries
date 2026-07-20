@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: identificationrecruitment-bias
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Identificationrecruitment Bias

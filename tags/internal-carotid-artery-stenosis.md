@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: internal-carotid-artery-stenosis
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Internal Carotid Artery Stenosis

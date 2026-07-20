@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: synaptic-transmission
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Synaptic Transmission

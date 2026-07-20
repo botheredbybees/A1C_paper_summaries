@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: expressive-capabilities
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Expressive Capabilities

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: selfhood-identity
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Selfhood Identity

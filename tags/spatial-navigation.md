@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: spatial-navigation
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Spatial Navigation

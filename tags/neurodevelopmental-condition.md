@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurodevelopmental-condition
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Neurodevelopmental Condition

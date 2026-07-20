@@ -14,11 +14,12 @@ sources:
   - fxa101-week03-assessment-of-lifetime-participation-in-cognitively
   - fxa101-week03-lifestyle-patterns-and-cognitive-reserve
   - fxa101-week03-nonpharmacologic-treatment-and-prevention-strategies-for
+  - fxa300-week03-transcript-youtube-yogabkjgrta
 tags:
 - brain-health
 title: Brain Health and Cognitive Decline
 type: topic
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Brain Health and Cognitive Decline
@@ -48,3 +49,4 @@ The sources collectively highlight the multifactorial nature of brain health and
 - [fxa101-week03-assessment-of-lifetime-participation-in-cognitively](../sources/fxa101-week03-assessment-of-lifetime-participation-in-cognitively.md)
 - [fxa101-week03-lifestyle-patterns-and-cognitive-reserve](../sources/fxa101-week03-lifestyle-patterns-and-cognitive-reserve.md)
 - [fxa101-week03-nonpharmacologic-treatment-and-prevention-strategies-for](../sources/fxa101-week03-nonpharmacologic-treatment-and-prevention-strategies-for.md)
+- [fxa300-week03-transcript-youtube-yogabkjgrta](../sources/fxa300-week03-transcript-youtube-yogabkjgrta.md)

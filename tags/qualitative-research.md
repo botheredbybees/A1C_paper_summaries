@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: qualitative-research
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Qualitative Research

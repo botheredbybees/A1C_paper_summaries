@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-connectivity
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Social Connectivity

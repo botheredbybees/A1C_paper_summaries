@@ -7,13 +7,15 @@ doi: null
 appearances:
   - unit: FXA300
     week: "01"
+  - unit: FXA300
+    week: "03"
 tags: ["music-and-brain", "dopamine-release", "cognitive-development", "emotional-health", "physical-well-being", "fxa300", "nonverbal-reasoning", "auditory-discrimination"]
 key_concepts: ["dopamine release", "nonverbal reasoning", "auditory discrimination"]
 methods: ["observational study", "case control"]
 slug: fxa300-week01-how-music-affects-your-brain
 related: ["cognitive-development", "dopamine-release", "emotional-health", "music-and-brain"]
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-21
 ---
 
 _All claims sourced from ../raw/pdf/fxa300-week01-how-music-affects-your-brain.md_

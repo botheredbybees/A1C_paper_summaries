@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-process-journaling
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Creative Process Journaling

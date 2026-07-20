@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: agitation-and-aggression
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Agitation And Aggression

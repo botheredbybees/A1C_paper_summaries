@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: 17th-century-science
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## 17Th Century Science

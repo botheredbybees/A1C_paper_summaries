@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-impairments-and-music-therapy
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Cognitive Impairments And Music Therapy

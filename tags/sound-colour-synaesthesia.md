@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sound-colour-synaesthesia
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Sound Colour Synaesthesia

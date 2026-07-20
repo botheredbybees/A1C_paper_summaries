@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: historical-contexts
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Historical Contexts

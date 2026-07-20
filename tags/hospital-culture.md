@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hospital-culture
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Hospital Culture

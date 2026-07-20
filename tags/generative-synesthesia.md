@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: generative-synesthesia
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Generative Synesthesia

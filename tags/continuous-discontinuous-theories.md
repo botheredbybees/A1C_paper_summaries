@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: continuous-discontinuous-theories
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Continuous Discontinuous Theories

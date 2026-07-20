@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: loving-kindness-interventions
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Loving Kindness Interventions

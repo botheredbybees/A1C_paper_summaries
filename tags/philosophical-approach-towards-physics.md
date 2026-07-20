@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: philosophical-approach-towards-physics
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Philosophical Approach Towards Physics

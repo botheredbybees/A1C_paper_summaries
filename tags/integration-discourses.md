@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: integration-discourses
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Integration Discourses

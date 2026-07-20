@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: galenic-commentaries
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Galenic Commentaries

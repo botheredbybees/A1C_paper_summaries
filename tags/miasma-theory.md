@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: miasma-theory
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Miasma Theory

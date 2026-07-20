@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotional-regulation-skills
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Emotional Regulation Skills

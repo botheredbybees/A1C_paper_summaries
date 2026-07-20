@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: behavioral-variant-ftd
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Behavioral Variant Ftd

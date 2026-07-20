@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hybrid-visuals
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Hybrid Visuals

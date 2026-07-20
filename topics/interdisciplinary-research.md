@@ -8,6 +8,7 @@ sources:
   - fxa100-week13-mechanisms-of-change-in-dancemovement-therapy-and-their
   - fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2)
   - fxa300-week02-epilogue-ruminations-on-music-psychology
+  - fxa300-week03-music-and-memory-an-introduction-review
   - fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(2)
   - fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(3)
   - fxa301-week01-an-introduction-to-research
@@ -25,7 +26,7 @@ tags:
 - interdisciplinary-research
 title: Interdisciplinary Approaches to Quality of Life Improvement
 type: topic
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Interdisciplinary Approaches to Quality of Life Improvement
@@ -48,6 +49,7 @@ This synthesis focuses on interdisciplinary research aimed at enhancing the qual
 - [fxa100-week13-mechanisms-of-change-in-dancemovement-therapy-and-their](../sources/fxa100-week13-mechanisms-of-change-in-dancemovement-therapy-and-their.md)
 - [fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2)](../sources/fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-%282%29.md)
 - [fxa300-week02-epilogue-ruminations-on-music-psychology](../sources/fxa300-week02-epilogue-ruminations-on-music-psychology.md)
+- [fxa300-week03-music-and-memory-an-introduction-review](../sources/fxa300-week03-music-and-memory-an-introduction-review.md)
 - [fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(2)](../sources/fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-%282%29.md)
 - [fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(3)](../sources/fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-%283%29.md)
 - [fxa301-week01-an-introduction-to-research](../sources/fxa301-week01-an-introduction-to-research.md)

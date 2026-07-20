@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: traditional-medicine
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Traditional Medicine

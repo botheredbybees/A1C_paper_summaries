@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: traditional-ecological-knowledge
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Traditional Ecological Knowledge

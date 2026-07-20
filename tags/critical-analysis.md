@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: critical-analysis
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Critical Analysis

@@ -11,7 +11,7 @@ tags: ["semantic-memory", "language-processing", "neurodegeneration", "cognitive
 key_concepts: ["semantic-dementia", "phonological-processing"]
 methods: ["case-study"]
 slug: fxa101-week03-insights-into-the-organisation-of-semantic-memory-and
-related: ["cognitive-neuroscience", "neurodegeneration", "semantic-memory"]
+related: ["cognitive-neuroscience", "language-processing", "neurodegeneration", "semantic-memory"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -42,5 +42,6 @@ Karalyn Patterson's chapter discusses the decline of language in neurodegenerati
 ## See Also
 
 - [cognitive-neuroscience](../topics/cognitive-neuroscience.md)
+- [language-processing](../topics/language-processing.md)
 - [neurodegeneration](../topics/neurodegeneration.md)
 - [semantic-memory](../topics/semantic-memory.md)

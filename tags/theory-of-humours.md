@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: theory-of-humours
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Theory Of Humours

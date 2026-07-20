@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: healthcare-integration
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Healthcare Integration

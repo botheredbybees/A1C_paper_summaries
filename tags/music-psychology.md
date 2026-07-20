@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-psychology
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Music Psychology
@@ -26,6 +26,8 @@ updated: 2026-07-20
 - [Psychoacoustics and the Perception of Music](../sources/fxa300-week02-psychoacoustics-and-the-perception-of-music.md)
 - [This Is Your Brain On Music: Understanding a Human Obsession](../sources/fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession.md)
 - [This Is Your Brain On Music: Understanding a Human Obsession - Chapter 4](../sources/fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession-%282%29.md)
+- [Activities for Week 1: Discussions and Learning Materials](../sources/fxa300-week03-lesson-fxa300-week03-page-4-week-1-activities.md)
+- [Demonstration of the Power of Music](../sources/fxa300-week03-transcript-time-to-hear-some-music-just-for-fun-lets-watch-a.md)
 - [Physiological Responses to Music and Sound Stimuli](../sources/fxa301-oxford-textbook-of-creative-arts-ch08-96-clift.md)
 - [Aesthetic Responses to Music: A Questionnaire Study](../sources/fxa301-week02-aesthetic-responses-to-music-a-questionnaire-study.md)
 - [An Experience Sampling Study of Emotional Reactions to Music: Listener, Music, and Situation](../sources/fxa301-week02-an-experience-sampling-study-of-emotional-reactions-to.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: affirmative-approach
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Affirmative Approach

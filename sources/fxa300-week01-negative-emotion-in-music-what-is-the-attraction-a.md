@@ -7,13 +7,15 @@ doi: null
 appearances:
   - unit: FXA300
     week: "01"
+  - unit: FXA300
+    week: "03"
 tags: ["negative-emotion-music", "emotional-arousal", "mood-management-theory", "individual-differences-psychology", "qualitative-research", "fxa300", "absorption", "dissociation"]
 key_concepts: ["absorption", "dissociation", "psychological-benefits"]
 methods: ["qualitative-study"]
 slug: fxa300-week01-negative-emotion-in-music-what-is-the-attraction-a
 related: ["absorption", "qualitative-research"]
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-21
 ---
 
 _All claims sourced from ../raw/pdf/fxa300-week01-negative-emotion-in-music-what-is-the-attraction-a.md_

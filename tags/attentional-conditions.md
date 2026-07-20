@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: attentional-conditions
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Attentional Conditions

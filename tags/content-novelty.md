@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: content-novelty
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Content Novelty

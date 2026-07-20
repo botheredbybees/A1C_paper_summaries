@@ -11,7 +11,7 @@ tags: ["brain-function", "neurotransmitters", "creative-arts", "fxa301"]
 key_concepts: ["mirror neurons", "dopamine", "serotonin"]
 methods: []
 slug: fxa301-week01-lesson-fxa301-week01-page-3-how-do-we-respond-to
-related: ["brain-function", "creative-arts"]
+related: ["brain-function", "creative-arts", "neurotransmitters"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,3 +43,4 @@ The lesson discusses how the brain processes and responds to creative arts such 
 
 - [brain-function](../topics/brain-function.md)
 - [creative-arts](../topics/creative-arts.md)
+- [neurotransmitters](../topics/neurotransmitters.md)

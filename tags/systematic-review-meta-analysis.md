@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: systematic-review-meta-analysis
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Systematic Review Meta Analysis

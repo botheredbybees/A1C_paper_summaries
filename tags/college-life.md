@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: college-life
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## College Life

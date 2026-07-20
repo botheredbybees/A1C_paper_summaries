@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: desistance-from-crime
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Desistance From Crime

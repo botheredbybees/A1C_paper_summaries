@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: artist-contracts
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Artist Contracts

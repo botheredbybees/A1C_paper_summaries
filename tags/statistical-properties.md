@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: statistical-properties
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Statistical Properties

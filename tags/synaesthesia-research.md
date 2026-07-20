@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: synaesthesia-research
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Synaesthesia Research

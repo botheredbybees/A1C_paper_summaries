@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: behavioral-sciences
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Behavioral Sciences

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sociology-of-art
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Sociology Of Art

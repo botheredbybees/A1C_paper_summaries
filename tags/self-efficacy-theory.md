@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: self-efficacy-theory
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Self Efficacy Theory

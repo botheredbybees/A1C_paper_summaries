@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-and-brain-function
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Music And Brain Function

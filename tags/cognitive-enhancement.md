@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-enhancement
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Cognitive Enhancement

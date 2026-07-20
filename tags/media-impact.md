@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: media-impact
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Media Impact

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mindful-photography
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Mindful Photography

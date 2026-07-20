@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: interactive-therapy-approaches
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Interactive Therapy Approaches

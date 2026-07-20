@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: twin-research
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Twin Research

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: subjective-rating-norms
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Subjective Rating Norms

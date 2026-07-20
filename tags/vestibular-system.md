@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: vestibular-system
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Vestibular System

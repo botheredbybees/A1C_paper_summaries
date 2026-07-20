@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: photo-editing-tips
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Photo Editing Tips

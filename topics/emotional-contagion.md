@@ -9,7 +9,8 @@ sources:
   - fxa300-week01-emotional-responses-to-music-the-need-to-consider
   - fxa300-week01-fxa300-sem-2-2026-week-1-lecture
   - fxa300-week01-lesson-fxa300-week01-page-3-introduction-to-how-the
-updated: 2026-07-06
+  - fxa300-week03-lesson-fxa300-week03-page-3-introduction-to-how-the
+updated: 2026-07-21
 ---
 
 ## Emotional Contagion in Music
@@ -32,3 +33,4 @@ The concept of emotional contagion in music is explored across multiple sources,
 - [fxa300-week01-emotional-responses-to-music-the-need-to-consider](../sources/fxa300-week01-emotional-responses-to-music-the-need-to-consider.md)
 - [fxa300-week01-fxa300-sem-2-2026-week-1-lecture](../sources/fxa300-week01-fxa300-sem-2-2026-week-1-lecture.md)
 - [fxa300-week01-lesson-fxa300-week01-page-3-introduction-to-how-the](../sources/fxa300-week01-lesson-fxa300-week01-page-3-introduction-to-how-the.md)
+- [fxa300-week03-lesson-fxa300-week03-page-3-introduction-to-how-the](../sources/fxa300-week03-lesson-fxa300-week03-page-3-introduction-to-how-the.md)

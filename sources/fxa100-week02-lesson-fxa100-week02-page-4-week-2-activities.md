@@ -13,7 +13,7 @@ tags: ["music-and-memory", "dementia-care-interventions", "personal-reflection",
 key_concepts: ["musical memory", "reminiscence bump", "emotional wellbeing"]
 methods: []
 slug: fxa100-week02-lesson-fxa100-week02-page-4-week-2-activities
-related: ["dementia-care-interventions", "personal-reflection"]
+related: ["dementia-care-interventions", "music-and-memory", "personal-reflection"]
 created: 2026-05-03
 updated: 2026-07-13
 ---
@@ -44,4 +44,5 @@ Week 2 of the course FXA100 The Arts and Dementia Care includes required reading
 ## See Also
 
 - [dementia-care-interventions](../topics/dementia-care-interventions.md)
+- [music-and-memory](../topics/music-and-memory.md)
 - [personal-reflection](../topics/personal-reflection.md)

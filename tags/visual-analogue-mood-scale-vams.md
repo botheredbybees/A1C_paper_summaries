@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-analogue-mood-scale-vams
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Visual Analogue Mood Scale Vams

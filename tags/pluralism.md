@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: pluralism
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Pluralism

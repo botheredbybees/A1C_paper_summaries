@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: laughing-therapy
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Laughing Therapy

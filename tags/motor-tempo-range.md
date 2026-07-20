@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: motor-tempo-range
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Motor Tempo Range

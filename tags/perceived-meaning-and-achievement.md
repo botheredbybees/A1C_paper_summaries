@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: perceived-meaning-and-achievement
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Perceived Meaning And Achievement

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: behavioral-therapies
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Behavioral Therapies

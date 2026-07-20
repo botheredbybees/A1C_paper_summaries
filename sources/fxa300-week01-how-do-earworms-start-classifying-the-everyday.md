@@ -11,7 +11,7 @@ tags: ["involuntary-musical-imagery", "earworms", "music-psychology", "memory-tr
 key_concepts: ["involuntary musical imagery (INMI)", "affective states", "attentional conditions"]
 methods: ["qualitative analysis"]
 slug: fxa300-week01-how-do-earworms-start-classifying-the-everyday
-related: ["earworms", "music-psychology"]
+related: ["deep-memory-structures", "earworms", "music-psychology"]
 created: 2026-07-06
 updated: 2026-07-06
 ---
@@ -44,5 +44,6 @@ This article explores the phenomenon of involuntary musical imagery (INMI) or â€
 
 ## See Also
 
+- [deep-memory-structures](../topics/deep-memory-structures.md)
 - [earworms](../topics/earworms.md)
 - [music-psychology](../topics/music-psychology.md)

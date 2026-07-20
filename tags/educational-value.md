@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: educational-value
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Educational Value

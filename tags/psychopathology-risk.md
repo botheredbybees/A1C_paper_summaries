@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychopathology-risk
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Psychopathology Risk

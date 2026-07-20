@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: art-museums
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Art Museums

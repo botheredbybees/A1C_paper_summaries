@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurological-disease
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Neurological Disease

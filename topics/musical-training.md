@@ -8,8 +8,9 @@ sources:
   - fxa101-week03-how-music-teaches-children-to-create-and-innovate
   - fxa101-week03-lesson-fxa101-week03-page-3-the-role-of-the-arts-in
   - fxa101-week03-musical-training-enhances-information-processing-speed
+  - fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in
   - fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Musical Training
@@ -31,4 +32,5 @@ The synthesis of the provided sources highlights the multifaceted benefits of mu
 - [fxa101-week03-how-music-teaches-children-to-create-and-innovate](../sources/fxa101-week03-how-music-teaches-children-to-create-and-innovate.md)
 - [fxa101-week03-lesson-fxa101-week03-page-3-the-role-of-the-arts-in](../sources/fxa101-week03-lesson-fxa101-week03-page-3-the-role-of-the-arts-in.md)
 - [fxa101-week03-musical-training-enhances-information-processing-speed](../sources/fxa101-week03-musical-training-enhances-information-processing-speed.md)
+- [fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in](../sources/fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in.md)
 - [fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians](../sources/fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians.md)

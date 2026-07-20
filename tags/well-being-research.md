@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: well-being-research
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Well Being Research

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: recovery-from-trauma
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Recovery From Trauma

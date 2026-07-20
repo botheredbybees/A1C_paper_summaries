@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: black-and-white-photography
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Black And White Photography

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: respiratory-function
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Respiratory Function

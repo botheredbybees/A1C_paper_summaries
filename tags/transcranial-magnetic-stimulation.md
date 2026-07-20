@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: transcranial-magnetic-stimulation
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Transcranial Magnetic Stimulation

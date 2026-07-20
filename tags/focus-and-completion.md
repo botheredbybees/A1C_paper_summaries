@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: focus-and-completion
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Focus And Completion

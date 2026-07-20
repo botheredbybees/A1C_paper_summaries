@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hippocratic-oath
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Hippocratic Oath

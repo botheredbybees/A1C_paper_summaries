@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: risk-management-strategies
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Risk Management Strategies

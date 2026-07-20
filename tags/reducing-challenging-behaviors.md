@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: reducing-challenging-behaviors
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Reducing Challenging Behaviors

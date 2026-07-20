@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: physical-activity-benefits
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Physical Activity Benefits

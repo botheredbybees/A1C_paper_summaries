@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychosocial-issues
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Psychosocial Issues

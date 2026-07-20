@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: acdc-assessment-tool
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Acdc Assessment Tool

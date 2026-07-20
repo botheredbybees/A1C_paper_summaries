@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: shamanic-trance
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Shamanic Trance

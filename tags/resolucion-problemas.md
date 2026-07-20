@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: resolucion-problemas
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Resolucion Problemas

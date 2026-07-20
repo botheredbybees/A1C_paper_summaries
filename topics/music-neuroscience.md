@@ -8,7 +8,8 @@ sources:
   - fxa100-week02-fxa100-week-2-lecture-music-and-the-brain
   - fxa300-week01-week-1-introduction-music-mind-and-body
   - fxa300-week02-fxa300-week-2-introduction-transcript
-updated: 2026-07-13
+  - fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in
+updated: 2026-07-21
 ---
 
 ## Music And The Brain
@@ -30,3 +31,4 @@ The relationship between music and the brain encompasses a broad spectrum of neu
 - [fxa100-week02-fxa100-week-2-lecture-music-and-the-brain](../sources/fxa100-week02-fxa100-week-2-lecture-music-and-the-brain.md)
 - [fxa300-week01-week-1-introduction-music-mind-and-body](../sources/fxa300-week01-week-1-introduction-music-mind-and-body.md)
 - [fxa300-week02-fxa300-week-2-introduction-transcript](../sources/fxa300-week02-fxa300-week-2-introduction-transcript.md)
+- [fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in](../sources/fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in.md)

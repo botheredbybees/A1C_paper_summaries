@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: holistic-growth
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Holistic Growth

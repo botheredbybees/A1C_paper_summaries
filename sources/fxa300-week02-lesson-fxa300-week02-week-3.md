@@ -11,7 +11,7 @@ tags: ["anatomy-of-the-brain", "cerebrum-functions", "limbic-system-overview", "
 key_concepts: ["corpus callosum", "hippocampus", "broca's-area"]
 methods: []
 slug: fxa300-week02-lesson-fxa300-week02-week-3
-related: []
+related: ["brocas-area"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -41,4 +41,4 @@ This lesson provides an overview of the brain's anatomy focusing on its three ma
 
 ## See Also
 
-*(none yet)*
+- [brocas-area](../topics/brocas-area.md)

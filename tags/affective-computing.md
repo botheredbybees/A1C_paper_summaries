@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: affective-computing
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Affective Computing

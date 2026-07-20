@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-impairment-support
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Visual Impairment Support

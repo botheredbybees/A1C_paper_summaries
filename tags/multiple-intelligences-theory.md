@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: multiple-intelligences-theory
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Multiple Intelligences Theory

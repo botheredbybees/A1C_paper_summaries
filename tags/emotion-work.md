@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotion-work
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Emotion Work

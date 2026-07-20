@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurodivergent-artists
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Neurodivergent Artists

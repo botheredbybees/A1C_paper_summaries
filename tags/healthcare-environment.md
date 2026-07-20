@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: healthcare-environment
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Healthcare Environment

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: embodied-selfhood
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Embodied Selfhood

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: rules-of-thumb
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Rules Of Thumb

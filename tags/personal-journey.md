@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: personal-journey
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Personal Journey

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: defiance-of-expectations
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Defiance Of Expectations

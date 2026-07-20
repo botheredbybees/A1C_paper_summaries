@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: gait-training
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Gait Training

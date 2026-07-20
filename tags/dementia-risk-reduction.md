@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dementia-risk-reduction
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Dementia Risk Reduction

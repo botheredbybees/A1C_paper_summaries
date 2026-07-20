@@ -7,7 +7,8 @@ tags: ["rhythm-perception"]
 sources:
   - fxa101-week03-rhythm-perception-production-and-synchronization-during-the
   - fxa101-week03-web-article-iversen-2020
-updated: 2026-07-20
+  - fxa300-week03-the-quest-for-universals-in-temporal-processing-in-music
+updated: 2026-07-21
 ---
 
 ## Rhythm Perception During Development
@@ -28,3 +29,4 @@ The exploration of rhythm perception during development highlights the critical 
 
 - [fxa101-week03-rhythm-perception-production-and-synchronization-during-the](../sources/fxa101-week03-rhythm-perception-production-and-synchronization-during-the.md)
 - [fxa101-week03-web-article-iversen-2020](../sources/fxa101-week03-web-article-iversen-2020.md)
+- [fxa300-week03-the-quest-for-universals-in-temporal-processing-in-music](../sources/fxa300-week03-the-quest-for-universals-in-temporal-processing-in-music.md)

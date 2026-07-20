@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurology-in-art-therapy
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Neurology In Art Therapy

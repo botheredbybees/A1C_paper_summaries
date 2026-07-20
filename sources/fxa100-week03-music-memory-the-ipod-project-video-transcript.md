@@ -11,7 +11,7 @@ tags: ["personalized-music-playlists", "alzheimers-dementia-care", "emotional-th
 key_concepts: ["personalized music therapy", "quality of life improvement for dementia patients"]
 methods: ["case study"]
 slug: fxa100-week03-music-memory-the-ipod-project-video-transcript
-related: ["quality-of-life-improvement"]
+related: ["personalized-music-playlists", "quality-of-life-improvement"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,4 +42,5 @@ The document discusses the 'iPod Project' and its impact on individuals with Alz
 
 ## See Also
 
+- [personalized-music-playlists](../topics/personalized-music-playlists.md)
 - [quality-of-life-improvement](../topics/quality-of-life-improvement.md)

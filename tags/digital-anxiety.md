@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: digital-anxiety
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Digital Anxiety

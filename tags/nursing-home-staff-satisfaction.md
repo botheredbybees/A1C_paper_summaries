@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: nursing-home-staff-satisfaction
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Nursing Home Staff Satisfaction

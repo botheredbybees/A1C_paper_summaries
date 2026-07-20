@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuropsychiatric-inventory-nursing-home-version
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Neuropsychiatric Inventory Nursing Home Version

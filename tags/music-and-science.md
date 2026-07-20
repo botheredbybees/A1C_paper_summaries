@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-and-science
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Music And Science

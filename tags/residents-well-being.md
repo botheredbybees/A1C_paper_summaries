@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: residents-well-being
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Residents Well Being

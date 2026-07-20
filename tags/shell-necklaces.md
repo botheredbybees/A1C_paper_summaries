@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: shell-necklaces
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Shell Necklaces

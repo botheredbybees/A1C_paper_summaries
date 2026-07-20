@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: obsessive-compulsive-disorder
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Obsessive Compulsive Disorder

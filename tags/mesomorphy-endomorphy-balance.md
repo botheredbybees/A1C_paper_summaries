@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mesomorphy-endomorphy-balance
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Mesomorphy Endomorphy Balance

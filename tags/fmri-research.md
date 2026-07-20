@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: fmri-research
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Fmri Research

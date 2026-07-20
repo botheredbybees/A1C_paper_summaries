@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychological-distress-scores
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Psychological Distress Scores

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: teen-mental-health
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Teen Mental Health

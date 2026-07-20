@@ -3,12 +3,14 @@ confidence: low
 domain: theory
 slug: neurotransmitters
 sources:
-- fxa301-week02-lecture-on-perception-of-the-arts
+  - fxa300-week03-transcript-youtube-yogabkjgrta
+  - fxa301-week01-lesson-fxa301-week01-page-3-how-do-we-respond-to
+  - fxa301-week02-lecture-on-perception-of-the-arts
 tags:
 - neurotransmitters
 title: Neurotransmitters
 type: topic
-updated: 2026-05-04
+updated: 2026-07-21
 ---
 
 ## Neurotransmitters
@@ -26,4 +28,6 @@ The concept of neurotransmitters is discussed across various sources, particular
 
 ## Sources
 
+- [fxa300-week03-transcript-youtube-yogabkjgrta](../sources/fxa300-week03-transcript-youtube-yogabkjgrta.md)
+- [fxa301-week01-lesson-fxa301-week01-page-3-how-do-we-respond-to](../sources/fxa301-week01-lesson-fxa301-week01-page-3-how-do-we-respond-to.md)
 - [fxa301-week02-lecture-on-perception-of-the-arts](../sources/fxa301-week02-lecture-on-perception-of-the-arts.md)

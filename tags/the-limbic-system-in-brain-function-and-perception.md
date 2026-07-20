@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: the-limbic-system-in-brain-function-and-perception
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## The Limbic System In Brain Function And Perception

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: participatory-design
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Participatory Design

@@ -11,7 +11,7 @@ tags: ["music-performance", "classical-music", "beethoven-symphony", "fxa100"]
 key_concepts: ["Symphony No. 9", "Ode to Joy"]
 methods: []
 slug: fxa100-week02-transcript-beethoven-symphony-no-9-fourth-movement-url-only
-related: ["music-performance"]
+related: ["classical-music", "music-performance"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,4 +40,5 @@ The YouTube link provided does not contain an automatic transcript but offers th
 
 ## See Also
 
+- [classical-music](../topics/classical-music.md)
 - [music-performance](../topics/music-performance.md)

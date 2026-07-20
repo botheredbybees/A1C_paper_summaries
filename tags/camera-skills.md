@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: camera-skills
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Camera Skills

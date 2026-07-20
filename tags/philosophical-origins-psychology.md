@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: philosophical-origins-psychology
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Philosophical Origins Psychology

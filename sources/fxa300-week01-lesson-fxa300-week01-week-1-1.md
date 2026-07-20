@@ -7,13 +7,15 @@ doi: null
 appearances:
   - unit: FXA300
     week: "01"
+  - unit: FXA300
+    week: "03"
 tags: ["music-psychology", "cognitive-neuroscience", "empathy-music", "fxa300", "earworms", "brecvema-model"]
 key_concepts: ["earworms", "BRECVEMA model", "empathy"]
 methods: []
 slug: fxa300-week01-lesson-fxa300-week01-week-1-1
-related: ["cognitive-neuroscience", "earworms", "music-psychology"]
+related: ["brecvema-model", "cognitive-neuroscience", "earworms", "music-psychology"]
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-21
 ---
 
 _All claims sourced from ../raw/pdf/fxa300-week01-lesson-fxa300-week01-week-1-1.md_
@@ -41,6 +43,7 @@ This module introduces the course 'Music, Mind and Body' by Dr Brendan Lamb. It 
 
 ## See Also
 
+- [brecvema-model](../topics/brecvema-model.md)
 - [cognitive-neuroscience](../topics/cognitive-neuroscience.md)
 - [earworms](../topics/earworms.md)
 - [music-psychology](../topics/music-psychology.md)

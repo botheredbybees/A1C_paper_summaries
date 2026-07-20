@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: expertise-related-memory-advantage
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Expertise Related Memory Advantage

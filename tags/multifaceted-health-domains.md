@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: multifaceted-health-domains
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Multifaceted Health Domains

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: interdisciplinary-research
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Interdisciplinary Research
@@ -11,6 +11,7 @@ updated: 2026-07-20
 - [Mechanisms of change in dance/movement therapy and their neural correlates: A theoretical framework](../sources/fxa100-week13-mechanisms-of-change-in-dancemovement-therapy-and-their.md)
 - [The handbook of phototherapy and therapeutic photography: For the professional and activist client](../sources/fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-%282%29.md)
 - [Epilogue: Ruminations on Music Psychology](../sources/fxa300-week02-epilogue-ruminations-on-music-psychology.md)
+- [Music and Memory: An Introduction (review)](../sources/fxa300-week03-music-and-memory-an-introduction-review.md)
 - [Aesop: A Framework for Developing and Researching Arts in Health Programmes](../sources/fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-%282%29.md)
 - [Aesop: A Framework for Developing and Researching Arts in Health Programmes](../sources/fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-%283%29.md)
 - [An introduction to research](../sources/fxa301-week01-an-introduction-to-research.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: positive-emotions-in-dementia
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Positive Emotions In Dementia

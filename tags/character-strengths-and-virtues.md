@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: character-strengths-and-virtues
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Character Strengths And Virtues

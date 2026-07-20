@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dementia-care
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Dementia Care
@@ -190,6 +190,8 @@ updated: 2026-07-20
 - [Non-pharmacological Interventions to Reduce Behavioral and Psychological Symptoms of Dementia](../sources/fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and.md)
 - [Critical Reflection on '28 Solomon Street': A Photo Essay](../sources/fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay.md)
 - [Apples Never Fall: Exploring the Role of Food in Family Wellbeing and Memory through Therapeutic Photography](../sources/fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family.md)
+- [A Focus on the Reminiscence Bump to Personalize Music Playlists for Dementia](../sources/fxa300-week03-a-focus-on-the-reminiscence-bump-to-personalize-music.md)
+- [Exploring the Experiences of a Person with Dementia and Their Spouse Who Attended a Telehealth Music Therapy Programme: Two Case Examples from Ireland](../sources/fxa300-week03-exploring-the-experiences-of-a-person-with-dementia-and.md)
 - [Does a Model Exist?](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment.md)
 - [Theatre of Wandering: Rehearsal and Devising Notes [Part 1]](../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1.md)
 - [Theatre of Wandering: Rehearsal and devising notes [Part 2]](../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2.md)

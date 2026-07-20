@@ -11,7 +11,7 @@ tags: ["brain-structure", "cognitive-functions", "neuroanatomy", "perception-pro
 key_concepts: ["executive-functions", "limbic-system", "sensory-processing", "memory-formations", "artistic-perception"]
 methods: ["overview"]
 slug: fxa301-week02-the-brain-and-how-we-perceive-information
-related: ["brain-structure", "cognitive-functions", "emotional-regulation", "neuroanatomy"]
+related: ["brain-structure", "cognitive-functions", "emotional-regulation", "memory-systems", "neuroanatomy"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -49,4 +49,5 @@ This document provides an overview of the human brain's structure and functions,
 - [brain-structure](../topics/brain-structure.md)
 - [cognitive-functions](../topics/cognitive-functions.md)
 - [emotional-regulation](../topics/emotional-regulation.md)
+- [memory-systems](../topics/memory-systems.md)
 - [neuroanatomy](../topics/neuroanatomy.md)

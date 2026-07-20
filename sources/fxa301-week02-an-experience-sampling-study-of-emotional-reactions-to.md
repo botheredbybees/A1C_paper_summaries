@@ -11,7 +11,7 @@ tags: ["emotional-reactions-to-music", "experience-sampling-method", "music-psyc
 key_concepts: ["emotional-reactions", "listener-characteristics", "contextual-elements"]
 methods: ["experience-sampling"]
 slug: fxa301-week02-an-experience-sampling-study-of-emotional-reactions-to
-related: ["music-psychology"]
+related: ["experience-sampling-method", "music-psychology"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,4 +41,5 @@ This study investigates the emotional reactions to music experienced by individu
 
 ## See Also
 
+- [experience-sampling-method](../topics/experience-sampling-method.md)
 - [music-psychology](../topics/music-psychology.md)

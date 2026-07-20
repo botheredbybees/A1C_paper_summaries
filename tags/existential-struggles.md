@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: existential-struggles
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Existential Struggles

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: chronic-illness
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Chronic Illness

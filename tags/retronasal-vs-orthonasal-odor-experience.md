@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: retronasal-vs-orthonasal-odor-experience
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Retronasal Vs Orthonasal Odor Experience

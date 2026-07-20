@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: continuity-and-discontinuity-in-developmental-psychology
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Continuity And Discontinuity In Developmental Psychology

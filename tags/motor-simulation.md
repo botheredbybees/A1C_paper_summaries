@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: motor-simulation
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Motor Simulation

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: close-observation-skills
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Close Observation Skills

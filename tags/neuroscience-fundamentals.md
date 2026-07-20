@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuroscience-fundamentals
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Neuroscience Fundamentals

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creativity-in-education
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Creativity In Education

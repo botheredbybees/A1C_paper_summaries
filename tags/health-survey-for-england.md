@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: health-survey-for-england
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Health Survey For England

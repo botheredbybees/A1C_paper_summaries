@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: child-development-theories
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Child Development Theories

@@ -7,13 +7,15 @@ doi: https://doi.org/10.3389/fpsyg.2016.01176
 appearances:
   - unit: FXA300
     week: "01"
+  - unit: FXA300
+    week: "03"
 tags: ["music-psychology", "emotional-reaction", "sad-music-enjoyment", "trait-empathy", "fxa300", "moving-sadness", "emotional-contagion"]
 key_concepts: ["Moving sadness", "Trait empathy", "Emotional contagion"]
 methods: ["survey study", "self-report"]
 slug: fxa300-week01-being-moved-by-unfamiliar-sad-music-is-associated-with-high
 related: ["emotional-contagion", "emotional-reaction", "music-psychology", "trait-empathy"]
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-21
 ---
 
 _All claims sourced from ../raw/pdf/fxa300-week01-being-moved-by-unfamiliar-sad-music-is-associated-with-high.md_

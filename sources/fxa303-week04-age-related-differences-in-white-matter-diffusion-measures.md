@@ -11,7 +11,7 @@ tags: ["aging-effects", "autism-spectrum-condition", "brain-connectivity", "frac
 key_concepts: ["white matter diffusion measures", "fractional anisotropy (FA)", "radial diffusivity (RD)"]
 methods: ["tract-based spatial statistics (TBSS)", "case-control study"]
 slug: fxa303-week04-age-related-differences-in-white-matter-diffusion-measures
-related: ["brain-connectivity", "neurodevelopment"]
+related: ["aging-effects", "brain-connectivity", "neurodevelopment"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,5 +42,6 @@ This study examines age-related differences in white matter diffusion measures a
 
 ## See Also
 
+- [aging-effects](../topics/aging-effects.md)
 - [brain-connectivity](../topics/brain-connectivity.md)
 - [neurodevelopment](../topics/neurodevelopment.md)

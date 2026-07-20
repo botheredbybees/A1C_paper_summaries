@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-diseases
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Brain Diseases

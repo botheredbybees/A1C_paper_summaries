@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurological-impairment-management
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Neurological Impairment Management

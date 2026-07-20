@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: land-management-practices
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Land Management Practices

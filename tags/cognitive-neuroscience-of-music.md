@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-neuroscience-of-music
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Cognitive Neuroscience Of Music

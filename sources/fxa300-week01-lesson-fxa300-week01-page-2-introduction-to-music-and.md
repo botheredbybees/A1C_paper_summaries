@@ -7,13 +7,15 @@ doi: null
 appearances:
   - unit: FXA300
     week: "01"
+  - unit: FXA300
+    week: "03"
 tags: ["music-psychology", "cognitive-science", "earworms", "empathy", "sad-music", "fxa300", "absorption", "dorsal-striatum", "basal-ganglia"]
 key_concepts: ["absorption", "limbic-system", "dorsal-striatum", "basal-ganglia"]
 methods: []
 slug: fxa300-week01-lesson-fxa300-week01-page-2-introduction-to-music-and
 related: ["absorption", "cognitive-science", "earworms", "music-psychology", "sad-music"]
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-21
 ---
 
 _All claims sourced from ../raw/pdf/fxa300-week01-lesson-fxa300-week01-page-2-introduction-to-music-and.md_

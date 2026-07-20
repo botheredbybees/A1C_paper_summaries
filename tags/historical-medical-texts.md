@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: historical-medical-texts
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Historical Medical Texts

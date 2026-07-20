@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: empathy-in-medical-practice
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Empathy In Medical Practice

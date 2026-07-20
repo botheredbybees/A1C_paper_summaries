@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-health
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Brain Health
@@ -17,3 +17,4 @@ updated: 2026-07-20
 - [Assessment of lifetime participation in cognitively stimulating activities](../sources/fxa101-week03-assessment-of-lifetime-participation-in-cognitively.md)
 - [Lifestyle patterns and cognitive reserve](../sources/fxa101-week03-lifestyle-patterns-and-cognitive-reserve.md)
 - [Nonpharmacologic Treatment and Prevention Strategies for Dementia](../sources/fxa101-week03-nonpharmacologic-treatment-and-prevention-strategies-for.md)
+- [Understanding Memory Formation and Loss](../sources/fxa300-week03-transcript-youtube-yogabkjgrta.md)

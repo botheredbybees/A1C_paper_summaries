@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: colored-music-synesthesia
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Colored Music Synesthesia

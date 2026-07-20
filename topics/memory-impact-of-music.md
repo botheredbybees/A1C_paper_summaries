@@ -6,7 +6,9 @@ confidence: medium
 tags: ["memory-impact-of-music"]
 sources:
   - fxa100-week03-lesson-fxa100-week03-page-4-week-3-activities1
-updated: 2026-05-16
+  - fxa300-week02-psychoacoustics-and-the-perception-of-music
+  - fxa300-week03-musicians-and-nonmusicians-short-term-memory-for-verbal-and
+updated: 2026-07-21
 ---
 
 ## Memory Impact Of Music
@@ -26,3 +28,5 @@ The sources collectively highlight the significant role of music in enhancing co
 ## Sources
 
 - [fxa100-week03-lesson-fxa100-week03-page-4-week-3-activities1](../sources/fxa100-week03-lesson-fxa100-week03-page-4-week-3-activities1.md)
+- [fxa300-week02-psychoacoustics-and-the-perception-of-music](../sources/fxa300-week02-psychoacoustics-and-the-perception-of-music.md)
+- [fxa300-week03-musicians-and-nonmusicians-short-term-memory-for-verbal-and](../sources/fxa300-week03-musicians-and-nonmusicians-short-term-memory-for-verbal-and.md)

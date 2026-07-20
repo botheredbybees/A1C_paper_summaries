@@ -7,13 +7,15 @@ doi: https://doi.org/10.1111/j.1749-6632.2009.04417.x
 appearances:
   - unit: FXA300
     week: "02"
+  - unit: FXA300
+    week: "03"
 tags: ["cognitive-neuroscience", "music-perception", "brain-function", "fxa300", "language-evolution"]
 key_concepts: ["musical-cognition", "language-evolution", "emotional-processing"]
 methods: ["neuroimaging"]
 slug: fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music
 related: ["brain-function", "cognitive-neuroscience", "music-perception"]
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-21
 ---
 
 _All claims sourced from ../raw/pdf/fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music.md_

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: feature-extraction
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Feature Extraction

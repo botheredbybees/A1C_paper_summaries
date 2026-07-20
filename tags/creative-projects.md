@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-projects
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Creative Projects

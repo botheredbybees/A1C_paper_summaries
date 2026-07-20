@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: standardized-evaluation-frameworks
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Standardized Evaluation Frameworks

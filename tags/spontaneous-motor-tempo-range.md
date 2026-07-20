@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: spontaneous-motor-tempo-range
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Spontaneous Motor Tempo Range

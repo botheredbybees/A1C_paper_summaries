@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: funding-guidelines
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Funding Guidelines

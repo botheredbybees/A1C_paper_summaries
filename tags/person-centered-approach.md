@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: person-centered-approach
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Person Centered Approach

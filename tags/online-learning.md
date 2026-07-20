@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: online-learning
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Online Learning
@@ -12,5 +12,6 @@ updated: 2026-07-20
 - [Week 1 Welcome](../sources/fxa101-week01-week-1-welcome.md)
 - [Week 5 Introduction - FXA202 The Photo Essay: Storytelling with image and text](../sources/fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling.md)
 - [2022 Week 10 Lecture Transcript](../sources/fxa202-week10-2022-week-10-lecture-transcript.md)
+- [Activities for Week 1: Discussions and Learning Materials](../sources/fxa300-week03-lesson-fxa300-week03-page-4-week-1-activities.md)
 - [Quiz Information - Getting Started in MyLO](../sources/fxa301-week01-quiz-information-getting-started-in-mylo.md)
 - [Week 1 Activities Page Video](../sources/fxa301-week01-week-1-activities-page-video.md)

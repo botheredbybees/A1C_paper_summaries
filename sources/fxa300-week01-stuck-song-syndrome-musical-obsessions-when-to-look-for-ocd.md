@@ -7,13 +7,15 @@ doi: https://doi.org/10.3399/bjgp16X683629
 appearances:
   - unit: FXA300
     week: "01"
+  - unit: FXA300
+    week: "03"
 tags: ["stuck-song-syndrome", "obsessive-compulsive-disorder", "earworms", "cognitive-behavioral-therapy", "psychological-mechanisms", "fxa300", "musical-obsessions", "intrusive-thoughts"]
 key_concepts: ["musical-obsessions", "intrusive-thoughts", "coping-strategies"]
 methods: ["case-study"]
 slug: fxa300-week01-stuck-song-syndrome-musical-obsessions-when-to-look-for-ocd
 related: ["cognitive-behavioral-therapy", "earworms", "intrusive-thoughts", "obsessive-compulsive-disorder"]
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-21
 ---
 
 _All claims sourced from ../raw/pdf/fxa300-week01-stuck-song-syndrome-musical-obsessions-when-to-look-for-ocd.md_

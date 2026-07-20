@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: traditional-chinese-medicine
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Traditional Chinese Medicine

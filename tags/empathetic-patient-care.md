@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: empathetic-patient-care
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Empathetic Patient Care

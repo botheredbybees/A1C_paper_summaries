@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-activity-effects-on-brain
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Mental Activity Effects On Brain

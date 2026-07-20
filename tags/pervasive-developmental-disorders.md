@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: pervasive-developmental-disorders
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Pervasive Developmental Disorders

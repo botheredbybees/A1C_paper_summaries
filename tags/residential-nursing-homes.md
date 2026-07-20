@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: residential-nursing-homes
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Residential Nursing Homes

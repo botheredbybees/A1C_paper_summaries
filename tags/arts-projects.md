@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-projects
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Arts Projects

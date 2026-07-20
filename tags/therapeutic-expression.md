@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-expression
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Therapeutic Expression

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cultural-bias-in-well-being-research
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Cultural Bias In Well Being Research

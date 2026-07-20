@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: laughter-care-specialists
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Laughter Care Specialists

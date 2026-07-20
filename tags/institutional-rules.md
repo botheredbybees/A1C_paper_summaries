@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: institutional-rules
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Institutional Rules

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: illness-narratives
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Illness Narratives

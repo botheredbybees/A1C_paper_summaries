@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: scientific-knowledge-advance
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Scientific Knowledge Advance

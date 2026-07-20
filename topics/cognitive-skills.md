@@ -6,8 +6,9 @@ confidence: medium
 tags: ["cognitive-skills"]
 sources:
   - fxa101-week03-how-music-teaches-children-to-create-and-innovate
+  - fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in
   - fxa303-week03-music-instruction-can-make-for-a-smarter-teen
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Cognitive Skills Development Through Music
@@ -27,4 +28,5 @@ The role of music in enhancing cognitive skills among children and teenagers is 
 ## Sources
 
 - [fxa101-week03-how-music-teaches-children-to-create-and-innovate](../sources/fxa101-week03-how-music-teaches-children-to-create-and-innovate.md)
+- [fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in](../sources/fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in.md)
 - [fxa303-week03-music-instruction-can-make-for-a-smarter-teen](../sources/fxa303-week03-music-instruction-can-make-for-a-smarter-teen.md)

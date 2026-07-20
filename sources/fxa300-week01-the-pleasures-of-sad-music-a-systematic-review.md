@@ -7,13 +7,15 @@ doi: https://doi.org/10.3389/fnhum.2015.00404
 appearances:
   - unit: FXA300
     week: "01"
+  - unit: FXA300
+    week: "03"
 tags: ["sad-music", "pleasure-experience", "emotional-regulation", "catharsis-theory", "aesthetic-pleasure", "psychological-benefits", "fxa300", "mood-regulation", "tragedy-paradox", "cathartic-release"]
 key_concepts: ["mood-regulation", "tragedy-paradox", "cathartic-release"]
 methods: ["systematic-review"]
 slug: fxa300-week01-the-pleasures-of-sad-music-a-systematic-review
 related: ["emotional-regulation", "sad-music"]
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-21
 ---
 
 _All claims sourced from ../raw/pdf/fxa300-week01-the-pleasures-of-sad-music-a-systematic-review.md_

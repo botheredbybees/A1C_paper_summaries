@@ -23,6 +23,8 @@ sources:
   - fxa300-week02-psychoacoustics-and-the-perception-of-music
   - fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession
   - fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession-(2)
+  - fxa300-week03-lesson-fxa300-week03-page-4-week-1-activities
+  - fxa300-week03-transcript-time-to-hear-some-music-just-for-fun-lets-watch-a
   - fxa301-oxford-textbook-of-creative-arts-ch08-96-clift
   - fxa301-week02-aesthetic-responses-to-music-a-questionnaire-study
   - fxa301-week02-an-experience-sampling-study-of-emotional-reactions-to
@@ -35,7 +37,7 @@ tags:
 - music-psychology
 title: Emotional Reactions to Music
 type: topic
-updated: 2026-07-13
+updated: 2026-07-21
 ---
 
 ## Emotional Reactions to Music
@@ -74,6 +76,8 @@ The literature highlights the profound impact of music on human emotion across v
 - [fxa300-week02-psychoacoustics-and-the-perception-of-music](../sources/fxa300-week02-psychoacoustics-and-the-perception-of-music.md)
 - [fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession](../sources/fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession.md)
 - [fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession-(2)](../sources/fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession-%282%29.md)
+- [fxa300-week03-lesson-fxa300-week03-page-4-week-1-activities](../sources/fxa300-week03-lesson-fxa300-week03-page-4-week-1-activities.md)
+- [fxa300-week03-transcript-time-to-hear-some-music-just-for-fun-lets-watch-a](../sources/fxa300-week03-transcript-time-to-hear-some-music-just-for-fun-lets-watch-a.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch08-96-clift](../sources/fxa301-oxford-textbook-of-creative-arts-ch08-96-clift.md)
 - [fxa301-week02-aesthetic-responses-to-music-a-questionnaire-study](../sources/fxa301-week02-aesthetic-responses-to-music-a-questionnaire-study.md)
 - [fxa301-week02-an-experience-sampling-study-of-emotional-reactions-to](../sources/fxa301-week02-an-experience-sampling-study-of-emotional-reactions-to.md)

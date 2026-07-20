@@ -187,6 +187,8 @@ sources:
   - fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and
   - fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay
   - fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family
+  - fxa300-week03-a-focus-on-the-reminiscence-bump-to-personalize-music
+  - fxa300-week03-exploring-the-experiences-of-a-person-with-dementia-and
   - fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment
   - fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1
   - fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2
@@ -219,7 +221,7 @@ tags:
 - dementia-care
 title: Dementia Care Interventions
 type: topic
-updated: 2026-07-06
+updated: 2026-07-21
 ---
 
 ## Dementia Care Interventions
@@ -422,6 +424,8 @@ The integration of creative arts and technology in dementia care reveals diverse
 - [fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and](../sources/fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and.md)
 - [fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay](../sources/fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay.md)
 - [fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family](../sources/fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family.md)
+- [fxa300-week03-a-focus-on-the-reminiscence-bump-to-personalize-music](../sources/fxa300-week03-a-focus-on-the-reminiscence-bump-to-personalize-music.md)
+- [fxa300-week03-exploring-the-experiences-of-a-person-with-dementia-and](../sources/fxa300-week03-exploring-the-experiences-of-a-person-with-dementia-and.md)
 - [fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment.md)
 - [fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1](../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1.md)
 - [fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2](../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2.md)

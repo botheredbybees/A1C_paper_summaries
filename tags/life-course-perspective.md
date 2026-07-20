@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: life-course-perspective
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Life Course Perspective

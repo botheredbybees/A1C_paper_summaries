@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: transactional-model-of-stress
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Transactional Model Of Stress

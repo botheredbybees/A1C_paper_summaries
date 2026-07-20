@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-well-being
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Social Well Being

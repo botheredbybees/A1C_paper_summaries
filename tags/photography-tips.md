@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: photography-tips
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Photography Tips

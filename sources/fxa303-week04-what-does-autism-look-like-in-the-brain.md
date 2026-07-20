@@ -11,7 +11,7 @@ tags: ["autism-spectrum-disorder", "brain-connectivity", "neural-mechanisms", "f
 key_concepts: ["fMRI", "synchronized-brain-activity", "social-dysfunction"]
 methods: ["functional-magnetic-resonance-imaging", "systematic-review"]
 slug: fxa303-week04-what-does-autism-look-like-in-the-brain
-related: ["autism-spectrum-disorder", "brain-connectivity"]
+related: ["autism-spectrum-disorder", "brain-connectivity", "neural-mechanisms"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -48,3 +48,4 @@ The study highlights a new perspective into understanding the neurological basis
 
 - [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)
 - [brain-connectivity](../topics/brain-connectivity.md)
+- [neural-mechanisms](../topics/neural-mechanisms.md)

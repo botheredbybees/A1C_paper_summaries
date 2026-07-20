@@ -4,12 +4,18 @@ domain: theory
 slug: music-cognition
 sources:
   - fxa100-week13-hearing-what-the-body-feels-auditory-encoding-of-rhythmic
+  - fxa300-week03-lesson-fxa300-week03-music-and-processing-1
+  - fxa300-week03-lesson-fxa300-week03-page-4-music-and-memory
+  - fxa300-week03-music-and-memory-an-introduction-review
+  - fxa300-week03-musical-imagery-involves-wernickes-area-in-bilateral-and
+  - fxa300-week03-probe-tone-paradigm-reveals-less-differentiated-tonal
+  - fxa300-week03-the-quest-for-universals-in-temporal-processing-in-music
   - fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2)
 tags:
 - music-cognition
 title: Music Cognition
 type: topic
-updated: 2026-05-15
+updated: 2026-07-21
 ---
 
 ## Music Cognition
@@ -29,4 +35,10 @@ The exploration of music cognition through various sources reveals the intricate
 ## Sources
 
 - [fxa100-week13-hearing-what-the-body-feels-auditory-encoding-of-rhythmic](../sources/fxa100-week13-hearing-what-the-body-feels-auditory-encoding-of-rhythmic.md)
+- [fxa300-week03-lesson-fxa300-week03-music-and-processing-1](../sources/fxa300-week03-lesson-fxa300-week03-music-and-processing-1.md)
+- [fxa300-week03-lesson-fxa300-week03-page-4-music-and-memory](../sources/fxa300-week03-lesson-fxa300-week03-page-4-music-and-memory.md)
+- [fxa300-week03-music-and-memory-an-introduction-review](../sources/fxa300-week03-music-and-memory-an-introduction-review.md)
+- [fxa300-week03-musical-imagery-involves-wernickes-area-in-bilateral-and](../sources/fxa300-week03-musical-imagery-involves-wernickes-area-in-bilateral-and.md)
+- [fxa300-week03-probe-tone-paradigm-reveals-less-differentiated-tonal](../sources/fxa300-week03-probe-tone-paradigm-reveals-less-differentiated-tonal.md)
+- [fxa300-week03-the-quest-for-universals-in-temporal-processing-in-music](../sources/fxa300-week03-the-quest-for-universals-in-temporal-processing-in-music.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-%282%29.md)

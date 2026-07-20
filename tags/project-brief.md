@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: project-brief
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Project Brief

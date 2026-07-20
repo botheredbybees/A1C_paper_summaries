@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: auditory-processing
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Auditory Processing
@@ -10,3 +10,5 @@ updated: 2026-07-20
 - [A Neural Link Between Feeling and Hearing](../sources/fxa101-week02-a-neural-link-between-feeling-and-hearing.md)
 - [Revisiting the \u201cEnigma\u201d of Musicians With Dyslexia: Auditory Sequencing and Speech Abilities](../sources/fxa101-week03-revisiting-the-enigma-of-musicians-with-dyslexia-auditory.md)
 - [The Brain Atlas: A Visual Guide to the Human Central Nervous System](../sources/fxa300-week02-the-brain-atlas-a-visual-guide-to-the-human-central-nervous.md)
+- [Effect of Repetition of Standard and Comparison Tones on Recognition Memory for Pitch](../sources/fxa300-week03-effect-of-repetition-of-standard-and-comparison-tones-on.md)
+- [Exploring the Articulatory Loop](../sources/fxa300-week03-exploring-the-articulatory-loop.md)

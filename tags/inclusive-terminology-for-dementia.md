@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: inclusive-terminology-for-dementia
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Inclusive Terminology For Dementia

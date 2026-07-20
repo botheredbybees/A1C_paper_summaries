@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: shakespearean-literature
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Shakespearean Literature

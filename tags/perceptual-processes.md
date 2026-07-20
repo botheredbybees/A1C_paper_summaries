@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: perceptual-processes
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Perceptual Processes

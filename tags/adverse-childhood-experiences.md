@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: adverse-childhood-experiences
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Adverse Childhood Experiences

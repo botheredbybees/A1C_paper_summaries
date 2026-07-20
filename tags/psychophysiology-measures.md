@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychophysiology-measures
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Psychophysiology Measures

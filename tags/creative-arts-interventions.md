@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-arts-interventions
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Creative Arts Interventions

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: gray-matter-density
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Gray Matter Density

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: longitudinal-study
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Longitudinal Study

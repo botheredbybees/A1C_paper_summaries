@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: intellectual-property
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Intellectual Property

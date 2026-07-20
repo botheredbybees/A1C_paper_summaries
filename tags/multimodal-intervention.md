@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: multimodal-intervention
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Multimodal Intervention

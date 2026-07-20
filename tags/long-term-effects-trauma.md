@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: long-term-effects-trauma
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Long Term Effects Trauma

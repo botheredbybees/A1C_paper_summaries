@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: internalized-homonegativity
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Internalized Homonegativity

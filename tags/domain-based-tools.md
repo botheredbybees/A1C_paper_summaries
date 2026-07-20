@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: domain-based-tools
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Domain Based Tools

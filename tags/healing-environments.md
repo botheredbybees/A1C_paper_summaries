@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: healing-environments
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Healing Environments

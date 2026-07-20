@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychobiological-effects
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Psychobiological Effects

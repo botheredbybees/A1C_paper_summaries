@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: observational-analysis
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Observational Analysis

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: aboriginal-arts
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Aboriginal Arts

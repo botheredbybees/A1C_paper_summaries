@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: secondary-desistance-mechanisms
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Secondary Desistance Mechanisms

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-sensations-auditory-stimuli
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Visual Sensations Auditory Stimuli

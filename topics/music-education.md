@@ -11,6 +11,7 @@ sources:
   - fxa101-week03-musical-training-enhances-information-processing-speed
   - fxa101-week03-seeking-out-the-new-how-music-teaches-children-to-create
   - fxa101-week03-the-mozart-effect-music-listening-is-not-music-instruction
+  - fxa300-week03-music-training-improves-verbal-but-not-visual-memory-cross
   - fxa301-week01-culture-of-inquiry
   - fxa301-week05-an-education-in-music-makes-you-a-better-employee-are
   - fxa301-week05-fading-notes-music-education-for-the-next-generation-of
@@ -31,7 +32,7 @@ tags:
 - music-education
 title: Music Education and Its Broader Impacts
 type: topic
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Music Education and Its Broader Impacts
@@ -58,6 +59,7 @@ The provided sources highlight the multifaceted benefits of music education in f
 - [fxa101-week03-musical-training-enhances-information-processing-speed](../sources/fxa101-week03-musical-training-enhances-information-processing-speed.md)
 - [fxa101-week03-seeking-out-the-new-how-music-teaches-children-to-create](../sources/fxa101-week03-seeking-out-the-new-how-music-teaches-children-to-create.md)
 - [fxa101-week03-the-mozart-effect-music-listening-is-not-music-instruction](../sources/fxa101-week03-the-mozart-effect-music-listening-is-not-music-instruction.md)
+- [fxa300-week03-music-training-improves-verbal-but-not-visual-memory-cross](../sources/fxa300-week03-music-training-improves-verbal-but-not-visual-memory-cross.md)
 - [fxa301-week01-culture-of-inquiry](../sources/fxa301-week01-culture-of-inquiry.md)
 - [fxa301-week05-an-education-in-music-makes-you-a-better-employee-are](../sources/fxa301-week05-an-education-in-music-makes-you-a-better-employee-are.md)
 - [fxa301-week05-fading-notes-music-education-for-the-next-generation-of](../sources/fxa301-week05-fading-notes-music-education-for-the-next-generation-of.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: wellbeing-strategies
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Wellbeing Strategies

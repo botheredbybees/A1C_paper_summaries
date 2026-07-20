@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-connectivity-in-autism-and-art-production
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Brain Connectivity In Autism And Art Production

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dance-therapy-efficacy
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Dance Therapy Efficacy

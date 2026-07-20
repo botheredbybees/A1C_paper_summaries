@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: structural-barriers
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Structural Barriers

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-arts-in-research
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Visual Arts In Research

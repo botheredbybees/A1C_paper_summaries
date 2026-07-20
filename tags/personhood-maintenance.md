@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: personhood-maintenance
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Personhood Maintenance

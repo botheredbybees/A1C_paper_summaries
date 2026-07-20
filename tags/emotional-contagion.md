@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotional-contagion
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Emotional Contagion
@@ -10,3 +10,4 @@ updated: 2026-07-20
 - [Emotional responses to music: The need to consider underlying mechanisms](../sources/fxa300-week01-emotional-responses-to-music-the-need-to-consider.md)
 - [FXA300 Sem 2 2026 - Week 1 Lecture](../sources/fxa300-week01-fxa300-sem-2-2026-week-1-lecture.md)
 - [Music and Mood: Universal Responses and Cultural Contexts](../sources/fxa300-week01-lesson-fxa300-week01-page-3-introduction-to-how-the.md)
+- [Music and Mood](../sources/fxa300-week03-lesson-fxa300-week03-page-3-introduction-to-how-the.md)

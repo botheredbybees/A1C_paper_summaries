@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: philosophical-perspective
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Philosophical Perspective

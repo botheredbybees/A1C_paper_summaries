@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: economic-development
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Economic Development

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: disability-groups
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Disability Groups

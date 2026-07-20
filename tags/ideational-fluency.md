@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ideational-fluency
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Ideational Fluency

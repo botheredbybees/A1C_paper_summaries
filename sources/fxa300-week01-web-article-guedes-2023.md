@@ -7,13 +7,15 @@ doi: https://doi.org/10.3758/s13428-022-01862-z
 appearances:
   - unit: FXA300
     week: "01"
+  - unit: FXA300
+    week: "03"
 tags: ["music-psychology", "taste-perception", "emotional-cognition", "sound-taste-mapping", "fxa300", "crossmodal-perception", "musical-parameters", "subjective-rating-norms"]
 key_concepts: ["crossmodal perception", "musical parameters", "subjective rating norms"]
 methods: []
 slug: fxa300-week01-web-article-guedes-2023
 related: ["emotional-cognition", "music-psychology", "taste-perception"]
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-21
 ---
 
 _All claims sourced from ../raw/pdf/fxa300-week01-web-article-guedes-2023.md_

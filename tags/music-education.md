@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-education
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Music Education
@@ -14,6 +14,7 @@ updated: 2026-07-20
 - [Musical Training Enhances Information Processing Speed](../sources/fxa101-week03-musical-training-enhances-information-processing-speed.md)
 - [Seeking Out the New: How Music Teaches Children to Create and Innovate](../sources/fxa101-week03-seeking-out-the-new-how-music-teaches-children-to-create.md)
 - [The Mozart Effect: Music Listening is Not Music Instruction](../sources/fxa101-week03-the-mozart-effect-music-listening-is-not-music-instruction.md)
+- [Music Training Improves Verbal but Not Visual Memory: Cross-Sectional and Longitudinal Explorations in Children](../sources/fxa300-week03-music-training-improves-verbal-but-not-visual-memory-cross.md)
 - [Culture of Inquiry](../sources/fxa301-week01-culture-of-inquiry.md)
 - [An education in music makes you a better employee. Are recruiters in tune?](../sources/fxa301-week05-an-education-in-music-makes-you-a-better-employee-are.md)
 - [Fading Notes: Music Education for the Next Generation of Primary Teachers](../sources/fxa301-week05-fading-notes-music-education-for-the-next-generation-of.md)

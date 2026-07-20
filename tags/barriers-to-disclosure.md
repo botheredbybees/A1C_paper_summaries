@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: barriers-to-disclosure
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Barriers To Disclosure

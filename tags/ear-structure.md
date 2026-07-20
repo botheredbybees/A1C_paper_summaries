@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ear-structure
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Ear Structure

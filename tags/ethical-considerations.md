@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ethical-considerations
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Ethical Considerations

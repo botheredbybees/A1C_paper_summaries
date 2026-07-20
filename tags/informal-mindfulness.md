@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: informal-mindfulness
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Informal Mindfulness

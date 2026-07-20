@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurocognitive-disorders
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 ## Neurocognitive Disorders
