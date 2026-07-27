@@ -6,8 +6,10 @@ confidence: medium
 tags: ["neuroanatomy"]
 sources:
   - fxa101-week02-lesson-fxa101-week02-chapter-2
+  - fxa101-week04-lesson-fxa101-week04-week-3
+  - fxa101-week04-the-ageing-brain
   - fxa301-week02-the-brain-and-how-we-perceive-information
-updated: 2026-07-13
+updated: 2026-07-28
 ---
 
 ## Human Brain Neuroanatomy
@@ -27,4 +29,6 @@ The human brain's neuroanatomy is a complex system with various components that 
 ## Sources
 
 - [fxa101-week02-lesson-fxa101-week02-chapter-2](../sources/fxa101-week02-lesson-fxa101-week02-chapter-2.md)
+- [fxa101-week04-lesson-fxa101-week04-week-3](../sources/fxa101-week04-lesson-fxa101-week04-week-3.md)
+- [fxa101-week04-the-ageing-brain](../sources/fxa101-week04-the-ageing-brain.md)
 - [fxa301-week02-the-brain-and-how-we-perceive-information](../sources/fxa301-week02-the-brain-and-how-we-perceive-information.md)

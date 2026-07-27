@@ -10,6 +10,7 @@ sources:
   - fxa100-week04-interventions-for-dementia-care
   - fxa100-week07-aged-care-outreach
   - fxa100-week07-turning-back-the-hands-of-time-autobiographical-memories-in
+  - fxa101-week04-creativity-in-later-life
   - fxa301-applied-artes-and-health-ch03-85-ulrich
   - fxa303-week02-child-development-fxa303-creative-arts-play-and-mental
   - fxa303-week13-application-of-cognitive-stimulation-in-the-care-of
@@ -18,7 +19,7 @@ tags:
 - cognitive-stimulation
 title: Cognitive Stimulation in Dementia Care
 type: topic
-updated: 2026-05-15
+updated: 2026-07-28
 ---
 
 ## Cognitive Stimulation in Dementia Care
@@ -44,6 +45,7 @@ The provided sources highlight the multifaceted approach to cognitive stimulatio
 - [fxa100-week04-interventions-for-dementia-care](../sources/fxa100-week04-interventions-for-dementia-care.md)
 - [fxa100-week07-aged-care-outreach](../sources/fxa100-week07-aged-care-outreach.md)
 - [fxa100-week07-turning-back-the-hands-of-time-autobiographical-memories-in](../sources/fxa100-week07-turning-back-the-hands-of-time-autobiographical-memories-in.md)
+- [fxa101-week04-creativity-in-later-life](../sources/fxa101-week04-creativity-in-later-life.md)
 - [fxa301-applied-artes-and-health-ch03-85-ulrich](../sources/fxa301-applied-artes-and-health-ch03-85-ulrich.md)
 - [fxa303-week02-child-development-fxa303-creative-arts-play-and-mental](../sources/fxa303-week02-child-development-fxa303-creative-arts-play-and-mental.md)
 - [fxa303-week13-application-of-cognitive-stimulation-in-the-care-of](../sources/fxa303-week13-application-of-cognitive-stimulation-in-the-care-of.md)

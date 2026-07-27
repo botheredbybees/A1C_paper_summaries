@@ -11,7 +11,7 @@ tags: ["community-arts", "well-being-assessment", "evaluation-guide", "fxa100"]
 key_concepts: ["social-outcomes", "funding-justification", "continuous-improvement"]
 methods: ["case-study"]
 slug: fxa100-week04-evaluating-community-arts-community-well-being-an
-related: ["community-arts"]
+related: ["community-arts", "well-being-assessment"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,3 +42,4 @@ The 'Evaluating Community Arts & Community Well-Being' guide by Clare Keating pr
 ## See Also
 
 - [community-arts](../topics/community-arts.md)
+- [well-being-assessment](../topics/well-being-assessment.md)

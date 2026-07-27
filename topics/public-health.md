@@ -5,6 +5,8 @@ slug: creative-arts-in-public-health
 sources:
   - fxa100-excellence-in-dementia-care--ch24-chapter-1
   - fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities
+  - fxa101-week04-brain-training-using-cognitive-apps-can-improve-cognitive
+  - fxa101-week04-lesson-fxa101-week04-chapter-3-creativity-throughout-life
   - fxa301-applied-artes-and-health-ch01-2021-graff
   - fxa301-arts-in-health-ch04-48-haldane-d
   - fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26
@@ -54,6 +56,8 @@ The integration of creative arts into public health interventions presents a mul
 
 - [fxa100-excellence-in-dementia-care--ch24-chapter-1](../sources/fxa100-excellence-in-dementia-care--ch24-chapter-1.md)
 - [fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities](../sources/fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities.md)
+- [fxa101-week04-brain-training-using-cognitive-apps-can-improve-cognitive](../sources/fxa101-week04-brain-training-using-cognitive-apps-can-improve-cognitive.md)
+- [fxa101-week04-lesson-fxa101-week04-chapter-3-creativity-throughout-life](../sources/fxa101-week04-lesson-fxa101-week04-chapter-3-creativity-throughout-life.md)
 - [fxa301-applied-artes-and-health-ch01-2021-graff](../sources/fxa301-applied-artes-and-health-ch01-2021-graff.md)
 - [fxa301-arts-in-health-ch04-48-haldane-d](../sources/fxa301-arts-in-health-ch04-48-haldane-d.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26](../sources/fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26.md)

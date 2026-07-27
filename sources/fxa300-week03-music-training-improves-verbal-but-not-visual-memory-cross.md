@@ -11,7 +11,7 @@ tags: ["music-education", "brain-development", "cognitive-neuroscience", "memory
 key_concepts: ["verbal-memory", "visual-memory", "neuroanatomical-developmental-effects"]
 methods: ["cross-sectional-study", "longitudinal-research"]
 slug: fxa300-week03-music-training-improves-verbal-but-not-visual-memory-cross
-related: ["brain-development", "cognitive-neuroscience", "music-education"]
+related: ["brain-development", "cognitive-neuroscience", "music-education", "verbal-memory"]
 created: 2026-07-21
 updated: 2026-07-21
 ---
@@ -47,3 +47,4 @@ This study examines the impact of music training on verbal and visual memory in 
 - [brain-development](../topics/brain-development.md)
 - [cognitive-neuroscience](../topics/cognitive-neuroscience.md)
 - [music-education](../topics/music-education.md)
+- [verbal-memory](../topics/verbal-memory.md)

@@ -13,7 +13,7 @@ tags: ["aboriginal-youth", "creative-expression", "cultural-healing", "cultural-
 key_concepts: ["self-expression", "trauma-healing", "cultural-representation"]
 methods: ["case-study"]
 slug: fxa303-week11-dance-project-gives-young-people-in-youth-detention-a
-related: ["creative-expression", "cultural-healing", "cultural-representation"]
+related: ["creative-expression", "cultural-healing", "cultural-representation", "empowerment-through-art"]
 created: 2026-05-11
 updated: 2026-05-16
 ---
@@ -47,3 +47,4 @@ This article from ABC News discusses a dance project initiated by Phunktional Ar
 - [creative-expression](../topics/creative-expression.md)
 - [cultural-healing](../topics/cultural-healing.md)
 - [cultural-representation](../topics/cultural-representation.md)
+- [empowerment-through-art](../topics/empowerment-through-art.md)

@@ -11,7 +11,7 @@ tags: ["dance-movement-therapy", "dementia-intervention", "diurnal-cortisol-slop
 key_concepts: ["mild-dementia", "diurnal-cortisol-slope", "nonpharmacological-interventions"]
 methods: ["randomized-controlled-trial"]
 slug: fxa100-week13-psychophysiological-effects-of-dance-movement-therapy-and
-related: ["dance-movement-therapy", "dementia-intervention", "nonpharmacological-interventions", "physical-exercise"]
+related: ["dance-movement-therapy", "dementia-intervention", "nonpharmacological-interventions", "older-adults-health", "physical-exercise"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -44,4 +44,5 @@ This study evaluates the psychophysiological effects of dance movement therapy (
 - [dance-movement-therapy](../topics/dance-movement-therapy.md)
 - [dementia-intervention](../topics/dementia-intervention.md)
 - [nonpharmacological-interventions](../topics/nonpharmacological-interventions.md)
+- [older-adults-health](../topics/older-adults-health.md)
 - [physical-exercise](../topics/physical-exercise.md)

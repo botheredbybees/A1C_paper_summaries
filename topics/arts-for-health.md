@@ -3,13 +3,14 @@ confidence: medium
 domain: intervention
 slug: arts-for-health
 sources:
+  - fxa101-week04-coffee-cake-culture-evaluation-of-an-art-for-health
   - fxa301-oxford-textbook-of-creative-arts-ch03-chapter-13
   - fxa301-week01-arts-for-health-and-wellbeing-an-evaluation-framework
 tags:
 - arts-for-health
 title: Arts for Health
 type: topic
-updated: 2026-05-11
+updated: 2026-07-28
 ---
 
 ## Arts for Health
@@ -28,5 +29,6 @@ The integration of arts into health interventions in community settings offers a
 
 ## Sources
 
+- [fxa101-week04-coffee-cake-culture-evaluation-of-an-art-for-health](../sources/fxa101-week04-coffee-cake-culture-evaluation-of-an-art-for-health.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch03-chapter-13](../sources/fxa301-oxford-textbook-of-creative-arts-ch03-chapter-13.md)
 - [fxa301-week01-arts-for-health-and-wellbeing-an-evaluation-framework](../sources/fxa301-week01-arts-for-health-and-wellbeing-an-evaluation-framework.md)

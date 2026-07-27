@@ -3,6 +3,7 @@ confidence: medium
 domain: intervention
 slug: laughter-prescription-in-lifestyle-medicine
 sources:
+  - fxa101-week04-lifestyle-medicine-for-healthy-cognitive-aging-a-narrative
   - fxa301-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
   - fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
   - psy214-week04-introduction-to-lifestyle-medicine
@@ -30,6 +31,7 @@ Both sources explore the use of laughter as a tool within lifestyle medicine, fo
 
 ## Sources
 
+- [fxa101-week04-lifestyle-medicine-for-healthy-cognitive-aging-a-narrative](../sources/fxa101-week04-lifestyle-medicine-for-healthy-cognitive-aging-a-narrative.md)
 - [fxa301-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine](../sources/fxa301-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine.md)
 - [fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine](../sources/fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine.md)
 - [psy214-week04-introduction-to-lifestyle-medicine](../sources/psy214-week04-introduction-to-lifestyle-medicine.md)

@@ -11,7 +11,7 @@ tags: ["alzheimers-disease", "carer-reported-burden", "cognitive-rehabilitation"
 key_concepts: ["cognitive-functions", "activities-of-daily-living", "carer-reported-burden"]
 methods: ["systematic review"]
 slug: fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to
-related: ["alzheimers-disease", "cognitive-rehabilitation", "systematic-review", "vascular-dementia"]
+related: ["alzheimers-disease", "cognitive-rehabilitation", "cognitive-training", "systematic-review", "vascular-dementia"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -50,5 +50,6 @@ This review underscores the potential benefits of tailored cognitive training pr
 
 - [alzheimers-disease](../topics/alzheimers-disease.md)
 - [cognitive-rehabilitation](../topics/cognitive-rehabilitation.md)
+- [cognitive-training](../topics/cognitive-training.md)
 - [systematic-review](../topics/systematic-review.md)
 - [vascular-dementia](../topics/vascular-dementia.md)

@@ -10,6 +10,8 @@ sources:
   - fxa100-week12-the-power-of-music-an-exploration-of-the-evidence
   - fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric
   - fxa100-week13-mini-mental-state-a-practical-method-for-grading-the
+  - fxa101-week04-physical-activity-to-improve-cognition-in-older-adults-can
+  - fxa101-week04-the-use-of-commercial-computerised-cognitive-games-in-older
   - fxa202-week03-lesson-fxa202-week03-page-2
   - fxa202-week03-lesson-fxa202-week03-week-3
   - fxa202-week03-week-three-lecture-transcript-photography-and-health
@@ -88,6 +90,8 @@ The sources illustrate a variety of creative therapies that have been developed 
 - [fxa100-week12-the-power-of-music-an-exploration-of-the-evidence](../sources/fxa100-week12-the-power-of-music-an-exploration-of-the-evidence.md)
 - [fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric](../sources/fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric.md)
 - [fxa100-week13-mini-mental-state-a-practical-method-for-grading-the](../sources/fxa100-week13-mini-mental-state-a-practical-method-for-grading-the.md)
+- [fxa101-week04-physical-activity-to-improve-cognition-in-older-adults-can](../sources/fxa101-week04-physical-activity-to-improve-cognition-in-older-adults-can.md)
+- [fxa101-week04-the-use-of-commercial-computerised-cognitive-games-in-older](../sources/fxa101-week04-the-use-of-commercial-computerised-cognitive-games-in-older.md)
 - [fxa202-week03-lesson-fxa202-week03-page-2](../sources/fxa202-week03-lesson-fxa202-week03-page-2.md)
 - [fxa202-week03-lesson-fxa202-week03-week-3](../sources/fxa202-week03-lesson-fxa202-week03-week-3.md)
 - [fxa202-week03-week-three-lecture-transcript-photography-and-health](../sources/fxa202-week03-week-three-lecture-transcript-photography-and-health.md)

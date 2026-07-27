@@ -4,13 +4,14 @@ domain: intervention
 slug: arts-based-intervention
 sources:
   - fxa100-creativity-and-communication-ch12-22-measuring-success-evaluation-is-an-ongoing-process-that
+  - fxa101-week04-facilitating-creativity-in-dementia-care-the-co
   - fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon
   - fxa303-week11-preliminary-findings-from-mapping-q-an-arts-based-suicide
 tags:
 - arts-based-intervention
 title: Arts-Based Intervention
 type: topic
-updated: 2026-05-11
+updated: 2026-07-28
 ---
 
 ## Arts-Based Intervention
@@ -30,5 +31,6 @@ The integration of arts-based interventions as a therapeutic tool highlights the
 ## Sources
 
 - [fxa100-creativity-and-communication-ch12-22-measuring-success-evaluation-is-an-ongoing-process-that](../sources/fxa100-creativity-and-communication-ch12-22-measuring-success-evaluation-is-an-ongoing-process-that.md)
+- [fxa101-week04-facilitating-creativity-in-dementia-care-the-co](../sources/fxa101-week04-facilitating-creativity-in-dementia-care-the-co.md)
 - [fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon](../sources/fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon.md)
 - [fxa303-week11-preliminary-findings-from-mapping-q-an-arts-based-suicide](../sources/fxa303-week11-preliminary-findings-from-mapping-q-an-arts-based-suicide.md)

@@ -3,6 +3,7 @@ confidence: low
 domain: intervention
 slug: cultural-participation
 sources:
+  - fxa101-week04-coffee-cake-culture-evaluation-of-an-art-for-health
   - fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26
   - fxa301-oxford-textbook-of-creative-arts-ch24-chapter-8
   - fxa301-week11-best-practice-in-making-museums-more-accessible-to-visually
@@ -11,7 +12,7 @@ tags:
 - cultural-participation
 title: Cultural Participation
 type: topic
-updated: 2026-05-11
+updated: 2026-07-28
 ---
 
 ## Cultural Participation
@@ -30,6 +31,7 @@ The concept of cultural participation revolves around the idea that art and cult
 
 ## Sources
 
+- [fxa101-week04-coffee-cake-culture-evaluation-of-an-art-for-health](../sources/fxa101-week04-coffee-cake-culture-evaluation-of-an-art-for-health.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26](../sources/fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch24-chapter-8](../sources/fxa301-oxford-textbook-of-creative-arts-ch24-chapter-8.md)
 - [fxa301-week11-best-practice-in-making-museums-more-accessible-to-visually](../sources/fxa301-week11-best-practice-in-making-museums-more-accessible-to-visually.md)

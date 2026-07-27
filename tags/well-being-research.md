@@ -6,6 +6,7 @@ updated: 2026-07-28
 
 ## Well Being Research
 
+- [Arts for ageing well: a propensity score matching analysis of the effects of arts engagements on holistic well-being among older Asian adults above 50 years of age](../sources/fxa101-week04-arts-for-ageing-well-a-propensity-score-matching-analysis.md)
 - [Arts, Health and Well-Being: A Critical Perspective on Research, Policy and Practice - Introduction](../sources/fxa202-week10-arts-health-and-well-being-a-critical-perspective-on.md)
 - [Conclusions and implications for future research](../sources/fxa202-week10-conclusions-and-implications-for-future-research.md)
 - [Mih\u00e1ly Cs\u00edkszentmih\u00e1lyi: The Father of Flow](../sources/fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow.md)

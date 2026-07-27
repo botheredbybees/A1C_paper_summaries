@@ -3,13 +3,15 @@ confidence: medium
 domain: population
 slug: arts-participation
 sources:
+  - fxa101-week04-facilitating-arts-participation-for-creative-ageing-an
+  - fxa101-week04-lesson-fxa101-week04-page-4-activities-new-version
   - fxa301-week01-lesson-fxa301-week01-page-3-arts-participation
   - fxa301-week03-creating-our-future-results-of-the-national-arts
 tags:
 - arts-participation
 title: Arts Participation
 type: topic
-updated: 2026-05-11
+updated: 2026-07-28
 ---
 
 ## Arts Participation
@@ -28,5 +30,7 @@ The examination of arts participation reveals a multifaceted understanding acros
 
 ## Sources
 
+- [fxa101-week04-facilitating-arts-participation-for-creative-ageing-an](../sources/fxa101-week04-facilitating-arts-participation-for-creative-ageing-an.md)
+- [fxa101-week04-lesson-fxa101-week04-page-4-activities-new-version](../sources/fxa101-week04-lesson-fxa101-week04-page-4-activities-new-version.md)
 - [fxa301-week01-lesson-fxa301-week01-page-3-arts-participation](../sources/fxa301-week01-lesson-fxa301-week01-page-3-arts-participation.md)
 - [fxa301-week03-creating-our-future-results-of-the-national-arts](../sources/fxa301-week03-creating-our-future-results-of-the-national-arts.md)

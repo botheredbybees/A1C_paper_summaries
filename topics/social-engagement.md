@@ -5,12 +5,13 @@ slug: social-engagement-interventions-for-people-with-dementia
 sources:
   - fxa100-week03-music-therapy-increases-social-and-emotional-well-being-in
   - fxa100-week07-two-art-museum-programs-for-people-with-dementia
+  - fxa101-week04-the-impact-of-professionally-conducted-cultural-programs-on
   - fxa301-week01-making-art-with-communities-a-work-guide
 tags:
 - social-engagement
 title: Social Engagement Interventions for People with Dementia
 type: topic
-updated: 2026-05-11
+updated: 2026-07-28
 ---
 
 ## Social Engagement Interventions for People with Dementia
@@ -31,4 +32,5 @@ This synthesis explores social engagement interventions tailored for individuals
 
 - [fxa100-week03-music-therapy-increases-social-and-emotional-well-being-in](../sources/fxa100-week03-music-therapy-increases-social-and-emotional-well-being-in.md)
 - [fxa100-week07-two-art-museum-programs-for-people-with-dementia](../sources/fxa100-week07-two-art-museum-programs-for-people-with-dementia.md)
+- [fxa101-week04-the-impact-of-professionally-conducted-cultural-programs-on](../sources/fxa101-week04-the-impact-of-professionally-conducted-cultural-programs-on.md)
 - [fxa301-week01-making-art-with-communities-a-work-guide](../sources/fxa301-week01-making-art-with-communities-a-work-guide.md)

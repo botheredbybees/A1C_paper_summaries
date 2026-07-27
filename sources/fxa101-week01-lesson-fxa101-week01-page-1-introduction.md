@@ -11,7 +11,7 @@ tags: ["creativity-and-aging", "brain-health", "journaling-practice", "fxa101", 
 key_concepts: ["mental-wellbeing", "cognitive-decline-prevention", "creative-process-journaling"]
 methods: []
 slug: fxa101-week01-lesson-fxa101-week01-page-1-introduction
-related: ["brain-health", "journaling-practice"]
+related: ["brain-health", "creativity-and-aging", "journaling-practice"]
 created: 2026-07-06
 updated: 2026-07-06
 ---
@@ -42,4 +42,5 @@ The introduction to FXA101 Creativity and Ageing discusses the importance of cre
 ## See Also
 
 - [brain-health](../topics/brain-health.md)
+- [creativity-and-aging](../topics/creativity-and-aging.md)
 - [journaling-practice](../topics/journaling-practice.md)

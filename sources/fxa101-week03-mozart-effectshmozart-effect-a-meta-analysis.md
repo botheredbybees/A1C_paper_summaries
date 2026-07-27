@@ -11,7 +11,7 @@ tags: ["mozart-effect", "meta-analysis", "spatial-reasoning", "neuromyth", "publ
 key_concepts: ["Mozart effect", "spatial reasoning", "publication bias"]
 methods: ["meta-analysis"]
 slug: fxa101-week03-mozart-effectshmozart-effect-a-meta-analysis
-related: ["meta-analysis", "mozart-effect", "spatial-reasoning"]
+related: ["meta-analysis", "mozart-effect", "publication-bias", "spatial-reasoning"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -43,4 +43,5 @@ The study by Pietschnig, Voracek, and Formann (2010) critically examines the con
 
 - [meta-analysis](../topics/meta-analysis.md)
 - [mozart-effect](../topics/mozart-effect.md)
+- [publication-bias](../topics/publication-bias.md)
 - [spatial-reasoning](../topics/spatial-reasoning.md)

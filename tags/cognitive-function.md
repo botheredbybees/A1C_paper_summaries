@@ -15,3 +15,5 @@ updated: 2026-07-28
 - [Improvement of Cognitive Function by Mental and/or Individualized Aerobic Training in Healthy Elderly Subjects](../sources/fxa100-week13-improvement-of-cognitive-function-by-mental-andor.md)
 - [The effect of physical activity on cognitive function in patients with dementia: A meta-analysis of randomized control trials](../sources/fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in.md)
 - [Building Herself a Better Brain: A Woman Labeled \u201cRetarded\u201d Discovers How to Heal Herself](../sources/fxa101-week02-building-herself-a-better-brain-a-woman-labeled-retarded.md)
+- [The use of commercial computerised cognitive games in older adults: a meta-analysis](../sources/fxa101-week04-the-use-of-commercial-computerised-cognitive-games-in-older.md)
+- [Cognitive Exercise and Its Role in Cognitive Function in Older Adults](../sources/fxa101-week04-web-article-gates-2010.md)

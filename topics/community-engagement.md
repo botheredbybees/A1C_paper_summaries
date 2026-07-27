@@ -10,6 +10,7 @@ sources:
   - fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of
   - fxa100-week08-lesson-fxa100-week07-page-3-stimulating-engagement
   - fxa100-week11-dancer-not-dementia-canadas-national-ballet-school
+  - fxa101-week04-case-study-engaging-older-people-in-creative-thinkingthe
   - fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using
   - fxa202-week13-using-photovoice-as-a-tool-to-engage-social-work-students
   - fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts
@@ -79,7 +80,7 @@ tags:
 - community-engagement
 title: Community Engagement
 type: topic
-updated: 2026-07-06
+updated: 2026-07-28
 ---
 
 ## Community Engagement
@@ -105,6 +106,7 @@ Community engagement is a multifaceted intervention aimed at fostering participa
 - [fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of](../sources/fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of.md)
 - [fxa100-week08-lesson-fxa100-week07-page-3-stimulating-engagement](../sources/fxa100-week08-lesson-fxa100-week07-page-3-stimulating-engagement.md)
 - [fxa100-week11-dancer-not-dementia-canadas-national-ballet-school](../sources/fxa100-week11-dancer-not-dementia-canadas-national-ballet-school.md)
+- [fxa101-week04-case-study-engaging-older-people-in-creative-thinkingthe](../sources/fxa101-week04-case-study-engaging-older-people-in-creative-thinkingthe.md)
 - [fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using](../sources/fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using.md)
 - [fxa202-week13-using-photovoice-as-a-tool-to-engage-social-work-students](../sources/fxa202-week13-using-photovoice-as-a-tool-to-engage-social-work-students.md)
 - [fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts](../sources/fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts.md)

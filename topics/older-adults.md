@@ -5,13 +5,14 @@ slug: falls-prevention-in-older-adults
 sources:
   - fxa100-week13-knowledge-and-health-beliefs-about-dementia-prevention
   - fxa100-week13-measuring-the-care-risk-in-older-adults-with-dementia-a
+  - fxa101-week04-case-study-engaging-older-people-in-creative-thinkingthe
   - fxa301-week01-missing-out-creative-ageing-and-men
   - fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention
 tags:
 - older-adults
 title: Falls Prevention in Older Adults
 type: topic
-updated: 2026-05-15
+updated: 2026-07-28
 ---
 
 ## Falls Prevention in Older Adults
@@ -32,5 +33,6 @@ The topic of falls prevention among older adults is addressed through two distin
 
 - [fxa100-week13-knowledge-and-health-beliefs-about-dementia-prevention](../sources/fxa100-week13-knowledge-and-health-beliefs-about-dementia-prevention.md)
 - [fxa100-week13-measuring-the-care-risk-in-older-adults-with-dementia-a](../sources/fxa100-week13-measuring-the-care-risk-in-older-adults-with-dementia-a.md)
+- [fxa101-week04-case-study-engaging-older-people-in-creative-thinkingthe](../sources/fxa101-week04-case-study-engaging-older-people-in-creative-thinkingthe.md)
 - [fxa301-week01-missing-out-creative-ageing-and-men](../sources/fxa301-week01-missing-out-creative-ageing-and-men.md)
 - [fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention](../sources/fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention.md)

@@ -7,6 +7,7 @@ updated: 2026-07-28
 ## Mental Well Being
 
 - [Nurturing the Heart: Creativity, Art Therapy and Dementia](../sources/fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia.md)
+- [The Impact of Professionally Conducted Cultural Programs on the Physical Health, Mental Health, and Social Functioning of Older Adults](../sources/fxa101-week04-the-impact-of-professionally-conducted-cultural-programs-on.md)
 - [Journaling Books Review](../sources/fxa202-week09-journaling-books-review.md)
 - [Arts, public health and the National Arts and Health Framework: a lexicon for health professionals](../sources/fxa301-week03-arts-public-health-and-the-national-arts-and-health.md)
 - [The art of being mentally healthy: a study to quantify the relationship between recreational arts engagement and mental well-being in the general population](../sources/fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the.md)

@@ -15,6 +15,8 @@ updated: 2026-07-28
 - [Dancing as a psychosocial intervention in care homes: a systematic review of the literature](../sources/fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a.md)
 - [Group Arts Interventions for Depression and Anxiety Among Older Adults: A Systematic Review and Meta-Analysis](../sources/fxa100-week13-group-arts-interventions-for-depression-and-anxiety-among.md)
 - [Health benefits of physical activity: a systematic review of current systematic reviews](../sources/fxa100-week13-health-benefits-of-physical-activity-a-systematic-review-of.md)
+- [Cognitive and memory training in adults at risk of dementia: A Systematic Review](../sources/fxa101-week04-cognitive-and-memory-training-in-adults-at-risk-of-dementia.md)
+- [Late-life Cognitive Activity and Dementia: A Systematic Review and Bias Analysis](../sources/fxa101-week04-late-life-cognitive-activity-and-dementia-a-systematic.md)
 - [Therapeutic benefits and limitations of participatory photography for adults with mental health problems: A systematic search and literature review](../sources/fxa202-week13-therapeutic-benefits-and-limitations-of-participatory.md)
 - [Rating the Quality of a Body of Evidence on the Effectiveness of Health and Social Interventions: A Systematic Review and Mapping of Evidence Domains](../sources/fxa301-week01-rating-the-quality-of-a-body-of-evidence-on-the.md)
 - [Revised Cochrane risk of bias tool for randomized trials (RoB 2) \u2014 Additional considerations for crossover trials](../sources/fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-%282%29.md)

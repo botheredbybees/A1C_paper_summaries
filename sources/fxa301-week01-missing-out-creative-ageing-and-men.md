@@ -11,7 +11,7 @@ tags: ["arts-accessibility", "creative-ageing", "fxa301", "gender-equity", "male
 key_concepts: ["participatory arts", "creative ageing"]
 methods: ["case study"]
 slug: fxa301-week01-missing-out-creative-ageing-and-men
-related: ["gender-equity", "older-adults"]
+related: ["creative-ageing", "gender-equity", "older-adults"]
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -41,5 +41,6 @@ This report by David Cutler for the Baring Foundation explores the underrepresen
 
 ## See Also
 
+- [creative-ageing](../topics/creative-ageing.md)
 - [gender-equity](../topics/gender-equity.md)
 - [older-adults](../topics/older-adults.md)

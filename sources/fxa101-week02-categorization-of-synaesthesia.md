@@ -11,7 +11,7 @@ tags: ["synaesthesia-classification", "cognitive-neuroscience", "perceptual-cogn
 key_concepts: ["types-of-synaesthesia", "compensatory-functions", "integrative-functions"]
 methods: ["literature-review"]
 slug: fxa101-week02-categorization-of-synaesthesia
-related: ["cognitive-neuroscience"]
+related: ["cognitive-neuroscience", "perceptual-cognition"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -43,3 +43,4 @@ Aleksandra Rogowska's article synthesizes current knowledge about synaesthesia a
 ## See Also
 
 - [cognitive-neuroscience](../topics/cognitive-neuroscience.md)
+- [perceptual-cognition](../topics/perceptual-cognition.md)

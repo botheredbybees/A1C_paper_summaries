@@ -33,6 +33,7 @@ updated: 2026-07-28
 - [Exploring nature-based art therapy: a scoping review](../sources/fxa100-week12-exploring-nature-based-art-therapy-a-scoping-review.md)
 - [Exploring Ethical Considerations in Art Therapy](../sources/fxa100-week13-exploring-ethical-considerations-in-art-therapy.md)
 - [The Future of Art Therapy in Mental Health Treatment](../sources/fxa100-week13-the-future-of-art-therapy-in-mental-health-treatment.md)
+- [Creativity and dementia: Does artistic activity affect well-being beyond the art class?](../sources/fxa101-week04-creativity-and-dementia-does-artistic-activity-affect-well.md)
 - [Donna: A Photo Essay](../sources/fxa202-week06-donna-a-photo-essay.md)
 - [My Photo Essay: Storytelling Through Art and Mental Health](../sources/fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health.md)
 - [Identity, Connection, and Motivation](../sources/fxa202-week10-identity-connection-and-motivation.md)

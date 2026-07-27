@@ -12,13 +12,15 @@ sources:
   - fxa101-week03-lesson-fxa101-week03-page-1-week-3-introduction
   - fxa101-week03-social-isolation-cognitive-reserve-and-cognition-in-healthy
   - fxa101-week03-the-impact-of-cognitive-reserve-on-neuropsychological
+  - fxa101-week04-education-the-brain-and-dementia-neuroprotection-or
+  - fxa101-week04-lesson-fxa101-week04-week-3
   - fxa301-week08-lesson-fxa301-week07-page-1
   - fxa303-play-for-health-across-the-lifespan-ch02-chapter-8
 tags:
 - cognitive-reserve
 title: Cognitive Reserve
 type: topic
-updated: 2026-07-20
+updated: 2026-07-28
 ---
 
 ## Cognitive Reserve
@@ -46,5 +48,7 @@ The concept of cognitive reserve highlights the brain's ability to adapt and com
 - [fxa101-week03-lesson-fxa101-week03-page-1-week-3-introduction](../sources/fxa101-week03-lesson-fxa101-week03-page-1-week-3-introduction.md)
 - [fxa101-week03-social-isolation-cognitive-reserve-and-cognition-in-healthy](../sources/fxa101-week03-social-isolation-cognitive-reserve-and-cognition-in-healthy.md)
 - [fxa101-week03-the-impact-of-cognitive-reserve-on-neuropsychological](../sources/fxa101-week03-the-impact-of-cognitive-reserve-on-neuropsychological.md)
+- [fxa101-week04-education-the-brain-and-dementia-neuroprotection-or](../sources/fxa101-week04-education-the-brain-and-dementia-neuroprotection-or.md)
+- [fxa101-week04-lesson-fxa101-week04-week-3](../sources/fxa101-week04-lesson-fxa101-week04-week-3.md)
 - [fxa301-week08-lesson-fxa301-week07-page-1](../sources/fxa301-week08-lesson-fxa301-week07-page-1.md)
 - [fxa303-play-for-health-across-the-lifespan-ch02-chapter-8](../sources/fxa303-play-for-health-across-the-lifespan-ch02-chapter-8.md)

@@ -3,6 +3,7 @@ confidence: high
 domain: theory
 slug: well-being-research
 sources:
+  - fxa101-week04-arts-for-ageing-well-a-propensity-score-matching-analysis
   - fxa202-week10-arts-health-and-well-being-a-critical-perspective-on
   - fxa202-week10-conclusions-and-implications-for-future-research
   - fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow
@@ -16,7 +17,7 @@ tags:
 - well-being-research
 title: Well-Being Research
 type: topic
-updated: 2026-07-06
+updated: 2026-07-28
 ---
 
 ## Well-Being Research
@@ -35,6 +36,7 @@ Research on well-being through the lens of arts and health intersects social-pol
 
 ## Sources
 
+- [fxa101-week04-arts-for-ageing-well-a-propensity-score-matching-analysis](../sources/fxa101-week04-arts-for-ageing-well-a-propensity-score-matching-analysis.md)
 - [fxa202-week10-arts-health-and-well-being-a-critical-perspective-on](../sources/fxa202-week10-arts-health-and-well-being-a-critical-perspective-on.md)
 - [fxa202-week10-conclusions-and-implications-for-future-research](../sources/fxa202-week10-conclusions-and-implications-for-future-research.md)
 - [fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow](../sources/fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow.md)

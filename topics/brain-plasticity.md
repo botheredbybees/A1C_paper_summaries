@@ -14,6 +14,7 @@ sources:
   - fxa101-week03-cognitive-reserve-in-ageing-and-alzheimers-disease
   - fxa101-week03-imagination-how-thinking-makes-it-so
   - fxa101-week03-poverty-stress-and-brain-development-new-directions-for
+  - fxa101-week04-the-neurogenic-reserve-hypothesis-what-is-adult-hippocampal
   - fxa300-week02-understanding-the-brain-the-birth-of-a-learning-science
   - fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians
   - fxa303-week02-infancy-and-the-early-years
@@ -26,7 +27,7 @@ tags:
 - brain-plasticity
 title: Brain Plasticity
 type: topic
-updated: 2026-07-20
+updated: 2026-07-28
 ---
 
 ## Brain Plasticity
@@ -60,6 +61,7 @@ However, despite compelling evidence of morphological changes induced by musical
 - [fxa101-week03-cognitive-reserve-in-ageing-and-alzheimers-disease](../sources/fxa101-week03-cognitive-reserve-in-ageing-and-alzheimers-disease.md)
 - [fxa101-week03-imagination-how-thinking-makes-it-so](../sources/fxa101-week03-imagination-how-thinking-makes-it-so.md)
 - [fxa101-week03-poverty-stress-and-brain-development-new-directions-for](../sources/fxa101-week03-poverty-stress-and-brain-development-new-directions-for.md)
+- [fxa101-week04-the-neurogenic-reserve-hypothesis-what-is-adult-hippocampal](../sources/fxa101-week04-the-neurogenic-reserve-hypothesis-what-is-adult-hippocampal.md)
 - [fxa300-week02-understanding-the-brain-the-birth-of-a-learning-science](../sources/fxa300-week02-understanding-the-brain-the-birth-of-a-learning-science.md)
 - [fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians](../sources/fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians.md)
 - [fxa303-week02-infancy-and-the-early-years](../sources/fxa303-week02-infancy-and-the-early-years.md)

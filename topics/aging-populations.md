@@ -3,13 +3,14 @@ confidence: medium
 domain: intervention
 slug: creative-arts-engagement-for-aging-populations
 sources:
+  - fxa101-week04-arts-for-ageing-well-a-propensity-score-matching-analysis
   - fxa301-week03-lesson-fxa301-week03-page-1
   - fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community
 tags:
 - aging-populations
 title: Creative Arts Engagement for Aging Populations
 type: topic
-updated: 2026-05-11
+updated: 2026-07-28
 ---
 
 ## Creative Arts Engagement for Aging Populations
@@ -27,5 +28,6 @@ The integration of creative arts into community settings emerges as a potent int
 
 ## Sources
 
+- [fxa101-week04-arts-for-ageing-well-a-propensity-score-matching-analysis](../sources/fxa101-week04-arts-for-ageing-well-a-propensity-score-matching-analysis.md)
 - [fxa301-week03-lesson-fxa301-week03-page-1](../sources/fxa301-week03-lesson-fxa301-week03-page-1.md)
 - [fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community](../sources/fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community.md)

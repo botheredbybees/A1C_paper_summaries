@@ -11,7 +11,7 @@ tags: ["cognitive-reserve", "neural-capacity", "dementia-risk", "brain-health", 
 key_concepts: ["cognitive-reserve", "neural-reserve-capacity", "dementia-protection"]
 methods: ["longitudinal-study"]
 slug: fxa101-week03-assessment-of-lifetime-participation-in-cognitively
-related: ["alzheimers-disease", "brain-health", "cognitive-reserve", "lifelong-learning"]
+related: ["alzheimers-disease", "brain-health", "cognitive-reserve", "dementia-risk", "lifelong-learning"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -47,4 +47,5 @@ The chapter discusses the concept of cognitive reserve and its relation to neura
 - [alzheimers-disease](../topics/alzheimers-disease.md)
 - [brain-health](../topics/brain-health.md)
 - [cognitive-reserve](../topics/cognitive-reserve.md)
+- [dementia-risk](../topics/dementia-risk.md)
 - [lifelong-learning](../topics/lifelong-learning.md)

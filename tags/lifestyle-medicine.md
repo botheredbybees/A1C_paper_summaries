@@ -6,6 +6,7 @@ updated: 2026-07-28
 
 ## Lifestyle Medicine
 
+- [Lifestyle medicine for healthy cognitive aging: A narrative review](../sources/fxa101-week04-lifestyle-medicine-for-healthy-cognitive-aging-a-narrative.md)
 - [The Laughter Prescription: A Tool for Lifestyle Medicine](../sources/fxa301-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine.md)
 - [The Laughter Prescription: A Tool for Lifestyle Medicine](../sources/fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine.md)
 - [Introduction to Lifestyle Medicine](../sources/psy214-week04-introduction-to-lifestyle-medicine.md)

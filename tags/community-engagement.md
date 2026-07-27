@@ -13,6 +13,7 @@ updated: 2026-07-28
 - [Arts in Dementia Care: This is not the end... if it's the end of this chapter](../sources/fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of.md)
 - [Stimulating Engagement Through Participation in Visual Arts Projects](../sources/fxa100-week08-lesson-fxa100-week07-page-3-stimulating-engagement.md)
 - [Dancer Not Dementia | Canada's National Ballet School](../sources/fxa100-week11-dancer-not-dementia-canadas-national-ballet-school.md)
+- [Case study: engaging older people in creative thinking\u2014the Active Energy project](../sources/fxa101-week04-case-study-engaging-older-people-in-creative-thinkingthe.md)
 - [The daily digital practice as a form of self-care: Using photography for everyday well-being](../sources/fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using.md)
 - [Using Photovoice as a Tool to Engage Social Work Students in Social Justice](../sources/fxa202-week13-using-photovoice-as-a-tool-to-engage-social-work-students.md)
 - [Meeting Community Needs Through Ethnomusicology](../sources/fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts.md)

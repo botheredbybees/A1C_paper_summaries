@@ -11,7 +11,7 @@ tags: ["autism-spectrum-disorder", "dramatherapy", "systematic-review", "child-p
 key_concepts: ["Autism Spectrum Disorder (ASD)", "dramatherapy"]
 methods: ["systematic review"]
 slug: fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism
-related: ["autism-spectrum-disorder", "child-psychology", "dramatherapy", "systematic-review"]
+related: ["autism-spectrum-disorder", "behavioral-interventions", "child-psychology", "dramatherapy", "systematic-review"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,6 +43,7 @@ This systematic integrative review explores the impact of dramatherapy on childr
 ## See Also
 
 - [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)
+- [behavioral-interventions](../topics/behavioral-interventions.md)
 - [child-psychology](../topics/child-psychology.md)
 - [dramatherapy](../topics/dramatherapy.md)
 - [systematic-review](../topics/systematic-review.md)

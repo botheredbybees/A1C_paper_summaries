@@ -7,12 +7,14 @@ sources:
   - fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2)
   - fxa100-week11-dance-for-lifelong-wellbeing-research-findings-2017
   - fxa100-week13-2018-alzheimers-disease-facts-and-figures
+  - fxa101-week04-creativity-in-later-life
+  - fxa101-week04-the-use-of-commercial-computerised-cognitive-games-in-older
   - fxa303-week13-intervention-and-application-of-clown-care-in-nursing-homes
 tags:
 - aging-population
 title: Arts and Creativity Interventions for Older Adults
 type: topic
-updated: 2026-05-15
+updated: 2026-07-28
 ---
 
 ## Arts and Creativity Interventions for Older Adults
@@ -35,4 +37,6 @@ This synthesis explores the efficacy and economic impact of arts and creativity 
 - [fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2)](../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-%282%29.md)
 - [fxa100-week11-dance-for-lifelong-wellbeing-research-findings-2017](../sources/fxa100-week11-dance-for-lifelong-wellbeing-research-findings-2017.md)
 - [fxa100-week13-2018-alzheimers-disease-facts-and-figures](../sources/fxa100-week13-2018-alzheimers-disease-facts-and-figures.md)
+- [fxa101-week04-creativity-in-later-life](../sources/fxa101-week04-creativity-in-later-life.md)
+- [fxa101-week04-the-use-of-commercial-computerised-cognitive-games-in-older](../sources/fxa101-week04-the-use-of-commercial-computerised-cognitive-games-in-older.md)
 - [fxa303-week13-intervention-and-application-of-clown-care-in-nursing-homes](../sources/fxa303-week13-intervention-and-application-of-clown-care-in-nursing-homes.md)

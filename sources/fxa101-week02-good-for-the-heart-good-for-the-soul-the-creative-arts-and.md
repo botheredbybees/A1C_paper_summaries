@@ -11,7 +11,7 @@ tags: ["creative-arts-interventions", "aging-brain-health", "cognitive-resilienc
 key_concepts: ["brain-development-theory", "hormesis-hypothesis", "gene-cohen-research"]
 methods: ["case-study", "longitudinal-analysis"]
 slug: fxa101-week02-good-for-the-heart-good-for-the-soul-the-creative-arts-and
-related: ["creative-arts-interventions"]
+related: ["cognitive-resilience", "creative-arts-interventions"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -43,4 +43,5 @@ This article explores the relationship between participation in creative arts pr
 
 ## See Also
 
+- [cognitive-resilience](../topics/cognitive-resilience.md)
 - [creative-arts-interventions](../topics/creative-arts-interventions.md)

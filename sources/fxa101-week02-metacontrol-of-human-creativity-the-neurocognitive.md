@@ -11,7 +11,7 @@ tags: ["neurocognitive-mechanisms", "creativity-research", "brain-function", "fx
 key_concepts: ["convergent-thinking", "divergent-thinking", "metacontrol-states"]
 methods: ["review-study"]
 slug: fxa101-week02-metacontrol-of-human-creativity-the-neurocognitive
-related: ["brain-function", "convergent-thinking"]
+related: ["brain-function", "convergent-thinking", "creativity-research"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -43,3 +43,4 @@ This article reviews the neurocognitive mechanisms underlying divergent and conv
 
 - [brain-function](../topics/brain-function.md)
 - [convergent-thinking](../topics/convergent-thinking.md)
+- [creativity-research](../topics/creativity-research.md)

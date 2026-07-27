@@ -11,7 +11,7 @@ tags: ["music-and-productivity", "workplace-mood", "cognitive-performance", "fxa
 key_concepts: ["Mozart effect", "state-of-arousal theory"]
 methods: ["systematic review"]
 slug: fxa301-week06-does-music-help-us-work-better-it-depends
-related: []
+related: ["cognitive-performance"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,4 +40,4 @@ The debate over whether listening to music enhances productivity at work has a l
 
 ## See Also
 
-*(none yet)*
+- [cognitive-performance](../topics/cognitive-performance.md)

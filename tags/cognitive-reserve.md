@@ -14,4 +14,6 @@ updated: 2026-07-28
 - [Creativity, the Arts and Brain Development](../sources/fxa101-week03-lesson-fxa101-week03-page-1-week-3-introduction.md)
 - [Social isolation, cognitive reserve, and cognition in healthy older people](../sources/fxa101-week03-social-isolation-cognitive-reserve-and-cognition-in-healthy.md)
 - [The impact of cognitive reserve on neuropsychological measures in clinical trials](../sources/fxa101-week03-the-impact-of-cognitive-reserve-on-neuropsychological.md)
+- [Education, the brain and dementia: neuroprotection or compensation?](../sources/fxa101-week04-education-the-brain-and-dementia-neuroprotection-or.md)
+- [Brain Changes in Ageing](../sources/fxa101-week04-lesson-fxa101-week04-week-3.md)
 - [Case Stories and Playful Interventions for Managing Frailty in Aging](../sources/fxa303-play-for-health-across-the-lifespan-ch02-chapter-8.md)

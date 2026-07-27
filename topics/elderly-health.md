@@ -8,6 +8,8 @@ sources:
   - fxa100-week13-effects-of-10-weeks-classical-chinese-dance-training-on
   - fxa100-week13-improvement-of-cognitive-function-by-mental-andor
   - fxa100-week13-validation-of-the-chinese-translation-of-the-6-item-de-jong
+  - fxa101-week04-creativity-in-later-life
+  - fxa101-week04-the-impact-of-professionally-conducted-cultural-programs-on
   - fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35
   - fxa301-week01-a-qualitative-investigation-of-older-adults
   - fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older
@@ -17,7 +19,7 @@ tags:
 - elderly-health
 title: Health Interventions for Elderly Adults
 type: topic
-updated: 2026-05-15
+updated: 2026-07-28
 ---
 
 ## Health Interventions for Elderly Adults
@@ -41,6 +43,8 @@ The integration of health interventions aimed at elderly adults highlights both 
 - [fxa100-week13-effects-of-10-weeks-classical-chinese-dance-training-on](../sources/fxa100-week13-effects-of-10-weeks-classical-chinese-dance-training-on.md)
 - [fxa100-week13-improvement-of-cognitive-function-by-mental-andor](../sources/fxa100-week13-improvement-of-cognitive-function-by-mental-andor.md)
 - [fxa100-week13-validation-of-the-chinese-translation-of-the-6-item-de-jong](../sources/fxa100-week13-validation-of-the-chinese-translation-of-the-6-item-de-jong.md)
+- [fxa101-week04-creativity-in-later-life](../sources/fxa101-week04-creativity-in-later-life.md)
+- [fxa101-week04-the-impact-of-professionally-conducted-cultural-programs-on](../sources/fxa101-week04-the-impact-of-professionally-conducted-cultural-programs-on.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35](../sources/fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35.md)
 - [fxa301-week01-a-qualitative-investigation-of-older-adults](../sources/fxa301-week01-a-qualitative-investigation-of-older-adults.md)
 - [fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older](../sources/fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older.md)

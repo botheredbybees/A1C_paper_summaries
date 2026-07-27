@@ -188,6 +188,8 @@ updated: 2026-07-28
 - [Measuring the care risk in older adults with dementia: a scoping review](../sources/fxa100-week13-measuring-the-care-risk-in-older-adults-with-dementia-a.md)
 - [Music Interventions for People with Dementia: A Review of the Literature](../sources/fxa100-week13-music-interventions-for-people-with-dementia-a-review-of.md)
 - [Non-pharmacological Interventions to Reduce Behavioral and Psychological Symptoms of Dementia](../sources/fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and.md)
+- [Creativity and dementia: Does artistic activity affect well-being beyond the art class?](../sources/fxa101-week04-creativity-and-dementia-does-artistic-activity-affect-well.md)
+- [Facilitating creativity in dementia care: the co-construction of arts-based engagement](../sources/fxa101-week04-facilitating-creativity-in-dementia-care-the-co.md)
 - [Critical Reflection on '28 Solomon Street': A Photo Essay](../sources/fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay.md)
 - [Apples Never Fall: Exploring the Role of Food in Family Wellbeing and Memory through Therapeutic Photography](../sources/fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family.md)
 - [A Focus on the Reminiscence Bump to Personalize Music Playlists for Dementia](../sources/fxa300-week03-a-focus-on-the-reminiscence-bump-to-personalize-music.md)

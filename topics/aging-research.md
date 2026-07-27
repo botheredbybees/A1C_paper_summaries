@@ -7,13 +7,15 @@ sources:
   - fxa100-week13-physical-activity-and-exercise-as-countermeasures-to
   - fxa101-week01-creativity-is-good-for-the-brain-and-might-even-slow-down
   - fxa101-week03-social-isolation-cognitive-reserve-and-cognition-in-healthy
+  - fxa101-week04-brain-training-using-cognitive-apps-can-improve-cognitive
+  - fxa101-week04-physical-activity-to-improve-cognition-in-older-adults-can
   - fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster
   - fxa303-week13-evaluation-of-a-standardized-humor-group-in-a-clinical
 tags:
 - aging-research
 title: Personalized Risk Profiling And Physical Activity In Aging Research
 type: topic
-updated: 2026-07-20
+updated: 2026-07-28
 ---
 
 ## Personalized Risk Profiling And Physical Activity In Aging Research
@@ -36,5 +38,7 @@ This synthesis integrates findings from two aging-related research studies. The 
 - [fxa100-week13-physical-activity-and-exercise-as-countermeasures-to](../sources/fxa100-week13-physical-activity-and-exercise-as-countermeasures-to.md)
 - [fxa101-week01-creativity-is-good-for-the-brain-and-might-even-slow-down](../sources/fxa101-week01-creativity-is-good-for-the-brain-and-might-even-slow-down.md)
 - [fxa101-week03-social-isolation-cognitive-reserve-and-cognition-in-healthy](../sources/fxa101-week03-social-isolation-cognitive-reserve-and-cognition-in-healthy.md)
+- [fxa101-week04-brain-training-using-cognitive-apps-can-improve-cognitive](../sources/fxa101-week04-brain-training-using-cognitive-apps-can-improve-cognitive.md)
+- [fxa101-week04-physical-activity-to-improve-cognition-in-older-adults-can](../sources/fxa101-week04-physical-activity-to-improve-cognition-in-older-adults-can.md)
 - [fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster](../sources/fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster.md)
 - [fxa303-week13-evaluation-of-a-standardized-humor-group-in-a-clinical](../sources/fxa303-week13-evaluation-of-a-standardized-humor-group-in-a-clinical.md)

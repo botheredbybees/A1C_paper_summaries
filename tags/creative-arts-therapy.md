@@ -10,6 +10,7 @@ updated: 2026-07-28
 - [Efficacy of Creative Arts Therapy in Treatment of Alzheimer\u2019s Disease and Dementia: A Systematic Literature Review](../sources/fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of.md)
 - [Efficacy of Creative Arts Therapy in Treatment of Alzheimer\u2019s Disease and Dementia: A Systematic Literature Review](../sources/fxa100-week12-efficacy-of-creative-arts-therapy-in-treatment-of.md)
 - [Using Creative Arts Therapy to Promote Academic Success in the Postsecondary Setting: A Secondary Narrative Review of Preliminary Findings from 2009 to 2019](../sources/fxa100-week13-using-creative-arts-therapy-to-promote-academic-success-in.md)
+- [Creativity throughout life](../sources/fxa101-week04-lesson-fxa101-week04-chapter-3-creativity-throughout-life.md)
 - [The Art and Science of Dance/Movement Therapy](../sources/fxa301-week06-the-art-and-science-of-dancemovement-therapy.md)
 - [A Systematic Review of the Efficacy of Creative Arts Therapies in the Treatment of Adults With PTSD](../sources/fxa301-week10-a-systematic-review-of-the-efficacy-of-creative-arts.md)
 - [Using Creative Arts in Trauma Therapy: The Neuroscience of Healing](../sources/fxa301-week10-using-creative-arts-in-trauma-therapy-the-neuroscience-of.md)

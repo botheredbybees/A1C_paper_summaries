@@ -3,13 +3,14 @@ confidence: medium
 domain: intervention
 slug: active-energy-project-in-renewable-energy
 sources:
+  - fxa101-week04-case-study-engaging-older-people-in-creative-thinkingthe
   - fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30
   - fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2)
 tags:
 - renewable-energy
 title: Active Energy Project in Renewable Energy
 type: topic
-updated: 2026-05-11
+updated: 2026-07-28
 ---
 
 ## Active Energy Project in Renewable Energy
@@ -28,5 +29,6 @@ The Active Energy project focuses on integrating renewable energy practices with
 
 ## Sources
 
+- [fxa101-week04-case-study-engaging-older-people-in-creative-thinkingthe](../sources/fxa101-week04-case-study-engaging-older-people-in-creative-thinkingthe.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30](../sources/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-%282%29.md)

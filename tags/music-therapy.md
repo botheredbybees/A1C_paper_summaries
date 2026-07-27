@@ -85,6 +85,7 @@ updated: 2026-07-28
 - [Music Interventions for People with Dementia: A Review of the Literature](../sources/fxa100-week13-music-interventions-for-people-with-dementia-a-review-of.md)
 - [The Effect from Music Therapy Upon Alzheimer's Illness](../sources/fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness.md)
 - [The Role of Arts in Childhood and Adolescence](../sources/fxa101-week03-lesson-fxa101-week03-page-3-the-role-of-the-arts-in.md)
+- [Intergenerational music-making: a vehicle for active ageing for children and older people](../sources/fxa101-week04-intergenerational-music-making-a-vehicle-for-active-ageing.md)
 - [How music affects your baby\u2019s brain: Mini Parenting Master Class](../sources/fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master.md)
 - [Arts in Health: Designing and researching interventions - Neurology](../sources/fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the.md)
 - [Projects Using Music for Social, Health and Economic Issues](../sources/fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music.md)

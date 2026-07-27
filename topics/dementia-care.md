@@ -185,6 +185,8 @@ sources:
   - fxa100-week13-measuring-the-care-risk-in-older-adults-with-dementia-a
   - fxa100-week13-music-interventions-for-people-with-dementia-a-review-of
   - fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and
+  - fxa101-week04-creativity-and-dementia-does-artistic-activity-affect-well
+  - fxa101-week04-facilitating-creativity-in-dementia-care-the-co
   - fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay
   - fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family
   - fxa300-week03-a-focus-on-the-reminiscence-bump-to-personalize-music
@@ -221,7 +223,7 @@ tags:
 - dementia-care
 title: Dementia Care Interventions
 type: topic
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Dementia Care Interventions
@@ -422,6 +424,8 @@ The integration of creative arts and technology in dementia care reveals diverse
 - [fxa100-week13-measuring-the-care-risk-in-older-adults-with-dementia-a](../sources/fxa100-week13-measuring-the-care-risk-in-older-adults-with-dementia-a.md)
 - [fxa100-week13-music-interventions-for-people-with-dementia-a-review-of](../sources/fxa100-week13-music-interventions-for-people-with-dementia-a-review-of.md)
 - [fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and](../sources/fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and.md)
+- [fxa101-week04-creativity-and-dementia-does-artistic-activity-affect-well](../sources/fxa101-week04-creativity-and-dementia-does-artistic-activity-affect-well.md)
+- [fxa101-week04-facilitating-creativity-in-dementia-care-the-co](../sources/fxa101-week04-facilitating-creativity-in-dementia-care-the-co.md)
 - [fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay](../sources/fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay.md)
 - [fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family](../sources/fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family.md)
 - [fxa300-week03-a-focus-on-the-reminiscence-bump-to-personalize-music](../sources/fxa300-week03-a-focus-on-the-reminiscence-bump-to-personalize-music.md)

@@ -4,6 +4,7 @@ domain: intervention
 slug: mental-well-being-through-creative-practices
 sources:
   - fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia
+  - fxa101-week04-the-impact-of-professionally-conducted-cultural-programs-on
   - fxa202-week09-journaling-books-review
   - fxa301-week03-arts-public-health-and-the-national-arts-and-health
   - fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the
@@ -13,7 +14,7 @@ tags:
 - mental-well-being
 title: Mental Well-being Through Creative Practices
 type: topic
-updated: 2026-06-25
+updated: 2026-07-28
 ---
 
 ## Mental Well-being Through Creative Practices
@@ -33,6 +34,7 @@ The integration of creative practices such as art therapy and journaling into me
 ## Sources
 
 - [fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia](../sources/fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia.md)
+- [fxa101-week04-the-impact-of-professionally-conducted-cultural-programs-on](../sources/fxa101-week04-the-impact-of-professionally-conducted-cultural-programs-on.md)
 - [fxa202-week09-journaling-books-review](../sources/fxa202-week09-journaling-books-review.md)
 - [fxa301-week03-arts-public-health-and-the-national-arts-and-health](../sources/fxa301-week03-arts-public-health-and-the-national-arts-and-health.md)
 - [fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the](../sources/fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the.md)

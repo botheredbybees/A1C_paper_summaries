@@ -3,13 +3,14 @@ confidence: medium
 domain: intervention
 slug: arts-activities-for-youth-resilience
 sources:
+  - fxa101-week04-coffee-cake-culture-evaluation-of-an-art-for-health
   - fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and
   - fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and
 tags:
 - community-interventions
 title: Arts Activities for Youth Resilience
 type: topic
-updated: 2026-05-11
+updated: 2026-07-28
 ---
 
 ## Arts Activities for Youth Resilience
@@ -27,5 +28,6 @@ The reviewed literature emphasizes the role of arts activities in fostering resi
 
 ## Sources
 
+- [fxa101-week04-coffee-cake-culture-evaluation-of-an-art-for-health](../sources/fxa101-week04-coffee-cake-culture-evaluation-of-an-art-for-health.md)
 - [fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and](../sources/fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and.md)
 - [fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and](../sources/fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and.md)

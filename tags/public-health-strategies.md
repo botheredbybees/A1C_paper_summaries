@@ -6,6 +6,7 @@ updated: 2026-07-28
 
 ## Public Health Strategies
 
+- [Lifestyle medicine for healthy cognitive aging: A narrative review](../sources/fxa101-week04-lifestyle-medicine-for-healthy-cognitive-aging-a-narrative.md)
 - [Arts for Health and Wellbeing: An Evaluation Framework](../sources/fxa301-week01-arts-for-health-and-wellbeing-an-evaluation-framework.md)
 - [Arts, Health, and Well-Being in America](../sources/fxa301-week03-arts-health-and-well-being-in-america.md)
 - [Museums and Health: Emerging Spatial Practices](../sources/fxa301-week05-museums-and-health-emerging-spatial-practices.md)

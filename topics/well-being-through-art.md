@@ -5,11 +5,12 @@ slug: well-being-through-art
 sources:
   - fxa100-week04-what-is-singing-for-the-brain
   - fxa100-week08-why-the-arts
+  - fxa101-week04-creativity-in-older-adults-a-plethora-of-possibilities
 tags:
 - well-being-through-art
 title: Well-being Through Art
 type: topic
-updated: 2026-05-11
+updated: 2026-07-28
 ---
 
 ## Well-being Through Art
@@ -30,3 +31,4 @@ The integration of art-based interventions for promoting well-being reveals a co
 
 - [fxa100-week04-what-is-singing-for-the-brain](../sources/fxa100-week04-what-is-singing-for-the-brain.md)
 - [fxa100-week08-why-the-arts](../sources/fxa100-week08-why-the-arts.md)
+- [fxa101-week04-creativity-in-older-adults-a-plethora-of-possibilities](../sources/fxa101-week04-creativity-in-older-adults-a-plethora-of-possibilities.md)

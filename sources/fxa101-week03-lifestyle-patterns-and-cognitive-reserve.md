@@ -11,7 +11,7 @@ tags: ["cognitive-reserve-theory", "alzheimers-disease", "lifestyle-factors", "n
 key_concepts: ["cognitive reserve theory", "life experiences", "intellectual functioning"]
 methods: ["cross-sectional studies", "longitudinal studies"]
 slug: fxa101-week03-lifestyle-patterns-and-cognitive-reserve
-related: ["alzheimers-disease", "brain-health", "cognitive-reserve-theory", "lifestyle-factors", "neurogenesis"]
+related: ["alzheimers-disease", "brain-health", "cognitive-reserve-theory", "life-experiences", "lifestyle-factors", "neurogenesis"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -53,5 +53,6 @@ Cross-sectional studies generally find positive associations between engaging in
 - [alzheimers-disease](../topics/alzheimers-disease.md)
 - [brain-health](../topics/brain-health.md)
 - [cognitive-reserve-theory](../topics/cognitive-reserve-theory.md)
+- [life-experiences](../topics/life-experiences.md)
 - [lifestyle-factors](../topics/lifestyle-factors.md)
 - [neurogenesis](../topics/neurogenesis.md)

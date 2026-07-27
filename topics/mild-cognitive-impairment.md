@@ -6,9 +6,10 @@ confidence: medium
 tags: ["mild-cognitive-impairment"]
 sources:
   - fxa100-week13-a-new-clinical-scale-for-the-staging-of-dementia
+  - fxa101-week04-cognitive-and-memory-training-in-adults-at-risk-of-dementia
   - fxa303-week13-dance-movement-therapy-for-neurodegenerative-diseases-a
   - fxa303-week13-practical-recommendations-for-timely-accurate-diagnosis-of
-updated: 2026-05-18
+updated: 2026-07-28
 ---
 
 ## Mild Cognitive Impairment
@@ -28,5 +29,6 @@ The concept of Mild Cognitive Impairment (MCI) is central across the provided so
 ## Sources
 
 - [fxa100-week13-a-new-clinical-scale-for-the-staging-of-dementia](../sources/fxa100-week13-a-new-clinical-scale-for-the-staging-of-dementia.md)
+- [fxa101-week04-cognitive-and-memory-training-in-adults-at-risk-of-dementia](../sources/fxa101-week04-cognitive-and-memory-training-in-adults-at-risk-of-dementia.md)
 - [fxa303-week13-dance-movement-therapy-for-neurodegenerative-diseases-a](../sources/fxa303-week13-dance-movement-therapy-for-neurodegenerative-diseases-a.md)
 - [fxa303-week13-practical-recommendations-for-timely-accurate-diagnosis-of](../sources/fxa303-week13-practical-recommendations-for-timely-accurate-diagnosis-of.md)

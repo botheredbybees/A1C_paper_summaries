@@ -6,6 +6,7 @@ updated: 2026-07-28
 
 ## Cultural Participation
 
+- [Coffee, Cake & Culture: Evaluation of an art for health programme for older people in the community](../sources/fxa101-week04-coffee-cake-culture-evaluation-of-an-art-for-health.md)
 - [The value of music for public health](../sources/fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26.md)
 - [Epidemiological studies of the relationship between cultural experiences and public health](../sources/fxa301-oxford-textbook-of-creative-arts-ch24-chapter-8.md)
 - [Best practice in making Museums more accessible to visually impaired visitors](../sources/fxa301-week11-best-practice-in-making-museums-more-accessible-to-visually.md)

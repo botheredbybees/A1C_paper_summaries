@@ -6,11 +6,12 @@ sources:
   - fxa100-week07-iremember-loan-resource-flyer
   - fxa100-week10-person-centred-dementia-care
   - fxa100-week11-about-the-octaband-dance-for-connection
+  - fxa101-week04-coffee-cake-culture-evaluation-of-an-art-for-health
 tags:
 - dementia-support
 title: Person-Centered Dementia Support
 type: topic
-updated: 2026-05-11
+updated: 2026-07-28
 ---
 
 ## Person-Centered Dementia Support
@@ -32,3 +33,4 @@ The concept of person-centered dementia care emphasizes the importance of unders
 - [fxa100-week07-iremember-loan-resource-flyer](../sources/fxa100-week07-iremember-loan-resource-flyer.md)
 - [fxa100-week10-person-centred-dementia-care](../sources/fxa100-week10-person-centred-dementia-care.md)
 - [fxa100-week11-about-the-octaband-dance-for-connection](../sources/fxa100-week11-about-the-octaband-dance-for-connection.md)
+- [fxa101-week04-coffee-cake-culture-evaluation-of-an-art-for-health](../sources/fxa101-week04-coffee-cake-culture-evaluation-of-an-art-for-health.md)

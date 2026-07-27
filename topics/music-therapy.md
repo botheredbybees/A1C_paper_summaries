@@ -82,6 +82,7 @@ sources:
   - fxa100-week13-music-interventions-for-people-with-dementia-a-review-of
   - fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness
   - fxa101-week03-lesson-fxa101-week03-page-3-the-role-of-the-arts-in
+  - fxa101-week04-intergenerational-music-making-a-vehicle-for-active-ageing
   - fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master
   - fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the
   - fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music
@@ -124,7 +125,7 @@ tags:
 - music-therapy
 title: Music Therapy
 type: topic
-updated: 2026-07-20
+updated: 2026-07-28
 ---
 
 ## Music Therapy
@@ -222,6 +223,7 @@ The integration of music therapy across various neurological conditions undersco
 - [fxa100-week13-music-interventions-for-people-with-dementia-a-review-of](../sources/fxa100-week13-music-interventions-for-people-with-dementia-a-review-of.md)
 - [fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness](../sources/fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness.md)
 - [fxa101-week03-lesson-fxa101-week03-page-3-the-role-of-the-arts-in](../sources/fxa101-week03-lesson-fxa101-week03-page-3-the-role-of-the-arts-in.md)
+- [fxa101-week04-intergenerational-music-making-a-vehicle-for-active-ageing](../sources/fxa101-week04-intergenerational-music-making-a-vehicle-for-active-ageing.md)
 - [fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master](../sources/fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master.md)
 - [fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the](../sources/fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the.md)
 - [fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music](../sources/fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music.md)

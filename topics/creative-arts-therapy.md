@@ -7,6 +7,7 @@ sources:
   - fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of
   - fxa100-week12-efficacy-of-creative-arts-therapy-in-treatment-of
   - fxa100-week13-using-creative-arts-therapy-to-promote-academic-success-in
+  - fxa101-week04-lesson-fxa101-week04-chapter-3-creativity-throughout-life
   - fxa301-week06-the-art-and-science-of-dancemovement-therapy
   - fxa301-week10-a-systematic-review-of-the-efficacy-of-creative-arts
   - fxa301-week10-using-creative-arts-in-trauma-therapy-the-neuroscience-of
@@ -18,7 +19,7 @@ tags:
 - creative-arts-therapy
 title: Creative Arts Therapy
 type: topic
-updated: 2026-07-20
+updated: 2026-07-28
 ---
 
 ## Creative Arts Therapy
@@ -41,6 +42,7 @@ Creative arts therapy encompasses various modalities such as puppet play, dance/
 - [fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of](../sources/fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of.md)
 - [fxa100-week12-efficacy-of-creative-arts-therapy-in-treatment-of](../sources/fxa100-week12-efficacy-of-creative-arts-therapy-in-treatment-of.md)
 - [fxa100-week13-using-creative-arts-therapy-to-promote-academic-success-in](../sources/fxa100-week13-using-creative-arts-therapy-to-promote-academic-success-in.md)
+- [fxa101-week04-lesson-fxa101-week04-chapter-3-creativity-throughout-life](../sources/fxa101-week04-lesson-fxa101-week04-chapter-3-creativity-throughout-life.md)
 - [fxa301-week06-the-art-and-science-of-dancemovement-therapy](../sources/fxa301-week06-the-art-and-science-of-dancemovement-therapy.md)
 - [fxa301-week10-a-systematic-review-of-the-efficacy-of-creative-arts](../sources/fxa301-week10-a-systematic-review-of-the-efficacy-of-creative-arts.md)
 - [fxa301-week10-using-creative-arts-in-trauma-therapy-the-neuroscience-of](../sources/fxa301-week10-using-creative-arts-in-trauma-therapy-the-neuroscience-of.md)

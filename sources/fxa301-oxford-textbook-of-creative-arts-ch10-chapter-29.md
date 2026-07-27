@@ -14,13 +14,15 @@ appearances:
   - unit: FXA301
   - unit: FXA301
   - unit: FXA301
-tags: ["fxa301"]
+  - unit: FXA101
+    week: "04"
+tags: ["fxa301", "fxa101"]
 key_concepts: []
 methods: []
 slug: fxa301-oxford-textbook-of-creative-arts-ch10-chapter-29
 related: []
 created: 2026-05-05
-updated: 2026-06-25
+updated: 2026-07-28
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-oxford-textbook-of-creative-arts-ch10-chapter-29.md_

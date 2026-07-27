@@ -6,8 +6,9 @@ confidence: medium
 tags: ["hippocampus-function"]
 sources:
   - fxa100-week01-the-mechanisms-in-glucose-metabolism-of-aging-hippocampus
+  - fxa101-week04-the-neurogenic-reserve-hypothesis-what-is-adult-hippocampal
   - psy214-week01-lesson-psy214-week01-stress-models-general-adaptation
-updated: 2026-07-06
+updated: 2026-07-28
 ---
 
 ## Hippocampus Function in Aging and Stress
@@ -27,4 +28,5 @@ The hippocampus, a brain region critical for learning and memory, undergoes sign
 ## Sources
 
 - [fxa100-week01-the-mechanisms-in-glucose-metabolism-of-aging-hippocampus](../sources/fxa100-week01-the-mechanisms-in-glucose-metabolism-of-aging-hippocampus.md)
+- [fxa101-week04-the-neurogenic-reserve-hypothesis-what-is-adult-hippocampal](../sources/fxa101-week04-the-neurogenic-reserve-hypothesis-what-is-adult-hippocampal.md)
 - [psy214-week01-lesson-psy214-week01-stress-models-general-adaptation](../sources/psy214-week01-lesson-psy214-week01-stress-models-general-adaptation.md)

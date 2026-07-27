@@ -5,6 +5,7 @@ slug: arts-engagement-in-australia
 sources:
   - fxa100-week07-arts-engagement-for-people-with-dementia-independent
   - fxa100-week07-connecting-with-and-through-art-arts-engagement-for
+  - fxa101-week04-arts-for-ageing-well-a-propensity-score-matching-analysis
   - fxa301-week01-web-article-australia-2019
   - fxa301-week01-web-article-australia-2023
   - fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing
@@ -13,7 +14,7 @@ tags:
 - arts-engagement
 title: Arts Engagement in Australia
 type: topic
-updated: 2026-05-11
+updated: 2026-07-28
 ---
 
 ## Arts Engagement in Australia
@@ -34,6 +35,7 @@ The synthesis of data from the National Arts Participation Survey and other init
 
 - [fxa100-week07-arts-engagement-for-people-with-dementia-independent](../sources/fxa100-week07-arts-engagement-for-people-with-dementia-independent.md)
 - [fxa100-week07-connecting-with-and-through-art-arts-engagement-for](../sources/fxa100-week07-connecting-with-and-through-art-arts-engagement-for.md)
+- [fxa101-week04-arts-for-ageing-well-a-propensity-score-matching-analysis](../sources/fxa101-week04-arts-for-ageing-well-a-propensity-score-matching-analysis.md)
 - [fxa301-week01-web-article-australia-2019](../sources/fxa301-week01-web-article-australia-2019.md)
 - [fxa301-week01-web-article-australia-2023](../sources/fxa301-week01-web-article-australia-2023.md)
 - [fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing](../sources/fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing.md)

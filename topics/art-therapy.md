@@ -30,6 +30,7 @@ sources:
   - fxa100-week12-exploring-nature-based-art-therapy-a-scoping-review
   - fxa100-week13-exploring-ethical-considerations-in-art-therapy
   - fxa100-week13-the-future-of-art-therapy-in-mental-health-treatment
+  - fxa101-week04-creativity-and-dementia-does-artistic-activity-affect-well
   - fxa202-week06-donna-a-photo-essay
   - fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health
   - fxa202-week10-identity-connection-and-motivation
@@ -81,7 +82,7 @@ tags:
 - art-therapy
 title: Art Therapy
 type: topic
-updated: 2026-05-18
+updated: 2026-07-28
 ---
 
 ## Art Therapy
@@ -127,6 +128,7 @@ The sources emphasize the broad application and benefits of Art Therapy across v
 - [fxa100-week12-exploring-nature-based-art-therapy-a-scoping-review](../sources/fxa100-week12-exploring-nature-based-art-therapy-a-scoping-review.md)
 - [fxa100-week13-exploring-ethical-considerations-in-art-therapy](../sources/fxa100-week13-exploring-ethical-considerations-in-art-therapy.md)
 - [fxa100-week13-the-future-of-art-therapy-in-mental-health-treatment](../sources/fxa100-week13-the-future-of-art-therapy-in-mental-health-treatment.md)
+- [fxa101-week04-creativity-and-dementia-does-artistic-activity-affect-well](../sources/fxa101-week04-creativity-and-dementia-does-artistic-activity-affect-well.md)
 - [fxa202-week06-donna-a-photo-essay](../sources/fxa202-week06-donna-a-photo-essay.md)
 - [fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health](../sources/fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health.md)
 - [fxa202-week10-identity-connection-and-motivation](../sources/fxa202-week10-identity-connection-and-motivation.md)

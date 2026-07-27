@@ -3,12 +3,14 @@ confidence: low
 domain: intervention
 slug: creative-aging
 sources:
-- fxa301-week03-lesson-fxa301-week03-page-4-week-3-activities
+  - fxa101-week04-intellectual-maturity-and-longevity-late-blooming-composers
+  - fxa202-week10-introduction-art-therapy-and-creative-aging
+  - fxa301-week03-lesson-fxa301-week03-page-4-week-3-activities
 tags:
 - creative-aging
 title: Creative Aging
 type: topic
-updated: 2026-05-04
+updated: 2026-07-28
 ---
 
 ## Creative Aging
@@ -27,4 +29,6 @@ The integration of creative aging activities aims to enhance the mental well-bei
 
 ## Sources
 
+- [fxa101-week04-intellectual-maturity-and-longevity-late-blooming-composers](../sources/fxa101-week04-intellectual-maturity-and-longevity-late-blooming-composers.md)
+- [fxa202-week10-introduction-art-therapy-and-creative-aging](../sources/fxa202-week10-introduction-art-therapy-and-creative-aging.md)
 - [fxa301-week03-lesson-fxa301-week03-page-4-week-3-activities](../sources/fxa301-week03-lesson-fxa301-week03-page-4-week-3-activities.md)

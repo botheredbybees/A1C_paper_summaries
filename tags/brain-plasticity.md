@@ -17,6 +17,7 @@ updated: 2026-07-28
 - [Cognitive Reserve in Ageing and Alzheimer's Disease](../sources/fxa101-week03-cognitive-reserve-in-ageing-and-alzheimers-disease.md)
 - [Imagination: How Thinking Makes It So](../sources/fxa101-week03-imagination-how-thinking-makes-it-so.md)
 - [Poverty, Stress, and Brain Development: New Directions for Prevention and Intervention](../sources/fxa101-week03-poverty-stress-and-brain-development-new-directions-for.md)
+- [The neurogenic reserve hypothesis: What is adult hippocampal neurogenesis good for?](../sources/fxa101-week04-the-neurogenic-reserve-hypothesis-what-is-adult-hippocampal.md)
 - [Understanding the Brain: The Birth of a Learning Science](../sources/fxa300-week02-understanding-the-brain-the-birth-of-a-learning-science.md)
 - [Brain Structures Differ between Musicians and Non-Musicians](../sources/fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians.md)
 - [Infancy and the early years](../sources/fxa303-week02-infancy-and-the-early-years.md)

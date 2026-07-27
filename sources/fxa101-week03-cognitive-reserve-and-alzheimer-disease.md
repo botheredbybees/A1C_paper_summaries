@@ -11,7 +11,7 @@ tags: ["cognitive-reserve", "neural-compensation", "alzheimers-disease", "brain-
 key_concepts: ["cognitive reserve", "neural compensation", "Alzheimer's disease"]
 methods: ["review"]
 slug: fxa101-week03-cognitive-reserve-and-alzheimer-disease
-related: ["alzheimers-disease", "brain-plasticity", "cognitive-reserve", "epidemiology"]
+related: ["aging-cognition", "alzheimers-disease", "brain-plasticity", "cognitive-reserve", "epidemiology"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -43,6 +43,7 @@ This article discusses the concept of cognitive reserve (CR) in relation to Alzh
 
 ## See Also
 
+- [aging-cognition](../topics/aging-cognition.md)
 - [alzheimers-disease](../topics/alzheimers-disease.md)
 - [brain-plasticity](../topics/brain-plasticity.md)
 - [cognitive-reserve](../topics/cognitive-reserve.md)

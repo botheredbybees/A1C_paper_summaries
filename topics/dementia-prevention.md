@@ -10,8 +10,10 @@ sources:
   - fxa100-week13-knowledge-and-health-beliefs-about-dementia-prevention
   - fxa101-week03-nonpharmacologic-treatment-and-prevention-strategies-for
   - fxa101-week03-summary-of-the-evidence-on-modifiable-risk-factors-for
+  - fxa101-week04-healthy-cognitive-aging-and-dementia-prevention
+  - fxa101-week04-late-life-cognitive-activity-and-dementia-a-systematic
   - fxa303-week13-practical-recommendations-for-timely-accurate-diagnosis-of
-updated: 2026-07-20
+updated: 2026-07-28
 ---
 
 ## Leisure Activities and Dementia Risk
@@ -35,4 +37,6 @@ The integration of findings from two studies highlights the potential role of en
 - [fxa100-week13-knowledge-and-health-beliefs-about-dementia-prevention](../sources/fxa100-week13-knowledge-and-health-beliefs-about-dementia-prevention.md)
 - [fxa101-week03-nonpharmacologic-treatment-and-prevention-strategies-for](../sources/fxa101-week03-nonpharmacologic-treatment-and-prevention-strategies-for.md)
 - [fxa101-week03-summary-of-the-evidence-on-modifiable-risk-factors-for](../sources/fxa101-week03-summary-of-the-evidence-on-modifiable-risk-factors-for.md)
+- [fxa101-week04-healthy-cognitive-aging-and-dementia-prevention](../sources/fxa101-week04-healthy-cognitive-aging-and-dementia-prevention.md)
+- [fxa101-week04-late-life-cognitive-activity-and-dementia-a-systematic](../sources/fxa101-week04-late-life-cognitive-activity-and-dementia-a-systematic.md)
 - [fxa303-week13-practical-recommendations-for-timely-accurate-diagnosis-of](../sources/fxa303-week13-practical-recommendations-for-timely-accurate-diagnosis-of.md)

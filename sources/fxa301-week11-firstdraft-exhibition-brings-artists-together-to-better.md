@@ -11,7 +11,7 @@ tags: ["collaborative-practice", "disability-artists", "fxa301", "inclusive-arts
 key_concepts: ["mutual-learning", "transcending-power-dynamics"]
 methods: ["case-study"]
 slug: fxa301-week11-firstdraft-exhibition-brings-artists-together-to-better
-related: ["collaborative-practice", "inclusive-arts"]
+related: ["collaborative-practice", "inclusive-arts", "mutual-learning"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -41,3 +41,4 @@ The article discusses the Paired exhibition at Firstdraft gallery in Sydney, whi
 
 - [collaborative-practice](../topics/collaborative-practice.md)
 - [inclusive-arts](../topics/inclusive-arts.md)
+- [mutual-learning](../topics/mutual-learning.md)

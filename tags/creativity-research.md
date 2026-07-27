@@ -7,3 +7,4 @@ updated: 2026-07-28
 ## Creativity Research
 
 - [Metacontrol of human creativity: The neurocognitive mechanisms of convergent and divergent thinking](../sources/fxa101-week02-metacontrol-of-human-creativity-the-neurocognitive.md)
+- [The Creative Mind: Toward an Evolutionary Theory of Discovery and Innovation](../sources/fxa101-week04-the-creative-mind-toward-an-evolutionary-theory-of.md)
