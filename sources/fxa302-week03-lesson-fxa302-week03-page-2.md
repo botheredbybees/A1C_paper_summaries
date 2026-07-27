@@ -7,13 +7,15 @@ doi: null
 appearances:
   - unit: FXA302
     week: "03"
+  - unit: FXA302
+    week: "04"
 tags: ["medical-humanities", "health-humanities", "creative-arts-and-health", "fxa302", "holistic-medical-treatment"]
 key_concepts: ["holistic-medical-treatment", "patient-experience"]
 methods: []
 slug: fxa302-week03-lesson-fxa302-week03-page-2
-related: ["health-humanities", "medical-humanities"]
+related: ["creative-arts-and-health", "health-humanities", "medical-humanities"]
 created: 2026-07-20
-updated: 2026-07-20
+updated: 2026-07-28
 ---
 
 _All claims sourced from ../raw/pdf/fxa302-week03-lesson-fxa302-week03-page-2.md_
@@ -40,5 +42,6 @@ This unit explores the historical and contemporary intersections between creativ
 
 ## See Also
 
+- [creative-arts-and-health](../topics/creative-arts-and-health.md)
 - [health-humanities](../topics/health-humanities.md)
 - [medical-humanities](../topics/medical-humanities.md)

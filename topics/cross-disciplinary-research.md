@@ -3,12 +3,14 @@ confidence: low
 domain: intervention
 slug: the-role-of-music-in-adolescent-development
 sources:
-- fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than
+  - fxa300-week02-music-in-the-human-experience-an-introduction-to-music
+  - fxa302-week04-breast-cancer-in-a-renaissance-book-of-the-dead
+  - fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than
 tags:
 - cross-disciplinary-research
 title: The Role Of Music In Adolescent Development
 type: topic
-updated: 2026-05-04
+updated: 2026-07-28
 ---
 
 ## The Role Of Music In Adolescent Development
@@ -27,4 +29,6 @@ Music has a profound impact on adolescent development, integrating psychological
 
 ## Sources
 
+- [fxa300-week02-music-in-the-human-experience-an-introduction-to-music](../sources/fxa300-week02-music-in-the-human-experience-an-introduction-to-music.md)
+- [fxa302-week04-breast-cancer-in-a-renaissance-book-of-the-dead](../sources/fxa302-week04-breast-cancer-in-a-renaissance-book-of-the-dead.md)
 - [fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than](../sources/fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than.md)

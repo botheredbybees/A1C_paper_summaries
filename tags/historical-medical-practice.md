@@ -8,3 +8,4 @@ updated: 2026-07-28
 
 - [The Colour Treatment: A Convergence of Art and Medicine at the Red Cross Russell Lea Nerve Home](../sources/fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at.md)
 - [Jaundice in the Hippocratic Corpus](../sources/fxa302-week02-jaundice-in-the-hippocratic-corpus.md)
+- [Ibn Sina [Avicenna] (Stanford Encyclopedia of Philosophy)](../sources/fxa302-week04-ibn-sina-avicenna-stanford-encyclopedia-of-philosophy.md)

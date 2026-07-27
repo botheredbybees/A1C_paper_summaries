@@ -7,7 +7,8 @@ tags: ["historical-medical-practices"]
 sources:
   - fxa302-week02-a-glimpse-of-our-past-clinical-anatomy-as-practiced-by
   - fxa302-week02-traditional-ancient-egyptian-medicine-a-review
-updated: 2026-07-13
+  - fxa302-week04-hildegard-of-bingen-and-the-greening-of-medieval-medicine
+updated: 2026-07-28
 ---
 
 ## Ancient Egyptian Medical Practices
@@ -28,3 +29,4 @@ The study of ancient Egyptian medical practices reveals a sophisticated approach
 
 - [fxa302-week02-a-glimpse-of-our-past-clinical-anatomy-as-practiced-by](../sources/fxa302-week02-a-glimpse-of-our-past-clinical-anatomy-as-practiced-by.md)
 - [fxa302-week02-traditional-ancient-egyptian-medicine-a-review](../sources/fxa302-week02-traditional-ancient-egyptian-medicine-a-review.md)
+- [fxa302-week04-hildegard-of-bingen-and-the-greening-of-medieval-medicine](../sources/fxa302-week04-hildegard-of-bingen-and-the-greening-of-medieval-medicine.md)

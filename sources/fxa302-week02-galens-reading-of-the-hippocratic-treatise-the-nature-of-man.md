@@ -11,7 +11,7 @@ tags: ["ancient-medicine", "hippocratism", "galen-commentary", "humoral-theory",
 key_concepts: ["Hippocratic medicine", "humoral theory", "Galenic commentaries"]
 methods: ["historical analysis", "critical edition"]
 slug: fxa302-week02-galens-reading-of-the-hippocratic-treatise-the-nature-of-man
-related: ["ancient-medicine", "hippocratic-medicine"]
+related: ["ancient-medicine", "hippocratic-medicine", "humoral-theory"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -46,3 +46,4 @@ The chapter explores Galen’s commentary on the Hippocratic treatise ‘The Nat
 
 - [ancient-medicine](../topics/ancient-medicine.md)
 - [hippocratic-medicine](../topics/hippocratic-medicine.md)
+- [humoral-theory](../topics/humoral-theory.md)

@@ -11,3 +11,4 @@ updated: 2026-07-28
 - [Galen\u2019s Reading of Hippocratic Ethics](../sources/fxa302-week02-galens-reading-of-hippocratic-ethics.md)
 - [Galen\u2019s Reading of the Hippocratic Treatise \u2018The Nature of Man\u2019](../sources/fxa302-week02-galens-reading-of-the-hippocratic-treatise-the-nature-of-man.md)
 - [Jaundice in the Hippocratic Corpus](../sources/fxa302-week02-jaundice-in-the-hippocratic-corpus.md)
+- [Open Tension Pneumothorax in \u201cThe Dying Niobid\u201d](../sources/fxa302-week04-open-tension-pneumothorax-in-the-dying-niobid.md)

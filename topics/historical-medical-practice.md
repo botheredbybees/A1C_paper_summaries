@@ -7,7 +7,8 @@ tags: ["historical-medical-practice"]
 sources:
   - fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at
   - fxa302-week02-jaundice-in-the-hippocratic-corpus
-updated: 2026-07-13
+  - fxa302-week04-ibn-sina-avicenna-stanford-encyclopedia-of-philosophy
+updated: 2026-07-28
 ---
 
 ## Historical Medical Practices
@@ -28,3 +29,4 @@ The historical medical practices explored in the sources illustrate a convergenc
 
 - [fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at](../sources/fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at.md)
 - [fxa302-week02-jaundice-in-the-hippocratic-corpus](../sources/fxa302-week02-jaundice-in-the-hippocratic-corpus.md)
+- [fxa302-week04-ibn-sina-avicenna-stanford-encyclopedia-of-philosophy](../sources/fxa302-week04-ibn-sina-avicenna-stanford-encyclopedia-of-philosophy.md)

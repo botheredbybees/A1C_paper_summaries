@@ -13,7 +13,7 @@ tags: ["music-psychology", "human-experience", "cultural-impact", "economic-effe
 key_concepts: ["music-psychology", "cross-cultural-analysis", "neuroscience-of-music"]
 methods: ["literature-review"]
 slug: fxa300-week02-music-in-the-human-experience-an-introduction-to-music
-related: ["cultural-impact", "human-experience", "music-psychology"]
+related: ["cross-disciplinary-research", "cultural-impact", "human-experience", "music-psychology"]
 created: 2026-07-13
 updated: 2026-07-21
 ---
@@ -45,6 +45,7 @@ The document discusses the profound role of music in human life through various 
 
 ## See Also
 
+- [cross-disciplinary-research](../topics/cross-disciplinary-research.md)
 - [cultural-impact](../topics/cultural-impact.md)
 - [human-experience](../topics/human-experience.md)
 - [music-psychology](../topics/music-psychology.md)

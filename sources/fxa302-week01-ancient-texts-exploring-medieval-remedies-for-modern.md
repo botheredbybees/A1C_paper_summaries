@@ -11,7 +11,7 @@ tags: ["medieval-remedies", "pharmacology", "historical-medicine", "holistic-hea
 key_concepts: ["medieval-medical-practice", "multifaceted-healing-approach", "modern-pharmaceutical-research"]
 methods: ["case-study"]
 slug: fxa302-week01-ancient-texts-exploring-medieval-remedies-for-modern
-related: ["health-humanities"]
+related: ["health-humanities", "historical-medicine"]
 created: 2026-07-06
 updated: 2026-07-06
 ---
@@ -45,3 +45,4 @@ Christina Lee's chapter in 'The Routledge Companion to Health Humanities' explor
 ## See Also
 
 - [health-humanities](../topics/health-humanities.md)
+- [historical-medicine](../topics/historical-medicine.md)

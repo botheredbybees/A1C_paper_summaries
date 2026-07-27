@@ -23,6 +23,9 @@ sources:
   - fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster
   - fxa301-week06-statistical-analysis-of-educational-outcomes-among-big
   - fxa301-week08-the-connection-between-art-healing-and-public-health-a
+  - fxa302-week04-health-and-wealth-in-the-renaissance
+  - fxa302-week04-the-black-death-and-its-aftermath
+  - fxa302-week04-transcript-duration-759download-transcript
   - fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the
   - fxa303-week13-the-associations-between-behavioral-psychological-symptoms
   - psy214-week04-body-weight-and-public-health
@@ -74,6 +77,9 @@ The integration of creative arts into public health interventions presents a mul
 - [fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster](../sources/fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster.md)
 - [fxa301-week06-statistical-analysis-of-educational-outcomes-among-big](../sources/fxa301-week06-statistical-analysis-of-educational-outcomes-among-big.md)
 - [fxa301-week08-the-connection-between-art-healing-and-public-health-a](../sources/fxa301-week08-the-connection-between-art-healing-and-public-health-a.md)
+- [fxa302-week04-health-and-wealth-in-the-renaissance](../sources/fxa302-week04-health-and-wealth-in-the-renaissance.md)
+- [fxa302-week04-the-black-death-and-its-aftermath](../sources/fxa302-week04-the-black-death-and-its-aftermath.md)
+- [fxa302-week04-transcript-duration-759download-transcript](../sources/fxa302-week04-transcript-duration-759download-transcript.md)
 - [fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the](../sources/fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the.md)
 - [fxa303-week13-the-associations-between-behavioral-psychological-symptoms](../sources/fxa303-week13-the-associations-between-behavioral-psychological-symptoms.md)
 - [psy214-week04-body-weight-and-public-health](../sources/psy214-week04-body-weight-and-public-health.md)

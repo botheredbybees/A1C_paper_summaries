@@ -10,7 +10,8 @@ sources:
   - fxa302-week02-galens-reading-of-hippocratic-ethics
   - fxa302-week02-galens-reading-of-the-hippocratic-treatise-the-nature-of-man
   - fxa302-week02-jaundice-in-the-hippocratic-corpus
-updated: 2026-07-13
+  - fxa302-week04-open-tension-pneumothorax-in-the-dying-niobid
+updated: 2026-07-28
 ---
 
 ## Ancient Medicine
@@ -34,3 +35,4 @@ The investigation into ancient medical theories and practices reveals a rich tap
 - [fxa302-week02-galens-reading-of-hippocratic-ethics](../sources/fxa302-week02-galens-reading-of-hippocratic-ethics.md)
 - [fxa302-week02-galens-reading-of-the-hippocratic-treatise-the-nature-of-man](../sources/fxa302-week02-galens-reading-of-the-hippocratic-treatise-the-nature-of-man.md)
 - [fxa302-week02-jaundice-in-the-hippocratic-corpus](../sources/fxa302-week02-jaundice-in-the-hippocratic-corpus.md)
+- [fxa302-week04-open-tension-pneumothorax-in-the-dying-niobid](../sources/fxa302-week04-open-tension-pneumothorax-in-the-dying-niobid.md)

@@ -11,7 +11,7 @@ tags: ["historical-figures", "creative-process", "work-habits", "fxa101", "geniu
 key_concepts: ["genius-paradox", "focus-and-completion", "disciplinary-challenges"]
 methods: ["case-study"]
 slug: fxa101-week03-leonardo-da-vinci-a-genius-driven-to-distraction
-related: ["creative-process"]
+related: ["creative-process", "historical-figures"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -43,3 +43,4 @@ The article explores the paradox of Leonardo da Vinci, a man celebrated for his 
 ## See Also
 
 - [creative-process](../topics/creative-process.md)
+- [historical-figures](../topics/historical-figures.md)
