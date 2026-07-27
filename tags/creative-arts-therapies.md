@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-arts-therapies
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Creative Arts Therapies

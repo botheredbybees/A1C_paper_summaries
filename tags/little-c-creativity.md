@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: little-c-creativity
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Little C Creativity

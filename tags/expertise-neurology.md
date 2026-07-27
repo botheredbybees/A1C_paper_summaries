@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: expertise-neurology
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Expertise Neurology

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: equity-in-healthcare
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Equity In Healthcare

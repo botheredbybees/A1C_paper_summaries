@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: inclusive-theatre
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Inclusive Theatre

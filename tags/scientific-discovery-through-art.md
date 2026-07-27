@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: scientific-discovery-through-art
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Scientific Discovery Through Art

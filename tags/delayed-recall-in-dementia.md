@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: delayed-recall-in-dementia
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Delayed Recall In Dementia

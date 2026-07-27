@@ -11,7 +11,7 @@ tags: ["carbon-footprint-and-sustainable-well-being", "environmental-impact", "f
 key_concepts: ["life-expectancy", "self-reported-wellbeing", "carbon-footprint"]
 methods: ["report"]
 slug: fxa301-week05-the-2024-happy-planet-index
-related: ["quality-of-life"]
+related: ["environmental-impact", "quality-of-life"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,4 +46,5 @@ Key lessons from the report emphasize the importance of moving beyond GDP-centri
 
 ## See Also
 
+- [environmental-impact](../topics/environmental-impact.md)
 - [quality-of-life](../topics/quality-of-life.md)

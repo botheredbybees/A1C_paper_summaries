@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: self-care-strategies
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Self Care Strategies
@@ -17,3 +17,4 @@ updated: 2026-07-21
 - [Hedonia and Eudaimonia Notes Slides](../sources/psy214-week02-hedonia-and-eudaimonia-notes-slides.md)
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness Wrap Up](../sources/psy214-week02-lesson-psy214-week02-wrap-up.md)
 - [Self-Care for Allied Health Professionals](../sources/psy214-week02-self-care-for-allied-health-professionals.md)
+- [Stress, Self-Care and Mindfulness: Lifestyle Approaches to Health and Well-being](../sources/psy214-week04-lesson-psy214-week04-week-4-introduction.md)

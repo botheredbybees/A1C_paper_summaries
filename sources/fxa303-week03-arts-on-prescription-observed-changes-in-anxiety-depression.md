@@ -11,7 +11,7 @@ tags: ["arts-on-prescription", "social-prescribing", "mental-health-intervention
 key_concepts: ["Arts on Prescription (AoP)", "social prescribing", "mental well-being"]
 methods: ["observational longitudinal study"]
 slug: fxa303-week03-arts-on-prescription-observed-changes-in-anxiety-depression
-related: ["arts-on-prescription", "mental-health-interventions", "social-prescribing"]
+related: ["arts-on-prescription", "depression-management", "mental-health-interventions", "social-prescribing"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,5 +44,6 @@ This study evaluates the impact of Arts on Prescription (AoP) interventions as p
 ## See Also
 
 - [arts-on-prescription](../topics/arts-on-prescription.md)
+- [depression-management](../topics/depression-management.md)
 - [mental-health-interventions](../topics/mental-health-interventions.md)
 - [social-prescribing](../topics/social-prescribing.md)

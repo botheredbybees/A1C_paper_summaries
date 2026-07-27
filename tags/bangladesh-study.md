@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: bangladesh-study
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Bangladesh Study

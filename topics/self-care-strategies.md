@@ -14,11 +14,12 @@ sources:
   - psy214-week02-hedonia-and-eudaimonia-notes-slides
   - psy214-week02-lesson-psy214-week02-wrap-up
   - psy214-week02-self-care-for-allied-health-professionals
+  - psy214-week04-lesson-psy214-week04-week-4-introduction
 tags:
 - self-care-strategies
 title: Self-Care Strategies
 type: topic
-updated: 2026-07-13
+updated: 2026-07-28
 ---
 
 ## Self-Care Strategies
@@ -47,3 +48,4 @@ The sources explore different self-care strategies that individuals can adopt to
 - [psy214-week02-hedonia-and-eudaimonia-notes-slides](../sources/psy214-week02-hedonia-and-eudaimonia-notes-slides.md)
 - [psy214-week02-lesson-psy214-week02-wrap-up](../sources/psy214-week02-lesson-psy214-week02-wrap-up.md)
 - [psy214-week02-self-care-for-allied-health-professionals](../sources/psy214-week02-self-care-for-allied-health-professionals.md)
+- [psy214-week04-lesson-psy214-week04-week-4-introduction](../sources/psy214-week04-lesson-psy214-week04-week-4-introduction.md)

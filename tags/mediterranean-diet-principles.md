@@ -1,0 +1,10 @@
+---
+type: tag
+tag: mediterranean-diet-principles
+updated: 2026-07-28
+---
+
+## Mediterranean Diet Principles
+
+- [Healthy Eating Guidelines and Models](../sources/psy214-week04-lesson-psy214-week04-healthy-eating-guidelines.md)
+- [Healthy Eating and Mental Health](../sources/psy214-week04-lesson-psy214-week04-nutritional-science.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hse-staff
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Hse Staff

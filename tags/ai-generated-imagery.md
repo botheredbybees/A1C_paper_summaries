@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ai-generated-imagery
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Ai Generated Imagery

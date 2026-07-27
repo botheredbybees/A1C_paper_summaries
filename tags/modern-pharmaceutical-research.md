@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: modern-pharmaceutical-research
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Modern Pharmaceutical Research

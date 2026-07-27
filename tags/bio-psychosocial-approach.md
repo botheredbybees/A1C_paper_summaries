@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: bio-psychosocial-approach
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Bio Psychosocial Approach

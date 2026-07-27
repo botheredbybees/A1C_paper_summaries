@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: conceptualization-of-abstract-ideas
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Conceptualization Of Abstract Ideas

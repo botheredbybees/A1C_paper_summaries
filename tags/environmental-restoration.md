@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: environmental-restoration
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Environmental Restoration

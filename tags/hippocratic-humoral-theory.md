@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hippocratic-humoral-theory
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Hippocratic Humoral Theory

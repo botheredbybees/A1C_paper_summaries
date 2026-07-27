@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: socio-spiritual-identity
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Socio Spiritual Identity

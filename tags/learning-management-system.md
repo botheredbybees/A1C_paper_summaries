@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: learning-management-system
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Learning Management System

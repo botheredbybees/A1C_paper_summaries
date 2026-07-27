@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: qualitative-case-studies
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Qualitative Case Studies

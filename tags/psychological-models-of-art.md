@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychological-models-of-art
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Psychological Models Of Art

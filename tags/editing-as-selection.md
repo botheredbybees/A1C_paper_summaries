@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: editing-as-selection
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Editing As Selection

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-communication
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Therapeutic Communication

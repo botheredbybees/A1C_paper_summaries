@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: reflexivity-in-art
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Reflexivity In Art

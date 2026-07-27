@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: icu-admission-criteria
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Icu Admission Criteria

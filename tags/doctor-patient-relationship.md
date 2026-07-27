@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: doctor-patient-relationship
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Doctor Patient Relationship

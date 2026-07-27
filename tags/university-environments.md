@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: university-environments
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## University Environments

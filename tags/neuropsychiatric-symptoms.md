@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuropsychiatric-symptoms
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Neuropsychiatric Symptoms

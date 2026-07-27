@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: nursing-students
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Nursing Students

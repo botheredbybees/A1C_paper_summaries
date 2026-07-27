@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: photobook-creation
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Photobook Creation

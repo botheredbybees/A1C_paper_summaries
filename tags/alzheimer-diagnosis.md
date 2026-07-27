@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: alzheimer-diagnosis
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Alzheimer Diagnosis

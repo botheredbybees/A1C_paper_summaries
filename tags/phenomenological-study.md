@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: phenomenological-study
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Phenomenological Study

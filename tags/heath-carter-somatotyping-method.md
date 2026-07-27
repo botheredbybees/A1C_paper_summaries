@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: heath-carter-somatotyping-method
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Heath Carter Somatotyping Method

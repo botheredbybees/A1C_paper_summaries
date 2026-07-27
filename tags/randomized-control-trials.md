@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: randomized-control-trials
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Randomized Control Trials

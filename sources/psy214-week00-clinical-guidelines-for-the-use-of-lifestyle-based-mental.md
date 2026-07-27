@@ -7,13 +7,15 @@ doi: https://doi.org/10.1080/15622975.2022.2112074
 appearances:
   - unit: PSY214
     week: "00"
+  - unit: PSY214
+    week: "04"
 tags: ["major-depressive-disorder", "lifestyle-interventions", "mental-health-care", "clinical-guidelines", "biopsychosocial-model", "psy214", "major-depressive-disorder-mdd", "lifestyle-based-interventions", "biopsychosocial-cultural-framework"]
 key_concepts: ["Major Depressive Disorder (MDD)", "Lifestyle-Based Interventions", "Biopsychosocial-Cultural Framework"]
 methods: ["systematic review"]
 slug: psy214-week00-clinical-guidelines-for-the-use-of-lifestyle-based-mental
-related: ["biopsychosocial-model", "clinical-guidelines", "lifestyle-interventions", "mental-health-care"]
+related: ["biopsychosocial-model", "clinical-guidelines", "lifestyle-interventions", "major-depressive-disorder", "mental-health-care"]
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-07-28
 ---
 
 _All claims sourced from ../raw/pdf/psy214-week00-clinical-guidelines-for-the-use-of-lifestyle-based-mental.md_
@@ -47,4 +49,5 @@ This article presents international clinical guidelines for incorporating lifest
 - [biopsychosocial-model](../topics/biopsychosocial-model.md)
 - [clinical-guidelines](../topics/clinical-guidelines.md)
 - [lifestyle-interventions](../topics/lifestyle-interventions.md)
+- [major-depressive-disorder](../topics/major-depressive-disorder.md)
 - [mental-health-care](../topics/mental-health-care.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: wernickes-area
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Wernickes Area

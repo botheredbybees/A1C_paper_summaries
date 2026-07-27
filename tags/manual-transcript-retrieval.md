@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: manual-transcript-retrieval
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Manual Transcript Retrieval

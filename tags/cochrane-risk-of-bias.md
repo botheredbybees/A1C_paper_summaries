@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cochrane-risk-of-bias
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Cochrane Risk Of Bias

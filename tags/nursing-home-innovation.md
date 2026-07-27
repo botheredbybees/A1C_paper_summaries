@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: nursing-home-innovation
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Nursing Home Innovation

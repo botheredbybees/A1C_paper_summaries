@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: traditional-lifestyles
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Traditional Lifestyles

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: patient-narratives
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Patient Narratives

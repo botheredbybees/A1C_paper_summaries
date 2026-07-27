@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: phototherapy-techniques
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Phototherapy Techniques

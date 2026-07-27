@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: leonardo-da-vinci
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Leonardo Da Vinci

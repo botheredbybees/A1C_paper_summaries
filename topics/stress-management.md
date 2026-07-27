@@ -21,11 +21,12 @@ sources:
   - psy214-week02-lesson-psy214-week02-wrap-up
   - psy214-week02-positive-emotions-and-well-being
   - psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop
+  - psy214-week04-lesson-psy214-week04-test
 tags:
 - stress-management
 title: Stress Management Interventions
 type: topic
-updated: 2026-07-13
+updated: 2026-07-28
 ---
 
 ## Stress Management Interventions
@@ -62,3 +63,4 @@ The exploration of stress management interventions across multiple sources highl
 - [psy214-week02-lesson-psy214-week02-wrap-up](../sources/psy214-week02-lesson-psy214-week02-wrap-up.md)
 - [psy214-week02-positive-emotions-and-well-being](../sources/psy214-week02-positive-emotions-and-well-being.md)
 - [psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop](../sources/psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop.md)
+- [psy214-week04-lesson-psy214-week04-test](../sources/psy214-week04-lesson-psy214-week04-test.md)

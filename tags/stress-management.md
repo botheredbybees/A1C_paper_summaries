@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: stress-management
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Stress Management
@@ -24,3 +24,4 @@ updated: 2026-07-21
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness Wrap Up](../sources/psy214-week02-lesson-psy214-week02-wrap-up.md)
 - [Positive Emotions and Well-being](../sources/psy214-week02-positive-emotions-and-well-being.md)
 - [The Wellbeing Workout: How to Manage Stress and Develop Resilience](../sources/psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop.md)
+- [PSY114 PSY214 Stress, Self-Care and Mindfulness - Lifestyle Theme Overview](../sources/psy214-week04-lesson-psy214-week04-test.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: policy-frameworks
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Policy Frameworks

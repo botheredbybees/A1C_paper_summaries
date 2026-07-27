@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: quality-of-life-measurement
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Quality Of Life Measurement

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: feature-nets
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Feature Nets

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mood-regulation
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Mood Regulation

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-regions
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Brain Regions

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: musical-grouping-theory
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Musical Grouping Theory

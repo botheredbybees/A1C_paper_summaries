@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: recovery-oriented-care
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Recovery Oriented Care

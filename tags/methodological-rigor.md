@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: methodological-rigor
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Methodological Rigor

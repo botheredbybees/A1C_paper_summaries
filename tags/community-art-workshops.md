@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: community-art-workshops
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Community Art Workshops

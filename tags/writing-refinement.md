@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: writing-refinement
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Writing Refinement

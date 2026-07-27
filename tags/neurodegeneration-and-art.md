@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurodegeneration-and-art
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Neurodegeneration And Art

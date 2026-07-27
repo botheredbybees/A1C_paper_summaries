@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: safe-space-theory
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Safe Space Theory

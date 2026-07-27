@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: agency-in-creative-process
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Agency In Creative Process

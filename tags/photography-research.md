@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: photography-research
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Photography Research

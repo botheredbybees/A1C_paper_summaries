@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: physical-behaviors
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Physical Behaviors

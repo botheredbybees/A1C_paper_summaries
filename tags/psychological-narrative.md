@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychological-narrative
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Psychological Narrative

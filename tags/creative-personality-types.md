@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-personality-types
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Creative Personality Types

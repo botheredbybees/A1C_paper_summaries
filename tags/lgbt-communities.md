@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: lgbt-communities
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Lgbt Communities

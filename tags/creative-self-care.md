@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-self-care
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Creative Self Care

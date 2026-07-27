@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: language-processing
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Language Processing

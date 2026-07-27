@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: business-models
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Business Models

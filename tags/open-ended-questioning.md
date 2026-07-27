@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: open-ended-questioning
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Open Ended Questioning

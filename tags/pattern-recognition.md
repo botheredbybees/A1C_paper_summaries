@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: pattern-recognition
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Pattern Recognition

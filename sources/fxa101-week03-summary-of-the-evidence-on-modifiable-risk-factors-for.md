@@ -11,7 +11,7 @@ tags: ["dementia-prevention", "cognitive-decline", "modifiable-risk-factors", "p
 key_concepts: ["physical-activity", "cardiovascular-risk-management", "dietary-intervention", "lifelong-learning"]
 methods: ["systematic-review"]
 slug: fxa101-week03-summary-of-the-evidence-on-modifiable-risk-factors-for
-related: ["cognitive-decline", "dementia-prevention", "population-health"]
+related: ["cognitive-decline", "dementia-prevention", "dietary-intervention", "population-health"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -45,4 +45,5 @@ This article provides a summary of the evidence on modifiable risk factors for c
 
 - [cognitive-decline](../topics/cognitive-decline.md)
 - [dementia-prevention](../topics/dementia-prevention.md)
+- [dietary-intervention](../topics/dietary-intervention.md)
 - [population-health](../topics/population-health.md)

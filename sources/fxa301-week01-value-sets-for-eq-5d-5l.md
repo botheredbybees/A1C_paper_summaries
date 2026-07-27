@@ -11,7 +11,7 @@ tags: ["economic-evaluations", "eq-5d-5l", "fxa301", "health-assessment-tools", 
 key_concepts: ["EQ-5D-5L", "value sets", "health technology assessments"]
 methods: ["comparative analysis"]
 slug: fxa301-week01-value-sets-for-eq-5d-5l
-related: []
+related: ["health-economics"]
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -40,4 +40,4 @@ This book offers a comprehensive overview and detailed examination of the value 
 
 ## See Also
 
-*(none yet)*
+- [health-economics](../topics/health-economics.md)

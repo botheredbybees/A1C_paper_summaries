@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: confidentiality-consent
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Confidentiality Consent

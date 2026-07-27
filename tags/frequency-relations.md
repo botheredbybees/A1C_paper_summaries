@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: frequency-relations
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Frequency Relations

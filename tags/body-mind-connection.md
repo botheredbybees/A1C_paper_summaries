@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: body-mind-connection
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Body Mind Connection

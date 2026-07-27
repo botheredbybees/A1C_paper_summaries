@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: copyright-law
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Copyright Law

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: clown-history
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Clown History

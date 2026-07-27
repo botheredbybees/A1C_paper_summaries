@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: public-health
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Public Health
@@ -26,3 +26,8 @@ updated: 2026-07-21
 - [The Connection Between Art, Healing, and Public Health: A Review of Current Literature](../sources/fxa301-week08-the-connection-between-art-healing-and-public-health-a.md)
 - [Reclaiming Indigenous Health in the US: Moving beyond the Social Determinants of Health](../sources/fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the.md)
 - [The associations between behavioral-psychological symptoms of dementia (BPSD) and coping strategy, burden of care and personality style among low-income caregivers of patients with dementia](../sources/fxa303-week13-the-associations-between-behavioral-psychological-symptoms.md)
+- [Body weight and public health](../sources/psy214-week04-body-weight-and-public-health.md)
+- [Health Effects of Dietary Risks in 195 Countries, 1990\u20132017: A Systematic Analysis for the Global Burden of Disease Study 2017](../sources/psy214-week04-health-effects-of-dietary-risks-in-195-countries-19902017-a.md)
+- [Introduction to Lifestyle Medicine](../sources/psy214-week04-introduction-to-lifestyle-medicine.md)
+- [Energy balance and our food environment](../sources/psy214-week04-lesson-psy214-week04-energy-balance-and-bodyweight.md)
+- [Obesity and healthy eating in Australia](../sources/psy214-week04-obesity-and-healthy-eating-in-australia.md)

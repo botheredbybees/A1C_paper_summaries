@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: health-related-quality-of-life-measures
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Health Related Quality Of Life Measures

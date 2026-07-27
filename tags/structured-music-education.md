@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: structured-music-education
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Structured Music Education

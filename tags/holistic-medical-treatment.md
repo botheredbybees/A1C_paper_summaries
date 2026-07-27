@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: holistic-medical-treatment
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Holistic Medical Treatment

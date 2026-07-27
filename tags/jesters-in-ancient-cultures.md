@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: jesters-in-ancient-cultures
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Jesters In Ancient Cultures

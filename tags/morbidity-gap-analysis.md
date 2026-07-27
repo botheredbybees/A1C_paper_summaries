@@ -1,0 +1,9 @@
+---
+type: tag
+tag: morbidity-gap-analysis
+updated: 2026-07-28
+---
+
+## Morbidity Gap Analysis
+
+- [Global, regional, and national trends in the morbidity gap and contributing diseases, injuries, and risk factors, 1990\u20132023: a systematic analysis for the Global Burden of Disease Study 2023](../sources/psy214-week04-global-regional-and-national-trends-in-the-morbidity-gap.md)

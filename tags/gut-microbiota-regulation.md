@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: gut-microbiota-regulation
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Gut Microbiota Regulation

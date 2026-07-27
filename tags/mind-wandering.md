@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mind-wandering
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Mind Wandering

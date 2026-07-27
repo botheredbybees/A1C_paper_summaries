@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: bilateral-network-interactions
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Bilateral Network Interactions

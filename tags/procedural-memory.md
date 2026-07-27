@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: procedural-memory
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Procedural Memory

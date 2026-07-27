@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: amygdala-ablation
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Amygdala Ablation

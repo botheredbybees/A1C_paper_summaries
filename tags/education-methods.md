@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: education-methods
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Education Methods

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: autism-spectrum-condition
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Autism Spectrum Condition

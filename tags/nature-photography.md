@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: nature-photography
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Nature Photography

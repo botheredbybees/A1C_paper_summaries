@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-function-changes
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Brain Function Changes

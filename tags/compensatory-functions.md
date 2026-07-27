@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: compensatory-functions
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Compensatory Functions

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: origin-of-religion-theory
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Origin Of Religion Theory

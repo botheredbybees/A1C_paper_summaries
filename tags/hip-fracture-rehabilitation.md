@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hip-fracture-rehabilitation
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Hip Fracture Rehabilitation

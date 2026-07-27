@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: problem-solving-behavior
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Problem Solving Behavior

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: non-randomized-studies
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Non Randomized Studies

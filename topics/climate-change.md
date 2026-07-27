@@ -5,11 +5,12 @@ slug: youth-mental-health-and-climate-change
 sources:
   - fxa303-week03-mission-australia-youth-survey-information
   - fxa303-week03-youth-survey-report-2025
+  - psy214-week04-food-and-climate-change-healthy-diets-for-a-healthier-planet
 tags:
 - climate-change
 title: Youth Mental Health and Climate Change
 type: topic
-updated: 2026-05-11
+updated: 2026-07-28
 ---
 
 ## Youth Mental Health and Climate Change
@@ -30,3 +31,4 @@ The Mission Australia Youth Survey Information and the Youth Survey Report 2025 
 
 - [fxa303-week03-mission-australia-youth-survey-information](../sources/fxa303-week03-mission-australia-youth-survey-information.md)
 - [fxa303-week03-youth-survey-report-2025](../sources/fxa303-week03-youth-survey-report-2025.md)
+- [psy214-week04-food-and-climate-change-healthy-diets-for-a-healthier-planet](../sources/psy214-week04-food-and-climate-change-healthy-diets-for-a-healthier-planet.md)

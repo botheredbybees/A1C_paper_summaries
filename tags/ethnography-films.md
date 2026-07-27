@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ethnography-films
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Ethnography Films

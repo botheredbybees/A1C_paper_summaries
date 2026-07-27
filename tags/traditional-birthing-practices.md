@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: traditional-birthing-practices
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Traditional Birthing Practices

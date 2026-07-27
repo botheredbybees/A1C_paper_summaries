@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-activities
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Cognitive Activities

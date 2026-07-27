@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: defense-industry-jobs
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Defense Industry Jobs

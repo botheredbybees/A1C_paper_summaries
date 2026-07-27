@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: nursing-home-care
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Nursing Home Care

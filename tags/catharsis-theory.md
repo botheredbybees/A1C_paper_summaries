@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: catharsis-theory
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Catharsis Theory

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: pre-hippocratic-conceptual-framework
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Pre Hippocratic Conceptual Framework

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: exercise-interventions
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Exercise Interventions

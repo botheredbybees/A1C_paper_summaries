@@ -11,11 +11,13 @@ sources:
   - fxa303-week13-a-meta-analysis-of-randomized-controlled-trials-of-laughter
   - fxa303-week13-the-effect-of-humor-on-elder-mental-and-physical-health
   - psy214-week00-physical-activity-and-depression-towards-understanding-the
+  - psy214-week04-a-mediterranean-style-dietary-intervention-supplemented
+  - psy214-week04-a-randomised-controlled-trial-of-dietary-improvement-for
 tags:
 - depression-treatment
 title: Therapeutic Benefits Of Art In Depression Treatment
 type: topic
-updated: 2026-06-25
+updated: 2026-07-28
 ---
 
 ## Therapeutic Benefits Of Art In Depression Treatment
@@ -41,3 +43,5 @@ The synthesis integrates findings from three sources focusing on the use of arti
 - [fxa303-week13-a-meta-analysis-of-randomized-controlled-trials-of-laughter](../sources/fxa303-week13-a-meta-analysis-of-randomized-controlled-trials-of-laughter.md)
 - [fxa303-week13-the-effect-of-humor-on-elder-mental-and-physical-health](../sources/fxa303-week13-the-effect-of-humor-on-elder-mental-and-physical-health.md)
 - [psy214-week00-physical-activity-and-depression-towards-understanding-the](../sources/psy214-week00-physical-activity-and-depression-towards-understanding-the.md)
+- [psy214-week04-a-mediterranean-style-dietary-intervention-supplemented](../sources/psy214-week04-a-mediterranean-style-dietary-intervention-supplemented.md)
+- [psy214-week04-a-randomised-controlled-trial-of-dietary-improvement-for](../sources/psy214-week04-a-randomised-controlled-trial-of-dietary-improvement-for.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: trauma-literature
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Trauma Literature

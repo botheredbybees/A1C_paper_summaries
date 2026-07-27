@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: lgbtqia-support
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Lgbtqia Support

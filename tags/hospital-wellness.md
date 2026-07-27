@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hospital-wellness
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Hospital Wellness

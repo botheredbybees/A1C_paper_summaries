@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: trauma-treatment
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Trauma Treatment

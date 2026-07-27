@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: confounding-factors
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Confounding Factors

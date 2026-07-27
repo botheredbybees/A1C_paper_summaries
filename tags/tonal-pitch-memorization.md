@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: tonal-pitch-memorization
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Tonal Pitch Memorization

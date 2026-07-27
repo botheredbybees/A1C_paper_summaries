@@ -5,11 +5,14 @@ slug: laughter-prescription-in-lifestyle-medicine
 sources:
   - fxa301-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
   - fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
+  - psy214-week04-introduction-to-lifestyle-medicine
+  - psy214-week04-lesson-psy214-week04-how-we-eat-and-what-impact-it-has
+  - psy214-week04-lesson-psy214-week04-test
 tags:
 - lifestyle-medicine
 title: Laughter Prescription in Lifestyle Medicine
 type: topic
-updated: 2026-05-11
+updated: 2026-07-28
 ---
 
 ## Laughter Prescription in Lifestyle Medicine
@@ -29,3 +32,6 @@ Both sources explore the use of laughter as a tool within lifestyle medicine, fo
 
 - [fxa301-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine](../sources/fxa301-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine.md)
 - [fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine](../sources/fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine.md)
+- [psy214-week04-introduction-to-lifestyle-medicine](../sources/psy214-week04-introduction-to-lifestyle-medicine.md)
+- [psy214-week04-lesson-psy214-week04-how-we-eat-and-what-impact-it-has](../sources/psy214-week04-lesson-psy214-week04-how-we-eat-and-what-impact-it-has.md)
+- [psy214-week04-lesson-psy214-week04-test](../sources/psy214-week04-lesson-psy214-week04-test.md)

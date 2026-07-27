@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: involuntary-same-sex-expressions
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Involuntary Same Sex Expressions

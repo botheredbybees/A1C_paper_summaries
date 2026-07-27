@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: physical-fitness
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Physical Fitness

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurohormonal-mechanisms
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Neurohormonal Mechanisms

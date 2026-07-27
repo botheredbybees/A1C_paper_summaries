@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: howard-gardners-theory-of-multiple-intelligences
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Howard Gardners Theory Of Multiple Intelligences

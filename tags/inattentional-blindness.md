@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: inattentional-blindness
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Inattentional Blindness

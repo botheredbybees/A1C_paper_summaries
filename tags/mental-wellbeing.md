@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-wellbeing
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Mental Wellbeing
@@ -51,3 +51,4 @@ updated: 2026-07-21
 - [Week 11 Overview - FXA303 Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week11-lesson-fxa303-week11-page-1-overview.md)
 - [Creative Arts and Disadvantaged Youth](../sources/fxa303-week11-lesson-fxa303-week11-page-3.md)
 - [The effect of humor on elder mental and physical health](../sources/fxa303-week13-the-effect-of-humor-on-elder-mental-and-physical-health.md)
+- [A 6-month randomised controlled trial investigating effects of Mediterranean-style diet and fish oil supplementation on dietary behaviour change, mental and cardiometabolic health and health-related quality of life in adults with depression](../sources/psy214-week04-a-6-month-randomised-controlled-trial-investigating-effects.md)

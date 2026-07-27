@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: definition-of-art
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Definition Of Art

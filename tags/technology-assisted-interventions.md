@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: technology-assisted-interventions
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Technology Assisted Interventions

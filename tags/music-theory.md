@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-theory
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Music Theory

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: societal-norms-challenge
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Societal Norms Challenge

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: muscle-health
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Muscle Health

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: network-meta-analysis
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Network Meta Analysis

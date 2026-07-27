@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: non-formal-education
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Non Formal Education

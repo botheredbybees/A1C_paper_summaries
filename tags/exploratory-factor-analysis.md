@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: exploratory-factor-analysis
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Exploratory Factor Analysis

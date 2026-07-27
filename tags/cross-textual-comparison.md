@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cross-textual-comparison
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Cross Textual Comparison

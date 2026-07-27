@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: latin-america
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Latin America

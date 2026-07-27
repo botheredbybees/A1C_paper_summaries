@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: image-storytelling
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Image Storytelling

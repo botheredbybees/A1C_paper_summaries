@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: default-mode
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Default Mode

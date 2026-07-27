@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: societal-bias-aging
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Societal Bias Aging

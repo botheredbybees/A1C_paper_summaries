@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: art-and-medical-education
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Art And Medical Education

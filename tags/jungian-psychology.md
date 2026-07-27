@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: jungian-psychology
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Jungian Psychology

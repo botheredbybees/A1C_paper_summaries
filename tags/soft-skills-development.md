@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: soft-skills-development
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Soft Skills Development

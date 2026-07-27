@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: museum-architecture
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Museum Architecture

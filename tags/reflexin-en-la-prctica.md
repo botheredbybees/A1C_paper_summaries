@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: reflexin-en-la-prctica
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Reflexin En La Prctica

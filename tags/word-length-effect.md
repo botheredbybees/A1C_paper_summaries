@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: word-length-effect
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Word Length Effect

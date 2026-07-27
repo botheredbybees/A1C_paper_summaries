@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: virtual-reality
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Virtual Reality

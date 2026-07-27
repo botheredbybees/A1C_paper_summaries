@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hippocampus-function
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Hippocampus Function

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-health-history
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Mental Health History

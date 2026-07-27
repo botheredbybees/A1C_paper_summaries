@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: lithography-in-medical-illustrations
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Lithography In Medical Illustrations

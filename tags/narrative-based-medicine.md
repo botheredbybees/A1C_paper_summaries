@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: narrative-based-medicine
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Narrative Based Medicine

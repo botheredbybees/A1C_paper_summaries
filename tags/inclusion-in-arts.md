@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: inclusion-in-arts
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Inclusion In Arts

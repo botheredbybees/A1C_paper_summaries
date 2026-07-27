@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: writing-techniques
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Writing Techniques

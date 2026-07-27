@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-decline-creativity
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Cognitive Decline Creativity

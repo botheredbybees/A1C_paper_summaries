@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: participant-satisfaction
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Participant Satisfaction

@@ -23,11 +23,16 @@ sources:
   - fxa301-week08-the-connection-between-art-healing-and-public-health-a
   - fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the
   - fxa303-week13-the-associations-between-behavioral-psychological-symptoms
+  - psy214-week04-body-weight-and-public-health
+  - psy214-week04-health-effects-of-dietary-risks-in-195-countries-19902017-a
+  - psy214-week04-introduction-to-lifestyle-medicine
+  - psy214-week04-lesson-psy214-week04-energy-balance-and-bodyweight
+  - psy214-week04-obesity-and-healthy-eating-in-australia
 tags:
 - public-health
 title: Creative Arts in Public Health
 type: topic
-updated: 2026-07-13
+updated: 2026-07-28
 ---
 
 ## Creative Arts in Public Health
@@ -67,3 +72,8 @@ The integration of creative arts into public health interventions presents a mul
 - [fxa301-week08-the-connection-between-art-healing-and-public-health-a](../sources/fxa301-week08-the-connection-between-art-healing-and-public-health-a.md)
 - [fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the](../sources/fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the.md)
 - [fxa303-week13-the-associations-between-behavioral-psychological-symptoms](../sources/fxa303-week13-the-associations-between-behavioral-psychological-symptoms.md)
+- [psy214-week04-body-weight-and-public-health](../sources/psy214-week04-body-weight-and-public-health.md)
+- [psy214-week04-health-effects-of-dietary-risks-in-195-countries-19902017-a](../sources/psy214-week04-health-effects-of-dietary-risks-in-195-countries-19902017-a.md)
+- [psy214-week04-introduction-to-lifestyle-medicine](../sources/psy214-week04-introduction-to-lifestyle-medicine.md)
+- [psy214-week04-lesson-psy214-week04-energy-balance-and-bodyweight](../sources/psy214-week04-lesson-psy214-week04-energy-balance-and-bodyweight.md)
+- [psy214-week04-obesity-and-healthy-eating-in-australia](../sources/psy214-week04-obesity-and-healthy-eating-in-australia.md)

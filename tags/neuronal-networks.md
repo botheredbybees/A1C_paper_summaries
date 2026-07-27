@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuronal-networks
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Neuronal Networks

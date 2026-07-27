@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: societal-impact
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Societal Impact

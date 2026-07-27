@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: skill-development
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Skill Development

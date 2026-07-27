@@ -6,11 +6,12 @@ sources:
   - fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical
   - fxa100-week02-playing-a-musical-instrument-as-a-protective-factor-against
   - fxa101-week03-lifestyle-patterns-and-cognitive-reserve
+  - psy214-week04-lesson-psy214-week04-week-4-introduction
 tags:
 - lifestyle-factors
 title: Lifestyle Factors in Neurodegeneration Prevention
 type: topic
-updated: 2026-07-20
+updated: 2026-07-28
 ---
 
 ## Lifestyle Factors in Neurodegeneration Prevention
@@ -32,3 +33,4 @@ The reviewed literature highlights the critical role of lifestyle factors in mit
 - [fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical](../sources/fxa100-week01-regulation-of-autophagy-mediated-pathways-by-diet-physical.md)
 - [fxa100-week02-playing-a-musical-instrument-as-a-protective-factor-against](../sources/fxa100-week02-playing-a-musical-instrument-as-a-protective-factor-against.md)
 - [fxa101-week03-lifestyle-patterns-and-cognitive-reserve](../sources/fxa101-week03-lifestyle-patterns-and-cognitive-reserve.md)
+- [psy214-week04-lesson-psy214-week04-week-4-introduction](../sources/psy214-week04-lesson-psy214-week04-week-4-introduction.md)

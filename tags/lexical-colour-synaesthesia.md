@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: lexical-colour-synaesthesia
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Lexical Colour Synaesthesia

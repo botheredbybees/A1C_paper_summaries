@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ethical-decision-making
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Ethical Decision Making

@@ -8,7 +8,8 @@ sources:
   - fxa302-week02-review-healing-powers-and-modernity-shamanism-and
   - fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a
   - fxa303-week13-good-health-and-well-being
-updated: 2026-07-13
+  - psy214-week04-health-effects-of-dietary-risks-in-195-countries-19902017-a
+updated: 2026-07-28
 ---
 
 ## Arts-Based Strategies for Global Youth Mental Health
@@ -29,3 +30,4 @@ The integration of arts-based strategies to support youth mental health from a g
 - [fxa302-week02-review-healing-powers-and-modernity-shamanism-and](../sources/fxa302-week02-review-healing-powers-and-modernity-shamanism-and.md)
 - [fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a](../sources/fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a.md)
 - [fxa303-week13-good-health-and-well-being](../sources/fxa303-week13-good-health-and-well-being.md)
+- [psy214-week04-health-effects-of-dietary-risks-in-195-countries-19902017-a](../sources/psy214-week04-health-effects-of-dietary-risks-in-195-countries-19902017-a.md)

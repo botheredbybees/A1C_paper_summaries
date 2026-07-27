@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: youth-detention
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Youth Detention

@@ -11,7 +11,7 @@ tags: ["adolescent-health", "young-adults", "global-health-disparities", "fxa303
 key_concepts: ["mental-health-disorders", "communicable-diseases", "environmental-factors"]
 methods: ["systematic-review"]
 slug: fxa303-week03-adolescent-and-young-adult-health
-related: ["adolescent-health"]
+related: ["adolescent-health", "global-health-disparities"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,3 +46,4 @@ Environmental factors also play a crucial role, increasing risks for unintention
 ## See Also
 
 - [adolescent-health](../topics/adolescent-health.md)
+- [global-health-disparities](../topics/global-health-disparities.md)

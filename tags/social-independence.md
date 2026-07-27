@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-independence
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Social Independence

@@ -6,11 +6,12 @@ sources:
   - fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a
   - psy214-week01-biological-processes-associated-with-chronic-stress
   - psy214-week01-lesson-psy214-week01-stress-related-biological-processes
+  - psy214-week04-lesson-psy214-week04-nutritional-science
 tags:
 - oxidative-stress
 title: Oxidative Stress
 type: topic
-updated: 2026-07-06
+updated: 2026-07-28
 ---
 
 ## Oxidative Stress
@@ -32,3 +33,4 @@ The provided source highlights the role of oxidative stress in the progression o
 - [fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a](../sources/fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a.md)
 - [psy214-week01-biological-processes-associated-with-chronic-stress](../sources/psy214-week01-biological-processes-associated-with-chronic-stress.md)
 - [psy214-week01-lesson-psy214-week01-stress-related-biological-processes](../sources/psy214-week01-lesson-psy214-week01-stress-related-biological-processes.md)
+- [psy214-week04-lesson-psy214-week04-nutritional-science](../sources/psy214-week04-lesson-psy214-week04-nutritional-science.md)

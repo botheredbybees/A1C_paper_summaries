@@ -11,7 +11,7 @@ tags: ["behavioral-symptoms-dementia", "four-factor-solution-for-symptom-co-occu
 key_concepts: ["Behavioral and Psychological Symptoms of Dementia (BPSD)", "Four-Factor Solution for Symptom Co-occurrence"]
 methods: ["longitudinal study", "systematic review"]
 slug: fxa303-week13-prevalence-correlates-and-course-of-behavioural-and
-related: ["behavioral-symptoms-dementia", "psychological-symptoms-dementia"]
+related: ["behavioral-symptoms-dementia", "population-study", "psychological-symptoms-dementia"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -42,4 +42,5 @@ This study explores the behavioral and psychological symptoms of dementia (BPSD)
 ## See Also
 
 - [behavioral-symptoms-dementia](../topics/behavioral-symptoms-dementia.md)
+- [population-study](../topics/population-study.md)
 - [psychological-symptoms-dementia](../topics/psychological-symptoms-dementia.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: revised-ro-b-2
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Revised Ro B 2

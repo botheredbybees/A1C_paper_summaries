@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychological-benefits
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Psychological Benefits

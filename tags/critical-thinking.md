@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: critical-thinking
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Critical Thinking
@@ -10,3 +10,4 @@ updated: 2026-07-21
 - [Formal Art Observation Training Improves Medical Students\u2019 Visual Diagnostic Skills](../sources/fxa302-week03-formal-art-observation-training-improves-medical-students.md)
 - [Visual Thinking Strategy](../sources/fxa302-week03-visual-thinking-strategy.md)
 - [Why Med Schools Are Requiring Art Classes](../sources/fxa302-week03-why-med-schools-are-requiring-art-classes.md)
+- [PSY114 PSY214 Stress, Self-Care and Mindfulness: Think critically, eat joyfully](../sources/psy214-week04-lesson-psy214-week04-revisiting-eat-food.md)

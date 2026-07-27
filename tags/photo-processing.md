@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: photo-processing
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Photo Processing

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cross-modal-interactions
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Cross Modal Interactions

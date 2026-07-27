@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: natural-selection
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Natural Selection

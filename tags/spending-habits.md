@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: spending-habits
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Spending Habits

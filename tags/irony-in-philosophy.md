@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: irony-in-philosophy
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Irony In Philosophy

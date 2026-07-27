@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-mechanisms
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Therapeutic Mechanisms

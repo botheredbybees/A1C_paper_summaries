@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: scientific-method-application
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Scientific Method Application

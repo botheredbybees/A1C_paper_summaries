@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: urban-vs-regional
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Urban Vs Regional

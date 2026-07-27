@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: adolescent-emotional-development
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Adolescent Emotional Development

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: tactile-exhibits
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Tactile Exhibits

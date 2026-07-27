@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: gender-dynamics
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Gender Dynamics

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: musicians-with-dyslexia
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Musicians With Dyslexia

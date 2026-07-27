@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: migration-policy
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Migration Policy

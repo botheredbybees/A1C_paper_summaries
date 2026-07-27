@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: literature-medicine
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Literature Medicine

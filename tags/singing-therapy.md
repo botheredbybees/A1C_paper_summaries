@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: singing-therapy
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Singing Therapy

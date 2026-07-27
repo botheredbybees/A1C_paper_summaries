@@ -7,13 +7,15 @@ doi: https://doi.org/10.1038/s41380-020-00925-x
 appearances:
   - unit: PSY214
     week: "00"
+  - unit: PSY214
+    week: "04"
 tags: ["dietary-patterns", "mental-health-outcomes", "biological-mechanisms", "depression-risk-factors", "nutritional-interventions", "psy214", "mediterranean-diet", "inflammation-modulation", "gut-microbiota-regulation"]
 key_concepts: ["Mediterranean diet", "inflammation modulation", "gut microbiota regulation"]
 methods: ["systematic review"]
 slug: psy214-week00-diet-and-depression-exploring-the-biological-mechanisms-of
-related: ["mental-health-outcomes"]
+related: ["mediterranean-diet", "mental-health-outcomes"]
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-07-28
 ---
 
 _All claims sourced from ../raw/pdf/psy214-week00-diet-and-depression-exploring-the-biological-mechanisms-of.md_
@@ -44,4 +46,5 @@ This review article explores the biological mechanisms by which diet influences 
 
 ## See Also
 
+- [mediterranean-diet](../topics/mediterranean-diet.md)
 - [mental-health-outcomes](../topics/mental-health-outcomes.md)

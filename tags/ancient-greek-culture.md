@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ancient-greek-culture
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Ancient Greek Culture

@@ -54,11 +54,13 @@ sources:
   - fxa303-week13-laughter-and-humour-interventions-for-well-being-in-older
   - fxa303-week13-the-effects-of-reminiscence-therapy-on-psychological-well
   - psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop
+  - psy214-week04-a-mediterranean-style-dietary-intervention-supplemented
+  - psy214-week04-lesson-psy214-week04-nutritional-science
 tags:
 - mental-health
 title: Creative Therapies for Mental Health
 type: topic
-updated: 2026-07-13
+updated: 2026-07-28
 ---
 
 ## Creative Therapies for Mental Health
@@ -130,3 +132,5 @@ The sources illustrate a variety of creative therapies that have been developed 
 - [fxa303-week13-laughter-and-humour-interventions-for-well-being-in-older](../sources/fxa303-week13-laughter-and-humour-interventions-for-well-being-in-older.md)
 - [fxa303-week13-the-effects-of-reminiscence-therapy-on-psychological-well](../sources/fxa303-week13-the-effects-of-reminiscence-therapy-on-psychological-well.md)
 - [psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop](../sources/psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop.md)
+- [psy214-week04-a-mediterranean-style-dietary-intervention-supplemented](../sources/psy214-week04-a-mediterranean-style-dietary-intervention-supplemented.md)
+- [psy214-week04-lesson-psy214-week04-nutritional-science](../sources/psy214-week04-lesson-psy214-week04-nutritional-science.md)

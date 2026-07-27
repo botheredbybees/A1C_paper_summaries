@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hippocratic-medicine
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Hippocratic Medicine

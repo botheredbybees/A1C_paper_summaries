@@ -8,7 +8,8 @@ sources:
   - psy214-week00-physical-activity-and-depression-towards-understanding-the
   - psy214-week01-biological-processes-associated-with-chronic-stress
   - psy214-week01-lesson-psy214-week01-stress-related-biological-processes
-updated: 2026-07-06
+  - psy214-week04-lesson-psy214-week04-nutritional-science
+updated: 2026-07-28
 ---
 
 ## Inflammation in Biological Processes
@@ -29,3 +30,4 @@ Across the sources provided, inflammation emerges as a critical component in und
 - [psy214-week00-physical-activity-and-depression-towards-understanding-the](../sources/psy214-week00-physical-activity-and-depression-towards-understanding-the.md)
 - [psy214-week01-biological-processes-associated-with-chronic-stress](../sources/psy214-week01-biological-processes-associated-with-chronic-stress.md)
 - [psy214-week01-lesson-psy214-week01-stress-related-biological-processes](../sources/psy214-week01-lesson-psy214-week01-stress-related-biological-processes.md)
+- [psy214-week04-lesson-psy214-week04-nutritional-science](../sources/psy214-week04-lesson-psy214-week04-nutritional-science.md)

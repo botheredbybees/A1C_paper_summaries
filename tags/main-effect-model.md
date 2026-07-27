@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: main-effect-model
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Main Effect Model

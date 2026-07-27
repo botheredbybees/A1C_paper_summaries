@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: incongruity-resolution
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Incongruity Resolution

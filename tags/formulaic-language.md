@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: formulaic-language
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Formulaic Language

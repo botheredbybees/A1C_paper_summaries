@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: lewy-body-dementia
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Lewy Body Dementia

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: galenic-medical-theory
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Galenic Medical Theory

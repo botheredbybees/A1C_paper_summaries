@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: chronic-kidney-disease
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Chronic Kidney Disease

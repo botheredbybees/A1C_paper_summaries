@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ethical-editing-practices
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Ethical Editing Practices

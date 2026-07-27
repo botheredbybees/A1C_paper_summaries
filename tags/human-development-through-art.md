@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: human-development-through-art
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Human Development Through Art

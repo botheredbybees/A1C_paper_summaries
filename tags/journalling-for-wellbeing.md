@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: journalling-for-wellbeing
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Journalling For Wellbeing

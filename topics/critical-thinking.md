@@ -8,11 +8,12 @@ sources:
   - fxa302-week03-formal-art-observation-training-improves-medical-students
   - fxa302-week03-visual-thinking-strategy
   - fxa302-week03-why-med-schools-are-requiring-art-classes
+  - psy214-week04-lesson-psy214-week04-revisiting-eat-food
 tags:
 - critical-thinking
 title: Critical Thinking
 type: topic
-updated: 2026-07-20
+updated: 2026-07-28
 ---
 
 ## Critical Thinking
@@ -36,3 +37,4 @@ The provided source emphasizes the importance of journaling and visual research 
 - [fxa302-week03-formal-art-observation-training-improves-medical-students](../sources/fxa302-week03-formal-art-observation-training-improves-medical-students.md)
 - [fxa302-week03-visual-thinking-strategy](../sources/fxa302-week03-visual-thinking-strategy.md)
 - [fxa302-week03-why-med-schools-are-requiring-art-classes](../sources/fxa302-week03-why-med-schools-are-requiring-art-classes.md)
+- [psy214-week04-lesson-psy214-week04-revisiting-eat-food](../sources/psy214-week04-lesson-psy214-week04-revisiting-eat-food.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: context-dependent-coping
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Context Dependent Coping

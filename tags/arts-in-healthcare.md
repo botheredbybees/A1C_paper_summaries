@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-in-healthcare
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Arts In Healthcare

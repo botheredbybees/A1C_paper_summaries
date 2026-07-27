@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cerebral-cortex
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Cerebral Cortex

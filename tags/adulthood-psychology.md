@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: adulthood-psychology
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Adulthood Psychology

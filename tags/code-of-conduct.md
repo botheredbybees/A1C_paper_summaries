@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: code-of-conduct
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Code Of Conduct

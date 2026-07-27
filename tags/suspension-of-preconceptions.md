@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: suspension-of-preconceptions
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Suspension Of Preconceptions

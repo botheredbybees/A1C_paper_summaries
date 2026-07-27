@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: memory-span
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Memory Span

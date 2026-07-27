@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: broaden-and-build-theory
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Broaden And Build Theory
