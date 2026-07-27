@@ -6,4 +6,5 @@ updated: 2026-07-28
 
 ## Health Wellness
 
+- [Music and Health](../sources/fxa300-week04-music-and-health.md)
 - [Social Prescribing Roundtable, November 2019: Report](../sources/fxa303-week03-social-prescribing-roundtable-november-2019-report.md)

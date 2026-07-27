@@ -13,6 +13,9 @@ sources:
   - fxa300-week03-transcript-youtube-uwkvpfzjwceduration
   - fxa300-week03-transcript-youtube-vjg698u2mvo
   - fxa300-week03-word-length-and-the-structure-of-short-term-memory
+  - fxa300-week04-auditory-imagery-empirical-findings
+  - fxa300-week04-irrelevant-sound-interference-on-phonological-and-tonal
+  - fxa300-week04-music-cognition
   - fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and
   - fxa303-week02-lesson-fxa303-week02-introduction-copy
   - fxa303-week13-the-neural-basis-of-humour-processing
@@ -20,7 +23,7 @@ tags:
 - cognitive-psychology
 title: Cognitive Psychology in Aesthetic Appreciation and Adolescent Development
 type: topic
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Cognitive Psychology in Aesthetic Appreciation and Adolescent Development
@@ -49,6 +52,9 @@ The synthesis of the cognitive psychology theories from both sources reveals a n
 - [fxa300-week03-transcript-youtube-uwkvpfzjwceduration](../sources/fxa300-week03-transcript-youtube-uwkvpfzjwceduration.md)
 - [fxa300-week03-transcript-youtube-vjg698u2mvo](../sources/fxa300-week03-transcript-youtube-vjg698u2mvo.md)
 - [fxa300-week03-word-length-and-the-structure-of-short-term-memory](../sources/fxa300-week03-word-length-and-the-structure-of-short-term-memory.md)
+- [fxa300-week04-auditory-imagery-empirical-findings](../sources/fxa300-week04-auditory-imagery-empirical-findings.md)
+- [fxa300-week04-irrelevant-sound-interference-on-phonological-and-tonal](../sources/fxa300-week04-irrelevant-sound-interference-on-phonological-and-tonal.md)
+- [fxa300-week04-music-cognition](../sources/fxa300-week04-music-cognition.md)
 - [fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and](../sources/fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and.md)
 - [fxa303-week02-lesson-fxa303-week02-introduction-copy](../sources/fxa303-week02-lesson-fxa303-week02-introduction-copy.md)
 - [fxa303-week13-the-neural-basis-of-humour-processing](../sources/fxa303-week13-the-neural-basis-of-humour-processing.md)

@@ -7,13 +7,15 @@ doi: https://doi.org/10.1037/a0030830
 appearances:
   - unit: FXA300
     week: "03"
+  - unit: FXA300
+    week: "04"
 tags: ["music-theory", "cognitive-auditory-processing", "pitch-perception", "fxa300", "consonance-dissonance", "long-term-memory-templates", "frequency-relations"]
 key_concepts: ["consonance-dissonance", "long-term-memory-templates", "frequency-relations"]
 methods: ["experimental-evidence"]
 slug: fxa300-week03-consonance-and-pitch
-related: ["pitch-perception"]
+related: ["consonance-dissonance", "music-theory", "pitch-perception"]
 created: 2026-07-21
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 _All claims sourced from ../raw/pdf/fxa300-week03-consonance-and-pitch.md_
@@ -42,4 +44,6 @@ This paper challenges the prevailing theories of consonance and dissonance in mu
 
 ## See Also
 
+- [consonance-dissonance](../topics/consonance-dissonance.md)
+- [music-theory](../topics/music-theory.md)
 - [pitch-perception](../topics/pitch-perception.md)

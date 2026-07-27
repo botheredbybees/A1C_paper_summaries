@@ -11,7 +11,7 @@ tags: ["music-psychology", "interdisciplinary-research", "cognitive-neuroscience
 key_concepts: ["interdisciplinary-approach", "critical-thinking-in-research"]
 methods: ["reflective-analysis"]
 slug: fxa300-week02-epilogue-ruminations-on-music-psychology
-related: ["cognitive-neuroscience", "interdisciplinary-research", "music-psychology", "philosophy-of-music"]
+related: ["cognitive-neuroscience", "interdisciplinary-approach", "interdisciplinary-research", "music-psychology", "philosophy-of-music"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -43,6 +43,7 @@ This chapter presents reflections on the field of music psychology, emphasizing 
 ## See Also
 
 - [cognitive-neuroscience](../topics/cognitive-neuroscience.md)
+- [interdisciplinary-approach](../topics/interdisciplinary-approach.md)
 - [interdisciplinary-research](../topics/interdisciplinary-research.md)
 - [music-psychology](../topics/music-psychology.md)
 - [philosophy-of-music](../topics/philosophy-of-music.md)

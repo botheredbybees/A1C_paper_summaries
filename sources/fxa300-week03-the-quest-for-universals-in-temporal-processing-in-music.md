@@ -7,13 +7,15 @@ doi: https://doi.org/10.1111/j.1749-6632.2009.04584.x
 appearances:
   - unit: FXA300
     week: "03"
+  - unit: FXA300
+    week: "04"
 tags: ["rhythm-perception", "music-cognition", "temporal-universals", "cross-cultural-research", "fxa300", "cultural-impact-on-music-processing"]
 key_concepts: ["temporal-universals", "cultural-impact-on-music-processing"]
 methods: ["literature-review"]
 slug: fxa300-week03-the-quest-for-universals-in-temporal-processing-in-music
 related: ["cross-cultural-research", "music-cognition", "rhythm-perception"]
 created: 2026-07-21
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 _All claims sourced from ../raw/pdf/fxa300-week03-the-quest-for-universals-in-temporal-processing-in-music.md_

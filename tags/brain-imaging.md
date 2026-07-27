@@ -11,3 +11,4 @@ updated: 2026-07-28
 - [Preserved painting creativity in an artist with Alzheimer\u2019s disease](../sources/fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers.md)
 - [The Neural Basis of Human Dance](../sources/fxa100-week11-the-neural-basis-of-human-dance.md)
 - [Neurophysiological Effects of Trait Empathy in Music Listening](../sources/fxa300-week01-neurophysiological-effects-of-trait-empathy-in-music.md)
+- [Auditory Imagery: Empirical Findings](../sources/fxa300-week04-auditory-imagery-empirical-findings.md)

@@ -11,7 +11,7 @@ tags: ["memory-processing", "cognition-auditory", "working-memory-model", "echoi
 key_concepts: ["echoic memory", "phonological loop"]
 methods: []
 slug: fxa300-week03-lesson-fxa300-week03-page-2-memory-and-processing-1
-related: ["echoic-memory", "phonological-loop", "working-memory-model"]
+related: ["echoic-memory", "memory-processing", "phonological-loop", "working-memory-model"]
 created: 2026-07-21
 updated: 2026-07-21
 ---
@@ -42,5 +42,6 @@ This lesson explores the fundamentals of memory formation, loss, and auditory pr
 ## See Also
 
 - [echoic-memory](../topics/echoic-memory.md)
+- [memory-processing](../topics/memory-processing.md)
 - [phonological-loop](../topics/phonological-loop.md)
 - [working-memory-model](../topics/working-memory-model.md)

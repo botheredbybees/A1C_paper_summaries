@@ -11,7 +11,7 @@ tags: ["philosophy-of-mind", "dementia-care", "personhood-theory", "tacit-knowle
 key_concepts: ["embodied selfhood", "bodily autonomy", "tacit knowledge", "sedimentation of habits"]
 methods: []
 slug: fxa100-how-we-thnk-about-dementia-ch12-chapter-4
-related: ["dementia-care", "personhood-theory", "philosophy-of-mind"]
+related: ["dementia-care", "personhood-theory", "philosophy-of-mind", "tacit-knowledge"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -47,3 +47,4 @@ The chapter explores philosophical perspectives on dementia, emphasizing theorie
 - [dementia-care](../topics/dementia-care.md)
 - [personhood-theory](../topics/personhood-theory.md)
 - [philosophy-of-mind](../topics/philosophy-of-mind.md)
+- [tacit-knowledge](../topics/tacit-knowledge.md)

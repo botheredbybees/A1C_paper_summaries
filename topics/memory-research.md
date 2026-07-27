@@ -7,7 +7,8 @@ tags: ["memory-research"]
 sources:
   - fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted
   - fxa300-week03-lesson-fxa300-week03-page-4-activities
-updated: 2026-07-21
+  - fxa300-week04-auditory-imagery-empirical-findings
+updated: 2026-07-28
 ---
 
 ## Music and Memory
@@ -27,3 +28,4 @@ The relationship between music and memory is a multifaceted topic that explores 
 
 - [fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted](../sources/fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted.md)
 - [fxa300-week03-lesson-fxa300-week03-page-4-activities](../sources/fxa300-week03-lesson-fxa300-week03-page-4-activities.md)
+- [fxa300-week04-auditory-imagery-empirical-findings](../sources/fxa300-week04-auditory-imagery-empirical-findings.md)

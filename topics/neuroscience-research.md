@@ -8,12 +8,13 @@ sources:
   - fxa101-week03-imagination-how-thinking-makes-it-so
   - fxa101-week03-web-article-iversen-2020
   - fxa300-week02-biopsychology-as-a-neuroscience
+  - fxa300-week04-transcript-a-summary-of-a-case-study-of-a-musician-and-music-(2)
   - fxa301-week03-transcript-youtube-5utv1ergbs8
 tags:
 - neuroscience-research
 title: Neuroscience Research in Music and Movement
 type: topic
-updated: 2026-07-20
+updated: 2026-07-28
 ---
 
 ## Neuroscience Research in Music and Movement
@@ -37,4 +38,5 @@ The integration of music and movement interventions into neuroscience research r
 - [fxa101-week03-imagination-how-thinking-makes-it-so](../sources/fxa101-week03-imagination-how-thinking-makes-it-so.md)
 - [fxa101-week03-web-article-iversen-2020](../sources/fxa101-week03-web-article-iversen-2020.md)
 - [fxa300-week02-biopsychology-as-a-neuroscience](../sources/fxa300-week02-biopsychology-as-a-neuroscience.md)
+- [fxa300-week04-transcript-a-summary-of-a-case-study-of-a-musician-and-music-(2)](../sources/fxa300-week04-transcript-a-summary-of-a-case-study-of-a-musician-and-music-%282%29.md)
 - [fxa301-week03-transcript-youtube-5utv1ergbs8](../sources/fxa301-week03-transcript-youtube-5utv1ergbs8.md)

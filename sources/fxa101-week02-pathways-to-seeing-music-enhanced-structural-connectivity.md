@@ -11,7 +11,7 @@ tags: ["neuroimaging-study", "sensory-integration", "synesthesia-research", "fxa
 key_concepts: ["colored-music synesthesia", "structural connectivity"]
 methods: ["diffusion tensor imaging"]
 slug: fxa101-week02-pathways-to-seeing-music-enhanced-structural-connectivity
-related: ["synesthesia-research"]
+related: ["sensory-integration", "synesthesia-research"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -41,4 +41,5 @@ This study explores the neural basis of colored-music synesthesia, a form of syn
 
 ## See Also
 
+- [sensory-integration](../topics/sensory-integration.md)
 - [synesthesia-research](../topics/synesthesia-research.md)

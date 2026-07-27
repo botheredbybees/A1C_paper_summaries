@@ -11,7 +11,7 @@ tags: ["music-psychology", "emotional-reaction", "expectation-theory", "statisti
 key_concepts: ["musical-expectancy", "emotional-responses", "statistical-learning"]
 methods: ["literature-review"]
 slug: fxa300-week01-musical-expectancy-and-thrills
-related: ["emotional-reaction", "expectation-theory", "music-psychology", "musical-expectancy"]
+related: ["emotional-reaction", "expectation-theory", "music-psychology", "musical-expectancy", "statistical-learning"]
 created: 2026-07-06
 updated: 2026-07-06
 ---
@@ -46,3 +46,4 @@ The chapter by Huron and Margulis explores the central role of expectation in mu
 - [expectation-theory](../topics/expectation-theory.md)
 - [music-psychology](../topics/music-psychology.md)
 - [musical-expectancy](../topics/musical-expectancy.md)
+- [statistical-learning](../topics/statistical-learning.md)

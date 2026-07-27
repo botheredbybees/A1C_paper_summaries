@@ -7,13 +7,15 @@ doi: null
 appearances:
   - unit: FXA300
     week: "03"
+  - unit: FXA300
+    week: "04"
 tags: ["music-cognition", "memory-systems", "interdisciplinary-research", "fxa300", "echoic-memory", "musical-grouping-theory", "cognitive-principles"]
 key_concepts: ["echoic-memory", "musical-grouping-theory", "cognitive-principles"]
 methods: ["book-review"]
 slug: fxa300-week03-music-and-memory-an-introduction-review
 related: ["echoic-memory", "interdisciplinary-research", "memory-systems", "music-cognition"]
 created: 2026-07-21
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 _All claims sourced from ../raw/pdf/fxa300-week03-music-and-memory-an-introduction-review.md_

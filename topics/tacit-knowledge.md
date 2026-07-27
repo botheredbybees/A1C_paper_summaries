@@ -3,14 +3,15 @@ confidence: medium
 domain: method
 slug: tacit-knowledge-in-healthcare-and-social-services
 sources:
-- fxa100-how-we-thnk-about-dementia-ch12-chapter-4
-- fxa100-week10-transforming-dementia-care-through-theatre
-- fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to
+  - fxa100-how-we-thnk-about-dementia-ch12-chapter-4
+  - fxa100-week10-transforming-dementia-care-through-theatre
+  - fxa300-week04-implicit-learning-and-acquisition-of-music
+  - fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to
 tags:
 - tacit-knowledge
 title: Tacit Knowledge in Healthcare and Social Services
 type: topic
-updated: 2026-05-04
+updated: 2026-07-28
 ---
 
 ## Tacit Knowledge in Healthcare and Social Services
@@ -37,4 +38,5 @@ While all three sources recognize the significance of tacit knowledge in shaping
 
 - [fxa100-how-we-thnk-about-dementia-ch12-chapter-4](../sources/fxa100-how-we-thnk-about-dementia-ch12-chapter-4.md)
 - [fxa100-week10-transforming-dementia-care-through-theatre](../sources/fxa100-week10-transforming-dementia-care-through-theatre.md)
+- [fxa300-week04-implicit-learning-and-acquisition-of-music](../sources/fxa300-week04-implicit-learning-and-acquisition-of-music.md)
 - [fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to](../sources/fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to.md)

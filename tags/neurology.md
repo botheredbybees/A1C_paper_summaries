@@ -11,4 +11,5 @@ updated: 2026-07-28
 - [The Science of Lewy Body Dementia](../sources/fxa100-week01-transcript-the-science-of-lewy-body-dementia.md)
 - [The power of music](../sources/fxa100-week02-the-power-of-music.md)
 - [The Effects of Music on the Brain](../sources/fxa100-week03-transcript-the-effects-of-music-on-the-brain.md)
+- [Music and Regions of the Brain](../sources/fxa300-week04-lesson-fxa300-week04-page-3-1.md)
 - [The Human Brain: Facts and Information](../sources/fxa301-week01-web-article-zuckerman-2009.md)

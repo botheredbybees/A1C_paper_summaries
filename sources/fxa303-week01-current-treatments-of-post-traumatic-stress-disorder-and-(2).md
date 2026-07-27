@@ -11,7 +11,7 @@ tags: ["post-traumatic-stress-disorder", "amygdala-ablation", "refractory-cases"
 key_concepts: ["PTSD pathophysiology", "trauma-focused therapies", "medically unresponsive epilepsy"]
 methods: ["systematic review"]
 slug: fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2)
-related: ["amygdala-ablation", "post-traumatic-stress-disorder", "refractory-cases"]
+related: ["amygdala-ablation", "neurosurgery", "post-traumatic-stress-disorder", "refractory-cases"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,5 +43,6 @@ This article reviews current treatments for post-traumatic stress disorder (PTSD
 ## See Also
 
 - [amygdala-ablation](../topics/amygdala-ablation.md)
+- [neurosurgery](../topics/neurosurgery.md)
 - [post-traumatic-stress-disorder](../topics/post-traumatic-stress-disorder.md)
 - [refractory-cases](../topics/refractory-cases.md)

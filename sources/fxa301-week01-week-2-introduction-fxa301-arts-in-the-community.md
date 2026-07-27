@@ -11,7 +11,7 @@ tags: ["arts-and-health", "brain-functions", "community-wellbeing", "creativity"
 key_concepts: ["human brain", "neurochemicals and hormones", "perception of art", "creative processes"]
 methods: ["case study"]
 slug: fxa301-week01-week-2-introduction-fxa301-arts-in-the-community
-related: ["arts-and-health", "community-wellbeing", "creativity", "human-brain", "neuroaesthetics"]
+related: ["arts-and-health", "brain-functions", "community-wellbeing", "creativity", "human-brain", "neuroaesthetics"]
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -43,6 +43,7 @@ This week's introduction for the course FXA301 Arts in the Community provides an
 ## See Also
 
 - [arts-and-health](../topics/arts-and-health.md)
+- [brain-functions](../topics/brain-functions.md)
 - [community-wellbeing](../topics/community-wellbeing.md)
 - [creativity](../topics/creativity.md)
 - [human-brain](../topics/human-brain.md)

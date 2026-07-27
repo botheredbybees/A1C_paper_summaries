@@ -20,6 +20,8 @@ sources:
   - fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession
   - fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in
   - fxa300-week03-lesson-fxa300-week03-page-4-week-1-activities
+  - fxa300-week04-lesson-fxa300-week04-page-4-activities-1
+  - fxa300-week04-transcript-a-summary-of-a-case-study-of-a-musician-and-music
   - fxa301-week01-lesson-fxa301-week01-page-3-how-do-we-respond-to
   - fxa301-week01-transcript-it-also-includes-discussion-of-what-can-be
   - fxa301-week02-lecture-on-perception-of-the-arts
@@ -28,7 +30,7 @@ tags:
 - brain-function
 title: Music's Impact on Brain Function
 type: topic
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Music's Impact on Brain Function
@@ -64,6 +66,8 @@ The sources collectively emphasize the profound impact of music on various aspec
 - [fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession](../sources/fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession.md)
 - [fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in](../sources/fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in.md)
 - [fxa300-week03-lesson-fxa300-week03-page-4-week-1-activities](../sources/fxa300-week03-lesson-fxa300-week03-page-4-week-1-activities.md)
+- [fxa300-week04-lesson-fxa300-week04-page-4-activities-1](../sources/fxa300-week04-lesson-fxa300-week04-page-4-activities-1.md)
+- [fxa300-week04-transcript-a-summary-of-a-case-study-of-a-musician-and-music](../sources/fxa300-week04-transcript-a-summary-of-a-case-study-of-a-musician-and-music.md)
 - [fxa301-week01-lesson-fxa301-week01-page-3-how-do-we-respond-to](../sources/fxa301-week01-lesson-fxa301-week01-page-3-how-do-we-respond-to.md)
 - [fxa301-week01-transcript-it-also-includes-discussion-of-what-can-be](../sources/fxa301-week01-transcript-it-also-includes-discussion-of-what-can-be.md)
 - [fxa301-week02-lecture-on-perception-of-the-arts](../sources/fxa301-week02-lecture-on-perception-of-the-arts.md)

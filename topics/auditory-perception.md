@@ -7,7 +7,9 @@ tags: ["auditory-perception"]
 sources:
   - fxa100-week13-hearing-what-the-body-feels-auditory-encoding-of-rhythmic
   - fxa300-week01-effect-of-background-noise-on-food-perception
-updated: 2026-07-06
+  - fxa300-week04-musical-hearing
+  - fxa300-week04-transcript-delete-this-element
+updated: 2026-07-28
 ---
 
 ## Auditory Perception
@@ -28,3 +30,5 @@ The sources provided highlight the multifaceted nature of auditory perception an
 
 - [fxa100-week13-hearing-what-the-body-feels-auditory-encoding-of-rhythmic](../sources/fxa100-week13-hearing-what-the-body-feels-auditory-encoding-of-rhythmic.md)
 - [fxa300-week01-effect-of-background-noise-on-food-perception](../sources/fxa300-week01-effect-of-background-noise-on-food-perception.md)
+- [fxa300-week04-musical-hearing](../sources/fxa300-week04-musical-hearing.md)
+- [fxa300-week04-transcript-delete-this-element](../sources/fxa300-week04-transcript-delete-this-element.md)

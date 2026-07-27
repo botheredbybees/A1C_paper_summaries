@@ -1,0 +1,9 @@
+---
+type: tag
+tag: murk-effect
+updated: 2026-07-28
+---
+
+## Murk Effect
+
+- [The Murk Effect: A Demonstration of Visual Influence on Auditory Perception](../sources/fxa300-week04-transcript-delete-this-element.md)

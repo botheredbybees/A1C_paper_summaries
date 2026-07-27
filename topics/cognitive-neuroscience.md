@@ -23,6 +23,7 @@ sources:
   - fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music
   - fxa300-week02-epilogue-ruminations-on-music-psychology
   - fxa300-week03-music-training-improves-verbal-but-not-visual-memory-cross
+  - fxa300-week04-an-ale-meta-analytic-review-of-top-down-and-bottom-up
   - fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with
   - fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community
   - fxa303-week02-scientific-thinking-in-young-children-theoretical-advances
@@ -71,6 +72,7 @@ The exploration of brain lateralization and individual differences in cognitive 
 - [fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music](../sources/fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music.md)
 - [fxa300-week02-epilogue-ruminations-on-music-psychology](../sources/fxa300-week02-epilogue-ruminations-on-music-psychology.md)
 - [fxa300-week03-music-training-improves-verbal-but-not-visual-memory-cross](../sources/fxa300-week03-music-training-improves-verbal-but-not-visual-memory-cross.md)
+- [fxa300-week04-an-ale-meta-analytic-review-of-top-down-and-bottom-up](../sources/fxa300-week04-an-ale-meta-analytic-review-of-top-down-and-bottom-up.md)
 - [fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with](../sources/fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with.md)
 - [fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community](../sources/fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community.md)
 - [fxa303-week02-scientific-thinking-in-young-children-theoretical-advances](../sources/fxa303-week02-scientific-thinking-in-young-children-theoretical-advances.md)

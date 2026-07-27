@@ -23,6 +23,8 @@ updated: 2026-07-28
 - [This Is Your Brain On Music: Understanding a Human Obsession](../sources/fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession.md)
 - [Broca\u2019s Area Supports Enhanced Visuospatial Cognition in Orchestral Musicians](../sources/fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in.md)
 - [Activities for Week 1: Discussions and Learning Materials](../sources/fxa300-week03-lesson-fxa300-week03-page-4-week-1-activities.md)
+- [Week 4 Activities - FXA300 Music, Mind and Body](../sources/fxa300-week04-lesson-fxa300-week04-page-4-activities-1.md)
+- [Case Study: Impact of Brain Tumor on Musical Function](../sources/fxa300-week04-transcript-a-summary-of-a-case-study-of-a-musician-and-music.md)
 - [How does the brain help us to respond to creative art?](../sources/fxa301-week01-lesson-fxa301-week01-page-3-how-do-we-respond-to.md)
 - [It also includes discussion of what can be perceived when the areas of the brain associated with visual processing do not function in the usual way](../sources/fxa301-week01-transcript-it-also-includes-discussion-of-what-can-be.md)
 - [Lecture on Perception of the Arts](../sources/fxa301-week02-lecture-on-perception-of-the-arts.md)

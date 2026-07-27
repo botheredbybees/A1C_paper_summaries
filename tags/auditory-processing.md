@@ -12,3 +12,4 @@ updated: 2026-07-28
 - [The Brain Atlas: A Visual Guide to the Human Central Nervous System](../sources/fxa300-week02-the-brain-atlas-a-visual-guide-to-the-human-central-nervous.md)
 - [Effect of Repetition of Standard and Comparison Tones on Recognition Memory for Pitch](../sources/fxa300-week03-effect-of-repetition-of-standard-and-comparison-tones-on.md)
 - [Exploring the Articulatory Loop](../sources/fxa300-week03-exploring-the-articulatory-loop.md)
+- [How does your brain decode garbled speech?](../sources/fxa300-week04-how-does-your-brain-decode-garbled-speech.md)

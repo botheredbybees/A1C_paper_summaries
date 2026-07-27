@@ -11,7 +11,7 @@ tags: ["auditory-system", "brain-regions", "hearing-process", "fxa300", "tonotop
 key_concepts: ["tonotopy", "categorical-perception", "feature-extraction"]
 methods: []
 slug: fxa300-week02-lesson-fxa300-week02-week-3-the-auditory-system
-related: ["auditory-system", "hearing-process"]
+related: ["auditory-system", "brain-regions", "categorical-perception", "feature-extraction", "hearing-process"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -43,4 +43,7 @@ The lesson covers the auditory system's role in recognizing sounds and identifyi
 ## See Also
 
 - [auditory-system](../topics/auditory-system.md)
+- [brain-regions](../topics/brain-regions.md)
+- [categorical-perception](../topics/categorical-perception.md)
+- [feature-extraction](../topics/feature-extraction.md)
 - [hearing-process](../topics/hearing-process.md)

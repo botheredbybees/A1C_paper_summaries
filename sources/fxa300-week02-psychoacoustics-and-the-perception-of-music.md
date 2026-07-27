@@ -7,13 +7,15 @@ doi: https://doi.org/10.4324/9781003460244-9
 appearances:
   - unit: FXA300
     week: "02"
+  - unit: FXA300
+    week: "04"
 tags: ["psychoacoustics", "music-psychology", "perception-theory", "musical-cognition", "audio-processing", "fxa300", "critical-band", "seashore-model-of-musical-perception", "place-theory-of-pitch"]
 key_concepts: ["critical-band", "seashore-model-of-musical-perception", "place-theory-of-pitch"]
 methods: ["literature-review"]
 slug: fxa300-week02-psychoacoustics-and-the-perception-of-music
 related: ["memory-impact-of-music", "music-psychology"]
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-28
 ---
 
 _All claims sourced from ../raw/pdf/fxa300-week02-psychoacoustics-and-the-perception-of-music.md_

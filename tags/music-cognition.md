@@ -13,4 +13,6 @@ updated: 2026-07-28
 - [Musical Imagery Involves Wernicke\u2019s Area in Bilateral and Anti-Correlated Network Interactions in Musicians](../sources/fxa300-week03-musical-imagery-involves-wernickes-area-in-bilateral-and.md)
 - [Probe Tone Paradigm Reveals Less Differentiated Tonal Hierarchy in Rock Music](../sources/fxa300-week03-probe-tone-paradigm-reveals-less-differentiated-tonal.md)
 - [The Quest for Universals in Temporal Processing in Music](../sources/fxa300-week03-the-quest-for-universals-in-temporal-processing-in-music.md)
+- [How does the Brain Perceive Music?](../sources/fxa300-week04-lesson-fxa300-week04-page-3-how-does-the-brain-hear.md)
+- [Music Cognition](../sources/fxa300-week04-music-cognition.md)
 - [The Influence of Cultural Activities and Music on Health](../sources/fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-%282%29.md)

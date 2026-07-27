@@ -6,11 +6,12 @@ sources:
   - fxa100-week02-introduction-to-week-2-music-and-the-brain
   - fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and
   - fxa300-week03-a-focus-on-the-reminiscence-bump-to-personalize-music
+  - fxa300-week04-cascading-reminiscence-bumps-in-popular-music
 tags:
 - reminiscence-bump
 title: Musical Reminiscence Bump
 type: topic
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Musical Reminiscence Bump
@@ -32,3 +33,4 @@ The concept of the 'musical reminiscence bump' emerges as a central theme in bot
 - [fxa100-week02-introduction-to-week-2-music-and-the-brain](../sources/fxa100-week02-introduction-to-week-2-music-and-the-brain.md)
 - [fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and](../sources/fxa100-week02-reminiscence-bump-invariance-with-respect-to-genre-age-and.md)
 - [fxa300-week03-a-focus-on-the-reminiscence-bump-to-personalize-music](../sources/fxa300-week03-a-focus-on-the-reminiscence-bump-to-personalize-music.md)
+- [fxa300-week04-cascading-reminiscence-bumps-in-popular-music](../sources/fxa300-week04-cascading-reminiscence-bumps-in-popular-music.md)

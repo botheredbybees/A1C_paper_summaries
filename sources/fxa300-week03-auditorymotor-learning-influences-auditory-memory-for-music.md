@@ -7,13 +7,15 @@ doi: https://doi.org/10.3758/s13421-011-0177-x
 appearances:
   - unit: FXA300
     week: "03"
+  - unit: FXA300
+    week: "04"
 tags: ["auditory-memory", "motor-learning", "musical-performance", "fxa300", "sensory-motor-integration", "mental-imagery", "memory-for-music"]
 key_concepts: ["sensory-motor-integration", "mental-imagery", "memory-for-music"]
 methods: ["experiment", "case-study"]
 slug: fxa300-week03-auditorymotor-learning-influences-auditory-memory-for-music
-related: []
+related: ["auditory-memory"]
 created: 2026-07-21
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 _All claims sourced from ../raw/pdf/fxa300-week03-auditorymotor-learning-influences-auditory-memory-for-music.md_
@@ -43,4 +45,4 @@ This study explores how auditory and motor learning influence performers' memory
 
 ## See Also
 
-*(none yet)*
+- [auditory-memory](../topics/auditory-memory.md)

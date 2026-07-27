@@ -11,7 +11,7 @@ tags: ["dementia-research", "memory-therapy", "museum-context", "cognitive-stimu
 key_concepts: ["autobiographical memories", "contextual cues", "episodic detail retrieval"]
 methods: ["case study"]
 slug: fxa100-week07-turning-back-the-hands-of-time-autobiographical-memories-in
-related: ["cognitive-stimulation", "dementia-research", "memory-therapy"]
+related: ["autobiographical-memory", "cognitive-stimulation", "dementia-research", "memory-therapy"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,6 +43,7 @@ The study explores the impact of museum settings on autobiographical memory retr
 
 ## See Also
 
+- [autobiographical-memory](../topics/autobiographical-memory.md)
 - [cognitive-stimulation](../topics/cognitive-stimulation.md)
 - [dementia-research](../topics/dementia-research.md)
 - [memory-therapy](../topics/memory-therapy.md)

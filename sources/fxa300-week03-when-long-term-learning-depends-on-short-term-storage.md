@@ -11,7 +11,7 @@ tags: ["short-term-memory", "long-term-learning", "phonological-storage", "cogni
 key_concepts: ["short-term-memory-capacity", "phonological-working-memory", "word-pair-learning"]
 methods: ["case-study", "experiment"]
 slug: fxa300-week03-when-long-term-learning-depends-on-short-term-storage
-related: ["cognitive-impairment", "short-term-memory", "vocabulary-acquisition"]
+related: ["cognitive-impairment", "phonological-working-memory", "short-term-memory", "vocabulary-acquisition"]
 created: 2026-07-21
 updated: 2026-07-21
 ---
@@ -46,5 +46,6 @@ The study by A.D. Baddeley, C. Papagno, and G. Vallar investigates the relations
 ## See Also
 
 - [cognitive-impairment](../topics/cognitive-impairment.md)
+- [phonological-working-memory](../topics/phonological-working-memory.md)
 - [short-term-memory](../topics/short-term-memory.md)
 - [vocabulary-acquisition](../topics/vocabulary-acquisition.md)

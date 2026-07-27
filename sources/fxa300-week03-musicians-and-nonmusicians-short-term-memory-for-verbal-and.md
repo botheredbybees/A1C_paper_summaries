@@ -7,13 +7,15 @@ doi: https://doi.org/10.3758/MC.38.2.163
 appearances:
   - unit: FXA300
     week: "03"
+  - unit: FXA300
+    week: "04"
 tags: ["short-term-memory", "phonological-loop", "musical-cognition", "working-memory-resources", "verbal-processing", "fxa300", "phonological-similarity", "pitch-proximity", "domain-specific-strategies"]
 key_concepts: ["phonological-similarity", "pitch-proximity", "domain-specific-strategies"]
 methods: ["experiment", "visual-grid-response-method"]
 slug: fxa300-week03-musicians-and-nonmusicians-short-term-memory-for-verbal-and
 related: ["memory-impact-of-music", "phonological-loop", "short-term-memory"]
 created: 2026-07-21
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 _All claims sourced from ../raw/pdf/fxa300-week03-musicians-and-nonmusicians-short-term-memory-for-verbal-and.md_

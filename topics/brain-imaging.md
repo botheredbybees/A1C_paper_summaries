@@ -8,11 +8,12 @@ sources:
   - fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers
   - fxa100-week11-the-neural-basis-of-human-dance
   - fxa300-week01-neurophysiological-effects-of-trait-empathy-in-music
+  - fxa300-week04-auditory-imagery-empirical-findings
 tags:
 - brain-imaging
 title: Brain Imaging Techniques
 type: topic
-updated: 2026-07-06
+updated: 2026-07-28
 ---
 
 ## Brain Imaging Techniques
@@ -36,3 +37,4 @@ The study of brain imaging techniques encompasses both basic and clinical neuros
 - [fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers](../sources/fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers.md)
 - [fxa100-week11-the-neural-basis-of-human-dance](../sources/fxa100-week11-the-neural-basis-of-human-dance.md)
 - [fxa300-week01-neurophysiological-effects-of-trait-empathy-in-music](../sources/fxa300-week01-neurophysiological-effects-of-trait-empathy-in-music.md)
+- [fxa300-week04-auditory-imagery-empirical-findings](../sources/fxa300-week04-auditory-imagery-empirical-findings.md)

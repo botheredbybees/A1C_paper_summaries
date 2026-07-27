@@ -84,6 +84,8 @@ sources:
   - fxa101-week03-lesson-fxa101-week03-page-3-the-role-of-the-arts-in
   - fxa101-week04-intergenerational-music-making-a-vehicle-for-active-ageing
   - fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master
+  - fxa300-week04-music-and-health
+  - fxa300-week04-transcript-a-summary-of-a-case-study-of-a-musician-and-music
   - fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the
   - fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music
   - fxa301-music-healt-and-wellbeing-ch05-10680-meymandi
@@ -225,6 +227,8 @@ The integration of music therapy across various neurological conditions undersco
 - [fxa101-week03-lesson-fxa101-week03-page-3-the-role-of-the-arts-in](../sources/fxa101-week03-lesson-fxa101-week03-page-3-the-role-of-the-arts-in.md)
 - [fxa101-week04-intergenerational-music-making-a-vehicle-for-active-ageing](../sources/fxa101-week04-intergenerational-music-making-a-vehicle-for-active-ageing.md)
 - [fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master](../sources/fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master.md)
+- [fxa300-week04-music-and-health](../sources/fxa300-week04-music-and-health.md)
+- [fxa300-week04-transcript-a-summary-of-a-case-study-of-a-musician-and-music](../sources/fxa300-week04-transcript-a-summary-of-a-case-study-of-a-musician-and-music.md)
 - [fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the](../sources/fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the.md)
 - [fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music](../sources/fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music.md)
 - [fxa301-music-healt-and-wellbeing-ch05-10680-meymandi](../sources/fxa301-music-healt-and-wellbeing-ch05-10680-meymandi.md)

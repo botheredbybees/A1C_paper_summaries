@@ -11,7 +11,7 @@ tags: ["music-psychology", "expectation-theory", "cognitive-musicology", "emotio
 key_concepts: ["ITPRA theory", "Bayesian probability", "temporal predictability"]
 methods: ["literature review"]
 slug: fxa300-week01-sweet-anticipation-of-music-review
-related: ["emotional-response", "expectation-theory", "music-psychology"]
+related: ["cognitive-musicology", "emotional-response", "expectation-theory", "music-psychology"]
 created: 2026-07-06
 updated: 2026-07-06
 ---
@@ -43,6 +43,7 @@ The review discusses two significant studies on musical expectation by David Hur
 
 ## See Also
 
+- [cognitive-musicology](../topics/cognitive-musicology.md)
 - [emotional-response](../topics/emotional-response.md)
 - [expectation-theory](../topics/expectation-theory.md)
 - [music-psychology](../topics/music-psychology.md)

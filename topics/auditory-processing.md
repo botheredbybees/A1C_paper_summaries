@@ -10,11 +10,12 @@ sources:
   - fxa300-week02-the-brain-atlas-a-visual-guide-to-the-human-central-nervous
   - fxa300-week03-effect-of-repetition-of-standard-and-comparison-tones-on
   - fxa300-week03-exploring-the-articulatory-loop
+  - fxa300-week04-how-does-your-brain-decode-garbled-speech
 tags:
 - auditory-processing
 title: Auditory Processing
 type: topic
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 ## Auditory Processing
@@ -40,3 +41,4 @@ The provided sources offer a comprehensive overview of auditory processing and i
 - [fxa300-week02-the-brain-atlas-a-visual-guide-to-the-human-central-nervous](../sources/fxa300-week02-the-brain-atlas-a-visual-guide-to-the-human-central-nervous.md)
 - [fxa300-week03-effect-of-repetition-of-standard-and-comparison-tones-on](../sources/fxa300-week03-effect-of-repetition-of-standard-and-comparison-tones-on.md)
 - [fxa300-week03-exploring-the-articulatory-loop](../sources/fxa300-week03-exploring-the-articulatory-loop.md)
+- [fxa300-week04-how-does-your-brain-decode-garbled-speech](../sources/fxa300-week04-how-does-your-brain-decode-garbled-speech.md)

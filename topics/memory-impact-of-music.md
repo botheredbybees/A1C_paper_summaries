@@ -8,7 +8,10 @@ sources:
   - fxa100-week03-lesson-fxa100-week03-page-4-week-3-activities1
   - fxa300-week02-psychoacoustics-and-the-perception-of-music
   - fxa300-week03-musicians-and-nonmusicians-short-term-memory-for-verbal-and
-updated: 2026-07-21
+  - fxa300-week04-implicit-learning-and-acquisition-of-music
+  - fxa300-week04-scale-and-contour-two-components-of-a-theory-of-memory-for
+  - fxa300-week04-tracing-the-dynamic-changes-in-perceived-tonal-organization
+updated: 2026-07-28
 ---
 
 ## Memory Impact Of Music
@@ -30,3 +33,6 @@ The sources collectively highlight the significant role of music in enhancing co
 - [fxa100-week03-lesson-fxa100-week03-page-4-week-3-activities1](../sources/fxa100-week03-lesson-fxa100-week03-page-4-week-3-activities1.md)
 - [fxa300-week02-psychoacoustics-and-the-perception-of-music](../sources/fxa300-week02-psychoacoustics-and-the-perception-of-music.md)
 - [fxa300-week03-musicians-and-nonmusicians-short-term-memory-for-verbal-and](../sources/fxa300-week03-musicians-and-nonmusicians-short-term-memory-for-verbal-and.md)
+- [fxa300-week04-implicit-learning-and-acquisition-of-music](../sources/fxa300-week04-implicit-learning-and-acquisition-of-music.md)
+- [fxa300-week04-scale-and-contour-two-components-of-a-theory-of-memory-for](../sources/fxa300-week04-scale-and-contour-two-components-of-a-theory-of-memory-for.md)
+- [fxa300-week04-tracing-the-dynamic-changes-in-perceived-tonal-organization](../sources/fxa300-week04-tracing-the-dynamic-changes-in-perceived-tonal-organization.md)
