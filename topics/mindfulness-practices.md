@@ -10,11 +10,12 @@ sources:
   - psy214-week01-lesson-psy214-week01-week-1-introduction
   - psy214-week01-lesson-psy214-week01-week-1-wrap-up
   - psy214-week02-hedonia-and-eudaimonia-notes-slides
+  - psy214-week04-lesson-psy214-week04-week-4-wrap-up-2
 tags:
 - mindfulness-practices
 title: Mindfulness Practices
 type: topic
-updated: 2026-07-13
+updated: 2026-07-28
 ---
 
 ## Mindfulness Practices
@@ -40,3 +41,4 @@ The sources highlight the therapeutic benefits of incorporating mindfulness prac
 - [psy214-week01-lesson-psy214-week01-week-1-introduction](../sources/psy214-week01-lesson-psy214-week01-week-1-introduction.md)
 - [psy214-week01-lesson-psy214-week01-week-1-wrap-up](../sources/psy214-week01-lesson-psy214-week01-week-1-wrap-up.md)
 - [psy214-week02-hedonia-and-eudaimonia-notes-slides](../sources/psy214-week02-hedonia-and-eudaimonia-notes-slides.md)
+- [psy214-week04-lesson-psy214-week04-week-4-wrap-up-2](../sources/psy214-week04-lesson-psy214-week04-week-4-wrap-up-2.md)

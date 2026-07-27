@@ -25,3 +25,4 @@ updated: 2026-07-28
 - [Positive Emotions and Well-being](../sources/psy214-week02-positive-emotions-and-well-being.md)
 - [The Wellbeing Workout: How to Manage Stress and Develop Resilience](../sources/psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop.md)
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness - Lifestyle Theme Overview](../sources/psy214-week04-lesson-psy214-week04-test.md)
+- [PSY114 PSY214 Stress, Self-Care and Mindfulness - Week 4 Assessment Overview](../sources/psy214-week04-lesson-psy214-week04-week-4-wrap-up-2.md)

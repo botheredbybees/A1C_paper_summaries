@@ -6,6 +6,7 @@ confidence: medium
 tags: ["non-communicable-diseases"]
 sources:
   - psy214-week04-global-regional-and-national-trends-in-the-morbidity-gap
+  - psy214-week04-health-effects-of-dietary-risks-in-195-countries-1990-2017
   - psy214-week04-health-effects-of-dietary-risks-in-195-countries-19902017-a
   - psy214-week04-the-link-between-our-diet-and-disease
 updated: 2026-07-28
@@ -28,5 +29,6 @@ The analysis of global trends in morbidity and contributing diseases, as well as
 ## Sources
 
 - [psy214-week04-global-regional-and-national-trends-in-the-morbidity-gap](../sources/psy214-week04-global-regional-and-national-trends-in-the-morbidity-gap.md)
+- [psy214-week04-health-effects-of-dietary-risks-in-195-countries-1990-2017](../sources/psy214-week04-health-effects-of-dietary-risks-in-195-countries-1990-2017.md)
 - [psy214-week04-health-effects-of-dietary-risks-in-195-countries-19902017-a](../sources/psy214-week04-health-effects-of-dietary-risks-in-195-countries-19902017-a.md)
 - [psy214-week04-the-link-between-our-diet-and-disease](../sources/psy214-week04-the-link-between-our-diet-and-disease.md)

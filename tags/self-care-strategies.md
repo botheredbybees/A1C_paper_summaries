@@ -18,3 +18,4 @@ updated: 2026-07-28
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness Wrap Up](../sources/psy214-week02-lesson-psy214-week02-wrap-up.md)
 - [Self-Care for Allied Health Professionals](../sources/psy214-week02-self-care-for-allied-health-professionals.md)
 - [Stress, Self-Care and Mindfulness: Lifestyle Approaches to Health and Well-being](../sources/psy214-week04-lesson-psy214-week04-week-4-introduction.md)
+- [PSY114 PSY214 Stress, Self-Care and Mindfulness - Week 4 Assessment Overview](../sources/psy214-week04-lesson-psy214-week04-week-4-wrap-up-2.md)

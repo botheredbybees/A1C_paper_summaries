@@ -11,7 +11,7 @@ tags: ["mental-health", "diet-quality", "inflammation", "oxidative-stress", "psy
 key_concepts: ["dietary interventions", "mediterranean diet principles", "mindful awareness"]
 methods: []
 slug: psy214-week04-lesson-psy214-week04-nutritional-science
-related: ["dietary-interventions", "inflammation", "mediterranean-diet-principles", "mental-health", "oxidative-stress"]
+related: ["diet-quality", "dietary-interventions", "inflammation", "mediterranean-diet-principles", "mental-health", "oxidative-stress"]
 created: 2026-07-28
 updated: 2026-07-28
 ---
@@ -43,6 +43,7 @@ This lesson explores the relationship between diet quality and mental health. It
 
 ## See Also
 
+- [diet-quality](../topics/diet-quality.md)
 - [dietary-interventions](../topics/dietary-interventions.md)
 - [inflammation](../topics/inflammation.md)
 - [mediterranean-diet-principles](../topics/mediterranean-diet-principles.md)

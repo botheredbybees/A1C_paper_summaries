@@ -5,6 +5,7 @@ title: "Healthy Eating"
 confidence: medium
 tags: ["healthy-eating"]
 sources:
+  - psy214-week04-eat-food-and-the-nova-classification-(2)
   - psy214-week04-lesson-psy214-week04-how-we-eat-and-what-impact-it-has
   - psy214-week04-lesson-psy214-week04-week-4-introduction
   - psy214-week04-serve-sizes-eat-for-health
@@ -27,6 +28,7 @@ The concept of healthy eating is explored across several sources with a focus on
 
 ## Sources
 
+- [psy214-week04-eat-food-and-the-nova-classification-(2)](../sources/psy214-week04-eat-food-and-the-nova-classification-%282%29.md)
 - [psy214-week04-lesson-psy214-week04-how-we-eat-and-what-impact-it-has](../sources/psy214-week04-lesson-psy214-week04-how-we-eat-and-what-impact-it-has.md)
 - [psy214-week04-lesson-psy214-week04-week-4-introduction](../sources/psy214-week04-lesson-psy214-week04-week-4-introduction.md)
 - [psy214-week04-serve-sizes-eat-for-health](../sources/psy214-week04-serve-sizes-eat-for-health.md)

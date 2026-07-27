@@ -13,3 +13,4 @@ updated: 2026-07-28
 - [Introduction to stress and coping](../sources/psy214-week01-lesson-psy214-week01-week-1-introduction.md)
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness - Wrap-up](../sources/psy214-week01-lesson-psy214-week01-week-1-wrap-up.md)
 - [Hedonia and Eudaimonia Notes Slides](../sources/psy214-week02-hedonia-and-eudaimonia-notes-slides.md)
+- [PSY114 PSY214 Stress, Self-Care and Mindfulness - Week 4 Assessment Overview](../sources/psy214-week04-lesson-psy214-week04-week-4-wrap-up-2.md)

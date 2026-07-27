@@ -11,7 +11,7 @@ tags: ["food-classification", "nutrition-science", "dietary-guidelines", "proces
 key_concepts: ["NOVA classification", "unprocessed foods", "ultra-processed foods"]
 methods: []
 slug: psy214-week04-eat-food-and-the-nova-classification
-related: ["dietary-guidelines", "health-promotion", "ultra-processed-foods"]
+related: ["dietary-guidelines", "health-promotion", "nova-classification", "ultra-processed-foods"]
 created: 2026-07-28
 updated: 2026-07-28
 ---
@@ -46,4 +46,5 @@ The document titled '‘Eat food’ and the NOVA classification' presents classi
 
 - [dietary-guidelines](../topics/dietary-guidelines.md)
 - [health-promotion](../topics/health-promotion.md)
+- [nova-classification](../topics/nova-classification.md)
 - [ultra-processed-foods](../topics/ultra-processed-foods.md)
