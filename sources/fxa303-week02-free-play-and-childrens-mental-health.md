@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Free Play and Children\u2019s Mental Health"
-apa7: "Trends in Child Development Research. (2017). Free play and children's mental health [Web page]. Retrieved from https://www.thelancet.com/child-adolescent/vol1/issue5/full/S2352-4642(17)30097-X"
-doi: https://doi.org/10.1016/S2352-4642(17)30097-X
+apa7: "Whitebread, D. (2017). Free play and children's mental health.. *The Lancet Child & Adolescent Health*. https://doi.org/10.1016/S2352-4642(17)30092-5"
+doi: https://doi.org/10.1016/S2352-4642(17)30092-5
 appearances:
   - unit: FXA303
     week: "02"
@@ -11,7 +11,7 @@ tags: ["child-development", "mental-health", "free-play", "therapeutic-intervent
 key_concepts: ["secure-attachment-theory", "positive-stress", "structured-play-regimens"]
 methods: ["systematic-review"]
 slug: fxa303-week02-free-play-and-childrens-mental-health
-related: ["brain-development", "child-development", "mental-health", "therapeutic-intervention"]
+related: ["brain-development", "child-development", "free-play", "mental-health", "therapeutic-intervention"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,5 +45,6 @@ The article discusses the relationship between children's free play opportunitie
 
 - [brain-development](../topics/brain-development.md)
 - [child-development](../topics/child-development.md)
+- [free-play](../topics/free-play.md)
 - [mental-health](../topics/mental-health.md)
 - [therapeutic-intervention](../topics/therapeutic-intervention.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: wellbeing
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Wellbeing
@@ -12,4 +12,5 @@ updated: 2026-07-28
 - [Making a Museum of Happiness](../sources/fxa301-week05-web-article-butler-2019.md)
 - [Week 5 Activities - FXA301 Arts in the Community](../sources/fxa301-week05-week-5-activities-fxa301-arts-in-the-community.md)
 - [Group singing fosters mental health and wellbeing: findings from the East Kent \u2018singing for health\u2019 network project](../sources/fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings.md)
+- [The use of arts interventions for mental health and wellbeing in health settings](../sources/fxa301-week10-the-use-of-arts-interventions-for-mental-health-and.md)
 - [Creative Arts, Gender Diversity and Mental Wellbeing](../sources/fxa303-week11-lesson-fxa303-week11-page-2.md)

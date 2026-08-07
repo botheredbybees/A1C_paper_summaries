@@ -2,7 +2,7 @@
 type: source
 source_type: paper
 title: "Narrativity and medicine: some critical reflections"
-apa7: "Ahlz\u00e9n, R. (2019). Narrativity and medicine: Some critical reflections. Philosophy, Ethics, and Humanities in Medicine, 14(9). https://doi.org/10.1186/s13010-019-0078-3"
+apa7: "Ahlzen, R. (2019). Narrativity and medicine: some critical reflections. *Philosophy, Ethics, and Humanities in Medicine*. https://doi.org/10.1186/s13010-019-0078-3"
 doi: https://doi.org/10.1186/s13010-019-0078-3
 appearances:
   - unit: FXA302

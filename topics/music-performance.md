@@ -6,8 +6,10 @@ confidence: medium
 tags: ["music-performance"]
 sources:
   - fxa100-week02-transcript-beethoven-symphony-no-9-fourth-movement-url-only
+  - fxa300-week01-editorial-connecting-music-and-body-movement-choreographic
   - fxa301-week11-the-man-who-plays-french-horn-with-his-toes
-updated: 2026-05-11
+  - fxa302-week05-transcript-posted-by-steve-longo-2012
+updated: 2026-08-07
 ---
 
 ## Music Performance Challenges and Creativity
@@ -27,4 +29,6 @@ The synthesis of music performance challenges and creativity reveals a rich inte
 ## Sources
 
 - [fxa100-week02-transcript-beethoven-symphony-no-9-fourth-movement-url-only](../sources/fxa100-week02-transcript-beethoven-symphony-no-9-fourth-movement-url-only.md)
+- [fxa300-week01-editorial-connecting-music-and-body-movement-choreographic](../sources/fxa300-week01-editorial-connecting-music-and-body-movement-choreographic.md)
 - [fxa301-week11-the-man-who-plays-french-horn-with-his-toes](../sources/fxa301-week11-the-man-who-plays-french-horn-with-his-toes.md)
+- [fxa302-week05-transcript-posted-by-steve-longo-2012](../sources/fxa302-week05-transcript-posted-by-steve-longo-2012.md)

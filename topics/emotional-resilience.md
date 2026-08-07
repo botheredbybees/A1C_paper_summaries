@@ -3,15 +3,18 @@ confidence: high
 domain: intervention
 slug: emotional-resilience
 sources:
-- fxa202-week10-type1-diabetes-story-a-familys-journey
-- fxa303-week03-5-ways-to-standbyteens-in-support-of-teen-mental-health
-- fxa303-week03-arts-in-adolescence
-- fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare
+  - fxa202-week10-type1-diabetes-story-a-familys-journey
+  - fxa302-week05-transcript-hearing-loss-simulator-artist-olive-changing-the
+  - fxa303-week03-5-ways-to-standbyteens-in-support-of-teen-mental-health
+  - fxa303-week03-arts-in-adolescence
+  - fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare
+  - fxa303-week13-seriously-foolish-and-foolishly-serious-the-art-and
+  - psy214-week07-gaining-in-a-landscape-of-loss-the-experience-of-learning
 tags:
 - emotional-resilience
 title: Emotional Resilience
 type: topic
-updated: 2026-05-04
+updated: 2026-08-07
 ---
 
 ## Emotional Resilience
@@ -31,6 +34,9 @@ Emotional resilience is a key intervention for managing stress and improving men
 ## Sources
 
 - [fxa202-week10-type1-diabetes-story-a-familys-journey](../sources/fxa202-week10-type1-diabetes-story-a-familys-journey.md)
+- [fxa302-week05-transcript-hearing-loss-simulator-artist-olive-changing-the](../sources/fxa302-week05-transcript-hearing-loss-simulator-artist-olive-changing-the.md)
 - [fxa303-week03-5-ways-to-standbyteens-in-support-of-teen-mental-health](../sources/fxa303-week03-5-ways-to-standbyteens-in-support-of-teen-mental-health.md)
 - [fxa303-week03-arts-in-adolescence](../sources/fxa303-week03-arts-in-adolescence.md)
 - [fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare](../sources/fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare.md)
+- [fxa303-week13-seriously-foolish-and-foolishly-serious-the-art-and](../sources/fxa303-week13-seriously-foolish-and-foolishly-serious-the-art-and.md)
+- [psy214-week07-gaining-in-a-landscape-of-loss-the-experience-of-learning](../sources/psy214-week07-gaining-in-a-landscape-of-loss-the-experience-of-learning.md)

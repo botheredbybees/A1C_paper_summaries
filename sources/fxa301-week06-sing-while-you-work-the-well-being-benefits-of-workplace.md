@@ -11,7 +11,7 @@ tags: ["workplace-well-being", "choir-benefits", "mental-health", "social-connec
 key_concepts: ["work engagement", "stress reduction", "resilience", "absenteeism"]
 methods: ["quantitative study", "qualitative study"]
 slug: fxa301-week06-sing-while-you-work-the-well-being-benefits-of-workplace
-related: ["choir-benefits", "mental-health"]
+related: ["choir-benefits", "mental-health", "social-connectedness"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -51,3 +51,4 @@ The report highlights the importance of professional choir directors for success
 
 - [choir-benefits](../topics/choir-benefits.md)
 - [mental-health](../topics/mental-health.md)
+- [social-connectedness](../topics/social-connectedness.md)

@@ -5,26 +5,28 @@ title: "Methodological Diversity in Visual Anthropology"
 confidence: medium
 tags: ["methodological-diversity-in-visual-anthropology"]
 sources:
+  - fxa202-week03-a-mindfulness-hospital-stay
   - fxa301-week05-viewpoints-visual-anthropologists-at-work
   - fxa301-week10-the-contribution-of-the-visual-in-qualitative-participatory
-updated: 2026-05-18
+updated: 2026-08-07
 ---
 
 ## Methodological Diversity in Visual Anthropology
 
-Visual anthropology has significantly benefitted from the diverse methodologies it incorporates. 'Viewpoints: Visual Anthropologists at Work' highlights how visual ethnography is not confined to a single method but embraces various approaches that reflect theoretical and practical applications. This diversity allows for a rich tapestry of insights into human cultures, societies, and experiences through visual mediums. Similarly, in qualitative participatory art-based research within mental health fields, methodologies like photovoice and collage-making are employed to uncover subjective realities. These methods not only capture personal narratives but also contribute to community empowerment by providing participants with the means to represent their own lives visually.
+Visual anthropology employs a diverse array of methods to capture and analyze cultural phenomena. Source 1 highlights mindfulness practice as an approach that fosters creative engagement, which can be seen as a qualitative method within the broader spectrum of visual ethnography discussed in source 2. This latter source underscores the importance of theoretical applications and methodological diversity in visual anthropology, reflecting on how various techniques cater to different research questions and cultural contexts. Source 3 contributes further by detailing photovoice and collage-making, both of which are participatory art-based methods that allow for subjective expression and contribute significantly to qualitative research within mental health studies. Across these sources, there is a clear appreciation for the versatility and depth offered by visual methodologies, though each source focuses on distinct aspects such as engagement, theoretical application, and participatory practices.
 
 ## Key Findings
 
-- Visual anthropology employs a range of methodological approaches reflecting both theoretical diversity and practical adaptability.
-- Photovoice and collage-making are effective in revealing subjective realities, especially within mental health contexts.
-- Methodological diversity enhances the depth and breadth of insights in visual anthropological research.
+- Visual anthropology incorporates mindfulness and creative engagement as methods to foster deeper cultural understanding.
+- Photovoice and collage-making are highlighted in mental health research for their ability to capture subjective realities.
+- There is a growing recognition of methodological diversity within visual anthropology, encompassing various theoretical and practical applications.
 
 ## Open Questions
 
-- How can the methodologies used in qualitative participatory art-based research be further integrated into broader fields of visual anthropology to enhance its impact?
+- What further developments can be made to integrate mindfulness practices more effectively into mainstream visual anthropological methodologies?
 
 ## Sources
 
+- [fxa202-week03-a-mindfulness-hospital-stay](../sources/fxa202-week03-a-mindfulness-hospital-stay.md)
 - [fxa301-week05-viewpoints-visual-anthropologists-at-work](../sources/fxa301-week05-viewpoints-visual-anthropologists-at-work.md)
 - [fxa301-week10-the-contribution-of-the-visual-in-qualitative-participatory](../sources/fxa301-week10-the-contribution-of-the-visual-in-qualitative-participatory.md)

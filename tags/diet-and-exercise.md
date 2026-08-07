@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: diet-and-exercise
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Diet And Exercise

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sensory-based-integration
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Sensory Based Integration

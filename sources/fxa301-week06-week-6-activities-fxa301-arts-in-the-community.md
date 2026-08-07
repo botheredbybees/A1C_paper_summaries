@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Week 6 Activities - FXA301 Arts in the Community"
-apa7: "Sheppard, A., & Broughton, M.C. (2020). Promoting wellbeing and health through active participation in music and dance: a systematic review. International Journal of Qualitative Studies on Health and Well-being, 15(1), https://doi.org/10.1080/17482631.2020.1732526"
-doi: https://doi.org/10.1080/17482631.2020.1732526
+apa7: "FXA301 MyLO lesson, Week 6, 2026"
+doi: null
 appearances:
   - unit: FXA301
     week: "06"
@@ -13,7 +13,7 @@ methods: ["systematic review"]
 slug: fxa301-week06-week-6-activities-fxa301-arts-in-the-community
 related: ["community-engagement", "music-health", "systematic-review", "therapeutic-arts"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-08-02
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-week06-week-6-activities-fxa301-arts-in-the-community.md_

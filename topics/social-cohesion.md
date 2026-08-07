@@ -6,6 +6,7 @@ sources:
   - fxa301-week01-music-and-meaning-in-community-contexts
   - fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report
   - fxa301-week03-creating-our-future-results-of-the-national-arts
+  - fxa301-week03-social-benefits-of-arts-engagement-and-evidence-on-arts
   - fxa301-week05-case-studies-of-visual-arts-with-and-for-communities
   - fxa301-week05-engaging-with-visual-arts-week-5-introduction
   - fxa301-week05-how-murals-helped-turn-a-declining-community-around
@@ -16,7 +17,7 @@ tags:
 - social-cohesion
 title: Social Cohesion Through Arts Programs
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Social Cohesion Through Arts Programs
@@ -38,6 +39,7 @@ Across the sources, arts programs emerge as a powerful intervention for fosterin
 - [fxa301-week01-music-and-meaning-in-community-contexts](../sources/fxa301-week01-music-and-meaning-in-community-contexts.md)
 - [fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report](../sources/fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report.md)
 - [fxa301-week03-creating-our-future-results-of-the-national-arts](../sources/fxa301-week03-creating-our-future-results-of-the-national-arts.md)
+- [fxa301-week03-social-benefits-of-arts-engagement-and-evidence-on-arts](../sources/fxa301-week03-social-benefits-of-arts-engagement-and-evidence-on-arts.md)
 - [fxa301-week05-case-studies-of-visual-arts-with-and-for-communities](../sources/fxa301-week05-case-studies-of-visual-arts-with-and-for-communities.md)
 - [fxa301-week05-engaging-with-visual-arts-week-5-introduction](../sources/fxa301-week05-engaging-with-visual-arts-week-5-introduction.md)
 - [fxa301-week05-how-murals-helped-turn-a-declining-community-around](../sources/fxa301-week05-how-murals-helped-turn-a-declining-community-around.md)

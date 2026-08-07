@@ -7,13 +7,15 @@ doi: https://doi.org/10.1093/eurpub/cky115
 appearances:
   - unit: FXA301
     week: "10"
+  - unit: FXA301
+    week: "06"
 tags: ["mental-health", "group-singing", "wellbeing-outcomes", "systematic-review", "fxa301"]
 key_concepts: ["anxiety-reduction", "depression-treatment", "social-support"]
 methods: ["systematic review"]
 slug: fxa301-week10-a-systematic-review-of-mental-health-and-wellbeing-outcomes
 related: ["group-singing", "mental-health", "systematic-review", "wellbeing-outcomes"]
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-week10-a-systematic-review-of-mental-health-and-wellbeing-outcomes.md_

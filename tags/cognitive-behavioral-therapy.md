@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-behavioral-therapy
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Cognitive Behavioral Therapy
@@ -11,6 +11,7 @@ updated: 2026-07-28
 - [Stuck song syndrome: musical obsessions \u2014 when to look for OCD](../sources/fxa300-week01-stuck-song-syndrome-musical-obsessions-when-to-look-for-ocd.md)
 - [Using Creative Arts in Trauma Therapy: The Neuroscience of Healing](../sources/fxa301-week10-using-creative-arts-in-trauma-therapy-the-neuroscience-of.md)
 - [A Review of Art Therapy Among Military Service Members and Veterans with Post-Traumatic Stress Disorder](../sources/fxa301-week10-web-article-ramirez-2016.md)
+- [Why Is There No Cure for Tinnitus?](../sources/fxa302-week05-why-is-there-no-cure-for-tinnitus.md)
 - [Puppet-Assisted Play Therapy for Enhancing Creativity and Conflict Resolution in Children](../sources/fxa303-puppet-assisted-play-therapy-ch02-1-we-must-encourage-children-to-use-their-imagination-and.md)
 - [Puppet-Assisted Play Therapy](../sources/fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the.md)
-- [Trauma - APS](../sources/fxa303-week01-trauma-aps.md)
+- [Trauma](../sources/fxa303-week01-trauma-aps.md)

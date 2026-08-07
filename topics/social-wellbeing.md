@@ -8,12 +8,13 @@ sources:
   - fxa301-week06-engaging-with-music-and-dance
   - fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project
   - fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community
+  - fxa301-week10-the-use-of-music-therapy-in-the-treatment-of-mental-illness
   - fxa303-week11-the-power-of-recognition-a-qualitative-study-of-social
 tags:
 - social-wellbeing
 title: Arts Participation and Social Wellbeing
 type: topic
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Arts Participation and Social Wellbeing
@@ -37,4 +38,5 @@ The integration of arts-based interventions such as singing, dancing, and ballet
 - [fxa301-week06-engaging-with-music-and-dance](../sources/fxa301-week06-engaging-with-music-and-dance.md)
 - [fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project](../sources/fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project.md)
 - [fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community](../sources/fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community.md)
+- [fxa301-week10-the-use-of-music-therapy-in-the-treatment-of-mental-illness](../sources/fxa301-week10-the-use-of-music-therapy-in-the-treatment-of-mental-illness.md)
 - [fxa303-week11-the-power-of-recognition-a-qualitative-study-of-social](../sources/fxa303-week11-the-power-of-recognition-a-qualitative-study-of-social.md)

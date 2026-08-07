@@ -1,10 +1,10 @@
 ---
 type: tag
 tag: arts-observational-scale-artsobs
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Arts Observational Scale Artsobs
 
-- [Art Therapy and Its Impact on Mood and Emotional States in Pediatric Hematology Oncology Units](../sources/fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in.md)
+- [Art Therapy and Its Impact on Mood and Emotional States in Pediatric Hematology Oncology Units: Translation and Validation of the Italian Version of the Arts Observational Scale (ArtsObS)](../sources/fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in.md)
 - [Validation of the Arts Observational Scale for the Evaluation of Performing Arts Activities in Health Care Settings](../sources/fxa301-week01-validation-of-the-arts-observational-scale-for-the.md)

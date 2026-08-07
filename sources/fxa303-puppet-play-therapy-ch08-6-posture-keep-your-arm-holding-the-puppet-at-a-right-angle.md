@@ -11,7 +11,7 @@ tags: ["puppet-therapy", "child-psychology", "creative-play", "fxa303"]
 key_concepts: ["character development", "therapeutic engagement"]
 methods: []
 slug: fxa303-puppet-play-therapy-ch08-6-posture-keep-your-arm-holding-the-puppet-at-a-right-angle
-related: ["child-psychology", "creative-play", "puppet-therapy"]
+related: ["child-psychology", "creative-play", "puppet-assisted-play-therapy-for-children"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,4 +42,4 @@ This chapter from the book 'Puppet Play Therapy: A Practical Guidebook' provides
 
 - [child-psychology](../topics/child-psychology.md)
 - [creative-play](../topics/creative-play.md)
-- [puppet-therapy](../topics/puppet-therapy.md)
+- [puppet-assisted-play-therapy-for-children](../topics/puppet-assisted-play-therapy-for-children.md)

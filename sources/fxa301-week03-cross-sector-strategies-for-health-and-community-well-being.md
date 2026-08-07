@@ -11,7 +11,7 @@ tags: ["arts-health", "community-wellbeing", "cross-sector-collaboration", "publ
 key_concepts: ["artistic-engagement", "cross-sector-strategies"]
 methods: ["case-study"]
 slug: fxa301-week03-cross-sector-strategies-for-health-and-community-well-being
-related: ["arts-health", "community-wellbeing", "public-health-initiatives"]
+related: ["arts-health", "community-wellbeing", "cross-sector-collaboration", "public-health-initiatives"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -47,4 +47,5 @@ One example provided is the Massachusetts Cultural Council's CultureRx program, 
 
 - [arts-health](../topics/arts-health.md)
 - [community-wellbeing](../topics/community-wellbeing.md)
+- [cross-sector-collaboration](../topics/cross-sector-collaboration.md)
 - [public-health-initiatives](../topics/public-health-initiatives.md)

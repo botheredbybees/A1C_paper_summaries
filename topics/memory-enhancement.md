@@ -3,12 +3,14 @@ confidence: low
 domain: intervention
 slug: memory-enhancement
 sources:
-- fxa100-creativity-and-communication-ch09-19-starting-out-in-any-creative-endeavour-of-this-nature
+  - fxa100-creativity-and-communication-ch09-19-starting-out-in-any-creative-endeavour-of-this-nature
+  - fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video-(3)
+  - fxa300-week03-a-focus-on-the-reminiscence-bump-to-personalize-music
 tags:
 - memory-enhancement
 title: Memory Enhancement
 type: topic
-updated: 2026-05-04
+updated: 2026-08-07
 ---
 
 ## Memory Enhancement
@@ -28,3 +30,5 @@ The sources provided focus on the use of various methods to enhance memory and c
 ## Sources
 
 - [fxa100-creativity-and-communication-ch09-19-starting-out-in-any-creative-endeavour-of-this-nature](../sources/fxa100-creativity-and-communication-ch09-19-starting-out-in-any-creative-endeavour-of-this-nature.md)
+- [fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video-(3)](../sources/fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video-%283%29.md)
+- [fxa300-week03-a-focus-on-the-reminiscence-bump-to-personalize-music](../sources/fxa300-week03-a-focus-on-the-reminiscence-bump-to-personalize-music.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: intraoperative-electrical-stimulation
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Intraoperative Electrical Stimulation

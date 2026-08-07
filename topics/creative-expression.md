@@ -7,14 +7,18 @@ sources:
   - fxa100-creativity-and-communication-ch13-23-making-space-for-your-own-creativity-making-space-for
   - fxa100-week04-lesson-fxa100-week04-page-2-music-therapy-benefits
   - fxa100-week06-art-creativity
+  - fxa100-week06-art-creativity-(2)
   - fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the
   - fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of
   - fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia
+  - fxa100-week08-week-8-lecture-on-arts-therapy-and-dementia-care
   - fxa100-week10-the-impact-of-timeslips-a-creative-expression-intervention
   - fxa100-week12-exploring-nature-based-art-therapy-a-scoping-review
   - fxa101-week02-what-sort-of-creative-are-you
   - fxa202-week02-improve-your-photography-skills-with-these-9-photo
+  - fxa202-week03-can-photography-help-depression-(2)
   - fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay
+  - fxa202-week03-what-is-therapeutic-photography-(2)
   - fxa202-week06-critical-reflection-on-visual-storytelling-through
   - fxa202-week06-rediscovering-joy-during-lockdown
   - fxa202-week06-reflection-on-the-therapeutic-and-artistic-process-of
@@ -45,7 +49,7 @@ tags:
 - creative-expression
 title: Creative Expression
 type: topic
-updated: 2026-07-13
+updated: 2026-08-07
 ---
 
 ## Creative Expression
@@ -68,14 +72,18 @@ The concept of creative expression encompasses a variety of therapeutic interven
 - [fxa100-creativity-and-communication-ch13-23-making-space-for-your-own-creativity-making-space-for](../sources/fxa100-creativity-and-communication-ch13-23-making-space-for-your-own-creativity-making-space-for.md)
 - [fxa100-week04-lesson-fxa100-week04-page-2-music-therapy-benefits](../sources/fxa100-week04-lesson-fxa100-week04-page-2-music-therapy-benefits.md)
 - [fxa100-week06-art-creativity](../sources/fxa100-week06-art-creativity.md)
+- [fxa100-week06-art-creativity-(2)](../sources/fxa100-week06-art-creativity-%282%29.md)
 - [fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the](../sources/fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the.md)
 - [fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of](../sources/fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of.md)
 - [fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia](../sources/fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia.md)
+- [fxa100-week08-week-8-lecture-on-arts-therapy-and-dementia-care](../sources/fxa100-week08-week-8-lecture-on-arts-therapy-and-dementia-care.md)
 - [fxa100-week10-the-impact-of-timeslips-a-creative-expression-intervention](../sources/fxa100-week10-the-impact-of-timeslips-a-creative-expression-intervention.md)
 - [fxa100-week12-exploring-nature-based-art-therapy-a-scoping-review](../sources/fxa100-week12-exploring-nature-based-art-therapy-a-scoping-review.md)
 - [fxa101-week02-what-sort-of-creative-are-you](../sources/fxa101-week02-what-sort-of-creative-are-you.md)
 - [fxa202-week02-improve-your-photography-skills-with-these-9-photo](../sources/fxa202-week02-improve-your-photography-skills-with-these-9-photo.md)
+- [fxa202-week03-can-photography-help-depression-(2)](../sources/fxa202-week03-can-photography-help-depression-%282%29.md)
 - [fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay](../sources/fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay.md)
+- [fxa202-week03-what-is-therapeutic-photography-(2)](../sources/fxa202-week03-what-is-therapeutic-photography-%282%29.md)
 - [fxa202-week06-critical-reflection-on-visual-storytelling-through](../sources/fxa202-week06-critical-reflection-on-visual-storytelling-through.md)
 - [fxa202-week06-rediscovering-joy-during-lockdown](../sources/fxa202-week06-rediscovering-joy-during-lockdown.md)
 - [fxa202-week06-reflection-on-the-therapeutic-and-artistic-process-of](../sources/fxa202-week06-reflection-on-the-therapeutic-and-artistic-process-of.md)

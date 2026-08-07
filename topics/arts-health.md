@@ -3,6 +3,7 @@ confidence: high
 domain: intervention
 slug: arts-and-health
 sources:
+  - fxa100-week07-art-and-dementia
   - fxa202-week10-conclusions-and-implications-for-future-research
   - fxa202-week10-research-and-evidence-in-arts-health-and-well-being
   - fxa301-week01-arts-in-health-designing-and-researching-interventions
@@ -11,12 +12,15 @@ sources:
   - fxa301-week03-arts-health-and-wellbeing-evidence-and-implications
   - fxa301-week03-cross-sector-strategies-for-health-and-community-well-being
   - fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing
+  - fxa301-week03-week-3-introduction-arts-health-and-wellbeing-policy
+  - fxa302-week07-a-constructive-critical-response-to-creative-health-the
+  - fxa303-week09-trauma-aware-and-anti-oppressive-arts-health-and-community
   - fxa303-week11-web-article-fancourt-2019
 tags:
 - arts-health
 title: Arts and Health
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Arts and Health
@@ -35,6 +39,7 @@ The integration of the arts into health interventions has garnered significant a
 
 ## Sources
 
+- [fxa100-week07-art-and-dementia](../sources/fxa100-week07-art-and-dementia.md)
 - [fxa202-week10-conclusions-and-implications-for-future-research](../sources/fxa202-week10-conclusions-and-implications-for-future-research.md)
 - [fxa202-week10-research-and-evidence-in-arts-health-and-well-being](../sources/fxa202-week10-research-and-evidence-in-arts-health-and-well-being.md)
 - [fxa301-week01-arts-in-health-designing-and-researching-interventions](../sources/fxa301-week01-arts-in-health-designing-and-researching-interventions.md)
@@ -43,4 +48,7 @@ The integration of the arts into health interventions has garnered significant a
 - [fxa301-week03-arts-health-and-wellbeing-evidence-and-implications](../sources/fxa301-week03-arts-health-and-wellbeing-evidence-and-implications.md)
 - [fxa301-week03-cross-sector-strategies-for-health-and-community-well-being](../sources/fxa301-week03-cross-sector-strategies-for-health-and-community-well-being.md)
 - [fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing](../sources/fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing.md)
+- [fxa301-week03-week-3-introduction-arts-health-and-wellbeing-policy](../sources/fxa301-week03-week-3-introduction-arts-health-and-wellbeing-policy.md)
+- [fxa302-week07-a-constructive-critical-response-to-creative-health-the](../sources/fxa302-week07-a-constructive-critical-response-to-creative-health-the.md)
+- [fxa303-week09-trauma-aware-and-anti-oppressive-arts-health-and-community](../sources/fxa303-week09-trauma-aware-and-anti-oppressive-arts-health-and-community.md)
 - [fxa303-week11-web-article-fancourt-2019](../sources/fxa303-week11-web-article-fancourt-2019.md)

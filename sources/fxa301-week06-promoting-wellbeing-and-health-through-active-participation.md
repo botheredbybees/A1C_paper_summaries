@@ -11,7 +11,7 @@ tags: ["wellbeing-and-health", "music-participation", "dance-therapy", "systemat
 key_concepts: ["physical-wellbeing", "mental-wellbeing", "cultural-wellbeing", "social-determinants-of-health"]
 methods: ["systematic review"]
 slug: fxa301-week06-promoting-wellbeing-and-health-through-active-participation
-related: ["dance-therapy", "systematic-review"]
+related: ["dance-therapy", "music-participation", "systematic-review"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,4 +45,5 @@ This systematic review by Sheppard and Broughton explores the relationship betwe
 ## See Also
 
 - [dance-therapy](../topics/dance-therapy.md)
+- [music-participation](../topics/music-participation.md)
 - [systematic-review](../topics/systematic-review.md)

@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Evidence Requirements for the Development of the National Australian Arts and Health Framework"
-apa7: "Zigmond, H. (2014). Evidence requirements for the development of the national australian arts and health framework. Journal Of Applied Arts & Health, 5(2), 235-243. https://doi.org/10.1386/jaah.5.2.235_i"
-doi: https://doi.org/10.1386/jaah.5.2.235_i
+apa7: "Zigmond, H. (2014). Evidence requirements for the development of the National Australian Arts and Health Framework.. https://doi.org/10.1386/jaah.5.2.235_1"
+doi: https://doi.org/10.1386/jaah.5.2.235_1
 appearances:
   - unit: FXA301
     week: "03"

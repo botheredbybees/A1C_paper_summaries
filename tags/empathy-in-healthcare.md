@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: empathy-in-healthcare
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Empathy In Healthcare

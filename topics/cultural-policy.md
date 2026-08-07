@@ -5,11 +5,13 @@ slug: cultural-policy
 sources:
   - fxa301-week01-peer-handbook-for-assessment-panels
   - fxa301-week03-revive-a-place-for-every-story-a-story-for-every-place
+  - fxa301-week03-revive-australias-cultural-policy-for-the-next-five-years
+  - fxa301-week10-creative-recovery-the-role-of-cultural-policy-in-shaping
 tags:
 - cultural-policy
 title: Cultural Policy
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Cultural Policy
@@ -30,3 +32,5 @@ The documents emphasize the importance of managing conflicts of interest and mai
 
 - [fxa301-week01-peer-handbook-for-assessment-panels](../sources/fxa301-week01-peer-handbook-for-assessment-panels.md)
 - [fxa301-week03-revive-a-place-for-every-story-a-story-for-every-place](../sources/fxa301-week03-revive-a-place-for-every-story-a-story-for-every-place.md)
+- [fxa301-week03-revive-australias-cultural-policy-for-the-next-five-years](../sources/fxa301-week03-revive-australias-cultural-policy-for-the-next-five-years.md)
+- [fxa301-week10-creative-recovery-the-role-of-cultural-policy-in-shaping](../sources/fxa301-week10-creative-recovery-the-role-of-cultural-policy-in-shaping.md)

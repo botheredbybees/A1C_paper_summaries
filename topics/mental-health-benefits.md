@@ -3,13 +3,16 @@ confidence: medium
 domain: intervention
 slug: mental-health-benefits
 sources:
-- fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing
-- fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a
+  - fxa301-week03-social-benefits-of-arts-engagement-and-evidence-on-arts
+  - fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing
+  - fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a
+  - fxa301-week08-week-8-lecture-on-applying-theatre-and-literature-for
+  - fxa301-week10-to-be-heard-the-social-and-mental-health-benefits-of-choir
 tags:
 - mental-health-benefits
 title: Mental Health Benefits
 type: topic
-updated: 2026-05-04
+updated: 2026-08-07
 ---
 
 ## Mental Health Benefits
@@ -28,5 +31,8 @@ The integration of arts and heritage-focused interventions in community settings
 
 ## Sources
 
+- [fxa301-week03-social-benefits-of-arts-engagement-and-evidence-on-arts](../sources/fxa301-week03-social-benefits-of-arts-engagement-and-evidence-on-arts.md)
 - [fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing](../sources/fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing.md)
 - [fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a](../sources/fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a.md)
+- [fxa301-week08-week-8-lecture-on-applying-theatre-and-literature-for](../sources/fxa301-week08-week-8-lecture-on-applying-theatre-and-literature-for.md)
+- [fxa301-week10-to-be-heard-the-social-and-mental-health-benefits-of-choir](../sources/fxa301-week10-to-be-heard-the-social-and-mental-health-benefits-of-choir.md)

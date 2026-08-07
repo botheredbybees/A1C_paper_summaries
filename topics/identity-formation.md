@@ -3,6 +3,7 @@ confidence: medium
 domain: intervention
 slug: identity-formation-through-music-and-trauma
 sources:
+  - fxa300-week05-the-distribution-of-memories-for-popular-songs-in-old-age
   - fxa301-week01-music-and-meaning-in-community-contexts
   - fxa303-week02-web-article-orenstein-2022
   - fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than
@@ -11,7 +12,7 @@ tags:
 - identity-formation
 title: Identity Formation Through Music and Trauma
 type: topic
-updated: 2026-05-16
+updated: 2026-08-03
 ---
 
 ## Identity Formation Through Music and Trauma
@@ -29,6 +30,7 @@ Music's profound impact on adolescent identity formation is highlighted in the f
 
 ## Sources
 
+- [fxa300-week05-the-distribution-of-memories-for-popular-songs-in-old-age](../sources/fxa300-week05-the-distribution-of-memories-for-popular-songs-in-old-age.md)
 - [fxa301-week01-music-and-meaning-in-community-contexts](../sources/fxa301-week01-music-and-meaning-in-community-contexts.md)
 - [fxa303-week02-web-article-orenstein-2022](../sources/fxa303-week02-web-article-orenstein-2022.md)
 - [fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than](../sources/fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than.md)

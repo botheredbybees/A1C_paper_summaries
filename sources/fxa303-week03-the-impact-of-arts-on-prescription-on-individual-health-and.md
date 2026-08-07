@@ -7,13 +7,15 @@ doi: https://doi.org/10.3389/fpubh.2024.1412306
 appearances:
   - unit: FXA303
     week: "03"
-tags: ["arts-on-prescription", "social-prescribing", "public-health-interventions", "mental-wellbeing", "fxa303"]
+  - unit: FXA302
+    week: "09"
+tags: ["arts-on-prescription", "social-prescribing", "public-health-interventions", "mental-wellbeing", "fxa303", "fxa302"]
 key_concepts: ["Arts on Prescription (AoP)", "psychosocial wellbeing"]
 methods: ["systematic review", "meta-analysis"]
 slug: fxa303-week03-the-impact-of-arts-on-prescription-on-individual-health-and
 related: ["arts-on-prescription", "mental-wellbeing", "public-health-interventions", "social-prescribing"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week03-the-impact-of-arts-on-prescription-on-individual-health-and.md_

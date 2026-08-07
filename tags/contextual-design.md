@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: contextual-design
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Contextual Design

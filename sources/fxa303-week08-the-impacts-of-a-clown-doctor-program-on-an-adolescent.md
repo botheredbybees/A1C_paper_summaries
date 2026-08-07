@@ -7,7 +7,7 @@ doi: https://doi.org/10.1007/s10578-023-01545-6
 appearances:
   - unit: FXA303
     week: "08"
-tags: ["mental-health-care", "adolescent-psychiatry", "humor-interventions", "clown-doctors", "patient-experience", "fxa303"]
+tags: ["adolescent-psychiatry", "clown-doctors", "fxa303", "humor-based-interventions", "humor-interventions", "mental-health-care", "patient-experience"]
 key_concepts: ["fun levels", "positive mood", "ward atmosphere", "patient engagement", "humor-based interventions"]
 methods: ["mixed methods investigation", "custom surveys"]
 slug: fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent
@@ -28,7 +28,7 @@ This study investigates the impact of a clown doctor program on adolescent psych
 - [positive mood](../topics/positive-mood.md)
 - [ward atmosphere](../topics/ward-atmosphere.md)
 - [patient engagement](../topics/patient-engagement.md)
-- [humor-based interventions](../topics/humor-based-interventions.md)
+- [humor-based interventions](../topics/patient-engagement-through-humor-based-interventions.md)
 
 ## Tags
 

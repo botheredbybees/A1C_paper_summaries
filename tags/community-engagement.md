@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: community-engagement
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Community Engagement
@@ -10,8 +10,12 @@ updated: 2026-07-28
 - [Making Art With Communities: A Work Guide](../sources/fxa100-week04-making-art-with-communities-a-work-guide.md)
 - [Week 4 Activities - FXA100 The Arts and Dementia Care](../sources/fxa100-week04-week-4-activities-fxa100-the-arts-and-dementia-care.md)
 - [Is a Visual Arts Programme Beneficial for the Quality of Life of People Living with Dementia?](../sources/fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of.md)
+- [Art and Dementia](../sources/fxa100-week07-art-and-dementia.md)
+- [Arts Engagement for People with Dementia: Independent Evaluation of the Art Access Program](../sources/fxa100-week07-arts-engagement-for-people-with-dementia-independent-%282%29.md)
+- [House of Memories](../sources/fxa100-week07-house-of-memories.md)
 - [Arts in Dementia Care: This is not the end... if it's the end of this chapter](../sources/fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of.md)
 - [Stimulating Engagement Through Participation in Visual Arts Projects](../sources/fxa100-week08-lesson-fxa100-week07-page-3-stimulating-engagement.md)
+- [Building creative communities of care: Arts, dementia, and hope in the United States](../sources/fxa100-week10-building-creative-communities-of-care-arts-dementia-and.md)
 - [Dancer Not Dementia | Canada's National Ballet School](../sources/fxa100-week11-dancer-not-dementia-canadas-national-ballet-school.md)
 - [Case study: engaging older people in creative thinking\u2014the Active Energy project](../sources/fxa101-week04-case-study-engaging-older-people-in-creative-thinkingthe.md)
 - [The daily digital practice as a form of self-care: Using photography for everyday well-being](../sources/fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using.md)
@@ -22,14 +26,18 @@ updated: 2026-07-28
 - [Case study: engaging older people in creative thinking\u2014the Active Energy project](../sources/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30.md)
 - [Case Study: Engaging Older People in Creative Thinking - The Active Energy Project](../sources/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-%282%29.md)
 - [Active Energy Project and Its Impact on Elderly Wellbeing](../sources/fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-%282%29.md)
+- [Editor\u2019s Introduction: Arts and Community Engagement: Intersect Music, Dance and Drama in Arts Education, Arts Therapy, and Arts Practice with Community Engagement Projects](../sources/fxa301-week01-editors-introduction-arts-and-community-engagement.md)
 - [FXA301 Sem 1 2026 - Week 4 Lecture](../sources/fxa301-week01-fxa301-sem-1-2026-week-4-lecture.md)
 - [Guidelines for Arts and Mental Health Projects](../sources/fxa301-week01-guidelines-for-arts-and-mental-health-projects-%282%29.md)
+- [Interdisciplinarity for Social Justice Enterprise: Intersecting Education, Industry and Community Arts Perspectives](../sources/fxa301-week01-interdisciplinarity-for-social-justice-enterprise.md)
+- [The Arts/In the Community](../sources/fxa301-week01-the-artsin-the-community.md)
 - [Week 1 Introduction - The Role of Creative Arts in Human Culture](../sources/fxa301-week01-week-1-introduction-the-role-of-creative-arts-in-human.md)
 - [Arts for EveryBody: The One Nation/One Project Impact Report](../sources/fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report.md)
 - [Developing a national arts and health policy framework](../sources/fxa301-week03-developing-a-national-arts-and-health-policy-framework.md)
 - [Executive Summary: Creative Health Review](../sources/fxa301-week03-executive-summary-creative-health-review.md)
 - [Four Big Ways to Improve Health through the Arts](../sources/fxa301-week03-four-big-ways-to-improve-health-through-the-arts.md)
 - [Health Inequalities and the Role of Creative Health](../sources/fxa301-week03-health-inequalities-and-the-role-of-creative-health.md)
+- [Lifting Stress from the Day: A Women\u2019s Well-Being Online Community Art Project](../sources/fxa301-week03-lifting-stress-from-the-day-a-womens-well-being-online.md)
 - [National Arts and Health Framework](../sources/fxa301-week03-national-arts-and-health-framework.md)
 - [Statement on Lived Experience](../sources/fxa301-week03-statement-on-lived-experience.md)
 - [Welcome to Week 3 - FXA301 Arts in the Community](../sources/fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community.md)
@@ -43,6 +51,7 @@ updated: 2026-07-28
 - [NAIDOC Week: Aboriginal mural brings community together in Shortland](../sources/fxa301-week05-naidoc-week-aboriginal-mural-brings-community-together-in.md)
 - [Interview with Dr Annalise Rees about her Arts Project in Antarctica](../sources/fxa301-week05-transcript-aprof-anne-marie-forbes-interview-with-dr.md)
 - [Making a Museum of Happiness](../sources/fxa301-week05-web-article-butler-2019.md)
+- [Web Lecture 5: Case Studies and Engaging with Visual Arts](../sources/fxa301-week05-web-lecture-5-case-studies-and-engaging-with-visual-arts.md)
 - [Brisbane\u2019s Pub Choir movement marks first year](../sources/fxa301-week06-brisbanes-pub-choir-movement-marks-first-year.md)
 - [Engaging with Music and Dance](../sources/fxa301-week06-engaging-with-music-and-dance.md)
 - [Evaluation of Big Noise Douglas](../sources/fxa301-week06-evaluation-of-big-noise-douglas.md)
@@ -57,6 +66,8 @@ updated: 2026-07-28
 - [The Impact of Literature on Personal Development](../sources/fxa301-week08-transcript-youtube-i1dnrn0cj20.md)
 - [Designing Inclusive Projects for Health and Wellbeing Outcomes](../sources/fxa301-week09-lesson-fxa301-week09-page-1.md)
 - [The Importance of Disability Led Theatre](../sources/fxa301-week09-the-importance-of-disability-led-theatre.md)
+- [Creative Recovery? The Role of Cultural Policy in Shaping Post-COVID Urban Futures](../sources/fxa301-week10-creative-recovery-the-role-of-cultural-policy-in-shaping.md)
+- [Death, loss and community\u2014Perspectives from children, their parents and older adults on intergenerational community-based arts initiatives in Sweden](../sources/fxa301-week10-death-loss-and-communityperspectives-from-children-their.md)
 - [\u2018Anything is Possible\u2019: the Arts and Social Inclusion](../sources/fxa301-week11-anything-is-possible-the-arts-and-social-inclusion.md)
 - [Choose Art](../sources/fxa301-week11-choose-art.md)
 - [Putting Communities First: Inclusive Museum Practice through the CARES Framework](../sources/fxa301-week11-putting-communities-first-inclusive-museum-practice-through.md)

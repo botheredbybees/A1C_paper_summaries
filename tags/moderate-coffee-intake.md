@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: moderate-coffee-intake
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Moderate Coffee Intake

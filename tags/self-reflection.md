@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: self-reflection
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Self Reflection
@@ -14,4 +14,5 @@ updated: 2026-07-28
 - [Journaling Books Review](../sources/fxa202-week09-journaling-books-review.md)
 - [Reflection on the Therapeutic Benefits of Photography: A Personal Photo Essay Project](../sources/fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a.md)
 - [Therapeutic Puppetry and Wellbeing](../sources/fxa303-week06-therapeutic-puppetry-and-wellbeing.md)
+- [Bell Shakespeare\u2019s Youth Justice Program](../sources/fxa303-week11-bell-shakespeares-youth-justice-program.md)
 - [Youth Justice Program | Bell Shakespeare](../sources/fxa303-week11-youth-justice-program-bell-shakespeare.md)

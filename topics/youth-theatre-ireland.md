@@ -7,7 +7,7 @@ tags: ["youth-theatre-ireland"]
 sources:
   - fxa303-week02-web-article-centre-2019
   - fxa303-week03-centre-stage-20-a-report-on-youth-theatre-in-ireland
-updated: 2026-05-16
+updated: 2026-08-07
 ---
 
 ## Youth Theatre Practice in Ireland

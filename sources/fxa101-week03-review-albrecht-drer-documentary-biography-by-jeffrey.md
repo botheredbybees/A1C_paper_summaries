@@ -11,7 +11,7 @@ tags: ["art-history", "biography-review", "documentary-analysis", "fxa101", "his
 key_concepts: ["historical-context", "cultural-influence"]
 methods: ["review"]
 slug: fxa101-week03-review-albrecht-drer-documentary-biography-by-jeffrey
-related: ["art-history", "historical-context"]
+related: ["art-history", "cultural-influence", "historical-context"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -42,4 +42,5 @@ This review critically evaluates Jeffrey Ashcroft's 'Albrecht Dürer: Documentar
 ## See Also
 
 - [art-history](../topics/art-history.md)
+- [cultural-influence](../topics/cultural-influence.md)
 - [historical-context](../topics/historical-context.md)

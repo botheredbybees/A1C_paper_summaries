@@ -11,7 +11,7 @@ tags: ["arts-and-health", "community-wellbeing", "policy-analysis", "fxa301"]
 key_concepts: ["health-and-wellbeing", "policies-on-arts"]
 methods: ["case-study"]
 slug: fxa301-week03-week-3-introduction-arts-in-the-community-for-health-and
-related: ["arts-and-health", "community-wellbeing"]
+related: ["arts-and-health", "community-wellbeing", "policy-analysis"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,3 +42,4 @@ This week's introduction to FXA301 course focuses on the intersection of arts, h
 
 - [arts-and-health](../topics/arts-and-health.md)
 - [community-wellbeing](../topics/community-wellbeing.md)
+- [policy-analysis](../topics/policy-analysis.md)

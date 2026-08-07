@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "The Value of Playwork for Care Home Residents Living With Dementia: A Pilot Study"
-apa7: "Bradwell, C., Wragg, M., & Everett, N. (2026). The value of playwork for care home residents living with dementia: a pilot study. *Dementia*, 25(3), 576\u2013595. https://doi.org/10.1177/1471301225136227"
-doi: https://doi.org/10.1177/1471301225136227
+apa7: "Bradwell, C., Wragg, M., & Everett, N. (2025). The Value of Playwork for Care Home Residents Living With Dementia: A Pilot Study. *Dementia*. https://doi.org/10.1177/14713012251362271"
+doi: https://doi.org/10.1177/14713012251362271
 appearances:
   - unit: FXA303
     week: "13"

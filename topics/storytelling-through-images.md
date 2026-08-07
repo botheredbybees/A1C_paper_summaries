@@ -3,12 +3,14 @@ confidence: low
 domain: method
 slug: storytelling-through-images
 sources:
-- fxa202-week10-lesson-fxa202-week10-page-4
+  - fxa202-week01-lesson-fxa202-week01-chapter-4-inspiration
+  - fxa202-week02-welcome-to-week-2-photo-essay
+  - fxa202-week10-lesson-fxa202-week10-page-4
 tags:
 - storytelling-through-images
 title: Storytelling Through Images
 type: topic
-updated: 2026-05-04
+updated: 2026-08-07
 ---
 
 ## Storytelling Through Images
@@ -27,4 +29,6 @@ The process of storytelling through images involves leveraging visual elements t
 
 ## Sources
 
+- [fxa202-week01-lesson-fxa202-week01-chapter-4-inspiration](../sources/fxa202-week01-lesson-fxa202-week01-chapter-4-inspiration.md)
+- [fxa202-week02-welcome-to-week-2-photo-essay](../sources/fxa202-week02-welcome-to-week-2-photo-essay.md)
 - [fxa202-week10-lesson-fxa202-week10-page-4](../sources/fxa202-week10-lesson-fxa202-week10-page-4.md)

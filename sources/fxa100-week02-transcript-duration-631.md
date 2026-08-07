@@ -11,7 +11,7 @@ tags: ["music-and-health", "neuroscience-of-music", "brain-recovery", "fxa100"]
 key_concepts: ["cognitive reserve", "brain plasticity"]
 methods: []
 slug: fxa100-week02-transcript-duration-631
-related: ["brain-recovery", "neuroscience-of-music"]
+related: ["brain-recovery", "music-and-health", "neuroscience-of-music"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,4 +41,5 @@ In this segment from AM Northwest, neuroscientist Daniel Levitin discusses his b
 ## See Also
 
 - [brain-recovery](../topics/brain-recovery.md)
+- [music-and-health](../topics/music-and-health.md)
 - [neuroscience-of-music](../topics/neuroscience-of-music.md)

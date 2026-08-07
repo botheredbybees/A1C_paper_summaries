@@ -4,12 +4,13 @@ domain: intervention
 slug: intergenerational-interaction
 sources:
   - fxa100-week04-intergenerational-choir-transcript
+  - fxa100-week04-intergenerational-choir-transcript-(2)
   - fxa100-week11-intergenerational-dancemovement-program-in-melbourne
 tags:
 - intergenerational-interaction
 title: Intergenerational Interaction
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Intergenerational Interaction
@@ -28,4 +29,5 @@ The synthesis of the provided sources highlights intergenerational interaction a
 ## Sources
 
 - [fxa100-week04-intergenerational-choir-transcript](../sources/fxa100-week04-intergenerational-choir-transcript.md)
+- [fxa100-week04-intergenerational-choir-transcript-(2)](../sources/fxa100-week04-intergenerational-choir-transcript-%282%29.md)
 - [fxa100-week11-intergenerational-dancemovement-program-in-melbourne](../sources/fxa100-week11-intergenerational-dancemovement-program-in-melbourne.md)

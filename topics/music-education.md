@@ -11,7 +11,9 @@ sources:
   - fxa101-week03-musical-training-enhances-information-processing-speed
   - fxa101-week03-seeking-out-the-new-how-music-teaches-children-to-create
   - fxa101-week03-the-mozart-effect-music-listening-is-not-music-instruction
+  - fxa300-week01-movement-based-music-in-the-classroom-investigating-the
   - fxa300-week03-music-training-improves-verbal-but-not-visual-memory-cross
+  - fxa300-week05-a-proposed-glossary-for-use-in-affective-response
   - fxa301-week01-culture-of-inquiry
   - fxa301-week05-an-education-in-music-makes-you-a-better-employee-are
   - fxa301-week05-fading-notes-music-education-for-the-next-generation-of
@@ -23,6 +25,7 @@ sources:
   - fxa301-week06-playing-for-their-lives-the-global-el-sistema-movement-for
   - fxa301-week06-recontextualizing-music-for-social-change
   - fxa301-week06-transcript-el-sistema-trailer-for-film-2008-url-only
+  - fxa302-week05-transcript-uploaded-by-evelyn-glennie-url-only
   - fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain
   - fxa303-week03-music-instruction-can-make-for-a-smarter-teen
   - fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot
@@ -32,7 +35,7 @@ tags:
 - music-education
 title: Music Education and Its Broader Impacts
 type: topic
-updated: 2026-07-21
+updated: 2026-08-07
 ---
 
 ## Music Education and Its Broader Impacts
@@ -59,7 +62,9 @@ The provided sources highlight the multifaceted benefits of music education in f
 - [fxa101-week03-musical-training-enhances-information-processing-speed](../sources/fxa101-week03-musical-training-enhances-information-processing-speed.md)
 - [fxa101-week03-seeking-out-the-new-how-music-teaches-children-to-create](../sources/fxa101-week03-seeking-out-the-new-how-music-teaches-children-to-create.md)
 - [fxa101-week03-the-mozart-effect-music-listening-is-not-music-instruction](../sources/fxa101-week03-the-mozart-effect-music-listening-is-not-music-instruction.md)
+- [fxa300-week01-movement-based-music-in-the-classroom-investigating-the](../sources/fxa300-week01-movement-based-music-in-the-classroom-investigating-the.md)
 - [fxa300-week03-music-training-improves-verbal-but-not-visual-memory-cross](../sources/fxa300-week03-music-training-improves-verbal-but-not-visual-memory-cross.md)
+- [fxa300-week05-a-proposed-glossary-for-use-in-affective-response](../sources/fxa300-week05-a-proposed-glossary-for-use-in-affective-response.md)
 - [fxa301-week01-culture-of-inquiry](../sources/fxa301-week01-culture-of-inquiry.md)
 - [fxa301-week05-an-education-in-music-makes-you-a-better-employee-are](../sources/fxa301-week05-an-education-in-music-makes-you-a-better-employee-are.md)
 - [fxa301-week05-fading-notes-music-education-for-the-next-generation-of](../sources/fxa301-week05-fading-notes-music-education-for-the-next-generation-of.md)
@@ -71,6 +76,7 @@ The provided sources highlight the multifaceted benefits of music education in f
 - [fxa301-week06-playing-for-their-lives-the-global-el-sistema-movement-for](../sources/fxa301-week06-playing-for-their-lives-the-global-el-sistema-movement-for.md)
 - [fxa301-week06-recontextualizing-music-for-social-change](../sources/fxa301-week06-recontextualizing-music-for-social-change.md)
 - [fxa301-week06-transcript-el-sistema-trailer-for-film-2008-url-only](../sources/fxa301-week06-transcript-el-sistema-trailer-for-film-2008-url-only.md)
+- [fxa302-week05-transcript-uploaded-by-evelyn-glennie-url-only](../sources/fxa302-week05-transcript-uploaded-by-evelyn-glennie-url-only.md)
 - [fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain](../sources/fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain.md)
 - [fxa303-week03-music-instruction-can-make-for-a-smarter-teen](../sources/fxa303-week03-music-instruction-can-make-for-a-smarter-teen.md)
 - [fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot](../sources/fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot.md)

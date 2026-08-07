@@ -3,13 +3,15 @@ confidence: medium
 domain: theory
 slug: the-default-mode-network-in-art-experience
 sources:
-- fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual
-- fxa100-week06-the-brain-on-art-intense-aesthetic-experience-activates-the
+  - fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual
+  - fxa100-week06-the-brain-on-art-intense-aesthetic-experience-activates-the
+  - fxa101-week02-week-2-lecture-sem-2-2026
+  - fxa101-week03-week-3-lecture-brain-development-and-cognitive-reserve
 tags:
 - default-mode-network
 title: The Default Mode Network in Art Experience
 type: topic
-updated: 2026-05-04
+updated: 2026-08-07
 ---
 
 ## The Default Mode Network in Art Experience
@@ -30,3 +32,5 @@ Research on the impact of art experiences on brain activity emphasizes the role 
 
 - [fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual](../sources/fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual.md)
 - [fxa100-week06-the-brain-on-art-intense-aesthetic-experience-activates-the](../sources/fxa100-week06-the-brain-on-art-intense-aesthetic-experience-activates-the.md)
+- [fxa101-week02-week-2-lecture-sem-2-2026](../sources/fxa101-week02-week-2-lecture-sem-2-2026.md)
+- [fxa101-week03-week-3-lecture-brain-development-and-cognitive-reserve](../sources/fxa101-week03-week-3-lecture-brain-development-and-cognitive-reserve.md)

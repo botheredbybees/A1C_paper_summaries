@@ -2,7 +2,7 @@
 type: source
 source_type: paper
 title: "Shifting perspectives: exploring the intersection of traditional and digital photography in contemporary artistic practices"
-apa7: "Al Sheikh, H. M. (2025). Shifting perspectives: Exploring the intersection of traditional and digital photography in contemporary artistic practices. Visual Studies, 40(3), 596-607. https://doi.org/10.1080/1472586X.2024.2381101"
+apa7: "Sheikh, H. (2024). Shifting perspectives: exploring the intersection of traditional and digital photography in contemporary artistic practices. *Visual Studies*. https://doi.org/10.1080/1472586X.2024.2381101"
 doi: https://doi.org/10.1080/1472586X.2024.2381101
 appearances:
   - unit: FXA202

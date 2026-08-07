@@ -11,7 +11,7 @@ tags: ["play-therapy", "adlerian-theory", "puppet-play", "fxa303"]
 key_concepts: []
 methods: []
 slug: fxa303-puppet-play-therapy-ch10-chapter-2
-related: ["play-therapy", "puppet-play"]
+related: ["play-therapy-in-child-development", "puppet-play"]
 created: 2026-05-06
 updated: 2026-05-06
 ---
@@ -39,5 +39,5 @@ This chapter discusses the application of Adlerian theory in puppet play therapy
 
 ## See Also
 
-- [play-therapy](../topics/play-therapy.md)
+- [play-therapy-in-child-development](../topics/play-therapy-in-child-development.md)
 - [puppet-play](../topics/puppet-play.md)

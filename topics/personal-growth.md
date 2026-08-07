@@ -10,11 +10,12 @@ sources:
   - fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through
   - psy214-week02-lesson-psy214-week02-multi-dimensional-models-of-well
   - psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop
+  - psy214-week05-leisure-and-well-being-the-dramma-model
 tags:
 - personal-growth
 title: Therapeutic Creative Arts for Mental Health
 type: topic
-updated: 2026-07-13
+updated: 2026-08-03
 ---
 
 ## Therapeutic Creative Arts for Mental Health
@@ -40,3 +41,4 @@ The case studies of therapeutic creative arts interventions underscore their rol
 - [fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through](../sources/fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through.md)
 - [psy214-week02-lesson-psy214-week02-multi-dimensional-models-of-well](../sources/psy214-week02-lesson-psy214-week02-multi-dimensional-models-of-well.md)
 - [psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop](../sources/psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop.md)
+- [psy214-week05-leisure-and-well-being-the-dramma-model](../sources/psy214-week05-leisure-and-well-being-the-dramma-model.md)

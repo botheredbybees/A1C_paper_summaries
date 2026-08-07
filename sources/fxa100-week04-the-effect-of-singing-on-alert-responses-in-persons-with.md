@@ -11,7 +11,7 @@ tags: ["dementia-care", "music-therapy", "alert-responses", "singing-interventio
 key_concepts: ["late-stage-dementia", "alert-responses", "caregiver-interventions"]
 methods: ["case-study"]
 slug: fxa100-week04-the-effect-of-singing-on-alert-responses-in-persons-with
-related: ["dementia-care", "group-music-therapy-for-dementia-patients", "music-therapy"]
+related: ["dementia-care", "group-music-therapy-for-dementia-patients", "music-therapy", "singing-as-an-intervention-for-dementia-and-caregiver"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,3 +45,4 @@ The study investigates the impact of singing on alert responses in individuals w
 - [dementia-care](../topics/dementia-care.md)
 - [group-music-therapy-for-dementia-patients](../topics/group-music-therapy-for-dementia-patients.md)
 - [music-therapy](../topics/music-therapy.md)
+- [singing-as-an-intervention-for-dementia-and-caregiver](../topics/singing-as-an-intervention-for-dementia-and-caregiver.md)

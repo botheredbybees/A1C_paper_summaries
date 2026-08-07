@@ -6,12 +6,13 @@ sources:
   - fxa301-make-arts-for-a-better-life-ch42-156-oxford
   - fxa301-week01-culture-of-inquiry
   - fxa301-week10-advances-in-flow-research
+  - fxa302-week01-arts-health-and-well-being-a-critical-perspective-on
   - fxa303-week11-music-making-for-health-and-wellbeing-in-youth-justice
 tags:
 - cultural-studies
 title: Cultural Studies and Applied Music
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Cultural Studies and Applied Music
@@ -33,4 +34,5 @@ This synthesis explores the intersection of cultural studies with applied music 
 - [fxa301-make-arts-for-a-better-life-ch42-156-oxford](../sources/fxa301-make-arts-for-a-better-life-ch42-156-oxford.md)
 - [fxa301-week01-culture-of-inquiry](../sources/fxa301-week01-culture-of-inquiry.md)
 - [fxa301-week10-advances-in-flow-research](../sources/fxa301-week10-advances-in-flow-research.md)
+- [fxa302-week01-arts-health-and-well-being-a-critical-perspective-on](../sources/fxa302-week01-arts-health-and-well-being-a-critical-perspective-on.md)
 - [fxa303-week11-music-making-for-health-and-wellbeing-in-youth-justice](../sources/fxa303-week11-music-making-for-health-and-wellbeing-in-youth-justice.md)

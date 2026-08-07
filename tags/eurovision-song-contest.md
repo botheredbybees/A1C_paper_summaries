@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: eurovision-song-contest
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Eurovision Song Contest

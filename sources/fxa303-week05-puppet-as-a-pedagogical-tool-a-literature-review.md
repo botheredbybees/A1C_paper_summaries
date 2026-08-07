@@ -11,7 +11,7 @@ tags: ["pedagogical-tools", "literature-review", "early-childhood-education", "c
 key_concepts: ["communication-generation", "positive-classroom-climate", "cooperative-learning", "attitude-change"]
 methods: ["systematic-review"]
 slug: fxa303-week05-puppet-as-a-pedagogical-tool-a-literature-review
-related: ["creativity-in-education", "early-childhood-education", "literature-review"]
+related: ["creativity-in-education", "early-childhood-education", "literature-review", "pedagogical-tools"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -47,3 +47,4 @@ The article presents a literature review of the use of puppets as pedagogical to
 - [creativity-in-education](../topics/creativity-in-education.md)
 - [early-childhood-education](../topics/early-childhood-education.md)
 - [literature-review](../topics/literature-review.md)
+- [pedagogical-tools](../topics/pedagogical-tools.md)

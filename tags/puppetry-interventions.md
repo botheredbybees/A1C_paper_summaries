@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: puppetry-interventions
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Puppetry Interventions

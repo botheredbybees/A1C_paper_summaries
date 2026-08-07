@@ -7,13 +7,15 @@ doi: https://doi.org/10.1007/s12671-014-0360-9
 appearances:
   - unit: PSY214
     week: "00"
+  - unit: PSY214
+    week: "07"
 tags: ["mindfulness-practice", "daily-activities", "emotional-regulation", "positive-affect", "psy214", "informal-mindfulness", "attentional-focus"]
 key_concepts: ["informal-mindfulness", "emotional-wellbeing", "attentional-focus"]
 methods: ["controlled-experiment"]
 slug: psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an
 related: ["emotional-regulation", "mindfulness-practice", "positive-affect"]
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an.md_

@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "The rationale for rating risk of bias should be fully reported"
-apa7: "Faggion, C. M., Jr. (2016). The rationale for rating risk of bias should be fully reported. *Journal of Clinical Epidemiology*, 76, 238-239. https://doi.org/10.1016/j.jclinepi.2015.06.007"
-doi: http://dx.doi.org/10.1016/j.jclinepi.2015.06.007
+apa7: "Faggion, C. M., Jr. (2016). The rationale for rating risk of bias should be fully reported. *Journal of Clinical Epidemiology*, 76, 238-239. https://doi.org/10.1016/j.jclinepi.2016.03.007"
+doi: https://doi.org/10.1016/j.jclinepi.2016.03.007
 appearances:
   - unit: FXA301
     week: "01"
@@ -13,7 +13,7 @@ methods: ["case study"]
 slug: fxa301-week01-the-rationale-for-rating-risk-of-bias-should-be-fully
 related: ["clinical-trials", "meta-analysis", "risk-of-bias"]
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-08-02
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-week01-the-rationale-for-rating-risk-of-bias-should-be-fully.md_

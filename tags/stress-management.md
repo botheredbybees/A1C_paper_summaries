@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: stress-management
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Stress Management
@@ -17,6 +17,7 @@ updated: 2026-07-28
 - [Coping in Stress, Self-Care and Mindfulness](../sources/psy214-week01-coping-in-stress-self-care-and-mindfulness.md)
 - [Coping Notes Slides](../sources/psy214-week01-coping-notes-slides.md)
 - [Is Stress All Bad?](../sources/psy214-week01-lesson-psy214-week01-is-stress-all-bad.md)
+- [PSY114 PSY214 Stress, Self-Care and Mindfulness: The Transactional Model of Stress and Coping](../sources/psy214-week01-lesson-psy214-week01-stress-20as-20a-20psychological.md)
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness - Wrap-up](../sources/psy214-week01-lesson-psy214-week01-week-1-wrap-up.md)
 - [The transactional model of stress and coping](../sources/psy214-week01-the-transactional-model-of-stress-and-coping.md)
 - [Hedonia and Eudaimonia](../sources/psy214-week02-hedonia-and-eudaimonia.md)
@@ -24,5 +25,22 @@ updated: 2026-07-28
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness Wrap Up](../sources/psy214-week02-lesson-psy214-week02-wrap-up.md)
 - [Positive Emotions and Well-being](../sources/psy214-week02-positive-emotions-and-well-being.md)
 - [The Wellbeing Workout: How to Manage Stress and Develop Resilience](../sources/psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop.md)
+- [PSY114 PSY214 Stress, Self-Care and Mindfulness: Academic Integrity, Generative AI, and Confirmation of Learning Checks](../sources/psy214-week03-lesson-psy214-week03-academic-integrity-generative.md)
+- [PSY114 PSY214 Stress, Self-Care and Mindfulness - Practical Advice](../sources/psy214-week03-lesson-psy214-week03-at3-workbook-assessment-workshop.md)
+- [PSY114 PSY214 Stress, Self-Care and Mindfulness - Information Sheet Practical Guide](../sources/psy214-week03-lesson-psy214-week03-at4-presentation-assessment.md)
+- [PSY114 PSY214 Stress, Self-Care and Mindfulness: Orientation to Unit Assessments](../sources/psy214-week03-lesson-psy214-week03-introduction.md)
+- [How do I interpret scholarly sources?](../sources/psy214-week03-lesson-psy214-week03-making-sense-of-evidence.md)
+- [PSY114 PSY214 Stress, Self-Care and Mindfulness - Information Sheet Assessment Criteria](../sources/psy214-week03-lesson-psy214-week03-presentation-assignment-workshop.md)
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness - Lifestyle Theme Overview](../sources/psy214-week04-lesson-psy214-week04-test.md)
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness - Week 4 Assessment Overview](../sources/psy214-week04-lesson-psy214-week04-week-4-wrap-up-2.md)
+- [PSY114 PSY214 Stress, Self-Care and Mindfulness - Formal Relaxation](../sources/psy214-week05-lesson-psy214-week05-formal-relaxation.md)
+- [Relaxation: Brief Breathing Approaches](../sources/psy214-week05-lesson-psy214-week05-relaxation-brief-breathing.md)
+- [Relaxation: Informal Approaches](../sources/psy214-week05-lesson-psy214-week05-relaxation-informal.md)
+- [Sleep and Health](../sources/psy214-week05-lesson-psy214-week05-sleep-and-health.md)
+- [Sleep Hygiene, Screen Use Impact on Sleep](../sources/psy214-week05-lesson-psy214-week05-sleep-sleep-hygiene-approaches.md)
+- [Technology and Sleep Displacement Slides Full](../sources/psy214-week05-technology-and-sleep-displacement-slides-full.md)
+- [An Adapted, Four-Week Mind\u2013Body Skills Group for Medical Students: Reducing Stress, Increasing Mindfulness, and Enhancing Self-Care](../sources/psy214-week07-an-adapted-four-week-mindbody-skills-group-for-medical.md)
+- [Impact of a mindfulness and self-care intervention on stress, self-compassion, and attentiveness in university healthcare students and faculty](../sources/psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on.md)
+- [Mindfulness and acceptance-based trainings for fostering self-care and reducing stress in mental health professionals: A systematic review](../sources/psy214-week07-mindfulness-and-acceptance-based-trainings-for-fostering.md)
+- [Mindfulness as a Self-Care Strategy for Healthcare Professionals to Reduce Stress and Implicit Bias](../sources/psy214-week07-mindfulness-as-a-self-care-strategy-for-healthcare.md)
+- [Teaching Mindfulness Techniques to Behavioral Health Care Staff for Stress Reduction and Self-Care](../sources/psy214-week07-teaching-mindfulness-techniques-to-behavioral-health-care.md)

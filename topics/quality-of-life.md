@@ -6,17 +6,24 @@ sources:
   - fxa100-excellence-in-dementia-care--ch01-chapter-10
   - fxa100-excellence-in-dementia-care--ch60-chapter-11
   - fxa100-week03-alzheimers-disease-music-engagement-quality-of-life
+  - fxa100-week03-alzheimers-disease-music-engagement-quality-of-life-(2)
   - fxa100-week03-evaluation-of-the-music-and-memory-program-among-nursing
   - fxa100-week03-introduction-to-week-3-listening-to-music
+  - fxa100-week03-music-memory-the-ipod-project-video-transcript-(3)
   - fxa100-week03-pearl-85-and-living-with-dementia-adds-another-string-to
   - fxa100-week03-personalized-music-for-persons-with-dementia-and-their-life
   - fxa100-week03-transcript-music-memory-the-ipod-project
   - fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care
+  - fxa100-week04-dementia-and-the-power-of-music-therapy
   - fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for
   - fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-(2)
+  - fxa100-week04-interventions-for-dementia
   - fxa100-week04-mindsong-transcript
+  - fxa100-week04-mindsong-transcript-(2)
   - fxa100-week04-music-therapy-and-music-assisted-caregiving-for-dementia
+  - fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees-(2)
   - fxa100-week04-music-therapy-flyer
+  - fxa100-week04-music-therapy-in-the-treatment-of-dementia-a-systematic
   - fxa100-week04-research-in-aged-care-deloraine-partnership-transcript
   - fxa100-week04-singing-and-the-brain
   - fxa100-week04-the-impact-of-caregivers-singing-on-expressions-of-emotion
@@ -25,14 +32,17 @@ sources:
   - fxa100-week04-transcript-music-therapy-and-people-with-advanced-dementia
   - fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care
   - fxa100-week06-dementia-and-imagination-a-mixed-methods-protocol-for-arts
+  - fxa100-week06-herenow-conceptual-model-of-the-impact-of-an-experiential
   - fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of
   - fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to
   - fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life
   - fxa100-week06-transcript-film-clips-from-i-remember-better-when-i-paint
   - fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care
   - fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia
+  - fxa100-week07-evaluation-of-the-unforgettable-art-programme-by-people
   - fxa100-week07-im-still-here-a-breakthrough-approach-to-understanding
   - fxa100-week07-interventions-dementia-services-information-and-development
+  - fxa100-week07-interventions-for-people-with-dementia
   - fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum
   - fxa100-week07-nurturing-the-heart-creativity-art-therapy-and-dementia
   - fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of
@@ -43,23 +53,32 @@ sources:
   - fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2)
   - fxa100-week09-lesson-fxa100-week09-page-4-week-8-activities
   - fxa100-week09-testing-the-implementation-of-the-veder-contact-method-a
+  - fxa100-week09-the-effects-of-intuitive-movement-reembodiment-on-the
   - fxa100-week10-playfully-engaging-people-living-with-dementia-searching
   - fxa100-week10-the-impact-of-timeslips-a-creative-expression-intervention
+  - fxa100-week10-the-participative-arts-for-people-living-with-dementia-a
   - fxa100-week11-expressive-bodies-demented-persons-communication-in-a-dance
   - fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living
+  - fxa100-week11-the-arts-as-a-medium-for-care-and-self-care-in-dementia
   - fxa100-week11-the-benefits-of-community-based-participatory-arts
+  - fxa100-week12-creative-art-therapy-as-a-non-pharmacological-intervention
   - fxa100-week12-playfully-engaging-people-living-with-dementia-searching
+  - fxa100-week12-the-effectiveness-of-art-based-interventions-among-older
+  - fxa100-week13-a-brief-report-on-reviews-of-existing-creative-artbased
   - fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a
+  - fxa100-week13-shall-i-compare-thee-to-a-dose-of-donepezil-cultural-arts
   - fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness
   - fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow
   - fxa202-week13-revisioning-self-identity-the-role-of-portraits
   - fxa301-week01-a-qualitative-investigation-of-older-adults
+  - fxa301-week05-associations-between-participation-in-community-arts-groups
   - fxa301-week05-the-2024-happy-planet-index
   - fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons
   - fxa301-week06-song-of-life-sol-study-protocol-a-multicenter-randomized
   - fxa301-week06-therapeutic-dancing-for-parkinsons-disease
   - fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple
   - fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic
+  - fxa302-week05-the-stigma-of-hearing-loss
   - fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
   - fxa303-week13-application-of-cognitive-stimulation-in-the-care-of
   - fxa303-week13-der-demenz-clown-ein-konzept-zur-kultivierung-von-humor-und
@@ -78,7 +97,7 @@ tags:
 - quality-of-life
 title: Music Therapy in Dementia Care
 type: topic
-updated: 2026-05-18
+updated: 2026-08-07
 ---
 
 ## Music Therapy in Dementia Care
@@ -100,17 +119,24 @@ The Music and Memory (M&M) program stands out as a non-pharmacological intervent
 - [fxa100-excellence-in-dementia-care--ch01-chapter-10](../sources/fxa100-excellence-in-dementia-care--ch01-chapter-10.md)
 - [fxa100-excellence-in-dementia-care--ch60-chapter-11](../sources/fxa100-excellence-in-dementia-care--ch60-chapter-11.md)
 - [fxa100-week03-alzheimers-disease-music-engagement-quality-of-life](../sources/fxa100-week03-alzheimers-disease-music-engagement-quality-of-life.md)
+- [fxa100-week03-alzheimers-disease-music-engagement-quality-of-life-(2)](../sources/fxa100-week03-alzheimers-disease-music-engagement-quality-of-life-%282%29.md)
 - [fxa100-week03-evaluation-of-the-music-and-memory-program-among-nursing](../sources/fxa100-week03-evaluation-of-the-music-and-memory-program-among-nursing.md)
 - [fxa100-week03-introduction-to-week-3-listening-to-music](../sources/fxa100-week03-introduction-to-week-3-listening-to-music.md)
+- [fxa100-week03-music-memory-the-ipod-project-video-transcript-(3)](../sources/fxa100-week03-music-memory-the-ipod-project-video-transcript-%283%29.md)
 - [fxa100-week03-pearl-85-and-living-with-dementia-adds-another-string-to](../sources/fxa100-week03-pearl-85-and-living-with-dementia-adds-another-string-to.md)
 - [fxa100-week03-personalized-music-for-persons-with-dementia-and-their-life](../sources/fxa100-week03-personalized-music-for-persons-with-dementia-and-their-life.md)
 - [fxa100-week03-transcript-music-memory-the-ipod-project](../sources/fxa100-week03-transcript-music-memory-the-ipod-project.md)
 - [fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care](../sources/fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care.md)
+- [fxa100-week04-dementia-and-the-power-of-music-therapy](../sources/fxa100-week04-dementia-and-the-power-of-music-therapy.md)
 - [fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for](../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for.md)
 - [fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-(2)](../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-%282%29.md)
+- [fxa100-week04-interventions-for-dementia](../sources/fxa100-week04-interventions-for-dementia.md)
 - [fxa100-week04-mindsong-transcript](../sources/fxa100-week04-mindsong-transcript.md)
+- [fxa100-week04-mindsong-transcript-(2)](../sources/fxa100-week04-mindsong-transcript-%282%29.md)
 - [fxa100-week04-music-therapy-and-music-assisted-caregiving-for-dementia](../sources/fxa100-week04-music-therapy-and-music-assisted-caregiving-for-dementia.md)
+- [fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees-(2)](../sources/fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees-%282%29.md)
 - [fxa100-week04-music-therapy-flyer](../sources/fxa100-week04-music-therapy-flyer.md)
+- [fxa100-week04-music-therapy-in-the-treatment-of-dementia-a-systematic](../sources/fxa100-week04-music-therapy-in-the-treatment-of-dementia-a-systematic.md)
 - [fxa100-week04-research-in-aged-care-deloraine-partnership-transcript](../sources/fxa100-week04-research-in-aged-care-deloraine-partnership-transcript.md)
 - [fxa100-week04-singing-and-the-brain](../sources/fxa100-week04-singing-and-the-brain.md)
 - [fxa100-week04-the-impact-of-caregivers-singing-on-expressions-of-emotion](../sources/fxa100-week04-the-impact-of-caregivers-singing-on-expressions-of-emotion.md)
@@ -119,14 +145,17 @@ The Music and Memory (M&M) program stands out as a non-pharmacological intervent
 - [fxa100-week04-transcript-music-therapy-and-people-with-advanced-dementia](../sources/fxa100-week04-transcript-music-therapy-and-people-with-advanced-dementia.md)
 - [fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care](../sources/fxa100-week04-welcome-to-week-4-fxa100-the-arts-and-dementia-care.md)
 - [fxa100-week06-dementia-and-imagination-a-mixed-methods-protocol-for-arts](../sources/fxa100-week06-dementia-and-imagination-a-mixed-methods-protocol-for-arts.md)
+- [fxa100-week06-herenow-conceptual-model-of-the-impact-of-an-experiential](../sources/fxa100-week06-herenow-conceptual-model-of-the-impact-of-an-experiential.md)
 - [fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of](../sources/fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of.md)
 - [fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to](../sources/fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to.md)
 - [fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life](../sources/fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life.md)
 - [fxa100-week06-transcript-film-clips-from-i-remember-better-when-i-paint](../sources/fxa100-week06-transcript-film-clips-from-i-remember-better-when-i-paint.md)
 - [fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care](../sources/fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care.md)
 - [fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia](../sources/fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia.md)
+- [fxa100-week07-evaluation-of-the-unforgettable-art-programme-by-people](../sources/fxa100-week07-evaluation-of-the-unforgettable-art-programme-by-people.md)
 - [fxa100-week07-im-still-here-a-breakthrough-approach-to-understanding](../sources/fxa100-week07-im-still-here-a-breakthrough-approach-to-understanding.md)
 - [fxa100-week07-interventions-dementia-services-information-and-development](../sources/fxa100-week07-interventions-dementia-services-information-and-development.md)
+- [fxa100-week07-interventions-for-people-with-dementia](../sources/fxa100-week07-interventions-for-people-with-dementia.md)
 - [fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum](../sources/fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum.md)
 - [fxa100-week07-nurturing-the-heart-creativity-art-therapy-and-dementia](../sources/fxa100-week07-nurturing-the-heart-creativity-art-therapy-and-dementia.md)
 - [fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of](../sources/fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of.md)
@@ -137,23 +166,32 @@ The Music and Memory (M&M) program stands out as a non-pharmacological intervent
 - [fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-(2)](../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-%282%29.md)
 - [fxa100-week09-lesson-fxa100-week09-page-4-week-8-activities](../sources/fxa100-week09-lesson-fxa100-week09-page-4-week-8-activities.md)
 - [fxa100-week09-testing-the-implementation-of-the-veder-contact-method-a](../sources/fxa100-week09-testing-the-implementation-of-the-veder-contact-method-a.md)
+- [fxa100-week09-the-effects-of-intuitive-movement-reembodiment-on-the](../sources/fxa100-week09-the-effects-of-intuitive-movement-reembodiment-on-the.md)
 - [fxa100-week10-playfully-engaging-people-living-with-dementia-searching](../sources/fxa100-week10-playfully-engaging-people-living-with-dementia-searching.md)
 - [fxa100-week10-the-impact-of-timeslips-a-creative-expression-intervention](../sources/fxa100-week10-the-impact-of-timeslips-a-creative-expression-intervention.md)
+- [fxa100-week10-the-participative-arts-for-people-living-with-dementia-a](../sources/fxa100-week10-the-participative-arts-for-people-living-with-dementia-a.md)
 - [fxa100-week11-expressive-bodies-demented-persons-communication-in-a-dance](../sources/fxa100-week11-expressive-bodies-demented-persons-communication-in-a-dance.md)
 - [fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living](../sources/fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living.md)
+- [fxa100-week11-the-arts-as-a-medium-for-care-and-self-care-in-dementia](../sources/fxa100-week11-the-arts-as-a-medium-for-care-and-self-care-in-dementia.md)
 - [fxa100-week11-the-benefits-of-community-based-participatory-arts](../sources/fxa100-week11-the-benefits-of-community-based-participatory-arts.md)
+- [fxa100-week12-creative-art-therapy-as-a-non-pharmacological-intervention](../sources/fxa100-week12-creative-art-therapy-as-a-non-pharmacological-intervention.md)
 - [fxa100-week12-playfully-engaging-people-living-with-dementia-searching](../sources/fxa100-week12-playfully-engaging-people-living-with-dementia-searching.md)
+- [fxa100-week12-the-effectiveness-of-art-based-interventions-among-older](../sources/fxa100-week12-the-effectiveness-of-art-based-interventions-among-older.md)
+- [fxa100-week13-a-brief-report-on-reviews-of-existing-creative-artbased](../sources/fxa100-week13-a-brief-report-on-reviews-of-existing-creative-artbased.md)
 - [fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a](../sources/fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a.md)
+- [fxa100-week13-shall-i-compare-thee-to-a-dose-of-donepezil-cultural-arts](../sources/fxa100-week13-shall-i-compare-thee-to-a-dose-of-donepezil-cultural-arts.md)
 - [fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness](../sources/fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness.md)
 - [fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow](../sources/fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow.md)
 - [fxa202-week13-revisioning-self-identity-the-role-of-portraits](../sources/fxa202-week13-revisioning-self-identity-the-role-of-portraits.md)
 - [fxa301-week01-a-qualitative-investigation-of-older-adults](../sources/fxa301-week01-a-qualitative-investigation-of-older-adults.md)
+- [fxa301-week05-associations-between-participation-in-community-arts-groups](../sources/fxa301-week05-associations-between-participation-in-community-arts-groups.md)
 - [fxa301-week05-the-2024-happy-planet-index](../sources/fxa301-week05-the-2024-happy-planet-index.md)
 - [fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons](../sources/fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons.md)
 - [fxa301-week06-song-of-life-sol-study-protocol-a-multicenter-randomized](../sources/fxa301-week06-song-of-life-sol-study-protocol-a-multicenter-randomized.md)
 - [fxa301-week06-therapeutic-dancing-for-parkinsons-disease](../sources/fxa301-week06-therapeutic-dancing-for-parkinsons-disease.md)
 - [fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple](../sources/fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple.md)
 - [fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic](../sources/fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic.md)
+- [fxa302-week05-the-stigma-of-hearing-loss](../sources/fxa302-week05-the-stigma-of-hearing-loss.md)
 - [fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns](../sources/fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns.md)
 - [fxa303-week13-application-of-cognitive-stimulation-in-the-care-of](../sources/fxa303-week13-application-of-cognitive-stimulation-in-the-care-of.md)
 - [fxa303-week13-der-demenz-clown-ein-konzept-zur-kultivierung-von-humor-und](../sources/fxa303-week13-der-demenz-clown-ein-konzept-zur-kultivierung-von-humor-und.md)

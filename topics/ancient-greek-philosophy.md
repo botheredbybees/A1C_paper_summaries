@@ -7,7 +7,8 @@ tags: ["ancient-greek-philosophy"]
 sources:
   - fxa302-week02-fxa302-week-2-welcome
   - fxa303-week05-platos-puppets-of-the-gods-representing-the-magical-the
-updated: 2026-07-13
+  - fxa303-week05-platos-puppets-of-the-gods-representing-the-magical-the-(2)
+updated: 2026-08-03
 ---
 
 ## Ancient Greek Philosophy
@@ -28,3 +29,4 @@ The study of Ancient Greek philosophy reveals a rich interplay between the physi
 
 - [fxa302-week02-fxa302-week-2-welcome](../sources/fxa302-week02-fxa302-week-2-welcome.md)
 - [fxa303-week05-platos-puppets-of-the-gods-representing-the-magical-the](../sources/fxa303-week05-platos-puppets-of-the-gods-representing-the-magical-the.md)
+- [fxa303-week05-platos-puppets-of-the-gods-representing-the-magical-the-(2)](../sources/fxa303-week05-platos-puppets-of-the-gods-representing-the-magical-the-%282%29.md)

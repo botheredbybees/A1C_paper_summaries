@@ -11,7 +11,7 @@ tags: ["global-health", "dietary-intake", "non-communicable-diseases", "public-h
 key_concepts: ["suboptimal-diet", "non-communicable-disease-mortality-and-morbidity", "global-burden-of-disease-study"]
 methods: ["systematic-analysis"]
 slug: psy214-week04-health-effects-of-dietary-risks-in-195-countries-19902017-a
-related: ["global-health", "non-communicable-diseases", "public-health", "suboptimal-diet"]
+related: ["arts-based-strategies-for-youth-mental-health", "non-communicable-diseases", "public-health", "suboptimal-diet"]
 created: 2026-07-28
 updated: 2026-07-28
 ---
@@ -43,7 +43,7 @@ This study evaluates the consumption of major foods and nutrients across 195 cou
 
 ## See Also
 
-- [global-health](../topics/global-health.md)
+- [arts-based-strategies-for-youth-mental-health](../topics/arts-based-strategies-for-youth-mental-health.md)
 - [non-communicable-diseases](../topics/non-communicable-diseases.md)
 - [public-health](../topics/public-health.md)
 - [suboptimal-diet](../topics/suboptimal-diet.md)

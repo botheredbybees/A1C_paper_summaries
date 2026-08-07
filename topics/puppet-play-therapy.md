@@ -9,7 +9,7 @@ tags:
 - puppet-play-therapy
 title: Puppet Play Therapy
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Puppet Play Therapy

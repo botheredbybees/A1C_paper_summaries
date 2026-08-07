@@ -11,7 +11,7 @@ tags: ["contextual-factors", "cultural-studies", "fxa303", "health-interventions
 key_concepts: ["musical affordances", "contextual factors", "institutional rules", "power and identity"]
 methods: ["mixed-methods"]
 slug: fxa303-week11-music-making-for-health-and-wellbeing-in-youth-justice
-related: ["cultural-studies", "health-interventions", "music-therapy"]
+related: ["contextual-factors", "cultural-studies", "health-interventions", "music-therapy"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -42,6 +42,7 @@ This study explores the impact of participatory music programs on young people i
 
 ## See Also
 
+- [contextual-factors](../topics/contextual-factors.md)
 - [cultural-studies](../topics/cultural-studies.md)
 - [health-interventions](../topics/health-interventions.md)
 - [music-therapy](../topics/music-therapy.md)

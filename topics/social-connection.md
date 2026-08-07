@@ -7,7 +7,8 @@ tags: ["social-connection"]
 sources:
   - fxa100-week04-what-is-singing-for-the-brain
   - fxa100-week11-about-the-octaband-dance-for-connection
-updated: 2026-05-11
+  - fxa302-week07-impact-of-creative-workshops-for-people-with-severe-mental
+updated: 2026-08-07
 ---
 
 ## Social Connection Through Music and Movement
@@ -27,3 +28,4 @@ Both sources highlight the importance of social connection through engaging in c
 
 - [fxa100-week04-what-is-singing-for-the-brain](../sources/fxa100-week04-what-is-singing-for-the-brain.md)
 - [fxa100-week11-about-the-octaband-dance-for-connection](../sources/fxa100-week11-about-the-octaband-dance-for-connection.md)
+- [fxa302-week07-impact-of-creative-workshops-for-people-with-severe-mental](../sources/fxa302-week07-impact-of-creative-workshops-for-people-with-severe-mental.md)

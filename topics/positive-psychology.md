@@ -6,17 +6,20 @@ sources:
   - fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow
   - fxa301-week02-university-students-strong-experiences-of-music-pleasure
   - fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and
+  - fxa301-week10-learning-flow-and-happiness
+  - fxa303-week02-the-playful-mediator-moderator-or-outcome-an-integrative
   - psy214-week00-gratitude-and-health-an-updated-review
   - psy214-week02-critical-positivity-ratio
   - psy214-week02-hedonia-and-eudaimonia-notes-slides
   - psy214-week02-lesson-psy214-week02-necessary-versus-sufficient
   - psy214-week02-lesson-psy214-week02-subjective-well-being
   - psy214-week02-positive-psychology-the-basics
+  - psy214-week05-leisure-and-well-being-the-dramma-model
 tags:
 - positive-psychology
 title: Positive Psychology and Resilience
 type: topic
-updated: 2026-07-13
+updated: 2026-08-07
 ---
 
 ## Positive Psychology and Resilience
@@ -38,9 +41,12 @@ Positive psychology focuses on fostering resilience and well-being through the d
 - [fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow](../sources/fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow.md)
 - [fxa301-week02-university-students-strong-experiences-of-music-pleasure](../sources/fxa301-week02-university-students-strong-experiences-of-music-pleasure.md)
 - [fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and](../sources/fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and.md)
+- [fxa301-week10-learning-flow-and-happiness](../sources/fxa301-week10-learning-flow-and-happiness.md)
+- [fxa303-week02-the-playful-mediator-moderator-or-outcome-an-integrative](../sources/fxa303-week02-the-playful-mediator-moderator-or-outcome-an-integrative.md)
 - [psy214-week00-gratitude-and-health-an-updated-review](../sources/psy214-week00-gratitude-and-health-an-updated-review.md)
 - [psy214-week02-critical-positivity-ratio](../sources/psy214-week02-critical-positivity-ratio.md)
 - [psy214-week02-hedonia-and-eudaimonia-notes-slides](../sources/psy214-week02-hedonia-and-eudaimonia-notes-slides.md)
 - [psy214-week02-lesson-psy214-week02-necessary-versus-sufficient](../sources/psy214-week02-lesson-psy214-week02-necessary-versus-sufficient.md)
 - [psy214-week02-lesson-psy214-week02-subjective-well-being](../sources/psy214-week02-lesson-psy214-week02-subjective-well-being.md)
 - [psy214-week02-positive-psychology-the-basics](../sources/psy214-week02-positive-psychology-the-basics.md)
+- [psy214-week05-leisure-and-well-being-the-dramma-model](../sources/psy214-week05-leisure-and-well-being-the-dramma-model.md)

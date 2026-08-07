@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Distributed Neural Network Underlying Musical Sight-Reading and Keyboard Performance"
-apa7: "Sergent, J., Zuck, E., Terriah, S., & MacDonald, B. (1992). Distributed neural network underlying musical sight-reading and keyboard performance. Science, 257(5068), 106\u2013109. https://doi.org/10.1126/science.257.5068.106"
-doi: https://doi.org/10.1126/science.257.5068.106
+apa7: "Sergent, J., Zuck, E., Terriah, S., & Macdonald, B. (1992). Distributed neural network underlying musical sight-reading and keyboard performance.. *Science*. https://doi.org/10.1126/SCIENCE.1621084"
+doi: https://doi.org/10.1126/SCIENCE.1621084
 appearances:
   - unit: FXA100
     week: "13"

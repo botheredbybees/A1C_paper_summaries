@@ -11,7 +11,7 @@ tags: ["mirror-neurons", "social-cognition", "neuroscience", "motor-system", "ac
 key_concepts: ["mirror neurons", "ventral premotor region F5", "action observation and execution"]
 methods: ["systematic review"]
 slug: fxa300-week01-what-we-know-currently-about-mirror-neurons
-related: ["brain-mapping", "neuroscience"]
+related: ["brain-mapping", "neuroscience", "social-cognition"]
 created: 2026-07-06
 updated: 2026-07-06
 ---
@@ -46,3 +46,4 @@ This minireview article discusses the current understanding of mirror neurons, a
 
 - [brain-mapping](../topics/brain-mapping.md)
 - [neuroscience](../topics/neuroscience.md)
+- [social-cognition](../topics/social-cognition.md)

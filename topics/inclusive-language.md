@@ -3,12 +3,14 @@ confidence: low
 domain: theory
 slug: person-centered-language
 sources:
-- fxa100-week04-person-centred-language-guidelines
+  - fxa100-week04-a-guide-to-dementia-friendly-language
+  - fxa100-week04-dementia-language-guidelines-(2)
+  - fxa100-week04-person-centred-language-guidelines
 tags:
 - inclusive-language
 title: Person-Centered Language
 type: topic
-updated: 2026-05-04
+updated: 2026-08-07
 ---
 
 ## Person-Centered Language
@@ -27,4 +29,6 @@ The concept of person-centered language focuses on recognizing individuals' inhe
 
 ## Sources
 
+- [fxa100-week04-a-guide-to-dementia-friendly-language](../sources/fxa100-week04-a-guide-to-dementia-friendly-language.md)
+- [fxa100-week04-dementia-language-guidelines-(2)](../sources/fxa100-week04-dementia-language-guidelines-%282%29.md)
 - [fxa100-week04-person-centred-language-guidelines](../sources/fxa100-week04-person-centred-language-guidelines.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: three-dimensional-mental-rotation-task
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Three Dimensional Mental Rotation Task

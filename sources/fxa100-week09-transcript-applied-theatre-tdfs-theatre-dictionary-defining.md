@@ -11,7 +11,7 @@ tags: ["applied-theatre", "social-issues", "interactive-performance", "fxa100"]
 key_concepts: ["cyberbullying intervention", "audience engagement"]
 methods: []
 slug: fxa100-week09-transcript-applied-theatre-tdfs-theatre-dictionary-defining
-related: ["applied-theatre"]
+related: ["applied-theatre", "social-issues"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,3 +41,4 @@ The transcript defines and discusses the concept of applied theatre, where drama
 ## See Also
 
 - [applied-theatre](../topics/applied-theatre.md)
+- [social-issues](../topics/social-issues.md)

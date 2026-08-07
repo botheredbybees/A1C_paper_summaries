@@ -3,12 +3,15 @@ confidence: low
 domain: intervention
 slug: pharmacological-interventions
 sources:
-- fxa100-week07-interventions-dementia-services-information-and-development
+  - fxa100-week04-interventions-for-dementia
+  - fxa100-week04-interventions-for-dementia-care
+  - fxa100-week07-interventions-dementia-services-information-and-development
+  - fxa100-week07-interventions-for-people-with-dementia
 tags:
 - pharmacological-interventions
 title: Pharmacological Interventions
 type: topic
-updated: 2026-05-04
+updated: 2026-08-07
 ---
 
 ## Pharmacological Interventions
@@ -27,4 +30,7 @@ The provided summary emphasizes the importance of both pharmacological and non-p
 
 ## Sources
 
+- [fxa100-week04-interventions-for-dementia](../sources/fxa100-week04-interventions-for-dementia.md)
+- [fxa100-week04-interventions-for-dementia-care](../sources/fxa100-week04-interventions-for-dementia-care.md)
 - [fxa100-week07-interventions-dementia-services-information-and-development](../sources/fxa100-week07-interventions-dementia-services-information-and-development.md)
+- [fxa100-week07-interventions-for-people-with-dementia](../sources/fxa100-week07-interventions-for-people-with-dementia.md)

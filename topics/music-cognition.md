@@ -5,6 +5,7 @@ slug: music-cognition
 sources:
   - fxa100-week13-hearing-what-the-body-feels-auditory-encoding-of-rhythmic
   - fxa300-week03-lesson-fxa300-week03-music-and-processing-1
+  - fxa300-week03-lesson-fxa300-week03-page-2-introduction-to-music-and
   - fxa300-week03-lesson-fxa300-week03-page-4-music-and-memory
   - fxa300-week03-music-and-memory-an-introduction-review
   - fxa300-week03-musical-imagery-involves-wernickes-area-in-bilateral-and
@@ -17,7 +18,7 @@ tags:
 - music-cognition
 title: Music Cognition
 type: topic
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Music Cognition
@@ -38,6 +39,7 @@ The exploration of music cognition through various sources reveals the intricate
 
 - [fxa100-week13-hearing-what-the-body-feels-auditory-encoding-of-rhythmic](../sources/fxa100-week13-hearing-what-the-body-feels-auditory-encoding-of-rhythmic.md)
 - [fxa300-week03-lesson-fxa300-week03-music-and-processing-1](../sources/fxa300-week03-lesson-fxa300-week03-music-and-processing-1.md)
+- [fxa300-week03-lesson-fxa300-week03-page-2-introduction-to-music-and](../sources/fxa300-week03-lesson-fxa300-week03-page-2-introduction-to-music-and.md)
 - [fxa300-week03-lesson-fxa300-week03-page-4-music-and-memory](../sources/fxa300-week03-lesson-fxa300-week03-page-4-music-and-memory.md)
 - [fxa300-week03-music-and-memory-an-introduction-review](../sources/fxa300-week03-music-and-memory-an-introduction-review.md)
 - [fxa300-week03-musical-imagery-involves-wernickes-area-in-bilateral-and](../sources/fxa300-week03-musical-imagery-involves-wernickes-area-in-bilateral-and.md)

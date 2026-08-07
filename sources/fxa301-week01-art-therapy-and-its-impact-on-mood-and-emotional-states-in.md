@@ -1,7 +1,7 @@
 ---
 type: source
 source_type: paper
-title: "Art Therapy and Its Impact on Mood and Emotional States in Pediatric Hematology Oncology Units"
+title: "Art Therapy and Its Impact on Mood and Emotional States in Pediatric Hematology Oncology Units: Translation and Validation of the Italian Version of the Arts Observational Scale (ArtsObS)"
 apa7: "Avola, M., Garibaldi, E., La Spina, M., Di Cataldo, A., Russo, G., Lo Nigro, L., Montanaro, M., Scarponi, D., Militello, A., Raciti, C., et al. (2025). Art therapy and its impact on mood and emotional states in pediatric hematology oncology units: Translation and validation of the Italian version of the Arts Observational Scale (ArtsObS). Healthcare, 13(15), 1851. https://doi.org/10.3390/healthcare13151851"
 doi: https://doi.org/10.3390/healthcare13151851
 appearances:
@@ -13,12 +13,12 @@ methods: ["validation study"]
 slug: fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in
 related: ["art-therapy", "arts-observational-scale-artsobs", "cross-cultural-research", "emotional-wellbeing", "mood-assessment", "psychometric-validation"]
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-08-02
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in.md_
 
-## Art Therapy and Its Impact on Mood and Emotional States in Pediatric Hematology Oncology Units
+## Art Therapy and Its Impact on Mood and Emotional States in Pediatric Hematology Oncology Units: Translation and Validation of the Italian Version of the Arts Observational Scale (ArtsObS)
 
 This study aims to validate the Italian version of the Arts Observational Scale (ArtsObS) for assessing the impact of art therapy on mood and emotional states in pediatric hematology oncology units. The research, conducted across multiple centers in Italy, translates and culturally adapts the original English scale while ensuring its psychometric properties are comparable to those of the original version. Key findings indicate that the Italian ArtsObS demonstrates high internal consistency and reliable inter-rater agreement. This tool provides a standardized method for evaluating creative interventions’ effectiveness in enhancing mood and emotional well-being among pediatric oncology patients, contributing significantly to both clinical practice and research in arts-based therapies within healthcare settings.
 

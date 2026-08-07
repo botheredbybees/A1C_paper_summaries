@@ -5,9 +5,10 @@ title: "Digital Storytelling"
 confidence: medium
 tags: ["digital-storytelling"]
 sources:
+  - fxa202-week03-photography-and-digital-storytelling-in-english-for-tourism
   - fxa202-week13-the-remediation-of-the-personal-photograph-and-the-politics
   - fxa302-week01-digital-storytelling
-updated: 2026-07-06
+updated: 2026-08-07
 ---
 
 ## Digital Storytelling
@@ -26,5 +27,6 @@ The sources explore digital storytelling as an intervention with a focus on self
 
 ## Sources
 
+- [fxa202-week03-photography-and-digital-storytelling-in-english-for-tourism](../sources/fxa202-week03-photography-and-digital-storytelling-in-english-for-tourism.md)
 - [fxa202-week13-the-remediation-of-the-personal-photograph-and-the-politics](../sources/fxa202-week13-the-remediation-of-the-personal-photograph-and-the-politics.md)
 - [fxa302-week01-digital-storytelling](../sources/fxa302-week01-digital-storytelling.md)

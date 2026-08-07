@@ -6,22 +6,21 @@ confidence: medium
 tags: ["biophilia"]
 sources:
   - fxa202-week08-reading-notes-from-biophilia-by-edward-o-wilson
-updated: 2026-05-16
+updated: 2026-08-07
 ---
 
 ## Biophilia
 
-The theory of biophilia posits an innate human tendency to focus on life and nature. Edward O. Wilson's exploration delves into how this inherent connection with the natural world is deeply embedded in our evolutionary history, influencing biodiversity conservation efforts and the psychological well-being derived from contact with nature. The concept bridges the gap between environmental psychology and evolutionary biology by suggesting that humans have a genetic predisposition to seek out natural environments for survival and flourishing. This theory highlights the importance of preserving ecological systems not just for their intrinsic value but also for human health and happiness.
+Edward O. Wilson's theory of biophilia posits a profound human attraction to living systems and life-like processes. The concept integrates insights from evolutionary biology, psychology, and ecology. Key themes include the inherent human inclination towards nature and biodiversity. Sources emphasize the genetic basis for this affinity, suggesting that humans evolved alongside natural environments over millennia. This has implications for understanding both individual mental health benefits of contact with nature as well as broader societal attitudes toward conservation efforts. However, there are nuances in how the theory is applied; some argue it can overly romanticize nature while others see it as a necessary counterbalance to urbanization and technological advances.
 
 ## Key Findings
 
-- Humans possess an innate tendency towards biophilia, rooted in our evolution.
-- The theory links psychological well-being with exposure to nature.
-- Biodiversity conservation is vital due to its impact on human welfare
+- Human attraction towards natural environments has evolutionary roots.
+- Biophilia impacts both individual well-being and societal conservation practices.
 
 ## Open Questions
 
-- How does the intensity of biophilic tendencies vary across different cultures and environments?
+- How does biophilia theory address the tension between human development needs and environmental conservation?
 
 ## Sources
 

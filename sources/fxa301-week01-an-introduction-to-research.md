@@ -7,13 +7,15 @@ doi: https://doi.org/10.1093/oso/9780198792079.003.0009
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["arts-in-health", "fxa301", "interdisciplinary-research", "randomized-controlled-trials", "research-methodologies", "unique-research-methods"]
+  - unit: FXA100
+    week: "04"
+tags: ["arts-in-health", "fxa301", "interdisciplinary-research", "randomized-controlled-trials", "research-methodologies", "unique-research-methods", "fxa100"]
 key_concepts: ["unique-research-methods", "interdisciplinary-approaches"]
 methods: ["case-study"]
 slug: fxa301-week01-an-introduction-to-research
 related: ["arts-in-health", "interdisciplinary-research", "randomized-controlled-trials", "research-methodologies"]
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-week01-an-introduction-to-research.md_

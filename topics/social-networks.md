@@ -3,12 +3,14 @@ confidence: low
 domain: theory
 slug: social-networks
 sources:
-- fxa303-week03-fxa303-week-3-introduction
+  - fxa202-week10-websites-social-networks-blogs-user-generated-content
+  - fxa303-week03-fxa303-week-3-introduction
+  - fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic-(2)
 tags:
 - social-networks
 title: Social Networks
 type: topic
-updated: 2026-05-04
+updated: 2026-08-07
 ---
 
 ## Social Networks
@@ -27,4 +29,6 @@ The concept of social networks integrates the understanding of how individuals i
 
 ## Sources
 
+- [fxa202-week10-websites-social-networks-blogs-user-generated-content](../sources/fxa202-week10-websites-social-networks-blogs-user-generated-content.md)
 - [fxa303-week03-fxa303-week-3-introduction](../sources/fxa303-week03-fxa303-week-3-introduction.md)
+- [fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic-(2)](../sources/fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic-%282%29.md)

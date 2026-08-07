@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: drama-therapy
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Drama Therapy
@@ -14,3 +14,4 @@ updated: 2026-07-28
 - [Editorial: The State of the Art in Creative Arts Therapies](../sources/fxa100-week13-editorial-the-state-of-the-art-in-creative-arts-therapies.md)
 - [Promoting the health and wellbeing of young Black men using community-based drama](../sources/fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using.md)
 - [Clown Therapy: A Drama Therapy Approach to Addiction and Beyond](../sources/fxa303-week08-clown-therapy-a-drama-therapy-approach-to-addiction-and.md)
+- [Colors of the mind: a meta-analysis of creative arts therapy as an approach for post-traumatic stress disorder intervention](../sources/fxa303-week09-colors-of-the-mind-a-meta-analysis-of-creative-arts-therapy.md)

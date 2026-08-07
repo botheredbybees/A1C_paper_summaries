@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotional-arousal-mechanisms
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Emotional Arousal Mechanisms

@@ -7,13 +7,15 @@ doi: https://doi.org/10.4324/9781003460244-18
 appearances:
   - unit: FXA300
     week: "04"
+  - unit: FXA300
+    week: "05"
 tags: ["music-therapy", "health-wellness", "performing-arts-medicine", "music-medicine", "fxa300", "interdisciplinary-approach", "patient-care-through-music"]
 key_concepts: ["therapeutic-relationship", "interdisciplinary-approach", "patient-care-through-music"]
 methods: ["literature-review"]
 slug: fxa300-week04-music-and-health
 related: ["health-wellness", "interdisciplinary-approach", "music-therapy"]
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-03
 ---
 
 _All claims sourced from ../raw/pdf/fxa300-week04-music-and-health.md_

@@ -3,13 +3,15 @@ confidence: medium
 domain: method
 slug: audience-engagement
 sources:
-- fxa100-week09-transcript-applied-theatre-tdfs-theatre-dictionary-defining
-- fxa202-week10-6-questions-journalists-should-be-able-to-answer-before
+  - fxa100-week09-transcript-applied-theatre-tdfs-theatre-dictionary-defining
+  - fxa202-week10-6-questions-journalists-should-be-able-to-answer-before
+  - fxa202-week13-exploring-the-psychological-impact-of-narrative-photography
+  - fxa302-week05-transcript-posted-by-steve-longo-2012
 tags:
 - audience-engagement
 title: Audience Engagement
 type: topic
-updated: 2026-05-04
+updated: 2026-08-03
 ---
 
 ## Audience Engagement
@@ -30,3 +32,5 @@ The topic of Audience Engagement integrates the concept across two distinct fiel
 
 - [fxa100-week09-transcript-applied-theatre-tdfs-theatre-dictionary-defining](../sources/fxa100-week09-transcript-applied-theatre-tdfs-theatre-dictionary-defining.md)
 - [fxa202-week10-6-questions-journalists-should-be-able-to-answer-before](../sources/fxa202-week10-6-questions-journalists-should-be-able-to-answer-before.md)
+- [fxa202-week13-exploring-the-psychological-impact-of-narrative-photography](../sources/fxa202-week13-exploring-the-psychological-impact-of-narrative-photography.md)
+- [fxa302-week05-transcript-posted-by-steve-longo-2012](../sources/fxa302-week05-transcript-posted-by-steve-longo-2012.md)

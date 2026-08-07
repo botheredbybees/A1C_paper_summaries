@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: digital-age-relevance
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Digital Age Relevance

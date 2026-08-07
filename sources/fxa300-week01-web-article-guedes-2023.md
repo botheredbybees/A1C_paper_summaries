@@ -2,7 +2,7 @@
 type: source
 source_type: web-article
 title: "The taste & affect music database: Subjective rating norms for a new set of musical stimuli"
-apa7: "Guedes, D., Prada, M., Garrido, M. V., ... Lamy, E. (2023). The taste & affect music database: Subjective rating norms for a new set of musical stimuli. Behavior Research Methods, 55(4), 1121-1140. https://doi.org/10.3758/s13428-022-01862-z"
+apa7: "Guedes, D., Prada, M., Garrido, M. V., ... Lamy, E. (2022). The taste & affect music database: Subjective rating norms for a new set of musical stimuli. Behavior Research Methods, 55(4), 1121-1140. https://doi.org/10.3758/s13428-022-01862-z"
 doi: https://doi.org/10.3758/s13428-022-01862-z
 appearances:
   - unit: FXA300
@@ -15,7 +15,7 @@ methods: []
 slug: fxa300-week01-web-article-guedes-2023
 related: ["emotional-cognition", "music-psychology", "taste-perception"]
 created: 2026-07-06
-updated: 2026-07-21
+updated: 2026-08-02
 ---
 
 _All claims sourced from ../raw/pdf/fxa300-week01-web-article-guedes-2023.md_

@@ -17,6 +17,7 @@ sources:
   - fxa303-week04-evidence-against-the-normalization-prediction-of-the-early
   - fxa303-week04-fxa303-week-4-introduction
   - fxa303-week04-intensive-child-centered-play-therapy-for-children-on-the
+  - fxa303-week04-lesson-fxa303-week04-page-2-neurodiversity-and-the-brain
   - fxa303-week04-missed-early-intervention-opportunities-for-children-with
   - fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder
   - fxa303-week04-neurodiversity-and-the-autism-spectrum
@@ -29,7 +30,7 @@ tags:
 - autism-spectrum-disorder
 title: Intervention Approaches for Autism Spectrum Disorder
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Intervention Approaches for Autism Spectrum Disorder
@@ -62,6 +63,7 @@ The sources collectively emphasize the multifaceted and individualized nature of
 - [fxa303-week04-evidence-against-the-normalization-prediction-of-the-early](../sources/fxa303-week04-evidence-against-the-normalization-prediction-of-the-early.md)
 - [fxa303-week04-fxa303-week-4-introduction](../sources/fxa303-week04-fxa303-week-4-introduction.md)
 - [fxa303-week04-intensive-child-centered-play-therapy-for-children-on-the](../sources/fxa303-week04-intensive-child-centered-play-therapy-for-children-on-the.md)
+- [fxa303-week04-lesson-fxa303-week04-page-2-neurodiversity-and-the-brain](../sources/fxa303-week04-lesson-fxa303-week04-page-2-neurodiversity-and-the-brain.md)
 - [fxa303-week04-missed-early-intervention-opportunities-for-children-with](../sources/fxa303-week04-missed-early-intervention-opportunities-for-children-with.md)
 - [fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder](../sources/fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder.md)
 - [fxa303-week04-neurodiversity-and-the-autism-spectrum](../sources/fxa303-week04-neurodiversity-and-the-autism-spectrum.md)

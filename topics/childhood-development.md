@@ -7,7 +7,8 @@ tags: ["childhood-development"]
 sources:
   - fxa101-week03-childhood-music-training-induces-change-in-micro-and
   - fxa101-week03-environmental-and-cognitive-enrichment-in-childhood-as
-updated: 2026-07-20
+  - fxa303-week04-lesson-fxa303-week04-page-2-neurodiversity-and-the-brain
+updated: 2026-08-07
 ---
 
 ## Childhood Development through Environmental Enrichment
@@ -28,3 +29,4 @@ Both studies emphasize the importance of environmental and cognitive interventio
 
 - [fxa101-week03-childhood-music-training-induces-change-in-micro-and](../sources/fxa101-week03-childhood-music-training-induces-change-in-micro-and.md)
 - [fxa101-week03-environmental-and-cognitive-enrichment-in-childhood-as](../sources/fxa101-week03-environmental-and-cognitive-enrichment-in-childhood-as.md)
+- [fxa303-week04-lesson-fxa303-week04-page-2-neurodiversity-and-the-brain](../sources/fxa303-week04-lesson-fxa303-week04-page-2-neurodiversity-and-the-brain.md)

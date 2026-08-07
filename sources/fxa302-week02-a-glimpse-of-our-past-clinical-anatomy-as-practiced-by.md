@@ -2,7 +2,7 @@
 type: source
 source_type: paper
 title: "A Glimpse of Our Past: Clinical Anatomy as Practiced by Ancient Egyptians"
-apa7: "Loukas, M., Hanna, M., Alsai Geh, N., Shoja, M. M., & Tubbs, R. S. (2011). A glimpse of our past: clinical anatomy as practiced by ancient egyptians. Clinical Anatomy, 24(5), 409-415. https://doi.org/10.1002/ca.21155"
+apa7: "Loukas, M., Hanna, M., Alsaiegh, N., Shoja, M. M., & Tubbs, R. S. (2011). A glimpse of our past: clinical anatomy as practiced by ancient egyptians. Clinical Anatomy, 24(5), 409-415. https://doi.org/10.1002/ca.21155"
 doi: https://doi.org/10.1002/ca.21155
 appearances:
   - unit: FXA302
@@ -13,7 +13,7 @@ methods: ["historical-review"]
 slug: fxa302-week02-a-glimpse-of-our-past-clinical-anatomy-as-practiced-by
 related: ["historical-medical-practices"]
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-08-02
 ---
 
 _All claims sourced from ../raw/pdf/fxa302-week02-a-glimpse-of-our-past-clinical-anatomy-as-practiced-by.md_

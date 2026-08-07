@@ -11,7 +11,7 @@ tags: ["music-emotions", "neurobiological-perspectives", "cognitive-processing",
 key_concepts: ["cognitivism", "emotivism", "autonomic-nervous-system", "limbic-system"]
 methods: ["literature-review"]
 slug: fxa300-week02-musical-emotions
-related: ["cognitive-processing", "emotional-reactions", "music-emotions"]
+related: ["cognitive-processing", "emotional-reactions", "music-and-induced-emotion"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -45,4 +45,4 @@ The chapter 'Musical Emotions' by Donald A. Hodges and Gary E. McPherson explore
 
 - [cognitive-processing](../topics/cognitive-processing.md)
 - [emotional-reactions](../topics/emotional-reactions.md)
-- [music-emotions](../topics/music-emotions.md)
+- [music-and-induced-emotion](../topics/music-and-induced-emotion.md)

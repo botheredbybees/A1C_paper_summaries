@@ -3,6 +3,7 @@ confidence: medium
 domain: intervention
 slug: national-arts-and-health-framework
 sources:
+
 - fxa301-week03-arts-public-health-and-the-national-arts-and-health
 - fxa301-week03-evidence-requirements-for-the-development-of-the-national
 - fxa301-week03-lesson-fxa301-week03-page-3
@@ -10,7 +11,7 @@ tags:
 - national-arts-and-health-framework
 title: National Arts and Health Framework
 type: topic
-updated: 2026-05-04
+updated: 2026-08-07
 ---
 
 ## National Arts and Health Framework
@@ -29,6 +30,4 @@ The National Arts and Health Framework is a strategic initiative aimed at integr
 
 ## Sources
 
-- [fxa301-week03-arts-public-health-and-the-national-arts-and-health](../sources/fxa301-week03-arts-public-health-and-the-national-arts-and-health.md)
-- [fxa301-week03-evidence-requirements-for-the-development-of-the-national](../sources/fxa301-week03-evidence-requirements-for-the-development-of-the-national.md)
-- [fxa301-week03-lesson-fxa301-week03-page-3](../sources/fxa301-week03-lesson-fxa301-week03-page-3.md)
+

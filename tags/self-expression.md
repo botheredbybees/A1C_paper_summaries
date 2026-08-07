@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: self-expression
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Self Expression
@@ -12,6 +12,7 @@ updated: 2026-07-28
 - [YouTube_CiLh21tFqEM Caption Transcript](../sources/fxa100-week08-transcript-youtube-cilh21tfqem.md)
 - [Art Therapy for Alzheimer's Patients: The Memories in the Making Program](../sources/fxa100-week08-transcript-youtube-l3cci-2kwkk.md)
 - [Why the Arts?](../sources/fxa100-week08-why-the-arts.md)
+- [What is Therapeutic Photography?](../sources/fxa202-week03-what-is-therapeutic-photography-%283%29.md)
 - [Personal Storytelling and Memoir Writing](../sources/fxa202-week09-personal-storytelling-and-memoir-writing.md)
 - [Refugee Art Project](../sources/fxa301-week11-refugee-art-project.md)
 - [Art Therapy With Puppet Making to Promote Emotional Empathy for an Adolescent With Autism](../sources/fxa303-week06-art-therapy-with-puppet-making-to-promote-emotional-empathy.md)

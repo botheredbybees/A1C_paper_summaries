@@ -11,7 +11,7 @@ tags: ["creativity-and-aging", "creative-arts-therapy", "public-health", "fxa101
 key_concepts: ["late-life creativity", "cognitive resilience", "community engagement"]
 methods: []
 slug: fxa101-week04-lesson-fxa101-week04-chapter-3-creativity-throughout-life
-related: ["cognitive-resilience", "creative-arts-therapy", "creativity-and-aging", "public-health"]
+related: ["cognitive-resilience", "creative-arts-therapy", "creativity-and-aging", "late-life-creativity", "public-health"]
 created: 2026-07-28
 updated: 2026-07-28
 ---
@@ -44,4 +44,5 @@ This lesson explores the perception of declining creativity with age and provide
 - [cognitive-resilience](../topics/cognitive-resilience.md)
 - [creative-arts-therapy](../topics/creative-arts-therapy.md)
 - [creativity-and-aging](../topics/creativity-and-aging.md)
+- [late-life-creativity](../topics/late-life-creativity.md)
 - [public-health](../topics/public-health.md)

@@ -7,11 +7,11 @@ doi: null
 appearances:
   - unit: FXA301
     week: "03"
-tags: ["arts-in-health", "well-being-initiatives", "public-health-strategies", "creative-experiences", "fxa301"]
+tags: ["arts-in-health", "community-well-being-via-artistic-interventions", "creative-experiences", "fxa301", "public-health-strategies", "well-being-initiatives"]
 key_concepts: ["healthcare-enrichment-through-arts", "community-well-being-via-artistic-interventions"]
 methods: ["case-study"]
 slug: fxa301-week03-arts-health-and-well-being-in-america
-related: ["arts-in-health", "public-health-strategies", "well-being-initiatives"]
+related: ["arts-in-health", "community-wellbeing-through-arts-engagement", "public-health-strategies", "well-being-initiatives"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -24,8 +24,8 @@ The white paper 'Arts, Health, and Well-Being in America,' commissioned by the N
 
 ## Key Concepts
 
-- [community-well-being-via-artistic-interventions](../topics/community-well-being-via-artistic-interventions.md)
-- [community-well-being-via-artistic-interventions](../topics/community-well-being-via-artistic-interventions.md)
+- [community-wellbeing-through-arts-engagement](../topics/community-wellbeing-through-arts-engagement.md)
+- [community-wellbeing-through-arts-engagement](../topics/community-wellbeing-through-arts-engagement.md)
 
 ## Tags
 
@@ -42,5 +42,6 @@ The white paper 'Arts, Health, and Well-Being in America,' commissioned by the N
 ## See Also
 
 - [arts-in-health](../topics/arts-in-health.md)
+- [community-wellbeing-through-arts-engagement](../topics/community-wellbeing-through-arts-engagement.md)
 - [public-health-strategies](../topics/public-health-strategies.md)
 - [well-being-initiatives](../topics/well-being-initiatives.md)

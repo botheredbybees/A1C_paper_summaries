@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: tailored-activities
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Tailored Activities

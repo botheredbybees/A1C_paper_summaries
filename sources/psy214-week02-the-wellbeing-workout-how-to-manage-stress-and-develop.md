@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "The Wellbeing Workout: How to Manage Stress and Develop Resilience"
-apa7: "Hughes, R., Kinder, A., & Cooper, C. L. (2019). The wellbeing workout: How to manage stress and develop resilience. Springer International Publishing AG."
-doi: https://doi.org/10.1007/978-3-319-92552-3
+apa7: "Williams, N. (2020). The Wellbeing Workout: How to Manage Stress and Develop Resilience. https://doi.org/10.1093/occmed/kqz113"
+doi: https://doi.org/10.1093/occmed/kqz113
 appearances:
   - unit: PSY214
     week: "02"

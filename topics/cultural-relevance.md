@@ -3,12 +3,14 @@ confidence: low
 domain: intervention
 slug: cultural-relevance-in-therapeutic-practices
 sources:
-- fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
+  - fxa100-week03-introduction-to-week-3-listening-to-music-in-dementia-care
+  - fxa100-week12-playfully-engaging-people-living-with-dementia-searching
+  - fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
 tags:
 - cultural-relevance
 title: Cultural Relevance in Therapeutic Practices
 type: topic
-updated: 2026-05-04
+updated: 2026-08-07
 ---
 
 ## Cultural Relevance in Therapeutic Practices
@@ -27,4 +29,6 @@ The concept of cultural relevance emerges as a critical factor in therapeutic pr
 
 ## Sources
 
+- [fxa100-week03-introduction-to-week-3-listening-to-music-in-dementia-care](../sources/fxa100-week03-introduction-to-week-3-listening-to-music-in-dementia-care.md)
+- [fxa100-week12-playfully-engaging-people-living-with-dementia-searching](../sources/fxa100-week12-playfully-engaging-people-living-with-dementia-searching.md)
 - [fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns](../sources/fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns.md)

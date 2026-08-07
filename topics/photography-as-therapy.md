@@ -4,13 +4,14 @@ domain: intervention
 slug: photography-as-therapy
 sources:
   - fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay
+  - fxa202-week03-a-healing-journey
   - fxa202-week03-can-photography-help-depression
   - fxa202-week09-the-largs-pier-a-visual-story-of-grief-and-healing
 tags:
 - photography-as-therapy
 title: Photography as Therapy
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Photography as Therapy
@@ -30,5 +31,6 @@ The integration of photographic practices into therapeutic settings highlights t
 ## Sources
 
 - [fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay](../sources/fxa202-week01-critical-reflection-on-28-solomon-street-a-photo-essay.md)
+- [fxa202-week03-a-healing-journey](../sources/fxa202-week03-a-healing-journey.md)
 - [fxa202-week03-can-photography-help-depression](../sources/fxa202-week03-can-photography-help-depression.md)
 - [fxa202-week09-the-largs-pier-a-visual-story-of-grief-and-healing](../sources/fxa202-week09-the-largs-pier-a-visual-story-of-grief-and-healing.md)

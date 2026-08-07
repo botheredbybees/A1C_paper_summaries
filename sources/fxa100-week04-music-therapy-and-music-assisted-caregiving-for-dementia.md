@@ -11,7 +11,7 @@ tags: ["music-therapy", "dementia-care", "patient-outcomes", "cost-benefit-analy
 key_concepts: ["music therapy", "agitation reduction", "brain plasticity"]
 methods: ["program evaluation"]
 slug: fxa100-week04-music-therapy-and-music-assisted-caregiving-for-dementia
-related: ["dementia-care", "music-therapy", "patient-outcomes", "quality-of-life"]
+related: ["cost-benefit-analysis", "dementia-care", "music-therapy", "patient-outcomes", "quality-of-life"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,6 +43,7 @@ The MJHHS Dementia Care project details a three-year initiative funded by New Yo
 
 ## See Also
 
+- [cost-benefit-analysis](../topics/cost-benefit-analysis.md)
 - [dementia-care](../topics/dementia-care.md)
 - [music-therapy](../topics/music-therapy.md)
 - [patient-outcomes](../topics/patient-outcomes.md)

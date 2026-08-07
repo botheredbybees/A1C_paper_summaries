@@ -11,7 +11,7 @@ tags: ["auditory-motor-connectivity", "brain-connectivity-improvement", "fxa301"
 key_concepts: ["auditory-motor-connectivity", "randomized-controlled-trial", "autism-spectrum-disorder"]
 methods: ["randomized controlled trial", "resting-state functional magnetic resonance imaging"]
 slug: fxa301-week11-music-improves-social-communication-and-auditorymotor
-related: []
+related: ["social-skills-development"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -41,4 +41,4 @@ This study, conducted as a randomized controlled trial (RCT), evaluates the impa
 
 ## See Also
 
-*(none yet)*
+- [social-skills-development](../topics/social-skills-development.md)

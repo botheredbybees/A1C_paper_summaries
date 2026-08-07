@@ -11,7 +11,7 @@ tags: ["therapeutic-clowns", "elder-care", "nursing-homes", "quality-of-life", "
 key_concepts: ["creative engagement", "cultural relevance", "emotional support"]
 methods: ["qualitative interviews"]
 slug: fxa303-week08-i-made-you-a-small-room-in-my-heart-how-therapeutic-clowns
-related: ["elder-care", "emotional-support", "nursing-homes", "quality-of-life", "therapeutic-clowns"]
+related: ["elder-care", "emotional-support", "nursing-homes", "quality-of-life", "therapeutic-clowning"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -47,4 +47,4 @@ This study explores how therapeutic clowns, often referred to as elder-clowns in
 - [emotional-support](../topics/emotional-support.md)
 - [nursing-homes](../topics/nursing-homes.md)
 - [quality-of-life](../topics/quality-of-life.md)
-- [therapeutic-clowns](../topics/therapeutic-clowns.md)
+- [therapeutic-clowning](../topics/therapeutic-clowning.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: categorical-diagnosis
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Categorical Diagnosis

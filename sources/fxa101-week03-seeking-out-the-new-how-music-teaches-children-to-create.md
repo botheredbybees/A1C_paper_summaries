@@ -11,7 +11,7 @@ tags: ["music-education", "child-development", "creativity-innovation", "psychol
 key_concepts: ["pattern-recognition", "rule-breaking", "openness-and-conscientiousness"]
 methods: ["case-study"]
 slug: fxa101-week03-seeking-out-the-new-how-music-teaches-children-to-create
-related: ["child-development", "music-education", "pattern-recognition"]
+related: ["child-development", "creativity-innovation", "music-education", "pattern-recognition"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -45,5 +45,6 @@ The chapter 'Seeking Out the New' by Anita Collins explores how music education 
 ## See Also
 
 - [child-development](../topics/child-development.md)
+- [creativity-innovation](../topics/creativity-innovation.md)
 - [music-education](../topics/music-education.md)
 - [pattern-recognition](../topics/pattern-recognition.md)

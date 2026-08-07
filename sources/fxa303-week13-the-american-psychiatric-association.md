@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "The American Psychiatric Association"
-apa7: "Riba, M. B., Sharfstein, S. S., & Tasman, A. (2018). The American Psychiatric Association. International Psychiatry, 2(9). https://doi.org/10.1192/S147673571800001X"
-doi: https://doi.org/10.1192/S147673571800001X
+apa7: "Riba, M., Sharfstein, S., & Tasman, A. (2005). The American Psychiatric Association. *International Psychiatry*. https://doi.org/10.1192/S1749367600007360"
+doi: https://doi.org/10.1192/S1749367600007360
 appearances:
   - unit: FXA303
     week: "13"

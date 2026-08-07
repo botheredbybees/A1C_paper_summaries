@@ -7,11 +7,11 @@ doi: null
 appearances:
   - unit: FXA100
     week: "03"
-tags: ["alzheimers-disease", "brain-activation", "music-intervention", "neural-networks", "personalized-treatment", "dementia-management", "fxa100"]
+tags: ["alzheimers-disease", "brain-activation", "dementia-management", "fxa100", "music-intervention", "neural-networks", "personalized-music-intervention", "personalized-treatment"]
 key_concepts: ["salience network", "functional MRI", "personalized music intervention"]
 methods: ["functional MRI"]
 slug: fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers
-related: ["alzheimers-disease", "dementia-management", "music-intervention", "neural-networks", "personalized-treatment"]
+related: ["alzheimers-disease", "dementia-management", "music-intervention", "music-therapy-in-dementia-care", "neural-networks", "personalized-treatment"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -26,7 +26,7 @@ The study conducted at the University of Utah Health explores how music can acti
 
 - [salience network](../topics/salience-network.md)
 - [functional MRI](../topics/functional-mri.md)
-- [personalized music intervention](../topics/personalized-music-intervention.md)
+- [personalized music intervention](../topics/music-therapy-in-dementia-care.md)
 
 ## Tags
 
@@ -47,5 +47,6 @@ The study conducted at the University of Utah Health explores how music can acti
 - [alzheimers-disease](../topics/alzheimers-disease.md)
 - [dementia-management](../topics/dementia-management.md)
 - [music-intervention](../topics/music-intervention.md)
+- [music-therapy-in-dementia-care](../topics/music-therapy-in-dementia-care.md)
 - [neural-networks](../topics/neural-networks.md)
 - [personalized-treatment](../topics/personalized-treatment.md)

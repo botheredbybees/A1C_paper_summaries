@@ -3,12 +3,14 @@ confidence: low
 domain: theory
 slug: musical-preferences
 sources:
-- fxa100-week03-transcript-the-effects-of-music-on-the-brain
+  - fxa100-week03-transcript-the-effects-of-music-on-the-brain
+  - fxa300-week05-the-effects-of-different-amounts-and-types-of-music
+  - fxa301-week02-misery-loves-company-mood-congruent-emotional-responding-to
 tags:
 - musical-preference
 title: Musical Preferences
 type: topic
-updated: 2026-05-04
+updated: 2026-08-03
 ---
 
 ## Musical Preferences
@@ -28,3 +30,5 @@ The study of musical preferences delves into how music affects the brain and inf
 ## Sources
 
 - [fxa100-week03-transcript-the-effects-of-music-on-the-brain](../sources/fxa100-week03-transcript-the-effects-of-music-on-the-brain.md)
+- [fxa300-week05-the-effects-of-different-amounts-and-types-of-music](../sources/fxa300-week05-the-effects-of-different-amounts-and-types-of-music.md)
+- [fxa301-week02-misery-loves-company-mood-congruent-emotional-responding-to](../sources/fxa301-week02-misery-loves-company-mood-congruent-emotional-responding-to.md)

@@ -7,13 +7,15 @@ doi: https://doi.org/10.1093/oso/9780198792079.003.0023
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["arts-health", "cultural-engagement", "fxa301", "health-promotion-strategies", "interdisciplinary-research", "public-health-outcomes", "wellbeing-initiatives"]
+  - unit: FXA100
+    week: "04"
+tags: ["arts-health", "cultural-engagement", "fxa301", "health-promotion-strategies", "interdisciplinary-research", "public-health-outcomes", "wellbeing-initiatives", "fxa100"]
 key_concepts: ["cultural-participation", "health-promotion-strategies"]
 methods: ["literature-review"]
 slug: fxa301-week01-arts-in-health-designing-and-researching-interventions
 related: ["arts-health", "cultural-engagement", "health-promotion-strategies", "interdisciplinary-research", "wellbeing-initiatives"]
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-week01-arts-in-health-designing-and-researching-interventions.md_

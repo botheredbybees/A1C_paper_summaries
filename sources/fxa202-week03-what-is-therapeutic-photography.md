@@ -11,7 +11,7 @@ tags: ["therapeutic-photography", "mental-health-interventions", "self-efficacy-
 key_concepts: ["therapeutic photography", "self-esteem enhancement", "resilience building"]
 methods: ["literature review"]
 slug: fxa202-week03-what-is-therapeutic-photography
-related: ["communication-skills", "mental-health-interventions", "therapeutic-photography"]
+related: ["communication-skills", "mental-health-interventions", "self-efficacy-building", "therapeutic-photography"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,4 +46,5 @@ Chapter 1 of 'Therapeutic Photography: Enhancing Self-Esteem, Self-Efficacy and 
 
 - [communication-skills](../topics/communication-skills.md)
 - [mental-health-interventions](../topics/mental-health-interventions.md)
+- [self-efficacy-building](../topics/self-efficacy-building.md)
 - [therapeutic-photography](../topics/therapeutic-photography.md)

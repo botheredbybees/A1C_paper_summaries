@@ -11,7 +11,7 @@ tags: ["creative-health", "wellbeing-through-art", "social-determinants-of-healt
 key_concepts: ["creative health", "holistic view of health", "equitable access to healthcare"]
 methods: ["systematic review"]
 slug: fxa301-week03-introduction-to-creative-health-extract
-related: ["community-wellbeing", "creative-health", "social-determinants-of-health", "wellbeing-through-art"]
+related: ["community-wellbeing", "creative-health", "health-equality", "social-determinants-of-health", "wellbeing-through-art"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -49,5 +49,6 @@ The document argues that creative health must be available to everyone without r
 
 - [community-wellbeing](../topics/community-wellbeing.md)
 - [creative-health](../topics/creative-health.md)
+- [health-equality](../topics/health-equality.md)
 - [social-determinants-of-health](../topics/social-determinants-of-health.md)
 - [wellbeing-through-art](../topics/wellbeing-through-art.md)

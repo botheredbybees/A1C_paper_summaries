@@ -7,13 +7,15 @@ doi: https://doi.org/10.1007/s00431-016-2764-0
 appearances:
   - unit: FXA303
     week: "13"
+  - unit: FXA303
+    week: "08"
 tags: ["therapeutic-clowns", "pediatric-care", "medical-anxiety", "creative-arts-health", "systematic-review", "fxa303"]
 key_concepts: ["clown-therapy", "anxiety-reduction", "randomized-controlled-trials"]
 methods: ["systematic-review", "meta-analysis"]
 slug: fxa303-week13-therapeutic-clowns-in-pediatrics-a-systematic-review-and
-related: ["creative-arts-health", "pediatric-care", "systematic-review", "therapeutic-clowns"]
+related: ["creative-arts-health", "pediatric-care", "systematic-review", "therapeutic-clowning"]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week13-therapeutic-clowns-in-pediatrics-a-systematic-review-and.md_
@@ -51,4 +53,4 @@ The findings are relevant to creative arts and health by demonstrating the thera
 - [creative-arts-health](../topics/creative-arts-health.md)
 - [pediatric-care](../topics/pediatric-care.md)
 - [systematic-review](../topics/systematic-review.md)
-- [therapeutic-clowns](../topics/therapeutic-clowns.md)
+- [therapeutic-clowning](../topics/therapeutic-clowning.md)

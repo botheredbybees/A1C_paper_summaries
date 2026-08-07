@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: generative-artificial-intelligence
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Generative Artificial Intelligence

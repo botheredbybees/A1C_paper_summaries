@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: depression-treatment
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Depression Treatment
@@ -10,6 +10,7 @@ updated: 2026-07-28
 - [The Day the Music Died](../sources/fxa100-week04-the-day-the-music-died.md)
 - [Dance therapy as an intervention for stress and depression: a systematic review and meta-analysis](../sources/fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression.md)
 - [Can Photography Help Depression?](../sources/fxa202-week03-can-photography-help-depression.md)
+- [Can Photography Help Depression?](../sources/fxa202-week03-can-photography-help-depression-%282%29.md)
 - [Arts on Prescription in Sefton: Programme Report](../sources/fxa301-week01-arts-on-prescription-in-sefton-programme-report.md)
 - [A meta-analysis of randomized controlled trials of laughter and humour interventions on depression, anxiety and sleep quality in adults](../sources/fxa303-week13-a-meta-analysis-of-randomized-controlled-trials-of-laughter.md)
 - [The effect of humor on elder mental and physical health](../sources/fxa303-week13-the-effect-of-humor-on-elder-mental-and-physical-health.md)

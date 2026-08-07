@@ -7,13 +7,15 @@ doi: https://doi.org/10.1186/s12916-023-03226-6
 appearances:
   - unit: FXA303
     week: "11"
+  - unit: FXA303
+    week: "03"
 tags: ["youth-mental-health", "arts-interventions", "global-health", "cultural-practices", "community-engagement", "fxa303"]
 key_concepts: ["arts-based-strategies", "local-cultural-practices", "core-outcome-measures"]
 methods: ["systematic-review"]
 slug: fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a
-related: ["arts-interventions", "community-engagement", "cultural-practices", "global-health", "youth-mental-health"]
+related: ["arts-based-strategies-for-youth-mental-health", "arts-interventions", "community-engagement", "cultural-practices", "youth-mental-health"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a.md_
@@ -43,8 +45,8 @@ This article discusses the growing global crisis of youth mental health, emphasi
 
 ## See Also
 
+- [arts-based-strategies-for-youth-mental-health](../topics/arts-based-strategies-for-youth-mental-health.md)
 - [arts-interventions](../topics/arts-interventions.md)
 - [community-engagement](../topics/community-engagement.md)
 - [cultural-practices](../topics/cultural-practices.md)
-- [global-health](../topics/global-health.md)
 - [youth-mental-health](../topics/youth-mental-health.md)

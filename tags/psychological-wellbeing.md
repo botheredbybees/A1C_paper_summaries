@@ -1,11 +1,12 @@
 ---
 type: tag
 tag: psychological-wellbeing
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Psychological Wellbeing
 
+- [Everyday Creativity in Daily Life: An Experience-Sampling Study of \u201cLittle c\u201d Creativity](../sources/fxa101-week02-everyday-creativity-in-daily-life-an-experience-sampling.md)
 - [A Study of the Experience of Working Adults on Regular Choral Activities: Applying Focus Groups](../sources/fxa301-week06-a-study-of-the-experience-of-working-adults-on-regular.md)
 - [Fine arts participation, self-determination, and locus of control among persons with developmental disabilities](../sources/fxa301-week11-fine-arts-participation-self-determination-and-locus-of.md)
 - [The Laughter Prescription: A Tool for Lifestyle Medicine](../sources/fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine.md)

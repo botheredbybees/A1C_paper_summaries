@@ -11,7 +11,7 @@ tags: ["neuroplasticity", "brain-function", "musical-training", "cognitive-skill
 key_concepts: ["Broca's area", "three-dimensional mental rotation task", "neural activation"]
 methods: ["functional MRI"]
 slug: fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in
-related: ["brain-function", "brocas-area", "cognitive-skills", "music-neuroscience", "musical-training", "neuroplasticity"]
+related: ["brain-function", "brocas-area", "cognitive-skills", "music-and-brain", "musical-training", "neuroplasticity"]
 created: 2026-07-21
 updated: 2026-07-21
 ---
@@ -47,6 +47,6 @@ This study explores the enhanced visuospatial cognitive abilities of professiona
 - [brain-function](../topics/brain-function.md)
 - [brocas-area](../topics/brocas-area.md)
 - [cognitive-skills](../topics/cognitive-skills.md)
-- [music-neuroscience](../topics/music-neuroscience.md)
+- [music-and-brain](../topics/music-and-brain.md)
 - [musical-training](../topics/musical-training.md)
 - [neuroplasticity](../topics/neuroplasticity.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: autism-spectrum-disorder
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Autism Spectrum Disorder
@@ -20,6 +20,7 @@ updated: 2026-07-28
 - [Evidence against the \u201cnormalization\u201d prediction of the early brain overgrowth hypothesis of autism](../sources/fxa303-week04-evidence-against-the-normalization-prediction-of-the-early.md)
 - [FXA303 Week 4 Introduction](../sources/fxa303-week04-fxa303-week-4-introduction.md)
 - [Intensive Child-Centered Play Therapy for Children on the Autism Spectrum: A Pilot Study](../sources/fxa303-week04-intensive-child-centered-play-therapy-for-children-on-the.md)
+- [Neurodiversity and Autism Spectrum in Childhood](../sources/fxa303-week04-lesson-fxa303-week04-page-2-neurodiversity-and-the-brain.md)
 - [Missed Early Intervention Opportunities for Children With Autism Spectrum Disorder](../sources/fxa303-week04-missed-early-intervention-opportunities-for-children-with.md)
 - [Music Therapy for Children With Autistic Spectrum Disorder and/or Other Neurodevelopmental Disorders: A Systematic Review](../sources/fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder.md)
 - [Neurodiversity and the Autism Spectrum](../sources/fxa303-week04-neurodiversity-and-the-autism-spectrum.md)

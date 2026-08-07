@@ -6,22 +6,22 @@ confidence: medium
 tags: ["marionette-performance"]
 sources:
   - fxa303-week05-puppets-and-self-care-for-task-2
-updated: 2026-05-16
+updated: 2026-08-07
 ---
 
 ## Marionette Performance
 
-The use of marionettes in performance offers a unique form of self-expression and storytelling. Sources emphasize the therapeutic potential of puppetry, particularly through shadow theatre and marionette performance techniques. The integration of marionettes provides a medium for individuals to explore complex emotions, engage in imaginative play, and develop coping strategies. While there is acknowledgment of the therapeutic benefits, each source highlights distinct aspects such as emotional exploration, creative expression, and narrative therapy.
+The integration of marionettes and puppetry into performance arts serves multiple purposes, including therapeutic benefits and self-expression. Sources highlight the use of marionettes as a tool for emotional exploration and storytelling, particularly in therapeutic contexts like shadow theatre. Marionette performances can also act as a method to engage with audiences on complex issues through indirect means of communication. However, there are varying degrees of application and interpretation across different cultural contexts, impacting their efficacy.
 
 ## Key Findings
 
-- Marionette performance can serve as an effective tool for self-expression and emotional processing.
-- The use of shadow theatre in puppetry offers a symbolic representation of psychological states.
-- Puppetry techniques provide therapeutic benefits through imaginative play and storytelling.
+- Marionettes and puppetry have significant therapeutic potential in emotional exploration and self-expression
+- Shadow theatre utilizes marionette performances to address psychological themes indirectly
+- The use of marionettes varies widely in practice across different cultures
 
 ## Open Questions
 
-- What specific mental health conditions benefit most from marionette performance therapy?
+- How does the cultural context influence the efficacy and interpretation of marionette therapy?
 
 ## Sources
 

@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Psychometric Properties of the Beck Depression Inventory: Twenty-Five Years of Evaluation"
-apa7: "Beck, A. T., Steer, R. A., & Garbin, M. C. (1988). Psychometric properties of the Beck Depression Inventory: Twenty-five years of evaluation. Clinical Psychology Review, 8(1), 77-100. https://doi.org/10.1016/S0272-7358(88)80007-X"
-doi: https://doi.org/10.1016/S0272-7358(88)80007-X
+apa7: "Beck, A. T., Steer, R. A., & Carbin, M. G. (1988). Psychometric properties of the Beck Depression Inventory: Twenty-five years of evaluation. Clinical Psychology Review, 8(1), 77-100. https://doi.org/10.1016/0272-7358(88)90050-5"
+doi: https://doi.org/10.1016/0272-7358(88)90050-5
 appearances:
   - unit: FXA100
     week: "13"
@@ -13,7 +13,7 @@ methods: ["systematic review"]
 slug: fxa100-week13-psychometric-properties-of-the-beck-depression-inventory
 related: ["beck-depression-inventory", "clinical-psychology", "internal-consistency", "mental-health-measurement", "psychometric-properties"]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-08-02
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-week13-psychometric-properties-of-the-beck-depression-inventory.md_

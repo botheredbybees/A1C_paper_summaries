@@ -3,10 +3,14 @@ confidence: high
 domain: intervention
 slug: creative-health
 sources:
+  - fxa301-week03-creative-health-review
   - fxa301-week03-creative-health-review-report
+  - fxa301-week03-executive-summary-and-recommendations-why-creative-health
   - fxa301-week03-executive-summary-creative-health-review
   - fxa301-week03-health-inequalities-and-the-role-of-creative-health
   - fxa301-week03-implementing-creative-health
+  - fxa301-week03-implementing-creative-health-(2)
+  - fxa301-week03-introduction-to-creative-health
   - fxa301-week03-introduction-to-creative-health-extract
   - fxa301-week03-statement-on-lived-experience
   - fxa301-week03-web-article-national-2024
@@ -14,7 +18,7 @@ tags:
 - creative-health
 title: Creative Health
 type: topic
-updated: 2026-05-16
+updated: 2026-08-07
 ---
 
 ## Creative Health
@@ -33,10 +37,14 @@ The concept of creative health is emerging as a transformative approach to healt
 
 ## Sources
 
+- [fxa301-week03-creative-health-review](../sources/fxa301-week03-creative-health-review.md)
 - [fxa301-week03-creative-health-review-report](../sources/fxa301-week03-creative-health-review-report.md)
+- [fxa301-week03-executive-summary-and-recommendations-why-creative-health](../sources/fxa301-week03-executive-summary-and-recommendations-why-creative-health.md)
 - [fxa301-week03-executive-summary-creative-health-review](../sources/fxa301-week03-executive-summary-creative-health-review.md)
 - [fxa301-week03-health-inequalities-and-the-role-of-creative-health](../sources/fxa301-week03-health-inequalities-and-the-role-of-creative-health.md)
 - [fxa301-week03-implementing-creative-health](../sources/fxa301-week03-implementing-creative-health.md)
+- [fxa301-week03-implementing-creative-health-(2)](../sources/fxa301-week03-implementing-creative-health-%282%29.md)
+- [fxa301-week03-introduction-to-creative-health](../sources/fxa301-week03-introduction-to-creative-health.md)
 - [fxa301-week03-introduction-to-creative-health-extract](../sources/fxa301-week03-introduction-to-creative-health-extract.md)
 - [fxa301-week03-statement-on-lived-experience](../sources/fxa301-week03-statement-on-lived-experience.md)
 - [fxa301-week03-web-article-national-2024](../sources/fxa301-week03-web-article-national-2024.md)

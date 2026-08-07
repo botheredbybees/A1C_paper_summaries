@@ -5,9 +5,10 @@ title: "Resilience Development in Youth"
 confidence: medium
 tags: ["resilience-development"]
 sources:
+  - fxa202-week03-what-is-therapeutic-photography-(2)
   - fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and
   - psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop
-updated: 2026-07-13
+updated: 2026-08-07
 ---
 
 ## Resilience Development in Youth
@@ -26,5 +27,6 @@ Both sources discuss strategies for enhancing resilience and mental well-being a
 
 ## Sources
 
+- [fxa202-week03-what-is-therapeutic-photography-(2)](../sources/fxa202-week03-what-is-therapeutic-photography-%282%29.md)
 - [fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and](../sources/fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and.md)
 - [psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop](../sources/psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop.md)

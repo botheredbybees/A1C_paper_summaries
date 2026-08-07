@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: tend-and-befriend-response
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Tend And Befriend Response

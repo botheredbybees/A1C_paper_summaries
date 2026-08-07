@@ -11,7 +11,7 @@ tags: ["arts-therapy-research", "care-home-interventions", "emotional-response-m
 key_concepts: ["resident mood assessment", "structured observation", "informal music-making activities"]
 methods: ["observation scale"]
 slug: fxa301-week01-appendix-1-arts-observation-scale-and-manual
-related: []
+related: ["resident-wellbeing"]
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -41,4 +41,4 @@ The document contains an observation scale and manual for assessing the impact o
 
 ## See Also
 
-*(none yet)*
+- [resident-wellbeing](../topics/resident-wellbeing.md)

@@ -3,13 +3,15 @@ confidence: medium
 domain: intervention
 slug: therapeutic-outcomes-of-arts-therapies-for-eating-disorders
 sources:
-- fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the
-- fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the-(2)
+  - fxa100-week04-music-therapy-disability-evidence-summary-2024
+  - fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the
+  - fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the-(2)
+  - fxa303-week02-the-playful-mediator-moderator-or-outcome-an-integrative
 tags:
 - therapeutic-outcomes
 title: Therapeutic Outcomes of Arts Therapies for Eating Disorders
 type: topic
-updated: 2026-05-04
+updated: 2026-08-07
 ---
 
 ## Therapeutic Outcomes of Arts Therapies for Eating Disorders
@@ -28,5 +30,7 @@ This synthesis focuses on the efficacy and outcomes of arts therapies in treatin
 
 ## Sources
 
+- [fxa100-week04-music-therapy-disability-evidence-summary-2024](../sources/fxa100-week04-music-therapy-disability-evidence-summary-2024.md)
 - [fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the](../sources/fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the.md)
 - [fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the-(2)](../sources/fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the-%282%29.md)
+- [fxa303-week02-the-playful-mediator-moderator-or-outcome-an-integrative](../sources/fxa303-week02-the-playful-mediator-moderator-or-outcome-an-integrative.md)

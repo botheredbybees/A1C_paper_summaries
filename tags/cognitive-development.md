@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-development
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Cognitive Development
@@ -16,4 +16,5 @@ updated: 2026-07-28
 - [Visual Thinking Strategy](../sources/fxa302-week03-visual-thinking-strategy.md)
 - [Developmental Role of Creative Arts and Play](../sources/fxa303-week02-developmental-role-of-creative-arts-and-play.md)
 - [Theories of Development: In Dialog with Jean Piaget](../sources/fxa303-week02-theories-of-development-in-dialog-with-jean-piaget.md)
+- [Web Lecture 2, Week 2](../sources/fxa303-week02-web-lecture-2-week-2.md)
 - [Developmental Psychology: From Infancy to Adulthood](../sources/fxa303-week03-developmental-psychology-from-infancy-to-adulthood.md)

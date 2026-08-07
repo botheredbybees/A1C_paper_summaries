@@ -11,7 +11,7 @@ tags: ["arts-and-health", "arts-and-health-themes", "fxa202", "photo-essay-plann
 key_concepts: ["Arts and Health theme", "Critical Reflection in Photo Essays"]
 methods: []
 slug: fxa202-week01-lesson-fxa202-week01-chapter-4-inspiration
-related: ["arts-and-health"]
+related: ["arts-and-health", "storytelling-through-images"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,3 +40,4 @@ This lesson focuses on the theme of 'Arts and Health' for creating a photo essay
 ## See Also
 
 - [arts-and-health](../topics/arts-and-health.md)
+- [storytelling-through-images](../topics/storytelling-through-images.md)

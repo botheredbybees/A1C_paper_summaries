@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Hildegard of Bingen and the Greening of Medieval Medicine"
-apa7: "Sweet, V. (1999). Hildegard of bingen and the greening of medieval medicine. Bulletin of the History of Medicine, 73(3), 381-408. https://doi.org/10.1353/bhm.2003.0156"
-doi: https://doi.org/10.1353/bhm.2003.0156
+apa7: "Sweet, V. (1999). Hildegard of Bingen and the Greening of Medieval Medicine. *Bulletin of The History of Medicine*. https://doi.org/10.1353/BHM.1999.0140"
+doi: https://doi.org/10.1353/BHM.1999.0140
 appearances:
   - unit: FXA302
     week: "04"

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuroscience
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Neuroscience
@@ -15,7 +15,9 @@ updated: 2026-07-28
 - [Increased engagement of the cognitive control network associated with music training in children during an fMRI Stroop task](../sources/fxa101-week03-increased-engagement-of-the-cognitive-control-network.md)
 - [What We Know Currently about Mirror Neurons](../sources/fxa300-week01-what-we-know-currently-about-mirror-neurons.md)
 - [This Is Your Brain On Music: Understanding a Human Obsession](../sources/fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession.md)
+- [What is Damasio's E\u2013F\u2013C framework, and what three stages of emotional experience does it describe?](../sources/fxa300-week02-what-is-damasios-efc-framework-and-what-three-stages-of.md)
 - [Two-Minute Neuroscience: Reward System](../sources/fxa301-week01-transcript-two-minute-neuroscience-reward-system.md)
 - [Week 2 Introduction to FXA301 Arts in the Community](../sources/fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community.md)
 - [Welcome to Week 6 - FXA301 Arts in the Community](../sources/fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community.md)
 - [Child Development: The Critical First 1000 Days](../sources/fxa303-week02-lesson-fxa303-week02-introduction.md)
+- [Understanding Sleep: From Dreams to REM](../sources/psy214-week05-transcript-to-sleep-perchance-to-dream.md)

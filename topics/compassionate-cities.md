@@ -6,22 +6,22 @@ confidence: medium
 tags: ["compassionate-cities"]
 sources:
   - fxa100-excellence-in-dementia-care--ch33-1-place-covers-the-person
-updated: 2026-05-16
+updated: 2026-08-07
 ---
 
 ## Compassionate Cities
 
-The concept of compassionate cities emerges as a framework aimed at fostering inclusive urban environments that prioritize the well-being and quality of life for all residents. Drawing from principles such as Healthy Cities, which focuses on promoting health across various social determinants, this theory extends to include the Social Model of Disability, emphasizing accessibility and inclusivity especially in contexts like dementia-friendly communities. Sources highlight how these frameworks are intertwined, suggesting that a compassionate city is one that actively supports and enhances the lives of individuals regardless of their age or condition.
+The concept of compassionate cities is rooted in the broader frameworks of healthy and dementia-friendly communities. These ideas emphasize the importance of inclusive policies and practices that support individuals with disabilities, particularly those living with dementia. The social model of disability is a core component, advocating for changes in societal attitudes and environments to remove barriers and promote full participation. This model contrasts sharply with medical models, which focus on individual deficits rather than systemic issues. Across sources, there's agreement on the necessity of creating supportive urban environments that enhance quality of life for vulnerable populations but also highlight gaps in current policy implementation and public understanding.
 
 ## Key Findings
 
-- Compassionate cities aim to foster an inclusive urban environment for all residents
-- The Social Model of Disability informs policy-making in creating dementia-friendly communities
-- Healthy Cities principles are foundational but expanded upon by compassionate city models
+- Compassionate cities emphasize inclusive policies to support individuals with disabilities.
+- The social model of disability is pivotal in shaping compassionate city initiatives.
+- Creating dementia-friendly communities is an integral part of developing more compassionate cities.
 
 ## Open Questions
 
-- How can the concept of compassionate cities be effectively implemented and measured across different urban contexts?
+- How can existing urban infrastructures be adapted most effectively to embody the principles of compassionate cities?
 
 ## Sources
 

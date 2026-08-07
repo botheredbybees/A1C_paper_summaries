@@ -15,6 +15,7 @@ sources:
   - fxa101-week02-rejuvenation-the-discovery-of-the-neuronal-stem-cell-and
   - fxa101-week03-lesson-fxa101-week03-page-1-week-3-introduction
   - fxa101-week03-training-creative-cognition-adolescence-as-a-flexible
+  - fxa101-week04-cognitive-reserve-and-brain-changes-in-ageing
   - fxa101-week04-enrichment-effects-on-adult-cognitive-development-can-the
   - fxa101-week04-lesson-fxa101-week04-page-1-introduction-to-week-4
   - fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in
@@ -25,7 +26,7 @@ tags:
 - neuroplasticity
 title: Neuroplasticity in Brain Rehabilitation
 type: topic
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Neuroplasticity in Brain Rehabilitation
@@ -56,6 +57,7 @@ The sources collectively highlight the potential of music therapy as a therapeut
 - [fxa101-week02-rejuvenation-the-discovery-of-the-neuronal-stem-cell-and](../sources/fxa101-week02-rejuvenation-the-discovery-of-the-neuronal-stem-cell-and.md)
 - [fxa101-week03-lesson-fxa101-week03-page-1-week-3-introduction](../sources/fxa101-week03-lesson-fxa101-week03-page-1-week-3-introduction.md)
 - [fxa101-week03-training-creative-cognition-adolescence-as-a-flexible](../sources/fxa101-week03-training-creative-cognition-adolescence-as-a-flexible.md)
+- [fxa101-week04-cognitive-reserve-and-brain-changes-in-ageing](../sources/fxa101-week04-cognitive-reserve-and-brain-changes-in-ageing.md)
 - [fxa101-week04-enrichment-effects-on-adult-cognitive-development-can-the](../sources/fxa101-week04-enrichment-effects-on-adult-cognitive-development-can-the.md)
 - [fxa101-week04-lesson-fxa101-week04-page-1-introduction-to-week-4](../sources/fxa101-week04-lesson-fxa101-week04-page-1-introduction-to-week-4.md)
 - [fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in](../sources/fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in.md)

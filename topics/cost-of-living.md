@@ -3,13 +3,14 @@ confidence: medium
 domain: population
 slug: youth-cost-of-living-concerns
 sources:
-- fxa303-week03-youth-survey-report-2024
-- fxa303-week03-youth-survey-report-2025
+  - fxa303-week02-youth-survey-report-2025
+  - fxa303-week03-youth-survey-report-2024
+  - fxa303-week03-youth-survey-report-2025
 tags:
 - cost-of-living
 title: Youth Cost-of-Living Concerns
 type: topic
-updated: 2026-05-04
+updated: 2026-08-07
 ---
 
 ## Youth Cost-of-Living Concerns
@@ -28,5 +29,6 @@ The Youth Survey Reports from 2024 and 2025 highlight consistent concerns among 
 
 ## Sources
 
+- [fxa303-week02-youth-survey-report-2025](../sources/fxa303-week02-youth-survey-report-2025.md)
 - [fxa303-week03-youth-survey-report-2024](../sources/fxa303-week03-youth-survey-report-2024.md)
 - [fxa303-week03-youth-survey-report-2025](../sources/fxa303-week03-youth-survey-report-2025.md)

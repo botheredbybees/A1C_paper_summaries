@@ -6,6 +6,7 @@ sources:
   - fxa202-the-handbook-of-phototherapy-ch02-12-the-earlier-stages
   - fxa202-the-handbook-of-phototherapy-ch03-chapter-2
   - fxa202-the-handbook-of-phototherapy-ch13-chapter-5
+  - fxa202-week03-phototherapy-and-therapeutic-photography-in-a-digital-age
   - fxa202-week13-inhabiting-the-image-photography-therapy-and-re-enactment
   - fxa202-week13-phototherapy-to-increase-self-compassion-in-college-students
   - fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2)
@@ -13,7 +14,7 @@ tags:
 - phototherapy
 title: Phototherapy and Therapeutic Photography
 type: topic
-updated: 2026-07-03
+updated: 2026-08-07
 ---
 
 ## Phototherapy and Therapeutic Photography
@@ -35,6 +36,7 @@ The concept of using photography as a therapeutic tool, known as Phototherapy or
 - [fxa202-the-handbook-of-phototherapy-ch02-12-the-earlier-stages](../sources/fxa202-the-handbook-of-phototherapy-ch02-12-the-earlier-stages.md)
 - [fxa202-the-handbook-of-phototherapy-ch03-chapter-2](../sources/fxa202-the-handbook-of-phototherapy-ch03-chapter-2.md)
 - [fxa202-the-handbook-of-phototherapy-ch13-chapter-5](../sources/fxa202-the-handbook-of-phototherapy-ch13-chapter-5.md)
+- [fxa202-week03-phototherapy-and-therapeutic-photography-in-a-digital-age](../sources/fxa202-week03-phototherapy-and-therapeutic-photography-in-a-digital-age.md)
 - [fxa202-week13-inhabiting-the-image-photography-therapy-and-re-enactment](../sources/fxa202-week13-inhabiting-the-image-photography-therapy-and-re-enactment.md)
 - [fxa202-week13-phototherapy-to-increase-self-compassion-in-college-students](../sources/fxa202-week13-phototherapy-to-increase-self-compassion-in-college-students.md)
 - [fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2)](../sources/fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-%282%29.md)

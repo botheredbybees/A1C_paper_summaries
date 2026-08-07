@@ -6,15 +6,20 @@ sources:
   - fxa100-week02-music-and-the-damaged-brain
   - fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind
   - fxa100-week04-what-is-singing-for-the-brain
+  - fxa100-week06-art-creativity-(2)
+  - fxa100-week10-the-participative-arts-for-people-living-with-dementia-a
   - fxa100-week12-the-power-of-music
   - fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas
   - fxa202-week09-expressive-writing-therapy-exercises-examples
   - fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a
   - fxa202-week13-therapeutic-benefits-and-limitations-of-participatory
+  - fxa300-week02-music-stimulates-muscles-mind-and-feelings-in-one-go
+  - fxa300-week05-music-helps-heal-mind-body-and-spirit
   - fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our
   - fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes
   - fxa301-week06-further-evidence-that-singing-fosters-mental-health-and
   - fxa301-week11-arts-and-refugees-multidisciplinary-perspectives-vol-2
+  - fxa302-week06-visual-art-and-transformation
   - fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact
   - fxa303-week11-lesson-fxa303-week11-overview
   - fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through
@@ -22,7 +27,7 @@ tags:
 - therapeutic-benefits
 title: Music Therapy
 type: topic
-updated: 2026-05-18
+updated: 2026-08-07
 ---
 
 ## Music Therapy
@@ -44,15 +49,20 @@ The documents collectively emphasize the profound therapeutic potential of music
 - [fxa100-week02-music-and-the-damaged-brain](../sources/fxa100-week02-music-and-the-damaged-brain.md)
 - [fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind](../sources/fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind.md)
 - [fxa100-week04-what-is-singing-for-the-brain](../sources/fxa100-week04-what-is-singing-for-the-brain.md)
+- [fxa100-week06-art-creativity-(2)](../sources/fxa100-week06-art-creativity-%282%29.md)
+- [fxa100-week10-the-participative-arts-for-people-living-with-dementia-a](../sources/fxa100-week10-the-participative-arts-for-people-living-with-dementia-a.md)
 - [fxa100-week12-the-power-of-music](../sources/fxa100-week12-the-power-of-music.md)
 - [fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas](../sources/fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas.md)
 - [fxa202-week09-expressive-writing-therapy-exercises-examples](../sources/fxa202-week09-expressive-writing-therapy-exercises-examples.md)
 - [fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a](../sources/fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a.md)
 - [fxa202-week13-therapeutic-benefits-and-limitations-of-participatory](../sources/fxa202-week13-therapeutic-benefits-and-limitations-of-participatory.md)
+- [fxa300-week02-music-stimulates-muscles-mind-and-feelings-in-one-go](../sources/fxa300-week02-music-stimulates-muscles-mind-and-feelings-in-one-go.md)
+- [fxa300-week05-music-helps-heal-mind-body-and-spirit](../sources/fxa300-week05-music-helps-heal-mind-body-and-spirit.md)
 - [fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our](../sources/fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our.md)
 - [fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes](../sources/fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes.md)
 - [fxa301-week06-further-evidence-that-singing-fosters-mental-health-and](../sources/fxa301-week06-further-evidence-that-singing-fosters-mental-health-and.md)
 - [fxa301-week11-arts-and-refugees-multidisciplinary-perspectives-vol-2](../sources/fxa301-week11-arts-and-refugees-multidisciplinary-perspectives-vol-2.md)
+- [fxa302-week06-visual-art-and-transformation](../sources/fxa302-week06-visual-art-and-transformation.md)
 - [fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact](../sources/fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact.md)
 - [fxa303-week11-lesson-fxa303-week11-overview](../sources/fxa303-week11-lesson-fxa303-week11-overview.md)
 - [fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through](../sources/fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through.md)

@@ -2,7 +2,7 @@
 type: source
 source_type: paper
 title: "Arts in Criminal Justice and Corrections: International Perspectives on Methods"
-apa7: "Gardner, A., & Caulfield, L. (Eds.). (2025). Arts in criminal justice and corrections: International perspectives on methods. Routledge."
+apa7: "Gardner, A., & Caulfield, L. (Eds.). (2024). Arts in criminal justice and corrections: International perspectives on methods. Routledge."
 doi: https://doi.org/10.4324/9781003401582
 appearances:
   - unit: FXA303
@@ -13,7 +13,7 @@ methods: ["systematic-review", "case-study"]
 slug: fxa303-week11-arts-in-criminal-justice-and-corrections-international
 related: ["creative-therapies", "cultural-context", "international-perspectives"]
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-08-02
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week11-arts-in-criminal-justice-and-corrections-international.md_

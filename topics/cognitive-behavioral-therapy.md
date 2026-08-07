@@ -8,6 +8,7 @@ sources:
   - fxa300-week01-stuck-song-syndrome-musical-obsessions-when-to-look-for-ocd
   - fxa301-week10-using-creative-arts-in-trauma-therapy-the-neuroscience-of
   - fxa301-week10-web-article-ramirez-2016
+  - fxa302-week05-why-is-there-no-cure-for-tinnitus
   - fxa303-puppet-assisted-play-therapy-ch02-1-we-must-encourage-children-to-use-their-imagination-and
   - fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the
   - fxa303-week01-trauma-aps
@@ -15,7 +16,7 @@ tags:
 - cognitive-behavioral-therapy
 title: Cognitive-Behavioral Therapy
 type: topic
-updated: 2026-07-13
+updated: 2026-08-03
 ---
 
 ## Cognitive-Behavioral Therapy
@@ -39,6 +40,7 @@ The integration of sources on cognitive-behavioral therapy (CBT) and its applica
 - [fxa300-week01-stuck-song-syndrome-musical-obsessions-when-to-look-for-ocd](../sources/fxa300-week01-stuck-song-syndrome-musical-obsessions-when-to-look-for-ocd.md)
 - [fxa301-week10-using-creative-arts-in-trauma-therapy-the-neuroscience-of](../sources/fxa301-week10-using-creative-arts-in-trauma-therapy-the-neuroscience-of.md)
 - [fxa301-week10-web-article-ramirez-2016](../sources/fxa301-week10-web-article-ramirez-2016.md)
+- [fxa302-week05-why-is-there-no-cure-for-tinnitus](../sources/fxa302-week05-why-is-there-no-cure-for-tinnitus.md)
 - [fxa303-puppet-assisted-play-therapy-ch02-1-we-must-encourage-children-to-use-their-imagination-and](../sources/fxa303-puppet-assisted-play-therapy-ch02-1-we-must-encourage-children-to-use-their-imagination-and.md)
 - [fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the](../sources/fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the.md)
 - [fxa303-week01-trauma-aps](../sources/fxa303-week01-trauma-aps.md)

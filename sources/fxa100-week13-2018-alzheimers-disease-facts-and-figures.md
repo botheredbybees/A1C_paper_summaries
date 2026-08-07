@@ -2,7 +2,7 @@
 type: source
 source_type: paper
 title: "2018 Alzheimer's disease facts and figures"
-apa7: "Alzheimer\u2019s Association. (2018). 2018 Alzheimer\u2019s disease facts and figures. *Alzheimer's & Dementia*, 14(3), 367-429. https://doi.org/10.1016/j.jalz.2018.02.001"
+apa7: "Unknown Author (2018). 2018 Alzheimer's disease facts and figures. https://doi.org/10.1016/j.jalz.2018.02.001"
 doi: https://doi.org/10.1016/j.jalz.2018.02.001
 appearances:
   - unit: FXA100

@@ -5,9 +5,10 @@ title: "Qualitative Study of Artistic Expression in Rehabilitation and Mental He
 confidence: medium
 tags: ["qualitative-study"]
 sources:
+  - fxa100-week07-the-role-of-reminiscence-in-arts-based-interventions-for
   - fxa301-week11-visual-art-in-physical-rehabilitation-experiences-of-people
   - fxa303-week02-lesson-fxa303-week02-topic-20-20activities-202-copy
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Qualitative Study of Artistic Expression in Rehabilitation and Mental Health
@@ -26,5 +27,6 @@ This qualitative synthesis examines the role of visual art as a therapeutic moda
 
 ## Sources
 
+- [fxa100-week07-the-role-of-reminiscence-in-arts-based-interventions-for](../sources/fxa100-week07-the-role-of-reminiscence-in-arts-based-interventions-for.md)
 - [fxa301-week11-visual-art-in-physical-rehabilitation-experiences-of-people](../sources/fxa301-week11-visual-art-in-physical-rehabilitation-experiences-of-people.md)
 - [fxa303-week02-lesson-fxa303-week02-topic-20-20activities-202-copy](../sources/fxa303-week02-lesson-fxa303-week02-topic-20-20activities-202-copy.md)

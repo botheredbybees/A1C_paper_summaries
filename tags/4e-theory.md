@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: 4e-theory
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## 4E Theory

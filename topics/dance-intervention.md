@@ -3,6 +3,7 @@ confidence: medium
 domain: intervention
 slug: dance-as-an-intervention
 sources:
+  - fxa300-week05-music-and-movement-for-health-an-arts-based-intervention-to
   - fxa301-week06-dance-4-your-life-exploring-the-health-and-well-being
   - fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older
   - fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait
@@ -10,7 +11,7 @@ tags:
 - dance-intervention
 title: Dance as an Intervention
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Dance as an Intervention
@@ -29,6 +30,7 @@ The studies reviewed highlight the versatile benefits of dance interventions acr
 
 ## Sources
 
+- [fxa300-week05-music-and-movement-for-health-an-arts-based-intervention-to](../sources/fxa300-week05-music-and-movement-for-health-an-arts-based-intervention-to.md)
 - [fxa301-week06-dance-4-your-life-exploring-the-health-and-well-being](../sources/fxa301-week06-dance-4-your-life-exploring-the-health-and-well-being.md)
 - [fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older](../sources/fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older.md)
 - [fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait](../sources/fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait.md)

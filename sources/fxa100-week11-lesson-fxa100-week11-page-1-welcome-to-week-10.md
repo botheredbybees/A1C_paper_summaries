@@ -11,7 +11,7 @@ tags: ["brain-stimulation", "cognitive-effects-of-dance", "dance-therapy", "deme
 key_concepts: ["non-verbal-communication", "fMRI-study-brown-et-al.", "cognitive-effects-of-dance"]
 methods: []
 slug: fxa100-week11-lesson-fxa100-week11-page-1-welcome-to-week-10
-related: ["brain-stimulation", "dance-therapy", "dementia-care", "movement-interventions"]
+related: ["brain-stimulation", "dance-therapy", "dementia-care", "movement-therapy"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -43,4 +43,4 @@ This lesson explores the benefits of dance and movement therapies for people wit
 - [brain-stimulation](../topics/brain-stimulation.md)
 - [dance-therapy](../topics/dance-therapy.md)
 - [dementia-care](../topics/dementia-care.md)
-- [movement-interventions](../topics/movement-interventions.md)
+- [movement-therapy](../topics/movement-therapy.md)

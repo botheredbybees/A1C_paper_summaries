@@ -11,7 +11,7 @@ tags: ["breathing-techniques", "vocal-performance", "music-educaion", "voice-hea
 key_concepts: ["diaphragmatic-breathing", "lung-capacity"]
 methods: ["tutorial"]
 slug: fxa100-week04-learn-to-sing-breathing
-related: []
+related: ["breathing-techniques"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,4 +45,4 @@ These breathing techniques are relevant to creative arts and health, especially 
 
 ## See Also
 
-*(none yet)*
+- [breathing-techniques](../topics/breathing-techniques.md)

@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Museums and Wellbeing: An Overview on Emerging Architectural and Museographic Trends"
-apa7: "Montanari, E. (2024). Museums and wellbeing: an overview on emerging architectural and museographic trends. Journal of Architecture and Civil Engineering, 9(1), pp. 01-05. https://doi.org/10.36288/jace.v9i1.2"
-doi: https://doi.org/10.36288/jace.v9i1.2
+apa7: "Montanari, E. (2024). Museums and wellbeing: an overview on emerging architectural and museographic trends. Journal of Architecture and Civil Engineering, 9(1), pp. 01-05."
+doi: null
 appearances:
   - unit: FXA301
     week: "05"
@@ -13,7 +13,7 @@ methods: ["literature review"]
 slug: fxa301-week05-museums-and-wellbeing-an-overview-on-emerging-architectural
 related: []
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-08-02
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-week05-museums-and-wellbeing-an-overview-on-emerging-architectural.md_

@@ -11,7 +11,7 @@ tags: ["healthcare-evaluation", "research-methods", "audits", "fxa301"]
 key_concepts: ["evaluation vs research", "complex interventions", "randomized controlled trials (RCTs)"]
 methods: []
 slug: fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision
-related: ["healthcare-evaluation", "research-methods"]
+related: ["research-methods", "research-methods-in-healthcare-evaluation"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,5 +41,5 @@ The text outlines the distinctions between evaluation, research, and audits in h
 
 ## See Also
 
-- [healthcare-evaluation](../topics/healthcare-evaluation.md)
 - [research-methods](../topics/research-methods.md)
+- [research-methods-in-healthcare-evaluation](../topics/research-methods-in-healthcare-evaluation.md)

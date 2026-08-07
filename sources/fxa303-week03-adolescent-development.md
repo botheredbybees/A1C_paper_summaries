@@ -7,13 +7,15 @@ doi: null
 appearances:
   - unit: FXA303
     week: "03"
+  - unit: FXA303
+    week: "02"
 tags: ["adolescent-development", "brain-maturation", "cognitive-abilities", "neuroplasticity", "social-independence", "teen-peer-relations", "fxa303"]
 key_concepts: ["synaptic-pruning", "neural-circuitry-reorganization", "identity-formation", "decision-making-difficulties"]
 methods: ["review"]
 slug: fxa303-week03-adolescent-development
 related: ["adolescent-development", "brain-maturation", "cognitive-abilities", "neuroplasticity"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week03-adolescent-development.md_

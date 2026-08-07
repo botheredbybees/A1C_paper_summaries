@@ -5,8 +5,11 @@ slug: music-therapy-and-creative-arts-interventions
 sources:
   - fxa100-week04-music-as-therapy-and-health-promotion
   - fxa100-week04-the-ripple-effect-towards-researching-improvisational-music
+  - fxa100-week08-aspirational-ethics-considerations-for-art-therapy-practice
   - fxa100-week09-personhood-maintained
   - fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1
+  - fxa301-week01-editors-introduction-arts-and-community-engagement
+  - fxa301-week10-the-use-of-music-therapy-in-the-treatment-of-mental-illness
   - fxa302-week01-health-humanities-and-the-creative-disciplines
   - fxa303-puppet-assisted-play-therapy-ch06-139-weedn
   - fxa303-week04-play-therapy-in-children-with-autism-its-role-implications
@@ -17,7 +20,7 @@ tags:
 - therapeutic-interventions
 title: Music Therapy and Creative Arts Interventions
 type: topic
-updated: 2026-07-06
+updated: 2026-08-07
 ---
 
 ## Music Therapy and Creative Arts Interventions
@@ -39,8 +42,11 @@ The integration of music therapy and creative arts interventions across various 
 
 - [fxa100-week04-music-as-therapy-and-health-promotion](../sources/fxa100-week04-music-as-therapy-and-health-promotion.md)
 - [fxa100-week04-the-ripple-effect-towards-researching-improvisational-music](../sources/fxa100-week04-the-ripple-effect-towards-researching-improvisational-music.md)
+- [fxa100-week08-aspirational-ethics-considerations-for-art-therapy-practice](../sources/fxa100-week08-aspirational-ethics-considerations-for-art-therapy-practice.md)
 - [fxa100-week09-personhood-maintained](../sources/fxa100-week09-personhood-maintained.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1](../sources/fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1.md)
+- [fxa301-week01-editors-introduction-arts-and-community-engagement](../sources/fxa301-week01-editors-introduction-arts-and-community-engagement.md)
+- [fxa301-week10-the-use-of-music-therapy-in-the-treatment-of-mental-illness](../sources/fxa301-week10-the-use-of-music-therapy-in-the-treatment-of-mental-illness.md)
 - [fxa302-week01-health-humanities-and-the-creative-disciplines](../sources/fxa302-week01-health-humanities-and-the-creative-disciplines.md)
 - [fxa303-puppet-assisted-play-therapy-ch06-139-weedn](../sources/fxa303-puppet-assisted-play-therapy-ch06-139-weedn.md)
 - [fxa303-week04-play-therapy-in-children-with-autism-its-role-implications](../sources/fxa303-week04-play-therapy-in-children-with-autism-its-role-implications.md)

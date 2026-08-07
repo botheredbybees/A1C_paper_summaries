@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ethical-conduct-guidelines
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Ethical Conduct Guidelines

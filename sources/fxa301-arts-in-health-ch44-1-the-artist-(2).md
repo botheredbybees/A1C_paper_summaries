@@ -11,7 +11,7 @@ tags: ["healthcare", "artistic-practice", "contract-management", "fxa301"]
 key_concepts: ["project-contract", "intellectual-property", "ethical-guidelines"]
 methods: []
 slug: fxa301-arts-in-health-ch44-1-the-artist-(2)
-related: ["healthcare"]
+related: ["artistic-practice", "healthcare"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,4 +41,5 @@ This chapter discusses the importance of proper contractual agreements for artis
 
 ## See Also
 
+- [artistic-practice](../topics/artistic-practice.md)
 - [healthcare](../topics/healthcare.md)

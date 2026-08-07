@@ -6,12 +6,13 @@ sources:
   - fxa100-week01-what-is-frontotemporal-dementia
   - fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia
   - fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia-(2)
+  - fxa100-week06-the-influence-of-frontotemporal-dementia-on-an-accomplished
   - fxa101-week03-anterograde-memory-in-frontotemporal-dementia
 tags:
 - frontotemporal-dementia
 title: Frontotemporal Dementia
 type: topic
-updated: 2026-07-20
+updated: 2026-08-07
 ---
 
 ## Frontotemporal Dementia
@@ -33,4 +34,5 @@ Frontotemporal Dementia (FTD) is a progressive neurodegenerative disease primari
 - [fxa100-week01-what-is-frontotemporal-dementia](../sources/fxa100-week01-what-is-frontotemporal-dementia.md)
 - [fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia](../sources/fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia.md)
 - [fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia-(2)](../sources/fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia-%282%29.md)
+- [fxa100-week06-the-influence-of-frontotemporal-dementia-on-an-accomplished](../sources/fxa100-week06-the-influence-of-frontotemporal-dementia-on-an-accomplished.md)
 - [fxa101-week03-anterograde-memory-in-frontotemporal-dementia](../sources/fxa101-week03-anterograde-memory-in-frontotemporal-dementia.md)

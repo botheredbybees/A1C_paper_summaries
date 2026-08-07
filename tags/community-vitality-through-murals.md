@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: community-vitality-through-murals
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Community Vitality Through Murals

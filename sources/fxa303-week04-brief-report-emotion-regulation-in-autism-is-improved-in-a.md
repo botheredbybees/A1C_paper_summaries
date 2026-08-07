@@ -11,7 +11,7 @@ tags: ["autism-spectrum-disorder", "emotion-regulation", "child-therapy", "play-
 key_concepts: ["Child-Centered Play Therapy (CCPT)", "Rhythmic Relating", "Emotion Regulation", "Gender-Based Considerations"]
 methods: ["single-n pilot intervention study"]
 slug: fxa303-week04-brief-report-emotion-regulation-in-autism-is-improved-in-a
-related: ["autism-spectrum-disorder", "child-therapy", "emotion-regulation", "play-therapy"]
+related: ["autism-spectrum-disorder", "child-therapy", "emotion-regulation", "play-therapy-in-child-development"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -47,4 +47,4 @@ This study evaluates the therapeutic potential of combining Child-Centered Play 
 - [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)
 - [child-therapy](../topics/child-therapy.md)
 - [emotion-regulation](../topics/emotion-regulation.md)
-- [play-therapy](../topics/play-therapy.md)
+- [play-therapy-in-child-development](../topics/play-therapy-in-child-development.md)

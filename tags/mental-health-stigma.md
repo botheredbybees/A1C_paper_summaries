@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-health-stigma
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Mental Health Stigma
@@ -9,3 +9,4 @@ updated: 2026-07-28
 - [The FIVE project\u2014addressing the stigma of mental health through community arts engagement](../sources/fxa301-week01-the-five-projectaddressing-the-stigma-of-mental-health.md)
 - [Four Big Ways to Improve Health through the Arts](../sources/fxa301-week03-four-big-ways-to-improve-health-through-the-arts.md)
 - [The Role of the Arts in Healthcare: Transforming Lives, Creating Community](../sources/fxa301-week03-the-role-of-the-arts-in-healthcare-transforming-lives.md)
+- [Youth Survey Report 2024](../sources/fxa303-week02-youth-survey-report-2024.md)

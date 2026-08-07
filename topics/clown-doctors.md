@@ -3,6 +3,7 @@ confidence: medium
 domain: intervention
 slug: clown-doctors
 sources:
+  - fxa301-week08-clown-doctors-australia-national-impact-summary
   - fxa301-week08-impact-summary-clown-doctors-australia
   - fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact
   - fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent
@@ -10,7 +11,7 @@ tags:
 - clown-doctors
 title: Clown Doctors
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Clown Doctors
@@ -29,6 +30,7 @@ The use of clown doctors as an intervention in healthcare settings demonstrates 
 
 ## Sources
 
+- [fxa301-week08-clown-doctors-australia-national-impact-summary](../sources/fxa301-week08-clown-doctors-australia-national-impact-summary.md)
 - [fxa301-week08-impact-summary-clown-doctors-australia](../sources/fxa301-week08-impact-summary-clown-doctors-australia.md)
 - [fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact](../sources/fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact.md)
 - [fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent](../sources/fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent.md)

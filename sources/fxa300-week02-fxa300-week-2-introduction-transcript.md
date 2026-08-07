@@ -11,7 +11,7 @@ tags: ["music-neuroscience", "auditory-system", "online-education", "fxa300", "n
 key_concepts: ["neuroscience fundamentals", "term retention strategies"]
 methods: ["course introduction"]
 slug: fxa300-week02-fxa300-week-2-introduction-transcript
-related: ["auditory-system", "music-neuroscience"]
+related: ["auditory-system", "music-and-brain"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -42,4 +42,4 @@ The document provides an introduction to the second week of FXA300, a course foc
 ## See Also
 
 - [auditory-system](../topics/auditory-system.md)
-- [music-neuroscience](../topics/music-neuroscience.md)
+- [music-and-brain](../topics/music-and-brain.md)

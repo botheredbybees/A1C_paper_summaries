@@ -7,13 +7,15 @@ doi: https://doi.org/10.1146/annurev-psych-042716-051139
 appearances:
   - unit: PSY214
     week: "00"
+  - unit: PSY214
+    week: "07"
 tags: ["mindfulness-practices", "mental-health-interventions", "wellbeing-research", "creative-arts-and-medicine", "clinical-psychology", "psy214", "mindfulness-interventions", "present-moment-awareness"]
 key_concepts: ["mindfulness interventions", "randomized controlled trials", "present moment awareness", "health outcomes"]
 methods: ["systematic review", "RCT"]
 slug: psy214-week00-mindfulness-interventions
 related: ["clinical-psychology", "mental-health-interventions", "mindfulness-practices", "wellbeing-research"]
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/psy214-week00-mindfulness-interventions.md_

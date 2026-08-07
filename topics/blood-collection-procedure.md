@@ -6,7 +6,7 @@ confidence: medium
 tags: ["blood-collection-procedure"]
 sources:
   - fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for
-updated: 2026-05-16
+updated: 2026-08-07
 ---
 
 ## Blood Collection Procedure

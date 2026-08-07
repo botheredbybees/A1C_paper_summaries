@@ -2,18 +2,18 @@
 type: source
 source_type: paper
 title: "Activities for Week 2 - FXA100 The Arts and Dementia Care"
-apa7: "Sacks, O. (2006). The Power of Music. Brain, 129(10), 2528-2532. https://doi.org/10.1093/brain/awl234"
-doi: https://doi.org/10.1093/brain/awl234
+apa7: "FXA100 MyLO lesson, Week 2, 2026"
+doi: null
 appearances:
   - unit: FXA100
     week: "02"
-tags: ["cognitive-functioning", "fxa100", "memory-retrieval", "music-therapy", "music-therapy-and-cognitive-stimulation-for-dementia-patients", "neurological-disorders", "reminiscence-therapy"]
+tags: ["cognitive-functioning", "fxa100", "memory-retrieval", "music-therapy", "music-therapy-and-cognitive-stimulation-for-dementia", "music-therapy-and-cognitive-stimulation-for-dementia-patients", "neurological-disorders", "reminiscence-therapy"]
 key_concepts: ["dementia-care", "musical-engagement", "emotional-memory"]
 methods: ["case-study"]
 slug: fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care
-related: ["cognitive-functioning", "lewy-body-dementia", "memory-retrieval", "music-therapy", "music-therapy-and-cognitive-stimulation-for-dementia", "reminiscence-therapy"]
+related: ["cognitive-functioning", "lewy-body-dementia", "memory-retrieval", "music-therapy", "music-therapy-and-cognitive-stimulation-for-dementia", "music-therapy-in-dementia-care", "reminiscence-therapy"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-08-02
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care.md_
@@ -49,4 +49,5 @@ The document also includes a discussion prompt that encourages reflection on per
 - [memory-retrieval](../topics/memory-retrieval.md)
 - [music-therapy](../topics/music-therapy.md)
 - [music-therapy-and-cognitive-stimulation-for-dementia](../topics/music-therapy-and-cognitive-stimulation-for-dementia.md)
+- [music-therapy-in-dementia-care](../topics/music-therapy-in-dementia-care.md)
 - [reminiscence-therapy](../topics/reminiscence-therapy.md)

@@ -3,13 +3,14 @@ confidence: medium
 domain: intervention
 slug: personalized-medicine-for-alzheimer-s-disease
 sources:
-- fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy
-- fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there
+  - fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy
+  - fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there
+  - fxa100-week03-music-memory-the-ipod-project-video-transcript-(3)
 tags:
 - personalized-medicine
 title: Personalized Medicine for Alzheimer's Disease
 type: topic
-updated: 2026-05-03
+updated: 2026-08-07
 ---
 
 ## Personalized Medicine for Alzheimer's Disease
@@ -30,3 +31,4 @@ The synthesis integrates insights from a clinical and research program focusing 
 
 - [fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy](../sources/fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy.md)
 - [fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there](../sources/fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there.md)
+- [fxa100-week03-music-memory-the-ipod-project-video-transcript-(3)](../sources/fxa100-week03-music-memory-the-ipod-project-video-transcript-%283%29.md)

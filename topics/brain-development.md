@@ -10,12 +10,15 @@ sources:
   - fxa101-week03-lesson-fxa101-week03-page-1-week-3-introduction
   - fxa101-week03-lesson-fxa101-week03-page-2-creativity-and-brain
   - fxa101-week03-synergistic-effects-of-age-on-patterns-of-white-and-gray
+  - fxa101-week03-week-3-lecture-brain-development-and-cognitive-reserve
   - fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master
+  - fxa300-week02-music-and-mind-harnessing-the-arts-for-health-and-wellness
   - fxa300-week02-music-and-the-brain
   - fxa300-week02-what-makes-a-musician
   - fxa300-week03-music-training-improves-verbal-but-not-visual-memory-cross
   - fxa303-week01-can-traumatic-stress-alter-the-brain-understanding-the
   - fxa303-week02-free-play-and-childrens-mental-health
+  - fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental
   - fxa303-week02-imaging-structural-and-functional-brain-development-in
   - fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain
   - fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental
@@ -27,7 +30,7 @@ tags:
 - brain-development
 title: Brain Development Across Lifespan
 type: topic
-updated: 2026-07-21
+updated: 2026-08-07
 ---
 
 ## Brain Development Across Lifespan
@@ -53,12 +56,15 @@ The provided sources delve into the multifaceted process of brain development ac
 - [fxa101-week03-lesson-fxa101-week03-page-1-week-3-introduction](../sources/fxa101-week03-lesson-fxa101-week03-page-1-week-3-introduction.md)
 - [fxa101-week03-lesson-fxa101-week03-page-2-creativity-and-brain](../sources/fxa101-week03-lesson-fxa101-week03-page-2-creativity-and-brain.md)
 - [fxa101-week03-synergistic-effects-of-age-on-patterns-of-white-and-gray](../sources/fxa101-week03-synergistic-effects-of-age-on-patterns-of-white-and-gray.md)
+- [fxa101-week03-week-3-lecture-brain-development-and-cognitive-reserve](../sources/fxa101-week03-week-3-lecture-brain-development-and-cognitive-reserve.md)
 - [fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master](../sources/fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master.md)
+- [fxa300-week02-music-and-mind-harnessing-the-arts-for-health-and-wellness](../sources/fxa300-week02-music-and-mind-harnessing-the-arts-for-health-and-wellness.md)
 - [fxa300-week02-music-and-the-brain](../sources/fxa300-week02-music-and-the-brain.md)
 - [fxa300-week02-what-makes-a-musician](../sources/fxa300-week02-what-makes-a-musician.md)
 - [fxa300-week03-music-training-improves-verbal-but-not-visual-memory-cross](../sources/fxa300-week03-music-training-improves-verbal-but-not-visual-memory-cross.md)
 - [fxa303-week01-can-traumatic-stress-alter-the-brain-understanding-the](../sources/fxa303-week01-can-traumatic-stress-alter-the-brain-understanding-the.md)
 - [fxa303-week02-free-play-and-childrens-mental-health](../sources/fxa303-week02-free-play-and-childrens-mental-health.md)
+- [fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental](../sources/fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental.md)
 - [fxa303-week02-imaging-structural-and-functional-brain-development-in](../sources/fxa303-week02-imaging-structural-and-functional-brain-development-in.md)
 - [fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain](../sources/fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain.md)
 - [fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental](../sources/fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental.md)

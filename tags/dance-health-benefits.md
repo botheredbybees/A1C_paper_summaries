@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dance-health-benefits
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Dance Health Benefits

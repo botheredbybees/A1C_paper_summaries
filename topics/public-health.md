@@ -7,6 +7,7 @@ sources:
   - fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities
   - fxa101-week04-brain-training-using-cognitive-apps-can-improve-cognitive
   - fxa101-week04-lesson-fxa101-week04-chapter-3-creativity-throughout-life
+  - fxa300-week05-music-and-movement-for-health-an-arts-based-intervention-to
   - fxa301-applied-artes-and-health-ch01-2021-graff
   - fxa301-arts-in-health-ch04-48-haldane-d
   - fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26
@@ -16,6 +17,7 @@ sources:
   - fxa301-oxford-textbook-of-creative-arts-ch24-chapter-8
   - fxa301-week01-making-art-with-communities-a-work-guide-(3)
   - fxa301-week01-research-ethics
+  - fxa301-week03-implementing-creative-health-(2)
   - fxa301-week03-lesson-fxa301-week03-page-3
   - fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing
   - fxa301-week05-museums-for-health-and-wellbeing
@@ -37,7 +39,7 @@ tags:
 - public-health
 title: Creative Arts in Public Health
 type: topic
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Creative Arts in Public Health
@@ -61,6 +63,7 @@ The integration of creative arts into public health interventions presents a mul
 - [fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities](../sources/fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities.md)
 - [fxa101-week04-brain-training-using-cognitive-apps-can-improve-cognitive](../sources/fxa101-week04-brain-training-using-cognitive-apps-can-improve-cognitive.md)
 - [fxa101-week04-lesson-fxa101-week04-chapter-3-creativity-throughout-life](../sources/fxa101-week04-lesson-fxa101-week04-chapter-3-creativity-throughout-life.md)
+- [fxa300-week05-music-and-movement-for-health-an-arts-based-intervention-to](../sources/fxa300-week05-music-and-movement-for-health-an-arts-based-intervention-to.md)
 - [fxa301-applied-artes-and-health-ch01-2021-graff](../sources/fxa301-applied-artes-and-health-ch01-2021-graff.md)
 - [fxa301-arts-in-health-ch04-48-haldane-d](../sources/fxa301-arts-in-health-ch04-48-haldane-d.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26](../sources/fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26.md)
@@ -70,6 +73,7 @@ The integration of creative arts into public health interventions presents a mul
 - [fxa301-oxford-textbook-of-creative-arts-ch24-chapter-8](../sources/fxa301-oxford-textbook-of-creative-arts-ch24-chapter-8.md)
 - [fxa301-week01-making-art-with-communities-a-work-guide-(3)](../sources/fxa301-week01-making-art-with-communities-a-work-guide-%283%29.md)
 - [fxa301-week01-research-ethics](../sources/fxa301-week01-research-ethics.md)
+- [fxa301-week03-implementing-creative-health-(2)](../sources/fxa301-week03-implementing-creative-health-%282%29.md)
 - [fxa301-week03-lesson-fxa301-week03-page-3](../sources/fxa301-week03-lesson-fxa301-week03-page-3.md)
 - [fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing](../sources/fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing.md)
 - [fxa301-week05-museums-for-health-and-wellbeing](../sources/fxa301-week05-museums-for-health-and-wellbeing.md)

@@ -7,13 +7,15 @@ doi: https://doi.org/10.1186/s12888-022-04396-y
 appearances:
   - unit: FXA303
     week: "03"
+  - unit: FXA303
+    week: "02"
 tags: ["arts-in-mental-health", "qualitative-study-colombia", "youth-art-engagement", "community-support-networks", "adolescent-well-being", "fxa303"]
 key_concepts: ["artistic engagement", "mental health outcomes", "supportive community environments"]
 methods: ["qualitative study", "interviews"]
 slug: fxa303-week03-role-of-the-arts-in-the-life-and-mental-health-of-young
 related: []
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week03-role-of-the-arts-in-the-life-and-mental-health-of-young.md_

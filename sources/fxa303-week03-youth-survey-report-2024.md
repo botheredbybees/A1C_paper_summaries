@@ -11,7 +11,7 @@ tags: ["youth-well-being", "mental-health-stress", "economic-challenges", "clima
 key_concepts: ["cost-of-living", "mental-health", "climate-change-concerns", "discrimination-experience"]
 methods: ["survey-research"]
 slug: fxa303-week03-youth-survey-report-2024
-related: []
+related: ["economic-challenges", "youth-well-being"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,4 +44,5 @@ The 2024 Youth Survey Report by Mission Australia highlights the evolving challe
 
 ## See Also
 
-*(none yet)*
+- [economic-challenges](../topics/economic-challenges.md)
+- [youth-well-being](../topics/youth-well-being.md)

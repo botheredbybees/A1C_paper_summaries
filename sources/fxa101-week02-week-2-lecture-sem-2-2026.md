@@ -11,7 +11,7 @@ tags: ["neurology-of-creativity", "default-mode-network", "synesthesia", "fxa101
 key_concepts: ["Default Mode Network", "Synesthesia"]
 methods: ["lecture"]
 slug: fxa101-week02-week-2-lecture-sem-2-2026
-related: ["synesthesia"]
+related: ["default-mode-network", "synesthesia"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -44,4 +44,5 @@ The lecture concludes by encouraging students to reflect on their own creative e
 
 ## See Also
 
+- [default-mode-network](../topics/default-mode-network.md)
 - [synesthesia](../topics/synesthesia.md)

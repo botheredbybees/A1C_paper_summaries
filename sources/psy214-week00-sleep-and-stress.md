@@ -11,7 +11,7 @@ tags: ["sleep-health", "stress-management", "historical-perspective", "psy214", 
 key_concepts: ["physiological-understanding-of-sleep", "public-health-issues"]
 methods: ["literature-review"]
 slug: psy214-week00-sleep-and-stress
-related: ["historical-perspective", "stress-management"]
+related: ["historical-perspective", "sleep-health", "stress-management"]
 created: 2026-06-25
 updated: 2026-06-25
 ---
@@ -42,4 +42,5 @@ The article 'Sleep and Stress' by Sally Shuttleworth and Russell G. Foster explo
 ## See Also
 
 - [historical-perspective](../topics/historical-perspective.md)
+- [sleep-health](../topics/sleep-health.md)
 - [stress-management](../topics/stress-management.md)

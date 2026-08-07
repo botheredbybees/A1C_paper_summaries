@@ -8,22 +8,22 @@ sources:
   - fxa100-week02-introduction-to-week-2-music-and-the-brain
   - fxa100-week02-introduction-to-week-2-music-and-the-brain
   - fxa100-week03-listening-and-dementia-care
-updated: 2026-05-18
+updated: 2026-08-07
 ---
 
 ## Music Therapy for Cognitive Impairments
 
-The integration of music therapy as an intervention for individuals with cognitive impairments is underscored across sources. Both 'Introduction to Week 2: Music and the Brain' and 'Listening and Dementia Care' highlight the brain's function in relation to musical memories, indicating that these recollections are often preserved even when other types of memory fade due to conditions like dementia. This preservation suggests a unique potential for music therapy to aid individuals suffering from cognitive decline. Additionally, 'Listening and Dementia Care' introduces the concept of dopamine release associated with music-based interventions, further supporting the therapeutic value of such methods in enhancing mood and cognitive function.
+The integration of sources highlights the therapeutic potential of music in addressing cognitive impairments. Sources emphasize that music engages multiple areas of brain function and can enhance musical memories, providing a unique avenue to stimulate cognitive activity even in dementia patients. Music-based interventions are shown to release dopamine, enhancing mood and potentially improving overall quality of life for individuals with cognitive decline. However, while sources concur on the positive effects of music therapy, there is a lack of detailed exploration into how different types or genres of music might yield varying results, suggesting a need for more nuanced investigation.
 
 ## Key Findings
 
-- Musical memories are often preserved even when other types of memory fade due to dementia.
-- Music therapy can aid individuals suffering from cognitive decline by utilizing preserved musical memories.
-- Dopamine release associated with music-based interventions enhances mood and may support cognitive functions.
+- Music engages multiple brain functions and can enhance musical memories in individuals with cognitive impairments.
+- Music-based interventions have the potential to release dopamine, thereby improving mood and quality of life.
+- The therapeutic use of music is recognized as an effective intervention for addressing cognitive impairments.
 
 ## Open Questions
 
-- What specific aspects of music-based interventions are most effective in promoting dopamine release and improving cognitive function?
+- How do different types or genres of music impact the effectiveness of music therapy in treating cognitive impairments?
 
 ## Sources
 

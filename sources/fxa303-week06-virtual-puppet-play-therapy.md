@@ -11,7 +11,7 @@ tags: ["virtual-therapy", "play-therapy", "puppet-play", "online-counseling", "e
 key_concepts: ["symbolic-projection", "therapeutic-assessment", "interactive-online-platforms"]
 methods: ["case-study"]
 slug: fxa303-week06-virtual-puppet-play-therapy
-related: ["emotional-expression", "play-therapy", "puppet-play"]
+related: ["emotional-expression", "play-therapy-in-child-development", "puppet-play"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,5 +44,5 @@ Karen Fried's chapter on Virtual Puppet Play Therapy explores the adaptation of 
 ## See Also
 
 - [emotional-expression](../topics/emotional-expression.md)
-- [play-therapy](../topics/play-therapy.md)
+- [play-therapy-in-child-development](../topics/play-therapy-in-child-development.md)
 - [puppet-play](../topics/puppet-play.md)

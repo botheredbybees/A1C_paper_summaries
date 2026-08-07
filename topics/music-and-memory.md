@@ -6,8 +6,10 @@ confidence: medium
 tags: ["music-and-memory"]
 sources:
   - fxa100-week02-lesson-fxa100-week02-page-4-week-2-activities
+  - fxa100-week03-music-memory-the-ipod-project-video-transcript-(2)
   - fxa300-week03-a-focus-on-the-reminiscence-bump-to-personalize-music
-updated: 2026-07-21
+  - fxa300-week05-seniors-fall-in-love-with-ipods-at-retirement-home
+updated: 2026-08-07
 ---
 
 ## Music and Memory
@@ -27,4 +29,6 @@ The integration of musical memory into therapeutic practices for individuals wit
 ## Sources
 
 - [fxa100-week02-lesson-fxa100-week02-page-4-week-2-activities](../sources/fxa100-week02-lesson-fxa100-week02-page-4-week-2-activities.md)
+- [fxa100-week03-music-memory-the-ipod-project-video-transcript-(2)](../sources/fxa100-week03-music-memory-the-ipod-project-video-transcript-%282%29.md)
 - [fxa300-week03-a-focus-on-the-reminiscence-bump-to-personalize-music](../sources/fxa300-week03-a-focus-on-the-reminiscence-bump-to-personalize-music.md)
+- [fxa300-week05-seniors-fall-in-love-with-ipods-at-retirement-home](../sources/fxa300-week05-seniors-fall-in-love-with-ipods-at-retirement-home.md)

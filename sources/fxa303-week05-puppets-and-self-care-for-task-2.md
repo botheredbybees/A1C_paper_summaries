@@ -17,7 +17,7 @@ tags: ["puppet-therapy", "cultural-storytelling", "self-care-strategies", "fxa30
 key_concepts: ["therapeutic-puppets", "shadow-theatre", "marionette-performance"]
 methods: ["case-study"]
 slug: fxa303-week05-puppets-and-self-care-for-task-2
-related: ["cultural-storytelling", "puppet-therapy", "self-care-strategies"]
+related: ["cultural-storytelling", "puppet-assisted-play-therapy-for-children", "self-care-strategies"]
 created: 2026-05-03
 updated: 2026-05-16
 ---
@@ -48,5 +48,5 @@ This document provides an overview of various types of puppets including glove, 
 ## See Also
 
 - [cultural-storytelling](../topics/cultural-storytelling.md)
-- [puppet-therapy](../topics/puppet-therapy.md)
+- [puppet-assisted-play-therapy-for-children](../topics/puppet-assisted-play-therapy-for-children.md)
 - [self-care-strategies](../topics/self-care-strategies.md)

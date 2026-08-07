@@ -3,6 +3,8 @@ confidence: medium
 domain: intervention
 slug: cultural-heritage-and-community-well-being
 sources:
+  - fxa100-week07-access-programs-art-gallery-of-new-south-wales
+  - fxa100-week07-connecting-reminiscence-art-making-and-cultural-heritage-a
   - fxa101-week03-arts-education-for-young-children-of-the-21st-century
   - fxa301-week05-cork-as-canvas-exploring-intersections-of-citizenship-and
   - fxa301-week05-the-health-and-well-being-potential-of-museums-and-art
@@ -11,7 +13,7 @@ tags:
 - cultural-heritage
 title: Cultural Heritage and Community Well-Being
 type: topic
-updated: 2026-07-20
+updated: 2026-08-07
 ---
 
 ## Cultural Heritage and Community Well-Being
@@ -30,6 +32,8 @@ The exploration of cultural heritage through art and community engagement highli
 
 ## Sources
 
+- [fxa100-week07-access-programs-art-gallery-of-new-south-wales](../sources/fxa100-week07-access-programs-art-gallery-of-new-south-wales.md)
+- [fxa100-week07-connecting-reminiscence-art-making-and-cultural-heritage-a](../sources/fxa100-week07-connecting-reminiscence-art-making-and-cultural-heritage-a.md)
 - [fxa101-week03-arts-education-for-young-children-of-the-21st-century](../sources/fxa101-week03-arts-education-for-young-children-of-the-21st-century.md)
 - [fxa301-week05-cork-as-canvas-exploring-intersections-of-citizenship-and](../sources/fxa301-week05-cork-as-canvas-exploring-intersections-of-citizenship-and.md)
 - [fxa301-week05-the-health-and-well-being-potential-of-museums-and-art](../sources/fxa301-week05-the-health-and-well-being-potential-of-museums-and-art.md)

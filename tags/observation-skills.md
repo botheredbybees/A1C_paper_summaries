@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: observation-skills
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Observation Skills
@@ -10,3 +10,5 @@ updated: 2026-07-28
 - [Week 3 Seeing more deeply - illustration and observation](../sources/fxa302-week03-lesson-fxa302-week03-page-1-overview.md)
 - [The Art of Observation: A Pedagogical Framework](../sources/fxa302-week03-the-art-of-observation-a-pedagogical-framework.md)
 - [The Art of Observation: A Qualitative Analysis of Medical Students\u2019 Experiences](../sources/fxa302-week03-the-art-of-observation-a-qualitative-analysis-of-medical.md)
+- [Visual Thinking Strategy](../sources/fxa302-week03-visual-thinking-strategy.md)
+- [Ways of Seeing: Using the Visual Arts in Nursing Education](../sources/fxa302-week03-ways-of-seeing-using-the-visual-arts-in-nursing-education.md)

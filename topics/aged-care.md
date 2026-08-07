@@ -5,6 +5,7 @@ slug: art-programs-in-aged-care
 sources:
   - fxa100-week02-transcript-duration-949
   - fxa100-week04-transcript-cale-research-aged-care-deloraine-partnership
+  - fxa100-week07-aged-care-outreach-(2)
   - fxa100-week08-web-article-gross-2016
   - fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary
   - fxa202-week10-creative-arts-based-research-in-aged-care-photovoice
@@ -13,7 +14,7 @@ tags:
 - aged-care
 title: Art Programs in Aged Care
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Art Programs in Aged Care
@@ -38,6 +39,7 @@ Finally, Source 3 introduces the MAC.ART program, which employs a person-centere
 
 - [fxa100-week02-transcript-duration-949](../sources/fxa100-week02-transcript-duration-949.md)
 - [fxa100-week04-transcript-cale-research-aged-care-deloraine-partnership](../sources/fxa100-week04-transcript-cale-research-aged-care-deloraine-partnership.md)
+- [fxa100-week07-aged-care-outreach-(2)](../sources/fxa100-week07-aged-care-outreach-%282%29.md)
 - [fxa100-week08-web-article-gross-2016](../sources/fxa100-week08-web-article-gross-2016.md)
 - [fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary](../sources/fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary.md)
 - [fxa202-week10-creative-arts-based-research-in-aged-care-photovoice](../sources/fxa202-week10-creative-arts-based-research-in-aged-care-photovoice.md)

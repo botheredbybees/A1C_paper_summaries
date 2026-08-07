@@ -1,12 +1,13 @@
 ---
 type: tag
 tag: interdisciplinary-research
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Interdisciplinary Research
 
 - [Is a Visual Arts Programme Beneficial for the Quality of Life of People Living with Dementia?](../sources/fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of.md)
+- [Conceptualising and Understanding Artistic Creativity in the Dementias: Interdisciplinary Approaches to Research and Practise](../sources/fxa100-week08-conceptualising-and-understanding-artistic-creativity-in.md)
 - [Internet Science: 6th International Conference, INSCI 2019](../sources/fxa100-week13-internet-science-6th-international-conference-insci-2019.md)
 - [Mechanisms of change in dance/movement therapy and their neural correlates: A theoretical framework](../sources/fxa100-week13-mechanisms-of-change-in-dancemovement-therapy-and-their.md)
 - [The handbook of phototherapy and therapeutic photography: For the professional and activist client](../sources/fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-%282%29.md)
@@ -16,12 +17,15 @@ updated: 2026-07-28
 - [Aesop: A Framework for Developing and Researching Arts in Health Programmes](../sources/fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-%283%29.md)
 - [An introduction to research](../sources/fxa301-week01-an-introduction-to-research.md)
 - [Arts in Health: Designing and researching interventions](../sources/fxa301-week01-arts-in-health-designing-and-researching-interventions.md)
+- [Interdisciplinarity for Social Justice Enterprise: Intersecting Education, Industry and Community Arts Perspectives](../sources/fxa301-week01-interdisciplinarity-for-social-justice-enterprise.md)
 - [The Emerging Field of Affective Science](../sources/fxa301-week02-the-emerging-field-of-affective-science.md)
 - [Ages and Stages: the place of theatre in the lives of older people](../sources/fxa301-week08-web-article-bernard-2015.md)
 - [Health humanities: the future of medical humanities?](../sources/fxa302-week01-health-humanities-the-future-of-medical-humanities.md)
 - [The Routledge Handbook of Spirituality, Religion, and the Medical Humanities](../sources/fxa302-week01-the-routledge-handbook-of-spirituality-religion-and-the.md)
+- [Web Lecture Week 1, 2026](../sources/fxa302-week01-web-lecture-week-1-2026.md)
 - [Where Science Meets Stories: A Systematic Review on Narrative Medicine](../sources/fxa302-week01-where-science-meets-stories-a-systematic-review-on.md)
 - [Transcript: Assistant Professor of Comparative Literature and Medicine Alvan Ikoku on Medical Humanities](../sources/fxa302-week03-transcript-assistant-professor-of-comparative-literature-and.md)
 - [Researching arts, culture, migration and change: a multi (trans)disciplinary challenge for international migration studies](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi-%283%29.md)
 - [Future Directions in Understanding and Addressing Mental Health among LGBTQ Youth](../sources/fxa303-week11-future-directions-in-understanding-and-addressing-mental.md)
+- [FXA303 Web Lecture Week 11](../sources/fxa303-week11-fxa303-web-lecture-week-11.md)
 - [Good Health and Well-Being](../sources/fxa303-week13-good-health-and-well-being.md)

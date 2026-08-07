@@ -7,11 +7,11 @@ doi: null
 appearances:
   - unit: FXA303
     week: "09"
-tags: ["disaster-management", "creative-recovery", "community-engagement", "mental-health", "first-peoples-culture", "arts-based-interventions", "fxa303"]
+tags: ["arts-based-interventions", "community-engagement", "creative-interventions-in-dementia-care", "creative-recovery", "disaster-management", "first-peoples-culture", "fxa303", "mental-health"]
 key_concepts: ["creative practices in disaster management", "resilience building", "inclusive community engagement", "trauma processing through arts"]
 methods: ["policy recommendation"]
 slug: fxa303-week09-national-taskforce-for-creative-recovery-recommendations
-related: ["community-engagement", "creative-interventions-in-dementia-care", "creative-recovery", "disaster-management", "mental-health"]
+related: ["community-engagement", "creative-interventions-in-dementia-care", "creative-recovery", "dementia-care-interventions", "disaster-management", "mental-health"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -48,5 +48,6 @@ The National Taskforce for Creative Recovery, comprising leaders from disaster m
 - [community-engagement](../topics/community-engagement.md)
 - [creative-interventions-in-dementia-care](../topics/creative-interventions-in-dementia-care.md)
 - [creative-recovery](../topics/creative-recovery.md)
+- [dementia-care-interventions](../topics/dementia-care-interventions.md)
 - [disaster-management](../topics/disaster-management.md)
 - [mental-health](../topics/mental-health.md)

@@ -1,27 +1,28 @@
 ---
 type: topic
 domain: "intervention"
-title: "Fine Arts Participation and Self-Determination Among Individuals with Developmental Disabilities"
+title: "Fine Arts Participation in Developmental Disabilities"
 confidence: medium
 tags: ["developmental-disabilities"]
 sources:
   - fxa301-week11-fine-arts-participation-self-determination-and-locus-of
   - fxa301-week11-fine-arts-participation-self-determination-and-locus-of-(2)
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
-## Fine Arts Participation and Self-Determination Among Individuals with Developmental Disabilities
+## Fine Arts Participation in Developmental Disabilities
 
-The studies highlight the significance of fine arts participation for individuals with developmental disabilities in fostering self-determination. Both sources emphasize that engaging in artistic activities can contribute to an internal locus of control, empowering participants by enhancing their sense of autonomy and personal efficacy. However, there is a notable absence of detailed methodologies or specific interventions within these summaries, which limits the scope of practical application. The role of fine arts as a therapeutic tool is explored through its impact on self-determination but less so on other aspects like social inclusion or emotional well-being.
+The integration of fine arts participation as an intervention for individuals with developmental disabilities reveals a consistent theme across sources concerning the enhancement of self-determination and internal locus of control. Both studies highlight that engaging in fine arts activities fosters personal empowerment, enabling participants to take charge of their lives and make decisions autonomously. This finding is crucial as it suggests that artistic engagement can serve not just as an enriching activity but also a pivotal tool for promoting independence and self-efficacy among this population. Despite the clear positive impacts noted in both sources, there remains a need to explore how such interventions can be made universally accessible and inclusive, addressing potential barriers and ensuring broad applicability.
 
 ## Key Findings
 
-- Fine arts participation can enhance self-determination in individuals with developmental disabilities.
-- Internal locus of control is positively associated with engagement in fine arts among this population.
+- Fine arts participation enhances self-determination and internal locus of control among individuals with developmental disabilities.
+- Engaging in fine arts activities fosters personal empowerment, enabling individuals to make autonomous decisions.
+- The promotion of independence through artistic engagement is a significant outcome for this population.
 
 ## Open Questions
 
-- What are the specific mechanisms by which fine arts contribute to self-determination and internal locus of control?
+- How can fine arts interventions be made universally accessible and inclusive, addressing potential barriers such as cost or physical limitations?
 
 ## Sources
 

@@ -4,6 +4,7 @@ domain: intervention
 slug: interdisciplinary-approaches-to-quality-of-life-improvement
 sources:
   - fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of
+  - fxa100-week08-conceptualising-and-understanding-artistic-creativity-in
   - fxa100-week13-internet-science-6th-international-conference-insci-2019
   - fxa100-week13-mechanisms-of-change-in-dancemovement-therapy-and-their
   - fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2)
@@ -13,20 +14,23 @@ sources:
   - fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(3)
   - fxa301-week01-an-introduction-to-research
   - fxa301-week01-arts-in-health-designing-and-researching-interventions
+  - fxa301-week01-interdisciplinarity-for-social-justice-enterprise
   - fxa301-week02-the-emerging-field-of-affective-science
   - fxa301-week08-web-article-bernard-2015
   - fxa302-week01-health-humanities-the-future-of-medical-humanities
   - fxa302-week01-the-routledge-handbook-of-spirituality-religion-and-the
+  - fxa302-week01-web-lecture-week-1-2026
   - fxa302-week01-where-science-meets-stories-a-systematic-review-on
   - fxa302-week03-transcript-assistant-professor-of-comparative-literature-and
   - fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)
   - fxa303-week11-future-directions-in-understanding-and-addressing-mental
+  - fxa303-week11-fxa303-web-lecture-week-11
   - fxa303-week13-good-health-and-well-being
 tags:
 - interdisciplinary-research
 title: Interdisciplinary Approaches to Quality of Life Improvement
 type: topic
-updated: 2026-07-21
+updated: 2026-08-07
 ---
 
 ## Interdisciplinary Approaches to Quality of Life Improvement
@@ -45,6 +49,7 @@ This synthesis focuses on interdisciplinary research aimed at enhancing the qual
 ## Sources
 
 - [fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of](../sources/fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of.md)
+- [fxa100-week08-conceptualising-and-understanding-artistic-creativity-in](../sources/fxa100-week08-conceptualising-and-understanding-artistic-creativity-in.md)
 - [fxa100-week13-internet-science-6th-international-conference-insci-2019](../sources/fxa100-week13-internet-science-6th-international-conference-insci-2019.md)
 - [fxa100-week13-mechanisms-of-change-in-dancemovement-therapy-and-their](../sources/fxa100-week13-mechanisms-of-change-in-dancemovement-therapy-and-their.md)
 - [fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2)](../sources/fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-%282%29.md)
@@ -54,12 +59,15 @@ This synthesis focuses on interdisciplinary research aimed at enhancing the qual
 - [fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-(3)](../sources/fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-%283%29.md)
 - [fxa301-week01-an-introduction-to-research](../sources/fxa301-week01-an-introduction-to-research.md)
 - [fxa301-week01-arts-in-health-designing-and-researching-interventions](../sources/fxa301-week01-arts-in-health-designing-and-researching-interventions.md)
+- [fxa301-week01-interdisciplinarity-for-social-justice-enterprise](../sources/fxa301-week01-interdisciplinarity-for-social-justice-enterprise.md)
 - [fxa301-week02-the-emerging-field-of-affective-science](../sources/fxa301-week02-the-emerging-field-of-affective-science.md)
 - [fxa301-week08-web-article-bernard-2015](../sources/fxa301-week08-web-article-bernard-2015.md)
 - [fxa302-week01-health-humanities-the-future-of-medical-humanities](../sources/fxa302-week01-health-humanities-the-future-of-medical-humanities.md)
 - [fxa302-week01-the-routledge-handbook-of-spirituality-religion-and-the](../sources/fxa302-week01-the-routledge-handbook-of-spirituality-religion-and-the.md)
+- [fxa302-week01-web-lecture-week-1-2026](../sources/fxa302-week01-web-lecture-week-1-2026.md)
 - [fxa302-week01-where-science-meets-stories-a-systematic-review-on](../sources/fxa302-week01-where-science-meets-stories-a-systematic-review-on.md)
 - [fxa302-week03-transcript-assistant-professor-of-comparative-literature-and](../sources/fxa302-week03-transcript-assistant-professor-of-comparative-literature-and.md)
 - [fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(3)](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi-%283%29.md)
 - [fxa303-week11-future-directions-in-understanding-and-addressing-mental](../sources/fxa303-week11-future-directions-in-understanding-and-addressing-mental.md)
+- [fxa303-week11-fxa303-web-lecture-week-11](../sources/fxa303-week11-fxa303-web-lecture-week-11.md)
 - [fxa303-week13-good-health-and-well-being](../sources/fxa303-week13-good-health-and-well-being.md)

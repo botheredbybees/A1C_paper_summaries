@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Word length and the structure of short-term memory"
-apa7: "Baddeley, A. D., Thomson, N., & Buchanan, M. (1975). Word length and the structure of short-term memory. The Quarterly Journal of Experimental Psychology, 27(2), 383-392. https://doi.org/10.1080/14640746508400563"
-doi: https://doi.org/10.1080/14640746508400563
+apa7: "Baddeley, A., Thomson, N., & Buchanan, M. (1975). Word length and the structure of short-term memory. https://doi.org/10.1016/S0022-5371(75)80045-4"
+doi: https://doi.org/10.1016/S0022-5371(75)80045-4
 appearances:
   - unit: FXA300
     week: "03"

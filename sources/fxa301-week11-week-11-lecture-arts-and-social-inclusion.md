@@ -11,7 +11,7 @@ tags: ["art-therapies", "arts-and-social-inclusion", "cultural-identity-preserva
 key_concepts: ["social-inclusion", "art-therapies", "cultural-identity-preservation"]
 methods: ["case-study"]
 slug: fxa301-week11-week-11-lecture-arts-and-social-inclusion
-related: ["cultural-identity-preservation", "refugee-integration"]
+related: ["cultural-identity-preservation", "refugee-integration", "visual-arts-intervention-for-dementia-care"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -42,3 +42,4 @@ This document provides an overview of Week 11's lecture on arts and social inclu
 
 - [cultural-identity-preservation](../topics/cultural-identity-preservation.md)
 - [refugee-integration](../topics/refugee-integration.md)
+- [visual-arts-intervention-for-dementia-care](../topics/visual-arts-intervention-for-dementia-care.md)

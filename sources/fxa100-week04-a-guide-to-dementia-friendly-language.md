@@ -11,7 +11,7 @@ tags: ["inclusive-language", "stigma-reduction", "dementia-awareness", "fxa100"]
 key_concepts: ["person-first language", "cultural sensitivity"]
 methods: []
 slug: fxa100-week04-a-guide-to-dementia-friendly-language
-related: ["dementia-awareness", "stigma-reduction"]
+related: ["dementia-awareness", "inclusive-language", "stigma-reduction"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,4 +41,5 @@ This document provides guidelines for using inclusive and non-stigmatizing langu
 ## See Also
 
 - [dementia-awareness](../topics/dementia-awareness.md)
+- [inclusive-language](../topics/inclusive-language.md)
 - [stigma-reduction](../topics/stigma-reduction.md)

@@ -11,11 +11,12 @@ sources:
   - fxa100-week13-editorial-the-state-of-the-art-in-creative-arts-therapies
   - fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using
   - fxa303-week08-clown-therapy-a-drama-therapy-approach-to-addiction-and
+  - fxa303-week09-colors-of-the-mind-a-meta-analysis-of-creative-arts-therapy
 tags:
 - drama-therapy
 title: Drama Therapy
 type: topic
-updated: 2026-05-15
+updated: 2026-08-07
 ---
 
 ## Drama Therapy
@@ -42,3 +43,4 @@ The sources collectively underscore drama therapy as a versatile intervention wi
 - [fxa100-week13-editorial-the-state-of-the-art-in-creative-arts-therapies](../sources/fxa100-week13-editorial-the-state-of-the-art-in-creative-arts-therapies.md)
 - [fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using](../sources/fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using.md)
 - [fxa303-week08-clown-therapy-a-drama-therapy-approach-to-addiction-and](../sources/fxa303-week08-clown-therapy-a-drama-therapy-approach-to-addiction-and.md)
+- [fxa303-week09-colors-of-the-mind-a-meta-analysis-of-creative-arts-therapy](../sources/fxa303-week09-colors-of-the-mind-a-meta-analysis-of-creative-arts-therapy.md)

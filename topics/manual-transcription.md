@@ -3,12 +3,14 @@ confidence: low
 domain: method
 slug: manual-transcription
 sources:
-- fxa301-week08-transcript-youtube-vyjzrflr50e-url-only
+  - fxa301-week08-transcript-youtube-vyjzrflr50e-url-only
+  - fxa302-week05-transcript-duration-5-30-url-only
+  - fxa303-week11-transcript-duration-6-15-url-only
 tags:
 - manual-transcription
 title: Manual Transcription
 type: topic
-updated: 2026-05-04
+updated: 2026-08-07
 ---
 
 ## Manual Transcription
@@ -28,3 +30,5 @@ The sources discuss the process of creating transcriptions from audio or video r
 ## Sources
 
 - [fxa301-week08-transcript-youtube-vyjzrflr50e-url-only](../sources/fxa301-week08-transcript-youtube-vyjzrflr50e-url-only.md)
+- [fxa302-week05-transcript-duration-5-30-url-only](../sources/fxa302-week05-transcript-duration-5-30-url-only.md)
+- [fxa303-week11-transcript-duration-6-15-url-only](../sources/fxa303-week11-transcript-duration-6-15-url-only.md)

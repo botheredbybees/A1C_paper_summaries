@@ -7,6 +7,7 @@ sources:
   - fxa202-week09-healing-through-art-and-music
   - fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture
   - fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music
+  - fxa301-week10-art-helps-veterans-and-first-responders-heal-from-post
   - fxa301-week10-lesson-fxa301-week10-page-1
   - fxa301-week10-social-action-in-art-therapy-with-veterans
   - fxa302-week02-the-healing-power-of-greek-tragedy
@@ -21,7 +22,7 @@ tags:
 - trauma-recovery
 title: Trauma Recovery Through Creative Arts and Therapies
 type: topic
-updated: 2026-07-13
+updated: 2026-08-07
 ---
 
 ## Trauma Recovery Through Creative Arts and Therapies
@@ -44,6 +45,7 @@ The sources collectively highlight the multifaceted role of creative arts and th
 - [fxa202-week09-healing-through-art-and-music](../sources/fxa202-week09-healing-through-art-and-music.md)
 - [fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture](../sources/fxa202-week10-reimagining-trauma-through-therapeutic-self-portraiture.md)
 - [fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music](../sources/fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music.md)
+- [fxa301-week10-art-helps-veterans-and-first-responders-heal-from-post](../sources/fxa301-week10-art-helps-veterans-and-first-responders-heal-from-post.md)
 - [fxa301-week10-lesson-fxa301-week10-page-1](../sources/fxa301-week10-lesson-fxa301-week10-page-1.md)
 - [fxa301-week10-social-action-in-art-therapy-with-veterans](../sources/fxa301-week10-social-action-in-art-therapy-with-veterans.md)
 - [fxa302-week02-the-healing-power-of-greek-tragedy](../sources/fxa302-week02-the-healing-power-of-greek-tragedy.md)

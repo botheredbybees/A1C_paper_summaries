@@ -5,10 +5,11 @@ title: "Healthcare Clowning"
 confidence: medium
 tags: ["healthcare-clowning"]
 sources:
+  - fxa301-week08-clown-doctors-australia-social-impact-report
   - fxa303-send-in-the-clowns-ch02-1997-he-will-be-the-next-artistic-director-of-healthy-humor
   - fxa303-week13-clowning-during-covid-19-a-survey-of-european-healthcare
   - fxa303-week13-improving-collaboration-between-staff-family-members-and
-updated: 2026-05-15
+updated: 2026-08-07
 ---
 
 ## Healthcare Clowning
@@ -27,6 +28,7 @@ The concept of healthcare clowning, a form of artistic intervention in medical s
 
 ## Sources
 
+- [fxa301-week08-clown-doctors-australia-social-impact-report](../sources/fxa301-week08-clown-doctors-australia-social-impact-report.md)
 - [fxa303-send-in-the-clowns-ch02-1997-he-will-be-the-next-artistic-director-of-healthy-humor](../sources/fxa303-send-in-the-clowns-ch02-1997-he-will-be-the-next-artistic-director-of-healthy-humor.md)
 - [fxa303-week13-clowning-during-covid-19-a-survey-of-european-healthcare](../sources/fxa303-week13-clowning-during-covid-19-a-survey-of-european-healthcare.md)
 - [fxa303-week13-improving-collaboration-between-staff-family-members-and](../sources/fxa303-week13-improving-collaboration-between-staff-family-members-and.md)

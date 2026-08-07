@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ethical-principles-in-research
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Ethical Principles In Research

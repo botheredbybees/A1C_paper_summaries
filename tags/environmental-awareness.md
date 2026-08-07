@@ -1,10 +1,11 @@
 ---
 type: tag
 tag: environmental-awareness
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Environmental Awareness
 
+- [Critical Reflection on Present Mindedness and Mindfulness Practices](../sources/fxa202-week03-critical-reflection-on-present-mindedness-and-mindfulness.md)
 - [Using photography for wellbeing - FXA202 The Photo Essay: Storytelling with image and text](../sources/fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay.md)
 - [Happy Museum Learning Evaluation Report](../sources/fxa301-week05-happy-museum-learning-evaluation-report.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-in-health
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Arts In Health
@@ -37,4 +37,6 @@ updated: 2026-07-28
 - [The Role of the Arts in Healthcare: Transforming Lives, Creating Community](../sources/fxa301-week03-the-role-of-the-arts-in-healthcare-transforming-lives.md)
 - [Welcome to Week 3 - FXA301 Arts in the Community](../sources/fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community.md)
 - [Theatre of Wandering: Rehearsal and Devising Notes [Part 1]](../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1.md)
+- [Arts, Health and Well-Being: A Critical Perspective on Research, Policy and Practice](../sources/fxa302-week01-arts-health-and-well-being-a-critical-perspective-on.md)
+- [Arts, health & wellbeing: reflections on a national seminar series and building a UK research network](../sources/fxa302-week01-arts-health-wellbeing-reflections-on-a-national-seminar.md)
 - [FXA302 Week 1 Introduction](../sources/fxa302-week01-fxa302-week-1-introduction-%282%29.md)

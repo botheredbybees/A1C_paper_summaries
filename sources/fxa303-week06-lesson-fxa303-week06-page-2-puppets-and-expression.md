@@ -11,7 +11,7 @@ tags: ["puppet-therapy", "creative-arts", "mental-wellbeing", "fxa303"]
 key_concepts: ["externalization of problems", "re-evaluation of painful memories", "emotional regulation"]
 methods: []
 slug: fxa303-week06-lesson-fxa303-week06-page-2-puppets-and-expression
-related: ["creative-arts", "mental-wellbeing", "puppet-therapy"]
+related: ["creative-arts", "mental-wellbeing", "puppet-assisted-play-therapy-for-children"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,4 +43,4 @@ This lesson explores the expressive capabilities of puppets in play-based therap
 
 - [creative-arts](../topics/creative-arts.md)
 - [mental-wellbeing](../topics/mental-wellbeing.md)
-- [puppet-therapy](../topics/puppet-therapy.md)
+- [puppet-assisted-play-therapy-for-children](../topics/puppet-assisted-play-therapy-for-children.md)

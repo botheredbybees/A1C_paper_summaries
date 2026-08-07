@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ancient-medical-texts
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Ancient Medical Texts

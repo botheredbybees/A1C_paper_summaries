@@ -11,7 +11,7 @@ tags: ["music-education", "cognitive-development", "executive-functions", "longi
 key_concepts: ["executive-functions", "structured-music-education", "academic-performance"]
 methods: ["longitudinal-analysis", "randomized-control-trial"]
 slug: fxa101-week03-longitudinal-analysis-of-music-education-on-executive
-related: ["cognitive-development", "executive-functions", "longitudinal-study", "music-education", "structured-music-education"]
+related: ["academic-performance", "cognitive-development", "executive-functions", "longitudinal-study", "music-education", "structured-music-education"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -47,6 +47,7 @@ This research contributes to understanding the cognitive benefits of structured 
 
 ## See Also
 
+- [academic-performance](../topics/academic-performance.md)
 - [cognitive-development](../topics/cognitive-development.md)
 - [executive-functions](../topics/executive-functions.md)
 - [longitudinal-study](../topics/longitudinal-study.md)

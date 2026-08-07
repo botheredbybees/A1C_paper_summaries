@@ -1,12 +1,13 @@
 ---
 type: tag
 tag: community-music
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Community Music
 
 - [Engaging in Community Music: An Introduction](../sources/fxa100-week04-engaging-in-community-music-an-introduction.md)
+- [Singing and Participation](../sources/fxa100-week04-singing-and-participation-%282%29.md)
 - [Culture of Inquiry](../sources/fxa301-week01-culture-of-inquiry.md)
 - [Engaging in Community Music: An Introduction](../sources/fxa301-week01-engaging-in-community-music-an-introduction.md)
 - [Engaging in Community Music: An Introduction](../sources/fxa301-week01-engaging-in-community-music-an-introduction-%282%29.md)

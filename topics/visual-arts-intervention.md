@@ -3,8 +3,10 @@ confidence: high
 domain: intervention
 slug: visual-arts-intervention-for-dementia-care
 sources:
+  - fxa100-week06-exploring-the-theoretical-foundations-of-visual-art
   - fxa100-week06-the-role-of-the-visual-arts-in-the-resilience-of-people
   - fxa100-week07-lesson-fxa100-week07-page-4-activities
+  - fxa100-week07-what-are-the-benefits-of-engaging-with-the-visual-arts-in-a
   - fxa100-week08-lesson-fxa100-week07-page-1-welcome-to-week-7
   - fxa100-week08-lesson-fxa100-week07-page-2-communication-and-creativity
   - fxa100-week08-research-informed-approaches-to-visual-arts-programmes
@@ -12,7 +14,7 @@ tags:
 - visual-arts-intervention
 title: Visual Arts Intervention for Dementia Care
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Visual Arts Intervention for Dementia Care
@@ -31,8 +33,10 @@ The integration of visual arts into dementia care presents a promising non-pharm
 
 ## Sources
 
+- [fxa100-week06-exploring-the-theoretical-foundations-of-visual-art](../sources/fxa100-week06-exploring-the-theoretical-foundations-of-visual-art.md)
 - [fxa100-week06-the-role-of-the-visual-arts-in-the-resilience-of-people](../sources/fxa100-week06-the-role-of-the-visual-arts-in-the-resilience-of-people.md)
 - [fxa100-week07-lesson-fxa100-week07-page-4-activities](../sources/fxa100-week07-lesson-fxa100-week07-page-4-activities.md)
+- [fxa100-week07-what-are-the-benefits-of-engaging-with-the-visual-arts-in-a](../sources/fxa100-week07-what-are-the-benefits-of-engaging-with-the-visual-arts-in-a.md)
 - [fxa100-week08-lesson-fxa100-week07-page-1-welcome-to-week-7](../sources/fxa100-week08-lesson-fxa100-week07-page-1-welcome-to-week-7.md)
 - [fxa100-week08-lesson-fxa100-week07-page-2-communication-and-creativity](../sources/fxa100-week08-lesson-fxa100-week07-page-2-communication-and-creativity.md)
 - [fxa100-week08-research-informed-approaches-to-visual-arts-programmes](../sources/fxa100-week08-research-informed-approaches-to-visual-arts-programmes.md)

@@ -11,7 +11,7 @@ tags: ["applied-theatre", "elderly-wellbeing", "community-intervention", "fxa301
 key_concepts: ["Applied Theatre", "Well-being"]
 methods: ["semi-structured interviews", "observational study"]
 slug: fxa301-week08-web-article-sextou-2017
-related: ["applied-theatre", "elderly-wellbeing"]
+related: ["applied-theatre", "community-intervention", "elderly-wellbeing"]
 created: 2026-05-16
 updated: 2026-05-16
 ---
@@ -42,4 +42,5 @@ This article explores the application of recreational dramatic activities for ol
 ## See Also
 
 - [applied-theatre](../topics/applied-theatre.md)
+- [community-intervention](../topics/community-intervention.md)
 - [elderly-wellbeing](../topics/elderly-wellbeing.md)

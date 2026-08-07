@@ -17,7 +17,7 @@ tags: ["autism-spectrum-disorder", "social-communication-skills", "therapeutic-i
 key_concepts: ["attention-to-social-cues", "reciprocal-interactions", "simplified-social-stimuli"]
 methods: ["case-control-comparison"]
 slug: fxa303-week06-puppets-facilitate-attention-to-social-cues-in-children
-related: ["autism-spectrum-disorder", "puppet-therapy", "therapeutic-interventions"]
+related: ["autism-spectrum-disorder", "puppet-assisted-play-therapy-for-children", "therapeutic-interventions"]
 created: 2026-05-03
 updated: 2026-05-16
 ---
@@ -50,5 +50,5 @@ This research article explores the effectiveness of using puppets as social agen
 ## See Also
 
 - [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)
-- [puppet-therapy](../topics/puppet-therapy.md)
+- [puppet-assisted-play-therapy-for-children](../topics/puppet-assisted-play-therapy-for-children.md)
 - [therapeutic-interventions](../topics/therapeutic-interventions.md)

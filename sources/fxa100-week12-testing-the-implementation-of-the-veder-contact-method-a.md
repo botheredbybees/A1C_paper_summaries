@@ -7,13 +7,15 @@ doi: https://doi.org/10.1093/geront/gnx200
 appearances:
   - unit: FXA100
     week: "12"
+  - unit: FXA100
+    week: "09"
 tags: ["dementia-care", "person-centered-care", "communication-methods", "theatrical-therapy", "caregiver-behavior", "fxa100"]
 key_concepts: ["Veder Contact Method", "person-centered care", "positive affect"]
 methods: ["quasi-experimental study"]
 slug: fxa100-week12-testing-the-implementation-of-the-veder-contact-method-a
 related: ["communication-methods", "dementia-care", "person-centered-care", "theatrical-therapy"]
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-week12-testing-the-implementation-of-the-veder-contact-method-a.md_

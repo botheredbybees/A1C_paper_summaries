@@ -11,7 +11,7 @@ tags: ["therapeutic-clowns", "disabled-children", "pediatric-rehabilitation", "e
 key_concepts: ["autonomic-nervous-system", "therapeutic-clowning", "patient-care"]
 methods: ["pilot-study"]
 slug: fxa303-week08-physiological-and-emotional-responses-of-disabled-children
-related: ["emotional-wellbeing", "physiological-responses", "therapeutic-clowns"]
+related: ["emotional-wellbeing", "physiological-responses", "therapeutic-clowning"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,4 +45,4 @@ This pilot study investigates the impact of therapeutic clowning on disabled chi
 
 - [emotional-wellbeing](../topics/emotional-wellbeing.md)
 - [physiological-responses](../topics/physiological-responses.md)
-- [therapeutic-clowns](../topics/therapeutic-clowns.md)
+- [therapeutic-clowning](../topics/therapeutic-clowning.md)

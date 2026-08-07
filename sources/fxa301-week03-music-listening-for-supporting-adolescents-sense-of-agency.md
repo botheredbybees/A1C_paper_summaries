@@ -11,7 +11,7 @@ tags: ["music-listening", "adolescent-development", "sense-of-agency", "daily-li
 key_concepts: ["sense of agency", "self-efficacy", "emotional states"]
 methods: ["mobile app data collection", "qualitative analysis"]
 slug: fxa301-week03-music-listening-for-supporting-adolescents-sense-of-agency
-related: ["adolescent-development", "well-being"]
+related: ["adolescent-development", "music-listening", "well-being"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,4 +45,5 @@ This study investigates the impact of music listening on adolescents' sense of a
 ## See Also
 
 - [adolescent-development](../topics/adolescent-development.md)
+- [music-listening](../topics/music-listening.md)
 - [well-being](../topics/well-being.md)

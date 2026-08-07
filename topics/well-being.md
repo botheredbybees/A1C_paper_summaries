@@ -4,7 +4,10 @@ domain: intervention
 slug: well-being-through-creative-arts
 sources:
   - fxa100-week04-transcript-cale-research-aged-care-deloraine-partnership
+  - fxa100-week07-the-impact-of-creative-engagement-in-museum-activities-on
+  - fxa100-week08-using-technology-to-assist-creative-arts-activities-in
   - fxa100-week11-more-than-just-movement-exploring-embodied-group-synchrony
+  - fxa100-week13-a-brief-report-on-reviews-of-existing-creative-artbased
   - fxa301-make-arts-for-a-better-life-ch17-1-for-further-study-on-communication-channels
   - fxa301-week01-evaluating-community-arts-community-well-being
   - fxa301-week01-evaluating-community-arts-community-well-being-an
@@ -21,11 +24,12 @@ sources:
   - fxa303-week11-social-isolation-and-connectedness-as-determinants-of-well
   - psy214-week02-lesson-psy214-week02-week-3-introduction
   - psy214-week02-positive-emotions-and-well-being
+  - psy214-week07-mindfulness-based-social-work-and-self-care-with-social
 tags:
 - well-being
 title: Well-Being Through Creative Arts
 type: topic
-updated: 2026-07-20
+updated: 2026-08-07
 ---
 
 ## Well-Being Through Creative Arts
@@ -45,7 +49,10 @@ The integration of creative arts as an intervention to improve well-being is a r
 ## Sources
 
 - [fxa100-week04-transcript-cale-research-aged-care-deloraine-partnership](../sources/fxa100-week04-transcript-cale-research-aged-care-deloraine-partnership.md)
+- [fxa100-week07-the-impact-of-creative-engagement-in-museum-activities-on](../sources/fxa100-week07-the-impact-of-creative-engagement-in-museum-activities-on.md)
+- [fxa100-week08-using-technology-to-assist-creative-arts-activities-in](../sources/fxa100-week08-using-technology-to-assist-creative-arts-activities-in.md)
 - [fxa100-week11-more-than-just-movement-exploring-embodied-group-synchrony](../sources/fxa100-week11-more-than-just-movement-exploring-embodied-group-synchrony.md)
+- [fxa100-week13-a-brief-report-on-reviews-of-existing-creative-artbased](../sources/fxa100-week13-a-brief-report-on-reviews-of-existing-creative-artbased.md)
 - [fxa301-make-arts-for-a-better-life-ch17-1-for-further-study-on-communication-channels](../sources/fxa301-make-arts-for-a-better-life-ch17-1-for-further-study-on-communication-channels.md)
 - [fxa301-week01-evaluating-community-arts-community-well-being](../sources/fxa301-week01-evaluating-community-arts-community-well-being.md)
 - [fxa301-week01-evaluating-community-arts-community-well-being-an](../sources/fxa301-week01-evaluating-community-arts-community-well-being-an.md)
@@ -62,3 +69,4 @@ The integration of creative arts as an intervention to improve well-being is a r
 - [fxa303-week11-social-isolation-and-connectedness-as-determinants-of-well](../sources/fxa303-week11-social-isolation-and-connectedness-as-determinants-of-well.md)
 - [psy214-week02-lesson-psy214-week02-week-3-introduction](../sources/psy214-week02-lesson-psy214-week02-week-3-introduction.md)
 - [psy214-week02-positive-emotions-and-well-being](../sources/psy214-week02-positive-emotions-and-well-being.md)
+- [psy214-week07-mindfulness-based-social-work-and-self-care-with-social](../sources/psy214-week07-mindfulness-based-social-work-and-self-care-with-social.md)

@@ -10,11 +10,12 @@ sources:
   - fxa303-week02-infancy-and-the-early-years
   - fxa303-week02-lesson-fxa303-week02-topic-activities-2
   - fxa303-week02-scientific-thinking-in-young-children-theoretical-advances
+  - fxa303-week05-supporting-expressive-communication-for-social-and
 tags:
 - early-childhood-development
 title: Early Childhood Development
 type: topic
-updated: 2026-07-20
+updated: 2026-08-07
 ---
 
 ## Early Childhood Development
@@ -40,3 +41,4 @@ The topic of early childhood development encompasses critical interventions and 
 - [fxa303-week02-infancy-and-the-early-years](../sources/fxa303-week02-infancy-and-the-early-years.md)
 - [fxa303-week02-lesson-fxa303-week02-topic-activities-2](../sources/fxa303-week02-lesson-fxa303-week02-topic-activities-2.md)
 - [fxa303-week02-scientific-thinking-in-young-children-theoretical-advances](../sources/fxa303-week02-scientific-thinking-in-young-children-theoretical-advances.md)
+- [fxa303-week05-supporting-expressive-communication-for-social-and](../sources/fxa303-week05-supporting-expressive-communication-for-social-and.md)

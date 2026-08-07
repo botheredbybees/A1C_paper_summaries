@@ -4,6 +4,7 @@ domain: intervention
 slug: patient-wellbeing-interventions
 sources:
   - fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a
+  - fxa301-week08-clown-doctors-australia-national-impact-summary
   - fxa302-week01-expanding-clinical-empathy-an-activist-perspective
   - fxa302-week01-visual-arts
   - fxa303-week08-more-than-just-an-entertainment-show-identification-of
@@ -14,7 +15,7 @@ tags:
 - patient-wellbeing
 title: Patient Wellbeing Interventions
 type: topic
-updated: 2026-07-06
+updated: 2026-08-07
 ---
 
 ## Patient Wellbeing Interventions
@@ -34,6 +35,7 @@ The provided sources focus on two distinct yet complementary interventions desig
 ## Sources
 
 - [fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a](../sources/fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a.md)
+- [fxa301-week08-clown-doctors-australia-national-impact-summary](../sources/fxa301-week08-clown-doctors-australia-national-impact-summary.md)
 - [fxa302-week01-expanding-clinical-empathy-an-activist-perspective](../sources/fxa302-week01-expanding-clinical-empathy-an-activist-perspective.md)
 - [fxa302-week01-visual-arts](../sources/fxa302-week01-visual-arts.md)
 - [fxa303-week08-more-than-just-an-entertainment-show-identification-of](../sources/fxa303-week08-more-than-just-an-entertainment-show-identification-of.md)

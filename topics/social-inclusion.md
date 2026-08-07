@@ -6,8 +6,10 @@ sources:
   - fxa100-week04-engaging-in-community-music-an-introduction
   - fxa100-week04-guidelines-for-arts-and-mental-health-projects
   - fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the
+  - fxa100-week07-art-and-dementia
   - fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales
   - fxa100-week07-arts-engagement-for-people-with-dementia-independent
+  - fxa100-week07-arts-engagement-for-people-with-dementia-independent-(2)
   - fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery
   - fxa100-week08-unlocking-the-door-to-being-there-the-contribution-of
   - fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2
@@ -24,7 +26,7 @@ tags:
 - social-inclusion
 title: Social Inclusion Through Arts and Music
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Social Inclusion Through Arts and Music
@@ -46,8 +48,10 @@ The synthesis of the provided sources highlights various interventions aimed at 
 - [fxa100-week04-engaging-in-community-music-an-introduction](../sources/fxa100-week04-engaging-in-community-music-an-introduction.md)
 - [fxa100-week04-guidelines-for-arts-and-mental-health-projects](../sources/fxa100-week04-guidelines-for-arts-and-mental-health-projects.md)
 - [fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the](../sources/fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the.md)
+- [fxa100-week07-art-and-dementia](../sources/fxa100-week07-art-and-dementia.md)
 - [fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales](../sources/fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales.md)
 - [fxa100-week07-arts-engagement-for-people-with-dementia-independent](../sources/fxa100-week07-arts-engagement-for-people-with-dementia-independent.md)
+- [fxa100-week07-arts-engagement-for-people-with-dementia-independent-(2)](../sources/fxa100-week07-arts-engagement-for-people-with-dementia-independent-%282%29.md)
 - [fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery](../sources/fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery.md)
 - [fxa100-week08-unlocking-the-door-to-being-there-the-contribution-of](../sources/fxa100-week08-unlocking-the-door-to-being-there-the-contribution-of.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2](../sources/fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2.md)

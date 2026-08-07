@@ -18,12 +18,14 @@ sources:
   - fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice
   - fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for
   - fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand
+  - fxa303-week09-art-therapy-with-children-and-adolescents-experiencing
   - fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms
+  - fxa303-week09-the-function-of-play-for-coping-and-therapy-with-children
 tags:
 - child-psychology
 title: Puppet-Assisted Play Therapy for Children
 type: topic
-updated: 2026-07-20
+updated: 2026-08-07
 ---
 
 ## Puppet-Assisted Play Therapy for Children
@@ -57,4 +59,6 @@ Puppet-assisted play therapy emerges as a versatile intervention in child psycho
 - [fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice](../sources/fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice.md)
 - [fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for](../sources/fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for.md)
 - [fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand](../sources/fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand.md)
+- [fxa303-week09-art-therapy-with-children-and-adolescents-experiencing](../sources/fxa303-week09-art-therapy-with-children-and-adolescents-experiencing.md)
 - [fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms](../sources/fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms.md)
+- [fxa303-week09-the-function-of-play-for-coping-and-therapy-with-children](../sources/fxa303-week09-the-function-of-play-for-coping-and-therapy-with-children.md)

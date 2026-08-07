@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: openness-and-conscientiousness
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Openness And Conscientiousness

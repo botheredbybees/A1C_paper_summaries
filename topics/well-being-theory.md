@@ -7,7 +7,8 @@ tags: ["well-being-theory"]
 sources:
   - psy214-week02-positive-emotions-as-a-path-to-well-being
   - psy214-week02-positive-psychology-the-basics
-updated: 2026-07-13
+  - psy214-week05-leisure-and-well-being-the-dramma-model
+updated: 2026-08-03
 ---
 
 ## Positive Psychology and Well-Being Theory
@@ -28,3 +29,4 @@ The theory of positive psychology emphasizes the importance of positive emotions
 
 - [psy214-week02-positive-emotions-as-a-path-to-well-being](../sources/psy214-week02-positive-emotions-as-a-path-to-well-being.md)
 - [psy214-week02-positive-psychology-the-basics](../sources/psy214-week02-positive-psychology-the-basics.md)
+- [psy214-week05-leisure-and-well-being-the-dramma-model](../sources/psy214-week05-leisure-and-well-being-the-dramma-model.md)

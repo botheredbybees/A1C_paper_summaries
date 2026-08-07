@@ -11,7 +11,7 @@ tags: ["therapeutic-clowning", "mental-wellbeing", "hospital-care", "childrens-h
 key_concepts: ["Patch Adams", "humor therapy", "play therapy"]
 methods: []
 slug: fxa303-week08-lesson-fxa303-week08-page-3-therapeutic-clowning
-related: ["mental-wellbeing", "therapeutic-clowning"]
+related: ["hospital-care", "mental-wellbeing", "therapeutic-clowning"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,5 +42,6 @@ This lesson explores the concept of therapeutic clowning in healthcare settings.
 
 ## See Also
 
+- [hospital-care](../topics/hospital-care.md)
 - [mental-wellbeing](../topics/mental-wellbeing.md)
 - [therapeutic-clowning](../topics/therapeutic-clowning.md)

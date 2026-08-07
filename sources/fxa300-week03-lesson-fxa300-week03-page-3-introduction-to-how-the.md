@@ -7,13 +7,15 @@ doi: null
 appearances:
   - unit: FXA300
     week: "03"
+  - unit: FXA300
+    week: "01"
 tags: ["universal-music-responses", "cultural-emotions", "musical-tuning-systems", "restaurant-auditory-experience", "emotional-contagion", "fxa300", "doctrine-of-the-affections", "brecvema-model"]
 key_concepts: ["Doctrine of the Affections", "BRECVEMA Model"]
 methods: []
 slug: fxa300-week03-lesson-fxa300-week03-page-3-introduction-to-how-the
 related: ["brecvema-model", "emotional-contagion"]
 created: 2026-07-21
-updated: 2026-07-21
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa300-week03-lesson-fxa300-week03-page-3-introduction-to-how-the.md_

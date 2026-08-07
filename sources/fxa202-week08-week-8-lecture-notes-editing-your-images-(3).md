@@ -7,11 +7,11 @@ doi: null
 appearances:
   - unit: FXA202
     week: "08"
-tags: ["photography-therapy", "mental-health", "creative-practice", "fxa202"]
+tags: ["creative-practice", "fxa202", "mental-health", "mindfulness-and-therapeutic-photography", "photography-therapy"]
 key_concepts: ["self-therapy", "biophilia hypothesis"]
 methods: ["case study"]
 slug: fxa202-week08-week-8-lecture-notes-editing-your-images-(3)
-related: ["creative-practice", "mental-health", "mindfulness-and-therapeutic-photography"]
+related: ["creative-practice", "mental-health", "mindfulness-and-therapeutic-photography", "mindfulness-practice-through-photography"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,3 +43,4 @@ This lecture note introduces students to the concept of using photography as sel
 - [creative-practice](../topics/creative-practice.md)
 - [mental-health](../topics/mental-health.md)
 - [mindfulness-and-therapeutic-photography](../topics/mindfulness-and-therapeutic-photography.md)
+- [mindfulness-practice-through-photography](../topics/mindfulness-practice-through-photography.md)

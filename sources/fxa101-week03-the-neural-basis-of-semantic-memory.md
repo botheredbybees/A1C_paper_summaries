@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "The neural basis of semantic memory"
-apa7: "Bonner, M. F., & Grossman, M. (2013). The neural basis of semantic memory. In L.-G. Nilsson, & N. Ohta (Eds.), Dementia and Memory (pp. 250-271). Taylor & Francis Group."
-doi: https://doi.org/10.4324/9781315851730-16
+apa7: "Bonner, M., & Grossman, M. (2013). The neural basis of semantic memory. https://doi.org/10.4324/9781315851730-22"
+doi: https://doi.org/10.4324/9781315851730-22
 appearances:
   - unit: FXA101
     week: "03"

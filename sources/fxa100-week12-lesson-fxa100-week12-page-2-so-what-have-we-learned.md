@@ -7,13 +7,17 @@ doi: null
 appearances:
   - unit: FXA100
     week: "12"
+  - unit: FXA100
+    week: "06"
+  - unit: FXA100
+    week: "07"
 tags: ["dementia-care", "creative-arts-interventions", "non-pharmacological-treatment", "fxa100"]
 key_concepts: ["person-centred care", "neuroaesthetics"]
 methods: []
 slug: fxa100-week12-lesson-fxa100-week12-page-2-so-what-have-we-learned
-related: ["creative-arts-interventions", "dementia-care"]
+related: ["creative-arts-interventions", "dementia-care", "neuropsychiatry"]
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-week12-lesson-fxa100-week12-page-2-so-what-have-we-learned.md_
@@ -42,3 +46,4 @@ This lesson discusses the application of various art forms in dementia care. It 
 
 - [creative-arts-interventions](../topics/creative-arts-interventions.md)
 - [dementia-care](../topics/dementia-care.md)
+- [neuropsychiatry](../topics/neuropsychiatry.md)

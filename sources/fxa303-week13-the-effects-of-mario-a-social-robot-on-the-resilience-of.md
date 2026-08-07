@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "The Effects of MARIO, a Social Robot, on the Resilience of People with Dementia: A Multiple Case Study"
-apa7: "Whelan, S., Burke, M., Barrett, E., Mannion, A., Kovacic, T., Santorelli, A., ... Casey, D. (2020). The effects of MARIO, a social robot, on the resilience of people with dementia: A multiple case study. Gerontechnology, 19(4), 7-18. https://doi.org/10.4017/gt.2020.19.issue-4"
-doi: https://doi.org/10.4017/gt.2020.20.007.09
+apa7: "Whelan, S., Burke, M., Barrett, E., Mannion, A., Kovacic, T., Santorelli, A., Oliveira, B., Gannon, L., Shiel, E., & Casey, D. (2020). The effects of MARIO, a social robot, on the resilience of people with dementia: A multiple case study. *Gerontechnology*. https://doi.org/10.4017/GT.2020.20.413.10"
+doi: https://doi.org/10.4017/GT.2020.20.413.10
 appearances:
   - unit: FXA303
     week: "13"
@@ -11,7 +11,7 @@ tags: ["case-study-research", "dementia-care", "facilitated-sessions", "fxa303",
 key_concepts: ["resilience", "social-robot-interaction", "facilitated-sessions"]
 methods: ["multiple-case-study"]
 slug: fxa303-week13-the-effects-of-mario-a-social-robot-on-the-resilience-of
-related: ["case-study-research", "dementia-care", "resilience-building"]
+related: ["case-study-research", "dementia-care", "resilience-building", "technology-assisted-interventions"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -44,3 +44,4 @@ This study investigates the impact of MARIO, a social robot designed to enhance 
 - [case-study-research](../topics/case-study-research.md)
 - [dementia-care](../topics/dementia-care.md)
 - [resilience-building](../topics/resilience-building.md)
+- [technology-assisted-interventions](../topics/technology-assisted-interventions.md)

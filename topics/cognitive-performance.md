@@ -6,8 +6,9 @@ confidence: medium
 tags: ["cognitive-performance"]
 sources:
   - fxa101-week04-brain-training-using-cognitive-apps-can-improve-cognitive
+  - fxa300-week03-familiar-music-reduces-mind-wandering-and-boosts-behavioral
   - fxa301-week06-does-music-help-us-work-better-it-depends
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Cognitive Performance Enhancement
@@ -26,4 +27,5 @@ The synthesis integrates findings on enhancing cognitive performance through var
 ## Sources
 
 - [fxa101-week04-brain-training-using-cognitive-apps-can-improve-cognitive](../sources/fxa101-week04-brain-training-using-cognitive-apps-can-improve-cognitive.md)
+- [fxa300-week03-familiar-music-reduces-mind-wandering-and-boosts-behavioral](../sources/fxa300-week03-familiar-music-reduces-mind-wandering-and-boosts-behavioral.md)
 - [fxa301-week06-does-music-help-us-work-better-it-depends](../sources/fxa301-week06-does-music-help-us-work-better-it-depends.md)

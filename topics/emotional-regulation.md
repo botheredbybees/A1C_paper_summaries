@@ -5,11 +5,15 @@ slug: emotional-regulation
 sources:
   - fxa100-week13-dance-movement-therapy-improves-emotional-responses-and
   - fxa300-week01-the-pleasures-of-sad-music-a-systematic-review
+  - fxa300-week05-global-music-streaming-data-reveal-diurnal-and-seasonal
+  - fxa300-week05-self-selected-favourite-stimulative-and-sedative-music
   - fxa301-week02-the-brain-and-how-we-perceive-information
   - fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and
   - fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd
   - fxa302-week03-how-art-museums-can-foster-the-flourishing-of-future
+  - fxa302-week09-how-music-can-help-relieve-chronic-pain
   - fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children
+  - fxa303-week02-web-lecture-2-week-2
   - fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental
   - fxa303-week06-lesson-fxa303-week06-page-4-week-6-activities
   - fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping
@@ -21,7 +25,7 @@ tags:
 - emotional-regulation
 title: Emotional Regulation
 type: topic
-updated: 2026-07-20
+updated: 2026-08-07
 ---
 
 ## Emotional Regulation
@@ -42,11 +46,15 @@ The synthesis integrates various aspects of emotional regulation across diverse 
 
 - [fxa100-week13-dance-movement-therapy-improves-emotional-responses-and](../sources/fxa100-week13-dance-movement-therapy-improves-emotional-responses-and.md)
 - [fxa300-week01-the-pleasures-of-sad-music-a-systematic-review](../sources/fxa300-week01-the-pleasures-of-sad-music-a-systematic-review.md)
+- [fxa300-week05-global-music-streaming-data-reveal-diurnal-and-seasonal](../sources/fxa300-week05-global-music-streaming-data-reveal-diurnal-and-seasonal.md)
+- [fxa300-week05-self-selected-favourite-stimulative-and-sedative-music](../sources/fxa300-week05-self-selected-favourite-stimulative-and-sedative-music.md)
 - [fxa301-week02-the-brain-and-how-we-perceive-information](../sources/fxa301-week02-the-brain-and-how-we-perceive-information.md)
 - [fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and](../sources/fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and.md)
 - [fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd](../sources/fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd.md)
 - [fxa302-week03-how-art-museums-can-foster-the-flourishing-of-future](../sources/fxa302-week03-how-art-museums-can-foster-the-flourishing-of-future.md)
+- [fxa302-week09-how-music-can-help-relieve-chronic-pain](../sources/fxa302-week09-how-music-can-help-relieve-chronic-pain.md)
 - [fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children](../sources/fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children.md)
+- [fxa303-week02-web-lecture-2-week-2](../sources/fxa303-week02-web-lecture-2-week-2.md)
 - [fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental](../sources/fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental.md)
 - [fxa303-week06-lesson-fxa303-week06-page-4-week-6-activities](../sources/fxa303-week06-lesson-fxa303-week06-page-4-week-6-activities.md)
 - [fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping](../sources/fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping.md)

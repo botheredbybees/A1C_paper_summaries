@@ -6,6 +6,7 @@ sources:
   - fxa100-week01-living-with-dementia-12-what-is-vascular-dementia
   - fxa100-week01-transcript-dementia-australia
   - fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining
+  - fxa100-week06-art-creativity-(2)
   - fxa100-week11-dancing-and-the-brain
   - fxa100-week13-exercise-benefits-on-alzheimers-disease-state-of-the-science
   - fxa101-week01-creativity-is-good-for-the-brain-and-might-even-slow-down
@@ -15,11 +16,12 @@ sources:
   - fxa101-week03-lifestyle-patterns-and-cognitive-reserve
   - fxa101-week03-nonpharmacologic-treatment-and-prevention-strategies-for
   - fxa300-week03-transcript-youtube-yogabkjgrta
+  - fxa300-week05-sound-health-music-and-the-mind-the-new-initiative-of-the
 tags:
 - brain-health
 title: Brain Health and Cognitive Decline
 type: topic
-updated: 2026-07-21
+updated: 2026-08-07
 ---
 
 ## Brain Health and Cognitive Decline
@@ -41,6 +43,7 @@ The sources collectively highlight the multifactorial nature of brain health and
 - [fxa100-week01-living-with-dementia-12-what-is-vascular-dementia](../sources/fxa100-week01-living-with-dementia-12-what-is-vascular-dementia.md)
 - [fxa100-week01-transcript-dementia-australia](../sources/fxa100-week01-transcript-dementia-australia.md)
 - [fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining](../sources/fxa100-week01-vital-role-of-visceral-adipose-tissue-in-maintaining.md)
+- [fxa100-week06-art-creativity-(2)](../sources/fxa100-week06-art-creativity-%282%29.md)
 - [fxa100-week11-dancing-and-the-brain](../sources/fxa100-week11-dancing-and-the-brain.md)
 - [fxa100-week13-exercise-benefits-on-alzheimers-disease-state-of-the-science](../sources/fxa100-week13-exercise-benefits-on-alzheimers-disease-state-of-the-science.md)
 - [fxa101-week01-creativity-is-good-for-the-brain-and-might-even-slow-down](../sources/fxa101-week01-creativity-is-good-for-the-brain-and-might-even-slow-down.md)
@@ -50,3 +53,4 @@ The sources collectively highlight the multifactorial nature of brain health and
 - [fxa101-week03-lifestyle-patterns-and-cognitive-reserve](../sources/fxa101-week03-lifestyle-patterns-and-cognitive-reserve.md)
 - [fxa101-week03-nonpharmacologic-treatment-and-prevention-strategies-for](../sources/fxa101-week03-nonpharmacologic-treatment-and-prevention-strategies-for.md)
 - [fxa300-week03-transcript-youtube-yogabkjgrta](../sources/fxa300-week03-transcript-youtube-yogabkjgrta.md)
+- [fxa300-week05-sound-health-music-and-the-mind-the-new-initiative-of-the](../sources/fxa300-week05-sound-health-music-and-the-mind-the-new-initiative-of-the.md)

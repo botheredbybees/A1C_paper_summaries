@@ -5,12 +5,13 @@ slug: cognitive-training
 sources:
   - fxa100-week09-key-intervention-categories-to-provide-person-centered
   - fxa101-week04-cognitive-and-memory-training-in-adults-at-risk-of-dementia
+  - fxa101-week04-cognitive-reserve-and-brain-changes-in-ageing
   - fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to
 tags:
 - cognitive-training
 title: Cognitive Training
 type: topic
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Cognitive Training
@@ -31,4 +32,5 @@ The concept of cognitive training is a key intervention category within the broa
 
 - [fxa100-week09-key-intervention-categories-to-provide-person-centered](../sources/fxa100-week09-key-intervention-categories-to-provide-person-centered.md)
 - [fxa101-week04-cognitive-and-memory-training-in-adults-at-risk-of-dementia](../sources/fxa101-week04-cognitive-and-memory-training-in-adults-at-risk-of-dementia.md)
+- [fxa101-week04-cognitive-reserve-and-brain-changes-in-ageing](../sources/fxa101-week04-cognitive-reserve-and-brain-changes-in-ageing.md)
 - [fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to](../sources/fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to.md)

@@ -11,7 +11,7 @@ tags: ["dementia-care", "elements-of-effective-visual-art-intervention", "facili
 key_concepts: ["effective-intervention-elements", "participant-choice", "skilled-facilitation"]
 methods: ["qualitative-exploration"]
 slug: fxa100-week08-what-are-the-required-elements-needed-to-create-an
-related: ["dementia-care", "qualitative-research"]
+related: ["dementia-care", "qualitative-research", "visual-arts-intervention-for-dementia-care"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,3 +44,4 @@ This paper explores the essential components necessary for an effective visual a
 
 - [dementia-care](../topics/dementia-care.md)
 - [qualitative-research](../topics/qualitative-research.md)
+- [visual-arts-intervention-for-dementia-care](../topics/visual-arts-intervention-for-dementia-care.md)

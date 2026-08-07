@@ -3,12 +3,13 @@ confidence: low
 domain: intervention
 slug: laughter-as-healing
 sources:
+
 - fxa303-week08-transcript-bbc-news-5-march-2018-clowns-bring-joy-to-refugee
 tags:
 - laughter-as-healing
 title: Laughter as Healing
 type: topic
-updated: 2026-05-04
+updated: 2026-08-07
 ---
 
 ## Laughter as Healing
@@ -27,4 +28,4 @@ Across sources, the use of laughter and humor in therapeutic contexts demonstrat
 
 ## Sources
 
-- [fxa303-week08-transcript-bbc-news-5-march-2018-clowns-bring-joy-to-refugee](../sources/fxa303-week08-transcript-bbc-news-5-march-2018-clowns-bring-joy-to-refugee.md)
+

@@ -4,12 +4,13 @@ domain: intervention
 slug: health-disparities-in-end-of-life-care-and-migration
 sources:
   - fxa301-week03-challenges-in-end-of-life-care-and-bereavement
+  - fxa301-week03-introduction-to-creative-health
   - fxa303-week10-health-and-well-being-of-male-international-migrants-and
 tags:
 - health-disparities
 title: Health Disparities in End-of-Life Care and Migration
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Health Disparities in End-of-Life Care and Migration
@@ -29,4 +30,5 @@ The provided sources highlight significant health disparities affecting both end
 ## Sources
 
 - [fxa301-week03-challenges-in-end-of-life-care-and-bereavement](../sources/fxa301-week03-challenges-in-end-of-life-care-and-bereavement.md)
+- [fxa301-week03-introduction-to-creative-health](../sources/fxa301-week03-introduction-to-creative-health.md)
 - [fxa303-week10-health-and-well-being-of-male-international-migrants-and](../sources/fxa303-week10-health-and-well-being-of-male-international-migrants-and.md)

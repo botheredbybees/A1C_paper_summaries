@@ -4,6 +4,7 @@ domain: intervention
 slug: self-care-strategies
 sources:
   - fxa100-creativity-and-communication-ch13-23-making-space-for-your-own-creativity-making-space-for
+  - fxa100-week11-the-arts-as-a-medium-for-care-and-self-care-in-dementia
   - fxa303-week05-puppets-and-self-care-for-task-2
   - fxa303-week11-mapping-q-the-university-of-arizona-museum-of-art
   - psy214-week01-coping-in-stress-self-care-and-mindfulness
@@ -14,13 +15,21 @@ sources:
   - psy214-week02-hedonia-and-eudaimonia-notes-slides
   - psy214-week02-lesson-psy214-week02-wrap-up
   - psy214-week02-self-care-for-allied-health-professionals
+  - psy214-week03-lesson-psy214-week03-at3-workbook-assessment-workshop
+  - psy214-week03-lesson-psy214-week03-introduction
+  - psy214-week03-lesson-psy214-week03-presentation-assignment-workshop
   - psy214-week04-lesson-psy214-week04-week-4-introduction
   - psy214-week04-lesson-psy214-week04-week-4-wrap-up-2
+  - psy214-week05-lesson-psy214-week05-relaxation-informal
+  - psy214-week05-lesson-psy214-week05-sleep-sleep-hygiene-approaches
+  - psy214-week07-an-adapted-four-week-mindbody-skills-group-for-medical
+  - psy214-week07-mindfulness-as-a-self-care-strategy-for-healthcare
+  - psy214-week07-self-care-skills-to-prevent-burnout-a-pilot-study-embedding
 tags:
 - self-care-strategies
 title: Self-Care Strategies
 type: topic
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Self-Care Strategies
@@ -39,6 +48,7 @@ The sources explore different self-care strategies that individuals can adopt to
 ## Sources
 
 - [fxa100-creativity-and-communication-ch13-23-making-space-for-your-own-creativity-making-space-for](../sources/fxa100-creativity-and-communication-ch13-23-making-space-for-your-own-creativity-making-space-for.md)
+- [fxa100-week11-the-arts-as-a-medium-for-care-and-self-care-in-dementia](../sources/fxa100-week11-the-arts-as-a-medium-for-care-and-self-care-in-dementia.md)
 - [fxa303-week05-puppets-and-self-care-for-task-2](../sources/fxa303-week05-puppets-and-self-care-for-task-2.md)
 - [fxa303-week11-mapping-q-the-university-of-arizona-museum-of-art](../sources/fxa303-week11-mapping-q-the-university-of-arizona-museum-of-art.md)
 - [psy214-week01-coping-in-stress-self-care-and-mindfulness](../sources/psy214-week01-coping-in-stress-self-care-and-mindfulness.md)
@@ -49,5 +59,13 @@ The sources explore different self-care strategies that individuals can adopt to
 - [psy214-week02-hedonia-and-eudaimonia-notes-slides](../sources/psy214-week02-hedonia-and-eudaimonia-notes-slides.md)
 - [psy214-week02-lesson-psy214-week02-wrap-up](../sources/psy214-week02-lesson-psy214-week02-wrap-up.md)
 - [psy214-week02-self-care-for-allied-health-professionals](../sources/psy214-week02-self-care-for-allied-health-professionals.md)
+- [psy214-week03-lesson-psy214-week03-at3-workbook-assessment-workshop](../sources/psy214-week03-lesson-psy214-week03-at3-workbook-assessment-workshop.md)
+- [psy214-week03-lesson-psy214-week03-introduction](../sources/psy214-week03-lesson-psy214-week03-introduction.md)
+- [psy214-week03-lesson-psy214-week03-presentation-assignment-workshop](../sources/psy214-week03-lesson-psy214-week03-presentation-assignment-workshop.md)
 - [psy214-week04-lesson-psy214-week04-week-4-introduction](../sources/psy214-week04-lesson-psy214-week04-week-4-introduction.md)
 - [psy214-week04-lesson-psy214-week04-week-4-wrap-up-2](../sources/psy214-week04-lesson-psy214-week04-week-4-wrap-up-2.md)
+- [psy214-week05-lesson-psy214-week05-relaxation-informal](../sources/psy214-week05-lesson-psy214-week05-relaxation-informal.md)
+- [psy214-week05-lesson-psy214-week05-sleep-sleep-hygiene-approaches](../sources/psy214-week05-lesson-psy214-week05-sleep-sleep-hygiene-approaches.md)
+- [psy214-week07-an-adapted-four-week-mindbody-skills-group-for-medical](../sources/psy214-week07-an-adapted-four-week-mindbody-skills-group-for-medical.md)
+- [psy214-week07-mindfulness-as-a-self-care-strategy-for-healthcare](../sources/psy214-week07-mindfulness-as-a-self-care-strategy-for-healthcare.md)
+- [psy214-week07-self-care-skills-to-prevent-burnout-a-pilot-study-embedding](../sources/psy214-week07-self-care-skills-to-prevent-burnout-a-pilot-study-embedding.md)

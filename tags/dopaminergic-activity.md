@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dopaminergic-activity
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Dopaminergic Activity

@@ -11,7 +11,7 @@ tags: ["hedonia", "eudaimonia", "well-being", "happiness", "psychological-well-b
 key_concepts: ["hedonia", "eudaimonia", "subjective well-being"]
 methods: []
 slug: psy214-week02-lesson-psy214-week02-week-3-introduction
-related: ["eudaimonia", "hedonia", "psychological-well-being", "well-being"]
+related: ["eudaimonic-well-being", "hedonia", "psychological-well-being", "well-being"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -41,7 +41,7 @@ This lesson explores the concepts of well-being and happiness in the context of 
 
 ## See Also
 
-- [eudaimonia](../topics/eudaimonia.md)
+- [eudaimonic-well-being](../topics/eudaimonic-well-being.md)
 - [hedonia](../topics/hedonia.md)
 - [psychological-well-being](../topics/psychological-well-being.md)
 - [well-being](../topics/well-being.md)

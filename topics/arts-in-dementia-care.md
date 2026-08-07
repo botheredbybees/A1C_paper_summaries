@@ -5,12 +5,14 @@ slug: arts-in-dementia-care
 sources:
   - fxa100-week04-lecture-notes-for-fxa100-the-arts-and-dementia-care
   - fxa100-week04-week-4-activities-fxa100-the-arts-and-dementia-care
+  - fxa100-week07-week-7-lecture-notes-arts-and-dementia-care
+  - fxa100-week10-building-creative-communities-of-care-arts-dementia-and
   - fxa100-week12-lesson-fxa100-week12-take-a-bow
 tags:
 - arts-in-dementia-care
 title: Arts in Dementia Care
 type: topic
-updated: 2026-05-18
+updated: 2026-08-07
 ---
 
 ## Arts in Dementia Care
@@ -31,4 +33,6 @@ The integration of arts-based therapies in dementia care has been advocated as a
 
 - [fxa100-week04-lecture-notes-for-fxa100-the-arts-and-dementia-care](../sources/fxa100-week04-lecture-notes-for-fxa100-the-arts-and-dementia-care.md)
 - [fxa100-week04-week-4-activities-fxa100-the-arts-and-dementia-care](../sources/fxa100-week04-week-4-activities-fxa100-the-arts-and-dementia-care.md)
+- [fxa100-week07-week-7-lecture-notes-arts-and-dementia-care](../sources/fxa100-week07-week-7-lecture-notes-arts-and-dementia-care.md)
+- [fxa100-week10-building-creative-communities-of-care-arts-dementia-and](../sources/fxa100-week10-building-creative-communities-of-care-arts-dementia-and.md)
 - [fxa100-week12-lesson-fxa100-week12-take-a-bow](../sources/fxa100-week12-lesson-fxa100-week12-take-a-bow.md)

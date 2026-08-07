@@ -11,11 +11,12 @@ sources:
   - psy214-week00-gratitude-and-health-an-updated-review
   - psy214-week00-physical-activity-and-depression-towards-understanding-the
   - psy214-week00-the-effects-of-loving-kindness-interventions-on-positive
+  - psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on
 tags:
 - mental-health-outcomes
 title: Creative Arts and Play-Based Interventions for Mental Health
 type: topic
-updated: 2026-06-25
+updated: 2026-08-07
 ---
 
 ## Creative Arts and Play-Based Interventions for Mental Health
@@ -42,3 +43,4 @@ The integration of creative arts and play-based interventions has shown promisin
 - [psy214-week00-gratitude-and-health-an-updated-review](../sources/psy214-week00-gratitude-and-health-an-updated-review.md)
 - [psy214-week00-physical-activity-and-depression-towards-understanding-the](../sources/psy214-week00-physical-activity-and-depression-towards-understanding-the.md)
 - [psy214-week00-the-effects-of-loving-kindness-interventions-on-positive](../sources/psy214-week00-the-effects-of-loving-kindness-interventions-on-positive.md)
+- [psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on](../sources/psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on.md)

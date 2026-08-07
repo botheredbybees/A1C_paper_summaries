@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Different but Connected: Participatory Action Research Using Photovoice to Explore Well-being in Autistic Young Adults"
-apa7: "Lam, G. Y., Holden, E., Fitzpatrick, M., Mendez, L. R., & Berkman, K. (2020). Different but connected: Participatory action research using photovoice to explore well-being in autistic young adults. Autism, 24(5), 1246\u20131259. https://doi.org/10.1177/1362361319898961"
-doi: https://doi.org/10.1177/13623613198961
+apa7: "Lam, G., Holden, E., Fitzpatrick, M., Mendez, L., & Berkman, K. (2020). “Different but connected”: Participatory action research using Photovoice to explore well-being in autistic young adults. *Autism*. https://doi.org/10.1177/1362361319898961"
+doi: https://doi.org/10.1177/1362361319898961
 appearances:
   - unit: FXA202
     week: "13"

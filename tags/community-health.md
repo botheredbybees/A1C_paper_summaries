@@ -1,11 +1,12 @@
 ---
 type: tag
 tag: community-health
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Community Health
 
+- [Music and Movement for Health: an arts-based Intervention to promote health and wellbeing of community dwelling older adults in Ireland](../sources/fxa300-week05-music-and-movement-for-health-an-arts-based-intervention-to.md)
 - [The means to flourish: arts in community health and education](../sources/fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6.md)
 - [The Role of Creative Arts in the Community](../sources/fxa301-week01-lesson-fxa301-week01-troubleshooting1.md)
 - [Promoting the health and wellbeing of young Black men using community-based drama](../sources/fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using.md)

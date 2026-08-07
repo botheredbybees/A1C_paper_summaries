@@ -7,11 +7,11 @@ doi: https://doi.org/10.1017/S1041610218001679
 appearances:
   - unit: FXA303
     week: "13"
-tags: ["bpsi-in-nursing-homes", "capability-considerations", "dementia-care-ergonomics", "ergonomic-interventions", "fxa303", "non-pharmacological-interventions"]
+tags: ["bpsi-in-nursing-homes", "capability-considerations", "cognitive-stimulation-therapy", "dementia-care-ergonomics", "ergonomic-interventions", "fxa303", "non-pharmacological-interventions"]
 key_concepts: ["Behavioral and Psychological Symptoms of Dementia (BPSD)", "Ergonomic Interventions", "Capability Considerations"]
 methods: ["systematic review"]
 slug: fxa303-week13-a-systematic-review-of-non-pharmacological-interventions
-related: ["cognitive-stimulation-therapy"]
+related: ["cognitive-stimulation-therapy", "music-therapy-in-dementia-care"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -40,3 +40,4 @@ This systematic review evaluates non-pharmacological interventions for Behaviora
 ## See Also
 
 - [cognitive-stimulation-therapy](../topics/cognitive-stimulation-therapy.md)
+- [music-therapy-in-dementia-care](../topics/music-therapy-in-dementia-care.md)

@@ -15,11 +15,11 @@ appearances:
     week: "01"
   - unit: FXA100
     week: "01"
-tags: ["arts-and-dementia", "creative-interventions", "well-being-enhancement", "cognitive-processing", "dementia-types", "fxa100"]
+tags: ["arts-and-dementia", "cognitive-processing", "creative-interventions", "creative-interventions-in-dementia-care", "dementia-types", "fxa100", "well-being-enhancement"]
 key_concepts: ["arts-based interventions", "dementia care", "mental well-being"]
 methods: ["lecture"]
 slug: fxa100-week01-introduction-to-fxa100-the-arts-and-dementia-care
-related: ["cognitive-processing", "creative-interventions", "creative-interventions-in-dementia-care", "dementia-types"]
+related: ["cognitive-processing", "creative-interventions", "creative-interventions-in-dementia-care", "dementia-care-interventions", "dementia-types"]
 created: 2026-05-03
 updated: 2026-05-05
 ---
@@ -32,7 +32,7 @@ The document provides an overview of the FXA100 course, which focuses on practic
 
 ## Key Concepts
 
-- [arts-based interventions](../topics/creative-interventions-in-dementia-care.md)
+- [arts-based interventions](../topics/dementia-care-interventions.md)
 - [dementia care](../topics/dementia-care.md)
 - [mental well-being](../topics/mental-well-being.md)
 
@@ -54,4 +54,5 @@ The document provides an overview of the FXA100 course, which focuses on practic
 - [cognitive-processing](../topics/cognitive-processing.md)
 - [creative-interventions](../topics/creative-interventions.md)
 - [creative-interventions-in-dementia-care](../topics/creative-interventions-in-dementia-care.md)
+- [dementia-care-interventions](../topics/dementia-care-interventions.md)
 - [dementia-types](../topics/dementia-types.md)

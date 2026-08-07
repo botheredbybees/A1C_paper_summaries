@@ -7,22 +7,22 @@ tags: ["behavioral-sciences"]
 sources:
   - fxa100-week13-review-of-statistical-power-analysis-for-the-behavioral
   - fxa100-week13-statistical-power-analysis-for-the-behavioral-sciences-by
-updated: 2026-05-15
+updated: 2026-08-07
 ---
 
 ## Statistical Power Analysis in Behavioral Sciences
 
-Jacob Cohen's seminal works on statistical power analysis for behavioral sciences emphasize the importance of understanding and calculating statistical power to ensure sufficient sample sizes for detecting significant effects. Both sources highlight how effect size and intraclass correlation coefficient play critical roles in these calculations. The integration of these concepts underscores a methodological approach that enhances the reliability and validity of research findings within behavioral sciences by providing researchers with tools to anticipate and mitigate Type II errors.
+The two sources emphasize the importance of statistical power analysis in designing effective behavioral science studies. Both texts by Jacob Cohen and a review thereof highlight that understanding and calculating sample sizes based on effect size are crucial for ensuring study outcomes have adequate power to detect true effects if they exist, thereby reducing Type II errors (failing to reject false null hypotheses). The sources discuss the intricacies of statistical power analysis, including methods such as calculating the intraclass correlation coefficient and considering effect sizes. However, while both texts agree on the necessity of robust power analysis in behavioral sciences research, there is a noted gap in practical application due to the complexity involved for researchers without strong statistical backgrounds.
 
 ## Key Findings
 
-- Statistical power analysis is crucial for ensuring adequate sample sizes in behavioral science studies.
-- Effect size is a key parameter in conducting power analyses, influencing both the detectability of effects and required sample sizes.
-- Intraclass correlation coefficients contribute to accurate power calculations, especially when dealing with correlated data structures.
+- Statistical power analysis is essential for effective study design in behavioral sciences.
+- Understanding effect size and intraclass correlation coefficient are vital components of conducting thorough power analyses.
+- Power analysis helps prevent Type II errors by ensuring adequate sample sizes.
 
 ## Open Questions
 
-- What are the implications for researchers who do not have access to advanced statistical tools or software for conducting comprehensive power analyses?
+- How can educational resources be developed to better support researchers with varying levels of statistical expertise in applying power analysis effectively?
 
 ## Sources
 

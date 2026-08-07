@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: childhood-experiences
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Childhood Experiences

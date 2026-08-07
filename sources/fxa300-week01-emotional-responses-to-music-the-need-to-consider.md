@@ -11,7 +11,7 @@ tags: ["music-emotions", "cognitive-mechanisms", "neuroaesthetics", "fxa300", "e
 key_concepts: ["emotional-contagion", "episodic-memory", "musical-expectancy"]
 methods: ["theoretical-framework"]
 slug: fxa300-week01-emotional-responses-to-music-the-need-to-consider
-related: ["emotional-contagion", "episodic-memory", "music-emotions", "musical-expectancy", "neuroaesthetics"]
+related: ["emotional-contagion", "episodic-memory", "expectation-theory", "music-and-induced-emotion", "neuroaesthetics"]
 created: 2026-07-06
 updated: 2026-07-06
 ---
@@ -44,6 +44,6 @@ This article discusses the challenge of explaining emotional responses to music,
 
 - [emotional-contagion](../topics/emotional-contagion.md)
 - [episodic-memory](../topics/episodic-memory.md)
-- [music-emotions](../topics/music-emotions.md)
-- [musical-expectancy](../topics/musical-expectancy.md)
+- [expectation-theory](../topics/expectation-theory.md)
+- [music-and-induced-emotion](../topics/music-and-induced-emotion.md)
 - [neuroaesthetics](../topics/neuroaesthetics.md)

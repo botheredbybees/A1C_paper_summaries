@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: community-value-through-participatory-art
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Community Value Through Participatory Art

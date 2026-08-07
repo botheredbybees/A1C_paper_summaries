@@ -11,7 +11,7 @@ tags: ["theater-of-the-oppressed", "laughter-and-wellbeing", "sexual-health-educ
 key_concepts: ["Theater of the Oppressed", "Laughter Therapy", "Peer Education"]
 methods: []
 slug: fxa301-week08-lesson-fxa301-week07-page-2-hm-copy
-related: []
+related: ["sexual-health-education"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,4 +41,4 @@ This lesson explores case studies of theatre and drama engagement focusing on th
 
 ## See Also
 
-*(none yet)*
+- [sexual-health-education](../topics/sexual-health-education.md)

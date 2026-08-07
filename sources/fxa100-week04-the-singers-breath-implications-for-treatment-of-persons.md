@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "The Singer's Breath: Implications for Treatment of Persons with Emphysema"
-apa7: "Engen, R. L. (2005). The singer\u2019s breath: implications for treatment of persons with emphysema. Journal of Music Therapy, XLII(1), 20-48."
-doi: https://doi.org/928265
+apa7: "Engen, R. (2005). The singer's breath: implications for treatment of persons with emphysema.. *The Journal of music therapy*. https://doi.org/10.1093/JMT/42.1.20"
+doi: https://doi.org/10.1093/JMT/42.1.20
 appearances:
   - unit: FXA100
     week: "04"

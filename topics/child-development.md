@@ -7,6 +7,7 @@ sources:
   - fxa101-week03-effects-of-music-training-on-inhibitory-control-and
   - fxa101-week03-poverty-stress-and-brain-development-new-directions-for
   - fxa101-week03-seeking-out-the-new-how-music-teaches-children-to-create
+  - fxa300-week01-movement-based-music-in-the-classroom-investigating-the
   - fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master
   - fxa301-week06-evaluation-of-big-noise-douglas
   - fxa303-week01-an-overview-of-play-therapy
@@ -16,10 +17,13 @@ sources:
   - fxa303-week02-child-development-fxa303-creative-arts-play-and-mental
   - fxa303-week02-developmental-role-of-creative-arts-and-play
   - fxa303-week02-free-play-and-childrens-mental-health
+  - fxa303-week02-free-play-and-childrens-mental-health-(2)
   - fxa303-week02-fxa303-week-2-child-development-and-creative-arts
+  - fxa303-week02-fxa303-week-2-introduction-to-child-development-and-play
   - fxa303-week02-in-rememberance-of-david-whitebread-a-tribute-to-david
   - fxa303-week02-lesson-fxa303-week02-introduction
   - fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview
+  - fxa303-week02-web-lecture-2-week-2
   - fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental
   - fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism
   - fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for
@@ -36,7 +40,7 @@ tags:
 - child-development
 title: Play Therapy in Child Development
 type: topic
-updated: 2026-07-20
+updated: 2026-08-07
 ---
 
 ## Play Therapy in Child Development
@@ -59,6 +63,7 @@ Play therapy emerges as a significant intervention in facilitating the psycholog
 - [fxa101-week03-effects-of-music-training-on-inhibitory-control-and](../sources/fxa101-week03-effects-of-music-training-on-inhibitory-control-and.md)
 - [fxa101-week03-poverty-stress-and-brain-development-new-directions-for](../sources/fxa101-week03-poverty-stress-and-brain-development-new-directions-for.md)
 - [fxa101-week03-seeking-out-the-new-how-music-teaches-children-to-create](../sources/fxa101-week03-seeking-out-the-new-how-music-teaches-children-to-create.md)
+- [fxa300-week01-movement-based-music-in-the-classroom-investigating-the](../sources/fxa300-week01-movement-based-music-in-the-classroom-investigating-the.md)
 - [fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master](../sources/fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master.md)
 - [fxa301-week06-evaluation-of-big-noise-douglas](../sources/fxa301-week06-evaluation-of-big-noise-douglas.md)
 - [fxa303-week01-an-overview-of-play-therapy](../sources/fxa303-week01-an-overview-of-play-therapy.md)
@@ -68,10 +73,13 @@ Play therapy emerges as a significant intervention in facilitating the psycholog
 - [fxa303-week02-child-development-fxa303-creative-arts-play-and-mental](../sources/fxa303-week02-child-development-fxa303-creative-arts-play-and-mental.md)
 - [fxa303-week02-developmental-role-of-creative-arts-and-play](../sources/fxa303-week02-developmental-role-of-creative-arts-and-play.md)
 - [fxa303-week02-free-play-and-childrens-mental-health](../sources/fxa303-week02-free-play-and-childrens-mental-health.md)
+- [fxa303-week02-free-play-and-childrens-mental-health-(2)](../sources/fxa303-week02-free-play-and-childrens-mental-health-%282%29.md)
 - [fxa303-week02-fxa303-week-2-child-development-and-creative-arts](../sources/fxa303-week02-fxa303-week-2-child-development-and-creative-arts.md)
+- [fxa303-week02-fxa303-week-2-introduction-to-child-development-and-play](../sources/fxa303-week02-fxa303-week-2-introduction-to-child-development-and-play.md)
 - [fxa303-week02-in-rememberance-of-david-whitebread-a-tribute-to-david](../sources/fxa303-week02-in-rememberance-of-david-whitebread-a-tribute-to-david.md)
 - [fxa303-week02-lesson-fxa303-week02-introduction](../sources/fxa303-week02-lesson-fxa303-week02-introduction.md)
 - [fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview](../sources/fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview.md)
+- [fxa303-week02-web-lecture-2-week-2](../sources/fxa303-week02-web-lecture-2-week-2.md)
 - [fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental](../sources/fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental.md)
 - [fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism](../sources/fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism.md)
 - [fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for](../sources/fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for.md)

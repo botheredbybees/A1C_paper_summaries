@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Earliest evidence of malignant breast cancer in Renaissance paintings"
-apa7: "Bianucci, R., Perciaccante, A., Charlier, P., Appenzeller, O., & Lippi, D. (2018). Earliest evidence of malignant breast cancer in Renaissance paintings. *The Lancet Oncology*, 19(2), 166-167. https://doi.org/10.1371/journal.pone.0090924"
-doi: https://doi.org/10.1371/journal.pone.0090924
+apa7: "Bianucci, R., Perciaccante, A., Charlier, P., Appenzeller, O., & Lippi, D. (2018). Earliest evidence of malignant breast cancer in Renaissance paintings. *The Lancet Oncology*, 19(2), 166-167. https://doi.org/10.1016/S1470-2045(18)30035-4"
+doi: https://doi.org/10.1016/S1470-2045(18)30035-4
 appearances:
   - unit: FXA302
     week: "04"
@@ -11,7 +11,7 @@ tags: ["malignant-breast-cancer", "renaissance-art", "medical-history", "fxa302"
 key_concepts: ["breast-cancer-symptoms", "historical-medical-practices"]
 methods: ["case-study"]
 slug: fxa302-week04-earliest-evidence-of-malignant-breast-cancer-in-renaissance
-related: ["renaissance-art"]
+related: ["medical-history", "renaissance-art"]
 created: 2026-07-28
 updated: 2026-07-28
 ---
@@ -40,4 +40,5 @@ This article discusses the earliest pictorial representations of breast cancer i
 
 ## See Also
 
+- [medical-history](../topics/medical-history.md)
 - [renaissance-art](../topics/renaissance-art.md)

@@ -11,7 +11,7 @@ tags: ["auditory-perception", "sound-localization", "music-psychology", "fxa300"
 key_concepts: ["auditory-system", "hearing-mechanics", "sound-wave-transduction"]
 methods: []
 slug: fxa300-week04-musical-hearing
-related: ["auditory-perception", "music-psychology"]
+related: ["auditory-perception", "hearing-mechanics", "music-psychology"]
 created: 2026-07-28
 updated: 2026-07-28
 ---
@@ -42,4 +42,5 @@ The chapter 'Musical Hearing' by Donald A. Hodges and Gary E. McPherson explores
 ## See Also
 
 - [auditory-perception](../topics/auditory-perception.md)
+- [hearing-mechanics](../topics/hearing-mechanics.md)
 - [music-psychology](../topics/music-psychology.md)

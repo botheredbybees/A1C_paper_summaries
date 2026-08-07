@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: patient-anxiety
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Patient Anxiety

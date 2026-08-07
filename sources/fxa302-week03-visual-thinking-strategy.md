@@ -11,7 +11,7 @@ tags: ["visual-thinking-strategy", "art-education", "cognitive-development", "cr
 key_concepts: ["Visual Thinking Strategies", "Critical Interpretation", "Observational Skills"]
 methods: ["case study"]
 slug: fxa302-week03-visual-thinking-strategy
-related: ["art-education", "cognitive-development", "critical-thinking", "observational-skills", "visual-thinking-strategies"]
+related: ["art-education", "cognitive-development", "critical-thinking", "observation-skills", "visual-thinking-strategies"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -46,5 +46,5 @@ This transcript documents a session using the Visual Thinking Strategies (VTS) m
 - [art-education](../topics/art-education.md)
 - [cognitive-development](../topics/cognitive-development.md)
 - [critical-thinking](../topics/critical-thinking.md)
-- [observational-skills](../topics/observational-skills.md)
+- [observation-skills](../topics/observation-skills.md)
 - [visual-thinking-strategies](../topics/visual-thinking-strategies.md)

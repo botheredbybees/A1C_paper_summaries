@@ -4,6 +4,7 @@ domain: intervention
 slug: community-music
 sources:
   - fxa100-week04-engaging-in-community-music-an-introduction
+  - fxa100-week04-singing-and-participation-(2)
   - fxa301-week01-culture-of-inquiry
   - fxa301-week01-engaging-in-community-music-an-introduction
   - fxa301-week01-engaging-in-community-music-an-introduction-(2)
@@ -15,7 +16,7 @@ tags:
 - community-music
 title: Community Music
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Community Music
@@ -35,6 +36,7 @@ The integration of community music highlights its potential to foster life-long 
 ## Sources
 
 - [fxa100-week04-engaging-in-community-music-an-introduction](../sources/fxa100-week04-engaging-in-community-music-an-introduction.md)
+- [fxa100-week04-singing-and-participation-(2)](../sources/fxa100-week04-singing-and-participation-%282%29.md)
 - [fxa301-week01-culture-of-inquiry](../sources/fxa301-week01-culture-of-inquiry.md)
 - [fxa301-week01-engaging-in-community-music-an-introduction](../sources/fxa301-week01-engaging-in-community-music-an-introduction.md)
 - [fxa301-week01-engaging-in-community-music-an-introduction-(2)](../sources/fxa301-week01-engaging-in-community-music-an-introduction-%282%29.md)

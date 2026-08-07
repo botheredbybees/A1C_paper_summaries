@@ -3,13 +3,14 @@ confidence: medium
 domain: method
 slug: transdisciplinary-research
 sources:
+  - fxa101-week05-research-through-and-through-design
   - fxa303-week10-researching-arts-culture-migration-and-change-a-multi
   - fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)
 tags:
 - transdisciplinary-research
 title: Transdisciplinary Research
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Transdisciplinary Research
@@ -28,5 +29,6 @@ The sources highlight the challenges and opportunities inherent in conducting tr
 
 ## Sources
 
+- [fxa101-week05-research-through-and-through-design](../sources/fxa101-week05-research-through-and-through-design.md)
 - [fxa303-week10-researching-arts-culture-migration-and-change-a-multi](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi.md)
 - [fxa303-week10-researching-arts-culture-migration-and-change-a-multi-(2)](../sources/fxa303-week10-researching-arts-culture-migration-and-change-a-multi-%282%29.md)

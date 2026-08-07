@@ -3,6 +3,7 @@ confidence: medium
 domain: intervention
 slug: person-centered-dementia-support
 sources:
+  - fxa100-week07-aged-care-outreach-(2)
   - fxa100-week07-iremember-loan-resource-flyer
   - fxa100-week10-person-centred-dementia-care
   - fxa100-week11-about-the-octaband-dance-for-connection
@@ -11,7 +12,7 @@ tags:
 - dementia-support
 title: Person-Centered Dementia Support
 type: topic
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Person-Centered Dementia Support
@@ -30,6 +31,7 @@ The concept of person-centered dementia care emphasizes the importance of unders
 
 ## Sources
 
+- [fxa100-week07-aged-care-outreach-(2)](../sources/fxa100-week07-aged-care-outreach-%282%29.md)
 - [fxa100-week07-iremember-loan-resource-flyer](../sources/fxa100-week07-iremember-loan-resource-flyer.md)
 - [fxa100-week10-person-centred-dementia-care](../sources/fxa100-week10-person-centred-dementia-care.md)
 - [fxa100-week11-about-the-octaband-dance-for-connection](../sources/fxa100-week11-about-the-octaband-dance-for-connection.md)

@@ -6,8 +6,9 @@ confidence: medium
 tags: ["brain-mechanisms"]
 sources:
   - fxa300-week02-music-in-the-brain
+  - fxa300-week02-psychomusicology-music-mind-brain-salutes-new
   - fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community
-updated: 2026-07-13
+updated: 2026-08-07
 ---
 
 ## Brain Mechanisms in Music and Arts
@@ -27,4 +28,5 @@ The sources collectively examine the brain mechanisms involved in both music per
 ## Sources
 
 - [fxa300-week02-music-in-the-brain](../sources/fxa300-week02-music-in-the-brain.md)
+- [fxa300-week02-psychomusicology-music-mind-brain-salutes-new](../sources/fxa300-week02-psychomusicology-music-mind-brain-salutes-new.md)
 - [fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community](../sources/fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community.md)

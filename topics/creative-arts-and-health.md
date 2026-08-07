@@ -5,9 +5,10 @@ title: "Creative Arts and Health"
 confidence: medium
 tags: ["creative-arts-and-health"]
 sources:
+  - fxa202-week03-a-healing-journey
   - fxa302-week03-lesson-fxa302-week03-page-2
   - fxa302-week04-lesson-fxa302-week04-week-4
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Creative Arts and Health
@@ -26,5 +27,6 @@ The integration of creative arts into health and wellbeing practices is examined
 
 ## Sources
 
+- [fxa202-week03-a-healing-journey](../sources/fxa202-week03-a-healing-journey.md)
 - [fxa302-week03-lesson-fxa302-week03-page-2](../sources/fxa302-week03-lesson-fxa302-week03-page-2.md)
 - [fxa302-week04-lesson-fxa302-week04-week-4](../sources/fxa302-week04-lesson-fxa302-week04-week-4.md)

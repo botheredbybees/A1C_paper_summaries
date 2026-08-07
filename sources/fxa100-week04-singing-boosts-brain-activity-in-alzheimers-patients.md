@@ -11,7 +11,7 @@ tags: ["alzheimers-research", "cognitive-enhancement", "dementia-care", "fxa100"
 key_concepts: ["group music therapy", "cognitive decline reversal", "life satisfaction enhancement"]
 methods: ["observational study", "randomized group comparison"]
 slug: fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients
-related: ["alzheimers-research", "cognitive-enhancement", "dementia-care", "group-music-therapy-for-dementia-patients", "music-therapy", "quality-of-life-improvement"]
+related: ["alzheimers-research", "cognitive-enhancement", "dementia-care", "group-music-therapy-for-dementia-patients", "music-therapy", "quality-of-life-improvement", "singing-as-an-intervention-for-dementia-and-caregiver", "singing-as-an-intervention-for-dementia-and-caregiver-wellbeing"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -50,3 +50,5 @@ A study conducted in a care home found that singing in group music sessions sign
 - [group-music-therapy-for-dementia-patients](../topics/group-music-therapy-for-dementia-patients.md)
 - [music-therapy](../topics/music-therapy.md)
 - [quality-of-life-improvement](../topics/quality-of-life-improvement.md)
+- [singing-as-an-intervention-for-dementia-and-caregiver](../topics/singing-as-an-intervention-for-dementia-and-caregiver.md)
+- [singing-as-an-intervention-for-dementia-and-caregiver-wellbeing](../topics/singing-as-an-intervention-for-dementia-and-caregiver-wellbeing.md)

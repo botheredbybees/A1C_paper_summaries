@@ -5,12 +5,13 @@ slug: emotional-processing-through-writing
 sources:
   - fxa100-week13-anatomically-distinct-dopamine-release-during-anticipation
   - fxa202-week09-guide-to-journaling
+  - fxa300-week03-lesson-fxa300-week03-page-2-introduction-to-music-and
   - fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the
 tags:
 - emotional-processing
 title: Emotional Processing Through Writing
 type: topic
-updated: 2026-05-15
+updated: 2026-08-07
 ---
 
 ## Emotional Processing Through Writing
@@ -30,4 +31,5 @@ Both sources emphasize the importance of writing as an intervention for emotiona
 
 - [fxa100-week13-anatomically-distinct-dopamine-release-during-anticipation](../sources/fxa100-week13-anatomically-distinct-dopamine-release-during-anticipation.md)
 - [fxa202-week09-guide-to-journaling](../sources/fxa202-week09-guide-to-journaling.md)
+- [fxa300-week03-lesson-fxa300-week03-page-2-introduction-to-music-and](../sources/fxa300-week03-lesson-fxa300-week03-page-2-introduction-to-music-and.md)
 - [fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the](../sources/fxa301-week08-writing-your-way-to-well-being-an-ipa-analysis-of-the.md)

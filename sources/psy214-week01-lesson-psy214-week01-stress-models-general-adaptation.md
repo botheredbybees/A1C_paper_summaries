@@ -11,7 +11,7 @@ tags: ["stress-biology", "fight-or-flight-response", "general-adaptation-syndrom
 key_concepts: ["physiological stress response", "HPA axis", "General Adaptation Syndrome (GAS)", "neuroplasticity"]
 methods: []
 slug: psy214-week01-lesson-psy214-week01-stress-models-general-adaptation
-related: ["hippocampus-function", "stress-biology"]
+related: ["hippocampus-function", "hpa-axis", "stress-biology"]
 created: 2026-07-06
 updated: 2026-07-06
 ---
@@ -45,4 +45,5 @@ This lesson delves into the biological aspects of stress, focusing on the physio
 ## See Also
 
 - [hippocampus-function](../topics/hippocampus-function.md)
+- [hpa-axis](../topics/hpa-axis.md)
 - [stress-biology](../topics/stress-biology.md)

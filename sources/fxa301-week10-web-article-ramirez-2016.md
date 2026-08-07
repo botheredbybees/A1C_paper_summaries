@@ -2,7 +2,7 @@
 type: source
 source_type: web-article
 title: "A Review of Art Therapy Among Military Service Members and Veterans with Post-Traumatic Stress Disorder"
-apa7: "Ramirez, J. (2021). A review of art therapy among military service members and veterans with post-traumatic stress disorder. Journal of Military Veteran's Health, https://doi.org/10.5204/jmvh.v29i3.876"
+apa7: "Ramirez, J., Erlyana, E., & Guilliaum, M. (2021). A review of art therapy among military service members and veterans with post-traumatic stress disorder. Journal of Military and Veterans' Health, 24(2). https://jmvh.org/article/a-review-of-art-therapy-among-military-service-members-and-veterans-with-post-traumatic-stress-disorder/"
 doi: null
 appearances:
   - unit: FXA301
@@ -11,9 +11,9 @@ tags: ["ptsd", "art-therapy", "military", "veterans", "cognitive-behavioral-ther
 key_concepts: []
 methods: []
 slug: fxa301-week10-web-article-ramirez-2016
-related: ["art-therapy", "cognitive-behavioral-therapy"]
+related: ["art-therapy", "cognitive-behavioral-therapy", "veterans"]
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-08-02
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-week10-web-article-ramirez-2016.md_
@@ -43,3 +43,4 @@ This article reviews the use of art therapy in treating PTSD among military pers
 
 - [art-therapy](../topics/art-therapy.md)
 - [cognitive-behavioral-therapy](../topics/cognitive-behavioral-therapy.md)
+- [veterans](../topics/veterans.md)

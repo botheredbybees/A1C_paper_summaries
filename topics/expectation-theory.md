@@ -1,30 +1,32 @@
 ---
 type: topic
 domain: "theory"
-title: "Musical Expectancy and Emotional Responses"
+title: "Musical Expectancy Theory"
 confidence: medium
 tags: ["expectation-theory"]
 sources:
+  - fxa300-week01-emotional-responses-to-music-the-need-to-consider
   - fxa300-week01-musical-expectancy-and-thrills
   - fxa300-week01-sweet-anticipation-of-music-review
-updated: 2026-07-06
+updated: 2026-08-07
 ---
 
-## Musical Expectancy and Emotional Responses
+## Musical Expectancy Theory
 
-The concept of musical expectancy is central to understanding how music influences human emotional responses. Both sources highlight the importance of prediction mechanisms in experiencing pleasure from music. 'Musical Expectancy and Thrills' discusses how listeners derive excitement and emotional thrills when their expectations are met or surpassed, a phenomenon rooted in statistical learning processes that allow individuals to predict patterns within musical structures. Conversely, unmet expectations can lead to feelings of frustration or surprise. The second source, 'Sweet Anticipation of Music Review,' delves into the ITPRA (Intention, Trigger, Perception, Response, Action) theory and Bayesian probability frameworks for understanding how temporal predictability shapes emotional responses to music. These theories suggest that anticipation is a key component in creating pleasurable musical experiences, as listeners constantly make predictions based on patterns they have learned from past musical encounters. Both sources converge on the idea that the brain's predictive mechanisms are crucial for experiencing joy and other emotions through music.
+The concept of musical expectancy emerges as a critical framework for understanding emotional responses to music. Across the provided sources, there is agreement on the role of expectancies in shaping emotional experiences during musical engagement. Source 1 highlights the importance of considering underlying mechanisms such as emotional contagion and episodic memory when interpreting listeners' reactions. Meanwhile, Source 2 further elucidates how these mechanisms interplay with statistical learning principles to generate thrills or pleasurable moments within music through unexpected events that satisfy existing expectancies. Lastly, Source 3 introduces the ITPRA theory, which provides a comprehensive model of perception in music by integrating Bayesian probability and temporal predictability aspects, thus reinforcing the theoretical foundation for how listeners anticipate and respond emotionally to musical cues.
 
 ## Key Findings
 
-- Musical expectancy plays a critical role in emotional responses to music.
-- Predictive processes, such as Bayesian probability models, underpin the anticipation of musical events.
-- The fulfillment or violation of expectations can significantly influence listener's emotional reactions.
+- Musical expectancy significantly influences emotional responses to music.
+- Statistical learning principles underpin the predictive nature of musical expectation.
+- The ITPRA theory offers a robust model integrating anticipation with emotional processing.
 
 ## Open Questions
 
-- How do individual differences affect the way people predict and respond emotionally to musical patterns?
+- How do individual differences in cognitive and affective dispositions impact the formation and resolution of musical expectancies?
 
 ## Sources
 
+- [fxa300-week01-emotional-responses-to-music-the-need-to-consider](../sources/fxa300-week01-emotional-responses-to-music-the-need-to-consider.md)
 - [fxa300-week01-musical-expectancy-and-thrills](../sources/fxa300-week01-musical-expectancy-and-thrills.md)
 - [fxa300-week01-sweet-anticipation-of-music-review](../sources/fxa300-week01-sweet-anticipation-of-music-review.md)

@@ -3,13 +3,15 @@ confidence: medium
 domain: intervention
 slug: coping-mechanisms-through-creative-expression
 sources:
-- fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas
-- fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the
+  - fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas
+  - fxa303-week01-trauma
+  - fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the
+  - psy214-week01-coping-notes-slides
 tags:
 - coping-mechanisms
 title: Coping Mechanisms Through Creative Expression
 type: topic
-updated: 2026-05-04
+updated: 2026-08-07
 ---
 
 ## Coping Mechanisms Through Creative Expression
@@ -28,4 +30,6 @@ Both sources highlight the role of creative expression in fostering effective co
 ## Sources
 
 - [fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas](../sources/fxa202-week06-storytelling-with-image-and-text-a-photo-essay-on-donnas.md)
+- [fxa303-week01-trauma](../sources/fxa303-week01-trauma.md)
 - [fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the](../sources/fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the.md)
+- [psy214-week01-coping-notes-slides](../sources/psy214-week01-coping-notes-slides.md)

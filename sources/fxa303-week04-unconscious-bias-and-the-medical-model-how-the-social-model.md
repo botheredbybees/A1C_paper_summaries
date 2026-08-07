@@ -11,7 +11,7 @@ tags: ["disability-discrimination", "social-model-disability", "unconscious-bias
 key_concepts: ["social model of disability", "medical model of disability", "equality act"]
 methods: ["literature review"]
 slug: fxa303-week04-unconscious-bias-and-the-medical-model-how-the-social-model
-related: ["social-model-disability"]
+related: ["medical-model-of-disability", "social-model-disability"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -48,4 +48,5 @@ The article highlights that while reasonable adjustments are mandated in anti-di
 
 ## See Also
 
+- [medical-model-of-disability](../topics/medical-model-of-disability.md)
 - [social-model-disability](../topics/social-model-disability.md)

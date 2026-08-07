@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-neuroscience
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Cognitive Neuroscience
@@ -9,6 +9,7 @@ updated: 2026-07-28
 - [How Music Helps to Heal the Injured Brain: Therapeutic Use Crescendos Thanks to Advances in Brain Science](../sources/fxa100-week02-how-music-helps-to-heal-the-injured-brain-therapeutic-use.md)
 - [Art and the brain: a view from dementia](../sources/fxa100-week06-art-and-the-brain-a-view-from-dementia.md)
 - [Week 6 Activities - FXA100 The Arts and Dementia Care](../sources/fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities.md)
+- [The Influence of Frontotemporal Dementia on an Accomplished Artist](../sources/fxa100-week06-the-influence-of-frontotemporal-dementia-on-an-accomplished.md)
 - [How Does the Brain Process Art?](../sources/fxa100-week06-web-article-tucker-2012.md)
 - [Welcome to Week 6 - FXA100 The Arts and Dementia Care](../sources/fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care.md)
 - [Inner Vision: An Exploration of Art and the Brain](../sources/fxa100-week12-inner-vision-an-exploration-of-art-and-the-brain.md)
@@ -16,7 +17,7 @@ updated: 2026-07-28
 - [Categorization of Synaesthesia](../sources/fxa101-week02-categorization-of-synaesthesia.md)
 - [The Shape of Things Unseen: A New Science of Imagination](../sources/fxa101-week02-the-shape-of-things-unseen-a-new-science-of-imagination.md)
 - [Synaesthesia: A Cognitive Neuroscientist's Perspective](../sources/fxa101-week02-transcript-this-ted-talk-given-in-2016-by-jamie-ward.md)
-- [Insights into the Organisation of Semantic Memory and Language in the Human Brain](../sources/fxa101-week03-insights-into-the-organisation-of-semantic-memory-and.md)
+- [Language Disorders in Neurodegenerative Disease: Insights into the Organisation of Semantic Memory and Language in the Human Brain](../sources/fxa101-week03-insights-into-the-organisation-of-semantic-memory-and.md)
 - [Synergistic Effects of Age on Patterns of White and Gray Matter Volume across Childhood and Adolescence](../sources/fxa101-week03-synergistic-effects-of-age-on-patterns-of-white-and-gray.md)
 - [The neural basis of semantic memory](../sources/fxa101-week03-the-neural-basis-of-semantic-memory.md)
 - [A Large-Scale, Cross-Sectional Investigation Into the Efficacy of Brain Training](../sources/fxa101-week04-a-large-scale-cross-sectional-investigation-into-the.md)

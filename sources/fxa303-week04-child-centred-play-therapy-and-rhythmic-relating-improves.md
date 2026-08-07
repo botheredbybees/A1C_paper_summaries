@@ -11,7 +11,7 @@ tags: ["child-therapy", "autism-intervention", "emotion-regulation", "play-thera
 key_concepts: ["Child-Centred Play Therapy (CCPT)", "Rhythmic Relating", "Emotion Regulation"]
 methods: ["single-n pilot study"]
 slug: fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves
-related: ["child-therapy", "emotion-regulation", "play-therapy"]
+related: ["child-therapy", "emotion-regulation", "play-therapy-in-child-development"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,4 +44,4 @@ This study investigates the impact of a therapeutic combination of Child-Centred
 
 - [child-therapy](../topics/child-therapy.md)
 - [emotion-regulation](../topics/emotion-regulation.md)
-- [play-therapy](../topics/play-therapy.md)
+- [play-therapy-in-child-development](../topics/play-therapy-in-child-development.md)

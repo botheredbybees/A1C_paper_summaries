@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: healing-power-of-narrative
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Healing Power Of Narrative

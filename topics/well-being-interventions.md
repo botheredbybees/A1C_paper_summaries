@@ -5,11 +5,12 @@ title: "Recreational Dance and Activity Personalization for Well-being"
 confidence: medium
 tags: ["well-being-interventions"]
 sources:
+  - fxa100-week07-artful-art-and-dementia-for-visitors-with-dementia-mca
   - fxa301-week06-the-effects-of-recreational-dance-interventions-on-the
   - fxa303-week13-activity-activity-personalization-and-well-being-in-nursing
   - psy214-week00-gratitude-and-health-an-updated-review
   - psy214-week00-the-impact-of-signature-character-strengths-interventions-a
-updated: 2026-06-25
+updated: 2026-08-07
 ---
 
 ## Recreational Dance and Activity Personalization for Well-being
@@ -28,6 +29,7 @@ This synthesis explores interventions designed to improve the health and well-be
 
 ## Sources
 
+- [fxa100-week07-artful-art-and-dementia-for-visitors-with-dementia-mca](../sources/fxa100-week07-artful-art-and-dementia-for-visitors-with-dementia-mca.md)
 - [fxa301-week06-the-effects-of-recreational-dance-interventions-on-the](../sources/fxa301-week06-the-effects-of-recreational-dance-interventions-on-the.md)
 - [fxa303-week13-activity-activity-personalization-and-well-being-in-nursing](../sources/fxa303-week13-activity-activity-personalization-and-well-being-in-nursing.md)
 - [psy214-week00-gratitude-and-health-an-updated-review](../sources/psy214-week00-gratitude-and-health-an-updated-review.md)

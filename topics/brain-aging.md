@@ -7,7 +7,8 @@ tags: ["brain-aging"]
 sources:
   - fxa100-week01-what-is-frontotemporal-dementia
   - fxa100-week13-cortisol-levels-during-human-aging-predict-hippocampal
-updated: 2026-05-15
+  - fxa101-week04-cognitive-reserve-and-brain-changes-in-ageing
+updated: 2026-08-07
 ---
 
 ## Brain Aging
@@ -28,3 +29,4 @@ The studies on brain aging reveal two critical pathways of degeneration and dysf
 
 - [fxa100-week01-what-is-frontotemporal-dementia](../sources/fxa100-week01-what-is-frontotemporal-dementia.md)
 - [fxa100-week13-cortisol-levels-during-human-aging-predict-hippocampal](../sources/fxa100-week13-cortisol-levels-during-human-aging-predict-hippocampal.md)
+- [fxa101-week04-cognitive-reserve-and-brain-changes-in-ageing](../sources/fxa101-week04-cognitive-reserve-and-brain-changes-in-ageing.md)

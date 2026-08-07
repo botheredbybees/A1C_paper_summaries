@@ -12,6 +12,7 @@ sources:
   - fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing
   - fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract
   - fxa301-week11-art-therapy-initiative-ati-art-therapy-at-the-border
+  - fxa302-week07-impact-of-creative-workshops-for-people-with-severe-mental
   - fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice
   - fxa303-week11-creative-pathways-for-juvenile-justice-an-overview-of
   - fxa303-week11-developing-creative-approaches-in-youth-justice-a-guide-for
@@ -19,7 +20,7 @@ tags:
 - creative-interventions
 title: Creative Interventions in Dementia Care
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Creative Interventions in Dementia Care
@@ -47,6 +48,7 @@ The integration of creative interventions in dementia care is highlighted across
 - [fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing](../sources/fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing.md)
 - [fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract](../sources/fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract.md)
 - [fxa301-week11-art-therapy-initiative-ati-art-therapy-at-the-border](../sources/fxa301-week11-art-therapy-initiative-ati-art-therapy-at-the-border.md)
+- [fxa302-week07-impact-of-creative-workshops-for-people-with-severe-mental](../sources/fxa302-week07-impact-of-creative-workshops-for-people-with-severe-mental.md)
 - [fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice](../sources/fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice.md)
 - [fxa303-week11-creative-pathways-for-juvenile-justice-an-overview-of](../sources/fxa303-week11-creative-pathways-for-juvenile-justice-an-overview-of.md)
 - [fxa303-week11-developing-creative-approaches-in-youth-justice-a-guide-for](../sources/fxa303-week11-developing-creative-approaches-in-youth-justice-a-guide-for.md)

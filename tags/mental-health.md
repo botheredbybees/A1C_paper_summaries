@@ -1,11 +1,12 @@
 ---
 type: tag
 tag: mental-health
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Mental Health
 
+- [Implementation Survey Phase III - Student Volunteer Program](../sources/fxa100-week03-implementation-survey-phase-iii-student-volunteer-program.md)
 - [Music Therapy Flyer](../sources/fxa100-week04-music-therapy-flyer.md)
 - [Psychophysiological Effects of Dance Movement Therapy and Physical Exercise on Older Adults With Mild Dementia: A Randomized Controlled Trial](../sources/fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and.md)
 - [Movement Therapy and Mental Health](../sources/fxa100-week11-movement-therapy-and-mental-health.md)
@@ -26,9 +27,11 @@ updated: 2026-07-28
 - [Noticing: A Photo Essay](../sources/fxa202-week09-noticing-a-photo-essay.md)
 - [Exploring Colour Theory Through a Personal Photo Essay](../sources/fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay.md)
 - [Therapeutic benefits and limitations of participatory photography for adults with mental health problems: A systematic search and literature review](../sources/fxa202-week13-therapeutic-benefits-and-limitations-of-participatory.md)
+- [Music and Mind: Harnessing the Arts for Health and Wellness](../sources/fxa300-week02-music-and-mind-harnessing-the-arts-for-health-and-wellness.md)
 - [The Oxford Handbook of Dance and Wellbeing](../sources/fxa301-oxford-handbook-of-dance-and-wellbeing.md)
 - [Mental Health and Wellbeing across the Life Course - Extract](../sources/fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract.md)
 - [Art as Therapy](../sources/fxa301-week05-art-as-therapy.md)
+- [Associations between participation in community arts groups and aspects of wellbeing in older adults in the United States: a propensity score matching analysis](../sources/fxa301-week05-associations-between-participation-in-community-arts-groups.md)
 - [A systematic review of mental health and wellbeing outcomes of group singing for adults with a mental health condition](../sources/fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes.md)
 - [Further evidence that singing fosters mental health and wellbeing: the West Kent and Medway project](../sources/fxa301-week06-further-evidence-that-singing-fosters-mental-health-and.md)
 - [Group singing fosters mental health and wellbeing: findings from the East Kent \u2018singing for health\u2019 network project](../sources/fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings.md)
@@ -37,9 +40,11 @@ updated: 2026-07-28
 - [A systematic review of mental health and wellbeing outcomes of group singing for adults with a mental health condition](../sources/fxa301-week10-a-systematic-review-of-mental-health-and-wellbeing-outcomes.md)
 - [Creative Arts, Mental Health and Trauma](../sources/fxa301-week10-lesson-fxa301-week10-page-1.md)
 - [Activities for Week 10: FXA301 Arts in the Community](../sources/fxa301-week10-lesson-fxa301-week10-page-4-week-3-activities.md)
+- [The use of arts interventions for mental health and wellbeing in health settings](../sources/fxa301-week10-the-use-of-arts-interventions-for-mental-health-and.md)
 - [Creative Arts Adult Community Learning](../sources/fxa302-week01-creative-arts-adult-community-learning.md)
 - [Creativity and Mental Health](../sources/fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam.md)
 - [Free Play and Children\u2019s Mental Health](../sources/fxa303-week02-free-play-and-childrens-mental-health.md)
+- [Free Play and Children's Mental Health](../sources/fxa303-week02-free-play-and-childrens-mental-health-%282%29.md)
 - [Mission Australia Youth Survey Information](../sources/fxa303-week03-mission-australia-youth-survey-information.md)
 - [Youth Survey Report 2025](../sources/fxa303-week03-youth-survey-report-2025.md)
 - [Beyond the Fence: Constructed and Found Spaces for Children's Outdoor Play in Natural and Human-Induced Disaster Contexts](../sources/fxa303-week09-beyond-the-fence-constructed-and-found-spaces-for-childrens.md)
@@ -52,6 +57,7 @@ updated: 2026-07-28
 - [Creative Arts, Gender Diversity and Mental Wellbeing](../sources/fxa303-week11-lesson-fxa303-week11-page-2.md)
 - [Me and us: Cultivating presence and mental health through choir singing](../sources/fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through.md)
 - [Mental Health in Lesbian, Gay, Bisexual, and Transgender (LGBT) Youth](../sources/fxa303-week11-mental-health-in-lesbian-gay-bisexual-and-transgender-lgbt.md)
+- [The impact of viewing art on well-being\u2014a systematic review of the evidence base and suggested mechanisms](../sources/fxa303-week11-the-impact-of-viewing-art-on-well-beinga-systematic-review.md)
 - [The Power of Recognition: A Qualitative Study of Social Connectedness and Wellbeing through LGBT Sporting, Creative and Social Groups in Ireland](../sources/fxa303-week11-the-power-of-recognition-a-qualitative-study-of-social.md)
 - [A meta-analysis of randomized controlled trials of laughter and humour interventions on depression, anxiety and sleep quality in adults](../sources/fxa303-week13-a-meta-analysis-of-randomized-controlled-trials-of-laughter.md)
 - [Effects of Clown Activities on Patients Eligible for Palliative Care in Primary Health Care](../sources/fxa303-week13-effects-of-clown-activities-on-patients-eligible-for.md)
@@ -61,3 +67,5 @@ updated: 2026-07-28
 - [The Wellbeing Workout: How to Manage Stress and Develop Resilience](../sources/psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop.md)
 - [A Mediterranean-style dietary intervention supplemented with fish oil improves diet quality and mental health in people with depression: A randomized controlled trial (HELFIMED)](../sources/psy214-week04-a-mediterranean-style-dietary-intervention-supplemented.md)
 - [Healthy Eating and Mental Health](../sources/psy214-week04-lesson-psy214-week04-nutritional-science.md)
+- [PSY114 PSY214 Stress, Self-Care and Mindfulness - Week on Rest and Relaxation](../sources/psy214-week05-lesson-psy214-week05-week-5-introduction1.md)
+- [Sleep, Circadian Rhythms and Health](../sources/psy214-week05-sleep-circadian-rhythms-and-health.md)

@@ -3,13 +3,14 @@ confidence: medium
 domain: intervention
 slug: puppetry-in-creative-arts-therapy
 sources:
+  - fxa303-week05-fxa303-week-5-welcome-(3)
   - fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental
   - fxa303-week06-overview-fxa303-creative-arts-play-and-mental-wellbeing
 tags:
 - puppetry
 title: Puppetry In Creative Arts Therapy
 type: topic
-updated: 2026-05-11
+updated: 2026-08-03
 ---
 
 ## Puppetry In Creative Arts Therapy
@@ -28,5 +29,6 @@ The application of puppetry in creative arts therapy emerges as a versatile tool
 
 ## Sources
 
+- [fxa303-week05-fxa303-week-5-welcome-(3)](../sources/fxa303-week05-fxa303-week-5-welcome-%283%29.md)
 - [fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental](../sources/fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental.md)
 - [fxa303-week06-overview-fxa303-creative-arts-play-and-mental-wellbeing](../sources/fxa303-week06-overview-fxa303-creative-arts-play-and-mental-wellbeing.md)

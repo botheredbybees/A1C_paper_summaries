@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: elements-of-effective-visual-art-intervention
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Elements Of Effective Visual Art Intervention

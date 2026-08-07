@@ -1,11 +1,12 @@
 ---
 type: tag
 tag: meta-analysis
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Meta Analysis
 
+- [Effectiveness of Creative Story Therapy for Dementia: A Systematic Review and Meta-Analysis](../sources/fxa100-week09-effectiveness-of-creative-story-therapy-for-dementia-a.md)
 - [Cognitive Behavioral Versus Exposure Only Treatment for Social Phobia: A Meta-Analysis](../sources/fxa100-week13-cognitive-behavioral-versus-exposure-only-treatment-for.md)
 - [The effect of physical activity on cognitive function in patients with dementia: A meta-analysis of randomized control trials](../sources/fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in.md)
 - [The Effectiveness of Dance Interventions on Physical Health Outcomes Compared to Other Forms of Physical Activity](../sources/fxa100-week13-the-effectiveness-of-dance-interventions-on-physical-health.md)
@@ -17,6 +18,7 @@ updated: 2026-07-28
 - [A Meta-Analysis of Expressive Writing on Posttraumatic Stress, Posttraumatic Growth, and Quality of Life](../sources/fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic.md)
 - [Effectiveness of music therapy for children with autism spectrum disorder: meta-analysis and potential biological mechanisms](../sources/fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism.md)
 - [Effectiveness of music therapy in children with autism spectrum disorder: A systematic review and meta-analysis](../sources/fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism.md)
+- [Colors of the mind: a meta-analysis of creative arts therapy as an approach for post-traumatic stress disorder intervention](../sources/fxa303-week09-colors-of-the-mind-a-meta-analysis-of-creative-arts-therapy.md)
 - [The Delivery of Person-Centered Care for People Living With Dementia in Residential Aged Care: A Systematic Review and Meta-Analysis](../sources/fxa303-week13-the-delivery-of-person-centered-care-for-people-living-with.md)
 - [Happy to help? A systematic review and meta-analysis of the effects of performing acts of kindness on the well-being of the actor](../sources/psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the.md)
 - [The Impact of Signature Character Strengths Interventions: A Meta-analysis](../sources/psy214-week00-the-impact-of-signature-character-strengths-interventions-a.md)

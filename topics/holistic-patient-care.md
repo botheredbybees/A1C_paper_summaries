@@ -6,22 +6,22 @@ confidence: medium
 tags: ["holistic-patient-care"]
 sources:
   - fxa301-week05-support-programs-ut-md-anderson
-updated: 2026-05-16
+updated: 2026-08-07
 ---
 
 ## Holistic Patient Care
 
-Support programs at UT MD Anderson Cancer Center emphasize the importance of integrating holistic and integrative medicine into patient care. These programs aim to address not only the physical health needs but also the psychological, emotional, social, and spiritual dimensions of patients' lives, which collectively contribute to a more comprehensive approach known as holistic patient care. The therapeutic benefits derived from art are one such example within this broader framework, highlighting how creative activities can enhance mental well-being and provide a sense of normalcy during challenging times. This initiative underscores the growing recognition that effective healthcare must encompass multiple aspects beyond traditional medical treatments.
+The integration of holistic patient care in healthcare facilities like UT MD Anderson is underscored by the emphasis on comprehensive support programs that go beyond traditional medical treatments. These programs focus on integrative medicine and therapeutic benefits derived from art, highlighting a shift towards more personalized and multidisciplinary approaches to treating patients. The concept of holistic patient care encompasses not only physical health but also emotional, social, spiritual, and psychological well-being, thereby enhancing the overall quality of life for patients undergoing treatment.
 
 ## Key Findings
 
-- Holistic patient care involves addressing the physical, psychological, emotional, social, and spiritual needs of patients.
-- Integrative medicine is an integral part of holistic care strategies in support programs at UT MD Anderson Cancer Center.
-- Creative activities like art therapy offer therapeutic benefits to patients in various dimensions beyond direct medical treatment.
+- Holistic patient care incorporates integrative medicine practices alongside conventional treatments
+- Art therapy is recognized as a valuable tool in providing therapeutic benefits to patients
+- The approach aims to address multiple aspects of a patient's well-being, beyond just physical health
 
 ## Open Questions
 
-- What are the long-term impacts and sustainability of integrating creative therapies such as art into standard patient care models?
+- What are the long-term impacts and sustainability of holistic care approaches within medical facilities?
 
 ## Sources
 

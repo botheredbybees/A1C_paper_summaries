@@ -12,14 +12,16 @@ sources:
   - fxa301-week03-the-role-of-the-arts-in-healthcare-transforming-lives
   - fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing
   - fxa301-week03-week-3-introduction-arts-in-the-community-for-health-and
+  - fxa301-week03-week-3-introduction-policy-around-arts-health-and-wellbeing
   - fxa301-week05-museums-as-spaces-for-wellbeing-a-second-report-from-the
   - fxa301-week06-lesson-fxa301-week06-page-1
   - fxa301-week08-transcript-the-video-below-relates-the-experiences-of
+  - fxa301-week08-week-8-lecture-on-applying-theatre-and-literature-for
 tags:
 - community-wellbeing
 title: Community Wellbeing Through Arts Engagement
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Community Wellbeing Through Arts Engagement
@@ -47,6 +49,8 @@ The synthesis of the sources highlights a broad range of arts-based intervention
 - [fxa301-week03-the-role-of-the-arts-in-healthcare-transforming-lives](../sources/fxa301-week03-the-role-of-the-arts-in-healthcare-transforming-lives.md)
 - [fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing](../sources/fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing.md)
 - [fxa301-week03-week-3-introduction-arts-in-the-community-for-health-and](../sources/fxa301-week03-week-3-introduction-arts-in-the-community-for-health-and.md)
+- [fxa301-week03-week-3-introduction-policy-around-arts-health-and-wellbeing](../sources/fxa301-week03-week-3-introduction-policy-around-arts-health-and-wellbeing.md)
 - [fxa301-week05-museums-as-spaces-for-wellbeing-a-second-report-from-the](../sources/fxa301-week05-museums-as-spaces-for-wellbeing-a-second-report-from-the.md)
 - [fxa301-week06-lesson-fxa301-week06-page-1](../sources/fxa301-week06-lesson-fxa301-week06-page-1.md)
 - [fxa301-week08-transcript-the-video-below-relates-the-experiences-of](../sources/fxa301-week08-transcript-the-video-below-relates-the-experiences-of.md)
+- [fxa301-week08-week-8-lecture-on-applying-theatre-and-literature-for](../sources/fxa301-week08-week-8-lecture-on-applying-theatre-and-literature-for.md)

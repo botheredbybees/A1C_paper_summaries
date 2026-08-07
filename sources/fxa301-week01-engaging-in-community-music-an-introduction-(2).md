@@ -7,11 +7,11 @@ doi: null
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["community-music", "context-specific-practices", "fxa301", "inclusive-practices", "musical-engagement", "non-formal-education", "social-transformation"]
+tags: ["community-music", "context-specific-practices", "fxa301", "inclusive-practices", "music-therapy-and-cognitive-stimulation-for-dementia", "musical-engagement", "non-formal-education", "social-transformation"]
 key_concepts: ["participatory-action-research", "context-specific-practices"]
 methods: ["case-study"]
 slug: fxa301-week01-engaging-in-community-music-an-introduction-(2)
-related: ["community-music", "inclusive-practices", "music-therapy-and-cognitive-stimulation-for-dementia"]
+related: ["community-music", "inclusive-practices", "music-therapy-and-cognitive-stimulation-for-dementia", "music-therapy-in-dementia-care"]
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -44,3 +44,4 @@ This introductory text explores the growing field of community music, emphasizin
 - [community-music](../topics/community-music.md)
 - [inclusive-practices](../topics/inclusive-practices.md)
 - [music-therapy-and-cognitive-stimulation-for-dementia](../topics/music-therapy-and-cognitive-stimulation-for-dementia.md)
+- [music-therapy-in-dementia-care](../topics/music-therapy-in-dementia-care.md)

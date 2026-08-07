@@ -6,8 +6,9 @@ confidence: medium
 tags: ["gender-diverse-youth"]
 sources:
   - fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic
+  - fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic-(2)
   - fxa303-week11-lesson-fxa303-week11-page-1-overview
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Creative Arts and Therapeutic Programs for Gender-Diverse Youth
@@ -27,4 +28,5 @@ The integration of creative arts interventions for gender-diverse youth highligh
 ## Sources
 
 - [fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic](../sources/fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic.md)
+- [fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic-(2)](../sources/fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic-%282%29.md)
 - [fxa303-week11-lesson-fxa303-week11-page-1-overview](../sources/fxa303-week11-lesson-fxa303-week11-page-1-overview.md)

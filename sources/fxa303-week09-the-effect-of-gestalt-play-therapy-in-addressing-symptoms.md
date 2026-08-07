@@ -11,7 +11,7 @@ tags: ["child-psychology", "trauma-intervention", "play-therapy", "neurodevelopm
 key_concepts: ["Gestalt play therapy", "trauma-related symptoms", "self-regulation"]
 methods: ["mixed-methods", "single-system design", "phenomenological design"]
 slug: fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms
-related: ["child-psychology", "neurodevelopment", "play-therapy", "trauma-intervention"]
+related: ["child-psychology", "neurodevelopment", "play-therapy-in-child-development", "trauma-intervention"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -50,5 +50,5 @@ After undergoing Gestalt play therapy, there was a statistically significant imp
 
 - [child-psychology](../topics/child-psychology.md)
 - [neurodevelopment](../topics/neurodevelopment.md)
-- [play-therapy](../topics/play-therapy.md)
+- [play-therapy-in-child-development](../topics/play-therapy-in-child-development.md)
 - [trauma-intervention](../topics/trauma-intervention.md)

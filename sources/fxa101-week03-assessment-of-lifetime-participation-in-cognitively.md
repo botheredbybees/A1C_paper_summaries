@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Assessment of lifetime participation in cognitively stimulating activities"
-apa7: "Wilson, R. S., Barnes, L. L., & Bennett, D. A. (2006). Assessment of lifetime participation in cognitively stimulating activities. In Y. Stern (Ed.), Cognitive Reserve: Theory and Applications (pp. 204-218). Taylor & Francis Group."
-doi: https://doi.org/10.4324/9780203783047-9
+apa7: "Wilson, R., Barnes, L., & Bennett, D. (2003). Assessment of Lifetime Participation in Cognitively Stimulating Activities. *Journal of Clinical and Experimental Neuropsychology*. https://doi.org/10.1076/jcen.25.5.634.14572"
+doi: https://doi.org/10.1076/jcen.25.5.634.14572
 appearances:
   - unit: FXA101
     week: "03"

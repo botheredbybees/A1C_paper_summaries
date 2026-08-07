@@ -6,8 +6,9 @@ confidence: medium
 tags: ["mental-health-treatment"]
 sources:
   - fxa100-week13-the-future-of-art-therapy-in-mental-health-treatment
+  - fxa301-week10-the-use-of-music-therapy-in-the-treatment-of-mental-illness
   - fxa303-week01-trauma-aps
-updated: 2026-05-15
+updated: 2026-08-07
 ---
 
 ## Art Therapy in Mental Health Treatment
@@ -27,4 +28,5 @@ The integration of art therapy into mental health treatment is gaining traction 
 ## Sources
 
 - [fxa100-week13-the-future-of-art-therapy-in-mental-health-treatment](../sources/fxa100-week13-the-future-of-art-therapy-in-mental-health-treatment.md)
+- [fxa301-week10-the-use-of-music-therapy-in-the-treatment-of-mental-illness](../sources/fxa301-week10-the-use-of-music-therapy-in-the-treatment-of-mental-illness.md)
 - [fxa303-week01-trauma-aps](../sources/fxa303-week01-trauma-aps.md)

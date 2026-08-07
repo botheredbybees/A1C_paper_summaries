@@ -1,13 +1,14 @@
 ---
 type: tag
 tag: neurodiversity
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Neurodiversity
 
 - ['Autism is a way of being': An \u2018insider perspective\u2019 on neurodiversity, music therapy and social justice](../sources/fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on.md)
 - [FXA303 Week 4 Introduction](../sources/fxa303-week04-fxa303-week-4-introduction.md)
+- [Neurodiversity and Autism Spectrum in Childhood](../sources/fxa303-week04-lesson-fxa303-week04-page-2-neurodiversity-and-the-brain.md)
 - [Play and Arts-based Therapies in Neurodevelopmental Disorders](../sources/fxa303-week04-lesson-fxa303-week04-page-3-arts-and-play.md)
 - [FXA303 Creative Arts, Play and Mental Wellbeing - Week 4 Activities](../sources/fxa303-week04-lesson-fxa303-week04-week-4-activities.md)
 - [Neurodiversity and the Autism Spectrum](../sources/fxa303-week04-neurodiversity-and-the-autism-spectrum.md)

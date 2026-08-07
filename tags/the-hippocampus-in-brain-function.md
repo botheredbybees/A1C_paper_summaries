@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: the-hippocampus-in-brain-function
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## The Hippocampus In Brain Function

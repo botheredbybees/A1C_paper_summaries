@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: western-happiness-comparison
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Western Happiness Comparison

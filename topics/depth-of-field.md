@@ -7,24 +7,26 @@ tags: ["depth-of-field"]
 sources:
   - fxa202-week02-aperture-and-shutter-priority-modes
   - fxa202-week02-depth-of-field-the-essential-guide-tips
-updated: 2026-05-16
+  - fxa202-week02-out-of-focuson-purpose
+updated: 2026-08-07
 ---
 
 ## Depth Of Field
 
-The concept of depth of field in photography is crucial for capturing images with the desired level of clarity and focus. Both sources emphasize the pivotal role that aperture settings play in determining the extent of sharpness in an image, known as depth of field. Source 1 introduces the idea through practical modes like aperture priority (aperture-priority-mode) and shutter priority (shutter-priority-mode), which provide photographers with control over these critical elements to achieve specific artistic effects or technical outcomes. Meanwhile, Source 2 delves deeper into aperture settings (aperture-settings) and focal length as fundamental aspects influencing the depth of field. Both sources acknowledge that a wider aperture setting results in shallower depth of field and vice versa. However, there is a gap regarding the interaction between these settings when photographers switch between different modes or aim to balance sharpness with motion blur considerations.
+The concept of depth of field is pivotal in photography, influencing both aesthetic and technical aspects of image creation. Sources emphasize the role of aperture settings in determining depth of field; a wider aperture (smaller f-number) produces a shallow depth of field, which blurs backgrounds, isolates subjects, and draws attention to specific areas within an image. Conversely, narrower apertures (larger f-numbers) increase the depth of field, ensuring more of the scene is in sharp focus. This interplay between aperture size and depth of field extends into different modes such as aperture priority mode, where photographers can manually control the aperture while letting the camera automatically adjust other settings like shutter speed to achieve desired exposure levels. Moreover, the length of the focal lens also impacts depth of field; longer lenses typically yield shallower depth of fields for a given aperture setting. Ethical considerations arise when using techniques that blur backgrounds or foregrounds, potentially leading to misinterpretations or misleading images. Thus, mastering depth of field requires not only technical skill but also an understanding of how such manipulations can affect the viewer's perception and engagement with the image.
 
 ## Key Findings
 
-- Aperture settings significantly influence the depth of field.
-- Photographers can use aperture-priority mode or shutter-priority mode to control depth of field.
-- Focal length and aperture settings together determine how much of an image is in focus (depth-of-field).
+- Aperture size directly influences the depth of field in photography.
+- Shutter priority mode allows photographers to control motion blur independently while adjusting aperture for depth of field.
+- Longer focal lengths result in a shallower depth of field for similar aperture settings.
 
 ## Open Questions
 
-- How do photographers optimally balance between achieving a desired depth of field and minimizing motion blur when using different priority modes?
+- How do varying techniques and ethical considerations impact viewer perception and image interpretation?
 
 ## Sources
 
 - [fxa202-week02-aperture-and-shutter-priority-modes](../sources/fxa202-week02-aperture-and-shutter-priority-modes.md)
 - [fxa202-week02-depth-of-field-the-essential-guide-tips](../sources/fxa202-week02-depth-of-field-the-essential-guide-tips.md)
+- [fxa202-week02-out-of-focuson-purpose](../sources/fxa202-week02-out-of-focuson-purpose.md)

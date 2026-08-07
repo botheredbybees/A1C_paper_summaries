@@ -1,38 +1,36 @@
 ---
 type: source
 source_type: web-article
-title: "Electric Vehicle Adoption in Australia: Breaking Down the Barriers"
-apa7: "admin. (2024, December 23). Electric vehicle adoption in Australia: breaking down the barriers [Web page]. https://www.australia21.org.au/electric-vehicle-adoption-in-australia-breaking-down-the-barriers/"
+title: "Returning the Service: The Healing Use of Creative Arts"
+apa7: "Drayton, I. (2016). Returning the service: The healing use of creative arts. In B. Douglas & J. Wodak (Eds.), Trauma-related stress in Australia: Essays by leading Australian thinkers and researchers (pp. 97-99). Australia21."
 doi: null
 appearances:
   - unit: FXA301
     week: "10"
-tags: ["climate-change-and-environment", "transport-infrastructure", "electric-vehicles", "fxa301"]
-key_concepts: ["ev-adoption", "charging-infrastructure", "government-incentives"]
+tags: ["creative-arts-therapy", "veterans", "post-traumatic-stress-disorder", "fxa301"]
+key_concepts: ["creative-arts-therapy", "veteran-recovery", "arts-for-recovery-resilience-teamwork-and-skills"]
 methods: []
 slug: fxa301-week10-web-article-drayton-2016
-related: []
+related: ["creative-arts-therapy", "post-traumatic-stress-disorder", "veterans"]
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-08-02
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-week10-web-article-drayton-2016.md_
 
-## Electric Vehicle Adoption in Australia: Breaking Down the Barriers
+## Returning the Service: The Healing Use of Creative Arts
 
-The article discusses the rapid transformation of Australia's electric vehicle (EV) market, noting a tripling in EV sales over the past year. It highlights the expansion of charging infrastructure and the overall growth of the EV landscape. The piece also mentions challenges such as cost barriers and range anxiety for potential buyers but emphasizes government incentives and technological advancements are driving adoption.
+Ian Drayton, a Faculty General Manager at the University of Canberra and ex-serving member of the Royal Australian Army, describes the Arts for Recovery, Resilience, Teamwork and Skills (ARRTS) project — a collaboration between the Australian Defence Force and the University of Canberra's Faculty of Arts & Design. The essay reports that as many as 30% of veterans returning from active service develop PTSD, and that reluctance to seek treatment is a major barrier to recovery. ARRTS is a four-week intensive residential program in which participants self-nominate to undertake activities across four creative streams — creative writing, visual art, music, and performance — conducted concurrently and culminating in a showcase event to which participants' families are invited. Drayton reports that creative arts therapy shows promise in reducing intrusive thoughts and hyperarousal and in helping participants overcome avoidance and emotional numbing, and argues for a broader, coordinated, arts-based care model extending beyond veterans to emergency service personnel and other trauma survivors.
 
 ## Key Concepts
 
-- [ev-adoption](../topics/ev-adoption.md)
-- [charging-infrastructure](../topics/charging-infrastructure.md)
-- [government-incentives](../topics/government-incentives.md)
+- [creative-arts-therapy](../topics/creative-arts-therapy.md)
 
 ## Tags
 
-- [climate-change-and-environment](../tags/climate-change-and-environment.md)
-- [transport-infrastructure](../tags/transport-infrastructure.md)
-- [electric-vehicles](../tags/electric-vehicles.md)
+- [creative-arts-therapy](../tags/creative-arts-therapy.md)
+- [veterans](../tags/veterans.md)
+- [post-traumatic-stress-disorder](../tags/post-traumatic-stress-disorder.md)
 - [fxa301](../tags/fxa301.md)
 
 ## Methods
@@ -41,4 +39,6 @@ The article discusses the rapid transformation of Australia's electric vehicle (
 
 ## See Also
 
-*(none yet)*
+- [creative-arts-therapy](../topics/creative-arts-therapy.md)
+- [post-traumatic-stress-disorder](../topics/post-traumatic-stress-disorder.md)
+- [veterans](../topics/veterans.md)

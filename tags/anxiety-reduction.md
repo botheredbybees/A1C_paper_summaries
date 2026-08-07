@@ -1,11 +1,12 @@
 ---
 type: tag
 tag: anxiety-reduction
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Anxiety Reduction
 
+- [Critical Reflection on Present Mindedness and Mindfulness Practices](../sources/fxa202-week03-critical-reflection-on-present-mindedness-and-mindfulness.md)
 - [The Use of Puppets in Psychodynamic Child Therapy](../sources/fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy.md)
 - [Puppet play therapy in emergency pediatric dental clinic](../sources/fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic.md)
 - [A meta-analysis of randomized controlled trials of laughter and humour interventions on depression, anxiety and sleep quality in adults](../sources/fxa303-week13-a-meta-analysis-of-randomized-controlled-trials-of-laughter.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creativity-as-coping-mechanism
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Creativity As Coping Mechanism

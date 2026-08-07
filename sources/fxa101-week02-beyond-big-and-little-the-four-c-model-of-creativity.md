@@ -11,7 +11,7 @@ tags: ["creativity-theories", "four-c-model", "creative-processes", "fxa101", "b
 key_concepts: ["big-c-creativity", "little-c-creativity", "mini-c-creativity"]
 methods: []
 slug: fxa101-week02-beyond-big-and-little-the-four-c-model-of-creativity
-related: ["big-c-creativity", "creative-processes", "creativity-theories"]
+related: ["big-c-creativity", "creative-processes", "creativity-theories", "little-c-creativity"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -45,3 +45,4 @@ James C. Kaufman and Ronald A. Beghetto propose the Four C Model of Creativity t
 - [big-c-creativity](../topics/big-c-creativity.md)
 - [creative-processes](../topics/creative-processes.md)
 - [creativity-theories](../topics/creativity-theories.md)
+- [little-c-creativity](../topics/little-c-creativity.md)

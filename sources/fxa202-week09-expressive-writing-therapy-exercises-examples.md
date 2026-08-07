@@ -11,7 +11,7 @@ tags: ["expressive-writing-therapy", "mental-health-interventions", "emotional-h
 key_concepts: ["expressive writing therapy", "physical health outcomes", "traumatic events"]
 methods: ["case study"]
 slug: fxa202-week09-expressive-writing-therapy-exercises-examples
-related: ["emotional-healing", "expressive-writing-therapy", "mental-health-interventions", "therapeutic-benefits"]
+related: ["emotional-healing", "expressive-writing", "mental-health-interventions", "therapeutic-benefits"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -24,7 +24,7 @@ The article explores the benefits and practical applications of expressive writi
 
 ## Key Concepts
 
-- [expressive writing therapy](../topics/expressive-writing-therapy.md)
+- [expressive writing therapy](../topics/expressive-writing.md)
 - [physical health outcomes](../topics/physical-health-outcomes.md)
 - [traumatic events](../topics/traumatic-events.md)
 
@@ -44,6 +44,6 @@ The article explores the benefits and practical applications of expressive writi
 ## See Also
 
 - [emotional-healing](../topics/emotional-healing.md)
-- [expressive-writing-therapy](../topics/expressive-writing-therapy.md)
+- [expressive-writing](../topics/expressive-writing.md)
 - [mental-health-interventions](../topics/mental-health-interventions.md)
 - [therapeutic-benefits](../topics/therapeutic-benefits.md)

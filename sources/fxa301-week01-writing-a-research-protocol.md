@@ -7,13 +7,15 @@ doi: https://doi.org/10.1093/oso/9780198792079.003.0011
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["arts-interventions", "ethical-approval", "external-validity", "fxa301", "internal-consistency", "research-protocol", "transparency"]
+  - unit: FXA100
+    week: "04"
+tags: ["arts-interventions", "ethical-approval", "external-validity", "fxa301", "internal-consistency", "research-protocol", "transparency", "fxa100"]
 key_concepts: ["internal-consistency", "external-validity", "ethical-considerations"]
 methods: ["template-proposal"]
 slug: fxa301-week01-writing-a-research-protocol
 related: ["arts-interventions", "internal-consistency", "research-protocol"]
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-week01-writing-a-research-protocol.md_

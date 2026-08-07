@@ -11,7 +11,7 @@ tags: ["blood-biomarkers", "body-composition-improvement", "cardiovascular-funct
 key_concepts: ["body-composition-improvement", "blood-biomarkers", "musculoskeletal-function", "cardiovascular-function"]
 methods: ["systematic-review", "meta-analysis"]
 slug: fxa100-week13-the-effectiveness-of-dance-interventions-on-physical-health
-related: ["dance-interventions", "meta-analysis"]
+related: ["falls-prevention-in-older-adults", "meta-analysis"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -41,5 +41,5 @@ This systematic review and meta-analysis examines the effectiveness of structure
 
 ## See Also
 
-- [dance-interventions](../topics/dance-interventions.md)
+- [falls-prevention-in-older-adults](../topics/falls-prevention-in-older-adults.md)
 - [meta-analysis](../topics/meta-analysis.md)

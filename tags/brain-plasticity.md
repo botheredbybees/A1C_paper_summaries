@@ -1,12 +1,13 @@
 ---
 type: tag
 tag: brain-plasticity
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Brain Plasticity
 
 - [Are the Brains of Musicians Physically Different?](../sources/fxa100-week02-are-the-brains-of-musicians-physically-different.md)
+- [Music and Rehabilitation: Neurological Approaches](../sources/fxa100-week04-music-and-rehabilitation-neurological-approaches.md)
 - [Music as Therapy and Health Promotion](../sources/fxa100-week04-music-as-therapy-and-health-promotion.md)
 - [When Words Fade, the Canvas Speaks: Revelations from the Science of Art and the Brain](../sources/fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the.md)
 - [Acquiring Tastes and Loves: What Neuroplasticity Teaches Us About Sexual Attraction and Love](../sources/fxa101-week02-acquiring-tastes-and-loves-what-neuroplasticity-teaches-us.md)
@@ -21,6 +22,7 @@ updated: 2026-07-28
 - [Understanding the Brain: The Birth of a Learning Science](../sources/fxa300-week02-understanding-the-brain-the-birth-of-a-learning-science.md)
 - [Brain Structures Differ between Musicians and Non-Musicians](../sources/fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians.md)
 - [Infancy and the early years](../sources/fxa303-week02-infancy-and-the-early-years.md)
+- [Adolescence as a Sensitive Period of Brain Development](../sources/fxa303-week03-adolescence-as-a-sensitive-period-of-brain-development.md)
 - [Hormones and the Adolescent Brain](../sources/fxa303-week03-hormones-and-the-adolescent-brain.md)
 - [Rebuilding the Brain with Psychotherapy](../sources/fxa303-week03-rebuilding-the-brain-with-psychotherapy.md)
 - [The Teen Brain](../sources/fxa303-week03-the-teen-brain.md)

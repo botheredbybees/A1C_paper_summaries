@@ -1,27 +1,27 @@
 ---
 type: topic
-domain: "intervention"
+domain: "method"
 title: "Cognitive Monitoring"
 confidence: medium
 tags: ["cognitive-monitoring"]
 sources:
   - fxa303-week02-a-new-context-affording-for-regulation-the-case-of-musical
-updated: 2026-05-16
+updated: 2026-08-07
 ---
 
 ## Cognitive Monitoring
 
-The concept of cognitive monitoring, as discussed across sources, pertains to an individual's ability to regulate their emotional and motivational states through internal or shared processes. Source one delves into the case of musical play, highlighting how such activities provide a context for individuals, especially children, to engage in regulatory behaviors that enhance both emotional and social skills. Cognitive monitoring is thus seen as integral not just for personal regulation but also for socially-shared regulation, where individuals work together to manage their collective environment and goals.
+The concept of cognitive monitoring involves the ongoing self-assessment and regulation of one's own thought processes. This method is pivotal in understanding how individuals manage their mental activities, particularly in emotionally charged or socially complex scenarios. The source emphasizes the role of musical play as a context that affords opportunities for emotional and social regulation through cognitive monitoring. It discusses how such activities allow participants to observe and adjust their behaviors in ways that are both personally beneficial and socially appropriate. This underscores the significance of cognitive monitoring not just as an individual practice but also as a component of socially shared regulation, where group dynamics influence and are influenced by individual regulatory behaviors.
 
 ## Key Findings
 
-- Cognitive monitoring involves the regulation of emotional and motivational states through internal or shared processes.
-- Musical play offers a unique context for enhancing regulatory behaviors in children, promoting both individual and social skills development.
-- Socially-shared regulation can be facilitated through activities that support collective cognitive monitoring among participants.
+- Cognitive monitoring is crucial for emotional and social regulation in individuals.
+- Musical play provides contexts that enhance the effectiveness of cognitive monitoring.
+- Socially shared regulation plays an important role alongside individual cognitive monitoring.
 
 ## Open Questions
 
-- How do different types of interventions enhance the effectiveness of cognitive monitoring beyond musical contexts?
+- How do different cultural contexts influence the efficacy and implementation of cognitive monitoring?
 
 ## Sources
 

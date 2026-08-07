@@ -1,14 +1,17 @@
 ---
 type: tag
 tag: social-interaction
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Social Interaction
 
 - [Improvisation and Other Dramas](../sources/fxa100-creativity-and-communication-ch07-7-making-it-all-up-improvisation-and-other-dramas-john.md)
 - [The Perceived Benefits of Singing: Findings from Preliminary Surveys](../sources/fxa100-week04-the-perceived-benefits-of-singing-findings-from-preliminary.md)
+- [Week 4 Lecture: Music Participation and Health Benefits for People with Dementia](../sources/fxa100-week04-week-4-lecture-music-participation-and-health-benefits-for.md)
+- [here:now \u2013 Conceptual model of the impact of an experiential arts program on persons with dementia and their care partners](../sources/fxa100-week06-herenow-conceptual-model-of-the-impact-of-an-experiential.md)
 - [Aged care outreach](../sources/fxa100-week07-aged-care-outreach.md)
+- [Evaluation of the \u2018Unforgettable\u2019 Art Programme by People with Dementia and Their Care-Givers](../sources/fxa100-week07-evaluation-of-the-unforgettable-art-programme-by-people.md)
 - [iRemember Loan Resource Flyer](../sources/fxa100-week07-iremember-loan-resource-flyer.md)
 - [Museums, Meaning Making, and Memories: The Need for Museum Programs for People with Dementia and Their Caregivers](../sources/fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum.md)
 - [The Emotional Response to Social Dancing and Walks in Persons With Dementia](../sources/fxa100-week11-the-emotional-response-to-social-dancing-and-walks-in.md)

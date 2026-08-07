@@ -2,7 +2,7 @@
 type: source
 source_type: paper
 title: "Application of cognitive stimulation in the care of institutionalized elderly people with dementia"
-apa7: "Nascimento, N. M., Souto, R. Q., Ara\u00fajo, G. K. N., & Santos, R. C. (2021). Aplica\u00e7\u00e3o da estimula\u00e7\u00e3o cognitiva no cuidado ao idoso institucionalizado com dem\u00eancia. Revista Pesquisa e Cl\u00ednica: Fundamentos em Sa\u00fade Online, 13(9898), 1-6. https://doi.org/10.9789/2175-5361.rpcfo.v13.9898"
+apa7: "Nascimento, N. M., Souto, R. Q., Ara\u00fajo, G. K. N., & Santos, R. C. (2021). Aplica\u00e7\u00e3o da estimula\u00e7\u00e3o cognitiva no cuidado ao idoso institucionalizado com dem\u00eancia. Revista de Pesquisa Cuidado \u00e9 Fundamental Online, 13, 1044-1052. https://doi.org/10.9789/2175-5361.rpcfo.v13.9898"
 doi: https://doi.org/10.9789/2175-5361.rpcfo.v13.9898
 appearances:
   - unit: FXA303
@@ -13,7 +13,7 @@ methods: ["literature review"]
 slug: fxa303-week13-application-of-cognitive-stimulation-in-the-care-of
 related: ["cognitive-stimulation", "dementia-care", "quality-of-life"]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-08-02
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week13-application-of-cognitive-stimulation-in-the-care-of.md_

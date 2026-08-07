@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: adolescent-development
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Adolescent Development
@@ -10,7 +10,9 @@ updated: 2026-07-28
 - [Training creative cognition: adolescence as a flexible period for improving creativity](../sources/fxa101-week03-training-creative-cognition-adolescence-as-a-flexible.md)
 - [Music Listening for Supporting Adolescents\u2019 Sense of Agency in Daily Life](../sources/fxa301-week03-music-listening-for-supporting-adolescents-sense-of-agency.md)
 - [School-based drama interventions in health promotion for children and adolescents: systematic review](../sources/fxa301-week08-school-based-drama-interventions-in-health-promotion-for.md)
+- [FXA303 Week 3: Introduction to Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental.md)
 - [Adolescent Development and Brain Changes](../sources/fxa303-week02-lesson-fxa303-week02-introduction-copy.md)
+- [Arts in Adolescence: Mental Wellbeing and Development](../sources/fxa303-week02-lesson-fxa303-week02-topic-20-20activities-201-copy.md)
 - [Adolescent Development](../sources/fxa303-week03-adolescent-development.md)
 - [Adolescent Neurodevelopment](../sources/fxa303-week03-adolescent-neurodevelopment.md)
 - [Arts in Adolescence](../sources/fxa303-week03-arts-in-adolescence.md)

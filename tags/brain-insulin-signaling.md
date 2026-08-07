@@ -1,9 +1,9 @@
 ---
 type: tag
 tag: brain-insulin-signaling
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Brain Insulin Signaling
 
-- [Effect of Antidiabetic Drugs in Alzheimer's Disease: A Systematic Review](../sources/fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a.md)
+- [Effect of Antidiabetic Drugs in Alzheimer's Disease: A Systematic Review of Preclinical and Clinical Studies](../sources/fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a.md)

@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "The impact of cognitive reserve on neuropsychological measures in clinical trials"
-apa7: "Bieliauskas, L. A., & Antonucci, A. (2006). The impact of cognitive reserve on neuropsychological measures in clinical trials. In Y. Stern (Ed.), Cognitive Reserve: Theory and Applications (pp. 175-187). Taylor & Francis Group."
-doi: https://doi.org/10.4324/9780203783047-7
+apa7: "Bieliauskas, U., & Antonucci, A. (2013). The impact of cognitive reserve on neuropsychological measures in clinical trials. https://doi.org/10.4324/9780203783047-16"
+doi: https://doi.org/10.4324/9780203783047-16
 appearances:
   - unit: FXA101
     week: "03"

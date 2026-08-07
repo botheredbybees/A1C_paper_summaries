@@ -7,8 +7,10 @@ sources:
   - fxa100-week03-lesson-fxa100-week03-page-1-welcome-to-week-3
   - fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care
   - fxa100-week04-intergenerational-choir-transcript
+  - fxa100-week04-intergenerational-choir-transcript-(2)
   - fxa100-week04-interventions-for-dementia-care
   - fxa100-week07-aged-care-outreach
+  - fxa100-week07-arts-engagement-for-people-with-dementia-independent-(2)
   - fxa100-week07-turning-back-the-hands-of-time-autobiographical-memories-in
   - fxa101-week04-creativity-in-later-life
   - fxa301-applied-artes-and-health-ch03-85-ulrich
@@ -19,7 +21,7 @@ tags:
 - cognitive-stimulation
 title: Cognitive Stimulation in Dementia Care
 type: topic
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Cognitive Stimulation in Dementia Care
@@ -42,8 +44,10 @@ The provided sources highlight the multifaceted approach to cognitive stimulatio
 - [fxa100-week03-lesson-fxa100-week03-page-1-welcome-to-week-3](../sources/fxa100-week03-lesson-fxa100-week03-page-1-welcome-to-week-3.md)
 - [fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care](../sources/fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care.md)
 - [fxa100-week04-intergenerational-choir-transcript](../sources/fxa100-week04-intergenerational-choir-transcript.md)
+- [fxa100-week04-intergenerational-choir-transcript-(2)](../sources/fxa100-week04-intergenerational-choir-transcript-%282%29.md)
 - [fxa100-week04-interventions-for-dementia-care](../sources/fxa100-week04-interventions-for-dementia-care.md)
 - [fxa100-week07-aged-care-outreach](../sources/fxa100-week07-aged-care-outreach.md)
+- [fxa100-week07-arts-engagement-for-people-with-dementia-independent-(2)](../sources/fxa100-week07-arts-engagement-for-people-with-dementia-independent-%282%29.md)
 - [fxa100-week07-turning-back-the-hands-of-time-autobiographical-memories-in](../sources/fxa100-week07-turning-back-the-hands-of-time-autobiographical-memories-in.md)
 - [fxa101-week04-creativity-in-later-life](../sources/fxa101-week04-creativity-in-later-life.md)
 - [fxa301-applied-artes-and-health-ch03-85-ulrich](../sources/fxa301-applied-artes-and-health-ch03-85-ulrich.md)

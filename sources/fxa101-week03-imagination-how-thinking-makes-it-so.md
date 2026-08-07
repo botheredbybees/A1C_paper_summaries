@@ -11,7 +11,7 @@ tags: ["brain-plasticity", "neuroscience-research", "transcranial-magnetic-stimu
 key_concepts: ["brain-plasticity", "mental-activities-brain-changes", "therapeutic-applications-tms"]
 methods: ["transcranial-magnetic-stimulation", "case-study"]
 slug: fxa101-week03-imagination-how-thinking-makes-it-so
-related: ["brain-plasticity", "neuroscience-research"]
+related: ["brain-plasticity", "neuroscience-research", "transcranial-magnetic-stimulation"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -44,3 +44,4 @@ The chapter 'Imagination: How Thinking Makes It So' in Norman Doidge's book 'The
 
 - [brain-plasticity](../topics/brain-plasticity.md)
 - [neuroscience-research](../topics/neuroscience-research.md)
+- [transcranial-magnetic-stimulation](../topics/transcranial-magnetic-stimulation.md)

@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Good for the Heart, Good for the Soul: The Creative Arts and Brain Health in Later Life"
-apa7: "Patterson, M. C., & Perlstein, S. (2011). Good for the heart, good for the soul: The creative arts and brain health in later life. Generations, 35(2), 27-36. https://doi.org/10.1002/gedi.20348"
-doi: https://doi.org/10.1002/gedi.20348
+apa7: "Patterson, M. C., & Perlstein, S. (2011). Good for the heart, good for the soul: The creative arts and brain health in later life. Generations, 35(2), 27-36."
+doi: null
 appearances:
   - unit: FXA101
     week: "02"
@@ -13,7 +13,7 @@ methods: ["case-study", "longitudinal-analysis"]
 slug: fxa101-week02-good-for-the-heart-good-for-the-soul-the-creative-arts-and
 related: ["cognitive-resilience", "creative-arts-interventions"]
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-08-02
 ---
 
 _All claims sourced from ../raw/pdf/fxa101-week02-good-for-the-heart-good-for-the-soul-the-creative-arts-and.md_

@@ -7,13 +7,15 @@ doi: null
 appearances:
   - unit: FXA300
     week: "04"
-tags: ["api-error", "youtube-transcript", "fxa300", "api-page-retrieval", "getaddrinfo-failed"]
+  - unit: FXA303
+    week: "05"
+tags: ["api-error", "youtube-transcript", "fxa300", "api-page-retrieval", "getaddrinfo-failed", "fxa303"]
 key_concepts: ["API page retrieval", "getaddrinfo failed"]
 methods: []
 slug: fxa300-week04-transcript-delete-this-element-url-only
-related: []
+related: ["youtube-transcript"]
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa300-week04-transcript-delete-this-element-url-only.md_
@@ -40,4 +42,4 @@ The content describes an unsuccessful attempt to automatically download a YouTub
 
 ## See Also
 
-*(none yet)*
+- [youtube-transcript](../topics/youtube-transcript.md)

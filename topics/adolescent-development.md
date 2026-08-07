@@ -7,7 +7,9 @@ sources:
   - fxa101-week03-training-creative-cognition-adolescence-as-a-flexible
   - fxa301-week03-music-listening-for-supporting-adolescents-sense-of-agency
   - fxa301-week08-school-based-drama-interventions-in-health-promotion-for
+  - fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental
   - fxa303-week02-lesson-fxa303-week02-introduction-copy
+  - fxa303-week02-lesson-fxa303-week02-topic-20-20activities-201-copy
   - fxa303-week03-adolescent-development
   - fxa303-week03-adolescent-neurodevelopment
   - fxa303-week03-arts-in-adolescence
@@ -22,7 +24,7 @@ tags:
 - adolescent-development
 title: Adolescent Development and Arts Integration
 type: topic
-updated: 2026-07-20
+updated: 2026-08-07
 ---
 
 ## Adolescent Development and Arts Integration
@@ -45,7 +47,9 @@ The integration of arts in adolescent development showcases a multifaceted appro
 - [fxa101-week03-training-creative-cognition-adolescence-as-a-flexible](../sources/fxa101-week03-training-creative-cognition-adolescence-as-a-flexible.md)
 - [fxa301-week03-music-listening-for-supporting-adolescents-sense-of-agency](../sources/fxa301-week03-music-listening-for-supporting-adolescents-sense-of-agency.md)
 - [fxa301-week08-school-based-drama-interventions-in-health-promotion-for](../sources/fxa301-week08-school-based-drama-interventions-in-health-promotion-for.md)
+- [fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental](../sources/fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental.md)
 - [fxa303-week02-lesson-fxa303-week02-introduction-copy](../sources/fxa303-week02-lesson-fxa303-week02-introduction-copy.md)
+- [fxa303-week02-lesson-fxa303-week02-topic-20-20activities-201-copy](../sources/fxa303-week02-lesson-fxa303-week02-topic-20-20activities-201-copy.md)
 - [fxa303-week03-adolescent-development](../sources/fxa303-week03-adolescent-development.md)
 - [fxa303-week03-adolescent-neurodevelopment](../sources/fxa303-week03-adolescent-neurodevelopment.md)
 - [fxa303-week03-arts-in-adolescence](../sources/fxa303-week03-arts-in-adolescence.md)

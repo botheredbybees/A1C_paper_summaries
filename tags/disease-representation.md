@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: disease-representation
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Disease Representation

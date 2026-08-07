@@ -6,21 +6,21 @@ confidence: medium
 tags: ["artistic-expression-as-cognition"]
 sources:
   - fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia
-updated: 2026-05-16
+updated: 2026-08-07
 ---
 
 ## Artistic Expression as Cognition
 
-The integration of findings from the sources provided highlights the complex interplay between artistic expression and cognitive function. The influence of frontotemporal dementia on an accomplished artist underscores the notion that, even with significant cognitive decline in certain areas, creativity can persist, suggesting a fundamental dissociation between higher-order cognition and creative processes. This preservation of creativity challenges traditional views of cognitive impairment and provides insights into the resilience and adaptability of human cognitive architecture.
+The sources collectively highlight the role of artistic expression in cognitive processes, particularly in individuals affected by dementia. Preservation of creativity and ability to produce art in frontotemporal dementia patients underscores a unique aspect of cognition that is independent from memory decline. This suggests that creative activities such as painting or sculpting can serve as a window into understanding preserved neural functions even when other aspects of cognitive function deteriorate.
 
 ## Key Findings
 
-- Artistic expression is resilient to cognitive decline due to neurodegenerative diseases like frontotemporal dementia
-- There exists a fundamental dissociation between artistic creativity and certain forms of higher-order cognition in brain function
+- Artistic expression remains possible in advanced stages of frontotemporal dementia, indicating the resilience of specific cognitive abilities
+- Creative processes provide insight into isolated neural networks involved in cognition
 
 ## Open Questions
 
-- How can the preservation of creative abilities, despite cognitive impairment, inform our understanding of the neural substrates underlying creativity?
+- How do preserved creative functions influence broader cognitive health and therapeutic interventions for individuals with neurodegenerative diseases?
 
 ## Sources
 

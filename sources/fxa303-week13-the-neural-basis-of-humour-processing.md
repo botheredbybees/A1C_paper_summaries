@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "The neural basis of humour processing"
-apa7: "Vrticka, P., Black, J. M., & Reiss, A. L. (2013). The neural basis of humor processing. *Nature Reviews Neuroscience*, 14(12), 860\u2013875. https://doi.org/10.1038/nrn3594"
-doi: https://doi.org/10.1038/nrn3594
+apa7: "Vrtička, P., Black, J., & Reiss, A. (2013). The neural basis of humour processing. *Nature Reviews Neuroscience*. https://doi.org/10.1038/nrn3566"
+doi: https://doi.org/10.1038/nrn3566
 appearances:
   - unit: FXA303
     week: "13"

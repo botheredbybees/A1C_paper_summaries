@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: posttraumatic-stress-symptoms
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Posttraumatic Stress Symptoms

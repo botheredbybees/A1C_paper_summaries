@@ -7,13 +7,15 @@ doi: null
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["community-arts", "evaluation-framework", "evaluation-methods", "fxa301", "social-outcomes", "well-being"]
+  - unit: FXA100
+    week: "04"
+tags: ["community-arts", "evaluation-framework", "evaluation-methods", "fxa301", "social-outcomes", "well-being", "fxa100"]
 key_concepts: ["community-well-being", "evaluation-framework", "continuous-improvement"]
 methods: ["guidebook", "structured-evaluation"]
 slug: fxa301-week01-evaluating-community-arts-community-well-being-an
 related: ["community-arts", "evaluation-methods", "social-outcomes", "well-being"]
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-week01-evaluating-community-arts-community-well-being-an.md_

@@ -11,7 +11,7 @@ tags: ["child-psychology", "therapeutic-interventions", "health-care", "puppet-t
 key_concepts: ["hand puppet-based therapeutic play", "preschool children", "blood collection procedure", "fear and pain reduction"]
 methods: ["randomized controlled trial"]
 slug: fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for
-related: ["child-psychology", "health-care", "puppet-therapy", "therapeutic-interventions"]
+related: ["child-psychology", "health-care", "puppet-assisted-play-therapy-for-children", "therapeutic-interventions"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -47,5 +47,5 @@ This study aimed to determine the effects of a hand puppet-based therapeutic pla
 
 - [child-psychology](../topics/child-psychology.md)
 - [health-care](../topics/health-care.md)
-- [puppet-therapy](../topics/puppet-therapy.md)
+- [puppet-assisted-play-therapy-for-children](../topics/puppet-assisted-play-therapy-for-children.md)
 - [therapeutic-interventions](../topics/therapeutic-interventions.md)

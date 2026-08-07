@@ -7,13 +7,15 @@ doi: null
 appearances:
   - unit: FXA303
     week: "03"
+  - unit: FXA303
+    week: "02"
 tags: ["mental-wellbeing", "adolescent-development", "creative-arts-intervention", "neuroscience-of-art", "brain-plasticity", "risk-prevention", "fxa303"]
 key_concepts: ["ongoing-brain-development", "environmental-influences-on-mental-health", "cognitive-functions-through-expression", "decision-making-capacities-during-adolescence"]
 methods: ["systematic-review"]
 slug: fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental
 related: ["adolescent-development", "brain-plasticity", "creative-arts-intervention", "mental-wellbeing"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental.md_

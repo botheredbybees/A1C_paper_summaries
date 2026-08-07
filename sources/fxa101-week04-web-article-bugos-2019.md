@@ -11,7 +11,7 @@ tags: ["bimanual-coordination", "music-interventions", "executive-functions", "f
 key_concepts: ["bimanual coordination", "working memory"]
 methods: []
 slug: fxa101-week04-web-article-bugos-2019
-related: ["executive-functions", "music-interventions"]
+related: ["executive-functions", "music-interventions-and-cognitive-health"]
 created: 2026-07-28
 updated: 2026-07-28
 ---
@@ -40,4 +40,4 @@ This study investigates the impact of bimanual coordination in music training on
 ## See Also
 
 - [executive-functions](../topics/executive-functions.md)
-- [music-interventions](../topics/music-interventions.md)
+- [music-interventions-and-cognitive-health](../topics/music-interventions-and-cognitive-health.md)

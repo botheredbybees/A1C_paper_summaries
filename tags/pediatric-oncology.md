@@ -1,9 +1,9 @@
 ---
 type: tag
 tag: pediatric-oncology
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Pediatric Oncology
 
-- [Art Therapy and Its Impact on Mood and Emotional States in Pediatric Hematology Oncology Units](../sources/fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in.md)
+- [Art Therapy and Its Impact on Mood and Emotional States in Pediatric Hematology Oncology Units: Translation and Validation of the Italian Version of the Arts Observational Scale (ArtsObS)](../sources/fxa301-week01-art-therapy-and-its-impact-on-mood-and-emotional-states-in.md)

@@ -3,7 +3,9 @@ confidence: high
 domain: intervention
 slug: museum-education-and-health-interventions
 sources:
+  - fxa100-week07-house-of-memories
   - fxa100-week07-house-of-memories-national-museums-liverpool
+  - fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people-(2)
   - fxa100-week07-transcript-artz-museum-program-for-alzheimers-url-only
   - fxa301-week05-happy-museum-learning-evaluation-report
   - fxa301-week05-happy-museum-project-principles
@@ -15,7 +17,7 @@ tags:
 - museum-education
 title: Museum Education and Health Interventions
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Museum Education and Health Interventions
@@ -34,7 +36,9 @@ The integration of health-focused educational programs within museums presents a
 
 ## Sources
 
+- [fxa100-week07-house-of-memories](../sources/fxa100-week07-house-of-memories.md)
 - [fxa100-week07-house-of-memories-national-museums-liverpool](../sources/fxa100-week07-house-of-memories-national-museums-liverpool.md)
+- [fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people-(2)](../sources/fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people-%282%29.md)
 - [fxa100-week07-transcript-artz-museum-program-for-alzheimers-url-only](../sources/fxa100-week07-transcript-artz-museum-program-for-alzheimers-url-only.md)
 - [fxa301-week05-happy-museum-learning-evaluation-report](../sources/fxa301-week05-happy-museum-learning-evaluation-report.md)
 - [fxa301-week05-happy-museum-project-principles](../sources/fxa301-week05-happy-museum-project-principles.md)

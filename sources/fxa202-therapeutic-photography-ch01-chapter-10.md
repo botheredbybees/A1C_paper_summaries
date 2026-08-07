@@ -11,7 +11,7 @@ tags: ["therapeutic-photography", "autism-spectrum-disorder", "case-study", "fxa
 key_concepts: ["identity formation", "family systems theory", "obsessive-compulsive disorder (OCD)"]
 methods: []
 slug: fxa202-therapeutic-photography-ch01-chapter-10
-related: ["autism-spectrum-disorder", "therapeutic-photography"]
+related: ["autism-spectrum-disorder", "case-study", "therapeutic-photography"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,4 +42,5 @@ Chapter 10 presents a case study of a therapeutic photography program conducted 
 ## See Also
 
 - [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)
+- [case-study](../topics/case-study.md)
 - [therapeutic-photography](../topics/therapeutic-photography.md)

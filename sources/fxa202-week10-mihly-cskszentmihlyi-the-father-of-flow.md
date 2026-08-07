@@ -11,7 +11,7 @@ tags: ["positive-psychology", "flow-experience", "well-being-research", "quality
 key_concepts: ["flow theory", "optimal experiences", "positive psychology"]
 methods: ["case study"]
 slug: fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow
-related: ["flow-experience", "positive-psychology", "quality-of-life", "well-being-research"]
+related: ["flow-experience", "motivation-theory", "positive-psychology", "quality-of-life", "well-being-research"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -44,6 +44,7 @@ This document explores the work and impact of Mihály Csíkszentmihályi, known 
 ## See Also
 
 - [flow-experience](../topics/flow-experience.md)
+- [motivation-theory](../topics/motivation-theory.md)
 - [positive-psychology](../topics/positive-psychology.md)
 - [quality-of-life](../topics/quality-of-life.md)
 - [well-being-research](../topics/well-being-research.md)

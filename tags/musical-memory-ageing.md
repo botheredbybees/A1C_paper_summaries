@@ -1,9 +1,9 @@
 ---
 type: tag
 tag: musical-memory-ageing
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Musical Memory Ageing
 
-- [Musical Memories Don't Diminish with Age](../sources/fxa300-week04-musical-memories-dont-diminish-with-age.md)
+- [Don't Fade Away: Memory for Music Persists with Age](../sources/fxa300-week04-musical-memories-dont-diminish-with-age.md)

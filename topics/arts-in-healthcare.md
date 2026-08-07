@@ -1,9 +1,12 @@
 ---
+type: topic
+domain: "intervention"
+title: "Arts in Healthcare"
 confidence: high
-domain: intervention
-slug: arts-in-healthcare
+tags: ["arts-in-healthcare"]
 sources:
   - fxa100-week04-mindsong-transcript
+  - fxa100-week07-fxa100-week-7-lecture-(2)
   - fxa100-week10-lesson-fxa100-week10-page-4-week-9-activities
   - fxa100-week10-week-10-lecture-theatre-and-play-in-dementia-care
   - fxa301-arts-in-health-ch04-48-haldane-d
@@ -11,30 +14,27 @@ sources:
   - fxa301-week01-is-there-compelling-evidence-for-using-the-arts-in-health
   - fxa301-week01-validation-of-the-arts-observational-scale-for-the
   - fxa301-week03-implementing-creative-health
-tags:
-- arts-in-healthcare
-title: Arts in Healthcare
-type: topic
-updated: 2026-05-16
+updated: 2026-08-07
 ---
 
 ## Arts in Healthcare
 
-The integration of arts into healthcare settings emerges as a multifaceted intervention aimed at enhancing patient experiences and outcomes. Source 1 highlights music therapy's role in emotional re-engagement, emphasizing its therapeutic value beyond traditional biopsychosocial models discussed in Source 2. The theoretical underpinnings suggest a shift from Cartesian dualism towards more holistic approaches that recognize the interconnectedness of mind and body. Sources 3 and 4 expand on practical applications, showcasing bespoke arts projects within healthcare environments designed to foster an atmosphere supportive of recovery and well-being. These initiatives align with broader goals like addressing health inequalities and promoting sustainable development, as highlighted in Source 4's focus on creative health interventions.
+The integration of arts into healthcare demonstrates a multifaceted approach to enhancing patient care and wellbeing. Sources highlight the effectiveness of various creative interventions such as music therapy, theatre projects, and visual art programs that promote emotional re-engagement and reminiscence among dementia patients (Source 1, Source 4). These interventions are underpinned by theoretical models like the biopsychosocial model and person-centered care, emphasizing holistic treatment beyond purely biological factors (Source 5, Source 3). The practical implementation of these theories includes bespoke projects tailored to individual needs and interdisciplinary collaboration between healthcare professionals and artists (Source 6, Source 7). Evidence-based practice is increasingly important, with the development of tools like the Arts Observational Scale (ArtsObS) providing a structured framework for evaluating arts activities in health care settings, ensuring construct validity and inter-rater reliability (Source 8). Challenges remain regarding standardization versus customization of creative interventions to meet diverse patient needs while maintaining evidence-based practices.
 
 ## Key Findings
 
-- Music therapy and other art-based interventions can significantly enhance emotional re-engagement for patients.
-- Holistic healthcare models incorporating arts recognize the interplay between mental and physical well-being.
-- Creative health initiatives are being implemented to address systemic health inequalities and promote sustainability.
+- Creative interventions like music therapy and theatre projects enhance emotional re-engagement among dementia patients.
+- Theoretical frameworks such as the biopsychosocial model guide arts-in-healthcare practice, emphasizing holistic treatment approaches.
+- Interdisciplinary collaboration between healthcare professionals and artists is crucial for effective implementation of creative health initiatives.
 
 ## Open Questions
 
-- How effective are bespoke arts projects in achieving long-term, sustainable improvements in public health?
+- How can standardization be balanced with customization in the development of evidence-based practices for arts-in-health interventions?
 
 ## Sources
 
 - [fxa100-week04-mindsong-transcript](../sources/fxa100-week04-mindsong-transcript.md)
+- [fxa100-week07-fxa100-week-7-lecture-(2)](../sources/fxa100-week07-fxa100-week-7-lecture-%282%29.md)
 - [fxa100-week10-lesson-fxa100-week10-page-4-week-9-activities](../sources/fxa100-week10-lesson-fxa100-week10-page-4-week-9-activities.md)
 - [fxa100-week10-week-10-lecture-theatre-and-play-in-dementia-care](../sources/fxa100-week10-week-10-lecture-theatre-and-play-in-dementia-care.md)
 - [fxa301-arts-in-health-ch04-48-haldane-d](../sources/fxa301-arts-in-health-ch04-48-haldane-d.md)

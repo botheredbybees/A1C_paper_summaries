@@ -3,13 +3,15 @@ confidence: medium
 domain: intervention
 slug: singing-therapy
 sources:
+  - fxa100-week04-singing-and-participation-(2)
+  - fxa100-week04-singing-and-the-brain-(2)
   - fxa301-week06-the-ice-breaker-effect-singing-mediates-fast-social-bonding
   - fxa301-week09-facing-the-music-three-issues-in-current-research-on
 tags:
 - singing-therapy
 title: Singing Therapy
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Singing Therapy
@@ -27,5 +29,7 @@ The efficacy of singing therapy is highlighted across various studies focusing o
 
 ## Sources
 
+- [fxa100-week04-singing-and-participation-(2)](../sources/fxa100-week04-singing-and-participation-%282%29.md)
+- [fxa100-week04-singing-and-the-brain-(2)](../sources/fxa100-week04-singing-and-the-brain-%282%29.md)
 - [fxa301-week06-the-ice-breaker-effect-singing-mediates-fast-social-bonding](../sources/fxa301-week06-the-ice-breaker-effect-singing-mediates-fast-social-bonding.md)
 - [fxa301-week09-facing-the-music-three-issues-in-current-research-on](../sources/fxa301-week09-facing-the-music-three-issues-in-current-research-on.md)

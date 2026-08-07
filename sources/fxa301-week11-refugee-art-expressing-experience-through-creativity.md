@@ -7,11 +7,11 @@ doi: null
 appearances:
   - unit: FXA301
     week: "11"
-tags: ["creative-expression", "fxa301", "refugee-experience", "self-empowerment", "therapeutic-art"]
+tags: ["creative-expression", "creative-interventions-in-dementia-care", "fxa301", "refugee-experience", "self-empowerment", "therapeutic-art"]
 key_concepts: ["resilience", "self-empowerment", "community-arts"]
 methods: ["case-study"]
 slug: fxa301-week11-refugee-art-expressing-experience-through-creativity
-related: ["creative-expression", "creative-interventions-in-dementia-care", "refugee-experience"]
+related: ["creative-expression", "creative-interventions-in-dementia-care", "dementia-care-interventions", "refugee-experience"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -42,4 +42,5 @@ This webpage highlights the profound impact of refugee artists who transform the
 
 - [creative-expression](../topics/creative-expression.md)
 - [creative-interventions-in-dementia-care](../topics/creative-interventions-in-dementia-care.md)
+- [dementia-care-interventions](../topics/dementia-care-interventions.md)
 - [refugee-experience](../topics/refugee-experience.md)

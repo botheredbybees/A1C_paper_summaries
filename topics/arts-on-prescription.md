@@ -4,6 +4,7 @@ domain: intervention
 slug: arts-on-prescription
 sources:
   - fxa100-week13-sensory-mediated-arts-on-prescription-emotional-arousal
+  - fxa301-week05-nsw-health-and-wellbeing-strategy-museums-galleries-of-nsw
   - fxa301-week10-fxa301-week-10-lecture
   - fxa303-week03-arts-on-prescription-meets-sir-quentin-blake
   - fxa303-week03-arts-on-prescription-observed-changes-in-anxiety-depression
@@ -12,7 +13,7 @@ tags:
 - arts-on-prescription
 title: Arts On Prescription
 type: topic
-updated: 2026-05-15
+updated: 2026-08-07
 ---
 
 ## Arts On Prescription
@@ -32,6 +33,7 @@ Arts On Prescription (AoP) is an innovative intervention aimed at enhancing ment
 ## Sources
 
 - [fxa100-week13-sensory-mediated-arts-on-prescription-emotional-arousal](../sources/fxa100-week13-sensory-mediated-arts-on-prescription-emotional-arousal.md)
+- [fxa301-week05-nsw-health-and-wellbeing-strategy-museums-galleries-of-nsw](../sources/fxa301-week05-nsw-health-and-wellbeing-strategy-museums-galleries-of-nsw.md)
 - [fxa301-week10-fxa301-week-10-lecture](../sources/fxa301-week10-fxa301-week-10-lecture.md)
 - [fxa303-week03-arts-on-prescription-meets-sir-quentin-blake](../sources/fxa303-week03-arts-on-prescription-meets-sir-quentin-blake.md)
 - [fxa303-week03-arts-on-prescription-observed-changes-in-anxiety-depression](../sources/fxa303-week03-arts-on-prescription-observed-changes-in-anxiety-depression.md)

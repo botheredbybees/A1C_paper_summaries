@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Musical Composition and Vocal Expression"
-apa7: "Abrams, B. (2020). Musical composition and vocal expression. In P. Crawford, B. Brown, & A. Charise (Eds.), The routledge companion to health humanities (pp. 389-396). Taylor & Francis Group. https://doi.org/10.4324/9780429457520-12"
-doi: https://doi.org/10.4324/9780429457520-12
+apa7: "Abrams, B. (2020). Musical composition and vocal expression. https://doi.org/10.4324/9780429469060-58"
+doi: https://doi.org/10.4324/9780429469060-58
 appearances:
   - unit: FXA302
     week: "01"
@@ -11,7 +11,7 @@ tags: ["music-therapy", "health-wellbeing", "vocal-expression", "musical-composi
 key_concepts: ["therapeutic-benefits", "personal-identity", "collaborative-dispositions"]
 methods: ["case-study"]
 slug: fxa302-week01-musical-composition-and-vocal-expression
-related: ["community-health", "health-wellbeing", "music-therapy"]
+related: ["community-health", "health-wellbeing", "music-therapy", "musical-composition"]
 created: 2026-07-06
 updated: 2026-07-06
 ---
@@ -50,3 +50,4 @@ Overall, musical composition and vocal expression offer versatile methods to enh
 - [community-health](../topics/community-health.md)
 - [health-wellbeing](../topics/health-wellbeing.md)
 - [music-therapy](../topics/music-therapy.md)
+- [musical-composition](../topics/musical-composition.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychological-benefits-of-music
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Psychological Benefits Of Music

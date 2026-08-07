@@ -11,7 +11,7 @@ tags: ["therapeutic-clowns", "pediatrics", "mental-health-interventions", "hospi
 key_concepts: ["anxiety-reduction", "pain-management", "clown-therapy"]
 methods: ["systematic-review", "meta-analysis"]
 slug: fxa303-week08-therapeutic-clowns-in-pediatrics-a-systematic-review-and
-related: ["mental-health-interventions", "therapeutic-clowns"]
+related: ["mental-health-interventions", "therapeutic-clowning"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,4 +44,4 @@ This article presents a systematic review and meta-analysis of randomized contro
 ## See Also
 
 - [mental-health-interventions](../topics/mental-health-interventions.md)
-- [therapeutic-clowns](../topics/therapeutic-clowns.md)
+- [therapeutic-clowning](../topics/therapeutic-clowning.md)

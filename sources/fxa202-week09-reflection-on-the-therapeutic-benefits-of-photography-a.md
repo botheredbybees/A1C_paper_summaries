@@ -7,11 +7,11 @@ doi: null
 appearances:
   - unit: FXA202
     week: "09"
-tags: ["therapeutic-benefits", "photography-therapy", "mindfulness-practice", "emotional-healing", "self-reflection", "fxa202"]
+tags: ["emotional-healing", "fxa202", "mindfulness-and-therapeutic-photography", "mindfulness-practice", "photography-therapy", "self-reflection", "therapeutic-benefits"]
 key_concepts: ["therapeutic photography", "mindfulness practice", "grief processing"]
 methods: ["personal photo essay"]
 slug: fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a
-related: ["emotional-healing", "mindfulness-and-therapeutic-photography", "mindfulness-practice", "self-reflection", "therapeutic-benefits"]
+related: ["emotional-healing", "mindfulness-and-therapeutic-photography", "mindfulness-practice", "mindfulness-practice-through-photography", "self-reflection", "therapeutic-benefits"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,5 +46,6 @@ Louise Raftery reflects on her experience using photography as a means to promot
 - [emotional-healing](../topics/emotional-healing.md)
 - [mindfulness-and-therapeutic-photography](../topics/mindfulness-and-therapeutic-photography.md)
 - [mindfulness-practice](../topics/mindfulness-practice.md)
+- [mindfulness-practice-through-photography](../topics/mindfulness-practice-through-photography.md)
 - [self-reflection](../topics/self-reflection.md)
 - [therapeutic-benefits](../topics/therapeutic-benefits.md)

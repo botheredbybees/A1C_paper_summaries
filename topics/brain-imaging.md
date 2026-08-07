@@ -7,13 +7,15 @@ sources:
   - fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro
   - fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers
   - fxa100-week11-the-neural-basis-of-human-dance
+  - fxa101-week05-rapid-and-dynamic-processing-of-face-pareidolia-in-the
   - fxa300-week01-neurophysiological-effects-of-trait-empathy-in-music
   - fxa300-week04-auditory-imagery-empirical-findings
+  - fxa303-week04-lesson-fxa303-week04-page-2-neurodiversity-and-the-brain
 tags:
 - brain-imaging
 title: Brain Imaging Techniques
 type: topic
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Brain Imaging Techniques
@@ -36,5 +38,7 @@ The study of brain imaging techniques encompasses both basic and clinical neuros
 - [fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro](../sources/fxa100-week06-p1i-basic-and-clinical-neuroscience-brain-imaging-and-neuro.md)
 - [fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers](../sources/fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers.md)
 - [fxa100-week11-the-neural-basis-of-human-dance](../sources/fxa100-week11-the-neural-basis-of-human-dance.md)
+- [fxa101-week05-rapid-and-dynamic-processing-of-face-pareidolia-in-the](../sources/fxa101-week05-rapid-and-dynamic-processing-of-face-pareidolia-in-the.md)
 - [fxa300-week01-neurophysiological-effects-of-trait-empathy-in-music](../sources/fxa300-week01-neurophysiological-effects-of-trait-empathy-in-music.md)
 - [fxa300-week04-auditory-imagery-empirical-findings](../sources/fxa300-week04-auditory-imagery-empirical-findings.md)
+- [fxa303-week04-lesson-fxa303-week04-page-2-neurodiversity-and-the-brain](../sources/fxa303-week04-lesson-fxa303-week04-page-2-neurodiversity-and-the-brain.md)

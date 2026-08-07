@@ -10,13 +10,15 @@ sources:
   - fxa301-week05-museums-and-health-emerging-spatial-practices
   - fxa301-week05-museums-for-health-and-wellbeing
   - fxa301-week05-the-beaney-health-and-wellbeing-toolkit
+  - fxa301-week08-clown-doctors-australia-social-impact-report
   - fxa301-week09-week-9-lecture-dr-brendan-lamb
   - fxa301-week10-sing-your-heart-out-community-singing-as-part-of-mental
+  - fxa302-week01-creative-health-the-arts-for-health-and-wellbeing
 tags:
 - wellbeing-initiatives
 title: Museums and Wellbeing Initiatives
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Museums and Wellbeing Initiatives
@@ -42,5 +44,7 @@ The integration of visual arts and cultural interventions within museum settings
 - [fxa301-week05-museums-and-health-emerging-spatial-practices](../sources/fxa301-week05-museums-and-health-emerging-spatial-practices.md)
 - [fxa301-week05-museums-for-health-and-wellbeing](../sources/fxa301-week05-museums-for-health-and-wellbeing.md)
 - [fxa301-week05-the-beaney-health-and-wellbeing-toolkit](../sources/fxa301-week05-the-beaney-health-and-wellbeing-toolkit.md)
+- [fxa301-week08-clown-doctors-australia-social-impact-report](../sources/fxa301-week08-clown-doctors-australia-social-impact-report.md)
 - [fxa301-week09-week-9-lecture-dr-brendan-lamb](../sources/fxa301-week09-week-9-lecture-dr-brendan-lamb.md)
 - [fxa301-week10-sing-your-heart-out-community-singing-as-part-of-mental](../sources/fxa301-week10-sing-your-heart-out-community-singing-as-part-of-mental.md)
+- [fxa302-week01-creative-health-the-arts-for-health-and-wellbeing](../sources/fxa302-week01-creative-health-the-arts-for-health-and-wellbeing.md)

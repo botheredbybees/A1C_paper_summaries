@@ -11,7 +11,7 @@ tags: ["mental-health-education", "creativity-in-schools", "wellbeing-through-ar
 key_concepts: ["mental health disorders", "creative activities", "universal access to arts"]
 methods: ["roundtable discussion"]
 slug: fxa301-week03-creativity-for-health-and-wellbeing-in-the-education-system
-related: ["wellbeing-through-art"]
+related: ["creativity-in-schools", "wellbeing-through-art"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -47,4 +47,5 @@ The document also emphasizes the benefits of creative activities such as music, 
 
 ## See Also
 
+- [creativity-in-schools](../topics/creativity-in-schools.md)
 - [wellbeing-through-art](../topics/wellbeing-through-art.md)

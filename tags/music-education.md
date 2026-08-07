@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-education
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Music Education
@@ -14,7 +14,9 @@ updated: 2026-07-28
 - [Musical Training Enhances Information Processing Speed](../sources/fxa101-week03-musical-training-enhances-information-processing-speed.md)
 - [Seeking Out the New: How Music Teaches Children to Create and Innovate](../sources/fxa101-week03-seeking-out-the-new-how-music-teaches-children-to-create.md)
 - [The Mozart Effect: Music Listening is Not Music Instruction](../sources/fxa101-week03-the-mozart-effect-music-listening-is-not-music-instruction.md)
+- [Movement-Based Music in the Classroom: Investigating the Effects of Music Programs Incorporating Body Movement in Primary School Children](../sources/fxa300-week01-movement-based-music-in-the-classroom-investigating-the.md)
 - [Music Training Improves Verbal but Not Visual Memory: Cross-Sectional and Longitudinal Explorations in Children](../sources/fxa300-week03-music-training-improves-verbal-but-not-visual-memory-cross.md)
+- [A Proposed Glossary for Use in Affective Response Literature in Music](../sources/fxa300-week05-a-proposed-glossary-for-use-in-affective-response.md)
 - [Culture of Inquiry](../sources/fxa301-week01-culture-of-inquiry.md)
 - [An education in music makes you a better employee. Are recruiters in tune?](../sources/fxa301-week05-an-education-in-music-makes-you-a-better-employee-are.md)
 - [Fading Notes: Music Education for the Next Generation of Primary Teachers](../sources/fxa301-week05-fading-notes-music-education-for-the-next-generation-of.md)
@@ -26,6 +28,7 @@ updated: 2026-07-28
 - [Playing for Their Lives: The Global El Sistema Movement for Social Change Through Music (Book Review)](../sources/fxa301-week06-playing-for-their-lives-the-global-el-sistema-movement-for.md)
 - [Recontextualizing Music For Social Change](../sources/fxa301-week06-recontextualizing-music-for-social-change.md)
 - [\"El Sistema\" \u2022 Trailer for film (2008)](../sources/fxa301-week06-transcript-el-sistema-trailer-for-film-2008-url-only.md)
+- [Evelyn Glennie Video Transcript](../sources/fxa302-week05-transcript-uploaded-by-evelyn-glennie-url-only.md)
 - [Does Music Change a Child's Brain](../sources/fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain.md)
 - [Music Instruction Can Make for a Smarter Teen](../sources/fxa303-week03-music-instruction-can-make-for-a-smarter-teen.md)
 - [Youth Orchestra Participation and Perceived Benefit: A Pilot Study of the Tasmanian Youth Orchestra](../sources/fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot.md)

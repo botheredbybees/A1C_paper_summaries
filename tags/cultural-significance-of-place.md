@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cultural-significance-of-place
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Cultural Significance Of Place

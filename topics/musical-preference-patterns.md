@@ -3,12 +3,13 @@ confidence: low
 domain: theory
 slug: musical-preference-patterns
 sources:
+
 - fxa100-week03-musical-preferences-may-reflect-cognitive-style
 tags:
 - musical-preference-patterns
 title: Musical Preference Patterns
 type: topic
-updated: 2026-05-04
+updated: 2026-08-07
 ---
 
 ## Musical Preference Patterns
@@ -27,4 +28,4 @@ The concept of musical preference patterns is explored through the lens of cogni
 
 ## Sources
 
-- [fxa100-week03-musical-preferences-may-reflect-cognitive-style](../sources/fxa100-week03-musical-preferences-may-reflect-cognitive-style.md)
+

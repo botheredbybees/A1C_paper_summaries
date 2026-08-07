@@ -12,7 +12,7 @@ tags: ["puppet-therapy", "creative-arts-therapy", "play-based-intervention", "fx
 key_concepts: ["child-centered-therapy", "solution-focused-brief-therapy", "berkeley-puppet-interview"]
 methods: ["practical-guidebook"]
 slug: fxa303-week06-puppet-play-therapy-a-practical-guidebook
-related: ["creative-arts-therapy", "puppet-therapy"]
+related: ["creative-arts-therapy", "puppet-assisted-play-therapy-for-children"]
 created: 2026-05-03
 updated: 2026-05-05
 ---
@@ -25,9 +25,9 @@ Puppet Play Therapy: A Practical Guidebook is a comprehensive resource written b
 
 ## Key Concepts
 
-- [puppet-therapy](../topics/puppet-therapy.md)
-- [puppet-therapy](../topics/puppet-therapy.md)
-- [puppet-therapy](../topics/puppet-therapy.md)
+- [puppet-assisted-play-therapy-for-children](../topics/puppet-assisted-play-therapy-for-children.md)
+- [puppet-assisted-play-therapy-for-children](../topics/puppet-assisted-play-therapy-for-children.md)
+- [puppet-assisted-play-therapy-for-children](../topics/puppet-assisted-play-therapy-for-children.md)
 
 ## Tags
 
@@ -43,4 +43,4 @@ Puppet Play Therapy: A Practical Guidebook is a comprehensive resource written b
 ## See Also
 
 - [creative-arts-therapy](../topics/creative-arts-therapy.md)
-- [puppet-therapy](../topics/puppet-therapy.md)
+- [puppet-assisted-play-therapy-for-children](../topics/puppet-assisted-play-therapy-for-children.md)

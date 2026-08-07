@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Perception of Structure in Novel Music"
-apa7: "Halpern, A. R. (1984). Perception of structure in novel music. Memory & Cognition, 12(2), 163-170. https://doi.org/10.3758/BF03198455"
-doi: https://doi.org/10.3758/BF03198455
+apa7: "Halpern, A. (1984). Perception of structure in novel music. *Memory & Cognition*. https://doi.org/10.3758/BF03198430"
+doi: https://doi.org/10.3758/BF03198430
 appearances:
   - unit: FXA300
     week: "04"

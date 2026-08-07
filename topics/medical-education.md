@@ -9,6 +9,7 @@ sources:
   - fxa302-week01-exploring-the-medical-humanities
   - fxa302-week01-medicine-within-health-humanities
   - fxa302-week01-the-role-of-the-imagination-in-the-practices-of-the-health
+  - fxa302-week01-web-lecture-week-1-2026
   - fxa302-week03-a-complete-medical-education-includes-the-arts-and
   - fxa302-week03-formal-art-observation-training-improves-medical-students
   - fxa302-week03-how-art-museums-can-foster-the-flourishing-of-future
@@ -22,7 +23,8 @@ sources:
   - fxa302-week03-why-med-schools-are-requiring-art-classes
   - fxa302-week03-why-med-schools-are-requiring-students-to-take-art-classes
   - fxa302-week03-why-teachers-and-learners-of-medicine-need-portraiture
-updated: 2026-07-20
+  - psy214-week07-an-adapted-four-week-mindbody-skills-group-for-medical
+updated: 2026-08-07
 ---
 
 ## Medical Education Through The Arts
@@ -45,6 +47,7 @@ The integration of arts within medical education presents a multifaceted approac
 - [fxa302-week01-exploring-the-medical-humanities](../sources/fxa302-week01-exploring-the-medical-humanities.md)
 - [fxa302-week01-medicine-within-health-humanities](../sources/fxa302-week01-medicine-within-health-humanities.md)
 - [fxa302-week01-the-role-of-the-imagination-in-the-practices-of-the-health](../sources/fxa302-week01-the-role-of-the-imagination-in-the-practices-of-the-health.md)
+- [fxa302-week01-web-lecture-week-1-2026](../sources/fxa302-week01-web-lecture-week-1-2026.md)
 - [fxa302-week03-a-complete-medical-education-includes-the-arts-and](../sources/fxa302-week03-a-complete-medical-education-includes-the-arts-and.md)
 - [fxa302-week03-formal-art-observation-training-improves-medical-students](../sources/fxa302-week03-formal-art-observation-training-improves-medical-students.md)
 - [fxa302-week03-how-art-museums-can-foster-the-flourishing-of-future](../sources/fxa302-week03-how-art-museums-can-foster-the-flourishing-of-future.md)
@@ -58,3 +61,4 @@ The integration of arts within medical education presents a multifaceted approac
 - [fxa302-week03-why-med-schools-are-requiring-art-classes](../sources/fxa302-week03-why-med-schools-are-requiring-art-classes.md)
 - [fxa302-week03-why-med-schools-are-requiring-students-to-take-art-classes](../sources/fxa302-week03-why-med-schools-are-requiring-students-to-take-art-classes.md)
 - [fxa302-week03-why-teachers-and-learners-of-medicine-need-portraiture](../sources/fxa302-week03-why-teachers-and-learners-of-medicine-need-portraiture.md)
+- [psy214-week07-an-adapted-four-week-mindbody-skills-group-for-medical](../sources/psy214-week07-an-adapted-four-week-mindbody-skills-group-for-medical.md)

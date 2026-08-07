@@ -1,13 +1,16 @@
 ---
 type: tag
 tag: person-centered-care
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Person Centered Care
 
 - [Giving Creativity a Shape](../sources/fxa100-creativity-and-communication-ch11-21-giving-creativity-a-shape-creativity-takes-many-forms.md)
 - [Working with Life History in Dementia Care](../sources/fxa100-excellence-in-dementia-care--ch10-chapter-15.md)
+- [Understanding the Value of Life Histories in Person-Centered Dementia Care](../sources/fxa100-excellence-in-dementia-care--ch11-chapter-17.md)
+- [Good Practice in Creative Communication-Based Reminiscence Work](../sources/fxa100-excellence-in-dementia-care--ch12-chapter-14.md)
+- [Music & Memory: The iPod Project \u2013 video transcript](../sources/fxa100-week03-music-memory-the-ipod-project-video-transcript-%282%29.md)
 - [Music Therapy for Dementia Care](../sources/fxa100-week03-transcript-interview-with-alexa-transcript.md)
 - [Music & Memory: The iPod Project](../sources/fxa100-week03-transcript-music-memory-the-ipod-project.md)
 - [Dementia discourse \u2013 A rethink?](../sources/fxa100-week04-dementia-discourse-a-rethink.md)
@@ -15,6 +18,7 @@ updated: 2026-07-28
 - [How to talk about dementia](../sources/fxa100-week04-how-to-talk-about-dementia.md)
 - [House of Memories | National Museums Liverpool](../sources/fxa100-week07-house-of-memories-national-museums-liverpool.md)
 - [Senior Care Facility Innovations](../sources/fxa100-week08-transcript-youtube-uk9nnjw4xuuduration.md)
+- [Effectiveness of Creative Story Therapy for Dementia: A Systematic Review and Meta-Analysis](../sources/fxa100-week09-effectiveness-of-creative-story-therapy-for-dementia-a.md)
 - [How Personhood is Undermined](../sources/fxa100-week09-how-personhood-is-undermined.md)
 - [Implementing living room theatre activities for people with dementia on nursing home wards: a process evaluation study](../sources/fxa100-week09-implementing-living-room-theatre-activities-for-people-with.md)
 - [Implementing Living Room Theatre Activities for People with Dementia on Nursing Home Wards](../sources/fxa100-week09-implementing-living-room-theatre-activities-for-people-with-%282%29.md)

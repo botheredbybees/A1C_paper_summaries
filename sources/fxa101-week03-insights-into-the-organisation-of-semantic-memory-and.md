@@ -1,9 +1,9 @@
 ---
 type: source
 source_type: paper
-title: "Insights into the Organisation of Semantic Memory and Language in the Human Brain"
-apa7: "Patterson, K. (2013). Insights into the organisation of semantic memory and language in the human brain. In L.-G. Nilsson & N. Ohta (Eds.), Dementia and Memory (pp. 207-224). Taylor & Francis Group. https://doi.org/10.4324/9781315851730-14"
-doi: https://doi.org/10.4324/9781315851730-14
+title: "Language Disorders in Neurodegenerative Disease: Insights into the Organisation of Semantic Memory and Language in the Human Brain"
+apa7: "Patterson, K. (2013). Language disorders in neurodegenerative disease: Insights into the organisation of semantic memory and language in the human brain. In L.-G. Nilsson & N. Ohta (Eds.), Dementia and Memory (pp. 207-224). Taylor & Francis Group."
+doi: null
 appearances:
   - unit: FXA101
     week: "03"
@@ -13,12 +13,12 @@ methods: ["case-study"]
 slug: fxa101-week03-insights-into-the-organisation-of-semantic-memory-and
 related: ["cognitive-neuroscience", "language-processing", "neurodegeneration", "semantic-memory"]
 created: 2026-07-20
-updated: 2026-07-20
+updated: 2026-08-02
 ---
 
 _All claims sourced from ../raw/pdf/fxa101-week03-insights-into-the-organisation-of-semantic-memory-and.md_
 
-## Insights into the Organisation of Semantic Memory and Language in the Human Brain
+## Language Disorders in Neurodegenerative Disease: Insights into the Organisation of Semantic Memory and Language in the Human Brain
 
 Karalyn Patterson's chapter discusses the decline of language in neurodegenerative diseases, focusing particularly on semantic dementia (SD) rather than Alzheimer’s disease. SD is characterized by selective deterioration of semantic memory while phonological processing remains relatively intact, making it a valuable model for understanding the relationship between semantics and phonology in human cognition. The research examines how damage to specific brain regions impacts language abilities, suggesting that the rostral and ventral temporal lobes are crucial for semantic memory but do not necessarily affect phonological functions. This study challenges the traditional view of aphasia by demonstrating that SD patients rarely produce phonological errors in naming tasks despite profound semantic impairment. The findings contribute to our understanding of how different cognitive processes interact within the brain, providing insights into both neurodegenerative diseases and general language processing mechanisms.
 

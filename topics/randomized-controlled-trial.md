@@ -4,12 +4,13 @@ domain: method
 slug: randomized-controlled-trials
 sources:
   - fxa100-week13-effects-of-yoga-like-exercises-on-mild-and-moderate
+  - fxa300-week03-music-in-mind-a-randomized-controlled-trial-of-music
   - fxa303-week13-evaluation-of-cognitive-stimulation-therapy-for-people-with
 tags:
 - randomized-controlled-trial
 title: Randomized Controlled Trials
 type: topic
-updated: 2026-05-15
+updated: 2026-08-07
 ---
 
 ## Randomized Controlled Trials
@@ -28,4 +29,5 @@ The sources highlight the utility and multifaceted application of randomized con
 ## Sources
 
 - [fxa100-week13-effects-of-yoga-like-exercises-on-mild-and-moderate](../sources/fxa100-week13-effects-of-yoga-like-exercises-on-mild-and-moderate.md)
+- [fxa300-week03-music-in-mind-a-randomized-controlled-trial-of-music](../sources/fxa300-week03-music-in-mind-a-randomized-controlled-trial-of-music.md)
 - [fxa303-week13-evaluation-of-cognitive-stimulation-therapy-for-people-with](../sources/fxa303-week13-evaluation-of-cognitive-stimulation-therapy-for-people-with.md)

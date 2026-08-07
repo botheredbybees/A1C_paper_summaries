@@ -11,7 +11,7 @@ tags: ["creative-arts", "play-therapy", "mental-wellbeing", "puppetry", "fxa303"
 key_concepts: ["indirect-expression", "therapeutic-use-of-puppets"]
 methods: ["case-study"]
 slug: fxa303-week06-overview-fxa303-creative-arts-play-and-mental-wellbeing
-related: ["creative-arts", "mental-wellbeing", "play-therapy", "puppetry"]
+related: ["creative-arts", "mental-wellbeing", "play-therapy-in-child-development", "puppetry"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,5 +43,5 @@ This document provides an overview of Week 6 in the FXA303 Creative Arts, Play a
 
 - [creative-arts](../topics/creative-arts.md)
 - [mental-wellbeing](../topics/mental-wellbeing.md)
-- [play-therapy](../topics/play-therapy.md)
+- [play-therapy-in-child-development](../topics/play-therapy-in-child-development.md)
 - [puppetry](../topics/puppetry.md)

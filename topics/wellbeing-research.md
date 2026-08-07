@@ -5,17 +5,20 @@ slug: music-therapy-and-wellbeing
 sources:
   - fxa100-week04-the-ripple-effect-towards-researching-improvisational-music
   - fxa100-week04-what-is-music-health-and-wellbeing
+  - fxa100-week07-art-and-dementia
   - fxa100-week11-dance-for-lifelong-wellbeing-research-findings-2017
   - fxa301-oxford-handbook-of-dance-and-wellbeing
   - fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1-(2)
   - fxa301-week03-arts-health-and-wellbeing-evidence-and-implications
   - fxa301-week06-further-evidence-that-singing-fosters-mental-health-and
+  - fxa302-week01-the-arts-and-the-social-determinants-of-health-findings
+  - fxa303-week11-the-impact-of-viewing-art-on-well-beinga-systematic-review
   - psy214-week00-mindfulness-interventions
 tags:
 - wellbeing-research
 title: Music Therapy and Wellbeing
 type: topic
-updated: 2026-06-25
+updated: 2026-08-07
 ---
 
 ## Music Therapy and Wellbeing
@@ -36,9 +39,12 @@ Research into music therapy highlights its multifaceted benefits for enhancing w
 
 - [fxa100-week04-the-ripple-effect-towards-researching-improvisational-music](../sources/fxa100-week04-the-ripple-effect-towards-researching-improvisational-music.md)
 - [fxa100-week04-what-is-music-health-and-wellbeing](../sources/fxa100-week04-what-is-music-health-and-wellbeing.md)
+- [fxa100-week07-art-and-dementia](../sources/fxa100-week07-art-and-dementia.md)
 - [fxa100-week11-dance-for-lifelong-wellbeing-research-findings-2017](../sources/fxa100-week11-dance-for-lifelong-wellbeing-research-findings-2017.md)
 - [fxa301-oxford-handbook-of-dance-and-wellbeing](../sources/fxa301-oxford-handbook-of-dance-and-wellbeing.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1-%282%29.md)
 - [fxa301-week03-arts-health-and-wellbeing-evidence-and-implications](../sources/fxa301-week03-arts-health-and-wellbeing-evidence-and-implications.md)
 - [fxa301-week06-further-evidence-that-singing-fosters-mental-health-and](../sources/fxa301-week06-further-evidence-that-singing-fosters-mental-health-and.md)
+- [fxa302-week01-the-arts-and-the-social-determinants-of-health-findings](../sources/fxa302-week01-the-arts-and-the-social-determinants-of-health-findings.md)
+- [fxa303-week11-the-impact-of-viewing-art-on-well-beinga-systematic-review](../sources/fxa303-week11-the-impact-of-viewing-art-on-well-beinga-systematic-review.md)
 - [psy214-week00-mindfulness-interventions](../sources/psy214-week00-mindfulness-interventions.md)

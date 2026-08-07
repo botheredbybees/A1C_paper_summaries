@@ -3,6 +3,7 @@ confidence: low
 domain: intervention
 slug: intensive-child-centered-play-therapy
 sources:
+  - fxa100-week12-music-based-therapeutic-interventions-for-people-with
   - fxa101-week04-healthy-cognitive-aging-and-dementia-prevention
   - fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism
   - fxa303-week04-intensive-child-centered-play-therapy-for-children-on-the
@@ -10,7 +11,7 @@ tags:
 - behavioral-interventions
 title: Intensive Child-Centered Play Therapy
 type: topic
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Intensive Child-Centered Play Therapy
@@ -29,6 +30,7 @@ The synthesis of the provided sources reveals that Intensive Child-Centered Play
 
 ## Sources
 
+- [fxa100-week12-music-based-therapeutic-interventions-for-people-with](../sources/fxa100-week12-music-based-therapeutic-interventions-for-people-with.md)
 - [fxa101-week04-healthy-cognitive-aging-and-dementia-prevention](../sources/fxa101-week04-healthy-cognitive-aging-and-dementia-prevention.md)
 - [fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism](../sources/fxa303-week04-dramatherapy-for-children-and-adolescents-with-autism.md)
 - [fxa303-week04-intensive-child-centered-play-therapy-for-children-on-the](../sources/fxa303-week04-intensive-child-centered-play-therapy-for-children-on-the.md)

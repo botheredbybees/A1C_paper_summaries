@@ -11,7 +11,7 @@ tags: ["play-therapy", "neurodiversity", "creative-arts", "mental-wellbeing", "f
 key_concepts: ["child-centered play therapy", "pivotal response therapy (prt)", "music therapy"]
 methods: []
 slug: fxa303-week04-lesson-fxa303-week04-page-3-arts-and-play
-related: ["creative-arts", "mental-wellbeing", "neurodiversity", "play-therapy"]
+related: ["creative-arts", "mental-wellbeing", "neurodiversity", "play-therapy-in-child-development"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,4 +45,4 @@ This lesson explores the use of play and arts-based therapies for neurodiverse c
 - [creative-arts](../topics/creative-arts.md)
 - [mental-wellbeing](../topics/mental-wellbeing.md)
 - [neurodiversity](../topics/neurodiversity.md)
-- [play-therapy](../topics/play-therapy.md)
+- [play-therapy-in-child-development](../topics/play-therapy-in-child-development.md)

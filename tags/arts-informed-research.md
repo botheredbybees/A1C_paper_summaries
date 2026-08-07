@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-informed-research
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Arts Informed Research

@@ -2,7 +2,7 @@
 type: source
 source_type: web-article
 title: "Effects of the Black Death on Europe"
-apa7: "Pryst, J. (2020). Effects of the Black Death on Europe. World History Encyclopedia. https://www.ancient.eu/article/1543/effects-of-the-black-death-on-europe/"
+apa7: "Mark, J. J. (2020). Effects of the Black Death on Europe. World History Encyclopedia. https://www.ancient.eu/article/1543/effects-of-the-black-death-on-europe/"
 doi: null
 appearances:
   - unit: FXA302

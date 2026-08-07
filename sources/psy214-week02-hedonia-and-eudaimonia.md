@@ -11,7 +11,7 @@ tags: ["hedonic-well-being", "eudaimonic-well-being", "mindfulness-practice", "s
 key_concepts: ["hedonia", "eudaimonia", "subjective-well-being", "virtue-theory", "potential-realization"]
 methods: ["literature-review"]
 slug: psy214-week02-hedonia-and-eudaimonia
-related: ["eudaimonia", "eudaimonic-well-being", "hedonia", "hedonic-well-being", "mindfulness-practice", "self-care-strategies", "stress-management"]
+related: ["eudaimonic-well-being", "hedonia", "hedonic-well-being", "mindfulness-practice", "self-care-strategies", "stress-management"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -46,7 +46,6 @@ The document discusses the concepts of hedonic well-being and eudaimonic well-be
 
 ## See Also
 
-- [eudaimonia](../topics/eudaimonia.md)
 - [eudaimonic-well-being](../topics/eudaimonic-well-being.md)
 - [hedonia](../topics/hedonia.md)
 - [hedonic-well-being](../topics/hedonic-well-being.md)

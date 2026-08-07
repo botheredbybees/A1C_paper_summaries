@@ -6,13 +6,15 @@ sources:
   - fxa100-week07-for-visitors-with-dementia
   - fxa301-week01-engaging-in-community-music-an-introduction
   - fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions
+  - fxa303-week02-the-arts-in-early-childhood-social-and-emotional-benefits
   - fxa303-week04-week-4-activities-neurodiversity-arts-and-play
   - fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental
+  - fxa303-week05-supporting-expressive-communication-for-social-and
 tags:
 - inclusive-education
 title: Inclusive Education
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Inclusive Education
@@ -34,5 +36,7 @@ The concept of inclusive education emphasizes the importance of accommodating di
 - [fxa100-week07-for-visitors-with-dementia](../sources/fxa100-week07-for-visitors-with-dementia.md)
 - [fxa301-week01-engaging-in-community-music-an-introduction](../sources/fxa301-week01-engaging-in-community-music-an-introduction.md)
 - [fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions](../sources/fxa301-week09-disability-awareness-and-etiquette-transforming-perceptions.md)
+- [fxa303-week02-the-arts-in-early-childhood-social-and-emotional-benefits](../sources/fxa303-week02-the-arts-in-early-childhood-social-and-emotional-benefits.md)
 - [fxa303-week04-week-4-activities-neurodiversity-arts-and-play](../sources/fxa303-week04-week-4-activities-neurodiversity-arts-and-play.md)
 - [fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental](../sources/fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental.md)
+- [fxa303-week05-supporting-expressive-communication-for-social-and](../sources/fxa303-week05-supporting-expressive-communication-for-social-and.md)

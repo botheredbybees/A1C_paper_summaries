@@ -34,12 +34,14 @@ sources:
   - fxa301-week03-the-role-of-the-arts-in-healthcare-transforming-lives
   - fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community
   - fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1
+  - fxa302-week01-arts-health-and-well-being-a-critical-perspective-on
+  - fxa302-week01-arts-health-wellbeing-reflections-on-a-national-seminar
   - fxa302-week01-fxa302-week-1-introduction-(2)
 tags:
 - arts-in-health
 title: Arts in Health
 type: topic
-updated: 2026-07-06
+updated: 2026-08-07
 ---
 
 ## Arts in Health
@@ -89,4 +91,6 @@ The integration of arts into health interventions aims to enhance public health 
 - [fxa301-week03-the-role-of-the-arts-in-healthcare-transforming-lives](../sources/fxa301-week03-the-role-of-the-arts-in-healthcare-transforming-lives.md)
 - [fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community](../sources/fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community.md)
 - [fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1](../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1.md)
+- [fxa302-week01-arts-health-and-well-being-a-critical-perspective-on](../sources/fxa302-week01-arts-health-and-well-being-a-critical-perspective-on.md)
+- [fxa302-week01-arts-health-wellbeing-reflections-on-a-national-seminar](../sources/fxa302-week01-arts-health-wellbeing-reflections-on-a-national-seminar.md)
 - [fxa302-week01-fxa302-week-1-introduction-(2)](../sources/fxa302-week01-fxa302-week-1-introduction-%282%29.md)

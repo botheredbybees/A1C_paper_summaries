@@ -2,7 +2,7 @@
 type: source
 source_type: paper
 title: "Creating Minds: An Anatomy of Creativity Seen Through the Lives of Freud, Einstein, Picasso, Stravinsky, Eliot, Graham and Gandhi"
-apa7: "Gardner, H. (1995). Creating minds: An anatomy of creativity seen through the lives of Freud, Einstein, Picasso, Stravinsky, Eliot, Graham and Gandhi [Book review]. Applied Cognitive Psychology, 9(6), 542-543. https://doi.org/10.1002/acp.2350090607"
+apa7: "Schooler, J. W., & Fiore, S. M. (1995). Stirring things up: Review of *Creating minds: An anatomy of creativity seen through the lives of Freud, Einstein, Picasso, Stravinsky, Eliot, Graham and Gandhi* by H. Gardner. *Applied Cognitive Psychology, 9*(6), 542-543. https://doi.org/10.1002/acp.2350090607"
 doi: https://doi.org/10.1002/acp.2350090607
 appearances:
   - unit: FXA101

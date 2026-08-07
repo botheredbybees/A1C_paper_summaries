@@ -6,6 +6,7 @@ sources:
   - fxa100-week02-how-music-helps-to-heal-the-injured-brain-therapeutic-use
   - fxa100-week06-art-and-the-brain-a-view-from-dementia
   - fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities
+  - fxa100-week06-the-influence-of-frontotemporal-dementia-on-an-accomplished
   - fxa100-week06-web-article-tucker-2012
   - fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care
   - fxa100-week12-inner-vision-an-exploration-of-art-and-the-brain
@@ -33,7 +34,7 @@ tags:
 - cognitive-neuroscience
 title: Cognitive Neuroscience and Brain Plasticity
 type: topic
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Cognitive Neuroscience and Brain Plasticity
@@ -55,6 +56,7 @@ The exploration of brain lateralization and individual differences in cognitive 
 - [fxa100-week02-how-music-helps-to-heal-the-injured-brain-therapeutic-use](../sources/fxa100-week02-how-music-helps-to-heal-the-injured-brain-therapeutic-use.md)
 - [fxa100-week06-art-and-the-brain-a-view-from-dementia](../sources/fxa100-week06-art-and-the-brain-a-view-from-dementia.md)
 - [fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities](../sources/fxa100-week06-lesson-fxa100-week06-page-4-week-6-activities.md)
+- [fxa100-week06-the-influence-of-frontotemporal-dementia-on-an-accomplished](../sources/fxa100-week06-the-influence-of-frontotemporal-dementia-on-an-accomplished.md)
 - [fxa100-week06-web-article-tucker-2012](../sources/fxa100-week06-web-article-tucker-2012.md)
 - [fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care](../sources/fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care.md)
 - [fxa100-week12-inner-vision-an-exploration-of-art-and-the-brain](../sources/fxa100-week12-inner-vision-an-exploration-of-art-and-the-brain.md)

@@ -11,7 +11,7 @@ tags: ["public-space-photography", "legal-rights", "street-photography", "fxa202
 key_concepts: ["privacy-laws", "commercial-use"]
 methods: ["guidance-document"]
 slug: fxa202-week02-street-photographers-rights
-related: ["street-photography"]
+related: ["legal-rights", "street-photography"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,4 +40,5 @@ The document 'Street Photographer’s Rights' provides guidance on legal conside
 
 ## See Also
 
+- [legal-rights](../topics/legal-rights.md)
 - [street-photography](../topics/street-photography.md)

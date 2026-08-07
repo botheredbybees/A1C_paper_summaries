@@ -7,11 +7,13 @@ sources:
   - fxa100-week08-creativity-and-communication-in-persons-with-dementia-a
   - fxa100-week08-the-use-of-creative-activities-in-dementia-in-residential
   - fxa101-week04-creativity-in-later-life
+  - fxa101-week05-fxa101-practical-session-1
+  - fxa303-week11-does-regular-engagement-with-arts-and-creative-activities
 tags:
 - creative-activities
 title: Creative Activities for Persons with Dementia
 type: topic
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Creative Activities for Persons with Dementia
@@ -34,3 +36,5 @@ The integration of creative activities in dementia care emphasizes their potenti
 - [fxa100-week08-creativity-and-communication-in-persons-with-dementia-a](../sources/fxa100-week08-creativity-and-communication-in-persons-with-dementia-a.md)
 - [fxa100-week08-the-use-of-creative-activities-in-dementia-in-residential](../sources/fxa100-week08-the-use-of-creative-activities-in-dementia-in-residential.md)
 - [fxa101-week04-creativity-in-later-life](../sources/fxa101-week04-creativity-in-later-life.md)
+- [fxa101-week05-fxa101-practical-session-1](../sources/fxa101-week05-fxa101-practical-session-1.md)
+- [fxa303-week11-does-regular-engagement-with-arts-and-creative-activities](../sources/fxa303-week11-does-regular-engagement-with-arts-and-creative-activities.md)

@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "The Wonder Continues: Captivating and Engaging Adults Through Therapeutic Puppet Play and Puppet Therapy"
-apa7: "Vizzini, J. F. (2013). Captivating and engaging adults through therapeutic puppet play and puppet therapy. In The wonder continues (pp. 17-28). American Counseling Association. https://doi.org/10.1002/9781118654339"
-doi: https://doi.org/10.1002/9781118654339
+apa7: "Vizzini, J. (2017). The Wonder Continues : Captivating and Engaging Adults Through Therapeutic Puppet Play and Puppet Therapy. https://doi.org/10.4324/9781315181349-17"
+doi: https://doi.org/10.4324/9781315181349-17
 appearances:
   - unit: FXA303
     week: "06"

@@ -11,7 +11,7 @@ tags: ["eudaimonia", "psychological-well-being", "aristotle-ethics", "humanistic
 key_concepts: ["eudaimonic approach", "psychological well-being model", "personal growth"]
 methods: ["literature review"]
 slug: psy214-week02-know-thyself-and-become-what-you-are-a-eudaimonic-approach
-related: ["eudaimonia", "humanistic-psychology", "psychological-well-being"]
+related: ["eudaimonic-well-being", "humanistic-psychology", "psychological-well-being"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -43,6 +43,6 @@ This article revisits Aristotle’s concept of eudaimonia, or the highest good a
 
 ## See Also
 
-- [eudaimonia](../topics/eudaimonia.md)
+- [eudaimonic-well-being](../topics/eudaimonic-well-being.md)
 - [humanistic-psychology](../topics/humanistic-psychology.md)
 - [psychological-well-being](../topics/psychological-well-being.md)

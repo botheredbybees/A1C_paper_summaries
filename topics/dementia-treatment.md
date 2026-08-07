@@ -3,18 +3,22 @@ confidence: medium
 domain: intervention
 slug: therapeutic-interventions-for-dementia
 sources:
+  - fxa100-week04-music-therapy-in-the-treatment-of-dementia-a-systematic
   - fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it
+  - fxa100-week09-effectiveness-of-creative-story-therapy-for-dementia-a
   - fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and
   - fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living
   - fxa100-week12-comparative-efficacy-of-various-art-therapies-for-patients
+  - fxa100-week12-creative-art-therapy-as-a-non-pharmacological-intervention
   - fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a
+  - fxa300-week03-a-music-mind-and-movement-program-for-people-with-dementia
   - fxa303-week13-pharmacotherapies-for-sleep-disturbances-in-dementia
   - fxa303-week13-reminiscence-therapy-for-dementia
 tags:
 - dementia-treatment
 title: Therapeutic Interventions for Dementia
 type: topic
-updated: 2026-05-18
+updated: 2026-08-07
 ---
 
 ## Therapeutic Interventions for Dementia
@@ -35,10 +39,14 @@ Despite the positive outcomes reported in both studies, there is a need to furth
 
 ## Sources
 
+- [fxa100-week04-music-therapy-in-the-treatment-of-dementia-a-systematic](../sources/fxa100-week04-music-therapy-in-the-treatment-of-dementia-a-systematic.md)
 - [fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it](../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it.md)
+- [fxa100-week09-effectiveness-of-creative-story-therapy-for-dementia-a](../sources/fxa100-week09-effectiveness-of-creative-story-therapy-for-dementia-a.md)
 - [fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and](../sources/fxa100-week09-psychophysiological-effects-of-dance-movement-therapy-and.md)
 - [fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living](../sources/fxa100-week11-rehabilitation-effects-of-game-therapy-in-people-living.md)
 - [fxa100-week12-comparative-efficacy-of-various-art-therapies-for-patients](../sources/fxa100-week12-comparative-efficacy-of-various-art-therapies-for-patients.md)
+- [fxa100-week12-creative-art-therapy-as-a-non-pharmacological-intervention](../sources/fxa100-week12-creative-art-therapy-as-a-non-pharmacological-intervention.md)
 - [fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a](../sources/fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a.md)
+- [fxa300-week03-a-music-mind-and-movement-program-for-people-with-dementia](../sources/fxa300-week03-a-music-mind-and-movement-program-for-people-with-dementia.md)
 - [fxa303-week13-pharmacotherapies-for-sleep-disturbances-in-dementia](../sources/fxa303-week13-pharmacotherapies-for-sleep-disturbances-in-dementia.md)
 - [fxa303-week13-reminiscence-therapy-for-dementia](../sources/fxa303-week13-reminiscence-therapy-for-dementia.md)

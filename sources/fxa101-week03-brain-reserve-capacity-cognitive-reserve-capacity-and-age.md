@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Brain Reserve Capacity, Cognitive Reserve Capacity, and Age-Based Functional Plasticity After Congenital and Acquired Brain Injury in Children"
-apa7: "Dennis, M., Yeates, K. O., Taylor, H. G., & Fletcher, J. M. (2006). Brain reserve capacity, cognitive reserve capacity, and age-based functional plasticity after congenital and acquired brain injury in children. In Y. Stern (Ed.), Cognitive Reserve: Theory and Applications (pp. 86-122). Taylor & Francis Group."
-doi: https://doi.org/10.4324/9780203783047-4
+apa7: "Dennis, M., Yeates, K., Taylor, H., & Fletcher, J. (2013). Brain reserve capacity, cognitive reserve capacity, and age-based functional plasticity after congenital and acquired brain injury in children. https://doi.org/10.4324/9780203783047-13"
+doi: https://doi.org/10.4324/9780203783047-13
 appearances:
   - unit: FXA101
     week: "03"

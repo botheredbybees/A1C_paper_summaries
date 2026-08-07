@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-function
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Brain Function
@@ -13,8 +13,11 @@ updated: 2026-07-28
 - [FXA100 The Arts and Dementia Care - Week 2 Introduction](../sources/fxa100-week02-lesson-fxa100-week02-page-1-welcome-to-week2.md)
 - [Hearing and Music in Dementia Care](../sources/fxa100-week02-lesson-fxa100-week02-page-2-hearing-and-music.md)
 - [How music opens the doors of memory and the mind](../sources/fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind.md)
+- [The Effects of Music on the Brain \u2013 video transcript](../sources/fxa100-week03-the-effects-of-music-on-the-brain-video-transcript-%282%29.md)
+- [The Music of Memory: Victoria Williamson TEDMED \u2013 Video transcript](../sources/fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video-%282%29.md)
 - [The Effects of Music on the Brain](../sources/fxa100-week03-transcript-the-effects-of-music-on-the-brain.md)
 - [New Super-Fast MRI Technique: Singing 'If I Only Had A Brain'](../sources/fxa100-week04-transcript-new-super-fast-mri-technique-singing-if-i-only.md)
+- [FXA100 Week 6 Lecture: Visual Arts, the Brain, and Dementia Care](../sources/fxa100-week06-fxa100-week-6-lecture-visual-arts-the-brain-and-dementia.md)
 - [Introduction to the Human Brain](../sources/fxa101-week02-lesson-fxa101-week02-chapter-2.md)
 - [Metacontrol of human creativity: The neurocognitive mechanisms of convergent and divergent thinking](../sources/fxa101-week02-metacontrol-of-human-creativity-the-neurocognitive.md)
 - [The impact of cognitive reserve on neuropsychological measures in clinical trials](../sources/fxa101-week03-the-impact-of-cognitive-reserve-on-neuropsychological.md)
@@ -22,6 +25,7 @@ updated: 2026-07-28
 - [Current Advances in the Cognitive Neuroscience of Music](../sources/fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music.md)
 - [This Is Your Brain On Music: Understanding a Human Obsession](../sources/fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession.md)
 - [Broca\u2019s Area Supports Enhanced Visuospatial Cognition in Orchestral Musicians](../sources/fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in.md)
+- [Introduction to Music and the Brain: Earworms and Sad Music](../sources/fxa300-week03-lesson-fxa300-week03-page-2-introduction-to-music-and.md)
 - [Activities for Week 1: Discussions and Learning Materials](../sources/fxa300-week03-lesson-fxa300-week03-page-4-week-1-activities.md)
 - [Week 4 Activities - FXA300 Music, Mind and Body](../sources/fxa300-week04-lesson-fxa300-week04-page-4-activities-1.md)
 - [Case Study: Impact of Brain Tumor on Musical Function](../sources/fxa300-week04-transcript-a-summary-of-a-case-study-of-a-musician-and-music.md)
@@ -29,3 +33,4 @@ updated: 2026-07-28
 - [It also includes discussion of what can be perceived when the areas of the brain associated with visual processing do not function in the usual way](../sources/fxa301-week01-transcript-it-also-includes-discussion-of-what-can-be.md)
 - [Lecture on Perception of the Arts](../sources/fxa301-week02-lecture-on-perception-of-the-arts.md)
 - [Singing and Wellbeing: Ancient Wisdom, Modern Proof](../sources/fxa301-week06-singing-and-wellbeing-ancient-wisdom-modern-proof.md)
+- [The Neuroscience of Sleep](../sources/psy214-week05-transcript-why-do-we-sleep.md)

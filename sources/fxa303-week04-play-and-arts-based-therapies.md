@@ -11,7 +11,7 @@ tags: ["play-therapy", "arts-based-therapies", "neurodiversity", "autism-spectru
 key_concepts: ["child-centered-play-therapy", "pivotal-response-therapy", "expressive-skills", "emotional-regulation"]
 methods: ["case-study"]
 slug: fxa303-week04-play-and-arts-based-therapies
-related: ["autism-spectrum-disorder", "neurodiversity", "play-therapy"]
+related: ["autism-spectrum-disorder", "neurodiversity", "play-therapy-in-child-development"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,4 +45,4 @@ The document discusses the effectiveness of play therapy and arts-based therapie
 
 - [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)
 - [neurodiversity](../topics/neurodiversity.md)
-- [play-therapy](../topics/play-therapy.md)
+- [play-therapy-in-child-development](../topics/play-therapy-in-child-development.md)

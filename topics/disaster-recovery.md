@@ -7,11 +7,12 @@ sources:
   - fxa303-art-therapy-in-response-to-natural-disasters-ch06-1-i-envisioned-an-opportunity-to-assert-lasalle
   - fxa303-week09-beyond-the-fence-constructed-and-found-spaces-for-childrens
   - fxa303-week09-childrens-play-environment-after-a-disaster-the-great-east
+  - fxa303-week09-fxa303-web-lecture-week-9-may-2026
 tags:
 - disaster-recovery
 title: Disaster Recovery and Resilience
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Disaster Recovery and Resilience
@@ -34,3 +35,4 @@ The synthesis of the provided sources highlights the role of various interventio
 - [fxa303-art-therapy-in-response-to-natural-disasters-ch06-1-i-envisioned-an-opportunity-to-assert-lasalle](../sources/fxa303-art-therapy-in-response-to-natural-disasters-ch06-1-i-envisioned-an-opportunity-to-assert-lasalle.md)
 - [fxa303-week09-beyond-the-fence-constructed-and-found-spaces-for-childrens](../sources/fxa303-week09-beyond-the-fence-constructed-and-found-spaces-for-childrens.md)
 - [fxa303-week09-childrens-play-environment-after-a-disaster-the-great-east](../sources/fxa303-week09-childrens-play-environment-after-a-disaster-the-great-east.md)
+- [fxa303-week09-fxa303-web-lecture-week-9-may-2026](../sources/fxa303-week09-fxa303-web-lecture-week-9-may-2026.md)

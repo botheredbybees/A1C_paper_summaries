@@ -1,9 +1,9 @@
 ---
 type: source
 source_type: paper
-title: "Eating Disorders and Art Therapy"
-apa7: "Sudres, J.-L. (2023). Eating disorders and art therapy. In The Routledge International Handbook of Art Therapy Practice (pp. 359-368). https://doi.org/10.4324/9781032624457-33"
-doi: https://doi.org/10.4324/9781032624457-33
+title: "Eating Disorders and Art Therapy: Between Decoys, Realities and Clinical Practices"
+apa7: "Sudres, J.-L. (2025). Eating disorders and art therapy: Between decoys, realities and clinical practices. In M. Hills de Zárate, D. Waller, & C. L. Vaculik (Eds.), The Routledge International Handbook of Art Therapy Practice (pp. 359-368). Routledge."
+doi: null
 appearances:
   - unit: FXA301
     week: "10"
@@ -13,12 +13,12 @@ methods: ["case-study"]
 slug: fxa301-week10-eating-disorders-and-art-therapy
 related: ["art-therapy", "eating-disorders", "mental-health-intervention"]
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-08-02
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-week10-eating-disorders-and-art-therapy.md_
 
-## Eating Disorders and Art Therapy
+## Eating Disorders and Art Therapy: Between Decoys, Realities and Clinical Practices
 
 The article discusses the therapeutic potential of art therapy in treating eating disorders, particularly anorexia and bulimia, which are prevalent across all age groups in industrialized countries. The author highlights that while various therapeutic approaches exist today—ranging from biological to socio-cultural methods—art therapy is often not included as a primary treatment option despite its efficacy. The text emphasizes the complexity of eating disorders, noting their correlation with other mental health issues and underscoring the importance of early intervention for better outcomes. It also addresses challenges faced by art therapists in engaging patients who have developed a virtuosity around their disorder, suggesting that a direct, reflective approach can help break through these barriers. Furthermore, it discusses how institutional care settings may inadvertently contribute to long-term struggles with eating disorders and the creation of 'false selves' within patient communities. The article advocates for an art therapy approach that fosters resilience and creativity as a means to overcome adversity, suggesting specific creative strategies such as surprise elements, solo-duo processes, and tea room interventions. These methods are designed to provide a supportive framework for patients, encouraging emotional expression and access to the imaginary realm, which is crucial in healing both body and psyche.
 

@@ -11,7 +11,7 @@ tags: ["photography-tips", "camera-usage", "mobile-phone-cameras", "dslr-photogr
 key_concepts: ["image-quality", "portability-vs-functionality", "manual-settings"]
 methods: ["tutorial"]
 slug: fxa202-week02-week-2-making-pictures
-related: ["camera-usage", "photography-tips"]
+related: ["camera-usage", "mobile-phone-cameras", "photography-tips"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,4 +43,5 @@ The tutorial focuses on the importance of having a camera with you at all times 
 ## See Also
 
 - [camera-usage](../topics/camera-usage.md)
+- [mobile-phone-cameras](../topics/mobile-phone-cameras.md)
 - [photography-tips](../topics/photography-tips.md)

@@ -11,7 +11,7 @@ tags: ["person-centered-care", "dementia-interventions", "systematic-review", "p
 key_concepts: ["person-centered-care", "intervention-components", "decision-model"]
 methods: ["systematic review"]
 slug: fxa100-week09-key-components-of-person-centered-care-for-people-with
-related: ["dementia-interventions", "person-centered-care", "systematic-review"]
+related: ["dementia-interventions", "non-pharmacological-treatments", "person-centered-care", "systematic-review"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,5 +44,6 @@ This systematic review aimed to identify key components of person-centered care 
 ## See Also
 
 - [dementia-interventions](../topics/dementia-interventions.md)
+- [non-pharmacological-treatments](../topics/non-pharmacological-treatments.md)
 - [person-centered-care](../topics/person-centered-care.md)
 - [systematic-review](../topics/systematic-review.md)

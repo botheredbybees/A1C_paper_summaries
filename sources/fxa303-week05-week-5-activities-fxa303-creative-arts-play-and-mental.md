@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Week 5 Activities - FXA303 Creative Arts, Play and Mental Wellbeing"
-apa7: "Sextou, P., Karypidou, A., & Kourtidou-Sextou, E. (2020). Applied theatre, puppetry and emotional skills in healthcare: A cross-disciplinary pedagogical framework. *Applied Theatre Research*, 8(1), 89-105. https://doi.org/10.1386/atr_00028_1"
-doi: https://doi.org/10.1386/atr_00028_1
+apa7: "FXA303 MyLO lesson, Week 5, 2026"
+doi: null
 appearances:
   - unit: FXA303
     week: "05"
@@ -13,7 +13,7 @@ methods: ["case-study"]
 slug: fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental
 related: ["applied-theatre", "creative-arts", "mental-wellbeing", "puppetry"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-08-02
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental.md_

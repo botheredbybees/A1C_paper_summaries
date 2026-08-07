@@ -7,11 +7,11 @@ doi: https://doi.org/10.1017/S1041610217002162
 appearances:
   - unit: FXA100
     week: "06"
-tags: ["dementia-care", "visual-arts-program", "quality-of-life", "communication-skills", "well-being-enhancement", "longitudinal-study", "fxa100"]
+tags: ["communication-skills", "creative-interventions-in-dementia-care", "dementia-care", "fxa100", "longitudinal-study", "quality-of-life", "visual-arts-program", "well-being-enhancement"]
 key_concepts: ["quality of life", "communication skills", "well-being"]
 methods: ["mixed-methods longitudinal investigation"]
 slug: fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life
-related: ["communication-skills", "creative-interventions-in-dementia-care", "dementia-care", "longitudinal-study", "quality-of-life"]
+related: ["communication-skills", "creative-interventions-in-dementia-care", "dementia-care", "dementia-care-interventions", "longitudinal-study", "quality-of-life"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -47,5 +47,6 @@ This study evaluates the impact of a visual arts program on quality of life, com
 - [communication-skills](../topics/communication-skills.md)
 - [creative-interventions-in-dementia-care](../topics/creative-interventions-in-dementia-care.md)
 - [dementia-care](../topics/dementia-care.md)
+- [dementia-care-interventions](../topics/dementia-care-interventions.md)
 - [longitudinal-study](../topics/longitudinal-study.md)
 - [quality-of-life](../topics/quality-of-life.md)

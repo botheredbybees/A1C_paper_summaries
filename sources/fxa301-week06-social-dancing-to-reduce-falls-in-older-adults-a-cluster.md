@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Social Dancing to Reduce Falls in Older Adults \u2014 A Cluster Randomised Controlled Trial"
-apa7: "Merom, D., Mathiew, E., Cerin, E., Morton, R.L., Anstey, K., Sherrington, C., Lord, S., & Cumming, R. (2017). Social dancing to reduce falls in older adults \u2014 a cluster randomised controlled trial. Innovation in Aging, 1(S1), 267. https://doi.org/10.1093/geroni/igx058"
-doi: https://doi.org/10.1093/geroni/igx058
+apa7: "Merom, D., Mathiew, E., Cerin, E., Morton, R.L., Anstey, K., Sherrington, C., Lord, S., & Cumming, R. (2017). Social dancing to reduce falls in older adults \u2014 a cluster randomised controlled trial. Innovation in Aging, 1(S1), 267\u2013268. https://doi.org/10.1093/geroni/igx004.980"
+doi: https://doi.org/10.1093/geroni/igx004.980
 appearances:
   - unit: FXA301
     week: "06"
@@ -13,7 +13,7 @@ methods: ["RCT"]
 slug: fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster
 related: ["aging-research", "falls-prevention", "physical-activity", "public-health"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-08-02
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster.md_

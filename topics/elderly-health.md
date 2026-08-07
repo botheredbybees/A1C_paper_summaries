@@ -4,7 +4,9 @@ domain: intervention
 slug: health-interventions-for-elderly-adults
 sources:
   - fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia
+  - fxa100-week09-the-effects-of-intuitive-movement-reembodiment-on-the
   - fxa100-week11-leisure-activities-and-the-risk-of-dementia-in-the-elderly
+  - fxa100-week12-the-effectiveness-of-art-based-interventions-among-older
   - fxa100-week13-effects-of-10-weeks-classical-chinese-dance-training-on
   - fxa100-week13-improvement-of-cognitive-function-by-mental-andor
   - fxa100-week13-validation-of-the-chinese-translation-of-the-6-item-de-jong
@@ -19,7 +21,7 @@ tags:
 - elderly-health
 title: Health Interventions for Elderly Adults
 type: topic
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Health Interventions for Elderly Adults
@@ -39,7 +41,9 @@ The integration of health interventions aimed at elderly adults highlights both 
 ## Sources
 
 - [fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia](../sources/fxa100-week01-first-hospitalised-falls-among-people-living-with-dementia.md)
+- [fxa100-week09-the-effects-of-intuitive-movement-reembodiment-on-the](../sources/fxa100-week09-the-effects-of-intuitive-movement-reembodiment-on-the.md)
 - [fxa100-week11-leisure-activities-and-the-risk-of-dementia-in-the-elderly](../sources/fxa100-week11-leisure-activities-and-the-risk-of-dementia-in-the-elderly.md)
+- [fxa100-week12-the-effectiveness-of-art-based-interventions-among-older](../sources/fxa100-week12-the-effectiveness-of-art-based-interventions-among-older.md)
 - [fxa100-week13-effects-of-10-weeks-classical-chinese-dance-training-on](../sources/fxa100-week13-effects-of-10-weeks-classical-chinese-dance-training-on.md)
 - [fxa100-week13-improvement-of-cognitive-function-by-mental-andor](../sources/fxa100-week13-improvement-of-cognitive-function-by-mental-andor.md)
 - [fxa100-week13-validation-of-the-chinese-translation-of-the-6-item-de-jong](../sources/fxa100-week13-validation-of-the-chinese-translation-of-the-6-item-de-jong.md)

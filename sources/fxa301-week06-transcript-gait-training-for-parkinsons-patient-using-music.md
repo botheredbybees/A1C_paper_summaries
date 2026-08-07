@@ -11,7 +11,7 @@ tags: ["parkinsons-disease", "physical-therapy", "music-in-rehabilitation", "gai
 key_concepts: ["Parkinson's disease", "Gait training", "Music therapy"]
 methods: []
 slug: fxa301-week06-transcript-gait-training-for-parkinsons-patient-using-music
-related: ["parkinsons-disease", "physical-therapy"]
+related: ["gait-training", "parkinsons-disease", "physical-therapy"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,5 +42,6 @@ This transcript describes a gait training session for a patient with Parkinson's
 
 ## See Also
 
+- [gait-training](../topics/gait-training.md)
 - [parkinsons-disease](../topics/parkinsons-disease.md)
 - [physical-therapy](../topics/physical-therapy.md)

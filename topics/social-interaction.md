@@ -5,7 +5,10 @@ slug: social-interaction-in-aged-care
 sources:
   - fxa100-creativity-and-communication-ch07-7-making-it-all-up-improvisation-and-other-dramas-john
   - fxa100-week04-the-perceived-benefits-of-singing-findings-from-preliminary
+  - fxa100-week04-week-4-lecture-music-participation-and-health-benefits-for
+  - fxa100-week06-herenow-conceptual-model-of-the-impact-of-an-experiential
   - fxa100-week07-aged-care-outreach
+  - fxa100-week07-evaluation-of-the-unforgettable-art-programme-by-people
   - fxa100-week07-iremember-loan-resource-flyer
   - fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum
   - fxa100-week11-the-emotional-response-to-social-dancing-and-walks-in
@@ -19,7 +22,7 @@ tags:
 - social-interaction
 title: Social Interaction in Aged Care
 type: topic
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Social Interaction in Aged Care
@@ -40,7 +43,10 @@ The sources collectively highlight the significant role of social interactions a
 
 - [fxa100-creativity-and-communication-ch07-7-making-it-all-up-improvisation-and-other-dramas-john](../sources/fxa100-creativity-and-communication-ch07-7-making-it-all-up-improvisation-and-other-dramas-john.md)
 - [fxa100-week04-the-perceived-benefits-of-singing-findings-from-preliminary](../sources/fxa100-week04-the-perceived-benefits-of-singing-findings-from-preliminary.md)
+- [fxa100-week04-week-4-lecture-music-participation-and-health-benefits-for](../sources/fxa100-week04-week-4-lecture-music-participation-and-health-benefits-for.md)
+- [fxa100-week06-herenow-conceptual-model-of-the-impact-of-an-experiential](../sources/fxa100-week06-herenow-conceptual-model-of-the-impact-of-an-experiential.md)
 - [fxa100-week07-aged-care-outreach](../sources/fxa100-week07-aged-care-outreach.md)
+- [fxa100-week07-evaluation-of-the-unforgettable-art-programme-by-people](../sources/fxa100-week07-evaluation-of-the-unforgettable-art-programme-by-people.md)
 - [fxa100-week07-iremember-loan-resource-flyer](../sources/fxa100-week07-iremember-loan-resource-flyer.md)
 - [fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum](../sources/fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum.md)
 - [fxa100-week11-the-emotional-response-to-social-dancing-and-walks-in](../sources/fxa100-week11-the-emotional-response-to-social-dancing-and-walks-in.md)

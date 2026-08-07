@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Museums and Health: Emerging Spatial Practices"
-apa7: "Montanari, E. (2024). Museums and health: Emerging spatial practices [eBook]. Retrieved from https://doi.org/10.1234/mhesp"
-doi: https://doi.org/10.1234/mhesp
+apa7: "Montanari, E. (2024). Museums and health: Emerging spatial practices [eBook]."
+doi: null
 appearances:
   - unit: FXA301
     week: "05"
@@ -13,7 +13,7 @@ methods: ["case study"]
 slug: fxa301-week05-museums-and-health-emerging-spatial-practices
 related: ["health-promotion", "museum-education", "public-health-strategies", "wellbeing-initiatives"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-08-02
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-week05-museums-and-health-emerging-spatial-practices.md_

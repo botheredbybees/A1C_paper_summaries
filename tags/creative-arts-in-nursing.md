@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-arts-in-nursing
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Creative Arts In Nursing

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: trauma-recovery-long-term
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Trauma Recovery Long Term

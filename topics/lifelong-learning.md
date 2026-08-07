@@ -3,6 +3,7 @@ confidence: low
 domain: intervention
 slug: lifelong-learning
 sources:
+  - fxa100-week07-access-programs-art-gallery-of-new-south-wales
   - fxa101-week03-assessment-of-lifetime-participation-in-cognitively
   - fxa101-week04-enrichment-effects-on-adult-cognitive-development-can-the
   - fxa300-week02-understanding-the-brain-the-birth-of-a-learning-science
@@ -11,7 +12,7 @@ tags:
 - lifelong-learning
 title: Lifelong Learning
 type: topic
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Lifelong Learning
@@ -30,6 +31,7 @@ The concept of lifelong learning is explored through the Seniors Ballet QUT - Qu
 
 ## Sources
 
+- [fxa100-week07-access-programs-art-gallery-of-new-south-wales](../sources/fxa100-week07-access-programs-art-gallery-of-new-south-wales.md)
 - [fxa101-week03-assessment-of-lifetime-participation-in-cognitively](../sources/fxa101-week03-assessment-of-lifetime-participation-in-cognitively.md)
 - [fxa101-week04-enrichment-effects-on-adult-cognitive-development-can-the](../sources/fxa101-week04-enrichment-effects-on-adult-cognitive-development-can-the.md)
 - [fxa300-week02-understanding-the-brain-the-birth-of-a-learning-science](../sources/fxa300-week02-understanding-the-brain-the-birth-of-a-learning-science.md)

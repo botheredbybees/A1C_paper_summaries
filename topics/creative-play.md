@@ -5,11 +5,12 @@ slug: creative-play-therapy
 sources:
   - fxa303-puppet-play-therapy-ch08-6-posture-keep-your-arm-holding-the-puppet-at-a-right-angle
   - fxa303-week05-fxa303-week-5-welcome
+  - fxa303-week05-fxa303-week-5-welcome-(2)
 tags:
 - creative-play
 title: Creative Play Therapy
 type: topic
-updated: 2026-05-11
+updated: 2026-08-03
 ---
 
 ## Creative Play Therapy
@@ -30,3 +31,4 @@ Creative play therapy leverages imaginative activities to enhance emotional and 
 
 - [fxa303-puppet-play-therapy-ch08-6-posture-keep-your-arm-holding-the-puppet-at-a-right-angle](../sources/fxa303-puppet-play-therapy-ch08-6-posture-keep-your-arm-holding-the-puppet-at-a-right-angle.md)
 - [fxa303-week05-fxa303-week-5-welcome](../sources/fxa303-week05-fxa303-week-5-welcome.md)
+- [fxa303-week05-fxa303-week-5-welcome-(2)](../sources/fxa303-week05-fxa303-week-5-welcome-%282%29.md)

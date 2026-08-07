@@ -7,11 +7,11 @@ doi: null
 appearances:
   - unit: FXA100
     week: "07"
-tags: ["dementia-care", "therapeutic-art", "inclusive-education", "fxa100"]
+tags: ["creative-interventions-in-dementia-care", "dementia-care", "fxa100", "inclusive-education", "therapeutic-art"]
 key_concepts: ["contemporary-art", "engagement-through-art", "cultural-inclusivity"]
 methods: ["program-design"]
 slug: fxa100-week07-for-visitors-with-dementia
-related: ["creative-interventions-in-dementia-care", "dementia-care", "inclusive-education"]
+related: ["creative-interventions-in-dementia-care", "dementia-care", "dementia-care-interventions", "inclusive-education"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -49,4 +49,5 @@ Overall, the document underscores the significant role that contemporary art can
 
 - [creative-interventions-in-dementia-care](../topics/creative-interventions-in-dementia-care.md)
 - [dementia-care](../topics/dementia-care.md)
+- [dementia-care-interventions](../topics/dementia-care-interventions.md)
 - [inclusive-education](../topics/inclusive-education.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: conflict-of-interest-management
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Conflict Of Interest Management

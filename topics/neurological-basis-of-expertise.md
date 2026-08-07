@@ -1,27 +1,27 @@
 ---
 type: topic
-domain: "intervention"
+domain: "theory"
 title: "Neurological Basis of Expertise"
 confidence: medium
 tags: ["neurological-basis-of-expertise"]
 sources:
   - fxa100-week06-brain-activities-in-a-skilled-versus-a-novice-artist-an
-updated: 2026-05-16
+updated: 2026-08-07
 ---
 
 ## Neurological Basis of Expertise
 
-The provided sources collectively explore the neurological underpinnings of expertise through different domains such as artistry and sports. They highlight distinct neural patterns in expert versus novice individuals, suggesting that long-term practice leads to specialized brain activity. However, there is variability across studies regarding which specific areas are most engaged during task performance by experts, indicating potential differences depending on the domain of expertise. This synthesis integrates findings from neuroscience research that uses functional magnetic resonance imaging (fMRI) to map brain activities in skilled versus novice artists, illustrating how visual information processing differs significantly between these groups.
+The study 'Brain Activities in a Skilled versus a Novice Artist: An fMRI Study' delves into the neurological underpinnings that distinguish skilled experts from novices, particularly focusing on visual information processing. Using functional magnetic resonance imaging (fMRI), researchers mapped brain activities during tasks executed by both groups. The findings suggest distinct patterns of neural activation in regions associated with visual perception and motor control, indicating a more efficient use of resources in the expert group due to long-term practice and learning. This study contributes to understanding how expertise is neurologically instantiated, challenging traditional views that focus solely on cognitive or experiential factors.
 
 ## Key Findings
 
-- Long-term practice leads to specialized neural patterns in expert individuals compared to novices.
-- Different domains of expertise may engage different areas of the brain.
-- Visual information processing shows significant differences between experts and novices.
+- Expertise involves distinct neural patterns compared to novice individuals.
+- Visual information processing shows enhanced efficiency in experts' brains.
+- Long-term practice and learning influence neurological processes associated with skill acquisition.
 
 ## Open Questions
 
-- How do specific brain regions contribute differently across various fields, such as sports versus visual arts?
+- How do individual differences affect the development of expertise from a neuroscientific perspective?
 
 ## Sources
 

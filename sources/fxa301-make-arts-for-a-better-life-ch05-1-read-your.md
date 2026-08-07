@@ -11,7 +11,7 @@ tags: ["ethnography", "fieldwork-methods", "audio-video-recording", "fxa301"]
 key_concepts: ["verbatim principle", "concrete principle", "cultural themes"]
 methods: []
 slug: fxa301-make-arts-for-a-better-life-ch05-1-read-your
-related: ["fieldwork-methods"]
+related: ["ethnography", "fieldwork-methods"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,4 +41,5 @@ This chapter outlines principles for ethnographic fieldwork including initial jo
 
 ## See Also
 
+- [ethnography](../topics/ethnography.md)
 - [fieldwork-methods](../topics/fieldwork-methods.md)

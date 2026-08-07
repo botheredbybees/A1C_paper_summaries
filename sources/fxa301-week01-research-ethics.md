@@ -7,13 +7,15 @@ doi: https://doi.org/10.1093/oso/9780198792079.003.0012
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["arts-in-health", "ethical-scrutiny", "fxa301", "informed-consent", "principles-of-conduct", "public-health", "research-ethics", "vulnerable-populations"]
+  - unit: FXA100
+    week: "04"
+tags: ["arts-in-health", "ethical-scrutiny", "fxa301", "informed-consent", "principles-of-conduct", "public-health", "research-ethics", "vulnerable-populations", "fxa100"]
 key_concepts: ["ethical-scrutiny", "informed-consent", "principles-of-conduct"]
 methods: []
 slug: fxa301-week01-research-ethics
 related: ["arts-in-health", "informed-consent", "public-health", "research-ethics", "vulnerable-populations"]
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-week01-research-ethics.md_

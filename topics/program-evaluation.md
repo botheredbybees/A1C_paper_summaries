@@ -3,12 +3,14 @@ confidence: low
 domain: method
 slug: program-evaluation-in-healthcare-settings
 sources:
-- fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-(2)
+  - fxa100-week03-implementation-survey-phase-iii-student-volunteer-program
+  - fxa100-week03-implementation-survey-results-phase-iii-music-memory-program
+  - fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-(2)
 tags:
 - program-evaluation
 title: Program Evaluation in Healthcare Settings
 type: topic
-updated: 2026-05-04
+updated: 2026-08-07
 ---
 
 ## Program Evaluation in Healthcare Settings
@@ -27,4 +29,6 @@ The sources provided emphasize the importance of program evaluation within healt
 
 ## Sources
 
+- [fxa100-week03-implementation-survey-phase-iii-student-volunteer-program](../sources/fxa100-week03-implementation-survey-phase-iii-student-volunteer-program.md)
+- [fxa100-week03-implementation-survey-results-phase-iii-music-memory-program](../sources/fxa100-week03-implementation-survey-results-phase-iii-music-memory-program.md)
 - [fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-(2)](../sources/fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-%282%29.md)

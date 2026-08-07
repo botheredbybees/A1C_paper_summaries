@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: health-as-a-human-right
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Health As A Human Right

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychosocial-approach
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Psychosocial Approach

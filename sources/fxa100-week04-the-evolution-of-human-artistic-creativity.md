@@ -2,7 +2,7 @@
 type: source
 source_type: paper
 title: "The evolution of human artistic creativity"
-apa7: "Morriss-Kay, G. M. (2010). The evolution of human artistic creativity. *Journal of Anatomy*, 216(2), 158-176. https://doi.org/10.1111/j.1469-7580.2009.01160.x"
+apa7: "Morriss‐Kay, G. (2010). The evolution of human artistic creativity. *Journal of Anatomy*. https://doi.org/10.1111/j.1469-7580.2009.01160.x"
 doi: https://doi.org/10.1111/j.1469-7580.2009.01160.x
 appearances:
   - unit: FXA100

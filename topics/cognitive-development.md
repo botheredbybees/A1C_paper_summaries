@@ -13,12 +13,13 @@ sources:
   - fxa302-week03-visual-thinking-strategy
   - fxa303-week02-developmental-role-of-creative-arts-and-play
   - fxa303-week02-theories-of-development-in-dialog-with-jean-piaget
+  - fxa303-week02-web-lecture-2-week-2
   - fxa303-week03-developmental-psychology-from-infancy-to-adulthood
 tags:
 - cognitive-development
 title: Cognitive Development
 type: topic
-updated: 2026-07-20
+updated: 2026-08-07
 ---
 
 ## Cognitive Development
@@ -47,4 +48,5 @@ The topic of cognitive development integrates several influential theoretical pe
 - [fxa302-week03-visual-thinking-strategy](../sources/fxa302-week03-visual-thinking-strategy.md)
 - [fxa303-week02-developmental-role-of-creative-arts-and-play](../sources/fxa303-week02-developmental-role-of-creative-arts-and-play.md)
 - [fxa303-week02-theories-of-development-in-dialog-with-jean-piaget](../sources/fxa303-week02-theories-of-development-in-dialog-with-jean-piaget.md)
+- [fxa303-week02-web-lecture-2-week-2](../sources/fxa303-week02-web-lecture-2-week-2.md)
 - [fxa303-week03-developmental-psychology-from-infancy-to-adulthood](../sources/fxa303-week03-developmental-psychology-from-infancy-to-adulthood.md)

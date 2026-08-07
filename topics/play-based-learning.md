@@ -5,13 +5,14 @@ slug: play-based-learning
 sources:
   - fxa101-week03-arts-education-for-young-children-of-the-21st-century
   - fxa303-week02-fxa303-week-2-child-development-and-creative-arts
+  - fxa303-week02-fxa303-week-2-introduction-to-child-development-and-play
   - fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental
   - fxa303-week10-fxa303-web-lecture-week-10-guidance-on-assessment-task-4
 tags:
 - play-based-learning
 title: Play-Based Learning
 type: topic
-updated: 2026-07-20
+updated: 2026-08-07
 ---
 
 ## Play-Based Learning
@@ -32,5 +33,6 @@ Play-based learning is a pedagogical approach that integrates play into educatio
 
 - [fxa101-week03-arts-education-for-young-children-of-the-21st-century](../sources/fxa101-week03-arts-education-for-young-children-of-the-21st-century.md)
 - [fxa303-week02-fxa303-week-2-child-development-and-creative-arts](../sources/fxa303-week02-fxa303-week-2-child-development-and-creative-arts.md)
+- [fxa303-week02-fxa303-week-2-introduction-to-child-development-and-play](../sources/fxa303-week02-fxa303-week-2-introduction-to-child-development-and-play.md)
 - [fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental](../sources/fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental.md)
 - [fxa303-week10-fxa303-web-lecture-week-10-guidance-on-assessment-task-4](../sources/fxa303-week10-fxa303-web-lecture-week-10-guidance-on-assessment-task-4.md)

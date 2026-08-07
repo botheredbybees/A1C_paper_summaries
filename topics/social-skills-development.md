@@ -3,12 +3,14 @@ confidence: low
 domain: intervention
 slug: social-skills-development
 sources:
-- fxa301-week06-evaluation-of-big-noise-douglas
+  - fxa301-week06-evaluation-of-big-noise-douglas
+  - fxa301-week11-music-improves-social-communication-and-auditorymotor
+  - fxa303-week02-the-arts-in-early-childhood-social-and-emotional-benefits
 tags:
 - social-skills-development
 title: Social Skills Development
 type: topic
-updated: 2026-05-04
+updated: 2026-08-07
 ---
 
 ## Social Skills Development
@@ -28,3 +30,5 @@ The sources collectively highlight the Big Noise Programme initiated by Sistema 
 ## Sources
 
 - [fxa301-week06-evaluation-of-big-noise-douglas](../sources/fxa301-week06-evaluation-of-big-noise-douglas.md)
+- [fxa301-week11-music-improves-social-communication-and-auditorymotor](../sources/fxa301-week11-music-improves-social-communication-and-auditorymotor.md)
+- [fxa303-week02-the-arts-in-early-childhood-social-and-emotional-benefits](../sources/fxa303-week02-the-arts-in-early-childhood-social-and-emotional-benefits.md)

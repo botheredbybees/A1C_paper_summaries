@@ -11,7 +11,7 @@ tags: ["arts-intervention", "confidence-building", "fxa303", "self-reflection", 
 key_concepts: ["Shakespearean texts", "workshops and performances", "community building"]
 methods: ["case study"]
 slug: fxa303-week11-youth-justice-program-bell-shakespeare
-related: ["self-reflection", "skills-development", "youth-justice"]
+related: ["arts-intervention", "confidence-building", "self-reflection", "shakespearean-literature", "skills-development", "youth-justice"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -42,6 +42,9 @@ Bell Shakespeare's Youth Justice Program, initiated in 2010, uses Shakespearean 
 
 ## See Also
 
+- [arts-intervention](../topics/arts-intervention.md)
+- [confidence-building](../topics/confidence-building.md)
 - [self-reflection](../topics/self-reflection.md)
+- [shakespearean-literature](../topics/shakespearean-literature.md)
 - [skills-development](../topics/skills-development.md)
 - [youth-justice](../topics/youth-justice.md)

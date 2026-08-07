@@ -1,13 +1,15 @@
 ---
 type: tag
 tag: creative-arts
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Creative Arts
 
 - [Transcript: Film Clips from 'I Remember Better When I Paint'](../sources/fxa100-week06-transcript-film-clips-from-i-remember-better-when-i-paint.md)
+- [Using technology to assist creative arts activities in dementia care](../sources/fxa100-week08-using-technology-to-assist-creative-arts-activities-in.md)
 - [Activities for Week 2 - FXA101 Creativity and Ageing](../sources/fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities.md)
+- [What kind of Research is Research Through Design](../sources/fxa101-week05-what-kind-of-research-is-research-through-design.md)
 - [Journal and Visual Research Guidelines](../sources/fxa202-week08-journal-and-visual-research-guidelines.md)
 - [Introduction to the field of creative arts, wellbeing, and health: achievements and current challenges](../sources/fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1.md)
 - [Case Study: Engaging Older People in Creative Thinking - The Active Energy Project](../sources/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-%282%29.md)
@@ -27,13 +29,16 @@ updated: 2026-07-28
 - [FXA302 Perspectives of the Arts on Health and Wellbeing - Week 1 Activities](../sources/fxa302-week01-lesson-fxa302-week01-page-4-activities.md)
 - [Developmental Role of Creative Arts and Play](../sources/fxa303-week02-developmental-role-of-creative-arts-and-play.md)
 - [FXA303 Week 2: Child Development and Creative Arts](../sources/fxa303-week02-fxa303-week-2-child-development-and-creative-arts.md)
+- [FXA303 Week 3: Introduction to Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental.md)
 - [FXA303 Creative Arts, Play and Mental Wellbeing - Week 2 Overview](../sources/fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview.md)
+- [Web Lecture 2, Week 2](../sources/fxa303-week02-web-lecture-2-week-2.md)
 - [Week 2 Overview - FXA303 Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental.md)
 - [FXA303 Week 3 Introduction](../sources/fxa303-week03-fxa303-week-3-introduction.md)
 - [Lockdown History Project Activity Sheets](../sources/fxa303-week03-lockdown-history-project-activity-sheets.md)
 - [FXA303 Creative Arts, Play and Mental Wellbeing - Week 4 Overview](../sources/fxa303-week04-lesson-fxa303-week04-page-1-week-4-overview.md)
 - [Play and Arts-based Therapies in Neurodevelopmental Disorders](../sources/fxa303-week04-lesson-fxa303-week04-page-3-arts-and-play.md)
 - [Week 4 Overview - FXA303 Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental.md)
+- [FXA303 Week 5 Welcome](../sources/fxa303-week05-fxa303-week-5-welcome-%283%29.md)
 - [FXA303 Creative Arts, Play and Mental Wellbeing - Week 5 Overview](../sources/fxa303-week05-lesson-fxa303-week05-page-1-week-5-overview.md)
 - [FXA303 Creative Arts, Play and Mental Wellbeing - Week 5 Activities](../sources/fxa303-week05-lesson-fxa303-week05-page-4-week-5-activities.md)
 - [Week 5 Activities - FXA303 Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental.md)
@@ -47,6 +52,7 @@ updated: 2026-07-28
 - [Trauma-Informed Design for Creative Arts and Play Projects](../sources/fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design.md)
 - [Creative Arts, Play and Mental Wellbeing: Case Studies on Trauma Recovery](../sources/fxa303-week09-lesson-fxa303-week09-page-3-case-studies.md)
 - [Week 10 Overview: Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week10-lesson-fxa303-week10-page-1-overview.md)
+- [FXA303 Web Lecture Week 11](../sources/fxa303-week11-fxa303-web-lecture-week-11.md)
 - [FXA303 Creative Arts, Play and Mental Wellbeing - Week 11](../sources/fxa303-week11-lesson-fxa303-week11-overview.md)
 - [Creative Arts, Gender Diversity and Mental Wellbeing](../sources/fxa303-week11-lesson-fxa303-week11-page-2.md)
 - [Creative Arts and Disadvantaged Youth](../sources/fxa303-week11-lesson-fxa303-week11-page-3.md)

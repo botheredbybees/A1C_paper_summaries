@@ -1,11 +1,12 @@
 ---
 type: tag
 tag: inclusive-practices
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Inclusive Practices
 
+- [Culture, Democracy and the Right to Make Art: The British Community Arts Movement](../sources/fxa301-week01-culture-democracy-and-the-right-to-make-art-the-british.md)
 - [Engaging in Community Music: An Introduction](../sources/fxa301-week01-engaging-in-community-music-an-introduction-%282%29.md)
 - [Making Art With Communities: A Work Guide](../sources/fxa301-week01-making-art-with-communities-a-work-guide-%283%29.md)
 - [Glossary - Choose Art](../sources/fxa301-week11-glossary-choose-art.md)

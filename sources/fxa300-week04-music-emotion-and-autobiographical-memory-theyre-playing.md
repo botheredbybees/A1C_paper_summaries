@@ -11,7 +11,7 @@ tags: ["long-term-memory", "emotional-responses", "music-memory", "fxa300", "aut
 key_concepts: ["autobiographical-memory", "emotionality-ratings", "memory-retention"]
 methods: ["survey", "audio-stimuli"]
 slug: fxa300-week04-music-emotion-and-autobiographical-memory-theyre-playing
-related: ["autobiographical-memory", "emotional-responses"]
+related: ["autobiographical-memory", "emotional-responses", "long-term-memory"]
 created: 2026-07-28
 updated: 2026-07-28
 ---
@@ -44,3 +44,4 @@ This study investigates very long-term memory for popular music across different
 
 - [autobiographical-memory](../topics/autobiographical-memory.md)
 - [emotional-responses](../topics/emotional-responses.md)
+- [long-term-memory](../topics/long-term-memory.md)

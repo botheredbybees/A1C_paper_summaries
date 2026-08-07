@@ -4,6 +4,7 @@ domain: intervention
 slug: long-term-care-interventions
 sources:
   - fxa100-week03-implementation-survey-results-phase-iii-music-memory-program
+  - fxa100-week03-wisconsin-music-memory-implementation-survey-results
   - fxa100-week08-it-makes-me-feel-like-myself-person-centered-versus
   - fxa100-week13-a-snapshot-of-italian-nursing-homes-for-people-with
   - fxa303-week13-youre-the-only-thing-he-comes-out-of-his-room-for-a
@@ -11,7 +12,7 @@ tags:
 - long-term-care
 title: Long-term Care Interventions
 type: topic
-updated: 2026-05-15
+updated: 2026-08-07
 ---
 
 ## Long-term Care Interventions
@@ -30,6 +31,7 @@ The synthesis of the provided sources highlights two key long-term care interven
 ## Sources
 
 - [fxa100-week03-implementation-survey-results-phase-iii-music-memory-program](../sources/fxa100-week03-implementation-survey-results-phase-iii-music-memory-program.md)
+- [fxa100-week03-wisconsin-music-memory-implementation-survey-results](../sources/fxa100-week03-wisconsin-music-memory-implementation-survey-results.md)
 - [fxa100-week08-it-makes-me-feel-like-myself-person-centered-versus](../sources/fxa100-week08-it-makes-me-feel-like-myself-person-centered-versus.md)
 - [fxa100-week13-a-snapshot-of-italian-nursing-homes-for-people-with](../sources/fxa100-week13-a-snapshot-of-italian-nursing-homes-for-people-with.md)
 - [fxa303-week13-youre-the-only-thing-he-comes-out-of-his-room-for-a](../sources/fxa303-week13-youre-the-only-thing-he-comes-out-of-his-room-for-a.md)

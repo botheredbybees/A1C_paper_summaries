@@ -3,6 +3,8 @@ confidence: medium
 domain: intervention
 slug: mindfulness-practices
 sources:
+  - fxa202-week03-critical-reflection-on-present-mindedness-and-mindfulness
+  - fxa202-week03-week-three-lecture-transcript-photography-health-and-social
   - fxa202-week06-winding-paths-a-photo-essay-on-emotional-health-during
   - fxa303-week11-healing-arts-safe-place-for-youth
   - psy214-week00-mindfulness-interventions
@@ -11,11 +13,13 @@ sources:
   - psy214-week01-lesson-psy214-week01-week-1-wrap-up
   - psy214-week02-hedonia-and-eudaimonia-notes-slides
   - psy214-week04-lesson-psy214-week04-week-4-wrap-up-2
+  - psy214-week05-lesson-psy214-week05-formal-relaxation
+  - psy214-week07-mindfulness-as-a-self-care-strategy-for-healthcare
 tags:
 - mindfulness-practices
 title: Mindfulness Practices
 type: topic
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Mindfulness Practices
@@ -34,6 +38,8 @@ The sources highlight the therapeutic benefits of incorporating mindfulness prac
 
 ## Sources
 
+- [fxa202-week03-critical-reflection-on-present-mindedness-and-mindfulness](../sources/fxa202-week03-critical-reflection-on-present-mindedness-and-mindfulness.md)
+- [fxa202-week03-week-three-lecture-transcript-photography-health-and-social](../sources/fxa202-week03-week-three-lecture-transcript-photography-health-and-social.md)
 - [fxa202-week06-winding-paths-a-photo-essay-on-emotional-health-during](../sources/fxa202-week06-winding-paths-a-photo-essay-on-emotional-health-during.md)
 - [fxa303-week11-healing-arts-safe-place-for-youth](../sources/fxa303-week11-healing-arts-safe-place-for-youth.md)
 - [psy214-week00-mindfulness-interventions](../sources/psy214-week00-mindfulness-interventions.md)
@@ -42,3 +48,5 @@ The sources highlight the therapeutic benefits of incorporating mindfulness prac
 - [psy214-week01-lesson-psy214-week01-week-1-wrap-up](../sources/psy214-week01-lesson-psy214-week01-week-1-wrap-up.md)
 - [psy214-week02-hedonia-and-eudaimonia-notes-slides](../sources/psy214-week02-hedonia-and-eudaimonia-notes-slides.md)
 - [psy214-week04-lesson-psy214-week04-week-4-wrap-up-2](../sources/psy214-week04-lesson-psy214-week04-week-4-wrap-up-2.md)
+- [psy214-week05-lesson-psy214-week05-formal-relaxation](../sources/psy214-week05-lesson-psy214-week05-formal-relaxation.md)
+- [psy214-week07-mindfulness-as-a-self-care-strategy-for-healthcare](../sources/psy214-week07-mindfulness-as-a-self-care-strategy-for-healthcare.md)

@@ -11,7 +11,7 @@ tags: ["aesthetic-appreciation", "motor-priming", "art-psychology", "cognitive-n
 key_concepts: ["aesthetic appreciation", "motor priming", "covert simulation"]
 methods: ["experiment"]
 slug: fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with
-related: ["cognitive-neuroscience"]
+related: ["cognitive-neuroscience", "perceptual-processing"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,3 +45,4 @@ This study explores the role of motor activity in aesthetic appreciation, partic
 ## See Also
 
 - [cognitive-neuroscience](../topics/cognitive-neuroscience.md)
+- [perceptual-processing](../topics/perceptual-processing.md)

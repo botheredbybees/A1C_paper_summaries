@@ -11,7 +11,7 @@ tags: ["arts-in-prisons", "criminal-justice-rehabilitation", "evidence-based-app
 key_concepts: ["evidence-based-approaches", "incarcerated-individuals-rehabilitation"]
 methods: ["qualitative-research", "case-studies"]
 slug: fxa303-week11-arts-in-criminal-justice-and-corrections
-related: ["international-perspectives"]
+related: ["evidence-based-approaches", "international-perspectives"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -42,4 +42,5 @@ Arts in Criminal Justice and Corrections is an interdisciplinary volume that exp
 
 ## See Also
 
+- [evidence-based-approaches](../topics/evidence-based-approaches.md)
 - [international-perspectives](../topics/international-perspectives.md)

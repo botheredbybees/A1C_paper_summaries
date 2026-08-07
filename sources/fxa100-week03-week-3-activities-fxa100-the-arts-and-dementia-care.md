@@ -7,11 +7,11 @@ doi: null
 appearances:
   - unit: FXA100
     week: "03"
-tags: ["brain-music-relations", "cognitive-function", "dementia-care", "emotional-wellbeing", "fxa100", "music-therapy", "music-therapy-and-cognitive-stimulation-for-dementia-patients", "therapeutic-tools"]
+tags: ["brain-music-relations", "cognitive-function", "dementia-care", "emotional-wellbeing", "fxa100", "music-therapy", "music-therapy-and-cognitive-stimulation-for-dementia", "music-therapy-and-cognitive-stimulation-for-dementia-patients", "therapeutic-tools"]
 key_concepts: ["impact-of-music-on-dementia", "neuroaesthetics", "cultural-nuances-in-dementia-care"]
 methods: ["case-study"]
 slug: fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care
-related: ["cognitive-function", "dementia-care", "emotional-wellbeing", "music-therapy", "music-therapy-and-cognitive-stimulation-for-dementia", "therapeutic-tools"]
+related: ["cognitive-function", "dementia-care", "emotional-wellbeing", "music-therapy", "music-therapy-and-cognitive-stimulation-for-dementia", "music-therapy-in-dementia-care", "therapeutic-tools"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -48,4 +48,5 @@ This document outlines the activities for Week 3 of the FXA100 The Arts and Deme
 - [emotional-wellbeing](../topics/emotional-wellbeing.md)
 - [music-therapy](../topics/music-therapy.md)
 - [music-therapy-and-cognitive-stimulation-for-dementia](../topics/music-therapy-and-cognitive-stimulation-for-dementia.md)
+- [music-therapy-in-dementia-care](../topics/music-therapy-in-dementia-care.md)
 - [therapeutic-tools](../topics/therapeutic-tools.md)

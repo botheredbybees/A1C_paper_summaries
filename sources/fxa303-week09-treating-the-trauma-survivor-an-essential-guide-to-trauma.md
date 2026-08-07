@@ -11,7 +11,7 @@ tags: ["trauma-care", "mental-health-professionals", "complex-trauma", "retrauma
 key_concepts: ["trauma-informed care", "developmental trauma", "collaborative approach"]
 methods: ["case study"]
 slug: fxa303-week09-treating-the-trauma-survivor-an-essential-guide-to-trauma
-related: ["identity-formation", "trauma-care"]
+related: ["identity-formation", "mental-health-professionals", "retraumatization-prevention", "trauma-care"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,4 +45,6 @@ The book 'Treating the Trauma Survivor' is a comprehensive resource for mental h
 ## See Also
 
 - [identity-formation](../topics/identity-formation.md)
+- [mental-health-professionals](../topics/mental-health-professionals.md)
+- [retraumatization-prevention](../topics/retraumatization-prevention.md)
 - [trauma-care](../topics/trauma-care.md)

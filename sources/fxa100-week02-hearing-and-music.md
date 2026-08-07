@@ -7,7 +7,7 @@ doi: null
 appearances:
   - unit: FXA100
     week: "02"
-tags: ["hearing-process", "music-perception", "auditory-system", "brain-function", "musical-elements", "fxa100"]
+tags: ["auditory-system", "brain-function", "fxa100", "hearing-process", "left-right-brain-dominance-myth", "music-perception", "musical-elements"]
 key_concepts: ["hair-cell-transduction", "left-right-brain-dominance-myth", "pitch-timbre-rhythm-processing"]
 methods: ["case-study"]
 slug: fxa100-week02-hearing-and-music
@@ -25,7 +25,7 @@ This document explores the process of hearing music, detailing how sound vibrati
 ## Key Concepts
 
 - [hair-cell-transduction](../topics/hair-cell-transduction.md)
-- [left-right-brain-dominance-myth](../topics/left-right-brain-dominance-myth.md)
+- [left-brain-right-brain-dominance-myth](../topics/left-brain-right-brain-dominance-myth.md)
 - [pitch-timbre-rhythm-processing](../topics/pitch-timbre-rhythm-processing.md)
 
 ## Tags

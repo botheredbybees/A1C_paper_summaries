@@ -8,7 +8,7 @@ tags:
 - aids-memorial-quilt
 title: Aids Memorial Quilt
 type: topic
-updated: 2026-05-16
+updated: 2026-08-07
 ---
 
 ## Aids Memorial Quilt

@@ -11,7 +11,7 @@ tags: ["music-neuroscience", "cognitive-psychology", "emotional-response", "musi
 key_concepts: ["neural processes", "emotional states", "music impact"]
 methods: ["lecture"]
 slug: fxa300-week01-week-1-introduction-music-mind-and-body
-related: ["brain-function", "cognitive-psychology", "emotional-response", "music-neuroscience"]
+related: ["brain-function", "cognitive-psychology", "emotional-response", "music-and-brain"]
 created: 2026-07-06
 updated: 2026-07-06
 ---
@@ -46,4 +46,4 @@ In the Week 1 introduction to FXA300 Music, Mind and Body, Dr Brendan Lamb welco
 - [brain-function](../topics/brain-function.md)
 - [cognitive-psychology](../topics/cognitive-psychology.md)
 - [emotional-response](../topics/emotional-response.md)
-- [music-neuroscience](../topics/music-neuroscience.md)
+- [music-and-brain](../topics/music-and-brain.md)

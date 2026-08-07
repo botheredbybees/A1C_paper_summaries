@@ -2,7 +2,7 @@
 type: source
 source_type: paper
 title: "Effect of Dance on Body Type: A Study on Adult Bengalee Female in North 24 Parganas, West Bengal"
-apa7: "Solanki Joarder, N. Parvin, R. N. Kundu, S. Biswas, & P. Bharati. (2024). Effect of dance on body type: A study on adult Bengalee female in North 24 Parganas, West Bengal. *Journal of the Anthropological Survey of India*, 73(2), 222\u2013232. https://doi.org/10.1177/2277436X241242525"
+apa7: "Joarder, S., Parvin, N., Kundu, R., Biswas, S., & Bharati, P. (2024). Effect of Dance on Body Type: A Study on Adult Bengalee Female in North 24 Parganas, West Bengal. *Journal of the Anthropological Survey of India*. https://doi.org/10.1177/2277436X241242525"
 doi: https://doi.org/10.1177/2277436X241242525
 appearances:
   - unit: FXA100

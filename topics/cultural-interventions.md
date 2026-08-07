@@ -3,12 +3,14 @@ confidence: low
 domain: intervention
 slug: cultural-interventions
 sources:
-- fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing
+  - fxa100-week13-systematic-review-of-arts-and-culture-based-interventions
+  - fxa301-week03-arts-health-and-wellbeing-evidence-and-implications
+  - fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing
 tags:
 - cultural-interventions
 title: Cultural Interventions
 type: topic
-updated: 2026-05-04
+updated: 2026-08-07
 ---
 
 ## Cultural Interventions
@@ -27,4 +29,6 @@ The concept of cultural interventions is explored across various sources, highli
 
 ## Sources
 
+- [fxa100-week13-systematic-review-of-arts-and-culture-based-interventions](../sources/fxa100-week13-systematic-review-of-arts-and-culture-based-interventions.md)
+- [fxa301-week03-arts-health-and-wellbeing-evidence-and-implications](../sources/fxa301-week03-arts-health-and-wellbeing-evidence-and-implications.md)
 - [fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing](../sources/fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing.md)

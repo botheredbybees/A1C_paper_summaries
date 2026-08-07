@@ -7,13 +7,15 @@ doi: https://doi.org/10.1093/oso/9780198792079.003.0006
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["arts-in-health", "evaluation-methods", "feasibility-testing", "fxa301", "health-interventions", "intervention-design", "pilot-studies"]
+  - unit: FXA100
+    week: "04"
+tags: ["arts-in-health", "evaluation-methods", "feasibility-testing", "fxa301", "health-interventions", "intervention-design", "pilot-studies", "fxa100"]
 key_concepts: ["pilot-studies", "feasibility-testing", "stakeholder-engagement"]
 methods: ["case-study"]
 slug: fxa301-week01-implementing-and-evaluating-interventions
 related: ["arts-in-health", "evaluation-methods", "health-interventions", "intervention-design"]
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-week01-implementing-and-evaluating-interventions.md_

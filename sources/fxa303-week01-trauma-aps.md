@@ -1,9 +1,9 @@
 ---
 type: source
 source_type: paper
-title: "Trauma - APS"
-apa7: "American Psychiatric Association. (2022). Diagnostic and statistical manual of mental disorders (5th ed., text rev.). https://doi.org/10.1176/appi.books.9780890425787"
-doi: https://doi.org/10.1176/appi.books.9780890425787
+title: "Trauma"
+apa7: "Australian Psychological Society. (n.d.). Trauma. https://psychology.org.au/for-the-public/psychology-topics/trauma"
+doi: null
 appearances:
   - unit: FXA303
     week: "01"
@@ -13,12 +13,12 @@ methods: ["literature-review"]
 slug: fxa303-week01-trauma-aps
 related: ["cognitive-behavioral-therapy", "emotional-healing", "mental-health-treatment", "trauma-recovery"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-08-02
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week01-trauma-aps.md_
 
-## Trauma - APS
+## Trauma
 
 The document 'Trauma - APS' provides an overview of trauma, which refers to psychological harm resulting from distressing or frightening events that affect a person's ability to cope and function normally. It outlines various types of potentially traumatic situations such as acts of violence, natural disasters, interpersonal traumas, and life-threatening illnesses. The text emphasizes the variability in how individuals react to traumatic experiences, with some people recovering well on their own while others may require professional assistance for longer-lasting or more severe symptoms.
 

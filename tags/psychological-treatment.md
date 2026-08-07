@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychological-treatment
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Psychological Treatment

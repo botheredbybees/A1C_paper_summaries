@@ -24,8 +24,10 @@ sources:
   - fxa301-week03-evidence-requirements-for-the-development-of-the-national
   - fxa301-week03-four-big-ways-to-improve-health-through-the-arts
   - fxa301-week03-how-do-we-realize-the-potential-of-the-arts-to-support
+  - fxa301-week03-implementing-creative-health-(2)
   - fxa301-week03-national-arts-and-health-framework
   - fxa301-week03-noah-code-of-ethics-2023
+  - fxa301-week03-noah-code-of-ethics-for-artists-arts-administrators-in
   - fxa301-week03-week-3-introduction-arts-in-the-community-for-health-and
   - fxa301-week05-submission-to-the-nsw-health-and-wellbeing-strategy
   - fxa302-week01-fxa302-week-1-introduction
@@ -33,7 +35,7 @@ tags:
 - arts-and-health
 title: Arts and Health
 type: topic
-updated: 2026-07-06
+updated: 2026-08-07
 ---
 
 ## Arts and Health
@@ -73,8 +75,10 @@ The integration of arts into health practices is a multifaceted intervention tha
 - [fxa301-week03-evidence-requirements-for-the-development-of-the-national](../sources/fxa301-week03-evidence-requirements-for-the-development-of-the-national.md)
 - [fxa301-week03-four-big-ways-to-improve-health-through-the-arts](../sources/fxa301-week03-four-big-ways-to-improve-health-through-the-arts.md)
 - [fxa301-week03-how-do-we-realize-the-potential-of-the-arts-to-support](../sources/fxa301-week03-how-do-we-realize-the-potential-of-the-arts-to-support.md)
+- [fxa301-week03-implementing-creative-health-(2)](../sources/fxa301-week03-implementing-creative-health-%282%29.md)
 - [fxa301-week03-national-arts-and-health-framework](../sources/fxa301-week03-national-arts-and-health-framework.md)
 - [fxa301-week03-noah-code-of-ethics-2023](../sources/fxa301-week03-noah-code-of-ethics-2023.md)
+- [fxa301-week03-noah-code-of-ethics-for-artists-arts-administrators-in](../sources/fxa301-week03-noah-code-of-ethics-for-artists-arts-administrators-in.md)
 - [fxa301-week03-week-3-introduction-arts-in-the-community-for-health-and](../sources/fxa301-week03-week-3-introduction-arts-in-the-community-for-health-and.md)
 - [fxa301-week05-submission-to-the-nsw-health-and-wellbeing-strategy](../sources/fxa301-week05-submission-to-the-nsw-health-and-wellbeing-strategy.md)
 - [fxa302-week01-fxa302-week-1-introduction](../sources/fxa302-week01-fxa302-week-1-introduction.md)

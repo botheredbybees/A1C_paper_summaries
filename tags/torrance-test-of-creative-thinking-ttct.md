@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: torrance-test-of-creative-thinking-ttct
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Torrance Test Of Creative Thinking Ttct

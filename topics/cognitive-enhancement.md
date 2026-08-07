@@ -4,6 +4,7 @@ domain: intervention
 slug: cognitive-enhancement-through-creative-and-physical-activities
 sources:
   - fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients
+  - fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients-(2)
   - fxa100-week06-how-creating-sculpture-benefits-people-with-dementia
   - fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia
   - fxa100-week11-dancing-and-the-brain
@@ -12,12 +13,14 @@ sources:
   - fxa101-week03-the-brain-that-changes-itself-stories-of-personal-triumph
   - fxa101-week04-enrichment-effects-on-adult-cognitive-development-can-the
   - fxa101-week04-intergenerational-music-making-a-vehicle-for-active-ageing
+  - fxa300-week03-a-music-mind-and-movement-program-for-people-with-dementia
+  - fxa300-week03-effects-of-acoustically-screened-five-element-music
   - fxa301-week06-feasibility-and-preliminary-effects-of-ballet-based-group
 tags:
 - cognitive-enhancement
 title: Cognitive Enhancement Through Creative and Physical Activities
 type: topic
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Cognitive Enhancement Through Creative and Physical Activities
@@ -37,6 +40,7 @@ The integration of various creative and physical activities, such as singing in 
 ## Sources
 
 - [fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients](../sources/fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients.md)
+- [fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients-(2)](../sources/fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients-%282%29.md)
 - [fxa100-week06-how-creating-sculpture-benefits-people-with-dementia](../sources/fxa100-week06-how-creating-sculpture-benefits-people-with-dementia.md)
 - [fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia](../sources/fxa100-week08-nurturing-the-heart-creativity-art-therapy-and-dementia.md)
 - [fxa100-week11-dancing-and-the-brain](../sources/fxa100-week11-dancing-and-the-brain.md)
@@ -45,4 +49,6 @@ The integration of various creative and physical activities, such as singing in 
 - [fxa101-week03-the-brain-that-changes-itself-stories-of-personal-triumph](../sources/fxa101-week03-the-brain-that-changes-itself-stories-of-personal-triumph.md)
 - [fxa101-week04-enrichment-effects-on-adult-cognitive-development-can-the](../sources/fxa101-week04-enrichment-effects-on-adult-cognitive-development-can-the.md)
 - [fxa101-week04-intergenerational-music-making-a-vehicle-for-active-ageing](../sources/fxa101-week04-intergenerational-music-making-a-vehicle-for-active-ageing.md)
+- [fxa300-week03-a-music-mind-and-movement-program-for-people-with-dementia](../sources/fxa300-week03-a-music-mind-and-movement-program-for-people-with-dementia.md)
+- [fxa300-week03-effects-of-acoustically-screened-five-element-music](../sources/fxa300-week03-effects-of-acoustically-screened-five-element-music.md)
 - [fxa301-week06-feasibility-and-preliminary-effects-of-ballet-based-group](../sources/fxa301-week06-feasibility-and-preliminary-effects-of-ballet-based-group.md)

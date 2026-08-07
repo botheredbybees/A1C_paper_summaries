@@ -7,7 +7,8 @@ tags: ["historical-context"]
 sources:
   - fxa101-week03-review-albrecht-drer-documentary-biography-by-jeffrey
   - fxa202-week01-week-1-lecture-transcript
-updated: 2026-07-20
+  - fxa202-week03-what-is-therapeutic-photography-(3)
+updated: 2026-08-07
 ---
 
 ## Historical Context in Visual Storytelling
@@ -27,3 +28,4 @@ The sources provided highlight the importance and complexity of historical conte
 
 - [fxa101-week03-review-albrecht-drer-documentary-biography-by-jeffrey](../sources/fxa101-week03-review-albrecht-drer-documentary-biography-by-jeffrey.md)
 - [fxa202-week01-week-1-lecture-transcript](../sources/fxa202-week01-week-1-lecture-transcript.md)
+- [fxa202-week03-what-is-therapeutic-photography-(3)](../sources/fxa202-week03-what-is-therapeutic-photography-%283%29.md)

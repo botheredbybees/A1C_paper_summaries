@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Routines of Resistance: An Ethnography of the Care of People Living with Dementia in Acute Hospital Wards and Its Consequences"
-apa7: "Featherstone, K., Northcott, A., & Bridges, J. (2019). Routines of resistance: An ethnography of the care of people living with dementia in acute hospital wards and its consequences. *Journal of Advanced Nursing*, 75(6), 1345-1357. https://doi.org/10.1111/jan.13982"
-doi: https://doi.org/10.1111/jan.13982
+apa7: "Featherstone, K., Northcott, A., & Bridges, J. (2019). Routines of resistance: An ethnography of the care of people living with dementia in acute hospital wards and its consequences.. *International Journal of Nursing Studies*. https://doi.org/10.1016/j.ijnurstu.2018.12.009"
+doi: https://doi.org/10.1016/j.ijnurstu.2018.12.009
 appearances:
   - unit: FXA303
     week: "13"

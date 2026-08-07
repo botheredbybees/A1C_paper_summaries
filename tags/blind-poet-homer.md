@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: blind-poet-homer
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Blind Poet Homer

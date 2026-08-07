@@ -4,13 +4,16 @@ domain: intervention
 slug: end-of-life-care
 sources:
   - fxa202-week10-thinking-differently-about-aged-care
+  - fxa202-week13-show-and-tell-photography-and-storytelling-to-better
   - fxa301-week03-challenges-in-end-of-life-care-and-bereavement
+  - fxa301-week10-death-loss-and-communityperspectives-from-children-their
   - fxa303-week13-humour-interventions-for-patients-in-palliative-carea
+  - psy214-week07-gaining-in-a-landscape-of-loss-the-experience-of-learning
 tags:
 - end-of-life-care
 title: End-of-Life Care
 type: topic
-updated: 2026-05-15
+updated: 2026-08-07
 ---
 
 ## End-of-Life Care
@@ -30,5 +33,8 @@ The synthesis of end-of-life care interventions reveals a multifaceted approach 
 ## Sources
 
 - [fxa202-week10-thinking-differently-about-aged-care](../sources/fxa202-week10-thinking-differently-about-aged-care.md)
+- [fxa202-week13-show-and-tell-photography-and-storytelling-to-better](../sources/fxa202-week13-show-and-tell-photography-and-storytelling-to-better.md)
 - [fxa301-week03-challenges-in-end-of-life-care-and-bereavement](../sources/fxa301-week03-challenges-in-end-of-life-care-and-bereavement.md)
+- [fxa301-week10-death-loss-and-communityperspectives-from-children-their](../sources/fxa301-week10-death-loss-and-communityperspectives-from-children-their.md)
 - [fxa303-week13-humour-interventions-for-patients-in-palliative-carea](../sources/fxa303-week13-humour-interventions-for-patients-in-palliative-carea.md)
+- [psy214-week07-gaining-in-a-landscape-of-loss-the-experience-of-learning](../sources/psy214-week07-gaining-in-a-landscape-of-loss-the-experience-of-learning.md)

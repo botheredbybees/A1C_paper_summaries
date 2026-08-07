@@ -11,7 +11,7 @@ tags: ["comparative-fit-index", "covariance-structure-analysis", "fxa100", "mode
 key_concepts: ["standardized-root-mean-squared-residual", "tucker-lewis-index", "comparative-fit-index"]
 methods: ["covariance-structure-analysis"]
 slug: fxa100-week13-cutoff-criteria-for-fit-indexes-in-covariance-structure
-related: []
+related: ["structural-equation-modeling"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -39,4 +39,4 @@ This article evaluates the adequacy of conventional cutoff criteria and new alte
 
 ## See Also
 
-*(none yet)*
+- [structural-equation-modeling](../topics/structural-equation-modeling.md)

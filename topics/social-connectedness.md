@@ -3,12 +3,14 @@ confidence: low
 domain: population
 slug: social-connectedness
 sources:
-- fxa301-week05-submission-to-the-nsw-health-and-wellbeing-strategy
+  - fxa301-week05-nsw-health-and-wellbeing-strategy-museums-galleries-of-nsw
+  - fxa301-week05-submission-to-the-nsw-health-and-wellbeing-strategy
+  - fxa301-week06-sing-while-you-work-the-well-being-benefits-of-workplace
 tags:
 - social-connectedness
 title: Social Connectedness
 type: topic
-updated: 2026-05-04
+updated: 2026-08-03
 ---
 
 ## Social Connectedness
@@ -27,4 +29,6 @@ The concept of social connectedness emerges as a critical factor in enhancing me
 
 ## Sources
 
+- [fxa301-week05-nsw-health-and-wellbeing-strategy-museums-galleries-of-nsw](../sources/fxa301-week05-nsw-health-and-wellbeing-strategy-museums-galleries-of-nsw.md)
 - [fxa301-week05-submission-to-the-nsw-health-and-wellbeing-strategy](../sources/fxa301-week05-submission-to-the-nsw-health-and-wellbeing-strategy.md)
+- [fxa301-week06-sing-while-you-work-the-well-being-benefits-of-workplace](../sources/fxa301-week06-sing-while-you-work-the-well-being-benefits-of-workplace.md)

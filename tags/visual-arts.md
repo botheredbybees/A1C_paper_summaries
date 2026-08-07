@@ -1,11 +1,12 @@
 ---
 type: tag
 tag: visual-arts
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Visual Arts
 
+- [FXA100 Week 6 Lecture: Visual Arts, the Brain, and Dementia Care](../sources/fxa100-week06-fxa100-week-6-lecture-visual-arts-the-brain-and-dementia.md)
 - [Week 6 Introduction: The Visual Arts and Dementia Care](../sources/fxa100-week06-lesson-fxa100-week06-page-1-welcome-to-week-6.md)
 - [Welcome to Week 6 - FXA100 The Arts and Dementia Care](../sources/fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care.md)
 - [The Role of Arts in Childhood and Adolescence](../sources/fxa101-week03-lesson-fxa101-week03-page-3-the-role-of-the-arts-in.md)

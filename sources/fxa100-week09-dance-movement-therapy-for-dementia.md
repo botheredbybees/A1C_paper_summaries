@@ -7,13 +7,15 @@ doi: https://doi.org/10.1002/14651858.CD011022.pub2
 appearances:
   - unit: FXA100
     week: "09"
+  - unit: FXA100
+    week: "11"
 tags: ["dance-movement-therapy", "dementia-intervention", "systematic-review", "behavioral-symptoms", "cognitive-health", "fxa100"]
 key_concepts: ["dance movement therapy", "randomized controlled trial", "standard care"]
 methods: ["systematic review"]
 slug: fxa100-week09-dance-movement-therapy-for-dementia
-related: ["behavioral-symptoms", "cognitive-health", "dance-movement-therapy", "dementia-intervention", "systematic-review"]
+related: ["behavioral-symptoms", "cognitive-health", "dance-movement-therapy", "movement-therapy", "systematic-review"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-week09-dance-movement-therapy-for-dementia.md_
@@ -46,5 +48,5 @@ This systematic review evaluates the effectiveness of dance movement therapy (DM
 - [behavioral-symptoms](../topics/behavioral-symptoms.md)
 - [cognitive-health](../topics/cognitive-health.md)
 - [dance-movement-therapy](../topics/dance-movement-therapy.md)
-- [dementia-intervention](../topics/dementia-intervention.md)
+- [movement-therapy](../topics/movement-therapy.md)
 - [systematic-review](../topics/systematic-review.md)

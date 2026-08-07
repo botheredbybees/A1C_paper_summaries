@@ -3,6 +3,7 @@ confidence: medium
 domain: theory
 slug: critical-reflection-models
 sources:
+  - fxa202-week03-at4-critical-reflection
   - fxa202-week09-critical-reflection-the-photo-essay
   - fxa202-week10-lesson-fxa202-week10-page-2
   - fxa202-week10-lesson-fxa202-week10-week-10
@@ -10,7 +11,7 @@ tags:
 - critical-reflection
 title: Critical Reflection Models
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Critical Reflection Models
@@ -29,6 +30,7 @@ The concept of critical reflection is explored across multiple sources, each pro
 
 ## Sources
 
+- [fxa202-week03-at4-critical-reflection](../sources/fxa202-week03-at4-critical-reflection.md)
 - [fxa202-week09-critical-reflection-the-photo-essay](../sources/fxa202-week09-critical-reflection-the-photo-essay.md)
 - [fxa202-week10-lesson-fxa202-week10-page-2](../sources/fxa202-week10-lesson-fxa202-week10-page-2.md)
 - [fxa202-week10-lesson-fxa202-week10-week-10](../sources/fxa202-week10-lesson-fxa202-week10-week-10.md)

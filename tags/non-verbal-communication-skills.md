@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: non-verbal-communication-skills
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Non Verbal Communication Skills

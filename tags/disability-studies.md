@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: disability-studies
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Disability Studies
@@ -11,3 +11,4 @@ updated: 2026-07-28
 - [Projects \u2013 Art Beyond Sight](../sources/fxa301-week11-projects-art-beyond-sight.md)
 - [Digital Storytelling](../sources/fxa302-week01-digital-storytelling.md)
 - [Blindness in Ancient Greece and the case of Homer](../sources/fxa302-week02-lesson-fxa302-week02-page-3.md)
+- [Music and Disability](../sources/fxa302-week05-music-and-disability.md)

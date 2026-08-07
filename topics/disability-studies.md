@@ -10,7 +10,8 @@ sources:
   - fxa301-week11-projects-art-beyond-sight
   - fxa302-week01-digital-storytelling
   - fxa302-week02-lesson-fxa302-week02-page-3
-updated: 2026-07-13
+  - fxa302-week05-music-and-disability
+updated: 2026-08-03
 ---
 
 ## Inclusive Arts Practices in Disability Studies
@@ -34,3 +35,4 @@ The integration of inclusive arts practices within disability studies is charact
 - [fxa301-week11-projects-art-beyond-sight](../sources/fxa301-week11-projects-art-beyond-sight.md)
 - [fxa302-week01-digital-storytelling](../sources/fxa302-week01-digital-storytelling.md)
 - [fxa302-week02-lesson-fxa302-week02-page-3](../sources/fxa302-week02-lesson-fxa302-week02-page-3.md)
+- [fxa302-week05-music-and-disability](../sources/fxa302-week05-music-and-disability.md)

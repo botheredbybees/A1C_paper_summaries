@@ -6,22 +6,22 @@ confidence: medium
 tags: ["choral-singing"]
 sources:
   - fxa100-week04-the-perceived-benefits-of-singing-findings-from-preliminary
-updated: 2026-05-16
+updated: 2026-08-07
 ---
 
 ## Choral Singing
 
-The preliminary surveys highlighted the positive perceptions individuals have towards choral singing, noting its impact on both mental and physical health. The study revealed that participants perceived an improvement in their quality of life through social interaction, emotional expression, and stress reduction. Choral singing is seen as a communal activity that fosters connections among members and enhances well-being.
+The preliminary surveys reveal that participants perceive significant health and well-being benefits from engaging in choral singing. These perceived advantages include improved mental health, enhanced social connections, and increased quality of life. The studies underscore the positive impact on mood regulation, stress reduction, and emotional support among singers. However, there is a need for further research to substantiate these perceptions with empirical evidence. Despite this gap, the surveys highlight the potential therapeutic value of choral singing as an intervention.
 
 ## Key Findings
 
-- Choral singing is associated with improved mental health.
-- Participants reported enhanced social interactions from engaging in choral activities.
-- Perceived benefits of choral singing include stress reduction.
+- Choral singing improves mental health.
+- Social connections are strengthened through group singing activities.
+- Participants report enhanced quality of life from regular choral engagement.
 
 ## Open Questions
 
-- What are the long-term effects of regular participation in choral groups on physical and mental health?
+- What is the empirical evidence supporting the perceived benefits of choral singing on mental and social well-being?
 
 ## Sources
 

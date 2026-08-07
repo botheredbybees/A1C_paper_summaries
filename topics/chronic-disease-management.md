@@ -4,12 +4,13 @@ domain: intervention
 slug: chronic-disease-management
 sources:
   - fxa202-week10-type1-diabetes-story-a-familys-journey
+  - fxa301-week03-executive-summary-and-recommendations-why-creative-health
   - fxa301-week03-executive-summary-creative-health-review
 tags:
 - chronic-disease-management
 title: Chronic Disease Management
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Chronic Disease Management
@@ -28,4 +29,5 @@ The topic of chronic disease management is examined through the lens of type 1 d
 ## Sources
 
 - [fxa202-week10-type1-diabetes-story-a-familys-journey](../sources/fxa202-week10-type1-diabetes-story-a-familys-journey.md)
+- [fxa301-week03-executive-summary-and-recommendations-why-creative-health](../sources/fxa301-week03-executive-summary-and-recommendations-why-creative-health.md)
 - [fxa301-week03-executive-summary-creative-health-review](../sources/fxa301-week03-executive-summary-creative-health-review.md)

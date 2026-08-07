@@ -23,6 +23,7 @@ sources:
   - fxa302-week01-storytelling
   - fxa302-week01-the-role-of-the-imagination-in-the-practices-of-the-health
   - fxa302-week01-the-routledge-companion-to-health-humanities-part-2
+  - fxa302-week01-web-lecture-week-1-2026
   - fxa302-week03-fxa302-week-1-introduction
   - fxa302-week03-fxa302-week-3-welcome
   - fxa302-week03-introduction-to-fxa302-perspectives-of-the-arts-on-health
@@ -34,7 +35,7 @@ tags:
 - health-humanities
 title: Health Humanities
 type: topic
-updated: 2026-07-20
+updated: 2026-08-07
 ---
 
 ## Health Humanities
@@ -73,6 +74,7 @@ The concept of Health Humanities encompasses interdisciplinary approaches that i
 - [fxa302-week01-storytelling](../sources/fxa302-week01-storytelling.md)
 - [fxa302-week01-the-role-of-the-imagination-in-the-practices-of-the-health](../sources/fxa302-week01-the-role-of-the-imagination-in-the-practices-of-the-health.md)
 - [fxa302-week01-the-routledge-companion-to-health-humanities-part-2](../sources/fxa302-week01-the-routledge-companion-to-health-humanities-part-2.md)
+- [fxa302-week01-web-lecture-week-1-2026](../sources/fxa302-week01-web-lecture-week-1-2026.md)
 - [fxa302-week03-fxa302-week-1-introduction](../sources/fxa302-week03-fxa302-week-1-introduction.md)
 - [fxa302-week03-fxa302-week-3-welcome](../sources/fxa302-week03-fxa302-week-3-welcome.md)
 - [fxa302-week03-introduction-to-fxa302-perspectives-of-the-arts-on-health](../sources/fxa302-week03-introduction-to-fxa302-perspectives-of-the-arts-on-health.md)

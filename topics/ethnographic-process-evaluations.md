@@ -6,21 +6,21 @@ confidence: medium
 tags: ["ethnographic-process-evaluations"]
 sources:
   - fxa301-arts-in-health-ch67-chapter-6-(2)
-updated: 2026-05-16
+updated: 2026-08-07
 ---
 
 ## Ethnographic Process Evaluations
 
-The provided sources collectively emphasize the importance of ethnographic process evaluations in assessing outcomes within arts-in-health contexts. These evaluations are pivotal for understanding how interventions unfold over time, and they highlight the nuances that quantitative methods often miss. However, there is a notable tension regarding the standardization of reporting results from such qualitative assessments, with some sources suggesting that existing frameworks may not fully capture the complexities of ethnographic data.
+The sources emphasize the importance of ethnographic process evaluations as a method to assess the implementation and impact of arts in health interventions. Ethnographic methods provide an in-depth understanding of how such programs are received, adapted, and integrated into existing healthcare practices. These evaluations go beyond mere outcome assessment by capturing the nuances of participant engagement, program delivery challenges, and contextual influences on intervention effectiveness.
 
 ## Key Findings
 
-- Ethnographic process evaluations are essential for capturing detailed dynamics within arts-in-health interventions.
-- Outcome assessment benefits significantly from comprehensive documentation of contextual factors and participant experiences.
+- Ethnographic process evaluations offer a detailed insight into how arts in health interventions function within specific contexts
+- Outcome assessments are complemented by ethnographic methods to provide a fuller picture of intervention impact
 
 ## Open Questions
 
-- What standardized frameworks, if any, adequately capture the intricacies of ethnographic data in outcome assessments?
+- What are the best practices for integrating ethnography with quantitative outcome measures in evaluating arts-based health interventions?
 
 ## Sources
 

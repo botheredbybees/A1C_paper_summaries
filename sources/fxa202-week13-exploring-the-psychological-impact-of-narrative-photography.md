@@ -11,7 +11,7 @@ tags: ["audience-engagement", "composition-in-narrative-photography", "emotional
 key_concepts: ["composition-in-narrative-photography", "lighting-effects-on-emotion"]
 methods: ["case-study"]
 slug: fxa202-week13-exploring-the-psychological-impact-of-narrative-photography
-related: ["visual-storytelling"]
+related: ["audience-engagement", "visual-storytelling"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -40,4 +40,5 @@ The article explores the psychological impact of narrative photography on audien
 
 ## See Also
 
+- [audience-engagement](../topics/audience-engagement.md)
 - [visual-storytelling](../topics/visual-storytelling.md)

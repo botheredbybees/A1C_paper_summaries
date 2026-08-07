@@ -11,7 +11,7 @@ tags: ["clown-doctors", "laughter-care", "healthcare-improvement", "social-impac
 key_concepts: ["Social Impact Measurement (SIM) Framework", "Social Return on Investment (SROI)", "Quality of Care"]
 methods: ["case study"]
 slug: fxa301-week08-impact-summary-clown-doctors-australia
-related: ["clown-doctors", "healthcare-improvement", "laughter-care"]
+related: ["clown-doctors", "healthcare-improvement", "laughter-care", "social-impact-assessment"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -52,3 +52,4 @@ The organization's commitment to evidence-based practices is reinforced by publi
 - [clown-doctors](../topics/clown-doctors.md)
 - [healthcare-improvement](../topics/healthcare-improvement.md)
 - [laughter-care](../topics/laughter-care.md)
+- [social-impact-assessment](../topics/social-impact-assessment.md)

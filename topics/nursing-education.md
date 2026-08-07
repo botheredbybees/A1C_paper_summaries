@@ -7,7 +7,8 @@ tags: ["nursing-education"]
 sources:
   - fxa302-week03-ways-of-seeing-using-the-visual-arts-in-nursing-education
   - fxa303-week06-a-review-of-the-literature-the-use-of-interactive-puppet
-updated: 2026-07-20
+  - psy214-week07-self-care-skills-to-prevent-burnout-a-pilot-study-embedding
+updated: 2026-08-07
 ---
 
 ## Innovative Teaching Tools in Nursing Education
@@ -28,3 +29,4 @@ The integration of visual arts and interactive puppet simulation into nursing ed
 
 - [fxa302-week03-ways-of-seeing-using-the-visual-arts-in-nursing-education](../sources/fxa302-week03-ways-of-seeing-using-the-visual-arts-in-nursing-education.md)
 - [fxa303-week06-a-review-of-the-literature-the-use-of-interactive-puppet](../sources/fxa303-week06-a-review-of-the-literature-the-use-of-interactive-puppet.md)
+- [psy214-week07-self-care-skills-to-prevent-burnout-a-pilot-study-embedding](../sources/psy214-week07-self-care-skills-to-prevent-burnout-a-pilot-study-embedding.md)

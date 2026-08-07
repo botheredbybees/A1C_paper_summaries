@@ -3,12 +3,17 @@ confidence: low
 domain: theory
 slug: musical-preferences
 sources:
-- fxa100-week03-lesson-fxa100-week03-page-1-welcome-to-week-3
+  - fxa100-week03-lesson-fxa100-week03-page-1-welcome-to-week-3
+  - fxa100-week03-musical-preferences-are-linked-to-cognitive-styles
+  - fxa300-week05-age-trends-in-musical-preferences-in-adulthood-sources-of
+  - fxa300-week05-exploring-musical-preferences-an-in-depth-qualitative-study
+  - fxa300-week05-the-distribution-of-memories-for-popular-songs-in-old-age
+  - fxa300-week05-universals-and-variations-in-musical-preferences-a-study-of
 tags:
 - musical-preferences
 title: Musical Preferences
 type: topic
-updated: 2026-05-04
+updated: 2026-08-03
 ---
 
 ## Musical Preferences
@@ -28,3 +33,8 @@ The concept of musical preferences is explored through an interplay between emot
 ## Sources
 
 - [fxa100-week03-lesson-fxa100-week03-page-1-welcome-to-week-3](../sources/fxa100-week03-lesson-fxa100-week03-page-1-welcome-to-week-3.md)
+- [fxa100-week03-musical-preferences-are-linked-to-cognitive-styles](../sources/fxa100-week03-musical-preferences-are-linked-to-cognitive-styles.md)
+- [fxa300-week05-age-trends-in-musical-preferences-in-adulthood-sources-of](../sources/fxa300-week05-age-trends-in-musical-preferences-in-adulthood-sources-of.md)
+- [fxa300-week05-exploring-musical-preferences-an-in-depth-qualitative-study](../sources/fxa300-week05-exploring-musical-preferences-an-in-depth-qualitative-study.md)
+- [fxa300-week05-the-distribution-of-memories-for-popular-songs-in-old-age](../sources/fxa300-week05-the-distribution-of-memories-for-popular-songs-in-old-age.md)
+- [fxa300-week05-universals-and-variations-in-musical-preferences-a-study-of](../sources/fxa300-week05-universals-and-variations-in-musical-preferences-a-study-of.md)

@@ -4,16 +4,18 @@ domain: intervention
 slug: public-health-initiatives-through-arts-and-culture
 sources:
   - fxa101-week03-fxa101-week-3-introduction
+  - fxa300-week05-rene-flemings-music-and-mind
   - fxa301-oxford-textbook-of-creative-arts-ch23-1-a-research-project-that-examined-how-participation-can-be
   - fxa301-week03-cross-sector-strategies-for-health-and-community-well-being
   - fxa301-week03-how-do-we-realize-the-potential-of-the-arts-to-support
+  - fxa301-week03-introduction-to-creative-health
   - fxa301-week03-the-thrive-toolkit-tools-for-health-research-and-evaluation
   - fxa303-week03-mental-health-of-adolescents
 tags:
 - public-health-initiatives
 title: Public Health Initiatives through Arts and Culture
 type: topic
-updated: 2026-07-20
+updated: 2026-08-07
 ---
 
 ## Public Health Initiatives through Arts and Culture
@@ -33,8 +35,10 @@ The integration of arts and culture into public health initiatives aims to enhan
 ## Sources
 
 - [fxa101-week03-fxa101-week-3-introduction](../sources/fxa101-week03-fxa101-week-3-introduction.md)
+- [fxa300-week05-rene-flemings-music-and-mind](../sources/fxa300-week05-rene-flemings-music-and-mind.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch23-1-a-research-project-that-examined-how-participation-can-be](../sources/fxa301-oxford-textbook-of-creative-arts-ch23-1-a-research-project-that-examined-how-participation-can-be.md)
 - [fxa301-week03-cross-sector-strategies-for-health-and-community-well-being](../sources/fxa301-week03-cross-sector-strategies-for-health-and-community-well-being.md)
 - [fxa301-week03-how-do-we-realize-the-potential-of-the-arts-to-support](../sources/fxa301-week03-how-do-we-realize-the-potential-of-the-arts-to-support.md)
+- [fxa301-week03-introduction-to-creative-health](../sources/fxa301-week03-introduction-to-creative-health.md)
 - [fxa301-week03-the-thrive-toolkit-tools-for-health-research-and-evaluation](../sources/fxa301-week03-the-thrive-toolkit-tools-for-health-research-and-evaluation.md)
 - [fxa303-week03-mental-health-of-adolescents](../sources/fxa303-week03-mental-health-of-adolescents.md)

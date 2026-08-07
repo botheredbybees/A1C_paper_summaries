@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuroplasticity
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Neuroplasticity
@@ -18,6 +18,7 @@ updated: 2026-07-28
 - [Rejuvenation: The Discovery of the Neuronal Stem Cell and Lessons for Preserving Our Brains](../sources/fxa101-week02-rejuvenation-the-discovery-of-the-neuronal-stem-cell-and.md)
 - [Creativity, the Arts and Brain Development](../sources/fxa101-week03-lesson-fxa101-week03-page-1-week-3-introduction.md)
 - [Training creative cognition: adolescence as a flexible period for improving creativity](../sources/fxa101-week03-training-creative-cognition-adolescence-as-a-flexible.md)
+- [Cognitive Reserve and Brain Changes in Ageing](../sources/fxa101-week04-cognitive-reserve-and-brain-changes-in-ageing.md)
 - [Enrichment Effects on Adult Cognitive Development: Can the Functional Capacity of Older Adults Be Preserved and Enhanced?](../sources/fxa101-week04-enrichment-effects-on-adult-cognitive-development-can-the.md)
 - [FXA101 Creativity and Ageing Week 4 Introduction](../sources/fxa101-week04-lesson-fxa101-week04-page-1-introduction-to-week-4.md)
 - [Broca\u2019s Area Supports Enhanced Visuospatial Cognition in Orchestral Musicians](../sources/fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in.md)

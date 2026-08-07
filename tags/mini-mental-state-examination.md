@@ -1,9 +1,9 @@
 ---
 type: tag
 tag: mini-mental-state-examination
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Mini Mental State Examination
 
-- [Evaluation of Cognitive Stimulation Therapy for People With Dementia](../sources/fxa303-week13-evaluation-of-cognitive-stimulation-therapy-for-people-with.md)
+- [Efficacy of an Evidence-Based Cognitive Stimulation Therapy Programme for People With Dementia: A Randomised Controlled Trial](../sources/fxa303-week13-evaluation-of-cognitive-stimulation-therapy-for-people-with.md)

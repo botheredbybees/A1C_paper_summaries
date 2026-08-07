@@ -6,6 +6,7 @@ sources:
   - fxa100-week09-dance-movement-therapy-for-dementia
   - fxa100-week11-dance-and-movement-therapeutic-methods-in-management-of
   - fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of
+  - fxa100-week12-creative-art-therapy-as-a-non-pharmacological-intervention
   - fxa100-week13-behavioral-and-psychological-signs-and-symptoms-of-dementia
   - fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a
   - fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and
@@ -16,7 +17,7 @@ tags:
 - behavioral-symptoms
 title: Behavioral and Psychological Symptoms in Dementia Care
 type: topic
-updated: 2026-05-15
+updated: 2026-08-07
 ---
 
 ## Behavioral and Psychological Symptoms in Dementia Care
@@ -39,6 +40,7 @@ Both sources explore non-pharmacological interventions for managing behavioral s
 - [fxa100-week09-dance-movement-therapy-for-dementia](../sources/fxa100-week09-dance-movement-therapy-for-dementia.md)
 - [fxa100-week11-dance-and-movement-therapeutic-methods-in-management-of](../sources/fxa100-week11-dance-and-movement-therapeutic-methods-in-management-of.md)
 - [fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of](../sources/fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of.md)
+- [fxa100-week12-creative-art-therapy-as-a-non-pharmacological-intervention](../sources/fxa100-week12-creative-art-therapy-as-a-non-pharmacological-intervention.md)
 - [fxa100-week13-behavioral-and-psychological-signs-and-symptoms-of-dementia](../sources/fxa100-week13-behavioral-and-psychological-signs-and-symptoms-of-dementia.md)
 - [fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a](../sources/fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a.md)
 - [fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and](../sources/fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and.md)

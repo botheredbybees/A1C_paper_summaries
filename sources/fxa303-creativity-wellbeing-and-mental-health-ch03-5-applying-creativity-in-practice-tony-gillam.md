@@ -11,7 +11,7 @@ tags: ["creativity", "mental-health-practice", "therapeutic-approaches", "risk-t
 key_concepts: []
 methods: []
 slug: fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam
-related: ["creativity", "improvisation", "mental-health-practice"]
+related: ["creativity", "improvisation", "mental-health-practice", "therapeutic-approaches"]
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -44,3 +44,4 @@ This chapter explores the application of creativity to mental health practice, f
 - [creativity](../topics/creativity.md)
 - [improvisation](../topics/improvisation.md)
 - [mental-health-practice](../topics/mental-health-practice.md)
+- [therapeutic-approaches](../topics/therapeutic-approaches.md)

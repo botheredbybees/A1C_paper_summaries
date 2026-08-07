@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: socio-demographic-index-sdi
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Socio Demographic Index Sdi

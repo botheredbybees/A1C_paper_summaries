@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: physical-activity-promotion
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Physical Activity Promotion

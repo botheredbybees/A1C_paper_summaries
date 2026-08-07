@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Cortisol Levels During Human Aging Predict Hippocampal Atrophy and Memory Deficits"
-apa7: "Lupien, S. J., de Leon, M., de Santi, S., Convit, A., Tarshish, C., Nair, N. P. V., Thakur, M., McEwen, B. S., Hauger, R. L., & Meaney, M. J. (1998). Cortisol levels during human aging predict hippocampal atrophy and memory deficits. Nature Neuroscience, 1(1), 69\u201373. https://doi.org/10.1038/529"
-doi: https://doi.org/10.1038/529
+apa7: "Lupien, S. J., de Leon, M., de Santi, S., Convit, A., Tarshish, C., Nair, N. P. V., Thakur, M., McEwen, B. S., Hauger, R. L., & Meaney, M. J. (1998). Cortisol levels during human aging predict hippocampal atrophy and memory deficits. Nature Neuroscience, 1(1), 69\u201373. https://doi.org/10.1038/271"
+doi: https://doi.org/10.1038/271
 appearances:
   - unit: FXA100
     week: "13"
@@ -11,9 +11,9 @@ tags: ["aging-process", "brain-aging", "cortisol-levels", "delayed-recall-memory
 key_concepts: ["glucocorticoids", "hippocampal-volume", "delayed-recall-memory"]
 methods: ["longitudinal-study", "mri-scans"]
 slug: fxa100-week13-cortisol-levels-during-human-aging-predict-hippocampal
-related: ["brain-aging", "hippocampal-volume"]
+related: ["brain-aging", "cortisol-levels", "hippocampal-volume"]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-08-02
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-week13-cortisol-levels-during-human-aging-predict-hippocampal.md_
@@ -44,4 +44,5 @@ The study investigates the relationship between cortisol levels and hippocampal 
 ## See Also
 
 - [brain-aging](../topics/brain-aging.md)
+- [cortisol-levels](../topics/cortisol-levels.md)
 - [hippocampal-volume](../topics/hippocampal-volume.md)

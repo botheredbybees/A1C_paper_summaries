@@ -7,8 +7,12 @@ sources:
   - fxa100-week04-making-art-with-communities-a-work-guide
   - fxa100-week04-week-4-activities-fxa100-the-arts-and-dementia-care
   - fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of
+  - fxa100-week07-art-and-dementia
+  - fxa100-week07-arts-engagement-for-people-with-dementia-independent-(2)
+  - fxa100-week07-house-of-memories
   - fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of
   - fxa100-week08-lesson-fxa100-week07-page-3-stimulating-engagement
+  - fxa100-week10-building-creative-communities-of-care-arts-dementia-and
   - fxa100-week11-dancer-not-dementia-canadas-national-ballet-school
   - fxa101-week04-case-study-engaging-older-people-in-creative-thinkingthe
   - fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using
@@ -19,14 +23,18 @@ sources:
   - fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30
   - fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-(2)
   - fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2)
+  - fxa301-week01-editors-introduction-arts-and-community-engagement
   - fxa301-week01-fxa301-sem-1-2026-week-4-lecture
   - fxa301-week01-guidelines-for-arts-and-mental-health-projects-(2)
+  - fxa301-week01-interdisciplinarity-for-social-justice-enterprise
+  - fxa301-week01-the-artsin-the-community
   - fxa301-week01-week-1-introduction-the-role-of-creative-arts-in-human
   - fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report
   - fxa301-week03-developing-a-national-arts-and-health-policy-framework
   - fxa301-week03-executive-summary-creative-health-review
   - fxa301-week03-four-big-ways-to-improve-health-through-the-arts
   - fxa301-week03-health-inequalities-and-the-role-of-creative-health
+  - fxa301-week03-lifting-stress-from-the-day-a-womens-well-being-online
   - fxa301-week03-national-arts-and-health-framework
   - fxa301-week03-statement-on-lived-experience
   - fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community
@@ -40,6 +48,7 @@ sources:
   - fxa301-week05-naidoc-week-aboriginal-mural-brings-community-together-in
   - fxa301-week05-transcript-aprof-anne-marie-forbes-interview-with-dr
   - fxa301-week05-web-article-butler-2019
+  - fxa301-week05-web-lecture-5-case-studies-and-engaging-with-visual-arts
   - fxa301-week06-brisbanes-pub-choir-movement-marks-first-year
   - fxa301-week06-engaging-with-music-and-dance
   - fxa301-week06-evaluation-of-big-noise-douglas
@@ -54,6 +63,8 @@ sources:
   - fxa301-week08-transcript-youtube-i1dnrn0cj20
   - fxa301-week09-lesson-fxa301-week09-page-1
   - fxa301-week09-the-importance-of-disability-led-theatre
+  - fxa301-week10-creative-recovery-the-role-of-cultural-policy-in-shaping
+  - fxa301-week10-death-loss-and-communityperspectives-from-children-their
   - fxa301-week11-anything-is-possible-the-arts-and-social-inclusion
   - fxa301-week11-choose-art
   - fxa301-week11-putting-communities-first-inclusive-museum-practice-through
@@ -80,7 +91,7 @@ tags:
 - community-engagement
 title: Community Engagement
 type: topic
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Community Engagement
@@ -103,8 +114,12 @@ Community engagement is a multifaceted intervention aimed at fostering participa
 - [fxa100-week04-making-art-with-communities-a-work-guide](../sources/fxa100-week04-making-art-with-communities-a-work-guide.md)
 - [fxa100-week04-week-4-activities-fxa100-the-arts-and-dementia-care](../sources/fxa100-week04-week-4-activities-fxa100-the-arts-and-dementia-care.md)
 - [fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of](../sources/fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of.md)
+- [fxa100-week07-art-and-dementia](../sources/fxa100-week07-art-and-dementia.md)
+- [fxa100-week07-arts-engagement-for-people-with-dementia-independent-(2)](../sources/fxa100-week07-arts-engagement-for-people-with-dementia-independent-%282%29.md)
+- [fxa100-week07-house-of-memories](../sources/fxa100-week07-house-of-memories.md)
 - [fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of](../sources/fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of.md)
 - [fxa100-week08-lesson-fxa100-week07-page-3-stimulating-engagement](../sources/fxa100-week08-lesson-fxa100-week07-page-3-stimulating-engagement.md)
+- [fxa100-week10-building-creative-communities-of-care-arts-dementia-and](../sources/fxa100-week10-building-creative-communities-of-care-arts-dementia-and.md)
 - [fxa100-week11-dancer-not-dementia-canadas-national-ballet-school](../sources/fxa100-week11-dancer-not-dementia-canadas-national-ballet-school.md)
 - [fxa101-week04-case-study-engaging-older-people-in-creative-thinkingthe](../sources/fxa101-week04-case-study-engaging-older-people-in-creative-thinkingthe.md)
 - [fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using](../sources/fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using.md)
@@ -115,14 +130,18 @@ Community engagement is a multifaceted intervention aimed at fostering participa
 - [fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30](../sources/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-%282%29.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-%282%29.md)
+- [fxa301-week01-editors-introduction-arts-and-community-engagement](../sources/fxa301-week01-editors-introduction-arts-and-community-engagement.md)
 - [fxa301-week01-fxa301-sem-1-2026-week-4-lecture](../sources/fxa301-week01-fxa301-sem-1-2026-week-4-lecture.md)
 - [fxa301-week01-guidelines-for-arts-and-mental-health-projects-(2)](../sources/fxa301-week01-guidelines-for-arts-and-mental-health-projects-%282%29.md)
+- [fxa301-week01-interdisciplinarity-for-social-justice-enterprise](../sources/fxa301-week01-interdisciplinarity-for-social-justice-enterprise.md)
+- [fxa301-week01-the-artsin-the-community](../sources/fxa301-week01-the-artsin-the-community.md)
 - [fxa301-week01-week-1-introduction-the-role-of-creative-arts-in-human](../sources/fxa301-week01-week-1-introduction-the-role-of-creative-arts-in-human.md)
 - [fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report](../sources/fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report.md)
 - [fxa301-week03-developing-a-national-arts-and-health-policy-framework](../sources/fxa301-week03-developing-a-national-arts-and-health-policy-framework.md)
 - [fxa301-week03-executive-summary-creative-health-review](../sources/fxa301-week03-executive-summary-creative-health-review.md)
 - [fxa301-week03-four-big-ways-to-improve-health-through-the-arts](../sources/fxa301-week03-four-big-ways-to-improve-health-through-the-arts.md)
 - [fxa301-week03-health-inequalities-and-the-role-of-creative-health](../sources/fxa301-week03-health-inequalities-and-the-role-of-creative-health.md)
+- [fxa301-week03-lifting-stress-from-the-day-a-womens-well-being-online](../sources/fxa301-week03-lifting-stress-from-the-day-a-womens-well-being-online.md)
 - [fxa301-week03-national-arts-and-health-framework](../sources/fxa301-week03-national-arts-and-health-framework.md)
 - [fxa301-week03-statement-on-lived-experience](../sources/fxa301-week03-statement-on-lived-experience.md)
 - [fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community](../sources/fxa301-week03-welcome-to-week-3-fxa301-arts-in-the-community.md)
@@ -136,6 +155,7 @@ Community engagement is a multifaceted intervention aimed at fostering participa
 - [fxa301-week05-naidoc-week-aboriginal-mural-brings-community-together-in](../sources/fxa301-week05-naidoc-week-aboriginal-mural-brings-community-together-in.md)
 - [fxa301-week05-transcript-aprof-anne-marie-forbes-interview-with-dr](../sources/fxa301-week05-transcript-aprof-anne-marie-forbes-interview-with-dr.md)
 - [fxa301-week05-web-article-butler-2019](../sources/fxa301-week05-web-article-butler-2019.md)
+- [fxa301-week05-web-lecture-5-case-studies-and-engaging-with-visual-arts](../sources/fxa301-week05-web-lecture-5-case-studies-and-engaging-with-visual-arts.md)
 - [fxa301-week06-brisbanes-pub-choir-movement-marks-first-year](../sources/fxa301-week06-brisbanes-pub-choir-movement-marks-first-year.md)
 - [fxa301-week06-engaging-with-music-and-dance](../sources/fxa301-week06-engaging-with-music-and-dance.md)
 - [fxa301-week06-evaluation-of-big-noise-douglas](../sources/fxa301-week06-evaluation-of-big-noise-douglas.md)
@@ -150,6 +170,8 @@ Community engagement is a multifaceted intervention aimed at fostering participa
 - [fxa301-week08-transcript-youtube-i1dnrn0cj20](../sources/fxa301-week08-transcript-youtube-i1dnrn0cj20.md)
 - [fxa301-week09-lesson-fxa301-week09-page-1](../sources/fxa301-week09-lesson-fxa301-week09-page-1.md)
 - [fxa301-week09-the-importance-of-disability-led-theatre](../sources/fxa301-week09-the-importance-of-disability-led-theatre.md)
+- [fxa301-week10-creative-recovery-the-role-of-cultural-policy-in-shaping](../sources/fxa301-week10-creative-recovery-the-role-of-cultural-policy-in-shaping.md)
+- [fxa301-week10-death-loss-and-communityperspectives-from-children-their](../sources/fxa301-week10-death-loss-and-communityperspectives-from-children-their.md)
 - [fxa301-week11-anything-is-possible-the-arts-and-social-inclusion](../sources/fxa301-week11-anything-is-possible-the-arts-and-social-inclusion.md)
 - [fxa301-week11-choose-art](../sources/fxa301-week11-choose-art.md)
 - [fxa301-week11-putting-communities-first-inclusive-museum-practice-through](../sources/fxa301-week11-putting-communities-first-inclusive-museum-practice-through.md)

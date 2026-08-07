@@ -11,7 +11,7 @@ tags: ["early-intervention", "autism-spectrum-disorder", "child-development", "s
 key_concepts: ["early intervention services", "individuals with disabilities education act part c", "timely diagnosis and treatment"]
 methods: ["survey analysis"]
 slug: fxa303-week04-missed-early-intervention-opportunities-for-children-with
-related: ["autism-spectrum-disorder", "child-development", "early-intervention", "public-policy"]
+related: ["autism-spectrum-disorder", "child-development", "early-intervention", "public-policy", "socioeconomic-status"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -47,3 +47,4 @@ This study investigates the factors associated with early intervention (EI) part
 - [child-development](../topics/child-development.md)
 - [early-intervention](../topics/early-intervention.md)
 - [public-policy](../topics/public-policy.md)
+- [socioeconomic-status](../topics/socioeconomic-status.md)

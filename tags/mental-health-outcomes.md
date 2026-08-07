@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-health-outcomes
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Mental Health Outcomes
@@ -14,3 +14,4 @@ updated: 2026-07-28
 - [Gratitude and health: An updated review](../sources/psy214-week00-gratitude-and-health-an-updated-review.md)
 - [Physical activity and depression: Towards understanding the antidepressant mechanisms of physical activity](../sources/psy214-week00-physical-activity-and-depression-towards-understanding-the.md)
 - [The effects of loving-kindness interventions on positive and negative mental health outcomes: A systematic review and meta-analysis](../sources/psy214-week00-the-effects-of-loving-kindness-interventions-on-positive.md)
+- [Impact of a mindfulness and self-care intervention on stress, self-compassion, and attentiveness in university healthcare students and faculty](../sources/psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on.md)

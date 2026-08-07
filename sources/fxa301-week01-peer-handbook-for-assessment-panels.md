@@ -11,7 +11,7 @@ tags: ["artistic-integrity", "arts-funding", "code-of-conduct", "conflict-of-int
 key_concepts: ["conflict-of-interest-management", "code-of-conduct", "artistic-integrity"]
 methods: []
 slug: fxa301-week01-peer-handbook-for-assessment-panels
-related: ["arts-funding", "cultural-policy"]
+related: ["arts-funding", "cultural-policy", "diversity-inclusion"]
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -43,3 +43,4 @@ The 'Peer Handbook for Assessment Panels' by Creative Australia is a comprehensi
 
 - [arts-funding](../topics/arts-funding.md)
 - [cultural-policy](../topics/cultural-policy.md)
+- [diversity-inclusion](../topics/diversity-inclusion.md)

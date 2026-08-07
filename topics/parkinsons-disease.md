@@ -5,6 +5,7 @@ slug: lewy-body-dementia
 sources:
   - fxa100-week01-the-science-of-lewy-body-dementia-video-transcript
   - fxa100-week01-transcript-the-science-of-lewy-body-dementia
+  - fxa300-week02-music-stimulates-muscles-mind-and-feelings-in-one-go
   - fxa301-week03-transcript-youtube-5utv1ergbs8
   - fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons
   - fxa301-week06-effect-of-rhythmic-auditory-cueing-on-parkinsonian-gait-a
@@ -16,7 +17,7 @@ tags:
 - parkinsons-disease
 title: Lewy Body Dementia
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Lewy Body Dementia
@@ -37,6 +38,7 @@ The sources emphasize the pivotal role of Lewy bodies and their primary componen
 
 - [fxa100-week01-the-science-of-lewy-body-dementia-video-transcript](../sources/fxa100-week01-the-science-of-lewy-body-dementia-video-transcript.md)
 - [fxa100-week01-transcript-the-science-of-lewy-body-dementia](../sources/fxa100-week01-transcript-the-science-of-lewy-body-dementia.md)
+- [fxa300-week02-music-stimulates-muscles-mind-and-feelings-in-one-go](../sources/fxa300-week02-music-stimulates-muscles-mind-and-feelings-in-one-go.md)
 - [fxa301-week03-transcript-youtube-5utv1ergbs8](../sources/fxa301-week03-transcript-youtube-5utv1ergbs8.md)
 - [fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons](../sources/fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons.md)
 - [fxa301-week06-effect-of-rhythmic-auditory-cueing-on-parkinsonian-gait-a](../sources/fxa301-week06-effect-of-rhythmic-auditory-cueing-on-parkinsonian-gait-a.md)

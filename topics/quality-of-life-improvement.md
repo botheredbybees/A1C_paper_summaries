@@ -6,12 +6,14 @@ sources:
   - fxa100-week03-implementation-survey-results-wisconsin-music-memory-program
   - fxa100-week03-music-memory-the-ipod-project-video-transcript
   - fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients
+  - fxa100-week06-exploring-the-theoretical-foundations-of-visual-art
+  - fxa100-week10-building-creative-communities-of-care-arts-dementia-and
   - fxa100-week12-comparative-efficacy-of-various-art-therapies-for-patients
 tags:
 - quality-of-life-improvement
 title: Quality Of Life Improvement Through Music Therapy
 type: topic
-updated: 2026-05-18
+updated: 2026-08-07
 ---
 
 ## Quality Of Life Improvement Through Music Therapy
@@ -33,4 +35,6 @@ The integration of music-based interventions such as the Wisconsin Music & Memor
 - [fxa100-week03-implementation-survey-results-wisconsin-music-memory-program](../sources/fxa100-week03-implementation-survey-results-wisconsin-music-memory-program.md)
 - [fxa100-week03-music-memory-the-ipod-project-video-transcript](../sources/fxa100-week03-music-memory-the-ipod-project-video-transcript.md)
 - [fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients](../sources/fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients.md)
+- [fxa100-week06-exploring-the-theoretical-foundations-of-visual-art](../sources/fxa100-week06-exploring-the-theoretical-foundations-of-visual-art.md)
+- [fxa100-week10-building-creative-communities-of-care-arts-dementia-and](../sources/fxa100-week10-building-creative-communities-of-care-arts-dementia-and.md)
 - [fxa100-week12-comparative-efficacy-of-various-art-therapies-for-patients](../sources/fxa100-week12-comparative-efficacy-of-various-art-therapies-for-patients.md)

@@ -7,7 +7,7 @@ tags: ["commedia-dellarte"]
 sources:
   - fxa303-week05-web-article-victoria-2025
   - fxa303-week08-commedia-dellarte-characters-scenarios-and-rhetoric
-updated: 2026-05-18
+updated: 2026-08-07
 ---
 
 ## Commedia Dell'Arte

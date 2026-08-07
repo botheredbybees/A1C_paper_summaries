@@ -10,13 +10,14 @@ sources:
   - fxa301-week03-executive-summary-creative-health-review
   - fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract
   - fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing
+  - fxa302-week01-arts-health-and-well-being-a-critical-perspective-on
   - fxa303-week04-missed-early-intervention-opportunities-for-children-with
   - fxa303-week13-good-health-and-well-being
 tags:
 - public-policy
 title: Creative Arts in Public Policy for Health
 type: topic
-updated: 2026-07-20
+updated: 2026-08-07
 ---
 
 ## Creative Arts in Public Policy for Health
@@ -42,5 +43,6 @@ The integration of creative arts into public health policy is emerging as a sign
 - [fxa301-week03-executive-summary-creative-health-review](../sources/fxa301-week03-executive-summary-creative-health-review.md)
 - [fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract](../sources/fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract.md)
 - [fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing](../sources/fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing.md)
+- [fxa302-week01-arts-health-and-well-being-a-critical-perspective-on](../sources/fxa302-week01-arts-health-and-well-being-a-critical-perspective-on.md)
 - [fxa303-week04-missed-early-intervention-opportunities-for-children-with](../sources/fxa303-week04-missed-early-intervention-opportunities-for-children-with.md)
 - [fxa303-week13-good-health-and-well-being](../sources/fxa303-week13-good-health-and-well-being.md)

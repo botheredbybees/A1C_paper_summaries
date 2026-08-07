@@ -5,11 +5,12 @@ slug: human-rights-in-arts-and-community-well-being
 sources:
   - fxa301-week09-rights-of-people-with-disability
   - fxa301-week11-7-art-initiatives-that-are-transforming-the-lives-of
+  - fxa303-week11-erasing-gender-diversity-a-human-rights-and-social-work
 tags:
 - human-rights
 title: Human Rights in Arts and Community Well-being
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Human Rights in Arts and Community Well-being
@@ -30,3 +31,4 @@ Both sources emphasize the role of arts and creative activities as interventions
 
 - [fxa301-week09-rights-of-people-with-disability](../sources/fxa301-week09-rights-of-people-with-disability.md)
 - [fxa301-week11-7-art-initiatives-that-are-transforming-the-lives-of](../sources/fxa301-week11-7-art-initiatives-that-are-transforming-the-lives-of.md)
+- [fxa303-week11-erasing-gender-diversity-a-human-rights-and-social-work](../sources/fxa303-week11-erasing-gender-diversity-a-human-rights-and-social-work.md)

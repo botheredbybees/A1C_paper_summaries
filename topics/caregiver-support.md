@@ -4,16 +4,21 @@ domain: intervention
 slug: caregiver-support-in-dementia-management
 sources:
   - fxa100-week03-alzheimers-disease-music-engagement-quality-of-life
+  - fxa100-week03-alzheimers-disease-music-engagement-quality-of-life-(2)
   - fxa100-week04-dementia-language-guidelines
   - fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-(2)
+  - fxa100-week04-transcript-of-mjhs-dementia-care-music-therapy-program
+  - fxa100-week07-evaluation-of-the-unforgettable-art-programme-by-people
   - fxa100-week07-transcript-artz-museum-program-for-alzheimers-url-only
+  - fxa100-week10-the-challenges-of-developing-a-participatory-arts
   - fxa100-week13-emotion-work-in-caregiving-the-role-of-technology-to
+  - fxa100-week13-systematic-review-of-arts-and-culture-based-interventions
   - fxa303-week13-reminiscence-therapy-for-dementia
 tags:
 - caregiver-support
 title: Caregiver Support in Dementia Management
 type: topic
-updated: 2026-05-15
+updated: 2026-08-07
 ---
 
 ## Caregiver Support in Dementia Management
@@ -33,8 +38,13 @@ The integration of various interventions aimed at supporting caregivers and impr
 ## Sources
 
 - [fxa100-week03-alzheimers-disease-music-engagement-quality-of-life](../sources/fxa100-week03-alzheimers-disease-music-engagement-quality-of-life.md)
+- [fxa100-week03-alzheimers-disease-music-engagement-quality-of-life-(2)](../sources/fxa100-week03-alzheimers-disease-music-engagement-quality-of-life-%282%29.md)
 - [fxa100-week04-dementia-language-guidelines](../sources/fxa100-week04-dementia-language-guidelines.md)
 - [fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-(2)](../sources/fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for-%282%29.md)
+- [fxa100-week04-transcript-of-mjhs-dementia-care-music-therapy-program](../sources/fxa100-week04-transcript-of-mjhs-dementia-care-music-therapy-program.md)
+- [fxa100-week07-evaluation-of-the-unforgettable-art-programme-by-people](../sources/fxa100-week07-evaluation-of-the-unforgettable-art-programme-by-people.md)
 - [fxa100-week07-transcript-artz-museum-program-for-alzheimers-url-only](../sources/fxa100-week07-transcript-artz-museum-program-for-alzheimers-url-only.md)
+- [fxa100-week10-the-challenges-of-developing-a-participatory-arts](../sources/fxa100-week10-the-challenges-of-developing-a-participatory-arts.md)
 - [fxa100-week13-emotion-work-in-caregiving-the-role-of-technology-to](../sources/fxa100-week13-emotion-work-in-caregiving-the-role-of-technology-to.md)
+- [fxa100-week13-systematic-review-of-arts-and-culture-based-interventions](../sources/fxa100-week13-systematic-review-of-arts-and-culture-based-interventions.md)
 - [fxa303-week13-reminiscence-therapy-for-dementia](../sources/fxa303-week13-reminiscence-therapy-for-dementia.md)

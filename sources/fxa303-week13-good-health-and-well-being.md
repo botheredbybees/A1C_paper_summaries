@@ -2,7 +2,7 @@
 type: source
 source_type: paper
 title: "Good Health and Well-Being"
-apa7: "Wall, T., Leal Filho, W., Azul, A. M., Brandli, L., & G\u00f6kcin \u00d6zuyar, P. (Eds.). (2018). Good health and well-being [Encyclopedia of the UN Sustainable Development Goals]. Springer Nature Switzerland AG. https://doi.org/10.1007/978-3-319-95681-7"
+apa7: "Wall, T., Leal Filho, W., Azul, A. M., Brandli, L., & G\u00f6kcin \u00d6zuyar, P. (Eds.). (2020). Good health and well-being [Encyclopedia of the UN Sustainable Development Goals]. Springer Nature Switzerland AG. https://doi.org/10.1007/978-3-319-95681-7"
 doi: https://doi.org/10.1007/978-3-319-95681-7
 appearances:
   - unit: FXA303
@@ -11,9 +11,9 @@ tags: ["disease-prevention", "environmental-justice", "fxa303", "global-health",
 key_concepts: ["sustainable development goals (SDGs)", "health as a human right", "disease prevention"]
 methods: ["case study"]
 slug: fxa303-week13-good-health-and-well-being
-related: ["global-health", "health-equity", "interdisciplinary-research", "public-policy"]
+related: ["arts-based-strategies-for-youth-mental-health", "health-equity", "interdisciplinary-research", "public-policy"]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-08-02
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week13-good-health-and-well-being.md_
@@ -42,7 +42,7 @@ The document discusses the importance of sustainable development goals (SDGs) fo
 
 ## See Also
 
-- [global-health](../topics/global-health.md)
+- [arts-based-strategies-for-youth-mental-health](../topics/arts-based-strategies-for-youth-mental-health.md)
 - [health-equity](../topics/health-equity.md)
 - [interdisciplinary-research](../topics/interdisciplinary-research.md)
 - [public-policy](../topics/public-policy.md)

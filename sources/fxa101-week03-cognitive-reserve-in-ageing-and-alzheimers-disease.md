@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Cognitive Reserve in Ageing and Alzheimer's Disease"
-apa7: "Stern, Y. (2012). Cognitive reserve in ageing and Alzheimer\u2019s disease. *The Lancet Neurology*, 11(11), 1006\u20131012. https://doi.org/10.1016/S1474-4422(12)70230-X"
-doi: https://doi.org/10.1016/S1474-4422(12)70230-X
+apa7: "Stern, Y. (2012). Cognitive reserve in ageing and Alzheimer's disease. *Lancet Neurology*. https://doi.org/10.1016/S1474-4422(12)70191-6"
+doi: https://doi.org/10.1016/S1474-4422(12)70191-6
 appearances:
   - unit: FXA101
     week: "03"

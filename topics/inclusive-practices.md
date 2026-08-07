@@ -3,6 +3,7 @@ confidence: low
 domain: intervention
 slug: inclusive-practices
 sources:
+  - fxa301-week01-culture-democracy-and-the-right-to-make-art-the-british
   - fxa301-week01-engaging-in-community-music-an-introduction-(2)
   - fxa301-week01-making-art-with-communities-a-work-guide-(3)
   - fxa301-week11-glossary-choose-art
@@ -11,7 +12,7 @@ tags:
 - inclusive-practices
 title: Inclusive Practices
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Inclusive Practices
@@ -30,6 +31,7 @@ The concept of inclusive practices is central to ensuring that projects and init
 
 ## Sources
 
+- [fxa301-week01-culture-democracy-and-the-right-to-make-art-the-british](../sources/fxa301-week01-culture-democracy-and-the-right-to-make-art-the-british.md)
 - [fxa301-week01-engaging-in-community-music-an-introduction-(2)](../sources/fxa301-week01-engaging-in-community-music-an-introduction-%282%29.md)
 - [fxa301-week01-making-art-with-communities-a-work-guide-(3)](../sources/fxa301-week01-making-art-with-communities-a-work-guide-%283%29.md)
 - [fxa301-week11-glossary-choose-art](../sources/fxa301-week11-glossary-choose-art.md)

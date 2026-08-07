@@ -6,11 +6,12 @@ sources:
   - fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using
   - fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare
   - fxa303-week11-the-one-thing-that-actually-helps-art-creation-as-a-self
+  - psy214-week03-lesson-psy214-week03-at4-presentation-assessment
 tags:
 - self-care-practices
 title: Self-Care Practices
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Self-Care Practices
@@ -32,3 +33,4 @@ The synthesis of self-care practices across the two sources highlights diverse a
 - [fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using](../sources/fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using.md)
 - [fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare](../sources/fxa303-week05-applied-theatre-puppetry-and-emotional-skills-in-healthcare.md)
 - [fxa303-week11-the-one-thing-that-actually-helps-art-creation-as-a-self](../sources/fxa303-week11-the-one-thing-that-actually-helps-art-creation-as-a-self.md)
+- [psy214-week03-lesson-psy214-week03-at4-presentation-assessment](../sources/psy214-week03-lesson-psy214-week03-at4-presentation-assessment.md)

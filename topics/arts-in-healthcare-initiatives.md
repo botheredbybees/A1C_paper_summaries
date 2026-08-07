@@ -6,22 +6,22 @@ confidence: medium
 tags: ["arts-in-healthcare-initiatives"]
 sources:
   - fxa301-week03-executive-summary-creative-health-review
-updated: 2026-05-16
+updated: 2026-08-07
 ---
 
 ## Arts In Healthcare Initiatives
 
-The integration of the arts into healthcare settings is highlighted across various sources as a vital component of holistic patient care and therapeutic intervention. The Creative Health Review's executive summary underscores the role of creativity in health determinants, advocating for its inclusion in integrated care systems. This initiative reflects broader trends where artistic interventions are seen not just as recreational activities but as essential elements that can significantly enhance both physical and mental well-being.
+The integration of arts into healthcare settings is increasingly recognized for its potential to enhance patient well-being and support overall public health. Sources highlight the role of creativity as a determinant of health, emphasizing how creative activities can contribute positively to mental and physical health outcomes. Integrated care systems are seen as crucial in effectively implementing arts initiatives within healthcare environments, fostering holistic treatment approaches that address both medical and psychosocial needs. However, there is also an acknowledgment of challenges such as resource allocation, sustainability of programs, and the need for evidence-based practices to validate the efficacy of these interventions.
 
 ## Key Findings
 
-- Arts in healthcare initiatives are increasingly recognized as integral components of holistic patient care.
-- The integration of creativity into health systems is linked to improved overall health outcomes.
-- There is a growing emphasis on the role of arts-based interventions in promoting mental wellness.
+- Arts in healthcare initiatives are advocated as beneficial for patient well-being and public health.
+- The integration of creative activities into medical care supports holistic treatment approaches addressing both physical and mental health needs.
+- Effective implementation requires robust integrated care systems.
 
 ## Open Questions
 
-- What specific metrics and methodologies can be developed to effectively measure the impact of arts-based initiatives on patient health outcomes?
+- What evidence-based practices can validate the efficacy of arts in healthcare initiatives?
 
 ## Sources
 

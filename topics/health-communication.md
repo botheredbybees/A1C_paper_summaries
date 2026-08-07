@@ -4,12 +4,13 @@ domain: intervention
 slug: health-communication-in-dementia-care
 sources:
   - fxa100-week04-dementia-discourse-a-rethink-(2)
+  - fxa100-week04-dementia-language-guidelines-(2)
   - fxa202-week10-fxa202-week-10-web-lecture
 tags:
 - health-communication
 title: Health Communication in Dementia Care
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Health Communication in Dementia Care
@@ -28,4 +29,5 @@ The topic of health communication within dementia care involves various approach
 ## Sources
 
 - [fxa100-week04-dementia-discourse-a-rethink-(2)](../sources/fxa100-week04-dementia-discourse-a-rethink-%282%29.md)
+- [fxa100-week04-dementia-language-guidelines-(2)](../sources/fxa100-week04-dementia-language-guidelines-%282%29.md)
 - [fxa202-week10-fxa202-week-10-web-lecture](../sources/fxa202-week10-fxa202-week-10-web-lecture.md)

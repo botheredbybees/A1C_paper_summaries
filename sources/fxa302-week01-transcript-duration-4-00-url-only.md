@@ -7,13 +7,17 @@ doi: null
 appearances:
   - unit: FXA302
     week: "01"
-tags: ["transcript-unavailable", "manual-transcription-required", "youtube-video", "fxa302"]
+  - unit: FXA302
+    week: "05"
+  - unit: FXA100
+    week: "02"
+tags: ["transcript-unavailable", "manual-transcription-required", "youtube-video", "fxa302", "fxa100"]
 key_concepts: []
 methods: []
 slug: fxa302-week01-transcript-duration-4-00-url-only
 related: ["transcript-unavailable", "youtube-video"]
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa302-week01-transcript-duration-4-00-url-only.md_

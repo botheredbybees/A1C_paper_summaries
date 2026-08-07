@@ -11,7 +11,7 @@ tags: ["hedonia-happiness", "affective-forecasting", "hedonic-treadmill", "well-
 key_concepts: ["affective forecasting", "hedonic treadmill", "happiness adaptation"]
 methods: ["case study"]
 slug: psy214-week02-concepts-related-to-hedonia-or-happiness
-related: []
+related: ["affective-forecasting", "hedonic-treadmill"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -42,4 +42,5 @@ The document explores concepts related to hedonia, or happiness, focusing on aff
 
 ## See Also
 
-*(none yet)*
+- [affective-forecasting](../topics/affective-forecasting.md)
+- [hedonic-treadmill](../topics/hedonic-treadmill.md)

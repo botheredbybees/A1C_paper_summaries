@@ -6,13 +6,14 @@ sources:
   - fxa100-week01-national-dementia-action-plan-indicators-dashboard
   - fxa101-week04-examining-arts-and-creativity-in-later-life-and-its-impact
   - fxa301-week03-arts-public-health-and-the-national-arts-and-health
+  - fxa301-week03-executive-summary-and-recommendations-why-creative-health
   - fxa301-week03-national-arts-and-health-framework
   - fxa303-week09-after-the-fires-looking-to-the-future-using-the-lessons
 tags:
 - public-health-policy
 title: Public Health Policy Frameworks
 type: topic
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Public Health Policy Frameworks
@@ -34,5 +35,6 @@ The provided sources explore various frameworks and strategies within the realm 
 - [fxa100-week01-national-dementia-action-plan-indicators-dashboard](../sources/fxa100-week01-national-dementia-action-plan-indicators-dashboard.md)
 - [fxa101-week04-examining-arts-and-creativity-in-later-life-and-its-impact](../sources/fxa101-week04-examining-arts-and-creativity-in-later-life-and-its-impact.md)
 - [fxa301-week03-arts-public-health-and-the-national-arts-and-health](../sources/fxa301-week03-arts-public-health-and-the-national-arts-and-health.md)
+- [fxa301-week03-executive-summary-and-recommendations-why-creative-health](../sources/fxa301-week03-executive-summary-and-recommendations-why-creative-health.md)
 - [fxa301-week03-national-arts-and-health-framework](../sources/fxa301-week03-national-arts-and-health-framework.md)
 - [fxa303-week09-after-the-fires-looking-to-the-future-using-the-lessons](../sources/fxa303-week09-after-the-fires-looking-to-the-future-using-the-lessons.md)

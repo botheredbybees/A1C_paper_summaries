@@ -6,13 +6,20 @@ sources:
   - fxa100-creativity-and-communication-ch09-19-starting-out-in-any-creative-endeavour-of-this-nature
   - fxa100-week01-lesson-fxa100-week01-page-3-week-1-activities
   - fxa100-week04-guidelines-for-arts-and-mental-health-projects
+  - fxa100-week06-herenow-conceptual-model-of-the-impact-of-an-experiential
   - fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of
   - fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales
+  - fxa100-week07-the-role-of-reminiscence-in-arts-based-interventions-for
+  - fxa100-week08-week-8-lecture-on-arts-therapy-and-dementia-care
+  - fxa100-week13-systematic-review-of-arts-and-culture-based-interventions
   - fxa301-applied-artes-and-health-ch03-85-ulrich-(2)
   - fxa301-week01-arts-on-prescription-in-sefton-programme-report
   - fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and
   - fxa301-week10-arts-based-therapies-in-the-treatment-of-eating-disorders
   - fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the
+  - fxa302-week06-promoting-health-and-wellbeing-through-non-clinical-arts
+  - fxa302-week09-arts-therapy-and-its-implications-in-chronic-pain
+  - fxa303-week02-addressing-issues-of-mental-health-in-schools-through-the
   - fxa303-week02-lesson-fxa303-week02-topic-20-20activities-202-copy
   - fxa303-week06-arts-therapies-and-the-mental-health-of-children-and-young
   - fxa303-week10-importance-of-cultural-context-in-designing-arts-programs
@@ -22,7 +29,7 @@ tags:
 - arts-therapy
 title: Arts Therapy
 type: topic
-updated: 2026-05-16
+updated: 2026-08-07
 ---
 
 ## Arts Therapy
@@ -44,13 +51,20 @@ The concept of arts therapy is explored across several sources, highlighting its
 - [fxa100-creativity-and-communication-ch09-19-starting-out-in-any-creative-endeavour-of-this-nature](../sources/fxa100-creativity-and-communication-ch09-19-starting-out-in-any-creative-endeavour-of-this-nature.md)
 - [fxa100-week01-lesson-fxa100-week01-page-3-week-1-activities](../sources/fxa100-week01-lesson-fxa100-week01-page-3-week-1-activities.md)
 - [fxa100-week04-guidelines-for-arts-and-mental-health-projects](../sources/fxa100-week04-guidelines-for-arts-and-mental-health-projects.md)
+- [fxa100-week06-herenow-conceptual-model-of-the-impact-of-an-experiential](../sources/fxa100-week06-herenow-conceptual-model-of-the-impact-of-an-experiential.md)
 - [fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of](../sources/fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of.md)
 - [fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales](../sources/fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales.md)
+- [fxa100-week07-the-role-of-reminiscence-in-arts-based-interventions-for](../sources/fxa100-week07-the-role-of-reminiscence-in-arts-based-interventions-for.md)
+- [fxa100-week08-week-8-lecture-on-arts-therapy-and-dementia-care](../sources/fxa100-week08-week-8-lecture-on-arts-therapy-and-dementia-care.md)
+- [fxa100-week13-systematic-review-of-arts-and-culture-based-interventions](../sources/fxa100-week13-systematic-review-of-arts-and-culture-based-interventions.md)
 - [fxa301-applied-artes-and-health-ch03-85-ulrich-(2)](../sources/fxa301-applied-artes-and-health-ch03-85-ulrich-%282%29.md)
 - [fxa301-week01-arts-on-prescription-in-sefton-programme-report](../sources/fxa301-week01-arts-on-prescription-in-sefton-programme-report.md)
 - [fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and](../sources/fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and.md)
 - [fxa301-week10-arts-based-therapies-in-the-treatment-of-eating-disorders](../sources/fxa301-week10-arts-based-therapies-in-the-treatment-of-eating-disorders.md)
 - [fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the](../sources/fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the.md)
+- [fxa302-week06-promoting-health-and-wellbeing-through-non-clinical-arts](../sources/fxa302-week06-promoting-health-and-wellbeing-through-non-clinical-arts.md)
+- [fxa302-week09-arts-therapy-and-its-implications-in-chronic-pain](../sources/fxa302-week09-arts-therapy-and-its-implications-in-chronic-pain.md)
+- [fxa303-week02-addressing-issues-of-mental-health-in-schools-through-the](../sources/fxa303-week02-addressing-issues-of-mental-health-in-schools-through-the.md)
 - [fxa303-week02-lesson-fxa303-week02-topic-20-20activities-202-copy](../sources/fxa303-week02-lesson-fxa303-week02-topic-20-20activities-202-copy.md)
 - [fxa303-week06-arts-therapies-and-the-mental-health-of-children-and-young](../sources/fxa303-week06-arts-therapies-and-the-mental-health-of-children-and-young.md)
 - [fxa303-week10-importance-of-cultural-context-in-designing-arts-programs](../sources/fxa303-week10-importance-of-cultural-context-in-designing-arts-programs.md)

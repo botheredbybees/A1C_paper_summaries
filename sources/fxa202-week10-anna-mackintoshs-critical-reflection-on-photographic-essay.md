@@ -7,11 +7,11 @@ doi: null
 appearances:
   - unit: FXA202
     week: "10"
-tags: ["photographic-essay", "wabi-sabi", "creative-interventions", "therapeutic-art", "health-humanities", "fxa202"]
+tags: ["creative-interventions", "creative-interventions-in-dementia-care", "fxa202", "health-humanities", "photographic-essay", "therapeutic-art", "wabi-sabi"]
 key_concepts: ["wabi-sabi", "natural-light-photography", "health-humanities", "phototherapy"]
 methods: ["reflective-practice"]
 slug: fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay
-related: ["creative-interventions", "creative-interventions-in-dementia-care", "health-humanities"]
+related: ["creative-interventions", "creative-interventions-in-dementia-care", "dementia-care-interventions", "health-humanities"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -46,4 +46,5 @@ In her reflective essay, Anna Mackintosh discusses the creation of a photographi
 
 - [creative-interventions](../topics/creative-interventions.md)
 - [creative-interventions-in-dementia-care](../topics/creative-interventions-in-dementia-care.md)
+- [dementia-care-interventions](../topics/dementia-care-interventions.md)
 - [health-humanities](../topics/health-humanities.md)

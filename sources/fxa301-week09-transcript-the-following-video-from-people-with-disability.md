@@ -11,7 +11,7 @@ tags: ["social-model-of-disability", "medical-model-of-disability", "attitudinal
 key_concepts: ["Social Model of Disability", "Medical Model of Disability"]
 methods: []
 slug: fxa301-week09-transcript-the-following-video-from-people-with-disability
-related: ["social-model-of-disability"]
+related: ["medical-model-of-disability", "social-model-of-disability"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,4 +40,5 @@ The video presents an introduction to the Social Model of Disability, emphasizin
 
 ## See Also
 
+- [medical-model-of-disability](../topics/medical-model-of-disability.md)
 - [social-model-of-disability](../topics/social-model-of-disability.md)

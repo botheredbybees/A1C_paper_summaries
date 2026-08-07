@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Global, regional, and national trends in the morbidity gap and contributing diseases, injuries, and risk factors, 1990\u20132023: a systematic analysis for the Global Burden of Disease Study 2023"
-apa7: "Hay, S. I., Nam, P., Saqib, H., McLaughlin, S. A., Bisignano, C., Ostroff, S. M., ... Murray, C. J. L. (2026). Global, regional, and national trends in the morbidity gap and contributing diseases, injuries, and risk factors, 1990\u20132023: a systematic analysis for the Global Burden of Disease Study 2023. The Lancet Public Health, 11, e487-e505."
-doi: https://doi.org/10.1016/S2468-2667(23)00098-8
+apa7: "Hay, S., Nam, P., Saqib, H., Mclaughlin, S., Bisignano, C., Ostroff, S., Ng, M., Nomura, S., Schumacher, A., & Murray, C. (2026). Global, regional, and national trends in the morbidity gap and contributing diseases, injuries, and risk factors, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.. *Lancet Public Health*. https://doi.org/10.1016/S2468-2667(26)00098-8"
+doi: https://doi.org/10.1016/S2468-2667(26)00098-8
 appearances:
   - unit: PSY214
     week: "04"

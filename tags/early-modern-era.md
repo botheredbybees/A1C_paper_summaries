@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: early-modern-era
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Early Modern Era

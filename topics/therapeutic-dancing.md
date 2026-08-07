@@ -9,7 +9,7 @@ tags:
 - therapeutic-dancing
 title: Therapeutic Dancing
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Therapeutic Dancing

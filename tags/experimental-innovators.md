@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: experimental-innovators
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Experimental Innovators

@@ -5,9 +5,10 @@ title: "The Neurocognitive and Evolutionary Foundations of Creativity"
 confidence: medium
 tags: ["creativity-research"]
 sources:
+  - fxa101-week02-brain-connectivitybased-prediction-of-real-life-creativity
   - fxa101-week02-metacontrol-of-human-creativity-the-neurocognitive
   - fxa101-week04-the-creative-mind-toward-an-evolutionary-theory-of
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## The Neurocognitive and Evolutionary Foundations of Creativity
@@ -26,5 +27,6 @@ Research on the neurocognitive mechanisms underlying creativity highlights two p
 
 ## Sources
 
+- [fxa101-week02-brain-connectivitybased-prediction-of-real-life-creativity](../sources/fxa101-week02-brain-connectivitybased-prediction-of-real-life-creativity.md)
 - [fxa101-week02-metacontrol-of-human-creativity-the-neurocognitive](../sources/fxa101-week02-metacontrol-of-human-creativity-the-neurocognitive.md)
 - [fxa101-week04-the-creative-mind-toward-an-evolutionary-theory-of](../sources/fxa101-week04-the-creative-mind-toward-an-evolutionary-theory-of.md)

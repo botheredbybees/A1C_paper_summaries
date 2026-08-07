@@ -6,21 +6,22 @@ confidence: medium
 tags: ["indirect-exposure-to-disaster"]
 sources:
   - fxa303-week09-the-impact-of-the-great-east-japan-earthquake-on-mandatory
-updated: 2026-05-16
+updated: 2026-08-07
 ---
 
 ## Indirect Exposure to Disaster
 
-The study on the impact of the Great East Japan earthquake focuses on the increase in mandatory psychiatric emergency hospitalizations in Tokyo due to indirect exposure to the disaster. This highlights a significant public health issue related to the psychological impacts of large-scale disasters, even among populations not directly affected by the event itself. The findings underscore the necessity for robust mental health support systems and interventions aimed at addressing the needs of individuals experiencing secondary or tertiary effects from such catastrophes. However, there is limited exploration in the provided sources regarding long-term mental health outcomes following indirect exposure to disaster scenarios.
+The studies collectively highlight the significant impact of disasters on mental health through indirect exposure. The Great East Japan Earthquake study reveals an increase in mandatory psychiatric emergency hospitalizations in Tokyo, indicating that individuals indirectly affected by a disaster can experience severe psychological distress necessitating institutional intervention. This underscores the importance of early detection and intervention for those who do not directly witness the disaster but are still profoundly impacted by its aftermath, suggesting a critical need for mental health support systems to cater to this broader group.
 
 ## Key Findings
 
-- Mandatory psychiatric hospitalizations increased due to indirect exposure to a large-scale disaster.
-- There is a need for mental health interventions targeting populations indirectly affected by disasters.
+- Indirect exposure to disasters can lead to significant psychiatric distress necessitating hospitalization.
+- The need for robust mental health support systems that account for indirect exposures is underscored.
+- Early intervention strategies are essential in mitigating the long-term psychological impacts of disaster-induced stress.
 
 ## Open Questions
 
-- What are the long-term psychological impacts of indirect exposure to disasters?
+- What specific measures are effective in identifying and supporting individuals indirectly affected by disasters before their condition escalates to require emergency hospitalization?
 
 ## Sources
 

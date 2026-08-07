@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "GRADE: an emerging consensus on rating quality of evidence and strength of recommendations"
-apa7: "Guyatt, G. H., Oxman, A. D., Vist, G. E., Kunz, R., Falck-Ytter, Y., Alonso-Coello, P., ... & Sch\u00fcnemann, H. J. (2008). GRADE: an emerging consensus on rating quality of evidence and strength of recommendations. BMJ, 336(7650), 924-925. https://doi.org/10.1136/bmj.a1177"
-doi: https://doi.org/10.1136/bmj.a1177
+apa7: "Guyatt, G. H., Oxman, A. D., Vist, G. E., Kunz, R., Falck-Ytter, Y., Alonso-Coello, P., & Sch\u00fcnemann, H. J. (2008). GRADE: an emerging consensus on rating quality of evidence and strength of recommendations. BMJ, 336(7650), 924-926. https://doi.org/10.1136/bmj.39489.470347.ad"
+doi: https://doi.org/10.1136/bmj.39489.470347.ad
 appearances:
   - unit: FXA301
     week: "01"
@@ -13,7 +13,7 @@ methods: ["systematic review"]
 slug: fxa301-week01-grade-an-emerging-consensus-on-rating-quality-of-evidence
 related: ["clinical-guidelines", "evidence-based-medicine"]
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-08-02
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-week01-grade-an-emerging-consensus-on-rating-quality-of-evidence.md_

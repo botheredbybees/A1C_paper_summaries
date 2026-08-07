@@ -5,9 +5,10 @@ title: "Nursing Home Care Interventions"
 confidence: medium
 tags: ["nursing-home-care"]
 sources:
+  - fxa100-week03-final-report-wisconsin-music-memory-program-student-(2)
   - fxa303-week13-activity-activity-personalization-and-well-being-in-nursing
   - fxa303-week13-intervention-and-application-of-clown-care-in-nursing-homes
-updated: 2026-05-15
+updated: 2026-08-07
 ---
 
 ## Nursing Home Care Interventions
@@ -26,5 +27,6 @@ The reviewed literature highlights the effectiveness of personalized activities 
 
 ## Sources
 
+- [fxa100-week03-final-report-wisconsin-music-memory-program-student-(2)](../sources/fxa100-week03-final-report-wisconsin-music-memory-program-student-%282%29.md)
 - [fxa303-week13-activity-activity-personalization-and-well-being-in-nursing](../sources/fxa303-week13-activity-activity-personalization-and-well-being-in-nursing.md)
 - [fxa303-week13-intervention-and-application-of-clown-care-in-nursing-homes](../sources/fxa303-week13-intervention-and-application-of-clown-care-in-nursing-homes.md)

@@ -10,8 +10,11 @@ sources:
   - fxa100-week02-lesson-fxa100-week02-page-1-welcome-to-week2
   - fxa100-week02-lesson-fxa100-week02-page-2-hearing-and-music
   - fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind
+  - fxa100-week03-the-effects-of-music-on-the-brain-video-transcript-(2)
+  - fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video-(2)
   - fxa100-week03-transcript-the-effects-of-music-on-the-brain
   - fxa100-week04-transcript-new-super-fast-mri-technique-singing-if-i-only
+  - fxa100-week06-fxa100-week-6-lecture-visual-arts-the-brain-and-dementia
   - fxa101-week02-lesson-fxa101-week02-chapter-2
   - fxa101-week02-metacontrol-of-human-creativity-the-neurocognitive
   - fxa101-week03-the-impact-of-cognitive-reserve-on-neuropsychological
@@ -19,6 +22,7 @@ sources:
   - fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music
   - fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession
   - fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in
+  - fxa300-week03-lesson-fxa300-week03-page-2-introduction-to-music-and
   - fxa300-week03-lesson-fxa300-week03-page-4-week-1-activities
   - fxa300-week04-lesson-fxa300-week04-page-4-activities-1
   - fxa300-week04-transcript-a-summary-of-a-case-study-of-a-musician-and-music
@@ -26,11 +30,12 @@ sources:
   - fxa301-week01-transcript-it-also-includes-discussion-of-what-can-be
   - fxa301-week02-lecture-on-perception-of-the-arts
   - fxa301-week06-singing-and-wellbeing-ancient-wisdom-modern-proof
+  - psy214-week05-transcript-why-do-we-sleep
 tags:
 - brain-function
 title: Music's Impact on Brain Function
 type: topic
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Music's Impact on Brain Function
@@ -56,8 +61,11 @@ The sources collectively emphasize the profound impact of music on various aspec
 - [fxa100-week02-lesson-fxa100-week02-page-1-welcome-to-week2](../sources/fxa100-week02-lesson-fxa100-week02-page-1-welcome-to-week2.md)
 - [fxa100-week02-lesson-fxa100-week02-page-2-hearing-and-music](../sources/fxa100-week02-lesson-fxa100-week02-page-2-hearing-and-music.md)
 - [fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind](../sources/fxa100-week03-how-music-opens-the-doors-of-memory-and-the-mind.md)
+- [fxa100-week03-the-effects-of-music-on-the-brain-video-transcript-(2)](../sources/fxa100-week03-the-effects-of-music-on-the-brain-video-transcript-%282%29.md)
+- [fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video-(2)](../sources/fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video-%282%29.md)
 - [fxa100-week03-transcript-the-effects-of-music-on-the-brain](../sources/fxa100-week03-transcript-the-effects-of-music-on-the-brain.md)
 - [fxa100-week04-transcript-new-super-fast-mri-technique-singing-if-i-only](../sources/fxa100-week04-transcript-new-super-fast-mri-technique-singing-if-i-only.md)
+- [fxa100-week06-fxa100-week-6-lecture-visual-arts-the-brain-and-dementia](../sources/fxa100-week06-fxa100-week-6-lecture-visual-arts-the-brain-and-dementia.md)
 - [fxa101-week02-lesson-fxa101-week02-chapter-2](../sources/fxa101-week02-lesson-fxa101-week02-chapter-2.md)
 - [fxa101-week02-metacontrol-of-human-creativity-the-neurocognitive](../sources/fxa101-week02-metacontrol-of-human-creativity-the-neurocognitive.md)
 - [fxa101-week03-the-impact-of-cognitive-reserve-on-neuropsychological](../sources/fxa101-week03-the-impact-of-cognitive-reserve-on-neuropsychological.md)
@@ -65,6 +73,7 @@ The sources collectively emphasize the profound impact of music on various aspec
 - [fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music](../sources/fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music.md)
 - [fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession](../sources/fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession.md)
 - [fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in](../sources/fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in.md)
+- [fxa300-week03-lesson-fxa300-week03-page-2-introduction-to-music-and](../sources/fxa300-week03-lesson-fxa300-week03-page-2-introduction-to-music-and.md)
 - [fxa300-week03-lesson-fxa300-week03-page-4-week-1-activities](../sources/fxa300-week03-lesson-fxa300-week03-page-4-week-1-activities.md)
 - [fxa300-week04-lesson-fxa300-week04-page-4-activities-1](../sources/fxa300-week04-lesson-fxa300-week04-page-4-activities-1.md)
 - [fxa300-week04-transcript-a-summary-of-a-case-study-of-a-musician-and-music](../sources/fxa300-week04-transcript-a-summary-of-a-case-study-of-a-musician-and-music.md)
@@ -72,3 +81,4 @@ The sources collectively emphasize the profound impact of music on various aspec
 - [fxa301-week01-transcript-it-also-includes-discussion-of-what-can-be](../sources/fxa301-week01-transcript-it-also-includes-discussion-of-what-can-be.md)
 - [fxa301-week02-lecture-on-perception-of-the-arts](../sources/fxa301-week02-lecture-on-perception-of-the-arts.md)
 - [fxa301-week06-singing-and-wellbeing-ancient-wisdom-modern-proof](../sources/fxa301-week06-singing-and-wellbeing-ancient-wisdom-modern-proof.md)
+- [psy214-week05-transcript-why-do-we-sleep](../sources/psy214-week05-transcript-why-do-we-sleep.md)

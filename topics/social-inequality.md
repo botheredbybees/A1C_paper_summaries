@@ -5,9 +5,10 @@ title: "Social Inequality Among At-Risk Youth"
 confidence: medium
 tags: ["social-inequality"]
 sources:
+  - fxa302-week01-arts-health-and-well-being-a-critical-perspective-on
   - fxa303-week10-the-good-life-for-children-do-we-really-care-about-the
   - fxa303-week11-using-and-abusing-the-arts-with-at-risk-youth
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Social Inequality Among At-Risk Youth
@@ -26,5 +27,6 @@ The concept of social inequality among at-risk youth is explored in these two so
 
 ## Sources
 
+- [fxa302-week01-arts-health-and-well-being-a-critical-perspective-on](../sources/fxa302-week01-arts-health-and-well-being-a-critical-perspective-on.md)
 - [fxa303-week10-the-good-life-for-children-do-we-really-care-about-the](../sources/fxa303-week10-the-good-life-for-children-do-we-really-care-about-the.md)
 - [fxa303-week11-using-and-abusing-the-arts-with-at-risk-youth](../sources/fxa303-week11-using-and-abusing-the-arts-with-at-risk-youth.md)

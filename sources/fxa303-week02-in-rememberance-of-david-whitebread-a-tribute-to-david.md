@@ -11,14 +11,14 @@ tags: ["child-development", "educational-research", "play-therapy", "early-child
 key_concepts: ["self-regulation", "play-based-learning"]
 methods: ["case-study"]
 slug: fxa303-week02-in-rememberance-of-david-whitebread-a-tribute-to-david
-related: ["child-development", "early-childhood-education", "play-therapy"]
+related: ["child-development", "early-childhood-education", "educational-research", "play-therapy-in-child-development"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-08-02
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week02-in-rememberance-of-david-whitebread-a-tribute-to-david.md_
 
-## In rememberance of David Whitebread: a tribute to David Whitebread’s research career
+## In rememberance of David Whitebread: a tribute to David Whitebread's research career: understanding play and living in play, 9 July 1948–13 April 2021
 
 This article is a tribute to David Whitebread, an esteemed researcher and educator who made significant contributions to the understanding of play in child development. Born on July 9, 1948, and passing away on April 13, 2021, Whitebread was instrumental in advocating for children's right to learn through play. His career included extensive research into early self-regulation and the importance of play in learning across various domains. He led several initiatives that aimed at improving the quality of early years education and secured funding from organizations like the LEGO Foundation for furthering this cause. The article highlights Whitebread’s legacy, emphasizing his impact on academic thought and practice, particularly through founding PEDAL (Play in Education, Development and Learning) research center at Cambridge University. His work has influenced educational policies globally and provided new insights into how play can enhance children's developmental outcomes.
 
@@ -44,4 +44,5 @@ This article is a tribute to David Whitebread, an esteemed researcher and educat
 
 - [child-development](../topics/child-development.md)
 - [early-childhood-education](../topics/early-childhood-education.md)
-- [play-therapy](../topics/play-therapy.md)
+- [educational-research](../topics/educational-research.md)
+- [play-therapy-in-child-development](../topics/play-therapy-in-child-development.md)

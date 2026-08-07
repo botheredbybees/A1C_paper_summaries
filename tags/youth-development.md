@@ -1,12 +1,12 @@
 ---
 type: tag
 tag: youth-development
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Youth Development
 
-- [It fostered a greater appreciation for my little corner of the world](../sources/fxa202-week13-it-fostered-a-greater-appreciation-for-my-little-corner-of.md)
+- [It fostered a greater appreciation for my little corner of the world: A feasibility study of a therapeutic photography intervention for the well-being of autistic youth](../sources/fxa202-week13-it-fostered-a-greater-appreciation-for-my-little-corner-of.md)
 - [The role of arts activities in developing resilience and mental wellbeing in children and young people: A rapid review of the literature](../sources/fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and.md)
 - [Case Studies of Community Projects](../sources/fxa301-week06-lesson-fxa301-week06-page-2.md)
 - [People change lives: Consolidating five years of evaluation learning from Sistema Scotland\u2019s Big Noise centres in Stirling, Glasgow and Aberdeen](../sources/fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation.md)

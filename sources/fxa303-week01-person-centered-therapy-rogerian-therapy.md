@@ -11,7 +11,7 @@ tags: ["person-centered-therapy", "rogerian-therapy", "client-autonomy", "therap
 key_concepts: ["empathy", "unconditional-positive-regard", "self-actualization"]
 methods: ["case-study"]
 slug: fxa303-week01-person-centered-therapy-rogerian-therapy
-related: ["therapeutic-relationship"]
+related: ["client-autonomy", "therapeutic-relationship"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -47,4 +47,5 @@ Despite these criticisms, person-centered therapy is widely used across various 
 
 ## See Also
 
+- [client-autonomy](../topics/client-autonomy.md)
 - [therapeutic-relationship](../topics/therapeutic-relationship.md)

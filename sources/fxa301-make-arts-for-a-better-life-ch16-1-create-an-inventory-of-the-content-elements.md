@@ -11,7 +11,7 @@ tags: ["visual-literacy", "critical-analysis", "cultural-perspective", "artistic
 key_concepts: ["visual literacy", "symbolic systems", "community arts profile"]
 methods: []
 slug: fxa301-make-arts-for-a-better-life-ch16-1-create-an-inventory-of-the-content-elements
-related: ["visual-literacy"]
+related: ["critical-analysis", "visual-literacy"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,4 +42,5 @@ This chapter discusses visual literacy and communication skills within communiti
 
 ## See Also
 
+- [critical-analysis](../topics/critical-analysis.md)
 - [visual-literacy](../topics/visual-literacy.md)

@@ -11,7 +11,7 @@ tags: ["autism-treatment", "play-therapy", "child-development", "social-interact
 key_concepts: ["adaptive behavior", "sensory integration therapy", "expressive communication"]
 methods: ["systematic review"]
 slug: fxa303-week04-play-therapy-in-children-with-autism-its-role-implications
-related: ["autism-treatment", "child-development", "play-therapy", "therapeutic-interventions"]
+related: ["autism-treatment", "child-development", "play-therapy-in-child-development", "therapeutic-interventions"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,5 +45,5 @@ This article explores the role and implications of play therapy in children with
 
 - [autism-treatment](../topics/autism-treatment.md)
 - [child-development](../topics/child-development.md)
-- [play-therapy](../topics/play-therapy.md)
+- [play-therapy-in-child-development](../topics/play-therapy-in-child-development.md)
 - [therapeutic-interventions](../topics/therapeutic-interventions.md)

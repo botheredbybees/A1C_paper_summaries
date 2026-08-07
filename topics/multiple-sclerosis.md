@@ -3,13 +3,14 @@ confidence: medium
 domain: intervention
 slug: therapeutic-use-of-arts-in-multiple-sclerosis
 sources:
+  - fxa100-week06-p1i045-apparent-diffusion-coefficient-values-do-not
   - fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope
   - fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple
 tags:
 - multiple-sclerosis
 title: Therapeutic Use of Arts in Multiple Sclerosis
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Therapeutic Use of Arts in Multiple Sclerosis
@@ -28,5 +29,6 @@ The integration of therapeutic arts programs for individuals with multiple scler
 
 ## Sources
 
+- [fxa100-week06-p1i045-apparent-diffusion-coefficient-values-do-not](../sources/fxa100-week06-p1i045-apparent-diffusion-coefficient-values-do-not.md)
 - [fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope](../sources/fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope.md)
 - [fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple](../sources/fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple.md)

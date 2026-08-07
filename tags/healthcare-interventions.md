@@ -1,11 +1,12 @@
 ---
 type: tag
 tag: healthcare-interventions
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Healthcare Interventions
 
+- [Music helps heal mind, body, and spirit](../sources/fxa300-week05-music-helps-heal-mind-body-and-spirit.md)
 - [Evaluation and Research in Healthcare](../sources/fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision-%282%29.md)
 - [Conceptualizing and planning interventions](../sources/fxa301-week01-conceptualizing-and-planning-interventions.md)
 - [Heritage, health and well-being: assessing the impact of a heritage focused intervention on health and well-being](../sources/fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a.md)

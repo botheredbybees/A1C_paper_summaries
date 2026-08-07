@@ -13,9 +13,11 @@ sources:
   - fxa303-week03-5-ways-to-standbyteens-in-support-of-teen-mental-health
   - fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot
   - fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts
+  - fxa303-week09-the-function-of-play-for-coping-and-therapy-with-children
   - fxa303-week09-transcript-arts-mid-north-coast-we-are-all-born-creative
   - fxa303-week11-artistic-expression-as-a-source-of-resilience-for
   - fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic
+  - fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic-(2)
   - fxa303-week13-the-effects-of-mario-a-social-robot-on-the-resilience-of
   - psy214-week02-positive-emotions-and-well-being
   - psy214-week02-positive-psychology-the-basics
@@ -25,7 +27,7 @@ tags:
 - resilience-building
 title: Resilience-building Through Arts Activities
 type: topic
-updated: 2026-07-13
+updated: 2026-08-07
 ---
 
 ## Resilience-building Through Arts Activities
@@ -54,9 +56,11 @@ The provided sources collectively explore the role of arts activities and creati
 - [fxa303-week03-5-ways-to-standbyteens-in-support-of-teen-mental-health](../sources/fxa303-week03-5-ways-to-standbyteens-in-support-of-teen-mental-health.md)
 - [fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot](../sources/fxa303-week03-youth-orchestra-participation-and-perceived-benefit-a-pilot.md)
 - [fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts](../sources/fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts.md)
+- [fxa303-week09-the-function-of-play-for-coping-and-therapy-with-children](../sources/fxa303-week09-the-function-of-play-for-coping-and-therapy-with-children.md)
 - [fxa303-week09-transcript-arts-mid-north-coast-we-are-all-born-creative](../sources/fxa303-week09-transcript-arts-mid-north-coast-we-are-all-born-creative.md)
 - [fxa303-week11-artistic-expression-as-a-source-of-resilience-for](../sources/fxa303-week11-artistic-expression-as-a-source-of-resilience-for.md)
 - [fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic](../sources/fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic.md)
+- [fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic-(2)](../sources/fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic-%282%29.md)
 - [fxa303-week13-the-effects-of-mario-a-social-robot-on-the-resilience-of](../sources/fxa303-week13-the-effects-of-mario-a-social-robot-on-the-resilience-of.md)
 - [psy214-week02-positive-emotions-and-well-being](../sources/psy214-week02-positive-emotions-and-well-being.md)
 - [psy214-week02-positive-psychology-the-basics](../sources/psy214-week02-positive-psychology-the-basics.md)

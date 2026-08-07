@@ -11,7 +11,7 @@ tags: ["shared-reading", "chronic-pain-management", "creative-writing-for-wellbe
 key_concepts: ["shared reading groups", "expressive writing therapy", "narrative development"]
 methods: []
 slug: fxa301-week08-lesson-fxa301-week07-page-3-hm
-related: ["chronic-pain-management", "expressive-writing"]
+related: ["chronic-pain-management-through-creative-therapies", "expressive-writing"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,5 +43,5 @@ This lesson explores case studies of shared reading groups for chronic pain mana
 
 ## See Also
 
-- [chronic-pain-management](../topics/chronic-pain-management.md)
+- [chronic-pain-management-through-creative-therapies](../topics/chronic-pain-management-through-creative-therapies.md)
 - [expressive-writing](../topics/expressive-writing.md)

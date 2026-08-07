@@ -11,7 +11,7 @@ tags: ["autism-support", "young-children", "community-perspective", "fxa303"]
 key_concepts: ["support-goals", "disability-models", "quality-of-life"]
 methods: ["qualitative-study"]
 slug: fxa303-week04-community-perspectives-on-the-appropriateness-and
-related: []
+related: ["young-children"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,4 +41,4 @@ The article explores the perspectives of autistic adults, parents, and professio
 
 ## See Also
 
-*(none yet)*
+- [young-children](../topics/young-children.md)

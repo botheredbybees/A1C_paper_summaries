@@ -7,11 +7,11 @@ doi: null
 appearances:
   - unit: FXA303
     week: "05"
-tags: ["mental-wellbeing", "creative-play", "puppetry-therapy", "trauma-narratives", "cultural-storytelling", "emotional-support", "fxa303"]
+tags: ["creative-play", "cultural-storytelling", "emotional-support", "fxa303", "mental-wellbeing", "puppet-therapy", "puppetry-therapy", "trauma-narratives"]
 key_concepts: ["therapeutic benefits of creative play", "vicarious trauma", "non-verbal communication in puppetry"]
 methods: ["case study"]
 slug: fxa303-week05-fxa303-week-5-welcome
-related: ["creative-play", "cultural-storytelling", "emotional-support", "mental-wellbeing", "puppet-therapy"]
+related: ["creative-play", "cultural-storytelling", "emotional-support", "mental-wellbeing", "puppet-assisted-play-therapy-for-children"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -48,4 +48,4 @@ This document introduces the fifth week of the FXA303 course, marking a transiti
 - [cultural-storytelling](../topics/cultural-storytelling.md)
 - [emotional-support](../topics/emotional-support.md)
 - [mental-wellbeing](../topics/mental-wellbeing.md)
-- [puppet-therapy](../topics/puppet-therapy.md)
+- [puppet-assisted-play-therapy-for-children](../topics/puppet-assisted-play-therapy-for-children.md)

@@ -3,6 +3,7 @@ confidence: medium
 domain: intervention
 slug: dementia-awareness-communication-strategies
 sources:
+  - fxa100-week03-final-report-wisconsin-music-memory-program-student-(2)
   - fxa100-week04-a-guide-to-dementia-friendly-language
   - fxa100-week04-how-to-talk-about-dementia
   - fxa100-week06-transcript-affinity-interactive-light-sculpture-for-dementia
@@ -11,7 +12,7 @@ tags:
 - dementia-awareness
 title: Dementia-Awareness Communication Strategies
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Dementia-Awareness Communication Strategies
@@ -30,6 +31,7 @@ The sources highlight the importance of language and communication in fostering 
 
 ## Sources
 
+- [fxa100-week03-final-report-wisconsin-music-memory-program-student-(2)](../sources/fxa100-week03-final-report-wisconsin-music-memory-program-student-%282%29.md)
 - [fxa100-week04-a-guide-to-dementia-friendly-language](../sources/fxa100-week04-a-guide-to-dementia-friendly-language.md)
 - [fxa100-week04-how-to-talk-about-dementia](../sources/fxa100-week04-how-to-talk-about-dementia.md)
 - [fxa100-week06-transcript-affinity-interactive-light-sculpture-for-dementia](../sources/fxa100-week06-transcript-affinity-interactive-light-sculpture-for-dementia.md)

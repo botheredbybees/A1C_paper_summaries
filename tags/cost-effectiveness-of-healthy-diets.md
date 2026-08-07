@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cost-effectiveness-of-healthy-diets
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Cost Effectiveness Of Healthy Diets

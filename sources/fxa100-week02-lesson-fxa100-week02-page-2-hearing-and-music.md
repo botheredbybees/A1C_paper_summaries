@@ -11,7 +11,7 @@ tags: ["hearing-process", "music-elements", "brain-function", "fxa100"]
 key_concepts: ["sound perception", "left-brain-right-brain myth", "musical structure"]
 methods: []
 slug: fxa100-week02-lesson-fxa100-week02-page-2-hearing-and-music
-related: ["brain-function", "hearing-process"]
+related: ["brain-function", "hearing-process", "music-therapy-in-dementia-care"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,3 +43,4 @@ This lesson covers aspects of hearing and music processing. It describes the phy
 
 - [brain-function](../topics/brain-function.md)
 - [hearing-process](../topics/hearing-process.md)
+- [music-therapy-in-dementia-care](../topics/music-therapy-in-dementia-care.md)

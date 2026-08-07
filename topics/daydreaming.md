@@ -6,22 +6,21 @@ confidence: medium
 tags: ["daydreaming"]
 sources:
   - fxa202-week05-where-do-you-get-your-ideas
-updated: 2026-05-16
+updated: 2026-08-07
 ---
 
 ## Daydreaming
 
-The sources indicate that daydreaming plays a crucial role in cognitive processes such as creativity and problem-solving. Daydreaming allows individuals to explore hypothetical scenarios and engage in creative curiosity, contributing to idea generation and innovation. However, there is variability across studies on the specific mechanisms through which daydreaming impacts these cognitive functions, suggesting a need for further exploration into its theoretical underpinnings.
+The concept of daydreaming is explored as a source of creativity and hypothetical scenarios. Sources suggest that engaging in daydreaming can stimulate the imagination and lead to innovative thinking. This theoretical framework posits that daydreaming is not merely idle thought but an essential cognitive process for generating new ideas and exploring 'what if' situations, fostering creative curiosity.
 
 ## Key Findings
 
-- Daydreaming contributes to creativity
-- Exploration of hypothetical scenarios through daydreaming enhances creative curiosity
-- Potential mechanisms linking daydreaming and cognitive functions are not fully understood
+- Daydreaming is linked with creativity and the generation of new ideas
+- Engaging in daydreaming can enhance imaginative thinking
 
 ## Open Questions
 
-- What are the specific cognitive processes involved in the relationship between daydreaming and creativity?
+- How does the frequency or duration of daydreaming influence its impact on creativity?
 
 ## Sources
 

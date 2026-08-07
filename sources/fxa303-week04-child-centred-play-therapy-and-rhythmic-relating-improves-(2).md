@@ -11,7 +11,7 @@ tags: ["child-therapy", "autism-treatment", "emotion-regulation", "play-therapy"
 key_concepts: ["Child-Centred Play Therapy (CCPT)", "Rhythmic Relating", "Emotion Regulation Checklist (ERC)"]
 methods: ["single-case study"]
 slug: fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)
-related: ["autism-treatment", "child-therapy", "emotion-regulation", "play-therapy"]
+related: ["autism-treatment", "child-therapy", "emotion-regulation", "play-therapy-in-child-development"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,4 +45,4 @@ This study examines the efficacy of Child-Centred Play Therapy (CCPT) combined w
 - [autism-treatment](../topics/autism-treatment.md)
 - [child-therapy](../topics/child-therapy.md)
 - [emotion-regulation](../topics/emotion-regulation.md)
-- [play-therapy](../topics/play-therapy.md)
+- [play-therapy-in-child-development](../topics/play-therapy-in-child-development.md)

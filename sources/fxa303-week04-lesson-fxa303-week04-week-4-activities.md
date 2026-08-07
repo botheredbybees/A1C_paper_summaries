@@ -11,7 +11,7 @@ tags: ["neurodiversity", "music-therapy", "play-therapy", "fxa303"]
 key_concepts: ["neurodiversity paradigm", "arts-based therapy"]
 methods: []
 slug: fxa303-week04-lesson-fxa303-week04-week-4-activities
-related: ["music-therapy", "neurodiversity", "play-therapy"]
+related: ["music-therapy", "neurodiversity", "play-therapy-in-child-development"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,4 +42,4 @@ Week 4 of the FXA303 course focuses on creative arts therapies for individuals w
 
 - [music-therapy](../topics/music-therapy.md)
 - [neurodiversity](../topics/neurodiversity.md)
-- [play-therapy](../topics/play-therapy.md)
+- [play-therapy-in-child-development](../topics/play-therapy-in-child-development.md)

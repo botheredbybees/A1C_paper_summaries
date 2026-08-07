@@ -3,6 +3,7 @@ confidence: medium
 domain: intervention
 slug: effectiveness-of-therapeutic-interventions-in-specific-populations
 sources:
+  - fxa100-week09-effectiveness-of-creative-story-therapy-for-dementia-a
   - fxa100-week13-cognitive-behavioral-versus-exposure-only-treatment-for
   - fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in
   - fxa100-week13-the-effectiveness-of-dance-interventions-on-physical-health
@@ -14,6 +15,7 @@ sources:
   - fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic
   - fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism
   - fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism
+  - fxa303-week09-colors-of-the-mind-a-meta-analysis-of-creative-arts-therapy
   - fxa303-week13-the-delivery-of-person-centered-care-for-people-living-with
   - psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the
   - psy214-week00-the-impact-of-signature-character-strengths-interventions-a
@@ -21,7 +23,7 @@ tags:
 - meta-analysis
 title: Effectiveness of Therapeutic Interventions in Specific Populations
 type: topic
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Effectiveness of Therapeutic Interventions in Specific Populations
@@ -40,6 +42,7 @@ The meta-analyses explore the effectiveness of dance and music interventions for
 
 ## Sources
 
+- [fxa100-week09-effectiveness-of-creative-story-therapy-for-dementia-a](../sources/fxa100-week09-effectiveness-of-creative-story-therapy-for-dementia-a.md)
 - [fxa100-week13-cognitive-behavioral-versus-exposure-only-treatment-for](../sources/fxa100-week13-cognitive-behavioral-versus-exposure-only-treatment-for.md)
 - [fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in](../sources/fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in.md)
 - [fxa100-week13-the-effectiveness-of-dance-interventions-on-physical-health](../sources/fxa100-week13-the-effectiveness-of-dance-interventions-on-physical-health.md)
@@ -51,6 +54,7 @@ The meta-analyses explore the effectiveness of dance and music interventions for
 - [fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic](../sources/fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic.md)
 - [fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism](../sources/fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism.md)
 - [fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism](../sources/fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism.md)
+- [fxa303-week09-colors-of-the-mind-a-meta-analysis-of-creative-arts-therapy](../sources/fxa303-week09-colors-of-the-mind-a-meta-analysis-of-creative-arts-therapy.md)
 - [fxa303-week13-the-delivery-of-person-centered-care-for-people-living-with](../sources/fxa303-week13-the-delivery-of-person-centered-care-for-people-living-with.md)
 - [psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the](../sources/psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the.md)
 - [psy214-week00-the-impact-of-signature-character-strengths-interventions-a](../sources/psy214-week00-the-impact-of-signature-character-strengths-interventions-a.md)

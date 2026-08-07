@@ -1,15 +1,16 @@
 ---
 type: tag
 tag: mental-health-intervention
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Mental Health Intervention
 
 - [Music Therapy Promotes Mental Health in Schools](../sources/fxa100-week04-music-therapy-promotes-mental-health-in-schools.md)
 - [Comparative efficacy of various art therapies for patients with dementia: A network meta-analysis of randomized controlled trials](../sources/fxa100-week12-comparative-efficacy-of-various-art-therapies-for-patients.md)
+- [Music in mind, a randomized controlled trial of music therapy for young people with behavioural and emotional problems: study protocol](../sources/fxa300-week03-music-in-mind-a-randomized-controlled-trial-of-music.md)
 - [Body Talk: Examining a Collaborative Multiple-Visit Program for Visitors with Eating Disorders](../sources/fxa301-week10-body-talk-examining-a-collaborative-multiple-visit-program.md)
-- [Eating Disorders and Art Therapy](../sources/fxa301-week10-eating-disorders-and-art-therapy.md)
+- [Eating Disorders and Art Therapy: Between Decoys, Realities and Clinical Practices](../sources/fxa301-week10-eating-disorders-and-art-therapy.md)
 - [Social Action in Art Therapy with Veterans](../sources/fxa301-week10-social-action-in-art-therapy-with-veterans.md)
 - [Horticultural Arts](../sources/fxa302-week01-horticultural-arts.md)
 - [An Overview of Play Therapy](../sources/fxa303-week01-an-overview-of-play-therapy.md)

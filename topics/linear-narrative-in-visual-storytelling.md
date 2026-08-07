@@ -7,22 +7,22 @@ tags: ["linear-narrative-in-visual-storytelling"]
 sources:
   - fxa202-week06-week-six-lecture-components-of-visual-storytelling
   - fxa202-week06-week-six-lecture-components-of-visual-storytelling-(2)
-updated: 2026-05-18
+updated: 2026-08-07
 ---
 
 ## Linear Narrative in Visual Storytelling
 
-The lectures on components of visual storytelling emphasize the distinction between linear and non-linear narratives as a fundamental aspect of crafting compelling stories through visuals. Both sources highlight that understanding narrative structures is crucial for effective communication in films, videos, or any form of visual media. The concept of 'linear-and-non-linear-stories' underpins how content can be organized to convey clear, sequential events (linear) versus more complex, interwoven storylines (non-linear). Furthermore, the importance of techniques such as shot-listing and establishing shots is discussed in the context of both narrative types, illustrating their role in setting up visual storytelling effectively. These lectures underscore that while linear narratives follow a straightforward progression from beginning to end, non-linear stories require careful consideration of pacing and structure to ensure clarity and coherence for the audience.
+The provided sources emphasize the distinctions and applications of linear versus non-linear narratives within visual storytelling. Both lectures highlight that a linear narrative follows a straightforward chronological sequence, which is often easier for audiences to follow due to its clarity and simplicity. In contrast, a non-linear narrative uses techniques such as flashbacks or parallel timelines to explore themes more deeply but may require greater audience engagement to understand the story's structure. The sources also discuss key components like shot-listing and establishing shots that are crucial in both linear and non-linear storytelling, helping filmmakers plan scenes effectively while maintaining continuity and clarity.
 
 ## Key Findings
 
-- Understanding the distinction between linear and non-linear narratives is essential for effective visual storytelling.
-- Techniques such as shot-listing are crucial for organizing both linear and non-linear narrative structures.
-- Establishing shots play a critical role in setting up visual storytelling, regardless of narrative type.
+- Linear narratives provide a clear chronological sequence for visual stories.
+- Non-linear narratives offer deeper thematic exploration through complex temporal structures.
+- Shot-listing and establishing shots are fundamental techniques in planning both linear and non-linear storytelling.
 
 ## Open Questions
 
-- How do different cultural contexts influence the perception and effectiveness of linear versus non-linear narratives in visual media?
+- How do varying narrative styles impact viewer engagement and comprehension?
 
 ## Sources
 

@@ -4,17 +4,22 @@ domain: intervention
 slug: neuroscience-research-in-music-and-movement
 sources:
   - fxa100-week02-are-the-brains-of-musicians-physically-different
+  - fxa100-week03-the-effects-of-music-on-the-brain-video-transcript-(2)
+  - fxa100-week03-week-3-introduction-listening-to-music-in-dementia-care
   - fxa100-week04-music-as-therapy-and-health-promotion
   - fxa101-week03-imagination-how-thinking-makes-it-so
   - fxa101-week03-web-article-iversen-2020
+  - fxa300-week01-music-and-states-of-consciousness-a-narrative-review-of-the
   - fxa300-week02-biopsychology-as-a-neuroscience
   - fxa300-week04-transcript-a-summary-of-a-case-study-of-a-musician-and-music-(2)
+  - fxa300-week05-sound-health-music-and-the-mind
+  - fxa300-week05-sound-health-music-and-the-mind-the-new-initiative-of-the
   - fxa301-week03-transcript-youtube-5utv1ergbs8
 tags:
 - neuroscience-research
 title: Neuroscience Research in Music and Movement
 type: topic
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Neuroscience Research in Music and Movement
@@ -34,9 +39,14 @@ The integration of music and movement interventions into neuroscience research r
 ## Sources
 
 - [fxa100-week02-are-the-brains-of-musicians-physically-different](../sources/fxa100-week02-are-the-brains-of-musicians-physically-different.md)
+- [fxa100-week03-the-effects-of-music-on-the-brain-video-transcript-(2)](../sources/fxa100-week03-the-effects-of-music-on-the-brain-video-transcript-%282%29.md)
+- [fxa100-week03-week-3-introduction-listening-to-music-in-dementia-care](../sources/fxa100-week03-week-3-introduction-listening-to-music-in-dementia-care.md)
 - [fxa100-week04-music-as-therapy-and-health-promotion](../sources/fxa100-week04-music-as-therapy-and-health-promotion.md)
 - [fxa101-week03-imagination-how-thinking-makes-it-so](../sources/fxa101-week03-imagination-how-thinking-makes-it-so.md)
 - [fxa101-week03-web-article-iversen-2020](../sources/fxa101-week03-web-article-iversen-2020.md)
+- [fxa300-week01-music-and-states-of-consciousness-a-narrative-review-of-the](../sources/fxa300-week01-music-and-states-of-consciousness-a-narrative-review-of-the.md)
 - [fxa300-week02-biopsychology-as-a-neuroscience](../sources/fxa300-week02-biopsychology-as-a-neuroscience.md)
 - [fxa300-week04-transcript-a-summary-of-a-case-study-of-a-musician-and-music-(2)](../sources/fxa300-week04-transcript-a-summary-of-a-case-study-of-a-musician-and-music-%282%29.md)
+- [fxa300-week05-sound-health-music-and-the-mind](../sources/fxa300-week05-sound-health-music-and-the-mind.md)
+- [fxa300-week05-sound-health-music-and-the-mind-the-new-initiative-of-the](../sources/fxa300-week05-sound-health-music-and-the-mind-the-new-initiative-of-the.md)
 - [fxa301-week03-transcript-youtube-5utv1ergbs8](../sources/fxa301-week03-transcript-youtube-5utv1ergbs8.md)

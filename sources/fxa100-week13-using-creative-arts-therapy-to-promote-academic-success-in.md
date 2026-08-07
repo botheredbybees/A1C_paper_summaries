@@ -11,7 +11,7 @@ tags: ["academic-success", "affective-awareness", "creative-arts-therapy", "fxa1
 key_concepts: ["socioemotional competencies", "affective awareness", "group processes"]
 methods: ["systematic review", "narrative review"]
 slug: fxa100-week13-using-creative-arts-therapy-to-promote-academic-success-in
-related: ["creative-arts-therapy"]
+related: ["creative-arts-therapy", "narrative-review"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -42,3 +42,4 @@ This article presents a secondary narrative review of creative arts therapy (CAT
 ## See Also
 
 - [creative-arts-therapy](../topics/creative-arts-therapy.md)
+- [narrative-review](../topics/narrative-review.md)

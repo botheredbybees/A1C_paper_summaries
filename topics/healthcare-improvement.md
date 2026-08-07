@@ -4,13 +4,14 @@ domain: intervention
 slug: healthcare-improvement-strategies
 sources:
   - fxa100-week04-conceptualizing-and-planning-interventions
+  - fxa301-week08-clown-doctors-australia-national-impact-summary
   - fxa301-week08-impact-summary-clown-doctors-australia
   - fxa301-week08-social-impact-report-year-to-30-june-2025
 tags:
 - healthcare-improvement
 title: Healthcare Improvement Strategies
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Healthcare Improvement Strategies
@@ -30,5 +31,6 @@ The integration of various healthcare improvement strategies reveals a convergin
 ## Sources
 
 - [fxa100-week04-conceptualizing-and-planning-interventions](../sources/fxa100-week04-conceptualizing-and-planning-interventions.md)
+- [fxa301-week08-clown-doctors-australia-national-impact-summary](../sources/fxa301-week08-clown-doctors-australia-national-impact-summary.md)
 - [fxa301-week08-impact-summary-clown-doctors-australia](../sources/fxa301-week08-impact-summary-clown-doctors-australia.md)
 - [fxa301-week08-social-impact-report-year-to-30-june-2025](../sources/fxa301-week08-social-impact-report-year-to-30-june-2025.md)

@@ -9,7 +9,8 @@ sources:
   - fxa101-week02-web-article-grossenbacher-2001
   - fxa101-week02-web-article-meier-2014
   - fxa101-week02-week-2-lecture-sem-2-2026
-updated: 2026-07-13
+  - fxa101-week03-week-3-lecture-brain-development-and-cognitive-reserve
+updated: 2026-08-07
 ---
 
 ## Synesthesia
@@ -32,3 +33,4 @@ The study of synesthesia integrates insights from neurobiological and cognitive 
 - [fxa101-week02-web-article-grossenbacher-2001](../sources/fxa101-week02-web-article-grossenbacher-2001.md)
 - [fxa101-week02-web-article-meier-2014](../sources/fxa101-week02-web-article-meier-2014.md)
 - [fxa101-week02-week-2-lecture-sem-2-2026](../sources/fxa101-week02-week-2-lecture-sem-2-2026.md)
+- [fxa101-week03-week-3-lecture-brain-development-and-cognitive-reserve](../sources/fxa101-week03-week-3-lecture-brain-development-and-cognitive-reserve.md)

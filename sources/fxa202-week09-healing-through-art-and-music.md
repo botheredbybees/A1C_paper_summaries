@@ -11,7 +11,7 @@ tags: ["personal-narrative", "chronic-pain-management", "emotional-healing", "cr
 key_concepts: ["chronic pain", "art therapy", "music therapy", "emotional healing", "survival mode"]
 methods: ["personal narrative"]
 slug: fxa202-week09-healing-through-art-and-music
-related: ["chronic-pain-management", "creative-expression", "emotional-healing", "personal-narrative", "self-reflection", "trauma-recovery"]
+related: ["chronic-pain-management-through-creative-therapies", "creative-expression", "emotional-healing", "personal-narrative", "self-reflection", "trauma-recovery"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,7 +46,7 @@ Cassandra Yates reflects on her journey through chronic pain and emotional numbn
 
 ## See Also
 
-- [chronic-pain-management](../topics/chronic-pain-management.md)
+- [chronic-pain-management-through-creative-therapies](../topics/chronic-pain-management-through-creative-therapies.md)
 - [creative-expression](../topics/creative-expression.md)
 - [emotional-healing](../topics/emotional-healing.md)
 - [personal-narrative](../topics/personal-narrative.md)

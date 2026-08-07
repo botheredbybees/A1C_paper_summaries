@@ -7,13 +7,15 @@ doi: https://doi.org/10.1080/21594937.2013.852052
 appearances:
   - unit: FXA100
     week: "12"
+  - unit: FXA100
+    week: "10"
 tags: ["dementia-care", "playful-engagement", "quality-of-life", "relational-clowning", "aged-care-facilities", "cultural-relevance", "fxa100", "personalized-interventions"]
 key_concepts: ["quality of life", "social isolation", "personalized interventions"]
 methods: ["pilot study", "observational research"]
 slug: fxa100-week12-playfully-engaging-people-living-with-dementia-searching
-related: ["aged-care-facilities", "dementia-care", "personalized-interventions", "playful-engagement", "quality-of-life", "relational-clowning"]
+related: ["aged-care-facilities", "cultural-relevance", "dementia-care", "personalized-interventions", "playful-engagement", "quality-of-life", "relational-clowning"]
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-week12-playfully-engaging-people-living-with-dementia-searching.md_
@@ -46,6 +48,7 @@ The article explores the use of playful engagement through relational clowning t
 ## See Also
 
 - [aged-care-facilities](../topics/aged-care-facilities.md)
+- [cultural-relevance](../topics/cultural-relevance.md)
 - [dementia-care](../topics/dementia-care.md)
 - [personalized-interventions](../topics/personalized-interventions.md)
 - [playful-engagement](../topics/playful-engagement.md)

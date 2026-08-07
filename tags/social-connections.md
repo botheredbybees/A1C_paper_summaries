@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-connections
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Social Connections

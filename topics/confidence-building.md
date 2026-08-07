@@ -3,13 +3,15 @@ confidence: medium
 domain: intervention
 slug: confidence-building
 sources:
-- fxa301-week09-the-importance-of-disability-led-theatre
-- fxa303-week06-miss-lilys-fabulous-feather-boa
+  - fxa301-week09-the-importance-of-disability-led-theatre
+  - fxa303-week06-miss-lilys-fabulous-feather-boa
+  - fxa303-week11-bell-shakespeares-youth-justice-program
+  - fxa303-week11-youth-justice-program-bell-shakespeare
 tags:
 - confidence-building
 title: Confidence Building
 type: topic
-updated: 2026-05-04
+updated: 2026-08-07
 ---
 
 ## Confidence Building
@@ -29,3 +31,5 @@ The sources highlight the role of arts-based interventions in fostering confiden
 
 - [fxa301-week09-the-importance-of-disability-led-theatre](../sources/fxa301-week09-the-importance-of-disability-led-theatre.md)
 - [fxa303-week06-miss-lilys-fabulous-feather-boa](../sources/fxa303-week06-miss-lilys-fabulous-feather-boa.md)
+- [fxa303-week11-bell-shakespeares-youth-justice-program](../sources/fxa303-week11-bell-shakespeares-youth-justice-program.md)
+- [fxa303-week11-youth-justice-program-bell-shakespeare](../sources/fxa303-week11-youth-justice-program-bell-shakespeare.md)

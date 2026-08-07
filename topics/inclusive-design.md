@@ -3,7 +3,9 @@ confidence: low
 domain: method
 slug: inclusive-design
 sources:
+  - fxa100-week07-access-programs-art-gallery-of-new-south-wales
   - fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people
+  - fxa101-week05-constraints-and-frugal-innovation-enabling-sustainable
   - fxa301-week11-barrier-free-accessibility-at-the-kunsthistorisches-museum
   - fxa301-week11-best-practice-in-making-museums-more-accessible-to-visually
   - fxa301-week11-louvre-abu-dhabi-tactile-studio-inclusive-design-agency
@@ -12,7 +14,7 @@ tags:
 - inclusive-design
 title: Inclusive Design
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Inclusive Design
@@ -31,7 +33,9 @@ The sources collectively underscore the importance of inclusive design in enhanc
 
 ## Sources
 
+- [fxa100-week07-access-programs-art-gallery-of-new-south-wales](../sources/fxa100-week07-access-programs-art-gallery-of-new-south-wales.md)
 - [fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people](../sources/fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people.md)
+- [fxa101-week05-constraints-and-frugal-innovation-enabling-sustainable](../sources/fxa101-week05-constraints-and-frugal-innovation-enabling-sustainable.md)
 - [fxa301-week11-barrier-free-accessibility-at-the-kunsthistorisches-museum](../sources/fxa301-week11-barrier-free-accessibility-at-the-kunsthistorisches-museum.md)
 - [fxa301-week11-best-practice-in-making-museums-more-accessible-to-visually](../sources/fxa301-week11-best-practice-in-making-museums-more-accessible-to-visually.md)
 - [fxa301-week11-louvre-abu-dhabi-tactile-studio-inclusive-design-agency](../sources/fxa301-week11-louvre-abu-dhabi-tactile-studio-inclusive-design-agency.md)

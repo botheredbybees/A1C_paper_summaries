@@ -7,13 +7,15 @@ doi: https://doi.org/10.1177/1757913917712283
 appearances:
   - unit: FXA303
     week: "03"
-tags: ["arts-activities", "mental-wellbeing", "resilience-development", "youth-health", "community-interventions", "fxa303"]
+  - unit: FXA301
+    week: "03"
+tags: ["arts-activities", "mental-wellbeing", "resilience-development", "youth-health", "community-interventions", "fxa303", "fxa301"]
 key_concepts: ["resilience", "self-efficacy", "mental wellbeing"]
 methods: ["rapid review"]
 slug: fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and
 related: ["community-interventions", "mental-wellbeing", "resilience-development", "youth-health"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and.md_

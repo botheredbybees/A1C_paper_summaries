@@ -11,7 +11,7 @@ tags: ["music-education", "creativity-development", "cognitive-skills", "innovat
 key_concepts: ["creative exploration", "pattern recognition", "openness to experience"]
 methods: ["case study"]
 slug: fxa101-week03-how-music-teaches-children-to-create-and-innovate
-related: ["child-psychology", "cognitive-skills", "creativity-development", "music-education", "musical-training", "pattern-recognition"]
+related: ["child-psychology", "cognitive-skills", "creative-exploration", "creativity-development", "music-education", "musical-training", "pattern-recognition"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -46,6 +46,7 @@ The chapter 'Seeking Out the New' by Anita Collins explores how music education 
 
 - [child-psychology](../topics/child-psychology.md)
 - [cognitive-skills](../topics/cognitive-skills.md)
+- [creative-exploration](../topics/creative-exploration.md)
 - [creativity-development](../topics/creativity-development.md)
 - [music-education](../topics/music-education.md)
 - [musical-training](../topics/musical-training.md)

@@ -5,9 +5,10 @@ title: "Creative Arts in Therapy"
 confidence: medium
 tags: ["arts-in-therapy"]
 sources:
+  - fxa300-week05-rene-flemings-music-and-mind
   - fxa303-week10-lesson-fxa303-week10-page-4-activities
   - fxa303-week11-developing-creative-approaches-in-youth-justice-a-guide-for
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Creative Arts in Therapy
@@ -26,5 +27,6 @@ The utilization of creative arts as a therapeutic intervention emerges consisten
 
 ## Sources
 
+- [fxa300-week05-rene-flemings-music-and-mind](../sources/fxa300-week05-rene-flemings-music-and-mind.md)
 - [fxa303-week10-lesson-fxa303-week10-page-4-activities](../sources/fxa303-week10-lesson-fxa303-week10-page-4-activities.md)
 - [fxa303-week11-developing-creative-approaches-in-youth-justice-a-guide-for](../sources/fxa303-week11-developing-creative-approaches-in-youth-justice-a-guide-for.md)

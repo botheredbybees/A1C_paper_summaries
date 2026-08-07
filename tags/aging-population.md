@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: aging-population
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Aging Population
@@ -12,4 +12,5 @@ updated: 2026-07-28
 - [2018 Alzheimer's disease facts and figures](../sources/fxa100-week13-2018-alzheimers-disease-facts-and-figures.md)
 - [Creativity in Later Life](../sources/fxa101-week04-creativity-in-later-life.md)
 - [The use of commercial computerised cognitive games in older adults: a meta-analysis](../sources/fxa101-week04-the-use-of-commercial-computerised-cognitive-games-in-older.md)
+- [Music and Movement for Health: an arts-based Intervention to promote health and wellbeing of community dwelling older adults in Ireland](../sources/fxa300-week05-music-and-movement-for-health-an-arts-based-intervention-to.md)
 - [Intervention and application of clown care in nursing homes: a scoping review](../sources/fxa303-week13-intervention-and-application-of-clown-care-in-nursing-homes.md)

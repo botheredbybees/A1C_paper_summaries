@@ -7,11 +7,11 @@ doi: https://doi.org/10.1108/20428301111140930
 appearances:
   - unit: FXA301
     week: "06"
-tags: ["mental-health", "wellbeing", "singing-groups", "community-initiatives", "recovery-support", "social-inclusion", "fxa301"]
+tags: ["choral-singing-therapy", "community-initiatives", "fxa301", "mental-health", "recovery-support", "singing-groups", "social-inclusion", "wellbeing"]
 key_concepts: ["mental health outcomes", "choral singing therapy", "community network support"]
 methods: ["case study"]
 slug: fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings
-related: ["community-initiatives", "mental-health", "social-inclusion", "wellbeing"]
+related: ["choir-singing", "community-initiatives", "mental-health", "social-inclusion", "wellbeing"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -25,7 +25,7 @@ This paper describes an innovative community singing initiative in East Kent, UK
 ## Key Concepts
 
 - [mental health outcomes](../topics/mental-health-outcomes.md)
-- [choral singing therapy](../topics/choral-singing-therapy.md)
+- [choral singing therapy](../topics/choir-singing.md)
 - [community network support](../topics/community-network-support.md)
 
 ## Tags
@@ -44,6 +44,7 @@ This paper describes an innovative community singing initiative in East Kent, UK
 
 ## See Also
 
+- [choir-singing](../topics/choir-singing.md)
 - [community-initiatives](../topics/community-initiatives.md)
 - [mental-health](../topics/mental-health.md)
 - [social-inclusion](../topics/social-inclusion.md)

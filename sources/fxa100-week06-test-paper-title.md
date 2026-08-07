@@ -7,13 +7,13 @@ doi: https://doi.org/10.0000/test
 appearances:
   - unit: FXA100
     week: "06"
-tags: ["music-therapy", "fxa100"]
+tags: ["music-therapy", "fxa100", "concept-a"]
 key_concepts: ["Concept A"]
 methods: ["Survey"]
 slug: fxa100-week06-test-paper-title
 related: ["music-therapy"]
-created: 2026-05-03
-updated: 2026-05-03
+created: 2026-08-02
+updated: 2026-08-02
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-week06-test-paper-title.md_
@@ -24,12 +24,13 @@ A brief prose summary of the paper content.
 
 ## Key Concepts
 
-- [Concept A](../topics/concept-a.md)
+- *(none identified)*
 
 ## Tags
 
 - [music-therapy](../tags/music-therapy.md)
 - [fxa100](../tags/fxa100.md)
+- [concept-a](../tags/concept-a.md)
 
 ## Methods
 

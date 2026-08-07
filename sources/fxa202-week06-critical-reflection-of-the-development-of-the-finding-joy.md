@@ -11,7 +11,7 @@ tags: ["photo-essay", "pandemic-resilience", "social-prescribing", "mindful-phot
 key_concepts: ["resilience", "social prescribing", "visual storytelling"]
 methods: ["online survey"]
 slug: fxa202-week06-critical-reflection-of-the-development-of-the-finding-joy
-related: ["lived-experience", "photo-essay", "social-prescribing"]
+related: ["lived-experience", "mindfulness-practice-through-photography", "photo-essay", "social-prescribing"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,5 +44,6 @@ Simone Dalton's critical reflection on her 'Finding Joy' photo essay project exa
 ## See Also
 
 - [lived-experience](../topics/lived-experience.md)
+- [mindfulness-practice-through-photography](../topics/mindfulness-practice-through-photography.md)
 - [photo-essay](../topics/photo-essay.md)
 - [social-prescribing](../topics/social-prescribing.md)

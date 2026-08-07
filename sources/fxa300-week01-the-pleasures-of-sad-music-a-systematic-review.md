@@ -13,7 +13,7 @@ tags: ["sad-music", "pleasure-experience", "emotional-regulation", "catharsis-th
 key_concepts: ["mood-regulation", "tragedy-paradox", "cathartic-release"]
 methods: ["systematic-review"]
 slug: fxa300-week01-the-pleasures-of-sad-music-a-systematic-review
-related: ["emotional-regulation", "sad-music"]
+related: ["cathartic-release", "emotional-regulation", "sad-music"]
 created: 2026-07-06
 updated: 2026-07-21
 ---
@@ -47,5 +47,6 @@ This systematic review explores the phenomenon of experiencing pleasure from lis
 
 ## See Also
 
+- [cathartic-release](../topics/cathartic-release.md)
 - [emotional-regulation](../topics/emotional-regulation.md)
 - [sad-music](../topics/sad-music.md)

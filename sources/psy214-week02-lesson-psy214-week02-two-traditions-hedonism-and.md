@@ -11,7 +11,7 @@ tags: ["hedonia", "eudaimonia", "well-being-theories", "philosophical-origins-ps
 key_concepts: ["Hedonia", "Eudaimonia", "Experience Machine Thought Experiment"]
 methods: []
 slug: psy214-week02-lesson-psy214-week02-two-traditions-hedonism-and
-related: ["eudaimonia", "hedonia", "well-being-theories"]
+related: ["eudaimonic-well-being", "hedonia", "well-being-theories"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -42,6 +42,6 @@ This lesson explores the concepts of hedonia and eudaimonia as philosophical ori
 
 ## See Also
 
-- [eudaimonia](../topics/eudaimonia.md)
+- [eudaimonic-well-being](../topics/eudaimonic-well-being.md)
 - [hedonia](../topics/hedonia.md)
 - [well-being-theories](../topics/well-being-theories.md)

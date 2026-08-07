@@ -11,7 +11,7 @@ tags: ["mood-congruence-music", "emotional-responses", "musical-preference", "fx
 key_concepts: ["mood-congruent emotional responding", "aesthetic appreciation", "sadness detection in music"]
 methods: ["experiment"]
 slug: fxa301-week02-misery-loves-company-mood-congruent-emotional-responding-to
-related: ["emotional-responses"]
+related: ["emotional-responses", "musical-preference"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,3 +42,4 @@ The study explores how mood influences emotional responses to music, specificall
 ## See Also
 
 - [emotional-responses](../topics/emotional-responses.md)
+- [musical-preference](../topics/musical-preference.md)

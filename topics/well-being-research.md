@@ -3,6 +3,7 @@ confidence: high
 domain: theory
 slug: well-being-research
 sources:
+  - fxa100-week07-the-role-of-reminiscence-in-arts-based-interventions-for
   - fxa101-week04-arts-for-ageing-well-a-propensity-score-matching-analysis
   - fxa202-week10-arts-health-and-well-being-a-critical-perspective-on
   - fxa202-week10-conclusions-and-implications-for-future-research
@@ -11,13 +12,16 @@ sources:
   - fxa202-week13-different-but-connected-participatory-action-research-using
   - fxa300-week01-fxa300-sem-2-2026-week-1-lecture
   - fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness
+  - fxa302-week01-arts-health-and-well-being-a-critical-perspective-on
+  - fxa302-week01-arts-health-wellbeing-reflections-on-a-national-seminar
   - fxa302-week01-horticultural-arts
   - psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the
+  - psy214-week02-concepts-related-to-hedonia-or-happiness-(2)
 tags:
 - well-being-research
 title: Well-Being Research
 type: topic
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Well-Being Research
@@ -36,6 +40,7 @@ Research on well-being through the lens of arts and health intersects social-pol
 
 ## Sources
 
+- [fxa100-week07-the-role-of-reminiscence-in-arts-based-interventions-for](../sources/fxa100-week07-the-role-of-reminiscence-in-arts-based-interventions-for.md)
 - [fxa101-week04-arts-for-ageing-well-a-propensity-score-matching-analysis](../sources/fxa101-week04-arts-for-ageing-well-a-propensity-score-matching-analysis.md)
 - [fxa202-week10-arts-health-and-well-being-a-critical-perspective-on](../sources/fxa202-week10-arts-health-and-well-being-a-critical-perspective-on.md)
 - [fxa202-week10-conclusions-and-implications-for-future-research](../sources/fxa202-week10-conclusions-and-implications-for-future-research.md)
@@ -44,5 +49,8 @@ Research on well-being through the lens of arts and health intersects social-pol
 - [fxa202-week13-different-but-connected-participatory-action-research-using](../sources/fxa202-week13-different-but-connected-participatory-action-research-using.md)
 - [fxa300-week01-fxa300-sem-2-2026-week-1-lecture](../sources/fxa300-week01-fxa300-sem-2-2026-week-1-lecture.md)
 - [fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness](../sources/fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness.md)
+- [fxa302-week01-arts-health-and-well-being-a-critical-perspective-on](../sources/fxa302-week01-arts-health-and-well-being-a-critical-perspective-on.md)
+- [fxa302-week01-arts-health-wellbeing-reflections-on-a-national-seminar](../sources/fxa302-week01-arts-health-wellbeing-reflections-on-a-national-seminar.md)
 - [fxa302-week01-horticultural-arts](../sources/fxa302-week01-horticultural-arts.md)
 - [psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the](../sources/psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the.md)
+- [psy214-week02-concepts-related-to-hedonia-or-happiness-(2)](../sources/psy214-week02-concepts-related-to-hedonia-or-happiness-%282%29.md)

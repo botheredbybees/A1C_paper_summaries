@@ -11,7 +11,7 @@ tags: ["photography-wellbeing", "mindfulness-techniques", "social-interaction-on
 key_concepts: ["mindfulness", "photo therapy", "well-being", "mental health"]
 methods: ["case study"]
 slug: fxa202-week03-using-photography-for-wellbeing-fxa202-the-photo-essay
-related: ["creative-expression", "environmental-awareness", "mindfulness-techniques", "therapeutic-photography"]
+related: ["creative-expression", "environmental-awareness", "mindfulness-practice-through-photography", "therapeutic-photography"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -51,5 +51,5 @@ The document discusses how photography encourages physical activity by motivatin
 
 - [creative-expression](../topics/creative-expression.md)
 - [environmental-awareness](../topics/environmental-awareness.md)
-- [mindfulness-techniques](../topics/mindfulness-techniques.md)
+- [mindfulness-practice-through-photography](../topics/mindfulness-practice-through-photography.md)
 - [therapeutic-photography](../topics/therapeutic-photography.md)

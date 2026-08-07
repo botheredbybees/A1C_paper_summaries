@@ -11,7 +11,7 @@ tags: ["reminiscence-bump", "personalized-music-playlists", "dementia-care", "me
 key_concepts: ["reminiscence bump", "personalized music playlists", "cognitive engagement"]
 methods: ["survey"]
 slug: fxa300-week03-a-focus-on-the-reminiscence-bump-to-personalize-music
-related: ["dementia-care", "music-and-memory", "personalized-music-playlists", "reminiscence-bump"]
+related: ["dementia-care", "memory-enhancement", "music-and-memory", "personalized-music-playlists", "reminiscence-bump"]
 created: 2026-07-21
 updated: 2026-07-21
 ---
@@ -43,6 +43,7 @@ This study explores the relationship between music and memory, particularly focu
 ## See Also
 
 - [dementia-care](../topics/dementia-care.md)
+- [memory-enhancement](../topics/memory-enhancement.md)
 - [music-and-memory](../topics/music-and-memory.md)
 - [personalized-music-playlists](../topics/personalized-music-playlists.md)
 - [reminiscence-bump](../topics/reminiscence-bump.md)

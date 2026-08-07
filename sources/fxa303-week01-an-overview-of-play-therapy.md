@@ -11,7 +11,7 @@ tags: ["child-development", "mental-health-intervention", "play-therapy", "thera
 key_concepts: ["play therapy", "theoretical framework", "verbal communication", "emotional expression"]
 methods: ["systematic review"]
 slug: fxa303-week01-an-overview-of-play-therapy
-related: ["child-development", "mental-health-intervention", "play-therapy", "symbolic-expression"]
+related: ["child-development", "mental-health-intervention", "play-therapy-in-child-development", "symbolic-expression"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -24,7 +24,7 @@ The article provides an overview of play therapy, emphasizing its significance i
 
 ## Key Concepts
 
-- [play therapy](../topics/play-therapy.md)
+- [play therapy](../topics/play-therapy-in-child-development.md)
 - [theoretical framework](../topics/theoretical-framework.md)
 - [verbal communication](../topics/verbal-communication.md)
 - [emotional expression](../topics/emotional-expression.md)
@@ -46,5 +46,5 @@ The article provides an overview of play therapy, emphasizing its significance i
 
 - [child-development](../topics/child-development.md)
 - [mental-health-intervention](../topics/mental-health-intervention.md)
-- [play-therapy](../topics/play-therapy.md)
+- [play-therapy-in-child-development](../topics/play-therapy-in-child-development.md)
 - [symbolic-expression](../topics/symbolic-expression.md)

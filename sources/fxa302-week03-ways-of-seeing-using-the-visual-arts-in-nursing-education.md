@@ -11,7 +11,7 @@ tags: ["nursing-education", "visual-arts-integration", "clinical-skills-developm
 key_concepts: ["observational-skills", "empathetic-patient-care", "reflective-practice"]
 methods: ["case-study"]
 slug: fxa302-week03-ways-of-seeing-using-the-visual-arts-in-nursing-education
-related: ["nursing-education", "observational-skills"]
+related: ["nursing-education", "observation-skills"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -42,4 +42,4 @@ The article by Frei, Alvarez, and Alexander (2010) discusses the integration of 
 ## See Also
 
 - [nursing-education](../topics/nursing-education.md)
-- [observational-skills](../topics/observational-skills.md)
+- [observation-skills](../topics/observation-skills.md)

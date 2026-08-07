@@ -7,13 +7,15 @@ doi: null
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["collaborative-projects", "community-art", "ethical-practices", "fxa301", "marginalized-communities", "risk-management-strategies", "social-engagement", "transformative-power-of-art", "youth-involvement"]
+  - unit: FXA100
+    week: "04"
+tags: ["collaborative-projects", "community-art", "ethical-practices", "fxa301", "marginalized-communities", "risk-management-strategies", "social-engagement", "transformative-power-of-art", "youth-involvement", "fxa100"]
 key_concepts: ["transformative-power-of-art", "cultural-sensitivity", "risk-management-strategies"]
 methods: ["guideline-development"]
 slug: fxa301-week01-making-art-with-communities-a-work-guide
 related: ["collaborative-projects", "community-art", "ethical-practices", "marginalized-communities", "social-engagement", "transformative-power-of-art"]
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-week01-making-art-with-communities-a-work-guide.md_

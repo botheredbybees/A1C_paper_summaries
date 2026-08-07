@@ -11,7 +11,7 @@ tags: ["musical-memory", "memory-research", "neuroscience", "therapeutic-applica
 key_concepts: ["involuntary musical imagery", "deep memory structures", "musical amnesia survival"]
 methods: []
 slug: fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted
-related: ["memory-research", "musical-memory", "neuroscience"]
+related: ["memory-research", "musical-memory", "neuroscience", "therapeutic-applications"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,3 +45,4 @@ Victoria Williamson discusses the power and intricacies of musical memory in her
 - [memory-research](../topics/memory-research.md)
 - [musical-memory](../topics/musical-memory.md)
 - [neuroscience](../topics/neuroscience.md)
+- [therapeutic-applications](../topics/therapeutic-applications.md)

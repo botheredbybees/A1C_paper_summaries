@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: adolescents-with-autism
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Adolescents With Autism

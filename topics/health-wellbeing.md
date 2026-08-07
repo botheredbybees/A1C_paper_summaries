@@ -4,7 +4,9 @@ domain: intervention
 slug: music-therapy-in-dementia-care
 sources:
   - fxa100-week04-music-as-therapy-and-health-promotion
+  - fxa100-week04-music-health-and-wellbeing-section-1-introductory-chapters
   - fxa100-week04-week-4-activities-fxa100-the-arts-and-dementia-care
+  - fxa300-week05-excellent-for-mind-body-and-spirit-participant-facilitator
   - fxa301-oxford-textbook-of-creative-arts-ch02-chapter-11-(2)
   - fxa301-oxford-textbook-of-creative-arts-ch08-96-clift
   - fxa301-week01-lesson-fxa301-week01-page-2-hm
@@ -18,7 +20,7 @@ tags:
 - health-wellbeing
 title: Music Therapy in Dementia Care
 type: topic
-updated: 2026-07-06
+updated: 2026-08-07
 ---
 
 ## Music Therapy in Dementia Care
@@ -38,7 +40,9 @@ The provided sources collectively underscore the role of music therapy as an int
 ## Sources
 
 - [fxa100-week04-music-as-therapy-and-health-promotion](../sources/fxa100-week04-music-as-therapy-and-health-promotion.md)
+- [fxa100-week04-music-health-and-wellbeing-section-1-introductory-chapters](../sources/fxa100-week04-music-health-and-wellbeing-section-1-introductory-chapters.md)
 - [fxa100-week04-week-4-activities-fxa100-the-arts-and-dementia-care](../sources/fxa100-week04-week-4-activities-fxa100-the-arts-and-dementia-care.md)
+- [fxa300-week05-excellent-for-mind-body-and-spirit-participant-facilitator](../sources/fxa300-week05-excellent-for-mind-body-and-spirit-participant-facilitator.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch02-chapter-11-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch02-chapter-11-%282%29.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch08-96-clift](../sources/fxa301-oxford-textbook-of-creative-arts-ch08-96-clift.md)
 - [fxa301-week01-lesson-fxa301-week01-page-2-hm](../sources/fxa301-week01-lesson-fxa301-week01-page-2-hm.md)

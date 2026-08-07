@@ -11,7 +11,7 @@ tags: ["stress-management", "coping-strategies", "transactional-model-of-stress"
 key_concepts: ["appraisal-process", "interactive-stress-progression", "individual-environment-interaction"]
 methods: ["theoretical-model"]
 slug: psy214-week01-the-transactional-model-of-stress-and-coping
-related: ["stress-management"]
+related: ["coping-strategies", "stress-management"]
 created: 2026-07-06
 updated: 2026-07-06
 ---
@@ -42,4 +42,5 @@ This document outlines the transactional model of stress and coping developed by
 
 ## See Also
 
+- [coping-strategies](../topics/coping-strategies.md)
 - [stress-management](../topics/stress-management.md)

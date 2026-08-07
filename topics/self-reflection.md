@@ -11,12 +11,13 @@ sources:
   - fxa202-week09-journaling-books-review
   - fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a
   - fxa303-week06-therapeutic-puppetry-and-wellbeing
+  - fxa303-week11-bell-shakespeares-youth-justice-program
   - fxa303-week11-youth-justice-program-bell-shakespeare
 tags:
 - self-reflection
 title: Self-Reflection Through Creative Therapies
 type: topic
-updated: 2026-07-13
+updated: 2026-08-07
 ---
 
 ## Self-Reflection Through Creative Therapies
@@ -43,4 +44,5 @@ The synthesis of the provided sources highlights self-reflection through various
 - [fxa202-week09-journaling-books-review](../sources/fxa202-week09-journaling-books-review.md)
 - [fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a](../sources/fxa202-week09-reflection-on-the-therapeutic-benefits-of-photography-a.md)
 - [fxa303-week06-therapeutic-puppetry-and-wellbeing](../sources/fxa303-week06-therapeutic-puppetry-and-wellbeing.md)
+- [fxa303-week11-bell-shakespeares-youth-justice-program](../sources/fxa303-week11-bell-shakespeares-youth-justice-program.md)
 - [fxa303-week11-youth-justice-program-bell-shakespeare](../sources/fxa303-week11-youth-justice-program-bell-shakespeare.md)

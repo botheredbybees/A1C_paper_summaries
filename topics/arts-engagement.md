@@ -8,13 +8,17 @@ sources:
   - fxa101-week04-arts-for-ageing-well-a-propensity-score-matching-analysis
   - fxa301-week01-web-article-australia-2019
   - fxa301-week01-web-article-australia-2023
+  - fxa301-week03-social-benefits-of-arts-engagement-and-evidence-on-arts
   - fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing
+  - fxa302-week01-the-arts-and-the-social-determinants-of-health-findings
+  - fxa302-week07-good-arts-good-mental-health-the-effectiveness-of-an
   - fxa303-week11-arts-and-cultural-engagement-reportedly-antisocial-or
+  - fxa303-week11-does-regular-engagement-with-arts-and-creative-activities
 tags:
 - arts-engagement
 title: Arts Engagement in Australia
 type: topic
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Arts Engagement in Australia
@@ -38,5 +42,9 @@ The synthesis of data from the National Arts Participation Survey and other init
 - [fxa101-week04-arts-for-ageing-well-a-propensity-score-matching-analysis](../sources/fxa101-week04-arts-for-ageing-well-a-propensity-score-matching-analysis.md)
 - [fxa301-week01-web-article-australia-2019](../sources/fxa301-week01-web-article-australia-2019.md)
 - [fxa301-week01-web-article-australia-2023](../sources/fxa301-week01-web-article-australia-2023.md)
+- [fxa301-week03-social-benefits-of-arts-engagement-and-evidence-on-arts](../sources/fxa301-week03-social-benefits-of-arts-engagement-and-evidence-on-arts.md)
 - [fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing](../sources/fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing.md)
+- [fxa302-week01-the-arts-and-the-social-determinants-of-health-findings](../sources/fxa302-week01-the-arts-and-the-social-determinants-of-health-findings.md)
+- [fxa302-week07-good-arts-good-mental-health-the-effectiveness-of-an](../sources/fxa302-week07-good-arts-good-mental-health-the-effectiveness-of-an.md)
 - [fxa303-week11-arts-and-cultural-engagement-reportedly-antisocial-or](../sources/fxa303-week11-arts-and-cultural-engagement-reportedly-antisocial-or.md)
+- [fxa303-week11-does-regular-engagement-with-arts-and-creative-activities](../sources/fxa303-week11-does-regular-engagement-with-arts-and-creative-activities.md)

@@ -1,9 +1,10 @@
 ---
 type: tag
 tag: inclusive-communication
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Inclusive Communication
 
+- [A Guide to Dementia-Friendly Language and Images](../sources/fxa100-week04-a-guide-to-dementia-friendly-language-and-images.md)
 - [Inclusive communication with LGBTIQ+ clients](../sources/fxa303-week11-inclusive-communication-with-lgbtiq-clients.md)

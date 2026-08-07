@@ -3,14 +3,17 @@ confidence: medium
 domain: intervention
 slug: educational-psychology-in-trauma-informed-care
 sources:
+  - fxa101-week05-creativity-and-innovation
+  - fxa301-week10-intrinsic-motivation-and-effective-teaching
   - fxa303-week01-teachers-perspectives-on-providing-support-to-children
   - fxa303-week02-a-new-context-affording-for-regulation-the-case-of-musical
   - fxa303-week02-accessing-the-inaccessible-redefining-play-as-a-spectrum
+  - fxa303-week02-addressing-issues-of-mental-health-in-schools-through-the
 tags:
 - educational-psychology
 title: Educational Psychology in Trauma-Informed Care
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Educational Psychology in Trauma-Informed Care
@@ -29,6 +32,9 @@ The integration of educational psychology with trauma-informed care and the supp
 
 ## Sources
 
+- [fxa101-week05-creativity-and-innovation](../sources/fxa101-week05-creativity-and-innovation.md)
+- [fxa301-week10-intrinsic-motivation-and-effective-teaching](../sources/fxa301-week10-intrinsic-motivation-and-effective-teaching.md)
 - [fxa303-week01-teachers-perspectives-on-providing-support-to-children](../sources/fxa303-week01-teachers-perspectives-on-providing-support-to-children.md)
 - [fxa303-week02-a-new-context-affording-for-regulation-the-case-of-musical](../sources/fxa303-week02-a-new-context-affording-for-regulation-the-case-of-musical.md)
 - [fxa303-week02-accessing-the-inaccessible-redefining-play-as-a-spectrum](../sources/fxa303-week02-accessing-the-inaccessible-redefining-play-as-a-spectrum.md)
+- [fxa303-week02-addressing-issues-of-mental-health-in-schools-through-the](../sources/fxa303-week02-addressing-issues-of-mental-health-in-schools-through-the.md)

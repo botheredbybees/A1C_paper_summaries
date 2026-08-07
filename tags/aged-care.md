@@ -1,13 +1,14 @@
 ---
 type: tag
 tag: aged-care
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Aged Care
 
 - [Artists in the House Program: Expressing Yourself in Aged Care](../sources/fxa100-week02-transcript-duration-949.md)
 - [CALE Research Aged Care Deloraine Partnership - University of Tasmania](../sources/fxa100-week04-transcript-cale-research-aged-care-deloraine-partnership.md)
+- [Aged Care Outreach](../sources/fxa100-week07-aged-care-outreach-%282%29.md)
 - [MAC.ART: McAdam Aged Care Art Recreation Therapy Program](../sources/fxa100-week08-web-article-gross-2016.md)
 - [Arts-based research in aged care: Photovoice, documentary photography, and poetry](../sources/fxa202-week10-arts-based-research-in-aged-care-photovoice-documentary.md)
 - [Creative Arts-Based Research in Aged Care: Photovoice, Photography and Poetry](../sources/fxa202-week10-creative-arts-based-research-in-aged-care-photovoice.md)

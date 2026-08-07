@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Psychoanalysis and El Sistema: Human Development through Music"
-apa7: "Slevin, M., & Slevin, P. (2013). Psychoanalysis and El Sistema: Human development through music. International Journal of Applied Psychoanalytic Studies, 10(2), 132-140. https://doi.org/10.1002/aps"
-doi: https://doi.org/10.1002/aps
+apa7: "Slevin, M., & Slevin, P. (2013). Psychoanalysis and El Sistema: Human Development through Music. https://doi.org/10.1002/APS.1355"
+doi: https://doi.org/10.1002/APS.1355
 appearances:
   - unit: FXA301
     week: "06"

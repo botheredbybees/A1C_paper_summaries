@@ -1,9 +1,9 @@
 ---
 type: tag
 tag: emotional-resonance-in-theatre
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Emotional Resonance In Theatre
 
-- [Brightness in the theatre](../sources/fxa100-week10-brightness-in-the-theatre.md)
+- ['Brightness in dark places': Theatre as an arena for communicating life with dementia](../sources/fxa100-week10-brightness-in-the-theatre.md)

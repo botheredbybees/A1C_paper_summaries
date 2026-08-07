@@ -7,13 +7,15 @@ doi: null
 appearances:
   - unit: FXA302
     week: "01"
+  - unit: FXA302
+    week: "03"
 tags: ["medical-humanities", "health-humanities", "creative-arts", "fxa302", "historical-intersections", "creativity-in-health", "wellbeing-expression"]
 key_concepts: ["historical intersections", "creativity-in-health", "wellbeing-expression"]
 methods: []
 slug: fxa302-week01-lesson-fxa302-week01-page-2
 related: ["creative-arts", "health-humanities", "medical-humanities"]
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa302-week01-lesson-fxa302-week01-page-2.md_

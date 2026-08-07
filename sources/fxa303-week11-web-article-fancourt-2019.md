@@ -7,13 +7,15 @@ doi: null
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["arts-health", "social-cohesion", "child-development", "fxa303"]
+  - unit: FXA301
+    week: "01"
+tags: ["arts-health", "social-cohesion", "child-development", "fxa303", "fxa301"]
 key_concepts: []
 methods: []
 slug: fxa303-week11-web-article-fancourt-2019
 related: ["arts-health", "child-development", "social-cohesion"]
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week11-web-article-fancourt-2019.md_

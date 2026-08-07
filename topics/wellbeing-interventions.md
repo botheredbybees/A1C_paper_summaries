@@ -3,14 +3,16 @@ confidence: medium
 domain: intervention
 slug: singing-as-an-intervention-for-dementia-and-caregiver-wellbeing
 sources:
+  - fxa100-week04-singing-and-participation-(2)
   - fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the
   - fxa301-week01-arts-for-health-and-wellbeing-an-evaluation-framework
   - fxa301-week03-creative-health-review-report
+  - fxa302-week07-a-constructive-critical-response-to-creative-health-the
 tags:
 - wellbeing-interventions
 title: Singing as an Intervention for Dementia and Caregiver Wellbeing
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Singing as an Intervention for Dementia and Caregiver Wellbeing
@@ -29,6 +31,8 @@ The synthesis of the provided sources highlights singing as a valuable intervent
 
 ## Sources
 
+- [fxa100-week04-singing-and-participation-(2)](../sources/fxa100-week04-singing-and-participation-%282%29.md)
 - [fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the](../sources/fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the.md)
 - [fxa301-week01-arts-for-health-and-wellbeing-an-evaluation-framework](../sources/fxa301-week01-arts-for-health-and-wellbeing-an-evaluation-framework.md)
 - [fxa301-week03-creative-health-review-report](../sources/fxa301-week03-creative-health-review-report.md)
+- [fxa302-week07-a-constructive-critical-response-to-creative-health-the](../sources/fxa302-week07-a-constructive-critical-response-to-creative-health-the.md)

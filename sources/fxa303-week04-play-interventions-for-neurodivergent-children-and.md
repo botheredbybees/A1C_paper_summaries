@@ -2,7 +2,7 @@
 type: source
 source_type: paper
 title: "Play Interventions for Neurodivergent Children and Adolescents: Promoting Growth, Empowerment, and Affirming Practices"
-apa7: "Grant, R. J. (2024). Play interventions for neurodivergent children and adolescents: promoting growth, empowerment, and affirming practices. Routledge."
+apa7: "Grant, R. J. (2023). Play interventions for neurodivergent children and adolescents: promoting growth, empowerment, and affirming practices. Routledge."
 doi: https://doi.org/10.4324/9781003398691
 appearances:
   - unit: FXA303
@@ -13,7 +13,7 @@ methods: ["case-study"]
 slug: fxa303-week04-play-interventions-for-neurodivergent-children-and
 related: ["autism-treatment", "child-development", "mental-health-support", "therapeutic-practices"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-08-02
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week04-play-interventions-for-neurodivergent-children-and.md_

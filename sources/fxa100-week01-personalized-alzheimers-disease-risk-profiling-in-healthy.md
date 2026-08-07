@@ -11,7 +11,7 @@ tags: ["alzheimer-risk-factors", "brain-health-promotion", "personalized-medicin
 key_concepts: ["modifiable-risk-factors", "montreal-cognitive-assessment", "personalized-risk-profiling"]
 methods: ["case-series"]
 slug: fxa100-week01-personalized-alzheimers-disease-risk-profiling-in-healthy
-related: ["elderly-care"]
+related: ["elderly-care", "personalized-medicine"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,3 +44,4 @@ This study presents the findings from a clinical and research program called the
 ## See Also
 
 - [elderly-care](../topics/elderly-care.md)
+- [personalized-medicine](../topics/personalized-medicine.md)

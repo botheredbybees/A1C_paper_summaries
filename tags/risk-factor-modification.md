@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: risk-factor-modification
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Risk Factor Modification

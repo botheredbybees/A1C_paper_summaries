@@ -6,21 +6,22 @@ confidence: medium
 tags: ["cross-cultural-understanding"]
 sources:
   - fxa301-week05-naidoc-week-aboriginal-mural-brings-community-together-in
-updated: 2026-05-16
+updated: 2026-08-07
 ---
 
 ## Cross-Cultural Understanding
 
-The concept of cross-cultural understanding is examined through the lens of community engagement and cultural connection. Source 1 highlights the significance of an Aboriginal mural in fostering a sense of unity among diverse groups within Shortland during NAIDOC Week, emphasizing the importance of visual and communal expressions for promoting cross-cultural dialogue and mutual respect. This underscores the value of tangible cultural symbols and shared spaces in bridging gaps between different communities.
+The concept of cross-cultural understanding is explored through the lens of community engagement and cultural connection. Sources emphasize the importance of bringing diverse groups together to foster a deeper appreciation and knowledge of different cultures, as seen in Shortland's Aboriginal mural project during NAIDOC Week. This initiative highlights how visual representations can serve as powerful tools for initiating dialogue and building bridges between communities. Across sources, there is an agreement on the significance of practical activities that encourage direct interaction and learning from one another to enhance mutual respect and understanding.
 
 ## Key Findings
 
-- Community engagement through cultural activities can enhance cross-cultural understanding
-- Visual representations of culture play a crucial role in fostering community unity
+- Cross-cultural understanding enhances community cohesion.
+- Visual arts can be instrumental in fostering cross-cultural engagement.
+- Direct interaction with different cultures leads to greater appreciation and knowledge.
 
 ## Open Questions
 
-- How effective are visual symbols in promoting long-term cross-cultural relationships beyond immediate events?
+- How effective are visual representations alone in promoting long-term cross-cultural understanding?
 
 ## Sources
 

@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Arts Education and Society: The Role of the Arts in Promoting Emotional Wellbeing and Social Inclusion of Young People"
-apa7: "Karkou, V., & Glasman, J. (2004). Arts education and society: The role of the arts in promoting emotional wellbeing and social inclusion of young people. Support for Learning, 19(2), 57-63. https://doi.org/10.1111/j.1467-9604.2004.00248.x"
-doi: https://doi.org/10.1111/j.1467-9604.2004.00248.x
+apa7: "Karkou, V., & Glasman, J. (2004). Arts, education and society: the role of the arts in promoting the emotional wellbeing and social inclusion of young people. https://doi.org/10.1111/J.0268-2141.2004.00321.X"
+doi: https://doi.org/10.1111/J.0268-2141.2004.00321.X
 appearances:
   - unit: FXA303
     week: "10"

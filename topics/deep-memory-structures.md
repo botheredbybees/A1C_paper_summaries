@@ -8,7 +8,8 @@ sources:
   - fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted
   - fxa300-week01-how-do-earworms-start-classifying-the-everyday
   - fxa300-week03-environmental-and-mental-conditions-predicting-the
-updated: 2026-07-21
+  - fxa302-week05-the-genesis-of-a-tune-in-the-mind-an-interview-study-about
+updated: 2026-08-03
 ---
 
 ## Deep Memory Structures in Music
@@ -30,3 +31,4 @@ Victoria Williamson's TED talk on 'The Music of Memory' explores the concept of 
 - [fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted](../sources/fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted.md)
 - [fxa300-week01-how-do-earworms-start-classifying-the-everyday](../sources/fxa300-week01-how-do-earworms-start-classifying-the-everyday.md)
 - [fxa300-week03-environmental-and-mental-conditions-predicting-the](../sources/fxa300-week03-environmental-and-mental-conditions-predicting-the.md)
+- [fxa302-week05-the-genesis-of-a-tune-in-the-mind-an-interview-study-about](../sources/fxa302-week05-the-genesis-of-a-tune-in-the-mind-an-interview-study-about.md)

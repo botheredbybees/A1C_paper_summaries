@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cortical-gray-matter-changes
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Cortical Gray Matter Changes

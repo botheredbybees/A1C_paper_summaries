@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Anterograde Memory in Frontotemporal Dementia"
-apa7: "Hodges, J. R., Hornberger, M., & Piguet, O. (2013). Anterograde memory in frontotemporal dementia. In L.-G. Nilsson & N. Ohta (Eds.), Dementia and Memory (pp. 175-190). Taylor & Francis Group."
-doi: https://doi.org/10.4324/9781315851730-12
+apa7: "Hodges, J., Hornberger, M., & Piguet, O. (2013). Anterograde memory in frontotemporal dementia. https://doi.org/10.4324/9781315851730-18"
+doi: https://doi.org/10.4324/9781315851730-18
 appearances:
   - unit: FXA101
     week: "03"

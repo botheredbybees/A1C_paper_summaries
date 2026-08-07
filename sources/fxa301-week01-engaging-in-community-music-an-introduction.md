@@ -7,13 +7,15 @@ doi: null
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["community-music", "fxa301", "inclusive-education", "participatory-music-making", "social-emotional-learning", "strategic-leadership"]
+  - unit: FXA100
+    week: "04"
+tags: ["community-music", "fxa301", "inclusive-education", "participatory-music-making", "social-emotional-learning", "strategic-leadership", "fxa100"]
 key_concepts: ["participatory-music-making", "strategic-leadership"]
 methods: ["case-study"]
 slug: fxa301-week01-engaging-in-community-music-an-introduction
 related: ["community-music", "inclusive-education", "social-emotional-learning"]
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-week01-engaging-in-community-music-an-introduction.md_

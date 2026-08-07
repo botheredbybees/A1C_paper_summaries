@@ -1,13 +1,14 @@
 ---
 type: tag
 tag: memory-loss
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Memory Loss
 
 - [Memory: Inner or Outer?](../sources/fxa100-how-we-thnk-about-dementia-ch06-chapter-3.md)
 - [What is Alzheimer\u2019s Disease \u2013 Video Transcript](../sources/fxa100-week01-what-is-alzheimers-disease-video-transcript.md)
+- [Music & Memory: The iPod Project \u2013 video transcript](../sources/fxa100-week03-music-memory-the-ipod-project-video-transcript-%283%29.md)
 - [The Music of Memory: Victoria Williamson TEDMED \u2013 Video transcript](../sources/fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video.md)
 - [Photography Session with Mary Stringer](../sources/fxa100-week07-transcript-youtube-qvnfj1otdyc.md)
 - [Art Therapy for Alzheimer's Patients: The Memories in the Making Program](../sources/fxa100-week08-transcript-youtube-l3cci-2kwkk.md)

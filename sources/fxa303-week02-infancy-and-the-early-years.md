@@ -11,7 +11,7 @@ tags: ["early-childhood-development", "brain-plasticity", "play-therapy", "neuro
 key_concepts: ["tummy-time", "foundational-learning-abilities", "safe-and-stimulating-environments"]
 methods: ["case-study"]
 slug: fxa303-week02-infancy-and-the-early-years
-related: ["brain-plasticity", "cognitive-growth", "early-childhood-development", "play-therapy"]
+related: ["brain-plasticity", "cognitive-growth", "early-childhood-development", "play-therapy-in-child-development"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,4 +46,4 @@ The document focuses on the critical period of early childhood development, emph
 - [brain-plasticity](../topics/brain-plasticity.md)
 - [cognitive-growth](../topics/cognitive-growth.md)
 - [early-childhood-development](../topics/early-childhood-development.md)
-- [play-therapy](../topics/play-therapy.md)
+- [play-therapy-in-child-development](../topics/play-therapy-in-child-development.md)

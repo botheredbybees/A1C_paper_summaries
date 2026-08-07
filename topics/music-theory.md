@@ -6,8 +6,9 @@ confidence: medium
 tags: ["music-theory"]
 sources:
   - fxa300-week03-consonance-and-pitch
+  - fxa300-week04-dynamic-dualism-kurth-and-riemann-on-music-theory-and-the
   - fxa300-week04-lesson-fxa300-week04-page-3-1
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Music Theory
@@ -27,4 +28,5 @@ The sources provide insights into various aspects of music theory, focusing on f
 ## Sources
 
 - [fxa300-week03-consonance-and-pitch](../sources/fxa300-week03-consonance-and-pitch.md)
+- [fxa300-week04-dynamic-dualism-kurth-and-riemann-on-music-theory-and-the](../sources/fxa300-week04-dynamic-dualism-kurth-and-riemann-on-music-theory-and-the.md)
 - [fxa300-week04-lesson-fxa300-week04-page-3-1](../sources/fxa300-week04-lesson-fxa300-week04-page-3-1.md)

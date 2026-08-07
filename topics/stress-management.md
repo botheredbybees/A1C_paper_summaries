@@ -14,6 +14,7 @@ sources:
   - psy214-week01-coping-in-stress-self-care-and-mindfulness
   - psy214-week01-coping-notes-slides
   - psy214-week01-lesson-psy214-week01-is-stress-all-bad
+  - psy214-week01-lesson-psy214-week01-stress-20as-20a-20psychological
   - psy214-week01-lesson-psy214-week01-week-1-wrap-up
   - psy214-week01-the-transactional-model-of-stress-and-coping
   - psy214-week02-hedonia-and-eudaimonia
@@ -21,13 +22,30 @@ sources:
   - psy214-week02-lesson-psy214-week02-wrap-up
   - psy214-week02-positive-emotions-and-well-being
   - psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop
+  - psy214-week03-lesson-psy214-week03-academic-integrity-generative
+  - psy214-week03-lesson-psy214-week03-at3-workbook-assessment-workshop
+  - psy214-week03-lesson-psy214-week03-at4-presentation-assessment
+  - psy214-week03-lesson-psy214-week03-introduction
+  - psy214-week03-lesson-psy214-week03-making-sense-of-evidence
+  - psy214-week03-lesson-psy214-week03-presentation-assignment-workshop
   - psy214-week04-lesson-psy214-week04-test
   - psy214-week04-lesson-psy214-week04-week-4-wrap-up-2
+  - psy214-week05-lesson-psy214-week05-formal-relaxation
+  - psy214-week05-lesson-psy214-week05-relaxation-brief-breathing
+  - psy214-week05-lesson-psy214-week05-relaxation-informal
+  - psy214-week05-lesson-psy214-week05-sleep-and-health
+  - psy214-week05-lesson-psy214-week05-sleep-sleep-hygiene-approaches
+  - psy214-week05-technology-and-sleep-displacement-slides-full
+  - psy214-week07-an-adapted-four-week-mindbody-skills-group-for-medical
+  - psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on
+  - psy214-week07-mindfulness-and-acceptance-based-trainings-for-fostering
+  - psy214-week07-mindfulness-as-a-self-care-strategy-for-healthcare
+  - psy214-week07-teaching-mindfulness-techniques-to-behavioral-health-care
 tags:
 - stress-management
 title: Stress Management Interventions
 type: topic
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Stress Management Interventions
@@ -57,6 +75,7 @@ The exploration of stress management interventions across multiple sources highl
 - [psy214-week01-coping-in-stress-self-care-and-mindfulness](../sources/psy214-week01-coping-in-stress-self-care-and-mindfulness.md)
 - [psy214-week01-coping-notes-slides](../sources/psy214-week01-coping-notes-slides.md)
 - [psy214-week01-lesson-psy214-week01-is-stress-all-bad](../sources/psy214-week01-lesson-psy214-week01-is-stress-all-bad.md)
+- [psy214-week01-lesson-psy214-week01-stress-20as-20a-20psychological](../sources/psy214-week01-lesson-psy214-week01-stress-20as-20a-20psychological.md)
 - [psy214-week01-lesson-psy214-week01-week-1-wrap-up](../sources/psy214-week01-lesson-psy214-week01-week-1-wrap-up.md)
 - [psy214-week01-the-transactional-model-of-stress-and-coping](../sources/psy214-week01-the-transactional-model-of-stress-and-coping.md)
 - [psy214-week02-hedonia-and-eudaimonia](../sources/psy214-week02-hedonia-and-eudaimonia.md)
@@ -64,5 +83,22 @@ The exploration of stress management interventions across multiple sources highl
 - [psy214-week02-lesson-psy214-week02-wrap-up](../sources/psy214-week02-lesson-psy214-week02-wrap-up.md)
 - [psy214-week02-positive-emotions-and-well-being](../sources/psy214-week02-positive-emotions-and-well-being.md)
 - [psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop](../sources/psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop.md)
+- [psy214-week03-lesson-psy214-week03-academic-integrity-generative](../sources/psy214-week03-lesson-psy214-week03-academic-integrity-generative.md)
+- [psy214-week03-lesson-psy214-week03-at3-workbook-assessment-workshop](../sources/psy214-week03-lesson-psy214-week03-at3-workbook-assessment-workshop.md)
+- [psy214-week03-lesson-psy214-week03-at4-presentation-assessment](../sources/psy214-week03-lesson-psy214-week03-at4-presentation-assessment.md)
+- [psy214-week03-lesson-psy214-week03-introduction](../sources/psy214-week03-lesson-psy214-week03-introduction.md)
+- [psy214-week03-lesson-psy214-week03-making-sense-of-evidence](../sources/psy214-week03-lesson-psy214-week03-making-sense-of-evidence.md)
+- [psy214-week03-lesson-psy214-week03-presentation-assignment-workshop](../sources/psy214-week03-lesson-psy214-week03-presentation-assignment-workshop.md)
 - [psy214-week04-lesson-psy214-week04-test](../sources/psy214-week04-lesson-psy214-week04-test.md)
 - [psy214-week04-lesson-psy214-week04-week-4-wrap-up-2](../sources/psy214-week04-lesson-psy214-week04-week-4-wrap-up-2.md)
+- [psy214-week05-lesson-psy214-week05-formal-relaxation](../sources/psy214-week05-lesson-psy214-week05-formal-relaxation.md)
+- [psy214-week05-lesson-psy214-week05-relaxation-brief-breathing](../sources/psy214-week05-lesson-psy214-week05-relaxation-brief-breathing.md)
+- [psy214-week05-lesson-psy214-week05-relaxation-informal](../sources/psy214-week05-lesson-psy214-week05-relaxation-informal.md)
+- [psy214-week05-lesson-psy214-week05-sleep-and-health](../sources/psy214-week05-lesson-psy214-week05-sleep-and-health.md)
+- [psy214-week05-lesson-psy214-week05-sleep-sleep-hygiene-approaches](../sources/psy214-week05-lesson-psy214-week05-sleep-sleep-hygiene-approaches.md)
+- [psy214-week05-technology-and-sleep-displacement-slides-full](../sources/psy214-week05-technology-and-sleep-displacement-slides-full.md)
+- [psy214-week07-an-adapted-four-week-mindbody-skills-group-for-medical](../sources/psy214-week07-an-adapted-four-week-mindbody-skills-group-for-medical.md)
+- [psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on](../sources/psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on.md)
+- [psy214-week07-mindfulness-and-acceptance-based-trainings-for-fostering](../sources/psy214-week07-mindfulness-and-acceptance-based-trainings-for-fostering.md)
+- [psy214-week07-mindfulness-as-a-self-care-strategy-for-healthcare](../sources/psy214-week07-mindfulness-as-a-self-care-strategy-for-healthcare.md)
+- [psy214-week07-teaching-mindfulness-techniques-to-behavioral-health-care](../sources/psy214-week07-teaching-mindfulness-techniques-to-behavioral-health-care.md)

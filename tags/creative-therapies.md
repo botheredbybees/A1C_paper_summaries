@@ -1,13 +1,14 @@
 ---
 type: tag
 tag: creative-therapies
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Creative Therapies
 
 - [Creative Arts in Dementia Care](../sources/fxa100-the-creative-arts-in-dementia-care.md)
 - [Why the Arts?](../sources/fxa100-week08-why-the-arts.md)
+- [Why the Arts?](../sources/fxa100-week08-why-the-arts-%282%29.md)
 - [What is Drama Therapy?](../sources/fxa100-week09-web-article-north-2021.md)
 - [Well Done for Completing This Semester](../sources/fxa100-week12-lesson-fxa100-week12-page-3-thank-you-and-well-done.md)
 - [Can Photography Help Depression?](../sources/fxa202-week03-can-photography-help-depression.md)

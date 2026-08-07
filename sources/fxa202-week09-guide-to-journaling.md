@@ -11,7 +11,7 @@ tags: ["journaling-for-wellbeing", "emotional-processing", "self-discovery-strat
 key_concepts: ["expressive writing", "self-awareness", "therapeutic journaling", "mental well-being"]
 methods: ["case study"]
 slug: fxa202-week09-guide-to-journaling
-related: ["emotional-processing", "expressive-writing-therapy"]
+related: ["emotional-processing", "expressive-writing"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,4 +46,4 @@ The document 'Guide to Journaling' emphasizes the importance of journaling as a 
 ## See Also
 
 - [emotional-processing](../topics/emotional-processing.md)
-- [expressive-writing-therapy](../topics/expressive-writing-therapy.md)
+- [expressive-writing](../topics/expressive-writing.md)

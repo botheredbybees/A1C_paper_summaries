@@ -1,27 +1,27 @@
 ---
 type: topic
-domain: "intervention"
-title: "Case For Support Documents"
+domain: "method"
+title: "Case for Support Document"
 confidence: medium
 tags: ["case-for-support-document"]
 sources:
   - fxa301-arts-in-health-ch43-1-collaborative-design
-updated: 2026-05-16
+updated: 2026-08-07
 ---
 
-## Case For Support Documents
+## Case for Support Document
 
-The case for support document is a critical tool used in arts and health projects to articulate the necessity and potential impact of proposed initiatives. It serves as a bridge between stakeholders, including funders and project partners, by providing clear and compelling information about the objectives, strategies, and expected outcomes of a project. This document often includes various components such as an executive summary, introduction, rationale for funding, detailed descriptions of activities and methods, budget breakdowns, timelines, and evaluation plans. The development of these documents requires collaborative efforts between multiple stakeholders to ensure that all aspects are well-considered and communicated effectively.
+The synthesis of sources on the 'case-for-support-document' reveals a critical methodology in securing funding and support for arts and health projects. Sources emphasize the importance of comprehensive project briefs that clearly articulate objectives, budgets, and impacts, often including elements like case studies or endorsements to strengthen proposals. However, there is variability in how detailed these documents need to be depending on the context and audience (e.g., academic versus community stakeholders). The development process involves collaborative efforts between various partners to ensure thoroughness and relevance. Despite its significance, less guidance is available on standardizing formats across different contexts or evaluating their effectiveness systematically.
 
 ## Key Findings
 
-- Case for support documents are pivotal in arts and health projects.
-- They require collaboration among various stakeholders to be effective.
-- Components like rationale, activities, budget, and evaluation plans are crucial.
+- Case for support documents play a crucial role in securing funding for arts and health initiatives by providing detailed project briefs.
+- Collaboration among partners enhances the quality and relevance of these documents, but this requires effective communication and coordination.
+- The structure and content of case for support documents may vary based on the intended audience and purpose.
 
 ## Open Questions
 
-- How can the case for support document be adapted for diverse funding sources?
+- What are the best practices for standardizing the format of case for support documents across diverse contexts?
 
 ## Sources
 

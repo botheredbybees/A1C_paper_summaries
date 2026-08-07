@@ -11,7 +11,7 @@ tags: ["emergency-dental-care", "pediatric-psychology", "play-therapy", "behavio
 key_concepts: ["puppet-play-therapy", "tell-show-do", "venham-anxiety-rating-scale"]
 methods: ["randomized-clinical-trial"]
 slug: fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic
-related: ["anxiety-reduction", "pediatric-psychology", "play-therapy"]
+related: ["anxiety-reduction", "pediatric-psychology", "play-therapy-in-child-development"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,4 +45,4 @@ This study explores the efficacy of puppet play therapy (PPT) compared to tell-s
 
 - [anxiety-reduction](../topics/anxiety-reduction.md)
 - [pediatric-psychology](../topics/pediatric-psychology.md)
-- [play-therapy](../topics/play-therapy.md)
+- [play-therapy-in-child-development](../topics/play-therapy-in-child-development.md)

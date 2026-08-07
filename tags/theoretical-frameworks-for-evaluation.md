@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: theoretical-frameworks-for-evaluation
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Theoretical Frameworks For Evaluation

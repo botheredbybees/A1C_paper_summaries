@@ -12,15 +12,17 @@ sources:
   - fxa101-week03-increased-engagement-of-the-cognitive-control-network
   - fxa300-week01-what-we-know-currently-about-mirror-neurons
   - fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession
+  - fxa300-week02-what-is-damasios-efc-framework-and-what-three-stages-of
   - fxa301-week01-transcript-two-minute-neuroscience-reward-system
   - fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community
   - fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community
   - fxa303-week02-lesson-fxa303-week02-introduction
+  - psy214-week05-transcript-to-sleep-perchance-to-dream
 tags:
 - neuroscience
 title: Neuroscience Of Cognitive Disorders And Rhythmic Behavior
 type: topic
-updated: 2026-07-20
+updated: 2026-08-07
 ---
 
 ## Neuroscience Of Cognitive Disorders And Rhythmic Behavior
@@ -48,7 +50,9 @@ The discussion revolves around the understanding of cognitive disorders such as 
 - [fxa101-week03-increased-engagement-of-the-cognitive-control-network](../sources/fxa101-week03-increased-engagement-of-the-cognitive-control-network.md)
 - [fxa300-week01-what-we-know-currently-about-mirror-neurons](../sources/fxa300-week01-what-we-know-currently-about-mirror-neurons.md)
 - [fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession](../sources/fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession.md)
+- [fxa300-week02-what-is-damasios-efc-framework-and-what-three-stages-of](../sources/fxa300-week02-what-is-damasios-efc-framework-and-what-three-stages-of.md)
 - [fxa301-week01-transcript-two-minute-neuroscience-reward-system](../sources/fxa301-week01-transcript-two-minute-neuroscience-reward-system.md)
 - [fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community](../sources/fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community.md)
 - [fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community](../sources/fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community.md)
 - [fxa303-week02-lesson-fxa303-week02-introduction](../sources/fxa303-week02-lesson-fxa303-week02-introduction.md)
+- [psy214-week05-transcript-to-sleep-perchance-to-dream](../sources/psy214-week05-transcript-to-sleep-perchance-to-dream.md)

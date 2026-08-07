@@ -7,11 +7,11 @@ doi: https://doi.org/10.1186/s12916-023-03226-6
 appearances:
   - unit: FXA303
     week: "03"
-tags: ["youth-mental-health", "arts-based-strategies", "global-health-initiatives", "cultural-practices", "community-engagement", "fxa303"]
+tags: ["arts-and-culture-based-interventions", "arts-based-strategies", "community-engagement", "cultural-practices", "fxa303", "global-health-initiatives", "youth-mental-health"]
 key_concepts: ["mental health disorders in youth", "arts-and-culture-based interventions", "elevating youth voice"]
 methods: ["systematic review"]
 slug: fxa303-week03-supporting-youth-mental-health-with-arts-based-strategies-a
-related: ["arts-based-strategies", "community-engagement", "cultural-practices", "youth-mental-health"]
+related: ["arts-based-strategies", "arts-based-strategies-for-youth-mental-health", "community-engagement", "cultural-practices", "youth-mental-health"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -28,8 +28,8 @@ Furthermore, the article explores mechanisms behind the effectiveness of arts-ba
 
 ## Key Concepts
 
-- [mental health disorders in youth](../topics/arts-and-culture-based-interventions.md)
-- [arts-and-culture-based interventions](../topics/arts-and-culture-based-interventions.md)
+- [mental health disorders in youth](../topics/arts-based-strategies-for-youth-mental-health.md)
+- [arts-and-culture-based interventions](../topics/arts-based-strategies-for-youth-mental-health.md)
 - [elevating youth voice](../topics/elevating-youth-voice.md)
 
 ## Tags
@@ -48,6 +48,7 @@ Furthermore, the article explores mechanisms behind the effectiveness of arts-ba
 ## See Also
 
 - [arts-based-strategies](../topics/arts-based-strategies.md)
+- [arts-based-strategies-for-youth-mental-health](../topics/arts-based-strategies-for-youth-mental-health.md)
 - [community-engagement](../topics/community-engagement.md)
 - [cultural-practices](../topics/cultural-practices.md)
 - [youth-mental-health](../topics/youth-mental-health.md)

@@ -7,11 +7,11 @@ doi: https://doi.org/10.1007/s00431-022-04440-9
 appearances:
   - unit: FXA303
     week: "08"
-tags: ["clown-therapy", "procedural-pain-management", "pediatric-care", "non-pharmacological-interventions", "systematic-review", "fxa303"]
+tags: ["clown-therapy", "cognitive-stimulation-therapy", "fxa303", "non-pharmacological-interventions", "pediatric-care", "procedural-pain-management", "systematic-review"]
 key_concepts: ["clown therapy", "procedural pain", "anxiety reduction"]
 methods: ["systematic review", "meta-analysis"]
 slug: fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic
-related: ["clown-therapy", "cognitive-stimulation-therapy", "pediatric-care", "systematic-review"]
+related: ["clown-therapy", "cognitive-stimulation-therapy", "music-therapy-in-dementia-care", "pediatric-care", "systematic-review"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,5 +46,6 @@ This systematic review and meta-analysis evaluates the effectiveness of clown th
 
 - [clown-therapy](../topics/clown-therapy.md)
 - [cognitive-stimulation-therapy](../topics/cognitive-stimulation-therapy.md)
+- [music-therapy-in-dementia-care](../topics/music-therapy-in-dementia-care.md)
 - [pediatric-care](../topics/pediatric-care.md)
 - [systematic-review](../topics/systematic-review.md)

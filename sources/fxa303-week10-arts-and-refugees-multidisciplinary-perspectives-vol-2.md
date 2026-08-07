@@ -7,13 +7,15 @@ doi: https://doi.org/10.3390/arts13010040
 appearances:
   - unit: FXA303
     week: "10"
-tags: ["arts-refugees", "social-participation", "cultural-integration", "gender-dynamics", "therapeutic-arts", "fxa303"]
+  - unit: FXA301
+    week: "11"
+tags: ["arts-refugees", "social-participation", "cultural-integration", "gender-dynamics", "therapeutic-arts", "fxa303", "fxa301"]
 key_concepts: ["refugee integration", "multidisciplinary perspectives", "alternative aesthetic norms"]
 methods: ["case study"]
 slug: fxa303-week10-arts-and-refugees-multidisciplinary-perspectives-vol-2
 related: ["cultural-integration", "gender-dynamics", "social-participation", "therapeutic-arts"]
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week10-arts-and-refugees-multidisciplinary-perspectives-vol-2.md_

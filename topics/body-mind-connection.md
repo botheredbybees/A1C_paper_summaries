@@ -6,8 +6,9 @@ confidence: medium
 tags: ["body-mind-connection"]
 sources:
   - fxa100-how-we-thnk-about-dementia-ch10-chapter-5
+  - fxa300-week05-from-body-to-mind-decoding-emotional-experiences-at-music
   - fxa303-trauma-and-expressive-arts-ch05-chapter-9
-updated: 2026-05-18
+updated: 2026-08-07
 ---
 
 ## Body-Mind Connection in Health and Therapy
@@ -27,4 +28,5 @@ The concept of the body-mind connection is explored across two distinct therapeu
 ## Sources
 
 - [fxa100-how-we-thnk-about-dementia-ch10-chapter-5](../sources/fxa100-how-we-thnk-about-dementia-ch10-chapter-5.md)
+- [fxa300-week05-from-body-to-mind-decoding-emotional-experiences-at-music](../sources/fxa300-week05-from-body-to-mind-decoding-emotional-experiences-at-music.md)
 - [fxa303-trauma-and-expressive-arts-ch05-chapter-9](../sources/fxa303-trauma-and-expressive-arts-ch05-chapter-9.md)

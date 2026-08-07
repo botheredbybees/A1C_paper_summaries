@@ -4,20 +4,25 @@ domain: method
 slug: qualitative-research-in-health-and-well-being-interventions
 sources:
   - fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the
+  - fxa100-week08-enhancing-communication-between-dementia-care-staff-and
   - fxa100-week08-what-are-the-required-elements-needed-to-create-an
   - fxa100-week12-in-the-moment-with-music-an-exploration-of-the-embodied-and
   - fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a
   - fxa100-week13-knowledge-and-health-beliefs-about-dementia-prevention
   - fxa100-week13-music-interventions-for-people-with-dementia-a-review-of
+  - fxa100-week13-shall-i-compare-thee-to-a-dose-of-donepezil-cultural-arts
   - fxa101-week03-arts-based-educational-research-in-the-early-years
   - fxa202-the-handbook-of-phototherapy-ch02-12-the-earlier-stages
   - fxa202-the-handbook-of-phototherapy-ch03-chapter-2
   - fxa300-week01-negative-emotion-in-music-what-is-the-attraction-a
+  - fxa300-week05-excellent-for-mind-body-and-spirit-participant-facilitator
+  - fxa300-week05-exploring-musical-preferences-an-in-depth-qualitative-study
   - fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10
   - fxa301-week01-lesson-fxa301-week01-page-1-hm
   - fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and
   - fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental
   - fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using
+  - fxa301-week10-community-art-therapy-cat-learning-from-art-therapy
   - fxa301-week11-fine-arts-participation-self-determination-and-locus-of
   - fxa303-week01-teachers-perspectives-on-providing-support-to-children
   - fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact
@@ -32,7 +37,7 @@ tags:
 - qualitative-research
 title: Qualitative Research in Health and Well-being Interventions
 type: topic
-updated: 2026-07-20
+updated: 2026-08-07
 ---
 
 ## Qualitative Research in Health and Well-being Interventions
@@ -52,20 +57,25 @@ The sources collectively highlight the importance of qualitative research method
 ## Sources
 
 - [fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the](../sources/fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the.md)
+- [fxa100-week08-enhancing-communication-between-dementia-care-staff-and](../sources/fxa100-week08-enhancing-communication-between-dementia-care-staff-and.md)
 - [fxa100-week08-what-are-the-required-elements-needed-to-create-an](../sources/fxa100-week08-what-are-the-required-elements-needed-to-create-an.md)
 - [fxa100-week12-in-the-moment-with-music-an-exploration-of-the-embodied-and](../sources/fxa100-week12-in-the-moment-with-music-an-exploration-of-the-embodied-and.md)
 - [fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a](../sources/fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a.md)
 - [fxa100-week13-knowledge-and-health-beliefs-about-dementia-prevention](../sources/fxa100-week13-knowledge-and-health-beliefs-about-dementia-prevention.md)
 - [fxa100-week13-music-interventions-for-people-with-dementia-a-review-of](../sources/fxa100-week13-music-interventions-for-people-with-dementia-a-review-of.md)
+- [fxa100-week13-shall-i-compare-thee-to-a-dose-of-donepezil-cultural-arts](../sources/fxa100-week13-shall-i-compare-thee-to-a-dose-of-donepezil-cultural-arts.md)
 - [fxa101-week03-arts-based-educational-research-in-the-early-years](../sources/fxa101-week03-arts-based-educational-research-in-the-early-years.md)
 - [fxa202-the-handbook-of-phototherapy-ch02-12-the-earlier-stages](../sources/fxa202-the-handbook-of-phototherapy-ch02-12-the-earlier-stages.md)
 - [fxa202-the-handbook-of-phototherapy-ch03-chapter-2](../sources/fxa202-the-handbook-of-phototherapy-ch03-chapter-2.md)
 - [fxa300-week01-negative-emotion-in-music-what-is-the-attraction-a](../sources/fxa300-week01-negative-emotion-in-music-what-is-the-attraction-a.md)
+- [fxa300-week05-excellent-for-mind-body-and-spirit-participant-facilitator](../sources/fxa300-week05-excellent-for-mind-body-and-spirit-participant-facilitator.md)
+- [fxa300-week05-exploring-musical-preferences-an-in-depth-qualitative-study](../sources/fxa300-week05-exploring-musical-preferences-an-in-depth-qualitative-study.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10](../sources/fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10.md)
 - [fxa301-week01-lesson-fxa301-week01-page-1-hm](../sources/fxa301-week01-lesson-fxa301-week01-page-1-hm.md)
 - [fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and](../sources/fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and.md)
 - [fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental](../sources/fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental.md)
 - [fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using](../sources/fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using.md)
+- [fxa301-week10-community-art-therapy-cat-learning-from-art-therapy](../sources/fxa301-week10-community-art-therapy-cat-learning-from-art-therapy.md)
 - [fxa301-week11-fine-arts-participation-self-determination-and-locus-of](../sources/fxa301-week11-fine-arts-participation-self-determination-and-locus-of.md)
 - [fxa303-week01-teachers-perspectives-on-providing-support-to-children](../sources/fxa303-week01-teachers-perspectives-on-providing-support-to-children.md)
 - [fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact](../sources/fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact.md)

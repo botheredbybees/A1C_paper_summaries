@@ -5,9 +5,10 @@ title: "Visual Art and Neurological Impact"
 confidence: medium
 tags: ["visual-art"]
 sources:
+  - fxa100-week06-some-workmen-can-blame-their-tools-artistic-change-in-an-(2)
   - fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the
   - fxa303-week11-hidden-identities-and-concealed-dangers-visual-art
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Visual Art and Neurological Impact
@@ -26,5 +27,6 @@ The integration of visual art with neurological processes highlights the multifa
 
 ## Sources
 
+- [fxa100-week06-some-workmen-can-blame-their-tools-artistic-change-in-an-(2)](../sources/fxa100-week06-some-workmen-can-blame-their-tools-artistic-change-in-an-%282%29.md)
 - [fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the](../sources/fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the.md)
 - [fxa303-week11-hidden-identities-and-concealed-dangers-visual-art](../sources/fxa303-week11-hidden-identities-and-concealed-dangers-visual-art.md)

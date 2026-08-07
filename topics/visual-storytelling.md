@@ -9,8 +9,11 @@ sources:
   - fxa202-week02-60-inspiring-examples-of-black-and-white-photography
   - fxa202-week02-lesson-fxa202-week02-page-4
   - fxa202-week02-negative-space-in-photography-and-positive-space
+  - fxa202-week02-out-of-focuson-purpose
   - fxa202-week02-photography-tips-point-of-view-composition
   - fxa202-week02-street-photography-composition-lesson-12-color-theory
+  - fxa202-week02-week-4-lecture-storytelling-with-image-and-text
+  - fxa202-week03-a-healing-journey
   - fxa202-week05-introduction-to-visual-storytelling
   - fxa202-week05-lesson-fxa202-week05-chapter-2-beginnings-and-endings
   - fxa202-week05-lesson-fxa202-week05-page-4
@@ -32,7 +35,7 @@ tags:
 - visual-storytelling
 title: Visual Storytelling in Photography
 type: topic
-updated: 2026-05-15
+updated: 2026-08-07
 ---
 
 ## Visual Storytelling in Photography
@@ -57,8 +60,11 @@ The provided sources collectively explore the rich narrative potential of visual
 - [fxa202-week02-60-inspiring-examples-of-black-and-white-photography](../sources/fxa202-week02-60-inspiring-examples-of-black-and-white-photography.md)
 - [fxa202-week02-lesson-fxa202-week02-page-4](../sources/fxa202-week02-lesson-fxa202-week02-page-4.md)
 - [fxa202-week02-negative-space-in-photography-and-positive-space](../sources/fxa202-week02-negative-space-in-photography-and-positive-space.md)
+- [fxa202-week02-out-of-focuson-purpose](../sources/fxa202-week02-out-of-focuson-purpose.md)
 - [fxa202-week02-photography-tips-point-of-view-composition](../sources/fxa202-week02-photography-tips-point-of-view-composition.md)
 - [fxa202-week02-street-photography-composition-lesson-12-color-theory](../sources/fxa202-week02-street-photography-composition-lesson-12-color-theory.md)
+- [fxa202-week02-week-4-lecture-storytelling-with-image-and-text](../sources/fxa202-week02-week-4-lecture-storytelling-with-image-and-text.md)
+- [fxa202-week03-a-healing-journey](../sources/fxa202-week03-a-healing-journey.md)
 - [fxa202-week05-introduction-to-visual-storytelling](../sources/fxa202-week05-introduction-to-visual-storytelling.md)
 - [fxa202-week05-lesson-fxa202-week05-chapter-2-beginnings-and-endings](../sources/fxa202-week05-lesson-fxa202-week05-chapter-2-beginnings-and-endings.md)
 - [fxa202-week05-lesson-fxa202-week05-page-4](../sources/fxa202-week05-lesson-fxa202-week05-page-4.md)

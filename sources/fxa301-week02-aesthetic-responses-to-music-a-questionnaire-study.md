@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Aesthetic Responses to Music: A Questionnaire Study"
-apa7: "Ist\u00f3k, E., Brattico, E., Jacobsen, T., Krohn, K., M\u00fcller, M., & Tervaniemi, M. (2009). Aesthetic responses to music: A questionnaire study. *Music Perception*, 26(3), 183-195."
-doi: https://doi.org/10.1525/mp.2009.26.3.183
+apa7: "Istók, E., Brattico, E., Jacobsen, T., Krohn, K., Müller, M., & Tervaniemi, M. (2009). Aesthetic responses to music: A questionnaire study. https://doi.org/10.1177/102986490901300201"
+doi: https://doi.org/10.1177/102986490901300201
 appearances:
   - unit: FXA301
     week: "02"
@@ -11,7 +11,7 @@ tags: ["aesthetic-responses", "music-psychology", "questionnaire-study", "cognit
 key_concepts: ["aesthetic-experience", "verbal-association", "musical-beauty"]
 methods: ["questionnaire"]
 slug: fxa301-week02-aesthetic-responses-to-music-a-questionnaire-study
-related: ["music-psychology"]
+related: ["aesthetic-responses", "music-psychology"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,4 +42,5 @@ This article explores the cognitive and emotional dimensions underlying aestheti
 
 ## See Also
 
+- [aesthetic-responses](../topics/aesthetic-responses.md)
 - [music-psychology](../topics/music-psychology.md)

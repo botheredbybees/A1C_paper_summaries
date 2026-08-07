@@ -3,14 +3,17 @@ confidence: medium
 domain: intervention
 slug: wellbeing-enhancement-through-arts-and-music
 sources:
+  - fxa100-week07-evaluation-of-the-unforgettable-art-programme-by-people
   - fxa100-week08-research-informed-approaches-to-visual-arts-programmes
+  - fxa100-week08-why-the-arts-(2)
   - fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing
   - fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing
+  - fxa302-week07-impact-of-creative-workshops-for-people-with-severe-mental
 tags:
 - wellbeing-enhancement
 title: Wellbeing Enhancement Through Arts and Music
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Wellbeing Enhancement Through Arts and Music
@@ -29,6 +32,9 @@ Research demonstrates that arts and music interventions significantly enhance we
 
 ## Sources
 
+- [fxa100-week07-evaluation-of-the-unforgettable-art-programme-by-people](../sources/fxa100-week07-evaluation-of-the-unforgettable-art-programme-by-people.md)
 - [fxa100-week08-research-informed-approaches-to-visual-arts-programmes](../sources/fxa100-week08-research-informed-approaches-to-visual-arts-programmes.md)
+- [fxa100-week08-why-the-arts-(2)](../sources/fxa100-week08-why-the-arts-%282%29.md)
 - [fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing](../sources/fxa301-week03-creating-our-future-spotlight-on-health-and-wellbeing.md)
 - [fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing](../sources/fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing.md)
+- [fxa302-week07-impact-of-creative-workshops-for-people-with-severe-mental](../sources/fxa302-week07-impact-of-creative-workshops-for-people-with-severe-mental.md)

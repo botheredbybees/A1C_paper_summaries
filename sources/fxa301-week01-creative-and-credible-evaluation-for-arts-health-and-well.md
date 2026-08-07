@@ -7,13 +7,15 @@ doi: https://doi.org/10.1080/17533015.2016.1206948
 appearances:
   - unit: FXA301
     week: "01"
-tags: ["arts-and-health", "co-production", "evaluation-practices", "fxa301", "health-policy", "stakeholder-engagement", "standardized-evaluation-frameworks"]
+  - unit: FXA100
+    week: "04"
+tags: ["arts-and-health", "co-production", "evaluation-practices", "fxa301", "health-policy", "stakeholder-engagement", "standardized-evaluation-frameworks", "fxa100"]
 key_concepts: ["co-production", "standardized-evaluation-frameworks"]
 methods: ["survey", "interview", "focus-group"]
 slug: fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well
 related: ["arts-and-health", "co-production", "health-policy", "stakeholder-engagement"]
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-week01-creative-and-credible-evaluation-for-arts-health-and-well.md_

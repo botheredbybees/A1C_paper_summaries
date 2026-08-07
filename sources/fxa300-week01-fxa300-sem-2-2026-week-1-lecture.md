@@ -11,7 +11,7 @@ tags: ["music-psychology", "neuroscience-music", "well-being-research", "fxa300"
 key_concepts: ["earworms", "musical-empathy", "emotional-contagion"]
 methods: ["case-study-analysis", "discussion-forums"]
 slug: fxa300-week01-fxa300-sem-2-2026-week-1-lecture
-related: ["earworms", "emotional-contagion", "music-psychology", "well-being-research"]
+related: ["earworms", "emotional-contagion", "music-and-brain", "music-psychology", "musical-empathy", "well-being-research"]
 created: 2026-07-06
 updated: 2026-07-06
 ---
@@ -45,5 +45,7 @@ The document provides an introductory lecture for the course 'FXA300 – Music, 
 
 - [earworms](../topics/earworms.md)
 - [emotional-contagion](../topics/emotional-contagion.md)
+- [music-and-brain](../topics/music-and-brain.md)
 - [music-psychology](../topics/music-psychology.md)
+- [musical-empathy](../topics/musical-empathy.md)
 - [well-being-research](../topics/well-being-research.md)

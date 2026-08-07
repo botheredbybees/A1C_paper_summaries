@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: community-wellbeing
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Community Wellbeing
@@ -15,6 +15,8 @@ updated: 2026-07-28
 - [The Role of the Arts in Healthcare: Transforming Lives, Creating Community](../sources/fxa301-week03-the-role-of-the-arts-in-healthcare-transforming-lives.md)
 - [Web Lecture 3 - Arts in the Community for Health and Wellbeing](../sources/fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing.md)
 - [Week 3 Introduction: Arts in the Community for Health and Wellbeing](../sources/fxa301-week03-week-3-introduction-arts-in-the-community-for-health-and.md)
+- [Week 3 Introduction - Policy around Arts, Health, and Wellbeing](../sources/fxa301-week03-week-3-introduction-policy-around-arts-health-and-wellbeing.md)
 - [Museums as Spaces for Wellbeing: A Second Report from the National Alliance for Museums, Health and Wellbeing](../sources/fxa301-week05-museums-as-spaces-for-wellbeing-a-second-report-from-the.md)
 - [Engaging with Music and Dance in Community Settings](../sources/fxa301-week06-lesson-fxa301-week06-page-1.md)
 - [Creative Writing Workshop Experiences in Jurby, Isle of Man](../sources/fxa301-week08-transcript-the-video-below-relates-the-experiences-of.md)
+- [Week 8 Lecture on Applying Theatre and Literature for Health Benefits](../sources/fxa301-week08-week-8-lecture-on-applying-theatre-and-literature-for.md)

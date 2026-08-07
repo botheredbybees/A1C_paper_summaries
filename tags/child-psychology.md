@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: child-psychology
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Child Psychology
@@ -21,4 +21,6 @@ updated: 2026-07-28
 - [Puppet-Assisted Play Therapy: Theory, Research, and Practice](../sources/fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice.md)
 - [The effect of a hand puppet-based therapeutic play for preschool children on the fear and pain associated with blood collection procedure](../sources/fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for.md)
 - [Time for Tony the Turtle: Experiences with the use of a hand puppet in a program for young children in domestic violence shelters](../sources/fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand.md)
+- [Art therapy with children and adolescents experiencing acute or severe mental health conditions: A systematic review](../sources/fxa303-week09-art-therapy-with-children-and-adolescents-experiencing.md)
 - [The effect of Gestalt play therapy in addressing symptoms associated with trauma in children in middle childhood](../sources/fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms.md)
+- [The Function of Play for Coping and Therapy with Children Exposed to Disasters and Political Violence](../sources/fxa303-week09-the-function-of-play-for-coping-and-therapy-with-children.md)

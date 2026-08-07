@@ -3,6 +3,7 @@ confidence: medium
 domain: intervention
 slug: neurorehabilitation-through-dance-and-music
 sources:
+  - fxa100-week04-music-and-rehabilitation-neurological-approaches
   - fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait
   - fxa301-week09-stroke-choirs-stroke-recovery-association-nsw
   - fxa301-week11-art-therapy-for-individuals-with-traumatic-brain-injury-a
@@ -10,7 +11,7 @@ tags:
 - neurorehabilitation
 title: Neurorehabilitation Through Dance and Music
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Neurorehabilitation Through Dance and Music
@@ -29,6 +30,7 @@ The integration of dance and music into neurorehabilitation interventions highli
 
 ## Sources
 
+- [fxa100-week04-music-and-rehabilitation-neurological-approaches](../sources/fxa100-week04-music-and-rehabilitation-neurological-approaches.md)
 - [fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait](../sources/fxa301-week06-effects-of-a-ballet-based-dance-intervention-on-gait.md)
 - [fxa301-week09-stroke-choirs-stroke-recovery-association-nsw](../sources/fxa301-week09-stroke-choirs-stroke-recovery-association-nsw.md)
 - [fxa301-week11-art-therapy-for-individuals-with-traumatic-brain-injury-a](../sources/fxa301-week11-art-therapy-for-individuals-with-traumatic-brain-injury-a.md)

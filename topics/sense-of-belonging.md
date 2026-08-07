@@ -3,14 +3,16 @@ confidence: medium
 domain: intervention
 slug: sense-of-belonging
 sources:
-- fxa100-week04-what-is-singing-for-the-brain
-- fxa301-week06-brisbanes-pub-choir-movement-marks-first-year
-- fxa301-week08-transcript-arts-gymnasium-at-belgrade-theatre-coventry
+  - fxa100-week04-what-is-singing-for-the-brain
+  - fxa202-week03-critical-reflection-on-present-mindedness-and-mindfulness
+  - fxa202-week03-grace-rosevears-reflections-on-nature-and-belonging
+  - fxa301-week06-brisbanes-pub-choir-movement-marks-first-year
+  - fxa301-week08-transcript-arts-gymnasium-at-belgrade-theatre-coventry
 tags:
 - sense-of-belonging
 title: Sense Of Belonging
 type: topic
-updated: 2026-05-04
+updated: 2026-08-07
 ---
 
 ## Sense Of Belonging
@@ -30,5 +32,7 @@ The sources collectively highlight the role of music and communal singing in fos
 ## Sources
 
 - [fxa100-week04-what-is-singing-for-the-brain](../sources/fxa100-week04-what-is-singing-for-the-brain.md)
+- [fxa202-week03-critical-reflection-on-present-mindedness-and-mindfulness](../sources/fxa202-week03-critical-reflection-on-present-mindedness-and-mindfulness.md)
+- [fxa202-week03-grace-rosevears-reflections-on-nature-and-belonging](../sources/fxa202-week03-grace-rosevears-reflections-on-nature-and-belonging.md)
 - [fxa301-week06-brisbanes-pub-choir-movement-marks-first-year](../sources/fxa301-week06-brisbanes-pub-choir-movement-marks-first-year.md)
 - [fxa301-week08-transcript-arts-gymnasium-at-belgrade-theatre-coventry](../sources/fxa301-week08-transcript-arts-gymnasium-at-belgrade-theatre-coventry.md)

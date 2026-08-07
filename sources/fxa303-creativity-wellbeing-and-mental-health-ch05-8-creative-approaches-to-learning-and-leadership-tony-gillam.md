@@ -11,7 +11,7 @@ tags: ["leadership-theory", "mental-health-practice", "creative-approaches", "fx
 key_concepts: ["resilient leadership", "transformational leadership", "servant leadership"]
 methods: []
 slug: fxa303-creativity-wellbeing-and-mental-health-ch05-8-creative-approaches-to-learning-and-leadership-tony-gillam
-related: ["mental-health-practice"]
+related: ["creative-approaches", "mental-health-practice"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,4 +41,5 @@ Tony Gillam explores the interplay between creativity, learning, and leadership 
 
 ## See Also
 
+- [creative-approaches](../topics/creative-approaches.md)
 - [mental-health-practice](../topics/mental-health-practice.md)

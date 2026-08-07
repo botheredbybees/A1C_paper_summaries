@@ -3,6 +3,7 @@ confidence: medium
 domain: intervention
 slug: visual-arts-in-dementia-care
 sources:
+  - fxa100-week06-fxa100-week-6-lecture-visual-arts-the-brain-and-dementia
   - fxa100-week06-lesson-fxa100-week06-page-1-welcome-to-week-6
   - fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care
   - fxa101-week03-lesson-fxa101-week03-page-3-the-role-of-the-arts-in
@@ -12,7 +13,7 @@ tags:
 - visual-arts
 title: Visual Arts in Dementia Care
 type: topic
-updated: 2026-07-20
+updated: 2026-08-07
 ---
 
 ## Visual Arts in Dementia Care
@@ -30,6 +31,7 @@ The integration of visual arts into dementia care settings has emerged as a mult
 
 ## Sources
 
+- [fxa100-week06-fxa100-week-6-lecture-visual-arts-the-brain-and-dementia](../sources/fxa100-week06-fxa100-week-6-lecture-visual-arts-the-brain-and-dementia.md)
 - [fxa100-week06-lesson-fxa100-week06-page-1-welcome-to-week-6](../sources/fxa100-week06-lesson-fxa100-week06-page-1-welcome-to-week-6.md)
 - [fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care](../sources/fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care.md)
 - [fxa101-week03-lesson-fxa101-week03-page-3-the-role-of-the-arts-in](../sources/fxa101-week03-lesson-fxa101-week03-page-3-the-role-of-the-arts-in.md)

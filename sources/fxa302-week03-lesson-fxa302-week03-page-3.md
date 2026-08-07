@@ -11,7 +11,7 @@ tags: ["health-humanities", "medical-education", "visual-thinking-strategies", "
 key_concepts: ["Health Humanities", "Artful Thinking", "Visual Thinking Strategies (VTS)"]
 methods: ["close reading of artworks", "group discussions", "mind maps"]
 slug: fxa302-week03-lesson-fxa302-week03-page-3
-related: ["artful-thinking", "health-humanities", "medical-education", "visual-thinking-strategies", "visual-thinking-strategies-vts"]
+related: ["artful-thinking", "health-humanities", "medical-education", "visual-thinking-strategies"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -47,4 +47,3 @@ This lesson explores how visual arts are used in healthcare education to develop
 - [health-humanities](../topics/health-humanities.md)
 - [medical-education](../topics/medical-education.md)
 - [visual-thinking-strategies](../topics/visual-thinking-strategies.md)
-- [visual-thinking-strategies-vts](../topics/visual-thinking-strategies-vts.md)

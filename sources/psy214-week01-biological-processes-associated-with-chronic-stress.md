@@ -11,7 +11,7 @@ tags: ["chronic-stress", "biological-processes", "inflammation", "oxidative-stre
 key_concepts: ["inflammation", "oxidative stress", "immunosuppression"]
 methods: []
 slug: psy214-week01-biological-processes-associated-with-chronic-stress
-related: ["biological-processes", "chronic-stress", "inflammation", "oxidative-stress"]
+related: ["biological-processes", "inflammation", "oxidative-stress"]
 created: 2026-07-06
 updated: 2026-07-06
 ---
@@ -42,6 +42,5 @@ This document discusses the biological processes associated with chronic stress,
 ## See Also
 
 - [biological-processes](../topics/biological-processes.md)
-- [chronic-stress](../topics/chronic-stress.md)
 - [inflammation](../topics/inflammation.md)
 - [oxidative-stress](../topics/oxidative-stress.md)

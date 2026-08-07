@@ -5,6 +5,8 @@ slug: research-methods-in-healthcare-evaluation
 sources:
   - fxa100-week04-an-introduction-to-research
   - fxa100-week11-lesson-fxa100-week11-page-4-week-10-activities
+  - fxa300-week05-a-proposed-glossary-for-use-in-affective-response
+  - fxa300-week05-lesson-fxa300-week05-page-2-1
   - fxa301-applied-artes-and-health-ch01-2021-graff
   - fxa301-arts-in-health-ch29-4-invite-open-responses
   - fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision
@@ -14,11 +16,12 @@ sources:
   - fxa301-arts-in-health-ch76-3-responsibility
   - fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts
   - fxa301-week01-a-step-by-step-approach-to-the-research-process
+  - psy214-week03-lesson-psy214-week03-making-sense-of-evidence
 tags:
 - research-methods
 title: Research Methods in Healthcare Evaluation
 type: topic
-updated: 2026-05-15
+updated: 2026-08-07
 ---
 
 ## Research Methods in Healthcare Evaluation
@@ -39,6 +42,8 @@ The sources collectively emphasize the importance of various research methodolog
 
 - [fxa100-week04-an-introduction-to-research](../sources/fxa100-week04-an-introduction-to-research.md)
 - [fxa100-week11-lesson-fxa100-week11-page-4-week-10-activities](../sources/fxa100-week11-lesson-fxa100-week11-page-4-week-10-activities.md)
+- [fxa300-week05-a-proposed-glossary-for-use-in-affective-response](../sources/fxa300-week05-a-proposed-glossary-for-use-in-affective-response.md)
+- [fxa300-week05-lesson-fxa300-week05-page-2-1](../sources/fxa300-week05-lesson-fxa300-week05-page-2-1.md)
 - [fxa301-applied-artes-and-health-ch01-2021-graff](../sources/fxa301-applied-artes-and-health-ch01-2021-graff.md)
 - [fxa301-arts-in-health-ch29-4-invite-open-responses](../sources/fxa301-arts-in-health-ch29-4-invite-open-responses.md)
 - [fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision](../sources/fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision.md)
@@ -48,3 +53,4 @@ The sources collectively emphasize the importance of various research methodolog
 - [fxa301-arts-in-health-ch76-3-responsibility](../sources/fxa301-arts-in-health-ch76-3-responsibility.md)
 - [fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts](../sources/fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts.md)
 - [fxa301-week01-a-step-by-step-approach-to-the-research-process](../sources/fxa301-week01-a-step-by-step-approach-to-the-research-process.md)
+- [psy214-week03-lesson-psy214-week03-making-sense-of-evidence](../sources/psy214-week03-lesson-psy214-week03-making-sense-of-evidence.md)

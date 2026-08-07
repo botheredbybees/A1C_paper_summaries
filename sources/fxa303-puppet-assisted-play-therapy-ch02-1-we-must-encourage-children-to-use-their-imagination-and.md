@@ -7,11 +7,11 @@ apa7: "Hulburd, C. (2020). Puppet-assisted play therapy: Theory, research, and p
 doi: null
 appearances:
   - unit: FXA303
-tags: ["creative-thinking", "puppetry-therapy", "cognitive-behavioral-therapy", "fxa303"]
+tags: ["cognitive-behavioral-therapy", "creative-thinking", "fxa303", "puppet-therapy", "puppetry-therapy"]
 key_concepts: ["Torrance Test of Creative Thinking", "strengths perspective", "mindfulness in play therapy"]
 methods: []
 slug: fxa303-puppet-assisted-play-therapy-ch02-1-we-must-encourage-children-to-use-their-imagination-and
-related: ["cognitive-behavioral-therapy", "creative-thinking", "puppet-therapy"]
+related: ["cognitive-behavioral-therapy", "creative-thinking", "puppet-assisted-play-therapy-for-children"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -43,4 +43,4 @@ This chapter discusses the use of puppetry in enhancing creativity and conflict 
 
 - [cognitive-behavioral-therapy](../topics/cognitive-behavioral-therapy.md)
 - [creative-thinking](../topics/creative-thinking.md)
-- [puppet-therapy](../topics/puppet-therapy.md)
+- [puppet-assisted-play-therapy-for-children](../topics/puppet-assisted-play-therapy-for-children.md)

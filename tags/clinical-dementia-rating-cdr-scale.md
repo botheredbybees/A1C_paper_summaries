@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: clinical-dementia-rating-cdr-scale
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Clinical Dementia Rating Cdr Scale

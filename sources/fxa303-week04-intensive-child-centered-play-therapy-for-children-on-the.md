@@ -11,7 +11,7 @@ tags: ["autism-spectrum-disorder", "child-therapy", "play-therapy", "interventio
 key_concepts: ["intensive-child-centered-play-therapy", "autism-spectrum-disorder", "behavioral-interventions"]
 methods: ["randomized-controlled-trial"]
 slug: fxa303-week04-intensive-child-centered-play-therapy-for-children-on-the
-related: ["autism-spectrum-disorder", "child-therapy", "play-therapy"]
+related: ["autism-spectrum-disorder", "child-therapy", "intervention-study", "play-therapy-in-child-development"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,4 +44,5 @@ This study explores the effectiveness of intensive child-centered play therapy (
 
 - [autism-spectrum-disorder](../topics/autism-spectrum-disorder.md)
 - [child-therapy](../topics/child-therapy.md)
-- [play-therapy](../topics/play-therapy.md)
+- [intervention-study](../topics/intervention-study.md)
+- [play-therapy-in-child-development](../topics/play-therapy-in-child-development.md)

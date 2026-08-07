@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-inclusion
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Social Inclusion
@@ -9,8 +9,10 @@ updated: 2026-07-28
 - [Engaging in Community Music: An Introduction](../sources/fxa100-week04-engaging-in-community-music-an-introduction.md)
 - [Guidelines for Arts and Mental Health Projects](../sources/fxa100-week04-guidelines-for-arts-and-mental-health-projects.md)
 - ['Singing for the Brain': A Qualitative Study Exploring the Health and Well-being Benefits of Singing for People with Dementia and Their Carers](../sources/fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the.md)
+- [Art and Dementia](../sources/fxa100-week07-art-and-dementia.md)
 - [Art and Dementia | Art Gallery of New South Wales](../sources/fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales.md)
 - [Arts Engagement for People with Dementia: Independent Evaluation of the Art Access Program, Art Gallery Of New South Wales](../sources/fxa100-week07-arts-engagement-for-people-with-dementia-independent.md)
+- [Arts Engagement for People with Dementia: Independent Evaluation of the Art Access Program](../sources/fxa100-week07-arts-engagement-for-people-with-dementia-independent-%282%29.md)
 - [Viewing and making art together: a multi-session art-gallery-based intervention for people with dementia and their carers](../sources/fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery.md)
 - ['Unlocking the door to being there': The contribution of creative facilitators in supporting people living with dementia to engage with heritage settings](../sources/fxa100-week08-unlocking-the-door-to-being-there-the-contribution-of.md)
 - [The Arts and Healing: The Power of an Idea](../sources/fxa301-oxford-textbook-of-creative-arts-ch12-chapter-2.md)

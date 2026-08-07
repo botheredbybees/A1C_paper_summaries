@@ -10,13 +10,14 @@ sources:
   - fxa301-week03-evidence-requirements-for-the-development-of-the-national
   - fxa301-week03-lesson-fxa301-week03-page-4-week-3-activities
   - fxa301-week03-web-article-national-2024
+  - fxa302-week01-arts-health-and-well-being-a-critical-perspective-on
   - fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the
   - fxa303-week13-svedem-the-swedish-dementia-registry-a-tool-for-improving
 tags:
 - health-policy
 title: Health Policy Development for Dementia and Arts
 type: topic
-updated: 2026-05-15
+updated: 2026-08-07
 ---
 
 ## Health Policy Development for Dementia and Arts
@@ -42,5 +43,6 @@ The documents collectively address the improvement of health policies regarding 
 - [fxa301-week03-evidence-requirements-for-the-development-of-the-national](../sources/fxa301-week03-evidence-requirements-for-the-development-of-the-national.md)
 - [fxa301-week03-lesson-fxa301-week03-page-4-week-3-activities](../sources/fxa301-week03-lesson-fxa301-week03-page-4-week-3-activities.md)
 - [fxa301-week03-web-article-national-2024](../sources/fxa301-week03-web-article-national-2024.md)
+- [fxa302-week01-arts-health-and-well-being-a-critical-perspective-on](../sources/fxa302-week01-arts-health-and-well-being-a-critical-perspective-on.md)
 - [fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the](../sources/fxa303-week10-reclaiming-indigenous-health-in-the-us-moving-beyond-the.md)
 - [fxa303-week13-svedem-the-swedish-dementia-registry-a-tool-for-improving](../sources/fxa303-week13-svedem-the-swedish-dementia-registry-a-tool-for-improving.md)

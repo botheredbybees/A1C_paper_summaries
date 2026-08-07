@@ -3,13 +3,14 @@ confidence: medium
 domain: intervention
 slug: vascular-cognitive-impairment
 sources:
+
 - fxa100-week01-living-with-dementia-12-what-is-vascular-dementia
 - fxa100-week01-transcript-dementia-australia
 tags:
 - vascular-cognitive-impairment
 title: Vascular Cognitive Impairment
 type: topic
-updated: 2026-05-04
+updated: 2026-08-07
 ---
 
 ## Vascular Cognitive Impairment
@@ -28,5 +29,4 @@ Both sources emphasize the importance of understanding vascular cognitive impair
 
 ## Sources
 
-- [fxa100-week01-living-with-dementia-12-what-is-vascular-dementia](../sources/fxa100-week01-living-with-dementia-12-what-is-vascular-dementia.md)
-- [fxa100-week01-transcript-dementia-australia](../sources/fxa100-week01-transcript-dementia-australia.md)
+

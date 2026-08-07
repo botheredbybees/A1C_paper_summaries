@@ -1,27 +1,26 @@
 ---
 type: topic
 domain: "intervention"
-title: "Emotional and Physical Reactions to Disaster"
+title: "Emotional And Physical Reactions To Disaster"
 confidence: medium
 tags: ["emotional-and-physical-reactions-to-disaster"]
 sources:
   - fxa303-week09-psychological-first-aid-supporting-people-affected-by
-updated: 2026-05-16
+updated: 2026-08-07
 ---
 
-## Emotional and Physical Reactions to Disaster
+## Emotional And Physical Reactions To Disaster
 
-The sources collectively emphasize the importance of psychological first aid as an intervention for individuals affected by disasters. This approach is designed to address both emotional and physical reactions that arise from traumatic events, highlighting the need for timely psychosocial support to mitigate long-term mental health issues. The interventions discussed in these sources aim at providing immediate assistance to survivors experiencing acute stress responses, thereby laying a foundation for subsequent professional psychological care.
+The intervention of psychological first aid (PFA) is highlighted as a critical practice for supporting individuals affected by disasters in Australia. PFA aims at providing timely psychosocial support to address the immediate emotional and physical reactions to disaster events. Across sources, there's agreement on the importance of PFA but tensions arise regarding its implementation challenges and varying effectiveness based on cultural contexts.
 
 ## Key Findings
 
-- Psychological first aid is an essential intervention for addressing emotional and physical reactions following disasters.
-- Immediate psychosocial support can significantly reduce the long-term impact of disaster-related trauma on mental health.
-- Timely intervention is crucial in managing acute stress responses to ensure effective recovery.
+- Psychological first aid is crucial for addressing the immediate needs of individuals affected by disasters.
+- Timely psychosocial support is vital in mitigating the negative emotional and physical reactions to disaster events.
 
 ## Open Questions
 
-- How does cultural context influence the efficacy and delivery of psychological first aid interventions?
+- How can psychological first aid be adapted effectively to different cultural contexts?
 
 ## Sources
 

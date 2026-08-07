@@ -7,11 +7,11 @@ doi: null
 appearances:
   - unit: FXA303
     week: "09"
-tags: ["child-development", "creative-expression", "resilience-building", "community-arts-project", "educational-workshops", "fxa303"]
+tags: ["child-development", "community-arts-project", "creative-expression", "creative-expression-as-therapy", "educational-workshops", "fxa303", "resilience-building"]
 key_concepts: ["Resilience in Children", "Creative Expression as Therapy"]
 methods: []
 slug: fxa303-week09-transcript-arts-mid-north-coast-we-are-all-born-creative
-related: ["child-development", "creative-expression", "resilience-building"]
+related: ["child-development", "creative-expression", "creative-expression-therapy", "resilience-building"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -24,8 +24,8 @@ The transcript captures a project titled 'We Are All Born Creative' led by Linda
 
 ## Key Concepts
 
-- [Resilience in Children](../topics/creative-expression-as-therapy.md)
-- [Creative Expression as Therapy](../topics/creative-expression-as-therapy.md)
+- [Resilience in Children](../topics/creative-expression-therapy.md)
+- [Creative Expression as Therapy](../topics/creative-expression-therapy.md)
 
 ## Tags
 
@@ -44,4 +44,5 @@ The transcript captures a project titled 'We Are All Born Creative' led by Linda
 
 - [child-development](../topics/child-development.md)
 - [creative-expression](../topics/creative-expression.md)
+- [creative-expression-therapy](../topics/creative-expression-therapy.md)
 - [resilience-building](../topics/resilience-building.md)

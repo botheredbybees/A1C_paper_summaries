@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Refugee Youth and Migration: Using Arts-Informed Research to Understand Changes in Their Roles and Responsibilities"
-apa7: "Guruge, S., Hynie, M., Shakya, Y., Akbari, A., Htoo, S., & Abiyo, S. (2015). Refugee youth and migration: Using arts-informed research to understand changes in their roles and responsibilities. Forum Qualitative Sozialforschung/Forum: Qualitative Social Research, 16(3), Art. 15. https://doi.org/10.17169/fqs-16.3.2448"
-doi: https://doi.org/10.17169/fqs-16.3.2448
+apa7: "Guruge, S., Hynie, M., Shakya, Y., Akbari, A., Htoo, S., & Abiyo, S. (2015). Refugee Youth And Migration: Using Arts-Informed Research To Understand Changes In Their Roles And Responsibilities. https://doi.org/10.17169/FQS-16.3.2278"
+doi: https://doi.org/10.17169/FQS-16.3.2278
 appearances:
   - unit: FXA303
     week: "10"

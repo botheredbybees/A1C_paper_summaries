@@ -11,7 +11,7 @@ tags: ["hearing-process", "ear-anatomy", "sound-perception", "fxa100"]
 key_concepts: ["cochlea", "hair-cells", "auditory-nerve"]
 methods: []
 slug: fxa100-week02-video-about-hearing-and-how-it-works-med-el-video-transcript
-related: ["hearing-process"]
+related: ["hearing-process", "sound-perception"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,3 +42,4 @@ The video transcript discusses the process of sound detection and interpretation
 ## See Also
 
 - [hearing-process](../topics/hearing-process.md)
+- [sound-perception](../topics/sound-perception.md)

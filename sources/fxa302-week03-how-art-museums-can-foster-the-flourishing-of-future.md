@@ -11,7 +11,7 @@ tags: ["medical-education", "art-museums", "well-being", "holistic-learning", "e
 key_concepts: ["Visual Thinking Strategies (VTS)", "holistic well-being", "professional development"]
 methods: ["case study"]
 slug: fxa302-week03-how-art-museums-can-foster-the-flourishing-of-future
-related: ["emotional-regulation", "holistic-well-being", "medical-education", "visual-thinking-strategies-vts", "well-being"]
+related: ["emotional-regulation", "holistic-well-being", "medical-education", "visual-thinking-strategies", "well-being"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -46,5 +46,5 @@ This article explores the potential of art museums in fostering the flourishing 
 - [emotional-regulation](../topics/emotional-regulation.md)
 - [holistic-well-being](../topics/holistic-well-being.md)
 - [medical-education](../topics/medical-education.md)
-- [visual-thinking-strategies-vts](../topics/visual-thinking-strategies-vts.md)
+- [visual-thinking-strategies](../topics/visual-thinking-strategies.md)
 - [well-being](../topics/well-being.md)

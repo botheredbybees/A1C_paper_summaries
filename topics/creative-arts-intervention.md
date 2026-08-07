@@ -4,13 +4,14 @@ domain: intervention
 slug: creative-arts-intervention
 sources:
   - fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a
+  - fxa303-week02-fxa303-week-2-introduction-to-child-development-and-play
   - fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental
   - fxa303-week11-artsmark-and-sandwell-youth-offending-service-follow-up
 tags:
 - creative-arts-intervention
 title: Creative Arts Intervention
 type: topic
-updated: 2026-05-15
+updated: 2026-08-07
 ---
 
 ## Creative Arts Intervention
@@ -30,5 +31,6 @@ The sources collectively emphasize the role of creative arts intervention as a m
 ## Sources
 
 - [fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a](../sources/fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a.md)
+- [fxa303-week02-fxa303-week-2-introduction-to-child-development-and-play](../sources/fxa303-week02-fxa303-week-2-introduction-to-child-development-and-play.md)
 - [fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental](../sources/fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental.md)
 - [fxa303-week11-artsmark-and-sandwell-youth-offending-service-follow-up](../sources/fxa303-week11-artsmark-and-sandwell-youth-offending-service-follow-up.md)

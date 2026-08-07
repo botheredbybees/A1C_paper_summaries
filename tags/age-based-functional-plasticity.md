@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: age-based-functional-plasticity
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Age Based Functional Plasticity

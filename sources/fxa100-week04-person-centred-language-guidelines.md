@@ -11,7 +11,7 @@ tags: ["dementia-care", "person-centered-approach", "language-guidelines", "fxa1
 key_concepts: ["personhood", "stigma-reduction", "inclusive-language"]
 methods: []
 slug: fxa100-week04-person-centred-language-guidelines
-related: ["dementia-care", "person-centered-approach"]
+related: ["dementia-care", "person-centered-approach", "person-centered-language"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,3 +43,4 @@ The document 'Person-centred Language Guidelines' by the Alzheimer Society outli
 
 - [dementia-care](../topics/dementia-care.md)
 - [person-centered-approach](../topics/person-centered-approach.md)
+- [person-centered-language](../topics/person-centered-language.md)

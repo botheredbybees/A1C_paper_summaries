@@ -1,0 +1,9 @@
+---
+type: tag
+tag: arts-for-wellbeing
+updated: 2026-08-07
+---
+
+## Arts For Wellbeing
+
+- [Developing a strategy to scale up place-based arts initiatives that support mental health and wellbeing: A realist evaluation of \u2018Arts for the Blues\u2019](../sources/fxa302-week07-developing-a-strategy-to-scale-up-place-based-arts.md)

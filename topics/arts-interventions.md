@@ -5,18 +5,22 @@ slug: arts-interventions-in-healthcare
 sources:
   - fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes
   - fxa100-week04-arts-and-creativity-interventions-for-improving-health-and
+  - fxa100-week04-mindsong-transcript-(2)
   - fxa100-week06-dementia-and-imagination-a-mixed-methods-protocol-for-arts
   - fxa100-week10-play-and-people-living-with-dementia-a-humanities-based
+  - fxa100-week11-the-arts-as-a-medium-for-care-and-self-care-in-dementia
+  - fxa100-week13-shall-i-compare-thee-to-a-dose-of-donepezil-cultural-arts
   - fxa301-week01-writing-a-research-protocol
   - fxa301-week03-the-thrive-toolkit-tools-for-health-research-and-evaluation
   - fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using
+  - fxa301-week10-the-use-of-arts-interventions-for-mental-health-and
   - fxa302-week03-the-art-of-observation-a-qualitative-analysis-of-medical
   - fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a
 tags:
 - arts-interventions
 title: Arts Interventions in Healthcare
 type: topic
-updated: 2026-07-20
+updated: 2026-08-07
 ---
 
 ## Arts Interventions in Healthcare
@@ -37,10 +41,14 @@ The exploration of arts interventions as a means to improve health and wellbeing
 
 - [fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes](../sources/fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes.md)
 - [fxa100-week04-arts-and-creativity-interventions-for-improving-health-and](../sources/fxa100-week04-arts-and-creativity-interventions-for-improving-health-and.md)
+- [fxa100-week04-mindsong-transcript-(2)](../sources/fxa100-week04-mindsong-transcript-%282%29.md)
 - [fxa100-week06-dementia-and-imagination-a-mixed-methods-protocol-for-arts](../sources/fxa100-week06-dementia-and-imagination-a-mixed-methods-protocol-for-arts.md)
 - [fxa100-week10-play-and-people-living-with-dementia-a-humanities-based](../sources/fxa100-week10-play-and-people-living-with-dementia-a-humanities-based.md)
+- [fxa100-week11-the-arts-as-a-medium-for-care-and-self-care-in-dementia](../sources/fxa100-week11-the-arts-as-a-medium-for-care-and-self-care-in-dementia.md)
+- [fxa100-week13-shall-i-compare-thee-to-a-dose-of-donepezil-cultural-arts](../sources/fxa100-week13-shall-i-compare-thee-to-a-dose-of-donepezil-cultural-arts.md)
 - [fxa301-week01-writing-a-research-protocol](../sources/fxa301-week01-writing-a-research-protocol.md)
 - [fxa301-week03-the-thrive-toolkit-tools-for-health-research-and-evaluation](../sources/fxa301-week03-the-thrive-toolkit-tools-for-health-research-and-evaluation.md)
 - [fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using](../sources/fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using.md)
+- [fxa301-week10-the-use-of-arts-interventions-for-mental-health-and](../sources/fxa301-week10-the-use-of-arts-interventions-for-mental-health-and.md)
 - [fxa302-week03-the-art-of-observation-a-qualitative-analysis-of-medical](../sources/fxa302-week03-the-art-of-observation-a-qualitative-analysis-of-medical.md)
 - [fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a](../sources/fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: genius-paradox
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Genius Paradox

@@ -1,13 +1,14 @@
 ---
 type: tag
 tag: mental-health-interventions
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Mental Health Interventions
 
 - [Music therapy for depression: it seems to work, but how?](../sources/fxa100-week03-music-therapy-for-depression-it-seems-to-work-but-how.md)
 - [Guidelines for Arts and Mental Health Projects](../sources/fxa100-week04-guidelines-for-arts-and-mental-health-projects.md)
+- [What is Music Therapy Flyer](../sources/fxa100-week04-what-is-music-therapy-flyer.md)
 - [Viewing and making art together: a multi-session art-gallery-based intervention for people with dementia and their carers](../sources/fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery.md)
 - [Drama therapy with older people with dementia\u2014Does it improve quality of life?](../sources/fxa100-week09-drama-therapy-with-older-people-with-dementiadoes-it-%282%29.md)
 - [Week 9 Lecture: Dramatherapy, Dance Therapy, and Applied Theatre in Dementia Care](../sources/fxa100-week09-week-9-lecture-dramatherapy-dance-therapy-and-applied.md)
@@ -16,7 +17,11 @@ updated: 2026-07-28
 - [Dance therapy as an intervention for stress and depression: a systematic review and meta-analysis](../sources/fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression.md)
 - [Brain Lock Unlocked: Using Plasticity to Stop Worries, Obsessions, Compulsions, and Bad Habits](../sources/fxa101-week02-brain-lock-unlocked-using-plasticity-to-stop-worries.md)
 - [Can Photography Help Depression?](../sources/fxa202-week03-can-photography-help-depression.md)
+- [Can Photography Help Depression?](../sources/fxa202-week03-can-photography-help-depression-%282%29.md)
+- [Lecture Transcript: Week 3 - The Photo Essay](../sources/fxa202-week03-lecture-transcript-week-3-the-photo-essay.md)
 - [What is Therapeutic Photography?](../sources/fxa202-week03-what-is-therapeutic-photography.md)
+- [What is Therapeutic Photography?](../sources/fxa202-week03-what-is-therapeutic-photography-%282%29.md)
+- [What is Therapeutic Photography?](../sources/fxa202-week03-what-is-therapeutic-photography-%283%29.md)
 - [Photography as Self-Therapy: An Introduction for Beginners](../sources/fxa202-week08-photography-as-self-therapy-an-introduction-for-beginners.md)
 - [Expressive Writing Therapy Exercises & Examples](../sources/fxa202-week09-expressive-writing-therapy-exercises-examples.md)
 - [Phototherapy to Increase Self-Compassion in College Students](../sources/fxa202-week13-phototherapy-to-increase-self-compassion-in-college-students.md)
@@ -24,11 +29,15 @@ updated: 2026-07-28
 - [The means to flourish: arts in community health and education](../sources/fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6.md)
 - [Arts on Prescription in Sefton: Programme Report](../sources/fxa301-week01-arts-on-prescription-in-sefton-programme-report.md)
 - [Guidelines for Arts and Mental Health Projects](../sources/fxa301-week01-guidelines-for-arts-and-mental-health-projects.md)
+- [Executive Summary and Recommendations: Why Creative Health?](../sources/fxa301-week03-executive-summary-and-recommendations-why-creative-health.md)
 - [Health-related effects of creative and expressive writing](../sources/fxa301-week08-health-related-effects-of-creative-and-expressive-writing.md)
 - [Arts-Based Therapies in the Treatment of Eating Disorders](../sources/fxa301-week10-arts-based-therapies-in-the-treatment-of-eating-disorders.md)
 - [Arts Therapies Interventions and Their Outcomes in the Treatment of Eating Disorders: Scoping Review Protocol](../sources/fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the.md)
+- [Creative health: the arts for health and wellbeing](../sources/fxa302-week01-creative-health-the-arts-for-health-and-wellbeing.md)
 - [Making Music](../sources/fxa302-week01-making-music.md)
+- [Developing a strategy to scale up place-based arts initiatives that support mental health and wellbeing: A realist evaluation of \u2018Arts for the Blues\u2019](../sources/fxa302-week07-developing-a-strategy-to-scale-up-place-based-arts.md)
 - [Play Therapy: An Analytical Mode of Therapy in Children](../sources/fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children.md)
+- [The playful mediator, moderator, or outcome? An integrative review of the roles of play and playfulness in adult-centered psychological interventions for mental health](../sources/fxa303-week02-the-playful-mediator-moderator-or-outcome-an-integrative.md)
 - [Arts in Adolescence](../sources/fxa303-week03-arts-in-adolescence.md)
 - [Arts on prescription: observed changes in anxiety, depression, and well-being across referral cycles](../sources/fxa303-week03-arts-on-prescription-observed-changes-in-anxiety-depression.md)
 - [Rebuilding the Brain with Psychotherapy](../sources/fxa303-week03-rebuilding-the-brain-with-psychotherapy.md)
@@ -36,6 +45,8 @@ updated: 2026-07-28
 - [Therapeutic Puppetry and Wellbeing](../sources/fxa303-week06-therapeutic-puppetry-and-wellbeing.md)
 - [Therapeutic Clowning](../sources/fxa303-week08-therapeutic-clowning.md)
 - [Therapeutic clowns in pediatrics: a systematic review and meta-analysis of randomized controlled trials](../sources/fxa303-week08-therapeutic-clowns-in-pediatrics-a-systematic-review-and.md)
+- [Art therapy with children and adolescents experiencing acute or severe mental health conditions: A systematic review](../sources/fxa303-week09-art-therapy-with-children-and-adolescents-experiencing.md)
+- [Colors of the mind: a meta-analysis of creative arts therapy as an approach for post-traumatic stress disorder intervention](../sources/fxa303-week09-colors-of-the-mind-a-meta-analysis-of-creative-arts-therapy.md)
 - [Indigenous and Traditional Visual Artistic Practices: Implications for Art Therapy Clinical Practice and Research](../sources/fxa303-week10-indigenous-and-traditional-visual-artistic-practices.md)
 - [Creative arts therapies for the mental health of emerging adults: A systematic review](../sources/fxa303-week11-creative-arts-therapies-for-the-mental-health-of-emerging.md)
 - [Evaluation of a standardized humor group in a clinical setting: a feasibility study for older patients with depression](../sources/fxa303-week13-evaluation-of-a-standardized-humor-group-in-a-clinical.md)

@@ -13,22 +13,22 @@ sources:
   - fxa100-week13-psychophysiological-effects-of-dance-movement-therapy-and
   - fxa100-week13-tracing-the-invisible-quantifying-mirroring-and-embodied
   - fxa303-week13-dance-movement-therapy-for-neurodegenerative-diseases-a
-updated: 2026-05-16
+updated: 2026-08-07
 ---
 
 ## Dance-Movement Therapy
 
-The integration of various studies on dance-movement therapy highlights its potential as a therapeutic intervention for neurodegenerative conditions and emotional distress. Research across different populations, including those with dementia, mild depression, and Parkinson's disease, indicates that this form of therapy can improve emotional responses, modulate neurohormones, enhance memory stimulation through movement, and foster emotional safety and vitality. Methodological advancements have led to a better understanding of the psychophysiological effects and the importance of non-verbal communication in therapeutic settings. However, while dance-movement therapy shows promising results in improving quality of life for individuals with various health conditions, there remains a need for further research into standardized methods for evaluating its efficacy.
+Dance-movement therapy (DMT) is a non-pharmacological intervention increasingly recognized for its efficacy in addressing various neurological and psychological conditions, particularly dementia. Sources consistently highlight the benefits of DMT on emotional well-being, cognitive function, and social interaction among individuals with neurodegenerative diseases such as Alzheimer's and Parkinson’s disease. For instance, randomized controlled trials have demonstrated improvements in plasma serotonin levels and reduced psychological distress scores for adolescents suffering from mild depression through DMT (Source 4). Additionally, studies indicate that dance therapy can modulate diurnal cortisol slopes and enhance emotional recognition abilities among older adults with dementia (Sources 6 & 5), thereby offering a promising alternative to traditional care methods. The therapeutic potential of DMT extends beyond individual benefits; it fosters an environment for non-verbal communication and establishes an emotional safety net, crucial elements in dementia care settings (Source 3). Nonetheless, while the physical benefits are well-documented, less is known about how DMT specifically enhances social and emotional contexts, especially regarding long-term impacts on quality of life.
 
 ## Key Findings
 
-- Dance movement therapy can improve emotional responses and modulate neurohormones in adolescents with mild depression.
-- Memory stimulation through dance-movement therapy is beneficial for dementia patients.
-- Non-verbal communication and emotional safety are crucial components of therapeutic effectiveness.
+- Dance-movement therapy effectively reduces psychological distress and improves neurochemical balances in adolescents with mild depression
+- DMT contributes to managing symptoms of dementia by regulating cortisol levels and enhancing emotional recognition skills
+- Non-verbal communication facilitated through DMT helps establish an emotionally safe environment for patients, crucial for therapeutic outcomes
 
 ## Open Questions
 
-- What standardized measures should be developed to evaluate the efficacy of dance-movement therapy across different populations?
+- What are the long-term impacts of dance-movement therapy on quality of life and social interaction among individuals with neurodegenerative diseases?
 
 ## Sources
 

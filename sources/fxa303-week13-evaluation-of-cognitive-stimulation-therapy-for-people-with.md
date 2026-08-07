@@ -1,9 +1,9 @@
 ---
 type: source
 source_type: paper
-title: "Evaluation of Cognitive Stimulation Therapy for People With Dementia"
-apa7: "Spector, A., Orrell, M., & Woods, R. T. (2003). Evaluation of cognitive stimulation therapy for people with dementia: A single-blind, multi-centre randomised controlled trial. International Journal of Geriatric Psychiatry, 18(4), 365-371. https://doi.org/10.1002/gps.859"
-doi: https://doi.org/10.1002/gps.859
+title: "Efficacy of an Evidence-Based Cognitive Stimulation Therapy Programme for People With Dementia: A Randomised Controlled Trial"
+apa7: "Spector, A., Thorgrimsen, L., Woods, R. T., Royan, L., Davies, S., Butterworth, M., & Orrell, M. (2003). Efficacy of an evidence-based cognitive stimulation therapy programme for people with dementia: Randomised controlled trial. British Journal of Psychiatry, 183(3), 248-254. https://doi.org/10.1192/bjp.183.3.248"
+doi: https://doi.org/10.1192/bjp.183.3.248
 appearances:
   - unit: FXA303
     week: "13"
@@ -13,12 +13,12 @@ methods: ["single-blind randomized controlled trial"]
 slug: fxa303-week13-evaluation-of-cognitive-stimulation-therapy-for-people-with
 related: ["cognitive-stimulation", "dementia-care", "elderly-health", "quality-of-life", "randomized-controlled-trial"]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-08-02
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week13-evaluation-of-cognitive-stimulation-therapy-for-people-with.md_
 
-## Evaluation of Cognitive Stimulation Therapy for People With Dementia
+## Efficacy of an Evidence-Based Cognitive Stimulation Therapy Programme for People With Dementia: A Randomised Controlled Trial
 
 This study evaluates the effectiveness of cognitive stimulation therapy (CST) for older individuals with dementia, through a single-blind, multi-center randomized controlled trial involving 201 participants across various care centers and day centers in England. The primary aim was to assess whether CST could improve cognition and quality of life in patients with dementia compared to standard activities.
 

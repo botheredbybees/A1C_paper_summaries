@@ -11,7 +11,7 @@ tags: ["art-as-therapy", "arts-in-community", "community-engagement", "fxa301", 
 key_concepts: ["art-as-therapy", "visual-arts-for-wellbeing", "social-bonding-through-art"]
 methods: []
 slug: fxa301-week05-lesson-fxa301-week05-page-4-week-3-activities
-related: ["art-therapy", "arts-in-community", "community-engagement"]
+related: ["art-therapy", "arts-in-community", "community-engagement", "community-wellbeing-through-arts-engagement"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,3 +44,4 @@ Week 5 of FXA301 Arts in the Community includes required readings and a video le
 - [art-therapy](../topics/art-therapy.md)
 - [arts-in-community](../topics/arts-in-community.md)
 - [community-engagement](../topics/community-engagement.md)
+- [community-wellbeing-through-arts-engagement](../topics/community-wellbeing-through-arts-engagement.md)

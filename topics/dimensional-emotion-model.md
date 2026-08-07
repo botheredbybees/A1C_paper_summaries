@@ -8,7 +8,7 @@ tags:
 - dimensional-emotion-model
 title: Dimensional Emotion Model
 type: topic
-updated: 2026-05-16
+updated: 2026-08-07
 ---
 
 ## Dimensional Emotion Model

@@ -11,7 +11,7 @@ tags: ["copyright-issues", "user-generated-content", "social-networks", "legal-g
 key_concepts: ["website-operator-permissions", "user-generated-copyright-infringement", "online-community-management"]
 methods: []
 slug: fxa202-week10-websites-social-networks-blogs-user-generated-content
-related: []
+related: ["social-networks"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -42,4 +42,4 @@ This information sheet discusses copyright issues related to websites, social ne
 
 ## See Also
 
-*(none yet)*
+- [social-networks](../topics/social-networks.md)

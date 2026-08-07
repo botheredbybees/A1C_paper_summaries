@@ -11,7 +11,7 @@ tags: ["breast-cancer", "renaissance-history", "nun-healthcare", "cross-discipli
 key_concepts: ["retrospective-diagnosis", "convent-necrologies"]
 methods: ["case-study"]
 slug: fxa302-week04-breast-cancer-in-a-renaissance-book-of-the-dead
-related: ["cross-disciplinary-research"]
+related: ["cross-disciplinary-research", "retrospective-diagnosis"]
 created: 2026-07-28
 updated: 2026-07-28
 ---
@@ -43,3 +43,4 @@ This article explores the historical context of breast cancer in Renaissance soc
 ## See Also
 
 - [cross-disciplinary-research](../topics/cross-disciplinary-research.md)
+- [retrospective-diagnosis](../topics/retrospective-diagnosis.md)

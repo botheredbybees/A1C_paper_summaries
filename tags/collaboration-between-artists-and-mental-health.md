@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: collaboration-between-artists-and-mental-health
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Collaboration Between Artists And Mental Health

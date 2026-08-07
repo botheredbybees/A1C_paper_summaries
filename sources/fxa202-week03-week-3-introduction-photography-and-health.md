@@ -7,11 +7,11 @@ doi: null
 appearances:
   - unit: FXA202
     week: "03"
-tags: ["photography-therapy", "social-media-health", "mental-wellbeing", "fxa202"]
+tags: ["fxa202", "mental-wellbeing", "mindfulness-and-therapeutic-photography", "photography-therapy", "social-media-health"]
 key_concepts: ["therapeutic-photography", "nomophobia", "mindfulness"]
 methods: ["lecture"]
 slug: fxa202-week03-week-3-introduction-photography-and-health
-related: ["mental-wellbeing", "mindfulness-and-therapeutic-photography"]
+related: ["mental-wellbeing", "mindfulness-and-therapeutic-photography", "mindfulness-practice-through-photography"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,3 +43,4 @@ The Week 3 lecture of the course 'FXA202 The Photo Essay: Storytelling with Imag
 
 - [mental-wellbeing](../topics/mental-wellbeing.md)
 - [mindfulness-and-therapeutic-photography](../topics/mindfulness-and-therapeutic-photography.md)
+- [mindfulness-practice-through-photography](../topics/mindfulness-practice-through-photography.md)

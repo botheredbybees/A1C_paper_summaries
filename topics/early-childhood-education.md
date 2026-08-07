@@ -5,12 +5,13 @@ slug: early-childhood-education-pedagogies
 sources:
   - fxa101-week03-early-childhood-learning-through-visual-art
   - fxa303-week02-in-rememberance-of-david-whitebread-a-tribute-to-david
+  - fxa303-week02-the-arts-in-early-childhood-social-and-emotional-benefits
   - fxa303-week05-puppet-as-a-pedagogical-tool-a-literature-review
 tags:
 - early-childhood-education
 title: Early Childhood Education Pedagogies
 type: topic
-updated: 2026-07-20
+updated: 2026-08-07
 ---
 
 ## Early Childhood Education Pedagogies
@@ -31,4 +32,5 @@ The provided sources highlight different pedagogic interventions in early childh
 
 - [fxa101-week03-early-childhood-learning-through-visual-art](../sources/fxa101-week03-early-childhood-learning-through-visual-art.md)
 - [fxa303-week02-in-rememberance-of-david-whitebread-a-tribute-to-david](../sources/fxa303-week02-in-rememberance-of-david-whitebread-a-tribute-to-david.md)
+- [fxa303-week02-the-arts-in-early-childhood-social-and-emotional-benefits](../sources/fxa303-week02-the-arts-in-early-childhood-social-and-emotional-benefits.md)
 - [fxa303-week05-puppet-as-a-pedagogical-tool-a-literature-review](../sources/fxa303-week05-puppet-as-a-pedagogical-tool-a-literature-review.md)

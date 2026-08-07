@@ -7,8 +7,12 @@ sources:
   - fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care
   - fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care
   - fxa100-week04-music-therapy-and-dementia-video-transcript
+  - fxa100-week07-fxa100-week-7-lecture-(2)
   - fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of
+  - fxa100-week12-music-based-therapeutic-interventions-for-people-with
   - fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness
+  - fxa101-week05-fxa101-practical-session-1
+  - fxa202-week03-a-mindfulness-hospital-stay
   - fxa202-week06-winding-paths-a-photo-essay-on-emotional-health-during
   - fxa202-week09-5-benefits-of-journaling-for-mental-health
   - fxa202-week09-noticing-a-photo-essay
@@ -26,7 +30,7 @@ tags:
 - emotional-wellbeing
 title: Music Therapy for Emotional Wellbeing
 type: topic
-updated: 2026-05-15
+updated: 2026-08-07
 ---
 
 ## Music Therapy for Emotional Wellbeing
@@ -49,8 +53,12 @@ The integration of music therapy in enhancing emotional wellbeing is a recurring
 - [fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care](../sources/fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care.md)
 - [fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care](../sources/fxa100-week03-welcome-to-week-3-fxa100-the-arts-and-dementia-care.md)
 - [fxa100-week04-music-therapy-and-dementia-video-transcript](../sources/fxa100-week04-music-therapy-and-dementia-video-transcript.md)
+- [fxa100-week07-fxa100-week-7-lecture-(2)](../sources/fxa100-week07-fxa100-week-7-lecture-%282%29.md)
 - [fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of](../sources/fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of.md)
+- [fxa100-week12-music-based-therapeutic-interventions-for-people-with](../sources/fxa100-week12-music-based-therapeutic-interventions-for-people-with.md)
 - [fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness](../sources/fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness.md)
+- [fxa101-week05-fxa101-practical-session-1](../sources/fxa101-week05-fxa101-practical-session-1.md)
+- [fxa202-week03-a-mindfulness-hospital-stay](../sources/fxa202-week03-a-mindfulness-hospital-stay.md)
 - [fxa202-week06-winding-paths-a-photo-essay-on-emotional-health-during](../sources/fxa202-week06-winding-paths-a-photo-essay-on-emotional-health-during.md)
 - [fxa202-week09-5-benefits-of-journaling-for-mental-health](../sources/fxa202-week09-5-benefits-of-journaling-for-mental-health.md)
 - [fxa202-week09-noticing-a-photo-essay](../sources/fxa202-week09-noticing-a-photo-essay.md)

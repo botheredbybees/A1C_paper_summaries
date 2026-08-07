@@ -5,9 +5,10 @@ title: "Impact of Extracurricular Activities on Academic Outcomes"
 confidence: medium
 tags: ["academic-outcomes"]
 sources:
+  - fxa301-week03-investigating-the-causal-effects-of-arts-education
   - fxa301-week08-the-effect-of-extracurricular-participation-on-academic
   - fxa303-week11-the-impact-of-instrumental-music-learning-on-attainment-at
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Impact of Extracurricular Activities on Academic Outcomes
@@ -26,5 +27,6 @@ The integration of extracurricular activities into the educational landscape has
 
 ## Sources
 
+- [fxa301-week03-investigating-the-causal-effects-of-arts-education](../sources/fxa301-week03-investigating-the-causal-effects-of-arts-education.md)
 - [fxa301-week08-the-effect-of-extracurricular-participation-on-academic](../sources/fxa301-week08-the-effect-of-extracurricular-participation-on-academic.md)
 - [fxa303-week11-the-impact-of-instrumental-music-learning-on-attainment-at](../sources/fxa303-week11-the-impact-of-instrumental-music-learning-on-attainment-at.md)

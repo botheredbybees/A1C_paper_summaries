@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: exposure-only-treatment
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Exposure Only Treatment

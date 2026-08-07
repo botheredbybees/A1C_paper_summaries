@@ -11,7 +11,7 @@ tags: ["music-therapy", "cognitive-impaired-adults", "hospital-interventions", "
 key_concepts: ["individualized-music-based-intervention", "acute-neuropsychiatric-symptoms", "nonpharmacological-treatment"]
 methods: ["prospective-controlled-trial"]
 slug: fxa100-week03-an-individualized-music-based-intervention-for-acute
-related: ["music-therapy"]
+related: ["music-therapy", "neuropsychiatry"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,3 +43,4 @@ This study evaluated the efficacy of an individualized music-based intervention 
 ## See Also
 
 - [music-therapy](../topics/music-therapy.md)
+- [neuropsychiatry](../topics/neuropsychiatry.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: community-singing-groups
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Community Singing Groups

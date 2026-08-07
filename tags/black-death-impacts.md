@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: black-death-impacts
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Black Death Impacts

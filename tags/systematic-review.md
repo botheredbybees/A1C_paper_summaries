@@ -1,15 +1,17 @@
 ---
 type: tag
 tag: systematic-review
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Systematic Review
 
-- [Effect of Antidiabetic Drugs in Alzheimer's Disease: A Systematic Review](../sources/fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a.md)
+- [Effect of Antidiabetic Drugs in Alzheimer's Disease: A Systematic Review of Preclinical and Clinical Studies](../sources/fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a.md)
 - [Dance movement therapy for dementia](../sources/fxa100-week09-dance-movement-therapy-for-dementia.md)
+- [Effectiveness of Creative Story Therapy for Dementia: A Systematic Review and Meta-Analysis](../sources/fxa100-week09-effectiveness-of-creative-story-therapy-for-dementia-a.md)
 - [Key components of person-centered care for people with dementia: A systematic review of interventions to design a patient preference study](../sources/fxa100-week09-key-components-of-person-centered-care-for-people-with.md)
 - [Key Intervention Categories to Provide Person-Centered Dementia Care: A Systematic Review of Person-Centered Interventions](../sources/fxa100-week09-key-intervention-categories-to-provide-person-centered.md)
+- [Art therapies and dementia care: A systematic review](../sources/fxa100-week11-art-therapies-and-dementia-care-a-systematic-review.md)
 - [Applicability and Effects of Physical Exercise on Physical and Cognitive Functions and Activities of Daily Living Among People With Dementia](../sources/fxa100-week13-applicability-and-effects-of-physical-exercise-on-physical.md)
 - [Dance therapy as an intervention for stress and depression: a systematic review and meta-analysis](../sources/fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression.md)
 - [Dancing as a psychosocial intervention in care homes: a systematic review of the literature](../sources/fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a.md)
@@ -35,8 +37,11 @@ updated: 2026-07-28
 - [Effectiveness of music therapy in children with autism spectrum disorder: A systematic review and meta-analysis](../sources/fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism.md)
 - [Music Therapy for Children With Autistic Spectrum Disorder and/or Other Neurodevelopmental Disorders: A Systematic Review](../sources/fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder.md)
 - [Clown therapy for procedural pain in children: a systematic review and meta-analysis](../sources/fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic.md)
+- [Art therapy with children and adolescents experiencing acute or severe mental health conditions: A systematic review](../sources/fxa303-week09-art-therapy-with-children-and-adolescents-experiencing.md)
 - [The Effectiveness of Art Therapy in the Treatment of Traumatized Adults: A Systematic Review on Art Therapy and Trauma](../sources/fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of.md)
 - [Creative arts therapies for the mental health of emerging adults: A systematic review](../sources/fxa303-week11-creative-arts-therapies-for-the-mental-health-of-emerging.md)
+- [Does regular engagement with arts and creative activities improve adolescent mental health and wellbeing? A systematic review and assessment of causality](../sources/fxa303-week11-does-regular-engagement-with-arts-and-creative-activities.md)
+- [The impact of viewing art on well-being\u2014a systematic review of the evidence base and suggested mechanisms](../sources/fxa303-week11-the-impact-of-viewing-art-on-well-beinga-systematic-review.md)
 - [Cognitive training and cognitive rehabilitation for mild to moderate Alzheimer's disease and vascular dementia](../sources/fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to.md)
 - [Dance Movement Therapy for Neurodegenerative Diseases: A Systematic Review](../sources/fxa303-week13-dance-movement-therapy-for-neurodegenerative-diseases-a.md)
 - [Humor Assessment and Interventions in Palliative Care: A Systematic Review](../sources/fxa303-week13-humor-assessment-and-interventions-in-palliative-care-a.md)
@@ -46,3 +51,4 @@ updated: 2026-07-28
 - [Therapeutic clowns in pediatrics: a systematic review and meta-analysis of randomized controlled trials](../sources/fxa303-week13-therapeutic-clowns-in-pediatrics-a-systematic-review-and.md)
 - [Creative Arts Interventions for Stress Management and Prevention\u2014A Systematic Review](../sources/psy214-week00-creative-arts-interventions-for-stress-management-and.md)
 - [Happy to help? A systematic review and meta-analysis of the effects of performing acts of kindness on the well-being of the actor](../sources/psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the.md)
+- [Mindfulness and acceptance-based trainings for fostering self-care and reducing stress in mental health professionals: A systematic review](../sources/psy214-week07-mindfulness-and-acceptance-based-trainings-for-fostering.md)

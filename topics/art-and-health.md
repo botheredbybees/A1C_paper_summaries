@@ -5,9 +5,10 @@ title: "Art in Healthcare Environments"
 confidence: medium
 tags: ["art-and-health"]
 sources:
+  - fxa100-week07-the-impact-of-creative-engagement-in-museum-activities-on
   - fxa301-oxford-textbook-of-creative-arts-ch05-1992-conference-report
   - fxa301-oxford-textbook-of-creative-arts-ch18-chapter-3
-updated: 2026-05-15
+updated: 2026-08-07
 ---
 
 ## Art in Healthcare Environments
@@ -26,5 +27,6 @@ The integration of arts and creative interventions into healthcare settings has 
 
 ## Sources
 
+- [fxa100-week07-the-impact-of-creative-engagement-in-museum-activities-on](../sources/fxa100-week07-the-impact-of-creative-engagement-in-museum-activities-on.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch05-1992-conference-report](../sources/fxa301-oxford-textbook-of-creative-arts-ch05-1992-conference-report.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch18-chapter-3](../sources/fxa301-oxford-textbook-of-creative-arts-ch18-chapter-3.md)

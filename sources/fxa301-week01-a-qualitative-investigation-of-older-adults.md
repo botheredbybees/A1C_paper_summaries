@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "A Qualitative Investigation of Older Adults\u2019 Conceptualization of Quality of Life and a Think-Aloud Content Validation of the EQ-5D-5L, SF-12v2, Warwick Edinburgh Mental Well-Being Scale, and Office of National Statistics-4"
-apa7: "Penton, H., Dayson, C., Hulme, C., & Young, T. (2022). A qualitative investigation of older adults\u2019 conceptualization of quality of life and a think-aloud content validation of the EQ-5D-5L, SF-12v2, Warwick Edinburgh Mental Well-being Scale, and Office of National Statistics-4. Value in Health, 25(12), 2017\u20132027. https://doi.org/10.1016/j.jval.2022.09.003"
-doi: https://doi.org/10.1016/j.jval.2022.09.003
+apa7: "Penton, H., Dayson, C., Hulme, C., & Young, T. (2022). A Qualitative Investigation of Older Adults' Conceptualization of Quality of Life and a Think-Aloud Content Validation of the EQ-5D-5L, SF-12v2, Warwick Edinburgh Mental Wellbeing Scale, and Office of National Statistics-4.. *Value in Health*. https://doi.org/10.1016/j.jval.2022.04.1735"
+doi: https://doi.org/10.1016/j.jval.2022.04.1735
 appearances:
   - unit: FXA301
     week: "01"

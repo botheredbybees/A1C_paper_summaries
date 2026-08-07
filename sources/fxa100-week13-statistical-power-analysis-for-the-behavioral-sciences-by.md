@@ -11,7 +11,7 @@ tags: ["behavioral-sciences", "effect-size", "fxa100", "power-analysis", "sample
 key_concepts: ["effect-size", "power-analysis", "research-methodology"]
 methods: ["systematic-review"]
 slug: fxa100-week13-statistical-power-analysis-for-the-behavioral-sciences-by
-related: ["behavioral-sciences", "effect-size", "sample-size-determination", "statistical-power-analysis"]
+related: ["behavioral-sciences", "effect-size", "sample-size-determination"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -42,4 +42,3 @@ Sylvia Wassertheil's review of Jacob Cohen's 'Statistical Power Analysis for the
 - [behavioral-sciences](../topics/behavioral-sciences.md)
 - [effect-size](../topics/effect-size.md)
 - [sample-size-determination](../topics/sample-size-determination.md)
-- [statistical-power-analysis](../topics/statistical-power-analysis.md)

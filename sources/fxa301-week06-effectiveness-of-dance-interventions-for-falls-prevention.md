@@ -11,7 +11,7 @@ tags: ["falls-prevention", "dance-interventions", "older-adults", "systematic-re
 key_concepts: ["falls prevention", "dance intervention efficacy", "functional outcome measures"]
 methods: ["systematic review", "meta-analysis"]
 slug: fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention
-related: ["dance-interventions", "falls-prevention", "meta-analysis", "older-adults", "systematic-review"]
+related: ["falls-prevention", "falls-prevention-in-older-adults", "meta-analysis", "older-adults", "systematic-review"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,8 +44,8 @@ This systematic review and meta-analysis evaluates the effectiveness of dance in
 
 ## See Also
 
-- [dance-interventions](../topics/dance-interventions.md)
 - [falls-prevention](../topics/falls-prevention.md)
+- [falls-prevention-in-older-adults](../topics/falls-prevention-in-older-adults.md)
 - [meta-analysis](../topics/meta-analysis.md)
 - [older-adults](../topics/older-adults.md)
 - [systematic-review](../topics/systematic-review.md)

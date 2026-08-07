@@ -11,7 +11,7 @@ tags: ["creative-journaling", "neuroscience-of-creativity", "academic-integrity"
 key_concepts: ["expressive-writing", "visual-journalling", "generative-artificial-intelligence"]
 methods: ["systematic-review"]
 slug: fxa101-week01-fxa101-sem-2-2026-web-lecture-1-week-1
-related: ["generative-artificial-intelligence", "neuroscience-of-creativity"]
+related: ["academic-integrity", "generative-artificial-intelligence", "neuroscience-of-creativity"]
 created: 2026-07-06
 updated: 2026-07-06
 ---
@@ -41,5 +41,6 @@ This document outlines the structure and requirements of the 'FXA101 Creativity 
 
 ## See Also
 
+- [academic-integrity](../topics/academic-integrity.md)
 - [generative-artificial-intelligence](../topics/generative-artificial-intelligence.md)
 - [neuroscience-of-creativity](../topics/neuroscience-of-creativity.md)

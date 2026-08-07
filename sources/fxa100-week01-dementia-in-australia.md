@@ -11,7 +11,7 @@ tags: ["dementia-prevalence", "risk-factors", "public-awareness", "fxa100"]
 key_concepts: ["modifiable-risk-factors", "national-action-plan"]
 methods: ["report-analysis"]
 slug: fxa100-week01-dementia-in-australia
-related: ["dementia-prevalence", "risk-factors"]
+related: ["dementia-prevalence", "public-awareness", "risk-factors"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,4 +45,5 @@ The report also covers awareness about dementia among Australians, revealing a g
 ## See Also
 
 - [dementia-prevalence](../topics/dementia-prevalence.md)
+- [public-awareness](../topics/public-awareness.md)
 - [risk-factors](../topics/risk-factors.md)

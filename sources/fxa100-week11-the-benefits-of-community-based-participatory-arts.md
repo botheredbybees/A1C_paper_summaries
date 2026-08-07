@@ -11,7 +11,7 @@ tags: ["community-arts", "dementia-care", "fxa100", "in-the-moment-experiences",
 key_concepts: ["person-centered care", "participation and communication", "in-the-moment experiences"]
 methods: ["thematic scoping review"]
 slug: fxa100-week11-the-benefits-of-community-based-participatory-arts
-related: ["community-arts", "dementia-care", "participatory-research", "quality-of-life"]
+related: ["community-arts", "dementia-care", "participatory-research", "quality-of-life", "social-well-being"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -45,3 +45,4 @@ This thematic scoping review explores the impact of community-based participator
 - [dementia-care](../topics/dementia-care.md)
 - [participatory-research](../topics/participatory-research.md)
 - [quality-of-life](../topics/quality-of-life.md)
+- [social-well-being](../topics/social-well-being.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-activities-brain-changes
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Mental Activities Brain Changes

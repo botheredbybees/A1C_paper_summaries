@@ -11,7 +11,7 @@ tags: ["arts-and-culture", "economic-impact", "educational-value", "extrinsic-be
 key_concepts: ["intrinsic value of arts", "extrinsic benefits", "cultural engagement"]
 methods: ["systematic review"]
 slug: fxa301-week01-the-value-of-arts-and-culture-to-people-and-society-an
-related: ["arts-and-culture", "health-outcomes"]
+related: ["arts-and-culture", "economic-impact", "health-outcomes"]
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -46,4 +46,5 @@ Overall, this report underscores the multifaceted ways in which arts and culture
 ## See Also
 
 - [arts-and-culture](../topics/arts-and-culture.md)
+- [economic-impact](../topics/economic-impact.md)
 - [health-outcomes](../topics/health-outcomes.md)

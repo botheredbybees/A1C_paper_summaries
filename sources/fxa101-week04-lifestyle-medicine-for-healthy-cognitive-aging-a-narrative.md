@@ -11,7 +11,7 @@ tags: ["lifestyle-medicine", "cognitive-aging", "neurodegeneration-prevention", 
 key_concepts: ["dietary-interventions", "exercise-benefits", "mindfulness"]
 methods: ["narrative-review"]
 slug: fxa101-week04-lifestyle-medicine-for-healthy-cognitive-aging-a-narrative
-related: ["cognitive-aging", "dietary-interventions", "lifestyle-medicine", "mindfulness-practice", "neurodegeneration-prevention", "public-health-strategies"]
+related: ["cognitive-aging", "dietary-interventions", "lifestyle-factors-in-neurodegeneration-prevention", "lifestyle-medicine", "mindfulness-practice", "public-health-strategies"]
 created: 2026-07-28
 updated: 2026-07-28
 ---
@@ -45,7 +45,7 @@ The article discusses the role of lifestyle medicine in preventing dementia and 
 
 - [cognitive-aging](../topics/cognitive-aging.md)
 - [dietary-interventions](../topics/dietary-interventions.md)
+- [lifestyle-factors-in-neurodegeneration-prevention](../topics/lifestyle-factors-in-neurodegeneration-prevention.md)
 - [lifestyle-medicine](../topics/lifestyle-medicine.md)
 - [mindfulness-practice](../topics/mindfulness-practice.md)
-- [neurodegeneration-prevention](../topics/neurodegeneration-prevention.md)
 - [public-health-strategies](../topics/public-health-strategies.md)

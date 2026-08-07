@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: gender-identity
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Gender Identity

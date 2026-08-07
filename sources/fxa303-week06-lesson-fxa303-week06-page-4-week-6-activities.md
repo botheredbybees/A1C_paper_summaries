@@ -11,7 +11,7 @@ tags: ["puppet-therapy", "emotional-regulation", "creative-expression", "fxa303"
 key_concepts: ["externalization of emotions", "symbolic clients"]
 methods: []
 slug: fxa303-week06-lesson-fxa303-week06-page-4-week-6-activities
-related: ["creative-expression", "emotional-regulation", "puppet-therapy"]
+related: ["creative-expression", "emotional-regulation", "puppet-assisted-play-therapy-for-children"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,4 +42,4 @@ This week's module focuses on puppet therapy, emphasizing the use of puppets in 
 
 - [creative-expression](../topics/creative-expression.md)
 - [emotional-regulation](../topics/emotional-regulation.md)
-- [puppet-therapy](../topics/puppet-therapy.md)
+- [puppet-assisted-play-therapy-for-children](../topics/puppet-assisted-play-therapy-for-children.md)

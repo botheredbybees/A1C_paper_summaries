@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-storytelling
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Visual Storytelling
@@ -12,8 +12,11 @@ updated: 2026-07-28
 - [60 Inspiring Examples of Black and White Photography](../sources/fxa202-week02-60-inspiring-examples-of-black-and-white-photography.md)
 - [LAW122 Legal Systems: Activities for Week 4](../sources/fxa202-week02-lesson-fxa202-week02-page-4.md)
 - [Negative space in Photography (and positive space)](../sources/fxa202-week02-negative-space-in-photography-and-positive-space.md)
+- [Out of Focus\u2014On Purpose](../sources/fxa202-week02-out-of-focuson-purpose.md)
 - [Photography tips: Point of View Composition](../sources/fxa202-week02-photography-tips-point-of-view-composition.md)
 - [Street Photography Composition Lesson #12: Color Theory](../sources/fxa202-week02-street-photography-composition-lesson-12-color-theory.md)
+- [Week 4 Lecture: Storytelling with Image and Text](../sources/fxa202-week02-week-4-lecture-storytelling-with-image-and-text.md)
+- [A Healing Journey](../sources/fxa202-week03-a-healing-journey.md)
 - [Introduction to Visual Storytelling](../sources/fxa202-week05-introduction-to-visual-storytelling.md)
 - [Structuring Your Visual Story](../sources/fxa202-week05-lesson-fxa202-week05-chapter-2-beginnings-and-endings.md)
 - [LAW122 Legal Systems Week 7 Activities](../sources/fxa202-week05-lesson-fxa202-week05-page-4.md)

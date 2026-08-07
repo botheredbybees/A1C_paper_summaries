@@ -11,7 +11,7 @@ tags: ["music-expertise", "deliberate-practice", "brain-development", "talent-pe
 key_concepts: ["10,000-hour-rule", "innate-talent-vs-training"]
 methods: []
 slug: fxa300-week02-what-makes-a-musician
-related: ["brain-development"]
+related: ["brain-development", "deliberate-practice"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -44,3 +44,4 @@ The chapter 'What Makes a Musician?' by Daniel J. Levitin explores the factors c
 ## See Also
 
 - [brain-development](../topics/brain-development.md)
+- [deliberate-practice](../topics/deliberate-practice.md)

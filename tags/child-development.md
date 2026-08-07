@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: child-development
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Child Development
@@ -10,6 +10,7 @@ updated: 2026-07-28
 - [Effects of Music Training on Inhibitory Control and Associated Neural Networks in School-Aged Children: A Longitudinal Study](../sources/fxa101-week03-effects-of-music-training-on-inhibitory-control-and.md)
 - [Poverty, Stress, and Brain Development: New Directions for Prevention and Intervention](../sources/fxa101-week03-poverty-stress-and-brain-development-new-directions-for.md)
 - [Seeking Out the New: How Music Teaches Children to Create and Innovate](../sources/fxa101-week03-seeking-out-the-new-how-music-teaches-children-to-create.md)
+- [Movement-Based Music in the Classroom: Investigating the Effects of Music Programs Incorporating Body Movement in Primary School Children](../sources/fxa300-week01-movement-based-music-in-the-classroom-investigating-the.md)
 - [How music affects your baby\u2019s brain: Mini Parenting Master Class](../sources/fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master.md)
 - [Evaluation of Big Noise Douglas](../sources/fxa301-week06-evaluation-of-big-noise-douglas.md)
 - [An Overview of Play Therapy](../sources/fxa303-week01-an-overview-of-play-therapy.md)
@@ -19,10 +20,13 @@ updated: 2026-07-28
 - [Child Development - FXA303 Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week02-child-development-fxa303-creative-arts-play-and-mental.md)
 - [Developmental Role of Creative Arts and Play](../sources/fxa303-week02-developmental-role-of-creative-arts-and-play.md)
 - [Free Play and Children\u2019s Mental Health](../sources/fxa303-week02-free-play-and-childrens-mental-health.md)
+- [Free Play and Children's Mental Health](../sources/fxa303-week02-free-play-and-childrens-mental-health-%282%29.md)
 - [FXA303 Week 2: Child Development and Creative Arts](../sources/fxa303-week02-fxa303-week-2-child-development-and-creative-arts.md)
+- [FXA303 Week 2: Introduction to Child Development and Play](../sources/fxa303-week02-fxa303-week-2-introduction-to-child-development-and-play.md)
 - [In rememberance of David Whitebread: a tribute to David Whitebread\u2019s research career](../sources/fxa303-week02-in-rememberance-of-david-whitebread-a-tribute-to-david.md)
 - [Child Development: The Critical First 1000 Days](../sources/fxa303-week02-lesson-fxa303-week02-introduction.md)
 - [FXA303 Creative Arts, Play and Mental Wellbeing - Week 2 Overview](../sources/fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview.md)
+- [Web Lecture 2, Week 2](../sources/fxa303-week02-web-lecture-2-week-2.md)
 - [Week 2 Overview - FXA303 Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental.md)
 - [Effectiveness of music therapy in children with autism spectrum disorder: A systematic review and meta-analysis](../sources/fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism.md)
 - [Evaluation of 'Images of Self,' an Art Therapy Program for Children Diagnosed with Autism Spectrum Disorders (ASD)](../sources/fxa303-week04-evaluation-of-images-of-self-an-art-therapy-program-for.md)

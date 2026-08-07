@@ -5,10 +5,11 @@ title: "Gender Diversity in Creative Arts Programs"
 confidence: medium
 tags: ["gender-diversity"]
 sources:
+  - fxa303-week11-erasing-gender-diversity-a-human-rights-and-social-work
   - fxa303-week11-lesson-fxa303-week11-page-2
   - fxa303-week11-web-article-hardy-2019
   - fxa303-week11-your-guide-to-celebrating-queer-and-gender-diverse-stories
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Gender Diversity in Creative Arts Programs
@@ -27,6 +28,7 @@ The provided sources highlight the critical role of creative arts programs in su
 
 ## Sources
 
+- [fxa303-week11-erasing-gender-diversity-a-human-rights-and-social-work](../sources/fxa303-week11-erasing-gender-diversity-a-human-rights-and-social-work.md)
 - [fxa303-week11-lesson-fxa303-week11-page-2](../sources/fxa303-week11-lesson-fxa303-week11-page-2.md)
 - [fxa303-week11-web-article-hardy-2019](../sources/fxa303-week11-web-article-hardy-2019.md)
 - [fxa303-week11-your-guide-to-celebrating-queer-and-gender-diverse-stories](../sources/fxa303-week11-your-guide-to-celebrating-queer-and-gender-diverse-stories.md)

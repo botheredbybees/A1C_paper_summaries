@@ -3,20 +3,26 @@ confidence: high
 domain: intervention
 slug: creative-arts-interventions
 sources:
+  - fxa100-week06-care-staff-and-the-creative-arts-exploring-the-context-of
   - fxa100-week12-lesson-fxa100-week12-page-2-so-what-have-we-learned
+  - fxa100-week13-a-brief-report-on-reviews-of-existing-creative-artbased
   - fxa101-week02-good-for-the-heart-good-for-the-soul-the-creative-arts-and
   - fxa301-week05-support-programs-ut-md-anderson
+  - fxa301-week08-clown-doctors-australia-national-impact-summary
+  - fxa301-week08-week-8-lecture-on-applying-theatre-and-literature-for
   - fxa303-week02-play-creative-arts-and-wellbeing
   - fxa303-week03-creative-arts-interventions-for-stress-management-and
   - fxa303-week04-fxa303-week-4-introduction
   - fxa303-week09-effectiveness-of-creative-arts-based-interventions-for
+  - fxa303-week09-fxa303-web-lecture-week-9-may-2026
   - fxa303-week09-the-afloat-project-(2)
+  - fxa303-week09-the-impact-of-creative-arts-based-interventions-for-mental
   - psy214-week00-creative-arts-interventions-for-stress-management-and
 tags:
 - creative-arts-interventions
 title: Creative Arts Interventions
 type: topic
-updated: 2026-07-13
+updated: 2026-08-07
 ---
 
 ## Creative Arts Interventions
@@ -39,12 +45,18 @@ Neuroscience contributes another layer to this discussion, suggesting that these
 
 ## Sources
 
+- [fxa100-week06-care-staff-and-the-creative-arts-exploring-the-context-of](../sources/fxa100-week06-care-staff-and-the-creative-arts-exploring-the-context-of.md)
 - [fxa100-week12-lesson-fxa100-week12-page-2-so-what-have-we-learned](../sources/fxa100-week12-lesson-fxa100-week12-page-2-so-what-have-we-learned.md)
+- [fxa100-week13-a-brief-report-on-reviews-of-existing-creative-artbased](../sources/fxa100-week13-a-brief-report-on-reviews-of-existing-creative-artbased.md)
 - [fxa101-week02-good-for-the-heart-good-for-the-soul-the-creative-arts-and](../sources/fxa101-week02-good-for-the-heart-good-for-the-soul-the-creative-arts-and.md)
 - [fxa301-week05-support-programs-ut-md-anderson](../sources/fxa301-week05-support-programs-ut-md-anderson.md)
+- [fxa301-week08-clown-doctors-australia-national-impact-summary](../sources/fxa301-week08-clown-doctors-australia-national-impact-summary.md)
+- [fxa301-week08-week-8-lecture-on-applying-theatre-and-literature-for](../sources/fxa301-week08-week-8-lecture-on-applying-theatre-and-literature-for.md)
 - [fxa303-week02-play-creative-arts-and-wellbeing](../sources/fxa303-week02-play-creative-arts-and-wellbeing.md)
 - [fxa303-week03-creative-arts-interventions-for-stress-management-and](../sources/fxa303-week03-creative-arts-interventions-for-stress-management-and.md)
 - [fxa303-week04-fxa303-week-4-introduction](../sources/fxa303-week04-fxa303-week-4-introduction.md)
 - [fxa303-week09-effectiveness-of-creative-arts-based-interventions-for](../sources/fxa303-week09-effectiveness-of-creative-arts-based-interventions-for.md)
+- [fxa303-week09-fxa303-web-lecture-week-9-may-2026](../sources/fxa303-week09-fxa303-web-lecture-week-9-may-2026.md)
 - [fxa303-week09-the-afloat-project-(2)](../sources/fxa303-week09-the-afloat-project-%282%29.md)
+- [fxa303-week09-the-impact-of-creative-arts-based-interventions-for-mental](../sources/fxa303-week09-the-impact-of-creative-arts-based-interventions-for-mental.md)
 - [psy214-week00-creative-arts-interventions-for-stress-management-and](../sources/psy214-week00-creative-arts-interventions-for-stress-management-and.md)

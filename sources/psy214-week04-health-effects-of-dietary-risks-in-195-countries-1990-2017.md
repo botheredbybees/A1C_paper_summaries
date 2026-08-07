@@ -11,7 +11,7 @@ tags: ["dietary-risks", "global-health", "non-communicable-diseases", "psy214", 
 key_concepts: ["suboptimal-diet", "mortality-risk-factors"]
 methods: ["systematic-analysis"]
 slug: psy214-week04-health-effects-of-dietary-risks-in-195-countries-1990-2017
-related: ["global-health", "non-communicable-diseases", "suboptimal-diet"]
+related: ["arts-based-strategies-for-youth-mental-health", "non-communicable-diseases", "suboptimal-diet"]
 created: 2026-07-28
 updated: 2026-07-28
 ---
@@ -41,6 +41,6 @@ A recent study published in The Lancet and summarized by NewsRx explores the sig
 
 ## See Also
 
-- [global-health](../topics/global-health.md)
+- [arts-based-strategies-for-youth-mental-health](../topics/arts-based-strategies-for-youth-mental-health.md)
 - [non-communicable-diseases](../topics/non-communicable-diseases.md)
 - [suboptimal-diet](../topics/suboptimal-diet.md)

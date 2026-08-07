@@ -2,7 +2,7 @@
 type: source
 source_type: paper
 title: "The Complexities of Implementing an LGBT Inclusion Scheme in Residential Care"
-apa7: "Pijpers, R., & Honsbeek, K. (2023). The complexities of implementing an LGBT inclusion scheme in residential care: Sharing knowledge, overcoming opposition and producing in- and exclusion. Ageing & Society, 45, 594\u2013613. https://doi.org/10.1017/S0144686X23000624"
+apa7: "Pijpers, R., & Honsbeek, K. (2023). The complexities of implementing an LGBT inclusion scheme in residential care: Sharing knowledge, overcoming opposition and producing in- and exclusion. Ageing & Society, 45(3), 594\u2013613. https://doi.org/10.1017/S0144686X23000624"
 doi: https://doi.org/10.1017/S0144686X23000624
 appearances:
   - unit: FXA303
@@ -13,7 +13,7 @@ methods: ["case study"]
 slug: fxa303-week13-the-complexities-of-implementing-an-lgbt-inclusion-scheme
 related: ["nursing-homes", "residential-care"]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-08-02
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week13-the-complexities-of-implementing-an-lgbt-inclusion-scheme.md_

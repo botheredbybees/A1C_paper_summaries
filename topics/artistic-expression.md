@@ -4,13 +4,14 @@ domain: intervention
 slug: artistic-expression-in-dementia-care
 sources:
   - fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers
+  - fxa100-week06-the-influence-of-frontotemporal-dementia-on-an-accomplished
   - fxa202-week13-shifting-perspectives-exploring-the-intersection-of
   - fxa303-week11-artistic-expression-as-a-source-of-resilience-for
 tags:
 - artistic-expression
 title: Artistic Expression in Dementia Care
 type: topic
-updated: 2026-05-15
+updated: 2026-08-07
 ---
 
 ## Artistic Expression in Dementia Care
@@ -30,5 +31,6 @@ The integration of artistic expression into dementia care is a multidimensional 
 ## Sources
 
 - [fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers](../sources/fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers.md)
+- [fxa100-week06-the-influence-of-frontotemporal-dementia-on-an-accomplished](../sources/fxa100-week06-the-influence-of-frontotemporal-dementia-on-an-accomplished.md)
 - [fxa202-week13-shifting-perspectives-exploring-the-intersection-of](../sources/fxa202-week13-shifting-perspectives-exploring-the-intersection-of.md)
 - [fxa303-week11-artistic-expression-as-a-source-of-resilience-for](../sources/fxa303-week11-artistic-expression-as-a-source-of-resilience-for.md)

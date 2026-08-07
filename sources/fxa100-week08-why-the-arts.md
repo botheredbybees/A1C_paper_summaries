@@ -11,7 +11,7 @@ tags: ["creative-therapies", "dementia-care", "enhancing-well-being-through-the-
 key_concepts: ["creativity in dementia", "self-expression through arts", "enhancing well-being"]
 methods: ["practical guide"]
 slug: fxa100-week08-why-the-arts
-related: ["creative-therapies", "dementia-care", "self-expression", "well-being-through-art"]
+related: ["creative-therapies", "dementia-care", "self-expression", "well-being-through-creative-arts"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,4 +46,4 @@ The text explores the concept of creativity in the context of dementia care, arg
 - [creative-therapies](../topics/creative-therapies.md)
 - [dementia-care](../topics/dementia-care.md)
 - [self-expression](../topics/self-expression.md)
-- [well-being-through-art](../topics/well-being-through-art.md)
+- [well-being-through-creative-arts](../topics/well-being-through-creative-arts.md)

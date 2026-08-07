@@ -11,7 +11,7 @@ tags: ["cognitive-styles", "musical-preferences", "empathizing-systemizing-theor
 key_concepts: ["empathizing", "systemizing"]
 methods: ["correlational study"]
 slug: fxa100-week03-musical-preferences-are-linked-to-cognitive-styles
-related: []
+related: ["musical-preferences"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,4 +40,4 @@ The research article explores the relationship between cognitive styles, specifi
 
 ## See Also
 
-*(none yet)*
+- [musical-preferences](../topics/musical-preferences.md)

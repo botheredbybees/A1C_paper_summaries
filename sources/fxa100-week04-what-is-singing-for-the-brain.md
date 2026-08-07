@@ -11,7 +11,7 @@ tags: ["singing-for-brain", "dementia-care", "social-connection", "well-being-th
 key_concepts: ["communal singing", "emotional release through music", "sense of belonging"]
 methods: ["case study"]
 slug: fxa100-week04-what-is-singing-for-the-brain
-related: ["dementia-care", "social-connection", "therapeutic-benefits", "well-being-through-art"]
+related: ["dementia-care", "social-connection", "therapeutic-benefits", "well-being-through-creative-arts"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,4 +46,4 @@ The document presents a transcript of an interview and discussion surrounding 'S
 - [dementia-care](../topics/dementia-care.md)
 - [social-connection](../topics/social-connection.md)
 - [therapeutic-benefits](../topics/therapeutic-benefits.md)
-- [well-being-through-art](../topics/well-being-through-art.md)
+- [well-being-through-creative-arts](../topics/well-being-through-creative-arts.md)

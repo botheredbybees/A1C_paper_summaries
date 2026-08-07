@@ -11,7 +11,7 @@ tags: ["neuroimaging-analysis", "brain-music-processing", "cognitive-neuroscienc
 key_concepts: ["activation likelihood estimation (ALE)", "top-down processing", "bottom-up processing"]
 methods: ["ale meta-analysis"]
 slug: fxa300-week04-an-ale-meta-analytic-review-of-top-down-and-bottom-up
-related: ["cognitive-neuroscience", "top-down-processing"]
+related: ["brain-music-processing", "cognitive-neuroscience", "top-down-processing"]
 created: 2026-07-28
 updated: 2026-07-28
 ---
@@ -43,5 +43,6 @@ This paper presents a comprehensive meta-analysis of neuroimaging studies focusi
 
 ## See Also
 
+- [brain-music-processing](../topics/brain-music-processing.md)
 - [cognitive-neuroscience](../topics/cognitive-neuroscience.md)
 - [top-down-processing](../topics/top-down-processing.md)

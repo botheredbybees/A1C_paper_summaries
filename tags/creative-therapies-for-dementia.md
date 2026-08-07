@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-therapies-for-dementia
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Creative Therapies For Dementia

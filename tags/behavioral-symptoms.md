@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: behavioral-symptoms
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Behavioral Symptoms
@@ -9,6 +9,7 @@ updated: 2026-07-28
 - [Dance movement therapy for dementia](../sources/fxa100-week09-dance-movement-therapy-for-dementia.md)
 - [DANCE AND MOVEMENT THERAPEUTIC METHODS IN MANAGEMENT OF DEMENTIA: A RANDOMIZED, CONTROLLED STUDY](../sources/fxa100-week11-dance-and-movement-therapeutic-methods-in-management-of.md)
 - [Efficacy of Creative Arts Therapy in Treatment of Alzheimer\u2019s Disease and Dementia: A Systematic Literature Review](../sources/fxa100-week11-efficacy-of-creative-arts-therapy-in-treatment-of.md)
+- [Creative Art Therapy as a Non-Pharmacological Intervention for Dementia: A Systematic Review](../sources/fxa100-week12-creative-art-therapy-as-a-non-pharmacological-intervention.md)
 - [Behavioral and Psychological Signs and Symptoms of Dementia: A Consensus Statement on Current Knowledge and Implications for Research and Treatment](../sources/fxa100-week13-behavioral-and-psychological-signs-and-symptoms-of-dementia.md)
 - [Impact of dance interventions on the symptoms of dementia: A mixed-methods systematic review](../sources/fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a.md)
 - [Non-pharmacological Interventions to Reduce Behavioral and Psychological Symptoms of Dementia](../sources/fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and.md)

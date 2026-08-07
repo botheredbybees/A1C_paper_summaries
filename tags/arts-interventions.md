@@ -1,17 +1,21 @@
 ---
 type: tag
 tag: arts-interventions
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Arts Interventions
 
 - [FXA100: The Arts and Dementia Care - Week 1 Lecture Notes](../sources/fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes.md)
 - [Arts and Creativity Interventions for Improving Health and Wellbeing in Older Adults: A Systematic Literature Review of Economic Evaluation Studies](../sources/fxa100-week04-arts-and-creativity-interventions-for-improving-health-and.md)
+- [Mindsong \u2013 transcript](../sources/fxa100-week04-mindsong-transcript-%282%29.md)
 - [Dementia and Imagination: a mixed-methods protocol for arts and science research](../sources/fxa100-week06-dementia-and-imagination-a-mixed-methods-protocol-for-arts.md)
 - [Play and People Living With Dementia: A Humanities-Based Inquiry of TimeSlips and the Alzheimer\u2019s Poetry Project](../sources/fxa100-week10-play-and-people-living-with-dementia-a-humanities-based.md)
+- [The Arts as a Medium for Care and Self-Care in Dementia: Arguments and Evidence](../sources/fxa100-week11-the-arts-as-a-medium-for-care-and-self-care-in-dementia.md)
+- [Shall I Compare Thee to a Dose of Donepezil?: Cultural Arts Interventions in Dementia Care Research](../sources/fxa100-week13-shall-i-compare-thee-to-a-dose-of-donepezil-cultural-arts.md)
 - [Writing a Research Protocol](../sources/fxa301-week01-writing-a-research-protocol.md)
 - [The THRivE Toolkit: Tools for Health Research and Evaluation in Arts and Heritage](../sources/fxa301-week03-the-thrive-toolkit-tools-for-health-research-and-evaluation.md)
 - [Promoting the health and wellbeing of young Black men using community-based drama](../sources/fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using.md)
+- [The use of arts interventions for mental health and wellbeing in health settings](../sources/fxa301-week10-the-use-of-arts-interventions-for-mental-health-and.md)
 - [The Art of Observation: A Qualitative Analysis of Medical Students\u2019 Experiences](../sources/fxa302-week03-the-art-of-observation-a-qualitative-analysis-of-medical.md)
 - [Supporting youth mental health with arts-based strategies: a global perspective](../sources/fxa303-week11-supporting-youth-mental-health-with-arts-based-strategies-a.md)

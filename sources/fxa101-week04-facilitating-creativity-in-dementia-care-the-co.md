@@ -7,13 +7,15 @@ doi: https://doi.org/10.1017/S0144686X18001575
 appearances:
   - unit: FXA101
     week: "04"
-tags: ["dementia-care", "arts-based-intervention", "creative-expressions", "citizenship-model", "adult-learning-theory", "fxa101", "relational-model-of-citizenship", "co-construction"]
+  - unit: FXA100
+    week: "06"
+tags: ["dementia-care", "arts-based-intervention", "creative-expressions", "citizenship-model", "adult-learning-theory", "fxa101", "relational-model-of-citizenship", "co-construction", "fxa100"]
 key_concepts: ["relational model of citizenship", "adult learning theory", "co-construction", "agency"]
 methods: ["theoretically-driven secondary analysis"]
 slug: fxa101-week04-facilitating-creativity-in-dementia-care-the-co
 related: ["arts-based-intervention", "dementia-care"]
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa101-week04-facilitating-creativity-in-dementia-care-the-co.md_

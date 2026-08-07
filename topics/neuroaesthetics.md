@@ -5,27 +5,31 @@ slug: neuroaesthetics
 sources:
   - fxa100-week06-art-and-the-brain-a-view-from-dementia
   - fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia-(2)
+  - fxa100-week06-fxa100-week-6-lecture-visual-arts-the-brain-and-dementia
   - fxa100-week06-lesson-fxa100-week06-page-2-visual-arts-and-the-brain
   - fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers
   - fxa100-week06-the-brain-on-art-intense-aesthetic-experience-activates-the
   - fxa100-week06-visual-arts-and-the-brain
   - fxa100-week06-web-article-tucker-2012
   - fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the
+  - fxa100-week06-where-does-brain-neural-activation-in-aesthetic-responses
   - fxa100-week12-inner-vision-an-exploration-of-art-and-the-brain
   - fxa100-week13-anatomically-distinct-dopamine-release-during-anticipation
   - fxa101-week02-synaesthesia-creativity-and-art-what-is-the-link
   - fxa300-week01-emotional-responses-to-music-the-need-to-consider
+  - fxa300-week02-music-and-mind-harnessing-the-arts-for-health-and-wellness
   - fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession-(2)
   - fxa301-bridging-the-creative-arts-therapies-ch01-1-essential
   - fxa301-week01-week-2-introduction-fxa301-arts-in-the-community
   - fxa301-week02-lecture-on-perception-of-the-arts
   - fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and
   - fxa302-week03-your-brain-on-art-the-emerging-science-of-neuroaesthetics
+  - fxa302-week06-visual-art-and-transformation
 tags:
 - neuroaesthetics
 title: Neuroaesthetics
 type: topic
-updated: 2026-07-20
+updated: 2026-08-07
 ---
 
 ## Neuroaesthetics
@@ -46,19 +50,23 @@ Neuroaesthetics explores the neural underpinnings of human engagement with art a
 
 - [fxa100-week06-art-and-the-brain-a-view-from-dementia](../sources/fxa100-week06-art-and-the-brain-a-view-from-dementia.md)
 - [fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia-(2)](../sources/fxa100-week06-art-and-the-brain-the-influence-of-frontotemporal-dementia-%282%29.md)
+- [fxa100-week06-fxa100-week-6-lecture-visual-arts-the-brain-and-dementia](../sources/fxa100-week06-fxa100-week-6-lecture-visual-arts-the-brain-and-dementia.md)
 - [fxa100-week06-lesson-fxa100-week06-page-2-visual-arts-and-the-brain](../sources/fxa100-week06-lesson-fxa100-week06-page-2-visual-arts-and-the-brain.md)
 - [fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers](../sources/fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers.md)
 - [fxa100-week06-the-brain-on-art-intense-aesthetic-experience-activates-the](../sources/fxa100-week06-the-brain-on-art-intense-aesthetic-experience-activates-the.md)
 - [fxa100-week06-visual-arts-and-the-brain](../sources/fxa100-week06-visual-arts-and-the-brain.md)
 - [fxa100-week06-web-article-tucker-2012](../sources/fxa100-week06-web-article-tucker-2012.md)
 - [fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the](../sources/fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the.md)
+- [fxa100-week06-where-does-brain-neural-activation-in-aesthetic-responses](../sources/fxa100-week06-where-does-brain-neural-activation-in-aesthetic-responses.md)
 - [fxa100-week12-inner-vision-an-exploration-of-art-and-the-brain](../sources/fxa100-week12-inner-vision-an-exploration-of-art-and-the-brain.md)
 - [fxa100-week13-anatomically-distinct-dopamine-release-during-anticipation](../sources/fxa100-week13-anatomically-distinct-dopamine-release-during-anticipation.md)
 - [fxa101-week02-synaesthesia-creativity-and-art-what-is-the-link](../sources/fxa101-week02-synaesthesia-creativity-and-art-what-is-the-link.md)
 - [fxa300-week01-emotional-responses-to-music-the-need-to-consider](../sources/fxa300-week01-emotional-responses-to-music-the-need-to-consider.md)
+- [fxa300-week02-music-and-mind-harnessing-the-arts-for-health-and-wellness](../sources/fxa300-week02-music-and-mind-harnessing-the-arts-for-health-and-wellness.md)
 - [fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession-(2)](../sources/fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession-%282%29.md)
 - [fxa301-bridging-the-creative-arts-therapies-ch01-1-essential](../sources/fxa301-bridging-the-creative-arts-therapies-ch01-1-essential.md)
 - [fxa301-week01-week-2-introduction-fxa301-arts-in-the-community](../sources/fxa301-week01-week-2-introduction-fxa301-arts-in-the-community.md)
 - [fxa301-week02-lecture-on-perception-of-the-arts](../sources/fxa301-week02-lecture-on-perception-of-the-arts.md)
 - [fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and](../sources/fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and.md)
 - [fxa302-week03-your-brain-on-art-the-emerging-science-of-neuroaesthetics](../sources/fxa302-week03-your-brain-on-art-the-emerging-science-of-neuroaesthetics.md)
+- [fxa302-week06-visual-art-and-transformation](../sources/fxa302-week06-visual-art-and-transformation.md)

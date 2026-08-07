@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: narrative-medicine
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Narrative Medicine
@@ -17,6 +17,7 @@ updated: 2026-07-28
 - [Narrativity and medicine: some critical reflections](../sources/fxa302-week01-narrativity-and-medicine-some-critical-reflections.md)
 - [The Role of the Imagination in the Practices of the Health Humanities](../sources/fxa302-week01-the-role-of-the-imagination-in-the-practices-of-the-health.md)
 - [Narrative Medicine: A Doctor's Journey from Reader to Healer](../sources/fxa302-week01-transcript-duration-18-16.md)
+- [Web Lecture Week 1, 2026](../sources/fxa302-week01-web-lecture-week-1-2026.md)
 - [Where Science Meets Stories: A Systematic Review on Narrative Medicine](../sources/fxa302-week01-where-science-meets-stories-a-systematic-review-on.md)
 - [FXA302 Week 1 Introduction](../sources/fxa302-week03-fxa302-week-1-introduction.md)
 - [Introduction to FXA302: Perspectives of the Arts on Health and Wellbeing](../sources/fxa302-week03-introduction-to-fxa302-perspectives-of-the-arts-on-health.md)

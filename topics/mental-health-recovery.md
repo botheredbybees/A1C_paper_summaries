@@ -4,13 +4,15 @@ domain: intervention
 slug: mental-health-recovery
 sources:
   - fxa202-week10-critical-reflection-my-photo-essay
+  - fxa301-week08-community-arts-identity-and-recovery-a-realist-review-of
   - fxa301-week10-fxa301-week-10-lecture
   - fxa301-week10-sing-your-heart-out-community-singing-as-part-of-mental
+  - fxa302-week07-impact-of-creative-workshops-for-people-with-severe-mental
 tags:
 - mental-health-recovery
 title: Mental Health Recovery
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Mental Health Recovery
@@ -30,5 +32,7 @@ The integration of various therapeutic interventions in mental health recovery s
 ## Sources
 
 - [fxa202-week10-critical-reflection-my-photo-essay](../sources/fxa202-week10-critical-reflection-my-photo-essay.md)
+- [fxa301-week08-community-arts-identity-and-recovery-a-realist-review-of](../sources/fxa301-week08-community-arts-identity-and-recovery-a-realist-review-of.md)
 - [fxa301-week10-fxa301-week-10-lecture](../sources/fxa301-week10-fxa301-week-10-lecture.md)
 - [fxa301-week10-sing-your-heart-out-community-singing-as-part-of-mental](../sources/fxa301-week10-sing-your-heart-out-community-singing-as-part-of-mental.md)
+- [fxa302-week07-impact-of-creative-workshops-for-people-with-severe-mental](../sources/fxa302-week07-impact-of-creative-workshops-for-people-with-severe-mental.md)

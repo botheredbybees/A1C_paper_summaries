@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: schon-thinking-in-action
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Schon Thinking In Action

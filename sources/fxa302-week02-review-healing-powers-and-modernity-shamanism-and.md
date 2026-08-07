@@ -11,7 +11,7 @@ tags: ["medical-anthropology", "shamanism-reviews", "neurophenomenology", "cultu
 key_concepts: ["shamanic-universals", "neural-ecology-of-consciousness", "indigenous-healing-practices"]
 methods: ["literature-review"]
 slug: fxa302-week02-review-healing-powers-and-modernity-shamanism-and
-related: ["cultural-identity", "global-health"]
+related: ["arts-based-strategies-for-youth-mental-health", "cultural-identity"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -44,5 +44,5 @@ Beth A. Conklin reviews three books that explore various aspects of shamanism: '
 
 ## See Also
 
+- [arts-based-strategies-for-youth-mental-health](../topics/arts-based-strategies-for-youth-mental-health.md)
 - [cultural-identity](../topics/cultural-identity.md)
-- [global-health](../topics/global-health.md)

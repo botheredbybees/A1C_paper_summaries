@@ -4,12 +4,14 @@ domain: intervention
 slug: social-emotional-learning
 sources:
   - fxa301-week01-engaging-in-community-music-an-introduction
+  - fxa301-week03-investigating-the-causal-effects-of-arts-education
   - fxa303-week02-lesson-fxa303-week02-introduction-copy
+  - fxa303-week05-supporting-expressive-communication-for-social-and
 tags:
 - social-emotional-learning
 title: Social-Emotional Learning
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Social-Emotional Learning
@@ -33,4 +35,6 @@ While these sources focus on different aspects—community engagement versus neu
 ## Sources
 
 - [fxa301-week01-engaging-in-community-music-an-introduction](../sources/fxa301-week01-engaging-in-community-music-an-introduction.md)
+- [fxa301-week03-investigating-the-causal-effects-of-arts-education](../sources/fxa301-week03-investigating-the-causal-effects-of-arts-education.md)
 - [fxa303-week02-lesson-fxa303-week02-introduction-copy](../sources/fxa303-week02-lesson-fxa303-week02-introduction-copy.md)
+- [fxa303-week05-supporting-expressive-communication-for-social-and](../sources/fxa303-week05-supporting-expressive-communication-for-social-and.md)

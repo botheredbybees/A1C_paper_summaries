@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-activity-art
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Brain Activity Art

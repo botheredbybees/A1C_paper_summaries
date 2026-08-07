@@ -11,7 +11,7 @@ tags: ["dementia-care", "visual-arts-intervention", "communication-through-art",
 key_concepts: ["internal dialogue", "outward communication", "creativity without inhibition"]
 methods: []
 slug: fxa100-week08-lesson-fxa100-week07-page-2-communication-and-creativity
-related: ["dementia-care", "visual-arts-intervention"]
+related: ["communication-through-art", "dementia-care", "visual-arts-intervention"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,5 +41,6 @@ This lesson from the FXA100 course discusses how creativity through visual arts 
 
 ## See Also
 
+- [communication-through-art](../topics/communication-through-art.md)
 - [dementia-care](../topics/dementia-care.md)
 - [visual-arts-intervention](../topics/visual-arts-intervention.md)

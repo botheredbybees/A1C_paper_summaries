@@ -11,7 +11,7 @@ tags: ["brain-development", "adolescent-neuroscience", "sensitive-period-hypothe
 key_concepts: ["neuroplasticity", "sensitive period hypothesis"]
 methods: ["systematic review"]
 slug: fxa303-week03-adolescence-as-a-sensitive-period-of-brain-development
-related: ["adolescent-neuroscience", "brain-development", "mental-wellbeing"]
+related: ["adolescent-neuroscience", "brain-development", "brain-plasticity", "mental-wellbeing"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,4 +44,5 @@ This article explores the hypothesis that adolescence may represent a sensitive 
 
 - [adolescent-neuroscience](../topics/adolescent-neuroscience.md)
 - [brain-development](../topics/brain-development.md)
+- [brain-plasticity](../topics/brain-plasticity.md)
 - [mental-wellbeing](../topics/mental-wellbeing.md)

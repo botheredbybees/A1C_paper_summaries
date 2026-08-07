@@ -3,12 +3,14 @@ confidence: low
 domain: intervention
 slug: sound-perception-in-dementia-care
 sources:
-- fxa100-week02-lesson-fxa100-week02-page-2-hearing-and-music
+  - fxa100-week02-lesson-fxa100-week02-page-2-hearing-and-music
+  - fxa100-week02-video-about-hearing-and-how-it-works-med-el-video-transcript
+  - fxa302-week05-evelyn-glennie-deaf-sound-and-music-questions
 tags:
 - sound-perception
 title: Sound Perception in Dementia Care
 type: topic
-updated: 2026-05-04
+updated: 2026-08-03
 ---
 
 ## Sound Perception in Dementia Care
@@ -28,3 +30,5 @@ The topic of sound perception in dementia care emphasizes the importance of unde
 ## Sources
 
 - [fxa100-week02-lesson-fxa100-week02-page-2-hearing-and-music](../sources/fxa100-week02-lesson-fxa100-week02-page-2-hearing-and-music.md)
+- [fxa100-week02-video-about-hearing-and-how-it-works-med-el-video-transcript](../sources/fxa100-week02-video-about-hearing-and-how-it-works-med-el-video-transcript.md)
+- [fxa302-week05-evelyn-glennie-deaf-sound-and-music-questions](../sources/fxa302-week05-evelyn-glennie-deaf-sound-and-music-questions.md)

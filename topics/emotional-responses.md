@@ -3,6 +3,7 @@ confidence: medium
 domain: intervention
 slug: mood-congruent-emotional-responding
 sources:
+  - fxa100-week03-the-effects-of-music-on-the-brain-video-transcript-(2)
   - fxa202-week01-week-1-lecture-transcript
   - fxa300-week01-absorption-in-music-development-of-a-scale-to-identify
   - fxa300-week04-music-emotion-and-autobiographical-memory-theyre-playing
@@ -11,7 +12,7 @@ tags:
 - emotional-responses
 title: Mood-Congruent Emotional Responding
 type: topic
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Mood-Congruent Emotional Responding
@@ -30,6 +31,7 @@ The exploration of mood-congruent emotional responding reveals how individuals t
 
 ## Sources
 
+- [fxa100-week03-the-effects-of-music-on-the-brain-video-transcript-(2)](../sources/fxa100-week03-the-effects-of-music-on-the-brain-video-transcript-%282%29.md)
 - [fxa202-week01-week-1-lecture-transcript](../sources/fxa202-week01-week-1-lecture-transcript.md)
 - [fxa300-week01-absorption-in-music-development-of-a-scale-to-identify](../sources/fxa300-week01-absorption-in-music-development-of-a-scale-to-identify.md)
 - [fxa300-week04-music-emotion-and-autobiographical-memory-theyre-playing](../sources/fxa300-week04-music-emotion-and-autobiographical-memory-theyre-playing.md)

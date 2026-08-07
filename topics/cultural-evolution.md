@@ -5,9 +5,10 @@ title: "Cultural Evolution Through Music and Performance Art"
 confidence: medium
 tags: ["cultural-evolution"]
 sources:
+  - fxa301-week10-does-being-human-matter
   - fxa302-week02-music-and-image-in-classical-athens
   - fxa303-week05-thats-the-way-to-do-it-a-history-of-punch-judy
-updated: 2026-07-13
+updated: 2026-08-07
 ---
 
 ## Cultural Evolution Through Music and Performance Art
@@ -26,5 +27,6 @@ The concept of cultural evolution is explored through the lenses of music in Cla
 
 ## Sources
 
+- [fxa301-week10-does-being-human-matter](../sources/fxa301-week10-does-being-human-matter.md)
 - [fxa302-week02-music-and-image-in-classical-athens](../sources/fxa302-week02-music-and-image-in-classical-athens.md)
 - [fxa303-week05-thats-the-way-to-do-it-a-history-of-punch-judy](../sources/fxa303-week05-thats-the-way-to-do-it-a-history-of-punch-judy.md)

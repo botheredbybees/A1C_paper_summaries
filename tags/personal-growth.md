@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: personal-growth
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Personal Growth
@@ -13,3 +13,4 @@ updated: 2026-07-28
 - [Me and us: Cultivating presence and mental health through choir singing](../sources/fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through.md)
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness: Early Humanistic Approaches](../sources/psy214-week02-lesson-psy214-week02-multi-dimensional-models-of-well.md)
 - [The Wellbeing Workout: How to Manage Stress and Develop Resilience](../sources/psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop.md)
+- [Leisure and well-being: the DRAMMA model](../sources/psy214-week05-leisure-and-well-being-the-dramma-model.md)

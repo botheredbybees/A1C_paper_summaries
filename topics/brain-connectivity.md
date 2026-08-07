@@ -4,7 +4,9 @@ domain: method
 slug: brain-connectivity-in-autism-and-art-production
 sources:
   - fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual
+  - fxa101-week02-brain-connectivitybased-prediction-of-real-life-creativity
   - fxa101-week02-inside-a-synesthetes-head-a-functional-connectivity
+  - fxa300-week03-effects-of-acoustically-screened-five-element-music
   - fxa303-week04-age-related-differences-in-white-matter-diffusion-measures
   - fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between
   - fxa303-week04-what-does-autism-look-like-in-the-brain
@@ -12,7 +14,7 @@ tags:
 - brain-connectivity
 title: Brain Connectivity in Autism and Art Production
 type: topic
-updated: 2026-07-13
+updated: 2026-08-07
 ---
 
 ## Brain Connectivity in Autism and Art Production
@@ -32,7 +34,9 @@ The investigation of brain connectivity spans various methodologies including fu
 ## Sources
 
 - [fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual](../sources/fxa100-week06-how-art-changes-your-brain-differential-effects-of-visual.md)
+- [fxa101-week02-brain-connectivitybased-prediction-of-real-life-creativity](../sources/fxa101-week02-brain-connectivitybased-prediction-of-real-life-creativity.md)
 - [fxa101-week02-inside-a-synesthetes-head-a-functional-connectivity](../sources/fxa101-week02-inside-a-synesthetes-head-a-functional-connectivity.md)
+- [fxa300-week03-effects-of-acoustically-screened-five-element-music](../sources/fxa300-week03-effects-of-acoustically-screened-five-element-music.md)
 - [fxa303-week04-age-related-differences-in-white-matter-diffusion-measures](../sources/fxa303-week04-age-related-differences-in-white-matter-diffusion-measures.md)
 - [fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between](../sources/fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between.md)
 - [fxa303-week04-what-does-autism-look-like-in-the-brain](../sources/fxa303-week04-what-does-autism-look-like-in-the-brain.md)

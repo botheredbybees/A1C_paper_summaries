@@ -7,13 +7,15 @@ doi: https://doi.org/10.1093/geronb/gby145
 appearances:
   - unit: FXA100
     week: "13"
+  - unit: FXA100
+    week: "09"
 tags: ["dance-movement-therapy", "dementia-intervention", "diurnal-cortisol-slope", "fxa100", "nonpharmacological-interventions", "older-adults-health", "physical-exercise", "psychophysiological-effects"]
 key_concepts: ["mild-dementia", "diurnal-cortisol-slope", "nonpharmacological-interventions"]
 methods: ["randomized-controlled-trial"]
 slug: fxa100-week13-psychophysiological-effects-of-dance-movement-therapy-and
-related: ["dance-movement-therapy", "dementia-intervention", "nonpharmacological-interventions", "older-adults-health", "physical-exercise"]
+related: ["dance-movement-therapy", "movement-therapy", "nonpharmacological-interventions", "older-adults-health", "physical-exercise"]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-week13-psychophysiological-effects-of-dance-movement-therapy-and.md_
@@ -42,7 +44,7 @@ This study evaluates the psychophysiological effects of dance movement therapy (
 ## See Also
 
 - [dance-movement-therapy](../topics/dance-movement-therapy.md)
-- [dementia-intervention](../topics/dementia-intervention.md)
+- [movement-therapy](../topics/movement-therapy.md)
 - [nonpharmacological-interventions](../topics/nonpharmacological-interventions.md)
 - [older-adults-health](../topics/older-adults-health.md)
 - [physical-exercise](../topics/physical-exercise.md)

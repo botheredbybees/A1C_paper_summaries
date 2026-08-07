@@ -11,7 +11,7 @@ tags: ["narrative-therapy", "externalization-strategies", "therapeutic-tools-for
 key_concepts: ["narrative therapy", "problem externalization", "objectification techniques"]
 methods: ["case study"]
 slug: fxa303-week06-using-puppets-with-children-in-narrative-therapy-to
-related: ["narrative-therapy", "puppet-therapy"]
+related: ["narrative-therapy", "puppet-assisted-play-therapy-for-children"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,4 +43,4 @@ The article explores the use of puppets as a therapeutic tool within narrative t
 ## See Also
 
 - [narrative-therapy](../topics/narrative-therapy.md)
-- [puppet-therapy](../topics/puppet-therapy.md)
+- [puppet-assisted-play-therapy-for-children](../topics/puppet-assisted-play-therapy-for-children.md)

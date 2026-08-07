@@ -8,6 +8,7 @@ sources:
   - fxa100-week04-singing-and-participation
   - fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography
   - fxa301-week02-current-emotion-research-in-music-psychology
+  - fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental
   - fxa303-week06-emotional-expression-through-puppetry
   - fxa303-week06-mr-fox-is-sad
   - fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice
@@ -18,7 +19,7 @@ tags:
 - emotional-expression
 title: Emotional Expression Through Therapeutic Interventions
 type: topic
-updated: 2026-05-16
+updated: 2026-08-07
 ---
 
 ## Emotional Expression Through Therapeutic Interventions
@@ -42,6 +43,7 @@ The integration of emotional expression through various therapeutic intervention
 - [fxa100-week04-singing-and-participation](../sources/fxa100-week04-singing-and-participation.md)
 - [fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography](../sources/fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography.md)
 - [fxa301-week02-current-emotion-research-in-music-psychology](../sources/fxa301-week02-current-emotion-research-in-music-psychology.md)
+- [fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental](../sources/fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental.md)
 - [fxa303-week06-emotional-expression-through-puppetry](../sources/fxa303-week06-emotional-expression-through-puppetry.md)
 - [fxa303-week06-mr-fox-is-sad](../sources/fxa303-week06-mr-fox-is-sad.md)
 - [fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice](../sources/fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice.md)

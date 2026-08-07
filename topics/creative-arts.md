@@ -4,7 +4,9 @@ domain: intervention
 slug: music-interventions-and-cognitive-health
 sources:
   - fxa100-week06-transcript-film-clips-from-i-remember-better-when-i-paint
+  - fxa100-week08-using-technology-to-assist-creative-arts-activities-in
   - fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities
+  - fxa101-week05-what-kind-of-research-is-research-through-design
   - fxa202-week08-journal-and-visual-research-guidelines
   - fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1
   - fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-(2)
@@ -24,13 +26,16 @@ sources:
   - fxa302-week01-lesson-fxa302-week01-page-4-activities
   - fxa303-week02-developmental-role-of-creative-arts-and-play
   - fxa303-week02-fxa303-week-2-child-development-and-creative-arts
+  - fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental
   - fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview
+  - fxa303-week02-web-lecture-2-week-2
   - fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental
   - fxa303-week03-fxa303-week-3-introduction
   - fxa303-week03-lockdown-history-project-activity-sheets
   - fxa303-week04-lesson-fxa303-week04-page-1-week-4-overview
   - fxa303-week04-lesson-fxa303-week04-page-3-arts-and-play
   - fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental
+  - fxa303-week05-fxa303-week-5-welcome-(3)
   - fxa303-week05-lesson-fxa303-week05-page-1-week-5-overview
   - fxa303-week05-lesson-fxa303-week05-page-4-week-5-activities
   - fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental
@@ -44,6 +49,7 @@ sources:
   - fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design
   - fxa303-week09-lesson-fxa303-week09-page-3-case-studies
   - fxa303-week10-lesson-fxa303-week10-page-1-overview
+  - fxa303-week11-fxa303-web-lecture-week-11
   - fxa303-week11-lesson-fxa303-week11-overview
   - fxa303-week11-lesson-fxa303-week11-page-2
   - fxa303-week11-lesson-fxa303-week11-page-3
@@ -52,7 +58,7 @@ tags:
 - creative-arts
 title: Music Interventions and Cognitive Health
 type: topic
-updated: 2026-07-13
+updated: 2026-08-07
 ---
 
 ## Music Interventions and Cognitive Health
@@ -71,7 +77,9 @@ The integration of findings from both sources highlights the multifaceted benefi
 ## Sources
 
 - [fxa100-week06-transcript-film-clips-from-i-remember-better-when-i-paint](../sources/fxa100-week06-transcript-film-clips-from-i-remember-better-when-i-paint.md)
+- [fxa100-week08-using-technology-to-assist-creative-arts-activities-in](../sources/fxa100-week08-using-technology-to-assist-creative-arts-activities-in.md)
 - [fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities](../sources/fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities.md)
+- [fxa101-week05-what-kind-of-research-is-research-through-design](../sources/fxa101-week05-what-kind-of-research-is-research-through-design.md)
 - [fxa202-week08-journal-and-visual-research-guidelines](../sources/fxa202-week08-journal-and-visual-research-guidelines.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1](../sources/fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-%282%29.md)
@@ -91,13 +99,16 @@ The integration of findings from both sources highlights the multifaceted benefi
 - [fxa302-week01-lesson-fxa302-week01-page-4-activities](../sources/fxa302-week01-lesson-fxa302-week01-page-4-activities.md)
 - [fxa303-week02-developmental-role-of-creative-arts-and-play](../sources/fxa303-week02-developmental-role-of-creative-arts-and-play.md)
 - [fxa303-week02-fxa303-week-2-child-development-and-creative-arts](../sources/fxa303-week02-fxa303-week-2-child-development-and-creative-arts.md)
+- [fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental](../sources/fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental.md)
 - [fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview](../sources/fxa303-week02-lesson-fxa303-week02-page-1-week-2-overview.md)
+- [fxa303-week02-web-lecture-2-week-2](../sources/fxa303-week02-web-lecture-2-week-2.md)
 - [fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental](../sources/fxa303-week02-week-2-overview-fxa303-creative-arts-play-and-mental.md)
 - [fxa303-week03-fxa303-week-3-introduction](../sources/fxa303-week03-fxa303-week-3-introduction.md)
 - [fxa303-week03-lockdown-history-project-activity-sheets](../sources/fxa303-week03-lockdown-history-project-activity-sheets.md)
 - [fxa303-week04-lesson-fxa303-week04-page-1-week-4-overview](../sources/fxa303-week04-lesson-fxa303-week04-page-1-week-4-overview.md)
 - [fxa303-week04-lesson-fxa303-week04-page-3-arts-and-play](../sources/fxa303-week04-lesson-fxa303-week04-page-3-arts-and-play.md)
 - [fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental](../sources/fxa303-week04-week-4-overview-fxa303-creative-arts-play-and-mental.md)
+- [fxa303-week05-fxa303-week-5-welcome-(3)](../sources/fxa303-week05-fxa303-week-5-welcome-%283%29.md)
 - [fxa303-week05-lesson-fxa303-week05-page-1-week-5-overview](../sources/fxa303-week05-lesson-fxa303-week05-page-1-week-5-overview.md)
 - [fxa303-week05-lesson-fxa303-week05-page-4-week-5-activities](../sources/fxa303-week05-lesson-fxa303-week05-page-4-week-5-activities.md)
 - [fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental](../sources/fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental.md)
@@ -111,6 +122,7 @@ The integration of findings from both sources highlights the multifaceted benefi
 - [fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design](../sources/fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design.md)
 - [fxa303-week09-lesson-fxa303-week09-page-3-case-studies](../sources/fxa303-week09-lesson-fxa303-week09-page-3-case-studies.md)
 - [fxa303-week10-lesson-fxa303-week10-page-1-overview](../sources/fxa303-week10-lesson-fxa303-week10-page-1-overview.md)
+- [fxa303-week11-fxa303-web-lecture-week-11](../sources/fxa303-week11-fxa303-web-lecture-week-11.md)
 - [fxa303-week11-lesson-fxa303-week11-overview](../sources/fxa303-week11-lesson-fxa303-week11-overview.md)
 - [fxa303-week11-lesson-fxa303-week11-page-2](../sources/fxa303-week11-lesson-fxa303-week11-page-2.md)
 - [fxa303-week11-lesson-fxa303-week11-page-3](../sources/fxa303-week11-lesson-fxa303-week11-page-3.md)

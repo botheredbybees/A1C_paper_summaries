@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotionality-ratings
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Emotionality Ratings

@@ -3,15 +3,17 @@ confidence: medium
 domain: intervention
 slug: post-traumatic-stress-disorder-treatments
 sources:
+  - fxa301-week10-web-article-drayton-2016
   - fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and
   - fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2)
   - fxa303-week01-post-traumatic-stress-disorder-the-neurobiological-impact
   - fxa303-week09-after-the-fires-looking-to-the-future-using-the-lessons
+  - fxa303-week09-colors-of-the-mind-a-meta-analysis-of-creative-arts-therapy
 tags:
 - post-traumatic-stress-disorder
 title: Post-Traumatic Stress Disorder Treatments
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Post-Traumatic Stress Disorder Treatments
@@ -30,7 +32,9 @@ The current treatments for Post-Traumatic Stress Disorder (PTSD) emphasize cogni
 
 ## Sources
 
+- [fxa301-week10-web-article-drayton-2016](../sources/fxa301-week10-web-article-drayton-2016.md)
 - [fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and](../sources/fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and.md)
 - [fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-(2)](../sources/fxa303-week01-current-treatments-of-post-traumatic-stress-disorder-and-%282%29.md)
 - [fxa303-week01-post-traumatic-stress-disorder-the-neurobiological-impact](../sources/fxa303-week01-post-traumatic-stress-disorder-the-neurobiological-impact.md)
 - [fxa303-week09-after-the-fires-looking-to-the-future-using-the-lessons](../sources/fxa303-week09-after-the-fires-looking-to-the-future-using-the-lessons.md)
+- [fxa303-week09-colors-of-the-mind-a-meta-analysis-of-creative-arts-therapy](../sources/fxa303-week09-colors-of-the-mind-a-meta-analysis-of-creative-arts-therapy.md)

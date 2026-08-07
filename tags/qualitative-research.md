@@ -1,26 +1,31 @@
 ---
 type: tag
 tag: qualitative-research
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Qualitative Research
 
 - ['Singing for the Brain': A Qualitative Study Exploring the Health and Well-being Benefits of Singing for People with Dementia and Their Carers](../sources/fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the.md)
+- [Enhancing communication between dementia care staff and their residents: an arts-inspired intervention](../sources/fxa100-week08-enhancing-communication-between-dementia-care-staff-and.md)
 - [What are the Required Elements Needed to Create an Effective Visual Art Intervention for People with Dementia? A Qualitative Exploration](../sources/fxa100-week08-what-are-the-required-elements-needed-to-create-an.md)
 - [In the moment with music: an exploration of the embodied and sensory experiences of people living with dementia during improvised music-making](../sources/fxa100-week12-in-the-moment-with-music-an-exploration-of-the-embodied-and.md)
 - [Impact of dance interventions on the symptoms of dementia: A mixed-methods systematic review](../sources/fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a.md)
 - [Knowledge and Health Beliefs About Dementia Prevention Among Chinese Older Adults: A Qualitative Study](../sources/fxa100-week13-knowledge-and-health-beliefs-about-dementia-prevention.md)
 - [Music Interventions for People with Dementia: A Review of the Literature](../sources/fxa100-week13-music-interventions-for-people-with-dementia-a-review-of.md)
+- [Shall I Compare Thee to a Dose of Donepezil?: Cultural Arts Interventions in Dementia Care Research](../sources/fxa100-week13-shall-i-compare-thee-to-a-dose-of-donepezil-cultural-arts.md)
 - [Arts-based educational research in the early years](../sources/fxa101-week03-arts-based-educational-research-in-the-early-years.md)
 - [Researching Phototherapy and Therapeutic Photography](../sources/fxa202-the-handbook-of-phototherapy-ch02-12-the-earlier-stages.md)
 - [The Phototherapists\u2019 Experience and Research on Talking Pictures Therapy](../sources/fxa202-the-handbook-of-phototherapy-ch03-chapter-2.md)
 - [Negative Emotion in Music: What is the Attraction? A Qualitative Study](../sources/fxa300-week01-negative-emotion-in-music-what-is-the-attraction-a.md)
+- ['Excellent for mind, body and spirit': Participant, facilitator, and community stakeholder experiences of Music and Movement for Health](../sources/fxa300-week05-excellent-for-mind-body-and-spirit-participant-facilitator.md)
+- [Exploring Musical Preferences: An In-Depth Qualitative Study of Adults' Liking for Music in Their Personal Collections](../sources/fxa300-week05-exploring-musical-preferences-an-in-depth-qualitative-study.md)
 - [The Role of Qualitative Research in Arts and Health](../sources/fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10.md)
 - [Evaluating benefits to health and wellbeing](../sources/fxa301-week01-lesson-fxa301-week01-page-1-hm.md)
 - [Bringing Music to Life: a Study of Music Therapy and Palliative Care Experiences in a Cancer Hospital](../sources/fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and.md)
 - [Beyond Expressive Writing: Evolving Models of Developmental Creative Writing](../sources/fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental.md)
 - [Promoting the health and wellbeing of young Black men using community-based drama](../sources/fxa301-week08-promoting-the-health-and-wellbeing-of-young-black-men-using.md)
+- [Community art therapy (CAT): learning from art therapy graduate students\u2019 perceptions](../sources/fxa301-week10-community-art-therapy-cat-learning-from-art-therapy.md)
 - [Fine arts participation, self-determination, and locus of control among persons with developmental disabilities](../sources/fxa301-week11-fine-arts-participation-self-determination-and-locus-of.md)
 - [Teachers\u2019 Perspectives on Providing Support to Children After Trauma: A Qualitative Study](../sources/fxa303-week01-teachers-perspectives-on-providing-support-to-children.md)
 - [More than just clowns \u2013 Clown Doctor rounds and their impact for children, families and staff](../sources/fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact.md)

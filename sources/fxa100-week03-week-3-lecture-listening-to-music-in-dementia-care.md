@@ -11,7 +11,7 @@ tags: ["music-therapy", "dementia-care", "neural-pathways", "cognitive-engagemen
 key_concepts: ["Music and Memory program", "rhythmic entrainment", "dopamine release"]
 methods: ["case study"]
 slug: fxa100-week03-week-3-lecture-listening-to-music-in-dementia-care
-related: ["cognitive-engagement", "dementia-care", "music-therapy", "neural-pathways"]
+related: ["cognitive-engagement", "dementia-care", "music-therapy", "neural-pathways", "personalized-playlists"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -47,3 +47,4 @@ The lecture focuses on the therapeutic effects and cognitive benefits of listeni
 - [dementia-care](../topics/dementia-care.md)
 - [music-therapy](../topics/music-therapy.md)
 - [neural-pathways](../topics/neural-pathways.md)
+- [personalized-playlists](../topics/personalized-playlists.md)

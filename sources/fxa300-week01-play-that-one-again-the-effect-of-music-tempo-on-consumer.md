@@ -11,7 +11,7 @@ tags: ["consumer-behavior", "music-tempo", "restaurant-studies", "environmental-
 key_concepts: ["music tempo", "consumer behavior", "dining duration", "spending habits"]
 methods: ["field experiment"]
 slug: fxa300-week01-play-that-one-again-the-effect-of-music-tempo-on-consumer
-related: ["environmental-factors"]
+related: ["consumer-behavior", "environmental-factors"]
 created: 2026-07-06
 updated: 2026-07-06
 ---
@@ -42,4 +42,5 @@ This research investigates the effects of music tempo on consumer behavior withi
 
 ## See Also
 
+- [consumer-behavior](../topics/consumer-behavior.md)
 - [environmental-factors](../topics/environmental-factors.md)

@@ -1,11 +1,12 @@
 ---
 type: tag
 tag: dementia-awareness
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Dementia Awareness
 
+- [Final Report: Wisconsin Music & Memory Program \u2013 Student Volunteer Program](../sources/fxa100-week03-final-report-wisconsin-music-memory-program-student-%282%29.md)
 - [A Guide to Dementia-Friendly Language](../sources/fxa100-week04-a-guide-to-dementia-friendly-language.md)
 - [How to talk about dementia](../sources/fxa100-week04-how-to-talk-about-dementia.md)
 - [Affinity interactive light sculpture for Dementia Awareness Month](../sources/fxa100-week06-transcript-affinity-interactive-light-sculpture-for-dementia.md)

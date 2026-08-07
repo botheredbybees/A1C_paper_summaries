@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: lexical-color-associations
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Lexical Color Associations

@@ -11,7 +11,7 @@ tags: ["music-cognition", "gestalt-laws", "cognitive-psychology", "fxa300", "ges
 key_concepts: ["Gestalt laws of cognitive organization", "musical perception"]
 methods: ["literature review"]
 slug: fxa300-week04-music-cognition
-related: ["cognitive-psychology", "music-cognition"]
+related: ["cognitive-psychology", "music-cognition", "musical-perception"]
 created: 2026-07-28
 updated: 2026-07-28
 ---
@@ -43,3 +43,4 @@ The chapter 'Music Cognition' delves into the complex processes involved in comp
 
 - [cognitive-psychology](../topics/cognitive-psychology.md)
 - [music-cognition](../topics/music-cognition.md)
+- [musical-perception](../topics/musical-perception.md)

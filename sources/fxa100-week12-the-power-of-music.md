@@ -7,13 +7,17 @@ doi: https://doi.org/10.1093/brain/awl234
 appearances:
   - unit: FXA100
     week: "12"
+  - unit: FXA100
+    week: "02"
+  - unit: FXA100
+    week: "03"
 tags: ["neurology-of-music", "philosophy-of-music", "therapeutic-benefits", "fxa100", "music-evocation-emotion-memory", "neurological-disorders-treatment"]
 key_concepts: ["music-evocation-emotion-memory", "neurological-disorders-treatment"]
 methods: ["literature-review"]
 slug: fxa100-week12-the-power-of-music
 related: ["philosophy-of-music", "therapeutic-benefits"]
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-week12-the-power-of-music.md_

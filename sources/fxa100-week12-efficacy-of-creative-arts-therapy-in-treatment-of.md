@@ -7,13 +7,15 @@ doi: https://doi.org/10.1080/01924788.2014.966547
 appearances:
   - unit: FXA100
     week: "12"
+  - unit: FXA100
+    week: "11"
 tags: ["alzheimers-disease", "dementia-care", "creative-arts-therapy", "fxa100", "behavioral-challenges"]
 key_concepts: ["quality-of-life", "behavioral-challenges", "cognitive-decline"]
 methods: ["systematic-review"]
 slug: fxa100-week12-efficacy-of-creative-arts-therapy-in-treatment-of
 related: ["alzheimers-disease", "creative-arts-therapy", "dementia-care"]
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-week12-efficacy-of-creative-arts-therapy-in-treatment-of.md_

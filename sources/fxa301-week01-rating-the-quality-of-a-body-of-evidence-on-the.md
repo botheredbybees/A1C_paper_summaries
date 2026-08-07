@@ -2,7 +2,7 @@
 type: source
 source_type: paper
 title: "Rating the Quality of a Body of Evidence on the Effectiveness of Health and Social Interventions: A Systematic Review and Mapping of Evidence Domains"
-apa7: "Ani Movsisyana, Jane Dennisb, Eva Rehfuessc, Sean Grantd, & Paul Montgomerye. (n.d.). Rating the quality of a body of evidence on the effectiveness of health and social interventions: A systematic review and mapping of evidence domains. Journal of Evidence-Based Medicine, doi: 10.1002/jrsm.1290"
+apa7: "Movsisyan, A., Dennis, J., Rehfuess, E., Grant, S., & Montgomery, P. (2018). Rating the quality of a body of evidence on the effectiveness of health and social interventions: A systematic review and mapping of evidence domains. *Research Synthesis Methods*. https://doi.org/10.1002/jrsm.1290"
 doi: https://doi.org/10.1002/jrsm.1290
 appearances:
   - unit: FXA301

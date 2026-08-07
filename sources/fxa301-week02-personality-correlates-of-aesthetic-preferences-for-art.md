@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Personality Correlates of Aesthetic Preferences for Art, Architecture, and Music"
-apa7: "Cleridou, K., & Furnham, A. (2014). Personality correlates of aesthetic preferences for art, architecture, and music. Empirical Studies of the Arts, 32(2), 231-255. doi:http://dx.org/10.2190/EM.32.2.f"
-doi: http://dx.org/10.2190/EM.32.2.f
+apa7: "Cleridou, K., & Furnham, A. (2014). Personality Correlates of Aesthetic Preferences for Art, Architecture, and Music. https://doi.org/10.2190/EM.32.2.f"
+doi: https://doi.org/10.2190/EM.32.2.f
 appearances:
   - unit: FXA301
     week: "02"
@@ -11,7 +11,7 @@ tags: ["personality-psychology", "aesthetic-preferences", "art-appreciation", "m
 key_concepts: ["Openness to Experience", "Big-Five Personality Traits", "Aesthetic Preferences"]
 methods: ["correlational study", "self-report inventory"]
 slug: fxa301-week02-personality-correlates-of-aesthetic-preferences-for-art
-related: ["aesthetic-preferences", "art-appreciation"]
+related: ["aesthetic-preferences", "art-appreciation", "big-five-personality", "personality-psychology"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -50,3 +50,5 @@ The study also highlights gender differences in preferences, with women generall
 
 - [aesthetic-preferences](../topics/aesthetic-preferences.md)
 - [art-appreciation](../topics/art-appreciation.md)
+- [big-five-personality](../topics/big-five-personality.md)
+- [personality-psychology](../topics/personality-psychology.md)

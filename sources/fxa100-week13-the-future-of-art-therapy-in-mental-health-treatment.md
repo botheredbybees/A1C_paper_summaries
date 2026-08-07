@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "The Future of Art Therapy in Mental Health Treatment"
-apa7: "N._(2024). The future of art therapy in mental health treatment. Research Output Journal of Public Health and Medicine, 4(1), 68-71. https://doi.org/10.59298/ROJPHM/2024/416871"
-doi: https://doi.org/10.59298/ROJPHM/2024/416871
+apa7: "M, N. (2024). The Future of Art Therapy in Mental Health Treatment. *Research Output Journal of Public Health and Medicine*. https://doi.org/10.59298/rojphm/2024/416871"
+doi: https://doi.org/10.59298/rojphm/2024/416871
 appearances:
   - unit: FXA100
     week: "13"

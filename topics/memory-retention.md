@@ -3,13 +3,15 @@ confidence: medium
 domain: intervention
 slug: memory-retention
 sources:
+  - fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video-(2)
   - fxa202-week03-lesson-fxa202-week03-page-2
   - fxa202-week03-what-smartphone-photography-is-doing-to-our-memories
+  - fxa300-week05-the-distribution-of-memories-for-popular-songs-in-old-age
 tags:
 - memory-retention
 title: Memory Retention
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Memory Retention
@@ -28,5 +30,7 @@ The integration of photography in daily digital practices is explored across the
 
 ## Sources
 
+- [fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video-(2)](../sources/fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video-%282%29.md)
 - [fxa202-week03-lesson-fxa202-week03-page-2](../sources/fxa202-week03-lesson-fxa202-week03-page-2.md)
 - [fxa202-week03-what-smartphone-photography-is-doing-to-our-memories](../sources/fxa202-week03-what-smartphone-photography-is-doing-to-our-memories.md)
+- [fxa300-week05-the-distribution-of-memories-for-popular-songs-in-old-age](../sources/fxa300-week05-the-distribution-of-memories-for-popular-songs-in-old-age.md)

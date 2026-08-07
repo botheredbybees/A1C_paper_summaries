@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-interventions-in-dementia-care
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Creative Interventions In Dementia Care
@@ -11,8 +11,10 @@ updated: 2026-07-28
 - [For visitors with dementia](../sources/fxa100-week07-for-visitors-with-dementia.md)
 - [Can arts-based interventions improve health? A conceptual and methodological critique](../sources/fxa100-week13-can-arts-based-interventions-improve-health-a-conceptual.md)
 - [Anna Mackintosh's Critical Reflection on Photographic Essay](../sources/fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay.md)
-- [It fostered a greater appreciation for my little corner of the world](../sources/fxa202-week13-it-fostered-a-greater-appreciation-for-my-little-corner-of.md)
+- [It fostered a greater appreciation for my little corner of the world: A feasibility study of a therapeutic photography intervention for the well-being of autistic youth](../sources/fxa202-week13-it-fostered-a-greater-appreciation-for-my-little-corner-of.md)
+- [Creative Health Review](../sources/fxa301-week03-creative-health-review.md)
 - [Engaging with Visual Arts: Community-Based Projects](../sources/fxa301-week05-lesson-fxa301-week05-page-1.md)
 - [Refugee Art \u2013 Expressing Experience Through Creativity](../sources/fxa301-week11-refugee-art-expressing-experience-through-creativity.md)
+- [Arts in Adolescence: Mental Wellbeing and Development](../sources/fxa303-week02-lesson-fxa303-week02-topic-20-20activities-201-copy.md)
 - [National Taskforce for Creative Recovery Recommendations](../sources/fxa303-week09-national-taskforce-for-creative-recovery-recommendations.md)
 - [FXA303 Web Lecture Week 10](../sources/fxa303-week10-fxa303-web-lecture-week-10.md)

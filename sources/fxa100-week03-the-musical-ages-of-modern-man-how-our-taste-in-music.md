@@ -11,7 +11,7 @@ tags: ["music-preferences", "life-stages", "identity-markers", "fxa100"]
 key_concepts: ["musical-genre-shifts", "social-status-attainment"]
 methods: ["longitudinal-study"]
 slug: fxa100-week03-the-musical-ages-of-modern-man-how-our-taste-in-music
-related: []
+related: ["music-preferences"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,4 +40,4 @@ This research article explores the transformation of personal music preferences 
 
 ## See Also
 
-*(none yet)*
+- [music-preferences](../topics/music-preferences.md)

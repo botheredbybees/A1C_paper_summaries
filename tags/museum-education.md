@@ -1,12 +1,14 @@
 ---
 type: tag
 tag: museum-education
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Museum Education
 
+- [House of Memories](../sources/fxa100-week07-house-of-memories.md)
 - [House of Memories | National Museums Liverpool](../sources/fxa100-week07-house-of-memories-national-museums-liverpool.md)
+- [The MoMA Alzheimer\u2019s Project: Making Art Accessible to People with Dementia](../sources/fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people-%282%29.md)
 - [ARTZ Museum Program for Alzheimer's](../sources/fxa100-week07-transcript-artz-museum-program-for-alzheimers-url-only.md)
 - [Happy Museum Learning Evaluation Report](../sources/fxa301-week05-happy-museum-learning-evaluation-report.md)
 - [Happy Museum Project Principles](../sources/fxa301-week05-happy-museum-project-principles.md)

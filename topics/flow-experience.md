@@ -6,11 +6,13 @@ sources:
   - fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow
   - fxa301-week10-advances-in-flow-research
   - fxa301-week10-fxa301-week-10-lecture
+  - fxa301-week10-introduction-to-the-volume
+  - fxa301-week10-learning-flow-and-happiness
 tags:
 - flow-experience
 title: Flow Experience
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Flow Experience
@@ -32,3 +34,5 @@ Mihaly Csikszentmihalyi's concept of the 'flow' experience has been a cornerston
 - [fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow](../sources/fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow.md)
 - [fxa301-week10-advances-in-flow-research](../sources/fxa301-week10-advances-in-flow-research.md)
 - [fxa301-week10-fxa301-week-10-lecture](../sources/fxa301-week10-fxa301-week-10-lecture.md)
+- [fxa301-week10-introduction-to-the-volume](../sources/fxa301-week10-introduction-to-the-volume.md)
+- [fxa301-week10-learning-flow-and-happiness](../sources/fxa301-week10-learning-flow-and-happiness.md)

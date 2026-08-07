@@ -7,7 +7,8 @@ tags: ["self-compassion"]
 sources:
   - fxa202-week13-phototherapy-to-increase-self-compassion-in-college-students
   - psy214-week00-self-compassion-theory-method-research-and-intervention
-updated: 2026-06-25
+  - psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on
+updated: 2026-08-07
 ---
 
 ## Self-Compassion
@@ -28,3 +29,4 @@ The concept of self-compassion emerges as a pivotal intervention in enhancing em
 
 - [fxa202-week13-phototherapy-to-increase-self-compassion-in-college-students](../sources/fxa202-week13-phototherapy-to-increase-self-compassion-in-college-students.md)
 - [psy214-week00-self-compassion-theory-method-research-and-intervention](../sources/psy214-week00-self-compassion-theory-method-research-and-intervention.md)
+- [psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on](../sources/psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on.md)

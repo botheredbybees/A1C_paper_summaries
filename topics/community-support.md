@@ -3,6 +3,7 @@ confidence: medium
 domain: intervention
 slug: community-support-programs
 sources:
+  - fxa100-week07-iremember-in-the-kitchen-memory-case
   - fxa301-week05-museums-for-health-and-wellbeing
   - fxa303-week03-5-ways-to-standbyteens-in-support-of-teen-mental-health
   - fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic
@@ -11,7 +12,7 @@ tags:
 - community-support
 title: Community Support Programs
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Community Support Programs
@@ -30,6 +31,7 @@ Community support programs encompass a variety of initiatives aimed at fostering
 
 ## Sources
 
+- [fxa100-week07-iremember-in-the-kitchen-memory-case](../sources/fxa100-week07-iremember-in-the-kitchen-memory-case.md)
 - [fxa301-week05-museums-for-health-and-wellbeing](../sources/fxa301-week05-museums-for-health-and-wellbeing.md)
 - [fxa303-week03-5-ways-to-standbyteens-in-support-of-teen-mental-health](../sources/fxa303-week03-5-ways-to-standbyteens-in-support-of-teen-mental-health.md)
 - [fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic](../sources/fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic.md)

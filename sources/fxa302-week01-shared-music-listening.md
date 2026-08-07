@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Shared Music Listening"
-apa7: "Garabedian, C. (2020). Shared music listening. In P. Crawford, B. Brown, & A. Charise (Eds.), The Routledge companion to health humanities (pp. 324-326). Taylor & Francis Group. https://doi.org/10.4324/9780429506216"
-doi: https://doi.org/10.4324/9780429506216
+apa7: "Garabedian, C. (2020). Shared music listening. *The Routledge Companion to Health Humanities*. https://doi.org/10.4324/9780429469060-46"
+doi: https://doi.org/10.4324/9780429469060-46
 appearances:
   - unit: FXA302
     week: "01"

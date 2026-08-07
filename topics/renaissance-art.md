@@ -8,7 +8,9 @@ sources:
   - fxa302-week04-earliest-evidence-of-malignant-breast-cancer-in-renaissance
   - fxa302-week04-fxa302-week-4-welcome
   - fxa302-week04-lesson-fxa302-week04-page-3
-updated: 2026-07-28
+  - fxa302-week04-lesson-fxa302-week04-page-3-activities
+  - fxa302-week04-the-diagnosis-of-art-caravaggios-jaundiced-bacchus
+updated: 2026-08-07
 ---
 
 ## Renaissance Art and Medical Practices
@@ -30,3 +32,5 @@ The Renaissance era is characterized by a complex interplay between artistic exp
 - [fxa302-week04-earliest-evidence-of-malignant-breast-cancer-in-renaissance](../sources/fxa302-week04-earliest-evidence-of-malignant-breast-cancer-in-renaissance.md)
 - [fxa302-week04-fxa302-week-4-welcome](../sources/fxa302-week04-fxa302-week-4-welcome.md)
 - [fxa302-week04-lesson-fxa302-week04-page-3](../sources/fxa302-week04-lesson-fxa302-week04-page-3.md)
+- [fxa302-week04-lesson-fxa302-week04-page-3-activities](../sources/fxa302-week04-lesson-fxa302-week04-page-3-activities.md)
+- [fxa302-week04-the-diagnosis-of-art-caravaggios-jaundiced-bacchus](../sources/fxa302-week04-the-diagnosis-of-art-caravaggios-jaundiced-bacchus.md)

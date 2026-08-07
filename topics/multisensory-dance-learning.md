@@ -8,7 +8,7 @@ tags:
 - multisensory-dance-learning
 title: Multisensory Dance Learning
 type: topic
-updated: 2026-05-16
+updated: 2026-08-07
 ---
 
 ## Multisensory Dance Learning

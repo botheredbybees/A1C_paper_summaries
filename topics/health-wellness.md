@@ -5,9 +5,10 @@ title: "Music and Social Prescribing in Health"
 confidence: medium
 tags: ["health-wellness"]
 sources:
+  - fxa300-week02-music-and-mind-harnessing-the-arts-for-health-and-wellness
   - fxa300-week04-music-and-health
   - fxa303-week03-social-prescribing-roundtable-november-2019-report
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Music and Social Prescribing in Health
@@ -26,5 +27,6 @@ The integration of music therapy into healthcare illustrates a therapeutic relat
 
 ## Sources
 
+- [fxa300-week02-music-and-mind-harnessing-the-arts-for-health-and-wellness](../sources/fxa300-week02-music-and-mind-harnessing-the-arts-for-health-and-wellness.md)
 - [fxa300-week04-music-and-health](../sources/fxa300-week04-music-and-health.md)
 - [fxa303-week03-social-prescribing-roundtable-november-2019-report](../sources/fxa303-week03-social-prescribing-roundtable-november-2019-report.md)

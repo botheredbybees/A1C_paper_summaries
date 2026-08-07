@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: play-therapy
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Play Therapy
@@ -26,3 +26,4 @@ updated: 2026-07-28
 - [Puppet play therapy in emergency pediatric dental clinic](../sources/fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic.md)
 - [VIRTUAL PUPPET PLAY THERAPY](../sources/fxa303-week06-virtual-puppet-play-therapy.md)
 - [The effect of Gestalt play therapy in addressing symptoms associated with trauma in children in middle childhood](../sources/fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms.md)
+- [The Function of Play for Coping and Therapy with Children Exposed to Disasters and Political Violence](../sources/fxa303-week09-the-function-of-play-for-coping-and-therapy-with-children.md)

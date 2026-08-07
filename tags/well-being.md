@@ -1,13 +1,16 @@
 ---
 type: tag
 tag: well-being
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Well Being
 
 - [CALE Research Aged Care Deloraine Partnership - University of Tasmania](../sources/fxa100-week04-transcript-cale-research-aged-care-deloraine-partnership.md)
+- [The impact of creative engagement in museum activities on the well-being of people living with dementia, their carers, and family members: The arts programming \u201cSusitikime muziejuje\u201d case in Lithuania](../sources/fxa100-week07-the-impact-of-creative-engagement-in-museum-activities-on.md)
+- [Using technology to assist creative arts activities in dementia care](../sources/fxa100-week08-using-technology-to-assist-creative-arts-activities-in.md)
 - [More Than Just Movement: Exploring Embodied Group Synchrony During Seated Dance for Older Adults Living in Residential Aged Care Communities](../sources/fxa100-week11-more-than-just-movement-exploring-embodied-group-synchrony.md)
+- [A Brief Report on Reviews of Existing Creative Art\u2013Based Interventions in Dementia Care From 2010\u20132020](../sources/fxa100-week13-a-brief-report-on-reviews-of-existing-creative-artbased.md)
 - [Designing Creative Activities to Enhance Community Well-being and Identity](../sources/fxa301-make-arts-for-a-better-life-ch17-1-for-further-study-on-communication-channels.md)
 - [Evaluating Community Arts & Community Well-Being](../sources/fxa301-week01-evaluating-community-arts-community-well-being.md)
 - [Evaluating Community Arts & Community Well-Being: An Evaluation Guide for Community Arts Practitioners](../sources/fxa301-week01-evaluating-community-arts-community-well-being-an.md)
@@ -24,3 +27,4 @@ updated: 2026-07-28
 - [Social isolation and connectedness as determinants of well-being: Global evidence mapping focused on LGBTQ youth](../sources/fxa303-week11-social-isolation-and-connectedness-as-determinants-of-well.md)
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness - Well-being and Happiness](../sources/psy214-week02-lesson-psy214-week02-week-3-introduction.md)
 - [Positive Emotions and Well-being](../sources/psy214-week02-positive-emotions-and-well-being.md)
+- [Mindfulness-Based Social Work and Self-Care with Social Work Professionals: Replication and Expansion of a Randomised Controlled Trial](../sources/psy214-week07-mindfulness-based-social-work-and-self-care-with-social.md)

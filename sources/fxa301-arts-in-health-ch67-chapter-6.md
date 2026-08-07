@@ -11,7 +11,7 @@ tags: ["healthcare-evaluation", "intervention-process", "research-methods", "fxa
 key_concepts: ["process evaluations", "ethnographic studies", "outcome research"]
 methods: ["surveys", "focus groups", "interviews"]
 slug: fxa301-arts-in-health-ch67-chapter-6
-related: ["healthcare-evaluation", "research-methods"]
+related: ["research-methods", "research-methods-in-healthcare-evaluation"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,5 +43,5 @@ This chapter discusses the importance of evaluating processes within healthcare 
 
 ## See Also
 
-- [healthcare-evaluation](../topics/healthcare-evaluation.md)
 - [research-methods](../topics/research-methods.md)
+- [research-methods-in-healthcare-evaluation](../topics/research-methods-in-healthcare-evaluation.md)

@@ -1,27 +1,27 @@
 ---
 type: topic
-domain: "intervention"
-title: "Aging Experiences Through Creative Arts"
+domain: "population"
+title: "Aging Experiences"
 confidence: medium
 tags: ["aging-experiences"]
 sources:
   - fxa202-week10-creative-arts-based-research-in-aged-care-photovoice
-updated: 2026-05-16
+updated: 2026-08-07
 ---
 
-## Aging Experiences Through Creative Arts
+## Aging Experiences
 
-The utilization of creative arts-based research methods in aged care emerges as a vital tool for understanding and expressing the complex experiences of aging. Photovoice, photography, and poetry provide emotive avenues for elderly individuals to narrate their lives and challenges, thus enriching the depth and authenticity of research on aging. Sources converge on the importance of these methodologies not just for data collection but also for empowering seniors in their own narrative construction, fostering a sense of agency and self-expression. However, there is tension between the desire to capture authentic voices through creative mediums and ensuring these methods are accessible to all elderly populations, including those with physical or cognitive limitations.
+The topic of aging experiences is explored through the lens of creative arts-based research in aged care settings. Photovoice and other artistic methods enable older adults to express their lived experiences and emotions visually, providing a rich, emotive understanding of aging that goes beyond traditional quantitative data. This approach highlights the importance of individual narratives in understanding the diverse challenges and joys experienced by older adults, emphasizing the need for personalized and empathetic care practices.
 
 ## Key Findings
 
-- Creative arts-based research methodologies offer unique insights into the aging experience by allowing seniors to communicate their thoughts and emotions in non-verbal ways.
-- Photovoice and other visual arts techniques empower older adults by giving them a platform to document their lives as they see fit, enhancing personal agency and community engagement.
-- These methods are particularly effective for capturing nuanced aspects of aging that traditional quantitative research might overlook.
+- Creative arts-based research methods, such as photovoice and poetry, offer unique insights into aging experiences that are not captured through conventional research approaches.
+- Photovoice projects allow elderly participants to actively engage in the documentation of their own lives, enhancing their sense of agency and self-expression.
+- The use of emotive research tools like photography and poetry can reveal hidden aspects of older adults' daily realities, fostering a deeper understanding among caregivers and researchers.
 
 ## Open Questions
 
-- How can creative arts-based research methodologies be adapted or modified to ensure inclusivity for elderly individuals with varying levels of physical ability, cognitive function, or access to technology?
+- How can the insights gained from creative arts-based research be effectively integrated into broader aged care policies to improve quality of life for elderly individuals?
 
 ## Sources
 

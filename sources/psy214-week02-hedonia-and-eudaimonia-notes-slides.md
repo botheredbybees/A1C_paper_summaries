@@ -11,7 +11,7 @@ tags: ["hedonic-well-being", "eudaimonic-well-being", "positive-psychology", "st
 key_concepts: ["hedonia", "eudaimonia", "well-being-theories", "virtue-ethics"]
 methods: []
 slug: psy214-week02-hedonia-and-eudaimonia-notes-slides
-related: ["eudaimonia", "eudaimonic-well-being", "hedonia", "hedonic-well-being", "mindfulness-practices", "positive-psychology", "self-care-strategies", "stress-management", "well-being-theories"]
+related: ["eudaimonic-well-being", "hedonia", "hedonic-well-being", "mindfulness-practices", "positive-psychology", "self-care-strategies", "stress-management", "well-being-theories"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -46,7 +46,6 @@ The document outlines the concepts of hedonic and eudaimonic well-being as centr
 
 ## See Also
 
-- [eudaimonia](../topics/eudaimonia.md)
 - [eudaimonic-well-being](../topics/eudaimonic-well-being.md)
 - [hedonia](../topics/hedonia.md)
 - [hedonic-well-being](../topics/hedonic-well-being.md)

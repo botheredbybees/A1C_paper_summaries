@@ -5,10 +5,11 @@ title: "Social Change Through Arts and Music"
 confidence: medium
 tags: ["social-change"]
 sources:
+  - fxa301-week01-culture-democracy-and-the-right-to-make-art-the-british
   - fxa301-week06-playing-for-their-lives-the-global-el-sistema-movement-for
   - fxa302-week04-the-black-death-and-its-aftermath
   - fxa303-week11-reimagining-wellbeing-using-arts-based-methods-to-address
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Social Change Through Arts and Music
@@ -27,6 +28,7 @@ Both sources highlight the transformative power of arts-based interventions in f
 
 ## Sources
 
+- [fxa301-week01-culture-democracy-and-the-right-to-make-art-the-british](../sources/fxa301-week01-culture-democracy-and-the-right-to-make-art-the-british.md)
 - [fxa301-week06-playing-for-their-lives-the-global-el-sistema-movement-for](../sources/fxa301-week06-playing-for-their-lives-the-global-el-sistema-movement-for.md)
 - [fxa302-week04-the-black-death-and-its-aftermath](../sources/fxa302-week04-the-black-death-and-its-aftermath.md)
 - [fxa303-week11-reimagining-wellbeing-using-arts-based-methods-to-address](../sources/fxa303-week11-reimagining-wellbeing-using-arts-based-methods-to-address.md)

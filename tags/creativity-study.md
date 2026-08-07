@@ -1,9 +1,9 @@
 ---
 type: tag
 tag: creativity-study
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Creativity Study
 
-- [Exploring Synaesthesia through a Metaphorical Lens](../sources/fxa101-week02-exploring-synaesthesia-through-a-metaphorical-lens.md)
+- [The Many Faces of Creativity: Exploring Synaesthesia through a Metaphorical Lens](../sources/fxa101-week02-exploring-synaesthesia-through-a-metaphorical-lens.md)

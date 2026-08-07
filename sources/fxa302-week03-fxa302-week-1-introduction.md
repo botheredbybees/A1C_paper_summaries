@@ -7,13 +7,15 @@ doi: null
 appearances:
   - unit: FXA302
     week: "03"
+  - unit: FXA302
+    week: "01"
 tags: ["health-humanities", "creative-arts-in-healthcare", "narrative-medicine", "medical-education-literature", "student-discussion-forums", "fxa302", "intersection-literature-medical-education"]
 key_concepts: ["narrative medicine", "intersection literature-medical education"]
 methods: []
 slug: fxa302-week03-fxa302-week-1-introduction
 related: ["creative-arts-in-healthcare", "health-humanities", "narrative-medicine"]
 created: 2026-07-20
-updated: 2026-07-20
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa302-week03-fxa302-week-1-introduction.md_

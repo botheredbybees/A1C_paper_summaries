@@ -6,11 +6,12 @@ sources:
   - fxa100-excellence-in-dementia-care--ch23-2-there-is-no-doubt-that-one-of-the-major-changes-we-see-in
   - fxa100-how-we-thnk-about-dementia-ch08-chapter-4
   - fxa100-how-we-thnk-about-dementia-ch12-chapter-4
+  - fxa301-week10-the-development-of-the-person-an-experiential-perspective
 tags:
 - personhood-theory
 title: Personhood in Dementia Care
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Personhood in Dementia Care
@@ -38,3 +39,4 @@ Overall, these sources collectively underscore the importance of viewing persons
 - [fxa100-excellence-in-dementia-care--ch23-2-there-is-no-doubt-that-one-of-the-major-changes-we-see-in](../sources/fxa100-excellence-in-dementia-care--ch23-2-there-is-no-doubt-that-one-of-the-major-changes-we-see-in.md)
 - [fxa100-how-we-thnk-about-dementia-ch08-chapter-4](../sources/fxa100-how-we-thnk-about-dementia-ch08-chapter-4.md)
 - [fxa100-how-we-thnk-about-dementia-ch12-chapter-4](../sources/fxa100-how-we-thnk-about-dementia-ch12-chapter-4.md)
+- [fxa301-week10-the-development-of-the-person-an-experiential-perspective](../sources/fxa301-week10-the-development-of-the-person-an-experiential-perspective.md)

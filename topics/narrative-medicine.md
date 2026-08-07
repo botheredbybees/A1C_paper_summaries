@@ -16,12 +16,13 @@ sources:
   - fxa302-week01-narrativity-and-medicine-some-critical-reflections
   - fxa302-week01-the-role-of-the-imagination-in-the-practices-of-the-health
   - fxa302-week01-transcript-duration-18-16
+  - fxa302-week01-web-lecture-week-1-2026
   - fxa302-week01-where-science-meets-stories-a-systematic-review-on
   - fxa302-week03-fxa302-week-1-introduction
   - fxa302-week03-introduction-to-fxa302-perspectives-of-the-arts-on-health
   - fxa302-week03-lesson-fxa302-week03-week-1-welcome-hm
   - fxa302-week03-transcript-duration-18-16
-updated: 2026-07-20
+updated: 2026-08-07
 ---
 
 ## Narrative Medicine
@@ -51,6 +52,7 @@ The concept of Narrative Medicine emerges consistently across sources as an inte
 - [fxa302-week01-narrativity-and-medicine-some-critical-reflections](../sources/fxa302-week01-narrativity-and-medicine-some-critical-reflections.md)
 - [fxa302-week01-the-role-of-the-imagination-in-the-practices-of-the-health](../sources/fxa302-week01-the-role-of-the-imagination-in-the-practices-of-the-health.md)
 - [fxa302-week01-transcript-duration-18-16](../sources/fxa302-week01-transcript-duration-18-16.md)
+- [fxa302-week01-web-lecture-week-1-2026](../sources/fxa302-week01-web-lecture-week-1-2026.md)
 - [fxa302-week01-where-science-meets-stories-a-systematic-review-on](../sources/fxa302-week01-where-science-meets-stories-a-systematic-review-on.md)
 - [fxa302-week03-fxa302-week-1-introduction](../sources/fxa302-week03-fxa302-week-1-introduction.md)
 - [fxa302-week03-introduction-to-fxa302-perspectives-of-the-arts-on-health](../sources/fxa302-week03-introduction-to-fxa302-perspectives-of-the-arts-on-health.md)

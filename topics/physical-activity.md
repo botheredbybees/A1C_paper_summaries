@@ -12,11 +12,12 @@ sources:
   - fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster
   - fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project
   - psy214-week00-physical-activity-and-depression-towards-understanding-the
+  - psy214-week05-lesson-psy214-week05-sleep-and-health
 tags:
 - physical-activity
 title: Physical Activity and Cognitive Health in Older Adults
 type: topic
-updated: 2026-07-28
+updated: 2026-08-03
 ---
 
 ## Physical Activity and Cognitive Health in Older Adults
@@ -44,3 +45,4 @@ The topic explores the impact of physical activity on cognitive health among old
 - [fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster](../sources/fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster.md)
 - [fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project](../sources/fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project.md)
 - [psy214-week00-physical-activity-and-depression-towards-understanding-the](../sources/psy214-week00-physical-activity-and-depression-towards-understanding-the.md)
+- [psy214-week05-lesson-psy214-week05-sleep-and-health](../sources/psy214-week05-lesson-psy214-week05-sleep-and-health.md)

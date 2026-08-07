@@ -11,7 +11,7 @@ tags: ["indigenous-health", "aboriginal-culture", "spiritual-wellbeing", "tradit
 key_concepts: ["connection-to-country", "holistic-wellness", "cultural-significance-of-place"]
 methods: ["ethnographic-study"]
 slug: fxa302-week02-first-knowledges-health-spirit-country-and-culture
-related: ["aboriginal-culture", "holistic-wellness", "indigenous-health", "spiritual-wellbeing"]
+related: ["aboriginal-culture", "holistic-wellness", "indigenous-health", "spiritual-wellbeing", "traditional-medicine"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -48,3 +48,4 @@ The document reflects on the legacy of Dr Yunupiŋu and emphasizes the interconn
 - [holistic-wellness](../topics/holistic-wellness.md)
 - [indigenous-health](../topics/indigenous-health.md)
 - [spiritual-wellbeing](../topics/spiritual-wellbeing.md)
+- [traditional-medicine](../topics/traditional-medicine.md)

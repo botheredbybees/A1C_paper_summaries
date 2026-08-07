@@ -9,12 +9,13 @@ sources:
   - fxa301-week05-web-article-butler-2019
   - fxa301-week05-week-5-activities-fxa301-arts-in-the-community
   - fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings
+  - fxa301-week10-the-use-of-arts-interventions-for-mental-health-and
   - fxa303-week11-lesson-fxa303-week11-page-2
 tags:
 - wellbeing
 title: Wellbeing Through Creative Arts
 type: topic
-updated: 2026-05-16
+updated: 2026-08-07
 ---
 
 ## Wellbeing Through Creative Arts
@@ -38,4 +39,5 @@ Creative arts interventions have been studied for their impact on various aspect
 - [fxa301-week05-web-article-butler-2019](../sources/fxa301-week05-web-article-butler-2019.md)
 - [fxa301-week05-week-5-activities-fxa301-arts-in-the-community](../sources/fxa301-week05-week-5-activities-fxa301-arts-in-the-community.md)
 - [fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings](../sources/fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings.md)
+- [fxa301-week10-the-use-of-arts-interventions-for-mental-health-and](../sources/fxa301-week10-the-use-of-arts-interventions-for-mental-health-and.md)
 - [fxa303-week11-lesson-fxa303-week11-page-2](../sources/fxa303-week11-lesson-fxa303-week11-page-2.md)

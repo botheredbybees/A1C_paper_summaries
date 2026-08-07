@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Horticultural Arts"
-apa7: "Coope, J. (2020). Horticultural arts. In P. Crawford, B. Brown, & A. Charise (Eds.), The Routledge Companion to Health Humanities (pp. 358-361). Taylor & Francis Group. https://doi.org/10.4324/9781315209039"
-doi: https://doi.org/10.4324/9781315209039
+apa7: "Coope, J. (2020). Horticultural arts. *The Routledge Companion to Health Humanities*. https://doi.org/10.4324/9780429469060-52"
+doi: https://doi.org/10.4324/9780429469060-52
 appearances:
   - unit: FXA302
     week: "01"

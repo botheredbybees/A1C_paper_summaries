@@ -3,12 +3,14 @@ confidence: low
 domain: method
 slug: ethnography
 sources:
-- fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10
+  - fxa300-week05-does-cultural-capital-structure-american-consumption
+  - fxa301-make-arts-for-a-better-life-ch05-1-read-your
+  - fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10
 tags:
 - ethnography
 title: Ethnography
 type: topic
-updated: 2026-05-04
+updated: 2026-08-03
 ---
 
 ## Ethnography
@@ -27,4 +29,6 @@ The utilization of qualitative research methods such as grounded theory and ethn
 
 ## Sources
 
+- [fxa300-week05-does-cultural-capital-structure-american-consumption](../sources/fxa300-week05-does-cultural-capital-structure-american-consumption.md)
+- [fxa301-make-arts-for-a-better-life-ch05-1-read-your](../sources/fxa301-make-arts-for-a-better-life-ch05-1-read-your.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10](../sources/fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10.md)

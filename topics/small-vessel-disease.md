@@ -1,28 +1,28 @@
 ---
 type: topic
-domain: "intervention"
-title: "Small-Vessel Disease"
+domain: "theory"
+title: "Small Vessel Disease"
 confidence: medium
 tags: ["small-vessel-disease"]
 sources:
   - fxa100-week01-living-with-dementia-12-what-is-vascular-dementia
   - fxa100-week01-transcript-dementia-australia
-updated: 2026-05-16
+updated: 2026-08-07
 ---
 
-## Small-Vessel Disease
+## Small Vessel Disease
 
-The source highlights the critical role of small-vessel disease in contributing to vascular cognitive impairment and mixed dementia. It underscores the significant impact on brain function due to damage in the smallest blood vessels, which is a crucial aspect of understanding vascular dementia. The text also discusses how this type of dementia often coexists with other forms, such as Alzheimer's disease, indicating a complex interaction between different pathologies that affect cognition.
+The sources converge on the importance of understanding small vessel disease (SVD) as a critical component in the broader context of vascular cognitive impairment and mixed dementia. Both sources emphasize that SVD contributes significantly to cognitive decline and is often intertwined with other forms of dementia, particularly Alzheimer's disease. The integration highlights the multifaceted nature of dementia where vascular factors play a substantial role alongside neurodegenerative processes. There is agreement on the clinical significance of diagnosing SVD early due to its impact on the progression and management of cognitive impairment.
 
 ## Key Findings
 
-- Small-vessel disease significantly contributes to vascular cognitive impairment and mixed dementia.
-- Mixed dementia cases commonly involve small-vessel disease alongside other types like Alzheimer’s disease.
-- Understanding the nuances of small-vessel disease is crucial for effective management strategies in treating vascular cognitive impairments.
+- Small vessel disease significantly impacts cognition.
+- SVD frequently coexists with other forms of dementia, particularly Alzheimer's disease.
+- Early diagnosis of vascular factors in dementia offers potential for better management strategies.
 
 ## Open Questions
 
-- What are the most effective treatment approaches to mitigate the impact of small-vessel disease on brain function and overall cognition?
+- What are the most effective methods for early detection and intervention of small vessel disease in patients?
 
 ## Sources
 

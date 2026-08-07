@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: kin-altruism
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Kin Altruism

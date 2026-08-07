@@ -6,11 +6,12 @@ sources:
   - fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts
   - fxa303-week09-lesson-fxa303-week09-activities
   - fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design
+  - fxa303-week09-trauma-aware-and-anti-oppressive-arts-health-and-community
 tags:
 - trauma-informed-practice
 title: Trauma-Informed Practice
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Trauma-Informed Practice
@@ -32,3 +33,4 @@ The integration of trauma-informed practices across various therapeutic and comm
 - [fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts](../sources/fxa303-week09-fxa303-week-9-design-and-applications-of-creative-arts.md)
 - [fxa303-week09-lesson-fxa303-week09-activities](../sources/fxa303-week09-lesson-fxa303-week09-activities.md)
 - [fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design](../sources/fxa303-week09-lesson-fxa303-week09-page-2-trauma-informed-design.md)
+- [fxa303-week09-trauma-aware-and-anti-oppressive-arts-health-and-community](../sources/fxa303-week09-trauma-aware-and-anti-oppressive-arts-health-and-community.md)

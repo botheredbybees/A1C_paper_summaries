@@ -4,12 +4,13 @@ domain: intervention
 slug: creative-therapies-for-alzheimer-s-patients
 sources:
   - fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients
+  - fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients-(2)
   - fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people
 tags:
 - alzheimers-research
 title: Creative Therapies for Alzheimer's Patients
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Creative Therapies for Alzheimer's Patients
@@ -29,4 +30,5 @@ Research indicates that creative therapies such as music and art can significant
 ## Sources
 
 - [fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients](../sources/fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients.md)
+- [fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients-(2)](../sources/fxa100-week04-singing-boosts-brain-activity-in-alzheimers-patients-%282%29.md)
 - [fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people](../sources/fxa100-week07-the-moma-alzheimers-project-making-art-accessible-to-people.md)

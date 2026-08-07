@@ -8,7 +8,7 @@ tags:
 - critical-periods-for-learning
 title: Critical Periods for Learning
 type: topic
-updated: 2026-05-16
+updated: 2026-08-07
 ---
 
 ## Critical Periods for Learning

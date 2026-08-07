@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: public-health
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Public Health
@@ -10,6 +10,7 @@ updated: 2026-07-28
 - [Activities for Week 2 - FXA101 Creativity and Ageing](../sources/fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities.md)
 - [Brain training using cognitive apps can improve cognitive performance and processing speed in older adults](../sources/fxa101-week04-brain-training-using-cognitive-apps-can-improve-cognitive.md)
 - [Creativity throughout life](../sources/fxa101-week04-lesson-fxa101-week04-chapter-3-creativity-throughout-life.md)
+- [Music and Movement for Health: an arts-based Intervention to promote health and wellbeing of community dwelling older adults in Ireland](../sources/fxa300-week05-music-and-movement-for-health-an-arts-based-intervention-to.md)
 - [Art Is the Evidence: Convincing Public Communication of Art-Based Research and Its Outcomes](../sources/fxa301-applied-artes-and-health-ch01-2021-graff.md)
 - [Theoretical Background to Arts in Health](../sources/fxa301-arts-in-health-ch04-48-haldane-d.md)
 - [The value of music for public health](../sources/fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26.md)
@@ -19,6 +20,7 @@ updated: 2026-07-28
 - [Epidemiological studies of the relationship between cultural experiences and public health](../sources/fxa301-oxford-textbook-of-creative-arts-ch24-chapter-8.md)
 - [Making Art With Communities: A Work Guide](../sources/fxa301-week01-making-art-with-communities-a-work-guide-%283%29.md)
 - [Research ethics](../sources/fxa301-week01-research-ethics.md)
+- [Implementing Creative Health](../sources/fxa301-week03-implementing-creative-health-%282%29.md)
 - [Public Health Perspective and Government Recognition of Creative Arts](../sources/fxa301-week03-lesson-fxa301-week03-page-3.md)
 - [Mind, Body, Spirit: How Museums Impact Health and Wellbeing](../sources/fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing.md)
 - [Museums for Health and Wellbeing](../sources/fxa301-week05-museums-for-health-and-wellbeing.md)

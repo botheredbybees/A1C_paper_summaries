@@ -5,8 +5,12 @@ slug: cognitive-function-enhancement-through-lifestyle-factors
 sources:
   - fxa100-week01-relating-physical-activity-to-cognitive-function-brain
   - fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care
+  - fxa100-week03-week-3-lecture
   - fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees
+  - fxa100-week04-music-therapy-in-the-treatment-of-dementia-a-systematic
+  - fxa100-week06-art-creativity-(2)
   - fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to
+  - fxa100-week12-the-effectiveness-of-art-based-interventions-among-older
   - fxa100-week13-applicability-and-effects-of-physical-exercise-on-physical
   - fxa100-week13-effects-of-yoga-like-exercises-on-mild-and-moderate
   - fxa100-week13-improvement-of-cognitive-function-by-mental-andor
@@ -18,7 +22,7 @@ tags:
 - cognitive-function
 title: Cognitive Function Enhancement Through Lifestyle Factors
 type: topic
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Cognitive Function Enhancement Through Lifestyle Factors
@@ -39,8 +43,12 @@ The integration of lifestyle factors such as diet, physical activity, and sleep 
 
 - [fxa100-week01-relating-physical-activity-to-cognitive-function-brain](../sources/fxa100-week01-relating-physical-activity-to-cognitive-function-brain.md)
 - [fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care](../sources/fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care.md)
+- [fxa100-week03-week-3-lecture](../sources/fxa100-week03-week-3-lecture.md)
 - [fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees](../sources/fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees.md)
+- [fxa100-week04-music-therapy-in-the-treatment-of-dementia-a-systematic](../sources/fxa100-week04-music-therapy-in-the-treatment-of-dementia-a-systematic.md)
+- [fxa100-week06-art-creativity-(2)](../sources/fxa100-week06-art-creativity-%282%29.md)
 - [fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to](../sources/fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to.md)
+- [fxa100-week12-the-effectiveness-of-art-based-interventions-among-older](../sources/fxa100-week12-the-effectiveness-of-art-based-interventions-among-older.md)
 - [fxa100-week13-applicability-and-effects-of-physical-exercise-on-physical](../sources/fxa100-week13-applicability-and-effects-of-physical-exercise-on-physical.md)
 - [fxa100-week13-effects-of-yoga-like-exercises-on-mild-and-moderate](../sources/fxa100-week13-effects-of-yoga-like-exercises-on-mild-and-moderate.md)
 - [fxa100-week13-improvement-of-cognitive-function-by-mental-andor](../sources/fxa100-week13-improvement-of-cognitive-function-by-mental-andor.md)

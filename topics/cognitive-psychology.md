@@ -3,8 +3,10 @@ confidence: medium
 domain: theory
 slug: cognitive-psychology-in-aesthetic-appreciation-and-adolescent-development
 sources:
+  - fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video-(3)
   - fxa101-week02-web-article-grossenbacher-2001
   - fxa101-week02-web-article-lunke-2018
+  - fxa101-week05-rapid-and-dynamic-processing-of-face-pareidolia-in-the
   - fxa300-week01-week-1-introduction-music-mind-and-body
   - fxa300-week03-exploring-working-memory-selected-works-of-alan-baddeley
   - fxa300-week03-lesson-fxa300-week03-week-2
@@ -16,14 +18,16 @@ sources:
   - fxa300-week04-auditory-imagery-empirical-findings
   - fxa300-week04-irrelevant-sound-interference-on-phonological-and-tonal
   - fxa300-week04-music-cognition
+  - fxa300-week05-the-distribution-of-memories-for-popular-songs-in-old-age
   - fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and
+  - fxa301-week10-flow-the-joy-of-reading
   - fxa303-week02-lesson-fxa303-week02-introduction-copy
   - fxa303-week13-the-neural-basis-of-humour-processing
 tags:
 - cognitive-psychology
 title: Cognitive Psychology in Aesthetic Appreciation and Adolescent Development
 type: topic
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Cognitive Psychology in Aesthetic Appreciation and Adolescent Development
@@ -42,8 +46,10 @@ The synthesis of the cognitive psychology theories from both sources reveals a n
 
 ## Sources
 
+- [fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video-(3)](../sources/fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video-%283%29.md)
 - [fxa101-week02-web-article-grossenbacher-2001](../sources/fxa101-week02-web-article-grossenbacher-2001.md)
 - [fxa101-week02-web-article-lunke-2018](../sources/fxa101-week02-web-article-lunke-2018.md)
+- [fxa101-week05-rapid-and-dynamic-processing-of-face-pareidolia-in-the](../sources/fxa101-week05-rapid-and-dynamic-processing-of-face-pareidolia-in-the.md)
 - [fxa300-week01-week-1-introduction-music-mind-and-body](../sources/fxa300-week01-week-1-introduction-music-mind-and-body.md)
 - [fxa300-week03-exploring-working-memory-selected-works-of-alan-baddeley](../sources/fxa300-week03-exploring-working-memory-selected-works-of-alan-baddeley.md)
 - [fxa300-week03-lesson-fxa300-week03-week-2](../sources/fxa300-week03-lesson-fxa300-week03-week-2.md)
@@ -55,6 +61,8 @@ The synthesis of the cognitive psychology theories from both sources reveals a n
 - [fxa300-week04-auditory-imagery-empirical-findings](../sources/fxa300-week04-auditory-imagery-empirical-findings.md)
 - [fxa300-week04-irrelevant-sound-interference-on-phonological-and-tonal](../sources/fxa300-week04-irrelevant-sound-interference-on-phonological-and-tonal.md)
 - [fxa300-week04-music-cognition](../sources/fxa300-week04-music-cognition.md)
+- [fxa300-week05-the-distribution-of-memories-for-popular-songs-in-old-age](../sources/fxa300-week05-the-distribution-of-memories-for-popular-songs-in-old-age.md)
 - [fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and](../sources/fxa301-week02-ten-years-of-a-model-of-aesthetic-appreciation-and.md)
+- [fxa301-week10-flow-the-joy-of-reading](../sources/fxa301-week10-flow-the-joy-of-reading.md)
 - [fxa303-week02-lesson-fxa303-week02-introduction-copy](../sources/fxa303-week02-lesson-fxa303-week02-introduction-copy.md)
 - [fxa303-week13-the-neural-basis-of-humour-processing](../sources/fxa303-week13-the-neural-basis-of-humour-processing.md)

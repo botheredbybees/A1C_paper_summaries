@@ -11,7 +11,7 @@ tags: ["creativity-in-aging", "mental-health-nursing", "well-being-through-art",
 key_concepts: ["cognitive resilience", "creative activities", "quality-of-life"]
 methods: ["review"]
 slug: fxa101-week04-creativity-in-older-adults-a-plethora-of-possibilities
-related: ["cognitive-resilience", "creativity-in-aging", "well-being-through-art"]
+related: ["cognitive-resilience", "creativity-in-aging", "well-being-through-creative-arts"]
 created: 2026-07-28
 updated: 2026-07-28
 ---
@@ -43,4 +43,4 @@ This paper explores the role of creativity in enhancing mental and physiological
 
 - [cognitive-resilience](../topics/cognitive-resilience.md)
 - [creativity-in-aging](../topics/creativity-in-aging.md)
-- [well-being-through-art](../topics/well-being-through-art.md)
+- [well-being-through-creative-arts](../topics/well-being-through-creative-arts.md)

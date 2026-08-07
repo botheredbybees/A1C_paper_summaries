@@ -17,7 +17,7 @@ tags: ["arts-health", "wellbeing-research", "cultural-interventions", "fxa301"]
 key_concepts: ["mental health outcomes", "long-term benefits", "genetic expression"]
 methods: ["systematic review"]
 slug: fxa301-week03-arts-health-and-wellbeing-evidence-and-implications
-related: ["arts-health", "wellbeing-research"]
+related: ["arts-health", "cultural-interventions", "wellbeing-research"]
 created: 2026-05-03
 updated: 2026-05-16
 ---
@@ -48,4 +48,5 @@ The document explores the positive impact of arts engagement on health and wellb
 ## See Also
 
 - [arts-health](../topics/arts-health.md)
+- [cultural-interventions](../topics/cultural-interventions.md)
 - [wellbeing-research](../topics/wellbeing-research.md)

@@ -5,11 +5,13 @@ slug: gallery-programs-for-dementia-patients
 sources:
   - fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales
   - fxa100-week07-fxa100-week-7-lecture
+  - fxa100-week07-fxa100-week-7-lecture-(2)
+  - fxa100-week07-what-are-the-benefits-of-engaging-with-the-visual-arts-in-a
 tags:
 - gallery-programs
 title: Gallery Programs for Dementia Patients
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Gallery Programs for Dementia Patients
@@ -30,3 +32,5 @@ The synthesis of gallery programs for dementia patients reveals a multifaceted a
 
 - [fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales](../sources/fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales.md)
 - [fxa100-week07-fxa100-week-7-lecture](../sources/fxa100-week07-fxa100-week-7-lecture.md)
+- [fxa100-week07-fxa100-week-7-lecture-(2)](../sources/fxa100-week07-fxa100-week-7-lecture-%282%29.md)
+- [fxa100-week07-what-are-the-benefits-of-engaging-with-the-visual-arts-in-a](../sources/fxa100-week07-what-are-the-benefits-of-engaging-with-the-visual-arts-in-a.md)

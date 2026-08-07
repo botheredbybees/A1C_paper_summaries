@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Engagement in Persons With Dementia: The Concept and Its Measurement"
-apa7: "Cohen-Mansfield, J., Dakheel-Ali, M., & Marx, M. S. (2009). Engagement in persons with dementia: The concept and its measurement. American Journal of Geriatric Psychiatry, 17(4), 299-307."
-doi: https://doi.org/10.1097/JGP.0b013e3181a2f5cb
+apa7: "Cohen-Mansfield, J., Dakheel-Ali, M., & Marx, M. S. (2009). Engagement in persons with dementia: The concept and its measurement. American Journal of Geriatric Psychiatry, 17(4), 299-307. https://doi.org/10.1097/jgp.0b013e31818f3a52"
+doi: https://doi.org/10.1097/jgp.0b013e31818f3a52
 appearances:
   - unit: FXA303
     week: "13"
@@ -13,7 +13,7 @@ methods: ["preliminary-study"]
 slug: fxa303-week13-engagement-in-persons-with-dementia-the-concept-and-its
 related: ["dementia-care", "mental-health", "nonpharmacological-interventions", "patient-engagement", "quality-of-life"]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-08-02
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week13-engagement-in-persons-with-dementia-the-concept-and-its.md_

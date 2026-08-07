@@ -2,31 +2,35 @@
 type: topic
 domain: "intervention"
 title: "Visual Thinking Strategies"
-confidence: medium
+confidence: high
 tags: ["visual-thinking-strategies"]
 sources:
+  - fxa302-week03-how-art-museums-can-foster-the-flourishing-of-future
   - fxa302-week03-lesson-fxa302-week03-page-3
   - fxa302-week03-transcript-delete-this-element
+  - fxa302-week03-visual-art-instruction-in-medical-education-a-narrative
   - fxa302-week03-visual-thinking-strategy
-updated: 2026-07-20
+updated: 2026-08-07
 ---
 
 ## Visual Thinking Strategies
 
-Visual Thinking Strategies (VTS) emerges as a pedagogical intervention aimed at fostering observational skills and critical interpretation through the use of visual arts. Sources highlight VTS's role in enhancing educational practices by shifting towards student-centered learning, thereby empowering students to become active participants in their own learning process. Additionally, there is an emphasis on integrating health humanities and artful thinking into traditional educational frameworks, underscoring the interdisciplinary nature of VTS. The approach underscores the importance of observational skills as a foundational component for developing critical interpretation abilities.
+Visual Thinking Strategies (VTS) is an intervention aimed at enhancing observational skills and fostering holistic well-being through a student-centered approach to learning. Sources highlight VTS as a method that promotes critical interpretation of visual art, aligning closely with the goals of Health Humanities and Artful Thinking in educational settings, particularly within medical education contexts. Across all sources, there is agreement on the potential for VTS to enhance professional development by improving observational skills among healthcare professionals. However, while each source emphasizes the positive aspects of VTS, there is a notable lack of detailed empirical evidence or longitudinal studies that quantify its long-term impact on practitioners' well-being and patient care outcomes.
 
 ## Key Findings
 
-- Visual Thinking Strategies (VTS) enhance observational skills in learners through engagement with visual arts.
-- VTS supports student-centered learning, promoting active participation and critical thinking among students.
-- The integration of health humanities and artful thinking enriches the educational application of VTS.
+- VTS enhances observational skills through critical interpretation of visual art.
+- The method supports holistic professional development in healthcare education.
+- Health Humanities and Artful Thinking align with VTS in educational contexts.
 
 ## Open Questions
 
-- How can the effectiveness of Visual Thinking Strategies be measured in diverse educational settings?
+- What are the long-term impacts of VTS on practitioners' well-being and patient care?
 
 ## Sources
 
+- [fxa302-week03-how-art-museums-can-foster-the-flourishing-of-future](../sources/fxa302-week03-how-art-museums-can-foster-the-flourishing-of-future.md)
 - [fxa302-week03-lesson-fxa302-week03-page-3](../sources/fxa302-week03-lesson-fxa302-week03-page-3.md)
 - [fxa302-week03-transcript-delete-this-element](../sources/fxa302-week03-transcript-delete-this-element.md)
+- [fxa302-week03-visual-art-instruction-in-medical-education-a-narrative](../sources/fxa302-week03-visual-art-instruction-in-medical-education-a-narrative.md)
 - [fxa302-week03-visual-thinking-strategy](../sources/fxa302-week03-visual-thinking-strategy.md)

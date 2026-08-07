@@ -5,8 +5,10 @@ slug: systematic-reviews-of-arts-based-interventions
 sources:
   - fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a
   - fxa100-week09-dance-movement-therapy-for-dementia
+  - fxa100-week09-effectiveness-of-creative-story-therapy-for-dementia-a
   - fxa100-week09-key-components-of-person-centered-care-for-people-with
   - fxa100-week09-key-intervention-categories-to-provide-person-centered
+  - fxa100-week11-art-therapies-and-dementia-care-a-systematic-review
   - fxa100-week13-applicability-and-effects-of-physical-exercise-on-physical
   - fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression
   - fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a
@@ -32,8 +34,11 @@ sources:
   - fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism
   - fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder
   - fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic
+  - fxa303-week09-art-therapy-with-children-and-adolescents-experiencing
   - fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of
   - fxa303-week11-creative-arts-therapies-for-the-mental-health-of-emerging
+  - fxa303-week11-does-regular-engagement-with-arts-and-creative-activities
+  - fxa303-week11-the-impact-of-viewing-art-on-well-beinga-systematic-review
   - fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to
   - fxa303-week13-dance-movement-therapy-for-neurodegenerative-diseases-a
   - fxa303-week13-humor-assessment-and-interventions-in-palliative-care-a
@@ -43,11 +48,12 @@ sources:
   - fxa303-week13-therapeutic-clowns-in-pediatrics-a-systematic-review-and
   - psy214-week00-creative-arts-interventions-for-stress-management-and
   - psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the
+  - psy214-week07-mindfulness-and-acceptance-based-trainings-for-fostering
 tags:
 - systematic-review
 title: Systematic Reviews of Arts-Based Interventions
 type: topic
-updated: 2026-07-28
+updated: 2026-08-07
 ---
 
 ## Systematic Reviews of Arts-Based Interventions
@@ -68,8 +74,10 @@ The systematic reviews examined here cover a range of arts-based interventions a
 
 - [fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a](../sources/fxa100-week01-effect-of-antidiabetic-drugs-in-alzheimers-disease-a.md)
 - [fxa100-week09-dance-movement-therapy-for-dementia](../sources/fxa100-week09-dance-movement-therapy-for-dementia.md)
+- [fxa100-week09-effectiveness-of-creative-story-therapy-for-dementia-a](../sources/fxa100-week09-effectiveness-of-creative-story-therapy-for-dementia-a.md)
 - [fxa100-week09-key-components-of-person-centered-care-for-people-with](../sources/fxa100-week09-key-components-of-person-centered-care-for-people-with.md)
 - [fxa100-week09-key-intervention-categories-to-provide-person-centered](../sources/fxa100-week09-key-intervention-categories-to-provide-person-centered.md)
+- [fxa100-week11-art-therapies-and-dementia-care-a-systematic-review](../sources/fxa100-week11-art-therapies-and-dementia-care-a-systematic-review.md)
 - [fxa100-week13-applicability-and-effects-of-physical-exercise-on-physical](../sources/fxa100-week13-applicability-and-effects-of-physical-exercise-on-physical.md)
 - [fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression](../sources/fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression.md)
 - [fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a](../sources/fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a.md)
@@ -95,8 +103,11 @@ The systematic reviews examined here cover a range of arts-based interventions a
 - [fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism](../sources/fxa303-week04-effectiveness-of-music-therapy-in-children-with-autism.md)
 - [fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder](../sources/fxa303-week04-music-therapy-for-children-with-autistic-spectrum-disorder.md)
 - [fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic](../sources/fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic.md)
+- [fxa303-week09-art-therapy-with-children-and-adolescents-experiencing](../sources/fxa303-week09-art-therapy-with-children-and-adolescents-experiencing.md)
 - [fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of](../sources/fxa303-week09-the-effectiveness-of-art-therapy-in-the-treatment-of.md)
 - [fxa303-week11-creative-arts-therapies-for-the-mental-health-of-emerging](../sources/fxa303-week11-creative-arts-therapies-for-the-mental-health-of-emerging.md)
+- [fxa303-week11-does-regular-engagement-with-arts-and-creative-activities](../sources/fxa303-week11-does-regular-engagement-with-arts-and-creative-activities.md)
+- [fxa303-week11-the-impact-of-viewing-art-on-well-beinga-systematic-review](../sources/fxa303-week11-the-impact-of-viewing-art-on-well-beinga-systematic-review.md)
 - [fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to](../sources/fxa303-week13-cognitive-training-and-cognitive-rehabilitation-for-mild-to.md)
 - [fxa303-week13-dance-movement-therapy-for-neurodegenerative-diseases-a](../sources/fxa303-week13-dance-movement-therapy-for-neurodegenerative-diseases-a.md)
 - [fxa303-week13-humor-assessment-and-interventions-in-palliative-care-a](../sources/fxa303-week13-humor-assessment-and-interventions-in-palliative-care-a.md)
@@ -106,3 +117,4 @@ The systematic reviews examined here cover a range of arts-based interventions a
 - [fxa303-week13-therapeutic-clowns-in-pediatrics-a-systematic-review-and](../sources/fxa303-week13-therapeutic-clowns-in-pediatrics-a-systematic-review-and.md)
 - [psy214-week00-creative-arts-interventions-for-stress-management-and](../sources/psy214-week00-creative-arts-interventions-for-stress-management-and.md)
 - [psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the](../sources/psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the.md)
+- [psy214-week07-mindfulness-and-acceptance-based-trainings-for-fostering](../sources/psy214-week07-mindfulness-and-acceptance-based-trainings-for-fostering.md)

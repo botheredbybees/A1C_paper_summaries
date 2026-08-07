@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "The Quest for Universals in Temporal Processing in Music"
-apa7: "Drake, C., & Bertrand, D. (2009). The quest for universals in temporal processing in music. Annals of the New York Academy of Sciences, 1169(1), 34-54. https://doi.org/10.1111/j.1749-6632.2009.04584.x"
-doi: https://doi.org/10.1111/j.1749-6632.2009.04584.x
+apa7: "Drake, C., & Bertrand, D. (2001). The Quest for Universals in Temporal Processing in Music. *Annals of the New York Academy of Sciences*. https://doi.org/10.1111/J.1749-6632.2001.TB05722.X"
+doi: https://doi.org/10.1111/J.1749-6632.2001.TB05722.X
 appearances:
   - unit: FXA300
     week: "03"

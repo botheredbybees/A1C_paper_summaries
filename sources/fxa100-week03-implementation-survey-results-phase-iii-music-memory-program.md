@@ -11,7 +11,7 @@ tags: ["music-therapy", "program-evaluation", "long-term-care", "health-outcomes
 key_concepts: ["Music & Memory Program", "residents' quality of life"]
 methods: ["survey"]
 slug: fxa100-week03-implementation-survey-results-phase-iii-music-memory-program
-related: ["health-outcomes", "long-term-care", "music-therapy", "quality-improvement"]
+related: ["health-outcomes", "long-term-care", "music-therapy", "program-evaluation", "quality-improvement"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,4 +45,5 @@ The document presents the implementation survey results for Phase III of the Wis
 - [health-outcomes](../topics/health-outcomes.md)
 - [long-term-care](../topics/long-term-care.md)
 - [music-therapy](../topics/music-therapy.md)
+- [program-evaluation](../topics/program-evaluation.md)
 - [quality-improvement](../topics/quality-improvement.md)

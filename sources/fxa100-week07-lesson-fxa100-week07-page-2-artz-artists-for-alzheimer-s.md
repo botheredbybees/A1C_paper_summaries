@@ -7,11 +7,11 @@ doi: null
 appearances:
   - unit: FXA100
     week: "07"
-tags: ["arts-and-dementia-care", "alzheimer-programs", "museum-experiences", "fxa100"]
+tags: ["alzheimer-programs", "arts-and-dementia-care", "fxa100", "museum-experiences", "museum-programs-for-people-with-dementia"]
 key_concepts: ["personhood-first approach", "art-therapy-for-alzheimers", "dementia-awareness-in-museums"]
 methods: []
 slug: fxa100-week07-lesson-fxa100-week07-page-2-artz-artists-for-alzheimer-s
-related: ["museum-programs-for-people-with-dementia"]
+related: ["visual-arts-intervention-for-dementia-care"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,4 +41,4 @@ The ARTZ program, founded by John Zeisel and Sean Caulfield, aims to provide art
 
 ## See Also
 
-- [museum-programs-for-people-with-dementia](../topics/museum-programs-for-people-with-dementia.md)
+- [visual-arts-intervention-for-dementia-care](../topics/visual-arts-intervention-for-dementia-care.md)

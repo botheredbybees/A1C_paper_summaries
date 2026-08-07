@@ -8,7 +8,8 @@ sources:
   - fxa100-week13-improvement-of-cognitive-function-by-mental-andor
   - fxa100-week13-reminder-randomized-controlled-study-feasibility-and-impact
   - fxa101-week03-cognitive-reserve-in-healthy-aging-and-alzheimers-disease-a
-updated: 2026-07-20
+  - fxa301-week05-associations-between-participation-in-community-arts-groups
+updated: 2026-08-07
 ---
 
 ## Healthy Aging Interventions
@@ -30,3 +31,4 @@ The study of interventions aimed at promoting cognitive health in the elderly re
 - [fxa100-week13-improvement-of-cognitive-function-by-mental-andor](../sources/fxa100-week13-improvement-of-cognitive-function-by-mental-andor.md)
 - [fxa100-week13-reminder-randomized-controlled-study-feasibility-and-impact](../sources/fxa100-week13-reminder-randomized-controlled-study-feasibility-and-impact.md)
 - [fxa101-week03-cognitive-reserve-in-healthy-aging-and-alzheimers-disease-a](../sources/fxa101-week03-cognitive-reserve-in-healthy-aging-and-alzheimers-disease-a.md)
+- [fxa301-week05-associations-between-participation-in-community-arts-groups](../sources/fxa301-week05-associations-between-participation-in-community-arts-groups.md)

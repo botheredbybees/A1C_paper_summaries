@@ -7,13 +7,17 @@ doi: null
 appearances:
   - unit: FXA303
     week: "11"
-tags: ["transcript-unavailable", "youtube-error", "manual-transcription", "fxa303"]
+  - unit: FXA303
+    week: "10"
+  - unit: FXA300
+    week: "04"
+tags: ["transcript-unavailable", "youtube-error", "manual-transcription", "fxa303", "fxa300"]
 key_concepts: []
 methods: []
 slug: fxa303-week11-transcript-duration-6-15-url-only
-related: ["transcript-unavailable"]
+related: ["manual-transcription", "transcript-unavailable"]
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week11-transcript-duration-6-15-url-only.md_
@@ -39,4 +43,5 @@ The transcript could not be downloaded automatically due to an error indicating 
 
 ## See Also
 
+- [manual-transcription](../topics/manual-transcription.md)
 - [transcript-unavailable](../topics/transcript-unavailable.md)

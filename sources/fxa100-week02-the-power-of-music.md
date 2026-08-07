@@ -2,7 +2,7 @@
 type: source
 source_type: paper
 title: "The power of music"
-apa7: "Sacks, O. (2006). The power of music. *Brain*, 129(8), 2528-2532. https://doi.org/10.1093/brain/awl234"
+apa7: "Sacks, O. (2006). The power of music. *Brain*, 129(10), 2528-2532. https://doi.org/10.1093/brain/awl234"
 doi: https://doi.org/10.1093/brain/awl234
 appearances:
   - unit: FXA100
@@ -13,7 +13,7 @@ methods: ["case-study"]
 slug: fxa100-week02-the-power-of-music
 related: ["cultural-psychology", "emotional-cognition", "music-therapy", "neurology"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-08-02
 ---
 
 _All claims sourced from ../raw/pdf/fxa100-week02-the-power-of-music.md_

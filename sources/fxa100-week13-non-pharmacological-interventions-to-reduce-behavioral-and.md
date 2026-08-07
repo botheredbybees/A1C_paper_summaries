@@ -7,11 +7,11 @@ doi: https://doi.org/10.1016/j.ypsc.2025.03.004
 appearances:
   - unit: FXA100
     week: "13"
-tags: ["dementia-care", "non-pharmacological-interventions", "behavioral-symptoms", "fxa100"]
+tags: ["behavioral-symptoms", "cognitive-stimulation-therapy", "dementia-care", "fxa100", "non-pharmacological-interventions"]
 key_concepts: ["behavioral and psychological symptoms of dementia (BPSD)", "person-centered care"]
 methods: ["systematic review"]
 slug: fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and
-related: ["behavioral-symptoms", "cognitive-stimulation-therapy", "dementia-care"]
+related: ["behavioral-symptoms", "cognitive-stimulation-therapy", "dementia-care", "music-therapy-in-dementia-care"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -43,3 +43,4 @@ This article explores the prevalence and impact of behavioral and psychological 
 - [behavioral-symptoms](../topics/behavioral-symptoms.md)
 - [cognitive-stimulation-therapy](../topics/cognitive-stimulation-therapy.md)
 - [dementia-care](../topics/dementia-care.md)
+- [music-therapy-in-dementia-care](../topics/music-therapy-in-dementia-care.md)

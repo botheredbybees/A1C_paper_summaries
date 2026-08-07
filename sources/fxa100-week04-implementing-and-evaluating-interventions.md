@@ -11,7 +11,7 @@ tags: ["arts-in-health", "intervention-design", "healthcare-integration", "fxa10
 key_concepts: ["pilot-project", "iterative-refinement", "formative-evaluation"]
 methods: ["case-study"]
 slug: fxa100-week04-implementing-and-evaluating-interventions
-related: ["arts-in-health", "intervention-design"]
+related: ["arts-in-health", "healthcare-integration", "intervention-design"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,4 +42,5 @@ This chapter outlines the process of designing and evaluating arts in health int
 ## See Also
 
 - [arts-in-health](../topics/arts-in-health.md)
+- [healthcare-integration](../topics/healthcare-integration.md)
 - [intervention-design](../topics/intervention-design.md)

@@ -5,9 +5,10 @@ title: "Creative Arts Programs in Youth Justice"
 confidence: medium
 tags: ["youth-justice"]
 sources:
+  - fxa303-week11-bell-shakespeares-youth-justice-program
   - fxa303-week11-developing-creative-approaches-in-youth-justice-a-guide-for
   - fxa303-week11-youth-justice-program-bell-shakespeare
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Creative Arts Programs in Youth Justice
@@ -26,5 +27,6 @@ The integration of creative arts programs within the youth justice system repres
 
 ## Sources
 
+- [fxa303-week11-bell-shakespeares-youth-justice-program](../sources/fxa303-week11-bell-shakespeares-youth-justice-program.md)
 - [fxa303-week11-developing-creative-approaches-in-youth-justice-a-guide-for](../sources/fxa303-week11-developing-creative-approaches-in-youth-justice-a-guide-for.md)
 - [fxa303-week11-youth-justice-program-bell-shakespeare](../sources/fxa303-week11-youth-justice-program-bell-shakespeare.md)

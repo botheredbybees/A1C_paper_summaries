@@ -3,12 +3,14 @@ confidence: low
 domain: intervention
 slug: sexual-health-education
 sources:
-- fxa301-week08-transcript-sharing-stories-after-school-ill-marry-you-23-nov
+  - fxa301-week08-lesson-fxa301-week07-page-2-hm-copy
+  - fxa301-week08-transcript-sharing-stories-after-school-ill-marry-you-23-nov
+  - fxa301-week08-week-8-lecture-on-applying-theatre-and-literature-for
 tags:
 - sexual-health-education
 title: Sexual Health Education
 type: topic
-updated: 2026-05-04
+updated: 2026-08-07
 ---
 
 ## Sexual Health Education
@@ -27,4 +29,6 @@ The sources emphasize the critical role of comprehensive sexual health education
 
 ## Sources
 
+- [fxa301-week08-lesson-fxa301-week07-page-2-hm-copy](../sources/fxa301-week08-lesson-fxa301-week07-page-2-hm-copy.md)
 - [fxa301-week08-transcript-sharing-stories-after-school-ill-marry-you-23-nov](../sources/fxa301-week08-transcript-sharing-stories-after-school-ill-marry-you-23-nov.md)
+- [fxa301-week08-week-8-lecture-on-applying-theatre-and-literature-for](../sources/fxa301-week08-week-8-lecture-on-applying-theatre-and-literature-for.md)

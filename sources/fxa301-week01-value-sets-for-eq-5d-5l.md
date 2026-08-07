@@ -2,7 +2,7 @@
 type: source
 source_type: paper
 title: "Value Sets for EQ-5D-5L"
-apa7: "Devlin, N., Roudijk, B., & Ludwig, K. (Eds.). (2021). Value sets for EQ-5D-5L: A compendium, comparative review & user guide. Springer."
+apa7: "Devlin, N., Roudijk, B., & Ludwig, K. (Eds.). (2022). Value sets for EQ-5D-5L: A compendium, comparative review & user guide. Springer. https://doi.org/10.1007/978-3-030-89289-0"
 doi: https://doi.org/10.1007/978-3-030-89289-0
 appearances:
   - unit: FXA301
@@ -13,7 +13,7 @@ methods: ["comparative analysis"]
 slug: fxa301-week01-value-sets-for-eq-5d-5l
 related: ["health-economics"]
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-08-02
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-week01-value-sets-for-eq-5d-5l.md_

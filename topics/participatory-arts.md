@@ -4,13 +4,16 @@ domain: intervention
 slug: participatory-arts-in-health-and-community
 sources:
   - fxa100-week10-lesson-fxa100-week10-page-2-play-and-its-applications-in
+  - fxa100-week10-not-lovely-enacting-solidarity-in-dementia-care-through
+  - fxa100-week10-the-challenges-of-developing-a-participatory-arts
+  - fxa100-week10-the-participative-arts-for-people-living-with-dementia-a
   - fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2)
   - fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6
 tags:
 - participatory-arts
 title: Participatory Arts in Health and Community
 type: topic
-updated: 2026-05-11
+updated: 2026-08-07
 ---
 
 ## Participatory Arts in Health and Community
@@ -30,5 +33,8 @@ The integration of arts within healthcare and community environments reflects a 
 ## Sources
 
 - [fxa100-week10-lesson-fxa100-week10-page-2-play-and-its-applications-in](../sources/fxa100-week10-lesson-fxa100-week10-page-2-play-and-its-applications-in.md)
+- [fxa100-week10-not-lovely-enacting-solidarity-in-dementia-care-through](../sources/fxa100-week10-not-lovely-enacting-solidarity-in-dementia-care-through.md)
+- [fxa100-week10-the-challenges-of-developing-a-participatory-arts](../sources/fxa100-week10-the-challenges-of-developing-a-participatory-arts.md)
+- [fxa100-week10-the-participative-arts-for-people-living-with-dementia-a](../sources/fxa100-week10-the-participative-arts-for-people-living-with-dementia-a.md)
 - [fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2)](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-%282%29.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6](../sources/fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6.md)

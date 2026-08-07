@@ -8,12 +8,13 @@ sources:
   - fxa100-week01-transcript-alzheimers-society
   - fxa100-week01-what-is-alzheimers-disease-video-transcript
   - fxa100-week01-what-is-frontotemporal-dementia
+  - fxa100-week06-art-creativity-(2)
   - fxa101-week03-insights-into-the-organisation-of-semantic-memory-and
 tags:
 - neurodegeneration
 title: Neurodegeneration
 type: topic
-updated: 2026-07-20
+updated: 2026-08-07
 ---
 
 ## Neurodegeneration
@@ -37,4 +38,5 @@ The sources collectively underscore the multifaceted nature of neurodegenerative
 - [fxa100-week01-transcript-alzheimers-society](../sources/fxa100-week01-transcript-alzheimers-society.md)
 - [fxa100-week01-what-is-alzheimers-disease-video-transcript](../sources/fxa100-week01-what-is-alzheimers-disease-video-transcript.md)
 - [fxa100-week01-what-is-frontotemporal-dementia](../sources/fxa100-week01-what-is-frontotemporal-dementia.md)
+- [fxa100-week06-art-creativity-(2)](../sources/fxa100-week06-art-creativity-%282%29.md)
 - [fxa101-week03-insights-into-the-organisation-of-semantic-memory-and](../sources/fxa101-week03-insights-into-the-organisation-of-semantic-memory-and.md)

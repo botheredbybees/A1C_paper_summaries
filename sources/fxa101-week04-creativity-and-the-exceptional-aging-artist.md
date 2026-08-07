@@ -2,8 +2,8 @@
 type: source
 source_type: paper
 title: "Creativity and the Exceptional Aging Artist"
-apa7: "Freundlich, A. L., & Shively, J. A. (2006). Creativity and the exceptional aging artist. Clinical Interventions in Aging, 1(2), 197-200. https://doi.org/10.2147/cia.s3348"
-doi: https://doi.org/10.2147/cia.s3348
+apa7: "Freundlich, A., & Shively, J. (2006). Creativity and the exceptional aging artist. *Clinical Interventions in Aging*. https://doi.org/10.2147/CIIA.2006.1.2.197"
+doi: https://doi.org/10.2147/CIIA.2006.1.2.197
 appearances:
   - unit: FXA101
     week: "04"

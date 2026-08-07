@@ -11,7 +11,7 @@ tags: ["creativity", "neuroscience-of-creativity", "learning-and-development", "
 key_concepts: ["big-C Creativity", "small-c creativity", "divergent thinking"]
 methods: []
 slug: fxa101-week02-lesson-fxa101-week02-week-2
-related: ["big-c-creativity", "creativity", "neuroscience-of-creativity"]
+related: ["big-c-creativity", "creativity", "neuroscience-of-creativity", "small-c-creativity"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -44,3 +44,4 @@ In this lesson from LAW122 Legal Systems for Week 2, the concept of creativity a
 - [big-c-creativity](../topics/big-c-creativity.md)
 - [creativity](../topics/creativity.md)
 - [neuroscience-of-creativity](../topics/neuroscience-of-creativity.md)
+- [small-c-creativity](../topics/small-c-creativity.md)

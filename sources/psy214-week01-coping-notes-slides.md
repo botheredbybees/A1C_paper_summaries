@@ -11,7 +11,7 @@ tags: ["coping-mechanisms", "stress-management", "self-care-strategies", "mindfu
 key_concepts: ["approach-versus-avoidance-coping", "problem-focused-coping", "emotion-focused-coping", "contextual-effectiveness-of-coping"]
 methods: ["literature-overview"]
 slug: psy214-week01-coping-notes-slides
-related: ["creative-arts-health", "mindfulness-practice", "self-care-strategies", "stress-management"]
+related: ["coping-mechanisms", "creative-arts-health", "emotion-focused-coping", "mindfulness-practice", "problem-focused-coping", "self-care-strategies", "stress-management"]
 created: 2026-07-06
 updated: 2026-07-06
 ---
@@ -45,7 +45,10 @@ The document provides an overview of coping mechanisms in the context of stress,
 
 ## See Also
 
+- [coping-mechanisms](../topics/coping-mechanisms.md)
 - [creative-arts-health](../topics/creative-arts-health.md)
+- [emotion-focused-coping](../topics/emotion-focused-coping.md)
 - [mindfulness-practice](../topics/mindfulness-practice.md)
+- [problem-focused-coping](../topics/problem-focused-coping.md)
 - [self-care-strategies](../topics/self-care-strategies.md)
 - [stress-management](../topics/stress-management.md)

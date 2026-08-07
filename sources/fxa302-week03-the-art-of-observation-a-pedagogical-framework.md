@@ -11,7 +11,7 @@ tags: ["medical-education", "observation-skills", "humanistic-medicine", "litera
 key_concepts: ["observational skills", "medical humanities pedagogies", "empathy in healthcare"]
 methods: ["case study"]
 slug: fxa302-week03-the-art-of-observation-a-pedagogical-framework
-related: ["empathy-in-healthcare", "humanistic-medicine", "medical-education", "observation-skills", "observational-skills", "visual-arts"]
+related: ["empathy-in-healthcare", "humanistic-medicine", "medical-education", "observation-skills", "visual-arts"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -48,5 +48,4 @@ Caroline Wellbery and Rebecca A. McAteer's paper, 'The Art of Observation: A Ped
 - [humanistic-medicine](../topics/humanistic-medicine.md)
 - [medical-education](../topics/medical-education.md)
 - [observation-skills](../topics/observation-skills.md)
-- [observational-skills](../topics/observational-skills.md)
 - [visual-arts](../topics/visual-arts.md)

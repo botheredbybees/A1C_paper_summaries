@@ -11,7 +11,7 @@ tags: ["play-therapy", "child-development", "mental-health-interventions", "emot
 key_concepts: ["play therapy", "Mildred Parten's stages of play development", "emotional intelligence", "symbolic communication"]
 methods: ["literature review"]
 slug: fxa303-week01-play-therapy-an-analytical-mode-of-therapy-in-children
-related: ["child-development", "emotional-regulation", "mental-health-interventions", "play-therapy"]
+related: ["child-development", "emotional-regulation", "mental-health-interventions", "play-therapy-in-child-development"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -24,7 +24,7 @@ The article explores the role of play therapy in child development and mental we
 
 ## Key Concepts
 
-- [play therapy](../topics/play-therapy.md)
+- [play therapy](../topics/play-therapy-in-child-development.md)
 - [Mildred Parten's stages of play development](../topics/mildred-partens-stages-of-play-development.md)
 - [emotional intelligence](../topics/emotional-intelligence.md)
 - [symbolic communication](../topics/symbolic-communication.md)
@@ -47,4 +47,4 @@ The article explores the role of play therapy in child development and mental we
 - [child-development](../topics/child-development.md)
 - [emotional-regulation](../topics/emotional-regulation.md)
 - [mental-health-interventions](../topics/mental-health-interventions.md)
-- [play-therapy](../topics/play-therapy.md)
+- [play-therapy-in-child-development](../topics/play-therapy-in-child-development.md)
