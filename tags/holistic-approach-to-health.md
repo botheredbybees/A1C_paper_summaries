@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: holistic-approach-to-health
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Holistic Approach To Health

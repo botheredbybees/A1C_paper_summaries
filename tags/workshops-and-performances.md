@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: workshops-and-performances
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Workshops And Performances

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: historical-pandemics
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Historical Pandemics

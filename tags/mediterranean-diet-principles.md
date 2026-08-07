@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mediterranean-diet-principles
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Mediterranean Diet Principles

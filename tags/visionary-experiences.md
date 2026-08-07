@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visionary-experiences
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Visionary Experiences

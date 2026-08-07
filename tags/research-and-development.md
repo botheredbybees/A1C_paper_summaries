@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: research-and-development
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Research And Development

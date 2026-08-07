@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: self-care-behaviors
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Self Care Behaviors

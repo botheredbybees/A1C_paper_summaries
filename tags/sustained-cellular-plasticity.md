@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sustained-cellular-plasticity
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Sustained Cellular Plasticity

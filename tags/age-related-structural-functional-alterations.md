@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: age-related-structural-functional-alterations
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Age Related Structural Functional Alterations

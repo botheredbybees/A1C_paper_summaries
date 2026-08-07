@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: eligibility-criteria
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Eligibility Criteria

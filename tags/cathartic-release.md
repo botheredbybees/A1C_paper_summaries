@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cathartic-release
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Cathartic Release

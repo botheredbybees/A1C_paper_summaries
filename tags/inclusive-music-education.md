@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: inclusive-music-education
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Inclusive Music Education

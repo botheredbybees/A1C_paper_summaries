@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: grey-matter-volume-decline
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Grey Matter Volume Decline

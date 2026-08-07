@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: strength-of-recommendations
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Strength Of Recommendations

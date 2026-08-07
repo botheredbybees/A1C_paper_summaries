@@ -13,7 +13,7 @@ tags: ["psychoacoustics", "music-psychology", "perception-theory", "musical-cogn
 key_concepts: ["critical-band", "seashore-model-of-musical-perception", "place-theory-of-pitch"]
 methods: ["literature-review"]
 slug: fxa300-week02-psychoacoustics-and-the-perception-of-music
-related: ["memory-impact-of-music", "music-psychology"]
+related: ["memory-impact-of-music", "music-psychology", "psychoacoustics"]
 created: 2026-07-13
 updated: 2026-07-28
 ---
@@ -48,3 +48,4 @@ Chapter 7 of 'Music in the Human Experience' by Hodges and McPherson explores ps
 
 - [memory-impact-of-music](../topics/memory-impact-of-music.md)
 - [music-psychology](../topics/music-psychology.md)
+- [psychoacoustics](../topics/psychoacoustics.md)

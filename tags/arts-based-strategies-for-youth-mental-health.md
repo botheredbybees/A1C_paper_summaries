@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-based-strategies-for-youth-mental-health
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Arts Based Strategies For Youth Mental Health

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: self-determined-motivation-in-music-listening
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Self Determined Motivation In Music Listening

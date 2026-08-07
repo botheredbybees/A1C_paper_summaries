@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: photo-sharing-platforms
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Photo Sharing Platforms

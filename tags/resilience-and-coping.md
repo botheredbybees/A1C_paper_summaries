@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: resilience-and-coping
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Resilience And Coping

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychological-phenomena
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Psychological Phenomena

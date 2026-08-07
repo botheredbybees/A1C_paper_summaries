@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ancient-egyptian-medicine
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Ancient Egyptian Medicine

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-therapy-history
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Music Therapy History

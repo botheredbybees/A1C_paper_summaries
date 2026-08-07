@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-growth
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Cognitive Growth

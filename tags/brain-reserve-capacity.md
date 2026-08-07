@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-reserve-capacity
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Brain Reserve Capacity

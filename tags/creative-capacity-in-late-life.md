@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-capacity-in-late-life
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Creative Capacity In Late Life

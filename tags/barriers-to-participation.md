@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: barriers-to-participation
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Barriers To Participation

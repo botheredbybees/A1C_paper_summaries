@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: diversity-in-education
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Diversity In Education

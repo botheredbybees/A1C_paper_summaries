@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: doctor-patient-communication
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Doctor Patient Communication

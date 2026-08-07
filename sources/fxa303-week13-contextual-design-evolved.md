@@ -11,7 +11,7 @@ tags: ["contextual-design", "contextual-inquiry", "fxa303", "human-computer-inte
 key_concepts: ["Contextual Design", "Contextual Inquiry"]
 methods: ["systematic review", "case study"]
 slug: fxa303-week13-contextual-design-evolved
-related: []
+related: ["human-computer-interaction"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -42,4 +42,4 @@ The book 'Contextual Design Evolved' by Karen Holtzblatt and Hugh Beyer presents
 
 ## See Also
 
-*(none yet)*
+- [human-computer-interaction](../topics/human-computer-interaction.md)

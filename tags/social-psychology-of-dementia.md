@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-psychology-of-dementia
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Social Psychology Of Dementia

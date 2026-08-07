@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: short-term-statistical-properties
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Short Term Statistical Properties

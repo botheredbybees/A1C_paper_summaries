@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: object-based-learning
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Object Based Learning

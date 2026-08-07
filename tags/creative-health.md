@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-health
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Creative Health

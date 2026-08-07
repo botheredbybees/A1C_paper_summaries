@@ -9,6 +9,7 @@ sources:
   - fxa100-week04-music-and-rehabilitation-neurological-approaches
   - fxa100-week04-music-as-therapy-and-health-promotion
   - fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the
+  - fxa101-week00-the-future-of-sensory-substitution-addition-and-expansion
   - fxa101-week02-acquiring-tastes-and-loves-what-neuroplasticity-teaches-us
   - fxa101-week02-redesigning-the-brain-a-scientist-changes-brains-to-sharpen
   - fxa101-week03-a-preliminary-study-of-the-effects-of-an-arts-education
@@ -27,7 +28,7 @@ sources:
   - fxa303-week03-the-teen-brain
   - fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental
   - fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Brain Plasticity
@@ -50,6 +51,7 @@ Research into brain plasticity reveals its profound influence on various cogniti
 - [fxa100-week04-music-and-rehabilitation-neurological-approaches](../sources/fxa100-week04-music-and-rehabilitation-neurological-approaches.md)
 - [fxa100-week04-music-as-therapy-and-health-promotion](../sources/fxa100-week04-music-as-therapy-and-health-promotion.md)
 - [fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the](../sources/fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the.md)
+- [fxa101-week00-the-future-of-sensory-substitution-addition-and-expansion](../sources/fxa101-week00-the-future-of-sensory-substitution-addition-and-expansion.md)
 - [fxa101-week02-acquiring-tastes-and-loves-what-neuroplasticity-teaches-us](../sources/fxa101-week02-acquiring-tastes-and-loves-what-neuroplasticity-teaches-us.md)
 - [fxa101-week02-redesigning-the-brain-a-scientist-changes-brains-to-sharpen](../sources/fxa101-week02-redesigning-the-brain-a-scientist-changes-brains-to-sharpen.md)
 - [fxa101-week03-a-preliminary-study-of-the-effects-of-an-arts-education](../sources/fxa101-week03-a-preliminary-study-of-the-effects-of-an-arts-education.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ancient-treatments-anxiety
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Ancient Treatments Anxiety

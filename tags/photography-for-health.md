@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: photography-for-health
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Photography For Health

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: transcending-power-dynamics
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Transcending Power Dynamics

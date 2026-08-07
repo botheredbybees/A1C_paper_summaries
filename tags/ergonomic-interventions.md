@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ergonomic-interventions
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Ergonomic Interventions

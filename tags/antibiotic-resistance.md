@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: antibiotic-resistance
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Antibiotic Resistance

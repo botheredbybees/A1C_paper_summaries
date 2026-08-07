@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: societal-perceptions-of-ageing
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Societal Perceptions Of Ageing

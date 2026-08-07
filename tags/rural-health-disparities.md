@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: rural-health-disparities
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Rural Health Disparities

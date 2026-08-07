@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: imagination-in-antiquity
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Imagination In Antiquity

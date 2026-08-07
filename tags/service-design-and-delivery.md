@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: service-design-and-delivery
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Service Design And Delivery

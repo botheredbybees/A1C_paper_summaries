@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: internal-consistency-reliability
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Internal Consistency Reliability

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: historical-development
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Historical Development

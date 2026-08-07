@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: presentation-design
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Presentation Design

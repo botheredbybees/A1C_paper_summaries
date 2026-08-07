@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: goal-setting
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Goal Setting

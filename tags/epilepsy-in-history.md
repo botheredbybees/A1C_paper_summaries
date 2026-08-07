@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: epilepsy-in-history
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Epilepsy In History

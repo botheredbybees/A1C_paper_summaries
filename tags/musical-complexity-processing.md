@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: musical-complexity-processing
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Musical Complexity Processing

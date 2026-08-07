@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: musical-environmental-factors
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Musical Environmental Factors

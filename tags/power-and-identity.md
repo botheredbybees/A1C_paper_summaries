@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: power-and-identity
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Power And Identity

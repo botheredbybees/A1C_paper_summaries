@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: resident-mood-assessment
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Resident Mood Assessment

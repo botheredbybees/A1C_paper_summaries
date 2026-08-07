@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: alternative-performance-methods
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Alternative Performance Methods

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sleep-disruption-effects
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Sleep Disruption Effects

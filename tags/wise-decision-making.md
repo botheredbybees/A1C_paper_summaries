@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: wise-decision-making
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Wise Decision Making

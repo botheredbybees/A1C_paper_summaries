@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: public-health-outcomes
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Public Health Outcomes

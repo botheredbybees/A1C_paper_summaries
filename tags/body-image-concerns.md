@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: body-image-concerns
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Body Image Concerns

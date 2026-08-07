@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: activities-of-daily-living-adl-impairments
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Activities Of Daily Living Adl Impairments

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: court-jesters-history
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Court Jesters History

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: age-gender-preferences
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Age Gender Preferences

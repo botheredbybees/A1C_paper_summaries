@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-training-applications
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Brain Training Applications

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: vivencia
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Vivencia

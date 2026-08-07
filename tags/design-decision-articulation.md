@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: design-decision-articulation
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Design Decision Articulation

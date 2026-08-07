@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: continual-professional-development
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Continual Professional Development

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: reflective-practice-industrial-design
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Reflective Practice Industrial Design

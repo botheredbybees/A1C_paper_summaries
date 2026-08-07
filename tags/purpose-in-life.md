@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: purpose-in-life
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Purpose In Life

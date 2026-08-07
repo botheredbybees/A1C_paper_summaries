@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-expression-in-therapy
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Visual Expression In Therapy

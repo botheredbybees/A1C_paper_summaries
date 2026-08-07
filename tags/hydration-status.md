@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hydration-status
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Hydration Status

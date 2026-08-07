@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: theatre-in-community
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Theatre In Community

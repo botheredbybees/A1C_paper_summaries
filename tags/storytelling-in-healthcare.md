@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: storytelling-in-healthcare
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Storytelling In Healthcare

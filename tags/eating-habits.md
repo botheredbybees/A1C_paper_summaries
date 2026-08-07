@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: eating-habits
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Eating Habits

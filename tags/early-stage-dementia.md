@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: early-stage-dementia
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Early Stage Dementia

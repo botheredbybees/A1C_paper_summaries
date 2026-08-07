@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-potential-of-arts
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Therapeutic Potential Of Arts

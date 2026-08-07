@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: personality-influence
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Personality Influence

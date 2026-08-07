@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: inferior-parietal-lobule
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Inferior Parietal Lobule

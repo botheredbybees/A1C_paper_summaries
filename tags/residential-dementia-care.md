@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: residential-dementia-care
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Residential Dementia Care

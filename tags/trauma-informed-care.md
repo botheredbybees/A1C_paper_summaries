@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: trauma-informed-care
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Trauma Informed Care

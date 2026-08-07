@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotional-impact-on-cognition
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Emotional Impact On Cognition

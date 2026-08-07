@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: functional-independence
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Functional Independence

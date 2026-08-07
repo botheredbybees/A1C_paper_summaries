@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: memory-aids
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Memory Aids

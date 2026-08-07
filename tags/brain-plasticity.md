@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-plasticity
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Brain Plasticity
@@ -10,6 +10,7 @@ updated: 2026-08-07
 - [Music and Rehabilitation: Neurological Approaches](../sources/fxa100-week04-music-and-rehabilitation-neurological-approaches.md)
 - [Music as Therapy and Health Promotion](../sources/fxa100-week04-music-as-therapy-and-health-promotion.md)
 - [When Words Fade, the Canvas Speaks: Revelations from the Science of Art and the Brain](../sources/fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the.md)
+- [The future of sensory substitution, addition, and expansion via haptic devices](../sources/fxa101-week00-the-future-of-sensory-substitution-addition-and-expansion.md)
 - [Acquiring Tastes and Loves: What Neuroplasticity Teaches Us About Sexual Attraction and Love](../sources/fxa101-week02-acquiring-tastes-and-loves-what-neuroplasticity-teaches-us.md)
 - [Redesigning the Brain: A Scientist Changes Brains to Sharpen Perception](../sources/fxa101-week02-redesigning-the-brain-a-scientist-changes-brains-to-sharpen.md)
 - [A Preliminary Study of the Effects of an Arts Education Program on Executive Function, Behavior, and Brain Structure in a Sample of Nonclinical School-Aged Children](../sources/fxa101-week03-a-preliminary-study-of-the-effects-of-an-arts-education.md)

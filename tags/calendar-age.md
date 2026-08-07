@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: calendar-age
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Calendar Age

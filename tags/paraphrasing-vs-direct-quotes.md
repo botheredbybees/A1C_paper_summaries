@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: paraphrasing-vs-direct-quotes
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Paraphrasing Vs Direct Quotes

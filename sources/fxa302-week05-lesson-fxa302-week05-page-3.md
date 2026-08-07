@@ -11,7 +11,7 @@ tags: ["hearing-loss", "musical-performance", "inclusive-music-education", "fxa3
 key_concepts: ["auditory pathways", "sensory substitution", "music education inclusivity"]
 methods: []
 slug: fxa302-week05-lesson-fxa302-week05-page-3
-related: ["hearing-loss", "inclusive-music-education", "musical-performance"]
+related: ["hearing-loss", "inclusive-music-education", "musical-performance", "sensory-substitution"]
 created: 2026-08-03
 updated: 2026-08-03
 ---
@@ -45,3 +45,4 @@ This lesson explores how profound hearing loss impacts musical performance and e
 - [hearing-loss](../topics/hearing-loss.md)
 - [inclusive-music-education](../topics/inclusive-music-education.md)
 - [musical-performance](../topics/musical-performance.md)
+- [sensory-substitution](../topics/sensory-substitution.md)

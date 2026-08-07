@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-practices-of-creativity
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Social Practices Of Creativity

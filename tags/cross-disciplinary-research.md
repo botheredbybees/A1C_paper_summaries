@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cross-disciplinary-research
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Cross Disciplinary Research

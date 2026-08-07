@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: aerobic-exercise
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Aerobic Exercise

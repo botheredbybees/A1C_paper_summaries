@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: environmental-support-for-intrinsic-motivation
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Environmental Support For Intrinsic Motivation

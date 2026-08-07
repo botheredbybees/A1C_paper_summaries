@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hearing-loss-music
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Hearing Loss Music

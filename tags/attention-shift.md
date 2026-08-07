@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: attention-shift
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Attention Shift

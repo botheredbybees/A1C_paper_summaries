@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: community-partnerships-in-arts-projects
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Community Partnerships In Arts Projects

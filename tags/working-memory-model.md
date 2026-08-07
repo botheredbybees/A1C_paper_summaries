@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: working-memory-model
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Working Memory Model

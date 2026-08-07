@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: survival-rate
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Survival Rate

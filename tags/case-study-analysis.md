@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: case-study-analysis
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Case Study Analysis

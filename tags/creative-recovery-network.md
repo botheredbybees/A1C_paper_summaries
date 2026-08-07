@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-recovery-network
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Creative Recovery Network

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: photography-as-tool
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Photography As Tool

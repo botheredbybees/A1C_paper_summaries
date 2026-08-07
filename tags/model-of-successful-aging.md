@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: model-of-successful-aging
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Model Of Successful Aging

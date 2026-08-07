@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sex-differences
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Sex Differences

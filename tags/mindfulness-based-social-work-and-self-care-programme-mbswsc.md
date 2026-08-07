@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mindfulness-based-social-work-and-self-care-programme-mbswsc
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Mindfulness Based Social Work And Self Care Programme Mbswsc

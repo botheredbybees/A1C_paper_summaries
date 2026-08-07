@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: probe-tone-method
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Probe Tone Method

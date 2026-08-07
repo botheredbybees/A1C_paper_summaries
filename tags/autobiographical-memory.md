@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: autobiographical-memory
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Autobiographical Memory

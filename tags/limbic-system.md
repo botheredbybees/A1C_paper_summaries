@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: limbic-system
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Limbic System

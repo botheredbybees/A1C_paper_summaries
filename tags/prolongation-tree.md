@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: prolongation-tree
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Prolongation Tree

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: food-memories
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Food Memories

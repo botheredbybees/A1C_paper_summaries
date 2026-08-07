@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: auditory-motor-connectivity
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Auditory Motor Connectivity

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: personal-storytelling-through-art
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Personal Storytelling Through Art

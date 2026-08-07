@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: quality-improvement-project
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Quality Improvement Project

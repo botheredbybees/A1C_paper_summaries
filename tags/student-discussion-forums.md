@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: student-discussion-forums
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Student Discussion Forums

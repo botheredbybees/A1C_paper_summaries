@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-in-therapy
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Arts In Therapy

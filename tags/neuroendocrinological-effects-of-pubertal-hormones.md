@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuroendocrinological-effects-of-pubertal-hormones
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Neuroendocrinological Effects Of Pubertal Hormones

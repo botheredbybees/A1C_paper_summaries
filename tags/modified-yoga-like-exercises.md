@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: modified-yoga-like-exercises
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Modified Yoga Like Exercises

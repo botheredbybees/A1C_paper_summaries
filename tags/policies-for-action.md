@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: policies-for-action
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Policies For Action

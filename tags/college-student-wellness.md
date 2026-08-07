@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: college-student-wellness
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## College Student Wellness

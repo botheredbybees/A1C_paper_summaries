@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-impact-assessment
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Social Impact Assessment

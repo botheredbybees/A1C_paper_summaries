@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: wisdom-poetry
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Wisdom Poetry

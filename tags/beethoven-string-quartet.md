@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: beethoven-string-quartet
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Beethoven String Quartet

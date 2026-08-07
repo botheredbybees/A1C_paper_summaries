@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-perception-music
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Brain Perception Music

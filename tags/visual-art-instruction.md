@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-art-instruction
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Visual Art Instruction

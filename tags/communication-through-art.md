@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: communication-through-art
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Communication Through Art

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: holistic-care-models
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Holistic Care Models

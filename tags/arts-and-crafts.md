@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-and-crafts
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Arts And Crafts

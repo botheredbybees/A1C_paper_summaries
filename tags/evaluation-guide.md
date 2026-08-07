@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: evaluation-guide
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Evaluation Guide

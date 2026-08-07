@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: 10000-hour-rule
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## 10000 Hour Rule

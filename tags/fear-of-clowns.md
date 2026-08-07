@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: fear-of-clowns
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Fear Of Clowns

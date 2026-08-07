@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: collaborative-education-initiatives
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Collaborative Education Initiatives

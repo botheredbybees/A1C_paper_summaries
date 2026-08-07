@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: methodological-diversity-in-visual-anthropology
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Methodological Diversity In Visual Anthropology

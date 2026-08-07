@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: human-behavior-over-time
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Human Behavior Over Time

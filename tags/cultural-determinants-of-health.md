@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cultural-determinants-of-health
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Cultural Determinants Of Health

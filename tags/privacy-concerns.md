@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: privacy-concerns
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Privacy Concerns

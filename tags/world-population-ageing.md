@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: world-population-ageing
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## World Population Ageing

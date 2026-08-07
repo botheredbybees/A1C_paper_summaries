@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: late-life-cognitive-activity
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Late Life Cognitive Activity

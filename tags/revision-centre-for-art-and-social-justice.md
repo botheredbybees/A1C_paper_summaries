@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: revision-centre-for-art-and-social-justice
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Revision Centre For Art And Social Justice
