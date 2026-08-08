@@ -11,7 +11,7 @@ tags: ["human-nature-interaction", "sense-of-belonging", "environmental-art", "p
 key_concepts: ["belonging", "synthetic environments", "natural world connection"]
 methods: ["reflective inquiry"]
 slug: fxa202-week03-grace-rosevears-reflections-on-nature-and-belonging
-related: ["sense-of-belonging"]
+related: ["environmental-art", "sense-of-belonging"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -44,4 +44,5 @@ Grace Rosevear explores the concept of belonging within the natural world throug
 
 ## See Also
 
+- [environmental-art](../topics/environmental-art.md)
 - [sense-of-belonging](../topics/sense-of-belonging.md)

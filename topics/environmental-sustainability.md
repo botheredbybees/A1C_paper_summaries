@@ -3,12 +3,14 @@ confidence: low
 domain: intervention
 slug: environmental-sustainability-in-cultural-institutions
 sources:
-- fxa301-week05-happy-museum-project-principles
+  - fxa100-week12-exploring-nature-based-art-therapy-a-scoping-review
+  - fxa101-week00-from-waste-to-want-regenerating-art-from-discarded-objects
+  - fxa301-week05-happy-museum-project-principles
 tags:
 - environmental-sustainability
 title: Environmental Sustainability in Cultural Institutions
 type: topic
-updated: 2026-05-04
+updated: 2026-08-08
 ---
 
 ## Environmental Sustainability in Cultural Institutions
@@ -27,4 +29,6 @@ The Happy Museum Project Principles emphasize the integration of environmental s
 
 ## Sources
 
+- [fxa100-week12-exploring-nature-based-art-therapy-a-scoping-review](../sources/fxa100-week12-exploring-nature-based-art-therapy-a-scoping-review.md)
+- [fxa101-week00-from-waste-to-want-regenerating-art-from-discarded-objects](../sources/fxa101-week00-from-waste-to-want-regenerating-art-from-discarded-objects.md)
 - [fxa301-week05-happy-museum-project-principles](../sources/fxa301-week05-happy-museum-project-principles.md)

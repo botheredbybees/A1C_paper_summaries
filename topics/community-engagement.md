@@ -14,6 +14,7 @@ sources:
   - fxa100-week08-lesson-fxa100-week07-page-3-stimulating-engagement
   - fxa100-week10-building-creative-communities-of-care-arts-dementia-and
   - fxa100-week11-dancer-not-dementia-canadas-national-ballet-school
+  - fxa101-week00-heritage-through-collage-a-participatory-and-creative
   - fxa101-week04-case-study-engaging-older-people-in-creative-thinkingthe
   - fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using
   - fxa202-week13-using-photovoice-as-a-tool-to-engage-social-work-students
@@ -91,7 +92,7 @@ tags:
 - community-engagement
 title: Community Engagement
 type: topic
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Community Engagement
@@ -121,6 +122,7 @@ Community engagement is a multifaceted intervention aimed at fostering participa
 - [fxa100-week08-lesson-fxa100-week07-page-3-stimulating-engagement](../sources/fxa100-week08-lesson-fxa100-week07-page-3-stimulating-engagement.md)
 - [fxa100-week10-building-creative-communities-of-care-arts-dementia-and](../sources/fxa100-week10-building-creative-communities-of-care-arts-dementia-and.md)
 - [fxa100-week11-dancer-not-dementia-canadas-national-ballet-school](../sources/fxa100-week11-dancer-not-dementia-canadas-national-ballet-school.md)
+- [fxa101-week00-heritage-through-collage-a-participatory-and-creative](../sources/fxa101-week00-heritage-through-collage-a-participatory-and-creative.md)
 - [fxa101-week04-case-study-engaging-older-people-in-creative-thinkingthe](../sources/fxa101-week04-case-study-engaging-older-people-in-creative-thinkingthe.md)
 - [fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using](../sources/fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using.md)
 - [fxa202-week13-using-photovoice-as-a-tool-to-engage-social-work-students](../sources/fxa202-week13-using-photovoice-as-a-tool-to-engage-social-work-students.md)

@@ -11,7 +11,7 @@ tags: ["communication-issues", "fxa303", "healthcare-workers", "mental-health-co
 key_concepts: ["occupational-hazards", "communication-issues", "mental-health-conditions"]
 methods: ["systematic review"]
 slug: fxa303-week13-organisational-interventions-for-preventing-and-minimising
-related: ["systematic-review"]
+related: ["healthcare-workers", "systematic-review"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -41,4 +41,5 @@ This Cochrane Review protocol assesses the effectiveness of organizational inter
 
 ## See Also
 
+- [healthcare-workers](../topics/healthcare-workers.md)
 - [systematic-review](../topics/systematic-review.md)

@@ -11,7 +11,7 @@ tags: ["neurogenetics", "sensory-perception", "brain-structure-function", "evolu
 key_concepts: ["polygenic inheritance", "neural-connectivity-theory", "over-expression-of-genes"]
 methods: ["case-study", "anatomical-differences"]
 slug: fxa101-week02-survival-of-the-synesthesia-gene-why-do-people-hear-colors
-related: ["evolutionary-psychology", "sensory-perception"]
+related: ["evolutionary-psychology", "sensory-perception", "synesthesia-genetics"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -51,3 +51,4 @@ Understanding the genetics of synesthesia could provide insights into why this c
 
 - [evolutionary-psychology](../topics/evolutionary-psychology.md)
 - [sensory-perception](../topics/sensory-perception.md)
+- [synesthesia-genetics](../topics/synesthesia-genetics.md)

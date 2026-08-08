@@ -7,6 +7,7 @@ updated: 2026-08-08
 ## Public Health
 
 - [Prevalence and Projections of Dementia](../sources/fxa100-excellence-in-dementia-care--ch24-chapter-1.md)
+- [Group Nature-Based Mindfulness Interventions: Nature-Based Mindfulness Training for College Students with Anxiety](../sources/fxa101-week00-group-nature-based-mindfulness-interventions-nature-based.md)
 - [Activities for Week 2 - FXA101 Creativity and Ageing](../sources/fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities.md)
 - [Brain training using cognitive apps can improve cognitive performance and processing speed in older adults](../sources/fxa101-week04-brain-training-using-cognitive-apps-can-improve-cognitive.md)
 - [Creativity throughout life](../sources/fxa101-week04-lesson-fxa101-week04-chapter-3-creativity-throughout-life.md)

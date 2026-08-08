@@ -3,6 +3,7 @@ confidence: high
 domain: intervention
 slug: public-art-and-community-well-being
 sources:
+  - fxa101-week00-walking-within-place-the-walking-turn-in-socially-engaged
   - fxa301-oxford-textbook-of-creative-arts-ch05-1992-conference-report
   - fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6
   - fxa301-week05-cork-as-canvas-exploring-intersections-of-citizenship-and
@@ -13,7 +14,7 @@ tags:
 - public-art
 title: Public Art and Community Well-Being
 type: topic
-updated: 2026-05-15
+updated: 2026-08-08
 ---
 
 ## Public Art and Community Well-Being
@@ -32,6 +33,7 @@ The integration of public art into community spaces emerges as a multifaceted in
 
 ## Sources
 
+- [fxa101-week00-walking-within-place-the-walking-turn-in-socially-engaged](../sources/fxa101-week00-walking-within-place-the-walking-turn-in-socially-engaged.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch05-1992-conference-report](../sources/fxa301-oxford-textbook-of-creative-arts-ch05-1992-conference-report.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6](../sources/fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6.md)
 - [fxa301-week05-cork-as-canvas-exploring-intersections-of-citizenship-and](../sources/fxa301-week05-cork-as-canvas-exploring-intersections-of-citizenship-and.md)

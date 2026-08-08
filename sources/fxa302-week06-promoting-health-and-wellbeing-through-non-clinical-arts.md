@@ -11,7 +11,7 @@ tags: ["veterans-health", "arts-therapy", "wellbeing-programs", "fxa302", "non-c
 key_concepts: ["non-clinical-arts-programming", "holistic-health-care"]
 methods: ["qualitative-interviews"]
 slug: fxa302-week06-promoting-health-and-wellbeing-through-non-clinical-arts
-related: ["arts-therapy"]
+related: ["arts-therapy", "veterans-health"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -42,3 +42,4 @@ This study investigates the impact of non-clinical arts programs on Veterans' he
 ## See Also
 
 - [arts-therapy](../topics/arts-therapy.md)
+- [veterans-health](../topics/veterans-health.md)

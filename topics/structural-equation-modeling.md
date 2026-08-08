@@ -6,8 +6,9 @@ confidence: medium
 tags: ["structural-equation-modeling"]
 sources:
   - fxa100-week13-cutoff-criteria-for-fit-indexes-in-covariance-structure
+  - fxa101-week00-associations-between-personality-and-humor-structure
   - fxa101-week05-bricolage-as-capability-for-frugal-innovation-in-emerging
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Structural Equation Modeling
@@ -26,4 +27,5 @@ Source one discusses the application of fit indexes in structural equation model
 ## Sources
 
 - [fxa100-week13-cutoff-criteria-for-fit-indexes-in-covariance-structure](../sources/fxa100-week13-cutoff-criteria-for-fit-indexes-in-covariance-structure.md)
+- [fxa101-week00-associations-between-personality-and-humor-structure](../sources/fxa101-week00-associations-between-personality-and-humor-structure.md)
 - [fxa101-week05-bricolage-as-capability-for-frugal-innovation-in-emerging](../sources/fxa101-week05-bricolage-as-capability-for-frugal-innovation-in-emerging.md)

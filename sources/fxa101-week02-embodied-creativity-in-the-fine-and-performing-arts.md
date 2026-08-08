@@ -11,7 +11,7 @@ tags: ["embodied-creativity", "fine-arts", "performing-arts", "4e-theory", "deco
 key_concepts: ["4E theory", "embodied cognition", "decoponality"]
 methods: ["literature review"]
 slug: fxa101-week02-embodied-creativity-in-the-fine-and-performing-arts
-related: ["fine-arts"]
+related: ["embodied-creativity", "fine-arts"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -42,4 +42,5 @@ The article explores the concept of embodied creativity within the fine and perf
 
 ## See Also
 
+- [embodied-creativity](../topics/embodied-creativity.md)
 - [fine-arts](../topics/fine-arts.md)

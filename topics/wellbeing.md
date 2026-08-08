@@ -4,6 +4,7 @@ domain: intervention
 slug: wellbeing-through-creative-arts
 sources:
   - fxa100-week03-association-of-music-interventions-with-health-related
+  - fxa101-week00-poetry-and-well-being-a-pilot-programme-to-evaluate-the
   - fxa301-week01-lesson-fxa301-week01-troubleshooting1
   - fxa301-week03-executive-summary-creative-health-review
   - fxa301-week05-web-article-butler-2019
@@ -15,7 +16,7 @@ tags:
 - wellbeing
 title: Wellbeing Through Creative Arts
 type: topic
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Wellbeing Through Creative Arts
@@ -34,6 +35,7 @@ Creative arts interventions have been studied for their impact on various aspect
 ## Sources
 
 - [fxa100-week03-association-of-music-interventions-with-health-related](../sources/fxa100-week03-association-of-music-interventions-with-health-related.md)
+- [fxa101-week00-poetry-and-well-being-a-pilot-programme-to-evaluate-the](../sources/fxa101-week00-poetry-and-well-being-a-pilot-programme-to-evaluate-the.md)
 - [fxa301-week01-lesson-fxa301-week01-troubleshooting1](../sources/fxa301-week01-lesson-fxa301-week01-troubleshooting1.md)
 - [fxa301-week03-executive-summary-creative-health-review](../sources/fxa301-week03-executive-summary-creative-health-review.md)
 - [fxa301-week05-web-article-butler-2019](../sources/fxa301-week05-web-article-butler-2019.md)

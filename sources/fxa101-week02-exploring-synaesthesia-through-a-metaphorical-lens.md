@@ -11,7 +11,7 @@ tags: ["synesthesia-research", "metaphorical-thinking", "cognitive-linguistics",
 key_concepts: ["synaesthesia", "metaphorical thinking", "creative expression"]
 methods: ["case study"]
 slug: fxa101-week02-exploring-synaesthesia-through-a-metaphorical-lens
-related: ["synesthesia-research"]
+related: ["cognitive-linguistics", "synesthesia-research"]
 created: 2026-07-13
 updated: 2026-08-02
 ---
@@ -41,4 +41,5 @@ This chapter from the book 'The Many Faces of Creativity' by Sarah Turner and Je
 
 ## See Also
 
+- [cognitive-linguistics](../topics/cognitive-linguistics.md)
 - [synesthesia-research](../topics/synesthesia-research.md)

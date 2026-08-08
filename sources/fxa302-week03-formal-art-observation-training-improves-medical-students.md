@@ -11,7 +11,7 @@ tags: ["medical-education", "visual-diagnosis", "art-integration", "fine-art-tra
 key_concepts: ["visual literacy", "interdisciplinary education", "diagnostic competencies"]
 methods: ["systematic review"]
 slug: fxa302-week03-formal-art-observation-training-improves-medical-students
-related: ["art-integration", "critical-thinking", "medical-education"]
+related: ["art-integration", "critical-thinking", "interdisciplinary-education", "medical-education"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -46,4 +46,5 @@ This study examines the impact of a course designed to enhance medical students'
 
 - [art-integration](../topics/art-integration.md)
 - [critical-thinking](../topics/critical-thinking.md)
+- [interdisciplinary-education](../topics/interdisciplinary-education.md)
 - [medical-education](../topics/medical-education.md)

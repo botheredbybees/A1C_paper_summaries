@@ -11,7 +11,7 @@ tags: ["research-through-design", "design-research", "artistic-practice", "knowl
 key_concepts: ["research through design", "designerly way of knowing", "theory-building in practice", "standard research methods"]
 methods: ["case study"]
 slug: fxa101-week05-what-kind-of-research-is-research-through-design
-related: ["artistic-practice", "creative-arts", "methodological-critique", "research-through-design"]
+related: ["artistic-practice", "creative-arts", "design-research", "methodological-critique", "research-through-design"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -53,5 +53,6 @@ Herriott's analysis is relevant to creative arts and health fields as it address
 
 - [artistic-practice](../topics/artistic-practice.md)
 - [creative-arts](../topics/creative-arts.md)
+- [design-research](../topics/design-research.md)
 - [methodological-critique](../topics/methodological-critique.md)
 - [research-through-design](../topics/research-through-design.md)

@@ -9,6 +9,7 @@ sources:
   - fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life
   - fxa100-week07-for-visitors-with-dementia
   - fxa100-week13-can-arts-based-interventions-improve-health-a-conceptual
+  - fxa101-week00-a-systematic-review-of-arts-based-interventions-delivered
   - fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay
   - fxa202-week13-it-fostered-a-greater-appreciation-for-my-little-corner-of
   - fxa301-week03-creative-health-review
@@ -17,7 +18,7 @@ sources:
   - fxa303-week02-lesson-fxa303-week02-topic-20-20activities-201-copy
   - fxa303-week09-national-taskforce-for-creative-recovery-recommendations
   - fxa303-week10-fxa303-web-lecture-week-10
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Creative Interventions in Dementia Care
@@ -40,6 +41,7 @@ The integration of arts-based interventions in dementia care has been shown to p
 - [fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life](../sources/fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life.md)
 - [fxa100-week07-for-visitors-with-dementia](../sources/fxa100-week07-for-visitors-with-dementia.md)
 - [fxa100-week13-can-arts-based-interventions-improve-health-a-conceptual](../sources/fxa100-week13-can-arts-based-interventions-improve-health-a-conceptual.md)
+- [fxa101-week00-a-systematic-review-of-arts-based-interventions-delivered](../sources/fxa101-week00-a-systematic-review-of-arts-based-interventions-delivered.md)
 - [fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay](../sources/fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay.md)
 - [fxa202-week13-it-fostered-a-greater-appreciation-for-my-little-corner-of](../sources/fxa202-week13-it-fostered-a-greater-appreciation-for-my-little-corner-of.md)
 - [fxa301-week03-creative-health-review](../sources/fxa301-week03-creative-health-review.md)

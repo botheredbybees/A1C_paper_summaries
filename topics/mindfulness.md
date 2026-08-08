@@ -3,6 +3,8 @@ confidence: medium
 domain: intervention
 slug: mindfulness-and-therapeutic-photography
 sources:
+  - fxa101-week00-a-multisensory-mindfulness-experience-exploring-the
+  - fxa101-week00-group-nature-based-mindfulness-interventions-nature-based
   - fxa202-week03-lesson-fxa202-week03-page-4
   - fxa202-week03-lesson-fxa202-week03-week-3
   - fxa202-week06-critical-reflection-on-visual-storytelling-through
@@ -11,7 +13,7 @@ tags:
 - mindfulness
 title: Mindfulness and Therapeutic Photography
 type: topic
-updated: 2026-07-13
+updated: 2026-08-08
 ---
 
 ## Mindfulness and Therapeutic Photography
@@ -30,6 +32,8 @@ The integration of mindfulness with therapeutic photography emerges as a signifi
 
 ## Sources
 
+- [fxa101-week00-a-multisensory-mindfulness-experience-exploring-the](../sources/fxa101-week00-a-multisensory-mindfulness-experience-exploring-the.md)
+- [fxa101-week00-group-nature-based-mindfulness-interventions-nature-based](../sources/fxa101-week00-group-nature-based-mindfulness-interventions-nature-based.md)
 - [fxa202-week03-lesson-fxa202-week03-page-4](../sources/fxa202-week03-lesson-fxa202-week03-page-4.md)
 - [fxa202-week03-lesson-fxa202-week03-week-3](../sources/fxa202-week03-lesson-fxa202-week03-week-3.md)
 - [fxa202-week06-critical-reflection-on-visual-storytelling-through](../sources/fxa202-week06-critical-reflection-on-visual-storytelling-through.md)

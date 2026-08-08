@@ -10,7 +10,7 @@ tags: ["assistive-technology", "music-visualization", "psychoacoustics", "human-
 key_concepts: ["sensory-substitution", "musical-harmony-mapping", "psychoacoustic-loudness-scaling"]
 methods: ["arduino-microcontroller", "fft-based-spectral-analysis", "ema-envelope-detection"]
 slug: fxa101-week00-mustem-a-dual-modality-system-for-vibrotactile-and-visual
-related: ["human-computer-interaction", "psychoacoustics", "sensory-substitution"]
+related: ["assistive-technology", "human-computer-interaction", "music-visualization", "psychoacoustics", "sensory-substitution", "vibrotactile-feedback"]
 created: 2026-08-08
 updated: 2026-08-08
 ---
@@ -45,6 +45,9 @@ MUSTEM is a novel assistive technology designed to enable deaf or hard-of-hearin
 
 ## See Also
 
+- [assistive-technology](../topics/assistive-technology.md)
 - [human-computer-interaction](../topics/human-computer-interaction.md)
+- [music-visualization](../topics/music-visualization.md)
 - [psychoacoustics](../topics/psychoacoustics.md)
 - [sensory-substitution](../topics/sensory-substitution.md)
+- [vibrotactile-feedback](../topics/vibrotactile-feedback.md)

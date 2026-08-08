@@ -11,7 +11,7 @@ tags: ["self-therapy", "photography-in-psychology", "expressive-therapies", "men
 key_concepts: ["PhotoTherapy", "Photo-Art-Therapy", "emotional-expression"]
 methods: ["case study"]
 slug: fxa202-week08-photography-as-self-therapy-an-introduction-for-beginners
-related: ["creative-expression", "mental-health-interventions"]
+related: ["creative-expression", "expressive-therapies", "mental-health-interventions"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,4 +44,5 @@ The article 'Photography as Self-Therapy: An Introduction for Beginners' by Elly
 ## See Also
 
 - [creative-expression](../topics/creative-expression.md)
+- [expressive-therapies](../topics/expressive-therapies.md)
 - [mental-health-interventions](../topics/mental-health-interventions.md)

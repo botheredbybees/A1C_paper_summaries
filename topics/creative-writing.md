@@ -3,6 +3,9 @@ confidence: high
 domain: intervention
 slug: creative-writing-as-a-therapeutic-tool
 sources:
+  - fxa101-week00-poetry-and-well-being-a-pilot-programme-to-evaluate-the
+  - fxa101-week00-reading-and-trauma-how-the-openness-of-contemporary-poetry
+  - fxa101-week00-the-flourishing-writer
   - fxa202-week05-images-as-writing-prompts
   - fxa202-week05-stream-of-consciousness
   - fxa202-week05-week-5-introduction-to-storytelling
@@ -15,7 +18,7 @@ tags:
 - creative-writing
 title: Creative Writing as a Therapeutic Tool
 type: topic
-updated: 2026-05-11
+updated: 2026-08-08
 ---
 
 ## Creative Writing as a Therapeutic Tool
@@ -34,6 +37,9 @@ The integration of various creative writing techniques such as using images as p
 
 ## Sources
 
+- [fxa101-week00-poetry-and-well-being-a-pilot-programme-to-evaluate-the](../sources/fxa101-week00-poetry-and-well-being-a-pilot-programme-to-evaluate-the.md)
+- [fxa101-week00-reading-and-trauma-how-the-openness-of-contemporary-poetry](../sources/fxa101-week00-reading-and-trauma-how-the-openness-of-contemporary-poetry.md)
+- [fxa101-week00-the-flourishing-writer](../sources/fxa101-week00-the-flourishing-writer.md)
 - [fxa202-week05-images-as-writing-prompts](../sources/fxa202-week05-images-as-writing-prompts.md)
 - [fxa202-week05-stream-of-consciousness](../sources/fxa202-week05-stream-of-consciousness.md)
 - [fxa202-week05-week-5-introduction-to-storytelling](../sources/fxa202-week05-week-5-introduction-to-storytelling.md)

@@ -3,6 +3,9 @@ confidence: medium
 domain: intervention
 slug: music-therapy-in-palliative-care
 sources:
+  - fxa101-week00-a-qualitative-study-of-family-centrality-in-modified
+  - fxa101-week00-effectiveness-of-collage-activity-based-on-a-life-review-in
+  - fxa101-week00-the-employment-of-art-therapy-to-develop-empathy-and-foster
   - fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and
   - fxa301-week06-song-of-life-sol-study-protocol-a-multicenter-randomized
   - fxa301-week06-the-art-and-science-of-dancemovement-therapy
@@ -13,7 +16,7 @@ tags:
 - palliative-care
 title: Music Therapy in Palliative Care
 type: topic
-updated: 2026-05-15
+updated: 2026-08-08
 ---
 
 ## Music Therapy in Palliative Care
@@ -32,6 +35,9 @@ The integration of music therapy into palliative care settings aims to enhance t
 
 ## Sources
 
+- [fxa101-week00-a-qualitative-study-of-family-centrality-in-modified](../sources/fxa101-week00-a-qualitative-study-of-family-centrality-in-modified.md)
+- [fxa101-week00-effectiveness-of-collage-activity-based-on-a-life-review-in](../sources/fxa101-week00-effectiveness-of-collage-activity-based-on-a-life-review-in.md)
+- [fxa101-week00-the-employment-of-art-therapy-to-develop-empathy-and-foster](../sources/fxa101-week00-the-employment-of-art-therapy-to-develop-empathy-and-foster.md)
 - [fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and](../sources/fxa301-week06-bringing-music-to-life-a-study-of-music-therapy-and.md)
 - [fxa301-week06-song-of-life-sol-study-protocol-a-multicenter-randomized](../sources/fxa301-week06-song-of-life-sol-study-protocol-a-multicenter-randomized.md)
 - [fxa301-week06-the-art-and-science-of-dancemovement-therapy](../sources/fxa301-week06-the-art-and-science-of-dancemovement-therapy.md)

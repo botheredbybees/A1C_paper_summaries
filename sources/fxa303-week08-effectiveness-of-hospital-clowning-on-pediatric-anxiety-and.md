@@ -11,7 +11,7 @@ tags: ["hospital-clowning", "pediatric-care", "anxiety-management", "pain-reduct
 key_concepts: ["hospital clowning", "pediatric anxiety", "pain management"]
 methods: ["network meta-analysis"]
 slug: fxa303-week08-effectiveness-of-hospital-clowning-on-pediatric-anxiety-and
-related: ["hospital-clowning", "medical-procedures", "network-meta-analysis", "pediatric-care"]
+related: ["anxiety-management", "hospital-clowning", "medical-procedures", "network-meta-analysis", "pediatric-care"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,6 +44,7 @@ This study, a network meta-analysis of randomized trials examining the effective
 
 ## See Also
 
+- [anxiety-management](../topics/anxiety-management.md)
 - [hospital-clowning](../topics/hospital-clowning.md)
 - [medical-procedures](../topics/medical-procedures.md)
 - [network-meta-analysis](../topics/network-meta-analysis.md)

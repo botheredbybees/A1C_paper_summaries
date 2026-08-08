@@ -11,7 +11,7 @@ tags: ["nature-based-therapy", "art-therapy", "mental-health", "creative-express
 key_concepts: ["nature-based art therapy", "mental health benefits", "emotional regulation"]
 methods: ["scoping review"]
 slug: fxa100-week12-exploring-nature-based-art-therapy-a-scoping-review
-related: ["art-therapy", "creative-expression", "mental-health", "scoping-review"]
+related: ["art-therapy", "creative-expression", "environmental-sustainability", "mental-health", "scoping-review"]
 created: 2026-05-18
 updated: 2026-05-18
 ---
@@ -46,5 +46,6 @@ The study presents a scoping review of nature-based art therapy, which utilizes 
 
 - [art-therapy](../topics/art-therapy.md)
 - [creative-expression](../topics/creative-expression.md)
+- [environmental-sustainability](../topics/environmental-sustainability.md)
 - [mental-health](../topics/mental-health.md)
 - [scoping-review](../topics/scoping-review.md)

@@ -5,10 +5,12 @@ title: "Literary Analysis in Historical Context"
 confidence: medium
 tags: ["literary-analysis"]
 sources:
+  - fxa101-week00-a-glimpse-at-the-humor-of-woody-allens-writing
+  - fxa101-week00-the-distribution-of-humour-in-literary-texts-is-not-random
   - fxa202-week13-snapshot-seeing-kodak-fiends-child-photographers-and-henry
   - fxa302-week02-lesson-fxa302-week02-page-3
   - fxa302-week02-the-imagination-of-the-mind-in-classical-athens
-updated: 2026-07-13
+updated: 2026-08-08
 ---
 
 ## Literary Analysis in Historical Context
@@ -27,6 +29,8 @@ The analysis of literature through the lens of historical contexts reveals how n
 
 ## Sources
 
+- [fxa101-week00-a-glimpse-at-the-humor-of-woody-allens-writing](../sources/fxa101-week00-a-glimpse-at-the-humor-of-woody-allens-writing.md)
+- [fxa101-week00-the-distribution-of-humour-in-literary-texts-is-not-random](../sources/fxa101-week00-the-distribution-of-humour-in-literary-texts-is-not-random.md)
 - [fxa202-week13-snapshot-seeing-kodak-fiends-child-photographers-and-henry](../sources/fxa202-week13-snapshot-seeing-kodak-fiends-child-photographers-and-henry.md)
 - [fxa302-week02-lesson-fxa302-week02-page-3](../sources/fxa302-week02-lesson-fxa302-week02-page-3.md)
 - [fxa302-week02-the-imagination-of-the-mind-in-classical-athens](../sources/fxa302-week02-the-imagination-of-the-mind-in-classical-athens.md)

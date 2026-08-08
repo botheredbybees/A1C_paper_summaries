@@ -11,7 +11,7 @@ tags: ["involuntary-musical-imagery", "creative-processes", "composers-experienc
 key_concepts: ["novel involuntary musical imagery repetition (IMIR)", "grounded theory analysis", "spontaneous cognition"]
 methods: ["semistructured interviews", "grounded theory"]
 slug: fxa302-week05-the-genesis-of-a-tune-in-the-mind-an-interview-study-about
-related: ["creative-processes", "deep-memory-structures", "memory-research", "music-psychology"]
+related: ["creative-processes", "deep-memory-structures", "emotional-valence", "memory-research", "music-psychology"]
 created: 2026-08-03
 updated: 2026-08-03
 ---
@@ -47,5 +47,6 @@ This study explores the phenomenon of novel involuntary musical imagery repetiti
 
 - [creative-processes](../topics/creative-processes.md)
 - [deep-memory-structures](../topics/deep-memory-structures.md)
+- [emotional-valence](../topics/emotional-valence.md)
 - [memory-research](../topics/memory-research.md)
 - [music-psychology](../topics/music-psychology.md)

@@ -14,6 +14,9 @@ sources:
   - fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a
   - fxa100-week13-group-arts-interventions-for-depression-and-anxiety-among
   - fxa100-week13-health-benefits-of-physical-activity-a-systematic-review-of
+  - fxa101-week00-positive-expressive-writing-interventions-subjective-health
+  - fxa101-week00-the-effectiveness-of-art-therapy-for-anxiety-in-adults-a
+  - fxa101-week00-the-role-of-haptics-in-training-and-games-for-hearing
   - fxa101-week04-cognitive-and-memory-training-in-adults-at-risk-of-dementia
   - fxa101-week04-late-life-cognitive-activity-and-dementia-a-systematic
   - fxa202-week13-therapeutic-benefits-and-limitations-of-participatory
@@ -53,7 +56,7 @@ tags:
 - systematic-review
 title: Systematic Reviews of Arts-Based Interventions
 type: topic
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Systematic Reviews of Arts-Based Interventions
@@ -83,6 +86,9 @@ The systematic reviews examined here cover a range of arts-based interventions a
 - [fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a](../sources/fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a.md)
 - [fxa100-week13-group-arts-interventions-for-depression-and-anxiety-among](../sources/fxa100-week13-group-arts-interventions-for-depression-and-anxiety-among.md)
 - [fxa100-week13-health-benefits-of-physical-activity-a-systematic-review-of](../sources/fxa100-week13-health-benefits-of-physical-activity-a-systematic-review-of.md)
+- [fxa101-week00-positive-expressive-writing-interventions-subjective-health](../sources/fxa101-week00-positive-expressive-writing-interventions-subjective-health.md)
+- [fxa101-week00-the-effectiveness-of-art-therapy-for-anxiety-in-adults-a](../sources/fxa101-week00-the-effectiveness-of-art-therapy-for-anxiety-in-adults-a.md)
+- [fxa101-week00-the-role-of-haptics-in-training-and-games-for-hearing](../sources/fxa101-week00-the-role-of-haptics-in-training-and-games-for-hearing.md)
 - [fxa101-week04-cognitive-and-memory-training-in-adults-at-risk-of-dementia](../sources/fxa101-week04-cognitive-and-memory-training-in-adults-at-risk-of-dementia.md)
 - [fxa101-week04-late-life-cognitive-activity-and-dementia-a-systematic](../sources/fxa101-week04-late-life-cognitive-activity-and-dementia-a-systematic.md)
 - [fxa202-week13-therapeutic-benefits-and-limitations-of-participatory](../sources/fxa202-week13-therapeutic-benefits-and-limitations-of-participatory.md)

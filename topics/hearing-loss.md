@@ -5,12 +5,13 @@ title: "Hearing Loss and Its Impacts on Music"
 confidence: high
 tags: ["hearing-loss"]
 sources:
+  - fxa101-week00-deciphering-sounds-through-patterns-of-vibration-on-the-skin
   - fxa302-week05-lesson-fxa302-week05-page-2
   - fxa302-week05-lesson-fxa302-week05-page-3
   - fxa302-week05-lesson-fxa302-week05-page-4-activities
   - fxa302-week05-lesson-fxa302-week05-week-5
   - fxa302-week05-the-stigma-of-hearing-loss
-updated: 2026-08-03
+updated: 2026-08-08
 ---
 
 ## Hearing Loss and Its Impacts on Music
@@ -29,6 +30,7 @@ The provided sources delve into the multifaceted impacts of hearing loss on musi
 
 ## Sources
 
+- [fxa101-week00-deciphering-sounds-through-patterns-of-vibration-on-the-skin](../sources/fxa101-week00-deciphering-sounds-through-patterns-of-vibration-on-the-skin.md)
 - [fxa302-week05-lesson-fxa302-week05-page-2](../sources/fxa302-week05-lesson-fxa302-week05-page-2.md)
 - [fxa302-week05-lesson-fxa302-week05-page-3](../sources/fxa302-week05-lesson-fxa302-week05-page-3.md)
 - [fxa302-week05-lesson-fxa302-week05-page-4-activities](../sources/fxa302-week05-lesson-fxa302-week05-page-4-activities.md)

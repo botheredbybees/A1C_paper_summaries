@@ -10,6 +10,7 @@ updated: 2026-08-08
 - [What is Music, Health, and Wellbeing?](../sources/fxa100-week04-what-is-music-health-and-wellbeing.md)
 - [Art and Dementia](../sources/fxa100-week07-art-and-dementia.md)
 - [Dance for Lifelong Wellbeing Research Findings 2017](../sources/fxa100-week11-dance-for-lifelong-wellbeing-research-findings-2017.md)
+- [Crafting Wellbeing: Exploring the Link Between Textile Craft and Wellbeing](../sources/fxa101-week00-crafting-wellbeing-exploring-the-link-between-textile-craft.md)
 - [The Oxford Handbook of Dance and Wellbeing](../sources/fxa301-oxford-handbook-of-dance-and-wellbeing.md)
 - [Introduction to the Field of Creative Arts, Wellbeing, and Health](../sources/fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1-%282%29.md)
 - [Arts, Health and Wellbeing: evidence and implications](../sources/fxa301-week03-arts-health-and-wellbeing-evidence-and-implications.md)

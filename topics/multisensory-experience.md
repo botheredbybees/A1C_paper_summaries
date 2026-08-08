@@ -7,8 +7,9 @@ tags: ["multisensory-experience"]
 sources:
   - fxa100-week08-unlocking-the-door-to-being-there-the-contribution-of
   - fxa100-week13-sensory-mediated-arts-on-prescription-emotional-arousal
+  - fxa101-week00-a-taste-of-kandinsky-assessing-the-influence-of-artistic
   - fxa300-week01-effect-of-background-noise-on-food-perception
-updated: 2026-07-06
+updated: 2026-08-08
 ---
 
 ## Multisensory Experiences
@@ -29,4 +30,5 @@ The concept of multisensory experiences highlights the importance of engaging mu
 
 - [fxa100-week08-unlocking-the-door-to-being-there-the-contribution-of](../sources/fxa100-week08-unlocking-the-door-to-being-there-the-contribution-of.md)
 - [fxa100-week13-sensory-mediated-arts-on-prescription-emotional-arousal](../sources/fxa100-week13-sensory-mediated-arts-on-prescription-emotional-arousal.md)
+- [fxa101-week00-a-taste-of-kandinsky-assessing-the-influence-of-artistic](../sources/fxa101-week00-a-taste-of-kandinsky-assessing-the-influence-of-artistic.md)
 - [fxa300-week01-effect-of-background-noise-on-food-perception](../sources/fxa300-week01-effect-of-background-noise-on-food-perception.md)

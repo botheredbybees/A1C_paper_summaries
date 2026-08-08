@@ -11,7 +11,7 @@ tags: ["fxa301", "immersive-experience", "inclusive-design", "inclusivity-in-mus
 key_concepts: ["immersive-experience", "inclusivity-in-music"]
 methods: []
 slug: fxa301-week11-transcript-youtube-cnjl-fsurmduration
-related: ["inclusive-design"]
+related: ["inclusive-design", "music-technology"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -40,3 +40,4 @@ This YouTube video transcript discusses a project funded by the Arts and Humanit
 ## See Also
 
 - [inclusive-design](../topics/inclusive-design.md)
+- [music-technology](../topics/music-technology.md)

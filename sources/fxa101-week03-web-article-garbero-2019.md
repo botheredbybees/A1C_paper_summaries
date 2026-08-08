@@ -11,7 +11,7 @@ tags: ["art-and-science", "history-of-science", "citizen-science", "scientific-c
 key_concepts: ["polymath influence on science", "visual representation in scientific discovery", "collaboration of art and science"]
 methods: []
 slug: fxa101-week03-web-article-garbero-2019
-related: ["history-of-science"]
+related: ["citizen-science", "history-of-science"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -43,4 +43,5 @@ This blog post explores the historical relationship between art and science, hig
 
 ## See Also
 
+- [citizen-science](../topics/citizen-science.md)
 - [history-of-science](../topics/history-of-science.md)

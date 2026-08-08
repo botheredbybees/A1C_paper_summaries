@@ -3,13 +3,15 @@ confidence: medium
 domain: intervention
 slug: divergent-thinking
 sources:
-- fxa202-week08-journal-and-visual-research-guidelines
-- fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the
+  - fxa100-week13-exploring-the-creative-personality-using-machine-learning
+  - fxa101-week00-collage-co-collaborator-creative-ideation-for-divergent
+  - fxa202-week08-journal-and-visual-research-guidelines
+  - fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the
 tags:
 - divergent-thinking
 title: Divergent Thinking
 type: topic
-updated: 2026-05-04
+updated: 2026-08-08
 ---
 
 ## Divergent Thinking
@@ -28,5 +30,7 @@ The sources provided explore the concept of divergent thinking in different cont
 
 ## Sources
 
+- [fxa100-week13-exploring-the-creative-personality-using-machine-learning](../sources/fxa100-week13-exploring-the-creative-personality-using-machine-learning.md)
+- [fxa101-week00-collage-co-collaborator-creative-ideation-for-divergent](../sources/fxa101-week00-collage-co-collaborator-creative-ideation-for-divergent.md)
 - [fxa202-week08-journal-and-visual-research-guidelines](../sources/fxa202-week08-journal-and-visual-research-guidelines.md)
 - [fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the](../sources/fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the.md)

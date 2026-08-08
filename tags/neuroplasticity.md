@@ -11,6 +11,8 @@ updated: 2026-08-08
 - [Artists in the House Program: Expressing Yourself in Aged Care](../sources/fxa100-week02-transcript-duration-949.md)
 - [How Music Helps to Heal the Injured Brain](../sources/fxa100-week02-web-article-thaut-2010.md)
 - [Singing and the Brain](../sources/fxa100-week04-singing-and-the-brain.md)
+- [Deciphering Sounds Through Patterns of Vibration on the Skin](../sources/fxa101-week00-deciphering-sounds-through-patterns-of-vibration-on-the-skin.md)
+- [Neural insights into observational drawing: A longitudinal resting state functional connectivity study using 7 t MRI](../sources/fxa101-week00-neural-insights-into-observational-drawing-a-longitudinal.md)
 - [Acquiring Tastes and Loves: What Neuroplasticity Teaches Us About Sexual Attraction and Love](../sources/fxa101-week02-acquiring-tastes-and-loves-what-neuroplasticity-teaches-us.md)
 - [Brain Lock Unlocked: Using Plasticity to Stop Worries, Obsessions, Compulsions, and Bad Habits](../sources/fxa101-week02-brain-lock-unlocked-using-plasticity-to-stop-worries.md)
 - [Building Herself a Better Brain: A Woman Labeled \u201cRetarded\u201d Discovers How to Heal Herself](../sources/fxa101-week02-building-herself-a-better-brain-a-woman-labeled-retarded.md)

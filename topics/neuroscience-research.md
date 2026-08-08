@@ -7,6 +7,8 @@ sources:
   - fxa100-week03-the-effects-of-music-on-the-brain-video-transcript-(2)
   - fxa100-week03-week-3-introduction-listening-to-music-in-dementia-care
   - fxa100-week04-music-as-therapy-and-health-promotion
+  - fxa101-week00-a-vest-that-allows-the-deaf-to-hear-and-other
+  - fxa101-week00-a-vest-that-can-cure-deafness-and-maybe-one-day-give-us
   - fxa101-week03-imagination-how-thinking-makes-it-so
   - fxa101-week03-web-article-iversen-2020
   - fxa300-week01-music-and-states-of-consciousness-a-narrative-review-of-the
@@ -19,7 +21,7 @@ tags:
 - neuroscience-research
 title: Neuroscience Research in Music and Movement
 type: topic
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Neuroscience Research in Music and Movement
@@ -42,6 +44,8 @@ The integration of music and movement interventions into neuroscience research r
 - [fxa100-week03-the-effects-of-music-on-the-brain-video-transcript-(2)](../sources/fxa100-week03-the-effects-of-music-on-the-brain-video-transcript-%282%29.md)
 - [fxa100-week03-week-3-introduction-listening-to-music-in-dementia-care](../sources/fxa100-week03-week-3-introduction-listening-to-music-in-dementia-care.md)
 - [fxa100-week04-music-as-therapy-and-health-promotion](../sources/fxa100-week04-music-as-therapy-and-health-promotion.md)
+- [fxa101-week00-a-vest-that-allows-the-deaf-to-hear-and-other](../sources/fxa101-week00-a-vest-that-allows-the-deaf-to-hear-and-other.md)
+- [fxa101-week00-a-vest-that-can-cure-deafness-and-maybe-one-day-give-us](../sources/fxa101-week00-a-vest-that-can-cure-deafness-and-maybe-one-day-give-us.md)
 - [fxa101-week03-imagination-how-thinking-makes-it-so](../sources/fxa101-week03-imagination-how-thinking-makes-it-so.md)
 - [fxa101-week03-web-article-iversen-2020](../sources/fxa101-week03-web-article-iversen-2020.md)
 - [fxa300-week01-music-and-states-of-consciousness-a-narrative-review-of-the](../sources/fxa300-week01-music-and-states-of-consciousness-a-narrative-review-of-the.md)

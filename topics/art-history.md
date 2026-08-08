@@ -5,6 +5,7 @@ slug: neural-processing-of-art
 sources:
   - fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what
   - fxa100-week06-web-article-tucker-2012
+  - fxa101-week00-art-and-place-crossing-borders-in-the-work-of-perejaume
   - fxa101-week03-review-albrecht-drer-documentary-biography-by-jeffrey
   - fxa101-week05-fearful-symmetry-inkblot-books-18571915
   - fxa302-week02-the-imagination-of-the-mind-in-classical-athens
@@ -12,7 +13,7 @@ tags:
 - art-history
 title: Neural Processing of Art
 type: topic
-updated: 2026-08-03
+updated: 2026-08-08
 ---
 
 ## Neural Processing of Art
@@ -32,6 +33,7 @@ The study of how the brain processes art reveals significant insights into cogni
 
 - [fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what](../sources/fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what.md)
 - [fxa100-week06-web-article-tucker-2012](../sources/fxa100-week06-web-article-tucker-2012.md)
+- [fxa101-week00-art-and-place-crossing-borders-in-the-work-of-perejaume](../sources/fxa101-week00-art-and-place-crossing-borders-in-the-work-of-perejaume.md)
 - [fxa101-week03-review-albrecht-drer-documentary-biography-by-jeffrey](../sources/fxa101-week03-review-albrecht-drer-documentary-biography-by-jeffrey.md)
 - [fxa101-week05-fearful-symmetry-inkblot-books-18571915](../sources/fxa101-week05-fearful-symmetry-inkblot-books-18571915.md)
 - [fxa302-week02-the-imagination-of-the-mind-in-classical-athens](../sources/fxa302-week02-the-imagination-of-the-mind-in-classical-athens.md)

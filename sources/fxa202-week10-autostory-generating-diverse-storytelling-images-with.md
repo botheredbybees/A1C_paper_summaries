@@ -11,7 +11,7 @@ tags: ["image-generation", "storytelling-images", "machine-learning", "fxa202", 
 key_concepts: ["large-language-models", "character-identity-consistency"]
 methods: ["systematic-review"]
 slug: fxa202-week10-autostory-generating-diverse-storytelling-images-with
-related: ["machine-learning"]
+related: ["large-language-models", "machine-learning"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -41,4 +41,5 @@ The article introduces AutoStory, a system designed to generate diverse and high
 
 ## See Also
 
+- [large-language-models](../topics/large-language-models.md)
 - [machine-learning](../topics/machine-learning.md)

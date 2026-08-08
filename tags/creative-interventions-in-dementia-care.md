@@ -10,6 +10,7 @@ updated: 2026-08-08
 - [The impact of a visual arts program on quality of life, communication, and well-being of people living with dementia: a mixed-methods longitudinal investigation](../sources/fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life.md)
 - [For visitors with dementia](../sources/fxa100-week07-for-visitors-with-dementia.md)
 - [Can arts-based interventions improve health? A conceptual and methodological critique](../sources/fxa100-week13-can-arts-based-interventions-improve-health-a-conceptual.md)
+- [A Systematic Review of Arts-Based Interventions Delivered to Children and Young People in Nature or Outdoor Spaces: Impact on Nature Connectedness, Health and Wellbeing](../sources/fxa101-week00-a-systematic-review-of-arts-based-interventions-delivered.md)
 - [Anna Mackintosh's Critical Reflection on Photographic Essay](../sources/fxa202-week10-anna-mackintoshs-critical-reflection-on-photographic-essay.md)
 - [It fostered a greater appreciation for my little corner of the world: A feasibility study of a therapeutic photography intervention for the well-being of autistic youth](../sources/fxa202-week13-it-fostered-a-greater-appreciation-for-my-little-corner-of.md)
 - [Creative Health Review](../sources/fxa301-week03-creative-health-review.md)

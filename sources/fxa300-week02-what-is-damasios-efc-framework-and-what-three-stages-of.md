@@ -11,7 +11,7 @@ tags: ["emotion-theory", "consciousness-research", "neuroscience", "fxa300", "ef
 key_concepts: ["E\u2013F\u2013C framework", "bottom-up processing"]
 methods: ["case study"]
 slug: fxa300-week02-what-is-damasios-efc-framework-and-what-three-stages-of
-related: ["neuroscience"]
+related: ["consciousness-research", "neuroscience"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -40,4 +40,5 @@ Antonio Damasio's E–F–C framework—Emotion–Feeling–Consciousness—is a
 
 ## See Also
 
+- [consciousness-research](../topics/consciousness-research.md)
 - [neuroscience](../topics/neuroscience.md)

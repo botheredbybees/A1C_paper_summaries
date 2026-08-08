@@ -11,7 +11,7 @@ tags: ["music-based-group-interactions", "emotional-experiences", "body-talk", "
 key_concepts: ["Damasio's neurocognitive-evolutionary theory", "embodiment", "unity-of-body-and-mind"]
 methods: ["go-along method"]
 slug: fxa300-week01-meaningful-body-talk-emotional-experiences-with-music-based
-related: ["emotional-experiences"]
+related: ["embodiment", "emotional-experiences"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -45,4 +45,5 @@ The article 'Meaningful body talk: Emotional experiences with music-based group 
 
 ## See Also
 
+- [embodiment](../topics/embodiment.md)
 - [emotional-experiences](../topics/emotional-experiences.md)

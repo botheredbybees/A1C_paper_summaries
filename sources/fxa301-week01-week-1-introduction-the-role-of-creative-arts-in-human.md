@@ -11,7 +11,7 @@ tags: ["creative-arts", "human-culture", "identity-construction", "community-eng
 key_concepts: ["cultural-preservation", "well-being"]
 methods: ["national-surveys"]
 slug: fxa301-week01-week-1-introduction-the-role-of-creative-arts-in-human
-related: ["community-engagement", "creative-arts", "economic-growth"]
+related: ["community-engagement", "creative-arts", "economic-growth", "identity-construction"]
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -45,3 +45,4 @@ The document introduces the first week of FXA301, a course focusing on the role 
 - [community-engagement](../topics/community-engagement.md)
 - [creative-arts](../topics/creative-arts.md)
 - [economic-growth](../topics/economic-growth.md)
+- [identity-construction](../topics/identity-construction.md)

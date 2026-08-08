@@ -3,6 +3,8 @@ confidence: low
 domain: method
 slug: ethnography
 sources:
+  - fxa101-week00-traditional-female-world-preservation-and-revival-of-crafts
+  - fxa101-week00-trying-haiku-poetry-collective-creativity-in-a-haiku
   - fxa300-week05-does-cultural-capital-structure-american-consumption
   - fxa301-make-arts-for-a-better-life-ch05-1-read-your
   - fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10
@@ -10,7 +12,7 @@ tags:
 - ethnography
 title: Ethnography
 type: topic
-updated: 2026-08-03
+updated: 2026-08-08
 ---
 
 ## Ethnography
@@ -29,6 +31,8 @@ The utilization of qualitative research methods such as grounded theory and ethn
 
 ## Sources
 
+- [fxa101-week00-traditional-female-world-preservation-and-revival-of-crafts](../sources/fxa101-week00-traditional-female-world-preservation-and-revival-of-crafts.md)
+- [fxa101-week00-trying-haiku-poetry-collective-creativity-in-a-haiku](../sources/fxa101-week00-trying-haiku-poetry-collective-creativity-in-a-haiku.md)
 - [fxa300-week05-does-cultural-capital-structure-american-consumption](../sources/fxa300-week05-does-cultural-capital-structure-american-consumption.md)
 - [fxa301-make-arts-for-a-better-life-ch05-1-read-your](../sources/fxa301-make-arts-for-a-better-life-ch05-1-read-your.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10](../sources/fxa301-oxford-textbook-of-creative-arts-ch01-chapter-10.md)

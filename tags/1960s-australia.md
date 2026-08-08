@@ -1,0 +1,9 @@
+---
+type: tag
+tag: 1960s-australia
+updated: 2026-08-08
+---
+
+## 1960S Australia
+
+- [Do-It-Yourself Barbie in 1960s Australia](../sources/fxa101-week00-do-it-yourself-barbie-in-1960s-australia.md)

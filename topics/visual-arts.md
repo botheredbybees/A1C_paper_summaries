@@ -6,6 +6,7 @@ sources:
   - fxa100-week06-fxa100-week-6-lecture-visual-arts-the-brain-and-dementia
   - fxa100-week06-lesson-fxa100-week06-page-1-welcome-to-week-6
   - fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care
+  - fxa101-week00-art-and-place-crossing-borders-in-the-work-of-perejaume
   - fxa101-week03-lesson-fxa101-week03-page-3-the-role-of-the-arts-in
   - fxa301-week05-lesson-fxa301-week05-page-1
   - fxa302-week03-the-art-of-observation-a-pedagogical-framework
@@ -13,7 +14,7 @@ tags:
 - visual-arts
 title: Visual Arts in Dementia Care
 type: topic
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Visual Arts in Dementia Care
@@ -34,6 +35,7 @@ The integration of visual arts into dementia care settings has emerged as a mult
 - [fxa100-week06-fxa100-week-6-lecture-visual-arts-the-brain-and-dementia](../sources/fxa100-week06-fxa100-week-6-lecture-visual-arts-the-brain-and-dementia.md)
 - [fxa100-week06-lesson-fxa100-week06-page-1-welcome-to-week-6](../sources/fxa100-week06-lesson-fxa100-week06-page-1-welcome-to-week-6.md)
 - [fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care](../sources/fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care.md)
+- [fxa101-week00-art-and-place-crossing-borders-in-the-work-of-perejaume](../sources/fxa101-week00-art-and-place-crossing-borders-in-the-work-of-perejaume.md)
 - [fxa101-week03-lesson-fxa101-week03-page-3-the-role-of-the-arts-in](../sources/fxa101-week03-lesson-fxa101-week03-page-3-the-role-of-the-arts-in.md)
 - [fxa301-week05-lesson-fxa301-week05-page-1](../sources/fxa301-week05-lesson-fxa301-week05-page-1.md)
 - [fxa302-week03-the-art-of-observation-a-pedagogical-framework](../sources/fxa302-week03-the-art-of-observation-a-pedagogical-framework.md)

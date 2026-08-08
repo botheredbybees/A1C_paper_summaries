@@ -11,6 +11,10 @@ sources:
   - fxa100-week13-knowledge-and-health-beliefs-about-dementia-prevention
   - fxa100-week13-music-interventions-for-people-with-dementia-a-review-of
   - fxa100-week13-shall-i-compare-thee-to-a-dose-of-donepezil-cultural-arts
+  - fxa101-week00-a-qualitative-study-of-family-centrality-in-modified
+  - fxa101-week00-crafting-representations-of-rare-disease-collage-as
+  - fxa101-week00-living-with-toxic-wounds-the-voices-and-visual-self
+  - fxa101-week00-the-employment-of-art-therapy-to-develop-empathy-and-foster
   - fxa101-week03-arts-based-educational-research-in-the-early-years
   - fxa202-the-handbook-of-phototherapy-ch02-12-the-earlier-stages
   - fxa202-the-handbook-of-phototherapy-ch03-chapter-2
@@ -37,7 +41,7 @@ tags:
 - qualitative-research
 title: Qualitative Research in Health and Well-being Interventions
 type: topic
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Qualitative Research in Health and Well-being Interventions
@@ -64,6 +68,10 @@ The sources collectively highlight the importance of qualitative research method
 - [fxa100-week13-knowledge-and-health-beliefs-about-dementia-prevention](../sources/fxa100-week13-knowledge-and-health-beliefs-about-dementia-prevention.md)
 - [fxa100-week13-music-interventions-for-people-with-dementia-a-review-of](../sources/fxa100-week13-music-interventions-for-people-with-dementia-a-review-of.md)
 - [fxa100-week13-shall-i-compare-thee-to-a-dose-of-donepezil-cultural-arts](../sources/fxa100-week13-shall-i-compare-thee-to-a-dose-of-donepezil-cultural-arts.md)
+- [fxa101-week00-a-qualitative-study-of-family-centrality-in-modified](../sources/fxa101-week00-a-qualitative-study-of-family-centrality-in-modified.md)
+- [fxa101-week00-crafting-representations-of-rare-disease-collage-as](../sources/fxa101-week00-crafting-representations-of-rare-disease-collage-as.md)
+- [fxa101-week00-living-with-toxic-wounds-the-voices-and-visual-self](../sources/fxa101-week00-living-with-toxic-wounds-the-voices-and-visual-self.md)
+- [fxa101-week00-the-employment-of-art-therapy-to-develop-empathy-and-foster](../sources/fxa101-week00-the-employment-of-art-therapy-to-develop-empathy-and-foster.md)
 - [fxa101-week03-arts-based-educational-research-in-the-early-years](../sources/fxa101-week03-arts-based-educational-research-in-the-early-years.md)
 - [fxa202-the-handbook-of-phototherapy-ch02-12-the-earlier-stages](../sources/fxa202-the-handbook-of-phototherapy-ch02-12-the-earlier-stages.md)
 - [fxa202-the-handbook-of-phototherapy-ch03-chapter-2](../sources/fxa202-the-handbook-of-phototherapy-ch03-chapter-2.md)

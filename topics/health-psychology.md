@@ -4,6 +4,7 @@ domain: intervention
 slug: music-and-health-interventions
 sources:
   - fxa100-week04-what-is-music-health-and-wellbeing
+  - fxa101-week00-a-systematic-review-of-arts-based-interventions-delivered
   - fxa202-week03-lecture-transcript-week-3-the-photo-essay
   - fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental
   - psy214-week01-lesson-psy214-week01-stress-as-a-psychological-process
@@ -12,7 +13,7 @@ tags:
 - health-psychology
 title: Music and Health Interventions
 type: topic
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Music and Health Interventions
@@ -32,6 +33,7 @@ The integration of music in health interventions highlights its therapeutic pote
 ## Sources
 
 - [fxa100-week04-what-is-music-health-and-wellbeing](../sources/fxa100-week04-what-is-music-health-and-wellbeing.md)
+- [fxa101-week00-a-systematic-review-of-arts-based-interventions-delivered](../sources/fxa101-week00-a-systematic-review-of-arts-based-interventions-delivered.md)
 - [fxa202-week03-lecture-transcript-week-3-the-photo-essay](../sources/fxa202-week03-lecture-transcript-week-3-the-photo-essay.md)
 - [fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental](../sources/fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental.md)
 - [psy214-week01-lesson-psy214-week01-stress-as-a-psychological-process](../sources/psy214-week01-lesson-psy214-week01-stress-as-a-psychological-process.md)

@@ -41,6 +41,11 @@ sources:
   - fxa100-week12-the-effectiveness-of-art-based-interventions-among-older
   - fxa100-week13-exploring-ethical-considerations-in-art-therapy
   - fxa100-week13-the-future-of-art-therapy-in-mental-health-treatment
+  - fxa101-week00-art-making-as-a-gateway-to-the-inner-self-a
+  - fxa101-week00-exploring-the-artcreative-process-through-masks-making-and
+  - fxa101-week00-living-with-toxic-wounds-the-voices-and-visual-self
+  - fxa101-week00-the-effectiveness-of-art-therapy-for-anxiety-in-adults-a
+  - fxa101-week00-the-employment-of-art-therapy-to-develop-empathy-and-foster
   - fxa101-week04-creativity-and-dementia-does-artistic-activity-affect-well
   - fxa202-week06-donna-a-photo-essay
   - fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health
@@ -93,7 +98,7 @@ sources:
   - fxa303-week11-the-power-of-art-to-transform-and-restore
   - fxa303-week11-web-article-hardy-2019
   - fxa303-week13-play-and-people-living-with-dementia-a-humanities-based
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Art Therapy for Dementia
@@ -148,6 +153,11 @@ Art therapy emerges as a multifaceted intervention that significantly impacts co
 - [fxa100-week12-the-effectiveness-of-art-based-interventions-among-older](../sources/fxa100-week12-the-effectiveness-of-art-based-interventions-among-older.md)
 - [fxa100-week13-exploring-ethical-considerations-in-art-therapy](../sources/fxa100-week13-exploring-ethical-considerations-in-art-therapy.md)
 - [fxa100-week13-the-future-of-art-therapy-in-mental-health-treatment](../sources/fxa100-week13-the-future-of-art-therapy-in-mental-health-treatment.md)
+- [fxa101-week00-art-making-as-a-gateway-to-the-inner-self-a](../sources/fxa101-week00-art-making-as-a-gateway-to-the-inner-self-a.md)
+- [fxa101-week00-exploring-the-artcreative-process-through-masks-making-and](../sources/fxa101-week00-exploring-the-artcreative-process-through-masks-making-and.md)
+- [fxa101-week00-living-with-toxic-wounds-the-voices-and-visual-self](../sources/fxa101-week00-living-with-toxic-wounds-the-voices-and-visual-self.md)
+- [fxa101-week00-the-effectiveness-of-art-therapy-for-anxiety-in-adults-a](../sources/fxa101-week00-the-effectiveness-of-art-therapy-for-anxiety-in-adults-a.md)
+- [fxa101-week00-the-employment-of-art-therapy-to-develop-empathy-and-foster](../sources/fxa101-week00-the-employment-of-art-therapy-to-develop-empathy-and-foster.md)
 - [fxa101-week04-creativity-and-dementia-does-artistic-activity-affect-well](../sources/fxa101-week04-creativity-and-dementia-does-artistic-activity-affect-well.md)
 - [fxa202-week06-donna-a-photo-essay](../sources/fxa202-week06-donna-a-photo-essay.md)
 - [fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health](../sources/fxa202-week09-my-photo-essay-storytelling-through-art-and-mental-health.md)

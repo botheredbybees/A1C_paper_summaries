@@ -5,9 +5,10 @@ title: "Photography and Digital Health"
 confidence: medium
 tags: ["social-media"]
 sources:
+  - fxa101-week00-its-just-nice-not-to-be-on-screens-exploring-the
   - fxa202-week03-lesson-fxa202-week03-week-3
   - fxa202-week13-the-remediation-of-the-personal-photograph-and-the-politics
-updated: 2026-05-15
+updated: 2026-08-08
 ---
 
 ## Photography and Digital Health
@@ -26,5 +27,6 @@ The integration of photography as a therapeutic intervention in digital health c
 
 ## Sources
 
+- [fxa101-week00-its-just-nice-not-to-be-on-screens-exploring-the](../sources/fxa101-week00-its-just-nice-not-to-be-on-screens-exploring-the.md)
 - [fxa202-week03-lesson-fxa202-week03-week-3](../sources/fxa202-week03-lesson-fxa202-week03-week-3.md)
 - [fxa202-week13-the-remediation-of-the-personal-photograph-and-the-politics](../sources/fxa202-week13-the-remediation-of-the-personal-photograph-and-the-politics.md)

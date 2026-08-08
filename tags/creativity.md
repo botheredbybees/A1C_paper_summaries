@@ -6,6 +6,7 @@ updated: 2026-08-08
 
 ## Creativity
 
+- [Association Between Haiku Poetry Creation and Self-Transcendent Emotions](../sources/fxa101-week00-association-between-haiku-poetry-creation-and-self.md)
 - [Activities for Week 1](../sources/fxa101-week01-lesson-fxa101-week01-page-4-activities-for-week-1.md)
 - [Perspectives on Creativity](../sources/fxa101-week02-lesson-fxa101-week02-chapter-3.md)
 - [Activities for Week 2 - FXA101 Creativity and Ageing](../sources/fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities.md)

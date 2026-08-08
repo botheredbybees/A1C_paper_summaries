@@ -5,9 +5,10 @@ title: "Art Interventions in Occupational Therapy"
 confidence: medium
 tags: ["occupational-therapy"]
 sources:
+  - fxa101-week00-i-just-love-it-avid-knitters-describe-health-and-well-being
   - fxa301-week11-visual-art-in-physical-rehabilitation-experiences-of-people
   - fxa303-week04-art-interventions-for-children-with-autism-spectrum
-updated: 2026-05-11
+updated: 2026-08-08
 ---
 
 ## Art Interventions in Occupational Therapy
@@ -26,5 +27,6 @@ The integration of visual art into occupational therapy (OT) is explored across 
 
 ## Sources
 
+- [fxa101-week00-i-just-love-it-avid-knitters-describe-health-and-well-being](../sources/fxa101-week00-i-just-love-it-avid-knitters-describe-health-and-well-being.md)
 - [fxa301-week11-visual-art-in-physical-rehabilitation-experiences-of-people](../sources/fxa301-week11-visual-art-in-physical-rehabilitation-experiences-of-people.md)
 - [fxa303-week04-art-interventions-for-children-with-autism-spectrum](../sources/fxa303-week04-art-interventions-for-children-with-autism-spectrum.md)

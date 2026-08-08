@@ -3,6 +3,8 @@ confidence: medium
 domain: intervention
 slug: psychological-wellbeing-interventions
 sources:
+  - fxa101-week00-art-nature-and-mental-health-assessing-the-biopsychosocial
+  - fxa101-week00-handmade-therapy-the-hedonic-impacts-of-engaging-in-pottery
   - fxa101-week02-everyday-creativity-in-daily-life-an-experience-sampling
   - fxa301-week06-a-study-of-the-experience-of-working-adults-on-regular
   - fxa301-week11-fine-arts-participation-self-determination-and-locus-of
@@ -13,7 +15,7 @@ tags:
 - psychological-wellbeing
 title: Psychological Wellbeing Interventions
 type: topic
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Psychological Wellbeing Interventions
@@ -32,6 +34,8 @@ This synthesis explores various interventions aimed at enhancing psychological w
 
 ## Sources
 
+- [fxa101-week00-art-nature-and-mental-health-assessing-the-biopsychosocial](../sources/fxa101-week00-art-nature-and-mental-health-assessing-the-biopsychosocial.md)
+- [fxa101-week00-handmade-therapy-the-hedonic-impacts-of-engaging-in-pottery](../sources/fxa101-week00-handmade-therapy-the-hedonic-impacts-of-engaging-in-pottery.md)
 - [fxa101-week02-everyday-creativity-in-daily-life-an-experience-sampling](../sources/fxa101-week02-everyday-creativity-in-daily-life-an-experience-sampling.md)
 - [fxa301-week06-a-study-of-the-experience-of-working-adults-on-regular](../sources/fxa301-week06-a-study-of-the-experience-of-working-adults-on-regular.md)
 - [fxa301-week11-fine-arts-participation-self-determination-and-locus-of](../sources/fxa301-week11-fine-arts-participation-self-determination-and-locus-of.md)

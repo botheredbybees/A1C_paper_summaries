@@ -11,7 +11,7 @@ tags: ["photo-editing", "mobile-apps", "snapseed-guide", "photography-tips", "di
 key_concepts: ["photo editing application", "ease of use and powerful features"]
 methods: []
 slug: fxa202-week02-a-beginners-guide-to-photo-editing-with-snapseed
-related: ["digital-photography", "photo-editing", "photography-tips"]
+related: ["digital-photography", "mobile-apps", "photo-editing", "photography-tips"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,5 +43,6 @@ This document provides an introductory guide to using the photo editing applicat
 ## See Also
 
 - [digital-photography](../topics/digital-photography.md)
+- [mobile-apps](../topics/mobile-apps.md)
 - [photo-editing](../topics/photo-editing.md)
 - [photography-tips](../topics/photography-tips.md)

@@ -10,7 +10,7 @@ tags: ["haptic-devices", "sensory-substitution", "brain-computer-interfaces", "f
 key_concepts: ["neural-plasticity", "sensory-perception"]
 methods: []
 slug: fxa101-week00-the-future-of-sensory-substitution-addition-and-expansion
-related: ["brain-plasticity", "sensory-substitution"]
+related: ["brain-plasticity", "haptic-devices", "sensory-substitution"]
 created: 2026-08-08
 updated: 2026-08-08
 ---
@@ -40,4 +40,5 @@ This article discusses the advancements and future potential of haptic devices i
 ## See Also
 
 - [brain-plasticity](../topics/brain-plasticity.md)
+- [haptic-devices](../topics/haptic-devices.md)
 - [sensory-substitution](../topics/sensory-substitution.md)

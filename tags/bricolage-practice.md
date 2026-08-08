@@ -1,0 +1,9 @@
+---
+type: tag
+tag: bricolage-practice
+updated: 2026-08-08
+---
+
+## Bricolage Practice
+
+- [Harmonic Materials: Composing with found objects and a camera-based synthesiser](../sources/fxa101-week00-harmonic-materials-composing-with-found-objects-and-a.md)

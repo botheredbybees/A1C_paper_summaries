@@ -5,6 +5,9 @@ title: "Expressive Writing Therapy"
 confidence: high
 tags: ["expressive-writing"]
 sources:
+  - fxa101-week00-benefits-of-expressive-writing-on-healthcare-workers
+  - fxa101-week00-positive-expressive-writing-interventions-subjective-health
+  - fxa101-week00-the-flourishing-writer
   - fxa202-week09-expressive-writing-therapy-exercises-examples
   - fxa202-week09-guide-to-journaling
   - fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental
@@ -12,7 +15,7 @@ sources:
   - fxa301-week08-lesson-fxa301-week07-page-3-hm
   - fxa301-week10-a-meta-analysis-of-expressive-writing-on-posttraumatic
   - fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Expressive Writing Therapy
@@ -31,6 +34,9 @@ Expressive writing therapy has been widely studied and employed as an interventi
 
 ## Sources
 
+- [fxa101-week00-benefits-of-expressive-writing-on-healthcare-workers](../sources/fxa101-week00-benefits-of-expressive-writing-on-healthcare-workers.md)
+- [fxa101-week00-positive-expressive-writing-interventions-subjective-health](../sources/fxa101-week00-positive-expressive-writing-interventions-subjective-health.md)
+- [fxa101-week00-the-flourishing-writer](../sources/fxa101-week00-the-flourishing-writer.md)
 - [fxa202-week09-expressive-writing-therapy-exercises-examples](../sources/fxa202-week09-expressive-writing-therapy-exercises-examples.md)
 - [fxa202-week09-guide-to-journaling](../sources/fxa202-week09-guide-to-journaling.md)
 - [fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental](../sources/fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental.md)

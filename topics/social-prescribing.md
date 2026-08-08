@@ -3,6 +3,7 @@ confidence: high
 domain: intervention
 slug: social-prescribing
 sources:
+  - fxa101-week00-art-nature-and-mental-health-assessing-the-biopsychosocial
   - fxa202-week06-critical-reflection-of-the-development-of-the-finding-joy
   - fxa301-week01-arts-on-prescription-in-sefton-programme-report
   - fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and
@@ -13,7 +14,7 @@ tags:
 - social-prescribing
 title: Social Prescribing
 type: topic
-updated: 2026-05-11
+updated: 2026-08-08
 ---
 
 ## Social Prescribing
@@ -32,6 +33,7 @@ The concept of social prescribing is highlighted across sources as an interventi
 
 ## Sources
 
+- [fxa101-week00-art-nature-and-mental-health-assessing-the-biopsychosocial](../sources/fxa101-week00-art-nature-and-mental-health-assessing-the-biopsychosocial.md)
 - [fxa202-week06-critical-reflection-of-the-development-of-the-finding-joy](../sources/fxa202-week06-critical-reflection-of-the-development-of-the-finding-joy.md)
 - [fxa301-week01-arts-on-prescription-in-sefton-programme-report](../sources/fxa301-week01-arts-on-prescription-in-sefton-programme-report.md)
 - [fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and](../sources/fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and.md)

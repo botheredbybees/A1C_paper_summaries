@@ -11,7 +11,7 @@ tags: ["presentation-skills", "powerpoint-usage", "visual-presentation", "fxa202
 key_concepts: ["slide-layouts", "image-insertion"]
 methods: []
 slug: fxa202-week06-tips-for-making-your-powerpoint-presentation
-related: []
+related: ["visual-presentation"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -40,4 +40,4 @@ This document provides practical tips for creating a PowerPoint presentation. It
 
 ## See Also
 
-*(none yet)*
+- [visual-presentation](../topics/visual-presentation.md)

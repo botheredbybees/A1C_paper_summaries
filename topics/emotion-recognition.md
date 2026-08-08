@@ -7,7 +7,8 @@ tags: ["emotion-recognition"]
 sources:
   - fxa100-week13-discriminating-aective-state-intensity-using-physiological
   - fxa100-week13-emotion-recognition-from-multimodal-data-a-machine-learning
-updated: 2026-05-15
+  - fxa101-week00-the-impact-of-a-commercial-wearable-tactile-bass-system-on
+updated: 2026-08-08
 ---
 
 ## Emotion Recognition
@@ -28,3 +29,4 @@ The integration of physiological and multimodal data analysis techniques for emo
 
 - [fxa100-week13-discriminating-aective-state-intensity-using-physiological](../sources/fxa100-week13-discriminating-aective-state-intensity-using-physiological.md)
 - [fxa100-week13-emotion-recognition-from-multimodal-data-a-machine-learning](../sources/fxa100-week13-emotion-recognition-from-multimodal-data-a-machine-learning.md)
+- [fxa101-week00-the-impact-of-a-commercial-wearable-tactile-bass-system-on](../sources/fxa101-week00-the-impact-of-a-commercial-wearable-tactile-bass-system-on.md)

@@ -11,7 +11,7 @@ tags: ["artistic-expression", "contemporary-culture", "digital-photography", "fx
 key_concepts: ["phenomenology", "interdisciplinary-research", "technological-innovation"]
 methods: ["case-study"]
 slug: fxa202-week13-shifting-perspectives-exploring-the-intersection-of
-related: ["artistic-expression", "digital-photography"]
+related: ["artistic-expression", "digital-photography", "phenomenology", "technological-innovation"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -43,3 +43,5 @@ Hanan Muneer Al Sheikh's article explores the interplay between traditional and 
 
 - [artistic-expression](../topics/artistic-expression.md)
 - [digital-photography](../topics/digital-photography.md)
+- [phenomenology](../topics/phenomenology.md)
+- [technological-innovation](../topics/technological-innovation.md)

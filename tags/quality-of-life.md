@@ -71,6 +71,7 @@ updated: 2026-08-08
 - [Dancing as a psychosocial intervention in care homes: a systematic review of the literature](../sources/fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a.md)
 - [Shall I Compare Thee to a Dose of Donepezil?: Cultural Arts Interventions in Dementia Care Research](../sources/fxa100-week13-shall-i-compare-thee-to-a-dose-of-donepezil-cultural-arts.md)
 - [The Effect from Music Therapy Upon Alzheimer's Illness](../sources/fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness.md)
+- [Effectiveness of Collage Activity Based on a Life Review in Elderly Cancer Patients: A Preliminary Study](../sources/fxa101-week00-effectiveness-of-collage-activity-based-on-a-life-review-in.md)
 - [Mih\u00e1ly Cs\u00edkszentmih\u00e1lyi: The Father of Flow](../sources/fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow.md)
 - [Revisioning self-identity: The role of portraits, neuroscience and the art therapist's \u2018third hand\u2019](../sources/fxa202-week13-revisioning-self-identity-the-role-of-portraits.md)
 - [A Qualitative Investigation of Older Adults\u2019 Conceptualization of Quality of Life and a Think-Aloud Content Validation of the EQ-5D-5L, SF-12v2, Warwick Edinburgh Mental Well-Being Scale, and Office of National Statistics-4](../sources/fxa301-week01-a-qualitative-investigation-of-older-adults.md)

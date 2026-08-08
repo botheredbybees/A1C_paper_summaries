@@ -11,7 +11,7 @@ tags: ["arts-in-community", "poetry-analysis", "emotional-reactions", "fxa301"]
 key_concepts: ["personal-emotion-experience", "sound-and-rhythm"]
 methods: []
 slug: fxa301-week08-lesson-fxa301-week07-page-4-week-3-activities
-related: ["arts-in-community", "emotional-reactions"]
+related: ["arts-in-community", "emotional-reactions", "poetry-analysis"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,3 +42,4 @@ This lesson focuses on an exercise involving three poems by William Butler Yeats
 
 - [arts-in-community](../topics/arts-in-community.md)
 - [emotional-reactions](../topics/emotional-reactions.md)
+- [poetry-analysis](../topics/poetry-analysis.md)

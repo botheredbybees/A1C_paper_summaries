@@ -68,6 +68,7 @@ sources:
   - fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a
   - fxa100-week13-shall-i-compare-thee-to-a-dose-of-donepezil-cultural-arts
   - fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness
+  - fxa101-week00-effectiveness-of-collage-activity-based-on-a-life-review-in
   - fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow
   - fxa202-week13-revisioning-self-identity-the-role-of-portraits
   - fxa301-week01-a-qualitative-investigation-of-older-adults
@@ -97,7 +98,7 @@ tags:
 - quality-of-life
 title: Music Therapy in Dementia Care
 type: topic
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Music Therapy in Dementia Care
@@ -181,6 +182,7 @@ The Music and Memory (M&M) program stands out as a non-pharmacological intervent
 - [fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a](../sources/fxa100-week13-dancing-as-a-psychosocial-intervention-in-care-homes-a.md)
 - [fxa100-week13-shall-i-compare-thee-to-a-dose-of-donepezil-cultural-arts](../sources/fxa100-week13-shall-i-compare-thee-to-a-dose-of-donepezil-cultural-arts.md)
 - [fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness](../sources/fxa100-week13-the-effect-from-music-therapy-upon-alzheimers-illness.md)
+- [fxa101-week00-effectiveness-of-collage-activity-based-on-a-life-review-in](../sources/fxa101-week00-effectiveness-of-collage-activity-based-on-a-life-review-in.md)
 - [fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow](../sources/fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow.md)
 - [fxa202-week13-revisioning-self-identity-the-role-of-portraits](../sources/fxa202-week13-revisioning-self-identity-the-role-of-portraits.md)
 - [fxa301-week01-a-qualitative-investigation-of-older-adults](../sources/fxa301-week01-a-qualitative-investigation-of-older-adults.md)

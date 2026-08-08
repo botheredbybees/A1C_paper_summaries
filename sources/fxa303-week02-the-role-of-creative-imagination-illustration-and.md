@@ -11,7 +11,7 @@ tags: ["creative-imagination-education", "storytelling-health", "mental-health-s
 key_concepts: ["Adverse Childhood Experiences (ACEs)", "attachment theory"]
 methods: ["case study", "collaborative project"]
 slug: fxa303-week02-the-role-of-creative-imagination-illustration-and
-related: ["mental-health-support"]
+related: ["attachment-theory", "mental-health-support"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -42,4 +42,5 @@ Ellie Baker’s paper explores the use of creative imagination, illustration, an
 
 ## See Also
 
+- [attachment-theory](../topics/attachment-theory.md)
 - [mental-health-support](../topics/mental-health-support.md)

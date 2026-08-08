@@ -14,6 +14,7 @@ sources:
   - fxa100-week08-week-8-lecture-on-arts-therapy-and-dementia-care
   - fxa100-week10-the-impact-of-timeslips-a-creative-expression-intervention
   - fxa100-week12-exploring-nature-based-art-therapy-a-scoping-review
+  - fxa101-week00-crafting-wellbeing-exploring-the-link-between-textile-craft
   - fxa101-week02-what-sort-of-creative-are-you
   - fxa202-week02-improve-your-photography-skills-with-these-9-photo
   - fxa202-week03-can-photography-help-depression-(2)
@@ -49,7 +50,7 @@ tags:
 - creative-expression
 title: Creative Expression
 type: topic
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Creative Expression
@@ -79,6 +80,7 @@ The concept of creative expression encompasses a variety of therapeutic interven
 - [fxa100-week08-week-8-lecture-on-arts-therapy-and-dementia-care](../sources/fxa100-week08-week-8-lecture-on-arts-therapy-and-dementia-care.md)
 - [fxa100-week10-the-impact-of-timeslips-a-creative-expression-intervention](../sources/fxa100-week10-the-impact-of-timeslips-a-creative-expression-intervention.md)
 - [fxa100-week12-exploring-nature-based-art-therapy-a-scoping-review](../sources/fxa100-week12-exploring-nature-based-art-therapy-a-scoping-review.md)
+- [fxa101-week00-crafting-wellbeing-exploring-the-link-between-textile-craft](../sources/fxa101-week00-crafting-wellbeing-exploring-the-link-between-textile-craft.md)
 - [fxa101-week02-what-sort-of-creative-are-you](../sources/fxa101-week02-what-sort-of-creative-are-you.md)
 - [fxa202-week02-improve-your-photography-skills-with-these-9-photo](../sources/fxa202-week02-improve-your-photography-skills-with-these-9-photo.md)
 - [fxa202-week03-can-photography-help-depression-(2)](../sources/fxa202-week03-can-photography-help-depression-%282%29.md)

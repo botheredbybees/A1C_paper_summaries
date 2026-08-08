@@ -8,6 +8,10 @@ sources:
   - fxa100-week03-experimental-evidence-for-synchronization-to-a-musical-beat
   - fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted
   - fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what
+  - fxa101-week00-a-vest-that-allows-the-deaf-to-hear-neuroscientific-marvels
+  - fxa101-week00-could-this-futuristic-vest-give-us-a-sixth-sense
+  - fxa101-week00-interview-with-dr-david-eagleman-on-neuroscience
+  - fxa101-week00-interview-with-dr-david-eagleman-on-neuroscience-and
   - fxa101-week02-cortical-correlates-of-creative-thinking-assessed-by-the
   - fxa101-week03-increased-engagement-of-the-cognitive-control-network
   - fxa300-week01-what-we-know-currently-about-mirror-neurons
@@ -22,7 +26,7 @@ tags:
 - neuroscience
 title: Neuroscience Of Cognitive Disorders And Rhythmic Behavior
 type: topic
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Neuroscience Of Cognitive Disorders And Rhythmic Behavior
@@ -46,6 +50,10 @@ The discussion revolves around the understanding of cognitive disorders such as 
 - [fxa100-week03-experimental-evidence-for-synchronization-to-a-musical-beat](../sources/fxa100-week03-experimental-evidence-for-synchronization-to-a-musical-beat.md)
 - [fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted](../sources/fxa100-week03-transcript-the-music-of-memory-victoria-williamson-at-ted.md)
 - [fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what](../sources/fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what.md)
+- [fxa101-week00-a-vest-that-allows-the-deaf-to-hear-neuroscientific-marvels](../sources/fxa101-week00-a-vest-that-allows-the-deaf-to-hear-neuroscientific-marvels.md)
+- [fxa101-week00-could-this-futuristic-vest-give-us-a-sixth-sense](../sources/fxa101-week00-could-this-futuristic-vest-give-us-a-sixth-sense.md)
+- [fxa101-week00-interview-with-dr-david-eagleman-on-neuroscience](../sources/fxa101-week00-interview-with-dr-david-eagleman-on-neuroscience.md)
+- [fxa101-week00-interview-with-dr-david-eagleman-on-neuroscience-and](../sources/fxa101-week00-interview-with-dr-david-eagleman-on-neuroscience-and.md)
 - [fxa101-week02-cortical-correlates-of-creative-thinking-assessed-by-the](../sources/fxa101-week02-cortical-correlates-of-creative-thinking-assessed-by-the.md)
 - [fxa101-week03-increased-engagement-of-the-cognitive-control-network](../sources/fxa101-week03-increased-engagement-of-the-cognitive-control-network.md)
 - [fxa300-week01-what-we-know-currently-about-mirror-neurons](../sources/fxa300-week01-what-we-know-currently-about-mirror-neurons.md)

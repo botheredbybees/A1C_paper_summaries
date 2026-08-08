@@ -5,12 +5,14 @@ title: "Synesthesia"
 confidence: medium
 tags: ["synesthesia"]
 sources:
+  - fxa101-week00-a-vest-that-allows-the-deaf-to-hear-and-other
+  - fxa101-week00-interview-with-dr-david-eagleman-on-neuroscience-and
   - fxa101-week02-lesson-fxa101-week02-chapter-3
   - fxa101-week02-web-article-grossenbacher-2001
   - fxa101-week02-web-article-meier-2014
   - fxa101-week02-week-2-lecture-sem-2-2026
   - fxa101-week03-week-3-lecture-brain-development-and-cognitive-reserve
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Synesthesia
@@ -29,6 +31,8 @@ The study of synesthesia integrates insights from neurobiological and cognitive 
 
 ## Sources
 
+- [fxa101-week00-a-vest-that-allows-the-deaf-to-hear-and-other](../sources/fxa101-week00-a-vest-that-allows-the-deaf-to-hear-and-other.md)
+- [fxa101-week00-interview-with-dr-david-eagleman-on-neuroscience-and](../sources/fxa101-week00-interview-with-dr-david-eagleman-on-neuroscience-and.md)
 - [fxa101-week02-lesson-fxa101-week02-chapter-3](../sources/fxa101-week02-lesson-fxa101-week02-chapter-3.md)
 - [fxa101-week02-web-article-grossenbacher-2001](../sources/fxa101-week02-web-article-grossenbacher-2001.md)
 - [fxa101-week02-web-article-meier-2014](../sources/fxa101-week02-web-article-meier-2014.md)

@@ -11,7 +11,7 @@ tags: ["disease-prevention", "environmental-justice", "fxa303", "global-health",
 key_concepts: ["sustainable development goals (SDGs)", "health as a human right", "disease prevention"]
 methods: ["case study"]
 slug: fxa303-week13-good-health-and-well-being
-related: ["arts-based-strategies-for-youth-mental-health", "health-equity", "interdisciplinary-research", "public-policy"]
+related: ["arts-based-strategies-for-youth-mental-health", "health-equity", "interdisciplinary-research", "public-policy", "sustainable-development-goals-sdgs"]
 created: 2026-05-15
 updated: 2026-08-02
 ---
@@ -46,3 +46,4 @@ The document discusses the importance of sustainable development goals (SDGs) fo
 - [health-equity](../topics/health-equity.md)
 - [interdisciplinary-research](../topics/interdisciplinary-research.md)
 - [public-policy](../topics/public-policy.md)
+- [sustainable-development-goals-sdgs](../topics/sustainable-development-goals-sdgs.md)

@@ -9,6 +9,9 @@ sources:
   - fxa100-week04-music-and-rehabilitation-neurological-approaches
   - fxa100-week04-music-as-therapy-and-health-promotion
   - fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the
+  - fxa101-week00-a-vest-that-can-cure-deafness-and-maybe-one-day-give-us
+  - fxa101-week00-neural-insights-into-observational-drawing-a-longitudinal
+  - fxa101-week00-sensory-substitution-by-david-eagleman
   - fxa101-week00-the-future-of-sensory-substitution-addition-and-expansion
   - fxa101-week02-acquiring-tastes-and-loves-what-neuroplasticity-teaches-us
   - fxa101-week02-redesigning-the-brain-a-scientist-changes-brains-to-sharpen
@@ -51,6 +54,9 @@ Research into brain plasticity reveals its profound influence on various cogniti
 - [fxa100-week04-music-and-rehabilitation-neurological-approaches](../sources/fxa100-week04-music-and-rehabilitation-neurological-approaches.md)
 - [fxa100-week04-music-as-therapy-and-health-promotion](../sources/fxa100-week04-music-as-therapy-and-health-promotion.md)
 - [fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the](../sources/fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the.md)
+- [fxa101-week00-a-vest-that-can-cure-deafness-and-maybe-one-day-give-us](../sources/fxa101-week00-a-vest-that-can-cure-deafness-and-maybe-one-day-give-us.md)
+- [fxa101-week00-neural-insights-into-observational-drawing-a-longitudinal](../sources/fxa101-week00-neural-insights-into-observational-drawing-a-longitudinal.md)
+- [fxa101-week00-sensory-substitution-by-david-eagleman](../sources/fxa101-week00-sensory-substitution-by-david-eagleman.md)
 - [fxa101-week00-the-future-of-sensory-substitution-addition-and-expansion](../sources/fxa101-week00-the-future-of-sensory-substitution-addition-and-expansion.md)
 - [fxa101-week02-acquiring-tastes-and-loves-what-neuroplasticity-teaches-us](../sources/fxa101-week02-acquiring-tastes-and-loves-what-neuroplasticity-teaches-us.md)
 - [fxa101-week02-redesigning-the-brain-a-scientist-changes-brains-to-sharpen](../sources/fxa101-week02-redesigning-the-brain-a-scientist-changes-brains-to-sharpen.md)

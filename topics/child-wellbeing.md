@@ -5,9 +5,10 @@ title: "Child Wellbeing in Arts and Nature"
 confidence: medium
 tags: ["child-wellbeing"]
 sources:
+  - fxa101-week00-a-systematic-review-of-arts-based-interventions-delivered
   - fxa302-week07-arts-in-nature-with-children-and-young-people
   - fxa303-week10-the-good-life-for-children-do-we-really-care-about-the
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Child Wellbeing in Arts and Nature
@@ -26,5 +27,6 @@ The integration of arts and nature into children's lives is proposed as a holist
 
 ## Sources
 
+- [fxa101-week00-a-systematic-review-of-arts-based-interventions-delivered](../sources/fxa101-week00-a-systematic-review-of-arts-based-interventions-delivered.md)
 - [fxa302-week07-arts-in-nature-with-children-and-young-people](../sources/fxa302-week07-arts-in-nature-with-children-and-young-people.md)
 - [fxa303-week10-the-good-life-for-children-do-we-really-care-about-the](../sources/fxa303-week10-the-good-life-for-children-do-we-really-care-about-the.md)

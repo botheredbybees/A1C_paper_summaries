@@ -6,8 +6,9 @@ confidence: medium
 tags: ["collective-creativity"]
 sources:
   - fxa100-week08-conceptualising-and-understanding-artistic-creativity-in
+  - fxa101-week00-trying-haiku-poetry-collective-creativity-in-a-haiku
   - fxa303-week02-collective-creativity-and-wellbeing-dispositions-childrens
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Collective Creativity
@@ -27,4 +28,5 @@ The concept of collective creativity is explored in two distinct contexts. In th
 ## Sources
 
 - [fxa100-week08-conceptualising-and-understanding-artistic-creativity-in](../sources/fxa100-week08-conceptualising-and-understanding-artistic-creativity-in.md)
+- [fxa101-week00-trying-haiku-poetry-collective-creativity-in-a-haiku](../sources/fxa101-week00-trying-haiku-poetry-collective-creativity-in-a-haiku.md)
 - [fxa303-week02-collective-creativity-and-wellbeing-dispositions-childrens](../sources/fxa303-week02-collective-creativity-and-wellbeing-dispositions-childrens.md)

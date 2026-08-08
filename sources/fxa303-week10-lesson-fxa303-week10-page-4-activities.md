@@ -11,7 +11,7 @@ tags: ["arts-in-therapy", "migrant-wellbeing", "indigenous-culture", "fxa303"]
 key_concepts: ["cultural adjustment", "creative therapy", "mental wellbeing"]
 methods: []
 slug: fxa303-week10-lesson-fxa303-week10-page-4-activities
-related: ["arts-in-therapy", "migrant-wellbeing"]
+related: ["arts-in-therapy", "indigenous-culture", "migrant-wellbeing"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -42,4 +42,5 @@ This week's content in FXA303 focuses on the role of arts and creative projects 
 ## See Also
 
 - [arts-in-therapy](../topics/arts-in-therapy.md)
+- [indigenous-culture](../topics/indigenous-culture.md)
 - [migrant-wellbeing](../topics/migrant-wellbeing.md)

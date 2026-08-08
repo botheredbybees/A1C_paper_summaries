@@ -10,6 +10,8 @@ updated: 2026-08-08
 - [The Effects of Music on the Brain \u2013 video transcript](../sources/fxa100-week03-the-effects-of-music-on-the-brain-video-transcript-%282%29.md)
 - [Week 3 Introduction: Listening to Music in Dementia Care](../sources/fxa100-week03-week-3-introduction-listening-to-music-in-dementia-care.md)
 - [Music as Therapy and Health Promotion](../sources/fxa100-week04-music-as-therapy-and-health-promotion.md)
+- [A Vest That Allows the Deaf to 'Hear' and Other Neuroscientific Marvels](../sources/fxa101-week00-a-vest-that-allows-the-deaf-to-hear-and-other.md)
+- [A Vest That Can Cure Deafness, and Maybe One Day Give Us Entirely New Senses](../sources/fxa101-week00-a-vest-that-can-cure-deafness-and-maybe-one-day-give-us.md)
 - [Imagination: How Thinking Makes It So](../sources/fxa101-week03-imagination-how-thinking-makes-it-so.md)
 - [John Iversen's Research on Music and Brain Function](../sources/fxa101-week03-web-article-iversen-2020.md)
 - [Music and states of consciousness: A narrative review of the broader significance of music to understanding absorption, mind wandering and creative thought](../sources/fxa300-week01-music-and-states-of-consciousness-a-narrative-review-of-the.md)

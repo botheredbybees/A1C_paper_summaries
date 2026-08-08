@@ -3,13 +3,14 @@ confidence: medium
 domain: intervention
 slug: sustainable-cultural-practices
 sources:
+  - fxa101-week00-the-communities-and-materials-of-repair-collectively
   - fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2)
   - fxa301-week05-happy-museum-learning-evaluation-report
 tags:
 - sustainability
 title: Sustainable Cultural Practices
 type: topic
-updated: 2026-05-11
+updated: 2026-08-08
 ---
 
 ## Sustainable Cultural Practices
@@ -27,5 +28,6 @@ The exploration of sustainable practices within ethnomusicology and museum learn
 
 ## Sources
 
+- [fxa101-week00-the-communities-and-materials-of-repair-collectively](../sources/fxa101-week00-the-communities-and-materials-of-repair-collectively.md)
 - [fxa301-make-arts-for-a-better-life-ch42-156-oxford-(2)](../sources/fxa301-make-arts-for-a-better-life-ch42-156-oxford-%282%29.md)
 - [fxa301-week05-happy-museum-learning-evaluation-report](../sources/fxa301-week05-happy-museum-learning-evaluation-report.md)

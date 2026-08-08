@@ -11,7 +11,7 @@ tags: ["commedia-dellarte", "theatre-history", "performance-studies", "literary-
 key_concepts: ["improvisational-theatre", "literary-context", "historical-performance"]
 methods: ["literature-review"]
 slug: fxa303-week08-commedia-dellarte-characters-scenarios-and-rhetoric
-related: ["commedia-dellarte"]
+related: ["commedia-dellarte", "rhetoric"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,3 +44,4 @@ The article discusses the enduring influence of Commedia dell'Arte, a form of th
 ## See Also
 
 - [commedia-dellarte](../topics/commedia-dellarte.md)
+- [rhetoric](../topics/rhetoric.md)

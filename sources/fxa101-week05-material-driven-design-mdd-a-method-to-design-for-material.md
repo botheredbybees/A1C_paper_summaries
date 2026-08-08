@@ -11,7 +11,7 @@ tags: ["material-driven-design", "user-experience", "design-methodology", "innov
 key_concepts: ["Material Driven Design (MDD)", "emotional connection with materials"]
 methods: ["case study"]
 slug: fxa101-week05-material-driven-design-mdd-a-method-to-design-for-material
-related: []
+related: ["material-driven-design", "material-driven-design-mdd"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -43,4 +43,5 @@ The article introduces the concept of Material Driven Design (MDD) as a methodol
 
 ## See Also
 
-*(none yet)*
+- [material-driven-design](../topics/material-driven-design.md)
+- [material-driven-design-mdd](../topics/material-driven-design-mdd.md)

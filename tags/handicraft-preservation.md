@@ -1,0 +1,9 @@
+---
+type: tag
+tag: handicraft-preservation
+updated: 2026-08-08
+---
+
+## Handicraft Preservation
+
+- [Traditional Female World: Preservation and Revival of Crafts in the Dagestanovskiy District of Bashkortostan](../sources/fxa101-week00-traditional-female-world-preservation-and-revival-of-crafts.md)

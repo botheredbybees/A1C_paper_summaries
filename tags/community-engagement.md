@@ -17,6 +17,7 @@ updated: 2026-08-08
 - [Stimulating Engagement Through Participation in Visual Arts Projects](../sources/fxa100-week08-lesson-fxa100-week07-page-3-stimulating-engagement.md)
 - [Building creative communities of care: Arts, dementia, and hope in the United States](../sources/fxa100-week10-building-creative-communities-of-care-arts-dementia-and.md)
 - [Dancer Not Dementia | Canada's National Ballet School](../sources/fxa100-week11-dancer-not-dementia-canadas-national-ballet-school.md)
+- [Heritage through Collage: A Participatory and Creative Approach to Heritage Making](../sources/fxa101-week00-heritage-through-collage-a-participatory-and-creative.md)
 - [Case study: engaging older people in creative thinking\u2014the Active Energy project](../sources/fxa101-week04-case-study-engaging-older-people-in-creative-thinkingthe.md)
 - [The daily digital practice as a form of self-care: Using photography for everyday well-being](../sources/fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using.md)
 - [Using Photovoice as a Tool to Engage Social Work Students in Social Justice](../sources/fxa202-week13-using-photovoice-as-a-tool-to-engage-social-work-students.md)

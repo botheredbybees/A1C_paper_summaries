@@ -11,7 +11,7 @@ tags: ["music-therapy", "dementia-care", "brain-stimulation", "patient-rehabilit
 key_concepts: ["music therapy", "neurological activation", "communication impairment", "rehabilitative intervention"]
 methods: ["case study"]
 slug: fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees
-related: ["brain-stimulation", "cognitive-function", "dementia-care", "music-therapy"]
+related: ["brain-stimulation", "cognitive-function", "dementia-care", "music-therapy", "patient-rehabilitation"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -48,3 +48,4 @@ The transcript highlights the therapeutic effects of music on individuals suffer
 - [cognitive-function](../topics/cognitive-function.md)
 - [dementia-care](../topics/dementia-care.md)
 - [music-therapy](../topics/music-therapy.md)
+- [patient-rehabilitation](../topics/patient-rehabilitation.md)

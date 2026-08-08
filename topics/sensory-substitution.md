@@ -5,8 +5,22 @@ title: "Sensory Substitution"
 confidence: medium
 tags: ["sensory-substitution"]
 sources:
+  - fxa101-week00-a-study-of-cutaneous-perception-parameters-for-designing
+  - fxa101-week00-a-vest-that-allows-the-deaf-to-hear-and-other
+  - fxa101-week00-a-vest-that-can-cure-deafness-and-maybe-one-day-give-us
+  - fxa101-week00-deciphering-sounds-through-patterns-of-vibration-on-the-skin
+  - fxa101-week00-haptic-assistive-technologies-for-audition-and-vision
+  - fxa101-week00-interview-with-dr-david-eagleman-on-neuroscience-and
   - fxa101-week00-mustem-a-dual-modality-system-for-vibrotactile-and-visual
+  - fxa101-week00-mustem-a-dual-modality-system-for-vibrotactile-and-visual-(2)
+  - fxa101-week00-recent-developments-in-haptic-devices-designed-for-hearing
+  - fxa101-week00-sensory-substitution-by-david-eagleman
+  - fxa101-week00-sensory-substitution-in-music-enhancing-deaf-perception
   - fxa101-week00-the-future-of-sensory-substitution-addition-and-expansion
+  - fxa101-week00-the-impact-of-a-commercial-wearable-tactile-bass-system-on
+  - fxa101-week00-the-unfolding-space-glove-a-wearable-spatio-visual-to
+  - fxa101-week00-using-space-and-time-to-encode-vibrotactile-information
+  - fxa101-week00-wearable-vibrotactile-system-as-an-assistive-technology
   - fxa302-week05-lesson-fxa302-week05-page-3
 updated: 2026-08-08
 ---
@@ -27,6 +41,20 @@ The concept of sensory substitution encompasses various techniques to aid indivi
 
 ## Sources
 
+- [fxa101-week00-a-study-of-cutaneous-perception-parameters-for-designing](../sources/fxa101-week00-a-study-of-cutaneous-perception-parameters-for-designing.md)
+- [fxa101-week00-a-vest-that-allows-the-deaf-to-hear-and-other](../sources/fxa101-week00-a-vest-that-allows-the-deaf-to-hear-and-other.md)
+- [fxa101-week00-a-vest-that-can-cure-deafness-and-maybe-one-day-give-us](../sources/fxa101-week00-a-vest-that-can-cure-deafness-and-maybe-one-day-give-us.md)
+- [fxa101-week00-deciphering-sounds-through-patterns-of-vibration-on-the-skin](../sources/fxa101-week00-deciphering-sounds-through-patterns-of-vibration-on-the-skin.md)
+- [fxa101-week00-haptic-assistive-technologies-for-audition-and-vision](../sources/fxa101-week00-haptic-assistive-technologies-for-audition-and-vision.md)
+- [fxa101-week00-interview-with-dr-david-eagleman-on-neuroscience-and](../sources/fxa101-week00-interview-with-dr-david-eagleman-on-neuroscience-and.md)
 - [fxa101-week00-mustem-a-dual-modality-system-for-vibrotactile-and-visual](../sources/fxa101-week00-mustem-a-dual-modality-system-for-vibrotactile-and-visual.md)
+- [fxa101-week00-mustem-a-dual-modality-system-for-vibrotactile-and-visual-(2)](../sources/fxa101-week00-mustem-a-dual-modality-system-for-vibrotactile-and-visual-%282%29.md)
+- [fxa101-week00-recent-developments-in-haptic-devices-designed-for-hearing](../sources/fxa101-week00-recent-developments-in-haptic-devices-designed-for-hearing.md)
+- [fxa101-week00-sensory-substitution-by-david-eagleman](../sources/fxa101-week00-sensory-substitution-by-david-eagleman.md)
+- [fxa101-week00-sensory-substitution-in-music-enhancing-deaf-perception](../sources/fxa101-week00-sensory-substitution-in-music-enhancing-deaf-perception.md)
 - [fxa101-week00-the-future-of-sensory-substitution-addition-and-expansion](../sources/fxa101-week00-the-future-of-sensory-substitution-addition-and-expansion.md)
+- [fxa101-week00-the-impact-of-a-commercial-wearable-tactile-bass-system-on](../sources/fxa101-week00-the-impact-of-a-commercial-wearable-tactile-bass-system-on.md)
+- [fxa101-week00-the-unfolding-space-glove-a-wearable-spatio-visual-to](../sources/fxa101-week00-the-unfolding-space-glove-a-wearable-spatio-visual-to.md)
+- [fxa101-week00-using-space-and-time-to-encode-vibrotactile-information](../sources/fxa101-week00-using-space-and-time-to-encode-vibrotactile-information.md)
+- [fxa101-week00-wearable-vibrotactile-system-as-an-assistive-technology](../sources/fxa101-week00-wearable-vibrotactile-system-as-an-assistive-technology.md)
 - [fxa302-week05-lesson-fxa302-week05-page-3](../sources/fxa302-week05-lesson-fxa302-week05-page-3.md)

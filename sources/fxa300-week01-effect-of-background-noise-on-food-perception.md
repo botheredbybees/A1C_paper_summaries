@@ -11,7 +11,7 @@ tags: ["background-noise", "food-perception", "multisensory-experience", "taste-
 key_concepts: ["gustatory perception", "auditory perception", "environmental sounds", "sensory modulation"]
 methods: ["experiment"]
 slug: fxa300-week01-effect-of-background-noise-on-food-perception
-related: ["auditory-perception", "multisensory-experience"]
+related: ["auditory-perception", "food-perception", "multisensory-experience"]
 created: 2026-07-06
 updated: 2026-07-06
 ---
@@ -46,4 +46,5 @@ This study investigates the impact of auditory background noise on gustatory and
 ## See Also
 
 - [auditory-perception](../topics/auditory-perception.md)
+- [food-perception](../topics/food-perception.md)
 - [multisensory-experience](../topics/multisensory-experience.md)

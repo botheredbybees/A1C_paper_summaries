@@ -7,6 +7,7 @@ updated: 2026-08-08
 ## Music Perception
 
 - [Hearing and Music](../sources/fxa100-week02-hearing-and-music.md)
+- [Sensory Substitution in Music: Enhancing Deaf Perception Through Vibrotactile Feedback](../sources/fxa101-week00-sensory-substitution-in-music-enhancing-deaf-perception.md)
 - [Current Advances in the Cognitive Neuroscience of Music](../sources/fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music.md)
 - [Getting to Know Your Brain](../sources/fxa300-week02-lesson-fxa300-week02-welcome-to-week-3.md)
 - [Music in the brain](../sources/fxa300-week02-music-in-the-brain.md)

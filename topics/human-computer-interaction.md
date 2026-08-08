@@ -5,7 +5,9 @@ title: "Human-Computer Interaction in Sensory Substitution and Assistive Technol
 confidence: medium
 tags: ["human-computer-interaction"]
 sources:
+  - fxa101-week00-audio-tactile-rendering-a-review-on-technology-and-methods
   - fxa101-week00-mustem-a-dual-modality-system-for-vibrotactile-and-visual
+  - fxa101-week00-recent-developments-in-haptic-devices-designed-for-hearing
   - fxa303-week13-contextual-design-evolved
 updated: 2026-08-08
 ---
@@ -25,5 +27,7 @@ The integration of human-computer interaction (HCI) methodologies with sensory s
 
 ## Sources
 
+- [fxa101-week00-audio-tactile-rendering-a-review-on-technology-and-methods](../sources/fxa101-week00-audio-tactile-rendering-a-review-on-technology-and-methods.md)
 - [fxa101-week00-mustem-a-dual-modality-system-for-vibrotactile-and-visual](../sources/fxa101-week00-mustem-a-dual-modality-system-for-vibrotactile-and-visual.md)
+- [fxa101-week00-recent-developments-in-haptic-devices-designed-for-hearing](../sources/fxa101-week00-recent-developments-in-haptic-devices-designed-for-hearing.md)
 - [fxa303-week13-contextual-design-evolved](../sources/fxa303-week13-contextual-design-evolved.md)

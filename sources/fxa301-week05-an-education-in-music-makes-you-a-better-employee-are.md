@@ -11,7 +11,7 @@ tags: ["music-education", "workplace-skills", "survey-research", "recruitment-st
 key_concepts: ["transferable skills", "musical training impact"]
 methods: ["nationwide survey"]
 slug: fxa301-week05-an-education-in-music-makes-you-a-better-employee-are
-related: ["music-education", "survey-research"]
+related: ["music-education", "recruitment-strategies", "survey-research"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,4 +43,5 @@ This article discusses the transferable skills developed through music education
 ## See Also
 
 - [music-education](../topics/music-education.md)
+- [recruitment-strategies](../topics/recruitment-strategies.md)
 - [survey-research](../topics/survey-research.md)

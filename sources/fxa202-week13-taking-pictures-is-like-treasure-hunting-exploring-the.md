@@ -11,7 +11,7 @@ tags: ["ethical-principles-in-research", "fxa202", "mental-health-research", "pe
 key_concepts: ["social-companionship", "self-reflection", "ethical-principles-in-research"]
 methods: ["case-study", "workshops-and-interviews"]
 slug: fxa202-week13-taking-pictures-is-like-treasure-hunting-exploring-the
-related: ["mental-health-research", "personal-growth", "therapeutic-photography"]
+related: ["mental-health-research", "personal-growth", "qualitative-methods", "therapeutic-photography"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -43,4 +43,5 @@ The article investigates the therapeutic benefits of photography as a qualitativ
 
 - [mental-health-research](../topics/mental-health-research.md)
 - [personal-growth](../topics/personal-growth.md)
+- [qualitative-methods](../topics/qualitative-methods.md)
 - [therapeutic-photography](../topics/therapeutic-photography.md)

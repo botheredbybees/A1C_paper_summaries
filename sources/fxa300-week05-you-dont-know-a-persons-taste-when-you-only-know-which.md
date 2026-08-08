@@ -11,7 +11,7 @@ tags: ["music-preference", "latent-profile-analysis", "demographics-influences",
 key_concepts: ["Latent Profile Analysis", "Big Five Inventory", "Musical Taste"]
 methods: ["latent profile analysis", "logistic regression"]
 slug: fxa300-week05-you-dont-know-a-persons-taste-when-you-only-know-which
-related: ["music-preference", "musical-taste"]
+related: ["big-five-inventory", "music-preference", "musical-taste"]
 created: 2026-08-03
 updated: 2026-08-03
 ---
@@ -42,5 +42,6 @@ The study investigates musical taste differences within five popular music genre
 
 ## See Also
 
+- [big-five-inventory](../topics/big-five-inventory.md)
 - [music-preference](../topics/music-preference.md)
 - [musical-taste](../topics/musical-taste.md)

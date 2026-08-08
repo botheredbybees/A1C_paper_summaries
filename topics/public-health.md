@@ -4,6 +4,7 @@ domain: intervention
 slug: creative-arts-in-public-health
 sources:
   - fxa100-excellence-in-dementia-care--ch24-chapter-1
+  - fxa101-week00-group-nature-based-mindfulness-interventions-nature-based
   - fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities
   - fxa101-week04-brain-training-using-cognitive-apps-can-improve-cognitive
   - fxa101-week04-lesson-fxa101-week04-chapter-3-creativity-throughout-life
@@ -39,7 +40,7 @@ tags:
 - public-health
 title: Creative Arts in Public Health
 type: topic
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Creative Arts in Public Health
@@ -60,6 +61,7 @@ The integration of creative arts into public health interventions presents a mul
 ## Sources
 
 - [fxa100-excellence-in-dementia-care--ch24-chapter-1](../sources/fxa100-excellence-in-dementia-care--ch24-chapter-1.md)
+- [fxa101-week00-group-nature-based-mindfulness-interventions-nature-based](../sources/fxa101-week00-group-nature-based-mindfulness-interventions-nature-based.md)
 - [fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities](../sources/fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities.md)
 - [fxa101-week04-brain-training-using-cognitive-apps-can-improve-cognitive](../sources/fxa101-week04-brain-training-using-cognitive-apps-can-improve-cognitive.md)
 - [fxa101-week04-lesson-fxa101-week04-chapter-3-creativity-throughout-life](../sources/fxa101-week04-lesson-fxa101-week04-chapter-3-creativity-throughout-life.md)

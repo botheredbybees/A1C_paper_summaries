@@ -11,7 +11,7 @@ tags: ["artificial-intelligence", "human-creativity", "text-to-image-systems", "
 key_concepts: ["generative artificial intelligence", "Content Novelty", "Visual Novelty", "generative synesthesia"]
 methods: ["dataset analysis"]
 slug: fxa101-week02-generative-artificial-intelligence-human-creativity-and-art
-related: ["artificial-intelligence", "generative-artificial-intelligence"]
+related: ["artificial-intelligence", "generative-artificial-intelligence", "human-creativity"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -47,3 +47,4 @@ This paper explores the impact of generative artificial intelligence (AI) on hum
 
 - [artificial-intelligence](../topics/artificial-intelligence.md)
 - [generative-artificial-intelligence](../topics/generative-artificial-intelligence.md)
+- [human-creativity](../topics/human-creativity.md)

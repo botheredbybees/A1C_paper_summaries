@@ -7,8 +7,9 @@ tags: ["machine-learning"]
 sources:
   - fxa100-week13-emotion-recognition-from-multimodal-data-a-machine-learning
   - fxa100-week13-exploring-the-creative-personality-using-machine-learning
+  - fxa101-week00-automatic-species-identication-from-images-for-aotearoa
   - fxa202-week10-autostory-generating-diverse-storytelling-images-with
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Machine Learning Applications
@@ -29,4 +30,5 @@ Machine learning has been applied to a variety of domains with significant succe
 
 - [fxa100-week13-emotion-recognition-from-multimodal-data-a-machine-learning](../sources/fxa100-week13-emotion-recognition-from-multimodal-data-a-machine-learning.md)
 - [fxa100-week13-exploring-the-creative-personality-using-machine-learning](../sources/fxa100-week13-exploring-the-creative-personality-using-machine-learning.md)
+- [fxa101-week00-automatic-species-identication-from-images-for-aotearoa](../sources/fxa101-week00-automatic-species-identication-from-images-for-aotearoa.md)
 - [fxa202-week10-autostory-generating-diverse-storytelling-images-with](../sources/fxa202-week10-autostory-generating-diverse-storytelling-images-with.md)

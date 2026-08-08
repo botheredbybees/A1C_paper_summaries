@@ -3,6 +3,7 @@ confidence: medium
 domain: intervention
 slug: cultural-preservation
 sources:
+  - fxa101-week00-traditional-craft-conservation-and-technological-innovation
   - fxa301-make-arts-for-a-better-life-ch22-2-choose-a-master-of-the-genre
   - fxa301-make-arts-for-a-better-life-ch22-2-choose-a-master-of-the-genre-(2)
   - fxa303-week10-role-of-art-centres-for-aboriginal-australians-living-with
@@ -10,7 +11,7 @@ tags:
 - cultural-preservation
 title: Cultural Preservation
 type: topic
-updated: 2026-05-11
+updated: 2026-08-08
 ---
 
 ## Cultural Preservation
@@ -28,6 +29,7 @@ The concept of cultural preservation is explored through various methods aimed a
 
 ## Sources
 
+- [fxa101-week00-traditional-craft-conservation-and-technological-innovation](../sources/fxa101-week00-traditional-craft-conservation-and-technological-innovation.md)
 - [fxa301-make-arts-for-a-better-life-ch22-2-choose-a-master-of-the-genre](../sources/fxa301-make-arts-for-a-better-life-ch22-2-choose-a-master-of-the-genre.md)
 - [fxa301-make-arts-for-a-better-life-ch22-2-choose-a-master-of-the-genre-(2)](../sources/fxa301-make-arts-for-a-better-life-ch22-2-choose-a-master-of-the-genre-%282%29.md)
 - [fxa303-week10-role-of-art-centres-for-aboriginal-australians-living-with](../sources/fxa303-week10-role-of-art-centres-for-aboriginal-australians-living-with.md)

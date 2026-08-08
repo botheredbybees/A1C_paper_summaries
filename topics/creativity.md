@@ -3,6 +3,7 @@ confidence: medium
 domain: theory
 slug: creativity
 sources:
+  - fxa101-week00-association-between-haiku-poetry-creation-and-self
   - fxa101-week01-lesson-fxa101-week01-page-4-activities-for-week-1
   - fxa101-week02-lesson-fxa101-week02-chapter-3
   - fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities
@@ -17,7 +18,7 @@ tags:
 - creativity
 title: Creativity
 type: topic
-updated: 2026-08-03
+updated: 2026-08-08
 ---
 
 ## Creativity
@@ -36,6 +37,7 @@ The concept of creativity is examined across multiple perspectives in these sour
 
 ## Sources
 
+- [fxa101-week00-association-between-haiku-poetry-creation-and-self](../sources/fxa101-week00-association-between-haiku-poetry-creation-and-self.md)
 - [fxa101-week01-lesson-fxa101-week01-page-4-activities-for-week-1](../sources/fxa101-week01-lesson-fxa101-week01-page-4-activities-for-week-1.md)
 - [fxa101-week02-lesson-fxa101-week02-chapter-3](../sources/fxa101-week02-lesson-fxa101-week02-chapter-3.md)
 - [fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities](../sources/fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities.md)

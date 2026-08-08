@@ -7,6 +7,7 @@ updated: 2026-08-08
 ## Music Education
 
 - [Engaging in Community Music: An Introduction](../sources/fxa100-week04-engaging-in-community-music-an-introduction.md)
+- [Enhancing Pitch Perception and Melodic Reproduction of Hard-of-Hearing Individuals Using a Vibrotactile Glove](../sources/fxa101-week00-enhancing-pitch-perception-and-melodic-reproduction-of-hard.md)
 - [Childhood Music Training Induces Change in Micro and Macroscopic Brain Structure: Results from a Longitudinal Study](../sources/fxa101-week03-childhood-music-training-induces-change-in-micro-and.md)
 - [How Music Teaches Children to Create and Innovate](../sources/fxa101-week03-how-music-teaches-children-to-create-and-innovate.md)
 - [Increased engagement of the cognitive control network associated with music training in children during an fMRI Stroop task](../sources/fxa101-week03-increased-engagement-of-the-cognitive-control-network.md)

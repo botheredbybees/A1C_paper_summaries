@@ -11,7 +11,7 @@ tags: ["brain-decoding", "speech-comprehension", "noisy-environments", "auditory
 key_concepts: ["speech comprehension", "neural adaptation", "auditory experience influence"]
 methods: ["experiment"]
 slug: fxa300-week04-how-does-your-brain-decode-garbled-speech
-related: ["auditory-processing"]
+related: ["auditory-processing", "hearing-impairment"]
 created: 2026-07-28
 updated: 2026-07-28
 ---
@@ -44,3 +44,4 @@ This transcript explores how the human brain decodes difficult-to-understand spe
 ## See Also
 
 - [auditory-processing](../topics/auditory-processing.md)
+- [hearing-impairment](../topics/hearing-impairment.md)

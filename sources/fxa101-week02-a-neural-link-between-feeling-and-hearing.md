@@ -11,7 +11,7 @@ tags: ["neural-connectivity", "multisensory-integration", "auditory-processing",
 key_concepts: ["diffusion-tensor-imaging", "anatomical-connections", "cross-modal-interactions"]
 methods: ["diffusion-tensor-imaging"]
 slug: fxa101-week02-a-neural-link-between-feeling-and-hearing
-related: ["auditory-processing", "neural-connectivity", "synesthesia-research"]
+related: ["auditory-processing", "multisensory-integration", "neural-connectivity", "synesthesia-research"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -45,5 +45,6 @@ This study explores the anatomical connectivity between auditory and somatosenso
 ## See Also
 
 - [auditory-processing](../topics/auditory-processing.md)
+- [multisensory-integration](../topics/multisensory-integration.md)
 - [neural-connectivity](../topics/neural-connectivity.md)
 - [synesthesia-research](../topics/synesthesia-research.md)

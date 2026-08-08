@@ -17,6 +17,7 @@ updated: 2026-08-08
 - [Week 8 Lecture on Arts Therapy and Dementia Care](../sources/fxa100-week08-week-8-lecture-on-arts-therapy-and-dementia-care.md)
 - [The Impact of TimeSlips, a Creative Expression Intervention Program, on Nursing Home Residents With Dementia and their Caregivers](../sources/fxa100-week10-the-impact-of-timeslips-a-creative-expression-intervention.md)
 - [Exploring nature-based art therapy: a scoping review](../sources/fxa100-week12-exploring-nature-based-art-therapy-a-scoping-review.md)
+- [Crafting Wellbeing: Exploring the Link Between Textile Craft and Wellbeing](../sources/fxa101-week00-crafting-wellbeing-exploring-the-link-between-textile-craft.md)
 - [What Sort of Creative Are You?](../sources/fxa101-week02-what-sort-of-creative-are-you.md)
 - [Improve Your Photography Skills with These 9 Photo Composition Tips by Steve McCurry](../sources/fxa202-week02-improve-your-photography-skills-with-these-9-photo.md)
 - [Can Photography Help Depression?](../sources/fxa202-week03-can-photography-help-depression-%282%29.md)

@@ -5,9 +5,10 @@ title: "Pitch Perception in Music Cognition"
 confidence: medium
 tags: ["pitch-perception"]
 sources:
+  - fxa101-week00-enhancing-pitch-perception-and-melodic-reproduction-of-hard
   - fxa300-week03-consonance-and-pitch
   - fxa300-week03-lesson-fxa300-week03-music-and-processing-1
-updated: 2026-07-21
+updated: 2026-08-08
 ---
 
 ## Pitch Perception in Music Cognition
@@ -26,5 +27,6 @@ The concept of pitch perception is foundational to understanding music cognition
 
 ## Sources
 
+- [fxa101-week00-enhancing-pitch-perception-and-melodic-reproduction-of-hard](../sources/fxa101-week00-enhancing-pitch-perception-and-melodic-reproduction-of-hard.md)
 - [fxa300-week03-consonance-and-pitch](../sources/fxa300-week03-consonance-and-pitch.md)
 - [fxa300-week03-lesson-fxa300-week03-music-and-processing-1](../sources/fxa300-week03-lesson-fxa300-week03-music-and-processing-1.md)

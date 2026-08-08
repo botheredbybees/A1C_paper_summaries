@@ -3,6 +3,7 @@ confidence: medium
 domain: method
 slug: cultural-studies-and-applied-music
 sources:
+  - fxa101-week00-art-and-place-crossing-borders-in-the-work-of-perejaume
   - fxa301-make-arts-for-a-better-life-ch42-156-oxford
   - fxa301-week01-culture-of-inquiry
   - fxa301-week10-advances-in-flow-research
@@ -12,7 +13,7 @@ tags:
 - cultural-studies
 title: Cultural Studies and Applied Music
 type: topic
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 ## Cultural Studies and Applied Music
@@ -31,6 +32,7 @@ This synthesis explores the intersection of cultural studies with applied music 
 
 ## Sources
 
+- [fxa101-week00-art-and-place-crossing-borders-in-the-work-of-perejaume](../sources/fxa101-week00-art-and-place-crossing-borders-in-the-work-of-perejaume.md)
 - [fxa301-make-arts-for-a-better-life-ch42-156-oxford](../sources/fxa301-make-arts-for-a-better-life-ch42-156-oxford.md)
 - [fxa301-week01-culture-of-inquiry](../sources/fxa301-week01-culture-of-inquiry.md)
 - [fxa301-week10-advances-in-flow-research](../sources/fxa301-week10-advances-in-flow-research.md)
