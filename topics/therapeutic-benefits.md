@@ -16,6 +16,7 @@ sources:
   - fxa300-week02-music-stimulates-muscles-mind-and-feelings-in-one-go
   - fxa300-week05-music-helps-heal-mind-body-and-spirit
   - fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our
+  - fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness-(2)
   - fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes
   - fxa301-week06-further-evidence-that-singing-fosters-mental-health-and
   - fxa301-week11-arts-and-refugees-multidisciplinary-perspectives-vol-2
@@ -27,7 +28,7 @@ tags:
 - therapeutic-benefits
 title: Music Therapy
 type: topic
-updated: 2026-08-07
+updated: 2026-08-10
 ---
 
 ## Music Therapy
@@ -59,6 +60,7 @@ The documents collectively emphasize the profound therapeutic potential of music
 - [fxa300-week02-music-stimulates-muscles-mind-and-feelings-in-one-go](../sources/fxa300-week02-music-stimulates-muscles-mind-and-feelings-in-one-go.md)
 - [fxa300-week05-music-helps-heal-mind-body-and-spirit](../sources/fxa300-week05-music-helps-heal-mind-body-and-spirit.md)
 - [fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our](../sources/fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our.md)
+- [fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness-(2)](../sources/fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness-%282%29.md)
 - [fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes](../sources/fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes.md)
 - [fxa301-week06-further-evidence-that-singing-fosters-mental-health-and](../sources/fxa301-week06-further-evidence-that-singing-fosters-mental-health-and.md)
 - [fxa301-week11-arts-and-refugees-multidisciplinary-perspectives-vol-2](../sources/fxa301-week11-arts-and-refugees-multidisciplinary-perspectives-vol-2.md)

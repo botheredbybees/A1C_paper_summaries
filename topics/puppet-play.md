@@ -4,12 +4,13 @@ domain: intervention
 slug: puppet-play-therapy
 sources:
   - fxa303-puppet-play-therapy-ch10-chapter-2
+  - fxa303-week06-mr-fox-is-sad-puppets-as-symbolic-clients-in-the-playroom
   - fxa303-week06-virtual-puppet-play-therapy
 tags:
 - puppet-play
 title: Puppet Play Therapy
 type: topic
-updated: 2026-05-11
+updated: 2026-08-10
 ---
 
 ## Puppet Play Therapy
@@ -29,4 +30,5 @@ Puppet play therapy emerges as a versatile and engaging intervention that levera
 ## Sources
 
 - [fxa303-puppet-play-therapy-ch10-chapter-2](../sources/fxa303-puppet-play-therapy-ch10-chapter-2.md)
+- [fxa303-week06-mr-fox-is-sad-puppets-as-symbolic-clients-in-the-playroom](../sources/fxa303-week06-mr-fox-is-sad-puppets-as-symbolic-clients-in-the-playroom.md)
 - [fxa303-week06-virtual-puppet-play-therapy](../sources/fxa303-week06-virtual-puppet-play-therapy.md)

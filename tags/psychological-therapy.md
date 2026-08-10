@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychological-therapy
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Psychological Therapy

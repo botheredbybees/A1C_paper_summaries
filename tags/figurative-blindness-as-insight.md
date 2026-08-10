@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: figurative-blindness-as-insight
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Figurative Blindness As Insight

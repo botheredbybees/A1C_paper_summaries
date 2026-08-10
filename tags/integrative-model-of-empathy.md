@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: integrative-model-of-empathy
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Integrative Model Of Empathy

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: medical-accuracy-in-media
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Medical Accuracy In Media

@@ -3,12 +3,14 @@ confidence: low
 domain: intervention
 slug: music-training
 sources:
-- fxa301-week02-the-influence-of-stress-optimism-and-music-training-on
+  - fxa101-week03-effects-of-music-training-on-inhibitory-control-and
+  - fxa300-week06-does-music-training-enhance-working-memory-performance
+  - fxa301-week02-the-influence-of-stress-optimism-and-music-training-on
 tags:
 - music-training
 title: Music Training
 type: topic
-updated: 2026-05-04
+updated: 2026-08-10
 ---
 
 ## Music Training
@@ -27,4 +29,6 @@ The integration of findings across the provided sources highlights that music tr
 
 ## Sources
 
+- [fxa101-week03-effects-of-music-training-on-inhibitory-control-and](../sources/fxa101-week03-effects-of-music-training-on-inhibitory-control-and.md)
+- [fxa300-week06-does-music-training-enhance-working-memory-performance](../sources/fxa300-week06-does-music-training-enhance-working-memory-performance.md)
 - [fxa301-week02-the-influence-of-stress-optimism-and-music-training-on](../sources/fxa301-week02-the-influence-of-stress-optimism-and-music-training-on.md)

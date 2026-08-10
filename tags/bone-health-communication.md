@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: bone-health-communication
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Bone Health Communication

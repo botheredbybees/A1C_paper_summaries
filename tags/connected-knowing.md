@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: connected-knowing
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Connected Knowing

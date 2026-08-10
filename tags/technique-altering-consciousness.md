@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: technique-altering-consciousness
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Technique Altering Consciousness

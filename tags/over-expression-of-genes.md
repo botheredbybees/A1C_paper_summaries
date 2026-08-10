@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: over-expression-of-genes
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Over Expression Of Genes

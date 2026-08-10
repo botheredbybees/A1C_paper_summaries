@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: well-being
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Well Being
@@ -29,4 +29,6 @@ updated: 2026-08-08
 - [Social isolation and connectedness as determinants of well-being: Global evidence mapping focused on LGBTQ youth](../sources/fxa303-week11-social-isolation-and-connectedness-as-determinants-of-well.md)
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness - Well-being and Happiness](../sources/psy214-week02-lesson-psy214-week02-week-3-introduction.md)
 - [Positive Emotions and Well-being](../sources/psy214-week02-positive-emotions-and-well-being.md)
+- [Physical Activity and Nature Engagement](../sources/psy214-week06-lesson-psy214-week06-week-5-introduction.md)
+- [The Connectedness to Nature Scale (CNS)](../sources/psy214-week06-the-connectedness-to-nature-scale-cns.md)
 - [Mindfulness-Based Social Work and Self-Care with Social Work Professionals: Replication and Expansion of a Randomised Controlled Trial](../sources/psy214-week07-mindfulness-based-social-work-and-self-care-with-social.md)

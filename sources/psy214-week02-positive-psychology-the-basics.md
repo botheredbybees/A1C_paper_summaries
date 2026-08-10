@@ -11,7 +11,7 @@ tags: ["positive-psychology", "well-being-theory", "resilience-building", "happi
 key_concepts: ["well-being", "character-strengths-and-virtues", "posttraumatic-growth"]
 methods: ["literature-review"]
 slug: psy214-week02-positive-psychology-the-basics
-related: ["positive-psychology", "resilience-building", "well-being-theory"]
+related: ["happiness-research", "positive-psychology", "resilience-building", "well-being-theory"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -43,6 +43,7 @@ The text discusses the book 'Positive Psychology: The Basics' by Dr. Rona Hart, 
 
 ## See Also
 
+- [happiness-research](../topics/happiness-research.md)
 - [positive-psychology](../topics/positive-psychology.md)
 - [resilience-building](../topics/resilience-building.md)
 - [well-being-theory](../topics/well-being-theory.md)

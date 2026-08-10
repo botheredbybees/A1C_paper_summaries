@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: word-pair-learning
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Word Pair Learning

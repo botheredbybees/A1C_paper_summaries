@@ -9,7 +9,8 @@ sources:
   - fxa300-week03-musicians-and-nonmusicians-short-term-memory-for-verbal-and
   - fxa300-week03-the-phonological-loop-as-a-language-learning-device
   - fxa300-week03-transcript-visit-in-new-window
-updated: 2026-07-21
+  - fxa300-week06-does-music-training-enhance-working-memory-performance
+updated: 2026-08-10
 ---
 
 ## Phonological Loop
@@ -32,3 +33,4 @@ The phonological loop is a key component within the broader theoretical framewor
 - [fxa300-week03-musicians-and-nonmusicians-short-term-memory-for-verbal-and](../sources/fxa300-week03-musicians-and-nonmusicians-short-term-memory-for-verbal-and.md)
 - [fxa300-week03-the-phonological-loop-as-a-language-learning-device](../sources/fxa300-week03-the-phonological-loop-as-a-language-learning-device.md)
 - [fxa300-week03-transcript-visit-in-new-window](../sources/fxa300-week03-transcript-visit-in-new-window.md)
+- [fxa300-week06-does-music-training-enhance-working-memory-performance](../sources/fxa300-week06-does-music-training-enhance-working-memory-performance.md)

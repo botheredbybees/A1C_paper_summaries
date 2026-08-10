@@ -11,7 +11,7 @@ tags: ["psychological-wellbeing", "theoretical-models", "personality-assessment"
 key_concepts: ["six-factor-model-of-well-being", "ryff-scales-of-psychological-well-being", "construct-oriented-approach"]
 methods: ["factorial-validity-studies", "intervention-studies"]
 slug: psy214-week02-best-news-yet-on-the-six-factor-model-of-well-being
-related: ["psychological-wellbeing"]
+related: ["psychological-wellbeing", "theoretical-models"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -44,3 +44,4 @@ This commentary addresses Springer and Hauser's critique of Ryff’s six-factor 
 ## See Also
 
 - [psychological-wellbeing](../topics/psychological-wellbeing.md)
+- [theoretical-models](../topics/theoretical-models.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: gray-matter-changes
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Gray Matter Changes

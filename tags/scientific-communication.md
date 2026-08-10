@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: scientific-communication
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Scientific Communication

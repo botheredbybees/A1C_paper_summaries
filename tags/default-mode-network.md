@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: default-mode-network
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Default Mode Network

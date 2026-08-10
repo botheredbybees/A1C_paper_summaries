@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: chronological-aging
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Chronological Aging

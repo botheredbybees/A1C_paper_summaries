@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-art-and-dementia
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Visual Art And Dementia

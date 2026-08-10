@@ -11,7 +11,7 @@ tags: ["brain-activity", "expertise-neurology", "f-mri-study", "artistic-process
 key_concepts: ["functional-magnetic-resonance-imaging", "neurological-basis-of-expertise", "visual-information-processing"]
 methods: ["fMRI study", "eye-tracking"]
 slug: fxa100-week06-brain-activities-in-a-skilled-versus-a-novice-artist-an
-related: ["artistic-process", "f-mri-study"]
+related: ["artistic-process", "brain-activity", "f-mri-study"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,4 +44,5 @@ The study by Solso investigates the brain activity of a skilled portrait artist,
 ## See Also
 
 - [artistic-process](../topics/artistic-process.md)
+- [brain-activity](../topics/brain-activity.md)
 - [f-mri-study](../topics/f-mri-study.md)

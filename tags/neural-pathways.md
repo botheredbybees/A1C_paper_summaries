@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neural-pathways
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Neural Pathways
@@ -13,6 +13,7 @@ updated: 2026-08-08
 - [How to Develop the Art of Seeing Through Mindful Photography](../sources/fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography.md)
 - [The Brain Atlas: A Visual Guide to the Human Central Nervous System](../sources/fxa300-week02-the-brain-atlas-a-visual-guide-to-the-human-central-nervous.md)
 - [Music and Memory: Intersecting the two](../sources/fxa300-week03-lesson-fxa300-week03-page-4-music-and-memory.md)
+- [Neural Pathways Underlying the Production of Pitch and Rhythm in Aphasia](../sources/fxa300-week06-neural-pathways-underlying-the-production-of-pitch-and.md)
 - [FXA303 Week 2: Introduction to Child Development and Play](../sources/fxa303-week02-fxa303-week-2-introduction-to-child-development-and-play.md)
 - [FXA303 Week 3: Introduction to Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental.md)
 - [FXA303 Week 3 Introduction](../sources/fxa303-week03-fxa303-week-3-introduction.md)

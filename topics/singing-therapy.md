@@ -5,13 +5,14 @@ slug: singing-therapy
 sources:
   - fxa100-week04-singing-and-participation-(2)
   - fxa100-week04-singing-and-the-brain-(2)
+  - fxa300-week06-neural-pathways-underlying-the-production-of-pitch-and
   - fxa301-week06-the-ice-breaker-effect-singing-mediates-fast-social-bonding
   - fxa301-week09-facing-the-music-three-issues-in-current-research-on
 tags:
 - singing-therapy
 title: Singing Therapy
 type: topic
-updated: 2026-08-07
+updated: 2026-08-10
 ---
 
 ## Singing Therapy
@@ -31,5 +32,6 @@ The efficacy of singing therapy is highlighted across various studies focusing o
 
 - [fxa100-week04-singing-and-participation-(2)](../sources/fxa100-week04-singing-and-participation-%282%29.md)
 - [fxa100-week04-singing-and-the-brain-(2)](../sources/fxa100-week04-singing-and-the-brain-%282%29.md)
+- [fxa300-week06-neural-pathways-underlying-the-production-of-pitch-and](../sources/fxa300-week06-neural-pathways-underlying-the-production-of-pitch-and.md)
 - [fxa301-week06-the-ice-breaker-effect-singing-mediates-fast-social-bonding](../sources/fxa301-week06-the-ice-breaker-effect-singing-mediates-fast-social-bonding.md)
 - [fxa301-week09-facing-the-music-three-issues-in-current-research-on](../sources/fxa301-week09-facing-the-music-three-issues-in-current-research-on.md)

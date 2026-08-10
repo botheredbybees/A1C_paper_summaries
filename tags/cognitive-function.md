@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-function
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Cognitive Function
@@ -21,3 +21,4 @@ updated: 2026-08-08
 - [Building Herself a Better Brain: A Woman Labeled \u201cRetarded\u201d Discovers How to Heal Herself](../sources/fxa101-week02-building-herself-a-better-brain-a-woman-labeled-retarded.md)
 - [The use of commercial computerised cognitive games in older adults: a meta-analysis](../sources/fxa101-week04-the-use-of-commercial-computerised-cognitive-games-in-older.md)
 - [Cognitive Exercise and Its Role in Cognitive Function in Older Adults](../sources/fxa101-week04-web-article-gates-2010.md)
+- [The Effects of Acute Exercise on Mood, Cognition, Neurophysiology, and Neurochemical Pathways: A Review](../sources/psy214-week06-the-effects-of-acute-exercise-on-mood-cognition.md)

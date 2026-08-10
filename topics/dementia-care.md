@@ -245,11 +245,17 @@ sources:
   - fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family
   - fxa300-week03-a-focus-on-the-reminiscence-bump-to-personalize-music
   - fxa300-week03-exploring-the-experiences-of-a-person-with-dementia-and
+  - fxa300-week06-a-case-study-on-a-home-based-caregiver-delivered-music-with
+  - fxa300-week06-homesidea-home-based-family-caregiver-delivered-music-and
+  - fxa300-week06-in-home-online-music-based-intervention-for-stress-coping
+  - fxa300-week06-preferred-music-listening-for-people-living-with-dementia
+  - fxa300-week06-statistical-analysis-plan-for-home-based-caregiver
   - fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment
   - fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1
   - fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2
   - fxa302-week01-shared-music-listening
   - fxa302-week01-visual-arts
+  - fxa302-week06-visual-art-and-transformation-(2)
   - fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a
   - fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an
   - fxa303-week08-therapeutic-clowning
@@ -277,7 +283,7 @@ tags:
 - dementia-care
 title: Dementia Care Interventions
 type: topic
-updated: 2026-08-07
+updated: 2026-08-10
 ---
 
 ## Dementia Care Interventions
@@ -538,11 +544,17 @@ The integration of creative arts and technology in dementia care reveals diverse
 - [fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family](../sources/fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family.md)
 - [fxa300-week03-a-focus-on-the-reminiscence-bump-to-personalize-music](../sources/fxa300-week03-a-focus-on-the-reminiscence-bump-to-personalize-music.md)
 - [fxa300-week03-exploring-the-experiences-of-a-person-with-dementia-and](../sources/fxa300-week03-exploring-the-experiences-of-a-person-with-dementia-and.md)
+- [fxa300-week06-a-case-study-on-a-home-based-caregiver-delivered-music-with](../sources/fxa300-week06-a-case-study-on-a-home-based-caregiver-delivered-music-with.md)
+- [fxa300-week06-homesidea-home-based-family-caregiver-delivered-music-and](../sources/fxa300-week06-homesidea-home-based-family-caregiver-delivered-music-and.md)
+- [fxa300-week06-in-home-online-music-based-intervention-for-stress-coping](../sources/fxa300-week06-in-home-online-music-based-intervention-for-stress-coping.md)
+- [fxa300-week06-preferred-music-listening-for-people-living-with-dementia](../sources/fxa300-week06-preferred-music-listening-for-people-living-with-dementia.md)
+- [fxa300-week06-statistical-analysis-plan-for-home-based-caregiver](../sources/fxa300-week06-statistical-analysis-plan-for-home-based-caregiver.md)
 - [fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment.md)
 - [fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1](../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1.md)
 - [fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2](../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2.md)
 - [fxa302-week01-shared-music-listening](../sources/fxa302-week01-shared-music-listening.md)
 - [fxa302-week01-visual-arts](../sources/fxa302-week01-visual-arts.md)
+- [fxa302-week06-visual-art-and-transformation-(2)](../sources/fxa302-week06-visual-art-and-transformation-%282%29.md)
 - [fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a](../sources/fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a.md)
 - [fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an](../sources/fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an.md)
 - [fxa303-week08-therapeutic-clowning](../sources/fxa303-week08-therapeutic-clowning.md)

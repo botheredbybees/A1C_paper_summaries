@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: behavioral-symptoms
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Behavioral Symptoms
@@ -13,6 +13,7 @@ updated: 2026-08-08
 - [Behavioral and Psychological Signs and Symptoms of Dementia: A Consensus Statement on Current Knowledge and Implications for Research and Treatment](../sources/fxa100-week13-behavioral-and-psychological-signs-and-symptoms-of-dementia.md)
 - [Impact of dance interventions on the symptoms of dementia: A mixed-methods systematic review](../sources/fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a.md)
 - [Non-pharmacological Interventions to Reduce Behavioral and Psychological Symptoms of Dementia](../sources/fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and.md)
+- [Statistical analysis plan for HOME-based caregiver-delivered music intervention for people living with dementia (HOMESIDE) trial](../sources/fxa300-week06-statistical-analysis-plan-for-home-based-caregiver.md)
 - [Elder-Clowning in Long-Term Dementia Care: Results of a Pilot Study](../sources/fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a.md)
 - [Causes of nursing home placement for older people with dementia: a systematic review and meta-analysis](../sources/fxa303-week13-causes-of-nursing-home-placement-for-older-people-with.md)
 - [Intervention of companion clowns in a special care unit: a 1-year pilot study](../sources/fxa303-week13-intervention-of-companion-clowns-in-a-special-care-unit-a-1.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: expressive-therapies-continuum
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Expressive Therapies Continuum

@@ -31,11 +31,12 @@ sources:
   - fxa301-week03-week-3-introduction-arts-in-the-community-for-health-and
   - fxa301-week05-submission-to-the-nsw-health-and-wellbeing-strategy
   - fxa302-week01-fxa302-week-1-introduction
+  - fxa302-week06-lesson-fxa302-week06-welcome-to-week-6
 tags:
 - arts-and-health
 title: Arts and Health
 type: topic
-updated: 2026-08-07
+updated: 2026-08-10
 ---
 
 ## Arts and Health
@@ -82,3 +83,4 @@ The integration of arts into health practices is a multifaceted intervention tha
 - [fxa301-week03-week-3-introduction-arts-in-the-community-for-health-and](../sources/fxa301-week03-week-3-introduction-arts-in-the-community-for-health-and.md)
 - [fxa301-week05-submission-to-the-nsw-health-and-wellbeing-strategy](../sources/fxa301-week05-submission-to-the-nsw-health-and-wellbeing-strategy.md)
 - [fxa302-week01-fxa302-week-1-introduction](../sources/fxa302-week01-fxa302-week-1-introduction.md)
+- [fxa302-week06-lesson-fxa302-week06-welcome-to-week-6](../sources/fxa302-week06-lesson-fxa302-week06-welcome-to-week-6.md)

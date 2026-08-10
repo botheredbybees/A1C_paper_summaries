@@ -9,12 +9,13 @@ sources:
   - fxa301-make-arts-for-a-better-life-ch42-156-oxford
   - fxa301-week01-transcript-for-this-weeks-e-tivity-you-should-watch-the
   - fxa301-week06-case-studies-of-community-projects-big-noise-sistema
+  - fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation-(2)
   - fxa301-week06-playing-for-their-lives-the-global-el-sistema-movement-for
 tags:
 - community-development
 title: Community Development through Arts and Music
 type: topic
-updated: 2026-05-11
+updated: 2026-08-10
 ---
 
 ## Community Development through Arts and Music
@@ -39,4 +40,5 @@ The integration of arts and music into community development initiatives is expl
 - [fxa301-make-arts-for-a-better-life-ch42-156-oxford](../sources/fxa301-make-arts-for-a-better-life-ch42-156-oxford.md)
 - [fxa301-week01-transcript-for-this-weeks-e-tivity-you-should-watch-the](../sources/fxa301-week01-transcript-for-this-weeks-e-tivity-you-should-watch-the.md)
 - [fxa301-week06-case-studies-of-community-projects-big-noise-sistema](../sources/fxa301-week06-case-studies-of-community-projects-big-noise-sistema.md)
+- [fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation-(2)](../sources/fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation-%282%29.md)
 - [fxa301-week06-playing-for-their-lives-the-global-el-sistema-movement-for](../sources/fxa301-week06-playing-for-their-lives-the-global-el-sistema-movement-for.md)

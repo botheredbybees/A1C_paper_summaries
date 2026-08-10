@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mixed-media-art
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Mixed Media Art

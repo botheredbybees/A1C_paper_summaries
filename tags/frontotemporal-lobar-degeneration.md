@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: frontotemporal-lobar-degeneration
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Frontotemporal Lobar Degeneration

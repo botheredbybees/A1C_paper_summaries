@@ -7,7 +7,8 @@ tags: ["music-and-health"]
 sources:
   - fxa100-week02-transcript-duration-631
   - fxa300-week05-rene-flemings-music-and-mind
-updated: 2026-08-07
+  - fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness-(2)
+updated: 2026-08-10
 ---
 
 ## Music And Health
@@ -27,3 +28,4 @@ The role of music in enhancing health outcomes is a multifaceted area that lever
 
 - [fxa100-week02-transcript-duration-631](../sources/fxa100-week02-transcript-duration-631.md)
 - [fxa300-week05-rene-flemings-music-and-mind](../sources/fxa300-week05-rene-flemings-music-and-mind.md)
+- [fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness-(2)](../sources/fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness-%282%29.md)

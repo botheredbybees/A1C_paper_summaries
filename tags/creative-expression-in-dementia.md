@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-expression-in-dementia
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Creative Expression In Dementia

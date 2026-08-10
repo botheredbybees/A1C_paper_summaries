@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: portrait-intervention
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Portrait Intervention

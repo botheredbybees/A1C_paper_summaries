@@ -15,7 +15,9 @@ sources:
   - fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy
   - fxa303-week05-week-5-overview-fxa303-creative-arts-play-and-mental
   - fxa303-week06-mr-fox-is-sad
+  - fxa303-week06-puppet-assisted-play-therapy
   - fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice
+  - fxa303-week06-puppet-play-therapy-a-practical-guidebook-section-iv-puppet
   - fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for
   - fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand
   - fxa303-week09-art-therapy-with-children-and-adolescents-experiencing
@@ -25,7 +27,7 @@ tags:
 - child-psychology
 title: Puppet-Assisted Play Therapy for Children
 type: topic
-updated: 2026-08-07
+updated: 2026-08-10
 ---
 
 ## Puppet-Assisted Play Therapy for Children
@@ -56,7 +58,9 @@ Puppet-assisted play therapy emerges as a versatile intervention in child psycho
 - [fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy](../sources/fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy.md)
 - [fxa303-week05-week-5-overview-fxa303-creative-arts-play-and-mental](../sources/fxa303-week05-week-5-overview-fxa303-creative-arts-play-and-mental.md)
 - [fxa303-week06-mr-fox-is-sad](../sources/fxa303-week06-mr-fox-is-sad.md)
+- [fxa303-week06-puppet-assisted-play-therapy](../sources/fxa303-week06-puppet-assisted-play-therapy.md)
 - [fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice](../sources/fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice.md)
+- [fxa303-week06-puppet-play-therapy-a-practical-guidebook-section-iv-puppet](../sources/fxa303-week06-puppet-play-therapy-a-practical-guidebook-section-iv-puppet.md)
 - [fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for](../sources/fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for.md)
 - [fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand](../sources/fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand.md)
 - [fxa303-week09-art-therapy-with-children-and-adolescents-experiencing](../sources/fxa303-week09-art-therapy-with-children-and-adolescents-experiencing.md)

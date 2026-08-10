@@ -7,7 +7,8 @@ tags: ["museum-accessibility"]
 sources:
   - fxa301-week11-best-practice-in-making-museums-more-accessible-to-visually
   - fxa301-week11-louvre-abu-dhabi-tactile-studio-inclusive-design-agency
-updated: 2026-08-07
+  - fxa302-week06-beyond-do-not-touch-the-experience-of-a-three-dimensional
+updated: 2026-08-10
 ---
 
 ## Museum Accessibility for Visually Impaired Visitors
@@ -28,3 +29,4 @@ The integration of best practices for making museums more accessible to visually
 
 - [fxa301-week11-best-practice-in-making-museums-more-accessible-to-visually](../sources/fxa301-week11-best-practice-in-making-museums-more-accessible-to-visually.md)
 - [fxa301-week11-louvre-abu-dhabi-tactile-studio-inclusive-design-agency](../sources/fxa301-week11-louvre-abu-dhabi-tactile-studio-inclusive-design-agency.md)
+- [fxa302-week06-beyond-do-not-touch-the-experience-of-a-three-dimensional](../sources/fxa302-week06-beyond-do-not-touch-the-experience-of-a-three-dimensional.md)

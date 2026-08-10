@@ -11,7 +11,7 @@ tags: ["visual-arts-health", "medical-illustration", "health-humanities", "educa
 key_concepts: ["close-observation-skills", "patient-care-improvement"]
 methods: ["case-study"]
 slug: fxa302-week03-fxa302-week-3-welcome
-related: ["education-methods", "health-humanities", "medical-illustration"]
+related: ["education-methods", "health-humanities", "medical-illustration", "visual-arts-health"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -45,3 +45,4 @@ This document introduces Week 3 of the FXA302 course, focusing on intersections 
 - [education-methods](../topics/education-methods.md)
 - [health-humanities](../topics/health-humanities.md)
 - [medical-illustration](../topics/medical-illustration.md)
+- [visual-arts-health](../topics/visual-arts-health.md)

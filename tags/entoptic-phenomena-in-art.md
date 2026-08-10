@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: entoptic-phenomena-in-art
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Entoptic Phenomena In Art

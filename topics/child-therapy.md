@@ -8,11 +8,12 @@ sources:
   - fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)
   - fxa303-week04-intensive-child-centered-play-therapy-for-children-on-the
   - fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children
+  - fxa303-week06-mr-fox-is-sad-puppets-as-symbolic-clients-in-the-playroom
 tags:
 - child-therapy
 title: Child-Centered Play Therapy for Autism
 type: topic
-updated: 2026-05-11
+updated: 2026-08-10
 ---
 
 ## Child-Centered Play Therapy for Autism
@@ -36,3 +37,4 @@ The synthesis of the provided sources highlights Child-Centered Play Therapy (CC
 - [fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)](../sources/fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-%282%29.md)
 - [fxa303-week04-intensive-child-centered-play-therapy-for-children-on-the](../sources/fxa303-week04-intensive-child-centered-play-therapy-for-children-on-the.md)
 - [fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children](../sources/fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children.md)
+- [fxa303-week06-mr-fox-is-sad-puppets-as-symbolic-clients-in-the-playroom](../sources/fxa303-week06-mr-fox-is-sad-puppets-as-symbolic-clients-in-the-playroom.md)

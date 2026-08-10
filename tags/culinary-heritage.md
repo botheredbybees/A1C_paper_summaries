@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: culinary-heritage
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Culinary Heritage

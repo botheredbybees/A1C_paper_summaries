@@ -10,6 +10,7 @@ sources:
   - fxa202-week10-brain-research-shows-the-arts-promote-mental-health
   - fxa202-week13-development-and-validation-of-a-mobile-phone-photography
   - fxa300-week01-how-music-affects-your-brain
+  - fxa300-week06-does-music-training-enhance-working-memory-performance
   - fxa302-week03-visual-thinking-strategy
   - fxa303-week02-developmental-role-of-creative-arts-and-play
   - fxa303-week02-theories-of-development-in-dialog-with-jean-piaget
@@ -19,7 +20,7 @@ tags:
 - cognitive-development
 title: Cognitive Development
 type: topic
-updated: 2026-08-07
+updated: 2026-08-10
 ---
 
 ## Cognitive Development
@@ -45,6 +46,7 @@ The topic of cognitive development integrates several influential theoretical pe
 - [fxa202-week10-brain-research-shows-the-arts-promote-mental-health](../sources/fxa202-week10-brain-research-shows-the-arts-promote-mental-health.md)
 - [fxa202-week13-development-and-validation-of-a-mobile-phone-photography](../sources/fxa202-week13-development-and-validation-of-a-mobile-phone-photography.md)
 - [fxa300-week01-how-music-affects-your-brain](../sources/fxa300-week01-how-music-affects-your-brain.md)
+- [fxa300-week06-does-music-training-enhance-working-memory-performance](../sources/fxa300-week06-does-music-training-enhance-working-memory-performance.md)
 - [fxa302-week03-visual-thinking-strategy](../sources/fxa302-week03-visual-thinking-strategy.md)
 - [fxa303-week02-developmental-role-of-creative-arts-and-play](../sources/fxa303-week02-developmental-role-of-creative-arts-and-play.md)
 - [fxa303-week02-theories-of-development-in-dialog-with-jean-piaget](../sources/fxa303-week02-theories-of-development-in-dialog-with-jean-piaget.md)

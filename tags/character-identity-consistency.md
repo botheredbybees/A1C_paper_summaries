@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: character-identity-consistency
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Character Identity Consistency

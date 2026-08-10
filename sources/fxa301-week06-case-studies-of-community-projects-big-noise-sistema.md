@@ -11,7 +11,7 @@ tags: ["music-education", "community-development", "socioeconomic-factors", "you
 key_concepts: ["Sistema Scotland", "Big Noise programme", "educational performance", "health and wellbeing"]
 methods: ["case study"]
 slug: fxa301-week06-case-studies-of-community-projects-big-noise-sistema
-related: ["community-development", "music-education"]
+related: ["community-development", "music-education", "social-impact", "socioeconomic-factors"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,3 +46,5 @@ This document discusses the 'Big Noise' programme under Sistema Scotland, a soci
 
 - [community-development](../topics/community-development.md)
 - [music-education](../topics/music-education.md)
+- [social-impact](../topics/social-impact.md)
+- [socioeconomic-factors](../topics/socioeconomic-factors.md)

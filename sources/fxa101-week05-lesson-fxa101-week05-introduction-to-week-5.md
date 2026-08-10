@@ -11,7 +11,7 @@ tags: ["creativity-development", "creative-constraints", "psychology-of-creativi
 key_concepts: ["scarcity-salience", "patricia-stokes-model", "expert-artists-decision-making"]
 methods: []
 slug: fxa101-week05-lesson-fxa101-week05-introduction-to-week-5
-related: ["creative-constraints", "creativity-development", "innovation-strategies"]
+related: ["creative-constraints", "creativity-development", "innovation-strategies", "scarcity-salience"]
 created: 2026-08-03
 updated: 2026-08-03
 ---
@@ -46,3 +46,4 @@ Week 5 of the FXA101 Creativity and Ageing course introduces Module 2 with a pra
 - [creative-constraints](../topics/creative-constraints.md)
 - [creativity-development](../topics/creativity-development.md)
 - [innovation-strategies](../topics/innovation-strategies.md)
+- [scarcity-salience](../topics/scarcity-salience.md)

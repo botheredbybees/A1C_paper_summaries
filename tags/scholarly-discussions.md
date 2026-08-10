@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: scholarly-discussions
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Scholarly Discussions

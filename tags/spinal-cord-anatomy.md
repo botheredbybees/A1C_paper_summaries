@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: spinal-cord-anatomy
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Spinal Cord Anatomy

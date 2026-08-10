@@ -11,7 +11,7 @@ tags: ["creativity-constraints", "artistic-innovation", "problem-solving-strateg
 key_concepts: ["paired constraints", "novel solutions", "creative expression"]
 methods: ["case study"]
 slug: fxa101-week05-creativity-from-constraints-what-can-we-learn-from
-related: ["healthcare-innovation", "paired-constraints"]
+related: ["creativity-constraints", "healthcare-innovation", "paired-constraints"]
 created: 2026-08-03
 updated: 2026-08-03
 ---
@@ -43,5 +43,6 @@ Patricia D. Stokes presents a model of creativity and problem-solving that cente
 
 ## See Also
 
+- [creativity-constraints](../topics/creativity-constraints.md)
 - [healthcare-innovation](../topics/healthcare-innovation.md)
 - [paired-constraints](../topics/paired-constraints.md)

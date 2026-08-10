@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: community-engagement
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Community Engagement
@@ -54,6 +54,7 @@ updated: 2026-08-08
 - [Making a Museum of Happiness](../sources/fxa301-week05-web-article-butler-2019.md)
 - [Web Lecture 5: Case Studies and Engaging with Visual Arts](../sources/fxa301-week05-web-lecture-5-case-studies-and-engaging-with-visual-arts.md)
 - [Brisbane\u2019s Pub Choir movement marks first year](../sources/fxa301-week06-brisbanes-pub-choir-movement-marks-first-year.md)
+- [Brisbane\u2019s Pub Choir movement marks first year](../sources/fxa301-week06-brisbanes-pub-choir-movement-marks-first-year-%282%29.md)
 - [Engaging with Music and Dance](../sources/fxa301-week06-engaging-with-music-and-dance.md)
 - [Evaluation of Big Noise Douglas](../sources/fxa301-week06-evaluation-of-big-noise-douglas.md)
 - [People change lives: Consolidating five years of evaluation learning from Sistema Scotland\u2019s Big Noise centres in Stirling, Glasgow and Aberdeen](../sources/fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation.md)

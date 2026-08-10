@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: phonological-loop
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Phonological Loop
@@ -10,3 +10,4 @@ updated: 2026-08-08
 - [Musicians\u2019 and nonmusicians\u2019 short-term memory for verbal and musical sequences: Comparing phonological similarity and pitch proximity](../sources/fxa300-week03-musicians-and-nonmusicians-short-term-memory-for-verbal-and.md)
 - [The Phonological Loop as a Language Learning Device](../sources/fxa300-week03-the-phonological-loop-as-a-language-learning-device.md)
 - [Breaking Down Short-Term Memory with Baddeley and Hitch's Working Memory Model](../sources/fxa300-week03-transcript-visit-in-new-window.md)
+- [Does music training enhance working memory performance? Findings from a quasi-experimental longitudinal study](../sources/fxa300-week06-does-music-training-enhance-working-memory-performance.md)

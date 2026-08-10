@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-arts-health
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Creative Arts Health

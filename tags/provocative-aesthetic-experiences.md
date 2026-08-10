@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: provocative-aesthetic-experiences
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Provocative Aesthetic Experiences

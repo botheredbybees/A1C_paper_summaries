@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: digital-innovation
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Digital Innovation

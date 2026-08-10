@@ -7,7 +7,8 @@ tags: ["self-determined-motivation-in-music-listening"]
 sources:
   - fxa303-week03-music-listening-motivation-is-associated-with-global
   - psy214-week02-lesson-psy214-week02-subjective-well-being
-updated: 2026-08-07
+  - psy214-week06-handbook-of-well-being
+updated: 2026-08-10
 ---
 
 ## Self-Determined Motivation in Music Listening
@@ -28,3 +29,4 @@ Research on music listening motivation and its impact on subjective well-being h
 
 - [fxa303-week03-music-listening-motivation-is-associated-with-global](../sources/fxa303-week03-music-listening-motivation-is-associated-with-global.md)
 - [psy214-week02-lesson-psy214-week02-subjective-well-being](../sources/psy214-week02-lesson-psy214-week02-subjective-well-being.md)
+- [psy214-week06-handbook-of-well-being](../sources/psy214-week06-handbook-of-well-being.md)

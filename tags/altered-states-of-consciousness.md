@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: altered-states-of-consciousness
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Altered States Of Consciousness

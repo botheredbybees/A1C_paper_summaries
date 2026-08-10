@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: antidiabetic-drugs
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Antidiabetic Drugs

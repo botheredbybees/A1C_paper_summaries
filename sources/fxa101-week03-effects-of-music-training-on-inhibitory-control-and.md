@@ -11,7 +11,7 @@ tags: ["music-training", "inhibitory-control", "neural-networks", "child-develop
 key_concepts: ["inhibitory control", "executive function", "neural development"]
 methods: ["longitudinal study", "MRI analysis"]
 slug: fxa101-week03-effects-of-music-training-on-inhibitory-control-and
-related: ["child-development", "longitudinal-study", "neural-development", "neural-networks"]
+related: ["child-development", "longitudinal-study", "music-training", "neural-development", "neural-networks"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -46,5 +46,6 @@ This study examines the impact of music training on inhibitory control and assoc
 
 - [child-development](../topics/child-development.md)
 - [longitudinal-study](../topics/longitudinal-study.md)
+- [music-training](../topics/music-training.md)
 - [neural-development](../topics/neural-development.md)
 - [neural-networks](../topics/neural-networks.md)

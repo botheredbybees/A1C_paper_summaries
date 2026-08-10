@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: inverse-effectiveness-principle
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Inverse Effectiveness Principle

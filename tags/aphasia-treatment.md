@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: aphasia-treatment
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Aphasia Treatment

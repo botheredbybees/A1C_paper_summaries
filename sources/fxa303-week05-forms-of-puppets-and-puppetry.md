@@ -17,7 +17,7 @@ tags: ["puppetry-history", "cultural-significance", "ancient-civilizations", "fx
 key_concepts: ["mammoth-ivory-puppets", "bunraku-theatre"]
 methods: ["historical-analysis"]
 slug: fxa303-week05-forms-of-puppets-and-puppetry
-related: ["cultural-significance"]
+related: ["ancient-civilizations", "cultural-significance"]
 created: 2026-05-03
 updated: 2026-05-16
 ---
@@ -50,4 +50,5 @@ The text also covers European puppet traditions influenced by Greek and Roman pr
 
 ## See Also
 
+- [ancient-civilizations](../topics/ancient-civilizations.md)
 - [cultural-significance](../topics/cultural-significance.md)

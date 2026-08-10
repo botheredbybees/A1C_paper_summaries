@@ -9,6 +9,7 @@ sources:
   - fxa101-week04-brain-training-using-cognitive-apps-can-improve-cognitive
   - fxa101-week04-lesson-fxa101-week04-chapter-3-creativity-throughout-life
   - fxa300-week05-music-and-movement-for-health-an-arts-based-intervention-to
+  - fxa300-week06-web-article-brandt-2012
   - fxa301-applied-artes-and-health-ch01-2021-graff
   - fxa301-arts-in-health-ch04-48-haldane-d
   - fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26
@@ -23,6 +24,7 @@ sources:
   - fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing
   - fxa301-week05-museums-for-health-and-wellbeing
   - fxa301-week05-the-health-and-well-being-potential-of-museums-and-art
+  - fxa301-week06-social-dancing-to-reduce-falls-in-older-adults
   - fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster
   - fxa301-week06-statistical-analysis-of-educational-outcomes-among-big
   - fxa301-week08-the-connection-between-art-healing-and-public-health-a
@@ -40,7 +42,7 @@ tags:
 - public-health
 title: Creative Arts in Public Health
 type: topic
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Creative Arts in Public Health
@@ -66,6 +68,7 @@ The integration of creative arts into public health interventions presents a mul
 - [fxa101-week04-brain-training-using-cognitive-apps-can-improve-cognitive](../sources/fxa101-week04-brain-training-using-cognitive-apps-can-improve-cognitive.md)
 - [fxa101-week04-lesson-fxa101-week04-chapter-3-creativity-throughout-life](../sources/fxa101-week04-lesson-fxa101-week04-chapter-3-creativity-throughout-life.md)
 - [fxa300-week05-music-and-movement-for-health-an-arts-based-intervention-to](../sources/fxa300-week05-music-and-movement-for-health-an-arts-based-intervention-to.md)
+- [fxa300-week06-web-article-brandt-2012](../sources/fxa300-week06-web-article-brandt-2012.md)
 - [fxa301-applied-artes-and-health-ch01-2021-graff](../sources/fxa301-applied-artes-and-health-ch01-2021-graff.md)
 - [fxa301-arts-in-health-ch04-48-haldane-d](../sources/fxa301-arts-in-health-ch04-48-haldane-d.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26](../sources/fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26.md)
@@ -80,6 +83,7 @@ The integration of creative arts into public health interventions presents a mul
 - [fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing](../sources/fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing.md)
 - [fxa301-week05-museums-for-health-and-wellbeing](../sources/fxa301-week05-museums-for-health-and-wellbeing.md)
 - [fxa301-week05-the-health-and-well-being-potential-of-museums-and-art](../sources/fxa301-week05-the-health-and-well-being-potential-of-museums-and-art.md)
+- [fxa301-week06-social-dancing-to-reduce-falls-in-older-adults](../sources/fxa301-week06-social-dancing-to-reduce-falls-in-older-adults.md)
 - [fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster](../sources/fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster.md)
 - [fxa301-week06-statistical-analysis-of-educational-outcomes-among-big](../sources/fxa301-week06-statistical-analysis-of-educational-outcomes-among-big.md)
 - [fxa301-week08-the-connection-between-art-healing-and-public-health-a](../sources/fxa301-week08-the-connection-between-art-healing-and-public-health-a.md)

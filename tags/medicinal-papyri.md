@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: medicinal-papyri
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Medicinal Papyri

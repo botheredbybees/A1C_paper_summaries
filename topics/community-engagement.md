@@ -51,6 +51,7 @@ sources:
   - fxa301-week05-web-article-butler-2019
   - fxa301-week05-web-lecture-5-case-studies-and-engaging-with-visual-arts
   - fxa301-week06-brisbanes-pub-choir-movement-marks-first-year
+  - fxa301-week06-brisbanes-pub-choir-movement-marks-first-year-(2)
   - fxa301-week06-engaging-with-music-and-dance
   - fxa301-week06-evaluation-of-big-noise-douglas
   - fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation
@@ -92,7 +93,7 @@ tags:
 - community-engagement
 title: Community Engagement
 type: topic
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Community Engagement
@@ -159,6 +160,7 @@ Community engagement is a multifaceted intervention aimed at fostering participa
 - [fxa301-week05-web-article-butler-2019](../sources/fxa301-week05-web-article-butler-2019.md)
 - [fxa301-week05-web-lecture-5-case-studies-and-engaging-with-visual-arts](../sources/fxa301-week05-web-lecture-5-case-studies-and-engaging-with-visual-arts.md)
 - [fxa301-week06-brisbanes-pub-choir-movement-marks-first-year](../sources/fxa301-week06-brisbanes-pub-choir-movement-marks-first-year.md)
+- [fxa301-week06-brisbanes-pub-choir-movement-marks-first-year-(2)](../sources/fxa301-week06-brisbanes-pub-choir-movement-marks-first-year-%282%29.md)
 - [fxa301-week06-engaging-with-music-and-dance](../sources/fxa301-week06-engaging-with-music-and-dance.md)
 - [fxa301-week06-evaluation-of-big-noise-douglas](../sources/fxa301-week06-evaluation-of-big-noise-douglas.md)
 - [fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation](../sources/fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation.md)

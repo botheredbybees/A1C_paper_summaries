@@ -8,7 +8,8 @@ sources:
   - fxa100-week07-turning-back-the-hands-of-time-autobiographical-memories-in
   - fxa300-week04-cascading-reminiscence-bumps-in-popular-music
   - fxa300-week04-music-emotion-and-autobiographical-memory-theyre-playing
-updated: 2026-07-28
+  - fxa300-week06-preferred-music-listening-for-people-living-with-dementia
+updated: 2026-08-10
 ---
 
 ## Autobiographical Memory
@@ -30,3 +31,4 @@ The concept of autobiographical memory is explored across multiple contexts in t
 - [fxa100-week07-turning-back-the-hands-of-time-autobiographical-memories-in](../sources/fxa100-week07-turning-back-the-hands-of-time-autobiographical-memories-in.md)
 - [fxa300-week04-cascading-reminiscence-bumps-in-popular-music](../sources/fxa300-week04-cascading-reminiscence-bumps-in-popular-music.md)
 - [fxa300-week04-music-emotion-and-autobiographical-memory-theyre-playing](../sources/fxa300-week04-music-emotion-and-autobiographical-memory-theyre-playing.md)
+- [fxa300-week06-preferred-music-listening-for-people-living-with-dementia](../sources/fxa300-week06-preferred-music-listening-for-people-living-with-dementia.md)

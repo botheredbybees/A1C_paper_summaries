@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: child-psychology
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Child Psychology
@@ -18,7 +18,9 @@ updated: 2026-08-08
 - [The Use of Puppets in Psychodynamic Child Therapy](../sources/fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy.md)
 - [Week 5 Overview - FXA303 Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week05-week-5-overview-fxa303-creative-arts-play-and-mental.md)
 - [Mr. Fox Is Sad](../sources/fxa303-week06-mr-fox-is-sad.md)
+- [Puppet-Assisted Play Therapy](../sources/fxa303-week06-puppet-assisted-play-therapy.md)
 - [Puppet-Assisted Play Therapy: Theory, Research, and Practice](../sources/fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice.md)
+- [Puppet Play Therapy: A Practical Guidebook - Section IV Puppet Therapy Techniques](../sources/fxa303-week06-puppet-play-therapy-a-practical-guidebook-section-iv-puppet.md)
 - [The effect of a hand puppet-based therapeutic play for preschool children on the fear and pain associated with blood collection procedure](../sources/fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for.md)
 - [Time for Tony the Turtle: Experiences with the use of a hand puppet in a program for young children in domestic violence shelters](../sources/fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand.md)
 - [Art therapy with children and adolescents experiencing acute or severe mental health conditions: A systematic review](../sources/fxa303-week09-art-therapy-with-children-and-adolescents-experiencing.md)

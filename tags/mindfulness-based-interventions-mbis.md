@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mindfulness-based-interventions-mbis
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Mindfulness Based Interventions Mbis

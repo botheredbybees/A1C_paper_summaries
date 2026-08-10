@@ -11,7 +11,7 @@ tags: ["embodiment-and-transformation", "fxa202", "gaze-theory", "identity-forma
 key_concepts: ["re-enactment phototherapy", "gaze theory", "embodiment and transformation"]
 methods: ["case study"]
 slug: fxa202-week13-inhabiting-the-image-photography-therapy-and-re-enactment
-related: ["phototherapy", "re-enactment-therapy", "therapeutic-arts"]
+related: ["phototherapy", "re-enactment-therapy", "therapeutic-arts", "visual-culture"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -44,3 +44,4 @@ Rosy Martin's paper 'Inhabiting the Image: Photography, Therapy and Re-enactment
 - [phototherapy](../topics/phototherapy.md)
 - [re-enactment-therapy](../topics/re-enactment-therapy.md)
 - [therapeutic-arts](../topics/therapeutic-arts.md)
+- [visual-culture](../topics/visual-culture.md)

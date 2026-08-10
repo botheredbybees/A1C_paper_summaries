@@ -7,7 +7,8 @@ tags: ["academic-performance"]
 sources:
   - fxa101-week03-longitudinal-analysis-of-music-education-on-executive
   - fxa101-week05-reflection-on-designing-metacognitive-interventions-to
-updated: 2026-08-07
+  - fxa300-week06-the-effect-of-instrumental-music-participation-and
+updated: 2026-08-10
 ---
 
 ## Metacognitive Interventions and Academic Performance
@@ -28,3 +29,4 @@ The integration of metacognitive interventions and structured music education em
 
 - [fxa101-week03-longitudinal-analysis-of-music-education-on-executive](../sources/fxa101-week03-longitudinal-analysis-of-music-education-on-executive.md)
 - [fxa101-week05-reflection-on-designing-metacognitive-interventions-to](../sources/fxa101-week05-reflection-on-designing-metacognitive-interventions-to.md)
+- [fxa300-week06-the-effect-of-instrumental-music-participation-and](../sources/fxa300-week06-the-effect-of-instrumental-music-participation-and.md)

@@ -25,6 +25,7 @@ sources:
   - fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay
   - fxa202-week13-therapeutic-benefits-and-limitations-of-participatory
   - fxa300-week02-music-and-mind-harnessing-the-arts-for-health-and-wellness
+  - fxa300-week06-book-reviews
   - fxa301-oxford-handbook-of-dance-and-wellbeing
   - fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract
   - fxa301-week05-art-as-therapy
@@ -66,11 +67,12 @@ sources:
   - psy214-week04-lesson-psy214-week04-nutritional-science
   - psy214-week05-lesson-psy214-week05-week-5-introduction1
   - psy214-week05-sleep-circadian-rhythms-and-health
+  - psy214-week06-lesson-psy214-week06-move-variety-is-the-spice-of-life
 tags:
 - mental-health
 title: Creative Therapies for Mental Health
 type: topic
-updated: 2026-08-07
+updated: 2026-08-10
 ---
 
 ## Creative Therapies for Mental Health
@@ -113,6 +115,7 @@ The sources illustrate a variety of creative therapies that have been developed 
 - [fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay](../sources/fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay.md)
 - [fxa202-week13-therapeutic-benefits-and-limitations-of-participatory](../sources/fxa202-week13-therapeutic-benefits-and-limitations-of-participatory.md)
 - [fxa300-week02-music-and-mind-harnessing-the-arts-for-health-and-wellness](../sources/fxa300-week02-music-and-mind-harnessing-the-arts-for-health-and-wellness.md)
+- [fxa300-week06-book-reviews](../sources/fxa300-week06-book-reviews.md)
 - [fxa301-oxford-handbook-of-dance-and-wellbeing](../sources/fxa301-oxford-handbook-of-dance-and-wellbeing.md)
 - [fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract](../sources/fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract.md)
 - [fxa301-week05-art-as-therapy](../sources/fxa301-week05-art-as-therapy.md)
@@ -154,3 +157,4 @@ The sources illustrate a variety of creative therapies that have been developed 
 - [psy214-week04-lesson-psy214-week04-nutritional-science](../sources/psy214-week04-lesson-psy214-week04-nutritional-science.md)
 - [psy214-week05-lesson-psy214-week05-week-5-introduction1](../sources/psy214-week05-lesson-psy214-week05-week-5-introduction1.md)
 - [psy214-week05-sleep-circadian-rhythms-and-health](../sources/psy214-week05-sleep-circadian-rhythms-and-health.md)
+- [psy214-week06-lesson-psy214-week06-move-variety-is-the-spice-of-life](../sources/psy214-week06-lesson-psy214-week06-move-variety-is-the-spice-of-life.md)

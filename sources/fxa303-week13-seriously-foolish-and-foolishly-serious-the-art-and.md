@@ -11,7 +11,7 @@ tags: ["child-rehabilitation", "clown-therapy", "emotional-resilience", "foolish
 key_concepts: ["foolishness-as-bravery", "humor-in-healing", "relational-model-of-care"]
 methods: ["qualitative-analysis"]
 slug: fxa303-week13-seriously-foolish-and-foolishly-serious-the-art-and
-related: ["clown-therapy", "emotional-resilience", "holistic-healthcare"]
+related: ["child-rehabilitation", "clown-therapy", "emotional-resilience", "holistic-healthcare"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -41,6 +41,7 @@ This paper explores the role of clowning in children's rehabilitation, challengi
 
 ## See Also
 
+- [child-rehabilitation](../topics/child-rehabilitation.md)
 - [clown-therapy](../topics/clown-therapy.md)
 - [emotional-resilience](../topics/emotional-resilience.md)
 - [holistic-healthcare](../topics/holistic-healthcare.md)

@@ -6,6 +6,7 @@ sources:
   - fxa100-week03-the-short-term-impact-of-music-interventions-on-stress
   - fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression
   - fxa202-week09-5-benefits-of-journaling-for-mental-health
+  - fxa300-week06-in-home-online-music-based-intervention-for-stress-coping
   - fxa301-week02-the-influence-of-stress-optimism-and-music-training-on
   - fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and
   - fxa303-week03-creative-arts-interventions-for-stress-management-and
@@ -36,6 +37,7 @@ sources:
   - psy214-week05-lesson-psy214-week05-sleep-and-health
   - psy214-week05-lesson-psy214-week05-sleep-sleep-hygiene-approaches
   - psy214-week05-technology-and-sleep-displacement-slides-full
+  - psy214-week06-lesson-psy214-week06-connectunplug-nature-part-2
   - psy214-week07-an-adapted-four-week-mindbody-skills-group-for-medical
   - psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on
   - psy214-week07-mindfulness-and-acceptance-based-trainings-for-fostering
@@ -45,7 +47,7 @@ tags:
 - stress-management
 title: Stress Management Interventions
 type: topic
-updated: 2026-08-07
+updated: 2026-08-10
 ---
 
 ## Stress Management Interventions
@@ -67,6 +69,7 @@ The exploration of stress management interventions across multiple sources highl
 - [fxa100-week03-the-short-term-impact-of-music-interventions-on-stress](../sources/fxa100-week03-the-short-term-impact-of-music-interventions-on-stress.md)
 - [fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression](../sources/fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression.md)
 - [fxa202-week09-5-benefits-of-journaling-for-mental-health](../sources/fxa202-week09-5-benefits-of-journaling-for-mental-health.md)
+- [fxa300-week06-in-home-online-music-based-intervention-for-stress-coping](../sources/fxa300-week06-in-home-online-music-based-intervention-for-stress-coping.md)
 - [fxa301-week02-the-influence-of-stress-optimism-and-music-training-on](../sources/fxa301-week02-the-influence-of-stress-optimism-and-music-training-on.md)
 - [fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and](../sources/fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and.md)
 - [fxa303-week03-creative-arts-interventions-for-stress-management-and](../sources/fxa303-week03-creative-arts-interventions-for-stress-management-and.md)
@@ -97,6 +100,7 @@ The exploration of stress management interventions across multiple sources highl
 - [psy214-week05-lesson-psy214-week05-sleep-and-health](../sources/psy214-week05-lesson-psy214-week05-sleep-and-health.md)
 - [psy214-week05-lesson-psy214-week05-sleep-sleep-hygiene-approaches](../sources/psy214-week05-lesson-psy214-week05-sleep-sleep-hygiene-approaches.md)
 - [psy214-week05-technology-and-sleep-displacement-slides-full](../sources/psy214-week05-technology-and-sleep-displacement-slides-full.md)
+- [psy214-week06-lesson-psy214-week06-connectunplug-nature-part-2](../sources/psy214-week06-lesson-psy214-week06-connectunplug-nature-part-2.md)
 - [psy214-week07-an-adapted-four-week-mindbody-skills-group-for-medical](../sources/psy214-week07-an-adapted-four-week-mindbody-skills-group-for-medical.md)
 - [psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on](../sources/psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on.md)
 - [psy214-week07-mindfulness-and-acceptance-based-trainings-for-fostering](../sources/psy214-week07-mindfulness-and-acceptance-based-trainings-for-fostering.md)

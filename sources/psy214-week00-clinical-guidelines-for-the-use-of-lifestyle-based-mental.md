@@ -9,13 +9,15 @@ appearances:
     week: "00"
   - unit: PSY214
     week: "04"
+  - unit: PSY214
+    week: "06"
 tags: ["major-depressive-disorder", "lifestyle-interventions", "mental-health-care", "clinical-guidelines", "biopsychosocial-model", "psy214", "major-depressive-disorder-mdd", "lifestyle-based-interventions", "biopsychosocial-cultural-framework"]
 key_concepts: ["Major Depressive Disorder (MDD)", "Lifestyle-Based Interventions", "Biopsychosocial-Cultural Framework"]
 methods: ["systematic review"]
 slug: psy214-week00-clinical-guidelines-for-the-use-of-lifestyle-based-mental
 related: ["biopsychosocial-model", "clinical-guidelines", "lifestyle-interventions", "major-depressive-disorder", "mental-health-care"]
 created: 2026-06-25
-updated: 2026-07-28
+updated: 2026-08-10
 ---
 
 _All claims sourced from ../raw/pdf/psy214-week00-clinical-guidelines-for-the-use-of-lifestyle-based-mental.md_

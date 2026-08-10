@@ -6,6 +6,7 @@ sources:
   - fxa101-week00-positive-expressive-writing-interventions-subjective-health
   - fxa101-week00-the-flourishing-writer
   - fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow
+  - fxa300-week06-book-reviews
   - fxa301-week02-university-students-strong-experiences-of-music-pleasure
   - fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and
   - fxa301-week10-learning-flow-and-happiness
@@ -17,11 +18,12 @@ sources:
   - psy214-week02-lesson-psy214-week02-subjective-well-being
   - psy214-week02-positive-psychology-the-basics
   - psy214-week05-leisure-and-well-being-the-dramma-model
+  - psy214-week06-handbook-of-well-being
 tags:
 - positive-psychology
 title: Positive Psychology and Resilience
 type: topic
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Positive Psychology and Resilience
@@ -43,6 +45,7 @@ Positive psychology focuses on fostering resilience and well-being through the d
 - [fxa101-week00-positive-expressive-writing-interventions-subjective-health](../sources/fxa101-week00-positive-expressive-writing-interventions-subjective-health.md)
 - [fxa101-week00-the-flourishing-writer](../sources/fxa101-week00-the-flourishing-writer.md)
 - [fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow](../sources/fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow.md)
+- [fxa300-week06-book-reviews](../sources/fxa300-week06-book-reviews.md)
 - [fxa301-week02-university-students-strong-experiences-of-music-pleasure](../sources/fxa301-week02-university-students-strong-experiences-of-music-pleasure.md)
 - [fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and](../sources/fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and.md)
 - [fxa301-week10-learning-flow-and-happiness](../sources/fxa301-week10-learning-flow-and-happiness.md)
@@ -54,3 +57,4 @@ Positive psychology focuses on fostering resilience and well-being through the d
 - [psy214-week02-lesson-psy214-week02-subjective-well-being](../sources/psy214-week02-lesson-psy214-week02-subjective-well-being.md)
 - [psy214-week02-positive-psychology-the-basics](../sources/psy214-week02-positive-psychology-the-basics.md)
 - [psy214-week05-leisure-and-well-being-the-dramma-model](../sources/psy214-week05-leisure-and-well-being-the-dramma-model.md)
+- [psy214-week06-handbook-of-well-being](../sources/psy214-week06-handbook-of-well-being.md)

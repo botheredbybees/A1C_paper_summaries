@@ -10,9 +10,12 @@ sources:
   - fxa303-puppet-play-therapy-ch09-458-woltmann
   - fxa303-week05-fxa303-week-5-welcome
   - fxa303-week05-puppets-and-self-care-for-task-2
+  - fxa303-week06-fxa303-week-6-puppetry-in-therapeutic-contexts
+  - fxa303-week06-heads-shoulders-knees-and-toes-puppetry-as-a-therapeutic
   - fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children
   - fxa303-week06-lesson-fxa303-week06-page-2-puppets-and-expression
   - fxa303-week06-lesson-fxa303-week06-page-4-week-6-activities
+  - fxa303-week06-puppet-assisted-play-therapy
   - fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice
   - fxa303-week06-puppet-play-therapy-a-practical-guidebook
   - fxa303-week06-puppet-theatre-a-way-to-tell-what-cannot-be-told-and-to
@@ -20,7 +23,8 @@ sources:
   - fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for
   - fxa303-week06-therapeutic-puppetry-and-wellbeing
   - fxa303-week06-using-puppets-with-children-in-narrative-therapy-to
-updated: 2026-08-07
+  - fxa303-week06-week-6-puppetry-in-therapeutic-contexts
+updated: 2026-08-10
 ---
 
 ## Puppet-Assisted Play Therapy for Children
@@ -44,9 +48,12 @@ Puppet-assisted play therapy is a versatile intervention that leverages the imag
 - [fxa303-puppet-play-therapy-ch09-458-woltmann](../sources/fxa303-puppet-play-therapy-ch09-458-woltmann.md)
 - [fxa303-week05-fxa303-week-5-welcome](../sources/fxa303-week05-fxa303-week-5-welcome.md)
 - [fxa303-week05-puppets-and-self-care-for-task-2](../sources/fxa303-week05-puppets-and-self-care-for-task-2.md)
+- [fxa303-week06-fxa303-week-6-puppetry-in-therapeutic-contexts](../sources/fxa303-week06-fxa303-week-6-puppetry-in-therapeutic-contexts.md)
+- [fxa303-week06-heads-shoulders-knees-and-toes-puppetry-as-a-therapeutic](../sources/fxa303-week06-heads-shoulders-knees-and-toes-puppetry-as-a-therapeutic.md)
 - [fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children](../sources/fxa303-week06-its-not-me-its-him-interactive-puppet-play-to-help-children.md)
 - [fxa303-week06-lesson-fxa303-week06-page-2-puppets-and-expression](../sources/fxa303-week06-lesson-fxa303-week06-page-2-puppets-and-expression.md)
 - [fxa303-week06-lesson-fxa303-week06-page-4-week-6-activities](../sources/fxa303-week06-lesson-fxa303-week06-page-4-week-6-activities.md)
+- [fxa303-week06-puppet-assisted-play-therapy](../sources/fxa303-week06-puppet-assisted-play-therapy.md)
 - [fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice](../sources/fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice.md)
 - [fxa303-week06-puppet-play-therapy-a-practical-guidebook](../sources/fxa303-week06-puppet-play-therapy-a-practical-guidebook.md)
 - [fxa303-week06-puppet-theatre-a-way-to-tell-what-cannot-be-told-and-to](../sources/fxa303-week06-puppet-theatre-a-way-to-tell-what-cannot-be-told-and-to.md)
@@ -54,3 +61,4 @@ Puppet-assisted play therapy is a versatile intervention that leverages the imag
 - [fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for](../sources/fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for.md)
 - [fxa303-week06-therapeutic-puppetry-and-wellbeing](../sources/fxa303-week06-therapeutic-puppetry-and-wellbeing.md)
 - [fxa303-week06-using-puppets-with-children-in-narrative-therapy-to](../sources/fxa303-week06-using-puppets-with-children-in-narrative-therapy-to.md)
+- [fxa303-week06-week-6-puppetry-in-therapeutic-contexts](../sources/fxa303-week06-week-6-puppetry-in-therapeutic-contexts.md)

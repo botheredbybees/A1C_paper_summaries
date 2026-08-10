@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dance-therapy
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Dance Therapy
@@ -36,4 +36,5 @@ updated: 2026-08-08
 - [Case Studies of Music and Dance for Health and Wellbeing](../sources/fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing.md)
 - [Parkinson's Disease Motor Symptom Progression Slowed with Multisensory Dance Learning over 3-Years: A Preliminary Longitudinal Investigation](../sources/fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with.md)
 - [Promoting wellbeing and health through active participation in music and dance: a systematic review](../sources/fxa301-week06-promoting-wellbeing-and-health-through-active-participation.md)
+- [Social dancing to reduce falls in older adults](../sources/fxa301-week06-social-dancing-to-reduce-falls-in-older-adults.md)
 - [The Art and Science of Dance/Movement Therapy](../sources/fxa301-week06-the-art-and-science-of-dancemovement-therapy.md)

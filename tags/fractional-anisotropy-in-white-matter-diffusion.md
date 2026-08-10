@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: fractional-anisotropy-in-white-matter-diffusion
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Fractional Anisotropy In White Matter Diffusion

@@ -3,12 +3,14 @@ confidence: low
 domain: intervention
 slug: symbolic-representation-in-therapy
 sources:
-- fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental
+  - fxa302-week04-lesson-fxa302-week04-page-3-activities
+  - fxa303-week06-mr-fox-is-sad-puppets-as-symbolic-clients-in-the-playroom
+  - fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental
 tags:
 - symbolic-representation
 title: Symbolic Representation in Therapy
 type: topic
-updated: 2026-05-04
+updated: 2026-08-10
 ---
 
 ## Symbolic Representation in Therapy
@@ -27,4 +29,6 @@ Symbolic representation emerges as a pivotal technique across various therapeuti
 
 ## Sources
 
+- [fxa302-week04-lesson-fxa302-week04-page-3-activities](../sources/fxa302-week04-lesson-fxa302-week04-page-3-activities.md)
+- [fxa303-week06-mr-fox-is-sad-puppets-as-symbolic-clients-in-the-playroom](../sources/fxa303-week06-mr-fox-is-sad-puppets-as-symbolic-clients-in-the-playroom.md)
 - [fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental](../sources/fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental.md)

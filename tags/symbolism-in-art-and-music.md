@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: symbolism-in-art-and-music
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Symbolism In Art And Music

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: moving-sadness
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Moving Sadness

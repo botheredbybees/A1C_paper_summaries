@@ -40,6 +40,7 @@ sources:
   - fxa301-week11-refugee-art-expressing-experience-through-creativity
   - fxa303-week03-arts-on-prescription-meets-sir-quentin-blake
   - fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the
+  - fxa303-week06-fxa303-week-6-puppetry-in-therapeutic-contexts
   - fxa303-week06-lesson-fxa303-week06-page-4-week-6-activities
   - fxa303-week09-transcript-arts-mid-north-coast-we-are-all-born-creative
   - fxa303-week11-a-lot-of-us-look-at-life-differently-homeless-youths-and
@@ -50,7 +51,7 @@ tags:
 - creative-expression
 title: Creative Expression
 type: topic
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Creative Expression
@@ -106,6 +107,7 @@ The concept of creative expression encompasses a variety of therapeutic interven
 - [fxa301-week11-refugee-art-expressing-experience-through-creativity](../sources/fxa301-week11-refugee-art-expressing-experience-through-creativity.md)
 - [fxa303-week03-arts-on-prescription-meets-sir-quentin-blake](../sources/fxa303-week03-arts-on-prescription-meets-sir-quentin-blake.md)
 - [fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the](../sources/fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the.md)
+- [fxa303-week06-fxa303-week-6-puppetry-in-therapeutic-contexts](../sources/fxa303-week06-fxa303-week-6-puppetry-in-therapeutic-contexts.md)
 - [fxa303-week06-lesson-fxa303-week06-page-4-week-6-activities](../sources/fxa303-week06-lesson-fxa303-week06-page-4-week-6-activities.md)
 - [fxa303-week09-transcript-arts-mid-north-coast-we-are-all-born-creative](../sources/fxa303-week09-transcript-arts-mid-north-coast-we-are-all-born-creative.md)
 - [fxa303-week11-a-lot-of-us-look-at-life-differently-homeless-youths-and](../sources/fxa303-week11-a-lot-of-us-look-at-life-differently-homeless-youths-and.md)

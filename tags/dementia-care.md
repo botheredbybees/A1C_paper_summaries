@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dementia-care
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Dementia Care
@@ -248,11 +248,17 @@ updated: 2026-08-08
 - [Apples Never Fall: Exploring the Role of Food in Family Wellbeing and Memory through Therapeutic Photography](../sources/fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family.md)
 - [A Focus on the Reminiscence Bump to Personalize Music Playlists for Dementia](../sources/fxa300-week03-a-focus-on-the-reminiscence-bump-to-personalize-music.md)
 - [Exploring the Experiences of a Person with Dementia and Their Spouse Who Attended a Telehealth Music Therapy Programme: Two Case Examples from Ireland](../sources/fxa300-week03-exploring-the-experiences-of-a-person-with-dementia-and.md)
+- [A Case Study on a Home-Based Caregiver-Delivered Music-with-Movement Intervention for People with Early Dementia](../sources/fxa300-week06-a-case-study-on-a-home-based-caregiver-delivered-music-with.md)
+- [HOMESIDE\u2014A home-based family caregiver-delivered music and reading intervention for people living with dementia: A randomised controlled trial](../sources/fxa300-week06-homesidea-home-based-family-caregiver-delivered-music-and.md)
+- [In-home online music-based intervention for stress, coping, and depression among family caregivers of persons with dementia: A pilot study](../sources/fxa300-week06-in-home-online-music-based-intervention-for-stress-coping.md)
+- [Preferred Music Listening for People Living with Dementia: Two Home-Based Case Studies Discussing Compilation Process, Autobiographical and Biophysical Responses](../sources/fxa300-week06-preferred-music-listening-for-people-living-with-dementia.md)
+- [Statistical analysis plan for HOME-based caregiver-delivered music intervention for people living with dementia (HOMESIDE) trial](../sources/fxa300-week06-statistical-analysis-plan-for-home-based-caregiver.md)
 - [Does a Model Exist?](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment.md)
 - [Theatre of Wandering: Rehearsal and Devising Notes [Part 1]](../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1.md)
 - [Theatre of Wandering: Rehearsal and devising notes [Part 2]](../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2.md)
 - [Shared Music Listening](../sources/fxa302-week01-shared-music-listening.md)
 - [Visual Arts](../sources/fxa302-week01-visual-arts.md)
+- [Visual Art and Transformation](../sources/fxa302-week06-visual-art-and-transformation-%282%29.md)
 - [Elder-Clowning in Long-Term Dementia Care: Results of a Pilot Study](../sources/fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a.md)
 - [Strategies for diversity: medical clowns in dementia care - an ethnographic study](../sources/fxa303-week08-strategies-for-diversity-medical-clowns-in-dementia-care-an.md)
 - [Therapeutic Clowning](../sources/fxa303-week08-therapeutic-clowning.md)

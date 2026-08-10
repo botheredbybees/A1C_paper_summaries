@@ -17,7 +17,7 @@ tags: ["neurodiversity", "autism-community", "psychological-theories", "human-va
 key_concepts: ["neurodiversity", "pathologization", "heterogeneity-of-autism"]
 methods: ["conceptual-analysis"]
 slug: fxa303-week04-the-concept-of-neurodiversity-is-dividing-the-autism
-related: ["neurodiversity", "psychological-theories"]
+related: ["inclusive-environment", "neurodiversity", "psychological-theories"]
 created: 2026-05-03
 updated: 2026-05-16
 ---
@@ -54,5 +54,6 @@ Baron-Cohen suggests that these viewpoints are not necessarily mutually exclusiv
 
 ## See Also
 
+- [inclusive-environment](../topics/inclusive-environment.md)
 - [neurodiversity](../topics/neurodiversity.md)
 - [psychological-theories](../topics/psychological-theories.md)

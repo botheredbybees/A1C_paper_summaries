@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: self-expression
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Self Expression
@@ -16,4 +16,5 @@ updated: 2026-08-08
 - [Personal Storytelling and Memoir Writing](../sources/fxa202-week09-personal-storytelling-and-memoir-writing.md)
 - [Refugee Art Project](../sources/fxa301-week11-refugee-art-project.md)
 - [Art Therapy With Puppet Making to Promote Emotional Empathy for an Adolescent With Autism](../sources/fxa303-week06-art-therapy-with-puppet-making-to-promote-emotional-empathy.md)
+- [Puppet Play Therapy: A Practical Guidebook - Section IV Puppet Therapy Techniques](../sources/fxa303-week06-puppet-play-therapy-a-practical-guidebook-section-iv-puppet.md)
 - [Artistic expression as a source of resilience for transgender and gender diverse young people](../sources/fxa303-week11-artistic-expression-as-a-source-of-resilience-for.md)

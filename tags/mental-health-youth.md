@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-health-youth
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Mental Health Youth

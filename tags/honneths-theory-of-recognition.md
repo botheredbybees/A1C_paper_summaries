@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: honneths-theory-of-recognition
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Honneths Theory Of Recognition

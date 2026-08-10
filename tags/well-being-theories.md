@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: well-being-theories
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Well Being Theories
@@ -10,3 +10,4 @@ updated: 2026-08-08
 - [Cultural Differences in Defining and Experiencing Happiness and Well-Being](../sources/psy214-week02-lesson-psy214-week02-different-perspectives-on-wellbeing.md)
 - [Combined Models of Well-being: PERMA and Complete Mental Health](../sources/psy214-week02-lesson-psy214-week02-necessary-versus-sufficient.md)
 - [Two Traditions: Hedonia and Eudaimonia](../sources/psy214-week02-lesson-psy214-week02-two-traditions-hedonism-and.md)
+- [Nature and Well-being: Theories](../sources/psy214-week06-nature-and-well-being-theories-%282%29.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-arts
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Visual Arts
@@ -13,3 +13,4 @@ updated: 2026-08-08
 - [The Role of Arts in Childhood and Adolescence](../sources/fxa101-week03-lesson-fxa101-week03-page-3-the-role-of-the-arts-in.md)
 - [Engaging with Visual Arts: Community-Based Projects](../sources/fxa301-week05-lesson-fxa301-week05-page-1.md)
 - [The Art of Observation: A Pedagogical Framework](../sources/fxa302-week03-the-art-of-observation-a-pedagogical-framework.md)
+- [Visual Loss and Painting: Monet, Bramblitt, Arma\u011fan](../sources/fxa302-week06-lesson-fxa302-week06-page-3.md)

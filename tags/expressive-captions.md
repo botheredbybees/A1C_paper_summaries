@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: expressive-captions
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Expressive Captions

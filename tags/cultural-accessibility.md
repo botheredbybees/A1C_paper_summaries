@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cultural-accessibility
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Cultural Accessibility

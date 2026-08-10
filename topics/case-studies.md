@@ -5,9 +5,10 @@ title: "Case Studies in Art Therapy"
 confidence: medium
 tags: ["case-studies"]
 sources:
+  - fxa300-week06-lesson-fxa300-week06-page-3
   - fxa301-week05-web-article-reynolds-2006
   - fxa301-week05-web-lecture-5-case-studies-and-engaging-with-visual-arts
-updated: 2026-08-03
+updated: 2026-08-10
 ---
 
 ## Case Studies in Art Therapy
@@ -26,5 +27,6 @@ The integration of case studies in art therapy highlights the role of artistic e
 
 ## Sources
 
+- [fxa300-week06-lesson-fxa300-week06-page-3](../sources/fxa300-week06-lesson-fxa300-week06-page-3.md)
 - [fxa301-week05-web-article-reynolds-2006](../sources/fxa301-week05-web-article-reynolds-2006.md)
 - [fxa301-week05-web-lecture-5-case-studies-and-engaging-with-visual-arts](../sources/fxa301-week05-web-lecture-5-case-studies-and-engaging-with-visual-arts.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: musical-interpretation
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Musical Interpretation

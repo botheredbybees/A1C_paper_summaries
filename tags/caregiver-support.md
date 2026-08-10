@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: caregiver-support
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Caregiver Support
@@ -16,4 +16,6 @@ updated: 2026-08-08
 - [The Challenges of Developing a Participatory Arts Intervention for Caregivers of Persons with Dementia](../sources/fxa100-week10-the-challenges-of-developing-a-participatory-arts.md)
 - [Emotion Work in Caregiving: The Role of Technology to Support Informal Caregivers of Persons Living With Dementia](../sources/fxa100-week13-emotion-work-in-caregiving-the-role-of-technology-to.md)
 - [Systematic review of arts and culture-based interventions for people living with dementia and their caregivers](../sources/fxa100-week13-systematic-review-of-arts-and-culture-based-interventions.md)
+- [In-home online music-based intervention for stress, coping, and depression among family caregivers of persons with dementia: A pilot study](../sources/fxa300-week06-in-home-online-music-based-intervention-for-stress-coping.md)
+- [Statistical analysis plan for HOME-based caregiver-delivered music intervention for people living with dementia (HOMESIDE) trial](../sources/fxa300-week06-statistical-analysis-plan-for-home-based-caregiver.md)
 - [Reminiscence Therapy for Dementia](../sources/fxa303-week13-reminiscence-therapy-for-dementia.md)

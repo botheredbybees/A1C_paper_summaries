@@ -11,7 +11,7 @@ tags: ["aphasia-research", "singing-therapy", "formulaic-language", "fxa301"]
 key_concepts: ["articulatory-tempo", "melodic-intonation-therapy", "neural-network-engagement"]
 methods: ["case-study"]
 slug: fxa301-week09-facing-the-music-three-issues-in-current-research-on
-related: ["singing-therapy"]
+related: ["aphasia-research", "singing-therapy"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,4 +41,5 @@ This opinion article by Stahl and Kotz discusses three critical issues in curren
 
 ## See Also
 
+- [aphasia-research](../topics/aphasia-research.md)
 - [singing-therapy](../topics/singing-therapy.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-arts-intervention-for-dementia-care
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Visual Arts Intervention For Dementia Care
@@ -14,3 +14,4 @@ updated: 2026-08-08
 - [Conclusions, Reflections and Where to Next?](../sources/fxa100-week12-lesson-fxa100-week12-page-1-welcome-to-week-12.md)
 - [Week 11 Lecture: Arts and Social Inclusion](../sources/fxa301-week11-week-11-lecture-arts-and-social-inclusion.md)
 - [Visual Art and Transformation](../sources/fxa302-week06-visual-art-and-transformation.md)
+- [Visual Art and Transformation](../sources/fxa302-week06-visual-art-and-transformation-%282%29.md)

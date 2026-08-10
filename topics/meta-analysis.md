@@ -9,6 +9,8 @@ sources:
   - fxa100-week13-the-effectiveness-of-dance-interventions-on-physical-health
   - fxa101-week03-mozart-effectshmozart-effect-a-meta-analysis
   - fxa101-week04-meta-analysis-of-action-video-game-impact-on-perceptual
+  - fxa101-week06-examining-the-relationship-between-creativity-and
+  - fxa101-week06-the-relationship-between-stressors-and-creativity-a-meta
   - fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing
   - fxa301-week01-the-rationale-for-rating-risk-of-bias-should-be-fully
   - fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention
@@ -23,7 +25,7 @@ tags:
 - meta-analysis
 title: Effectiveness of Therapeutic Interventions in Specific Populations
 type: topic
-updated: 2026-08-07
+updated: 2026-08-10
 ---
 
 ## Effectiveness of Therapeutic Interventions in Specific Populations
@@ -48,6 +50,8 @@ The meta-analyses explore the effectiveness of dance and music interventions for
 - [fxa100-week13-the-effectiveness-of-dance-interventions-on-physical-health](../sources/fxa100-week13-the-effectiveness-of-dance-interventions-on-physical-health.md)
 - [fxa101-week03-mozart-effectshmozart-effect-a-meta-analysis](../sources/fxa101-week03-mozart-effectshmozart-effect-a-meta-analysis.md)
 - [fxa101-week04-meta-analysis-of-action-video-game-impact-on-perceptual](../sources/fxa101-week04-meta-analysis-of-action-video-game-impact-on-perceptual.md)
+- [fxa101-week06-examining-the-relationship-between-creativity-and](../sources/fxa101-week06-examining-the-relationship-between-creativity-and.md)
+- [fxa101-week06-the-relationship-between-stressors-and-creativity-a-meta](../sources/fxa101-week06-the-relationship-between-stressors-and-creativity-a-meta.md)
 - [fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing](../sources/fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing.md)
 - [fxa301-week01-the-rationale-for-rating-risk-of-bias-should-be-fully](../sources/fxa301-week01-the-rationale-for-rating-risk-of-bias-should-be-fully.md)
 - [fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention](../sources/fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention.md)

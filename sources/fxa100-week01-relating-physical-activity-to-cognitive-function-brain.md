@@ -11,7 +11,7 @@ tags: ["physical-activity", "cognitive-function", "brain-morphology", "alzheimer
 key_concepts: ["hippocampal-subfield-volumes", "neurofilament-light-chain-levels"]
 methods: ["RCT", "cross-sectional-analysis"]
 slug: fxa100-week01-relating-physical-activity-to-cognitive-function-brain
-related: ["cognitive-function", "physical-activity"]
+related: ["cognitive-function", "exercise-intervention", "physical-activity"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -49,4 +49,5 @@ The study identifies several moderators of these relationships, including demogr
 ## See Also
 
 - [cognitive-function](../topics/cognitive-function.md)
+- [exercise-intervention](../topics/exercise-intervention.md)
 - [physical-activity](../topics/physical-activity.md)

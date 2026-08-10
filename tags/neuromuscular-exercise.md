@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuromuscular-exercise
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Neuromuscular Exercise

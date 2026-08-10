@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: multisensory-consumption-experiences
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Multisensory Consumption Experiences

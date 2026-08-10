@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: musical-influence-of-deafness
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Musical Influence Of Deafness

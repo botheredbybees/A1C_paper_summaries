@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: variation-selection-processes-in-creativity
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Variation Selection Processes In Creativity

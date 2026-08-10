@@ -11,7 +11,7 @@ tags: ["aged-care-interventions", "emotional-expression", "emotional-expression-
 key_concepts: ["non-verbal-communication", "mediated-expression", "sustainable-practices"]
 methods: ["case-study"]
 slug: fxa303-week06-emotional-expression-through-puppetry
-related: ["emotional-expression", "puppetry-in-therapy", "therapeutic-arts"]
+related: ["aged-care-interventions", "emotional-expression", "emotional-expression-through-puppetry", "puppetry-in-therapy", "therapeutic-arts"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,6 +42,8 @@ This weekâ€™s content of FXA303 Creative Arts, Play and Mental Wellbeing fo
 
 ## See Also
 
+- [aged-care-interventions](../topics/aged-care-interventions.md)
 - [emotional-expression](../topics/emotional-expression.md)
+- [emotional-expression-through-puppetry](../topics/emotional-expression-through-puppetry.md)
 - [puppetry-in-therapy](../topics/puppetry-in-therapy.md)
 - [therapeutic-arts](../topics/therapeutic-arts.md)

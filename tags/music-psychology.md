@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-psychology
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Music Psychology
@@ -37,6 +37,8 @@ updated: 2026-08-08
 - [TONAL STRUCTURES IN PERCEPTION AND MEMORY](../sources/fxa300-week04-tonal-structures-in-perception-and-memory.md)
 - [Week 5 Activities: FXA300 Music, Mind and Body](../sources/fxa300-week05-lesson-fxa300-week05-page-4-activities.md)
 - [The sound of affect: Age differences in perceiving valence and arousal in music and their relation to music characteristics and momentary mood](../sources/fxa300-week05-the-sound-of-affect-age-differences-in-perceiving-valence.md)
+- [FXA300 Week 6 Lecture: Research Methods in Music, Mind, and Body](../sources/fxa300-week06-fxa300-week-6-lecture-research-methods-in-music-mind-and.md)
+- [Experimental Designs in Music Psychology](../sources/fxa300-week06-lesson-fxa300-week06-page-2-1.md)
 - [Physiological Responses to Music and Sound Stimuli](../sources/fxa301-oxford-textbook-of-creative-arts-ch08-96-clift.md)
 - [Aesthetic Responses to Music: A Questionnaire Study](../sources/fxa301-week02-aesthetic-responses-to-music-a-questionnaire-study.md)
 - [An Experience Sampling Study of Emotional Reactions to Music: Listener, Music, and Situation](../sources/fxa301-week02-an-experience-sampling-study-of-emotional-reactions-to.md)

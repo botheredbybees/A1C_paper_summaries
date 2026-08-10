@@ -6,9 +6,10 @@ confidence: medium
 tags: ["person-centred-approach"]
 sources:
   - fxa100-week04-person-centred-language-guidelines-(2)
+  - fxa300-week06-book-reviews
   - fxa303-using-a-person-centered-approach-in-early-years-ch01-7-client-considers-taking-more-responsibility-but-tends-to
   - fxa303-using-a-person-centered-approach-in-early-years-ch04-chapter-6
-updated: 2026-08-07
+updated: 2026-08-10
 ---
 
 ## Person-Centred Approach
@@ -28,5 +29,6 @@ The synthesis integrates the person-centred approach's emphasis on unconditional
 ## Sources
 
 - [fxa100-week04-person-centred-language-guidelines-(2)](../sources/fxa100-week04-person-centred-language-guidelines-%282%29.md)
+- [fxa300-week06-book-reviews](../sources/fxa300-week06-book-reviews.md)
 - [fxa303-using-a-person-centered-approach-in-early-years-ch01-7-client-considers-taking-more-responsibility-but-tends-to](../sources/fxa303-using-a-person-centered-approach-in-early-years-ch01-7-client-considers-taking-more-responsibility-but-tends-to.md)
 - [fxa303-using-a-person-centered-approach-in-early-years-ch04-chapter-6](../sources/fxa303-using-a-person-centered-approach-in-early-years-ch04-chapter-6.md)

@@ -7,7 +7,8 @@ tags: ["nature-therapy"]
 sources:
   - fxa202-week03-a-healing-journey
   - fxa202-week03-at4-critical-reflection
-updated: 2026-08-07
+  - psy214-week06-lesson-psy214-week06-connectunplug-nature-part-2
+updated: 2026-08-10
 ---
 
 ## Nature Therapy
@@ -28,3 +29,4 @@ Nature therapy is a practice aimed at healing and resilience-building through in
 
 - [fxa202-week03-a-healing-journey](../sources/fxa202-week03-a-healing-journey.md)
 - [fxa202-week03-at4-critical-reflection](../sources/fxa202-week03-at4-critical-reflection.md)
+- [psy214-week06-lesson-psy214-week06-connectunplug-nature-part-2](../sources/psy214-week06-lesson-psy214-week06-connectunplug-nature-part-2.md)

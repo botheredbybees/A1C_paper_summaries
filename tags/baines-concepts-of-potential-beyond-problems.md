@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: baines-concepts-of-potential-beyond-problems
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Baines Concepts Of Potential Beyond Problems

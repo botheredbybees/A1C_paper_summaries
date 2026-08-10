@@ -10,7 +10,7 @@ tags: ["mindfulness", "nature-based-intervention", "anxiety-management", "colleg
 key_concepts: ["Attention Restoration Theory (ART)", "Mindfulness Based Interventions (MBIs)"]
 methods: []
 slug: fxa101-week00-group-nature-based-mindfulness-interventions-nature-based
-related: ["anxiety-management", "mindfulness", "public-health"]
+related: ["anxiety-management", "attention-restoration-theory", "attention-restoration-theory-art", "mindfulness", "public-health"]
 created: 2026-08-08
 updated: 2026-08-08
 ---
@@ -44,5 +44,7 @@ This paper discusses the mental health crisis among college students, particular
 ## See Also
 
 - [anxiety-management](../topics/anxiety-management.md)
+- [attention-restoration-theory](../topics/attention-restoration-theory.md)
+- [attention-restoration-theory-art](../topics/attention-restoration-theory-art.md)
 - [mindfulness](../topics/mindfulness.md)
 - [public-health](../topics/public-health.md)

@@ -6,8 +6,9 @@ confidence: medium
 tags: ["learning-strategies"]
 sources:
   - fxa101-week05-reflection-on-designing-metacognitive-interventions-to
+  - fxa101-week06-fxa101-week-6-welcome-(2)
   - fxa300-week02-understanding-the-brain-the-birth-of-a-learning-science
-updated: 2026-08-07
+updated: 2026-08-10
 ---
 
 ## Learning Strategies
@@ -27,4 +28,5 @@ The synthesis of the provided sources highlights the importance of metacognitive
 ## Sources
 
 - [fxa101-week05-reflection-on-designing-metacognitive-interventions-to](../sources/fxa101-week05-reflection-on-designing-metacognitive-interventions-to.md)
+- [fxa101-week06-fxa101-week-6-welcome-(2)](../sources/fxa101-week06-fxa101-week-6-welcome-%282%29.md)
 - [fxa300-week02-understanding-the-brain-the-birth-of-a-learning-science](../sources/fxa300-week02-understanding-the-brain-the-birth-of-a-learning-science.md)

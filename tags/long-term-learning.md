@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: long-term-learning
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Long Term Learning

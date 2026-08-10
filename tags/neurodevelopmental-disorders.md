@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurodevelopmental-disorders
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Neurodevelopmental Disorders

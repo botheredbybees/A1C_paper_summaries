@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: selective-non-publication
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Selective Non Publication

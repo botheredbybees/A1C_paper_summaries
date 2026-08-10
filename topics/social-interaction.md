@@ -14,6 +14,7 @@ sources:
   - fxa100-week11-the-emotional-response-to-social-dancing-and-walks-in
   - fxa100-week12-using-music-to-develop-a-multisensory-communicative
   - fxa101-week04-creativity-in-later-life
+  - fxa301-week06-ballet-moves-for-adult-creative-health
   - fxa301-week08-the-cultural-value-of-older-peoples-experiences-of-theater
   - fxa303-play-for-health-across-the-lifespan-ch06-chapter-7
   - fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than
@@ -22,7 +23,7 @@ tags:
 - social-interaction
 title: Social Interaction in Aged Care
 type: topic
-updated: 2026-08-07
+updated: 2026-08-10
 ---
 
 ## Social Interaction in Aged Care
@@ -52,6 +53,7 @@ The sources collectively highlight the significant role of social interactions a
 - [fxa100-week11-the-emotional-response-to-social-dancing-and-walks-in](../sources/fxa100-week11-the-emotional-response-to-social-dancing-and-walks-in.md)
 - [fxa100-week12-using-music-to-develop-a-multisensory-communicative](../sources/fxa100-week12-using-music-to-develop-a-multisensory-communicative.md)
 - [fxa101-week04-creativity-in-later-life](../sources/fxa101-week04-creativity-in-later-life.md)
+- [fxa301-week06-ballet-moves-for-adult-creative-health](../sources/fxa301-week06-ballet-moves-for-adult-creative-health.md)
 - [fxa301-week08-the-cultural-value-of-older-peoples-experiences-of-theater](../sources/fxa301-week08-the-cultural-value-of-older-peoples-experiences-of-theater.md)
 - [fxa303-play-for-health-across-the-lifespan-ch06-chapter-7](../sources/fxa303-play-for-health-across-the-lifespan-ch06-chapter-7.md)
 - [fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than](../sources/fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than.md)

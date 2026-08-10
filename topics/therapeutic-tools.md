@@ -5,11 +5,12 @@ slug: therapeutic-tools-in-dementia-and-child-therapy
 sources:
   - fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care
   - fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy
+  - fxa303-week06-puppet-assisted-play-therapy
 tags:
 - therapeutic-tools
 title: Therapeutic Tools in Dementia and Child Therapy
 type: topic
-updated: 2026-05-11
+updated: 2026-08-10
 ---
 
 ## Therapeutic Tools in Dementia and Child Therapy
@@ -32,3 +33,4 @@ In contrast, Source 2 focuses on the psychological benefits derived from using p
 
 - [fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care](../sources/fxa100-week03-week-3-activities-fxa100-the-arts-and-dementia-care.md)
 - [fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy](../sources/fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy.md)
+- [fxa303-week06-puppet-assisted-play-therapy](../sources/fxa303-week06-puppet-assisted-play-therapy.md)

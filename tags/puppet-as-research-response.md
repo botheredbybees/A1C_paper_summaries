@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: puppet-as-research-response
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Puppet As Research Response

@@ -6,12 +6,13 @@ sources:
   - fxa100-week01-the-science-of-lewy-body-dementia-video-transcript
   - fxa100-week01-what-is-alzheimers-disease-video-transcript
   - fxa100-week01-what-is-frontotemporal-dementia
+  - fxa300-week06-nothing-to-say-something-to-sing-primary-progressive
   - fxa303-week13-distinct-mri-atrophy-patterns-in-autopsy-proven-alzheimers
 tags:
 - neurodegenerative-disorders
 title: Neurodegenerative Disorders
 type: topic
-updated: 2026-05-15
+updated: 2026-08-10
 ---
 
 ## Neurodegenerative Disorders
@@ -33,4 +34,5 @@ The analysis of neurodegenerative disorders such as Lewy body dementia, Alzheime
 - [fxa100-week01-the-science-of-lewy-body-dementia-video-transcript](../sources/fxa100-week01-the-science-of-lewy-body-dementia-video-transcript.md)
 - [fxa100-week01-what-is-alzheimers-disease-video-transcript](../sources/fxa100-week01-what-is-alzheimers-disease-video-transcript.md)
 - [fxa100-week01-what-is-frontotemporal-dementia](../sources/fxa100-week01-what-is-frontotemporal-dementia.md)
+- [fxa300-week06-nothing-to-say-something-to-sing-primary-progressive](../sources/fxa300-week06-nothing-to-say-something-to-sing-primary-progressive.md)
 - [fxa303-week13-distinct-mri-atrophy-patterns-in-autopsy-proven-alzheimers](../sources/fxa303-week13-distinct-mri-atrophy-patterns-in-autopsy-proven-alzheimers.md)

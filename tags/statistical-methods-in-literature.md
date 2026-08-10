@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: statistical-methods-in-literature
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Statistical Methods In Literature

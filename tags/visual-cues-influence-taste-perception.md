@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-cues-influence-taste-perception
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Visual Cues Influence Taste Perception

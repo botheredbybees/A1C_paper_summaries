@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: public-health
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Public Health
@@ -12,6 +12,7 @@ updated: 2026-08-08
 - [Brain training using cognitive apps can improve cognitive performance and processing speed in older adults](../sources/fxa101-week04-brain-training-using-cognitive-apps-can-improve-cognitive.md)
 - [Creativity throughout life](../sources/fxa101-week04-lesson-fxa101-week04-chapter-3-creativity-throughout-life.md)
 - [Music and Movement for Health: an arts-based Intervention to promote health and wellbeing of community dwelling older adults in Ireland](../sources/fxa300-week05-music-and-movement-for-health-an-arts-based-intervention-to.md)
+- [Inventing Conflicts of Interest: A History of Tobacco Industry Tactics](../sources/fxa300-week06-web-article-brandt-2012.md)
 - [Art Is the Evidence: Convincing Public Communication of Art-Based Research and Its Outcomes](../sources/fxa301-applied-artes-and-health-ch01-2021-graff.md)
 - [Theoretical Background to Arts in Health](../sources/fxa301-arts-in-health-ch04-48-haldane-d.md)
 - [The value of music for public health](../sources/fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26.md)
@@ -26,6 +27,7 @@ updated: 2026-08-08
 - [Mind, Body, Spirit: How Museums Impact Health and Wellbeing](../sources/fxa301-week05-mind-body-spirit-how-museums-impact-health-and-wellbeing.md)
 - [Museums for Health and Wellbeing](../sources/fxa301-week05-museums-for-health-and-wellbeing.md)
 - [The health and well-being potential of museums and art galleries](../sources/fxa301-week05-the-health-and-well-being-potential-of-museums-and-art.md)
+- [Social dancing to reduce falls in older adults](../sources/fxa301-week06-social-dancing-to-reduce-falls-in-older-adults.md)
 - [Social Dancing to Reduce Falls in Older Adults \u2014 A Cluster Randomised Controlled Trial](../sources/fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster.md)
 - [Statistical analysis of educational outcomes among Big Noise Raploch participants](../sources/fxa301-week06-statistical-analysis-of-educational-outcomes-among-big.md)
 - [The Connection Between Art, Healing, and Public Health: A Review of Current Literature](../sources/fxa301-week08-the-connection-between-art-healing-and-public-health-a.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: compression-of-morbidity-hypothesis
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Compression Of Morbidity Hypothesis

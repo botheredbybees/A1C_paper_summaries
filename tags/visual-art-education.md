@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-art-education
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Visual Art Education

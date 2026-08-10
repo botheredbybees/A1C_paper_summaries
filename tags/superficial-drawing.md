@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: superficial-drawing
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Superficial Drawing

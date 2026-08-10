@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-enhancement-through-art
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Cognitive Enhancement Through Art

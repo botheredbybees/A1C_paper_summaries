@@ -11,7 +11,7 @@ tags: ["community-resilience", "creative-arts-recovery", "environmental-disaster
 key_concepts: ["creative recovery", "pedagogies of visual literacy", "community well-being"]
 methods: ["case study"]
 slug: fxa303-week09-the-afloat-project
-related: ["community-resilience"]
+related: ["community-resilience", "urban-planning"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,3 +44,4 @@ The 'Afloat' project, initiated by the City of Hobart following the destructive 
 ## See Also
 
 - [community-resilience](../topics/community-resilience.md)
+- [urban-planning](../topics/urban-planning.md)

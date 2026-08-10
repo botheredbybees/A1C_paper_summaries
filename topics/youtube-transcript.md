@@ -7,7 +7,8 @@ tags: ["youtube-transcript"]
 sources:
   - fxa300-week04-transcript-delete-this-element-url-only
   - fxa302-week05-transcript-uploaded-by-evelyn-glennie-url-only
-updated: 2026-08-03
+  - fxa302-week06-transcript-download-transcript-url-only
+updated: 2026-08-10
 ---
 
 ## YouTube Transcript Retrieval and Error Handling
@@ -27,3 +28,4 @@ The synthesis of YouTube transcript retrieval highlights a contrast between auto
 
 - [fxa300-week04-transcript-delete-this-element-url-only](../sources/fxa300-week04-transcript-delete-this-element-url-only.md)
 - [fxa302-week05-transcript-uploaded-by-evelyn-glennie-url-only](../sources/fxa302-week05-transcript-uploaded-by-evelyn-glennie-url-only.md)
+- [fxa302-week06-transcript-download-transcript-url-only](../sources/fxa302-week06-transcript-download-transcript-url-only.md)

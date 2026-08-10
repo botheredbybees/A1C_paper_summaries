@@ -7,6 +7,7 @@ sources:
   - fxa100-week11-lesson-fxa100-week11-page-4-week-10-activities
   - fxa300-week05-a-proposed-glossary-for-use-in-affective-response
   - fxa300-week05-lesson-fxa300-week05-page-2-1
+  - fxa300-week06-fxa300-week-6-lecture-research-methods-in-music-mind-and
   - fxa301-applied-artes-and-health-ch01-2021-graff
   - fxa301-arts-in-health-ch29-4-invite-open-responses
   - fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision
@@ -21,7 +22,7 @@ tags:
 - research-methods
 title: Research Methods in Healthcare Evaluation
 type: topic
-updated: 2026-08-07
+updated: 2026-08-10
 ---
 
 ## Research Methods in Healthcare Evaluation
@@ -44,6 +45,7 @@ The sources collectively emphasize the importance of various research methodolog
 - [fxa100-week11-lesson-fxa100-week11-page-4-week-10-activities](../sources/fxa100-week11-lesson-fxa100-week11-page-4-week-10-activities.md)
 - [fxa300-week05-a-proposed-glossary-for-use-in-affective-response](../sources/fxa300-week05-a-proposed-glossary-for-use-in-affective-response.md)
 - [fxa300-week05-lesson-fxa300-week05-page-2-1](../sources/fxa300-week05-lesson-fxa300-week05-page-2-1.md)
+- [fxa300-week06-fxa300-week-6-lecture-research-methods-in-music-mind-and](../sources/fxa300-week06-fxa300-week-6-lecture-research-methods-in-music-mind-and.md)
 - [fxa301-applied-artes-and-health-ch01-2021-graff](../sources/fxa301-applied-artes-and-health-ch01-2021-graff.md)
 - [fxa301-arts-in-health-ch29-4-invite-open-responses](../sources/fxa301-arts-in-health-ch29-4-invite-open-responses.md)
 - [fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision](../sources/fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: general-adaptation-syndrome-gas
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## General Adaptation Syndrome Gas

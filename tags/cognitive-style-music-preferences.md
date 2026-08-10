@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-style-music-preferences
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Cognitive Style Music Preferences

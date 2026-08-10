@@ -7,7 +7,8 @@ tags: ["youtube-issues"]
 sources:
   - fxa100-week02-transcript-duration-5-50-url-only
   - fxa302-week03-transcript-duration-4-00-url-only
-updated: 2026-07-20
+  - fxa302-week06-transcript-florent-farges-2019-beaux-arts-11-may-url-only
+updated: 2026-08-10
 ---
 
 ## YouTube Caption Issues
@@ -28,3 +29,4 @@ The sources highlight issues related to the availability and functionality of Yo
 
 - [fxa100-week02-transcript-duration-5-50-url-only](../sources/fxa100-week02-transcript-duration-5-50-url-only.md)
 - [fxa302-week03-transcript-duration-4-00-url-only](../sources/fxa302-week03-transcript-duration-4-00-url-only.md)
+- [fxa302-week06-transcript-florent-farges-2019-beaux-arts-11-may-url-only](../sources/fxa302-week06-transcript-florent-farges-2019-beaux-arts-11-may-url-only.md)

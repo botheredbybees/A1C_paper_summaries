@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: accessibility-for-disabilities
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Accessibility For Disabilities

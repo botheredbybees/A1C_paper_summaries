@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: enriched-learning-environments
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Enriched Learning Environments

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: fluid-intake-recommendations
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Fluid Intake Recommendations

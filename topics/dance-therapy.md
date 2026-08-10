@@ -33,12 +33,13 @@ sources:
   - fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing
   - fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with
   - fxa301-week06-promoting-wellbeing-and-health-through-active-participation
+  - fxa301-week06-social-dancing-to-reduce-falls-in-older-adults
   - fxa301-week06-the-art-and-science-of-dancemovement-therapy
 tags:
 - dance-therapy
 title: Dance Therapy
 type: topic
-updated: 2026-05-15
+updated: 2026-08-10
 ---
 
 ## Dance Therapy
@@ -91,4 +92,5 @@ While the therapeutic benefits of dance therapy are widely recognized, its integ
 - [fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing](../sources/fxa301-week06-case-studies-of-music-and-dance-for-health-and-wellbeing.md)
 - [fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with](../sources/fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with.md)
 - [fxa301-week06-promoting-wellbeing-and-health-through-active-participation](../sources/fxa301-week06-promoting-wellbeing-and-health-through-active-participation.md)
+- [fxa301-week06-social-dancing-to-reduce-falls-in-older-adults](../sources/fxa301-week06-social-dancing-to-reduce-falls-in-older-adults.md)
 - [fxa301-week06-the-art-and-science-of-dancemovement-therapy](../sources/fxa301-week06-the-art-and-science-of-dancemovement-therapy.md)

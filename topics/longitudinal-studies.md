@@ -3,12 +3,14 @@ confidence: low
 domain: method
 slug: longitudinal-studies
 sources:
-- fxa303-week02-fxa303-week-2-child-development-and-creative-arts
+  - fxa300-week06-lesson-fxa300-week06-page-3
+  - fxa300-week06-risky-business-correlation-and-causation-in-longitudinal
+  - fxa303-week02-fxa303-week-2-child-development-and-creative-arts
 tags:
 - longitudinal-studies
 title: Longitudinal Studies
 type: topic
-updated: 2026-05-04
+updated: 2026-08-10
 ---
 
 ## Longitudinal Studies
@@ -27,4 +29,6 @@ The provided sources highlight the importance of longitudinal studies in underst
 
 ## Sources
 
+- [fxa300-week06-lesson-fxa300-week06-page-3](../sources/fxa300-week06-lesson-fxa300-week06-page-3.md)
+- [fxa300-week06-risky-business-correlation-and-causation-in-longitudinal](../sources/fxa300-week06-risky-business-correlation-and-causation-in-longitudinal.md)
 - [fxa303-week02-fxa303-week-2-child-development-and-creative-arts](../sources/fxa303-week02-fxa303-week-2-child-development-and-creative-arts.md)

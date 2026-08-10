@@ -14,11 +14,12 @@ sources:
   - fxa301-week03-introduction-to-creative-health-extract
   - fxa301-week03-statement-on-lived-experience
   - fxa301-week03-web-article-national-2024
+  - fxa301-week06-ballet-moves-for-adult-creative-health
 tags:
 - creative-health
 title: Creative Health
 type: topic
-updated: 2026-08-07
+updated: 2026-08-10
 ---
 
 ## Creative Health
@@ -48,3 +49,4 @@ The concept of creative health is emerging as a transformative approach to healt
 - [fxa301-week03-introduction-to-creative-health-extract](../sources/fxa301-week03-introduction-to-creative-health-extract.md)
 - [fxa301-week03-statement-on-lived-experience](../sources/fxa301-week03-statement-on-lived-experience.md)
 - [fxa301-week03-web-article-national-2024](../sources/fxa301-week03-web-article-national-2024.md)
+- [fxa301-week06-ballet-moves-for-adult-creative-health](../sources/fxa301-week06-ballet-moves-for-adult-creative-health.md)

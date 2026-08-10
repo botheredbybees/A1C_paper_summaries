@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: covid-19-coping-strategies
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Covid 19 Coping Strategies

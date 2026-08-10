@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: singing-for-better-breathing
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Singing For Better Breathing

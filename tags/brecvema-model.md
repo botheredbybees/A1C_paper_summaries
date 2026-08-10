@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brecvema-model
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Brecvema Model

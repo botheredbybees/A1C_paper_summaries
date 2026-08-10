@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: restaurant-auditory-experience
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Restaurant Auditory Experience

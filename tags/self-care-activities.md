@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: self-care-activities
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Self Care Activities

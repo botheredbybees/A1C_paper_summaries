@@ -11,7 +11,7 @@ tags: ["athletes", "celebration-of-diversity", "confidence", "defiance-of-expect
 key_concepts: ["self-efficacy", "defiance-of-expectations", "celebration-of-diversity"]
 methods: []
 slug: fxa301-week11-transcript-were-the-superhumans-rio-paralympics-2016
-related: []
+related: ["inspiration"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -41,4 +41,4 @@ This is a transcript of the trailer for the documentary series 'We're the Superh
 
 ## See Also
 
-*(none yet)*
+- [inspiration](../topics/inspiration.md)

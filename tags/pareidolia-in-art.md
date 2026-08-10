@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: pareidolia-in-art
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Pareidolia In Art

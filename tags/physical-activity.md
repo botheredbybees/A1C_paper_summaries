@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: physical-activity
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Physical Activity
@@ -16,3 +16,5 @@ updated: 2026-08-08
 - [Seniors Ballet QUT - Queensland Ballet Project](../sources/fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project.md)
 - [Physical activity and depression: Towards understanding the antidepressant mechanisms of physical activity](../sources/psy214-week00-physical-activity-and-depression-towards-understanding-the.md)
 - [Sleep and Health](../sources/psy214-week05-lesson-psy214-week05-sleep-and-health.md)
+- [Physical Activity and Health](../sources/psy214-week06-lesson-psy214-week06-move-variety-is-the-spice-of-life.md)
+- [Physical Activity and Nature Engagement](../sources/psy214-week06-lesson-psy214-week06-week-5-introduction.md)

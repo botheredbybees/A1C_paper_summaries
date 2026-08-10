@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-education
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Music Education
@@ -18,6 +18,7 @@ updated: 2026-08-08
 - [Movement-Based Music in the Classroom: Investigating the Effects of Music Programs Incorporating Body Movement in Primary School Children](../sources/fxa300-week01-movement-based-music-in-the-classroom-investigating-the.md)
 - [Music Training Improves Verbal but Not Visual Memory: Cross-Sectional and Longitudinal Explorations in Children](../sources/fxa300-week03-music-training-improves-verbal-but-not-visual-memory-cross.md)
 - [A Proposed Glossary for Use in Affective Response Literature in Music](../sources/fxa300-week05-a-proposed-glossary-for-use-in-affective-response.md)
+- [The Effect of Instrumental Music Participation and Socioeconomic Status on Ohio Fourth-, Sixth-, and Ninth-Grade Proficiency Test Performance](../sources/fxa300-week06-the-effect-of-instrumental-music-participation-and.md)
 - [Culture of Inquiry](../sources/fxa301-week01-culture-of-inquiry.md)
 - [An education in music makes you a better employee. Are recruiters in tune?](../sources/fxa301-week05-an-education-in-music-makes-you-a-better-employee-are.md)
 - [Fading Notes: Music Education for the Next Generation of Primary Teachers](../sources/fxa301-week05-fading-notes-music-education-for-the-next-generation-of.md)
@@ -26,6 +27,7 @@ updated: 2026-08-08
 - [Evaluation of Big Noise Douglas](../sources/fxa301-week06-evaluation-of-big-noise-douglas.md)
 - [Case Studies of Community Projects](../sources/fxa301-week06-lesson-fxa301-week06-page-2.md)
 - [People change lives: Consolidating five years of evaluation learning from Sistema Scotland\u2019s Big Noise centres in Stirling, Glasgow and Aberdeen](../sources/fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation.md)
+- [People change lives: consolidating five years of evaluation learning from Sistema Scotland\u2019s Big Noise centres in Stirling, Glasgow and Aberdeen](../sources/fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation-%282%29.md)
 - [Playing for Their Lives: The Global El Sistema Movement for Social Change Through Music (Book Review)](../sources/fxa301-week06-playing-for-their-lives-the-global-el-sistema-movement-for.md)
 - [Recontextualizing Music For Social Change](../sources/fxa301-week06-recontextualizing-music-for-social-change.md)
 - [\"El Sistema\" \u2022 Trailer for film (2008)](../sources/fxa301-week06-transcript-el-sistema-trailer-for-film-2008-url-only.md)

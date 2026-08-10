@@ -22,13 +22,14 @@ sources:
   - fxa101-week04-lesson-fxa101-week04-page-1-introduction-to-week-4
   - fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in
   - fxa301-week11-activation-of-primary-visual-cortex-by-braille-reading-in
+  - fxa302-week06-multimodal-mr-imaging-reveals-large-scale-structural-and
   - fxa303-week02-child-development-fxa303-creative-arts-play-and-mental
   - fxa303-week03-adolescent-development
 tags:
 - neuroplasticity
 title: Neuroplasticity in Brain Rehabilitation
 type: topic
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Neuroplasticity in Brain Rehabilitation
@@ -66,5 +67,6 @@ The sources collectively highlight the potential of music therapy as a therapeut
 - [fxa101-week04-lesson-fxa101-week04-page-1-introduction-to-week-4](../sources/fxa101-week04-lesson-fxa101-week04-page-1-introduction-to-week-4.md)
 - [fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in](../sources/fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in.md)
 - [fxa301-week11-activation-of-primary-visual-cortex-by-braille-reading-in](../sources/fxa301-week11-activation-of-primary-visual-cortex-by-braille-reading-in.md)
+- [fxa302-week06-multimodal-mr-imaging-reveals-large-scale-structural-and](../sources/fxa302-week06-multimodal-mr-imaging-reveals-large-scale-structural-and.md)
 - [fxa303-week02-child-development-fxa303-creative-arts-play-and-mental](../sources/fxa303-week02-child-development-fxa303-creative-arts-play-and-mental.md)
 - [fxa303-week03-adolescent-development](../sources/fxa303-week03-adolescent-development.md)

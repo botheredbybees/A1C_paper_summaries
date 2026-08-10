@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-well-being
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Mental Well Being
@@ -13,3 +13,4 @@ updated: 2026-08-08
 - [The art of being mentally healthy: a study to quantify the relationship between recreational arts engagement and mental well-being in the general population](../sources/fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the.md)
 - [Resilience and Hope: Exploring Immigrant and Refugee Youth Experiences through Community-based Arts Practice](../sources/fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth.md)
 - [Self-Compassion: Theory, Method, Research, and Intervention](../sources/psy214-week00-self-compassion-theory-method-research-and-intervention.md)
+- [Nature Experience Reduces Rumination and Subgenual Prefrontal Cortex Activation](../sources/psy214-week06-nature-experience-reduces-rumination-and-subgenual.md)

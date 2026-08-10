@@ -11,7 +11,7 @@ tags: ["renaissance-art", "health-in-history", "symbolic-representation", "fxa30
 key_concepts: ["Renaissance health practices", "Symbolism in art and music"]
 methods: []
 slug: fxa302-week04-lesson-fxa302-week04-page-3-activities
-related: ["renaissance-art"]
+related: ["renaissance-art", "symbolic-representation"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -42,3 +42,4 @@ This module focuses on the connection between art and health in the Renaissance 
 ## See Also
 
 - [renaissance-art](../topics/renaissance-art.md)
+- [symbolic-representation](../topics/symbolic-representation.md)

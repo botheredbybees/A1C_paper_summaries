@@ -4,12 +4,13 @@ domain: intervention
 slug: dance-interventions-for-falls-prevention
 sources:
   - fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention
+  - fxa301-week06-social-dancing-to-reduce-falls-in-older-adults
   - fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster
 tags:
 - falls-prevention
 title: Dance Interventions for Falls Prevention
 type: topic
-updated: 2026-05-11
+updated: 2026-08-10
 ---
 
 ## Dance Interventions for Falls Prevention
@@ -29,4 +30,5 @@ Both sources underscore the potential of dance-based interventions to prevent fa
 ## Sources
 
 - [fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention](../sources/fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention.md)
+- [fxa301-week06-social-dancing-to-reduce-falls-in-older-adults](../sources/fxa301-week06-social-dancing-to-reduce-falls-in-older-adults.md)
 - [fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster](../sources/fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster.md)

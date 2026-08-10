@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-health
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Mental Health
@@ -28,6 +28,7 @@ updated: 2026-08-08
 - [Exploring Colour Theory Through a Personal Photo Essay](../sources/fxa202-week10-exploring-colour-theory-through-a-personal-photo-essay.md)
 - [Therapeutic benefits and limitations of participatory photography for adults with mental health problems: A systematic search and literature review](../sources/fxa202-week13-therapeutic-benefits-and-limitations-of-participatory.md)
 - [Music and Mind: Harnessing the Arts for Health and Wellness](../sources/fxa300-week02-music-and-mind-harnessing-the-arts-for-health-and-wellness.md)
+- [Book Reviews](../sources/fxa300-week06-book-reviews.md)
 - [The Oxford Handbook of Dance and Wellbeing](../sources/fxa301-oxford-handbook-of-dance-and-wellbeing.md)
 - [Mental Health and Wellbeing across the Life Course - Extract](../sources/fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract.md)
 - [Art as Therapy](../sources/fxa301-week05-art-as-therapy.md)
@@ -69,3 +70,4 @@ updated: 2026-08-08
 - [Healthy Eating and Mental Health](../sources/psy214-week04-lesson-psy214-week04-nutritional-science.md)
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness - Week on Rest and Relaxation](../sources/psy214-week05-lesson-psy214-week05-week-5-introduction1.md)
 - [Sleep, Circadian Rhythms and Health](../sources/psy214-week05-sleep-circadian-rhythms-and-health.md)
+- [Physical Activity and Health](../sources/psy214-week06-lesson-psy214-week06-move-variety-is-the-spice-of-life.md)

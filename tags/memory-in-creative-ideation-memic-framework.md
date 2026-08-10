@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: memory-in-creative-ideation-memic-framework
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Memory In Creative Ideation Memic Framework

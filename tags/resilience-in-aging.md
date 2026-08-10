@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: resilience-in-aging
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Resilience In Aging

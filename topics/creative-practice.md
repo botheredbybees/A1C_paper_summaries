@@ -5,9 +5,10 @@ title: "Creative Practice in Healthcare"
 confidence: medium
 tags: ["creative-practice"]
 sources:
+  - fxa101-week06-conscious-creativity-look-connect-create-chapter-2
   - fxa202-week08-week-8-lecture-notes-editing-your-images-(3)
   - fxa302-week01-fxa302-week-1-introduction
-updated: 2026-07-06
+updated: 2026-08-10
 ---
 
 ## Creative Practice in Healthcare
@@ -25,5 +26,6 @@ The integration of creative practices within the realm of healthcare emerges as 
 
 ## Sources
 
+- [fxa101-week06-conscious-creativity-look-connect-create-chapter-2](../sources/fxa101-week06-conscious-creativity-look-connect-create-chapter-2.md)
 - [fxa202-week08-week-8-lecture-notes-editing-your-images-(3)](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images-%283%29.md)
 - [fxa302-week01-fxa302-week-1-introduction](../sources/fxa302-week01-fxa302-week-1-introduction.md)

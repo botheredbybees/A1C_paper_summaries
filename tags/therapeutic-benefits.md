@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-benefits
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Therapeutic Benefits
@@ -19,6 +19,7 @@ updated: 2026-08-08
 - [Music stimulates muscles, mind, and feelings in one go](../sources/fxa300-week02-music-stimulates-muscles-mind-and-feelings-in-one-go.md)
 - [Music helps heal mind, body, and spirit](../sources/fxa300-week05-music-helps-heal-mind-body-and-spirit.md)
 - [How a dragon sculpture fueled hope and community for our patients](../sources/fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our.md)
+- [A Music and Health Perspective on Music's Perceived \u2018Goodness\u2019](../sources/fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness-%282%29.md)
 - [A systematic review of mental health and wellbeing outcomes of group singing for adults with a mental health condition](../sources/fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes.md)
 - [Further evidence that singing fosters mental health and wellbeing: the West Kent and Medway project](../sources/fxa301-week06-further-evidence-that-singing-fosters-mental-health-and.md)
 - [Arts and Refugees: Multidisciplinary Perspectives (Vol. 2)](../sources/fxa301-week11-arts-and-refugees-multidisciplinary-perspectives-vol-2.md)

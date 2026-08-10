@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: veterans-welfare
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Veterans Welfare

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: stand-up-comedy-analysis
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Stand Up Comedy Analysis

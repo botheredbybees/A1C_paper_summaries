@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: body-movement-analysis
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Body Movement Analysis

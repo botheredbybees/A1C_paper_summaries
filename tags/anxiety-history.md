@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: anxiety-history
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Anxiety History

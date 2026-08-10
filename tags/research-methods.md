@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: research-methods
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Research Methods
@@ -10,6 +10,7 @@ updated: 2026-08-08
 - [Activities for Week 11 - FXA100 The Arts and Dementia Care](../sources/fxa100-week11-lesson-fxa100-week11-page-4-week-10-activities.md)
 - [A Proposed Glossary for Use in Affective Response Literature in Music](../sources/fxa300-week05-a-proposed-glossary-for-use-in-affective-response.md)
 - [Understanding Musical Taste](../sources/fxa300-week05-lesson-fxa300-week05-page-2-1.md)
+- [FXA300 Week 6 Lecture: Research Methods in Music, Mind, and Body](../sources/fxa300-week06-fxa300-week-6-lecture-research-methods-in-music-mind-and.md)
 - [Art Is the Evidence: Convincing Public Communication of Art-Based Research and Its Outcomes](../sources/fxa301-applied-artes-and-health-ch01-2021-graff.md)
 - [Research Related Projects and Problem Tree Development](../sources/fxa301-arts-in-health-ch29-4-invite-open-responses.md)
 - [Evaluation, Research and Audits in Healthcare](../sources/fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision.md)

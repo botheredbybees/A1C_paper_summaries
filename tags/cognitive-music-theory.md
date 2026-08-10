@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-music-theory
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Cognitive Music Theory

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: observational-scale-validation
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Observational Scale Validation

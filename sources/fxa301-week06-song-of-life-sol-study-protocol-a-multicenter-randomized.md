@@ -11,7 +11,7 @@ tags: ["music-therapy", "palliative-care", "quality-of-life", "randomized-trial"
 key_concepts: ["emotional-support", "spiritual-integration", "psychological-quality-of-life"]
 methods: ["randomized-controlled-trial", "qualitative-analysis"]
 slug: fxa301-week06-song-of-life-sol-study-protocol-a-multicenter-randomized
-related: ["music-therapy", "palliative-care", "quality-of-life", "spiritual-wellbeing"]
+related: ["music-therapy", "palliative-care", "quality-of-life", "randomized-trial", "spiritual-wellbeing"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -48,4 +48,5 @@ The 'Song of Life' (SOL) study protocol details a randomized controlled trial as
 - [music-therapy](../topics/music-therapy.md)
 - [palliative-care](../topics/palliative-care.md)
 - [quality-of-life](../topics/quality-of-life.md)
+- [randomized-trial](../topics/randomized-trial.md)
 - [spiritual-wellbeing](../topics/spiritual-wellbeing.md)

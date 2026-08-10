@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sustainable-building-materials
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Sustainable Building Materials

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: lifestyle-medicine
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Lifestyle Medicine
@@ -12,3 +12,4 @@ updated: 2026-08-08
 - [Introduction to Lifestyle Medicine](../sources/psy214-week04-introduction-to-lifestyle-medicine.md)
 - [Healthy Eating: The Big Picture](../sources/psy214-week04-lesson-psy214-week04-how-we-eat-and-what-impact-it-has.md)
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness - Lifestyle Theme Overview](../sources/psy214-week04-lesson-psy214-week04-test.md)
+- [Physical Activity and Nature Engagement](../sources/psy214-week06-lesson-psy214-week06-week-5-introduction.md)

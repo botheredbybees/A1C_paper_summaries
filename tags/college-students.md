@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: college-students
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## College Students

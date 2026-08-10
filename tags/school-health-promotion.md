@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: school-health-promotion
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## School Health Promotion

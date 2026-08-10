@@ -4,12 +4,13 @@ domain: intervention
 slug: puppet-play-therapy
 sources:
   - fxa303-week06-mr-fox-is-sad
+  - fxa303-week06-puppet-play-therapy-a-practical-guidebook-section-iv-puppet
   - fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental
 tags:
 - puppet-play-therapy
 title: Puppet Play Therapy
 type: topic
-updated: 2026-08-07
+updated: 2026-08-10
 ---
 
 ## Puppet Play Therapy
@@ -29,4 +30,5 @@ Puppet play therapy emerges as a versatile therapeutic approach that facilitates
 ## Sources
 
 - [fxa303-week06-mr-fox-is-sad](../sources/fxa303-week06-mr-fox-is-sad.md)
+- [fxa303-week06-puppet-play-therapy-a-practical-guidebook-section-iv-puppet](../sources/fxa303-week06-puppet-play-therapy-a-practical-guidebook-section-iv-puppet.md)
 - [fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental](../sources/fxa303-week06-week-6-activities-fxa303-creative-arts-play-and-mental.md)

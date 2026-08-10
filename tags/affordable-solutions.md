@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: affordable-solutions
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Affordable Solutions

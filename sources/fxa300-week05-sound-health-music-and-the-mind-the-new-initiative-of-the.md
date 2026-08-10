@@ -11,7 +11,7 @@ tags: ["music-therapy", "brain-health", "public-health-initiative", "neuroscienc
 key_concepts: ["music therapy", "neural mechanisms", "clinical efficacy"]
 methods: ["collaborative research"]
 slug: fxa300-week05-sound-health-music-and-the-mind-the-new-initiative-of-the
-related: ["brain-health", "music-therapy", "neuroscience-research"]
+related: ["brain-health", "music-therapy", "neuroscience-research", "public-health-initiative"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -45,3 +45,4 @@ This editorial discusses the 'Sound Health: Music and the Mind' initiative, a co
 - [brain-health](../topics/brain-health.md)
 - [music-therapy](../topics/music-therapy.md)
 - [neuroscience-research](../topics/neuroscience-research.md)
+- [public-health-initiative](../topics/public-health-initiative.md)

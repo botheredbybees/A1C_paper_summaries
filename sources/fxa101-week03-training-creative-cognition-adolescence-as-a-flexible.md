@@ -11,7 +11,7 @@ tags: ["adolescent-development", "creative-ideation", "neuroplasticity", "fxa101
 key_concepts: ["divergent-thinking", "cognitive-flexibility"]
 methods: ["controlled-experiment"]
 slug: fxa101-week03-training-creative-cognition-adolescence-as-a-flexible
-related: ["adolescent-development", "neuroplasticity"]
+related: ["adolescent-development", "cognitive-flexibility", "neuroplasticity"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -41,4 +41,5 @@ The article investigates the developmental progression of creative ideation from
 ## See Also
 
 - [adolescent-development](../topics/adolescent-development.md)
+- [cognitive-flexibility](../topics/cognitive-flexibility.md)
 - [neuroplasticity](../topics/neuroplasticity.md)

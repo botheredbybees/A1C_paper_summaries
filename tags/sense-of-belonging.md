@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sense-of-belonging
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Sense Of Belonging

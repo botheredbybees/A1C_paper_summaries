@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-health-models
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Mental Health Models

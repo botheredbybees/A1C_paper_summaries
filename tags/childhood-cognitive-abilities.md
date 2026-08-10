@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: childhood-cognitive-abilities
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Childhood Cognitive Abilities

@@ -5,11 +5,12 @@ slug: music-and-emergent-social-phenomena
 sources:
   - fxa100-week02-transcript-moshing-with-physics-jesse-silverberg-tedxyale
   - fxa301-week06-brisbanes-pub-choir-movement-marks-first-year
+  - fxa301-week06-brisbanes-pub-choir-movement-marks-first-year-(2)
 tags:
 - music-culture
 title: Music and Emergent Social Phenomena
 type: topic
-updated: 2026-05-11
+updated: 2026-08-10
 ---
 
 ## Music and Emergent Social Phenomena
@@ -30,3 +31,4 @@ Jesse Silverberg's exploration of mosh pit dynamics in heavy metal concerts high
 
 - [fxa100-week02-transcript-moshing-with-physics-jesse-silverberg-tedxyale](../sources/fxa100-week02-transcript-moshing-with-physics-jesse-silverberg-tedxyale.md)
 - [fxa301-week06-brisbanes-pub-choir-movement-marks-first-year](../sources/fxa301-week06-brisbanes-pub-choir-movement-marks-first-year.md)
+- [fxa301-week06-brisbanes-pub-choir-movement-marks-first-year-(2)](../sources/fxa301-week06-brisbanes-pub-choir-movement-marks-first-year-%282%29.md)

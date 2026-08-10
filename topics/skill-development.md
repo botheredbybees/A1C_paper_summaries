@@ -6,8 +6,9 @@ confidence: medium
 tags: ["skill-development"]
 sources:
   - fxa202-week13-through-creative-lenses-investigating-the-personal-growth
+  - fxa300-week06-risky-business-correlation-and-causation-in-longitudinal
   - fxa303-week11-bell-shakespeares-youth-justice-program
-updated: 2026-08-07
+updated: 2026-08-10
 ---
 
 ## Skill Development Through Creative Arts
@@ -27,4 +28,5 @@ The synthesis of skill development through creative arts, particularly photograp
 ## Sources
 
 - [fxa202-week13-through-creative-lenses-investigating-the-personal-growth](../sources/fxa202-week13-through-creative-lenses-investigating-the-personal-growth.md)
+- [fxa300-week06-risky-business-correlation-and-causation-in-longitudinal](../sources/fxa300-week06-risky-business-correlation-and-causation-in-longitudinal.md)
 - [fxa303-week11-bell-shakespeares-youth-justice-program](../sources/fxa303-week11-bell-shakespeares-youth-justice-program.md)

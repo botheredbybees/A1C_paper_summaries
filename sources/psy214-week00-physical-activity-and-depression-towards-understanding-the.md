@@ -7,13 +7,15 @@ doi: https://doi.org/10.1016/j.neubiorev.2019.09.040
 appearances:
   - unit: PSY214
     week: "00"
+  - unit: PSY214
+    week: "06"
 tags: ["physical-activity", "depression-treatment", "exercise-interventions", "mental-health-outcomes", "cardiovascular-risk", "psy214", "inflammation", "endocrine-system-changes"]
 key_concepts: ["neuroplasticity", "inflammation", "self-esteem", "social-support", "endocrine-system-changes"]
 methods: ["systematic-review"]
 slug: psy214-week00-physical-activity-and-depression-towards-understanding-the
 related: ["depression-treatment", "exercise-interventions", "inflammation", "mental-health-outcomes", "physical-activity"]
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-08-10
 ---
 
 _All claims sourced from ../raw/pdf/psy214-week00-physical-activity-and-depression-towards-understanding-the.md_

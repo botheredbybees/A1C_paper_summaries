@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-therapy
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Music Therapy
@@ -122,6 +122,11 @@ updated: 2026-08-08
 - [Music helps heal mind, body, and spirit](../sources/fxa300-week05-music-helps-heal-mind-body-and-spirit.md)
 - [Sound Health: Music and the Mind](../sources/fxa300-week05-sound-health-music-and-the-mind.md)
 - [\u201cSound Health: Music and the Mind\u201d: The New Initiative of the National Institutes of Health and National Endowment for the Arts](../sources/fxa300-week05-sound-health-music-and-the-mind-the-new-initiative-of-the.md)
+- [A Case Study on a Home-Based Caregiver-Delivered Music-with-Movement Intervention for People with Early Dementia](../sources/fxa300-week06-a-case-study-on-a-home-based-caregiver-delivered-music-with.md)
+- [HOMESIDE\u2014A home-based family caregiver-delivered music and reading intervention for people living with dementia: A randomised controlled trial](../sources/fxa300-week06-homesidea-home-based-family-caregiver-delivered-music-and.md)
+- [In-home online music-based intervention for stress, coping, and depression among family caregivers of persons with dementia: A pilot study](../sources/fxa300-week06-in-home-online-music-based-intervention-for-stress-coping.md)
+- [FXA300 Music, Mind and Body - Week 6 Activities](../sources/fxa300-week06-lesson-fxa300-week06-page-4-activities.md)
+- [Preferred Music Listening for People Living with Dementia: Two Home-Based Case Studies Discussing Compilation Process, Autobiographical and Biophysical Responses](../sources/fxa300-week06-preferred-music-listening-for-people-living-with-dementia.md)
 - [Arts in Health: Designing and researching interventions - Neurology](../sources/fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the.md)
 - [Projects Using Music for Social, Health and Economic Issues](../sources/fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music.md)
 - [Weapons of Mass Happiness: Social Justice and Health Equity in the Context of the Arts](../sources/fxa301-music-healt-and-wellbeing-ch05-10680-meymandi.md)

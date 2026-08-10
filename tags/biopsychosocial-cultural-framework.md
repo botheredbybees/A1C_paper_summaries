@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: biopsychosocial-cultural-framework
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Biopsychosocial Cultural Framework

@@ -10,11 +10,12 @@ sources:
   - fxa301-week11-best-practice-in-making-museums-more-accessible-to-visually
   - fxa301-week11-louvre-abu-dhabi-tactile-studio-inclusive-design-agency
   - fxa301-week11-transcript-youtube-cnjl-fsurmduration
+  - fxa302-week06-beyond-do-not-touch-the-experience-of-a-three-dimensional
 tags:
 - inclusive-design
 title: Inclusive Design
 type: topic
-updated: 2026-08-07
+updated: 2026-08-10
 ---
 
 ## Inclusive Design
@@ -40,3 +41,4 @@ The sources collectively underscore the importance of inclusive design in enhanc
 - [fxa301-week11-best-practice-in-making-museums-more-accessible-to-visually](../sources/fxa301-week11-best-practice-in-making-museums-more-accessible-to-visually.md)
 - [fxa301-week11-louvre-abu-dhabi-tactile-studio-inclusive-design-agency](../sources/fxa301-week11-louvre-abu-dhabi-tactile-studio-inclusive-design-agency.md)
 - [fxa301-week11-transcript-youtube-cnjl-fsurmduration](../sources/fxa301-week11-transcript-youtube-cnjl-fsurmduration.md)
+- [fxa302-week06-beyond-do-not-touch-the-experience-of-a-three-dimensional](../sources/fxa302-week06-beyond-do-not-touch-the-experience-of-a-three-dimensional.md)

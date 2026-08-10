@@ -10,7 +10,7 @@ tags: ["creative-activities", "green-prescriptions", "mental-health-service-user
 key_concepts: ["biopsychosocial effects", "community of practice", "psychological well-being"]
 methods: ["qualitative interviews", "quantitative psychological measures"]
 slug: fxa101-week00-art-nature-and-mental-health-assessing-the-biopsychosocial
-related: ["creative-activities", "psychological-wellbeing", "social-prescribing"]
+related: ["creative-activities", "mixed-methods", "psychological-wellbeing", "social-prescribing"]
 created: 2026-08-08
 updated: 2026-08-08
 ---
@@ -46,5 +46,6 @@ This paper evaluates a unique museum-based intervention combining horticulture, 
 ## See Also
 
 - [creative-activities](../topics/creative-activities.md)
+- [mixed-methods](../topics/mixed-methods.md)
 - [psychological-wellbeing](../topics/psychological-wellbeing.md)
 - [social-prescribing](../topics/social-prescribing.md)

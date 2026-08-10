@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-expression
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Creative Expression
@@ -43,6 +43,7 @@ updated: 2026-08-08
 - [Refugee Art \u2013 Expressing Experience Through Creativity](../sources/fxa301-week11-refugee-art-expressing-experience-through-creativity.md)
 - [Arts On Prescription Meets Sir Quentin Blake](../sources/fxa303-week03-arts-on-prescription-meets-sir-quentin-blake.md)
 - [From helplessness to a renewed sense of agency: The integration of puppets in the Art & Storytelling school-based creative expression program with immigrant and refugee children](../sources/fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the.md)
+- [FXA303 Week 6: Puppetry in Therapeutic Contexts](../sources/fxa303-week06-fxa303-week-6-puppetry-in-therapeutic-contexts.md)
 - [FXA303 Creative Arts, Play and Mental Wellbeing - Week 6 Activities](../sources/fxa303-week06-lesson-fxa303-week06-page-4-week-6-activities.md)
 - [We Are All Born Creative: Art Workshops for Resilience](../sources/fxa303-week09-transcript-arts-mid-north-coast-we-are-all-born-creative.md)
 - [A Lot of Us Look at Life Differently: Homeless Youths and Art on the Outside](../sources/fxa303-week11-a-lot-of-us-look-at-life-differently-homeless-youths-and.md)

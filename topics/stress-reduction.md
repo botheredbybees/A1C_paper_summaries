@@ -5,11 +5,13 @@ slug: stress-reduction-through-humor
 sources:
   - fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults
   - fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
+  - psy214-week06-nature-and-well-being-theories
+  - psy214-week06-nature-and-well-being-theories-(2)
 tags:
 - stress-reduction
 title: Stress Reduction Through Humor
 type: topic
-updated: 2026-05-11
+updated: 2026-08-10
 ---
 
 ## Stress Reduction Through Humor
@@ -30,3 +32,5 @@ The utilization of humor and laughter as interventions for stress reduction is e
 
 - [fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults](../sources/fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults.md)
 - [fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine](../sources/fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine.md)
+- [psy214-week06-nature-and-well-being-theories](../sources/psy214-week06-nature-and-well-being-theories.md)
+- [psy214-week06-nature-and-well-being-theories-(2)](../sources/psy214-week06-nature-and-well-being-theories-%282%29.md)

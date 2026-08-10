@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: post-covid-recovery
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Post Covid Recovery

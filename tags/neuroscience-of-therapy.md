@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuroscience-of-therapy
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Neuroscience Of Therapy

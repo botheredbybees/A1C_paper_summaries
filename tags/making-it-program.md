@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: making-it-program
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Making It Program

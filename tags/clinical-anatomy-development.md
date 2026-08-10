@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: clinical-anatomy-development
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Clinical Anatomy Development

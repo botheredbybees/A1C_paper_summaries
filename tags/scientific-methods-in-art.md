@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: scientific-methods-in-art
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Scientific Methods In Art

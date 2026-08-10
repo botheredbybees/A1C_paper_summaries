@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: play-therapy-in-child-development
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Play Therapy In Child Development
@@ -21,8 +21,11 @@ updated: 2026-08-08
 - [Play and Arts-based therapies](../sources/fxa303-week04-play-and-arts-based-therapies.md)
 - [Play therapy in children with autism: Its role, implications, and limitations](../sources/fxa303-week04-play-therapy-in-children-with-autism-its-role-implications.md)
 - [A Review of the Literature: The Use of Interactive Puppet Simulation in Nursing Education and Children's Healthcare](../sources/fxa303-week06-a-review-of-the-literature-the-use-of-interactive-puppet.md)
+- [FXA303 Week 6: Puppetry in Therapeutic Contexts](../sources/fxa303-week06-fxa303-week-6-puppetry-in-therapeutic-contexts.md)
 - [Overview - FXA303 Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week06-overview-fxa303-creative-arts-play-and-mental-wellbeing.md)
+- [Puppet-Assisted Play Therapy](../sources/fxa303-week06-puppet-assisted-play-therapy.md)
 - [Puppet-Assisted Play Therapy: Theory, Research, and Practice](../sources/fxa303-week06-puppet-assisted-play-therapy-theory-research-and-practice.md)
+- [Puppet Play Therapy: A Practical Guidebook - Section IV Puppet Therapy Techniques](../sources/fxa303-week06-puppet-play-therapy-a-practical-guidebook-section-iv-puppet.md)
 - [Puppet play therapy in emergency pediatric dental clinic](../sources/fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic.md)
 - [VIRTUAL PUPPET PLAY THERAPY](../sources/fxa303-week06-virtual-puppet-play-therapy.md)
 - [The effect of Gestalt play therapy in addressing symptoms associated with trauma in children in middle childhood](../sources/fxa303-week09-the-effect-of-gestalt-play-therapy-in-addressing-symptoms.md)

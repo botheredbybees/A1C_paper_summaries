@@ -13,6 +13,7 @@ sources:
   - fxa301-week03-cross-sector-strategies-for-health-and-community-well-being
   - fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing
   - fxa301-week03-week-3-introduction-arts-health-and-wellbeing-policy
+  - fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation-(2)
   - fxa302-week07-a-constructive-critical-response-to-creative-health-the
   - fxa303-week09-trauma-aware-and-anti-oppressive-arts-health-and-community
   - fxa303-week11-web-article-fancourt-2019
@@ -20,7 +21,7 @@ tags:
 - arts-health
 title: Arts and Health
 type: topic
-updated: 2026-08-07
+updated: 2026-08-10
 ---
 
 ## Arts and Health
@@ -49,6 +50,7 @@ The integration of the arts into health interventions has garnered significant a
 - [fxa301-week03-cross-sector-strategies-for-health-and-community-well-being](../sources/fxa301-week03-cross-sector-strategies-for-health-and-community-well-being.md)
 - [fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing](../sources/fxa301-week03-web-lecture-3-arts-in-the-community-for-health-and-wellbeing.md)
 - [fxa301-week03-week-3-introduction-arts-health-and-wellbeing-policy](../sources/fxa301-week03-week-3-introduction-arts-health-and-wellbeing-policy.md)
+- [fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation-(2)](../sources/fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation-%282%29.md)
 - [fxa302-week07-a-constructive-critical-response-to-creative-health-the](../sources/fxa302-week07-a-constructive-critical-response-to-creative-health-the.md)
 - [fxa303-week09-trauma-aware-and-anti-oppressive-arts-health-and-community](../sources/fxa303-week09-trauma-aware-and-anti-oppressive-arts-health-and-community.md)
 - [fxa303-week11-web-article-fancourt-2019](../sources/fxa303-week11-web-article-fancourt-2019.md)

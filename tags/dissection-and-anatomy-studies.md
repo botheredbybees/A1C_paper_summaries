@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dissection-and-anatomy-studies
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Dissection And Anatomy Studies

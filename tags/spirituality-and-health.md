@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: spirituality-and-health
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Spirituality And Health

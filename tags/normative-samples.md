@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: normative-samples
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Normative Samples

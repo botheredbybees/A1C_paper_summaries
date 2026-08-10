@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: african-american-history
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## African American History

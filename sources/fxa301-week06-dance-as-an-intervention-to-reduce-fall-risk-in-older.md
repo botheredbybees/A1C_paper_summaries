@@ -11,7 +11,7 @@ tags: ["dance-intervention", "elderly-health", "fall-prevention", "physical-acti
 key_concepts: ["fall risk reduction", "balance improvement", "functional capacity"]
 methods: ["systematic review", "meta-analysis"]
 slug: fxa301-week06-dance-as-an-intervention-to-reduce-fall-risk-in-older
-related: ["dance-intervention", "elderly-health", "physical-activity", "systematic-review"]
+related: ["dance-intervention", "elderly-health", "fall-prevention", "physical-activity", "systematic-review"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,5 +46,6 @@ This study conducted a systematic review with meta-analysis to summarize the evi
 
 - [dance-intervention](../topics/dance-intervention.md)
 - [elderly-health](../topics/elderly-health.md)
+- [fall-prevention](../topics/fall-prevention.md)
 - [physical-activity](../topics/physical-activity.md)
 - [systematic-review](../topics/systematic-review.md)

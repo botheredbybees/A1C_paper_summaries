@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: health-outcomes-of-arts-interventions
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Health Outcomes Of Arts Interventions

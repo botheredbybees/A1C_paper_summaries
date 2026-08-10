@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuronal-stem-cells
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Neuronal Stem Cells

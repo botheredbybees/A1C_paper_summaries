@@ -34,6 +34,8 @@ sources:
   - fxa300-week04-tonal-structures-in-perception-and-memory
   - fxa300-week05-lesson-fxa300-week05-page-4-activities
   - fxa300-week05-the-sound-of-affect-age-differences-in-perceiving-valence
+  - fxa300-week06-fxa300-week-6-lecture-research-methods-in-music-mind-and
+  - fxa300-week06-lesson-fxa300-week06-page-2-1
   - fxa301-oxford-textbook-of-creative-arts-ch08-96-clift
   - fxa301-week02-aesthetic-responses-to-music-a-questionnaire-study
   - fxa301-week02-an-experience-sampling-study-of-emotional-reactions-to
@@ -47,7 +49,7 @@ tags:
 - music-psychology
 title: Emotional Reactions to Music
 type: topic
-updated: 2026-08-07
+updated: 2026-08-10
 ---
 
 ## Emotional Reactions to Music
@@ -97,6 +99,8 @@ The literature highlights the profound impact of music on human emotion across v
 - [fxa300-week04-tonal-structures-in-perception-and-memory](../sources/fxa300-week04-tonal-structures-in-perception-and-memory.md)
 - [fxa300-week05-lesson-fxa300-week05-page-4-activities](../sources/fxa300-week05-lesson-fxa300-week05-page-4-activities.md)
 - [fxa300-week05-the-sound-of-affect-age-differences-in-perceiving-valence](../sources/fxa300-week05-the-sound-of-affect-age-differences-in-perceiving-valence.md)
+- [fxa300-week06-fxa300-week-6-lecture-research-methods-in-music-mind-and](../sources/fxa300-week06-fxa300-week-6-lecture-research-methods-in-music-mind-and.md)
+- [fxa300-week06-lesson-fxa300-week06-page-2-1](../sources/fxa300-week06-lesson-fxa300-week06-page-2-1.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch08-96-clift](../sources/fxa301-oxford-textbook-of-creative-arts-ch08-96-clift.md)
 - [fxa301-week02-aesthetic-responses-to-music-a-questionnaire-study](../sources/fxa301-week02-aesthetic-responses-to-music-a-questionnaire-study.md)
 - [fxa301-week02-an-experience-sampling-study-of-emotional-reactions-to](../sources/fxa301-week02-an-experience-sampling-study-of-emotional-reactions-to.md)

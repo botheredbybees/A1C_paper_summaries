@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: anatomical-connections
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Anatomical Connections

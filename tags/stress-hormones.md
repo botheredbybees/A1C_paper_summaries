@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: stress-hormones
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Stress Hormones

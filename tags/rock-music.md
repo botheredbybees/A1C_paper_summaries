@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: rock-music
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Rock Music

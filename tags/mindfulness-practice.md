@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mindfulness-practice
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Mindfulness Practice
@@ -19,6 +19,7 @@ updated: 2026-08-08
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness - Practical Advice](../sources/psy214-week03-lesson-psy214-week03-at3-workbook-assessment-workshop.md)
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness: Orientation to Unit Assessments](../sources/psy214-week03-lesson-psy214-week03-introduction.md)
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness - Information Sheet Assessment Criteria](../sources/psy214-week03-lesson-psy214-week03-presentation-assignment-workshop.md)
+- [PSY114 PSY214 Stress, Self-Care and Mindfulness](../sources/psy214-week06-lesson-psy214-week06-connectunplug-nature-part-2.md)
 - [An Adapted, Four-Week Mind\u2013Body Skills Group for Medical Students: Reducing Stress, Increasing Mindfulness, and Enhancing Self-Care](../sources/psy214-week07-an-adapted-four-week-mindbody-skills-group-for-medical.md)
 - [Gaining in a Landscape of Loss: The Experience of Learning and Using Mindfulness Whilst Caring at the End of Life](../sources/psy214-week07-gaining-in-a-landscape-of-loss-the-experience-of-learning.md)
 - [Impact of a mindfulness and self-care intervention on stress, self-compassion, and attentiveness in university healthcare students and faculty](../sources/psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on.md)

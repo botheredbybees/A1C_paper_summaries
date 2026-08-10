@@ -6,7 +6,9 @@ confidence: medium
 tags: ["biophilia"]
 sources:
   - fxa202-week08-reading-notes-from-biophilia-by-edward-o-wilson
-updated: 2026-08-07
+  - psy214-week06-nature-and-well-being-theories
+  - psy214-week06-nature-and-well-being-theories-(2)
+updated: 2026-08-10
 ---
 
 ## Biophilia
@@ -25,3 +27,5 @@ Edward O. Wilson's theory of biophilia posits a profound human attraction to liv
 ## Sources
 
 - [fxa202-week08-reading-notes-from-biophilia-by-edward-o-wilson](../sources/fxa202-week08-reading-notes-from-biophilia-by-edward-o-wilson.md)
+- [psy214-week06-nature-and-well-being-theories](../sources/psy214-week06-nature-and-well-being-theories.md)
+- [psy214-week06-nature-and-well-being-theories-(2)](../sources/psy214-week06-nature-and-well-being-theories-%282%29.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dietary-practices
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Dietary Practices

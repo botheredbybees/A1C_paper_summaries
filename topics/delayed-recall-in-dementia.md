@@ -11,7 +11,8 @@ sources:
   - fxa300-week03-exploring-working-memory-selected-works-of-alan-baddeley
   - fxa300-week03-the-phonological-loop-as-a-language-learning-device
   - fxa300-week03-transcript-youtube-uwkvpfzjwceduration
-updated: 2026-08-07
+  - fxa300-week06-does-music-training-enhance-working-memory-performance
+updated: 2026-08-10
 ---
 
 ## Delayed Recall in Dementia
@@ -36,3 +37,4 @@ This synthesis explores interventions aimed at improving delayed recall and work
 - [fxa300-week03-exploring-working-memory-selected-works-of-alan-baddeley](../sources/fxa300-week03-exploring-working-memory-selected-works-of-alan-baddeley.md)
 - [fxa300-week03-the-phonological-loop-as-a-language-learning-device](../sources/fxa300-week03-the-phonological-loop-as-a-language-learning-device.md)
 - [fxa300-week03-transcript-youtube-uwkvpfzjwceduration](../sources/fxa300-week03-transcript-youtube-uwkvpfzjwceduration.md)
+- [fxa300-week06-does-music-training-enhance-working-memory-performance](../sources/fxa300-week06-does-music-training-enhance-working-memory-performance.md)

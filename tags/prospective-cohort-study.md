@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: prospective-cohort-study
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Prospective Cohort Study

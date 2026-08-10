@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: collage-as-cultural-practice
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Collage As Cultural Practice

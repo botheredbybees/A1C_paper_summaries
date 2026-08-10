@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: personality-development
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Personality Development

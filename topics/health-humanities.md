@@ -31,11 +31,12 @@ sources:
   - fxa302-week03-lesson-fxa302-week03-page-2
   - fxa302-week03-lesson-fxa302-week03-page-3
   - fxa302-week03-lesson-fxa302-week03-week-1-welcome-hm
+  - fxa302-week06-visual-art-and-transformation-(2)
 tags:
 - health-humanities
 title: Health Humanities
 type: topic
-updated: 2026-08-07
+updated: 2026-08-10
 ---
 
 ## Health Humanities
@@ -82,3 +83,4 @@ The concept of Health Humanities encompasses interdisciplinary approaches that i
 - [fxa302-week03-lesson-fxa302-week03-page-2](../sources/fxa302-week03-lesson-fxa302-week03-page-2.md)
 - [fxa302-week03-lesson-fxa302-week03-page-3](../sources/fxa302-week03-lesson-fxa302-week03-page-3.md)
 - [fxa302-week03-lesson-fxa302-week03-week-1-welcome-hm](../sources/fxa302-week03-lesson-fxa302-week03-week-1-welcome-hm.md)
+- [fxa302-week06-visual-art-and-transformation-(2)](../sources/fxa302-week06-visual-art-and-transformation-%282%29.md)

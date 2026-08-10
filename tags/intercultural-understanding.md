@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: intercultural-understanding
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Intercultural Understanding

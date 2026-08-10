@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: paper-tube-structures
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Paper Tube Structures

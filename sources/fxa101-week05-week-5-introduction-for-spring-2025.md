@@ -11,7 +11,7 @@ tags: ["creativity-education", "creative-thinking-skills", "mini-projects-learni
 key_concepts: ["creative thinking", "out-of-comfort-zone learning", "constraint-induced creativity"]
 methods: ["case study"]
 slug: fxa101-week05-week-5-introduction-for-spring-2025
-related: []
+related: ["creative-thinking-skills"]
 created: 2026-08-03
 updated: 2026-08-03
 ---
@@ -42,4 +42,4 @@ This document serves as an introduction to Week 5 of a course on creativity, mar
 
 ## See Also
 
-*(none yet)*
+- [creative-thinking-skills](../topics/creative-thinking-skills.md)

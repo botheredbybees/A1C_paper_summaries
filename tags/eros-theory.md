@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: eros-theory
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Eros Theory

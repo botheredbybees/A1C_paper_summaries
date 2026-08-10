@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: citation-and-referencing
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Citation And Referencing

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: rhythmic-auditory-stimulation
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Rhythmic Auditory Stimulation

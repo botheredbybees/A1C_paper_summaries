@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: personality-coping-strategies
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Personality Coping Strategies

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: delayed-recall-in-dementia
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Delayed Recall In Dementia
@@ -12,3 +12,4 @@ updated: 2026-08-08
 - [Exploring Working Memory: Selected Works of Alan Baddeley](../sources/fxa300-week03-exploring-working-memory-selected-works-of-alan-baddeley.md)
 - [The Phonological Loop as a Language Learning Device](../sources/fxa300-week03-the-phonological-loop-as-a-language-learning-device.md)
 - [Working Memory in Everyday Life](../sources/fxa300-week03-transcript-youtube-uwkvpfzjwceduration.md)
+- [Does music training enhance working memory performance? Findings from a quasi-experimental longitudinal study](../sources/fxa300-week06-does-music-training-enhance-working-memory-performance.md)

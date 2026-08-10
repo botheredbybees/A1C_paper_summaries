@@ -7,7 +7,8 @@ tags: ["creativity-innovation"]
 sources:
   - fxa101-week03-seeking-out-the-new-how-music-teaches-children-to-create
   - fxa101-week05-creativity-and-constraints-exploring-the-role-of
-updated: 2026-08-03
+  - fxa101-week06-examining-the-relationship-between-creativity-and
+updated: 2026-08-10
 ---
 
 ## Creativity and Innovation
@@ -28,3 +29,4 @@ The sources highlight the dual role of music and constraints in fostering creati
 
 - [fxa101-week03-seeking-out-the-new-how-music-teaches-children-to-create](../sources/fxa101-week03-seeking-out-the-new-how-music-teaches-children-to-create.md)
 - [fxa101-week05-creativity-and-constraints-exploring-the-role-of](../sources/fxa101-week05-creativity-and-constraints-exploring-the-role-of.md)
+- [fxa101-week06-examining-the-relationship-between-creativity-and](../sources/fxa101-week06-examining-the-relationship-between-creativity-and.md)

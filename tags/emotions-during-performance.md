@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotions-during-performance
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Emotions During Performance

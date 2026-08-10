@@ -15,6 +15,7 @@ sources:
   - fxa300-week01-movement-based-music-in-the-classroom-investigating-the
   - fxa300-week03-music-training-improves-verbal-but-not-visual-memory-cross
   - fxa300-week05-a-proposed-glossary-for-use-in-affective-response
+  - fxa300-week06-the-effect-of-instrumental-music-participation-and
   - fxa301-week01-culture-of-inquiry
   - fxa301-week05-an-education-in-music-makes-you-a-better-employee-are
   - fxa301-week05-fading-notes-music-education-for-the-next-generation-of
@@ -23,6 +24,7 @@ sources:
   - fxa301-week06-evaluation-of-big-noise-douglas
   - fxa301-week06-lesson-fxa301-week06-page-2
   - fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation
+  - fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation-(2)
   - fxa301-week06-playing-for-their-lives-the-global-el-sistema-movement-for
   - fxa301-week06-recontextualizing-music-for-social-change
   - fxa301-week06-transcript-el-sistema-trailer-for-film-2008-url-only
@@ -36,7 +38,7 @@ tags:
 - music-education
 title: Music Education and Its Broader Impacts
 type: topic
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Music Education and Its Broader Impacts
@@ -67,6 +69,7 @@ The provided sources highlight the multifaceted benefits of music education in f
 - [fxa300-week01-movement-based-music-in-the-classroom-investigating-the](../sources/fxa300-week01-movement-based-music-in-the-classroom-investigating-the.md)
 - [fxa300-week03-music-training-improves-verbal-but-not-visual-memory-cross](../sources/fxa300-week03-music-training-improves-verbal-but-not-visual-memory-cross.md)
 - [fxa300-week05-a-proposed-glossary-for-use-in-affective-response](../sources/fxa300-week05-a-proposed-glossary-for-use-in-affective-response.md)
+- [fxa300-week06-the-effect-of-instrumental-music-participation-and](../sources/fxa300-week06-the-effect-of-instrumental-music-participation-and.md)
 - [fxa301-week01-culture-of-inquiry](../sources/fxa301-week01-culture-of-inquiry.md)
 - [fxa301-week05-an-education-in-music-makes-you-a-better-employee-are](../sources/fxa301-week05-an-education-in-music-makes-you-a-better-employee-are.md)
 - [fxa301-week05-fading-notes-music-education-for-the-next-generation-of](../sources/fxa301-week05-fading-notes-music-education-for-the-next-generation-of.md)
@@ -75,6 +78,7 @@ The provided sources highlight the multifaceted benefits of music education in f
 - [fxa301-week06-evaluation-of-big-noise-douglas](../sources/fxa301-week06-evaluation-of-big-noise-douglas.md)
 - [fxa301-week06-lesson-fxa301-week06-page-2](../sources/fxa301-week06-lesson-fxa301-week06-page-2.md)
 - [fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation](../sources/fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation.md)
+- [fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation-(2)](../sources/fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation-%282%29.md)
 - [fxa301-week06-playing-for-their-lives-the-global-el-sistema-movement-for](../sources/fxa301-week06-playing-for-their-lives-the-global-el-sistema-movement-for.md)
 - [fxa301-week06-recontextualizing-music-for-social-change](../sources/fxa301-week06-recontextualizing-music-for-social-change.md)
 - [fxa301-week06-transcript-el-sistema-trailer-for-film-2008-url-only](../sources/fxa301-week06-transcript-el-sistema-trailer-for-film-2008-url-only.md)

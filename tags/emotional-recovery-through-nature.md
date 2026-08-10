@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotional-recovery-through-nature
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Emotional Recovery Through Nature

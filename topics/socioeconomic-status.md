@@ -5,9 +5,10 @@ title: "Socioeconomic Status"
 confidence: medium
 tags: ["socioeconomic-status"]
 sources:
+  - fxa300-week06-the-effect-of-instrumental-music-participation-and
   - fxa301-week03-introduction-to-creative-health
   - fxa303-week04-missed-early-intervention-opportunities-for-children-with
-updated: 2026-08-07
+updated: 2026-08-10
 ---
 
 ## Socioeconomic Status
@@ -30,5 +31,6 @@ Both sources implicitly touch upon the broader issue of how socioeconomic barrie
 
 ## Sources
 
+- [fxa300-week06-the-effect-of-instrumental-music-participation-and](../sources/fxa300-week06-the-effect-of-instrumental-music-participation-and.md)
 - [fxa301-week03-introduction-to-creative-health](../sources/fxa301-week03-introduction-to-creative-health.md)
 - [fxa303-week04-missed-early-intervention-opportunities-for-children-with](../sources/fxa303-week04-missed-early-intervention-opportunities-for-children-with.md)

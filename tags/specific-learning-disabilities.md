@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: specific-learning-disabilities
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Specific Learning Disabilities

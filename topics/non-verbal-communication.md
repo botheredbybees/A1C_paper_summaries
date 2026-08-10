@@ -11,11 +11,13 @@ sources:
   - fxa101-week00-a-general-mechanism-of-humor-reformulating-the-semantic
   - fxa303-week04-transcript-duration-34-19
   - fxa303-week06-developing-excellence-in-puppet-manipulation
+  - fxa303-week06-fxa303-week-6-puppetry-in-therapeutic-contexts
+  - fxa303-week06-week-6-puppetry-in-therapeutic-contexts
 tags:
 - non-verbal-communication
 title: Non-Verbal Communication in Music Therapy
 type: topic
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Non-Verbal Communication in Music Therapy
@@ -42,3 +44,5 @@ Music therapy emerges as a potent non-verbal communication tool for individuals 
 - [fxa101-week00-a-general-mechanism-of-humor-reformulating-the-semantic](../sources/fxa101-week00-a-general-mechanism-of-humor-reformulating-the-semantic.md)
 - [fxa303-week04-transcript-duration-34-19](../sources/fxa303-week04-transcript-duration-34-19.md)
 - [fxa303-week06-developing-excellence-in-puppet-manipulation](../sources/fxa303-week06-developing-excellence-in-puppet-manipulation.md)
+- [fxa303-week06-fxa303-week-6-puppetry-in-therapeutic-contexts](../sources/fxa303-week06-fxa303-week-6-puppetry-in-therapeutic-contexts.md)
+- [fxa303-week06-week-6-puppetry-in-therapeutic-contexts](../sources/fxa303-week06-week-6-puppetry-in-therapeutic-contexts.md)

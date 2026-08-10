@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: literature-and-wellbeing
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Literature And Wellbeing

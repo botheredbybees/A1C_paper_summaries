@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-arts
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Creative Arts
@@ -43,6 +43,7 @@ updated: 2026-08-08
 - [FXA303 Creative Arts, Play and Mental Wellbeing - Week 5 Activities](../sources/fxa303-week05-lesson-fxa303-week05-page-4-week-5-activities.md)
 - [Week 5 Activities - FXA303 Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental.md)
 - [Week 5 Overview - FXA303 Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week05-week-5-overview-fxa303-creative-arts-play-and-mental.md)
+- [FXA303 Web Lecture 6 wk 6 2026](../sources/fxa303-week06-fxa303-web-lecture-6-wk-6-2026.md)
 - [FXA303 Creative Arts, Play and Mental Wellbeing - Week 6 Overview](../sources/fxa303-week06-lesson-fxa303-week06-page-1-overview.md)
 - [Puppets, Expression and Sustainability](../sources/fxa303-week06-lesson-fxa303-week06-page-2-puppets-and-expression.md)
 - [Overview - FXA303 Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week06-overview-fxa303-creative-arts-play-and-mental-wellbeing.md)

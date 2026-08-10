@@ -13,12 +13,14 @@ sources:
   - fxa100-week10-the-challenges-of-developing-a-participatory-arts
   - fxa100-week13-emotion-work-in-caregiving-the-role-of-technology-to
   - fxa100-week13-systematic-review-of-arts-and-culture-based-interventions
+  - fxa300-week06-in-home-online-music-based-intervention-for-stress-coping
+  - fxa300-week06-statistical-analysis-plan-for-home-based-caregiver
   - fxa303-week13-reminiscence-therapy-for-dementia
 tags:
 - caregiver-support
 title: Caregiver Support in Dementia Management
 type: topic
-updated: 2026-08-07
+updated: 2026-08-10
 ---
 
 ## Caregiver Support in Dementia Management
@@ -47,4 +49,6 @@ The integration of various interventions aimed at supporting caregivers and impr
 - [fxa100-week10-the-challenges-of-developing-a-participatory-arts](../sources/fxa100-week10-the-challenges-of-developing-a-participatory-arts.md)
 - [fxa100-week13-emotion-work-in-caregiving-the-role-of-technology-to](../sources/fxa100-week13-emotion-work-in-caregiving-the-role-of-technology-to.md)
 - [fxa100-week13-systematic-review-of-arts-and-culture-based-interventions](../sources/fxa100-week13-systematic-review-of-arts-and-culture-based-interventions.md)
+- [fxa300-week06-in-home-online-music-based-intervention-for-stress-coping](../sources/fxa300-week06-in-home-online-music-based-intervention-for-stress-coping.md)
+- [fxa300-week06-statistical-analysis-plan-for-home-based-caregiver](../sources/fxa300-week06-statistical-analysis-plan-for-home-based-caregiver.md)
 - [fxa303-week13-reminiscence-therapy-for-dementia](../sources/fxa303-week13-reminiscence-therapy-for-dementia.md)

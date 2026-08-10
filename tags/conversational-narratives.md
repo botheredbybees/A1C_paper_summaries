@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: conversational-narratives
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Conversational Narratives

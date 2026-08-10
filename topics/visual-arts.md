@@ -10,11 +10,12 @@ sources:
   - fxa101-week03-lesson-fxa101-week03-page-3-the-role-of-the-arts-in
   - fxa301-week05-lesson-fxa301-week05-page-1
   - fxa302-week03-the-art-of-observation-a-pedagogical-framework
+  - fxa302-week06-lesson-fxa302-week06-page-3
 tags:
 - visual-arts
 title: Visual Arts in Dementia Care
 type: topic
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Visual Arts in Dementia Care
@@ -39,3 +40,4 @@ The integration of visual arts into dementia care settings has emerged as a mult
 - [fxa101-week03-lesson-fxa101-week03-page-3-the-role-of-the-arts-in](../sources/fxa101-week03-lesson-fxa101-week03-page-3-the-role-of-the-arts-in.md)
 - [fxa301-week05-lesson-fxa301-week05-page-1](../sources/fxa301-week05-lesson-fxa301-week05-page-1.md)
 - [fxa302-week03-the-art-of-observation-a-pedagogical-framework](../sources/fxa302-week03-the-art-of-observation-a-pedagogical-framework.md)
+- [fxa302-week06-lesson-fxa302-week06-page-3](../sources/fxa302-week06-lesson-fxa302-week06-page-3.md)

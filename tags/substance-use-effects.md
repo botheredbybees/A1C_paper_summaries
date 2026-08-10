@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: substance-use-effects
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Substance Use Effects

@@ -13,6 +13,7 @@ sources:
   - fxa302-week01-health-humanities-and-the-creative-disciplines
   - fxa303-puppet-assisted-play-therapy-ch06-139-weedn
   - fxa303-week04-play-therapy-in-children-with-autism-its-role-implications
+  - fxa303-week06-puppet-play-therapy-a-practical-guidebook-section-iv-puppet
   - fxa303-week06-puppets-facilitate-attention-to-social-cues-in-children
   - fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for
   - fxa303-week09-using-creative-techniques-with-children-who-have
@@ -20,7 +21,7 @@ tags:
 - therapeutic-interventions
 title: Music Therapy and Creative Arts Interventions
 type: topic
-updated: 2026-08-07
+updated: 2026-08-10
 ---
 
 ## Music Therapy and Creative Arts Interventions
@@ -50,6 +51,7 @@ The integration of music therapy and creative arts interventions across various 
 - [fxa302-week01-health-humanities-and-the-creative-disciplines](../sources/fxa302-week01-health-humanities-and-the-creative-disciplines.md)
 - [fxa303-puppet-assisted-play-therapy-ch06-139-weedn](../sources/fxa303-puppet-assisted-play-therapy-ch06-139-weedn.md)
 - [fxa303-week04-play-therapy-in-children-with-autism-its-role-implications](../sources/fxa303-week04-play-therapy-in-children-with-autism-its-role-implications.md)
+- [fxa303-week06-puppet-play-therapy-a-practical-guidebook-section-iv-puppet](../sources/fxa303-week06-puppet-play-therapy-a-practical-guidebook-section-iv-puppet.md)
 - [fxa303-week06-puppets-facilitate-attention-to-social-cues-in-children](../sources/fxa303-week06-puppets-facilitate-attention-to-social-cues-in-children.md)
 - [fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for](../sources/fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for.md)
 - [fxa303-week09-using-creative-techniques-with-children-who-have](../sources/fxa303-week09-using-creative-techniques-with-children-who-have.md)

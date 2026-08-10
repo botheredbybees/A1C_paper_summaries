@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: textile-form-interfaces
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Textile Form Interfaces

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: early-diagnosis
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Early Diagnosis

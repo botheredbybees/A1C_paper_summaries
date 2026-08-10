@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: health-consequences-of-sleep-disruption
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Health Consequences Of Sleep Disruption

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurogenic-reserve-hypothesis
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Neurogenic Reserve Hypothesis

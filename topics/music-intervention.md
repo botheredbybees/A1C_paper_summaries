@@ -4,12 +4,13 @@ domain: intervention
 slug: music-intervention-in-dementia-care
 sources:
   - fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers
+  - fxa300-week06-statistical-analysis-plan-for-home-based-caregiver
   - fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35
 tags:
 - music-intervention
 title: Music Intervention in Dementia Care
 type: topic
-updated: 2026-05-11
+updated: 2026-08-10
 ---
 
 ## Music Intervention in Dementia Care
@@ -29,4 +30,5 @@ Sources discuss the use of music as an intervention to activate brain regions af
 ## Sources
 
 - [fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers](../sources/fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers.md)
+- [fxa300-week06-statistical-analysis-plan-for-home-based-caregiver](../sources/fxa300-week06-statistical-analysis-plan-for-home-based-caregiver.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35](../sources/fxa301-oxford-textbook-of-creative-arts-ch25-chapter-35.md)

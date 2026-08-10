@@ -11,7 +11,7 @@ tags: ["mental-health", "group-singing", "wellbeing-outcomes", "therapeutic-bene
 key_concepts: ["mental health outcomes", "community choir singing"]
 methods: ["systematic review"]
 slug: fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes
-related: ["group-singing", "mental-health", "therapeutic-benefits", "wellbeing-outcomes"]
+related: ["clinical-populations", "group-singing", "mental-health", "therapeutic-benefits", "wellbeing-outcomes"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,6 +42,7 @@ This systematic review evaluates the mental health and wellbeing benefits of gro
 
 ## See Also
 
+- [clinical-populations](../topics/clinical-populations.md)
 - [group-singing](../topics/group-singing.md)
 - [mental-health](../topics/mental-health.md)
 - [therapeutic-benefits](../topics/therapeutic-benefits.md)

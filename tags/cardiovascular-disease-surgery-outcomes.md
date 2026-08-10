@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cardiovascular-disease-surgery-outcomes
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Cardiovascular Disease Surgery Outcomes

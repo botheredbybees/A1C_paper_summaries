@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: community-building-through-performance
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Community Building Through Performance

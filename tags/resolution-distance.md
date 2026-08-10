@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: resolution-distance
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Resolution Distance

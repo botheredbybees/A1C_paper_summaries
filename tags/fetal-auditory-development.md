@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: fetal-auditory-development
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Fetal Auditory Development

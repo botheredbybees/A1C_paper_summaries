@@ -3,13 +3,15 @@ confidence: medium
 domain: theory
 slug: socioeconomic-factors-in-health-and-development
 sources:
-- fxa303-week03-adolescent-neurodevelopment
-- fxa303-week03-social-prescribing-roundtable-november-2019-report
+  - fxa301-week06-case-studies-of-community-projects-big-noise-sistema
+  - fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation-(2)
+  - fxa303-week03-adolescent-neurodevelopment
+  - fxa303-week03-social-prescribing-roundtable-november-2019-report
 tags:
 - socioeconomic-factors
 title: Socioeconomic Factors in Health and Development
 type: topic
-updated: 2026-05-04
+updated: 2026-08-10
 ---
 
 ## Socioeconomic Factors in Health and Development
@@ -28,5 +30,7 @@ The role of socioeconomic factors in shaping health outcomes and neurodevelopmen
 
 ## Sources
 
+- [fxa301-week06-case-studies-of-community-projects-big-noise-sistema](../sources/fxa301-week06-case-studies-of-community-projects-big-noise-sistema.md)
+- [fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation-(2)](../sources/fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation-%282%29.md)
 - [fxa303-week03-adolescent-neurodevelopment](../sources/fxa303-week03-adolescent-neurodevelopment.md)
 - [fxa303-week03-social-prescribing-roundtable-november-2019-report](../sources/fxa303-week03-social-prescribing-roundtable-november-2019-report.md)

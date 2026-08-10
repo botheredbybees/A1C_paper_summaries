@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: health-humanities
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Health Humanities
@@ -34,3 +34,4 @@ updated: 2026-08-08
 - [Perspectives of the Arts on Health and Wellbeing](../sources/fxa302-week03-lesson-fxa302-week03-page-2.md)
 - [Visual Arts to Develop Observational Skills](../sources/fxa302-week03-lesson-fxa302-week03-page-3.md)
 - [Week 1 Introduction and Overview](../sources/fxa302-week03-lesson-fxa302-week03-week-1-welcome-hm.md)
+- [Visual Art and Transformation](../sources/fxa302-week06-visual-art-and-transformation-%282%29.md)

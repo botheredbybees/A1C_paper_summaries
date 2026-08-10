@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: data-driven-research
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Data Driven Research

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: secure-emotional-attachments
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Secure Emotional Attachments

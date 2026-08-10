@@ -17,7 +17,7 @@ tags: ["art-therapy", "emotional-empathy", "adolescents-with-autism", "puppet-ma
 key_concepts: ["Expressive Therapies Continuum (ETC)", "cognitive empathy", "affective empathy"]
 methods: ["case study"]
 slug: fxa303-week06-art-therapy-with-puppet-making-to-promote-emotional-empathy
-related: ["art-therapy", "emotional-empathy", "self-expression", "social-skills"]
+related: ["art-therapy", "emotional-empathy", "puppet-making", "self-expression", "social-skills"]
 created: 2026-05-03
 updated: 2026-05-16
 ---
@@ -54,5 +54,6 @@ The article discusses the Expressive Therapies Continuum (ETC), a framework for 
 
 - [art-therapy](../topics/art-therapy.md)
 - [emotional-empathy](../topics/emotional-empathy.md)
+- [puppet-making](../topics/puppet-making.md)
 - [self-expression](../topics/self-expression.md)
 - [social-skills](../topics/social-skills.md)

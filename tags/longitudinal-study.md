@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: longitudinal-study
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Longitudinal Study
@@ -13,5 +13,7 @@ updated: 2026-08-08
 - [Calendar age and puberty-related development of regional gray matter volume and white matter tracts during adolescence](../sources/fxa101-week03-calendar-age-and-puberty-related-development-of-regional.md)
 - [Effects of Music Training on Inhibitory Control and Associated Neural Networks in School-Aged Children: A Longitudinal Study](../sources/fxa101-week03-effects-of-music-training-on-inhibitory-control-and.md)
 - [Longitudinal Analysis of Music Education on Executive Functions in Primary School Children](../sources/fxa101-week03-longitudinal-analysis-of-music-education-on-executive.md)
+- [Does music training enhance working memory performance? Findings from a quasi-experimental longitudinal study](../sources/fxa300-week06-does-music-training-enhance-working-memory-performance.md)
+- [Statistical analysis plan for HOME-based caregiver-delivered music intervention for people living with dementia (HOMESIDE) trial](../sources/fxa300-week06-statistical-analysis-plan-for-home-based-caregiver.md)
 - [Parkinson's Disease Motor Symptom Progression Slowed with Multisensory Dance Learning over 3-Years: A Preliminary Longitudinal Investigation](../sources/fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with.md)
 - [Arts and Cultural Engagement, Reportedly Antisocial or Criminalized Behaviors, and Potential Mediators in Two Longitudinal Cohorts of Adolescents](../sources/fxa303-week11-arts-and-cultural-engagement-reportedly-antisocial-or.md)

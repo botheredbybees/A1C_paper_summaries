@@ -11,7 +11,8 @@ sources:
   - fxa302-week01-digital-storytelling
   - fxa302-week02-lesson-fxa302-week02-page-3
   - fxa302-week05-music-and-disability
-updated: 2026-08-03
+  - fxa302-week06-transcript-gresham-college-the-iconography-of-blindness-how
+updated: 2026-08-10
 ---
 
 ## Inclusive Arts Practices in Disability Studies
@@ -36,3 +37,4 @@ The integration of inclusive arts practices within disability studies is charact
 - [fxa302-week01-digital-storytelling](../sources/fxa302-week01-digital-storytelling.md)
 - [fxa302-week02-lesson-fxa302-week02-page-3](../sources/fxa302-week02-lesson-fxa302-week02-page-3.md)
 - [fxa302-week05-music-and-disability](../sources/fxa302-week05-music-and-disability.md)
+- [fxa302-week06-transcript-gresham-college-the-iconography-of-blindness-how](../sources/fxa302-week06-transcript-gresham-college-the-iconography-of-blindness-how.md)

@@ -4,13 +4,14 @@ domain: intervention
 slug: creative-thinking-across-generations
 sources:
   - fxa101-week04-case-study-engaging-older-people-in-creative-thinkingthe
+  - fxa101-week06-lesson-fxa101-week06-page-2-week-6-activities
   - fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30
   - fxa303-puppet-assisted-play-therapy-ch02-1-we-must-encourage-children-to-use-their-imagination-and
 tags:
 - creative-thinking
 title: Creative Thinking Across Generations
 type: topic
-updated: 2026-07-28
+updated: 2026-08-10
 ---
 
 ## Creative Thinking Across Generations
@@ -30,5 +31,6 @@ The sources discussed the role of creative thinking interventions across differe
 ## Sources
 
 - [fxa101-week04-case-study-engaging-older-people-in-creative-thinkingthe](../sources/fxa101-week04-case-study-engaging-older-people-in-creative-thinkingthe.md)
+- [fxa101-week06-lesson-fxa101-week06-page-2-week-6-activities](../sources/fxa101-week06-lesson-fxa101-week06-page-2-week-6-activities.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30](../sources/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30.md)
 - [fxa303-puppet-assisted-play-therapy-ch02-1-we-must-encourage-children-to-use-their-imagination-and](../sources/fxa303-puppet-assisted-play-therapy-ch02-1-we-must-encourage-children-to-use-their-imagination-and.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: artistic-integrity
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Artistic Integrity

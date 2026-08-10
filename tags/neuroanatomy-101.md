@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuroanatomy-101
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Neuroanatomy 101

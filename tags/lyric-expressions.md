@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: lyric-expressions
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Lyric Expressions

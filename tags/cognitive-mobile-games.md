@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-mobile-games
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Cognitive Mobile Games

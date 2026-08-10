@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: justice-and-equity
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Justice And Equity

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: elderly-cancer-patients
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Elderly Cancer Patients

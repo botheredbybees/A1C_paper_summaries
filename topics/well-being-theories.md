@@ -9,7 +9,8 @@ sources:
   - psy214-week02-lesson-psy214-week02-different-perspectives-on-wellbeing
   - psy214-week02-lesson-psy214-week02-necessary-versus-sufficient
   - psy214-week02-lesson-psy214-week02-two-traditions-hedonism-and
-updated: 2026-07-13
+  - psy214-week06-nature-and-well-being-theories-(2)
+updated: 2026-08-10
 ---
 
 ## Theories of Well-being
@@ -32,3 +33,4 @@ The theories surrounding well-being are multifaceted and culturally influenced. 
 - [psy214-week02-lesson-psy214-week02-different-perspectives-on-wellbeing](../sources/psy214-week02-lesson-psy214-week02-different-perspectives-on-wellbeing.md)
 - [psy214-week02-lesson-psy214-week02-necessary-versus-sufficient](../sources/psy214-week02-lesson-psy214-week02-necessary-versus-sufficient.md)
 - [psy214-week02-lesson-psy214-week02-two-traditions-hedonism-and](../sources/psy214-week02-lesson-psy214-week02-two-traditions-hedonism-and.md)
+- [psy214-week06-nature-and-well-being-theories-(2)](../sources/psy214-week06-nature-and-well-being-theories-%282%29.md)

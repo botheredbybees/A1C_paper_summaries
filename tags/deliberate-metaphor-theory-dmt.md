@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: deliberate-metaphor-theory-dmt
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Deliberate Metaphor Theory Dmt

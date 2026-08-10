@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: haptic-symbols
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Haptic Symbols

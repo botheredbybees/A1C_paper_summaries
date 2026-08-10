@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-interventions
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Therapeutic Interventions
@@ -16,6 +16,7 @@ updated: 2026-08-08
 - [HEALTH HUMANITIES AND THE CREATIVE DISCIPLINES](../sources/fxa302-week01-health-humanities-and-the-creative-disciplines.md)
 - [Introduction to Puppet-Assisted Play Therapy: Theory, Research, and Practice](../sources/fxa303-puppet-assisted-play-therapy-ch06-139-weedn.md)
 - [Play therapy in children with autism: Its role, implications, and limitations](../sources/fxa303-week04-play-therapy-in-children-with-autism-its-role-implications.md)
+- [Puppet Play Therapy: A Practical Guidebook - Section IV Puppet Therapy Techniques](../sources/fxa303-week06-puppet-play-therapy-a-practical-guidebook-section-iv-puppet.md)
 - [Puppets Facilitate Attention to Social Cues in Children with ASD](../sources/fxa303-week06-puppets-facilitate-attention-to-social-cues-in-children.md)
 - [The effect of a hand puppet-based therapeutic play for preschool children on the fear and pain associated with blood collection procedure](../sources/fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for.md)
 - [Using Creative Techniques With Children Who Have Experienced Trauma](../sources/fxa303-week09-using-creative-techniques-with-children-who-have.md)

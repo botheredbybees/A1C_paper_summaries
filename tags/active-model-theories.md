@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: active-model-theories
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Active Model Theories

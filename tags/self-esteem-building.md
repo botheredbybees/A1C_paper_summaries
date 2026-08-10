@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: self-esteem-building
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Self Esteem Building

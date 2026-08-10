@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: stress-management
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Stress Management
@@ -9,6 +9,7 @@ updated: 2026-08-08
 - [The short-term impact of music interventions on stress: Results of a multinational cluster-randomized trial using salivary cortisol and alpha-amylase assessments in care home residents with dementia](../sources/fxa100-week03-the-short-term-impact-of-music-interventions-on-stress.md)
 - [Dance therapy as an intervention for stress and depression: a systematic review and meta-analysis](../sources/fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression.md)
 - [5 Benefits of Journaling for Mental Health](../sources/fxa202-week09-5-benefits-of-journaling-for-mental-health.md)
+- [In-home online music-based intervention for stress, coping, and depression among family caregivers of persons with dementia: A pilot study](../sources/fxa300-week06-in-home-online-music-based-intervention-for-stress-coping.md)
 - [The Influence of Stress, Optimism, and Music Training on Music Uses and Preferences](../sources/fxa301-week02-the-influence-of-stress-optimism-and-music-training-on.md)
 - [Humor and Resiliency: Towards a Process Model of Coping and Growth](../sources/fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and.md)
 - [Creative Arts Interventions for Stress Management and Prevention\u2014A Systematic Review](../sources/fxa303-week03-creative-arts-interventions-for-stress-management-and.md)
@@ -39,6 +40,7 @@ updated: 2026-08-08
 - [Sleep and Health](../sources/psy214-week05-lesson-psy214-week05-sleep-and-health.md)
 - [Sleep Hygiene, Screen Use Impact on Sleep](../sources/psy214-week05-lesson-psy214-week05-sleep-sleep-hygiene-approaches.md)
 - [Technology and Sleep Displacement Slides Full](../sources/psy214-week05-technology-and-sleep-displacement-slides-full.md)
+- [PSY114 PSY214 Stress, Self-Care and Mindfulness](../sources/psy214-week06-lesson-psy214-week06-connectunplug-nature-part-2.md)
 - [An Adapted, Four-Week Mind\u2013Body Skills Group for Medical Students: Reducing Stress, Increasing Mindfulness, and Enhancing Self-Care](../sources/psy214-week07-an-adapted-four-week-mindbody-skills-group-for-medical.md)
 - [Impact of a mindfulness and self-care intervention on stress, self-compassion, and attentiveness in university healthcare students and faculty](../sources/psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on.md)
 - [Mindfulness and acceptance-based trainings for fostering self-care and reducing stress in mental health professionals: A systematic review](../sources/psy214-week07-mindfulness-and-acceptance-based-trainings-for-fostering.md)

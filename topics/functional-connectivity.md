@@ -3,13 +3,14 @@ confidence: medium
 domain: method
 slug: functional-connectivity-in-neurodevelopment
 sources:
+  - fxa302-week06-multimodal-mr-imaging-reveals-large-scale-structural-and
   - fxa303-week02-functional-connectivity-in-the-first-year-of-life-in
   - fxa303-week03-the-early-adolescent-brain-on-music-analysis-of-functional
 tags:
 - functional-connectivity
 title: Functional Connectivity In Neurodevelopment
 type: topic
-updated: 2026-05-11
+updated: 2026-08-10
 ---
 
 ## Functional Connectivity In Neurodevelopment
@@ -28,5 +29,6 @@ The investigation of functional connectivity in neurodevelopment spans from infa
 
 ## Sources
 
+- [fxa302-week06-multimodal-mr-imaging-reveals-large-scale-structural-and](../sources/fxa302-week06-multimodal-mr-imaging-reveals-large-scale-structural-and.md)
 - [fxa303-week02-functional-connectivity-in-the-first-year-of-life-in](../sources/fxa303-week02-functional-connectivity-in-the-first-year-of-life-in.md)
 - [fxa303-week03-the-early-adolescent-brain-on-music-analysis-of-functional](../sources/fxa303-week03-the-early-adolescent-brain-on-music-analysis-of-functional.md)

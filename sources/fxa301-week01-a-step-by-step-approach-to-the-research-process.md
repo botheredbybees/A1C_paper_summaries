@@ -20,7 +20,7 @@ tags: ["arts-in-health", "creative-practices", "feasibility-assessment", "fxa301
 key_concepts: ["research-design", "methodology-choice", "feasibility-assessment"]
 methods: ["qualitative-study", "quantitative-study", "mixed-methods"]
 slug: fxa301-week01-a-step-by-step-approach-to-the-research-process
-related: ["arts-in-health", "creative-practices", "health-outcomes", "research-methods"]
+related: ["arts-in-health", "creative-practices", "health-outcomes", "research-design", "research-methods"]
 created: 2026-05-05
 updated: 2026-08-07
 ---
@@ -55,4 +55,5 @@ Daisy Fancourt's chapter in 'Arts in Health: Designing and researching intervent
 - [arts-in-health](../topics/arts-in-health.md)
 - [creative-practices](../topics/creative-practices.md)
 - [health-outcomes](../topics/health-outcomes.md)
+- [research-design](../topics/research-design.md)
 - [research-methods](../topics/research-methods.md)

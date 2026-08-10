@@ -3,12 +3,14 @@ confidence: low
 domain: intervention
 slug: environmental-psychology-in-museum-design
 sources:
-- fxa301-week05-museums-and-wellbeing-an-overview-on-emerging-architectural
+  - fxa301-week05-museums-and-wellbeing-an-overview-on-emerging-architectural
+  - psy214-week06-nature-and-well-being-theories
+  - psy214-week06-nature-and-well-being-theories-(2)
 tags:
 - environmental-psychology
 title: Environmental Psychology in Museum Design
 type: topic
-updated: 2026-05-04
+updated: 2026-08-10
 ---
 
 ## Environmental Psychology in Museum Design
@@ -28,3 +30,5 @@ The integration of environmental psychology into museum architecture aims to enh
 ## Sources
 
 - [fxa301-week05-museums-and-wellbeing-an-overview-on-emerging-architectural](../sources/fxa301-week05-museums-and-wellbeing-an-overview-on-emerging-architectural.md)
+- [psy214-week06-nature-and-well-being-theories](../sources/psy214-week06-nature-and-well-being-theories.md)
+- [psy214-week06-nature-and-well-being-theories-(2)](../sources/psy214-week06-nature-and-well-being-theories-%282%29.md)

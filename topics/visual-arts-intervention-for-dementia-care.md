@@ -13,7 +13,8 @@ sources:
   - fxa100-week12-lesson-fxa100-week12-page-1-welcome-to-week-12
   - fxa301-week11-week-11-lecture-arts-and-social-inclusion
   - fxa302-week06-visual-art-and-transformation
-updated: 2026-08-07
+  - fxa302-week06-visual-art-and-transformation-(2)
+updated: 2026-08-10
 ---
 
 ## Visual Arts Interventions for Dementia Care
@@ -40,3 +41,4 @@ The use of visual arts in dementia care is increasingly recognized as a benefici
 - [fxa100-week12-lesson-fxa100-week12-page-1-welcome-to-week-12](../sources/fxa100-week12-lesson-fxa100-week12-page-1-welcome-to-week-12.md)
 - [fxa301-week11-week-11-lecture-arts-and-social-inclusion](../sources/fxa301-week11-week-11-lecture-arts-and-social-inclusion.md)
 - [fxa302-week06-visual-art-and-transformation](../sources/fxa302-week06-visual-art-and-transformation.md)
+- [fxa302-week06-visual-art-and-transformation-(2)](../sources/fxa302-week06-visual-art-and-transformation-%282%29.md)

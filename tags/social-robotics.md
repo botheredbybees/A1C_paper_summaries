@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-robotics
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Social Robotics

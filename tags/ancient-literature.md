@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ancient-literature
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Ancient Literature

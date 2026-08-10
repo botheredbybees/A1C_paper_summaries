@@ -31,7 +31,8 @@ sources:
   - fxa303-week03-the-teen-brain
   - fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental
   - fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism
-updated: 2026-08-08
+  - psy214-week06-the-effects-of-acute-exercise-on-mood-cognition
+updated: 2026-08-10
 ---
 
 ## Brain Plasticity
@@ -76,3 +77,4 @@ Research into brain plasticity reveals its profound influence on various cogniti
 - [fxa303-week03-the-teen-brain](../sources/fxa303-week03-the-teen-brain.md)
 - [fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental](../sources/fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental.md)
 - [fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism](../sources/fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism.md)
+- [psy214-week06-the-effects-of-acute-exercise-on-mood-cognition](../sources/psy214-week06-the-effects-of-acute-exercise-on-mood-cognition.md)

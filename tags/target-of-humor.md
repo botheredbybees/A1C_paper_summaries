@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: target-of-humor
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Target Of Humor

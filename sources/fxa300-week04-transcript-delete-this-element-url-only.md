@@ -9,13 +9,15 @@ appearances:
     week: "04"
   - unit: FXA303
     week: "05"
-tags: ["api-error", "youtube-transcript", "fxa300", "api-page-retrieval", "getaddrinfo-failed", "fxa303"]
+  - unit: FXA302
+    week: "06"
+tags: ["api-error", "youtube-transcript", "fxa300", "api-page-retrieval", "getaddrinfo-failed", "fxa303", "fxa302"]
 key_concepts: ["API page retrieval", "getaddrinfo failed"]
 methods: []
 slug: fxa300-week04-transcript-delete-this-element-url-only
 related: ["youtube-transcript"]
 created: 2026-07-28
-updated: 2026-08-07
+updated: 2026-08-10
 ---
 
 _All claims sourced from ../raw/pdf/fxa300-week04-transcript-delete-this-element-url-only.md_

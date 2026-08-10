@@ -40,6 +40,7 @@ sources:
   - fxa303-week05-lesson-fxa303-week05-page-4-week-5-activities
   - fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental
   - fxa303-week05-week-5-overview-fxa303-creative-arts-play-and-mental
+  - fxa303-week06-fxa303-web-lecture-6-wk-6-2026
   - fxa303-week06-lesson-fxa303-week06-page-1-overview
   - fxa303-week06-lesson-fxa303-week06-page-2-puppets-and-expression
   - fxa303-week06-overview-fxa303-creative-arts-play-and-mental-wellbeing
@@ -58,7 +59,7 @@ tags:
 - creative-arts
 title: Music Interventions and Cognitive Health
 type: topic
-updated: 2026-08-07
+updated: 2026-08-10
 ---
 
 ## Music Interventions and Cognitive Health
@@ -113,6 +114,7 @@ The integration of findings from both sources highlights the multifaceted benefi
 - [fxa303-week05-lesson-fxa303-week05-page-4-week-5-activities](../sources/fxa303-week05-lesson-fxa303-week05-page-4-week-5-activities.md)
 - [fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental](../sources/fxa303-week05-week-5-activities-fxa303-creative-arts-play-and-mental.md)
 - [fxa303-week05-week-5-overview-fxa303-creative-arts-play-and-mental](../sources/fxa303-week05-week-5-overview-fxa303-creative-arts-play-and-mental.md)
+- [fxa303-week06-fxa303-web-lecture-6-wk-6-2026](../sources/fxa303-week06-fxa303-web-lecture-6-wk-6-2026.md)
 - [fxa303-week06-lesson-fxa303-week06-page-1-overview](../sources/fxa303-week06-lesson-fxa303-week06-page-1-overview.md)
 - [fxa303-week06-lesson-fxa303-week06-page-2-puppets-and-expression](../sources/fxa303-week06-lesson-fxa303-week06-page-2-puppets-and-expression.md)
 - [fxa303-week06-overview-fxa303-creative-arts-play-and-mental-wellbeing](../sources/fxa303-week06-overview-fxa303-creative-arts-play-and-mental-wellbeing.md)

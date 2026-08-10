@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: intense-music-training
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Intense Music Training

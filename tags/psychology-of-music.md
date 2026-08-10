@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychology-of-music
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Psychology Of Music

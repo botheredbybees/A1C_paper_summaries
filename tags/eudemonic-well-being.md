@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: eudemonic-well-being
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Eudemonic Well Being

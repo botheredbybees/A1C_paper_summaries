@@ -8,11 +8,12 @@ sources:
   - fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a
   - fxa301-week08-week-8-lecture-on-applying-theatre-and-literature-for
   - fxa301-week10-to-be-heard-the-social-and-mental-health-benefits-of-choir
+  - psy214-week06-why-does-nature-make-you-feel-better
 tags:
 - mental-health-benefits
 title: Mental Health Benefits
 type: topic
-updated: 2026-08-07
+updated: 2026-08-10
 ---
 
 ## Mental Health Benefits
@@ -36,3 +37,4 @@ The integration of arts and heritage-focused interventions in community settings
 - [fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a](../sources/fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a.md)
 - [fxa301-week08-week-8-lecture-on-applying-theatre-and-literature-for](../sources/fxa301-week08-week-8-lecture-on-applying-theatre-and-literature-for.md)
 - [fxa301-week10-to-be-heard-the-social-and-mental-health-benefits-of-choir](../sources/fxa301-week10-to-be-heard-the-social-and-mental-health-benefits-of-choir.md)
+- [psy214-week06-why-does-nature-make-you-feel-better](../sources/psy214-week06-why-does-nature-make-you-feel-better.md)

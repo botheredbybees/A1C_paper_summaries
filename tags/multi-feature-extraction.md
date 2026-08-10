@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: multi-feature-extraction
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Multi Feature Extraction

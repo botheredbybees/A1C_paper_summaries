@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: historical-medical-art
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Historical Medical Art

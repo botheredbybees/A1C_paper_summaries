@@ -8,7 +8,8 @@ sources:
   - fxa101-week02-brain-connectivitybased-prediction-of-real-life-creativity
   - fxa101-week02-metacontrol-of-human-creativity-the-neurocognitive
   - fxa101-week04-the-creative-mind-toward-an-evolutionary-theory-of
-updated: 2026-08-07
+  - fxa101-week06-unconscious-creativity-when-can-unconscious-thought
+updated: 2026-08-10
 ---
 
 ## The Neurocognitive and Evolutionary Foundations of Creativity
@@ -30,3 +31,4 @@ Research on the neurocognitive mechanisms underlying creativity highlights two p
 - [fxa101-week02-brain-connectivitybased-prediction-of-real-life-creativity](../sources/fxa101-week02-brain-connectivitybased-prediction-of-real-life-creativity.md)
 - [fxa101-week02-metacontrol-of-human-creativity-the-neurocognitive](../sources/fxa101-week02-metacontrol-of-human-creativity-the-neurocognitive.md)
 - [fxa101-week04-the-creative-mind-toward-an-evolutionary-theory-of](../sources/fxa101-week04-the-creative-mind-toward-an-evolutionary-theory-of.md)
+- [fxa101-week06-unconscious-creativity-when-can-unconscious-thought](../sources/fxa101-week06-unconscious-creativity-when-can-unconscious-thought.md)

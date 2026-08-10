@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sympathetic-nervous-system
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Sympathetic Nervous System

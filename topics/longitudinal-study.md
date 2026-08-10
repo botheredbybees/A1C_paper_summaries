@@ -10,13 +10,15 @@ sources:
   - fxa101-week03-calendar-age-and-puberty-related-development-of-regional
   - fxa101-week03-effects-of-music-training-on-inhibitory-control-and
   - fxa101-week03-longitudinal-analysis-of-music-education-on-executive
+  - fxa300-week06-does-music-training-enhance-working-memory-performance
+  - fxa300-week06-statistical-analysis-plan-for-home-based-caregiver
   - fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with
   - fxa303-week11-arts-and-cultural-engagement-reportedly-antisocial-or
 tags:
 - longitudinal-study
 title: Longitudinal Studies in Health Interventions
 type: topic
-updated: 2026-07-20
+updated: 2026-08-10
 ---
 
 ## Longitudinal Studies in Health Interventions
@@ -42,5 +44,7 @@ This synthesis integrates findings from longitudinal studies across various heal
 - [fxa101-week03-calendar-age-and-puberty-related-development-of-regional](../sources/fxa101-week03-calendar-age-and-puberty-related-development-of-regional.md)
 - [fxa101-week03-effects-of-music-training-on-inhibitory-control-and](../sources/fxa101-week03-effects-of-music-training-on-inhibitory-control-and.md)
 - [fxa101-week03-longitudinal-analysis-of-music-education-on-executive](../sources/fxa101-week03-longitudinal-analysis-of-music-education-on-executive.md)
+- [fxa300-week06-does-music-training-enhance-working-memory-performance](../sources/fxa300-week06-does-music-training-enhance-working-memory-performance.md)
+- [fxa300-week06-statistical-analysis-plan-for-home-based-caregiver](../sources/fxa300-week06-statistical-analysis-plan-for-home-based-caregiver.md)
 - [fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with](../sources/fxa301-week06-parkinsons-disease-motor-symptom-progression-slowed-with.md)
 - [fxa303-week11-arts-and-cultural-engagement-reportedly-antisocial-or](../sources/fxa303-week11-arts-and-cultural-engagement-reportedly-antisocial-or.md)

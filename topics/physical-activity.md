@@ -13,11 +13,13 @@ sources:
   - fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project
   - psy214-week00-physical-activity-and-depression-towards-understanding-the
   - psy214-week05-lesson-psy214-week05-sleep-and-health
+  - psy214-week06-lesson-psy214-week06-move-variety-is-the-spice-of-life
+  - psy214-week06-lesson-psy214-week06-week-5-introduction
 tags:
 - physical-activity
 title: Physical Activity and Cognitive Health in Older Adults
 type: topic
-updated: 2026-08-03
+updated: 2026-08-10
 ---
 
 ## Physical Activity and Cognitive Health in Older Adults
@@ -46,3 +48,5 @@ The topic explores the impact of physical activity on cognitive health among old
 - [fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project](../sources/fxa301-week06-transcript-seniors-ballet-qut-queensland-ballet-project.md)
 - [psy214-week00-physical-activity-and-depression-towards-understanding-the](../sources/psy214-week00-physical-activity-and-depression-towards-understanding-the.md)
 - [psy214-week05-lesson-psy214-week05-sleep-and-health](../sources/psy214-week05-lesson-psy214-week05-sleep-and-health.md)
+- [psy214-week06-lesson-psy214-week06-move-variety-is-the-spice-of-life](../sources/psy214-week06-lesson-psy214-week06-move-variety-is-the-spice-of-life.md)
+- [psy214-week06-lesson-psy214-week06-week-5-introduction](../sources/psy214-week06-lesson-psy214-week06-week-5-introduction.md)

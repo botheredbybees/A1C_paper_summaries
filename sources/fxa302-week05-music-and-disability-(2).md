@@ -11,7 +11,7 @@ tags: ["music-disability", "autistic-music-making", "deaf-music-making", "mobili
 key_concepts: ["social-cultural-perspective", "disability-as-diversity", "musical-creativity"]
 methods: ["case-study"]
 slug: fxa302-week05-music-and-disability-(2)
-related: ["autistic-music-making", "deaf-music-making"]
+related: ["autistic-music-making", "deaf-music-making", "musical-creativity"]
 created: 2026-08-03
 updated: 2026-08-03
 ---
@@ -45,3 +45,4 @@ This essay recontextualizes the relationship between music and disability beyond
 
 - [autistic-music-making](../topics/autistic-music-making.md)
 - [deaf-music-making](../topics/deaf-music-making.md)
+- [musical-creativity](../topics/musical-creativity.md)

@@ -119,6 +119,11 @@ sources:
   - fxa300-week05-music-helps-heal-mind-body-and-spirit
   - fxa300-week05-sound-health-music-and-the-mind
   - fxa300-week05-sound-health-music-and-the-mind-the-new-initiative-of-the
+  - fxa300-week06-a-case-study-on-a-home-based-caregiver-delivered-music-with
+  - fxa300-week06-homesidea-home-based-family-caregiver-delivered-music-and
+  - fxa300-week06-in-home-online-music-based-intervention-for-stress-coping
+  - fxa300-week06-lesson-fxa300-week06-page-4-activities
+  - fxa300-week06-preferred-music-listening-for-people-living-with-dementia
   - fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the
   - fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music
   - fxa301-music-healt-and-wellbeing-ch05-10680-meymandi
@@ -163,7 +168,7 @@ tags:
 - music-therapy
 title: Music Therapy
 type: topic
-updated: 2026-08-07
+updated: 2026-08-10
 ---
 
 ## Music Therapy
@@ -298,6 +303,11 @@ The integration of music therapy across various neurological conditions undersco
 - [fxa300-week05-music-helps-heal-mind-body-and-spirit](../sources/fxa300-week05-music-helps-heal-mind-body-and-spirit.md)
 - [fxa300-week05-sound-health-music-and-the-mind](../sources/fxa300-week05-sound-health-music-and-the-mind.md)
 - [fxa300-week05-sound-health-music-and-the-mind-the-new-initiative-of-the](../sources/fxa300-week05-sound-health-music-and-the-mind-the-new-initiative-of-the.md)
+- [fxa300-week06-a-case-study-on-a-home-based-caregiver-delivered-music-with](../sources/fxa300-week06-a-case-study-on-a-home-based-caregiver-delivered-music-with.md)
+- [fxa300-week06-homesidea-home-based-family-caregiver-delivered-music-and](../sources/fxa300-week06-homesidea-home-based-family-caregiver-delivered-music-and.md)
+- [fxa300-week06-in-home-online-music-based-intervention-for-stress-coping](../sources/fxa300-week06-in-home-online-music-based-intervention-for-stress-coping.md)
+- [fxa300-week06-lesson-fxa300-week06-page-4-activities](../sources/fxa300-week06-lesson-fxa300-week06-page-4-activities.md)
+- [fxa300-week06-preferred-music-listening-for-people-living-with-dementia](../sources/fxa300-week06-preferred-music-listening-for-people-living-with-dementia.md)
 - [fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the](../sources/fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the.md)
 - [fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music](../sources/fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music.md)
 - [fxa301-music-healt-and-wellbeing-ch05-10680-meymandi](../sources/fxa301-music-healt-and-wellbeing-ch05-10680-meymandi.md)

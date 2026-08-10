@@ -11,7 +11,7 @@ tags: ["adult-education", "creative-arts", "mental-health", "community-learning"
 key_concepts: ["mental health benefits", "intrinsic educational value", "social connection"]
 methods: ["systematic review"]
 slug: fxa302-week01-creative-arts-adult-community-learning
-related: ["creative-arts", "mental-health"]
+related: ["adult-education", "creative-arts", "mental-health"]
 created: 2026-07-06
 updated: 2026-07-06
 ---
@@ -42,5 +42,6 @@ This chapter discusses the role of creative arts in adult community learning (AC
 
 ## See Also
 
+- [adult-education](../topics/adult-education.md)
 - [creative-arts](../topics/creative-arts.md)
 - [mental-health](../topics/mental-health.md)

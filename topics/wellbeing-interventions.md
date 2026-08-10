@@ -8,11 +8,12 @@ sources:
   - fxa301-week01-arts-for-health-and-wellbeing-an-evaluation-framework
   - fxa301-week03-creative-health-review-report
   - fxa302-week07-a-constructive-critical-response-to-creative-health-the
+  - psy214-week06-handbook-of-well-being
 tags:
 - wellbeing-interventions
 title: Singing as an Intervention for Dementia and Caregiver Wellbeing
 type: topic
-updated: 2026-08-07
+updated: 2026-08-10
 ---
 
 ## Singing as an Intervention for Dementia and Caregiver Wellbeing
@@ -36,3 +37,4 @@ The synthesis of the provided sources highlights singing as a valuable intervent
 - [fxa301-week01-arts-for-health-and-wellbeing-an-evaluation-framework](../sources/fxa301-week01-arts-for-health-and-wellbeing-an-evaluation-framework.md)
 - [fxa301-week03-creative-health-review-report](../sources/fxa301-week03-creative-health-review-report.md)
 - [fxa302-week07-a-constructive-critical-response-to-creative-health-the](../sources/fxa302-week07-a-constructive-critical-response-to-creative-health-the.md)
+- [psy214-week06-handbook-of-well-being](../sources/psy214-week06-handbook-of-well-being.md)

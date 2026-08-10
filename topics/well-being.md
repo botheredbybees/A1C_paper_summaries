@@ -26,12 +26,14 @@ sources:
   - fxa303-week11-social-isolation-and-connectedness-as-determinants-of-well
   - psy214-week02-lesson-psy214-week02-week-3-introduction
   - psy214-week02-positive-emotions-and-well-being
+  - psy214-week06-lesson-psy214-week06-week-5-introduction
+  - psy214-week06-the-connectedness-to-nature-scale-cns
   - psy214-week07-mindfulness-based-social-work-and-self-care-with-social
 tags:
 - well-being
 title: Well-Being Through Creative Arts
 type: topic
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Well-Being Through Creative Arts
@@ -73,4 +75,6 @@ The integration of creative arts as an intervention to improve well-being is a r
 - [fxa303-week11-social-isolation-and-connectedness-as-determinants-of-well](../sources/fxa303-week11-social-isolation-and-connectedness-as-determinants-of-well.md)
 - [psy214-week02-lesson-psy214-week02-week-3-introduction](../sources/psy214-week02-lesson-psy214-week02-week-3-introduction.md)
 - [psy214-week02-positive-emotions-and-well-being](../sources/psy214-week02-positive-emotions-and-well-being.md)
+- [psy214-week06-lesson-psy214-week06-week-5-introduction](../sources/psy214-week06-lesson-psy214-week06-week-5-introduction.md)
+- [psy214-week06-the-connectedness-to-nature-scale-cns](../sources/psy214-week06-the-connectedness-to-nature-scale-cns.md)
 - [psy214-week07-mindfulness-based-social-work-and-self-care-with-social](../sources/psy214-week07-mindfulness-based-social-work-and-self-care-with-social.md)

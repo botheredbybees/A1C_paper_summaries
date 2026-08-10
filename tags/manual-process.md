@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: manual-process
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Manual Process

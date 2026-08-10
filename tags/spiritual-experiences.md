@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: spiritual-experiences
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Spiritual Experiences

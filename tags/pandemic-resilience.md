@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: pandemic-resilience
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Pandemic Resilience

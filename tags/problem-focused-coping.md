@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: problem-focused-coping
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Problem Focused Coping

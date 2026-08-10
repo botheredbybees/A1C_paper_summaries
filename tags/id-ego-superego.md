@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: id-ego-superego
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Id Ego Superego

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: suicidality-among-teens
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Suicidality Among Teens

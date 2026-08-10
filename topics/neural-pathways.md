@@ -10,6 +10,7 @@ sources:
   - fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography
   - fxa300-week02-the-brain-atlas-a-visual-guide-to-the-human-central-nervous
   - fxa300-week03-lesson-fxa300-week03-page-4-music-and-memory
+  - fxa300-week06-neural-pathways-underlying-the-production-of-pitch-and
   - fxa303-week02-fxa303-week-2-introduction-to-child-development-and-play
   - fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental
   - fxa303-week03-fxa303-week-3-introduction
@@ -17,7 +18,7 @@ tags:
 - neural-pathways
 title: Neural Pathways in Dementia and Photography
 type: topic
-updated: 2026-08-07
+updated: 2026-08-10
 ---
 
 ## Neural Pathways in Dementia and Photography
@@ -42,6 +43,7 @@ This synthesis explores the impact of music therapy on dementia care and mindful
 - [fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography](../sources/fxa202-week03-how-to-develop-the-art-of-seeing-through-mindful-photography.md)
 - [fxa300-week02-the-brain-atlas-a-visual-guide-to-the-human-central-nervous](../sources/fxa300-week02-the-brain-atlas-a-visual-guide-to-the-human-central-nervous.md)
 - [fxa300-week03-lesson-fxa300-week03-page-4-music-and-memory](../sources/fxa300-week03-lesson-fxa300-week03-page-4-music-and-memory.md)
+- [fxa300-week06-neural-pathways-underlying-the-production-of-pitch-and](../sources/fxa300-week06-neural-pathways-underlying-the-production-of-pitch-and.md)
 - [fxa303-week02-fxa303-week-2-introduction-to-child-development-and-play](../sources/fxa303-week02-fxa303-week-2-introduction-to-child-development-and-play.md)
 - [fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental](../sources/fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental.md)
 - [fxa303-week03-fxa303-week-3-introduction](../sources/fxa303-week03-fxa303-week-3-introduction.md)

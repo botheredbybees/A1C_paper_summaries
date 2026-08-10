@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurological-cognitive-functions
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Neurological Cognitive Functions

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: spatial-temporal-skills
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Spatial Temporal Skills

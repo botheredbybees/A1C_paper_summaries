@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: historical-neuroanatomy
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Historical Neuroanatomy

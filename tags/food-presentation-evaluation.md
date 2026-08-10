@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: food-presentation-evaluation
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Food Presentation Evaluation

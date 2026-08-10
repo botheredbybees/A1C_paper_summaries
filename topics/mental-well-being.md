@@ -10,11 +10,12 @@ sources:
   - fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the
   - fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth
   - psy214-week00-self-compassion-theory-method-research-and-intervention
+  - psy214-week06-nature-experience-reduces-rumination-and-subgenual
 tags:
 - mental-well-being
 title: Mental Well-being Through Creative Practices
 type: topic
-updated: 2026-07-28
+updated: 2026-08-10
 ---
 
 ## Mental Well-being Through Creative Practices
@@ -40,3 +41,4 @@ The integration of creative practices such as art therapy and journaling into me
 - [fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the](../sources/fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the.md)
 - [fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth](../sources/fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth.md)
 - [psy214-week00-self-compassion-theory-method-research-and-intervention](../sources/psy214-week00-self-compassion-theory-method-research-and-intervention.md)
+- [psy214-week06-nature-experience-reduces-rumination-and-subgenual](../sources/psy214-week06-nature-experience-reduces-rumination-and-subgenual.md)

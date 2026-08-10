@@ -7,13 +7,15 @@ doi: null
 appearances:
   - unit: FXA101
     week: "02"
+  - unit: FXA101
+    week: "06"
 tags: ["self-reflection-creativity", "creative-personality-types", "conscious-creativity", "fxa101", "creative-identity"]
 key_concepts: ["creative identity", "self-reflection", "personality traits"]
 methods: ["case study"]
 slug: fxa101-week02-conscious-creativity-look-connect-create
-related: ["creative-identity"]
+related: ["conscious-creativity", "creative-identity"]
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-08-10
 ---
 
 _All claims sourced from ../raw/pdf/fxa101-week02-conscious-creativity-look-connect-create.md_
@@ -41,4 +43,5 @@ Philippa Stanton's chapter 'What Sort of Creative Are You?' from the book 'Consc
 
 ## See Also
 
+- [conscious-creativity](../topics/conscious-creativity.md)
 - [creative-identity](../topics/creative-identity.md)

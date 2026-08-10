@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: conflict-of-interest
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Conflict Of Interest

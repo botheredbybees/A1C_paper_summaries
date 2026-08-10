@@ -16,6 +16,7 @@ sources:
   - fxa303-week02-the-role-of-creative-imagination-illustration-and
   - fxa303-week03-social-prescribing-roundtable-november-2019-report
   - fxa303-week04-play-interventions-for-neurodivergent-children-and
+  - fxa303-week06-puppet-assisted-play-therapy
   - fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand
   - fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon
   - fxa303-week09-web-article-puddy-2020
@@ -26,7 +27,7 @@ tags:
 - mental-health-support
 title: Mental Health Support Through Creative Interventions
 type: topic
-updated: 2026-08-07
+updated: 2026-08-10
 ---
 
 ## Mental Health Support Through Creative Interventions
@@ -58,6 +59,7 @@ The integration of various forms of artistic and creative practices as intervent
 - [fxa303-week02-the-role-of-creative-imagination-illustration-and](../sources/fxa303-week02-the-role-of-creative-imagination-illustration-and.md)
 - [fxa303-week03-social-prescribing-roundtable-november-2019-report](../sources/fxa303-week03-social-prescribing-roundtable-november-2019-report.md)
 - [fxa303-week04-play-interventions-for-neurodivergent-children-and](../sources/fxa303-week04-play-interventions-for-neurodivergent-children-and.md)
+- [fxa303-week06-puppet-assisted-play-therapy](../sources/fxa303-week06-puppet-assisted-play-therapy.md)
 - [fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand](../sources/fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand.md)
 - [fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon](../sources/fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon.md)
 - [fxa303-week09-web-article-puddy-2020](../sources/fxa303-week09-web-article-puddy-2020.md)

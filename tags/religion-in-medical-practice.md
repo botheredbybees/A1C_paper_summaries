@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: religion-in-medical-practice
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Religion In Medical Practice

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: disability-studies
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Disability Studies
@@ -12,3 +12,4 @@ updated: 2026-08-08
 - [Digital Storytelling](../sources/fxa302-week01-digital-storytelling.md)
 - [Blindness in Ancient Greece and the case of Homer](../sources/fxa302-week02-lesson-fxa302-week02-page-3.md)
 - [Music and Disability](../sources/fxa302-week05-music-and-disability.md)
+- [The Iconography of Blindness: how artists have portrayed the blind](../sources/fxa302-week06-transcript-gresham-college-the-iconography-of-blindness-how.md)

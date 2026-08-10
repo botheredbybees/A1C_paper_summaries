@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-plasticity
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Brain Plasticity
@@ -32,3 +32,4 @@ updated: 2026-08-08
 - [The Teen Brain](../sources/fxa303-week03-the-teen-brain.md)
 - [Week 3 Overview - FXA303 Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental.md)
 - [Effectiveness of music therapy for children with autism spectrum disorder: meta-analysis and potential biological mechanisms](../sources/fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism.md)
+- [The Effects of Acute Exercise on Mood, Cognition, Neurophysiology, and Neurochemical Pathways: A Review](../sources/psy214-week06-the-effects-of-acute-exercise-on-mood-cognition.md)

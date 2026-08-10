@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: youth-theatre-ireland
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Youth Theatre Ireland

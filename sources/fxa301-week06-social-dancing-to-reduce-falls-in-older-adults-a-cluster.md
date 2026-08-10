@@ -11,7 +11,7 @@ tags: ["falls-prevention", "social-dancing", "aging-research", "physical-activit
 key_concepts: ["cluster-randomized-controlled-trial", "fall-prevention-strategies", "balance-improvement"]
 methods: ["RCT"]
 slug: fxa301-week06-social-dancing-to-reduce-falls-in-older-adults-a-cluster
-related: ["aging-research", "falls-prevention", "physical-activity", "public-health"]
+related: ["aging-research", "falls-prevention", "physical-activity", "public-health", "social-dancing"]
 created: 2026-05-03
 updated: 2026-08-02
 ---
@@ -47,3 +47,4 @@ This study investigates the impact of social dancing on fall rates among older a
 - [falls-prevention](../topics/falls-prevention.md)
 - [physical-activity](../topics/physical-activity.md)
 - [public-health](../topics/public-health.md)
+- [social-dancing](../topics/social-dancing.md)

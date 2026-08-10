@@ -16,6 +16,7 @@ sources:
   - psy214-week03-lesson-psy214-week03-at3-workbook-assessment-workshop
   - psy214-week03-lesson-psy214-week03-introduction
   - psy214-week03-lesson-psy214-week03-presentation-assignment-workshop
+  - psy214-week06-lesson-psy214-week06-connectunplug-nature-part-2
   - psy214-week07-an-adapted-four-week-mindbody-skills-group-for-medical
   - psy214-week07-gaining-in-a-landscape-of-loss-the-experience-of-learning
   - psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on
@@ -25,7 +26,7 @@ tags:
 - mindfulness-practice
 title: Mindfulness Practice Through Photography
 type: topic
-updated: 2026-08-07
+updated: 2026-08-10
 ---
 
 ## Mindfulness Practice Through Photography
@@ -57,6 +58,7 @@ The integration of mindfulness practices with the act of photography reveals a u
 - [psy214-week03-lesson-psy214-week03-at3-workbook-assessment-workshop](../sources/psy214-week03-lesson-psy214-week03-at3-workbook-assessment-workshop.md)
 - [psy214-week03-lesson-psy214-week03-introduction](../sources/psy214-week03-lesson-psy214-week03-introduction.md)
 - [psy214-week03-lesson-psy214-week03-presentation-assignment-workshop](../sources/psy214-week03-lesson-psy214-week03-presentation-assignment-workshop.md)
+- [psy214-week06-lesson-psy214-week06-connectunplug-nature-part-2](../sources/psy214-week06-lesson-psy214-week06-connectunplug-nature-part-2.md)
 - [psy214-week07-an-adapted-four-week-mindbody-skills-group-for-medical](../sources/psy214-week07-an-adapted-four-week-mindbody-skills-group-for-medical.md)
 - [psy214-week07-gaining-in-a-landscape-of-loss-the-experience-of-learning](../sources/psy214-week07-gaining-in-a-landscape-of-loss-the-experience-of-learning.md)
 - [psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on](../sources/psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on.md)

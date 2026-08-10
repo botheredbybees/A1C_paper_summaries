@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-health-support
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Mental Health Support
@@ -19,6 +19,7 @@ updated: 2026-08-08
 - [The Role of Creative Imagination, Illustration and Storytelling in Supporting Social, Emotional and Mental Health in Educational Settings](../sources/fxa303-week02-the-role-of-creative-imagination-illustration-and.md)
 - [Social Prescribing Roundtable, November 2019: Report](../sources/fxa303-week03-social-prescribing-roundtable-november-2019-report.md)
 - [Play Interventions for Neurodivergent Children and Adolescents: Promoting Growth, Empowerment, and Affirming Practices](../sources/fxa303-week04-play-interventions-for-neurodivergent-children-and.md)
+- [Puppet-Assisted Play Therapy](../sources/fxa303-week06-puppet-assisted-play-therapy.md)
 - [Time for Tony the Turtle: Experiences with the use of a hand puppet in a program for young children in domestic violence shelters](../sources/fxa303-week06-time-for-tony-the-turtle-experiences-with-the-use-of-a-hand.md)
 - [Arts-based psychosocial training after the Yolanda typhoon in the Philippines](../sources/fxa303-week09-arts-based-psychosocial-training-after-the-yolanda-typhoon.md)
 - [This year's Australian bushfires prompt calls to heed lessons learnt after Ash Wednesday trauma](../sources/fxa303-week09-web-article-puddy-2020.md)

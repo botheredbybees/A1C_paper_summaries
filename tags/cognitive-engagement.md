@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-engagement
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Cognitive Engagement
@@ -11,3 +11,4 @@ updated: 2026-08-08
 - [Artful: Art and Dementia | For visitors with dementia | MCA Australia](../sources/fxa100-week07-artful-art-and-dementia-for-visitors-with-dementia-mca.md)
 - [FXA100 Week 7 Lecture](../sources/fxa100-week07-fxa100-week-7-lecture-%282%29.md)
 - [iRemember In the Kitchen Memory Case](../sources/fxa100-week07-iremember-in-the-kitchen-memory-case.md)
+- [Visual Art and Transformation](../sources/fxa302-week06-visual-art-and-transformation-%282%29.md)

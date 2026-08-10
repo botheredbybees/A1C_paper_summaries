@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: types-of-synaesthesia
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Types Of Synaesthesia

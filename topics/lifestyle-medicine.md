@@ -9,11 +9,12 @@ sources:
   - psy214-week04-introduction-to-lifestyle-medicine
   - psy214-week04-lesson-psy214-week04-how-we-eat-and-what-impact-it-has
   - psy214-week04-lesson-psy214-week04-test
+  - psy214-week06-lesson-psy214-week06-week-5-introduction
 tags:
 - lifestyle-medicine
 title: Laughter Prescription in Lifestyle Medicine
 type: topic
-updated: 2026-07-28
+updated: 2026-08-10
 ---
 
 ## Laughter Prescription in Lifestyle Medicine
@@ -37,3 +38,4 @@ Both sources explore the use of laughter as a tool within lifestyle medicine, fo
 - [psy214-week04-introduction-to-lifestyle-medicine](../sources/psy214-week04-introduction-to-lifestyle-medicine.md)
 - [psy214-week04-lesson-psy214-week04-how-we-eat-and-what-impact-it-has](../sources/psy214-week04-lesson-psy214-week04-how-we-eat-and-what-impact-it-has.md)
 - [psy214-week04-lesson-psy214-week04-test](../sources/psy214-week04-lesson-psy214-week04-test.md)
+- [psy214-week06-lesson-psy214-week06-week-5-introduction](../sources/psy214-week06-lesson-psy214-week06-week-5-introduction.md)

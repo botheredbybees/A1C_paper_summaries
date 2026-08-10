@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: experimental-research
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Experimental Research

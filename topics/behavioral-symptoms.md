@@ -10,6 +10,7 @@ sources:
   - fxa100-week13-behavioral-and-psychological-signs-and-symptoms-of-dementia
   - fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a
   - fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and
+  - fxa300-week06-statistical-analysis-plan-for-home-based-caregiver
   - fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a
   - fxa303-week13-causes-of-nursing-home-placement-for-older-people-with
   - fxa303-week13-intervention-of-companion-clowns-in-a-special-care-unit-a-1
@@ -17,7 +18,7 @@ tags:
 - behavioral-symptoms
 title: Behavioral and Psychological Symptoms in Dementia Care
 type: topic
-updated: 2026-08-07
+updated: 2026-08-10
 ---
 
 ## Behavioral and Psychological Symptoms in Dementia Care
@@ -44,6 +45,7 @@ Both sources explore non-pharmacological interventions for managing behavioral s
 - [fxa100-week13-behavioral-and-psychological-signs-and-symptoms-of-dementia](../sources/fxa100-week13-behavioral-and-psychological-signs-and-symptoms-of-dementia.md)
 - [fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a](../sources/fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a.md)
 - [fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and](../sources/fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and.md)
+- [fxa300-week06-statistical-analysis-plan-for-home-based-caregiver](../sources/fxa300-week06-statistical-analysis-plan-for-home-based-caregiver.md)
 - [fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a](../sources/fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a.md)
 - [fxa303-week13-causes-of-nursing-home-placement-for-older-people-with](../sources/fxa303-week13-causes-of-nursing-home-placement-for-older-people-with.md)
 - [fxa303-week13-intervention-of-companion-clowns-in-a-special-care-unit-a-1](../sources/fxa303-week13-intervention-of-companion-clowns-in-a-special-care-unit-a-1.md)

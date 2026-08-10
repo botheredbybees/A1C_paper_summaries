@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: aged-care-communities
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Aged Care Communities

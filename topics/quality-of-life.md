@@ -71,6 +71,7 @@ sources:
   - fxa101-week00-effectiveness-of-collage-activity-based-on-a-life-review-in
   - fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow
   - fxa202-week13-revisioning-self-identity-the-role-of-portraits
+  - fxa300-week06-a-case-study-on-a-home-based-caregiver-delivered-music-with
   - fxa301-week01-a-qualitative-investigation-of-older-adults
   - fxa301-week05-associations-between-participation-in-community-arts-groups
   - fxa301-week05-the-2024-happy-planet-index
@@ -98,7 +99,7 @@ tags:
 - quality-of-life
 title: Music Therapy in Dementia Care
 type: topic
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Music Therapy in Dementia Care
@@ -185,6 +186,7 @@ The Music and Memory (M&M) program stands out as a non-pharmacological intervent
 - [fxa101-week00-effectiveness-of-collage-activity-based-on-a-life-review-in](../sources/fxa101-week00-effectiveness-of-collage-activity-based-on-a-life-review-in.md)
 - [fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow](../sources/fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow.md)
 - [fxa202-week13-revisioning-self-identity-the-role-of-portraits](../sources/fxa202-week13-revisioning-self-identity-the-role-of-portraits.md)
+- [fxa300-week06-a-case-study-on-a-home-based-caregiver-delivered-music-with](../sources/fxa300-week06-a-case-study-on-a-home-based-caregiver-delivered-music-with.md)
 - [fxa301-week01-a-qualitative-investigation-of-older-adults](../sources/fxa301-week01-a-qualitative-investigation-of-older-adults.md)
 - [fxa301-week05-associations-between-participation-in-community-arts-groups](../sources/fxa301-week05-associations-between-participation-in-community-arts-groups.md)
 - [fxa301-week05-the-2024-happy-planet-index](../sources/fxa301-week05-the-2024-happy-planet-index.md)

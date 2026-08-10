@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: transcript-issue
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Transcript Issue

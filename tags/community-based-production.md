@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: community-based-production
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Community Based Production

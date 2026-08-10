@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: commedia-dellarte
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Commedia Dellarte

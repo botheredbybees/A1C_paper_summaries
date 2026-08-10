@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: online-learning
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Online Learning
@@ -10,6 +10,7 @@ updated: 2026-08-08
 - [Enhancing Student Engagement in Online Learning Environments](../sources/fxa100-week10-web-article-brooker-2013.md)
 - [Activities for Week 1](../sources/fxa101-week01-lesson-fxa101-week01-page-4-activities-for-week-1.md)
 - [Week 1 Welcome](../sources/fxa101-week01-week-1-welcome.md)
+- [FXA101 Week 6 Welcome](../sources/fxa101-week06-fxa101-week-6-welcome.md)
 - [Week 5 Introduction - FXA202 The Photo Essay: Storytelling with image and text](../sources/fxa202-week05-week-5-introduction-fxa202-the-photo-essay-storytelling.md)
 - [2022 Week 10 Lecture Transcript](../sources/fxa202-week10-2022-week-10-lecture-transcript.md)
 - [Activities for Week 1: Discussions and Learning Materials](../sources/fxa300-week03-lesson-fxa300-week03-page-4-week-1-activities.md)

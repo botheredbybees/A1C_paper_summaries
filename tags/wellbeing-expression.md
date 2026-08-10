@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: wellbeing-expression
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Wellbeing Expression

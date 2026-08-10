@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: criterion-and-relative-validity
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Criterion And Relative Validity

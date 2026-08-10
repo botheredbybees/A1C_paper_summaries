@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: auditory-experience-influence
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Auditory Experience Influence

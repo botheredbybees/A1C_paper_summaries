@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: interactive-art-installation
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Interactive Art Installation

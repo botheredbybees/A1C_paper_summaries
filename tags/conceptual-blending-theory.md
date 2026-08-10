@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: conceptual-blending-theory
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Conceptual Blending Theory

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: genetic-predisposition
-updated: 2026-08-08
+updated: 2026-08-10
 ---
 
 ## Genetic Predisposition
