@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-therapy
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Music Therapy
@@ -127,6 +127,7 @@ updated: 2026-08-10
 - [In-home online music-based intervention for stress, coping, and depression among family caregivers of persons with dementia: A pilot study](../sources/fxa300-week06-in-home-online-music-based-intervention-for-stress-coping.md)
 - [FXA300 Music, Mind and Body - Week 6 Activities](../sources/fxa300-week06-lesson-fxa300-week06-page-4-activities.md)
 - [Preferred Music Listening for People Living with Dementia: Two Home-Based Case Studies Discussing Compilation Process, Autobiographical and Biophysical Responses](../sources/fxa300-week06-preferred-music-listening-for-people-living-with-dementia.md)
+- [Jazz Improvisation, Creativity, and Brain Plasticity](../sources/fxa300-week07-jazz-improvisation-creativity-and-brain-plasticity.md)
 - [Arts in Health: Designing and researching interventions - Neurology](../sources/fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the.md)
 - [Projects Using Music for Social, Health and Economic Issues](../sources/fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music.md)
 - [Weapons of Mass Happiness: Social Justice and Health Equity in the Context of the Arts](../sources/fxa301-music-healt-and-wellbeing-ch05-10680-meymandi.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: burnout-prevention
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Burnout Prevention

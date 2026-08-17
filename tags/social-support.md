@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-support
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Social Support

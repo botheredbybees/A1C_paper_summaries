@@ -4,12 +4,13 @@ domain: intervention
 slug: visual-arts-interventions
 sources:
   - fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery
+  - fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery-(2)
   - fxa301-week05-case-studies-of-visual-arts-with-and-for-communities
 tags:
 - visual-arts-interventions
 title: Visual Arts Interventions
 type: topic
-updated: 2026-05-11
+updated: 2026-08-17
 ---
 
 ## Visual Arts Interventions
@@ -29,4 +30,5 @@ The integration of visual arts in therapeutic and community settings highlights 
 ## Sources
 
 - [fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery](../sources/fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery.md)
+- [fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery-(2)](../sources/fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery-%282%29.md)
 - [fxa301-week05-case-studies-of-visual-arts-with-and-for-communities](../sources/fxa301-week05-case-studies-of-visual-arts-with-and-for-communities.md)

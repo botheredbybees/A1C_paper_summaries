@@ -10,7 +10,7 @@ tags: ["nature-field-guides", "user-preferences", "content-analysis", "app-devel
 key_concepts: ["illustration quality", "scientific accuracy", "field guide apps"]
 methods: []
 slug: fxa101-week00-understanding-what-amateur-nature-observers-value-in
-related: []
+related: ["content-analysis"]
 created: 2026-08-08
 updated: 2026-08-08
 ---
@@ -43,4 +43,4 @@ This paper presents a content analysis of product reviews in Birding magazine, f
 
 ## See Also
 
-*(none yet)*
+- [content-analysis](../topics/content-analysis.md)

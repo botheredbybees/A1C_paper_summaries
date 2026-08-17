@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-movement
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Creative Movement

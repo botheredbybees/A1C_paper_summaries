@@ -1,11 +1,12 @@
 ---
 type: tag
 tag: wellbeing-initiatives
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Wellbeing Initiatives
 
+- [Art and Dementia | Art Gallery of NSW](../sources/fxa100-week07-art-and-dementia-art-gallery-of-nsw.md)
 - [Arts in Health: Designing and researching interventions](../sources/fxa301-week01-arts-in-health-designing-and-researching-interventions.md)
 - [Case Studies of Visual Arts with, and for Communities](../sources/fxa301-week05-case-studies-of-visual-arts-with-and-for-communities.md)
 - [Happy Museum Project Principles](../sources/fxa301-week05-happy-museum-project-principles.md)

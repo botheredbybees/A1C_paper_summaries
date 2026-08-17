@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: high-frequency-hearing-loss
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## High Frequency Hearing Loss

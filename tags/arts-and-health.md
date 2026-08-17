@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-and-health
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Arts And Health
@@ -35,3 +35,4 @@ updated: 2026-08-10
 - [Submission to the NSW Health and Wellbeing Strategy](../sources/fxa301-week05-submission-to-the-nsw-health-and-wellbeing-strategy.md)
 - [FXA302 - Week 1 Introduction](../sources/fxa302-week01-fxa302-week-1-introduction.md)
 - [Week 6 - Sight, Insight and Visual Artists](../sources/fxa302-week06-lesson-fxa302-week06-welcome-to-week-6.md)
+- [FXA302 Perspectives of the Arts on Health and Wellbeing - Week 7 Assignment Week](../sources/fxa302-week07-lesson-fxa302-week07-welcome-to-week-8.md)

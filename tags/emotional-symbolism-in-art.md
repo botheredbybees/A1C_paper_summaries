@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotional-symbolism-in-art
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Emotional Symbolism In Art

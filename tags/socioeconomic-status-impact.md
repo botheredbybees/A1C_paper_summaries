@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: socioeconomic-status-impact
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Socioeconomic Status Impact

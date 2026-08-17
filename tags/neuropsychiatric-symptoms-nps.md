@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuropsychiatric-symptoms-nps
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Neuropsychiatric Symptoms Nps

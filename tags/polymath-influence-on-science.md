@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: polymath-influence-on-science
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Polymath Influence On Science

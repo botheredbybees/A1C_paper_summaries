@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: substantive-complexity-theory
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Substantive Complexity Theory

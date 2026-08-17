@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: apparent-diffusion-coefficient
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Apparent Diffusion Coefficient

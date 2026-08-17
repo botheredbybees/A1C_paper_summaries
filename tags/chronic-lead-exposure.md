@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: chronic-lead-exposure
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Chronic Lead Exposure

@@ -5,9 +5,10 @@ title: "Behavioral Neuroscience"
 confidence: medium
 tags: ["behavioral-neuroscience"]
 sources:
+  - fxa101-week07-textures-as-probes-of-visual-processing
   - fxa300-week02-biopsychology-preface
   - fxa303-week03-adolescent-neurodevelopment
-updated: 2026-07-13
+updated: 2026-08-17
 ---
 
 ## Behavioral Neuroscience
@@ -26,5 +27,6 @@ Behavioral neuroscience synthesizes biological and psychological perspectives to
 
 ## Sources
 
+- [fxa101-week07-textures-as-probes-of-visual-processing](../sources/fxa101-week07-textures-as-probes-of-visual-processing.md)
 - [fxa300-week02-biopsychology-preface](../sources/fxa300-week02-biopsychology-preface.md)
 - [fxa303-week03-adolescent-neurodevelopment](../sources/fxa303-week03-adolescent-neurodevelopment.md)

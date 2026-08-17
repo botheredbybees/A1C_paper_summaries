@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: physical-well-being
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Physical Well Being

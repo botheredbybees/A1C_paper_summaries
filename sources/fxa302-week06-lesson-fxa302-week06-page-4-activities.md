@@ -11,7 +11,7 @@ tags: ["visual-arts-health", "blindness-iconography", "creativity-discussion", "
 key_concepts: ["artistic transformation", "iconography of disability", "creative engagement"]
 methods: []
 slug: fxa302-week06-lesson-fxa302-week06-page-4-activities
-related: ["visual-arts-health"]
+related: ["artistic-transformation", "visual-arts-health"]
 created: 2026-08-10
 updated: 2026-08-10
 ---
@@ -41,4 +41,5 @@ This week's module in FXA302 focuses on how visual arts enhance health and well-
 
 ## See Also
 
+- [artistic-transformation](../topics/artistic-transformation.md)
 - [visual-arts-health](../topics/visual-arts-health.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: delayed-recall-memory
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Delayed Recall Memory

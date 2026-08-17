@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: aphasia-research
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Aphasia Research

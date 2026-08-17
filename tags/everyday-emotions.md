@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: everyday-emotions
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Everyday Emotions

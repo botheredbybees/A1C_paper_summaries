@@ -4,6 +4,7 @@ domain: intervention
 slug: memory-stimulation-interventions
 sources:
   - fxa100-week04-music-therapy-benefits-fxa100-the-arts-and-dementia-care
+  - fxa100-week07-creating-resources-national-museums-liverpool
   - fxa100-week07-house-of-memories-national-museums-liverpool
   - fxa100-week07-iremember-in-the-kitchen-memory-case
   - fxa100-week07-iremember-loan-resource-flyer
@@ -12,7 +13,7 @@ tags:
 - memory-stimulation
 title: Memory Stimulation Interventions
 type: topic
-updated: 2026-08-07
+updated: 2026-08-17
 ---
 
 ## Memory Stimulation Interventions
@@ -32,6 +33,7 @@ The synthesis of memory stimulation interventions reveals diverse approaches des
 ## Sources
 
 - [fxa100-week04-music-therapy-benefits-fxa100-the-arts-and-dementia-care](../sources/fxa100-week04-music-therapy-benefits-fxa100-the-arts-and-dementia-care.md)
+- [fxa100-week07-creating-resources-national-museums-liverpool](../sources/fxa100-week07-creating-resources-national-museums-liverpool.md)
 - [fxa100-week07-house-of-memories-national-museums-liverpool](../sources/fxa100-week07-house-of-memories-national-museums-liverpool.md)
 - [fxa100-week07-iremember-in-the-kitchen-memory-case](../sources/fxa100-week07-iremember-in-the-kitchen-memory-case.md)
 - [fxa100-week07-iremember-loan-resource-flyer](../sources/fxa100-week07-iremember-loan-resource-flyer.md)

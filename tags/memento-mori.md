@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: memento-mori
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Memento Mori

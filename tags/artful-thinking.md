@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: artful-thinking
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Artful Thinking

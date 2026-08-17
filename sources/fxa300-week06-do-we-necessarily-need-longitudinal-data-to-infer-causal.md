@@ -11,7 +11,7 @@ tags: ["causal-inference", "temporal-priority", "modeling-approach", "fxa300", "
 key_concepts: ["causation", "background-knowledge", "model-invariance"]
 methods: ["theoretical-analysis"]
 slug: fxa300-week06-do-we-necessarily-need-longitudinal-data-to-infer-causal
-related: []
+related: ["background-knowledge"]
 created: 2026-08-10
 updated: 2026-08-10
 ---
@@ -42,4 +42,4 @@ The article challenges the common assumption that causal inferences require long
 
 ## See Also
 
-*(none yet)*
+- [background-knowledge](../topics/background-knowledge.md)

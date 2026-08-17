@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: string-quartet-structure
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## String Quartet Structure

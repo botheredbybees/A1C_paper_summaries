@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: collaboration-between-humans-and-nonhumans
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Collaboration Between Humans And Nonhumans

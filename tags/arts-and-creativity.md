@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-and-creativity
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Arts And Creativity

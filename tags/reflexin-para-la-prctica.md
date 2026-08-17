@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: reflexin-para-la-prctica
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Reflexin Para La Prctica

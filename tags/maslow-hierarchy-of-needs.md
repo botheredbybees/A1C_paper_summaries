@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: maslow-hierarchy-of-needs
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Maslow Hierarchy Of Needs

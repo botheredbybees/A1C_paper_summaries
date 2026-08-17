@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: frontal-cortex-hippocampus-malleability
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Frontal Cortex Hippocampus Malleability

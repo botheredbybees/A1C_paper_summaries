@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mind-song-project
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Mind Song Project

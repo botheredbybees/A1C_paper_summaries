@@ -5,13 +5,14 @@ slug: cultural-context-in-healthcare-and-arts-programs
 sources:
   - fxa100-week07-dementia-and-our-mob-caring-for-spirit
   - fxa101-week06-examining-the-relationship-between-creativity-and
+  - fxa300-week07-what-is-musical-genius
   - fxa303-week10-importance-of-cultural-context-in-designing-arts-programs
   - fxa303-week11-arts-in-criminal-justice-and-corrections-international
 tags:
 - cultural-context
 title: Cultural Context in Healthcare and Arts Programs
 type: topic
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Cultural Context in Healthcare and Arts Programs
@@ -32,5 +33,6 @@ The synthesis of the provided sources highlights the critical role of socio-cult
 
 - [fxa100-week07-dementia-and-our-mob-caring-for-spirit](../sources/fxa100-week07-dementia-and-our-mob-caring-for-spirit.md)
 - [fxa101-week06-examining-the-relationship-between-creativity-and](../sources/fxa101-week06-examining-the-relationship-between-creativity-and.md)
+- [fxa300-week07-what-is-musical-genius](../sources/fxa300-week07-what-is-musical-genius.md)
 - [fxa303-week10-importance-of-cultural-context-in-designing-arts-programs](../sources/fxa303-week10-importance-of-cultural-context-in-designing-arts-programs.md)
 - [fxa303-week11-arts-in-criminal-justice-and-corrections-international](../sources/fxa303-week11-arts-in-criminal-justice-and-corrections-international.md)

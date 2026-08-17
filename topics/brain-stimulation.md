@@ -7,11 +7,12 @@ sources:
   - fxa100-week06-transcript-art-gives-same-level-of-pleasure-as-being-in-love
   - fxa100-week11-leisure-activities-and-the-risk-of-dementia-in-the-elderly
   - fxa100-week11-lesson-fxa100-week11-page-1-welcome-to-week-10
+  - fxa300-week07-a-meta-analysis-of-the-effects-of-transcranial-direct
 tags:
 - brain-stimulation
 title: Brain Stimulation Through Arts
 type: topic
-updated: 2026-05-11
+updated: 2026-08-17
 ---
 
 ## Brain Stimulation Through Arts
@@ -34,3 +35,4 @@ The sources highlight the therapeutic potential of engaging with arts for brain 
 - [fxa100-week06-transcript-art-gives-same-level-of-pleasure-as-being-in-love](../sources/fxa100-week06-transcript-art-gives-same-level-of-pleasure-as-being-in-love.md)
 - [fxa100-week11-leisure-activities-and-the-risk-of-dementia-in-the-elderly](../sources/fxa100-week11-leisure-activities-and-the-risk-of-dementia-in-the-elderly.md)
 - [fxa100-week11-lesson-fxa100-week11-page-1-welcome-to-week-10](../sources/fxa100-week11-lesson-fxa100-week11-page-1-welcome-to-week-10.md)
+- [fxa300-week07-a-meta-analysis-of-the-effects-of-transcranial-direct](../sources/fxa300-week07-a-meta-analysis-of-the-effects-of-transcranial-direct.md)

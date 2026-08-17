@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: individual-environment-interaction
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Individual Environment Interaction

@@ -17,8 +17,10 @@ sources:
   - fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to
   - fxa100-week06-transcript-art-therapy-has-many-faces
   - fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care
+  - fxa100-week07-access-programs-art-gallery-of-nsw
   - fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia
   - fxa100-week07-artful-art-and-dementia-for-visitors-with-dementia-mca
+  - fxa100-week07-artful-art-and-dementia-online-toolkit
   - fxa100-week07-artful-art-and-dementia-toolkit
   - fxa100-week07-arts-engagement-for-people-with-dementia-independent-(2)
   - fxa100-week07-connecting-reminiscence-art-making-and-cultural-heritage-a
@@ -98,7 +100,7 @@ sources:
   - fxa303-week11-the-power-of-art-to-transform-and-restore
   - fxa303-week11-web-article-hardy-2019
   - fxa303-week13-play-and-people-living-with-dementia-a-humanities-based
-updated: 2026-08-08
+updated: 2026-08-17
 ---
 
 ## Art Therapy for Dementia
@@ -129,8 +131,10 @@ Art therapy emerges as a multifaceted intervention that significantly impacts co
 - [fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to](../sources/fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to.md)
 - [fxa100-week06-transcript-art-therapy-has-many-faces](../sources/fxa100-week06-transcript-art-therapy-has-many-faces.md)
 - [fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care](../sources/fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care.md)
+- [fxa100-week07-access-programs-art-gallery-of-nsw](../sources/fxa100-week07-access-programs-art-gallery-of-nsw.md)
 - [fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia](../sources/fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia.md)
 - [fxa100-week07-artful-art-and-dementia-for-visitors-with-dementia-mca](../sources/fxa100-week07-artful-art-and-dementia-for-visitors-with-dementia-mca.md)
+- [fxa100-week07-artful-art-and-dementia-online-toolkit](../sources/fxa100-week07-artful-art-and-dementia-online-toolkit.md)
 - [fxa100-week07-artful-art-and-dementia-toolkit](../sources/fxa100-week07-artful-art-and-dementia-toolkit.md)
 - [fxa100-week07-arts-engagement-for-people-with-dementia-independent-(2)](../sources/fxa100-week07-arts-engagement-for-people-with-dementia-independent-%282%29.md)
 - [fxa100-week07-connecting-reminiscence-art-making-and-cultural-heritage-a](../sources/fxa100-week07-connecting-reminiscence-art-making-and-cultural-heritage-a.md)

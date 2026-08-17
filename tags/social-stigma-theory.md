@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-stigma-theory
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Social Stigma Theory

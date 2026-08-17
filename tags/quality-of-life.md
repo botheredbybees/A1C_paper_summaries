@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: quality-of-life
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Quality Of Life
@@ -41,10 +41,13 @@ updated: 2026-08-10
 - [The impact of a visual arts program on quality of life, communication, and well-being of people living with dementia: a mixed-methods longitudinal investigation](../sources/fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life.md)
 - [Transcript: Film Clips from 'I Remember Better When I Paint'](../sources/fxa100-week06-transcript-film-clips-from-i-remember-better-when-i-paint.md)
 - [Welcome to Week 6 - FXA100 The Arts and Dementia Care](../sources/fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care.md)
+- [Aged care outreach | Education | Museums Victoria](../sources/fxa100-week07-aged-care-outreach-education-museums-victoria.md)
 - [An Art Gallery Access Programme for people with dementia: \u2018You do it for the moment\u2019](../sources/fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia.md)
+- [Art and Dementia | Art Gallery of NSW](../sources/fxa100-week07-art-and-dementia-art-gallery-of-nsw.md)
 - [Evaluation of the \u2018Unforgettable\u2019 Art Programme by People with Dementia and Their Care-Givers](../sources/fxa100-week07-evaluation-of-the-unforgettable-art-programme-by-people.md)
 - [I'm Still Here: A Breakthrough Approach To Understanding Someone Living With Alzheimer's](../sources/fxa100-week07-im-still-here-a-breakthrough-approach-to-understanding.md)
 - [Interventions \u2013 Dementia Services Information and Development Centre](../sources/fxa100-week07-interventions-dementia-services-information-and-development.md)
+- [Interventions \u2013 Dementia Services Information and Development Centre](../sources/fxa100-week07-interventions-dementia-services-information-and-development-%282%29.md)
 - [Interventions for People with Dementia](../sources/fxa100-week07-interventions-for-people-with-dementia.md)
 - [Museums, Meaning Making, and Memories: The Need for Museum Programs for People with Dementia and Their Caregivers](../sources/fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum.md)
 - [Nurturing the Heart: Creativity, Art Therapy and Dementia](../sources/fxa100-week07-nurturing-the-heart-creativity-art-therapy-and-dementia.md)

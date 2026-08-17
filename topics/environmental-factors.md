@@ -5,6 +5,7 @@ slug: environmental-factors-in-adolescent-and-young-adult-health
 sources:
   - fxa300-week01-play-that-one-again-the-effect-of-music-tempo-on-consumer
   - fxa300-week03-environmental-and-mental-conditions-predicting-the
+  - fxa300-week07-the-musical-person
   - fxa303-week03-adolescent-and-young-adult-health
   - fxa303-week04-neurobiology-of-autism-spectrum-disorders
   - psy214-week06-lesson-psy214-week06-move-variety-is-the-spice-of-life
@@ -12,7 +13,7 @@ tags:
 - environmental-factors
 title: Environmental Factors in Adolescent and Young Adult Health
 type: topic
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Environmental Factors in Adolescent and Young Adult Health
@@ -33,6 +34,7 @@ The study of adolescent and young adult health highlights the critical role of e
 
 - [fxa300-week01-play-that-one-again-the-effect-of-music-tempo-on-consumer](../sources/fxa300-week01-play-that-one-again-the-effect-of-music-tempo-on-consumer.md)
 - [fxa300-week03-environmental-and-mental-conditions-predicting-the](../sources/fxa300-week03-environmental-and-mental-conditions-predicting-the.md)
+- [fxa300-week07-the-musical-person](../sources/fxa300-week07-the-musical-person.md)
 - [fxa303-week03-adolescent-and-young-adult-health](../sources/fxa303-week03-adolescent-and-young-adult-health.md)
 - [fxa303-week04-neurobiology-of-autism-spectrum-disorders](../sources/fxa303-week04-neurobiology-of-autism-spectrum-disorders.md)
 - [psy214-week06-lesson-psy214-week06-move-variety-is-the-spice-of-life](../sources/psy214-week06-lesson-psy214-week06-move-variety-is-the-spice-of-life.md)

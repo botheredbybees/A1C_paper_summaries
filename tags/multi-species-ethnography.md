@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: multi-species-ethnography
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Multi Species Ethnography

@@ -5,9 +5,10 @@ title: "Musical Composition and Hearing"
 confidence: medium
 tags: ["musical-composition"]
 sources:
+  - fxa300-week07-creativity-and-flow-in-musical-composition-an-empirical
   - fxa302-week01-musical-composition-and-vocal-expression
   - fxa302-week05-lesson-fxa302-week05-page-2
-updated: 2026-08-03
+updated: 2026-08-17
 ---
 
 ## Musical Composition and Hearing
@@ -26,5 +27,6 @@ The sources highlight the therapeutic benefits of musical composition for indivi
 
 ## Sources
 
+- [fxa300-week07-creativity-and-flow-in-musical-composition-an-empirical](../sources/fxa300-week07-creativity-and-flow-in-musical-composition-an-empirical.md)
 - [fxa302-week01-musical-composition-and-vocal-expression](../sources/fxa302-week01-musical-composition-and-vocal-expression.md)
 - [fxa302-week05-lesson-fxa302-week05-page-2](../sources/fxa302-week05-lesson-fxa302-week05-page-2.md)

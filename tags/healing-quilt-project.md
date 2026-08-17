@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: healing-quilt-project
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Healing Quilt Project

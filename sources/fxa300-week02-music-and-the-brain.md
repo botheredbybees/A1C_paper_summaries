@@ -9,13 +9,15 @@ appearances:
     week: "02"
   - unit: FXA300
     week: "04"
+  - unit: FXA300
+    week: "07"
 tags: ["music-psychology", "brain-development", "neural-networks", "fxa300"]
 key_concepts: ["neuroplasticity", "cognitive-functions"]
 methods: ["literature-review"]
 slug: fxa300-week02-music-and-the-brain
 related: ["brain-development", "music-psychology", "neural-networks"]
 created: 2026-07-13
-updated: 2026-07-28
+updated: 2026-08-17
 ---
 
 _All claims sourced from ../raw/pdf/fxa300-week02-music-and-the-brain.md_

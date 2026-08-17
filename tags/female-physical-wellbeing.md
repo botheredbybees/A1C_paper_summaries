@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: female-physical-wellbeing
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Female Physical Wellbeing

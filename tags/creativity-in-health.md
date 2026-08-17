@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creativity-in-health
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Creativity In Health

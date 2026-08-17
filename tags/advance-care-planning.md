@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: advance-care-planning
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Advance Care Planning

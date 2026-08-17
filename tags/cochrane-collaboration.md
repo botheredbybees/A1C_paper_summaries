@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cochrane-collaboration
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Cochrane Collaboration

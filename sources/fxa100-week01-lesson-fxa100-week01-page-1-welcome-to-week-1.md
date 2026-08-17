@@ -11,7 +11,7 @@ tags: ["arts-in-dementia", "brain-function", "common-types-of-dementia", "dement
 key_concepts: ["dementia-impact", "common-types-of-dementia"]
 methods: []
 slug: fxa100-week01-lesson-fxa100-week01-page-1-welcome-to-week-1
-related: ["brain-function", "dementia-care"]
+related: ["arts-in-dementia", "brain-function", "dementia-care"]
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -39,5 +39,6 @@ This week's lesson in the FXA100 The Arts and Dementia Care course introduces st
 
 ## See Also
 
+- [arts-in-dementia](../topics/arts-in-dementia.md)
 - [brain-function](../topics/brain-function.md)
 - [dementia-care](../topics/dementia-care.md)

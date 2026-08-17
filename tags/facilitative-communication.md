@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: facilitative-communication
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Facilitative Communication

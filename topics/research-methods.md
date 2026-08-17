@@ -18,11 +18,12 @@ sources:
   - fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts
   - fxa301-week01-a-step-by-step-approach-to-the-research-process
   - psy214-week03-lesson-psy214-week03-making-sense-of-evidence
+  - psy214-week07-lesson-psy214-week07-mindfulness-as-noticing
 tags:
 - research-methods
 title: Research Methods in Healthcare Evaluation
 type: topic
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Research Methods in Healthcare Evaluation
@@ -56,3 +57,4 @@ The sources collectively emphasize the importance of various research methodolog
 - [fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts](../sources/fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts.md)
 - [fxa301-week01-a-step-by-step-approach-to-the-research-process](../sources/fxa301-week01-a-step-by-step-approach-to-the-research-process.md)
 - [psy214-week03-lesson-psy214-week03-making-sense-of-evidence](../sources/psy214-week03-lesson-psy214-week03-making-sense-of-evidence.md)
+- [psy214-week07-lesson-psy214-week07-mindfulness-as-noticing](../sources/psy214-week07-lesson-psy214-week07-mindfulness-as-noticing.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: feminist-theology
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Feminist Theology

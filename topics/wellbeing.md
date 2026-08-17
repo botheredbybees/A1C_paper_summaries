@@ -4,6 +4,7 @@ domain: intervention
 slug: wellbeing-through-creative-arts
 sources:
   - fxa100-week03-association-of-music-interventions-with-health-related
+  - fxa100-week07-artful-art-and-dementia-online-toolkit
   - fxa101-week00-poetry-and-well-being-a-pilot-programme-to-evaluate-the
   - fxa301-week01-lesson-fxa301-week01-troubleshooting1
   - fxa301-week03-executive-summary-creative-health-review
@@ -11,12 +12,13 @@ sources:
   - fxa301-week05-week-5-activities-fxa301-arts-in-the-community
   - fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings
   - fxa301-week10-the-use-of-arts-interventions-for-mental-health-and
+  - fxa302-week07-lesson-fxa302-week07-week-8-activities
   - fxa303-week11-lesson-fxa303-week11-page-2
 tags:
 - wellbeing
 title: Wellbeing Through Creative Arts
 type: topic
-updated: 2026-08-08
+updated: 2026-08-17
 ---
 
 ## Wellbeing Through Creative Arts
@@ -35,6 +37,7 @@ Creative arts interventions have been studied for their impact on various aspect
 ## Sources
 
 - [fxa100-week03-association-of-music-interventions-with-health-related](../sources/fxa100-week03-association-of-music-interventions-with-health-related.md)
+- [fxa100-week07-artful-art-and-dementia-online-toolkit](../sources/fxa100-week07-artful-art-and-dementia-online-toolkit.md)
 - [fxa101-week00-poetry-and-well-being-a-pilot-programme-to-evaluate-the](../sources/fxa101-week00-poetry-and-well-being-a-pilot-programme-to-evaluate-the.md)
 - [fxa301-week01-lesson-fxa301-week01-troubleshooting1](../sources/fxa301-week01-lesson-fxa301-week01-troubleshooting1.md)
 - [fxa301-week03-executive-summary-creative-health-review](../sources/fxa301-week03-executive-summary-creative-health-review.md)
@@ -42,4 +45,5 @@ Creative arts interventions have been studied for their impact on various aspect
 - [fxa301-week05-week-5-activities-fxa301-arts-in-the-community](../sources/fxa301-week05-week-5-activities-fxa301-arts-in-the-community.md)
 - [fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings](../sources/fxa301-week06-group-singing-fosters-mental-health-and-wellbeing-findings.md)
 - [fxa301-week10-the-use-of-arts-interventions-for-mental-health-and](../sources/fxa301-week10-the-use-of-arts-interventions-for-mental-health-and.md)
+- [fxa302-week07-lesson-fxa302-week07-week-8-activities](../sources/fxa302-week07-lesson-fxa302-week07-week-8-activities.md)
 - [fxa303-week11-lesson-fxa303-week11-page-2](../sources/fxa303-week11-lesson-fxa303-week11-page-2.md)

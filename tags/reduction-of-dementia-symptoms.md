@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: reduction-of-dementia-symptoms
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Reduction Of Dementia Symptoms

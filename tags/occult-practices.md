@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: occult-practices
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Occult Practices

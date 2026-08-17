@@ -10,7 +10,8 @@ sources:
   - fxa101-week03-how-music-teaches-children-to-create-and-innovate
   - fxa101-week04-cognitive-reserve-and-brain-changes-in-ageing
   - fxa101-week05-lesson-fxa101-week05-introduction-to-week-5
-updated: 2026-08-07
+  - fxa300-week07-modeling-influences-on-divergent-thinking-and-artistic
+updated: 2026-08-17
 ---
 
 ## Creativity Development
@@ -33,3 +34,4 @@ The development of creativity is a multifaceted process that involves both pract
 - [fxa101-week03-how-music-teaches-children-to-create-and-innovate](../sources/fxa101-week03-how-music-teaches-children-to-create-and-innovate.md)
 - [fxa101-week04-cognitive-reserve-and-brain-changes-in-ageing](../sources/fxa101-week04-cognitive-reserve-and-brain-changes-in-ageing.md)
 - [fxa101-week05-lesson-fxa101-week05-introduction-to-week-5](../sources/fxa101-week05-lesson-fxa101-week05-introduction-to-week-5.md)
+- [fxa300-week07-modeling-influences-on-divergent-thinking-and-artistic](../sources/fxa300-week07-modeling-influences-on-divergent-thinking-and-artistic.md)

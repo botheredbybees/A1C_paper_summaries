@@ -7,8 +7,9 @@ tags: ["neural-mechanisms"]
 sources:
   - fxa101-week05-rapid-and-dynamic-processing-of-face-pareidolia-in-the
   - fxa300-week03-musical-imagery-involves-wernickes-area-in-bilateral-and
+  - fxa300-week07-musical-creativity-and-the-brain
   - fxa303-week04-what-does-autism-look-like-in-the-brain
-updated: 2026-08-03
+updated: 2026-08-17
 ---
 
 ## Neural Mechanisms in Musical Imagery and Autism
@@ -29,4 +30,5 @@ This synthesis integrates findings from studies examining the neural mechanisms 
 
 - [fxa101-week05-rapid-and-dynamic-processing-of-face-pareidolia-in-the](../sources/fxa101-week05-rapid-and-dynamic-processing-of-face-pareidolia-in-the.md)
 - [fxa300-week03-musical-imagery-involves-wernickes-area-in-bilateral-and](../sources/fxa300-week03-musical-imagery-involves-wernickes-area-in-bilateral-and.md)
+- [fxa300-week07-musical-creativity-and-the-brain](../sources/fxa300-week07-musical-creativity-and-the-brain.md)
 - [fxa303-week04-what-does-autism-look-like-in-the-brain](../sources/fxa303-week04-what-does-autism-look-like-in-the-brain.md)

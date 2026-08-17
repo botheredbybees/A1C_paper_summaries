@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: climate-change-concerns
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Climate Change Concerns

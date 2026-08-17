@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotional-depth-composition
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Emotional Depth Composition

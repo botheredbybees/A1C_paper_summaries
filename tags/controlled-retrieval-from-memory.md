@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: controlled-retrieval-from-memory
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Controlled Retrieval From Memory

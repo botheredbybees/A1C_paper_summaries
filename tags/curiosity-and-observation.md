@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: curiosity-and-observation
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Curiosity And Observation

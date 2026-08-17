@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: pedagogical-tool
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Pedagogical Tool

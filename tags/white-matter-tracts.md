@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: white-matter-tracts
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## White Matter Tracts

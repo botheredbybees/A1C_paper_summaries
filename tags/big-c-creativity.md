@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: big-c-creativity
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Big C Creativity

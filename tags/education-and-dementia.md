@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: education-and-dementia
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Education And Dementia

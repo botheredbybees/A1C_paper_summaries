@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: auditory-sequencing
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Auditory Sequencing

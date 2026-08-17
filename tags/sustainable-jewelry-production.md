@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sustainable-jewelry-production
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Sustainable Jewelry Production

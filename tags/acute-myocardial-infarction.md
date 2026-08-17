@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: acute-myocardial-infarction
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Acute Myocardial Infarction

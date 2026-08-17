@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: speech-perception
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Speech Perception

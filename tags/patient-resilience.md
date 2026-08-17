@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: patient-resilience
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Patient Resilience

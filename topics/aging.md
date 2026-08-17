@@ -7,8 +7,9 @@ tags: ["aging"]
 sources:
   - fxa101-week03-lesson-fxa101-week03-page-4-activities-for-week-3
   - fxa101-week04-web-article-gates-2010
+  - fxa101-week07-lesson-fxa101-week07-page-2-week-7-activities
   - fxa303-play-for-health-across-the-lifespan-ch02-chapter-8
-updated: 2026-07-28
+updated: 2026-08-17
 ---
 
 ## Aging and Cognitive Health
@@ -28,4 +29,5 @@ The topic of aging cognitive health encompasses various strategies to maintain m
 
 - [fxa101-week03-lesson-fxa101-week03-page-4-activities-for-week-3](../sources/fxa101-week03-lesson-fxa101-week03-page-4-activities-for-week-3.md)
 - [fxa101-week04-web-article-gates-2010](../sources/fxa101-week04-web-article-gates-2010.md)
+- [fxa101-week07-lesson-fxa101-week07-page-2-week-7-activities](../sources/fxa101-week07-lesson-fxa101-week07-page-2-week-7-activities.md)
 - [fxa303-play-for-health-across-the-lifespan-ch02-chapter-8](../sources/fxa303-play-for-health-across-the-lifespan-ch02-chapter-8.md)

@@ -5,11 +5,12 @@ slug: academic-writing-protocols
 sources:
   - fxa100-week04-writing-a-research-protocol
   - fxa202-week10-lesson-fxa202-week10-week-10
+  - fxa300-week07-lesson-fxa300-week07-page-4-activities
 tags:
 - academic-writing
 title: Academic Writing Protocols
 type: topic
-updated: 2026-05-11
+updated: 2026-08-17
 ---
 
 ## Academic Writing Protocols
@@ -29,3 +30,4 @@ The provided sources focus on different aspects of academic writing and research
 
 - [fxa100-week04-writing-a-research-protocol](../sources/fxa100-week04-writing-a-research-protocol.md)
 - [fxa202-week10-lesson-fxa202-week10-week-10](../sources/fxa202-week10-lesson-fxa202-week10-week-10.md)
+- [fxa300-week07-lesson-fxa300-week07-page-4-activities](../sources/fxa300-week07-lesson-fxa300-week07-page-4-activities.md)

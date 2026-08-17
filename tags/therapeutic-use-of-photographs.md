@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-use-of-photographs
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Therapeutic Use Of Photographs

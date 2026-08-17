@@ -7,7 +7,8 @@ tags: ["reminiscing-kits"]
 sources:
   - fxa100-week07-aged-care-outreach
   - fxa100-week07-aged-care-outreach-(2)
-updated: 2026-08-07
+  - fxa100-week07-aged-care-outreach-education-museums-victoria
+updated: 2026-08-17
 ---
 
 ## Reminiscence Kits
@@ -28,3 +29,4 @@ The integration of various therapeutic approaches in aged care outreach programs
 
 - [fxa100-week07-aged-care-outreach](../sources/fxa100-week07-aged-care-outreach.md)
 - [fxa100-week07-aged-care-outreach-(2)](../sources/fxa100-week07-aged-care-outreach-%282%29.md)
+- [fxa100-week07-aged-care-outreach-education-museums-victoria](../sources/fxa100-week07-aged-care-outreach-education-museums-victoria.md)

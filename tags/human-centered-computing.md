@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: human-centered-computing
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Human Centered Computing

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: global-health-disparities
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Global Health Disparities

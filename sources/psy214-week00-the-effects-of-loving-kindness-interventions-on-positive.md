@@ -11,7 +11,7 @@ tags: ["loving-kindness-interventions", "mental-health-outcomes", "systematic-re
 key_concepts: ["positive-affect", "negative-affect", "compassion"]
 methods: ["systematic review", "meta-analysis"]
 slug: psy214-week00-the-effects-of-loving-kindness-interventions-on-positive
-related: ["compassion", "mental-health-outcomes", "systematic-review-meta-analysis"]
+related: ["compassion", "mental-health-outcomes", "negative-affect", "systematic-review-meta-analysis"]
 created: 2026-06-25
 updated: 2026-06-25
 ---
@@ -44,4 +44,5 @@ This systematic review and meta-analysis examines the effects of loving-kindness
 
 - [compassion](../topics/compassion.md)
 - [mental-health-outcomes](../topics/mental-health-outcomes.md)
+- [negative-affect](../topics/negative-affect.md)
 - [systematic-review-meta-analysis](../topics/systematic-review-meta-analysis.md)

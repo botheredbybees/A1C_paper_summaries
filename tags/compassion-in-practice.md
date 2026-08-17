@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: compassion-in-practice
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Compassion In Practice

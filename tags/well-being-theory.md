@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: well-being-theory
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Well Being Theory

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: artistic-practice
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Artistic Practice

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: nutrition-policy
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Nutrition Policy

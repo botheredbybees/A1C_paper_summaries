@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: life-review
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Life Review

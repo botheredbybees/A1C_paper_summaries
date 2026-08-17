@@ -11,7 +11,7 @@ tags: ["aged-care-outreach", "reminiscing-kits", "cognitive-stimulation", "socia
 key_concepts: ["reminiscence therapy", "cognitive stimulation", "social interaction", "quality of life"]
 methods: ["case study"]
 slug: fxa100-week07-aged-care-outreach
-related: ["cognitive-stimulation", "elderly-engagement", "reminiscing-kits", "social-interaction"]
+related: ["aged-care-outreach", "cognitive-stimulation", "elderly-engagement", "reminiscing-kits", "social-interaction"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,6 +44,7 @@ The document 'Aged care outreach' by Museums Victoria provides a detailed overvi
 
 ## See Also
 
+- [aged-care-outreach](../topics/aged-care-outreach.md)
 - [cognitive-stimulation](../topics/cognitive-stimulation.md)
 - [elderly-engagement](../topics/elderly-engagement.md)
 - [reminiscing-kits](../topics/reminiscing-kits.md)

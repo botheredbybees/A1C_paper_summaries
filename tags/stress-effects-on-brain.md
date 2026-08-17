@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: stress-effects-on-brain
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Stress Effects On Brain

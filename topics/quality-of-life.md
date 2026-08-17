@@ -38,10 +38,13 @@ sources:
   - fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life
   - fxa100-week06-transcript-film-clips-from-i-remember-better-when-i-paint
   - fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care
+  - fxa100-week07-aged-care-outreach-education-museums-victoria
   - fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia
+  - fxa100-week07-art-and-dementia-art-gallery-of-nsw
   - fxa100-week07-evaluation-of-the-unforgettable-art-programme-by-people
   - fxa100-week07-im-still-here-a-breakthrough-approach-to-understanding
   - fxa100-week07-interventions-dementia-services-information-and-development
+  - fxa100-week07-interventions-dementia-services-information-and-development-(2)
   - fxa100-week07-interventions-for-people-with-dementia
   - fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum
   - fxa100-week07-nurturing-the-heart-creativity-art-therapy-and-dementia
@@ -99,7 +102,7 @@ tags:
 - quality-of-life
 title: Music Therapy in Dementia Care
 type: topic
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Music Therapy in Dementia Care
@@ -153,10 +156,13 @@ The Music and Memory (M&M) program stands out as a non-pharmacological intervent
 - [fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life](../sources/fxa100-week06-the-impact-of-a-visual-arts-program-on-quality-of-life.md)
 - [fxa100-week06-transcript-film-clips-from-i-remember-better-when-i-paint](../sources/fxa100-week06-transcript-film-clips-from-i-remember-better-when-i-paint.md)
 - [fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care](../sources/fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care.md)
+- [fxa100-week07-aged-care-outreach-education-museums-victoria](../sources/fxa100-week07-aged-care-outreach-education-museums-victoria.md)
 - [fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia](../sources/fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia.md)
+- [fxa100-week07-art-and-dementia-art-gallery-of-nsw](../sources/fxa100-week07-art-and-dementia-art-gallery-of-nsw.md)
 - [fxa100-week07-evaluation-of-the-unforgettable-art-programme-by-people](../sources/fxa100-week07-evaluation-of-the-unforgettable-art-programme-by-people.md)
 - [fxa100-week07-im-still-here-a-breakthrough-approach-to-understanding](../sources/fxa100-week07-im-still-here-a-breakthrough-approach-to-understanding.md)
 - [fxa100-week07-interventions-dementia-services-information-and-development](../sources/fxa100-week07-interventions-dementia-services-information-and-development.md)
+- [fxa100-week07-interventions-dementia-services-information-and-development-(2)](../sources/fxa100-week07-interventions-dementia-services-information-and-development-%282%29.md)
 - [fxa100-week07-interventions-for-people-with-dementia](../sources/fxa100-week07-interventions-for-people-with-dementia.md)
 - [fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum](../sources/fxa100-week07-museums-meaning-making-and-memories-the-need-for-museum.md)
 - [fxa100-week07-nurturing-the-heart-creativity-art-therapy-and-dementia](../sources/fxa100-week07-nurturing-the-heart-creativity-art-therapy-and-dementia.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurological-responses-to-viewing-art
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Neurological Responses To Viewing Art

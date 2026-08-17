@@ -4,6 +4,8 @@ domain: intervention
 slug: creative-activities-for-persons-with-dementia
 sources:
   - fxa100-creativity-and-communication-ch09-19-starting-out-in-any-creative-endeavour-of-this-nature
+  - fxa100-week07-artful-art-and-dementia-online-toolkit
+  - fxa100-week07-week-7-lecture-fxa100-the-arts-and-dementia-care
   - fxa100-week08-creativity-and-communication-in-persons-with-dementia-a
   - fxa100-week08-the-use-of-creative-activities-in-dementia-in-residential
   - fxa101-week00-art-nature-and-mental-health-assessing-the-biopsychosocial
@@ -14,7 +16,7 @@ tags:
 - creative-activities
 title: Creative Activities for Persons with Dementia
 type: topic
-updated: 2026-08-08
+updated: 2026-08-17
 ---
 
 ## Creative Activities for Persons with Dementia
@@ -34,6 +36,8 @@ The integration of creative activities in dementia care emphasizes their potenti
 ## Sources
 
 - [fxa100-creativity-and-communication-ch09-19-starting-out-in-any-creative-endeavour-of-this-nature](../sources/fxa100-creativity-and-communication-ch09-19-starting-out-in-any-creative-endeavour-of-this-nature.md)
+- [fxa100-week07-artful-art-and-dementia-online-toolkit](../sources/fxa100-week07-artful-art-and-dementia-online-toolkit.md)
+- [fxa100-week07-week-7-lecture-fxa100-the-arts-and-dementia-care](../sources/fxa100-week07-week-7-lecture-fxa100-the-arts-and-dementia-care.md)
 - [fxa100-week08-creativity-and-communication-in-persons-with-dementia-a](../sources/fxa100-week08-creativity-and-communication-in-persons-with-dementia-a.md)
 - [fxa100-week08-the-use-of-creative-activities-in-dementia-in-residential](../sources/fxa100-week08-the-use-of-creative-activities-in-dementia-in-residential.md)
 - [fxa101-week00-art-nature-and-mental-health-assessing-the-biopsychosocial](../sources/fxa101-week00-art-nature-and-mental-health-assessing-the-biopsychosocial.md)

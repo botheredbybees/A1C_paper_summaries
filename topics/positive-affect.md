@@ -6,11 +6,12 @@ sources:
   - fxa301-week06-the-ice-breaker-effect-singing-mediates-fast-social-bonding
   - psy214-week00-the-impact-of-signature-character-strengths-interventions-a
   - psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an
+  - psy214-week07-lesson-psy214-week07-everyday-mindfulness
 tags:
 - positive-affect
 title: Singing and Positive Affect
 type: topic
-updated: 2026-06-25
+updated: 2026-08-17
 ---
 
 ## Singing and Positive Affect
@@ -32,3 +33,4 @@ The provided sources collectively highlight singing as an intervention that faci
 - [fxa301-week06-the-ice-breaker-effect-singing-mediates-fast-social-bonding](../sources/fxa301-week06-the-ice-breaker-effect-singing-mediates-fast-social-bonding.md)
 - [psy214-week00-the-impact-of-signature-character-strengths-interventions-a](../sources/psy214-week00-the-impact-of-signature-character-strengths-interventions-a.md)
 - [psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an](../sources/psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an.md)
+- [psy214-week07-lesson-psy214-week07-everyday-mindfulness](../sources/psy214-week07-lesson-psy214-week07-everyday-mindfulness.md)

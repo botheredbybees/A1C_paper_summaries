@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: shamanic-practices
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Shamanic Practices

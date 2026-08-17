@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: place-making
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Place Making

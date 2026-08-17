@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: best-possible-self-interventions
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Best Possible Self Interventions

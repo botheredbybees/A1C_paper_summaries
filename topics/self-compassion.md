@@ -6,9 +6,10 @@ confidence: medium
 tags: ["self-compassion"]
 sources:
   - fxa202-week13-phototherapy-to-increase-self-compassion-in-college-students
+  - fxa300-week07-its-never-too-late-to-be-a-late-bloomer
   - psy214-week00-self-compassion-theory-method-research-and-intervention
   - psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on
-updated: 2026-08-07
+updated: 2026-08-17
 ---
 
 ## Self-Compassion
@@ -28,5 +29,6 @@ The concept of self-compassion emerges as a pivotal intervention in enhancing em
 ## Sources
 
 - [fxa202-week13-phototherapy-to-increase-self-compassion-in-college-students](../sources/fxa202-week13-phototherapy-to-increase-self-compassion-in-college-students.md)
+- [fxa300-week07-its-never-too-late-to-be-a-late-bloomer](../sources/fxa300-week07-its-never-too-late-to-be-a-late-bloomer.md)
 - [psy214-week00-self-compassion-theory-method-research-and-intervention](../sources/psy214-week00-self-compassion-theory-method-research-and-intervention.md)
 - [psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on](../sources/psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on.md)

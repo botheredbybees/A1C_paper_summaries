@@ -11,7 +11,7 @@ tags: ["cognitive-neuroscience", "human-cognition", "imagination-theory", "brain
 key_concepts: ["imagination", "human-cognition", "neurological-processes"]
 methods: ["case-study"]
 slug: fxa101-week02-the-shape-of-things-unseen-a-new-science-of-imagination
-related: ["cognitive-neuroscience"]
+related: ["cognitive-neuroscience", "imagination", "imagination-theory"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -44,3 +44,5 @@ In 'The Shape of Things Unseen: A New Science of Imagination,' neurologist Adam 
 ## See Also
 
 - [cognitive-neuroscience](../topics/cognitive-neuroscience.md)
+- [imagination](../topics/imagination.md)
+- [imagination-theory](../topics/imagination-theory.md)

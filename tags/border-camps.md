@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: border-camps
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Border Camps

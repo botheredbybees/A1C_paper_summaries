@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: relaxation-strategies
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Relaxation Strategies

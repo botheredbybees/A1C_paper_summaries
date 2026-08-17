@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: natural-products-alzheimers
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Natural Products Alzheimers

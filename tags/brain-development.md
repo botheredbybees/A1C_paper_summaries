@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-development
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Brain Development
@@ -19,6 +19,7 @@ updated: 2026-08-10
 - [Music and the Brain](../sources/fxa300-week02-music-and-the-brain.md)
 - [What Makes a Musician?](../sources/fxa300-week02-what-makes-a-musician.md)
 - [Music Training Improves Verbal but Not Visual Memory: Cross-Sectional and Longitudinal Explorations in Children](../sources/fxa300-week03-music-training-improves-verbal-but-not-visual-memory-cross.md)
+- [Brain morphometry shows effects of long-term musical practice in middle-aged keyboard players](../sources/fxa300-week07-brain-morphometry-shows-effects-of-long-term-musical.md)
 - [Can Traumatic Stress Alter the Brain? Understanding the Implications of Early Trauma on Brain Development and Learning](../sources/fxa303-week01-can-traumatic-stress-alter-the-brain-understanding-the.md)
 - [Free Play and Children\u2019s Mental Health](../sources/fxa303-week02-free-play-and-childrens-mental-health.md)
 - [FXA303 Week 3: Introduction to Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental.md)

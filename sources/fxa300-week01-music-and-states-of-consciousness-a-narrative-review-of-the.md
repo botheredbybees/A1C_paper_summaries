@@ -11,7 +11,7 @@ tags: ["music-psychology", "states-of-consciousness", "neuroscience-research", "
 key_concepts: ["absorption", "flow", "altered-states-of-consciousness"]
 methods: ["narrative-review"]
 slug: fxa300-week01-music-and-states-of-consciousness-a-narrative-review-of-the
-related: ["mind-wandering", "music-psychology", "neuroscience-research"]
+related: ["creative-thought", "mind-wandering", "music-psychology", "neuroscience-research"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -43,6 +43,7 @@ This narrative review explores the significance of music in understanding variou
 
 ## See Also
 
+- [creative-thought](../topics/creative-thought.md)
 - [mind-wandering](../topics/mind-wandering.md)
 - [music-psychology](../topics/music-psychology.md)
 - [neuroscience-research](../topics/neuroscience-research.md)

@@ -8,6 +8,7 @@ sources:
   - fxa100-week02-transcript-duration-949
   - fxa100-week02-web-article-thaut-2010
   - fxa100-week04-singing-and-the-brain
+  - fxa100-week07-artful-art-and-dementia-online-toolkit
   - fxa101-week00-deciphering-sounds-through-patterns-of-vibration-on-the-skin
   - fxa101-week00-neural-insights-into-observational-drawing-a-longitudinal
   - fxa101-week02-acquiring-tastes-and-loves-what-neuroplasticity-teaches-us
@@ -29,7 +30,7 @@ tags:
 - neuroplasticity
 title: Neuroplasticity in Brain Rehabilitation
 type: topic
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Neuroplasticity in Brain Rehabilitation
@@ -53,6 +54,7 @@ The sources collectively highlight the potential of music therapy as a therapeut
 - [fxa100-week02-transcript-duration-949](../sources/fxa100-week02-transcript-duration-949.md)
 - [fxa100-week02-web-article-thaut-2010](../sources/fxa100-week02-web-article-thaut-2010.md)
 - [fxa100-week04-singing-and-the-brain](../sources/fxa100-week04-singing-and-the-brain.md)
+- [fxa100-week07-artful-art-and-dementia-online-toolkit](../sources/fxa100-week07-artful-art-and-dementia-online-toolkit.md)
 - [fxa101-week00-deciphering-sounds-through-patterns-of-vibration-on-the-skin](../sources/fxa101-week00-deciphering-sounds-through-patterns-of-vibration-on-the-skin.md)
 - [fxa101-week00-neural-insights-into-observational-drawing-a-longitudinal](../sources/fxa101-week00-neural-insights-into-observational-drawing-a-longitudinal.md)
 - [fxa101-week02-acquiring-tastes-and-loves-what-neuroplasticity-teaches-us](../sources/fxa101-week02-acquiring-tastes-and-loves-what-neuroplasticity-teaches-us.md)

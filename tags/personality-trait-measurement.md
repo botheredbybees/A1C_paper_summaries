@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: personality-trait-measurement
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Personality Trait Measurement

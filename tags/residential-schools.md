@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: residential-schools
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Residential Schools

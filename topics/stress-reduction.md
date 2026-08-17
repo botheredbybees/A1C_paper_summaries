@@ -7,11 +7,12 @@ sources:
   - fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine
   - psy214-week06-nature-and-well-being-theories
   - psy214-week06-nature-and-well-being-theories-(2)
+  - psy214-week07-lesson-psy214-week07-mindfulness-overview
 tags:
 - stress-reduction
 title: Stress Reduction Through Humor
 type: topic
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Stress Reduction Through Humor
@@ -34,3 +35,4 @@ The utilization of humor and laughter as interventions for stress reduction is e
 - [fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine](../sources/fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine.md)
 - [psy214-week06-nature-and-well-being-theories](../sources/psy214-week06-nature-and-well-being-theories.md)
 - [psy214-week06-nature-and-well-being-theories-(2)](../sources/psy214-week06-nature-and-well-being-theories-%282%29.md)
+- [psy214-week07-lesson-psy214-week07-mindfulness-overview](../sources/psy214-week07-lesson-psy214-week07-mindfulness-overview.md)

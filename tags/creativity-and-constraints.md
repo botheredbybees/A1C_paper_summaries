@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creativity-and-constraints
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Creativity And Constraints

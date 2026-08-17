@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: task-focused-communication
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Task Focused Communication

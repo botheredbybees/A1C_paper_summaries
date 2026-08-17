@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hospital-anxiety-and-depression-scale-hads
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Hospital Anxiety And Depression Scale Hads

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: analytic-hierarchy-process-ahp
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Analytic Hierarchy Process Ahp

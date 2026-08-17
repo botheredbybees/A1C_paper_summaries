@@ -9,6 +9,7 @@ sources:
   - fxa100-week06-herenow-conceptual-model-of-the-impact-of-an-experiential
   - fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of
   - fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales
+  - fxa100-week07-art-and-dementia-art-gallery-of-nsw
   - fxa100-week07-the-role-of-reminiscence-in-arts-based-interventions-for
   - fxa100-week08-week-8-lecture-on-arts-therapy-and-dementia-care
   - fxa100-week13-systematic-review-of-arts-and-culture-based-interventions
@@ -29,7 +30,7 @@ tags:
 - arts-therapy
 title: Arts Therapy
 type: topic
-updated: 2026-08-07
+updated: 2026-08-17
 ---
 
 ## Arts Therapy
@@ -54,6 +55,7 @@ The concept of arts therapy is explored across several sources, highlighting its
 - [fxa100-week06-herenow-conceptual-model-of-the-impact-of-an-experiential](../sources/fxa100-week06-herenow-conceptual-model-of-the-impact-of-an-experiential.md)
 - [fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of](../sources/fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of.md)
 - [fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales](../sources/fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales.md)
+- [fxa100-week07-art-and-dementia-art-gallery-of-nsw](../sources/fxa100-week07-art-and-dementia-art-gallery-of-nsw.md)
 - [fxa100-week07-the-role-of-reminiscence-in-arts-based-interventions-for](../sources/fxa100-week07-the-role-of-reminiscence-in-arts-based-interventions-for.md)
 - [fxa100-week08-week-8-lecture-on-arts-therapy-and-dementia-care](../sources/fxa100-week08-week-8-lecture-on-arts-therapy-and-dementia-care.md)
 - [fxa100-week13-systematic-review-of-arts-and-culture-based-interventions](../sources/fxa100-week13-systematic-review-of-arts-and-culture-based-interventions.md)

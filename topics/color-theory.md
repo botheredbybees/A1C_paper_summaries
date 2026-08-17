@@ -3,6 +3,10 @@ confidence: medium
 domain: theory
 slug: color-theory
 sources:
+  - fxa101-week07-color-harmony
+  - fxa101-week07-lesson-fxa101-week07-page-1-week-7-introduction
+  - fxa101-week07-lesson-fxa101-week07-page-2-week-7-activities
+  - fxa101-week07-week-7-welcome
   - fxa202-week02-lesson-fxa202-week02-page-3
   - fxa202-week02-street-photography-composition-lesson-12-color-theory
   - fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at
@@ -10,7 +14,7 @@ tags:
 - color-theory
 title: Color Theory
 type: topic
-updated: 2026-05-11
+updated: 2026-08-17
 ---
 
 ## Color Theory
@@ -29,6 +33,10 @@ The concept of color theory is explored across various contexts such as photogra
 
 ## Sources
 
+- [fxa101-week07-color-harmony](../sources/fxa101-week07-color-harmony.md)
+- [fxa101-week07-lesson-fxa101-week07-page-1-week-7-introduction](../sources/fxa101-week07-lesson-fxa101-week07-page-1-week-7-introduction.md)
+- [fxa101-week07-lesson-fxa101-week07-page-2-week-7-activities](../sources/fxa101-week07-lesson-fxa101-week07-page-2-week-7-activities.md)
+- [fxa101-week07-week-7-welcome](../sources/fxa101-week07-week-7-welcome.md)
 - [fxa202-week02-lesson-fxa202-week02-page-3](../sources/fxa202-week02-lesson-fxa202-week02-page-3.md)
 - [fxa202-week02-street-photography-composition-lesson-12-color-theory](../sources/fxa202-week02-street-photography-composition-lesson-12-color-theory.md)
 - [fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at](../sources/fxa301-week05-the-colour-treatment-a-convergence-of-art-and-medicine-at.md)

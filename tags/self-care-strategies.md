@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: self-care-strategies
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Self Care Strategies
@@ -26,5 +26,6 @@ updated: 2026-08-10
 - [Relaxation: Informal Approaches](../sources/psy214-week05-lesson-psy214-week05-relaxation-informal.md)
 - [Sleep Hygiene, Screen Use Impact on Sleep](../sources/psy214-week05-lesson-psy214-week05-sleep-sleep-hygiene-approaches.md)
 - [An Adapted, Four-Week Mind\u2013Body Skills Group for Medical Students: Reducing Stress, Increasing Mindfulness, and Enhancing Self-Care](../sources/psy214-week07-an-adapted-four-week-mindbody-skills-group-for-medical.md)
+- [Informal/everyday mindfulness](../sources/psy214-week07-lesson-psy214-week07-everyday-mindfulness.md)
 - [Mindfulness as a Self-Care Strategy for Healthcare Professionals to Reduce Stress and Implicit Bias](../sources/psy214-week07-mindfulness-as-a-self-care-strategy-for-healthcare.md)
 - [Self-Care Skills to Prevent Burnout: A Pilot Study Embedding Mindfulness in an Undergraduate Nursing Course](../sources/psy214-week07-self-care-skills-to-prevent-burnout-a-pilot-study-embedding.md)

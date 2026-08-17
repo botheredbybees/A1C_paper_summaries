@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: interactive-drama
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Interactive Drama

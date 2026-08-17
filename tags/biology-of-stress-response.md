@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: biology-of-stress-response
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Biology Of Stress Response

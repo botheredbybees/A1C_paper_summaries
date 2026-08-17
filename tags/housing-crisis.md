@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: housing-crisis
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Housing Crisis

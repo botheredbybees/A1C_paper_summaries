@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: museum-intervention
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Museum Intervention

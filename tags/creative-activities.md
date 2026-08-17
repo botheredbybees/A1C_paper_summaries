@@ -1,12 +1,14 @@
 ---
 type: tag
 tag: creative-activities
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Creative Activities
 
 - [Starting Out: Identifying Purpose and Planning Arts-Based Projects for Persons with Dementia](../sources/fxa100-creativity-and-communication-ch09-19-starting-out-in-any-creative-endeavour-of-this-nature.md)
+- [Artful: Art and Dementia online toolkit](../sources/fxa100-week07-artful-art-and-dementia-online-toolkit.md)
+- [Week 7 Lecture - FXA100: The Arts and Dementia Care](../sources/fxa100-week07-week-7-lecture-fxa100-the-arts-and-dementia-care.md)
 - [Creativity and Communication in Persons with Dementia : A Practical Guide](../sources/fxa100-week08-creativity-and-communication-in-persons-with-dementia-a.md)
 - [The Use of Creative Activities in Dementia in Residential Aged Care Facilities in Australia: A Cross-Sectional Descriptive Study](../sources/fxa100-week08-the-use-of-creative-activities-in-dementia-in-residential.md)
 - [Art, nature and mental health: assessing the biopsychosocial effects of a \u2018creative green prescription\u2019 museum programme involving horticulture, artmaking and collections](../sources/fxa101-week00-art-nature-and-mental-health-assessing-the-biopsychosocial.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mini-mental-state-mms
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Mini Mental State Mms

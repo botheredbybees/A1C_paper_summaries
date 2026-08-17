@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: product-use-creativity
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Product Use Creativity

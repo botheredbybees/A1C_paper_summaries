@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: reminiscence-therapy
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Reminiscence Therapy
@@ -12,6 +12,8 @@ updated: 2026-08-10
 - [Aged Care Outreach](../sources/fxa100-week07-aged-care-outreach-%282%29.md)
 - [FXA100 Week 7 Lecture](../sources/fxa100-week07-fxa100-week-7-lecture-%282%29.md)
 - [House of Memories](../sources/fxa100-week07-house-of-memories.md)
+- [Week 7 Lecture - Dr Brendan Lamb](../sources/fxa100-week07-week-7-lecture-dr-brendan-lamb.md)
+- [Week 7 Lecture - FXA100: The Arts and Dementia Care](../sources/fxa100-week07-week-7-lecture-fxa100-the-arts-and-dementia-care.md)
 - [Week 7 Lecture Notes - Arts and Dementia Care](../sources/fxa100-week07-week-7-lecture-notes-arts-and-dementia-care.md)
 - [Creativity and Communication in Persons with Dementia : A Practical Guide](../sources/fxa100-week08-creativity-and-communication-in-persons-with-dementia-a.md)
 - [Apples Never Fall: Exploring the Role of Food in Family Wellbeing and Memory through Therapeutic Photography](../sources/fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family.md)

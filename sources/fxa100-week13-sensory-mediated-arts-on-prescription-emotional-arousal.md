@@ -11,7 +11,7 @@ tags: ["arts-on-prescription", "cultural-cognition", "emotional-arousal-mechanis
 key_concepts: ["Arts on Prescription", "Emotional Arousal Mechanisms", "Cultural Cognition", "Personality Types and Color-Emotion Associations"]
 methods: ["cross-cultural workshop", "pre-post intervention measurement"]
 slug: fxa100-week13-sensory-mediated-arts-on-prescription-emotional-arousal
-related: ["arts-on-prescription", "multisensory-experience"]
+related: ["arts-on-prescription", "multisensory-experience", "sensory-engagement"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -44,3 +44,4 @@ This study investigates the therapeutic potential of Portuguese Azulejo craft wo
 
 - [arts-on-prescription](../topics/arts-on-prescription.md)
 - [multisensory-experience](../topics/multisensory-experience.md)
+- [sensory-engagement](../topics/sensory-engagement.md)

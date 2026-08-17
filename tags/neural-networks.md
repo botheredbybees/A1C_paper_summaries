@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neural-networks
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Neural Networks
@@ -11,6 +11,7 @@ updated: 2026-08-10
 - [Effects of Music Training on Inhibitory Control and Associated Neural Networks in School-Aged Children: A Longitudinal Study](../sources/fxa101-week03-effects-of-music-training-on-inhibitory-control-and.md)
 - [Music and the Brain](../sources/fxa300-week02-music-and-the-brain.md)
 - [Music cognition in more detail](../sources/fxa300-week03-lesson-fxa300-week03-music-and-processing-1.md)
+- [Towards a Cognitive Neuroscience of Consciousness: Basic Evidence and a Workspace Framework](../sources/fxa300-week07-towards-a-cognitive-neuroscience-of-consciousness-basic.md)
 - [FXA303 Week 2: Child Development and Creative Arts](../sources/fxa303-week02-fxa303-week-2-child-development-and-creative-arts.md)
 - [Limbic Systems for Emotion and for Memory, but No Single Limbic System](../sources/fxa303-week03-limbic-systems-for-emotion-and-for-memory-but-no-single.md)
 - [Evaluation of Differences in Temporal Synchrony Between Brain Regions in Individuals With Autism and Typical Development](../sources/fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between.md)

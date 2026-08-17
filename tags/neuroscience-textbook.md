@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuroscience-textbook
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Neuroscience Textbook

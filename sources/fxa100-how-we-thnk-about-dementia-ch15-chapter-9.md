@@ -11,7 +11,7 @@ tags: ["dementia-care", "emotional-expression", "subjective-experience", "fxa100
 key_concepts: ["collective subjective", "situational awareness"]
 methods: []
 slug: fxa100-how-we-thnk-about-dementia-ch15-chapter-9
-related: ["dementia-care", "emotional-expression"]
+related: ["dementia-care", "emotional-expression", "subjective-experience"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,3 +42,4 @@ The chapter explores how individuals with dementia can still communicate through
 
 - [dementia-care](../topics/dementia-care.md)
 - [emotional-expression](../topics/emotional-expression.md)
+- [subjective-experience](../topics/subjective-experience.md)

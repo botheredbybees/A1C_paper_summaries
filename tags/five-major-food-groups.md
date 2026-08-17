@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: five-major-food-groups
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Five Major Food Groups

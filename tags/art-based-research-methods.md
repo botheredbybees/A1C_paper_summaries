@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: art-based-research-methods
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Art Based Research Methods

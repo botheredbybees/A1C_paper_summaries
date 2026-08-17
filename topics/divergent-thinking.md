@@ -6,12 +6,14 @@ sources:
   - fxa100-week13-exploring-the-creative-personality-using-machine-learning
   - fxa101-week00-collage-co-collaborator-creative-ideation-for-divergent
   - fxa202-week08-journal-and-visual-research-guidelines
+  - fxa300-week07-happy-creativity-listening-to-happy-music-facilitates
+  - fxa300-week07-modeling-influences-on-divergent-thinking-and-artistic
   - fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the
 tags:
 - divergent-thinking
 title: Divergent Thinking
 type: topic
-updated: 2026-08-08
+updated: 2026-08-17
 ---
 
 ## Divergent Thinking
@@ -33,4 +35,6 @@ The sources provided explore the concept of divergent thinking in different cont
 - [fxa100-week13-exploring-the-creative-personality-using-machine-learning](../sources/fxa100-week13-exploring-the-creative-personality-using-machine-learning.md)
 - [fxa101-week00-collage-co-collaborator-creative-ideation-for-divergent](../sources/fxa101-week00-collage-co-collaborator-creative-ideation-for-divergent.md)
 - [fxa202-week08-journal-and-visual-research-guidelines](../sources/fxa202-week08-journal-and-visual-research-guidelines.md)
+- [fxa300-week07-happy-creativity-listening-to-happy-music-facilitates](../sources/fxa300-week07-happy-creativity-listening-to-happy-music-facilitates.md)
+- [fxa300-week07-modeling-influences-on-divergent-thinking-and-artistic](../sources/fxa300-week07-modeling-influences-on-divergent-thinking-and-artistic.md)
 - [fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the](../sources/fxa303-puppet-assisted-play-therapy-ch03-1-presenting-a-metaphorical-conflict-similar-to-that-of-the.md)

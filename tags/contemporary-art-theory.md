@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: contemporary-art-theory
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Contemporary Art Theory

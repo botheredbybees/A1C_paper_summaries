@@ -3,6 +3,7 @@ confidence: high
 domain: intervention
 slug: museums-and-wellbeing-initiatives
 sources:
+  - fxa100-week07-art-and-dementia-art-gallery-of-nsw
   - fxa301-week01-arts-in-health-designing-and-researching-interventions
   - fxa301-week05-case-studies-of-visual-arts-with-and-for-communities
   - fxa301-week05-happy-museum-project-principles
@@ -18,7 +19,7 @@ tags:
 - wellbeing-initiatives
 title: Museums and Wellbeing Initiatives
 type: topic
-updated: 2026-08-07
+updated: 2026-08-17
 ---
 
 ## Museums and Wellbeing Initiatives
@@ -37,6 +38,7 @@ The integration of visual arts and cultural interventions within museum settings
 
 ## Sources
 
+- [fxa100-week07-art-and-dementia-art-gallery-of-nsw](../sources/fxa100-week07-art-and-dementia-art-gallery-of-nsw.md)
 - [fxa301-week01-arts-in-health-designing-and-researching-interventions](../sources/fxa301-week01-arts-in-health-designing-and-researching-interventions.md)
 - [fxa301-week05-case-studies-of-visual-arts-with-and-for-communities](../sources/fxa301-week05-case-studies-of-visual-arts-with-and-for-communities.md)
 - [fxa301-week05-happy-museum-project-principles](../sources/fxa301-week05-happy-museum-project-principles.md)

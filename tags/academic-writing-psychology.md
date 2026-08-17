@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: academic-writing-psychology
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Academic Writing Psychology

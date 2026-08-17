@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-arts-intervention-for-dementia-care
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Visual Arts Intervention For Dementia Care

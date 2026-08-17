@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: socio-genetic-perspective
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Socio Genetic Perspective

@@ -124,17 +124,23 @@ sources:
   - fxa100-week06-the-role-of-the-visual-arts-in-the-resilience-of-people
   - fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care
   - fxa100-week07-access-programs-art-gallery-of-new-south-wales
+  - fxa100-week07-access-programs-art-gallery-of-nsw
+  - fxa100-week07-aged-care-outreach-education-museums-victoria
   - fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia
   - fxa100-week07-art-and-dementia
   - fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales
+  - fxa100-week07-art-and-dementia-art-gallery-of-nsw
   - fxa100-week07-artful-art-and-dementia-for-visitors-with-dementia-mca
+  - fxa100-week07-artful-art-and-dementia-online-toolkit
   - fxa100-week07-artful-art-and-dementia-toolkit
   - fxa100-week07-arts-engagement-for-people-with-dementia-independent
   - fxa100-week07-arts-engagement-for-people-with-dementia-independent-(2)
   - fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery
+  - fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery-(2)
   - fxa100-week07-connecting-reminiscence-art-making-and-cultural-heritage-a
   - fxa100-week07-connecting-with-and-through-art-arts-engagement-for
   - fxa100-week07-creating-resources-memory-trees-and-boxes
+  - fxa100-week07-creating-resources-national-museums-liverpool
   - fxa100-week07-dementia-and-our-mob-caring-for-spirit
   - fxa100-week07-evaluation-of-the-unforgettable-art-programme-by-people
   - fxa100-week07-for-visitors-with-dementia
@@ -156,6 +162,7 @@ sources:
   - fxa100-week07-two-art-museum-programs-for-people-with-dementia
   - fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery
   - fxa100-week07-web-article-dalzell-2016
+  - fxa100-week07-week-7-lecture-dr-brendan-lamb
   - fxa100-week07-what-are-the-benefits-of-engaging-with-the-visual-arts-in-a
   - fxa100-week08-art-therapy-in-dementia-care-toward-neurologically-informed
   - fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of
@@ -283,7 +290,7 @@ tags:
 - dementia-care
 title: Dementia Care Interventions
 type: topic
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Dementia Care Interventions
@@ -423,17 +430,23 @@ The integration of creative arts and technology in dementia care reveals diverse
 - [fxa100-week06-the-role-of-the-visual-arts-in-the-resilience-of-people](../sources/fxa100-week06-the-role-of-the-visual-arts-in-the-resilience-of-people.md)
 - [fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care](../sources/fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care.md)
 - [fxa100-week07-access-programs-art-gallery-of-new-south-wales](../sources/fxa100-week07-access-programs-art-gallery-of-new-south-wales.md)
+- [fxa100-week07-access-programs-art-gallery-of-nsw](../sources/fxa100-week07-access-programs-art-gallery-of-nsw.md)
+- [fxa100-week07-aged-care-outreach-education-museums-victoria](../sources/fxa100-week07-aged-care-outreach-education-museums-victoria.md)
 - [fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia](../sources/fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia.md)
 - [fxa100-week07-art-and-dementia](../sources/fxa100-week07-art-and-dementia.md)
 - [fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales](../sources/fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales.md)
+- [fxa100-week07-art-and-dementia-art-gallery-of-nsw](../sources/fxa100-week07-art-and-dementia-art-gallery-of-nsw.md)
 - [fxa100-week07-artful-art-and-dementia-for-visitors-with-dementia-mca](../sources/fxa100-week07-artful-art-and-dementia-for-visitors-with-dementia-mca.md)
+- [fxa100-week07-artful-art-and-dementia-online-toolkit](../sources/fxa100-week07-artful-art-and-dementia-online-toolkit.md)
 - [fxa100-week07-artful-art-and-dementia-toolkit](../sources/fxa100-week07-artful-art-and-dementia-toolkit.md)
 - [fxa100-week07-arts-engagement-for-people-with-dementia-independent](../sources/fxa100-week07-arts-engagement-for-people-with-dementia-independent.md)
 - [fxa100-week07-arts-engagement-for-people-with-dementia-independent-(2)](../sources/fxa100-week07-arts-engagement-for-people-with-dementia-independent-%282%29.md)
 - [fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery](../sources/fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery.md)
+- [fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery-(2)](../sources/fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery-%282%29.md)
 - [fxa100-week07-connecting-reminiscence-art-making-and-cultural-heritage-a](../sources/fxa100-week07-connecting-reminiscence-art-making-and-cultural-heritage-a.md)
 - [fxa100-week07-connecting-with-and-through-art-arts-engagement-for](../sources/fxa100-week07-connecting-with-and-through-art-arts-engagement-for.md)
 - [fxa100-week07-creating-resources-memory-trees-and-boxes](../sources/fxa100-week07-creating-resources-memory-trees-and-boxes.md)
+- [fxa100-week07-creating-resources-national-museums-liverpool](../sources/fxa100-week07-creating-resources-national-museums-liverpool.md)
 - [fxa100-week07-dementia-and-our-mob-caring-for-spirit](../sources/fxa100-week07-dementia-and-our-mob-caring-for-spirit.md)
 - [fxa100-week07-evaluation-of-the-unforgettable-art-programme-by-people](../sources/fxa100-week07-evaluation-of-the-unforgettable-art-programme-by-people.md)
 - [fxa100-week07-for-visitors-with-dementia](../sources/fxa100-week07-for-visitors-with-dementia.md)
@@ -455,6 +468,7 @@ The integration of creative arts and technology in dementia care reveals diverse
 - [fxa100-week07-two-art-museum-programs-for-people-with-dementia](../sources/fxa100-week07-two-art-museum-programs-for-people-with-dementia.md)
 - [fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery](../sources/fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery.md)
 - [fxa100-week07-web-article-dalzell-2016](../sources/fxa100-week07-web-article-dalzell-2016.md)
+- [fxa100-week07-week-7-lecture-dr-brendan-lamb](../sources/fxa100-week07-week-7-lecture-dr-brendan-lamb.md)
 - [fxa100-week07-what-are-the-benefits-of-engaging-with-the-visual-arts-in-a](../sources/fxa100-week07-what-are-the-benefits-of-engaging-with-the-visual-arts-in-a.md)
 - [fxa100-week08-art-therapy-in-dementia-care-toward-neurologically-informed](../sources/fxa100-week08-art-therapy-in-dementia-care-toward-neurologically-informed.md)
 - [fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of](../sources/fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: artist-olive-changing-world
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Artist Olive Changing World

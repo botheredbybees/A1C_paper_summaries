@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: self-care
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Self Care
@@ -10,3 +10,5 @@ updated: 2026-08-10
 - [Stress as a Stimulus: Stressors](../sources/psy214-week01-lesson-psy214-week01-stress-as-a-psychological-process.md)
 - [Understanding Stress: Biopsychosocial Model and Self-Care Approaches](../sources/psy214-week01-lesson-psy214-week01-what-is-stress.md)
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness: Early Humanistic Approaches](../sources/psy214-week02-lesson-psy214-week02-multi-dimensional-models-of-well.md)
+- [Mindfulness: Overview and Everyday Practices](../sources/psy214-week07-lesson-psy214-week07-71-module-overview.md)
+- [Mindfulness: Overview](../sources/psy214-week07-lesson-psy214-week07-mindfulness-overview.md)

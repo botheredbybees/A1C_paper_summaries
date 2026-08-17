@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: civic-engagement
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Civic Engagement

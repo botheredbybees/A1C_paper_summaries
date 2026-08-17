@@ -7,6 +7,7 @@ sources:
   - fxa100-week04-conceptualizing-and-planning-interventions
   - fxa100-week04-implementing-and-evaluating-interventions
   - fxa100-week04-research-ethics-in-arts-in-health-interventions
+  - fxa100-week07-week-7-lecture-dr-brendan-lamb
   - fxa100-week10-transcript-the-elderflowers-arts-in-health-program-uses
   - fxa301-arts-in-health-ch19-36-abc-national-cultural-policy-submission
   - fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2)
@@ -41,7 +42,7 @@ tags:
 - arts-in-health
 title: Arts in Health
 type: topic
-updated: 2026-08-07
+updated: 2026-08-17
 ---
 
 ## Arts in Health
@@ -64,6 +65,7 @@ The integration of arts into health interventions aims to enhance public health 
 - [fxa100-week04-conceptualizing-and-planning-interventions](../sources/fxa100-week04-conceptualizing-and-planning-interventions.md)
 - [fxa100-week04-implementing-and-evaluating-interventions](../sources/fxa100-week04-implementing-and-evaluating-interventions.md)
 - [fxa100-week04-research-ethics-in-arts-in-health-interventions](../sources/fxa100-week04-research-ethics-in-arts-in-health-interventions.md)
+- [fxa100-week07-week-7-lecture-dr-brendan-lamb](../sources/fxa100-week07-week-7-lecture-dr-brendan-lamb.md)
 - [fxa100-week10-transcript-the-elderflowers-arts-in-health-program-uses](../sources/fxa100-week10-transcript-the-elderflowers-arts-in-health-program-uses.md)
 - [fxa301-arts-in-health-ch19-36-abc-national-cultural-policy-submission](../sources/fxa301-arts-in-health-ch19-36-abc-national-cultural-policy-submission.md)
 - [fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-(2)](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-%282%29.md)

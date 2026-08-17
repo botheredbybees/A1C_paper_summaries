@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: apa-7th-edition-referencing
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Apa 7Th Edition Referencing

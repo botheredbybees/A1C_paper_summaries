@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dancing-as-therapy
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Dancing As Therapy

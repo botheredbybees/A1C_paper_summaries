@@ -11,7 +11,7 @@ tags: ["continuity-and-discontinuity-in-developmental-psychology", "continuous-d
 key_concepts: ["nature-and-nurture-interaction", "critical-periods-for-learning", "continuity-versus-discontinuity-in-development"]
 methods: ["literature-review"]
 slug: fxa303-week04-developmental-psychology-from-infancy-to-adulthood-chapter
-related: ["developmental-psychology"]
+related: ["developmental-psychology", "nature-vs-nurture"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,3 +43,4 @@ The chapter also addresses the distinction between theories advocating continuit
 ## See Also
 
 - [developmental-psychology](../topics/developmental-psychology.md)
+- [nature-vs-nurture](../topics/nature-vs-nurture.md)

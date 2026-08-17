@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: body-talk
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Body Talk

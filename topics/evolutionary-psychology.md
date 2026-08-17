@@ -6,10 +6,11 @@ confidence: medium
 tags: ["evolutionary-psychology"]
 sources:
   - fxa101-week02-survival-of-the-synesthesia-gene-why-do-people-hear-colors
+  - fxa101-week07-red-signals-dominance-in-male-rhesus-macaques
   - fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession-(4)
   - fxa301-week10-does-being-human-matter
   - fxa302-week02-the-persisting-conflict-of-interpretations-of-shamanism
-updated: 2026-08-07
+updated: 2026-08-17
 ---
 
 ## Evolutionary Psychology of Sensory Perception
@@ -29,6 +30,7 @@ The sources collectively delve into the theoretical frameworks within evolutiona
 ## Sources
 
 - [fxa101-week02-survival-of-the-synesthesia-gene-why-do-people-hear-colors](../sources/fxa101-week02-survival-of-the-synesthesia-gene-why-do-people-hear-colors.md)
+- [fxa101-week07-red-signals-dominance-in-male-rhesus-macaques](../sources/fxa101-week07-red-signals-dominance-in-male-rhesus-macaques.md)
 - [fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession-(4)](../sources/fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession-%284%29.md)
 - [fxa301-week10-does-being-human-matter](../sources/fxa301-week10-does-being-human-matter.md)
 - [fxa302-week02-the-persisting-conflict-of-interpretations-of-shamanism](../sources/fxa302-week02-the-persisting-conflict-of-interpretations-of-shamanism.md)

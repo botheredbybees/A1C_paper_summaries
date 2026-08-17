@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: narrative-enhancement-through-media
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Narrative Enhancement Through Media

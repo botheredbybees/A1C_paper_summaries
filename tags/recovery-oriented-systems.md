@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: recovery-oriented-systems
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Recovery Oriented Systems

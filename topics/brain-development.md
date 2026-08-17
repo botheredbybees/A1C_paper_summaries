@@ -16,6 +16,7 @@ sources:
   - fxa300-week02-music-and-the-brain
   - fxa300-week02-what-makes-a-musician
   - fxa300-week03-music-training-improves-verbal-but-not-visual-memory-cross
+  - fxa300-week07-brain-morphometry-shows-effects-of-long-term-musical
   - fxa303-week01-can-traumatic-stress-alter-the-brain-understanding-the
   - fxa303-week02-free-play-and-childrens-mental-health
   - fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental
@@ -30,7 +31,7 @@ tags:
 - brain-development
 title: Brain Development Across Lifespan
 type: topic
-updated: 2026-08-07
+updated: 2026-08-17
 ---
 
 ## Brain Development Across Lifespan
@@ -62,6 +63,7 @@ The provided sources delve into the multifaceted process of brain development ac
 - [fxa300-week02-music-and-the-brain](../sources/fxa300-week02-music-and-the-brain.md)
 - [fxa300-week02-what-makes-a-musician](../sources/fxa300-week02-what-makes-a-musician.md)
 - [fxa300-week03-music-training-improves-verbal-but-not-visual-memory-cross](../sources/fxa300-week03-music-training-improves-verbal-but-not-visual-memory-cross.md)
+- [fxa300-week07-brain-morphometry-shows-effects-of-long-term-musical](../sources/fxa300-week07-brain-morphometry-shows-effects-of-long-term-musical.md)
 - [fxa303-week01-can-traumatic-stress-alter-the-brain-understanding-the](../sources/fxa303-week01-can-traumatic-stress-alter-the-brain-understanding-the.md)
 - [fxa303-week02-free-play-and-childrens-mental-health](../sources/fxa303-week02-free-play-and-childrens-mental-health.md)
 - [fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental](../sources/fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental.md)

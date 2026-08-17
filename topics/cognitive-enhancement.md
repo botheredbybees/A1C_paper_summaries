@@ -15,12 +15,14 @@ sources:
   - fxa101-week04-intergenerational-music-making-a-vehicle-for-active-ageing
   - fxa300-week03-a-music-mind-and-movement-program-for-people-with-dementia
   - fxa300-week03-effects-of-acoustically-screened-five-element-music
+  - fxa300-week07-a-meta-analysis-of-the-effects-of-transcranial-direct
+  - fxa300-week07-happy-creativity-listening-to-happy-music-facilitates
   - fxa301-week06-feasibility-and-preliminary-effects-of-ballet-based-group
 tags:
 - cognitive-enhancement
 title: Cognitive Enhancement Through Creative and Physical Activities
 type: topic
-updated: 2026-08-07
+updated: 2026-08-17
 ---
 
 ## Cognitive Enhancement Through Creative and Physical Activities
@@ -51,4 +53,6 @@ The integration of various creative and physical activities, such as singing in 
 - [fxa101-week04-intergenerational-music-making-a-vehicle-for-active-ageing](../sources/fxa101-week04-intergenerational-music-making-a-vehicle-for-active-ageing.md)
 - [fxa300-week03-a-music-mind-and-movement-program-for-people-with-dementia](../sources/fxa300-week03-a-music-mind-and-movement-program-for-people-with-dementia.md)
 - [fxa300-week03-effects-of-acoustically-screened-five-element-music](../sources/fxa300-week03-effects-of-acoustically-screened-five-element-music.md)
+- [fxa300-week07-a-meta-analysis-of-the-effects-of-transcranial-direct](../sources/fxa300-week07-a-meta-analysis-of-the-effects-of-transcranial-direct.md)
+- [fxa300-week07-happy-creativity-listening-to-happy-music-facilitates](../sources/fxa300-week07-happy-creativity-listening-to-happy-music-facilitates.md)
 - [fxa301-week06-feasibility-and-preliminary-effects-of-ballet-based-group](../sources/fxa301-week06-feasibility-and-preliminary-effects-of-ballet-based-group.md)

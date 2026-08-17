@@ -8,6 +8,7 @@ sources:
   - fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the
   - fxa100-week07-art-and-dementia
   - fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales
+  - fxa100-week07-art-and-dementia-art-gallery-of-nsw
   - fxa100-week07-arts-engagement-for-people-with-dementia-independent
   - fxa100-week07-arts-engagement-for-people-with-dementia-independent-(2)
   - fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery
@@ -26,7 +27,7 @@ tags:
 - social-inclusion
 title: Social Inclusion Through Arts and Music
 type: topic
-updated: 2026-08-07
+updated: 2026-08-17
 ---
 
 ## Social Inclusion Through Arts and Music
@@ -50,6 +51,7 @@ The synthesis of the provided sources highlights various interventions aimed at 
 - [fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the](../sources/fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the.md)
 - [fxa100-week07-art-and-dementia](../sources/fxa100-week07-art-and-dementia.md)
 - [fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales](../sources/fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales.md)
+- [fxa100-week07-art-and-dementia-art-gallery-of-nsw](../sources/fxa100-week07-art-and-dementia-art-gallery-of-nsw.md)
 - [fxa100-week07-arts-engagement-for-people-with-dementia-independent](../sources/fxa100-week07-arts-engagement-for-people-with-dementia-independent.md)
 - [fxa100-week07-arts-engagement-for-people-with-dementia-independent-(2)](../sources/fxa100-week07-arts-engagement-for-people-with-dementia-independent-%282%29.md)
 - [fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery](../sources/fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cutaneous-perception
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Cutaneous Perception

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: musical-parameters
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Musical Parameters

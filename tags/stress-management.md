@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: stress-management
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Stress Management
@@ -43,6 +43,8 @@ updated: 2026-08-10
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness](../sources/psy214-week06-lesson-psy214-week06-connectunplug-nature-part-2.md)
 - [An Adapted, Four-Week Mind\u2013Body Skills Group for Medical Students: Reducing Stress, Increasing Mindfulness, and Enhancing Self-Care](../sources/psy214-week07-an-adapted-four-week-mindbody-skills-group-for-medical.md)
 - [Impact of a mindfulness and self-care intervention on stress, self-compassion, and attentiveness in university healthcare students and faculty](../sources/psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on.md)
+- [Mindfulness: Overview and Everyday Practices](../sources/psy214-week07-lesson-psy214-week07-71-module-overview.md)
+- [Informal/everyday mindfulness](../sources/psy214-week07-lesson-psy214-week07-everyday-mindfulness.md)
 - [Mindfulness and acceptance-based trainings for fostering self-care and reducing stress in mental health professionals: A systematic review](../sources/psy214-week07-mindfulness-and-acceptance-based-trainings-for-fostering.md)
 - [Mindfulness as a Self-Care Strategy for Healthcare Professionals to Reduce Stress and Implicit Bias](../sources/psy214-week07-mindfulness-as-a-self-care-strategy-for-healthcare.md)
 - [Teaching Mindfulness Techniques to Behavioral Health Care Staff for Stress Reduction and Self-Care](../sources/psy214-week07-teaching-mindfulness-techniques-to-behavioral-health-care.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: extrinsic-benefits
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Extrinsic Benefits

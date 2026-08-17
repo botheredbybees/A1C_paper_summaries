@@ -9,11 +9,14 @@ sources:
   - fxa202-week03-lesson-fxa202-week03-week-3
   - fxa202-week06-critical-reflection-on-visual-storytelling-through
   - psy214-week02-lesson-psy214-week02-multi-dimensional-models-of-well
+  - psy214-week07-lesson-psy214-week07-71-module-overview
+  - psy214-week07-lesson-psy214-week07-mindfulness-overview
+  - psy214-week07-lesson-psy214-week07-western-mindfulness-overlaps-with
 tags:
 - mindfulness
 title: Mindfulness and Therapeutic Photography
 type: topic
-updated: 2026-08-08
+updated: 2026-08-17
 ---
 
 ## Mindfulness and Therapeutic Photography
@@ -38,3 +41,6 @@ The integration of mindfulness with therapeutic photography emerges as a signifi
 - [fxa202-week03-lesson-fxa202-week03-week-3](../sources/fxa202-week03-lesson-fxa202-week03-week-3.md)
 - [fxa202-week06-critical-reflection-on-visual-storytelling-through](../sources/fxa202-week06-critical-reflection-on-visual-storytelling-through.md)
 - [psy214-week02-lesson-psy214-week02-multi-dimensional-models-of-well](../sources/psy214-week02-lesson-psy214-week02-multi-dimensional-models-of-well.md)
+- [psy214-week07-lesson-psy214-week07-71-module-overview](../sources/psy214-week07-lesson-psy214-week07-71-module-overview.md)
+- [psy214-week07-lesson-psy214-week07-mindfulness-overview](../sources/psy214-week07-lesson-psy214-week07-mindfulness-overview.md)
+- [psy214-week07-lesson-psy214-week07-western-mindfulness-overlaps-with](../sources/psy214-week07-lesson-psy214-week07-western-mindfulness-overlaps-with.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: blind-people-research
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Blind People Research

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: power-desire-ethics-interrelation
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Power Desire Ethics Interrelation

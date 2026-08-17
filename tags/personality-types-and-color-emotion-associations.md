@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: personality-types-and-color-emotion-associations
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Personality Types And Color Emotion Associations

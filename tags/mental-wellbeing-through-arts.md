@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-wellbeing-through-arts
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Mental Wellbeing Through Arts

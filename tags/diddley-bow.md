@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: diddley-bow
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Diddley Bow

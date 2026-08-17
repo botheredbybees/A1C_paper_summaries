@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: integration-of-words-and-images
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Integration Of Words And Images

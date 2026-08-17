@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: word-painting
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Word Painting

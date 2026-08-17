@@ -4,13 +4,14 @@ domain: intervention
 slug: person-centered-care-in-dementia-interventions
 sources:
   - fxa100-week07-im-still-here-a-breakthrough-approach-to-understanding
+  - fxa100-week07-interventions-dementia-services-information-and-development-(2)
   - fxa100-week09-key-components-of-person-centered-care-for-people-with
   - fxa100-week09-key-intervention-categories-to-provide-person-centered
 tags:
 - dementia-interventions
 title: Person-Centered Care in Dementia Interventions
 type: topic
-updated: 2026-05-11
+updated: 2026-08-17
 ---
 
 ## Person-Centered Care in Dementia Interventions
@@ -30,5 +31,6 @@ The provided sources emphasize the importance of non-pharmacological and person-
 ## Sources
 
 - [fxa100-week07-im-still-here-a-breakthrough-approach-to-understanding](../sources/fxa100-week07-im-still-here-a-breakthrough-approach-to-understanding.md)
+- [fxa100-week07-interventions-dementia-services-information-and-development-(2)](../sources/fxa100-week07-interventions-dementia-services-information-and-development-%282%29.md)
 - [fxa100-week09-key-components-of-person-centered-care-for-people-with](../sources/fxa100-week09-key-components-of-person-centered-care-for-people-with.md)
 - [fxa100-week09-key-intervention-categories-to-provide-person-centered](../sources/fxa100-week09-key-intervention-categories-to-provide-person-centered.md)

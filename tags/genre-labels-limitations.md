@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: genre-labels-limitations
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Genre Labels Limitations

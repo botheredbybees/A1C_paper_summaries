@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: culture-of-inquiry
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Culture Of Inquiry

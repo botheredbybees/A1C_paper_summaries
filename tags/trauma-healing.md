@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: trauma-healing
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Trauma Healing

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: expert-artists-decision-making
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Expert Artists Decision Making

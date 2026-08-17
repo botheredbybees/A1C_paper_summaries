@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychological-effects
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Psychological Effects

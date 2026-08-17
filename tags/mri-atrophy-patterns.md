@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mri-atrophy-patterns
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Mri Atrophy Patterns

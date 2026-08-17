@@ -7,13 +7,15 @@ doi: https://doi.org/10.4324/9781003460244-12
 appearances:
   - unit: FXA300
     week: "02"
+  - unit: FXA300
+    week: "07"
 tags: ["music-psychology", "bodily-reactions", "physiological-effects", "fxa300", "physical-behaviors", "musical-influences"]
 key_concepts: ["physiological responses", "physical behaviors", "musical influences"]
 methods: ["case study", "observational study"]
 slug: fxa300-week02-bodily-responses-to-music
 related: ["music-psychology"]
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-08-17
 ---
 
 _All claims sourced from ../raw/pdf/fxa300-week02-bodily-responses-to-music.md_

@@ -9,6 +9,8 @@ sources:
   - fxa100-week07-aged-care-outreach-(2)
   - fxa100-week07-fxa100-week-7-lecture-(2)
   - fxa100-week07-house-of-memories
+  - fxa100-week07-week-7-lecture-dr-brendan-lamb
+  - fxa100-week07-week-7-lecture-fxa100-the-arts-and-dementia-care
   - fxa100-week07-week-7-lecture-notes-arts-and-dementia-care
   - fxa100-week08-creativity-and-communication-in-persons-with-dementia-a
   - fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family
@@ -19,7 +21,7 @@ tags:
 - reminiscence-therapy
 title: Reminiscence Therapy
 type: topic
-updated: 2026-08-07
+updated: 2026-08-17
 ---
 
 ## Reminiscence Therapy
@@ -44,6 +46,8 @@ The synthesis integrates the use of technology and music in reminiscence therapy
 - [fxa100-week07-aged-care-outreach-(2)](../sources/fxa100-week07-aged-care-outreach-%282%29.md)
 - [fxa100-week07-fxa100-week-7-lecture-(2)](../sources/fxa100-week07-fxa100-week-7-lecture-%282%29.md)
 - [fxa100-week07-house-of-memories](../sources/fxa100-week07-house-of-memories.md)
+- [fxa100-week07-week-7-lecture-dr-brendan-lamb](../sources/fxa100-week07-week-7-lecture-dr-brendan-lamb.md)
+- [fxa100-week07-week-7-lecture-fxa100-the-arts-and-dementia-care](../sources/fxa100-week07-week-7-lecture-fxa100-the-arts-and-dementia-care.md)
 - [fxa100-week07-week-7-lecture-notes-arts-and-dementia-care](../sources/fxa100-week07-week-7-lecture-notes-arts-and-dementia-care.md)
 - [fxa100-week08-creativity-and-communication-in-persons-with-dementia-a](../sources/fxa100-week08-creativity-and-communication-in-persons-with-dementia-a.md)
 - [fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family](../sources/fxa202-week06-apples-never-fall-exploring-the-role-of-food-in-family.md)

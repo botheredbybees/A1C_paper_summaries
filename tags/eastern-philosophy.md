@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: eastern-philosophy
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Eastern Philosophy

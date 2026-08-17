@@ -40,6 +40,8 @@ sources:
   - psy214-week06-lesson-psy214-week06-connectunplug-nature-part-2
   - psy214-week07-an-adapted-four-week-mindbody-skills-group-for-medical
   - psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on
+  - psy214-week07-lesson-psy214-week07-71-module-overview
+  - psy214-week07-lesson-psy214-week07-everyday-mindfulness
   - psy214-week07-mindfulness-and-acceptance-based-trainings-for-fostering
   - psy214-week07-mindfulness-as-a-self-care-strategy-for-healthcare
   - psy214-week07-teaching-mindfulness-techniques-to-behavioral-health-care
@@ -47,7 +49,7 @@ tags:
 - stress-management
 title: Stress Management Interventions
 type: topic
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Stress Management Interventions
@@ -103,6 +105,8 @@ The exploration of stress management interventions across multiple sources highl
 - [psy214-week06-lesson-psy214-week06-connectunplug-nature-part-2](../sources/psy214-week06-lesson-psy214-week06-connectunplug-nature-part-2.md)
 - [psy214-week07-an-adapted-four-week-mindbody-skills-group-for-medical](../sources/psy214-week07-an-adapted-four-week-mindbody-skills-group-for-medical.md)
 - [psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on](../sources/psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on.md)
+- [psy214-week07-lesson-psy214-week07-71-module-overview](../sources/psy214-week07-lesson-psy214-week07-71-module-overview.md)
+- [psy214-week07-lesson-psy214-week07-everyday-mindfulness](../sources/psy214-week07-lesson-psy214-week07-everyday-mindfulness.md)
 - [psy214-week07-mindfulness-and-acceptance-based-trainings-for-fostering](../sources/psy214-week07-mindfulness-and-acceptance-based-trainings-for-fostering.md)
 - [psy214-week07-mindfulness-as-a-self-care-strategy-for-healthcare](../sources/psy214-week07-mindfulness-as-a-self-care-strategy-for-healthcare.md)
 - [psy214-week07-teaching-mindfulness-techniques-to-behavioral-health-care](../sources/psy214-week07-teaching-mindfulness-techniques-to-behavioral-health-care.md)

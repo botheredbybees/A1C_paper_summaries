@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: personalized-care-plans
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Personalized Care Plans

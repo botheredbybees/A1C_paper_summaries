@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sacred-disease-hiera-nosos
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Sacred Disease Hiera Nosos

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: research-methods-in-healthcare-evaluation
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Research Methods In Healthcare Evaluation

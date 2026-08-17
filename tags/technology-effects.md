@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: technology-effects
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Technology Effects

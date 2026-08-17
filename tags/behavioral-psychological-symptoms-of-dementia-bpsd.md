@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: behavioral-psychological-symptoms-of-dementia-bpsd
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Behavioral Psychological Symptoms Of Dementia Bpsd

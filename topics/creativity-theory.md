@@ -7,7 +7,8 @@ tags: ["creativity-theory"]
 sources:
   - fxa101-week05-creativity-and-innovation
   - fxa101-week05-thinking-inside-the-tool-box-creativity-constraints-and-the
-updated: 2026-08-07
+  - fxa300-week07-big-c-little-c-creativity-as-a-false-dichotomy-reality-is
+updated: 2026-08-17
 ---
 
 ## Creativity Theory
@@ -28,3 +29,4 @@ The provided sources explore various theoretical frameworks and constraints that
 
 - [fxa101-week05-creativity-and-innovation](../sources/fxa101-week05-creativity-and-innovation.md)
 - [fxa101-week05-thinking-inside-the-tool-box-creativity-constraints-and-the](../sources/fxa101-week05-thinking-inside-the-tool-box-creativity-constraints-and-the.md)
+- [fxa300-week07-big-c-little-c-creativity-as-a-false-dichotomy-reality-is](../sources/fxa300-week07-big-c-little-c-creativity-as-a-false-dichotomy-reality-is.md)

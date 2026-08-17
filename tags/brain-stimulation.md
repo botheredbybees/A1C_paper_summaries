@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-stimulation
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Brain Stimulation
@@ -10,3 +10,4 @@ updated: 2026-08-10
 - [Art Gives Same Level of Pleasure as Being in Love](../sources/fxa100-week06-transcript-art-gives-same-level-of-pleasure-as-being-in-love.md)
 - [Leisure Activities and the Risk of Dementia in the Elderly](../sources/fxa100-week11-leisure-activities-and-the-risk-of-dementia-in-the-elderly.md)
 - [Benefits of Dance and Movement for People with Dementia](../sources/fxa100-week11-lesson-fxa100-week11-page-1-welcome-to-week-10.md)
+- [A Meta-Analysis of the Effects of Transcranial Direct Current Stimulation on Creative Thinking](../sources/fxa300-week07-a-meta-analysis-of-the-effects-of-transcranial-direct.md)

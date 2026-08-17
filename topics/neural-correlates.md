@@ -7,7 +7,8 @@ tags: ["neural-correlates"]
 sources:
   - fxa100-week13-mechanisms-of-change-in-dancemovement-therapy-and-their
   - fxa300-week04-toward-a-neural-basis-of-music-perception-a-review-and
-updated: 2026-07-28
+  - fxa300-week07-connecting-to-create-expertise-in-musical-improvisation-is
+updated: 2026-08-17
 ---
 
 ## Neural Correlates of Therapeutic Modalities
@@ -28,3 +29,4 @@ The investigation into the mechanisms of change in dance/movement therapy and th
 
 - [fxa100-week13-mechanisms-of-change-in-dancemovement-therapy-and-their](../sources/fxa100-week13-mechanisms-of-change-in-dancemovement-therapy-and-their.md)
 - [fxa300-week04-toward-a-neural-basis-of-music-perception-a-review-and](../sources/fxa300-week04-toward-a-neural-basis-of-music-perception-a-review-and.md)
+- [fxa300-week07-connecting-to-create-expertise-in-musical-improvisation-is](../sources/fxa300-week07-connecting-to-create-expertise-in-musical-improvisation-is.md)

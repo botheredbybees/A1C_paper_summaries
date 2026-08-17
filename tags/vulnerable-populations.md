@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: vulnerable-populations
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Vulnerable Populations

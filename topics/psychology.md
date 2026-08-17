@@ -6,11 +6,13 @@ confidence: medium
 tags: ["psychology"]
 sources:
   - fxa101-week05-lesson-fxa101-week05-page-2-week-5-activities
+  - fxa101-week07-color-harmony
+  - fxa300-week07-web-article-bonk-2003
   - fxa303-week02-web-article-orenstein-2022
   - psy214-week03-lesson-psy214-week03-journal-assessment-workshop
   - psy214-week03-lesson-psy214-week03-making-sense-of-evidence
   - psy214-week05-transcript-to-sleep-perchance-to-dream
-updated: 2026-08-07
+updated: 2026-08-17
 ---
 
 ## Psychosocial Development Across the Lifespan
@@ -30,6 +32,8 @@ Erikson's stages of psychosocial development provide a theoretical framework for
 ## Sources
 
 - [fxa101-week05-lesson-fxa101-week05-page-2-week-5-activities](../sources/fxa101-week05-lesson-fxa101-week05-page-2-week-5-activities.md)
+- [fxa101-week07-color-harmony](../sources/fxa101-week07-color-harmony.md)
+- [fxa300-week07-web-article-bonk-2003](../sources/fxa300-week07-web-article-bonk-2003.md)
 - [fxa303-week02-web-article-orenstein-2022](../sources/fxa303-week02-web-article-orenstein-2022.md)
 - [psy214-week03-lesson-psy214-week03-journal-assessment-workshop](../sources/psy214-week03-lesson-psy214-week03-journal-assessment-workshop.md)
 - [psy214-week03-lesson-psy214-week03-making-sense-of-evidence](../sources/psy214-week03-lesson-psy214-week03-making-sense-of-evidence.md)

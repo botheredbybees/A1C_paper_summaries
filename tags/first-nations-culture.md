@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: first-nations-culture
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## First Nations Culture

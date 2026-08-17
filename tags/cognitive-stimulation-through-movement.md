@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-stimulation-through-movement
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Cognitive Stimulation Through Movement

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: person-centred-care
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Person Centred Care

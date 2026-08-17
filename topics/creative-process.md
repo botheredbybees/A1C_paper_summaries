@@ -6,8 +6,11 @@ confidence: medium
 tags: ["creative-process"]
 sources:
   - fxa101-week03-leonardo-da-vinci-a-genius-driven-to-distraction
+  - fxa101-week07-emerging-maker-alice-walton
+  - fxa101-week07-week-7-welcome
   - fxa202-week05-where-do-you-get-your-ideas
-updated: 2026-07-20
+  - fxa300-week07-imagination-and-creativity-a-necessary-connection
+updated: 2026-08-17
 ---
 
 ## Creative Process
@@ -26,4 +29,7 @@ The creative process is a complex and multifaceted theory that involves various 
 ## Sources
 
 - [fxa101-week03-leonardo-da-vinci-a-genius-driven-to-distraction](../sources/fxa101-week03-leonardo-da-vinci-a-genius-driven-to-distraction.md)
+- [fxa101-week07-emerging-maker-alice-walton](../sources/fxa101-week07-emerging-maker-alice-walton.md)
+- [fxa101-week07-week-7-welcome](../sources/fxa101-week07-week-7-welcome.md)
 - [fxa202-week05-where-do-you-get-your-ideas](../sources/fxa202-week05-where-do-you-get-your-ideas.md)
+- [fxa300-week07-imagination-and-creativity-a-necessary-connection](../sources/fxa300-week07-imagination-and-creativity-a-necessary-connection.md)

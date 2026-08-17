@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: game-therapy
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Game Therapy

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-health
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Arts Health
@@ -18,5 +18,6 @@ updated: 2026-08-10
 - [Week 3 Introduction: Arts, Health, and Wellbeing Policy](../sources/fxa301-week03-week-3-introduction-arts-health-and-wellbeing-policy.md)
 - [People change lives: consolidating five years of evaluation learning from Sistema Scotland\u2019s Big Noise centres in Stirling, Glasgow and Aberdeen](../sources/fxa301-week06-people-change-lives-consolidating-five-years-of-evaluation-%282%29.md)
 - [A constructive-critical response to Creative Health: The Arts for Health and Wellbeing (July 2017) by the All\u2013Party Parliamentary Group on Arts, Health and Wellbeing](../sources/fxa302-week07-a-constructive-critical-response-to-creative-health-the.md)
+- [FXA302 Week 7 Poster Assessment Instructions](../sources/fxa302-week07-lesson-fxa302-week07-week-8-activities.md)
 - [Trauma Aware and Anti-Oppressive Arts-Health and Community Arts Practice: Guiding Principles for Facilitating Healing, Health and Wellbeing](../sources/fxa303-week09-trauma-aware-and-anti-oppressive-arts-health-and-community.md)
 - [What is the evidence on the role of the arts in improving health and well-being? A scoping review](../sources/fxa303-week11-web-article-fancourt-2019.md)

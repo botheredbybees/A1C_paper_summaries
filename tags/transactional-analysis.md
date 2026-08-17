@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: transactional-analysis
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Transactional Analysis

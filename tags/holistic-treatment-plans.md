@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: holistic-treatment-plans
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Holistic Treatment Plans

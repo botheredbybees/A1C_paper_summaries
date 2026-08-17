@@ -11,7 +11,7 @@ tags: ["amsterdam-arts", "artistic-gatekeeping", "cultural-inclusion", "ethnic-s
 key_concepts: ["inclusive-exclusion", "cultural-policy", "artistic-gatekeeping"]
 methods: ["case-study"]
 slug: fxa301-week11-immigrants-artistic-practices-in-amsterdam-19702007-a
-related: []
+related: ["cultural-inclusion"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -41,4 +41,4 @@ Christine Delhaye's article explores the political dynamics surrounding immigran
 
 ## See Also
 
-*(none yet)*
+- [cultural-inclusion](../topics/cultural-inclusion.md)

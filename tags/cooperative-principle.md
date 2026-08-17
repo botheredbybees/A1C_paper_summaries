@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cooperative-principle
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Cooperative Principle

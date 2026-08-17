@@ -7,9 +7,10 @@ tags: ["visual-perception"]
 sources:
   - fxa100-week12-inner-vision-an-exploration-of-art-and-the-brain
   - fxa101-week05-face-pareidolia-recruits-mechanisms-for-detecting-human
+  - fxa101-week07-textures-as-probes-of-visual-processing
   - fxa300-week04-transcript-delete-this-element
   - fxa301-week01-transcript-it-also-includes-discussion-of-what-can-be
-updated: 2026-08-03
+updated: 2026-08-17
 ---
 
 ## Visual Perception
@@ -30,5 +31,6 @@ The exploration of visual perception involves understanding how the brain proces
 
 - [fxa100-week12-inner-vision-an-exploration-of-art-and-the-brain](../sources/fxa100-week12-inner-vision-an-exploration-of-art-and-the-brain.md)
 - [fxa101-week05-face-pareidolia-recruits-mechanisms-for-detecting-human](../sources/fxa101-week05-face-pareidolia-recruits-mechanisms-for-detecting-human.md)
+- [fxa101-week07-textures-as-probes-of-visual-processing](../sources/fxa101-week07-textures-as-probes-of-visual-processing.md)
 - [fxa300-week04-transcript-delete-this-element](../sources/fxa300-week04-transcript-delete-this-element.md)
 - [fxa301-week01-transcript-it-also-includes-discussion-of-what-can-be](../sources/fxa301-week01-transcript-it-also-includes-discussion-of-what-can-be.md)

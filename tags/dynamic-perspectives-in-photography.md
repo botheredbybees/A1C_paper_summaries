@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dynamic-perspectives-in-photography
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Dynamic Perspectives In Photography

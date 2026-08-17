@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: national-empowerment-project-nep
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## National Empowerment Project Nep

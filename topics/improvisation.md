@@ -4,12 +4,14 @@ domain: intervention
 slug: improvisational-music-therapy
 sources:
   - fxa100-week09-transcript-youtube-y1uwix2fnv4
+  - fxa300-week07-lesson-fxa300-week07-page-3-1
+  - fxa300-week07-lesson-fxa300-week07-welcome-to-week-7-1
   - fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam
 tags:
 - improvisation
 title: Improvisational Music Therapy
 type: topic
-updated: 2026-05-11
+updated: 2026-08-17
 ---
 
 ## Improvisational Music Therapy
@@ -29,4 +31,6 @@ The integration of music and music therapy into care pathways for individuals wi
 ## Sources
 
 - [fxa100-week09-transcript-youtube-y1uwix2fnv4](../sources/fxa100-week09-transcript-youtube-y1uwix2fnv4.md)
+- [fxa300-week07-lesson-fxa300-week07-page-3-1](../sources/fxa300-week07-lesson-fxa300-week07-page-3-1.md)
+- [fxa300-week07-lesson-fxa300-week07-welcome-to-week-7-1](../sources/fxa300-week07-lesson-fxa300-week07-welcome-to-week-7-1.md)
 - [fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam.md)

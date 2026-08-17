@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotorics-emotive-body-movement-mind-paradigm-ebmmp
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Emotorics Emotive Body Movement Mind Paradigm Ebmmp

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: quantitative-psychological-tests
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Quantitative Psychological Tests

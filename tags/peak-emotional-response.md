@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: peak-emotional-response
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Peak Emotional Response

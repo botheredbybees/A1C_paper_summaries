@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: meta-analysis
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Meta Analysis
@@ -14,6 +14,7 @@ updated: 2026-08-10
 - [Meta-Analysis of Action Video Game Impact on Perceptual, Attentional, and Cognitive Skills](../sources/fxa101-week04-meta-analysis-of-action-video-game-impact-on-perceptual.md)
 - [Examining the relationship between creativity and innovation: A meta-analysis of organizational, cultural, and environmental factors](../sources/fxa101-week06-examining-the-relationship-between-creativity-and.md)
 - [The Relationship Between Stressors and Creativity: A Meta-Analysis Examining Competing Theoretical Models](../sources/fxa101-week06-the-relationship-between-stressors-and-creativity-a-meta.md)
+- [A Meta-Analysis of the Effects of Transcranial Direct Current Stimulation on Creative Thinking](../sources/fxa300-week07-a-meta-analysis-of-the-effects-of-transcranial-direct.md)
 - [ROB-ME: a tool for assessing risk of bias due to missing evidence in systematic reviews with meta-analysis](../sources/fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing.md)
 - [The rationale for rating risk of bias should be fully reported](../sources/fxa301-week01-the-rationale-for-rating-risk-of-bias-should-be-fully.md)
 - [Effectiveness of Dance Interventions for Falls Prevention in Older Adults: Systematic Review and Meta-analysis](../sources/fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention.md)

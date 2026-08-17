@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: symbolic-expression
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Symbolic Expression

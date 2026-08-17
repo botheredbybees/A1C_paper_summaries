@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: kathak-dance
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Kathak Dance

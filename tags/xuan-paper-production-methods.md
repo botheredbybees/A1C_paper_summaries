@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: xuan-paper-production-methods
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Xuan Paper Production Methods

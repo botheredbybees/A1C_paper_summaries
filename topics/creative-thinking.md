@@ -5,13 +5,16 @@ slug: creative-thinking-across-generations
 sources:
   - fxa101-week04-case-study-engaging-older-people-in-creative-thinkingthe
   - fxa101-week06-lesson-fxa101-week06-page-2-week-6-activities
+  - fxa300-week07-a-meta-analysis-of-the-effects-of-transcranial-direct
+  - fxa300-week07-imagination-and-creativity-in-science-an-embodied
+  - fxa300-week07-web-article-bonk-2003
   - fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30
   - fxa303-puppet-assisted-play-therapy-ch02-1-we-must-encourage-children-to-use-their-imagination-and
 tags:
 - creative-thinking
 title: Creative Thinking Across Generations
 type: topic
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Creative Thinking Across Generations
@@ -32,5 +35,8 @@ The sources discussed the role of creative thinking interventions across differe
 
 - [fxa101-week04-case-study-engaging-older-people-in-creative-thinkingthe](../sources/fxa101-week04-case-study-engaging-older-people-in-creative-thinkingthe.md)
 - [fxa101-week06-lesson-fxa101-week06-page-2-week-6-activities](../sources/fxa101-week06-lesson-fxa101-week06-page-2-week-6-activities.md)
+- [fxa300-week07-a-meta-analysis-of-the-effects-of-transcranial-direct](../sources/fxa300-week07-a-meta-analysis-of-the-effects-of-transcranial-direct.md)
+- [fxa300-week07-imagination-and-creativity-in-science-an-embodied](../sources/fxa300-week07-imagination-and-creativity-in-science-an-embodied.md)
+- [fxa300-week07-web-article-bonk-2003](../sources/fxa300-week07-web-article-bonk-2003.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30](../sources/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30.md)
 - [fxa303-puppet-assisted-play-therapy-ch02-1-we-must-encourage-children-to-use-their-imagination-and](../sources/fxa303-puppet-assisted-play-therapy-ch02-1-we-must-encourage-children-to-use-their-imagination-and.md)

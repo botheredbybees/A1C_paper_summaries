@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-imagination-education
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Creative Imagination Education

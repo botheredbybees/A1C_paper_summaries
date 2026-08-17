@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: standard-care-comparison
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Standard Care Comparison

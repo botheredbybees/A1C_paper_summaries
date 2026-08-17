@@ -7,13 +7,15 @@ doi: https://doi.org/10.1037/a0013688
 appearances:
   - unit: FXA101
     week: "02"
-tags: ["creativity-theories", "four-c-model", "creative-processes", "fxa101", "big-c-creativity", "little-c-creativity", "mini-c-creativity"]
+  - unit: FXA300
+    week: "07"
+tags: ["creativity-theories", "four-c-model", "creative-processes", "fxa101", "big-c-creativity", "little-c-creativity", "mini-c-creativity", "fxa300"]
 key_concepts: ["big-c-creativity", "little-c-creativity", "mini-c-creativity"]
 methods: []
 slug: fxa101-week02-beyond-big-and-little-the-four-c-model-of-creativity
 related: ["big-c-creativity", "creative-processes", "creativity-theories", "little-c-creativity"]
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-08-17
 ---
 
 _All claims sourced from ../raw/pdf/fxa101-week02-beyond-big-and-little-the-four-c-model-of-creativity.md_

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: thinking-inside-tool-box
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Thinking Inside Tool Box

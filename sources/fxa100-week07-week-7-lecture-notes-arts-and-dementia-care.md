@@ -11,7 +11,7 @@ tags: ["arts-in-dementia-care", "reminiscence-therapy", "museum-programs-for-dem
 key_concepts: ["ARTZ program", "Meet Me at MoMA", "Baines' concepts of potential beyond problems"]
 methods: []
 slug: fxa100-week07-week-7-lecture-notes-arts-and-dementia-care
-related: ["arts-in-dementia-care", "reminiscence-therapy"]
+related: ["arts-in-dementia-care", "meet-me-at-moma", "reminiscence-therapy"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -43,4 +43,5 @@ This document contains the lecture notes for Week 7 of the course 'FXA100: The A
 ## See Also
 
 - [arts-in-dementia-care](../topics/arts-in-dementia-care.md)
+- [meet-me-at-moma](../topics/meet-me-at-moma.md)
 - [reminiscence-therapy](../topics/reminiscence-therapy.md)

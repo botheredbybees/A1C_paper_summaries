@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hospital-falls-risk
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Hospital Falls Risk

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: short-term-memory-capacity
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Short Term Memory Capacity

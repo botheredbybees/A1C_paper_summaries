@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: episodic-buffer
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Episodic Buffer

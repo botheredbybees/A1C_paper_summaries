@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: intangible-cultural-heritage
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Intangible Cultural Heritage

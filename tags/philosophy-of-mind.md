@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: philosophy-of-mind
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Philosophy Of Mind
@@ -10,4 +10,5 @@ updated: 2026-08-10
 - [How We Think about Dementia: Personhood, Rights, Ethics, the Arts and What They Mean for Care](../sources/fxa100-how-we-thnk-about-dementia-ch12-chapter-4.md)
 - [The Art and Practice of Memory and Forgetting](../sources/fxa100-how-we-thnk-about-dementia-ch13-chapter-13.md)
 - [Exploring Working Memory: Selected Works of Alan Baddeley](../sources/fxa300-week03-exploring-working-memory-selected-works-of-alan-baddeley.md)
+- [Imagination and Creativity: A Necessary Connection?](../sources/fxa300-week07-imagination-and-creativity-a-necessary-connection.md)
 - [The Imagination of the Mind in Classical Athens](../sources/fxa302-week02-the-imagination-of-the-mind-in-classical-athens.md)

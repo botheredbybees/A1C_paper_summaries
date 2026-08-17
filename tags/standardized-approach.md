@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: standardized-approach
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Standardized Approach

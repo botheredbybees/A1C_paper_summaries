@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: critical-positivity-ratio
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Critical Positivity Ratio

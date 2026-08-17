@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: early-childhood-enrichment
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Early Childhood Enrichment

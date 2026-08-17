@@ -11,7 +11,7 @@ tags: ["inclusive-design", "cultural-heritage", "disability-accessibility", "sen
 key_concepts: ["accessibility", "inclusive practices", "tactile tours", "intellectual disabilities", "dementia engagement"]
 methods: ["program development"]
 slug: fxa100-week07-access-programs-art-gallery-of-new-south-wales
-related: ["cultural-heritage", "dementia-care", "inclusive-design", "lifelong-learning"]
+related: ["cultural-heritage", "dementia-care", "inclusive-design", "lifelong-learning", "sensory-tours"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -50,3 +50,4 @@ The Art Gallery of New South Wales offers a range of access programs designed to
 - [dementia-care](../topics/dementia-care.md)
 - [inclusive-design](../topics/inclusive-design.md)
 - [lifelong-learning](../topics/lifelong-learning.md)
+- [sensory-tours](../topics/sensory-tours.md)

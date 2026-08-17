@@ -7,12 +7,13 @@ sources:
   - fxa100-how-we-thnk-about-dementia-ch12-chapter-4
   - fxa100-how-we-thnk-about-dementia-ch13-chapter-13
   - fxa300-week03-exploring-working-memory-selected-works-of-alan-baddeley
+  - fxa300-week07-imagination-and-creativity-a-necessary-connection
   - fxa302-week02-the-imagination-of-the-mind-in-classical-athens
 tags:
 - philosophy-of-mind
 title: Philosophy of Mind
 type: topic
-updated: 2026-07-21
+updated: 2026-08-17
 ---
 
 ## Philosophy of Mind
@@ -35,4 +36,5 @@ The exploration of the philosophy of mind within the context of dementia care hi
 - [fxa100-how-we-thnk-about-dementia-ch12-chapter-4](../sources/fxa100-how-we-thnk-about-dementia-ch12-chapter-4.md)
 - [fxa100-how-we-thnk-about-dementia-ch13-chapter-13](../sources/fxa100-how-we-thnk-about-dementia-ch13-chapter-13.md)
 - [fxa300-week03-exploring-working-memory-selected-works-of-alan-baddeley](../sources/fxa300-week03-exploring-working-memory-selected-works-of-alan-baddeley.md)
+- [fxa300-week07-imagination-and-creativity-a-necessary-connection](../sources/fxa300-week07-imagination-and-creativity-a-necessary-connection.md)
 - [fxa302-week02-the-imagination-of-the-mind-in-classical-athens](../sources/fxa302-week02-the-imagination-of-the-mind-in-classical-athens.md)

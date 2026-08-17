@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: art-therapy
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Art Therapy
@@ -18,8 +18,10 @@ updated: 2026-08-10
 - [Painting for a Purpose: A Visual Arts Program as a Method to Promote Engagement, Communication, Cognition, and Quality of Life for Individuals With Dementia](../sources/fxa100-week06-painting-for-a-purpose-a-visual-arts-program-as-a-method-to.md)
 - [Art Therapy Has Many Faces](../sources/fxa100-week06-transcript-art-therapy-has-many-faces.md)
 - [Welcome to Week 6 - FXA100 The Arts and Dementia Care](../sources/fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care.md)
+- [Access Programs | Art Gallery of NSW](../sources/fxa100-week07-access-programs-art-gallery-of-nsw.md)
 - [An Art Gallery Access Programme for people with dementia: \u2018You do it for the moment\u2019](../sources/fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia.md)
 - [Artful: Art and Dementia | For visitors with dementia | MCA Australia](../sources/fxa100-week07-artful-art-and-dementia-for-visitors-with-dementia-mca.md)
+- [Artful: Art and Dementia online toolkit](../sources/fxa100-week07-artful-art-and-dementia-online-toolkit.md)
 - [Artful: Art and Dementia Toolkit](../sources/fxa100-week07-artful-art-and-dementia-toolkit.md)
 - [Arts Engagement for People with Dementia: Independent Evaluation of the Art Access Program](../sources/fxa100-week07-arts-engagement-for-people-with-dementia-independent-%282%29.md)
 - [Connecting reminiscence, art making and cultural heritage: A pilot art-for-dementia care programme](../sources/fxa100-week07-connecting-reminiscence-art-making-and-cultural-heritage-a.md)

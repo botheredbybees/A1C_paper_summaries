@@ -17,6 +17,9 @@ sources:
   - fxa300-week01-what-we-know-currently-about-mirror-neurons
   - fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession
   - fxa300-week02-what-is-damasios-efc-framework-and-what-three-stages-of
+  - fxa300-week07-a-meta-analysis-of-the-effects-of-transcranial-direct
+  - fxa300-week07-imagination-and-creativity-in-science-an-embodied
+  - fxa300-week07-lesson-fxa300-week07-page-3-1
   - fxa301-week01-transcript-two-minute-neuroscience-reward-system
   - fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community
   - fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community
@@ -26,7 +29,7 @@ tags:
 - neuroscience
 title: Neuroscience Of Cognitive Disorders And Rhythmic Behavior
 type: topic
-updated: 2026-08-08
+updated: 2026-08-17
 ---
 
 ## Neuroscience Of Cognitive Disorders And Rhythmic Behavior
@@ -59,6 +62,9 @@ The discussion revolves around the understanding of cognitive disorders such as 
 - [fxa300-week01-what-we-know-currently-about-mirror-neurons](../sources/fxa300-week01-what-we-know-currently-about-mirror-neurons.md)
 - [fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession](../sources/fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession.md)
 - [fxa300-week02-what-is-damasios-efc-framework-and-what-three-stages-of](../sources/fxa300-week02-what-is-damasios-efc-framework-and-what-three-stages-of.md)
+- [fxa300-week07-a-meta-analysis-of-the-effects-of-transcranial-direct](../sources/fxa300-week07-a-meta-analysis-of-the-effects-of-transcranial-direct.md)
+- [fxa300-week07-imagination-and-creativity-in-science-an-embodied](../sources/fxa300-week07-imagination-and-creativity-in-science-an-embodied.md)
+- [fxa300-week07-lesson-fxa300-week07-page-3-1](../sources/fxa300-week07-lesson-fxa300-week07-page-3-1.md)
 - [fxa301-week01-transcript-two-minute-neuroscience-reward-system](../sources/fxa301-week01-transcript-two-minute-neuroscience-reward-system.md)
 - [fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community](../sources/fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community.md)
 - [fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community](../sources/fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community.md)

@@ -10,12 +10,15 @@ sources:
   - fxa101-week05-rapid-and-dynamic-processing-of-face-pareidolia-in-the
   - fxa300-week01-neurophysiological-effects-of-trait-empathy-in-music
   - fxa300-week04-auditory-imagery-empirical-findings
+  - fxa300-week07-musical-creativity-and-the-brain
+  - fxa300-week07-your-brain-on-improv
+  - fxa300-week07-your-brain-on-improv-(2)
   - fxa303-week04-lesson-fxa303-week04-page-2-neurodiversity-and-the-brain
 tags:
 - brain-imaging
 title: Brain Imaging Techniques
 type: topic
-updated: 2026-08-07
+updated: 2026-08-17
 ---
 
 ## Brain Imaging Techniques
@@ -41,4 +44,7 @@ The study of brain imaging techniques encompasses both basic and clinical neuros
 - [fxa101-week05-rapid-and-dynamic-processing-of-face-pareidolia-in-the](../sources/fxa101-week05-rapid-and-dynamic-processing-of-face-pareidolia-in-the.md)
 - [fxa300-week01-neurophysiological-effects-of-trait-empathy-in-music](../sources/fxa300-week01-neurophysiological-effects-of-trait-empathy-in-music.md)
 - [fxa300-week04-auditory-imagery-empirical-findings](../sources/fxa300-week04-auditory-imagery-empirical-findings.md)
+- [fxa300-week07-musical-creativity-and-the-brain](../sources/fxa300-week07-musical-creativity-and-the-brain.md)
+- [fxa300-week07-your-brain-on-improv](../sources/fxa300-week07-your-brain-on-improv.md)
+- [fxa300-week07-your-brain-on-improv-(2)](../sources/fxa300-week07-your-brain-on-improv-%282%29.md)
 - [fxa303-week04-lesson-fxa303-week04-page-2-neurodiversity-and-the-brain](../sources/fxa303-week04-lesson-fxa303-week04-page-2-neurodiversity-and-the-brain.md)

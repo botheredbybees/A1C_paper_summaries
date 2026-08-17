@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mortality-risk-factors
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Mortality Risk Factors

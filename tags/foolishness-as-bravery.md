@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: foolishness-as-bravery
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Foolishness As Bravery

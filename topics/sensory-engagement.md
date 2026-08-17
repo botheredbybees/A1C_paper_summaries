@@ -3,12 +3,14 @@ confidence: low
 domain: intervention
 slug: sensory-engagement
 sources:
-- fxa202-week09-noticing-a-photo-essay
+  - fxa100-week07-creating-resources-national-museums-liverpool
+  - fxa100-week13-sensory-mediated-arts-on-prescription-emotional-arousal
+  - fxa202-week09-noticing-a-photo-essay
 tags:
 - sensory-engagement
 title: Sensory Engagement
 type: topic
-updated: 2026-05-04
+updated: 2026-08-17
 ---
 
 ## Sensory Engagement
@@ -27,4 +29,6 @@ The concept of sensory engagement is explored through the lens of therapeutic in
 
 ## Sources
 
+- [fxa100-week07-creating-resources-national-museums-liverpool](../sources/fxa100-week07-creating-resources-national-museums-liverpool.md)
+- [fxa100-week13-sensory-mediated-arts-on-prescription-emotional-arousal](../sources/fxa100-week13-sensory-mediated-arts-on-prescription-emotional-arousal.md)
 - [fxa202-week09-noticing-a-photo-essay](../sources/fxa202-week09-noticing-a-photo-essay.md)

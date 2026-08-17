@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-in-health
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Arts In Health
@@ -10,6 +10,7 @@ updated: 2026-08-10
 - [Conceptualizing and Planning Interventions](../sources/fxa100-week04-conceptualizing-and-planning-interventions.md)
 - [Implementing and Evaluating Interventions](../sources/fxa100-week04-implementing-and-evaluating-interventions.md)
 - [Research ethics in arts in health interventions](../sources/fxa100-week04-research-ethics-in-arts-in-health-interventions.md)
+- [Week 7 Lecture - Dr Brendan Lamb](../sources/fxa100-week07-week-7-lecture-dr-brendan-lamb.md)
 - [Elderflowers Arts-in-Health Program Transcript](../sources/fxa100-week10-transcript-the-elderflowers-arts-in-health-program-uses.md)
 - [Defining Arts in Health](../sources/fxa301-arts-in-health-ch19-36-abc-national-cultural-policy-submission.md)
 - [Does a Model Exist? Arts in Health Activity](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment-%282%29.md)

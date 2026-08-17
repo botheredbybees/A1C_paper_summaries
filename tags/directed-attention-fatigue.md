@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: directed-attention-fatigue
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Directed Attention Fatigue

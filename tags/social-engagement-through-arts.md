@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-engagement-through-arts
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Social Engagement Through Arts

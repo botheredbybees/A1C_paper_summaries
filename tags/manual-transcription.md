@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: manual-transcription
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Manual Transcription

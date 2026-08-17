@@ -7,13 +7,15 @@ doi: https://doi.org/10.4324/9781003460244-10
 appearances:
   - unit: FXA300
     week: "04"
+  - unit: FXA300
+    week: "07"
 tags: ["music-cognition", "gestalt-laws", "cognitive-psychology", "fxa300", "gestalt-laws-of-cognitive-organization", "musical-perception"]
 key_concepts: ["Gestalt laws of cognitive organization", "musical perception"]
 methods: ["literature review"]
 slug: fxa300-week04-music-cognition
 related: ["cognitive-psychology", "music-cognition", "musical-perception"]
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-17
 ---
 
 _All claims sourced from ../raw/pdf/fxa300-week04-music-cognition.md_

@@ -10,7 +10,7 @@ tags: ["haiku", "collective-creativity", "ethnography", "fxa101", "collaborative
 key_concepts: ["collaborative creativity", "democratic scoring system"]
 methods: ["participant observation", "interviews"]
 slug: fxa101-week00-trying-haiku-poetry-collective-creativity-in-a-haiku
-related: ["collective-creativity", "ethnography"]
+related: ["collaborative-creativity", "collective-creativity", "ethnography"]
 created: 2026-08-08
 updated: 2026-08-08
 ---
@@ -41,5 +41,6 @@ This ethnographic study by Susan Paige Taylor examines the social practice of ha
 
 ## See Also
 
+- [collaborative-creativity](../topics/collaborative-creativity.md)
 - [collective-creativity](../topics/collective-creativity.md)
 - [ethnography](../topics/ethnography.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: community-engagement
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Community Engagement
@@ -11,6 +11,7 @@ updated: 2026-08-10
 - [Week 4 Activities - FXA100 The Arts and Dementia Care](../sources/fxa100-week04-week-4-activities-fxa100-the-arts-and-dementia-care.md)
 - [Is a Visual Arts Programme Beneficial for the Quality of Life of People Living with Dementia?](../sources/fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of.md)
 - [Art and Dementia](../sources/fxa100-week07-art-and-dementia.md)
+- [Art and Dementia | Art Gallery of NSW](../sources/fxa100-week07-art-and-dementia-art-gallery-of-nsw.md)
 - [Arts Engagement for People with Dementia: Independent Evaluation of the Art Access Program](../sources/fxa100-week07-arts-engagement-for-people-with-dementia-independent-%282%29.md)
 - [House of Memories](../sources/fxa100-week07-house-of-memories.md)
 - [Arts in Dementia Care: This is not the end... if it's the end of this chapter](../sources/fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of.md)

@@ -11,7 +11,7 @@ tags: ["fxa303", "lgbtqia", "lgbtqia-support", "musical-expression", "youth-choi
 key_concepts: ["LGBTQIA+", "creative-expression"]
 methods: []
 slug: fxa303-week11-about-shout-youth-chorus
-related: []
+related: ["musical-expression"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -39,4 +39,4 @@ shOUT is the first LGBTQIA+ youth choir in Australasia, established in 2005 as a
 
 ## See Also
 
-*(none yet)*
+- [musical-expression](../topics/musical-expression.md)

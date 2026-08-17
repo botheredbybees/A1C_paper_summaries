@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-imaging-studies
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Brain Imaging Studies

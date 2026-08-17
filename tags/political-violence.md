@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: political-violence
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Political Violence

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: executive-control-network
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Executive Control Network

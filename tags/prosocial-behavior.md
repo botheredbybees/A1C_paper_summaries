@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: prosocial-behavior
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Prosocial Behavior

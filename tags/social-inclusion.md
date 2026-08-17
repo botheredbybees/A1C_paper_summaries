@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-inclusion
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Social Inclusion
@@ -11,6 +11,7 @@ updated: 2026-08-10
 - ['Singing for the Brain': A Qualitative Study Exploring the Health and Well-being Benefits of Singing for People with Dementia and Their Carers](../sources/fxa100-week04-singing-for-the-brain-a-qualitative-study-exploring-the.md)
 - [Art and Dementia](../sources/fxa100-week07-art-and-dementia.md)
 - [Art and Dementia | Art Gallery of New South Wales](../sources/fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales.md)
+- [Art and Dementia | Art Gallery of NSW](../sources/fxa100-week07-art-and-dementia-art-gallery-of-nsw.md)
 - [Arts Engagement for People with Dementia: Independent Evaluation of the Art Access Program, Art Gallery Of New South Wales](../sources/fxa100-week07-arts-engagement-for-people-with-dementia-independent.md)
 - [Arts Engagement for People with Dementia: Independent Evaluation of the Art Access Program](../sources/fxa100-week07-arts-engagement-for-people-with-dementia-independent-%282%29.md)
 - [Viewing and making art together: a multi-session art-gallery-based intervention for people with dementia and their carers](../sources/fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery.md)

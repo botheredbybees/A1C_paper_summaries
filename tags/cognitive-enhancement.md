@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-enhancement
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Cognitive Enhancement
@@ -18,4 +18,6 @@ updated: 2026-08-10
 - [Intergenerational music-making: a vehicle for active ageing for children and older people](../sources/fxa101-week04-intergenerational-music-making-a-vehicle-for-active-ageing.md)
 - [A \u2018Music, Mind and Movement\u2019 Program for People With Dementia: Initial Evidence of Improved Cognition](../sources/fxa300-week03-a-music-mind-and-movement-program-for-people-with-dementia.md)
 - [Effects of Acoustically Screened Five-Element Music Combined with Traditional Chinese Mind\u2013Body Exercises on Emotion Regulation, Working Memory, and Functional Brain Connectivity in Older Adults: A Randomized Repeated-Measures Study](../sources/fxa300-week03-effects-of-acoustically-screened-five-element-music.md)
+- [A Meta-Analysis of the Effects of Transcranial Direct Current Stimulation on Creative Thinking](../sources/fxa300-week07-a-meta-analysis-of-the-effects-of-transcranial-direct.md)
+- [Happy creativity: Listening to happy music facilitates divergent thinking](../sources/fxa300-week07-happy-creativity-listening-to-happy-music-facilitates.md)
 - [Feasibility and Preliminary Effects of Ballet-Based Group Dance Intervention in Relapsing\u2013Remitting Multiple Sclerosis: A Pilot Study](../sources/fxa301-week06-feasibility-and-preliminary-effects-of-ballet-based-group.md)

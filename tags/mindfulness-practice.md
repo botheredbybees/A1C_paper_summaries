@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mindfulness-practice
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Mindfulness Practice
@@ -23,5 +23,6 @@ updated: 2026-08-10
 - [An Adapted, Four-Week Mind\u2013Body Skills Group for Medical Students: Reducing Stress, Increasing Mindfulness, and Enhancing Self-Care](../sources/psy214-week07-an-adapted-four-week-mindbody-skills-group-for-medical.md)
 - [Gaining in a Landscape of Loss: The Experience of Learning and Using Mindfulness Whilst Caring at the End of Life](../sources/psy214-week07-gaining-in-a-landscape-of-loss-the-experience-of-learning.md)
 - [Impact of a mindfulness and self-care intervention on stress, self-compassion, and attentiveness in university healthcare students and faculty](../sources/psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on.md)
+- [Informal/everyday mindfulness](../sources/psy214-week07-lesson-psy214-week07-everyday-mindfulness.md)
 - [Mindful Strategies for Helping College Students Manage Stress](../sources/psy214-week07-mindful-strategies-for-helping-college-students-manage.md)
 - [Self-Care Skills to Prevent Burnout: A Pilot Study Embedding Mindfulness in an Undergraduate Nursing Course](../sources/psy214-week07-self-care-skills-to-prevent-burnout-a-pilot-study-embedding.md)

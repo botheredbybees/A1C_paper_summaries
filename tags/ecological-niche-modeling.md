@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ecological-niche-modeling
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Ecological Niche Modeling

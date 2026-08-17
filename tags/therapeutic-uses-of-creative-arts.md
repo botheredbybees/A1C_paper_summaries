@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-uses-of-creative-arts
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Therapeutic Uses Of Creative Arts

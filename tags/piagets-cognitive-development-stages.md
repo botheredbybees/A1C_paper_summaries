@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: piagets-cognitive-development-stages
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Piagets Cognitive Development Stages

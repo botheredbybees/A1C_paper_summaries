@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: multilevel-regression-analysis
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Multilevel Regression Analysis

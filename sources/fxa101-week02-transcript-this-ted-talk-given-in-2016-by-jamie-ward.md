@@ -11,7 +11,7 @@ tags: ["synaesthesia", "cognitive-neuroscience", "sensory-perception", "fxa101",
 key_concepts: ["cross-modal-synthesis", "genetic-predisposition", "brain-architecture"]
 methods: []
 slug: fxa101-week02-transcript-this-ted-talk-given-in-2016-by-jamie-ward
-related: ["brain-architecture", "cognitive-neuroscience", "sensory-perception", "synaesthesia"]
+related: ["brain-architecture", "cognitive-neuroscience", "genetic-predisposition", "sensory-perception", "synaesthesia"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -44,5 +44,6 @@ The transcript discusses a TED Talk by Jamie Ward, Professor of Cognitive Neuros
 
 - [brain-architecture](../topics/brain-architecture.md)
 - [cognitive-neuroscience](../topics/cognitive-neuroscience.md)
+- [genetic-predisposition](../topics/genetic-predisposition.md)
 - [sensory-perception](../topics/sensory-perception.md)
 - [synaesthesia](../topics/synaesthesia.md)

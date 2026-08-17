@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: copyright-issues
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Copyright Issues

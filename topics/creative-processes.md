@@ -6,12 +6,14 @@ sources:
   - fxa100-week06-dementia-and-art-neuronal-intermediate-filament-inclusion
   - fxa101-week02-beyond-big-and-little-the-four-c-model-of-creativity
   - fxa202-week08-the-journal-and-visual-research
+  - fxa300-week07-big-c-little-c-creativity-as-a-false-dichotomy-reality-is
+  - fxa300-week07-emergence-and-realization-of-genius-the-lives-and-works-of
   - fxa302-week05-the-genesis-of-a-tune-in-the-mind-an-interview-study-about
 tags:
 - creative-processes
 title: Creative Processes in Dementia
 type: topic
-updated: 2026-08-03
+updated: 2026-08-17
 ---
 
 ## Creative Processes in Dementia
@@ -33,4 +35,6 @@ The exploration of the relationship between dementia and artistic creativity hig
 - [fxa100-week06-dementia-and-art-neuronal-intermediate-filament-inclusion](../sources/fxa100-week06-dementia-and-art-neuronal-intermediate-filament-inclusion.md)
 - [fxa101-week02-beyond-big-and-little-the-four-c-model-of-creativity](../sources/fxa101-week02-beyond-big-and-little-the-four-c-model-of-creativity.md)
 - [fxa202-week08-the-journal-and-visual-research](../sources/fxa202-week08-the-journal-and-visual-research.md)
+- [fxa300-week07-big-c-little-c-creativity-as-a-false-dichotomy-reality-is](../sources/fxa300-week07-big-c-little-c-creativity-as-a-false-dichotomy-reality-is.md)
+- [fxa300-week07-emergence-and-realization-of-genius-the-lives-and-works-of](../sources/fxa300-week07-emergence-and-realization-of-genius-the-lives-and-works-of.md)
 - [fxa302-week05-the-genesis-of-a-tune-in-the-mind-an-interview-study-about](../sources/fxa302-week05-the-genesis-of-a-tune-in-the-mind-an-interview-study-about.md)

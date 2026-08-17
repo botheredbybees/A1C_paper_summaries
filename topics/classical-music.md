@@ -7,7 +7,10 @@ tags: ["classical-music"]
 sources:
   - fxa100-week02-transcript-beethoven-symphony-no-9-fourth-movement-url-only
   - fxa300-week03-probe-tone-paradigm-reveals-less-differentiated-tonal
-updated: 2026-07-21
+  - fxa300-week07-class-notes-freeing-music-improvisation
+  - fxa300-week07-happy-creativity-listening-to-happy-music-facilitates
+  - fxa300-week07-leonard-bernstein-discusses-beethovens-1st-symphony
+updated: 2026-08-17
 ---
 
 ## Classical Music and Tonal Hierarchy
@@ -31,3 +34,6 @@ The sources collectively highlight a tension between the established norms of cl
 
 - [fxa100-week02-transcript-beethoven-symphony-no-9-fourth-movement-url-only](../sources/fxa100-week02-transcript-beethoven-symphony-no-9-fourth-movement-url-only.md)
 - [fxa300-week03-probe-tone-paradigm-reveals-less-differentiated-tonal](../sources/fxa300-week03-probe-tone-paradigm-reveals-less-differentiated-tonal.md)
+- [fxa300-week07-class-notes-freeing-music-improvisation](../sources/fxa300-week07-class-notes-freeing-music-improvisation.md)
+- [fxa300-week07-happy-creativity-listening-to-happy-music-facilitates](../sources/fxa300-week07-happy-creativity-listening-to-happy-music-facilitates.md)
+- [fxa300-week07-leonard-bernstein-discusses-beethovens-1st-symphony](../sources/fxa300-week07-leonard-bernstein-discusses-beethovens-1st-symphony.md)

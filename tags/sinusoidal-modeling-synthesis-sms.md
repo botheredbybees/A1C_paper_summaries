@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sinusoidal-modeling-synthesis-sms
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Sinusoidal Modeling Synthesis Sms

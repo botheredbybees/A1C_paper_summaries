@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: construct-oriented-approach
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Construct Oriented Approach

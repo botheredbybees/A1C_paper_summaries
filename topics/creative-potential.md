@@ -3,12 +3,14 @@ confidence: low
 domain: intervention
 slug: creative-potential-in-dementia-care
 sources:
-- fxa100-week06-how-creating-sculpture-benefits-people-with-dementia
+  - fxa100-week06-how-creating-sculpture-benefits-people-with-dementia
+  - fxa300-week07-big-c-little-c-creativity-as-a-false-dichotomy-reality-is
+  - fxa300-week07-its-never-too-late-to-be-a-late-bloomer
 tags:
 - creative-potential
 title: Creative Potential in Dementia Care
 type: topic
-updated: 2026-05-04
+updated: 2026-08-17
 ---
 
 ## Creative Potential in Dementia Care
@@ -28,3 +30,5 @@ The exploration of creative interventions for dementia care highlights the impor
 ## Sources
 
 - [fxa100-week06-how-creating-sculpture-benefits-people-with-dementia](../sources/fxa100-week06-how-creating-sculpture-benefits-people-with-dementia.md)
+- [fxa300-week07-big-c-little-c-creativity-as-a-false-dichotomy-reality-is](../sources/fxa300-week07-big-c-little-c-creativity-as-a-false-dichotomy-reality-is.md)
+- [fxa300-week07-its-never-too-late-to-be-a-late-bloomer](../sources/fxa300-week07-its-never-too-late-to-be-a-late-bloomer.md)

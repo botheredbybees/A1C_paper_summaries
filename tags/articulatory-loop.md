@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: articulatory-loop
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Articulatory Loop

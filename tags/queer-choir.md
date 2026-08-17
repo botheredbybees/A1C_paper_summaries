@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: queer-choir
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Queer Choir

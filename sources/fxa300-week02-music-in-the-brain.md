@@ -7,13 +7,15 @@ doi: https://doi.org/10.1038/s41583-022-00578-5
 appearances:
   - unit: FXA300
     week: "02"
+  - unit: FXA300
+    week: "07"
 tags: ["music-perception", "brain-mechanisms", "predictive-coding", "fxa300", "predictive-coding-of-music-pcm-model", "auditory-networks"]
 key_concepts: ["Predictive Coding of Music (PCM) model", "auditory networks"]
 methods: ["systematic review"]
 slug: fxa300-week02-music-in-the-brain
 related: ["brain-mechanisms", "music-perception"]
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-08-17
 ---
 
 _All claims sourced from ../raw/pdf/fxa300-week02-music-in-the-brain.md_

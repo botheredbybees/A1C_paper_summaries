@@ -8,6 +8,7 @@ sources:
   - fxa100-week04-week-4-activities-fxa100-the-arts-and-dementia-care
   - fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of
   - fxa100-week07-art-and-dementia
+  - fxa100-week07-art-and-dementia-art-gallery-of-nsw
   - fxa100-week07-arts-engagement-for-people-with-dementia-independent-(2)
   - fxa100-week07-house-of-memories
   - fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of
@@ -93,7 +94,7 @@ tags:
 - community-engagement
 title: Community Engagement
 type: topic
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Community Engagement
@@ -117,6 +118,7 @@ Community engagement is a multifaceted intervention aimed at fostering participa
 - [fxa100-week04-week-4-activities-fxa100-the-arts-and-dementia-care](../sources/fxa100-week04-week-4-activities-fxa100-the-arts-and-dementia-care.md)
 - [fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of](../sources/fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of.md)
 - [fxa100-week07-art-and-dementia](../sources/fxa100-week07-art-and-dementia.md)
+- [fxa100-week07-art-and-dementia-art-gallery-of-nsw](../sources/fxa100-week07-art-and-dementia-art-gallery-of-nsw.md)
 - [fxa100-week07-arts-engagement-for-people-with-dementia-independent-(2)](../sources/fxa100-week07-arts-engagement-for-people-with-dementia-independent-%282%29.md)
 - [fxa100-week07-house-of-memories](../sources/fxa100-week07-house-of-memories.md)
 - [fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of](../sources/fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of.md)

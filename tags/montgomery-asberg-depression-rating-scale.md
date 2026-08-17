@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: montgomery-asberg-depression-rating-scale
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Montgomery Asberg Depression Rating Scale

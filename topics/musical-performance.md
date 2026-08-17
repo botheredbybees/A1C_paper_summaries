@@ -6,8 +6,9 @@ confidence: medium
 tags: ["musical-performance"]
 sources:
   - fxa300-week03-auditorymotor-learning-influences-auditory-memory-for-music
+  - fxa300-week07-connecting-to-create-expertise-in-musical-improvisation-is
   - fxa302-week05-lesson-fxa302-week05-page-3
-updated: 2026-08-03
+updated: 2026-08-17
 ---
 
 ## Musical Performance
@@ -27,4 +28,5 @@ The study of musical performance integrates the understanding of how auditory-mo
 ## Sources
 
 - [fxa300-week03-auditorymotor-learning-influences-auditory-memory-for-music](../sources/fxa300-week03-auditorymotor-learning-influences-auditory-memory-for-music.md)
+- [fxa300-week07-connecting-to-create-expertise-in-musical-improvisation-is](../sources/fxa300-week07-connecting-to-create-expertise-in-musical-improvisation-is.md)
 - [fxa302-week05-lesson-fxa302-week05-page-3](../sources/fxa302-week05-lesson-fxa302-week05-page-3.md)

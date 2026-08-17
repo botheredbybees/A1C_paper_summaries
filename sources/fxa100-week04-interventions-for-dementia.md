@@ -11,7 +11,7 @@ tags: ["dementia-care", "pharmacological-interventions", "non-pharmacological-th
 key_concepts: ["Acetylcholine Inhibitors", "Cognitive Stimulation Therapy", "Reminiscence Therapy"]
 methods: ["systematic review"]
 slug: fxa100-week04-interventions-for-dementia
-related: ["dementia-care", "pharmacological-interventions", "quality-of-life"]
+related: ["dementia-care", "non-pharmacological-therapies", "pharmacological-interventions", "quality-of-life"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -43,5 +43,6 @@ This document outlines pharmacological and non-pharmacological interventions use
 ## See Also
 
 - [dementia-care](../topics/dementia-care.md)
+- [non-pharmacological-therapies](../topics/non-pharmacological-therapies.md)
 - [pharmacological-interventions](../topics/pharmacological-interventions.md)
 - [quality-of-life](../topics/quality-of-life.md)

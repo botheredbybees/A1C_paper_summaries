@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: fully-functioning-person
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Fully Functioning Person

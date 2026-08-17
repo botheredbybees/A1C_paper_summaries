@@ -20,13 +20,14 @@ sources:
   - psy214-week07-an-adapted-four-week-mindbody-skills-group-for-medical
   - psy214-week07-gaining-in-a-landscape-of-loss-the-experience-of-learning
   - psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on
+  - psy214-week07-lesson-psy214-week07-everyday-mindfulness
   - psy214-week07-mindful-strategies-for-helping-college-students-manage
   - psy214-week07-self-care-skills-to-prevent-burnout-a-pilot-study-embedding
 tags:
 - mindfulness-practice
 title: Mindfulness Practice Through Photography
 type: topic
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Mindfulness Practice Through Photography
@@ -62,5 +63,6 @@ The integration of mindfulness practices with the act of photography reveals a u
 - [psy214-week07-an-adapted-four-week-mindbody-skills-group-for-medical](../sources/psy214-week07-an-adapted-four-week-mindbody-skills-group-for-medical.md)
 - [psy214-week07-gaining-in-a-landscape-of-loss-the-experience-of-learning](../sources/psy214-week07-gaining-in-a-landscape-of-loss-the-experience-of-learning.md)
 - [psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on](../sources/psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on.md)
+- [psy214-week07-lesson-psy214-week07-everyday-mindfulness](../sources/psy214-week07-lesson-psy214-week07-everyday-mindfulness.md)
 - [psy214-week07-mindful-strategies-for-helping-college-students-manage](../sources/psy214-week07-mindful-strategies-for-helping-college-students-manage.md)
 - [psy214-week07-self-care-skills-to-prevent-burnout-a-pilot-study-embedding](../sources/psy214-week07-self-care-skills-to-prevent-burnout-a-pilot-study-embedding.md)

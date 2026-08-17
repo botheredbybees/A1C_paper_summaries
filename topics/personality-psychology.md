@@ -7,9 +7,10 @@ tags: ["personality-psychology"]
 sources:
   - fxa300-week05-the-structure-of-musical-preferences-a-five-factor-model
   - fxa300-week05-toward-a-better-understanding-of-the-relation-between-music
+  - fxa300-week07-emergence-and-realization-of-genius-the-lives-and-works-of
   - fxa301-week02-personality-correlates-of-aesthetic-preferences-for-art
   - fxa301-week10-motivation-and-academic-achievement-the-effects-of
-updated: 2026-08-07
+updated: 2026-08-17
 ---
 
 ## Personality Correlates of Musical and Artistic Preferences
@@ -30,5 +31,6 @@ The sources collectively explore the relationship between personality traits and
 
 - [fxa300-week05-the-structure-of-musical-preferences-a-five-factor-model](../sources/fxa300-week05-the-structure-of-musical-preferences-a-five-factor-model.md)
 - [fxa300-week05-toward-a-better-understanding-of-the-relation-between-music](../sources/fxa300-week05-toward-a-better-understanding-of-the-relation-between-music.md)
+- [fxa300-week07-emergence-and-realization-of-genius-the-lives-and-works-of](../sources/fxa300-week07-emergence-and-realization-of-genius-the-lives-and-works-of.md)
 - [fxa301-week02-personality-correlates-of-aesthetic-preferences-for-art](../sources/fxa301-week02-personality-correlates-of-aesthetic-preferences-for-art.md)
 - [fxa301-week10-motivation-and-academic-achievement-the-effects-of](../sources/fxa301-week10-motivation-and-academic-achievement-the-effects-of.md)

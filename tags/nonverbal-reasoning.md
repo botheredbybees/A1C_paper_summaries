@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: nonverbal-reasoning
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Nonverbal Reasoning

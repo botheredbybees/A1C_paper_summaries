@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: clinical-skills-development
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Clinical Skills Development

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: nonlinear-classification-methods
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Nonlinear Classification Methods

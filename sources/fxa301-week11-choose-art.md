@@ -11,7 +11,7 @@ tags: ["accessibility-in-arts", "arts-education", "community-engagement", "creat
 key_concepts: ["inclusivity", "accessibility in arts", "skills development", "social interaction"]
 methods: ["case study"]
 slug: fxa301-week11-choose-art
-related: ["accessibility-in-arts", "arts-education", "community-engagement", "creative-expression", "inclusivity", "skills-development"]
+related: ["accessibility-in-arts", "arts-education", "community-engagement", "creative-expression", "cultural-accessibility", "inclusivity", "skills-development"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -46,5 +46,6 @@ Choose Art is an online platform designed to promote arts and cultural activitie
 - [arts-education](../topics/arts-education.md)
 - [community-engagement](../topics/community-engagement.md)
 - [creative-expression](../topics/creative-expression.md)
+- [cultural-accessibility](../topics/cultural-accessibility.md)
 - [inclusivity](../topics/inclusivity.md)
 - [skills-development](../topics/skills-development.md)

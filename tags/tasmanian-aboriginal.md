@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: tasmanian-aboriginal
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Tasmanian Aboriginal

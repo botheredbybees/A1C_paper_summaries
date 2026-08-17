@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: nature-exposed-activities
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Nature Exposed Activities

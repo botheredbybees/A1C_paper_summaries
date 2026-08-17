@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: nonprofit-development
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Nonprofit Development

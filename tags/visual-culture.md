@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-culture
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Visual Culture

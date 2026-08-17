@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-art-as-tool-for-change
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Visual Art As Tool For Change

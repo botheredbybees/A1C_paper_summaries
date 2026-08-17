@@ -11,7 +11,7 @@ tags: ["fxa301", "inclusive-design", "inclusivity-in-museums", "interactive-art"
 key_concepts: ["accessibility", "inclusivity in museums", "sensory exploration"]
 methods: ["case study"]
 slug: fxa301-week11-louvre-abu-dhabi-tactile-studio-inclusive-design-agency
-related: ["inclusive-design", "museum-accessibility"]
+related: ["inclusive-design", "museum-accessibility", "sensory-exploration", "visual-impairment-support"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -44,3 +44,5 @@ The document details the Louvre Abu Dhabi's initiative to enhance accessibility 
 
 - [inclusive-design](../topics/inclusive-design.md)
 - [museum-accessibility](../topics/museum-accessibility.md)
+- [sensory-exploration](../topics/sensory-exploration.md)
+- [visual-impairment-support](../topics/visual-impairment-support.md)

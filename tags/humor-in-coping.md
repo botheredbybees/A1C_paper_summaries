@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: humor-in-coping
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Humor In Coping

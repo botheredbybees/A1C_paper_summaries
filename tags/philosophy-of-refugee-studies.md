@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: philosophy-of-refugee-studies
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Philosophy Of Refugee Studies

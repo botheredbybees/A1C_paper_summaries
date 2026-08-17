@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: legal-system-intersection
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Legal System Intersection

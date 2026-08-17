@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-therapies-for-eating-disorders
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Arts Therapies For Eating Disorders

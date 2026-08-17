@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: inner-hearing
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Inner Hearing

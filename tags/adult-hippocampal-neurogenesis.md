@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: adult-hippocampal-neurogenesis
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Adult Hippocampal Neurogenesis

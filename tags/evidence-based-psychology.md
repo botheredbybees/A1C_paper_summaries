@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: evidence-based-psychology
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Evidence Based Psychology

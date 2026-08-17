@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sustainability-practices
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Sustainability Practices

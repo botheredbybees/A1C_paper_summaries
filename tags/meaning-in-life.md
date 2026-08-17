@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: meaning-in-life
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Meaning In Life

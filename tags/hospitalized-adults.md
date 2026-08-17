@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hospitalized-adults
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Hospitalized Adults

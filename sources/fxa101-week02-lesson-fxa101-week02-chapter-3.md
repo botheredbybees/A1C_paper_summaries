@@ -11,7 +11,7 @@ tags: ["creativity", "neural-basis-of-creativity", "synesthesia", "fxa101", "con
 key_concepts: ["divergent thinking", "convergent thinking", "memory involvement in creativity", "neuroplasticity"]
 methods: []
 slug: fxa101-week02-lesson-fxa101-week02-chapter-3
-related: ["convergent-thinking", "creativity", "synesthesia"]
+related: ["convergent-thinking", "creativity", "neural-basis-of-creativity", "synesthesia"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -44,4 +44,5 @@ This lesson explores the concept of creativity and its neural basis. It discusse
 
 - [convergent-thinking](../topics/convergent-thinking.md)
 - [creativity](../topics/creativity.md)
+- [neural-basis-of-creativity](../topics/neural-basis-of-creativity.md)
 - [synesthesia](../topics/synesthesia.md)

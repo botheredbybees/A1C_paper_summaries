@@ -6,8 +6,11 @@ confidence: medium
 tags: ["musical-creativity"]
 sources:
   - fxa300-week06-fxa300-week-6-lecture-research-methods-in-music-mind-and
+  - fxa300-week07-lesson-fxa300-week07-welcome-to-week-7-1
+  - fxa300-week07-musical-creativity-and-the-brain
+  - fxa300-week07-the-neuroscience-of-musical-improvisation
   - fxa302-week05-music-and-disability-(2)
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Musical Creativity
@@ -27,4 +30,7 @@ The exploration of musical creativity encompasses a range of methodologies and p
 ## Sources
 
 - [fxa300-week06-fxa300-week-6-lecture-research-methods-in-music-mind-and](../sources/fxa300-week06-fxa300-week-6-lecture-research-methods-in-music-mind-and.md)
+- [fxa300-week07-lesson-fxa300-week07-welcome-to-week-7-1](../sources/fxa300-week07-lesson-fxa300-week07-welcome-to-week-7-1.md)
+- [fxa300-week07-musical-creativity-and-the-brain](../sources/fxa300-week07-musical-creativity-and-the-brain.md)
+- [fxa300-week07-the-neuroscience-of-musical-improvisation](../sources/fxa300-week07-the-neuroscience-of-musical-improvisation.md)
 - [fxa302-week05-music-and-disability-(2)](../sources/fxa302-week05-music-and-disability-%282%29.md)

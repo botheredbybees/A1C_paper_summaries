@@ -6,11 +6,12 @@ sources:
   - fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what
   - fxa100-week06-visual-arts-and-the-brain
   - fxa100-week13-hearing-what-the-body-feels-auditory-encoding-of-rhythmic
+  - fxa300-week07-imagination-and-creativity-in-science-an-embodied
 tags:
 - embodied-cognition
 title: Embodied Cognition
 type: topic
-updated: 2026-05-15
+updated: 2026-08-17
 ---
 
 ## Embodied Cognition
@@ -32,3 +33,4 @@ The concept of embodied cognition highlights the interplay between bodily experi
 - [fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what](../sources/fxa100-week06-transcript-christopher-tyler-the-arts-and-the-brain-what.md)
 - [fxa100-week06-visual-arts-and-the-brain](../sources/fxa100-week06-visual-arts-and-the-brain.md)
 - [fxa100-week13-hearing-what-the-body-feels-auditory-encoding-of-rhythmic](../sources/fxa100-week13-hearing-what-the-body-feels-auditory-encoding-of-rhythmic.md)
+- [fxa300-week07-imagination-and-creativity-in-science-an-embodied](../sources/fxa300-week07-imagination-and-creativity-in-science-an-embodied.md)

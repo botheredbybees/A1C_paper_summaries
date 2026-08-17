@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cross-modal-cognition
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Cross Modal Cognition

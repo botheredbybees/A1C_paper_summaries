@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-arts
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Visual Arts
@@ -11,6 +11,7 @@ updated: 2026-08-10
 - [Welcome to Week 6 - FXA100 The Arts and Dementia Care](../sources/fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care.md)
 - [Art and Place: Crossing Borders in the Work of Perejaume](../sources/fxa101-week00-art-and-place-crossing-borders-in-the-work-of-perejaume.md)
 - [The Role of Arts in Childhood and Adolescence](../sources/fxa101-week03-lesson-fxa101-week03-page-3-the-role-of-the-arts-in.md)
+- [Color Harmony](../sources/fxa101-week07-color-harmony.md)
 - [Engaging with Visual Arts: Community-Based Projects](../sources/fxa301-week05-lesson-fxa301-week05-page-1.md)
 - [The Art of Observation: A Pedagogical Framework](../sources/fxa302-week03-the-art-of-observation-a-pedagogical-framework.md)
 - [Visual Loss and Painting: Monet, Bramblitt, Arma\u011fan](../sources/fxa302-week06-lesson-fxa302-week06-page-3.md)

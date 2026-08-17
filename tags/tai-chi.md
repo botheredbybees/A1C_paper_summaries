@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: tai-chi
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Tai Chi

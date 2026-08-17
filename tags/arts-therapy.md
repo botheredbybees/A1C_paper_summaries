@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-therapy
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Arts Therapy
@@ -12,6 +12,7 @@ updated: 2026-08-10
 - [here:now \u2013 Conceptual model of the impact of an experiential arts program on persons with dementia and their care partners](../sources/fxa100-week06-herenow-conceptual-model-of-the-impact-of-an-experiential.md)
 - [Is a Visual Arts Programme Beneficial for the Quality of Life of People Living with Dementia?](../sources/fxa100-week06-is-a-visual-arts-programme-beneficial-for-the-quality-of.md)
 - [Art and Dementia | Art Gallery of New South Wales](../sources/fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales.md)
+- [Art and Dementia | Art Gallery of NSW](../sources/fxa100-week07-art-and-dementia-art-gallery-of-nsw.md)
 - [The Role of Reminiscence in Arts-Based Interventions for Dementia Care: A Scoping Review](../sources/fxa100-week07-the-role-of-reminiscence-in-arts-based-interventions-for.md)
 - [Week 8 Lecture on Arts Therapy and Dementia Care](../sources/fxa100-week08-week-8-lecture-on-arts-therapy-and-dementia-care.md)
 - [Systematic review of arts and culture-based interventions for people living with dementia and their caregivers](../sources/fxa100-week13-systematic-review-of-arts-and-culture-based-interventions.md)

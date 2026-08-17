@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hospitalization-support
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Hospitalization Support

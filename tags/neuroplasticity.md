@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuroplasticity
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Neuroplasticity
@@ -11,6 +11,7 @@ updated: 2026-08-10
 - [Artists in the House Program: Expressing Yourself in Aged Care](../sources/fxa100-week02-transcript-duration-949.md)
 - [How Music Helps to Heal the Injured Brain](../sources/fxa100-week02-web-article-thaut-2010.md)
 - [Singing and the Brain](../sources/fxa100-week04-singing-and-the-brain.md)
+- [Artful: Art and Dementia online toolkit](../sources/fxa100-week07-artful-art-and-dementia-online-toolkit.md)
 - [Deciphering Sounds Through Patterns of Vibration on the Skin](../sources/fxa101-week00-deciphering-sounds-through-patterns-of-vibration-on-the-skin.md)
 - [Neural insights into observational drawing: A longitudinal resting state functional connectivity study using 7 t MRI](../sources/fxa101-week00-neural-insights-into-observational-drawing-a-longitudinal.md)
 - [Acquiring Tastes and Loves: What Neuroplasticity Teaches Us About Sexual Attraction and Love](../sources/fxa101-week02-acquiring-tastes-and-loves-what-neuroplasticity-teaches-us.md)

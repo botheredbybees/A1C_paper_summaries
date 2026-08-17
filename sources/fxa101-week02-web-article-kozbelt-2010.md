@@ -11,7 +11,7 @@ tags: ["creativity-theories", "personality-traits", "cognitive-processes", "envi
 key_concepts: ["creative personality traits", "process-based models of creativity"]
 methods: []
 slug: fxa101-week02-web-article-kozbelt-2010
-related: ["creativity-theories", "personality-traits"]
+related: ["cognitive-processes", "creativity-theories", "personality-traits"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -42,5 +42,6 @@ This chapter explores various theories of creativity, providing a comprehensive 
 
 ## See Also
 
+- [cognitive-processes](../topics/cognitive-processes.md)
 - [creativity-theories](../topics/creativity-theories.md)
 - [personality-traits](../topics/personality-traits.md)

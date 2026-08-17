@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: wearable-devices
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Wearable Devices

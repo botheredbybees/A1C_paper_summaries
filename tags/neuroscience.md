@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuroscience
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Neuroscience
@@ -20,6 +20,9 @@ updated: 2026-08-10
 - [What We Know Currently about Mirror Neurons](../sources/fxa300-week01-what-we-know-currently-about-mirror-neurons.md)
 - [This Is Your Brain On Music: Understanding a Human Obsession](../sources/fxa300-week02-this-is-your-brain-on-music-understanding-a-human-obsession.md)
 - [What is Damasio's E\u2013F\u2013C framework, and what three stages of emotional experience does it describe?](../sources/fxa300-week02-what-is-damasios-efc-framework-and-what-three-stages-of.md)
+- [A Meta-Analysis of the Effects of Transcranial Direct Current Stimulation on Creative Thinking](../sources/fxa300-week07-a-meta-analysis-of-the-effects-of-transcranial-direct.md)
+- [Imagination and Creativity in Science: an \u2018Embodied\u2019 Perspective](../sources/fxa300-week07-imagination-and-creativity-in-science-an-embodied.md)
+- [Music Creativity and Improvisation](../sources/fxa300-week07-lesson-fxa300-week07-page-3-1.md)
 - [Two-Minute Neuroscience: Reward System](../sources/fxa301-week01-transcript-two-minute-neuroscience-reward-system.md)
 - [Week 2 Introduction to FXA301 Arts in the Community](../sources/fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community.md)
 - [Welcome to Week 6 - FXA301 Arts in the Community](../sources/fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community.md)

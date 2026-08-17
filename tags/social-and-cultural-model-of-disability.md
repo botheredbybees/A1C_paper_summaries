@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-and-cultural-model-of-disability
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Social And Cultural Model Of Disability

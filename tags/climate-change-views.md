@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: climate-change-views
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Climate Change Views

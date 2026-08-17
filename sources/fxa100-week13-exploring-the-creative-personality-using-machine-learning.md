@@ -11,7 +11,7 @@ tags: ["creative-personality", "creativity-measurement", "divergent-thinking", "
 key_concepts: ["ideational fluency", "originality in divergent thinking", "big five personality traits"]
 methods: ["machine learning", "systematic review"]
 slug: fxa100-week13-exploring-the-creative-personality-using-machine-learning
-related: ["divergent-thinking", "machine-learning", "personality-traits"]
+related: ["creativity-measurement", "divergent-thinking", "machine-learning", "personality-traits"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -42,6 +42,7 @@ This study explores the personality attributes that predict ideational fluency a
 
 ## See Also
 
+- [creativity-measurement](../topics/creativity-measurement.md)
 - [divergent-thinking](../topics/divergent-thinking.md)
 - [machine-learning](../topics/machine-learning.md)
 - [personality-traits](../topics/personality-traits.md)

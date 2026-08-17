@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: robust-evidence-gathering
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Robust Evidence Gathering

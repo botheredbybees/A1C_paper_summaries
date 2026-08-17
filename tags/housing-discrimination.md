@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: housing-discrimination
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Housing Discrimination

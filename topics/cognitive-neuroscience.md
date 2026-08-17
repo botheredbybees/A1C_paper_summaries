@@ -25,6 +25,9 @@ sources:
   - fxa300-week02-epilogue-ruminations-on-music-psychology
   - fxa300-week03-music-training-improves-verbal-but-not-visual-memory-cross
   - fxa300-week04-an-ale-meta-analytic-review-of-top-down-and-bottom-up
+  - fxa300-week07-jazz-improvisation-creativity-and-brain-plasticity
+  - fxa300-week07-jazz-musicians-reveal-role-of-expectancy-in-human-creativity
+  - fxa300-week07-towards-a-cognitive-neuroscience-of-consciousness-basic
   - fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with
   - fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community
   - fxa303-week02-scientific-thinking-in-young-children-theoretical-advances
@@ -34,7 +37,7 @@ tags:
 - cognitive-neuroscience
 title: Cognitive Neuroscience and Brain Plasticity
 type: topic
-updated: 2026-08-07
+updated: 2026-08-17
 ---
 
 ## Cognitive Neuroscience and Brain Plasticity
@@ -75,6 +78,9 @@ The exploration of brain lateralization and individual differences in cognitive 
 - [fxa300-week02-epilogue-ruminations-on-music-psychology](../sources/fxa300-week02-epilogue-ruminations-on-music-psychology.md)
 - [fxa300-week03-music-training-improves-verbal-but-not-visual-memory-cross](../sources/fxa300-week03-music-training-improves-verbal-but-not-visual-memory-cross.md)
 - [fxa300-week04-an-ale-meta-analytic-review-of-top-down-and-bottom-up](../sources/fxa300-week04-an-ale-meta-analytic-review-of-top-down-and-bottom-up.md)
+- [fxa300-week07-jazz-improvisation-creativity-and-brain-plasticity](../sources/fxa300-week07-jazz-improvisation-creativity-and-brain-plasticity.md)
+- [fxa300-week07-jazz-musicians-reveal-role-of-expectancy-in-human-creativity](../sources/fxa300-week07-jazz-musicians-reveal-role-of-expectancy-in-human-creativity.md)
+- [fxa300-week07-towards-a-cognitive-neuroscience-of-consciousness-basic](../sources/fxa300-week07-towards-a-cognitive-neuroscience-of-consciousness-basic.md)
 - [fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with](../sources/fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with.md)
 - [fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community](../sources/fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community.md)
 - [fxa303-week02-scientific-thinking-in-young-children-theoretical-advances](../sources/fxa303-week02-scientific-thinking-in-young-children-theoretical-advances.md)

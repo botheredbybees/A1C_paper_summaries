@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-imaging
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Brain Imaging
@@ -13,4 +13,7 @@ updated: 2026-08-10
 - [Rapid and dynamic processing of face pareidolia in the human brain](../sources/fxa101-week05-rapid-and-dynamic-processing-of-face-pareidolia-in-the.md)
 - [Neurophysiological Effects of Trait Empathy in Music Listening](../sources/fxa300-week01-neurophysiological-effects-of-trait-empathy-in-music.md)
 - [Auditory Imagery: Empirical Findings](../sources/fxa300-week04-auditory-imagery-empirical-findings.md)
+- [Musical Creativity and the Brain](../sources/fxa300-week07-musical-creativity-and-the-brain.md)
+- [Your brain on improv](../sources/fxa300-week07-your-brain-on-improv.md)
+- [Your Brain on Improv](../sources/fxa300-week07-your-brain-on-improv-%282%29.md)
 - [Neurodiversity and Autism Spectrum in Childhood](../sources/fxa303-week04-lesson-fxa303-week04-page-2-neurodiversity-and-the-brain.md)

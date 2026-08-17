@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: working-memory-systems
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Working Memory Systems

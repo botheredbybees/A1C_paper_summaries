@@ -11,7 +11,7 @@ tags: ["academic-journals", "scholarly-sources", "research-skills", "psychology-
 key_concepts: ["peer-reviewed academic journals", "primary resources"]
 methods: []
 slug: psy214-week03-lesson-psy214-week03-academic-journals-and-journal
-related: ["scholarly-sources"]
+related: ["peer-review", "research-skills", "scholarly-sources"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -43,4 +43,6 @@ This lesson module focuses on identifying scholarly sources for psychology assig
 
 ## See Also
 
+- [peer-review](../topics/peer-review.md)
+- [research-skills](../topics/research-skills.md)
 - [scholarly-sources](../topics/scholarly-sources.md)

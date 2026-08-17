@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dementia-care
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Dementia Care
@@ -127,17 +127,23 @@ updated: 2026-08-10
 - [The Role of the Visual Arts in the Resilience of People Living with Dementia in Care Homes](../sources/fxa100-week06-the-role-of-the-visual-arts-in-the-resilience-of-people.md)
 - [Welcome to Week 6 - FXA100 The Arts and Dementia Care](../sources/fxa100-week06-welcome-to-week-6-fxa100-the-arts-and-dementia-care.md)
 - [Access Programs - Art Gallery of New South Wales](../sources/fxa100-week07-access-programs-art-gallery-of-new-south-wales.md)
+- [Access Programs | Art Gallery of NSW](../sources/fxa100-week07-access-programs-art-gallery-of-nsw.md)
+- [Aged care outreach | Education | Museums Victoria](../sources/fxa100-week07-aged-care-outreach-education-museums-victoria.md)
 - [An Art Gallery Access Programme for people with dementia: \u2018You do it for the moment\u2019](../sources/fxa100-week07-an-art-gallery-access-programme-for-people-with-dementia.md)
 - [Art and Dementia](../sources/fxa100-week07-art-and-dementia.md)
 - [Art and Dementia | Art Gallery of New South Wales](../sources/fxa100-week07-art-and-dementia-art-gallery-of-new-south-wales.md)
+- [Art and Dementia | Art Gallery of NSW](../sources/fxa100-week07-art-and-dementia-art-gallery-of-nsw.md)
 - [Artful: Art and Dementia | For visitors with dementia | MCA Australia](../sources/fxa100-week07-artful-art-and-dementia-for-visitors-with-dementia-mca.md)
+- [Artful: Art and Dementia online toolkit](../sources/fxa100-week07-artful-art-and-dementia-online-toolkit.md)
 - [Artful: Art and Dementia Toolkit](../sources/fxa100-week07-artful-art-and-dementia-toolkit.md)
 - [Arts Engagement for People with Dementia: Independent Evaluation of the Art Access Program, Art Gallery Of New South Wales](../sources/fxa100-week07-arts-engagement-for-people-with-dementia-independent.md)
 - [Arts Engagement for People with Dementia: Independent Evaluation of the Art Access Program](../sources/fxa100-week07-arts-engagement-for-people-with-dementia-independent-%282%29.md)
 - [Benefits of Engaging with Visual Arts in a Gallery Environment for People Living with Dementia](../sources/fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery.md)
+- [Benefits of Engaging with Visual Arts in a Gallery Environment for People Living with Dementia in Australia](../sources/fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery-%282%29.md)
 - [Connecting reminiscence, art making and cultural heritage: A pilot art-for-dementia care programme](../sources/fxa100-week07-connecting-reminiscence-art-making-and-cultural-heritage-a.md)
 - [Connecting with and through art: Arts engagement for liveable communities](../sources/fxa100-week07-connecting-with-and-through-art-arts-engagement-for.md)
 - [Creating Resources - Memory Trees and Boxes](../sources/fxa100-week07-creating-resources-memory-trees-and-boxes.md)
+- [Creating resources | National Museums Liverpool](../sources/fxa100-week07-creating-resources-national-museums-liverpool.md)
 - [Dementia and Our Mob: Caring for Spirit](../sources/fxa100-week07-dementia-and-our-mob-caring-for-spirit.md)
 - [Evaluation of the \u2018Unforgettable\u2019 Art Programme by People with Dementia and Their Care-Givers](../sources/fxa100-week07-evaluation-of-the-unforgettable-art-programme-by-people.md)
 - [For visitors with dementia](../sources/fxa100-week07-for-visitors-with-dementia.md)
@@ -159,6 +165,7 @@ updated: 2026-08-10
 - [Two Art Museum Programs for People with Dementia](../sources/fxa100-week07-two-art-museum-programs-for-people-with-dementia.md)
 - [Viewing and making art together: a multi-session art-gallery-based intervention for people with dementia and their carers](../sources/fxa100-week07-viewing-and-making-art-together-a-multi-session-art-gallery.md)
 - [Art Alleviates Anxiety for People with Dementia, New Research Finds](../sources/fxa100-week07-web-article-dalzell-2016.md)
+- [Week 7 Lecture - Dr Brendan Lamb](../sources/fxa100-week07-week-7-lecture-dr-brendan-lamb.md)
 - [What are the benefits of engaging with the visual arts in a gallery environment for people living with dementia in Australia?](../sources/fxa100-week07-what-are-the-benefits-of-engaging-with-the-visual-arts-in-a.md)
 - [Art Therapy in Dementia Care: Toward Neurologically Informed, Evidence-Based Practice](../sources/fxa100-week08-art-therapy-in-dementia-care-toward-neurologically-informed.md)
 - [Arts in Dementia Care: This is not the end... if it's the end of this chapter](../sources/fxa100-week08-arts-in-dementia-care-this-is-not-the-end-if-its-the-end-of.md)

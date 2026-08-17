@@ -7,7 +7,8 @@ tags: ["artistic-creativity"]
 sources:
   - fxa100-week06-dementia-and-art-neuronal-intermediate-filament-inclusion
   - fxa101-week02-synesthetes-are-more-involved-in-art-evidence-from-the
-updated: 2026-07-13
+  - fxa300-week07-modeling-influences-on-divergent-thinking-and-artistic
+updated: 2026-08-17
 ---
 
 ## Artistic Creativity and Neurological Conditions
@@ -28,3 +29,4 @@ The integration of studies on dementia and art with those focusing on synesthete
 
 - [fxa100-week06-dementia-and-art-neuronal-intermediate-filament-inclusion](../sources/fxa100-week06-dementia-and-art-neuronal-intermediate-filament-inclusion.md)
 - [fxa101-week02-synesthetes-are-more-involved-in-art-evidence-from-the](../sources/fxa101-week02-synesthetes-are-more-involved-in-art-evidence-from-the.md)
+- [fxa300-week07-modeling-influences-on-divergent-thinking-and-artistic](../sources/fxa300-week07-modeling-influences-on-divergent-thinking-and-artistic.md)

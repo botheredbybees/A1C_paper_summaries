@@ -8,11 +8,13 @@ sources:
   - psy214-week01-lesson-psy214-week01-stress-as-a-psychological-process
   - psy214-week01-lesson-psy214-week01-what-is-stress
   - psy214-week02-lesson-psy214-week02-multi-dimensional-models-of-well
+  - psy214-week07-lesson-psy214-week07-71-module-overview
+  - psy214-week07-lesson-psy214-week07-mindfulness-overview
 tags:
 - self-care
 title: Self-Care for Caregivers
 type: topic
-updated: 2026-07-13
+updated: 2026-08-17
 ---
 
 ## Self-Care for Caregivers
@@ -36,3 +38,5 @@ The provided sources highlight the critical importance of self-care for individu
 - [psy214-week01-lesson-psy214-week01-stress-as-a-psychological-process](../sources/psy214-week01-lesson-psy214-week01-stress-as-a-psychological-process.md)
 - [psy214-week01-lesson-psy214-week01-what-is-stress](../sources/psy214-week01-lesson-psy214-week01-what-is-stress.md)
 - [psy214-week02-lesson-psy214-week02-multi-dimensional-models-of-well](../sources/psy214-week02-lesson-psy214-week02-multi-dimensional-models-of-well.md)
+- [psy214-week07-lesson-psy214-week07-71-module-overview](../sources/psy214-week07-lesson-psy214-week07-71-module-overview.md)
+- [psy214-week07-lesson-psy214-week07-mindfulness-overview](../sources/psy214-week07-lesson-psy214-week07-mindfulness-overview.md)

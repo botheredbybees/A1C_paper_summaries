@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: behavioral-change
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Behavioral Change

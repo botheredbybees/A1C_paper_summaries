@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: resting-state-functional-connectivity
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Resting State Functional Connectivity

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: research-methods
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Research Methods
@@ -21,3 +21,4 @@ updated: 2026-08-10
 - [The Make Arts for a Better Life Process](../sources/fxa301-make-arts-for-a-better-life-ch02-1-meet-a-community-and-its-arts.md)
 - [A step-by-step approach to the research process](../sources/fxa301-week01-a-step-by-step-approach-to-the-research-process.md)
 - [How do I interpret scholarly sources?](../sources/psy214-week03-lesson-psy214-week03-making-sense-of-evidence.md)
+- [Langerian Mindfulness: Noticing and Engagement](../sources/psy214-week07-lesson-psy214-week07-mindfulness-as-noticing.md)

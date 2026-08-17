@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: optics-history
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Optics History

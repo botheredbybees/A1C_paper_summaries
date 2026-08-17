@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: yt-dlp-error
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Yt Dlp Error

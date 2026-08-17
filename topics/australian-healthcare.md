@@ -6,8 +6,9 @@ confidence: medium
 tags: ["australian-healthcare"]
 sources:
   - fxa100-week01-dementia-facts-and-figures
+  - fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery-(2)
   - fxa301-week11-web-article-cameron-2017
-updated: 2026-05-16
+updated: 2026-08-17
 ---
 
 ## Australian Healthcare Systems and Support for Dementia and Intellectual Disabilities
@@ -26,4 +27,5 @@ The provided sources highlight the multifaceted support systems within Australia
 ## Sources
 
 - [fxa100-week01-dementia-facts-and-figures](../sources/fxa100-week01-dementia-facts-and-figures.md)
+- [fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery-(2)](../sources/fxa100-week07-benefits-of-engaging-with-visual-arts-in-a-gallery-%282%29.md)
 - [fxa301-week11-web-article-cameron-2017](../sources/fxa301-week11-web-article-cameron-2017.md)

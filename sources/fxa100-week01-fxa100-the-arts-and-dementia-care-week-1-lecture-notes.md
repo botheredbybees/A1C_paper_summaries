@@ -11,7 +11,7 @@ tags: ["dementia-care", "arts-interventions", "cognitive-processing", "mental-he
 key_concepts: ["creative-therapies", "quality-of-life-improvement", "critical-evaluation-methods"]
 methods: ["lecture-notes", "course-overview"]
 slug: fxa100-week01-fxa100-the-arts-and-dementia-care-week-1-lecture-notes
-related: ["arts-interventions", "arts-interventions-in-healthcare", "cognitive-processing", "dementia-care"]
+related: ["arts-interventions", "arts-interventions-in-healthcare", "cognitive-processing", "dementia-care", "education-research"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -48,3 +48,4 @@ The lecture notes for the first week of FXA100: The Arts and Dementia Care provi
 - [arts-interventions-in-healthcare](../topics/arts-interventions-in-healthcare.md)
 - [cognitive-processing](../topics/cognitive-processing.md)
 - [dementia-care](../topics/dementia-care.md)
+- [education-research](../topics/education-research.md)

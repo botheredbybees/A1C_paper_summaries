@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: art-influence-on-food
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Art Influence On Food

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: detention-center-art
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Detention Center Art

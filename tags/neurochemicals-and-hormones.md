@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurochemicals-and-hormones
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Neurochemicals And Hormones

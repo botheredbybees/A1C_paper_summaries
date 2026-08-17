@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: rehabilitation-exercises
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Rehabilitation Exercises

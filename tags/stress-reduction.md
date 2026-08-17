@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: stress-reduction
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Stress Reduction
@@ -10,3 +10,4 @@ updated: 2026-08-10
 - [The Laughter Prescription: A Tool for Lifestyle Medicine](../sources/fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine.md)
 - [Nature and Well-being: Theories](../sources/psy214-week06-nature-and-well-being-theories.md)
 - [Nature and Well-being: Theories](../sources/psy214-week06-nature-and-well-being-theories-%282%29.md)
+- [Mindfulness: Overview](../sources/psy214-week07-lesson-psy214-week07-mindfulness-overview.md)

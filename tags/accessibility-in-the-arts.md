@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: accessibility-in-the-arts
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Accessibility In The Arts

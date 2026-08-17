@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: fragmented-healthcare-system
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Fragmented Healthcare System

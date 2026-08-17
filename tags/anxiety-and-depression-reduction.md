@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: anxiety-and-depression-reduction
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Anxiety And Depression Reduction

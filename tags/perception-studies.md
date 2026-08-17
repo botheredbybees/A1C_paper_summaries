@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: perception-studies
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 ## Perception Studies
