@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: agency-in-art
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Agency In Art

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dorsal-striatum
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Dorsal Striatum

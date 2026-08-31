@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: artist-education
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Artist Education

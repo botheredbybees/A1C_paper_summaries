@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: kazoo-pilot-program
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Kazoo Pilot Program

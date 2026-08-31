@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: galvanic-skin-response
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Galvanic Skin Response

@@ -8,11 +8,12 @@ sources:
   - fxa301-week08-wisdom-poetry-trialogue
   - fxa303-week13-therapeutic-clowns-in-pediatrics-a-systematic-review-and
   - psy214-week01-coping-notes-slides
+  - psy214-week08-mindfulness-meditation-what-it-is-and-isnt
 tags:
 - creative-arts-health
 title: Creative Arts in Health Interventions
 type: topic
-updated: 2026-07-06
+updated: 2026-08-31
 ---
 
 ## Creative Arts in Health Interventions
@@ -36,3 +37,4 @@ The integration of creative arts into health interventions presents a multifacet
 - [fxa301-week08-wisdom-poetry-trialogue](../sources/fxa301-week08-wisdom-poetry-trialogue.md)
 - [fxa303-week13-therapeutic-clowns-in-pediatrics-a-systematic-review-and](../sources/fxa303-week13-therapeutic-clowns-in-pediatrics-a-systematic-review-and.md)
 - [psy214-week01-coping-notes-slides](../sources/psy214-week01-coping-notes-slides.md)
+- [psy214-week08-mindfulness-meditation-what-it-is-and-isnt](../sources/psy214-week08-mindfulness-meditation-what-it-is-and-isnt.md)

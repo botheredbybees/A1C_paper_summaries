@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: beethovens-compositional-style
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Beethovens Compositional Style

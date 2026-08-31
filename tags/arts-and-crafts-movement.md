@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-and-crafts-movement
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Arts And Crafts Movement

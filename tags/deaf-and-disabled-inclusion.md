@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: deaf-and-disabled-inclusion
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Deaf And Disabled Inclusion

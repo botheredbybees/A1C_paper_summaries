@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: long-term-memory-templates
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Long Term Memory Templates

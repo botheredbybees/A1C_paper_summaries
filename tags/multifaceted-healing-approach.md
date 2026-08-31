@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: multifaceted-healing-approach
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Multifaceted Healing Approach

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: reserving-bed-for-sleep
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Reserving Bed For Sleep

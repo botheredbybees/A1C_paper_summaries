@@ -26,11 +26,12 @@ sources:
   - psy214-week07-lesson-psy214-week07-everyday-mindfulness
   - psy214-week07-mindfulness-as-a-self-care-strategy-for-healthcare
   - psy214-week07-self-care-skills-to-prevent-burnout-a-pilot-study-embedding
+  - psy214-week08-lesson-psy214-week08-week-10-introduction
 tags:
 - self-care-strategies
 title: Self-Care Strategies
 type: topic
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Self-Care Strategies
@@ -71,3 +72,4 @@ The sources explore different self-care strategies that individuals can adopt to
 - [psy214-week07-lesson-psy214-week07-everyday-mindfulness](../sources/psy214-week07-lesson-psy214-week07-everyday-mindfulness.md)
 - [psy214-week07-mindfulness-as-a-self-care-strategy-for-healthcare](../sources/psy214-week07-mindfulness-as-a-self-care-strategy-for-healthcare.md)
 - [psy214-week07-self-care-skills-to-prevent-burnout-a-pilot-study-embedding](../sources/psy214-week07-self-care-skills-to-prevent-burnout-a-pilot-study-embedding.md)
+- [psy214-week08-lesson-psy214-week08-week-10-introduction](../sources/psy214-week08-lesson-psy214-week08-week-10-introduction.md)

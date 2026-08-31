@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visualization-color-schemes
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Visualization Color Schemes

@@ -16,11 +16,12 @@ sources:
   - fxa301-week09-lesson-fxa301-week09-page-1
   - fxa302-week01-musical-composition-and-vocal-expression
   - fxa302-week01-papermaking-an-artistic-process-for-health-and-wellbeing
+  - psy214-week08-body-scan-meditation-script
 tags:
 - health-wellbeing
 title: Music Therapy in Dementia Care
 type: topic
-updated: 2026-08-07
+updated: 2026-08-31
 ---
 
 ## Music Therapy in Dementia Care
@@ -52,3 +53,4 @@ The provided sources collectively underscore the role of music therapy as an int
 - [fxa301-week09-lesson-fxa301-week09-page-1](../sources/fxa301-week09-lesson-fxa301-week09-page-1.md)
 - [fxa302-week01-musical-composition-and-vocal-expression](../sources/fxa302-week01-musical-composition-and-vocal-expression.md)
 - [fxa302-week01-papermaking-an-artistic-process-for-health-and-wellbeing](../sources/fxa302-week01-papermaking-an-artistic-process-for-health-and-wellbeing.md)
+- [psy214-week08-body-scan-meditation-script](../sources/psy214-week08-body-scan-meditation-script.md)

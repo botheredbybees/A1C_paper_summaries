@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: covariance-structure-analysis
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Covariance Structure Analysis

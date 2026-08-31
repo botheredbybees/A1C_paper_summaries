@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: indigenous-healing-practices
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Indigenous Healing Practices

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: satirical-news-shows
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Satirical News Shows

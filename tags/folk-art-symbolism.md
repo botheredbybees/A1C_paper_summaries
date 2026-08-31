@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: folk-art-symbolism
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Folk Art Symbolism

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mindfulness-practice
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Mindfulness Practice
@@ -26,3 +26,8 @@ updated: 2026-08-17
 - [Informal/everyday mindfulness](../sources/psy214-week07-lesson-psy214-week07-everyday-mindfulness.md)
 - [Mindful Strategies for Helping College Students Manage Stress](../sources/psy214-week07-mindful-strategies-for-helping-college-students-manage.md)
 - [Self-Care Skills to Prevent Burnout: A Pilot Study Embedding Mindfulness in an Undergraduate Nursing Course](../sources/psy214-week07-self-care-skills-to-prevent-burnout-a-pilot-study-embedding.md)
+- [How mindfulness works: The big picture](../sources/psy214-week08-how-mindfulness-works-the-big-picture.md)
+- [Stress, Self-Care and Mindfulness and Stress, Self-Care and Mindfulness](../sources/psy214-week08-lesson-psy214-week08-week-10-introduction.md)
+- [Mechanisms of Mindfulness](../sources/psy214-week08-mechanisms-of-mindfulness.md)
+- [Mindful Attitudes Slides Notes](../sources/psy214-week08-mindful-attitudes-slides-notes.md)
+- [Sitting Meditation Script](../sources/psy214-week08-sitting-meditation-script.md)

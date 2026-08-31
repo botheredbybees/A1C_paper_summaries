@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-arts-health
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Creative Arts Health
@@ -11,3 +11,4 @@ updated: 2026-08-17
 - [Wisdom poetry trialogue](../sources/fxa301-week08-wisdom-poetry-trialogue.md)
 - [Therapeutic clowns in pediatrics: a systematic review and meta-analysis of randomized controlled trials](../sources/fxa303-week13-therapeutic-clowns-in-pediatrics-a-systematic-review-and.md)
 - [Coping Notes Slides](../sources/psy214-week01-coping-notes-slides.md)
+- [Mindfulness Meditation: What It Is and Isn\u2019t](../sources/psy214-week08-mindfulness-meditation-what-it-is-and-isnt.md)

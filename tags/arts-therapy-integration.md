@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-therapy-integration
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Arts Therapy Integration

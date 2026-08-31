@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: beta-amyloid-plaques-in-alzheimer-s-disease
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Beta Amyloid Plaques In Alzheimer S Disease

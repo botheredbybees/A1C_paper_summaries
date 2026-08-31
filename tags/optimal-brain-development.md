@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: optimal-brain-development
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Optimal Brain Development

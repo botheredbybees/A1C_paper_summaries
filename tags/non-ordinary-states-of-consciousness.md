@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: non-ordinary-states-of-consciousness
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Non Ordinary States Of Consciousness

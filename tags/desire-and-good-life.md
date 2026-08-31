@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: desire-and-good-life
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Desire And Good Life

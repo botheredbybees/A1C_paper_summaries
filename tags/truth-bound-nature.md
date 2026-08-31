@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: truth-bound-nature
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Truth Bound Nature

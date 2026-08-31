@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: beat-synchronization
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Beat Synchronization

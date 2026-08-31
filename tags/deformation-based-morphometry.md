@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: deformation-based-morphometry
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Deformation Based Morphometry

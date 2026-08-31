@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cultural-history
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Cultural History

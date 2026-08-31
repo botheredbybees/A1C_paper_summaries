@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: balance-confidence
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Balance Confidence

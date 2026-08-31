@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-map-plasticity
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Brain Map Plasticity

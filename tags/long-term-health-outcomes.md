@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: long-term-health-outcomes
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Long Term Health Outcomes

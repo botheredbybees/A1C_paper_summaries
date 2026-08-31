@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: participatory-arts-intervention
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Participatory Arts Intervention

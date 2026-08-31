@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mathematical-modeling-in-psychology
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Mathematical Modeling In Psychology

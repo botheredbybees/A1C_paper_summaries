@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: adult-patients
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Adult Patients

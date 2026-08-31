@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: universal-acoustic-cues
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Universal Acoustic Cues

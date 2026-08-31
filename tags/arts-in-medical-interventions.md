@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-in-medical-interventions
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Arts In Medical Interventions

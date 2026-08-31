@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: pharmacotherapy-efficacy
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Pharmacotherapy Efficacy

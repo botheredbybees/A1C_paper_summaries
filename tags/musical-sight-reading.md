@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: musical-sight-reading
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Musical Sight Reading

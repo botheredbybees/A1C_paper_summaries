@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: inclusivity
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Inclusivity

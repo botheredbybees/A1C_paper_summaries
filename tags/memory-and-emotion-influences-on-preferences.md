@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: memory-and-emotion-influences-on-preferences
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Memory And Emotion Influences On Preferences

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: bradford-hill-viewpoints
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Bradford Hill Viewpoints

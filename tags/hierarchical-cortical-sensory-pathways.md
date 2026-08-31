@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hierarchical-cortical-sensory-pathways
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Hierarchical Cortical Sensory Pathways

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-well-being
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Mental Well Being
@@ -14,3 +14,4 @@ updated: 2026-08-17
 - [Resilience and Hope: Exploring Immigrant and Refugee Youth Experiences through Community-based Arts Practice](../sources/fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth.md)
 - [Self-Compassion: Theory, Method, Research, and Intervention](../sources/psy214-week00-self-compassion-theory-method-research-and-intervention.md)
 - [Nature Experience Reduces Rumination and Subgenual Prefrontal Cortex Activation](../sources/psy214-week06-nature-experience-reduces-rumination-and-subgenual.md)
+- [Mindfulness Meditation: What It Is and Isn\u2019t](../sources/psy214-week08-mindfulness-meditation-what-it-is-and-isnt.md)

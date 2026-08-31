@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: subgenual-prefrontal-cortex-activation
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Subgenual Prefrontal Cortex Activation

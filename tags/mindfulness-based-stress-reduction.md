@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mindfulness-based-stress-reduction
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Mindfulness Based Stress Reduction

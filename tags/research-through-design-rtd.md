@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: research-through-design-rtd
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Research Through Design Rtd

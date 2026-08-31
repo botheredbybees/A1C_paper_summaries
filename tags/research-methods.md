@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: research-methods
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Research Methods
@@ -22,3 +22,5 @@ updated: 2026-08-17
 - [A step-by-step approach to the research process](../sources/fxa301-week01-a-step-by-step-approach-to-the-research-process.md)
 - [How do I interpret scholarly sources?](../sources/psy214-week03-lesson-psy214-week03-making-sense-of-evidence.md)
 - [Langerian Mindfulness: Noticing and Engagement](../sources/psy214-week07-lesson-psy214-week07-mindfulness-as-noticing.md)
+- [Limitations of the Evidence Base for Mindfulness](../sources/psy214-week08-lesson-psy214-week08-limitations-of-the-evidence-base.md)
+- [Mindfulness research: Limitations](../sources/psy214-week08-mindfulness-research-limitations-%282%29.md)

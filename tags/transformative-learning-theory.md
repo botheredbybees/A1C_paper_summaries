@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: transformative-learning-theory
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Transformative Learning Theory

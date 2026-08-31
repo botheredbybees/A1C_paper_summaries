@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-neuroscience
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Cognitive Neuroscience
@@ -36,3 +36,4 @@ updated: 2026-08-17
 - [Scientific Thinking in Young Children: Theoretical Advances, Empirical Research, and Policy Implications](../sources/fxa303-week02-scientific-thinking-in-young-children-theoretical-advances.md)
 - [Does Music Change a Child's Brain](../sources/fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain.md)
 - [The Teen Brain](../sources/fxa303-week03-the-teen-brain.md)
+- [Mechanisms of Mindfulness](../sources/psy214-week08-mechanisms-of-mindfulness.md)

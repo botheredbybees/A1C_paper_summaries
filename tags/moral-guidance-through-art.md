@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: moral-guidance-through-art
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Moral Guidance Through Art

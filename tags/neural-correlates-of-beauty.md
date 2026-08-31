@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neural-correlates-of-beauty
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Neural Correlates Of Beauty

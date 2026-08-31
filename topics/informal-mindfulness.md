@@ -7,7 +7,8 @@ tags: ["informal-mindfulness"]
 sources:
   - psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an
   - psy214-week07-lesson-psy214-week07-71-module-overview
-updated: 2026-08-17
+  - psy214-week08-how-mindfulness-works-the-big-picture
+updated: 2026-08-31
 ---
 
 ## Informal Mindfulness Practices
@@ -28,3 +29,4 @@ Informal mindfulness practices, as discussed in both sources, refer to everyday 
 
 - [psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an](../sources/psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an.md)
 - [psy214-week07-lesson-psy214-week07-71-module-overview](../sources/psy214-week07-lesson-psy214-week07-71-module-overview.md)
+- [psy214-week08-how-mindfulness-works-the-big-picture](../sources/psy214-week08-how-mindfulness-works-the-big-picture.md)

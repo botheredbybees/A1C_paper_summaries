@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: academic-performance
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Academic Performance

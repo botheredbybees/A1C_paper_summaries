@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: color-gamut-spaces
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Color Gamut Spaces

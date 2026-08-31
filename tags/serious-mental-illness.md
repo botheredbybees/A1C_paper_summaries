@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: serious-mental-illness
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Serious Mental Illness

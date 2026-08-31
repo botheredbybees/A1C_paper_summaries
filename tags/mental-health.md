@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-health
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Mental Health
@@ -71,3 +71,6 @@ updated: 2026-08-17
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness - Week on Rest and Relaxation](../sources/psy214-week05-lesson-psy214-week05-week-5-introduction1.md)
 - [Sleep, Circadian Rhythms and Health](../sources/psy214-week05-sleep-circadian-rhythms-and-health.md)
 - [Physical Activity and Health](../sources/psy214-week06-lesson-psy214-week06-move-variety-is-the-spice-of-life.md)
+- [How Mindfulness Works](../sources/psy214-week08-lesson-psy214-week08-mindfulness-challenges-2.md)
+- [Mechanisms of Mindfulness](../sources/psy214-week08-mechanisms-of-mindfulness-%282%29.md)
+- [Mindfulness Meditation: What It Isn\u2019t and How to Do It](../sources/psy214-week08-mindfulness-meditation-what-it-isnt-and-how-to-do-it.md)

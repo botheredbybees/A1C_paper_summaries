@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: study-strategies
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Study Strategies

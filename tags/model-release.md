@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: model-release
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Model Release

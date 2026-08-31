@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: aging-poets
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Aging Poets

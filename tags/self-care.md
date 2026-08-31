@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: self-care
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Self Care
@@ -12,3 +12,6 @@ updated: 2026-08-17
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness: Early Humanistic Approaches](../sources/psy214-week02-lesson-psy214-week02-multi-dimensional-models-of-well.md)
 - [Mindfulness: Overview and Everyday Practices](../sources/psy214-week07-lesson-psy214-week07-71-module-overview.md)
 - [Mindfulness: Overview](../sources/psy214-week07-lesson-psy214-week07-mindfulness-overview.md)
+- [Defining Mindfulness, Revisited](../sources/psy214-week08-lesson-psy214-week08-psychotherapies-which-incorporate.md)
+- [Mindful Attitudes Full Page Slides](../sources/psy214-week08-mindful-attitudes-full-page-slides.md)
+- [Mindfulness Meditation: What It Is and Isn\u2019t](../sources/psy214-week08-mindfulness-meditation-what-it-is-and-isnt.md)

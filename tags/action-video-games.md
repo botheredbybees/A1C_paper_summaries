@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: action-video-games
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Action Video Games

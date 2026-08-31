@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: novel-involuntary-musical-imagery-repetition-imir
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Novel Involuntary Musical Imagery Repetition Imir

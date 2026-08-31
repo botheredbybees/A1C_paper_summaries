@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: serial-mediation-model
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Serial Mediation Model

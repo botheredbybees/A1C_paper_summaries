@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: individual-brain-differences
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Individual Brain Differences

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: primary-progressive-dynamic-aphasia
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Primary Progressive Dynamic Aphasia

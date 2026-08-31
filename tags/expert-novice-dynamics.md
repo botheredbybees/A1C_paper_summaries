@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: expert-novice-dynamics
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Expert Novice Dynamics

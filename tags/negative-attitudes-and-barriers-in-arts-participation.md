@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: negative-attitudes-and-barriers-in-arts-participation
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Negative Attitudes And Barriers In Arts Participation

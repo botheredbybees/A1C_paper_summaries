@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visceral-adipose-tissue
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Visceral Adipose Tissue

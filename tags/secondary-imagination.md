@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: secondary-imagination
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Secondary Imagination

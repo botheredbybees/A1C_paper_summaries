@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: decolonial-art-practice
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Decolonial Art Practice

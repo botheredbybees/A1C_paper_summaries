@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: medieval-health
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Medieval Health

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: vibrational-sensory-technology
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Vibrational Sensory Technology

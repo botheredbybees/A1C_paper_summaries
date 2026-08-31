@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sexual-desire-control
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Sexual Desire Control

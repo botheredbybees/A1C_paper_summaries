@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dynamic-dualism
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Dynamic Dualism

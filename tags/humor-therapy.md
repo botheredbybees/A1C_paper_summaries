@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: humor-therapy
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Humor Therapy

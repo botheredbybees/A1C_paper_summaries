@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: gender-bias
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Gender Bias

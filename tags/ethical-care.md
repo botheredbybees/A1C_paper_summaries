@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ethical-care
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Ethical Care

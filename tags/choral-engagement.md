@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: choral-engagement
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Choral Engagement

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-arts-in-health-education
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Visual Arts In Health Education

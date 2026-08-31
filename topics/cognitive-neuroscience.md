@@ -33,11 +33,12 @@ sources:
   - fxa303-week02-scientific-thinking-in-young-children-theoretical-advances
   - fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain
   - fxa303-week03-the-teen-brain
+  - psy214-week08-mechanisms-of-mindfulness
 tags:
 - cognitive-neuroscience
 title: Cognitive Neuroscience and Brain Plasticity
 type: topic
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Cognitive Neuroscience and Brain Plasticity
@@ -86,3 +87,4 @@ The exploration of brain lateralization and individual differences in cognitive 
 - [fxa303-week02-scientific-thinking-in-young-children-theoretical-advances](../sources/fxa303-week02-scientific-thinking-in-young-children-theoretical-advances.md)
 - [fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain](../sources/fxa303-week02-transcript-john-iversen-does-music-change-a-childs-brain.md)
 - [fxa303-week03-the-teen-brain](../sources/fxa303-week03-the-teen-brain.md)
+- [psy214-week08-mechanisms-of-mindfulness](../sources/psy214-week08-mechanisms-of-mindfulness.md)

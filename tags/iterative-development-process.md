@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: iterative-development-process
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Iterative Development Process

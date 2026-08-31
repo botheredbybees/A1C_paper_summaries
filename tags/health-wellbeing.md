@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: health-wellbeing
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Health Wellbeing
@@ -19,3 +19,4 @@ updated: 2026-08-17
 - [Designing Inclusive Projects for Health and Wellbeing Outcomes](../sources/fxa301-week09-lesson-fxa301-week09-page-1.md)
 - [Musical Composition and Vocal Expression](../sources/fxa302-week01-musical-composition-and-vocal-expression.md)
 - [Papermaking: An Artistic Process for Health and Wellbeing](../sources/fxa302-week01-papermaking-an-artistic-process-for-health-and-wellbeing.md)
+- [Body Scan Meditation Script](../sources/psy214-week08-body-scan-meditation-script.md)

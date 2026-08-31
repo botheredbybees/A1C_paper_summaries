@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: student-experiences
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Student Experiences

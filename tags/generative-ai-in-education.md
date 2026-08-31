@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: generative-ai-in-education
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Generative Ai In Education

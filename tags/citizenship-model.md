@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: citizenship-model
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Citizenship Model

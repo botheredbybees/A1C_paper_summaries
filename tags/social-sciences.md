@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-sciences
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Social Sciences

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: resident-engagement-in-dementia-care
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Resident Engagement In Dementia Care

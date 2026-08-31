@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: forest-bathing-shinrin-yoku
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Forest Bathing Shinrin Yoku

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: whole-person-approach
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Whole Person Approach

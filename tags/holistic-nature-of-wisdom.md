@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: holistic-nature-of-wisdom
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Holistic Nature Of Wisdom

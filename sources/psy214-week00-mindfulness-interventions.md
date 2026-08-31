@@ -9,13 +9,15 @@ appearances:
     week: "00"
   - unit: PSY214
     week: "07"
+  - unit: PSY214
+    week: "08"
 tags: ["mindfulness-practices", "mental-health-interventions", "wellbeing-research", "creative-arts-and-medicine", "clinical-psychology", "psy214", "mindfulness-interventions", "present-moment-awareness"]
 key_concepts: ["mindfulness interventions", "randomized controlled trials", "present moment awareness", "health outcomes"]
 methods: ["systematic review", "RCT"]
 slug: psy214-week00-mindfulness-interventions
-related: ["clinical-psychology", "mental-health-interventions", "mindfulness-practices", "wellbeing-research"]
+related: ["clinical-psychology", "mental-health-interventions", "mindfulness-practices", "present-moment-awareness", "wellbeing-research"]
 created: 2026-06-25
-updated: 2026-08-07
+updated: 2026-08-31
 ---
 
 _All claims sourced from ../raw/pdf/psy214-week00-mindfulness-interventions.md_
@@ -50,4 +52,5 @@ The article evaluates the growing evidence of mindfulness intervention randomize
 - [clinical-psychology](../topics/clinical-psychology.md)
 - [mental-health-interventions](../topics/mental-health-interventions.md)
 - [mindfulness-practices](../topics/mindfulness-practices.md)
+- [present-moment-awareness](../topics/present-moment-awareness.md)
 - [wellbeing-research](../topics/wellbeing-research.md)

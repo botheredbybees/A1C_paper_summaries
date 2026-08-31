@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: stress-management
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Stress Management
@@ -48,3 +48,7 @@ updated: 2026-08-17
 - [Mindfulness and acceptance-based trainings for fostering self-care and reducing stress in mental health professionals: A systematic review](../sources/psy214-week07-mindfulness-and-acceptance-based-trainings-for-fostering.md)
 - [Mindfulness as a Self-Care Strategy for Healthcare Professionals to Reduce Stress and Implicit Bias](../sources/psy214-week07-mindfulness-as-a-self-care-strategy-for-healthcare.md)
 - [Teaching Mindfulness Techniques to Behavioral Health Care Staff for Stress Reduction and Self-Care](../sources/psy214-week07-teaching-mindfulness-techniques-to-behavioral-health-care.md)
+- [How Mindfulness Works](../sources/psy214-week08-lesson-psy214-week08-mindfulness-challenges-2.md)
+- [Stress, Self-Care and Mindfulness and Stress, Self-Care and Mindfulness](../sources/psy214-week08-lesson-psy214-week08-week-10-introduction.md)
+- [Mindful Attitudes](../sources/psy214-week08-mindful-attitudes.md)
+- [Mindfulness Meditation: What It Is and Isn\u2019t](../sources/psy214-week08-mindfulness-meditation-what-it-is-and-isnt.md)

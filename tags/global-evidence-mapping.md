@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: global-evidence-mapping
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Global Evidence Mapping

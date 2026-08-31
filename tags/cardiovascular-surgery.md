@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cardiovascular-surgery
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Cardiovascular Surgery

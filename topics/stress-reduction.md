@@ -8,11 +8,15 @@ sources:
   - psy214-week06-nature-and-well-being-theories
   - psy214-week06-nature-and-well-being-theories-(2)
   - psy214-week07-lesson-psy214-week07-mindfulness-overview
+  - psy214-week08-body-scan-meditation-script
+  - psy214-week08-lesson-psy214-week08-mindfulness-in-psychotherapeutic
+  - psy214-week08-lesson-psy214-week08-psychotherapies-which-incorporate
+  - psy214-week08-mindful-attitudes-full-page-slides
 tags:
 - stress-reduction
 title: Stress Reduction Through Humor
 type: topic
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Stress Reduction Through Humor
@@ -36,3 +40,7 @@ The utilization of humor and laughter as interventions for stress reduction is e
 - [psy214-week06-nature-and-well-being-theories](../sources/psy214-week06-nature-and-well-being-theories.md)
 - [psy214-week06-nature-and-well-being-theories-(2)](../sources/psy214-week06-nature-and-well-being-theories-%282%29.md)
 - [psy214-week07-lesson-psy214-week07-mindfulness-overview](../sources/psy214-week07-lesson-psy214-week07-mindfulness-overview.md)
+- [psy214-week08-body-scan-meditation-script](../sources/psy214-week08-body-scan-meditation-script.md)
+- [psy214-week08-lesson-psy214-week08-mindfulness-in-psychotherapeutic](../sources/psy214-week08-lesson-psy214-week08-mindfulness-in-psychotherapeutic.md)
+- [psy214-week08-lesson-psy214-week08-psychotherapies-which-incorporate](../sources/psy214-week08-lesson-psy214-week08-psychotherapies-which-incorporate.md)
+- [psy214-week08-mindful-attitudes-full-page-slides](../sources/psy214-week08-mindful-attitudes-full-page-slides.md)

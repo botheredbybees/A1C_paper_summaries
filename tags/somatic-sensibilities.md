@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: somatic-sensibilities
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Somatic Sensibilities

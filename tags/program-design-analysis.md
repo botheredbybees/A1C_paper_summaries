@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: program-design-analysis
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Program Design Analysis

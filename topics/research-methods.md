@@ -19,11 +19,13 @@ sources:
   - fxa301-week01-a-step-by-step-approach-to-the-research-process
   - psy214-week03-lesson-psy214-week03-making-sense-of-evidence
   - psy214-week07-lesson-psy214-week07-mindfulness-as-noticing
+  - psy214-week08-lesson-psy214-week08-limitations-of-the-evidence-base
+  - psy214-week08-mindfulness-research-limitations-(2)
 tags:
 - research-methods
 title: Research Methods in Healthcare Evaluation
 type: topic
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Research Methods in Healthcare Evaluation
@@ -58,3 +60,5 @@ The sources collectively emphasize the importance of various research methodolog
 - [fxa301-week01-a-step-by-step-approach-to-the-research-process](../sources/fxa301-week01-a-step-by-step-approach-to-the-research-process.md)
 - [psy214-week03-lesson-psy214-week03-making-sense-of-evidence](../sources/psy214-week03-lesson-psy214-week03-making-sense-of-evidence.md)
 - [psy214-week07-lesson-psy214-week07-mindfulness-as-noticing](../sources/psy214-week07-lesson-psy214-week07-mindfulness-as-noticing.md)
+- [psy214-week08-lesson-psy214-week08-limitations-of-the-evidence-base](../sources/psy214-week08-lesson-psy214-week08-limitations-of-the-evidence-base.md)
+- [psy214-week08-mindfulness-research-limitations-(2)](../sources/psy214-week08-mindfulness-research-limitations-%282%29.md)

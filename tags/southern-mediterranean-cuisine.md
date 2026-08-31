@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: southern-mediterranean-cuisine
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Southern Mediterranean Cuisine

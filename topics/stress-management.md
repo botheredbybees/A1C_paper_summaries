@@ -45,11 +45,15 @@ sources:
   - psy214-week07-mindfulness-and-acceptance-based-trainings-for-fostering
   - psy214-week07-mindfulness-as-a-self-care-strategy-for-healthcare
   - psy214-week07-teaching-mindfulness-techniques-to-behavioral-health-care
+  - psy214-week08-lesson-psy214-week08-mindfulness-challenges-2
+  - psy214-week08-lesson-psy214-week08-week-10-introduction
+  - psy214-week08-mindful-attitudes
+  - psy214-week08-mindfulness-meditation-what-it-is-and-isnt
 tags:
 - stress-management
 title: Stress Management Interventions
 type: topic
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Stress Management Interventions
@@ -110,3 +114,7 @@ The exploration of stress management interventions across multiple sources highl
 - [psy214-week07-mindfulness-and-acceptance-based-trainings-for-fostering](../sources/psy214-week07-mindfulness-and-acceptance-based-trainings-for-fostering.md)
 - [psy214-week07-mindfulness-as-a-self-care-strategy-for-healthcare](../sources/psy214-week07-mindfulness-as-a-self-care-strategy-for-healthcare.md)
 - [psy214-week07-teaching-mindfulness-techniques-to-behavioral-health-care](../sources/psy214-week07-teaching-mindfulness-techniques-to-behavioral-health-care.md)
+- [psy214-week08-lesson-psy214-week08-mindfulness-challenges-2](../sources/psy214-week08-lesson-psy214-week08-mindfulness-challenges-2.md)
+- [psy214-week08-lesson-psy214-week08-week-10-introduction](../sources/psy214-week08-lesson-psy214-week08-week-10-introduction.md)
+- [psy214-week08-mindful-attitudes](../sources/psy214-week08-mindful-attitudes.md)
+- [psy214-week08-mindfulness-meditation-what-it-is-and-isnt](../sources/psy214-week08-mindfulness-meditation-what-it-is-and-isnt.md)

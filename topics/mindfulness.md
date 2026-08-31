@@ -12,11 +12,16 @@ sources:
   - psy214-week07-lesson-psy214-week07-71-module-overview
   - psy214-week07-lesson-psy214-week07-mindfulness-overview
   - psy214-week07-lesson-psy214-week07-western-mindfulness-overlaps-with
+  - psy214-week08-lesson-psy214-week08-limitations-of-the-evidence-base
+  - psy214-week08-lesson-psy214-week08-meditation-practices
+  - psy214-week08-lesson-psy214-week08-mindfulness-challenges-2
+  - psy214-week08-lesson-psy214-week08-mindfulness-in-psychotherapeutic
+  - psy214-week08-lesson-psy214-week08-psychotherapies-which-incorporate
 tags:
 - mindfulness
 title: Mindfulness and Therapeutic Photography
 type: topic
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Mindfulness and Therapeutic Photography
@@ -44,3 +49,8 @@ The integration of mindfulness with therapeutic photography emerges as a signifi
 - [psy214-week07-lesson-psy214-week07-71-module-overview](../sources/psy214-week07-lesson-psy214-week07-71-module-overview.md)
 - [psy214-week07-lesson-psy214-week07-mindfulness-overview](../sources/psy214-week07-lesson-psy214-week07-mindfulness-overview.md)
 - [psy214-week07-lesson-psy214-week07-western-mindfulness-overlaps-with](../sources/psy214-week07-lesson-psy214-week07-western-mindfulness-overlaps-with.md)
+- [psy214-week08-lesson-psy214-week08-limitations-of-the-evidence-base](../sources/psy214-week08-lesson-psy214-week08-limitations-of-the-evidence-base.md)
+- [psy214-week08-lesson-psy214-week08-meditation-practices](../sources/psy214-week08-lesson-psy214-week08-meditation-practices.md)
+- [psy214-week08-lesson-psy214-week08-mindfulness-challenges-2](../sources/psy214-week08-lesson-psy214-week08-mindfulness-challenges-2.md)
+- [psy214-week08-lesson-psy214-week08-mindfulness-in-psychotherapeutic](../sources/psy214-week08-lesson-psy214-week08-mindfulness-in-psychotherapeutic.md)
+- [psy214-week08-lesson-psy214-week08-psychotherapies-which-incorporate](../sources/psy214-week08-lesson-psy214-week08-psychotherapies-which-incorporate.md)

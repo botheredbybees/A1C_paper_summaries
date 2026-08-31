@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: aggressive-disease-metaphor
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Aggressive Disease Metaphor

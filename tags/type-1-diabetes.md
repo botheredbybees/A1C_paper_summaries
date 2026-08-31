@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: type-1-diabetes
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Type 1 Diabetes

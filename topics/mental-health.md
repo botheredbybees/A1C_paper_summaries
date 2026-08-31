@@ -68,11 +68,14 @@ sources:
   - psy214-week05-lesson-psy214-week05-week-5-introduction1
   - psy214-week05-sleep-circadian-rhythms-and-health
   - psy214-week06-lesson-psy214-week06-move-variety-is-the-spice-of-life
+  - psy214-week08-lesson-psy214-week08-mindfulness-challenges-2
+  - psy214-week08-mechanisms-of-mindfulness-(2)
+  - psy214-week08-mindfulness-meditation-what-it-isnt-and-how-to-do-it
 tags:
 - mental-health
 title: Creative Therapies for Mental Health
 type: topic
-updated: 2026-08-10
+updated: 2026-08-31
 ---
 
 ## Creative Therapies for Mental Health
@@ -158,3 +161,6 @@ The sources illustrate a variety of creative therapies that have been developed 
 - [psy214-week05-lesson-psy214-week05-week-5-introduction1](../sources/psy214-week05-lesson-psy214-week05-week-5-introduction1.md)
 - [psy214-week05-sleep-circadian-rhythms-and-health](../sources/psy214-week05-sleep-circadian-rhythms-and-health.md)
 - [psy214-week06-lesson-psy214-week06-move-variety-is-the-spice-of-life](../sources/psy214-week06-lesson-psy214-week06-move-variety-is-the-spice-of-life.md)
+- [psy214-week08-lesson-psy214-week08-mindfulness-challenges-2](../sources/psy214-week08-lesson-psy214-week08-mindfulness-challenges-2.md)
+- [psy214-week08-mechanisms-of-mindfulness-(2)](../sources/psy214-week08-mechanisms-of-mindfulness-%282%29.md)
+- [psy214-week08-mindfulness-meditation-what-it-isnt-and-how-to-do-it](../sources/psy214-week08-mindfulness-meditation-what-it-isnt-and-how-to-do-it.md)

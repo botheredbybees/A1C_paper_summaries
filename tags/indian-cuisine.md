@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: indian-cuisine
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Indian Cuisine

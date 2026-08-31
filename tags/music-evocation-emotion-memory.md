@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-evocation-emotion-memory
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Music Evocation Emotion Memory

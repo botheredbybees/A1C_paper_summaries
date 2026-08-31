@@ -21,11 +21,12 @@ sources:
   - fxa303-week11-lesson-fxa303-week11-page-1-overview
   - psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an
   - psy214-week02-positive-emotions-as-a-path-to-well-being
+  - psy214-week08-mechanisms-of-mindfulness
 tags:
 - emotional-regulation
 title: Emotional Regulation
 type: topic
-updated: 2026-08-07
+updated: 2026-08-31
 ---
 
 ## Emotional Regulation
@@ -62,3 +63,4 @@ The synthesis integrates various aspects of emotional regulation across diverse 
 - [fxa303-week11-lesson-fxa303-week11-page-1-overview](../sources/fxa303-week11-lesson-fxa303-week11-page-1-overview.md)
 - [psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an](../sources/psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an.md)
 - [psy214-week02-positive-emotions-as-a-path-to-well-being](../sources/psy214-week02-positive-emotions-as-a-path-to-well-being.md)
+- [psy214-week08-mechanisms-of-mindfulness](../sources/psy214-week08-mechanisms-of-mindfulness.md)

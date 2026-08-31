@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: case-study-design
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Case Study Design

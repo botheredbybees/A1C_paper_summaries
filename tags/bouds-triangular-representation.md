@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: bouds-triangular-representation
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Bouds Triangular Representation

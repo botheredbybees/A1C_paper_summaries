@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-regions-role-in-creativity
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Brain Regions Role In Creativity

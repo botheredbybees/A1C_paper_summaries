@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: custom-made-devices
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Custom Made Devices

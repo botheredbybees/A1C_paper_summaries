@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-funding
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Arts Funding

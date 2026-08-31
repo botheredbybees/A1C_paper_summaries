@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mindfulness
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Mindfulness
@@ -15,3 +15,8 @@ updated: 2026-08-17
 - [Mindfulness: Overview and Everyday Practices](../sources/psy214-week07-lesson-psy214-week07-71-module-overview.md)
 - [Mindfulness: Overview](../sources/psy214-week07-lesson-psy214-week07-mindfulness-overview.md)
 - [Running on 'autopilot': Mindfulness, Schemas, and System 1 Thinking](../sources/psy214-week07-lesson-psy214-week07-western-mindfulness-overlaps-with.md)
+- [Limitations of the Evidence Base for Mindfulness](../sources/psy214-week08-lesson-psy214-week08-limitations-of-the-evidence-base.md)
+- [PSY114 PSY214 Stress, Self-Care and Mindfulness and Stress, Self-Care and Mindfulness](../sources/psy214-week08-lesson-psy214-week08-meditation-practices.md)
+- [How Mindfulness Works](../sources/psy214-week08-lesson-psy214-week08-mindfulness-challenges-2.md)
+- [Mindfulness in Psychotherapy](../sources/psy214-week08-lesson-psy214-week08-mindfulness-in-psychotherapeutic.md)
+- [Defining Mindfulness, Revisited](../sources/psy214-week08-lesson-psy214-week08-psychotherapies-which-incorporate.md)

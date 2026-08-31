@@ -23,11 +23,16 @@ sources:
   - psy214-week07-lesson-psy214-week07-everyday-mindfulness
   - psy214-week07-mindful-strategies-for-helping-college-students-manage
   - psy214-week07-self-care-skills-to-prevent-burnout-a-pilot-study-embedding
+  - psy214-week08-how-mindfulness-works-the-big-picture
+  - psy214-week08-lesson-psy214-week08-week-10-introduction
+  - psy214-week08-mechanisms-of-mindfulness
+  - psy214-week08-mindful-attitudes-slides-notes
+  - psy214-week08-sitting-meditation-script
 tags:
 - mindfulness-practice
 title: Mindfulness Practice Through Photography
 type: topic
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Mindfulness Practice Through Photography
@@ -66,3 +71,8 @@ The integration of mindfulness practices with the act of photography reveals a u
 - [psy214-week07-lesson-psy214-week07-everyday-mindfulness](../sources/psy214-week07-lesson-psy214-week07-everyday-mindfulness.md)
 - [psy214-week07-mindful-strategies-for-helping-college-students-manage](../sources/psy214-week07-mindful-strategies-for-helping-college-students-manage.md)
 - [psy214-week07-self-care-skills-to-prevent-burnout-a-pilot-study-embedding](../sources/psy214-week07-self-care-skills-to-prevent-burnout-a-pilot-study-embedding.md)
+- [psy214-week08-how-mindfulness-works-the-big-picture](../sources/psy214-week08-how-mindfulness-works-the-big-picture.md)
+- [psy214-week08-lesson-psy214-week08-week-10-introduction](../sources/psy214-week08-lesson-psy214-week08-week-10-introduction.md)
+- [psy214-week08-mechanisms-of-mindfulness](../sources/psy214-week08-mechanisms-of-mindfulness.md)
+- [psy214-week08-mindful-attitudes-slides-notes](../sources/psy214-week08-mindful-attitudes-slides-notes.md)
+- [psy214-week08-sitting-meditation-script](../sources/psy214-week08-sitting-meditation-script.md)

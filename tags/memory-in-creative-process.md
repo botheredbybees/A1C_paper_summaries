@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: memory-in-creative-process
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Memory In Creative Process

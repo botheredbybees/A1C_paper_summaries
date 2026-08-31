@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cost-effectiveness-in-healthcare
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Cost Effectiveness In Healthcare

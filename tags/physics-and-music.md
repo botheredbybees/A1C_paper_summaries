@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: physics-and-music
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Physics And Music

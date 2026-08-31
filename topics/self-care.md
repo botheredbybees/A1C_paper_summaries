@@ -10,11 +10,14 @@ sources:
   - psy214-week02-lesson-psy214-week02-multi-dimensional-models-of-well
   - psy214-week07-lesson-psy214-week07-71-module-overview
   - psy214-week07-lesson-psy214-week07-mindfulness-overview
+  - psy214-week08-lesson-psy214-week08-psychotherapies-which-incorporate
+  - psy214-week08-mindful-attitudes-full-page-slides
+  - psy214-week08-mindfulness-meditation-what-it-is-and-isnt
 tags:
 - self-care
 title: Self-Care for Caregivers
 type: topic
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Self-Care for Caregivers
@@ -40,3 +43,6 @@ The provided sources highlight the critical importance of self-care for individu
 - [psy214-week02-lesson-psy214-week02-multi-dimensional-models-of-well](../sources/psy214-week02-lesson-psy214-week02-multi-dimensional-models-of-well.md)
 - [psy214-week07-lesson-psy214-week07-71-module-overview](../sources/psy214-week07-lesson-psy214-week07-71-module-overview.md)
 - [psy214-week07-lesson-psy214-week07-mindfulness-overview](../sources/psy214-week07-lesson-psy214-week07-mindfulness-overview.md)
+- [psy214-week08-lesson-psy214-week08-psychotherapies-which-incorporate](../sources/psy214-week08-lesson-psy214-week08-psychotherapies-which-incorporate.md)
+- [psy214-week08-mindful-attitudes-full-page-slides](../sources/psy214-week08-mindful-attitudes-full-page-slides.md)
+- [psy214-week08-mindfulness-meditation-what-it-is-and-isnt](../sources/psy214-week08-mindfulness-meditation-what-it-is-and-isnt.md)

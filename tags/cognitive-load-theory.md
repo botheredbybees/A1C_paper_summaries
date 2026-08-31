@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-load-theory
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Cognitive Load Theory

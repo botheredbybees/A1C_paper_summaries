@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: open-tension-pneumothorax
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Open Tension Pneumothorax

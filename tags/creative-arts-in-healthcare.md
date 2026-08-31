@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-arts-in-healthcare
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Creative Arts In Healthcare

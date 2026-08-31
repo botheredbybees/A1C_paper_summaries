@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: semantic-and-episodic-memory
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Semantic And Episodic Memory

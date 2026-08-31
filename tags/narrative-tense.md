@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: narrative-tense
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Narrative Tense

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: investigacin-accin-educativa
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Investigacin Accin Educativa

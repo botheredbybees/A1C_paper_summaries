@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hypothesis-testing
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Hypothesis Testing

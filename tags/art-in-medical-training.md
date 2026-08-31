@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: art-in-medical-training
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Art In Medical Training

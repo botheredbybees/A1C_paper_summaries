@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: self-reported-benefits-of-creativity
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Self Reported Benefits Of Creativity

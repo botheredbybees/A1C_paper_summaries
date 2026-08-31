@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: memory-retention-impact
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Memory Retention Impact

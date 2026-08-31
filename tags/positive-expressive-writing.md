@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: positive-expressive-writing
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Positive Expressive Writing

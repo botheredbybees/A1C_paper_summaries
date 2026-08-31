@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuroscience-of-sleep
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Neuroscience Of Sleep

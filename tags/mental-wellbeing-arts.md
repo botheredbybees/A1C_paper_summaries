@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-wellbeing-arts
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Mental Wellbeing Arts

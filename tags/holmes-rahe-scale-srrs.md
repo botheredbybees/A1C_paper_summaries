@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: holmes-rahe-scale-srrs
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Holmes Rahe Scale Srrs

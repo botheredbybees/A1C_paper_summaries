@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: stress-coping-skills
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Stress Coping Skills

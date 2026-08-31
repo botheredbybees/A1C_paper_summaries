@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotional-regulation
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Emotional Regulation
@@ -24,3 +24,4 @@ updated: 2026-08-17
 - [Week 11 Overview - FXA303 Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week11-lesson-fxa303-week11-page-1-overview.md)
 - [Washing Dishes to Wash the Dishes: Brief Instruction in an Informal Mindfulness Practice](../sources/psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an.md)
 - [Positive Emotions as a Path to Well-being](../sources/psy214-week02-positive-emotions-as-a-path-to-well-being.md)
+- [Mechanisms of Mindfulness](../sources/psy214-week08-mechanisms-of-mindfulness.md)

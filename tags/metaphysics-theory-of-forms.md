@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: metaphysics-theory-of-forms
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Metaphysics Theory Of Forms

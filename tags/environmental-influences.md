@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: environmental-influences
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Environmental Influences

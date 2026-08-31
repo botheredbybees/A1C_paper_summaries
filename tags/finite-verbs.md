@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: finite-verbs
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Finite Verbs

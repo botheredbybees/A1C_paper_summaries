@@ -55,11 +55,14 @@ sources:
   - fxa303-week11-lesson-fxa303-week11-page-2
   - fxa303-week11-lesson-fxa303-week11-page-3
   - fxa303-week11-web-article-hardy-2019
+  - psy214-week08-body-scan-meditation-script
+  - psy214-week08-mindful-attitudes-full-page-slides
+  - psy214-week08-mindfulness-research-limitations-(2)
 tags:
 - creative-arts
 title: Music Interventions and Cognitive Health
 type: topic
-updated: 2026-08-10
+updated: 2026-08-31
 ---
 
 ## Music Interventions and Cognitive Health
@@ -129,3 +132,6 @@ The integration of findings from both sources highlights the multifaceted benefi
 - [fxa303-week11-lesson-fxa303-week11-page-2](../sources/fxa303-week11-lesson-fxa303-week11-page-2.md)
 - [fxa303-week11-lesson-fxa303-week11-page-3](../sources/fxa303-week11-lesson-fxa303-week11-page-3.md)
 - [fxa303-week11-web-article-hardy-2019](../sources/fxa303-week11-web-article-hardy-2019.md)
+- [psy214-week08-body-scan-meditation-script](../sources/psy214-week08-body-scan-meditation-script.md)
+- [psy214-week08-mindful-attitudes-full-page-slides](../sources/psy214-week08-mindful-attitudes-full-page-slides.md)
+- [psy214-week08-mindfulness-research-limitations-(2)](../sources/psy214-week08-mindfulness-research-limitations-%282%29.md)

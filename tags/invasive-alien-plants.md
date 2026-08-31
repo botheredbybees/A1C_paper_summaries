@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: invasive-alien-plants
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Invasive Alien Plants

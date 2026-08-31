@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: aging-narratives
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Aging Narratives

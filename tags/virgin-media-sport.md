@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: virgin-media-sport
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Virgin Media Sport

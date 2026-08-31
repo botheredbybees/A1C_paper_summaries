@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: artz-artists-for-alzheimer-s
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Artz Artists For Alzheimer S

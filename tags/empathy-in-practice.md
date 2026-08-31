@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: empathy-in-practice
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Empathy In Practice

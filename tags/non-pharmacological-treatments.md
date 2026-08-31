@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: non-pharmacological-treatments
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Non Pharmacological Treatments

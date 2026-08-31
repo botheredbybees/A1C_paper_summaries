@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: working-memory-interference
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Working Memory Interference

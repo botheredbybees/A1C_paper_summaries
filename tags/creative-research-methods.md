@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-research-methods
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Creative Research Methods

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: clinical-guidelines
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Clinical Guidelines

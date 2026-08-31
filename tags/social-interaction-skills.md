@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-interaction-skills
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Social Interaction Skills

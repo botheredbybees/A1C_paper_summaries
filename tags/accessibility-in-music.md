@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: accessibility-in-music
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Accessibility In Music

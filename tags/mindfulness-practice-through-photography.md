@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mindfulness-practice-through-photography
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Mindfulness Practice Through Photography

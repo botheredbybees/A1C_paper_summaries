@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: face-recognition
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Face Recognition

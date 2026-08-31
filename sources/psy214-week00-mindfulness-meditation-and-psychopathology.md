@@ -7,13 +7,15 @@ doi: https://doi.org/10.1146/annurev-clinpsy-021815-093423
 appearances:
   - unit: PSY214
     week: "00"
+  - unit: PSY214
+    week: "08"
 tags: ["mindfulness-meditation", "psychopathology", "clinical-neuroscience", "research-domain-criteria", "mental-health-interventions", "psy214", "research-domain-criteria-rdoc", "transdiagnostic-factors", "cultural-fit", "training-fidelity"]
 key_concepts: ["Research Domain Criteria (RDoC)", "transdiagnostic factors", "cultural fit", "training fidelity"]
 methods: ["systematic review"]
 slug: psy214-week00-mindfulness-meditation-and-psychopathology
-related: ["mental-health-interventions"]
+related: ["mental-health-interventions", "mindfulness-meditation"]
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-08-31
 ---
 
 _All claims sourced from ../raw/pdf/psy214-week00-mindfulness-meditation-and-psychopathology.md_
@@ -50,3 +52,4 @@ The central argument underscores MM's versatility in treating a wide range of co
 ## See Also
 
 - [mental-health-interventions](../topics/mental-health-interventions.md)
+- [mindfulness-meditation](../topics/mindfulness-meditation.md)

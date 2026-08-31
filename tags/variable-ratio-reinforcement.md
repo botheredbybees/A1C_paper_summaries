@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: variable-ratio-reinforcement
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Variable Ratio Reinforcement

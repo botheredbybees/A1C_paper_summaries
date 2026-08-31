@@ -11,7 +11,7 @@ tags: ["mindfulness", "schemas", "system-1-thinking", "system-2-thinking", "cogn
 key_concepts: ["schemas", "system 1 thinking", "system 2 thinking", "cognitive economy"]
 methods: []
 slug: psy214-week07-lesson-psy214-week07-western-mindfulness-overlaps-with
-related: ["mindfulness"]
+related: ["mindfulness", "schemas"]
 created: 2026-08-17
 updated: 2026-08-17
 ---
@@ -43,3 +43,4 @@ This lesson explores the concept of 'autopilot' in relation to mindfulness and h
 ## See Also
 
 - [mindfulness](../topics/mindfulness.md)
+- [schemas](../topics/schemas.md)

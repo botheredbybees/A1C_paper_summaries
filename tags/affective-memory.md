@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: affective-memory
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Affective Memory

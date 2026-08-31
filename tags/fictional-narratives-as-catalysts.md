@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: fictional-narratives-as-catalysts
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Fictional Narratives As Catalysts

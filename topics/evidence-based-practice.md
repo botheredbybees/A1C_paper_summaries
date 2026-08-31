@@ -8,11 +8,12 @@ sources:
   - fxa301-week01-assessing-confidence-in-what-works-in-social-policy
   - fxa301-week03-evidence-requirements-for-the-development-of-the-national
   - fxa303-week11-developing-creative-approaches-in-youth-justice-a-guide-for
+  - psy214-week08-lesson-psy214-week08-limitations-of-the-evidence-base
 tags:
 - evidence-based-practice
 title: Evidence-Based Practice in Music Therapy
 type: topic
-updated: 2026-08-07
+updated: 2026-08-31
 ---
 
 ## Evidence-Based Practice in Music Therapy
@@ -36,3 +37,4 @@ The integration of evidence-based practices into music therapy interventions for
 - [fxa301-week01-assessing-confidence-in-what-works-in-social-policy](../sources/fxa301-week01-assessing-confidence-in-what-works-in-social-policy.md)
 - [fxa301-week03-evidence-requirements-for-the-development-of-the-national](../sources/fxa301-week03-evidence-requirements-for-the-development-of-the-national.md)
 - [fxa303-week11-developing-creative-approaches-in-youth-justice-a-guide-for](../sources/fxa303-week11-developing-creative-approaches-in-youth-justice-a-guide-for.md)
+- [psy214-week08-lesson-psy214-week08-limitations-of-the-evidence-base](../sources/psy214-week08-lesson-psy214-week08-limitations-of-the-evidence-base.md)

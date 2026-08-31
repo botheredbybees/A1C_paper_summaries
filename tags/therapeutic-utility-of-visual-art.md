@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-utility-of-visual-art
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Therapeutic Utility Of Visual Art

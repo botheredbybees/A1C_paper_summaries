@@ -8,11 +8,12 @@ sources:
   - fxa303-week04-brief-report-emotion-regulation-in-autism-is-improved-in-a
   - fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves
   - fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)
+  - psy214-week08-mechanisms-of-mindfulness-(2)
 tags:
 - emotion-regulation
 title: Emotion Regulation in Autism
 type: topic
-updated: 2026-08-07
+updated: 2026-08-31
 ---
 
 ## Emotion Regulation in Autism
@@ -36,3 +37,4 @@ The provided sources explore the efficacy of an intervention combining Child-Cen
 - [fxa303-week04-brief-report-emotion-regulation-in-autism-is-improved-in-a](../sources/fxa303-week04-brief-report-emotion-regulation-in-autism-is-improved-in-a.md)
 - [fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves](../sources/fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves.md)
 - [fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-(2)](../sources/fxa303-week04-child-centred-play-therapy-and-rhythmic-relating-improves-%282%29.md)
+- [psy214-week08-mechanisms-of-mindfulness-(2)](../sources/psy214-week08-mechanisms-of-mindfulness-%282%29.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: puppet-play-therapy
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Puppet Play Therapy

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: information-processing-speed
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Information Processing Speed

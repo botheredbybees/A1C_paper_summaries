@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-arts
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Creative Arts
@@ -58,3 +58,6 @@ updated: 2026-08-17
 - [Creative Arts, Gender Diversity and Mental Wellbeing](../sources/fxa303-week11-lesson-fxa303-week11-page-2.md)
 - [Creative Arts and Disadvantaged Youth](../sources/fxa303-week11-lesson-fxa303-week11-page-3.md)
 - [Queering Queer Spaces: Journey of a Creative Arts Program for Trans, Non-Binary, and Gender Creative Youth](../sources/fxa303-week11-web-article-hardy-2019.md)
+- [Body Scan Meditation Script](../sources/psy214-week08-body-scan-meditation-script.md)
+- [Mindful Attitudes Full Page Slides](../sources/psy214-week08-mindful-attitudes-full-page-slides.md)
+- [Mindfulness research: Limitations](../sources/psy214-week08-mindfulness-research-limitations-%282%29.md)

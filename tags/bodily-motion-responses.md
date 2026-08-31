@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: bodily-motion-responses
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Bodily Motion Responses

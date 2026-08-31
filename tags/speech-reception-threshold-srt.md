@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: speech-reception-threshold-srt
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Speech Reception Threshold Srt

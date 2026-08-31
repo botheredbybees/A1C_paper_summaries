@@ -8,7 +8,8 @@ sources:
   - fxa300-week01-music-and-states-of-consciousness-a-narrative-review-of-the
   - fxa300-week03-environmental-and-mental-conditions-predicting-the
   - fxa300-week03-familiar-music-reduces-mind-wandering-and-boosts-behavioral
-updated: 2026-08-07
+  - psy214-week08-mindfulness-meditation-what-it-isnt-and-how-to-do-it
+updated: 2026-08-31
 ---
 
 ## Mind Wandering
@@ -30,3 +31,4 @@ The exploration of mind wandering reveals a nuanced interplay between environmen
 - [fxa300-week01-music-and-states-of-consciousness-a-narrative-review-of-the](../sources/fxa300-week01-music-and-states-of-consciousness-a-narrative-review-of-the.md)
 - [fxa300-week03-environmental-and-mental-conditions-predicting-the](../sources/fxa300-week03-environmental-and-mental-conditions-predicting-the.md)
 - [fxa300-week03-familiar-music-reduces-mind-wandering-and-boosts-behavioral](../sources/fxa300-week03-familiar-music-reduces-mind-wandering-and-boosts-behavioral.md)
+- [psy214-week08-mindfulness-meditation-what-it-isnt-and-how-to-do-it](../sources/psy214-week08-mindfulness-meditation-what-it-isnt-and-how-to-do-it.md)

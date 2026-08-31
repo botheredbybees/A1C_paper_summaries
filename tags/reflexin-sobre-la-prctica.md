@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: reflexin-sobre-la-prctica
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Reflexin Sobre La Prctica

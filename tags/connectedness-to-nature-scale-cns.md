@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: connectedness-to-nature-scale-cns
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Connectedness To Nature Scale Cns

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: evidence-based-practice
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Evidence Based Practice
@@ -11,3 +11,4 @@ updated: 2026-08-17
 - [Assessing Confidence in 'What Works' in Social Policy](../sources/fxa301-week01-assessing-confidence-in-what-works-in-social-policy.md)
 - [Evidence Requirements for the Development of the National Australian Arts and Health Framework](../sources/fxa301-week03-evidence-requirements-for-the-development-of-the-national.md)
 - [Developing Creative Approaches in Youth Justice: A Guide for Youth Justice Professionals](../sources/fxa303-week11-developing-creative-approaches-in-youth-justice-a-guide-for.md)
+- [Limitations of the Evidence Base for Mindfulness](../sources/psy214-week08-lesson-psy214-week08-limitations-of-the-evidence-base.md)
