@@ -8,7 +8,8 @@ sources:
   - fxa101-week05-creating-when-you-have-less-the-impact-of-resource-scarcity
   - fxa300-week01-play-that-one-again-the-effect-of-music-tempo-on-consumer
   - fxa300-week05-does-cultural-capital-structure-american-consumption
-updated: 2026-08-03
+  - fxa300-week08-music-business-and-health
+updated: 2026-08-31
 ---
 
 ## Consumer Behavior and Environmental Influences
@@ -29,3 +30,4 @@ The synthesis of these sources illuminates the significant influence of environm
 - [fxa101-week05-creating-when-you-have-less-the-impact-of-resource-scarcity](../sources/fxa101-week05-creating-when-you-have-less-the-impact-of-resource-scarcity.md)
 - [fxa300-week01-play-that-one-again-the-effect-of-music-tempo-on-consumer](../sources/fxa300-week01-play-that-one-again-the-effect-of-music-tempo-on-consumer.md)
 - [fxa300-week05-does-cultural-capital-structure-american-consumption](../sources/fxa300-week05-does-cultural-capital-structure-american-consumption.md)
+- [fxa300-week08-music-business-and-health](../sources/fxa300-week08-music-business-and-health.md)

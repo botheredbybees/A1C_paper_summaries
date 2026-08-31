@@ -8,6 +8,7 @@ sources:
   - fxa100-week07-art-and-dementia
   - fxa100-week11-dance-for-lifelong-wellbeing-research-findings-2017
   - fxa101-week00-crafting-wellbeing-exploring-the-link-between-textile-craft
+  - fxa300-week08-psychoneuroendocrine-research-on-music-and-health-an
   - fxa301-oxford-handbook-of-dance-and-wellbeing
   - fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1-(2)
   - fxa301-week03-arts-health-and-wellbeing-evidence-and-implications
@@ -19,7 +20,7 @@ tags:
 - wellbeing-research
 title: Music Therapy and Wellbeing
 type: topic
-updated: 2026-08-08
+updated: 2026-08-31
 ---
 
 ## Music Therapy and Wellbeing
@@ -43,6 +44,7 @@ Research into music therapy highlights its multifaceted benefits for enhancing w
 - [fxa100-week07-art-and-dementia](../sources/fxa100-week07-art-and-dementia.md)
 - [fxa100-week11-dance-for-lifelong-wellbeing-research-findings-2017](../sources/fxa100-week11-dance-for-lifelong-wellbeing-research-findings-2017.md)
 - [fxa101-week00-crafting-wellbeing-exploring-the-link-between-textile-craft](../sources/fxa101-week00-crafting-wellbeing-exploring-the-link-between-textile-craft.md)
+- [fxa300-week08-psychoneuroendocrine-research-on-music-and-health-an](../sources/fxa300-week08-psychoneuroendocrine-research-on-music-and-health-an.md)
 - [fxa301-oxford-handbook-of-dance-and-wellbeing](../sources/fxa301-oxford-handbook-of-dance-and-wellbeing.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1-%282%29.md)
 - [fxa301-week03-arts-health-and-wellbeing-evidence-and-implications](../sources/fxa301-week03-arts-health-and-wellbeing-evidence-and-implications.md)

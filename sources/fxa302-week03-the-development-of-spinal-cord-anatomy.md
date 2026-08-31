@@ -11,7 +11,7 @@ tags: ["spinal-cord-anatomy", "historical-development", "neuroanatomy-evolution"
 key_concepts: ["spinal-cord-function", "nerve-dissection", "Bell's-law"]
 methods: ["literature-review"]
 slug: fxa302-week03-the-development-of-spinal-cord-anatomy
-related: []
+related: ["historical-development"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -42,4 +42,4 @@ This paper traces the historical development of spinal cord anatomy from ancient
 
 ## See Also
 
-*(none yet)*
+- [historical-development](../topics/historical-development.md)

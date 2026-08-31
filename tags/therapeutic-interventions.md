@@ -10,6 +10,8 @@ updated: 2026-08-31
 - [The \u2018ripple effect\u2019: Towards researching improvisational music therapy in dementia care homes](../sources/fxa100-week04-the-ripple-effect-towards-researching-improvisational-music.md)
 - [Aspirational Ethics: Considerations for Art Therapy Practice in a Health-Care Setting for Adults With Dementia](../sources/fxa100-week08-aspirational-ethics-considerations-for-art-therapy-practice.md)
 - [Personhood Maintained](../sources/fxa100-week09-personhood-maintained.md)
+- [Music therapy interventions in Parkinson\u2019s disease: the state-of-the-art](../sources/fxa300-week08-music-therapy-interventions-in-parkinsons-disease-the-state.md)
+- [Sensory Stimulation and Music Therapy Programs for Treating Disorders of Consciousness](../sources/fxa300-week08-sensory-stimulation-and-music-therapy-programs-for-treating.md)
 - [Introduction to the field of creative arts, wellbeing, and health: achievements and current challenges](../sources/fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1.md)
 - [Editor\u2019s Introduction: Arts and Community Engagement: Intersect Music, Dance and Drama in Arts Education, Arts Therapy, and Arts Practice with Community Engagement Projects](../sources/fxa301-week01-editors-introduction-arts-and-community-engagement.md)
 - [The Use of Music Therapy in the Treatment of Mental Illness and the Enhancement of Societal Wellbeing](../sources/fxa301-week10-the-use-of-music-therapy-in-the-treatment-of-mental-illness.md)

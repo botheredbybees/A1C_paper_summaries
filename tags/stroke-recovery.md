@@ -8,4 +8,6 @@ updated: 2026-08-31
 
 - [Midnight Resurrections: Stroke Victims Learn to Move and Speak Again](../sources/fxa101-week02-midnight-resurrections-stroke-victims-learn-to-move-and.md)
 - [Revisiting the dissociation between singing and speaking in expressive aphasia](../sources/fxa300-week06-revisiting-the-dissociation-between-singing-and-speaking-in.md)
+- [From singing to speaking: facilitating recovery from nonfluent aphasia](../sources/fxa300-week08-from-singing-to-speaking-facilitating-recovery-from.md)
+- [Week 8 Activities: Music and Health](../sources/fxa300-week08-lesson-fxa300-week08-page-4-activities.md)
 - [Stroke Choirs | Stroke Recovery Association NSW](../sources/fxa301-week09-stroke-choirs-stroke-recovery-association-nsw.md)

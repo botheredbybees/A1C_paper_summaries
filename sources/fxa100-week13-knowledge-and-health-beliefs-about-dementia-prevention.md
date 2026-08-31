@@ -11,7 +11,7 @@ tags: ["cultural-factors", "dementia-prevention", "digital-technology-acceptance
 key_concepts: ["Health Belief Model", "traditional superstitions", "digital technology acceptance"]
 methods: ["qualitative study", "semi-structured interviews"]
 slug: fxa100-week13-knowledge-and-health-beliefs-about-dementia-prevention
-related: ["dementia-prevention", "older-adults", "qualitative-research"]
+related: ["cultural-factors", "dementia-prevention", "older-adults", "qualitative-research"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -42,6 +42,7 @@ This qualitative study explores the knowledge and health beliefs of Chinese olde
 
 ## See Also
 
+- [cultural-factors](../topics/cultural-factors.md)
 - [dementia-prevention](../topics/dementia-prevention.md)
 - [older-adults](../topics/older-adults.md)
 - [qualitative-research](../topics/qualitative-research.md)

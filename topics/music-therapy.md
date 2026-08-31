@@ -125,6 +125,18 @@ sources:
   - fxa300-week06-lesson-fxa300-week06-page-4-activities
   - fxa300-week06-preferred-music-listening-for-people-living-with-dementia
   - fxa300-week07-jazz-improvisation-creativity-and-brain-plasticity
+  - fxa300-week08-effects-of-music-on-agitation-in-dementia-a-meta-analysis
+  - fxa300-week08-effects-of-music-therapy-on-patients-with-dementiaa
+  - fxa300-week08-fxa300-sem-2-2026-week-8-lecture
+  - fxa300-week08-lesson-fxa300-week08-page-2
+  - fxa300-week08-lesson-fxa300-week08-page-3
+  - fxa300-week08-lesson-fxa300-week08-page-4-activities
+  - fxa300-week08-music-research-in-medicaldental-treatment-meta-analysis-and
+  - fxa300-week08-music-therapy-interventions-in-parkinsons-disease-the-state
+  - fxa300-week08-music-to-my-senses-functional-magnetic-resonance-imaging
+  - fxa300-week08-psychoneuroendocrine-research-on-music-and-health-an
+  - fxa300-week08-sensory-stimulation-and-music-therapy-programs-for-treating
+  - fxa300-week08-the-effects-of-music-intervention-in-the-management-of
   - fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the
   - fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music
   - fxa301-music-healt-and-wellbeing-ch05-10680-meymandi
@@ -169,7 +181,7 @@ tags:
 - music-therapy
 title: Music Therapy
 type: topic
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Music Therapy
@@ -310,6 +322,18 @@ The integration of music therapy across various neurological conditions undersco
 - [fxa300-week06-lesson-fxa300-week06-page-4-activities](../sources/fxa300-week06-lesson-fxa300-week06-page-4-activities.md)
 - [fxa300-week06-preferred-music-listening-for-people-living-with-dementia](../sources/fxa300-week06-preferred-music-listening-for-people-living-with-dementia.md)
 - [fxa300-week07-jazz-improvisation-creativity-and-brain-plasticity](../sources/fxa300-week07-jazz-improvisation-creativity-and-brain-plasticity.md)
+- [fxa300-week08-effects-of-music-on-agitation-in-dementia-a-meta-analysis](../sources/fxa300-week08-effects-of-music-on-agitation-in-dementia-a-meta-analysis.md)
+- [fxa300-week08-effects-of-music-therapy-on-patients-with-dementiaa](../sources/fxa300-week08-effects-of-music-therapy-on-patients-with-dementiaa.md)
+- [fxa300-week08-fxa300-sem-2-2026-week-8-lecture](../sources/fxa300-week08-fxa300-sem-2-2026-week-8-lecture.md)
+- [fxa300-week08-lesson-fxa300-week08-page-2](../sources/fxa300-week08-lesson-fxa300-week08-page-2.md)
+- [fxa300-week08-lesson-fxa300-week08-page-3](../sources/fxa300-week08-lesson-fxa300-week08-page-3.md)
+- [fxa300-week08-lesson-fxa300-week08-page-4-activities](../sources/fxa300-week08-lesson-fxa300-week08-page-4-activities.md)
+- [fxa300-week08-music-research-in-medicaldental-treatment-meta-analysis-and](../sources/fxa300-week08-music-research-in-medicaldental-treatment-meta-analysis-and.md)
+- [fxa300-week08-music-therapy-interventions-in-parkinsons-disease-the-state](../sources/fxa300-week08-music-therapy-interventions-in-parkinsons-disease-the-state.md)
+- [fxa300-week08-music-to-my-senses-functional-magnetic-resonance-imaging](../sources/fxa300-week08-music-to-my-senses-functional-magnetic-resonance-imaging.md)
+- [fxa300-week08-psychoneuroendocrine-research-on-music-and-health-an](../sources/fxa300-week08-psychoneuroendocrine-research-on-music-and-health-an.md)
+- [fxa300-week08-sensory-stimulation-and-music-therapy-programs-for-treating](../sources/fxa300-week08-sensory-stimulation-and-music-therapy-programs-for-treating.md)
+- [fxa300-week08-the-effects-of-music-intervention-in-the-management-of](../sources/fxa300-week08-the-effects-of-music-intervention-in-the-management-of.md)
 - [fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the](../sources/fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the.md)
 - [fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music](../sources/fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music.md)
 - [fxa301-music-healt-and-wellbeing-ch05-10680-meymandi](../sources/fxa301-music-healt-and-wellbeing-ch05-10680-meymandi.md)

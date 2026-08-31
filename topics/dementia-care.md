@@ -257,6 +257,8 @@ sources:
   - fxa300-week06-in-home-online-music-based-intervention-for-stress-coping
   - fxa300-week06-preferred-music-listening-for-people-living-with-dementia
   - fxa300-week06-statistical-analysis-plan-for-home-based-caregiver
+  - fxa300-week08-effects-of-music-on-agitation-in-dementia-a-meta-analysis
+  - fxa300-week08-effects-of-music-therapy-on-patients-with-dementiaa
   - fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment
   - fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1
   - fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2
@@ -290,7 +292,7 @@ tags:
 - dementia-care
 title: Dementia Care Interventions
 type: topic
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Dementia Care Interventions
@@ -563,6 +565,8 @@ The integration of creative arts and technology in dementia care reveals diverse
 - [fxa300-week06-in-home-online-music-based-intervention-for-stress-coping](../sources/fxa300-week06-in-home-online-music-based-intervention-for-stress-coping.md)
 - [fxa300-week06-preferred-music-listening-for-people-living-with-dementia](../sources/fxa300-week06-preferred-music-listening-for-people-living-with-dementia.md)
 - [fxa300-week06-statistical-analysis-plan-for-home-based-caregiver](../sources/fxa300-week06-statistical-analysis-plan-for-home-based-caregiver.md)
+- [fxa300-week08-effects-of-music-on-agitation-in-dementia-a-meta-analysis](../sources/fxa300-week08-effects-of-music-on-agitation-in-dementia-a-meta-analysis.md)
+- [fxa300-week08-effects-of-music-therapy-on-patients-with-dementiaa](../sources/fxa300-week08-effects-of-music-therapy-on-patients-with-dementiaa.md)
 - [fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment.md)
 - [fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1](../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1.md)
 - [fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2](../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2.md)

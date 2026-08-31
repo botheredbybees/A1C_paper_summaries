@@ -4,6 +4,7 @@ domain: intervention
 slug: integrating-art-and-play-in-healthcare-settings
 sources:
   - fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-(2)
+  - fxa300-week08-lesson-fxa300-week08-page-2
   - fxa301-arts-in-health-ch44-1-the-artist
   - fxa301-week10-the-use-of-arts-interventions-for-mental-health-and
   - fxa303-week08-therapeutic-clowning
@@ -11,7 +12,7 @@ tags:
 - healthcare-settings
 title: Integrating Art and Play in Healthcare Settings
 type: topic
-updated: 2026-08-07
+updated: 2026-08-31
 ---
 
 ## Integrating Art and Play in Healthcare Settings
@@ -31,6 +32,7 @@ The integration of non-traditional interventions such as museum collections and 
 ## Sources
 
 - [fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-(2)](../sources/fxa100-week07-heritage-in-health-a-guide-to-using-museum-collections-in-%282%29.md)
+- [fxa300-week08-lesson-fxa300-week08-page-2](../sources/fxa300-week08-lesson-fxa300-week08-page-2.md)
 - [fxa301-arts-in-health-ch44-1-the-artist](../sources/fxa301-arts-in-health-ch44-1-the-artist.md)
 - [fxa301-week10-the-use-of-arts-interventions-for-mental-health-and](../sources/fxa301-week10-the-use-of-arts-interventions-for-mental-health-and.md)
 - [fxa303-week08-therapeutic-clowning](../sources/fxa303-week08-therapeutic-clowning.md)

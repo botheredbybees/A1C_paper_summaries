@@ -26,6 +26,7 @@ sources:
   - fxa300-week07-brain-morphometry-shows-effects-of-long-term-musical
   - fxa300-week07-its-never-too-late-to-be-a-late-bloomer
   - fxa300-week07-jazz-improvisation-creativity-and-brain-plasticity
+  - fxa300-week08-from-singing-to-speaking-facilitating-recovery-from
   - fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians
   - fxa303-week02-infancy-and-the-early-years
   - fxa303-week03-adolescence-as-a-sensitive-period-of-brain-development
@@ -35,7 +36,7 @@ sources:
   - fxa303-week03-week-3-overview-fxa303-creative-arts-play-and-mental
   - fxa303-week04-effectiveness-of-music-therapy-for-children-with-autism
   - psy214-week06-the-effects-of-acute-exercise-on-mood-cognition
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Brain Plasticity
@@ -75,6 +76,7 @@ Research into brain plasticity reveals its profound influence on various cogniti
 - [fxa300-week07-brain-morphometry-shows-effects-of-long-term-musical](../sources/fxa300-week07-brain-morphometry-shows-effects-of-long-term-musical.md)
 - [fxa300-week07-its-never-too-late-to-be-a-late-bloomer](../sources/fxa300-week07-its-never-too-late-to-be-a-late-bloomer.md)
 - [fxa300-week07-jazz-improvisation-creativity-and-brain-plasticity](../sources/fxa300-week07-jazz-improvisation-creativity-and-brain-plasticity.md)
+- [fxa300-week08-from-singing-to-speaking-facilitating-recovery-from](../sources/fxa300-week08-from-singing-to-speaking-facilitating-recovery-from.md)
 - [fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians](../sources/fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians.md)
 - [fxa303-week02-infancy-and-the-early-years](../sources/fxa303-week02-infancy-and-the-early-years.md)
 - [fxa303-week03-adolescence-as-a-sensitive-period-of-brain-development](../sources/fxa303-week03-adolescence-as-a-sensitive-period-of-brain-development.md)

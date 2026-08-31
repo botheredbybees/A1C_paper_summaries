@@ -23,6 +23,7 @@ updated: 2026-08-31
 - [Cognitive and memory training in adults at risk of dementia: A Systematic Review](../sources/fxa101-week04-cognitive-and-memory-training-in-adults-at-risk-of-dementia.md)
 - [Late-life Cognitive Activity and Dementia: A Systematic Review and Bias Analysis](../sources/fxa101-week04-late-life-cognitive-activity-and-dementia-a-systematic.md)
 - [Therapeutic benefits and limitations of participatory photography for adults with mental health problems: A systematic search and literature review](../sources/fxa202-week13-therapeutic-benefits-and-limitations-of-participatory.md)
+- [Effects of Music Therapy on Patients with Dementia\u2014A Systematic Review](../sources/fxa300-week08-effects-of-music-therapy-on-patients-with-dementiaa.md)
 - [Rating the Quality of a Body of Evidence on the Effectiveness of Health and Social Interventions: A Systematic Review and Mapping of Evidence Domains](../sources/fxa301-week01-rating-the-quality-of-a-body-of-evidence-on-the.md)
 - [Revised Cochrane risk of bias tool for randomized trials (RoB 2) \u2014 Additional considerations for crossover trials](../sources/fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-%282%29.md)
 - [ROB-ME: a tool for assessing risk of bias due to missing evidence in systematic reviews with meta-analysis](../sources/fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing.md)

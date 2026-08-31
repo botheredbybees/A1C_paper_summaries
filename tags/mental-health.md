@@ -29,6 +29,7 @@ updated: 2026-08-31
 - [Therapeutic benefits and limitations of participatory photography for adults with mental health problems: A systematic search and literature review](../sources/fxa202-week13-therapeutic-benefits-and-limitations-of-participatory.md)
 - [Music and Mind: Harnessing the Arts for Health and Wellness](../sources/fxa300-week02-music-and-mind-harnessing-the-arts-for-health-and-wellness.md)
 - [Book Reviews](../sources/fxa300-week06-book-reviews.md)
+- [FXA300 Sem 2 2026 - Week 8 Lecture](../sources/fxa300-week08-fxa300-sem-2-2026-week-8-lecture.md)
 - [The Oxford Handbook of Dance and Wellbeing](../sources/fxa301-oxford-handbook-of-dance-and-wellbeing.md)
 - [Mental Health and Wellbeing across the Life Course - Extract](../sources/fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract.md)
 - [Art as Therapy](../sources/fxa301-week05-art-as-therapy.md)

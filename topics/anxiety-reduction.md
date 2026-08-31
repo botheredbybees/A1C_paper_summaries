@@ -4,6 +4,7 @@ domain: intervention
 slug: anxiety-reduction-through-puppet-play-therapy
 sources:
   - fxa202-week03-critical-reflection-on-present-mindedness-and-mindfulness
+  - fxa300-week08-the-effects-of-music-intervention-in-the-management-of
   - fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy
   - fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic
   - fxa303-week13-a-meta-analysis-of-randomized-controlled-trials-of-laughter
@@ -12,7 +13,7 @@ tags:
 - anxiety-reduction
 title: Anxiety Reduction Through Puppet Play Therapy
 type: topic
-updated: 2026-08-07
+updated: 2026-08-31
 ---
 
 ## Anxiety Reduction Through Puppet Play Therapy
@@ -32,6 +33,7 @@ Puppet play therapy emerges as a versatile intervention for anxiety reduction in
 ## Sources
 
 - [fxa202-week03-critical-reflection-on-present-mindedness-and-mindfulness](../sources/fxa202-week03-critical-reflection-on-present-mindedness-and-mindfulness.md)
+- [fxa300-week08-the-effects-of-music-intervention-in-the-management-of](../sources/fxa300-week08-the-effects-of-music-intervention-in-the-management-of.md)
 - [fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy](../sources/fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy.md)
 - [fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic](../sources/fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic.md)
 - [fxa303-week13-a-meta-analysis-of-randomized-controlled-trials-of-laughter](../sources/fxa303-week13-a-meta-analysis-of-randomized-controlled-trials-of-laughter.md)

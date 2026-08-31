@@ -6,8 +6,10 @@ confidence: medium
 tags: ["social-psychology"]
 sources:
   - fxa300-week01-empathy-an-integrative-model
+  - fxa300-week08-musical-development-and-education
+  - fxa300-week08-problem-music-and-subcultures
   - psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the
-updated: 2026-07-06
+updated: 2026-08-31
 ---
 
 ## Empathy and Prosocial Behavior
@@ -26,4 +28,6 @@ The integrative model of empathy posits that empathetic responses are regulated 
 ## Sources
 
 - [fxa300-week01-empathy-an-integrative-model](../sources/fxa300-week01-empathy-an-integrative-model.md)
+- [fxa300-week08-musical-development-and-education](../sources/fxa300-week08-musical-development-and-education.md)
+- [fxa300-week08-problem-music-and-subcultures](../sources/fxa300-week08-problem-music-and-subcultures.md)
 - [psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the](../sources/psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the.md)

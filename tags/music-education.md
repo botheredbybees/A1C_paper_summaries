@@ -19,6 +19,8 @@ updated: 2026-08-31
 - [Music Training Improves Verbal but Not Visual Memory: Cross-Sectional and Longitudinal Explorations in Children](../sources/fxa300-week03-music-training-improves-verbal-but-not-visual-memory-cross.md)
 - [A Proposed Glossary for Use in Affective Response Literature in Music](../sources/fxa300-week05-a-proposed-glossary-for-use-in-affective-response.md)
 - [The Effect of Instrumental Music Participation and Socioeconomic Status on Ohio Fourth-, Sixth-, and Ninth-Grade Proficiency Test Performance](../sources/fxa300-week06-the-effect-of-instrumental-music-participation-and.md)
+- [Concluding Remarks](../sources/fxa300-week08-concluding-remarks.md)
+- [Musical development and education](../sources/fxa300-week08-musical-development-and-education.md)
 - [Culture of Inquiry](../sources/fxa301-week01-culture-of-inquiry.md)
 - [An education in music makes you a better employee. Are recruiters in tune?](../sources/fxa301-week05-an-education-in-music-makes-you-a-better-employee-are.md)
 - [Fading Notes: Music Education for the Next Generation of Primary Teachers](../sources/fxa301-week05-fading-notes-music-education-for-the-next-generation-of.md)

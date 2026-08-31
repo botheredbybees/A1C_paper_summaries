@@ -27,6 +27,7 @@ updated: 2026-08-31
 - [Brain morphometry shows effects of long-term musical practice in middle-aged keyboard players](../sources/fxa300-week07-brain-morphometry-shows-effects-of-long-term-musical.md)
 - [It\u2019s never too late to be a late bloomer](../sources/fxa300-week07-its-never-too-late-to-be-a-late-bloomer.md)
 - [Jazz Improvisation, Creativity, and Brain Plasticity](../sources/fxa300-week07-jazz-improvisation-creativity-and-brain-plasticity.md)
+- [From singing to speaking: facilitating recovery from nonfluent aphasia](../sources/fxa300-week08-from-singing-to-speaking-facilitating-recovery-from.md)
 - [Brain Structures Differ between Musicians and Non-Musicians](../sources/fxa301-week05-brain-structures-differ-between-musicians-and-non-musicians.md)
 - [Infancy and the early years](../sources/fxa303-week02-infancy-and-the-early-years.md)
 - [Adolescence as a Sensitive Period of Brain Development](../sources/fxa303-week03-adolescence-as-a-sensitive-period-of-brain-development.md)

@@ -25,6 +25,7 @@ updated: 2026-08-31
 - [Enrichment Effects on Adult Cognitive Development: Can the Functional Capacity of Older Adults Be Preserved and Enhanced?](../sources/fxa101-week04-enrichment-effects-on-adult-cognitive-development-can-the.md)
 - [FXA101 Creativity and Ageing Week 4 Introduction](../sources/fxa101-week04-lesson-fxa101-week04-page-1-introduction-to-week-4.md)
 - [Broca\u2019s Area Supports Enhanced Visuospatial Cognition in Orchestral Musicians](../sources/fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in.md)
+- [Sensory Stimulation and Music Therapy Programs for Treating Disorders of Consciousness](../sources/fxa300-week08-sensory-stimulation-and-music-therapy-programs-for-treating.md)
 - [Activation of Primary Visual Cortex by Braille Reading in Blind Subjects](../sources/fxa301-week11-activation-of-primary-visual-cortex-by-braille-reading-in.md)
 - [Multimodal MR-imaging reveals large-scale structural and functional connectivity changes in profound early blindness](../sources/fxa302-week06-multimodal-mr-imaging-reveals-large-scale-structural-and.md)
 - [Child Development - FXA303 Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week02-child-development-fxa303-creative-arts-play-and-mental.md)

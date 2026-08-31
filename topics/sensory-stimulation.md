@@ -5,12 +5,13 @@ slug: sensory-stimulation
 sources:
   - fxa100-week12-in-the-moment-with-music-an-exploration-of-the-embodied-and
   - fxa101-week00-a-multisensory-mindfulness-experience-exploring-the
+  - fxa300-week08-sensory-stimulation-and-music-therapy-programs-for-treating
   - fxa303-week13-remembering-yesterday-caring-today-reminiscence-in-dementia
 tags:
 - sensory-stimulation
 title: Sensory Stimulation
 type: topic
-updated: 2026-08-08
+updated: 2026-08-31
 ---
 
 ## Sensory Stimulation
@@ -31,4 +32,5 @@ The integration of sensory stimulation in interventions for individuals with dem
 
 - [fxa100-week12-in-the-moment-with-music-an-exploration-of-the-embodied-and](../sources/fxa100-week12-in-the-moment-with-music-an-exploration-of-the-embodied-and.md)
 - [fxa101-week00-a-multisensory-mindfulness-experience-exploring-the](../sources/fxa101-week00-a-multisensory-mindfulness-experience-exploring-the.md)
+- [fxa300-week08-sensory-stimulation-and-music-therapy-programs-for-treating](../sources/fxa300-week08-sensory-stimulation-and-music-therapy-programs-for-treating.md)
 - [fxa303-week13-remembering-yesterday-caring-today-reminiscence-in-dementia](../sources/fxa303-week13-remembering-yesterday-caring-today-reminiscence-in-dementia.md)

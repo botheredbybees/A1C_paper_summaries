@@ -14,6 +14,7 @@ updated: 2026-08-31
 - [Impact of dance interventions on the symptoms of dementia: A mixed-methods systematic review](../sources/fxa100-week13-impact-of-dance-interventions-on-the-symptoms-of-dementia-a.md)
 - [Non-pharmacological Interventions to Reduce Behavioral and Psychological Symptoms of Dementia](../sources/fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and.md)
 - [Statistical analysis plan for HOME-based caregiver-delivered music intervention for people living with dementia (HOMESIDE) trial](../sources/fxa300-week06-statistical-analysis-plan-for-home-based-caregiver.md)
+- [Effects of Music Therapy on Patients with Dementia\u2014A Systematic Review](../sources/fxa300-week08-effects-of-music-therapy-on-patients-with-dementiaa.md)
 - [Elder-Clowning in Long-Term Dementia Care: Results of a Pilot Study](../sources/fxa303-week08-elder-clowning-in-long-term-dementia-care-results-of-a.md)
 - [Causes of nursing home placement for older people with dementia: a systematic review and meta-analysis](../sources/fxa303-week13-causes-of-nursing-home-placement-for-older-people-with.md)
 - [Intervention of companion clowns in a special care unit: a 1-year pilot study](../sources/fxa303-week13-intervention-of-companion-clowns-in-a-special-care-unit-a-1.md)

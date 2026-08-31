@@ -18,12 +18,13 @@ sources:
   - fxa101-week02-building-herself-a-better-brain-a-woman-labeled-retarded
   - fxa101-week04-the-use-of-commercial-computerised-cognitive-games-in-older
   - fxa101-week04-web-article-gates-2010
+  - fxa300-week08-effects-of-music-therapy-on-patients-with-dementiaa
   - psy214-week06-the-effects-of-acute-exercise-on-mood-cognition
 tags:
 - cognitive-function
 title: Cognitive Function Enhancement Through Lifestyle Factors
 type: topic
-updated: 2026-08-10
+updated: 2026-08-31
 ---
 
 ## Cognitive Function Enhancement Through Lifestyle Factors
@@ -57,4 +58,5 @@ The integration of lifestyle factors such as diet, physical activity, and sleep 
 - [fxa101-week02-building-herself-a-better-brain-a-woman-labeled-retarded](../sources/fxa101-week02-building-herself-a-better-brain-a-woman-labeled-retarded.md)
 - [fxa101-week04-the-use-of-commercial-computerised-cognitive-games-in-older](../sources/fxa101-week04-the-use-of-commercial-computerised-cognitive-games-in-older.md)
 - [fxa101-week04-web-article-gates-2010](../sources/fxa101-week04-web-article-gates-2010.md)
+- [fxa300-week08-effects-of-music-therapy-on-patients-with-dementiaa](../sources/fxa300-week08-effects-of-music-therapy-on-patients-with-dementiaa.md)
 - [psy214-week06-the-effects-of-acute-exercise-on-mood-cognition](../sources/psy214-week06-the-effects-of-acute-exercise-on-mood-cognition.md)

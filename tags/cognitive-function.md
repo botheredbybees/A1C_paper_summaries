@@ -21,4 +21,5 @@ updated: 2026-08-31
 - [Building Herself a Better Brain: A Woman Labeled \u201cRetarded\u201d Discovers How to Heal Herself](../sources/fxa101-week02-building-herself-a-better-brain-a-woman-labeled-retarded.md)
 - [The use of commercial computerised cognitive games in older adults: a meta-analysis](../sources/fxa101-week04-the-use-of-commercial-computerised-cognitive-games-in-older.md)
 - [Cognitive Exercise and Its Role in Cognitive Function in Older Adults](../sources/fxa101-week04-web-article-gates-2010.md)
+- [Effects of Music Therapy on Patients with Dementia\u2014A Systematic Review](../sources/fxa300-week08-effects-of-music-therapy-on-patients-with-dementiaa.md)
 - [The Effects of Acute Exercise on Mood, Cognition, Neurophysiology, and Neurochemical Pathways: A Review](../sources/psy214-week06-the-effects-of-acute-exercise-on-mood-cognition.md)

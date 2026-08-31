@@ -31,6 +31,7 @@ updated: 2026-08-31
 - [Week 8 Lecture Notes: Editing Your Images](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images.md)
 - [Healing Through Art and Music](../sources/fxa202-week09-healing-through-art-and-music.md)
 - [Completing Your Photo Essay](../sources/fxa202-week10-lesson-fxa202-week10-page-4.md)
+- [FXA300 Sem 2 2026 - Week 8 Lecture](../sources/fxa300-week08-fxa300-sem-2-2026-week-8-lecture.md)
 - [Art for better health and wellbeing](../sources/fxa301-week03-art-for-better-health-and-wellbeing.md)
 - [Art as Therapy](../sources/fxa301-week05-art-as-therapy.md)
 - [Arts Gymnasium Goes Digital](../sources/fxa301-week08-arts-gymnasium-goes-digital.md)

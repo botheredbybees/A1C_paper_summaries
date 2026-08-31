@@ -11,7 +11,7 @@ tags: ["bourdieu-theory", "music-consumption", "social-class-analysis", "cultura
 key_concepts: ["pierre-bourdieu", "cultural-capital", "class-in-equality"]
 methods: ["critical-assessment"]
 slug: fxa300-week05-bourdieu-and-the-sociology-of-music-consumption
-related: ["cultural-capital"]
+related: ["cultural-capital", "music-consumption"]
 created: 2026-08-03
 updated: 2026-08-03
 ---
@@ -45,3 +45,4 @@ Nick Prior’s paper critically assesses the influence of Pierre Bourdieu on the
 ## See Also
 
 - [cultural-capital](../topics/cultural-capital.md)
+- [music-consumption](../topics/music-consumption.md)

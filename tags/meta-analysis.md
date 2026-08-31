@@ -15,6 +15,8 @@ updated: 2026-08-31
 - [Examining the relationship between creativity and innovation: A meta-analysis of organizational, cultural, and environmental factors](../sources/fxa101-week06-examining-the-relationship-between-creativity-and.md)
 - [The Relationship Between Stressors and Creativity: A Meta-Analysis Examining Competing Theoretical Models](../sources/fxa101-week06-the-relationship-between-stressors-and-creativity-a-meta.md)
 - [A Meta-Analysis of the Effects of Transcranial Direct Current Stimulation on Creative Thinking](../sources/fxa300-week07-a-meta-analysis-of-the-effects-of-transcranial-direct.md)
+- [Effects of Music on Agitation in Dementia: A Meta-Analysis](../sources/fxa300-week08-effects-of-music-on-agitation-in-dementia-a-meta-analysis.md)
+- [Music Research in Medical/Dental Treatment: Meta-Analysis and Clinical Applications](../sources/fxa300-week08-music-research-in-medicaldental-treatment-meta-analysis-and.md)
 - [ROB-ME: a tool for assessing risk of bias due to missing evidence in systematic reviews with meta-analysis](../sources/fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing.md)
 - [The rationale for rating risk of bias should be fully reported](../sources/fxa301-week01-the-rationale-for-rating-risk-of-bias-should-be-fully.md)
 - [Effectiveness of Dance Interventions for Falls Prevention in Older Adults: Systematic Review and Meta-analysis](../sources/fxa301-week06-effectiveness-of-dance-interventions-for-falls-prevention.md)

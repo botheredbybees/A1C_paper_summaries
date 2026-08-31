@@ -11,12 +11,13 @@ sources:
   - fxa100-week12-creative-art-therapy-as-a-non-pharmacological-intervention
   - fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and
   - fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in
+  - fxa300-week08-effects-of-music-on-agitation-in-dementia-a-meta-analysis
   - fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic
   - fxa303-week13-a-systematic-review-of-non-pharmacological-interventions
   - fxa303-week13-neuropsychiatric-disorders-correction-in-alzheimers-disease
   - fxa303-week13-non-pharmacological-interventions-for-agitation-in-dementia
   - fxa303-week13-rethinking-musicality-in-dementia-as-embodied-and-relational
-updated: 2026-08-07
+updated: 2026-08-31
 ---
 
 ## Cognitive Stimulation Therapy
@@ -41,6 +42,7 @@ Cognitive stimulation therapy (CST) is a non-pharmacological intervention design
 - [fxa100-week12-creative-art-therapy-as-a-non-pharmacological-intervention](../sources/fxa100-week12-creative-art-therapy-as-a-non-pharmacological-intervention.md)
 - [fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and](../sources/fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and.md)
 - [fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in](../sources/fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in.md)
+- [fxa300-week08-effects-of-music-on-agitation-in-dementia-a-meta-analysis](../sources/fxa300-week08-effects-of-music-on-agitation-in-dementia-a-meta-analysis.md)
 - [fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic](../sources/fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic.md)
 - [fxa303-week13-a-systematic-review-of-non-pharmacological-interventions](../sources/fxa303-week13-a-systematic-review-of-non-pharmacological-interventions.md)
 - [fxa303-week13-neuropsychiatric-disorders-correction-in-alzheimers-disease](../sources/fxa303-week13-neuropsychiatric-disorders-correction-in-alzheimers-disease.md)

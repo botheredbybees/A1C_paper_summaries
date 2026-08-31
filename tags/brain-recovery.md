@@ -8,3 +8,4 @@ updated: 2026-08-31
 
 - [Daniel Levitin Explores Music as Medicine in \u201cI Heard There Was a Secret Chord\u201d \u2013 Video transcript](../sources/fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there.md)
 - [Music as Medicine: Healing Power of Music](../sources/fxa100-week02-transcript-duration-631.md)
+- [Sensory Stimulation and Music Therapy Programs for Treating Disorders of Consciousness](../sources/fxa300-week08-sensory-stimulation-and-music-therapy-programs-for-treating.md)

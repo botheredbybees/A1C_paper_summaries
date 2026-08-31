@@ -7,7 +7,8 @@ tags: ["patient-rehabilitation"]
 sources:
   - fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees
   - fxa101-week00-poetry-and-well-being-a-pilot-programme-to-evaluate-the
-updated: 2026-08-08
+  - fxa300-week08-lesson-fxa300-week08-page-4-activities
+updated: 2026-08-31
 ---
 
 ## Patient Rehabilitation Through Creative Interventions
@@ -27,3 +28,4 @@ The provided sources highlight the role of creative interventions in patient reh
 
 - [fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees](../sources/fxa100-week04-music-therapy-comforts-soothes-those-with-varying-degrees.md)
 - [fxa101-week00-poetry-and-well-being-a-pilot-programme-to-evaluate-the](../sources/fxa101-week00-poetry-and-well-being-a-pilot-programme-to-evaluate-the.md)
+- [fxa300-week08-lesson-fxa300-week08-page-4-activities](../sources/fxa300-week08-lesson-fxa300-week08-page-4-activities.md)

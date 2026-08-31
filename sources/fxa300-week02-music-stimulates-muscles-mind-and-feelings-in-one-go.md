@@ -11,7 +11,7 @@ tags: ["rhythmic-auditory-stimulation", "parkinsons-disease", "gait-training", "
 key_concepts: ["rhythmic auditory stimulation (RAS)", "motor functions", "cognitive and emotional aspects"]
 methods: ["case study", "systematic review"]
 slug: fxa300-week02-music-stimulates-muscles-mind-and-feelings-in-one-go
-related: ["gait-training", "music-therapy", "parkinsons-disease", "therapeutic-benefits"]
+related: ["gait-training", "music-therapy", "parkinsons-disease", "rhythmic-auditory-stimulation-ras", "therapeutic-benefits"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -48,4 +48,5 @@ This opinion piece discusses the application of rhythmic auditory stimulation (R
 - [gait-training](../topics/gait-training.md)
 - [music-therapy](../topics/music-therapy.md)
 - [parkinsons-disease](../topics/parkinsons-disease.md)
+- [rhythmic-auditory-stimulation-ras](../topics/rhythmic-auditory-stimulation-ras.md)
 - [therapeutic-benefits](../topics/therapeutic-benefits.md)

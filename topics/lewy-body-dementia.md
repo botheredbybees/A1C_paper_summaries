@@ -8,8 +8,9 @@ sources:
   - fxa100-week01-the-science-of-lewy-body-dementia-video-transcript
   - fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care
   - fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video-(3)
+  - fxa300-week08-music-therapy-interventions-in-parkinsons-disease-the-state
   - fxa303-week13-behavioral-and-psychological-symptoms-of-dementia
-updated: 2026-08-07
+updated: 2026-08-31
 ---
 
 ## Lewy Body Dementia
@@ -31,4 +32,5 @@ Research on Lewy body dementia focuses primarily on understanding the neurobiolo
 - [fxa100-week01-the-science-of-lewy-body-dementia-video-transcript](../sources/fxa100-week01-the-science-of-lewy-body-dementia-video-transcript.md)
 - [fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care](../sources/fxa100-week02-activities-for-week-2-fxa100-the-arts-and-dementia-care.md)
 - [fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video-(3)](../sources/fxa100-week03-the-music-of-memory-victoria-williamson-tedmed-video-%283%29.md)
+- [fxa300-week08-music-therapy-interventions-in-parkinsons-disease-the-state](../sources/fxa300-week08-music-therapy-interventions-in-parkinsons-disease-the-state.md)
 - [fxa303-week13-behavioral-and-psychological-symptoms-of-dementia](../sources/fxa303-week13-behavioral-and-psychological-symptoms-of-dementia.md)

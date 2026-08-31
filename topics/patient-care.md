@@ -5,6 +5,7 @@ slug: art-therapy-in-patient-care
 sources:
   - fxa100-week11-moving-from-problem-to-potential-dance-and-wellness-in-us
   - fxa100-week13-behavioral-and-psychological-signs-and-symptoms-of-dementia
+  - fxa300-week08-the-effects-of-music-intervention-in-the-management-of
   - fxa301-week03-art-for-better-health-and-wellbeing
   - fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our
   - fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple
@@ -18,7 +19,7 @@ tags:
 - patient-care
 title: Art Therapy in Patient Care
 type: topic
-updated: 2026-08-07
+updated: 2026-08-31
 ---
 
 ## Art Therapy in Patient Care
@@ -39,6 +40,7 @@ The integration of art therapy into patient care emerges as a multifaceted inter
 
 - [fxa100-week11-moving-from-problem-to-potential-dance-and-wellness-in-us](../sources/fxa100-week11-moving-from-problem-to-potential-dance-and-wellness-in-us.md)
 - [fxa100-week13-behavioral-and-psychological-signs-and-symptoms-of-dementia](../sources/fxa100-week13-behavioral-and-psychological-signs-and-symptoms-of-dementia.md)
+- [fxa300-week08-the-effects-of-music-intervention-in-the-management-of](../sources/fxa300-week08-the-effects-of-music-intervention-in-the-management-of.md)
 - [fxa301-week03-art-for-better-health-and-wellbeing](../sources/fxa301-week03-art-for-better-health-and-wellbeing.md)
 - [fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our](../sources/fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our.md)
 - [fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple](../sources/fxa301-week09-therapeutic-use-of-the-arts-for-patients-with-multiple.md)

@@ -6,6 +6,7 @@ sources:
   - fxa100-week04-what-is-music-health-and-wellbeing
   - fxa101-week00-a-systematic-review-of-arts-based-interventions-delivered
   - fxa202-week03-lecture-transcript-week-3-the-photo-essay
+  - fxa300-week08-lesson-fxa300-week08-page-4-activities
   - fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental
   - psy214-week01-lesson-psy214-week01-stress-as-a-psychological-process
   - psy214-week02-positive-emotions-and-well-being
@@ -13,7 +14,7 @@ tags:
 - health-psychology
 title: Music and Health Interventions
 type: topic
-updated: 2026-08-08
+updated: 2026-08-31
 ---
 
 ## Music and Health Interventions
@@ -35,6 +36,7 @@ The integration of music in health interventions highlights its therapeutic pote
 - [fxa100-week04-what-is-music-health-and-wellbeing](../sources/fxa100-week04-what-is-music-health-and-wellbeing.md)
 - [fxa101-week00-a-systematic-review-of-arts-based-interventions-delivered](../sources/fxa101-week00-a-systematic-review-of-arts-based-interventions-delivered.md)
 - [fxa202-week03-lecture-transcript-week-3-the-photo-essay](../sources/fxa202-week03-lecture-transcript-week-3-the-photo-essay.md)
+- [fxa300-week08-lesson-fxa300-week08-page-4-activities](../sources/fxa300-week08-lesson-fxa300-week08-page-4-activities.md)
 - [fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental](../sources/fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental.md)
 - [psy214-week01-lesson-psy214-week01-stress-as-a-psychological-process](../sources/psy214-week01-lesson-psy214-week01-stress-as-a-psychological-process.md)
 - [psy214-week02-positive-emotions-and-well-being](../sources/psy214-week02-positive-emotions-and-well-being.md)

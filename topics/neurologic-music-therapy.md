@@ -3,12 +3,14 @@ confidence: low
 domain: intervention
 slug: neurologic-music-therapy
 sources:
-- fxa303-week04-community-services-the-music-therapy-center-of-california
+  - fxa300-week08-lesson-fxa300-week08-page-2
+  - fxa300-week08-neurologic-music-therapy-training-for-mobility-and
+  - fxa303-week04-community-services-the-music-therapy-center-of-california
 tags:
 - neurologic-music-therapy
 title: Neurologic Music Therapy
 type: topic
-updated: 2026-05-04
+updated: 2026-08-31
 ---
 
 ## Neurologic Music Therapy
@@ -27,4 +29,6 @@ The synthesis of the provided sources reveals a consistent focus on Neurologic M
 
 ## Sources
 
+- [fxa300-week08-lesson-fxa300-week08-page-2](../sources/fxa300-week08-lesson-fxa300-week08-page-2.md)
+- [fxa300-week08-neurologic-music-therapy-training-for-mobility-and](../sources/fxa300-week08-neurologic-music-therapy-training-for-mobility-and.md)
 - [fxa303-week04-community-services-the-music-therapy-center-of-california](../sources/fxa303-week04-community-services-the-music-therapy-center-of-california.md)

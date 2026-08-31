@@ -6,6 +6,10 @@ sources:
   - fxa100-week01-the-science-of-lewy-body-dementia-video-transcript
   - fxa100-week01-transcript-the-science-of-lewy-body-dementia
   - fxa300-week02-music-stimulates-muscles-mind-and-feelings-in-one-go
+  - fxa300-week08-cueing-effects-in-parkinsons-disease-benefits-and-drawbacks
+  - fxa300-week08-lesson-fxa300-week08-page-3
+  - fxa300-week08-music-therapy-interventions-in-parkinsons-disease-the-state
+  - fxa300-week08-neurologic-music-therapy-training-for-mobility-and
   - fxa301-week03-transcript-youtube-5utv1ergbs8
   - fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons
   - fxa301-week06-effect-of-rhythmic-auditory-cueing-on-parkinsonian-gait-a
@@ -17,7 +21,7 @@ tags:
 - parkinsons-disease
 title: Lewy Body Dementia
 type: topic
-updated: 2026-08-07
+updated: 2026-08-31
 ---
 
 ## Lewy Body Dementia
@@ -39,6 +43,10 @@ The sources emphasize the pivotal role of Lewy bodies and their primary componen
 - [fxa100-week01-the-science-of-lewy-body-dementia-video-transcript](../sources/fxa100-week01-the-science-of-lewy-body-dementia-video-transcript.md)
 - [fxa100-week01-transcript-the-science-of-lewy-body-dementia](../sources/fxa100-week01-transcript-the-science-of-lewy-body-dementia.md)
 - [fxa300-week02-music-stimulates-muscles-mind-and-feelings-in-one-go](../sources/fxa300-week02-music-stimulates-muscles-mind-and-feelings-in-one-go.md)
+- [fxa300-week08-cueing-effects-in-parkinsons-disease-benefits-and-drawbacks](../sources/fxa300-week08-cueing-effects-in-parkinsons-disease-benefits-and-drawbacks.md)
+- [fxa300-week08-lesson-fxa300-week08-page-3](../sources/fxa300-week08-lesson-fxa300-week08-page-3.md)
+- [fxa300-week08-music-therapy-interventions-in-parkinsons-disease-the-state](../sources/fxa300-week08-music-therapy-interventions-in-parkinsons-disease-the-state.md)
+- [fxa300-week08-neurologic-music-therapy-training-for-mobility-and](../sources/fxa300-week08-neurologic-music-therapy-training-for-mobility-and.md)
 - [fxa301-week03-transcript-youtube-5utv1ergbs8](../sources/fxa301-week03-transcript-youtube-5utv1ergbs8.md)
 - [fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons](../sources/fxa301-week06-editorial-comment-on-therapeutic-dancing-for-parkinsons.md)
 - [fxa301-week06-effect-of-rhythmic-auditory-cueing-on-parkinsonian-gait-a](../sources/fxa301-week06-effect-of-rhythmic-auditory-cueing-on-parkinsonian-gait-a.md)

@@ -10,8 +10,9 @@ sources:
   - fxa101-week00-neural-insights-into-observational-drawing-a-longitudinal
   - fxa101-week06-the-creative-brain-under-stress-considerations-for
   - fxa300-week03-musical-imagery-involves-wernickes-area-in-bilateral-and
+  - fxa300-week08-music-to-my-senses-functional-magnetic-resonance-imaging
   - fxa303-week13-the-neural-basis-of-humour-processing
-updated: 2026-08-10
+updated: 2026-08-31
 ---
 
 ## Neural Networks in Aesthetic and Humorous Experiences
@@ -35,4 +36,5 @@ The exploration of neural networks involved in aesthetic and humorous experience
 - [fxa101-week00-neural-insights-into-observational-drawing-a-longitudinal](../sources/fxa101-week00-neural-insights-into-observational-drawing-a-longitudinal.md)
 - [fxa101-week06-the-creative-brain-under-stress-considerations-for](../sources/fxa101-week06-the-creative-brain-under-stress-considerations-for.md)
 - [fxa300-week03-musical-imagery-involves-wernickes-area-in-bilateral-and](../sources/fxa300-week03-musical-imagery-involves-wernickes-area-in-bilateral-and.md)
+- [fxa300-week08-music-to-my-senses-functional-magnetic-resonance-imaging](../sources/fxa300-week08-music-to-my-senses-functional-magnetic-resonance-imaging.md)
 - [fxa303-week13-the-neural-basis-of-humour-processing](../sources/fxa303-week13-the-neural-basis-of-humour-processing.md)

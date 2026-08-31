@@ -8,7 +8,8 @@ sources:
   - fxa100-week03-association-of-music-interventions-with-health-related
   - fxa100-week03-the-short-term-impact-of-music-interventions-on-stress
   - fxa101-week04-web-article-bugos-2019
-updated: 2026-08-07
+  - fxa300-week08-effects-of-music-on-agitation-in-dementia-a-meta-analysis
+updated: 2026-08-31
 ---
 
 ## Music Interventions and Cognitive Health
@@ -30,3 +31,4 @@ The research on music interventions highlights their diverse impacts on cognitiv
 - [fxa100-week03-association-of-music-interventions-with-health-related](../sources/fxa100-week03-association-of-music-interventions-with-health-related.md)
 - [fxa100-week03-the-short-term-impact-of-music-interventions-on-stress](../sources/fxa100-week03-the-short-term-impact-of-music-interventions-on-stress.md)
 - [fxa101-week04-web-article-bugos-2019](../sources/fxa101-week04-web-article-bugos-2019.md)
+- [fxa300-week08-effects-of-music-on-agitation-in-dementia-a-meta-analysis](../sources/fxa300-week08-effects-of-music-on-agitation-in-dementia-a-meta-analysis.md)

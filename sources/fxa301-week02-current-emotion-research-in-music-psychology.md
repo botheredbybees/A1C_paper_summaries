@@ -11,7 +11,7 @@ tags: ["affective-responses-in-music-psychology", "cultural-impact", "emotional-
 key_concepts: ["emotional-expressiveness", "affective-responses", "culturally-specific-musical-expectations"]
 methods: ["systematic-review"]
 slug: fxa301-week02-current-emotion-research-in-music-psychology
-related: ["cultural-impact", "emotional-expression", "music-psychology"]
+related: ["cultural-impact", "emotional-expression", "music-psychology", "musical-development"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,3 +45,4 @@ This article reviews recent research in music psychology focusing on the connect
 - [cultural-impact](../topics/cultural-impact.md)
 - [emotional-expression](../topics/emotional-expression.md)
 - [music-psychology](../topics/music-psychology.md)
+- [musical-development](../topics/musical-development.md)

@@ -7,6 +7,7 @@ updated: 2026-08-31
 ## Chronic Pain Management Through Creative Therapies
 
 - [Healing Through Art and Music](../sources/fxa202-week09-healing-through-art-and-music.md)
+- [The Effects of Music Intervention in the Management of Chronic Pain](../sources/fxa300-week08-the-effects-of-music-intervention-in-the-management-of.md)
 - [Case Studies of Engagement with Literature and Creative Writing](../sources/fxa301-week08-lesson-fxa301-week07-page-3-hm.md)
 - [Week 8 Lecture on Applying Theatre and Literature for Health Benefits](../sources/fxa301-week08-week-8-lecture-on-applying-theatre-and-literature-for.md)
 - [Arts Therapy and Its Implications in Chronic Pain Management: A Narrative Review](../sources/fxa302-week09-arts-therapy-and-its-implications-in-chronic-pain.md)

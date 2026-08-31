@@ -78,6 +78,7 @@ updated: 2026-08-31
 - [Mih\u00e1ly Cs\u00edkszentmih\u00e1lyi: The Father of Flow](../sources/fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow.md)
 - [Revisioning self-identity: The role of portraits, neuroscience and the art therapist's \u2018third hand\u2019](../sources/fxa202-week13-revisioning-self-identity-the-role-of-portraits.md)
 - [A Case Study on a Home-Based Caregiver-Delivered Music-with-Movement Intervention for People with Early Dementia](../sources/fxa300-week06-a-case-study-on-a-home-based-caregiver-delivered-music-with.md)
+- [Effects of Music Therapy on Patients with Dementia\u2014A Systematic Review](../sources/fxa300-week08-effects-of-music-therapy-on-patients-with-dementiaa.md)
 - [A Qualitative Investigation of Older Adults\u2019 Conceptualization of Quality of Life and a Think-Aloud Content Validation of the EQ-5D-5L, SF-12v2, Warwick Edinburgh Mental Well-Being Scale, and Office of National Statistics-4](../sources/fxa301-week01-a-qualitative-investigation-of-older-adults.md)
 - [Associations between participation in community arts groups and aspects of wellbeing in older adults in the United States: a propensity score matching analysis](../sources/fxa301-week05-associations-between-participation-in-community-arts-groups.md)
 - [The 2024 Happy Planet Index](../sources/fxa301-week05-the-2024-happy-planet-index.md)

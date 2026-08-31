@@ -11,7 +11,7 @@ tags: ["cognitive-reserve", "neurodegenerative-diseases", "childhood-development
 key_concepts: ["cognitive reserve", "neurodevelopmental disorders", "early childhood enrichment"]
 methods: ["systematic review"]
 slug: fxa101-week03-environmental-and-cognitive-enrichment-in-childhood-as
-related: ["aging-brain", "childhood-development", "cognitive-reserve", "neurodegenerative-diseases"]
+related: ["aging-brain", "childhood-development", "cognitive-reserve", "environmental-enrichment", "neurodegenerative-diseases"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -47,4 +47,5 @@ This review article examines the concept of cognitive reserve (CR) and its devel
 - [aging-brain](../topics/aging-brain.md)
 - [childhood-development](../topics/childhood-development.md)
 - [cognitive-reserve](../topics/cognitive-reserve.md)
+- [environmental-enrichment](../topics/environmental-enrichment.md)
 - [neurodegenerative-diseases](../topics/neurodegenerative-diseases.md)

@@ -20,6 +20,7 @@ sources:
   - fxa101-week04-cognitive-and-memory-training-in-adults-at-risk-of-dementia
   - fxa101-week04-late-life-cognitive-activity-and-dementia-a-systematic
   - fxa202-week13-therapeutic-benefits-and-limitations-of-participatory
+  - fxa300-week08-effects-of-music-therapy-on-patients-with-dementiaa
   - fxa301-week01-rating-the-quality-of-a-body-of-evidence-on-the
   - fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-(2)
   - fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing
@@ -56,7 +57,7 @@ tags:
 - systematic-review
 title: Systematic Reviews of Arts-Based Interventions
 type: topic
-updated: 2026-08-08
+updated: 2026-08-31
 ---
 
 ## Systematic Reviews of Arts-Based Interventions
@@ -92,6 +93,7 @@ The systematic reviews examined here cover a range of arts-based interventions a
 - [fxa101-week04-cognitive-and-memory-training-in-adults-at-risk-of-dementia](../sources/fxa101-week04-cognitive-and-memory-training-in-adults-at-risk-of-dementia.md)
 - [fxa101-week04-late-life-cognitive-activity-and-dementia-a-systematic](../sources/fxa101-week04-late-life-cognitive-activity-and-dementia-a-systematic.md)
 - [fxa202-week13-therapeutic-benefits-and-limitations-of-participatory](../sources/fxa202-week13-therapeutic-benefits-and-limitations-of-participatory.md)
+- [fxa300-week08-effects-of-music-therapy-on-patients-with-dementiaa](../sources/fxa300-week08-effects-of-music-therapy-on-patients-with-dementiaa.md)
 - [fxa301-week01-rating-the-quality-of-a-body-of-evidence-on-the](../sources/fxa301-week01-rating-the-quality-of-a-body-of-evidence-on-the.md)
 - [fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-(2)](../sources/fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-%282%29.md)
 - [fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing](../sources/fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing.md)

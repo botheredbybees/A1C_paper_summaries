@@ -11,7 +11,7 @@ tags: ["bibliometric-analysis", "dance-therapy", "dance-therapy-efficacy", "fxa1
 key_concepts: ["dance therapy efficacy", "interdisciplinary cooperation", "holistic well-being"]
 methods: ["bibliometric analysis"]
 slug: fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric
-related: ["dance-therapy", "holistic-well-being", "mental-health", "neurodegenerative-diseases"]
+related: ["dance-therapy", "holistic-well-being", "mental-health", "neurodegenerative-diseases", "rehabilitation"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -45,3 +45,4 @@ The study conducts a bibliometric analysis of dance therapy in rehabilitation, f
 - [holistic-well-being](../topics/holistic-well-being.md)
 - [mental-health](../topics/mental-health.md)
 - [neurodegenerative-diseases](../topics/neurodegenerative-diseases.md)
+- [rehabilitation](../topics/rehabilitation.md)

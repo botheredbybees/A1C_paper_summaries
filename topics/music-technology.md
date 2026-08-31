@@ -7,8 +7,9 @@ tags: ["music-technology"]
 sources:
   - fxa101-week00-feminist-hci-and-narratives-of-design-semantics-in-diy
   - fxa101-week00-harmonic-materials-composing-with-found-objects-and-a
+  - fxa300-week08-the-social-and-applied-psychology-of-music
   - fxa301-week11-transcript-youtube-cnjl-fsurmduration
-updated: 2026-08-08
+updated: 2026-08-31
 ---
 
 ## Music Technology in Feminist HCI and Immersive Experiences
@@ -29,4 +30,5 @@ The exploration of music technology through feminist Human-Computer Interaction 
 
 - [fxa101-week00-feminist-hci-and-narratives-of-design-semantics-in-diy](../sources/fxa101-week00-feminist-hci-and-narratives-of-design-semantics-in-diy.md)
 - [fxa101-week00-harmonic-materials-composing-with-found-objects-and-a](../sources/fxa101-week00-harmonic-materials-composing-with-found-objects-and-a.md)
+- [fxa300-week08-the-social-and-applied-psychology-of-music](../sources/fxa300-week08-the-social-and-applied-psychology-of-music.md)
 - [fxa301-week11-transcript-youtube-cnjl-fsurmduration](../sources/fxa301-week11-transcript-youtube-cnjl-fsurmduration.md)

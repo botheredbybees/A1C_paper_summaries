@@ -3,12 +3,14 @@ confidence: low
 domain: intervention
 slug: rehabilitation-for-cognitive-decline
 sources:
-- fxa100-week08-web-article-reyner-2006
+  - fxa100-week08-web-article-reyner-2006
+  - fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric
+  - fxa300-week08-neurologic-music-therapy-training-for-mobility-and
 tags:
 - rehabilitation
 title: Rehabilitation for Cognitive Decline
 type: topic
-updated: 2026-05-04
+updated: 2026-08-31
 ---
 
 ## Rehabilitation for Cognitive Decline
@@ -28,3 +30,5 @@ The sources collectively highlight the importance of cognitive stimulation and s
 ## Sources
 
 - [fxa100-week08-web-article-reyner-2006](../sources/fxa100-week08-web-article-reyner-2006.md)
+- [fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric](../sources/fxa100-week13-dance-therapy-in-rehabilitation-a-two-decade-bibliometric.md)
+- [fxa300-week08-neurologic-music-therapy-training-for-mobility-and](../sources/fxa300-week08-neurologic-music-therapy-training-for-mobility-and.md)

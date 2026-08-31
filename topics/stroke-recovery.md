@@ -7,8 +7,10 @@ tags: ["stroke-recovery"]
 sources:
   - fxa101-week02-midnight-resurrections-stroke-victims-learn-to-move-and
   - fxa300-week06-revisiting-the-dissociation-between-singing-and-speaking-in
+  - fxa300-week08-from-singing-to-speaking-facilitating-recovery-from
+  - fxa300-week08-lesson-fxa300-week08-page-4-activities
   - fxa301-week09-stroke-choirs-stroke-recovery-association-nsw
-updated: 2026-08-10
+updated: 2026-08-31
 ---
 
 ## Stroke Rehabilitation Strategies
@@ -29,4 +31,6 @@ The integration of various rehabilitation strategies in stroke recovery highligh
 
 - [fxa101-week02-midnight-resurrections-stroke-victims-learn-to-move-and](../sources/fxa101-week02-midnight-resurrections-stroke-victims-learn-to-move-and.md)
 - [fxa300-week06-revisiting-the-dissociation-between-singing-and-speaking-in](../sources/fxa300-week06-revisiting-the-dissociation-between-singing-and-speaking-in.md)
+- [fxa300-week08-from-singing-to-speaking-facilitating-recovery-from](../sources/fxa300-week08-from-singing-to-speaking-facilitating-recovery-from.md)
+- [fxa300-week08-lesson-fxa300-week08-page-4-activities](../sources/fxa300-week08-lesson-fxa300-week08-page-4-activities.md)
 - [fxa301-week09-stroke-choirs-stroke-recovery-association-nsw](../sources/fxa301-week09-stroke-choirs-stroke-recovery-association-nsw.md)

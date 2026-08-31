@@ -6,8 +6,9 @@ confidence: medium
 tags: ["psychological-factors"]
 sources:
   - fxa101-week02-acquiring-tastes-and-loves-what-neuroplasticity-teaches-us
+  - fxa300-week08-musical-preference-and-taste
   - fxa303-week08-fear-of-clowns-an-investigation-into-the-aetiology-of
-updated: 2026-07-13
+updated: 2026-08-31
 ---
 
 ## Psychological Factors in Fear and Attraction
@@ -27,4 +28,5 @@ The sources collectively explore psychological factors influencing human emotion
 ## Sources
 
 - [fxa101-week02-acquiring-tastes-and-loves-what-neuroplasticity-teaches-us](../sources/fxa101-week02-acquiring-tastes-and-loves-what-neuroplasticity-teaches-us.md)
+- [fxa300-week08-musical-preference-and-taste](../sources/fxa300-week08-musical-preference-and-taste.md)
 - [fxa303-week08-fear-of-clowns-an-investigation-into-the-aetiology-of](../sources/fxa303-week08-fear-of-clowns-an-investigation-into-the-aetiology-of.md)

@@ -4,6 +4,7 @@ domain: intervention
 slug: engagement-with-music-and-dance-in-historical-contexts
 sources:
   - fxa300-week07-what-is-musical-genius
+  - fxa300-week08-concluding-remarks
   - fxa301-week06-lesson-fxa301-week06-page-1
   - fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community
   - fxa302-week01-life-writing-and-its-implications-for-health-and-well-being
@@ -12,7 +13,7 @@ tags:
 - historical-perspective
 title: Engagement with Music and Dance in Historical Contexts
 type: topic
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Engagement with Music and Dance in Historical Contexts
@@ -32,6 +33,7 @@ The historical perspective on the use of music and dance as therapeutic interven
 ## Sources
 
 - [fxa300-week07-what-is-musical-genius](../sources/fxa300-week07-what-is-musical-genius.md)
+- [fxa300-week08-concluding-remarks](../sources/fxa300-week08-concluding-remarks.md)
 - [fxa301-week06-lesson-fxa301-week06-page-1](../sources/fxa301-week06-lesson-fxa301-week06-page-1.md)
 - [fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community](../sources/fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community.md)
 - [fxa302-week01-life-writing-and-its-implications-for-health-and-well-being](../sources/fxa302-week01-life-writing-and-its-implications-for-health-and-well-being.md)

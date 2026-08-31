@@ -12,6 +12,7 @@ updated: 2026-08-31
 - [Creative Art Therapy as a Non-Pharmacological Intervention for Dementia: A Systematic Review](../sources/fxa100-week12-creative-art-therapy-as-a-non-pharmacological-intervention.md)
 - [Non-pharmacological Interventions to Reduce Behavioral and Psychological Symptoms of Dementia](../sources/fxa100-week13-non-pharmacological-interventions-to-reduce-behavioral-and.md)
 - [The effect of physical activity on cognitive function in patients with dementia: A meta-analysis of randomized control trials](../sources/fxa100-week13-the-effect-of-physical-activity-on-cognitive-function-in.md)
+- [Effects of Music on Agitation in Dementia: A Meta-Analysis](../sources/fxa300-week08-effects-of-music-on-agitation-in-dementia-a-meta-analysis.md)
 - [Clown therapy for procedural pain in children: a systematic review and meta-analysis](../sources/fxa303-week08-clown-therapy-for-procedural-pain-in-children-a-systematic.md)
 - [A Systematic Review of Non-pharmacological Interventions for BPSD in Nursing Home Residents with Dementia](../sources/fxa303-week13-a-systematic-review-of-non-pharmacological-interventions.md)
 - [Neuropsychiatric disorders correction in Alzheimer's disease](../sources/fxa303-week13-neuropsychiatric-disorders-correction-in-alzheimers-disease.md)

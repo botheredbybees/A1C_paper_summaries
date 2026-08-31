@@ -4,6 +4,7 @@ domain: intervention
 slug: arts-based-healthcare-interventions
 sources:
   - fxa300-week05-music-helps-heal-mind-body-and-spirit
+  - fxa300-week08-fxa300-sem-2-2026-week-8-lecture
   - fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision-(2)
   - fxa301-week01-conceptualizing-and-planning-interventions
   - fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a
@@ -12,7 +13,7 @@ tags:
 - healthcare-interventions
 title: Arts-Based Healthcare Interventions
 type: topic
-updated: 2026-08-07
+updated: 2026-08-31
 ---
 
 ## Arts-Based Healthcare Interventions
@@ -32,6 +33,7 @@ The evaluation and research of arts-based healthcare interventions highlight the
 ## Sources
 
 - [fxa300-week05-music-helps-heal-mind-body-and-spirit](../sources/fxa300-week05-music-helps-heal-mind-body-and-spirit.md)
+- [fxa300-week08-fxa300-sem-2-2026-week-8-lecture](../sources/fxa300-week08-fxa300-sem-2-2026-week-8-lecture.md)
 - [fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision-(2)](../sources/fxa301-arts-in-health-ch60-3-evaluation-provides-the-basis-for-decision-%282%29.md)
 - [fxa301-week01-conceptualizing-and-planning-interventions](../sources/fxa301-week01-conceptualizing-and-planning-interventions.md)
 - [fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a](../sources/fxa301-week05-heritage-health-and-well-being-assessing-the-impact-of-a.md)

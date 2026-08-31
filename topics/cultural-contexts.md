@@ -5,9 +5,10 @@ title: "Cultural Contexts in Art and Health"
 confidence: medium
 tags: ["cultural-contexts"]
 sources:
+  - fxa300-week08-the-arts-therapies-a-revolution-in-healthcare
   - fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness
   - fxa302-week01-papermaking-an-artistic-process-for-health-and-wellbeing
-updated: 2026-07-06
+updated: 2026-08-31
 ---
 
 ## Cultural Contexts in Art and Health
@@ -26,5 +27,6 @@ This synthesis examines the role of cultural contexts within two artistic practi
 
 ## Sources
 
+- [fxa300-week08-the-arts-therapies-a-revolution-in-healthcare](../sources/fxa300-week08-the-arts-therapies-a-revolution-in-healthcare.md)
 - [fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness](../sources/fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness.md)
 - [fxa302-week01-papermaking-an-artistic-process-for-health-and-wellbeing](../sources/fxa302-week01-papermaking-an-artistic-process-for-health-and-wellbeing.md)

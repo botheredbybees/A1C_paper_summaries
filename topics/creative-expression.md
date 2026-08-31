@@ -28,6 +28,7 @@ sources:
   - fxa202-week08-week-8-lecture-notes-editing-your-images
   - fxa202-week09-healing-through-art-and-music
   - fxa202-week10-lesson-fxa202-week10-page-4
+  - fxa300-week08-fxa300-sem-2-2026-week-8-lecture
   - fxa301-week03-art-for-better-health-and-wellbeing
   - fxa301-week05-art-as-therapy
   - fxa301-week08-arts-gymnasium-goes-digital
@@ -51,7 +52,7 @@ tags:
 - creative-expression
 title: Creative Expression
 type: topic
-updated: 2026-08-10
+updated: 2026-08-31
 ---
 
 ## Creative Expression
@@ -95,6 +96,7 @@ The concept of creative expression encompasses a variety of therapeutic interven
 - [fxa202-week08-week-8-lecture-notes-editing-your-images](../sources/fxa202-week08-week-8-lecture-notes-editing-your-images.md)
 - [fxa202-week09-healing-through-art-and-music](../sources/fxa202-week09-healing-through-art-and-music.md)
 - [fxa202-week10-lesson-fxa202-week10-page-4](../sources/fxa202-week10-lesson-fxa202-week10-page-4.md)
+- [fxa300-week08-fxa300-sem-2-2026-week-8-lecture](../sources/fxa300-week08-fxa300-sem-2-2026-week-8-lecture.md)
 - [fxa301-week03-art-for-better-health-and-wellbeing](../sources/fxa301-week03-art-for-better-health-and-wellbeing.md)
 - [fxa301-week05-art-as-therapy](../sources/fxa301-week05-art-as-therapy.md)
 - [fxa301-week08-arts-gymnasium-goes-digital](../sources/fxa301-week08-arts-gymnasium-goes-digital.md)

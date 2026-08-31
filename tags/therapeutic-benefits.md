@@ -18,6 +18,7 @@ updated: 2026-08-31
 - [Therapeutic benefits and limitations of participatory photography for adults with mental health problems: A systematic search and literature review](../sources/fxa202-week13-therapeutic-benefits-and-limitations-of-participatory.md)
 - [Music stimulates muscles, mind, and feelings in one go](../sources/fxa300-week02-music-stimulates-muscles-mind-and-feelings-in-one-go.md)
 - [Music helps heal mind, body, and spirit](../sources/fxa300-week05-music-helps-heal-mind-body-and-spirit.md)
+- [Music in Healthcare Settings](../sources/fxa300-week08-lesson-fxa300-week08-page-2.md)
 - [How a dragon sculpture fueled hope and community for our patients](../sources/fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our.md)
 - [A Music and Health Perspective on Music's Perceived \u2018Goodness\u2019](../sources/fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness-%282%29.md)
 - [A systematic review of mental health and wellbeing outcomes of group singing for adults with a mental health condition](../sources/fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes.md)

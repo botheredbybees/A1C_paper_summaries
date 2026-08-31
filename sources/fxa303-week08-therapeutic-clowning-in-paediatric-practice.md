@@ -11,7 +11,7 @@ tags: ["therapeutic-clowning", "pediatric-care", "patient-anxiety", "medical-pro
 key_concepts: ["distraction-therapy", "anesthesia-induction", "parental-anxiety-reduction"]
 methods: ["systematic-review"]
 slug: fxa303-week08-therapeutic-clowning-in-paediatric-practice
-related: ["medical-procedures", "pediatric-care", "therapeutic-clowning"]
+related: ["medical-procedures", "patient-anxiety", "pediatric-care", "therapeutic-clowning"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -43,5 +43,6 @@ This paper explores the use of therapeutic clowning in pediatric care, examining
 ## See Also
 
 - [medical-procedures](../topics/medical-procedures.md)
+- [patient-anxiety](../topics/patient-anxiety.md)
 - [pediatric-care](../topics/pediatric-care.md)
 - [therapeutic-clowning](../topics/therapeutic-clowning.md)

@@ -260,6 +260,8 @@ updated: 2026-08-31
 - [In-home online music-based intervention for stress, coping, and depression among family caregivers of persons with dementia: A pilot study](../sources/fxa300-week06-in-home-online-music-based-intervention-for-stress-coping.md)
 - [Preferred Music Listening for People Living with Dementia: Two Home-Based Case Studies Discussing Compilation Process, Autobiographical and Biophysical Responses](../sources/fxa300-week06-preferred-music-listening-for-people-living-with-dementia.md)
 - [Statistical analysis plan for HOME-based caregiver-delivered music intervention for people living with dementia (HOMESIDE) trial](../sources/fxa300-week06-statistical-analysis-plan-for-home-based-caregiver.md)
+- [Effects of Music on Agitation in Dementia: A Meta-Analysis](../sources/fxa300-week08-effects-of-music-on-agitation-in-dementia-a-meta-analysis.md)
+- [Effects of Music Therapy on Patients with Dementia\u2014A Systematic Review](../sources/fxa300-week08-effects-of-music-therapy-on-patients-with-dementiaa.md)
 - [Does a Model Exist?](../sources/fxa301-arts-in-health-ch20-1-arts-in-the-healthcare-environment.md)
 - [Theatre of Wandering: Rehearsal and Devising Notes [Part 1]](../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-1.md)
 - [Theatre of Wandering: Rehearsal and devising notes [Part 2]](../sources/fxa301-week08-theatre-of-wandering-rehearsal-and-devising-notes-part-2.md)

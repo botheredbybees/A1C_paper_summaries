@@ -7,6 +7,7 @@ updated: 2026-08-31
 ## Anxiety Reduction
 
 - [Critical Reflection on Present Mindedness and Mindfulness Practices](../sources/fxa202-week03-critical-reflection-on-present-mindedness-and-mindfulness.md)
+- [The Effects of Music Intervention in the Management of Chronic Pain](../sources/fxa300-week08-the-effects-of-music-intervention-in-the-management-of.md)
 - [The Use of Puppets in Psychodynamic Child Therapy](../sources/fxa303-week05-the-use-of-puppets-in-psychodynamic-child-therapy.md)
 - [Puppet play therapy in emergency pediatric dental clinic](../sources/fxa303-week06-puppet-play-therapy-in-emergency-pediatric-dental-clinic.md)
 - [A meta-analysis of randomized controlled trials of laughter and humour interventions on depression, anxiety and sleep quality in adults](../sources/fxa303-week13-a-meta-analysis-of-randomized-controlled-trials-of-laughter.md)

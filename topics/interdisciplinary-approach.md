@@ -7,7 +7,9 @@ tags: ["interdisciplinary-approach"]
 sources:
   - fxa300-week02-epilogue-ruminations-on-music-psychology
   - fxa300-week04-music-and-health
-updated: 2026-07-28
+  - fxa300-week08-book-review-of-music-in-the-human-experience-an
+  - fxa300-week08-the-arts-therapies-a-revolution-in-healthcare
+updated: 2026-08-31
 ---
 
 ## Interdisciplinary Approach in Music Psychology
@@ -28,3 +30,5 @@ The concept of an interdisciplinary approach in music psychology and health is e
 
 - [fxa300-week02-epilogue-ruminations-on-music-psychology](../sources/fxa300-week02-epilogue-ruminations-on-music-psychology.md)
 - [fxa300-week04-music-and-health](../sources/fxa300-week04-music-and-health.md)
+- [fxa300-week08-book-review-of-music-in-the-human-experience-an](../sources/fxa300-week08-book-review-of-music-in-the-human-experience-an.md)
+- [fxa300-week08-the-arts-therapies-a-revolution-in-healthcare](../sources/fxa300-week08-the-arts-therapies-a-revolution-in-healthcare.md)

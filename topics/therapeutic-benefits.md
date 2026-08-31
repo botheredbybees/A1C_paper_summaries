@@ -15,6 +15,7 @@ sources:
   - fxa202-week13-therapeutic-benefits-and-limitations-of-participatory
   - fxa300-week02-music-stimulates-muscles-mind-and-feelings-in-one-go
   - fxa300-week05-music-helps-heal-mind-body-and-spirit
+  - fxa300-week08-lesson-fxa300-week08-page-2
   - fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our
   - fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness-(2)
   - fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes
@@ -28,7 +29,7 @@ tags:
 - therapeutic-benefits
 title: Music Therapy
 type: topic
-updated: 2026-08-10
+updated: 2026-08-31
 ---
 
 ## Music Therapy
@@ -59,6 +60,7 @@ The documents collectively emphasize the profound therapeutic potential of music
 - [fxa202-week13-therapeutic-benefits-and-limitations-of-participatory](../sources/fxa202-week13-therapeutic-benefits-and-limitations-of-participatory.md)
 - [fxa300-week02-music-stimulates-muscles-mind-and-feelings-in-one-go](../sources/fxa300-week02-music-stimulates-muscles-mind-and-feelings-in-one-go.md)
 - [fxa300-week05-music-helps-heal-mind-body-and-spirit](../sources/fxa300-week05-music-helps-heal-mind-body-and-spirit.md)
+- [fxa300-week08-lesson-fxa300-week08-page-2](../sources/fxa300-week08-lesson-fxa300-week08-page-2.md)
 - [fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our](../sources/fxa301-week05-how-a-dragon-sculpture-fueled-hope-and-community-for-our.md)
 - [fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness-(2)](../sources/fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness-%282%29.md)
 - [fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes](../sources/fxa301-week06-a-systematic-review-of-mental-health-and-wellbeing-outcomes.md)

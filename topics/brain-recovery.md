@@ -5,11 +5,12 @@ slug: music-therapy-for-brain-recovery
 sources:
   - fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there
   - fxa100-week02-transcript-duration-631
+  - fxa300-week08-sensory-stimulation-and-music-therapy-programs-for-treating
 tags:
 - brain-recovery
 title: Music Therapy for Brain Recovery
 type: topic
-updated: 2026-05-11
+updated: 2026-08-31
 ---
 
 ## Music Therapy for Brain Recovery
@@ -29,3 +30,4 @@ The therapeutic potential of music is a recurring theme in both sources. Daniel 
 
 - [fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there](../sources/fxa100-week02-daniel-levitin-explores-music-as-medicine-in-i-heard-there.md)
 - [fxa100-week02-transcript-duration-631](../sources/fxa100-week02-transcript-duration-631.md)
+- [fxa300-week08-sensory-stimulation-and-music-therapy-programs-for-treating](../sources/fxa300-week08-sensory-stimulation-and-music-therapy-programs-for-treating.md)

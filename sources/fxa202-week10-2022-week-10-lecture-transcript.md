@@ -11,7 +11,7 @@ tags: ["online-learning", "university-education", "photography-course", "fxa202"
 key_concepts: ["photo essay", "critical reflection", "course resources"]
 methods: []
 slug: fxa202-week10-2022-week-10-lecture-transcript
-related: ["online-learning", "photography-course"]
+related: ["online-learning", "photography-course", "university-education"]
 created: 2026-05-04
 updated: 2026-05-04
 ---
@@ -43,3 +43,4 @@ This lecture transcript provides information about the concluding phase of the p
 
 - [online-learning](../topics/online-learning.md)
 - [photography-course](../topics/photography-course.md)
+- [university-education](../topics/university-education.md)

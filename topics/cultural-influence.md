@@ -6,8 +6,9 @@ confidence: medium
 tags: ["cultural-influence"]
 sources:
   - fxa101-week03-review-albrecht-drer-documentary-biography-by-jeffrey
+  - fxa300-week08-musical-development-and-education
   - fxa301-week10-life-themes-a-theoretical-and-empirical-exploration-of
-updated: 2026-08-07
+updated: 2026-08-31
 ---
 
 ## Cultural Influence on Human Behavior
@@ -27,4 +28,5 @@ The concept of cultural influence is central to both sources. Source 1 examines 
 ## Sources
 
 - [fxa101-week03-review-albrecht-drer-documentary-biography-by-jeffrey](../sources/fxa101-week03-review-albrecht-drer-documentary-biography-by-jeffrey.md)
+- [fxa300-week08-musical-development-and-education](../sources/fxa300-week08-musical-development-and-education.md)
 - [fxa301-week10-life-themes-a-theoretical-and-empirical-exploration-of](../sources/fxa301-week10-life-themes-a-theoretical-and-empirical-exploration-of.md)

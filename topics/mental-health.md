@@ -26,6 +26,7 @@ sources:
   - fxa202-week13-therapeutic-benefits-and-limitations-of-participatory
   - fxa300-week02-music-and-mind-harnessing-the-arts-for-health-and-wellness
   - fxa300-week06-book-reviews
+  - fxa300-week08-fxa300-sem-2-2026-week-8-lecture
   - fxa301-oxford-handbook-of-dance-and-wellbeing
   - fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract
   - fxa301-week05-art-as-therapy
@@ -122,6 +123,7 @@ The sources illustrate a variety of creative therapies that have been developed 
 - [fxa202-week13-therapeutic-benefits-and-limitations-of-participatory](../sources/fxa202-week13-therapeutic-benefits-and-limitations-of-participatory.md)
 - [fxa300-week02-music-and-mind-harnessing-the-arts-for-health-and-wellness](../sources/fxa300-week02-music-and-mind-harnessing-the-arts-for-health-and-wellness.md)
 - [fxa300-week06-book-reviews](../sources/fxa300-week06-book-reviews.md)
+- [fxa300-week08-fxa300-sem-2-2026-week-8-lecture](../sources/fxa300-week08-fxa300-sem-2-2026-week-8-lecture.md)
 - [fxa301-oxford-handbook-of-dance-and-wellbeing](../sources/fxa301-oxford-handbook-of-dance-and-wellbeing.md)
 - [fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract](../sources/fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract.md)
 - [fxa301-week05-art-as-therapy](../sources/fxa301-week05-art-as-therapy.md)

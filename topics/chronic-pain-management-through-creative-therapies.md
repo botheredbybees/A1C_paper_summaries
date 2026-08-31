@@ -6,11 +6,12 @@ confidence: high
 tags: ["chronic-pain-management-through-creative-therapies"]
 sources:
   - fxa202-week09-healing-through-art-and-music
+  - fxa300-week08-the-effects-of-music-intervention-in-the-management-of
   - fxa301-week08-lesson-fxa301-week07-page-3-hm
   - fxa301-week08-week-8-lecture-on-applying-theatre-and-literature-for
   - fxa302-week09-arts-therapy-and-its-implications-in-chronic-pain
   - fxa302-week09-how-music-can-help-relieve-chronic-pain
-updated: 2026-08-07
+updated: 2026-08-31
 ---
 
 ## Creative Therapies in Chronic Pain Management
@@ -30,6 +31,7 @@ The exploration of creative therapies as interventions for managing chronic pain
 ## Sources
 
 - [fxa202-week09-healing-through-art-and-music](../sources/fxa202-week09-healing-through-art-and-music.md)
+- [fxa300-week08-the-effects-of-music-intervention-in-the-management-of](../sources/fxa300-week08-the-effects-of-music-intervention-in-the-management-of.md)
 - [fxa301-week08-lesson-fxa301-week07-page-3-hm](../sources/fxa301-week08-lesson-fxa301-week07-page-3-hm.md)
 - [fxa301-week08-week-8-lecture-on-applying-theatre-and-literature-for](../sources/fxa301-week08-week-8-lecture-on-applying-theatre-and-literature-for.md)
 - [fxa302-week09-arts-therapy-and-its-implications-in-chronic-pain](../sources/fxa302-week09-arts-therapy-and-its-implications-in-chronic-pain.md)

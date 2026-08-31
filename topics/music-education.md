@@ -16,6 +16,8 @@ sources:
   - fxa300-week03-music-training-improves-verbal-but-not-visual-memory-cross
   - fxa300-week05-a-proposed-glossary-for-use-in-affective-response
   - fxa300-week06-the-effect-of-instrumental-music-participation-and
+  - fxa300-week08-concluding-remarks
+  - fxa300-week08-musical-development-and-education
   - fxa301-week01-culture-of-inquiry
   - fxa301-week05-an-education-in-music-makes-you-a-better-employee-are
   - fxa301-week05-fading-notes-music-education-for-the-next-generation-of
@@ -38,7 +40,7 @@ tags:
 - music-education
 title: Music Education and Its Broader Impacts
 type: topic
-updated: 2026-08-10
+updated: 2026-08-31
 ---
 
 ## Music Education and Its Broader Impacts
@@ -70,6 +72,8 @@ The provided sources highlight the multifaceted benefits of music education in f
 - [fxa300-week03-music-training-improves-verbal-but-not-visual-memory-cross](../sources/fxa300-week03-music-training-improves-verbal-but-not-visual-memory-cross.md)
 - [fxa300-week05-a-proposed-glossary-for-use-in-affective-response](../sources/fxa300-week05-a-proposed-glossary-for-use-in-affective-response.md)
 - [fxa300-week06-the-effect-of-instrumental-music-participation-and](../sources/fxa300-week06-the-effect-of-instrumental-music-participation-and.md)
+- [fxa300-week08-concluding-remarks](../sources/fxa300-week08-concluding-remarks.md)
+- [fxa300-week08-musical-development-and-education](../sources/fxa300-week08-musical-development-and-education.md)
 - [fxa301-week01-culture-of-inquiry](../sources/fxa301-week01-culture-of-inquiry.md)
 - [fxa301-week05-an-education-in-music-makes-you-a-better-employee-are](../sources/fxa301-week05-an-education-in-music-makes-you-a-better-employee-are.md)
 - [fxa301-week05-fading-notes-music-education-for-the-next-generation-of](../sources/fxa301-week05-fading-notes-music-education-for-the-next-generation-of.md)
