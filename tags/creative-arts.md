@@ -27,6 +27,7 @@ updated: 2026-08-31
 - [Creative Arts Adult Community Learning](../sources/fxa302-week01-creative-arts-adult-community-learning.md)
 - [FXA302 Perspectives of the Arts on Health and Wellbeing](../sources/fxa302-week01-lesson-fxa302-week01-page-2.md)
 - [FXA302 Perspectives of the Arts on Health and Wellbeing - Week 1 Activities](../sources/fxa302-week01-lesson-fxa302-week01-page-4-activities.md)
+- [FXA302 Week 8 Welcome](../sources/fxa302-week08-fxa302-week-8-welcome.md)
 - [Developmental Role of Creative Arts and Play](../sources/fxa303-week02-developmental-role-of-creative-arts-and-play.md)
 - [FXA303 Week 2: Child Development and Creative Arts](../sources/fxa303-week02-fxa303-week-2-child-development-and-creative-arts.md)
 - [FXA303 Week 3: Introduction to Creative Arts, Play and Mental Wellbeing](../sources/fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental.md)

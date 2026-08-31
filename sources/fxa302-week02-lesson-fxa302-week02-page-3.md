@@ -11,7 +11,7 @@ tags: ["ancient-greece", "disability-studies", "literary-analysis", "fxa302", "t
 key_concepts: ["Theory of Humours", "divine retribution vs natural causes", "figurative blindness as insight"]
 methods: []
 slug: fxa302-week02-lesson-fxa302-week02-page-3
-related: ["ancient-greece", "disability-studies", "literary-analysis"]
+related: ["ancient-greece", "disability-studies", "literary-analysis", "theory-of-humours"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -45,3 +45,4 @@ This lesson explores ancient Greek attitudes towards disability and blindness th
 - [ancient-greece](../topics/ancient-greece.md)
 - [disability-studies](../topics/disability-studies.md)
 - [literary-analysis](../topics/literary-analysis.md)
+- [theory-of-humours](../topics/theory-of-humours.md)

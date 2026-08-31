@@ -6,8 +6,9 @@ confidence: medium
 tags: ["musical-expression"]
 sources:
   - fxa300-week07-class-notes-freeing-music-improvisation
+  - fxa302-week08-empathy-the-song-and-the-singer-a-legacy-of-robert-schumann
   - fxa303-week11-about-shout-youth-chorus
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Musical Expression
@@ -27,4 +28,5 @@ Musical expression, particularly through improvisation and creative activities, 
 ## Sources
 
 - [fxa300-week07-class-notes-freeing-music-improvisation](../sources/fxa300-week07-class-notes-freeing-music-improvisation.md)
+- [fxa302-week08-empathy-the-song-and-the-singer-a-legacy-of-robert-schumann](../sources/fxa302-week08-empathy-the-song-and-the-singer-a-legacy-of-robert-schumann.md)
 - [fxa303-week11-about-shout-youth-chorus](../sources/fxa303-week11-about-shout-youth-chorus.md)

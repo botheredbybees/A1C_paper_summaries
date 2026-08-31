@@ -11,7 +11,7 @@ tags: ["music-history", "romantic-era", "classical-music", "beethoven-analysis",
 key_concepts: ["revolutionary-nature", "creative-process", "transformation-of-boundaries"]
 methods: ["transcript-analysis"]
 slug: fxa300-week07-leonard-bernstein-discusses-beethovens-1st-symphony
-related: ["artistic-expression", "classical-music", "music-history"]
+related: ["artistic-expression", "classical-music", "music-history", "romantic-era"]
 created: 2026-08-17
 updated: 2026-08-17
 ---
@@ -47,3 +47,4 @@ In this transcript, Leonard Bernstein explores Beethoven's First Symphony, empha
 - [artistic-expression](../topics/artistic-expression.md)
 - [classical-music](../topics/classical-music.md)
 - [music-history](../topics/music-history.md)
+- [romantic-era](../topics/romantic-era.md)

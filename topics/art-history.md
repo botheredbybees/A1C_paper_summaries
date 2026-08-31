@@ -12,11 +12,12 @@ sources:
   - fxa302-week06-monet-and-cataracts
   - fxa302-week06-transcript-florent-farges-2019-beaux-arts-11-may-url-only
   - fxa302-week06-transcript-gresham-college-the-iconography-of-blindness-how
+  - fxa302-week08-about-the-cover-edvard-munchs-self-portrait-after-the
 tags:
 - art-history
 title: Neural Processing of Art
 type: topic
-updated: 2026-08-10
+updated: 2026-08-31
 ---
 
 ## Neural Processing of Art
@@ -43,3 +44,4 @@ The study of how the brain processes art reveals significant insights into cogni
 - [fxa302-week06-monet-and-cataracts](../sources/fxa302-week06-monet-and-cataracts.md)
 - [fxa302-week06-transcript-florent-farges-2019-beaux-arts-11-may-url-only](../sources/fxa302-week06-transcript-florent-farges-2019-beaux-arts-11-may-url-only.md)
 - [fxa302-week06-transcript-gresham-college-the-iconography-of-blindness-how](../sources/fxa302-week06-transcript-gresham-college-the-iconography-of-blindness-how.md)
+- [fxa302-week08-about-the-cover-edvard-munchs-self-portrait-after-the](../sources/fxa302-week08-about-the-cover-edvard-munchs-self-portrait-after-the.md)

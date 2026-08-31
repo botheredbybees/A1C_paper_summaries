@@ -11,7 +11,7 @@ tags: ["music-therapy", "chronic-pain-management", "emotional-regulation", "pain
 key_concepts: ["music therapy", "chronic pain management", "personal meaning of music"]
 methods: ["case study"]
 slug: fxa302-week09-how-music-can-help-relieve-chronic-pain
-related: ["chronic-pain-management-through-creative-therapies", "emotional-regulation", "music-therapy"]
+related: ["chronic-pain-management-through-creative-therapies", "emotional-regulation", "music-therapy", "therapeutic-music"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -46,3 +46,4 @@ The article discusses the therapeutic potential of music in alleviating chronic 
 - [chronic-pain-management-through-creative-therapies](../topics/chronic-pain-management-through-creative-therapies.md)
 - [emotional-regulation](../topics/emotional-regulation.md)
 - [music-therapy](../topics/music-therapy.md)
+- [therapeutic-music](../topics/therapeutic-music.md)

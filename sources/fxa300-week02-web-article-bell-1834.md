@@ -11,7 +11,7 @@ tags: ["authentication", "shibboleth", "jstor-access", "fxa300", "single-sign-on
 key_concepts: ["Shibboleth", "Single Sign-On (SSO)"]
 methods: []
 slug: fxa300-week02-web-article-bell-1834
-related: ["authentication", "shibboleth"]
+related: ["authentication", "shibboleth", "single-sign-on-sso"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -42,3 +42,4 @@ This is an authentication request page for accessing the JSTOR database through 
 
 - [authentication](../topics/authentication.md)
 - [shibboleth](../topics/shibboleth.md)
+- [single-sign-on-sso](../topics/single-sign-on-sso.md)

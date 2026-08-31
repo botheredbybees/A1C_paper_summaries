@@ -11,7 +11,7 @@ tags: ["creative-thinking-music", "compositional-process", "gestalt-theory", "co
 key_concepts: ["creative thinking", "compositional process", "gestalt theory"]
 methods: ["case study"]
 slug: fxa300-week07-a-synthesis-process-model-of-creative-thinking-in-music
-related: ["cognitive-processes"]
+related: ["cognitive-processes", "music-composition"]
 created: 2026-08-17
 updated: 2026-08-17
 ---
@@ -43,3 +43,4 @@ This article presents a comprehensive study of the compositional process through
 ## See Also
 
 - [cognitive-processes](../topics/cognitive-processes.md)
+- [music-composition](../topics/music-composition.md)

@@ -11,7 +11,7 @@ tags: ["working-memory", "cognitive-psychology", "information-processing", "fxa3
 key_concepts: ["Working Memory Capacity", "Cognitive Load Theory"]
 methods: []
 slug: fxa300-week03-transcript-youtube-uwkvpfzjwceduration
-related: ["cognitive-psychology", "delayed-recall-in-dementia"]
+related: ["cognitive-psychology", "delayed-recall-in-dementia", "information-processing"]
 created: 2026-07-21
 updated: 2026-07-21
 ---
@@ -43,3 +43,4 @@ The transcript discusses the concept of working memory and its limitations throu
 
 - [cognitive-psychology](../topics/cognitive-psychology.md)
 - [delayed-recall-in-dementia](../topics/delayed-recall-in-dementia.md)
+- [information-processing](../topics/information-processing.md)

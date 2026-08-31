@@ -4,13 +4,14 @@ domain: method
 slug: authentication
 sources:
   - fxa300-week02-web-article-bell-1834
+  - fxa302-week08-web-article-daverio-2001
   - fxa303-week06-web-article-butler-2009
   - fxa303-week06-web-article-markovits-2020
 tags:
 - authentication
 title: Authentication
 type: topic
-updated: 2026-07-13
+updated: 2026-08-31
 ---
 
 ## Authentication
@@ -29,5 +30,6 @@ The synthesis of the provided sources on authentication highlights various aspec
 ## Sources
 
 - [fxa300-week02-web-article-bell-1834](../sources/fxa300-week02-web-article-bell-1834.md)
+- [fxa302-week08-web-article-daverio-2001](../sources/fxa302-week08-web-article-daverio-2001.md)
 - [fxa303-week06-web-article-butler-2009](../sources/fxa303-week06-web-article-butler-2009.md)
 - [fxa303-week06-web-article-markovits-2020](../sources/fxa303-week06-web-article-markovits-2020.md)

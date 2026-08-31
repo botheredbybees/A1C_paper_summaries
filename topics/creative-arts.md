@@ -24,6 +24,7 @@ sources:
   - fxa302-week01-creative-arts-adult-community-learning
   - fxa302-week01-lesson-fxa302-week01-page-2
   - fxa302-week01-lesson-fxa302-week01-page-4-activities
+  - fxa302-week08-fxa302-week-8-welcome
   - fxa303-week02-developmental-role-of-creative-arts-and-play
   - fxa303-week02-fxa303-week-2-child-development-and-creative-arts
   - fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental
@@ -101,6 +102,7 @@ The integration of findings from both sources highlights the multifaceted benefi
 - [fxa302-week01-creative-arts-adult-community-learning](../sources/fxa302-week01-creative-arts-adult-community-learning.md)
 - [fxa302-week01-lesson-fxa302-week01-page-2](../sources/fxa302-week01-lesson-fxa302-week01-page-2.md)
 - [fxa302-week01-lesson-fxa302-week01-page-4-activities](../sources/fxa302-week01-lesson-fxa302-week01-page-4-activities.md)
+- [fxa302-week08-fxa302-week-8-welcome](../sources/fxa302-week08-fxa302-week-8-welcome.md)
 - [fxa303-week02-developmental-role-of-creative-arts-and-play](../sources/fxa303-week02-developmental-role-of-creative-arts-and-play.md)
 - [fxa303-week02-fxa303-week-2-child-development-and-creative-arts](../sources/fxa303-week02-fxa303-week-2-child-development-and-creative-arts.md)
 - [fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental](../sources/fxa303-week02-fxa303-week-3-introduction-to-creative-arts-play-and-mental.md)

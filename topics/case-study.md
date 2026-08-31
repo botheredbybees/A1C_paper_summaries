@@ -7,7 +7,8 @@ tags: ["case-study"]
 sources:
   - fxa100-week06-some-workmen-can-blame-their-tools-artistic-change-in-an-(2)
   - fxa202-therapeutic-photography-ch01-chapter-10
-updated: 2026-08-07
+  - fxa302-week08-fxa302-week-8-welcome
+updated: 2026-08-31
 ---
 
 ## Case Studies in Neurological and Developmental Conditions
@@ -27,3 +28,4 @@ The provided sources explore individual cases of neurological and developmental 
 
 - [fxa100-week06-some-workmen-can-blame-their-tools-artistic-change-in-an-(2)](../sources/fxa100-week06-some-workmen-can-blame-their-tools-artistic-change-in-an-%282%29.md)
 - [fxa202-therapeutic-photography-ch01-chapter-10](../sources/fxa202-therapeutic-photography-ch01-chapter-10.md)
+- [fxa302-week08-fxa302-week-8-welcome](../sources/fxa302-week08-fxa302-week-8-welcome.md)

@@ -3,13 +3,14 @@ confidence: medium
 domain: method
 slug: internet-security-and-authentication
 sources:
+  - fxa302-week08-web-article-daverio-2001
   - fxa303-week06-web-article-butler-2009
   - fxa303-week06-web-article-linn-2020
 tags:
 - internet-security
 title: Internet Security and Authentication
 type: topic
-updated: 2026-05-11
+updated: 2026-08-31
 ---
 
 ## Internet Security and Authentication
@@ -27,5 +28,6 @@ The sources emphasize the importance of secure access in internet security throu
 
 ## Sources
 
+- [fxa302-week08-web-article-daverio-2001](../sources/fxa302-week08-web-article-daverio-2001.md)
 - [fxa303-week06-web-article-butler-2009](../sources/fxa303-week06-web-article-butler-2009.md)
 - [fxa303-week06-web-article-linn-2020](../sources/fxa303-week06-web-article-linn-2020.md)

@@ -18,5 +18,7 @@ updated: 2026-08-31
 - [Color Harmony](../sources/fxa101-week07-color-harmony.md)
 - [Activities for Week 7 - FXA101 Creativity and Ageing](../sources/fxa101-week07-lesson-fxa101-week07-page-2-week-7-activities.md)
 - [Week 2 Introduction - FXA301 Arts in the Community](../sources/fxa301-week01-week-2-introduction-fxa301-arts-in-the-community.md)
+- [Mental Illness and Creativity](../sources/fxa302-week08-lesson-fxa302-week08-welcome-to-week-7.md)
+- [The rewards of chronic illness](../sources/fxa302-week08-the-rewards-of-chronic-illness.md)
 - [Creativity and Mental Health](../sources/fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam.md)
 - [Applying Creativity in Practice](../sources/fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam.md)

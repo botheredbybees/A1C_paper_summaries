@@ -15,13 +15,15 @@ sources:
   - fxa101-week07-color-harmony
   - fxa101-week07-lesson-fxa101-week07-page-2-week-7-activities
   - fxa301-week01-week-2-introduction-fxa301-arts-in-the-community
+  - fxa302-week08-lesson-fxa302-week08-welcome-to-week-7
+  - fxa302-week08-the-rewards-of-chronic-illness
   - fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam
   - fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam
 tags:
 - creativity
 title: Creativity
 type: topic
-updated: 2026-08-17
+updated: 2026-08-31
 ---
 
 ## Creativity
@@ -52,5 +54,7 @@ The concept of creativity is examined across multiple perspectives in these sour
 - [fxa101-week07-color-harmony](../sources/fxa101-week07-color-harmony.md)
 - [fxa101-week07-lesson-fxa101-week07-page-2-week-7-activities](../sources/fxa101-week07-lesson-fxa101-week07-page-2-week-7-activities.md)
 - [fxa301-week01-week-2-introduction-fxa301-arts-in-the-community](../sources/fxa301-week01-week-2-introduction-fxa301-arts-in-the-community.md)
+- [fxa302-week08-lesson-fxa302-week08-welcome-to-week-7](../sources/fxa302-week08-lesson-fxa302-week08-welcome-to-week-7.md)
+- [fxa302-week08-the-rewards-of-chronic-illness](../sources/fxa302-week08-the-rewards-of-chronic-illness.md)
 - [fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam.md)
 - [fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch03-5-applying-creativity-in-practice-tony-gillam.md)

@@ -3,12 +3,15 @@ confidence: low
 domain: intervention
 slug: arts-based-therapies
 sources:
-- fxa301-week10-arts-based-therapies-in-the-treatment-of-eating-disorders
+  - fxa301-week10-arts-based-therapies-in-the-treatment-of-eating-disorders
+  - fxa302-week08-is-there-an-inverted-u-relationship-between-creativity-and
+  - fxa302-week08-the-mythconception-of-the-mad-genius
+  - psy214-week00-self-compassion-theory-method-research-and-intervention
 tags:
 - empirical-evidence
 title: Arts-Based Therapies
 type: topic
-updated: 2026-05-04
+updated: 2026-08-31
 ---
 
 ## Arts-Based Therapies
@@ -28,3 +31,6 @@ The literature on arts-based therapies in the treatment of eating disorders high
 ## Sources
 
 - [fxa301-week10-arts-based-therapies-in-the-treatment-of-eating-disorders](../sources/fxa301-week10-arts-based-therapies-in-the-treatment-of-eating-disorders.md)
+- [fxa302-week08-is-there-an-inverted-u-relationship-between-creativity-and](../sources/fxa302-week08-is-there-an-inverted-u-relationship-between-creativity-and.md)
+- [fxa302-week08-the-mythconception-of-the-mad-genius](../sources/fxa302-week08-the-mythconception-of-the-mad-genius.md)
+- [psy214-week00-self-compassion-theory-method-research-and-intervention](../sources/psy214-week00-self-compassion-theory-method-research-and-intervention.md)

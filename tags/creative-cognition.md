@@ -1,0 +1,9 @@
+---
+type: tag
+tag: creative-cognition
+updated: 2026-08-31
+---
+
+## Creative Cognition
+
+- [Is there an inverted-U relationship between creativity and psychopathology?](../sources/fxa302-week08-is-there-an-inverted-u-relationship-between-creativity-and.md)

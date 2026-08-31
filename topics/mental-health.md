@@ -40,6 +40,9 @@ sources:
   - fxa301-week10-lesson-fxa301-week10-page-4-week-3-activities
   - fxa301-week10-the-use-of-arts-interventions-for-mental-health-and
   - fxa302-week01-creative-arts-adult-community-learning
+  - fxa302-week08-fxa302-week-8-welcome
+  - fxa302-week08-lesson-fxa302-week08-page-3
+  - fxa302-week08-the-rewards-of-chronic-illness
   - fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam
   - fxa303-week02-free-play-and-childrens-mental-health
   - fxa303-week02-free-play-and-childrens-mental-health-(2)
@@ -133,6 +136,9 @@ The sources illustrate a variety of creative therapies that have been developed 
 - [fxa301-week10-lesson-fxa301-week10-page-4-week-3-activities](../sources/fxa301-week10-lesson-fxa301-week10-page-4-week-3-activities.md)
 - [fxa301-week10-the-use-of-arts-interventions-for-mental-health-and](../sources/fxa301-week10-the-use-of-arts-interventions-for-mental-health-and.md)
 - [fxa302-week01-creative-arts-adult-community-learning](../sources/fxa302-week01-creative-arts-adult-community-learning.md)
+- [fxa302-week08-fxa302-week-8-welcome](../sources/fxa302-week08-fxa302-week-8-welcome.md)
+- [fxa302-week08-lesson-fxa302-week08-page-3](../sources/fxa302-week08-lesson-fxa302-week08-page-3.md)
+- [fxa302-week08-the-rewards-of-chronic-illness](../sources/fxa302-week08-the-rewards-of-chronic-illness.md)
 - [fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch02-3-creativity-and-mental-health-tony-gillam.md)
 - [fxa303-week02-free-play-and-childrens-mental-health](../sources/fxa303-week02-free-play-and-childrens-mental-health.md)
 - [fxa303-week02-free-play-and-childrens-mental-health-(2)](../sources/fxa303-week02-free-play-and-childrens-mental-health-%282%29.md)

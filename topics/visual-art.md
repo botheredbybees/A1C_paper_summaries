@@ -7,8 +7,9 @@ tags: ["visual-art"]
 sources:
   - fxa100-week06-some-workmen-can-blame-their-tools-artistic-change-in-an-(2)
   - fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the
+  - fxa302-week08-lesson-fxa302-week08-page-2-amf
   - fxa303-week11-hidden-identities-and-concealed-dangers-visual-art
-updated: 2026-08-07
+updated: 2026-08-31
 ---
 
 ## Visual Art and Neurological Impact
@@ -29,4 +30,5 @@ The integration of visual art with neurological processes highlights the multifa
 
 - [fxa100-week06-some-workmen-can-blame-their-tools-artistic-change-in-an-(2)](../sources/fxa100-week06-some-workmen-can-blame-their-tools-artistic-change-in-an-%282%29.md)
 - [fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the](../sources/fxa100-week06-when-words-fade-the-canvas-speaks-revelations-from-the.md)
+- [fxa302-week08-lesson-fxa302-week08-page-2-amf](../sources/fxa302-week08-lesson-fxa302-week08-page-2-amf.md)
 - [fxa303-week11-hidden-identities-and-concealed-dangers-visual-art](../sources/fxa303-week11-hidden-identities-and-concealed-dangers-visual-art.md)

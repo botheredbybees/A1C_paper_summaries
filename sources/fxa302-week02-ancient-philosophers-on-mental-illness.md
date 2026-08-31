@@ -11,7 +11,7 @@ tags: ["ancient-philosophy", "mental-health-history", "soul-doctors", "fxa302", 
 key_concepts: ["Doctors of the soul", "Laws dialogue"]
 methods: ["historical analysis"]
 slug: fxa302-week02-ancient-philosophers-on-mental-illness
-related: []
+related: ["mental-health-history"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -41,4 +41,4 @@ This article explores the ancient philosophers' understanding of mental illness 
 
 ## See Also
 
-*(none yet)*
+- [mental-health-history](../topics/mental-health-history.md)

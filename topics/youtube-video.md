@@ -6,12 +6,13 @@ sources:
   - fxa301-week05-transcript-duration-8-16-url-only
   - fxa301-week08-transcript-youtube-vyjzrflr50e-url-only
   - fxa302-week01-transcript-duration-4-00-url-only
+  - fxa302-week08-transcript-john-dowland-flow-my-tears-url-only
   - fxa303-week05-transcript-duration-9-39-url-only
 tags:
 - youtube-video
 title: YouTube Video Transcripts
 type: topic
-updated: 2026-07-06
+updated: 2026-08-31
 ---
 
 ## YouTube Video Transcripts
@@ -33,4 +34,5 @@ The analysis of YouTube video transcripts presents a methodological focus on the
 - [fxa301-week05-transcript-duration-8-16-url-only](../sources/fxa301-week05-transcript-duration-8-16-url-only.md)
 - [fxa301-week08-transcript-youtube-vyjzrflr50e-url-only](../sources/fxa301-week08-transcript-youtube-vyjzrflr50e-url-only.md)
 - [fxa302-week01-transcript-duration-4-00-url-only](../sources/fxa302-week01-transcript-duration-4-00-url-only.md)
+- [fxa302-week08-transcript-john-dowland-flow-my-tears-url-only](../sources/fxa302-week08-transcript-john-dowland-flow-my-tears-url-only.md)
 - [fxa303-week05-transcript-duration-9-39-url-only](../sources/fxa303-week05-transcript-duration-9-39-url-only.md)

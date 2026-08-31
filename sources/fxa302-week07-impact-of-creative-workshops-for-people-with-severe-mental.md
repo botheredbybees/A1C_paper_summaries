@@ -7,13 +7,15 @@ doi: https://doi.org/10.1080/17533015.2017.1381130
 appearances:
   - unit: FXA302
     week: "07"
+  - unit: FXA302
+    week: "08"
 tags: ["mental-health-recovery", "creative-interventions", "wellbeing-enhancement", "social-connection", "fxa302"]
 key_concepts: ["psychological-wellbeing", "art-as-therapy", "recovery-promotion"]
 methods: ["case-study"]
 slug: fxa302-week07-impact-of-creative-workshops-for-people-with-severe-mental
 related: ["creative-interventions", "mental-health-recovery", "social-connection", "wellbeing-enhancement"]
 created: 2026-08-07
-updated: 2026-08-07
+updated: 2026-08-31
 ---
 
 _All claims sourced from ../raw/pdf/fxa302-week07-impact-of-creative-workshops-for-people-with-severe-mental.md_

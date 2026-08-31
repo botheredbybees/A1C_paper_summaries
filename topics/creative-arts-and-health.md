@@ -8,7 +8,8 @@ sources:
   - fxa202-week03-a-healing-journey
   - fxa302-week03-lesson-fxa302-week03-page-2
   - fxa302-week04-lesson-fxa302-week04-week-4
-updated: 2026-08-07
+  - fxa302-week08-the-illness-of-vincent-van-gogh
+updated: 2026-08-31
 ---
 
 ## Creative Arts and Health
@@ -30,3 +31,4 @@ The integration of creative arts into health and wellbeing practices is examined
 - [fxa202-week03-a-healing-journey](../sources/fxa202-week03-a-healing-journey.md)
 - [fxa302-week03-lesson-fxa302-week03-page-2](../sources/fxa302-week03-lesson-fxa302-week03-page-2.md)
 - [fxa302-week04-lesson-fxa302-week04-week-4](../sources/fxa302-week04-lesson-fxa302-week04-week-4.md)
+- [fxa302-week08-the-illness-of-vincent-van-gogh](../sources/fxa302-week08-the-illness-of-vincent-van-gogh.md)

@@ -15,3 +15,4 @@ updated: 2026-08-31
 - [Monet and Cataracts](../sources/fxa302-week06-monet-and-cataracts.md)
 - [Florent Farges Lecture](../sources/fxa302-week06-transcript-florent-farges-2019-beaux-arts-11-may-url-only.md)
 - [The Iconography of Blindness: how artists have portrayed the blind](../sources/fxa302-week06-transcript-gresham-college-the-iconography-of-blindness-how.md)
+- [About the Cover: Edvard Munch's Self-Portrait After the Spanish Flu](../sources/fxa302-week08-about-the-cover-edvard-munchs-self-portrait-after-the.md)
