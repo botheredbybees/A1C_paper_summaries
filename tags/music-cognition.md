@@ -16,4 +16,5 @@ updated: 2026-09-07
 - [The Quest for Universals in Temporal Processing in Music](../sources/fxa300-week03-the-quest-for-universals-in-temporal-processing-in-music.md)
 - [How does the Brain Perceive Music?](../sources/fxa300-week04-lesson-fxa300-week04-page-3-how-does-the-brain-hear.md)
 - [Music Cognition](../sources/fxa300-week04-music-cognition.md)
+- [The Effect of Implied Harmony, Contour and Musical Expertise on Judgments of Similarity of Familiar Melodies](../sources/fxa300-week09-the-effect-of-implied-harmony-contour-and-musical-expertise.md)
 - [The Influence of Cultural Activities and Music on Health](../sources/fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-%282%29.md)

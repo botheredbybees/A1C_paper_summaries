@@ -7,7 +7,9 @@ tags: ["music-preference"]
 sources:
   - fxa300-week05-toward-a-better-understanding-of-the-relation-between-music
   - fxa300-week05-you-dont-know-a-persons-taste-when-you-only-know-which
-updated: 2026-08-03
+  - fxa300-week09-exposure-effects-on-music-preference-and-recognition
+  - fxa300-week09-the-effects-of-music-exposure-and-own-genre-preference-on
+updated: 2026-09-07
 ---
 
 ## Music Preference
@@ -28,3 +30,5 @@ The relationship between music preference and personality is a complex area of s
 
 - [fxa300-week05-toward-a-better-understanding-of-the-relation-between-music](../sources/fxa300-week05-toward-a-better-understanding-of-the-relation-between-music.md)
 - [fxa300-week05-you-dont-know-a-persons-taste-when-you-only-know-which](../sources/fxa300-week05-you-dont-know-a-persons-taste-when-you-only-know-which.md)
+- [fxa300-week09-exposure-effects-on-music-preference-and-recognition](../sources/fxa300-week09-exposure-effects-on-music-preference-and-recognition.md)
+- [fxa300-week09-the-effects-of-music-exposure-and-own-genre-preference-on](../sources/fxa300-week09-the-effects-of-music-exposure-and-own-genre-preference-on.md)

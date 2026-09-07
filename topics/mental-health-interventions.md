@@ -23,6 +23,7 @@ sources:
   - fxa202-week09-expressive-writing-therapy-exercises-examples
   - fxa202-week13-phototherapy-to-increase-self-compassion-in-college-students
   - fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2)
+  - fxa300-week09-effects-of-group-drumming-interventions-on-anxiety
   - fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6
   - fxa301-week01-arts-on-prescription-in-sefton-programme-report
   - fxa301-week01-guidelines-for-arts-and-mental-health-projects
@@ -54,7 +55,7 @@ tags:
 - mental-health-interventions
 title: Creative Therapies in Mental Health
 type: topic
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 ## Creative Therapies in Mental Health
@@ -93,6 +94,7 @@ The exploration of creative therapies such as photography and play offers unique
 - [fxa202-week09-expressive-writing-therapy-exercises-examples](../sources/fxa202-week09-expressive-writing-therapy-exercises-examples.md)
 - [fxa202-week13-phototherapy-to-increase-self-compassion-in-college-students](../sources/fxa202-week13-phototherapy-to-increase-self-compassion-in-college-students.md)
 - [fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2)](../sources/fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-%282%29.md)
+- [fxa300-week09-effects-of-group-drumming-interventions-on-anxiety](../sources/fxa300-week09-effects-of-group-drumming-interventions-on-anxiety.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6](../sources/fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6.md)
 - [fxa301-week01-arts-on-prescription-in-sefton-programme-report](../sources/fxa301-week01-arts-on-prescription-in-sefton-programme-report.md)
 - [fxa301-week01-guidelines-for-arts-and-mental-health-projects](../sources/fxa301-week01-guidelines-for-arts-and-mental-health-projects.md)

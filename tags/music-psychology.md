@@ -41,6 +41,8 @@ updated: 2026-09-07
 - [Experimental Designs in Music Psychology](../sources/fxa300-week06-lesson-fxa300-week06-page-2-1.md)
 - [Book Review of Music in the Human Experience: An Introduction to Music Psychology](../sources/fxa300-week08-book-review-of-music-in-the-human-experience-an.md)
 - [Concluding Remarks](../sources/fxa300-week08-concluding-remarks.md)
+- [Design for Your Research Proposal - FXA300 Music, Mind and Body](../sources/fxa300-week09-lesson-fxa300-week09-page-2-1.md)
+- [The effects of music exposure and own genre preference on conscious and unconscious cognitive processes: A pilot ERP study](../sources/fxa300-week09-the-effects-of-music-exposure-and-own-genre-preference-on.md)
 - [Physiological Responses to Music and Sound Stimuli](../sources/fxa301-oxford-textbook-of-creative-arts-ch08-96-clift.md)
 - [Aesthetic Responses to Music: A Questionnaire Study](../sources/fxa301-week02-aesthetic-responses-to-music-a-questionnaire-study.md)
 - [An Experience Sampling Study of Emotional Reactions to Music: Listener, Music, and Situation](../sources/fxa301-week02-an-experience-sampling-study-of-emotional-reactions-to.md)

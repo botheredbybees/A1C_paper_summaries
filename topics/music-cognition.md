@@ -13,12 +13,13 @@ sources:
   - fxa300-week03-the-quest-for-universals-in-temporal-processing-in-music
   - fxa300-week04-lesson-fxa300-week04-page-3-how-does-the-brain-hear
   - fxa300-week04-music-cognition
+  - fxa300-week09-the-effect-of-implied-harmony-contour-and-musical-expertise
   - fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2)
 tags:
 - music-cognition
 title: Music Cognition
 type: topic
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 ## Music Cognition
@@ -47,4 +48,5 @@ The exploration of music cognition through various sources reveals the intricate
 - [fxa300-week03-the-quest-for-universals-in-temporal-processing-in-music](../sources/fxa300-week03-the-quest-for-universals-in-temporal-processing-in-music.md)
 - [fxa300-week04-lesson-fxa300-week04-page-3-how-does-the-brain-hear](../sources/fxa300-week04-lesson-fxa300-week04-page-3-how-does-the-brain-hear.md)
 - [fxa300-week04-music-cognition](../sources/fxa300-week04-music-cognition.md)
+- [fxa300-week09-the-effect-of-implied-harmony-contour-and-musical-expertise](../sources/fxa300-week09-the-effect-of-implied-harmony-contour-and-musical-expertise.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-%282%29.md)

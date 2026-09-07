@@ -11,7 +11,7 @@ tags: ["community-arts", "mental-health-recovery", "identity-change", "serious-m
 key_concepts: ["Social Identity Approach to Health", "Transformative Learning Theory"]
 methods: ["realist review"]
 slug: fxa301-week08-community-arts-identity-and-recovery-a-realist-review-of
-related: ["community-arts", "mental-health-recovery"]
+related: ["community-arts", "mental-health-recovery", "serious-mental-illness"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -45,3 +45,4 @@ This article explores how community arts activities contribute to the recovery p
 
 - [community-arts](../topics/community-arts.md)
 - [mental-health-recovery](../topics/mental-health-recovery.md)
+- [serious-mental-illness](../topics/serious-mental-illness.md)

@@ -9,7 +9,10 @@ sources:
   - fxa100-week03-the-short-term-impact-of-music-interventions-on-stress
   - fxa101-week04-web-article-bugos-2019
   - fxa300-week08-effects-of-music-on-agitation-in-dementia-a-meta-analysis
-updated: 2026-08-31
+  - fxa300-week09-effectiveness-of-music-interventions-on-dental-anxiety-in
+  - fxa300-week09-music-interventions-for-mechanically-ventilated-patients
+  - fxa300-week09-the-use-of-music-in-the-treatment-and-management-of-serious
+updated: 2026-09-07
 ---
 
 ## Music Interventions and Cognitive Health
@@ -32,3 +35,6 @@ The research on music interventions highlights their diverse impacts on cognitiv
 - [fxa100-week03-the-short-term-impact-of-music-interventions-on-stress](../sources/fxa100-week03-the-short-term-impact-of-music-interventions-on-stress.md)
 - [fxa101-week04-web-article-bugos-2019](../sources/fxa101-week04-web-article-bugos-2019.md)
 - [fxa300-week08-effects-of-music-on-agitation-in-dementia-a-meta-analysis](../sources/fxa300-week08-effects-of-music-on-agitation-in-dementia-a-meta-analysis.md)
+- [fxa300-week09-effectiveness-of-music-interventions-on-dental-anxiety-in](../sources/fxa300-week09-effectiveness-of-music-interventions-on-dental-anxiety-in.md)
+- [fxa300-week09-music-interventions-for-mechanically-ventilated-patients](../sources/fxa300-week09-music-interventions-for-mechanically-ventilated-patients.md)
+- [fxa300-week09-the-use-of-music-in-the-treatment-and-management-of-serious](../sources/fxa300-week09-the-use-of-music-in-the-treatment-and-management-of-serious.md)

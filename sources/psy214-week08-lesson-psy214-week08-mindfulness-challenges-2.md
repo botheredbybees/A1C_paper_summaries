@@ -11,7 +11,7 @@ tags: ["mindfulness", "stress-management", "mental-health", "psy214", "stress-re
 key_concepts: ["emotional-regulation", "stress-reactivity", "urge-surfing"]
 methods: []
 slug: psy214-week08-lesson-psy214-week08-mindfulness-challenges-2
-related: ["mental-health", "mindfulness", "stress-management"]
+related: ["mental-health", "mindfulness", "stress-management", "stress-reactivity"]
 created: 2026-08-31
 updated: 2026-08-31
 ---
@@ -44,3 +44,4 @@ This lesson explores the mechanisms and outcomes of mindfulness practices, parti
 - [mental-health](../topics/mental-health.md)
 - [mindfulness](../topics/mindfulness.md)
 - [stress-management](../topics/stress-management.md)
+- [stress-reactivity](../topics/stress-reactivity.md)

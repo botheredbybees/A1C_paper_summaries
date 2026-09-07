@@ -7,6 +7,8 @@ sources:
   - fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression
   - fxa202-week09-5-benefits-of-journaling-for-mental-health
   - fxa300-week06-in-home-online-music-based-intervention-for-stress-coping
+  - fxa300-week09-listening-to-music-and-physiological-and-psychological
+  - fxa300-week09-music-listening-as-a-means-of-stress-reduction-in-daily-life
   - fxa301-week02-the-influence-of-stress-optimism-and-music-training-on
   - fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and
   - fxa303-week03-creative-arts-interventions-for-stress-management-and
@@ -53,7 +55,7 @@ tags:
 - stress-management
 title: Stress Management Interventions
 type: topic
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Stress Management Interventions
@@ -76,6 +78,8 @@ The exploration of stress management interventions across multiple sources highl
 - [fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression](../sources/fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression.md)
 - [fxa202-week09-5-benefits-of-journaling-for-mental-health](../sources/fxa202-week09-5-benefits-of-journaling-for-mental-health.md)
 - [fxa300-week06-in-home-online-music-based-intervention-for-stress-coping](../sources/fxa300-week06-in-home-online-music-based-intervention-for-stress-coping.md)
+- [fxa300-week09-listening-to-music-and-physiological-and-psychological](../sources/fxa300-week09-listening-to-music-and-physiological-and-psychological.md)
+- [fxa300-week09-music-listening-as-a-means-of-stress-reduction-in-daily-life](../sources/fxa300-week09-music-listening-as-a-means-of-stress-reduction-in-daily-life.md)
 - [fxa301-week02-the-influence-of-stress-optimism-and-music-training-on](../sources/fxa301-week02-the-influence-of-stress-optimism-and-music-training-on.md)
 - [fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and](../sources/fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and.md)
 - [fxa303-week03-creative-arts-interventions-for-stress-management-and](../sources/fxa303-week03-creative-arts-interventions-for-stress-management-and.md)

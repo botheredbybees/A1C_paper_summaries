@@ -8,6 +8,7 @@ updated: 2026-09-07
 
 - [In My Father's Words review \u2013 sophisticated dementia drama](../sources/fxa100-week09-in-my-fathers-words-review-sophisticated-dementia-drama.md)
 - [Young Listeners\u2019 Music Style Preferences: Patterns Related to Cultural Identification and Language Use](../sources/fxa300-week05-young-listeners-music-style-preferences-patterns-related-to.md)
+- [The Psychology of Music](../sources/fxa300-week09-web-article-novotney-2013.md)
 - [How Murals Helped Turn a Declining Community Around](../sources/fxa301-week05-how-murals-helped-turn-a-declining-community-around.md)
 - [Review: Healing Powers and Modernity, Shamanism, and Neurological Perspectives on Consciousness](../sources/fxa302-week02-review-healing-powers-and-modernity-shamanism-and.md)
 - [How Country, Spirituality, Music and Arts Contribute to Indigenous Mental Health and Wellbeing](../sources/fxa303-week10-how-country-spirituality-music-and-arts-contribute-to.md)

@@ -6,8 +6,9 @@ confidence: medium
 tags: ["brain-activity"]
 sources:
   - fxa100-week06-brain-activities-in-a-skilled-versus-a-novice-artist-an
+  - fxa300-week09-the-effects-of-music-exposure-and-own-genre-preference-on
   - psy214-week06-nature-experience-reduces-rumination-and-subgenual
-updated: 2026-08-10
+updated: 2026-09-07
 ---
 
 ## Brain Activities in Expertise and Nature Experience
@@ -26,4 +27,5 @@ This synthesis explores the neural mechanisms underpinning expertise and cogniti
 ## Sources
 
 - [fxa100-week06-brain-activities-in-a-skilled-versus-a-novice-artist-an](../sources/fxa100-week06-brain-activities-in-a-skilled-versus-a-novice-artist-an.md)
+- [fxa300-week09-the-effects-of-music-exposure-and-own-genre-preference-on](../sources/fxa300-week09-the-effects-of-music-exposure-and-own-genre-preference-on.md)
 - [psy214-week06-nature-experience-reduces-rumination-and-subgenual](../sources/psy214-week06-nature-experience-reduces-rumination-and-subgenual.md)

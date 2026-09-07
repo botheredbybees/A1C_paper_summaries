@@ -6,8 +6,9 @@ confidence: medium
 tags: ["anxiety-treatment"]
 sources:
   - fxa101-week00-the-effectiveness-of-art-therapy-for-anxiety-in-adults-a
+  - fxa300-week09-lesson-fxa300-week09-page-2-music-and-mental-health-and
   - fxa303-week03-arts-on-prescription-observed-changes-in-anxiety-depression
-updated: 2026-08-08
+updated: 2026-09-07
 ---
 
 ## Art Therapy for Anxiety
@@ -27,4 +28,5 @@ Both sources discuss the effectiveness of art-based interventions in treating an
 ## Sources
 
 - [fxa101-week00-the-effectiveness-of-art-therapy-for-anxiety-in-adults-a](../sources/fxa101-week00-the-effectiveness-of-art-therapy-for-anxiety-in-adults-a.md)
+- [fxa300-week09-lesson-fxa300-week09-page-2-music-and-mental-health-and](../sources/fxa300-week09-lesson-fxa300-week09-page-2-music-and-mental-health-and.md)
 - [fxa303-week03-arts-on-prescription-observed-changes-in-anxiety-depression](../sources/fxa303-week03-arts-on-prescription-observed-changes-in-anxiety-depression.md)

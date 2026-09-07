@@ -11,7 +11,7 @@ tags: ["music-therapy", "psychoneuroendocrinology", "hormonal-effects", "wellbei
 key_concepts: ["psychoneuroendocrinology", "hormonal-systems", "musical-experiences"]
 methods: ["systematic-review", "empirical-studies"]
 slug: fxa300-week08-psychoneuroendocrine-research-on-music-and-health-an
-related: ["creative-arts-health", "hormonal-effects", "music-therapy", "musical-experiences", "wellbeing-research"]
+related: ["creative-arts-health", "hormonal-effects", "music-therapy", "musical-experiences", "psychoneuroendocrinology", "wellbeing-research"]
 created: 2026-08-31
 updated: 2026-08-31
 ---
@@ -48,4 +48,5 @@ This chapter explores the impact of musical activities such as listening, singin
 - [hormonal-effects](../topics/hormonal-effects.md)
 - [music-therapy](../topics/music-therapy.md)
 - [musical-experiences](../topics/musical-experiences.md)
+- [psychoneuroendocrinology](../topics/psychoneuroendocrinology.md)
 - [wellbeing-research](../topics/wellbeing-research.md)

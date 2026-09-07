@@ -13,7 +13,7 @@ tags: ["mindfulness-practice", "daily-activities", "emotional-regulation", "posi
 key_concepts: ["informal-mindfulness", "emotional-wellbeing", "attentional-focus"]
 methods: ["controlled-experiment"]
 slug: psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an
-related: ["emotional-regulation", "informal-mindfulness", "mindfulness-practice", "positive-affect"]
+related: ["attentional-focus", "emotional-regulation", "informal-mindfulness", "mindfulness-practice", "positive-affect"]
 created: 2026-06-25
 updated: 2026-08-07
 ---
@@ -44,6 +44,7 @@ This study examines whether washing dishes can serve as an informal mindfulness 
 
 ## See Also
 
+- [attentional-focus](../topics/attentional-focus.md)
 - [emotional-regulation](../topics/emotional-regulation.md)
 - [informal-mindfulness](../topics/informal-mindfulness.md)
 - [mindfulness-practice](../topics/mindfulness-practice.md)

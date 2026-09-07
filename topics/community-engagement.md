@@ -19,6 +19,7 @@ sources:
   - fxa101-week04-case-study-engaging-older-people-in-creative-thinkingthe
   - fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using
   - fxa202-week13-using-photovoice-as-a-tool-to-engage-social-work-students
+  - fxa300-week09-keeping-research-on-track-ii-a-companion-document-to
   - fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts
   - fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts-(2)
   - fxa301-make-arts-for-a-better-life-ch09-5-choose-a-goal-needs-may-be-linked-within-communities
@@ -94,7 +95,7 @@ tags:
 - community-engagement
 title: Community Engagement
 type: topic
-updated: 2026-08-17
+updated: 2026-09-07
 ---
 
 ## Community Engagement
@@ -129,6 +130,7 @@ Community engagement is a multifaceted intervention aimed at fostering participa
 - [fxa101-week04-case-study-engaging-older-people-in-creative-thinkingthe](../sources/fxa101-week04-case-study-engaging-older-people-in-creative-thinkingthe.md)
 - [fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using](../sources/fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using.md)
 - [fxa202-week13-using-photovoice-as-a-tool-to-engage-social-work-students](../sources/fxa202-week13-using-photovoice-as-a-tool-to-engage-social-work-students.md)
+- [fxa300-week09-keeping-research-on-track-ii-a-companion-document-to](../sources/fxa300-week09-keeping-research-on-track-ii-a-companion-document-to.md)
 - [fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts](../sources/fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts.md)
 - [fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts-(2)](../sources/fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts-%282%29.md)
 - [fxa301-make-arts-for-a-better-life-ch09-5-choose-a-goal-needs-may-be-linked-within-communities](../sources/fxa301-make-arts-for-a-better-life-ch09-5-choose-a-goal-needs-may-be-linked-within-communities.md)

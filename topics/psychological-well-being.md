@@ -4,6 +4,7 @@ domain: intervention
 slug: psychological-well-being-through-creative-and-expressive-activities
 sources:
   - fxa101-week02-on-creativity-and-meaning-the-intricate-relationship
+  - fxa300-week09-listening-to-music-and-physiological-and-psychological
   - fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2)
   - fxa301-week08-health-related-effects-of-creative-and-expressive-writing
   - fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective
@@ -13,7 +14,7 @@ tags:
 - psychological-well-being
 title: Psychological Well-Being through Creative and Expressive Activities
 type: topic
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 ## Psychological Well-Being through Creative and Expressive Activities
@@ -33,6 +34,7 @@ The integration of creative activities such as music, expressive writing, and th
 ## Sources
 
 - [fxa101-week02-on-creativity-and-meaning-the-intricate-relationship](../sources/fxa101-week02-on-creativity-and-meaning-the-intricate-relationship.md)
+- [fxa300-week09-listening-to-music-and-physiological-and-psychological](../sources/fxa300-week09-listening-to-music-and-physiological-and-psychological.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch26-623-dissanayake-%282%29.md)
 - [fxa301-week08-health-related-effects-of-creative-and-expressive-writing](../sources/fxa301-week08-health-related-effects-of-creative-and-expressive-writing.md)
 - [fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective](../sources/fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective.md)

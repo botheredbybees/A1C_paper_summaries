@@ -8,7 +8,8 @@ sources:
   - fxa101-week02-web-article-kozbelt-2010
   - fxa300-week07-a-synthesis-process-model-of-creative-thinking-in-music
   - fxa300-week07-musical-creativity-and-the-brain
-updated: 2026-08-17
+  - fxa300-week09-the-effects-of-music-exposure-and-own-genre-preference-on
+updated: 2026-09-07
 ---
 
 ## Theoretical Models of Creativity
@@ -30,3 +31,4 @@ The theoretical models of creativity discussed across the provided sources highl
 - [fxa101-week02-web-article-kozbelt-2010](../sources/fxa101-week02-web-article-kozbelt-2010.md)
 - [fxa300-week07-a-synthesis-process-model-of-creative-thinking-in-music](../sources/fxa300-week07-a-synthesis-process-model-of-creative-thinking-in-music.md)
 - [fxa300-week07-musical-creativity-and-the-brain](../sources/fxa300-week07-musical-creativity-and-the-brain.md)
+- [fxa300-week09-the-effects-of-music-exposure-and-own-genre-preference-on](../sources/fxa300-week09-the-effects-of-music-exposure-and-own-genre-preference-on.md)

@@ -4,6 +4,7 @@ domain: theory
 slug: cultural-determinants-of-aboriginal-health
 sources:
   - fxa100-week07-prevalence-of-dementia-in-urban-and-regional-aboriginal
+  - fxa300-week09-keeping-research-on-track-ii-a-companion-document-to
   - fxa302-week02-birthing-on-country-and-dying-on-country
   - fxa302-week02-traditional-life-for-health
   - fxa303-week10-cultural-determinants-of-health-for-aboriginal-and-torres
@@ -11,7 +12,7 @@ tags:
 - aboriginal-health
 title: Cultural Determinants of Aboriginal Health
 type: topic
-updated: 2026-07-13
+updated: 2026-09-07
 ---
 
 ## Cultural Determinants of Aboriginal Health
@@ -35,6 +36,7 @@ Together, these sources illuminate how cultural continuity serves as a protectiv
 ## Sources
 
 - [fxa100-week07-prevalence-of-dementia-in-urban-and-regional-aboriginal](../sources/fxa100-week07-prevalence-of-dementia-in-urban-and-regional-aboriginal.md)
+- [fxa300-week09-keeping-research-on-track-ii-a-companion-document-to](../sources/fxa300-week09-keeping-research-on-track-ii-a-companion-document-to.md)
 - [fxa302-week02-birthing-on-country-and-dying-on-country](../sources/fxa302-week02-birthing-on-country-and-dying-on-country.md)
 - [fxa302-week02-traditional-life-for-health](../sources/fxa302-week02-traditional-life-for-health.md)
 - [fxa303-week10-cultural-determinants-of-health-for-aboriginal-and-torres](../sources/fxa303-week10-cultural-determinants-of-health-for-aboriginal-and-torres.md)

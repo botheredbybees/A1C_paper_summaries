@@ -11,7 +11,7 @@ tags: ["scientific-method", "research-design", "hypothesis-testing", "fxa300", "
 key_concepts: ["scientific method", "research hypothesis"]
 methods: []
 slug: fxa300-week06-lesson-fxa300-week06-welcome-to-week-6
-related: ["research-design", "scientific-method"]
+related: ["hypothesis-testing", "research-design", "scientific-method"]
 created: 2026-08-10
 updated: 2026-08-10
 ---
@@ -40,5 +40,6 @@ In this week's module of FXA300 Music, Mind and Body, the focus is on understand
 
 ## See Also
 
+- [hypothesis-testing](../topics/hypothesis-testing.md)
 - [research-design](../topics/research-design.md)
 - [scientific-method](../topics/scientific-method.md)

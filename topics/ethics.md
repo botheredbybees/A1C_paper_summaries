@@ -4,13 +4,14 @@ domain: theory
 slug: ethics-in-healthcare-and-research
 sources:
   - fxa100-how-we-thnk-about-dementia-ch08-chapter-4
+  - fxa300-week09-lesson-fxa300-week09-page-3
   - fxa301-arts-in-health-ch76-3-responsibility
   - fxa301-music-healt-and-wellbeing-ch05-10680-meymandi
 tags:
 - ethics
 title: Ethics In Healthcare And Research
 type: topic
-updated: 2026-05-15
+updated: 2026-09-07
 ---
 
 ## Ethics In Healthcare And Research
@@ -29,5 +30,6 @@ The examination of ethics within healthcare and research reveals a complex inter
 ## Sources
 
 - [fxa100-how-we-thnk-about-dementia-ch08-chapter-4](../sources/fxa100-how-we-thnk-about-dementia-ch08-chapter-4.md)
+- [fxa300-week09-lesson-fxa300-week09-page-3](../sources/fxa300-week09-lesson-fxa300-week09-page-3.md)
 - [fxa301-arts-in-health-ch76-3-responsibility](../sources/fxa301-arts-in-health-ch76-3-responsibility.md)
 - [fxa301-music-healt-and-wellbeing-ch05-10680-meymandi](../sources/fxa301-music-healt-and-wellbeing-ch05-10680-meymandi.md)

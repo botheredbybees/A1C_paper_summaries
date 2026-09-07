@@ -27,6 +27,17 @@ sources:
   - fxa300-week02-music-and-mind-harnessing-the-arts-for-health-and-wellness
   - fxa300-week06-book-reviews
   - fxa300-week08-fxa300-sem-2-2026-week-8-lecture
+  - fxa300-week09-a-historical-overview-of-music-therapy-for-adults-in-mental
+  - fxa300-week09-continuum-model-of-music-and-therapy-within-music-therapy
+  - fxa300-week09-evidence-based-practice-in-music-therapy-for-mental-health
+  - fxa300-week09-lesson-fxa300-week09-page-2-music-and-mental-health-and
+  - fxa300-week09-lesson-fxa300-week09-page-4-activities-1
+  - fxa300-week09-lesson-fxa300-week09-welcome-to-week-10-1
+  - fxa300-week09-music-therapy-for-diverse-service-users-in-mental-health
+  - fxa300-week09-music-therapy-in-mental-health-for-illness-management-and
+  - fxa300-week09-therapeutic-mechanisms-within-music-therapy-for-adults-with
+  - fxa300-week09-transdiagnostic-theory-for-group-music-therapy-in-mental
+  - fxa300-week09-web-article-novotney-2013
   - fxa301-oxford-handbook-of-dance-and-wellbeing
   - fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract
   - fxa301-week05-art-as-therapy
@@ -79,7 +90,7 @@ tags:
 - mental-health
 title: Creative Therapies for Mental Health
 type: topic
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Creative Therapies for Mental Health
@@ -124,6 +135,17 @@ The sources illustrate a variety of creative therapies that have been developed 
 - [fxa300-week02-music-and-mind-harnessing-the-arts-for-health-and-wellness](../sources/fxa300-week02-music-and-mind-harnessing-the-arts-for-health-and-wellness.md)
 - [fxa300-week06-book-reviews](../sources/fxa300-week06-book-reviews.md)
 - [fxa300-week08-fxa300-sem-2-2026-week-8-lecture](../sources/fxa300-week08-fxa300-sem-2-2026-week-8-lecture.md)
+- [fxa300-week09-a-historical-overview-of-music-therapy-for-adults-in-mental](../sources/fxa300-week09-a-historical-overview-of-music-therapy-for-adults-in-mental.md)
+- [fxa300-week09-continuum-model-of-music-and-therapy-within-music-therapy](../sources/fxa300-week09-continuum-model-of-music-and-therapy-within-music-therapy.md)
+- [fxa300-week09-evidence-based-practice-in-music-therapy-for-mental-health](../sources/fxa300-week09-evidence-based-practice-in-music-therapy-for-mental-health.md)
+- [fxa300-week09-lesson-fxa300-week09-page-2-music-and-mental-health-and](../sources/fxa300-week09-lesson-fxa300-week09-page-2-music-and-mental-health-and.md)
+- [fxa300-week09-lesson-fxa300-week09-page-4-activities-1](../sources/fxa300-week09-lesson-fxa300-week09-page-4-activities-1.md)
+- [fxa300-week09-lesson-fxa300-week09-welcome-to-week-10-1](../sources/fxa300-week09-lesson-fxa300-week09-welcome-to-week-10-1.md)
+- [fxa300-week09-music-therapy-for-diverse-service-users-in-mental-health](../sources/fxa300-week09-music-therapy-for-diverse-service-users-in-mental-health.md)
+- [fxa300-week09-music-therapy-in-mental-health-for-illness-management-and](../sources/fxa300-week09-music-therapy-in-mental-health-for-illness-management-and.md)
+- [fxa300-week09-therapeutic-mechanisms-within-music-therapy-for-adults-with](../sources/fxa300-week09-therapeutic-mechanisms-within-music-therapy-for-adults-with.md)
+- [fxa300-week09-transdiagnostic-theory-for-group-music-therapy-in-mental](../sources/fxa300-week09-transdiagnostic-theory-for-group-music-therapy-in-mental.md)
+- [fxa300-week09-web-article-novotney-2013](../sources/fxa300-week09-web-article-novotney-2013.md)
 - [fxa301-oxford-handbook-of-dance-and-wellbeing](../sources/fxa301-oxford-handbook-of-dance-and-wellbeing.md)
 - [fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract](../sources/fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract.md)
 - [fxa301-week05-art-as-therapy](../sources/fxa301-week05-art-as-therapy.md)

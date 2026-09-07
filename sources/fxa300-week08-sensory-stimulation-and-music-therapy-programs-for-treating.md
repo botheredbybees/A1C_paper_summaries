@@ -7,13 +7,15 @@ doi: https://doi.org/10.3389/fpsyg.2016.00297
 appearances:
   - unit: FXA300
     week: "08"
+  - unit: FXA300
+    week: "09"
 tags: ["disorders-of-consciousness", "sensory-stimulation", "music-therapy", "brain-recovery", "neuroplasticity", "therapeutic-interventions", "fxa300", "environmental-enrichment", "consciousness-recovery", "behavioral-evidence", "neuroimaging-evidence"]
 key_concepts: ["environmental-enrichment", "neuroplasticity", "consciousness-recovery", "behavioral-evidence", "neuroimaging-evidence"]
 methods: ["systematic-review", "case-study"]
 slug: fxa300-week08-sensory-stimulation-and-music-therapy-programs-for-treating
 related: ["brain-recovery", "environmental-enrichment", "music-therapy", "neuroplasticity", "sensory-stimulation", "therapeutic-interventions"]
 created: 2026-08-31
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa300-week08-sensory-stimulation-and-music-therapy-programs-for-treating.md_

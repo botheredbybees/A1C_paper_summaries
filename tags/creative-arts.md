@@ -11,6 +11,7 @@ updated: 2026-09-07
 - [Activities for Week 2 - FXA101 Creativity and Ageing](../sources/fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities.md)
 - [What kind of Research is Research Through Design](../sources/fxa101-week05-what-kind-of-research-is-research-through-design.md)
 - [Journal and Visual Research Guidelines](../sources/fxa202-week08-journal-and-visual-research-guidelines.md)
+- [Music Therapy in Mental Health for Illness Management and Recovery](../sources/fxa300-week09-music-therapy-in-mental-health-for-illness-management-and.md)
 - [Introduction to the field of creative arts, wellbeing, and health: achievements and current challenges](../sources/fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1.md)
 - [Case Study: Engaging Older People in Creative Thinking - The Active Energy Project](../sources/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-%282%29.md)
 - [Active Energy Project and Its Impact on Elderly Wellbeing](../sources/fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-%282%29.md)

@@ -8,6 +8,7 @@ sources:
   - fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities
   - fxa101-week05-what-kind-of-research-is-research-through-design
   - fxa202-week08-journal-and-visual-research-guidelines
+  - fxa300-week09-music-therapy-in-mental-health-for-illness-management-and
   - fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1
   - fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-(2)
   - fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2)
@@ -63,7 +64,7 @@ tags:
 - creative-arts
 title: Music Interventions and Cognitive Health
 type: topic
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Music Interventions and Cognitive Health
@@ -86,6 +87,7 @@ The integration of findings from both sources highlights the multifaceted benefi
 - [fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities](../sources/fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities.md)
 - [fxa101-week05-what-kind-of-research-is-research-through-design](../sources/fxa101-week05-what-kind-of-research-is-research-through-design.md)
 - [fxa202-week08-journal-and-visual-research-guidelines](../sources/fxa202-week08-journal-and-visual-research-guidelines.md)
+- [fxa300-week09-music-therapy-in-mental-health-for-illness-management-and](../sources/fxa300-week09-music-therapy-in-mental-health-for-illness-management-and.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1](../sources/fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-%282%29.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-%282%29.md)

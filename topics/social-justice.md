@@ -3,6 +3,7 @@ confidence: low
 domain: intervention
 slug: neurodiversity-and-social-justice-in-music-therapy
 sources:
+  - fxa300-week09-ethical-conduct-in-research-with-aboriginal-and-torres
   - fxa301-music-healt-and-wellbeing-ch05-10680-meymandi
   - fxa301-week01-interdisciplinarity-for-social-justice-enterprise
   - fxa301-week11-refugee-art-project
@@ -13,7 +14,7 @@ tags:
 - social-justice
 title: Neurodiversity and Social Justice in Music Therapy
 type: topic
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 ## Neurodiversity and Social Justice in Music Therapy
@@ -32,6 +33,7 @@ The integration of neurodiversity principles into arts-based therapies such as m
 
 ## Sources
 
+- [fxa300-week09-ethical-conduct-in-research-with-aboriginal-and-torres](../sources/fxa300-week09-ethical-conduct-in-research-with-aboriginal-and-torres.md)
 - [fxa301-music-healt-and-wellbeing-ch05-10680-meymandi](../sources/fxa301-music-healt-and-wellbeing-ch05-10680-meymandi.md)
 - [fxa301-week01-interdisciplinarity-for-social-justice-enterprise](../sources/fxa301-week01-interdisciplinarity-for-social-justice-enterprise.md)
 - [fxa301-week11-refugee-art-project](../sources/fxa301-week11-refugee-art-project.md)

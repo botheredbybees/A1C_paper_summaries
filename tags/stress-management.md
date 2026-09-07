@@ -10,6 +10,8 @@ updated: 2026-09-07
 - [Dance therapy as an intervention for stress and depression: a systematic review and meta-analysis](../sources/fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression.md)
 - [5 Benefits of Journaling for Mental Health](../sources/fxa202-week09-5-benefits-of-journaling-for-mental-health.md)
 - [In-home online music-based intervention for stress, coping, and depression among family caregivers of persons with dementia: A pilot study](../sources/fxa300-week06-in-home-online-music-based-intervention-for-stress-coping.md)
+- [Listening to music and physiological and psychological functioning: The mediating role of emotion regulation and stress reactivity](../sources/fxa300-week09-listening-to-music-and-physiological-and-psychological.md)
+- [Music listening as a means of stress reduction in daily life](../sources/fxa300-week09-music-listening-as-a-means-of-stress-reduction-in-daily-life.md)
 - [The Influence of Stress, Optimism, and Music Training on Music Uses and Preferences](../sources/fxa301-week02-the-influence-of-stress-optimism-and-music-training-on.md)
 - [Humor and Resiliency: Towards a Process Model of Coping and Growth](../sources/fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and.md)
 - [Creative Arts Interventions for Stress Management and Prevention\u2014A Systematic Review](../sources/fxa303-week03-creative-arts-interventions-for-stress-management-and.md)

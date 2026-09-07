@@ -6,6 +6,9 @@ updated: 2026-09-07
 
 ## Stress Reduction
 
+- [Music and Mental Health](../sources/fxa300-week09-lesson-fxa300-week09-page-2-music-and-mental-health-and.md)
+- [Music Listening and Stress in Daily Life\u2014a Matter of Timing](../sources/fxa300-week09-music-listening-and-stress-in-daily-lifea-matter-of-timing.md)
+- [The effects of music listening on pain and stress in the daily life of patients with fibromyalgia syndrome](../sources/fxa300-week09-the-effects-of-music-listening-on-pain-and-stress-in-the.md)
 - [Clowning in Health Care Settings: The Point of View of Adults](../sources/fxa303-week08-clowning-in-health-care-settings-the-point-of-view-of-adults.md)
 - [The Laughter Prescription: A Tool for Lifestyle Medicine](../sources/fxa303-week08-the-laughter-prescription-a-tool-for-lifestyle-medicine.md)
 - [Nature and Well-being: Theories](../sources/psy214-week06-nature-and-well-being-theories.md)

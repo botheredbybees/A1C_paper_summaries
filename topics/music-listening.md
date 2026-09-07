@@ -6,8 +6,9 @@ confidence: medium
 tags: ["music-listening"]
 sources:
   - fxa300-week05-self-selected-favourite-stimulative-and-sedative-music
+  - fxa300-week09-music-listening-and-stress-in-daily-lifea-matter-of-timing
   - fxa301-week03-music-listening-for-supporting-adolescents-sense-of-agency
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 ## Music Listening
@@ -27,4 +28,5 @@ The integration of findings from two studies on music listening highlights its m
 ## Sources
 
 - [fxa300-week05-self-selected-favourite-stimulative-and-sedative-music](../sources/fxa300-week05-self-selected-favourite-stimulative-and-sedative-music.md)
+- [fxa300-week09-music-listening-and-stress-in-daily-lifea-matter-of-timing](../sources/fxa300-week09-music-listening-and-stress-in-daily-lifea-matter-of-timing.md)
 - [fxa301-week03-music-listening-for-supporting-adolescents-sense-of-agency](../sources/fxa301-week03-music-listening-for-supporting-adolescents-sense-of-agency.md)

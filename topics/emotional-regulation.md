@@ -7,6 +7,7 @@ sources:
   - fxa300-week01-the-pleasures-of-sad-music-a-systematic-review
   - fxa300-week05-global-music-streaming-data-reveal-diurnal-and-seasonal
   - fxa300-week05-self-selected-favourite-stimulative-and-sedative-music
+  - fxa300-week09-listening-to-music-and-physiological-and-psychological
   - fxa301-week02-the-brain-and-how-we-perceive-information
   - fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and
   - fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd
@@ -26,7 +27,7 @@ tags:
 - emotional-regulation
 title: Emotional Regulation
 type: topic
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Emotional Regulation
@@ -49,6 +50,7 @@ The synthesis integrates various aspects of emotional regulation across diverse 
 - [fxa300-week01-the-pleasures-of-sad-music-a-systematic-review](../sources/fxa300-week01-the-pleasures-of-sad-music-a-systematic-review.md)
 - [fxa300-week05-global-music-streaming-data-reveal-diurnal-and-seasonal](../sources/fxa300-week05-global-music-streaming-data-reveal-diurnal-and-seasonal.md)
 - [fxa300-week05-self-selected-favourite-stimulative-and-sedative-music](../sources/fxa300-week05-self-selected-favourite-stimulative-and-sedative-music.md)
+- [fxa300-week09-listening-to-music-and-physiological-and-psychological](../sources/fxa300-week09-listening-to-music-and-physiological-and-psychological.md)
 - [fxa301-week02-the-brain-and-how-we-perceive-information](../sources/fxa301-week02-the-brain-and-how-we-perceive-information.md)
 - [fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and](../sources/fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and.md)
 - [fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd](../sources/fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd.md)

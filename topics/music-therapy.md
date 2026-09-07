@@ -137,6 +137,22 @@ sources:
   - fxa300-week08-psychoneuroendocrine-research-on-music-and-health-an
   - fxa300-week08-sensory-stimulation-and-music-therapy-programs-for-treating
   - fxa300-week08-the-effects-of-music-intervention-in-the-management-of
+  - fxa300-week09-a-historical-overview-of-music-therapy-for-adults-in-mental
+  - fxa300-week09-continuum-model-of-music-and-therapy-within-music-therapy
+  - fxa300-week09-evidence-based-practice-in-music-therapy-for-mental-health
+  - fxa300-week09-lesson-fxa300-week09-page-2-music-and-mental-health-and
+  - fxa300-week09-lesson-fxa300-week09-page-4-activities-1
+  - fxa300-week09-lesson-fxa300-week09-welcome-to-week-10-1
+  - fxa300-week09-listening-to-music-and-physiological-and-psychological
+  - fxa300-week09-music-interventions-for-mechanically-ventilated-patients
+  - fxa300-week09-music-listening-as-a-means-of-stress-reduction-in-daily-life
+  - fxa300-week09-music-therapy-for-diverse-service-users-in-mental-health
+  - fxa300-week09-music-therapy-in-mental-health-for-illness-management-and
+  - fxa300-week09-the-effects-of-music-listening-on-pain-and-stress-in-the
+  - fxa300-week09-the-future-of-music-therapy-and-mental-health
+  - fxa300-week09-the-use-of-music-in-the-treatment-and-management-of-serious
+  - fxa300-week09-therapeutic-mechanisms-within-music-therapy-for-adults-with
+  - fxa300-week09-transdiagnostic-theory-for-group-music-therapy-in-mental
   - fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the
   - fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music
   - fxa301-music-healt-and-wellbeing-ch05-10680-meymandi
@@ -181,7 +197,7 @@ tags:
 - music-therapy
 title: Music Therapy
 type: topic
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Music Therapy
@@ -334,6 +350,22 @@ The integration of music therapy across various neurological conditions undersco
 - [fxa300-week08-psychoneuroendocrine-research-on-music-and-health-an](../sources/fxa300-week08-psychoneuroendocrine-research-on-music-and-health-an.md)
 - [fxa300-week08-sensory-stimulation-and-music-therapy-programs-for-treating](../sources/fxa300-week08-sensory-stimulation-and-music-therapy-programs-for-treating.md)
 - [fxa300-week08-the-effects-of-music-intervention-in-the-management-of](../sources/fxa300-week08-the-effects-of-music-intervention-in-the-management-of.md)
+- [fxa300-week09-a-historical-overview-of-music-therapy-for-adults-in-mental](../sources/fxa300-week09-a-historical-overview-of-music-therapy-for-adults-in-mental.md)
+- [fxa300-week09-continuum-model-of-music-and-therapy-within-music-therapy](../sources/fxa300-week09-continuum-model-of-music-and-therapy-within-music-therapy.md)
+- [fxa300-week09-evidence-based-practice-in-music-therapy-for-mental-health](../sources/fxa300-week09-evidence-based-practice-in-music-therapy-for-mental-health.md)
+- [fxa300-week09-lesson-fxa300-week09-page-2-music-and-mental-health-and](../sources/fxa300-week09-lesson-fxa300-week09-page-2-music-and-mental-health-and.md)
+- [fxa300-week09-lesson-fxa300-week09-page-4-activities-1](../sources/fxa300-week09-lesson-fxa300-week09-page-4-activities-1.md)
+- [fxa300-week09-lesson-fxa300-week09-welcome-to-week-10-1](../sources/fxa300-week09-lesson-fxa300-week09-welcome-to-week-10-1.md)
+- [fxa300-week09-listening-to-music-and-physiological-and-psychological](../sources/fxa300-week09-listening-to-music-and-physiological-and-psychological.md)
+- [fxa300-week09-music-interventions-for-mechanically-ventilated-patients](../sources/fxa300-week09-music-interventions-for-mechanically-ventilated-patients.md)
+- [fxa300-week09-music-listening-as-a-means-of-stress-reduction-in-daily-life](../sources/fxa300-week09-music-listening-as-a-means-of-stress-reduction-in-daily-life.md)
+- [fxa300-week09-music-therapy-for-diverse-service-users-in-mental-health](../sources/fxa300-week09-music-therapy-for-diverse-service-users-in-mental-health.md)
+- [fxa300-week09-music-therapy-in-mental-health-for-illness-management-and](../sources/fxa300-week09-music-therapy-in-mental-health-for-illness-management-and.md)
+- [fxa300-week09-the-effects-of-music-listening-on-pain-and-stress-in-the](../sources/fxa300-week09-the-effects-of-music-listening-on-pain-and-stress-in-the.md)
+- [fxa300-week09-the-future-of-music-therapy-and-mental-health](../sources/fxa300-week09-the-future-of-music-therapy-and-mental-health.md)
+- [fxa300-week09-the-use-of-music-in-the-treatment-and-management-of-serious](../sources/fxa300-week09-the-use-of-music-in-the-treatment-and-management-of-serious.md)
+- [fxa300-week09-therapeutic-mechanisms-within-music-therapy-for-adults-with](../sources/fxa300-week09-therapeutic-mechanisms-within-music-therapy-for-adults-with.md)
+- [fxa300-week09-transdiagnostic-theory-for-group-music-therapy-in-mental](../sources/fxa300-week09-transdiagnostic-theory-for-group-music-therapy-in-mental.md)
 - [fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the](../sources/fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the.md)
 - [fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music](../sources/fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music.md)
 - [fxa301-music-healt-and-wellbeing-ch05-10680-meymandi](../sources/fxa301-music-healt-and-wellbeing-ch05-10680-meymandi.md)

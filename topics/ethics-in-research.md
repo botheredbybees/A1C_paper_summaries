@@ -3,6 +3,7 @@ confidence: medium
 domain: theory
 slug: ethics-in-research
 sources:
+  - fxa300-week09-lesson-fxa300-week09-welcome-to-week-10-1
   - fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production
   - fxa301-arts-in-health-ch76-3-responsibility-(2)
   - fxa301-oxford-textbook-of-creative-arts-ch02-chapter-11-(2)
@@ -10,7 +11,7 @@ tags:
 - ethics-in-research
 title: Ethics in Research
 type: topic
-updated: 2026-05-11
+updated: 2026-09-07
 ---
 
 ## Ethics in Research
@@ -29,6 +30,7 @@ The integration of ethics within research frameworks is a critical element acros
 
 ## Sources
 
+- [fxa300-week09-lesson-fxa300-week09-welcome-to-week-10-1](../sources/fxa300-week09-lesson-fxa300-week09-welcome-to-week-10-1.md)
 - [fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production](../sources/fxa301-arts-in-health-ch70-3-discussing-the-feasibility-of-the-production.md)
 - [fxa301-arts-in-health-ch76-3-responsibility-(2)](../sources/fxa301-arts-in-health-ch76-3-responsibility-%282%29.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch02-chapter-11-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch02-chapter-11-%282%29.md)

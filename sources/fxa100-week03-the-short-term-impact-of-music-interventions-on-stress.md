@@ -11,7 +11,7 @@ tags: ["music-interventions", "stress-management", "dementia-care", "saliva-biom
 key_concepts: ["salivary cortisol", "alpha-amylase", "group music therapy", "recreational choir singing"]
 methods: ["cluster-randomized trial"]
 slug: fxa100-week03-the-short-term-impact-of-music-interventions-on-stress
-related: ["dementia-care", "music-interventions-and-cognitive-health", "stress-management"]
+related: ["dementia-care", "music-interventions-and-cognitive-health", "saliva-biomarkers", "stress-management"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,4 +46,5 @@ This study investigates the impact of music interventions on stress in care home
 
 - [dementia-care](../topics/dementia-care.md)
 - [music-interventions-and-cognitive-health](../topics/music-interventions-and-cognitive-health.md)
+- [saliva-biomarkers](../topics/saliva-biomarkers.md)
 - [stress-management](../topics/stress-management.md)

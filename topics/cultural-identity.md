@@ -5,6 +5,7 @@ slug: cultural-identity-through-art-and-intergenerational-relationships
 sources:
   - fxa100-week09-in-my-fathers-words-review-sophisticated-dementia-drama
   - fxa300-week05-young-listeners-music-style-preferences-patterns-related-to
+  - fxa300-week09-web-article-novotney-2013
   - fxa301-week05-how-murals-helped-turn-a-declining-community-around
   - fxa302-week02-review-healing-powers-and-modernity-shamanism-and
   - fxa303-week10-how-country-spirituality-music-and-arts-contribute-to
@@ -13,7 +14,7 @@ tags:
 - cultural-identity
 title: Cultural Identity Through Art and Intergenerational Relationships
 type: topic
-updated: 2026-08-03
+updated: 2026-09-07
 ---
 
 ## Cultural Identity Through Art and Intergenerational Relationships
@@ -33,6 +34,7 @@ The sources highlight two distinct but interrelated interventions that support c
 
 - [fxa100-week09-in-my-fathers-words-review-sophisticated-dementia-drama](../sources/fxa100-week09-in-my-fathers-words-review-sophisticated-dementia-drama.md)
 - [fxa300-week05-young-listeners-music-style-preferences-patterns-related-to](../sources/fxa300-week05-young-listeners-music-style-preferences-patterns-related-to.md)
+- [fxa300-week09-web-article-novotney-2013](../sources/fxa300-week09-web-article-novotney-2013.md)
 - [fxa301-week05-how-murals-helped-turn-a-declining-community-around](../sources/fxa301-week05-how-murals-helped-turn-a-declining-community-around.md)
 - [fxa302-week02-review-healing-powers-and-modernity-shamanism-and](../sources/fxa302-week02-review-healing-powers-and-modernity-shamanism-and.md)
 - [fxa303-week10-how-country-spirituality-music-and-arts-contribute-to](../sources/fxa303-week10-how-country-spirituality-music-and-arts-contribute-to.md)

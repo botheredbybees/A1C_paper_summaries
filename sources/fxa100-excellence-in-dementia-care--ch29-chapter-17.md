@@ -11,7 +11,7 @@ tags: ["dementia-care", "service-user-involvement", "healthcare-practices", "fxa
 key_concepts: ["organizational support", "individualized strategies"]
 methods: []
 slug: fxa100-excellence-in-dementia-care--ch29-chapter-17
-related: ["dementia-care"]
+related: ["dementia-care", "service-user-involvement"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,3 +41,4 @@ This chapter discusses the methods and challenges of involving people with demen
 ## See Also
 
 - [dementia-care](../topics/dementia-care.md)
+- [service-user-involvement](../topics/service-user-involvement.md)

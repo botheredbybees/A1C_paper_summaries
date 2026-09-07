@@ -10,7 +10,7 @@ tags: ["haiku-poetry", "self-transcendent-emotions", "emotional-effects", "creat
 key_concepts: ["gratitude for serenity", "awe"]
 methods: ["Bayesian Generalized Linear Mixed Models"]
 slug: fxa101-week00-association-between-haiku-poetry-creation-and-self
-related: ["creativity"]
+related: ["creativity", "emotional-effects"]
 created: 2026-08-08
 updated: 2026-08-08
 ---
@@ -42,3 +42,4 @@ This study examines the relationship between creating haiku poetry and experienc
 ## See Also
 
 - [creativity](../topics/creativity.md)
+- [emotional-effects](../topics/emotional-effects.md)

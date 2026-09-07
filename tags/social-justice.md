@@ -6,6 +6,7 @@ updated: 2026-09-07
 
 ## Social Justice
 
+- [Ethical conduct in research with Aboriginal and Torres Strait Islander Peoples and communities: Guidelines for researchers and stakeholders](../sources/fxa300-week09-ethical-conduct-in-research-with-aboriginal-and-torres.md)
 - [Weapons of Mass Happiness: Social Justice and Health Equity in the Context of the Arts](../sources/fxa301-music-healt-and-wellbeing-ch05-10680-meymandi.md)
 - [Interdisciplinarity for Social Justice Enterprise: Intersecting Education, Industry and Community Arts Perspectives](../sources/fxa301-week01-interdisciplinarity-for-social-justice-enterprise.md)
 - [Refugee Art Project](../sources/fxa301-week11-refugee-art-project.md)

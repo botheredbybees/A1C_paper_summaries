@@ -8,7 +8,8 @@ sources:
   - fxa300-week04-dynamic-dualism-kurth-and-riemann-on-music-theory-and-the
   - fxa300-week05-lesson-fxa300-week05-welcome-to-week-4
   - fxa300-week07-creativity-and-flow-in-musical-composition-an-empirical
-updated: 2026-08-17
+  - fxa300-week09-web-article-novotney-2013
+updated: 2026-09-07
 ---
 
 ## Psychology of Music
@@ -29,3 +30,4 @@ The psychology of music explores the interplay between musical structures and hu
 - [fxa300-week04-dynamic-dualism-kurth-and-riemann-on-music-theory-and-the](../sources/fxa300-week04-dynamic-dualism-kurth-and-riemann-on-music-theory-and-the.md)
 - [fxa300-week05-lesson-fxa300-week05-welcome-to-week-4](../sources/fxa300-week05-lesson-fxa300-week05-welcome-to-week-4.md)
 - [fxa300-week07-creativity-and-flow-in-musical-composition-an-empirical](../sources/fxa300-week07-creativity-and-flow-in-musical-composition-an-empirical.md)
+- [fxa300-week09-web-article-novotney-2013](../sources/fxa300-week09-web-article-novotney-2013.md)

@@ -22,6 +22,7 @@ updated: 2026-09-07
 - [Case study: engaging older people in creative thinking\u2014the Active Energy project](../sources/fxa101-week04-case-study-engaging-older-people-in-creative-thinkingthe.md)
 - [The daily digital practice as a form of self-care: Using photography for everyday well-being](../sources/fxa202-week03-the-daily-digital-practice-as-a-form-of-self-care-using.md)
 - [Using Photovoice as a Tool to Engage Social Work Students in Social Justice](../sources/fxa202-week13-using-photovoice-as-a-tool-to-engage-social-work-students.md)
+- [Keeping research on track II: A companion document to Ethical conduct in research with Aboriginal and Torres Strait Islander Peoples and communities: Guidelines for researchers and stakeholders](../sources/fxa300-week09-keeping-research-on-track-ii-a-companion-document-to.md)
 - [Meeting Community Needs Through Ethnomusicology](../sources/fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts.md)
 - [Ethnomusicology and Applied Arts: A Guide to Community Engagement](../sources/fxa301-make-arts-for-a-better-life-ch01-1-meet-a-community-and-its-arts-%282%29.md)
 - [Step 2: Choose a Goal in Arts for Social Change](../sources/fxa301-make-arts-for-a-better-life-ch09-5-choose-a-goal-needs-may-be-linked-within-communities.md)

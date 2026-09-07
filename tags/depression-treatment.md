@@ -12,6 +12,7 @@ updated: 2026-09-07
 - [Can Photography Help Depression?](../sources/fxa202-week03-can-photography-help-depression.md)
 - [Can Photography Help Depression?](../sources/fxa202-week03-can-photography-help-depression-%282%29.md)
 - [The Effects of Music Intervention in the Management of Chronic Pain](../sources/fxa300-week08-the-effects-of-music-intervention-in-the-management-of.md)
+- [Effects of Group Drumming Interventions on Anxiety, Depression, Social Resilience and Inflammatory Immune Response among Mental Health Service Users](../sources/fxa300-week09-effects-of-group-drumming-interventions-on-anxiety.md)
 - [Arts on Prescription in Sefton: Programme Report](../sources/fxa301-week01-arts-on-prescription-in-sefton-programme-report.md)
 - [A meta-analysis of randomized controlled trials of laughter and humour interventions on depression, anxiety and sleep quality in adults](../sources/fxa303-week13-a-meta-analysis-of-randomized-controlled-trials-of-laughter.md)
 - [The effect of humor on elder mental and physical health](../sources/fxa303-week13-the-effect-of-humor-on-elder-mental-and-physical-health.md)

@@ -6,6 +6,8 @@ sources:
   - fxa100-week03-association-of-music-interventions-with-health-related
   - fxa100-week07-artful-art-and-dementia-online-toolkit
   - fxa101-week00-poetry-and-well-being-a-pilot-programme-to-evaluate-the
+  - fxa300-week09-lesson-fxa300-week09-page-2-music-and-mental-health-and
+  - fxa300-week09-lesson-fxa300-week09-welcome-to-week-10-1
   - fxa301-week01-lesson-fxa301-week01-troubleshooting1
   - fxa301-week03-executive-summary-creative-health-review
   - fxa301-week05-web-article-butler-2019
@@ -18,7 +20,7 @@ tags:
 - wellbeing
 title: Wellbeing Through Creative Arts
 type: topic
-updated: 2026-08-17
+updated: 2026-09-07
 ---
 
 ## Wellbeing Through Creative Arts
@@ -39,6 +41,8 @@ Creative arts interventions have been studied for their impact on various aspect
 - [fxa100-week03-association-of-music-interventions-with-health-related](../sources/fxa100-week03-association-of-music-interventions-with-health-related.md)
 - [fxa100-week07-artful-art-and-dementia-online-toolkit](../sources/fxa100-week07-artful-art-and-dementia-online-toolkit.md)
 - [fxa101-week00-poetry-and-well-being-a-pilot-programme-to-evaluate-the](../sources/fxa101-week00-poetry-and-well-being-a-pilot-programme-to-evaluate-the.md)
+- [fxa300-week09-lesson-fxa300-week09-page-2-music-and-mental-health-and](../sources/fxa300-week09-lesson-fxa300-week09-page-2-music-and-mental-health-and.md)
+- [fxa300-week09-lesson-fxa300-week09-welcome-to-week-10-1](../sources/fxa300-week09-lesson-fxa300-week09-welcome-to-week-10-1.md)
 - [fxa301-week01-lesson-fxa301-week01-troubleshooting1](../sources/fxa301-week01-lesson-fxa301-week01-troubleshooting1.md)
 - [fxa301-week03-executive-summary-creative-health-review](../sources/fxa301-week03-executive-summary-creative-health-review.md)
 - [fxa301-week05-web-article-butler-2019](../sources/fxa301-week05-web-article-butler-2019.md)

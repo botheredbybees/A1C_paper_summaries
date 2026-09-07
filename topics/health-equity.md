@@ -3,6 +3,7 @@ confidence: medium
 domain: intervention
 slug: health-equity-through-cultural-programs
 sources:
+  - fxa300-week09-ethical-conduct-in-research-with-aboriginal-and-torres
   - fxa301-music-healt-and-wellbeing-ch05-10680-meymandi
   - fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions-(2)
   - fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report
@@ -14,7 +15,7 @@ tags:
 - health-equity
 title: Health Equity Through Cultural Programs
 type: topic
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 ## Health Equity Through Cultural Programs
@@ -33,6 +34,7 @@ The synthesis of the provided sources underscores how cultural programs and inte
 
 ## Sources
 
+- [fxa300-week09-ethical-conduct-in-research-with-aboriginal-and-torres](../sources/fxa300-week09-ethical-conduct-in-research-with-aboriginal-and-torres.md)
 - [fxa301-music-healt-and-wellbeing-ch05-10680-meymandi](../sources/fxa301-music-healt-and-wellbeing-ch05-10680-meymandi.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions-%282%29.md)
 - [fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report](../sources/fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report.md)

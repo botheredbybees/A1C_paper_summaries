@@ -4,6 +4,7 @@ domain: intervention
 slug: hospital-clowning-in-pediatric-pain-management
 sources:
   - fxa300-week08-music-to-my-senses-functional-magnetic-resonance-imaging
+  - fxa300-week09-the-effects-of-music-listening-on-pain-and-stress-in-the
   - fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for
   - fxa303-week08-effectiveness-of-hospital-clowning-on-pediatric-anxiety-and
   - fxa303-week08-therapeutic-clowns-in-pediatrics-a-systematic-review-and
@@ -11,7 +12,7 @@ tags:
 - pain-management
 title: Hospital Clowning in Pediatric Pain Management
 type: topic
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Hospital Clowning in Pediatric Pain Management
@@ -31,6 +32,7 @@ Both sources investigate the impact of hospital clowning on pediatric patients, 
 ## Sources
 
 - [fxa300-week08-music-to-my-senses-functional-magnetic-resonance-imaging](../sources/fxa300-week08-music-to-my-senses-functional-magnetic-resonance-imaging.md)
+- [fxa300-week09-the-effects-of-music-listening-on-pain-and-stress-in-the](../sources/fxa300-week09-the-effects-of-music-listening-on-pain-and-stress-in-the.md)
 - [fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for](../sources/fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for.md)
 - [fxa303-week08-effectiveness-of-hospital-clowning-on-pediatric-anxiety-and](../sources/fxa303-week08-effectiveness-of-hospital-clowning-on-pediatric-anxiety-and.md)
 - [fxa303-week08-therapeutic-clowns-in-pediatrics-a-systematic-review-and](../sources/fxa303-week08-therapeutic-clowns-in-pediatrics-a-systematic-review-and.md)

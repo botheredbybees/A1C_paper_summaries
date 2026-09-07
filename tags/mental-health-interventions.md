@@ -26,6 +26,7 @@ updated: 2026-09-07
 - [Expressive Writing Therapy Exercises & Examples](../sources/fxa202-week09-expressive-writing-therapy-exercises-examples.md)
 - [Phototherapy to Increase Self-Compassion in College Students](../sources/fxa202-week13-phototherapy-to-increase-self-compassion-in-college-students.md)
 - [The handbook of phototherapy and therapeutic photography: For the professional and activist client](../sources/fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-%282%29.md)
+- [Effects of Group Drumming Interventions on Anxiety, Depression, Social Resilience and Inflammatory Immune Response among Mental Health Service Users](../sources/fxa300-week09-effects-of-group-drumming-interventions-on-anxiety.md)
 - [The means to flourish: arts in community health and education](../sources/fxa301-oxford-textbook-of-creative-arts-ch21-chapter-6.md)
 - [Arts on Prescription in Sefton: Programme Report](../sources/fxa301-week01-arts-on-prescription-in-sefton-programme-report.md)
 - [Guidelines for Arts and Mental Health Projects](../sources/fxa301-week01-guidelines-for-arts-and-mental-health-projects.md)

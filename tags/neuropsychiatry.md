@@ -11,3 +11,4 @@ updated: 2026-09-07
 - [FXA100 The Arts and Dementia Care](../sources/fxa100-week12-lesson-fxa100-week12-page-2-so-what-have-we-learned.md)
 - [The effectiveness of art-based interventions among older adults with dementia: A systematic review and meta-analysis](../sources/fxa100-week12-the-effectiveness-of-art-based-interventions-among-older.md)
 - [Music and the Mind](../sources/fxa300-week02-music-and-the-mind.md)
+- [Music interventions for mechanically ventilated patients](../sources/fxa300-week09-music-interventions-for-mechanically-ventilated-patients.md)

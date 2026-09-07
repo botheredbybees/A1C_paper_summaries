@@ -11,7 +11,7 @@ tags: ["music-therapy", "anesthesia-pain-management", "patient-recovery", "fxa30
 key_concepts: ["cortisol-levels", "endorphin-expression", "music-personalization"]
 methods: ["systematic-review"]
 slug: fxa300-week02-music-drug-for-the-mind-body-and-soul
-related: ["cortisol-levels", "music-therapy"]
+related: ["cortisol-levels", "music-therapy", "patient-recovery"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -44,3 +44,4 @@ The editorial 'Music: Drug for the mind, body, and soul' by Chhabra et al. explo
 
 - [cortisol-levels](../topics/cortisol-levels.md)
 - [music-therapy](../topics/music-therapy.md)
+- [patient-recovery](../topics/patient-recovery.md)

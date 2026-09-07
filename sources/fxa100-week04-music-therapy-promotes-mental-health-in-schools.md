@@ -11,7 +11,7 @@ tags: ["music-therapy", "mental-health-intervention", "school-counseling", "reco
 key_concepts: ["music therapy", "mental health intervention", "recovery orientation"]
 methods: ["fact sheet"]
 slug: fxa100-week04-music-therapy-promotes-mental-health-in-schools
-related: ["mental-health-intervention", "music-therapy"]
+related: ["mental-health-intervention", "music-therapy", "recovery-oriented-care"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,3 +45,4 @@ This fact sheet discusses the role of music therapy as an evidence-based allied 
 
 - [mental-health-intervention](../topics/mental-health-intervention.md)
 - [music-therapy](../topics/music-therapy.md)
+- [recovery-oriented-care](../topics/recovery-oriented-care.md)

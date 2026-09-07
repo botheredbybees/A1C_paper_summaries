@@ -3,13 +3,14 @@ confidence: medium
 domain: method
 slug: temporal-dynamics-in-emotional-responses-and-brain-function
 sources:
+  - fxa300-week09-music-listening-and-stress-in-daily-lifea-matter-of-timing
   - fxa301-week02-the-time-course-of-emotional-responses-to-music
   - fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between
 tags:
 - temporal-dynamics
 title: Temporal Dynamics in Emotional Responses and Brain Function
 type: topic
-updated: 2026-05-11
+updated: 2026-09-07
 ---
 
 ## Temporal Dynamics in Emotional Responses and Brain Function
@@ -27,5 +28,6 @@ This topic explores the methodological approaches to understanding temporal dyna
 
 ## Sources
 
+- [fxa300-week09-music-listening-and-stress-in-daily-lifea-matter-of-timing](../sources/fxa300-week09-music-listening-and-stress-in-daily-lifea-matter-of-timing.md)
 - [fxa301-week02-the-time-course-of-emotional-responses-to-music](../sources/fxa301-week02-the-time-course-of-emotional-responses-to-music.md)
 - [fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between](../sources/fxa303-week04-evaluation-of-differences-in-temporal-synchrony-between.md)

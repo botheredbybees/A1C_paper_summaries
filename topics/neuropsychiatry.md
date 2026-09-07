@@ -10,7 +10,8 @@ sources:
   - fxa100-week12-lesson-fxa100-week12-page-2-so-what-have-we-learned
   - fxa100-week12-the-effectiveness-of-art-based-interventions-among-older
   - fxa300-week02-music-and-the-mind
-updated: 2026-08-07
+  - fxa300-week09-music-interventions-for-mechanically-ventilated-patients
+updated: 2026-09-07
 ---
 
 ## Nonpharmacological Interventions in Neuropsychiatry
@@ -34,3 +35,4 @@ The provided sources highlight the use of nonpharmacological interventions such 
 - [fxa100-week12-lesson-fxa100-week12-page-2-so-what-have-we-learned](../sources/fxa100-week12-lesson-fxa100-week12-page-2-so-what-have-we-learned.md)
 - [fxa100-week12-the-effectiveness-of-art-based-interventions-among-older](../sources/fxa100-week12-the-effectiveness-of-art-based-interventions-among-older.md)
 - [fxa300-week02-music-and-the-mind](../sources/fxa300-week02-music-and-the-mind.md)
+- [fxa300-week09-music-interventions-for-mechanically-ventilated-patients](../sources/fxa300-week09-music-interventions-for-mechanically-ventilated-patients.md)

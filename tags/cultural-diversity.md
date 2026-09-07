@@ -7,6 +7,7 @@ updated: 2026-09-07
 ## Cultural Diversity
 
 - [FXA100 The Arts and Dementia Care - Week 3 Activities](../sources/fxa100-week03-lesson-fxa100-week03-page-4-week-3-activities1.md)
+- [Music Therapy for Diverse Service Users in Mental Health Settings](../sources/fxa300-week09-music-therapy-for-diverse-service-users-in-mental-health.md)
 - [Measuring Arts Participation](../sources/fxa301-week01-lesson-fxa301-week01-page-3-arts-participation.md)
 - [Creating Our Future: Results of the National Arts Participation Survey](../sources/fxa301-week03-creating-our-future-results-of-the-national-arts.md)
 - [Creating Pathways: Insights on Support for Artists with Disability](../sources/fxa301-week09-web-article-australia-2018.md)

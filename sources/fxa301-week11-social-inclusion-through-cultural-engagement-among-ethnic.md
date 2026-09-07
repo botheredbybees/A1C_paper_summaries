@@ -11,7 +11,7 @@ tags: ["acculturation", "arts-marketing", "cultural-engagement", "ethnic-communi
 key_concepts: ["social-connection", "acculturation", "inclusive-initiatives"]
 methods: ["qualitative-research", "focus-groups"]
 slug: fxa301-week11-social-inclusion-through-cultural-engagement-among-ethnic
-related: ["cultural-engagement", "social-inclusion"]
+related: ["acculturation", "cultural-engagement", "social-inclusion"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -41,5 +41,6 @@ This article investigates the factors influencing arts attendance among differen
 
 ## See Also
 
+- [acculturation](../topics/acculturation.md)
 - [cultural-engagement](../topics/cultural-engagement.md)
 - [social-inclusion](../topics/social-inclusion.md)

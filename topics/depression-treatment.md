@@ -9,6 +9,7 @@ sources:
   - fxa202-week03-can-photography-help-depression
   - fxa202-week03-can-photography-help-depression-(2)
   - fxa300-week08-the-effects-of-music-intervention-in-the-management-of
+  - fxa300-week09-effects-of-group-drumming-interventions-on-anxiety
   - fxa301-week01-arts-on-prescription-in-sefton-programme-report
   - fxa303-week13-a-meta-analysis-of-randomized-controlled-trials-of-laughter
   - fxa303-week13-the-effect-of-humor-on-elder-mental-and-physical-health
@@ -19,7 +20,7 @@ tags:
 - depression-treatment
 title: Therapeutic Benefits Of Art In Depression Treatment
 type: topic
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Therapeutic Benefits Of Art In Depression Treatment
@@ -43,6 +44,7 @@ The synthesis integrates findings from three sources focusing on the use of arti
 - [fxa202-week03-can-photography-help-depression](../sources/fxa202-week03-can-photography-help-depression.md)
 - [fxa202-week03-can-photography-help-depression-(2)](../sources/fxa202-week03-can-photography-help-depression-%282%29.md)
 - [fxa300-week08-the-effects-of-music-intervention-in-the-management-of](../sources/fxa300-week08-the-effects-of-music-intervention-in-the-management-of.md)
+- [fxa300-week09-effects-of-group-drumming-interventions-on-anxiety](../sources/fxa300-week09-effects-of-group-drumming-interventions-on-anxiety.md)
 - [fxa301-week01-arts-on-prescription-in-sefton-programme-report](../sources/fxa301-week01-arts-on-prescription-in-sefton-programme-report.md)
 - [fxa303-week13-a-meta-analysis-of-randomized-controlled-trials-of-laughter](../sources/fxa303-week13-a-meta-analysis-of-randomized-controlled-trials-of-laughter.md)
 - [fxa303-week13-the-effect-of-humor-on-elder-mental-and-physical-health](../sources/fxa303-week13-the-effect-of-humor-on-elder-mental-and-physical-health.md)

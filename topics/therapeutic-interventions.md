@@ -9,6 +9,7 @@ sources:
   - fxa100-week09-personhood-maintained
   - fxa300-week08-music-therapy-interventions-in-parkinsons-disease-the-state
   - fxa300-week08-sensory-stimulation-and-music-therapy-programs-for-treating
+  - fxa300-week09-transdiagnostic-theory-for-group-music-therapy-in-mental
   - fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1
   - fxa301-week01-editors-introduction-arts-and-community-engagement
   - fxa301-week10-the-use-of-music-therapy-in-the-treatment-of-mental-illness
@@ -23,7 +24,7 @@ tags:
 - therapeutic-interventions
 title: Music Therapy and Creative Arts Interventions
 type: topic
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Music Therapy and Creative Arts Interventions
@@ -49,6 +50,7 @@ The integration of music therapy and creative arts interventions across various 
 - [fxa100-week09-personhood-maintained](../sources/fxa100-week09-personhood-maintained.md)
 - [fxa300-week08-music-therapy-interventions-in-parkinsons-disease-the-state](../sources/fxa300-week08-music-therapy-interventions-in-parkinsons-disease-the-state.md)
 - [fxa300-week08-sensory-stimulation-and-music-therapy-programs-for-treating](../sources/fxa300-week08-sensory-stimulation-and-music-therapy-programs-for-treating.md)
+- [fxa300-week09-transdiagnostic-theory-for-group-music-therapy-in-mental](../sources/fxa300-week09-transdiagnostic-theory-for-group-music-therapy-in-mental.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1](../sources/fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1.md)
 - [fxa301-week01-editors-introduction-arts-and-community-engagement](../sources/fxa301-week01-editors-introduction-arts-and-community-engagement.md)
 - [fxa301-week10-the-use-of-music-therapy-in-the-treatment-of-mental-illness](../sources/fxa301-week10-the-use-of-music-therapy-in-the-treatment-of-mental-illness.md)

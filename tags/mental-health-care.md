@@ -6,6 +6,7 @@ updated: 2026-09-07
 
 ## Mental Health Care
 
+- [The future of music therapy and mental health](../sources/fxa300-week09-the-future-of-music-therapy-and-mental-health.md)
 - [Guidelines for Arts and Mental Health Projects](../sources/fxa301-week01-guidelines-for-arts-and-mental-health-projects-%282%29.md)
 - [Health humanities: the future of medical humanities?](../sources/fxa302-week01-health-humanities-the-future-of-medical-humanities.md)
 - [The Impacts of a Clown Doctor Program on an Adolescent Psychiatric Unit: A Mixed Methods Investigation](../sources/fxa303-week08-the-impacts-of-a-clown-doctor-program-on-an-adolescent.md)

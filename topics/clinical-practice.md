@@ -7,6 +7,9 @@ tags: ["clinical-practice"]
 sources:
   - fxa100-week11-age-and-sex-do-not-bias-the-use-of-angiotensin-converting
   - fxa101-week09-reading-anna-freud-advocacy-and-relevance-in-child-mental
+  - fxa300-week09-continuum-model-of-music-and-therapy-within-music-therapy
+  - fxa300-week09-effectiveness-of-music-interventions-on-dental-anxiety-in
+  - fxa300-week09-the-future-of-music-therapy-and-mental-health
   - fxa302-week01-exploring-the-medical-humanities
   - fxa302-week01-the-role-of-the-imagination-in-the-practices-of-the-health
   - fxa302-week01-where-science-meets-stories-a-systematic-review-on
@@ -31,6 +34,9 @@ The provided sources emphasize the importance of clinical practice guidelines an
 
 - [fxa100-week11-age-and-sex-do-not-bias-the-use-of-angiotensin-converting](../sources/fxa100-week11-age-and-sex-do-not-bias-the-use-of-angiotensin-converting.md)
 - [fxa101-week09-reading-anna-freud-advocacy-and-relevance-in-child-mental](../sources/fxa101-week09-reading-anna-freud-advocacy-and-relevance-in-child-mental.md)
+- [fxa300-week09-continuum-model-of-music-and-therapy-within-music-therapy](../sources/fxa300-week09-continuum-model-of-music-and-therapy-within-music-therapy.md)
+- [fxa300-week09-effectiveness-of-music-interventions-on-dental-anxiety-in](../sources/fxa300-week09-effectiveness-of-music-interventions-on-dental-anxiety-in.md)
+- [fxa300-week09-the-future-of-music-therapy-and-mental-health](../sources/fxa300-week09-the-future-of-music-therapy-and-mental-health.md)
 - [fxa302-week01-exploring-the-medical-humanities](../sources/fxa302-week01-exploring-the-medical-humanities.md)
 - [fxa302-week01-the-role-of-the-imagination-in-the-practices-of-the-health](../sources/fxa302-week01-the-role-of-the-imagination-in-the-practices-of-the-health.md)
 - [fxa302-week01-where-science-meets-stories-a-systematic-review-on](../sources/fxa302-week01-where-science-meets-stories-a-systematic-review-on.md)

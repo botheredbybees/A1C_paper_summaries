@@ -38,6 +38,8 @@ sources:
   - fxa300-week06-lesson-fxa300-week06-page-2-1
   - fxa300-week08-book-review-of-music-in-the-human-experience-an
   - fxa300-week08-concluding-remarks
+  - fxa300-week09-lesson-fxa300-week09-page-2-1
+  - fxa300-week09-the-effects-of-music-exposure-and-own-genre-preference-on
   - fxa301-oxford-textbook-of-creative-arts-ch08-96-clift
   - fxa301-week02-aesthetic-responses-to-music-a-questionnaire-study
   - fxa301-week02-an-experience-sampling-study-of-emotional-reactions-to
@@ -51,7 +53,7 @@ tags:
 - music-psychology
 title: Emotional Reactions to Music
 type: topic
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Emotional Reactions to Music
@@ -105,6 +107,8 @@ The literature highlights the profound impact of music on human emotion across v
 - [fxa300-week06-lesson-fxa300-week06-page-2-1](../sources/fxa300-week06-lesson-fxa300-week06-page-2-1.md)
 - [fxa300-week08-book-review-of-music-in-the-human-experience-an](../sources/fxa300-week08-book-review-of-music-in-the-human-experience-an.md)
 - [fxa300-week08-concluding-remarks](../sources/fxa300-week08-concluding-remarks.md)
+- [fxa300-week09-lesson-fxa300-week09-page-2-1](../sources/fxa300-week09-lesson-fxa300-week09-page-2-1.md)
+- [fxa300-week09-the-effects-of-music-exposure-and-own-genre-preference-on](../sources/fxa300-week09-the-effects-of-music-exposure-and-own-genre-preference-on.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch08-96-clift](../sources/fxa301-oxford-textbook-of-creative-arts-ch08-96-clift.md)
 - [fxa301-week02-aesthetic-responses-to-music-a-questionnaire-study](../sources/fxa301-week02-aesthetic-responses-to-music-a-questionnaire-study.md)
 - [fxa301-week02-an-experience-sampling-study-of-emotional-reactions-to](../sources/fxa301-week02-an-experience-sampling-study-of-emotional-reactions-to.md)

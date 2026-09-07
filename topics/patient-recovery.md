@@ -3,12 +3,14 @@ confidence: low
 domain: intervention
 slug: patient-recovery-through-visual-arts
 sources:
-- fxa301-week05-engaging-with-visual-arts-week-5-introduction
+  - fxa300-week02-music-drug-for-the-mind-body-and-soul
+  - fxa300-week09-the-future-of-music-therapy-and-mental-health
+  - fxa301-week05-engaging-with-visual-arts-week-5-introduction
 tags:
 - patient-recovery
 title: Patient Recovery Through Visual Arts
 type: topic
-updated: 2026-05-04
+updated: 2026-09-07
 ---
 
 ## Patient Recovery Through Visual Arts
@@ -27,4 +29,6 @@ The integration of visual arts into therapeutic practices emerges as a promising
 
 ## Sources
 
+- [fxa300-week02-music-drug-for-the-mind-body-and-soul](../sources/fxa300-week02-music-drug-for-the-mind-body-and-soul.md)
+- [fxa300-week09-the-future-of-music-therapy-and-mental-health](../sources/fxa300-week09-the-future-of-music-therapy-and-mental-health.md)
 - [fxa301-week05-engaging-with-visual-arts-week-5-introduction](../sources/fxa301-week05-engaging-with-visual-arts-week-5-introduction.md)

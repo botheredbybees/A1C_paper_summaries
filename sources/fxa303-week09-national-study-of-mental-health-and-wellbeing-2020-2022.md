@@ -7,13 +7,15 @@ doi: null
 appearances:
   - unit: FXA303
     week: "09"
-tags: ["mental-health-statistics", "anxiety-disorders-prevalence", "demographic-inequalities", "fxa303"]
+  - unit: FXA300
+    week: "09"
+tags: ["mental-health-statistics", "anxiety-disorders-prevalence", "demographic-inequalities", "fxa303", "fxa300"]
 key_concepts: ["lifetime prevalence", "current prevalence", "gender disparities"]
 methods: ["national survey"]
 slug: fxa303-week09-national-study-of-mental-health-and-wellbeing-2020-2022
 related: []
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-09-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa303-week09-national-study-of-mental-health-and-wellbeing-2020-2022.md_

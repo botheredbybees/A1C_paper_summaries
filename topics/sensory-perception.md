@@ -8,8 +8,9 @@ sources:
   - fxa101-week02-survival-of-the-synesthesia-gene-why-do-people-hear-colors
   - fxa101-week02-synesthetes-are-more-involved-in-art-evidence-from-the
   - fxa101-week02-transcript-this-ted-talk-given-in-2016-by-jamie-ward
+  - fxa300-week09-inattentional-deafness-in-music
   - fxa302-week06-lesson-fxa302-week06-page-3
-updated: 2026-08-10
+updated: 2026-09-07
 ---
 
 ## Synesthesia: A Neurological Phenomenon
@@ -31,4 +32,5 @@ The phenomenon of synesthesia, where one sensory input involuntarily triggers an
 - [fxa101-week02-survival-of-the-synesthesia-gene-why-do-people-hear-colors](../sources/fxa101-week02-survival-of-the-synesthesia-gene-why-do-people-hear-colors.md)
 - [fxa101-week02-synesthetes-are-more-involved-in-art-evidence-from-the](../sources/fxa101-week02-synesthetes-are-more-involved-in-art-evidence-from-the.md)
 - [fxa101-week02-transcript-this-ted-talk-given-in-2016-by-jamie-ward](../sources/fxa101-week02-transcript-this-ted-talk-given-in-2016-by-jamie-ward.md)
+- [fxa300-week09-inattentional-deafness-in-music](../sources/fxa300-week09-inattentional-deafness-in-music.md)
 - [fxa302-week06-lesson-fxa302-week06-page-3](../sources/fxa302-week06-lesson-fxa302-week06-page-3.md)

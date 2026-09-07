@@ -6,6 +6,7 @@ updated: 2026-09-07
 
 ## Health Equity
 
+- [Ethical conduct in research with Aboriginal and Torres Strait Islander Peoples and communities: Guidelines for researchers and stakeholders](../sources/fxa300-week09-ethical-conduct-in-research-with-aboriginal-and-torres.md)
 - [Weapons of Mass Happiness: Social Justice and Health Equity in the Context of the Arts](../sources/fxa301-music-healt-and-wellbeing-ch05-10680-meymandi.md)
 - [Social Determinants of Health: Policies for Action](../sources/fxa301-oxford-textbook-of-creative-arts-ch20-1-improve-daily-living-conditions-%282%29.md)
 - [Arts for EveryBody: The One Nation/One Project Impact Report](../sources/fxa301-week03-arts-for-everybody-the-one-nationone-project-impact-report.md)

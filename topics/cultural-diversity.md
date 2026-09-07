@@ -4,6 +4,7 @@ domain: intervention
 slug: cultural-diversity-in-arts-and-healthcare
 sources:
   - fxa100-week03-lesson-fxa100-week03-page-4-week-3-activities1
+  - fxa300-week09-music-therapy-for-diverse-service-users-in-mental-health
   - fxa301-week01-lesson-fxa301-week01-page-3-arts-participation
   - fxa301-week03-creating-our-future-results-of-the-national-arts
   - fxa301-week09-web-article-australia-2018
@@ -13,7 +14,7 @@ tags:
 - cultural-diversity
 title: Cultural Diversity in Arts and Healthcare
 type: topic
-updated: 2026-05-11
+updated: 2026-09-07
 ---
 
 ## Cultural Diversity in Arts and Healthcare
@@ -33,6 +34,7 @@ The integration of diverse cultural practices within arts and healthcare interve
 ## Sources
 
 - [fxa100-week03-lesson-fxa100-week03-page-4-week-3-activities1](../sources/fxa100-week03-lesson-fxa100-week03-page-4-week-3-activities1.md)
+- [fxa300-week09-music-therapy-for-diverse-service-users-in-mental-health](../sources/fxa300-week09-music-therapy-for-diverse-service-users-in-mental-health.md)
 - [fxa301-week01-lesson-fxa301-week01-page-3-arts-participation](../sources/fxa301-week01-lesson-fxa301-week01-page-3-arts-participation.md)
 - [fxa301-week03-creating-our-future-results-of-the-national-arts](../sources/fxa301-week03-creating-our-future-results-of-the-national-arts.md)
 - [fxa301-week09-web-article-australia-2018](../sources/fxa301-week09-web-article-australia-2018.md)

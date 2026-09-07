@@ -4,13 +4,14 @@ domain: intervention
 slug: anxiety-management
 sources:
   - fxa101-week00-group-nature-based-mindfulness-interventions-nature-based
+  - fxa300-week09-effects-of-group-drumming-interventions-on-anxiety
   - fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping
   - fxa303-week08-effectiveness-of-hospital-clowning-on-pediatric-anxiety-and
 tags:
 - anxiety-management
 title: Anxiety Management
 type: topic
-updated: 2026-08-08
+updated: 2026-09-07
 ---
 
 ## Anxiety Management
@@ -30,5 +31,6 @@ The exploration of anxiety management interventions reveals a variety of approac
 ## Sources
 
 - [fxa101-week00-group-nature-based-mindfulness-interventions-nature-based](../sources/fxa101-week00-group-nature-based-mindfulness-interventions-nature-based.md)
+- [fxa300-week09-effects-of-group-drumming-interventions-on-anxiety](../sources/fxa300-week09-effects-of-group-drumming-interventions-on-anxiety.md)
 - [fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping](../sources/fxa303-week06-the-role-of-puppetry-in-mental-health-promotion-a-scoping.md)
 - [fxa303-week08-effectiveness-of-hospital-clowning-on-pediatric-anxiety-and](../sources/fxa303-week08-effectiveness-of-hospital-clowning-on-pediatric-anxiety-and.md)

@@ -11,7 +11,7 @@ tags: ["dementia-care", "art-therapy", "ethical-practice", "client-autonomy", "t
 key_concepts: ["autonomy", "nonmaleficence", "beneficence", "fidelity", "justice"]
 methods: ["case-study"]
 slug: fxa100-week08-aspirational-ethics-considerations-for-art-therapy-practice
-related: ["art-therapy", "autonomy", "client-autonomy", "dementia-care", "therapeutic-interventions"]
+related: ["art-therapy", "autonomy", "client-autonomy", "dementia-care", "justice", "therapeutic-interventions"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -50,4 +50,5 @@ Sarah Anacleto’s article explores the ethical principles guiding art therapy p
 - [autonomy](../topics/autonomy.md)
 - [client-autonomy](../topics/client-autonomy.md)
 - [dementia-care](../topics/dementia-care.md)
+- [justice](../topics/justice.md)
 - [therapeutic-interventions](../topics/therapeutic-interventions.md)
