@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creativity
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Creativity
@@ -17,6 +17,8 @@ updated: 2026-08-31
 - [Introduction to Week 6: Developing Creativity Through Experimentation](../sources/fxa101-week06-lesson-fxa101-week06-page-1-week-6-introduction.md)
 - [Color Harmony](../sources/fxa101-week07-color-harmony.md)
 - [Activities for Week 7 - FXA101 Creativity and Ageing](../sources/fxa101-week07-lesson-fxa101-week07-page-2-week-7-activities.md)
+- [Introduction to Week 9: Developing Creative Focus and Skills](../sources/fxa101-week09-lesson-fxa101-week09-page-1-introduction-to-week-9.md)
+- [Quiet and Creativity](../sources/fxa101-week09-lesson-fxa101-week09-page-2-dmn-quiet-creativity-and.md)
 - [Week 2 Introduction - FXA301 Arts in the Community](../sources/fxa301-week01-week-2-introduction-fxa301-arts-in-the-community.md)
 - [Mental Illness and Creativity](../sources/fxa302-week08-lesson-fxa302-week08-welcome-to-week-7.md)
 - [The rewards of chronic illness](../sources/fxa302-week08-the-rewards-of-chronic-illness.md)

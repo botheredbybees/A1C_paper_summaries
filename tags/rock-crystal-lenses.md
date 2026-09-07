@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: rock-crystal-lenses
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Rock Crystal Lenses

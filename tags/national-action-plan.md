@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: national-action-plan
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## National Action Plan

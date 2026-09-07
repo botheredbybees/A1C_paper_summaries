@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: patricia-stokes-model
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Patricia Stokes Model

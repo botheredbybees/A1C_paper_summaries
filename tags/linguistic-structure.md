@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: linguistic-structure
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Linguistic Structure

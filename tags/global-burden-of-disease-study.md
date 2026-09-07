@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: global-burden-of-disease-study
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Global Burden Of Disease Study

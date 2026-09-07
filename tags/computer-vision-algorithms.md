@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: computer-vision-algorithms
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Computer Vision Algorithms

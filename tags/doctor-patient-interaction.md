@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: doctor-patient-interaction
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Doctor Patient Interaction

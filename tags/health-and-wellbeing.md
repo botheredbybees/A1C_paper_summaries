@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: health-and-wellbeing
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Health And Wellbeing

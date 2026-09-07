@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: practice-as-research
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Practice As Research

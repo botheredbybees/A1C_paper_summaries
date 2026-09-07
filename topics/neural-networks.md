@@ -6,6 +6,7 @@ sources:
   - fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers
   - fxa101-week03-cognitive-reserve-in-healthy-aging-and-alzheimers-disease-a
   - fxa101-week03-effects-of-music-training-on-inhibitory-control-and
+  - fxa101-week09-the-brains-default-network-anatomy-function-and-relevance
   - fxa300-week02-music-and-the-brain
   - fxa300-week03-lesson-fxa300-week03-music-and-processing-1
   - fxa300-week07-towards-a-cognitive-neuroscience-of-consciousness-basic
@@ -16,7 +17,7 @@ tags:
 - neural-networks
 title: Neural Networks in Cognitive Processing
 type: topic
-updated: 2026-08-17
+updated: 2026-09-07
 ---
 
 ## Neural Networks in Cognitive Processing
@@ -38,6 +39,7 @@ The integration of findings from these sources highlights the complexity and var
 - [fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers](../sources/fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers.md)
 - [fxa101-week03-cognitive-reserve-in-healthy-aging-and-alzheimers-disease-a](../sources/fxa101-week03-cognitive-reserve-in-healthy-aging-and-alzheimers-disease-a.md)
 - [fxa101-week03-effects-of-music-training-on-inhibitory-control-and](../sources/fxa101-week03-effects-of-music-training-on-inhibitory-control-and.md)
+- [fxa101-week09-the-brains-default-network-anatomy-function-and-relevance](../sources/fxa101-week09-the-brains-default-network-anatomy-function-and-relevance.md)
 - [fxa300-week02-music-and-the-brain](../sources/fxa300-week02-music-and-the-brain.md)
 - [fxa300-week03-lesson-fxa300-week03-music-and-processing-1](../sources/fxa300-week03-lesson-fxa300-week03-music-and-processing-1.md)
 - [fxa300-week07-towards-a-cognitive-neuroscience-of-consciousness-basic](../sources/fxa300-week07-towards-a-cognitive-neuroscience-of-consciousness-basic.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: body-weight-management
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Body Weight Management

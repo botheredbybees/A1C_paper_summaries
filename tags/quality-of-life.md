@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: quality-of-life
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Quality Of Life

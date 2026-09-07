@@ -4,6 +4,7 @@ domain: theory
 slug: art-appreciation
 sources:
   - fxa100-week06-transcript-art-gives-same-level-of-pleasure-as-being-in-love
+  - fxa101-week09-the-psychology-of-art
   - fxa301-week02-can-science-account-for-taste-psychological-insights-into
   - fxa301-week02-personality-correlates-of-aesthetic-preferences-for-art
   - fxa301-week02-the-role-of-similarity-sound-and-awareness-in-the
@@ -11,7 +12,7 @@ tags:
 - art-appreciation
 title: Art Appreciation
 type: topic
-updated: 2026-05-11
+updated: 2026-09-07
 ---
 
 ## Art Appreciation
@@ -31,6 +32,7 @@ The study of art appreciation involves understanding both neurological and psych
 ## Sources
 
 - [fxa100-week06-transcript-art-gives-same-level-of-pleasure-as-being-in-love](../sources/fxa100-week06-transcript-art-gives-same-level-of-pleasure-as-being-in-love.md)
+- [fxa101-week09-the-psychology-of-art](../sources/fxa101-week09-the-psychology-of-art.md)
 - [fxa301-week02-can-science-account-for-taste-psychological-insights-into](../sources/fxa301-week02-can-science-account-for-taste-psychological-insights-into.md)
 - [fxa301-week02-personality-correlates-of-aesthetic-preferences-for-art](../sources/fxa301-week02-personality-correlates-of-aesthetic-preferences-for-art.md)
 - [fxa301-week02-the-role-of-similarity-sound-and-awareness-in-the](../sources/fxa301-week02-the-role-of-similarity-sound-and-awareness-in-the.md)

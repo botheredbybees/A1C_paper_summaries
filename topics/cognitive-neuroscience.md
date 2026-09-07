@@ -20,6 +20,9 @@ sources:
   - fxa101-week04-a-large-scale-cross-sectional-investigation-into-the
   - fxa101-week04-the-creative-mind-toward-an-evolutionary-theory-of
   - fxa101-week04-the-neurogenic-reserve-hypothesis-what-is-adult-hippocampal
+  - fxa101-week09-dynamic-subcortical-modulators-of-human-default-mode
+  - fxa101-week09-the-brains-default-network-anatomy-function-and-relevance
+  - fxa101-week09-the-effect-of-mental-arithmetic-on-cerebral-circulation-and
   - fxa300-week01-lesson-fxa300-week01-week-1-1
   - fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music
   - fxa300-week02-epilogue-ruminations-on-music-psychology
@@ -38,7 +41,7 @@ tags:
 - cognitive-neuroscience
 title: Cognitive Neuroscience and Brain Plasticity
 type: topic
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Cognitive Neuroscience and Brain Plasticity
@@ -74,6 +77,9 @@ The exploration of brain lateralization and individual differences in cognitive 
 - [fxa101-week04-a-large-scale-cross-sectional-investigation-into-the](../sources/fxa101-week04-a-large-scale-cross-sectional-investigation-into-the.md)
 - [fxa101-week04-the-creative-mind-toward-an-evolutionary-theory-of](../sources/fxa101-week04-the-creative-mind-toward-an-evolutionary-theory-of.md)
 - [fxa101-week04-the-neurogenic-reserve-hypothesis-what-is-adult-hippocampal](../sources/fxa101-week04-the-neurogenic-reserve-hypothesis-what-is-adult-hippocampal.md)
+- [fxa101-week09-dynamic-subcortical-modulators-of-human-default-mode](../sources/fxa101-week09-dynamic-subcortical-modulators-of-human-default-mode.md)
+- [fxa101-week09-the-brains-default-network-anatomy-function-and-relevance](../sources/fxa101-week09-the-brains-default-network-anatomy-function-and-relevance.md)
+- [fxa101-week09-the-effect-of-mental-arithmetic-on-cerebral-circulation-and](../sources/fxa101-week09-the-effect-of-mental-arithmetic-on-cerebral-circulation-and.md)
 - [fxa300-week01-lesson-fxa300-week01-week-1-1](../sources/fxa300-week01-lesson-fxa300-week01-week-1-1.md)
 - [fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music](../sources/fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music.md)
 - [fxa300-week02-epilogue-ruminations-on-music-psychology](../sources/fxa300-week02-epilogue-ruminations-on-music-psychology.md)

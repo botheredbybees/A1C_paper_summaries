@@ -1,12 +1,14 @@
 ---
 type: tag
 tag: critical-thinking
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Critical Thinking
 
 - [AI Tools in Society: Impacts on Cognitive Offloading and the Future of Critical Thinking](../sources/fxa100-week01-ai-tools-in-society-impacts-on-cognitive-offloading-and-the.md)
+- [Introduction to Week 9: Developing Creative Focus and Skills](../sources/fxa101-week09-lesson-fxa101-week09-page-1-introduction-to-week-9.md)
+- [Reflectivity, Creativity, and the Space for Silence](../sources/fxa101-week09-reflectivity-creativity-and-the-space-for-silence.md)
 - [Formal Art Observation Training Improves Medical Students\u2019 Visual Diagnostic Skills](../sources/fxa302-week03-formal-art-observation-training-improves-medical-students.md)
 - [Visual Thinking Strategy](../sources/fxa302-week03-visual-thinking-strategy.md)
 - [Why Med Schools Are Requiring Art Classes](../sources/fxa302-week03-why-med-schools-are-requiring-art-classes.md)

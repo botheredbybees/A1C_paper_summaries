@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: framing-in-art
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Framing In Art

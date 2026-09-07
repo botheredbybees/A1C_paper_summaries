@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mini-mental-state-examination
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Mini Mental State Examination

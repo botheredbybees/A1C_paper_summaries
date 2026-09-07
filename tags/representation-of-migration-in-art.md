@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: representation-of-migration-in-art
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Representation Of Migration In Art

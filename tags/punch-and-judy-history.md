@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: punch-and-judy-history
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Punch And Judy History

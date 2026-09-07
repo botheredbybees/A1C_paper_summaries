@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-music-relations
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Brain Music Relations

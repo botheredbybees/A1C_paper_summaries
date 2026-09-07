@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-works-on-blindness
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Creative Works On Blindness

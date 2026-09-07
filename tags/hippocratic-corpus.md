@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hippocratic-corpus
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Hippocratic Corpus

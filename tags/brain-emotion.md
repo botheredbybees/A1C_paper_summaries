@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-emotion
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Brain Emotion

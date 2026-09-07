@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-sector-development
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Arts Sector Development

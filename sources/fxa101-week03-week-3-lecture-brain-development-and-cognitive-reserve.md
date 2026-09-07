@@ -11,7 +11,7 @@ tags: ["brain-development", "cognitive-reserve", "creativity-training", "default
 key_concepts: ["Default Mode Network (DMN)", "Cognitive Reserve Theory"]
 methods: []
 slug: fxa101-week03-week-3-lecture-brain-development-and-cognitive-reserve
-related: ["brain-development", "cognitive-reserve", "default-mode-network", "synesthesia"]
+related: ["brain-development", "cognitive-reserve", "default-mode-network", "default-mode-network-dmn", "synesthesia"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -52,4 +52,5 @@ The lecture concludes with insights into the benefits of music in childhood, par
 - [brain-development](../topics/brain-development.md)
 - [cognitive-reserve](../topics/cognitive-reserve.md)
 - [default-mode-network](../topics/default-mode-network.md)
+- [default-mode-network-dmn](../topics/default-mode-network-dmn.md)
 - [synesthesia](../topics/synesthesia.md)

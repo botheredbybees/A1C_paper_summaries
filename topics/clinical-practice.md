@@ -6,11 +6,12 @@ confidence: medium
 tags: ["clinical-practice"]
 sources:
   - fxa100-week11-age-and-sex-do-not-bias-the-use-of-angiotensin-converting
+  - fxa101-week09-reading-anna-freud-advocacy-and-relevance-in-child-mental
   - fxa302-week01-exploring-the-medical-humanities
   - fxa302-week01-the-role-of-the-imagination-in-the-practices-of-the-health
   - fxa302-week01-where-science-meets-stories-a-systematic-review-on
   - fxa303-week13-svedem-the-swedish-dementia-registry-a-tool-for-improving
-updated: 2026-07-06
+updated: 2026-09-07
 ---
 
 ## Clinical Practice Guidelines and Registries
@@ -29,6 +30,7 @@ The provided sources emphasize the importance of clinical practice guidelines an
 ## Sources
 
 - [fxa100-week11-age-and-sex-do-not-bias-the-use-of-angiotensin-converting](../sources/fxa100-week11-age-and-sex-do-not-bias-the-use-of-angiotensin-converting.md)
+- [fxa101-week09-reading-anna-freud-advocacy-and-relevance-in-child-mental](../sources/fxa101-week09-reading-anna-freud-advocacy-and-relevance-in-child-mental.md)
 - [fxa302-week01-exploring-the-medical-humanities](../sources/fxa302-week01-exploring-the-medical-humanities.md)
 - [fxa302-week01-the-role-of-the-imagination-in-the-practices-of-the-health](../sources/fxa302-week01-the-role-of-the-imagination-in-the-practices-of-the-health.md)
 - [fxa302-week01-where-science-meets-stories-a-systematic-review-on](../sources/fxa302-week01-where-science-meets-stories-a-systematic-review-on.md)

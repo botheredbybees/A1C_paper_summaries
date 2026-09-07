@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mad-genius-myth
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Mad Genius Myth

@@ -5,10 +5,11 @@ title: "Neurophysiological Effects and Influences"
 confidence: medium
 tags: ["neurophysiology"]
 sources:
+  - fxa101-week09-the-effect-of-mental-arithmetic-on-cerebral-circulation-and
   - fxa300-week01-neurophysiological-effects-of-trait-empathy-in-music
   - fxa303-week13-the-influence-of-low-and-moderate-carotid-stenosis-on
   - psy214-week06-the-effects-of-acute-exercise-on-mood-cognition
-updated: 2026-08-10
+updated: 2026-09-07
 ---
 
 ## Neurophysiological Effects and Influences
@@ -26,6 +27,7 @@ The exploration of neurophysiology encompasses diverse facets, as illustrated by
 
 ## Sources
 
+- [fxa101-week09-the-effect-of-mental-arithmetic-on-cerebral-circulation-and](../sources/fxa101-week09-the-effect-of-mental-arithmetic-on-cerebral-circulation-and.md)
 - [fxa300-week01-neurophysiological-effects-of-trait-empathy-in-music](../sources/fxa300-week01-neurophysiological-effects-of-trait-empathy-in-music.md)
 - [fxa303-week13-the-influence-of-low-and-moderate-carotid-stenosis-on](../sources/fxa303-week13-the-influence-of-low-and-moderate-carotid-stenosis-on.md)
 - [psy214-week06-the-effects-of-acute-exercise-on-mood-cognition](../sources/psy214-week06-the-effects-of-acute-exercise-on-mood-cognition.md)

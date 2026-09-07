@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: bodily-reactions
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Bodily Reactions

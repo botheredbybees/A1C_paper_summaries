@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: frontotemporal-degeneration
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Frontotemporal Degeneration

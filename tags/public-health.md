@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: public-health
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Public Health
@@ -11,6 +11,7 @@ updated: 2026-08-31
 - [Activities for Week 2 - FXA101 Creativity and Ageing](../sources/fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities.md)
 - [Brain training using cognitive apps can improve cognitive performance and processing speed in older adults](../sources/fxa101-week04-brain-training-using-cognitive-apps-can-improve-cognitive.md)
 - [Creativity throughout life](../sources/fxa101-week04-lesson-fxa101-week04-chapter-3-creativity-throughout-life.md)
+- [Reading Anna Freud: Advocacy and Relevance in Child Mental Health](../sources/fxa101-week09-reading-anna-freud-advocacy-and-relevance-in-child-mental.md)
 - [Music and Movement for Health: an arts-based Intervention to promote health and wellbeing of community dwelling older adults in Ireland](../sources/fxa300-week05-music-and-movement-for-health-an-arts-based-intervention-to.md)
 - [Inventing Conflicts of Interest: A History of Tobacco Industry Tactics](../sources/fxa300-week06-web-article-brandt-2012.md)
 - [Art Is the Evidence: Convincing Public Communication of Art-Based Research and Its Outcomes](../sources/fxa301-applied-artes-and-health-ch01-2021-graff.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: magnetoencephalography-meg
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Magnetoencephalography Meg

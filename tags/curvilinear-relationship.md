@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: curvilinear-relationship
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Curvilinear Relationship

@@ -7,6 +7,7 @@ sources:
   - fxa100-week08-conceptualising-and-understanding-artistic-creativity-in
   - fxa100-week13-internet-science-6th-international-conference-insci-2019
   - fxa100-week13-mechanisms-of-change-in-dancemovement-therapy-and-their
+  - fxa101-week09-on-silence-creativity-and-ethics-in-organization-studies
   - fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2)
   - fxa300-week02-epilogue-ruminations-on-music-psychology
   - fxa300-week03-music-and-memory-an-introduction-review
@@ -30,7 +31,7 @@ tags:
 - interdisciplinary-research
 title: Interdisciplinary Approaches to Quality of Life Improvement
 type: topic
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 ## Interdisciplinary Approaches to Quality of Life Improvement
@@ -52,6 +53,7 @@ This synthesis focuses on interdisciplinary research aimed at enhancing the qual
 - [fxa100-week08-conceptualising-and-understanding-artistic-creativity-in](../sources/fxa100-week08-conceptualising-and-understanding-artistic-creativity-in.md)
 - [fxa100-week13-internet-science-6th-international-conference-insci-2019](../sources/fxa100-week13-internet-science-6th-international-conference-insci-2019.md)
 - [fxa100-week13-mechanisms-of-change-in-dancemovement-therapy-and-their](../sources/fxa100-week13-mechanisms-of-change-in-dancemovement-therapy-and-their.md)
+- [fxa101-week09-on-silence-creativity-and-ethics-in-organization-studies](../sources/fxa101-week09-on-silence-creativity-and-ethics-in-organization-studies.md)
 - [fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-(2)](../sources/fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-%282%29.md)
 - [fxa300-week02-epilogue-ruminations-on-music-psychology](../sources/fxa300-week02-epilogue-ruminations-on-music-psychology.md)
 - [fxa300-week03-music-and-memory-an-introduction-review](../sources/fxa300-week03-music-and-memory-an-introduction-review.md)

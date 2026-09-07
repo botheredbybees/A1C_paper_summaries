@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: color-harmony
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Color Harmony

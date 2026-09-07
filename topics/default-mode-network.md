@@ -7,11 +7,16 @@ sources:
   - fxa100-week06-the-brain-on-art-intense-aesthetic-experience-activates-the
   - fxa101-week02-week-2-lecture-sem-2-2026
   - fxa101-week03-week-3-lecture-brain-development-and-cognitive-reserve
+  - fxa101-week09-dynamic-subcortical-modulators-of-human-default-mode
+  - fxa101-week09-fxa101-week-8-spring-introduction
+  - fxa101-week09-lesson-fxa101-week09-page-2-dmn-quiet-creativity-and
+  - fxa101-week09-the-brains-default-network-anatomy-function-and-relevance
+  - fxa101-week09-the-effect-of-apoe4-on-the-functional-gradient-of-the-brain
 tags:
 - default-mode-network
 title: The Default Mode Network in Art Experience
 type: topic
-updated: 2026-08-07
+updated: 2026-09-07
 ---
 
 ## The Default Mode Network in Art Experience
@@ -34,3 +39,8 @@ Research on the impact of art experiences on brain activity emphasizes the role 
 - [fxa100-week06-the-brain-on-art-intense-aesthetic-experience-activates-the](../sources/fxa100-week06-the-brain-on-art-intense-aesthetic-experience-activates-the.md)
 - [fxa101-week02-week-2-lecture-sem-2-2026](../sources/fxa101-week02-week-2-lecture-sem-2-2026.md)
 - [fxa101-week03-week-3-lecture-brain-development-and-cognitive-reserve](../sources/fxa101-week03-week-3-lecture-brain-development-and-cognitive-reserve.md)
+- [fxa101-week09-dynamic-subcortical-modulators-of-human-default-mode](../sources/fxa101-week09-dynamic-subcortical-modulators-of-human-default-mode.md)
+- [fxa101-week09-fxa101-week-8-spring-introduction](../sources/fxa101-week09-fxa101-week-8-spring-introduction.md)
+- [fxa101-week09-lesson-fxa101-week09-page-2-dmn-quiet-creativity-and](../sources/fxa101-week09-lesson-fxa101-week09-page-2-dmn-quiet-creativity-and.md)
+- [fxa101-week09-the-brains-default-network-anatomy-function-and-relevance](../sources/fxa101-week09-the-brains-default-network-anatomy-function-and-relevance.md)
+- [fxa101-week09-the-effect-of-apoe4-on-the-functional-gradient-of-the-brain](../sources/fxa101-week09-the-effect-of-apoe4-on-the-functional-gradient-of-the-brain.md)

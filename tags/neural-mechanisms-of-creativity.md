@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neural-mechanisms-of-creativity
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Neural Mechanisms Of Creativity

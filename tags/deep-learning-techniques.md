@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: deep-learning-techniques
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Deep Learning Techniques

@@ -5,11 +5,12 @@ title: "Empathy and Prosocial Behavior"
 confidence: medium
 tags: ["social-psychology"]
 sources:
+  - fxa101-week09-quiet-the-power-of-introverts-in-a-world-that-cant-stop
   - fxa300-week01-empathy-an-integrative-model
   - fxa300-week08-musical-development-and-education
   - fxa300-week08-problem-music-and-subcultures
   - psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Empathy and Prosocial Behavior
@@ -27,6 +28,7 @@ The integrative model of empathy posits that empathetic responses are regulated 
 
 ## Sources
 
+- [fxa101-week09-quiet-the-power-of-introverts-in-a-world-that-cant-stop](../sources/fxa101-week09-quiet-the-power-of-introverts-in-a-world-that-cant-stop.md)
 - [fxa300-week01-empathy-an-integrative-model](../sources/fxa300-week01-empathy-an-integrative-model.md)
 - [fxa300-week08-musical-development-and-education](../sources/fxa300-week08-musical-development-and-education.md)
 - [fxa300-week08-problem-music-and-subcultures](../sources/fxa300-week08-problem-music-and-subcultures.md)

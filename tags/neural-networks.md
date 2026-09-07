@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neural-networks
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Neural Networks
@@ -9,6 +9,7 @@ updated: 2026-08-31
 - [Music Activates Regions of the Brain Spared by Alzheimer\u2019s Disease](../sources/fxa100-week03-music-activates-regions-of-the-brain-spared-by-alzheimers.md)
 - [Cognitive Reserve in Healthy Aging and Alzheimer\u2019s Disease: A Meta-Analysis of fMRI Studies](../sources/fxa101-week03-cognitive-reserve-in-healthy-aging-and-alzheimers-disease-a.md)
 - [Effects of Music Training on Inhibitory Control and Associated Neural Networks in School-Aged Children: A Longitudinal Study](../sources/fxa101-week03-effects-of-music-training-on-inhibitory-control-and.md)
+- [The Brain\u2019s Default Network: Anatomy, Function, and Relevance to Disease](../sources/fxa101-week09-the-brains-default-network-anatomy-function-and-relevance.md)
 - [Music and the Brain](../sources/fxa300-week02-music-and-the-brain.md)
 - [Music cognition in more detail](../sources/fxa300-week03-lesson-fxa300-week03-music-and-processing-1.md)
 - [Towards a Cognitive Neuroscience of Consciousness: Basic Evidence and a Workspace Framework](../sources/fxa300-week07-towards-a-cognitive-neuroscience-of-consciousness-basic.md)

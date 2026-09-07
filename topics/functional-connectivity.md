@@ -3,6 +3,7 @@ confidence: medium
 domain: method
 slug: functional-connectivity-in-neurodevelopment
 sources:
+  - fxa101-week09-the-effect-of-apoe4-on-the-functional-gradient-of-the-brain
   - fxa302-week06-multimodal-mr-imaging-reveals-large-scale-structural-and
   - fxa303-week02-functional-connectivity-in-the-first-year-of-life-in
   - fxa303-week03-the-early-adolescent-brain-on-music-analysis-of-functional
@@ -10,7 +11,7 @@ tags:
 - functional-connectivity
 title: Functional Connectivity In Neurodevelopment
 type: topic
-updated: 2026-08-10
+updated: 2026-09-07
 ---
 
 ## Functional Connectivity In Neurodevelopment
@@ -29,6 +30,7 @@ The investigation of functional connectivity in neurodevelopment spans from infa
 
 ## Sources
 
+- [fxa101-week09-the-effect-of-apoe4-on-the-functional-gradient-of-the-brain](../sources/fxa101-week09-the-effect-of-apoe4-on-the-functional-gradient-of-the-brain.md)
 - [fxa302-week06-multimodal-mr-imaging-reveals-large-scale-structural-and](../sources/fxa302-week06-multimodal-mr-imaging-reveals-large-scale-structural-and.md)
 - [fxa303-week02-functional-connectivity-in-the-first-year-of-life-in](../sources/fxa303-week02-functional-connectivity-in-the-first-year-of-life-in.md)
 - [fxa303-week03-the-early-adolescent-brain-on-music-analysis-of-functional](../sources/fxa303-week03-the-early-adolescent-brain-on-music-analysis-of-functional.md)

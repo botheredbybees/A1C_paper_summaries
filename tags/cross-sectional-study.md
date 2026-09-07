@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cross-sectional-study
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Cross Sectional Study

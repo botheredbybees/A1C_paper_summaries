@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neural-basis-humor
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Neural Basis Humor

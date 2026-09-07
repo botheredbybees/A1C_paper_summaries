@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: barriers-to-participation-in-creative-activities
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Barriers To Participation In Creative Activities

@@ -11,7 +11,7 @@ tags: ["creativity", "aging", "observation-skills", "journaling", "fxa101"]
 key_concepts: ["cognitive reserve", "brain development"]
 methods: []
 slug: fxa101-week03-lesson-fxa101-week03-page-4-activities-for-week-3
-related: ["aging", "creativity", "observation-skills"]
+related: ["aging", "creativity", "journaling", "observation-skills"]
 created: 2026-07-20
 updated: 2026-07-20
 ---
@@ -43,4 +43,5 @@ This week’s lesson from FXA101 focuses on activities and readings to enhance c
 
 - [aging](../topics/aging.md)
 - [creativity](../topics/creativity.md)
+- [journaling](../topics/journaling.md)
 - [observation-skills](../topics/observation-skills.md)

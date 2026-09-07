@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ecology-of-process
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Ecology Of Process

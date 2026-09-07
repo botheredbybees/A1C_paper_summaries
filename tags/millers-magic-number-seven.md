@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: millers-magic-number-seven
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Millers Magic Number Seven

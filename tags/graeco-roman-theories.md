@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: graeco-roman-theories
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Graeco Roman Theories

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creativity-as-a-cognitive-process
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Creativity As A Cognitive Process

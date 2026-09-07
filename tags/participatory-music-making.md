@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: participatory-music-making
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Participatory Music Making

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arousal-and-relaxation
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Arousal And Relaxation

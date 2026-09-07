@@ -1,12 +1,13 @@
 ---
 type: tag
 tag: clinical-practice
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Clinical Practice
 
 - [AGE AND SEX DO NOT BIAS THE USE OF ANGIOTENSIN-CONVERTING ENZYME INHIBITORS IN ACUTE MYOCARDIAL INFARCTION AND CONGESTIVE HEART FAILURE](../sources/fxa100-week11-age-and-sex-do-not-bias-the-use-of-angiotensin-converting.md)
+- [Reading Anna Freud: Advocacy and Relevance in Child Mental Health](../sources/fxa101-week09-reading-anna-freud-advocacy-and-relevance-in-child-mental.md)
 - [Exploring the medical humanities](../sources/fxa302-week01-exploring-the-medical-humanities.md)
 - [The Role of the Imagination in the Practices of the Health Humanities](../sources/fxa302-week01-the-role-of-the-imagination-in-the-practices-of-the-health.md)
 - [Where Science Meets Stories: A Systematic Review on Narrative Medicine](../sources/fxa302-week01-where-science-meets-stories-a-systematic-review-on.md)

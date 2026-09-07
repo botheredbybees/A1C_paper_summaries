@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychological-trauma-effects
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Psychological Trauma Effects

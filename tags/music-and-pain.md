@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-and-pain
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Music And Pain

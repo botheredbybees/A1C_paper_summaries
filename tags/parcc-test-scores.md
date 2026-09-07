@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: parcc-test-scores
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Parcc Test Scores

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: body-mass-index-bmi
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Body Mass Index Bmi

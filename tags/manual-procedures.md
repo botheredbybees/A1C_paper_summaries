@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: manual-procedures
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Manual Procedures

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: first-responders-care
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## First Responders Care

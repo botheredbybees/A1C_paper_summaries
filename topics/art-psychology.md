@@ -6,8 +6,9 @@ confidence: medium
 tags: ["art-psychology"]
 sources:
   - fxa101-week07-color-harmony
+  - fxa101-week09-the-psychology-of-art
   - fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with
-updated: 2026-08-17
+updated: 2026-09-07
 ---
 
 ## Art and Psychological Impact
@@ -27,4 +28,5 @@ The sources collectively explore how art can influence psychological states and 
 ## Sources
 
 - [fxa101-week07-color-harmony](../sources/fxa101-week07-color-harmony.md)
+- [fxa101-week09-the-psychology-of-art](../sources/fxa101-week09-the-psychology-of-art.md)
 - [fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with](../sources/fxa301-week02-enhancing-aesthetic-appreciation-by-priming-canvases-with.md)

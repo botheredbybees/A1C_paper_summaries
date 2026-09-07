@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: critical-thinking-in-education
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Critical Thinking In Education

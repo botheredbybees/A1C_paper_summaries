@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ethical-use-of-indigenous-culture
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Ethical Use Of Indigenous Culture

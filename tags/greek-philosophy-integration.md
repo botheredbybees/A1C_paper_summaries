@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: greek-philosophy-integration
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Greek Philosophy Integration

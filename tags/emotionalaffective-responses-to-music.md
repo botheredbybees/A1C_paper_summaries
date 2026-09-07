@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotionalaffective-responses-to-music
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Emotionalaffective Responses To Music

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: term-retention-strategies
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Term Retention Strategies

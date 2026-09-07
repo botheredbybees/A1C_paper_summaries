@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-activities-for-persons-with-dementia
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Creative Activities For Persons With Dementia

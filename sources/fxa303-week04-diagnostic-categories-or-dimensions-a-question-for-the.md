@@ -11,7 +11,7 @@ tags: ["categorical-diagnosis", "dimensional-approach", "mental-disorders", "dsm
 key_concepts: ["diagnostic-categories", "pathological-dimensions", "negative-affectivity", "externalization"]
 methods: ["literature-review"]
 slug: fxa303-week04-diagnostic-categories-or-dimensions-a-question-for-the
-related: []
+related: ["mental-disorders"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,4 +44,4 @@ This article examines the debate between categorical and dimensional approaches 
 
 ## See Also
 
-*(none yet)*
+- [mental-disorders](../topics/mental-disorders.md)

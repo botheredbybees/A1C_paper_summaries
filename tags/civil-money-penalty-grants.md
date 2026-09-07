@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: civil-money-penalty-grants
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Civil Money Penalty Grants

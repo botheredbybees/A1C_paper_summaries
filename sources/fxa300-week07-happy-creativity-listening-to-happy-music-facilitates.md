@@ -7,13 +7,15 @@ doi: https://doi.org/10.1371/journal.pone.0182210
 appearances:
   - unit: FXA300
     week: "07"
-tags: ["music-and-creativity", "divergent-thinking", "positive-mood", "cognitive-enhancement", "classical-music", "mood-affect", "fxa300", "mood-induction"]
+  - unit: FXA101
+    week: "09"
+tags: ["music-and-creativity", "divergent-thinking", "positive-mood", "cognitive-enhancement", "classical-music", "mood-affect", "fxa300", "mood-induction", "fxa101"]
 key_concepts: ["divergent thinking", "convergent thinking", "mood induction"]
 methods: ["experimental study", "music intervention"]
 slug: fxa300-week07-happy-creativity-listening-to-happy-music-facilitates
 related: ["classical-music", "cognitive-enhancement", "divergent-thinking", "music-and-creativity"]
 created: 2026-08-17
-updated: 2026-08-17
+updated: 2026-09-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa300-week07-happy-creativity-listening-to-happy-music-facilitates.md_

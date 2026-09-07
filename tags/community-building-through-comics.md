@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: community-building-through-comics
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Community Building Through Comics

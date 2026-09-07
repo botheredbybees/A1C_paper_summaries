@@ -11,7 +11,7 @@ tags: ["brain-networks", "creativity-under-stress", "extreme-environments", "fxa
 key_concepts: ["default-mode-network", "executive-control-network", "salience-network"]
 methods: ["literature-review"]
 slug: fxa101-week06-the-creative-brain-under-stress-considerations-for
-related: ["brain-networks"]
+related: ["brain-networks", "executive-control-network"]
 created: 2026-08-10
 updated: 2026-08-10
 ---
@@ -42,3 +42,4 @@ The article explores the impact of stress on creativity, focusing on the interac
 ## See Also
 
 - [brain-networks](../topics/brain-networks.md)
+- [executive-control-network](../topics/executive-control-network.md)

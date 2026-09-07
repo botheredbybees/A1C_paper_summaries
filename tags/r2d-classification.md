@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: r2d-classification
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## R2D Classification

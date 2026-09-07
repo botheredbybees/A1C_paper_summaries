@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: informal-music-making-activities
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Informal Music Making Activities

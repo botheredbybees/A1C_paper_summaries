@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-psychology
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Cognitive Psychology
@@ -11,6 +11,7 @@ updated: 2026-08-31
 - [New insights into mechanisms of enhanced synaesthetic memory: Benefits are synaesthesia-type-specific](../sources/fxa101-week02-web-article-lunke-2018.md)
 - [Rapid and dynamic processing of face pareidolia in the human brain](../sources/fxa101-week05-rapid-and-dynamic-processing-of-face-pareidolia-in-the.md)
 - [Textures as Probes of Visual Processing](../sources/fxa101-week07-textures-as-probes-of-visual-processing.md)
+- [Background Music Stints Creativity: Evidence from Compound Remote Associate Tasks](../sources/fxa101-week09-background-music-stints-creativity-evidence-from-compound.md)
 - [Week 1 Introduction: Music, Mind and Body](../sources/fxa300-week01-week-1-introduction-music-mind-and-body.md)
 - [Exploring Working Memory: Selected Works of Alan Baddeley](../sources/fxa300-week03-exploring-working-memory-selected-works-of-alan-baddeley.md)
 - [Music and Memory](../sources/fxa300-week03-lesson-fxa300-week03-week-2.md)

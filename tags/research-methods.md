@@ -1,13 +1,14 @@
 ---
 type: tag
 tag: research-methods
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Research Methods
 
 - [An introduction to research](../sources/fxa100-week04-an-introduction-to-research.md)
 - [Activities for Week 11 - FXA100 The Arts and Dementia Care](../sources/fxa100-week11-lesson-fxa100-week11-page-4-week-10-activities.md)
+- [Introduction to Week 9: Developing Creative Focus and Skills](../sources/fxa101-week09-lesson-fxa101-week09-page-1-introduction-to-week-9.md)
 - [A Proposed Glossary for Use in Affective Response Literature in Music](../sources/fxa300-week05-a-proposed-glossary-for-use-in-affective-response.md)
 - [Understanding Musical Taste](../sources/fxa300-week05-lesson-fxa300-week05-page-2-1.md)
 - [FXA300 Week 6 Lecture: Research Methods in Music, Mind, and Body](../sources/fxa300-week06-fxa300-week-6-lecture-research-methods-in-music-mind-and.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: reliability-and-validity
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Reliability And Validity

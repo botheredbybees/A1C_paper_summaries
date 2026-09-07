@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: photography-as-therapy
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Photography As Therapy

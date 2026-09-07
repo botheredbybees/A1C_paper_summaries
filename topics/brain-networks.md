@@ -9,10 +9,12 @@ sources:
   - fxa100-week06-the-brain-on-art-intense-aesthetic-experience-activates-the
   - fxa101-week00-neural-insights-into-observational-drawing-a-longitudinal
   - fxa101-week06-the-creative-brain-under-stress-considerations-for
+  - fxa101-week09-associative-thinking-at-the-core-of-creativity
+  - fxa101-week09-the-brains-default-network-anatomy-function-and-relevance
   - fxa300-week03-musical-imagery-involves-wernickes-area-in-bilateral-and
   - fxa300-week08-music-to-my-senses-functional-magnetic-resonance-imaging
   - fxa303-week13-the-neural-basis-of-humour-processing
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Neural Networks in Aesthetic and Humorous Experiences
@@ -35,6 +37,8 @@ The exploration of neural networks involved in aesthetic and humorous experience
 - [fxa100-week06-the-brain-on-art-intense-aesthetic-experience-activates-the](../sources/fxa100-week06-the-brain-on-art-intense-aesthetic-experience-activates-the.md)
 - [fxa101-week00-neural-insights-into-observational-drawing-a-longitudinal](../sources/fxa101-week00-neural-insights-into-observational-drawing-a-longitudinal.md)
 - [fxa101-week06-the-creative-brain-under-stress-considerations-for](../sources/fxa101-week06-the-creative-brain-under-stress-considerations-for.md)
+- [fxa101-week09-associative-thinking-at-the-core-of-creativity](../sources/fxa101-week09-associative-thinking-at-the-core-of-creativity.md)
+- [fxa101-week09-the-brains-default-network-anatomy-function-and-relevance](../sources/fxa101-week09-the-brains-default-network-anatomy-function-and-relevance.md)
 - [fxa300-week03-musical-imagery-involves-wernickes-area-in-bilateral-and](../sources/fxa300-week03-musical-imagery-involves-wernickes-area-in-bilateral-and.md)
 - [fxa300-week08-music-to-my-senses-functional-magnetic-resonance-imaging](../sources/fxa300-week08-music-to-my-senses-functional-magnetic-resonance-imaging.md)
 - [fxa303-week13-the-neural-basis-of-humour-processing](../sources/fxa303-week13-the-neural-basis-of-humour-processing.md)

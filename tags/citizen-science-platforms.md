@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: citizen-science-platforms
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Citizen Science Platforms

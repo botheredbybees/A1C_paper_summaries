@@ -11,7 +11,7 @@ tags: ["czech-music", "19th-century-history", "musical-reviews", "fxa302", "nati
 key_concepts: ["national-music-movements", "historical-perspectives", "critical-analysis"]
 methods: ["book-review"]
 slug: fxa302-week05-bedich-smetana-letters-and-reminiscences
-related: ["critical-analysis"]
+related: ["critical-analysis", "historical-perspectives"]
 created: 2026-08-03
 updated: 2026-08-03
 ---
@@ -43,3 +43,4 @@ The document is a review by Francis Cameron of 'Bedrich Smetana. Letters and Rem
 ## See Also
 
 - [critical-analysis](../topics/critical-analysis.md)
+- [historical-perspectives](../topics/historical-perspectives.md)

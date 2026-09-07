@@ -7,7 +7,8 @@ tags: ["cognitive-flexibility"]
 sources:
   - fxa101-week03-training-creative-cognition-adolescence-as-a-flexible
   - fxa101-week06-enhancement-of-creative-thinking-skills-using-a-cognitive
-updated: 2026-08-10
+  - fxa101-week09-dynamic-subcortical-modulators-of-human-default-mode
+updated: 2026-09-07
 ---
 
 ## Cognitive Flexibility in Creative Thinking
@@ -28,3 +29,4 @@ Both sources highlight the role of cognitive flexibility in enhancing creative t
 
 - [fxa101-week03-training-creative-cognition-adolescence-as-a-flexible](../sources/fxa101-week03-training-creative-cognition-adolescence-as-a-flexible.md)
 - [fxa101-week06-enhancement-of-creative-thinking-skills-using-a-cognitive](../sources/fxa101-week06-enhancement-of-creative-thinking-skills-using-a-cognitive.md)
+- [fxa101-week09-dynamic-subcortical-modulators-of-human-default-mode](../sources/fxa101-week09-dynamic-subcortical-modulators-of-human-default-mode.md)

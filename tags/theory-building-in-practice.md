@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: theory-building-in-practice
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Theory Building In Practice

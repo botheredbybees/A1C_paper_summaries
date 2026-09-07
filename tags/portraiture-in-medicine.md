@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: portraiture-in-medicine
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Portraiture In Medicine

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-neuroscience
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Cognitive Neuroscience
@@ -23,6 +23,9 @@ updated: 2026-08-31
 - [A Large-Scale, Cross-Sectional Investigation Into the Efficacy of Brain Training](../sources/fxa101-week04-a-large-scale-cross-sectional-investigation-into-the.md)
 - [The Creative Mind: Toward an Evolutionary Theory of Discovery and Innovation](../sources/fxa101-week04-the-creative-mind-toward-an-evolutionary-theory-of.md)
 - [The neurogenic reserve hypothesis: What is adult hippocampal neurogenesis good for?](../sources/fxa101-week04-the-neurogenic-reserve-hypothesis-what-is-adult-hippocampal.md)
+- [Dynamic subcortical modulators of human default mode network function](../sources/fxa101-week09-dynamic-subcortical-modulators-of-human-default-mode.md)
+- [The Brain\u2019s Default Network: Anatomy, Function, and Relevance to Disease](../sources/fxa101-week09-the-brains-default-network-anatomy-function-and-relevance.md)
+- [The Effect of Mental Arithmetic on Cerebral Circulation and Metabolism](../sources/fxa101-week09-the-effect-of-mental-arithmetic-on-cerebral-circulation-and.md)
 - [Introduction to FXA300 Music, Mind and Body](../sources/fxa300-week01-lesson-fxa300-week01-week-1-1.md)
 - [Current Advances in the Cognitive Neuroscience of Music](../sources/fxa300-week02-current-advances-in-the-cognitive-neuroscience-of-music.md)
 - [Epilogue: Ruminations on Music Psychology](../sources/fxa300-week02-epilogue-ruminations-on-music-psychology.md)

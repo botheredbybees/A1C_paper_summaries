@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: health-belief-model
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Health Belief Model

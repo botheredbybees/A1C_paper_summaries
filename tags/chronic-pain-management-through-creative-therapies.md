@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: chronic-pain-management-through-creative-therapies
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Chronic Pain Management Through Creative Therapies

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: advocacy-for-mental-health
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Advocacy For Mental Health

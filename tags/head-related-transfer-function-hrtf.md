@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: head-related-transfer-function-hrtf
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Head Related Transfer Function Hrtf

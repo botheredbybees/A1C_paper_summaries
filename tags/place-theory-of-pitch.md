@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: place-theory-of-pitch
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Place Theory Of Pitch

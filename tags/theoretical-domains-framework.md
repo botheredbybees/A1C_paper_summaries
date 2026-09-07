@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: theoretical-domains-framework
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Theoretical Domains Framework

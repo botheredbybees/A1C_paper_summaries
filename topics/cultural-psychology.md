@@ -6,10 +6,11 @@ confidence: medium
 tags: ["cultural-psychology"]
 sources:
   - fxa100-week02-the-power-of-music
+  - fxa101-week09-the-psychology-of-art
   - fxa300-week05-indifference-to-dissonance-in-native-amazonians-reveals
   - fxa300-week08-concluding-remarks
   - psy214-week02-eastern-conceptualizations-of-happiness-fundamental
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Cultural Perspectives on Emotional and Therapeutic Benefits of Music
@@ -28,6 +29,7 @@ The sources explore the therapeutic benefits and emotional evocation by music (S
 ## Sources
 
 - [fxa100-week02-the-power-of-music](../sources/fxa100-week02-the-power-of-music.md)
+- [fxa101-week09-the-psychology-of-art](../sources/fxa101-week09-the-psychology-of-art.md)
 - [fxa300-week05-indifference-to-dissonance-in-native-amazonians-reveals](../sources/fxa300-week05-indifference-to-dissonance-in-native-amazonians-reveals.md)
 - [fxa300-week08-concluding-remarks](../sources/fxa300-week08-concluding-remarks.md)
 - [psy214-week02-eastern-conceptualizations-of-happiness-fundamental](../sources/psy214-week02-eastern-conceptualizations-of-happiness-fundamental.md)

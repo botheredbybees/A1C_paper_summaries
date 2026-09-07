@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: gyri-and-sulci
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Gyri And Sulci

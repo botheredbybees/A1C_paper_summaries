@@ -4,6 +4,8 @@ domain: theory
 slug: critical-thinking
 sources:
   - fxa100-week01-ai-tools-in-society-impacts-on-cognitive-offloading-and-the
+  - fxa101-week09-lesson-fxa101-week09-page-1-introduction-to-week-9
+  - fxa101-week09-reflectivity-creativity-and-the-space-for-silence
   - fxa202-week08-journal-and-visual-research-guidelines
   - fxa302-week03-formal-art-observation-training-improves-medical-students
   - fxa302-week03-visual-thinking-strategy
@@ -13,7 +15,7 @@ tags:
 - critical-thinking
 title: Critical Thinking
 type: topic
-updated: 2026-07-28
+updated: 2026-09-07
 ---
 
 ## Critical Thinking
@@ -33,6 +35,8 @@ The provided source emphasizes the importance of journaling and visual research 
 ## Sources
 
 - [fxa100-week01-ai-tools-in-society-impacts-on-cognitive-offloading-and-the](../sources/fxa100-week01-ai-tools-in-society-impacts-on-cognitive-offloading-and-the.md)
+- [fxa101-week09-lesson-fxa101-week09-page-1-introduction-to-week-9](../sources/fxa101-week09-lesson-fxa101-week09-page-1-introduction-to-week-9.md)
+- [fxa101-week09-reflectivity-creativity-and-the-space-for-silence](../sources/fxa101-week09-reflectivity-creativity-and-the-space-for-silence.md)
 - [fxa202-week08-journal-and-visual-research-guidelines](../sources/fxa202-week08-journal-and-visual-research-guidelines.md)
 - [fxa302-week03-formal-art-observation-training-improves-medical-students](../sources/fxa302-week03-formal-art-observation-training-improves-medical-students.md)
 - [fxa302-week03-visual-thinking-strategy](../sources/fxa302-week03-visual-thinking-strategy.md)

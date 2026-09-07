@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-therapy-for-dementia-patients
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Music Therapy For Dementia Patients

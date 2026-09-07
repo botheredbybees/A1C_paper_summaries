@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creativity-and-personality
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Creativity And Personality

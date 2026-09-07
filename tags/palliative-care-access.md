@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: palliative-care-access
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Palliative Care Access

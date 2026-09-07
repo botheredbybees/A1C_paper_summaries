@@ -1,0 +1,9 @@
+---
+type: tag
+tag: mental-workload
+updated: 2026-09-07
+---
+
+## Mental Workload
+
+- [The Effect of Mental Arithmetic on Cerebral Circulation and Metabolism](../sources/fxa101-week09-the-effect-of-mental-arithmetic-on-cerebral-circulation-and.md)

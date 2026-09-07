@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: realistic-goal-setting
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Realistic Goal Setting

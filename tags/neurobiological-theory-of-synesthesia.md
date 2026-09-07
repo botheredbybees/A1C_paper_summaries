@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurobiological-theory-of-synesthesia
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Neurobiological Theory Of Synesthesia

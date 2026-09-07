@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: individual-differences-psychology
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Individual Differences Psychology

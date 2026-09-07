@@ -3,13 +3,15 @@ confidence: medium
 domain: method
 slug: journaling-as-a-creative-practice
 sources:
-- fxa202-week08-journal-and-visual-research-guidelines
-- fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays
+  - fxa101-week03-lesson-fxa101-week03-page-4-activities-for-week-3
+  - fxa101-week09-fxa101-week-8-spring-introduction
+  - fxa202-week08-journal-and-visual-research-guidelines
+  - fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays
 tags:
 - journaling
 title: Journaling as a Creative Practice
 type: topic
-updated: 2026-05-04
+updated: 2026-09-07
 ---
 
 ## Journaling as a Creative Practice
@@ -28,5 +30,7 @@ The practice of journaling is highlighted in both sources as an integral part of
 
 ## Sources
 
+- [fxa101-week03-lesson-fxa101-week03-page-4-activities-for-week-3](../sources/fxa101-week03-lesson-fxa101-week03-page-4-activities-for-week-3.md)
+- [fxa101-week09-fxa101-week-8-spring-introduction](../sources/fxa101-week09-fxa101-week-8-spring-introduction.md)
 - [fxa202-week08-journal-and-visual-research-guidelines](../sources/fxa202-week08-journal-and-visual-research-guidelines.md)
 - [fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays](../sources/fxa202-week09-week-9-lecture-editing-and-selection-for-photo-essays.md)

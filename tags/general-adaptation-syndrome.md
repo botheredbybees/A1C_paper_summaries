@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: general-adaptation-syndrome
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## General Adaptation Syndrome

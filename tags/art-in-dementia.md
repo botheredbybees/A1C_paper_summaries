@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: art-in-dementia
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Art In Dementia

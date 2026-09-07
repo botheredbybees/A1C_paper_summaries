@@ -9,7 +9,9 @@ sources:
   - fxa101-week02-metacontrol-of-human-creativity-the-neurocognitive
   - fxa101-week04-the-creative-mind-toward-an-evolutionary-theory-of
   - fxa101-week06-unconscious-creativity-when-can-unconscious-thought
-updated: 2026-08-10
+  - fxa101-week09-associative-thinking-at-the-core-of-creativity
+  - fxa101-week09-background-music-stints-creativity-evidence-from-compound
+updated: 2026-09-07
 ---
 
 ## The Neurocognitive and Evolutionary Foundations of Creativity
@@ -32,3 +34,5 @@ Research on the neurocognitive mechanisms underlying creativity highlights two p
 - [fxa101-week02-metacontrol-of-human-creativity-the-neurocognitive](../sources/fxa101-week02-metacontrol-of-human-creativity-the-neurocognitive.md)
 - [fxa101-week04-the-creative-mind-toward-an-evolutionary-theory-of](../sources/fxa101-week04-the-creative-mind-toward-an-evolutionary-theory-of.md)
 - [fxa101-week06-unconscious-creativity-when-can-unconscious-thought](../sources/fxa101-week06-unconscious-creativity-when-can-unconscious-thought.md)
+- [fxa101-week09-associative-thinking-at-the-core-of-creativity](../sources/fxa101-week09-associative-thinking-at-the-core-of-creativity.md)
+- [fxa101-week09-background-music-stints-creativity-evidence-from-compound](../sources/fxa101-week09-background-music-stints-creativity-evidence-from-compound.md)

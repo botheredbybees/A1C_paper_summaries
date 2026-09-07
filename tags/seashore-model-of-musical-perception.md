@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: seashore-model-of-musical-perception
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Seashore Model Of Musical Perception

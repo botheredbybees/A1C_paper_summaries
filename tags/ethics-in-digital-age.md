@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ethics-in-digital-age
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Ethics In Digital Age

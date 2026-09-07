@@ -5,9 +5,10 @@ title: "Research Skills"
 confidence: medium
 tags: ["research-skills"]
 sources:
+  - fxa101-week09-lesson-fxa101-week09-page-2-activities-for-week-9
   - fxa302-week07-lesson-fxa302-week07-week-8-activities
   - psy214-week03-lesson-psy214-week03-academic-journals-and-journal
-updated: 2026-08-17
+updated: 2026-09-07
 ---
 
 ## Research Skills
@@ -26,5 +27,6 @@ The sources emphasize the importance of research skills in academic and professi
 
 ## Sources
 
+- [fxa101-week09-lesson-fxa101-week09-page-2-activities-for-week-9](../sources/fxa101-week09-lesson-fxa101-week09-page-2-activities-for-week-9.md)
 - [fxa302-week07-lesson-fxa302-week07-week-8-activities](../sources/fxa302-week07-lesson-fxa302-week07-week-8-activities.md)
 - [psy214-week03-lesson-psy214-week03-academic-journals-and-journal](../sources/psy214-week03-lesson-psy214-week03-academic-journals-and-journal.md)

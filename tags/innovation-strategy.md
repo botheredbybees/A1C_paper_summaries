@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: innovation-strategy
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Innovation Strategy

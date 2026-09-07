@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: art-and-disability-institute-adi
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Art And Disability Institute Adi

@@ -11,7 +11,7 @@ tags: ["creative-project", "journaling-practice", "reflective-writing", "fxa101"
 key_concepts: ["creativity", "unconventional-usage-of-materials"]
 methods: []
 slug: fxa101-week01-lesson-fxa101-week01-creative-project-1
-related: ["journaling-practice", "reflective-writing"]
+related: ["creative-project", "journaling-practice", "reflective-writing"]
 created: 2026-07-06
 updated: 2026-07-06
 ---
@@ -40,5 +40,6 @@ This lesson introduces the first creative project in the FXA101 course, aimed at
 
 ## See Also
 
+- [creative-project](../topics/creative-project.md)
 - [journaling-practice](../topics/journaling-practice.md)
 - [reflective-writing](../topics/reflective-writing.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: photographs-as-therapeutic-tools
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Photographs As Therapeutic Tools

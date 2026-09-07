@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hildegard-of-bingen
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Hildegard Of Bingen

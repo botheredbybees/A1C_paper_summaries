@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: vibrotactile-displays
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Vibrotactile Displays

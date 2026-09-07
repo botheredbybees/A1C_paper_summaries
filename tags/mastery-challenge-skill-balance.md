@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mastery-challenge-skill-balance
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Mastery Challenge Skill Balance

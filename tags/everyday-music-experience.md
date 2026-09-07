@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: everyday-music-experience
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Everyday Music Experience

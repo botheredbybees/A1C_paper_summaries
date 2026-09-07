@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: late-period-music
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Late Period Music

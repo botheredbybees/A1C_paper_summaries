@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cross-cultural-medical-influence
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Cross Cultural Medical Influence

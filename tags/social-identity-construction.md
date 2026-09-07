@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-identity-construction
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Social Identity Construction

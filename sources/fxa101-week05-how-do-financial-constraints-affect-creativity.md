@@ -11,7 +11,7 @@ tags: ["financial-constraints", "creativity-enhancement", "resource-efficiency",
 key_concepts: ["top-down processing strategy", "bottom-up approach", "limited budgets", "cost-effective solutions"]
 methods: ["empirical study"]
 slug: fxa101-week05-how-do-financial-constraints-affect-creativity
-related: ["innovation-strategy"]
+related: ["creativity-enhancement", "innovation-strategy"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -45,4 +45,5 @@ The paper explores the impact of financial constraints on creativity, examining 
 
 ## See Also
 
+- [creativity-enhancement](../topics/creativity-enhancement.md)
 - [innovation-strategy](../topics/innovation-strategy.md)

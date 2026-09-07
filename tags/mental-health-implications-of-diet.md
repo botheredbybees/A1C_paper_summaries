@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-health-implications-of-diet
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Mental Health Implications Of Diet

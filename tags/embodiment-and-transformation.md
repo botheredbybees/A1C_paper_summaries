@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: embodiment-and-transformation
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Embodiment And Transformation

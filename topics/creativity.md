@@ -14,6 +14,8 @@ sources:
   - fxa101-week06-lesson-fxa101-week06-page-1-week-6-introduction
   - fxa101-week07-color-harmony
   - fxa101-week07-lesson-fxa101-week07-page-2-week-7-activities
+  - fxa101-week09-lesson-fxa101-week09-page-1-introduction-to-week-9
+  - fxa101-week09-lesson-fxa101-week09-page-2-dmn-quiet-creativity-and
   - fxa301-week01-week-2-introduction-fxa301-arts-in-the-community
   - fxa302-week08-lesson-fxa302-week08-welcome-to-week-7
   - fxa302-week08-the-rewards-of-chronic-illness
@@ -23,7 +25,7 @@ tags:
 - creativity
 title: Creativity
 type: topic
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Creativity
@@ -53,6 +55,8 @@ The concept of creativity is examined across multiple perspectives in these sour
 - [fxa101-week06-lesson-fxa101-week06-page-1-week-6-introduction](../sources/fxa101-week06-lesson-fxa101-week06-page-1-week-6-introduction.md)
 - [fxa101-week07-color-harmony](../sources/fxa101-week07-color-harmony.md)
 - [fxa101-week07-lesson-fxa101-week07-page-2-week-7-activities](../sources/fxa101-week07-lesson-fxa101-week07-page-2-week-7-activities.md)
+- [fxa101-week09-lesson-fxa101-week09-page-1-introduction-to-week-9](../sources/fxa101-week09-lesson-fxa101-week09-page-1-introduction-to-week-9.md)
+- [fxa101-week09-lesson-fxa101-week09-page-2-dmn-quiet-creativity-and](../sources/fxa101-week09-lesson-fxa101-week09-page-2-dmn-quiet-creativity-and.md)
 - [fxa301-week01-week-2-introduction-fxa301-arts-in-the-community](../sources/fxa301-week01-week-2-introduction-fxa301-arts-in-the-community.md)
 - [fxa302-week08-lesson-fxa302-week08-welcome-to-week-7](../sources/fxa302-week08-lesson-fxa302-week08-welcome-to-week-7.md)
 - [fxa302-week08-the-rewards-of-chronic-illness](../sources/fxa302-week08-the-rewards-of-chronic-illness.md)

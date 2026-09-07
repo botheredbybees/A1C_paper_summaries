@@ -8,6 +8,7 @@ sources:
   - fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities
   - fxa101-week04-brain-training-using-cognitive-apps-can-improve-cognitive
   - fxa101-week04-lesson-fxa101-week04-chapter-3-creativity-throughout-life
+  - fxa101-week09-reading-anna-freud-advocacy-and-relevance-in-child-mental
   - fxa300-week05-music-and-movement-for-health-an-arts-based-intervention-to
   - fxa300-week06-web-article-brandt-2012
   - fxa301-applied-artes-and-health-ch01-2021-graff
@@ -42,7 +43,7 @@ tags:
 - public-health
 title: Creative Arts in Public Health
 type: topic
-updated: 2026-08-10
+updated: 2026-09-07
 ---
 
 ## Creative Arts in Public Health
@@ -67,6 +68,7 @@ The integration of creative arts into public health interventions presents a mul
 - [fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities](../sources/fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities.md)
 - [fxa101-week04-brain-training-using-cognitive-apps-can-improve-cognitive](../sources/fxa101-week04-brain-training-using-cognitive-apps-can-improve-cognitive.md)
 - [fxa101-week04-lesson-fxa101-week04-chapter-3-creativity-throughout-life](../sources/fxa101-week04-lesson-fxa101-week04-chapter-3-creativity-throughout-life.md)
+- [fxa101-week09-reading-anna-freud-advocacy-and-relevance-in-child-mental](../sources/fxa101-week09-reading-anna-freud-advocacy-and-relevance-in-child-mental.md)
 - [fxa300-week05-music-and-movement-for-health-an-arts-based-intervention-to](../sources/fxa300-week05-music-and-movement-for-health-an-arts-based-intervention-to.md)
 - [fxa300-week06-web-article-brandt-2012](../sources/fxa300-week06-web-article-brandt-2012.md)
 - [fxa301-applied-artes-and-health-ch01-2021-graff](../sources/fxa301-applied-artes-and-health-ch01-2021-graff.md)

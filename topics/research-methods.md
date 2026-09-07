@@ -5,6 +5,7 @@ slug: research-methods-in-healthcare-evaluation
 sources:
   - fxa100-week04-an-introduction-to-research
   - fxa100-week11-lesson-fxa100-week11-page-4-week-10-activities
+  - fxa101-week09-lesson-fxa101-week09-page-1-introduction-to-week-9
   - fxa300-week05-a-proposed-glossary-for-use-in-affective-response
   - fxa300-week05-lesson-fxa300-week05-page-2-1
   - fxa300-week06-fxa300-week-6-lecture-research-methods-in-music-mind-and
@@ -25,7 +26,7 @@ tags:
 - research-methods
 title: Research Methods in Healthcare Evaluation
 type: topic
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Research Methods in Healthcare Evaluation
@@ -46,6 +47,7 @@ The sources collectively emphasize the importance of various research methodolog
 
 - [fxa100-week04-an-introduction-to-research](../sources/fxa100-week04-an-introduction-to-research.md)
 - [fxa100-week11-lesson-fxa100-week11-page-4-week-10-activities](../sources/fxa100-week11-lesson-fxa100-week11-page-4-week-10-activities.md)
+- [fxa101-week09-lesson-fxa101-week09-page-1-introduction-to-week-9](../sources/fxa101-week09-lesson-fxa101-week09-page-1-introduction-to-week-9.md)
 - [fxa300-week05-a-proposed-glossary-for-use-in-affective-response](../sources/fxa300-week05-a-proposed-glossary-for-use-in-affective-response.md)
 - [fxa300-week05-lesson-fxa300-week05-page-2-1](../sources/fxa300-week05-lesson-fxa300-week05-page-2-1.md)
 - [fxa300-week06-fxa300-week-6-lecture-research-methods-in-music-mind-and](../sources/fxa300-week06-fxa300-week-6-lecture-research-methods-in-music-mind-and.md)

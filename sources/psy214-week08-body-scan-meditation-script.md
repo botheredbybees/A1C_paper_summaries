@@ -11,7 +11,7 @@ tags: ["mindfulness-meditation", "body-scan", "relaxation-technique", "stress-re
 key_concepts: ["mindfulness", "body-awareness", "sensory-observation"]
 methods: ["meditation-script"]
 slug: psy214-week08-body-scan-meditation-script
-related: ["body-scan", "creative-arts", "health-wellbeing", "mindfulness-meditation", "stress-reduction"]
+related: ["body-scan", "creative-arts", "health-wellbeing", "mindfulness-meditation", "sensory-observation", "stress-reduction"]
 created: 2026-08-31
 updated: 2026-08-31
 ---
@@ -48,4 +48,5 @@ This document is a meditation script for a body scan practice aimed at enhancing
 - [creative-arts](../topics/creative-arts.md)
 - [health-wellbeing](../topics/health-wellbeing.md)
 - [mindfulness-meditation](../topics/mindfulness-meditation.md)
+- [sensory-observation](../topics/sensory-observation.md)
 - [stress-reduction](../topics/stress-reduction.md)

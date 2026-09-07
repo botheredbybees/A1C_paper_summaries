@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hormonal-influences
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Hormonal Influences

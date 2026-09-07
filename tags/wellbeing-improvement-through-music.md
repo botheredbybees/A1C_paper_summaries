@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: wellbeing-improvement-through-music
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Wellbeing Improvement Through Music

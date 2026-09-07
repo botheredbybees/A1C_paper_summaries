@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: acceptance-and-commitment-therapy-act
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Acceptance And Commitment Therapy Act

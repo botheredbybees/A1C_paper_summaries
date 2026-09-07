@@ -8,6 +8,7 @@ sources:
   - fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers
   - fxa100-week11-the-neural-basis-of-human-dance
   - fxa101-week05-rapid-and-dynamic-processing-of-face-pareidolia-in-the
+  - fxa101-week09-dynamic-subcortical-modulators-of-human-default-mode
   - fxa300-week01-neurophysiological-effects-of-trait-empathy-in-music
   - fxa300-week04-auditory-imagery-empirical-findings
   - fxa300-week07-musical-creativity-and-the-brain
@@ -18,7 +19,7 @@ tags:
 - brain-imaging
 title: Brain Imaging Techniques
 type: topic
-updated: 2026-08-17
+updated: 2026-09-07
 ---
 
 ## Brain Imaging Techniques
@@ -42,6 +43,7 @@ The study of brain imaging techniques encompasses both basic and clinical neuros
 - [fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers](../sources/fxa100-week06-preserved-painting-creativity-in-an-artist-with-alzheimers.md)
 - [fxa100-week11-the-neural-basis-of-human-dance](../sources/fxa100-week11-the-neural-basis-of-human-dance.md)
 - [fxa101-week05-rapid-and-dynamic-processing-of-face-pareidolia-in-the](../sources/fxa101-week05-rapid-and-dynamic-processing-of-face-pareidolia-in-the.md)
+- [fxa101-week09-dynamic-subcortical-modulators-of-human-default-mode](../sources/fxa101-week09-dynamic-subcortical-modulators-of-human-default-mode.md)
 - [fxa300-week01-neurophysiological-effects-of-trait-empathy-in-music](../sources/fxa300-week01-neurophysiological-effects-of-trait-empathy-in-music.md)
 - [fxa300-week04-auditory-imagery-empirical-findings](../sources/fxa300-week04-auditory-imagery-empirical-findings.md)
 - [fxa300-week07-musical-creativity-and-the-brain](../sources/fxa300-week07-musical-creativity-and-the-brain.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dementia-protection
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Dementia Protection
