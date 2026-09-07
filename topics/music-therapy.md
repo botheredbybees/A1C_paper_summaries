@@ -176,6 +176,8 @@ sources:
   - fxa302-week01-musical-composition-and-vocal-expression
   - fxa302-week01-shared-music-listening
   - fxa302-week09-how-music-can-help-relieve-chronic-pain
+  - fxa302-week09-lesson-fxa302-week09-page-3
+  - fxa302-week09-lesson-fxa302-week09-page-4-activities-new
   - fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam
   - fxa303-week02-addressing-issues-of-mental-health-in-schools-through-the
   - fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on
@@ -389,6 +391,8 @@ The integration of music therapy across various neurological conditions undersco
 - [fxa302-week01-musical-composition-and-vocal-expression](../sources/fxa302-week01-musical-composition-and-vocal-expression.md)
 - [fxa302-week01-shared-music-listening](../sources/fxa302-week01-shared-music-listening.md)
 - [fxa302-week09-how-music-can-help-relieve-chronic-pain](../sources/fxa302-week09-how-music-can-help-relieve-chronic-pain.md)
+- [fxa302-week09-lesson-fxa302-week09-page-3](../sources/fxa302-week09-lesson-fxa302-week09-page-3.md)
+- [fxa302-week09-lesson-fxa302-week09-page-4-activities-new](../sources/fxa302-week09-lesson-fxa302-week09-page-4-activities-new.md)
 - [fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam](../sources/fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam.md)
 - [fxa303-week02-addressing-issues-of-mental-health-in-schools-through-the](../sources/fxa303-week02-addressing-issues-of-mental-health-in-schools-through-the.md)
 - [fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on](../sources/fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on.md)

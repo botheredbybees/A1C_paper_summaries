@@ -23,6 +23,7 @@ updated: 2026-09-07
 - [Arts Therapies Interventions and Their Outcomes in the Treatment of Eating Disorders: Scoping Review Protocol](../sources/fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the.md)
 - [Promoting Health and Wellbeing Through Non-Clinical Arts Programming: Multi-Stakeholder Perspectives From the Veterans Health Administration](../sources/fxa302-week06-promoting-health-and-wellbeing-through-non-clinical-arts.md)
 - [Arts Therapy and Its Implications in Chronic Pain Management: A Narrative Review](../sources/fxa302-week09-arts-therapy-and-its-implications-in-chronic-pain.md)
+- [Activities for Week 9: Perspectives of the Arts on Health and Wellbeing](../sources/fxa302-week09-lesson-fxa302-week09-page-4-activities-new.md)
 - [Addressing Issues of Mental Health in Schools through the Arts](../sources/fxa303-week02-addressing-issues-of-mental-health-in-schools-through-the.md)
 - [Week 3 Activities](../sources/fxa303-week02-lesson-fxa303-week02-topic-20-20activities-202-copy.md)
 - [Arts Therapies and the Mental Health of Children and Young People](../sources/fxa303-week06-arts-therapies-and-the-mental-health-of-children-and-young.md)

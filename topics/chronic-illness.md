@@ -5,12 +5,13 @@ slug: art-and-play-in-chronic-illness-coping
 sources:
   - fxa301-week05-web-article-reynolds-2006
   - fxa302-week08-the-rewards-of-chronic-illness
+  - fxa302-week09-lesson-fxa302-week09-welcome-to-week-9
   - fxa303-week08-hospital-clowning-as-play-stimulus-in-healthcare
 tags:
 - chronic-illness
 title: Art and Play in Chronic Illness Coping
 type: topic
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 ## Art and Play in Chronic Illness Coping
@@ -31,4 +32,5 @@ The integration of art-making and clown therapy as interventions for chronic ill
 
 - [fxa301-week05-web-article-reynolds-2006](../sources/fxa301-week05-web-article-reynolds-2006.md)
 - [fxa302-week08-the-rewards-of-chronic-illness](../sources/fxa302-week08-the-rewards-of-chronic-illness.md)
+- [fxa302-week09-lesson-fxa302-week09-welcome-to-week-9](../sources/fxa302-week09-lesson-fxa302-week09-welcome-to-week-9.md)
 - [fxa303-week08-hospital-clowning-as-play-stimulus-in-healthcare](../sources/fxa303-week08-hospital-clowning-as-play-stimulus-in-healthcare.md)

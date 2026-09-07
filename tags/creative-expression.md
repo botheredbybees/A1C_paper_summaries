@@ -42,6 +42,7 @@ updated: 2026-09-07
 - [Choose Art](../sources/fxa301-week11-choose-art.md)
 - [Colouring it beautiful: artists on the loose in a refugee camp - in pictures](../sources/fxa301-week11-colouring-it-beautiful-artists-on-the-loose-in-a-refugee.md)
 - [Refugee Art \u2013 Expressing Experience Through Creativity](../sources/fxa301-week11-refugee-art-expressing-experience-through-creativity.md)
+- [Week 9 - Pain and Mortality](../sources/fxa302-week09-lesson-fxa302-week09-welcome-to-week-9.md)
 - [Arts On Prescription Meets Sir Quentin Blake](../sources/fxa303-week03-arts-on-prescription-meets-sir-quentin-blake.md)
 - [From helplessness to a renewed sense of agency: The integration of puppets in the Art & Storytelling school-based creative expression program with immigrant and refugee children](../sources/fxa303-week06-from-helplessness-to-a-renewed-sense-of-agency-the.md)
 - [FXA303 Week 6: Puppetry in Therapeutic Contexts](../sources/fxa303-week06-fxa303-week-6-puppetry-in-therapeutic-contexts.md)

@@ -7,13 +7,15 @@ doi: null
 appearances:
   - unit: FXA301
     week: "05"
-tags: ["transcript-unavailable", "manual-transcript-retrieval", "youtube-video", "fxa301"]
+  - unit: FXA302
+    week: "09"
+tags: ["transcript-unavailable", "manual-transcript-retrieval", "youtube-video", "fxa301", "fxa302"]
 key_concepts: []
 methods: []
 slug: fxa301-week05-transcript-duration-8-16-url-only
 related: ["transcript-unavailable", "youtube-video"]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-09-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa301-week05-transcript-duration-8-16-url-only.md_

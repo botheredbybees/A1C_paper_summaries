@@ -11,7 +11,7 @@ tags: ["physical-activity", "mental-health", "cardiovascular-disease", "depressi
 key_concepts: ["biopsychosocial model", "endorphins", "passivogenic environment"]
 methods: []
 slug: psy214-week06-lesson-psy214-week06-move-variety-is-the-spice-of-life
-related: ["environmental-factors", "mental-health", "physical-activity"]
+related: ["endorphins", "environmental-factors", "mental-health", "physical-activity"]
 created: 2026-08-10
 updated: 2026-08-10
 ---
@@ -43,6 +43,7 @@ The lesson explores the benefits of physical activity on both mental and physica
 
 ## See Also
 
+- [endorphins](../topics/endorphins.md)
 - [environmental-factors](../topics/environmental-factors.md)
 - [mental-health](../topics/mental-health.md)
 - [physical-activity](../topics/physical-activity.md)

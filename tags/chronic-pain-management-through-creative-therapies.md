@@ -12,3 +12,4 @@ updated: 2026-09-07
 - [Week 8 Lecture on Applying Theatre and Literature for Health Benefits](../sources/fxa301-week08-week-8-lecture-on-applying-theatre-and-literature-for.md)
 - [Arts Therapy and Its Implications in Chronic Pain Management: A Narrative Review](../sources/fxa302-week09-arts-therapy-and-its-implications-in-chronic-pain.md)
 - [How music can help relieve chronic pain](../sources/fxa302-week09-how-music-can-help-relieve-chronic-pain.md)
+- [Activities for Week 9: Perspectives of the Arts on Health and Wellbeing](../sources/fxa302-week09-lesson-fxa302-week09-page-4-activities-new.md)

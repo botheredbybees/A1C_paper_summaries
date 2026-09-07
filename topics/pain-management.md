@@ -5,6 +5,8 @@ slug: hospital-clowning-in-pediatric-pain-management
 sources:
   - fxa300-week08-music-to-my-senses-functional-magnetic-resonance-imaging
   - fxa300-week09-the-effects-of-music-listening-on-pain-and-stress-in-the
+  - fxa302-week09-lesson-fxa302-week09-page-3
+  - fxa302-week09-lesson-fxa302-week09-welcome-to-week-9
   - fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for
   - fxa303-week08-effectiveness-of-hospital-clowning-on-pediatric-anxiety-and
   - fxa303-week08-therapeutic-clowns-in-pediatrics-a-systematic-review-and
@@ -33,6 +35,8 @@ Both sources investigate the impact of hospital clowning on pediatric patients, 
 
 - [fxa300-week08-music-to-my-senses-functional-magnetic-resonance-imaging](../sources/fxa300-week08-music-to-my-senses-functional-magnetic-resonance-imaging.md)
 - [fxa300-week09-the-effects-of-music-listening-on-pain-and-stress-in-the](../sources/fxa300-week09-the-effects-of-music-listening-on-pain-and-stress-in-the.md)
+- [fxa302-week09-lesson-fxa302-week09-page-3](../sources/fxa302-week09-lesson-fxa302-week09-page-3.md)
+- [fxa302-week09-lesson-fxa302-week09-welcome-to-week-9](../sources/fxa302-week09-lesson-fxa302-week09-welcome-to-week-9.md)
 - [fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for](../sources/fxa303-week06-the-effect-of-a-hand-puppet-based-therapeutic-play-for.md)
 - [fxa303-week08-effectiveness-of-hospital-clowning-on-pediatric-anxiety-and](../sources/fxa303-week08-effectiveness-of-hospital-clowning-on-pediatric-anxiety-and.md)
 - [fxa303-week08-therapeutic-clowns-in-pediatrics-a-systematic-review-and](../sources/fxa303-week08-therapeutic-clowns-in-pediatrics-a-systematic-review-and.md)

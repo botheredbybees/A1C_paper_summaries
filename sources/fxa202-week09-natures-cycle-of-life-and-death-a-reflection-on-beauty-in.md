@@ -11,7 +11,7 @@ tags: ["nature-and-death", "ecological-systems", "beauty-in-decay", "memento-mor
 key_concepts: ["cycle-of-life", "decomposition-beauty", "interconnectedness-nature"]
 methods: ["personal-reflection"]
 slug: fxa202-week09-natures-cycle-of-life-and-death-a-reflection-on-beauty-in
-related: []
+related: ["memento-mori"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -44,4 +44,4 @@ The text explores the author's contemplation on nature's cycles of life and deat
 
 ## See Also
 
-*(none yet)*
+- [memento-mori](../topics/memento-mori.md)

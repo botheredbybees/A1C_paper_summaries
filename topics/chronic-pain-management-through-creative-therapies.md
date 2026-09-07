@@ -11,7 +11,8 @@ sources:
   - fxa301-week08-week-8-lecture-on-applying-theatre-and-literature-for
   - fxa302-week09-arts-therapy-and-its-implications-in-chronic-pain
   - fxa302-week09-how-music-can-help-relieve-chronic-pain
-updated: 2026-08-31
+  - fxa302-week09-lesson-fxa302-week09-page-4-activities-new
+updated: 2026-09-07
 ---
 
 ## Creative Therapies in Chronic Pain Management
@@ -36,3 +37,4 @@ The exploration of creative therapies as interventions for managing chronic pain
 - [fxa301-week08-week-8-lecture-on-applying-theatre-and-literature-for](../sources/fxa301-week08-week-8-lecture-on-applying-theatre-and-literature-for.md)
 - [fxa302-week09-arts-therapy-and-its-implications-in-chronic-pain](../sources/fxa302-week09-arts-therapy-and-its-implications-in-chronic-pain.md)
 - [fxa302-week09-how-music-can-help-relieve-chronic-pain](../sources/fxa302-week09-how-music-can-help-relieve-chronic-pain.md)
+- [fxa302-week09-lesson-fxa302-week09-page-4-activities-new](../sources/fxa302-week09-lesson-fxa302-week09-page-4-activities-new.md)

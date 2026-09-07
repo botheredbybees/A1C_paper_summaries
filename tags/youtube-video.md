@@ -10,4 +10,5 @@ updated: 2026-09-07
 - [YouTube Video Transcription Request](../sources/fxa301-week08-transcript-youtube-vyjzrflr50e-url-only.md)
 - [Video Transcript Unavailable](../sources/fxa302-week01-transcript-duration-4-00-url-only.md)
 - [John Dowland 'Flow my tears'](../sources/fxa302-week08-transcript-john-dowland-flow-my-tears-url-only.md)
+- [They are All Gone into the World of Light](../sources/fxa302-week09-transcript-visit-in-new-window-they-are-all-gone-into-the.md)
 - [Transcript Could Not Be Automatically Downloaded](../sources/fxa303-week05-transcript-duration-9-39-url-only.md)

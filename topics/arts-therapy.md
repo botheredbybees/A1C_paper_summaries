@@ -20,6 +20,7 @@ sources:
   - fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the
   - fxa302-week06-promoting-health-and-wellbeing-through-non-clinical-arts
   - fxa302-week09-arts-therapy-and-its-implications-in-chronic-pain
+  - fxa302-week09-lesson-fxa302-week09-page-4-activities-new
   - fxa303-week02-addressing-issues-of-mental-health-in-schools-through-the
   - fxa303-week02-lesson-fxa303-week02-topic-20-20activities-202-copy
   - fxa303-week06-arts-therapies-and-the-mental-health-of-children-and-young
@@ -30,7 +31,7 @@ tags:
 - arts-therapy
 title: Arts Therapy
 type: topic
-updated: 2026-08-17
+updated: 2026-09-07
 ---
 
 ## Arts Therapy
@@ -66,6 +67,7 @@ The concept of arts therapy is explored across several sources, highlighting its
 - [fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the](../sources/fxa301-week10-arts-therapies-interventions-and-their-outcomes-in-the.md)
 - [fxa302-week06-promoting-health-and-wellbeing-through-non-clinical-arts](../sources/fxa302-week06-promoting-health-and-wellbeing-through-non-clinical-arts.md)
 - [fxa302-week09-arts-therapy-and-its-implications-in-chronic-pain](../sources/fxa302-week09-arts-therapy-and-its-implications-in-chronic-pain.md)
+- [fxa302-week09-lesson-fxa302-week09-page-4-activities-new](../sources/fxa302-week09-lesson-fxa302-week09-page-4-activities-new.md)
 - [fxa303-week02-addressing-issues-of-mental-health-in-schools-through-the](../sources/fxa303-week02-addressing-issues-of-mental-health-in-schools-through-the.md)
 - [fxa303-week02-lesson-fxa303-week02-topic-20-20activities-202-copy](../sources/fxa303-week02-lesson-fxa303-week02-topic-20-20activities-202-copy.md)
 - [fxa303-week06-arts-therapies-and-the-mental-health-of-children-and-young](../sources/fxa303-week06-arts-therapies-and-the-mental-health-of-children-and-young.md)

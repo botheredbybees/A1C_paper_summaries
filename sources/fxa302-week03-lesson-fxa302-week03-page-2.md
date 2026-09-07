@@ -11,13 +11,15 @@ appearances:
     week: "04"
   - unit: FXA302
     week: "08"
+  - unit: FXA302
+    week: "09"
 tags: ["medical-humanities", "health-humanities", "creative-arts-and-health", "fxa302", "holistic-medical-treatment"]
 key_concepts: ["holistic-medical-treatment", "patient-experience"]
 methods: []
 slug: fxa302-week03-lesson-fxa302-week03-page-2
 related: ["creative-arts-and-health", "health-humanities", "medical-humanities"]
 created: 2026-07-20
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 _All claims sourced from ../raw/pdf/fxa302-week03-lesson-fxa302-week03-page-2.md_

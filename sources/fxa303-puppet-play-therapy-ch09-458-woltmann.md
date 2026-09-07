@@ -11,7 +11,7 @@ tags: ["child-psychology", "displacement", "fxa303", "play-therapy", "projection
 key_concepts: ["symbolism", "projection", "displacement"]
 methods: []
 slug: fxa303-puppet-play-therapy-ch09-458-woltmann
-related: ["child-psychology", "displacement", "play-therapy-in-child-development", "puppet-assisted-play-therapy-for-children"]
+related: ["child-psychology", "displacement", "play-therapy-in-child-development", "puppet-assisted-play-therapy-for-children", "symbolism"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -43,3 +43,4 @@ This chapter discusses the use of puppet play therapy in psychotherapeutic setti
 - [displacement](../topics/displacement.md)
 - [play-therapy-in-child-development](../topics/play-therapy-in-child-development.md)
 - [puppet-assisted-play-therapy-for-children](../topics/puppet-assisted-play-therapy-for-children.md)
+- [symbolism](../topics/symbolism.md)

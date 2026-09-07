@@ -11,3 +11,4 @@ updated: 2026-09-07
 - [Class Notes: Freeing Music improvisation](../sources/fxa300-week07-class-notes-freeing-music-improvisation.md)
 - [Happy creativity: Listening to happy music facilitates divergent thinking](../sources/fxa300-week07-happy-creativity-listening-to-happy-music-facilitates.md)
 - [Leonard Bernstein discusses Beethoven\u2019s 1st Symphony](../sources/fxa300-week07-leonard-bernstein-discusses-beethovens-1st-symphony.md)
+- [They are All Gone into the World of Light](../sources/fxa302-week09-transcript-visit-in-new-window-they-are-all-gone-into-the.md)

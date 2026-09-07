@@ -179,6 +179,8 @@ updated: 2026-09-07
 - [Musical Composition and Vocal Expression](../sources/fxa302-week01-musical-composition-and-vocal-expression.md)
 - [Shared Music Listening](../sources/fxa302-week01-shared-music-listening.md)
 - [How music can help relieve chronic pain](../sources/fxa302-week09-how-music-can-help-relieve-chronic-pain.md)
+- [Musical Perspectives on Pain and Mortality](../sources/fxa302-week09-lesson-fxa302-week09-page-3.md)
+- [Activities for Week 9: Perspectives of the Arts on Health and Wellbeing](../sources/fxa302-week09-lesson-fxa302-week09-page-4-activities-new.md)
 - [Music and Mental Health Practice](../sources/fxa303-creativity-wellbeing-and-mental-health-ch04-6-music-and-mental-health-practice-tony-gillam.md)
 - [Addressing Issues of Mental Health in Schools through the Arts](../sources/fxa303-week02-addressing-issues-of-mental-health-in-schools-through-the.md)
 - ['Autism is a way of being': An \u2018insider perspective\u2019 on neurodiversity, music therapy and social justice](../sources/fxa303-week04-autism-is-a-way-of-being-an-insider-perspective-on.md)
