@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-mind-and-movement-program
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Music Mind And Movement Program

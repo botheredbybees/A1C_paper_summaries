@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: democratic-scoring-system
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Democratic Scoring System

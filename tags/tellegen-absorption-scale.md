@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: tellegen-absorption-scale
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Tellegen Absorption Scale

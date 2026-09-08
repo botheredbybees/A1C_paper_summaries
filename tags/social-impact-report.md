@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-impact-report
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Social Impact Report

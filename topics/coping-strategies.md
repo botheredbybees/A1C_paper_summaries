@@ -8,11 +8,12 @@ sources:
   - fxa303-week06-lesson-fxa303-week06-page-1-overview
   - psy214-week01-lesson-psy214-week01-stress-20as-20a-20psychological
   - psy214-week01-the-transactional-model-of-stress-and-coping
+  - psy214-week09-self-compassion-and-coping-a-meta-analysis
 tags:
 - coping-strategies
 title: Coping Strategies
 type: topic
-updated: 2026-08-07
+updated: 2026-09-08
 ---
 
 ## Coping Strategies
@@ -36,3 +37,4 @@ The concept of coping strategies is examined across various therapeutic and educ
 - [fxa303-week06-lesson-fxa303-week06-page-1-overview](../sources/fxa303-week06-lesson-fxa303-week06-page-1-overview.md)
 - [psy214-week01-lesson-psy214-week01-stress-20as-20a-20psychological](../sources/psy214-week01-lesson-psy214-week01-stress-20as-20a-20psychological.md)
 - [psy214-week01-the-transactional-model-of-stress-and-coping](../sources/psy214-week01-the-transactional-model-of-stress-and-coping.md)
+- [psy214-week09-self-compassion-and-coping-a-meta-analysis](../sources/psy214-week09-self-compassion-and-coping-a-meta-analysis.md)

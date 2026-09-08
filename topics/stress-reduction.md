@@ -15,11 +15,12 @@ sources:
   - psy214-week08-lesson-psy214-week08-mindfulness-in-psychotherapeutic
   - psy214-week08-lesson-psy214-week08-psychotherapies-which-incorporate
   - psy214-week08-mindful-attitudes-full-page-slides
+  - psy214-week09-lesson-psy214-week09-compassion-2
 tags:
 - stress-reduction
 title: Stress Reduction Through Humor
 type: topic
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Stress Reduction Through Humor
@@ -50,3 +51,4 @@ The utilization of humor and laughter as interventions for stress reduction is e
 - [psy214-week08-lesson-psy214-week08-mindfulness-in-psychotherapeutic](../sources/psy214-week08-lesson-psy214-week08-mindfulness-in-psychotherapeutic.md)
 - [psy214-week08-lesson-psy214-week08-psychotherapies-which-incorporate](../sources/psy214-week08-lesson-psy214-week08-psychotherapies-which-incorporate.md)
 - [psy214-week08-mindful-attitudes-full-page-slides](../sources/psy214-week08-mindful-attitudes-full-page-slides.md)
+- [psy214-week09-lesson-psy214-week09-compassion-2](../sources/psy214-week09-lesson-psy214-week09-compassion-2.md)

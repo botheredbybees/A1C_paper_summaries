@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: age-related-cognitive-decline
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Age Related Cognitive Decline

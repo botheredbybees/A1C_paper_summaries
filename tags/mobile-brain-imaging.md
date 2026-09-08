@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mobile-brain-imaging
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Mobile Brain Imaging

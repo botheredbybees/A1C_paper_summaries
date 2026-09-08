@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: collaborative-learning
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Collaborative Learning

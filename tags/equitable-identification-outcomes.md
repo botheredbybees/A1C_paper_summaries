@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: equitable-identification-outcomes
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Equitable Identification Outcomes

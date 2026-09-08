@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: well-being
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Well Being
@@ -33,3 +33,4 @@ updated: 2026-09-07
 - [Physical Activity and Nature Engagement](../sources/psy214-week06-lesson-psy214-week06-week-5-introduction.md)
 - [The Connectedness to Nature Scale (CNS)](../sources/psy214-week06-the-connectedness-to-nature-scale-cns.md)
 - [Mindfulness-Based Social Work and Self-Care with Social Work Professionals: Replication and Expansion of a Randomised Controlled Trial](../sources/psy214-week07-mindfulness-based-social-work-and-self-care-with-social.md)
+- [Effect of Kindness-Based Meditation on Health and Well-Being: A Systematic Review and Meta-Analysis](../sources/psy214-week09-effect-of-kindness-based-meditation-on-health-and-well.md)

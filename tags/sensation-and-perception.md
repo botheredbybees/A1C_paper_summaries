@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sensation-and-perception
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Sensation And Perception

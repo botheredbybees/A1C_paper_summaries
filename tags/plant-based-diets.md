@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: plant-based-diets
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Plant Based Diets

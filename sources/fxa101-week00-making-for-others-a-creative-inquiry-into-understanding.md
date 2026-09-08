@@ -10,7 +10,7 @@ tags: ["mens-shed", "older-adults", "maker-culture", "human-centered-computing",
 key_concepts: ["DIY culture", "altruism", "sustained motivations"]
 methods: ["creative inquiry", "qualitative analysis"]
 slug: fxa101-week00-making-for-others-a-creative-inquiry-into-understanding
-related: ["human-centered-computing", "older-adults"]
+related: ["altruism", "human-centered-computing", "older-adults"]
 created: 2026-08-08
 updated: 2026-08-08
 ---
@@ -43,5 +43,6 @@ This paper explores the motivations of older men involved in 'Men’s Sheds' for
 
 ## See Also
 
+- [altruism](../topics/altruism.md)
 - [human-centered-computing](../topics/human-centered-computing.md)
 - [older-adults](../topics/older-adults.md)

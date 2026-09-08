@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: critical-organizational-diversity-studies
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Critical Organizational Diversity Studies

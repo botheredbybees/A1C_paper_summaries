@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: information-transfer-rate
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Information Transfer Rate

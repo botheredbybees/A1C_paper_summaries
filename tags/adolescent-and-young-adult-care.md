@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: adolescent-and-young-adult-care
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Adolescent And Young Adult Care

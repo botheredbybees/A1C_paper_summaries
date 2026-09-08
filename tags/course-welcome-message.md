@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: course-welcome-message
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Course Welcome Message

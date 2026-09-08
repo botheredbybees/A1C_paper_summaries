@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: digital-accessibility
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Digital Accessibility

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: present-moment-attention
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Present Moment Attention

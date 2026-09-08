@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: disaster-mental-health
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Disaster Mental Health

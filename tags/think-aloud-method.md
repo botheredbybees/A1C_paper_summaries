@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: think-aloud-method
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Think Aloud Method

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cerebral-lobes
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Cerebral Lobes

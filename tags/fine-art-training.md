@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: fine-art-training
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Fine Art Training

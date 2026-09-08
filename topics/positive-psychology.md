@@ -19,11 +19,12 @@ sources:
   - psy214-week02-positive-psychology-the-basics
   - psy214-week05-leisure-and-well-being-the-dramma-model
   - psy214-week06-handbook-of-well-being
+  - psy214-week09-lesson-psy214-week09-week-11-wrap-up
 tags:
 - positive-psychology
 title: Positive Psychology and Resilience
 type: topic
-updated: 2026-08-10
+updated: 2026-09-08
 ---
 
 ## Positive Psychology and Resilience
@@ -58,3 +59,4 @@ Positive psychology focuses on fostering resilience and well-being through the d
 - [psy214-week02-positive-psychology-the-basics](../sources/psy214-week02-positive-psychology-the-basics.md)
 - [psy214-week05-leisure-and-well-being-the-dramma-model](../sources/psy214-week05-leisure-and-well-being-the-dramma-model.md)
 - [psy214-week06-handbook-of-well-being](../sources/psy214-week06-handbook-of-well-being.md)
+- [psy214-week09-lesson-psy214-week09-week-11-wrap-up](../sources/psy214-week09-lesson-psy214-week09-week-11-wrap-up.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: end-of-life-interactions
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## End Of Life Interactions

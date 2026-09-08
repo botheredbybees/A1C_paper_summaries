@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: personal-growth
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Personal Growth
@@ -14,3 +14,4 @@ updated: 2026-09-07
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness: Early Humanistic Approaches](../sources/psy214-week02-lesson-psy214-week02-multi-dimensional-models-of-well.md)
 - [The Wellbeing Workout: How to Manage Stress and Develop Resilience](../sources/psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop.md)
 - [Leisure and well-being: the DRAMMA model](../sources/psy214-week05-leisure-and-well-being-the-dramma-model.md)
+- [Critical Thinking About Mindfulness](../sources/psy214-week09-critical-thinking-about-mindfulness-%283%29.md)

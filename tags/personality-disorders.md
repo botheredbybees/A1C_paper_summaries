@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: personality-disorders
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Personality Disorders

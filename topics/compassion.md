@@ -7,7 +7,10 @@ tags: ["compassion"]
 sources:
   - fxa302-week03-creating-alignment-how-the-humanities-can-help-heal
   - psy214-week00-the-effects-of-loving-kindness-interventions-on-positive
-updated: 2026-07-20
+  - psy214-week09-lesson-psy214-week09-compassion
+  - psy214-week09-lesson-psy214-week09-measuring-compassion-and-self
+  - psy214-week09-lesson-psy214-week09-week-11-introduction
+updated: 2026-09-08
 ---
 
 ## Compassion in Healthcare
@@ -27,3 +30,6 @@ The integration of compassion into healthcare practices highlights its potential
 
 - [fxa302-week03-creating-alignment-how-the-humanities-can-help-heal](../sources/fxa302-week03-creating-alignment-how-the-humanities-can-help-heal.md)
 - [psy214-week00-the-effects-of-loving-kindness-interventions-on-positive](../sources/psy214-week00-the-effects-of-loving-kindness-interventions-on-positive.md)
+- [psy214-week09-lesson-psy214-week09-compassion](../sources/psy214-week09-lesson-psy214-week09-compassion.md)
+- [psy214-week09-lesson-psy214-week09-measuring-compassion-and-self](../sources/psy214-week09-lesson-psy214-week09-measuring-compassion-and-self.md)
+- [psy214-week09-lesson-psy214-week09-week-11-introduction](../sources/psy214-week09-lesson-psy214-week09-week-11-introduction.md)

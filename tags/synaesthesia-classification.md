@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: synaesthesia-classification
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Synaesthesia Classification

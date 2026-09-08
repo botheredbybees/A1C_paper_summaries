@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: artificial-intelligence-articulatory-loop
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Artificial Intelligence Articulatory Loop

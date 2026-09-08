@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: universal-music-responses
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Universal Music Responses

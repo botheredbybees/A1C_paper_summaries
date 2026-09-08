@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mindfulness-based-cognitive-therapy-mbct
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Mindfulness Based Cognitive Therapy Mbct

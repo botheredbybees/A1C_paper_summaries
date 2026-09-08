@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-well-being
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Mental Well Being

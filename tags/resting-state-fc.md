@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: resting-state-fc
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Resting State Fc

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: overcoming-obstacles
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Overcoming Obstacles

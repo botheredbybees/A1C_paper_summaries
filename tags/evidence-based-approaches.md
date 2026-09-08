@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: evidence-based-approaches
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Evidence Based Approaches

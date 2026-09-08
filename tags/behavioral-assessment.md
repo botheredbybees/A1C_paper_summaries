@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: behavioral-assessment
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Behavioral Assessment

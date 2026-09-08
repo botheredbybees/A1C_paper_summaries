@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: adolescent-behavior
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Adolescent Behavior

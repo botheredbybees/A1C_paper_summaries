@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: chronic-disease-burden
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Chronic Disease Burden

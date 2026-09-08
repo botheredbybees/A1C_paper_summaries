@@ -24,11 +24,13 @@ sources:
   - fxa303-week13-the-delivery-of-person-centered-care-for-people-living-with
   - psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the
   - psy214-week00-the-impact-of-signature-character-strengths-interventions-a
+  - psy214-week09-effect-of-kindness-based-meditation-on-health-and-well
+  - psy214-week09-self-compassion-and-coping-a-meta-analysis
 tags:
 - meta-analysis
 title: Effectiveness of Therapeutic Interventions in Specific Populations
 type: topic
-updated: 2026-08-31
+updated: 2026-09-08
 ---
 
 ## Effectiveness of Therapeutic Interventions in Specific Populations
@@ -68,3 +70,5 @@ The meta-analyses explore the effectiveness of dance and music interventions for
 - [fxa303-week13-the-delivery-of-person-centered-care-for-people-living-with](../sources/fxa303-week13-the-delivery-of-person-centered-care-for-people-living-with.md)
 - [psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the](../sources/psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the.md)
 - [psy214-week00-the-impact-of-signature-character-strengths-interventions-a](../sources/psy214-week00-the-impact-of-signature-character-strengths-interventions-a.md)
+- [psy214-week09-effect-of-kindness-based-meditation-on-health-and-well](../sources/psy214-week09-effect-of-kindness-based-meditation-on-health-and-well.md)
+- [psy214-week09-self-compassion-and-coping-a-meta-analysis](../sources/psy214-week09-self-compassion-and-coping-a-meta-analysis.md)

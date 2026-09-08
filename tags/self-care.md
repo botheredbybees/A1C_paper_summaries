@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: self-care
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Self Care
@@ -15,3 +15,4 @@ updated: 2026-09-07
 - [Defining Mindfulness, Revisited](../sources/psy214-week08-lesson-psy214-week08-psychotherapies-which-incorporate.md)
 - [Mindful Attitudes Full Page Slides](../sources/psy214-week08-mindful-attitudes-full-page-slides.md)
 - [Mindfulness Meditation: What It Is and Isn\u2019t](../sources/psy214-week08-mindfulness-meditation-what-it-is-and-isnt.md)
+- [PSY114 PSY214 Stress, Self-Care and Mindfulness: Week 9 Assessment Overview](../sources/psy214-week09-lesson-psy214-week09-week-11-wrap-up.md)

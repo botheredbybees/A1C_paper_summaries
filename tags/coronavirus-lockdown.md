@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: coronavirus-lockdown
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Coronavirus Lockdown

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: scarcity-salience
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Scarcity Salience

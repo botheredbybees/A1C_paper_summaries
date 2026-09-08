@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotional-reactions-to-music
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Emotional Reactions To Music

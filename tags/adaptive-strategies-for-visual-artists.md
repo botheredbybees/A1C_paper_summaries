@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: adaptive-strategies-for-visual-artists
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Adaptive Strategies For Visual Artists

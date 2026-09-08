@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: human-genetics-research
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Human Genetics Research

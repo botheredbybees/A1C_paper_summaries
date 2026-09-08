@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: gender-studies-in-music
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Gender Studies In Music

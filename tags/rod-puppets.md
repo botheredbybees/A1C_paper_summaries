@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: rod-puppets
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Rod Puppets

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: documentation-tool-education
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Documentation Tool Education

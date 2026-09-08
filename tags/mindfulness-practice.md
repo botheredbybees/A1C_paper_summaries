@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mindfulness-practice
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Mindfulness Practice
@@ -31,3 +31,4 @@ updated: 2026-09-07
 - [Mechanisms of Mindfulness](../sources/psy214-week08-mechanisms-of-mindfulness.md)
 - [Mindful Attitudes Slides Notes](../sources/psy214-week08-mindful-attitudes-slides-notes.md)
 - [Sitting Meditation Script](../sources/psy214-week08-sitting-meditation-script.md)
+- [Critical thinking about mindfulness](../sources/psy214-week09-critical-thinking-about-mindfulness.md)

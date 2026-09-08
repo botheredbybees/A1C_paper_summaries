@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: shared-reading-sessions
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Shared Reading Sessions

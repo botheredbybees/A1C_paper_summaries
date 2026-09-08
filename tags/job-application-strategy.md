@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: job-application-strategy
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Job Application Strategy

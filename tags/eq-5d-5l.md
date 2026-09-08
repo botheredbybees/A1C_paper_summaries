@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: eq-5d-5l
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Eq 5D 5L

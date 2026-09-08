@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurological-benefits
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Neurological Benefits

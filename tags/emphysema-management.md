@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emphysema-management
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Emphysema Management

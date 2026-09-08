@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: stress-management
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Stress Management
@@ -54,3 +54,6 @@ updated: 2026-09-07
 - [Stress, Self-Care and Mindfulness and Stress, Self-Care and Mindfulness](../sources/psy214-week08-lesson-psy214-week08-week-10-introduction.md)
 - [Mindful Attitudes](../sources/psy214-week08-mindful-attitudes.md)
 - [Mindfulness Meditation: What It Is and Isn\u2019t](../sources/psy214-week08-mindfulness-meditation-what-it-is-and-isnt.md)
+- [Practising Compassion and Self-Compassion](../sources/psy214-week09-lesson-psy214-week09-mindfulness-and-technology.md)
+- [Compassion and Self-Compassion in Mindfulness](../sources/psy214-week09-lesson-psy214-week09-week-11-introduction.md)
+- [Self-Compassion and Coping: a Meta-Analysis](../sources/psy214-week09-self-compassion-and-coping-a-meta-analysis.md)

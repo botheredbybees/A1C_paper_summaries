@@ -9,7 +9,13 @@ sources:
   - fxa300-week07-its-never-too-late-to-be-a-late-bloomer
   - psy214-week00-self-compassion-theory-method-research-and-intervention
   - psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on
-updated: 2026-08-17
+  - psy214-week09-lesson-psy214-week09-compassion-2
+  - psy214-week09-lesson-psy214-week09-measuring-compassion-and-self
+  - psy214-week09-lesson-psy214-week09-mindfulness-and-technology
+  - psy214-week09-lesson-psy214-week09-week-11-introduction
+  - psy214-week09-models-of-compassion-and-self-compassion
+  - psy214-week09-self-compassion-and-coping-a-meta-analysis
+updated: 2026-09-08
 ---
 
 ## Self-Compassion
@@ -32,3 +38,9 @@ The concept of self-compassion emerges as a pivotal intervention in enhancing em
 - [fxa300-week07-its-never-too-late-to-be-a-late-bloomer](../sources/fxa300-week07-its-never-too-late-to-be-a-late-bloomer.md)
 - [psy214-week00-self-compassion-theory-method-research-and-intervention](../sources/psy214-week00-self-compassion-theory-method-research-and-intervention.md)
 - [psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on](../sources/psy214-week07-impact-of-a-mindfulness-and-self-care-intervention-on.md)
+- [psy214-week09-lesson-psy214-week09-compassion-2](../sources/psy214-week09-lesson-psy214-week09-compassion-2.md)
+- [psy214-week09-lesson-psy214-week09-measuring-compassion-and-self](../sources/psy214-week09-lesson-psy214-week09-measuring-compassion-and-self.md)
+- [psy214-week09-lesson-psy214-week09-mindfulness-and-technology](../sources/psy214-week09-lesson-psy214-week09-mindfulness-and-technology.md)
+- [psy214-week09-lesson-psy214-week09-week-11-introduction](../sources/psy214-week09-lesson-psy214-week09-week-11-introduction.md)
+- [psy214-week09-models-of-compassion-and-self-compassion](../sources/psy214-week09-models-of-compassion-and-self-compassion.md)
+- [psy214-week09-self-compassion-and-coping-a-meta-analysis](../sources/psy214-week09-self-compassion-and-coping-a-meta-analysis.md)

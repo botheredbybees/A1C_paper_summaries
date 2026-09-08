@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dementia-treatment-strategies
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Dementia Treatment Strategies

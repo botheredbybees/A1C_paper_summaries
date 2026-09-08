@@ -51,11 +51,14 @@ sources:
   - psy214-week08-lesson-psy214-week08-week-10-introduction
   - psy214-week08-mindful-attitudes
   - psy214-week08-mindfulness-meditation-what-it-is-and-isnt
+  - psy214-week09-lesson-psy214-week09-mindfulness-and-technology
+  - psy214-week09-lesson-psy214-week09-week-11-introduction
+  - psy214-week09-self-compassion-and-coping-a-meta-analysis
 tags:
 - stress-management
 title: Stress Management Interventions
 type: topic
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Stress Management Interventions
@@ -122,3 +125,6 @@ The exploration of stress management interventions across multiple sources highl
 - [psy214-week08-lesson-psy214-week08-week-10-introduction](../sources/psy214-week08-lesson-psy214-week08-week-10-introduction.md)
 - [psy214-week08-mindful-attitudes](../sources/psy214-week08-mindful-attitudes.md)
 - [psy214-week08-mindfulness-meditation-what-it-is-and-isnt](../sources/psy214-week08-mindfulness-meditation-what-it-is-and-isnt.md)
+- [psy214-week09-lesson-psy214-week09-mindfulness-and-technology](../sources/psy214-week09-lesson-psy214-week09-mindfulness-and-technology.md)
+- [psy214-week09-lesson-psy214-week09-week-11-introduction](../sources/psy214-week09-lesson-psy214-week09-week-11-introduction.md)
+- [psy214-week09-self-compassion-and-coping-a-meta-analysis](../sources/psy214-week09-self-compassion-and-coping-a-meta-analysis.md)

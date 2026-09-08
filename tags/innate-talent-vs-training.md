@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: innate-talent-vs-training
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Innate Talent Vs Training

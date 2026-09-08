@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: gulf-war-illness
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Gulf War Illness

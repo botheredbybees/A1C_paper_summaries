@@ -86,11 +86,13 @@ sources:
   - psy214-week08-lesson-psy214-week08-mindfulness-challenges-2
   - psy214-week08-mechanisms-of-mindfulness-(2)
   - psy214-week08-mindfulness-meditation-what-it-isnt-and-how-to-do-it
+  - psy214-week09-critical-thinking-about-mindfulness
+  - psy214-week09-effect-of-kindness-based-meditation-on-health-and-well
 tags:
 - mental-health
 title: Creative Therapies for Mental Health
 type: topic
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Creative Therapies for Mental Health
@@ -194,3 +196,5 @@ The sources illustrate a variety of creative therapies that have been developed 
 - [psy214-week08-lesson-psy214-week08-mindfulness-challenges-2](../sources/psy214-week08-lesson-psy214-week08-mindfulness-challenges-2.md)
 - [psy214-week08-mechanisms-of-mindfulness-(2)](../sources/psy214-week08-mechanisms-of-mindfulness-%282%29.md)
 - [psy214-week08-mindfulness-meditation-what-it-isnt-and-how-to-do-it](../sources/psy214-week08-mindfulness-meditation-what-it-isnt-and-how-to-do-it.md)
+- [psy214-week09-critical-thinking-about-mindfulness](../sources/psy214-week09-critical-thinking-about-mindfulness.md)
+- [psy214-week09-effect-of-kindness-based-meditation-on-health-and-well](../sources/psy214-week09-effect-of-kindness-based-meditation-on-health-and-well.md)

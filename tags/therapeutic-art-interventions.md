@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-art-interventions
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Therapeutic Art Interventions

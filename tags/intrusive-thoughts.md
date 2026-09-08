@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: intrusive-thoughts
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Intrusive Thoughts

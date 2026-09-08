@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: unique-research-methods
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Unique Research Methods

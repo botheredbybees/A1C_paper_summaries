@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: probe-tone-paradigm
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Probe Tone Paradigm

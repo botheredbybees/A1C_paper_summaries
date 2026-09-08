@@ -5,11 +5,12 @@ slug: emotional-well-being-through-creative-interventions
 sources:
   - fxa100-week03-music-therapy-increases-social-and-emotional-well-being-in
   - fxa100-week11-the-emotional-response-to-social-dancing-and-walks-in
+  - psy214-week09-models-of-compassion-and-self-compassion
 tags:
 - emotional-well-being
 title: Emotional Well-Being Through Creative Interventions
 type: topic
-updated: 2026-05-11
+updated: 2026-09-08
 ---
 
 ## Emotional Well-Being Through Creative Interventions
@@ -30,3 +31,4 @@ The sources explore various creative interventions aimed at enhancing emotional 
 
 - [fxa100-week03-music-therapy-increases-social-and-emotional-well-being-in](../sources/fxa100-week03-music-therapy-increases-social-and-emotional-well-being-in.md)
 - [fxa100-week11-the-emotional-response-to-social-dancing-and-walks-in](../sources/fxa100-week11-the-emotional-response-to-social-dancing-and-walks-in.md)
+- [psy214-week09-models-of-compassion-and-self-compassion](../sources/psy214-week09-models-of-compassion-and-self-compassion.md)

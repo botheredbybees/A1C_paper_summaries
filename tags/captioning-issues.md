@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: captioning-issues
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Captioning Issues

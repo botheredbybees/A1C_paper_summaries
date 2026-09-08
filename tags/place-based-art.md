@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: place-based-art
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Place Based Art

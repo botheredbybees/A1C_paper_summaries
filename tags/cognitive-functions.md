@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-functions
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Cognitive Functions

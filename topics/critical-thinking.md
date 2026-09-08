@@ -11,11 +11,14 @@ sources:
   - fxa302-week03-visual-thinking-strategy
   - fxa302-week03-why-med-schools-are-requiring-art-classes
   - psy214-week04-lesson-psy214-week04-revisiting-eat-food
+  - psy214-week09-critical-thinking-about-mindfulness
+  - psy214-week09-critical-thinking-about-mindfulness-(2)
+  - psy214-week09-critical-thinking-about-mindfulness-(3)
 tags:
 - critical-thinking
 title: Critical Thinking
 type: topic
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Critical Thinking
@@ -42,3 +45,6 @@ The provided source emphasizes the importance of journaling and visual research 
 - [fxa302-week03-visual-thinking-strategy](../sources/fxa302-week03-visual-thinking-strategy.md)
 - [fxa302-week03-why-med-schools-are-requiring-art-classes](../sources/fxa302-week03-why-med-schools-are-requiring-art-classes.md)
 - [psy214-week04-lesson-psy214-week04-revisiting-eat-food](../sources/psy214-week04-lesson-psy214-week04-revisiting-eat-food.md)
+- [psy214-week09-critical-thinking-about-mindfulness](../sources/psy214-week09-critical-thinking-about-mindfulness.md)
+- [psy214-week09-critical-thinking-about-mindfulness-(2)](../sources/psy214-week09-critical-thinking-about-mindfulness-%282%29.md)
+- [psy214-week09-critical-thinking-about-mindfulness-(3)](../sources/psy214-week09-critical-thinking-about-mindfulness-%283%29.md)

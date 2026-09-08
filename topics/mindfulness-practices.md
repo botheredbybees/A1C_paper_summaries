@@ -15,11 +15,12 @@ sources:
   - psy214-week04-lesson-psy214-week04-week-4-wrap-up-2
   - psy214-week05-lesson-psy214-week05-formal-relaxation
   - psy214-week07-mindfulness-as-a-self-care-strategy-for-healthcare
+  - psy214-week09-lesson-psy214-week09-compassion-2
 tags:
 - mindfulness-practices
 title: Mindfulness Practices
 type: topic
-updated: 2026-08-07
+updated: 2026-09-08
 ---
 
 ## Mindfulness Practices
@@ -50,3 +51,4 @@ The sources highlight the therapeutic benefits of incorporating mindfulness prac
 - [psy214-week04-lesson-psy214-week04-week-4-wrap-up-2](../sources/psy214-week04-lesson-psy214-week04-week-4-wrap-up-2.md)
 - [psy214-week05-lesson-psy214-week05-formal-relaxation](../sources/psy214-week05-lesson-psy214-week05-formal-relaxation.md)
 - [psy214-week07-mindfulness-as-a-self-care-strategy-for-healthcare](../sources/psy214-week07-mindfulness-as-a-self-care-strategy-for-healthcare.md)
+- [psy214-week09-lesson-psy214-week09-compassion-2](../sources/psy214-week09-lesson-psy214-week09-compassion-2.md)

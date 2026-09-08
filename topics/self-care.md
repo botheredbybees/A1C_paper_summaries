@@ -13,11 +13,12 @@ sources:
   - psy214-week08-lesson-psy214-week08-psychotherapies-which-incorporate
   - psy214-week08-mindful-attitudes-full-page-slides
   - psy214-week08-mindfulness-meditation-what-it-is-and-isnt
+  - psy214-week09-lesson-psy214-week09-week-11-wrap-up
 tags:
 - self-care
 title: Self-Care for Caregivers
 type: topic
-updated: 2026-08-31
+updated: 2026-09-08
 ---
 
 ## Self-Care for Caregivers
@@ -46,3 +47,4 @@ The provided sources highlight the critical importance of self-care for individu
 - [psy214-week08-lesson-psy214-week08-psychotherapies-which-incorporate](../sources/psy214-week08-lesson-psy214-week08-psychotherapies-which-incorporate.md)
 - [psy214-week08-mindful-attitudes-full-page-slides](../sources/psy214-week08-mindful-attitudes-full-page-slides.md)
 - [psy214-week08-mindfulness-meditation-what-it-is-and-isnt](../sources/psy214-week08-mindfulness-meditation-what-it-is-and-isnt.md)
+- [psy214-week09-lesson-psy214-week09-week-11-wrap-up](../sources/psy214-week09-lesson-psy214-week09-week-11-wrap-up.md)

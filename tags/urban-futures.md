@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: urban-futures
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Urban Futures

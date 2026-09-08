@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: positive-person-work
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Positive Person Work

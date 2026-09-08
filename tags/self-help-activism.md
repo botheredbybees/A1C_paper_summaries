@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: self-help-activism
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Self Help Activism

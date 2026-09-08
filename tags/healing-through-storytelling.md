@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: healing-through-storytelling
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Healing Through Storytelling

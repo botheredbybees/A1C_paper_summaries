@@ -10,11 +10,13 @@ sources:
   - fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective
   - psy214-week02-know-thyself-and-become-what-you-are-a-eudaimonic-approach
   - psy214-week02-lesson-psy214-week02-week-3-introduction
+  - psy214-week09-lesson-psy214-week09-compassion-2
+  - psy214-week09-self-compassion-and-coping-a-meta-analysis
 tags:
 - psychological-well-being
 title: Psychological Well-Being through Creative and Expressive Activities
 type: topic
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Psychological Well-Being through Creative and Expressive Activities
@@ -40,3 +42,5 @@ The integration of creative activities such as music, expressive writing, and th
 - [fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective](../sources/fxa303-week08-fear-of-clowns-in-hospitalized-children-prospective.md)
 - [psy214-week02-know-thyself-and-become-what-you-are-a-eudaimonic-approach](../sources/psy214-week02-know-thyself-and-become-what-you-are-a-eudaimonic-approach.md)
 - [psy214-week02-lesson-psy214-week02-week-3-introduction](../sources/psy214-week02-lesson-psy214-week02-week-3-introduction.md)
+- [psy214-week09-lesson-psy214-week09-compassion-2](../sources/psy214-week09-lesson-psy214-week09-compassion-2.md)
+- [psy214-week09-self-compassion-and-coping-a-meta-analysis](../sources/psy214-week09-self-compassion-and-coping-a-meta-analysis.md)

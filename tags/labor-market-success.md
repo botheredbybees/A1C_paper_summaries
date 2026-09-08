@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: labor-market-success
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Labor Market Success

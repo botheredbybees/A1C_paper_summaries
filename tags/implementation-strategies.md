@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: implementation-strategies
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Implementation Strategies

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ptsd-intervention
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Ptsd Intervention

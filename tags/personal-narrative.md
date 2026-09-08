@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: personal-narrative
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Personal Narrative

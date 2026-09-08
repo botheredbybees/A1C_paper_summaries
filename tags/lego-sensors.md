@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: lego-sensors
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Lego Sensors

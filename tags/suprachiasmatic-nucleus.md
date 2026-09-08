@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: suprachiasmatic-nucleus
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Suprachiasmatic Nucleus

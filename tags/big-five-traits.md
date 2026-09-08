@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: big-five-traits
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Big Five Traits

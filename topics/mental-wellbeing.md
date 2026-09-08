@@ -57,11 +57,12 @@ sources:
   - fxa303-week13-the-effect-of-humor-on-elder-mental-and-physical-health
   - psy214-week04-a-6-month-randomised-controlled-trial-investigating-effects
   - psy214-week08-how-mindfulness-works-the-big-picture
+  - psy214-week09-lesson-psy214-week09-mindfulness-and-technology
 tags:
 - mental-wellbeing
 title: Photography as a Tool for Mental Wellbeing
 type: topic
-updated: 2026-08-31
+updated: 2026-09-08
 ---
 
 ## Photography as a Tool for Mental Wellbeing
@@ -134,3 +135,4 @@ Both sources explore photography's role in enhancing mental health through mindf
 - [fxa303-week13-the-effect-of-humor-on-elder-mental-and-physical-health](../sources/fxa303-week13-the-effect-of-humor-on-elder-mental-and-physical-health.md)
 - [psy214-week04-a-6-month-randomised-controlled-trial-investigating-effects](../sources/psy214-week04-a-6-month-randomised-controlled-trial-investigating-effects.md)
 - [psy214-week08-how-mindfulness-works-the-big-picture](../sources/psy214-week08-how-mindfulness-works-the-big-picture.md)
+- [psy214-week09-lesson-psy214-week09-mindfulness-and-technology](../sources/psy214-week09-lesson-psy214-week09-mindfulness-and-technology.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: stress-reduction
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Stress Reduction
@@ -18,3 +18,4 @@ updated: 2026-09-07
 - [Mindfulness in Psychotherapy](../sources/psy214-week08-lesson-psy214-week08-mindfulness-in-psychotherapeutic.md)
 - [Defining Mindfulness, Revisited](../sources/psy214-week08-lesson-psy214-week08-psychotherapies-which-incorporate.md)
 - [Mindful Attitudes Full Page Slides](../sources/psy214-week08-mindful-attitudes-full-page-slides.md)
+- [PSY114 PSY214 Stress, Self-Care and Mindfulness - Compassion and Self-Compassion](../sources/psy214-week09-lesson-psy214-week09-compassion-2.md)

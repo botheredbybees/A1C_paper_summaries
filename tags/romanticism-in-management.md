@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: romanticism-in-management
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Romanticism In Management

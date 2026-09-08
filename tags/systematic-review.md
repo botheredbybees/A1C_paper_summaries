@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: systematic-review
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Systematic Review
@@ -58,3 +58,4 @@ updated: 2026-09-07
 - [Creative Arts Interventions for Stress Management and Prevention\u2014A Systematic Review](../sources/psy214-week00-creative-arts-interventions-for-stress-management-and.md)
 - [Happy to help? A systematic review and meta-analysis of the effects of performing acts of kindness on the well-being of the actor](../sources/psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the.md)
 - [Mindfulness and acceptance-based trainings for fostering self-care and reducing stress in mental health professionals: A systematic review](../sources/psy214-week07-mindfulness-and-acceptance-based-trainings-for-fostering.md)
+- [Effect of Kindness-Based Meditation on Health and Well-Being: A Systematic Review and Meta-Analysis](../sources/psy214-week09-effect-of-kindness-based-meditation-on-health-and-well.md)

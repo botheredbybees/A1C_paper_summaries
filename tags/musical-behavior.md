@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: musical-behavior
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Musical Behavior

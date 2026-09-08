@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: medial-prefrontal-cortex
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Medial Prefrontal Cortex

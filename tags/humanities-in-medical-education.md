@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: humanities-in-medical-education
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Humanities In Medical Education

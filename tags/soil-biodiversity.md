@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: soil-biodiversity
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Soil Biodiversity

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: architectural-design-studio
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Architectural Design Studio

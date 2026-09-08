@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cardiovascular-risk-management
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Cardiovascular Risk Management

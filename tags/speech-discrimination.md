@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: speech-discrimination
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Speech Discrimination

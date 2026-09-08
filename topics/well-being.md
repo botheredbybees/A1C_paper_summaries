@@ -30,11 +30,12 @@ sources:
   - psy214-week06-lesson-psy214-week06-week-5-introduction
   - psy214-week06-the-connectedness-to-nature-scale-cns
   - psy214-week07-mindfulness-based-social-work-and-self-care-with-social
+  - psy214-week09-effect-of-kindness-based-meditation-on-health-and-well
 tags:
 - well-being
 title: Well-Being Through Creative Arts
 type: topic
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Well-Being Through Creative Arts
@@ -80,3 +81,4 @@ The integration of creative arts as an intervention to improve well-being is a r
 - [psy214-week06-lesson-psy214-week06-week-5-introduction](../sources/psy214-week06-lesson-psy214-week06-week-5-introduction.md)
 - [psy214-week06-the-connectedness-to-nature-scale-cns](../sources/psy214-week06-the-connectedness-to-nature-scale-cns.md)
 - [psy214-week07-mindfulness-based-social-work-and-self-care-with-social](../sources/psy214-week07-mindfulness-based-social-work-and-self-care-with-social.md)
+- [psy214-week09-effect-of-kindness-based-meditation-on-health-and-well](../sources/psy214-week09-effect-of-kindness-based-meditation-on-health-and-well.md)

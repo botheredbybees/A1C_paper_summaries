@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: wellbeing-through-singing
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Wellbeing Through Singing

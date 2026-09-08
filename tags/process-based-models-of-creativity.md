@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: process-based-models-of-creativity
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Process Based Models Of Creativity

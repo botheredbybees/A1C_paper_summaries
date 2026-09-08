@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: nature-field-guides
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Nature Field Guides

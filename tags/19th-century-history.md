@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: 19th-century-history
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## 19Th Century History

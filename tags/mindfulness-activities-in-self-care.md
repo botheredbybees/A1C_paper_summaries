@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mindfulness-activities-in-self-care
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Mindfulness Activities In Self Care

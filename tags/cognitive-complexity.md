@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-complexity
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Cognitive Complexity

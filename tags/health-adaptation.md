@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: health-adaptation
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Health Adaptation

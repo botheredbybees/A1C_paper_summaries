@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-factors-in-health
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Social Factors In Health

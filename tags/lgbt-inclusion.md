@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: lgbt-inclusion
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Lgbt Inclusion

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: positive-psychology
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Positive Psychology
@@ -22,3 +22,4 @@ updated: 2026-09-07
 - [Positive Psychology: The Basics](../sources/psy214-week02-positive-psychology-the-basics.md)
 - [Leisure and well-being: the DRAMMA model](../sources/psy214-week05-leisure-and-well-being-the-dramma-model.md)
 - [Handbook of Well-Being](../sources/psy214-week06-handbook-of-well-being.md)
+- [PSY114 PSY214 Stress, Self-Care and Mindfulness: Week 9 Assessment Overview](../sources/psy214-week09-lesson-psy214-week09-week-11-wrap-up.md)

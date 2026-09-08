@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurology-of-sound
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Neurology Of Sound

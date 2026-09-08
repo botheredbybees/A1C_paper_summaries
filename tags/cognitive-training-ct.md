@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-training-ct
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Cognitive Training Ct

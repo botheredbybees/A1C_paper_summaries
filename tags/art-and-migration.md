@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: art-and-migration
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Art And Migration

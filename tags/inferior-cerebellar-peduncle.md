@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: inferior-cerebellar-peduncle
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Inferior Cerebellar Peduncle

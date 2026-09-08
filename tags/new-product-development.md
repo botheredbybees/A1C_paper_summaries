@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: new-product-development
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## New Product Development

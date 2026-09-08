@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: veder-method
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Veder Method

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: clinical-trials-herbal-medicines
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Clinical Trials Herbal Medicines

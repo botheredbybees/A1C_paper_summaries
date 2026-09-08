@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-and-behavior-in-adolescence
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Brain And Behavior In Adolescence

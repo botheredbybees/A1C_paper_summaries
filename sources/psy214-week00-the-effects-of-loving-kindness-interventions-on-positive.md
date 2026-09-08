@@ -7,13 +7,15 @@ doi: https://doi.org/10.1016/j.cpr.2024.102433
 appearances:
   - unit: PSY214
     week: "00"
+  - unit: PSY214
+    week: "09"
 tags: ["loving-kindness-interventions", "mental-health-outcomes", "systematic-review-meta-analysis", "psy214", "negative-affect", "compassion"]
 key_concepts: ["positive-affect", "negative-affect", "compassion"]
 methods: ["systematic review", "meta-analysis"]
 slug: psy214-week00-the-effects-of-loving-kindness-interventions-on-positive
 related: ["compassion", "mental-health-outcomes", "negative-affect", "systematic-review-meta-analysis"]
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-09-08
 ---
 
 _All claims sourced from ../raw/pdf/psy214-week00-the-effects-of-loving-kindness-interventions-on-positive.md_

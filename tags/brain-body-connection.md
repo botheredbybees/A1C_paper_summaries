@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-body-connection
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Brain Body Connection

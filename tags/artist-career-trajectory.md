@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: artist-career-trajectory
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Artist Career Trajectory

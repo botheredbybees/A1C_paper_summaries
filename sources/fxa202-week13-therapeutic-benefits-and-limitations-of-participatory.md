@@ -11,7 +11,7 @@ tags: ["empowerment", "ethical-issues", "fxa202", "mental-health", "participator
 key_concepts: ["empowerment", "self-reflection", "ethical-issues"]
 methods: ["systematic review"]
 slug: fxa202-week13-therapeutic-benefits-and-limitations-of-participatory
-related: ["empowerment", "mental-health", "systematic-review", "therapeutic-benefits"]
+related: ["empowerment", "ethical-issues", "mental-health", "systematic-review", "therapeutic-benefits"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -41,6 +41,7 @@ This review explores the therapeutic benefits and limitations of participatory p
 ## See Also
 
 - [empowerment](../topics/empowerment.md)
+- [ethical-issues](../topics/ethical-issues.md)
 - [mental-health](../topics/mental-health.md)
 - [systematic-review](../topics/systematic-review.md)
 - [therapeutic-benefits](../topics/therapeutic-benefits.md)

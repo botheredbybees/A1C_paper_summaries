@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: auditory-processing-musician
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Auditory Processing Musician

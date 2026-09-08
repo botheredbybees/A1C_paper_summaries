@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: inflammation-modulation
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Inflammation Modulation

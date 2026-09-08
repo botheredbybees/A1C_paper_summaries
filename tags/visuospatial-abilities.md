@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visuospatial-abilities
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Visuospatial Abilities

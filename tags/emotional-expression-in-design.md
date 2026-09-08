@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotional-expression-in-design
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Emotional Expression In Design

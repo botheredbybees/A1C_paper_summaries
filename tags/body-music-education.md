@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: body-music-education
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Body Music Education

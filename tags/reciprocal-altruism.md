@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: reciprocal-altruism
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Reciprocal Altruism

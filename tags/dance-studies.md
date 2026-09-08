@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dance-studies
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Dance Studies

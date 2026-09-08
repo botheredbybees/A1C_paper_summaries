@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: lead-poisoning-history
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Lead Poisoning History

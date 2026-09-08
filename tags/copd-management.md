@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: copd-management
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Copd Management

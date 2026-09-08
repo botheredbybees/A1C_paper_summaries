@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-based-methods
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Arts Based Methods

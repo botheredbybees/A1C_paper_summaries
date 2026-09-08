@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: democratic-nature-of-photography
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Democratic Nature Of Photography

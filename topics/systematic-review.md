@@ -55,11 +55,12 @@ sources:
   - psy214-week00-creative-arts-interventions-for-stress-management-and
   - psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the
   - psy214-week07-mindfulness-and-acceptance-based-trainings-for-fostering
+  - psy214-week09-effect-of-kindness-based-meditation-on-health-and-well
 tags:
 - systematic-review
 title: Systematic Reviews of Arts-Based Interventions
 type: topic
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Systematic Reviews of Arts-Based Interventions
@@ -130,3 +131,4 @@ The systematic reviews examined here cover a range of arts-based interventions a
 - [psy214-week00-creative-arts-interventions-for-stress-management-and](../sources/psy214-week00-creative-arts-interventions-for-stress-management-and.md)
 - [psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the](../sources/psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the.md)
 - [psy214-week07-mindfulness-and-acceptance-based-trainings-for-fostering](../sources/psy214-week07-mindfulness-and-acceptance-based-trainings-for-fostering.md)
+- [psy214-week09-effect-of-kindness-based-meditation-on-health-and-well](../sources/psy214-week09-effect-of-kindness-based-meditation-on-health-and-well.md)

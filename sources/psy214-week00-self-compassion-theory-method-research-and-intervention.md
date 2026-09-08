@@ -7,13 +7,15 @@ doi: https://doi.org/10.1146/annurev-psych-032420-031047
 appearances:
   - unit: PSY214
     week: "00"
+  - unit: PSY214
+    week: "09"
 tags: ["self-compassion-theory", "mental-well-being", "research-methods-in-psychology", "empirical-evidence", "interventions", "psy214", "self-compassion", "common-humanity"]
 key_concepts: ["self-compassion", "mindfulness", "common humanity"]
 methods: ["systematic review"]
 slug: psy214-week00-self-compassion-theory-method-research-and-intervention
-related: ["empirical-evidence", "interventions", "mental-well-being", "self-compassion"]
+related: ["common-humanity", "empirical-evidence", "interventions", "mental-well-being", "self-compassion"]
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-09-08
 ---
 
 _All claims sourced from ../raw/pdf/psy214-week00-self-compassion-theory-method-research-and-intervention.md_
@@ -43,6 +45,7 @@ This article by Kristin D. Neff delves into the concept of self-compassion, whic
 
 ## See Also
 
+- [common-humanity](../topics/common-humanity.md)
 - [empirical-evidence](../topics/empirical-evidence.md)
 - [interventions](../topics/interventions.md)
 - [mental-well-being](../topics/mental-well-being.md)

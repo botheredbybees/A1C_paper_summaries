@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: pharmacological-treatments
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Pharmacological Treatments

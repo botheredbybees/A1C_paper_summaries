@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mind-brain-interaction
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Mind Brain Interaction

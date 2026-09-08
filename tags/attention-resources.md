@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: attention-resources
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Attention Resources

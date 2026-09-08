@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: range-of-conditions
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Range Of Conditions

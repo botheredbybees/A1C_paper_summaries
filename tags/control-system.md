@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: control-system
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Control System

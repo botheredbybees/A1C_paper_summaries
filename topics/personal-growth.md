@@ -11,11 +11,12 @@ sources:
   - psy214-week02-lesson-psy214-week02-multi-dimensional-models-of-well
   - psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop
   - psy214-week05-leisure-and-well-being-the-dramma-model
+  - psy214-week09-critical-thinking-about-mindfulness-(3)
 tags:
 - personal-growth
 title: Therapeutic Creative Arts for Mental Health
 type: topic
-updated: 2026-08-03
+updated: 2026-09-08
 ---
 
 ## Therapeutic Creative Arts for Mental Health
@@ -42,3 +43,4 @@ The case studies of therapeutic creative arts interventions underscore their rol
 - [psy214-week02-lesson-psy214-week02-multi-dimensional-models-of-well](../sources/psy214-week02-lesson-psy214-week02-multi-dimensional-models-of-well.md)
 - [psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop](../sources/psy214-week02-the-wellbeing-workout-how-to-manage-stress-and-develop.md)
 - [psy214-week05-leisure-and-well-being-the-dramma-model](../sources/psy214-week05-leisure-and-well-being-the-dramma-model.md)
+- [psy214-week09-critical-thinking-about-mindfulness-(3)](../sources/psy214-week09-critical-thinking-about-mindfulness-%283%29.md)

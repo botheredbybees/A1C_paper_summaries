@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: depression-risk-factors
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Depression Risk Factors

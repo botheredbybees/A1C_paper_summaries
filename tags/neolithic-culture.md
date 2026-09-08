@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neolithic-culture
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Neolithic Culture

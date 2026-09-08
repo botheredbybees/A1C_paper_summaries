@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: critical-thinking
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Critical Thinking
@@ -13,3 +13,6 @@ updated: 2026-09-07
 - [Visual Thinking Strategy](../sources/fxa302-week03-visual-thinking-strategy.md)
 - [Why Med Schools Are Requiring Art Classes](../sources/fxa302-week03-why-med-schools-are-requiring-art-classes.md)
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness: Think critically, eat joyfully](../sources/psy214-week04-lesson-psy214-week04-revisiting-eat-food.md)
+- [Critical thinking about mindfulness](../sources/psy214-week09-critical-thinking-about-mindfulness.md)
+- [Critical Thinking About Mindfulness](../sources/psy214-week09-critical-thinking-about-mindfulness-%282%29.md)
+- [Critical Thinking About Mindfulness](../sources/psy214-week09-critical-thinking-about-mindfulness-%283%29.md)

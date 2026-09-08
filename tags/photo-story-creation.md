@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: photo-story-creation
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Photo Story Creation

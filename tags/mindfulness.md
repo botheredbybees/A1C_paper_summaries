@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mindfulness
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Mindfulness
@@ -20,3 +20,9 @@ updated: 2026-09-07
 - [How Mindfulness Works](../sources/psy214-week08-lesson-psy214-week08-mindfulness-challenges-2.md)
 - [Mindfulness in Psychotherapy](../sources/psy214-week08-lesson-psy214-week08-mindfulness-in-psychotherapeutic.md)
 - [Defining Mindfulness, Revisited](../sources/psy214-week08-lesson-psy214-week08-psychotherapies-which-incorporate.md)
+- [Critical Thinking About Mindfulness](../sources/psy214-week09-critical-thinking-about-mindfulness-%282%29.md)
+- [Compassion: context and concepts](../sources/psy214-week09-lesson-psy214-week09-compassion.md)
+- [Practising Compassion and Self-Compassion](../sources/psy214-week09-lesson-psy214-week09-mindfulness-and-technology.md)
+- [Compassion and Self-Compassion in Mindfulness](../sources/psy214-week09-lesson-psy214-week09-week-11-introduction.md)
+- [PSY114 PSY214 Stress, Self-Care and Mindfulness: Week 9 Assessment Overview](../sources/psy214-week09-lesson-psy214-week09-week-11-wrap-up.md)
+- [Models of compassion and self-compassion](../sources/psy214-week09-models-of-compassion-and-self-compassion.md)

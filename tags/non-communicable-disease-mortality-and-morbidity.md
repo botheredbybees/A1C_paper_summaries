@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: non-communicable-disease-mortality-and-morbidity
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Non Communicable Disease Mortality And Morbidity

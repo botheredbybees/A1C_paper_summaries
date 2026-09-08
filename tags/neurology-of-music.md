@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurology-of-music
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Neurology Of Music

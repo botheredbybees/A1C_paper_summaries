@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: gem-engraving
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Gem Engraving

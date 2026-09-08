@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: atkins-and-murphy-model
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Atkins And Murphy Model

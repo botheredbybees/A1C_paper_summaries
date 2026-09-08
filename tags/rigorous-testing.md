@@ -1,0 +1,9 @@
+---
+type: tag
+tag: rigorous-testing
+updated: 2026-09-08
+---
+
+## Rigorous Testing
+
+- [Critical Thinking About Mindfulness](../sources/psy214-week09-critical-thinking-about-mindfulness-%283%29.md)

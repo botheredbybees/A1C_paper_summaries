@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-health-benefits-of-nature
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Mental Health Benefits Of Nature

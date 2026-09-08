@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: doctrine-of-the-affections
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Doctrine Of The Affections

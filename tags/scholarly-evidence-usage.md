@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: scholarly-evidence-usage
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Scholarly Evidence Usage

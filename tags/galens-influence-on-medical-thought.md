@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: galens-influence-on-medical-thought
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Galens Influence On Medical Thought

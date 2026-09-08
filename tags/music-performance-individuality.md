@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-performance-individuality
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Music Performance Individuality

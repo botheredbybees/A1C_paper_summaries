@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sensorimotor-entrainment
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Sensorimotor Entrainment

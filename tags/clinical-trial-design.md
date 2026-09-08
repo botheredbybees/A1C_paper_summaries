@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: clinical-trial-design
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Clinical Trial Design

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hydrogen-peroxide-generation
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Hydrogen Peroxide Generation

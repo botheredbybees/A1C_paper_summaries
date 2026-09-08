@@ -8,11 +8,12 @@ sources:
   - fxa300-week01-absorption-in-music-development-of-a-scale-to-identify
   - fxa300-week04-music-emotion-and-autobiographical-memory-theyre-playing
   - fxa301-week02-misery-loves-company-mood-congruent-emotional-responding-to
+  - psy214-week09-lesson-psy214-week09-week-11-introduction
 tags:
 - emotional-responses
 title: Mood-Congruent Emotional Responding
 type: topic
-updated: 2026-08-07
+updated: 2026-09-08
 ---
 
 ## Mood-Congruent Emotional Responding
@@ -36,3 +37,4 @@ The exploration of mood-congruent emotional responding reveals how individuals t
 - [fxa300-week01-absorption-in-music-development-of-a-scale-to-identify](../sources/fxa300-week01-absorption-in-music-development-of-a-scale-to-identify.md)
 - [fxa300-week04-music-emotion-and-autobiographical-memory-theyre-playing](../sources/fxa300-week04-music-emotion-and-autobiographical-memory-theyre-playing.md)
 - [fxa301-week02-misery-loves-company-mood-congruent-emotional-responding-to](../sources/fxa301-week02-misery-loves-company-mood-congruent-emotional-responding-to.md)
+- [psy214-week09-lesson-psy214-week09-week-11-introduction](../sources/psy214-week09-lesson-psy214-week09-week-11-introduction.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-wellbeing
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Mental Wellbeing
@@ -60,3 +60,4 @@ updated: 2026-09-07
 - [The effect of humor on elder mental and physical health](../sources/fxa303-week13-the-effect-of-humor-on-elder-mental-and-physical-health.md)
 - [A 6-month randomised controlled trial investigating effects of Mediterranean-style diet and fish oil supplementation on dietary behaviour change, mental and cardiometabolic health and health-related quality of life in adults with depression](../sources/psy214-week04-a-6-month-randomised-controlled-trial-investigating-effects.md)
 - [How mindfulness works: The big picture](../sources/psy214-week08-how-mindfulness-works-the-big-picture.md)
+- [Practising Compassion and Self-Compassion](../sources/psy214-week09-lesson-psy214-week09-mindfulness-and-technology.md)

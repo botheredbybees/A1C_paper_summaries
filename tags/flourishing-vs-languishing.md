@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: flourishing-vs-languishing
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Flourishing Vs Languishing

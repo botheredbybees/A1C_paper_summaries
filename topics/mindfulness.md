@@ -17,11 +17,17 @@ sources:
   - psy214-week08-lesson-psy214-week08-mindfulness-challenges-2
   - psy214-week08-lesson-psy214-week08-mindfulness-in-psychotherapeutic
   - psy214-week08-lesson-psy214-week08-psychotherapies-which-incorporate
+  - psy214-week09-critical-thinking-about-mindfulness-(2)
+  - psy214-week09-lesson-psy214-week09-compassion
+  - psy214-week09-lesson-psy214-week09-mindfulness-and-technology
+  - psy214-week09-lesson-psy214-week09-week-11-introduction
+  - psy214-week09-lesson-psy214-week09-week-11-wrap-up
+  - psy214-week09-models-of-compassion-and-self-compassion
 tags:
 - mindfulness
 title: Mindfulness and Therapeutic Photography
 type: topic
-updated: 2026-08-31
+updated: 2026-09-08
 ---
 
 ## Mindfulness and Therapeutic Photography
@@ -54,3 +60,9 @@ The integration of mindfulness with therapeutic photography emerges as a signifi
 - [psy214-week08-lesson-psy214-week08-mindfulness-challenges-2](../sources/psy214-week08-lesson-psy214-week08-mindfulness-challenges-2.md)
 - [psy214-week08-lesson-psy214-week08-mindfulness-in-psychotherapeutic](../sources/psy214-week08-lesson-psy214-week08-mindfulness-in-psychotherapeutic.md)
 - [psy214-week08-lesson-psy214-week08-psychotherapies-which-incorporate](../sources/psy214-week08-lesson-psy214-week08-psychotherapies-which-incorporate.md)
+- [psy214-week09-critical-thinking-about-mindfulness-(2)](../sources/psy214-week09-critical-thinking-about-mindfulness-%282%29.md)
+- [psy214-week09-lesson-psy214-week09-compassion](../sources/psy214-week09-lesson-psy214-week09-compassion.md)
+- [psy214-week09-lesson-psy214-week09-mindfulness-and-technology](../sources/psy214-week09-lesson-psy214-week09-mindfulness-and-technology.md)
+- [psy214-week09-lesson-psy214-week09-week-11-introduction](../sources/psy214-week09-lesson-psy214-week09-week-11-introduction.md)
+- [psy214-week09-lesson-psy214-week09-week-11-wrap-up](../sources/psy214-week09-lesson-psy214-week09-week-11-wrap-up.md)
+- [psy214-week09-models-of-compassion-and-self-compassion](../sources/psy214-week09-models-of-compassion-and-self-compassion.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: reflexion-docente
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Reflexion Docente

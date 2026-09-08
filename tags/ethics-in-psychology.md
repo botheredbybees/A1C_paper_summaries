@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ethics-in-psychology
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Ethics In Psychology

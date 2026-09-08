@@ -60,11 +60,12 @@ sources:
   - psy214-week08-body-scan-meditation-script
   - psy214-week08-mindful-attitudes-full-page-slides
   - psy214-week08-mindfulness-research-limitations-(2)
+  - psy214-week09-critical-thinking-about-mindfulness
 tags:
 - creative-arts
 title: Music Interventions and Cognitive Health
 type: topic
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Music Interventions and Cognitive Health
@@ -139,3 +140,4 @@ The integration of findings from both sources highlights the multifaceted benefi
 - [psy214-week08-body-scan-meditation-script](../sources/psy214-week08-body-scan-meditation-script.md)
 - [psy214-week08-mindful-attitudes-full-page-slides](../sources/psy214-week08-mindful-attitudes-full-page-slides.md)
 - [psy214-week08-mindfulness-research-limitations-(2)](../sources/psy214-week08-mindfulness-research-limitations-%282%29.md)
+- [psy214-week09-critical-thinking-about-mindfulness](../sources/psy214-week09-critical-thinking-about-mindfulness.md)

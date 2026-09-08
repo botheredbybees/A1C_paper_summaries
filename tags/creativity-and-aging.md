@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creativity-and-aging
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Creativity And Aging

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: associative-theories-of-creativity
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Associative Theories Of Creativity

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: islamic-medical-knowledge
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Islamic Medical Knowledge

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: media-campaign-effectiveness
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Media Campaign Effectiveness

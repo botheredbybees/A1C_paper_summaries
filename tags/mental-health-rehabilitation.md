@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-health-rehabilitation
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Mental Health Rehabilitation

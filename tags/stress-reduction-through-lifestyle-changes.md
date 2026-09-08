@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: stress-reduction-through-lifestyle-changes
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Stress Reduction Through Lifestyle Changes

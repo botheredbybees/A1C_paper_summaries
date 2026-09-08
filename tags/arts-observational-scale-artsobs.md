@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-observational-scale-artsobs
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Arts Observational Scale Artsobs

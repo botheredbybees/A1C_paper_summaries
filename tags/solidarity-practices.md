@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: solidarity-practices
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Solidarity Practices

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-arts
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Creative Arts
@@ -63,3 +63,4 @@ updated: 2026-09-07
 - [Body Scan Meditation Script](../sources/psy214-week08-body-scan-meditation-script.md)
 - [Mindful Attitudes Full Page Slides](../sources/psy214-week08-mindful-attitudes-full-page-slides.md)
 - [Mindfulness research: Limitations](../sources/psy214-week08-mindfulness-research-limitations-%282%29.md)
+- [Critical thinking about mindfulness](../sources/psy214-week09-critical-thinking-about-mindfulness.md)

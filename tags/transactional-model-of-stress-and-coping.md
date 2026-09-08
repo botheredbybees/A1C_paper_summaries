@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: transactional-model-of-stress-and-coping
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Transactional Model Of Stress And Coping

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: research-merit-and-integrity
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Research Merit And Integrity

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: causal-inference-methods
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Causal Inference Methods

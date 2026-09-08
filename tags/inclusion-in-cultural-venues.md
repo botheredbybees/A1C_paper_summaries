@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: inclusion-in-cultural-venues
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Inclusion In Cultural Venues

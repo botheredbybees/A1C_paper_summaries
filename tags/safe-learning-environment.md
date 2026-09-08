@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: safe-learning-environment
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Safe Learning Environment

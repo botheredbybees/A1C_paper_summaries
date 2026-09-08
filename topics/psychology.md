@@ -12,7 +12,9 @@ sources:
   - psy214-week03-lesson-psy214-week03-journal-assessment-workshop
   - psy214-week03-lesson-psy214-week03-making-sense-of-evidence
   - psy214-week05-transcript-to-sleep-perchance-to-dream
-updated: 2026-08-17
+  - psy214-week09-lesson-psy214-week09-measuring-compassion-and-self
+  - psy214-week09-lesson-psy214-week09-week-11-wrap-up
+updated: 2026-09-08
 ---
 
 ## Psychosocial Development Across the Lifespan
@@ -38,3 +40,5 @@ Erikson's stages of psychosocial development provide a theoretical framework for
 - [psy214-week03-lesson-psy214-week03-journal-assessment-workshop](../sources/psy214-week03-lesson-psy214-week03-journal-assessment-workshop.md)
 - [psy214-week03-lesson-psy214-week03-making-sense-of-evidence](../sources/psy214-week03-lesson-psy214-week03-making-sense-of-evidence.md)
 - [psy214-week05-transcript-to-sleep-perchance-to-dream](../sources/psy214-week05-transcript-to-sleep-perchance-to-dream.md)
+- [psy214-week09-lesson-psy214-week09-measuring-compassion-and-self](../sources/psy214-week09-lesson-psy214-week09-measuring-compassion-and-self.md)
+- [psy214-week09-lesson-psy214-week09-week-11-wrap-up](../sources/psy214-week09-lesson-psy214-week09-week-11-wrap-up.md)

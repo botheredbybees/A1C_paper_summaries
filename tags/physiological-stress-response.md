@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: physiological-stress-response
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 ## Physiological Stress Response
