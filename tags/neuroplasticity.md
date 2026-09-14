@@ -24,6 +24,8 @@ updated: 2026-09-15
 - [Cognitive Reserve and Brain Changes in Ageing](../sources/fxa101-week04-cognitive-reserve-and-brain-changes-in-ageing.md)
 - [Enrichment Effects on Adult Cognitive Development: Can the Functional Capacity of Older Adults Be Preserved and Enhanced?](../sources/fxa101-week04-enrichment-effects-on-adult-cognitive-development-can-the.md)
 - [FXA101 Creativity and Ageing Week 4 Introduction](../sources/fxa101-week04-lesson-fxa101-week04-page-1-introduction-to-week-4.md)
+- [Sem 2 2026 \u2013 Week 4 Lecture](../sources/fxa101-week10-sem-2-2026-week-4-lecture.md)
+- [Week 3 Lecture - FXA101 Creativity for Life](../sources/fxa101-week10-week-3-lecture-fxa101-creativity-for-life.md)
 - [Broca\u2019s Area Supports Enhanced Visuospatial Cognition in Orchestral Musicians](../sources/fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in.md)
 - [Sensory Stimulation and Music Therapy Programs for Treating Disorders of Consciousness](../sources/fxa300-week08-sensory-stimulation-and-music-therapy-programs-for-treating.md)
 - [Activation of Primary Visual Cortex by Braille Reading in Blind Subjects](../sources/fxa301-week11-activation-of-primary-visual-cortex-by-braille-reading-in.md)

@@ -5,6 +5,8 @@ slug: creative-thinking-across-generations
 sources:
   - fxa101-week04-case-study-engaging-older-people-in-creative-thinkingthe
   - fxa101-week06-lesson-fxa101-week06-page-2-week-6-activities
+  - fxa101-week10-fxa101-web-lecture-1-week-1
+  - fxa101-week10-web-lecture-week-9-colour-default-mode-network-focus-and
   - fxa300-week07-a-meta-analysis-of-the-effects-of-transcranial-direct
   - fxa300-week07-imagination-and-creativity-in-science-an-embodied
   - fxa300-week07-web-article-bonk-2003
@@ -14,7 +16,7 @@ tags:
 - creative-thinking
 title: Creative Thinking Across Generations
 type: topic
-updated: 2026-08-17
+updated: 2026-09-15
 ---
 
 ## Creative Thinking Across Generations
@@ -35,6 +37,8 @@ The sources discussed the role of creative thinking interventions across differe
 
 - [fxa101-week04-case-study-engaging-older-people-in-creative-thinkingthe](../sources/fxa101-week04-case-study-engaging-older-people-in-creative-thinkingthe.md)
 - [fxa101-week06-lesson-fxa101-week06-page-2-week-6-activities](../sources/fxa101-week06-lesson-fxa101-week06-page-2-week-6-activities.md)
+- [fxa101-week10-fxa101-web-lecture-1-week-1](../sources/fxa101-week10-fxa101-web-lecture-1-week-1.md)
+- [fxa101-week10-web-lecture-week-9-colour-default-mode-network-focus-and](../sources/fxa101-week10-web-lecture-week-9-colour-default-mode-network-focus-and.md)
 - [fxa300-week07-a-meta-analysis-of-the-effects-of-transcranial-direct](../sources/fxa300-week07-a-meta-analysis-of-the-effects-of-transcranial-direct.md)
 - [fxa300-week07-imagination-and-creativity-in-science-an-embodied](../sources/fxa300-week07-imagination-and-creativity-in-science-an-embodied.md)
 - [fxa300-week07-web-article-bonk-2003](../sources/fxa300-week07-web-article-bonk-2003.md)

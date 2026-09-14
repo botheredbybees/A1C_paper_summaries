@@ -11,7 +11,7 @@ tags: ["creative-process", "color-theory", "texture-applications", "fxa101", "cr
 key_concepts: ["creative-blocks", "contextual-statements"]
 methods: ["narrative-guidance"]
 slug: fxa101-week07-week-7-welcome
-related: ["color-theory", "creative-process"]
+related: ["color-theory", "creative-blocks", "creative-process"]
 created: 2026-08-17
 updated: 2026-08-17
 ---
@@ -42,4 +42,5 @@ The document is a welcome message for Week 7 of a creativity unit, guiding stude
 ## See Also
 
 - [color-theory](../topics/color-theory.md)
+- [creative-blocks](../topics/creative-blocks.md)
 - [creative-process](../topics/creative-process.md)

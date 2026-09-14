@@ -14,6 +14,8 @@ updated: 2026-09-15
 - [Brain Development and Cognitive Reserve](../sources/fxa101-week03-lesson-fxa101-week03-page-2-creativity-and-brain.md)
 - [Synergistic Effects of Age on Patterns of White and Gray Matter Volume across Childhood and Adolescence](../sources/fxa101-week03-synergistic-effects-of-age-on-patterns-of-white-and-gray.md)
 - [Week 3 Lecture: Brain Development and Cognitive Reserve](../sources/fxa101-week03-week-3-lecture-brain-development-and-cognitive-reserve.md)
+- [FXA101 Sem 2 2026 \u2013 Practical Session Finale Week 10](../sources/fxa101-week10-fxa101-sem-2-2026-practical-session-finale-week-10.md)
+- [Week 3 Lecture - FXA101 Creativity for Life](../sources/fxa101-week10-week-3-lecture-fxa101-creativity-for-life.md)
 - [How music affects your baby\u2019s brain: Mini Parenting Master Class](../sources/fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master.md)
 - [Music and Mind: Harnessing the Arts for Health and Wellness](../sources/fxa300-week02-music-and-mind-harnessing-the-arts-for-health-and-wellness.md)
 - [Music and the Brain](../sources/fxa300-week02-music-and-the-brain.md)

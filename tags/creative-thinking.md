@@ -8,6 +8,8 @@ updated: 2026-09-15
 
 - [Case study: engaging older people in creative thinking\u2014the Active Energy project](../sources/fxa101-week04-case-study-engaging-older-people-in-creative-thinkingthe.md)
 - [FXA101 Creativity and Ageing - Week 6 Activities](../sources/fxa101-week06-lesson-fxa101-week06-page-2-week-6-activities.md)
+- [FXA101 Web Lecture 1 Week 1](../sources/fxa101-week10-fxa101-web-lecture-1-week-1.md)
+- [Web Lecture Week 9: Colour, Default Mode Network, Focus and Attention](../sources/fxa101-week10-web-lecture-week-9-colour-default-mode-network-focus-and.md)
 - [A Meta-Analysis of the Effects of Transcranial Direct Current Stimulation on Creative Thinking](../sources/fxa300-week07-a-meta-analysis-of-the-effects-of-transcranial-direct.md)
 - [Imagination and Creativity in Science: an \u2018Embodied\u2019 Perspective](../sources/fxa300-week07-imagination-and-creativity-in-science-an-embodied.md)
 - [Guilford\u2019s Alternative Uses Task (1967)](../sources/fxa300-week07-web-article-bonk-2003.md)

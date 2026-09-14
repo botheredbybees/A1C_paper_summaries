@@ -5,6 +5,7 @@ slug: stress-management-interventions
 sources:
   - fxa100-week03-the-short-term-impact-of-music-interventions-on-stress
   - fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression
+  - fxa101-week10-week-3-lecture-fxa101-creativity-for-life
   - fxa202-week09-5-benefits-of-journaling-for-mental-health
   - fxa300-week06-in-home-online-music-based-intervention-for-stress-coping
   - fxa300-week09-listening-to-music-and-physiological-and-psychological
@@ -81,6 +82,7 @@ The exploration of stress management interventions across multiple sources highl
 
 - [fxa100-week03-the-short-term-impact-of-music-interventions-on-stress](../sources/fxa100-week03-the-short-term-impact-of-music-interventions-on-stress.md)
 - [fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression](../sources/fxa100-week13-dance-therapy-as-an-intervention-for-stress-and-depression.md)
+- [fxa101-week10-week-3-lecture-fxa101-creativity-for-life](../sources/fxa101-week10-week-3-lecture-fxa101-creativity-for-life.md)
 - [fxa202-week09-5-benefits-of-journaling-for-mental-health](../sources/fxa202-week09-5-benefits-of-journaling-for-mental-health.md)
 - [fxa300-week06-in-home-online-music-based-intervention-for-stress-coping](../sources/fxa300-week06-in-home-online-music-based-intervention-for-stress-coping.md)
 - [fxa300-week09-listening-to-music-and-physiological-and-psychological](../sources/fxa300-week09-listening-to-music-and-physiological-and-psychological.md)

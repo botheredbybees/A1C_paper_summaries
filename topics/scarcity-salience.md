@@ -7,7 +7,8 @@ tags: ["scarcity-salience"]
 sources:
   - fxa101-week05-lesson-fxa101-week05-introduction-to-week-5
   - fxa101-week06-week-6-web-lecture-constraints-and-creativity
-updated: 2026-08-10
+  - fxa101-week10-fxa101-sem-2-2026-web-lecture-week-6
+updated: 2026-09-15
 ---
 
 ## Scarcity Salience Model
@@ -28,3 +29,4 @@ The Scarcity Salience model is a critical framework within the study of creativi
 
 - [fxa101-week05-lesson-fxa101-week05-introduction-to-week-5](../sources/fxa101-week05-lesson-fxa101-week05-introduction-to-week-5.md)
 - [fxa101-week06-week-6-web-lecture-constraints-and-creativity](../sources/fxa101-week06-week-6-web-lecture-constraints-and-creativity.md)
+- [fxa101-week10-fxa101-sem-2-2026-web-lecture-week-6](../sources/fxa101-week10-fxa101-sem-2-2026-web-lecture-week-6.md)

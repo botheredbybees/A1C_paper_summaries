@@ -11,7 +11,7 @@ tags: ["brain-stimulation", "cognitive-activities", "dementia-prevention", "deme
 key_concepts: ["cognitive-reserve", "dementia-risk-reduction", "leisure-activity-engagement"]
 methods: ["longitudinal-study", "cohort-analysis"]
 slug: fxa100-week11-leisure-activities-and-the-risk-of-dementia-in-the-elderly
-related: ["brain-stimulation", "dementia-prevention", "elderly-health"]
+related: ["brain-stimulation", "cognitive-activities", "dementia-prevention", "elderly-health"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -43,5 +43,6 @@ The study investigates the relationship between participation in leisure activit
 ## See Also
 
 - [brain-stimulation](../topics/brain-stimulation.md)
+- [cognitive-activities](../topics/cognitive-activities.md)
 - [dementia-prevention](../topics/dementia-prevention.md)
 - [elderly-health](../topics/elderly-health.md)

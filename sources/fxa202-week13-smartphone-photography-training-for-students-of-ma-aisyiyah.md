@@ -11,7 +11,7 @@ tags: ["camera-angles", "education-training", "fxa202", "indonesia", "lighting",
 key_concepts: ["lighting", "composition", "camera-angles", "photo-editing"]
 methods: ["training-program"]
 slug: fxa202-week13-smartphone-photography-training-for-students-of-ma-aisyiyah
-related: ["camera-angles", "smartphone-photography", "visual-storytelling"]
+related: ["camera-angles", "lighting", "smartphone-photography", "visual-storytelling"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -42,5 +42,6 @@ This paper reports on a smartphone photography training program conducted for st
 ## See Also
 
 - [camera-angles](../topics/camera-angles.md)
+- [lighting](../topics/lighting.md)
 - [smartphone-photography](../topics/smartphone-photography.md)
 - [visual-storytelling](../topics/visual-storytelling.md)

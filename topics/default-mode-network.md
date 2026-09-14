@@ -12,11 +12,12 @@ sources:
   - fxa101-week09-lesson-fxa101-week09-page-2-dmn-quiet-creativity-and
   - fxa101-week09-the-brains-default-network-anatomy-function-and-relevance
   - fxa101-week09-the-effect-of-apoe4-on-the-functional-gradient-of-the-brain
+  - fxa101-week10-web-lecture-week-9-colour-default-mode-network-focus-and
 tags:
 - default-mode-network
 title: The Default Mode Network in Art Experience
 type: topic
-updated: 2026-09-07
+updated: 2026-09-15
 ---
 
 ## The Default Mode Network in Art Experience
@@ -44,3 +45,4 @@ Research on the impact of art experiences on brain activity emphasizes the role 
 - [fxa101-week09-lesson-fxa101-week09-page-2-dmn-quiet-creativity-and](../sources/fxa101-week09-lesson-fxa101-week09-page-2-dmn-quiet-creativity-and.md)
 - [fxa101-week09-the-brains-default-network-anatomy-function-and-relevance](../sources/fxa101-week09-the-brains-default-network-anatomy-function-and-relevance.md)
 - [fxa101-week09-the-effect-of-apoe4-on-the-functional-gradient-of-the-brain](../sources/fxa101-week09-the-effect-of-apoe4-on-the-functional-gradient-of-the-brain.md)
+- [fxa101-week10-web-lecture-week-9-colour-default-mode-network-focus-and](../sources/fxa101-week10-web-lecture-week-9-colour-default-mode-network-focus-and.md)

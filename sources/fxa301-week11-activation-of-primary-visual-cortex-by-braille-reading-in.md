@@ -11,7 +11,7 @@ tags: ["blindness", "brain-mapping", "cortical-plasticity", "cross-modal-represe
 key_concepts: ["sensory-deprivation", "cortical-plasticity", "functional-reorganization"]
 methods: ["positron-emission-tomography", "case-control-study"]
 slug: fxa301-week11-activation-of-primary-visual-cortex-by-braille-reading-in
-related: ["brain-mapping", "neuroplasticity", "tactile-perception"]
+related: ["brain-mapping", "neuroplasticity", "tactile-perception", "visual-cortex"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -46,3 +46,4 @@ This study investigates the neural activity in the visual cortex of blind indivi
 - [brain-mapping](../topics/brain-mapping.md)
 - [neuroplasticity](../topics/neuroplasticity.md)
 - [tactile-perception](../topics/tactile-perception.md)
+- [visual-cortex](../topics/visual-cortex.md)

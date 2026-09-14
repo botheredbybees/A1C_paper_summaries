@@ -11,7 +11,7 @@ tags: ["creativity-and-constraints", "innovation-strategies", "cross-disciplinar
 key_concepts: ["constraints-on-creativity", "mediating-mechanisms", "inverted-u-shaped-relationship"]
 methods: ["integrative-review"]
 slug: fxa101-week05-creativity-and-innovation-under-constraints-a-cross
-related: ["constraints-on-creativity", "cross-disciplinary-research", "innovation-strategies", "inverted-u-shaped-relationship"]
+related: ["constraints-on-creativity", "creativity-and-constraints", "cross-disciplinary-research", "innovation-strategies", "inverted-u-shaped-relationship"]
 created: 2026-08-03
 updated: 2026-08-03
 ---
@@ -45,6 +45,7 @@ This review article examines the impact of constraints on creativity and innovat
 ## See Also
 
 - [constraints-on-creativity](../topics/constraints-on-creativity.md)
+- [creativity-and-constraints](../topics/creativity-and-constraints.md)
 - [cross-disciplinary-research](../topics/cross-disciplinary-research.md)
 - [innovation-strategies](../topics/innovation-strategies.md)
 - [inverted-u-shaped-relationship](../topics/inverted-u-shaped-relationship.md)

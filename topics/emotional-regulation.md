@@ -4,6 +4,7 @@ domain: intervention
 slug: emotional-regulation
 sources:
   - fxa100-week13-dance-movement-therapy-improves-emotional-responses-and
+  - fxa101-week10-fxa101-practical-session-1-week-5
   - fxa300-week01-the-pleasures-of-sad-music-a-systematic-review
   - fxa300-week05-global-music-streaming-data-reveal-diurnal-and-seasonal
   - fxa300-week05-self-selected-favourite-stimulative-and-sedative-music
@@ -48,6 +49,7 @@ The synthesis integrates various aspects of emotional regulation across diverse 
 ## Sources
 
 - [fxa100-week13-dance-movement-therapy-improves-emotional-responses-and](../sources/fxa100-week13-dance-movement-therapy-improves-emotional-responses-and.md)
+- [fxa101-week10-fxa101-practical-session-1-week-5](../sources/fxa101-week10-fxa101-practical-session-1-week-5.md)
 - [fxa300-week01-the-pleasures-of-sad-music-a-systematic-review](../sources/fxa300-week01-the-pleasures-of-sad-music-a-systematic-review.md)
 - [fxa300-week05-global-music-streaming-data-reveal-diurnal-and-seasonal](../sources/fxa300-week05-global-music-streaming-data-reveal-diurnal-and-seasonal.md)
 - [fxa300-week05-self-selected-favourite-stimulative-and-sedative-music](../sources/fxa300-week05-self-selected-favourite-stimulative-and-sedative-music.md)

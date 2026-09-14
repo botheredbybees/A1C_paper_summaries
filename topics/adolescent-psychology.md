@@ -8,8 +8,9 @@ sources:
   - fxa101-week03-brain-development-during-childhood-and-adolescence-a
   - fxa101-week03-calendar-age-and-puberty-related-development-of-regional
   - fxa101-week03-synergistic-effects-of-age-on-patterns-of-white-and-gray
+  - fxa101-week10-week-3-lecture-fxa101-creativity-for-life
   - fxa303-week03-the-teen-brain
-updated: 2026-07-20
+updated: 2026-09-15
 ---
 
 ## Adolescent Brain Development
@@ -31,4 +32,5 @@ The adolescent brain undergoes significant structural changes characterized by c
 - [fxa101-week03-brain-development-during-childhood-and-adolescence-a](../sources/fxa101-week03-brain-development-during-childhood-and-adolescence-a.md)
 - [fxa101-week03-calendar-age-and-puberty-related-development-of-regional](../sources/fxa101-week03-calendar-age-and-puberty-related-development-of-regional.md)
 - [fxa101-week03-synergistic-effects-of-age-on-patterns-of-white-and-gray](../sources/fxa101-week03-synergistic-effects-of-age-on-patterns-of-white-and-gray.md)
+- [fxa101-week10-week-3-lecture-fxa101-creativity-for-life](../sources/fxa101-week10-week-3-lecture-fxa101-creativity-for-life.md)
 - [fxa303-week03-the-teen-brain](../sources/fxa303-week03-the-teen-brain.md)

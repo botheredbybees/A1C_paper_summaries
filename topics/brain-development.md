@@ -11,6 +11,8 @@ sources:
   - fxa101-week03-lesson-fxa101-week03-page-2-creativity-and-brain
   - fxa101-week03-synergistic-effects-of-age-on-patterns-of-white-and-gray
   - fxa101-week03-week-3-lecture-brain-development-and-cognitive-reserve
+  - fxa101-week10-fxa101-sem-2-2026-practical-session-finale-week-10
+  - fxa101-week10-week-3-lecture-fxa101-creativity-for-life
   - fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master
   - fxa300-week02-music-and-mind-harnessing-the-arts-for-health-and-wellness
   - fxa300-week02-music-and-the-brain
@@ -31,7 +33,7 @@ tags:
 - brain-development
 title: Brain Development Across Lifespan
 type: topic
-updated: 2026-08-17
+updated: 2026-09-15
 ---
 
 ## Brain Development Across Lifespan
@@ -58,6 +60,8 @@ The provided sources delve into the multifaceted process of brain development ac
 - [fxa101-week03-lesson-fxa101-week03-page-2-creativity-and-brain](../sources/fxa101-week03-lesson-fxa101-week03-page-2-creativity-and-brain.md)
 - [fxa101-week03-synergistic-effects-of-age-on-patterns-of-white-and-gray](../sources/fxa101-week03-synergistic-effects-of-age-on-patterns-of-white-and-gray.md)
 - [fxa101-week03-week-3-lecture-brain-development-and-cognitive-reserve](../sources/fxa101-week03-week-3-lecture-brain-development-and-cognitive-reserve.md)
+- [fxa101-week10-fxa101-sem-2-2026-practical-session-finale-week-10](../sources/fxa101-week10-fxa101-sem-2-2026-practical-session-finale-week-10.md)
+- [fxa101-week10-week-3-lecture-fxa101-creativity-for-life](../sources/fxa101-week10-week-3-lecture-fxa101-creativity-for-life.md)
 - [fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master](../sources/fxa300-week02-how-music-affects-your-babys-brain-mini-parenting-master.md)
 - [fxa300-week02-music-and-mind-harnessing-the-arts-for-health-and-wellness](../sources/fxa300-week02-music-and-mind-harnessing-the-arts-for-health-and-wellness.md)
 - [fxa300-week02-music-and-the-brain](../sources/fxa300-week02-music-and-the-brain.md)

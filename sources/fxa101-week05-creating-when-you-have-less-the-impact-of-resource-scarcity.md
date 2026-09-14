@@ -11,7 +11,7 @@ tags: ["resource-scarcity", "consumer-behavior", "product-use-creativity", "inno
 key_concepts: ["functional-fixedness", "constraint-mindset", "creative-consumption"]
 methods: ["empirical-research"]
 slug: fxa101-week05-creating-when-you-have-less-the-impact-of-resource-scarcity
-related: ["consumer-behavior", "resource-scarcity"]
+related: ["consumer-behavior", "innovative-thinking", "resource-scarcity"]
 created: 2026-08-03
 updated: 2026-08-03
 ---
@@ -44,4 +44,5 @@ This research examines the relationship between resource scarcity and product us
 ## See Also
 
 - [consumer-behavior](../topics/consumer-behavior.md)
+- [innovative-thinking](../topics/innovative-thinking.md)
 - [resource-scarcity](../topics/resource-scarcity.md)

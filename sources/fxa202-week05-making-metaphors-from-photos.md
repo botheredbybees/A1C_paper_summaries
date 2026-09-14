@@ -11,7 +11,7 @@ tags: ["visual-communication", "metaphorical-imaging", "photographic-studies", "
 key_concepts: ["diptychs", "contextual-symbolism", "narrative-through-images"]
 methods: ["case-study"]
 slug: fxa202-week05-making-metaphors-from-photos
-related: ["visual-communication"]
+related: ["educational-methods", "visual-communication"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -46,4 +46,5 @@ In his later work, Lyons focuses on urban wall writings and posters, which he in
 
 ## See Also
 
+- [educational-methods](../topics/educational-methods.md)
 - [visual-communication](../topics/visual-communication.md)

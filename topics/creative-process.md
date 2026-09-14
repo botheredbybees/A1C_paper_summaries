@@ -8,9 +8,12 @@ sources:
   - fxa101-week03-leonardo-da-vinci-a-genius-driven-to-distraction
   - fxa101-week07-emerging-maker-alice-walton
   - fxa101-week07-week-7-welcome
+  - fxa101-week10-fxa101-sem-2-2026-web-lecture-week-6
+  - fxa101-week10-fxa101-web-lecture-1-week-1
+  - fxa101-week10-lesson-fxa101-week10-page-1-week-10-planning-and
   - fxa202-week05-where-do-you-get-your-ideas
   - fxa300-week07-imagination-and-creativity-a-necessary-connection
-updated: 2026-08-17
+updated: 2026-09-15
 ---
 
 ## Creative Process
@@ -31,5 +34,8 @@ The creative process is a complex and multifaceted theory that involves various 
 - [fxa101-week03-leonardo-da-vinci-a-genius-driven-to-distraction](../sources/fxa101-week03-leonardo-da-vinci-a-genius-driven-to-distraction.md)
 - [fxa101-week07-emerging-maker-alice-walton](../sources/fxa101-week07-emerging-maker-alice-walton.md)
 - [fxa101-week07-week-7-welcome](../sources/fxa101-week07-week-7-welcome.md)
+- [fxa101-week10-fxa101-sem-2-2026-web-lecture-week-6](../sources/fxa101-week10-fxa101-sem-2-2026-web-lecture-week-6.md)
+- [fxa101-week10-fxa101-web-lecture-1-week-1](../sources/fxa101-week10-fxa101-web-lecture-1-week-1.md)
+- [fxa101-week10-lesson-fxa101-week10-page-1-week-10-planning-and](../sources/fxa101-week10-lesson-fxa101-week10-page-1-week-10-planning-and.md)
 - [fxa202-week05-where-do-you-get-your-ideas](../sources/fxa202-week05-where-do-you-get-your-ideas.md)
 - [fxa300-week07-imagination-and-creativity-a-necessary-connection](../sources/fxa300-week07-imagination-and-creativity-a-necessary-connection.md)

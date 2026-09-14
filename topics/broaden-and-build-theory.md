@@ -5,10 +5,11 @@ title: "Broaden-and-Build Theory"
 confidence: medium
 tags: ["broaden-and-build-theory"]
 sources:
+  - fxa101-week10-fxa101-sem-2-2026-practical-session-2-week-7
   - psy214-week02-lesson-psy214-week02-subjective-well-being
   - psy214-week02-positive-emotions-and-well-being
   - psy214-week02-positive-emotions-as-a-path-to-well-being
-updated: 2026-07-13
+updated: 2026-09-15
 ---
 
 ## Broaden-and-Build Theory
@@ -27,6 +28,7 @@ The Broaden-and-Build theory posits that positive emotions contribute to individ
 
 ## Sources
 
+- [fxa101-week10-fxa101-sem-2-2026-practical-session-2-week-7](../sources/fxa101-week10-fxa101-sem-2-2026-practical-session-2-week-7.md)
 - [psy214-week02-lesson-psy214-week02-subjective-well-being](../sources/psy214-week02-lesson-psy214-week02-subjective-well-being.md)
 - [psy214-week02-positive-emotions-and-well-being](../sources/psy214-week02-positive-emotions-and-well-being.md)
 - [psy214-week02-positive-emotions-as-a-path-to-well-being](../sources/psy214-week02-positive-emotions-as-a-path-to-well-being.md)

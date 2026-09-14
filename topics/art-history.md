@@ -8,6 +8,7 @@ sources:
   - fxa101-week00-art-and-place-crossing-borders-in-the-work-of-perejaume
   - fxa101-week03-review-albrecht-drer-documentary-biography-by-jeffrey
   - fxa101-week05-fearful-symmetry-inkblot-books-18571915
+  - fxa101-week10-lesson-fxa101-week10-page-2-light-and-shade
   - fxa302-week02-the-imagination-of-the-mind-in-classical-athens
   - fxa302-week06-monet-and-cataracts
   - fxa302-week06-transcript-florent-farges-2019-beaux-arts-11-may-url-only
@@ -18,7 +19,7 @@ tags:
 - art-history
 title: Neural Processing of Art
 type: topic
-updated: 2026-09-07
+updated: 2026-09-15
 ---
 
 ## Neural Processing of Art
@@ -41,6 +42,7 @@ The study of how the brain processes art reveals significant insights into cogni
 - [fxa101-week00-art-and-place-crossing-borders-in-the-work-of-perejaume](../sources/fxa101-week00-art-and-place-crossing-borders-in-the-work-of-perejaume.md)
 - [fxa101-week03-review-albrecht-drer-documentary-biography-by-jeffrey](../sources/fxa101-week03-review-albrecht-drer-documentary-biography-by-jeffrey.md)
 - [fxa101-week05-fearful-symmetry-inkblot-books-18571915](../sources/fxa101-week05-fearful-symmetry-inkblot-books-18571915.md)
+- [fxa101-week10-lesson-fxa101-week10-page-2-light-and-shade](../sources/fxa101-week10-lesson-fxa101-week10-page-2-light-and-shade.md)
 - [fxa302-week02-the-imagination-of-the-mind-in-classical-athens](../sources/fxa302-week02-the-imagination-of-the-mind-in-classical-athens.md)
 - [fxa302-week06-monet-and-cataracts](../sources/fxa302-week06-monet-and-cataracts.md)
 - [fxa302-week06-transcript-florent-farges-2019-beaux-arts-11-may-url-only](../sources/fxa302-week06-transcript-florent-farges-2019-beaux-arts-11-may-url-only.md)

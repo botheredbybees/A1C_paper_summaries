@@ -11,7 +11,7 @@ tags: ["creativity-innovation", "research-and-development", "organizational-stru
 key_concepts: ["creative processes", "constraints", "contextual factors"]
 methods: ["field research"]
 slug: fxa101-week05-creativity-and-constraints-exploring-the-role-of
-related: ["contextual-factors", "creativity-innovation"]
+related: ["constraints", "contextual-factors", "creativity-innovation"]
 created: 2026-08-03
 updated: 2026-08-03
 ---
@@ -43,5 +43,6 @@ This article investigates the role of constraints in fostering creativity within
 
 ## See Also
 
+- [constraints](../topics/constraints.md)
 - [contextual-factors](../topics/contextual-factors.md)
 - [creativity-innovation](../topics/creativity-innovation.md)

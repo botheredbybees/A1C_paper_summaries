@@ -8,7 +8,8 @@ sources:
   - fxa101-week04-a-large-scale-cross-sectional-investigation-into-the
   - fxa101-week04-brain-training-using-cognitive-apps-can-improve-cognitive
   - fxa101-week04-lesson-fxa101-week04-week-3
-updated: 2026-07-28
+  - fxa101-week10-sem-2-2026-week-4-lecture
+updated: 2026-09-15
 ---
 
 ## Brain Training
@@ -30,3 +31,4 @@ The efficacy and impact of brain training interventions have been explored acros
 - [fxa101-week04-a-large-scale-cross-sectional-investigation-into-the](../sources/fxa101-week04-a-large-scale-cross-sectional-investigation-into-the.md)
 - [fxa101-week04-brain-training-using-cognitive-apps-can-improve-cognitive](../sources/fxa101-week04-brain-training-using-cognitive-apps-can-improve-cognitive.md)
 - [fxa101-week04-lesson-fxa101-week04-week-3](../sources/fxa101-week04-lesson-fxa101-week04-week-3.md)
+- [fxa101-week10-sem-2-2026-week-4-lecture](../sources/fxa101-week10-sem-2-2026-week-4-lecture.md)

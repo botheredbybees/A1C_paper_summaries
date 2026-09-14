@@ -10,7 +10,7 @@ tags: ["architectural-design-studio", "experimental-pedagogy", "material-experim
 key_concepts: ["Gilles Deleuze's philosophy", "creative experimentation", "interdisciplinary connections"]
 methods: ["descriptive and exploratory qualitative methodology"]
 slug: fxa101-week00-material-experimentation-in-the-architectural-design-studio
-related: ["experimental-pedagogy"]
+related: ["creative-experimentation", "experimental-pedagogy"]
 created: 2026-08-08
 updated: 2026-08-08
 ---
@@ -43,4 +43,5 @@ This paper explores the integration of material experimentation in architectural
 
 ## See Also
 
+- [creative-experimentation](../topics/creative-experimentation.md)
 - [experimental-pedagogy](../topics/experimental-pedagogy.md)

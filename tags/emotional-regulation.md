@@ -7,6 +7,7 @@ updated: 2026-09-15
 ## Emotional Regulation
 
 - [DANCE MOVEMENT THERAPY IMPROVES EMOTIONAL RESPONSES AND MODULATES NEUROHORMONES IN ADOLESCENTS WITH MILD DEPRESSION](../sources/fxa100-week13-dance-movement-therapy-improves-emotional-responses-and.md)
+- [FXA101 Practical Session 1 Week 5](../sources/fxa101-week10-fxa101-practical-session-1-week-5.md)
 - [The pleasures of sad music: a systematic review](../sources/fxa300-week01-the-pleasures-of-sad-music-a-systematic-review.md)
 - [Global music streaming data reveal diurnal and seasonal patterns of affective preference](../sources/fxa300-week05-global-music-streaming-data-reveal-diurnal-and-seasonal.md)
 - [Self-selected \u2018\u2018favourite\u2019\u2019 stimulative and sedative music listening \u2013 how does familiar and preferred music listening affect the body?](../sources/fxa300-week05-self-selected-favourite-stimulative-and-sedative-music.md)

@@ -16,13 +16,15 @@ sources:
   - fxa101-week04-cognitive-reserve-and-brain-changes-in-ageing
   - fxa101-week04-education-the-brain-and-dementia-neuroprotection-or
   - fxa101-week04-lesson-fxa101-week04-week-3
+  - fxa101-week10-sem-2-2026-week-4-lecture
+  - fxa101-week10-week-3-lecture-fxa101-creativity-for-life
   - fxa301-week08-lesson-fxa301-week07-page-1
   - fxa303-play-for-health-across-the-lifespan-ch02-chapter-8
 tags:
 - cognitive-reserve
 title: Cognitive Reserve
 type: topic
-updated: 2026-08-07
+updated: 2026-09-15
 ---
 
 ## Cognitive Reserve
@@ -54,5 +56,7 @@ The concept of cognitive reserve highlights the brain's ability to adapt and com
 - [fxa101-week04-cognitive-reserve-and-brain-changes-in-ageing](../sources/fxa101-week04-cognitive-reserve-and-brain-changes-in-ageing.md)
 - [fxa101-week04-education-the-brain-and-dementia-neuroprotection-or](../sources/fxa101-week04-education-the-brain-and-dementia-neuroprotection-or.md)
 - [fxa101-week04-lesson-fxa101-week04-week-3](../sources/fxa101-week04-lesson-fxa101-week04-week-3.md)
+- [fxa101-week10-sem-2-2026-week-4-lecture](../sources/fxa101-week10-sem-2-2026-week-4-lecture.md)
+- [fxa101-week10-week-3-lecture-fxa101-creativity-for-life](../sources/fxa101-week10-week-3-lecture-fxa101-creativity-for-life.md)
 - [fxa301-week08-lesson-fxa301-week07-page-1](../sources/fxa301-week08-lesson-fxa301-week07-page-1.md)
 - [fxa303-play-for-health-across-the-lifespan-ch02-chapter-8](../sources/fxa303-play-for-health-across-the-lifespan-ch02-chapter-8.md)

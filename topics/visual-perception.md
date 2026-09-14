@@ -9,9 +9,11 @@ sources:
   - fxa101-week05-face-pareidolia-recruits-mechanisms-for-detecting-human
   - fxa101-week07-textures-as-probes-of-visual-processing
   - fxa101-week09-the-psychology-of-art
+  - fxa101-week10-lesson-fxa101-week10-page-2-light-and-shade
+  - fxa101-week10-shadow-the-architectural-power-of-withholding-light
   - fxa300-week04-transcript-delete-this-element
   - fxa301-week01-transcript-it-also-includes-discussion-of-what-can-be
-updated: 2026-09-07
+updated: 2026-09-15
 ---
 
 ## Visual Perception
@@ -34,5 +36,7 @@ The exploration of visual perception involves understanding how the brain proces
 - [fxa101-week05-face-pareidolia-recruits-mechanisms-for-detecting-human](../sources/fxa101-week05-face-pareidolia-recruits-mechanisms-for-detecting-human.md)
 - [fxa101-week07-textures-as-probes-of-visual-processing](../sources/fxa101-week07-textures-as-probes-of-visual-processing.md)
 - [fxa101-week09-the-psychology-of-art](../sources/fxa101-week09-the-psychology-of-art.md)
+- [fxa101-week10-lesson-fxa101-week10-page-2-light-and-shade](../sources/fxa101-week10-lesson-fxa101-week10-page-2-light-and-shade.md)
+- [fxa101-week10-shadow-the-architectural-power-of-withholding-light](../sources/fxa101-week10-shadow-the-architectural-power-of-withholding-light.md)
 - [fxa300-week04-transcript-delete-this-element](../sources/fxa300-week04-transcript-delete-this-element.md)
 - [fxa301-week01-transcript-it-also-includes-discussion-of-what-can-be](../sources/fxa301-week01-transcript-it-also-includes-discussion-of-what-can-be.md)

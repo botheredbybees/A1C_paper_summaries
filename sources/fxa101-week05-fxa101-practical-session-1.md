@@ -11,7 +11,7 @@ tags: ["cognitive-health", "emotional-wellbeing", "creative-activities", "fxa101
 key_concepts: ["reflexivity", "directed-attention-fatigue", "cognitive-reserve"]
 methods: ["case-study"]
 slug: fxa101-week05-fxa101-practical-session-1
-related: ["cognitive-health", "creative-activities", "emotional-wellbeing", "reflexivity"]
+related: ["cognitive-health", "creative-activities", "directed-attention-fatigue", "emotional-wellbeing", "reflexivity"]
 created: 2026-08-03
 updated: 2026-08-03
 ---
@@ -43,5 +43,6 @@ The document outlines the importance of creative endeavors for cognitive and emo
 
 - [cognitive-health](../topics/cognitive-health.md)
 - [creative-activities](../topics/creative-activities.md)
+- [directed-attention-fatigue](../topics/directed-attention-fatigue.md)
 - [emotional-wellbeing](../topics/emotional-wellbeing.md)
 - [reflexivity](../topics/reflexivity.md)

@@ -11,7 +11,7 @@ tags: ["sensory-inputs", "color-theory", "texture-in-art", "fxa101", "learned-as
 key_concepts: ["learned-associations", "qualia"]
 methods: []
 slug: fxa101-week07-lesson-fxa101-week07-page-1-week-7-introduction
-related: ["color-theory"]
+related: ["color-theory", "qualia"]
 created: 2026-08-17
 updated: 2026-08-17
 ---
@@ -42,3 +42,4 @@ This lesson introduces Week 7 of FXA101 Creativity and Ageing, focusing on senso
 ## See Also
 
 - [color-theory](../topics/color-theory.md)
+- [qualia](../topics/qualia.md)

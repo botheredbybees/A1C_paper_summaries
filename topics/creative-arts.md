@@ -7,6 +7,8 @@ sources:
   - fxa100-week08-using-technology-to-assist-creative-arts-activities-in
   - fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities
   - fxa101-week05-what-kind-of-research-is-research-through-design
+  - fxa101-week10-sem-2-2026-week-4-lecture
+  - fxa101-week10-week-3-lecture-fxa101-creativity-for-life
   - fxa202-week08-journal-and-visual-research-guidelines
   - fxa300-week09-music-therapy-in-mental-health-for-illness-management-and
   - fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1
@@ -65,7 +67,7 @@ tags:
 - creative-arts
 title: Music Interventions and Cognitive Health
 type: topic
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Music Interventions and Cognitive Health
@@ -87,6 +89,8 @@ The integration of findings from both sources highlights the multifaceted benefi
 - [fxa100-week08-using-technology-to-assist-creative-arts-activities-in](../sources/fxa100-week08-using-technology-to-assist-creative-arts-activities-in.md)
 - [fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities](../sources/fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities.md)
 - [fxa101-week05-what-kind-of-research-is-research-through-design](../sources/fxa101-week05-what-kind-of-research-is-research-through-design.md)
+- [fxa101-week10-sem-2-2026-week-4-lecture](../sources/fxa101-week10-sem-2-2026-week-4-lecture.md)
+- [fxa101-week10-week-3-lecture-fxa101-creativity-for-life](../sources/fxa101-week10-week-3-lecture-fxa101-creativity-for-life.md)
 - [fxa202-week08-journal-and-visual-research-guidelines](../sources/fxa202-week08-journal-and-visual-research-guidelines.md)
 - [fxa300-week09-music-therapy-in-mental-health-for-illness-management-and](../sources/fxa300-week09-music-therapy-in-mental-health-for-illness-management-and.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1](../sources/fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1.md)

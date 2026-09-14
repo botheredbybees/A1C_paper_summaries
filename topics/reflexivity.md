@@ -6,8 +6,9 @@ confidence: medium
 tags: ["reflexivity"]
 sources:
   - fxa101-week05-fxa101-practical-session-1
+  - fxa101-week10-fxa101-practical-session-1-week-5
   - fxa302-week01-web-lecture-week-1-2026
-updated: 2026-08-07
+updated: 2026-09-15
 ---
 
 ## Reflexivity
@@ -26,4 +27,5 @@ Reflexivity emerges as a central concept in both educational and theoretical con
 ## Sources
 
 - [fxa101-week05-fxa101-practical-session-1](../sources/fxa101-week05-fxa101-practical-session-1.md)
+- [fxa101-week10-fxa101-practical-session-1-week-5](../sources/fxa101-week10-fxa101-practical-session-1-week-5.md)
 - [fxa302-week01-web-lecture-week-1-2026](../sources/fxa302-week01-web-lecture-week-1-2026.md)

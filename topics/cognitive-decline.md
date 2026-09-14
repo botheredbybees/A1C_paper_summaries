@@ -17,12 +17,13 @@ sources:
   - fxa101-week03-summary-of-the-evidence-on-modifiable-risk-factors-for
   - fxa101-week04-the-ageing-brain
   - fxa101-week09-the-effect-of-apoe4-on-the-functional-gradient-of-the-brain
+  - fxa101-week10-sem-2-2026-week-4-lecture
   - fxa303-week13-causes-of-nursing-home-placement-for-older-people-with
 tags:
 - cognitive-decline
 title: Cognitive Decline
 type: topic
-updated: 2026-09-07
+updated: 2026-09-15
 ---
 
 ## Cognitive Decline
@@ -55,4 +56,5 @@ This synthesis examines interventions targeting cognitive decline, focusing on a
 - [fxa101-week03-summary-of-the-evidence-on-modifiable-risk-factors-for](../sources/fxa101-week03-summary-of-the-evidence-on-modifiable-risk-factors-for.md)
 - [fxa101-week04-the-ageing-brain](../sources/fxa101-week04-the-ageing-brain.md)
 - [fxa101-week09-the-effect-of-apoe4-on-the-functional-gradient-of-the-brain](../sources/fxa101-week09-the-effect-of-apoe4-on-the-functional-gradient-of-the-brain.md)
+- [fxa101-week10-sem-2-2026-week-4-lecture](../sources/fxa101-week10-sem-2-2026-week-4-lecture.md)
 - [fxa303-week13-causes-of-nursing-home-placement-for-older-people-with](../sources/fxa303-week13-causes-of-nursing-home-placement-for-older-people-with.md)

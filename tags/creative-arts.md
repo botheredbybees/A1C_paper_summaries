@@ -10,6 +10,8 @@ updated: 2026-09-15
 - [Using technology to assist creative arts activities in dementia care](../sources/fxa100-week08-using-technology-to-assist-creative-arts-activities-in.md)
 - [Activities for Week 2 - FXA101 Creativity and Ageing](../sources/fxa101-week02-lesson-fxa101-week02-page-4-week-2-activities.md)
 - [What kind of Research is Research Through Design](../sources/fxa101-week05-what-kind-of-research-is-research-through-design.md)
+- [Sem 2 2026 \u2013 Week 4 Lecture](../sources/fxa101-week10-sem-2-2026-week-4-lecture.md)
+- [Week 3 Lecture - FXA101 Creativity for Life](../sources/fxa101-week10-week-3-lecture-fxa101-creativity-for-life.md)
 - [Journal and Visual Research Guidelines](../sources/fxa202-week08-journal-and-visual-research-guidelines.md)
 - [Music Therapy in Mental Health for Illness Management and Recovery](../sources/fxa300-week09-music-therapy-in-mental-health-for-illness-management-and.md)
 - [Introduction to the field of creative arts, wellbeing, and health: achievements and current challenges](../sources/fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1.md)

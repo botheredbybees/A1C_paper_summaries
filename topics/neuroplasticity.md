@@ -21,6 +21,8 @@ sources:
   - fxa101-week04-cognitive-reserve-and-brain-changes-in-ageing
   - fxa101-week04-enrichment-effects-on-adult-cognitive-development-can-the
   - fxa101-week04-lesson-fxa101-week04-page-1-introduction-to-week-4
+  - fxa101-week10-sem-2-2026-week-4-lecture
+  - fxa101-week10-week-3-lecture-fxa101-creativity-for-life
   - fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in
   - fxa300-week08-sensory-stimulation-and-music-therapy-programs-for-treating
   - fxa301-week11-activation-of-primary-visual-cortex-by-braille-reading-in
@@ -31,7 +33,7 @@ tags:
 - neuroplasticity
 title: Neuroplasticity in Brain Rehabilitation
 type: topic
-updated: 2026-08-31
+updated: 2026-09-15
 ---
 
 ## Neuroplasticity in Brain Rehabilitation
@@ -68,6 +70,8 @@ The sources collectively highlight the potential of music therapy as a therapeut
 - [fxa101-week04-cognitive-reserve-and-brain-changes-in-ageing](../sources/fxa101-week04-cognitive-reserve-and-brain-changes-in-ageing.md)
 - [fxa101-week04-enrichment-effects-on-adult-cognitive-development-can-the](../sources/fxa101-week04-enrichment-effects-on-adult-cognitive-development-can-the.md)
 - [fxa101-week04-lesson-fxa101-week04-page-1-introduction-to-week-4](../sources/fxa101-week04-lesson-fxa101-week04-page-1-introduction-to-week-4.md)
+- [fxa101-week10-sem-2-2026-week-4-lecture](../sources/fxa101-week10-sem-2-2026-week-4-lecture.md)
+- [fxa101-week10-week-3-lecture-fxa101-creativity-for-life](../sources/fxa101-week10-week-3-lecture-fxa101-creativity-for-life.md)
 - [fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in](../sources/fxa300-week03-brocas-area-supports-enhanced-visuospatial-cognition-in.md)
 - [fxa300-week08-sensory-stimulation-and-music-therapy-programs-for-treating](../sources/fxa300-week08-sensory-stimulation-and-music-therapy-programs-for-treating.md)
 - [fxa301-week11-activation-of-primary-visual-cortex-by-braille-reading-in](../sources/fxa301-week11-activation-of-primary-visual-cortex-by-braille-reading-in.md)

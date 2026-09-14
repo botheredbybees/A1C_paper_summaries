@@ -11,6 +11,7 @@ updated: 2026-09-15
 - [Art and Place: Crossing Borders in the Work of Perejaume](../sources/fxa101-week00-art-and-place-crossing-borders-in-the-work-of-perejaume.md)
 - [Review: Albrecht D\u00fcrer: Documentary Biography by Jeffrey Ashcroft](../sources/fxa101-week03-review-albrecht-drer-documentary-biography-by-jeffrey.md)
 - [Fearful Symmetry: Inkblot Books (1857\u20131915)](../sources/fxa101-week05-fearful-symmetry-inkblot-books-18571915.md)
+- [Light and Shade in Art](../sources/fxa101-week10-lesson-fxa101-week10-page-2-light-and-shade.md)
 - [The Imagination of the Mind in Classical Athens](../sources/fxa302-week02-the-imagination-of-the-mind-in-classical-athens.md)
 - [Monet and Cataracts](../sources/fxa302-week06-monet-and-cataracts.md)
 - [Florent Farges Lecture](../sources/fxa302-week06-transcript-florent-farges-2019-beaux-arts-11-may-url-only.md)

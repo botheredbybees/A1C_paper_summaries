@@ -20,4 +20,5 @@ updated: 2026-09-15
 - [Summary of the evidence on modifiable risk factors for cognitive decline and dementia: A population-based perspective](../sources/fxa101-week03-summary-of-the-evidence-on-modifiable-risk-factors-for.md)
 - [The Ageing Brain](../sources/fxa101-week04-the-ageing-brain.md)
 - [The effect of APOE\u03b54 on the functional gradient of the brain default network in Alzheimer\u2019s disease and its relationship with cognitive functions](../sources/fxa101-week09-the-effect-of-apoe4-on-the-functional-gradient-of-the-brain.md)
+- [Sem 2 2026 \u2013 Week 4 Lecture](../sources/fxa101-week10-sem-2-2026-week-4-lecture.md)
 - [Causes of nursing home placement for older people with dementia: a systematic review and meta-analysis](../sources/fxa303-week13-causes-of-nursing-home-placement-for-older-people-with.md)

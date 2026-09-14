@@ -18,4 +18,6 @@ updated: 2026-09-15
 - [Cognitive Reserve and Brain Changes in Ageing](../sources/fxa101-week04-cognitive-reserve-and-brain-changes-in-ageing.md)
 - [Education, the brain and dementia: neuroprotection or compensation?](../sources/fxa101-week04-education-the-brain-and-dementia-neuroprotection-or.md)
 - [Brain Changes in Ageing](../sources/fxa101-week04-lesson-fxa101-week04-week-3.md)
+- [Sem 2 2026 \u2013 Week 4 Lecture](../sources/fxa101-week10-sem-2-2026-week-4-lecture.md)
+- [Week 3 Lecture - FXA101 Creativity for Life](../sources/fxa101-week10-week-3-lecture-fxa101-creativity-for-life.md)
 - [Case Stories and Playful Interventions for Managing Frailty in Aging](../sources/fxa303-play-for-health-across-the-lifespan-ch02-chapter-8.md)

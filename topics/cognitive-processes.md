@@ -6,10 +6,11 @@ confidence: medium
 tags: ["cognitive-processes"]
 sources:
   - fxa101-week02-web-article-kozbelt-2010
+  - fxa101-week10-web-lecture-week-9-colour-default-mode-network-focus-and
   - fxa300-week07-a-synthesis-process-model-of-creative-thinking-in-music
   - fxa300-week07-musical-creativity-and-the-brain
   - fxa300-week09-the-effects-of-music-exposure-and-own-genre-preference-on
-updated: 2026-09-07
+updated: 2026-09-15
 ---
 
 ## Theoretical Models of Creativity
@@ -29,6 +30,7 @@ The theoretical models of creativity discussed across the provided sources highl
 ## Sources
 
 - [fxa101-week02-web-article-kozbelt-2010](../sources/fxa101-week02-web-article-kozbelt-2010.md)
+- [fxa101-week10-web-lecture-week-9-colour-default-mode-network-focus-and](../sources/fxa101-week10-web-lecture-week-9-colour-default-mode-network-focus-and.md)
 - [fxa300-week07-a-synthesis-process-model-of-creative-thinking-in-music](../sources/fxa300-week07-a-synthesis-process-model-of-creative-thinking-in-music.md)
 - [fxa300-week07-musical-creativity-and-the-brain](../sources/fxa300-week07-musical-creativity-and-the-brain.md)
 - [fxa300-week09-the-effects-of-music-exposure-and-own-genre-preference-on](../sources/fxa300-week09-the-effects-of-music-exposure-and-own-genre-preference-on.md)

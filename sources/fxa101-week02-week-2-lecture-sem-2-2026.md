@@ -7,13 +7,15 @@ doi: null
 appearances:
   - unit: FXA101
     week: "02"
+  - unit: FXA101
+    week: "10"
 tags: ["neurology-of-creativity", "default-mode-network", "synesthesia", "fxa101"]
 key_concepts: ["Default Mode Network", "Synesthesia"]
 methods: ["lecture"]
 slug: fxa101-week02-week-2-lecture-sem-2-2026
 related: ["default-mode-network", "synesthesia"]
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-09-15
 ---
 
 _All claims sourced from ../raw/pdf/fxa101-week02-week-2-lecture-sem-2-2026.md_

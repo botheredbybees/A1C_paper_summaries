@@ -6,11 +6,12 @@ confidence: high
 tags: ["academic-integrity"]
 sources:
   - fxa101-week01-fxa101-sem-2-2026-web-lecture-1-week-1
+  - fxa101-week10-fxa101-web-lecture-1-week-1
   - psy214-week03-lesson-psy214-week03-academic-integrity-generative
   - psy214-week03-lesson-psy214-week03-at4-presentation-assessment
   - psy214-week03-lesson-psy214-week03-faqs-about-sources-for-assignments
   - psy214-week03-lesson-psy214-week03-introduction
-updated: 2026-08-07
+updated: 2026-09-15
 ---
 
 ## Academic Integrity
@@ -30,6 +31,7 @@ The concept of academic integrity is a fundamental principle discussed across mu
 ## Sources
 
 - [fxa101-week01-fxa101-sem-2-2026-web-lecture-1-week-1](../sources/fxa101-week01-fxa101-sem-2-2026-web-lecture-1-week-1.md)
+- [fxa101-week10-fxa101-web-lecture-1-week-1](../sources/fxa101-week10-fxa101-web-lecture-1-week-1.md)
 - [psy214-week03-lesson-psy214-week03-academic-integrity-generative](../sources/psy214-week03-lesson-psy214-week03-academic-integrity-generative.md)
 - [psy214-week03-lesson-psy214-week03-at4-presentation-assessment](../sources/psy214-week03-lesson-psy214-week03-at4-presentation-assessment.md)
 - [psy214-week03-lesson-psy214-week03-faqs-about-sources-for-assignments](../sources/psy214-week03-lesson-psy214-week03-faqs-about-sources-for-assignments.md)
