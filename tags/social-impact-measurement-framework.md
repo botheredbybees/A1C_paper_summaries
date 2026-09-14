@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-impact-measurement-framework
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Social Impact Measurement Framework

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: diaphragmatic-breathing
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Diaphragmatic Breathing

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: personalization-strategies
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Personalization Strategies

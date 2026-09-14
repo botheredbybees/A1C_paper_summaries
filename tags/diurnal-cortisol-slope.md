@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: diurnal-cortisol-slope
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Diurnal Cortisol Slope

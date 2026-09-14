@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: alzheimers-disease-assessment-scale-cognition
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Alzheimers Disease Assessment Scale Cognition

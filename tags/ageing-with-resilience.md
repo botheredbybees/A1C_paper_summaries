@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ageing-with-resilience
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Ageing With Resilience

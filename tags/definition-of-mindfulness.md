@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: definition-of-mindfulness
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Definition Of Mindfulness

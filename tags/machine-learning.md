@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: machine-learning
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Machine Learning

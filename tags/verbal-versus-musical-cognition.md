@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: verbal-versus-musical-cognition
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Verbal Versus Musical Cognition

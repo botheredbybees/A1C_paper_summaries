@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: intergenerational-interactions
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Intergenerational Interactions

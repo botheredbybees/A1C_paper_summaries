@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: lgbt-inclusion-scheme
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Lgbt Inclusion Scheme

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: complex-interventions-guidelines
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Complex Interventions Guidelines

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: bone-quality-assessment
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Bone Quality Assessment

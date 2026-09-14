@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychometric-properties
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Psychometric Properties

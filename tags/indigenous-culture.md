@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: indigenous-culture
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Indigenous Culture

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: large-language-models
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Large Language Models

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: conference-proceedings
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Conference Proceedings

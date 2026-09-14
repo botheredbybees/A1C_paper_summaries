@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: plateware-influence
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Plateware Influence

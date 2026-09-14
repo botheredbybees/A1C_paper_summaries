@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: endocrine-system-changes
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Endocrine System Changes

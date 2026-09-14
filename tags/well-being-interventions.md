@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: well-being-interventions
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Well Being Interventions
@@ -11,3 +11,4 @@ updated: 2026-09-08
 - [Activity, Activity Personalization, and Well-Being in Nursing Home Residents With and Without Cognitive Impairment: An Integrative Review](../sources/fxa303-week13-activity-activity-personalization-and-well-being-in-nursing.md)
 - [Gratitude and health: An updated review](../sources/psy214-week00-gratitude-and-health-an-updated-review.md)
 - [The Impact of Signature Character Strengths Interventions: A Meta-analysis](../sources/psy214-week00-the-impact-of-signature-character-strengths-interventions-a.md)
+- [The How, Why, What, When, and Who of Happiness: Mechanisms Underlying the Success of Positive Activity Interventions](../sources/psy214-week10-the-how-why-what-when-and-who-of-happiness-mechanisms.md)

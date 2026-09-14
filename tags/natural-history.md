@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: natural-history
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Natural History

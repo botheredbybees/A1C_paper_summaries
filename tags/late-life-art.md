@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: late-life-art
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Late Life Art

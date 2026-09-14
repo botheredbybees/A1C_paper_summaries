@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: statistical-learning
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Statistical Learning

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: affect-as-component-of-perception
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Affect As Component Of Perception

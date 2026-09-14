@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: workshop-training
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Workshop Training

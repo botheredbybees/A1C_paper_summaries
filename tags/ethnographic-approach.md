@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ethnographic-approach
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Ethnographic Approach

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: holistic-communication-systems
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Holistic Communication Systems

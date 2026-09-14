@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: wearable-sensors
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Wearable Sensors

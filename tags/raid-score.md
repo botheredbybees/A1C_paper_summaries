@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: raid-score
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Raid Score

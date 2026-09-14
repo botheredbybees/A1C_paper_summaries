@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: constructivism-theory
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Constructivism Theory

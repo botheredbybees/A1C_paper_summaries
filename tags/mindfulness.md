@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mindfulness
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Mindfulness
@@ -26,3 +26,6 @@ updated: 2026-09-08
 - [Compassion and Self-Compassion in Mindfulness](../sources/psy214-week09-lesson-psy214-week09-week-11-introduction.md)
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness: Week 9 Assessment Overview](../sources/psy214-week09-lesson-psy214-week09-week-11-wrap-up.md)
 - [Models of compassion and self-compassion](../sources/psy214-week09-models-of-compassion-and-self-compassion.md)
+- [Acts of Kindness in Positive Psychology](../sources/psy214-week10-lesson-psy214-week10-altruism.md)
+- [Gratitude: Interpersonal, Circumstantial, Transcendental, and Interventions](../sources/psy214-week10-lesson-psy214-week10-positive-interventions.md)
+- [Positive Activities: Moderators and Critiques](../sources/psy214-week10-lesson-psy214-week10-positive-psychology-interventions.md)

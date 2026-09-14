@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-for-social-change
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Arts For Social Change

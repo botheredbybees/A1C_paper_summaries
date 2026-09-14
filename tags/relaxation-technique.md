@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: relaxation-technique
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Relaxation Technique

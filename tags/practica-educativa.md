@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: practica-educativa
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Practica Educativa

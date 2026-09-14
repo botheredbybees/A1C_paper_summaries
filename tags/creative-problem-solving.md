@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-problem-solving
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Creative Problem Solving

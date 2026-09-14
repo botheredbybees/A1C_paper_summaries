@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: perception-and-brain
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Perception And Brain

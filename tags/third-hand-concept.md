@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: third-hand-concept
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Third Hand Concept

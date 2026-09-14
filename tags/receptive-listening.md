@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: receptive-listening
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Receptive Listening

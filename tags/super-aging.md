@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: super-aging
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Super Aging

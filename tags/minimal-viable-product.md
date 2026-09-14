@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: minimal-viable-product
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Minimal Viable Product

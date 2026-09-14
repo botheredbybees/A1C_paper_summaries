@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: suicide-prevention
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Suicide Prevention

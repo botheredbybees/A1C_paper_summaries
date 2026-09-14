@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognition-auditory
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Cognition Auditory

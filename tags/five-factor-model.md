@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: five-factor-model
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Five Factor Model

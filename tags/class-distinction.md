@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: class-distinction
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Class Distinction

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: canon-of-medicine-impact
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Canon Of Medicine Impact

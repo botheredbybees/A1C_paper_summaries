@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychology-of-food
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Psychology Of Food

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: intraclass-correlation-coefficient
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Intraclass Correlation Coefficient

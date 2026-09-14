@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: alzheimer-s-disease
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Alzheimer S Disease

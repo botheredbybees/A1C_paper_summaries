@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: co-produced-training
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Co Produced Training

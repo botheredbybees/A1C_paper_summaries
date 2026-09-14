@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: planetary-health-approach
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Planetary Health Approach

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: discrimination-inequality
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Discrimination Inequality

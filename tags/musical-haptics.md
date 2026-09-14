@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: musical-haptics
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Musical Haptics

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ptsd-symptoms
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Ptsd Symptoms

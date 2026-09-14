@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: pubertal-status
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Pubertal Status

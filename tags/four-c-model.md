@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: four-c-model
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Four C Model

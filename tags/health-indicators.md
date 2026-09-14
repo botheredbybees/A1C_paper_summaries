@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: health-indicators
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Health Indicators

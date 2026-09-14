@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sociocultural-change
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Sociocultural Change

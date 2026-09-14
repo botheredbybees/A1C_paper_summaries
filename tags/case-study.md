@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: case-study
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Case Study

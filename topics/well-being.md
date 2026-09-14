@@ -31,11 +31,18 @@ sources:
   - psy214-week06-the-connectedness-to-nature-scale-cns
   - psy214-week07-mindfulness-based-social-work-and-self-care-with-social
   - psy214-week09-effect-of-kindness-based-meditation-on-health-and-well
+  - psy214-week10-lesson-psy214-week10-positive-psychology-interventions
+  - psy214-week10-lesson-psy214-week10-positive-psychology-models-of-well
+  - psy214-week10-lesson-psy214-week10-week-7-introduction
+  - psy214-week10-positive-affect-interventions-to-reduce-stress-harnessing
+  - psy214-week10-positive-emotions-the-good-the-bad-the-inert-and-the
+  - psy214-week10-positive-psychology-overview
+  - psy214-week10-positive-psychology-overview-(2)
 tags:
 - well-being
 title: Well-Being Through Creative Arts
 type: topic
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Well-Being Through Creative Arts
@@ -82,3 +89,10 @@ The integration of creative arts as an intervention to improve well-being is a r
 - [psy214-week06-the-connectedness-to-nature-scale-cns](../sources/psy214-week06-the-connectedness-to-nature-scale-cns.md)
 - [psy214-week07-mindfulness-based-social-work-and-self-care-with-social](../sources/psy214-week07-mindfulness-based-social-work-and-self-care-with-social.md)
 - [psy214-week09-effect-of-kindness-based-meditation-on-health-and-well](../sources/psy214-week09-effect-of-kindness-based-meditation-on-health-and-well.md)
+- [psy214-week10-lesson-psy214-week10-positive-psychology-interventions](../sources/psy214-week10-lesson-psy214-week10-positive-psychology-interventions.md)
+- [psy214-week10-lesson-psy214-week10-positive-psychology-models-of-well](../sources/psy214-week10-lesson-psy214-week10-positive-psychology-models-of-well.md)
+- [psy214-week10-lesson-psy214-week10-week-7-introduction](../sources/psy214-week10-lesson-psy214-week10-week-7-introduction.md)
+- [psy214-week10-positive-affect-interventions-to-reduce-stress-harnessing](../sources/psy214-week10-positive-affect-interventions-to-reduce-stress-harnessing.md)
+- [psy214-week10-positive-emotions-the-good-the-bad-the-inert-and-the](../sources/psy214-week10-positive-emotions-the-good-the-bad-the-inert-and-the.md)
+- [psy214-week10-positive-psychology-overview](../sources/psy214-week10-positive-psychology-overview.md)
+- [psy214-week10-positive-psychology-overview-(2)](../sources/psy214-week10-positive-psychology-overview-%282%29.md)

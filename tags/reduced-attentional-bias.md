@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: reduced-attentional-bias
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Reduced Attentional Bias

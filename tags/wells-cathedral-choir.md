@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: wells-cathedral-choir
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Wells Cathedral Choir

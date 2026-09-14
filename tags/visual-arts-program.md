@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-arts-program
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Visual Arts Program

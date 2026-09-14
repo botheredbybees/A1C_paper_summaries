@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: decolonizing-psychology
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Decolonizing Psychology

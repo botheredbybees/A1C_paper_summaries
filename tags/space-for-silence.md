@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: space-for-silence
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Space For Silence

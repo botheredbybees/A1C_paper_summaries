@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-and-brain
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Music And Brain

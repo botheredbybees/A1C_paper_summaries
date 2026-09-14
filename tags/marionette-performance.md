@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: marionette-performance
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Marionette Performance

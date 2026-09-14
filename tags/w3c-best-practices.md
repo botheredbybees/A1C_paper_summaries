@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: w3c-best-practices
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## W3C Best Practices

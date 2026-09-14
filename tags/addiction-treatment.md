@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: addiction-treatment
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Addiction Treatment

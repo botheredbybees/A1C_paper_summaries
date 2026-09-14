@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: vocal-performance
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Vocal Performance

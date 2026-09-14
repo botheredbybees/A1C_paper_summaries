@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: somatosensory-auditory-coupling
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Somatosensory Auditory Coupling

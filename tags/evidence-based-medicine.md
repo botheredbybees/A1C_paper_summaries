@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: evidence-based-medicine
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Evidence Based Medicine

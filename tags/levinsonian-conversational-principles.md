@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: levinsonian-conversational-principles
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Levinsonian Conversational Principles

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: experience-machine-thought-experiment
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Experience Machine Thought Experiment

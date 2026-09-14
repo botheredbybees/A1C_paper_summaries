@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: swedish-dementia-registry-svedem
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Swedish Dementia Registry Svedem

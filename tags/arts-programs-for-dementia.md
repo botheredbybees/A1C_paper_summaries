@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: arts-programs-for-dementia
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Arts Programs For Dementia

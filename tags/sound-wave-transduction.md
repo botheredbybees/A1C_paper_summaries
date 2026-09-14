@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sound-wave-transduction
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Sound Wave Transduction

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cardiorespiratory-fitness
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Cardiorespiratory Fitness

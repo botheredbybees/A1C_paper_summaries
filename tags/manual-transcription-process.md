@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: manual-transcription-process
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Manual Transcription Process

@@ -26,11 +26,12 @@ sources:
   - fxa303-week08-physiological-and-emotional-responses-of-disabled-children
   - fxa303-week08-the-effect-of-medicaltherapeutic-clowns-on-the-playfulness
   - fxa303-week10-arts-education-and-society-the-role-of-the-arts-in
+  - psy214-week10-mindfulness-and-balanced-positive-emotion
 tags:
 - emotional-wellbeing
 title: Music Therapy for Emotional Wellbeing
 type: topic
-updated: 2026-08-07
+updated: 2026-09-15
 ---
 
 ## Music Therapy for Emotional Wellbeing
@@ -72,3 +73,4 @@ The integration of music therapy in enhancing emotional wellbeing is a recurring
 - [fxa303-week08-physiological-and-emotional-responses-of-disabled-children](../sources/fxa303-week08-physiological-and-emotional-responses-of-disabled-children.md)
 - [fxa303-week08-the-effect-of-medicaltherapeutic-clowns-on-the-playfulness](../sources/fxa303-week08-the-effect-of-medicaltherapeutic-clowns-on-the-playfulness.md)
 - [fxa303-week10-arts-education-and-society-the-role-of-the-arts-in](../sources/fxa303-week10-arts-education-and-society-the-role-of-the-arts-in.md)
+- [psy214-week10-mindfulness-and-balanced-positive-emotion](../sources/psy214-week10-mindfulness-and-balanced-positive-emotion.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: iconography-of-disability
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Iconography Of Disability

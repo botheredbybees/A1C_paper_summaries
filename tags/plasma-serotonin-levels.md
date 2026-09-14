@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: plasma-serotonin-levels
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Plasma Serotonin Levels

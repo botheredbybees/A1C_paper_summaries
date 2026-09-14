@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: storytelling-through-images
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Storytelling Through Images

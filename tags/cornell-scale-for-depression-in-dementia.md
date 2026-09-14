@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cornell-scale-for-depression-in-dementia
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Cornell Scale For Depression In Dementia

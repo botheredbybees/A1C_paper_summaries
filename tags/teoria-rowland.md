@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: teoria-rowland
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Teoria Rowland

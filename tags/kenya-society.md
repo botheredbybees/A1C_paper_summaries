@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: kenya-society
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Kenya Society

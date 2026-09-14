@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: frontal-lobe-dementia
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Frontal Lobe Dementia

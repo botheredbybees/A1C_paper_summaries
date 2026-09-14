@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: health-psychology
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Health Psychology
@@ -14,3 +14,4 @@ updated: 2026-09-08
 - [Beyond Expressive Writing: Evolving Models of Developmental Creative Writing](../sources/fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental.md)
 - [Stress as a Stimulus: Stressors](../sources/psy214-week01-lesson-psy214-week01-stress-as-a-psychological-process.md)
 - [Positive Emotions and Well-being](../sources/psy214-week02-positive-emotions-and-well-being.md)
+- [Positive Affect Interventions to Reduce Stress: Harnessing the Benefit While Avoiding the Pollyanna Trap](../sources/psy214-week10-positive-affect-interventions-to-reduce-stress-harnessing.md)

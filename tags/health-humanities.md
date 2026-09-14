@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: health-humanities
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Health Humanities

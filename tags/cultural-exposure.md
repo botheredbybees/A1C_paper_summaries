@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cultural-exposure
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Cultural Exposure

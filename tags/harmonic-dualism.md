@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: harmonic-dualism
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Harmonic Dualism

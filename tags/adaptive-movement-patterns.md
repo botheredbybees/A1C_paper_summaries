@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: adaptive-movement-patterns
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Adaptive Movement Patterns

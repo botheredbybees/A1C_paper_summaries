@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sleep-deprivation
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Sleep Deprivation

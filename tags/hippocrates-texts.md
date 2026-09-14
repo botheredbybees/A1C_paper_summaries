@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hippocrates-texts
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Hippocrates Texts

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: artist-in-residence
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Artist In Residence

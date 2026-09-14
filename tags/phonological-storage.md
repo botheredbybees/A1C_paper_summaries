@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: phonological-storage
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Phonological Storage

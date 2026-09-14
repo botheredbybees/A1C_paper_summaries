@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: reframing-old-age
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Reframing Old Age

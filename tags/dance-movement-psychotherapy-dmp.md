@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dance-movement-psychotherapy-dmp
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Dance Movement Psychotherapy Dmp

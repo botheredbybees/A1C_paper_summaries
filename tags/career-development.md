@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: career-development
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Career Development

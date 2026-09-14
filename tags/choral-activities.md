@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: choral-activities
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Choral Activities

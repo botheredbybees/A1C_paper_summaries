@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: positive-resources
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Positive Resources

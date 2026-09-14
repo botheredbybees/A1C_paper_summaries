@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sensory-motor-integration
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Sensory Motor Integration

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: clinical-decision-making
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Clinical Decision Making

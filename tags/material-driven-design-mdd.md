@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: material-driven-design-mdd
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Material Driven Design Mdd

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: patient-centered-care
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Patient Centered Care

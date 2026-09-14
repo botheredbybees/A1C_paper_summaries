@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hardware-reuse
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Hardware Reuse

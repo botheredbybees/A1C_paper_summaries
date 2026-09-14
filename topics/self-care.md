@@ -14,11 +14,15 @@ sources:
   - psy214-week08-mindful-attitudes-full-page-slides
   - psy214-week08-mindfulness-meditation-what-it-is-and-isnt
   - psy214-week09-lesson-psy214-week09-week-11-wrap-up
+  - psy214-week10-lesson-psy214-week10-altruism
+  - psy214-week10-lesson-psy214-week10-positive-interventions
+  - psy214-week10-lesson-psy214-week10-positive-psychology-interventions
+  - psy214-week10-lesson-psy214-week10-week-7-introduction
 tags:
 - self-care
 title: Self-Care for Caregivers
 type: topic
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Self-Care for Caregivers
@@ -48,3 +52,7 @@ The provided sources highlight the critical importance of self-care for individu
 - [psy214-week08-mindful-attitudes-full-page-slides](../sources/psy214-week08-mindful-attitudes-full-page-slides.md)
 - [psy214-week08-mindfulness-meditation-what-it-is-and-isnt](../sources/psy214-week08-mindfulness-meditation-what-it-is-and-isnt.md)
 - [psy214-week09-lesson-psy214-week09-week-11-wrap-up](../sources/psy214-week09-lesson-psy214-week09-week-11-wrap-up.md)
+- [psy214-week10-lesson-psy214-week10-altruism](../sources/psy214-week10-lesson-psy214-week10-altruism.md)
+- [psy214-week10-lesson-psy214-week10-positive-interventions](../sources/psy214-week10-lesson-psy214-week10-positive-interventions.md)
+- [psy214-week10-lesson-psy214-week10-positive-psychology-interventions](../sources/psy214-week10-lesson-psy214-week10-positive-psychology-interventions.md)
+- [psy214-week10-lesson-psy214-week10-week-7-introduction](../sources/psy214-week10-lesson-psy214-week10-week-7-introduction.md)

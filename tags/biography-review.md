@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: biography-review
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Biography Review

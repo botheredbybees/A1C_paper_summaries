@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: professionalization-code-of-ethics
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Professionalization Code Of Ethics

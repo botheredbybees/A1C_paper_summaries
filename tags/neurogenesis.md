@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurogenesis
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Neurogenesis

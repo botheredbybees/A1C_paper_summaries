@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: identity-and-place
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Identity And Place

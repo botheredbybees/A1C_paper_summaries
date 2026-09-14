@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: history-of-clowning
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## History Of Clowning

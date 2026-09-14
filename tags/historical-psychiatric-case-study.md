@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: historical-psychiatric-case-study
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Historical Psychiatric Case Study

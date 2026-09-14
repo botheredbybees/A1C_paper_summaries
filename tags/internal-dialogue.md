@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: internal-dialogue
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Internal Dialogue

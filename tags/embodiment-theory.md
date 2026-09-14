@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: embodiment-theory
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Embodiment Theory

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mind-body-skills
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Mind Body Skills

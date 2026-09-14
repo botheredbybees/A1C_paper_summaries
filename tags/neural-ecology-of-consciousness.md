@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neural-ecology-of-consciousness
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Neural Ecology Of Consciousness

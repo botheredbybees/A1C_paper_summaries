@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cataracts-impact
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Cataracts Impact

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: economic-benefits-of-arts-interventions
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Economic Benefits Of Arts Interventions

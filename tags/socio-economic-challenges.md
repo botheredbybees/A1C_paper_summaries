@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: socio-economic-challenges
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Socio Economic Challenges

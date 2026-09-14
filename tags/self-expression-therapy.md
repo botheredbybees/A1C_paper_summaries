@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: self-expression-therapy
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Self Expression Therapy

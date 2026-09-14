@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: image-generation
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Image Generation

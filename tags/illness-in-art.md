@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: illness-in-art
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Illness In Art

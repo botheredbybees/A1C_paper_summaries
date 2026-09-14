@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: deaf-musician-experience
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Deaf Musician Experience

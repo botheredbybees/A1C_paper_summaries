@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: decolonial-studies
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Decolonial Studies

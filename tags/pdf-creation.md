@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: pdf-creation
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Pdf Creation

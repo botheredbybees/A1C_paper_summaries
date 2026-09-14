@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: bottom-up-top-down-processing
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Bottom Up Top Down Processing

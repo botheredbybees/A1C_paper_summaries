@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: lgbtiq-rights
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Lgbtiq Rights

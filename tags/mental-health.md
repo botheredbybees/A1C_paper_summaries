@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-health
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Mental Health
@@ -91,3 +91,5 @@ updated: 2026-09-08
 - [Mindfulness Meditation: What It Isn\u2019t and How to Do It](../sources/psy214-week08-mindfulness-meditation-what-it-isnt-and-how-to-do-it.md)
 - [Critical thinking about mindfulness](../sources/psy214-week09-critical-thinking-about-mindfulness.md)
 - [Effect of Kindness-Based Meditation on Health and Well-Being: A Systematic Review and Meta-Analysis](../sources/psy214-week09-effect-of-kindness-based-meditation-on-health-and-well.md)
+- [PSY114 PSY214 Stress, Self-Care and Mindfulness - Week 10 Wrap-up](../sources/psy214-week10-lesson-psy214-week10-week-7-wrap-up.md)
+- [Positive Psychology: Overview](../sources/psy214-week10-positive-psychology-overview.md)

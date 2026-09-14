@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurochemistry-autism
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Neurochemistry Autism

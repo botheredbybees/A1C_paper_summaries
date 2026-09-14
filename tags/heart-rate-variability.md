@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: heart-rate-variability
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Heart Rate Variability

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: relational-integrity-in-care
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Relational Integrity In Care

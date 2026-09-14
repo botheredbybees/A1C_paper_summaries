@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: residual-capabilities
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Residual Capabilities

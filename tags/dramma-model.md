@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dramma-model
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Dramma Model

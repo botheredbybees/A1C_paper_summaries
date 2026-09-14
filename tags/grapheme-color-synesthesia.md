@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: grapheme-color-synesthesia
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Grapheme Color Synesthesia

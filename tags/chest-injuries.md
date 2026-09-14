@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: chest-injuries
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Chest Injuries

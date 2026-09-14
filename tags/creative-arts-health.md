@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-arts-health
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Creative Arts Health
@@ -13,3 +13,4 @@ updated: 2026-09-08
 - [Therapeutic clowns in pediatrics: a systematic review and meta-analysis of randomized controlled trials](../sources/fxa303-week13-therapeutic-clowns-in-pediatrics-a-systematic-review-and.md)
 - [Coping Notes Slides](../sources/psy214-week01-coping-notes-slides.md)
 - [Mindfulness Meditation: What It Is and Isn\u2019t](../sources/psy214-week08-mindfulness-meditation-what-it-is-and-isnt.md)
+- [The How, Why, What, When, and Who of Happiness: Mechanisms Underlying the Success of Positive Activity Interventions](../sources/psy214-week10-the-how-why-what-when-and-who-of-happiness-mechanisms.md)

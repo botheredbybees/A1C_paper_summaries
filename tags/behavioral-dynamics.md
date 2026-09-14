@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: behavioral-dynamics
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Behavioral Dynamics

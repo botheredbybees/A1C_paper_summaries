@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: methodological-advancements
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Methodological Advancements

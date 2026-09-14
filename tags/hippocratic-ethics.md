@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: hippocratic-ethics
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Hippocratic Ethics

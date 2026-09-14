@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: connectome-predictive-modeling
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Connectome Predictive Modeling

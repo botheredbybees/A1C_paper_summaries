@@ -29,11 +29,12 @@ sources:
   - psy214-week08-mindful-attitudes-slides-notes
   - psy214-week08-sitting-meditation-script
   - psy214-week09-critical-thinking-about-mindfulness
+  - psy214-week10-mindfulness-and-balanced-positive-emotion
 tags:
 - mindfulness-practice
 title: Mindfulness Practice Through Photography
 type: topic
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Mindfulness Practice Through Photography
@@ -78,3 +79,4 @@ The integration of mindfulness practices with the act of photography reveals a u
 - [psy214-week08-mindful-attitudes-slides-notes](../sources/psy214-week08-mindful-attitudes-slides-notes.md)
 - [psy214-week08-sitting-meditation-script](../sources/psy214-week08-sitting-meditation-script.md)
 - [psy214-week09-critical-thinking-about-mindfulness](../sources/psy214-week09-critical-thinking-about-mindfulness.md)
+- [psy214-week10-mindfulness-and-balanced-positive-emotion](../sources/psy214-week10-mindfulness-and-balanced-positive-emotion.md)

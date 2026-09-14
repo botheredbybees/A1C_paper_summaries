@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: patient-centered-assessment
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Patient Centered Assessment

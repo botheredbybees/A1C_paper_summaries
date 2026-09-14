@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: common-humanity
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Common Humanity

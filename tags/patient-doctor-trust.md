@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: patient-doctor-trust
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Patient Doctor Trust

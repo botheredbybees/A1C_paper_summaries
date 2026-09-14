@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: laughter-care-programs
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Laughter Care Programs

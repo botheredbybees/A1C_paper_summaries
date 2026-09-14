@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: scientific-imagination
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Scientific Imagination

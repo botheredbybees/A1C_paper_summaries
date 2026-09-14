@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: breath-awareness
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Breath Awareness

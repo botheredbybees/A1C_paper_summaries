@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: healthy-eating
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Healthy Eating

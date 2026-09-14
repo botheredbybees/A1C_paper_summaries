@@ -11,7 +11,7 @@ tags: ["self-compassion", "coping-strategies", "meta-analysis", "stress-manageme
 key_concepts: ["self-compassion", "adaptive coping", "maladaptive coping", "emotional approach coping", "problem-focused coping"]
 methods: ["meta-analysis"]
 slug: psy214-week09-self-compassion-and-coping-a-meta-analysis
-related: ["coping-strategies", "meta-analysis", "psychological-well-being", "self-compassion", "stress-management"]
+related: ["coping-strategies", "meta-analysis", "psychological-well-being", "resilience", "self-compassion", "stress-management"]
 created: 2026-09-08
 updated: 2026-09-08
 ---
@@ -49,5 +49,6 @@ This meta-analysis explores the relationship between self-compassion and coping 
 - [coping-strategies](../topics/coping-strategies.md)
 - [meta-analysis](../topics/meta-analysis.md)
 - [psychological-well-being](../topics/psychological-well-being.md)
+- [resilience](../topics/resilience.md)
 - [self-compassion](../topics/self-compassion.md)
 - [stress-management](../topics/stress-management.md)

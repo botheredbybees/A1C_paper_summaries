@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: green-prescriptions
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Green Prescriptions

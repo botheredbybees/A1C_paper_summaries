@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: reminiscence-and-creativity
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Reminiscence And Creativity

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: folklore-studies
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Folklore Studies

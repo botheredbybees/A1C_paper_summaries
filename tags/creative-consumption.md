@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-consumption
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Creative Consumption

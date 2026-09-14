@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: body-composition-improvement
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Body Composition Improvement

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: gono-go-association-task-gnat
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Gono Go Association Task Gnat

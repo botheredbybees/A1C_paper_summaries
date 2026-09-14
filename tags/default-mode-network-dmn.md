@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: default-mode-network-dmn
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Default Mode Network Dmn

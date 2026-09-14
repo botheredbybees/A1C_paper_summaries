@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: involuntary-musical-imagery-inmi
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Involuntary Musical Imagery Inmi

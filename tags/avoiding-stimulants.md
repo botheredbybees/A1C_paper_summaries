@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: avoiding-stimulants
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Avoiding Stimulants

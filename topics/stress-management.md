@@ -54,11 +54,13 @@ sources:
   - psy214-week09-lesson-psy214-week09-mindfulness-and-technology
   - psy214-week09-lesson-psy214-week09-week-11-introduction
   - psy214-week09-self-compassion-and-coping-a-meta-analysis
+  - psy214-week10-lesson-psy214-week10-week-7-wrap-up
+  - psy214-week10-positive-affect-interventions-to-reduce-stress-harnessing
 tags:
 - stress-management
 title: Stress Management Interventions
 type: topic
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Stress Management Interventions
@@ -128,3 +130,5 @@ The exploration of stress management interventions across multiple sources highl
 - [psy214-week09-lesson-psy214-week09-mindfulness-and-technology](../sources/psy214-week09-lesson-psy214-week09-mindfulness-and-technology.md)
 - [psy214-week09-lesson-psy214-week09-week-11-introduction](../sources/psy214-week09-lesson-psy214-week09-week-11-introduction.md)
 - [psy214-week09-self-compassion-and-coping-a-meta-analysis](../sources/psy214-week09-self-compassion-and-coping-a-meta-analysis.md)
+- [psy214-week10-lesson-psy214-week10-week-7-wrap-up](../sources/psy214-week10-lesson-psy214-week10-week-7-wrap-up.md)
+- [psy214-week10-positive-affect-interventions-to-reduce-stress-harnessing](../sources/psy214-week10-positive-affect-interventions-to-reduce-stress-harnessing.md)

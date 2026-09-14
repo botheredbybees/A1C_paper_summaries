@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: confirmation-bias-mitigation
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Confirmation Bias Mitigation

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: environmental-disaster-response
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Environmental Disaster Response

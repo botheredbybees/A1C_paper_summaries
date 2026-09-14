@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: external-validity
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## External Validity

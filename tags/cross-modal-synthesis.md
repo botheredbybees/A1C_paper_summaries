@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cross-modal-synthesis
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Cross Modal Synthesis

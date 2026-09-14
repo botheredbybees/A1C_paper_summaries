@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: self-care
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Self Care
@@ -16,3 +16,7 @@ updated: 2026-09-08
 - [Mindful Attitudes Full Page Slides](../sources/psy214-week08-mindful-attitudes-full-page-slides.md)
 - [Mindfulness Meditation: What It Is and Isn\u2019t](../sources/psy214-week08-mindfulness-meditation-what-it-is-and-isnt.md)
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness: Week 9 Assessment Overview](../sources/psy214-week09-lesson-psy214-week09-week-11-wrap-up.md)
+- [Acts of Kindness in Positive Psychology](../sources/psy214-week10-lesson-psy214-week10-altruism.md)
+- [Gratitude: Interpersonal, Circumstantial, Transcendental, and Interventions](../sources/psy214-week10-lesson-psy214-week10-positive-interventions.md)
+- [Positive Activities: Moderators and Critiques](../sources/psy214-week10-lesson-psy214-week10-positive-psychology-interventions.md)
+- [Positive Psychology 1: Concepts, Models, and Interventions](../sources/psy214-week10-lesson-psy214-week10-week-7-introduction.md)

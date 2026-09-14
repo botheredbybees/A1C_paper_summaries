@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: correlation-and-causation
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Correlation And Causation

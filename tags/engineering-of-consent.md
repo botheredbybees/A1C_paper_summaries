@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: engineering-of-consent
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Engineering Of Consent

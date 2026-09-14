@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: disorders-of-consciousness
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Disorders Of Consciousness

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: screen-time-effects
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Screen Time Effects

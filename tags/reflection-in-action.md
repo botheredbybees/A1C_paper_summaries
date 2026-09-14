@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: reflection-in-action
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Reflection In Action

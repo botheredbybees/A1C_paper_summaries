@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: repeated-attention-redirection
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Repeated Attention Redirection

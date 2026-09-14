@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creative-therapies
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Creative Therapies

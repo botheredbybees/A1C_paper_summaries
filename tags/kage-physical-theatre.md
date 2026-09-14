@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: kage-physical-theatre
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Kage Physical Theatre

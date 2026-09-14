@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: interdisciplinary-gerontology
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Interdisciplinary Gerontology

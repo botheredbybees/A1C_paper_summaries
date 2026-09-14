@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: musical-training-effects
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Musical Training Effects

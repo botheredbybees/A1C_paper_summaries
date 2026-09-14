@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: apoe4-allele
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Apoe4 Allele

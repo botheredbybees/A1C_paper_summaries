@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: categorical-false-dichotomy
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Categorical False Dichotomy

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: transformative-learning-outcomes
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Transformative Learning Outcomes

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: impressionist-painting
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Impressionist Painting

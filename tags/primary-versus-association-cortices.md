@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: primary-versus-association-cortices
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Primary Versus Association Cortices

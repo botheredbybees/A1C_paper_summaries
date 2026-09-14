@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: orbitofrontal-cortex-atrophy
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Orbitofrontal Cortex Atrophy

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: medical-disorder-evolution
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Medical Disorder Evolution

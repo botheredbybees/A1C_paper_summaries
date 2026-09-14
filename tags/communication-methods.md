@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: communication-methods
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Communication Methods

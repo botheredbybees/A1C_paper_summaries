@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: disability-as-diversity
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Disability As Diversity

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: principles-of-conduct
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Principles Of Conduct

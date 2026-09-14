@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-therapeutic-horticulture
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Social Therapeutic Horticulture

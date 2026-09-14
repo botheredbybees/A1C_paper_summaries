@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: confirmatory-factor-analysis
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Confirmatory Factor Analysis

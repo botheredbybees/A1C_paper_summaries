@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: autism-support
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Autism Support

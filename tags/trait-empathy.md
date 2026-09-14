@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: trait-empathy
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Trait Empathy

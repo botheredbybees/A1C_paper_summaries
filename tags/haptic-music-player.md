@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: haptic-music-player
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Haptic Music Player

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: individual-movement-patterns
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Individual Movement Patterns

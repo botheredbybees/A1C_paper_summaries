@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: philosophical-aesthetics
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Philosophical Aesthetics

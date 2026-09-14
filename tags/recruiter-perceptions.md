@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: recruiter-perceptions
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Recruiter Perceptions

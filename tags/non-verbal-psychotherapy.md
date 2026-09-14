@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: non-verbal-psychotherapy
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Non Verbal Psychotherapy

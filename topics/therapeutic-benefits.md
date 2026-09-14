@@ -25,11 +25,12 @@ sources:
   - fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact
   - fxa303-week11-lesson-fxa303-week11-overview
   - fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through
+  - psy214-week10-mindfulness-and-balanced-positive-emotion
 tags:
 - therapeutic-benefits
 title: Music Therapy
 type: topic
-updated: 2026-08-31
+updated: 2026-09-15
 ---
 
 ## Music Therapy
@@ -70,3 +71,4 @@ The documents collectively emphasize the profound therapeutic potential of music
 - [fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact](../sources/fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact.md)
 - [fxa303-week11-lesson-fxa303-week11-overview](../sources/fxa303-week11-lesson-fxa303-week11-overview.md)
 - [fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through](../sources/fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through.md)
+- [psy214-week10-mindfulness-and-balanced-positive-emotion](../sources/psy214-week10-mindfulness-and-balanced-positive-emotion.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: workplace-stress-reduction
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Workplace Stress Reduction

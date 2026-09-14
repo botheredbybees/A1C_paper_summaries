@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: historical-medicine
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Historical Medicine

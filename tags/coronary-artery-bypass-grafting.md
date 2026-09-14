@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: coronary-artery-bypass-grafting
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Coronary Artery Bypass Grafting

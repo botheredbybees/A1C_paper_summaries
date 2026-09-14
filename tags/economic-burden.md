@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: economic-burden
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Economic Burden

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: leadership-styles
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Leadership Styles

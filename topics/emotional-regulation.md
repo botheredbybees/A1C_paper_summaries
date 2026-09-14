@@ -23,11 +23,12 @@ sources:
   - psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an
   - psy214-week02-positive-emotions-as-a-path-to-well-being
   - psy214-week08-mechanisms-of-mindfulness
+  - psy214-week10-positive-affect-interventions-to-reduce-stress-harnessing
 tags:
 - emotional-regulation
 title: Emotional Regulation
 type: topic
-updated: 2026-09-07
+updated: 2026-09-15
 ---
 
 ## Emotional Regulation
@@ -66,3 +67,4 @@ The synthesis integrates various aspects of emotional regulation across diverse 
 - [psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an](../sources/psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an.md)
 - [psy214-week02-positive-emotions-as-a-path-to-well-being](../sources/psy214-week02-positive-emotions-as-a-path-to-well-being.md)
 - [psy214-week08-mechanisms-of-mindfulness](../sources/psy214-week08-mechanisms-of-mindfulness.md)
+- [psy214-week10-positive-affect-interventions-to-reduce-stress-harnessing](../sources/psy214-week10-positive-affect-interventions-to-reduce-stress-harnessing.md)

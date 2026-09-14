@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ethnic-studies
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Ethnic Studies

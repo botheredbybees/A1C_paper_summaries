@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dementia-care
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Dementia Care

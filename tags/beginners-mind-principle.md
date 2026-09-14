@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: beginners-mind-principle
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Beginners Mind Principle

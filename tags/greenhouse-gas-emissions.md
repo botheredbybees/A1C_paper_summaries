@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: greenhouse-gas-emissions
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Greenhouse Gas Emissions

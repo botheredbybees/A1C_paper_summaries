@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-sound
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Therapeutic Sound

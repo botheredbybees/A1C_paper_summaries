@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: scholarly-evidence-application
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Scholarly Evidence Application

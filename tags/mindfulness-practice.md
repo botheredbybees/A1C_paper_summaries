@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mindfulness-practice
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Mindfulness Practice
@@ -32,3 +32,4 @@ updated: 2026-09-08
 - [Mindful Attitudes Slides Notes](../sources/psy214-week08-mindful-attitudes-slides-notes.md)
 - [Sitting Meditation Script](../sources/psy214-week08-sitting-meditation-script.md)
 - [Critical thinking about mindfulness](../sources/psy214-week09-critical-thinking-about-mindfulness.md)
+- [Mindfulness and Balanced Positive Emotion](../sources/psy214-week10-mindfulness-and-balanced-positive-emotion.md)

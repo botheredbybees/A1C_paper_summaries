@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: incarcerated-individuals-rehabilitation
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Incarcerated Individuals Rehabilitation

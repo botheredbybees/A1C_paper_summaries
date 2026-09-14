@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: constraints
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Constraints

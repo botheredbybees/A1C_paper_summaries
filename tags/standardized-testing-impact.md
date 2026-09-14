@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: standardized-testing-impact
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Standardized Testing Impact

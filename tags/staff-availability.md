@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: staff-availability
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Staff Availability

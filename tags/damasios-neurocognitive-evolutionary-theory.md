@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: damasios-neurocognitive-evolutionary-theory
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Damasios Neurocognitive Evolutionary Theory

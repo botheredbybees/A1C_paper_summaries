@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: student-centered-learning
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Student Centered Learning

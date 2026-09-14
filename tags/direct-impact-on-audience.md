@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: direct-impact-on-audience
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Direct Impact On Audience

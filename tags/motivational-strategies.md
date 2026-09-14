@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: motivational-strategies
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Motivational Strategies

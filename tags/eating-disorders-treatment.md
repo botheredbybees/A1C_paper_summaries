@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: eating-disorders-treatment
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Eating Disorders Treatment

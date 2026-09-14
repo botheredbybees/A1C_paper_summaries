@@ -7,7 +7,8 @@ tags: ["interventions"]
 sources:
   - fxa303-week11-mental-health-in-lesbian-gay-bisexual-and-transgender-lgbt
   - psy214-week00-self-compassion-theory-method-research-and-intervention
-updated: 2026-06-25
+  - psy214-week10-positive-psychology-overview-(2)
+updated: 2026-09-15
 ---
 
 ## Interventions for Mental Health in LGBTQ Youth
@@ -28,3 +29,4 @@ The synthesis of mental health interventions for LGBTQ youth and self-compassion
 
 - [fxa303-week11-mental-health-in-lesbian-gay-bisexual-and-transgender-lgbt](../sources/fxa303-week11-mental-health-in-lesbian-gay-bisexual-and-transgender-lgbt.md)
 - [psy214-week00-self-compassion-theory-method-research-and-intervention](../sources/psy214-week00-self-compassion-theory-method-research-and-intervention.md)
+- [psy214-week10-positive-psychology-overview-(2)](../sources/psy214-week10-positive-psychology-overview-%282%29.md)

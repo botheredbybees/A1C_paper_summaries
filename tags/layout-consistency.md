@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: layout-consistency
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Layout Consistency

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: exposure-therapy
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Exposure Therapy

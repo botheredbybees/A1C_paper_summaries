@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: baseline-cognition
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Baseline Cognition

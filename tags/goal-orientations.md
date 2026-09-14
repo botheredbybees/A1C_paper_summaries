@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: goal-orientations
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Goal Orientations

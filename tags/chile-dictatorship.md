@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: chile-dictatorship
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Chile Dictatorship

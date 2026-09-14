@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: universal-musical-structure
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Universal Musical Structure

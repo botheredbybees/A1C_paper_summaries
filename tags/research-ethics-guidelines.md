@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: research-ethics-guidelines
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Research Ethics Guidelines

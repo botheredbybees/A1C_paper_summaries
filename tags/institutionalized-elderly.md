@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: institutionalized-elderly
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Institutionalized Elderly

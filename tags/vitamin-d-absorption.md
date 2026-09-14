@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: vitamin-d-absorption
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Vitamin D Absorption

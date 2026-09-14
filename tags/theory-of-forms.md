@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: theory-of-forms
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Theory Of Forms

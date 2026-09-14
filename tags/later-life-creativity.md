@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: later-life-creativity
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Later Life Creativity

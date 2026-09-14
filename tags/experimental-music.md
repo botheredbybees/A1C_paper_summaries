@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: experimental-music
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Experimental Music

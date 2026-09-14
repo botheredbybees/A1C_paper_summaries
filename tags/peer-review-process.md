@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: peer-review-process
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Peer Review Process

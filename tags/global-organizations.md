@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: global-organizations
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Global Organizations

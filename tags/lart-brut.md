@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: lart-brut
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Lart Brut

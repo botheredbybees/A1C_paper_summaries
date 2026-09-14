@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: theories-of-musical-composition
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Theories Of Musical Composition

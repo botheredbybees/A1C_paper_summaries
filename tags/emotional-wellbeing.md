@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotional-wellbeing
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Emotional Wellbeing
@@ -29,3 +29,4 @@ updated: 2026-09-08
 - [Physiological and Emotional Responses of Disabled Children to Therapeutic Clowns: A Pilot Study](../sources/fxa303-week08-physiological-and-emotional-responses-of-disabled-children.md)
 - [The effect of medical/therapeutic clowns on the playfulness of children with intellectual disabilities](../sources/fxa303-week08-the-effect-of-medicaltherapeutic-clowns-on-the-playfulness.md)
 - [Arts Education and Society: The Role of the Arts in Promoting Emotional Wellbeing and Social Inclusion of Young People](../sources/fxa303-week10-arts-education-and-society-the-role-of-the-arts-in.md)
+- [Mindfulness and Balanced Positive Emotion](../sources/psy214-week10-mindfulness-and-balanced-positive-emotion.md)

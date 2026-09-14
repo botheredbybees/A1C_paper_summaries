@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: unsupervised-outdoor-space
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Unsupervised Outdoor Space

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mobile-apps
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Mobile Apps

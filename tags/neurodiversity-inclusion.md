@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurodiversity-inclusion
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Neurodiversity Inclusion

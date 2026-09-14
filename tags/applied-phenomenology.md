@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: applied-phenomenology
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Applied Phenomenology

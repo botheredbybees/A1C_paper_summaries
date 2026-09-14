@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: self-care-strategies
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Self Care Strategies
@@ -30,3 +30,4 @@ updated: 2026-09-08
 - [Mindfulness as a Self-Care Strategy for Healthcare Professionals to Reduce Stress and Implicit Bias](../sources/psy214-week07-mindfulness-as-a-self-care-strategy-for-healthcare.md)
 - [Self-Care Skills to Prevent Burnout: A Pilot Study Embedding Mindfulness in an Undergraduate Nursing Course](../sources/psy214-week07-self-care-skills-to-prevent-burnout-a-pilot-study-embedding.md)
 - [Stress, Self-Care and Mindfulness and Stress, Self-Care and Mindfulness](../sources/psy214-week08-lesson-psy214-week08-week-10-introduction.md)
+- [PSY114 PSY214 Stress, Self-Care and Mindfulness - Week 10 Wrap-up](../sources/psy214-week10-lesson-psy214-week10-week-7-wrap-up.md)

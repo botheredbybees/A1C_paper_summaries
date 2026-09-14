@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: expertise-and-neuroplasticity
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Expertise And Neuroplasticity

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: joint-inheritance-theory
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Joint Inheritance Theory

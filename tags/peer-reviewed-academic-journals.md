@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: peer-reviewed-academic-journals
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Peer Reviewed Academic Journals

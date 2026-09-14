@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: co-created-content
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Co Created Content

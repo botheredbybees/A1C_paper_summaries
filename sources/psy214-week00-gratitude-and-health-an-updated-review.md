@@ -7,13 +7,15 @@ doi: https://doi.org/10.1080/17439760.2019.1651888
 appearances:
   - unit: PSY214
     week: "00"
+  - unit: PSY214
+    week: "10"
 tags: ["gratitude-health", "positive-psychology", "well-being-interventions", "mental-health-outcomes", "health-adaptation", "psy214", "state-gratitude", "trait-gratitude", "causal-relationship"]
 key_concepts: ["state-gratitude", "trait-gratitude", "causal-relationship", "subjective-well-being"]
 methods: ["systematic-review"]
 slug: psy214-week00-gratitude-and-health-an-updated-review
-related: ["mental-health-outcomes", "positive-psychology", "well-being-interventions"]
+related: ["mental-health-outcomes", "positive-psychology", "state-gratitude", "trait-gratitude", "well-being-interventions"]
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-09-15
 ---
 
 _All claims sourced from ../raw/pdf/psy214-week00-gratitude-and-health-an-updated-review.md_
@@ -46,4 +48,6 @@ This review updates the understanding of gratitude's impact on human health by f
 
 - [mental-health-outcomes](../topics/mental-health-outcomes.md)
 - [positive-psychology](../topics/positive-psychology.md)
+- [state-gratitude](../topics/state-gratitude.md)
+- [trait-gratitude](../topics/trait-gratitude.md)
 - [well-being-interventions](../topics/well-being-interventions.md)

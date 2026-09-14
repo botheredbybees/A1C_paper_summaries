@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: literary-influence
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Literary Influence

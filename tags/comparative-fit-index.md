@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: comparative-fit-index
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Comparative Fit Index

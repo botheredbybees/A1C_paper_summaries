@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mirror-neuron-activity
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Mirror Neuron Activity

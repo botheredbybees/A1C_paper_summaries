@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mindfulness-music-dance
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Mindfulness Music Dance

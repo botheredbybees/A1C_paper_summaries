@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: baddeley-and-hitchs-model
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Baddeley And Hitchs Model

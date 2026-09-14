@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sense-of-mineness
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Sense Of Mineness

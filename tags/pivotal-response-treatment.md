@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: pivotal-response-treatment
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Pivotal Response Treatment

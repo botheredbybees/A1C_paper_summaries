@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: national-music-movements
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## National Music Movements

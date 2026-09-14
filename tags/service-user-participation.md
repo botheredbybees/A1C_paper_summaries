@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: service-user-participation
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Service User Participation

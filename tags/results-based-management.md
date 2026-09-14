@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: results-based-management
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Results Based Management

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: personality-music-preference
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Personality Music Preference

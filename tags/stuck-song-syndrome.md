@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: stuck-song-syndrome
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Stuck Song Syndrome

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: gifted-education
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Gifted Education

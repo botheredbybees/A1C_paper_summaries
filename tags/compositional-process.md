@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: compositional-process
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Compositional Process

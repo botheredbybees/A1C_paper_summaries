@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: darwinian-theory-in-psychology
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Darwinian Theory In Psychology

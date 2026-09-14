@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: youtube-error
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Youtube Error

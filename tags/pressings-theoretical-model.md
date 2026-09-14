@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: pressings-theoretical-model
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Pressings Theoretical Model

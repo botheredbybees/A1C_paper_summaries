@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-illness-treatment
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Mental Illness Treatment

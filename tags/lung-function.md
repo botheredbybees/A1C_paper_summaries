@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: lung-function
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Lung Function

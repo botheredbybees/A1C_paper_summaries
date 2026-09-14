@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: music-listening
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Music Listening

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: student-well-being
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Student Well Being

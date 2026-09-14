@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: modality-specific-neural-basis
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Modality Specific Neural Basis

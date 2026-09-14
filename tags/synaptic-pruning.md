@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: synaptic-pruning
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Synaptic Pruning

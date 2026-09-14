@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: nobel-laureates-economics
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Nobel Laureates Economics

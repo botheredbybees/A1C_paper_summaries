@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurochemical-pathways
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Neurochemical Pathways

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-benefits
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Therapeutic Benefits
@@ -28,3 +28,4 @@ updated: 2026-09-08
 - [More than just clowns \u2013 Clown Doctor rounds and their impact for children, families and staff](../sources/fxa303-week08-more-than-just-clowns-clown-doctor-rounds-and-their-impact.md)
 - [FXA303 Creative Arts, Play and Mental Wellbeing - Week 11](../sources/fxa303-week11-lesson-fxa303-week11-overview.md)
 - [Me and us: Cultivating presence and mental health through choir singing](../sources/fxa303-week11-me-and-us-cultivating-presence-and-mental-health-through.md)
+- [Mindfulness and Balanced Positive Emotion](../sources/psy214-week10-mindfulness-and-balanced-positive-emotion.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: inclusive-music-practices
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Inclusive Music Practices

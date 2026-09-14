@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: disease-transmission
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Disease Transmission

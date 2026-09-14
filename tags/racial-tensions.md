@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: racial-tensions
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Racial Tensions

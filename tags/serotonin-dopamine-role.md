@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: serotonin-dopamine-role
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Serotonin Dopamine Role

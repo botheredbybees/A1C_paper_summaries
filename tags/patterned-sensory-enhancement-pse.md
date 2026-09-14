@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: patterned-sensory-enhancement-pse
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Patterned Sensory Enhancement Pse

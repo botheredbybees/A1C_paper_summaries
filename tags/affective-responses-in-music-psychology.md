@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: affective-responses-in-music-psychology
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Affective Responses In Music Psychology

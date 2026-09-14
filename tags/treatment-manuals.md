@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: treatment-manuals
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Treatment Manuals

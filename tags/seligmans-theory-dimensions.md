@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: seligmans-theory-dimensions
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Seligmans Theory Dimensions

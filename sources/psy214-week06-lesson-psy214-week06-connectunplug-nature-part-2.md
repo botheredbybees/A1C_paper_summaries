@@ -7,13 +7,15 @@ doi: null
 appearances:
   - unit: PSY214
     week: "06"
+  - unit: PSY214
+    week: "10"
 tags: ["stress-management", "mindfulness-practice", "nature-therapy", "psy214", "connectedness-to-nature-scale", "forest-bathing-shinrin-yoku"]
 key_concepts: ["Connectedness to Nature Scale", "forest bathing (Shinrin-yoku)"]
 methods: []
 slug: psy214-week06-lesson-psy214-week06-connectunplug-nature-part-2
 related: ["mindfulness-practice", "nature-therapy", "stress-management"]
 created: 2026-08-10
-updated: 2026-08-10
+updated: 2026-09-15
 ---
 
 _All claims sourced from ../raw/pdf/psy214-week06-lesson-psy214-week06-connectunplug-nature-part-2.md_

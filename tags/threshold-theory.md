@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: threshold-theory
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Threshold Theory

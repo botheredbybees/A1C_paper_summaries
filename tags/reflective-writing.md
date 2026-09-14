@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: reflective-writing
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Reflective Writing

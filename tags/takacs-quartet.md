@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: takacs-quartet
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Takacs Quartet

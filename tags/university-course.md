@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: university-course
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## University Course

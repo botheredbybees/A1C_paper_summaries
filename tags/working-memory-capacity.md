@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: working-memory-capacity
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Working Memory Capacity

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ai-based-detection
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Ai Based Detection

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dance-and-body-type
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Dance And Body Type

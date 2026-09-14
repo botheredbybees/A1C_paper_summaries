@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: child-health-education
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Child Health Education

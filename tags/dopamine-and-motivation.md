@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dopamine-and-motivation
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Dopamine And Motivation

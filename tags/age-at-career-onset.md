@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: age-at-career-onset
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Age At Career Onset

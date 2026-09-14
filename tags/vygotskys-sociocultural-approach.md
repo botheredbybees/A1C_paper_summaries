@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: vygotskys-sociocultural-approach
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Vygotskys Sociocultural Approach

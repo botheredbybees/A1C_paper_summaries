@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neural-reserve-capacity
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Neural Reserve Capacity

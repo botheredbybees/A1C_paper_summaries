@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: language-use-in-healthcare
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Language Use In Healthcare

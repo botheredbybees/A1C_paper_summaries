@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: linguistic-theories-in-music
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Linguistic Theories In Music

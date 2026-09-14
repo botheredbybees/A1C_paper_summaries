@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: medieval-history
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Medieval History

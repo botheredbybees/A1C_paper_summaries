@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: striatum-pathways
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Striatum Pathways

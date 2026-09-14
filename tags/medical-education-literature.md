@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: medical-education-literature
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Medical Education Literature

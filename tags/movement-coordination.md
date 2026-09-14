@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: movement-coordination
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Movement Coordination

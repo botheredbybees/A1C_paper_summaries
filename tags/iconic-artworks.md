@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: iconic-artworks
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Iconic Artworks

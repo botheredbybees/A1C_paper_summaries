@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: general-enhanced-memory-capability
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## General Enhanced Memory Capability

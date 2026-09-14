@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: irrelevant-sound-interference
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Irrelevant Sound Interference

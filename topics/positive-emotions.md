@@ -8,11 +8,14 @@ sources:
   - fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january
   - psy214-week02-positive-emotions-and-well-being
   - psy214-week02-positive-emotions-as-a-path-to-well-being
+  - psy214-week10-lesson-psy214-week10-positive-interventions
+  - psy214-week10-mindfulness-and-balanced-positive-emotion
+  - psy214-week10-positive-emotions-the-good-the-bad-the-inert-and-the
 tags:
 - positive-emotions
 title: Positive Emotions in Healthcare
 type: topic
-updated: 2026-07-13
+updated: 2026-09-15
 ---
 
 ## Positive Emotions in Healthcare
@@ -36,3 +39,6 @@ The sources highlight the role of interventions aimed at eliciting positive emot
 - [fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january](../sources/fxa303-week08-transcript-the-humour-foundation-laughter-care-23-january.md)
 - [psy214-week02-positive-emotions-and-well-being](../sources/psy214-week02-positive-emotions-and-well-being.md)
 - [psy214-week02-positive-emotions-as-a-path-to-well-being](../sources/psy214-week02-positive-emotions-as-a-path-to-well-being.md)
+- [psy214-week10-lesson-psy214-week10-positive-interventions](../sources/psy214-week10-lesson-psy214-week10-positive-interventions.md)
+- [psy214-week10-mindfulness-and-balanced-positive-emotion](../sources/psy214-week10-mindfulness-and-balanced-positive-emotion.md)
+- [psy214-week10-positive-emotions-the-good-the-bad-the-inert-and-the](../sources/psy214-week10-positive-emotions-the-good-the-bad-the-inert-and-the.md)

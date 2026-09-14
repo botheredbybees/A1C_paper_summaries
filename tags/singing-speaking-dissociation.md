@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: singing-speaking-dissociation
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Singing Speaking Dissociation

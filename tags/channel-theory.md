@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: channel-theory
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Channel Theory

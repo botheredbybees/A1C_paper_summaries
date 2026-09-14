@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ancient-greek-medicine
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Ancient Greek Medicine

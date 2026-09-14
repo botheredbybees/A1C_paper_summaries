@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: aged-care-facilities
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Aged Care Facilities

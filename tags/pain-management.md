@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: pain-management
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Pain Management

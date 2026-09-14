@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-networking-among-musicians
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Brain Networking Among Musicians

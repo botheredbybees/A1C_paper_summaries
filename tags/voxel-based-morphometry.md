@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: voxel-based-morphometry
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Voxel Based Morphometry

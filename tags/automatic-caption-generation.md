@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: automatic-caption-generation
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Automatic Caption Generation

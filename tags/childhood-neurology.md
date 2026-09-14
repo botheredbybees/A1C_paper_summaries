@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: childhood-neurology
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Childhood Neurology

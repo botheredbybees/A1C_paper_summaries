@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: three-dimensional-printing
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Three Dimensional Printing

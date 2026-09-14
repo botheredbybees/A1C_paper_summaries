@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: recovery-from-injury
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Recovery From Injury

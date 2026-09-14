@@ -11,7 +11,7 @@ tags: ["dementia-care", "music-therapy", "patient-outcomes", "quality-of-life", 
 key_concepts: ["music therapy", "dementia care pathways", "agitation reduction", "relationship improvement", "Homeside trial"]
 methods: ["position paper"]
 slug: fxa100-week04-embedding-music-and-music-therapy-in-care-pathways-for
-related: ["dementia-care", "music-therapy", "patient-outcomes", "quality-of-life"]
+related: ["dementia-care", "intervention-studies", "music-therapy", "patient-outcomes", "quality-of-life"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -47,6 +47,7 @@ This paper discusses the role of music therapy in dementia care from clinical, e
 ## See Also
 
 - [dementia-care](../topics/dementia-care.md)
+- [intervention-studies](../topics/intervention-studies.md)
 - [music-therapy](../topics/music-therapy.md)
 - [patient-outcomes](../topics/patient-outcomes.md)
 - [quality-of-life](../topics/quality-of-life.md)

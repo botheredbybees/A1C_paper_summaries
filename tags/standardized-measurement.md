@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: standardized-measurement
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Standardized Measurement

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dual-coding-theory
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Dual Coding Theory

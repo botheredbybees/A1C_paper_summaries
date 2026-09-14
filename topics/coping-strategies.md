@@ -9,11 +9,12 @@ sources:
   - psy214-week01-lesson-psy214-week01-stress-20as-20a-20psychological
   - psy214-week01-the-transactional-model-of-stress-and-coping
   - psy214-week09-self-compassion-and-coping-a-meta-analysis
+  - psy214-week10-positive-psychology-overview-(2)
 tags:
 - coping-strategies
 title: Coping Strategies
 type: topic
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Coping Strategies
@@ -38,3 +39,4 @@ The concept of coping strategies is examined across various therapeutic and educ
 - [psy214-week01-lesson-psy214-week01-stress-20as-20a-20psychological](../sources/psy214-week01-lesson-psy214-week01-stress-20as-20a-20psychological.md)
 - [psy214-week01-the-transactional-model-of-stress-and-coping](../sources/psy214-week01-the-transactional-model-of-stress-and-coping.md)
 - [psy214-week09-self-compassion-and-coping-a-meta-analysis](../sources/psy214-week09-self-compassion-and-coping-a-meta-analysis.md)
+- [psy214-week10-positive-psychology-overview-(2)](../sources/psy214-week10-positive-psychology-overview-%282%29.md)

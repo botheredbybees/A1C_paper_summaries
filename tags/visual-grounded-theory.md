@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-grounded-theory
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Visual Grounded Theory

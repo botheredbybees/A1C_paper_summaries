@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: early-childhood-experiences
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Early Childhood Experiences

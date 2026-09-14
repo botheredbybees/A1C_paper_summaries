@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: english-language
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## English Language

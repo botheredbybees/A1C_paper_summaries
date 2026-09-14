@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: settler-colonial-legacies
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Settler Colonial Legacies

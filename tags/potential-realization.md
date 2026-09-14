@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: potential-realization
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Potential Realization

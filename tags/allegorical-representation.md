@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: allegorical-representation
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Allegorical Representation

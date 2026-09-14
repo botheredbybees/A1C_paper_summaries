@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: letting-go
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Letting Go

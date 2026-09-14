@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: animal-behavior
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Animal Behavior

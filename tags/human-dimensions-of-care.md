@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: human-dimensions-of-care
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Human Dimensions Of Care

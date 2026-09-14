@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: life-course-model
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Life Course Model

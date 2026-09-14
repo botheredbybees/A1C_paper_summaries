@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: tactile-vision-sensory-substitution
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Tactile Vision Sensory Substitution

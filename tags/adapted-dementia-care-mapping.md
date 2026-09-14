@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: adapted-dementia-care-mapping
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Adapted Dementia Care Mapping

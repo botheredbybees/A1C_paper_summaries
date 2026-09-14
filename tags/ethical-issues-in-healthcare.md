@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ethical-issues-in-healthcare
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Ethical Issues In Healthcare

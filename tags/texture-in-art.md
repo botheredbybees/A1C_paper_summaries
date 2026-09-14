@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: texture-in-art
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Texture In Art

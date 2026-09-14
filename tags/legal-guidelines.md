@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: legal-guidelines
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Legal Guidelines

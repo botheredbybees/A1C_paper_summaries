@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: othering-narratives
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Othering Narratives

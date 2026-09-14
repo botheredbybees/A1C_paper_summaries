@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: romantic-era-criticism
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Romantic Era Criticism

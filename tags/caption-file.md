@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: caption-file
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Caption File

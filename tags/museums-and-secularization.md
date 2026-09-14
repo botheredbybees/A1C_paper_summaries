@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: museums-and-secularization
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Museums And Secularization

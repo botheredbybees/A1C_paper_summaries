@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: stereotypes-in-artistic-representation
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Stereotypes In Artistic Representation

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: mental-ill-health
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Mental Ill Health

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: puppetry-in-healthcare
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Puppetry In Healthcare

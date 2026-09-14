@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: questionnaire-study
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Questionnaire Study

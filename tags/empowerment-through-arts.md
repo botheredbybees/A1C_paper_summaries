@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: empowerment-through-arts
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Empowerment Through Arts

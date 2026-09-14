@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creativity-and-mental-health
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Creativity And Mental Health

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: workplace-stress-management
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Workplace Stress Management

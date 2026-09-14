@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: braille-alphabet
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Braille Alphabet

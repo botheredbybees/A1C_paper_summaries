@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: chronic-aphasia-rehabilitation
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Chronic Aphasia Rehabilitation

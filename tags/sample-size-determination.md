@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: sample-size-determination
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Sample Size Determination

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: musical-agency
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Musical Agency

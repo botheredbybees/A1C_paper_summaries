@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: collage-activity
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Collage Activity

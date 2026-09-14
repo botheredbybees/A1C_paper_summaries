@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-based-training
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Cognitive Based Training

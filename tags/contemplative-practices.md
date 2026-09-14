@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: contemplative-practices
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Contemplative Practices

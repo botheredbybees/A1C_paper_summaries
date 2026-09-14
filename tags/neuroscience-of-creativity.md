@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuroscience-of-creativity
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Neuroscience Of Creativity

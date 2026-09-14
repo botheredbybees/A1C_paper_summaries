@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-impact-of-art
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Social Impact Of Art

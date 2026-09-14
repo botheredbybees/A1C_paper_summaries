@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: naturalistic-methodologies
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Naturalistic Methodologies

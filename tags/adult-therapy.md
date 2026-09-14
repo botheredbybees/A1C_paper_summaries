@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: adult-therapy
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Adult Therapy

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: educational-barriers
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Educational Barriers

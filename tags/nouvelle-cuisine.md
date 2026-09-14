@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: nouvelle-cuisine
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Nouvelle Cuisine

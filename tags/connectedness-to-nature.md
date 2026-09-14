@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: connectedness-to-nature
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Connectedness To Nature

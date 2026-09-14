@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: emotional-regulation
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Emotional Regulation
@@ -26,3 +26,4 @@ updated: 2026-09-08
 - [Washing Dishes to Wash the Dishes: Brief Instruction in an Informal Mindfulness Practice](../sources/psy214-week00-washing-dishes-to-wash-the-dishes-brief-instruction-in-an.md)
 - [Positive Emotions as a Path to Well-being](../sources/psy214-week02-positive-emotions-as-a-path-to-well-being.md)
 - [Mechanisms of Mindfulness](../sources/psy214-week08-mechanisms-of-mindfulness.md)
+- [Positive Affect Interventions to Reduce Stress: Harnessing the Benefit While Avoiding the Pollyanna Trap](../sources/psy214-week10-positive-affect-interventions-to-reduce-stress-harnessing.md)

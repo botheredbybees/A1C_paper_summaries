@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: identity-formations
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Identity Formations

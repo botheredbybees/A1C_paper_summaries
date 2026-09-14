@@ -10,7 +10,8 @@ sources:
   - fxa303-week13-activity-activity-personalization-and-well-being-in-nursing
   - psy214-week00-gratitude-and-health-an-updated-review
   - psy214-week00-the-impact-of-signature-character-strengths-interventions-a
-updated: 2026-08-07
+  - psy214-week10-the-how-why-what-when-and-who-of-happiness-mechanisms
+updated: 2026-09-15
 ---
 
 ## Recreational Dance and Activity Personalization for Well-being
@@ -34,3 +35,4 @@ This synthesis explores interventions designed to improve the health and well-be
 - [fxa303-week13-activity-activity-personalization-and-well-being-in-nursing](../sources/fxa303-week13-activity-activity-personalization-and-well-being-in-nursing.md)
 - [psy214-week00-gratitude-and-health-an-updated-review](../sources/psy214-week00-gratitude-and-health-an-updated-review.md)
 - [psy214-week00-the-impact-of-signature-character-strengths-interventions-a](../sources/psy214-week00-the-impact-of-signature-character-strengths-interventions-a.md)
+- [psy214-week10-the-how-why-what-when-and-who-of-happiness-mechanisms](../sources/psy214-week10-the-how-why-what-when-and-who-of-happiness-mechanisms.md)

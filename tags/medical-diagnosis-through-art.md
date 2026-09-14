@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: medical-diagnosis-through-art
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Medical Diagnosis Through Art

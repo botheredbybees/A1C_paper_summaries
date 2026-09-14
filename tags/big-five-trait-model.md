@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: big-five-trait-model
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Big Five Trait Model

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: self-mastery
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Self Mastery

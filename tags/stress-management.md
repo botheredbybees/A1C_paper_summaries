@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: stress-management
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Stress Management
@@ -57,3 +57,5 @@ updated: 2026-09-08
 - [Practising Compassion and Self-Compassion](../sources/psy214-week09-lesson-psy214-week09-mindfulness-and-technology.md)
 - [Compassion and Self-Compassion in Mindfulness](../sources/psy214-week09-lesson-psy214-week09-week-11-introduction.md)
 - [Self-Compassion and Coping: a Meta-Analysis](../sources/psy214-week09-self-compassion-and-coping-a-meta-analysis.md)
+- [PSY114 PSY214 Stress, Self-Care and Mindfulness - Week 10 Wrap-up](../sources/psy214-week10-lesson-psy214-week10-week-7-wrap-up.md)
+- [Positive Affect Interventions to Reduce Stress: Harnessing the Benefit While Avoiding the Pollyanna Trap](../sources/psy214-week10-positive-affect-interventions-to-reduce-stress-harnessing.md)

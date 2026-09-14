@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: deafness-influence
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Deafness Influence

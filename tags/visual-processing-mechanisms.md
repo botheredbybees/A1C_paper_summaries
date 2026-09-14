@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: visual-processing-mechanisms
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Visual Processing Mechanisms

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: target-trial
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Target Trial

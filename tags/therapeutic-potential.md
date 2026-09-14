@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapeutic-potential
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Therapeutic Potential

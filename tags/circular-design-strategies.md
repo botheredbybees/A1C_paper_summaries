@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: circular-design-strategies
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Circular Design Strategies

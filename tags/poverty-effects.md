@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: poverty-effects
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Poverty Effects

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: constraint-induced-therapy
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Constraint Induced Therapy

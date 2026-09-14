@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: quasi-experimental-study
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Quasi Experimental Study

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: brain-imaging-analysis
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Brain Imaging Analysis

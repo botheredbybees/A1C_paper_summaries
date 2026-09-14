@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: therapy-manuals
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Therapy Manuals

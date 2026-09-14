@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: empathy-building
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Empathy Building

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: positive-psychology
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Positive Psychology
@@ -23,3 +23,10 @@ updated: 2026-09-08
 - [Leisure and well-being: the DRAMMA model](../sources/psy214-week05-leisure-and-well-being-the-dramma-model.md)
 - [Handbook of Well-Being](../sources/psy214-week06-handbook-of-well-being.md)
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness: Week 9 Assessment Overview](../sources/psy214-week09-lesson-psy214-week09-week-11-wrap-up.md)
+- [Acts of Kindness in Positive Psychology](../sources/psy214-week10-lesson-psy214-week10-altruism.md)
+- [Positive Activities: Moderators and Critiques](../sources/psy214-week10-lesson-psy214-week10-positive-psychology-interventions.md)
+- [How Positive Psychology Activities Work: Models and Mechanisms](../sources/psy214-week10-lesson-psy214-week10-positive-psychology-models-of-well.md)
+- [Positive Psychology 1: Concepts, Models, and Interventions](../sources/psy214-week10-lesson-psy214-week10-week-7-introduction.md)
+- [PSY114 PSY214 Stress, Self-Care and Mindfulness - Week 10 Wrap-up](../sources/psy214-week10-lesson-psy214-week10-week-7-wrap-up.md)
+- [Positive Psychology: Overview](../sources/psy214-week10-positive-psychology-overview.md)
+- [Positive Psychology Overview](../sources/psy214-week10-positive-psychology-overview-%282%29.md)

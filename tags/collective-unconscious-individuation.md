@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: collective-unconscious-individuation
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Collective Unconscious Individuation

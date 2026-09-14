@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: art-elicitation-technique
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Art Elicitation Technique

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: coronavirus
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Coronavirus

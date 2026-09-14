@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: traditional-treatment-methods
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Traditional Treatment Methods

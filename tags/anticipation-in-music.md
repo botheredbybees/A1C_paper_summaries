@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: anticipation-in-music
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Anticipation In Music

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: smiles-trial
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Smiles Trial

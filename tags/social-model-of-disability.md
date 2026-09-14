@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: social-model-of-disability
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Social Model Of Disability

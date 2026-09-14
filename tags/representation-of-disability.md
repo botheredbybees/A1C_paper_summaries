@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: representation-of-disability
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Representation Of Disability

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: lifestyle-based-interventions
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Lifestyle Based Interventions

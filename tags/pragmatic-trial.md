@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: pragmatic-trial
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Pragmatic Trial

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cochlear-spiral-ganglion
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Cochlear Spiral Ganglion

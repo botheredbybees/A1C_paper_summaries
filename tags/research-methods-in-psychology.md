@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: research-methods-in-psychology
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Research Methods In Psychology

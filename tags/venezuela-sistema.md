@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: venezuela-sistema
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Venezuela Sistema

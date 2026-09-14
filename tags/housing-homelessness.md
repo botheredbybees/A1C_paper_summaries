@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: housing-homelessness
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Housing Homelessness

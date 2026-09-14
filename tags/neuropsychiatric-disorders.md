@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neuropsychiatric-disorders
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Neuropsychiatric Disorders

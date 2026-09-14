@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: domain-specific-strategies
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Domain Specific Strategies

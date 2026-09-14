@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: co-creation-of-knowledge
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Co Creation Of Knowledge

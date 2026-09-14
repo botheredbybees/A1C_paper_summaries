@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: generation-gap
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Generation Gap

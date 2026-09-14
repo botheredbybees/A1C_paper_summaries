@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: individual-vs-group-sessions
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Individual Vs Group Sessions

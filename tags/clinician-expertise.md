@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: clinician-expertise
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Clinician Expertise

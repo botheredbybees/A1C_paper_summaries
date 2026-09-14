@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: overcoming-adversity-through-art
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Overcoming Adversity Through Art

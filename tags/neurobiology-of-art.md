@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: neurobiology-of-art
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Neurobiology Of Art

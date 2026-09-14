@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: post-traumatic-adaptation
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Post Traumatic Adaptation

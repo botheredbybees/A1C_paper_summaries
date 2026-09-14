@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: multidomain-cognitive-training
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Multidomain Cognitive Training

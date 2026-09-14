@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: digital-media-effects
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Digital Media Effects

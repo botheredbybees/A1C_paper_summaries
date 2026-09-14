@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: unmeasured-confounding
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Unmeasured Confounding

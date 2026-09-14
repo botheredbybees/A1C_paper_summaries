@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: acceptance-and-commitment-therapy
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Acceptance And Commitment Therapy

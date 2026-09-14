@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: trauma-informed-practice
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Trauma Informed Practice

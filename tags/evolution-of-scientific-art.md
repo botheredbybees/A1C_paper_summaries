@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: evolution-of-scientific-art
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Evolution Of Scientific Art

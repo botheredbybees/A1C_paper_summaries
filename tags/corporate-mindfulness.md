@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: corporate-mindfulness
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Corporate Mindfulness

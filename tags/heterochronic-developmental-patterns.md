@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: heterochronic-developmental-patterns
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Heterochronic Developmental Patterns

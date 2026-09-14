@@ -3,17 +3,19 @@ confidence: high
 domain: intervention
 slug: resilience
 sources:
-- fxa202-week06-critical-reflection-of-the-development-of-the-finding-joy
-- fxa202-week09-you-are-the-best-dancer
-- fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and
-- fxa301-week06-sing-while-you-work-the-well-being-benefits-of-workplace
-- fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and
-- fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth
+  - fxa202-week06-critical-reflection-of-the-development-of-the-finding-joy
+  - fxa202-week09-you-are-the-best-dancer
+  - fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and
+  - fxa301-week06-sing-while-you-work-the-well-being-benefits-of-workplace
+  - fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and
+  - fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth
+  - psy214-week09-self-compassion-and-coping-a-meta-analysis
+  - psy214-week10-positive-psychology-overview
 tags:
 - resilience
 title: Resilience
 type: topic
-updated: 2026-05-04
+updated: 2026-09-15
 ---
 
 ## Resilience
@@ -38,3 +40,5 @@ The concept of resilience is a central theme across multiple sources. Resilience
 - [fxa301-week06-sing-while-you-work-the-well-being-benefits-of-workplace](../sources/fxa301-week06-sing-while-you-work-the-well-being-benefits-of-workplace.md)
 - [fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and](../sources/fxa303-week03-the-role-of-arts-activities-in-developing-resilience-and.md)
 - [fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth](../sources/fxa303-week10-resilience-and-hope-exploring-immigrant-and-refugee-youth.md)
+- [psy214-week09-self-compassion-and-coping-a-meta-analysis](../sources/psy214-week09-self-compassion-and-coping-a-meta-analysis.md)
+- [psy214-week10-positive-psychology-overview](../sources/psy214-week10-positive-psychology-overview.md)

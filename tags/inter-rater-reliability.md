@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: inter-rater-reliability
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Inter Rater Reliability

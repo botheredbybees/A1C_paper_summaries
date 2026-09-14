@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: posterior-superior-temporal-gyrus
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Posterior Superior Temporal Gyrus

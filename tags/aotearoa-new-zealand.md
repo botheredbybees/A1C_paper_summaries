@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: aotearoa-new-zealand
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Aotearoa New Zealand

@@ -23,11 +23,14 @@ sources:
   - psy214-week09-lesson-psy214-week09-week-11-introduction
   - psy214-week09-lesson-psy214-week09-week-11-wrap-up
   - psy214-week09-models-of-compassion-and-self-compassion
+  - psy214-week10-lesson-psy214-week10-altruism
+  - psy214-week10-lesson-psy214-week10-positive-interventions
+  - psy214-week10-lesson-psy214-week10-positive-psychology-interventions
 tags:
 - mindfulness
 title: Mindfulness and Therapeutic Photography
 type: topic
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Mindfulness and Therapeutic Photography
@@ -66,3 +69,6 @@ The integration of mindfulness with therapeutic photography emerges as a signifi
 - [psy214-week09-lesson-psy214-week09-week-11-introduction](../sources/psy214-week09-lesson-psy214-week09-week-11-introduction.md)
 - [psy214-week09-lesson-psy214-week09-week-11-wrap-up](../sources/psy214-week09-lesson-psy214-week09-week-11-wrap-up.md)
 - [psy214-week09-models-of-compassion-and-self-compassion](../sources/psy214-week09-models-of-compassion-and-self-compassion.md)
+- [psy214-week10-lesson-psy214-week10-altruism](../sources/psy214-week10-lesson-psy214-week10-altruism.md)
+- [psy214-week10-lesson-psy214-week10-positive-interventions](../sources/psy214-week10-lesson-psy214-week10-positive-interventions.md)
+- [psy214-week10-lesson-psy214-week10-positive-psychology-interventions](../sources/psy214-week10-lesson-psy214-week10-positive-psychology-interventions.md)

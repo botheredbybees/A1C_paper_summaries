@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-effects-of-dance
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Cognitive Effects Of Dance

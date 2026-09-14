@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: well-being
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Well Being
@@ -34,3 +34,10 @@ updated: 2026-09-08
 - [The Connectedness to Nature Scale (CNS)](../sources/psy214-week06-the-connectedness-to-nature-scale-cns.md)
 - [Mindfulness-Based Social Work and Self-Care with Social Work Professionals: Replication and Expansion of a Randomised Controlled Trial](../sources/psy214-week07-mindfulness-based-social-work-and-self-care-with-social.md)
 - [Effect of Kindness-Based Meditation on Health and Well-Being: A Systematic Review and Meta-Analysis](../sources/psy214-week09-effect-of-kindness-based-meditation-on-health-and-well.md)
+- [Positive Activities: Moderators and Critiques](../sources/psy214-week10-lesson-psy214-week10-positive-psychology-interventions.md)
+- [How Positive Psychology Activities Work: Models and Mechanisms](../sources/psy214-week10-lesson-psy214-week10-positive-psychology-models-of-well.md)
+- [Positive Psychology 1: Concepts, Models, and Interventions](../sources/psy214-week10-lesson-psy214-week10-week-7-introduction.md)
+- [Positive Affect Interventions to Reduce Stress: Harnessing the Benefit While Avoiding the Pollyanna Trap](../sources/psy214-week10-positive-affect-interventions-to-reduce-stress-harnessing.md)
+- [Positive Emotions: The Good, The Bad, The Inert, and The Complicated](../sources/psy214-week10-positive-emotions-the-good-the-bad-the-inert-and-the.md)
+- [Positive Psychology: Overview](../sources/psy214-week10-positive-psychology-overview.md)
+- [Positive Psychology Overview](../sources/psy214-week10-positive-psychology-overview-%282%29.md)

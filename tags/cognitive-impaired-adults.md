@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: cognitive-impaired-adults
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Cognitive Impaired Adults

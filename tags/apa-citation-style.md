@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: apa-citation-style
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Apa Citation Style

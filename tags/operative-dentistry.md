@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: operative-dentistry
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Operative Dentistry

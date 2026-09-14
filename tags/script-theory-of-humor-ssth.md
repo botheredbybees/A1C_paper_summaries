@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: script-theory-of-humor-ssth
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Script Theory Of Humor Ssth

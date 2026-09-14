@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: coping-mechanisms
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Coping Mechanisms

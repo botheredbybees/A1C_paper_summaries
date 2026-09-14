@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: right-to-make-art
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Right To Make Art

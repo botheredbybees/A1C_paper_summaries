@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: college-student-mental-health
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## College Student Mental Health

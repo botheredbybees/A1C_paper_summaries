@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: designerly-way-of-knowing
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Designerly Way Of Knowing

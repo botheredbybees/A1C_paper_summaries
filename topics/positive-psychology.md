@@ -20,11 +20,18 @@ sources:
   - psy214-week05-leisure-and-well-being-the-dramma-model
   - psy214-week06-handbook-of-well-being
   - psy214-week09-lesson-psy214-week09-week-11-wrap-up
+  - psy214-week10-lesson-psy214-week10-altruism
+  - psy214-week10-lesson-psy214-week10-positive-psychology-interventions
+  - psy214-week10-lesson-psy214-week10-positive-psychology-models-of-well
+  - psy214-week10-lesson-psy214-week10-week-7-introduction
+  - psy214-week10-lesson-psy214-week10-week-7-wrap-up
+  - psy214-week10-positive-psychology-overview
+  - psy214-week10-positive-psychology-overview-(2)
 tags:
 - positive-psychology
 title: Positive Psychology and Resilience
 type: topic
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Positive Psychology and Resilience
@@ -60,3 +67,10 @@ Positive psychology focuses on fostering resilience and well-being through the d
 - [psy214-week05-leisure-and-well-being-the-dramma-model](../sources/psy214-week05-leisure-and-well-being-the-dramma-model.md)
 - [psy214-week06-handbook-of-well-being](../sources/psy214-week06-handbook-of-well-being.md)
 - [psy214-week09-lesson-psy214-week09-week-11-wrap-up](../sources/psy214-week09-lesson-psy214-week09-week-11-wrap-up.md)
+- [psy214-week10-lesson-psy214-week10-altruism](../sources/psy214-week10-lesson-psy214-week10-altruism.md)
+- [psy214-week10-lesson-psy214-week10-positive-psychology-interventions](../sources/psy214-week10-lesson-psy214-week10-positive-psychology-interventions.md)
+- [psy214-week10-lesson-psy214-week10-positive-psychology-models-of-well](../sources/psy214-week10-lesson-psy214-week10-positive-psychology-models-of-well.md)
+- [psy214-week10-lesson-psy214-week10-week-7-introduction](../sources/psy214-week10-lesson-psy214-week10-week-7-introduction.md)
+- [psy214-week10-lesson-psy214-week10-week-7-wrap-up](../sources/psy214-week10-lesson-psy214-week10-week-7-wrap-up.md)
+- [psy214-week10-positive-psychology-overview](../sources/psy214-week10-positive-psychology-overview.md)
+- [psy214-week10-positive-psychology-overview-(2)](../sources/psy214-week10-positive-psychology-overview-%282%29.md)

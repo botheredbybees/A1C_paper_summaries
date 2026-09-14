@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: pierre-bourdieu
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Pierre Bourdieu

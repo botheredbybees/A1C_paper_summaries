@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: individual-differences-in-musical-taste
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Individual Differences In Musical Taste

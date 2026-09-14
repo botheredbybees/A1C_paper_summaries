@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dementia-friendly-performances
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Dementia Friendly Performances

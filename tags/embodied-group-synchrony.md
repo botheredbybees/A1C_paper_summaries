@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: embodied-group-synchrony
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Embodied Group Synchrony

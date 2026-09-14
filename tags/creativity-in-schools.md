@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: creativity-in-schools
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Creativity In Schools

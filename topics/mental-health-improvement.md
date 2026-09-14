@@ -9,7 +9,8 @@ sources:
   - fxa202-week13-through-creative-lenses-investigating-the-personal-growth
   - fxa303-week11-effects-of-choir-singing-on-mental-health-results-of-an
   - fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic
-updated: 2026-05-18
+  - psy214-week10-the-how-why-what-when-and-who-of-happiness-mechanisms
+updated: 2026-09-15
 ---
 
 ## Mental Health Improvement Through Creative Arts
@@ -32,3 +33,4 @@ The sources collectively explore various creative arts interventions aimed at en
 - [fxa202-week13-through-creative-lenses-investigating-the-personal-growth](../sources/fxa202-week13-through-creative-lenses-investigating-the-personal-growth.md)
 - [fxa303-week11-effects-of-choir-singing-on-mental-health-results-of-an](../sources/fxa303-week11-effects-of-choir-singing-on-mental-health-results-of-an.md)
 - [fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic](../sources/fxa303-week11-fxa303-week-11-creative-arts-projects-and-therapeutic.md)
+- [psy214-week10-the-how-why-what-when-and-who-of-happiness-mechanisms](../sources/psy214-week10-the-how-why-what-when-and-who-of-happiness-mechanisms.md)

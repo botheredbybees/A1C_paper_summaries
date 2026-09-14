@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: environmental-factors-in-disease-causation
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Environmental Factors In Disease Causation

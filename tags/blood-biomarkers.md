@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: blood-biomarkers
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Blood Biomarkers

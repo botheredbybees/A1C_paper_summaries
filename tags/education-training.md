@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: education-training
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Education Training

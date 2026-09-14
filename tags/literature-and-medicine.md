@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: literature-and-medicine
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Literature And Medicine

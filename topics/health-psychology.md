@@ -11,11 +11,12 @@ sources:
   - fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental
   - psy214-week01-lesson-psy214-week01-stress-as-a-psychological-process
   - psy214-week02-positive-emotions-and-well-being
+  - psy214-week10-positive-affect-interventions-to-reduce-stress-harnessing
 tags:
 - health-psychology
 title: Music and Health Interventions
 type: topic
-updated: 2026-09-07
+updated: 2026-09-15
 ---
 
 ## Music and Health Interventions
@@ -42,3 +43,4 @@ The integration of music in health interventions highlights its therapeutic pote
 - [fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental](../sources/fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental.md)
 - [psy214-week01-lesson-psy214-week01-stress-as-a-psychological-process](../sources/psy214-week01-lesson-psy214-week01-stress-as-a-psychological-process.md)
 - [psy214-week02-positive-emotions-and-well-being](../sources/psy214-week02-positive-emotions-and-well-being.md)
+- [psy214-week10-positive-affect-interventions-to-reduce-stress-harnessing](../sources/psy214-week10-positive-affect-interventions-to-reduce-stress-harnessing.md)

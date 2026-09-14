@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: electroencephalography-eeg
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Electroencephalography Eeg

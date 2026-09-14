@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: pain-reduction-strategies
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Pain Reduction Strategies

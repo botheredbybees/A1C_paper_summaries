@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: musical-preference-individual-differences
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Musical Preference Individual Differences

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: krumhansl-and-kesslers-probe-tone-paradigm
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Krumhansl And Kesslers Probe Tone Paradigm

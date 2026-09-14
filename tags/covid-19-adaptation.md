@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: covid-19-adaptation
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Covid 19 Adaptation

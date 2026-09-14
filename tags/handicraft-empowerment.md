@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: handicraft-empowerment
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Handicraft Empowerment

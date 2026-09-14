@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: juxtaposition-in-sequence
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Juxtaposition In Sequence

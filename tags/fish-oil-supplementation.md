@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: fish-oil-supplementation
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Fish Oil Supplementation

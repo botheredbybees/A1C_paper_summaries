@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: biomarkers-of-agitation
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Biomarkers Of Agitation

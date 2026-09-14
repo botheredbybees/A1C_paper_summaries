@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: primary-healthcare
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Primary Healthcare

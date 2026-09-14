@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: peace-promotion
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Peace Promotion

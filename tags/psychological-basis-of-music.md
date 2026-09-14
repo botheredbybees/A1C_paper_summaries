@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: psychological-basis-of-music
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Psychological Basis Of Music

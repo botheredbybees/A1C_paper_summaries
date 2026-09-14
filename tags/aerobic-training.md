@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: aerobic-training
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Aerobic Training

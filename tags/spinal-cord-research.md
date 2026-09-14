@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: spinal-cord-research
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Spinal Cord Research

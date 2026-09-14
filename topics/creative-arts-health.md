@@ -10,11 +10,12 @@ sources:
   - fxa303-week13-therapeutic-clowns-in-pediatrics-a-systematic-review-and
   - psy214-week01-coping-notes-slides
   - psy214-week08-mindfulness-meditation-what-it-is-and-isnt
+  - psy214-week10-the-how-why-what-when-and-who-of-happiness-mechanisms
 tags:
 - creative-arts-health
 title: Creative Arts in Health Interventions
 type: topic
-updated: 2026-08-31
+updated: 2026-09-15
 ---
 
 ## Creative Arts in Health Interventions
@@ -40,3 +41,4 @@ The integration of creative arts into health interventions presents a multifacet
 - [fxa303-week13-therapeutic-clowns-in-pediatrics-a-systematic-review-and](../sources/fxa303-week13-therapeutic-clowns-in-pediatrics-a-systematic-review-and.md)
 - [psy214-week01-coping-notes-slides](../sources/psy214-week01-coping-notes-slides.md)
 - [psy214-week08-mindfulness-meditation-what-it-is-and-isnt](../sources/psy214-week08-mindfulness-meditation-what-it-is-and-isnt.md)
+- [psy214-week10-the-how-why-what-when-and-who-of-happiness-mechanisms](../sources/psy214-week10-the-how-why-what-when-and-who-of-happiness-mechanisms.md)

@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: stable-factors
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Stable Factors

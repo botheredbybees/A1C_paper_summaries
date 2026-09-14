@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: dual-pathway-model
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Dual Pathway Model

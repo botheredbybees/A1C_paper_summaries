@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: agitation-in-dementia
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Agitation In Dementia

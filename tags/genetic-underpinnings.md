@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: genetic-underpinnings
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Genetic Underpinnings

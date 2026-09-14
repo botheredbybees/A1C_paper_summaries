@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: ethical-concerns
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Ethical Concerns

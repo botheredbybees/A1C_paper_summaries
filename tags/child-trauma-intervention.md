@@ -1,7 +1,7 @@
 ---
 type: tag
 tag: child-trauma-intervention
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Child Trauma Intervention

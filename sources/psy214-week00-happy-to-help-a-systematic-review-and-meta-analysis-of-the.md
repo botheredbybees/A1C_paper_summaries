@@ -7,13 +7,15 @@ doi: https://doi.org/10.1016/j.jesp.2018.02.014
 appearances:
   - unit: PSY214
     week: "00"
+  - unit: PSY214
+    week: "10"
 tags: ["social-psychology", "kindness-effects", "well-being-research", "systematic-review", "meta-analysis", "psy214", "kin-altruism", "reciprocal-altruism", "mutualism"]
 key_concepts: ["kin altruism", "reciprocal altruism", "subjective well-being", "mutualism"]
 methods: ["systematic review", "meta-analysis"]
 slug: psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the
 related: ["meta-analysis", "social-psychology", "systematic-review", "well-being-research"]
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-09-15
 ---
 
 _All claims sourced from ../raw/pdf/psy214-week00-happy-to-help-a-systematic-review-and-meta-analysis-of-the.md_
