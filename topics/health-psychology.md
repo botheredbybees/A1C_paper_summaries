@@ -8,6 +8,7 @@ sources:
   - fxa202-week03-lecture-transcript-week-3-the-photo-essay
   - fxa300-week08-lesson-fxa300-week08-page-4-activities
   - fxa300-week09-listening-to-music-and-physiological-and-psychological
+  - fxa300-week10-transcript-duration-450
   - fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental
   - psy214-week01-lesson-psy214-week01-stress-as-a-psychological-process
   - psy214-week02-positive-emotions-and-well-being
@@ -40,6 +41,7 @@ The integration of music in health interventions highlights its therapeutic pote
 - [fxa202-week03-lecture-transcript-week-3-the-photo-essay](../sources/fxa202-week03-lecture-transcript-week-3-the-photo-essay.md)
 - [fxa300-week08-lesson-fxa300-week08-page-4-activities](../sources/fxa300-week08-lesson-fxa300-week08-page-4-activities.md)
 - [fxa300-week09-listening-to-music-and-physiological-and-psychological](../sources/fxa300-week09-listening-to-music-and-physiological-and-psychological.md)
+- [fxa300-week10-transcript-duration-450](../sources/fxa300-week10-transcript-duration-450.md)
 - [fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental](../sources/fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental.md)
 - [psy214-week01-lesson-psy214-week01-stress-as-a-psychological-process](../sources/psy214-week01-lesson-psy214-week01-stress-as-a-psychological-process.md)
 - [psy214-week02-positive-emotions-and-well-being](../sources/psy214-week02-positive-emotions-and-well-being.md)

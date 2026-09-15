@@ -11,7 +11,7 @@ tags: ["brain-morphometry", "musical-practice", "neural-plasticity", "brain-deve
 key_concepts: ["brain plasticity", "long-term practice", "deformation-based morphometry"]
 methods: ["systematic review", "T1-weighted MR images", "deformation-based morphometry"]
 slug: fxa300-week07-brain-morphometry-shows-effects-of-long-term-musical
-related: ["brain-development", "brain-plasticity"]
+related: ["brain-development", "brain-plasticity", "professional-musicians"]
 created: 2026-08-17
 updated: 2026-08-17
 ---
@@ -48,3 +48,4 @@ This study investigates the effects of long-term musical practice on brain struc
 
 - [brain-development](../topics/brain-development.md)
 - [brain-plasticity](../topics/brain-plasticity.md)
+- [professional-musicians](../topics/professional-musicians.md)

@@ -11,7 +11,7 @@ tags: ["therapeutic-photography", "self-help-strategies", "emotional-coping", "f
 key_concepts: ["therapeutic photography", "case study analysis", "emotional resolution"]
 methods: ["case study"]
 slug: fxa202-week03-therapeutic-photography
-related: ["emotional-coping", "therapeutic-photography"]
+related: ["emotional-coping", "self-help-strategies", "therapeutic-photography"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -42,4 +42,5 @@ This chapter explores the application of therapeutic photography in addressing p
 ## See Also
 
 - [emotional-coping](../topics/emotional-coping.md)
+- [self-help-strategies](../topics/self-help-strategies.md)
 - [therapeutic-photography](../topics/therapeutic-photography.md)

@@ -11,3 +11,4 @@ updated: 2026-09-15
 - [A synthesis process model of creative thinking in music composition](../sources/fxa300-week07-a-synthesis-process-model-of-creative-thinking-in-music.md)
 - [Musical Creativity and the Brain](../sources/fxa300-week07-musical-creativity-and-the-brain.md)
 - [The effects of music exposure and own genre preference on conscious and unconscious cognitive processes: A pilot ERP study](../sources/fxa300-week09-the-effects-of-music-exposure-and-own-genre-preference-on.md)
+- [Introducing Music Psychology](../sources/fxa300-week10-introducing-music-psychology.md)

@@ -7,6 +7,7 @@ updated: 2026-09-15
 ## Social Support
 
 - [House of Memories | National Museums Liverpool](../sources/fxa100-week07-house-of-memories-national-museums-liverpool.md)
+- [Social Anxiety Influences the Stress-buffering Potential of Social Presence: Evidence From Cardiovascular and Affective Reactivity Under Stress](../sources/fxa300-week10-social-anxiety-influences-the-stress-buffering-potential-of.md)
 - [Stroke Choirs | Stroke Recovery Association NSW](../sources/fxa301-week09-stroke-choirs-stroke-recovery-association-nsw.md)
 - [The Effect of a Creative Art Program on Self-Esteem, Hope, Perceived Social Support, and Self-Efficacy in Individuals With Multiple Sclerosis: A Pilot Study](../sources/fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope.md)
 - [Sing Your Heart Out: community singing as part of mental health recovery](../sources/fxa301-week10-sing-your-heart-out-community-singing-as-part-of-mental.md)

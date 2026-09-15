@@ -13,6 +13,7 @@ updated: 2026-09-15
 - [Music therapy interventions in Parkinson\u2019s disease: the state-of-the-art](../sources/fxa300-week08-music-therapy-interventions-in-parkinsons-disease-the-state.md)
 - [Sensory Stimulation and Music Therapy Programs for Treating Disorders of Consciousness](../sources/fxa300-week08-sensory-stimulation-and-music-therapy-programs-for-treating.md)
 - [Transdiagnostic Theory for Group Music Therapy in Mental Health Settings](../sources/fxa300-week09-transdiagnostic-theory-for-group-music-therapy-in-mental.md)
+- [Therapeutic Interventions for Music Performance Anxiety: A Systematic Review and Narrative Synthesis](../sources/fxa300-week10-therapeutic-interventions-for-music-performance-anxiety-a.md)
 - [Introduction to the field of creative arts, wellbeing, and health: achievements and current challenges](../sources/fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1.md)
 - [Editor\u2019s Introduction: Arts and Community Engagement: Intersect Music, Dance and Drama in Arts Education, Arts Therapy, and Arts Practice with Community Engagement Projects](../sources/fxa301-week01-editors-introduction-arts-and-community-engagement.md)
 - [The Use of Music Therapy in the Treatment of Mental Illness and the Enhancement of Societal Wellbeing](../sources/fxa301-week10-the-use-of-music-therapy-in-the-treatment-of-mental-illness.md)

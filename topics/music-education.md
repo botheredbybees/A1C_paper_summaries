@@ -18,6 +18,11 @@ sources:
   - fxa300-week06-the-effect-of-instrumental-music-participation-and
   - fxa300-week08-concluding-remarks
   - fxa300-week08-musical-development-and-education
+  - fxa300-week10-an-online-descriptive-study-of-music-educator-and-performer
+  - fxa300-week10-investigating-musical-performance-anxiety-among-music
+  - fxa300-week10-mapping-the-relationship-between-flow-experience-and-music
+  - fxa300-week10-musical-performance-anxiety-a-review-of-literature
+  - fxa300-week10-r3-the-triumvirate-of-theory-research-and-practice
   - fxa301-week01-culture-of-inquiry
   - fxa301-week05-an-education-in-music-makes-you-a-better-employee-are
   - fxa301-week05-fading-notes-music-education-for-the-next-generation-of
@@ -40,7 +45,7 @@ tags:
 - music-education
 title: Music Education and Its Broader Impacts
 type: topic
-updated: 2026-08-31
+updated: 2026-09-15
 ---
 
 ## Music Education and Its Broader Impacts
@@ -74,6 +79,11 @@ The provided sources highlight the multifaceted benefits of music education in f
 - [fxa300-week06-the-effect-of-instrumental-music-participation-and](../sources/fxa300-week06-the-effect-of-instrumental-music-participation-and.md)
 - [fxa300-week08-concluding-remarks](../sources/fxa300-week08-concluding-remarks.md)
 - [fxa300-week08-musical-development-and-education](../sources/fxa300-week08-musical-development-and-education.md)
+- [fxa300-week10-an-online-descriptive-study-of-music-educator-and-performer](../sources/fxa300-week10-an-online-descriptive-study-of-music-educator-and-performer.md)
+- [fxa300-week10-investigating-musical-performance-anxiety-among-music](../sources/fxa300-week10-investigating-musical-performance-anxiety-among-music.md)
+- [fxa300-week10-mapping-the-relationship-between-flow-experience-and-music](../sources/fxa300-week10-mapping-the-relationship-between-flow-experience-and-music.md)
+- [fxa300-week10-musical-performance-anxiety-a-review-of-literature](../sources/fxa300-week10-musical-performance-anxiety-a-review-of-literature.md)
+- [fxa300-week10-r3-the-triumvirate-of-theory-research-and-practice](../sources/fxa300-week10-r3-the-triumvirate-of-theory-research-and-practice.md)
 - [fxa301-week01-culture-of-inquiry](../sources/fxa301-week01-culture-of-inquiry.md)
 - [fxa301-week05-an-education-in-music-makes-you-a-better-employee-are](../sources/fxa301-week05-an-education-in-music-makes-you-a-better-employee-are.md)
 - [fxa301-week05-fading-notes-music-education-for-the-next-generation-of](../sources/fxa301-week05-fading-notes-music-education-for-the-next-generation-of.md)

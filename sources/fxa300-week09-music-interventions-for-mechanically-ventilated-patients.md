@@ -11,7 +11,7 @@ tags: ["music-therapy", "mechanical-ventilation", "patient-care", "systematic-re
 key_concepts: ["music interventions", "mechanically ventilated patients", "anxiety reduction", "physiological functioning"]
 methods: ["systematic review", "meta-analysis"]
 slug: fxa300-week09-music-interventions-for-mechanically-ventilated-patients
-related: ["anxiety-reduction", "music-interventions-and-cognitive-health", "music-therapy", "neuropsychiatry", "patient-care", "systematic-review"]
+related: ["anxiety-reduction", "music-interventions-and-cognitive-health", "music-therapy", "neuropsychiatry", "patient-care", "physiological-functioning", "systematic-review"]
 created: 2026-09-07
 updated: 2026-09-07
 ---
@@ -51,4 +51,5 @@ This systematic review, originally published in 2010 and updated in 2014, invest
 - [music-therapy](../topics/music-therapy.md)
 - [neuropsychiatry](../topics/neuropsychiatry.md)
 - [patient-care](../topics/patient-care.md)
+- [physiological-functioning](../topics/physiological-functioning.md)
 - [systematic-review](../topics/systematic-review.md)

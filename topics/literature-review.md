@@ -3,13 +3,15 @@ confidence: medium
 domain: intervention
 slug: child-centered-play-therapy-and-puppet-use-in-autism-interventions
 sources:
+  - fxa300-week10-corrigendum-to-occupational-injuries-in-musicians-a
+  - fxa300-week10-musicians-postural-quality-and-musculoskeletal-health-a
   - fxa303-week04-child-centered-play-therapy-as-an-intervention-for-children
   - fxa303-week05-puppet-as-a-pedagogical-tool-a-literature-review
 tags:
 - literature-review
 title: Child-Centered Play Therapy and Puppet Use in Autism Interventions
 type: topic
-updated: 2026-05-11
+updated: 2026-09-15
 ---
 
 ## Child-Centered Play Therapy and Puppet Use in Autism Interventions
@@ -28,5 +30,7 @@ This literature review synthesizes findings from interventions aimed at supporti
 
 ## Sources
 
+- [fxa300-week10-corrigendum-to-occupational-injuries-in-musicians-a](../sources/fxa300-week10-corrigendum-to-occupational-injuries-in-musicians-a.md)
+- [fxa300-week10-musicians-postural-quality-and-musculoskeletal-health-a](../sources/fxa300-week10-musicians-postural-quality-and-musculoskeletal-health-a.md)
 - [fxa303-week04-child-centered-play-therapy-as-an-intervention-for-children](../sources/fxa303-week04-child-centered-play-therapy-as-an-intervention-for-children.md)
 - [fxa303-week05-puppet-as-a-pedagogical-tool-a-literature-review](../sources/fxa303-week05-puppet-as-a-pedagogical-tool-a-literature-review.md)

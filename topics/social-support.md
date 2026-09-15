@@ -4,6 +4,7 @@ domain: intervention
 slug: social-support-in-healthcare-and-recovery
 sources:
   - fxa100-week07-house-of-memories-national-museums-liverpool
+  - fxa300-week10-social-anxiety-influences-the-stress-buffering-potential-of
   - fxa301-week09-stroke-choirs-stroke-recovery-association-nsw
   - fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope
   - fxa301-week10-sing-your-heart-out-community-singing-as-part-of-mental
@@ -13,7 +14,7 @@ tags:
 - social-support
 title: Social Support in Healthcare and Recovery
 type: topic
-updated: 2026-05-11
+updated: 2026-09-15
 ---
 
 ## Social Support in Healthcare and Recovery
@@ -33,6 +34,7 @@ The integration of social support interventions across diverse healthcare contex
 ## Sources
 
 - [fxa100-week07-house-of-memories-national-museums-liverpool](../sources/fxa100-week07-house-of-memories-national-museums-liverpool.md)
+- [fxa300-week10-social-anxiety-influences-the-stress-buffering-potential-of](../sources/fxa300-week10-social-anxiety-influences-the-stress-buffering-potential-of.md)
 - [fxa301-week09-stroke-choirs-stroke-recovery-association-nsw](../sources/fxa301-week09-stroke-choirs-stroke-recovery-association-nsw.md)
 - [fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope](../sources/fxa301-week09-the-effect-of-a-creative-art-program-on-self-esteem-hope.md)
 - [fxa301-week10-sing-your-heart-out-community-singing-as-part-of-mental](../sources/fxa301-week10-sing-your-heart-out-community-singing-as-part-of-mental.md)

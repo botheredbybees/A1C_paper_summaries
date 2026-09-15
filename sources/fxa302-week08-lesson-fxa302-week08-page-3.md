@@ -11,7 +11,7 @@ tags: ["mental-health", "artistic-expression", "romantic-period", "confessional-
 key_concepts: ["confessional literature", "focal dystonia", "hallucinations"]
 methods: []
 slug: fxa302-week08-lesson-fxa302-week08-page-3
-related: ["artistic-expression", "mental-health"]
+related: ["artistic-expression", "focal-dystonia", "mental-health"]
 created: 2026-08-31
 updated: 2026-08-31
 ---
@@ -42,4 +42,5 @@ This lesson explores the interplay between mental health issues and artistic exp
 ## See Also
 
 - [artistic-expression](../topics/artistic-expression.md)
+- [focal-dystonia](../topics/focal-dystonia.md)
 - [mental-health](../topics/mental-health.md)

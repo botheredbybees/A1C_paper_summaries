@@ -11,6 +11,7 @@ sources:
   - fxa101-week10-week-3-lecture-fxa101-creativity-for-life
   - fxa202-week08-journal-and-visual-research-guidelines
   - fxa300-week09-music-therapy-in-mental-health-for-illness-management-and
+  - fxa300-week10-can-music-make-you-sick-measuring-the-price-of-musical
   - fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1
   - fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-(2)
   - fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2)
@@ -93,6 +94,7 @@ The integration of findings from both sources highlights the multifaceted benefi
 - [fxa101-week10-week-3-lecture-fxa101-creativity-for-life](../sources/fxa101-week10-week-3-lecture-fxa101-creativity-for-life.md)
 - [fxa202-week08-journal-and-visual-research-guidelines](../sources/fxa202-week08-journal-and-visual-research-guidelines.md)
 - [fxa300-week09-music-therapy-in-mental-health-for-illness-management-and](../sources/fxa300-week09-music-therapy-in-mental-health-for-illness-management-and.md)
+- [fxa300-week10-can-music-make-you-sick-measuring-the-price-of-musical](../sources/fxa300-week10-can-music-make-you-sick-measuring-the-price-of-musical.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1](../sources/fxa301-oxford-textbook-of-creative-arts-ch06-chapter-1.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch14-chapter-30-%282%29.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-(2)](../sources/fxa301-oxford-textbook-of-creative-arts-ch15-2013-a-six-%282%29.md)

@@ -5,9 +5,10 @@ title: "Self-Care Practices for Mental Health Professionals"
 confidence: medium
 tags: ["mental-health-professionals"]
 sources:
+  - fxa300-week10-psychological-well-being-in-professional-orchestral
   - fxa303-week09-treating-the-trauma-survivor-an-essential-guide-to-trauma
   - psy214-week07-mindfulness-and-acceptance-based-trainings-for-fostering
-updated: 2026-08-07
+updated: 2026-09-15
 ---
 
 ## Self-Care Practices for Mental Health Professionals
@@ -26,5 +27,6 @@ The synthesis of the provided sources highlights the critical role of self-care 
 
 ## Sources
 
+- [fxa300-week10-psychological-well-being-in-professional-orchestral](../sources/fxa300-week10-psychological-well-being-in-professional-orchestral.md)
 - [fxa303-week09-treating-the-trauma-survivor-an-essential-guide-to-trauma](../sources/fxa303-week09-treating-the-trauma-survivor-an-essential-guide-to-trauma.md)
 - [psy214-week07-mindfulness-and-acceptance-based-trainings-for-fostering](../sources/psy214-week07-mindfulness-and-acceptance-based-trainings-for-fostering.md)

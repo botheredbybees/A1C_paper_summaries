@@ -14,6 +14,8 @@ updated: 2026-09-15
 - [The handbook of phototherapy and therapeutic photography: For the professional and activist client](../sources/fxa202-week13-the-handbook-of-phototherapy-and-therapeutic-photography-%282%29.md)
 - [Epilogue: Ruminations on Music Psychology](../sources/fxa300-week02-epilogue-ruminations-on-music-psychology.md)
 - [Music and Memory: An Introduction (review)](../sources/fxa300-week03-music-and-memory-an-introduction-review.md)
+- [Introducing Music Psychology](../sources/fxa300-week10-introducing-music-psychology.md)
+- [Perspectives in Performing Arts Medicine Practice: A Multidisciplinary Approach](../sources/fxa300-week10-perspectives-in-performing-arts-medicine-practice-a.md)
 - [Aesop: A Framework for Developing and Researching Arts in Health Programmes](../sources/fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-%282%29.md)
 - [Aesop: A Framework for Developing and Researching Arts in Health Programmes](../sources/fxa301-week01-aesop-a-framework-for-developing-and-researching-arts-in-%283%29.md)
 - [An introduction to research](../sources/fxa301-week01-an-introduction-to-research.md)

@@ -7,13 +7,15 @@ doi: https://doi.org/10.4324/9781003460244-8
 appearances:
   - unit: FXA300
     week: "04"
+  - unit: FXA300
+    week: "10"
 tags: ["auditory-perception", "sound-localization", "music-psychology", "fxa300", "hearing-mechanics", "sound-wave-transduction"]
 key_concepts: ["auditory-system", "hearing-mechanics", "sound-wave-transduction"]
 methods: []
 slug: fxa300-week04-musical-hearing
 related: ["auditory-perception", "hearing-mechanics", "music-psychology"]
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-09-15
 ---
 
 _All claims sourced from ../raw/pdf/fxa300-week04-musical-hearing.md_

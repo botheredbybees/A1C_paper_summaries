@@ -11,7 +11,7 @@ tags: ["cronbachs-alpha", "cross-cultural-research", "de-jong-gierveld-lonelines
 key_concepts: ["De Jong Gierveld Loneliness Scale", "Weiss\u2019s distinction", "Cronbach's alpha"]
 methods: ["validation study", "community-dwelling sample"]
 slug: fxa100-week13-validation-of-the-chinese-translation-of-the-6-item-de-jong
-related: ["cross-cultural-research", "elderly-health"]
+related: ["cronbachs-alpha", "cross-cultural-research", "elderly-health"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -40,5 +40,6 @@ This study validates the Chinese translation of the 6-item De Jong Gierveld Lone
 
 ## See Also
 
+- [cronbachs-alpha](../topics/cronbachs-alpha.md)
 - [cross-cultural-research](../topics/cross-cultural-research.md)
 - [elderly-health](../topics/elderly-health.md)

@@ -11,7 +11,7 @@ tags: ["mindfulness-based-interventions", "stress-management", "mental-health-pr
 key_concepts: ["mindfulness-based-stress-reduction", "acceptance-and-commitment-therapy", "self-care", "psychological-flexibility"]
 methods: ["systematic review"]
 slug: psy214-week07-mindfulness-and-acceptance-based-trainings-for-fostering
-related: ["mental-health-professionals", "mindfulness-based-stress-reduction", "psychological-flexibility", "stress-management", "systematic-review"]
+related: ["acceptance-and-commitment-therapy", "mental-health-professionals", "mindfulness-based-stress-reduction", "psychological-flexibility", "stress-management", "systematic-review"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -44,6 +44,7 @@ This systematic review evaluates the effectiveness of mindfulness-based stress r
 
 ## See Also
 
+- [acceptance-and-commitment-therapy](../topics/acceptance-and-commitment-therapy.md)
 - [mental-health-professionals](../topics/mental-health-professionals.md)
 - [mindfulness-based-stress-reduction](../topics/mindfulness-based-stress-reduction.md)
 - [psychological-flexibility](../topics/psychological-flexibility.md)

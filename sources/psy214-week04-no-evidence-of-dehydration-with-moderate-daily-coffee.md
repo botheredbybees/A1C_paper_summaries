@@ -11,7 +11,7 @@ tags: ["coffee-drinking", "hydration-status", "caffeine-effects", "psy214", "deh
 key_concepts: ["dehydration", "moderate-coffee-intake"]
 methods: ["counterbalanced-cross-over-study"]
 slug: psy214-week04-no-evidence-of-dehydration-with-moderate-daily-coffee
-related: []
+related: ["dehydration"]
 created: 2026-07-28
 updated: 2026-07-28
 ---
@@ -41,4 +41,4 @@ This study investigates the impact of moderate coffee consumption on hydration s
 
 ## See Also
 
-*(none yet)*
+- [dehydration](../topics/dehydration.md)

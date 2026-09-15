@@ -11,7 +11,7 @@ tags: ["art-therapy", "arts-creation", "fxa303", "mental-health-challenges", "me
 key_concepts: ["arts creation", "self-care practices", "mental health management"]
 methods: ["qualitative interviews"]
 slug: fxa303-week11-the-one-thing-that-actually-helps-art-creation-as-a-self
-related: ["art-therapy", "self-care-practices", "trauma-recovery"]
+related: ["art-therapy", "mental-health-challenges", "self-care-practices", "trauma-recovery"]
 created: 2026-05-11
 updated: 2026-05-11
 ---
@@ -42,5 +42,6 @@ This study explores the significance and impact of arts creation for youth exper
 ## See Also
 
 - [art-therapy](../topics/art-therapy.md)
+- [mental-health-challenges](../topics/mental-health-challenges.md)
 - [self-care-practices](../topics/self-care-practices.md)
 - [trauma-recovery](../topics/trauma-recovery.md)

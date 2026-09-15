@@ -4,13 +4,15 @@ domain: intervention
 slug: music-and-health
 sources:
   - fxa300-week08-the-social-and-applied-psychology-of-music
+  - fxa300-week10-music-and-health
+  - fxa300-week10-week-10-lecture-on-pain-for-fxa300-music-mind-and-body
   - fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness
   - fxa301-week06-week-6-activities-fxa301-arts-in-the-community
 tags:
 - music-health
 title: Music And Health
 type: topic
-updated: 2026-08-31
+updated: 2026-09-15
 ---
 
 ## Music And Health
@@ -30,5 +32,7 @@ The exploration of music's role in health and wellbeing reveals two distinct yet
 ## Sources
 
 - [fxa300-week08-the-social-and-applied-psychology-of-music](../sources/fxa300-week08-the-social-and-applied-psychology-of-music.md)
+- [fxa300-week10-music-and-health](../sources/fxa300-week10-music-and-health.md)
+- [fxa300-week10-week-10-lecture-on-pain-for-fxa300-music-mind-and-body](../sources/fxa300-week10-week-10-lecture-on-pain-for-fxa300-music-mind-and-body.md)
 - [fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness](../sources/fxa301-week06-a-music-and-health-perspective-on-musics-perceived-goodness.md)
 - [fxa301-week06-week-6-activities-fxa301-arts-in-the-community](../sources/fxa301-week06-week-6-activities-fxa301-arts-in-the-community.md)

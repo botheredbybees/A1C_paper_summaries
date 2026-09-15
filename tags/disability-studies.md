@@ -6,6 +6,7 @@ updated: 2026-09-15
 
 ## Disability Studies
 
+- [How Deafness Shaped My Love of Music](../sources/fxa300-week10-how-deafness-shaped-my-love-of-music.md)
 - [Week 9 Lecture - Dr Brendan Lamb](../sources/fxa301-week09-week-9-lecture-dr-brendan-lamb.md)
 - [\u2018Anything is Possible\u2019: the Arts and Social Inclusion](../sources/fxa301-week11-anything-is-possible-the-arts-and-social-inclusion.md)
 - [Projects \u2013 Art Beyond Sight](../sources/fxa301-week11-projects-art-beyond-sight.md)

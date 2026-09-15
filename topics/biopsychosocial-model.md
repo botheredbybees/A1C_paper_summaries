@@ -3,6 +3,7 @@ confidence: low
 domain: theory
 slug: biopsychosocial-model
 sources:
+  - fxa300-week10-temporomandibular-disorders-and-the-singing-voice-a-summary
   - fxa301-arts-in-health-ch04-48-haldane-d
   - fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the
   - fxa302-week09-arts-therapy-and-its-implications-in-chronic-pain
@@ -13,7 +14,7 @@ tags:
 - biopsychosocial-model
 title: Biopsychosocial Model
 type: topic
-updated: 2026-08-07
+updated: 2026-09-15
 ---
 
 ## Biopsychosocial Model
@@ -32,6 +33,7 @@ The biopsychosocial model is a theoretical framework that moves beyond the tradi
 
 ## Sources
 
+- [fxa300-week10-temporomandibular-disorders-and-the-singing-voice-a-summary](../sources/fxa300-week10-temporomandibular-disorders-and-the-singing-voice-a-summary.md)
 - [fxa301-arts-in-health-ch04-48-haldane-d](../sources/fxa301-arts-in-health-ch04-48-haldane-d.md)
 - [fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the](../sources/fxa301-week03-the-art-of-being-mentally-healthy-a-study-to-quantify-the.md)
 - [fxa302-week09-arts-therapy-and-its-implications-in-chronic-pain](../sources/fxa302-week09-arts-therapy-and-its-implications-in-chronic-pain.md)

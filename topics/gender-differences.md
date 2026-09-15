@@ -7,9 +7,11 @@ tags: ["gender-differences"]
 sources:
   - fxa101-week03-age-related-effects-and-sex-differences-in-gray-matter
   - fxa300-week05-sex-and-age-related-differences-in-the-musical-behaviour
+  - fxa300-week10-investigating-musical-performance-anxiety-among-music
+  - fxa300-week10-musical-performance-anxiety-a-review-of-literature
   - fxa301-oxford-textbook-of-creative-arts-ch24-chapter-8
   - psy214-week05-how-australians-use-their-time-2024
-updated: 2026-08-03
+updated: 2026-09-15
 ---
 
 ## Gender Differences in Brain Structure and Cultural Experiences
@@ -33,5 +35,7 @@ The synthesis reveals an area for further exploration: how cultural and societal
 
 - [fxa101-week03-age-related-effects-and-sex-differences-in-gray-matter](../sources/fxa101-week03-age-related-effects-and-sex-differences-in-gray-matter.md)
 - [fxa300-week05-sex-and-age-related-differences-in-the-musical-behaviour](../sources/fxa300-week05-sex-and-age-related-differences-in-the-musical-behaviour.md)
+- [fxa300-week10-investigating-musical-performance-anxiety-among-music](../sources/fxa300-week10-investigating-musical-performance-anxiety-among-music.md)
+- [fxa300-week10-musical-performance-anxiety-a-review-of-literature](../sources/fxa300-week10-musical-performance-anxiety-a-review-of-literature.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch24-chapter-8](../sources/fxa301-oxford-textbook-of-creative-arts-ch24-chapter-8.md)
 - [psy214-week05-how-australians-use-their-time-2024](../sources/psy214-week05-how-australians-use-their-time-2024.md)

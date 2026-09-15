@@ -7,7 +7,8 @@ tags: ["aging-well-being"]
 sources:
   - fxa100-week13-reminder-randomized-controlled-study-feasibility-and-impact
   - fxa101-week04-lesson-fxa101-week04-page-4-activities-new-version
-updated: 2026-07-28
+  - fxa300-week10-creating-strength-in-age-harnessing-the-power-of-arts-and
+updated: 2026-09-15
 ---
 
 ## Aging and Well-being
@@ -28,3 +29,4 @@ The investigation into the well-being of older adults through various interventi
 
 - [fxa100-week13-reminder-randomized-controlled-study-feasibility-and-impact](../sources/fxa100-week13-reminder-randomized-controlled-study-feasibility-and-impact.md)
 - [fxa101-week04-lesson-fxa101-week04-page-4-activities-new-version](../sources/fxa101-week04-lesson-fxa101-week04-page-4-activities-new-version.md)
+- [fxa300-week10-creating-strength-in-age-harnessing-the-power-of-arts-and](../sources/fxa300-week10-creating-strength-in-age-harnessing-the-power-of-arts-and.md)

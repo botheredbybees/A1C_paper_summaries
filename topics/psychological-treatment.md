@@ -6,8 +6,9 @@ confidence: medium
 tags: ["psychological-treatment"]
 sources:
   - fxa100-week09-transcript-this-video-clip-from-the-american-dance-therapy
+  - fxa300-week10-psychological-treatment-of-musical-performance-anxiety
   - psy214-week08-lesson-psy214-week08-mindfulness-in-psychotherapeutic
-updated: 2026-08-31
+updated: 2026-09-15
 ---
 
 ## Mindfulness and Dance Therapy in Psychological Treatment
@@ -27,4 +28,5 @@ This synthesis integrates the practices of mindfulness-based psychotherapies and
 ## Sources
 
 - [fxa100-week09-transcript-this-video-clip-from-the-american-dance-therapy](../sources/fxa100-week09-transcript-this-video-clip-from-the-american-dance-therapy.md)
+- [fxa300-week10-psychological-treatment-of-musical-performance-anxiety](../sources/fxa300-week10-psychological-treatment-of-musical-performance-anxiety.md)
 - [psy214-week08-lesson-psy214-week08-mindfulness-in-psychotherapeutic](../sources/psy214-week08-lesson-psy214-week08-mindfulness-in-psychotherapeutic.md)

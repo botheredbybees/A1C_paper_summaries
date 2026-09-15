@@ -4,12 +4,13 @@ domain: method
 slug: research-methodology
 sources:
   - fxa100-week04-a-step-by-step-approach-to-the-research-process
+  - fxa300-week10-r3-the-triumvirate-of-theory-research-and-practice
   - fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials
 tags:
 - research-methodology
 title: Research Methodology
 type: topic
-updated: 2026-05-11
+updated: 2026-09-15
 ---
 
 ## Research Methodology
@@ -33,4 +34,5 @@ The integration of these perspectives underscores the importance of a nuanced ap
 ## Sources
 
 - [fxa100-week04-a-step-by-step-approach-to-the-research-process](../sources/fxa100-week04-a-step-by-step-approach-to-the-research-process.md)
+- [fxa300-week10-r3-the-triumvirate-of-theory-research-and-practice](../sources/fxa300-week10-r3-the-triumvirate-of-theory-research-and-practice.md)
 - [fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials](../sources/fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials.md)

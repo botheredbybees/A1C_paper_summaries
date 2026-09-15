@@ -23,6 +23,7 @@ sources:
   - fxa300-week08-effects-of-music-therapy-on-patients-with-dementiaa
   - fxa300-week09-effectiveness-of-music-interventions-on-dental-anxiety-in
   - fxa300-week09-music-interventions-for-mechanically-ventilated-patients
+  - fxa300-week10-therapeutic-interventions-for-music-performance-anxiety-a
   - fxa301-week01-rating-the-quality-of-a-body-of-evidence-on-the
   - fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-(2)
   - fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing
@@ -60,7 +61,7 @@ tags:
 - systematic-review
 title: Systematic Reviews of Arts-Based Interventions
 type: topic
-updated: 2026-09-08
+updated: 2026-09-15
 ---
 
 ## Systematic Reviews of Arts-Based Interventions
@@ -99,6 +100,7 @@ The systematic reviews examined here cover a range of arts-based interventions a
 - [fxa300-week08-effects-of-music-therapy-on-patients-with-dementiaa](../sources/fxa300-week08-effects-of-music-therapy-on-patients-with-dementiaa.md)
 - [fxa300-week09-effectiveness-of-music-interventions-on-dental-anxiety-in](../sources/fxa300-week09-effectiveness-of-music-interventions-on-dental-anxiety-in.md)
 - [fxa300-week09-music-interventions-for-mechanically-ventilated-patients](../sources/fxa300-week09-music-interventions-for-mechanically-ventilated-patients.md)
+- [fxa300-week10-therapeutic-interventions-for-music-performance-anxiety-a](../sources/fxa300-week10-therapeutic-interventions-for-music-performance-anxiety-a.md)
 - [fxa301-week01-rating-the-quality-of-a-body-of-evidence-on-the](../sources/fxa301-week01-rating-the-quality-of-a-body-of-evidence-on-the.md)
 - [fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-(2)](../sources/fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-%282%29.md)
 - [fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing](../sources/fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing.md)

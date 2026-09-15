@@ -11,7 +11,7 @@ tags: ["music-therapy", "medical-treatment", "dental-care", "audioanalgesia", "c
 key_concepts: ["audioanalgesia", "pain-management", "patient-anxiety"]
 methods: ["meta-analysis", "systematic-review"]
 slug: fxa300-week08-music-research-in-medicaldental-treatment-meta-analysis-and
-related: ["meta-analysis", "music-therapy", "patient-anxiety"]
+related: ["dental-care", "meta-analysis", "music-therapy", "patient-anxiety"]
 created: 2026-08-31
 updated: 2026-08-31
 ---
@@ -44,6 +44,7 @@ Jayne M. Standley's article provides a comprehensive analysis and application of
 
 ## See Also
 
+- [dental-care](../topics/dental-care.md)
 - [meta-analysis](../topics/meta-analysis.md)
 - [music-therapy](../topics/music-therapy.md)
 - [patient-anxiety](../topics/patient-anxiety.md)

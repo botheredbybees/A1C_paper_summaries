@@ -6,8 +6,9 @@ confidence: medium
 tags: ["cultural-inclusion"]
 sources:
   - fxa100-week07-access-programs-art-gallery-of-nsw
+  - fxa300-week10-perspectives-in-performing-arts-medicine-practice-ii
   - fxa301-week11-immigrants-artistic-practices-in-amsterdam-19702007-a
-updated: 2026-08-17
+updated: 2026-09-15
 ---
 
 ## Cultural Inclusion in Arts
@@ -27,4 +28,5 @@ The concept of cultural inclusion in arts is explored through two distinct but r
 ## Sources
 
 - [fxa100-week07-access-programs-art-gallery-of-nsw](../sources/fxa100-week07-access-programs-art-gallery-of-nsw.md)
+- [fxa300-week10-perspectives-in-performing-arts-medicine-practice-ii](../sources/fxa300-week10-perspectives-in-performing-arts-medicine-practice-ii.md)
 - [fxa301-week11-immigrants-artistic-practices-in-amsterdam-19702007-a](../sources/fxa301-week11-immigrants-artistic-practices-in-amsterdam-19702007-a.md)

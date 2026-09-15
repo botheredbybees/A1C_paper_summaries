@@ -153,6 +153,10 @@ sources:
   - fxa300-week09-the-use-of-music-in-the-treatment-and-management-of-serious
   - fxa300-week09-therapeutic-mechanisms-within-music-therapy-for-adults-with
   - fxa300-week09-transdiagnostic-theory-for-group-music-therapy-in-mental
+  - fxa300-week10-a-short-performance-anxiety-scale-for-musicians
+  - fxa300-week10-music-in-the-human-experience-an-introduction-to-music
+  - fxa300-week10-r3-the-triumvirate-of-theory-research-and-practice
+  - fxa300-week10-reducing-musical-performance-anxiety-a-review-of-literature
   - fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the
   - fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music
   - fxa301-music-healt-and-wellbeing-ch05-10680-meymandi
@@ -199,7 +203,7 @@ tags:
 - music-therapy
 title: Music Therapy
 type: topic
-updated: 2026-09-07
+updated: 2026-09-15
 ---
 
 ## Music Therapy
@@ -368,6 +372,10 @@ The integration of music therapy across various neurological conditions undersco
 - [fxa300-week09-the-use-of-music-in-the-treatment-and-management-of-serious](../sources/fxa300-week09-the-use-of-music-in-the-treatment-and-management-of-serious.md)
 - [fxa300-week09-therapeutic-mechanisms-within-music-therapy-for-adults-with](../sources/fxa300-week09-therapeutic-mechanisms-within-music-therapy-for-adults-with.md)
 - [fxa300-week09-transdiagnostic-theory-for-group-music-therapy-in-mental](../sources/fxa300-week09-transdiagnostic-theory-for-group-music-therapy-in-mental.md)
+- [fxa300-week10-a-short-performance-anxiety-scale-for-musicians](../sources/fxa300-week10-a-short-performance-anxiety-scale-for-musicians.md)
+- [fxa300-week10-music-in-the-human-experience-an-introduction-to-music](../sources/fxa300-week10-music-in-the-human-experience-an-introduction-to-music.md)
+- [fxa300-week10-r3-the-triumvirate-of-theory-research-and-practice](../sources/fxa300-week10-r3-the-triumvirate-of-theory-research-and-practice.md)
+- [fxa300-week10-reducing-musical-performance-anxiety-a-review-of-literature](../sources/fxa300-week10-reducing-musical-performance-anxiety-a-review-of-literature.md)
 - [fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the](../sources/fxa301-arts-in-health-ch90-1-listening-to-music-after-a-stroke-can-enhance-the.md)
 - [fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music](../sources/fxa301-music-healt-and-wellbeing-ch01-2010-lessons-learned-by-the-people-involved-in-these-music.md)
 - [fxa301-music-healt-and-wellbeing-ch05-10680-meymandi](../sources/fxa301-music-healt-and-wellbeing-ch05-10680-meymandi.md)

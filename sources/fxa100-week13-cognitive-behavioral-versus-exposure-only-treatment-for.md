@@ -11,7 +11,7 @@ tags: ["cognitive-behavioral-therapy", "exposure-only-treatment", "exposure-ther
 key_concepts: ["cognitive-behavioral-therapy", "exposure-only-treatment", "evidence-based-practice"]
 methods: ["meta-analysis"]
 slug: fxa100-week13-cognitive-behavioral-versus-exposure-only-treatment-for
-related: ["cognitive-behavioral-therapy", "meta-analysis"]
+related: ["cognitive-behavioral-therapy", "exposure-therapy", "meta-analysis", "social-phobia"]
 created: 2026-05-15
 updated: 2026-05-15
 ---
@@ -42,4 +42,6 @@ This study provides a comprehensive analysis comparing cognitive-behavioral ther
 ## See Also
 
 - [cognitive-behavioral-therapy](../topics/cognitive-behavioral-therapy.md)
+- [exposure-therapy](../topics/exposure-therapy.md)
 - [meta-analysis](../topics/meta-analysis.md)
+- [social-phobia](../topics/social-phobia.md)

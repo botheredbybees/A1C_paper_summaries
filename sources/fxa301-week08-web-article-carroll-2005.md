@@ -11,7 +11,7 @@ tags: ["browser-check", "pmc-access", "security-verification", "fxa301"]
 key_concepts: ["browser verification", "secure access"]
 methods: []
 slug: fxa301-week08-web-article-carroll-2005
-related: ["browser-check"]
+related: ["browser-check", "pmc-access"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -41,3 +41,4 @@ This page is a browser verification step prior to accessing an article hosted on
 ## See Also
 
 - [browser-check](../topics/browser-check.md)
+- [pmc-access](../topics/pmc-access.md)

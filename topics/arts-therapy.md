@@ -13,6 +13,7 @@ sources:
   - fxa100-week07-the-role-of-reminiscence-in-arts-based-interventions-for
   - fxa100-week08-week-8-lecture-on-arts-therapy-and-dementia-care
   - fxa100-week13-systematic-review-of-arts-and-culture-based-interventions
+  - fxa300-week10-creating-strength-in-age-harnessing-the-power-of-arts-and
   - fxa301-applied-artes-and-health-ch03-85-ulrich-(2)
   - fxa301-week01-arts-on-prescription-in-sefton-programme-report
   - fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and
@@ -31,7 +32,7 @@ tags:
 - arts-therapy
 title: Arts Therapy
 type: topic
-updated: 2026-09-07
+updated: 2026-09-15
 ---
 
 ## Arts Therapy
@@ -60,6 +61,7 @@ The concept of arts therapy is explored across several sources, highlighting its
 - [fxa100-week07-the-role-of-reminiscence-in-arts-based-interventions-for](../sources/fxa100-week07-the-role-of-reminiscence-in-arts-based-interventions-for.md)
 - [fxa100-week08-week-8-lecture-on-arts-therapy-and-dementia-care](../sources/fxa100-week08-week-8-lecture-on-arts-therapy-and-dementia-care.md)
 - [fxa100-week13-systematic-review-of-arts-and-culture-based-interventions](../sources/fxa100-week13-systematic-review-of-arts-and-culture-based-interventions.md)
+- [fxa300-week10-creating-strength-in-age-harnessing-the-power-of-arts-and](../sources/fxa300-week10-creating-strength-in-age-harnessing-the-power-of-arts-and.md)
 - [fxa301-applied-artes-and-health-ch03-85-ulrich-(2)](../sources/fxa301-applied-artes-and-health-ch03-85-ulrich-%282%29.md)
 - [fxa301-week01-arts-on-prescription-in-sefton-programme-report](../sources/fxa301-week01-arts-on-prescription-in-sefton-programme-report.md)
 - [fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and](../sources/fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and.md)

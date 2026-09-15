@@ -7,4 +7,5 @@ updated: 2026-09-15
 ## Cultural Inclusion
 
 - [Access Programs | Art Gallery of NSW](../sources/fxa100-week07-access-programs-art-gallery-of-nsw.md)
+- [Perspectives in Performing Arts Medicine Practice II](../sources/fxa300-week10-perspectives-in-performing-arts-medicine-practice-ii.md)
 - [Immigrants\u2019 Artistic Practices in Amsterdam, 1970\u20132007: A Political Issue of Inclusion and Exclusion](../sources/fxa301-week11-immigrants-artistic-practices-in-amsterdam-19702007-a.md)

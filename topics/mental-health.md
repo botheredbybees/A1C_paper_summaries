@@ -38,6 +38,13 @@ sources:
   - fxa300-week09-therapeutic-mechanisms-within-music-therapy-for-adults-with
   - fxa300-week09-transdiagnostic-theory-for-group-music-therapy-in-mental
   - fxa300-week09-web-article-novotney-2013
+  - fxa300-week10-can-music-make-you-sick-measuring-the-price-of-musical
+  - fxa300-week10-design-and-evaluation-of-a-collective-preventive-program
+  - fxa300-week10-lesson-fxa300-week10-page-2-instruments-and-injuries
+  - fxa300-week10-lesson-fxa300-week10-page-4-performance-anxiety
+  - fxa300-week10-perspectives-in-performing-arts-medicine-practice-ii
+  - fxa300-week10-social-anxiety-influences-the-stress-buffering-potential-of
+  - fxa300-week10-the-occurrence-of-performance-anxiety-among-musicians
   - fxa301-oxford-handbook-of-dance-and-wellbeing
   - fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract
   - fxa301-week05-art-as-therapy
@@ -150,6 +157,13 @@ The sources illustrate a variety of creative therapies that have been developed 
 - [fxa300-week09-therapeutic-mechanisms-within-music-therapy-for-adults-with](../sources/fxa300-week09-therapeutic-mechanisms-within-music-therapy-for-adults-with.md)
 - [fxa300-week09-transdiagnostic-theory-for-group-music-therapy-in-mental](../sources/fxa300-week09-transdiagnostic-theory-for-group-music-therapy-in-mental.md)
 - [fxa300-week09-web-article-novotney-2013](../sources/fxa300-week09-web-article-novotney-2013.md)
+- [fxa300-week10-can-music-make-you-sick-measuring-the-price-of-musical](../sources/fxa300-week10-can-music-make-you-sick-measuring-the-price-of-musical.md)
+- [fxa300-week10-design-and-evaluation-of-a-collective-preventive-program](../sources/fxa300-week10-design-and-evaluation-of-a-collective-preventive-program.md)
+- [fxa300-week10-lesson-fxa300-week10-page-2-instruments-and-injuries](../sources/fxa300-week10-lesson-fxa300-week10-page-2-instruments-and-injuries.md)
+- [fxa300-week10-lesson-fxa300-week10-page-4-performance-anxiety](../sources/fxa300-week10-lesson-fxa300-week10-page-4-performance-anxiety.md)
+- [fxa300-week10-perspectives-in-performing-arts-medicine-practice-ii](../sources/fxa300-week10-perspectives-in-performing-arts-medicine-practice-ii.md)
+- [fxa300-week10-social-anxiety-influences-the-stress-buffering-potential-of](../sources/fxa300-week10-social-anxiety-influences-the-stress-buffering-potential-of.md)
+- [fxa300-week10-the-occurrence-of-performance-anxiety-among-musicians](../sources/fxa300-week10-the-occurrence-of-performance-anxiety-among-musicians.md)
 - [fxa301-oxford-handbook-of-dance-and-wellbeing](../sources/fxa301-oxford-handbook-of-dance-and-wellbeing.md)
 - [fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract](../sources/fxa301-week03-mental-health-and-wellbeing-across-the-life-course-extract.md)
 - [fxa301-week05-art-as-therapy](../sources/fxa301-week05-art-as-therapy.md)

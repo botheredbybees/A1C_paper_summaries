@@ -26,6 +26,7 @@ updated: 2026-09-15
 - [Effects of Music Therapy on Patients with Dementia\u2014A Systematic Review](../sources/fxa300-week08-effects-of-music-therapy-on-patients-with-dementiaa.md)
 - [Effectiveness of music interventions on dental anxiety in paediatric and adult patients: a systematic review](../sources/fxa300-week09-effectiveness-of-music-interventions-on-dental-anxiety-in.md)
 - [Music interventions for mechanically ventilated patients](../sources/fxa300-week09-music-interventions-for-mechanically-ventilated-patients.md)
+- [Therapeutic Interventions for Music Performance Anxiety: A Systematic Review and Narrative Synthesis](../sources/fxa300-week10-therapeutic-interventions-for-music-performance-anxiety-a.md)
 - [Rating the Quality of a Body of Evidence on the Effectiveness of Health and Social Interventions: A Systematic Review and Mapping of Evidence Domains](../sources/fxa301-week01-rating-the-quality-of-a-body-of-evidence-on-the.md)
 - [Revised Cochrane risk of bias tool for randomized trials (RoB 2) \u2014 Additional considerations for crossover trials](../sources/fxa301-week01-revised-cochrane-risk-of-bias-tool-for-randomized-trials-%282%29.md)
 - [ROB-ME: a tool for assessing risk of bias due to missing evidence in systematic reviews with meta-analysis](../sources/fxa301-week01-rob-me-a-tool-for-assessing-risk-of-bias-due-to-missing.md)

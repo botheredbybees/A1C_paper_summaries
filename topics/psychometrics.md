@@ -7,7 +7,8 @@ tags: ["psychometrics"]
 sources:
   - fxa100-week13-psychometric-properties
   - fxa100-week13-the-activities-specific-balance-confidence-abc-scale-in
-updated: 2026-05-15
+  - fxa300-week10-a-short-performance-anxiety-scale-for-musicians
+updated: 2026-09-15
 ---
 
 ## Psychometrics
@@ -32,3 +33,4 @@ Overall, while both sources discuss critical elements related to measuring psych
 
 - [fxa100-week13-psychometric-properties](../sources/fxa100-week13-psychometric-properties.md)
 - [fxa100-week13-the-activities-specific-balance-confidence-abc-scale-in](../sources/fxa100-week13-the-activities-specific-balance-confidence-abc-scale-in.md)
+- [fxa300-week10-a-short-performance-anxiety-scale-for-musicians](../sources/fxa300-week10-a-short-performance-anxiety-scale-for-musicians.md)

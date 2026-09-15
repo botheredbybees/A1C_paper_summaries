@@ -11,7 +11,7 @@ tags: ["food-processing", "healthy-eating", "nova-classification", "diet-quality
 key_concepts: ["eat food principle", "nova classification system"]
 methods: ["case study"]
 slug: psy214-week04-eat-food-and-the-nova-classification-(2)
-related: ["diet-quality", "healthy-eating", "nova-classification"]
+related: ["diet-quality", "health-impact", "healthy-eating", "nova-classification"]
 created: 2026-07-28
 updated: 2026-07-28
 ---
@@ -44,5 +44,6 @@ The document discusses the concept of 'eat food' as a principle that emphasizes 
 ## See Also
 
 - [diet-quality](../topics/diet-quality.md)
+- [health-impact](../topics/health-impact.md)
 - [healthy-eating](../topics/healthy-eating.md)
 - [nova-classification](../topics/nova-classification.md)

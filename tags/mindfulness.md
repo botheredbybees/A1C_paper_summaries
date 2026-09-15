@@ -11,6 +11,7 @@ updated: 2026-09-15
 - [Week 3 Activities: Mindfulness Photo Walk](../sources/fxa202-week03-lesson-fxa202-week03-page-4.md)
 - [Week 3 Lecture - Photography and Health](../sources/fxa202-week03-lesson-fxa202-week03-week-3.md)
 - [Critical Reflection on Visual Storytelling Through Photography](../sources/fxa202-week06-critical-reflection-on-visual-storytelling-through.md)
+- [Therapeutic Interventions for Music Performance Anxiety: A Systematic Review and Narrative Synthesis](../sources/fxa300-week10-therapeutic-interventions-for-music-performance-anxiety-a.md)
 - [PSY114 PSY214 Stress, Self-Care and Mindfulness: Early Humanistic Approaches](../sources/psy214-week02-lesson-psy214-week02-multi-dimensional-models-of-well.md)
 - [Mindfulness: Overview and Everyday Practices](../sources/psy214-week07-lesson-psy214-week07-71-module-overview.md)
 - [Mindfulness: Overview](../sources/psy214-week07-lesson-psy214-week07-mindfulness-overview.md)

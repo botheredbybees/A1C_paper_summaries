@@ -11,7 +11,7 @@ tags: ["positive-psychology", "well-being", "optimism", "coping-strategies", "in
 key_concepts: ["positive psychology", "dispositional optimism", "benefit-finding coping"]
 methods: ["literature review"]
 slug: psy214-week10-positive-psychology-overview-(2)
-related: ["coping-strategies", "interventions", "optimism", "positive-psychology", "well-being"]
+related: ["coping-strategies", "interventions", "optimism", "positive-psychology", "positive-thinking", "well-being"]
 created: 2026-09-15
 updated: 2026-09-15
 ---
@@ -48,4 +48,5 @@ The document provides an overview of positive psychology, a subdiscipline of psy
 - [interventions](../topics/interventions.md)
 - [optimism](../topics/optimism.md)
 - [positive-psychology](../topics/positive-psychology.md)
+- [positive-thinking](../topics/positive-thinking.md)
 - [well-being](../topics/well-being.md)

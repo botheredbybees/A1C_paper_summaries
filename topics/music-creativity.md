@@ -8,7 +8,8 @@ sources:
   - fxa300-week07-lesson-fxa300-week07-page-2-1
   - fxa300-week07-lesson-fxa300-week07-page-3-1
   - fxa300-week07-your-brain-on-improv
-updated: 2026-08-17
+  - fxa300-week10-how-deafness-shaped-my-love-of-music
+updated: 2026-09-15
 ---
 
 ## Music and Creativity
@@ -30,3 +31,4 @@ The interplay between music and creativity is explored through various theoretic
 - [fxa300-week07-lesson-fxa300-week07-page-2-1](../sources/fxa300-week07-lesson-fxa300-week07-page-2-1.md)
 - [fxa300-week07-lesson-fxa300-week07-page-3-1](../sources/fxa300-week07-lesson-fxa300-week07-page-3-1.md)
 - [fxa300-week07-your-brain-on-improv](../sources/fxa300-week07-your-brain-on-improv.md)
+- [fxa300-week10-how-deafness-shaped-my-love-of-music](../sources/fxa300-week10-how-deafness-shaped-my-love-of-music.md)

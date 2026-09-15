@@ -12,6 +12,7 @@ updated: 2026-09-15
 - [Global music streaming data reveal diurnal and seasonal patterns of affective preference](../sources/fxa300-week05-global-music-streaming-data-reveal-diurnal-and-seasonal.md)
 - [Self-selected \u2018\u2018favourite\u2019\u2019 stimulative and sedative music listening \u2013 how does familiar and preferred music listening affect the body?](../sources/fxa300-week05-self-selected-favourite-stimulative-and-sedative-music.md)
 - [Listening to music and physiological and psychological functioning: The mediating role of emotion regulation and stress reactivity](../sources/fxa300-week09-listening-to-music-and-physiological-and-psychological.md)
+- [Mapping the relationship between flow experience and music performance anxiety: a scoping review](../sources/fxa300-week10-mapping-the-relationship-between-flow-experience-and-music.md)
 - [The brain and how we perceive information](../sources/fxa301-week02-the-brain-and-how-we-perceive-information.md)
 - [Humor and Resiliency: Towards a Process Model of Coping and Growth](../sources/fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and.md)
 - [Creative, Artistic, and Expressive Therapies for PTSD](../sources/fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd.md)

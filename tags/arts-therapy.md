@@ -16,6 +16,7 @@ updated: 2026-09-15
 - [The Role of Reminiscence in Arts-Based Interventions for Dementia Care: A Scoping Review](../sources/fxa100-week07-the-role-of-reminiscence-in-arts-based-interventions-for.md)
 - [Week 8 Lecture on Arts Therapy and Dementia Care](../sources/fxa100-week08-week-8-lecture-on-arts-therapy-and-dementia-care.md)
 - [Systematic review of arts and culture-based interventions for people living with dementia and their caregivers](../sources/fxa100-week13-systematic-review-of-arts-and-culture-based-interventions.md)
+- [Creating Strength in Age: Harnessing the Power of Arts and Humanities Networks](../sources/fxa300-week10-creating-strength-in-age-harnessing-the-power-of-arts-and.md)
 - [Building Bridges Across Arts and Health](../sources/fxa301-applied-artes-and-health-ch03-85-ulrich-%282%29.md)
 - [Arts on Prescription in Sefton: Programme Report](../sources/fxa301-week01-arts-on-prescription-in-sefton-programme-report.md)
 - [The role of arts activities in developing resilience and mental wellbeing in children and young people: A rapid review of the literature](../sources/fxa301-week03-the-role-of-arts-activities-in-developing-resilience-and.md)

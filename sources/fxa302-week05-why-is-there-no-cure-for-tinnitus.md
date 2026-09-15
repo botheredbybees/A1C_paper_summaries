@@ -11,7 +11,7 @@ tags: ["tinnitus-management", "patient-expectations", "audiology-research", "cog
 key_concepts: ["tinnitus", "cognitive-behavioral-therapy", "biomarkers", "clinical-trial-design", "patient-satisfaction"]
 methods: ["systematic-review"]
 slug: fxa302-week05-why-is-there-no-cure-for-tinnitus
-related: ["biomarkers", "cognitive-behavioral-therapy", "pharmacological-treatment"]
+related: ["biomarkers", "cognitive-behavioral-therapy", "pharmacological-treatment", "tinnitus"]
 created: 2026-08-03
 updated: 2026-08-03
 ---
@@ -49,3 +49,4 @@ The article examines the lack of effective treatment options for tinnitus, a com
 - [biomarkers](../topics/biomarkers.md)
 - [cognitive-behavioral-therapy](../topics/cognitive-behavioral-therapy.md)
 - [pharmacological-treatment](../topics/pharmacological-treatment.md)
+- [tinnitus](../topics/tinnitus.md)

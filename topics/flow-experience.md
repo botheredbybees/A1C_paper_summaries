@@ -5,6 +5,7 @@ slug: flow-experience
 sources:
   - fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow
   - fxa300-week07-creativity-and-flow-in-musical-composition-an-empirical
+  - fxa300-week10-mapping-the-relationship-between-flow-experience-and-music
   - fxa301-week10-advances-in-flow-research
   - fxa301-week10-fxa301-week-10-lecture
   - fxa301-week10-introduction-to-the-volume
@@ -13,7 +14,7 @@ tags:
 - flow-experience
 title: Flow Experience
 type: topic
-updated: 2026-08-17
+updated: 2026-09-15
 ---
 
 ## Flow Experience
@@ -34,6 +35,7 @@ Mihaly Csikszentmihalyi's concept of the 'flow' experience has been a cornerston
 
 - [fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow](../sources/fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow.md)
 - [fxa300-week07-creativity-and-flow-in-musical-composition-an-empirical](../sources/fxa300-week07-creativity-and-flow-in-musical-composition-an-empirical.md)
+- [fxa300-week10-mapping-the-relationship-between-flow-experience-and-music](../sources/fxa300-week10-mapping-the-relationship-between-flow-experience-and-music.md)
 - [fxa301-week10-advances-in-flow-research](../sources/fxa301-week10-advances-in-flow-research.md)
 - [fxa301-week10-fxa301-week-10-lecture](../sources/fxa301-week10-fxa301-week-10-lecture.md)
 - [fxa301-week10-introduction-to-the-volume](../sources/fxa301-week10-introduction-to-the-volume.md)

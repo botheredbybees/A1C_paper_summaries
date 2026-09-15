@@ -11,7 +11,7 @@ tags: ["music-therapy", "health-wellbeing", "multidisciplinary-research", "psych
 key_concepts: ["therapeutic-potential-of-music", "multidisciplinary-approach", "wellbeing-enhancement-through-music"]
 methods: ["literature-review"]
 slug: fxa100-week04-music-health-and-wellbeing-section-1-introductory-chapters
-related: ["health-wellbeing", "music-therapy"]
+related: ["health-wellbeing", "multidisciplinary-approach", "music-therapy"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -45,4 +45,5 @@ The chapter also explores various reasons why music has beneficial effects on in
 ## See Also
 
 - [health-wellbeing](../topics/health-wellbeing.md)
+- [multidisciplinary-approach](../topics/multidisciplinary-approach.md)
 - [music-therapy](../topics/music-therapy.md)

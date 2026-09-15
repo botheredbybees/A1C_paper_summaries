@@ -8,4 +8,6 @@ updated: 2026-09-15
 
 - [Group Nature-Based Mindfulness Interventions: Nature-Based Mindfulness Training for College Students with Anxiety](../sources/fxa101-week00-group-nature-based-mindfulness-interventions-nature-based.md)
 - [Effects of Group Drumming Interventions on Anxiety, Depression, Social Resilience and Inflammatory Immune Response among Mental Health Service Users](../sources/fxa300-week09-effects-of-group-drumming-interventions-on-anxiety.md)
+- [Mapping the relationship between flow experience and music performance anxiety: a scoping review](../sources/fxa300-week10-mapping-the-relationship-between-flow-experience-and-music.md)
+- [Transcript: Composed Documentary, trailer](../sources/fxa300-week10-transcript-composed-documentary-trailer.md)
 - [Effectiveness of Hospital Clowning on Pediatric Anxiety and Pain: Network Meta-Analysis](../sources/fxa303-week08-effectiveness-of-hospital-clowning-on-pediatric-anxiety-and.md)

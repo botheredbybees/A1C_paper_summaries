@@ -11,7 +11,7 @@ tags: ["embodied-cognition", "scientific-imagination", "neuroscience", "philosop
 key_concepts: ["embodied-simulation", "background-knowledge", "scientific-imagination"]
 methods: ["philosophical-analysis", "conceptual-framework"]
 slug: fxa300-week07-imagination-and-creativity-in-science-an-embodied
-related: ["background-knowledge", "creative-thinking", "embodied-cognition", "neuroscience", "scientific-imagination"]
+related: ["background-knowledge", "creative-thinking", "embodied-cognition", "neuroscience", "philosophy-of-science", "scientific-imagination"]
 created: 2026-08-17
 updated: 2026-08-17
 ---
@@ -47,4 +47,5 @@ Valentina Savojardo's paper explores the philosophical conundrum of imaginative 
 - [creative-thinking](../topics/creative-thinking.md)
 - [embodied-cognition](../topics/embodied-cognition.md)
 - [neuroscience](../topics/neuroscience.md)
+- [philosophy-of-science](../topics/philosophy-of-science.md)
 - [scientific-imagination](../topics/scientific-imagination.md)

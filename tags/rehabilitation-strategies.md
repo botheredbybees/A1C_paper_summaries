@@ -9,5 +9,6 @@ updated: 2026-09-15
 - [Cognitive Training and Rehabilitation in Dementia Care](../sources/fxa100-excellence-in-dementia-care--ch09-chapter-15.md)
 - [The Effects of Intuitive Movement Reembodiment on the Quality of Life of Older Adults With Dementia: A Pilot Study](../sources/fxa100-week09-the-effects-of-intuitive-movement-reembodiment-on-the.md)
 - [Effects of Neuromuscular Exercise and Dance Therapy on Physical Performance and Kinesiophobia in Geriatrics: A Randomized Controlled Study](../sources/fxa100-week13-effects-of-neuromuscular-exercise-and-dance-therapy-on.md)
+- [Injuries in Musicians - Imaging and Management](../sources/fxa300-week10-injuries-in-musicians-imaging-and-management.md)
 - [Creative Pathways for Juvenile Justice: An Overview of Current Evidence and Literature](../sources/fxa303-week11-creative-pathways-for-juvenile-justice-an-overview-of.md)
 - [Role of Art Therapy in the Promotion of Mental Health: A Critical Review](../sources/fxa303-week11-role-of-art-therapy-in-the-promotion-of-mental-health-a.md)

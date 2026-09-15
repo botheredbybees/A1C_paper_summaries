@@ -8,9 +8,10 @@ sources:
   - fxa100-excellence-in-dementia-care--ch09-chapter-15
   - fxa100-week09-the-effects-of-intuitive-movement-reembodiment-on-the
   - fxa100-week13-effects-of-neuromuscular-exercise-and-dance-therapy-on
+  - fxa300-week10-injuries-in-musicians-imaging-and-management
   - fxa303-week11-creative-pathways-for-juvenile-justice-an-overview-of
   - fxa303-week11-role-of-art-therapy-in-the-promotion-of-mental-health-a
-updated: 2026-08-07
+updated: 2026-09-15
 ---
 
 ## Rehabilitation Strategies in Mental Health and Dementia
@@ -32,5 +33,6 @@ The exploration of rehabilitation strategies in both dementia care and mental he
 - [fxa100-excellence-in-dementia-care--ch09-chapter-15](../sources/fxa100-excellence-in-dementia-care--ch09-chapter-15.md)
 - [fxa100-week09-the-effects-of-intuitive-movement-reembodiment-on-the](../sources/fxa100-week09-the-effects-of-intuitive-movement-reembodiment-on-the.md)
 - [fxa100-week13-effects-of-neuromuscular-exercise-and-dance-therapy-on](../sources/fxa100-week13-effects-of-neuromuscular-exercise-and-dance-therapy-on.md)
+- [fxa300-week10-injuries-in-musicians-imaging-and-management](../sources/fxa300-week10-injuries-in-musicians-imaging-and-management.md)
 - [fxa303-week11-creative-pathways-for-juvenile-justice-an-overview-of](../sources/fxa303-week11-creative-pathways-for-juvenile-justice-an-overview-of.md)
 - [fxa303-week11-role-of-art-therapy-in-the-promotion-of-mental-health-a](../sources/fxa303-week11-role-of-art-therapy-in-the-promotion-of-mental-health-a.md)

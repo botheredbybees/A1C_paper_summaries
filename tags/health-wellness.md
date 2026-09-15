@@ -8,4 +8,5 @@ updated: 2026-09-15
 
 - [Music and Mind: Harnessing the Arts for Health and Wellness](../sources/fxa300-week02-music-and-mind-harnessing-the-arts-for-health-and-wellness.md)
 - [Music and Health](../sources/fxa300-week04-music-and-health.md)
+- [Music in the Human Experience: An Introduction to Music Psychology (Conclusion)](../sources/fxa300-week10-music-in-the-human-experience-an-introduction-to-music.md)
 - [Social Prescribing Roundtable, November 2019: Report](../sources/fxa303-week03-social-prescribing-roundtable-november-2019-report.md)

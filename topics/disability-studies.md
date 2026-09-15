@@ -5,6 +5,7 @@ title: "Inclusive Arts Practices in Disability Studies"
 confidence: medium
 tags: ["disability-studies"]
 sources:
+  - fxa300-week10-how-deafness-shaped-my-love-of-music
   - fxa301-week09-week-9-lecture-dr-brendan-lamb
   - fxa301-week11-anything-is-possible-the-arts-and-social-inclusion
   - fxa301-week11-projects-art-beyond-sight
@@ -12,7 +13,7 @@ sources:
   - fxa302-week02-lesson-fxa302-week02-page-3
   - fxa302-week05-music-and-disability
   - fxa302-week06-transcript-gresham-college-the-iconography-of-blindness-how
-updated: 2026-08-10
+updated: 2026-09-15
 ---
 
 ## Inclusive Arts Practices in Disability Studies
@@ -31,6 +32,7 @@ The integration of inclusive arts practices within disability studies is charact
 
 ## Sources
 
+- [fxa300-week10-how-deafness-shaped-my-love-of-music](../sources/fxa300-week10-how-deafness-shaped-my-love-of-music.md)
 - [fxa301-week09-week-9-lecture-dr-brendan-lamb](../sources/fxa301-week09-week-9-lecture-dr-brendan-lamb.md)
 - [fxa301-week11-anything-is-possible-the-arts-and-social-inclusion](../sources/fxa301-week11-anything-is-possible-the-arts-and-social-inclusion.md)
 - [fxa301-week11-projects-art-beyond-sight](../sources/fxa301-week11-projects-art-beyond-sight.md)

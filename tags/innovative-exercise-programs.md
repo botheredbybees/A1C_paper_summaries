@@ -1,0 +1,9 @@
+---
+type: tag
+tag: innovative-exercise-programs
+updated: 2026-09-15
+---
+
+## Innovative Exercise Programs
+
+- [Perspectives in Performing Arts Medicine Practice: A Multidisciplinary Approach](../sources/fxa300-week10-perspectives-in-performing-arts-medicine-practice-a.md)

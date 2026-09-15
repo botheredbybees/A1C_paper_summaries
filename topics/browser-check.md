@@ -5,9 +5,11 @@ title: "Browser Verification"
 confidence: medium
 tags: ["browser-check"]
 sources:
+  - fxa300-week10-web-article-matei-2017
+  - fxa300-week10-web-article-potter-1995
   - fxa301-week08-web-article-carroll-2005
   - fxa302-week02-web-article-kleisiaris-2014
-updated: 2026-07-13
+updated: 2026-09-15
 ---
 
 ## Browser Verification
@@ -25,5 +27,7 @@ Both sources discuss the concept of browser verification as a method to ensure s
 
 ## Sources
 
+- [fxa300-week10-web-article-matei-2017](../sources/fxa300-week10-web-article-matei-2017.md)
+- [fxa300-week10-web-article-potter-1995](../sources/fxa300-week10-web-article-potter-1995.md)
 - [fxa301-week08-web-article-carroll-2005](../sources/fxa301-week08-web-article-carroll-2005.md)
 - [fxa302-week02-web-article-kleisiaris-2014](../sources/fxa302-week02-web-article-kleisiaris-2014.md)

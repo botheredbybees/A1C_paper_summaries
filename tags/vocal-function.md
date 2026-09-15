@@ -1,0 +1,9 @@
+---
+type: tag
+tag: vocal-function
+updated: 2026-09-15
+---
+
+## Vocal Function
+
+- [Temporomandibular Disorders and the Singing Voice: A Summary of the Research](../sources/fxa300-week10-temporomandibular-disorders-and-the-singing-voice-a-summary.md)

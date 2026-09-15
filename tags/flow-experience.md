@@ -8,6 +8,7 @@ updated: 2026-09-15
 
 - [Mih\u00e1ly Cs\u00edkszentmih\u00e1lyi: The Father of Flow](../sources/fxa202-week10-mihly-cskszentmihlyi-the-father-of-flow.md)
 - [Creativity and flow in musical composition: an empirical investigation](../sources/fxa300-week07-creativity-and-flow-in-musical-composition-an-empirical.md)
+- [Mapping the relationship between flow experience and music performance anxiety: a scoping review](../sources/fxa300-week10-mapping-the-relationship-between-flow-experience-and-music.md)
 - [Advances in Flow Research](../sources/fxa301-week10-advances-in-flow-research.md)
 - [FXA301 Week 10 Lecture](../sources/fxa301-week10-fxa301-week-10-lecture.md)
 - [Introduction to the Volume](../sources/fxa301-week10-introduction-to-the-volume.md)

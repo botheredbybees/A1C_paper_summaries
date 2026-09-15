@@ -11,7 +11,7 @@ tags: ["research-design", "experimental-study", "quasi-experimental-study", "fxa
 key_concepts: ["random assignment", "pre-existing groups"]
 methods: []
 slug: fxa300-week06-lesson-fxa300-week06-page-4-research-designs-2
-related: ["research-design"]
+related: ["quasi-experimental-study", "research-design"]
 created: 2026-08-10
 updated: 2026-08-10
 ---
@@ -41,4 +41,5 @@ This lesson covers experimental and quasi-experimental research designs commonly
 
 ## See Also
 
+- [quasi-experimental-study](../topics/quasi-experimental-study.md)
 - [research-design](../topics/research-design.md)

@@ -6,8 +6,9 @@ confidence: medium
 tags: ["historical-development"]
 sources:
   - fxa300-week08-the-arts-therapies-a-revolution-in-healthcare
+  - fxa300-week10-perspectives-in-performing-arts-medicine-practice-a
   - fxa302-week03-the-development-of-spinal-cord-anatomy
-updated: 2026-08-31
+updated: 2026-09-15
 ---
 
 ## Historical Development Of Arts Therapies
@@ -27,4 +28,5 @@ The historical development of arts therapies, such as music therapy and art ther
 ## Sources
 
 - [fxa300-week08-the-arts-therapies-a-revolution-in-healthcare](../sources/fxa300-week08-the-arts-therapies-a-revolution-in-healthcare.md)
+- [fxa300-week10-perspectives-in-performing-arts-medicine-practice-a](../sources/fxa300-week10-perspectives-in-performing-arts-medicine-practice-a.md)
 - [fxa302-week03-the-development-of-spinal-cord-anatomy](../sources/fxa302-week03-the-development-of-spinal-cord-anatomy.md)

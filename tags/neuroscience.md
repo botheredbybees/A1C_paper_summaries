@@ -24,6 +24,7 @@ updated: 2026-09-15
 - [Imagination and Creativity in Science: an \u2018Embodied\u2019 Perspective](../sources/fxa300-week07-imagination-and-creativity-in-science-an-embodied.md)
 - [Music Creativity and Improvisation](../sources/fxa300-week07-lesson-fxa300-week07-page-3-1.md)
 - [Music to My Senses: Functional Magnetic Resonance Imaging Evidence of Music Analgesia Across Connectivity Networks Spanning the Brain and Brainstem](../sources/fxa300-week08-music-to-my-senses-functional-magnetic-resonance-imaging.md)
+- [Introducing Music Psychology](../sources/fxa300-week10-introducing-music-psychology.md)
 - [Two-Minute Neuroscience: Reward System](../sources/fxa301-week01-transcript-two-minute-neuroscience-reward-system.md)
 - [Week 2 Introduction to FXA301 Arts in the Community](../sources/fxa301-week02-week-2-introduction-to-fxa301-arts-in-the-community.md)
 - [Welcome to Week 6 - FXA301 Arts in the Community](../sources/fxa301-week06-welcome-to-week-6-fxa301-arts-in-the-community.md)

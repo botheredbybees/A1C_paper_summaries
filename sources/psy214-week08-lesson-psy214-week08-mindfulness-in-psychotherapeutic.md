@@ -11,7 +11,7 @@ tags: ["mindfulness", "psychotherapy", "psychological-treatment", "acceptance-co
 key_concepts: ["Mindfulness-Based Cognitive Therapy (MBCT)", "Acceptance and Commitment Therapy (ACT)", "Dialectical Behavior Therapy (DBT)", "relational frame theory"]
 methods: []
 slug: psy214-week08-lesson-psy214-week08-mindfulness-in-psychotherapeutic
-related: ["mindfulness", "psychological-treatment", "psychotherapy", "stress-reduction"]
+related: ["acceptance-commitment-therapy", "mindfulness", "psychological-treatment", "psychotherapy", "stress-reduction"]
 created: 2026-08-31
 updated: 2026-08-31
 ---
@@ -46,6 +46,7 @@ This lesson introduces additional mindfulness-based psychotherapeutic approaches
 
 ## See Also
 
+- [acceptance-commitment-therapy](../topics/acceptance-commitment-therapy.md)
 - [mindfulness](../topics/mindfulness.md)
 - [psychological-treatment](../topics/psychological-treatment.md)
 - [psychotherapy](../topics/psychotherapy.md)

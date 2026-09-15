@@ -11,7 +11,7 @@ tags: ["mindfulness-practices", "healthcare-professionals", "stress-management",
 key_concepts: ["mindfulness", "stress reduction", "implicit bias"]
 methods: ["case study", "intervention"]
 slug: psy214-week07-mindfulness-as-a-self-care-strategy-for-healthcare
-related: ["mindfulness-practices", "self-care-strategies", "stress-management"]
+related: ["healthcare-professionals", "mindfulness-practices", "self-care-strategies", "stress-management"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -44,6 +44,7 @@ The article 'Mindfulness as a Self-Care Strategy for Healthcare Professionals to
 
 ## See Also
 
+- [healthcare-professionals](../topics/healthcare-professionals.md)
 - [mindfulness-practices](../topics/mindfulness-practices.md)
 - [self-care-strategies](../topics/self-care-strategies.md)
 - [stress-management](../topics/stress-management.md)

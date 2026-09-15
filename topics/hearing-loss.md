@@ -6,12 +6,14 @@ confidence: high
 tags: ["hearing-loss"]
 sources:
   - fxa101-week00-deciphering-sounds-through-patterns-of-vibration-on-the-skin
+  - fxa300-week10-lesson-fxa300-week10-page-2-instruments-and-injuries
+  - fxa300-week10-week-10-lecture-on-pain-for-fxa300-music-mind-and-body
   - fxa302-week05-lesson-fxa302-week05-page-2
   - fxa302-week05-lesson-fxa302-week05-page-3
   - fxa302-week05-lesson-fxa302-week05-page-4-activities
   - fxa302-week05-lesson-fxa302-week05-week-5
   - fxa302-week05-the-stigma-of-hearing-loss
-updated: 2026-08-08
+updated: 2026-09-15
 ---
 
 ## Hearing Loss and Its Impacts on Music
@@ -31,6 +33,8 @@ The provided sources delve into the multifaceted impacts of hearing loss on musi
 ## Sources
 
 - [fxa101-week00-deciphering-sounds-through-patterns-of-vibration-on-the-skin](../sources/fxa101-week00-deciphering-sounds-through-patterns-of-vibration-on-the-skin.md)
+- [fxa300-week10-lesson-fxa300-week10-page-2-instruments-and-injuries](../sources/fxa300-week10-lesson-fxa300-week10-page-2-instruments-and-injuries.md)
+- [fxa300-week10-week-10-lecture-on-pain-for-fxa300-music-mind-and-body](../sources/fxa300-week10-week-10-lecture-on-pain-for-fxa300-music-mind-and-body.md)
 - [fxa302-week05-lesson-fxa302-week05-page-2](../sources/fxa302-week05-lesson-fxa302-week05-page-2.md)
 - [fxa302-week05-lesson-fxa302-week05-page-3](../sources/fxa302-week05-lesson-fxa302-week05-page-3.md)
 - [fxa302-week05-lesson-fxa302-week05-page-4-activities](../sources/fxa302-week05-lesson-fxa302-week05-page-4-activities.md)

@@ -10,8 +10,9 @@ sources:
   - fxa300-week07-class-notes-freeing-music-improvisation
   - fxa300-week07-happy-creativity-listening-to-happy-music-facilitates
   - fxa300-week07-leonard-bernstein-discusses-beethovens-1st-symphony
+  - fxa300-week10-transcript-cbc-news-the-national
   - fxa302-week09-transcript-visit-in-new-window-they-are-all-gone-into-the
-updated: 2026-09-07
+updated: 2026-09-15
 ---
 
 ## Classical Music and Tonal Hierarchy
@@ -38,4 +39,5 @@ The sources collectively highlight a tension between the established norms of cl
 - [fxa300-week07-class-notes-freeing-music-improvisation](../sources/fxa300-week07-class-notes-freeing-music-improvisation.md)
 - [fxa300-week07-happy-creativity-listening-to-happy-music-facilitates](../sources/fxa300-week07-happy-creativity-listening-to-happy-music-facilitates.md)
 - [fxa300-week07-leonard-bernstein-discusses-beethovens-1st-symphony](../sources/fxa300-week07-leonard-bernstein-discusses-beethovens-1st-symphony.md)
+- [fxa300-week10-transcript-cbc-news-the-national](../sources/fxa300-week10-transcript-cbc-news-the-national.md)
 - [fxa302-week09-transcript-visit-in-new-window-they-are-all-gone-into-the](../sources/fxa302-week09-transcript-visit-in-new-window-they-are-all-gone-into-the.md)

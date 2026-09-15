@@ -6,6 +6,7 @@ confidence: high
 tags: ["medical-education"]
 sources:
   - fxa101-week00-the-employment-of-art-therapy-to-develop-empathy-and-foster
+  - fxa300-week10-the-owners-manual-to-the-voice-a-guide-for-singers-and
   - fxa301-week03-art-for-better-health-and-wellbeing
   - fxa302-week01-exploring-the-medical-humanities
   - fxa302-week01-medicine-within-health-humanities
@@ -25,7 +26,7 @@ sources:
   - fxa302-week03-why-med-schools-are-requiring-students-to-take-art-classes
   - fxa302-week03-why-teachers-and-learners-of-medicine-need-portraiture
   - psy214-week07-an-adapted-four-week-mindbody-skills-group-for-medical
-updated: 2026-08-08
+updated: 2026-09-15
 ---
 
 ## Medical Education Through The Arts
@@ -45,6 +46,7 @@ The integration of arts within medical education presents a multifaceted approac
 ## Sources
 
 - [fxa101-week00-the-employment-of-art-therapy-to-develop-empathy-and-foster](../sources/fxa101-week00-the-employment-of-art-therapy-to-develop-empathy-and-foster.md)
+- [fxa300-week10-the-owners-manual-to-the-voice-a-guide-for-singers-and](../sources/fxa300-week10-the-owners-manual-to-the-voice-a-guide-for-singers-and.md)
 - [fxa301-week03-art-for-better-health-and-wellbeing](../sources/fxa301-week03-art-for-better-health-and-wellbeing.md)
 - [fxa302-week01-exploring-the-medical-humanities](../sources/fxa302-week01-exploring-the-medical-humanities.md)
 - [fxa302-week01-medicine-within-health-humanities](../sources/fxa302-week01-medicine-within-health-humanities.md)

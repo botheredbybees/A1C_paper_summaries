@@ -6,8 +6,9 @@ confidence: medium
 tags: ["musical-development"]
 sources:
   - fxa300-week08-musical-development-and-education
+  - fxa300-week10-the-influence-of-solo-performance-opportunities-on-self
   - fxa301-week02-current-emotion-research-in-music-psychology
-updated: 2026-08-31
+updated: 2026-09-15
 ---
 
 ## Musical Development
@@ -27,4 +28,5 @@ Musical development, as explored in the provided sources, is a multifaceted proc
 ## Sources
 
 - [fxa300-week08-musical-development-and-education](../sources/fxa300-week08-musical-development-and-education.md)
+- [fxa300-week10-the-influence-of-solo-performance-opportunities-on-self](../sources/fxa300-week10-the-influence-of-solo-performance-opportunities-on-self.md)
 - [fxa301-week02-current-emotion-research-in-music-psychology](../sources/fxa301-week02-current-emotion-research-in-music-psychology.md)

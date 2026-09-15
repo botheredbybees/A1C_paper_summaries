@@ -7,13 +7,15 @@ doi: https://doi.org/10.4324/9781003460244-15
 appearances:
   - unit: FXA300
     week: "07"
+  - unit: FXA300
+    week: "10"
 tags: ["nature-vs-nurture", "musical-ability", "genetic-influence", "environmental-factors", "musical-talent", "heritability", "fxa300", "nature-versus-nurture", "musical-aptitude", "genetic-predisposition"]
 key_concepts: ["nature versus nurture", "musical aptitude", "genetic predisposition"]
 methods: ["case study", "systematic review"]
 slug: fxa300-week07-the-musical-person
 related: ["environmental-factors", "genetic-predisposition", "nature-vs-nurture"]
 created: 2026-08-17
-updated: 2026-08-17
+updated: 2026-09-15
 ---
 
 _All claims sourced from ../raw/pdf/fxa300-week07-the-musical-person.md_

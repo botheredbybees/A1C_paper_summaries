@@ -9,13 +9,15 @@ appearances:
     week: "02"
   - unit: FXA300
     week: "03"
+  - unit: FXA300
+    week: "10"
 tags: ["music-psychology", "human-experience", "cultural-impact", "economic-effects", "cross-disciplinary-research", "fxa300", "cross-cultural-analysis"]
 key_concepts: ["music-psychology", "cross-cultural-analysis", "neuroscience-of-music"]
 methods: ["literature-review"]
 slug: fxa300-week02-music-in-the-human-experience-an-introduction-to-music
 related: ["cross-disciplinary-research", "cultural-impact", "human-experience", "music-psychology"]
 created: 2026-07-13
-updated: 2026-07-21
+updated: 2026-09-15
 ---
 
 _All claims sourced from ../raw/pdf/fxa300-week02-music-in-the-human-experience-an-introduction-to-music.md_

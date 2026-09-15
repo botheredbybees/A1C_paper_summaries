@@ -11,7 +11,7 @@ tags: ["biophilia", "human-nature-connection", "biodiversity-conservation", "eco
 key_concepts: ["biophilia", "biodiversity", "genome-evolution", "ecological-systems"]
 methods: ["literature-review"]
 slug: fxa202-week08-reading-notes-from-biophilia-by-edward-o-wilson
-related: ["biodiversity-conservation", "biophilia"]
+related: ["biodiversity-conservation", "biophilia", "evolutionary-biology"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -47,3 +47,4 @@ This chapter contains reading notes from Edward O. Wilson's book 'Biophilia,' wh
 
 - [biodiversity-conservation](../topics/biodiversity-conservation.md)
 - [biophilia](../topics/biophilia.md)
+- [evolutionary-biology](../topics/evolutionary-biology.md)

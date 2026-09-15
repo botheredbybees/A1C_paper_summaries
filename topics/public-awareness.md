@@ -6,8 +6,9 @@ confidence: medium
 tags: ["public-awareness"]
 sources:
   - fxa100-week01-dementia-in-australia
+  - fxa300-week10-music-in-the-human-experience-an-introduction-to-music
   - fxa302-week07-good-arts-good-mental-health-the-effectiveness-of-an
-updated: 2026-08-07
+updated: 2026-09-15
 ---
 
 ## Public Awareness Campaigns for Health and Wellbeing
@@ -26,4 +27,5 @@ The integration of public awareness campaigns in enhancing societal health outco
 ## Sources
 
 - [fxa100-week01-dementia-in-australia](../sources/fxa100-week01-dementia-in-australia.md)
+- [fxa300-week10-music-in-the-human-experience-an-introduction-to-music](../sources/fxa300-week10-music-in-the-human-experience-an-introduction-to-music.md)
 - [fxa302-week07-good-arts-good-mental-health-the-effectiveness-of-an](../sources/fxa302-week07-good-arts-good-mental-health-the-effectiveness-of-an.md)

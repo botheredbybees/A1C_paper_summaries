@@ -14,6 +14,7 @@ updated: 2026-09-15
 - [Reading Anna Freud: Advocacy and Relevance in Child Mental Health](../sources/fxa101-week09-reading-anna-freud-advocacy-and-relevance-in-child-mental.md)
 - [Music and Movement for Health: an arts-based Intervention to promote health and wellbeing of community dwelling older adults in Ireland](../sources/fxa300-week05-music-and-movement-for-health-an-arts-based-intervention-to.md)
 - [Inventing Conflicts of Interest: A History of Tobacco Industry Tactics](../sources/fxa300-week06-web-article-brandt-2012.md)
+- [Perspectives in Performing Arts Medicine Practice II](../sources/fxa300-week10-perspectives-in-performing-arts-medicine-practice-ii.md)
 - [Art Is the Evidence: Convincing Public Communication of Art-Based Research and Its Outcomes](../sources/fxa301-applied-artes-and-health-ch01-2021-graff.md)
 - [Theoretical Background to Arts in Health](../sources/fxa301-arts-in-health-ch04-48-haldane-d.md)
 - [The value of music for public health](../sources/fxa301-oxford-textbook-of-creative-arts-ch07-chapter-26.md)

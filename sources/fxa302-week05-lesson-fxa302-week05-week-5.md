@@ -11,7 +11,7 @@ tags: ["hearing-loss", "musicianship", "neurology-of-sound", "fxa302", "hearing-
 key_concepts: ["Hearing Mechanics", "Sensorineural Hearing Loss", "Conductive Hearing Loss"]
 methods: []
 slug: fxa302-week05-lesson-fxa302-week05-week-5
-related: ["hearing-loss", "hearing-mechanics"]
+related: ["hearing-loss", "hearing-mechanics", "musicianship"]
 created: 2026-08-03
 updated: 2026-08-03
 ---
@@ -44,3 +44,4 @@ This week's lesson in FXA302 focuses on the impacts of hearing loss and deafness
 
 - [hearing-loss](../topics/hearing-loss.md)
 - [hearing-mechanics](../topics/hearing-mechanics.md)
+- [musicianship](../topics/musicianship.md)

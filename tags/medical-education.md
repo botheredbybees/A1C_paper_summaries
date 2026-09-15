@@ -7,6 +7,7 @@ updated: 2026-09-15
 ## Medical Education
 
 - [The Employment of Art Therapy to Develop Empathy and Foster Well-being for Junior Doctors in a Palliative Medicine Rotation: A Qualitative Exploratory Study on Acceptability](../sources/fxa101-week00-the-employment-of-art-therapy-to-develop-empathy-and-foster.md)
+- [The Owner's Manual to the Voice: A Guide for Singers and Other Professional Voice Users](../sources/fxa300-week10-the-owners-manual-to-the-voice-a-guide-for-singers-and.md)
 - [Art for better health and wellbeing](../sources/fxa301-week03-art-for-better-health-and-wellbeing.md)
 - [Exploring the medical humanities](../sources/fxa302-week01-exploring-the-medical-humanities.md)
 - [Medicine within Health Humanities](../sources/fxa302-week01-medicine-within-health-humanities.md)

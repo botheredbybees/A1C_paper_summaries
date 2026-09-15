@@ -9,6 +9,7 @@ sources:
   - fxa300-week05-global-music-streaming-data-reveal-diurnal-and-seasonal
   - fxa300-week05-self-selected-favourite-stimulative-and-sedative-music
   - fxa300-week09-listening-to-music-and-physiological-and-psychological
+  - fxa300-week10-mapping-the-relationship-between-flow-experience-and-music
   - fxa301-week02-the-brain-and-how-we-perceive-information
   - fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and
   - fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd
@@ -54,6 +55,7 @@ The synthesis integrates various aspects of emotional regulation across diverse 
 - [fxa300-week05-global-music-streaming-data-reveal-diurnal-and-seasonal](../sources/fxa300-week05-global-music-streaming-data-reveal-diurnal-and-seasonal.md)
 - [fxa300-week05-self-selected-favourite-stimulative-and-sedative-music](../sources/fxa300-week05-self-selected-favourite-stimulative-and-sedative-music.md)
 - [fxa300-week09-listening-to-music-and-physiological-and-psychological](../sources/fxa300-week09-listening-to-music-and-physiological-and-psychological.md)
+- [fxa300-week10-mapping-the-relationship-between-flow-experience-and-music](../sources/fxa300-week10-mapping-the-relationship-between-flow-experience-and-music.md)
 - [fxa301-week02-the-brain-and-how-we-perceive-information](../sources/fxa301-week02-the-brain-and-how-we-perceive-information.md)
 - [fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and](../sources/fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and.md)
 - [fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd](../sources/fxa301-week10-creative-artistic-and-expressive-therapies-for-ptsd.md)

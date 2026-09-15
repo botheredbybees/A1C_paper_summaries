@@ -3,6 +3,7 @@ confidence: medium
 domain: intervention
 slug: physiological-responses-to-music-and-sound
 sources:
+  - fxa300-week10-changing-the-conceptualization-of-stress-in-social-anxiety
   - fxa301-oxford-textbook-of-creative-arts-ch08-96-clift
   - fxa301-week02-empathy-manipulation-impacts-music-induced-emotions-a
   - fxa303-week08-physiological-and-emotional-responses-of-disabled-children
@@ -10,7 +11,7 @@ tags:
 - physiological-responses
 title: Physiological Responses to Music and Sound
 type: topic
-updated: 2026-05-11
+updated: 2026-09-15
 ---
 
 ## Physiological Responses to Music and Sound
@@ -29,6 +30,7 @@ The exploration of physiological responses to music and sound stimuli reveals a 
 
 ## Sources
 
+- [fxa300-week10-changing-the-conceptualization-of-stress-in-social-anxiety](../sources/fxa300-week10-changing-the-conceptualization-of-stress-in-social-anxiety.md)
 - [fxa301-oxford-textbook-of-creative-arts-ch08-96-clift](../sources/fxa301-oxford-textbook-of-creative-arts-ch08-96-clift.md)
 - [fxa301-week02-empathy-manipulation-impacts-music-induced-emotions-a](../sources/fxa301-week02-empathy-manipulation-impacts-music-induced-emotions-a.md)
 - [fxa303-week08-physiological-and-emotional-responses-of-disabled-children](../sources/fxa303-week08-physiological-and-emotional-responses-of-disabled-children.md)

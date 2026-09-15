@@ -11,7 +11,7 @@ tags: ["adolescent-development", "music-influence", "psychosocial-growth", "iden
 key_concepts: ["developmental-psychology", "cross-disciplinary-research"]
 methods: ["empirical-research"]
 slug: fxa303-week03-the-role-of-music-in-adolescent-development-much-more-than
-related: ["adolescent-development", "identity-formation", "social-interaction"]
+related: ["adolescent-development", "identity-formation", "music-influence", "social-interaction"]
 created: 2026-05-03
 updated: 2026-05-03
 ---
@@ -45,4 +45,5 @@ This article explores the significant role of music in adolescent development, e
 
 - [adolescent-development](../topics/adolescent-development.md)
 - [identity-formation](../topics/identity-formation.md)
+- [music-influence](../topics/music-influence.md)
 - [social-interaction](../topics/social-interaction.md)

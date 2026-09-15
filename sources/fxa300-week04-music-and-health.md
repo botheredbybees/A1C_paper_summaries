@@ -15,7 +15,7 @@ tags: ["music-therapy", "health-wellness", "performing-arts-medicine", "music-me
 key_concepts: ["therapeutic-relationship", "interdisciplinary-approach", "patient-care-through-music"]
 methods: ["literature-review"]
 slug: fxa300-week04-music-and-health
-related: ["health-wellness", "interdisciplinary-approach", "music-therapy"]
+related: ["health-wellness", "interdisciplinary-approach", "music-medicine", "music-therapy", "performing-arts-medicine"]
 created: 2026-07-28
 updated: 2026-08-17
 ---
@@ -48,4 +48,6 @@ The chapter 'Music and Health' discusses the roles of music therapy, performing 
 
 - [health-wellness](../topics/health-wellness.md)
 - [interdisciplinary-approach](../topics/interdisciplinary-approach.md)
+- [music-medicine](../topics/music-medicine.md)
 - [music-therapy](../topics/music-therapy.md)
+- [performing-arts-medicine](../topics/performing-arts-medicine.md)

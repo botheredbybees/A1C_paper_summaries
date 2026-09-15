@@ -11,7 +11,7 @@ tags: ["narrative-based-medicine", "patient-doctor-relationship", "medical-pract
 key_concepts: ["narrative-based medicine", "four divides", "healing power of narrative"]
 methods: ["case study"]
 slug: fxa302-week01-narrative-based-medicine
-related: ["communication-skills", "empathy-in-healthcare"]
+related: ["communication-skills", "empathy-in-healthcare", "medical-practice"]
 created: 2026-07-06
 updated: 2026-07-06
 ---
@@ -45,3 +45,4 @@ The article by George Zaharias explores narrative-based medicine (NBM) as a valu
 
 - [communication-skills](../topics/communication-skills.md)
 - [empathy-in-healthcare](../topics/empathy-in-healthcare.md)
+- [medical-practice](../topics/medical-practice.md)

@@ -10,6 +10,11 @@ sources:
   - fxa300-week06-in-home-online-music-based-intervention-for-stress-coping
   - fxa300-week09-listening-to-music-and-physiological-and-psychological
   - fxa300-week09-music-listening-as-a-means-of-stress-reduction-in-daily-life
+  - fxa300-week10-changing-the-conceptualization-of-stress-in-social-anxiety
+  - fxa300-week10-lesson-fxa300-week10-page-2-instruments-and-injuries
+  - fxa300-week10-lesson-fxa300-week10-page-4-performance-anxiety
+  - fxa300-week10-the-occurrence-of-performance-anxiety-among-musicians
+  - fxa300-week10-transcript-duration-450
   - fxa301-week02-the-influence-of-stress-optimism-and-music-training-on
   - fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and
   - fxa303-week03-creative-arts-interventions-for-stress-management-and
@@ -87,6 +92,11 @@ The exploration of stress management interventions across multiple sources highl
 - [fxa300-week06-in-home-online-music-based-intervention-for-stress-coping](../sources/fxa300-week06-in-home-online-music-based-intervention-for-stress-coping.md)
 - [fxa300-week09-listening-to-music-and-physiological-and-psychological](../sources/fxa300-week09-listening-to-music-and-physiological-and-psychological.md)
 - [fxa300-week09-music-listening-as-a-means-of-stress-reduction-in-daily-life](../sources/fxa300-week09-music-listening-as-a-means-of-stress-reduction-in-daily-life.md)
+- [fxa300-week10-changing-the-conceptualization-of-stress-in-social-anxiety](../sources/fxa300-week10-changing-the-conceptualization-of-stress-in-social-anxiety.md)
+- [fxa300-week10-lesson-fxa300-week10-page-2-instruments-and-injuries](../sources/fxa300-week10-lesson-fxa300-week10-page-2-instruments-and-injuries.md)
+- [fxa300-week10-lesson-fxa300-week10-page-4-performance-anxiety](../sources/fxa300-week10-lesson-fxa300-week10-page-4-performance-anxiety.md)
+- [fxa300-week10-the-occurrence-of-performance-anxiety-among-musicians](../sources/fxa300-week10-the-occurrence-of-performance-anxiety-among-musicians.md)
+- [fxa300-week10-transcript-duration-450](../sources/fxa300-week10-transcript-duration-450.md)
 - [fxa301-week02-the-influence-of-stress-optimism-and-music-training-on](../sources/fxa301-week02-the-influence-of-stress-optimism-and-music-training-on.md)
 - [fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and](../sources/fxa301-week08-humor-and-resiliency-towards-a-process-model-of-coping-and.md)
 - [fxa303-week03-creative-arts-interventions-for-stress-management-and](../sources/fxa303-week03-creative-arts-interventions-for-stress-management-and.md)

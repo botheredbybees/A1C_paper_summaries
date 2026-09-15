@@ -7,9 +7,12 @@ tags: ["music-performance"]
 sources:
   - fxa100-week02-transcript-beethoven-symphony-no-9-fourth-movement-url-only
   - fxa300-week01-editorial-connecting-music-and-body-movement-choreographic
+  - fxa300-week10-mapping-the-relationship-between-flow-experience-and-music
+  - fxa300-week10-the-occurrence-of-performance-anxiety-among-musicians
+  - fxa300-week10-transcript-composed-documentary-trailer
   - fxa301-week11-the-man-who-plays-french-horn-with-his-toes
   - fxa302-week05-transcript-posted-by-steve-longo-2012
-updated: 2026-08-07
+updated: 2026-09-15
 ---
 
 ## Music Performance Challenges and Creativity
@@ -30,5 +33,8 @@ The synthesis of music performance challenges and creativity reveals a rich inte
 
 - [fxa100-week02-transcript-beethoven-symphony-no-9-fourth-movement-url-only](../sources/fxa100-week02-transcript-beethoven-symphony-no-9-fourth-movement-url-only.md)
 - [fxa300-week01-editorial-connecting-music-and-body-movement-choreographic](../sources/fxa300-week01-editorial-connecting-music-and-body-movement-choreographic.md)
+- [fxa300-week10-mapping-the-relationship-between-flow-experience-and-music](../sources/fxa300-week10-mapping-the-relationship-between-flow-experience-and-music.md)
+- [fxa300-week10-the-occurrence-of-performance-anxiety-among-musicians](../sources/fxa300-week10-the-occurrence-of-performance-anxiety-among-musicians.md)
+- [fxa300-week10-transcript-composed-documentary-trailer](../sources/fxa300-week10-transcript-composed-documentary-trailer.md)
 - [fxa301-week11-the-man-who-plays-french-horn-with-his-toes](../sources/fxa301-week11-the-man-who-plays-french-horn-with-his-toes.md)
 - [fxa302-week05-transcript-posted-by-steve-longo-2012](../sources/fxa302-week05-transcript-posted-by-steve-longo-2012.md)

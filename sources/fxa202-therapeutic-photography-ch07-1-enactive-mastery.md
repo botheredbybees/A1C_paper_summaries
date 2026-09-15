@@ -11,7 +11,7 @@ tags: ["therapeutic-photography", "self-esteem-development", "behavioral-change-
 key_concepts: ["self-efficacy", "cognitive-appraisal", "power-dynamics-in-therapy"]
 methods: []
 slug: fxa202-therapeutic-photography-ch07-1-enactive-mastery
-related: ["therapeutic-photography"]
+related: ["cognitive-appraisal", "therapeutic-photography"]
 created: 2026-08-07
 updated: 2026-08-07
 ---
@@ -41,4 +41,5 @@ The chapter discusses the importance of self-esteem and self-efficacy in therape
 
 ## See Also
 
+- [cognitive-appraisal](../topics/cognitive-appraisal.md)
 - [therapeutic-photography](../topics/therapeutic-photography.md)

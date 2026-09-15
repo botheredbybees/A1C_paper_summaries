@@ -11,6 +11,7 @@ updated: 2026-09-15
 - [Lecture Transcript: Week 3 - The Photo Essay](../sources/fxa202-week03-lecture-transcript-week-3-the-photo-essay.md)
 - [Week 8 Activities: Music and Health](../sources/fxa300-week08-lesson-fxa300-week08-page-4-activities.md)
 - [Listening to music and physiological and psychological functioning: The mediating role of emotion regulation and stress reactivity](../sources/fxa300-week09-listening-to-music-and-physiological-and-psychological.md)
+- [Eight Signs You May Have Performance Anxiety](../sources/fxa300-week10-transcript-duration-450.md)
 - [Beyond Expressive Writing: Evolving Models of Developmental Creative Writing](../sources/fxa301-week08-beyond-expressive-writing-evolving-models-of-developmental.md)
 - [Stress as a Stimulus: Stressors](../sources/psy214-week01-lesson-psy214-week01-stress-as-a-psychological-process.md)
 - [Positive Emotions and Well-being](../sources/psy214-week02-positive-emotions-and-well-being.md)

@@ -11,7 +11,7 @@ tags: ["positive-emotions", "well-being-theory", "emotional-regulation", "psy214
 key_concepts: ["broaden-and-build theory", "undo hypothesis", "stress buffering"]
 methods: ["theoretical framework"]
 slug: psy214-week02-positive-emotions-as-a-path-to-well-being
-related: ["broaden-and-build-theory", "emotional-regulation", "positive-emotions", "undo-hypothesis", "well-being-theory"]
+related: ["broaden-and-build-theory", "emotional-regulation", "positive-emotions", "stress-buffering", "undo-hypothesis", "well-being-theory"]
 created: 2026-07-13
 updated: 2026-07-13
 ---
@@ -45,5 +45,6 @@ The document presents the concept of positive emotions as a critical component i
 - [broaden-and-build-theory](../topics/broaden-and-build-theory.md)
 - [emotional-regulation](../topics/emotional-regulation.md)
 - [positive-emotions](../topics/positive-emotions.md)
+- [stress-buffering](../topics/stress-buffering.md)
 - [undo-hypothesis](../topics/undo-hypothesis.md)
 - [well-being-theory](../topics/well-being-theory.md)

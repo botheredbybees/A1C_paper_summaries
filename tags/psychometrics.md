@@ -8,3 +8,4 @@ updated: 2026-09-15
 
 - [Psychometric Properties](../sources/fxa100-week13-psychometric-properties.md)
 - [The Activities-specific Balance Confidence (ABC) Scale in Youth with Visual Impairments: Psychometrics and a Population-specific Short Form](../sources/fxa100-week13-the-activities-specific-balance-confidence-abc-scale-in.md)
+- [A Short Performance Anxiety Scale for Musicians](../sources/fxa300-week10-a-short-performance-anxiety-scale-for-musicians.md)

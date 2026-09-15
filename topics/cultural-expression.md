@@ -3,13 +3,14 @@ confidence: medium
 domain: intervention
 slug: cultural-expression-through-hip-hop-and-arts-informed-research
 sources:
+  - fxa300-week10-music-in-the-human-experience-reflections-of-society-in
   - fxa303-week10-diamonds-in-the-backyard-migrant-youth-and-hip-hop-in
   - fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to
 tags:
 - cultural-expression
 title: Cultural Expression Through Hip Hop and Arts-Informed Research
 type: topic
-updated: 2026-05-11
+updated: 2026-09-15
 ---
 
 ## Cultural Expression Through Hip Hop and Arts-Informed Research
@@ -28,5 +29,6 @@ The synthesis of cultural expression through hip hop and arts-informed research 
 
 ## Sources
 
+- [fxa300-week10-music-in-the-human-experience-reflections-of-society-in](../sources/fxa300-week10-music-in-the-human-experience-reflections-of-society-in.md)
 - [fxa303-week10-diamonds-in-the-backyard-migrant-youth-and-hip-hop-in](../sources/fxa303-week10-diamonds-in-the-backyard-migrant-youth-and-hip-hop-in.md)
 - [fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to](../sources/fxa303-week10-refugee-youth-and-migration-using-arts-informed-research-to.md)

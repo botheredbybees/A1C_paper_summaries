@@ -6,8 +6,9 @@ confidence: medium
 tags: ["affective-reactions"]
 sources:
   - fxa300-week05-the-structure-of-musical-preferences-a-five-factor-model
+  - fxa300-week10-changing-the-conceptualization-of-stress-in-social-anxiety
   - fxa301-week02-neckers-smile-immediate-affective-consequences-of-early
-updated: 2026-08-03
+updated: 2026-09-15
 ---
 
 ## Affective Reactions to Music
@@ -27,4 +28,5 @@ The sources collectively explore the affective and emotional aspects of human re
 ## Sources
 
 - [fxa300-week05-the-structure-of-musical-preferences-a-five-factor-model](../sources/fxa300-week05-the-structure-of-musical-preferences-a-five-factor-model.md)
+- [fxa300-week10-changing-the-conceptualization-of-stress-in-social-anxiety](../sources/fxa300-week10-changing-the-conceptualization-of-stress-in-social-anxiety.md)
 - [fxa301-week02-neckers-smile-immediate-affective-consequences-of-early](../sources/fxa301-week02-neckers-smile-immediate-affective-consequences-of-early.md)

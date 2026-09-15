@@ -11,7 +11,7 @@ tags: ["mindfulness", "body-scan", "sitting-meditation", "dispositional-mindfuln
 key_concepts: ["dispositional mindfulness", "mindfulness-based stress reduction (mbsr)", "cognitive therapy"]
 methods: []
 slug: psy214-week08-lesson-psy214-week08-meditation-practices
-related: ["body-scan", "dispositional-mindfulness", "mindfulness", "mindfulness-based-stress-reduction-mbsr", "sitting-meditation"]
+related: ["body-scan", "cognitive-therapy", "dispositional-mindfulness", "mindfulness", "mindfulness-based-stress-reduction-mbsr", "sitting-meditation"]
 created: 2026-08-31
 updated: 2026-08-31
 ---
@@ -45,6 +45,7 @@ This lesson focuses on formal mindfulness practices such as the body scan and si
 ## See Also
 
 - [body-scan](../topics/body-scan.md)
+- [cognitive-therapy](../topics/cognitive-therapy.md)
 - [dispositional-mindfulness](../topics/dispositional-mindfulness.md)
 - [mindfulness](../topics/mindfulness.md)
 - [mindfulness-based-stress-reduction-mbsr](../topics/mindfulness-based-stress-reduction-mbsr.md)
